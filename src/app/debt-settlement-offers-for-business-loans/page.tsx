@@ -207,33 +207,33 @@ export default function BusinessLoanSettlementPage() {
             </section>
 
             <section id="ots-explained" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                 One-Time Settlement (OTS) Schemes: Your Targeted Exit
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 A One-Time Settlement (OTS) is a contract where the bank agrees to accept a lump sum payment that is less than the total outstanding (Principal + Interest + Penalties) and closes the account as 'Settled'. 
               </p>
               <div className="grid md:grid-cols-2 gap-8 mb-8">
                 <div className="p-6 bg-blue-50/50 rounded-2xl border border-blue-100">
-                  <h3 className="text-xl font-bold text-blue-900 mb-4">Why Banks Offer OTS</h3>
+                  <h4 className="text-xl font-bold text-blue-900 mb-4">Why Banks Offer OTS</h4>
                   <p className="text-sm text-blue-800/80 mb-4">Lenders want to clear their Balance Sheets of bad loans. An OTS provides 'Instant Liquidity' which they can reinvest in profitable loans, rather than keeping 'Provisioning' capital against your NPA.</p>
                 </div>
                 <div className="p-6 bg-green-50/50 rounded-2xl border border-green-100">
-                  <h3 className="text-xl font-bold text-green-900 mb-4">Why You Need It</h3>
+                  <h4 className="text-xl font-bold text-green-900 mb-4">Why You Need It</h4>
                   <p className="text-sm text-green-800/80 mb-4">It stops the accrual of massive interest, halts legal proceedings, and releases any collateral or personal guarantees, allowing you to move on with your life or a new venture.</p>
                 </div>
               </div>
             </section>
 
             <section id="rbi-msme-guidelines" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                 RBI MSME Guidelines: The Framework for Fairness
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 The Reserve Bank of India (RBI) has issued several circulars specifically for MSME debt resolution. One of the most critical requirements is that every bank must have a <strong>Board Approved Policy</strong> for compromise settlements. This means the bank manager cannot simply say "we don't do settlements." They are bound by their own internal policy which must follow the spirit of RBI's "Framework for Revival and Rehabilitation of MSMEs."
               </p>
               <div className="p-6 bg-[#2B2B2B] text-[#DEDEDE] rounded-2xl mb-8 border-l-4 border-[#1F5EFF]">
-                <h3 className="font-bold text-xl mb-3 uppercase tracking-widest text-[#1F5EFF]">Pro Tip</h3>
+                <h4 className="font-bold text-xl mb-3 uppercase tracking-widest text-[#1F5EFF]">Pro Tip</h4>
                 <p className="leading-[1.4]">
                   If a branch manager refuses to discuss a settlement, you can escalate to the Zonal Office or the Nodal Officer, citing the bank's requirement to have an MSME settlement policy under RBI guidelines.
                 </p>
@@ -241,18 +241,18 @@ export default function BusinessLoanSettlementPage() {
             </section>
 
             <section id="legal-protections" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                 Legal Protections for Promoters: Beyond the Guarantee
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 While a personal guarantee is powerful, it is not absolute. Indian courts and the Insolvency and Bankruptcy Code (IBC) have provided various guards. For instance, if the bank makes significant changes to the loan terms without the guarantor's consent, the guarantee can sometimes be challenged. Furthermore, the 'Right of Subrogation' means that if a guarantor pays the debt, they step into the shoes of the bank. Professional debt services use these legal nuances to create 'Negotiation Leverage'.
               </p>
             </section>
 
             <section id="cgtmse-leverage" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                 The CGTMSE Leverage: A Hidden Advantage
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">                Many business loans up to ₹5 crore are covered by the <strong>Credit Guarantee Fund Trust for Micro and Small Enterprises (CGTMSE)</strong>. In such cases, if you default, the CGTMSE pays the bank up to 75-85% of the loss. 
               </p>
               <p className="text-lg leading-relaxed mb-6 text-blue-600 font-bold">
@@ -261,9 +261,9 @@ export default function BusinessLoanSettlementPage() {
             </section>
 
             <section id="negotiating-with-banks" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                 Negotiating with Banks: The "Proof of Failure" Strategy
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 Lenders only settle when they are convinced they cannot get more money through recovery. Your negotiation must be based on 'Hardship Evidence'. 
               </p>
@@ -284,52 +284,52 @@ export default function BusinessLoanSettlementPage() {
             </section>
 
             <section id="nbfc-vs-bank-business" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                 NBFC vs. Bank Business Loan Settlements
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 Banks (especially PSBs) are slow but follow clear logic. NBFCs (like Bajaj, Aditya Birla, etc.) are much faster and can be more aggressive with their recovery teams. However, NBFCs are also more 'Business Oriented'. They often calculate the IRR (Internal Rate of Return) on your settlement offer. If your offer provides them with a decent return compared to the risk of holding the NPA, they will close the deal within weeks.
               </p>
             </section>
 
             <section id="impact-of-guarantees" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                 The Impact of Personal Guarantees: Breaking the Chains
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 When you settle a business loan, the most critical document is the 'Release of Personal Guarantee'. Without this, the bank could theoretically come after you personally later, even if the business entity has been cleared. A professional service ensures that the settlement letter explicitly states that all personal and corporate guarantees are revoked and all original title deeds are returned.
               </p>
             </section>
 
             <section id="restructuring-options" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                 Restructuring vs. Settlement: The Growth Decision
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">                If the core business is still strong but facing a temporary cash flow crisis, <strong>Restructuring</strong> (longer tenure, lower EMI) is better as it keeps your credit score alive. But if the business model is no longer viable, <strong>Settlement</strong> is the only way to "stop the bleeding."
               </p>
             </section>
 
             <section id="liquidation-math" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                 The Liquidation Math: Winning the Bank Over
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 In a secured loan settlement, the bank performs a 'Valuation'. If they take your property to auction, they will likely get the 'Distress Value' (which is 20-25% lower than market value) and pay high legal costs. If your settlement offer matches or slightly exceeds this Net Present Value (NPV), the bank's internal recovery audit will approve it.
               </p>
             </section>
 
             <section id="msme-samadhaan" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                 Using MSME Samadhaan to Fund Your Settlement
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">                Many MSMEs fail because their buyers don't pay. Before settling with your bank, use the <strong>MSME Samadhaan portal</strong> to file cases against your debtors. The council mandates payment within 45 days. Winning these cases provides the liquidity needed to make a strong lump-sum offer for your own loan settlement.
               </p>
             </section>
 
             <section id="common-business-pitfalls" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                 Common Business Pitfalls to Avoid
-              </h2>
+              </h3>
               <ul className="space-y-4 mb-8">
                 <li className="flex gap-4 p-4 bg-red-50 rounded-xl">
                   <span className="text-red-500 font-bold">⚠️</span>
@@ -343,34 +343,34 @@ export default function BusinessLoanSettlementPage() {
             </section>
 
             <section id="documenting-hardship" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                 Documenting Business Hardship: Your "Story" for the Bank
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 A settlement file in a bank needs a narrative. You must provide a formal 'Rehabilitation Proposal' or 'Settlement Request Letter' that details exactly when and why the business started failing. Include things like market changes, technological obsolescence, or regulatory changes that made your business unviable.
               </p>
             </section>
 
             <section id="rebuilding-company-credit" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                 Rebuilding Company Credit: The Road to v2.0
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 After a business settlement, the company's credit rating (like CRISIL or CARE) will be impacted. However, many entrepreneurs start their second business as a fresh legal entity (New Private Limited or LLP). By ensuring the first settlement was handled smoothly and all legal dues were cleared, the promoter's reputation remains salvageable for future ventures.
               </p>
             </section>
 
             <section id="fresh-start-strategy" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                 The Fresh Start Strategy: Your Next 12 Months
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 Upon receiving your No Dues Certificate, immediately update your information with platforms like CIBIL and Credit Information Bureau of India. Focus on bootstrapping or equity funding for your next project, as bank debt will be difficult to secure for some time. This 'Detox Period' is a great time to build a more resilient, lean business model.
               </p>
             </section>
 
             <section id="success-stories" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 text-center uppercase tracking-wider">Real Stories of Freedom</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 text-center uppercase tracking-wider">Real Stories of Freedom</h3>
               <div className="grid md:grid-cols-2 gap-6 not-prose">
                 {[
                   {
@@ -408,7 +408,7 @@ export default function BusinessLoanSettlementPage() {
                         {review.name.charAt(0)}
                       </div>
                       <div>
-                        <h3 className="font-bold text-[#2E2E2E]">{review.name}</h3>
+                        <h4 className="font-bold text-[#2E2E2E]">{review.name}</h4>
                         <p className="text-xs text-gray-400">{review.loc}</p>
                       </div>
                       <div className="ml-auto text-yellow-400 text-sm">★★★★★</div>
@@ -423,7 +423,7 @@ export default function BusinessLoanSettlementPage() {
             </section>
 
             <section id="faqs" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 uppercase tracking-wider">Frequently Asked Questions</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 uppercase tracking-wider">Frequently Asked Questions</h3>
               <div className="space-y-4 not-prose">
                 {faqs.map((faq, i) => (
                   <details key={i} className="group bg-white border border-[#DEDEDE] rounded-xl overflow-hidden hover:shadow-md transition-all border-b-4 border-b-[#1F5EFF]/20">

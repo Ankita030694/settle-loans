@@ -115,7 +115,7 @@ const jsonLdGraph = {
       "@type": "FinancialService",
       "@id": "https://www.settleloans.in/unsecured-business-loan-settlement#service",
       "name": "SettleLoans - Unsecured Business Loan Settlement & MSME Debt Resolution",
-      "description": "Strategic legal defense and debt negotiation advisory for small business owners and corporate directors facing unsecured working capital loan defaults, personal guarantee invocations, and multi-lender debt distress.",
+      "description": "Strategic legal defense and debt talks advisory for small business owners and corporate directors facing unsecured working capital loan defaults, personal guarantee invocations, and multi-lender debt distress.",
       "url": "https://www.settleloans.in/unsecured-business-loan-settlement",
       "image": "https://www.settleloans.in/images/infographics/unsecured-business-loan-settlement.jpg",
       "telephone": "+91-99999-99999",
@@ -213,7 +213,7 @@ const jsonLdGraph = {
           "name": "How does an unsecured business loan settlement differ from a retail personal loan settlement?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Unlike retail personal loans that assess individual salary slips, business loan settlements evaluate enterprise financial health, GST returns, audited profit and loss accounts, and corporate entity structures. Lenders scrutinize personal guarantees executed by directors or partners and verify that business closure was caused by involuntary commercial insolvency rather than fraudulent fund diversion before sanctioning compromise haircuts under RBI guidelines."
+            "text": "Unlike retail personal loans that assess person salary slips, business loan settlements evaluate enterprise financial health, GST returns, audited profit and loss accounts, and corporate entity structures. Lenders scrutinize personal guarantees executed by directors or partners and verify that business closure was caused by involuntary commercial insolvency rather than fraudulent fund diversion before sanctioning compromise haircuts under RBI guidelines."
           }
         },
         {
@@ -229,7 +229,7 @@ const jsonLdGraph = {
           "name": "What is the role of a Personal Guarantee in unsecured business loan recovery?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "In India, banks and NBFCs mandate that directors, partners, or proprietors execute personal guarantees under Sections 126 and 128 of the Indian Contract Act, 1872. This creates co-extensive liability, allowing lenders to pursue the individual guarantor alongside the enterprise. However, a properly negotiated One-Time Settlement (OTS) explicitly mandates the unconditional discharge and cancellation of all personal guarantees in the final sanction letter."
+            "text": "In India, banks and NBFCs mandate that directors, partners, or proprietors execute personal guarantees under Sections 126 and 128 of the Indian Contract Act, 1872. This creates co-extensive liability, allowing lenders to pursue the person guarantor alongside the enterprise. However, a properly negotiated One-Time Settlement (OTS) explicitly mandates the unconditional discharge and cancellation of all personal guarantees in the final sanction letter."
           }
         },
         {
@@ -245,12 +245,12 @@ const jsonLdGraph = {
           "name": "How do banks verify whether a business failure is genuine or willful default?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Bank Credit Committees inspect GSTR-3B and GSTR-1 filings, bank account statements across all operating banks, income tax returns (ITR-V), and audited balance sheets. They verify that loan proceeds were utilized for bona fide business operations (working capital, vendor payments, payroll) rather than siphoned off into personal investments or undisclosed entities."
+            "text": "Bank Credit Committees inspect GSTR-3B and GSTR-1 filings, bank account statements across all operating banks, income tax returns (ITR-V), and audited balance sheets. They verify that loan proceeds were used for bona fide business operations (working capital, vendor payments, payroll) rather than siphoned off into personal investments or undisclosed entities."
           }
         },
         {
           "@type": "Question",
-          "name": "Can a bank initiate Debt Recovery Tribunal (DRT) proceedings for an unsecured business loan?",
+          "name": "Can a bank start Debt Recovery Tribunal (DRT) cases for an unsecured business loan?",
           "acceptedAnswer": {
             "@type": "Answer",
             "text": "Under the Recovery of Debts and Bankruptcy Act (RDB Act), 1993, a bank or financial institution can approach the DRT only if the total aggregate default across facilities with that specific lender equals or exceeds ₹20 Lakhs. For defaults below ₹20 Lakhs, DRT is legally barred, restricting the lender to civil suits, arbitration, or compromise OTS."
@@ -269,7 +269,7 @@ const jsonLdGraph = {
           "name": "How does settling an unsecured business loan affect the director's personal CIBIL and Commercial CIBIL (CMR)?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "The loan account is marked as 'Settled' with a ₹0 balance in both the enterprise Commercial CIBIL report (Company Credit Report) and the individual director's personal CIBIL report. While this temporarily impacts credit scores, it eliminates active default markers, allows business owners to rebuild credit within 18 to 24 months, and removes names from high-risk monitoring lists."
+            "text": "The loan account is marked as 'Settled' with a ₹0 balance in both the enterprise Commercial CIBIL report (Company Credit Report) and the person director's personal CIBIL report. While this temporarily impacts credit scores, it eliminates active default markers, allows business owners to rebuild credit within 18 to 24 months, and removes names from high-risk monitoring lists."
           }
         }
       ]

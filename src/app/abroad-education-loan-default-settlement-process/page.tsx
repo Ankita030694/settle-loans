@@ -508,7 +508,7 @@ export default function AbroadEducationLoanDefaultSettlementPage() {
 
             {/* Section 2: Co-Borrower Parent Liability & Contract Act */}
             <section id="co-borrower-parent-liability-contract-act" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">2. Legal Status of Co-Borrowers &amp; Parents</h2>
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">2. Legal Status of Co-Borrowers &amp; Parents</h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 In most study abroad loans, banks ask parents to sign as a &quot;Co-Borrower&quot. or &quot;Co-Obligant&quot;. Under <strong>Section 128 of the Indian Contract Act, 1872</strong>, the liability of a co-borrower is equal to the principal debtor. This lets lenders ask parents in India for money when the student defaults overseas. The bank does not have to exhaust all foreign steps first.
               </p>
@@ -542,34 +542,34 @@ export default function AbroadEducationLoanDefaultSettlementPage() {
 
             {/* Section 3: Statutory Protections for Aging Parents */}
             <section id="statutory-shields-for-aging-parents" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">3. Statutory Protections for Aging Parents</h2>
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">3. Statutory Protections for Aging Parents</h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 When study loans cross 60 to 90 days past due, collection agents often target resident parents. They make unannounced home visits and threatening phone calls. Indian law gives strong statutory tools to stop this abuse immediately:
               </p>
 
               <div className="space-y-3 my-4">
                 <div className="p-4 rounded-xl border-l-4 border-blue-600 bg-slate-50 space-y-1">
-                  <h3 className="font-bold text-slate-900 text-xs sm:text-sm">
+                  <h4 className="font-bold text-slate-900 text-xs sm:text-sm">
                     1. Maintenance and Welfare of Parents and Senior Citizens Act, 2007
-                  </h3>
+                  </h4>
                   <p className="text-xs text-slate-600 leading-relaxed">
                     Under this law, senior citizens aged 60 and above have a legal right to live with dignity. Harassing elderly parents causes illegal mental cruelty. Parents can file a complaint before the Maintenance Tribunal headed by the Sub-Divisional Magistrate (SDM). The SDM can issue protection orders and direct police aid.
                   </p>
                 </div>
 
                 <div className="p-4 rounded-xl border-l-4 border-indigo-600 bg-slate-50 space-y-1">
-                  <h4 className="font-bold text-slate-900 text-xs sm:text-sm">
+                  <h5 className="font-bold text-slate-900 text-xs sm:text-sm">
                     2. RBI Master Directions on Recovery Agents &amp; Fair Practices Code
-                  </h4>
+                  </h5>
                   <p className="text-xs text-slate-600 leading-relaxed">
                     Under <strong>RBI Master Circular RBI/2022-23/108 (Fair Practices Code)</strong>, banks and NBFCs must follow strict rules. Agents cannot call or visit before 8:00 AM or after 7:00 PM. They cannot use foul words, visit offices without consent, or reveal debt to others. All agents must hold valid ID cards.
                   </p>
                 </div>
 
                 <div className="p-4 rounded-xl border-l-4 border-purple-600 bg-slate-50 space-y-1">
-                  <h4 className="font-bold text-slate-900 text-xs sm:text-sm">
+                  <h5 className="font-bold text-slate-900 text-xs sm:text-sm">
                     3. Criminal Law Remedies under Bharatiya Nyaya Sanhita (BNS) / IPC
-                  </h4>
+                  </h5>
                   <p className="text-xs text-slate-600 leading-relaxed">
                     Entering a home without permission or threatening harm is a crime. These acts violate Sections 329, 126, and 351 of the Bharatiya Nyaya Sanhita, 2023 (earlier Sections 441, 341, and 506 IPC). Formal legal notices force recovery agencies to stop all field visits.
                   </p>
@@ -583,7 +583,7 @@ export default function AbroadEducationLoanDefaultSettlementPage() {
 
             {/* Section 4: Bank Accounting & NPV Recovery Equation */}
             <section id="bank-accounting-npa-npv-recovery-dynamics" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">4. Bank Accounting, Provisioning Burden</h2>
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">4. Bank Accounting, Provisioning Burden</h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Getting a large waiver in an OTS depends on bank rules. Indian lenders follow the <strong>RBI Prudential Norms on Income Recognition, Asset Classification, and Provisioning (IRACP)</strong>. Banks must follow these strict accounting rules.
               </p>
@@ -651,7 +651,7 @@ export default function AbroadEducationLoanDefaultSettlementPage() {
 
             {/* Section 5: Infographic Banner */}
             <section id="abroad-education-loan-settlement-infographic-roadmap" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">5. Abroad Education Loan Settlement Roadmap</h2>
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">5. Abroad Education Loan Settlement Roadmap</h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 The visual flowchart below shows the 5-stage roadmap: from foreign job loss and parent protection to advocate talks, bank sanction letter. And full CIBIL clearance.
               </p>
@@ -686,7 +686,7 @@ export default function AbroadEducationLoanDefaultSettlementPage() {
 
             {/* Section 6: Judicial Defense Against Coercive Actions */}
             <section id="judicial-defense-ni-act-pssa-order-37-drt" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">6. Judicial Defense: Section 138 NI Act, NACH Bounces,</h2>
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">6. Judicial Defense: Section 138 NI Act, NACH Bounces,</h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 When recovery calls fail, lenders may start court actions against resident parents. Families should understand each legal tool to defend themselves effectively:
               </p>
@@ -740,7 +740,7 @@ export default function AbroadEducationLoanDefaultSettlementPage() {
 
             {/* Section 7: Structuring an International OTS */}
             <section id="structuring-international-ots-negotiations" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">7. Structuring an International OTS</h2>
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">7. Structuring an International OTS</h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Getting a good One-Time Settlement on a study loan needs a clear, fact-based plan. You cannot just call customer care or plead poverty to field recovery agents. The case must go straight to the bank Zonal Stressed Asset Resolution Branch (SARB) or Credit Committee in four clear steps:
               </p>
@@ -800,34 +800,34 @@ export default function AbroadEducationLoanDefaultSettlementPage() {
 
             {/* Section 8: Sanction Letter Forensics & Bureau Clean-Up */}
             <section id="sanction-letter-forensics-ndc-cibil-restoration" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">8. Sanction Letter Audit &amp; Verification</h2>
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">8. Sanction Letter Audit &amp; Verification</h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Reaching an agreement is only the first step. To ensure permanent closure and avoid future collection by Asset Reconstruction Companies (ARCs), you must verify the sanction letter carefully:
               </p>
 
               <div className="space-y-3 my-4">
                 <div className="p-4 rounded-xl border border-slate-200 bg-slate-50 space-y-1">
-                  <h3 className="font-bold text-slate-900 text-xs sm:text-sm">
+                  <h4 className="font-bold text-slate-900 text-xs sm:text-sm">
                     1. Mandatory Sanction Letter Clauses &amp; Entity Verification
-                  </h3>
+                  </h4>
                   <p className="text-xs text-slate-600 leading-relaxed">
                     The letter must come on official bank letterhead with a reference number, date, stamp. And officer signature. It must state the exact loan account number, full names, and PAN numbers of student and parents. It must specify the final settlement amount and due dates. It must also promise full case withdrawal upon payment.
                   </p>
                 </div>
 
                 <div className="p-4 rounded-xl border border-slate-200 bg-slate-50 space-y-1">
-                  <h4 className="font-bold text-slate-900 text-xs sm:text-sm">
+                  <h5 className="font-bold text-slate-900 text-xs sm:text-sm">
                     2. Delivery of RBI No Dues Certificate (NDC) Within Mandatory 30 Days
-                  </h4>
+                  </h5>
                   <p className="text-xs text-slate-600 leading-relaxed">
                     Under <strong>RBI Master Circular RBI/2023-24/60 (Responsible Lending Conduct)</strong>, lenders must issue an official <strong>No Dues Certificate (NDC)</strong> within <strong>30 days</strong>. They must also return all security cheques. If the bank delays beyond 30 days, it must pay <strong>₹5,000 per day of delay</strong> to the borrower.
                   </p>
                 </div>
 
                 <div className="p-4 rounded-xl border border-slate-200 bg-slate-50 space-y-1">
-                  <h4 className="font-bold text-slate-900 text-xs sm:text-sm">
+                  <h5 className="font-bold text-slate-900 text-xs sm:text-sm">
                     3. Rectification of Credit Bureau Records (CIBIL, Experian, Equifax, CRIF)
-                  </h4>
+                  </h5>
                   <p className="text-xs text-slate-600 leading-relaxed">
                     Under CICRA rules, the bank must report the settlement to CIBIL, Experian, Equifax, and CRIF within 30 days. The status becomes <strong>&quot;Settled&quot;</strong> with a <strong>₹0 balance</strong> for both student and parents. This stops negative score drops and helps rebuild your CIBIL score back above 750 over 18 to 24 months.
                   </p>
@@ -847,7 +847,7 @@ export default function AbroadEducationLoanDefaultSettlementPage() {
 
             {/* Section 9: Comparative Strategic Matrix */}
             <section id="comparative-matrix-recovery-vs-ots" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">9. Education Debt Resolution Matrix</h2>
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">9. Education Debt Resolution Matrix</h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 When faced with an education loan default, families must evaluate the difference between fighting long court cases and doing an advocate-led One-Time Settlement:
               </p>
@@ -905,7 +905,7 @@ export default function AbroadEducationLoanDefaultSettlementPage() {
             {/* Section 10: SettleLoans Legal Defense & Advisory + CompanySection */}
             <section id="company-resolution-section" className="space-y-6">
               <div className="border-t border-slate-200 pt-8 space-y-4">
-                <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">10. SettleLoans Cross-Border Legal Defense</h2>
+                <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">10. SettleLoans Cross-Border Legal Defense</h3>
                 <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                   Resolving big study loan defaults requires strong domestic legal defense and skilled financial talks. SettleLoans helps students abroad and their resident parents in India. Our banking advocates shield aging parents from recovery harassment. We manage Section 138 NI Act and Section 25 PSSA court notices. We negotiate directly with bank credit heads to secure 40% to 70% One-Time Settlements with official No Dues Certificates and clean credit bureau updates.
                 </p>
@@ -919,7 +919,7 @@ export default function AbroadEducationLoanDefaultSettlementPage() {
             <section id="faqs" className="space-y-4 border-t border-slate-200 pt-8">
               <div className="flex items-center gap-2 mb-2">
                 <HelpCircle className="w-5 h-5 text-[#1F5EFF]" />
-                <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">11. FAQs: Abroad Education Loan Default &amp; Settlement</h2>
+                <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">11. FAQs: Abroad Education Loan Default &amp; Settlement</h3>
               </div>
               <p className="text-xs sm:text-sm text-slate-600 mb-6">
                 Clear, legally verified answers to common questions on abroad study loan defaults, parent rights, and One-Time Settlements in India.
@@ -949,9 +949,9 @@ export default function AbroadEducationLoanDefaultSettlementPage() {
 
             {/* 5 Official Regulatory Links */}
             <section className="border-t border-slate-200 pt-8 mb-4">
-              <h3 className="text-xs sm:text-sm font-bold text-slate-900 mb-3 uppercase tracking-wider">
+              <h4 className="text-xs sm:text-sm font-bold text-slate-900 mb-3 uppercase tracking-wider">
                 Official Statutory &amp; Regulatory References
-              </h3>
+              </h4>
               <div className="grid grid-cols-1 sm:grid-cols-2 gap-2.5 text-xs">
                 <a
                   href="https://www.rbi.org.in"
@@ -1003,9 +1003,9 @@ export default function AbroadEducationLoanDefaultSettlementPage() {
 
             {/* 10 Related Guide Badges */}
             <section className="border-t border-slate-200 pt-8 mb-8">
-              <h3 className="text-xs sm:text-sm font-bold text-slate-900 mb-4 uppercase tracking-wider">
+              <h4 className="text-xs sm:text-sm font-bold text-slate-900 mb-4 uppercase tracking-wider">
                 Related Debt Defense &amp; Loan Settlement Guides
-              </h3>
+              </h4>
               <div className="flex flex-wrap gap-2">
                 <Link
                   href="/education-loan-settlement-india"

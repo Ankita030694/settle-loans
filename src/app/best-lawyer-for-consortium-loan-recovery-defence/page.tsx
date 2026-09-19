@@ -279,7 +279,7 @@ export default function ConsortiumLoanDefencePage() {
                         </section>
 
                         <section id="ica-legal-impact" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">The Inter-Creditor Agreement (ICA) and Your Defense</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">The Inter-Creditor Agreement (ICA) and Your Defense</h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 The ICA is the backbone of any consortium. It is a contract between the banks that defines how they will share information, how they will vote on resolution plans, and how they will initiate legal action against you. For a borrower, the ICA is a goldmine of legal defense grounds.
                             </p>
@@ -287,10 +287,10 @@ export default function ConsortiumLoanDefencePage() {
                                 Many consortium recovery actions fail because the banks did not follow the technical protocols laid down in their own ICA. For instance, if the ICA requires a 66 percent majority vote to initiate SARFAESI action, and the banks proceeded with only 55 percent, the entire notice period is legally defective. An expert lawyer will demand the production of the ICA and the minutes of the Joint Lenders' Meeting (JLM) to identify these critical lapses.
                             </p>
                             <div className="bg-blue-50 p-6 rounded-xl border border-blue-200 mb-8">
-                                <h3 className="font-bold text-blue-900 mb-2 flex items-center gap-2">
+                                <h4 className="font-bold text-blue-900 mb-2 flex items-center gap-2">
                                     <FontAwesomeIcon icon={faUsersBetweenLines} />
                                     Leveraging Inter-Bank Conflicts
-                                </h3>
+                                </h4>
                                 <p className="text-sm text-blue-800">
                                     Participating banks often have different agendas. Smaller banks may want a quick OTS, while larger public sector banks might be bound by rigid internal recovery rules. By highlighting these internal contradictions in the DRT, your legal team can create a situation where the banks find it easier to settle with you than to settle their differences with each other.
                                 </p>
@@ -298,7 +298,7 @@ export default function ConsortiumLoanDefencePage() {
                         </section>
 
                         <section id="lead-vs-participating" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">Lead Bank's Fiduciary Duty and Breaches</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">Lead Bank's Fiduciary Duty and Breaches</h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 The Lead Bank acts as an agent for all other members. They hold the security, they issue the notices, and they are responsible for the accuracy of the debt claim. However, this agency relationship comes with heavy legal responsibilities. If the Lead Bank provides incorrect data to the participating members, or if they fail to disclose your valid restructuring proposals to the consortium, it constitutes a breach of their fiduciary duty.
                             </p>
@@ -308,7 +308,7 @@ export default function ConsortiumLoanDefencePage() {
                         </section>
 
                         <section id="sarfaesi-consortium" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">SARFAESI Multi-Bank Defense Strategies</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">SARFAESI Multi-Bank Defense Strategies</h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 The SARFAESI Act, 2002, allows a consortium to act as a single unit or for individual banks to move on their specific portions of debt. However, Section 13(9) of the Act specifically deals with consortiums. It mandates that any action against a secured asset requires the consent of secured creditors holding at least 60 percent (earlier 75 percent) of the value of the outstanding amount.
                             </p>
@@ -316,14 +316,14 @@ export default function ConsortiumLoanDefencePage() {
                                 <div className="absolute top-4 right-4 opacity-10">
                                     <FontAwesomeIcon icon={faShieldHalved} size="4x" />
                                 </div>
-                                <h3 className="text-xl font-bold mb-4">The 60% Consent Challenge</h3>
+                                <h4 className="text-xl font-bold mb-4">The 60% Consent Challenge</h4>
                                 <p className="mb-4">We meticulously verify the 'Consent Letters' produced by the bank. If a participating bank's consent was obtained through coercion or if the authorization was not signed by a competent authority, the entire SARFAESI action under Section 13 cannot stand. This is a common technical ground used to save factories and large commercial properties from illegal auctions.</p>
                                 <p className="text-sm font-bold text-[#1F5EFF]">Note: Even if one bank drops out of the consortium's joint action, the entire legal standing of the joint notice may be compromised.</p>
                             </div>
                         </section>
 
                         <section id="drt-complex-litigation" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">DRT Litigation Strategy in Consortium Cases</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">DRT Litigation Strategy in Consortium Cases</h3>
                             <p className="mb-6 leading-relaxed text-lg">
                                 The Debt Recovery Tribunal (DRT) handles consortium cases with a different level of scrutiny. Because the amounts are usually large, the level of documentation required is immense. Our litigation strategy in the DRT focuses on the 'Consolidation of Claims'. We demand that each bank provide its own separate statement of account, justification for interest rates, and proof of disbursement.
                             </p>
@@ -333,15 +333,15 @@ export default function ConsortiumLoanDefencePage() {
                         </section>
 
                         <section id="ibc-nclt-angles" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">The NCLT and IBC Landscape for Consortiums</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">The NCLT and IBC Landscape for Consortiums</h3>
                             <p className="mb-6 leading-relaxed text-lg">
                                 The Insolvency and Bankruptcy Code (IBC) has changed the rules of the game. A single bank in a consortium, even with a small share of the debt, can drag a company to the National Company Law Tribunal (NCLT) if the default is above Rs. 1 Crore. This can lead to the 'Corporate Insolvency Resolution Process' (CIRP), where you risk losing control of your company to a Resolution Professional.
                             </p>
                             <div className="bg-red-50 p-8 rounded-2xl border border-red-100 mb-8">
-                                <h3 className="text-xl font-bold text-red-800 mb-4 flex items-center gap-2">
+                                <h4 className="text-xl font-bold text-red-800 mb-4 flex items-center gap-2">
                                     <FontAwesomeIcon icon={faLandmark} />
                                     Defending Before the NCLT
-                                </h3>
+                                </h4>
                                 <p className="text-sm text-red-900 leading-relaxed mb-4">
                                     We represent corporate debtors in the NCLT to challenge the admission of insolvency petitions. We argue on grounds of 'pre-existing disputes', incorrect default dates, and the banks' failure to follow mandatory pre-IBC restructuring steps. Our goal is to keep the company under your management while we negotiate a resolution plan.
                                 </p>
@@ -350,7 +350,7 @@ export default function ConsortiumLoanDefencePage() {
                         </section>
 
                         <section id="ots-negotiation" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Strategic One-Time Settlement (OTS) Negotiation</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Strategic One-Time Settlement (OTS) Negotiation</h3>
                             <p className="mb-6 leading-relaxed text-lg">
                                 In a consortium, a One-Time Settlement is a marathon, not a sprint. You are negotiating with a committee of creditors, not a single individual. Each bank has its own 'Compromise Committee' and 'Board Approval' process. A successful OTS in a consortium requires a proposal that is financially sound and legally watertight.
                             </p>
@@ -360,7 +360,7 @@ export default function ConsortiumLoanDefencePage() {
                         </section>
 
                         <section id="interest-parity-disputes" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Interest Parity and Charging Disputes</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Interest Parity and Charging Disputes</h3>
                             <p className="mb-6 text-lg">
                                 Different banks in a consortium often charge different rates of interest based on their internal MCLR or Base Rate. However, in a consortium, there is often a 'Common Interest Rate' agreed upon in the loan documents. If some banks are overcharging or applying compound interest on penal charges (which is illegal per RBI guidelines), the whole claim of the consortium becomes shaky.
                             </p>
@@ -370,7 +370,7 @@ export default function ConsortiumLoanDefencePage() {
                         </section>
 
                         <section id="msmed-protections" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Leveraging MSMED Act Protections in Consortiums</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Leveraging MSMED Act Protections in Consortiums</h3>
                             <p className="mb-6 text-lg">
                                 If your business is a registered MSME, you have additional protections. The MSME Development Act, 2006, and subsequent RBI guidelines mandate that banks must have a specific 'Framework for Revival and Rehabilitation of MSMEs'. In consortium cases, banks often ignore these 'soft' guidelines in favor of 'hard' recovery.
                             </p>
@@ -380,30 +380,30 @@ export default function ConsortiumLoanDefencePage() {
                         </section>
 
                         <section id="technical-grounds" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 underline decoration-[#1F5EFF] underline-offset-8">Common Technical Grounds for Consortium Defense</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 underline decoration-[#1F5EFF] underline-offset-8">Common Technical Grounds for Consortium Defense</h3>
                             <p className="mb-8 text-lg">Our research and experience have identified several 'Achilles heels' in consortium recovery actions. A victory in court often comes from these technical details:</p>
                             <div className="grid md:grid-cols-2 gap-4 mb-12">
                                 <div className="p-6 bg-white border border-[#DEDEDE] rounded-xl shadow-sm">
-                                    <h3 className="font-bold mb-2">Defective Notice Service</h3>
+                                    <h4 className="font-bold mb-2">Defective Notice Service</h4>
                                     <p className="text-sm text-gray-500">Failure of every individual bank in the consortium to serve notice to all guarantors and directors.</p>
                                 </div>
                                 <div className="p-6 bg-white border border-[#DEDEDE] rounded-xl shadow-sm">
-                                    <h4 className="font-bold mb-2">Improper Charge Creation</h4>
+                                    <h5 className="font-bold mb-2">Improper Charge Creation</h5>
                                     <p className="text-sm text-gray-500">Errors in registering the 'Pari-Passu' charge with the Registrar of Companies (ROC) or CERSAI.</p>
                                 </div>
                                 <div className="p-6 bg-white border border-[#DEDEDE] rounded-xl shadow-sm">
-                                    <h4 className="font-bold mb-2">Unauthorized Signatories</h4>
+                                    <h5 className="font-bold mb-2">Unauthorized Signatories</h5>
                                     <p className="text-sm text-gray-500">Notices signed by bank officers who do not have the specific board resolution power for consortium actions.</p>
                                 </div>
                                 <div className="p-6 bg-white border border-[#DEDEDE] rounded-xl shadow-sm">
-                                    <h4 className="font-bold mb-2">Valuation Mismatch</h4>
+                                    <h5 className="font-bold mb-2">Valuation Mismatch</h5>
                                     <p className="text-sm text-gray-500">Using a single, outdated valuation report for assets shared by multiple banks with different exposure levels.</p>
                                 </div>
                             </div>
                         </section>
 
                         <section id="emergency-orders" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Emergency Stay Orders and Injunctions</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Emergency Stay Orders and Injunctions</h3>
                             <p className="mb-6 text-lg">
                                 When a consortium moves for physical possession of a large factory or office, the stakes are existential. Our legal team is trained for 'Midnight Moves'. We approach the High Court or the DRT on an urgent basis to secure status-quo orders. We prove that the balance of convenience lies with the business continuing to operate, especially if it employs hundreds of workers.
                             </p>
@@ -413,7 +413,7 @@ export default function ConsortiumLoanDefencePage() {
                         </section>
 
                         <section id="case-studies" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 text-center">Consortium Defense Victories</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 text-center">Consortium Defense Victories</h3>
                             <div className="grid md:grid-cols-2 gap-6 not-prose">
                                 {[
                                     {
@@ -451,7 +451,7 @@ export default function ConsortiumLoanDefencePage() {
                                                 {review.name.charAt(0)}
                                             </div>
                                             <div>
-                                                <h3 className="font-bold text-[#2E2E2E]">{review.name}</h3>
+                                                <h4 className="font-bold text-[#2E2E2E]">{review.name}</h4>
                                                 <p className="text-xs text-gray-400">{review.loc}</p>
                                             </div>
                                             <div className="ml-auto text-yellow-400 text-sm flex gap-0.5">
@@ -472,24 +472,24 @@ export default function ConsortiumLoanDefencePage() {
                         </section>
 
                         <section id="hiring-specialist" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 text-[#2E2E2E]">Why You Need a Specialized Consortium Defense Lawyer</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 text-[#2E2E2E]">Why You Need a Specialized Consortium Defense Lawyer</h3>
                             <p className="mb-6 text-lg">Don't treat a consortium dispute like a regular legal case. The scale of the debt and the number of parties involved require a higher level of strategic thinking. A general lawyer may miss the subtle conflicts between banks that a specialist will exploit.</p>
                             <div className="flex flex-col md:flex-row gap-6">
                                 <div className="flex-1 p-8 bg-gray-50 border border-gray-100 rounded-3xl text-center">
                                     <FontAwesomeIcon icon={faBuildingShield} className="text-[#1F5EFF] text-4xl mb-4" />
-                                    <h3 className="font-bold text-xl mb-2">Syndicate Knowledge</h3>
+                                    <h4 className="font-bold text-xl mb-2">Syndicate Knowledge</h4>
                                     <p className="text-sm opacity-70">We understand the hierarchy of the consortium and the pressure points of each member bank.</p>
                                 </div>
                                 <div className="flex-1 p-8 bg-gray-50 border border-gray-100 rounded-3xl text-center">
                                     <FontAwesomeIcon icon={faHandshake} className="text-[#1F5EFF] text-4xl mb-4" />
-                                    <h4 className="font-bold text-xl mb-2">Coordinated Response</h4>
+                                    <h5 className="font-bold text-xl mb-2">Coordinated Response</h5>
                                     <p className="text-sm opacity-70">We manage the narrative across all banks so you don't get contradictory outcomes from different courts.</p>
                                 </div>
                             </div>
                         </section>
 
                         <section id="faqs-consortium" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Expert Legal Insights (FAQs)</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Expert Legal Insights (FAQs)</h3>
                             <div className="space-y-4 not-prose">
                                 {[
                                     { q: "Can a single bank in a consortium initiate recovery on its own?", a: "Yes, a bank can initiate recovery for its specific portion of the debt, but for shared security, they must follow the voting rules of the Inter-Creditor Agreement (ICA). If they move without the required consent for the common assets, their action can be challenged in the DRT." },
@@ -521,7 +521,7 @@ export default function ConsortiumLoanDefencePage() {
                         <section id="final-call" className="scroll-mt-32 mt-20">
                             <div className="bg-[#1F5EFF] rounded-3xl p-10 text-white text-center relative overflow-hidden shadow-2xl">
                                 <div className="absolute top-0 left-0 w-full h-full bg-[url('https://www.transparenttextures.com/patterns/cubes.png')] opacity-10"></div>
-                                <h2 className="text-3xl md:text-5xl font-black mb-6 relative z-10 text-white">Don't Face the Syndicate Alone</h2>
+                                <h3 className="text-3xl md:text-5xl font-black mb-6 relative z-10 text-white">Don't Face the Syndicate Alone</h3>
                                 <p className="text-xl mb-10 opacity-90 max-w-2xl mx-auto relative z-10 text-white">
                                     Our specialized legal and negotiation experts have handled consortium disputes worth hundreds of crores. Let us build your defense and secure your business future.
                                 </p>
@@ -542,7 +542,7 @@ export default function ConsortiumLoanDefencePage() {
                         <div className="lg:hidden mt-16 mb-8">
                             <div className="bg-[#2E2E2E] rounded-2xl shadow-xl overflow-hidden border border-[#DEDEDE]/10">
                                 <div className="bg-[#1F5EFF] p-4 text-center">
-                                    <h3 className="text-lg font-black text-white">Expert Consortium Shield</h3>
+                                    <h4 className="text-lg font-black text-white">Expert Consortium Shield</h4>
                                 </div>
                                 <div className="p-6 text-center">
                                     <p className="mb-6 text-sm text-[#DEDEDE] opacity-80 leading-relaxed font-bold">

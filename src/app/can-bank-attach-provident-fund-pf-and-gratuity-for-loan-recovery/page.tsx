@@ -251,15 +251,15 @@ export default function EPFAndGratuityProtectionPage() {
             </section>
 
             <section id="section-60-cpc" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 The Law: Section 60 of the Civil Procedure Code
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 The Civil Procedure Code (CPC), 1908, dictates how civil courts execute decrees and recover debts. Section 60 specifically lists the properties that are liable to attachment, but more importantly, it explicitly lists properties that are <strong>exempt from attachment</strong>.
               </p>
 
               <div className="bg-blue-50 border-l-8 border-[#1F5EFF] p-8 rounded-r-2xl mb-8">
-                <h3 className="text-xl font-black text-[#1F5EFF] mb-4">Exemptions Under Section 60 CPC</h3>
+                <h4 className="text-xl font-black text-[#1F5EFF] mb-4">Exemptions Under Section 60 CPC</h4>
                 <p className="text-blue-900 text-lg leading-relaxed mb-4">
                   The law provides absolute immunity to specific categories of funds to ensure a basic dignified livelihood for the debtor and their family:
                 </p>
@@ -281,9 +281,9 @@ export default function EPFAndGratuityProtectionPage() {
             </section>
 
             <section id="epf-act-protection" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 Protections Under the EPF Act
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 Beyond the CPC, the Employees' Provident Funds and Miscellaneous Provisions Act, 1952, offers an ironclad guarantee against the attachment of PF money.
               </p>
@@ -297,13 +297,13 @@ export default function EPFAndGratuityProtectionPage() {
 
               <div className="grid md:grid-cols-2 gap-6 my-8">
                 <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
-                  <h3 className="font-black text-[#1F5EFF] text-lg mb-3">Absolute Immunity</h3>
+                  <h4 className="font-black text-[#1F5EFF] text-lg mb-3">Absolute Immunity</h4>
                   <p className="text-gray-700 leading-relaxed">
                     The protection is absolute. Even if a lender obtains a favorable judgment or arbitration award against you, they cannot request the court to seize your EPF balance to satisfy the debt.
                   </p>
                 </div>
                 <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
-                  <h4 className="font-black text-[#1F5EFF] text-lg mb-3">Post-Retirement Shield</h4>
+                  <h5 className="font-black text-[#1F5EFF] text-lg mb-3">Post-Retirement Shield</h5>
                   <p className="text-gray-700 leading-relaxed">
                     This protection remains active even after the amount is disbursed, provided you can trace and prove that the funds sitting in your account originated strictly from your EPF or Gratuity settlement.
                   </p>
@@ -312,9 +312,9 @@ export default function EPFAndGratuityProtectionPage() {
             </section>
 
             <section id="drt-and-courts" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 Can DRT or Courts Attach It?
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 Recovery agents often use heavy legal jargon, threatening to bring "DRT attachment orders." Here is how the process actually works and why their threats are baseless:
               </p>
@@ -323,7 +323,7 @@ export default function EPFAndGratuityProtectionPage() {
                 <div className="flex gap-6">
                   <div className="flex-shrink-0 w-12 h-12 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center font-black text-xl shadow-lg">1</div>
                   <div>
-                    <h3 className="text-2xl font-bold text-[#2E2E2E] mb-2">DRT is Bound by CPC</h3>
+                    <h4 className="text-2xl font-bold text-[#2E2E2E] mb-2">DRT is Bound by CPC</h4>
                     <p className="text-lg text-gray-700 leading-relaxed">
                       The Debt Recovery Tribunal (DRT) functions within the framework of civil laws. The Presiding Officer of the DRT is strictly bound by the exemptions listed under Section 60 of the CPC. They legally cannot issue a recovery certificate against your PF or Gratuity.
                     </p>
@@ -333,7 +333,7 @@ export default function EPFAndGratuityProtectionPage() {
                 <div className="flex gap-6">
                   <div className="flex-shrink-0 w-12 h-12 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center font-black text-xl shadow-lg">2</div>
                   <div>
-                    <h3 className="text-2xl font-bold text-[#2E2E2E] mb-2">Null and Void Orders</h3>
+                    <h4 className="text-2xl font-bold text-[#2E2E2E] mb-2">Null and Void Orders</h4>
                     <p className="text-lg text-gray-700 leading-relaxed">
                       Even if, hypothetically, a lower court makes an error and orders the attachment of your PF due to the bank's misrepresentation, that order is legally null and void. High Courts and the Supreme Court have routinely struck down such erroneous orders.
                     </p>
@@ -343,7 +343,7 @@ export default function EPFAndGratuityProtectionPage() {
                 <div className="flex gap-6">
                   <div className="flex-shrink-0 w-12 h-12 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center font-black text-xl shadow-lg">3</div>
                   <div>
-                    <h3 className="text-2xl font-bold text-[#2E2E2E] mb-2">Actionable Harassment</h3>
+                    <h4 className="text-2xl font-bold text-[#2E2E2E] mb-2">Actionable Harassment</h4>
                     <p className="text-lg text-gray-700 leading-relaxed">
                       If an agent threatens to seize your PF, they are attempting extortion based on a legal impossibility. You can file a formal complaint with the RBI and the police against the bank for criminal intimidation.
                     </p>
@@ -353,15 +353,15 @@ export default function EPFAndGratuityProtectionPage() {
             </section>
 
             <section id="bank-account-freeze" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 What to do if the Bank Freezes Your Account?
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 While banks cannot legally attach PF, they sometimes employ a dirty trick: they freeze your entire savings account as soon as the PF or Gratuity amount is credited, exercising a "banker's lien."
               </p>
 
               <div className="bg-red-50 p-6 rounded-xl border border-red-100 mb-8">
-                <h3 className="text-xl font-black text-red-700 mb-3">Banker's Lien vs. PF Immunity</h3>
+                <h4 className="text-xl font-black text-red-700 mb-3">Banker's Lien vs. PF Immunity</h4>
                 <p className="text-red-900 leading-relaxed">
                   A bank has a general right of lien (right to hold funds) against defaults. However, courts have repeatedly clarified that the Banker's Lien does NOT extend to funds that are statutorily exempt from attachment, like EPF and Gratuity. Freezing these specific funds is an illegal act by the bank.
                 </p>
@@ -369,13 +369,13 @@ export default function EPFAndGratuityProtectionPage() {
 
               <div className="grid md:grid-cols-2 gap-6 my-8">
                 <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
-                  <h4 className="font-black text-[#1F5EFF] text-lg mb-3">Step 1: Gather Proof</h4>
+                  <h5 className="font-black text-[#1F5EFF] text-lg mb-3">Step 1: Gather Proof</h5>
                   <p className="text-gray-700 leading-relaxed">
                     Download your bank statement and EPFO settlement receipt. You must definitively prove that the frozen amount is derived directly from your retirement settlement and not other sources.
                   </p>
                 </div>
                 <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
-                  <h4 className="font-black text-[#1F5EFF] text-lg mb-3">Step 2: Legal Notice</h4>
+                  <h5 className="font-black text-[#1F5EFF] text-lg mb-3">Step 2: Legal Notice</h5>
                   <p className="text-gray-700 leading-relaxed">
                     Have a lawyer send an urgent legal notice to the bank's nodal officer and branch manager, citing Section 60 CPC and demanding the immediate unfreezing of the protected amount.
                   </p>
@@ -384,9 +384,9 @@ export default function EPFAndGratuityProtectionPage() {
             </section>
 
             <section id="success-stories" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 Client Success Stories
-              </h2>
+              </h3>
               <div className="grid md:grid-cols-2 gap-6 my-8">
                 <div className="bg-white p-8 rounded-[30px] border border-[#DEDEDE] shadow-sm hover:shadow-xl group transition-all">
                   <div className="flex items-center gap-4 mb-6">
@@ -394,7 +394,7 @@ export default function EPFAndGratuityProtectionPage() {
                       MV
                     </div>
                     <div>
-                      <h3 className="font-bold text-gray-900">Manoj V.</h3>
+                      <h4 className="font-bold text-gray-900">Manoj V.</h4>
                       <div className="flex text-yellow-400">
                          <svg className="w-4 h-4 fill-current" viewBox="0 0 20 20"><path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z"/></svg>
                          <svg className="w-4 h-4 fill-current" viewBox="0 0 20 20"><path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z"/></svg>
@@ -419,7 +419,7 @@ export default function EPFAndGratuityProtectionPage() {
                       PS
                     </div>
                     <div>
-                      <h4 className="font-bold text-gray-900">Priya S.</h4>
+                      <h5 className="font-bold text-gray-900">Priya S.</h5>
                       <div className="flex text-yellow-400">
                          <svg className="w-4 h-4 fill-current" viewBox="0 0 20 20"><path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z"/></svg>
                          <svg className="w-4 h-4 fill-current" viewBox="0 0 20 20"><path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z"/></svg>
@@ -441,13 +441,13 @@ export default function EPFAndGratuityProtectionPage() {
             </section>
 
             <section id="faqs" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 Frequently Asked Questions
-              </h2>
+              </h3>
               <div className="space-y-4">
                 {jsonLd["@graph"].find((item: any) => item["@type"] === "FAQPage")?.mainEntity?.map((faq: any, index: number) => (
                   <div key={index} className="bg-white border border-[#DEDEDE] rounded-xl p-6 hover:shadow-md transition-shadow">
-                    <h3 className="text-xl font-bold text-[#2E2E2E] mb-3">{faq.name}</h3>
+                    <h4 className="text-xl font-bold text-[#2E2E2E] mb-3">{faq.name}</h4>
                     <p className="text-gray-700 leading-relaxed">{faq.acceptedAnswer.text}</p>
                   </div>
                 ))}
@@ -457,7 +457,7 @@ export default function EPFAndGratuityProtectionPage() {
             {/* Lead Gen Hook */}
             <div className="bg-[#2E2E2E] text-white p-12 rounded-[40px] text-center mt-24 relative overflow-hidden group">
               <div className="absolute inset-0 bg-[#1F5EFF] opacity-0 group-hover:opacity-5 transition-opacity"></div>
-              <h3 className="text-3xl font-black mb-6 relative z-10">Stop the Illegal Harassment Today</h3>
+              <h4 className="text-3xl font-black mb-6 relative z-10">Stop the Illegal Harassment Today</h4>
               <p className="text-xl opacity-90 mb-8 relative z-10 max-w-2xl mx-auto">
                 Is the bank threatening to seize your EPF or Gratuity funds to settle an old loan? This is a complete violation of the law. Let our legal team protect your retirement savings.
               </p>

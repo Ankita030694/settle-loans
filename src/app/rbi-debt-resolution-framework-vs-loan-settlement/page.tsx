@@ -519,7 +519,7 @@ export default function RbiDebtResolutionFrameworkVsLoanSettlementPage() {
 
             {/* Section 2: Statutory & Regulatory Framework */}
             <section id="statutory-framework-rbi-prudential-directions" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">2. Statutory &amp; Regulatory Framework</h2>
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">2. Statutory &amp; Regulatory Framework</h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Stressed debt resolution in India follows clear statutory laws and RBI Master Directions. Banks cannot change loan terms or grant OTS settlements on a whim. They must follow strict regulatory rules set by the Reserve Bank of India and commercial statutes.
               </p>
@@ -579,7 +579,7 @@ export default function RbiDebtResolutionFrameworkVsLoanSettlementPage() {
 
             {/* Section 3: Anatomy of Restructuring */}
             <section id="anatomy-of-restructuring-tenure-moratorium" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">3. Anatomy of Restructuring</h2>
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">3. Anatomy of Restructuring</h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 When a bank approves an RBI Debt Resolution Framework restructuring plan, it adjusts key loan terms. This aligns debt payments with your expected cash flow. Restructuring is not a debt waiver. It is a financial adjustment that reschedules your debt over more time.
               </p>
@@ -591,7 +591,7 @@ export default function RbiDebtResolutionFrameworkVsLoanSettlementPage() {
                 <div className="p-4 rounded-xl border-l-4 border-blue-600 bg-slate-50 space-y-1">
                   <div className="flex items-center gap-2">
                     <Clock className="w-4 h-4 text-blue-600" />
-                    <h3 className="font-bold text-slate-900 text-xs sm:text-sm">1. Repayment Tenure Extension &amp; EMI Recalibration</h3>
+                    <h4 className="font-bold text-slate-900 text-xs sm:text-sm">1. Repayment Tenure Extension &amp; EMI Recalibration</h4>
                   </div>
                   <p className="text-xs text-slate-600 leading-relaxed">
                     The bank extends the loan tenure by 2 to 5 years. Spreading the principal across more years cuts your monthly EMI by 25% to 45%. This provides immediate relief for household or business budgets.
@@ -600,7 +600,7 @@ export default function RbiDebtResolutionFrameworkVsLoanSettlementPage() {
                 <div className="p-4 rounded-xl border-l-4 border-indigo-600 bg-slate-50 space-y-1">
                   <div className="flex items-center gap-2">
                     <RefreshCw className="w-4 h-4 text-indigo-600" />
-                    <h4 className="font-bold text-slate-900 text-xs sm:text-sm">2. Principal and Interest Payment Moratorium</h4>
+                    <h5 className="font-bold text-slate-900 text-xs sm:text-sm">2. Principal and Interest Payment Moratorium</h5>
                   </div>
                   <p className="text-xs text-slate-600 leading-relaxed">
                     The lender may grant an EMI payment pause of 3 to 12 months. In severe economic crises, this can last up to 24 months. You do not pay EMIs during this window. However, interest still accrues and gets added to your total loan balance.
@@ -609,7 +609,7 @@ export default function RbiDebtResolutionFrameworkVsLoanSettlementPage() {
                 <div className="p-4 rounded-xl border-l-4 border-purple-600 bg-slate-50 space-y-1">
                   <div className="flex items-center gap-2">
                     <TrendingUp className="w-4 h-4 text-purple-600" />
-                    <h4 className="font-bold text-slate-900 text-xs sm:text-sm">3. Conversion of Accrued Interest into Funded Interest Term Loans (FITL)</h4>
+                    <h5 className="font-bold text-slate-900 text-xs sm:text-sm">3. Conversion of Accrued Interest into Funded Interest Term Loans (FITL)</h5>
                   </div>
                   <p className="text-xs text-slate-600 leading-relaxed">
                     When unpaid interest builds up during default, the bank splits the debt. It moves the unpaid interest into a separate Funded Interest Term Loan (FITL). The principal becomes a standard term loan. This lets you resume regular operations without instant penalty pressure.
@@ -618,7 +618,7 @@ export default function RbiDebtResolutionFrameworkVsLoanSettlementPage() {
                 <div className="p-4 rounded-xl border-l-4 border-amber-600 bg-slate-50 space-y-1">
                   <div className="flex items-center gap-2">
                     <BadgePercent className="w-4 h-4 text-amber-600" />
-                    <h4 className="font-bold text-slate-900 text-xs sm:text-sm">4. Interest Rate Margin Concessions &amp; Penal Charge Reversal</h4>
+                    <h5 className="font-bold text-slate-900 text-xs sm:text-sm">4. Interest Rate Margin Concessions &amp; Penal Charge Reversal</h5>
                   </div>
                   <p className="text-xs text-slate-600 leading-relaxed">
                     The bank committee may lower the interest margin over benchmark rates (MCLR/EBLR). It can also waive past penal interest and bounce fees. This cuts down compound interest growth on your balance.
@@ -633,7 +633,7 @@ export default function RbiDebtResolutionFrameworkVsLoanSettlementPage() {
 
             {/* Section 4: Bank Accounting Economics & NPV Formula */}
             <section id="bank-accounting-economics-npv-formula" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">4. Bank Balance Sheet Economics, Provisioning Burdens</h2>
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">4. Bank Balance Sheet Economics, Provisioning Burdens</h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Banks review debt relief under clear accounting rules. Under RBI prudential norms, lenders do not look only at loan balance. They track provisioning rules, capital ratios. And the Net Present Value (NPV) of cash flow.
               </p>
@@ -702,9 +702,9 @@ export default function RbiDebtResolutionFrameworkVsLoanSettlementPage() {
 
             {/* Section 5: Infographic Banner */}
             <section id="strategic-roadmap-infographic" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                 5. RBI Restructuring vs. Loan Settlement Visual Roadmap
-              </h2>
+              </h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 The graphic below outlines the path between the RBI Debt Resolution Framework and a One-Time Settlement (OTS). It highlights differences in eligibility, payment terms, credit reporting. And legal finality.
               </p>
@@ -739,7 +739,7 @@ export default function RbiDebtResolutionFrameworkVsLoanSettlementPage() {
 
             {/* Section 6: Strategic Decision Matrix */}
             <section id="strategic-decision-matrix-when-to-choose" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">6. Strategic Decision Framework</h2>
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">6. Strategic Decision Framework</h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Choosing between RBI loan restructuring and a One-Time Settlement depends on three factors: permanence of income loss, pledged assets. And long-term credit needs.
               </p>
@@ -751,7 +751,7 @@ export default function RbiDebtResolutionFrameworkVsLoanSettlementPage() {
                 <div className="p-5 rounded-2xl border-2 border-blue-200 bg-blue-50/40 space-y-3">
                   <div className="flex items-center gap-2">
                     <RefreshCw className="w-5 h-5 text-blue-600" />
-                    <h3 className="font-bold text-slate-900 text-sm sm:text-base">When to Opt for RBI Restructuring</h3>
+                    <h4 className="font-bold text-slate-900 text-sm sm:text-base">When to Opt for RBI Restructuring</h4>
                   </div>
                   <ul className="space-y-2 text-xs sm:text-sm text-slate-700">
                     <li className="flex items-start gap-1.5">
@@ -776,7 +776,7 @@ export default function RbiDebtResolutionFrameworkVsLoanSettlementPage() {
                 <div className="p-5 rounded-2xl border-2 border-emerald-200 bg-emerald-50/40 space-y-3">
                   <div className="flex items-center gap-2">
                     <BadgePercent className="w-5 h-5 text-emerald-600" />
-                    <h3 className="font-bold text-slate-900 text-sm sm:text-base">When to Opt for One-Time Settlement (OTS)</h3>
+                    <h4 className="font-bold text-slate-900 text-sm sm:text-base">When to Opt for One-Time Settlement (OTS)</h4>
                   </div>
                   <ul className="space-y-2 text-xs sm:text-sm text-slate-700">
                     <li className="flex items-start gap-1.5">
@@ -806,7 +806,7 @@ export default function RbiDebtResolutionFrameworkVsLoanSettlementPage() {
 
             {/* Section 7: Forensic Verification Checklist */}
             <section id="forensic-verification-addendums-and-sanctions" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">7. RBI Compromise Sanction Forensic Checklist</h2>
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">7. RBI Compromise Sanction Forensic Checklist</h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Signing a restructuring addendum or an OTS sanction letter carries real legal risks if the paperwork has errors. Banks and recovery teams often include strict clauses or vague terms that leave you exposed to future court claims.
               </p>
@@ -866,7 +866,7 @@ export default function RbiDebtResolutionFrameworkVsLoanSettlementPage() {
 
             {/* Section 8: CIBIL Bureau Dynamics */}
             <section id="cibil-bureau-dynamics-and-credit-recovery" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">8. Long-Term CIBIL Credit Bureau Impact</h2>
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">8. Long-Term CIBIL Credit Bureau Impact</h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Credit bureaus track how loans are closed under the Credit Information Companies (Regulation) Act, 2005 and RBI Master Directions. Lenders must report exact resolution codes to CIBIL, Experian, Equifax, and CRIF High Mark.
               </p>
@@ -896,9 +896,9 @@ export default function RbiDebtResolutionFrameworkVsLoanSettlementPage() {
                 </div>
               </div>
 
-              <h3 className="text-base sm:text-lg font-bold text-slate-900 pt-2">
+              <h4 className="text-base sm:text-lg font-bold text-slate-900 pt-2">
                 The 18-to-24 Month Credit Score Rehabilitation Roadmap
-              </h3>
+              </h4>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 You can restore your credit eligibility by following four clear steps:
               </p>
@@ -924,7 +924,7 @@ export default function RbiDebtResolutionFrameworkVsLoanSettlementPage() {
 
             {/* Section 9: Comprehensive Comparative Matrix */}
             <section id="comprehensive-comparative-matrix" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">9. RBI Debt Restructuring vs. Loan Settlement Comprehensive</h2>
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">9. RBI Debt Restructuring vs. Loan Settlement Comprehensive</h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 The table below highlights key differences between RBI Debt Restructuring and a One-Time Settlement (OTS):
               </p>
@@ -992,7 +992,7 @@ export default function RbiDebtResolutionFrameworkVsLoanSettlementPage() {
             {/* Section 10: SettleLoans Legal Defense & Advisory + CompanySection */}
             <section id="company-resolution-section" className="space-y-6">
               <div className="border-t border-slate-200 pt-8 space-y-4">
-                <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">10. SettleLoans Resolution Defense &amp; Advisory</h2>
+                <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">10. SettleLoans Resolution Defense &amp; Advisory</h3>
                 <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                   Picking between loan restructuring and an OTS settlement needs sound legal help. SettleLoans assists borrowers across India. We check your repayment ability. We stop illegal recovery calls under RBI rules. We audit loan statements to remove wrongful charges. Our legal team negotiates directly with bank committees. We help you get an RBI loan restructuring plan or a 50% to 75% OTS waiver with an official No Dues Certificate.
                 </p>
@@ -1006,7 +1006,7 @@ export default function RbiDebtResolutionFrameworkVsLoanSettlementPage() {
             <section id="faqs" className="space-y-4 border-t border-slate-200 pt-8">
               <div className="flex items-center gap-2 mb-2">
                 <HelpCircle className="w-5 h-5 text-[#1F5EFF]" />
-                <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">11. FAQs: RBI Restructuring vs. Loan Settlement</h2>
+                <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">11. FAQs: RBI Restructuring vs. Loan Settlement</h3>
               </div>
               <p className="text-xs sm:text-sm text-slate-600 mb-6">
                 Here are clear legal answers to common questions on RBI loan restructuring, One-Time Settlements. And borrower rights in India.
@@ -1036,9 +1036,9 @@ export default function RbiDebtResolutionFrameworkVsLoanSettlementPage() {
 
             {/* 5 Official Regulatory Links */}
             <section className="border-t border-slate-200 pt-8 mb-4">
-              <h3 className="text-xs sm:text-sm font-bold text-slate-900 mb-3 uppercase tracking-wider">
+              <h4 className="text-xs sm:text-sm font-bold text-slate-900 mb-3 uppercase tracking-wider">
                 Official Statutory &amp; Regulatory References
-              </h3>
+              </h4>
               <div className="grid grid-cols-1 sm:grid-cols-2 gap-2.5 text-xs">
                 <a
                   href="https://www.rbi.org.in"
@@ -1090,9 +1090,9 @@ export default function RbiDebtResolutionFrameworkVsLoanSettlementPage() {
 
             {/* 10 Related Guide Badges */}
             <section className="border-t border-slate-200 pt-8 mb-8">
-              <h3 className="text-xs sm:text-sm font-bold text-slate-900 mb-4 uppercase tracking-wider">
+              <h4 className="text-xs sm:text-sm font-bold text-slate-900 mb-4 uppercase tracking-wider">
                 Related Distressed Asset &amp; Loan Resolution Guides
-              </h3>
+              </h4>
               <div className="flex flex-wrap gap-2">
                 <Link
                   href="/bank-one-time-settlement-ots-policy"

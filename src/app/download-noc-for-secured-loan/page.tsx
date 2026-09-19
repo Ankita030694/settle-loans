@@ -143,14 +143,14 @@ export default function DownloadNOCPage() {
 
             {/* Digital vs Physical NOC */}
             <div id="differences-digital-physical" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">Digital vs. Physical NOC: Which is Better?</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">Digital vs. Physical NOC: Which is Better?</h3>
               <div className="bg-white rounded-2xl p-8 border border-[#DEDEDE] shadow-sm relative overflow-hidden">
                 <p className="text-lg leading-relaxed mb-6 text-gray-700">
                   In today's digital-first banking environment, many borrowers wonder if a soft copy (PDF) of their NOC is sufficient, or if they need to procure a hard copy with a wet signature. The reality is that both have their specific use cases. 
                 </p>
                 <div className="grid md:grid-cols-2 gap-6 mt-6">
                   <div className="bg-gray-50 p-6 rounded-xl border border-gray-200">
-                    <h3 className="font-black text-[#1F5EFF] text-xl mb-3">Digital NOC</h3>
+                    <h4 className="font-black text-[#1F5EFF] text-xl mb-3">Digital NOC</h4>
                     <p className="text-gray-700 mb-4">A digital NOC is usually generated instantly and sent to your registered email address. It features a digital signature that can be verified electronically.</p>
                     <ul className="space-y-2">
                       <li className="flex items-center gap-2"><span className="w-1.5 h-1.5 bg-[#1F5EFF] rounded-full"></span><span className="text-gray-700">Valid for personal records.</span></li>
@@ -159,7 +159,7 @@ export default function DownloadNOCPage() {
                     </ul>
                   </div>
                   <div className="bg-gray-50 p-6 rounded-xl border border-gray-200">
-                    <h4 className="font-black text-[#1F5EFF] text-xl mb-3">Physical NOC</h4>
+                    <h5 className="font-black text-[#1F5EFF] text-xl mb-3">Physical NOC</h5>
                     <p className="text-gray-700 mb-4">A physical NOC is dispatched via courier to your mailing address. It contains the official bank seal and the branch manager's wet signature.</p>
                     <ul className="space-y-2">
                       <li className="flex items-center gap-2"><span className="w-1.5 h-1.5 bg-[#1F5EFF] rounded-full"></span><span className="text-gray-700">Mandatory for property registrars.</span></li>
@@ -176,9 +176,9 @@ export default function DownloadNOCPage() {
 
             {/* Legal Risks of Missing NOC */}
             <div id="legal-implications" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">Legal Risks of Missing NOC</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">Legal Risks of Missing NOC</h3>
               <div className="bg-red-50 p-8 rounded-2xl mb-8 border border-red-100">
-                <h3 className="text-xl font-black text-red-700 mb-4">Why You Cannot Ignore This Step</h3>
+                <h4 className="text-xl font-black text-red-700 mb-4">Why You Cannot Ignore This Step</h4>
                 <p className="text-lg leading-relaxed mb-6 text-red-900">
                   Many borrowers make the critical mistake of assuming that once the final EMI is deducted, their relationship with the bank automatically ends. Without formally obtaining the NOC, you remain exposed to severe legal and financial risks.
                 </p>
@@ -201,9 +201,9 @@ export default function DownloadNOCPage() {
 
             {/* Blue Important Box */}
             <div id="step-by-step" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">How to Download NOC Online</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">How to Download NOC Online</h3>
               <div className="bg-blue-50 border-l-8 border-[#1F5EFF] p-8 rounded-r-2xl mb-8">
-                <h3 className="text-xl font-black text-[#1F5EFF] mb-4">Prerequisites for Digital Download</h3>
+                <h4 className="text-xl font-black text-[#1F5EFF] mb-4">Prerequisites for Digital Download</h4>
                 <p className="text-lg leading-relaxed mb-6 text-gray-800">Before you initiate the request, ensure you have these ready:</p>
                 <ul className="space-y-3">
                   <li className="flex items-start gap-3">
@@ -226,21 +226,21 @@ export default function DownloadNOCPage() {
                 <div className="flex gap-6">
                   <div className="flex-shrink-0 w-12 h-12 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center font-black text-xl shadow-lg">1</div>
                   <div>
-                    <h3 className="text-2xl font-black text-[#2E2E2E] mb-3">Log into the Portal</h3>
+                    <h4 className="text-2xl font-black text-[#2E2E2E] mb-3">Log into the Portal</h4>
                     <p className="text-lg leading-relaxed text-gray-700">Access your bank's net banking portal or official mobile application and navigate to the 'Loans' or 'Service Requests' section.</p>
                   </div>
                 </div>
                 <div className="flex gap-6">
                   <div className="flex-shrink-0 w-12 h-12 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center font-black text-xl shadow-lg">2</div>
                   <div>
-                    <h3 className="text-2xl font-black text-[#2E2E2E] mb-3">Initiate Closure Request</h3>
+                    <h4 className="text-2xl font-black text-[#2E2E2E] mb-3">Initiate Closure Request</h4>
                     <p className="text-lg leading-relaxed text-gray-700">Select 'Download NOC' or 'Request Closure Certificate'. Make sure to verify your email address before submitting, as the PDF will be sent there.</p>
                   </div>
                 </div>
                 <div className="flex gap-6">
                   <div className="flex-shrink-0 w-12 h-12 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center font-black text-xl shadow-lg">3</div>
                   <div>
-                    <h3 className="text-2xl font-black text-[#2E2E2E] mb-3">Download and Verify</h3>
+                    <h4 className="text-2xl font-black text-[#2E2E2E] mb-3">Download and Verify</h4>
                     <p className="text-lg leading-relaxed text-gray-700">Once generated, download the NOC. Check for the bank manager's digital signature, date of issue, and correct property/vehicle details.</p>
                   </div>
                 </div>
@@ -249,9 +249,9 @@ export default function DownloadNOCPage() {
 
             {/* Red Warning Box */}
             <div id="common-delays" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">Handling Delay in NOC from Bank</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">Handling Delay in NOC from Bank</h3>
               <div className="bg-red-50 p-6 rounded-xl border border-red-100 mb-8">
-                <h3 className="text-xl font-black text-red-700 mb-4">Warning: Do Not Ignore Delays</h3>
+                <h4 className="text-xl font-black text-red-700 mb-4">Warning: Do Not Ignore Delays</h4>
                 <p className="text-lg leading-relaxed mb-0 text-red-900">
                   A <strong className="text-red-900">delay in NOC from bank</strong> could indicate a systemic error or hidden outstanding charges. According to RBI rules, banks must release original property documents and issue the NOC within 30 days of full repayment. If they fail, they are liable to pay you a penalty of ₹5,000 per day of delay.
                 </p>
@@ -260,7 +260,7 @@ export default function DownloadNOCPage() {
 
             {/* Duplicate NOC */}
             <div id="duplicate-noc" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">Applying for a Duplicate NOC</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">Applying for a Duplicate NOC</h3>
               <div className="bg-gray-50 p-8 rounded-2xl mb-8 border border-gray-200">
                 <p className="text-lg leading-relaxed mb-6 text-gray-700">
                   Losing your original NOC can be stressful, especially if you need it urgently for an asset transfer. Banks have a strict protocol for issuing a duplicate NOC to prevent fraudulent claims.
@@ -269,17 +269,17 @@ export default function DownloadNOCPage() {
                 <div className="grid md:grid-cols-3 gap-4 mb-6">
                   <div className="bg-white p-5 rounded-xl border border-gray-200 shadow-sm">
                     <div className="w-10 h-10 bg-[#1F5EFF]/10 text-[#1F5EFF] rounded-lg flex items-center justify-center font-bold mb-3">1</div>
-                    <h3 className="font-bold text-[#2E2E2E] mb-2">File an FIR</h3>
+                    <h4 className="font-bold text-[#2E2E2E] mb-2">File an FIR</h4>
                     <p className="text-sm text-gray-600">Register a police complaint reporting the loss of the original document. Get a stamped copy of the FIR.</p>
                   </div>
                   <div className="bg-white p-5 rounded-xl border border-gray-200 shadow-sm">
                     <div className="w-10 h-10 bg-[#1F5EFF]/10 text-[#1F5EFF] rounded-lg flex items-center justify-center font-bold mb-3">2</div>
-                    <h4 className="font-bold text-[#2E2E2E] mb-2">Execute an Indemnity Bond</h4>
+                    <h5 className="font-bold text-[#2E2E2E] mb-2">Execute an Indemnity Bond</h5>
                     <p className="text-sm text-gray-600">Draft a legally binding indemnity bond on stamp paper, protecting the bank against misuse of the duplicate.</p>
                   </div>
                   <div className="bg-white p-5 rounded-xl border border-gray-200 shadow-sm">
                     <div className="w-10 h-10 bg-[#1F5EFF]/10 text-[#1F5EFF] rounded-lg flex items-center justify-center font-bold mb-3">3</div>
-                    <h4 className="font-bold text-[#2E2E2E] mb-2">Submit Request</h4>
+                    <h5 className="font-bold text-[#2E2E2E] mb-2">Submit Request</h5>
                     <p className="text-sm text-gray-600">Visit your home branch with the FIR, indemnity bond, identity proof, and pay the duplicate issuance fee (usually ₹500 - ₹1000).</p>
                   </div>
                 </div>
@@ -291,7 +291,7 @@ export default function DownloadNOCPage() {
 
             {/* Gray Insight Box */}
             <div id="track-status" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">How to Track Loan Closure NOC</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">How to Track Loan Closure NOC</h3>
               <div className="bg-gray-50 p-8 rounded-2xl mb-8 border border-gray-200">
                 <p className="text-lg leading-relaxed mb-6 text-gray-700">
                   If you applied manually or the digital copy hasn't arrived, you must <strong className="text-[#2E2E2E]">track loan closure NOC</strong> status proactively. Use the Service Request (SR) Number provided during application on the bank's 'Track Status' page.
@@ -300,19 +300,19 @@ export default function DownloadNOCPage() {
                 {/* 4-Grid Info Boxes inside Insight */}
                 <div className="grid md:grid-cols-2 gap-6 my-8">
                   <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
-                    <h3 className="font-black text-[#1F5EFF] text-lg mb-3">Status: Processing</h3>
+                    <h4 className="font-black text-[#1F5EFF] text-lg mb-3">Status: Processing</h4>
                     <p className="text-gray-700">The bank is auditing your account for zero balance.</p>
                   </div>
                   <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
-                    <h4 className="font-black text-[#1F5EFF] text-lg mb-3">Status: Dispatched</h4>
+                    <h5 className="font-black text-[#1F5EFF] text-lg mb-3">Status: Dispatched</h5>
                     <p className="text-gray-700">Courier tracking number should be active. Usually takes 3-5 days.</p>
                   </div>
                   <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
-                    <h4 className="font-black text-[#1F5EFF] text-lg mb-3">Status: On Hold</h4>
+                    <h5 className="font-black text-[#1F5EFF] text-lg mb-3">Status: On Hold</h5>
                     <p className="text-gray-700">Unpaid penalties detected. Clear them to release the NOC.</p>
                   </div>
                   <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
-                    <h4 className="font-black text-[#1F5EFF] text-lg mb-3">Status: Delivered</h4>
+                    <h5 className="font-black text-[#1F5EFF] text-lg mb-3">Status: Delivered</h5>
                     <p className="text-gray-700">NOC sent to registered address or email.</p>
                   </div>
                 </div>
@@ -321,7 +321,7 @@ export default function DownloadNOCPage() {
 
             {/* Review / Success Stories */}
             <div id="success-stories" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">Borrower Success Stories</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">Borrower Success Stories</h3>
               <div className="grid md:grid-cols-2 gap-6">
                 
                 {/* Review Card 1 */}
@@ -377,7 +377,7 @@ export default function DownloadNOCPage() {
 
             {/* FAQs */}
             <div id="faq" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">Frequently Asked Questions</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">Frequently Asked Questions</h3>
               <div className="space-y-4">
                 <details name="faq-accordion" className="bg-white border border-[#DEDEDE] rounded-xl p-6 hover:shadow-md group cursor-pointer transition-shadow">
                   <summary className="font-black text-xl text-[#2E2E2E] outline-none flex justify-between items-center">
@@ -465,7 +465,7 @@ export default function DownloadNOCPage() {
             <div className="bg-[#2E2E2E] text-white p-12 rounded-[40px] text-center mt-24 relative overflow-hidden group">
               <div className="absolute inset-0 bg-[#1F5EFF] opacity-0 group-hover:opacity-5 transition-opacity"></div>
               <div className="relative z-10">
-                <h3 className="text-3xl font-black mb-6">Struggling with Bank Delays?</h3>
+                <h4 className="text-3xl font-black mb-6">Struggling with Bank Delays?</h4>
                 <p className="text-xl text-gray-300 mb-8 max-w-2xl mx-auto">
                   If your bank is withholding your NOC or property documents beyond 30 days, we can help you file a grievance and claim your RBI penalty.
                 </p>

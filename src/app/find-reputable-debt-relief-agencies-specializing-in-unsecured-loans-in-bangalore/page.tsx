@@ -307,14 +307,14 @@ export default function BangaloreDebtReliefPage() {
             </section>
 
             <section id="ama-legal-solutions" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
                 1. AMA Legal Solutions: The Legal Vanguard in Karnataka
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 At the forefront of debt relief in Bangalore stands AMA Legal Solutions. Unlike many general consultancy firms, AMA Legal Solutions is built on a foundation of legal expertise. They understand that loan settlement is as much a legal process as it is a financial one.
               </p>
               <div className="bg-gray-50 p-8 rounded-xl border border-gray-200 mb-8">
-                <h3 className="text-xl font-bold mb-6 text-[#2E2E2E]">Key Highlights of AMA Legal Solutions:</h3>
+                <h4 className="text-xl font-bold mb-6 text-[#2E2E2E]">Key Highlights of AMA Legal Solutions:</h4>
                 <ul className="grid md:grid-cols-1 gap-4 text-sm font-medium">
                   <li className="flex items-start gap-2">
                     <span className="w-2 h-2 bg-[#1F5EFF] rounded-full mt-1.5 shrink-0"></span>
@@ -337,14 +337,14 @@ export default function BangaloreDebtReliefPage() {
             </section>
 
             <section id="credsettle" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
                 2. CredSettle: Tech-Driven Debt Resolution
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 CredSettle brings a modern, tech-driven approach to debt relief in Bangalore. Recognizing the fast-paced nature of the city, they have developed a platform that simplifies the debt settlement process.
               </p>
               <div className="bg-blue-50 p-8 rounded-xl border border-blue-200 mb-8">
-                <h3 className="text-xl font-bold mb-4 text-blue-900">Modern Borrower Perspective</h3>
+                <h4 className="text-xl font-bold mb-4 text-blue-900">Modern Borrower Perspective</h4>
                 <p className="text-sm text-blue-800 leading-relaxed mb-4">
                   "I was skeptical about debt settlement until I worked with CredSettle. They managed to settle my three credit cards for 45% of the total value. Their portal made it so easy to track progress while I was busy with my deployments at my startup."
                 </p>
@@ -353,26 +353,26 @@ export default function BangaloreDebtReliefPage() {
             </section>
 
             <section id="settleloans" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
                 3. SettleLoans: Empathetic Debt Consultation
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 SettleLoans is renowned for its empathetic and personalized approach to debt relief. They understand that behind every debt story is a human being facing a crisis.
               </p>
               <div className="grid sm:grid-cols-2 gap-4 my-8">
                 <div className="bg-white p-5 rounded-xl border border-[#DEDEDE] shadow-sm hover:shadow-md transition-shadow">
-                  <h3 className="font-bold text-[#2E2E2E] mb-2 text-[#1F5EFF]">Dedicated Case Managers</h3>
+                  <h4 className="font-bold text-[#2E2E2E] mb-2 text-[#1F5EFF]">Dedicated Case Managers</h4>
                   <p className="text-xs text-gray-500">A single point of contact who understands the nuances of the Bangalore market.</p>
                 </div>
                 <div className="bg-white p-5 rounded-xl border border-[#DEDEDE] shadow-sm hover:shadow-md transition-shadow">
-                  <h4 className="font-bold text-[#2E2E2E] mb-2 text-[#1F5EFF]">High Success Rate</h4>
+                  <h5 className="font-bold text-[#2E2E2E] mb-2 text-[#1F5EFF]">High Success Rate</h5>
                   <p className="text-xs text-gray-500">Consistent success in settling unsecured loans for 30% to 50% of the principal amount.</p>
                 </div>
               </div>
             </section>
 
             <section id="unsecured-loan-settlement" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">The Mechanics of Unsecured Loan Settlement</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">The Mechanics of Unsecured Loan Settlement</h3>
               <p className="mb-6 text-lg leading-relaxed">
                 Unsecured loans, such as personal loans and credit card debts, are the most common type of debt settled in Bangalore. Lenders have a different approach to recovery and settlement for these loans due to the lack of collateral.
               </p>
@@ -382,7 +382,7 @@ export default function BangaloreDebtReliefPage() {
             </section>
 
             <section id="historical-evolution-debt" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">The Historical Evolution of Debt in Bangalore</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">The Historical Evolution of Debt in Bangalore</h3>
               <p className="mb-6 text-lg leading-relaxed">
                 Following the 1991 economic liberalization, Bangalore transformed from a "Pensioner's Paradise" into the world's most dynamic tech hub. This shift brought unprecedented wealth, but also a culture of consumption fueled by easy credit.
               </p>
@@ -392,14 +392,14 @@ export default function BangaloreDebtReliefPage() {
             </section>
 
             <section id="neighborhood-trends" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Neighborhood-Specific Debt Trends</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Neighborhood-Specific Debt Trends</h3>
               <p className="mb-6 text-lg leading-relaxed">
                 Debt patterns in Bangalore vary significantly by neighborhood. In Koramangala and HSR Layout, debt is frequently tied to failed entrepreneurial ventures or high-stakes business loans. In contrast, corporate hubs like Whitefield see a higher prevalence of personal loans for lifestyle upgrades.
               </p>
             </section>
 
             <section id="digital-lending-apps-bangalore" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Digital Lending Apps in Bangalore</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Digital Lending Apps in Bangalore</h3>
               <p className="mb-6 text-lg leading-relaxed text-red-600 font-bold">
                 The rise of fintech has led to a significant increase in debt traps through unregulated or aggressive digital lending apps.
               </p>
@@ -409,16 +409,16 @@ export default function BangaloreDebtReliefPage() {
             </section>
 
             <section id="psychology-of-debt-recovery" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">The Psychology of Debt Recovery</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">The Psychology of Debt Recovery</h3>
               <p className="mb-6 text-lg leading-relaxed">
                 In the high-pressure environment of the IT corridor, the stigma of financial failure can be overwhelming. Tech professionals often fear that admitting to debt could impact their career prospects.
               </p>
             </section>
 
             <section id="fake-agency-signs" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Avoiding Debt Scams</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Avoiding Debt Scams</h3>
               <div className="bg-gray-900 text-white p-8 md:p-12 rounded-3xl shadow-3xl relative overflow-hidden mb-8">
-                <h3 className="text-xl font-bold mb-6 text-white uppercase tracking-wider">Red Flags to Watch For:</h3>
+                <h4 className="text-xl font-bold mb-6 text-white uppercase tracking-wider">Red Flags to Watch For:</h4>
                 <ul className="space-y-4">
                   <li className="flex items-start gap-4">
                     <span className="w-6 h-6 bg-red-600 rounded-full flex shrink-0 items-center justify-center text-xs font-bold mt-0.5">!</span>
@@ -437,7 +437,7 @@ export default function BangaloreDebtReliefPage() {
             </section>
 
             <section id="success-stories" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 text-center">Real Stories of Freedom</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 text-center">Real Stories of Freedom</h3>
               <div className="grid md:grid-cols-2 gap-6 not-prose">
                 {[
                   {
@@ -475,7 +475,7 @@ export default function BangaloreDebtReliefPage() {
                         {review.name.charAt(0)}
                       </div>
                       <div>
-                        <h3 className="font-bold text-[#2E2E2E]">{review.name}</h3>
+                        <h4 className="font-bold text-[#2E2E2E]">{review.name}</h4>
                         <p className="text-xs text-gray-400">{review.loc}</p>
                       </div>
                       <div className="ml-auto text-yellow-400 text-sm">★★★★★</div>
@@ -490,7 +490,7 @@ export default function BangaloreDebtReliefPage() {
             </section>
 
             <section id="faqs" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Common Questions</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Common Questions</h3>
               <div className="space-y-4 not-prose">
                 {faqs.map((faq: any, i: number) => (
                   <details key={i} className="group bg-white border border-[#DEDEDE] rounded-xl overflow-hidden hover:shadow-md transition-all border-b-4 border-b-[#1F5EFF]/20">
@@ -516,7 +516,7 @@ export default function BangaloreDebtReliefPage() {
             <div className="lg:hidden mt-16 mb-8">
               <div className="bg-[#2E2E2E] rounded-2xl shadow-xl overflow-hidden border border-[#1F5EFF]/20">
                 <div className="bg-[#1F5EFF] p-6 text-center text-white">
-                  <h3 className="text-2xl font-black mb-2 uppercase tracking-wide">Ready to Reclaim Freedom?</h3>
+                  <h4 className="text-2xl font-black mb-2 uppercase tracking-wide">Ready to Reclaim Freedom?</h4>
                   <p className="opacity-90 text-sm">Join the thousands of Bangalore professionals we've helped find their way to financial freedom.</p>
                 </div>
                 <div className="p-8 text-center text-[#DEDEDE]">

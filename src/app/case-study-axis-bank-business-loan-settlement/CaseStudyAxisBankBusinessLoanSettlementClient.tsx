@@ -373,9 +373,9 @@ export default function CaseStudyAxisBankBusinessLoanSettlementClient() {
 
             {/* Section 2: Commercial vs Retail Debt Rules */}
             <section id="commercial-vs-retail-debt-mechanics" className="mb-10 scroll-mt-24">
-              <h2 className="text-xl md:text-2xl lg:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h3 className="text-xl md:text-2xl lg:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 2. Commercial vs. Retail Debt: How Axis Bank Treats Unsecured Business Loans
-              </h2>
+              </h3>
               <p className="text-slate-700 leading-relaxed mb-4">
                 Commercial debt negotiation operates under fundamentally distinct legal, accounting, and institutional dynamics compared to retail consumer loans. When an individual defaults on a consumer credit card or personal loan, the bank evaluates the delinquency against household income and salary slip loss. By contrast, an unsecured business loan default involves commercial risk assessment, enterprise solvency audits, GST reconciliation, and personal guarantee enforceability.
               </p>
@@ -389,9 +389,9 @@ export default function CaseStudyAxisBankBusinessLoanSettlementClient() {
 
             {/* Section 3: Axis Bank NPA Provisioning Rules */}
             <section id="axis-bank-npa-provisioning-accounting" className="mb-10 scroll-mt-24">
-              <h2 className="text-xl md:text-2xl lg:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h3 className="text-xl md:text-2xl lg:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 3. Behind the Bank Ledger: Axis Bank NPA Provisioning &amp; MSME Accounting
-              </h2>
+              </h3>
               <p className="text-slate-700 leading-relaxed mb-4">
                 Under the <em>RBI Master Directions on Prudential Norms on Income Recognition, Asset Classification and Provisioning</em>, commercial scheduled banks must set aside substantial capital provisions from their operating profits against stressed assets. The lack of collateral in unsecured business loans makes them extraordinarily costly for Axis Bank to hold on its active balance sheet.
               </p>
@@ -446,9 +446,9 @@ export default function CaseStudyAxisBankBusinessLoanSettlementClient() {
 
             {/* Section 4: Personal Guarantor Asset Seizure Defense */}
             <section id="personal-guarantor-asset-protection" className="mb-10 scroll-mt-24">
-              <h2 className="text-xl md:text-2xl lg:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h3 className="text-xl md:text-2xl lg:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 4. Personal Guarantor Protection: Shielding Residential &amp; Personal Assets from Seizure
-              </h2>
+              </h3>
               <p className="text-slate-700 leading-relaxed mb-4">
                 The most severe anxiety confronting defaulting business founders involves the enforcement of personal guarantees. When third-party recovery agencies initially contacted Rajesh, they issued unlawful verbal threats claiming that Axis Bank would immediately attach his family&apos;s residential apartment, freeze his spouse&apos;s independent bank accounts, and auction household belongings within forty-eight hours.
               </p>
@@ -488,9 +488,9 @@ export default function CaseStudyAxisBankBusinessLoanSettlementClient() {
                       <span className="text-[10px] font-black uppercase tracking-widest text-blue-300 block">
                         Legal Defense &amp; Action Blueprint
                       </span>
-                      <h3 className="text-sm md:text-base font-black text-white leading-tight">
+                      <h4 className="text-sm md:text-base font-black text-white leading-tight">
                         Axis Bank Business Loan Settlement: ₹15L to ₹5.5L Blueprint
-                      </h3>
+                      </h4>
                     </div>
                   </div>
                   <a
@@ -533,9 +533,9 @@ export default function CaseStudyAxisBankBusinessLoanSettlementClient() {
 
             {/* Section 6: Hardship Audit & NPV Formula */}
             <section id="hardship-dossier-npv-valuation" className="mb-10 scroll-mt-24">
-              <h2 className="text-xl md:text-2xl lg:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h3 className="text-xl md:text-2xl lg:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 6. Forensic Hardship Dossier &amp; Commercial NPV Recovery Valuation Formula
-              </h2>
+              </h3>
               <p className="text-slate-700 leading-relaxed mb-4">
                 Securing a massive commercial debt waiver from Axis Bank requires overcoming stringent anti-willful-default audits. Under Master Circular guidelines, the bank must satisfy itself that funds were not siphoned into personal shell entities and that business failure was genuine.
               </p>
@@ -570,9 +570,9 @@ export default function CaseStudyAxisBankBusinessLoanSettlementClient() {
 
             {/* Section 7: Multi-Round SARB Haircut (63.3%) */}
             <section id="sarb-negotiation-haircut-breakdown" className="mb-10 scroll-mt-24">
-              <h2 className="text-xl md:text-2xl lg:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h3 className="text-xl md:text-2xl lg:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 7. The Settlement Table: Negotiating the 63.3% Haircut with Axis Bank SARB
-              </h2>
+              </h3>
               <p className="text-slate-700 leading-relaxed mb-4">
                 Negotiating an enterprise compromise settlement with Axis Bank requires bypassing local branch sales personnel who lack write-off mandates under Axis Bank&apos;s <em>Delegation of Financial Powers (DoFP)</em> hierarchy. SettleLoans engaged directly with the <strong>Stressed Assets Resolution Branch (SARB)</strong> and the Regional Stressed Assets Credit Committee at Axis Bank&apos;s Zonal Headquarters.
               </p>
@@ -635,9 +635,9 @@ export default function CaseStudyAxisBankBusinessLoanSettlementClient() {
 
             {/* Section 8: Sanction Letter Legal Forensics */}
             <section id="sanction-letter-forensics-execution" className="mb-10 scroll-mt-24">
-              <h2 className="text-xl md:text-2xl lg:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h3 className="text-xl md:text-2xl lg:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 8. Sanction Letter Forensics: 5 Essential Clauses &amp; Secure Payment Execution
-              </h2>
+              </h3>
               <p className="text-slate-700 leading-relaxed mb-4">
                 Prior to releasing any financial settlement funds, SettleLoans conducted a meticulous forensic audit of the formal sanction letter issued by Axis Bank. Many unguided borrowers fall victim to fraudulent collection communications or invalid letters issued by external recovery agencies without legal delegation.
               </p>
@@ -654,9 +654,9 @@ export default function CaseStudyAxisBankBusinessLoanSettlementClient() {
 
             {/* Section 9: ₹0 NDC & Commercial CIBIL Recovery */}
             <section id="no-dues-certificate-cibil-recovery" className="mb-10 scroll-mt-24">
-              <h2 className="text-xl md:text-2xl lg:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h3 className="text-xl md:text-2xl lg:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 9. The ₹0 No Dues Certificate &amp; Commercial CIBIL Score Reconstruction
-              </h2>
+              </h3>
               <p className="text-slate-700 leading-relaxed mb-4">
                 Under <strong>RBI Circular RBI/2023-24/60</strong>, regulated commercial banking institutions are mandated to issue a formal No Dues Certificate (NDC) and transmit updated credit records to Credit Information Companies within thirty calendar days of full settlement realization.
               </p>
@@ -673,9 +673,9 @@ export default function CaseStudyAxisBankBusinessLoanSettlementClient() {
 
             {/* Section 10: Comparative Resolution Matrix */}
             <section id="comparative-resolution-matrix" className="mb-10 scroll-mt-24">
-              <h2 className="text-xl md:text-2xl lg:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h3 className="text-xl md:text-2xl lg:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 10. Comparative Resolution Matrix: Commercial OTS vs. IBC/NCLT vs. DRT Litigation
-              </h2>
+              </h3>
               <p className="text-slate-700 leading-relaxed mb-4">
                 Distressed enterprise owners must evaluate the comparative advantages of commercial One-Time Settlements against alternative institutional debt resolution avenues available under Indian banking jurisprudence:
               </p>
@@ -742,9 +742,9 @@ export default function CaseStudyAxisBankBusinessLoanSettlementClient() {
                   <HelpCircle className="w-3.5 h-3.5" />
                   <span>Frequently Asked Questions</span>
                 </div>
-                <h2 className="text-2xl sm:text-3xl font-black text-slate-900 leading-tight">
+                <h3 className="text-2xl sm:text-3xl font-black text-slate-900 leading-tight">
                   Commercial Debt Settlement &amp; Guarantor Protection FAQs
-                </h2>
+                </h3>
                 <p className="text-sm text-slate-600 mt-2">
                   Authoritative legal insights regarding Axis Bank unsecured business loan settlements, MSME debt haircuts, personal guarantor rights, and credit score reconstruction.
                 </p>
@@ -765,10 +765,10 @@ export default function CaseStudyAxisBankBusinessLoanSettlementClient() {
 
             {/* Regulatory & Institutional Sources Strip (5 Official Links) */}
             <div className="bg-slate-50 border border-slate-200 rounded-2xl p-6 my-10 text-xs text-slate-700">
-              <h3 className="text-sm font-bold text-slate-900 mb-3 flex items-center gap-2">
+              <h4 className="text-sm font-bold text-slate-900 mb-3 flex items-center gap-2">
                 <Landmark className="w-4 h-4 text-[#1F5EFF]" />
                 Official Statutory Authorities &amp; Regulatory Frameworks
-              </h3>
+              </h4>
               <ul className="space-y-2.5">
                 <li className="flex items-start gap-2">
                   <ExternalLink className="w-4 h-4 text-[#1F5EFF] flex-shrink-0 mt-0.5" />
@@ -830,10 +830,10 @@ export default function CaseStudyAxisBankBusinessLoanSettlementClient() {
 
             {/* Related Guides & Resources Strip (10 Topic Badges) */}
             <div className="bg-slate-50 border border-slate-200 rounded-2xl p-6 my-10">
-              <h3 className="text-base font-bold text-slate-900 mb-4 flex items-center gap-2">
+              <h4 className="text-base font-bold text-slate-900 mb-4 flex items-center gap-2">
                 <BookOpen className="w-5 h-5 text-[#1F5EFF]" />
                 Explore Related Commercial &amp; Debt Resolution Guides
-              </h3>
+              </h4>
               <div className="flex flex-wrap gap-2.5">
                 <Link
                   href="/unsecured-business-loan-settlement"

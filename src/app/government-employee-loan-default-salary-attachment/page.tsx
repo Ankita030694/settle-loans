@@ -557,9 +557,9 @@ export default function GovernmentEmployeeLoanDefaultPage() {
 
             {/* Section 2: Statutory Salary Attachment Laws */}
             <section id="statutory-salary-attachment-laws" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                 2. Statutory Salary Attachment Laws: Section 60 CPC, DDO Jurisdictional Limits &amp; Maximum Deduction Caps
-              </h2>
+              </h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 One of the most persistent myths propagated by recovery personnel is the assertion that a bank can simply issue a letter to your office Treasury or DDO to freeze your salary or enforce monthly pay cuts. Under the sovereign legal framework of India, this assertion is entirely fraudulent. A commercial bank or NBFC has zero administrative authority over government accounting offices.
               </p>
@@ -620,46 +620,46 @@ export default function GovernmentEmployeeLoanDefaultPage() {
 
             {/* Section 3: Departmental Notices & CAT Jurisprudence */}
             <section id="departmental-notices-cat-precedents" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                 3. Departmental Notices, Recovery Agent Harassment &amp; Central Administrative Tribunal (CAT) Jurisprudence
-              </h2>
+              </h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 When bank recovery departments send informal demand letters directly to a government department, mark copies to the Vigilance Officer, or make abusive phone calls to an administrative branch, they commit severe, actionable violations of Indian law and Reserve Bank of India directives. Under the <strong>RBI Master Direction on Fair Practices Code for Lenders</strong>, financial institutions are strictly prohibited from:
               </p>
 
               <div className="space-y-3 my-4">
                 <div className="p-4 rounded-xl border-l-4 border-red-500 bg-slate-50 space-y-1">
-                  <h3 className="font-bold text-slate-900 text-xs sm:text-sm flex items-center gap-1.5">
+                  <h4 className="font-bold text-slate-900 text-xs sm:text-sm flex items-center gap-1.5">
                     <Ban className="w-4 h-4 text-red-600" />
                     <span>Illegal Third-Party Disclosure &amp; Workplace Trespass</span>
-                  </h3>
+                  </h4>
                   <p className="text-xs text-slate-600 leading-relaxed">
                     Contacting an employer, disclosing confidential debt records to colleagues, or sending recovery agents to high-security government establishments or defense cantonments violates Section 29 of the Credit Information Companies (Regulation) Act, 2005, and constitutes criminal trespass under the Bharatiya Nyaya Sanhita.
                   </p>
                 </div>
                 <div className="p-4 rounded-xl border-l-4 border-amber-500 bg-slate-50 space-y-1">
-                  <h4 className="font-bold text-slate-900 text-xs sm:text-sm flex items-center gap-1.5">
+                  <h5 className="font-bold text-slate-900 text-xs sm:text-sm flex items-center gap-1.5">
                     <ShieldAlert className="w-4 h-4 text-amber-600" />
                     <span>Fabrication of Non-Bailable Warrants &amp; Vigilance Threats</span>
-                  </h4>
+                  </h5>
                   <p className="text-xs text-slate-600 leading-relaxed">
                     Sending counterfeit &quot;Court Summons&quot; or fake &quot;CVC Inquiry Notices&quot; via WhatsApp or postal courier to intimidate employees is a punishable offense under Section 318 (Cheating) and Section 336 (Forgery) of the Bharatiya Nyaya Sanhita, 2023.
                   </p>
                 </div>
                 <div className="p-4 rounded-xl border-l-4 border-purple-500 bg-slate-50 space-y-1">
-                  <h4 className="font-bold text-slate-900 text-xs sm:text-sm flex items-center gap-1.5">
+                  <h5 className="font-bold text-slate-900 text-xs sm:text-sm flex items-center gap-1.5">
                     <Gavel className="w-4 h-4 text-purple-600" />
                     <span>Armed Forces &amp; Defense Court Martial Deceptions</span>
-                  </h4>
+                  </h5>
                   <p className="text-xs text-slate-600 leading-relaxed">
                     For defense personnel serving in the Indian Army, Navy, or Air Force, recovery agents frequently threaten Court Martial proceedings under the Army Act. In reality, private commercial debt defaults are entirely outside military court jurisdiction. Military tribunals have zero authority over commercial contract disputes.
                   </p>
                 </div>
               </div>
 
-              <h3 className="text-base sm:text-lg font-bold text-slate-900 pt-2">
+              <h4 className="text-base sm:text-lg font-bold text-slate-900 pt-2">
                 Landmark Central Administrative Tribunal (CAT) &amp; High Court Rulings
-              </h3>
+              </h4>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 The <strong>Central Administrative Tribunal (Principal Bench, New Delhi)</strong> and various High Courts across India have repeatedly established that ordinary indebtedness does not constitute misconduct warranting disciplinary penalties. In landmark judgments examining Rule 16 of the CCS Conduct Rules, administrative benches have ruled that where indebtedness arises from unforeseen family illness, legal obligations, or genuine economic hardships, an employee cannot be subjected to major penalties such as compulsory retirement, reduction in rank, or termination of service.
               </p>
@@ -670,9 +670,9 @@ export default function GovernmentEmployeeLoanDefaultPage() {
 
             {/* Section 4: Bank NPA Accounting & NPV Settlement Formula */}
             <section id="bank-accounting-npv-recovery-formula" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                 4. Bank Balance Sheet Accounting, NPA Provisioning &amp; The Net Present Value (NPV) Equation
-              </h2>
+              </h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 To negotiate effectively from a position of strength, a government employee must understand how banks account for delinquent loans behind closed doors. When an unsecured personal loan or credit card crosses 90 days of non-payment, Reserve Bank of India prudential norms compel the lender to classify the account as a <strong>Non-Performing Asset (NPA)</strong>.
               </p>
@@ -744,9 +744,9 @@ export default function GovernmentEmployeeLoanDefaultPage() {
 
             {/* Section 5: Infographic Banner */}
             <section id="govt-employee-settlement-roadmap" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                 5. Government Employee Debt Defense &amp; Resolution Visual Roadmap
-              </h2>
+              </h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 The visual roadmap below details the structured 5-stage institutional process through which public sector employees transition from collection harassment and salary attachment threats to complete debt extinguishment under a legally verified One-Time Settlement.
               </p>
@@ -781,34 +781,34 @@ export default function GovernmentEmployeeLoanDefaultPage() {
 
             {/* Section 6: 4-Stage Advocate Defense Protocol */}
             <section id="four-stage-advocate-defense-protocol" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                 6. The 4-Stage Advocate Defense Protocol for Government, Defense &amp; PSU Personnel
-              </h2>
+              </h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 When confronting aggressive bank recovery actions, government employees cannot afford passive delay or informal verbal arguments with collection agents. Retaining experienced debt defense legal advocates ensures an aggressive, institutional buffer that insulates your department and career from collateral damage:
               </p>
 
               <div className="space-y-3 my-4">
                 <div className="p-4 rounded-xl border-l-4 border-blue-600 bg-slate-50 space-y-1">
-                  <h3 className="font-bold text-slate-900 text-xs sm:text-sm">Stage 1: Cease-and-Desist Notice &amp; Anti-Harassment Injunction</h3>
+                  <h4 className="font-bold text-slate-900 text-xs sm:text-sm">Stage 1: Cease-and-Desist Notice &amp; Anti-Harassment Injunction</h4>
                   <p className="text-xs text-slate-600 leading-relaxed">
                     Advocates serve an immediate statutory legal demand on the bank&apos;s Managing Director, Zonal Collection Head, and Principal Nodal Officer. The notice formally places the bank on record regarding illegal employer contact, cites RBI Fair Practices Code violations, and warns of criminal defamation and damages suits if workplace communications do not immediately cease.
                   </p>
                 </div>
                 <div className="p-4 rounded-xl border-l-4 border-indigo-600 bg-slate-50 space-y-1">
-                  <h4 className="font-bold text-slate-900 text-xs sm:text-sm">Stage 2: Invoking Section 60 CPC &amp; DDO Protection Filing</h4>
+                  <h5 className="font-bold text-slate-900 text-xs sm:text-sm">Stage 2: Invoking Section 60 CPC &amp; DDO Protection Filing</h5>
                   <p className="text-xs text-slate-600 leading-relaxed">
                     Counsel prepares a comprehensive legal brief detailing the employee&apos;s protected salary structure under Section 60(1)(i) CPC, establishing that non-basic allowances are statutorily unattachable and demonstrating that any extra-judicial demand served on the DDO is void ab initio.
                   </p>
                 </div>
                 <div className="p-4 rounded-xl border-l-4 border-purple-600 bg-slate-50 space-y-1">
-                  <h4 className="font-bold text-slate-900 text-xs sm:text-sm">Stage 3: Escalation to RBI Integrated Ombudsman Portal</h4>
+                  <h5 className="font-bold text-slate-900 text-xs sm:text-sm">Stage 3: Escalation to RBI Integrated Ombudsman Portal</h5>
                   <p className="text-xs text-slate-600 leading-relaxed">
                     If third-party collection agents persist in harassing the borrower&apos;s workplace or issuing threats of vigilance action, an expedited regulatory complaint is lodged on the <strong>RBI CMS portal (cms.rbi.org.in)</strong> under the category of &quot;Harassment and Unfair Debt Recovery Practices&quot;. Banks face severe regulatory audits and monetary penalties for employer harassment.
                   </p>
                 </div>
                 <div className="p-4 rounded-xl border-l-4 border-amber-600 bg-slate-50 space-y-1">
-                  <h4 className="font-bold text-slate-900 text-xs sm:text-sm">Stage 4: High Court Writ or CAT Injunction (Emergency Protection)</h4>
+                  <h5 className="font-bold text-slate-900 text-xs sm:text-sm">Stage 4: High Court Writ or CAT Injunction (Emergency Protection)</h5>
                   <p className="text-xs text-slate-600 leading-relaxed">
                     In rare instances where a Public Sector Bank attempts unauthorized administrative recovery or where an overzealous administrative branch initiates unwarranted disciplinary queries, counsel files an urgent Writ Petition under Article 226 of the Constitution before the High Court or an Original Application (OA) before the Central Administrative Tribunal to secure protective interim orders.
                   </p>
@@ -822,9 +822,9 @@ export default function GovernmentEmployeeLoanDefaultPage() {
 
             {/* Section 7: Confidential 45%-65% OTS Structuring */}
             <section id="confidential-ots-shielding-service" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                 7. Negotiating a Discretionary 45%–65% One-Time Settlement (OTS) Without Service Record Impact
-              </h2>
+              </h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 The ultimate objective of debt defense is not merely halting harassment, but permanently extinguishing the underlying debt through an institutional <strong>One-Time Settlement (OTS)</strong>. An OTS is a consensual, legally binding compromise agreement wherein the lender accepts a discounted lump sum or multi-tranche payment to close the loan account in full and final satisfaction of all claims.
               </p>
@@ -874,9 +874,9 @@ export default function GovernmentEmployeeLoanDefaultPage() {
 
             {/* Section 8: Sanction Letter Forensics & RBI NDC Mandate */}
             <section id="sanction-forensics-rbi-ndc-mandate" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                 8. Sanction Letter Forensics, Direct Remittance, RBI ₹0 NDC Mandate &amp; Bureau Trajectory
-              </h2>
+              </h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 A critical hazard during loan settlement is falling prey to fraudulent settlement promises issued by rogue recovery agents. Tele-callers routinely generate unauthorized discount slips on fake letterheads to collect partial payments that are subsequently misapplied toward accrued penal interest rather than settling the loan. Government employees must never disburse settlement funds until the approval letter passes rigorous forensic verification.
               </p>
@@ -904,9 +904,9 @@ export default function GovernmentEmployeeLoanDefaultPage() {
                 </p>
               </div>
 
-              <h3 className="text-base sm:text-lg font-bold text-slate-900 pt-2">
+              <h4 className="text-base sm:text-lg font-bold text-slate-900 pt-2">
                 Understanding CIBIL Bureau Reporting &amp; Credit Score Rehabilitation
-              </h3>
+              </h4>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Following settlement, the bank updates credit bureau records with the status remark <strong>&quot;Settled&quot;</strong> or <strong>&quot;Post-Write-off Settled&quot;</strong> with a current outstanding balance of <strong>₹0</strong>. While this results in a temporary credit score dip of 70 to 120 points, it completely eliminates default compounding and prevents any legal action. By obtaining a secured fixed-deposit credit card, keeping credit utilization below 30%, and maintaining timely utility payments, settled employees systematically rebuild their credit score back above 750 within 18 to 24 months.
               </p>
@@ -914,9 +914,9 @@ export default function GovernmentEmployeeLoanDefaultPage() {
 
             {/* Section 9: Comparative Legal Matrix */}
             <section id="comparative-legal-matrix" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                 9. Comparative Legal Matrix: Recovery Threats vs. Civil Court Decree vs. CAT Inquiry vs. OTS
-              </h2>
+              </h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Evaluating the legal reality versus recovery agent threats allows government and PSU employees to make confident, informed decisions regarding their debt resolution strategy:
               </p>
@@ -969,9 +969,9 @@ export default function GovernmentEmployeeLoanDefaultPage() {
             {/* Section 10: SettleLoans Legal Defense & Advisory + CompanySection */}
             <section id="company-resolution-section" className="space-y-6">
               <div className="border-t border-slate-200 pt-8 space-y-4">
-                <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
+                <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                   10. SettleLoans Legal Defense &amp; Advisory for Government &amp; PSU Personnel
-                </h2>
+                </h3>
                 <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                   Defending public service personnel against predatory debt recovery requires specialized advocates who master the intersections of banking regulations, Section 60 CPC wage attachment laws, Central Civil Services Conduct Rules, and Central Administrative Tribunal jurisprudence. SettleLoans provides complete, confidential legal protection for government servants across India: serving formal cease-and-desist notices to halt workplace harassment, safeguarding DDO payroll accounts, filing urgent escalations with the RBI Banking Ombudsman, and negotiating directly with bank zonal committees to secure 45% to 65% principal haircuts backed by official, bank-stamped No Dues Certificates.
                 </p>
@@ -985,9 +985,9 @@ export default function GovernmentEmployeeLoanDefaultPage() {
             <section id="faqs" className="space-y-4 border-t border-slate-200 pt-8">
               <div className="flex items-center gap-2 mb-2">
                 <HelpCircle className="w-5 h-5 text-[#1F5EFF]" />
-                <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
+                <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                   11. Frequently Asked Questions: Government Employee Loan Defaults &amp; Salary Attachment
-                </h2>
+                </h3>
               </div>
               <p className="text-xs sm:text-sm text-slate-600 mb-6">
                 Direct, legally verified answers to critical questions regarding loan defaults, service conduct rules, salary attachment limits, and debt settlement for government and PSU personnel.
@@ -1017,9 +1017,9 @@ export default function GovernmentEmployeeLoanDefaultPage() {
 
             {/* 5 Official Regulatory Links */}
             <section className="border-t border-slate-200 pt-8 mb-4">
-              <h3 className="text-xs sm:text-sm font-bold text-slate-900 mb-3 uppercase tracking-wider">
+              <h4 className="text-xs sm:text-sm font-bold text-slate-900 mb-3 uppercase tracking-wider">
                 Official Statutory &amp; Regulatory References
-              </h3>
+              </h4>
               <div className="grid grid-cols-1 sm:grid-cols-2 gap-2.5 text-xs">
                 <a
                   href="https://indiacode.gov.in/handle/123456789/2191"
@@ -1071,9 +1071,9 @@ export default function GovernmentEmployeeLoanDefaultPage() {
 
             {/* 10 Related Guide Badges */}
             <section className="border-t border-slate-200 pt-8 mb-8">
-              <h3 className="text-xs sm:text-sm font-bold text-slate-900 mb-4 uppercase tracking-wider">
+              <h4 className="text-xs sm:text-sm font-bold text-slate-900 mb-4 uppercase tracking-wider">
                 Related Legal Defense &amp; Loan Resolution Guides
-              </h3>
+              </h4>
               <div className="flex flex-wrap gap-2">
                 <Link
                   href="/bank-freeze-salary-account-loan-default"

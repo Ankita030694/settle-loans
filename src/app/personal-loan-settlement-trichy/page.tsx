@@ -572,9 +572,9 @@ export default function TrichyLoanSettlementPage() {
                 <Scale className="w-4 h-4" />
                 <span>2. Statutory Legal Classifications</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 Unsecured vs Secured Debt Protections in Central TN
-              </h2>
+              </h3>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Borrowers in Tiruchirappalli must distinguish between secured credit and unsecured debt. Secured loans, such as industrial mortgages, fall under the SARFAESI Act, 2002. Secured lenders can issue Section 13(2) notices and assume physical property possession without court sanction. Conversely, unsecured personal loans, credit cards, and clean business credit carry no pledged assets. Creditors have no summary seizure powers and must rely on standard civil suits under the Indian Contract Act, 1872.
               </p>
@@ -635,9 +635,9 @@ export default function TrichyLoanSettlementPage() {
                 <ShieldAlert className="w-4 h-4" />
                 <span>3. Anti-Harassment Legal Shield</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 Halting Recovery Agent Harassment in Tiruchirappalli
-              </h2>
+              </h3>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Aggressive recovery agent conduct creates severe hardship for distressed borrowers across Trichy and Thanjavur. Unregulated collection agents make unauthorized visits to fabrication units in Thuvakudi or homes in KK Nagar, contact relatives, and use abusive tactics. These actions violate explicit directives issued by the Reserve Bank of India and binding rulings from the Supreme Court and Madras High Court:
               </p>
@@ -670,9 +670,9 @@ export default function TrichyLoanSettlementPage() {
                 <Gavel className="w-4 h-4" />
                 <span>4. Judicial Summons &amp; Arbitration Defense</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 Defending Section 138 &amp; Arbitration in Trichy Courts
-              </h2>
+              </h3>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 When defaults persist, lenders issue legal notices under Section 138 of the Negotiable Instruments Act, 1881, for bounced cheques, or Section 25 of the Payment and Settlement Systems Act, 2007, for dishonored e-NACH auto-debits. While these notices carry quasi-criminal implications, they do not lead to immediate arrest. Lenders must prove in court that the instrument was drawn against an active legally enforceable liability rather than retained as undated security.
               </p>
@@ -696,9 +696,9 @@ export default function TrichyLoanSettlementPage() {
                       <span className="text-[10px] font-black uppercase tracking-widest text-blue-300 block">
                         Tiruchirappalli &amp; Central TN Debt Resolution Blueprint
                       </span>
-                      <h3 className="text-sm md:text-base font-black text-white leading-tight">
+                      <h4 className="text-sm md:text-base font-black text-white leading-tight">
                         5-Step Loan Settlement &amp; Debt Compromise Framework
-                      </h3>
+                      </h4>
                     </div>
                   </div>
                   <a
@@ -745,9 +745,9 @@ export default function TrichyLoanSettlementPage() {
                 <Calculator className="w-4 h-4" />
                 <span>5. Bank Accounting &amp; Valuation Math</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 NPV Valuation &amp; Bank Math in Central Tamil Nadu
-              </h2>
+              </h3>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Lenders approve substantial debt write-offs due to financial accounting rules under the RBI Compromise Settlement Framework. Under Ind AS 109 and IRAC prudential norms, an unsecured credit facility overdue for ninety days enters NPA classification. Banks must make mandatory cash provisions from balance sheet profits, escalating from 25% up to a 100% write-off over subsequent reporting quarters.
               </p>
@@ -777,9 +777,9 @@ export default function TrichyLoanSettlementPage() {
                 <Layers className="w-4 h-4" />
                 <span>6. Step-by-Step OTS Negotiation Process</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 Step-by-Step OTS Protocol in Tiruchirappalli
-              </h2>
+              </h3>
               <p className="text-slate-700 leading-relaxed mb-6 text-base md:text-lg">
                 Resolving delinquent personal and business loans through an advocate-led One-Time Settlement involves five strategic phases designed to protect borrower rights and optimize savings:
               </p>
@@ -787,10 +787,10 @@ export default function TrichyLoanSettlementPage() {
               <div className="space-y-6">
                 {/* Step 1 */}
                 <div className="p-6 rounded-2xl bg-white border border-slate-200 shadow-sm">
-                  <h3 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
+                  <h4 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
                     <span className="w-7 h-7 rounded-lg bg-blue-50 text-[#1F5EFF] font-black text-sm flex items-center justify-center border border-blue-200">1</span>
                     Hardship Dossier Compilation
-                  </h3>
+                  </h4>
                   <p className="text-slate-600 text-sm md:text-base leading-relaxed">
                     Our legal team compiles balance sheets, GST records, and client delay notices to document genuine financial hardship.
                   </p>
@@ -798,10 +798,10 @@ export default function TrichyLoanSettlementPage() {
 
                 {/* Step 2 */}
                 <div className="p-6 rounded-2xl bg-white border border-slate-200 shadow-sm">
-                  <h3 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
+                  <h4 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
                     <span className="w-7 h-7 rounded-lg bg-blue-50 text-[#1F5EFF] font-black text-sm flex items-center justify-center border border-blue-200">2</span>
                     Revocation of Mandates &amp; Legal Shield
-                  </h3>
+                  </h4>
                   <p className="text-slate-600 text-sm md:text-base leading-relaxed">
                     Revoking e-NACH mandates through banks stops bounce fees, while formal legal notices direct all communications to our advocates.
                   </p>
@@ -809,10 +809,10 @@ export default function TrichyLoanSettlementPage() {
 
                 {/* Step 3 */}
                 <div className="p-6 rounded-2xl bg-white border border-slate-200 shadow-sm">
-                  <h3 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
+                  <h4 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
                     <span className="w-7 h-7 rounded-lg bg-blue-50 text-[#1F5EFF] font-black text-sm flex items-center justify-center border border-blue-200">3</span>
                     Stressed Asset Desk Submissions
-                  </h3>
+                  </h4>
                   <p className="text-slate-600 text-sm md:text-base leading-relaxed">
                     Bypassing field tele-callers to submit formal settlement petitions directly to bank Zonal Stressed Assets Recovery Branches (SARB).
                   </p>
@@ -820,10 +820,10 @@ export default function TrichyLoanSettlementPage() {
 
                 {/* Step 4 */}
                 <div className="p-6 rounded-2xl bg-white border border-slate-200 shadow-sm">
-                  <h3 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
+                  <h4 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
                     <span className="w-7 h-7 rounded-lg bg-blue-50 text-[#1F5EFF] font-black text-sm flex items-center justify-center border border-blue-200">4</span>
                     Principal Haircut Negotiation
-                  </h3>
+                  </h4>
                   <p className="text-slate-600 text-sm md:text-base leading-relaxed">
                     Enforcing complete waivers on penal interest and late fees under RBI fair practices codes, while securing 40% to 60% principal write-offs.
                   </p>
@@ -831,10 +831,10 @@ export default function TrichyLoanSettlementPage() {
 
                 {/* Step 5 */}
                 <div className="p-6 rounded-2xl bg-white border border-slate-200 shadow-sm">
-                  <h3 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
+                  <h4 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
                     <span className="w-7 h-7 rounded-lg bg-blue-50 text-[#1F5EFF] font-black text-sm flex items-center justify-center border border-blue-200">5</span>
                     Forensic Sanction Audit &amp; NDC Delivery
-                  </h3>
+                  </h4>
                   <p className="text-slate-600 text-sm md:text-base leading-relaxed">
                     Forensic audit of the stamped bank sanction letter prior to payment, followed by securing the official No Dues Certificate within 30 days.
                   </p>
@@ -848,9 +848,9 @@ export default function TrichyLoanSettlementPage() {
                 <FileCheck className="w-4 h-4" />
                 <span>7. Settlement Letter Verification</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 Sanction Letter Audit &amp; NDC in Tiruchirappalli
-              </h2>
+              </h3>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Forensic verification of the bank sanction letter is critical to ensure permanent debt relief. Rogue collection agents often promise verbal settlements or issue forged letters to divert payments into unauthorized accounts. SettleLoans audits every settlement letter, verifying official bank letterheads, authorized officer signatures, loan account numbers, exact compromise amounts, and explicit clauses confirming full debt extinguishment.
               </p>
@@ -865,9 +865,9 @@ export default function TrichyLoanSettlementPage() {
                 <TrendingUp className="w-4 h-4" />
                 <span>8. Credit Score Rehabilitation</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 CIBIL Score Rehabilitation in Central Tamil Nadu
-              </h2>
+              </h3>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Following an OTS settlement, the lender updates credit rating bureaus, including CIBIL, Experian, and Equifax. The loan status transitions from delinquent default to &apos;Settled&apos;, with outstanding dues recorded as ₹0. While a settled status causes an initial drop in credit score, it halts monthly default reporting, eliminates penal fee growth, and ends all civil litigation threats.
               </p>
@@ -882,9 +882,9 @@ export default function TrichyLoanSettlementPage() {
                 <Scale className="w-4 h-4" />
                 <span>9. Resolution Strategy Comparison</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 Debt Resolution Matrix in Central Tamil Nadu
-              </h2>
+              </h3>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Compare debt resolution avenues available to borrowers across Trichy, Thanjavur, and Pudukkottai:
               </p>
@@ -940,9 +940,9 @@ export default function TrichyLoanSettlementPage() {
                 <ShieldCheck className="w-4 h-4" />
                 <span>10. Specialized Central TN Debt Advocacy</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 Why Central TN Borrowers Rely on SettleLoans
-              </h2>
+              </h3>
               <p className="text-slate-700 leading-relaxed mb-6 text-base md:text-lg">
                 SettleLoans delivers advocate-led debt resolution for fabricators, engineering contractors, and salaried employees across Tiruchirappalli and Thanjavur. Our banking advocates neutralize recovery harassment under RBI regulations, defend court summons, safeguard essential workshop machinery under CPC Section 60(1)(c), and secure 40% to 60% debt haircuts through formal One-Time Settlements backed by stamped No Dues Certificates.
               </p>
@@ -959,9 +959,9 @@ export default function TrichyLoanSettlementPage() {
                 <HelpCircle className="w-4 h-4" />
                 <span>11. Frequently Asked Questions</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
                 FAQs: Debt Settlement in Tiruchirappalli
-              </h2>
+              </h3>
 
               <div className="space-y-4">
                 {faqs.map((faq, index) => (
@@ -988,10 +988,10 @@ export default function TrichyLoanSettlementPage() {
 
             {/* Regulatory References & Official Sources Strip */}
             <div className="bg-slate-50 border border-slate-200 rounded-2xl p-6 my-10">
-              <h3 className="text-base font-bold text-slate-900 mb-4 flex items-center gap-2">
+              <h4 className="text-base font-bold text-slate-900 mb-4 flex items-center gap-2">
                 <Landmark className="w-5 h-5 text-[#1F5EFF]" />
                 Official Statutory &amp; Regulatory References
-              </h3>
+              </h4>
               <ul className="space-y-3 text-xs text-slate-600">
                 <li className="flex items-start gap-2">
                   <ExternalLink className="w-4 h-4 text-[#1F5EFF] flex-shrink-0 mt-0.5" />
@@ -1053,10 +1053,10 @@ export default function TrichyLoanSettlementPage() {
 
             {/* Related Guides & Resources Strip (10 Topic Badges) */}
             <div className="bg-slate-50 border border-slate-200 rounded-2xl p-6 my-10">
-              <h3 className="text-base font-bold text-slate-900 mb-4 flex items-center gap-2">
+              <h4 className="text-base font-bold text-slate-900 mb-4 flex items-center gap-2">
                 <BookOpen className="w-5 h-5 text-[#1F5EFF]" />
                 Explore Related Personal &amp; Business Debt Guides
-              </h3>
+              </h4>
               <div className="flex flex-wrap gap-2.5">
                 <Link
                   href="/unsecured-business-loan-settlement"

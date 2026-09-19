@@ -586,7 +586,7 @@ export default function LenDenClubP2PLoanSettlementPage() {
                 <Clock className="w-4 h-4" />
                 <span>2. Delinquency Timeline &amp; P2P Portfolio Stress.</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">P2P Loan Delinquency Lifecycle</h2>
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">P2P Loan Delinquency Lifecycle</h3>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 When you miss an EMI, the loan moves through set stages. It turns into an NPA after 90 days of default. The platform sends automated notices and runs auto-debits. Past 90 days, loss write-downs begin. This opens the door for OTS talks.
               </p>
@@ -654,7 +654,7 @@ export default function LenDenClubP2PLoanSettlementPage() {
                 <Banknote className="w-4 h-4" />
                 <span>3. Stopping e-NACH Bounces &amp; Penal Accumulation.</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Stopping Predatory e-NACH &amp; Penal Interest</h2>
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Stopping Predatory e-NACH &amp; Penal Interest</h3>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Auto-debit systems run bank sweeps up to 4 times a month. Each failed attempt adds two fees. Your bank charges ₹295 to ₹590 per bounce. The platform adds late fees of 24% to 36% per year. This makes the total debt grow fast.
               </p>
@@ -669,7 +669,7 @@ export default function LenDenClubP2PLoanSettlementPage() {
                 <Calculator className="w-4 h-4" />
                 <span>4. OTS Haircut Policies &amp; NPV Valuation.</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">P2P Stressed Asset Valuation</h2>
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">P2P Stressed Asset Valuation</h3>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 P2P personal loans are unsecured civil debts. They do not fall under the SARFAESI Act. To collect, lenders must go to civil court. LenDenClub uses an NPV model. They weigh quick cash today against years of slow court action.
               </p>
@@ -689,7 +689,7 @@ export default function LenDenClubP2PLoanSettlementPage() {
               </div>
 
               {/* Settlement Haircut Slabs Table */}
-              <h3 className="text-lg font-bold text-slate-900 mb-3">Realistic LenDenClub Settlement Haircut Slabs by Aging &amp; Hardship Tier</h3>
+              <h4 className="text-lg font-bold text-slate-900 mb-3">Realistic LenDenClub Settlement Haircut Slabs by Aging &amp; Hardship Tier</h4>
               <div className="overflow-x-auto my-4">
                 <table className="min-w-full bg-white">
                   <thead>
@@ -751,9 +751,9 @@ export default function LenDenClubP2PLoanSettlementPage() {
                       <span className="text-[10px] font-black uppercase tracking-widest text-blue-300 block">
                         Legal Defense &amp; Action Blueprint.
                       </span>
-                      <h3 className="text-sm md:text-base font-black text-white leading-tight">
+                      <h4 className="text-sm md:text-base font-black text-white leading-tight">
                         LenDenClub P2P Loan Settlement &amp; Debt Resolution Blueprint
-                      </h3>
+                      </h4>
                     </div>
                   </div>
                   <a
@@ -800,7 +800,7 @@ export default function LenDenClubP2PLoanSettlementPage() {
                 <ShieldAlert className="w-4 h-4" />
                 <span>5. Statutory Protections &amp; Anti-Harassment Law.</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Statutory Protections Against P2P Recovery Harassment</h2>
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Statutory Protections Against P2P Recovery Harassment</h3>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Borrowers face harsh agent tactics after default. These include non-stop calls. Callers may phone workplaces or reach out to family. Under RBI Master Directions, these acts are illegal. Agents can only call between 8:00 AM and 7:00 PM. Third-party disclosure is banned. Apps cannot read your contacts or photos.
               </p>
@@ -815,7 +815,7 @@ export default function LenDenClubP2PLoanSettlementPage() {
                 <Layers className="w-4 h-4" />
                 <span>6. Step-by-Step P2P Settlement Roadmap.</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Step-by-Step LenDenClub Settlement Roadmap</h2>
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Step-by-Step LenDenClub Settlement Roadmap</h3>
               <p className="text-slate-700 leading-relaxed mb-6 text-base md:text-lg">
                 Settling an NBFC-P2P loan needs a clear legal strategy. This prevents fake agent deals and clears your debt for good.
               </p>
@@ -823,10 +823,10 @@ export default function LenDenClubP2PLoanSettlementPage() {
               <div className="space-y-6">
                 {/* Step 1 */}
                 <div className="p-6 rounded-2xl bg-white border border-slate-200 shadow-sm">
-                  <h3 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
+                  <h4 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
                     <span className="w-7 h-7 rounded-lg bg-blue-50 text-[#1F5EFF] font-black text-sm flex items-center justify-center border border-blue-200">1</span>
                     Forensic Ledger Audit &amp; Entity Identification
-                  </h3>
+                  </h4>
                   <p className="text-slate-600 text-sm md:text-base leading-relaxed">
                     Audit your loan agreement and CIBIL file. Separate pure principal from bounce fees and late interest under Innofin Solutions.
                   </p>
@@ -834,10 +834,10 @@ export default function LenDenClubP2PLoanSettlementPage() {
 
                 {/* Step 2 */}
                 <div className="p-6 rounded-2xl bg-white border border-slate-200 shadow-sm">
-                  <h3 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
+                  <h4 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
                     <span className="w-7 h-7 rounded-lg bg-blue-50 text-[#1F5EFF] font-black text-sm flex items-center justify-center border border-blue-200">2</span>
                     Revocation of e-NACH Mandates &amp; Communication Routing
-                  </h3>
+                  </h4>
                   <p className="text-slate-600 text-sm md:text-base leading-relaxed">
                     Stop auto-debits at your bank under NPCI rules. This prevents repeat fees. Tell the lender in writing to route calls to your advocate.
                   </p>
@@ -845,10 +845,10 @@ export default function LenDenClubP2PLoanSettlementPage() {
 
                 {/* Step 3 */}
                 <div className="p-6 rounded-2xl bg-white border border-slate-200 shadow-sm">
-                  <h3 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
+                  <h4 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
                     <span className="w-7 h-7 rounded-lg bg-blue-50 text-[#1F5EFF] font-black text-sm flex items-center justify-center border border-blue-200">3</span>
                     Submission of Involuntary Hardship Dossier
-                  </h3>
+                  </h4>
                   <p className="text-slate-600 text-sm md:text-base leading-relaxed">
                     Gather proof of hardship. Examples include job loss slips, hospital bills, or wage cuts. Submit an OTS plea to the settlement desk.
                   </p>
@@ -856,10 +856,10 @@ export default function LenDenClubP2PLoanSettlementPage() {
 
                 {/* Step 4 */}
                 <div className="p-6 rounded-2xl bg-white border border-slate-200 shadow-sm">
-                  <h3 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
+                  <h4 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
                     <span className="w-7 h-7 rounded-lg bg-blue-50 text-[#1F5EFF] font-black text-sm flex items-center justify-center border border-blue-200">4</span>
                     Multi-Round Financial Negotiation
-                  </h3>
+                  </h4>
                   <p className="text-slate-600 text-sm md:text-base leading-relaxed">
                     Counter low waiver offers with hardship proof. Guide the committee toward a 40% to 65% principal waiver.
                   </p>
@@ -867,10 +867,10 @@ export default function LenDenClubP2PLoanSettlementPage() {
 
                 {/* Step 5 */}
                 <div className="p-6 rounded-2xl bg-white border border-slate-200 shadow-sm">
-                  <h3 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
+                  <h4 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
                     <span className="w-7 h-7 rounded-lg bg-blue-50 text-[#1F5EFF] font-black text-sm flex items-center justify-center border border-blue-200">5</span>
                     Forensic Verification of the Stamped OTS Sanction Letter
-                  </h3>
+                  </h4>
                   <p className="text-slate-600 text-sm md:text-base leading-relaxed">
                     Check the letter on official Innofin Solutions letterhead. Verify your loan number, payment terms, and ₹0 balance clauses.
                   </p>
@@ -878,10 +878,10 @@ export default function LenDenClubP2PLoanSettlementPage() {
 
                 {/* Step 6 */}
                 <div className="p-6 rounded-2xl bg-white border border-slate-200 shadow-sm">
-                  <h3 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
+                  <h4 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
                     <span className="w-7 h-7 rounded-lg bg-blue-50 text-[#1F5EFF] font-black text-sm flex items-center justify-center border border-blue-200">6</span>
                     Dedicated Escrow Remittance &amp; Enforcement of ₹0 NDC Delivery
-                  </h3>
+                  </h4>
                   <p className="text-slate-600 text-sm md:text-base leading-relaxed">
                     Pay funds directly to the Trustee Escrow Account via RTGS or NEFT. Track delivery of your ₹0 No Dues Certificate within 30 days.
                   </p>
@@ -895,7 +895,7 @@ export default function LenDenClubP2PLoanSettlementPage() {
                 <Gavel className="w-4 h-4" />
                 <span>7. Defending Legal Notices &amp; Digital Arbitration.</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Defending LenDenClub Sec 25 PSSA &amp; Arbitration</h2>
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Defending LenDenClub Sec 25 PSSA &amp; Arbitration</h3>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 After 60 to 90 days of default, lenders send notices under Section 25 of the Payment and Settlement Systems Act, 2007 (PSSA). This notice is for failed e-NACH debits. It is not an arrest warrant. The offense is fully compoundable in court. An advocate reply showing distress disproves bad intent. It moves the case to an amicable settlement path.
               </p>
@@ -959,7 +959,7 @@ export default function LenDenClubP2PLoanSettlementPage() {
                 <FileCheck className="w-4 h-4" />
                 <span>8. Sanction Letter Forensics &amp; NDC Mandate.</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Authenticating the OTS Sanction Letter</h2>
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Authenticating the OTS Sanction Letter</h3>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Never pay money without a verified settlement letter. The letter must be on official Innofin Solutions letterhead. It must show a CIN, office address, loan number, and manager signature. Pay only into the official escrow account. Never send funds to personal UPI IDs or third-party accounts.
               </p>
@@ -974,7 +974,7 @@ export default function LenDenClubP2PLoanSettlementPage() {
                 <TrendingUp className="w-4 h-4" />
                 <span>9. CIBIL Bureau Reporting &amp; Credit Rebuilding.</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">LenDenClub CIBIL Bureau Reporting &amp; Score Trajectory</h2>
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">LenDenClub CIBIL Bureau Reporting &amp; Score Trajectory</h3>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 After settlement, Innofin Solutions marks the loan as <strong>&apos;Settled&apos;</strong> in CIBIL with a <strong>₹0</strong> balance. Your credit score may drop by 75 to 120 points at first. But it stops monthly default marks. It also removes all risk of legal action.
               </p>
@@ -989,9 +989,9 @@ export default function LenDenClubP2PLoanSettlementPage() {
                 <ShieldCheck className="w-4 h-4" />
                 <span>10. Legal Defense &amp; Representation.</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 Why Distressed LenDenClub Borrowers Trust SettleLoans
-              </h2>
+              </h3>
               <p className="text-slate-700 leading-relaxed mb-6 text-base md:text-lg">
                 Settling a defaulted P2P loan takes skilled legal help. SettleLoans gives full legal representation for borrowers in distress. We issue legal notices to stop recovery calls. We cancel bank e-NACH mandates to stop bounce fees. We draft legal replies to Section 25 PSSA notices. We challenge one-sided arbitration cases. Our team negotiates directly with Innofin Solutions to secure top debt waivers and ₹0 No Dues Certificates.
               </p>
@@ -1008,7 +1008,7 @@ export default function LenDenClubP2PLoanSettlementPage() {
                 <HelpCircle className="w-4 h-4" />
                 <span>11. Frequently Asked Questions</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">FAQs: LenDenClub Loan Settlement</h2>
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">FAQs: LenDenClub Loan Settlement</h3>
 
               <div className="space-y-4">
                 {faqs.map((faq, index) => (
@@ -1035,10 +1035,10 @@ export default function LenDenClubP2PLoanSettlementPage() {
 
             {/* Regulatory References & Official Sources Strip */}
             <div className="bg-slate-50 border border-slate-200 rounded-2xl p-6 my-10">
-              <h3 className="text-base font-bold text-slate-900 mb-4 flex items-center gap-2">
+              <h4 className="text-base font-bold text-slate-900 mb-4 flex items-center gap-2">
                 <Landmark className="w-5 h-5 text-[#1F5EFF]" />
                 Official Regulatory References &amp; Statutory Circulars
-              </h3>
+              </h4>
               <ul className="space-y-3 text-xs text-slate-600">
                 <li className="flex items-start gap-2">
                   <ExternalLink className="w-4 h-4 text-[#1F5EFF] flex-shrink-0 mt-0.5" />
@@ -1100,10 +1100,10 @@ export default function LenDenClubP2PLoanSettlementPage() {
 
             {/* Related Guides & Resources Strip (10 Topic Badges) */}
             <div className="bg-slate-50 border border-slate-200 rounded-2xl p-6 my-10">
-              <h3 className="text-base font-bold text-slate-900 mb-4 flex items-center gap-2">
+              <h4 className="text-base font-bold text-slate-900 mb-4 flex items-center gap-2">
                 <BookOpen className="w-5 h-5 text-[#1F5EFF]" />
                 Explore Related Banking &amp; Debt Resolution Guides
-              </h3>
+              </h4>
               <div className="flex flex-wrap gap-2.5">
                 <Link
                   href="/faircent-p2p-loan-settlement-process"

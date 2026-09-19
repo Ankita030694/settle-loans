@@ -271,7 +271,7 @@ export default function PunishmentPage() {
                         </section>
 
                         <section id="legal-status" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">The Legal Status: Civil vs Criminal Nature of Debt</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">The Legal Status: Civil vs Criminal Nature of Debt</h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 The most important thing for any borrower to know is that defaulting on a personal loan is primarily a **civil matter**. When you sign a loan agreement, you are entering into a civil contract. If you cannot pay, you have breached that contract. This allows the bank to sue you for the money, but it does not automatically make you a criminal.
                             </p>
@@ -284,13 +284,13 @@ export default function PunishmentPage() {
                         </section>
 
                         <section id="immediate-consequences" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">The Immediate Aftermath of a Personal Loan Default</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">The Immediate Aftermath of a Personal Loan Default</h3>
                             <p className="text-lg leading-relaxed mb-8">
                                 While you might not go to jail, the practical consequences of a default are severe and immediate. Banks start their recovery process the moment an EMI is missed, and the pressure mounts as the account moves towards the 90-day NPA (Non-Performing Asset) mark.
                             </p>
                             <div className="space-y-6 mb-10">
                                 <div className="p-8 bg-gray-50 border-l-8 border-[#1F5EFF] rounded-r-2xl shadow-sm">
-                                    <h3 className="font-bold text-2xl mb-4 text-[#2E2E2E]">The Financial Spiral</h3>
+                                    <h4 className="font-bold text-2xl mb-4 text-[#2E2E2E]">The Financial Spiral</h4>
                                     <p className="text-base text-gray-700 leading-relaxed mb-4">
                                         Lenders will charge late payment fees and penal interest. This penal interest is often calculated on the entire outstanding amount, not just the missed EMI. Over 6 months, a default of 1 Lakh can easily grow into 1.5 Lakhs due to these aggressive compounding charges.
                                     </p>
@@ -299,7 +299,7 @@ export default function PunishmentPage() {
                                     </p>
                                 </div>
                                 <div className="p-8 bg-gray-50 border-l-8 border-[#1F5EFF] rounded-r-2xl shadow-sm">
-                                    <h4 className="font-bold text-2xl mb-4 text-[#2E2E2E]">CIBIL and Credit Destruction</h4>
+                                    <h5 className="font-bold text-2xl mb-4 text-[#2E2E2E]">CIBIL and Credit Destruction</h5>
                                     <p className="text-base text-gray-700 leading-relaxed mb-4">
                                         Every month of default is reported to credit bureaus like CIBIL, Experian, and Equifax. Your credit score will crash from a healthy 750+ to below 600 within 3 to 4 months. This is perhaps the most lasting "punishment," as it locks you out of the formal banking system for 5 to 7 years.
                                     </p>
@@ -311,32 +311,32 @@ export default function PunishmentPage() {
                         </section>
 
                         <section id="section-138-ni-act" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">Section 138 of the Negotiable Instruments Act: The Cheque Bounce Trap</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">Section 138 of the Negotiable Instruments Act: The Cheque Bounce Trap</h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 This is the only area where a personal loan default can truly lead to a criminal court. When you take a loan, you provide a NACH (National Automated Clearing House) mandate or post-dated cheques. If these are presented and they fail due to "insufficient funds," it is a criminal offense under Section 138.
                             </p>
                             <div className="grid md:grid-cols-2 gap-8 mb-10">
                                 <div className="p-6 bg-white border border-[#DEDEDE] rounded-xl">
-                                    <h3 className="font-bold text-[#1F5EFF] mb-3">The Legal Notice</h3>
+                                    <h4 className="font-bold text-[#1F5EFF] mb-3">The Legal Notice</h4>
                                     <p className="text-sm">The bank must send you a formal notice within 30 days of the bounce. You then have 15 days to pay the amount. If you don't, the bank can file a case in a criminal court. It is vital to reply to this notice with a strong legal defense.</p>
                                 </div>
                                 <div className="p-6 bg-white border border-[#DEDEDE] rounded-xl">
-                                    <h4 className="font-bold text-[#1F5EFF] mb-3">The Punishment</h4>
+                                    <h5 className="font-bold text-[#1F5EFF] mb-3">The Punishment</h5>
                                     <p className="text-sm">The punishment can be imprisonment for up to two years or a fine that is twice the amount of the bounced cheque. However, in practice, these cases take years, and the courts usually encourage a settlement rather than jail time for first-time defaulters.</p>
                                 </div>
                                 <div className="p-6 bg-white border border-[#DEDEDE] rounded-xl">
-                                    <h4 className="font-bold text-[#1F5EFF] mb-3">Bailable Offense</h4>
+                                    <h5 className="font-bold text-[#1F5EFF] mb-3">Bailable Offense</h5>
                                     <p className="text-sm">Unlike murder or robbery, a Section 138 case is a bailable offense. Even if a warrant is issued, you can get bail by appearing before the court and providing a surety. You will not be kept in jail during the trial.</p>
                                 </div>
                                 <div className="p-6 bg-white border border-[#DEDEDE] rounded-xl">
-                                    <h4 className="font-bold text-[#1F5EFF] mb-3">Compounding</h4>
+                                    <h5 className="font-bold text-[#1F5EFF] mb-3">Compounding</h5>
                                     <p className="text-sm">The best part of Section 138 is that it is "compoundable." This means you can settle the matter at any stage by paying the bank, and the criminal case will be dismissed instantly. This is where our negotiation skills come in.</p>
                                 </div>
                             </div>
                         </section>
 
                         <section id="ipc-420-cheating" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">IPC Section 420: Can They Charge You with Cheating?</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">IPC Section 420: Can They Charge You with Cheating?</h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 Recovery agents often threaten to file an FIR under Section 420 (Cheating) of the Indian Penal Code. This is a very serious charge, but it is extremely difficult for a bank to prove in a genuine loan default case.
                             </p>
@@ -344,7 +344,7 @@ export default function PunishmentPage() {
                                 For a charge of cheating to stick, the bank must prove that you had a "fraudulent intention" at the very moment you took the loan. If you provided genuine salary slips, a real address, and paid even a few EMIs, the bank cannot claim you cheated them. Your subsequent inability to pay is a change in circumstances, not a criminal intent.
                             </p>
                             <div className="bg-yellow-50 p-8 rounded-xl border border-yellow-200 my-8">
-                                <h3 className="font-bold text-yellow-900 mb-4 text-xl">The "Forgery" Exception</h3>
+                                <h4 className="font-bold text-yellow-900 mb-4 text-xl">The "Forgery" Exception</h4>
                                 <p className="text-base text-yellow-800 leading-relaxed mb-4">
                                     The only time an IPC 420 or 467 (forgery) case becomes dangerous is if you submitted fake documents (forged bank statements, fake salary slips) to get the loan. If that is the case, you need immediate legal counsel to mitigate the damage.
                                 </p>
@@ -355,7 +355,7 @@ export default function PunishmentPage() {
                         </section>
 
                         <section id="rbi-fair-practices" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">The RBI Fair Practice Code: Your Shield Against Aggression</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">The RBI Fair Practice Code: Your Shield Against Aggression</h3>
                             <p className="text-lg leading-relaxed mb-6 font-bold">
                                 The Reserve Bank of India (RBI) has strict guidelines on how banks and recovery agents must conduct themselves.
                             </p>
@@ -382,7 +382,7 @@ export default function PunishmentPage() {
                         </section>
 
                         <section id="harassment-protection" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">How to Protect Yourself from Recovery Harassment</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">How to Protect Yourself from Recovery Harassment</h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 If you are being harassed, the first step is to stop being afraid. Fear is the only power they have over you. Once you realize the law is on your side, the harassment loses its sting.
                             </p>
@@ -395,12 +395,12 @@ export default function PunishmentPage() {
                         </section>
 
                         <section id="civil-recovery-suits" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">Order 37 Summary Suits: The Bank's Civil Weapon</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">Order 37 Summary Suits: The Bank's Civil Weapon</h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 For large personal loans, banks might file a Summary Suit under Order 37 of the Code of Civil Procedure (CPC). This is a faster civil process designed for debt recovery.
                             </p>
                             <div className="bg-[#1F5EFF]/5 p-8 rounded-3xl border border-[#1F5EFF]/20 mb-10">
-                                <h3 className="text-2xl font-black text-[#2E2E2E] mb-6">The Summary Suit Process</h3>
+                                <h4 className="text-2xl font-black text-[#2E2E2E] mb-6">The Summary Suit Process</h4>
                                 <p className="text-lg leading-relaxed mb-4">
                                     Unlike a normal civil case that takes 10 years, a summary suit can be decided in 1 to 2 years. Here is how it works:
                                 </p>
@@ -425,7 +425,7 @@ export default function PunishmentPage() {
                         </section>
 
                         <section id="asset-attachment" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">Can the Bank Seize My Salary or My House?</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">Can the Bank Seize My Salary or My House?</h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 This is one of the most common fears among salaried professionals. For an unsecured personal loan, a bank cannot simply walk into your office and take your salary. They cannot simply enter your house and take your furniture.
                             </p>
@@ -435,7 +435,7 @@ export default function PunishmentPage() {
                         </section>
 
                         <section id="ots-settlement" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">The Light at the End of the Tunnel: Loan Settlement (OTS)</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">The Light at the End of the Tunnel: Loan Settlement (OTS)</h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 If you truly cannot pay the full amount, the most logical and legal solution is a **One-Time Settlement (OTS)**.
                             </p>
@@ -443,7 +443,7 @@ export default function PunishmentPage() {
                                 Banks have a provision for this. They know that some people will inevitably face hard times. Instead of fighting a legal case for 5 years and getting nothing, they would rather take 40% or 50% of the principal amount today and close the file. This is a win-win situation. You get rid of the debt forever, and the bank recovers at least some of their money.
                             </p>
                             <div className="bg-blue-50 p-8 rounded-xl border border-blue-200 my-8">
-                                <h3 className="font-bold text-blue-900 mb-4 text-xl">How Settlement Works for You</h3>
+                                <h4 className="font-bold text-blue-900 mb-4 text-xl">How Settlement Works for You</h4>
                                 <p className="text-base text-blue-800 leading-relaxed mb-4">
                                     A settlement stops all legal proceedings. It stops all recovery calls. It stops the penal interest from growing. Most importantly, it gives you back your mental peace.
                                 </p>
@@ -454,7 +454,7 @@ export default function PunishmentPage() {
                         </section>
 
                         <section id="success-stories" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 text-center">Client Success History</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 text-center">Client Success History</h3>
                             <div className="grid md:grid-cols-2 gap-10 not-prose">
                                 {[
                                     {
@@ -492,7 +492,7 @@ export default function PunishmentPage() {
                                         <div className="flex items-center mb-4">
                                             <div className="w-10 h-10 rounded-full bg-blue-100 flex items-center justify-center font-bold text-blue-600 mr-3">{review.name.split(' ')[0][0]}</div>
                                             <div>
-                                                <h3 className="font-bold text-[#2E2E2E]">{review.name}</h3>
+                                                <h4 className="font-bold text-[#2E2E2E]">{review.name}</h4>
                                                 <p className="text-xs text-gray-400">{review.loc}</p>
                                             </div>
                                             <div className="ml-auto text-yellow-400 text-sm">★★★★★</div>
@@ -507,7 +507,7 @@ export default function PunishmentPage() {
                         </section>
 
                         <section id="faqs" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Personal Loan Punishment FAQs</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Personal Loan Punishment FAQs</h3>
                             <div className="space-y-6 not-prose">
                                 {[
                                     { q: "Is it a crime to not pay a personal loan in India?", a: "No, it is not a crime. It is a civil breach of contract. You can only face criminal charges if you used fraudulent documents or if a repayment cheque/NACH mandate bounces." },
@@ -537,30 +537,30 @@ export default function PunishmentPage() {
                         </section>
 
                         <section className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight mt-16">Helpful Resources & Further Reading</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight mt-16">Helpful Resources & Further Reading</h3>
                             <p className="text-lg mb-6">If you are looking for more specific information on managing your debt and protecting your rights, we recommend exploring the following guides from our library:</p>
                             <div className="grid md:grid-cols-2 gap-6">
                                 <Link href="/loan-settlement-for-salaried-people" className="p-6 border border-[#DEDEDE] rounded-xl hover:bg-[#1F5EFF]/5 transition-colors group">
-                                    <h3 className="font-bold text-[#2E2E2E] group-hover:text-[#1F5EFF]">Debt Relief for Salaried Employees</h3>
+                                    <h4 className="font-bold text-[#2E2E2E] group-hover:text-[#1F5EFF]">Debt Relief for Salaried Employees</h4>
                                     <p className="text-sm opacity-70">Specific strategies for professionals facing job loss or pay cuts.</p>
                                 </Link>
                                 <Link href="/loan-settlement-for-msme-owners" className="p-6 border border-[#DEDEDE] rounded-xl hover:bg-[#1F5EFF]/5 transition-colors group">
-                                    <h4 className="font-bold text-[#2E2E2E] group-hover:text-[#1F5EFF]">MSME & Business Loan Recovery</h4>
+                                    <h5 className="font-bold text-[#2E2E2E] group-hover:text-[#1F5EFF]">MSME & Business Loan Recovery</h5>
                                     <p className="text-sm opacity-70">Legal protection for entrepreneurs and small business owners.</p>
                                 </Link>
                                 <Link href="/how-to-stop-loan-recovery-harassment" className="p-6 border border-[#DEDEDE] rounded-xl hover:bg-[#1F5EFF]/5 transition-colors group">
-                                    <h4 className="font-bold text-[#2E2E2E] group-hover:text-[#1F5EFF]">Stopping Recovery Agent Harassment</h4>
+                                    <h5 className="font-bold text-[#2E2E2E] group-hover:text-[#1F5EFF]">Stopping Recovery Agent Harassment</h5>
                                     <p className="text-sm opacity-70">A step-by-step guide to filing RBI complaints and FIRs.</p>
                                 </Link>
                                 <Link href="/rbi-rules-for-recovery-agents" className="p-6 border border-[#DEDEDE] rounded-xl hover:bg-[#1F5EFF]/5 transition-colors group">
-                                    <h4 className="font-bold text-[#2E2E2E] group-hover:text-[#1F5EFF]">The RBI Recovery Rulebook</h4>
+                                    <h5 className="font-bold text-[#2E2E2E] group-hover:text-[#1F5EFF]">The RBI Recovery Rulebook</h5>
                                     <p className="text-sm opacity-70">Detailed breakdown of the 2024 guidelines for collection agents.</p>
                                 </Link>
                             </div>
                         </section>
 
                         <div className="mt-16 p-8 bg-[#1F5EFF] rounded-3xl text-white text-center">
-                            <h2 className="text-3xl font-black mb-6">Stop Living in Fear Today</h2>
+                            <h3 className="text-3xl font-black mb-6">Stop Living in Fear Today</h3>
                             <p className="text-xl mb-8 opacity-90">
                                 Our legal experts have helped thousands of Indians escape the debt trap. Don't wait for a court summons.
                             </p>

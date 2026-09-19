@@ -275,9 +275,9 @@ export default function CharitiesDebtReliefPage() {
             </section>
 
             <section id="reality-of-debt" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
                 The Growing Debt Crisis in India
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 The landscape of personal finance in India has changed dramatically over the last decade. With the rise of digital lending apps and the ease of credit card access, many hard working individuals have found themselves in a cycle of high-interest borrowing. What begins as a small loan to cover a family wedding or a child's school fees can quickly balloon into an unmanageable mountain of debt.
               </p>
@@ -288,7 +288,7 @@ export default function CharitiesDebtReliefPage() {
                 According to recent financial reports, millions of Indian households are currently servicing multiple debts. The pressure to maintain a certain lifestyle or to meet emergency needs often leads to a situation where the debt to income ratio becomes dangerously high. This is not just a financial issue; it is a systemic challenge that affects the physical and mental health of entire families. Our mission at SettleLoans is to break this cycle by providing you with the right information and the right support at the right time.
               </p>
               <div className="bg-gray-50 p-8 rounded-xl border border-gray-200 mb-8">
-                <h3 className="text-xl font-bold mb-6">In-Depth Analysis: Why We Fall Into Debt Traps</h3>
+                <h4 className="text-xl font-bold mb-6">In-Depth Analysis: Why We Fall Into Debt Traps</h4>
                 <p className="mb-4 text-sm text-gray-600">
                   Understanding the root cause of your debt is the first step toward freedom. Most people do not fall into debt because of poor spending habits. Rather, it is often a combination of low liquidity and high unexpected costs. For instance, a medical bill for a family member can wipe out years of savings in a single week.
                 </p>
@@ -328,9 +328,9 @@ export default function CharitiesDebtReliefPage() {
             </section>
 
             <section id="how-charities-help" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
                 How Charities Actually Help with Debt
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 A common misconception is that a charity will simply write a cheque to your bank and wipe out your debt overnight. While this is extremely rare for large bank loans, charitable organizations in India provide something much more sustainable: a path to freedom. They offer resources that allow you to settle your debts legally and manage your finances better.
               </p>
@@ -341,7 +341,7 @@ export default function CharitiesDebtReliefPage() {
                 Generally, debt relief organizations in India fall into three main categories. First, there are those that provide interest-free microcredit to help you pay off high-interest informal lenders (like local moneylenders). Second, there are credit counseling NGOs that offer free legal and financial guidance to help you navigate bank negotiations. Third, there are community-based projects that combine financial aid with livelihood support, ensuring you do not fall back into debt once you are clear.
               </p>
               <div className="bg-blue-50 p-8 rounded-xl border border-blue-200 mb-8">
-                <h3 className="text-xl font-bold mb-4 text-blue-900">The Power of Interest Free Finance</h3>
+                <h4 className="text-xl font-bold mb-4 text-blue-900">The Power of Interest Free Finance</h4>
                 <p className="text-sm text-blue-800 leading-relaxed mb-4">
                   In many parts of India, the biggest threat is not the bank, but the local 'Sahukaar' or moneylender. These lenders can charge interest rates that exceed 100% per year. Paying back such loans is mathematically impossible for someone with a modest income.
                 </p>
@@ -354,32 +354,32 @@ export default function CharitiesDebtReliefPage() {
                   <div className="w-12 h-12 bg-blue-100 rounded-full flex items-center justify-center mx-auto mb-4">
                     <svg className="w-6 h-6 text-blue-600" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M12 8c-1.657 0-3 .895-3 2s1.343 2 3 2 3 .895 3 2-1.343 2-3 2m0-8c1.11 0 2.08.402 2.599 1M12 8V7m0 1v8m0 0v1m0-1c-1.11 0-2.08-.402-2.599-1M21 12a9 9 0 11-18 0 9 9 0 0118 0z"></path></svg>
                   </div>
-                  <h4 className="font-bold text-[#2E2E2E] mb-2">Interest-Free Loans</h4>
+                  <h5 className="font-bold text-[#2E2E2E] mb-2">Interest-Free Loans</h5>
                   <p className="text-xs text-gray-500">Replacing predatory debt with manageable terms.</p>
                 </div>
                 <div className="bg-white p-5 rounded-xl border border-[#DEDEDE] shadow-sm text-center">
                   <div className="w-12 h-12 bg-green-100 rounded-full flex items-center justify-center mx-auto mb-4">
                     <svg className="w-6 h-6 text-green-600" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M9 12l2 2 4-4m5.618-4.016A11.955 11.955 0 0112 2.944a11.955 11.955 0 01-8.618 3.04A12.02 12.02 0 003 9c0 5.591 3.824 10.29 9 11.622 5.176-1.332 9-6.03 9-11.622 0-1.042-.133-2.052-.382-3.016z"></path></svg>
                   </div>
-                  <h4 className="font-bold text-[#2E2E2E] mb-2">Legal Counseling</h4>
+                  <h5 className="font-bold text-[#2E2E2E] mb-2">Legal Counseling</h5>
                   <p className="text-xs text-gray-500">Protecting your rights against harassment.</p>
                 </div>
                 <div className="bg-white p-5 rounded-xl border border-[#DEDEDE] shadow-sm text-center">
                   <div className="w-12 h-12 bg-purple-100 rounded-full flex items-center justify-center mx-auto mb-4">
                     <svg className="w-6 h-6 text-purple-600" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M13 10V3L4 14h7v7l9-11h-7z"></path></svg>
                   </div>
-                  <h4 className="font-bold text-[#2E2E2E] mb-2">Livelihood Support</h4>
+                  <h5 className="font-bold text-[#2E2E2E] mb-2">Livelihood Support</h5>
                   <p className="text-xs text-gray-500">Help in finding income sources to pay dues.</p>
                 </div>
               </div>
             </section>
 
             <section id="top-ngos-list" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">Top NGOs and Foundations for Debt Relief</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">Top NGOs and Foundations for Debt Relief</h3>
 
               <div className="space-y-8">
                 <div className="bg-white p-8 rounded-2xl border border-[#DEDEDE] shadow-sm">
-                  <h3 className="text-2xl font-bold text-[#1F5EFF] mb-4">Lifeline Foundation Trust (TLF)</h3>
+                  <h4 className="text-2xl font-bold text-[#1F5EFF] mb-4">Lifeline Foundation Trust (TLF)</h4>
                   <p className="mb-4">
                     The Lifeline Foundation Trust is a pioneer in providing a financial lifeline to the poor in India. Their model is centered on interest-free microcredit. They recognize that one of the biggest reasons families stay in poverty is the crushing weight of high-interest debt from local moneylenders. In urban slums and rural villages, the loss of a primary earner or a sudden medical emergency can lead a family to borrow relative to their daily needs at interest rates that are predatory.
                   </p>
@@ -396,7 +396,7 @@ export default function CharitiesDebtReliefPage() {
                 </div>
 
                 <div className="bg-white p-8 rounded-2xl border border-[#DEDEDE] shadow-sm">
-                  <h3 className="text-2xl font-bold text-[#1F5EFF] mb-4">Moneylife Foundation</h3>
+                  <h4 className="text-2xl font-bold text-[#1F5EFF] mb-4">Moneylife Foundation</h4>
                   <p className="mb-4">
                     If you are struggling with bank debt, credit cards, or harassment from recovery agents, Moneylife Foundation is an invaluable resource. They are an NGO dedicated to financial literacy and consumer awareness. One of their most impactful services is their free credit counseling. They have assisted thousands of individuals who were on the verge of financial collapse.
                   </p>
@@ -413,7 +413,7 @@ export default function CharitiesDebtReliefPage() {
                 </div>
 
                 <div className="bg-white p-8 rounded-2xl border border-[#DEDEDE] shadow-sm">
-                  <h3 className="text-2xl font-bold text-[#1F5EFF] mb-4">Abhay Credit Counselling Centre</h3>
+                  <h4 className="text-2xl font-bold text-[#1F5EFF] mb-4">Abhay Credit Counselling Centre</h4>
                   <p className="mb-4">
                     Established by ICICI Bank as a CSR initiative, Abhay was one of the first major credit counseling centers in India. Their goal is to provide financially distressed individuals with the tools and strategies needed to cope with debt. They function with the understanding that a borrower's mental health is just as important as their financial health.
                   </p>
@@ -423,7 +423,7 @@ export default function CharitiesDebtReliefPage() {
                 </div>
 
                 <div className="bg-white p-8 rounded-2xl border border-[#DEDEDE] shadow-sm">
-                  <h3 className="text-2xl font-bold text-[#1F5EFF] mb-4">Debt Justice and Advocacy NGOs</h3>
+                  <h4 className="text-2xl font-bold text-[#1F5EFF] mb-4">Debt Justice and Advocacy NGOs</h4>
                   <p className="mb-4">
                     There are several smaller NGOs that focus on advocacy and policy change. These organizations work with the government and the RBI to ensure that the rights of borrowers are protected. They often provide legal aid to those facing unfair court cases or illegal property seizures by lenders.
                   </p>
@@ -435,19 +435,19 @@ export default function CharitiesDebtReliefPage() {
             </section>
 
             <section id="religious-organizations" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Religious Organizations and Financial Aid</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Religious Organizations and Financial Aid</h3>
               <p className="mb-6">
                 India is a land of deep faith, and many religious organizations take their commitment to social welfare very seriously. While their primary mission may be spiritual, many have robust charitable wings that provide financial assistance to those in severe distress. For centuries, religious institutions have served as the ultimate safety net for communities in India.
               </p>
               <div className="grid md:grid-cols-2 gap-6 mb-8">
                 <div className="bg-orange-50/50 p-6 rounded-xl border border-orange-100">
-                  <h3 className="text-xl font-bold text-orange-800 mb-3">Zakat and Islamic Charity</h3>
+                  <h4 className="text-xl font-bold text-orange-800 mb-3">Zakat and Islamic Charity</h4>
                   <p className="text-sm text-orange-900/80 leading-relaxed">
                     In Islam, one of the primary uses of Zakat (obligatory charity) is to help those who are in debt. Many Islamic charitable trusts in India operate specific funds to help poor families clear small, high-interest debts that prevent them from earning a living. They believe that removing the burden of debt is an act of great religious merit.
                   </p>
                 </div>
                 <div className="bg-blue-50/50 p-6 rounded-xl border border-blue-100">
-                  <h3 className="text-xl font-bold text-blue-800 mb-3">Christian Action for India</h3>
+                  <h4 className="text-xl font-bold text-blue-800 mb-3">Christian Action for India</h4>
                   <p className="text-sm text-blue-900/80 leading-relaxed">
                     Organizations like Compass India provide financial education based on Christian principles. They help individuals manage their household finances better and have reported success stories where people have miraculous paths to becoming debt-free through disciplined living and community support. They emphasize the importance of honesty and integrity in all financial dealings.
                   </p>
@@ -462,7 +462,7 @@ export default function CharitiesDebtReliefPage() {
             </section>
 
             <section id="community-projects" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Community and Social Empowerment Projects</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Community and Social Empowerment Projects</h3>
               <p className="mb-6">
                 Global platforms like GlobalGiving often host specific fundraising projects for debt relief in India. One notable example is the project focused on the Arunthathiyar communities in South India. This initiative aims to free hundreds of women and their families from the clutches of local loan sharks who charge interest rates as high as 120% per year. These communities often face multiple layers of social and economic discrimination, making them easy targets for predatory lenders.
               </p>
@@ -478,7 +478,7 @@ export default function CharitiesDebtReliefPage() {
             </section>
 
             <section id="government-safety-nets" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Government Schemes: A Different Form of Charity</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Government Schemes: A Different Form of Charity</h3>
               <p className="mb-6">
                 While the government is not a charity in the traditional sense, several of its schemes act as a critical safety net for those in financial trouble. These programs are often free to access and offer terms that are far better than any commercial loan. They prioritize the welfare of the citizen over the profit of the lender.
               </p>
@@ -514,12 +514,12 @@ export default function CharitiesDebtReliefPage() {
             </section>
 
             <section id="scam-prevention" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Alert: Avoiding Debt Relief Scams</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Alert: Avoiding Debt Relief Scams</h3>
               <p className="mb-6 text-red-600 font-bold">
                 Unfortunately, when people are desperate, predators often appear disguised as helpers. You must be very careful when searching for charities that pay off debt.
               </p>
               <div className="bg-red-50 border-l-4 border-red-500 p-8 rounded-r-xl mb-8">
-                <h3 className="text-xl font-bold text-red-800 mb-4">Red Flags of a Scam</h3>
+                <h4 className="text-xl font-bold text-red-800 mb-4">Red Flags of a Scam</h4>
                 <ul className="space-y-3 text-red-900/80">
                   <li>• <strong>Upfront Fees:</strong> A genuine charity or NGO will NEVER ask you for a 'processing fee' or 'security deposit' to pay your debt.</li>
                   <li>• <strong>Guaranteed Elimination:</strong> No organization can 'guarantee' that your debt will vanish without any consequences like CIBIL impact.</li>
@@ -533,13 +533,13 @@ export default function CharitiesDebtReliefPage() {
             </section>
 
             <section id="sector-specific-relief" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Sector-Specific Debt Relief: Farmers and Small Businesses</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Sector-Specific Debt Relief: Farmers and Small Businesses</h3>
               <p className="mb-6">
                 In India, certain sectors are more vulnerable to debt traps than others. Agriculture and Small Scale Enterprises are the backbone of our economy, but they are also subject to the whims of the monsoon and global market fluctuations.
               </p>
               <div className="space-y-8">
                 <div className="bg-white p-8 rounded-2xl border border-blue-100 shadow-sm">
-                  <h3 className="text-2xl font-bold text-blue-600 mb-4">Farmer Debt Relief and KCC</h3>
+                  <h4 className="text-2xl font-bold text-blue-600 mb-4">Farmer Debt Relief and KCC</h4>
                   <p className="mb-4">
                     The Kisan Credit Card (KCC) scheme is one of the most significant efforts to protect farmers from high-interest debt. It provides farmers with adequate and timely credit support from the banking system for their cultivation and other needs. If a farmer is unable to pay due to crop failure, there are often provisions for loan restructuring and interest waivers.
                   </p>
@@ -548,7 +548,7 @@ export default function CharitiesDebtReliefPage() {
                   </p>
                 </div>
                 <div className="bg-white p-8 rounded-2xl border border-purple-100 shadow-sm">
-                  <h3 className="text-2xl font-bold text-purple-600 mb-4">Relief for Small Scale Industries (SSI)</h3>
+                  <h4 className="text-2xl font-bold text-purple-600 mb-4">Relief for Small Scale Industries (SSI)</h4>
                   <p className="mb-4">
                     Small business owners often take personal loans to fund their business operations. When the business hits a rough patch, they face both professional and personal financial collapse. The Ministry of MSME provides various support systems, including credit guarantees and subsidy schemes, to help these businesses stay afloat.
                   </p>
@@ -560,12 +560,12 @@ export default function CharitiesDebtReliefPage() {
             </section>
 
             <section id="psychological-support" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Psychological Support: Your Mental Health Matters</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Psychological Support: Your Mental Health Matters</h3>
               <p className="mb-6 text-lg">
                 Debt is not just a financial numbers game; it is a profound psychological burden. The stress of debt can lead to anxiety, depression, and in tragic cases, self harm. In India, several organizations provide emotional support alongside financial advice.
               </p>
               <div className="bg-emerald-50 p-8 rounded-2xl border border-emerald-100 mb-8">
-                <h3 className="text-xl font-bold text-emerald-800 mb-4">Don't Suffer in Silence</h3>
+                <h4 className="text-xl font-bold text-emerald-800 mb-4">Don't Suffer in Silence</h4>
                 <p className="mb-4 text-emerald-900/80">
                   If you are feeling overwhelmed, please reach out to organizations like <strong>AASRA</strong> or the <strong>Vandrevala Foundation</strong>. They offer 24/7 helplines where you can talk to someone about your feelings without judgment. They understand the unique stress of debt and are there to listen.
                 </p>
@@ -576,13 +576,13 @@ export default function CharitiesDebtReliefPage() {
             </section>
 
             <section id="legal-protections" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Your Legal Protections: Know Your Rights</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Your Legal Protections: Know Your Rights</h3>
               <p className="mb-6 text-lg">
                 Knowledge is your best defense against harassment and illegal recovery tactics. In India, the law is designed to protect the human dignity of borrowers, even those who have defaulted.
               </p>
               <div className="grid md:grid-cols-2 gap-8 mb-8">
                 <div className="bg-white p-6 rounded-xl border border-gray-100 shadow-sm">
-                  <h3 className="text-xl font-bold mb-4">RBI Fair Practice Code</h3>
+                  <h4 className="text-xl font-bold mb-4">RBI Fair Practice Code</h4>
                   <p className="text-sm text-gray-600 leading-relaxed mb-4">
                     The Reserve Bank of India (RBI) has very strict guidelines for lenders and their recovery agents. Agents are prohibited from using physical force, verbal abuse, or any form of public shaming. They cannot call you before 8 AM or after 7 PM.
                   </p>
@@ -591,7 +591,7 @@ export default function CharitiesDebtReliefPage() {
                   </p>
                 </div>
                 <div className="bg-white p-6 rounded-xl border border-gray-100 shadow-sm">
-                  <h3 className="text-xl font-bold mb-4">Right to Privacy</h3>
+                  <h4 className="text-xl font-bold mb-4">Right to Privacy</h4>
                   <p className="text-sm text-gray-600 leading-relaxed mb-4">
                     Lenders cannot contact your friends, neighbors, or workplace to shame you about your debt. Your financial situation is a private matter between you and the institution.
                   </p>
@@ -606,12 +606,12 @@ export default function CharitiesDebtReliefPage() {
             </section>
 
             <section id="financial-literacy" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">The Path to Financial Literacy: Breaking the Cycle</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">The Path to Financial Literacy: Breaking the Cycle</h3>
               <p className="mb-6 text-lg">
                 Once you have resolved your current debt crisis through a charity or a settlement, the focus must shift to never entering that dark tunnel again. Financial literacy is the only long term cure for the debt epidemic.
               </p>
               <div className="bg-blue-50 p-8 rounded-2xl border border-blue-100 mb-8">
-                <h3 className="text-2xl font-black text-[#2E2E2E] mb-6">The 50/30/20 Rule: A Simple Guide</h3>
+                <h4 className="text-2xl font-black text-[#2E2E2E] mb-6">The 50/30/20 Rule: A Simple Guide</h4>
                 <p className="mb-6">One of the most effective ways to manage your money is the 50/30/20 rule. This isn't just about spreadsheets; it's about freedom.</p>
                 <div className="space-y-4">
                   <div className="bg-white p-4 rounded-lg flex items-center justify-between">
@@ -637,12 +637,12 @@ export default function CharitiesDebtReliefPage() {
             </section>
 
             <section id="settleloans-role" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">How SettleLoans Supports Your Journey</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">How SettleLoans Supports Your Journey</h3>
               <p className="mb-6">
                 At SettleLoans, we function as your professional shield and expert negotiator. While we are a private consultancy, our mission is deeply rooted in empathy. We understand that not everyone qualifies for a charity grant, but everyone deserves a second chance at their financial life. Our role is to bridge the gap between your current crisis and a sustainable future.
               </p>
               <div className="bg-[#2E2E2E] text-white p-8 rounded-2xl mb-8">
-                <h3 className="text-2xl font-bold mb-4">Our Commitment to You</h3>
+                <h4 className="text-2xl font-bold mb-4">Our Commitment to You</h4>
                 <p className="mb-4 opacity-80">
                   When you partner with us, we take over the heavy lifting. We handle the aggressive calls, we reply to the legal notices, and most importantly, we use our years of experience to negotiate a legal settlement that can save you 40% to 70% of what you owe. We act as your buffer against the aggressive tactics of recovery agents.
                 </p>
@@ -660,7 +660,7 @@ export default function CharitiesDebtReliefPage() {
             </section>
 
             <section id="success-stories" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 text-center">Real Stories of Freedom</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 text-center">Real Stories of Freedom</h3>
               <div className="grid md:grid-cols-2 gap-6 not-prose">
                 {[
                   {
@@ -698,7 +698,7 @@ export default function CharitiesDebtReliefPage() {
                         {review.name.charAt(0)}
                       </div>
                       <div>
-                        <h3 className="font-bold text-[#2E2E2E]">{review.name}</h3>
+                        <h4 className="font-bold text-[#2E2E2E]">{review.name}</h4>
                         <p className="text-xs text-gray-400">{review.loc}</p>
                       </div>
                       <div className="ml-auto text-yellow-400 text-sm">★★★★★</div>
@@ -713,31 +713,31 @@ export default function CharitiesDebtReliefPage() {
             </section>
 
             <section id="rebuilding-life" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Rebuilding Your Life After Debt</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Rebuilding Your Life After Debt</h3>
               <p className="mb-6 text-lg">
                 Becoming debt-free is a milestone, but it is just the beginning of your new financial life. The path ahead is about building a secure foundation so you never have to face this stress again.
               </p>
               <div className="grid sm:grid-cols-2 gap-8 my-10">
                 <div>
-                  <h3 className="text-xl font-bold mb-4 text-[#1F5EFF]">1. Forgive Yourself</h3>
+                  <h4 className="text-xl font-bold mb-4 text-[#1F5EFF]">1. Forgive Yourself</h4>
                   <p className="text-sm text-gray-600 leading-relaxed">
                     The first step is mental. Many people carry the shame of debt for years. Let it go. You have faced the challenge, you have settled your dues, and you have learned. Use that wisdom to build a stronger future.
                   </p>
                 </div>
                 <div>
-                  <h3 className="text-xl font-bold mb-4 text-[#1F5EFF]">2. The Emergency Fund</h3>
+                  <h4 className="text-xl font-bold mb-4 text-[#1F5EFF]">2. The Emergency Fund</h4>
                   <p className="text-sm text-gray-600 leading-relaxed">
                     Never rely on credit cards for emergencies again. Aim to save at least three months of living expenses in a liquid savings account. This is your ultimate insurance policy against debt.
                   </p>
                 </div>
                 <div>
-                  <h3 className="text-xl font-bold mb-4 text-[#1F5EFF]">3. Monitor Your Credit</h3>
+                  <h4 className="text-xl font-bold mb-4 text-[#1F5EFF]">3. Monitor Your Credit</h4>
                   <p className="text-sm text-gray-600 leading-relaxed">
                     Keep a close eye on your CIBIL report. Ensure that your settled loans are correctly reflected. It will take time for your score to rise, but with disciplined credit behavior, it will happen.
                   </p>
                 </div>
                 <div>
-                  <h3 className="text-xl font-bold mb-4 text-[#1F5EFF]">4. Wise Credit Usage</h3>
+                  <h4 className="text-xl font-bold mb-4 text-[#1F5EFF]">4. Wise Credit Usage</h4>
                   <p className="text-sm text-gray-600 leading-relaxed">
                     When you are eventually eligible for a credit card again, use it like a tool, not a tap. Pay the full balance every single month. Never spend money you do not already have in your bank account.
                   </p>
@@ -749,7 +749,7 @@ export default function CharitiesDebtReliefPage() {
             </section>
 
             <section id="faqs" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Frequently Asked Questions</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Frequently Asked Questions</h3>
               <div className="space-y-4 not-prose">
                 {[
                   { q: "Can I get a loan from an NGO to pay my bank debt?", a: "Some NGOs like Lifeline Foundation provide micro-loans, but they are usually smaller in scale. For large bank debts, NGOs mostly provide counseling and legal guidance to help you reach a settlement with the bank using your own savings or community help." },
@@ -786,7 +786,7 @@ export default function CharitiesDebtReliefPage() {
             <div className="lg:hidden mt-16 mb-8">
               <div className="bg-[#2E2E2E] rounded-2xl shadow-xl overflow-hidden border border-[#1F5EFF]/20">
                 <div className="bg-[#1F5EFF] p-6 text-center text-white">
-                  <h3 className="text-2xl font-black mb-2">Ready to Start Over?</h3>
+                  <h4 className="text-2xl font-black mb-2">Ready to Start Over?</h4>
                   <p className="opacity-90 text-sm">Join the 10,000+ Indians we've helped find their way to financial freedom.</p>
                 </div>
                 <div className="p-8 text-center text-[#DEDEDE]">

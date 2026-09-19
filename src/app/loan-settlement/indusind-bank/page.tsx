@@ -305,7 +305,7 @@ export default function IndusIndBankSettlementPage() {
             </section>
 
             <section id="credit-card-dynamics" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl font-black text-[#1a202c] mb-6">The IndusInd Credit Card Debt Dynamics: Legend, Nexxt, and More</h2>
+              <h3 className="text-3xl font-black text-[#1a202c] mb-6">The IndusInd Credit Card Debt Dynamics: Legend, Nexxt, and More</h3>
               <p className="mb-6">
                 IndusInd Bank credit cards are marketed with premium features and high credit limits, which often encourage spending beyond one's immediate means. Cards like the Legend, EazyDiner, and Millennia are popular choices, but the interest rates associated with these cards can be as high as 45% per annum when inclusive of all charges. The dynamic of credit card debt is particularly dangerous because of the "Minimum Amount Due" (MAD) trap. By paying just the MAD, you are essentially only covering a portion of the interest while the principal continues to compound at a devastating rate.
               </p>
@@ -332,7 +332,7 @@ export default function IndusIndBankSettlementPage() {
             </section>
 
             <section id="personal-loan-crisis" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl font-black text-[#1a202c] mb-6">Navigating the IndusInd Personal Loan Crisis</h2>
+              <h3 className="text-3xl font-black text-[#1a202c] mb-6">Navigating the IndusInd Personal Loan Crisis</h3>
               <p className="mb-6">
                 Personal loans from IndusInd Bank are typically higher in value compared to credit card outstandings. These are fixed tenure loans with monthly EMIs. A default in personal loans is viewed more seriously by the bank because the risk of loss is higher. If you miss consecutive EMIs, the bank's "Legal & Recovery" department takes over. You may start receiving legal notices via email and registered post, often mentioning Section 138 of the Negotiable Instruments Act if you have provided post dated cheques or an NACH mandate.
               </p>
@@ -343,21 +343,21 @@ export default function IndusIndBankSettlementPage() {
                  <li className="flex items-start">
                     <div className="bg-[#98272A] text-white w-8 h-8 rounded-full flex-shrink-0 flex items-center justify-center font-bold mr-4 mt-1">1</div>
                     <div>
-                        <h3 className="font-bold text-xl mb-1">Legal Representation</h3>
+                        <h4 className="font-bold text-xl mb-1">Legal Representation</h4>
                         <p>We issue a formal notice to IndusInd Bank stating that you are represented by SettleLoans. This shifts the power balance and ensures all communication is documented.</p>
                     </div>
                  </li>
                  <li className="flex items-start">
                     <div className="bg-[#98272A] text-white w-8 h-8 rounded-full flex-shrink-0 flex items-center justify-center font-bold mr-4 mt-1">2</div>
                     <div>
-                        <h4 className="font-bold text-xl mb-1">Financial Auditing</h4>
+                        <h5 className="font-bold text-xl mb-1">Financial Auditing</h5>
                         <p>We analyze your total debt across all lenders to create a sustainable repayment plan that the bank is more likely to accept.</p>
                     </div>
                  </li>
                  <li className="flex items-start">
                     <div className="bg-[#98272A] text-white w-8 h-8 rounded-full flex-shrink-0 flex items-center justify-center font-bold mr-4 mt-1">3</div>
                     <div>
-                        <h4 className="font-bold text-xl mb-1">Direct Negotiation</h4>
+                        <h5 className="font-bold text-xl mb-1">Direct Negotiation</h5>
                         <p>Our experts talk directly to the Zonal Managers of the recovery department. We leverage our existing relationships to skip the bureaucracy and get to a deal faster.</p>
                     </div>
                  </li>
@@ -365,7 +365,7 @@ export default function IndusIndBankSettlementPage() {
             </section>
 
             <section id="ots-framework-2026" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl font-black text-[#1a202c] mb-6">The 2026 One Time Settlement (OTS) Framework</h2>
+              <h3 className="text-3xl font-black text-[#1a202c] mb-6">The 2026 One Time Settlement (OTS) Framework</h3>
               <p className="mb-6">
                 In 2026, the concept of OTS has evolved into a more systematic offering. IndusInd Bank periodically releases "Settlement Melas" or "Digital OTS Windows," particularly toward the end of the financial year or quarterly cycles. These are limited time offers where the bank is willing to accept significantly lower amounts to clear their books. However, these offers often come with tight deadlines and must be paid in a single lump sum.
               </p>
@@ -373,7 +373,7 @@ export default function IndusIndBankSettlementPage() {
                 One of the new features of the 2026 framework is the "Graduated Waiver System." This means that the older your debt is, the higher the waiver you are eligible for. For example, a debt that is 36 months old might receive a 75% waiver, while a debt that is only 6 months old might only get a 20% discount. Understanding where you sit on this timeline is crucial for timing your settlement proposal. If you propose a settlement too early, the bank will refuse any significant discount. If you wait too long, the legal complications might increase. SettleLoans helps you find that perfect window of maximum discount.
               </p>
               <div className="bg-[#f8faff] p-8 rounded-3xl border border-slate-100 mb-8">
-                <h3 className="font-black text-[#98272A] mb-4">Key Components of an IndusInd OTS Letter:</h3>
+                <h4 className="font-black text-[#98272A] mb-4">Key Components of an IndusInd OTS Letter:</h4>
                 <ul className="grid sm:grid-cols-2 gap-4">
                   <li className="flex items-center gap-2 font-medium">✓ Correct Customer ID and Loan Number</li>
                   <li className="flex items-center gap-2 font-medium">✓ Final Agreed Settlement Amount</li>
@@ -386,7 +386,7 @@ export default function IndusIndBankSettlementPage() {
             </section>
 
             <section id="recovery-agent-policies" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl font-black text-[#1a202c] mb-6">The IndusInd Recovery Agent Protocol</h2>
+              <h3 className="text-3xl font-black text-[#1a202c] mb-6">The IndusInd Recovery Agent Protocol</h3>
               <p className="mb-6">
                 One of the biggest concerns for borrowers is the behavior of third party recovery agents. While IndusInd Bank has professional guidelines, ground reality can often be different. Agents might resort to excessive calls, home visits without prior notice, or even contacting your workplace. It is important to remember that as a borrower, you have fundamental human rights that no debt can override.
               </p>
@@ -405,7 +405,7 @@ export default function IndusIndBankSettlementPage() {
             </section>
 
             <section id="business-loan-settlement" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl font-black text-[#1a202c] mb-6">Strategic Settlement for IndusInd Business Loans</h2>
+              <h3 className="text-3xl font-black text-[#1a202c] mb-6">Strategic Settlement for IndusInd Business Loans</h3>
               <p className="mb-6">
                 For entrepreneurs and small business owners, an IndusInd business loan is often secured by collateral or a personal guarantee. Settling these loans is more complex than unsecured credit cards. The bank will often look at the value of the security provided before entertaining a settlement proposal. If the value of the collateral is higher than the loan amount, the bank has less incentive to settle.
               </p>
@@ -418,7 +418,7 @@ export default function IndusIndBankSettlementPage() {
             </section>
 
             <section id="legal-protections" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl font-black text-[#1a202c] mb-6">Your Legal Protections and the Power of Response</h2>
+              <h3 className="text-3xl font-black text-[#1a202c] mb-6">Your Legal Protections and the Power of Response</h3>
               <p className="mb-6">
                 Fear of legal action is what keeps many borrowers from negotiating. You might receive notices titled "Final Legal Notice Before Attachment" or "Summons for Appearance." Most of these are "Demand Notices" and not yet a full court case. However, ignored notices can eventually turn into actual lawsuits.
               </p>
@@ -433,7 +433,7 @@ export default function IndusIndBankSettlementPage() {
             </section>
 
             <section id="cibil-management" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl font-black text-[#1a202c] mb-6">Managing Your CIBIL Score Post-Settlement</h2>
+              <h3 className="text-3xl font-black text-[#1a202c] mb-6">Managing Your CIBIL Score Post-Settlement</h3>
               <p className="mb-6">
                 A common myth is that a settlement ruins your credit score forever. While it is true that your score will drop and the account will be marked as "Settled," this is a reversible event. In the eyes of a lender, a "Settled" status is much better than a "Written Off" or "NPA" status. A settlement shows that you have finally fulfilled your obligation, albeit at a reduced amount.
               </p>
@@ -443,7 +443,7 @@ export default function IndusIndBankSettlementPage() {
             </section>
 
             <section id="negotiation-tactics" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl font-black text-[#1a202c] mb-6">IndusInd Bank Internal Negotiation Tactics</h2>
+              <h3 className="text-3xl font-black text-[#1a202c] mb-6">IndusInd Bank Internal Negotiation Tactics</h3>
               <p className="mb-6">
                 The collections department of IndusInd Bank operates on monthly and quarterly targets. This is a critical piece of information for any borrower. If you propose a settlement on the 10th of the month, you will likely get a higher quote. If the same proposal is pushed toward the 25th of the month, the manager might be more willing to give a higher discount to hit their monthly recovery target.
               </p>
@@ -453,7 +453,7 @@ export default function IndusIndBankSettlementPage() {
             </section>
 
             <section id="common-pitfalls" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl font-black text-[#1a202c] mb-6">Avoiding Common Pitfalls in IndusInd Settlement</h2>
+              <h3 className="text-3xl font-black text-[#1a202c] mb-6">Avoiding Common Pitfalls in IndusInd Settlement</h3>
               <p className="mb-6">
                 Many borrowers make the mistake of paying "Small Amounts" in the name of partial payment, thinking it will show good faith. In reality, this only resets the "Statute of Limitations" for the bank, giving them more time to sue you. Never pay even a single rupee until you have a formal settlement letter in your hand or official email.
               </p>
@@ -463,7 +463,7 @@ export default function IndusIndBankSettlementPage() {
             </section>
 
             <section id="required-paperwork" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl font-black text-[#1a202c] mb-6">Essential Documentation to win your case</h2>
+              <h3 className="text-3xl font-black text-[#1a202c] mb-6">Essential Documentation to win your case</h3>
               <p className="mb-6">
                 Preparation is half the battle. When we approach IndusInd Bank, we need a complete file. The bank's credit committee will not approve a 50% waiver just on your word. They need proof.
               </p>
@@ -480,7 +480,7 @@ export default function IndusIndBankSettlementPage() {
             </section>
 
             <section id="rbi-guidelines-2026" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl font-black text-[#1a202c] mb-6">The 2026 RBI Guidelines on Fair Debt Collection</h2>
+              <h3 className="text-3xl font-black text-[#1a202c] mb-6">The 2026 RBI Guidelines on Fair Debt Collection</h3>
               <p className="mb-6">
                 The RBI has significantly tightened the rules in early 2026 regarding debt collection and settlement. Lenders are now forced to provide a clear "Fact Sheet" to the borrower during the loan process and must inform the borrower at least 30 days before initiating any legal attachment. These new rules are designed to prevent "Debt Shaming."
               </p>
@@ -490,7 +490,7 @@ export default function IndusIndBankSettlementPage() {
             </section>
 
             <section id="success-stories" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl font-black text-[#1a202c] mb-8">What Our IndusInd Clients Say</h2>
+              <h3 className="text-3xl font-black text-[#1a202c] mb-8">What Our IndusInd Clients Say</h3>
               <div className="grid gap-6">
                 {[
                   { name: "Vikram Singh", date: "Feb 10, 2026", text: "SettleLoans negotiated my IndusInd Legend credit card debt perfectly. My outstanding was 8 lakhs with interest, settled for 2.8 lakhs. The constant agent visits stopped the day I joined them.", rating: 5 },
@@ -516,7 +516,7 @@ export default function IndusIndBankSettlementPage() {
             </section>
 
             <section id="faqs" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-5xl font-black text-[#98272A] mb-12">Frequently Asked Questions</h2>
+              <h3 className="text-3xl md:text-5xl font-black text-[#98272A] mb-12">Frequently Asked Questions</h3>
               <div className="space-y-4">
                   {[
                     { q: "Is total waiver on interest possible with IndusInd?", a: "Yes, once an account becomes an NPA, the bank is often willing to waive off 100% of the interest and penalties, focusing only on recovering the principal amount." },
@@ -531,7 +531,7 @@ export default function IndusIndBankSettlementPage() {
                     { q: "Can an IndusInd credit card settlement affect my job?", a: "No. Unless you are in a specific sensitive role in the banking sector itself, a loan settlement is a private financial matter and does not affect your employment." }
                   ].map((faq, i) => (
                     <div key={i} className="border-b border-slate-200 pb-6">
-                        <h3 className="font-bold text-lg text-[#1a202c] mb-2">{faq.q}</h3>
+                        <h4 className="font-bold text-lg text-[#1a202c] mb-2">{faq.q}</h4>
                         <p className="text-[#4a5568]">{faq.a}</p>
                     </div>
                   ))}
@@ -539,7 +539,7 @@ export default function IndusIndBankSettlementPage() {
             </section>
 
             <section id="final-advice" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl font-black text-[#1a202c] mb-6">Final Strategic Advice for your journey</h2>
+              <h3 className="text-3xl font-black text-[#1a202c] mb-6">Final Strategic Advice for your journey</h3>
               <p className="text-lg mb-6">
                 Settling your IndusInd Bank loan is a strategic business decision for your life. It is not an admission of failure, but a calculated move to stop a worsening situation. The bank has already predicted that a certain percentage of their loans will go into settlement - that is why they have high interest rates for others. You are not \"stealing\" from the bank; you are using a legitimate financial resolution mechanism.
               </p>
@@ -547,7 +547,7 @@ export default function IndusIndBankSettlementPage() {
                 Don't let the fear of tomorrow stop you from making the right choice today. With SettleLoans by your side, you have the collective experience of thousands of successful settlements. We know their systems, we know their limits, and we know your rights. Let's close this chapter together.
               </p>
               <div className="bg-[#98272A] text-white p-10 rounded-3xl text-center">
-                 <h3 className="text-3xl font-black mb-4">Start Your IndusInd Debt Relief</h3>
+                 <h4 className="text-3xl font-black mb-4">Start Your IndusInd Debt Relief</h4>
                  <p className="text-xl mb-8 opacity-90">Get a free, confidential audit of your IndusInd Bank liabilities today.</p>
                  <Link href="/contact" className="inline-block bg-white text-[#98272A] font-black py-4 px-12 rounded-xl text-xl hover:bg-[#98272A] hover:text-white hover:border-white border border-transparent transition-all">
                     Consult Our Specialists

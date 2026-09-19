@@ -190,7 +190,7 @@ export default function PersonalLoanLawyerPage() {
                         </section>
 
                         <section id="legal-framework" className="scroll-mt-32 mb-20">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 tracking-tight">The Indian Legal Landscape for Borrowers</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 tracking-tight">The Indian Legal Landscape for Borrowers</h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 Understanding your legal standing is the first step toward debt resolution. In India, a loan default is primarily a civil matter, not a criminal one. However, banks often try to convert it into a criminal case using technicalities like bounced cheques or allegations of "Criminal Breach of Trust."
                             </p>
@@ -200,25 +200,25 @@ export default function PersonalLoanLawyerPage() {
                             <div className="grid grid-cols-1 md:grid-cols-2 gap-8">
                                 <div className="bg-white p-8 rounded-3xl border border-[#DEDEDE] shadow-sm hover:-translate-y-2 transition-transform">
                                     <FontAwesomeIcon icon={faShieldAlt} className="text-3xl text-[#1F5EFF] mb-4" />
-                                    <h3 className="text-xl font-bold text-[#2E2E2E] mb-3 uppercase tracking-tighter">Civil Defense</h3>
+                                    <h4 className="text-xl font-bold text-[#2E2E2E] mb-3 uppercase tracking-tighter">Civil Defense</h4>
                                     <p className="text-sm opacity-80 font-medium">Fighting money recovery suits in civil courts and ensuring no illegal attachment occurs.</p>
                                 </div>
                                 <div className="bg-white p-8 rounded-3xl border border-[#DEDEDE] shadow-sm hover:-translate-y-2 transition-transform">
                                     <FontAwesomeIcon icon={faShieldAlt} className="text-3xl text-red-500 mb-4" />
-                                    <h4 className="text-xl font-bold text-[#2E2E2E] mb-3 uppercase tracking-tighter">Criminal Shield</h4>
+                                    <h5 className="text-xl font-bold text-[#2E2E2E] mb-3 uppercase tracking-tighter">Criminal Shield</h5>
                                     <p className="text-sm opacity-80 font-medium">Representing you in Section 138 (Cheque Bounce) matters to prevent arrest and secure bail.</p>
                                 </div>
                             </div>
                         </section>
 
                         <section id="rbi-guidelines" className="scroll-mt-32 mb-20">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">Mastering RBI Guidelines (2025 Edition)</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">Mastering RBI Guidelines (2025 Edition)</h3>
                             <p className="text-lg leading-relaxed mb-8">
                                 The Reserve Bank of India has tightened the strings for lenders in 2024 and 2025. The new "Fair Practice Code" mandates absolute transparency in recovery. These are not mere suggestions-they are binding laws that can lead to large fines for banks if violated.
                             </p>
                             <div className="bg-[#2E2E2E] text-white p-10 rounded-3xl shadow-xl relative overflow-hidden group">
                                 <div className="absolute top-0 right-0 p-4 font-black text-[10px] tracking-[0.3em] uppercase opacity-30">Legal Arsenal</div>
-                                <h3 className="text-2xl font-black mb-6 text-[#1F5EFF]">Key RBI Protections for You</h3>
+                                <h4 className="text-2xl font-black mb-6 text-[#1F5EFF]">Key RBI Protections for You</h4>
                                 <ul className="space-y-6 text-base font-medium">
                                     <li className="flex items-start gap-4">
                                         <div className="w-1.5 h-1.5 bg-[#1F5EFF] rounded-full mt-2.5 flex-shrink-0"></div>
@@ -241,7 +241,7 @@ export default function PersonalLoanLawyerPage() {
                         </section>
 
                         <section id="harassment-defense" className="scroll-mt-32 mb-20">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 tracking-tighter">Strategic Defense Against Harassment</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 tracking-tighter">Strategic Defense Against Harassment</h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 If you are being hounded by recovery agents, silence is your enemy. The moment you appoint a legal representative, the bank's direct contact with you must cease under the "Notice of Representation" protocol. This is a standard legal practice where the client notifies the financial institution that all future communications regarding the debt must be directed to their advocate's office.
                             </p>
@@ -253,7 +253,7 @@ export default function PersonalLoanLawyerPage() {
                             </p>
 
                             <div className="bg-blue-50/50 p-8 rounded-3xl border border-blue-100 mb-12">
-                                <h3 className="text-xl font-black text-blue-900 mb-4 tracking-tight uppercase italic">The Role of the Banking Ombudsman</h3>
+                                <h4 className="text-xl font-black text-blue-900 mb-4 tracking-tight uppercase italic">The Role of the Banking Ombudsman</h4>
                                 <p className="text-base text-blue-800 leading-relaxed">
                                     The Banking Ombudsman Scheme (Integrated Ombudsman Scheme 2021) is a specialized forum created by the RBI to resolve grievances against banks and NBFCs. If a bank fails to respond to your harassment complaint within 30 days, we escalate the matter here. The Ombudsman has the power to award compensation of up to ₹20 Lakhs for the loss suffered and an additional ₹1 Lakh for mental agony and harassment.
                                 </p>
@@ -265,7 +265,7 @@ export default function PersonalLoanLawyerPage() {
                         </section>
 
                         <section id="lok-adalat" className="scroll-mt-32 mb-20">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 tracking-tight">Leveraging Lok Adalats for Debt Resolution</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 tracking-tight">Leveraging Lok Adalats for Debt Resolution</h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 Lok Adalat (People's Court) is an alternative dispute resolution mechanism in India where cases pending in a court of law or at pre-litigation stage are settled amicably. For personal loan borrowers, a Lok Adalat notice should be seen as an opportunity, not a threat.
                             </p>
@@ -273,7 +273,7 @@ export default function PersonalLoanLawyerPage() {
                                 When a case is referred to Lok Adalat, the bank is often in a 'Settlement Mindset.' They are looking to clear their books of NPAs (Non-Performing Assets) quickly. As your lawyers, we accompany you to these sessions. We present your financial hardship documents (such as medical bills, job loss certificates, or business loss statements) directly to the presiding officer. The award passed by the Lok Adalat has the same force as a decree of a civil court and is final and binding. Most importantly, there is no court fee involved, and if the case is settled, any court fee already paid is refunded.
                             </p>
                             <div className="bg-gray-50 p-8 rounded-3xl border border-[#DEDEDE] shadow-inner">
-                                <h3 className="font-black text-[#2E2E2E] mb-4 uppercase text-sm tracking-widest">Why Lok Adalat is a Win-Win</h3>
+                                <h4 className="font-black text-[#2E2E2E] mb-4 uppercase text-sm tracking-widest">Why Lok Adalat is a Win-Win</h4>
                                 <ul className="grid grid-cols-1 md:grid-cols-2 gap-4 list-none font-bold">
                                     <li className="flex items-center gap-3"><FontAwesomeIcon icon={faCheckCircle} className="text-[#1F5EFF]" /> Speed of Resolution</li>
                                     <li className="flex items-center gap-3"><FontAwesomeIcon icon={faCheckCircle} className="text-[#1F5EFF]" /> No Appeal Possible</li>
@@ -284,7 +284,7 @@ export default function PersonalLoanLawyerPage() {
                         </section>
 
                         <section id="settlement-strategies" className="scroll-mt-32 mb-20">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-10 tracking-tight">The SettleLoans Negotiation Matrix</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-10 tracking-tight">The SettleLoans Negotiation Matrix</h3>
                             <p className="text-lg leading-relaxed mb-10 font-medium opacity-80">
                                 Settlement is an art, not a battle of ego. We use "Provisioning Data" and "Recovery Costs" as leverage to convince banks that a 40% lump sum payment today is better than 0% over ten years of litigation.
                             </p>
@@ -319,7 +319,7 @@ export default function PersonalLoanLawyerPage() {
                         </section>
 
                         <section id="nri-personal-loan" className="scroll-mt-32 mb-20">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">NRI Personal Loan Disputes</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">NRI Personal Loan Disputes</h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 Non-Resident Indians (NRIs) often take personal loans in India for family needs or property investments. However, when they are abroad, managing a default becomes a nightmare. Banks often use the lack of physical presence to obtain 'Ex-Parte' orders (orders passed without hearing the other side).
                             </p>
@@ -329,7 +329,7 @@ export default function PersonalLoanLawyerPage() {
                         </section>
 
                         <section id="cibil-management" className="scroll-mt-32 mb-20">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">Managing the Credit Score Impact</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">Managing the Credit Score Impact</h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 A personal loan settlement will show up as "Settled" on your CIBIL report, which can prevent you from getting new loans for 2 to 7 years. Our legal strategy includes negotiating the "Narrative" of the report.
                             </p>
@@ -339,21 +339,21 @@ export default function PersonalLoanLawyerPage() {
                         </section>
 
                         <section id="court-remedies" className="scroll-mt-32 mb-20">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 tracking-tighter">Court Remedies & Writ Jurisdictions</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 tracking-tighter">Court Remedies & Writ Jurisdictions</h3>
                             <p className="text-lg leading-relaxed mb-8">
                                 Sometimes, the bank crosses a line that only a High Court can fix. We specialize in filing "Writ Petitions" for the protection of property and human dignity when banks bypass the law of the land. Whether it's illegal freeze on your salary account or unauthorized physical entry into your home, we use the power of the Judiciary to bring the bank's hierarchy to task.
                             </p>
                             <div className="bg-red-50 p-10 rounded-3xl border border-red-100 flex items-start gap-6">
                                 <FontAwesomeIcon icon={faGavel} className="text-3xl text-red-600 mt-1" />
                                 <div>
-                                    <h3 className="text-xl font-bold text-red-900 mb-4 uppercase">The Injunction Tool</h3>
+                                    <h4 className="text-xl font-bold text-red-900 mb-4 uppercase">The Injunction Tool</h4>
                                     <p className="text-sm text-red-800 font-medium">We obtain 'Ad-Interim Stays' against aggressive bank actions, giving you the breathing space needed to gather funds or negotiate without the pressure of an impending auction or asset seizure.</p>
                                 </div>
                             </div>
                         </section>
 
                         <section id="section-138-defense" className="scroll-mt-32 mb-20 text-[var(--color-text-body)]">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight tracking-tight">Winning the Section 138 Battle</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight tracking-tight">Winning the Section 138 Battle</h3>
                             <p className="text-lg leading-relaxed mb-6 font-medium">
                                 Cheque bounce cases are the bank's favorite weapon to create "Criminal Fear." But a bounced cheque is not an automatic conviction. We leverage a 10-point technical defense system:
                             </p>
@@ -379,7 +379,7 @@ export default function PersonalLoanLawyerPage() {
                         </section>
 
                         <section id="success-stories" className="scroll-mt-32 mb-20">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-12 text-center uppercase tracking-widest">Client Victories</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-12 text-center uppercase tracking-widest">Client Victories</h3>
                             <div className="grid md:grid-cols-2 gap-8 not-prose">
                                 {[
                                     {
@@ -403,7 +403,7 @@ export default function PersonalLoanLawyerPage() {
                                                 {review.name.charAt(0)}
                                             </div>
                                             <div>
-                                                <h3 className="font-bold text-[#2E2E2E]">{review.name}</h3>
+                                                <h4 className="font-bold text-[#2E2E2E]">{review.name}</h4>
                                                 <p className="text-xs text-gray-400 font-black">{review.loc}</p>
                                             </div>
                                             <div className="ml-auto text-yellow-400 text-sm flex gap-0.5">
@@ -421,7 +421,7 @@ export default function PersonalLoanLawyerPage() {
                         </section>
 
                         <section id="faqs" className="scroll-mt-32 mb-20">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-12">Essential FAQ: Personal Loan Rights</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-12">Essential FAQ: Personal Loan Rights</h3>
                             <div className="space-y-6 not-prose">
                                 {[
                                     { q: "Is personal loan default a criminal offense?", a: "No. Defaulting on a personal loan is a civil matter. It only becomes criminal if there is a 'Check Bounce' (NI Act 138) or evidence of intentional 'Fraud' or 'Cheating' at the time of taking the loan." },
@@ -462,7 +462,7 @@ export default function PersonalLoanLawyerPage() {
                         <div className="lg:hidden mt-16 mb-8">
                             <div className="bg-[#2E2E2E] rounded-2xl shadow-xl overflow-hidden border border-[#1F5EFF]/20">
                                 <div className="bg-[#1F5EFF] p-6 text-center text-white">
-                                    <h3 className="text-2xl font-black mb-2">Ready to Start Over?</h3>
+                                    <h4 className="text-2xl font-black mb-2">Ready to Start Over?</h4>
                                     <p className="opacity-90 text-sm">Join the 10,000+ Indians we've helped find their way to financial freedom.</p>
                                 </div>
                                 <div className="p-8 text-center text-[#DEDEDE]">

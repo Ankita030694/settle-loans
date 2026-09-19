@@ -170,13 +170,13 @@ export default function LoanForeclosureWaiverPage() {
 
             {/* Blue Important Box */}
             <section id="rbi-guidelines" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">RBI Waiver on Prepayment</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">RBI Waiver on Prepayment</h3>
               <p className="text-lg leading-relaxed mb-6 text-gray-700">
                 The most powerful tool in your arsenal is the Reserve Bank of India (RBI). Over the past few years, the RBI has heavily regulated how and when banks can charge you for paying off your own debt.
               </p>
               
               <div className="bg-blue-50 border-l-8 border-[#1F5EFF] p-8 rounded-r-2xl mb-8">
-                <h3 className="text-xl font-black text-[#1F5EFF] mb-4">The Golden Rule of RBI Prepayment</h3>
+                <h4 className="text-xl font-black text-[#1F5EFF] mb-4">The Golden Rule of RBI Prepayment</h4>
                 <p className="text-lg leading-relaxed mb-6 text-gray-700">According to RBI circulars, banks and NBFCs are strictly prohibited from charging foreclosure penalties under the following conditions:</p>
                 <ul className="space-y-3">
                   <li className="flex items-start gap-3">
@@ -197,19 +197,19 @@ export default function LoanForeclosureWaiverPage() {
               {/* 4-Grid Info Boxes */}
               <div className="grid md:grid-cols-2 gap-6 my-8">
                 <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
-                  <h3 className="font-black text-[#1F5EFF] text-lg mb-3">Check Your Loan Type</h3>
+                  <h4 className="font-black text-[#1F5EFF] text-lg mb-3">Check Your Loan Type</h4>
                   <p className="text-gray-700 text-lg leading-relaxed">Is your loan fixed or floating? The rules differ wildly depending on this single factor in your sanction letter.</p>
                 </div>
                 <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
-                  <h3 className="font-black text-[#1F5EFF] text-lg mb-3">Review the Lock-in Period</h3>
+                  <h4 className="font-black text-[#1F5EFF] text-lg mb-3">Review the Lock-in Period</h4>
                   <p className="text-gray-700 text-lg leading-relaxed">Even if fees are waived, a 6 to 12-month lock-in period may completely block you from foreclosing.</p>
                 </div>
                 <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
-                  <h3 className="font-black text-[#1F5EFF] text-lg mb-3">Source of Funds</h3>
+                  <h4 className="font-black text-[#1F5EFF] text-lg mb-3">Source of Funds</h4>
                   <p className="text-gray-700 text-lg leading-relaxed">Are you paying from savings or taking a new loan? Banks hate losing you to competitors and will charge accordingly.</p>
                 </div>
                 <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
-                  <h3 className="font-black text-[#1F5EFF] text-lg mb-3">The GST Trap</h3>
+                  <h4 className="font-black text-[#1F5EFF] text-lg mb-3">The GST Trap</h4>
                   <p className="text-gray-700 text-lg leading-relaxed">If you do pay a penalty, expect an 18% GST on top of that fee. Always negotiate the base penalty first.</p>
                 </div>
               </div>
@@ -217,7 +217,7 @@ export default function LoanForeclosureWaiverPage() {
 
             {/* New Section: Calculating Savings */}
             <section id="calculating-savings" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">Calculating Your True Foreclosure Savings</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">Calculating Your True Foreclosure Savings</h3>
               <p className="text-lg leading-relaxed mb-6 text-gray-700">
                 Before you go to war with your branch manager over a waiver, it is critical to mathematically verify that foreclosing the loan is actually in your best financial interest. Many borrowers blindly push for foreclosure without realizing that if they are in the final stages of their loan tenure, they might not save much at all.
               </p>
@@ -231,12 +231,12 @@ export default function LoanForeclosureWaiverPage() {
 
             {/* New Section: Document Checklist */}
             <section id="document-checklist" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">Document Checklist for a Waiver Request</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">Document Checklist for a Waiver Request</h3>
               <p className="text-lg leading-relaxed mb-6 text-gray-700">
                 Walking into a bank branch and verbally demanding a waiver rarely works. Bank managers are bound by internal audit rules, and they need a solid paper trail to justify waiving a penalty that their system has automatically generated. You need to build a compelling documentary case.
               </p>
               <div className="bg-gray-50 p-8 rounded-2xl mb-8 border border-gray-200">
-                <h3 className="text-xl font-black text-[#2E2E2E] mb-4">The Essentials to Carry</h3>
+                <h4 className="text-xl font-black text-[#2E2E2E] mb-4">The Essentials to Carry</h4>
                 <ul className="space-y-4">
                   <li className="flex items-start gap-3">
                     <div className="mt-1.5 w-2 h-2 rounded-full bg-[#1F5EFF] flex-shrink-0"></div>
@@ -260,7 +260,7 @@ export default function LoanForeclosureWaiverPage() {
 
             {/* Numbered Steps */}
             <section id="negotiation-tactics" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">How to Negotiate a Waiver</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">How to Negotiate a Waiver</h3>
               <p className="text-lg leading-relaxed mb-6 text-gray-700">
                 If you have a fixed-rate loan or a business loan, the RBI waiver might not automatically apply to you. However, you can still <strong>negotiate your loan pre-closure penalty</strong> using these steps.
               </p>
@@ -269,7 +269,7 @@ export default function LoanForeclosureWaiverPage() {
                 <div className="flex gap-6">
                   <div className="flex-shrink-0 w-12 h-12 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center font-black text-xl shadow-lg">1</div>
                   <div>
-                    <h3 className="text-2xl font-bold text-[#2E2E2E] mb-3">Use the "Own Savings" Approach</h3>
+                    <h4 className="text-2xl font-bold text-[#2E2E2E] mb-3">Use the "Own Savings" Approach</h4>
                     <p className="text-lg leading-relaxed text-gray-700">Branch managers have discretionary power to waive fees. Provide bank statements showing you are paying off the loan from your own savings. Banks are far more accommodating when they know you aren't leaving them for a competitor.</p>
                   </div>
                 </div>
@@ -277,7 +277,7 @@ export default function LoanForeclosureWaiverPage() {
                 <div className="flex gap-6">
                   <div className="flex-shrink-0 w-12 h-12 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center font-black text-xl shadow-lg">2</div>
                   <div>
-                    <h3 className="text-2xl font-bold text-[#2E2E2E] mb-3">Leverage a Balance Transfer (BT)</h3>
+                    <h4 className="text-2xl font-bold text-[#2E2E2E] mb-3">Leverage a Balance Transfer (BT)</h4>
                     <p className="text-lg leading-relaxed text-gray-700">If you are moving to a new bank, tell your current manager you will stay if they drop the interest rate and waive future fees. If they refuse, negotiate with the <em>new</em> bank to give you cashback to cover the old bank's foreclosure charges.</p>
                   </div>
                 </div>
@@ -285,7 +285,7 @@ export default function LoanForeclosureWaiverPage() {
                 <div className="flex gap-6">
                   <div className="flex-shrink-0 w-12 h-12 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center font-black text-xl shadow-lg">3</div>
                   <div>
-                    <h3 className="text-2xl font-bold text-[#2E2E2E] mb-3">Escalate to Grievance Redressal</h3>
+                    <h4 className="text-2xl font-bold text-[#2E2E2E] mb-3">Escalate to Grievance Redressal</h4>
                     <p className="text-lg leading-relaxed text-gray-700">If the branch manager denies your written request, escalate it to the Nodal Officer. Cite a long-standing relationship with the bank and a flawless repayment history as your primary reasons for a waiver.</p>
                   </div>
                 </div>
@@ -294,7 +294,7 @@ export default function LoanForeclosureWaiverPage() {
 
             {/* New Section: Escalation Matrix */}
             <section id="escalation-matrix" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">The Banking Ombudsman Escalation Matrix</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">The Banking Ombudsman Escalation Matrix</h3>
               <p className="text-lg leading-relaxed mb-6 text-gray-700">
                 When internal negotiations fail, and the branch manager refuses to budge despite clear RBI guidelines, you must use the escalation matrix. The RBI has designed this matrix specifically to protect consumers from arbitrary banking charges.
               </p>
@@ -311,19 +311,19 @@ export default function LoanForeclosureWaiverPage() {
 
             {/* Gray Insight Box */}
             <div className="bg-gray-50 p-8 rounded-2xl mb-8 border border-gray-200">
-              <h3 className="text-xl font-black text-[#2E2E2E] mb-4">Legal Insight</h3>
+              <h4 className="text-xl font-black text-[#2E2E2E] mb-4">Legal Insight</h4>
               <p className="text-lg leading-relaxed text-gray-700">If your bank charges a penalty on a floating rate individual loan in direct violation of RBI guidelines, you don't need to beg for a waiver. You can file a direct complaint with the Banking Ombudsman for illegal fee extraction.</p>
             </div>
 
             {/* Red Warning Box */}
             <div className="bg-red-50 p-6 rounded-xl border border-red-100 mb-8">
-              <h4 className="text-xl font-black text-red-700 mb-4">Warning: Get Everything in Writing</h4>
+              <h5 className="text-xl font-black text-red-700 mb-4">Warning: Get Everything in Writing</h5>
               <p className="text-lg leading-relaxed text-red-900">Never accept a verbal promise from a sales agent that "foreclosure charges will be waived after 6 months." If it is not explicitly written in your Sanction Letter, the bank will charge you.</p>
             </div>
 
             {/* Review / Success Stories */}
             <section id="success-stories" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">Successful Waiver Stories</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">Successful Waiver Stories</h3>
               <p className="text-lg leading-relaxed mb-6 text-gray-700">Here is how we helped borrowers beat the banks at their own game and secure massive fee waivers.</p>
 
               <div className="grid md:grid-cols-2 gap-8 my-8">
@@ -334,7 +334,7 @@ export default function LoanForeclosureWaiverPage() {
                       AM
                     </div>
                     <div>
-                      <h3 className="font-bold text-[#2E2E2E]">Amit K., Business Owner</h3>
+                      <h4 className="font-bold text-[#2E2E2E]">Amit K., Business Owner</h4>
                       <div className="flex gap-1 text-yellow-400 mt-1">
                         {[...Array(5)].map((_, i) => (
                           <svg key={i} className="w-4 h-4 fill-current" viewBox="0 0 20 20"><path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z" /></svg>
@@ -355,7 +355,7 @@ export default function LoanForeclosureWaiverPage() {
                       SR
                     </div>
                     <div>
-                      <h4 className="font-bold text-[#2E2E2E]">Sneha R., IT Professional</h4>
+                      <h5 className="font-bold text-[#2E2E2E]">Sneha R., IT Professional</h5>
                       <div className="flex gap-1 text-yellow-400 mt-1">
                         {[...Array(5)].map((_, i) => (
                           <svg key={i} className="w-4 h-4 fill-current" viewBox="0 0 20 20"><path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z" /></svg>
@@ -375,7 +375,7 @@ export default function LoanForeclosureWaiverPage() {
 
             {/* FAQs */}
             <section id="faqs" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">Frequently Asked Questions</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">Frequently Asked Questions</h3>
               <div className="space-y-4 my-8">
                 
                 {[
@@ -407,7 +407,7 @@ export default function LoanForeclosureWaiverPage() {
             <div id="lead-gen" className="bg-[#2E2E2E] text-white p-12 rounded-[40px] text-center mt-24 relative overflow-hidden group">
               <div className="absolute inset-0 bg-[#1F5EFF] opacity-0 group-hover:opacity-5 transition-opacity"></div>
               <div className="relative z-10">
-                <h3 className="text-3xl font-black mb-6">Stop Paying Hidden Penalties</h3>
+                <h4 className="text-3xl font-black mb-6">Stop Paying Hidden Penalties</h4>
                 <p className="text-xl text-gray-300 mb-8 max-w-2xl mx-auto">Don't let the branch manager bully you into paying a 4% foreclosure penalty. Let our experts negotiate a complete waiver for you today.</p>
                 <Link href="/contact" className="inline-block bg-[#1F5EFF] text-white font-bold py-4 px-10 rounded-full hover:scale-105 transition-transform shadow-lg text-lg">
                   Get Free Legal Advice

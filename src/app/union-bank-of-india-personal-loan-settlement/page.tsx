@@ -502,7 +502,7 @@ export default function UnionBankOfIndiaPersonalLoanSettlementPage() {
                 <TrendingUp className="w-4 h-4" />
                 <span>2. Delinquency Lifecycle &amp; SAMB Escalation Mechanics</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">From Base Branch Delinquency to Stressed Asset Management</h2>
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">From Base Branch Delinquency to Stressed Asset Management</h3>
               <p className="text-slate-700 leading-relaxed mb-4 text-sm sm:text-base">
                 Union Bank tracks unpaid dues in three stages. These are SMA-0 (1–30 days), SMA-1 (31–60 days), and SMA-2 (61–90 days). After 90 days of default, the loan becomes an NPA.
               </p>
@@ -548,7 +548,7 @@ export default function UnionBankOfIndiaPersonalLoanSettlementPage() {
                 <Scale className="w-4 h-4" />
                 <span>3. Section 171 Banker&apos;s Lien &amp; Operational Account Shields</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Banker&apos;s Right of General Lien, CIF Auto-Sweeps, and</h2>
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Banker&apos;s Right of General Lien, CIF Auto-Sweeps, and</h3>
               <p className="text-slate-700 leading-relaxed mb-4 text-sm sm:text-base">
                 Under <strong>Section 171 of the Indian Contract Act, 1872</strong>, Union Bank holds a general lien. The bank can debit your savings or deposits in Union Bank to cover unpaid dues.
               </p>
@@ -576,37 +576,37 @@ export default function UnionBankOfIndiaPersonalLoanSettlementPage() {
                 <Gavel className="w-4 h-4" />
                 <span>4. Statutory Legal Notices &amp; Advocate-Led Defense</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Defending Sec 25 PSSA &amp; Sec 138 NI Act</h2>
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Defending Sec 25 PSSA &amp; Sec 138 NI Act</h3>
               <p className="text-slate-700 leading-relaxed mb-4 text-sm sm:text-base">
                 During default, Union Bank sends statutory notices. Knowing your legal defense helps you stop court risks:
               </p>
               
               <div className="space-y-3.5 my-5">
                 <div className="border border-slate-200 rounded-xl p-4 bg-white shadow-sm">
-                  <h3 className="font-bold text-slate-900 text-sm mb-1 flex items-center gap-2">
+                  <h4 className="font-bold text-slate-900 text-sm mb-1 flex items-center gap-2">
                     <FileText className="w-4 h-4 text-[#1F5EFF]" />
                     <span>Section 25 of the Payment and Settlement Systems Act, 2007 (PSSA)</span>
-                  </h3>
+                  </h4>
                   <p className="text-xs sm:text-sm text-slate-600 leading-relaxed">
                     Sent when NACH auto-debits bounce. You get 15 days to reply. A lawyer reply shows hardship. It halts court action and opens OTS talks.
                   </p>
                 </div>
 
                 <div className="border border-slate-200 rounded-xl p-4 bg-white shadow-sm">
-                  <h3 className="font-bold text-slate-900 text-sm mb-1 flex items-center gap-2">
+                  <h4 className="font-bold text-slate-900 text-sm mb-1 flex items-center gap-2">
                     <FileText className="w-4 h-4 text-indigo-600" />
                     <span>Section 138 of the Negotiable Instruments Act, 1881 (NI Act)</span>
-                  </h3>
+                  </h4>
                   <p className="text-xs sm:text-sm text-slate-600 leading-relaxed">
                     Sent for bounced cheques. A lawyer reply under Section 147 NI Act turns the dispute into an OTS settlement.
                   </p>
                 </div>
 
                 <div className="border border-slate-200 rounded-xl p-4 bg-white shadow-sm">
-                  <h3 className="font-bold text-slate-900 text-sm mb-1 flex items-center gap-2">
+                  <h4 className="font-bold text-slate-900 text-sm mb-1 flex items-center gap-2">
                     <ShieldX className="w-4 h-4 text-rose-600" />
                     <span>SARFAESI Act Inapplicability on Unsecured Loans</span>
-                  </h3>
+                  </h4>
                   <p className="text-xs sm:text-sm text-slate-600 leading-relaxed">
                     SARFAESI rules apply only to secured loans like home loans. Union Bank cannot take your home for personal loans without a civil decree.
                   </p>
@@ -620,7 +620,7 @@ export default function UnionBankOfIndiaPersonalLoanSettlementPage() {
                 <Layers className="w-4 h-4" />
                 <span>5. Visual Resolution Blueprint</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Union Bank of India Settlement Workflow &amp; Approvals</h2>
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Union Bank of India Settlement Workflow &amp; Approvals</h3>
               
               <div className="my-6 rounded-2xl overflow-hidden border border-slate-200 shadow-md bg-slate-50">
                 <img
@@ -643,7 +643,7 @@ export default function UnionBankOfIndiaPersonalLoanSettlementPage() {
                 <Calculator className="w-4 h-4" />
                 <span>6. UBI OTS Policy &amp; Net Present Value (NPV) Recovery Formula</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Union Bank OTS Policy &amp; Valuation Rules</h2>
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Union Bank OTS Policy &amp; Valuation Rules</h3>
               <p className="text-slate-700 leading-relaxed mb-4 text-sm sm:text-base">
                 Union Bank settles loans using Net Present Value (NPV). SAMB officers weigh fast cash against slow court trials. Quick cash is worth more than long trials:
               </p>
@@ -664,19 +664,19 @@ export default function UnionBankOfIndiaPersonalLoanSettlementPage() {
 
               <div className="grid grid-cols-1 sm:grid-cols-2 gap-4 my-5">
                 <div className="border border-blue-200 bg-blue-50/50 rounded-xl p-4">
-                  <h3 className="font-bold text-blue-950 text-sm mb-1 flex items-center gap-1.5">
+                  <h4 className="font-bold text-blue-950 text-sm mb-1 flex items-center gap-1.5">
                     <Percent className="w-4 h-4 text-[#1F5EFF]" />
                     <span>Penal Waivers: 100% Elimination</span>
-                  </h3>
+                  </h4>
                   <p className="text-xs text-blue-900 leading-relaxed">
                     Unpaid penal interest, extra penalty rates, late fees. And bounce charges are 100% waived in an approved OTS.
                   </p>
                 </div>
                 <div className="border border-emerald-200 bg-emerald-50/50 rounded-xl p-4">
-                  <h4 className="font-bold text-emerald-950 text-sm mb-1 flex items-center gap-1.5">
+                  <h5 className="font-bold text-emerald-950 text-sm mb-1 flex items-center gap-1.5">
                     <Percent className="w-4 h-4 text-emerald-600" />
                     <span>Principal Haircut: 40% to 60%</span>
-                  </h4>
+                  </h5>
                   <p className="text-xs text-emerald-900 leading-relaxed">
                     Based on default age (Doubtful or Loss), real hardship cases get a 40% to 60% principal waiver.
                   </p>
@@ -690,13 +690,13 @@ export default function UnionBankOfIndiaPersonalLoanSettlementPage() {
                 <Briefcase className="w-4 h-4" />
                 <span>7. Step-by-Step SAMB Settlement Roadmap &amp; Approval Hierarchy</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Procedural Stages and Delegation of Financial Powers</h2>
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Procedural Stages and Delegation of Financial Powers</h3>
               
               <div className="space-y-3.5 my-5">
                 <div className="flex items-start gap-3 p-3.5 bg-slate-50 border border-slate-200 rounded-xl">
                   <div className="w-6 h-6 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center font-bold text-xs flex-shrink-0 mt-0.5">1</div>
                   <div>
-                    <h3 className="font-bold text-slate-900 text-sm">Forensic Loan Audit</h3>
+                    <h4 className="font-bold text-slate-900 text-sm">Forensic Loan Audit</h4>
                     <p className="text-xs text-slate-600 leading-relaxed">Get your full loan account statement. Separate the core principal from extra penalty charges.</p>
                   </div>
                 </div>
@@ -704,7 +704,7 @@ export default function UnionBankOfIndiaPersonalLoanSettlementPage() {
                 <div className="flex items-start gap-3 p-3.5 bg-slate-50 border border-slate-200 rounded-xl">
                   <div className="w-6 h-6 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center font-bold text-xs flex-shrink-0 mt-0.5">2</div>
                   <div>
-                    <h4 className="font-bold text-slate-900 text-sm">Hardship Dossier Compilation</h4>
+                    <h5 className="font-bold text-slate-900 text-sm">Hardship Dossier Compilation</h5>
                     <p className="text-xs text-slate-600 leading-relaxed">Gather proof of money loss. Collect medical bills, job layoff letters, or business closure records with a sworn affidavit.</p>
                   </div>
                 </div>
@@ -712,7 +712,7 @@ export default function UnionBankOfIndiaPersonalLoanSettlementPage() {
                 <div className="flex items-start gap-3 p-3.5 bg-slate-50 border border-slate-200 rounded-xl">
                   <div className="w-6 h-6 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center font-bold text-xs flex-shrink-0 mt-0.5">3</div>
                   <div>
-                    <h4 className="font-bold text-slate-900 text-sm">Submission to Competent Authority</h4>
+                    <h5 className="font-bold text-slate-900 text-sm">Submission to Competent Authority</h5>
                     <p className="text-xs text-slate-600 leading-relaxed">Submit your petition to the right authority: Chief Manager (up to ₹5L), AGM (up to ₹25L), RCC (up to ₹50L), or ZCC (above ₹50L).</p>
                   </div>
                 </div>
@@ -720,7 +720,7 @@ export default function UnionBankOfIndiaPersonalLoanSettlementPage() {
                 <div className="flex items-start gap-3 p-3.5 bg-slate-50 border border-slate-200 rounded-xl">
                   <div className="w-6 h-6 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center font-bold text-xs flex-shrink-0 mt-0.5">4</div>
                   <div>
-                    <h4 className="font-bold text-slate-900 text-sm">Sanction Letter Verification &amp; Payment</h4>
+                    <h5 className="font-bold text-slate-900 text-sm">Sanction Letter Verification &amp; Payment</h5>
                     <p className="text-xs text-slate-600 leading-relaxed">Verify the stamped OTS sanction letter on bank letterhead before you pay money into your loan account.</p>
                   </div>
                 </div>
@@ -733,7 +733,7 @@ export default function UnionBankOfIndiaPersonalLoanSettlementPage() {
                 <Scale className="w-4 h-4" />
                 <span>8. Special Lok Adalat OTS Schemes &amp; Judicial Finality</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Resolving Union Bank Defaults via Statutory Lok Adalat</h2>
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Resolving Union Bank Defaults via Statutory Lok Adalat</h3>
               <p className="text-slate-700 leading-relaxed mb-4 text-sm sm:text-base">
                 Union Bank refers bad loans to National Lok Adalat benches set up by NALSA. Bank officers carry pre-set limits. They can offer 45% to 60% principal waivers on the spot.
               </p>
@@ -755,12 +755,12 @@ export default function UnionBankOfIndiaPersonalLoanSettlementPage() {
                 <FileCheck className="w-4 h-4" />
                 <span>9. Sanction Letter Forensics, No Dues Certificate &amp; CIBIL Trajectory</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Verifying Bank Letterhead Sanctions, ₹0 NDC Mandate, and</h2>
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Verifying Bank Letterhead Sanctions, ₹0 NDC Mandate, and</h3>
               
               <div className="border border-slate-200 rounded-xl p-4 bg-white shadow-sm my-5 space-y-2.5">
-                <h3 className="font-bold text-slate-900 text-xs uppercase tracking-wider text-[#1F5EFF]">
+                <h4 className="font-bold text-slate-900 text-xs uppercase tracking-wider text-[#1F5EFF]">
                   Mandatory Clauses in an Authentic UBI OTS Letter
-                </h3>
+                </h4>
                 <ul className="text-xs sm:text-sm text-slate-700 space-y-1.5 leading-relaxed">
                   <li className="flex items-start gap-2">
                     <Check className="w-4 h-4 text-emerald-600 flex-shrink-0 mt-0.5" />
@@ -792,7 +792,7 @@ export default function UnionBankOfIndiaPersonalLoanSettlementPage() {
                 <Scale className="w-4 h-4" />
                 <span>10. Comparative Resolution Matrix &amp; Professional Advocacy</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Comparing Debt Resolution Pathways</h2>
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Comparing Debt Resolution Pathways</h3>
 
               {/* 4-sided bordered table */}
               <div className="overflow-x-auto my-5">
@@ -846,9 +846,9 @@ export default function UnionBankOfIndiaPersonalLoanSettlementPage() {
                 </table>
               </div>
 
-              <h3 className="text-lg sm:text-xl font-bold text-slate-900 mb-3">
+              <h4 className="text-lg sm:text-xl font-bold text-slate-900 mb-3">
                 Expert Legal Representation for Union Bank Loan Settlement
-              </h3>
+              </h4>
               <p className="text-slate-700 leading-relaxed mb-6 text-sm sm:text-base">
                 SettleLoans offers expert legal help for Union Bank loans. We stop agent harassment fast. We deal directly with SAMB desks to secure top waivers.
               </p>
@@ -863,7 +863,7 @@ export default function UnionBankOfIndiaPersonalLoanSettlementPage() {
                 <HelpCircle className="w-4 h-4" />
                 <span>11. Frequently Asked Questions</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">FAQs: Union Bank of India Personal Loan Settlement</h2>
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">FAQs: Union Bank of India Personal Loan Settlement</h3>
 
               <div className="space-y-3.5">
                 {(((jsonLdGraph["@graph"].find((item: any) => item["@type"] === "FAQPage") as any)?.["mainEntity"] || []) as Array<{ name: string; acceptedAnswer: { text: string } }>).map((faq, index: number) => (
@@ -890,10 +890,10 @@ export default function UnionBankOfIndiaPersonalLoanSettlementPage() {
 
             {/* 5 Official Regulatory Links */}
             <section className="bg-slate-50 border border-slate-200 rounded-2xl p-5 mb-8">
-              <h3 className="text-sm font-bold text-slate-900 mb-3 uppercase tracking-wider flex items-center gap-2">
+              <h4 className="text-sm font-bold text-slate-900 mb-3 uppercase tracking-wider flex items-center gap-2">
                 <ExternalLink className="w-4 h-4 text-[#1F5EFF]" />
                 <span>Official Statutory &amp; Regulatory References</span>
-              </h3>
+              </h4>
               <div className="grid grid-cols-1 sm:grid-cols-2 gap-3 text-xs">
                 <a
                   href="https://www.rbi.org.in"
@@ -945,9 +945,9 @@ export default function UnionBankOfIndiaPersonalLoanSettlementPage() {
 
             {/* 10 Related Guide Badges */}
             <section className="border-t border-slate-200 pt-7 mb-8">
-              <h3 className="text-sm font-bold text-slate-900 mb-3.5 uppercase tracking-wider">
+              <h4 className="text-sm font-bold text-slate-900 mb-3.5 uppercase tracking-wider">
                 Related Loan Settlement &amp; Legal Defense Guides
-              </h3>
+              </h4>
               <div className="flex flex-wrap gap-2">
                 <Link
                   href="/bank-of-baroda-personal-loan-settlement"

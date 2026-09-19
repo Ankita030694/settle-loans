@@ -260,70 +260,70 @@ export default function OTSFullFormPage() {
             </section>
 
             <section id="how-ots-works" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl font-black mb-6">The Mechanics of Recovery: How the OTS Process Works</h2>
+              <h3 className="text-3xl font-black mb-6">The Mechanics of Recovery: How the OTS Process Works</h3>
               <p>The One Time Settlement process is not a manual task that happens overnight. It is a structured negotiation that involves multiple layers of bank hierarchy. Typically, the process begins when an account has been in default for over 90 days, crossing the threshold into the NPA category. At this stage, the bank's internal recovery team or authorized collection agents begin reaching out to the borrower to assess the possibility of recovery.</p>
               <p>Either the borrower can propose an OTS, or the bank can offer a pre-approved scheme. The bank evaluates the 'realizable value' of any collateral involved. For unsecured loans like personal loans or credit cards, the bank's leverage is lower, leading to higher waiver percentages. The bank's credit committee then reviews the borrower's hardship claims (such as job loss or medical emergency) to decide the final settlement figure. Once agreed, a formal 'Settlement Letter' or 'Sanction Letter' is issued, which is the most critical document in this entire journey.</p>
               <p>Once the borrower receives this letter, they must make the payment within the stipulated timeframe. Most banks require a significant portion to be paid upfront, with the remainder following within 30 to 60 days. Upon the final payment, the account is closed, and the 'No Dues Certificate' is issued, marking the legal end of the liability. At SettleLoans, we manage every step of this mechanical process to ensure no deadlines are missed and no legal loopholes remain open.</p>
             </section>
 
             <section id="rbi-guidelines-2024" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl font-black mb-6">Staying Compliant: RBI Guidelines for OTS (2024-25)</h2>
+              <h3 className="text-3xl font-black mb-6">Staying Compliant: RBI Guidelines for OTS (2024-25)</h3>
               <p>The Reserve Bank of India (RBI) plays a pivotal role in ensuring that OTS schemes are not misused and that genuine borrowers are treated fairly. In the recent circulars for 2024 and 2025, the RBI has emphasized the need for banks to have board-approved, non-discretionary policies for compromise settlements. This means that banks shouldn't favor one borrower over another and should have clear, transparent benchmarks for settling loans, especially for the MSME (Micro, Small and Medium Enterprises) sector.</p>
               <p>One of the landmark guidelines is that the OTS amount should generally be higher than the 'current net present value' of the assets available to the bank. However, for unsecured loans, the RBI gives banks significant leeway to settle for much lower amounts to avoid a total write-off. The RBI also mandates that all compromise settlements must be reported to the bank's internal audit team to prevent fraud and ensures that willful defaulters (those who have the money but choose not to pay) are strictly excluded from these relief measures.</p>
               <p>These guidelines also protect the borrower. They provide a framework for filing complaints with the Banking Ombudsman if a bank refuses to follow its own approved OTS policy or uses unethical pressure tactics. Understanding these RBI rules is the foundation of the legal protection we offer to our clients at SettleLoans, ensuring that they are always dealt with through the lens of the law.</p>
             </section>
 
             <section id="eligibility-criteria" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl font-black mb-6">The Eligibility Gate: Who Can Truly Apply for an OTS?</h2>
+              <h3 className="text-3xl font-black mb-6">The Eligibility Gate: Who Can Truly Apply for an OTS?</h3>
               <p>Eligibility for an OTS is not an automatic right; it is a qualification based on specific financial criteria. The most basic requirement is that the loan account must be classified as an NPA. Banks are unlikely to settle an account that is currently regular (Standard Asset) because they expect full repayment. Furthermore, the borrower must demonstrate 'Genuine Financial Hardship.' This is where professional profiling becomes essential. You must prove that your inability to pay is due to factors beyond your control, such as a business failure, a medical crisis in the family, or a layoff from a major employer.</p>
               <p>Certain categories are often explicitly excluded from OTS schemes. This includes willful defaulters, cases involving fraud or embezzlement, and accounts where the bank has already secured a court decree for a much higher amount. Additionally, some the 'Early Bird' incentives in bank schemes are only available to those who apply within specific windows, such as the final quarter of the financial year. Borrowers with smaller loan amounts (typically below 20 lakhs) often find it easier to get approval for an OTS because banks are more willing to clear their small NPA volumes quickly.</p>
               <p>At SettleLoans, our first step is an 'Eligibility Audit.' We review your current loan status, your income documents, and the specific policies of your lender. If you don't yet qualify for a standard OTS scheme, we help you prepare your case for a custom negotiation with the bank's zonal authority, increasing your chances of a successful exit.</p>
             </section>
 
             <section id="benefits-of-ots" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl font-black mb-6">The Silver Lining: Key Benefits of One-Time Settlement</h2>
+              <h3 className="text-3xl font-black mb-6">The Silver Lining: Key Benefits of One-Time Settlement</h3>
               <p>The primary benefit of an OTS is, without a doubt, **Debt Clearance and Financial Relief**. Clearing a debt that has been mounting with interest and penalties for years provides an immediate sense of peace. It stops the daily stress of recovery calls and allows you to focus your energy on your career and family. From a purely mathematical perspective, getting a 50% or 60% waiver on a large debt is a massive saving that would otherwise take years of income to cover.</p>
               <p>Another often overlooked benefit is the **Avoidance of Legal Action**. Banks in India are increasingly using the SARFAESI Act for secured loans and the Negotiable Instruments Act (Section 138) for cheque bounces. A legal battle can be exhausting and expensive. By reaching an OTS, you effectively 'buy' your way out of the legal system, ensuring that your time is spent in productive pursuits rather than in courtrooms. It also protects your personal assets from potential seizure if the case were to escalate to an execution phase.</p>
               <p>Furthermore, OTS provides a pathway to **Long-term Credit Recovery**. While the initial impact on your CIBIL is negative, it is much better than having an 'Active Default' on your record. A settled loan allows the clock to start ticking on your credit recovery. Once the liability is zero, you can begin using secured credit cards to slowly rebuild your reputation, which is impossible as long as the default is active.</p>
             </section>
 
             <section id="risks-and-drawbacks" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl font-black mb-6">The Trade-off: Risks and Drawbacks to Consider</h2>
+              <h3 className="text-3xl font-black mb-6">The Trade-off: Risks and Drawbacks to Consider</h3>
               <p>While OTS offers relief, it is not without its costs. The most immediate risk is the **Negative Impact on your Credit Score**. An OTS is reported to credit bureaus like CIBIL, Experian, and Equifax with a status of 'Settled.' This status remains on your report for up to 7 years. During the first two years post-settlement, getting any fresh unsecured loan (like a personal loan or credit card) will be extremely difficult. Lenders view a settled status as a sign that you were once unable to fulfill your original agreement, making you a higher risk category.</p>
               <p>There is also the **Risk of Settlement Cancellation**. If an OTS is sanctioned and you fail to pay the agreed amount by the specified date, the bank has the right to cancel the agreement and demand the original total dues along with all accrued interest and penalties. In some cases, the bank might even forfeited any upfront 'token' money you paid. This is why we emphasize the importance of having your funds ready and your timelines strictly managed. A failed OTS can leave you in a much worse legal and financial position than before.</p>
               <p>Lastly, there is the **Potential for Hidden Tactics**. Some agents might trick you into paying a 'partial amount' under the guise of an OTS, only to treat it as a regular EMI payment once the money is received. This is why we insist on never paying without a formal Sanction Letter on the bank's original letterhead. Without this legal document, your payment has no protection and might not result in the closure of your account.</p>
             </section>
 
             <section id="sbi-samadhan" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl font-black mb-6">State Bank of India (SBI) Rinn Samadhan: A Case Study in OTS</h2>
+              <h3 className="text-3xl font-black mb-6">State Bank of India (SBI) Rinn Samadhan: A Case Study in OTS</h3>
               <p>As India's largest lender, the State Bank of India's (SBI) OTS policies set the tone for the rest of the industry. Their flagship **Rinn Samadhan Scheme** for 2024-25 is a massive initiative designed to recover NPAs across agriculture, SME, and personal loan segments. The scheme is typically structured to offer deep waivers on interest and penalties for borrowers with outstanding amounts up to 20 lakhs. For those in the rural sector or small-scale industries, the waivers can be particularly generous, sometimes reaching up to 70% of the total dues.</p>
               <p>The beauty of the SBI scheme is its standardized nature. It is board-approved and usually includes an 'Early Bird' incentive (an additional 5% to 10% waiver) if the entire settlement amount is paid within a very short window (e.g., 30 days). The application process is relatively simple, but requires precise documentation of the borrower's financial status. However, even with SBI, negotiation is possible for higher-value loans or complex cases involving multiple products. We have helped numerous SBI customers navigate the Rinn Samadhan portal and secure their NOCs in record time.</p>
               <p>Understanding the timing of these schemes is crucial. SBI often launches these samadhan windows to coincide with the end of the financial year. If you are an SBI customer in default, waiting for the right scheme window can save you lakhs of rupees. Our team monitors these announcements daily to ensure our clients can jump on these opportunities at the very first moment.</p>
             </section>
 
             <section id="icici-hdfc-policy" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl font-black mb-6">Private Sector Realities: OTS Policies at ICICI and HDFC Bank</h2>
+              <h3 className="text-3xl font-black mb-6">Private Sector Realities: OTS Policies at ICICI and HDFC Bank</h3>
               <p>Private sector giants like ICICI Bank and HDFC Bank operate with a slightly different logic than public sector banks. Their OTS policies are often more localized and based on 'pool-level' decisions. They might sell a portfolio of bad loans to an Asset Reconstruction Company (ARC), or they might authorize specific regional recovery hubs to settle cases. For HDFC Bank, their OTS schemes for the MSE sector are quite structured, often requiring a 25% upfront payment for any proposal to even be considered by the committee.</p>
               <p>ICICI Bank's approach is often data-driven. They use complex algorithms to determine the 'likelihood of recovery' from each borrower. If their system determines that a borrower is highly unlikely to pay (e.g., if there are no assets and no steady income), they become much more flexible in their settlement amounts. However, if they detect any hidden income or assets, they can be very aggressive in their litigation. This is why it is vital to present a consistent and truthful financial profile when dealing with private banks.</p>
               <p>Negotiating with private banks requires a more professional 'corporate style' approach. Sending a raw emotional letter might not work as well as a well-documented legal and financial brief that proves the bank's NPV would be better served by a settlement. At SettleLoans, we have the experience of dealing with the central recovery offices of these major private lenders, allowing us to bypass local agents and talk to the actual decision-makers.</p>
             </section>
 
             <section id="ots-vs-normal-closure" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl font-black mb-6">The Comparison: OTS vs. Regular Loan Closure</h2>
+              <h3 className="text-3xl font-black mb-6">The Comparison: OTS vs. Regular Loan Closure</h3>
               <p>It is a common question: "Why should I settle if I can just pay off the loan slowly?" The answer depends entirely on your current cash flow and your future goals. **Regular closure** happens when you pay the principal plus all the interest you agreed to. This is the gold standard for your credit report. It results in a 'Closed' status and a high CIBIL score. If you can afford it, this is always the best path. However, if your debt has ballooned with penalties to a point where you are only paying the interest and never touching the principal, you are in a 'debt trap.'</p>
               <p>**One Time Settlement** is the emergency exit from such a trap. It allows you to pay a fraction of the total and move on. While it leaves a 'Settled' mark on your report, it saves you from years of further interest payments and the risk of legal action. For someone who is 45 years old and struggling with credit card debt, an OTS might be necessary to start saving for retirement. For a regular 25-year-old with a steady job, we might instead recommend restructuring the loan so they can achieve a regular closure and protect their career-long credit viability.</p>
               <p>The choice between the two should be based on a cold, hard calculation. We help our clients run these numbers, comparing the 'Total Cost of Ownership' of the debt under both scenarios. Often, the savings from an OTS can be redirected into new investments that eventually far outweigh the temporary cost of a lower credit score.</p>
             </section>
 
             <section id="application-steps" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl font-black mb-6">A Roadmap to Success: How to Apply for OTS Step-by-Step</h2>
+              <h3 className="text-3xl font-black mb-6">A Roadmap to Success: How to Apply for OTS Step-by-Step</h3>
               <p>Applying for an OTS is a process that requires precision and timing. The first step is **Strategic Waiting**. You must wait until the account is in the right category of default (usually 6 to 12 months for the best waiver). During this time, you should be saving up the lump-sum amount. The bank will not take a settlement proposal seriously if you don't have the cash ready to pay immediately upon approval.</p>
               <p>The second step is the **Formal Proposal**. This is a detailed letter sent to the Branch Manager or the Zonal Recovery Head. The letter must clearly state your loan details, the genuine reason for your default, and a specific settlement offer (e.g., "I offer 40% of the total outstanding as a one-time payment"). Do not just say "I want a discount"; give them a figure. The third step is the **Negotiation and Committee Approval**. This involves back-and-forth communication where the bank might counter-offer. You must stay firm but reasonable.</p>
               <p>The fourth and most crucial step is **Securing the Sanction Letter**. This letter is your legal insurance. It must contain the final amount, the payment date, and the commitment to close the account and issue an NOC. Never make a payment until you have a hard copy or an official email of this letter. The final step is **Lump-sum Payment and NOC Retrieval**. Once you pay, ensure you get a stamped receipt and follow up within 30 days to collect your 'No Dues Certificate' and ensure the status is updated at CIBIL.</p>
             </section>
 
             <section id="required-documents" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl font-black mb-6">The Evidence Folder: A Checklist of Documents for OTS</h2>
+              <h3 className="text-3xl font-black mb-6">The Evidence Folder: A Checklist of Documents for OTS</h3>
               <p>A successful OTS application is all about proving your 'Inability to Pay.' The bank's committee needs to see physical proof that you are in a financial crisis. Without these documents, they will assume you are just trying to avoid your obligations. We help our clients build this 'Evidence Folder' so their proposal is bulletproof from day one.</p>
               <div className="bg-gray-50 p-8 rounded-2xl border border-[#DEDEDE] not-prose">
                 <ul className="space-y-4">
@@ -353,33 +353,33 @@ export default function OTSFullFormPage() {
             </section>
 
             <section id="life-after-ots" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl font-black mb-6">Reclaiming Your Future: Life After a One-Time Settlement</h2>
+              <h3 className="text-3xl font-black mb-6">Reclaiming Your Future: Life After a One-Time Settlement</h3>
               <p>The day you receive your NOC is the day your financial rebirth begins. However, the work is not yet over. Life after an OTS requires a complete overhaul of your relationship with money. The first order of business is to **Monitor Your Credit Report**. Check CIBIL after 60 to 90 days to ensure the account status has changed to 'Settled' and the balance is zero. If it hasn't, you must use the CIBIL dispute portal with your NOC as evidence.</p>
               <p>Secondly, you must **Avoid Fresh Debt for 12 Months**. Focus on building an emergency fund of at least 6 months' expenses. This ensures that a future crisis doesn't put you back into a debt trap. Once you have a stable base, start the **Credit Rebuilding Process**. As mentioned before, a FD-backed credit card is your best friend here. Spend tiny amounts (like ₹500 for a mobile recharge) and pay it on the same day. This 'repayment frequency' and 'perfection' will slowly heal your damaged score.</p>
               <p>Within 2 to 3 years, you will find that you can again qualify for car loans or small personal loans from NBFCs. By the 5th year, even major home loan lenders will consider your application if you can explain the past OTS with your hardship documents and show a perfect recent track record. An OTS is not the end of the road; it is a U-turn that puts you back on the path to prosperity.</p>
             </section>
 
             <section id="professional-help" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl font-black mb-6 text-center italic">Why Professional Negotiation is Better than Self-Settlement</h2>
+              <h3 className="text-3xl font-black mb-6 text-center italic">Why Professional Negotiation is Better than Self-Settlement</h3>
               <p className="mb-8">Many borrowers try to negotiate their own OTS and end up with a poor deal or a cancelled agreement. Banks are powerful institutions with massive legal resources. Going up against them alone is like bringing a knife to a gunfight. At SettleLoans, we provide the 'Collective Bargaining Power' of thousands of clients. When we talk to a bank, they know they are dealing with professionals who understand their internal policies, their targets, and the RBI laws better than their own local agents do.</p>
               <div className="grid md:grid-cols-3 gap-6 not-prose">
                 <div className="bg-blue-50 p-6 rounded-xl border border-blue-100 text-center">
-                  <h3 className="font-black text-blue-700 mb-2">Higher Waivers</h3>
+                  <h4 className="font-black text-blue-700 mb-2">Higher Waivers</h4>
                   <p className="text-xs text-blue-900 leading-relaxed font-bold">We know the lowest possible amount a bank will accept for your specific loan type and default age.</p>
                 </div>
                 <div className="bg-purple-50 p-6 rounded-xl border border-purple-100 text-center">
-                  <h4 className="font-black text-purple-700 mb-2">Legal Shield</h4>
+                  <h5 className="font-black text-purple-700 mb-2">Legal Shield</h5>
                   <p className="text-xs text-purple-900 leading-relaxed font-bold">We handle all recovery agent calls and legal notices, giving you immediate mental peace.</p>
                 </div>
                 <div className="bg-emerald-50 p-6 rounded-xl border border-emerald-100 text-center">
-                  <h4 className="font-black text-emerald-700 mb-2">Verified Docs</h4>
+                  <h5 className="font-black text-emerald-700 mb-2">Verified Docs</h5>
                   <p className="text-xs text-emerald-900 leading-relaxed font-bold">We ensure every settlement letter is 100% authentic and legally binding before you pay a rupee.</p>
                 </div>
               </div>
             </section>
 
             <section id="faqs" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl font-black mb-10 text-center">Frequently Asked Questions on OTS</h2>
+              <h3 className="text-3xl font-black mb-10 text-center">Frequently Asked Questions on OTS</h3>
               <div className="space-y-6 not-prose">
                 {[
                   { q: "What is the full form of OTS and its role in banking?", a: "OTS stands for One-Time Settlement. Its role is to help banks recover money from accounts that have become NPAs (bad loans) by offering a discount to the borrower for a lump-sum payment." },
@@ -411,7 +411,7 @@ export default function OTSFullFormPage() {
 
             <section className="mt-20 bg-[#2E2E2E] rounded-[40px] p-12 text-center text-white shadow-2xl relative overflow-hidden group border border-[#1F5EFF]/20">
               <div className="absolute top-0 right-0 w-96 h-96 bg-[#1F5EFF]/5 rounded-full -mr-48 -mt-48 transition-transform group-hover:scale-125"></div>
-              <h2 className="text-3xl md:text-5xl font-black mb-6 relative z-10 leading-tight">Master Your OTS Strategy <br/> With India's Leading Experts</h2>
+              <h3 className="text-3xl md:text-5xl font-black mb-6 relative z-10 leading-tight">Master Your OTS Strategy <br/> With India's Leading Experts</h3>
               <p className="mb-10 text-lg md:text-xl opacity-90 max-w-3xl mx-auto relative z-10 font-medium">Clear your debts for as little as 30% of the total outstanding. Let SettleLoans handle the banks while you focus on rebuilding your life.</p>
               <div className="flex justify-center relative z-10">
                 <Link href="/contact" className="inline-block bg-[#1F5EFF] text-white font-black py-4 px-12 rounded-2xl hover:scale-105 transition-all text-xl shadow-xl">

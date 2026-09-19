@@ -405,9 +405,9 @@ export default function PersonalLoanSettlementPuneClient() {
                 <Clock className="w-4 h-4" />
                 <span>2. Delinquency Timeline &amp; NPA Classification</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 Delinquency Evolution &amp; RBI Stressed Asset Aging Across Pune Bank Branches
-              </h2>
+              </h3>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 When an EMI payment is missed, the loan account does not immediately become a write-off. Commercial banks and NBFCs operating across Pune are bound by the Reserve Bank of India&apos;s <strong>Prudential Norms on Income Recognition, Asset Classification and Provisioning (IRACP)</strong>. Understanding this regulatory timeline is vital for borrowers seeking debt settlement services in Pune, because a bank&apos;s willingness to grant substantial One-Time Settlement (OTS) haircuts increases directly as the loan ages across quarterly provisioning buckets.
               </p>
@@ -469,9 +469,9 @@ export default function PersonalLoanSettlementPuneClient() {
                 <Scale className="w-4 h-4" />
                 <span>3. Civil Contract Jurisprudence &amp; Statutory Defenses</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 Civil Contract Law vs. Coercive Criminal Threats in Pune Jurisdictions
-              </h2>
+              </h3>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 The most pervasive weapon deployed by third-party recovery agencies in Pune is psychological intimidation through the misrepresentation of criminal law. Borrowers frequently receive WhatsApp messages and phone calls threatening immediate police arrest, home seizure, or the filing of criminal breach of trust and cheating complaints under Section 420 of the Indian Penal Code (or Section 318 of the Bharatiya Nyaya Sanhita, 2023).
               </p>
@@ -481,10 +481,10 @@ export default function PersonalLoanSettlementPuneClient() {
 
               {/* Statutory Callout Box */}
               <div className="bg-slate-50 border-l-4 border-[#1F5EFF] p-5 rounded-r-2xl my-6">
-                <h3 className="text-slate-900 font-bold text-base mb-2 flex items-center gap-2">
+                <h4 className="text-slate-900 font-bold text-base mb-2 flex items-center gap-2">
                   <Info className="w-5 h-5 text-[#1F5EFF]" />
                   Section 138 NI Act &amp; Section 25 PSSA: Compoundable Quasi-Criminal Matters
-                </h3>
+                </h4>
                 <p className="text-slate-700 text-sm leading-relaxed">
                   While ordinary default is civil, the bouncing of repayment cheques or automated NACH mandates allows banks to file complaints under <strong>Section 138 of the Negotiable Instruments Act, 1881</strong> or <strong>Section 25 of the Payment and Settlement Systems Act, 2007</strong> before Judicial Magistrates in Pune. These offences are strictly bailable and legally compoundable under Section 147 of the NI Act. Upon concluding a negotiated One-Time Settlement, the bank is legally required to withdraw the complaint, extinguishing all criminal exposure.
                 </p>
@@ -501,9 +501,9 @@ export default function PersonalLoanSettlementPuneClient() {
                 <ShieldAlert className="w-4 h-4" />
                 <span>4. Recovery Agency Tactics &amp; Anti-Harassment Protections</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 Collection Agency Intimidation in Pune &amp; PCMC: Legal Defense &amp; RBI Safeguards
-              </h2>
+              </h3>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 In Pune&apos;s retail lending market, unsecured personal loan defaults between ₹2 Lakhs and ₹20 Lakhs sit in an aggressive collection corridor. Because individual debt amounts in this range are below the ₹20,00,000 threshold required to approach the Debt Recovery Tribunal (DRT), and filing a full civil summary suit in Pune District Court involves substantial advocate fees and administrative delays, financial institutions outsource these accounts to private <strong>Debt Recovery Agencies (DRAs)</strong>.
               </p>
@@ -527,9 +527,9 @@ export default function PersonalLoanSettlementPuneClient() {
                       <span className="text-[10px] font-black uppercase tracking-widest text-blue-300 block">
                         Legal Defense &amp; Action Blueprint
                       </span>
-                      <h3 className="text-sm md:text-base font-black text-white leading-tight">
+                      <h4 className="text-sm md:text-base font-black text-white leading-tight">
                         Pune Debt Settlement Roadmap: IT/Auto Corridors &amp; Lok Adalat Protocols
-                      </h3>
+                      </h4>
                     </div>
                   </div>
                   <a
@@ -576,9 +576,9 @@ export default function PersonalLoanSettlementPuneClient() {
                 <Calculator className="w-4 h-4" />
                 <span>5. Net Present Value (NPV) Valuation &amp; Haircut Slabs</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 The Mathematical Haircut Formula: How Pune Bank Committees Evaluate OTS
-              </h2>
+              </h3>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Institutional debt settlement is not a subjective barter; it is a structured financial calculation governed by the <strong>RBI Master Direction on Compromise Settlements and Technical Write-offs (2023)</strong>. Bank Credit Approval Committees in Pune assess settlement proposals using a mathematical Net Present Value (NPV) Recovery Benchmark.
               </p>
@@ -648,9 +648,9 @@ export default function PersonalLoanSettlementPuneClient() {
                 <Gavel className="w-4 h-4" />
                 <span>6. Judicial Jurisdiction &amp; Lok Adalat Protocols</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 Pune District Courts &amp; PDLSA Lok Adalat Settlement Mechanics
-              </h2>
+              </h3>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Legal proceedings for loan defaults in Pune are primarily instituted before the <strong>Shivajinagar District and Sessions Court Complex</strong> for Pune city limits and the <strong>Pimpri-Chinchwad Court Complex</strong> for PCMC jurisdictions. When banks file summary civil suits under Order 37 of the CPC or Section 138 NI Act complaints, borrowers must have competent local legal representation to avoid ex-parte orders.
               </p>
@@ -668,9 +668,9 @@ export default function PersonalLoanSettlementPuneClient() {
                 <Layers className="w-4 h-4" />
                 <span>7. Strategic 5-Stage Resolution Protocol</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 Step-by-Step Strategic Roadmap to Settle Loans Across Pune &amp; PCMC
-              </h2>
+              </h3>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Navigating a multi-lender debt crisis across Pune requires a structured, attorney-led execution strategy divided into five distinct chronological phases:
               </p>
@@ -699,9 +699,9 @@ export default function PersonalLoanSettlementPuneClient() {
                 <FileCheck className="w-4 h-4" />
                 <span>8. Document Verification &amp; Closure Certification</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 The OTS Sanction Letter Audit: Mandatory Clauses &amp; The ₹0 NDC Mandate
-              </h2>
+              </h3>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 A major hazard for distressed borrowers in Pune is falling victim to unauthorized collection agent promises. Frequently, collection executives ask borrowers to deposit partial amounts into their accounts under the verbal assurance of loan closure, only for the bank to adjust the funds against accumulated penal interest while keeping the principal debt active.
               </p>
@@ -754,9 +754,9 @@ export default function PersonalLoanSettlementPuneClient() {
                 <TrendingUp className="w-4 h-4" />
                 <span>9. CIBIL Rehabilitation &amp; Financial Recovery</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 CIBIL Score Impact &amp; 24-Month Credit Rebuilding Blueprint Post-Settlement
-              </h2>
+              </h3>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Upon completion of an OTS, the lending institution reports the account status to TransUnion CIBIL, Experian, Equifax, and CRIF High Mark as <strong>&apos;Settled&apos;</strong> with an outstanding balance of <strong>₹0</strong>. While a &apos;Settled&apos; remark reflects that the debt was closed with a partial waiver—causing an immediate score reduction of 75 to 150 points—it permanently halts the compounding default cycle and stops negative DPD reporting.
               </p>
@@ -771,9 +771,9 @@ export default function PersonalLoanSettlementPuneClient() {
                 <ShieldCheck className="w-4 h-4" />
                 <span>10. Comprehensive Legal Representation in Pune</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 Why Pune &amp; PCMC Borrowers Trust SettleLoans for Debt Resolution
-              </h2>
+              </h3>
               <p className="text-slate-700 leading-relaxed mb-6 text-base md:text-lg">
                 Navigating complex multi-loan defaults across Pune demands seasoned banking litigation counsel. The legal advocates and financial strategists at SettleLoans provide comprehensive, end-to-end protection: issuing anti-harassment cease-and-desist notices, defending court summons at Shivajinagar and Pimpri Courts, representing clients at PDLSA Lok Adalats, and negotiating maximum permissible OTS haircuts directly with bank Zonal Credit Committees.
               </p>
@@ -790,9 +790,9 @@ export default function PersonalLoanSettlementPuneClient() {
                 <HelpCircle className="w-4 h-4" />
                 <span>11. Frequently Asked Questions</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
                 Frequently Asked Questions About Debt Settlement Services in Pune
-              </h2>
+              </h3>
 
               <div className="space-y-3">
                 {faqs.map((faq, index) => (
@@ -809,10 +809,10 @@ export default function PersonalLoanSettlementPuneClient() {
 
             {/* 5 Official Regulatory Links */}
             <div className="bg-slate-50 border border-slate-200 rounded-2xl p-6 my-10">
-              <h3 className="text-base font-bold text-slate-900 mb-4 flex items-center gap-2">
+              <h4 className="text-base font-bold text-slate-900 mb-4 flex items-center gap-2">
                 <Landmark className="w-5 h-5 text-[#1F5EFF]" />
                 Official Statutory &amp; Regulatory Authorities
-              </h3>
+              </h4>
               <ul className="space-y-3 text-xs text-slate-600">
                 <li className="flex items-start gap-2">
                   <ExternalLink className="w-4 h-4 text-[#1F5EFF] flex-shrink-0 mt-0.5" />
@@ -874,10 +874,10 @@ export default function PersonalLoanSettlementPuneClient() {
 
             {/* 10 Related Guide Badges */}
             <div className="bg-slate-50 border border-slate-200 rounded-2xl p-6 my-10">
-              <h3 className="text-base font-bold text-slate-900 mb-4 flex items-center gap-2">
+              <h4 className="text-base font-bold text-slate-900 mb-4 flex items-center gap-2">
                 <BookOpen className="w-5 h-5 text-[#1F5EFF]" />
                 Explore Related Banking &amp; Debt Resolution Guides
-              </h3>
+              </h4>
               <div className="flex flex-wrap gap-2.5">
                 <Link
                   href="/personal-loan-settlement-mumbai"

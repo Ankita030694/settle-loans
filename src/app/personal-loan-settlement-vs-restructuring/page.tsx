@@ -87,7 +87,7 @@ const jsonLdGraph = {
       "@type": "Article",
       "@id": "https://www.settleloans.in/personal-loan-settlement-vs-restructuring#article",
       "headline": "Personal Loan Settlement vs Restructuring: CIBIL Score Impact, Legal Nuances & Financial Decision Matrix",
-      "description": "An exhaustive, authoritative comparison between personal loan restructuring and one-time debt settlement in India. Evaluates EMI modifications, total interest outgo, CIBIL reporting codes, RBI regulatory frameworks, and credit score rehabilitation.",
+      "description": "An exhaustive, authoritative comparison between personal loan restructuring and one-time debt settlement in India. Evaluates EMI modifications, total interest outgo, CIBIL reporting codes, RBI regulatory frameworks, and credit score recovery.",
       "image": "https://www.settleloans.in/images/infographics/settlement-process.jpg",
       "datePublished": "2026-08-19T10:00:00+05:30",
       "dateModified": "2026-08-19T10:00:00+05:30",
@@ -115,7 +115,7 @@ const jsonLdGraph = {
       "@type": "Product",
       "@id": "https://www.settleloans.in/personal-loan-settlement-vs-restructuring#product",
       "name": "Personal Loan Restructuring & Settlement Legal Advisory",
-      "description": "Expert financial evaluation, bank restructuring representation, compromise OTS settlement negotiation, anti-harassment legal protection, and CIBIL score rehabilitation services across India.",
+      "description": "Expert financial evaluation, bank restructuring representation, compromise OTS settlement talks, anti-harassment legal protection, and CIBIL score recovery services across India.",
       "image": "https://www.settleloans.in/images/infographics/settlement-process.jpg",
       "brand": {
         "@type": "Brand",
@@ -224,7 +224,7 @@ const jsonLdGraph = {
           "name": "Can I request loan restructuring after my loan has become an NPA (90+ days overdue)?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "While legally permissible under RBI's Prudential Framework for Stressed Assets, banks rarely approve loan restructuring once an account enters deep NPA (90+ DPD) unless you demonstrate a verified, stable resumption of income. In deep NPA stages, banks strongly prefer a One-Time Settlement (OTS) to clean up their bad loan books immediately."
+            "text": "While legally permissible under RBI's Prudential Framework for Stressed Assets, banks rarely approve loan restructuring once an account enters deep NPA (90+ DPD) unless you show a verified, stable resumption of income. In deep NPA stages, banks strongly prefer a One-Time Settlement (OTS) to clean up their bad loan books immediately."
           }
         },
         {
@@ -232,7 +232,7 @@ const jsonLdGraph = {
           "name": "What happens if I fail to pay EMIs after restructuring my personal loan?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "If you default on a restructured loan, the bank revokes all concessions, reinstates the original interest rates and accumulated penal charges, and classifies the account as a 'Failed Restructure' / Sub-Standard NPA. The lender can initiate immediate legal action under Section 138 of the Negotiable Instruments Act or Section 25 of the Payment and Settlement Systems Act. At that stage, settling via OTS becomes your primary legal remedy."
+            "text": "If you default on a restructured loan, the bank revokes all concessions, reinstates the original interest rates and accumulated penal charges, and classifies the account as a 'Failed Restructure' / Sub-Standard NPA. The lender can start immediate legal action under Section 138 of the Negotiable Instruments Act or Section 25 of the Payment and Settlement Systems Act. At that stage, settling via OTS becomes your primary legal remedy."
           }
         },
         {
@@ -248,7 +248,7 @@ const jsonLdGraph = {
           "name": "Do banks offer a moratorium period during personal loan restructuring?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Yes, depending on individual bank policies and borrower hardship verification, lenders can grant an EMI moratorium of 3 to 6 months during restructuring. However, interest continues to accrue during the moratorium and is capitalized into the principal balance, increasing future monthly installments."
+            "text": "Yes, depending on person bank policies and borrower hardship verification, lenders can grant an EMI moratorium of 3 to 6 months during restructuring. However, interest continues to accrue during the moratorium and is capitalized into the principal balance, increasing future monthly installments."
           }
         },
         {

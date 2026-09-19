@@ -225,7 +225,7 @@ export default function LoanSettlementFeesPage() {
                 <div className="grid md:grid-cols-2 gap-6 relative z-10">
                   <div className="bg-blue-50 p-6 rounded-xl border border-blue-100 text-center">
                     <div className="text-5xl font-bold text-blue-600 mb-2">35%</div>
-                    <h3 className="text-lg font-bold text-gray-800 uppercase tracking-wide">Goes to the Bank</h3>
+                    <h4 className="text-lg font-bold text-gray-800 uppercase tracking-wide">Goes to the Bank</h4>
                     <div className="w-12 h-1 bg-blue-200 mx-auto my-3 rounded-full"></div>
                     <p className="text-sm text-gray-600">
                       This is the principal amount we negotiate the bank down to. You pay this directly to the bank to close the loan.
@@ -233,7 +233,7 @@ export default function LoanSettlementFeesPage() {
                   </div>
                   <div className="bg-purple-50 p-6 rounded-xl border border-purple-100 text-center">
                     <div className="text-5xl font-bold text-purple-600 mb-2">15%</div>
-                    <h3 className="text-lg font-bold text-gray-800 uppercase tracking-wide">Our Service Fees</h3>
+                    <h4 className="text-lg font-bold text-gray-800 uppercase tracking-wide">Our Service Fees</h4>
                     <div className="w-12 h-1 bg-purple-200 mx-auto my-3 rounded-full"></div>
                     <p className="text-sm text-gray-600">
                       This is the fee for our legal team, negotiators, and anti-harassment services.
@@ -251,9 +251,9 @@ export default function LoanSettlementFeesPage() {
 
             {/* Section 2: Calculation Example */}
             <section id="calculation" className="scroll-mt-32 mb-12">
-              <h2 className="text-2xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+              <h3 className="text-2xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                 Real World Calculation
-              </h2>
+              </h3>
               <p className="mb-6">
                 Here is exactly how the numbers look for a typical loan of ₹5 Lakhs:
               </p>
@@ -297,16 +297,16 @@ export default function LoanSettlementFeesPage() {
 
             {/* Section 3: DIY vs Professional Economics (NEW) */}
             <section id="diy-economics" className="scroll-mt-32 mb-12">
-              <h2 className="text-2xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+              <h3 className="text-2xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                 Is "Doing It Yourself" Really Cheaper?
-              </h2>
+              </h3>
               <div className="bg-white border border-[var(--color-border)] rounded-2xl p-8 shadow-sm">
                 <p className="mb-6 leading-relaxed">
                   A common misconception is that by handling the settlement yourself, you save the 15% service fee. However, statistical data and industry realities suggest otherwise. When you negotiate as an individual, you are often negotiating against a team of trained bank recovery officers who know exactly how to pressure you.
                 </p>
                 <div className="grid md:grid-cols-2 gap-8">
                   <div className="bg-red-50 p-6 rounded-xl border border-red-100">
-                    <h3 className="text-xl font-bold text-red-800 mb-4">The DIY Reality</h3>
+                    <h4 className="text-xl font-bold text-red-800 mb-4">The DIY Reality</h4>
                     <ul className="space-y-4">
                       <li className="flex items-start">
                         <span className="text-red-500 mr-2">✕</span>
@@ -331,7 +331,7 @@ export default function LoanSettlementFeesPage() {
                   </div>
 
                   <div className="bg-green-50 p-6 rounded-xl border border-green-100">
-                    <h3 className="text-xl font-bold text-green-800 mb-4">With SettleLoans</h3>
+                    <h4 className="text-xl font-bold text-green-800 mb-4">With SettleLoans</h4>
                     <ul className="space-y-4">
                       <li className="flex items-start">
                         <span className="text-green-500 mr-2">✓</span>
@@ -363,35 +363,35 @@ export default function LoanSettlementFeesPage() {
 
             {/* Section 4: Why Do We Charge */}
             <section id="why-fees" className="scroll-mt-32 mb-12">
-              <h2 className="text-2xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+              <h3 className="text-2xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                 What Does The 15% Fee Cover?
-              </h2>
+              </h3>
               <p className="mb-6">
                 You might ask, "Can't I negotiate this myself and save the 15%?" You can, but banks are professional collectors. Without legal backing, you will likely pay 70-80%. Our fee covers a comprehensive suite of services designed to protect you:
               </p>
               <div className="grid sm:grid-cols-2 gap-4">
                 <div className="bg-white p-5 rounded-xl border border-gray-200 hover:shadow-md transition-shadow">
-                  <h3 className="font-bold text-lg mb-2 text-gray-800">1. Anti-Harassment Shield</h3>
+                  <h4 className="font-bold text-lg mb-2 text-gray-800">1. Anti-Harassment Shield</h4>
                   <p className="text-sm text-gray-600">We redirect all collection calls to our legal team. You get immediate peace of mind. We take legal action against agents who violate RBI guidelines.</p>
                 </div>
                 <div className="bg-white p-5 rounded-xl border border-gray-200 hover:shadow-md transition-shadow">
-                  <h4 className="font-bold text-lg mb-2 text-gray-800">2. Legal Notices & Drafting</h4>
+                  <h5 className="font-bold text-lg mb-2 text-gray-800">2. Legal Notices & Drafting</h5>
                   <p className="text-sm text-gray-600">Our lawyers draft and reply to legal notices, arbitration threats, and Section 138 demands. A single legal reply from a private lawyer can cost ₹5000+.</p>
                 </div>
                 <div className="bg-white p-5 rounded-xl border border-gray-200 hover:shadow-md transition-shadow">
-                  <h4 className="font-bold text-lg mb-2 text-gray-800">3. Expert Negotiation</h4>
+                  <h5 className="font-bold text-lg mb-2 text-gray-800">3. Expert Negotiation</h5>
                   <p className="text-sm text-gray-600">We know the "Floor Price" of every bank. We ensure you don't overpay by even a rupee. Our data-driven approach predicts the lowest acceptable offer.</p>
                 </div>
                 <div className="bg-white p-5 rounded-xl border border-gray-200 hover:shadow-md transition-shadow">
-                  <h4 className="font-bold text-lg mb-2 text-gray-800">4. Documentation Audit</h4>
+                  <h5 className="font-bold text-lg mb-2 text-gray-800">4. Documentation Audit</h5>
                   <p className="text-sm text-gray-600">We ensure the 'Settlement Letter' is genuine. We verify the specific clauses to ensure no future liability remains after payment.</p>
                 </div>
                 <div className="bg-white p-5 rounded-xl border border-gray-200 hover:shadow-md transition-shadow">
-                  <h4 className="font-bold text-lg mb-2 text-gray-800">5. Dispute Resolution</h4>
+                  <h5 className="font-bold text-lg mb-2 text-gray-800">5. Dispute Resolution</h5>
                   <p className="text-sm text-gray-600">If the bank reneges on a promise or fails to issue a certificate, we handle the grievance escalation to the banking ombudsman.</p>
                 </div>
                 <div className="bg-white p-5 rounded-xl border border-gray-200 hover:shadow-md transition-shadow">
-                  <h4 className="font-bold text-lg mb-2 text-gray-800">6. Strategic Delinquency Mgmt</h4>
+                  <h5 className="font-bold text-lg mb-2 text-gray-800">6. Strategic Delinquency Mgmt</h5>
                   <p className="text-sm text-gray-600">We advise on how to prioritize funds and manage multiple creditors simultaneously to prevent total financial collapse.</p>
                 </div>
               </div>
@@ -399,9 +399,9 @@ export default function LoanSettlementFeesPage() {
 
             {/* Section 5: Hidden Costs (NEW) */}
             <section id="hidden-costs" className="scroll-mt-32 mb-12">
-              <h2 className="text-2xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+              <h3 className="text-2xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                 Hidden Costs You Avoid With Us
-              </h2>
+              </h3>
               <div className="bg-gray-50 border-l-4 border-gray-500 p-6 rounded-r-lg">
                 <p className="mb-4 text-gray-800">
                   When you attempt to settle without professional help, you often incur "invisible" costs that aren't apparent until it's too late:
@@ -429,23 +429,23 @@ export default function LoanSettlementFeesPage() {
 
             {/* Section 6: Market Comparison */}
             <section id="market-comparison" className="scroll-mt-32 mb-12">
-              <h2 className="text-2xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+              <h3 className="text-2xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                 Market Comparison
-              </h2>
+              </h3>
               <div className="bg-gray-50 border border-gray-200 rounded-xl p-6">
                 <div className="grid md:grid-cols-3 divide-y md:divide-y-0 md:divide-x divide-gray-200 gap-6">
                   <div className="text-center">
-                    <h3 className="font-bold text-gray-600 mb-2">Individual Effort</h3>
+                    <h4 className="font-bold text-gray-600 mb-2">Individual Effort</h4>
                     <p className="text-3xl font-bold text-red-500 mb-2">~80%</p>
                     <p className="text-xs text-gray-500 px-4">Cost when you negotiate alone. Banks know you are scared and vulnerable.</p>
                   </div>
                   <div className="text-center">
-                    <h4 className="font-bold text-gray-600 mb-2">Other Agencies</h4>
+                    <h5 className="font-bold text-gray-600 mb-2">Other Agencies</h5>
                     <p className="text-3xl font-bold text-orange-500 mb-2">~65%</p>
                     <p className="text-xs text-gray-500 px-4">They often have hidden "Success Fees" or tiered pricing structures.</p>
                   </div>
                   <div className="text-center">
-                    <h4 className="font-bold text-[var(--color-primary)] mb-2">SettleLoans</h4>
+                    <h5 className="font-bold text-[var(--color-primary)] mb-2">SettleLoans</h5>
                     <p className="text-3xl font-bold text-green-600 mb-2">~50%</p>
                     <p className="text-xs text-gray-500 px-4">Standardized, bulk-negotiation power gets you the lowest possible rates.</p>
                   </div>
@@ -455,21 +455,21 @@ export default function LoanSettlementFeesPage() {
 
             {/* Section 7: Success Fee Model (NEW) */}
             <section id="success-fee" className="scroll-mt-32 mb-12">
-              <h2 className="text-2xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+              <h3 className="text-2xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                 Our "Success Fee" Model
-              </h2>
+              </h3>
               <p className="mb-6">
                 We operate on a principle of trust and performance. In the debt settlement industry, this is known as a performance-based models.
               </p>
               <div className="grid md:grid-cols-2 gap-6">
                 <div className="bg-white p-6 rounded-xl border border-gray-100 shadow-sm">
-                  <h3 className="text-lg font-bold text-gray-800 mb-3">Why it empowers you</h3>
+                  <h4 className="text-lg font-bold text-gray-800 mb-3">Why it empowers you</h4>
                   <p className="text-sm text-gray-600 leading-relaxed mb-4">
                     Our revenue is directly tied to the service we deliver. The bulk of our fee (Safety Fund contribution aside) is only realized when we actually obtain a settlement letter for you. This aligns our incentives with yours. We <em>want</em> you to get a settlement as fast as possible.
                   </p>
                 </div>
                 <div className="bg-white p-6 rounded-xl border border-gray-100 shadow-sm">
-                  <h3 className="text-lg font-bold text-gray-800 mb-3">Beware of Upfront Frauds</h3>
+                  <h4 className="text-lg font-bold text-gray-800 mb-3">Beware of Upfront Frauds</h4>
                   <p className="text-sm text-gray-600 leading-relaxed mb-4">
                     Many fraudulent agencies ask for large upfront fees (e.g., ₹20,000) promising to "erase data from CIBIL" or "close loan without payment". These are scams. No one can erase CIBIL data legally. We charge a small enrollment fee for legal onboarding, but the service fee is strictly process-driven.
                   </p>
@@ -479,9 +479,9 @@ export default function LoanSettlementFeesPage() {
 
             {/* Section 8: Payment Terms */}
             <section id="payment-terms" className="scroll-mt-32 mb-12">
-              <h2 className="text-2xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+              <h3 className="text-2xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                 Flexible Payment Terms
-              </h2>
+              </h3>
               <p className="mb-6">
                 We understand you are in financial distress. We do not ask for the 15% fee upfront in one go.
               </p>
@@ -489,21 +489,21 @@ export default function LoanSettlementFeesPage() {
                 <div className="flex items-start">
                   <span className="flex-shrink-0 w-8 h-8 rounded-full bg-[var(--color-primary)] text-white flex items-center justify-center font-bold mr-4">1</span>
                   <div>
-                    <h3 className="font-bold text-gray-900">Enrollment Fee</h3>
+                    <h4 className="font-bold text-gray-900">Enrollment Fee</h4>
                     <p className="text-gray-600 text-sm">A small token amount to start the file and legal protection immediately.</p>
                   </div>
                 </div>
                 <div className="flex items-start">
                   <span className="flex-shrink-0 w-8 h-8 rounded-full bg-[var(--color-primary)] text-white flex items-center justify-center font-bold mr-4">2</span>
                   <div>
-                    <h4 className="font-bold text-gray-900">Build Your Fund</h4>
+                    <h5 className="font-bold text-gray-900">Build Your Fund</h5>
                     <p className="text-gray-600 text-sm">Every month, you deposit a small amount into a dedicated savings account (SPA) that YOU control. This builds up the settlement fund.</p>
                   </div>
                 </div>
                 <div className="flex items-start">
                   <span className="flex-shrink-0 w-8 h-8 rounded-full bg-[var(--color-primary)] text-white flex items-center justify-center font-bold mr-4">3</span>
                   <div>
-                    <h4 className="font-bold text-gray-900">Success Fee</h4>
+                    <h5 className="font-bold text-gray-900">Success Fee</h5>
                     <p className="text-gray-600 text-sm">The bulk of our fee is charged ONLY when we get you a settlement offer that you accept.</p>
                   </div>
                 </div>
@@ -512,9 +512,9 @@ export default function LoanSettlementFeesPage() {
 
             {/* Section 9: Refund Policy */}
             <section id="refund-policy" className="scroll-mt-32 mb-12">
-              <h2 className="text-2xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+              <h3 className="text-2xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                 100% Refund Policy
-              </h2>
+              </h3>
               <div className="bg-yellow-50 border-l-4 border-yellow-500 p-6 rounded-r-lg">
                 <p className="text-yellow-900 font-medium text-lg mb-2">
                   Our Promise: Performance or Nothing.
@@ -526,7 +526,7 @@ export default function LoanSettlementFeesPage() {
             </section>
 
             {/* Success Stories */}
-            <h2 id="reviews" className="scroll-mt-32 text-2xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 text-center uppercase tracking-tighter font-sans">Client Success Stories</h2>
+            <h3 id="reviews" className="scroll-mt-32 text-2xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 text-center uppercase tracking-tighter font-sans">Client Success Stories</h3>
             <div className="grid md:grid-cols-2 gap-4 md:gap-6 not-prose mb-16 text-left">
               {[
                 {
@@ -561,7 +561,7 @@ export default function LoanSettlementFeesPage() {
                 <div key={i} className="bg-white p-5 md:p-6 rounded-2xl border border-[var(--color-border)] shadow-sm hover:shadow-md transition-all">
                   <div className="flex items-center mb-4">
                     <div className="w-10 h-10 rounded-full bg-[#1F5EFF]/10 flex items-center justify-center font-bold text-[#1F5EFF] mr-3">{review.name.charAt(0)}</div>
-                    <div><h3 className="font-bold text-[#2E2E2E]">{review.name}</h3><p className="text-xs text-gray-400">{review.loc}</p></div>
+                    <div><h4 className="font-bold text-[#2E2E2E]">{review.name}</h4><p className="text-xs text-gray-400">{review.loc}</p></div>
                     <div className="ml-auto text-yellow-400 text-sm flex gap-0.5">
                       <FontAwesomeIcon icon={faStar} className="w-3.5 h-3.5" />
                       <FontAwesomeIcon icon={faStar} className="w-3.5 h-3.5" />
@@ -593,7 +593,7 @@ export default function LoanSettlementFeesPage() {
             <section className="bg-[#1F5EFF] rounded-[10px] p-8 md:p-12 text-center text-white relative overflow-hidden shadow-2xl mb-16">
               <div className="absolute top-0 right-0 w-64 h-64 bg-white/10 rounded-full -mr-32 -mt-32"></div>
               <div className="relative z-10">
-                <h2 className="text-3xl md:text-5xl font-black mb-6 uppercase tracking-tighter">Ready to Save 50%?</h2>
+                <h3 className="text-3xl md:text-5xl font-black mb-6 uppercase tracking-tighter">Ready to Save 50%?</h3>
                 <p className="text-lg md:text-2xl opacity-90 max-w-2xl mx-auto mb-10 leading-tight font-normal">
                   Stop overpaying and start living. Our transparent pricing means you know exactly where every rupee goes.
                 </p>
@@ -607,7 +607,7 @@ export default function LoanSettlementFeesPage() {
             <div className="lg:hidden mt-16 mb-8">
               <div className="bg-white rounded-[10px] shadow-[0_8px_30px_rgb(0,0,0,0.06)] overflow-hidden border border-[var(--color-border)]">
                 <div className="bg-[#1F5EFF] p-6 text-center text-white">
-                  <h3 className="text-2xl font-bold mb-2 uppercase tracking-wide">Professional Help</h3>
+                  <h4 className="text-2xl font-bold mb-2 uppercase tracking-wide">Professional Help</h4>
                   <p className="opacity-90 text-sm">Let our experts handle the negotiations for you.</p>
                 </div>
                 <div className="p-8 text-center">

@@ -204,7 +204,7 @@ export default function DocumentationReviewPage() {
                         </section>
 
                         <section id="why-review" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">The Non-Negotiable Nature of Legal Documentation Audit</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">The Non-Negotiable Nature of Legal Documentation Audit</h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 The Indian banking sector, while highly regulated by the Reserve Bank of India (RBI), still allows lenders vast discretion in drafting their internal "Standard Operating Procedures" (SOPs) and "Master Loan Agreements." These are often presented to the borrower as non-negotiable, standard documents. However, in the eyes of the law, "standard" does not necessarily mean "fair" or "equitable."
                             </p>
@@ -215,7 +215,7 @@ export default function DocumentationReviewPage() {
                                 Without a professional review, you might inadvertently waive your right to notice, your right to cure a default, or even your right to approach a civil court. Many agreements contain narrow arbitration clauses that force you into a dispute resolution process that is heavily skewed in favor of the lender. An audit ensures that your 'Day in Court' is never bargained away in the fine print.
                             </p>
                             <div className="bg-blue-50 p-8 rounded-xl border border-blue-200 my-8">
-                                <h3 className="font-bold text-blue-900 mb-4 text-xl">The Digital Trap: E-Agreements and One-Click Consents</h3>
+                                <h4 className="font-bold text-blue-900 mb-4 text-xl">The Digital Trap: E-Agreements and One-Click Consents</h4>
                                 <p className="text-base text-blue-800 leading-relaxed mb-4">
                                     With the rise of Fintech and digital lending apps, many agreements are now signed via OTP or Aadhaar-based digital signatures. Under the Information Technology Act, 2000, these are just as legally binding as physical ink-on-paper signatures.
                                 </p>
@@ -226,13 +226,13 @@ export default function DocumentationReviewPage() {
                         </section>
 
                         <section id="common-clauses" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">Deconstructing Critical Loan Agreement Clauses</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">Deconstructing Critical Loan Agreement Clauses</h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 To the average person, a 60-page loan document is an intimidating wall of legal jargon. To our legal experts, it's a map. We break down the four pillars of every credit agreement:
                             </p>
                             <div className="space-y-8">
                                 <div className="border-l-4 border-[#1F5EFF] pl-6 py-2">
-                                    <h3 className="text-2xl font-bold text-[#2E2E2E] mb-4">1. Interest Rate & Reset Mechanics</h3>
+                                    <h4 className="text-2xl font-bold text-[#2E2E2E] mb-4">1. Interest Rate & Reset Mechanics</h4>
                                     <p className="text-base text-gray-700 leading-relaxed mb-4">
                                         Is the rate linked to MCLR (Marginal Cost of Funds based Lending Rate) or the newer EBLR (External Benchmark Lending Rate)? What is the 'spread' or 'mark-up' above the benchmark? We audit the reset frequency.
                                     </p>
@@ -241,7 +241,7 @@ export default function DocumentationReviewPage() {
                                     </p>
                                 </div>
                                 <div className="border-l-4 border-[#1F5EFF] pl-6 py-2">
-                                    <h3 className="text-2xl font-bold text-[#2E2E2E] mb-4">2. Events of Default (Broad Definitions)</h3>
+                                    <h4 className="text-2xl font-bold text-[#2E2E2E] mb-4">2. Events of Default (Broad Definitions)</h4>
                                     <p className="text-base text-gray-700 leading-relaxed mb-4">
                                         Lenders often define 'default' very broadly. It might not just be a missed EMI. It could be a change in your employment status, a decrease in your business's credit rating, or even a 'material adverse change'—a vague term that allows the bank to call back the loan if they simply feel the economy is worsening.
                                     </p>
@@ -250,7 +250,7 @@ export default function DocumentationReviewPage() {
                                     </p>
                                 </div>
                                 <div className="border-l-4 border-[#1F5EFF] pl-6 py-2">
-                                    <h3 className="text-2xl font-bold text-[#2E2E2E] mb-4">3. Cross-Default & Cross-Collateralization</h3>
+                                    <h4 className="text-2xl font-bold text-[#2E2E2E] mb-4">3. Cross-Default & Cross-Collateralization</h4>
                                     <p className="text-base text-gray-700 leading-relaxed mb-4">
                                         A cross-default clause means if you default on a small Credit Card payment with Bank X, you are automatically considered in default for your massive Home Loan with the same bank. This can lead to a catastrophic domino effect on your entire financial profile.
                                     </p>
@@ -262,32 +262,32 @@ export default function DocumentationReviewPage() {
                         </section>
 
                         <section id="predatory-terms" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">Detecting Predatory Clauses Before They Strike</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">Detecting Predatory Clauses Before They Strike</h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 Some clauses are so one-sided that they border on being unconscionable under the Indian Contract Act. Our legal team specifically scans for these "Red Flag" terms that are hidden in the fine print:
                             </p>
                             <div className="grid md:grid-cols-2 gap-6 mb-8">
                                 <div className="bg-gray-50 p-6 rounded-xl border border-gray-200 hover:border-[#1F5EFF] transition-colors">
-                                    <h3 className="font-bold text-[#2E2E2E] mb-3 text-lg">Cognovit Clause / Confession of Debt</h3>
+                                    <h4 className="font-bold text-[#2E2E2E] mb-3 text-lg">Cognovit Clause / Confession of Debt</h4>
                                     <p className="text-sm text-gray-600 italic leading-relaxed">These clauses attempt to allow the bank to obtain a court judgment against you without providing any prior notice or a chance for a hearing. While restricted, 'confession of debt' papers are often slipped into a stack of 100 signatures.</p>
                                 </div>
                                 <div className="bg-gray-50 p-6 rounded-xl border border-gray-200 hover:border-[#1F5EFF] transition-colors">
-                                    <h4 className="font-bold text-[#2E2E2E] mb-3 text-lg">Acceleration Clause</h4>
+                                    <h5 className="font-bold text-[#2E2E2E] mb-3 text-lg">Acceleration Clause</h5>
                                     <p className="text-sm text-gray-600 italic leading-relaxed">Gives the lender the right to demand the entire principal plus future interest to be paid immediately if you miss even a single EMI. This effectively bypasses the 90-day NPA classification period mandated by the RBI.</p>
                                 </div>
                                 <div className="bg-gray-50 p-6 rounded-xl border border-gray-200 hover:border-[#1F5EFF] transition-colors">
-                                    <h4 className="font-bold text-[#2E2E2E] mb-3 text-lg">Compounding Penal Interest</h4>
+                                    <h5 className="font-bold text-[#2E2E2E] mb-3 text-lg">Compounding Penal Interest</h5>
                                     <p className="text-sm text-gray-600 italic leading-relaxed">Charging 2% to 3% penal interest per month (36% APR) and then compounding that penalty into the principal. We verify if this constitutes 'usury' or an 'unreasonable penalty' under Section 74 of the Contract Act.</p>
                                 </div>
                                 <div className="bg-gray-50 p-6 rounded-xl border border-gray-200 hover:border-[#1F5EFF] transition-colors">
-                                    <h4 className="font-bold text-[#2E2E2E] mb-3 text-lg">Set-Off Rights Without Notice</h4>
+                                    <h5 className="font-bold text-[#2E2E2E] mb-3 text-lg">Set-Off Rights Without Notice</h5>
                                     <p className="text-sm text-gray-600 italic leading-relaxed">Allows the bank to sweep funds from your personal savings account or your spouse's joint account to pay for a business loan late fee without even an SMS notification. We audit the scope of this power.</p>
                                 </div>
                             </div>
                         </section>
 
                         <section id="rbi-guidelines" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">RBI Fair Practice Code: Your Legal Shield</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">RBI Fair Practice Code: Your Legal Shield</h3>
                             <p className="text-lg leading-relaxed mb-6 font-bold">
                                 The Reserve Bank of India's Master Circular on Loans and Advances mandates that every bank must follow a strict "Fair Practice Code." Failure to incorporate these into your agreement can make the agreement voidable. Key protections include:
                             </p>
@@ -313,31 +313,31 @@ export default function DocumentationReviewPage() {
                         </section>
 
                         <section id="product-risks" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">Specific Risks Across Loan Products</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">Specific Risks Across Loan Products</h3>
                             <p className="text-lg leading-relaxed mb-8">
                                 Different loans carry different legal weight. Our audit process is tailored to the specific product you are taking:
                             </p>
                             <div className="space-y-6">
                                 <div className="bg-gray-50 rounded-2xl p-6 border border-gray-200">
-                                    <h3 className="text-xl font-bold text-[#2E2E2E] mb-3">Home Loans (The 20-Year Trap)</h3>
+                                    <h4 className="text-xl font-bold text-[#2E2E2E] mb-3">Home Loans (The 20-Year Trap)</h4>
                                     <p className="text-sm leading-relaxed mb-3 text-gray-600">
                                         The biggest risk here is the 'Interest Rate Reset' clause. We ensure your agreement allows you to switch from the bank's internal benchmark to an external one at a nominal cost. We also audit the 'Indemnity' clauses where you promise to pay the bank's legal fees even if they sue you incorrectly.
                                     </p>
                                 </div>
                                 <div className="bg-gray-50 rounded-2xl p-6 border border-gray-200">
-                                    <h4 className="text-xl font-bold text-[#2E2E2E] mb-3">Business Loans (CC/OD Limits)</h4>
+                                    <h5 className="text-xl font-bold text-[#2E2E2E] mb-3">Business Loans (CC/OD Limits)</h5>
                                     <p className="text-sm leading-relaxed mb-3 text-gray-600">
                                         Current Account and Overdraft limits often have 'Financial Covenants.' If your debt-to-equity ratio changes or if your turnover drops, the bank can 'recall' the entire limit overnight. We negotiate these 'Technical Default' triggers to give your business breathing room.
                                     </p>
                                 </div>
                                 <div className="bg-gray-50 rounded-2xl p-6 border border-gray-200">
-                                    <h4 className="text-xl font-bold text-[#2E2E2E] mb-3">Loan Against Property (LAP)</h4>
+                                    <h5 className="text-xl font-bold text-[#2E2E2E] mb-3">Loan Against Property (LAP)</h5>
                                     <p className="text-sm leading-relaxed mb-3 text-gray-600">
                                         LAP agreements often contain 'All-Monies' clauses. This means the house you pledged for a ₹1 Crore LAP also becomes security for any future Credit Card or Personal Loan you take from the same bank. We help you restrict the mortgage to just the specific loan amount.
                                     </p>
                                 </div>
                                 <div className="bg-gray-50 rounded-2xl p-6 border border-gray-200">
-                                    <h4 className="text-xl font-bold text-[#2E2E2E] mb-3">Gold Loans & Auto Loans</h4>
+                                    <h5 className="text-xl font-bold text-[#2E2E2E] mb-3">Gold Loans & Auto Loans</h5>
                                     <p className="text-sm leading-relaxed mb-4 text-gray-600">
                                         For these, the risk is 'Forceful Repossession.' Agreements often have clauses allowing recovery agents to enter your home or stop your car on the road to seize it. While the Supreme Court has restricted this, having a 'Legal Notice Only' clause in your agreement is your best defense.
                                     </p>
@@ -346,22 +346,22 @@ export default function DocumentationReviewPage() {
                         </section>
 
                         <section id="mortgage-deeds" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">The Forensic Audit of Mortgage deeds</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">The Forensic Audit of Mortgage deeds</h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 For most Indians, their home is their biggest financial asset. A Mortgage Deed (or Memorandum of Deposit of Title Deeds) is what puts it at legal risk. We perform a forensic check on:
                             </p>
                             <div className="bg-amber-50 p-8 rounded-xl border border-amber-200 mb-8 shadow-inner">
                                 <ul className="space-y-6">
                                     <li>
-                                        <h3 className="font-bold text-amber-900">Schedule of Property Accuracy</h3>
+                                        <h4 className="font-bold text-amber-900">Schedule of Property Accuracy</h4>
                                         <p className="text-sm text-amber-800">Is the description of the property 100% accurate? Does it match the original sale deed? Even a small survey number error can lead to a 'Title Dispute' that freezes your property for years in civil court.</p>
                                     </li>
                                     <li>
-                                        <h4 className="font-bold text-amber-900">Registration & Stamp Duty Compliance</h4>
+                                        <h5 className="font-bold text-amber-900">Registration & Stamp Duty Compliance</h5>
                                         <p className="text-sm text-amber-800">Was the deed correctly stamped according to your state's laws? Under the Registration Act, 1908, an insufficiently stamped mortgage may not be produced as evidence in court, which actually protects the borrower during recovery but creates title issues for the lender.</p>
                                     </li>
                                     <li>
-                                        <h5 className="font-bold text-amber-900">CERSAI & Digital Verification</h5>
+                                        <h6 className="font-bold text-amber-900">CERSAI & Digital Verification</h6>
                                         <p className="text-sm text-amber-800">We verify if the bank has registered the charge with the Central Registry of Securitisation Asset Reconstruction and Security Interest (CERSAI). This is your protection against 'double-registry' and fraudulent property sales.</p>
                                     </li>
                                 </ul>
@@ -369,7 +369,7 @@ export default function DocumentationReviewPage() {
                         </section>
 
                         <section id="guarantee-risks" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">Personal Guarantees: The Invisible Financial Handcuff</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">Personal Guarantees: The Invisible Financial Handcuff</h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 Personal guarantees are often signed in the heat of a business expansion or a family emergency without understanding that they effectively pierce the 'corporate veil.' If the borrower defaults, the guarantor is 100% liable, often for life.
                             </p>
@@ -385,7 +385,7 @@ export default function DocumentationReviewPage() {
                         </section>
 
                         <section id="legal-defence" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">Building a Legal Shield Through Documentation</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">Building a Legal Shield Through Documentation</h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 If you are already facing recovery action or have received a SARFAESI 13(2) notice, the documents you signed are the bank's only evidence against you. But we look for the 'legal cracks' in that evidence.
                             </p>
@@ -398,7 +398,7 @@ export default function DocumentationReviewPage() {
                         </section>
 
                         <section id="success-stories" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 text-center">Real Stories of Legal Protection</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 text-center">Real Stories of Legal Protection</h3>
                             <div className="grid md:grid-cols-2 gap-10 not-prose">
                                 {[
                                     {
@@ -436,7 +436,7 @@ export default function DocumentationReviewPage() {
                                                 {review.name.charAt(0)}
                                             </div>
                                             <div>
-                                                <h3 className="font-bold text-[#2E2E2E]">{review.name}</h3>
+                                                <h4 className="font-bold text-[#2E2E2E]">{review.name}</h4>
                                                 <p className="text-xs text-gray-400">{review.loc}</p>
                                             </div>
                                             <div className="ml-auto text-yellow-400 text-sm">★★★★★</div>
@@ -451,26 +451,26 @@ export default function DocumentationReviewPage() {
                         </section>
 
                         <section id="how-we-help" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">The SettleLoans 36-Point Document Audit</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">The SettleLoans 36-Point Document Audit</h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 We don't just 'read' the agreement; we stress-test it against hundreds of potential default scenarios using our proprietary legal audit framework. Our process is divided into three expert phases:
                             </p>
                             <div className="grid md:grid-cols-3 gap-8 mb-12">
                                 <div className="bg-[#2E2E2E] text-white p-8 rounded-3xl shadow-xl hover:scale-105 transition-transform">
                                     <div className="w-12 h-12 bg-[#1F5EFF] rounded-full flex items-center justify-center mb-6 font-black text-xl">01</div>
-                                    <h3 className="font-black text-blue-400 mb-2 text-lg">Forensic Financial Check</h3>
+                                    <h4 className="font-black text-blue-400 mb-2 text-lg">Forensic Financial Check</h4>
                                     <p className="text-xs opacity-60 uppercase tracking-widest mb-6 font-bold">Regulatory Compliance</p>
                                     <p className="text-sm leading-relaxed opacity-90">Verification of interest rates, reset frequency, penal charges, and tenure calculations specifically against the latest RBI master circulars and Ombudsman guidelines.</p>
                                 </div>
                                 <div className="bg-[#2E2E2E] text-white p-8 rounded-3xl shadow-xl hover:scale-105 transition-transform">
                                     <div className="w-12 h-12 bg-[#1F5EFF] rounded-full flex items-center justify-center mb-6 font-black text-xl">02</div>
-                                    <h4 className="font-black text-blue-400 mb-2 text-lg">Cross-Risk Mapping</h4>
+                                    <h5 className="font-black text-blue-400 mb-2 text-lg">Cross-Risk Mapping</h5>
                                     <p className="text-xs opacity-60 uppercase tracking-widest mb-6 font-bold">Asset Protection</p>
                                     <p className="text-sm leading-relaxed opacity-90">Deep identification of cross-default, all-monies, and acceleration clauses that expose your unconnected personal assets, family shelter, and future business income to risk.</p>
                                 </div>
                                 <div className="bg-[#2E2E2E] text-white p-8 rounded-3xl shadow-xl hover:scale-105 transition-transform">
                                     <div className="w-12 h-12 bg-[#1F5EFF] rounded-full flex items-center justify-center mb-6 font-black text-xl">03</div>
-                                    <h5 className="font-black text-blue-400 mb-2 text-lg">Custom Legal Report</h5>
+                                    <h6 className="font-black text-blue-400 mb-2 text-lg">Custom Legal Report</h6>
                                     <p className="text-xs opacity-60 uppercase tracking-widest mb-6 font-bold">Negotiation Power</p>
                                     <p className="text-sm leading-relaxed opacity-90">A detailed expert report with recommended modifications, striking out predatory language, and providing you with the legal rationale to discuss changes with your bank's legal desk.</p>
                                 </div>
@@ -478,7 +478,7 @@ export default function DocumentationReviewPage() {
                         </section>
 
                         <section id="faqs" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Comprehensive Documentation FAQs</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Comprehensive Documentation FAQs</h3>
                             <div className="space-y-6 not-prose">
                                 {[
                                     { q: "Can I refuse to sign a specific clause in a bank's agreement?", a: "Yes. While bank officials often claim these are 'system-generated' and non-negotiable, high-value borrowers or those with legal representation frequently negotiate 'Addendums' or 'Side Letters' that modify unfair terms. A professional audit report gives you the leverage needed for this negotiation." },

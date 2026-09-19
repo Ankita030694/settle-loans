@@ -223,17 +223,17 @@ const CompanyLoanMattersPage = () => {
                         </section>
 
                         <section id="understanding-ibc" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#1A1A1A] mb-8">The IBC Ecosystem: Navigating Sections 7, 9, and 10</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#1A1A1A] mb-8">The IBC Ecosystem: Navigating Sections 7, 9, and 10</h3>
                             <p className="mb-6">
                                 The Insolvency and Bankruptcy Code, 2016, transformed the landscape of Indian corporate law. It moved away from the 'Debtor in Possession' model to a 'Creditor in Control' paradigm. For a company in distress, understanding the different paths to insolvency is crucial. The code was designed as a resolution mechanism rather than a recovery mechanism, a distinction that many banks tend to overlook in their haste to liquidate assets.
                             </p>
                             <div className="grid grid-cols-1 md:grid-cols-2 gap-6 my-10">
                                 <div className="bg-white p-6 rounded-xl border border-[#DEDEDE] shadow-sm border-t-4 border-t-[#1F5EFF]">
-                                    <h3 className="font-bold mb-3 italic underline text-[#1F5EFF]">Financial Creditor (Section 7)</h3>
+                                    <h4 className="font-bold mb-3 italic underline text-[#1F5EFF]">Financial Creditor (Section 7)</h4>
                                     <p className="text-sm opacity-90">Initiated by banks, NBFCs, or bondholders. The NCLT only needs to be satisfied that a 'Debt' and a 'Default' exist. This is the most common trigger for corporate bankruptcy. Financial creditors are often grouped into a Committee of Creditors (CoC) which holds the ultimate decision-making power during the resolution process.</p>
                                 </div>
                                 <div className="bg-white p-6 rounded-xl border border-[#DEDEDE] shadow-sm border-t-4 border-t-[#1F5EFF]">
-                                    <h4 className="font-bold mb-3 italic underline text-[#1F5EFF]">Operational Creditor (Section 9)</h4>
+                                    <h5 className="font-bold mb-3 italic underline text-[#1F5EFF]">Operational Creditor (Section 9)</h5>
                                     <p className="text-sm opacity-90">Initiated by suppliers or employees. A key defense here is the 'Pre-existing Dispute' rule. If you can show a dispute existed before the demand notice, the petition can be dismissed. Operational creditors do not have voting rights in the CoC unless their debt exceeds 10% of the total debt of the company.</p>
                                 </div>
                             </div>
@@ -242,7 +242,7 @@ const CompanyLoanMattersPage = () => {
                             </p>
 
                             <div className="bg-blue-50/50 p-8 rounded-2xl border border-blue-100 my-10">
-                                <h3 className="text-2xl font-black mb-6">Deep Dive: The Moratorium (Section 14)</h3>
+                                <h4 className="text-2xl font-black mb-6">Deep Dive: The Moratorium (Section 14)</h4>
                                 <p className="mb-4">
                                     One of the most powerful features of the IBC is the automatic moratorium that kicks in once a petition is admitted. Under Section 14, all legal proceedings against the company, including recovery actions under SARFAESI or the DRT, are immediately stayed. This 'Calm Period' is intended to give the Resolution Professional time to evaluate the company's assets and invite resolution plans from potential investors.
                                 </p>
@@ -254,7 +254,7 @@ const CompanyLoanMattersPage = () => {
                                 </p>
                             </div>
 
-                            <h3 className="text-2xl font-black mb-6 mt-12">The Resolution Professional (RP) and the CoC</h3>
+                            <h4 className="text-2xl font-black mb-6 mt-12">The Resolution Professional (RP) and the CoC</h4>
                             <p className="mb-6">
                                 Once the NCLT admits a petition, the Board of Directors is suspended, and an Interim Resolution Professional (IRP) is appointed. The IRP eventually becomes the RP after the first meeting of the Committee of Creditors. The CoC consists of all financial creditors. They have the power to approve or reject any resolution plan.
                             </p>
@@ -267,12 +267,12 @@ const CompanyLoanMattersPage = () => {
                         </section>
 
                         <section id="nclt-defense" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#1A1A1A] mb-8">NCLT Litigation: Proactive Defense Strategies</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#1A1A1A] mb-8">NCLT Litigation: Proactive Defense Strategies</h3>
                             <p className="mb-6">
                                 Defending a company in the National Company Law Tribunal (NCLT) requires a multi-layered approach. The focus is often on challenging the 'Admissibility' of the petition. Once a petition is admitted, the damage to the company's reputation and operational control is often irreversible. The NCLT is not a recovery court; it is a court of equity designed to preserve the 'Going Concern' value of the corporate debtor.
                             </p>
                             <div className="bg-gray-50 p-8 rounded-2xl border border-gray-100 my-8">
-                                <h3 className="text-xl font-bold mb-4 text-[#1F5EFF]">Core Defense Pillars in NCLT</h3>
+                                <h4 className="text-xl font-bold mb-4 text-[#1F5EFF]">Core Defense Pillars in NCLT</h4>
                                 <ul className="space-y-4">
                                     <li className="flex items-start gap-3">
                                         <FontAwesomeIcon icon={faCircleCheck} className="text-[#1F5EFF] mt-1.5 shrink-0" />
@@ -292,7 +292,7 @@ const CompanyLoanMattersPage = () => {
                                 Furthermore, we leverage the concept of 'Dispute' for operational creditors. If a supplier sent faulty goods or delayed delivery, and this was documented, their insolvency petition becomes effectively dead in the NCLT. We help companies organize their documentation to create an iron-clad defense against such tactical petitions. A 'Pre-existing Dispute' is the single most effective shield for any company facing a Section 9 petition.
                             </p>
 
-                            <h3 className="text-2xl font-black mb-6 mt-12">Challenging the 'Date of Default'</h3>
+                            <h4 className="text-2xl font-black mb-6 mt-12">Challenging the 'Date of Default'</h4>
                             <p className="mb-6">
                                 The 'Date of Default' is the most critical fact in any IBC litigation. It determines the limitation period and also the applicability of Section 10A (the COVID-19 relief period). If we can prove that the default occurred during the 10A period (March 25, 2020, to March 24, 2021), no petition can EVER be filed for that specific default. Banks often try to shift the date of default to bypass this restriction, and we use financial trail analysis to debunk these attempts.
                             </p>
@@ -302,19 +302,19 @@ const CompanyLoanMattersPage = () => {
                         </section>
 
                         <section id="personal-guarantors" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#1A1A1A] mb-8">Personal Guarantors: The New Frontier of Risk</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#1A1A1A] mb-8">Personal Guarantors: The New Frontier of Risk</h3>
                             <p className="mb-6">
                                 Perhaps the most dangerous development in Indian corporate law is the notification of provisions relating to insolvency of Personal Guarantors to Corporate Debtors. Banks can now pursue the personal wealth (homes, cars, jewelry, and investments) of directors and promoters simultaneously with the company's insolvency. This dual-track recovery process is designed to exert maximum pressure on the management to settle.
                             </p>
                             <div className="flex flex-col md:flex-row gap-6 my-10">
                                 <div className="flex-1 bg-white p-6 rounded-xl border border-[#DEDEDE] relative">
                                     <FontAwesomeIcon icon={faShieldHalved} className="absolute top-6 right-6 opacity-20 text-4xl text-[#1F5EFF]" />
-                                    <h3 className="font-bold mb-4">The 'Interim Moratorium' Trap</h3>
+                                    <h4 className="font-bold mb-4">The 'Interim Moratorium' Trap</h4>
                                     <p className="text-sm opacity-80">The moment a petition against a personal guarantor is filed under Section 95, an interim moratorium kicks in. While this stops fresh suits against the guarantor, it also freezes the guarantor's ability to transfer or deal with their own assets. Professional legal timing is the only way to navigate this. We help guarantors protect their necessary wealth before the freeze becomes absolute.</p>
                                 </div>
                                 <div className="flex-1 bg-white p-6 rounded-xl border border-[#DEDEDE] relative">
                                     <FontAwesomeIcon icon={faGavel} className="absolute top-6 right-6 opacity-20 text-4xl text-[#1F5EFF]" />
-                                    <h4 className="font-bold mb-4">Defenses for Guarantors</h4>
+                                    <h5 className="font-bold mb-4">Defenses for Guarantors</h5>
                                     <p className="text-sm opacity-80">A guarantee is a contract. If the bank altered the main loan terms without the guarantor's consent, or if the guarantee was forced or signed under duress, it can be challenged under the Indian Contract Act. We look for 'Material Variation' in loan terms to nullify the guarantee. We also challenge the invocation process if the bank did not follow the steps mentioned in the Guarantee Deed.</p>
                                 </div>
                             </div>
@@ -327,7 +327,7 @@ const CompanyLoanMattersPage = () => {
                         </section>
 
                         <section id="debt-restructuring" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#1A1A1A] mb-8">Corporate Debt Restructuring: The Art of the Deal</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#1A1A1A] mb-8">Corporate Debt Restructuring: The Art of the Deal</h3>
                             <p className="mb-6">
                                 Litigation is the last resort. The most successful outcomes for company loan matters often involve complex multi-party negotiations. Banks generally prefer a steady albeit reduced cash flow over a lengthy and uncertain liquidation process. Restructuring is about finding the 'Sweet Spot' where the bank is happy with the recovery and the company is happy with the liquidity.
                             </p>
@@ -335,21 +335,21 @@ const CompanyLoanMattersPage = () => {
                                 <div className="flex gap-4 p-5 bg-gray-50 rounded-xl border border-gray-100">
                                     <div className="w-10 h-10 bg-[#1F5EFF] text-white rounded-full flex items-center justify-center shrink-0 font-bold">1</div>
                                     <div>
-                                        <h3 className="font-bold mb-1">Prudential Framework Negotiation</h3>
+                                        <h4 className="font-bold mb-1">Prudential Framework Negotiation</h4>
                                         <p className="text-sm opacity-70 leading-relaxed">Assisting companies in reaching a 'Resolution Plan' with lenders under the RBI's June 2019 framework. This avoids the court altogether. The framework allows for the creation of an Inter-Creditor Agreement (ICA) which binds all lenders to a single resolution strategy if 75% by value agree.</p>
                                     </div>
                                 </div>
                                 <div className="flex gap-4 p-5 bg-gray-50 rounded-xl border border-gray-100">
                                     <div className="w-10 h-10 bg-[#1F5EFF] text-white rounded-full flex items-center justify-center shrink-0 font-bold">2</div>
                                     <div>
-                                        <h4 className="font-bold mb-1">Consortium Alignment</h4>
+                                        <h5 className="font-bold mb-1">Consortium Alignment</h5>
                                         <p className="text-sm opacity-70 leading-relaxed">In large corporate loans, multiple banks are involved. We help 'align' the lead bank and other lenders to prevent a single dissenting bank from pulling the plug on a viable business. We use the updated 'Lead Bank' protocols to ensure consensus is reached quickly.</p>
                                     </div>
                                 </div>
                                 <div className="flex gap-4 p-5 bg-gray-50 rounded-xl border border-gray-100">
                                     <div className="w-10 h-10 bg-[#1F5EFF] text-white rounded-full flex items-center justify-center shrink-0 font-bold">3</div>
                                     <div>
-                                        <h5 className="font-bold mb-1">Sustainability Analysis</h5>
+                                        <h6 className="font-bold mb-1">Sustainability Analysis</h6>
                                         <p className="text-sm opacity-70 leading-relaxed">Presenting a clear financial roadmap that shows how the company will service the reduced debt. We speak the language of bankers and auditors to make your case compelling. We work with TEV (Techno-Economic Viability) consultants to prove that your company is a viable candidate for a turnaround.</p>
                                     </div>
                                 </div>
@@ -359,7 +359,7 @@ const CompanyLoanMattersPage = () => {
                             </p>
 
                             <div className="bg-white p-8 rounded-2xl border border-gray-100 shadow-sm my-10">
-                                <h4 className="text-xl font-black mb-6">Strategic Asset Monetization</h4>
+                                <h5 className="text-xl font-black mb-6">Strategic Asset Monetization</h5>
                                 <p className="mb-4">
                                     Sometimes, the only way to save the core business is to 'Cut the Tail'. We help companies identify non-core assets (land, unused machinery, or subsidiaries) that can be sold to pay down the debt of the main operating unit. This is done through 'Slump Sales' or 'Asset Sale Agreements' which are structured to be tax-neutral and NCLT-compliant.
                                 </p>
@@ -370,12 +370,12 @@ const CompanyLoanMattersPage = () => {
                         </section>
 
                         <section id="ots-companies" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#1A1A1A] mb-8">One-Time Settlement (OTS) for Large Corporations</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#1A1A1A] mb-8">One-Time Settlement (OTS) for Large Corporations</h3>
                             <p className="mb-6">
                                 For many companies, the fastest way to get a clean slate is an OTS. However, for a corporation, an OTS is a complex transaction involving board resolutions, shareholder disclosures, and potential tax implications. It is not just about paying the bank; it is about 'Regularizing' the balance sheet for future growth.
                             </p>
                             <div className="bg-[#1F5EFF]/5 border border-[#1F5EFF]/20 p-8 rounded-3xl mb-10">
-                                <h3 className="text-xl font-bold mb-4">Strategic OTS Implementation</h3>
+                                <h4 className="text-xl font-bold mb-4">Strategic OTS Implementation</h4>
                                 <p className="mb-4">We help companies source 'Settlement Funding' through Asset Reconstruction Companies (ARCs) or private equity players. When a company doesn't have the cash to pay the OTS, we find partners who can fund the exit in exchange for a stake or a structured buy-out. This is high-level corporate lawyering that goes beyond just filing papers in court. We ensure that the OTS is 'Non-Discretionary' and follows the bank's published policy to prevent any future vigilantism or audits.</p>
                                 <p className="font-bold text-[#1F5EFF]">A well-structured corporate OTS can save up to 60% of the principal and 100% of the interest and penalties. It is the ultimate legal 'Hard Reset' for any business entity.</p>
                             </div>
@@ -384,7 +384,7 @@ const CompanyLoanMattersPage = () => {
                             </p>
 
                             <div className="bg-gray-100 p-8 rounded-2xl border border-gray-200 mb-12">
-                                <h3 className="text-2xl font-black mb-6 italic text-[#2E2E2E]">The Role of ARCs in Corporate Recovery</h3>
+                                <h4 className="text-2xl font-black mb-6 italic text-[#2E2E2E]">The Role of ARCs in Corporate Recovery</h4>
                                 <p className="mb-4">
                                     Asset Reconstruction Companies (ARCs) like Edelweiss, ARCIL, and IARC often buy the stressed debt from banks. ARCs are typically more flexible than banks because they specialize in 'Distressed Asset Management'.
                                 </p>
@@ -395,7 +395,7 @@ const CompanyLoanMattersPage = () => {
                         </section>
 
                         <section id="why-hire-corporate-lawyer" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#1A1A1A] mb-8">Why You Need a Specialist Corporate Loan Lawyer</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#1A1A1A] mb-8">Why You Need a Specialist Corporate Loan Lawyer</h3>
                             <p className="mb-6 text-lg">General corporate law is about contracts and compliance. Corporate loan defense is about litigation, financial forensics, and aggressive negotiation. You need a team that spends every day in the NCLT halls.</p>
                             <div className="grid grid-cols-1 sm:grid-cols-2 gap-4">
                                 <div className="p-6 bg-gray-50 rounded-2xl border border-gray-100 flex items-start gap-4">
@@ -418,7 +418,7 @@ const CompanyLoanMattersPage = () => {
                         </section>
 
                         <section id="success-stories" className="scroll-mt-32 mb-20">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#1A1A1A] mb-12 text-center underline decoration-[#1F5EFF] underline-offset-8">Corporate Freedom Chronicles</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#1A1A1A] mb-12 text-center underline decoration-[#1F5EFF] underline-offset-8">Corporate Freedom Chronicles</h3>
                             <div className="grid grid-cols-1 md:grid-cols-2 gap-8">
                                 {reviews.map((review, i) => (
                                     <div key={i} className="bg-white p-6 rounded-2xl border border-[#DEDEDE] shadow-sm hover:shadow-md transition-all">
@@ -427,7 +427,7 @@ const CompanyLoanMattersPage = () => {
                                                 {review.name.charAt(0)}
                                             </div>
                                             <div>
-                                                <h3 className="font-bold text-[#2E2E2E]">{review.name}</h3>
+                                                <h4 className="font-bold text-[#2E2E2E]">{review.name}</h4>
                                                 <p className="text-xs text-gray-400">{review.loc}</p>
                                             </div>
                                             <div className="ml-auto text-yellow-400 text-sm">★★★★★</div>
@@ -442,7 +442,7 @@ const CompanyLoanMattersPage = () => {
                         </section>
 
                         <section id="faqs" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#1A1A1A] mb-8">Corporate Loan Hardship FAQ</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#1A1A1A] mb-8">Corporate Loan Hardship FAQ</h3>
                             <div className="space-y-4">
                                 {faqs.map((faq, i) => (
                                     <details key={i} className="group bg-white border border-[#DEDEDE] rounded-xl overflow-hidden hover:shadow-md transition-all border-b-4 border-b-[#1F5EFF]/20">
@@ -466,7 +466,7 @@ const CompanyLoanMattersPage = () => {
                         <div className="lg:hidden mt-16 mb-8">
                             <div className="bg-[#2E2E2E] rounded-2xl shadow-xl overflow-hidden border border-[#1F5EFF]/20">
                                 <div className="bg-[#1F5EFF] p-6 text-center text-white">
-                                    <h3 className="text-2xl font-black mb-2">Ready to Start Over?</h3>
+                                    <h4 className="text-2xl font-black mb-2">Ready to Start Over?</h4>
                                     <p className="opacity-90 text-sm">Join the 10,000+ Indians we've helped find their way to financial freedom.</p>
                                 </div>
                                 <div className="p-8 text-center text-[#DEDEDE]">

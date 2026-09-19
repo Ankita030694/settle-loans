@@ -395,9 +395,9 @@ export default function TenLakhPersonalLoanSettlementClient() {
                 </span>
                 <span className="text-xs font-black tracking-widest text-[#1F5EFF] uppercase">Section 02</span>
               </div>
-              <h2 className="text-2xl sm:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h3 className="text-2xl sm:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 2. Delinquency Aging, NPA Provisioning & NPV Mechanics
-              </h2>
+              </h3>
               <div className="space-y-4 text-slate-700 leading-relaxed text-base">
                 <p>
                   To secure an optimal settlement haircut of 40% to 50% on a ₹10 Lakh personal loan, one must analyze the institutional accounting incentives governing commercial lenders. In compliance with the Reserve Bank of India&apos;s Prudential Framework on Resolution of Stressed Assets, every overdue loan transitions through strictly regulated classification stages based on Days Past Due (DPD). The account is categorized as Special Mention Account-0 (SMA-0) for 1 to 30 days overdue, SMA-1 for 31 to 60 days, and SMA-2 for 61 to 90 days.
@@ -465,9 +465,9 @@ export default function TenLakhPersonalLoanSettlementClient() {
                 </span>
                 <span className="text-xs font-black tracking-widest text-[#1F5EFF] uppercase">Section 03</span>
               </div>
-              <h2 className="text-2xl sm:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h3 className="text-2xl sm:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 3. Legal Notice Escalation: Section 25 PSSA &amp; Section 138
-              </h2>
+              </h3>
               <div className="space-y-4 text-slate-700 leading-relaxed text-base">
                 <p>
                   At a ₹10 Lakh outstanding principal, lending institutions routinely issue statutory legal notices following automated banking mandate failures. When the electronic National Automated Clearing House (e-NACH) or standing instruction bounces due to insufficient funds, the lender dispatches a legal notice under <strong>Section 25 of the Payment and Settlement Systems Act, 2007 (PSSA)</strong>. Similarly, if physical post-dated security cheques deposited by the borrower dishonor, the bank issues a demand notice under <strong>Section 138 of the Negotiable Instruments Act, 1881 (NI Act)</strong>.
@@ -500,9 +500,9 @@ export default function TenLakhPersonalLoanSettlementClient() {
                 </span>
                 <span className="text-xs font-black tracking-widest text-[#1F5EFF] uppercase">Section 04</span>
               </div>
-              <h2 className="text-2xl sm:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h3 className="text-2xl sm:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 4. Sole Arbitration Notices &amp; Civil Money Suit Realities
-              </h2>
+              </h3>
               <div className="space-y-4 text-slate-700 leading-relaxed text-base">
                 <p>
                   In addition to banking mandate notices, private banks and NBFCs frequently initiate unilateral arbitration proceedings for ₹10 Lakh loan defaults by invoking boiler-plate dispute resolution clauses embedded in standard loan agreements. Borrowers often receive letters from institutional arbitration councils or sole arbitrators located in metropolitan hubs like Mumbai, Delhi, or Chennai, demanding appearance or threatening an ex-parte arbitral award.
@@ -529,9 +529,9 @@ export default function TenLakhPersonalLoanSettlementClient() {
                       <span className="text-[10px] font-black uppercase tracking-widest text-blue-300 block">
                         Legal Defense &amp; Action Blueprint
                       </span>
-                      <h3 className="text-sm md:text-base font-black text-white leading-tight">
+                      <h4 className="text-sm md:text-base font-black text-white leading-tight">
                         ₹10 Lakh Personal Loan Settlement &amp; Defense Process Overview
-                      </h3>
+                      </h4>
                     </div>
                   </div>
                   <a
@@ -580,9 +580,9 @@ export default function TenLakhPersonalLoanSettlementClient() {
                 </span>
                 <span className="text-xs font-black tracking-widest text-[#1F5EFF] uppercase">Section 06</span>
               </div>
-              <h2 className="text-2xl sm:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h3 className="text-2xl sm:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 6. Realistic OTS Haircut Formula: Settling ₹10 Lakhs for ₹4L–₹5.5L
-              </h2>
+              </h3>
               <div className="space-y-4 text-slate-700 leading-relaxed text-base">
                 <p>
                   When calculating the settlement figure for a defaulted ₹10 Lakh personal loan, borrowers must never accept the inflated total claim presented on bank collection notices. Over 6 to 12 months of default, financial institutions compound exorbitant penal interest (often 24% to 36% annually), bounce charges, and administrative recovery levies, swelling an original ₹10 Lakh principal into an artificial ledger liability of ₹13 Lakhs to ₹15 Lakhs.
@@ -653,9 +653,9 @@ export default function TenLakhPersonalLoanSettlementClient() {
                 </span>
                 <span className="text-xs font-black tracking-widest text-[#1F5EFF] uppercase">Section 07</span>
               </div>
-              <h2 className="text-2xl sm:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h3 className="text-2xl sm:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 7. Recovery Agent Harassment Defense &amp; Workplace Protection
-              </h2>
+              </h3>
               <div className="space-y-4 text-slate-700 leading-relaxed text-base">
                 <p>
                   Because a ₹10 Lakh exposure represents an attractive recovery commission for third-party Debt Recovery Agencies (DRAs), borrowers often face intense collection misconduct. Unethical recovery agents frequently resort to abusive calling at odd hours, sending threatening messages via WhatsApp, contacting distant relatives whose numbers were never provided as references, and staging unauthorized visits to the borrower&apos;s workplace or residential society to cause social embarrassment.
@@ -686,9 +686,9 @@ export default function TenLakhPersonalLoanSettlementClient() {
                 </span>
                 <span className="text-xs font-black tracking-widest text-[#1F5EFF] uppercase">Section 08</span>
               </div>
-              <h2 className="text-2xl sm:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h3 className="text-2xl sm:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 8. Comparative Resolution Avenues: OTS vs Lok Adalat vs Restructuring
-              </h2>
+              </h3>
               <div className="space-y-4 text-slate-700 leading-relaxed text-base">
                 <p>
                   Borrowers facing an unmanageable ₹10 Lakh personal loan have four distinct institutional avenues to consider. Evaluating their legal enforceability, cash requirements, and timeline ensures that you choose the most advantageous path for your financial situation.
@@ -749,9 +749,9 @@ export default function TenLakhPersonalLoanSettlementClient() {
                 </span>
                 <span className="text-xs font-black tracking-widest text-[#1F5EFF] uppercase">Section 09</span>
               </div>
-              <h2 className="text-2xl sm:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h3 className="text-2xl sm:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 9. The 5-Step Strategic Legal Settlement Roadmap
-              </h2>
+              </h3>
               <div className="space-y-4 text-slate-700 leading-relaxed text-base">
                 <p>
                   Executing a legally binding, deep-discount settlement on a ₹10 Lakh personal loan requires disciplined execution through five distinct strategic phases:
@@ -782,9 +782,9 @@ export default function TenLakhPersonalLoanSettlementClient() {
                 </span>
                 <span className="text-xs font-black tracking-widest text-[#1F5EFF] uppercase">Section 10</span>
               </div>
-              <h2 className="text-2xl sm:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h3 className="text-2xl sm:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 10. Credit Bureau Trajectory &amp; Rebuilding a 750+ CIBIL Score
-              </h2>
+              </h3>
               <div className="space-y-4 text-slate-700 leading-relaxed text-base">
                 <p>
                   A critical question for every borrower settling a ₹10 Lakh loan is the long-term impact on creditworthiness. Following full payment of the agreed settlement sum, the lending bank is legally required under the Credit Information Companies (Regulation) Act (CICRA), 2005, to update all four credit bureaus (CIBIL, Experian, Equifax, CRIF High Mark) within 30 to 45 days. The loan status transitions from &apos;Overdue / Default / NPA&apos; to <strong>&apos;Settled&apos;</strong>, and the current balance is reduced to <strong>₹0</strong>.
@@ -820,9 +820,9 @@ export default function TenLakhPersonalLoanSettlementClient() {
                 </span>
                 <span className="text-xs font-black tracking-widest text-[#1F5EFF] uppercase">Section 12</span>
               </div>
-              <h2 className="text-2xl sm:text-3xl font-black text-slate-900 mb-6 leading-tight">
+              <h3 className="text-2xl sm:text-3xl font-black text-slate-900 mb-6 leading-tight">
                 Frequently Asked Questions: ₹10 Lakh Personal Loan Settlement
-              </h2>
+              </h3>
 
               <div className="space-y-3">
                 {faqs.map((faq, index) => (

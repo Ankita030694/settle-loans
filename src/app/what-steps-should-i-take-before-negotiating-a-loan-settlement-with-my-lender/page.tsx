@@ -185,22 +185,22 @@ export default function NegotiationStepsPage() {
                         </section>
 
                         <section id="financial-audit" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">Step 1: The Internal Financial Audit & Forensics</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">Step 1: The Internal Financial Audit & Forensics</h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 Before you speak to the bank, you must speak to your own balance sheet. Banks today use sophisticated data analytics to track your spending. If you are claiming hardship while ordering from premium delivery apps or paying high subscriptions, your negotiation will crumble.
                             </p>
                             <div className="grid md:grid-cols-2 gap-8 mb-10">
                                 <div className="p-8 bg-white border border-[#DEDEDE] rounded-3xl shadow-sm">
-                                    <h3 className="font-black text-[#1F5EFF] mb-4 uppercase tracking-tighter">Liquid Asset Check</h3>
+                                    <h4 className="font-black text-[#1F5EFF] mb-4 uppercase tracking-tighter">Liquid Asset Check</h4>
                                     <p className="text-sm">Identify exactly how much cash you can raise in 48 hours. A One-Time Settlement (OTS) requires immediate liquidity. If you don't have the cash ready, don't start the talk.</p>
                                 </div>
                                 <div className="p-8 bg-white border border-[#DEDEDE] rounded-3xl shadow-sm">
-                                    <h4 className="font-black text-[#1F5EFF] mb-4 uppercase tracking-tighter">Forensic Statement Scrubbing</h4>
+                                    <h5 className="font-black text-[#1F5EFF] mb-4 uppercase tracking-tighter">Forensic Statement Scrubbing</h5>
                                     <p className="text-sm">Banks look for "Non-Essential Leakage" in your 6-month statements. High-value UPI transfers to friends or investment platforms (SIPs) are red flags that prove you have surplus cash you aren't paying back.</p>
                                 </div>
                             </div>
                             <div className="bg-[#1F5EFF]/5 p-8 rounded-3xl border-l-4 border-[#1F5EFF] mb-8">
-                                <h4 className="font-black text-[#2E2E2E] mb-3">The "Liability Map" Strategy</h4>
+                                <h5 className="font-black text-[#2E2E2E] mb-3">The "Liability Map" Strategy</h5>
                                 <p className="text-base leading-relaxed italic text-gray-700">
                                     If you have multiple loans, create a "first-come, first-served" scenario. By presenting your total debt across all banks, you create competitive pressure. The bank that settles first gets the limited lump-sum you've managed to arrange.
                                 </p>
@@ -212,7 +212,7 @@ export default function NegotiationStepsPage() {
 
                         <section id="hardship-proof" className="scroll-mt-32 mb-16 bg-[#2E2E2E] text-white p-12 rounded-[40px] relative overflow-hidden">
                             <div className="absolute top-0 right-0 w-64 h-64 bg-[#1F5EFF]/10 rounded-full -translate-y-32 translate-x-32"></div>
-                            <h2 className="text-3xl md:text-4xl font-black mb-8 leading-tight relative z-10">Step 2: Building the Hardship Dossier</h2>
+                            <h3 className="text-3xl md:text-4xl font-black mb-8 leading-tight relative z-10">Step 2: Building the Hardship Dossier</h3>
                             <p className="text-lg opacity-80 mb-8 relative z-10">
                                 Banks are institutions of logic, not emotion. They don't care if you are "stressed." They care if you are "financially incapable." You must build a dossier that makes a recovery officer's job of justifying a waiver to his board very easy.
                             </p>
@@ -237,12 +237,12 @@ export default function NegotiationStepsPage() {
                         </section>
 
                         <section id="rbi-guidelines" className="scroll-mt-32 mb-16 mt-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight underline decoration-[#1F5EFF] underline-offset-[12px]">Step 3: Weaponizing RBI Guidelines 2024-25</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight underline decoration-[#1F5EFF] underline-offset-[12px]">Step 3: Weaponizing RBI Guidelines 2024-25</h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 The Reserve Bank of India has been very clear in its recent circulars: Lenders must have board-approved policies for One Time Settlements (OTS). You have a right to know the framework. In 2024, the "Prudential Framework for Resolution of Stressed Assets" is your bible.
                             </p>
                             <div className="bg-blue-50 p-8 rounded-3xl border border-blue-100 mb-8">
-                                <h3 className="text-xl font-black text-blue-900 mb-4">The 30-Day Cooling Window</h3>
+                                <h4 className="text-xl font-black text-blue-900 mb-4">The 30-Day Cooling Window</h4>
                                 <p className="text-blue-800 leading-relaxed font-medium">Under latest guidelines, before any SARFAESI action (for secured loans), the bank MUST provide a window for the borrower to represent their case. Use this window to initiate settlement math before they spend money on auctioning your assets.</p>
                             </div>
                             <p className="text-lg leading-relaxed">
@@ -251,33 +251,33 @@ export default function NegotiationStepsPage() {
                         </section>
 
                         <section id="bank-psychology" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">Step 4: Mastery of Negotiator Psychology</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">Step 4: Mastery of Negotiator Psychology</h3>
                             <p className="text-lg leading-relaxed mb-8">
                                 Negotiating with a bank is like playing chess with a computer. The person you talk to (Recovery Manager) doesn't have the power to say 'Yes' to a 70% haircut, but they have the power to 'Recommend' it. Your preparation must aim to make the manager your "Internal Advocate."
                             </p>
                             <div className="grid md:grid-cols-3 gap-6 mb-12">
                                 <div className="p-6 bg-white border-2 border-gray-100 rounded-2xl flex flex-col items-center text-center">
                                     <div className="w-12 h-12 bg-red-50 rounded-full flex items-center justify-center text-red-500 font-bold mb-4">Avoid</div>
-                                    <h3 className="font-black mb-2 uppercase text-xs tracking-widest">Aggression</h3>
+                                    <h4 className="font-black mb-2 uppercase text-xs tracking-widest">Aggression</h4>
                                     <p className="text-xs opacity-70">Threatening the bank or being rude shuts down the negotiation channel instantly.</p>
                                 </div>
                                 <div className="p-6 bg-white border-2 border-gray-100 rounded-2xl flex flex-col items-center text-center">
                                     <div className="w-12 h-12 bg-green-50 rounded-full flex items-center justify-center text-green-500 font-bold mb-4">Adopt</div>
-                                    <h4 className="font-black mb-2 uppercase text-xs tracking-widest">Calculated Pity</h4>
+                                    <h5 className="font-black mb-2 uppercase text-xs tracking-widest">Calculated Pity</h5>
                                     <p className="text-xs opacity-70">Show you want to pay but the 'Circumstances' (not you) are making it impossible.</p>
                                 </div>
                                 <div className="p-6 bg-white border-2 border-gray-100 rounded-2xl flex flex-col items-center text-center">
                                     <div className="w-12 h-12 bg-blue-50 rounded-full flex items-center justify-center text-blue-500 font-bold mb-4">Master</div>
-                                    <h5 className="font-black mb-2 uppercase text-xs tracking-widest">Lump-Sum Lure</h5>
+                                    <h6 className="font-black mb-2 uppercase text-xs tracking-widest">Lump-Sum Lure</h6>
                                     <p className="text-xs opacity-70">Presenting a clear, immediate check for a settled amount is the strongest lure.</p>
                                 </div>
                             </div>
 
                             <div className="p-10 bg-[#2E2E2E] rounded-[40px] text-white shadow-xl relative overflow-hidden">
-                                <h3 className="text-2xl font-black mb-6 flex items-center gap-3">
+                                <h4 className="text-2xl font-black mb-6 flex items-center gap-3">
                                     <span className="w-10 h-10 bg-[#1F5EFF] rounded-full flex items-center justify-center text-sm italic">Tactical</span>
                                     The "Anchoring" Masterclass
-                                </h3>
+                                </h4>
                                 <p className="text-lg leading-relaxed mb-6 opacity-90">
                                     Banks will always start with an "Anchor"—usually 70-80% of the total dues. This is designed to pull your expectations upward. Your psychological tactic is the **Counter-Anchor**.
                                 </p>
@@ -298,13 +298,13 @@ export default function NegotiationStepsPage() {
                         </section>
 
                         <section id="legal-review" className="scroll-mt-32 mb-16 mt-16 text-center">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">Step 5: The Pre-Litigation Legal Audit</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">Step 5: The Pre-Litigation Legal Audit</h3>
                             <p className="text-lg leading-relaxed mb-10 max-w-2xl mx-auto">
                                 Do not enter a negotiation without a 'Legal Shield.' Have a banking lawyer review the bank's notices. If the bank has made procedural errors in their Demand Notices (Section 13(2)), you use that as massive leverage.
                             </p>
                             <div className="bg-[#1F5EFF] p-12 rounded-[50px] shadow-2xl relative overflow-hidden group">
                                 <div className="absolute top-0 left-0 w-full h-full bg-black/5 opacity-0 group-hover:opacity-100 transition-opacity"></div>
-                                <h3 className="text-2xl font-black text-white mb-6 uppercase tracking-widest">The "Nuclear Option" of Negotiation</h3>
+                                <h4 className="text-2xl font-black text-white mb-6 uppercase tracking-widest">The "Nuclear Option" of Negotiation</h4>
                                 <p className="text-white/80 leading-relaxed mb-8 font-bold italic">
                                     "When the bank knows you have legal counsel ready to challenge their possession in DRT, their willingness to settle on your terms increases by 300%."
                                 </p>
@@ -315,7 +315,7 @@ export default function NegotiationStepsPage() {
                         </section>
 
                         <section id="settlement-math" className="scroll-mt-32 mb-16 mt-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">Step 6: Mastering the Negotiation Math</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">Step 6: Mastering the Negotiation Math</h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 You must speak the bank's language: Principal, Unpaid Interest, Penal Interest, and Write-off. Most banks are instructed by their boards to maximize their recovery of the "Principal." The interest and penalties are often used as "Negotiation Fat"—stuff they can cut easily to make a deal.
                             </p>
@@ -331,7 +331,7 @@ export default function NegotiationStepsPage() {
                         </section>
 
                         <section id="agent-interaction" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">Step 7: Managing External Recovery Units</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">Step 7: Managing External Recovery Units</h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 Preparation also involves mental defense. External recovery agents are trained to break your psychological resolve. The 2024 RBI Fair Practice Code prohibits them from contacting you at odd hours or visiting without notice. Document every violation. Every harassment call is a "Credit" in your negotiation account. Record them.
                             </p>
@@ -343,7 +343,7 @@ export default function NegotiationStepsPage() {
                         </section>
 
                         <section id="ots-criteria" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight underline decoration-[#1F5EFF] underline-offset-[10px]">Step 8: Final OTS Eligibility Pre-Check</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight underline decoration-[#1F5EFF] underline-offset-[10px]">Step 8: Final OTS Eligibility Pre-Check</h3>
                             <p className="text-lg leading-relaxed mb-8">
                                 Banks look for the "Willingness vs. Ability" Matrix. If you appear "Willing but Unable," you get an OTS. If you appear "Unwilling but Able," you get a lawsuit (Wilful Default). Your preparation must firmly place you in the former category.
                             </p>
@@ -355,7 +355,7 @@ export default function NegotiationStepsPage() {
                                     { title: "Success Threshold", text: "Know when to walk away. If the bank offers a 10% discount, it's not a settlement; it's just a correction." }
                                 ].map((step, i) => (
                                     <div key={i} className="p-8 bg-white border border-[#DEDEDE] rounded-3xl group hover:border-[#1F5EFF] transition-colors">
-                                        <h3 className="font-black text-[#2E2E2E] mb-3 uppercase text-sm tracking-widest">{step.title}</h3>
+                                        <h4 className="font-black text-[#2E2E2E] mb-3 uppercase text-sm tracking-widest">{step.title}</h4>
                                         <p className="text-xs opacity-70 leading-relaxed">{step.text}</p>
                                     </div>
                                 ))}
@@ -363,7 +363,7 @@ export default function NegotiationStepsPage() {
                         </section>
 
                         <section id="success-stories" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 text-center uppercase tracking-tighter decoration-[#1F5EFF] underline decoration-4">Real Settlement Stories</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 text-center uppercase tracking-tighter decoration-[#1F5EFF] underline decoration-4">Real Settlement Stories</h3>
                             <div className="grid md:grid-cols-2 gap-6 not-prose">
                                 {[
                                     {
@@ -386,7 +386,7 @@ export default function NegotiationStepsPage() {
                                             <div className="w-10 h-10 rounded-full bg-blue-100 flex items-center justify-center font-bold text-blue-600 mr-3">
                                                 {review.name.charAt(0)}
                                             </div>
-                                            <h3 className="font-bold text-[#2E2E2E]">{review.name}</h3>
+                                            <h4 className="font-bold text-[#2E2E2E]">{review.name}</h4>
                                             <div className="ml-auto text-yellow-400 text-sm">★★★★★</div>
                                         </div>
                                         <div className="mb-4 flex gap-4 text-[10px] font-mono">
@@ -400,7 +400,7 @@ export default function NegotiationStepsPage() {
                         </section>
 
                         <section id="faqs" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-12 text-center">Strategic Pre-Negotiation FAQ's</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-12 text-center">Strategic Pre-Negotiation FAQ's</h3>
                             <div className="space-y-6">
                                 {[
                                     { q: "Can I start settlement before my loan becomes an NPA?", a: "Technically yes, but banks rarely offer significant haircuts while the loan is 'Standard.' Peak negotiation power only comes after 90 days of default." },
@@ -420,7 +420,7 @@ export default function NegotiationStepsPage() {
                                     { q: "Can I get a new loan after 7 years of settlement?", a: "Yes. While the 'Settled' tag stays, after 7 years and with a clean record in between, most banks will consider you a 'Rehabilitated Borrower'." }
                                 ].map((faq, i) => (
                                     <div key={i} className="p-8 bg-white border border-[#DEDEDE] rounded-3xl shadow-sm transition-all hover:shadow-lg">
-                                        <h3 className="font-black text-[#2E2E2E] mb-4 text-xl border-b pb-2 border-[#1F5EFF]/10">{faq.q}</h3>
+                                        <h4 className="font-black text-[#2E2E2E] mb-4 text-xl border-b pb-2 border-[#1F5EFF]/10">{faq.q}</h4>
                                         <p className="text-gray-600 leading-relaxed text-lg italic">"{faq.a}"</p>
                                     </div>
                                 ))}
@@ -428,7 +428,7 @@ export default function NegotiationStepsPage() {
                         </section>
 
                         <section className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">Ready to Take the First Step?</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">Ready to Take the First Step?</h3>
                             <p className="text-lg leading-relaxed mb-6 italic font-bold">Preparation without action is just research. Action without preparation is a disaster. Let's combine both for your freedom.</p>
                             <div className="bg-[#1F5EFF] p-10 rounded-[40px] text-center text-white shadow-2xl">
                                 <p className="text-2xl font-black mb-8 tracking-tight">Your prepared dossier is your strongest weapon. Let us help you sharpen it.</p>

@@ -375,9 +375,9 @@ export default function CaseStudyKotakCreditCardSettlementClient() {
 
             {/* Section 2: Compounding Mathematics: APR & GST */}
             <section id="compounding-mathematics-apr-gst" className="mb-10 scroll-mt-24">
-              <h2 className="text-xl md:text-2xl lg:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h3 className="text-xl md:text-2xl lg:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 2. The Mathematics of Ruin: 45% APR, Monthly Capitalization &amp; 18% GST Cascades
-              </h2>
+              </h3>
               <p className="text-slate-700 leading-relaxed mb-4">
                 To understand how an initial principal of ₹1.55 Lakhs mutated into a crushing ₹4.2 Lakh demand, one must analyze the statutory compounding framework governing unsecured retail revolving credit in India. Unlike conventional personal loans where interest diminishes on an amortization schedule, credit cards apply monthly financing charges ranging from 3.50% to 3.75% per month (equivalent to 42% to 45% APR).
               </p>
@@ -450,9 +450,9 @@ export default function CaseStudyKotakCreditCardSettlementClient() {
 
             {/* Section 3: Kotak Retail NPA Mechanics */}
             <section id="banking-accounting-npa-provisioning" className="mb-10 scroll-mt-24">
-              <h2 className="text-xl md:text-2xl lg:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h3 className="text-xl md:text-2xl lg:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 3. Behind Kotak Mahindra Bank&apos;s Retail Book: NPA Provisioning &amp; Balance Sheet Dynamics
-              </h2>
+              </h3>
               <p className="text-slate-700 leading-relaxed mb-4">
                 Achieving a binding compromise settlement requires leveraging the internal regulatory imperatives of the lender. Under the <em>Reserve Bank of India (Prudential Norms on Income Recognition, Asset Classification and Provisioning) Directions</em>, commercial banks cannot treat delinquent credit card accounts as permanent interest-bearing assets.
               </p>
@@ -507,9 +507,9 @@ export default function CaseStudyKotakCreditCardSettlementClient() {
 
             {/* Section 4: Hardship Audit & NPV Formula */}
             <section id="hardship-audit-npv-valuation" className="mb-10 scroll-mt-24">
-              <h2 className="text-xl md:text-2xl lg:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h3 className="text-xl md:text-2xl lg:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 4. The Hardship Resolution Dossier &amp; Kotak Net Present Value (NPV) Valuation Model
-              </h2>
+              </h3>
               <p className="text-slate-700 leading-relaxed mb-4">
                 Commercial banks do not approve substantial debt waivers based on emotional appeals. Under Kotak Mahindra Bank&apos;s Board-approved Compromise Settlement Policy, debt haircuts are sanctioned strictly upon objective proof of involuntary insolvency rather than willful non-compliance.
               </p>
@@ -554,9 +554,9 @@ export default function CaseStudyKotakCreditCardSettlementClient() {
                       <span className="text-[10px] font-black uppercase tracking-widest text-blue-300 block">
                         Legal Defense &amp; Action Blueprint
                       </span>
-                      <h3 className="text-sm md:text-base font-black text-white leading-tight">
+                      <h4 className="text-sm md:text-base font-black text-white leading-tight">
                         Kotak Mahindra Bank Credit Card Settlement: ₹4.2L to ₹1.35L Case Study
-                      </h3>
+                      </h4>
                     </div>
                   </div>
                   <a
@@ -599,9 +599,9 @@ export default function CaseStudyKotakCreditCardSettlementClient() {
 
             {/* Section 6: Anti-Harassment & Legal Shield */}
             <section id="recovery-containment-legal-defense" className="mb-10 scroll-mt-24">
-              <h2 className="text-xl md:text-2xl lg:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h3 className="text-xl md:text-2xl lg:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 6. Cease-and-Desist Defense: Neutralizing Kotak Collection Harassment &amp; Section 25 PSSA Notices
-              </h2>
+              </h3>
               <p className="text-slate-700 leading-relaxed mb-4">
                 Prior to retaining legal representation, Rajesh endured intense psychological pressure from third-party recovery agencies engaged by Kotak Mahindra Bank. Recovery callers subjected him to incessant calls outside statutory hours, contacted his former professional colleagues, and threatened physical home visits. Concurrently, Kotak&apos;s legal panel served a formal demand notice under <strong>Section 25 of the Payment and Settlement Systems Act, 2007 (PSSA)</strong> regarding an automated NACH mandate dishonour, alongside a notice under <strong>Section 138 of the Negotiable Instruments Act, 1881</strong>.
               </p>
@@ -618,9 +618,9 @@ export default function CaseStudyKotakCreditCardSettlementClient() {
 
             {/* Section 7: Negotiating the ₹1.35L Settlement */}
             <section id="sarb-negotiation-haircut-breakdown" className="mb-10 scroll-mt-24">
-              <h2 className="text-xl md:text-2xl lg:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h3 className="text-xl md:text-2xl lg:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 7. The Settlement Table: Negotiating the ₹1.35 Lakhs (68% Haircut) with Kotak SARB
-              </h2>
+              </h3>
               <p className="text-slate-700 leading-relaxed mb-4">
                 Securing a genuine institutional debt settlement requires engaging exclusively with authorized decision-makers. Tele-callers and outsourced collection executives operate on recovery commissions and possess zero authority under Kotak Mahindra Bank&apos;s <em>Delegation of Financial Powers (DoFP)</em> framework to waive core principal or compound finance charges.
               </p>
@@ -680,9 +680,9 @@ export default function CaseStudyKotakCreditCardSettlementClient() {
 
             {/* Section 8: Sanction Letter Audit Protocols */}
             <section id="sanction-letter-forensics-payment" className="mb-10 scroll-mt-24">
-              <h2 className="text-xl md:text-2xl lg:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h3 className="text-xl md:text-2xl lg:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 8. Kotak Sanction Letter Forensics: 5 Mandatory Verification Checkpoints
-              </h2>
+              </h3>
               <p className="text-slate-700 leading-relaxed mb-4">
                 Prior to disbursing any funds, SettleLoans conducted a stringent verification of the compromise sanction document issued by Kotak Mahindra Bank. Transferring funds based on unofficial emails or verbal assurances from collection agencies represents the leading cause of failed debt settlements in India.
               </p>
@@ -699,9 +699,9 @@ export default function CaseStudyKotakCreditCardSettlementClient() {
 
             {/* Section 9: Bank Letterhead NDC & CIBIL */}
             <section id="no-dues-certificate-cibil-trajectory" className="mb-10 scroll-mt-24">
-              <h2 className="text-xl md:text-2xl lg:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h3 className="text-xl md:text-2xl lg:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 9. The Official Kotak Bank Letterhead No Dues Certificate &amp; 24-Month CIBIL Reconstruction
-              </h2>
+              </h3>
               <p className="text-slate-700 leading-relaxed mb-4">
                 Under <strong>RBI Circular RBI/2023-24/60</strong> (<em>Release of Movable/Immovable Property Documents and Issue of No Dues Certificate on Repayment/Settlement of Personal Loans</em>), commercial banks are legally obligated to issue a formal No Dues Certificate (NDC) on bank letterhead and update credit bureau records within 30 calendar days of settlement receipt.
               </p>
@@ -721,9 +721,9 @@ export default function CaseStudyKotakCreditCardSettlementClient() {
 
             {/* Section 10: Comparative Resolution Matrix */}
             <section id="ots-vs-restructuring-matrix" className="mb-10 scroll-mt-24">
-              <h2 className="text-xl md:text-2xl lg:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h3 className="text-xl md:text-2xl lg:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 10. Comparative Resolution Matrix: Direct OTS vs. Restructuring vs. MAD Servicing
-              </h2>
+              </h3>
               <p className="text-slate-700 leading-relaxed mb-4">
                 When confronting credit card debt distress, borrowers must evaluate the mathematical and legal outcomes of all available resolution pathways in India:
               </p>
@@ -790,9 +790,9 @@ export default function CaseStudyKotakCreditCardSettlementClient() {
                   <HelpCircle className="w-3.5 h-3.5" />
                   <span>Frequently Asked Questions</span>
                 </div>
-                <h2 className="text-2xl sm:text-3xl font-black text-slate-900 leading-tight">
+                <h3 className="text-2xl sm:text-3xl font-black text-slate-900 leading-tight">
                   Everything You Need to Know About Kotak Card Settlements
-                </h2>
+                </h3>
                 <p className="text-sm text-slate-600 mt-2">
                   Clear, authoritative legal answers regarding Kotak Mahindra Bank credit card settlements, compound interest waivers, recovery defense, and credit rehabilitation.
                 </p>
@@ -813,10 +813,10 @@ export default function CaseStudyKotakCreditCardSettlementClient() {
 
             {/* Regulatory & Institutional Sources Strip (5 Official Links) */}
             <div className="bg-slate-50 border border-slate-200 rounded-2xl p-6 my-10 text-xs text-slate-700">
-              <h3 className="text-sm font-bold text-slate-900 mb-3 flex items-center gap-2">
+              <h4 className="text-sm font-bold text-slate-900 mb-3 flex items-center gap-2">
                 <Landmark className="w-4 h-4 text-[#1F5EFF]" />
                 Official Statutory Authorities &amp; Regulatory Frameworks
-              </h3>
+              </h4>
               <ul className="space-y-2.5">
                 <li className="flex items-start gap-2">
                   <ExternalLink className="w-4 h-4 text-[#1F5EFF] flex-shrink-0 mt-0.5" />
@@ -878,10 +878,10 @@ export default function CaseStudyKotakCreditCardSettlementClient() {
 
             {/* Related Guides & Resources Strip (10 Topic Badges) */}
             <div className="bg-slate-50 border border-slate-200 rounded-2xl p-6 my-10">
-              <h3 className="text-base font-bold text-slate-900 mb-4 flex items-center gap-2">
+              <h4 className="text-base font-bold text-slate-900 mb-4 flex items-center gap-2">
                 <BookOpen className="w-5 h-5 text-[#1F5EFF]" />
                 Explore Related Credit Card &amp; Debt Resolution Guides
-              </h3>
+              </h4>
               <div className="flex flex-wrap gap-2.5">
                 <Link
                   href="/how-to-settle-credit-card-debt"

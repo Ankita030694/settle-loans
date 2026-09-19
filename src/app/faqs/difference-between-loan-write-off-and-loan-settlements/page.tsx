@@ -153,10 +153,10 @@ export default function LoanWriteOffVsSettlementPage() {
                                 Understanding the difference between these two is not just academic; it is essential for anyone looking to repair their credit history. A single misunderstanding of these terms can lead to years of legal notices, recovery calls, and a permanently damaged CIBIL score. This guide will provide a technical, legal, and operational deep-dive into these mechanisms.
                             </p>
                             <div className="bg-orange-50 p-8 rounded-2xl border-l-4 border-orange-500 mb-8">
-                                <h3 className="text-lg font-bold text-orange-900 mb-4 flex items-center gap-2">
+                                <h4 className="text-lg font-bold text-orange-900 mb-4 flex items-center gap-2">
                                     <FontAwesomeIcon icon={faCircleExclamation} className="text-orange-500" />
                                     The "Written-Off" Trap
-                                </h3>
+                                </h4>
                                 <p className="text-orange-800">
                                     Many borrowers wake up to find their loan status changed to "Written-Off" in their credit reports and assume the bank has "given up" on the money. This is arguably the most dangerous assumption in personal finance. A write-off is a transfer of debt from the active balance sheet to the recovery department; it is not a waiver of your liability.
                                 </p>
@@ -164,14 +164,14 @@ export default function LoanWriteOffVsSettlementPage() {
                         </section>
 
                         <section id="write-off-defined" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                                 Technical Definition: What is a Loan Write-Off?
-                            </h2>
+                            </h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 A loan write-off is an internal accounting entry made by a bank or NBFC when they deem a loan to be unrecoverable in its current form. This usually happens after the loan has been categorized as a **Non-Performing Asset (NPA)** for several quarters (typically after the bank has provisioned 100% against the loan).
                             </p>
                             <div className="bg-gray-50 p-8 rounded-2xl mb-8">
-                                <h3 className="font-semibold text-[#1F5EFF] mb-4 uppercase tracking-wider">The Bank's Rationale for Write-Off:</h3>
+                                <h4 className="font-semibold text-[#1F5EFF] mb-4 uppercase tracking-wider">The Bank's Rationale for Write-Off:</h4>
                                 <ul className="space-y-4">
                                     <li className="flex items-start gap-3">
                                         <FontAwesomeIcon icon={faChartPie} className="text-blue-500 mt-1.5" />
@@ -193,9 +193,9 @@ export default function LoanWriteOffVsSettlementPage() {
                         </section>
 
                         <section id="settlement-defined" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                                 Technical Definition: What is a Loan Settlement?
-                            </h2>
+                            </h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 A loan settlement, popularly known as a **One-Time Settlement (OTS)** or a **Compromise Settlement**, is a mutual agreement where the lender accepts a lump-sum amount (which is less than the total outstanding) as "Full and Final" payment. Once the settlement amount is paid, the bank legally waives the remaining debt.
                             </p>
@@ -203,10 +203,10 @@ export default function LoanWriteOffVsSettlementPage() {
                                 Unlike a write-off, which is a unilateral bank action, a settlement is a bilateral contract. It requires an offer, a counter-offer, and a "Sanction Letter" issued by the bank. Once completed, the account is closed, and the borrower is issued a **No Dues Certificate (NDC)**.
                             </p>
                             <div className="bg-green-50 p-8 rounded-2xl border-l-4 border-green-500 mb-8">
-                                <h3 className="text-lg font-bold text-green-900 mb-4 flex items-center gap-2">
+                                <h4 className="text-lg font-bold text-green-900 mb-4 flex items-center gap-2">
                                     <FontAwesomeIcon icon={faCheck} className="text-green-500" />
                                     The Legal Immunity of Settlement
-                                </h3>
+                                </h4>
                                 <p className="text-green-800">
                                     The primary benefit of a settlement is legal immunity. Once you have a valid No Dues Certificate, the bank cannot take any future legal action against you for that specific loan account. The recovery calls stop, and any active court cases are withdrawn.
                                 </p>
@@ -214,14 +214,14 @@ export default function LoanWriteOffVsSettlementPage() {
                         </section>
 
                         <section id="accounting-mechanics" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                                 Bank Accounting Mechanics: Behind the Vault Doors
-                            </h2>
+                            </h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 To understand why banks favor one over the other, we must look at the "Provisioning" rules set by the RBI. A bank's profit is calculated after setting aside money for potential bad loans. This is called **Provisioning**.
                             </p>
                             <div className="bg-gray-900 text-[#DEDEDE] p-8 rounded-3xl mb-8">
-                                <h3 className="text-xl font-bold mb-6 border-b border-white/10 pb-4">The NPA Lifecycle (Provisioning Scale):</h3>
+                                <h4 className="text-xl font-bold mb-6 border-b border-white/10 pb-4">The NPA Lifecycle (Provisioning Scale):</h4>
                                 <div className="space-y-6">
                                     <div className="flex gap-4">
                                         <div className="w-12 h-12 rounded-full bg-[#1F5EFF]/20 flex-shrink-0 flex items-center justify-center font-black">0-30</div>
@@ -256,25 +256,25 @@ export default function LoanWriteOffVsSettlementPage() {
                         </section>
 
                         <section id="cibil-reporting" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                                 CIBIL Reporting: Decoding the DNA of Your Report
-                            </h2>
+                            </h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 The most visible impact of these mechanisms is on your credit report (CIBIL, Experian, Equifax). Each status triggers a different reaction from future lenders.
                             </p>
                             <div className="space-y-8">
                                 <div className="p-8 border border-gray-100 rounded-3xl bg-white shadow-lg">
-                                    <h3 className="text-xl font-bold mb-4 text-[#1F5EFF]">Status Code: SETTLED</h3>
+                                    <h4 className="text-xl font-bold mb-4 text-[#1F5EFF]">Status Code: SETTLED</h4>
                                     <p className="text-sm leading-relaxed mb-4">Means you paid a part of the dues and the balance was waived. This results in a 100-150 point drop in your score. Future lenders see that you didn't fulfill the full contract, making you a "Medium-High Risk" borrower.</p>
                                     <p className="text-xs font-mono bg-gray-50 p-2 rounded inline-block">Recovery Status: Closed | Liability: Nil</p>
                                 </div>
                                 <div className="p-8 border border-gray-100 rounded-3xl bg-white shadow-lg">
-                                    <h4 className="text-xl font-bold mb-4 text-red-600">Status Code: WRITTEN-OFF</h4>
+                                    <h5 className="text-xl font-bold mb-4 text-red-600">Status Code: WRITTEN-OFF</h5>
                                     <p className="text-sm leading-relaxed mb-4">Means the bank has given up on getting the money normally. This is a "Black Mark" on the report. Almost all banks will reject any new application instantly. It signals a complete failure of the credit relationship.</p>
                                     <p className="text-xs font-mono bg-red-50 p-2 rounded inline-block text-red-600">Recovery Status: Active | Liability: 100%</p>
                                 </div>
                                 <div className="p-8 border border-gray-100 rounded-3xl bg-white shadow-lg">
-                                    <h4 className="text-xl font-bold mb-4 text-purple-600">Status Code: SUIT FILED (WRITTEN-OFF)</h4>
+                                    <h5 className="text-xl font-bold mb-4 text-purple-600">Status Code: SUIT FILED (WRITTEN-OFF)</h5>
                                     <p className="text-sm leading-relaxed mb-4">The worst possible status. It means the bank has written off the debt AND initiated a legal suit for recovery. This status is a permanent barrier to most formal finance in India.</p>
                                     <p className="text-xs font-mono bg-purple-50 p-2 rounded inline-block text-purple-600">Recovery Status: Legal Battle | Liability: 100% + Legal Costs</p>
                                 </div>
@@ -282,9 +282,9 @@ export default function LoanWriteOffVsSettlementPage() {
                         </section>
 
                         <section id="rbi-circular-2023" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                                 The June 2023 RBI Framework: A Level Playing Field
-                            </h2>
+                            </h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 On June 8, 2023, the RBI issued a landmark circular titled "Framework for Compromise Settlements and Technical Write-offs". This circular was a game-changer for borrowers.
                             </p>
@@ -305,9 +305,9 @@ export default function LoanWriteOffVsSettlementPage() {
                         </section>
 
                         <section id="tax-implications" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                                 The Hidden Cost: Tax Implications of Debt Waivers
-                            </h2>
+                            </h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 In the eyes of the Income Tax Act, a debt that is waived (either via settlement or write-off) may sometimes be treated as "Income from Other Sources". Specifically, under **Section 41(1)** of the Income Tax Act, the "Cessation of Liability" represents a financial benefit to the individual.
                             </p>
@@ -317,9 +317,9 @@ export default function LoanWriteOffVsSettlementPage() {
                         </section>
 
                         <section id="arc-angle" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                                 The ARC Factor: When Banks Sell Your Written-off Debt
-                            </h2>
+                            </h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 When a bank writes off a loan and cannot recover it for a long time, they often sell the debt to an **Asset Reconstruction Company (ARC)** like ARCIL, Phoenix, or Invent. This is done at a massive discount (sometimes 10-20% of the original value).
                             </p>
@@ -329,17 +329,17 @@ export default function LoanWriteOffVsSettlementPage() {
                         </section>
 
                         <section id="sarfaesi-manual" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                                 Secured Debt: Write-offs and the SARFAESI Act
-                            </h2>
+                            </h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 For home loans or car loans (Secured Debt), a write-off is rarer but not impossible. In these cases, the bank usually invokes the **SARFAESI Act (Securitisation and Reconstruction of Financial Assets and Enforcement of Security Interest Act, 2002)**.
                             </p>
                             <div className="bg-red-50 p-8 rounded-2xl border-2 border-red-100 mb-8">
-                                <h3 className="text-red-900 font-bold mb-4 flex items-center gap-2">
+                                <h4 className="text-red-900 font-bold mb-4 flex items-center gap-2">
                                     <FontAwesomeIcon icon={faTriangleExclamation} />
                                     The SARFAESI Timeline:
-                                </h3>
+                                </h4>
                                 <ul className="space-y-3 text-red-800 text-sm">
                                     <li>**Notice 13(2):** Gives the borrower 60 days to clear the dues.</li>
                                     <li>**Notice 13(4):** Gives the bank the right to take physical possession of the asset.</li>
@@ -350,9 +350,9 @@ export default function LoanWriteOffVsSettlementPage() {
                         </section>
 
                         <section id="settlement-after-write-off" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                                 The 'Gold Mine' of Negotiation: Settling a Written-off Account
-                            </h2>
+                            </h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 Statistically, the best time to get a massive waiver (sometimes up to 80 or 90% of the total outstanding) is *after* the bank has written off the account. At this stage, the bank's internal valuation of your debt is essentially Zero. Any recovery they get from you now is pure profit in their current financial year.
                             </p>
@@ -362,14 +362,14 @@ export default function LoanWriteOffVsSettlementPage() {
                         </section>
 
                         <section id="rebuilding-credit" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                                 Life After the Black Mark: Rebuilding Post-Write-off
-                            </h2>
+                            </h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 If your report shows "Written-off", you are in the "Negative Profile" list of almost all banks. However, this is not a life sentence. The path to recovery involves a process we call **"Credit Rehabilitation"**.
                             </p>
                             <div className="bg-gray-50 p-8 rounded-2xl mb-8">
-                                <h3 className="font-bold mb-4 uppercase tracking-wider text-[#1F5EFF]">The 3-Year Rehabilitation Roadmap:</h3>
+                                <h4 className="font-bold mb-4 uppercase tracking-wider text-[#1F5EFF]">The 3-Year Rehabilitation Roadmap:</h4>
                                 <div className="space-y-6">
                                     <div className="flex gap-4">
                                         <div className="w-8 h-8 rounded-full bg-[#1F5EFF] text-white flex-shrink-0 flex items-center justify-center font-bold">1</div>
@@ -397,9 +397,9 @@ export default function LoanWriteOffVsSettlementPage() {
                         </section>
 
                         <section id="forensic-audit" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                                 Forensic Audit: Identifying Predatory Interest in Written-off Accounts
-                            </h2>
+                            </h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 When a loan is written off, the bank's internal calculation of the 'Outstanding Balance' often includes compounded penal interest and hidden service charges. These charges can sometimes inflate the original debt by 50-100%.
                             </p>
@@ -409,9 +409,9 @@ export default function LoanWriteOffVsSettlementPage() {
                         </section>
 
                         <section id="statute-limitations" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                                 The Statute of Limitations: Does Your Debt Have an Expiry Date?
-                            </h2>
+                            </h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 According to the **Limitation Act, 1963**, a bank has a window of **3 years** to file a legal suit for recovery of an unsecured debt. This clock starts from the date of the last payment or the last date you "Acknowledged" the debt in writing (including emails).
                             </p>
@@ -421,14 +421,14 @@ export default function LoanWriteOffVsSettlementPage() {
                         </section>
 
                         <section id="account-aging" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                                 The Account Aging Curve: Timing Your Settlement Offer
-                            </h2>
+                            </h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 Debt settlement is a function of time. The older the debt, the less 'Value' it has in the bank's system.
                             </p>
                             <div className="bg-blue-900/5 p-8 rounded-3xl border border-blue-100 mb-8">
-                                <h3 className="font-bold text-[#1F5EFF] mb-4">The Probability of Waiver Matrix:</h3>
+                                <h4 className="font-bold text-[#1F5EFF] mb-4">The Probability of Waiver Matrix:</h4>
                                 <ul className="space-y-4 text-sm">
                                     <li className="flex justify-between border-b border-gray-100 pb-2"><span>Age: 90-180 Days</span> <span className="font-bold text-red-600">Possible Waiver: 10-20%</span></li>
                                     <li className="flex justify-between border-b border-gray-100 pb-2"><span>Age: 180-365 Days</span> <span className="font-bold text-orange-600">Possible Waiver: 30-40%</span></li>
@@ -439,9 +439,9 @@ export default function LoanWriteOffVsSettlementPage() {
                         </section>
 
                         <section id="cibil-dispute" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                                 Correcting the Record: The CIBIL Dispute Mechanism
-                            </h2>
+                            </h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 Sometimes, banks fail to update your status even after you have settled the loan. This is a common clerical error that can cost you dearly. If your No Dues Certificate is older than 45 days and your CIBIL still shows "Written-off", you must use the **CIBIL Dispute Resolution** process.
                             </p>
@@ -451,14 +451,14 @@ export default function LoanWriteOffVsSettlementPage() {
                         </section>
 
                         <section id="zombie-debt" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                                 Beware of 'Zombie Debt': The Ghost of Default Past
-                            </h2>
+                            </h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 "Zombie Debt" is a term used in the industry for debts that have been written off and bought by third-party collection agencies. These agencies may call you 5 or 10 years later, hoping you have forgotten the legal status of the debt.
                             </p>
                             <div className="bg-orange-50 p-8 rounded-2xl border-l-4 border-orange-500 mb-8">
-                                <h3 className="font-bold text-orange-900 mb-4">How to Handle Zombie Debt Calls:</h3>
+                                <h4 className="font-bold text-orange-900 mb-4">How to Handle Zombie Debt Calls:</h4>
                                 <ul className="space-y-4 text-orange-800 text-sm">
                                     <li>1. **Verify the Agency:** Ask for their official authorization letter from the original bank.</li>
                                     <li>2. **Demand Documentation:** Never acknowledge the debt over the phone. Ask them to send the "Proof of Debt" via registered post.</li>
@@ -468,9 +468,9 @@ export default function LoanWriteOffVsSettlementPage() {
                         </section>
 
                         <section id="final-checklist" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                                 The 10-Point Settlement Check List
-                            </h2>
+                            </h3>
                             <p className="text-lg leading-relaxed mb-8">
                                 Use this checklist as your final shield before handing over any money to a bank or collection agency.
                             </p>
@@ -485,14 +485,14 @@ export default function LoanWriteOffVsSettlementPage() {
                         </section>
 
                         <section id="hardship-letter-guide" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                                 The Anatomy of a Successful Hardship Letter
-                            </h2>
+                            </h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 Whether you are dealing with a write-off or a standard settlement, your "Hardship Letter" is the most important document in the file. It is the primary piece of evidence the bank's settlement committee will review. A generic letter gets a generic 10% waiver; a well-crafted letter gets a 60% waiver.
                             </p>
                             <div className="bg-gray-50 p-10 rounded-3xl mb-8 border border-gray-200">
-                                <h3 className="font-bold mb-6 text-[#1F5EFF] uppercase tracking-tighter text-xl">Required Modules for Your Letter:</h3>
+                                <h4 className="font-bold mb-6 text-[#1F5EFF] uppercase tracking-tighter text-xl">Required Modules for Your Letter:</h4>
                                 <div className="space-y-8 text-sm">
                                     <div>
                                         <p className="font-black text-[#2E2E2E] mb-2">Module 1: The Chronology of Distress</p>
@@ -511,32 +511,32 @@ export default function LoanWriteOffVsSettlementPage() {
                         </section>
 
                         <section id="bank-comparison" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                                 Major Bank Protocols: ICICI, HDFC, and SBI
-                            </h2>
+                            </h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 Navigating the settlement landscape requires knowing the "Rules of Engagement" for different lenders. While all follow RBI guidelines, their internal 'Settlement Appetite' varies.
                             </p>
                             <div className="grid md:grid-cols-3 gap-6 mb-8">
                                 <div className="p-6 bg-white border border-gray-100 rounded-2xl shadow-sm">
-                                    <h3 className="font-bold text-[#1F5EFF] mb-2">ICICI & HDFC</h3>
+                                    <h4 className="font-bold text-[#1F5EFF] mb-2">ICICI & HDFC</h4>
                                     <p className="text-xs leading-relaxed">Aggressive on initial recovery but highly structured on settlements. They prefer 'Lump Sum' over 'Instalment Settlements'. Waivers usually range from 40-60% post-write-off.</p>
                                 </div>
                                 <div className="p-6 bg-white border border-gray-100 rounded-2xl shadow-sm">
-                                    <h4 className="font-bold text-[#1F5EFF] mb-2">SBI & PNB</h4>
+                                    <h5 className="font-bold text-[#1F5EFF] mb-2">SBI & PNB</h5>
                                     <p className="text-xs leading-relaxed">Operate via 'OTS Schemes' announced periodically. Their waivers can be higher (up to 70%) but the paperwork is extensive and requires physical branch visits.</p>
                                 </div>
                                 <div className="p-6 bg-white border border-gray-100 rounded-2xl shadow-sm">
-                                    <h5 className="font-bold text-[#1F5EFF] mb-2">Fintechs (MoneyTap, KreditBee)</h5>
+                                    <h6 className="font-bold text-[#1F5EFF] mb-2">Fintechs (MoneyTap, KreditBee)</h6>
                                     <p className="text-xs leading-relaxed">Very fast decision-making. Can often settle within 48 hours but their initial collection tactics are more persistent. Prefer digital documentation.</p>
                                 </div>
                             </div>
                         </section>
 
                         <section id="institutional-memory" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                                 Institutional Memory: How Long Do Banks Remember?
-                            </h2>
+                            </h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 While CIBIL records might fade after 7 years, **Internal Bank Records** (known as 'Institutional Memory') often last forever. If you default on a loan with Bank A, settle it, and then apply for a new loan with Bank A twenty years later, their internal systems will still flag you.
                             </p>
@@ -546,9 +546,9 @@ export default function LoanWriteOffVsSettlementPage() {
                         </section>
 
                         <section id="comparative-matrix" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                                 The Ultimate Comparison: Side-by-Side Analysis
-                            </h2>
+                            </h3>
                             <p className="text-lg leading-relaxed mb-8">
                                 This matrix provides the final word on the operational and legal differences between the two debt states.
                             </p>
@@ -591,9 +591,9 @@ export default function LoanWriteOffVsSettlementPage() {
                         </section>
 
                         <section id="faq" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                                 Frequently Asked Questions: Write-offs and Settlements
-                            </h2>
+                            </h3>
                             <div className="space-y-4 not-prose">
                                 {[
                                     { q: "Can I be arrested if my loan is written off?", a: "No. Loan default is a civil matter in India. However, if your cheques bounce, the bank can initiate criminal proceedings under Section 138 of the Negotiable Instruments Act. A write-off doesn't change this fact." },
@@ -629,7 +629,7 @@ export default function LoanWriteOffVsSettlementPage() {
                         <section className="bg-[#1F5EFF] rounded-[10px] p-8 md:p-12 text-center text-white relative overflow-hidden shadow-2xl">
                             <div className="absolute top-0 right-0 w-64 h-64 bg-white/10 rounded-full -mr-32 -mt-32"></div>
                             <div className="relative z-10">
-                                <h2 className="text-3xl md:text-5xl font-black mb-6 uppercase tracking-tighter text-white">Don't Let Labels Define You</h2>
+                                <h3 className="text-3xl md:text-5xl font-black mb-6 uppercase tracking-tighter text-white">Don't Let Labels Define You</h3>
                                 <p className="text-lg md:text-2xl opacity-90 max-w-2xl mx-auto mb-10 leading-tight font-normal">
                                     Whether it is a write-off or a settlement, we have the expertise to clean up your credit history and end the legal harassment.
                                 </p>

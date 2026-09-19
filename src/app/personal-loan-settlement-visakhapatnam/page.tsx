@@ -530,7 +530,7 @@ export default function Page() {
                 <Clock className="w-4 h-4" />
                 <span>2. Delinquency Timeline &amp; AP High Court Norms</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">NPA Delinquency Aging in Visakhapatnam</h2>
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">NPA Delinquency Aging in Visakhapatnam</h3>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Getting a good One-Time Settlement (OTS) depends on RBI IRACP norms. Banks offer large haircuts as overdue loans age on their books.
               </p>
@@ -595,7 +595,7 @@ export default function Page() {
                 <Gavel className="w-4 h-4" />
                 <span>3. Section 138 &amp; Section 25 PSSA Defense in Vizag Courts</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Defending Legal Notices in Visakhapatnam District</h2>
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Defending Legal Notices in Visakhapatnam District</h3>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 When auto-debits or cheques bounce, banks issue legal notices. They cite <strong>Section 25 PSSA</strong> or <strong>Section 138 NI Act</strong>. They threaten cases in Visakhapatnam Metropolitan Magistrate Courts at Jagadamba.
               </p>
@@ -613,7 +613,7 @@ export default function Page() {
                 <ShieldAlert className="w-4 h-4" />
                 <span>4. Section 171 Lien &amp; Port/PSU Salary Shielding</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Banker&apos;s General Lien in Visakhapatnam</h2>
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Banker&apos;s General Lien in Visakhapatnam</h3>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Under <strong>Section 171 of the Indian Contract Act, 1872</strong>, banks hold a general lien. They can seize funds from accounts in that same bank under your PAN. If your salary lands in your loan bank, the lender may sweep your cash.
               </p>
@@ -628,9 +628,9 @@ export default function Page() {
                 <Sparkles className="w-4 h-4" />
                 <span>5. Visual Resolution Blueprint</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 Personal Loan Settlement Roadmap in Visakhapatnam
-              </h2>
+              </h3>
               <p className="text-slate-700 leading-relaxed mb-6 text-base md:text-lg">
                 The chart below outlines each step of debt settlement in Visakhapatnam. It covers legal notice defense and SARB talks in Dwaraka Nagar. It also explains ₹0 No Dues Certificate delivery.
               </p>
@@ -657,7 +657,7 @@ export default function Page() {
                 <Percent className="w-4 h-4" />
                 <span>6. OTS Haircut Mechanics &amp; NPV Formula</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">OTS Haircut Mechanics &amp; NPV in Vizag</h2>
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">OTS Haircut Mechanics &amp; NPV in Vizag</h3>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Bank credit committees in Dwaraka Nagar assess offers via <strong>Net Present Value (NPV)</strong>. Civil suits take 4 to 7 years. They also create heavy legal costs. Banks prefer quick cash recovery today over risky court trials.
               </p>
@@ -687,7 +687,7 @@ export default function Page() {
                 <ShieldCheck className="w-4 h-4" />
                 <span>7. Anti-Harassment Laws &amp; Vizag Police Jurisdiction</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Enforcing RBI Fair Practices in Vizag</h2>
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Enforcing RBI Fair Practices in Vizag</h3>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Borrowers are protected under <strong>RBI Master Directions on Recovery Agents (2022)</strong>. Recovery agents cannot call before 08:00 AM or after 07:00 PM. They cannot use abuse, enter workplaces, or visit homes without prior notice.
               </p>
@@ -705,7 +705,7 @@ export default function Page() {
                 <Scale className="w-4 h-4" />
                 <span>8. DLSA Lok Adalat &amp; Arbitration Defense in Vizag</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Vizag DLSA Lok Adalat Conciliation</h2>
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Vizag DLSA Lok Adalat Conciliation</h3>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 The <strong>Visakhapatnam District Legal Services Authority (DLSA)</strong> at Nyayaseva Sadan holds Lok Adalats. Our lawyers win 40% to 65% waivers here. The final award is a binding decree under <strong>Section 21 of the Legal Services Authorities Act</strong>. It also provides a 100% court fee refund.
               </p>
@@ -720,7 +720,7 @@ export default function Page() {
                 <FileCheck className="w-4 h-4" />
                 <span>9. Sanction Letter Audit &amp; CIBIL Recovery</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Sanction Letter Audit &amp; NDC in Vizag</h2>
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Sanction Letter Audit &amp; NDC in Vizag</h3>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Never pay on verbal promises. We review the bank&apos;s official <strong>OTS Sanction Letter</strong>. We check the bank letterhead and loan numbers. We verify settlement sums, payment dates. And waiver terms.
               </p>
@@ -738,7 +738,7 @@ export default function Page() {
                 <Scale className="w-4 h-4" />
                 <span>10. Comparative Resolution Matrix</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Debt Resolution Pathways in Visakhapatnam</h2>
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Debt Resolution Pathways in Visakhapatnam</h3>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Compare the debt resolution options available in Visakhapatnam:
               </p>
@@ -794,7 +794,7 @@ export default function Page() {
                 <Scale className="w-4 h-4" />
                 <span>11. SettleLoans Legal Defense &amp; Advisory</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">SettleLoans Legal Defense in Visakhapatnam</h2>
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">SettleLoans Legal Defense in Visakhapatnam</h3>
               <p className="text-slate-700 leading-relaxed mb-6 text-base md:text-lg">
                 SettleLoans gives you advocate defense across Visakhapatnam. We stop agent harassment and reply to court notices. We shield salary accounts and negotiate debt relief under RBI rules.
               </p>
@@ -808,9 +808,9 @@ export default function Page() {
                   <Gavel className="w-4 h-4" />
                   <span>Local Legal Jurisdiction &amp; Legal Aid Directory</span>
                 </div>
-                <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+                <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                   District Courts &amp; DLSA Helpdesk in Visakhapatnam
-                </h2>
+                </h3>
                 <p className="text-slate-700 leading-relaxed mb-6 text-base">
                   Distressed borrowers facing recovery pressure, arbitration summons, or Section 138 NI Act notices in Visakhapatnam can access statutory legal defense through the local District Court and District Legal Services Authority (DLSA):
                 </p>
@@ -847,7 +847,7 @@ export default function Page() {
                 <HelpCircle className="w-4 h-4" />
                 <span>12. Frequently Asked Questions</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">FAQs: Personal Loan Settlement in Vizag</h2>
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">FAQs: Personal Loan Settlement in Vizag</h3>
 
               <div className="space-y-4">
                 {faqs.map((faq: any, index: number) => (
@@ -874,10 +874,10 @@ export default function Page() {
 
             {/* 5 Official Regulatory Links */}
             <section className="bg-slate-50 border border-slate-200 rounded-2xl p-6 mb-8">
-              <h3 className="text-sm font-bold text-slate-900 mb-3 uppercase tracking-wider flex items-center gap-2">
+              <h4 className="text-sm font-bold text-slate-900 mb-3 uppercase tracking-wider flex items-center gap-2">
                 <ExternalLink className="w-4 h-4 text-[#1F5EFF]" />
                 <span>Official Statutory &amp; Regulatory References</span>
-              </h3>
+              </h4>
               <div className="grid grid-cols-1 sm:grid-cols-2 gap-3 text-xs">
                 <a
                   href="https://www.rbi.org.in"
@@ -929,9 +929,9 @@ export default function Page() {
 
             {/* 10 Related Guide Badges */}
             <section className="border-t border-slate-200 pt-8 mb-8">
-              <h3 className="text-sm font-bold text-slate-900 mb-4 uppercase tracking-wider">
+              <h4 className="text-sm font-bold text-slate-900 mb-4 uppercase tracking-wider">
                 Related Loan Settlement &amp; Legal Defense Guides
-              </h3>
+              </h4>
               <div className="flex flex-wrap gap-2">
                 <Link
                   href="/hdfc-personal-loan-settlement"

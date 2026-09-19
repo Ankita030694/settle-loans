@@ -566,9 +566,9 @@ export default function CanaraBankPersonalLoanSettlementPage() {
                 <TrendingUp className="w-4 h-4" />
                 <span>2. Delinquency Timeline &amp; SAMB Escalation</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 The Non-Performing Asset (NPA) Lifecycle and Stressed Asset Management Division
-              </h2>
+              </h3>
               <p className="text-slate-700 leading-relaxed mb-4 text-sm sm:text-base">
                 When an equated monthly installment (EMI) on a Canara Bank personal loan is missed, the account enters a structured regulatory lifecycle governed by the Reserve Bank of India&apos;s Prudential Framework for Resolution of Stressed Assets. Delinquency is classified across progressive Special Mention Account (SMA) stages before reaching Non-Performing Asset (NPA) status:
               </p>
@@ -620,9 +620,9 @@ export default function CanaraBankPersonalLoanSettlementPage() {
                 <Scale className="w-4 h-4" />
                 <span>3. Section 171 Banker&apos;s Lien &amp; Account Shields</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 Banker&apos;s Right of General Lien, CIF-Linked Set-Offs, and Statutory Boundaries
-              </h2>
+              </h3>
               <p className="text-slate-700 leading-relaxed mb-4 text-sm sm:text-base">
                 A primary vulnerability for borrowers defaulting on a Canara Bank personal loan is the potential freezing or unauthorized debiting of their operational bank balances. This enforcement mechanism is executed under the legal doctrine of the <strong>Banker&apos;s Right of General Lien and Set-Off</strong> codified in <strong>Section 171 of the Indian Contract Act, 1872</strong>.
               </p>
@@ -653,39 +653,39 @@ export default function CanaraBankPersonalLoanSettlementPage() {
                 <Gavel className="w-4 h-4" />
                 <span>4. Statutory Legal Notices &amp; Advocate-Led Defense</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 Defending Against Section 25 PSSA, Section 138 NI Act, and SARFAESI Misconceptions
-              </h2>
+              </h3>
               <p className="text-slate-700 leading-relaxed mb-4 text-sm sm:text-base">
                 As a personal loan default persists beyond 90 to 120 days, Canara Bank initiates formal legal escalation through its panel of empanelled advocates by serving statutory legal demand notices. Understanding the precise legal scope of these notices empowers borrowers to respond effectively rather than reacting with undue anxiety:
               </p>
               
               <div className="space-y-4 my-6">
                 <div className="border border-slate-200 rounded-xl p-5 bg-white shadow-sm">
-                  <h3 className="font-bold text-slate-900 text-sm sm:text-base mb-2 flex items-center gap-2">
+                  <h4 className="font-bold text-slate-900 text-sm sm:text-base mb-2 flex items-center gap-2">
                     <FileText className="w-4 h-4 text-[#1F5EFF]" />
                     <span>Section 25 of the Payment and Settlement Systems Act, 2007 (PSSA)</span>
-                  </h3>
+                  </h4>
                   <p className="text-xs sm:text-sm text-slate-600 leading-relaxed">
                     When an automated National Automated Clearing House (NACH) mandate or electronic clearing mandate dishonours due to insufficient funds, Canara Bank issues a statutory demand notice under Section 25 PSSA. The statute provides a mandatory 15-day cure window from the date of receipt. While unaddressed notices may result in a complaint before a Judicial Magistrate, serving an advocate-drafted reply documenting genuine financial hardship, disputing penal calculations, and offering an amicable One-Time Settlement effectively halts magistrate court filings.
                   </p>
                 </div>
 
                 <div className="border border-slate-200 rounded-xl p-5 bg-white shadow-sm">
-                  <h3 className="font-bold text-slate-900 text-sm sm:text-base mb-2 flex items-center gap-2">
+                  <h4 className="font-bold text-slate-900 text-sm sm:text-base mb-2 flex items-center gap-2">
                     <FileText className="w-4 h-4 text-indigo-600" />
                     <span>Section 138 of the Negotiable Instruments Act, 1881 (NI Act)</span>
-                  </h3>
+                  </h4>
                   <p className="text-xs sm:text-sm text-slate-600 leading-relaxed">
                     If security cheques provided during loan disbursement dishonour upon presentation, Canara Bank serves a statutory notice under Section 138 NI Act. Under Section 147 of the NI Act, cheque dishonour offenses are compoundable by law at any stage of proceedings. An advocate reply establishing absence of fraudulent intent and placing a compromise offer on record transitions the dispute from adversarial litigation into structured settlement negotiations.
                   </p>
                 </div>
 
                 <div className="border border-slate-200 rounded-xl p-5 bg-white shadow-sm">
-                  <h3 className="font-bold text-slate-900 text-sm sm:text-base mb-2 flex items-center gap-2">
+                  <h4 className="font-bold text-slate-900 text-sm sm:text-base mb-2 flex items-center gap-2">
                     <ShieldX className="w-4 h-4 text-rose-600" />
                     <span>Debunking SARFAESI Act Threats on Unsecured Personal Loans</span>
-                  </h3>
+                  </h4>
                   <p className="text-xs sm:text-sm text-slate-600 leading-relaxed">
                     Outsourced collection agents frequently issue unauthorized threats claiming Canara Bank will invoke Section 13(2) of the SARFAESI Act, 2002 to seal the borrower&apos;s home or seize household belongings. This is legally baseless. The SARFAESI Act applies strictly to <em>secured credit facilities</em> where an equitable or registered mortgage is created. For clean personal loans, Canara Bank has no collateral rights and cannot attach immovable property without filing a full civil recovery suit and obtaining a formal court decree over a multi-year judicial timeframe.
                   </p>
@@ -703,9 +703,9 @@ export default function CanaraBankPersonalLoanSettlementPage() {
                 <Layers className="w-4 h-4" />
                 <span>5. Visual Resolution Blueprint</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 Canara Bank Personal Loan Settlement Process &amp; Approval Hierarchy
-              </h2>
+              </h3>
               
               <div className="my-6 rounded-2xl overflow-hidden border border-slate-200 shadow-md bg-slate-50">
                 <img
@@ -728,9 +728,9 @@ export default function CanaraBankPersonalLoanSettlementPage() {
                 <Calculator className="w-4 h-4" />
                 <span>6. OTS Policy &amp; Net Present Value (NPV) Recovery Formula</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 Canara Bank Compromise Policy Guidelines &amp; Recovery Valuation
-              </h2>
+              </h3>
               <p className="text-slate-700 leading-relaxed mb-4 text-sm sm:text-base">
                 Canara Bank governs debt compromises under its Board-approved Policy on Compromise and Negotiated Settlement of NPAs, formulated in strict alignment with RBI Master Directions on Stressed Assets. The fundamental benchmark used by the bank to evaluate a compromise offer is the <strong>Net Present Value (NPV) Recovery Valuation</strong>.
               </p>
@@ -758,19 +758,19 @@ export default function CanaraBankPersonalLoanSettlementPage() {
 
               <div className="grid grid-cols-1 sm:grid-cols-2 gap-4 my-6">
                 <div className="border border-blue-200 bg-blue-50/50 rounded-xl p-4">
-                  <h3 className="font-bold text-blue-950 text-sm mb-1 flex items-center gap-1.5">
+                  <h4 className="font-bold text-blue-950 text-sm mb-1 flex items-center gap-1.5">
                     <Percent className="w-4 h-4 text-[#1F5EFF]" />
                     <span>Penal &amp; Interest Waivers: 100% Elimination</span>
-                  </h3>
+                  </h4>
                   <p className="text-xs text-blue-900 leading-relaxed">
                     All accumulated uncapitalized interest, compounding penal interest rates, late payment charges, NACH bounce penalties, and processing levies are 100% waived in all sanctioned settlements.
                   </p>
                 </div>
                 <div className="border border-emerald-200 bg-emerald-50/50 rounded-xl p-4">
-                  <h4 className="font-bold text-emerald-950 text-sm mb-1 flex items-center gap-1.5">
+                  <h5 className="font-bold text-emerald-950 text-sm mb-1 flex items-center gap-1.5">
                     <Percent className="w-4 h-4 text-emerald-600" />
                     <span>Principal Haircut: 40% to 60% Concession</span>
-                  </h4>
+                  </h5>
                   <p className="text-xs text-emerald-900 leading-relaxed">
                     Depending on NPA aging (Substandard, Doubtful, or Loss Asset) and authenticated insolvency documentation, borrowers qualify for a 40% to 60% principal write-off.
                   </p>
@@ -784,17 +784,17 @@ export default function CanaraBankPersonalLoanSettlementPage() {
                 <Briefcase className="w-4 h-4" />
                 <span>7. Tier-Based Haircut Approval Hierarchy &amp; Roadmap</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 Delegation of Financial Powers (DOFP) and Fast-Track Settlement Roadmap
-              </h2>
+              </h3>
               <p className="text-slate-700 leading-relaxed mb-4 text-sm sm:text-base">
                 The most frequent obstacle borrowers encounter during Canara Bank loan negotiations is approaching the wrong administrative tier. Canara Bank enforces a rigid Delegation of Financial Powers (DOFP). Understanding which authority possesses the legal power to sanction your specific debt haircut is crucial for fast-tracking approval:
               </p>
 
               <div className="bg-slate-50 border border-slate-200 rounded-2xl p-5 my-6">
-                <h3 className="font-bold text-slate-900 text-sm uppercase tracking-wider mb-3 text-[#1F5EFF]">
+                <h4 className="font-bold text-slate-900 text-sm uppercase tracking-wider mb-3 text-[#1F5EFF]">
                   Canara Bank Financial Delegation Hierarchy for Personal Loan Compromises
-                </h3>
+                </h4>
                 <div className="space-y-3 text-xs sm:text-sm text-slate-700">
                   <div className="p-3 bg-white border border-slate-200 rounded-xl">
                     <span className="font-bold text-slate-900 block mb-1">Tier 1: Branch Manager (Scale-I to Scale-III) — Minimal Haircut</span>
@@ -823,16 +823,16 @@ export default function CanaraBankPersonalLoanSettlementPage() {
                 </div>
               </div>
 
-              <h3 className="font-bold text-slate-900 text-sm sm:text-base mb-3">
+              <h4 className="font-bold text-slate-900 text-sm sm:text-base mb-3">
                 Step-by-Step Advocate-Led Settlement Roadmap
-              </h3>
+              </h4>
               <div className="space-y-4 my-6">
                 <div className="flex items-start gap-3 p-4 bg-slate-50 border border-slate-200 rounded-xl">
                   <div className="w-7 h-7 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center font-bold text-xs flex-shrink-0 mt-0.5">
                     1
                   </div>
                   <div>
-                    <h4 className="font-bold text-slate-900 text-sm mb-1">Forensic Statement of Account (SOA) Audit</h4>
+                    <h5 className="font-bold text-slate-900 text-sm mb-1">Forensic Statement of Account (SOA) Audit</h5>
                     <p className="text-xs text-slate-600 leading-relaxed">
                       Extract complete loan account statements to segregate disbursed principal, total repayments made, true contractual balance, and unlawful compounding penal interest added post-default.
                     </p>
@@ -844,7 +844,7 @@ export default function CanaraBankPersonalLoanSettlementPage() {
                     2
                   </div>
                   <div>
-                    <h4 className="font-bold text-slate-900 text-sm mb-1">Insolvency Dossier Preparation &amp; Sworn Affidavit</h4>
+                    <h5 className="font-bold text-slate-900 text-sm mb-1">Insolvency Dossier Preparation &amp; Sworn Affidavit</h5>
                     <p className="text-xs text-slate-600 leading-relaxed">
                       Assemble authenticated hardship documentation: medical records, job termination notices, salary reduction slips, GST surrender filings, or audited financial balance sheets showing business closure.
                     </p>
@@ -856,7 +856,7 @@ export default function CanaraBankPersonalLoanSettlementPage() {
                     3
                   </div>
                   <div>
-                    <h4 className="font-bold text-slate-900 text-sm mb-1">Direct Submission to Circle Office Recovery Section</h4>
+                    <h5 className="font-bold text-slate-900 text-sm mb-1">Direct Submission to Circle Office Recovery Section</h5>
                     <p className="text-xs text-slate-600 leading-relaxed">
                       Bypass base branch delays by formally submitting the OTS petition directly to the SAMB recovery officer and Circle Head, supported by legal precedent and NPV comparative models.
                     </p>
@@ -868,7 +868,7 @@ export default function CanaraBankPersonalLoanSettlementPage() {
                     4
                   </div>
                   <div>
-                    <h4 className="font-bold text-slate-900 text-sm mb-1">Sanction Letter Forensic Review &amp; Secure Payment</h4>
+                    <h5 className="font-bold text-slate-900 text-sm mb-1">Sanction Letter Forensic Review &amp; Secure Payment</h5>
                     <p className="text-xs text-slate-600 leading-relaxed">
                       Ensure Canara Bank issues a physical stamped OTS Sanction Letter on official bank letterhead. Remit funds strictly into your loan ledger and obtain immediate stamped bank deposit receipts.
                     </p>
@@ -883,9 +883,9 @@ export default function CanaraBankPersonalLoanSettlementPage() {
                 <Scale className="w-4 h-4" />
                 <span>8. National Lok Adalat Conciliation &amp; Judicial Finality</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 Resolving Canara Bank Defaults via Statutory Lok Adalat Benches
-              </h2>
+              </h3>
               <p className="text-slate-700 leading-relaxed mb-4 text-sm sm:text-base">
                 For borrowers seeking absolute legal finality and maximum debt concessions, the <strong>National Lok Adalat</strong> represents the most secure resolution forum. Organized quarterly across India by the <strong>National Legal Services Authority (NALSA)</strong> and State Legal Services Authorities under the <em>Legal Services Authorities Act, 1987</em>, Lok Adalat benches provide an institutional platform for compromise settlements.
               </p>
@@ -916,17 +916,17 @@ export default function CanaraBankPersonalLoanSettlementPage() {
                 <FileCheck className="w-4 h-4" />
                 <span>9. Sanction Letter Forensics, No Dues Certificate &amp; CIBIL Trajectory</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 Verifying Bank Letterhead Sanctions, ₹0 NDC Mandate, and Credit Repair
-              </h2>
+              </h3>
               <p className="text-slate-700 leading-relaxed mb-4 text-sm sm:text-base">
                 A loan settlement is only legally binding if supported by flawless documentation. Borrowers must perform rigorous legal forensics on any settlement letter provided by Canara Bank before making any payments:
               </p>
 
               <div className="border border-slate-200 rounded-xl p-5 bg-white shadow-sm my-6 space-y-3">
-                <h3 className="font-bold text-slate-900 text-sm uppercase tracking-wider text-[#1F5EFF]">
+                <h4 className="font-bold text-slate-900 text-sm uppercase tracking-wider text-[#1F5EFF]">
                   Mandatory Clauses in an Authentic Canara Bank OTS Sanction Letter
-                </h3>
+                </h4>
                 <ul className="text-xs sm:text-sm text-slate-700 space-y-2 leading-relaxed">
                   <li className="flex items-start gap-2">
                     <Check className="w-4 h-4 text-emerald-600 flex-shrink-0 mt-0.5" />
@@ -961,9 +961,9 @@ export default function CanaraBankPersonalLoanSettlementPage() {
                 <Scale className="w-4 h-4" />
                 <span>10. Comparative Resolution Matrix &amp; Professional Advocacy</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 Comparing Resolution Pathways: Self-Negotiation vs. Collection Channels vs. Legal Advocacy
-              </h2>
+              </h3>
               <p className="text-slate-700 leading-relaxed mb-4 text-sm sm:text-base">
                 The strategic method selected by a distressed borrower determines whether their Canara Bank settlement succeeds or results in unfulfilled assurances. The following matrix highlights the operational differences across resolution approaches:
               </p>
@@ -1020,9 +1020,9 @@ export default function CanaraBankPersonalLoanSettlementPage() {
                 </table>
               </div>
 
-              <h3 className="text-lg sm:text-xl font-bold text-slate-900 mb-3">
+              <h4 className="text-lg sm:text-xl font-bold text-slate-900 mb-3">
                 Expert Legal Representation for Canara Bank Loan Resolution
-              </h3>
+              </h4>
               <p className="text-slate-700 leading-relaxed mb-6 text-sm sm:text-base">
                 Resolving a defaulted Canara Bank personal loan requires deep knowledge of public sector banking regulations, CVC compliance requirements, SAMB administrative hierarchies, and magistrate court litigation procedures. SettleLoans provides end-to-end legal and financial representation, shielding your family from recovery harassment and securing authentic, legally binding bank sanctions.
               </p>
@@ -1037,9 +1037,9 @@ export default function CanaraBankPersonalLoanSettlementPage() {
                 <HelpCircle className="w-4 h-4" />
                 <span>11. Frequently Asked Questions</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
                 Frequently Asked Questions on Canara Bank Personal Loan Settlement
-              </h2>
+              </h3>
 
               <div className="space-y-4">
                 {(((jsonLdGraph["@graph"].find((item: any) => item["@type"] === "FAQPage") as any)?.["mainEntity"] || []) as Array<{ name: string; acceptedAnswer: { text: string } }>).map((faq, index: number) => (
@@ -1066,10 +1066,10 @@ export default function CanaraBankPersonalLoanSettlementPage() {
 
             {/* 5 Official Regulatory Links */}
             <section className="bg-slate-50 border border-slate-200 rounded-2xl p-6 mb-8">
-              <h3 className="text-sm font-bold text-slate-900 mb-3 uppercase tracking-wider flex items-center gap-2">
+              <h4 className="text-sm font-bold text-slate-900 mb-3 uppercase tracking-wider flex items-center gap-2">
                 <ExternalLink className="w-4 h-4 text-[#1F5EFF]" />
                 <span>Official Statutory &amp; Regulatory References</span>
-              </h3>
+              </h4>
               <div className="grid grid-cols-1 sm:grid-cols-2 gap-3 text-xs">
                 <a
                   href="https://www.rbi.org.in"
@@ -1121,9 +1121,9 @@ export default function CanaraBankPersonalLoanSettlementPage() {
 
             {/* 10 Related Guide Badges */}
             <section className="border-t border-slate-200 pt-8 mb-8">
-              <h3 className="text-sm font-bold text-slate-900 mb-4 uppercase tracking-wider">
+              <h4 className="text-sm font-bold text-slate-900 mb-4 uppercase tracking-wider">
                 Related Loan Settlement &amp; Legal Defense Guides
-              </h3>
+              </h4>
               <div className="flex flex-wrap gap-2">
                 <Link
                   href="/sbi-personal-loan-settlement"

@@ -260,77 +260,77 @@ export default function HowToSettleLoanPage() {
             </section>
 
             <section id="understanding-settlement" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl font-black mb-6">Defining Loan Settlement: What Does It Actually Mean?</h2>
+              <h3 className="text-3xl font-black mb-6">Defining Loan Settlement: What Does It Actually Mean?</h3>
               <p>Loan settlement is a mutual agreement between a borrower and a lender where the lender agrees to accept a one time payment that is significantly lower than the total amount owed. In exchange for this payment, the lender agrees to close the account and waive all further claims against the borrower. It is a form of damage control for both parties. The borrower gets a massive reduction in debt, and the lender recovers a portion of the principal that might otherwise have been a total loss.</p>
               <p>It is crucial to distinguish between 'cloing' a loan and 'settling' a loan. Closure happens when you pay back every rupee of the principal and interest. Settlement happens when you pay a compromise amount. While both result in a debt free status, settlement leaves a specific mark on your credit report. This 'Settled' status tells future lenders that you were unable to meet your full obligations, which temporarily impacts your creditworthiness. However, compared to the alternative of a permanent default or a 'Written Off' status, settlement is a proactive and much healthier choice for long term financial recovery.</p>
               <p>At SettleLoans, we specialize in making this process transparent. We believe every borrower should know exactly what they are signing up for, including the benefits and the trade-offs. Our goal is to ensure that when you settle, you do so from a position of knowledge and strength, backed by professional legal advice.</p>
             </section>
 
             <section id="bank-motivation" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl font-black mb-6">The Bank's Internal Logic: Why Lenders Agree to Negotiate</h2>
+              <h3 className="text-3xl font-black mb-6">The Bank's Internal Logic: Why Lenders Agree to Negotiate</h3>
               <p>Many borrowers ask us, "Why would a bank ever agree to take less than what I owe?" The answer lies in the harsh reality of banking economics. When a loan account remains unpaid for over 90 days, it is classified as a Non-Performing Asset (NPA). According to RBI rules, banks must set aside capital for every NPA on their books, which reduces their overall profitability. For unsecured loans like credit cards and personal loans, where there is no collateral to seize, the bank's options are limited.</p>
               <p>Pursuing a legal case through traditional courts is expensive and time consuming. It can take years to get a decree, and even then, execution is difficult if the borrower truly has no assets. Therefore, from a purely financial standpoint, receiving 50% of the money today is often better for a bank than the possibility of receiving nothing or a 100% after five years of litigation. Lenders also have internal targets to reduce their NPA ratios, especially at the end of financial quarters and the final closing in March.</p>
               <p>By understanding this motivation, we can craft a negotiation strategy that speaks the bank's language. We present them with a realistic financial hardship profile that proves the borrower cannot pay the full amount but is offering a sincere, good faith lump sum. This professional approach transforms you from a 'defaulter' into a 'negotiator,' making a settlement much more likely to be approved.</p>
             </section>
 
             <section id="step-by-step-guide" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl font-black mb-6">A Step-by-Step Roadmap: How to Settle Your Loan Correcty</h2>
+              <h3 className="text-3xl font-black mb-6">A Step-by-Step Roadmap: How to Settle Your Loan Correcty</h3>
               <p>The journey from debt distress to a No Dues Certificate is a structured one. The first and most critical step is **Assessment and Profiling**. You must look at your total debt across all lenders and determine a realistic budget for a settlement. You also need to document the genuine reason for your financial crisis, such as a salary slip showing a cut, a termination letter, or medical bills from a hospital. These are the bricks with which we build your case.</p>
               <p>The second step is **Cessation of Payments and Strategic Patience**. In most cases, banks only consider a settlement once the account is an NPA. This means you must be prepared to handle the initial wave of recovery calls and notices. This is where SettleLoans provides a shield, taking over the communication so you don't have to face the pressure alone. The third step is the **Negotiation Phase**. This involves sending a formal proposal to the bank's competent authority, usually at the regional or zonal level, rather than just the local branch.</p>
               <p>The fourth step is **Verification of the Settlement Letter**. This is where many individuals make mistakes. You should never pay a single rupee until you have a formal letter on the bank's official letterhead, clearly stating the settlement amount, the waiver of the balance, and the deadline. We verify every letter for authenticity and legal loopholes. The final step is **Payment and No Dues**. Once the payment is made, we ensure the bank issues a 'No Dues Certificate' (NDC) and eventually updates your status with credit bureaus like CIBIL.</p>
             </section>
 
             <section id="rbi-legal-rights" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl font-black mb-6">Know Your Legal Shield: RBI Guidelines and Your Rights</h2>
+              <h3 className="text-3xl font-black mb-6">Know Your Legal Shield: RBI Guidelines and Your Rights</h3>
               <p>One of the most powerful tools in a borrower's arsenal is knowledge of the law. The Reserve Bank of India has issued strict guidelines for how banks and NBFCs must behave when recovering loans. The 'Fair Practices Code' is not just a suggestion; it is a mandate. For instance, recovery agents are prohibited from using abusive language, visiting your home at unreasonable hours (before 7 AM or after 7 PM), or contacting your friends and neighbors to shame you.</p>
               <p>You also have the right to privacy. A bank cannot post your photo or debt details in public places. If a lender violates these rules, you have the right to file a complaint with the Banking Ombudsman. At SettleLoans, we use these legal protections to ensure our clients are treated with dignity. We help you file 'cease and desist' notices against aggressive agencies and use any violations by the bank as leverage to secure better settlement terms.</p>
               <p>Remember, a loan default is a civil matter, not a criminal one. Fear of arrest is a common tactic used by agents, but in a simple case of inability to pay an unsecured loan, there is no provision for immediate police action. However, specialized cases like cheque bounces (Section 138) require a different legal strategy, which our expert advocates handle with precision.</p>
             </section>
 
             <section id="lok-adalat-power" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl font-black mb-6">The Secret Weapon: The Role of Lok Adalat in Settlement</h2>
+              <h3 className="text-3xl font-black mb-6">The Secret Weapon: The Role of Lok Adalat in Settlement</h3>
               <p>Many borrowers are unaware of the immense power of the Lok Adalat (People's Court) system in India. These are judicial forums where disputes are settled through mediation rather than litigation. Banks frequently refer their mounting defaults to Lok Adalats to speed up recovery. For a borrower, being summoned to a Lok Adalat is actually a massive opportunity to secure a high waiver under the supervision of a judge.</p>
               <p>A settlement reached in a Lok Adalat has the force of a civil court decree. It is final and legally binding, meaning the bank can never come back and ask for more money later. The atmosphere is less intimidating than a regular court, and the focus is on finding a middle ground that works for both the borrower and the lender. We have seen instances where credit card settlements were closed for as low as 30% of the total outstanding when handled through the Lok Adalat mechanism.</p>
               <p>Our team at SettleLoans has extensive experience representing clients in Lok Adalats across India. We help you prepare your financial hardship brief so that the presiding judge understands your genuine distress. This judicial oversight ensures that the bank's representatives are reasonable and that the terms of the settlement are fair and transparent.</p>
             </section>
 
             <section id="ots-schemes" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl font-black mb-6">One-Time Settlement (OTS) Schemes: Capitalizing on Bank Windows</h2>
+              <h3 className="text-3xl font-black mb-6">One-Time Settlement (OTS) Schemes: Capitalizing on Bank Windows</h3>
               <p>Public sector banks and many leading private lenders periodically announce One-Time Settlement (OTS) schemes. These are official policy windows where the bank's board approves standard waiver percentages for different categories of NPAs. These schemes are often announced during the final quarter of the financial year (January to March) or to celebrate specific milestones. Participating in an OTS scheme is one of the most efficient ways to settle a debt because the rules are pre-defined and the approval process is much faster.</p>
               <p>However, missing the deadline of an OTS scheme can mean waiting for another year or more for a similar opportunity. It is also important to read the fine print. Some OTS schemes require an upfront 'margin' payment just to process the application. Others might offer different waiver levels for different loan amounts. We keep a constant watch on these scheme announcements across the Indian banking sector to ensure our clients can take advantage of the best possible deals.</p>
               <p>Strategic timing is everything in the world of debt. Proposing a settlement just before a major bank closing can increase your chances of getting a deeper discount. Our advisors understand these seasonal cycles and help you time your offer for maximum impact, ensuring you save every possible rupee on your settlement.</p>
             </section>
 
             <section id="cibil-recovery" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl font-black mb-6">Life After Settlement: Navigating the CIBIL Impact and Recovery</h2>
+              <h3 className="text-3xl font-black mb-6">Life After Settlement: Navigating the CIBIL Impact and Recovery</h3>
               <p>It is important to be realistic: loan settlement will have a negative impact on your credit score in the short term. The status 'Settled' will remain on your credit report for up to 7 years. This mark indicates that you did not fulfill the original terms of the contract. During the first 12 to 18 months after a settlement, getting a fresh unsecured personal loan or a standard credit card will be difficult. However, this is not a permanent financial exile.</p>
               <p>Rebuilding your credit is a journey of discipline. The first step is to wait for the settled accounts to reflect correctly on your report. Then, you can start the recovery process using 'Secured' products. Opening a Fixed Deposit backed credit card is the most effective tool. By using such a card for small, manageable expenses and paying the balance in full every single month, you demonstrate new, positive financial behavior. In the Indian credit ecosystem, recent good behavior over 24 months carries significant weight, even if there are older negative marks.</p>
               <p>Within two years of consistent, perfect repayment of small secured credits, your score can often climb back above 750, making you eligible for home loans or car loans once again. At SettleLoans, we don't just help you settle; we provide a roadmap for your entire journey back to financial health, ensuring you have the tools to rebuild your reputation.</p>
             </section>
 
             <section id="debt-alternatives" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl font-black mb-6">Exploring Smarter Alternatives: Is Settlement Right for You?</h2>
+              <h3 className="text-3xl font-black mb-6">Exploring Smarter Alternatives: Is Settlement Right for You?</h3>
               <p>Settlement is a serious decision and should often be the last resort. Before opting for it, every borrower should explore other debt management strategies. One such alternative is **EMI Restructuring**. You can approach your bank and ask for an extension of the loan tenure, which reduces the monthly EMI to a level you can afford. While this increases the total interest you pay over time, it saves your credit score from the 'Settled' mark.</p>
               <p>Another option is a **Debt Consolidation Loan**. If you have multiple high interest credit card debts but still have a decent credit score, you could take a single, lower interest personal loan to pay them all off. This simplifies your finances into one single monthly payment. You could also consider liquidating non-essential assets (such as unused gold ornaments or investments) to close the loan fully. Our consultation process at SettleLoans involves a thorough review of your financial portfolio to see if any of these alternatives are viable for you before we proceed with a settlement strategy.</p>
               <p>The goal is financial stability. If a restructuring can get you there without damaging your CIBIL, that is always the better path. However, if the total debt has grown so large that even restructuring won't help, then a strategic settlement becomes the most logical and compassionate choice for your future.</p>
             </section>
 
             <section id="harassment-protection" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl font-black mb-6">Stopping the Stress: Your Rights Against Harassment</h2>
+              <h3 className="text-3xl font-black mb-6">Stopping the Stress: Your Rights Against Harassment</h3>
               <p>The psychological toll of debt is often exacerbated by the tactics of recovery agents. In many parts of India, specific agencies operate with relative impunity, using fear as their primary collection tool. It is vital to remember that no amount of debt gives someone the right to rob you of your dignity. Abuse, threats, and harassment are criminal offenses. The Indian police and the RBI have become increasingly strict in dealing with such incidents.</p>
               <p>If you are facing harassment, the first step is to document everything. Record the calls, save the messages, and if agents visit your home, ensure there are witnesses. You should inform the bank's Nodal Officer in writing about the specific behavior of their agents. If the bank fails to act within 30 days, you can escalate the matter to the RBI Ombudsman. Joining SettleLoans provides an immediate layer of protection. We issue legal notices to the banks, informing them that all future communication should be through our legal team. This significantly reduces the daily pressure on you.</p>
               <p>Dealing with recovery agents requires a firm and professional stance. Once they realize that a borrower knows their rights and has legal representation, they often shift their focus elsewhere. Our mission is to ensure you have the mental peace to focus on your work and family while we handle the friction of debt resolution.</p>
             </section>
 
             <section id="common-pitfalls" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl font-black mb-6">Common Pitfalls: Mistakes to Avoid During Loan Settlement</h2>
+              <h3 className="text-3xl font-black mb-6">Common Pitfalls: Mistakes to Avoid During Loan Settlement</h3>
               <p>Many borrowers try to settle their loans on their own and fall into common traps. The most dangerous mistake is **paying based on a verbal promise**. An agent might tell you, "Pay 50,000 today and consider the account closed," only for you to find out later that the payment was just treated as a regular EMI and the balance still remains. Always, without exception, wait for the formal settlement letter before making any payment.</p>
               <p>Another pitfall is **settling only one out of many debts**. If you have five credit cards and settle only one, your credit score will still be affected by the other four defaults. A settlement strategy should look at your entire 'debt ecosystem' to ensure you are actually moving towards a debt free life. Additionally, many people forget to get the No Dues Certificate after the payment. Without this document, you have no legal proof that the transaction is complete. At SettleLoans, we have a checklist of 25 critical items we check for every client to ensure no such mistakes are made.</p>
               <p>Lastly, avoid **ignoring legal notices**. If you receive a notice for arbitration or a summons from a court, ignoring it can lead to an ex-parte order against you. Even if you are planning to settle, you must respond to these notices through a legal professional to preserve your rights and keep the negotiation window open.</p>
             </section>
 
             <section id="documentation-checklist" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl font-black mb-6">The Success Kit: A Checklist of Necessary Documents</h2>
+              <h3 className="text-3xl font-black mb-6">The Success Kit: A Checklist of Necessary Documents</h3>
               <p>A successful settlement is built on a foundation of evidence. When we approach a bank zonal office, we need to prove your financial hardship beyond any doubt. The stronger your documentation, the higher the waiver we can negotiate for you. This is why we ask our clients to maintain an organized folder of their financial history.</p>
               <div className="bg-gray-50 p-8 rounded-2xl border border-[#DEDEDE] not-prose">
                 <ul className="space-y-4">
@@ -360,14 +360,14 @@ export default function HowToSettleLoanPage() {
             </section>
 
             <section id="success-stories" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl font-black mb-8 text-center">Real Stories of Freedom: How Others Settle Their Loans</h2>
+              <h3 className="text-3xl font-black mb-8 text-center">Real Stories of Freedom: How Others Settle Their Loans</h3>
               <p className="text-center mb-10">We have helped thousands of Indians reclaim their lives from the crushing weight of debt. These are just a few examples of what is possible with the right strategy.</p>
               <div className="grid md:grid-cols-2 gap-8 not-prose">
                 <div className="bg-white p-8 rounded-2xl border border-[#DEDEDE] shadow-sm hover:shadow-md transition-all">
                   <div className="flex items-center mb-6">
                     <div className="w-12 h-12 rounded-full bg-[#1F5EFF]/10 flex items-center justify-center font-bold text-[#1F5EFF] mr-4 text-xl">S</div>
                     <div>
-                      <h3 className="font-bold text-lg">Sandeep Verma</h3>
+                      <h4 className="font-bold text-lg">Sandeep Verma</h4>
                       <p className="text-sm text-gray-500">Pune, Maharashtra</p>
                     </div>
                   </div>
@@ -378,7 +378,7 @@ export default function HowToSettleLoanPage() {
                   <div className="flex items-center mb-6">
                     <div className="w-12 h-12 rounded-full bg-[#1F5EFF]/10 flex items-center justify-center font-bold text-[#1F5EFF] mr-4 text-xl">M</div>
                     <div>
-                      <h4 className="font-bold text-lg">Meenakshi Iyer</h4>
+                      <h5 className="font-bold text-lg">Meenakshi Iyer</h5>
                       <p className="text-sm text-gray-500">Chennai, Tamil Nadu</p>
                     </div>
                   </div>
@@ -389,7 +389,7 @@ export default function HowToSettleLoanPage() {
             </section>
 
             <section id="faqs" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl font-black mb-10 text-center">Frequently Asked Questions</h2>
+              <h3 className="text-3xl font-black mb-10 text-center">Frequently Asked Questions</h3>
               <div className="space-y-6 not-prose">
                 {[
                   { q: "Is loan settlement legal in India for 2024-25?", a: "Yes, it is perfectly legal. It is a contractual settlement between you and the lender. The RBI explicitly allows banks to enter into compromises for NPAs to recover their funds and balance their books." },
@@ -421,7 +421,7 @@ export default function HowToSettleLoanPage() {
 
             <section className="mt-20 bg-[#1F5EFF] rounded-[40px] p-12 text-center text-white shadow-2xl relative overflow-hidden group">
               <div className="absolute top-0 right-0 w-64 h-64 bg-white/5 rounded-full -mr-32 -mt-32 transition-transform group-hover:scale-110"></div>
-              <h2 className="text-3xl md:text-5xl font-black mb-6 relative z-10">Reclaim Your Financial Freedom Today</h2>
+              <h3 className="text-3xl md:text-5xl font-black mb-6 relative z-10">Reclaim Your Financial Freedom Today</h3>
               <p className="mb-10 text-lg md:text-xl opacity-90 max-w-3xl mx-auto relative z-10">Don't let the weight of debt hold you back. Join over 2,400+ Indians who have successfully settled their loans with SettleLoans. Your path to a debt-free life starts here.</p>
               <div className="flex justify-center relative z-10">
                 <Link href="/contact" className="inline-block bg-white text-[#1F5EFF] font-black py-4 px-12 rounded-2xl hover:scale-105 transition-all text-xl shadow-xl">

@@ -351,9 +351,9 @@ export default function CreditScoreImprovementPage() {
 
            {/* Score Factors */}
            <section id="score-factors" className="scroll-mt-32 mb-16">
-             <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 flex items-center">
+             <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 flex items-center">
               <FontAwesomeIcon icon={faChartPie} className="mr-4 w-12 h-12" /> What Makes Up Your Score?
-            </h2>
+            </h3>
             <p className="text-lg leading-relaxed mb-8">
                To hack the system, you must understand the algorithm. FICO and CIBIL generally follow this weightage breakdown:
             </p>
@@ -361,40 +361,40 @@ export default function CreditScoreImprovementPage() {
             <div className="grid md:grid-cols-2 gap-6 mb-8">
                <div className="space-y-6">
                    <div className="bg-white p-6 rounded-xl border border-[#DEDEDE] shadow-sm">
-                       <h3 className="font-black text-lg text-[#2E2E2E] mb-2 flex justify-between">
+                       <h4 className="font-black text-lg text-[#2E2E2E] mb-2 flex justify-between">
                            <span>1. Payment History</span>
                            <span className="text-[#1F5EFF]">35%</span>
-                       </h3>
+                       </h4>
                        <p className="text-sm text-gray-600">The most critical factor. A single 30-day late payment can drop your score by 50-80 points. Consistency is key.</p>
                    </div>
                    <div className="bg-white p-6 rounded-xl border border-[#DEDEDE] shadow-sm">
-                       <h3 className="font-black text-lg text-[#2E2E2E] mb-2 flex justify-between">
+                       <h4 className="font-black text-lg text-[#2E2E2E] mb-2 flex justify-between">
                            <span>2. Credit Utilization</span>
                            <span className="text-[#1F5EFF]">30%</span>
-                       </h3>
+                       </h4>
                        <p className="text-sm text-gray-600">How much limit you use. If you have a 1 Lakh limit and spend 90k, you are a "high risk" borrower. Keep it under 30%.</p>
                    </div>
                    <div className="bg-white p-6 rounded-xl border border-[#DEDEDE] shadow-sm">
-                       <h3 className="font-black text-lg text-[#2E2E2E] mb-2 flex justify-between">
+                       <h4 className="font-black text-lg text-[#2E2E2E] mb-2 flex justify-between">
                            <span>3. Credit Age</span>
                            <span className="text-[#1F5EFF]">15%</span>
-                       </h3>
+                       </h4>
                        <p className="text-sm text-gray-600">Older is better. A 5-year-old credit card with good history is gold. Never close your oldest card.</p>
                    </div>
                </div>
                <div className="space-y-6">
                    <div className="bg-white p-6 rounded-xl border border-[#DEDEDE] shadow-sm">
-                       <h3 className="font-black text-lg text-[#2E2E2E] mb-2 flex justify-between">
+                       <h4 className="font-black text-lg text-[#2E2E2E] mb-2 flex justify-between">
                            <span>4. Credit Mix</span>
                            <span className="text-[#1F5EFF]">10%</span>
-                       </h3>
+                       </h4>
                        <p className="text-sm text-gray-600">Lenders love balance. Having a mix of Secured (Home/Auto Loan) and Unsecured (Credit Card) loans is better than just credit cards.</p>
                    </div>
                    <div className="bg-white p-6 rounded-xl border border-[#DEDEDE] shadow-sm">
-                       <h3 className="font-black text-lg text-[#2E2E2E] mb-2 flex justify-between">
+                       <h4 className="font-black text-lg text-[#2E2E2E] mb-2 flex justify-between">
                            <span>5. Recent Enquiries</span>
                            <span className="text-[#1F5EFF]">10%</span>
-                       </h3>
+                       </h4>
                        <p className="text-sm text-gray-600">Every time you apply for a loan, a "Hard Inquiry" is hit. Too many inquiries in a short time makes you look desperate.</p>
                    </div>
                </div>
@@ -403,9 +403,9 @@ export default function CreditScoreImprovementPage() {
 
            {/* NEW SECTION: Understanding Score Ranges */}
            <section id="score-ranges" className="scroll-mt-32 mb-16">
-             <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 flex items-center">
+             <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 flex items-center">
                <FontAwesomeIcon icon={faScaleBalanced} className="mr-4 w-12 h-12" /> Decoding the Score: What do the Numbers Mean?
-             </h2>
+             </h3>
              <div className="overflow-x-auto">
                <table className="min-w-full text-sm text-left text-gray-700 bg-white border border-[#DEDEDE] shadow-sm rounded-lg overflow-hidden">
                  <thead className="text-xs text-white uppercase bg-[#2E2E2E]">
@@ -450,16 +450,16 @@ export default function CreditScoreImprovementPage() {
 
            {/* NEW SECTION: How to Read Report */}
            <section id="read-report" className="scroll-mt-32 mb-16">
-             <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 flex items-center">
+             <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 flex items-center">
                <FontAwesomeIcon icon={faFileContract} className="mr-4 w-12 h-12" /> How to Read Your CIBIL Report
-             </h2>
+             </h3>
              <p className="mb-6 leading-relaxed">
                A CIBIL report is more than just a number. It is a dossier of your financial life. Here is how to decode the 3 most critical sections:
              </p>
              <div className="space-y-6">
                 <div className="bg-white p-6 rounded-xl border border-gray-200 shadow-sm relative overflow-hidden">
                     <div className="absolute top-0 left-0 w-2 h-full bg-blue-500"></div>
-                    <h3 className="font-bold text-xl text-gray-900 mb-2 pl-4">1. Accounts Information (The Meat)</h3>
+                    <h4 className="font-bold text-xl text-gray-900 mb-2 pl-4">1. Accounts Information (The Meat)</h4>
                     <p className="text-gray-600 pl-4 mb-3">This contains details of all your loans and credit cards.</p>
                     <ul className="list-disc list-inside text-sm text-gray-700 pl-4 space-y-1">
                         <li><strong>Date Opened:</strong> When you took the loan.</li>
@@ -471,7 +471,7 @@ export default function CreditScoreImprovementPage() {
                 
                 <div className="bg-white p-6 rounded-xl border border-gray-200 shadow-sm relative overflow-hidden">
                     <div className="absolute top-0 left-0 w-2 h-full bg-purple-500"></div>
-                    <h3 className="font-bold text-xl text-gray-900 mb-2 pl-4">2. Enquiry Information (The Footprints)</h3>
+                    <h4 className="font-bold text-xl text-gray-900 mb-2 pl-4">2. Enquiry Information (The Footprints)</h4>
                     <p className="text-gray-600 pl-4 mb-3">Lists who has checked your profile recently.</p>
                     <ul className="list-disc list-inside text-sm text-gray-700 pl-4 space-y-1">
                         <li><strong>Enquiry Purpose:</strong> Personal Loan, Credit Card, Home Loan.</li>
@@ -482,7 +482,7 @@ export default function CreditScoreImprovementPage() {
 
                 <div className="bg-white p-6 rounded-xl border border-gray-200 shadow-sm relative overflow-hidden">
                     <div className="absolute top-0 left-0 w-2 h-full bg-orange-500"></div>
-                    <h3 className="font-bold text-xl text-gray-900 mb-2 pl-4">3. Consumer Information</h3>
+                    <h4 className="font-bold text-xl text-gray-900 mb-2 pl-4">3. Consumer Information</h4>
                     <p className="text-gray-600 pl-4 mb-3">Your personal data.</p>
                     <ul className="list-disc list-inside text-sm text-gray-700 pl-4 space-y-1">
                         <li><strong>Address/Phone:</strong> Check for errors here. Sometimes a wrong address links you to a defaulter with a similar address!</li>
@@ -494,9 +494,9 @@ export default function CreditScoreImprovementPage() {
 
            {/* NEW SECTION: Myths Busted */}
            <section id="myths" className="scroll-mt-32 mb-16">
-             <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 flex items-center">
+             <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 flex items-center">
                <FontAwesomeIcon icon={faUnlockKeyhole} className="mr-4 w-12 h-12" /> CIBIL Myths: Stop Believing These!
-             </h2>
+             </h3>
              <div className="grid md:grid-cols-2 gap-6">
                  {[
                      { myth: "Checking my score reduces it.", truth: "False. Checking yourself is a 'Soft Pull'. It has ZERO impact." },
@@ -518,9 +518,9 @@ export default function CreditScoreImprovementPage() {
 
            {/* Remove Settled Status - KEY VALUE PROP */}
            <section id="remove-settled" className="scroll-mt-32 mb-16">
-            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 flex items-center">
+            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 flex items-center">
                <FontAwesomeIcon icon={faRotateRight} className="mr-4 w-12 h-12" /> Removing the 'Settled' Tag
-            </h2>
+            </h3>
             <div className="bg-yellow-50 border-l-4 border-yellow-500 p-6 rounded-r-xl mb-8">
                <p className="font-bold text-yellow-900/80 mb-2">The 'Settled' Trap</p>
                <p className="text-yellow-800 text-sm">
@@ -528,35 +528,35 @@ export default function CreditScoreImprovementPage() {
                </p>
             </div>
             
-            <h3 className="text-xl font-bold text-gray-900 mb-4">The Rectification Process</h3>
+            <h4 className="text-xl font-bold text-gray-900 mb-4">The Rectification Process</h4>
             <p className="mb-6 text-gray-700">We help you upgrade this status from 'Settled' to 'Closed' (which is a positive status). Here is the workflow:</p>
 
             <div className="space-y-4">
                 <div className="flex items-start">
                     <div className="flex-shrink-0 w-8 h-8 rounded-full bg-[var(--color-primary)] text-white flex items-center justify-center font-bold mt-1">1</div>
                     <div className="ml-4">
-                        <h4 className="font-bold text-gray-900">Approach the Lender</h4>
+                        <h5 className="font-bold text-gray-900">Approach the Lender</h5>
                         <p className="text-sm text-gray-600">We contact the original bank/NBFC. We offer to pay the "Principal Outstanding" or the "Waived Amount".</p>
                     </div>
                 </div>
                 <div className="flex items-start">
                     <div className="flex-shrink-0 w-8 h-8 rounded-full bg-[var(--color-primary)] text-white flex items-center justify-center font-bold mt-1">2</div>
                     <div className="ml-4">
-                        <h4 className="font-bold text-gray-900">Get the Deal in Writing</h4>
+                        <h5 className="font-bold text-gray-900">Get the Deal in Writing</h5>
                         <p className="text-sm text-gray-600">The bank agrees to accept the payment and issues a letter stating they will update the status to "Closed" or "Post-Writeoff Settled" to "Closed".</p>
                     </div>
                 </div>
                  <div className="flex items-start">
                     <div className="flex-shrink-0 w-8 h-8 rounded-full bg-[var(--color-primary)] text-white flex items-center justify-center font-bold mt-1">3</div>
                     <div className="ml-4">
-                        <h4 className="font-bold text-gray-900">No Dues Certificate (NOC)</h4>
+                        <h5 className="font-bold text-gray-900">No Dues Certificate (NOC)</h5>
                         <p className="text-sm text-gray-600">Once you pay, we ensure you get the NDC. This is your proof of full repayment.</p>
                     </div>
                 </div>
                  <div className="flex items-start">
                     <div className="flex-shrink-0 w-8 h-8 rounded-full bg-[var(--color-primary)] text-white flex items-center justify-center font-bold mt-1">4</div>
                     <div className="ml-4">
-                        <h4 className="font-bold text-gray-900">CIBIL Dispute</h4>
+                        <h5 className="font-bold text-gray-900">CIBIL Dispute</h5>
                         <p className="text-sm text-gray-600">We file a dispute with CIBIL attaching the NOC, forcing them to update the record. This typically bumps the score by 30-50 points instantly.</p>
                     </div>
                 </div>
@@ -565,33 +565,33 @@ export default function CreditScoreImprovementPage() {
 
            {/* NEW SECTION: Mistakes During Settlement */}
            <section id="mistakes-settlement" className="scroll-mt-32 mb-16">
-             <h2 className="text-3xl md:text-4xl font-bold text-red-600 mb-8 flex items-center">
+             <h3 className="text-3xl md:text-4xl font-bold text-red-600 mb-8 flex items-center">
                 <FontAwesomeIcon icon={faTriangleExclamation} className="mr-4 w-12 h-12" /> Critical Settlement Mistakes to Avoid
-             </h2>
+             </h3>
              <p className="mb-6 leading-relaxed">
                 Settlement is a double-edged sword. If done incorrectly, it can haunt you for years.
              </p>
              <div className="grid md:grid-cols-2 gap-6">
                 <div className="bg-red-50 p-6 rounded-xl border border-red-100">
-                    <h3 className="font-bold text-red-900 mb-2">1. The "Verbal Promise" Trap</h3>
+                    <h4 className="font-bold text-red-900 mb-2">1. The "Verbal Promise" Trap</h4>
                     <p className="text-sm text-red-800">
                         Agents will say "Pay 20k now and we will close it". NEVER pay without an official settlement letter from the bank's official email ID. Verbal promises are worthless in court/CIBIL disputes.
                     </p>
                 </div>
                 <div className="bg-red-50 p-6 rounded-xl border border-red-100">
-                    <h4 className="font-bold text-red-900 mb-2">2. Ignoring the "Write-Off"</h4>
+                    <h5 className="font-bold text-red-900 mb-2">2. Ignoring the "Write-Off"</h5>
                     <p className="text-sm text-red-800">
                         If your status says "Written Off", the bank has sold your debt to an ARC. You need to negotiate with the ARC, not the bank. Paying the bank now might not update the ARC's record.
                     </p>
                 </div>
                 <div className="bg-red-50 p-6 rounded-xl border border-red-100">
-                    <h4 className="font-bold text-red-900 mb-2">3. Partial Payments</h4>
+                    <h5 className="font-bold text-red-900 mb-2">3. Partial Payments</h5>
                     <p className="text-sm text-red-800">
                         Paying small random amounts (₹5000 here, ₹2000 there) resets the "Limitation Period" but doesn't close the loan. Either pay in full or settle in one shot.
                     </p>
                 </div>
                 <div className="bg-red-50 p-6 rounded-xl border border-red-100">
-                    <h4 className="font-bold text-red-900 mb-2">4. Not Collecting NDC</h4>
+                    <h5 className="font-bold text-red-900 mb-2">4. Not Collecting NDC</h5>
                     <p className="text-sm text-red-800">
                         The No Dues Certificate (NDC) is the only proof you have. If you don't get it within 15 days of payment, fight for it immediately.
                     </p>
@@ -601,14 +601,14 @@ export default function CreditScoreImprovementPage() {
 
            {/* Dispute Process */}
            <section id="dispute-process" className="scroll-mt-32 mb-16">
-            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 flex items-center">
+            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 flex items-center">
                <FontAwesomeIcon icon={faBuildingColumns} className="mr-4 w-12 h-12" /> Filing CIBIL Disputes Correctly
-            </h2>
+            </h3>
             <p className="mb-6 leading-relaxed">
               Did you know 1 in 5 CIBIL reports contains errors? It could be a wrong name spelling, a loan that isn't yours (Identity Theft), or a payment marked "Late" when it was on time.
             </p>
             <div className="bg-white border p-6 rounded-xl shadow-sm">
-                <h3 className="font-bold text-gray-900 mb-4">Steps to Dispute (Online Method):</h3>
+                <h4 className="font-bold text-gray-900 mb-4">Steps to Dispute (Online Method):</h4>
                 <ol className="list-decimal list-inside space-y-3 text-gray-700 text-sm">
                     <li>Log in to <strong>myscore.cibil.com</strong> (Consumer Login).</li>
                     <li>Go to the "Credit Report" section and verify your details.</li>
@@ -625,9 +625,9 @@ export default function CreditScoreImprovementPage() {
 
            {/* NEW SECTION: Why Loans Reject */}
            <section id="rejection-reasons" className="scroll-mt-32 mb-16">
-             <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 flex items-center">
+             <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 flex items-center">
                 <FontAwesomeIcon icon={faBan} className="mr-4 w-12 h-12" /> "My Score is 750, Why Was I Rejected?"
-             </h2>
+             </h3>
              <p className="mb-6 leading-relaxed">
                  A good score is necessary but not sufficient. Banks use internal policy checks that go beyond CIBIL.
              </p>
@@ -635,7 +635,7 @@ export default function CreditScoreImprovementPage() {
                  <div className="flex items-start">
                      <div className="flex-shrink-0 w-12 h-12 bg-gray-100 rounded-full flex items-center justify-center font-bold text-gray-700">1</div>
                      <div className="ml-6">
-                         <h3 className="text-xl font-bold text-gray-900">FOIR (Fixed Obligation to Income Ratio)</h3>
+                         <h4 className="text-xl font-bold text-gray-900">FOIR (Fixed Obligation to Income Ratio)</h4>
                          <p className="text-gray-600 mt-1">
                              If your current EMIs consume more than 50% of your monthly salary, banks will reject you even with an 800 score. They fear you can't afford another EMI.
                          </p>
@@ -644,7 +644,7 @@ export default function CreditScoreImprovementPage() {
                  <div className="flex items-start">
                      <div className="flex-shrink-0 w-12 h-12 bg-gray-100 rounded-full flex items-center justify-center font-bold text-gray-700">2</div>
                      <div className="ml-6">
-                         <h4 className="text-xl font-bold text-gray-900">Employer Category</h4>
+                         <h5 className="text-xl font-bold text-gray-900">Employer Category</h5>
                          <p className="text-gray-600 mt-1">
                              Banks categorize companies into Cat A, B, C, and Unlisted. If you work for a small unknown startup (Unlisted), you might face rejection or higher rates compared to an Infosys/TCS employee.
                          </p>
@@ -653,7 +653,7 @@ export default function CreditScoreImprovementPage() {
                  <div className="flex items-start">
                      <div className="flex-shrink-0 w-12 h-12 bg-gray-100 rounded-full flex items-center justify-center font-bold text-gray-700">3</div>
                      <div className="ml-6">
-                         <h4 className="text-xl font-bold text-gray-900">Recent "Bounce" History</h4>
+                         <h5 className="text-xl font-bold text-gray-900">Recent "Bounce" History</h5>
                          <p className="text-gray-600 mt-1">
                              CIBIL shows your repayment track. If you have "XXX" or frequent ECS bounces in the last 3 months, it signals cash flow issues.
                          </p>
@@ -662,7 +662,7 @@ export default function CreditScoreImprovementPage() {
                  <div className="flex items-start">
                      <div className="flex-shrink-0 w-12 h-12 bg-gray-100 rounded-full flex items-center justify-center font-bold text-gray-700">4</div>
                      <div className="ml-6">
-                         <h4 className="text-xl font-bold text-gray-900">Address Match / Negative Area</h4>
+                         <h5 className="text-xl font-bold text-gray-900">Address Match / Negative Area</h5>
                          <p className="text-gray-600 mt-1">
                              Some pin codes deemed "Negative Areas" (high default prevalence) are blacklisted by banks. Also, if your current address doesn't match your Aadhaar, KYC fails.
                          </p>
@@ -673,25 +673,25 @@ export default function CreditScoreImprovementPage() {
 
            {/* NEW SECTION: Golden Rules */}
            <section id="golden-rules" className="scroll-mt-32 mb-16">
-             <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 flex items-center">
+             <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 flex items-center">
                 <FontAwesomeIcon icon={faCheck} className="mr-4 w-12 h-12" /> The 3 Golden Rules for an 800+ Score
-             </h2>
+             </h3>
              <div className="bg-[#2E2E2E] text-[#DEDEDE] rounded-2xl p-8 shadow-lg">
                  <div className="grid md:grid-cols-3 gap-8 divide-y md:divide-y-0 md:divide-x divide-white/20">
                      <div className="text-center md:text-left pt-4 md:pt-0">
-                         <h3 className="text-2xl font-bold mb-4 text-white">The 30% Rule</h3>
+                         <h4 className="text-2xl font-bold mb-4 text-white">The 30% Rule</h4>
                          <p className="text-[#DEDEDE]">
                              Never use more than 30% of your credit limit. If your limit is ₹1L, stop at ₹30k. This is the single biggest "hack" for a fast score boost.
                          </p>
                      </div>
                      <div className="text-center md:text-left pt-8 md:pt-0 md:pl-8">
-                         <h3 className="text-2xl font-bold mb-4 text-white">The 6-Month Gap</h3>
+                         <h4 className="text-2xl font-bold mb-4 text-white">The 6-Month Gap</h4>
                          <p className="text-[#DEDEDE]">
                              Don't apply for loans back-to-back. Keep a gap of at least 6 months between major loan applications to show stability.
                          </p>
                      </div>
                      <div className="text-center md:text-left pt-8 md:pt-0 md:pl-8">
-                         <h3 className="text-2xl font-bold mb-4 text-white">Don't Close Old Cards</h3>
+                         <h4 className="text-2xl font-bold mb-4 text-white">Don't Close Old Cards</h4>
                          <p className="text-[#DEDEDE]">
                              Keep your oldest credit card active (even if you don't use it). It anchors your "Credit Age". Buy a coffee once a year to keep it alive.
                          </p>
@@ -702,27 +702,27 @@ export default function CreditScoreImprovementPage() {
 
            {/* NEW SECTION: The 4 Bureaus */}
            <section id="bureaus" className="scroll-mt-32 mb-16">
-               <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 flex items-center">
+               <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 flex items-center">
                    <FontAwesomeIcon icon={faBuildingColumns} className="mr-4 w-12 h-12" /> Not Just CIBIL: The 4 Bureaus
-               </h2>
+               </h3>
                <p className="mb-6 leading-relaxed">
                    In India, "CIBIL" is often used as a synonym for credit score, but there are actually four RBI-licensed Credit Information Companies (CICs). Banks may report to one or all of them. A discrepancy in one can ruin your chances.
                </p>
                <div className="grid md:grid-cols-2 gap-6">
                    <div className="bg-white p-6 rounded-xl border border-gray-200">
-                       <h3 className="font-bold text-lg text-gray-900 mb-2">1. TransUnion CIBIL</h3>
+                       <h4 className="font-bold text-lg text-gray-900 mb-2">1. TransUnion CIBIL</h4>
                        <p className="text-sm text-gray-600">The oldest and most widely used. Most banks (SBI, HDFC, ICICI) check this first. Score range: 300-900. A score of 750+ is ideal.</p>
                    </div>
                    <div className="bg-white p-6 rounded-xl border border-gray-200">
-                       <h4 className="font-bold text-lg text-gray-900 mb-2">2. Experian India</h4>
+                       <h5 className="font-bold text-lg text-gray-900 mb-2">2. Experian India</h5>
                        <p className="text-sm text-gray-600">Known for more detailed reports on credit cards and personal loans. Often used by credit card issuers like Amex and Standard Chartered.</p>
                    </div>
                    <div className="bg-white p-6 rounded-xl border border-gray-200">
-                       <h4 className="font-bold text-lg text-gray-900 mb-2">3. Equifax India</h4>
+                       <h5 className="font-bold text-lg text-gray-900 mb-2">3. Equifax India</h5>
                        <p className="text-sm text-gray-600">Stronger focus on microfinance and personal loans. NBFCs frequently check Equifax data.</p>
                    </div>
                    <div className="bg-white p-6 rounded-xl border border-gray-200">
-                       <h4 className="font-bold text-lg text-gray-900 mb-2">4. CRIF High Mark</h4>
+                       <h5 className="font-bold text-lg text-gray-900 mb-2">4. CRIF High Mark</h5>
                        <p className="text-sm text-gray-600">Extensive data on rural and micro-lending. If you have taken small business loans or MFI loans, this score matters.</p>
                    </div>
                </div>
@@ -733,9 +733,9 @@ export default function CreditScoreImprovementPage() {
 
            {/* NEW SECTION: Impact Analysis */}
            <section id="impact-analysis" className="scroll-mt-32 mb-16">
-               <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 flex items-center">
+               <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 flex items-center">
                    <FontAwesomeIcon icon={faArrowTrendUp} className="mr-4 w-12 h-12" /> Life After "Settlement"
-               </h2>
+               </h3>
                <div className="overflow-x-auto">
                    <table className="min-w-full text-sm text-left text-gray-700 bg-white border border-[#DEDEDE] shadow-sm rounded-lg overflow-hidden">
                        <thead className="text-xs text-[#2E2E2E] uppercase bg-gray-50 border-b border-[#DEDEDE]">
@@ -768,9 +768,9 @@ export default function CreditScoreImprovementPage() {
 
            {/* NEW SECTION: Commercial Credit */}
            <section id="commercial-cibil" className="scroll-mt-32 mb-16">
-               <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 flex items-center">
+               <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 flex items-center">
                    <FontAwesomeIcon icon={faBuildingColumns} className="mr-4 w-12 h-12" /> Business Owner? Meet "CIBIL Rank"
-               </h2>
+               </h3>
                <div className="bg-indigo-50 border border-indigo-100 rounded-2xl p-8">
                    <p className="text-indigo-900 mb-6 text-lg">
                        If you run a proprietorship or Pvt Ltd, your personal score is not enough. You have a <strong>Commercial CIBIL Rank (CMR)</strong> ranging from 1 to 10.
@@ -800,9 +800,9 @@ export default function CreditScoreImprovementPage() {
 
            {/* NEW SECTION: Scams Warning */}
            <section id="scams" className="scroll-mt-32 mb-16">
-               <h2 className="text-3xl md:text-4xl font-bold text-red-600 mb-8 flex items-center">
+               <h3 className="text-3xl md:text-4xl font-bold text-red-600 mb-8 flex items-center">
                    <FontAwesomeIcon icon={faBan} className="mr-4 w-12 h-12" /> BEWARE: Credit Repair Scams
-               </h2>
+               </h3>
                <p className="mb-6 leading-relaxed">
                    The market is full of agents promising "Instant CIBIL Fix". Do not fall for these traps:
                </p>
@@ -833,9 +833,9 @@ export default function CreditScoreImprovementPage() {
 
            {/* NEW SECTION: Glossary */}
            <section id="glossary" className="scroll-mt-32 mb-16">
-               <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 flex items-center">
+               <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 flex items-center">
                    <FontAwesomeIcon icon={faFileContract} className="mr-4 w-12 h-12" /> Know Your Report: A Glossary
-               </h2>
+               </h3>
                <div className="grid md:grid-cols-3 gap-4">
                    {[
                        { term: "DPD", desc: "Days Past Due. 000 is good. Anything else (030, 060, 090) kills your score." },
@@ -849,7 +849,7 @@ export default function CreditScoreImprovementPage() {
                        { term: "Suit Filed", desc: "Legal case filed by lender. Critical alert." }
                    ].map((item, i) => (
                        <div key={i} className="bg-white p-4 rounded-lg border border-[#DEDEDE]">
-                           <h3 className="font-black text-[#1F5EFF] mb-1">{item.term}</h3>
+                           <h4 className="font-black text-[#1F5EFF] mb-1">{item.term}</h4>
                            <p className="text-xs text-gray-600">{item.desc}</p>
                        </div>
                    ))}
@@ -858,9 +858,9 @@ export default function CreditScoreImprovementPage() {
 
           {/* Secured Cards */}
           <section id="secured-cards" className="scroll-mt-32 mb-16">
-            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 flex items-center">
+            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 flex items-center">
                <FontAwesomeIcon icon={faUnlockKeyhole} className="mr-4 w-12 h-12" /> The "Secret Weapon": Secured Credit Cards
-            </h2>
+            </h3>
             <p className="mb-6 leading-relaxed">
                If your score is &lt; 700, no bank will give you a normal credit card. This creates a Catch-22: 
                <em>"You need credit to build score, but you need score to get credit."</em>
@@ -868,10 +868,10 @@ export default function CreditScoreImprovementPage() {
                The solution is a <strong>Fixed Deposit (FD) Backed Credit Card</strong>.
             </p>
             
-            <h3 className="text-xl font-bold text-gray-900 mb-4">Top Secured Cards in India (2024)</h3>
+            <h4 className="text-xl font-bold text-gray-900 mb-4">Top Secured Cards in India (2024)</h4>
             <div className="grid md:grid-cols-2 gap-4 mb-8">
                  <div className="border border-gray-200 p-4 rounded-lg bg-white">
-                     <h4 className="font-bold text-indigo-700">IDFC FIRST WOW!</h4>
+                     <h5 className="font-bold text-indigo-700">IDFC FIRST WOW!</h5>
                      <ul className="text-sm text-gray-600 mt-2 list-disc ml-4">
                          <li>Minimum FD: ₹2,000</li>
                          <li>No Credit Check required.</li>
@@ -879,7 +879,7 @@ export default function CreditScoreImprovementPage() {
                      </ul>
                  </div>
                  <div className="border border-gray-200 p-4 rounded-lg bg-white">
-                     <h4 className="font-bold text-blue-700">SBI Unnati</h4>
+                     <h5 className="font-bold text-blue-700">SBI Unnati</h5>
                      <ul className="text-sm text-gray-600 mt-2 list-disc ml-4">
                          <li>Minimum FD: ₹25,000</li>
                          <li>Trust of SBI.</li>
@@ -887,7 +887,7 @@ export default function CreditScoreImprovementPage() {
                      </ul>
                  </div>
                  <div className="border border-gray-200 p-4 rounded-lg bg-white">
-                     <h4 className="font-bold text-red-700">Kotak 811 #DreamDifferent</h4>
+                     <h5 className="font-bold text-red-700">Kotak 811 #DreamDifferent</h5>
                      <ul className="text-sm text-gray-600 mt-2 list-disc ml-4">
                          <li>Minimum FD: ₹10,000</li>
                          <li>Zero Annual Fee.</li>
@@ -895,7 +895,7 @@ export default function CreditScoreImprovementPage() {
                      </ul>
                  </div>
                  <div className="border border-gray-200 p-4 rounded-lg bg-white">
-                     <h4 className="font-bold text-gray-800">OneCard (Metal)</h4>
+                     <h5 className="font-bold text-gray-800">OneCard (Metal)</h5>
                      <ul className="text-sm text-gray-600 mt-2 list-disc ml-4">
                          <li>Minimum FD: ₹5,000</li>
                          <li>Great App UI.</li>
@@ -911,9 +911,9 @@ export default function CreditScoreImprovementPage() {
           
            {/* Dispute Templates */}
            <section id="templates" className="scroll-mt-32 mb-16">
-            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 flex items-center">
+            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 flex items-center">
               <FontAwesomeIcon icon={faEnvelopeOpenText} className="mr-4 w-12 h-12" /> Dispute Letter Templates
-            </h2>
+            </h3>
             <p className="mb-6 leading-relaxed">
               If the online dispute fails, use these templates to send physical mail to the Nodal Officers.
             </p>
@@ -947,13 +947,13 @@ Regards,<br/>
  
           {/* Testimonials */}
           <section id="reviews" className="scroll-mt-32 text-center mb-16">
-             <h2 className="text-3xl font-black text-[#2E2E2E] mb-8">Success Stories</h2>
+             <h3 className="text-3xl font-black text-[#2E2E2E] mb-8">Success Stories</h3>
              <div className="grid md:grid-cols-2 gap-6 text-left">
                 <div className="bg-white p-6 rounded-2xl border border-[var(--color-border)] shadow-sm">
                    <div className="flex items-center mb-4">
                       <div className="w-10 h-10 rounded-full bg-blue-100 flex items-center justify-center font-bold text-blue-600 mr-3">A</div>
                       <div>
-                         <h3 className="font-bold">Amit Deshmukh</h3>
+                         <h4 className="font-bold">Amit Deshmukh</h4>
                          <p className="text-xs text-gray-500">IT Professional, Pune</p>
                       </div>
                    </div>
@@ -963,7 +963,7 @@ Regards,<br/>
                    <div className="flex items-center mb-4">
                       <div className="w-10 h-10 rounded-full bg-purple-100 flex items-center justify-center font-bold text-purple-600 mr-3">P</div>
                       <div>
-                         <h4 className="font-bold">Priya Sethi</h4>
+                         <h5 className="font-bold">Priya Sethi</h5>
                          <p className="text-xs text-gray-500">Teacher, Mumbai</p>
                       </div>
                    </div>
@@ -973,9 +973,9 @@ Regards,<br/>
           </section>
 
           {/* FAQs */}
-          <h2 id="faqs" className="scroll-mt-32 text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">
+          <h3 id="faqs" className="scroll-mt-32 text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">
             Frequently Asked Questions
-          </h2>
+          </h3>
           <div className="space-y-4 not-prose mb-20">
             {[
                { 
@@ -1041,7 +1041,7 @@ Regards,<br/>
           <div className="lg:hidden mt-16 mb-8">
             <div className="bg-[#2E2E2E] rounded-2xl shadow-xl overflow-hidden border border-green-500/20">
               <div className="bg-green-600 p-6 text-center text-white">
-                <h3 className="text-2xl font-black mb-2">Score Below 700?</h3>
+                <h4 className="text-2xl font-black mb-2">Score Below 700?</h4>
                 <p className="opacity-90 text-sm">Get a free report analysis and fix your CIBIL legally.</p>
               </div>
               <div className="p-8 text-center text-[#DEDEDE]">

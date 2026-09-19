@@ -260,15 +260,15 @@ export default function CheckBlockedAccountPage() {
             </section>
 
             <section id="method-1-upi-test" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 Method 1: The Quick UPI Test
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 This is the fastest and most reliable way to check your account status without logging into complex banking portals or waiting on hold with customer care.
               </p>
 
               <div className="bg-blue-50 border-l-8 border-[#1F5EFF] p-8 rounded-r-2xl mb-8">
-                <h3 className="text-xl font-black text-[#1F5EFF] mb-4">How to Perform the UPI Test</h3>
+                <h4 className="text-xl font-black text-[#1F5EFF] mb-4">How to Perform the UPI Test</h4>
                 <p className="text-blue-900 text-lg leading-relaxed mb-4">
                   Open your preferred UPI app (Google Pay, PhonePe, Paytm, etc.) linked to the bank account in question and follow these steps:
                 </p>
@@ -290,9 +290,9 @@ export default function CheckBlockedAccountPage() {
             </section>
 
             <section id="method-2-net-banking" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 Method 2: Net Banking & Lien Check
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 Sometimes, an account isn't completely frozen, but a "Lien" is marked against a specific amount. This means you can't use that portion of your funds, which could cause your EMI to bounce if the available balance drops below the required amount.
               </p>
@@ -301,7 +301,7 @@ export default function CheckBlockedAccountPage() {
                 <div className="flex gap-6">
                   <div className="flex-shrink-0 w-12 h-12 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center font-black text-xl shadow-lg">1</div>
                   <div>
-                    <h3 className="text-2xl font-bold text-[#2E2E2E] mb-2">Log In to Net Banking</h3>
+                    <h4 className="text-2xl font-bold text-[#2E2E2E] mb-2">Log In to Net Banking</h4>
                     <p className="text-lg text-gray-700 leading-relaxed">
                       Access your bank's net banking portal or mobile app. Look for immediate warning banners on the dashboard.
                     </p>
@@ -311,7 +311,7 @@ export default function CheckBlockedAccountPage() {
                 <div className="flex gap-6">
                   <div className="flex-shrink-0 w-12 h-12 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center font-black text-xl shadow-lg">2</div>
                   <div>
-                    <h3 className="text-2xl font-bold text-[#2E2E2E] mb-2">Check 'Account Details'</h3>
+                    <h4 className="text-2xl font-bold text-[#2E2E2E] mb-2">Check 'Account Details'</h4>
                     <p className="text-lg text-gray-700 leading-relaxed">
                       Navigate to the detailed view of your account. Look closely at the "Status" field. It should say "Active" or "Regular". If it says "Dormant", "Inactive", or "Frozen", your EMI will likely bounce.
                     </p>
@@ -321,7 +321,7 @@ export default function CheckBlockedAccountPage() {
                 <div className="flex gap-6">
                   <div className="flex-shrink-0 w-12 h-12 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center font-black text-xl shadow-lg">3</div>
                   <div>
-                    <h3 className="text-2xl font-bold text-[#2E2E2E] mb-2">Look for a 'Lien Amount'</h3>
+                    <h4 className="text-2xl font-bold text-[#2E2E2E] mb-2">Look for a 'Lien Amount'</h4>
                     <p className="text-lg text-gray-700 leading-relaxed">
                       Check if there is a value next to "Lien Amount". If your account balance is ₹50,000, but there is a lien of ₹20,000, your <em>effective usable balance</em> is only ₹30,000. Ensure the usable balance covers your EMI.
                     </p>
@@ -331,22 +331,22 @@ export default function CheckBlockedAccountPage() {
             </section>
             
             <section id="method-3-atm-balance" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 Method 3: ATM & Customer Care
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 If you don't use UPI or net banking, you can still verify your account status using traditional methods.
               </p>
               
               <div className="grid md:grid-cols-2 gap-6 my-8">
                 <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
-                  <h3 className="font-black text-[#1F5EFF] text-lg mb-3">The ATM Test</h3>
+                  <h4 className="font-black text-[#1F5EFF] text-lg mb-3">The ATM Test</h4>
                   <p className="text-gray-700 leading-relaxed">
                     Visit any ATM and attempt a small cash withdrawal or simply request a mini-statement. If the machine declines the transaction and displays a message about account restrictions, your account is blocked.
                   </p>
                 </div>
                 <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
-                  <h4 className="font-black text-[#1F5EFF] text-lg mb-3">Customer Care Hotline</h4>
+                  <h5 className="font-black text-[#1F5EFF] text-lg mb-3">Customer Care Hotline</h5>
                   <p className="text-gray-700 leading-relaxed">
                     Call your bank's toll-free customer care number. Use the IVR option to check your account balance. If the automated system states your account is inactive or frozen, take immediate action.
                   </p>
@@ -355,15 +355,15 @@ export default function CheckBlockedAccountPage() {
             </section>
 
             <section id="avoid-emi-bounce" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 How to Avoid EMI Bounce Due to Account Freeze
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 If you discover your account is blocked right before your EMI date, you must act fast to prevent the bounce and its associated penalties.
               </p>
               
               <div className="bg-white p-8 border border-[#DEDEDE] rounded-2xl shadow-sm mb-8">
-                <h3 className="text-xl font-bold mb-4 text-[#2E2E2E] underline">Emergency Action Plan</h3>
+                <h4 className="text-xl font-bold mb-4 text-[#2E2E2E] underline">Emergency Action Plan</h4>
                 <ul className="text-sm space-y-3 font-medium list-none text-gray-700">
                   <li className="flex items-start gap-2"><span className="w-1.5 h-1.5 bg-[#1F5EFF] rounded-full mt-2"></span> <strong>1. Contact Your Lender Immediately:</strong> Do not wait for the EMI to bounce. Call your loan provider, inform them your primary account is frozen, and ask for a payment link to pay via another account or UPI.</li>
                   <li className="flex items-start gap-2"><span className="w-1.5 h-1.5 bg-[#1F5EFF] rounded-full mt-2"></span> <strong>2. Use the Lender's Portal:</strong> Most lenders (banks and NBFCs) have an online portal where you can log in and make an advance EMI payment using a debit card or net banking from a <em>different, active bank account</em>.</li>
@@ -373,15 +373,15 @@ export default function CheckBlockedAccountPage() {
             </section>
             
             <section id="why-accounts-get-frozen" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 Common Reasons for Account Freezes
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 Understanding why banks block accounts can help you prevent it in the future.
               </p>
               
               <div className="bg-red-50 p-6 rounded-xl border border-red-100 mb-8">
-                <h3 className="text-xl font-black text-red-700 mb-3">Top Triggers for Account Blocks</h3>
+                <h4 className="text-xl font-black text-red-700 mb-3">Top Triggers for Account Blocks</h4>
                 <p className="text-red-900 leading-relaxed mb-2">
                   <strong>1. Pending KYC:</strong> If you haven't updated your KYC documents (PAN/Aadhaar) despite reminders, the bank will freeze debit transactions.
                 </p>
@@ -395,9 +395,9 @@ export default function CheckBlockedAccountPage() {
             </section>
 
             <section id="success-stories" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 Client Success Stories
-              </h2>
+              </h3>
               <div className="grid md:grid-cols-2 gap-6 my-8">
                 <div className="bg-white p-8 rounded-[30px] border border-[#DEDEDE] shadow-sm hover:shadow-xl group transition-all">
                   <div className="flex items-center gap-4 mb-6">
@@ -405,7 +405,7 @@ export default function CheckBlockedAccountPage() {
                       VS
                     </div>
                     <div>
-                      <h3 className="font-bold text-gray-900">Vikram S.</h3>
+                      <h4 className="font-bold text-gray-900">Vikram S.</h4>
                       <div className="flex text-yellow-400">
                         <svg className="w-4 h-4 fill-current" viewBox="0 0 20 20"><path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z"/></svg>
                         <svg className="w-4 h-4 fill-current" viewBox="0 0 20 20"><path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z"/></svg>
@@ -430,7 +430,7 @@ export default function CheckBlockedAccountPage() {
                       AP
                     </div>
                     <div>
-                      <h4 className="font-bold text-gray-900">Anjali P.</h4>
+                      <h5 className="font-bold text-gray-900">Anjali P.</h5>
                       <div className="flex text-yellow-400">
                         <svg className="w-4 h-4 fill-current" viewBox="0 0 20 20"><path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z"/></svg>
                         <svg className="w-4 h-4 fill-current" viewBox="0 0 20 20"><path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z"/></svg>
@@ -452,13 +452,13 @@ export default function CheckBlockedAccountPage() {
             </section>
 
             <section id="faqs" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 Frequently Asked Questions
-              </h2>
+              </h3>
               <div className="space-y-4">
                 {jsonLd["@graph"].find(item => item["@type"] === "FAQPage")?.mainEntity?.map((faq: any, index: number) => (
                   <div key={index} className="bg-white border border-[#DEDEDE] rounded-xl p-6 hover:shadow-md transition-shadow">
-                    <h3 className="text-xl font-bold text-[#2E2E2E] mb-3">{faq.name}</h3>
+                    <h4 className="text-xl font-bold text-[#2E2E2E] mb-3">{faq.name}</h4>
                     <p className="text-gray-700 leading-relaxed">{faq.acceptedAnswer.text}</p>
                   </div>
                 ))}
@@ -467,7 +467,7 @@ export default function CheckBlockedAccountPage() {
 
             <div className="bg-[#2E2E2E] text-white p-12 rounded-[40px] text-center mt-24 relative overflow-hidden group">
               <div className="absolute inset-0 bg-[#1F5EFF] opacity-0 group-hover:opacity-5 transition-opacity"></div>
-              <h3 className="text-3xl font-black mb-6 relative z-10">Don't Let an Account Freeze Ruin Your Credit</h3>
+              <h4 className="text-3xl font-black mb-6 relative z-10">Don't Let an Account Freeze Ruin Your Credit</h4>
               <p className="text-xl opacity-90 mb-8 relative z-10 max-w-2xl mx-auto">
                 Is your bank account blocked right before your EMI date? Don't panic. Our legal experts can help you communicate with your bank, lift the freeze, and protect you from bounce penalties.
               </p>

@@ -278,7 +278,7 @@ export default function SecuredVsUnsecuredPage() {
                                 In the Indian banking system, not all debts are created equal. A bank looks at a defaulter with a ₹50 Lakh Home Loan very differently than a defaulter with a ₹50 Lakh Credit Card debt. The presence or absence of collateral (security) dictates the bank's willingness to negotiate, the percentage of waiver they will offer, and the speed at which তারা will resort to legal force.
                             </p>
                             <div className="bg-[#1F5EFF]/5 p-8 rounded-2xl border-l-4 border-[#1F5EFF] mb-8">
-                                <h3 className="text-lg font-bold text-[#2E2E2E] mb-4 uppercase tracking-wide">The Leverage Principle</h3>
+                                <h4 className="text-lg font-bold text-[#2E2E2E] mb-4 uppercase tracking-wide">The Leverage Principle</h4>
                                 <p className="text-[#2E2E2E]/80">
                                     In an unsecured loan, the borrower has the leverage because the bank has nothing to seize. In a secured loan, the bank has the leverage because they hold your home or car. Understanding this power dynamic is the first step to a successful settlement.
                                 </p>
@@ -286,48 +286,48 @@ export default function SecuredVsUnsecuredPage() {
                         </section>
 
                         <section id="unsecured-basics" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                                 Unsecured Loans: The Prime Candidates for Settlement
-                            </h2>
+                            </h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 Unsecured loans include Personal Loans, Credit Cards, Professional Loans without collateral, and most FinTech app loans. These are the easiest to settle.
                             </p>
                             <div className="grid md:grid-cols-2 gap-6 mb-8">
                                 <div className="bg-emerald-50 p-6 rounded-xl border border-emerald-100">
                                     <FontAwesomeIcon icon={faLockOpen} className="text-emerald-600 mb-4 w-6 h-6" />
-                                    <h3 className="font-bold text-lg mb-2 text-emerald-900">High Waiver Potential</h3>
+                                    <h4 className="font-bold text-lg mb-2 text-emerald-900">High Waiver Potential</h4>
                                     <p className="text-emerald-800 text-sm">Waivers of 50% to 75% are common after 180 days of default, as banks treat these as 'Loss Assets'.</p>
                                 </div>
                                 <div className="bg-emerald-50 p-6 rounded-xl border border-emerald-100">
                                     <FontAwesomeIcon icon={faHandHoldingDollar} className="text-emerald-600 mb-4 w-6 h-6" />
-                                    <h4 className="font-bold text-lg mb-2 text-emerald-900">Swift Negotiation</h4>
+                                    <h5 className="font-bold text-lg mb-2 text-emerald-900">Swift Negotiation</h5>
                                     <p className="text-emerald-800 text-sm">Since there is no property to auction, banks prefer a quick lump sum to clean their balance sheets.</p>
                                 </div>
                             </div>
                         </section>
 
                         <section id="unsecured-negotiability" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                                 Why Unsecured Negotiations Succeed
-                            </h2>
+                            </h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 For an unsecured debt, a bank's only recourse is to file a civil suit for recovery. In India, a civil suit can take 10 to 15 years to reach a conclusion. The legal fees, court fees, and man-hours often exceed the loan amount itself. Therefore, a bank's "Risk Management" team usually approves a 50% waiver because 50% today is worth more than 100% after 15 years in court.
                             </p>
                         </section>
 
                         <section id="secured-mechanics" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                                 Secured Loans: The Asset-Backed Wall
-                            </h2>
+                            </h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 Secured loans include Home Loans, Loan Against Property (LAP), Car Loans, and Gold Loans. Here, the "Security" is the bank's insurance policy against your default.
                             </p>
                         </section>
 
                         <section id="sarfaesi-act" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight text-red-600">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight text-red-600">
                                 The Power of SARFAESI Act, 2002
-                            </h2>
+                            </h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 The SARFAESI (Securing and Reconstruction of Financial Assets and Enforcement of Security Interest) Act is the bank's strongest weapon. It allows the bank to:
                             </p>
@@ -351,59 +351,59 @@ export default function SecuredVsUnsecuredPage() {
                         </section>
 
                         <section id="home-loan-settlement" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                                 Can You Settle a Home Loan or LAP?
-                            </h2>
+                            </h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 Settlement for a home loan is rare but NOT impossible. A bank will only offer a settlement (One-Time Settlement or OTS) for a secured loan in these 3 scenarios:
                             </p>
                             <div className="space-y-4 mb-8">
                                 <div className="bg-gray-50 p-6 rounded-xl border border-gray-200">
-                                    <h3 className="font-bold text-gray-900 mb-2">1. The Asset Value Drop</h3>
+                                    <h4 className="font-bold text-gray-900 mb-2">1. The Asset Value Drop</h4>
                                     <p className="text-sm text-gray-600">If the property market crashed or the building is in a dilapidated state where an auction won't cover even the principal amount, the bank will settle.</p>
                                 </div>
                                 <div className="bg-gray-50 p-6 rounded-xl border border-gray-200">
-                                    <h4 className="font-bold text-gray-900 mb-2">2. Title Disputes</h4>
+                                    <h5 className="font-bold text-gray-900 mb-2">2. Title Disputes</h5>
                                     <p className="text-sm text-gray-600">If there is a massive legal defect in the property title that prevents a clear auction, the bank would rather take a 30% loss via settlement than hold a dead asset.</p>
                                 </div>
                                 <div className="bg-gray-50 p-6 rounded-xl border border-gray-200">
-                                    <h5 className="font-bold text-gray-900 mb-2">3. Strategic Compromise</h5>
+                                    <h6 className="font-bold text-gray-900 mb-2">3. Strategic Compromise</h6>
                                     <p className="text-sm text-gray-600">In some central government OTS schemes (like those for PSU banks), they offer structured settlements even for secured micro-loans to clean up the overall NPA ratio.</p>
                                 </div>
                             </div>
                         </section>
 
                         <section id="vehicle-loan-dynamics" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                                 Car and Two-Wheeler Defaults: Repossession First
-                            </h2>
+                            </h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 Vehicle loans are highly aggressive. If you miss 3 EMIs, "Recovery Vans" will actively search for the vehicle to tow it. Once towed, the bank auctions it at a massive discount (often 30% to 50% of market value). If the sale doesn't cover the loan, they will send you a notice for the remaining balance. *This* remaining balance is now unsecured, and you can easily settle it for 20% to 30% of its value.
                             </p>
                         </section>
 
                         <section id="gold-loans" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                                 The Gold Loan Reality: Zero Settlement Chance
-                            </h2>
+                            </h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 Gold is the most liquid collateral in the world. If you default on a loan against gold, the bank doesn't need to negotiate with you. They don't need a court. They don't need SARFAESI. They just sell the gold to a licensed refinery. Therefore, never expect a settlement on a gold loan. Pay it, or lose the jewelry.
                             </p>
                         </section>
 
                         <section id="valuation-gap" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                                 The "Valuation Crisis" in Negotiations
-                            </h2>
+                            </h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 The core of a secured loan settlement is the property valuation. Banks use "Approved Valuers" who often overestimate the property value so bank managers don't get in trouble for "under-valuing national property." You must counter this by getting your own valuation to show that after the "forced sale" and "legal costs," the bank is actually better off taking your settlement offer than going through an auction.
                             </p>
                         </section>
 
                         <section id="expert-strategy" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                                 Strategic Order of Payment: Save the Assets
-                            </h2>
+                            </h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 At SettleLoans, our hierarchy of advice is consistent:
                                 <br /><br />
@@ -416,7 +416,7 @@ export default function SecuredVsUnsecuredPage() {
                         </section>
 
                         <section id="faqs" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 text-center uppercase tracking-tighter">Secured vs Unsecured FAQs</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 text-center uppercase tracking-tighter">Secured vs Unsecured FAQs</h3>
                             <div className="space-y-4 not-prose">
                                 {
                                     [
@@ -476,7 +476,7 @@ export default function SecuredVsUnsecuredPage() {
                             </div>
                         </section>
 
-                        <h2 id="case-studies" className="scroll-mt-32 text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 text-center uppercase tracking-tighter">Strategic Debt Outcomes</h2>
+                        <h3 id="case-studies" className="scroll-mt-32 text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 text-center uppercase tracking-tighter">Strategic Debt Outcomes</h3>
                         <div className="grid md:grid-cols-2 gap-6 not-prose mb-16 font-sans">
                             {[
                                 {
@@ -511,7 +511,7 @@ export default function SecuredVsUnsecuredPage() {
                                 <div key={i} className="bg-white p-6 rounded-2xl border border-[var(--color-border)] shadow-sm hover:shadow-md transition-all">
                                     <div className="flex items-center mb-4">
                                         <div className="w-10 h-10 rounded-full bg-[#1F5EFF]/10 flex items-center justify-center font-bold text-[#1F5EFF] mr-3">{review.name.charAt(0)}</div>
-                                        <div><h3 className="font-bold text-[#2E2E2E] text-base">{review.name}</h3><p className="text-[10px] text-gray-400 font-sans tracking-wide">{review.loc}</p></div>
+                                        <div><h4 className="font-bold text-[#2E2E2E] text-base">{review.name}</h4><p className="text-[10px] text-gray-400 font-sans tracking-wide">{review.loc}</p></div>
                                         <div className="ml-auto text-yellow-400 text-[10px] flex gap-0.5">
                                             {[...Array(5)].map((_, i) => <FontAwesomeIcon key={i} icon={faStar} className="w-2.5 h-2.5" />)}
                                         </div>
@@ -539,7 +539,7 @@ export default function SecuredVsUnsecuredPage() {
                         <section className="bg-[#1F5EFF] rounded-[15px] p-8 md:p-16 text-center text-white relative overflow-hidden shadow-2xl">
                             <div className="absolute top-0 right-0 w-64 h-64 bg-white/10 rounded-full -mr-32 -mt-32 blur-3xl"></div>
                             <div className="relative z-10">
-                                <h2 className="text-3xl md:text-6xl font-black mb-8 uppercase tracking-tighter text-[#DEDEDE]">Protect Your Assets</h2>
+                                <h3 className="text-3xl md:text-6xl font-black mb-8 uppercase tracking-tighter text-[#DEDEDE]">Protect Your Assets</h3>
                                 <p className="text-lg md:text-2xl opacity-90 max-w-2xl mx-auto mb-12 leading-tight font-normal text-[#DEDEDE] text-pretty">
                                     Don't let a secured debt spiral out of control. Our experts help you navigate SARFAESI and negotiate the best possible exit.
                                 </p>

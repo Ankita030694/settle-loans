@@ -274,20 +274,20 @@ export default function Page() {
             </section>
 
             <section id="property-valuation-metrics" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 Types of Property Valuation
-              </h2>
+              </h3>
               <div className="grid md:grid-cols-3 gap-4 my-8">
                   <div className="bg-gray-50 p-4 rounded-xl border border-gray-200">
-                    <h3 className="font-bold text-[#1F5EFF] mb-2">Market Value</h3>
+                    <h4 className="font-bold text-[#1F5EFF] mb-2">Market Value</h4>
                     <p className="text-sm text-gray-600">The price the property would fetch in an open, competitive market between a willing buyer and seller under normal conditions.</p>
                   </div>
                   <div className="bg-gray-50 p-4 rounded-xl border border-gray-200">
-                    <h4 className="font-bold text-[#1F5EFF] mb-2">Guideline / Circle Rate</h4>
+                    <h5 className="font-bold text-[#1F5EFF] mb-2">Guideline / Circle Rate</h5>
                     <p className="text-sm text-gray-600">The minimum value of the property fixed by the state government for the purpose of paying stamp duty and registration charges.</p>
                   </div>
                   <div className="bg-gray-50 p-4 rounded-xl border border-gray-200">
-                    <h5 className="font-bold text-[#1F5EFF] mb-2">Distress / Forced Sale Value</h5>
+                    <h6 className="font-bold text-[#1F5EFF] mb-2">Distress / Forced Sale Value</h6>
                     <p className="text-sm text-gray-600">The discounted price expected when a property must be sold rapidly (like in an auction). Banks almost always base the reserve price on this.</p>
                   </div>
                 </div>
@@ -299,15 +299,15 @@ export default function Page() {
 
             {/* Undervaluation Section */}
             <section id="undervaluation-sarfaesi" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 Undervaluation of Property under SARFAESI
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 Under Rule 8(5) of the Security Interest (Enforcement) Rules, 2002, banks are explicitly required to obtain a valuation report from an approved valuer and consult the borrower before fixing the reserve price. However, the procedure is frequently reduced to a mere formality, heavily skewed in favor of achieving a rapid sale.
               </p>
               
               <div className="bg-blue-50 border-l-8 border-[#1F5EFF] p-8 rounded-r-2xl mb-8">
-                <h3 className="text-xl font-black text-[#1F5EFF] mb-4">Why Banks Continuously Undervalue Properties</h3>
+                <h4 className="text-xl font-black text-[#1F5EFF] mb-4">Why Banks Continuously Undervalue Properties</h4>
                 <ul className="space-y-4">
                   <li className="flex gap-3 items-start">
                     <div className="mt-1.5 w-2 h-2 rounded-full bg-[#1F5EFF] flex-shrink-0"></div>
@@ -330,11 +330,11 @@ export default function Page() {
             </section>
 
             <section id="dangers-of-undervaluation" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 The Danger of Residual Debt
-              </h2>
+              </h3>
               <div className="bg-red-50 p-6 rounded-xl border border-red-100 mb-8">
-                <h3 className="text-lg font-bold text-red-700 mb-2">Warning: The Devastating Danger of Undervaluation</h3>
+                <h4 className="text-lg font-bold text-red-700 mb-2">Warning: The Devastating Danger of Undervaluation</h4>
                 <p className="text-red-900 mb-4">
                   Many borrowers mistakenly believe that once the bank seizes and auctions the house, the loan is fully settled. This is completely false.
                 </p>
@@ -346,9 +346,9 @@ export default function Page() {
 
             {/* Challenging Auction Price */}
             <section id="challenging-auction-price" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 How to Challenge Bank Auction Price
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 The law provides safeguards against arbitrary undervaluation. Rule 8(5) mandates the authorized officer to consult the borrower before fixing the reserve price. The moment you receive the 30-day Sale Notice detailing the reserve price, you must act rapidly.
               </p>
@@ -357,7 +357,7 @@ export default function Page() {
                 <div className="flex gap-6">
                   <div className="flex-shrink-0 w-12 h-12 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center font-black text-xl shadow-lg">1</div>
                   <div>
-                    <h3 className="text-xl font-bold text-[#2E2E2E] mb-2">Demand the Official Valuation Report</h3>
+                    <h4 className="text-xl font-bold text-[#2E2E2E] mb-2">Demand the Official Valuation Report</h4>
                     <p className="text-gray-600">As the legal owner of the property, you have the absolute right to request a certified copy of the valuation report relied upon by the bank. Write a formal legal notice to the Authorized Officer demanding this document. Carefully review the valuation methodology, the date of inspection, and the comparable property sales the valuer used.</p>
                   </div>
                 </div>
@@ -365,7 +365,7 @@ export default function Page() {
                 <div className="flex gap-6">
                   <div className="flex-shrink-0 w-12 h-12 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center font-black text-xl shadow-lg">2</div>
                   <div>
-                    <h3 className="text-xl font-bold text-[#2E2E2E] mb-2">Commission an Independent Valuation</h3>
+                    <h4 className="text-xl font-bold text-[#2E2E2E] mb-2">Commission an Independent Valuation</h4>
                     <p className="text-gray-600">Do not rely solely on your own estimates. Hire an independent, government-approved valuer (preferably one registered under the Wealth Tax Act) to conduct a thorough assessment of your property. Ensure they include recent high-value transactions in your area. This report is your strongest piece of legal evidence.</p>
                   </div>
                 </div>
@@ -373,7 +373,7 @@ export default function Page() {
                 <div className="flex gap-6">
                   <div className="flex-shrink-0 w-12 h-12 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center font-black text-xl shadow-lg">3</div>
                   <div>
-                    <h3 className="text-xl font-bold text-[#2E2E2E] mb-2">Submit a Formal Legal Objection</h3>
+                    <h4 className="text-xl font-bold text-[#2E2E2E] mb-2">Submit a Formal Legal Objection</h4>
                     <p className="text-gray-600">Draft a comprehensive objection letter to the Authorized Officer. Point out the discrepancies between the bank's valuation and the market reality. Attach your independent valuation report, recent property sale deeds from your society, and local government circle rate notifications. Explicitly demand a revision of the reserve price.</p>
                   </div>
                 </div>
@@ -381,7 +381,7 @@ export default function Page() {
                 <div className="flex gap-6">
                   <div className="flex-shrink-0 w-12 h-12 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center font-black text-xl shadow-lg">4</div>
                   <div>
-                    <h3 className="text-xl font-bold text-[#2E2E2E] mb-2">Bring a Ready Buyer (Optional but Powerful)</h3>
+                    <h4 className="text-xl font-bold text-[#2E2E2E] mb-2">Bring a Ready Buyer (Optional but Powerful)</h4>
                     <p className="text-gray-600">If you have a buyer willing to pay significantly more than the bank's reserve price, you can submit their offer in writing along with an earnest money deposit (EMD) demand draft. The bank is legally bound to accept the higher price or allow you to sell via private treaty, provided the loan dues are cleared.</p>
                   </div>
                 </div>
@@ -390,39 +390,39 @@ export default function Page() {
 
             {/* Legal Remedies */}
             <section id="legal-remedies" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 Legal Remedies & DRT Appeals
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 Banks often ignore borrower objections and rush to publish the auction notice in newspapers. When this happens, your only effective recourse is judicial intervention. The Debt Recovery Tribunal (DRT) is the primary forum for challenging SARFAESI actions.
               </p>
 
               <div className="grid md:grid-cols-2 gap-6 my-8">
                 <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE] hover:shadow-md transition-shadow">
-                  <h3 className="font-black text-[#1F5EFF] text-lg mb-3">Filing a Section 17 Appeal (SA)</h3>
+                  <h4 className="font-black text-[#1F5EFF] text-lg mb-3">Filing a Section 17 Appeal (SA)</h4>
                   <p className="text-gray-600">Under Section 17 of the SARFAESI Act, any person aggrieved by the bank's measures can approach the DRT. You must file a Securitization Application (SA) challenging the specific fixing of the reserve price and the failure of the bank to consult you under Rule 8(5).</p>
                 </div>
                 <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE] hover:shadow-md transition-shadow">
-                  <h4 className="font-black text-[#1F5EFF] text-lg mb-3">Obtaining an Interim Stay Order</h4>
+                  <h5 className="font-black text-[#1F5EFF] text-lg mb-3">Obtaining an Interim Stay Order</h5>
                   <p className="text-gray-600">Filing an SA does not automatically stop the auction. Your lawyer must urgently press for an Interim Relief (Stay Order). If you present prima facie evidence of gross undervaluation (via your independent report), the DRT frequently stays the auction pending a final hearing.</p>
                 </div>
                 <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE] hover:shadow-md transition-shadow">
-                  <h4 className="font-black text-[#1F5EFF] text-lg mb-3">Exposing Procedural Violations</h4>
+                  <h5 className="font-black text-[#1F5EFF] text-lg mb-3">Exposing Procedural Violations</h5>
                   <p className="text-gray-600">DRTs are strict about procedure. If the bank failed to serve the 30-day notice properly, failed to publish it in two leading newspapers (one in the local language), or failed to affix it to the property, the entire auction process can be quashed as illegal.</p>
                 </div>
                 <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE] hover:shadow-md transition-shadow">
-                  <h4 className="font-black text-[#1F5EFF] text-lg mb-3">High Court Writ Petitions</h4>
+                  <h5 className="font-black text-[#1F5EFF] text-lg mb-3">High Court Writ Petitions</h5>
                   <p className="text-gray-600">While DRT is the standard route, in cases of severe malafide intent by bank officials, fraud, or blatant violation of fundamental rights, a writ petition under Article 226 of the Constitution can be filed directly in the High Court.</p>
                 </div>
               </div>
             </section>
 
             <section id="landmark-precedents" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 Landmark Supreme Court Rulings
-              </h2>
+              </h3>
               <div className="bg-gray-50 p-8 rounded-2xl mb-8 border border-gray-200">
-                <h3 className="text-xl font-bold text-[#2E2E2E] mb-3">Key Legal Insights</h3>
+                <h4 className="text-xl font-bold text-[#2E2E2E] mb-3">Key Legal Insights</h4>
                 <p className="text-gray-700 mb-4">
                   The Supreme Court of India and various High Courts have consistently laid down that:
                 </p>
@@ -436,9 +436,9 @@ export default function Page() {
 
             {/* Success Stories */}
             <section id="success-stories" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 Success Stories: Stopping Undervalued Auctions
-              </h2>
+              </h3>
               <div className="grid md:grid-cols-2 gap-6 my-8">
                 {/* Review Card 1 */}
                 <div className="bg-white p-8 rounded-[30px] border border-[#DEDEDE] shadow-sm hover:shadow-xl group transition-all">
@@ -447,7 +447,7 @@ export default function Page() {
                       R
                     </div>
                     <div>
-                      <h3 className="font-bold text-[#2E2E2E]">Rajesh M.</h3>
+                      <h4 className="font-bold text-[#2E2E2E]">Rajesh M.</h4>
                       <div className="flex text-yellow-400">
                         <svg className="w-4 h-4 fill-current" viewBox="0 0 20 20"><path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z"/></svg>
                         <svg className="w-4 h-4 fill-current" viewBox="0 0 20 20"><path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z"/></svg>
@@ -471,7 +471,7 @@ export default function Page() {
                       S
                     </div>
                     <div>
-                      <h4 className="font-bold text-[#2E2E2E]">Suresh K.</h4>
+                      <h5 className="font-bold text-[#2E2E2E]">Suresh K.</h5>
                       <div className="flex text-yellow-400">
                         <svg className="w-4 h-4 fill-current" viewBox="0 0 20 20"><path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z"/></svg>
                         <svg className="w-4 h-4 fill-current" viewBox="0 0 20 20"><path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z"/></svg>
@@ -492,7 +492,7 @@ export default function Page() {
 
             {/* FAQs */}
             <section id="faqs" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">Frequently Asked Questions</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">Frequently Asked Questions</h3>
               <div className="space-y-4">
                 <details name="faq-accordion" className="bg-white border border-[#DEDEDE] rounded-xl p-6 hover:shadow-md group cursor-pointer transition-shadow">
                   <summary className="font-bold text-lg text-[#2E2E2E] group-open:text-[#1F5EFF] list-none flex justify-between items-center">
@@ -600,7 +600,7 @@ export default function Page() {
             <div className="bg-[#2E2E2E] text-white p-12 rounded-[40px] text-center mt-24 relative overflow-hidden group">
               <div className="absolute inset-0 bg-[#1F5EFF] opacity-0 group-hover:opacity-5 transition-opacity"></div>
               <div className="relative z-10">
-                <h3 className="text-3xl font-black mb-6">Stop the Undervalued Auction Today</h3>
+                <h4 className="text-3xl font-black mb-6">Stop the Undervalued Auction Today</h4>
                 <p className="text-lg text-gray-300 mb-8 max-w-2xl mx-auto">
                   Is the bank trying to auction your house for pennies? Learn how to legally challenge a low 'Reserve Price' and protect your property's true value. Get expert legal intervention now.
                 </p>

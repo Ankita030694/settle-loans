@@ -254,15 +254,15 @@ export default function MinorChildAccountDeductionPage() {
             </section>
 
             <section id="right-of-set-off" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 The "Right of Set-Off" Myth
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 When confronted about deducting money from a child's account, bank managers often blindly cite their "Right of Set-Off" or "Banker's Lien". It is crucial to understand why this legal concept fails entirely in this scenario.
               </p>
 
               <div className="bg-blue-50 border-l-8 border-[#1F5EFF] p-8 rounded-r-2xl mb-8">
-                <h3 className="text-xl font-black text-[#1F5EFF] mb-4">Why the Right of Set-Off Does Not Apply</h3>
+                <h4 className="text-xl font-black text-[#1F5EFF] mb-4">Why the Right of Set-Off Does Not Apply</h4>
                 <p className="text-blue-900 text-lg leading-relaxed mb-4">
                   The Right of Set-Off allows a bank to adjust the outstanding balance of a borrower by debiting another account held by the same borrower. However, this right comes with strict conditions:
                 </p>
@@ -284,34 +284,34 @@ export default function MinorChildAccountDeductionPage() {
             </section>
 
             <section id="minor-account-protections" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 Minor Account Legal Protections
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 The Indian legal system provides robust protections for minors. Understanding these safeguards will help you realize the extent of the bank's misconduct.
               </p>
 
               <div className="grid md:grid-cols-2 gap-6 my-8">
                 <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
-                  <h3 className="font-black text-[#1F5EFF] text-lg mb-3">Guardian vs. Owner</h3>
+                  <h4 className="font-black text-[#1F5EFF] text-lg mb-3">Guardian vs. Owner</h4>
                   <p className="text-gray-700 leading-relaxed">
                     A guardian's role is to protect and manage the minor's assets for the minor's benefit. The law strictly prohibits the guardian from using the minor's funds for personal debts. By extension, the bank cannot force such a transaction.
                   </p>
                 </div>
                 <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
-                  <h4 className="font-black text-[#1F5EFF] text-lg mb-3">Void Contracts</h4>
+                  <h5 className="font-black text-[#1F5EFF] text-lg mb-3">Void Contracts</h5>
                   <p className="text-gray-700 leading-relaxed">
                     Under the Indian Contract Act, an agreement with a minor is void ab initio. The minor cannot be held liable for a loan agreement signed by the parent, even if the parent attempted to link the accounts.
                   </p>
                 </div>
                 <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
-                  <h4 className="font-black text-[#1F5EFF] text-lg mb-3">Fiduciary Breach</h4>
+                  <h5 className="font-black text-[#1F5EFF] text-lg mb-3">Fiduciary Breach</h5>
                   <p className="text-gray-700 leading-relaxed">
                     If a bank facilitates the transfer of funds from a minor's account to clear a parent's debt, the bank is actively participating in a breach of fiduciary duty by the guardian.
                   </p>
                 </div>
                 <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
-                  <h4 className="font-black text-[#1F5EFF] text-lg mb-3">Banking Ombudsman Act</h4>
+                  <h5 className="font-black text-[#1F5EFF] text-lg mb-3">Banking Ombudsman Act</h5>
                   <p className="text-gray-700 leading-relaxed">
                     The RBI Banking Ombudsman treats unauthorized deductions from minor accounts very seriously. Banks are often ordered to refund the money along with penal interest for such blatant violations.
                   </p>
@@ -320,9 +320,9 @@ export default function MinorChildAccountDeductionPage() {
             </section>
 
             <section id="steps-to-take" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 Steps to Recover the Deducted Money
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 If the bank has illegally deducted money from your child's account, you must act swiftly and methodically to reverse the transaction. Do not accept verbal excuses from the branch manager.
               </p>
@@ -331,7 +331,7 @@ export default function MinorChildAccountDeductionPage() {
                 <div className="flex gap-6">
                   <div className="flex-shrink-0 w-12 h-12 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center font-black text-xl shadow-lg">1</div>
                   <div>
-                    <h3 className="text-2xl font-bold text-[#2E2E2E] mb-2">Gather Immediate Proof</h3>
+                    <h4 className="text-2xl font-bold text-[#2E2E2E] mb-2">Gather Immediate Proof</h4>
                     <p className="text-lg text-gray-700 leading-relaxed">
                       Download the minor's account statement showing the exact deduction and the date. Also, gather proof that the account is indeed a minor's savings account (like the account opening form or passbook).
                     </p>
@@ -341,7 +341,7 @@ export default function MinorChildAccountDeductionPage() {
                 <div className="flex gap-6">
                   <div className="flex-shrink-0 w-12 h-12 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center font-black text-xl shadow-lg">2</div>
                   <div>
-                    <h3 className="text-2xl font-bold text-[#2E2E2E] mb-2">Send a Formal Legal Notice</h3>
+                    <h4 className="text-2xl font-bold text-[#2E2E2E] mb-2">Send a Formal Legal Notice</h4>
                     <p className="text-lg text-gray-700 leading-relaxed">
                       Do not rely on emails alone. Have a lawyer draft a strong legal notice addressed to the Branch Manager and the Nodal Officer, citing the illegality of the set-off on a minor's account and demanding immediate reversal within 7 days.
                     </p>
@@ -351,7 +351,7 @@ export default function MinorChildAccountDeductionPage() {
                 <div className="flex gap-6">
                   <div className="flex-shrink-0 w-12 h-12 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center font-black text-xl shadow-lg">3</div>
                   <div>
-                    <h3 className="text-2xl font-bold text-[#2E2E2E] mb-2">Escalate to the Banking Ombudsman</h3>
+                    <h4 className="text-2xl font-bold text-[#2E2E2E] mb-2">Escalate to the Banking Ombudsman</h4>
                     <p className="text-lg text-gray-700 leading-relaxed">
                       If the bank fails to refund the money within 30 days of your formal complaint, immediately file a grievance on the RBI CMS (Complaint Management System) portal under the category of "unauthorized deduction/debit."
                     </p>
@@ -361,9 +361,9 @@ export default function MinorChildAccountDeductionPage() {
             </section>
 
             <section id="rbi-guidelines" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 RBI Guidelines on Minor Accounts
-              </h2>
+              </h3>
               <div className="bg-gray-50 p-8 rounded-2xl mb-8 border border-gray-200">
                 <p className="text-gray-800 text-lg leading-relaxed mb-4">
                   The Reserve Bank of India has clear guidelines designed to foster financial inclusion for minors while protecting their assets. According to RBI directives:
@@ -380,11 +380,11 @@ export default function MinorChildAccountDeductionPage() {
             </section>
 
             <section id="illegality-warning" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 The Illegality of Auto-Debits from Minor Accounts
-              </h2>
+              </h3>
               <div className="bg-red-50 p-6 rounded-xl border border-red-100 mb-8">
-                <h3 className="text-xl font-black text-red-700 mb-3">Warning: Invalid NACH Mandates</h3>
+                <h4 className="text-xl font-black text-red-700 mb-3">Warning: Invalid NACH Mandates</h4>
                 <p className="text-red-900 leading-relaxed mb-4">
                   Sometimes, at the time of loan disbursement, bank executives aggressively push borrowers to link any available savings account for auto-debit (NACH/ECS) of the EMI. If a parent unknowingly or forcibly linked their child's minor account, that mandate is <strong>legally void</strong>.
                 </p>
@@ -395,9 +395,9 @@ export default function MinorChildAccountDeductionPage() {
             </section>
 
             <section id="success-stories" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 Client Success Stories
-              </h2>
+              </h3>
               <div className="grid md:grid-cols-2 gap-6 my-8">
                 <div className="bg-white p-8 rounded-[30px] border border-[#DEDEDE] shadow-sm hover:shadow-xl group transition-all">
                   <div className="flex items-center gap-4 mb-6">
@@ -405,7 +405,7 @@ export default function MinorChildAccountDeductionPage() {
                       PS
                     </div>
                     <div>
-                      <h3 className="font-bold text-gray-900">Pooja S.</h3>
+                      <h4 className="font-bold text-gray-900">Pooja S.</h4>
                       <div className="flex text-yellow-400">
                         <svg className="w-4 h-4 fill-current" viewBox="0 0 20 20"><path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z"/></svg>
                         <svg className="w-4 h-4 fill-current" viewBox="0 0 20 20"><path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z"/></svg>
@@ -430,7 +430,7 @@ export default function MinorChildAccountDeductionPage() {
                       RM
                     </div>
                     <div>
-                      <h4 className="font-bold text-gray-900">Rahul M.</h4>
+                      <h5 className="font-bold text-gray-900">Rahul M.</h5>
                       <div className="flex text-yellow-400">
                         <svg className="w-4 h-4 fill-current" viewBox="0 0 20 20"><path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z"/></svg>
                         <svg className="w-4 h-4 fill-current" viewBox="0 0 20 20"><path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z"/></svg>
@@ -452,13 +452,13 @@ export default function MinorChildAccountDeductionPage() {
             </section>
 
             <section id="faqs" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 Frequently Asked Questions
-              </h2>
+              </h3>
               <div className="space-y-4">
                 {faqs.map((faq: any, index: number) => (
                   <div key={index} className="bg-white border border-[#DEDEDE] rounded-xl p-6 hover:shadow-md transition-shadow">
-                    <h3 className="text-xl font-bold text-[#2E2E2E] mb-2">{faq.name}</h3>
+                    <h4 className="text-xl font-bold text-[#2E2E2E] mb-2">{faq.name}</h4>
                     <p className="text-gray-700 leading-relaxed">{faq.acceptedAnswer.text}</p>
                   </div>
                 ))}
@@ -467,7 +467,7 @@ export default function MinorChildAccountDeductionPage() {
 
             <div className="bg-[#2E2E2E] text-white p-12 rounded-[40px] text-center mt-24 relative overflow-hidden group">
               <div className="absolute inset-0 bg-[#1F5EFF] opacity-0 group-hover:opacity-5 transition-opacity"></div>
-              <h3 className="text-3xl md:text-4xl font-black mb-6 relative z-10">Stop the Illegal Deductions Today</h3>
+              <h4 className="text-3xl md:text-4xl font-black mb-6 relative z-10">Stop the Illegal Deductions Today</h4>
               <p className="text-xl text-gray-300 mb-8 max-w-2xl mx-auto relative z-10">
                 Did the bank illegally deduct your personal loan EMI from your minor child's savings account? This is a severe RBI violation. Let our lawyers help you recover your child's money and file a formal grievance.
               </p>

@@ -535,10 +535,10 @@ export default function PersonalGuaranteeInvocationLoanSettlementPage() {
 
             {/* Section 2 */}
             <section id="statutory-protections-surety-discharge" className="scroll-mt-24 space-y-4">
-              <h2 className="text-xl sm:text-2xl font-black text-slate-900 tracking-tight flex items-center gap-2 border-b border-slate-200 pb-3">
+              <h3 className="text-xl sm:text-2xl font-black text-slate-900 tracking-tight flex items-center gap-2 border-b border-slate-200 pb-3">
                 <Scale className="w-6 h-6 text-[#1F5EFF]" />
                 <span>2. Statutory Protections for Personal Guarantors</span>
-              </h2>
+              </h3>
 
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Banks use standard guarantee forms with broad waiver terms. But Chapter VIII of the Indian Contract Act, 1872 provides strong protections. Lenders often make procedural errors during the loan term. These errors discharge the guarantor under Sections 133 to 141.
@@ -553,10 +553,10 @@ export default function PersonalGuaranteeInvocationLoanSettlementPage() {
               </p>
 
               <div className="bg-slate-50 border-l-4 border-[#1F5EFF] rounded-r-xl p-5 my-4">
-                <h3 className="font-bold text-slate-900 text-sm mb-1 flex items-center gap-2">
+                <h4 className="font-bold text-slate-900 text-sm mb-1 flex items-center gap-2">
                   <ShieldCheck className="w-4 h-4 text-[#1F5EFF]" />
                   <span>Section 139 &amp; 141: Loss of Creditor Securities as an Absolute Bar</span>
-                </h3>
+                </h4>
                 <p className="text-xs sm:text-sm text-slate-700 leading-relaxed">
                   Section 139 discharges the surety if the lender hurts legal remedies. Under Section 141, a surety holds rights to all creditor security. If the bank loses or neglects pledged assets, the guarantor gets a full or partial discharge.
                 </p>
@@ -565,10 +565,10 @@ export default function PersonalGuaranteeInvocationLoanSettlementPage() {
 
             {/* Section 3 */}
             <section id="tribunal-jurisdictions-drt-ibc-crosswinds" className="scroll-mt-24 space-y-4">
-              <h2 className="text-xl sm:text-2xl font-black text-slate-900 tracking-tight flex items-center gap-2 border-b border-slate-200 pb-3">
+              <h3 className="text-xl sm:text-2xl font-black text-slate-900 tracking-tight flex items-center gap-2 border-b border-slate-200 pb-3">
                 <Landmark className="w-6 h-6 text-[#1F5EFF]" />
                 <span>3. Tribunal Jurisdictions &amp; Judicial Crosswinds</span>
-              </h2>
+              </h3>
 
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 When lenders invoke a guarantee, they act across multiple courts. For claims over ₹20 Lakhs, banks file Section 19 claims in the DRT. If they hold mortgages, they issue Section 13(2) and 13(4) notices under the SARFAESI Act, 2002.
@@ -589,10 +589,10 @@ export default function PersonalGuaranteeInvocationLoanSettlementPage() {
 
             {/* Section 4 */}
             <section id="bank-accounting-npv-haircut-valuation" className="scroll-mt-24 space-y-4">
-              <h2 className="text-xl sm:text-2xl font-black text-slate-900 tracking-tight flex items-center gap-2 border-b border-slate-200 pb-3">
+              <h3 className="text-xl sm:text-2xl font-black text-slate-900 tracking-tight flex items-center gap-2 border-b border-slate-200 pb-3">
                 <Calculator className="w-6 h-6 text-[#1F5EFF]" />
                 <span>4. Bank NPA Provisioning &amp; The Haircut Formula</span>
-              </h2>
+              </h3>
 
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Understanding bank balance sheets helps in settlement talks. Under RBI Prudential Framework rules and Master Directions (2023), banks cannot hold bad debt forever. They must allocate profits to provisioning reserves. This locks up capital.
@@ -623,10 +623,10 @@ export default function PersonalGuaranteeInvocationLoanSettlementPage() {
 
             {/* Section 5: Infographic Banner */}
             <section id="personal-guarantee-resolution-roadmap" className="scroll-mt-24 space-y-4">
-              <h2 className="text-xl sm:text-2xl font-black text-slate-900 tracking-tight flex items-center gap-2 border-b border-slate-200 pb-3">
+              <h3 className="text-xl sm:text-2xl font-black text-slate-900 tracking-tight flex items-center gap-2 border-b border-slate-200 pb-3">
                 <BookOpen className="w-6 h-6 text-[#1F5EFF]" />
                 <span>5. Visual Resolution Blueprint</span>
-              </h2>
+              </h3>
 
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Defending a personal guarantee follows clear steps. It moves from notice audit to DRT defense, hardship proof, and OTS closing. The graphic below illustrates the complete roadmap to protect personal wealth and clear business debt.
@@ -650,10 +650,10 @@ export default function PersonalGuaranteeInvocationLoanSettlementPage() {
 
             {/* Section 6 */}
             <section id="advocate-negotiation-ringfencing-assets" className="scroll-mt-24 space-y-4">
-              <h2 className="text-xl sm:text-2xl font-black text-slate-900 tracking-tight flex items-center gap-2 border-b border-slate-200 pb-3">
+              <h3 className="text-xl sm:text-2xl font-black text-slate-900 tracking-tight flex items-center gap-2 border-b border-slate-200 pb-3">
                 <ShieldCheck className="w-6 h-6 text-[#1F5EFF]" />
                 <span>6. Strategic Advocate Negotiation</span>
-              </h2>
+              </h3>
 
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Negotiating a personal guarantee alone is risky. Recovery agents often exploit distress. They demand cheques that harm your legal defense. Experienced debt defense advocates protect personal assets through structured legal counsel.
@@ -674,10 +674,10 @@ export default function PersonalGuaranteeInvocationLoanSettlementPage() {
 
             {/* Section 7 */}
             <section id="sanction-letter-forensics-tripartite-deed" className="scroll-mt-24 space-y-4">
-              <h2 className="text-xl sm:text-2xl font-black text-slate-900 tracking-tight flex items-center gap-2 border-b border-slate-200 pb-3">
+              <h3 className="text-xl sm:text-2xl font-black text-slate-900 tracking-tight flex items-center gap-2 border-b border-slate-200 pb-3">
                 <FileCheck className="w-6 h-6 text-[#1F5EFF]" />
                 <span>7. Sanction Letter Forensics</span>
-              </h2>
+              </h3>
 
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 An OTS is only as safe as the sanction letter. Never pay money on verbal assurances or emails. Flawed letters let banks credit funds to interest while keeping guarantees active or assigning debt to ARCs.
@@ -691,7 +691,7 @@ export default function PersonalGuaranteeInvocationLoanSettlementPage() {
                 <div className="p-4 bg-slate-50 rounded-xl border border-slate-200 flex items-start gap-3">
                   <div className="w-6 h-6 rounded-full bg-[#1F5EFF]/10 text-[#1F5EFF] flex items-center justify-center font-bold text-xs flex-shrink-0 mt-0.5">1</div>
                   <div>
-                    <h3 className="font-bold text-slate-900 text-xs sm:text-sm">Explicit Guarantor Discharge Clause</h3>
+                    <h4 className="font-bold text-slate-900 text-xs sm:text-sm">Explicit Guarantor Discharge Clause</h4>
                     <p className="text-xs text-slate-600 leading-relaxed mt-0.5">The letter must name the guarantor. It must confirm that full payment cancels the Deed of Guarantee.</p>
                   </div>
                 </div>
@@ -699,7 +699,7 @@ export default function PersonalGuaranteeInvocationLoanSettlementPage() {
                 <div className="p-4 bg-slate-50 rounded-xl border border-slate-200 flex items-start gap-3">
                   <div className="w-6 h-6 rounded-full bg-[#1F5EFF]/10 text-[#1F5EFF] flex items-center justify-center font-bold text-xs flex-shrink-0 mt-0.5">2</div>
                   <div>
-                    <h4 className="font-bold text-slate-900 text-xs sm:text-sm">Mandatory Case Withdrawal Undertaking</h4>
+                    <h5 className="font-bold text-slate-900 text-xs sm:text-sm">Mandatory Case Withdrawal Undertaking</h5>
                     <p className="text-xs text-slate-600 leading-relaxed mt-0.5">The lender must withdraw all Section 19 DRT claims, Section 95 IBC cases, and Section 138 NI Act complaints within 15 to 30 days.</p>
                   </div>
                 </div>
@@ -707,7 +707,7 @@ export default function PersonalGuaranteeInvocationLoanSettlementPage() {
                 <div className="p-4 bg-slate-50 rounded-xl border border-slate-200 flex items-start gap-3">
                   <div className="w-6 h-6 rounded-full bg-[#1F5EFF]/10 text-[#1F5EFF] flex items-center justify-center font-bold text-xs flex-shrink-0 mt-0.5">3</div>
                   <div>
-                    <h5 className="font-bold text-slate-900 text-xs sm:text-sm">Release of Title Deeds &amp; Charge Satisfaction</h5>
+                    <h6 className="font-bold text-slate-900 text-xs sm:text-sm">Release of Title Deeds &amp; Charge Satisfaction</h6>
                     <p className="text-xs text-slate-600 leading-relaxed mt-0.5">The bank must return original deeds and file Form CHG-4 with ROC and CERSAI.</p>
                   </div>
                 </div>
@@ -715,7 +715,7 @@ export default function PersonalGuaranteeInvocationLoanSettlementPage() {
                 <div className="p-4 bg-slate-50 rounded-xl border border-slate-200 flex items-start gap-3">
                   <div className="w-6 h-6 rounded-full bg-[#1F5EFF]/10 text-[#1F5EFF] flex items-center justify-center font-bold text-xs flex-shrink-0 mt-0.5">4</div>
                   <div>
-                    <h5 className="font-bold text-slate-900 text-xs sm:text-sm">Ban on Debt Assignment to ARCs</h5>
+                    <h6 className="font-bold text-slate-900 text-xs sm:text-sm">Ban on Debt Assignment to ARCs</h6>
                     <p className="text-xs text-slate-600 leading-relaxed mt-0.5">The letter must bar the bank from assigning written-off debt to an ARC.</p>
                   </div>
                 </div>
@@ -728,10 +728,10 @@ export default function PersonalGuaranteeInvocationLoanSettlementPage() {
 
             {/* Section 8 */}
             <section id="remittance-rbi-ndc-mandate-credit-rehabilitation" className="scroll-mt-24 space-y-4">
-              <h2 className="text-xl sm:text-2xl font-black text-slate-900 tracking-tight flex items-center gap-2 border-b border-slate-200 pb-3">
+              <h3 className="text-xl sm:text-2xl font-black text-slate-900 tracking-tight flex items-center gap-2 border-b border-slate-200 pb-3">
                 <CreditCard className="w-6 h-6 text-[#1F5EFF]" />
                 <span>8. Payment Protocols &amp; No Dues Certificate</span>
-              </h2>
+              </h3>
 
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Always pay settlement amounts through official banking channels. Use RTGS, NEFT, or Demand Drafts directly into the loan account. Never pay unverified third parties.
@@ -748,10 +748,10 @@ export default function PersonalGuaranteeInvocationLoanSettlementPage() {
 
             {/* Section 9: Comparative Matrix */}
             <section id="guarantee-defense-comparative-matrix" className="scroll-mt-24 space-y-4">
-              <h2 className="text-xl sm:text-2xl font-black text-slate-900 tracking-tight flex items-center gap-2 border-b border-slate-200 pb-3">
+              <h3 className="text-xl sm:text-2xl font-black text-slate-900 tracking-tight flex items-center gap-2 border-b border-slate-200 pb-3">
                 <Layers className="w-6 h-6 text-[#1F5EFF]" />
                 <span>9. Personal Guarantee Resolution Matrix</span>
-              </h2>
+              </h3>
 
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Promoters face several legal routes. Comparing tribunal defense, insolvency, and OTS helps protect your wealth and business.
@@ -808,10 +808,10 @@ export default function PersonalGuaranteeInvocationLoanSettlementPage() {
 
             {/* Section 10 */}
             <section id="company-resolution-section" className="scroll-mt-24 space-y-4">
-              <h2 className="text-xl sm:text-2xl font-black text-slate-900 tracking-tight flex items-center gap-2 border-b border-slate-200 pb-3">
+              <h3 className="text-xl sm:text-2xl font-black text-slate-900 tracking-tight flex items-center gap-2 border-b border-slate-200 pb-3">
                 <Briefcase className="w-6 h-6 text-[#1F5EFF]" />
                 <span>10. SettleLoans Legal Defense &amp; Commercial Debt Advisory</span>
-              </h2>
+              </h3>
 
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 SettleLoans helps promoters, MSME directors. And guarantors resolve commercial debt. When lenders invoke guarantees under Section 128, our advocates lead your defense.
@@ -831,10 +831,10 @@ export default function PersonalGuaranteeInvocationLoanSettlementPage() {
 
             {/* Section 11: FAQ Accordion */}
             <section id="faqs" className="scroll-mt-24 space-y-4">
-              <h2 className="text-xl sm:text-2xl font-black text-slate-900 tracking-tight flex items-center gap-2 border-b border-slate-200 pb-3">
+              <h3 className="text-xl sm:text-2xl font-black text-slate-900 tracking-tight flex items-center gap-2 border-b border-slate-200 pb-3">
                 <HelpCircle className="w-6 h-6 text-[#1F5EFF]" />
                 <span>11. FAQs: Personal Guarantee Invocation &amp; Settlement</span>
-              </h2>
+              </h3>
 
               <div className="space-y-3 my-6">
                 <details className="group bg-slate-50 border border-slate-200 rounded-xl p-4 transition-all duration-200 [&_summary::-webkit-details-marker]:hidden open:bg-blue-50/40 open:border-blue-200">
@@ -941,9 +941,9 @@ export default function PersonalGuaranteeInvocationLoanSettlementPage() {
 
             {/* 5 Official Regulatory Links */}
             <section className="border-t border-slate-200 pt-8 mb-4">
-              <h3 className="text-xs sm:text-sm font-bold text-slate-900 mb-3 uppercase tracking-wider">
+              <h4 className="text-xs sm:text-sm font-bold text-slate-900 mb-3 uppercase tracking-wider">
                 Official Statutory &amp; Regulatory References
-              </h3>
+              </h4>
               <div className="grid grid-cols-1 sm:grid-cols-2 gap-2.5 text-xs">
                 <a
                   href="https://www.indiacode.gov.in/bitstream/123456789/2187/1/A1872-09.pdf"
@@ -995,9 +995,9 @@ export default function PersonalGuaranteeInvocationLoanSettlementPage() {
 
             {/* 10 Related Guide Badges */}
             <section className="border-t border-slate-200 pt-8 mb-8">
-              <h3 className="text-xs sm:text-sm font-bold text-slate-900 mb-4 uppercase tracking-wider">
+              <h4 className="text-xs sm:text-sm font-bold text-slate-900 mb-4 uppercase tracking-wider">
                 Related Commercial Defense &amp; Debt Resolution Guides
-              </h3>
+              </h4>
               <div className="flex flex-wrap gap-2">
                 <Link
                   href="/unsecured-business-loan-settlement"

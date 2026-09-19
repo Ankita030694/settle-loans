@@ -270,9 +270,9 @@ export default function BadLoanRecoveryStrategyPage() {
                         </section>
 
                         <section id="recovery-framework" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
                                 The Bad Loan Recovery Framework in India
-                            </h2>
+                            </h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 India has one of the most structured and multi layered recovery frameworks in the world. Over the last two decades, the introduction of the SARFAESI Act, the establishment of Debt Recovery Tribunals (DRTs), and the landmark Insolvency and Bankruptcy Code (IBC) have radically changed the landscape. No longer are banks solely dependent on slow moving civil courts to recover their dues.
                             </p>
@@ -280,7 +280,7 @@ export default function BadLoanRecoveryStrategyPage() {
                                 The recovery strategy of an Indian bank or NBFC is usually graduated. It starts with 'soft recovery,' which involves reminders, phone calls, and visits. If these fail, the bank moves to 'legal recovery,' invoking specialized laws based on the nature and size of the debt. For secured loans, the SARFAESI Act is the preferred weapon. For large debts above 20 lakh rupees, the DRT becomes the primary forum. For corporate defaults, the IBC provides a powerful resolution mechanism.
                             </p>
                             <div className="bg-gray-50 p-8 rounded-xl border border-gray-200 mb-8">
-                                <h3 className="text-xl font-bold mb-6">Core Components of the Recovery Machinery</h3>
+                                <h4 className="text-xl font-bold mb-6">Core Components of the Recovery Machinery</h4>
                                 <ul className="grid md:grid-cols-2 gap-4 text-sm font-medium">
                                     <li className="flex items-center gap-2">
                                         <span className="w-2 h-2 bg-[#1F5EFF] rounded-full"></span>
@@ -311,9 +311,9 @@ export default function BadLoanRecoveryStrategyPage() {
                         </section>
 
                         <section id="sarfaesi-deep-dive" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
                                 SARFAESI Act Explained: The Power to Reclaim
-                            </h2>
+                            </h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 The Securitisation and Reconstruction of Financial Assets and Enforcement of Security Interest Act, 2002 (SARFAESI) is arguably the most powerful tool in a lender's arsenal. It allows banks and financial institutions to take possession of a secured asset (like a house, commercial building, or factory) without the intervention of a court of law. This was a revolutionary shift in Indian law, designed to reduce the NPAs that were crippling the banking system.
                             </p>
@@ -321,7 +321,7 @@ export default function BadLoanRecoveryStrategyPage() {
                                 The process starts with a Section 13(2) notice, also known as a demand notice. This gives the borrower 60 days to clear the dues. If the borrower fails to comply or provide a satisfactory reply, the bank can issue a 13(4) notice to take symbolic possession of the property. Following this, the bank can apply to the District Magistrate or Chief Metropolitan Magistrate for physical possession and eventually auction the property to recover the dues.
                             </p>
                             <div className="bg-red-50 p-8 rounded-xl border border-red-200 mb-8">
-                                <h3 className="text-xl font-bold mb-4 text-red-900">Critical Timeline under SARFAESI</h3>
+                                <h4 className="text-xl font-bold mb-4 text-red-900">Critical Timeline under SARFAESI</h4>
                                 <p className="text-sm text-red-800 leading-relaxed mb-4">
                                     The moment you receive a notice under Section 13(2), the clock begins to tick. This is not a time for panic, but for precise legal action. You have the right to represent your case to the bank within the 60 day window. If the bank rejects your representation without a valid reason, it opens a window for legal challenge in the DRT.
                                 </p>
@@ -332,9 +332,9 @@ export default function BadLoanRecoveryStrategyPage() {
                         </section>
 
                         <section id="drt-proceedings" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
                                 Navigating the Debt Recovery Tribunals (DRT)
-                            </h2>
+                            </h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 While SARFAESI acts fast, the Debt Recovery Tribunal (DRT) is where the real legal battle often takes place. DRTs were established to handle the sheer volume of recovery cases that civil courts couldn't manage. They have their own set of rules and procedures, focused on efficiency. If your debt to a bank or a group of banks exceeds 20 lakh rupees, you are likely to find yourself in the DRT.
                             </p>
@@ -344,7 +344,7 @@ export default function BadLoanRecoveryStrategyPage() {
                         </section>
 
                         <section id="ibc-impact" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">The Role of the Insolvency and Bankruptcy Code (IBC)</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">The Role of the Insolvency and Bankruptcy Code (IBC)</h3>
                             <p className="mb-6">
                                 The IBC, 2016, has introduced a paradigm shift from 'debtor-in-possession' to 'creditor-in-control.' For companies that have defaulted on a debt of more than 1 crore rupees, a creditor can initiate the Corporate Insolvency Resolution Process (CIRP) in the National Company Law Tribunal (NCLT). This is a high stakes environment where the goal is to save the company through a resolution plan, but the risk of liquidation is ever present.
                             </p>
@@ -354,19 +354,19 @@ export default function BadLoanRecoveryStrategyPage() {
                         </section>
 
                         <section id="borrower-rights" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Your Fundamental Rights as a Defaulting Borrower</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Your Fundamental Rights as a Defaulting Borrower</h3>
                             <p className="mb-6 text-lg">
                                 One of the biggest misconceptions in India is that once you default, you lose all your rights. This could not be further from the truth. The Reserve Bank of India (RBI) and the Supreme Court have repeatedly emphasized that the dignity of the borrower must be maintained, regardless of the default status.
                             </p>
                             <div className="grid md:grid-cols-2 gap-6 mb-8">
                                 <div className="bg-blue-50/50 p-6 rounded-xl border border-blue-100">
-                                    <h3 className="text-xl font-bold text-blue-800 mb-3">The Right to Proper Notice</h3>
+                                    <h4 className="text-xl font-bold text-blue-800 mb-3">The Right to Proper Notice</h4>
                                     <p className="text-sm text-blue-900/80 leading-relaxed">
                                         A bank cannot just turn up and lock your door. They must provide you with the mandatory notices required by law. Under SARFAESI, this is a 60 day demand notice followed by a 30 day auction notice. Failure to provide these can render the entire recovery process illegal.
                                     </p>
                                 </div>
                                 <div className="bg-green-50/50 p-6 rounded-xl border border-green-100">
-                                    <h3 className="text-xl font-bold text-green-800 mb-3">Protection from Harassment</h3>
+                                    <h4 className="text-xl font-bold text-green-800 mb-3">Protection from Harassment</h4>
                                     <p className="text-sm text-green-900/80 leading-relaxed">
                                         RBI's 'Fair Practices Code' prohibits recovery agents from using physical force, verbal abuse, or calling at unreasonable hours (after 7 PM and before 8 AM). They cannot contact your relatives or neighbors to shame you. Any such act is a serious offense.
                                     </p>
@@ -375,12 +375,12 @@ export default function BadLoanRecoveryStrategyPage() {
                         </section>
 
                         <section id="negotiation-strategy" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Winning Negotiation Tactics for Loan Settlement</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Winning Negotiation Tactics for Loan Settlement</h3>
                             <p className="mb-6">
                                 Negotiating with a bank is like a game of chess. You need to understand their motives as much as your own. Banks are primarily concerned with minimizing their losses and cleaning their balance sheets. In many cases, they would rather take a guaranteed settlement today than spend five years in court and hope to recover the money later.
                             </p>
                             <div className="bg-white p-8 rounded-2xl border border-[#DEDEDE] shadow-sm mb-8">
-                                <h3 className="text-2xl font-bold text-[#1F5EFF] mb-4">Keys to Successful Negotiation</h3>
+                                <h4 className="text-2xl font-bold text-[#1F5EFF] mb-4">Keys to Successful Negotiation</h4>
                                 <ul className="space-y-4">
                                     <li className="flex items-start gap-3">
                                         <span className="text-[#1F5EFF] font-bold">01.</span>
@@ -399,7 +399,7 @@ export default function BadLoanRecoveryStrategyPage() {
                         </section>
 
                         <section id="settlement-options" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">One Time Settlement (OTS): The Honorable Exit</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">One Time Settlement (OTS): The Honorable Exit</h3>
                             <p className="mb-6">
                                 A One Time Settlement (OTS) is an agreement where the bank agrees to accept a portion of the total dues (often the principal or a slightly higher amount) and waive the remaining interest and penalties. In exchange, the borrower pays the agreed amount in a short period and the loan account is closed as 'Settled.'
                             </p>
@@ -409,7 +409,7 @@ export default function BadLoanRecoveryStrategyPage() {
                         </section>
 
                         <section id="legal-defenses" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Common Legal Defenses in Recovery Cases</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Common Legal Defenses in Recovery Cases</h3>
                             <p className="mb-6">
                                 When a bank files a case in DRT or NCLT, they are assuming that the borrower has no defense. But the law provides several avenues for challenge. Procedural flaws are the most common. Did the bank serve the notice correctly? Is the underlying loan agreement properly stamped? Is the interest calculation in accordance with RBI norms?
                             </p>
@@ -419,7 +419,7 @@ export default function BadLoanRecoveryStrategyPage() {
                         </section>
 
                         <section id="asset-protection" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Protecting Your Collateral During Recovery</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Protecting Your Collateral During Recovery</h3>
                             <p className="mb-6">
                                 Your home or your factory is more than just collateral; it is your life's work. Protecting it should be your top priority. Under the SARFAESI Act, banks are required to value the property fairly through an independent valuer. Often, banks valuation is significantly lower than the market value to ensure a quick sale. You have the right to challenge this valuation.
                             </p>
@@ -429,12 +429,12 @@ export default function BadLoanRecoveryStrategyPage() {
                         </section>
 
                         <section id="cibil-rebuilding" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Rebuilding Your CIBIL Score After Recovery</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Rebuilding Your CIBIL Score After Recovery</h3>
                             <p className="mb-6 text-lg">
                                 Many people fear that a bad loan is a permanent black mark on their credit history. While a default is serious, it is not the end of your financial life. Rebuilding your credit score is a marathon, not a sprint.
                             </p>
                             <div className="bg-emerald-50 p-8 rounded-2xl border border-emerald-100 mb-8">
-                                <h3 className="text-xl font-bold text-emerald-800 mb-4">Steps to a Better Score</h3>
+                                <h4 className="text-xl font-bold text-emerald-800 mb-4">Steps to a Better Score</h4>
                                 <ul className="space-y-4">
                                     <li className="flex items-start gap-2 text-emerald-900/80">
                                         <span className="font-bold">1. Clear All Dues:</span> Ensure you have a 'No Dues Certificate' for every loan. If a loan is settled, make sure it is reflected as such.
@@ -450,7 +450,7 @@ export default function BadLoanRecoveryStrategyPage() {
                         </section>
 
                         <section id="psychological-impact" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Mental Resilience During the Recovery Storm</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Mental Resilience During the Recovery Storm</h3>
                             <p className="mb-6">
                                 The most important asset you need during a bad loan crisis is not money, but mental strength. The constant calls and the threat of legal action can break the strongest of individuals. It is vital to remember that you are not alone. Thousands of businesses and individuals go through this process and emerge stronger on the other side.
                             </p>
@@ -460,12 +460,12 @@ export default function BadLoanRecoveryStrategyPage() {
                         </section>
 
                         <section id="professional-help" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Why Professional Strategy Matters</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Why Professional Strategy Matters</h3>
                             <p className="mb-6">
                                 Recovery is a high stakes environment. A single missed deadline or a poorly drafted reply to an RBI notice can cost you your business or your home. Professional advisors like SettleLoans bring years of experience and a deep understanding of banking psychology to the table. We know exactly how much a bank is willing to settle for and which legal buttons to press to get their attention.
                             </p>
                             <div className="bg-[#2E2E2E] text-white p-8 rounded-2xl mb-8">
-                                <h3 className="text-2xl font-bold mb-4">The SettleLoans Advantage</h3>
+                                <h4 className="text-2xl font-bold mb-4">The SettleLoans Advantage</h4>
                                 <ul className="space-y-3 text-sm opacity-90">
                                     <li className="flex items-center gap-2">✓ Experts in SARFAESI, DRT, and IBC frameworks.</li>
                                     <li className="flex items-center gap-2">✓ Proven track record in negotiating high value settlements.</li>
@@ -477,7 +477,7 @@ export default function BadLoanRecoveryStrategyPage() {
                         </section>
 
                         <section id="case-studies" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 text-center">Real World Success Stories</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 text-center">Real World Success Stories</h3>
                             <div className="grid md:grid-cols-2 gap-6 not-prose">
                                 {[
                                     {
@@ -515,7 +515,7 @@ export default function BadLoanRecoveryStrategyPage() {
                                                 {review.name.charAt(0)}
                                             </div>
                                             <div>
-                                                <h3 className="font-bold text-[#2E2E2E]">{review.name}</h3>
+                                                <h4 className="font-bold text-[#2E2E2E]">{review.name}</h4>
                                                 <p className="text-xs text-gray-400">{review.loc}</p>
                                             </div>
                                             <div className="ml-auto text-yellow-400 text-sm">★★★★★</div>
@@ -530,7 +530,7 @@ export default function BadLoanRecoveryStrategyPage() {
                         </section>
 
                         <section id="future-outlook" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">The Future of Bad Loan Recovery in India</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">The Future of Bad Loan Recovery in India</h3>
                             <p className="mb-6">
                                 The landscape of recovery is constantly evolving. With the rise of digital lending and the integration of AI in credit monitoring, banks are becoming more proactive. We are likely to see more 'Pre-NPA' interventions where banks try to assist borrowers before a default occurs. The legal framework is also moving towards 'Meditation' and 'Pre-packaged insolvencies' for MSMEs.
                             </p>
@@ -543,7 +543,7 @@ export default function BadLoanRecoveryStrategyPage() {
                         </section>
 
                         <section id="faqs" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Frequently Asked Questions</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Frequently Asked Questions</h3>
                             <div className="space-y-4 not-prose">
                                 {[
                                     { q: "How long does a bank take to auction a property under SARFAESI?", a: "From the time of the demand notice, it typically takes at least 4 to 6 months for a bank to reach the auction stage. This includes a 60-day demand period and a 30-day auction notice period, along with the time taken for physical possession." },
@@ -580,7 +580,7 @@ export default function BadLoanRecoveryStrategyPage() {
                         <div className="lg:hidden mt-16 mb-8">
                             <div className="bg-[#2E2E2E] rounded-2xl shadow-xl overflow-hidden border border-[#1F5EFF]/20">
                                 <div className="bg-[#1F5EFF] p-6 text-center text-white">
-                                    <h3 className="text-2xl font-black mb-2">Secure Your Assets</h3>
+                                    <h4 className="text-2xl font-black mb-2">Secure Your Assets</h4>
                                     <p className="opacity-90 text-sm">Join the 10,000+ Indians we've helped find their way to financial freedom.</p>
                                 </div>
                                 <div className="p-8 text-center text-[#DEDEDE]">

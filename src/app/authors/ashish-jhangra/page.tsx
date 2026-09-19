@@ -51,7 +51,7 @@ export default function AshishJhangraProfile() {
                 <span className="text-[#2D68FF] font-bold">✔</span> Personal Loan & Credit Card Debt Resolution
               </li>
               <li className="flex items-center gap-3 m-0">
-                <span className="text-[#2D68FF] font-bold">✔</span> Loan Settlement Assistance
+                <span className="text-[#2D68FF] font-bold">✔</span> Loan Settlement help
               </li>
               <li className="flex items-center gap-3 m-0">
                 <span className="text-[#2D68FF] font-bold">✔</span> Legal Consultation for Debt-Related Matters
@@ -72,12 +72,12 @@ export default function AshishJhangraProfile() {
 
             <div className="bg-blue-50 border border-blue-100 p-6 rounded-xl mt-10 mb-6">
               <p className="m-0 font-medium text-blue-900 italic">
-                "I believe that financial difficulties can happen to anyone, and with the right legal guidance and a structured approach, individuals can work toward financial stability and peace of mind."
+                "I believe that financial difficulties can happen to anyone, and with the right legal guidance and a structured approach, people can work toward financial stability and peace of mind."
               </p>
             </div>
 
             <p>
-              My goal is to educate, support, and empower clients by providing ethical, transparent, and professional legal assistance throughout their debt resolution journey.
+              My goal is to educate, support, and empower clients by providing ethical, transparent, and professional legal help throughout their debt resolution journey.
             </p>
             <p className="font-bold text-slate-900">
               Let's connect and build a future based on trust, compliance, and financial awareness.

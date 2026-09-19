@@ -594,9 +594,9 @@ export default function PersonalLoanSettlementIndorePage() {
                 <Clock className="w-4 h-4" />
                 <span>2. Delinquency Timeline &amp; NPA Classification</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 Delinquency Lifecycle &amp; Bank Provisioning: From SMA-0 to Non-Performing Asset (NPA)
-              </h2>
+              </h3>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Under the Reserve Bank of India&apos;s Prudential Norms on Income Recognition, Asset Classification and Provisioning (IRACP) and Expected Credit Loss (ECL) frameworks under Indian Accounting Standard 109 (Ind AS 109), financial institutions operating in Madhya Pradesh classify delinquent loan facilities into precise Days Past Due (DPD) categories. Understanding how lenders manage these delinquency buckets is crucial for determining the strategic window to execute an optimal debt settlement.
               </p>
@@ -667,9 +667,9 @@ export default function PersonalLoanSettlementIndorePage() {
                 <ShieldAlert className="w-4 h-4" />
                 <span>3. Halting Harassment &amp; Stopping NACH Charges</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 Defending Against Aggressive Recovery Tactics &amp; Stopping Unauthorized NACH Bounces in Indore
-              </h2>
+              </h3>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 In regional commercial centers like Indore and Bhopal, third-party Debt Recovery Agencies (DRAs) employed by major private banks and NBFCs frequently deploy aggressive, coercive collection methods. Borrowers across residential localities—such as Vijay Nagar, Palasia, Sudama Nagar, Scheme 54, Scheme 78, Annapurna, and Rau—routinely report unsolicited home visits, aggressive shouting, and unlawful threats of police arrest. In commercial markets like Sarafa, Siyaganj, and Sitlamata Cloth Market, recovery agents often attempt public shaming by visiting retail shops during business hours.
               </p>
@@ -693,9 +693,9 @@ export default function PersonalLoanSettlementIndorePage() {
                 <Calculator className="w-4 h-4" />
                 <span>4. RBI Compromise Guidelines &amp; NPV Math</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 RBI Compromise Settlement Framework &amp; Net Present Value (NPV) Valuation Economics
-              </h2>
+              </h3>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Under the landmark Reserve Bank of India Master Direction on Compromise Settlements and Technical Write-offs (DOR.STR.REC.20/21.04.048/2023-24), all regulated commercial banks, NBFCs, and housing finance companies are required to maintain a transparent, board-approved compromise settlement policy. Rather than relying on arbitrary discretion, senior credit committees evaluate settlement proposals using an institutional Net Present Value (NPV) recovery methodology.
               </p>
@@ -722,7 +722,7 @@ export default function PersonalLoanSettlementIndorePage() {
               </p>
 
               {/* Settlement Haircut Slabs Table */}
-              <h3 className="text-lg font-bold text-slate-900 mb-3">Realistic Loan Settlement Haircut Slabs for Indore &amp; MP Borrowers</h3>
+              <h4 className="text-lg font-bold text-slate-900 mb-3">Realistic Loan Settlement Haircut Slabs for Indore &amp; MP Borrowers</h4>
               <div className="overflow-x-auto my-4">
                 <table className="min-w-full bg-white">
                   <thead>
@@ -787,9 +787,9 @@ export default function PersonalLoanSettlementIndorePage() {
                       <span className="text-[10px] font-black uppercase tracking-widest text-blue-300 block">
                         Legal Defense &amp; Action Blueprint
                       </span>
-                      <h3 className="text-sm md:text-base font-black text-white leading-tight">
+                      <h4 className="text-sm md:text-base font-black text-white leading-tight">
                         Indore Personal Loan Settlement &amp; Lok Adalat Legal Defense Blueprint
-                      </h3>
+                      </h4>
                     </div>
                   </div>
                   <a
@@ -836,9 +836,9 @@ export default function PersonalLoanSettlementIndorePage() {
                 <Gavel className="w-4 h-4" />
                 <span>6. Indore District Court &amp; JMFC Defense</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 Navigating Section 138 NI Act, Section 25 PSSA &amp; Civil Suits in Indore Courts
-              </h2>
+              </h3>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 When an unsecured personal loan or commercial credit facility enters chronic default, lenders routinely initiate quasi-criminal and civil proceedings across the District &amp; Sessions Court Complex in Indore (located near Kothari Market and M.G. Road) and the Judicial Magistrate First Class (JMFC) courts. The two most common legal mechanisms employed by lenders are:
               </p>
@@ -862,9 +862,9 @@ export default function PersonalLoanSettlementIndorePage() {
                 <Landmark className="w-4 h-4" />
                 <span>7. DLSA Indore Lok Adalat Conciliation</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 Resolving Bank Defaults Through District Legal Services Authority (DLSA) Lok Adalat in Indore
-              </h2>
+              </h3>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 One of the most effective, legally binding, and cost-efficient mechanisms for resolving delinquent personal and business loans in Madhya Pradesh is through the quarterly National Lok Adalats organized by the District Legal Services Authority (DLSA) Indore, under the statutory mandate of the Legal Services Authorities Act, 1987.
               </p>
@@ -888,9 +888,9 @@ export default function PersonalLoanSettlementIndorePage() {
                 <Layers className="w-4 h-4" />
                 <span>8. Step-by-Step Settlement Roadmap</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 Step-by-Step Roadmap: How to Settle Defaulted Personal &amp; Business Loans in Indore
-              </h2>
+              </h3>
               <p className="text-slate-700 leading-relaxed mb-6 text-base md:text-lg">
                 Achieving a legally watertight One-Time Settlement with substantial debt waivers requires a structured, multi-phase legal and financial strategy:
               </p>
@@ -898,10 +898,10 @@ export default function PersonalLoanSettlementIndorePage() {
               <div className="space-y-6">
                 {/* Phase 1 */}
                 <div className="p-6 rounded-2xl bg-white border border-slate-200 shadow-sm">
-                  <h3 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
+                  <h4 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
                     <span className="w-7 h-7 rounded-lg bg-blue-50 text-[#1F5EFF] font-black text-sm flex items-center justify-center border border-blue-200">1</span>
                     Financial Forensic Audit &amp; Hardship Dossier Compilation
-                  </h3>
+                  </h4>
                   <p className="text-slate-600 text-sm md:text-base leading-relaxed">
                     Compile comprehensive documentary proof demonstrating genuine, non-wilful financial incapacity. Essential documents include audited business financial statements, GST return filings showing revenue declines, salary termination letters, medical treatment records, or bank statements showing depleted liquidity. This establishes that the default is bona fide and qualifies for compromise relief under RBI rules.
                   </p>
@@ -909,10 +909,10 @@ export default function PersonalLoanSettlementIndorePage() {
 
                 {/* Phase 2 */}
                 <div className="p-6 rounded-2xl bg-white border border-slate-200 shadow-sm">
-                  <h3 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
+                  <h4 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
                     <span className="w-7 h-7 rounded-lg bg-blue-50 text-[#1F5EFF] font-black text-sm flex items-center justify-center border border-blue-200">2</span>
                     Mandate Cancellation &amp; Enforcing Communication Channels
-                  </h3>
+                  </h4>
                   <p className="text-slate-600 text-sm md:text-base leading-relaxed">
                     Instruct your bank in Indore to suspend or cancel the e-NACH auto-debit mandate to halt recurring return fees. Issue a formal legal notice directing the lender to channel all communications exclusively in writing through designated legal counsel, establishing a verifiable evidentiary trail.
                   </p>
@@ -920,10 +920,10 @@ export default function PersonalLoanSettlementIndorePage() {
 
                 {/* Phase 3 */}
                 <div className="p-6 rounded-2xl bg-white border border-slate-200 shadow-sm">
-                  <h3 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
+                  <h4 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
                     <span className="w-7 h-7 rounded-lg bg-blue-50 text-[#1F5EFF] font-black text-sm flex items-center justify-center border border-blue-200">3</span>
                     Submitting Formal Hardship Petition to Stressed Assets Desk
-                  </h3>
+                  </h4>
                   <p className="text-slate-600 text-sm md:text-base leading-relaxed">
                     Submit a detailed compromise settlement petition directly to the bank or NBFC&apos;s Zonal Stressed Assets Committee in Indore or Bhopal, citing the RBI Master Direction on Compromise Settlements. Anchor the initial opening settlement offer at 25% to 35% of core dues to preserve negotiating leverage.
                   </p>
@@ -931,10 +931,10 @@ export default function PersonalLoanSettlementIndorePage() {
 
                 {/* Phase 4 */}
                 <div className="p-6 rounded-2xl bg-white border border-slate-200 shadow-sm">
-                  <h3 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
+                  <h4 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
                     <span className="w-7 h-7 rounded-lg bg-blue-50 text-[#1F5EFF] font-black text-sm flex items-center justify-center border border-blue-200">4</span>
                     Managing Counter-Demands &amp; Credit Committee Approval
-                  </h3>
+                  </h4>
                   <p className="text-slate-600 text-sm md:text-base leading-relaxed">
                     Lenders will initially reject low opening bids and propose nominal 10%–15% concessions. Your legal advocate counters by presenting empirical recovery friction data and proving that funds are being pooled from third-party relatives, securing final sanction within the target 45% to 65% debt waiver band.
                   </p>
@@ -942,10 +942,10 @@ export default function PersonalLoanSettlementIndorePage() {
 
                 {/* Phase 5 */}
                 <div className="p-6 rounded-2xl bg-white border border-slate-200 shadow-sm">
-                  <h3 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
+                  <h4 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
                     <span className="w-7 h-7 rounded-lg bg-blue-50 text-[#1F5EFF] font-black text-sm flex items-center justify-center border border-blue-200">5</span>
                     Rigorous Forensic Audit of the OTS Sanction Letter
-                  </h3>
+                  </h4>
                   <p className="text-slate-600 text-sm md:text-base leading-relaxed">
                     Before making any remittance, your advocate conducts a thorough audit of the OTS Sanction Letter to ensure it is printed on official corporate letterhead, contains valid reference numbers, specifies exact settlement amounts, and explicitly covenants to withdraw all pending legal notices and court complaints.
                   </p>
@@ -953,10 +953,10 @@ export default function PersonalLoanSettlementIndorePage() {
 
                 {/* Phase 6 */}
                 <div className="p-6 rounded-2xl bg-white border border-slate-200 shadow-sm">
-                  <h3 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
+                  <h4 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
                     <span className="w-7 h-7 rounded-lg bg-blue-50 text-[#1F5EFF] font-black text-sm flex items-center justify-center border border-blue-200">6</span>
                     Direct Account Remittance &amp; ₹0 NDC Delivery Enforcement
-                  </h3>
+                  </h4>
                   <p className="text-slate-600 text-sm md:text-base leading-relaxed">
                     Remit the agreed settlement sum directly into your designated loan account via RTGS/NEFT. Under RBI Circular RBI/2023-24/60, the lender is legally required to deliver a formal No Dues Certificate and update credit bureaus within 30 calendar days.
                   </p>
@@ -970,9 +970,9 @@ export default function PersonalLoanSettlementIndorePage() {
                 <FileCheck className="w-4 h-4" />
                 <span>9. Sanction Letter Forensics &amp; NDC Mandate</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 Forensic Verification of Settlement Sanction Letters &amp; Enforcing the ₹0 NDC Mandate
-              </h2>
+              </h3>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 A major hazard encountered by distressed borrowers in Indore involves unauthorized recovery agents issuing fake or fraudulent settlement letters. Third-party agents under pressure to meet monthly targets frequently produce unverified letters or accept verbal assurances, crediting payments as partial recoveries against late fees while leaving the default active and compounding.
               </p>
@@ -996,9 +996,9 @@ export default function PersonalLoanSettlementIndorePage() {
                 <TrendingUp className="w-4 h-4" />
                 <span>10. Credit Rehabilitation &amp; Score Recovery</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 CIBIL Score Trajectory Post-Settlement &amp; 18-Month Credit Rehabilitation Roadmap
-              </h2>
+              </h3>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Executing a One-Time Settlement with a bank or NBFC results in the account being reported to all four licensed credit information companies in India (TransUnion CIBIL, Experian, Equifax, and CRIF High Mark) with the status <strong>&apos;Settled&apos;</strong> or <strong>&apos;Post-Write-off Settled&apos;</strong> with an outstanding balance of exactly <strong>₹0</strong>. This reporting causes an initial credit score drop of 75 to 150 points.
               </p>
@@ -1022,9 +1022,9 @@ export default function PersonalLoanSettlementIndorePage() {
                 <ShieldCheck className="w-4 h-4" />
                 <span>11. Legal Representation &amp; Defense</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 Why Borrowers in Indore &amp; Madhya Pradesh Choose SettleLoans
-              </h2>
+              </h3>
               <p className="text-slate-700 leading-relaxed mb-6 text-base md:text-lg">
                 Navigating complex banking regulations, high-stakes debt negotiations, and aggressive collection tactics requires experienced legal counsel and seasoned financial strategists. SettleLoans provides end-to-end debt resolution for salaried professionals, wholesale traders, and MSME entrepreneurs across Indore, Bhopal, Ujjain, Dewas, and Jabalpur. We halt recovery harassment, defend Section 138 and Section 25 court notices, represent clients at DLSA Lok Adalat sessions, and negotiate directly with bank credit committees for maximum lawful debt waivers.
               </p>
@@ -1041,9 +1041,9 @@ export default function PersonalLoanSettlementIndorePage() {
                 <HelpCircle className="w-4 h-4" />
                 <span>12. Frequently Asked Questions</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
                 Frequently Asked Questions About Personal Loan Settlement in Indore
-              </h2>
+              </h3>
 
               <div className="space-y-4">
                 {faqs.map((faq, index) => (
@@ -1069,10 +1069,10 @@ export default function PersonalLoanSettlementIndorePage() {
 
             {/* Regulatory References & Official Sources Strip */}
             <div className="bg-slate-50 border border-slate-200 rounded-2xl p-6 my-10">
-              <h3 className="text-base font-bold text-slate-900 mb-4 flex items-center gap-2">
+              <h4 className="text-base font-bold text-slate-900 mb-4 flex items-center gap-2">
                 <Landmark className="w-5 h-5 text-[#1F5EFF]" />
                 Official Regulatory References &amp; Statutory Circulars
-              </h3>
+              </h4>
               <ul className="space-y-3 text-xs text-slate-600">
                 <li className="flex items-start gap-2">
                   <ExternalLink className="w-4 h-4 text-[#1F5EFF] flex-shrink-0 mt-0.5" />
@@ -1134,10 +1134,10 @@ export default function PersonalLoanSettlementIndorePage() {
 
             {/* Related Guides & Resources Strip (10 Topic Badges) */}
             <div className="bg-slate-50 border border-slate-200 rounded-2xl p-6 my-10">
-              <h3 className="text-base font-bold text-slate-900 mb-4 flex items-center gap-2">
+              <h4 className="text-base font-bold text-slate-900 mb-4 flex items-center gap-2">
                 <BookOpen className="w-5 h-5 text-[#1F5EFF]" />
                 Explore Related Banking &amp; Debt Resolution Guides
-              </h3>
+              </h4>
               <div className="flex flex-wrap gap-2.5">
                 <Link
                   href="/bank-one-time-settlement-ots-policy"

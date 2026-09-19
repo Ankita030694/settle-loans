@@ -262,7 +262,7 @@ const jsonLdGraph = {
           "name": "Are debt settlement companies officially licensed or approved by the RBI?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "The Reserve Bank of India (RBI) regulates banks, NBFCs, and Asset Reconstruction Companies (ARCs), but it does not directly license or certify third-party debt settlement consultancies. Legitimate debt settlement assistance is provided under legal advisory and representative frameworks through advocates enrolled with the Bar Council of India, who represent borrowers under the Indian Contract Act and RBI Fair Practices Code."
+            "text": "The Reserve Bank of India (RBI) regulates banks, NBFCs, and Asset Reconstruction Companies (ARCs), but it does not directly license or certify third-party debt settlement consultancies. Legitimate debt settlement help is provided under legal advisory and agent frameworks through advocates enrolled with the Bar Council of India, who represent borrowers under the Indian Contract Act and RBI Fair Practices Code."
           }
         },
         {

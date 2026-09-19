@@ -253,15 +253,15 @@ export default function JointLoanDeathLiabilityPage() {
             </section>
 
             <section id="co-borrower-liability" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 Understanding Co-Borrower Liability
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 Many co-borrowers sign loan documents merely to augment the loan eligibility of the primary applicant. However, the law does not differentiate based on intent.
               </p>
 
               <div className="bg-blue-50 border-l-8 border-[#1F5EFF] p-8 rounded-r-2xl mb-8">
-                <h3 className="text-xl font-black text-[#1F5EFF] mb-4">The Joint Loan Death Clause</h3>
+                <h4 className="text-xl font-black text-[#1F5EFF] mb-4">The Joint Loan Death Clause</h4>
                 <p className="text-blue-900 text-lg leading-relaxed mb-4">
                   Standard loan agreements contain a joint loan death clause. This clause stipulates that in the event of the primary borrower's death, the loan does not simply vanish. Instead, the surviving co-borrower becomes 100% liable for the outstanding balance.
                 </p>
@@ -283,22 +283,22 @@ export default function JointLoanDeathLiabilityPage() {
             </section>
 
             <section id="loan-insurance-shield" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 The Role of Loan Insurance (Credit Shield)
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 Before panicking about a massive debt, the very first thing you must check is if the primary borrower opted for loan protection insurance at the time of disbursement.
               </p>
 
               <div className="grid md:grid-cols-2 gap-6 my-8">
                 <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
-                  <h3 className="font-black text-[#1F5EFF] text-lg mb-3">What is a Credit Shield?</h3>
+                  <h4 className="font-black text-[#1F5EFF] text-lg mb-3">What is a Credit Shield?</h4>
                   <p className="text-gray-700 leading-relaxed">
                     It is an insurance policy explicitly designed to cover the outstanding loan amount in case of the borrower's untimely death, accidental disability, or critical illness.
                   </p>
                 </div>
                 <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
-                  <h4 className="font-black text-[#1F5EFF] text-lg mb-3">How it Protects You</h4>
+                  <h5 className="font-black text-[#1F5EFF] text-lg mb-3">How it Protects You</h5>
                   <p className="text-gray-700 leading-relaxed">
                     If active, the insurance company will settle the remaining principal with the bank directly. The co-borrower is completely relieved of the financial obligation.
                   </p>
@@ -306,7 +306,7 @@ export default function JointLoanDeathLiabilityPage() {
               </div>
               
               <div className="bg-red-50 p-6 rounded-xl border border-red-100 mb-8">
-                <h4 className="text-xl font-black text-red-700 mb-3">Bank Reluctance to Process Claims</h4>
+                <h5 className="text-xl font-black text-red-700 mb-3">Bank Reluctance to Process Claims</h5>
                 <p className="text-red-900 leading-relaxed">
                   Banks often prefer to recover from the living co-borrower rather than navigating the tedious insurance claim process. They might hide the existence of the policy. You must demand the master policy documents and enforce the claim within the stipulated time limit (usually 90 days from the date of death).
                 </p>
@@ -314,9 +314,9 @@ export default function JointLoanDeathLiabilityPage() {
             </section>
 
             <section id="legal-heir-vs-coborrower" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 Legal Heir vs. Co-Borrower Liability
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 It is crucial to differentiate between someone who is merely a legal heir versus someone who explicitly signed as a co-borrower.
               </p>
@@ -332,9 +332,9 @@ export default function JointLoanDeathLiabilityPage() {
             </section>
 
             <section id="immediate-steps" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 Immediate Steps to Take
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 When the primary applicant in a personal loan passes away, taking swift and documented action is essential to protect yourself.
               </p>
@@ -343,7 +343,7 @@ export default function JointLoanDeathLiabilityPage() {
                 <div className="flex gap-6">
                   <div className="flex-shrink-0 w-12 h-12 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center font-black text-xl shadow-lg">1</div>
                   <div>
-                    <h3 className="text-2xl font-bold text-[#2E2E2E] mb-2">Inform the Bank Officially</h3>
+                    <h4 className="text-2xl font-bold text-[#2E2E2E] mb-2">Inform the Bank Officially</h4>
                     <p className="text-lg text-gray-700 leading-relaxed">
                       Do not simply stop paying EMIs. Submit a written intimation of death to the bank branch, accompanied by a notarized copy of the death certificate. Obtain an acknowledgment receipt.
                     </p>
@@ -353,7 +353,7 @@ export default function JointLoanDeathLiabilityPage() {
                 <div className="flex gap-6">
                   <div className="flex-shrink-0 w-12 h-12 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center font-black text-xl shadow-lg">2</div>
                   <div>
-                    <h3 className="text-2xl font-bold text-[#2E2E2E] mb-2">Demand the Loan Agreement</h3>
+                    <h4 className="text-2xl font-bold text-[#2E2E2E] mb-2">Demand the Loan Agreement</h4>
                     <p className="text-lg text-gray-700 leading-relaxed">
                       Request the complete loan kit and statement of accounts. Check specifically for the exact wording of the joint loan death clause and any attached loan protection insurance policies.
                     </p>
@@ -363,7 +363,7 @@ export default function JointLoanDeathLiabilityPage() {
                 <div className="flex gap-6">
                   <div className="flex-shrink-0 w-12 h-12 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center font-black text-xl shadow-lg">3</div>
                   <div>
-                    <h3 className="text-2xl font-bold text-[#2E2E2E] mb-2">Initiate Insurance Claim</h3>
+                    <h4 className="text-2xl font-bold text-[#2E2E2E] mb-2">Initiate Insurance Claim</h4>
                     <p className="text-lg text-gray-700 leading-relaxed">
                       If an insurance policy exists, immediately file the claim with the insurance provider. Ensure you follow up relentlessly, as banks will continue to charge interest until the claim is settled.
                     </p>
@@ -373,22 +373,22 @@ export default function JointLoanDeathLiabilityPage() {
             </section>
 
             <section id="compassionate-settlement" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 Negotiating a Compassionate Settlement
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 If there is no insurance and you are unable to repay the massive joint loan debt, you can seek a compassionate waiver or a One-Time Settlement (OTS).
               </p>
 
               <div className="grid md:grid-cols-2 gap-6 my-8">
                 <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
-                  <h3 className="font-black text-[#1F5EFF] text-lg mb-3">The Compassionate Grounds</h3>
+                  <h4 className="font-black text-[#1F5EFF] text-lg mb-3">The Compassionate Grounds</h4>
                   <p className="text-gray-700 leading-relaxed">
                     Banks have internal policies to offer significant waivers (sometimes up to 80-90% of the principal) if the surviving co-borrower can prove severe financial hardship, lack of income, or if there are minor dependents involved.
                   </p>
                 </div>
                 <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
-                  <h4 className="font-black text-[#1F5EFF] text-lg mb-3">The Legal Intervention</h4>
+                  <h5 className="font-black text-[#1F5EFF] text-lg mb-3">The Legal Intervention</h5>
                   <p className="text-gray-700 leading-relaxed">
                     Banks rarely offer these waivers voluntarily. Hiring a specialized legal team forces the bank's grievance redressal committee to take your hardship application seriously and approve a massive waiver.
                   </p>
@@ -397,9 +397,9 @@ export default function JointLoanDeathLiabilityPage() {
             </section>
 
             <section id="bank-tactics" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 Dealing with Bank Harassment
-              </h2>
+              </h3>
               <div className="bg-gray-50 p-8 rounded-2xl mb-8 border border-gray-200">
                 <p className="text-lg leading-relaxed mb-6 text-gray-800">
                   Unfortunately, recovery agents lack empathy. They may use aggressive tactics to recover the joint loan after death. You must know your rights:
@@ -422,9 +422,9 @@ export default function JointLoanDeathLiabilityPage() {
             </section>
 
             <section id="success-stories" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 Client Success Stories
-              </h2>
+              </h3>
               <div className="grid md:grid-cols-2 gap-6 my-8">
                 <div className="bg-white p-8 rounded-[30px] border border-[#DEDEDE] shadow-sm hover:shadow-xl group transition-all">
                   <div className="flex items-center gap-4 mb-6">
@@ -432,7 +432,7 @@ export default function JointLoanDeathLiabilityPage() {
                       MS
                     </div>
                     <div>
-                      <h3 className="font-bold text-gray-900">Meera S.</h3>
+                      <h4 className="font-bold text-gray-900">Meera S.</h4>
                       <div className="flex text-yellow-400">
                         <svg className="w-4 h-4 fill-current" viewBox="0 0 20 20"><path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z"/></svg>
                         <svg className="w-4 h-4 fill-current" viewBox="0 0 20 20"><path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z"/></svg>
@@ -457,7 +457,7 @@ export default function JointLoanDeathLiabilityPage() {
                       RK
                     </div>
                     <div>
-                      <h4 className="font-bold text-gray-900">Ravi K.</h4>
+                      <h5 className="font-bold text-gray-900">Ravi K.</h5>
                       <div className="flex text-yellow-400">
                         <svg className="w-4 h-4 fill-current" viewBox="0 0 20 20"><path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z"/></svg>
                         <svg className="w-4 h-4 fill-current" viewBox="0 0 20 20"><path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z"/></svg>
@@ -479,13 +479,13 @@ export default function JointLoanDeathLiabilityPage() {
             </section>
 
             <section id="faqs" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 Frequently Asked Questions
-              </h2>
+              </h3>
               <div className="space-y-4">
                 {(jsonLd["@graph"].find((g: any) => g["@type"] === "FAQPage") as any)?.mainEntity?.map((faq: any, index: number) => (
                   <div key={index} className="bg-white border border-[#DEDEDE] rounded-xl p-6 hover:shadow-md transition-shadow">
-                    <h3 className="text-xl font-bold text-[#2E2E2E] mb-3">{faq.name}</h3>
+                    <h4 className="text-xl font-bold text-[#2E2E2E] mb-3">{faq.name}</h4>
                     <p className="text-gray-700 leading-relaxed">{faq.acceptedAnswer.text}</p>
                   </div>
                 ))}
@@ -494,7 +494,7 @@ export default function JointLoanDeathLiabilityPage() {
 
             <div className="bg-[#2E2E2E] text-white p-12 rounded-[40px] text-center mt-24 relative overflow-hidden group">
               <div className="absolute inset-0 bg-[#1F5EFF] opacity-0 group-hover:opacity-5 transition-opacity"></div>
-              <h3 className="text-3xl font-black mb-6 relative z-10">Stop the Illegal Harassment</h3>
+              <h4 className="text-3xl font-black mb-6 relative z-10">Stop the Illegal Harassment</h4>
               <p className="text-xl opacity-90 mb-8 relative z-10 max-w-2xl mx-auto">
                 Did your spouse or co-borrower pass away leaving you with a massive joint loan debt? Let our compassionate legal team negotiate a massive waiver or settlement with the bank on your behalf.
               </p>

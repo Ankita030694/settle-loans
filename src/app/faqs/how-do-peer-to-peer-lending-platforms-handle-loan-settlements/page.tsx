@@ -235,10 +235,10 @@ export default function P2PLoanSettlementPage() {
                                 Unlike a bank loan, where your debt is owed to a single corporate entity, a P2P loan is often "crowdfunded" by dozens, sometimes hundreds, of individual lenders. This creates a unique challenge when a borrower faces financial hardship. How do you negotiate a settlement when your creditors are a group of strangers scattered across the country? This guide is designed to provide you with the technical knowledge and strategic roadmap to successfully navigate this landscape.
                             </p>
                             <div className="bg-blue-50 p-8 rounded-2xl border-l-4 border-blue-500 mb-8">
-                                <h3 className="text-lg font-bold text-blue-900 mb-4 flex items-center gap-2">
+                                <h4 className="text-lg font-bold text-blue-900 mb-4 flex items-center gap-2">
                                     <FontAwesomeIcon icon={faCircleInfo} className="text-blue-500" />
                                     The Fintech Paradigm Shift
-                                </h3>
+                                </h4>
                                 <p className="text-blue-800">
                                     In P2P lending, the platform acts as an **NBFC-P2P (Non-Banking Financial Company - Peer to Peer)**. They are strictly intermediaries. They do not lend their own money; they manage the *flow* of money. This distinction is the bedrock of understanding how settlement negotiations work in this space.
                                 </p>
@@ -246,9 +246,9 @@ export default function P2PLoanSettlementPage() {
                         </section>
 
                         <section id="p2p-ecosystem" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                                 The P2P Ecosystem: Who are You Really Owe?
-                            </h2>
+                            </h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 To settle a loan, you must first understand the ecosystem. In a standard P2P transaction, there are three main parties: the **Borrower**, the **Lenders (Investors)**, and the **Platform**.
                             </p>
@@ -261,14 +261,14 @@ export default function P2PLoanSettlementPage() {
                         </section>
 
                         <section id="settlement-mechanics" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                                 Mechanics of a P2P Settlement: The Step-by-Step Flow
-                            </h2>
+                            </h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 Negotiation with a P2P platform is a multi-stage process. Unlike a bank where you might walk into a branch and meet a manager, P2P negotiations are almost entirely digital and centralized.
                             </p>
                             <div className="bg-gray-50 p-8 rounded-2xl mb-8">
-                                <h3 className="text-lg font-bold mb-6 text-[#1F5EFF] uppercase">The Professional Settlement Lifecycle:</h3>
+                                <h4 className="text-lg font-bold mb-6 text-[#1F5EFF] uppercase">The Professional Settlement Lifecycle:</h4>
                                 <div className="space-y-6">
                                     <div className="flex gap-4">
                                         <div className="w-8 h-8 rounded-full bg-[#1F5EFF] text-white flex-shrink-0 flex items-center justify-center font-bold">1</div>
@@ -303,9 +303,9 @@ export default function P2PLoanSettlementPage() {
                         </section>
 
                         <section id="rbi-rulebook" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                                 The RBI P2P Rulebook: Your Legal Shield
-                            </h2>
+                            </h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 Many borrowers fear that fintech companies operate outside the law. This is a myth. Every major P2P platform in India is an **RBI-Registered NBFC**. They are bound by the **Fair Practice Code (FPC)**.
                             </p>
@@ -336,28 +336,28 @@ export default function P2PLoanSettlementPage() {
                         </section>
 
                         <section id="negotiation-strategy" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                                 Expert Negotiation Strategies for P2P Debt
-                            </h2>
+                            </h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 Because P2P lenders are individuals, the negotiation requires a "human-centric" approach. Here are the three most successful strategies we use at SettleLoans:
                             </p>
                             <div className="grid md:grid-cols-2 gap-8 mb-8">
                                 <div className="p-8 bg-blue-900/5 rounded-3xl border border-blue-100">
-                                    <h3 className="text-xl font-bold mb-4 text-[#1F5EFF]">Strategic Transparency</h3>
+                                    <h4 className="text-xl font-bold mb-4 text-[#1F5EFF]">Strategic Transparency</h4>
                                     <p className="text-sm leading-relaxed">Don't just say you can't pay. Show your P&L or bank statement. Individual investors are often empathetic to medical emergencies or family losses if they see genuine proof.</p>
                                 </div>
                                 <div className="p-8 bg-blue-900/5 rounded-3xl border border-blue-100">
-                                    <h4 className="text-xl font-bold mb-4 text-[#1F5EFF]">The First-Mover Offer</h4>
+                                    <h5 className="text-xl font-bold mb-4 text-[#1F5EFF]">The First-Mover Offer</h5>
                                     <p className="text-sm leading-relaxed">P2P investors often fear that the borrower will run away. By proactive making a 40-50% settlement offer, you signal "Good Intent", which is highly valued in fintech audit circles.</p>
                                 </div>
                             </div>
                         </section>
 
                         <section id="lender-psychology" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                                 The Psychology of the Individual P2P Lender
-                            </h2>
+                            </h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 Understanding the mindset of your creditor is the most powerful tool in any negotiation. In a bank loan, you are dealing with a faceless balance sheet managed by salaried employees who have no personal attachment to the money. In P2P lending, your "bank manager" is often a software engineer in Bangalore, a retired teacher in Pune, or a small business owner in Delhi who has invested their hard-earned savings into your loan.
                             </p>
@@ -366,11 +366,11 @@ export default function P2PLoanSettlementPage() {
                             </p>
                             <div className="grid md:grid-cols-2 gap-6 mb-8">
                                 <div className="bg-white p-6 rounded-xl border border-gray-200">
-                                    <h3 className="font-bold text-lg mb-3">The "Anxious Saver"</h3>
+                                    <h4 className="font-bold text-lg mb-3">The "Anxious Saver"</h4>
                                     <p className="text-gray-700 text-sm">This investor has put a small amount (say ₹10,000) and panics when an EMI is missed. They are more likely to accept a quick settlement just to see some money back, as they fear a total loss.</p>
                                 </div>
                                 <div className="bg-white p-6 rounded-xl border border-gray-200">
-                                    <h4 className="font-bold text-lg mb-3">The "Agnostic Professional"</h4>
+                                    <h5 className="font-bold text-lg mb-3">The "Agnostic Professional"</h5>
                                     <p className="text-gray-700 text-sm">This investor has a large portfolio across 500 loans. For them, your default is just a statistic. They may be harder to negotiate with unless the platform provides a strong case for why a settlement is the only viable recovery path.</p>
                                 </div>
                             </div>
@@ -380,9 +380,9 @@ export default function P2PLoanSettlementPage() {
                         </section>
 
                         <section id="individual-vs-platform" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                                 Investors vs Platforms: Navigating the Split
-                            </h2>
+                            </h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 This is the most technical part of P2P settlement. Sometimes, the platform wants to settle (to clear their NPA books), but a few high-value investors refuse. In such cases, the platform might offer a **Partial Settlement** or a **Multi-Stage Closure**.
                             </p>
@@ -392,14 +392,14 @@ export default function P2PLoanSettlementPage() {
                         </section>
 
                         <section id="regional-variance" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                                 State-wise Recovery Variance and Local Jurisdiction
-                            </h2>
+                            </h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 P2P platforms operate nationally, but recovery practices often vary based on the borrower's location. This is because the legal infrastructure for debt recovery (Civil Courts, Consumer Forums, and Police Jurisdictions) is state-managed.
                             </p>
                             <div className="bg-gray-900 text-[#DEDEDE] p-8 rounded-3xl mb-8">
-                                <h3 className="text-xl font-bold mb-6 border-b border-white/10 pb-4">The P2P Recovery Map (Internal Industry Analysis):</h3>
+                                <h4 className="text-xl font-bold mb-6 border-b border-white/10 pb-4">The P2P Recovery Map (Internal Industry Analysis):</h4>
                                 <div className="space-y-6">
                                     <div>
                                         <p className="text-[#1F5EFF] font-bold mb-1 uppercase text-xs tracking-widest">Zone A: High-Tech Hubs (Karnataka, Telangana, Maharashtra)</p>
@@ -421,17 +421,17 @@ export default function P2PLoanSettlementPage() {
                         </section>
 
                         <section id="escrow-protection" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                                 The Escrow Shield: Ensuring Your Money Reaches the Right Hands
-                            </h2>
+                            </h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 One of the biggest risks in debt settlement is **Agent Fraud**. Scammers often pose as platform employees and ask you to transfer money to personal bank accounts.
                             </p>
                             <div className="bg-red-50 p-8 rounded-2xl border-2 border-red-100 mb-8">
-                                <h3 className="text-red-900 font-bold mb-4 flex items-center gap-2">
+                                <h4 className="text-red-900 font-bold mb-4 flex items-center gap-2">
                                     <FontAwesomeIcon icon={faShieldHalved} />
                                     The Golden Rule of P2P Payment
-                                </h3>
+                                </h4>
                                 <p className="text-red-800 leading-relaxed font-medium">
                                     Never pay a settlement amount to an individual. Every P2P platform uses a **Trustee-Controlled Escrow Account** (governed by banks like ICICI or Axis). Ensure the Virtual Account Number (VAN) matches the one provided in your official dashboard or the sanction letter.
                                 </p>
@@ -442,9 +442,9 @@ export default function P2PLoanSettlementPage() {
                         {/* I will add these in the next tool call as I am writing the file in chunks */}
 
                         <section id="compliance-checklist" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                                 The Master RBI Compliance Checklist for P2P Settlement
-                            </h2>
+                            </h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 Before you sign any settlement deal with a platform like Faircent or Lendbox, run it through this 10-point compliance check to ensure you are legally protected.
                             </p>
@@ -477,9 +477,9 @@ export default function P2PLoanSettlementPage() {
                         </section>
 
                         <section id="professional-assistance" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                                 Why Professional Debt Management is the Only Logical Choice for P2P Debt
-                            </h2>
+                            </h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 If you are dealing with a single bank, you might feel confident in your ability to negotiate. However, P2P debt is a game of scale. When you have a loan that is split across 50 individual investors, you aren't just negotiating one settlement; you are managing a collective consensus.
                             </p>
@@ -487,7 +487,7 @@ export default function P2PLoanSettlementPage() {
                                 This is where professional firms like SettleLoans provide an insurmountable advantage. We don't just ask for a settlement; we manage the institutional friction of the P2P platform.
                             </p>
                             <div className="bg-blue-50 p-8 rounded-2xl mb-8">
-                                <h3 className="text-xl font-bold mb-4 text-[#1F5EFF]">The Professional Advantage:</h3>
+                                <h4 className="text-xl font-bold mb-4 text-[#1F5EFF]">The Professional Advantage:</h4>
                                 <ul className="space-y-4">
                                     <li className="flex items-start gap-3">
                                         <div className="w-6 h-6 rounded-full bg-blue-100 flex-shrink-0 flex items-center justify-center text-blue-600 font-bold text-xs">A</div>
@@ -509,9 +509,9 @@ export default function P2PLoanSettlementPage() {
                         </section>
 
                         <section id="technical-glossary" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                                 P2P Settlement Glossary: Decoding the Fintech Jargon
-                            </h2>
+                            </h3>
                             <p className="text-lg leading-relaxed mb-8">
                                 When you speak to a P2P platform representative, they will use specific technical terms designed to sound imposing. Use this glossary to stay one step ahead.
                             </p>
@@ -536,9 +536,9 @@ export default function P2PLoanSettlementPage() {
                         </section>
 
                         <section id="p2p-vs-banks" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                                 P2P vs. Bank Settlement: A Comparative Analysis
-                            </h2>
+                            </h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 How does a fintech settlement compare to a traditional bank like SBI or HDFC? The differences are stark. Banks have rigid "Settlement Committees" and pre-defined "Waiver Matrixes". P2P platforms are more agile.
                             </p>
@@ -582,7 +582,7 @@ export default function P2PLoanSettlementPage() {
                         <section className="bg-[#1F5EFF] rounded-[10px] p-8 md:p-12 text-center text-white relative overflow-hidden shadow-2xl">
                             <div className="absolute top-0 right-0 w-64 h-64 bg-white/10 rounded-full -mr-32 -mt-32"></div>
                             <div className="relative z-10">
-                                <h2 className="text-3xl md:text-5xl font-black mb-6 uppercase tracking-tighter">Struggling with P2P Debt?</h2>
+                                <h3 className="text-3xl md:text-5xl font-black mb-6 uppercase tracking-tighter">Struggling with P2P Debt?</h3>
                                 <p className="text-lg md:text-2xl opacity-90 max-w-2xl mx-auto mb-10 leading-tight font-normal">
                                     Our fintech experts know how to handle multi-lender settlements. Let us take the burden off your shoulders.
                                 </p>

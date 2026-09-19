@@ -275,14 +275,14 @@ export default function BouncedSecurityCheckPage() {
                         </section>
 
                         <section id="security-vs-debt" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                                 The Security vs Debt Distinction: <span className="text-[#1F5EFF]">Your Primary Legal Shield</span>
-                            </h2>
+                            </h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 Not every bounced cheque leads to a conviction. The Supreme Court has repeatedly clarified the difference between a check issued for a "Debt" and a check issued for "Security". A security check is given as an assurance for a future contingent liability. If that liability has not matured, the check is not an enforceable instrument under Section 138.
                             </p>
                             <div className="bg-blue-50 p-8 rounded-2xl border border-blue-100 my-8">
-                                <h3 className="font-bold text-blue-900 mb-4 text-xl">The "Security" Defence Framework:</h3>
+                                <h4 className="font-bold text-blue-900 mb-4 text-xl">The "Security" Defence Framework:</h4>
                                 <ul className="space-y-4">
                                     <li className="flex items-start gap-3 text-blue-800">
                                         <div className="w-6 h-6 rounded-full bg-blue-600 text-white flex items-center justify-center font-bold flex-shrink-0 mt-0.5 text-xs">1</div>
@@ -307,21 +307,21 @@ export default function BouncedSecurityCheckPage() {
                         </section>
 
                         <section id="technical-quashing" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                                 Technical Quashing: <span className="text-[#1F5EFF]">Winning Without a Trial</span>
-                            </h2>
+                            </h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 Why fight a long trial when you can get the case dismissed at the start? Section 138 is a "Procedural Heavy" law. If the bank's lawyer misses even one deadline or notice requirement, the case is "Fatally Defective". We conduct a forensic timeline audit of the bank's action.
                             </p>
                             <div className="grid md:grid-cols-2 gap-6 my-10 font-bold">
                                 <div className="bg-gray-50 p-6 rounded-xl border border-gray-200">
-                                    <h3 className="text-xl font-bold text-[#2E2E2E] mb-4">Notice Period Errors</h3>
+                                    <h4 className="text-xl font-bold text-[#2E2E2E] mb-4">Notice Period Errors</h4>
                                     <p className="text-sm text-gray-600 leading-relaxed">
                                         The law gives you exactly 15 days to pay AFTER receiving the notice. If the bank files the court case on the 14th day, it's premature. If they file it on the 46th day, it's time-barred. We find these 24-hour errors that kill the bank's case instantly.
                                     </p>
                                 </div>
                                 <div className="bg-gray-50 p-6 rounded-xl border border-gray-200">
-                                    <h3 className="text-xl font-bold text-[#2E2E2E] mb-4">The "Service" Defence</h3>
+                                    <h4 className="text-xl font-bold text-[#2E2E2E] mb-4">The "Service" Defence</h4>
                                     <p className="text-sm text-gray-600 leading-relaxed">
                                         The bank must prove that you actually "Received" the notice. If they sent it to an old address or if the tracking report is "Incomplete", the case cannot proceed. We challenge the "Proof of Service" to prevent the case from even reaching the summoning stage.
                                     </p>
@@ -333,15 +333,15 @@ export default function BouncedSecurityCheckPage() {
                         </section>
 
                         <section id="ni-act-2025-updates" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                                 2025 Legal Updates: <span className="text-[#1F5EFF]">What Borrowers Must Know</span>
-                            </h2>
+                            </h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 The year 2025 has brought significant changes to how cheque bounce cases are handled in India. The "Negotiable Instruments (Amendment) Ordinance 2024" and subsequent rules have shifted the focus toward "Fast-Track Mediation" and "Digital Evidence".
                             </p>
                             <div className="bg-[#2E2E2E] text-white p-8 rounded-2xl shadow-lg my-10 relative overflow-hidden font-bold">
                                 <div className="absolute top-0 right-0 w-40 h-40 bg-white/5 rounded-bl-full -mr-20 -mt-20"></div>
-                                <h3 className="text-2xl font-bold mb-6 relative z-10">Critical 2025 Changes</h3>
+                                <h4 className="text-2xl font-bold mb-6 relative z-10">Critical 2025 Changes</h4>
                                 <ul className="space-y-4 relative z-10 opacity-90">
                                     <li>• **Mandatory Mediation:** Courts are now referring 138 cases for mandatory pre-litigation mediation. This is your chance to settle for "Nett Principal" without a criminal record.</li>
                                     <li>• **ECS/NACH Mapped to 138:** Digital payment failures (NACH bounce) are now treated with the same severity as physical cheque bounces. The same "Security vs Debt" defences apply.</li>
@@ -354,14 +354,14 @@ export default function BouncedSecurityCheckPage() {
                         </section>
 
                         <section id="credit-card-defence" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                                 Credit Card Disputes: <span className="text-[#1F5EFF]">Challenging the Statement</span>
-                            </h2>
+                            </h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 Credit card companies are notorious for taking a blank check during the application and depositing it for a "Total Outstanding" that includes massive penalties and hidden fees. In a Section 138 case, the bank's "Statement of Account" is not gospel; it is just evidence that can be challenged.
                             </p>
                             <div className="bg-amber-50 p-8 rounded-xl border border-amber-200 my-8">
-                                <h3 className="text-xl font-bold text-amber-900 mb-4">The "Interest Audit" Defence</h3>
+                                <h4 className="text-xl font-bold text-amber-900 mb-4">The "Interest Audit" Defence</h4>
                                 <p className="text-sm text-amber-800 leading-relaxed mb-4 font-bold">
                                     Did the bank charge you 42% interest during a period when your card was blocked? Did they keep adding "Late Payment Fees" even after you notified them of a dispute? If the amount written on the check includes these illegal charges, the "Liability" is not legally enforceable.
                                 </p>
@@ -375,9 +375,9 @@ export default function BouncedSecurityCheckPage() {
                         </section>
 
                         <section id="signature-challenges" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                                 Signature & Forgery: <span className="text-[#1F5EFF]">The Scientific Defence</span>
-                            </h2>
+                            </h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 What if you didn't even sign the cheque? Or what if you signed a blank cheque and the bank filled in a date or amount that you never agreed to? This is where forensic science meets the NI Act.
                             </p>
@@ -401,14 +401,14 @@ export default function BouncedSecurityCheckPage() {
                         </section>
 
                         <section id="settlement-leverage" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                                 Settlement Leverage: <span className="text-[#1F5EFF]">Closing the Case Forever</span>
-                            </h2>
+                            </h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 The ultimate goal of a bank recovery case is usually not to send you to jail, but to get the money. A strong technical defence is your best "Negotiation Tool". When the bank realizes their case has 5 procedural holes, they stop talking about 2 years in jail and start talking about a "Waiver of Interest".
                             </p>
                             <div className="bg-gray-50 border border-gray-200 p-8 rounded-2xl mb-8 font-bold">
-                                <h3 className="text-xl font-bold mb-4 text-[#1F5EFF]">The "Compounding" Advantage:</h3>
+                                <h4 className="text-xl font-bold mb-4 text-[#1F5EFF]">The "Compounding" Advantage:</h4>
                                 <p className="mb-4 text-gray-700 leading-relaxed text-sm">
                                     Since 138 is a compoundable offence, we can settle it at any time. We use the "Defence Pressure" (Summoning bank records, cross-examining the manager, filing counter-claims) to bring the bank to the table for a "Mutual Settlement Agreement" (MSA).
                                 </p>
@@ -419,14 +419,14 @@ export default function BouncedSecurityCheckPage() {
                         </section>
 
                         <section id="defence-strategies" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                                 Advanced Defence Strategies: <span className="text-[#1F5EFF]">Beyond the Signature Admit</span>
-                            </h2>
+                            </h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 Most lawyers give up as soon as the client admits their signature on the cheque. We don't. Admission of signature only triggers a "Rebuttable Presumption". To win, we must build a "Preponderance of Probabilities" that turns the tide.
                             </p>
                             <div className="bg-white border border-[#DEDEDE] p-8 rounded-3xl mb-8 shadow-sm">
-                                <h3 className="text-xl font-bold mb-4">The "Financial Capacity" Challenge</h3>
+                                <h4 className="text-xl font-bold mb-4">The "Financial Capacity" Challenge</h4>
                                 <p className="text-gray-600 mb-6 leading-relaxed">
                                     In "Friendly Loan" or "Private Funding" cases, we challenge the complainant's ability to lend the money. If a person claiming to have lent you 10 Lakhs doesn't have 10 Lakhs in their own bank account, or hasn't shown the loan in their ITR (Income Tax Return), the debt is no longer "Legally Enforceable".
                                 </p>
@@ -441,14 +441,14 @@ export default function BouncedSecurityCheckPage() {
                         </section>
 
                         <section id="cash-loans-it-act" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                                 Cash Loans & The IT Act: <span className="text-[#1F5EFF]">Defeating Unaccounted Debt</span>
-                            </h2>
+                            </h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 Many private lenders and small-time NBFCs give loans in cash, violating Section 269SS of the Income Tax Act (which prohibits cash loans above 20,000). While this doesn't automatically kill a 138 case, it puts the bank or lender in a "Defensive Crouch".
                             </p>
                             <div className="bg-red-50 p-8 rounded-2xl border border-red-100 my-8 font-bold">
-                                <h3 className="text-red-900 mb-4">The "Tainted Money" Argument:</h3>
+                                <h4 className="text-red-900 mb-4">The "Tainted Money" Argument:</h4>
                                 <p className="text-red-800 text-sm leading-relaxed mb-4">
                                     If the complainant cannot prove the "Source of Funds" or if the cash was never reflected in their books, the court often views the debt as a "Gambling Debt" or "Unaccounted Transaction".
                                 </p>
@@ -462,9 +462,9 @@ export default function BouncedSecurityCheckPage() {
                         </section>
 
                         <section id="the-143a-battle" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                                 Winning the Section 143A Battle: <span className="text-[#1F5EFF]">Blocking Interim Compensation</span>
-                            </h2>
+                            </h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 Section 143A is the most dangerous tool for a complainant—it allows the magistrate to order you to pay 20% of the check amount within 60 days. For a 1 Crore check, that's 20 Lakhs immediately.
                             </p>
@@ -477,7 +477,7 @@ export default function BouncedSecurityCheckPage() {
                         </section>
 
                         <section id="success-stories" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 text-center">Success Stories: Financial Freedom Revived</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 text-center">Success Stories: Financial Freedom Revived</h3>
                             <div className="grid md:grid-cols-2 gap-6 not-prose">
                                 {[
                                     {
@@ -515,7 +515,7 @@ export default function BouncedSecurityCheckPage() {
                                                 {review.name.charAt(0)}
                                             </div>
                                             <div>
-                                                <h3 className="font-bold text-[#2E2E2E]">{review.name}</h3>
+                                                <h4 className="font-bold text-[#2E2E2E]">{review.name}</h4>
                                                 <p className="text-xs text-gray-400">{review.loc}</p>
                                             </div>
                                             <div className="ml-auto text-yellow-400 text-sm flex gap-0.5">
@@ -534,7 +534,7 @@ export default function BouncedSecurityCheckPage() {
                         </section>
 
                         <section id="faqs" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Frequently Asked Questions</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Frequently Asked Questions</h3>
                             <div className="space-y-4 not-prose">
                                 {jsonLd["@graph"] && jsonLd["@graph"][4] && (jsonLd["@graph"][4] as any).mainEntity && (jsonLd["@graph"][4] as any)?.mainEntity?.map((faq: any, i: number) => (
                                     <details key={i} className="group bg-white border border-[#DEDEDE] rounded-xl overflow-hidden hover:shadow-md transition-all border-b-4 border-b-[#1F5EFF]/20 font-bold">
@@ -554,7 +554,7 @@ export default function BouncedSecurityCheckPage() {
 
                         <div className="mt-24 p-12 bg-[#2E2E2E] rounded-[32px] text-center text-white shadow-2xl relative overflow-hidden">
                             <div className="absolute top-0 left-0 w-full h-1 bg-[#1F5EFF]"></div>
-                            <h2 className="text-3xl md:text-5xl font-black mb-6">Defend Your Reputation</h2>
+                            <h3 className="text-3xl md:text-5xl font-black mb-6">Defend Your Reputation</h3>
                             <p className="text-lg md:text-xl opacity-70 mb-10 max-w-2xl mx-auto leading-relaxed font-bold">
                                 A cheque bounce memo is not a conviction. Our 138 defence specialists have the technical expertise to rebut debt presumptions and quash illegal bank complaints.
                             </p>

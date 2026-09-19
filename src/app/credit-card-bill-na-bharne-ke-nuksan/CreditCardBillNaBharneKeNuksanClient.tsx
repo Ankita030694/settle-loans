@@ -381,9 +381,9 @@ export default function CreditCardBillNaBharneKeNuksanClient() {
                 <Percent className="w-4 h-4" />
                 <span>2. Mathematical Breakdown of Compound Interest</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 The 42% APR Compounding Engine &amp; Instant Loss of Interest-Free Grace Periods
-              </h2>
+              </h3>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 To understand why credit card debt accelerates out of control so rapidly, one must examine the mathematical formulas banks use to calculate finance charges. Indian commercial banks—including HDFC Bank, SBI Cards, ICICI Bank, Axis Bank, and Kotak Mahindra Bank—apply monthly interest rates ranging from 3.50% to 3.75%. When converted into the Annualized Percentage Rate (APR), this translates to an effective rate of <strong>42.0% to 49.36% per annum</strong>. Furthermore, under Indian tax regulations, every single rupee charged as interest or penalty attracts an additional 18% Goods and Services Tax (GST).
               </p>
@@ -415,9 +415,9 @@ export default function CreditCardBillNaBharneKeNuksanClient() {
                 <AlertCircle className="w-4 h-4" />
                 <span>3. Consumer Credit Vulnerability</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 The Minimum Amount Due (MAD) Trap: How Banks Keep You Trapped for Decades
-              </h2>
+              </h3>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Many distressed cardholders mistakenly believe that paying the Minimum Amount Due (MAD) protects them from debt accumulation. This is one of the most destructive financial misconceptions in consumer banking. The Minimum Amount Due is systematically engineered to protect the bank&apos;s cash flow while ensuring the borrower remains indefinitely indebted. MAD is generally calculated as 5% of the outstanding statement balance (or 100% of accrued finance charges, GST, and late fees plus 1% to 2% of the principal balance).
               </p>
@@ -470,9 +470,9 @@ export default function CreditCardBillNaBharneKeNuksanClient() {
                 <Clock className="w-4 h-4" />
                 <span>4. Institutional Delinquency Lifecycle</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 The Credit Card Default Timeline: From First Missed Due Date to 90-Day NPA Classification
-              </h2>
+              </h3>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 When you fail to make payments on a credit card, the account moves through rigidly defined regulatory stages established by the Reserve Bank of India&apos;s Prudential Norms on Income Recognition, Asset Classification and Provisioning (IRACP). Understanding this institutional chronology enables borrowers to anticipate bank actions and identify the exact tactical window for negotiating deep debt haircuts:
               </p>
@@ -483,7 +483,7 @@ export default function CreditCardBillNaBharneKeNuksanClient() {
                     01
                   </div>
                   <div>
-                    <h3 className="font-bold text-slate-900 text-sm sm:text-base">Days 1 to 30: SMA-0 (Special Mention Account 0) &amp; Soft Collections</h3>
+                    <h4 className="font-bold text-slate-900 text-sm sm:text-base">Days 1 to 30: SMA-0 (Special Mention Account 0) &amp; Soft Collections</h4>
                     <p className="text-xs sm:text-sm text-slate-600 mt-1 leading-relaxed">
                       The cardholder misses the payment due date. The bank immediately applies late payment fees, revokes the grace period, and computes daily 42% APR interest plus GST. Automated IVR reminders, SMS warnings, and soft telephonic follow-ups begin. Credit bureaus (CIBIL, Experian, CRIF High Mark) record 30+ Days Past Due (DPD).
                     </p>
@@ -495,7 +495,7 @@ export default function CreditCardBillNaBharneKeNuksanClient() {
                     02
                   </div>
                   <div>
-                    <h4 className="font-bold text-slate-900 text-sm sm:text-base">Days 31 to 60: SMA-1 &amp; Digital Card Block</h4>
+                    <h5 className="font-bold text-slate-900 text-sm sm:text-base">Days 31 to 60: SMA-1 &amp; Digital Card Block</h5>
                     <p className="text-xs sm:text-sm text-slate-600 mt-1 leading-relaxed">
                       Two consecutive statements remain unpaid. The bank temporarily or permanently suspends credit card charging privileges across domestic and international payment gateways. The internal collections desk intensifies phone calls, and automated demand letters are dispatched via registered email and courier.
                     </p>
@@ -507,7 +507,7 @@ export default function CreditCardBillNaBharneKeNuksanClient() {
                     03
                   </div>
                   <div>
-                    <h4 className="font-bold text-slate-900 text-sm sm:text-base">Days 61 to 90: SMA-2 &amp; Third-Party Agency Allocation</h4>
+                    <h5 className="font-bold text-slate-900 text-sm sm:text-base">Days 61 to 90: SMA-2 &amp; Third-Party Agency Allocation</h5>
                     <p className="text-xs sm:text-sm text-slate-600 mt-1 leading-relaxed">
                       Three billing cycles elapse without payment. The lending institution transfers the portfolio file to external Direct Recovery Agencies (DRA). External recovery tele-callers commence high-frequency calling. The bank issues a formal loan recall notice terminating the credit card agreement under contractual terms.
                     </p>
@@ -519,7 +519,7 @@ export default function CreditCardBillNaBharneKeNuksanClient() {
                     04
                   </div>
                   <div>
-                    <h4 className="font-bold text-rose-950 text-sm sm:text-base">Days 91+: Non-Performing Asset (NPA) &amp; Balance Sheet Provisioning</h4>
+                    <h5 className="font-bold text-rose-950 text-sm sm:text-base">Days 91+: Non-Performing Asset (NPA) &amp; Balance Sheet Provisioning</h5>
                     <p className="text-xs sm:text-sm text-rose-900 mt-1 leading-relaxed">
                       Under RBI Master Directions, the credit card account is officially declared a Non-Performing Asset (NPA). The bank is legally mandated to set aside capital reserves (15% to 100% provisioning under Ind AS 109). It is during this NPA window (Days 90 to 180+) that banks become institutionally motivated to approve deep compromise settlements.
                     </p>
@@ -580,9 +580,9 @@ export default function CreditCardBillNaBharneKeNuksanClient() {
                 <BookOpen className="w-4 h-4" />
                 <span>5. Visual Debt Resolution Blueprint</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 Strategic Roadmap: Navigating Credit Card Non-Payment to 60–70% OTS Compromise
-              </h2>
+              </h3>
               <p className="text-slate-700 leading-relaxed mb-6 text-base md:text-lg">
                 The detailed infographic below outlines the dual reality of credit card default in India: the compounding financial traps on the left and the advocate-led statutory settlement pathway on the right.
               </p>
@@ -609,9 +609,9 @@ export default function CreditCardBillNaBharneKeNuksanClient() {
                 <ShieldCheck className="w-4 h-4" />
                 <span>6. Anti-Harassment Protections &amp; RBI Compliance</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 Recovery Agent Harassment Defense: Your Legal Rights Under RBI Master Directions
-              </h2>
+              </h3>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 When credit card accounts enter 60+ days of delinquency, banks frequently outsource collections to third-party Direct Recovery Agencies (DRA). Driven by lucrative recovery commissions (ranging from 10% to 25% of recovered amounts), recovery agents often resort to unlawful aggressive tactics: continuous calling, abusive language, threatening home or workplace visits, contacting relatives or employer HR departments, and sending fake legal notices or fabricated police arrest warrants over WhatsApp.
               </p>
@@ -672,39 +672,39 @@ export default function CreditCardBillNaBharneKeNuksanClient() {
                 <Gavel className="w-4 h-4" />
                 <span>7. Legal Forensics &amp; Judicial Protections</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 Legal Notice Forensics: Section 25 PSSA, Section 138, Summary Suits &amp; Arbitration
-              </h2>
+              </h3>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 As credit card defaults progress past 90 to 120 days, banks frequently issue formal legal demand notices authored by empaneled collection advocates. Distressed cardholders must recognize the distinct legal instruments lenders employ and understand the civil court protections available:
               </p>
 
               <div className="space-y-4 my-6">
                 <div className="p-4 rounded-xl border border-slate-200 bg-white">
-                  <h3 className="font-bold text-slate-900 text-sm sm:text-base flex items-center gap-2">
+                  <h4 className="font-bold text-slate-900 text-sm sm:text-base flex items-center gap-2">
                     <FileCheck className="w-4 h-4 text-[#1F5EFF]" />
                     <span>Advocate Legal Demand Notice (Contractual Recall)</span>
-                  </h3>
+                  </h4>
                   <p className="text-xs sm:text-sm text-slate-600 mt-1 leading-relaxed">
                     A standard 15-day or 30-day demand notice demanding repayment of total card dues plus compounded interest. It is a pre-litigation communication, not a court order. Responding through specialized legal counsel highlighting genuine financial hardship establishes documentary evidence for future compromise negotiations.
                   </p>
                 </div>
 
                 <div className="p-4 rounded-xl border border-slate-200 bg-white">
-                  <h4 className="font-bold text-slate-900 text-sm sm:text-base flex items-center gap-2">
+                  <h5 className="font-bold text-slate-900 text-sm sm:text-base flex items-center gap-2">
                     <Scale className="w-4 h-4 text-[#1F5EFF]" />
                     <span>Section 25 PSSA Notices (Auto-Debit / NACH Dishonour)</span>
-                  </h4>
+                  </h5>
                   <p className="text-xs sm:text-sm text-slate-600 mt-1 leading-relaxed">
                     If you set up an electronic NACH auto-debit for your credit card bill that bounced due to insufficient funds, banks may issue a notice under Section 25 of the Payment and Settlement Systems Act (PSSA), 2007. This is a quasi-criminal bailable proceeding handled in Metropolitan Magistrate Courts that is routinely compounded and dismissed through compromise settlement.
                   </p>
                 </div>
 
                 <div className="p-4 rounded-xl border border-slate-200 bg-white">
-                  <h4 className="font-bold text-slate-900 text-sm sm:text-base flex items-center gap-2">
+                  <h5 className="font-bold text-slate-900 text-sm sm:text-base flex items-center gap-2">
                     <Gavel className="w-4 h-4 text-[#1F5EFF]" />
                     <span>Order 37 CPC Summary Suits &amp; DRT Pecuniary Limits</span>
-                  </h4>
+                  </h5>
                   <p className="text-xs sm:text-sm text-slate-600 mt-1 leading-relaxed">
                     Under the Recovery of Debts and Bankruptcy Act (RDB Act), 1993, banks cannot approach the Debt Recovery Tribunal (DRT) for debts below <strong>₹20 Lakhs</strong>. Because virtually all individual credit card balances fall below ₹20 Lakhs, banks are restricted to local Civil Courts under Order 37 of the Code of Civil Procedure (CPC), where court fees (typically 5% to 8% ad-valorem) and 4 to 7 years of judicial delays make litigation economically unviable for the bank.
                   </p>
@@ -728,9 +728,9 @@ export default function CreditCardBillNaBharneKeNuksanClient() {
                 <Calculator className="w-4 h-4" />
                 <span>8. Debt Haircut Valuation &amp; Negotiation</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 How One-Time Settlement (OTS) Works: Unlocking 60%–70% Debt Haircuts Under RBI Frameworks
-              </h2>
+              </h3>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 A One-Time Settlement (OTS) is a legally binding compromise resolution executed under the Reserve Bank of India&apos;s <em>Framework for Compromise Settlements and Technical Write-offs</em> (RBI/2023-24/40). When a credit card balance transitions into a Doubtful Asset or Technical Write-off on the bank&apos;s balance sheet, the bank&apos;s internal Credit Risk Committee evaluates the asset through a Net Present Value (NPV) recovery lens.
               </p>
@@ -776,49 +776,49 @@ export default function CreditCardBillNaBharneKeNuksanClient() {
                 <FileCheck className="w-4 h-4" />
                 <span>9. Forensic Settlement Validation</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 Sanction Letter Forensics: Essential Checkpoints &amp; Guaranteed ₹0 NDC Delivery
-              </h2>
+              </h3>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Thousands of borrowers fall victim to collection agency scams where recovery tele-callers make verbal settlement promises, accept partial payments, and credit the money as regular interest payments without closing the account. To ensure complete legal closure, every settlement must satisfy rigorous forensic standards:
               </p>
 
               <div className="grid grid-cols-1 md:grid-cols-2 gap-4 my-6">
                 <div className="p-4 rounded-xl border border-slate-200 bg-white shadow-sm">
-                  <h3 className="font-bold text-slate-900 text-sm mb-1.5 flex items-center gap-2">
+                  <h4 className="font-bold text-slate-900 text-sm mb-1.5 flex items-center gap-2">
                     <Check className="w-4 h-4 text-[#1F5EFF]" />
                     <span>Official Bank Letterhead &amp; Stamp</span>
-                  </h3>
+                  </h4>
                   <p className="text-xs text-slate-600 leading-relaxed">
                     The OTS Sanction Letter must be printed on official bank stationery featuring the bank&apos;s corporate logo, branch address, authorized signatory signature, employee ID, and official branch seal. Never accept agreements via plain text emails or WhatsApp messages.
                   </p>
                 </div>
 
                 <div className="p-4 rounded-xl border border-slate-200 bg-white shadow-sm">
-                  <h4 className="font-bold text-slate-900 text-sm mb-1.5 flex items-center gap-2">
+                  <h5 className="font-bold text-slate-900 text-sm mb-1.5 flex items-center gap-2">
                     <Check className="w-4 h-4 text-[#1F5EFF]" />
                     <span>Account Number &amp; Installment Dates</span>
-                  </h4>
+                  </h5>
                   <p className="text-xs text-slate-600 leading-relaxed">
                     The letter must explicitly cite your 16-digit credit card number or 10-digit loan account reference, the exact negotiated settlement figure in words and figures, and strict payment due dates.
                   </p>
                 </div>
 
                 <div className="p-4 rounded-xl border border-slate-200 bg-white shadow-sm">
-                  <h4 className="font-bold text-slate-900 text-sm mb-1.5 flex items-center gap-2">
+                  <h5 className="font-bold text-slate-900 text-sm mb-1.5 flex items-center gap-2">
                     <Check className="w-4 h-4 text-[#1F5EFF]" />
                     <span>Full &amp; Final Waiver Clause</span>
-                  </h4>
+                  </h5>
                   <p className="text-xs text-slate-600 leading-relaxed">
                     The document must contain an express contractual clause affirming that upon receipt of the agreed settlement sum, all balance ledger dues stand irrevocably waived, and the bank will initiate no future legal or collection claims.
                   </p>
                 </div>
 
                 <div className="p-4 rounded-xl border border-slate-200 bg-white shadow-sm">
-                  <h4 className="font-bold text-slate-900 text-sm mb-1.5 flex items-center gap-2">
+                  <h5 className="font-bold text-slate-900 text-sm mb-1.5 flex items-center gap-2">
                     <Check className="w-4 h-4 text-[#1F5EFF]" />
                     <span>30-Day Mandatory NDC Delivery</span>
-                  </h4>
+                  </h5>
                   <p className="text-xs text-slate-600 leading-relaxed">
                     Under <strong>RBI Circular RBI/2023-24/60</strong>, the bank is statutorily bound to deliver a formal No Dues Certificate (NDC) within 30 calendar days of payment, subject to a ₹5,000 per day compensation penalty for non-compliance.
                   </p>
@@ -832,9 +832,9 @@ export default function CreditCardBillNaBharneKeNuksanClient() {
                 <TrendingUp className="w-4 h-4" />
                 <span>10. Credit Bureau Rehabilitation</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 CIBIL Score Impact &amp; Credit Rehabilitation: Rebuilding to 750+ After Settlement
-              </h2>
+              </h3>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Executing a credit card settlement results in your credit report status updating to <strong>&apos;Settled&apos;</strong> or <strong>&apos;Post-Write-Off Settled&apos;</strong> with an outstanding ledger balance of ₹0. While this causes a temporary credit score drop of 75 to 120 points and creates a cooling-off window for unsecured loan applications, it immediately terminates compounding default flags, monthly DPD escalation, and legal collection proceedings.
               </p>
@@ -881,9 +881,9 @@ export default function CreditCardBillNaBharneKeNuksanClient() {
                 <HelpCircle className="w-4 h-4" />
                 <span>Frequently Asked Questions</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
                 Frequently Asked Questions: Credit Card Default &amp; Debt Settlement
-              </h2>
+              </h3>
 
               <div className="space-y-4">
                 {faqs.map((faq, index) => (
@@ -900,10 +900,10 @@ export default function CreditCardBillNaBharneKeNuksanClient() {
 
             {/* 5 Official Regulatory Links */}
             <div className="bg-slate-50 border border-slate-200 rounded-2xl p-6 my-10">
-              <h3 className="text-base font-bold text-slate-900 mb-4 flex items-center gap-2">
+              <h4 className="text-base font-bold text-slate-900 mb-4 flex items-center gap-2">
                 <Landmark className="w-5 h-5 text-[#1F5EFF]" />
                 Official Statutory &amp; Regulatory References
-              </h3>
+              </h4>
               <ul className="space-y-3 text-xs sm:text-sm text-slate-700">
                 <li className="flex items-start gap-2">
                   <ExternalLink className="w-4 h-4 text-[#1F5EFF] flex-shrink-0 mt-0.5" />
@@ -965,10 +965,10 @@ export default function CreditCardBillNaBharneKeNuksanClient() {
 
             {/* Related Guides & Resources Strip (10 Topic Badges) */}
             <div className="bg-slate-50 border border-slate-200 rounded-2xl p-6 my-10">
-              <h3 className="text-base font-bold text-slate-900 mb-4 flex items-center gap-2">
+              <h4 className="text-base font-bold text-slate-900 mb-4 flex items-center gap-2">
                 <BookOpen className="w-5 h-5 text-[#1F5EFF]" />
                 Explore Related Credit Card &amp; Debt Resolution Guides
-              </h3>
+              </h4>
               <div className="flex flex-wrap gap-2.5">
                 <Link
                   href="/how-to-settle-credit-card-debt"

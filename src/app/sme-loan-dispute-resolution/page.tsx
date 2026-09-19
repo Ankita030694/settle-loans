@@ -266,7 +266,7 @@ export default function SMELoanDisputePage() {
                             </p>
                             <div className="bg-[#2E2E2E] p-10 rounded-[32px] text-white shadow-2xl relative overflow-hidden my-12">
                                 <div className="absolute top-0 right-0 w-64 h-64 bg-[#1F5EFF]/20 rounded-full -mr-32 -mt-32 blur-[80px]"></div>
-                                <h3 className="text-2xl font-black mb-6 relative z-10 text-blue-400">The SME Default Paradox</h3>
+                                <h4 className="text-2xl font-black mb-6 relative z-10 text-blue-400">The SME Default Paradox</h4>
                                 <p className="text-lg opacity-80 leading-relaxed relative z-10 font-medium">
                                     Statistics show that most MSME defaults occur because of 'Institutional Delay'. When a government department or a large corporate buyer delays a payment beyond 45 days, the MSME's working capital cycle breaks. The bank, however, follows the rigorous 90-day NPA rule. This 45-day gap is where most successful businesses are destroyed. Our dispute resolution strategy recognizes this paradox and uses it to force banks into more realistic repayment structures.
                                 </p>
@@ -274,9 +274,9 @@ export default function SMELoanDisputePage() {
                         </section>
 
                         <section id="msme-samadhan-portal" className="scroll-mt-32 mb-20">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 uppercase tracking-widest">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 uppercase tracking-widest">
                                 MSME Samadhan: The Digital Battleground for Payments
-                            </h2>
+                            </h3>
                             <p className="mb-8 text-lg">
                                 The MSME Samadhan portal is a revolutionary initiative by the Ministry of MSME that gives power back to the small business owner. It is designed to tackle the menace of delayed payments. Under the MSMED Act, buyers are legally obligated to pay for goods or services within 45 days. If they fail, they must pay compound interest at three times the bank rate notified by the RBI.
                             </p>
@@ -285,20 +285,20 @@ export default function SMELoanDisputePage() {
                             </p>
                             <div className="grid md:grid-cols-2 gap-6 my-12">
                                 <div className="bg-blue-50 p-6 rounded-2xl border border-blue-100">
-                                    <h3 className="font-black text-blue-900 mb-3 uppercase text-xs">Requirement 01</h3>
+                                    <h4 className="font-black text-blue-900 mb-3 uppercase text-xs">Requirement 01</h4>
                                     <p className="text-sm font-bold text-blue-800">Udyam Registration is mandatory. Without this, the MSMED Act's protective provisions cannot be invoked.</p>
                                 </div>
                                 <div className="bg-green-50 p-6 rounded-2xl border border-green-100">
-                                    <h4 className="font-black text-green-900 mb-3 uppercase text-xs">Benefit 01</h4>
+                                    <h5 className="font-black text-green-900 mb-3 uppercase text-xs">Benefit 01</h5>
                                     <p className="text-sm font-bold text-green-800">Automatic right to interest at 3X the RBI rate. This often covers the interest you are paying to the bank.</p>
                                 </div>
                             </div>
                         </section>
 
                         <section id="msefc-role" className="scroll-mt-32 mb-20">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">
                                 The Role of MSEFC: Conciliation & Arbitration
-                            </h2>
+                            </h3>
                             <p className="mb-8">
                                 The Micro and Small Enterprise Facilitation Council (MSEFC) acts as a quasi-judicial body. Its unique feature is the mandatory two-stage process: <strong>Conciliation</strong> first, then <strong>Arbitration</strong>. This is highly effective because it prevents the 'Litigation Fatigue' associated with traditional courts.
                             </p>
@@ -311,9 +311,9 @@ export default function SMELoanDisputePage() {
                         </section>
 
                         <section id="drt-litigation-defense" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 uppercase italic border-l-8 border-[#1F5EFF] pl-6">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 uppercase italic border-l-8 border-[#1F5EFF] pl-6">
                                 DRT Litigation: Defending the Corporate Fort
-                            </h2>
+                            </h3>
                             <p className="mb-8 text-lg">
                                 When a business loan exceeds ₹20 Lakhs, the bank usually approaches the Debt Recovery Tribunal (DRT). For unsecured loans or smaller amounts, they may follow the civil route or use arbitration. However, the SARFAESI Act allows them to seize factory premises without court intervention if the loan is secured. This is where most SME owners panic.
                             </p>
@@ -323,9 +323,9 @@ export default function SMELoanDisputePage() {
                         </section>
 
                         <section id="npa-challenge-strategies" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">
                                 NPA Challenges: Technical Defense Strategies
-                            </h2>
+                            </h3>
                             <p className="mb-8">
                                 An account becoming an NPA (Non-Performing Asset) is often the beginning of the end for an SME. But NPA classification is not an absolute truth; it is a mathematical calculation governed by RBI Pru-norms. We have seen hundreds of cases where banks made errors in calculating the '90-day overdue' period, especially when dealing with OD (Overdraft) or CC (Cash Credit) accounts.
                             </p>
@@ -333,7 +333,7 @@ export default function SMELoanDisputePage() {
                                 We challenge these classifications by submitting 'Fund Flow Audits'. If a bank credited a customer's payment to the wrong account or didn't account for a bill-discounting transaction correctly, the NPA tag is illegal. A 'Wrongful NPA' tag is a violation of the RBI's Master Circular, and the High Court can be moved to quash such a label, immediately freezing all recovery actions and restoring the business's credit standing.
                             </p>
                             <div className="bg-blue-50 p-8 rounded-3xl border border-blue-100 my-12">
-                                <h3 className="text-xl font-black text-blue-900 mb-6">Masterclass: Challenging the Reserve Price</h3>
+                                <h4 className="text-xl font-black text-blue-900 mb-6">Masterclass: Challenging the Reserve Price</h4>
                                 <p className="text-sm text-blue-800 leading-relaxed mb-4">
                                     Banks often undervalue SME properties to ensure a quick sale at auction. This is illegal. Under Rule 8 of the Security Interest Rules, the bank must obtain a fair valuation.
                                 </p>
@@ -344,9 +344,9 @@ export default function SMELoanDisputePage() {
                         </section>
 
                         <section id="arbitration-mechanisms" className="scroll-mt-32 mb-20">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 uppercase tracking-[0.2em] decoration-[#1F5EFF] underline underline-offset-8">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 uppercase tracking-[0.2em] decoration-[#1F5EFF] underline underline-offset-8">
                                 Institutional Arbitration: The SME's Silent Shield
-                            </h2>
+                            </h3>
                             <p className="mb-8 text-lg">
                                 For most SMEs, arbitration is a clause hidden in the fine print of a 50-page loan agreement. However, recent amendments to the Arbitration and Conciliation Act 1996, combined with the MSMED Act, have transformed arbitration into a potent tool for dispute resolution. Institutional arbitration, as opposed to ad-hoc arbitration, provides a structured environment where timelines are strictly adhered to.
                             </p>
@@ -354,7 +354,7 @@ export default function SMELoanDisputePage() {
                                 In a loan dispute, the bank usually appoints its own arbitrator — a practice that has been heavily scrutinized and frequently set aside by the Supreme Court of India. We guide MSMEs in challenging such unilateral appointments. Under the principle of 'Neutrality of Arbitrators', we help businesses move the High Court to appoint an independent arbitrator. This change in the presiding officer often shifts the entire dynamic of the case, forcing the bank to move away from aggressive recovery and toward a more reasonable settlement.
                             </p>
                             <div className="bg-[#1F5EFF]/5 border-2 border-dashed border-[#1F5EFF]/20 p-10 rounded-[40px] my-12">
-                                <h3 className="text-2xl font-black text-[#2E2E2E] mb-4 uppercase italic">Arbitration Strategy: The Counter-Claim</h3>
+                                <h4 className="text-2xl font-black text-[#2E2E2E] mb-4 uppercase italic">Arbitration Strategy: The Counter-Claim</h4>
                                 <p className="text-lg leading-relaxed text-gray-700">
                                     When a bank invokes arbitration for recovery, the SME shouldn't just defend; they should counter-attack. If the bank's delay in processing a restructuring request led to the business's downfall, that is a legitimate ground for a 'Counter-Claim' for damages. Effectively, you are telling the arbitrator: "I don't owe the bank money; the bank owes me for destroying my business through negligence." Even if the claim doesn't result in a payout, it creates a massive legal hurdle for the bank, making them much more willing to settle for a fraction of the original claim.
                                 </p>
@@ -365,9 +365,9 @@ export default function SMELoanDisputePage() {
                         </section>
 
                         <section id="mediation-advantages" className="scroll-mt-32 mb-20">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">
                                 Mediation: The Art of the Amicable Exit
-                            </h2>
+                            </h3>
                             <p className="mb-8">
                                 Mediation is often dismissed as a "soft" option, but in the world of high-stakes SME finance, it is a strategic masterstroke. Unlike a court room, which is binary (win/lose), mediation is multi-dimensional. It allows for creative solutions like 'Debt-Asset Swaps', 'Equity Conversions', or 'Balloon Payment Restructuring' that a judge or a DRT presiding officer does not have the power to order.
                             </p>
@@ -391,9 +391,9 @@ export default function SMELoanDisputePage() {
                         </section>
 
                         <section id="ots-negotiation" className="scroll-mt-32 mb-20">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 uppercase italic underline decoration-blue-500">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 uppercase italic underline decoration-blue-500">
                                 The OTS Masterclass: Winning the 'One Time Settlement'
-                            </h2>
+                            </h3>
                             <p className="mb-8 text-lg">
                                 For a bank, a 'One Time Settlement' (OTS) is a business decision based on the 'Net Present Value' of the recovery. If they believe that fighting you in the DRT for 5 years will cost them more than taking a 40% loss today, they will settle. The key to winning an OTS is proving your 'Inability to Pay' while simultaneously proving the bank's 'Inability to Recover'.
                             </p>
@@ -401,7 +401,7 @@ export default function SMELoanDisputePage() {
                                 We help MSMEs prepare 'Impairment Reports'. These reports go beyond standard balance sheets to show the underlying rot in the assets, the obsolescence of the machinery, and the legal encumbrances on the property. When a bank's credit committee sees that their secured asset is actually a white elephant, their willingness to accept a settlement skyrockets.
                             </p>
                             <div className="bg-gray-900 p-10 rounded-[40px] text-white my-16 shadow-[0_20px_60px_-15px_rgba(0,0,0,0.3)]">
-                                <h3 className="text-2xl font-black mb-6 text-blue-400 uppercase tracking-widest">The 'Willingness vs Ability' Framework</h3>
+                                <h4 className="text-2xl font-black mb-6 text-blue-400 uppercase tracking-widest">The 'Willingness vs Ability' Framework</h4>
                                 <p className="opacity-90 leading-relaxed mb-6 font-medium">
                                     The RBI categorizes defaulters into two: those who can't pay (Ability) and those who won't pay (Willingness/Willful Defaulters). If a bank tags you as 'Willful', you lose all legal rights to settle. Our primary task is to prevent and challenge 'Willful Defaulter' tags.
                                 </p>
@@ -412,9 +412,9 @@ export default function SMELoanDisputePage() {
                         </section>
 
                         <section id="legal-rights-msme" className="scroll-mt-32 mb-20">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">
                                 The 10 Commandments: Legal Rights of Every MSME Borrower
-                            </h2>
+                            </h3>
                             <p className="mb-8">
                                 Many SME owners feel like they are at the mercy of the bank once they default. This is far from the truth. You have powerful constitutional and statutory rights that protect your business and your person.
                             </p>
@@ -434,7 +434,7 @@ export default function SMELoanDisputePage() {
                                     <div key={idx} className="flex gap-6 items-start p-6 bg-white border border-gray-100 rounded-2xl hover:border-[#1F5EFF] transition-all group">
                                         <span className="text-2xl font-black text-gray-200 group-hover:text-[#1F5EFF] transition-colors">{(idx + 1).toString().padStart(2, '0')}</span>
                                         <div>
-                                            <h3 className="font-black text-[#2E2E2E] mb-1">{right.title}</h3>
+                                            <h4 className="font-black text-[#2E2E2E] mb-1">{right.title}</h4>
                                             <p className="text-sm text-gray-500 font-medium">{right.desc}</p>
                                         </div>
                                     </div>
@@ -443,9 +443,9 @@ export default function SMELoanDisputePage() {
                         </section>
 
                         <section id="pre-litigation-shield" className="scroll-mt-32 mb-20">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 uppercase italic">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 uppercase italic">
                                 The Pre-Litigation Shield: Stopping the Storm Before it Hits
-                            </h2>
+                            </h3>
                             <p className="mb-8 text-lg">
                                 The best time to resolve an SME loan dispute is <strong>before</strong> the bank moves the court. This stage is known as the 'SMA' (Special Mention Account) stage. We work with businesses during the SMA-1 and SMA-2 stages to prevent the account from ever slipping into the NPA category.
                             </p>
@@ -491,7 +491,7 @@ export default function SMELoanDisputePage() {
                         </section>
 
                         <section id="faqs" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Frequently Asked Questions</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Frequently Asked Questions</h3>
                             <div className="space-y-4 not-prose">
                                 {(jsonLd["@graph"] as any)[4]?.mainEntity?.map((faq: any, i: number) => (
                                     <details key={i} className="group bg-white border border-[#DEDEDE] rounded-xl overflow-hidden hover:shadow-md transition-all border-b-4 border-b-[#1F5EFF]/20">
@@ -517,7 +517,7 @@ export default function SMELoanDisputePage() {
                         <div className="lg:hidden mt-16 mb-8">
                             <div className="bg-[#2E2E2E] rounded-2xl shadow-xl overflow-hidden border border-[#1F5EFF]/20">
                                 <div className="bg-[#1F5EFF] p-6 text-center text-white">
-                                    <h3 className="text-2xl font-black mb-2">Ready to Start Over?</h3>
+                                    <h4 className="text-2xl font-black mb-2">Ready to Start Over?</h4>
                                     <p className="opacity-90 text-sm">Join the 10,000+ Indians we've helped find their way to financial freedom.</p>
                                 </div>
                                 <div className="p-8 text-center text-[#DEDEDE]">

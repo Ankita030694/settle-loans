@@ -596,7 +596,7 @@ export default function FederalBankLoanSettlementPage() {
                 <Clock className="w-4 h-4" />
                 <span>2. Delinquency Progression &amp; NPA Stages</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Federal Bank Delinquency Lifecycle</h2>
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Federal Bank Delinquency Lifecycle</h3>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Federal Bank tracks overdue loans under RBI IRACP norms. These stages guide your settlement strategy:
               </p>
@@ -650,7 +650,7 @@ export default function FederalBankLoanSettlementPage() {
                 <Banknote className="w-4 h-4" />
                 <span>3. Halting NACH Charges &amp; Compounding Penal Fees</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Stopping Repeat NACH Bounce Penalties</h2>
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Stopping Repeat NACH Bounce Penalties</h3>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Loan distress grows with repeated bounce fees. Federal Bank tries multiple debit runs each month. They charge ₹500 to ₹1,000 plus GST. Your savings bank charges another ₹350 to ₹590.
               </p>
@@ -679,7 +679,7 @@ export default function FederalBankLoanSettlementPage() {
                 <Calculator className="w-4 h-4" />
                 <span>4. OTS Haircut Policies &amp; Provisioning Valuation Calculus</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">How Federal Bank Calculates Settlement Haircuts</h2>
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">How Federal Bank Calculates Settlement Haircuts</h3>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Federal Bank evaluates settlements using RBI provisioning rules. Banks must set aside capital reserves against bad debts:
               </p>
@@ -748,7 +748,7 @@ export default function FederalBankLoanSettlementPage() {
                 <Layers className="w-4 h-4" />
                 <span>5. Visual Resolution Blueprint</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Federal Bank Loan Settlement Process Roadmap</h2>
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Federal Bank Loan Settlement Process Roadmap</h3>
               <p className="text-slate-700 leading-relaxed mb-6 text-base md:text-lg">
                 This visual guide maps each step of a Federal Bank settlement. It tracks default past 90 days. It covers SAMD escalation. It explains notice defense, OTS talks, and NDC delivery.
               </p>
@@ -771,7 +771,7 @@ export default function FederalBankLoanSettlementPage() {
                 <ShieldAlert className="w-4 h-4" />
                 <span>6. Recovery Practices &amp; RBI Anti-Harassment Defense</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Enforcing RBI Directives Against Unlawful Recovery</h2>
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Enforcing RBI Directives Against Unlawful Recovery</h3>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Federal Bank is a regulated scheduled commercial bank. But third-party recovery agents often use harsh tactics. The RBI sets strict rules on recovery conduct. It limits outsourcing practices.
               </p>
@@ -780,37 +780,37 @@ export default function FederalBankLoanSettlementPage() {
               </p>
               <div className="grid grid-cols-1 md:grid-cols-2 gap-4 my-6">
                 <div className="bg-slate-50 border border-slate-200 rounded-xl p-5">
-                  <h3 className="font-bold text-slate-900 text-sm mb-2 flex items-center gap-2">
+                  <h4 className="font-bold text-slate-900 text-sm mb-2 flex items-center gap-2">
                     <Clock className="w-4 h-4 text-[#1F5EFF]" />
                     <span>Strict Calling Hours (08:00 AM – 07:00 PM)</span>
-                  </h3>
+                  </h4>
                   <p className="text-xs text-slate-600 leading-relaxed">
                     Agents may call only between 8:00 AM and 7:00 PM. Calls before 8 AM or after 7 PM are illegal. Repeat auto-dialing is also banned.
                   </p>
                 </div>
                 <div className="bg-slate-50 border border-slate-200 rounded-xl p-5">
-                  <h4 className="font-bold text-slate-900 text-sm mb-2 flex items-center gap-2">
+                  <h5 className="font-bold text-slate-900 text-sm mb-2 flex items-center gap-2">
                     <ShieldCheck className="w-4 h-4 text-[#1F5EFF]" />
                     <span>No Contact With Third Parties</span>
-                  </h4>
+                  </h5>
                   <p className="text-xs text-slate-600 leading-relaxed">
                     Agents cannot call employers, friends, or neighbors. Sharing loan details violates DPDP laws and RBI rules.
                   </p>
                 </div>
                 <div className="bg-slate-50 border border-slate-200 rounded-xl p-5">
-                  <h4 className="font-bold text-slate-900 text-sm mb-2 flex items-center gap-2">
+                  <h5 className="font-bold text-slate-900 text-sm mb-2 flex items-center gap-2">
                     <Building2 className="w-4 h-4 text-[#1F5EFF]" />
                     <span>No Office Visits</span>
-                  </h4>
+                  </h5>
                   <p className="text-xs text-slate-600 leading-relaxed">
                     Office visits meant to shame borrowers are illegal. Field agents must show bank ID cards. They must respect your privacy.
                   </p>
                 </div>
                 <div className="bg-slate-50 border border-slate-200 rounded-xl p-5">
-                  <h4 className="font-bold text-slate-900 text-sm mb-2 flex items-center gap-2">
+                  <h5 className="font-bold text-slate-900 text-sm mb-2 flex items-center gap-2">
                     <Scale className="w-4 h-4 text-[#1F5EFF]" />
                     <span>No False Criminal Threats or Fake Notices</span>
-                  </h4>
+                  </h5>
                   <p className="text-xs text-slate-600 leading-relaxed">
                     Agents cannot threaten police arrest or jail. Fake court notices sent on WhatsApp are illegal. Legal notices must come through registered advocates.
                   </p>
@@ -827,42 +827,42 @@ export default function FederalBankLoanSettlementPage() {
                 <Layers className="w-4 h-4" />
                 <span>7. Step-by-Step Bank Settlement Roadmap</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Step-by-Step Federal Bank Compromise Settlement Guide</h2>
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Step-by-Step Federal Bank Compromise Settlement Guide</h3>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Federal Bank loan settlement follows five clear legal steps:
               </p>
 
               <div className="space-y-6 my-6">
                 <div className="border-l-4 border-[#1F5EFF] pl-5 py-1">
-                  <h3 className="font-bold text-slate-900 text-lg mb-1">Stage 1: Financial Hardship Dossier Preparation</h3>
+                  <h4 className="font-bold text-slate-900 text-lg mb-1">Stage 1: Financial Hardship Dossier Preparation</h4>
                   <p className="text-slate-600 text-sm leading-relaxed">
                     You gather proof of financial distress. This includes job loss letters, medical bills, or salary cuts.
                   </p>
                 </div>
 
                 <div className="border-l-4 border-[#1F5EFF] pl-5 py-1">
-                  <h3 className="font-bold text-slate-900 text-lg mb-1">Stage 2: Mandate Revocation &amp; Loan Account Audit</h3>
+                  <h4 className="font-bold text-slate-900 text-lg mb-1">Stage 2: Mandate Revocation &amp; Loan Account Audit</h4>
                   <p className="text-slate-600 text-sm leading-relaxed">
                     Advocates cancel your NACH mandate to stop bounce fees. They review your loan statement. They remove unfair penalties to find the pure principal.
                   </p>
                 </div>
 
                 <div className="border-l-4 border-[#1F5EFF] pl-5 py-1">
-                  <h3 className="font-bold text-slate-900 text-lg mb-1">Stage 3: Direct Appeal to SAMD Recovery Desks</h3>
+                  <h4 className="font-bold text-slate-900 text-lg mb-1">Stage 3: Direct Appeal to SAMD Recovery Desks</h4>
                   <p className="text-slate-600 text-sm leading-relaxed">
                     A formal OTS file is sent to SAMD in Aluva. It can also go to the Zonal SAMD Manager. The file seeks a 40% to 60% debt waiver under RBI rules.
                   </p>
                 </div>
 
                 <div className="border-l-4 border-[#1F5EFF] pl-5 py-1">
-                  <h3 className="font-bold text-slate-900 text-lg mb-1">Stage 4: Settlement Letter Verification &amp; Check</h3>
+                  <h4 className="font-bold text-slate-900 text-lg mb-1">Stage 4: Settlement Letter Verification &amp; Check</h4>
                   <p className="text-slate-600 text-sm leading-relaxed">
                     When approved, Federal Bank issues an official OTS letter. Advocates verify the payment amount and dates. They check waiver and ₹0 NDC terms.
                   </p>
                 </div>
 
                 <div className="border-l-4 border-[#1F5EFF] pl-5 py-1">
-                  <h3 className="font-bold text-slate-900 text-lg mb-1">Stage 5: Settlement Payment &amp; ₹0 NDC Delivery</h3>
+                  <h4 className="font-bold text-slate-900 text-lg mb-1">Stage 5: Settlement Payment &amp; ₹0 NDC Delivery</h4>
                   <p className="text-slate-600 text-sm leading-relaxed">
                     You pay the agreed sum into the bank loan account. Federal Bank closes the account. They return pledged papers. They deliver the No Dues Certificate within 30 days.
                   </p>
@@ -876,17 +876,17 @@ export default function FederalBankLoanSettlementPage() {
                 <Gavel className="w-4 h-4" />
                 <span>8. Legal Defense: Section 138, PSSA &amp; Gold Loan Deficit</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Defending Sec 138, Sec 25 &amp; Gold Loan Shortfall Claims</h2>
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Defending Sec 138, Sec 25 &amp; Gold Loan Shortfall Claims</h3>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Federal Bank often starts legal steps for overdue debts. A strong legal reply stops pressure. It opens the door to an amicable OTS.
               </p>
 
-              <h3 className="text-lg font-bold text-slate-900 mt-6 mb-3">1. Section 138 Negotiable Instruments Act &amp; Section 25 PSSA Notices</h3>
+              <h4 className="text-lg font-bold text-slate-900 mt-6 mb-3">1. Section 138 Negotiable Instruments Act &amp; Section 25 PSSA Notices</h4>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 When a cheque bounces, the bank sends a 15-day notice. It invokes Section 138 NI Act or Section 25 PSSA. These cases are 100% compoundable. An advocate reply shows true distress and offers an OTS. The matter is settled in Magistrate Court or Lok Adalat.
               </p>
 
-              <h3 className="text-lg font-bold text-slate-900 mt-6 mb-3">2. Gold Loan Auction Shortfall &amp; Deficit Resolution</h3>
+              <h4 className="text-lg font-bold text-slate-900 mt-6 mb-3">2. Gold Loan Auction Shortfall &amp; Deficit Resolution</h4>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Federal Bank has a large gold loan base. If default happens, the bank auctions gold after a 14-day notice.
               </p>
@@ -946,7 +946,7 @@ export default function FederalBankLoanSettlementPage() {
                 <FileCheck className="w-4 h-4" />
                 <span>9. Sanction Letter Audit &amp; ₹0 NDC Mandate</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Checking Federal Bank Settlement Letters</h2>
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Checking Federal Bank Settlement Letters</h3>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Never pay on verbal promises or unverified letters. Unofficial payments are treated as regular partial dues. Penal interest keeps building up.
               </p>
@@ -979,7 +979,7 @@ export default function FederalBankLoanSettlementPage() {
                 <TrendingUp className="w-4 h-4" />
                 <span>10. CIBIL Score Recovery &amp; 18-Month Plan</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Federal Bank Post-Settlement CIBIL Recovery</h2>
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Federal Bank Post-Settlement CIBIL Recovery</h3>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 After settlement, Federal Bank updates CIBIL and other bureaus. The status becomes Settled with a ₹0 balance.
               </p>
@@ -997,9 +997,9 @@ export default function FederalBankLoanSettlementPage() {
                 <ShieldCheck className="w-4 h-4" />
                 <span>11. Legal Defense &amp; Representation</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 Why Federal Bank Borrowers Choose SettleLoans
-              </h2>
+              </h3>
               <p className="text-slate-700 leading-relaxed mb-6 text-base md:text-lg">
                 Settling a Federal Bank loan requires expert legal handling. SettleLoans stops recovery harassment with legal notices. We defend Section 138 and Section 25 court cases. We audit statements to waive illegal fees. Our team talks directly with Federal Bank SAMD desks. We negotiate at Aluva and zonal hubs. We secure top debt cuts and your ₹0 No Dues Certificate.
               </p>
@@ -1016,7 +1016,7 @@ export default function FederalBankLoanSettlementPage() {
                 <HelpCircle className="w-4 h-4" />
                 <span>12. Frequently Asked Questions</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">FAQs: Federal Bank Loan Settlement</h2>
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">FAQs: Federal Bank Loan Settlement</h3>
 
               <div className="space-y-4">
                 {faqs.map((faq, index) => (
@@ -1042,10 +1042,10 @@ export default function FederalBankLoanSettlementPage() {
 
             {/* Regulatory References & Official Sources Strip */}
             <div className="bg-slate-50 border border-slate-200 rounded-2xl p-6 my-10">
-              <h3 className="text-base font-bold text-slate-900 mb-4 flex items-center gap-2">
+              <h4 className="text-base font-bold text-slate-900 mb-4 flex items-center gap-2">
                 <Landmark className="w-5 h-5 text-[#1F5EFF]" />
                 Official Regulatory References &amp; Statutory Circulars
-              </h3>
+              </h4>
               <ul className="space-y-3 text-xs text-slate-600">
                 <li className="flex items-start gap-2">
                   <ExternalLink className="w-4 h-4 text-[#1F5EFF] flex-shrink-0 mt-0.5" />
@@ -1107,10 +1107,10 @@ export default function FederalBankLoanSettlementPage() {
 
             {/* Related Guides & Resources Strip (10 Topic Badges) */}
             <div className="bg-slate-50 border border-slate-200 rounded-2xl p-6 my-10">
-              <h3 className="text-base font-bold text-slate-900 mb-4 flex items-center gap-2">
+              <h4 className="text-base font-bold text-slate-900 mb-4 flex items-center gap-2">
                 <BookOpen className="w-5 h-5 text-[#1F5EFF]" />
                 Explore Related Banking &amp; Debt Resolution Guides
-              </h3>
+              </h4>
               <div className="flex flex-wrap gap-2.5">
                 <Link
                   href="/bank-one-time-settlement-ots-policy"

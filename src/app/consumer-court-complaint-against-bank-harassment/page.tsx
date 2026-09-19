@@ -532,10 +532,10 @@ export default function ConsumerCourtBankHarassmentPage() {
               </p>
 
               <div className="bg-slate-50 border-l-4 border-[#1F5EFF] p-4 rounded-r-xl my-4">
-                <h3 className="font-bold text-slate-900 text-xs sm:text-sm mb-1 flex items-center gap-1.5">
+                <h4 className="font-bold text-slate-900 text-xs sm:text-sm mb-1 flex items-center gap-1.5">
                   <ShieldAlert className="w-4 h-4 text-[#1F5EFF]" />
                   <span>Statutory Definition: Section 2(11) Deficiency in Service</span>
-                </h3>
+                </h4>
                 <p className="text-xs sm:text-sm text-slate-600 leading-relaxed">
                   Deficiency means any fault, imperfection, shortcoming, or inadequacy in the quality, nature, and manner of performance that is required to be maintained by or under any law for the time being in force, or has been undertaken to be performed by a person in pursuance of a contract or otherwise in relation to any service. Deploying abusive debt collectors directly violates banking covenants and RBI statutory standards.
                 </p>
@@ -544,9 +544,9 @@ export default function ConsumerCourtBankHarassmentPage() {
 
             {/* Section 2: Statutory Protections & Supreme Court Precedents */}
             <section id="statutory-protections-supreme-court" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                 2. Statutory Legal Protections, Supreme Court Precedents &amp; Vicarious Liability
-              </h2>
+              </h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 The legal foundation holding banks liable for recovery harassment rests upon a robust matrix of Reserve Bank of India (RBI) Master Directions, constitutional fundamental rights under Article 21, and binding Supreme Court jurisprudence. The Reserve Bank of India has established unambiguous standards in its <em>Master Direction – Fair Practices Code for Lenders</em> and circular on <em>Recovery Agents engaged by Regulated Entities</em>:
               </p>
@@ -601,9 +601,9 @@ export default function ConsumerCourtBankHarassmentPage() {
 
             {/* Section 3: Documenting Tortious Harassment & Evidentiary Threshold */}
             <section id="evidentiary-threshold-dcdrc-claims" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                 3. Documenting Tortious Harassment &amp; The Evidentiary Threshold for DCDRC Claims
-              </h2>
+              </h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 In consumer commission litigation, the burden of proving deficiency of service and harassment rests upon the complainant. Vague, unsubstantiated allegations will not survive judicial scrutiny or bank legal rebuttals. Building an unassailable evidentiary dossier is paramount to securing immediate court intervention and substantial financial awards.
               </p>
@@ -613,37 +613,37 @@ export default function ConsumerCourtBankHarassmentPage() {
 
               <div className="grid grid-cols-1 md:grid-cols-2 gap-4 my-6">
                 <div className="p-4 bg-slate-50 rounded-xl border border-slate-200">
-                  <h3 className="font-bold text-slate-900 text-sm mb-2 flex items-center gap-1.5">
+                  <h4 className="font-bold text-slate-900 text-sm mb-2 flex items-center gap-1.5">
                     <PhoneCall className="w-4 h-4 text-[#1F5EFF]" />
                     <span>Telephonic &amp; Digital Recordings</span>
-                  </h3>
+                  </h4>
                   <p className="text-xs text-slate-600 leading-relaxed">
                     Preserve unedited audio recordings of all inbound collection calls showing dates, timestamps, abusive phrasing, and calls placed outside the 8:00 AM to 7:00 PM window. Retain certified Telecom Call Detail Records (CDR) proving excessive repeated dialing.
                   </p>
                 </div>
                 <div className="p-4 bg-slate-50 rounded-xl border border-slate-200">
-                  <h4 className="font-bold text-slate-900 text-sm mb-2 flex items-center gap-1.5">
+                  <h5 className="font-bold text-slate-900 text-sm mb-2 flex items-center gap-1.5">
                     <FileText className="w-4 h-4 text-[#1F5EFF]" />
                     <span>Electronic Messaging Transcripts</span>
-                  </h4>
+                  </h5>
                   <p className="text-xs text-slate-600 leading-relaxed">
                     Capture timestamped screenshots and cloud backups of threatening WhatsApp messages, SMS alerts, fake legal notices, and illicit social media messages sent by agents to relatives or colleagues, backed by Section 65B Electronic Evidence Certificates.
                   </p>
                 </div>
                 <div className="p-4 bg-slate-50 rounded-xl border border-slate-200">
-                  <h4 className="font-bold text-slate-900 text-sm mb-2 flex items-center gap-1.5">
+                  <h5 className="font-bold text-slate-900 text-sm mb-2 flex items-center gap-1.5">
                     <Building2 className="w-4 h-4 text-[#1F5EFF]" />
                     <span>CCTV &amp; Third-Party Witness Statements</span>
-                  </h4>
+                  </h5>
                   <p className="text-xs text-slate-600 leading-relaxed">
                     Secure CCTV footage from housing society gates, apartment lobbies, or office reception desks documenting unauthorized agent visits, aggressive confrontations, or unlawful trespass, supplemented by signed affidavits from security guards or coworkers.
                   </p>
                 </div>
                 <div className="p-4 bg-slate-50 rounded-xl border border-slate-200">
-                  <h4 className="font-bold text-slate-900 text-sm mb-2 flex items-center gap-1.5">
+                  <h5 className="font-bold text-slate-900 text-sm mb-2 flex items-center gap-1.5">
                     <HeartPulse className="w-4 h-4 text-[#1F5EFF]" />
                     <span>Medical &amp; Psychological Impact Records</span>
-                  </h4>
+                  </h5>
                   <p className="text-xs text-slate-600 leading-relaxed">
                     Obtain medical prescription slips, clinical diagnostic reports, and psychological evaluation notes showing acute anxiety, severe hypertension, clinical depression, or sleep disorders directly triggered by persistent collection harassment.
                   </p>
@@ -653,9 +653,9 @@ export default function ConsumerCourtBankHarassmentPage() {
 
             {/* Section 4: Bank Accounting, NPA Stressed Asset Realization & Recovery NPV Formula */}
             <section id="bank-accounting-npv-recovery-formula" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                 4. Bank NPA Accounting, Provisioning Burdens &amp; Recovery NPV Dynamics
-              </h2>
+              </h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 To understand why consumer court litigation gives borrowers immense leverage during settlement negotiations, one must analyze the regulatory accounting framework governing non-performing assets (NPAs). Under RBI prudential norms on <em>Income Recognition, Asset Classification and Provisioning (IRACP)</em>, when an unsecured loan account remains overdue past 90 days, it is classified as a Substandard NPA.
               </p>
@@ -727,9 +727,9 @@ export default function ConsumerCourtBankHarassmentPage() {
 
             {/* Section 5: Infographic Banner */}
             <section id="consumer-court-complaint-roadmap" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                 5. Consumer Court Complaint &amp; Settlement Visual Roadmap
-              </h2>
+              </h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 The visual roadmap below illustrates the structured 5-stage institutional progression from evidence preservation and advocate notice to e-Daakhil DCDRC filing, claiming tort damages, and executing an advantageous One-Time Settlement with a complete debt discharge.
               </p>
@@ -764,9 +764,9 @@ export default function ConsumerCourtBankHarassmentPage() {
 
             {/* Section 6: Step-by-Step DCDRC Filing Procedure via e-Daakhil */}
             <section id="edaakhil-filing-pleading-procedure" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                 6. Step-by-Step DCDRC Filing Procedure via e-Daakhil &amp; Advocate Pleadings
-              </h2>
+              </h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Filing a consumer complaint against a major bank or NBFC has been streamlined by the National Consumer Commission through the online <strong>e-Daakhil portal (e-daakhil.nic.in)</strong>. The complaint must be drafted with precise legal structure to ensure immediate admission and prevent procedural rejection:
               </p>
@@ -826,46 +826,46 @@ export default function ConsumerCourtBankHarassmentPage() {
 
             {/* Section 7: Quantifying Monetary Damages: Mental Agony, Defamation & Loss */}
             <section id="quantifying-damages-mental-agony" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                 7. Quantifying Monetary Damages: Mental Agony, Defamation &amp; Tort Claims
-              </h2>
+              </h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Section 39(1)(d) of the Consumer Protection Act, 2019 explicitly empowers Consumer Commissions to direct the opposing party to pay such amount as may be awarded by it as compensation to the consumer for any loss or injury suffered by the consumer due to the negligence of the opposite party. In banking harassment litigation, compensation claims are categorized across distinct legal heads:
               </p>
 
               <div className="grid grid-cols-1 md:grid-cols-2 gap-4 my-6">
                 <div className="p-4 bg-slate-50 border border-slate-200 rounded-xl space-y-1.5">
-                  <h3 className="font-bold text-slate-900 text-xs sm:text-sm flex items-center gap-1.5">
+                  <h4 className="font-bold text-slate-900 text-xs sm:text-sm flex items-center gap-1.5">
                     <HeartPulse className="w-4 h-4 text-rose-500" />
                     <span>Compensation for Severe Mental Agony &amp; Trauma</span>
-                  </h3>
+                  </h4>
                   <p className="text-xs text-slate-600 leading-relaxed">
                     Awarded for emotional distress, psychological trauma, anxiety disorders, and insomnia triggered by abusive collection calls and constant threats. Supported by clinical psychological evaluations and psychiatric consultation records.
                   </p>
                 </div>
                 <div className="p-4 bg-slate-50 border border-slate-200 rounded-xl space-y-1.5">
-                  <h4 className="font-bold text-slate-900 text-xs sm:text-sm flex items-center gap-1.5">
+                  <h5 className="font-bold text-slate-900 text-xs sm:text-sm flex items-center gap-1.5">
                     <Building2 className="w-4 h-4 text-indigo-500" />
                     <span>Damages for Defamation &amp; Reputational Tort</span>
-                  </h4>
+                  </h5>
                   <p className="text-xs text-slate-600 leading-relaxed">
                     Awarded when recovery agents unlawfully visit the borrower&apos;s workplace, interrogate corporate HR, or broadcast default details to neighbors, causing severe public humiliation and career impairment.
                   </p>
                 </div>
                 <div className="p-4 bg-slate-50 border border-slate-200 rounded-xl space-y-1.5">
-                  <h4 className="font-bold text-slate-900 text-xs sm:text-sm flex items-center gap-1.5">
+                  <h5 className="font-bold text-slate-900 text-xs sm:text-sm flex items-center gap-1.5">
                     <DollarSign className="w-4 h-4 text-emerald-500" />
                     <span>Actual Economic &amp; Livelihood Losses</span>
-                  </h4>
+                  </h5>
                   <p className="text-xs text-slate-600 leading-relaxed">
                     Reimbursement for direct financial losses, such as loss of employment, contract terminations resulting from workplace disturbances, medical hospitalization expenses, and out-of-pocket litigation costs.
                   </p>
                 </div>
                 <div className="p-4 bg-slate-50 border border-slate-200 rounded-xl space-y-1.5">
-                  <h4 className="font-bold text-slate-900 text-xs sm:text-sm flex items-center gap-1.5">
+                  <h5 className="font-bold text-slate-900 text-xs sm:text-sm flex items-center gap-1.5">
                     <Gavel className="w-4 h-4 text-amber-500" />
                     <span>Punitive &amp; Exemplary Damages</span>
-                  </h4>
+                  </h5>
                   <p className="text-xs text-slate-600 leading-relaxed">
                     Imposed upon banks by the Commission under Section 39(1)(g) to penalize gross institutional contempt for RBI regulations and deter systemic predatory debt collection practices.
                   </p>
@@ -875,9 +875,9 @@ export default function ConsumerCourtBankHarassmentPage() {
 
             {/* Section 8: Strategic Settlement Leverage: Converting Litigation into 55%–70% OTS */}
             <section id="converting-litigation-to-compromise-ots" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                 8. Strategic Settlement Leverage: Converting Consumer Litigation into 55%–70% OTS
-              </h2>
+              </h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 While the primary objective of a consumer court complaint is to halt harassment and secure compensation for injury, its greatest practical value lies in creating extraordinary settlement leverage. Under standard collection circumstances, retail branch managers refuse loan haircuts, insisting on full principal, penal interest, and compounding overdue charges.
               </p>
@@ -886,10 +886,10 @@ export default function ConsumerCourtBankHarassmentPage() {
               </p>
 
               <div className="bg-slate-50 rounded-2xl p-5 border border-slate-200 space-y-3 my-6">
-                <h3 className="font-bold text-slate-900 text-sm flex items-center gap-2">
+                <h4 className="font-bold text-slate-900 text-sm flex items-center gap-2">
                   <Check className="w-4 h-4 text-emerald-600" />
                   <span>The Dual-Track Resolution Mechanism</span>
-                </h3>
+                </h4>
                 <div className="grid grid-cols-1 md:grid-cols-2 gap-3 text-xs text-slate-700">
                   <div className="p-3 bg-white rounded-xl border border-slate-200">
                     <strong className="text-slate-900 block mb-1">Track A: Aggressive Judicial Pressure</strong>
@@ -909,9 +909,9 @@ export default function ConsumerCourtBankHarassmentPage() {
 
             {/* Section 9: Dispute Resolution Comparative Matrix */}
             <section id="dispute-resolution-comparative-matrix" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                 9. Bank Harassment Legal Redressal Comparative Matrix
-              </h2>
+              </h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Borrowers subjected to aggressive recovery tactics often weigh multiple redressal channels. The comparative matrix below outlines the jurisdictional scope, timeline, damage-awarding power, and settlement leverage across Indian legal forums:
               </p>
@@ -970,9 +970,9 @@ export default function ConsumerCourtBankHarassmentPage() {
 
             {/* Section 10 & Company Section */}
             <section id="company-resolution-section" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                 10. SettleLoans Consumer Legal Defense &amp; Debt Resolution Advisory
-              </h2>
+              </h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Navigating complex consumer litigation while facing intense collection pressure requires experienced legal counsel and tactical financial negotiation. At <strong>SettleLoans</strong>, our nationwide panel of senior banking advocates, consumer litigation specialists, and debt negotiators provides an unyielding shield for distressed borrowers.
               </p>
@@ -985,9 +985,9 @@ export default function ConsumerCourtBankHarassmentPage() {
 
             {/* Section 11: FAQ Accordion */}
             <section id="faqs" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                 11. Frequently Asked Questions: Consumer Court Complaints Against Banks
-              </h2>
+              </h3>
               <div className="space-y-3">
                 {((jsonLdGraph["@graph"].find((item: any) => item["@type"] === "FAQPage") as any)?.mainEntity || []).map((faq: any, index: number) => (
                   <details
@@ -1008,9 +1008,9 @@ export default function ConsumerCourtBankHarassmentPage() {
 
             {/* 5 Official Regulatory Links */}
             <section className="border-t border-slate-200 pt-8 mb-4">
-              <h3 className="text-xs sm:text-sm font-bold text-slate-900 mb-3 uppercase tracking-wider">
+              <h4 className="text-xs sm:text-sm font-bold text-slate-900 mb-3 uppercase tracking-wider">
                 Official Statutory &amp; Regulatory References
-              </h3>
+              </h4>
               <div className="grid grid-cols-1 sm:grid-cols-2 gap-2.5 text-xs">
                 <a
                   href="https://e-daakhil.nic.in"
@@ -1062,9 +1062,9 @@ export default function ConsumerCourtBankHarassmentPage() {
 
             {/* 10 Related Guide Badges */}
             <section className="border-t border-slate-200 pt-8 mb-8">
-              <h3 className="text-xs sm:text-sm font-bold text-slate-900 mb-4 uppercase tracking-wider">
+              <h4 className="text-xs sm:text-sm font-bold text-slate-900 mb-4 uppercase tracking-wider">
                 Related Legal Defense &amp; Loan Resolution Guides
-              </h3>
+              </h4>
               <div className="flex flex-wrap gap-2">
                 <Link
                   href="/bank-recovery-harassment-complaint"

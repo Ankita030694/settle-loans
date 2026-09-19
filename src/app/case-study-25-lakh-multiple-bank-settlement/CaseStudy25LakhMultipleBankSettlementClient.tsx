@@ -373,9 +373,9 @@ export default function CaseStudy25LakhMultipleBankSettlementClient() {
                 <Landmark className="w-3.5 h-3.5" />
                 <span>Section 2: Banking Mechanics</span>
               </div>
-              <h2 className="text-2xl md:text-3xl font-black text-slate-900 tracking-tight">
+              <h3 className="text-2xl md:text-3xl font-black text-slate-900 tracking-tight">
                 Multi-Lender NPA Mechanics & Capital Provisioning
-              </h2>
+              </h3>
               <p>
                 Each lending institution operates under distinct provisioning policies and risk appetites. Private sector commercial banks provision aggressively against unsecured credit defaults, frequently writing off non-performing accounts to Doubtful or Loss asset categories within 12 to 18 months. This rapid balance-sheet write-off creates immediate discretionary authority within Stressed Assets Resolution Branches to grant significant debt waivers. Conversely, public sector lenders follow conservative, committee-driven provisioning schedules that require structured multi-layer approvals.
               </p>
@@ -390,9 +390,9 @@ export default function CaseStudy25LakhMultipleBankSettlementClient() {
                 <Calculator className="w-3.5 h-3.5" />
                 <span>Section 3: Financial Forensics</span>
               </div>
-              <h2 className="text-2xl md:text-3xl font-black text-slate-900 tracking-tight">
+              <h3 className="text-2xl md:text-3xl font-black text-slate-900 tracking-tight">
                 Financial Audit & 7-Account Haircut Breakdown
-              </h2>
+              </h3>
               <p>
                 Before opening negotiations, SettleLoans conducted a forensic audit of all seven loan ledgers. While the claimed portfolio balance stood at ₹25,00,000, the underlying principal was only ₹14,20,000, with ₹10,80,000 representing unearned 42% credit card APRs, penal interest, late payment levies, and 18% GST.
               </p>
@@ -401,7 +401,7 @@ export default function CaseStudy25LakhMultipleBankSettlementClient() {
               <div className="my-6 p-6 rounded-2xl bg-white border border-slate-200/80 shadow-sm">
                 <div className="flex items-center justify-between pb-4 mb-4 border-b border-slate-200">
                   <div>
-                    <h3 className="text-lg font-bold text-slate-900">Multi-Bank Resolution Portfolio Audit</h3>
+                    <h4 className="text-lg font-bold text-slate-900">Multi-Bank Resolution Portfolio Audit</h4>
                     <p className="text-xs text-slate-500">Breakdown of 7 defaulted accounts across private, PSU, and foreign lenders</p>
                   </div>
                   <span className="px-3 py-1 bg-green-100 text-green-800 text-xs font-bold rounded-full">
@@ -463,9 +463,9 @@ export default function CaseStudy25LakhMultipleBankSettlementClient() {
                 <Scale className="w-3.5 h-3.5" />
                 <span>Section 4: Strategic Comparison</span>
               </div>
-              <h2 className="text-2xl md:text-3xl font-black text-slate-900 tracking-tight">
+              <h3 className="text-2xl md:text-3xl font-black text-slate-900 tracking-tight">
                 Multi-Bank OTS vs Debt Consolidation Matrix
-              </h2>
+              </h3>
               <p>
                 Distressed borrowers with multiple defaulted accounts frequently evaluate various debt relief options. The comparison matrix below illustrates why structured bilateral One-Time Settlements offer the most legally sound and financially viable outcome compared to traditional debt consolidation or restructuring.
               </p>
@@ -533,9 +533,9 @@ export default function CaseStudy25LakhMultipleBankSettlementClient() {
                 <ShieldCheck className="w-3.5 h-3.5" />
                 <span>Section 5: Credit Scoring</span>
               </div>
-              <h2 className="text-2xl md:text-3xl font-black text-slate-900 tracking-tight">
+              <h3 className="text-2xl md:text-3xl font-black text-slate-900 tracking-tight">
                 CIBIL Scoring Dynamics Across 7 Defaulted Accounts
-              </h2>
+              </h3>
               <p>
                 The TransUnion CIBIL scoring model computes creditworthiness across five weighted variables: Repayment History (35%), Credit Utilization (30%), Credit History Length (15%), Credit Inquiries (10%), and Credit Exposure Mix (10%). When a consumer defaults across seven accounts concurrently, the algorithm penalizes the credit profile severely, driving scores from prime territory (780+) down to sub-550 ranges within 120 days as multiple 30-day default flags compound every billing cycle.
               </p>
@@ -550,9 +550,9 @@ export default function CaseStudy25LakhMultipleBankSettlementClient() {
                 <Sparkles className="w-3.5 h-3.5" />
                 <span>Section 6: Visual Roadmap</span>
               </div>
-              <h2 className="text-2xl md:text-3xl font-black text-slate-900 tracking-tight">
+              <h3 className="text-2xl md:text-3xl font-black text-slate-900 tracking-tight">
                 Visual Multi-Bank Resolution Blueprint
-              </h2>
+              </h3>
               <p>
                 The visual infographic below details the 180-day multi-lender debt resolution roadmap, illustrating the portfolio liability breakdown, the 58% principal haircut achieved across seven financial institutions, and the chronological progression from initial crisis intake to final zero-balance No Dues Certificates.
               </p>
@@ -591,9 +591,9 @@ export default function CaseStudy25LakhMultipleBankSettlementClient() {
                 <Layers className="w-3.5 h-3.5" />
                 <span>Section 7: Standard Operating Procedure</span>
               </div>
-              <h2 className="text-2xl md:text-3xl font-black text-slate-900 tracking-tight">
+              <h3 className="text-2xl md:text-3xl font-black text-slate-900 tracking-tight">
                 6-Stage Prioritization & Settlement SOP
-              </h2>
+              </h3>
               <p>
                 SettleLoans applies a rigorous six-stage standard operating procedure to resolve complex multi-bank debt portfolios systematically and eliminate creditor harassment.
               </p>
@@ -683,9 +683,9 @@ export default function CaseStudy25LakhMultipleBankSettlementClient() {
                 <Gavel className="w-3.5 h-3.5" />
                 <span>Section 8: Legal Defense</span>
               </div>
-              <h2 className="text-2xl md:text-3xl font-black text-slate-900 tracking-tight">
+              <h3 className="text-2xl md:text-3xl font-black text-slate-900 tracking-tight">
                 Statutory Notice Defense & Borrower Protections
-              </h2>
+              </h3>
               <p>
                 When multiple loan defaults occur, borrowers often receive intimidating legal notices citing electronic mandate bounces and cheque dishonor. Genuine inability to service unsecured credit is strictly a civil breach of contract under the Indian Contract Act, 1872, rather than a criminal offense.
               </p>
@@ -728,36 +728,36 @@ Account: Defaulted Credit Facility // Multi-Bank Stressed Portfolio
                 <ShieldAlert className="w-3.5 h-3.5" />
                 <span>Section 9: Grievance Escalation</span>
               </div>
-              <h2 className="text-2xl md:text-3xl font-black text-slate-900 tracking-tight">
+              <h3 className="text-2xl md:text-3xl font-black text-slate-900 tracking-tight">
                 3-Tier Grievance & Ombudsman Escalation Matrix
-              </h2>
+              </h3>
               <p>
                 When lenders or recovery agencies violate fair practices codes, borrowers must execute a structured three-tier administrative grievance escalation.
               </p>
 
               <div className="space-y-3 my-6">
                 <div className="p-4 rounded-xl border border-slate-200 bg-slate-50/70">
-                  <h3 className="font-bold text-slate-900 text-sm mb-1">
+                  <h4 className="font-bold text-slate-900 text-sm mb-1">
                     Tier 1: Bank Grievance Redressal Officer (GRO) // Resolution Window: 7 to 10 Days
-                  </h3>
+                  </h4>
                   <p className="text-slate-600 text-xs md:text-sm leading-relaxed">
                     A formal written complaint is lodged with the bank&apos;s GRO detailing unlawful recovery conduct, requiring statutory acknowledgment within 48 hours and written resolution within 10 days.
                   </p>
                 </div>
 
                 <div className="p-4 rounded-xl border border-slate-200 bg-slate-50/70">
-                  <h3 className="font-bold text-slate-900 text-sm mb-1">
+                  <h4 className="font-bold text-slate-900 text-sm mb-1">
                     Tier 2: Principal Nodal Officer (PNO) // Resolution Window: 14 to 21 Days
-                  </h3>
+                  </h4>
                   <p className="text-slate-600 text-xs md:text-sm leading-relaxed">
                     If the GRO fails to resolve the grievance or harassment persists, the complaint is escalated to the PNO for executive intervention and collection agency de-escalation.
                   </p>
                 </div>
 
                 <div className="p-4 rounded-xl border border-slate-200 bg-slate-50/70">
-                  <h3 className="font-bold text-slate-900 text-sm mb-1">
+                  <h4 className="font-bold text-slate-900 text-sm mb-1">
                     Tier 3: RBI Integrated Ombudsman // Portal: cms.rbi.org.in
-                  </h3>
+                  </h4>
                   <p className="text-slate-600 text-xs md:text-sm leading-relaxed">
                     Unresolved grievances are escalated to the RBI Ombudsman, which holds authority to penalize non-compliant lenders, award harassment compensation, and mandate compromise resolution.
                   </p>
@@ -771,9 +771,9 @@ Account: Defaulted Credit Facility // Multi-Bank Stressed Portfolio
                 <Clock className="w-3.5 h-3.5" />
                 <span>Section 10: Milestones</span>
               </div>
-              <h2 className="text-2xl md:text-3xl font-black text-slate-900 tracking-tight">
+              <h3 className="text-2xl md:text-3xl font-black text-slate-900 tracking-tight">
                 Chronological 180-Day Resolution Timeline
-              </h2>
+              </h3>
               <p>
                 The table below outlines the 180-day procedural milestone progression executed to resolve all seven defaulted facilities systematically.
               </p>
@@ -837,9 +837,9 @@ Account: Defaulted Credit Facility // Multi-Bank Stressed Portfolio
                 <Users className="w-3.5 h-3.5" />
                 <span>Section 11: Real-World Scenarios</span>
               </div>
-              <h2 className="text-2xl md:text-3xl font-black text-slate-900 tracking-tight">
+              <h3 className="text-2xl md:text-3xl font-black text-slate-900 tracking-tight">
                 Specialized Multi-Lender Case Scenarios
-              </h2>
+              </h3>
               <p>
                 Multi-bank resolution strategies must adapt to the unique collection behaviors and provisioning policies of different lender categories.
               </p>
@@ -847,10 +847,10 @@ Account: Defaulted Credit Facility // Multi-Bank Stressed Portfolio
               <div className="grid grid-cols-1 md:grid-cols-2 gap-4 my-6">
                 {/* Scenario 1 */}
                 <div className="p-5 rounded-2xl border border-slate-200 bg-white shadow-xs space-y-2">
-                  <h3 className="font-bold text-slate-900 text-sm flex items-center gap-2">
+                  <h4 className="font-bold text-slate-900 text-sm flex items-center gap-2">
                     <Building2 className="w-4 h-4 text-[#1886ff]" />
                     <span>Private Bank vs PSU Lender Sequencing</span>
-                  </h3>
+                  </h4>
                   <p className="text-slate-600 text-xs leading-relaxed">
                     Aggressive private banks utilize automated notice engines and require prompt settlement, while public sector lenders follow structured compromise policies, allowing borrowers to defer PSU negotiations safely.
                   </p>
@@ -858,10 +858,10 @@ Account: Defaulted Credit Facility // Multi-Bank Stressed Portfolio
 
                 {/* Scenario 2 */}
                 <div className="p-5 rounded-2xl border border-slate-200 bg-white shadow-xs space-y-2">
-                  <h3 className="font-bold text-slate-900 text-sm flex items-center gap-2">
+                  <h4 className="font-bold text-slate-900 text-sm flex items-center gap-2">
                     <CreditCard className="w-4 h-4 text-[#1886ff]" />
                     <span>High-APR Credit Card Cascade Post-Layoff</span>
-                  </h3>
+                  </h4>
                   <p className="text-slate-600 text-xs leading-relaxed">
                     Credit card balances compound rapidly at 42% APR following job loss. SettleLoans freezes penalty growth through formal hardship representation and settles cards at 35% to 45% of claimed dues.
                   </p>
@@ -869,10 +869,10 @@ Account: Defaulted Credit Facility // Multi-Bank Stressed Portfolio
 
                 {/* Scenario 3 */}
                 <div className="p-5 rounded-2xl border border-slate-200 bg-white shadow-xs space-y-2">
-                  <h3 className="font-bold text-slate-900 text-sm flex items-center gap-2">
+                  <h4 className="font-bold text-slate-900 text-sm flex items-center gap-2">
                     <Flame className="w-4 h-4 text-[#1886ff]" />
                     <span>NBFC Digital Loan App Shielding</span>
-                  </h3>
+                  </h4>
                   <p className="text-slate-600 text-xs leading-relaxed">
                     Digital lenders using aggressive phone tactics are countered through RBI Digital Lending Guidelines and IT Act notices, compelling them to negotiate exclusively through official dispute channels.
                   </p>
@@ -880,10 +880,10 @@ Account: Defaulted Credit Facility // Multi-Bank Stressed Portfolio
 
                 {/* Scenario 4 */}
                 <div className="p-5 rounded-2xl border border-slate-200 bg-white shadow-xs space-y-2">
-                  <h3 className="font-bold text-slate-900 text-sm flex items-center gap-2">
+                  <h4 className="font-bold text-slate-900 text-sm flex items-center gap-2">
                     <Landmark className="w-4 h-4 text-[#1886ff]" />
                     <span>ARC Debt Assignment Resolution</span>
-                  </h3>
+                  </h4>
                   <p className="text-slate-600 text-xs leading-relaxed">
                     When lenders assign written-off retail loans to Asset Reconstruction Companies at steep portfolio discounts, SettleLoans leverages this low acquisition cost to secure substantial debt waivers.
                   </p>
@@ -902,9 +902,9 @@ Account: Defaulted Credit Facility // Multi-Bank Stressed Portfolio
                 <HelpCircle className="w-3.5 h-3.5" />
                 <span>Section 13: Knowledge Base</span>
               </div>
-              <h2 className="text-2xl md:text-3xl font-black text-slate-900 tracking-tight">
+              <h3 className="text-2xl md:text-3xl font-black text-slate-900 tracking-tight">
                 Frequently Asked Questions on Multi-Bank Debt Settlement
-              </h2>
+              </h3>
               <p className="text-slate-600 text-sm leading-relaxed mb-6">
                 Below are authoritative legal and financial answers to the most pressing questions concerning multi-bank loan defaults, recovery agent harassment, and One-Time Settlement execution in India.
               </p>
@@ -928,9 +928,9 @@ Account: Defaulted Credit Facility // Multi-Bank Stressed Portfolio
                 <Award className="w-3.5 h-3.5" />
                 <span>Section 14: Regulatory Citations</span>
               </div>
-              <h2 className="text-2xl md:text-3xl font-black text-slate-900 tracking-tight">
+              <h3 className="text-2xl md:text-3xl font-black text-slate-900 tracking-tight">
                 Statutory Citations & Outbound Authority Grid
-              </h2>
+              </h3>
               <p className="text-slate-700 text-sm leading-relaxed">
                 The legal defenses, borrower protections, and compromise settlement protocols documented throughout this case study are strictly anchored in statutory Indian financial legislation, Reserve Bank of India master directions, and binding Supreme Court precedents.
               </p>

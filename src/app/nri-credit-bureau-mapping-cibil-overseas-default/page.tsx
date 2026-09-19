@@ -527,9 +527,9 @@ export default function NriCreditBureauMappingPage() {
 
             {/* Section 2: Statutory Data Sovereignty Firewalls */}
             <section id="statutory-data-sovereignty-firewalls" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                 2. Statutory Data Sovereignty Firewalls: CICRA 2005, FCRA, GDPR &amp; Cross-Border Credit Isolation
-              </h2>
+              </h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 To understand why an Indian credit default cannot cross international borders, one must examine the governing legislative architecture. In India, consumer and commercial credit information is governed strictly by the <strong>Credit Information Companies (Regulation) Act, 2005 (CICRA)</strong> and the comprehensive circulars issued by the Reserve Bank of India (RBI).
               </p>
@@ -568,9 +568,9 @@ export default function NriCreditBureauMappingPage() {
 
             {/* Section 3: Country-Specific Credit Bureau Mechanics */}
             <section id="country-specific-bureau-mechanics" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                 3. Country-Specific Credit Bureau Mechanics: US, UK, Canada &amp; UAE (AECB)
-              </h2>
+              </h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 To eliminate lingering ambiguities, it is vital to analyze the exact consumer reporting mechanisms across the primary geographic corridors where Non-Resident Indians reside:
               </p>
@@ -620,9 +620,9 @@ export default function NriCreditBureauMappingPage() {
 
             {/* Section 4: Bank Accounting Economics & The NRI NPV Recovery Equation */}
             <section id="nri-bank-accounting-npv-formula" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                 4. Bank NPA Accounting Economics &amp; The NRI NPV Recovery Equation
-              </h2>
+              </h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Why are Indian commercial banks and Asset Reconstruction Companies (ARCs) exceptionally eager to offer deep One-Time Settlement (OTS) waivers to Non-Resident Indians? The answer lies in bank balance sheet economics, Reserve Bank of India (RBI) provisioning mandates, and the mathematical reality of cross-border debt recovery.
               </p>
@@ -684,9 +684,9 @@ export default function NriCreditBureauMappingPage() {
 
             {/* Section 6: Immigration & Visa Realities */}
             <section id="immigration-visa-realities-h1b-pr" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                 6. Immigration &amp; Visa Realities: H-1B, Green Card, UK Skilled Worker &amp; UAE Visas
-              </h2>
+              </h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 One of the most insidious tactics utilized by aggressive collection agencies is fabricating threats regarding immigration status. Borrowers are falsely told that defaulting on an Indian bank loan will lead to an alert on their passport, revocation of their US H-1B visa, rejection of their US Permanent Residency (Green Card), cancellation of a Canadian Permanent Residency application, or refusal of a UK Skilled Worker visa extension.
               </p>
@@ -739,9 +739,9 @@ export default function NriCreditBureauMappingPage() {
 
             {/* Section 7: Legal Remedies & Cross-Border Jurisdiction */}
             <section id="legal-remedies-cross-border-jurisdiction" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                 7. Legal Jurisdiction: Section 138 NI Act, Look Out Circulars (LOCs) &amp; Civil Decrees
-              </h2>
+              </h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 While cross-border credit reporting and immigration threats are legally toothless, borrowers must remain fully informed about genuine Indian legal procedures that lenders may initiate domestically:
               </p>
@@ -781,9 +781,9 @@ export default function NriCreditBureauMappingPage() {
 
             {/* Section 8: Remote Resolution Protocol via Special Power of Attorney */}
             <section id="remote-resolution-special-power-of-attorney" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                 8. Remote Settlement Protocol: Settling Indian Bank Loans from Abroad via Special Power of Attorney (SPA)
-              </h2>
+              </h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 NRIs do not need to take leave from work, purchase expensive international flight tickets, or subject themselves to confrontational bank visits to resolve defaulted Indian liabilities. The entire debt settlement lifecycle can be conducted seamlessly and securely from abroad through authorized legal representation:
               </p>
@@ -794,7 +794,7 @@ export default function NriCreditBureauMappingPage() {
                     1
                   </div>
                   <div className="space-y-1">
-                    <h3 className="font-bold text-slate-900 text-xs sm:text-sm">Consular-Attested Special Power of Attorney (SPA) or Legal Authorization</h3>
+                    <h4 className="font-bold text-slate-900 text-xs sm:text-sm">Consular-Attested Special Power of Attorney (SPA) or Legal Authorization</h4>
                     <p className="text-xs text-slate-600 leading-relaxed">
                       The NRI executes a limited Special Power of Attorney (SPA) or formal Letter of Legal Representation authorizing specialized debt settlement advocates to represent them before the bank, NBFC, ARC, or judicial forums. The SPA can be easily attested at the nearest Indian Embassy or Consulate abroad, or executed electronically under the Information Technology Act.
                     </p>
@@ -806,7 +806,7 @@ export default function NriCreditBureauMappingPage() {
                     2
                   </div>
                   <div className="space-y-1">
-                    <h4 className="font-bold text-slate-900 text-xs sm:text-sm">Formal Notice of Representation &amp; Third-Party Harassment Cessation</h4>
+                    <h5 className="font-bold text-slate-900 text-xs sm:text-sm">Formal Notice of Representation &amp; Third-Party Harassment Cessation</h5>
                     <p className="text-xs text-slate-600 leading-relaxed">
                       Legal counsel serves a formal Notice of Representation on the lender&apos;s head office and nodal grievance officers under the RBI Fair Practices Code. This legally forces recovery agents to immediately cease contacting the NRI&apos;s overseas number, employer, or relatives in India.
                     </p>
@@ -818,7 +818,7 @@ export default function NriCreditBureauMappingPage() {
                     3
                   </div>
                   <div className="space-y-1">
-                    <h4 className="font-bold text-slate-900 text-xs sm:text-sm">Forensic Loan Audit &amp; Financial Hardship Dossier Compilation</h4>
+                    <h5 className="font-bold text-slate-900 text-xs sm:text-sm">Forensic Loan Audit &amp; Financial Hardship Dossier Compilation</h5>
                     <p className="text-xs text-slate-600 leading-relaxed">
                       Advocates audit the loan statements to strip away illegal penal compounding, uncredited payments, and unauthorized insurance charges. A verified financial hardship dossier (documenting job disruption, medical costs, or foreign living expense inflation) is submitted directly to the bank&apos;s Zonal Stressed Asset Management Committee (SAMC).
                     </p>
@@ -830,7 +830,7 @@ export default function NriCreditBureauMappingPage() {
                     4
                   </div>
                   <div className="space-y-1">
-                    <h4 className="font-bold text-slate-900 text-xs sm:text-sm">Verification of Official Settlement Sanction Letter</h4>
+                    <h5 className="font-bold text-slate-900 text-xs sm:text-sm">Verification of Official Settlement Sanction Letter</h5>
                     <p className="text-xs text-slate-600 leading-relaxed">
                       Before a single rupee is remitted, legal advocates forensically verify the formal Settlement Sanction Letter issued on official bank letterhead, ensuring it contains specific tranche payment deadlines, comprehensive debt extinguishment clauses, commitment to withdraw pending Section 138/civil suits, and issuance of the No Dues Certificate (NDC).
                     </p>
@@ -842,7 +842,7 @@ export default function NriCreditBureauMappingPage() {
                     5
                   </div>
                   <div className="space-y-1">
-                    <h4 className="font-bold text-slate-900 text-xs sm:text-sm">Direct Bank Remittance, NDC Receipt &amp; Credit Bureau Rectification</h4>
+                    <h5 className="font-bold text-slate-900 text-xs sm:text-sm">Direct Bank Remittance, NDC Receipt &amp; Credit Bureau Rectification</h5>
                     <p className="text-xs text-slate-600 leading-relaxed">
                       The agreed settlement amount is transferred directly from the borrower&apos;s NRE/NRO or overseas bank account into the lender&apos;s designated settlement account. Within 30 days of remittance, the bank issues the official No Dues Certificate and updates the account balance to ₹0 across TransUnion CIBIL, Experian, Equifax, and CRIF High Mark.
                     </p>
@@ -853,9 +853,9 @@ export default function NriCreditBureauMappingPage() {
 
             {/* Section 9: Country-by-Country Matrix */}
             <section id="country-jurisdiction-comparative-matrix" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                 9. Country-by-Country Credit Bureau &amp; Legal Jurisdictional Matrix
-              </h2>
+              </h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 The comparative matrix below outlines the exact legal, technical, and regulatory realities of Indian loan defaults across the world&apos;s primary expat jurisdictions:
               </p>
@@ -927,9 +927,9 @@ export default function NriCreditBureauMappingPage() {
                     <Scale className="w-3.5 h-3.5" />
                     <span>Institutional NRI Debt Resolution</span>
                   </div>
-                  <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-white leading-tight">
+                  <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-white leading-tight">
                     10. SettleLoans Remote Legal Defense &amp; NRI Stressed Asset Advisory
-                  </h2>
+                  </h3>
                   <p className="text-xs sm:text-sm text-slate-300 leading-relaxed">
                     SettleLoans is India&apos;s premier institutional debt resolution and legal advisory platform. We specialize in representing Non-Resident Indians, expatriates, and overseas professionals facing delinquent personal loans, credit card portfolios, business facilities, and mortgage disputes across Indian commercial banks and Asset Reconstruction Companies.
                   </p>
@@ -956,9 +956,9 @@ export default function NriCreditBureauMappingPage() {
             <section id="faqs" className="space-y-4 pt-4 border-t border-slate-200">
               <div className="flex items-center gap-2 mb-2">
                 <HelpCircle className="w-5 h-5 text-[#1F5EFF]" />
-                <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
+                <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                   11. Frequently Asked Questions (NRI Debt &amp; Overseas Credit)
-                </h2>
+                </h3>
               </div>
               <p className="text-xs sm:text-sm text-slate-600 mb-6">
                 Authoritative legal and regulatory answers regarding cross-border credit reporting, immigration impacts, and remote debt settlement in India.
@@ -988,9 +988,9 @@ export default function NriCreditBureauMappingPage() {
 
             {/* 5 Official Regulatory Links */}
             <section className="border-t border-slate-200 pt-8 mb-4">
-              <h3 className="text-xs sm:text-sm font-bold text-slate-900 mb-3 uppercase tracking-wider">
+              <h4 className="text-xs sm:text-sm font-bold text-slate-900 mb-3 uppercase tracking-wider">
                 Official Statutory &amp; Regulatory References
-              </h3>
+              </h4>
               <div className="grid grid-cols-1 sm:grid-cols-2 gap-2.5 text-xs">
                 <a
                   href="https://indiacode.gov.in/handle/123456789/2042"
@@ -1042,9 +1042,9 @@ export default function NriCreditBureauMappingPage() {
 
             {/* 10 Related Guide Badges */}
             <section className="border-t border-slate-200 pt-8 mb-8">
-              <h3 className="text-xs sm:text-sm font-bold text-slate-900 mb-4 uppercase tracking-wider">
+              <h4 className="text-xs sm:text-sm font-bold text-slate-900 mb-4 uppercase tracking-wider">
                 Related Distressed Asset &amp; Loan Resolution Guides
-              </h3>
+              </h4>
               <div className="flex flex-wrap gap-2">
                 <Link
                   href="/case-study-nri-loan-settlement-from-dubai"

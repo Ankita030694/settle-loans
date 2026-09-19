@@ -278,9 +278,9 @@ export default function LoanSettlementMSMEOwnersPage() {
             </section>
 
             <section id="msme-debt-crisis-2026" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
                 The Looming MSME Debt Crisis: Why It's Different
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 MSME debt in India is uniquely layered. Often, a small business owner is not just fighting the bank; they are fighting their own creditors and buyers simultaneously. When a 'Big Corporate' delays a payment to an MSME for 180 days, it triggers a chain reaction. The MSME cannot pay its workers, cannot buy raw materials, and eventually defaults on its Bank Term Loan.
               </p>
@@ -291,7 +291,7 @@ export default function LoanSettlementMSMEOwnersPage() {
                 According to MSME ministry reports, over 10% of all MSME accounts are currently under some form of stress. The 'SMA-2' category (overdue by 61-90 days) is the last stop before an account becomes an NPA. Once the NPA tag is applied, the bank stops being your 'partner' and starts being your 'repossessor'. Breaking this cycle requires aggressive use of the **MSMED Act 2006** and professional negotiation.
               </p>
               <div className="bg-gray-50 p-8 rounded-xl border border-gray-200 mb-8">
-                <h3 className="text-xl font-bold mb-6">Critical Warning Signs for MSME Owners:</h3>
+                <h4 className="text-xl font-bold mb-6">Critical Warning Signs for MSME Owners:</h4>
                 <ul className="grid md:grid-cols-2 gap-4 text-sm font-medium">
                   <li className="flex items-start gap-2">
                     <span className="w-2 h-2 bg-[#1F5EFF] rounded-full mt-1.5 shrink-0"></span>
@@ -322,9 +322,9 @@ export default function LoanSettlementMSMEOwnersPage() {
             </section>
 
             <section id="rbi-revival-framework" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
                 The RBI Framework for the Revival of MSMEs
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 One of the best-kept secrets in Indian banking is the **Framework for the Revival and Rehabilitation of MSMEs**. This is a mandatory RBI directive that requires every bank to have a dedicated 'Committee' to handle stressed MSME accounts with limits up to ₹25 Crore.
               </p>
@@ -337,23 +337,23 @@ export default function LoanSettlementMSMEOwnersPage() {
             </section>
 
             <section id="understanding-sma" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
                 Understanding SMA: The 90-Day Countdown to NPA
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 In banking, 'Account Stress' is measured in three stages of Special Mention Account (SMA). This is the best time to intervene.
               </p>
               <div className="space-y-4 mb-8">
                 <div className="bg-white p-6 rounded-xl border border-blue-100 shadow-sm border-l-4 border-l-green-500">
-                  <h3 className="font-bold text-lg mb-2">SMA-0: The Warning Light (1-30 days overdue)</h3>
+                  <h4 className="font-bold text-lg mb-2">SMA-0: The Warning Light (1-30 days overdue)</h4>
                   <p className="text-sm text-gray-600">The bank starts sending automated reminders. This is the stage to arrange bridge funds or negotiate a temporary deferment. Most MSMEs ignore this, which is a mistake.</p>
                 </div>
                 <div className="bg-white p-6 rounded-xl border border-blue-100 shadow-sm border-l-4 border-l-yellow-500">
-                  <h4 className="font-bold text-lg mb-2">SMA-1: The Yellow Zone (31-60 days overdue)</h4>
+                  <h5 className="font-bold text-lg mb-2">SMA-1: The Yellow Zone (31-60 days overdue)</h5>
                   <p className="text-sm text-gray-600">Branch managers will start calling. This is the 'Golden Window' to apply for the RBI Revival Framework. Documentation is key here.</p>
                 </div>
                 <div className="bg-white p-6 rounded-xl border border-blue-100 shadow-sm border-l-4 border-l-red-500">
-                  <h4 className="font-bold text-lg mb-2">SMA-2: The Critical Zone (61-90 days overdue)</h4>
+                  <h5 className="font-bold text-lg mb-2">SMA-2: The Critical Zone (61-90 days overdue)</h5>
                   <p className="text-sm text-gray-600">Your account is on the verge of becoming an NPA. The bank's internal 'Audit' flags your account. Intervention must be aggressive and professional at this stage.</p>
                 </div>
               </div>
@@ -361,7 +361,7 @@ export default function LoanSettlementMSMEOwnersPage() {
             </section>
 
             <section id="ots-for-msme" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">What is One-Time Settlement (OTS) for MSMEs?</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">What is One-Time Settlement (OTS) for MSMEs?</h3>
               <p className="mb-6 text-lg">
                 For many MSMEs, the compounding interest on an old business loan eventually surpasses the original principal. At this point, the business is working only to pay interest to the bank. A One-Time Settlement (OTS) is a formal contract where the bank agrees to 'settle' the entire account for a lump-sum amount, which is often 40% to 70% lower than the 'Current Dues'.
               </p>
@@ -369,7 +369,7 @@ export default function LoanSettlementMSMEOwnersPage() {
                 Banks carry a 'Non-Discretionary OTS Policy' for MSMEs. This means if you meet certain criteria (like your business is genuinely shut or you have lost primary income sources), the bank's manager has a pre-approved authority to give you a discount. The goal for the MSME owner is to get a 'Principal Waiver' - where you pay back less than even the amount you originally borrowed.
               </p>
               <div className="bg-blue-50 p-8 rounded-2xl border border-blue-100 mb-8">
-                <h3 className="text-xl font-black text-blue-900 mb-6">When to Choose Settlement over Restructuring?</h3>
+                <h4 className="text-xl font-black text-blue-900 mb-6">When to Choose Settlement over Restructuring?</h4>
                 <ul className="space-y-4">
                   <li className="flex gap-3">
                     <span className="w-6 h-6 bg-blue-600 text-white rounded-full flex items-center justify-center shrink-0 mt-0.5 text-xs font-bold">1</span>
@@ -388,7 +388,7 @@ export default function LoanSettlementMSMEOwnersPage() {
             </section>
 
             <section id="msme-samadhaan-power" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">MSME Samadhaan: Your Strategic Weapon</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">MSME Samadhaan: Your Strategic Weapon</h3>
               <p className="mb-6 text-lg">
                 The biggest irony for Indian MSMEs is that they are 'Broke' but their 'Balance Sheet' shows millions in receivables. If you cannot pay the bank because a buyer hasn't paid you, the **MSME Samadhaan** portal is your savior.
               </p>
@@ -396,7 +396,7 @@ export default function LoanSettlementMSMEOwnersPage() {
                 Under the MSMED Act, if you are a Micro or Small enterprise with a valid Udyam Registration, your buyers must pay you within 45 days. If they don't, you can file a case in the Samadhaan portal. This initiates a process where the **MSE Facilitation Council (MSEFC)** can order the buyer to pay you the principal **plus compound interest at 3x the RBI rate**.
               </p>
               <div className="bg-[#2E2E2E] text-white p-8 rounded-2xl mb-8">
-                <h3 className="text-2xl font-bold mb-4">Using Samadhaan for Bank Settlement</h3>
+                <h4 className="text-2xl font-bold mb-4">Using Samadhaan for Bank Settlement</h4>
                 <p className="mb-4 opacity-80">
                   A common strategy we use: We file a Samadhaan case against your biggest buyer. Once the case starts, we use the 'Decree' to show the bank that your money is legally incoming. This forces the bank to stop their aggressive recovery and wait for the Samadhaan payout, or they may even help you discount those receivables to settle your loan today.
                 </p>
@@ -404,7 +404,7 @@ export default function LoanSettlementMSMEOwnersPage() {
             </section>
 
             <section id="msmed-act-2006" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">MSMED Act 2006: The Legal Pillar</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">MSMED Act 2006: The Legal Pillar</h3>
               <p className="mb-6 text-lg">
                 The **Micro, Small and Medium Enterprises Development (MSMED) Act, 2006** is one of the most powerful laws in India. It was created specifically because the government knew small businesses cannot fight large banks or corporations on equal terms.
               </p>
@@ -413,7 +413,7 @@ export default function LoanSettlementMSMEOwnersPage() {
             </section>
 
             <section id="step-by-step-msme" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 text-center">The 7-Step MSME Debt Resolution Roadmap</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 text-center">The 7-Step MSME Debt Resolution Roadmap</h3>
               <p className="mb-8 text-center max-w-2xl mx-auto">Do not enter a bank negotiation without a plan. Here is the process we follow at SettleLoans to ensure MSME owners get the maximum possible relief.</p>
               
               <div className="relative border-l-2 border-[#1F5EFF] ml-4 md:ml-8 space-y-12 pb-8">
@@ -428,7 +428,7 @@ export default function LoanSettlementMSMEOwnersPage() {
                 ].map((item, i) => (
                   <div key={i} className="relative pl-8">
                     <div className="absolute -left-[9px] top-0 w-4 h-4 rounded-full bg-[#1F5EFF]"></div>
-                    <h3 className="text-xl font-bold text-[#2E2E2E] mb-2">{item.step}</h3>
+                    <h4 className="text-xl font-bold text-[#2E2E2E] mb-2">{item.step}</h4>
                     <p className="text-gray-600 leading-relaxed text-base">{item.content}</p>
                   </div>
                 ))}
@@ -436,34 +436,34 @@ export default function LoanSettlementMSMEOwnersPage() {
             </section>
 
             <section id="udyam-importance" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 text-center">Udyam Registration: Your Passport to Protection</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 text-center">Udyam Registration: Your Passport to Protection</h3>
               <p className="mb-8 text-center">Without Udyam Registration, you are just an 'Individual' in the eyes of the bank. With it, you are an 'MSME' protected by the Constitution and RBI. If you haven't done it, do it today. It takes 10 minutes but saves you crores.</p>
               <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-6 not-prose">
                 <div className="bg-slate-50 p-6 rounded-2xl border border-slate-200 text-center">
                   <div className="text-3xl mb-3">🛡️</div>
-                  <h3 className="font-black text-slate-800 mb-2">Priority Credit</h3>
+                  <h4 className="font-black text-slate-800 mb-2">Priority Credit</h4>
                   <p className="text-xs text-slate-600">Banks must meet targets for MSME lending, making them more open to retaining you even during stress.</p>
                 </div>
                 <div className="bg-slate-50 p-6 rounded-2xl border border-slate-200 text-center">
                   <div className="text-3xl mb-3">⚖️</div>
-                  <h4 className="font-black text-slate-800 mb-2">Arbitration Right</h4>
+                  <h5 className="font-black text-slate-800 mb-2">Arbitration Right</h5>
                   <p className="text-xs text-slate-600">You gain the legal right to sue large buyers in the MSEFC without paying heavy court fees.</p>
                 </div>
                 <div className="bg-slate-50 p-6 rounded-2xl border border-slate-200 text-center">
                   <div className="text-3xl mb-3">💰</div>
-                  <h5 className="font-black text-slate-800 mb-2">Interest Subvention</h5>
+                  <h6 className="font-black text-slate-800 mb-2">Interest Subvention</h6>
                   <p className="text-xs text-slate-600">Many state governments provide interest waivers for Udyam-registered companies that settle and reopen.</p>
                 </div>
               </div>
             </section>
 
             <section id="section-15-16" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Section 15 & 16: The 'Tooth and Claw' of the Law</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Section 15 & 16: The 'Tooth and Claw' of the Law</h3>
               <p className="mb-6 text-lg">
                 For an MSME owner, knowing your rights under the MSMED Act is like carrying a spear into a battle of swords.
               </p>
               <div className="bg-orange-50 border-l-4 border-orange-500 p-8 rounded-r-xl mb-8">
-                <h3 className="text-xl font-bold text-orange-800 mb-4">The MSME Owner's Bill of Rights:</h3>
+                <h4 className="text-xl font-bold text-orange-800 mb-4">The MSME Owner's Bill of Rights:</h4>
                 <ul className="space-y-4 text-orange-900/80 font-medium text-base">
                   <li><strong>1. The 45-Day Rule:</strong> No buyer, no matter how powerful, can delay your payment beyond 45 days. If they don't have a written contract, the limit is 15 days.</li>
                   <li><strong>2. The 3x Interest Penalty:</strong> If they delay, they MUST pay you interest at 3 times the RBI bank rate. This interest is taxable for them but it cannot be used as an expense to reduce their tax. It's a double punishment for them.</li>
@@ -475,7 +475,7 @@ export default function LoanSettlementMSMEOwnersPage() {
             </section>
 
             <section id="sarfaesi-msme" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">The SARFAESI Threat for MSMEs: How to Object</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">The SARFAESI Threat for MSMEs: How to Object</h3>
               <p className="mb-6 text-lg leading-relaxed">
                 If you have missed 3 EMIs, you will receive a notice under **Section 13(2) of the SARFAESI Act**. This is the bank's 'Intent to Seize'. Most MSME owners simply cry or look for a new loan. That's a mistake.
               </p>
@@ -483,13 +483,13 @@ export default function LoanSettlementMSMEOwnersPage() {
                 You have 60 days to file a **Formal Objection under Section 13(3A)**. In this objection, you must argue why the bank shouldn't seize your unit. For MSMEs, you can argue that the bank failed to offer the 'RBI Revival Framework' or that your dues are in dispute at the MSME Samadhaan council.
               </p>
               <div className="bg-red-50 p-8 border border-red-100 rounded-2xl mb-8">
-                <h3 className="text-xl font-bold text-red-800 mb-2">WARNING: SARFAESI is aggressive but not infallible.</h3>
+                <h4 className="text-xl font-bold text-red-800 mb-2">WARNING: SARFAESI is aggressive but not infallible.</h4>
                 <p className="text-sm text-red-900/70">The bank MUST respond to your objection in writing within 15 days. If they don't, or if their response is generic, you can move the **Debt Recovery Tribunal (DRT)** to get a stay on the possession. Never vacate your factory or shop without a court order and professional legal consultation.</p>
               </div>
             </section>
 
             <section id="msme-success-cases" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 text-center">Small Businesses That Rose From the Ashes</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 text-center">Small Businesses That Rose From the Ashes</h3>
               <div className="grid md:grid-cols-2 gap-6 not-prose">
                 {[
                   {
@@ -513,7 +513,7 @@ export default function LoanSettlementMSMEOwnersPage() {
                         {review.name.charAt(0)}
                       </div>
                       <div>
-                        <h3 className="font-bold text-[#2E2E2E]">{review.name}</h3>
+                        <h4 className="font-bold text-[#2E2E2E]">{review.name}</h4>
                         <p className="text-xs text-gray-400">{review.loc}</p>
                       </div>
                       <div className="ml-auto text-yellow-500">★★★★★</div>
@@ -528,10 +528,10 @@ export default function LoanSettlementMSMEOwnersPage() {
             </section>
 
             <section id="why-settleloans-msme" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">How SettleLoans Empowers MSME Owners</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">How SettleLoans Empowers MSME Owners</h3>
               <p className="mb-6 leading-relaxed">We don't just 'resolve' debt; we rescue industries. Our team understands the nuances of the MSMED Act, the SARFAESI processes, and the inner workings of bank committees. We have handled thousands of cases for small businesses across India, from textile units in Surat to IT service firms in Pune.</p>
               <div className="bg-[#1F5EFF] text-white p-8 rounded-2xl mb-8">
-                <h3 className="text-2xl font-bold mb-4">Our Commitment to Your Business Survival</h3>
+                <h4 className="text-2xl font-bold mb-4">Our Commitment to Your Business Survival</h4>
                 <ul className="space-y-3 text-sm opacity-90">
                   <li className="flex items-start gap-2">✓ Stop Possession: Our first goal is to ensure your factory stays in your hands while we negotiate.</li>
                   <li className="flex items-start gap-2">✓ Recover Receivables: We use the Samadhaan portal to get your 'locked' money back with high interest.</li>
@@ -542,7 +542,7 @@ export default function LoanSettlementMSMEOwnersPage() {
             </section>
 
             <section id="faqs" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Frequently Asked Questions for MSMEs</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Frequently Asked Questions for MSMEs</h3>
               <div className="space-y-4 not-prose">
                 {[
                   { q: "Is MSME loan settlement the same as personal loan settlement?", a: "No. MSME settlement is governed by specialized RBI frameworks and the MSMED Act 2006, which provides more legal protection than a standard personal debt case." },
@@ -579,7 +579,7 @@ export default function LoanSettlementMSMEOwnersPage() {
             <div className="lg:hidden mt-16 mb-8">
               <div className="bg-[#2E2E2E] rounded-2xl shadow-xl overflow-hidden border border-[#1F5EFF]/20">
                 <div className="bg-[#1F5EFF] p-6 text-center text-white">
-                  <h3 className="text-2xl font-black mb-2">Save Your MSME</h3>
+                  <h4 className="text-2xl font-black mb-2">Save Your MSME</h4>
                   <p className="opacity-90 text-sm">Don't lose your life's work to a temporary crisis. Speak to our MSME experts today.</p>
                 </div>
                 <div className="p-8 text-center">
@@ -651,7 +651,7 @@ export default function LoanSettlementMSMEOwnersPage() {
         {/* Bottom CTA Section */}
         <section className="w-full bg-[#1F5EFF] py-16 px-4 md:px-8">
             <div className="max-w-4xl mx-auto text-center">
-                <h2 className="text-3xl md:text-5xl font-black text-white mb-6">India's MSMEs are Built on Grit.</h2>
+                <h3 className="text-3xl md:text-5xl font-black text-white mb-6">India's MSMEs are Built on Grit.</h3>
                 <p className="text-white/90 text-lg md:text-xl mb-10">Don't let a bad year end a good business. Get the legal strength and financial strategy you need to thrive again.</p>
                 <Link href="/contact" className="inline-block bg-white text-[#1F5EFF] font-black py-5 px-12 rounded-xl text-xl hover:scale-105 transition-all shadow-2xl">
                     Get Free MSME Advisory

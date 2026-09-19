@@ -115,7 +115,7 @@ const jsonLdGraph = {
       "@type": "Article",
       "@id": "https://www.settleloans.in/section-25-pssa-notice-loan-default#article",
       "headline": "Section 25 PSSA Notice for Loan Default: Borrower Rights, 15-Day Defense & OTS Extinguishment",
-      "description": "An exhaustive legal manual detailing the statutory nature of Section 25 Payment and Settlement Systems Act notices, disproving criminal fraud allegations for NACH bounces, and demonstrating how compromise settlement quashes complaints.",
+      "description": "An exhaustive legal manual detailing the statutory nature of Section 25 Payment and Settlement Systems Act notices, disproving criminal fraud allegations for NACH bounces, and showing how compromise settlement quashes complaints.",
       "image": "https://www.settleloans.in/images/infographics/section-25-pssa-notice-loan-default.jpg",
       "datePublished": "2026-08-24T12:00:00+05:30",
       "dateModified": "2026-08-24T12:00:00+05:30",
@@ -249,7 +249,7 @@ const jsonLdGraph = {
           "name": "Is Section 25 of the PSSA equivalent to Section 138 of the Negotiable Instruments Act?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Yes. Section 25 of the PSSA, 2007 was enacted specifically to give electronic funds transfer debits (NACH/ECS) the exact same statutory standing and penal framework as physical paper cheque bounces under Section 138 of the Negotiable Instruments Act, 1881. The procedures, 15-day notice requirements, compounding provisions, and defenses are substantially identical."
+            "text": "Yes. Section 25 of the PSSA, 2007 was enacted specifically to give electronic funds transfer debits (NACH/ECS) the exact same statutory standing and penal framework as physical paper cheque bounces under Section 138 of the Negotiable Instruments Act, 1881. The procedures, 15-day notice requirements, compounding provisions, and defenses are greatly identical."
           }
         },
         {
@@ -265,7 +265,7 @@ const jsonLdGraph = {
           "name": "What is the mandatory timeline to respond to a Section 25 PSSA legal notice?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Under Section 25(1)(b) of the PSSA, the borrower has strictly 15 calendar days from the date of physical or electronic delivery of the notice to respond. Serving a formal legal reply drafted by an advocate within this 15-day window places your bona fide defense on record, disputes illegal penal levies, and prevents the bank from proceeding ex-parte."
+            "text": "Under Section 25(1)(b) of the PSSA, the borrower has strictly 15 calendar days from the date of physical or electronic delivery of the notice to respond. Serving a formal legal reply drafted by an advocate within this 15-day window places your bona fide defense on record, disputes illegal penal levies, and prevents the bank from case ex-parte."
           }
         },
         {
@@ -273,7 +273,7 @@ const jsonLdGraph = {
           "name": "How does an advocate's legal reply dismantle a Section 25 PSSA complaint?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "An advocate's reply demonstrates the complete absence of mens rea (fraudulent intent) by providing documented proof of involuntary financial distress (such as job loss, medical catastrophe, or business failure). It also audits the demand notice to challenge inflated penal interest, unnotified bouncing charges, and defective service, while simultaneously offering a structured compromise settlement under RBI frameworks."
+            "text": "An advocate's reply shows the complete absence of mens rea (fraudulent intent) by providing documented proof of involuntary financial distress (such as job loss, medical catastrophe, or business failure). It also audits the demand notice to challenge inflated penal interest, unnotified bouncing charges, and defective service, while simultaneously offering a structured compromise settlement under RBI frameworks."
           }
         },
         {
@@ -281,7 +281,7 @@ const jsonLdGraph = {
           "name": "Can a Section 25 PSSA criminal complaint be withdrawn or compounded upon settlement?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Yes. Under Section 25(5) of the PSSA, 2007 read with Section 147 of the Negotiable Instruments Act and Section 320 of the Code of Criminal Procedure (CrPC), offenses relating to bounced electronic debits are fully compoundable. Once a One-Time Settlement (OTS) is concluded and the agreed compromised amount is remitted, the bank is legally obligated to file an application for complete withdrawal and closure of all court proceedings."
+            "text": "Yes. Under Section 25(5) of the PSSA, 2007 read with Section 147 of the Negotiable Instruments Act and Section 320 of the Code of Criminal Procedure (CrPC), offenses relating to bounced electronic debits are fully compoundable. Once a One-Time Settlement (OTS) is concluded and the agreed compromised amount is remitted, the bank is legally obligated to file an application for complete withdrawal and closure of all court cases."
           }
         },
         {
@@ -305,7 +305,7 @@ const jsonLdGraph = {
           "name": "What happens if I completely ignore a Section 25 PSSA notice and subsequent court summons?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Ignoring the 15-day notice allows the bank to file a private complaint in the Metropolitan Magistrate Court. If you subsequently ignore the court's physical summons, the magistrate may issue a bailable warrant, followed by a non-bailable warrant (NBW) solely to compel your physical appearance in court. It is critical to engage legal counsel to enter an appearance and file for compounding."
+            "text": "Ignoring the 15-day notice allows the bank to file a private complaint in the Metropolitan Magistrate Court. If you then ignore the court's physical summons, the magistrate may issue a bailable warrant, followed by a non-bailable warrant (NBW) solely to compel your physical appearance in court. It is critical to engage legal counsel to enter an appearance and file for compounding."
           }
         },
         {
@@ -313,7 +313,7 @@ const jsonLdGraph = {
           "name": "How quickly must a bank issue a No Dues Certificate (NDC) after settlement?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Under RBI Circular RBI/2023-24/60, all regulated commercial banks and NBFCs are legally mandated to release the official zero-balance No Dues Certificate (NDC) and update credit rating bureaus within 30 calendar days of receiving full settlement remittance. Unjustified delays attract mandatory statutory compensation of ₹5,000 per day payable to the borrower."
+            "text": "Under RBI Circular RBI/2023-24/60, all regulated commercial banks and NBFCs are legally mandated to release the official zero-balance No Dues Certificate (NDC) and update credit rating bureaus within 30 calendar days of receiving full settlement remittance. Unjustified delays attract mandatory statutory relief of ₹5,000 per day payable to the borrower."
           }
         }
       ]
@@ -520,11 +520,11 @@ export default function Page() {
                   </li>
                   <li className="flex items-start gap-2.5">
                     <CheckCircle2 className="w-4 h-4 text-[#1F5EFF] flex-shrink-0 mt-0.5" />
-                    <span><strong>Mandatory 15-Day Statutory Window:</strong> Under Section 25(1)(b), lenders cannot initiate court complaints without first serving a formal 15-day demand notice. An advocate reply served within this window establishes genuine financial hardship and halts unilateral ex-parte motions.</span>
+                    <span><strong>Mandatory 15-Day Statutory Window:</strong> Under Section 25(1)(b), lenders cannot start court complaints without first serving a formal 15-day demand notice. An advocate reply served within this window establishes genuine financial hardship and halts unilateral ex-parte motions.</span>
                   </li>
                   <li className="flex items-start gap-2.5">
                     <CheckCircle2 className="w-4 h-4 text-[#1F5EFF] flex-shrink-0 mt-0.5" />
-                    <span><strong>Zero Police Jurisdiction &amp; No Instant Arrest:</strong> Commercial banks and collection agencies possess zero legal authority to involve local police or execute arrests for electronic mandate defaults. All proceedings remain confined to private judicial complaints before a Metropolitan Magistrate.</span>
+                    <span><strong>Zero Police Jurisdiction &amp; No Instant Arrest:</strong> Commercial banks and collection agencies possess zero legal authority to involve local police or execute arrests for electronic mandate defaults. All cases remain confined to private judicial complaints before a Metropolitan Magistrate.</span>
                   </li>
                   <li className="flex items-start gap-2.5">
                     <CheckCircle2 className="w-4 h-4 text-[#1F5EFF] flex-shrink-0 mt-0.5" />
@@ -569,14 +569,14 @@ export default function Page() {
                   <Clock className="w-4 h-4" />
                   <span>2. Statutory Provisions &amp; 15-Day Timelines</span>
                 </div>
-                <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+                <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                   Statutory Anatomy of Section 25 & Procedural Timelines
-                </h2>
+                </h3>
                 <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                   To mount an effective legal defense, one must examine the precise legislative architecture of the <strong>Payment and Settlement Systems Act, 2007 (PSSA)</strong>. Section 25 was enacted by Parliament to provide electronic fund transfers the exact same legal sanctity and penal consequences as traditional physical negotiable instruments under Section 138 of the Negotiable Instruments Act, 1881.
                 </p>
                 <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
-                  Under Section 25(1), an offense occurs only when an electronic funds transfer dishonors due to insufficient funds. The transfer must be initiated to discharge a legally enforceable debt or liability. Lenders must strictly satisfy procedural prerequisites before initiating prosecution.</p>
+                  Under Section 25(1), an offense occurs only when an electronic funds transfer dishonors due to insufficient funds. The transfer must be started to discharge a legally enforceable debt or liability. Lenders must strictly satisfy procedural prerequisites before starting prosecution.</p>
 
                 {/* 4-Sided Bordered Statutory Timeline Table */}
                 <div className="overflow-x-auto my-6">
@@ -612,7 +612,7 @@ export default function Page() {
                         <td className="font-semibold text-slate-900">Cause of Action Accrual</td>
                         <td>Day 16 post-Notice Receipt</td>
                         <td>If payment is not remitted within 15 days, cause of action arises for filing a criminal complaint.</td>
-                        <td>Maintain formal legal communication trail. Cause of action is suspended during active OTS negotiations.</td>
+                        <td>Maintain formal legal notice trail. Cause of action is suspended during active OTS talks.</td>
                       </tr>
                       <tr>
                         <td className="font-semibold text-slate-900">Court Complaint Filing</td>
@@ -634,16 +634,16 @@ export default function Page() {
                   <Gavel className="w-4 h-4" />
                   <span>3. Absence of Mens Rea &amp; Civil Debt Realities</span>
                 </div>
-                <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+                <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                   Doctrine of Mens Rea: Involuntary Default vs Fraud
-                </h2>
+                </h3>
                 <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
-                  A cornerstone principle of Indian criminal jurisprudence is that no individual can be convicted of a criminal offense in the absence of <em>mens rea</em>—the deliberate guilty mind or fraudulent intent to cheat. When a borrower faithfully services a personal loan or business credit line for months or years before encountering an unexpected financial catastrophe, their subsequent default is purely involuntary.
+                  A cornerstone principle of Indian criminal jurisprudence is that no person can be convicted of a criminal offense in the absence of <em>mens rea</em>—the deliberate guilty mind or fraudulent intent to cheat. When a borrower faithfully services a personal loan or business credit line for months or years before encountering an unexpected financial catastrophe, their subsequent default is purely involuntary.
                 </p>
                 <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                   The Supreme Court and High Courts have consistently ruled that debt default from job loss or business hardship does not constitute criminal cheating. To establish criminal liability, fraudulent intent must exist at the inception of the contract.</p>
                 <p className="text-slate-700 leading-relaxed text-base md:text-lg">
-                  Furthermore, Section 25 proceedings are quasi-criminal mechanisms aimed at restitution rather than punitive incarceration. Magistrates actively encourage compounding the offense once an amicable One-Time Settlement (OTS) is presented.</p>
+                  also, Section 25 cases are quasi-criminal mechanisms aimed at restitution rather than punitive incarceration. Magistrates actively encourage compounding the offense once an amicable One-Time Settlement (OTS) is presented.</p>
               </section>
 
               {/* Section 4: Banker's General Lien (Section 171) & Ring-Fencing Liquidity */}
@@ -652,16 +652,16 @@ export default function Page() {
                   <ShieldAlert className="w-4 h-4" />
                   <span>4. Section 171 Lien &amp; Ring-Fencing Liquidity</span>
                 </div>
-                <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+                <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                   Banker's Right of Lien (Sec 171) & Protecting Funds
-                </h2>
+                </h3>
                 <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                   In conjunction with serving Section 25 notices, lending banks routinely deploy an aggressive banking mechanism known as the <strong>Banker&apos;s General Lien and Set-Off</strong> under Section 171 of the Indian Contract Act, 1872. This statutory right enables a lending institution to unilaterally appropriate balances, freeze access, or sweep incoming funds from any savings account, fixed deposit, or corporate salary account maintained within that exact same banking entity.
                 </p>
                 <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                   For example, if you default on a loan while receiving salary in the same bank, the lender may attempt an internal lien or set-off. Borrowers must know their legal rights against unauthorized account freezes.</p>
                 <p className="text-slate-700 leading-relaxed text-base md:text-lg">
-                  However, this right of lien has definitive legal boundaries: <strong>a lending bank possesses zero legal power to touch, freeze, or appropriate funds deposited in independent third-party banking institutions</strong> where you hold no outstanding liabilities. Consequently, any borrower facing an impending default must immediately take defensive action by establishing a primary operational account with an unrelated scheduled bank, ensuring that vital subsistence funds remain entirely insulated from automated internal sweeps.
+                  However, this right of lien has definitive legal boundaries: <strong>a lending bank possesses zero legal power to touch, freeze, or appropriate funds deposited in independent third-party banking institutions</strong> where you hold no outstanding liabilities. so, any borrower facing an impending default must immediately take defensive action by establishing a primary operational account with an unrelated scheduled bank, ensuring that vital subsistence funds remain entirely insulated from automated internal sweeps.
                 </p>
               </section>
 
@@ -671,9 +671,9 @@ export default function Page() {
                   <Sparkles className="w-4 h-4" />
                   <span>5. Visual Defense &amp; Resolution Blueprint</span>
                 </div>
-                <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+                <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                   Section 25 PSSA Legal Defense &amp; Debt Settlement Architecture
-                </h2>
+                </h3>
                 <p className="text-slate-700 leading-relaxed mb-6 text-base md:text-lg">
                   The blueprint below details the lifecycle of defending against a Section 25 PSSA bounce notice. It guides borrowers from receipt to advocate representation, raising procedural objections, and executing an authentic One-Time Settlement.</p>
 
@@ -699,14 +699,14 @@ export default function Page() {
                   <Percent className="w-4 h-4" />
                   <span>6. OTS Haircuts &amp; NPV Valuation Formula</span>
                 </div>
-                <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+                <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                   OTS Haircut Mechanics: The Net Present Value (NPV) Recovery Benchmark
-                </h2>
+                </h3>
                 <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                   Many borrowers erroneously believe that banks file Section 25 notices with the sole objective of sending them to trial. In commercial reality, banks are profit-driven corporations governed by strict asset classification and provisioning guidelines issued by the Reserve Bank of India (RBI). Protracted litigation in Magistrate Courts is expensive, cumbersome, and economically inefficient for financial institutions.
                 </p>
                 <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
-                  When a loan remains unpaid past 90 days, it is classified as a Non-Performing Asset (NPA). Under RBI Prudential Norms on Income Recognition, Asset Classification and Provisioning (IRACP), banks are compelled to set aside substantial capital provisions (from 15% to 100% of the loan amount) from their operational balance sheets. Prosecuting a Section 25 complaint requires retaining empanelled lawyers, paying advocate appearance fees, and enduring 3 to 6 years of court delays with zero guarantee of asset recovery on unsecured debt.
+                  When a loan remains unpaid past 90 days, it is classified as a Non-Performing Asset (NPA). Under RBI Prudential Norms on Income Recognition, Asset Classification and Provisioning (IRACP), banks are compelled to set aside large capital provisions (from 15% to 100% of the loan amount) from their operational balance sheets. Prosecuting a Section 25 complaint requires retaining empanelled lawyers, paying advocate appearance fees, and enduring 3 to 6 years of court delays with zero guarantee of asset recovery on unsecured debt.
                 </p>
 
                 {/* Formula Container Box */}
@@ -724,7 +724,7 @@ export default function Page() {
                 </div>
 
                 <p className="text-slate-700 leading-relaxed text-base md:text-lg">
-                  When evaluated through this Net Present Value equation, an immediate lump-sum settlement or structured One-Time Settlement (OTS) is far more lucrative for the bank than years of litigation. The bank recovers liquid capital, eliminates legal costs, and immediately writes back its locked provisioning into quarterly profit. Consequently, institutional credit committees routinely approve compromise settlements granting <strong>40% to 65% principal haircuts</strong> alongside a 100% complete waiver of all penal interest, overdue charges, and bounce penalties.
+                  When evaluated through this Net Present Value equation, an immediate lump-sum settlement or structured One-Time Settlement (OTS) is far more lucrative for the bank than years of litigation. The bank recovers liquid capital, eliminates legal costs, and immediately writes back its locked provisioning into quarterly profit. so, institutional credit committees routinely approve compromise settlements granting <strong>40% to 65% principal haircuts</strong> alongside a 100% complete waiver of all penal interest, overdue charges, and bounce penalties.
                 </p>
               </section>
 
@@ -734,9 +734,9 @@ export default function Page() {
                   <Layers className="w-4 h-4" />
                   <span>7. Strategic 15-Day Legal Reply Protocol</span>
                 </div>
-                <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+                <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                   Advocate 15-Day Legal Reply Protocol for Section 25
-                </h2>
+                </h3>
                 <p className="text-slate-700 leading-relaxed mb-6 text-base md:text-lg">
                   The statutory 15-day window following the receipt of a Section 25 PSSA notice is your most powerful strategic opportunity. Rather than ignoring the notice or responding with emotional pleas, engaging seasoned debt defense counsel to serve a structured legal reply establishes an unassailable record. Here is the five-stage defense protocol executed by our advocates:
                 </p>
@@ -747,7 +747,7 @@ export default function Page() {
                       1
                     </div>
                     <div>
-                      <h3 className="text-base font-bold text-slate-900 mb-1">Forensic Audit of Notice &amp; Mandate Technicalities</h3>
+                      <h4 className="text-base font-bold text-slate-900 mb-1">Forensic Audit of Notice &amp; Mandate Technicalities</h4>
                       <p className="text-sm text-slate-600 leading-relaxed">
                         We audit the statutory demand notice against strict PSSA compliance rules. We examine whether the notice was served within the 30-day mandate window, verify the exactness of the demanded sum, identify unnotified penal compounding, and inspect the validity of the electronic NACH presentation mandate.
                       </p>
@@ -759,7 +759,7 @@ export default function Page() {
                       2
                     </div>
                     <div>
-                      <h3 className="text-base font-bold text-slate-900 mb-1">Establishing Involuntary Distress &amp; Lack of Mens Rea</h3>
+                      <h4 className="text-base font-bold text-slate-900 mb-1">Establishing Involuntary Distress &amp; Lack of Mens Rea</h4>
                       <p className="text-sm text-slate-600 leading-relaxed">
                         We assemble an exhaustive financial hardship dossier—incorporating corporate layoff letters, business loss statements, medical diagnosis reports, and bank statements showing exhausted cash reserves—proving that the mandate bounce was purely involuntary and devoid of criminal intent.
                       </p>
@@ -771,7 +771,7 @@ export default function Page() {
                       3
                     </div>
                     <div>
-                      <h3 className="text-base font-bold text-slate-900 mb-1">Challenging Usurious Penal Charges &amp; RBI Violations</h3>
+                      <h4 className="text-base font-bold text-slate-900 mb-1">Challenging Usurious Penal Charges &amp; RBI Violations</h4>
                       <p className="text-sm text-slate-600 leading-relaxed">
                         We legally challenge arbitrary late payment penalties, penal interest compounding, and unlawful bounce charges under RBI Circular on Fair Lending Practice - Penal Charges in Loan Accounts (2024), stripping away inflated artificial claims.
                       </p>
@@ -783,9 +783,9 @@ export default function Page() {
                       4
                     </div>
                     <div>
-                      <h3 className="text-base font-bold text-slate-900 mb-1">Cease-and-Desist Recovery Harassment Injunction</h3>
+                      <h4 className="text-base font-bold text-slate-900 mb-1">Cease-and-Desist Recovery Harassment Injunction</h4>
                       <p className="text-sm text-slate-600 leading-relaxed">
-                        Our legal reply places the bank&apos;s Nodal Officer on formal notice under RBI directives. It halts unauthorized recovery agent visits and channels all communications exclusively through our empanelled advocates.</p>
+                        Our legal reply places the bank&apos;s Nodal Officer on formal notice under RBI directives. It halts unauthorized recovery agent visits and channels all notices exclusively through our empanelled advocates.</p>
                     </div>
                   </div>
 
@@ -794,9 +794,9 @@ export default function Page() {
                       5
                     </div>
                     <div>
-                      <h3 className="text-base font-bold text-slate-900 mb-1">Submitting a Formal OTS Compromise Proposal</h3>
+                      <h4 className="text-base font-bold text-slate-900 mb-1">Submitting a Formal OTS Compromise Proposal</h4>
                       <p className="text-sm text-slate-600 leading-relaxed">
-                        We channel the matter away from adversarial criminal litigation by submitting an institutional One-Time Settlement offer directly to the bank&apos;s Zonal Stressed Asset Resolution Branch (SARB), initiating negotiations for a 40% to 65% principal haircut.
+                        We channel the matter away from adversarial criminal litigation by submitting an institutional One-Time Settlement offer directly to the bank&apos;s Zonal Stressed Asset Resolution Branch (SARB), starting talks for a 40% to 65% principal haircut.
                       </p>
                     </div>
                   </div>
@@ -809,17 +809,17 @@ export default function Page() {
                   <FileCheck className="w-4 h-4" />
                   <span>8. Sanction Forensics &amp; Compounding Quash</span>
                 </div>
-                <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+                <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                   Sanction Letter Forensics & Notice Quashing
-                </h2>
+                </h3>
                 <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                   Once settlement terms are negotiated, borrowers must exercise strict diligence before transferring funds. Never deposit money based on verbal promises or informal recovery agent messages.</p>
                 <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
-                  Our legal team audits every sanction letter to ensure it incorporates five essential covenants. First, exact specification of the compromise sum. Second, payment timelines. Third, full waiver of penal charges. Fourth, withdrawal of court proceedings. Finally, issuance of an official ₹0 No Dues Certificate within 30 days.</p>
+                  Our legal team audits every sanction letter to ensure it incorporates five essential covenants. First, exact specification of the compromise sum. Second, payment timelines. Third, full waiver of penal charges. Fourth, withdrawal of court cases. Finally, issuance of an official ₹0 No Dues Certificate within 30 days.</p>
                 <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                   Under <strong>Section 25(5) of the PSSA, 2007</strong> read with Section 147 of the NI Act, all offenses are compoundable. Once the compromise amount is paid, the bank is statutorily obligated to file an application for withdrawal of all criminal complaints.</p>
                 <p className="text-slate-700 leading-relaxed text-base md:text-lg">
-                  Under <strong>RBI Circular RBI/2023-24/60</strong>, lenders are statutorily required to deliver the formal <strong>No Dues Certificate (NDC)</strong> within <strong>30 calendar days</strong> of receiving full settlement remittance. Any unjustified failure to deliver the NDC within this timeline entitles the borrower to mandatory statutory compensation of <strong>₹5,000 per day of delay</strong> payable directly by the lending institution.
+                  Under <strong>RBI Circular RBI/2023-24/60</strong>, lenders are statutorily required to deliver the formal <strong>No Dues Certificate (NDC)</strong> within <strong>30 calendar days</strong> of receiving full settlement remittance. Any unjustified failure to deliver the NDC within this timeline entitles the borrower to mandatory statutory relief of <strong>₹5,000 per day of delay</strong> payable directly by the lending institution.
                 </p>
               </section>
 
@@ -829,9 +829,9 @@ export default function Page() {
                   <Scale className="w-4 h-4" />
                   <span>9. Comparative Resolution Matrix</span>
                 </div>
-                <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+                <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                   Comparative Analysis: Defending Section 25 vs Alternative Pathways
-                </h2>
+                </h3>
                 <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                   Evaluating the available resolution strategies enables borrowers facing Section 25 PSSA notices to make an informed, economically sound decision:
                 </p>
@@ -887,11 +887,11 @@ export default function Page() {
                   <Scale className="w-4 h-4" />
                   <span>10. SettleLoans Legal Defense &amp; Advisory</span>
                 </div>
-                <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+                <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                   Comprehensive Legal Defense &amp; Debt Resolution by SettleLoans
-                </h2>
+                </h3>
                 <p className="text-slate-700 leading-relaxed mb-6 text-base md:text-lg">
-                  Facing a Section 25 PSSA notice requires aggressive legal representation to prevent ex-parte magistrate proceedings, insulate your workplace and family from unauthorized recovery agents, and negotiate directly with bank credit committees for maximum debt waivers. SettleLoans delivers end-to-end statutory defense and institutional debt resolution across India.
+                  Facing a Section 25 PSSA notice requires aggressive legal representation to prevent ex-parte magistrate cases, insulate your workplace and family from unauthorized recovery agents, and negotiate directly with bank credit committees for maximum debt waivers. SettleLoans delivers end-to-end statutory defense and institutional debt resolution across India.
                 </p>
                 <CompanySection />
               </section>
@@ -902,9 +902,9 @@ export default function Page() {
                   <HelpCircle className="w-4 h-4" />
                   <span>11. Frequently Asked Questions</span>
                 </div>
-                <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
+                <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
                   FAQs: Section 25 PSSA Notices & Loan Default
-                </h2>
+                </h3>
 
                 <div className="space-y-4">
                   {(jsonLdGraph["@graph"][4] as any).mainEntity.map((faq: any, index: number) => (
@@ -931,10 +931,10 @@ export default function Page() {
 
               {/* 5 Official Regulatory Links */}
               <section className="bg-slate-50 border border-slate-200 rounded-2xl p-6 mb-8">
-                <h3 className="text-sm font-bold text-slate-900 mb-3 uppercase tracking-wider flex items-center gap-2">
+                <h4 className="text-sm font-bold text-slate-900 mb-3 uppercase tracking-wider flex items-center gap-2">
                   <ExternalLink className="w-4 h-4 text-[#1F5EFF]" />
                   <span>Official Statutory &amp; Regulatory References</span>
-                </h3>
+                </h4>
                 <div className="grid grid-cols-1 sm:grid-cols-2 gap-3 text-xs">
                   <a
                     href="https://indiacode.gov.in"
@@ -986,9 +986,9 @@ export default function Page() {
 
               {/* 10 Related Guide Badges */}
               <section className="border-t border-slate-200 pt-8 mb-8">
-                <h3 className="text-sm font-bold text-slate-900 mb-4 uppercase tracking-wider">
+                <h4 className="text-sm font-bold text-slate-900 mb-4 uppercase tracking-wider">
                   Related Loan Settlement &amp; Legal Defense Guides
-                </h3>
+                </h4>
                 <div className="flex flex-wrap gap-2">
                   <Link
                     href="/bank-sent-legal-notice-for-loan-what-to-do"
@@ -1085,7 +1085,7 @@ export default function Page() {
                 </div>
                 <div className="font-bold text-base text-white mb-2">Received a Section 25 Notice?</div>
                 <p className="text-xs text-slate-300 leading-relaxed mb-4">
-                  Do not miss the 15-day statutory response window. Protect yourself from magistrate court proceedings and negotiate 40%–65% debt waivers directly with bank credit desks.
+                  Do not miss the 15-day statutory response window. Protect yourself from magistrate court cases and negotiate 40%–65% debt waivers directly with bank credit desks.
                 </p>
                 <Link
                   href="/contact"

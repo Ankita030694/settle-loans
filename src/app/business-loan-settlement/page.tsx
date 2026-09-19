@@ -350,7 +350,7 @@ export default function BusinessLoanSettlementPage() {
 
           {/* What is Settlement */}
           <section id="what-is-settlement" className="scroll-mt-32 mb-12">
-            <h2 className="text-3xl font-black text-[#2E2E2E] mb-6">What is Business Loan Settlement?</h2>
+            <h3 className="text-3xl font-black text-[#2E2E2E] mb-6">What is Business Loan Settlement?</h3>
             <p className="text-lg leading-relaxed mb-6">
               Business Loan Settlement (or One Time Settlement - OTS) is a legal and financial process where you negotiate with your lenders (Banks or NBFCs) to pay a reduced lump sum amount to close your loan account permanently. This is usually done when the borrower is unable to pay the full outstanding due to genuine financial hardship.
             </p>
@@ -364,7 +364,7 @@ export default function BusinessLoanSettlementPage() {
 
           {/* Why Banks Agree */}
           <section id="why-banks-agree" className="scroll-mt-32 mb-12">
-            <h2 className="text-2xl md:text-3xl font-black text-[#2E2E2E] mb-6">Why Do Banks Agree to Lose Money?</h2>
+            <h3 className="text-2xl md:text-3xl font-black text-[#2E2E2E] mb-6">Why Do Banks Agree to Lose Money?</h3>
             <p className="mb-4">It seems illogical for a bank to accept 50% of the money. But they do it for three strategic reasons:</p>
             <ul className="space-y-4 mb-6">
               <li className="flex items-start">
@@ -390,18 +390,18 @@ export default function BusinessLoanSettlementPage() {
 
            {/* Unsecured vs Secured - CRITICAL SECTION */}
            <section id="unsecured-vs-secured" className="scroll-mt-32 mb-16">
-             <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">
+             <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">
               Know the Difference: Unsecured vs Secured
-            </h2>
+            </h3>
             <p className="text-lg leading-relaxed mb-8">
                Your settlement strategy depends entirely on the type of loan.
             </p>
             
             <div className="grid md:grid-cols-2 gap-6 mb-8">
                 <div className="bg-white p-6 rounded-xl border border-gray-200 shadow-sm hover:shadow-md transition-shadow">
-                    <h3 className="text-xl font-bold text-[var(--color-primary)] mb-4 flex items-center">
+                    <h4 className="text-xl font-bold text-[var(--color-primary)] mb-4 flex items-center">
                         <FontAwesomeIcon icon={faFileContract} className="mr-3 w-6 h-6" /> Unsecured Loans
-                    </h3>
+                    </h4>
                     <div className="mb-4 text-sm font-semibold bg-gray-50 p-2 rounded text-gray-700">
                         Examples: Bajaj Finserv Business Loan, Tata Capital, LendingKart, Indifi, Credit Card Overdrafts.
                     </div>
@@ -412,9 +412,9 @@ export default function BusinessLoanSettlementPage() {
                     </ul>
                 </div>
                 <div className="bg-white p-6 rounded-xl border border-orange-100 shadow-sm relative overflow-hidden hover:shadow-md transition-shadow">
-                     <h3 className="text-xl font-bold text-orange-700 mb-4 flex items-center relative z-10">
+                     <h4 className="text-xl font-bold text-orange-700 mb-4 flex items-center relative z-10">
                         <FontAwesomeIcon icon={faLock} className="mr-3 w-6 h-6" /> Secured Loans (LAP/CC)
-                    </h3>
+                    </h4>
                     <div className="mb-4 text-sm font-semibold bg-orange-50 p-2 rounded text-orange-700">
                         Examples: Loan Against Property (LAP), Cash Credit (CC) against Stock/Machinery.
                     </div>
@@ -429,9 +429,9 @@ export default function BusinessLoanSettlementPage() {
 
            {/* Section 138 - The Legal Nightmare */}
            <section id="sec-138" className="scroll-mt-32 mb-16">
-            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 flex items-center">
+            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 flex items-center">
               <FontAwesomeIcon icon={faGavel} className="mr-4 w-10 h-10" /> Section 138 Defense Strategy
-            </h2>
+            </h3>
             <div className="bg-red-50 border-l-4 border-red-500 p-6 rounded-r-xl mb-8">
                <p className="font-bold text-red-900/80 mb-2">CRITICAL WARNING</p>
                <p className="text-red-800 text-sm">
@@ -443,19 +443,19 @@ export default function BusinessLoanSettlementPage() {
 
             <div className="grid md:grid-cols-2 gap-6">
                 <div className="bg-white p-6 rounded-xl border border-gray-200 shadow-sm">
-                   <h3 className="font-bold text-lg text-[var(--color-primary)] mb-2">1. The "Security Cheque" Defense</h3>
+                   <h4 className="font-bold text-lg text-[var(--color-primary)] mb-2">1. The "Security Cheque" Defense</h4>
                    <p className="text-sm text-gray-600">We argue that the cheque was given as a "Security" at the time of loan disbursement and not for the discharge of any specific existing debt. Indian courts have ruled in many cases that security cheques cannot be used to file Section 138 cases indiscriminately.</p>
                 </div>
                 <div className="bg-white p-6 rounded-xl border border-gray-200 shadow-sm">
-                   <h4 className="font-bold text-lg text-[var(--color-primary)] mb-2">2. Defective Notice</h4>
+                   <h5 className="font-bold text-lg text-[var(--color-primary)] mb-2">2. Defective Notice</h5>
                    <p className="text-sm text-gray-600">The law is strict. The Legal Notice must be sent within 30 days of the memo. It must demand the exact cheque amount. Lenders often make errors here. We challenge the validity of the notice itself, which can get the case dismissed.</p>
                 </div>
                 <div className="bg-white p-6 rounded-xl border border-gray-200 shadow-sm">
-                   <h4 className="font-bold text-lg text-[var(--color-primary)] mb-2">3. Dispute the Debt Amount</h4>
+                   <h5 className="font-bold text-lg text-[var(--color-primary)] mb-2">3. Dispute the Debt Amount</h5>
                    <p className="text-sm text-gray-600">Lenders often add illegal penal charges and compound interest. We prove in court that the "Enforceable Debt" is much lower than the cheque amount, making the cheque invalid for that debt.</p>
                 </div>
                 <div className="bg-white p-6 rounded-xl border border-gray-200 shadow-sm">
-                   <h4 className="font-bold text-lg text-[var(--color-primary)] mb-2">4. Mediation & Settlement</h4>
+                   <h5 className="font-bold text-lg text-[var(--color-primary)] mb-2">4. Mediation & Settlement</h5>
                    <p className="text-sm text-gray-600">Courts encourage settlement. We represent you in mediation cells, arguing that you are willing to pay the "Principal" but cannot pay the interest. Judges often pressure banks to accept settlements to reduce case backlog.</p>
                 </div>
             </div>
@@ -463,39 +463,39 @@ export default function BusinessLoanSettlementPage() {
 
           {/* Settlement Process - Expanded */}
           <section id="settlement-process" className="scroll-mt-32 mb-16">
-             <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">The Settlement Process</h2>
+             <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">The Settlement Process</h3>
              <div className="relative pl-8 border-l-2 border-[var(--color-primary)]/20 space-y-10">
                 <div className="relative">
                   <span className="absolute -left-[9px] top-0 w-4 h-4 rounded-full bg-[var(--color-primary)]"></span>
-                  <h3 className="font-bold text-xl text-[var(--color-text-hero)]">Step 1: Financial Health Check</h3>
+                  <h4 className="font-bold text-xl text-[var(--color-text-hero)]">Step 1: Financial Health Check</h4>
                   <p className="text-gray-600 mt-2">
                     We analyze your current cash flow, assets, and liabilities. We calculate a "Realistic Settlement Offer" that you can actually afford to pay. Offering too little will be rejected; offering too much will hurt your business survival.
                   </p>
                 </div>
                 <div className="relative">
                   <span className="absolute -left-[9px] top-0 w-4 h-4 rounded-full bg-[var(--color-primary)]"></span>
-                  <h4 className="font-bold text-xl text-[var(--color-text-hero)]">Step 2: The Delinquency Buffer</h4>
+                  <h5 className="font-bold text-xl text-[var(--color-text-hero)]">Step 2: The Delinquency Buffer</h5>
                   <p className="text-gray-600 mt-2">
                     Loans usually become eligible for settlement only after they turn NPA (90 days overdue). During this period, you will face maximum harassment. <strong>We act as your shield.</strong> We handle calls, reply to legal notices, and keep the lenders at bay while you arrange funds.
                   </p>
                 </div>
                 <div className="relative">
                   <span className="absolute -left-[9px] top-0 w-4 h-4 rounded-full bg-[var(--color-primary)]"></span>
-                  <h4 className="font-bold text-xl text-[var(--color-text-hero)]">Step 3: The Negotiation Table</h4>
+                  <h5 className="font-bold text-xl text-[var(--color-text-hero)]">Step 3: The Negotiation Table</h5>
                   <p className="text-gray-600 mt-2">
                     We formally approach the bank with a settlement proposal. We use RBI guidelines and your financial proof to demand a waiver on all interest and penal charges. We negotiate hard to bring the amount down to the Principal or even lower.
                   </p>
                 </div>
                  <div className="relative">
                   <span className="absolute -left-[9px] top-0 w-4 h-4 rounded-full bg-[var(--color-primary)]"></span>
-                  <h4 className="font-bold text-xl text-[var(--color-text-hero)]">Step 4: The Settlement Letter</h4>
+                  <h5 className="font-bold text-xl text-[var(--color-text-hero)]">Step 4: The Settlement Letter</h5>
                   <p className="text-gray-600 mt-2">
                      Once a deal is reached, we ensure the bank issues a formal <strong>Settlement Letter</strong>. We verify this letter to ensure it contains clauses like "Full and Final Settlement" and "No Future Claims" to protect you from future legal trouble.
                   </p>
                 </div>
                 <div className="relative">
                   <span className="absolute -left-[9px] top-0 w-4 h-4 rounded-full bg-[var(--color-primary)]"></span>
-                  <h4 className="font-bold text-xl text-[var(--color-text-hero)]">Step 5: Closure & Freedom</h4>
+                  <h5 className="font-bold text-xl text-[var(--color-text-hero)]">Step 5: Closure & Freedom</h5>
                   <p className="text-gray-600 mt-2">
                     You make the payment directly to the bank (never to us). We then follow up to get the <strong>No Dues Certificate (NDC)</strong> and ensure any court cases (Sec 138) are formally withdrawn.
                   </p>
@@ -505,9 +505,9 @@ export default function BusinessLoanSettlementPage() {
 
            {/* MSME Relief */}
            <section id="msme-relief" className="scroll-mt-32 mb-16">
-            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 flex items-center">
+            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 flex items-center">
                <FontAwesomeIcon icon={faStore} className="mr-4 w-10 h-10" /> MSME Relief: RBI Guidelines
-            </h2>
+            </h3>
             <p className="mb-6 leading-relaxed">
               If your business is registered as an MSME (Udyam Registration), you have special rights. The RBI "Framework for Revival and Rehabilitation of MSMEs" protects you.
             </p>
@@ -531,15 +531,15 @@ export default function BusinessLoanSettlementPage() {
 
           {/* Harassment Protection */}
           <section id="harassment" className="scroll-mt-32 mb-16">
-            <h2 className="text-3xl md:text-4xl font-bold text-red-600 mb-8 flex items-center">
+            <h3 className="text-3xl md:text-4xl font-bold text-red-600 mb-8 flex items-center">
                <FontAwesomeIcon icon={faBan} className="mr-4 w-10 h-10" /> 
                Stop Factory Visits
-            </h2>
+            </h3>
             <p className="mb-6 leading-relaxed">
                Recovery agents visit your shop/factory, shout in front of customers, sit in your office for hours ('Dharna'), and call your vendors. This destroys your reputation.
             </p>
             <div className="bg-red-50 p-6 rounded-xl border border-red-100">
-                <h3 className="font-bold text-red-900 mb-4">Your Rights:</h3>
+                <h4 className="font-bold text-red-900 mb-4">Your Rights:</h4>
                 <ul className="space-y-2 text-red-800 text-sm">
                    <li><FontAwesomeIcon icon={faCheck} className="mr-2 w-4 h-4"/> Agents <strong>CANNOT</strong> disturb your business operations.</li>
                    <li><FontAwesomeIcon icon={faCheck} className="mr-2 w-4 h-4"/> Agents <strong>CANNOT</strong> speak to your employees or customers about your debt.</li>
@@ -553,9 +553,9 @@ export default function BusinessLoanSettlementPage() {
 
           {/* Restructuring vs Settlement */}
           <section id="restructuring" className="scroll-mt-32 mb-16">
-            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 flex items-center">
+            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 flex items-center">
               <FontAwesomeIcon icon={faChartLine} className="mr-4 w-10 h-10" /> Restructuring vs Settlement
-            </h2>
+            </h3>
             <div className="overflow-x-auto">
               <table className="min-w-full text-sm text-left text-gray-700 bg-white border border-gray-200 shadow-sm rounded-lg overflow-hidden">
                 <thead className="text-xs text-gray-700 uppercase bg-gray-50 border-b border-gray-200">
@@ -593,11 +593,11 @@ export default function BusinessLoanSettlementPage() {
 
            {/* Documents Required */}
            <section id="documents" className="mb-16">
-              <h2 className="text-3xl font-black text-[#2E2E2E] mb-6">Documents Required for Business Settlement</h2>
+              <h3 className="text-3xl font-black text-[#2E2E2E] mb-6">Documents Required for Business Settlement</h3>
               <div className="bg-white p-6 rounded-2xl border border-gray-200 shadow-sm">
                   <div className="grid md:grid-cols-2 gap-6">
                       <div>
-                          <h3 className="font-bold text-[var(--color-primary)] mb-3 flex items-center"><FontAwesomeIcon icon={faUserTie} className="mr-2 w-12 h-12"/> For Sole Proprietorship</h3>
+                          <h4 className="font-bold text-[var(--color-primary)] mb-3 flex items-center"><FontAwesomeIcon icon={faUserTie} className="mr-2 w-12 h-12"/> For Sole Proprietorship</h4>
                           <ul className="space-y-2 text-sm text-gray-700">
                               <li className="flex items-center"><FontAwesomeIcon icon={faCheck} className="text-green-500 mr-2 w-4 h-4"/> GST Registration Certificate</li>
                               <li className="flex items-center"><FontAwesomeIcon icon={faCheck} className="text-green-500 mr-2 w-4 h-4"/> 2 Years ITR (Income Tax Returns)</li>
@@ -605,7 +605,7 @@ export default function BusinessLoanSettlementPage() {
                           </ul>
                       </div>
                       <div>
-                          <h4 className="font-bold text-[var(--color-primary)] mb-3 flex items-center"><FontAwesomeIcon icon={faBuilding} className="mr-2 w-12 h-12"/> For Pvt Ltd / LLP</h4>
+                          <h5 className="font-bold text-[var(--color-primary)] mb-3 flex items-center"><FontAwesomeIcon icon={faBuilding} className="mr-2 w-12 h-12"/> For Pvt Ltd / LLP</h5>
                           <ul className="space-y-2 text-sm text-gray-700">
                               <li className="flex items-center"><FontAwesomeIcon icon={faCheck} className="text-green-500 mr-2 w-4 h-4"/> Board Resolution for Settlement</li>
                               <li className="flex items-center"><FontAwesomeIcon icon={faCheck} className="text-green-500 mr-2 w-4 h-4"/> Audited Balance Sheet & P&L</li>
@@ -618,13 +618,13 @@ export default function BusinessLoanSettlementPage() {
 
           {/* Testimonials */}
           <section id="reviews" className="scroll-mt-32 text-center mb-16">
-             <h2 className="text-3xl font-black text-[#2E2E2E] mb-8">Success Stories</h2>
+             <h3 className="text-3xl font-black text-[#2E2E2E] mb-8">Success Stories</h3>
              <div className="grid md:grid-cols-2 gap-6 text-left">
                 <div className="bg-white p-6 rounded-2xl border border-[var(--color-border)] shadow-sm">
                    <div className="flex items-center mb-4">
                       <div className="w-10 h-10 rounded-full bg-blue-100 flex items-center justify-center font-bold text-blue-600 mr-3">R</div>
                       <div>
-                     <h3 className="font-bold">Rajesh Gupta</h3>
+                     <h4 className="font-bold">Rajesh Gupta</h4>
                          <p className="text-xs text-gray-500">Trader, Delhi</p>
                       </div>
                    </div>
@@ -634,7 +634,7 @@ export default function BusinessLoanSettlementPage() {
                    <div className="flex items-center mb-4">
                       <div className="w-10 h-10 rounded-full bg-green-100 flex items-center justify-center font-bold text-green-600 mr-3">S</div>
                       <div>
-                     <h4 className="font-bold">Suresh Patel</h4>
+                     <h5 className="font-bold">Suresh Patel</h5>
                          <p className="text-xs text-gray-500">Manufacturer, Gujarat</p>
                       </div>
                    </div>
@@ -644,9 +644,9 @@ export default function BusinessLoanSettlementPage() {
           </section>
 
           {/* FAQs - Expanded to 20 */}
-          <h2 id="faqs" className="scroll-mt-32 text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">
+          <h3 id="faqs" className="scroll-mt-32 text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">
             Frequently Asked Questions
-          </h2>
+          </h3>
           <div className="space-y-4 not-prose mb-20">
             {[
               { 
@@ -752,7 +752,7 @@ export default function BusinessLoanSettlementPage() {
           <div className="lg:hidden mt-16 mb-8">
             <div className="bg-[#2E2E2E] rounded-2xl shadow-xl overflow-hidden border border-[#1F5EFF]/20">
               <div className="bg-[#1F5EFF] p-6 text-center text-white">
-                <h3 className="text-2xl font-black mb-2">Business in Trouble?</h3>
+                <h4 className="text-2xl font-black mb-2">Business in Trouble?</h4>
                 <p className="opacity-90 text-sm">Stop the Section 138 cases and secure your assets.</p>
               </div>
               <div className="p-8 text-center text-[#DEDEDE]">

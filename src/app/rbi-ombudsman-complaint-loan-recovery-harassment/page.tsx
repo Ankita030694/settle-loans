@@ -38,19 +38,19 @@ import {
 
 export const metadata: Metadata = {
   title: 'RBI Ombudsman Complaint for Recovery Harassment Guide',
-  description: 'Learn how to file an RBI Ombudsman complaint for recovery agent harassment on the CMS portal and claim compensation for mental agony.',
+  description: 'Learn how to file an RBI Ombudsman complaint for recovery agent harassment on the CMS portal and claim relief for mental agony.',
   keywords: [
     'how to file rbi ombudsman complaint for recovery harassment',
     'rbi complaint for loan recovery harassment',
     'rbi ombudsman loan settlement',
     'cms rbi portal complaint process',
     'rbi recovery agent calling after 7pm complaint',
-    'rbi mental harassment compensation claim',
+    'rbi mental harassment relief claim',
     'rbi integrated ombudsman scheme 2021',
     'bank recovery agent harassment rbi rules',
     'nbfc harassment complaint to rbi',
     'digital lending app recovery harassment rbi cms',
-    'rbi ombudsman compensation section 16',
+    'rbi ombudsman relief section 16',
     'settle loan through rbi ombudsman complaint'
   ],
   alternates: {
@@ -87,7 +87,7 @@ const jsonLdGraph = {
       "@type": "WebPage",
       "@id": "https://www.settleloans.in/rbi-ombudsman-complaint-loan-recovery-harassment#webpage",
       "url": "https://www.settleloans.in/rbi-ombudsman-complaint-loan-recovery-harassment",
-      "name": "How to File RBI Ombudsman Complaint for Recovery Harassment: Legal Guide & Compensation (2026)",
+      "name": "How to File RBI Ombudsman Complaint for Recovery Harassment: Legal Guide & relief (2026)",
       "description": "Learn how to file an RBI Ombudsman complaint for loan recovery agent harassment on the CMS portal. Discover how to claim up to ₹1 Lakh for mental agony, halt third-party intimidation, and leverage regulatory escalation to secure a 50%–65% loan settlement.",
       "breadcrumb": {
         "@id": "https://www.settleloans.in/rbi-ombudsman-complaint-loan-recovery-harassment#breadcrumb"
@@ -121,7 +121,7 @@ const jsonLdGraph = {
     {
       "@type": "Article",
       "@id": "https://www.settleloans.in/rbi-ombudsman-complaint-loan-recovery-harassment#article",
-      "headline": "The Master Guide to RBI Ombudsman Banking Complaints: Filing Recovery Harassment Cases & Compensation Claims",
+      "headline": "The Master Guide to RBI Ombudsman Banking Complaints: Filing Recovery Harassment Cases & relief Claims",
       "description": "An exhaustive regulatory guide to lodging complaints under the Reserve Bank - Integrated Ombudsman Scheme, 2021 against banks and NBFCs for unlawful loan recovery harassment, uncredited payments, and privacy violations.",
       "image": "https://www.settleloans.in/images/infographics/rbi-ombudsman-complaint-loan-recovery-harassment.jpg",
       "datePublished": "2026-08-25T12:00:00+05:30",
@@ -184,7 +184,7 @@ const jsonLdGraph = {
             "name": "Vikramaditya Rao"
           },
           "datePublished": "2026-06-19",
-          "reviewBody": "Third-party collection agents from an aggressive NBFC were harassing my elderly parents and calling my workplace after 8 PM. SettleLoans drafted a formal grievance notice to the Principal Nodal Officer and escalated the matter to the RBI CMS portal with call recordings and WhatsApp transcripts. The RBI Ombudsman directed the NBFC to halt all third-party contact immediately and awarded ₹35,000 compensation for mental distress, while enabling an amicable 52% OTS closure.",
+          "reviewBody": "Third-party collection agents from an aggressive NBFC were harassing my elderly parents and calling my workplace after 8 PM. SettleLoans drafted a formal grievance notice to the Principal Nodal Officer and escalated the matter to the RBI CMS portal with call recordings and WhatsApp transcripts. The RBI Ombudsman directed the NBFC to halt all third-party contact immediately and awarded ₹35,000 relief for mental distress, while enabling an amicable 52% OTS closure.",
           "reviewRating": {
             "@type": "Rating",
             "ratingValue": "5",
@@ -199,7 +199,7 @@ const jsonLdGraph = {
             "name": "Meenakshi Sundaram"
           },
           "datePublished": "2026-07-14",
-          "reviewBody": "A private bank refused to adjust my interim partial payments and threatened criminal proceedings on an unsecured credit card balance. The legal team at SettleLoans structured a watertight complaint on the RBI Complaint Management System citing Master Direction violations on outsourcing. The bank's head office stepped in within 18 days, corrected the ledger, waived penal interest, and settled the account for a reasonable one-time payment.",
+          "reviewBody": "A private bank refused to adjust my interim partial payments and threatened criminal cases on an unsecured credit card balance. The legal team at SettleLoans structured a watertight complaint on the RBI Complaint Management System citing Master Direction violations on outsourcing. The bank's head office stepped in within 18 days, corrected the ledger, waived penal interest, and settled the account for a reasonable one-time payment.",
           "reviewRating": {
             "@type": "Rating",
             "ratingValue": "5",
@@ -229,7 +229,7 @@ const jsonLdGraph = {
             "name": "Tanvi Deshmukh"
           },
           "datePublished": "2026-08-04",
-          "reviewBody": "A digital lending partner accessed my contacts illegally and sent abusive messages. SettleLoans prepared a comprehensive RBI Ombudsman petition under Digital Lending Directions 2022 along with a compensation claim under Section 16(2) of RB-IOS. The loan app was forced to cancel all illegal penalties and issue a clean No Dues Certificate.",
+          "reviewBody": "A digital lending partner accessed my contacts illegally and sent abusive messages. SettleLoans prepared a comprehensive RBI Ombudsman petition under Digital Lending Directions 2022 along with a relief claim under Section 16(2) of RB-IOS. The loan app was forced to cancel all illegal penalties and issue a clean No Dues Certificate.",
           "reviewRating": {
             "@type": "Rating",
             "ratingValue": "5",
@@ -269,10 +269,10 @@ const jsonLdGraph = {
         },
         {
           "@type": "Question",
-          "name": "Can the RBI Ombudsman award monetary compensation for mental harassment?",
+          "name": "Can the RBI Ombudsman award monetary relief for mental harassment?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Yes. Under Section 16(2) of the Reserve Bank - Integrated Ombudsman Scheme, 2021, the Ombudsman has the legal authority to award compensation up to ₹1,00,000 (Rupees One Lakh) to the complainant for loss of time, expenses incurred, harassment, and mental anguish suffered due to deficiency in service by the regulated entity, in addition to actual consequential financial losses up to ₹20 Lakhs."
+            "text": "Yes. Under Section 16(2) of the Reserve Bank - Integrated Ombudsman Scheme, 2021, the Ombudsman has the legal authority to award relief up to ₹1,00,000 (Rupees One Lakh) to the complainant for loss of time, expenses incurred, harassment, and mental anguish suffered due to deficiency in service by the regulated entity, in addition to actual consequential financial losses up to ₹20 Lakhs."
           }
         },
         {
@@ -312,7 +312,7 @@ const jsonLdGraph = {
           "name": "What happens if a bank fails to comply with an RBI Ombudsman Award?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "An Ombudsman Award becomes binding on the bank once accepted in writing by the complainant within 30 days. If the bank fails to implement the Award, the Ombudsman reports the non-compliance to the RBI's Department of Supervision, which can impose heavy regulatory monetary penalties, regulatory restrictions on lending operations, and mandatory supervisory directions."
+            "text": "An Ombudsman Award becomes binding on the bank once accepted in writing by the complainant within 30 days. If the bank fails to apply the Award, the Ombudsman reports the non-compliance to the RBI's Department of Supervision, which can impose heavy regulatory monetary penalties, regulatory restrictions on lending operations, and mandatory supervisory directions."
           }
         },
         {
@@ -350,7 +350,7 @@ const tocItems = [
   { id: 'bank-accounting-npv-recovery-formula', title: '4. Bank Economics & The Ombudsman Equation' },
   { id: 'rbi-ombudsman-resolution-roadmap', title: '5. Visual Regulatory Escalation Roadmap' },
   { id: 'step-by-step-cms-portal-filing', title: '6. Step-by-Step RBI CMS Portal Filing Guide' },
-  { id: 'formulating-compensation-claims', title: '7. Claiming Compensation for Mental Agony' },
+  { id: 'formulating-relief-claims', title: '7. Claiming relief for Mental Agony' },
   { id: 'conciliation-ots-compromise-ndc', title: '8. Conciliation, OTS Haircuts & ₹0 NDC Mandates' },
   { id: 'dispute-escalation-comparative-matrix', title: '9. Institutional Escalation Comparative Matrix' },
   { id: 'settleloans-advocate-representation', title: '10. SettleLoans Legal Defense & Advisory' },
@@ -507,11 +507,11 @@ export default function RbiOmbudsmanComplaintPage() {
                 </li>
                 <li className="flex items-start gap-2.5">
                   <CheckCircle2 className="w-4 h-4 text-blue-600 flex-shrink-0 mt-0.5" />
-                  <span><strong>Monetary Compensation Powers:</strong> Under Section 16(2) of RB-IOS 2021, the Ombudsman possesses statutory power to award up to ₹1,00,000 for mental agony and harassment, alongside up to ₹20,00,000 for actual consequential financial losses.</span>
+                  <span><strong>Monetary relief Powers:</strong> Under Section 16(2) of RB-IOS 2021, the Ombudsman possesses statutory power to award up to ₹1,00,000 for mental agony and harassment, alongside up to ₹20,00,000 for actual consequential financial losses.</span>
                 </li>
                 <li className="flex items-start gap-2.5">
                   <CheckCircle2 className="w-4 h-4 text-blue-600 flex-shrink-0 mt-0.5" />
-                  <span><strong>Settlement Negotiation Catalyst:</strong> Formal RBI Ombudsman proceedings trigger direct intervention from senior bank compliance officers, enabling advocates to convert contentious collection files into structured 50%–65% One-Time Settlements with mandatory zero-balance No Dues Certificates.</span>
+                  <span><strong>Settlement talks Catalyst:</strong> Formal RBI Ombudsman cases trigger direct intervention from senior bank compliance officers, enabling advocates to convert contentious collection files into structured 50%–65% One-Time Settlements with mandatory zero-balance No Dues Certificates.</span>
                 </li>
               </ul>
             </div>
@@ -525,7 +525,7 @@ export default function RbiOmbudsmanComplaintPage() {
                 The Reserve Bank of India enacted the Reserve Bank - Integrated Ombudsman Scheme, 2021 (RB-IOS 2021) for financial customer protection. This framework introduced a single, unified quasi-judicial mechanism. Operating under Section 35A Banking Regulation Act 1949, Section 45L RBI Act 1934, and Section 18 PSSA 2007, the Integrated Ombudsman holds statutory authority over all Regulated Entities (REs). It eliminates jurisdictional barriers based on loan size or state boundaries. Grievance redressal is now consolidated under the Centralised Receipt and Processing Centre (CRPC) in Chandigarh and the digital Complaint Management System (CMS).
               </p>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
-                Every Indian Scheduled Commercial Bank falls squarely under the Ombudsman&apos;s supervisory mandate. This includes SBI, HDFC Bank, ICICI Bank, Axis Bank, Kotak Mahindra Bank, Regional Rural Banks, Co-operative Banks, and NBFCs. Furthermore, under RBI Guidelines on Digital Lending (RBI/2022-23/111), banks and NBFCs remain vicariously liable for their partners. They are held strictly accountable for coercive tactics committed by Lending Service Providers (LSPs) and outsourced recovery agencies.
+                Every Indian Scheduled Commercial Bank falls squarely under the Ombudsman&apos;s supervisory mandate. This includes SBI, HDFC Bank, ICICI Bank, Axis Bank, Kotak Mahindra Bank, Regional Rural Banks, Co-operative Banks, and NBFCs. also, under RBI Guidelines on Digital Lending (RBI/2022-23/111), banks and NBFCs remain vicariously liable for their partners. They are held strictly accountable for coercive tactics committed by Lending Service Providers (LSPs) and outsourced recovery agencies.
               </p>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Borrowers often default on personal loans or credit cards due to genuine hardship, such as illness, business loss, or job loss. In response, lenders frequently outsource overdue portfolios to aggressive third-party collection agencies. These agencies sometimes operate in defiance of central bank directives. The RBI Ombudsman exists to regulate these corporate excesses. It penalizes institutional deficiencies in service and protects the legal rights of distressed citizens.
@@ -534,18 +534,18 @@ export default function RbiOmbudsmanComplaintPage() {
 
             {/* Section 2: Prohibited Recovery Practices & Violations */}
             <section id="prohibited-recovery-harassment-tactics" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                 2. Prohibited Recovery Tactics Under RBI Master Directions
-              </h2>
+              </h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 The Reserve Bank of India enforces strict codes of conduct for loan recovery under Circular RBI/2022-23/108 on Outsourcing of Financial Services. Indian jurisprudence unequivocally holds that loan default is strictly a civil breach of contract, never a criminal offense. The Supreme Court of India in <em>ICICI Bank Ltd. v. Shanti Devi Sharma (2008)</em> and <em>Justice K.S. Puttaswamy (Retd.) v. Union of India (2017)</em> established clear limits. Debt recovery cannot involve strong-arm tactics, privacy violations, or psychological intimidation.
               </p>
               
               <div className="bg-slate-50 border border-slate-200 rounded-2xl p-5 my-4 space-y-3">
-                <h3 className="font-bold text-slate-900 text-sm sm:text-base flex items-center gap-2">
+                <h4 className="font-bold text-slate-900 text-sm sm:text-base flex items-center gap-2">
                   <ShieldAlert className="w-4 h-4 text-rose-600" />
                   <span>Actionable Regulatory Violations Explicitly Barred by RBI Mandates</span>
-                </h3>
+                </h4>
                 <ul className="space-y-2.5 text-xs sm:text-sm text-slate-700">
                   <li className="flex items-start gap-2">
                     <span className="font-bold text-rose-600 min-w-[20px]">•</span>
@@ -575,15 +575,15 @@ export default function RbiOmbudsmanComplaintPage() {
               </div>
 
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
-                When a bank or NBFC engages in any of these prohibited actions, the borrower gains immediate legal standing to initiate formal regulatory proceedings. The RBI Ombudsman treats recovery harassment not merely as an individual consumer grievance, but as a systemic compliance breakdown that exposes the financial institution to severe administrative penalties and supervisory audit ratings downgrades.
+                When a bank or NBFC engages in any of these prohibited actions, the borrower gains immediate legal standing to start formal regulatory cases. The RBI Ombudsman treats recovery harassment not merely as an person consumer grievance, but as a systemic compliance breakdown that exposes the financial institution to severe administrative penalties and supervisory audit ratings downgrades.
               </p>
             </section>
 
             {/* Section 3: Mandatory 30-Day Pre-Filing Protocol */}
             <section id="mandatory-30-day-escalation-protocol" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                 3. Statutory Pre-Conditions: 30-Day Grievance Protocol
-              </h2>
+              </h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Under Clause 10 of the Reserve Bank - Integrated Ombudsman Scheme, 2021, the Ombudsman will reject complaints if the mandatory preliminary grievance protocol is bypassed. The legal architecture requires that the regulated financial institution be given an institutional opportunity to redress the consumer&apos;s grievance internally before the central banking authority assumes active jurisdiction. Navigating this pre-filing sequence methodically ensures that your eventual RBI CMS petition is legally bulletproof and cannot be dismissed on preliminary procedural grounds.
               </p>
@@ -591,21 +591,21 @@ export default function RbiOmbudsmanComplaintPage() {
               <div className="grid grid-cols-1 md:grid-cols-3 gap-4 my-6">
                 <div className="p-4 bg-slate-50 rounded-xl border border-slate-200">
                   <div className="text-blue-600 font-bold text-xs uppercase tracking-wider mb-1">Phase 1</div>
-                  <h3 className="font-bold text-slate-900 text-sm mb-2">Branch / Desk Grievance</h3>
+                  <h4 className="font-bold text-slate-900 text-sm mb-2">Branch / Desk Grievance</h4>
                   <p className="text-xs text-slate-600 leading-relaxed">
                     Submit a formal written complaint via registered email or speed post to the Branch Manager and the bank&apos;s Level-1 Customer Service Desk. Secure an official Service Request (SR) tracking number.
                   </p>
                 </div>
                 <div className="p-4 bg-slate-50 rounded-xl border border-slate-200">
                   <div className="text-blue-600 font-bold text-xs uppercase tracking-wider mb-1">Phase 2</div>
-                  <h4 className="font-bold text-slate-900 text-sm mb-2">Principal Nodal Officer (PNO)</h4>
+                  <h5 className="font-bold text-slate-900 text-sm mb-2">Principal Nodal Officer (PNO)</h5>
                   <p className="text-xs text-slate-600 leading-relaxed">
                     If unresolved within 7 days, escalate the matter to the bank&apos;s Principal Nodal Officer (PNO) and Internal Ombudsman (IO), outlining detailed recovery harassment violations with attached evidence.
                   </p>
                 </div>
                 <div className="p-4 bg-slate-50 rounded-xl border border-slate-200">
                   <div className="text-blue-600 font-bold text-xs uppercase tracking-wider mb-1">Phase 3</div>
-                  <h4 className="font-bold text-slate-900 text-sm mb-2">30-Day Maturity &amp; CMS Trigger</h4>
+                  <h5 className="font-bold text-slate-900 text-sm mb-2">30-Day Maturity &amp; CMS Trigger</h5>
                   <p className="text-xs text-slate-600 leading-relaxed">
                     Once 30 calendar days elapse from the initial complaint date—or immediately upon receiving an unsatisfactory or dismissive written rejection—the right to file before the RBI Ombudsman ripens automatically.
                   </p>
@@ -613,20 +613,20 @@ export default function RbiOmbudsmanComplaintPage() {
               </div>
 
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
-                It is vital to retain all communication logs, automated acknowledgment emails, and speed post delivery receipts. The RBI CMS portal strictly requires the initial complaint date and the institutional response reference number during electronic registration. If the bank fails to respond within 30 days, that statutory failure in itself constitutes an independent deficiency in banking service under the Scheme.
+                It is vital to retain all notice logs, automated acknowledgment emails, and speed post delivery receipts. The RBI CMS portal strictly requires the initial complaint date and the institutional response reference number during electronic registration. If the bank fails to respond within 30 days, that statutory failure in itself constitutes an independent deficiency in banking service under the Scheme.
               </p>
             </section>
 
             {/* Section 4: Bank Economics & The Ombudsman Risk Equation */}
             <section id="bank-accounting-npv-recovery-formula" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                 4. Bank Accounting, Stressed Assets & Ombudsman Risk
-              </h2>
+              </h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
-                An RBI Ombudsman complaint provides strong negotiation leverage due to banking capital dynamics. When a retail loan defaults past 90 days, RBI Prudential Norms (IRACP) mandate classification as a Non-Performing Asset (NPA). As NPAs age through Sub-Standard, Doubtful, and Loss stages, lenders must lock 15% to 100% of the ledger balance in idle provisioning capital.
+                An RBI Ombudsman complaint provides strong talks leverage due to banking capital dynamics. When a retail loan defaults past 90 days, RBI Prudential Norms (IRACP) mandate classification as a Non-Performing Asset (NPA). As NPAs age through Sub-Standard, Doubtful, and Loss stages, lenders must lock 15% to 100% of the ledger balance in idle provisioning capital.
               </p>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
-                Commercial banks evaluate delinquent retail portfolios through a cold quantitative mathematical model known as Net Present Value (NPV) Recovery Modeling. Under normal circumstances, lenders evaluate whether to pursue aggressive third-party agency collections, file summary civil suits under Order 37 CPC, or initiate arbitration proceedings. However, the introduction of a formal RBI Ombudsman complaint dramatically destabilizes the bank&apos;s expected financial return by introducing heavy regulatory friction costs and supervisory penalties:
+                Commercial banks evaluate delinquent retail portfolios through a cold quantitative mathematical model known as Net Present Value (NPV) Recovery Modeling. Under normal situations, lenders evaluate whether to pursue aggressive third-party agency collections, file summary civil suits under Order 37 CPC, or start arbitration cases. However, the introduction of a formal RBI Ombudsman complaint dramatically destabilizes the bank&apos;s expected financial return by introducing heavy regulatory friction costs and supervisory penalties:
               </p>
 
               {/* Formula Box */}
@@ -639,20 +639,20 @@ export default function RbiOmbudsmanComplaintPage() {
                   NPV_Recovery = ∑ [ C_t / (1 + r)^t ] - Litigation Costs - Provisioning Burden - Regulatory Penalty Risk
                 </div>
                 <p className="text-xs text-slate-300 leading-relaxed mt-2">
-                  Here C_t represents estimated recoveries over time, and r is the internal discount rate. Deductions account for multi-year litigation costs, locked Tier-1 capital reserves, and the imminent risk of RBI regulatory fines or compensation awards.
+                  Here C_t represents estimated recoveries over time, and r is the internal discount rate. Deductions account for multi-year litigation costs, locked Tier-1 capital reserves, and the imminent risk of RBI regulatory fines or relief awards.
                 </p>
               </div>
 
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
-                When a borrower files documented proof of harassment with the Ombudsman, the bank&apos;s risk committee must formally answer to the RBI. Defending an open regulatory inquiry exceeds the residual value of a delinquent balance. Consequently, bank stressed-asset managers shift from aggressive recovery to compromise. They frequently authorize 45% to 65% principal haircuts to achieve a swift settlement and close the regulatory docket.
+                When a borrower files documented proof of harassment with the Ombudsman, the bank&apos;s risk committee must formally answer to the RBI. Defending an open regulatory inquiry exceeds the residual value of a delinquent balance. so, bank stressed-asset managers shift from aggressive recovery to compromise. They frequently authorize 45% to 65% principal haircuts to achieve a swift settlement and close the regulatory docket.
               </p>
             </section>
 
             {/* Section 5: Infographic Banner */}
             <section id="rbi-ombudsman-resolution-roadmap" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                 5. RBI Integrated Ombudsman Grievance Roadmap
-              </h2>
+              </h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 The visual roadmap below details the 5-stage escalation framework. It covers initial written grievances, CMS portal filing, evidentiary dockets, conciliation hearings, and securing zero-balance settlement letters.
               </p>
@@ -676,62 +676,62 @@ export default function RbiOmbudsmanComplaintPage() {
                 </div>
                 <div className="p-3 bg-slate-50 rounded-xl border border-slate-200">
                   <span className="font-bold text-slate-900 block mb-1">Stages 3–4: Evidence &amp; Conciliation</span>
-                  <span>Submit comprehensive audio, digital, and documentary proof; the Ombudsman initiates statutory conciliation and directs the bank to explain conduct.</span>
+                  <span>Submit comprehensive audio, digital, and documentary proof; the Ombudsman starts statutory conciliation and directs the bank to explain conduct.</span>
                 </div>
                 <div className="p-3 bg-slate-50 rounded-xl border border-slate-200">
                   <span className="font-bold text-slate-900 block mb-1">Stage 5: Award &amp; Compromise OTS</span>
-                  <span>Receive binding Ombudsman compensation order under Section 16(2); execute an amicable 50%–65% OTS with a mandatory ₹0 No Dues Certificate.</span>
+                  <span>Receive binding Ombudsman relief order under Section 16(2); execute an amicable 50%–65% OTS with a mandatory ₹0 No Dues Certificate.</span>
                 </div>
               </div>
             </section>
 
             {/* Section 6: Step-by-Step RBI CMS Portal Filing Guide */}
             <section id="step-by-step-cms-portal-filing" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                 6. Blueprint: Filing on the RBI CMS Portal
-              </h2>
+              </h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Filing an electronic complaint through the RBI Complaint Management System (CMS) portal is a structured legal submission. Every statement entered on the portal becomes part of an official quasi-judicial record reviewed by the Ombudsman and the bank&apos;s senior executive management. To ensure maximum impact and prevent procedural delays, adhere strictly to the following 6-step operational procedure:
               </p>
 
               <div className="space-y-4 my-6">
                 <div className="p-4 bg-slate-50 rounded-xl border border-slate-200">
-                  <h3 className="font-bold text-slate-900 text-sm mb-1">Step 1: Access the Centralized Portal &amp; Verify Identity</h3>
+                  <h4 className="font-bold text-slate-900 text-sm mb-1">Step 1: Access the Centralized Portal &amp; Verify Identity</h4>
                   <p className="text-xs sm:text-sm text-slate-600 leading-relaxed">
                     Navigate to <code>https://cms.rbi.org.in</code> and click on &quot;File a Complaint&quot;. Complete the initial SMS/OTP mobile verification. Ensure that the mobile number matches the contact details registered with your loan account.
                   </p>
                 </div>
 
                 <div className="p-4 bg-slate-50 rounded-xl border border-slate-200">
-                  <h4 className="font-bold text-slate-900 text-sm mb-1">Step 2: Select Regulated Entity Category &amp; Account Particulars</h4>
+                  <h5 className="font-bold text-slate-900 text-sm mb-1">Step 2: Select Regulated Entity Category &amp; Account Particulars</h5>
                   <p className="text-xs sm:text-sm text-slate-600 leading-relaxed">
                     Select the appropriate institutional category (e.g., Scheduled Commercial Bank, NBFC, or Small Finance Bank). Choose the exact legal name of the entity from the drop-down menu, enter the parent branch details, and specify your loan or credit card account number.
                   </p>
                 </div>
 
                 <div className="p-4 bg-slate-50 rounded-xl border border-slate-200">
-                  <h4 className="font-bold text-slate-900 text-sm mb-1">Step 3: Establish the 30-Day Statutory Pre-Condition</h4>
+                  <h5 className="font-bold text-slate-900 text-sm mb-1">Step 3: Establish the 30-Day Statutory Pre-Condition</h5>
                   <p className="text-xs sm:text-sm text-slate-600 leading-relaxed">
                     Input the exact date when your initial written complaint was lodged with the bank&apos;s Grievance Redressal Officer. Upload the copy of your original email/letter along with the bank&apos;s tracking reference number or proof of speed post delivery.
                   </p>
                 </div>
 
                 <div className="p-4 bg-slate-50 rounded-xl border border-slate-200">
-                  <h4 className="font-bold text-slate-900 text-sm mb-1">Step 4: Select Accurate Complaint Sub-Categories</h4>
+                  <h5 className="font-bold text-slate-900 text-sm mb-1">Step 4: Select Accurate Complaint Sub-Categories</h5>
                   <p className="text-xs sm:text-sm text-slate-600 leading-relaxed">
                     Under the grievance classification taxonomy, select <em>&quot;Loans and Advances&quot;</em> followed by the exact sub-categories: <em>&quot;Engagement of Recovery Agents / Non-adherence to Fair Practices Code&quot;</em>, <em>&quot;Harassment / Coercive Tactics&quot;</em>, and <em>&quot;Levy of Charges Without Prior Notice&quot;</em>.
                   </p>
                 </div>
 
                 <div className="p-4 bg-slate-50 rounded-xl border border-slate-200">
-                  <h4 className="font-bold text-slate-900 text-sm mb-1">Step 5: Draft the Factual Chronology &amp; Regulatory Grounds</h4>
+                  <h5 className="font-bold text-slate-900 text-sm mb-1">Step 5: Draft the Factual Chronology &amp; Regulatory Grounds</h5>
                   <p className="text-xs sm:text-sm text-slate-600 leading-relaxed">
                     Provide a concise chronological narrative. Detail loan origins, specific call dates and timestamps, and caller numbers. Highlight violations of the 8:00 AM to 7:00 PM calling window, abusive language, and third-party workplace disclosures alongside relevant RBI circular citations.
                   </p>
                 </div>
 
                 <div className="p-4 bg-slate-50 rounded-xl border border-slate-200">
-                  <h4 className="font-bold text-slate-900 text-sm mb-1">Step 6: Upload the Evidentiary Docket &amp; Submit</h4>
+                  <h5 className="font-bold text-slate-900 text-sm mb-1">Step 6: Upload the Evidentiary Docket &amp; Submit</h5>
                   <p className="text-xs sm:text-sm text-slate-600 leading-relaxed">
                     Compile all evidence into a single, organized PDF file (under the portal&apos;s file size limit) containing time-stamped call records, WhatsApp screenshots, audio recording transcripts, CCTV snapshots, and formal notices. Review the draft, submit, and record the unique Complaint Reference Number (CRN).
                   </p>
@@ -743,39 +743,39 @@ export default function RbiOmbudsmanComplaintPage() {
               </p>
             </section>
 
-            {/* Section 7: Claiming Compensation for Mental Agony */}
-            <section id="formulating-compensation-claims" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
-                7. Formulating Compensation Claims Under Section 16(2)
-              </h2>
+            {/* Section 7: Claiming relief for Mental Agony */}
+            <section id="formulating-relief-claims" className="space-y-4">
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
+                7. Formulating relief Claims Under Section 16(2)
+              </h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
-                A key provision of RB-IOS 2021 is the Ombudsman&apos;s statutory authority to award compensation for non-financial injury. Under Clause 16(2), the Ombudsman can order lenders to pay up to ₹1 Lakh to the complainant. This covers loss of time, expenses, harassment, and mental anguish resulting from service deficiencies.
+                A key provision of RB-IOS 2021 is the Ombudsman&apos;s statutory authority to award relief for non-financial injury. Under Clause 16(2), the Ombudsman can order lenders to pay up to ₹1 Lakh to the complainant. This covers loss of time, expenses, harassment, and mental anguish resulting from service deficiencies.
               </p>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
-                To substantiate compensation claims, advocates construct an Injury Dossier. First, we establish a <strong>Causal Link</strong> proving harm resulted directly from unlawful recovery tactics. Second, we provide <strong>Documentary Proof</strong> such as medical prescriptions, employer warnings, or income losses. Third, we request <strong>Quantified Relief</strong>, including the immediate cessation of recovery, waiver of penal interest, compensation, and credit bureau remediation.
+                To substantiate relief claims, advocates construct an Injury Dossier. First, we establish a <strong>Causal Link</strong> proving harm resulted directly from unlawful recovery tactics. Second, we provide <strong>Documentary Proof</strong> such as medical prescriptions, employer warnings, or income losses. Third, we request <strong>Quantified Relief</strong>, including the immediate cessation of recovery, waiver of penal interest, relief, and credit bureau remediation.
               </p>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
-                For direct financial losses—such as unauthorized automatic debits or wrongful asset seizures—Clause 16(1) empowers the Ombudsman to award compensation. Relief covers actual damages up to ₹20 Lakhs. Framing these claims with legal precision ensures banks treat proceedings with institutional urgency.
+                For direct financial losses—such as unauthorized automatic debits or wrongful asset seizures—Clause 16(1) empowers the Ombudsman to award relief. Relief covers actual damages up to ₹20 Lakhs. Framing these claims with legal precision ensures banks treat cases with institutional urgency.
               </p>
             </section>
 
             {/* Section 8: Conciliation, OTS Haircuts & ₹0 NDC Mandates */}
             <section id="conciliation-ots-compromise-ndc" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                 8. Ombudsman Conciliation & Enforcing ₹0 NDC Mandates
-              </h2>
+              </h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 The primary operational mode of the RBI Ombudsman under Clause 14 of RB-IOS 2021 is conciliation and mediation. Once the complaint is admitted, the Ombudsman forwards the evidentiary dossier to the regulated entity with a strict 15-day deadline to submit a formal Written Response. Recognizing the high probability of an adverse finding or regulatory reprimand, the bank&apos;s central legal department frequently reaches out directly to the borrower or their legal counsel to propose an amicable out-of-court settlement.
               </p>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
-                This conciliation window offers an ideal setting for negotiating a One-Time Settlement (OTS). Rather than enduring endless collection calls, advocates leverage active regulatory proceedings. We negotiate to eliminate penal charges and secure 45% to 65% principal haircuts based on documented financial distress.
+                This conciliation window offers an ideal setting for negotiating a One-Time Settlement (OTS). Rather than enduring endless collection calls, advocates leverage active regulatory cases. We negotiate to eliminate penal charges and secure 45% to 65% principal haircuts based on documented financial distress.
               </p>
               
               <div className="bg-blue-50/50 border border-blue-200 rounded-2xl p-5 my-4 space-y-3">
-                <h3 className="font-bold text-slate-900 text-sm sm:text-base flex items-center gap-2">
+                <h4 className="font-bold text-slate-900 text-sm sm:text-base flex items-center gap-2">
                   <FileCheck className="w-4 h-4 text-blue-600" />
                   <span>Mandatory Regulatory Protections for Executed Loan Settlements</span>
-                </h3>
+                </h4>
                 <p className="text-xs sm:text-sm text-slate-700 leading-relaxed">
                   Upon mutually agreeing on settlement terms, the agreement must be executed via an official bank-issued Sanction Letter detailing the final discounted amount and payment schedule. Under RBI Circular RBI/2023-24/60 on <em>&quot;Release of Movable / Immovable Property Documents and No Dues Certificates&quot;</em>, the bank is legally obligated to:
                 </p>
@@ -790,7 +790,7 @@ export default function RbiOmbudsmanComplaintPage() {
                   </li>
                   <li className="flex items-start gap-2">
                     <Check className="w-4 h-4 text-emerald-600 flex-shrink-0 mt-0.5" />
-                    <span>Pay a mandatory statutory compensation of ₹5,000 per day of delay directly to the borrower if the NDC or property documents are delayed beyond 30 days without justifiable cause.</span>
+                    <span>Pay a mandatory statutory relief of ₹5,000 per day of delay directly to the borrower if the NDC or property documents are delayed beyond 30 days without justifiable cause.</span>
                   </li>
                 </ul>
               </div>
@@ -802,9 +802,9 @@ export default function RbiOmbudsmanComplaintPage() {
 
             {/* Section 9: Institutional Escalation Comparative Matrix */}
             <section id="dispute-escalation-comparative-matrix" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                 9. Dispute Resolution &amp; Legal Escalation Comparative Matrix
-              </h2>
+              </h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Borrowers facing aggressive debt collection tactics often struggle to evaluate which legal forum best suits their specific situation. The comprehensive comparative matrix below analyzes the timeline, cost structure, recovery deterrence, and settlement efficacy across all primary grievance mechanisms in India:
               </p>
@@ -852,7 +852,7 @@ export default function RbiOmbudsmanComplaintPage() {
                       <td>Advocate Legal Fees</td>
                       <td>6 to 18 Months</td>
                       <td>Immediate (Criminal Deterrence)</td>
-                      <td>Moderate (Requires Cross-Negotiation)</td>
+                      <td>Moderate (Requires Cross-talks)</td>
                     </tr>
                     <tr>
                       <td className="font-bold text-slate-900">National Lok Adalat</td>
@@ -867,20 +867,20 @@ export default function RbiOmbudsmanComplaintPage() {
               </div>
 
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
-                As demonstrated by the empirical matrix, the RBI Integrated Ombudsman Scheme offers the fastest, most cost-effective, and institutionally potent mechanism for neutralizing recovery agent harassment while simultaneously opening an official window for debt compromise negotiation.
+                As showed by the empirical matrix, the RBI Integrated Ombudsman Scheme offers the fastest, most cost-effective, and institutionally potent mechanism for neutralizing recovery agent harassment while simultaneously opening an official window for debt compromise talks.
               </p>
             </section>
 
             {/* Section 10: SettleLoans Legal Defense & Advisory */}
             <section id="settleloans-advocate-representation" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                 10. Institutional Defense: Safeguarding Borrowers & OTS
-              </h2>
+              </h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
-                Navigating an institutional confrontation with a major national bank or well-funded NBFC can be daunting for an individual borrower already enduring severe financial stress. SettleLoans bridges this power asymmetry by providing dedicated legal advocacy, regulatory petition drafting, and senior-level financial negotiations for distressed borrowers across India.
+                Navigating an institutional confrontation with a major national bank or well-funded NBFC can be daunting for an person borrower already enduring severe financial stress. SettleLoans bridges this power asymmetry by providing dedicated legal advocacy, regulatory petition drafting, and senior-level financial talks for distressed borrowers across India.
               </p>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
-                Our seasoned team of banking litigation advocates and debt resolution specialists implements a rigorous 4-stage institutional defense protocol:
+                Our seasoned team of banking litigation advocates and debt resolution specialists applies a rigorous 4-stage institutional defense protocol:
               </p>
               
               <div className="grid grid-cols-1 md:grid-cols-2 gap-4 my-6">
@@ -899,16 +899,16 @@ export default function RbiOmbudsmanComplaintPage() {
                     <span>2. Evidentiary Docket Compilation</span>
                   </div>
                   <p className="text-xs text-slate-600 leading-relaxed">
-                    Our legal team structures your call recordings, WhatsApp messages, and financial records into a forensic evidentiary docket demonstrating clear violations of RBI Master Directions.
+                    Our legal team structures your call recordings, WhatsApp messages, and financial records into a forensic evidentiary docket showing clear violations of RBI Master Directions.
                   </p>
                 </div>
                 <div className="p-4 bg-slate-50 rounded-xl border border-slate-200">
                   <div className="flex items-center gap-2 font-bold text-slate-900 text-sm mb-2">
                     <Landmark className="w-4 h-4 text-[#1F5EFF]" />
-                    <span>3. RBI CMS Petition &amp; Compensation</span>
+                    <span>3. RBI CMS Petition &amp; relief</span>
                   </div>
                   <p className="text-xs text-slate-600 leading-relaxed">
-                    We draft and file a comprehensive complaint on the RBI Complaint Management System, incorporating statutory compensation claims under Section 16(2) of RB-IOS 2021 for mental agony.
+                    We draft and file a comprehensive complaint on the RBI Complaint Management System, incorporating statutory relief claims under Section 16(2) of RB-IOS 2021 for mental agony.
                   </p>
                 </div>
                 <div className="p-4 bg-slate-50 rounded-xl border border-slate-200">
@@ -930,12 +930,12 @@ export default function RbiOmbudsmanComplaintPage() {
 
             {/* Section 11: Comprehensive FAQ Accordion */}
             <section id="faqs" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight flex items-center gap-2">
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight flex items-center gap-2">
                 <HelpCircle className="w-5 h-5 text-[#1F5EFF]" />
                 <span>11. FAQs: RBI Ombudsman Complaints & Recovery Rights</span>
-              </h2>
+              </h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
-                Find clear, authoritative legal answers to the most critical questions regarding RBI Complaint Management System procedures, recovery agent restrictions, compensation limits, and debt settlement execution:
+                Find clear, authoritative legal answers to the most critical questions regarding RBI Complaint Management System procedures, recovery agent restrictions, relief limits, and debt settlement execution:
               </p>
 
               <div className="space-y-3 mt-6">
@@ -971,11 +971,11 @@ export default function RbiOmbudsmanComplaintPage() {
 
                 <details className="group bg-slate-50 rounded-xl border border-slate-200 p-4 transition-all duration-200 open:bg-blue-50/40 open:border-blue-200">
                   <summary className="font-bold text-sm sm:text-base text-slate-900 cursor-pointer flex items-center justify-between">
-                    <span>Can the RBI Ombudsman award monetary compensation for mental harassment?</span>
+                    <span>Can the RBI Ombudsman award monetary relief for mental harassment?</span>
                     <ChevronDown className="w-4 h-4 text-slate-500 transition-transform group-open:rotate-180" />
                   </summary>
                   <p className="text-xs sm:text-sm text-slate-700 leading-relaxed mt-3 pt-3 border-t border-slate-200/60">
-                    Yes. Under Section 16(2) of RB-IOS 2021, the Ombudsman can award compensation up to ₹20 Lakhs for consequential losses, plus up to ₹1 Lakh for mental harassment, loss of time, and out-of-pocket expenses.
+                    Yes. Under Section 16(2) of RB-IOS 2021, the Ombudsman can award relief up to ₹20 Lakhs for consequential losses, plus up to ₹1 Lakh for mental harassment, loss of time, and out-of-pocket expenses.
                   </p>
                 </details>
 
@@ -995,7 +995,7 @@ export default function RbiOmbudsmanComplaintPage() {
                     <ChevronDown className="w-4 h-4 text-slate-500 transition-transform group-open:rotate-180" />
                   </summary>
                   <p className="text-xs sm:text-sm text-slate-700 leading-relaxed mt-3 pt-3 border-t border-slate-200/60">
-                    Crucial evidence includes time-stamped call recordings, screenshots of threatening WhatsApp messages, and CCTV footage of unannounced visits. Maintain proof of initial written grievances sent to the bank as primary documentation.
+                    Crucial evidence includes time-stamped call recordings, screenshots of threatening WhatsApp messages, and CCTV footage of unannounced visits. Maintain proof of initial written grievances sent to the bank as primary records.
                   </p>
                 </details>
 
@@ -1025,7 +1025,7 @@ export default function RbiOmbudsmanComplaintPage() {
                     <ChevronDown className="w-4 h-4 text-slate-500 transition-transform group-open:rotate-180" />
                   </summary>
                   <p className="text-xs sm:text-sm text-slate-700 leading-relaxed mt-3 pt-3 border-t border-slate-200/60">
-                    An Ombudsman Award becomes binding on the bank once accepted in writing by the complainant within 30 days. If the bank fails to implement the Award, the Ombudsman reports the non-compliance to the RBI&apos;s Department of Supervision, which can impose heavy regulatory monetary penalties, regulatory restrictions on lending operations, and mandatory supervisory directions.
+                    An Ombudsman Award becomes binding on the bank once accepted in writing by the complainant within 30 days. If the bank fails to apply the Award, the Ombudsman reports the non-compliance to the RBI&apos;s Department of Supervision, which can impose heavy regulatory monetary penalties, regulatory restrictions on lending operations, and mandatory supervisory directions.
                   </p>
                 </details>
 
@@ -1043,9 +1043,9 @@ export default function RbiOmbudsmanComplaintPage() {
 
             {/* 5 Official Regulatory Links */}
             <section className="border-t border-slate-200 pt-8 space-y-4">
-              <h3 className="text-xs sm:text-sm font-bold text-slate-900 uppercase tracking-wider">
+              <h4 className="text-xs sm:text-sm font-bold text-slate-900 uppercase tracking-wider">
                 Official Regulatory &amp; Statutory References
-              </h3>
+              </h4>
               <div className="grid grid-cols-1 sm:grid-cols-2 gap-3 text-xs">
                 <a
                   href="https://cms.rbi.org.in"
@@ -1097,9 +1097,9 @@ export default function RbiOmbudsmanComplaintPage() {
 
             {/* 10 Related Guide Badges */}
             <section className="border-t border-slate-200 pt-8 mb-8">
-              <h3 className="text-xs sm:text-sm font-bold text-slate-900 mb-4 uppercase tracking-wider">
+              <h4 className="text-xs sm:text-sm font-bold text-slate-900 mb-4 uppercase tracking-wider">
                 Related Legal Defense &amp; Debt Resolution Guides
-              </h3>
+              </h4>
               <div className="flex flex-wrap gap-2">
                 <Link
                   href="/bank-recovery-harassment-complaint"
@@ -1204,13 +1204,13 @@ export default function RbiOmbudsmanComplaintPage() {
               </div>
               <div className="font-bold text-base text-white mb-2">Facing Recovery Agent Harassment?</div>
               <p className="text-xs text-slate-300 leading-relaxed mb-4">
-                Do not endure abusive calls or unannounced home visits. Hire specialized banking defense advocates to lodge a formal RBI CMS complaint, claim harassment compensation, and negotiate a 45%–65% OTS.
+                Do not endure abusive calls or unannounced home visits. Hire specialized banking defense advocates to lodge a formal RBI CMS complaint, claim harassment relief, and negotiate a 45%–65% OTS.
               </p>
               <Link
                 href="/contact"
                 className="w-full bg-[#1F5EFF] hover:bg-blue-600 text-white font-bold py-2.5 px-4 rounded-xl text-xs text-center transition-all block shadow-md"
               >
-                Request Immediate Legal Assistance
+                Request Immediate Legal help
               </Link>
             </div>
 

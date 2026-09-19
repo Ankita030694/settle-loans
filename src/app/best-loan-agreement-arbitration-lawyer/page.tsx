@@ -274,21 +274,21 @@ export default function LoanArbitrationLawyerPage() {
                         </section>
 
                         <section id="decoding-the-clause" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                                 Decoding the <span className="text-[#1F5EFF]">Loan Agreement Arbitration Clause</span>
-                            </h2>
+                            </h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 The arbitration clause is the source of the arbitrator's power. If the clause is flawed, the entire proceeding is void. Banks often use standard templates that contain biased or even illegal provisions. Our first step in any defense is to conduct a 'Clause Audit'.
                             </p>
                             <div className="grid md:grid-cols-2 gap-6 my-10">
                                 <div className="bg-gray-50 p-6 rounded-xl border border-gray-200">
-                                    <h3 className="text-xl font-bold text-[#2E2E2E] mb-4">Seat vs. Venue</h3>
+                                    <h4 className="text-xl font-bold text-[#2E2E2E] mb-4">Seat vs. Venue</h4>
                                     <p className="text-sm text-gray-600 leading-relaxed">
                                         The 'Seat' of arbitration determines which High Court has jurisdiction over the dispute. Banks often set the seat in a city far from the borrower's home to make defense difficult. We challenge these 'Forum Non-Conveniens' choices to bring the dispute back to a location accessible to you.
                                     </p>
                                 </div>
                                 <div className="bg-gray-50 p-6 rounded-xl border border-gray-200">
-                                    <h3 className="text-xl font-bold text-[#2E2E2E] mb-4">Unilateral Appointment</h3>
+                                    <h4 className="text-xl font-bold text-[#2E2E2E] mb-4">Unilateral Appointment</h4>
                                     <p className="text-sm text-gray-600 leading-relaxed">
                                         Many older clauses allow the bank to appoint their own 'Panel Arbitrator' or even an employee. This is now illegal under the Perkins Eastman judgment. We identify these biased clauses and use Section 11(6) to have the arbitrator removed and a neutral one appointed by the High Court.
                                     </p>
@@ -303,14 +303,14 @@ export default function LoanArbitrationLawyerPage() {
                         </section>
 
                         <section id="section-9-interim" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                                 Section 9 Interim Relief: <span className="text-[#1F5EFF]">Asset Protection Suits</span>
-                            </h2>
+                            </h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 Section 9 is the protective shield of the Arbitration Act. While a bank uses it to 'freeze' your assets, a borrower can use it to 'stay' the bank's recovery actions. If a bank is trying to take possession of your mortgaged property or vehicle before the arbitrator has even heard the case, a Section 9 petition in the District Court or High Court can provide an immediate 'Status Quo' order.
                             </p>
                             <div className="bg-blue-50 p-8 rounded-2xl border border-blue-100 my-8">
-                                <h3 className="font-bold text-blue-900 mb-4 text-xl">The Triple Test for Section 9 Relief:</h3>
+                                <h4 className="font-bold text-blue-900 mb-4 text-xl">The Triple Test for Section 9 Relief:</h4>
                                 <p className="text-sm text-blue-800 leading-relaxed mb-4">
                                     To get a 'Stay' against the bank, we must satisfy the court on three points:
                                 </p>
@@ -338,15 +338,15 @@ export default function LoanArbitrationLawyerPage() {
                         </section>
 
                         <section id="section-11-challenges" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                                 Section 11: Challenging <span className="text-[#1F5EFF]">Arbitrator Bias & Appointments</span>
-                            </h2>
+                            </h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 The neutrality of the arbitrator is the cornerstone of justice. In loan recovery, banks often have a list of 'Preferred Arbitrators' who handle hundreds of cases for them every month. This creates a massive conflict of interest. A person whose livelihood depends on continuous referrals from a bank is unlikely to rule against that bank.
                             </p>
                             <div className="bg-[#2E2E2E] text-white p-8 rounded-2xl shadow-lg my-10 relative overflow-hidden">
                                 <div className="absolute top-0 right-0 w-40 h-40 bg-white/5 rounded-bl-full -mr-20 -mt-20"></div>
-                                <h3 className="text-2xl font-bold mb-6 relative z-10">The Death of Unilateral Appointments</h3>
+                                <h4 className="text-2xl font-bold mb-6 relative z-10">The Death of Unilateral Appointments</h4>
                                 <p className="text-lg opacity-80 mb-6 relative z-10">
                                     Following the landmark rulings in <em>TRF Ltd. v. Energo Engineering</em> and <em>Perkins Eastman</em>, any arbitrator who is unilaterally appointed by a party (or their MD) is legally 'Ineligible'. We use Section 11(6) to file petitions in the High Court to terminate such illegal mandates and ask the Court to appoint a truly independent, retired judge or a senior advocate.
                                 </p>
@@ -363,9 +363,9 @@ export default function LoanArbitrationLawyerPage() {
                         </section>
 
                         <section id="msme-sec-18" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                                 MSME Section 18: <span className="text-[#1F5EFF]">Mandatory Conciliation & Facilitation</span>
-                            </h2>
+                            </h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 If your business is registered under the MSMED Act, 2006, you have a 'Super Power' in arbitration law. Section 18 of the MSMED Act provides a specialized dispute resolution mechanism through the Micro and Small Enterprises Facilitation Council (MSEFC).
                             </p>
@@ -373,7 +373,7 @@ export default function LoanArbitrationLawyerPage() {
                                 The courts have repeatedly ruled that the MSMED Act is a 'Special Law' that overrides the general Arbitration Act. This means that even if your bank loan agreement has a private arbitration clause, you can ignore it and file a reference with the MSEFC. The Council must first attempt conciliation and then move to arbitration. This process is much more affordable and borrower friendly than private arbitration.
                             </p>
                             <div className="bg-amber-50 p-8 rounded-xl border border-amber-200 my-8">
-                                <h3 className="text-xl font-bold text-amber-900 mb-4">The 75% Pre-Deposit Rule: A Critical Warning</h3>
+                                <h4 className="text-xl font-bold text-amber-900 mb-4">The 75% Pre-Deposit Rule: A Critical Warning</h4>
                                 <p className="text-sm text-amber-800 leading-relaxed mb-4">
                                     Under Section 19 of the MSMED Act, if a bank or any other party wants to challenge an award passed by the Council in favor of an MSME, they MUST deposit 75% of the award amount in court.
                                 </p>
@@ -387,9 +387,9 @@ export default function LoanArbitrationLawyerPage() {
                         </section>
 
                         <section id="section-34-awards" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                                 Section 34 Recourse: <span className="text-[#1F5EFF]">Setting Aside Unfair Awards</span>
-                            </h2>
+                            </h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 If an arbitrator has already passed an award against you, all is not lost. Section 34 of the Act allows you to challenge the award in a civil court. However, you must act with extreme speed. The limitation period is strictly 90 days from the date you receive the signed award copy.
                             </p>
@@ -428,9 +428,9 @@ export default function LoanArbitrationLawyerPage() {
                         </section>
 
                         <section id="enforcement-execution" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                                 Section 36: <span className="text-[#1F5EFF]">Enforcement and Execution Defense Strategies</span>
-                            </h2>
+                            </h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 Once an arbitral award is passed and the time for filing a Section 34 challenge has expired, or if a stay has not been granted, the award becomes enforceable as a decree of a civil court under Section 36 of the Arbitration and Conciliation Act. This is the stage where the 'rubber meets the road', and the lender moves to freeze assets, attach bank accounts, and auction properties.
                             </p>
@@ -438,7 +438,7 @@ export default function LoanArbitrationLawyerPage() {
                                 However, execution is not an automatic process. It follows the detailed procedures of the Code of Civil Procedure (CPC), 1908. We provide a robust defense during the execution stage, identifying every procedural loophole that can protect the borrower. One of the primary defenses is the 'Defective Award' argument. If the award is vague, non-speaking, or directed against individuals who weren't party to the arbitration, the execution court can refuse to enforce it.
                             </p>
                             <div className="bg-gray-50 border border-gray-200 p-8 rounded-2xl mb-8">
-                                <h3 className="text-xl font-bold mb-4">The Technicality of Transmission:</h3>
+                                <h4 className="text-xl font-bold mb-4">The Technicality of Transmission:</h4>
                                 <p className="mb-4 text-gray-700 leading-relaxed text-sm">
                                     In many loan cases, the arbitration happens in a major financial hub like Mumbai or Bangalore, but the borrower's house is in a smaller city. The bank cannot simply take the Mumbai award to a local police station. They must file a 'Transmission Petition' to transfer the decree from the court where the award was filed to the court where the assets are located.
                                 </p>
@@ -455,9 +455,9 @@ export default function LoanArbitrationLawyerPage() {
                         </section>
 
                         <section id="arbitration-vs-drt" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                                 Arbitration vs. DRT: <span className="text-[#1F5EFF]">Strategic Choice of Forum</span>
-                            </h2>
+                            </h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 A common question for borrowers is whether their case should be in the Debt Recovery Tribunal (DRT) or in Arbitration. For loans above 20 lakh rupees, banks usually have the option to move to the DRT under the RDB Act. However, if the loan agreement has an arbitration clause, the bank might prefer a private arbitrator.
                             </p>
@@ -470,13 +470,13 @@ export default function LoanArbitrationLawyerPage() {
                         </section>
 
                         <section id="success-stories" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 text-center">Real Stories of Arbitration Defense</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 text-center">Real Stories of Arbitration Defense</h3>
                             <div className="grid md:grid-cols-2 gap-6 not-prose">
                                 <div className="bg-white p-8 rounded-2xl border border-[#DEDEDE] shadow-sm">
                                     <div className="flex items-center mb-6">
                                         <div className="w-12 h-12 bg-blue-100 rounded-full flex items-center justify-center font-bold text-blue-600 mr-4">M</div>
                                         <div>
-                                            <h3 className="font-bold text-[#2E2E2E]">MSME Owner, Pune</h3>
+                                            <h4 className="font-bold text-[#2E2E2E]">MSME Owner, Pune</h4>
                                             <p className="text-xs text-gray-400 uppercase tracking-widest font-bold">MSEFC Victory</p>
                                         </div>
                                         <div className="ml-auto text-yellow-400 text-sm flex gap-0.5">
@@ -494,7 +494,7 @@ export default function LoanArbitrationLawyerPage() {
                                     <div className="flex items-center mb-6">
                                         <div className="w-12 h-12 bg-blue-100 rounded-full flex items-center justify-center font-bold text-blue-600 mr-4">A</div>
                                         <div>
-                                            <h4 className="font-bold text-[#2E2E2E]">Doctor, Delhi</h4>
+                                            <h5 className="font-bold text-[#2E2E2E]">Doctor, Delhi</h5>
                                             <p className="text-xs text-gray-400 uppercase tracking-widest font-bold">Unilateral Appointment Defeated</p>
                                         </div>
                                         <div className="ml-auto text-yellow-400 text-sm flex gap-0.5">
@@ -512,7 +512,7 @@ export default function LoanArbitrationLawyerPage() {
                         </section>
 
                         <section id="faqs" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Frequently Asked Questions</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Frequently Asked Questions</h3>
                             <div className="space-y-4 not-prose">
                                 {jsonLd["@graph"] && jsonLd["@graph"][4] && (jsonLd["@graph"][4] as any).mainEntity && (jsonLd["@graph"][4] as any)?.mainEntity?.map((faq: any, i: number) => (
                                     <details key={i} className="group bg-white border border-[#DEDEDE] rounded-xl overflow-hidden hover:shadow-md transition-all border-b-4 border-b-[#1F5EFF]/20">
@@ -532,7 +532,7 @@ export default function LoanArbitrationLawyerPage() {
 
                         <div className="mt-24 p-12 bg-[#2E2E2E] rounded-[32px] text-center text-white shadow-2xl relative overflow-hidden">
                             <div className="absolute top-0 left-0 w-full h-1 bg-[#1F5EFF]"></div>
-                            <h2 className="text-3xl md:text-5xl font-black mb-6">Stop Unfair Arbitration Now</h2>
+                            <h3 className="text-3xl md:text-5xl font-black mb-6">Stop Unfair Arbitration Now</h3>
                             <p className="text-lg md:text-xl opacity-70 mb-10 max-w-2xl mx-auto leading-relaxed">
                                 An arbitration award is not the end. Whether you've just received a notice or an award has been passed, our legal defense team can help you find a way to settle and rebuild.
                             </p>

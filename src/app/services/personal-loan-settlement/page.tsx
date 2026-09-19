@@ -231,12 +231,12 @@ export default function PersonalLoanSettlementPage() {
 
           {/* Section 138 Warning */}
           <section className="mb-16">
-            <h3 className="text-2xl font-black text-[#2E2E2E] mb-6 flex items-center">
+            <h4 className="text-2xl font-black text-[#2E2E2E] mb-6 flex items-center">
               <span className="w-6 h-6 rounded-lg bg-red-100 text-red-600 flex items-center justify-center mr-3 text-sm">
                  <FontAwesomeIcon icon={faTriangleExclamation} className="w-3.5 h-3.5" />
               </span>
               The Critical Risk: Section 138
-            </h3>
+            </h4>
             <div className="bg-red-50 border-l-4 border-red-500 p-8 rounded-r-xl">
               <p className="mb-4 font-medium text-red-900 text-lg">
                 The biggest legal risk with defaulting on personal loans involves the security cheques or ECS/NACH mandates you signed during disbursement.
@@ -250,7 +250,7 @@ export default function PersonalLoanSettlementPage() {
             </div>
           </section>
 
-          <h2 id="arbitration-process" className="scroll-mt-32 text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Understanding Arbitration in Personal Loans</h2>
+          <h3 id="arbitration-process" className="scroll-mt-32 text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Understanding Arbitration in Personal Loans</h3>
           <p className="mb-6 text-lg leading-relaxed">
             Apart from Section 138, banks often initiate <strong>Arbitration Proceedings</strong> to recover dues. This is an alternative dispute resolution mechanism where an "impartial" arbitrator is appointed to pass an award.
           </p>
@@ -258,7 +258,7 @@ export default function PersonalLoanSettlementPage() {
             In theory, arbitration is meant to be fair. In practice, for many borrowers, it feels one-sided because the arbitrator is often nominated by the bank itself. You might receive a notice triggering the arbitration clause in your loan agreement. Ignoring this is a mistake. If you do not participate, an <em>ex-parte</em> award (a decision made in your absence) can be passed against you, which has the power of a court decree.
           </p>
           <div className="bg-blue-50 border border-blue-100 p-6 rounded-xl mb-8">
-            <h3 className="font-bold text-blue-900 mb-2">How We Handle Arbitration</h3>
+            <h4 className="font-bold text-blue-900 mb-2">How We Handle Arbitration</h4>
             <ul className="list-disc pl-5 space-y-2 text-blue-800">
               <li><strong>Representation:</strong> We help draft your defense statement to be submitted to the arbitrator.</li>
               <li><strong>Hardship Proof:</strong> We present evidence of your "Inability to Pay" vs "Instent to Avoid", distinguishing you from a willful defaulter.</li>
@@ -266,7 +266,7 @@ export default function PersonalLoanSettlementPage() {
             </ul>
           </div>
 
-           <h2 id="restructuring-vs-settlement" className="scroll-mt-32 text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Detailed Comparison: Loan Restructuring vs. Settlement</h2>
+           <h3 id="restructuring-vs-settlement" className="scroll-mt-32 text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Detailed Comparison: Loan Restructuring vs. Settlement</h3>
           <p className="mb-6 leading-relaxed">
             Many borrowers confuse "Restructuring" with "Settlement". It is vital to understand the difference before you commit to a strategy.
           </p>
@@ -305,7 +305,7 @@ export default function PersonalLoanSettlementPage() {
           </div>
 
 
-          <h2 id="settlement-vs-bankruptcy" className="scroll-mt-32 text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Debt Settlement vs. Bankruptcy (Insolvency)</h2>
+          <h3 id="settlement-vs-bankruptcy" className="scroll-mt-32 text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Debt Settlement vs. Bankruptcy (Insolvency)</h3>
           <p className="mb-6 leading-relaxed">
             In India, filing for Bankruptcy (Insolvency) is a legal process under the Insolvency and Bankruptcy Code (IBC). While it might seem like a way out, it is far more severe than settlement.
           </p>
@@ -343,7 +343,7 @@ export default function PersonalLoanSettlementPage() {
             </table>
           </div>
 
-          <h2 id="guarantors-impact" className="scroll-mt-32 text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Impact on Co-Applicants and Guarantors</h2>
+          <h3 id="guarantors-impact" className="scroll-mt-32 text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Impact on Co-Applicants and Guarantors</h3>
           <p className="mb-6 leading-relaxed">
             One of the most distressing aspects of personal loan defaults is the impact on your loved ones. If you had a co-applicant (like a spouse) or a guarantor (like a parent or friend) sign the loan with you, their liability is <strong>co-extensive</strong>.
           </p>
@@ -354,7 +354,7 @@ export default function PersonalLoanSettlementPage() {
             <strong>The SettleLoans Approach:</strong> When we negotiate your settlement, we explicitly include the discharge of the guarantor's liability in the terms. The final "No Dues Certificate" must mention that the guarantee is extinguished. Without this, the bank could settle with you but still harass your guarantor for the balance amount. We ensure this loophole is closed.
           </p>
 
-          <h2 id="psychological-toll" className="scroll-mt-32 text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">The Silent Crisis: Psychological Toll of Debt</h2>
+          <h3 id="psychological-toll" className="scroll-mt-32 text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">The Silent Crisis: Psychological Toll of Debt</h3>
           <p className="mb-6 leading-relaxed">
             In India, debt is often shrouded in shame. The cultural stigma attached to "borrowing money" or "defaulting" forces many into silence. This isolation creates a vicious cycle of anxiety, insomnia, and depression.
           </p>
@@ -380,7 +380,7 @@ export default function PersonalLoanSettlementPage() {
             Relief starts the moment you realize you have a professional team between you and the bank. Our clients often report a 70% reduction in stress levels within the first week of onboarding, simply because they no longer have to answer the recovery calls themselves.
           </p>
 
-          <h2 id="when-to-consider" className="scroll-mt-32 text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Is Settlement Right for Your Situation?</h2>
+          <h3 id="when-to-consider" className="scroll-mt-32 text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Is Settlement Right for Your Situation?</h3>
           <p className="mb-8 text-lg">
             Personal loan settlement is a strategic financial surgery. It removes the debt but leaves a scar (credit score impact). It is designed for those who have exhausted all other options.
           </p>
@@ -395,13 +395,13 @@ export default function PersonalLoanSettlementPage() {
                   <div className="text-2xl mb-4 text-[var(--color-primary)] group-hover:scale-110 transition-transform duration-300">
                     <FontAwesomeIcon icon={item.icon} className="w-12 h-12"/>
                   </div>
-                  <h3 className="font-bold text-[var(--color-text-hero)] text-lg mb-2">{item.title}</h3>
+                  <h4 className="font-bold text-[var(--color-text-hero)] text-lg mb-2">{item.title}</h4>
                   <p className="text-[var(--color-text-body)] opacity-70 text-sm leading-relaxed">{item.desc}</p>
                 </div>
               ))}
             </div>
 
-          <h2 id="the-process" className="scroll-mt-32 text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">The Negotiation Process: A Deep Dive</h2>
+          <h3 id="the-process" className="scroll-mt-32 text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">The Negotiation Process: A Deep Dive</h3>
           <p className="mb-8 leading-relaxed">
             How do we actually get a bank like HDFC, ICICI, or SBI to agree to a 50% waiver? It requires a blend of persistence, data, and banking knowledge.
           </p>
@@ -430,22 +430,22 @@ export default function PersonalLoanSettlementPage() {
               ].map((phase, i) => (
                 <div key={i} className="relative pl-8 md:pl-12">
                   <div className="absolute -left-[9px] md:-left-[11px] top-0 w-5 h-5 md:w-6 md:h-6 rounded-full bg-[var(--color-primary)] border-4 border-white shadow-sm z-10"></div>
-                  <h3 className="text-xl font-bold text-[var(--color-text-hero)] mb-2">Step {phase.step}: {phase.title}</h3>
+                  <h4 className="text-xl font-bold text-[var(--color-text-hero)] mb-2">Step {phase.step}: {phase.title}</h4>
                   <p className="text-[var(--color-text-body)] opacity-80 leading-relaxed text-base md:text-lg">{phase.content}</p>
                 </div>
               ))}
             </div>
 
-          <h2 id="scams-to-avoid" className="scroll-mt-32 text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Common Settlement Scams to Avoid</h2>
+          <h3 id="scams-to-avoid" className="scroll-mt-32 text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Common Settlement Scams to Avoid</h3>
           <p className="mb-6 leading-relaxed">
             The distress of debt makes borrowers vulnerable to fraud. Be extremely cautious of the following scams.
           </p>
           <div className="grid md:grid-cols-2 gap-6 mb-12">
             <div className="bg-red-50 p-6 rounded-xl border border-red-100">
-                <h3 className="font-bold text-red-800 text-xl mb-3 flex items-center">
+                <h4 className="font-bold text-red-800 text-xl mb-3 flex items-center">
                     <FontAwesomeIcon icon={faTriangleExclamation} className="mr-2 h-12 w-12" />
                     The "Fake Settlement Letter"
-                </h3>
+                </h4>
                 <p className="text-red-900/80 mb-4">
                     Fraudsters posing as bank agents will email you a settlement letter that looks authentic. They will ask you to deposit money into a specific UPI ID or a personal account to "close" the loan.
                 </p>
@@ -454,10 +454,10 @@ export default function PersonalLoanSettlementPage() {
                 </div>
             </div>
              <div className="bg-red-50 p-6 rounded-xl border border-red-100">
-                <h3 className="font-bold text-red-800 text-xl mb-3 flex items-center">
+                <h4 className="font-bold text-red-800 text-xl mb-3 flex items-center">
                     <FontAwesomeIcon icon={faTriangleExclamation} className="mr-2 h-12 w-12" />
                     The "CIBIL Repair" Agent
-                </h3>
+                </h4>
                 <p className="text-red-900/80 mb-4">
                     Scammers promise to "erase" your settlement history and restore your score to 750+ within 30 days for a fee.
                 </p>
@@ -467,13 +467,13 @@ export default function PersonalLoanSettlementPage() {
             </div>
           </div>
 
-          <h2 id="diy-vs-professional" className="scroll-mt-32 text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">DIY Settlement vs. Professional Service</h2>
+          <h3 id="diy-vs-professional" className="scroll-mt-32 text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">DIY Settlement vs. Professional Service</h3>
           <p className="mb-6 leading-relaxed">
             Can you settle a loan yourself? Yes. Should you? That depends on your negotiation skills and emotional resilience.
           </p>
            <div className="space-y-6 mb-12">
               <div className="bg-white p-6 rounded-xl border border-gray-200 shadow-sm">
-                <h3 className="text-xl font-bold text-[var(--color-text-hero)] mb-4">Option A: Do It Yourself (DIY)</h3>
+                <h4 className="text-xl font-bold text-[var(--color-text-hero)] mb-4">Option A: Do It Yourself (DIY)</h4>
                 <ul className="space-y-2 text-gray-700">
                   <li className="flex items-start"><span className="text-green-500 font-bold mr-2">✓</span> Save on service fees (10-15%).</li>
                   <li className="flex items-start"><span className="text-red-500 font-bold mr-2">✗</span> You handle all harassment calls personally.</li>
@@ -483,7 +483,7 @@ export default function PersonalLoanSettlementPage() {
               </div>
               <div className="bg-blue-50 p-6 rounded-xl border border-blue-100 shadow-sm relative overflow-hidden">
                  <div className="absolute top-0 right-0 w-24 h-24 bg-blue-100 rounded-bl-full -mr-10 -mt-10"></div>
-                <h3 className="text-xl font-bold text-blue-900 mb-4 relative z-10">Option B: Hiring SettleLoans</h3>
+                <h4 className="text-xl font-bold text-blue-900 mb-4 relative z-10">Option B: Hiring SettleLoans</h4>
                 <ul className="space-y-2 text-blue-800 relative z-10">
                   <li className="flex items-start"><span className="text-blue-600 font-bold mr-2">✓</span> <strong>Anti-Harassment Shield:</strong> We take the calls.</li>
                   <li className="flex items-start"><span className="text-blue-600 font-bold mr-2">✓</span> <strong>Legal Validity:</strong> We verify every clause in the settlement letter.</li>
@@ -493,7 +493,7 @@ export default function PersonalLoanSettlementPage() {
               </div>
             </div>
 
-          <h2 id="benefits-risks" className="scroll-mt-32 text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Pros & Cons: The Full Picture</h2>
+          <h3 id="benefits-risks" className="scroll-mt-32 text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Pros & Cons: The Full Picture</h3>
           <p className="mb-6">Understanding the trade-off is crucial. You are trading your credit score for your peace of mind and financial stability.</p>
            <div className="flex flex-col md:flex-row gap-8">
                <div className="flex-1">
@@ -528,29 +528,29 @@ export default function PersonalLoanSettlementPage() {
                </div>
              </div>
 
-          <h2 id="life-after-settlement" className="scroll-mt-32 text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Life After Settlement: Rebuilding Phase</h2>
+          <h3 id="life-after-settlement" className="scroll-mt-32 text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Life After Settlement: Rebuilding Phase</h3>
           <p className="mb-6 leading-relaxed">
             Settlement is not the end of your financial life. It is a reset button. Once the debt is gone, you can focus on rebuilding.
           </p>
           <div className="grid md:grid-cols-3 gap-6 mb-12">
              <div className="bg-white p-6 rounded-xl border border-gray-200 text-center">
                 <div className="w-12 h-12 bg-indigo-100 text-indigo-600 rounded-full flex items-center justify-center mx-auto mb-4 text-xl font-bold">1</div>
-                <h3 className="font-bold text-gray-800 mb-2">Wait 6 Months</h3>
+                <h4 className="font-bold text-gray-800 mb-2">Wait 6 Months</h4>
                 <p className="text-sm text-gray-600">Do not apply for any new credit immediately. Let the "Settled" status stabilize.</p>
              </div>
              <div className="bg-white p-6 rounded-xl border border-gray-200 text-center">
                 <div className="w-12 h-12 bg-indigo-100 text-indigo-600 rounded-full flex items-center justify-center mx-auto mb-4 text-xl font-bold">2</div>
-                <h4 className="font-bold text-gray-800 mb-2">Secured Card</h4>
+                <h5 className="font-bold text-gray-800 mb-2">Secured Card</h5>
                 <p className="text-sm text-gray-600">Get a credit card against a Fixed Deposit (FD). Use only 30% of the limit.</p>
              </div>
              <div className="bg-white p-6 rounded-xl border border-gray-200 text-center">
                 <div className="w-12 h-12 bg-indigo-100 text-indigo-600 rounded-full flex items-center justify-center mx-auto mb-4 text-xl font-bold">3</div>
-                <h4 className="font-bold text-gray-800 mb-2">Score Increase</h4>
+                <h5 className="font-bold text-gray-800 mb-2">Score Increase</h5>
                 <p className="text-sm text-gray-600">Pay your FD card bill in full for 12 months. Watch your score climb back to 750.</p>
              </div>
           </div>
 
-          <h2 id="reviews" className="scroll-mt-32 text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 text-center">Client Success Stories</h2>
+          <h3 id="reviews" className="scroll-mt-32 text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 text-center">Client Success Stories</h3>
           <div className="grid md:grid-cols-2 gap-6 not-prose">
             {[
               { 
@@ -585,7 +585,7 @@ export default function PersonalLoanSettlementPage() {
               <div key={i} className="bg-white p-6 rounded-2xl border border-[var(--color-border)] shadow-sm hover:shadow-md transition-all">
                 <div className="flex items-center mb-4">
                    <div className="w-10 h-10 rounded-full bg-[var(--color-section-light)] flex items-center justify-center font-bold text-[var(--color-primary)] mr-3">{review.name.charAt(0)}</div>
-                   <div><h3 className="font-bold text-[var(--color-text-hero)]">{review.name}</h3><p className="text-xs text-[var(--color-text-muted)]">{review.loc}</p></div>
+                   <div><h4 className="font-bold text-[var(--color-text-hero)]">{review.name}</h4><p className="text-xs text-[var(--color-text-muted)]">{review.loc}</p></div>
                    <div className="ml-auto text-yellow-400 text-sm flex gap-0.5">
                       <FontAwesomeIcon icon={faStar} className="w-3.5 h-3.5" />
                       <FontAwesomeIcon icon={faStar} className="w-3.5 h-3.5" />
@@ -610,12 +610,12 @@ export default function PersonalLoanSettlementPage() {
           </div>
 
 
-          <h2 id="tax-implications" className="scroll-mt-32 text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Tax Implications of Loan Waiver</h2>
+          <h3 id="tax-implications" className="scroll-mt-32 text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Tax Implications of Loan Waiver</h3>
           <p className="mb-6 leading-relaxed">
             One aspect rarely discussed is the tax angle. When a bank waives off a portion of your principal, they are essentially giving you "income" in the eyes of the taxman.
           </p>
           <div className="bg-yellow-50 border border-yellow-200 p-6 rounded-xl mb-12">
-            <h3 className="font-bold text-yellow-900 mb-2 text-lg">Section 41(1) of Income Tax Act</h3>
+            <h4 className="font-bold text-yellow-900 mb-2 text-lg">Section 41(1) of Income Tax Act</h4>
             <p className="text-yellow-900/80 mb-4 leading-relaxed">
                 If the waived amount is treated as a "benefit" arising from business or profession, it is taxable. However, for <strong>Personal Loans</strong> taken by salaried individuals for personal use (medical, wedding, travel), the waived amount is generally <strong>NOT taxable</strong> as per current legal interpretations, because it is a capital receipt, not a revenue receipt.
             </p>
@@ -626,14 +626,14 @@ export default function PersonalLoanSettlementPage() {
 
         
  
-          <h2 id="rbi-guidelines" className="scroll-mt-32 text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">RBI Guidelines: Know Your Rights</h2>
+          <h3 id="rbi-guidelines" className="scroll-mt-32 text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">RBI Guidelines: Know Your Rights</h3>
              <div className="bg-blue-50 border-l-4 border-blue-500 p-8 rounded-r-lg shadow-sm">
                <p className="mb-4 text-blue-900 font-medium text-lg">
                  The Reserve Bank of India has clear guidelines on "Fair Practices Code for Lenders". You are not a criminal for defaulting; you are a citizen with rights.
                </p>
                <div className="grid md:grid-cols-2 gap-6 mt-6">
                  <div>
-                    <h3 className="font-bold text-blue-800 mb-2">Do's for Recovery Agents</h3>
+                    <h4 className="font-bold text-blue-800 mb-2">Do's for Recovery Agents</h4>
                     <ul className="list-disc pl-5 space-y-2 text-blue-900/80 text-sm">
                         <li>Must identify themselves and the bank they represent.</li>
                         <li>Must respect your privacy and dignity.</li>
@@ -641,7 +641,7 @@ export default function PersonalLoanSettlementPage() {
                     </ul>
                  </div>
                  <div>
-                    <h4 className="font-bold text-blue-800 mb-2">Don'ts for Recovery Agents</h4>
+                    <h5 className="font-bold text-blue-800 mb-2">Don'ts for Recovery Agents</h5>
                     <ul className="list-disc pl-5 space-y-2 text-blue-900/80 text-sm">
                         <li>Cannot call your relatives, friends, or neighbors.</li>
                         <li>Cannot use abusive or threatening language.</li>
@@ -656,12 +656,12 @@ export default function PersonalLoanSettlementPage() {
                </div>
             </div>
 
-          <h2 id="bankruptcy-comparison" className="scroll-mt-32 text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Settlement vs. Bankruptcy: Which is Right for You?</h2>
+          <h3 id="bankruptcy-comparison" className="scroll-mt-32 text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Settlement vs. Bankruptcy: Which is Right for You?</h3>
           <p className="mb-6 leading-relaxed">
             For most individuals with unsecured debts (personal loans, credit cards), debt settlement is a far more practical and less severe option than bankruptcy.
           </p>
           <div className="bg-purple-50 border border-purple-200 p-6 rounded-xl mb-12">
-            <h3 className="font-bold text-purple-900 mb-2 text-lg">Key Differences</h3>
+            <h4 className="font-bold text-purple-900 mb-2 text-lg">Key Differences</h4>
             <ul className="list-disc pl-5 space-y-2 text-purple-900/80 mb-4 leading-relaxed">
                 <li><strong>Debt Settlement:</strong> Negotiates with creditors to pay a reduced amount. Less impact on credit score than bankruptcy, but still significant. No court involvement.</li>
                 <li><strong>Bankruptcy:</strong> A legal process to eliminate or repay debts under court supervision. Severe, long-lasting impact on credit (7-10 years). Can involve liquidation of assets.</li>
@@ -671,12 +671,12 @@ export default function PersonalLoanSettlementPage() {
             </p>
           </div>
 
-          <h2 id="scams-to-avoid" className="scroll-mt-32 text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Debt Settlement Scams: Stay Safe</h2>
+          <h3 id="scams-to-avoid" className="scroll-mt-32 text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Debt Settlement Scams: Stay Safe</h3>
           <p className="mb-6 leading-relaxed">
             The debt relief industry has its share of unscrupulous players. Be vigilant and protect yourself from fraudulent schemes.
           </p>
           <div className="bg-red-50 border border-red-200 p-6 rounded-xl mb-12">
-            <h3 className="font-bold text-red-900 mb-2 text-lg">Red Flags to Watch Out For</h3>
+            <h4 className="font-bold text-red-900 mb-2 text-lg">Red Flags to Watch Out For</h4>
             <ul className="list-disc pl-5 space-y-2 text-red-900/80 mb-4 leading-relaxed">
                 <li><strong>Guaranteed Results:</strong> No legitimate company can guarantee a specific settlement amount or outcome.</li>
                 <li><strong>Upfront Fees:</strong> Reputable companies typically charge fees only after a settlement is reached or a service is delivered.</li>
@@ -689,12 +689,12 @@ export default function PersonalLoanSettlementPage() {
             </p>
           </div>
 
-          <h2 id="diy-settlement" className="scroll-mt-32 text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">DIY Debt Settlement: Can You Do It Alone?</h2>
+          <h3 id="diy-settlement" className="scroll-mt-32 text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">DIY Debt Settlement: Can You Do It Alone?</h3>
           <p className="mb-6 leading-relaxed">
             While it's technically possible to negotiate with banks yourself, it's often an emotionally taxing and strategically challenging process.
           </p>
           <div className="bg-green-50 border border-green-200 p-6 rounded-xl mb-12">
-            <h3 className="font-bold text-green-900 mb-2 text-lg">Challenges of Self-Negotiation</h3>
+            <h4 className="font-bold text-green-900 mb-2 text-lg">Challenges of Self-Negotiation</h4>
             <ul className="list-disc pl-5 space-y-2 text-green-900/80 mb-4 leading-relaxed">
                 <li><strong>Emotional Toll:</strong> Dealing with aggressive recovery agents can be stressful and overwhelming.</li>
                 <li><strong>Lack of Expertise:</strong> Banks have experienced legal and recovery teams. You might lack the knowledge of RBI guidelines, legal nuances, and negotiation tactics.</li>
@@ -706,12 +706,12 @@ export default function PersonalLoanSettlementPage() {
             </p>
           </div>
 
-          <h2 id="credit-rebuilding" className="scroll-mt-32 text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Rebuilding Your Credit After Settlement</h2>
+          <h3 id="credit-rebuilding" className="scroll-mt-32 text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Rebuilding Your Credit After Settlement</h3>
           <p className="mb-6 leading-relaxed">
             A settled loan impacts your CIBIL score, but it's not a permanent black mark. You can strategically rebuild your creditworthiness over time.
           </p>
           <div className="bg-indigo-50 border border-indigo-200 p-6 rounded-xl mb-12">
-            <h3 className="font-bold text-indigo-900 mb-2 text-lg">Steps to Improve Your CIBIL Score</h3>
+            <h4 className="font-bold text-indigo-900 mb-2 text-lg">Steps to Improve Your CIBIL Score</h4>
             <ul className="list-disc pl-5 space-y-2 text-indigo-900/80 mb-4 leading-relaxed">
                 <li><strong>Secured Credit Cards:</strong> Apply for an FD-backed credit card. Use it responsibly and pay bills on time.</li>
                 <li><strong>Small Secured Loans:</strong> Consider a small loan against an asset (like gold or an FD) and ensure timely repayments.</li>
@@ -725,7 +725,7 @@ export default function PersonalLoanSettlementPage() {
           
           
 
-<h2 id="faqs" className="scroll-mt-32 text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Frequently Asked Questions</h2>
+<h3 id="faqs" className="scroll-mt-32 text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Frequently Asked Questions</h3>
           <div className="space-y-4 not-prose">
             {[
               { 
@@ -791,10 +791,10 @@ export default function PersonalLoanSettlementPage() {
             ))}
           </div>
           <div className="mt-20">
-            <h3 className="text-xl font-bold text-[var(--color-text-hero)] mb-6 border-b border-gray-200 pb-2">Popular Debt Relief Topics</h3>
+            <h4 className="text-xl font-bold text-[var(--color-text-hero)] mb-6 border-b border-gray-200 pb-2">Popular Debt Relief Topics</h4>
             <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4 text-sm text-[var(--color-text-muted)]">
               <div>
-                <h4 className="font-semibold text-gray-700 mb-2">Service Options</h4>
+                <h5 className="font-semibold text-gray-700 mb-2">Service Options</h5>
                 <ul className="space-y-1">
                   <li>Debt Settlement Companies</li>
                   <li>Debt Relief Programs</li>
@@ -804,7 +804,7 @@ export default function PersonalLoanSettlementPage() {
                 </ul>
               </div>
               <div>
-                <h4 className="font-semibold text-gray-700 mb-2">Financial Solutions</h4>
+                <h5 className="font-semibold text-gray-700 mb-2">Financial Solutions</h5>
                 <ul className="space-y-1">
                   <li>Debt Consolidation vs Settlement</li>
                   <li>Unsecured Loan Settlement</li>
@@ -814,7 +814,7 @@ export default function PersonalLoanSettlementPage() {
                 </ul>
               </div>
               <div>
-                 <h4 className="font-semibold text-gray-700 mb-2">Related Queries</h4>
+                 <h5 className="font-semibold text-gray-700 mb-2">Related Queries</h5>
                 <ul className="space-y-1">
                   <li>Government help for debt (Clarification)</li>
                   <li>Legitimate settlement companies</li>
@@ -833,7 +833,7 @@ export default function PersonalLoanSettlementPage() {
           <div className="lg:hidden mt-16 mb-8">
             <div className="bg-[#2E2E2E] rounded-2xl shadow-xl overflow-hidden border border-[#DEDEDE]/10">
               <div className="bg-[#1F5EFF] p-4 text-center">
-                <h3 className="text-lg font-black text-white">Get a Free Estimate</h3>
+                <h4 className="text-lg font-black text-white">Get a Free Estimate</h4>
               </div>
               <div className="p-6 text-center">
                 <p className="mb-6 text-sm text-[#DEDEDE] opacity-80 leading-relaxed font-bold">

@@ -287,7 +287,7 @@ export default function CibilImpactPage() {
                                 While a settlement provides immediate relief from the crushing pressure of monthly EMIs and aggressive recovery calls, it comes at a high price. The mark "Settled" on a credit report is often viewed by traditional banks as a sign of high risk. It suggests that while you did pay back some money, the bank had to take a loss on your account. This guide explores the depth of that impact and, more importantly, provides a blueprint for how you can navigate the years following a settlement.
                             </p>
                             <div className="bg-blue-50 p-8 rounded-2xl border-l-4 border-blue-500 mb-8">
-                                <h3 className="text-lg font-bold text-blue-900 mb-4 uppercase tracking-wide">The Fundamental Distinction</h3>
+                                <h4 className="text-lg font-bold text-blue-900 mb-4 uppercase tracking-wide">The Fundamental Distinction</h4>
                                 <p className="text-blue-800">
                                     There is a massive difference between a loan that is "Closed" and one that is "Settled". A closed loan is a badge of honor; a settled loan is a mark of compromise. Both stop the recovery process, but only one preserves your ability to borrow money at low interest rates in the future.
                                 </p>
@@ -298,19 +298,19 @@ export default function CibilImpactPage() {
                         </section>
 
                         <section id="score-mechanics" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                                 Mechanics of the Score Drop: Why 150 Points?
-                            </h2>
+                            </h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 When a bank tells CIBIL that an account has been settled, the credit scoring algorithm triggers a significant negative adjustment. For most borrowers, this results in an immediate drop of 75 to 150 points. If your score was 750 (Excellent), it could instantly crash to 600 or below.
                             </p>
                             <div className="grid md:grid-cols-2 gap-6 mb-8">
                                 <div className="bg-white p-6 rounded-xl border border-gray-200 shadow-sm">
-                                    <h3 className="font-bold text-lg mb-3 text-gray-900">Contractual Failure</h3>
+                                    <h4 className="font-bold text-lg mb-3 text-gray-900">Contractual Failure</h4>
                                     <p className="text-gray-700 text-sm">CIBIL tracks your ability to follow contracts. A settlement is a formal admission that you broke the original contract. The algorithm penalizes this heavily as it predicts future non-payment.</p>
                                 </div>
                                 <div className="bg-white p-6 rounded-xl border border-gray-200 shadow-sm">
-                                    <h4 className="font-bold text-xl mb-3 text-gray-900">Lender Loss Disclosure</h4>
+                                    <h5 className="font-bold text-xl mb-3 text-gray-900">Lender Loss Disclosure</h5>
                                     <p className="text-gray-700 text-sm">When a bank waives interest or principal, they report the 'Balance Amount' as written off. This 'amount written off' field is a massive red flag for any new lender's automated systems.</p>
                                 </div>
                             </div>
@@ -323,14 +323,14 @@ export default function CibilImpactPage() {
                         </section>
 
                         <section id="reporting-standards" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                                 CIBIL Reporting Standards: The 'Nitty-Gritty'
-                            </h2>
+                            </h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 To truly grasp how does settling a loan impact my CIBIL credit score, you must understand the specific fields in your credit report. CIBIL does not just show a score; it shows a detailed history of every rupee you owe.
                             </p>
                             <div className="bg-gray-50 p-8 rounded-2xl mb-8">
-                                <h3 className="text-lg font-bold mb-4">Key Fields to Monitor:</h3>
+                                <h4 className="text-lg font-bold mb-4">Key Fields to Monitor:</h4>
                                 <ul className="space-y-4">
                                     <li className="flex items-start">
                                         <span className="text-[var(--color-primary)] font-bold mr-3">01.</span>
@@ -352,9 +352,9 @@ export default function CibilImpactPage() {
                         </section>
 
                         <section id="closed-vs-settled" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                                 Closed vs. Settled: The Million Rupee Difference
-                            </h2>
+                            </h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 We cannot emphasize this enough: if you have the means, always aim for a full closure. A 'Closed' status on your CIBIL report acts like a booster. It proves that even in hard times, you fulfilled your word.
                             </p>
@@ -367,7 +367,7 @@ export default function CibilImpactPage() {
                                         </div>
                                     </div>
                                     <div className="md:w-2/3 p-8">
-                                        <h3 className="text-xl font-bold text-gray-900 mb-4">Positive Reinforcement</h3>
+                                        <h4 className="text-xl font-bold text-gray-900 mb-4">Positive Reinforcement</h4>
                                         <p className="text-gray-700 leading-relaxed text-sm">
                                             A closed status means the bank received every penny. Your score recovers almost instantly after the reporting cycle. You become eligible for premium credit cards and home loans at the lowest possible rates.
                                         </p>
@@ -383,7 +383,7 @@ export default function CibilImpactPage() {
                                         </div>
                                     </div>
                                     <div className="md:w-2/3 p-8">
-                                        <h4 className="text-xl font-bold text-gray-900 mb-4">Risk Warning</h4>
+                                        <h5 className="text-xl font-bold text-gray-900 mb-4">Risk Warning</h5>
                                         <p className="text-gray-700 leading-relaxed text-sm">
                                             A settled status indicates a loss for the lender. It freezes your credit growth for years. While it is better than a default, it is a significant step back in your financial journey.
                                         </p>
@@ -396,14 +396,14 @@ export default function CibilImpactPage() {
                         </section>
 
                         <section id="seven-year-rule" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                                 The 7-Year Rule: Understanding the Timeline
-                            </h2>
+                            </h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 Credit reporting agencies in India, including CIBIL, Equifax, and Experian, follow a general rule: negative information stays on the report for seven years. This is a long time in a human life. It means that a mistake you make today at age 25 will still be visible when you are 32 and perhaps trying to buy your first home.
                             </p>
                             <div className="bg-orange-50 p-8 rounded-2xl border border-orange-200 mb-8">
-                                <h3 className="text-lg font-bold text-orange-950 mb-4 italic">Important Caveat: Diminishing Impact</h3>
+                                <h4 className="text-lg font-bold text-orange-950 mb-4 italic">Important Caveat: Diminishing Impact</h4>
                                 <p className="text-orange-900 leading-relaxed font-medium">
                                     While the mark stays for 7 years, its impact is not constant. A 5 year old settlement is much less damaging than a 5 month old one. As you build a fresh history of on-time payments, the CIBIL algorithm starts prioritizing your 'recent' behavior over your 'toxic' past.
                                 </p>
@@ -414,9 +414,9 @@ export default function CibilImpactPage() {
                         </section>
 
                         <section id="future-lending" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                                 Future Loan Eligibility: What Can You Get?
-                            </h2>
+                            </h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 If you have a settled loan, you are not permanently banned from borrowing, but you are redirected to different types of credit. Traditional large banks like HDFC, ICICI, or SBI have automated filters. If their system sees 'Settled', the application is often rejected within seconds.
                             </p>
@@ -431,7 +431,7 @@ export default function CibilImpactPage() {
                                     <div key={idx} className="flex gap-4 p-5 rounded-2xl bg-gray-50 border border-gray-100">
                                         <div className="flex-shrink-0 w-8 h-8 rounded-full bg-blue-100 text-blue-600 flex items-center justify-center font-bold">{idx + 1}</div>
                                         <div>
-                                            <h3 className="font-bold text-gray-900">{item.t}</h3>
+                                            <h4 className="font-bold text-gray-900">{item.t}</h4>
                                             <p className="text-sm text-gray-600">{item.d}</p>
                                         </div>
                                     </div>
@@ -440,9 +440,9 @@ export default function CibilImpactPage() {
                         </section>
 
                         <section id="rebuilding-phase-1" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                                 Rebuilding Phase 1: The Stabilization Period (0-12 Months)
-                            </h2>
+                            </h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 The first year after a settlement is about proving stability. Your goal is not to get new credit line but to ensure your bank statements look clean. Lenders look at more than just the score; they look at your financial discipline.
                             </p>
@@ -450,27 +450,27 @@ export default function CibilImpactPage() {
                                 During this year, ensure you have zero bounces in your bank account. Even a single 500 rupee bounce for an insurance premium or utility bill can be fatal for a recovering CIBIL report. Keep a consistent Average Monthly Balance (AMB). If a bank sees that you have 50,000 rupees sitting in your account every month, they start believing that your hardship is truly over.
                             </p>
                             <div className="bg-white p-6 rounded-xl border border-gray-200 shadow-sm mb-8">
-                                <h3 className="font-bold text-lg mb-3">The 'Dispute' Check</h3>
+                                <h4 className="font-bold text-lg mb-3">The 'Dispute' Check</h4>
                                 <p className="text-gray-700 text-sm">Wait for 60 days after your settlement payment. Download your CIBIL report. If the bank has not updated the status, do not wait. File a formal dispute on the CIBIL website and send the settlement letter and payment proof to the bank's Nodal Officer. This is the only way to ensure your 'recovery clock' starts ticking.</p>
                             </div>
                         </section>
 
                         <section id="rebuilding-phase-2" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                                 Rebuilding Phase 2: Active Recovery (12-36 Months)
-                            </h2>
+                            </h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 Once you have a year of stability, you can start 'active growth'. This requires creating new, positive credit entries to dilute the negative impact of the old settlement.
                             </p>
                             <div className="bg-[var(--color-section-light)] p-8 rounded-2xl border border-[var(--color-border)] mb-8">
-                                <h3 className="text-xl font-bold text-[var(--color-text-hero)] mb-6">Strategy: The Secured Card Loop</h3>
+                                <h4 className="text-xl font-bold text-[var(--color-text-hero)] mb-6">Strategy: The Secured Card Loop</h4>
                                 <div className="grid md:grid-cols-2 gap-8">
                                     <div className="p-4 bg-white rounded-xl shadow-sm">
-                                        <h4 className="font-bold mb-2">How it Works</h4>
+                                        <h5 className="font-bold mb-2">How it Works</h5>
                                         <p className="text-xs text-gray-600">Open a Fixed Deposit of ₹20,000. The bank gives you a credit card with an ₹18,000 limit. This is 100% guaranteed, even with a 500 CIBIL score.</p>
                                     </div>
                                     <div className="p-4 bg-white rounded-xl shadow-sm">
-                                        <h5 className="font-bold mb-2">The Golden Rule</h5>
+                                        <h6 className="font-bold mb-2">The Golden Rule</h6>
                                         <p className="text-xs text-gray-600">Use only ₹2,000 per month (10% utilization). Pay it back 2 days before the due date. This generates a 'Paid on Time' report every month.</p>
                                     </div>
                                 </div>
@@ -481,9 +481,9 @@ export default function CibilImpactPage() {
                         </section>
 
                         <section id="rebuilding-phase-3" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                                 Rebuilding Phase 3: The Long Road (3-7 Years)
-                            </h2>
+                            </h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 By year three, if you have followed the stabilization and active recovery steps, your CIBIL score should be back in the 700s. However, the 'Settled' remark is still there. This is the time to start looking at 'Asset-Backed' credit to further strengthen your profile.
                             </p>
@@ -493,9 +493,9 @@ export default function CibilImpactPage() {
                         </section>
 
                         <section id="ots-and-cibil" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                                 OTS Schemes: Are They Different?
-                            </h2>
+                            </h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 Many public sector banks like SBI or PNB launch periodic "One Time Settlement" (OTS) schemes. Borrowers often ask if these schemes have a different impact on CIBIL. The answer is generally no. Whether you settle through a mass-OTS scheme or an individual negotiation, the reporting to CIBIL remains the same: 'Settled'.
                             </p>
@@ -505,36 +505,36 @@ export default function CibilImpactPage() {
                         </section>
 
                         <section id="legal-aspects" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                                 Your Legal Rights Regarding Credit Reporting
-                            </h2>
+                            </h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 The Credit Information Companies (Regulation) Act, 2005 (CIC Act) provides you with specific rights that many banks try to ignore. Knowing these can help you manage how does settling a loan impact my CIBIL credit score effectively.
                             </p>
                             <div className="grid sm:grid-cols-2 gap-4 mb-8">
                                 <div className="p-4 bg-white border border-gray-100 rounded-xl shadow-sm">
-                                    <h3 className="font-bold text-gray-800 mb-2">Right to Accuracy</h3>
+                                    <h4 className="font-bold text-gray-800 mb-2">Right to Accuracy</h4>
                                     <p className="text-xs text-gray-600">Banks must report accurate data. if you paid on June 15th, they cannot report 'Date of Settlement' as December. This matters for your 7 year timeline.</p>
                                 </div>
                                 <div className="p-4 bg-white border border-gray-100 rounded-xl shadow-sm">
-                                    <h4 className="font-bold text-gray-800 mb-2">Right to Notification</h4>
+                                    <h5 className="font-bold text-gray-800 mb-2">Right to Notification</h5>
                                     <p className="text-xs text-gray-600">Banks should ideally notify you before reporting negative data, although this is rarely followed in practice for settlements.</p>
                                 </div>
                                 <div className="p-4 bg-white border border-gray-100 rounded-xl shadow-sm">
-                                    <h5 className="font-bold text-gray-800 mb-2">Right to Dispute</h5>
+                                    <h6 className="font-bold text-gray-800 mb-2">Right to Dispute</h6>
                                     <p className="text-xs text-gray-600">CIBIL must investigate any dispute you raise within 30 days. If the bank does not verify the data, CIBIL must remove the entry.</p>
                                 </div>
                                 <div className="p-4 bg-white border border-gray-100 rounded-xl shadow-sm">
-                                    <h5 className="font-bold text-gray-800 mb-2">Fair Reporting</h5>
+                                    <h6 className="font-bold text-gray-800 mb-2">Fair Reporting</h6>
                                     <p className="text-xs text-gray-600">Lenders cannot use the threat of CIBIL reporting as a tool for harassment. It is a reporting duty, not a punishment mechanism.</p>
                                 </div>
                             </div>
                         </section>
 
                         <section id="expert-strategies" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                                 Expert Recovery Strategies: Pro-Tips
-                            </h2>
+                            </h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 Beyond the basics of secured credit cards, professional credit repair experts use advanced tactics to help borrowers. One such tactic is 'Account Aggregation'. By using the new Account Aggregator framework, you can show lenders your real-time cash flow and investments (like Mutual Funds or LIC policies) which might not be reflected in your CIBIL score.
                             </p>
@@ -544,7 +544,7 @@ export default function CibilImpactPage() {
                         </section>
 
                         <section id="faqs" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 text-center">CIBIL Recovery FAQs</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 text-center">CIBIL Recovery FAQs</h3>
                             <div className="space-y-4 not-prose">
                                 {
                                     [
@@ -604,7 +604,7 @@ export default function CibilImpactPage() {
                             </div>
                         </section>
 
-                        <h2 id="success-stories" className="scroll-mt-32 text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 text-center">CIBIL Recovery Success Stories</h2>
+                        <h3 id="success-stories" className="scroll-mt-32 text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 text-center">CIBIL Recovery Success Stories</h3>
                         <div className="grid md:grid-cols-2 gap-6 not-prose mb-16">
                             {[
                                 {
@@ -639,7 +639,7 @@ export default function CibilImpactPage() {
                                 <div key={i} className="bg-white p-6 rounded-2xl border border-[var(--color-border)] shadow-sm hover:shadow-md transition-all">
                                     <div className="flex items-center mb-4">
                                         <div className="w-10 h-10 rounded-full bg-[#1F5EFF]/10 flex items-center justify-center font-bold text-[#1F5EFF] mr-3">{review.name.charAt(0)}</div>
-                                        <div><h3 className="font-bold text-[#2E2E2E]">{review.name}</h3><p className="text-xs text-gray-400">{review.loc}</p></div>
+                                        <div><h4 className="font-bold text-[#2E2E2E]">{review.name}</h4><p className="text-xs text-gray-400">{review.loc}</p></div>
                                         <div className="ml-auto text-yellow-400 text-sm flex gap-0.5">
                                             <FontAwesomeIcon icon={faStar} className="w-3.5 h-3.5" />
                                             <FontAwesomeIcon icon={faStar} className="w-3.5 h-3.5" />
@@ -671,7 +671,7 @@ export default function CibilImpactPage() {
                         <section className="bg-[#1F5EFF] rounded-[10px] p-8 md:p-12 text-center text-white relative overflow-hidden shadow-2xl">
                             <div className="absolute top-0 right-0 w-64 h-64 bg-white/10 rounded-full -mr-32 -mt-32"></div>
                             <div className="relative z-10">
-                                <h2 className="text-3xl md:text-5xl font-black mb-6 uppercase tracking-tighter text-[#DEDEDE]">Fix Your Financial Future?</h2>
+                                <h3 className="text-3xl md:text-5xl font-black mb-6 uppercase tracking-tighter text-[#DEDEDE]">Fix Your Financial Future?</h3>
                                 <p className="text-lg md:text-2xl opacity-90 max-w-2xl mx-auto mb-10 leading-tight font-normal text-[#DEDEDE]">
                                     Don't let a "Settled" mark haunt you for seven years. Get our expert CIBIL recovery roadmap today.
                                 </p>

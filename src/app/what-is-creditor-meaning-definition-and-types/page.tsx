@@ -262,15 +262,15 @@ export default function CreditorMeaningPage() {
             </section>
 
             <section id="types-of-creditors-banking" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 Types of Creditors in Banking
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 In the banking and financial sector, your lender's power to force you to pay heavily depends on their classification. 
               </p>
 
               <div className="bg-blue-50 border-l-8 border-[#1F5EFF] p-8 rounded-r-2xl mb-8">
-                <h3 className="text-xl font-black text-[#1F5EFF] mb-4">Why Classification Matters</h3>
+                <h4 className="text-xl font-black text-[#1F5EFF] mb-4">Why Classification Matters</h4>
                 <p className="text-blue-900 text-lg leading-relaxed mb-4">
                   Banks will often threaten borrowers with severe consequences, but their actual legal power is limited by their creditor status.
                 </p>
@@ -292,16 +292,16 @@ export default function CreditorMeaningPage() {
             </section>
 
             <section id="secured-vs-unsecured" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 Secured vs Unsecured Creditor
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 This is the most critical distinction for retail borrowers dealing with personal loans, credit cards, and home loans.
               </p>
 
               <div className="grid md:grid-cols-2 gap-6 my-8">
                 <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
-                  <h3 className="font-black text-[#1F5EFF] text-lg mb-3">Secured Creditor</h3>
+                  <h4 className="font-black text-[#1F5EFF] text-lg mb-3">Secured Creditor</h4>
                   <p className="text-gray-700 leading-relaxed">
                     A secured creditor has a legal charge or "lien" over a specific asset (collateral) owned by the borrower. 
                     <br/><br/>
@@ -310,7 +310,7 @@ export default function CreditorMeaningPage() {
                   </p>
                 </div>
                 <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
-                  <h4 className="font-black text-[#1F5EFF] text-lg mb-3">Unsecured Creditor</h4>
+                  <h5 className="font-black text-[#1F5EFF] text-lg mb-3">Unsecured Creditor</h5>
                   <p className="text-gray-700 leading-relaxed">
                     An unsecured creditor has no collateral backing their loan. They lent money purely based on your credit score and income profile.
                     <br/><br/>
@@ -328,9 +328,9 @@ export default function CreditorMeaningPage() {
             </section>
 
             <section id="drt-role" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 The Role of Debt Recovery Tribunals (DRT)
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 When dealing with banking creditors, you will frequently hear the term "DRT" (Debt Recovery Tribunal). The DRT was established to facilitate the speedy recovery of debt payable to banks and financial institutions. However, not all creditors can drag you to the DRT.
               </p>
@@ -348,9 +348,9 @@ export default function CreditorMeaningPage() {
             </section>
 
             <section id="financial-vs-operational" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 Financial vs Operational Creditor (IBC)
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 If you run a company or MSME, you must understand how creditors are classified under the Insolvency and Bankruptcy Code (IBC). When a company defaults, its creditors can drag it to the NCLT to initiate Corporate Insolvency Resolution Process (CIRP).
               </p>
@@ -359,7 +359,7 @@ export default function CreditorMeaningPage() {
                 <div className="flex gap-6">
                   <div className="flex-shrink-0 w-12 h-12 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center font-black text-xl shadow-lg">1</div>
                   <div>
-                    <h3 className="text-2xl font-bold text-[#2E2E2E] mb-2">Financial Creditor</h3>
+                    <h4 className="text-2xl font-bold text-[#2E2E2E] mb-2">Financial Creditor</h4>
                     <p className="text-lg text-gray-700 leading-relaxed mb-3">
                       A financial creditor is an entity to whom a "financial debt" is owed. This means money was disbursed against the consideration for the time value of money (interest).
                     </p>
@@ -373,7 +373,7 @@ export default function CreditorMeaningPage() {
                 <div className="flex gap-6">
                   <div className="flex-shrink-0 w-12 h-12 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center font-black text-xl shadow-lg">2</div>
                   <div>
-                    <h3 className="text-2xl font-bold text-[#2E2E2E] mb-2">Operational Creditor</h3>
+                    <h4 className="text-2xl font-bold text-[#2E2E2E] mb-2">Operational Creditor</h4>
                     <p className="text-lg text-gray-700 leading-relaxed mb-3">
                       An operational creditor is a person to whom an "operational debt" is owed, arising out of the provision of goods, services, employment, or government dues.
                     </p>
@@ -387,9 +387,9 @@ export default function CreditorMeaningPage() {
             </section>
 
             <section id="protecting-assets" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 How to Protect Assets from Secured Creditors
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 A secured creditor has immense power, but that power is highly regulated by the RBI and the SARFAESI Act. If you are facing property attachment, you must act fast. Delaying your response gives the secured creditor a massive legal advantage.
               </p>
@@ -398,7 +398,7 @@ export default function CreditorMeaningPage() {
                 <div className="flex gap-6">
                   <div className="flex-shrink-0 w-12 h-12 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center font-black text-xl shadow-lg">1</div>
                   <div>
-                    <h3 className="text-2xl font-bold text-[#2E2E2E] mb-2">Reply to the 13(2) Notice</h3>
+                    <h4 className="text-2xl font-bold text-[#2E2E2E] mb-2">Reply to the 13(2) Notice</h4>
                     <p className="text-lg text-gray-700 leading-relaxed">
                       When an account becomes an NPA (Non-Performing Asset), the secured creditor will send a demand notice under Section 13(2) of the SARFAESI Act, giving you 60 days to clear the dues. <strong>Do not ignore this.</strong> You must send a legal objection within these 60 days challenging the loan math, illegal charges, or seeking time. The bank is legally mandated to reply to your objection within 15 days.
                     </p>
@@ -408,7 +408,7 @@ export default function CreditorMeaningPage() {
                 <div className="flex gap-6">
                   <div className="flex-shrink-0 w-12 h-12 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center font-black text-xl shadow-lg">2</div>
                   <div>
-                    <h3 className="text-2xl font-bold text-[#2E2E2E] mb-2">Negotiate an OTS Before Possession</h3>
+                    <h4 className="text-2xl font-bold text-[#2E2E2E] mb-2">Negotiate an OTS Before Possession</h4>
                     <p className="text-lg text-gray-700 leading-relaxed">
                       Secured creditors prefer cash over real estate. Taking possession of a property, arranging security guards, publishing auction notices, and fighting DRT stay orders is expensive and tedious for banks. Negotiating a One Time Settlement (OTS) before they issue a symbolic possession notice (Section 13(4)) is usually your best window to save the asset.
                     </p>
@@ -418,7 +418,7 @@ export default function CreditorMeaningPage() {
                 <div className="flex gap-6">
                   <div className="flex-shrink-0 w-12 h-12 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center font-black text-xl shadow-lg">3</div>
                   <div>
-                    <h3 className="text-2xl font-bold text-[#2E2E2E] mb-2">File for a Stay Order in DRT</h3>
+                    <h4 className="text-2xl font-bold text-[#2E2E2E] mb-2">File for a Stay Order in DRT</h4>
                     <p className="text-lg text-gray-700 leading-relaxed">
                       If the secured creditor rejects your OTS and proceeds with physical possession via the District Magistrate, your only legal recourse is to hire a DRT lawyer and file a Securitization Application (SA) to obtain an interim stay order, halting the auction process.
                     </p>
@@ -428,15 +428,15 @@ export default function CreditorMeaningPage() {
             </section>
 
             <section id="guarantors-liability" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 Guarantor's Liability to a Creditor
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 Many individuals become "creditor victims" without ever utilizing the loan money themselves. This happens when you sign as a co-borrower or a legal guarantor for a friend, family member, or a company's loan.
               </p>
 
               <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE] mb-8">
-                <h3 className="font-black text-[#1F5EFF] text-lg mb-3">Co-extensive Liability Explained</h3>
+                <h4 className="font-black text-[#1F5EFF] text-lg mb-3">Co-extensive Liability Explained</h4>
                 <p className="text-gray-700 leading-relaxed">
                   Under the Indian Contract Act, the liability of a guarantor is co-extensive with that of the principal debtor. This means if your friend defaults on a car loan and vanishes, the creditor (the bank) has the full legal right to recover 100% of the pending amount directly from you. 
                   <br/><br/>
@@ -446,15 +446,15 @@ export default function CreditorMeaningPage() {
             </section>
             
             <section id="dealing-with-creditors" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 How to Deal with Your Creditors
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 When you default, banks use psychological warfare. They deliberately blur the lines between different types of creditors to scare you into paying.
               </p>
               
               <div className="bg-red-50 p-6 rounded-xl border border-red-100 mb-8">
-                <h3 className="text-xl font-black text-red-700 mb-3">Beware of Empty Threats</h3>
+                <h4 className="text-xl font-black text-red-700 mb-3">Beware of Empty Threats</h4>
                 <p className="text-red-900 leading-relaxed mb-4">
                   Recovery agents for unsecured personal loans often threaten to "seize your house by tomorrow" or "send the police to arrest you." This is legally impossible.
                 </p>
@@ -467,9 +467,9 @@ export default function CreditorMeaningPage() {
             </section>
 
             <section id="success-stories" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 Client Success Stories
-              </h2>
+              </h3>
               <div className="grid md:grid-cols-2 gap-6 my-8">
                 
                 <div className="bg-white p-8 rounded-[30px] border border-[#DEDEDE] shadow-sm hover:shadow-xl group transition-all">
@@ -478,7 +478,7 @@ export default function CreditorMeaningPage() {
                       RM
                     </div>
                     <div>
-                      <h3 className="font-bold text-gray-900">Rajesh M.</h3>
+                      <h4 className="font-bold text-gray-900">Rajesh M.</h4>
                       <div className="flex text-yellow-400">
                         <svg className="w-4 h-4 fill-current" viewBox="0 0 20 20"><path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z"/></svg>
                         <svg className="w-4 h-4 fill-current" viewBox="0 0 20 20"><path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z"/></svg>
@@ -503,7 +503,7 @@ export default function CreditorMeaningPage() {
                       VS
                     </div>
                     <div>
-                      <h4 className="font-bold text-gray-900">Vikram S.</h4>
+                      <h5 className="font-bold text-gray-900">Vikram S.</h5>
                       <div className="flex text-yellow-400">
                         <svg className="w-4 h-4 fill-current" viewBox="0 0 20 20"><path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z"/></svg>
                         <svg className="w-4 h-4 fill-current" viewBox="0 0 20 20"><path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z"/></svg>
@@ -526,13 +526,13 @@ export default function CreditorMeaningPage() {
             </section>
 
             <section id="faqs" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 Frequently Asked Questions
-              </h2>
+              </h3>
               <div className="space-y-4">
                 {jsonLd["@graph"].find(item => item["@type"] === "FAQPage")?.mainEntity?.map((faq: any, index: number) => (
                   <div key={index} className="bg-white border border-[#DEDEDE] rounded-xl p-6 hover:shadow-md transition-shadow">
-                    <h3 className="text-xl font-bold text-[#2E2E2E] mb-3">{faq.name}</h3>
+                    <h4 className="text-xl font-bold text-[#2E2E2E] mb-3">{faq.name}</h4>
                     <p className="text-gray-700 leading-relaxed">{faq.acceptedAnswer.text}</p>
                   </div>
                 ))}
@@ -541,7 +541,7 @@ export default function CreditorMeaningPage() {
 
             <div className="bg-[#2E2E2E] text-white p-12 rounded-[40px] text-center mt-24 relative overflow-hidden group">
               <div className="absolute inset-0 bg-[#1F5EFF] opacity-0 group-hover:opacity-5 transition-opacity"></div>
-              <h3 className="text-3xl font-black mb-6 relative z-10">Stop Creditor Harassment Today</h3>
+              <h4 className="text-3xl font-black mb-6 relative z-10">Stop Creditor Harassment Today</h4>
               <p className="text-xl opacity-90 mb-8 relative z-10 max-w-2xl mx-auto">
                 Are you facing legal threats from a secured or unsecured creditor? Let our expert legal team analyze your creditor's status and negotiate a settlement that protects your assets.
               </p>

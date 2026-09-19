@@ -592,9 +592,9 @@ export default function PayULazyPayLoanSettlementPage() {
                 <Clock className="w-4 h-4" />
                 <span>2. Delinquency Timeline &amp; NPA Stages</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 Delinquency Lifecycle: From Overdue DPD to NPA Write-Off
-              </h2>
+              </h3>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Under RBI Prudential Norms (IRACP) and Ind AS 109, PayU Finance classifies overdue accounts across strict Days Past Due (DPD) aging buckets. Early delinquency (1 to 60 DPD) triggers automated reminders. Once non-payment crosses 90 days, the debt becomes a Non-Performing Asset (NPA), freezing interest recognition and requiring capital provisioning.
               </p>
@@ -662,9 +662,9 @@ export default function PayULazyPayLoanSettlementPage() {
                 <Banknote className="w-4 h-4" />
                 <span>3. Halting Penal Fees &amp; e-Mandates</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 Halting Penal Interest, Hidden Fees &amp; e-NACH Presentations
-              </h2>
+              </h3>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Automated e-NACH mandate sweeps represent a severe financial burden. PayU Finance&apos;s gateway often resubmits debits multiple times monthly. Each failed sweep triggers bank return penalties of ₹250 to ₹590 alongside internal NBFC late charges.
               </p>
@@ -679,9 +679,9 @@ export default function PayULazyPayLoanSettlementPage() {
                 <Calculator className="w-4 h-4" />
                 <span>4. OTS Haircuts &amp; Valuation Matrix</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 LazyPay OTS Haircut Framework &amp; Mathematical Recovery NPV
-              </h2>
+              </h3>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 PayU Finance assesses compromise proposals using Net Present Value (NPV) recovery modeling under RBI Master Directions. Because unsecured credit lines lack physical collateral, the lender weighs immediate cash settlement against protracted civil litigation over three to five years, deducting advocate costs and provisioning drag.
               </p>
@@ -701,7 +701,7 @@ export default function PayULazyPayLoanSettlementPage() {
               </div>
 
               {/* Settlement Haircut Slabs Table */}
-              <h3 className="text-lg font-bold text-slate-900 mb-3">Realistic PayU LazyPay Settlement Haircut Slabs by Product &amp; Aging</h3>
+              <h4 className="text-lg font-bold text-slate-900 mb-3">Realistic PayU LazyPay Settlement Haircut Slabs by Product &amp; Aging</h4>
               <div className="overflow-x-auto my-4">
                 <table className="min-w-full bg-white">
                   <thead>
@@ -808,9 +808,9 @@ export default function PayULazyPayLoanSettlementPage() {
                 <ShieldAlert className="w-4 h-4" />
                 <span>5. Recovery Defense &amp; RBI Directives</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 Defending Against Third-Party Recovery Agents &amp; Digital Calls
-              </h2>
+              </h3>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Fintech defaults frequently trigger aggressive recovery from outsourced agencies. Under the RBI Guidelines on Digital Lending (September 2022) and NBFC Fair Practices Code, lenders and recovery agents cannot access borrower contact lists, photos, or call logs. Calling is strictly restricted between 08:00 AM and 07:00 PM. Contacting third parties, friends, or employers is illegal.
               </p>
@@ -825,9 +825,9 @@ export default function PayULazyPayLoanSettlementPage() {
                 <Layers className="w-4 h-4" />
                 <span>6. Step-by-Step Settlement Roadmap</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 Step-by-Step Roadmap to Negotiate LazyPay Debt Compromise
-              </h2>
+              </h3>
               <p className="text-slate-700 leading-relaxed mb-6 text-base md:text-lg">
                 Achieving an authentic One-Time Settlement with PayU Finance requires a structured legal methodology:
               </p>
@@ -835,10 +835,10 @@ export default function PayULazyPayLoanSettlementPage() {
               <div className="space-y-6">
                 {/* Phase 1 */}
                 <div className="p-6 rounded-2xl bg-white border border-slate-200 shadow-sm">
-                  <h3 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
+                  <h4 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
                     <span className="w-7 h-7 rounded-lg bg-blue-50 text-[#1F5EFF] font-black text-sm flex items-center justify-center border border-blue-200">1</span>
                     Hardship Dossier Compilation
-                  </h3>
+                  </h4>
                   <p className="text-slate-600 text-sm md:text-base leading-relaxed">
                     Assemble verified evidence of distress, such as termination letters, salary reductions, or medical summaries, establishing non-willful default under RBI rules.
                   </p>
@@ -846,10 +846,10 @@ export default function PayULazyPayLoanSettlementPage() {
 
                 {/* Phase 2 */}
                 <div className="p-6 rounded-2xl bg-white border border-slate-200 shadow-sm">
-                  <h3 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
+                  <h4 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
                     <span className="w-7 h-7 rounded-lg bg-blue-50 text-[#1F5EFF] font-black text-sm flex items-center justify-center border border-blue-200">2</span>
                     Mandate Cancellation
-                  </h3>
+                  </h4>
                   <p className="text-slate-600 text-sm md:text-base leading-relaxed">
                     Cancel electronic auto-debits through your bank to eliminate return charges. Direct PayU Finance to communicate strictly in writing via legal counsel.
                   </p>
@@ -857,10 +857,10 @@ export default function PayULazyPayLoanSettlementPage() {
 
                 {/* Phase 3 */}
                 <div className="p-6 rounded-2xl bg-white border border-slate-200 shadow-sm">
-                  <h3 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
+                  <h4 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
                     <span className="w-7 h-7 rounded-lg bg-blue-50 text-[#1F5EFF] font-black text-sm flex items-center justify-center border border-blue-200">3</span>
                     Formal OTS Petition
-                  </h3>
+                  </h4>
                   <p className="text-slate-600 text-sm md:text-base leading-relaxed">
                     Submit an official compromise settlement petition to PayU Finance&apos;s Stressed Assets Desk, anchoring opening offers at 25% to 35% of core principal dues.
                   </p>
@@ -868,10 +868,10 @@ export default function PayULazyPayLoanSettlementPage() {
 
                 {/* Phase 4 */}
                 <div className="p-6 rounded-2xl bg-white border border-slate-200 shadow-sm">
-                  <h3 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
+                  <h4 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
                     <span className="w-7 h-7 rounded-lg bg-blue-50 text-[#1F5EFF] font-black text-sm flex items-center justify-center border border-blue-200">4</span>
                     Managing Counter-Offers
-                  </h3>
+                  </h4>
                   <p className="text-slate-600 text-sm md:text-base leading-relaxed">
                     Counter modest lender offers by demonstrating settlement funds stem from family financial aid, guiding reviews toward 40% to 60% principal waivers.
                   </p>
@@ -879,10 +879,10 @@ export default function PayULazyPayLoanSettlementPage() {
 
                 {/* Phase 5 */}
                 <div className="p-6 rounded-2xl bg-white border border-slate-200 shadow-sm">
-                  <h3 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
+                  <h4 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
                     <span className="w-7 h-7 rounded-lg bg-blue-50 text-[#1F5EFF] font-black text-sm flex items-center justify-center border border-blue-200">5</span>
                     Forensic Sanction Audit
-                  </h3>
+                  </h4>
                   <p className="text-slate-600 text-sm md:text-base leading-relaxed">
                     Verify that the formal settlement letter is issued on official PayU Finance letterhead, confirming loan numbers, payment milestones, and full discharge terms.
                   </p>
@@ -890,10 +890,10 @@ export default function PayULazyPayLoanSettlementPage() {
 
                 {/* Phase 6 */}
                 <div className="p-6 rounded-2xl bg-white border border-slate-200 shadow-sm">
-                  <h3 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
+                  <h4 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
                     <span className="w-7 h-7 rounded-lg bg-blue-50 text-[#1F5EFF] font-black text-sm flex items-center justify-center border border-blue-200">6</span>
                     Direct Remittance &amp; NDC Delivery
-                  </h3>
+                  </h4>
                   <p className="text-slate-600 text-sm md:text-base leading-relaxed">
                     Remit settlement funds directly into your verified PayU Finance loan account via RTGS/NEFT. Enforce delivery of the ₹0 No Dues Certificate within 30 days.
                   </p>
@@ -907,9 +907,9 @@ export default function PayULazyPayLoanSettlementPage() {
                 <Gavel className="w-4 h-4" />
                 <span>7. Legal Notices, Arbitration &amp; Lok Adalat</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 Navigating Section 25 PSSA Legal Notices &amp; Online Arbitration
-              </h2>
+              </h3>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 When a LazyPay loan remains unpaid past 60 to 90 days, PayU Finance regularly issues statutory demand notices under Section 25 of the Payment and Settlement Systems Act, 2007 (PSSA) for dishonoured e-mandates, alongside online arbitration notices.
               </p>
@@ -969,9 +969,9 @@ export default function PayULazyPayLoanSettlementPage() {
                 <FileCheck className="w-4 h-4" />
                 <span>8. Sanction Audit &amp; ₹0 NDC Mandate</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 Sanction Letter Verification &amp; Enforcing the ₹0 NDC Mandate
-              </h2>
+              </h3>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 A major risk in fintech debt recovery is fraudulent settlement documents issued by third-party agency callers. Unverified payments made without an authentic letter are credited toward penal fees, leaving the default active.
               </p>
@@ -986,9 +986,9 @@ export default function PayULazyPayLoanSettlementPage() {
                 <TrendingUp className="w-4 h-4" />
                 <span>9. CIBIL Trajectory &amp; Score Recovery</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 CIBIL Score Trajectory Post-Settlement &amp; Credit Recovery
-              </h2>
+              </h3>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Following settlement payment, PayU Finance reports the loan to TransUnion CIBIL, Experian, Equifax, and CRIF High Mark as &apos;Settled&apos; with a ₹0 balance, ending monthly default additions.
               </p>
@@ -1003,9 +1003,9 @@ export default function PayULazyPayLoanSettlementPage() {
                 <ShieldCheck className="w-4 h-4" />
                 <span>10. SettleLoans Representation</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 Why Distressed Borrowers Choose SettleLoans for PayU Relief
-              </h2>
+              </h3>
               <p className="text-slate-700 leading-relaxed mb-6 text-base md:text-lg">
                 Resolving defaulted digital credit facilities with PayU Finance requires seasoned legal advocacy. SettleLoans halts collection harassment under RBI Digital Lending Guidelines, cancels e-NACH auto-debits, defends Section 25 PSSA notices, and negotiates directly with PayU Finance Credit Committees to secure maximum lawful debt waivers and authentic stamped ₹0 No Dues Certificates.
               </p>
@@ -1022,9 +1022,9 @@ export default function PayULazyPayLoanSettlementPage() {
                 <HelpCircle className="w-4 h-4" />
                 <span>11. Frequently Asked Questions</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
                 Frequently Asked Questions About LazyPay Loan Settlement
-              </h2>
+              </h3>
 
               <div className="space-y-4">
                 {faqs.map((faq, index) => (
@@ -1051,10 +1051,10 @@ export default function PayULazyPayLoanSettlementPage() {
 
             {/* Regulatory References & Official Sources Strip */}
             <div className="bg-slate-50 border border-slate-200 rounded-2xl p-6 my-10">
-              <h3 className="text-base font-bold text-slate-900 mb-4 flex items-center gap-2">
+              <h4 className="text-base font-bold text-slate-900 mb-4 flex items-center gap-2">
                 <Landmark className="w-5 h-5 text-[#1F5EFF]" />
                 Official Regulatory References &amp; Statutory Circulars
-              </h3>
+              </h4>
               <ul className="space-y-3 text-xs text-slate-600">
                 <li className="flex items-start gap-2">
                   <ExternalLink className="w-4 h-4 text-[#1F5EFF] flex-shrink-0 mt-0.5" />
@@ -1116,10 +1116,10 @@ export default function PayULazyPayLoanSettlementPage() {
 
             {/* Related Guides & Resources Strip (10 Topic Badges) */}
             <div className="bg-slate-50 border border-slate-200 rounded-2xl p-6 my-10">
-              <h3 className="text-base font-bold text-slate-900 mb-4 flex items-center gap-2">
+              <h4 className="text-base font-bold text-slate-900 mb-4 flex items-center gap-2">
                 <BookOpen className="w-5 h-5 text-[#1F5EFF]" />
                 Explore Related Banking &amp; Debt Resolution Guides
-              </h3>
+              </h4>
               <div className="flex flex-wrap gap-2.5">
                 <Link
                   href="/bank-one-time-settlement-ots-policy"

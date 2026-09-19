@@ -596,7 +596,7 @@ export default function PersonalLoanSettlementVijayawadaPage() {
                 <Scale className="w-4 h-4" />
                 <span>2. Civil Law Rights &amp; RBI Protections</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Statutory Civil Protections &amp; RBI Anti-Harassment Directives</h2>
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Statutory Civil Protections &amp; RBI Anti-Harassment Directives</h3>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 When EMIs bounce, banks assign accounts to collection agencies. In Vijayawada, agents often cross legal lines. They call repeatedly. They visit shops in Gollapudi or Auto Nagar during work hours. Some try calling relatives or bosses.
               </p>
@@ -620,9 +620,9 @@ export default function PersonalLoanSettlementVijayawadaPage() {
                 <Clock className="w-4 h-4" />
                 <span>3. Delinquency Timeline &amp; NPA Accounting</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 Delinquency Lifecycle &amp; Bank Balance-Sheet Accounting
-              </h2>
+              </h3>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Overdue loans follow RBI asset classification rules (IRACP) and Ind AS 109. Financial institutions track overdue loans across Days Past Due (DPD) tiers. Knowing this timeline helps lawyers negotiate when banks are most ready to settle.
               </p>
@@ -693,7 +693,7 @@ export default function PersonalLoanSettlementVijayawadaPage() {
                 <Calculator className="w-4 h-4" />
                 <span>4. Mathematical NPV Valuation Matrix</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">NPV Valuation Mechanics in Vijayawada</h2>
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">NPV Valuation Mechanics in Vijayawada</h3>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Banks review settlement offers using RBI NPV rules. Unsecured debts carry no collateral. Banks compare instant cash against slow court battles.
               </p>
@@ -716,7 +716,7 @@ export default function PersonalLoanSettlementVijayawadaPage() {
               </div>
 
               {/* Settlement Haircut Slabs Table */}
-              <h3 className="text-lg font-bold text-slate-900 mb-3">Realistic Settlement Haircut Slabs by Product &amp; Aging in Vijayawada</h3>
+              <h4 className="text-lg font-bold text-slate-900 mb-3">Realistic Settlement Haircut Slabs by Product &amp; Aging in Vijayawada</h4>
               <div className="overflow-x-auto my-4">
                 <table className="min-w-full bg-white">
                   <thead>
@@ -774,9 +774,9 @@ export default function PersonalLoanSettlementVijayawadaPage() {
                       <span className="text-[10px] font-black uppercase tracking-widest text-blue-300 block">
                         Legal Defense &amp; Action Blueprint
                       </span>
-                      <h3 className="text-sm md:text-base font-black text-white leading-tight">
+                      <h4 className="text-sm md:text-base font-black text-white leading-tight">
                         Vijayawada Loan Settlement &amp; Debt Defense Roadmap
-                      </h3>
+                      </h4>
                     </div>
                   </div>
                   <a
@@ -823,7 +823,7 @@ export default function PersonalLoanSettlementVijayawadaPage() {
                 <Gavel className="w-4 h-4" />
                 <span>6. Section 138, PSSA &amp; Court Defense</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Defending Sec 138 &amp; Sec 25 in Vijayawada</h2>
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Defending Sec 138 &amp; Sec 25 in Vijayawada</h3>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Defaults past 60 to 90 days trigger legal demand notices. Lenders issue notices under Section 138 of the Negotiable Instruments Act, 1881 for bounced cheques. They also use Section 25 of the PSSA for failed NACH mandates. Some lenders send arbitration notices naming sole arbitrators in distant cities.
               </p>
@@ -841,7 +841,7 @@ export default function PersonalLoanSettlementVijayawadaPage() {
                 <Landmark className="w-4 h-4" />
                 <span>7. Lok Adalat Resolution at DLSA Krishna</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Settling via National Lok Adalat in Vijayawada</h2>
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Settling via National Lok Adalat in Vijayawada</h3>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 National Lok Adalat is a fast, safe way to settle debts. It is run quarterly by the District Legal Services Authority (DLSA Krishna and DLSA Guntur) under the Legal Services Authorities Act, 1987.
               </p>
@@ -859,7 +859,7 @@ export default function PersonalLoanSettlementVijayawadaPage() {
                 <Layers className="w-4 h-4" />
                 <span>8. Step-by-Step Advocate Negotiation Roadmap</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Negotiating Loan Settlements in Vijayawada</h2>
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Negotiating Loan Settlements in Vijayawada</h3>
               <p className="text-slate-700 leading-relaxed mb-6 text-base md:text-lg">
                 Securing an optimal One-Time Settlement follows six clear, legal steps:
               </p>
@@ -867,10 +867,10 @@ export default function PersonalLoanSettlementVijayawadaPage() {
               <div className="space-y-6">
                 {/* Phase 1 */}
                 <div className="p-6 rounded-2xl bg-white border border-slate-200 shadow-sm">
-                  <h3 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
+                  <h4 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
                     <span className="w-7 h-7 rounded-lg bg-blue-50 text-[#1F5EFF] font-black text-sm flex items-center justify-center border border-blue-200">1</span>
                     Comprehensive Financial Hardship Dossier Compilation
-                  </h3>
+                  </h4>
                   <p className="text-slate-600 text-sm md:text-base leading-relaxed">
                     Collect clear proof of financial distress. Traders and fleet owners can share tax returns and loss sheets. Bank records also help prove distress. Salaried staff can share job loss letters, pay cuts, or medical bills.
                   </p>
@@ -878,10 +878,10 @@ export default function PersonalLoanSettlementVijayawadaPage() {
 
                 {/* Phase 2 */}
                 <div className="p-6 rounded-2xl bg-white border border-slate-200 shadow-sm">
-                  <h3 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
+                  <h4 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
                     <span className="w-7 h-7 rounded-lg bg-blue-50 text-[#1F5EFF] font-black text-sm flex items-center justify-center border border-blue-200">2</span>
                     Revoking e-NACH Mandates &amp; Issuing Legal Anti-Harassment Notices
-                  </h3>
+                  </h4>
                   <p className="text-slate-600 text-sm md:text-base leading-relaxed">
                     Stop active e-NACH mandates at your bank under NPCI guidelines. This prevents repeated bounce fees. Our legal team also sends formal notices to recovery desks. This stops direct home and office visits under RBI rules.
                   </p>
@@ -889,10 +889,10 @@ export default function PersonalLoanSettlementVijayawadaPage() {
 
                 {/* Phase 3 */}
                 <div className="p-6 rounded-2xl bg-white border border-slate-200 shadow-sm">
-                  <h3 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
+                  <h4 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
                     <span className="w-7 h-7 rounded-lg bg-blue-50 text-[#1F5EFF] font-black text-sm flex items-center justify-center border border-blue-200">3</span>
                     Submitting Formal Hardship Petition to Zonal Stressed Assets Desks
-                  </h3>
+                  </h4>
                   <p className="text-slate-600 text-sm md:text-base leading-relaxed">
                     Submit a formal settlement offer to the bank Stressed Assets desk. We cite RBI Master Directions. We offer 25% to 35% of total dues.
                   </p>
@@ -900,10 +900,10 @@ export default function PersonalLoanSettlementVijayawadaPage() {
 
                 {/* Phase 4 */}
                 <div className="p-6 rounded-2xl bg-white border border-slate-200 shadow-sm">
-                  <h3 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
+                  <h4 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
                     <span className="w-7 h-7 rounded-lg bg-blue-50 text-[#1F5EFF] font-black text-sm flex items-center justify-center border border-blue-200">4</span>
                     Managing Counter-Demands &amp; Structuring Credit Committee Approvals
-                  </h3>
+                  </h4>
                   <p className="text-slate-600 text-sm md:text-base leading-relaxed">
                     Banks usually offer a small discount at first. We show that funds come from friendly family loans. This guides the Credit Committee to approve 40% to 60% waivers.
                   </p>
@@ -911,10 +911,10 @@ export default function PersonalLoanSettlementVijayawadaPage() {
 
                 {/* Phase 5 */}
                 <div className="p-6 rounded-2xl bg-white border border-slate-200 shadow-sm">
-                  <h3 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
+                  <h4 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
                     <span className="w-7 h-7 rounded-lg bg-blue-50 text-[#1F5EFF] font-black text-sm flex items-center justify-center border border-blue-200">5</span>
                     Rigorous Forensic Audit of the OTS Sanction Letter
-                  </h3>
+                  </h4>
                   <p className="text-slate-600 text-sm md:text-base leading-relaxed">
                     Do not make payments without an official approval letter. Our advocates inspect the bank letterhead, account numbers. And due dates. We ensure terms for full debt closure.
                   </p>
@@ -922,10 +922,10 @@ export default function PersonalLoanSettlementVijayawadaPage() {
 
                 {/* Phase 6 */}
                 <div className="p-6 rounded-2xl bg-white border border-slate-200 shadow-sm">
-                  <h3 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
+                  <h4 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
                     <span className="w-7 h-7 rounded-lg bg-blue-50 text-[#1F5EFF] font-black text-sm flex items-center justify-center border border-blue-200">6</span>
                     Direct Account Remittance &amp; Enforcing ₹0 NDC Delivery
-                  </h3>
+                  </h4>
                   <p className="text-slate-600 text-sm md:text-base leading-relaxed">
                     Pay the agreed settlement sum via RTGS or NEFT. Under RBI circular RBI/2023-24/60, the bank must issue your ₹0 NDC within 30 days.
                   </p>
@@ -939,7 +939,7 @@ export default function PersonalLoanSettlementVijayawadaPage() {
                 <FileCheck className="w-4 h-4" />
                 <span>9. Sanction Letter Audit &amp; CIBIL Recovery</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Sanction Letter Audit &amp; NDC in Vijayawada</h2>
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Sanction Letter Audit &amp; NDC in Vijayawada</h3>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Beware of fake settlement scams by rogue collection agents. Some agents issue fake letters to collect cash. If you pay without official approval, the bank treats it as partial payment. The loan stays open. Penalty interest keeps growing.
               </p>
@@ -957,7 +957,7 @@ export default function PersonalLoanSettlementVijayawadaPage() {
                 <Briefcase className="w-4 h-4" />
                 <span>10. Comprehensive Resolution Matrix</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Comparative Resolution Matrix in Vijayawada</h2>
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Comparative Resolution Matrix in Vijayawada</h3>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Compare common legal debt relief options in Vijayawada and Guntur:
               </p>
@@ -1014,7 +1014,7 @@ export default function PersonalLoanSettlementVijayawadaPage() {
                 <ShieldCheck className="w-4 h-4" />
                 <span>11. SettleLoans Legal Advocacy in Vijayawada</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Why Borrowers in Vijayawada Choose SettleLoans</h2>
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Why Borrowers in Vijayawada Choose SettleLoans</h3>
               <p className="text-slate-700 leading-relaxed mb-6 text-base md:text-lg">
                 Handling recovery agents and legal notices requires strong legal support. SettleLoans protects borrowers across Andhra Pradesh. We stop harassment with legal notices. We defend Section 138 and Section 25 cases in local courts. We represent you in DLSA Lok Adalat sessions. Our advocates negotiate directly with bank Stressed Assets desks for maximum debt waivers and verified ₹0 NDCs.
               </p>
@@ -1032,9 +1032,9 @@ export default function PersonalLoanSettlementVijayawadaPage() {
                   <Gavel className="w-4 h-4" />
                   <span>Local Legal Jurisdiction &amp; Legal Aid Directory</span>
                 </div>
-                <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+                <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                   District Courts &amp; DLSA Helpdesk in Vijayawada
-                </h2>
+                </h3>
                 <p className="text-slate-700 leading-relaxed mb-6 text-base">
                   Distressed borrowers facing recovery pressure, arbitration summons, or Section 138 NI Act notices in Vijayawada can access statutory legal defense through the local District Court and District Legal Services Authority (DLSA):
                 </p>
@@ -1071,7 +1071,7 @@ export default function PersonalLoanSettlementVijayawadaPage() {
                 <HelpCircle className="w-4 h-4" />
                 <span>12. Frequently Asked Questions</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">FAQs: Personal Loan Settlement in Vijayawada</h2>
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">FAQs: Personal Loan Settlement in Vijayawada</h3>
 
               <div className="space-y-4">
                 {faqs.map((faq, index) => (
@@ -1098,10 +1098,10 @@ export default function PersonalLoanSettlementVijayawadaPage() {
 
             {/* Regulatory References & Official Sources Strip (5 Links) */}
             <div className="bg-slate-50 border border-slate-200 rounded-2xl p-6 my-10">
-              <h3 className="text-base font-bold text-slate-900 mb-4 flex items-center gap-2">
+              <h4 className="text-base font-bold text-slate-900 mb-4 flex items-center gap-2">
                 <Landmark className="w-5 h-5 text-[#1F5EFF]" />
                 Official Regulatory References &amp; Statutory Circulars
-              </h3>
+              </h4>
               <ul className="space-y-3 text-xs text-slate-600">
                 <li className="flex items-start gap-2">
                   <ExternalLink className="w-4 h-4 text-[#1F5EFF] flex-shrink-0 mt-0.5" />
@@ -1163,10 +1163,10 @@ export default function PersonalLoanSettlementVijayawadaPage() {
 
             {/* Related Guides & Resources Strip (10 Topic Badges) */}
             <div className="bg-slate-50 border border-slate-200 rounded-2xl p-6 my-10">
-              <h3 className="text-base font-bold text-slate-900 mb-4 flex items-center gap-2">
+              <h4 className="text-base font-bold text-slate-900 mb-4 flex items-center gap-2">
                 <BookOpen className="w-5 h-5 text-[#1F5EFF]" />
                 Explore Related Banking &amp; Debt Resolution Guides
-              </h3>
+              </h4>
               <div className="flex flex-wrap gap-2.5">
                 <Link
                   href="/bank-one-time-settlement-ots-policy"

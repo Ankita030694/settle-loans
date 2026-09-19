@@ -413,9 +413,9 @@ export default function MinimumCibilScoreForPersonalLoanClient() {
 
             {/* Section 2: Bank vs NBFC Minimum Cutoff Matrix */}
             <section id="bank-wise-cutoffs" className="scroll-mt-28 mb-12">
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 2. Bank vs. NBFC Minimum CIBIL Score Cutoffs: Institutional Underwriting Matrix
-              </h2>
+              </h3>
               <p className="text-base leading-relaxed mb-4 text-slate-700">
                 Institutional credit policies vary substantially between Tier-1 commercial banks, public sector banking institutions, and Non-Banking Financial Companies (NBFCs). Tier-1 private and public banks operate under stringent capital adequacy requirements and aggressive low-risk mandates governed by the Reserve Bank of India. Consequently, these institutions maintain unyielding CIBIL cutoffs of 750 and above for unsecured personal loans.
               </p>
@@ -425,9 +425,9 @@ export default function MinimumCibilScoreForPersonalLoanClient() {
 
               {/* 4-Sided Bordered Comparison Table: Bank-Wise Cutoffs */}
               <div className="my-6">
-                <h3 className="text-sm font-bold text-slate-900 uppercase tracking-wider mb-2">
+                <h4 className="text-sm font-bold text-slate-900 uppercase tracking-wider mb-2">
                   Institutional CIBIL Cutoffs &amp; Underwriting Criteria (2026)
-                </h3>
+                </h4>
                 <div className="overflow-x-auto">
                   <table>
                     <thead>
@@ -489,9 +489,9 @@ export default function MinimumCibilScoreForPersonalLoanClient() {
 
             {/* Section 3: Hidden Underwriting Criteria: FOIR & DPD Strings */}
             <section id="foir-and-underwriting" className="scroll-mt-28 mb-12">
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 3. The Hidden Underwriting Criteria: FOIR, DTI Ratios &amp; DPD Repayment Strings
-              </h2>
+              </h3>
               <p className="text-base leading-relaxed mb-4 text-slate-700">
                 A frequent source of bewilderment among loan applicants is receiving an outright loan rejection despite possessing a CIBIL score of 760 or higher. The explanation lies in multi-dimensional underwriting models. A three-digit credit score is merely the initial qualification gate; credit underwriters evaluate two additional technical metrics before sanctioning unsecured funds: the <strong>Fixed Obligation to Income Ratio (FOIR)</strong> and historical <strong>Days Past Due (DPD)</strong> payment strings.
               </p>
@@ -520,9 +520,9 @@ export default function MinimumCibilScoreForPersonalLoanClient() {
 
             {/* Section 4: Why Banks Reject Scores Below 750 */}
             <section id="why-loans-get-rejected" className="scroll-mt-28 mb-8">
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 4. Why Personal Loans Get Rejected Below 750: Asset Classification &amp; RBI Provisioning
-              </h2>
+              </h3>
               <p className="text-base leading-relaxed mb-4 text-slate-700">
                 To understand why banks enforce strict cutoffs, one must look at commercial banking balance sheet mechanics. Under Reserve Bank of India Prudential Norms on Income Recognition, Asset Classification and Provisioning (IRACP), banks are legally mandated to set aside capital reserves (provisions) against potential loan losses.
               </p>
@@ -578,9 +578,9 @@ export default function MinimumCibilScoreForPersonalLoanClient() {
                     <span className="text-[10px] font-black uppercase tracking-widest text-blue-300 block">
                       Legal Defense &amp; Action Blueprint
                     </span>
-                    <h3 className="text-sm md:text-base font-black text-white leading-tight">
+                    <h4 className="text-sm md:text-base font-black text-white leading-tight">
                       Minimum CIBIL Score &amp; Credit Rebuild Blueprint
-                    </h3>
+                    </h4>
                   </div>
                 </div>
                 <a
@@ -622,9 +622,9 @@ export default function MinimumCibilScoreForPersonalLoanClient() {
 
             {/* Section 5: The Myth of Unsecured Loans at 550-650 */}
             <section id="loans-at-550-650-myth" className="scroll-mt-28 mb-12">
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 5. The Reality of Personal Loans at 550–650: Risk-Based Pricing &amp; Compounding Traps
-              </h2>
+              </h3>
               <p className="text-base leading-relaxed mb-4 text-slate-700">
                 A common marketing promise across digital media claims that distressed borrowers can easily secure &quot;Guaranteed Personal Loans with 550 CIBIL Score.&quot; As institutional debt settlement strategists, SettleLoans advises extreme caution. In commercial banking reality, genuine unsecured personal loans at competitive rates do not exist for credit profiles below 600.
               </p>
@@ -638,9 +638,9 @@ export default function MinimumCibilScoreForPersonalLoanClient() {
 
             {/* Section 6: Predatory Loan Apps Trap */}
             <section id="predatory-apps-trap" className="scroll-mt-28 mb-12">
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 6. The Trap of Predatory Digital Loan Apps: Regulatory Violations &amp; Coercive Tactics
-              </h2>
+              </h3>
               <p className="text-base leading-relaxed mb-4 text-slate-700">
                 When rejected by legitimate commercial banks due to a low CIBIL score, desperate borrowers frequently fall prey to predatory instant loan apps operating across digital app stores and social messaging channels. These entities specifically target distressed borrowers with deceptive slogans promising &quot;No CIBIL Check Required&quot; and &quot;Instant Disbursal in 5 Minutes.&quot;
               </p>
@@ -654,9 +654,9 @@ export default function MinimumCibilScoreForPersonalLoanClient() {
 
             {/* Section 7: Forensic Credit Diagnostics */}
             <section id="forensic-credit-audit" className="scroll-mt-28 mb-12">
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 7. Forensic Credit Diagnostics: Auditing Settled, Written-Off &amp; Overdue Tags
-              </h2>
+              </h3>
               <p className="text-base leading-relaxed mb-4 text-slate-700">
                 If your loan application was rejected, the immediate strategic priority is not to apply at another bank, but to conduct a rigorous forensic audit of your official Credit Information Report. Each speculative application generates a &quot;Hard Inquiry&quot; that penalizes your CIBIL score by 5 to 10 points. Submitting multiple applications within days signals desperate credit-seeking behavior to automated underwriting models.
               </p>
@@ -670,7 +670,7 @@ export default function MinimumCibilScoreForPersonalLoanClient() {
                     1
                   </div>
                   <div>
-                    <h3 className="font-bold text-slate-900 text-sm mb-0.5">Active DPD Strings (030, 060, 090+)</h3>
+                    <h4 className="font-bold text-slate-900 text-sm mb-0.5">Active DPD Strings (030, 060, 090+)</h4>
                     <p className="text-xs sm:text-sm text-slate-600">
                       Indicates live, rolling payment delays on existing credit cards or active loans. Lenders reject any new credit until all active overdue amounts are regularized.
                     </p>
@@ -682,7 +682,7 @@ export default function MinimumCibilScoreForPersonalLoanClient() {
                     2
                   </div>
                   <div>
-                    <h4 className="font-bold text-slate-900 text-sm mb-0.5">Written-Off / Loss Asset Status</h4>
+                    <h5 className="font-bold text-slate-900 text-sm mb-0.5">Written-Off / Loss Asset Status</h5>
                     <p className="text-xs sm:text-sm text-slate-600">
                       Signifies that a previous lender deemed the debt uncollectible after 180+ days of delinquency. The lender retains full legal recovery rights, preventing any new bank approval.
                     </p>
@@ -694,7 +694,7 @@ export default function MinimumCibilScoreForPersonalLoanClient() {
                     3
                   </div>
                   <div>
-                    <h4 className="font-bold text-slate-900 text-sm mb-0.5">Settled Account Remark</h4>
+                    <h5 className="font-bold text-slate-900 text-sm mb-0.5">Settled Account Remark</h5>
                     <p className="text-xs sm:text-sm text-slate-600">
                       Indicates that a prior loan was closed via a negotiated compromise where the bank waived part of the principal or interest. Automated algorithms flag this loss event.
                     </p>
@@ -706,7 +706,7 @@ export default function MinimumCibilScoreForPersonalLoanClient() {
                     4
                   </div>
                   <div>
-                    <h4 className="font-bold text-slate-900 text-sm mb-0.5">Erroneous Reporting / Bureau Desynchronization</h4>
+                    <h5 className="font-bold text-slate-900 text-sm mb-0.5">Erroneous Reporting / Bureau Desynchronization</h5>
                     <p className="text-xs sm:text-sm text-slate-600">
                       Clerical errors where a fully repaid loan continues to display an open balance. Under Section 21 of CICRA 2005, borrowers can file statutory disputes to expunge false entries within 30 days.
                     </p>
@@ -717,9 +717,9 @@ export default function MinimumCibilScoreForPersonalLoanClient() {
 
             {/* Section 8: Legal Debt Settlement (OTS) Solution */}
             <section id="debt-settlement-solution" className="scroll-mt-28 mb-12">
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 8. Strategic Debt Settlement (OTS): The Lawful Catalyst for Credit Reconstruction
-              </h2>
+              </h3>
               <p className="text-base leading-relaxed mb-4 text-slate-700">
                 For borrowers trapped with multiple delinquent personal loans, mounting penal interest, and relentless recovery agent harassment, continuing to service unmanageable minimum payments is mathematically unsustainable. The most effective, lawful solution to resolve financial distress is executing a formal <strong>One-Time Settlement (OTS)</strong> under Reserve Bank of India compromise frameworks.
               </p>
@@ -733,9 +733,9 @@ export default function MinimumCibilScoreForPersonalLoanClient() {
 
             {/* Section 9: 18-Month Score Rebuilding Roadmap */}
             <section id="score-rebuilding-plan" className="scroll-mt-28 mb-12">
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 9. The 18–24 Month Score Rebound Blueprint: Proven Steps to Rebuild 750+ CIBIL
-              </h2>
+              </h3>
               <p className="text-base leading-relaxed mb-4 text-slate-700">
                 A past loan settlement or default does not permanently end your credit future. Credit scoring algorithms operate on rolling mathematical weighting models: recent financial discipline over the preceding 12 to 24 months carries significantly higher scoring weight than historical delinquencies. By executing a structured score reconstruction plan, borrowers can systematically restore their CIBIL score from sub-550 levels back to 750+ prime status:
               </p>
@@ -785,25 +785,25 @@ export default function MinimumCibilScoreForPersonalLoanClient() {
               {/* Three Golden Rules of Score Rebuilding */}
               <div className="space-y-3 my-6">
                 <div className="p-4 rounded-xl border border-slate-200 bg-slate-50">
-                  <h3 className="font-bold text-slate-900 text-sm mb-1">
+                  <h4 className="font-bold text-slate-900 text-sm mb-1">
                     Rule 1: Keep Credit Utilization Ratio (CUR) Strictly Below 30%
-                  </h3>
+                  </h4>
                   <p className="text-xs sm:text-sm text-slate-600 leading-relaxed">
                     If your secured credit card has a limit of ₹50,000, keep monthly spending capped under ₹15,000. Utilizing more than 30% of your sanctioned credit limit signals credit hunger to scoring algorithms and suppresses score growth.
                   </p>
                 </div>
                 <div className="p-4 rounded-xl border border-slate-200 bg-slate-50">
-                  <h4 className="font-bold text-slate-900 text-sm mb-1">
+                  <h5 className="font-bold text-slate-900 text-sm mb-1">
                     Rule 2: Eliminate Hard Credit Inquiries
-                  </h4>
+                  </h5>
                   <p className="text-xs sm:text-sm text-slate-600 leading-relaxed">
                     Do not submit speculative loan applications across multiple bank websites or fintech portals. Each hard inquiry deducts 5 to 10 points and flags credit desperation. Pull your own report as a &quot;soft inquiry&quot; with zero score impact.
                   </p>
                 </div>
                 <div className="p-4 rounded-xl border border-slate-200 bg-slate-50">
-                  <h4 className="font-bold text-slate-900 text-sm mb-1">
+                  <h5 className="font-bold text-slate-900 text-sm mb-1">
                     Rule 3: Upgrade &quot;Settled&quot; to &quot;Closed&quot; When Liquidity Permits
-                  </h4>
+                  </h5>
                   <p className="text-xs sm:text-sm text-slate-600 leading-relaxed">
                     If your financial circumstances improve down the road, you can approach the original lender to repay the waived balance from your OTS. The bank will issue a revised No Dues Certificate and update your credit bureau remark from &quot;Settled&quot; to &quot;Closed.&quot;
                   </p>
@@ -816,9 +816,9 @@ export default function MinimumCibilScoreForPersonalLoanClient() {
 
             {/* Section 10: Frequently Asked Questions */}
             <section id="faqs" className="scroll-mt-28 mb-12">
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 10. Frequently Asked Questions (FAQ)
-              </h2>
+              </h3>
               <p className="text-sm md:text-base leading-relaxed mb-6 text-slate-600">
                 Authoritative answers to the most urgent questions regarding minimum CIBIL score requirements, loan rejection causes, and credit reconstruction in India.
               </p>
@@ -838,10 +838,10 @@ export default function MinimumCibilScoreForPersonalLoanClient() {
 
             {/* Regulatory Sources & References (Exactly 5 Links) */}
             <div className="bg-slate-50 border border-slate-200 rounded-2xl p-5 my-8">
-              <h3 className="text-xs md:text-sm font-bold uppercase tracking-wider text-slate-900 mb-3 flex items-center gap-2">
+              <h4 className="text-xs md:text-sm font-bold uppercase tracking-wider text-slate-900 mb-3 flex items-center gap-2">
                 <Landmark className="w-4 h-4 text-[#1F5EFF]" />
                 <span>Official Regulatory Sources &amp; Legal Authorities</span>
-              </h3>
+              </h4>
               <ul className="space-y-2 text-xs md:text-sm text-slate-600">
                 <li className="flex items-center gap-2">
                   <ExternalLink className="w-3.5 h-3.5 text-[#1F5EFF] flex-shrink-0" />
@@ -903,9 +903,9 @@ export default function MinimumCibilScoreForPersonalLoanClient() {
 
             {/* Internal Topic Badges (10 Links) */}
             <div className="my-8 pt-6 border-t border-slate-200">
-              <h4 className="text-xs md:text-sm font-bold uppercase tracking-wider text-slate-900 mb-3">
+              <h5 className="text-xs md:text-sm font-bold uppercase tracking-wider text-slate-900 mb-3">
                 Related Debt Resolution &amp; Legal Protection Guides
-              </h4>
+              </h5>
               <div className="flex flex-wrap gap-2">
                 <Link
                   href="/personal-loan-settlement-cibil-impact"

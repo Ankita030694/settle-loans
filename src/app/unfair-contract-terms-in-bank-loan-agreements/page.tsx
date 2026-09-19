@@ -529,10 +529,10 @@ export default function UnfairContractTermsLoanAgreementsPage() {
               </p>
 
               <div className="bg-slate-50 border-l-4 border-[#1F5EFF] p-4 rounded-r-xl my-4">
-                <h3 className="font-bold text-slate-900 text-xs sm:text-sm mb-1 flex items-center gap-1.5">
+                <h4 className="font-bold text-slate-900 text-xs sm:text-sm mb-1 flex items-center gap-1.5">
                   <ShieldAlert className="w-4 h-4 text-[#1F5EFF]" />
                   <span>The Legal Reality of Adhesion Contracts in Banking</span>
-                </h3>
+                </h4>
                 <p className="text-xs sm:text-sm text-slate-600 leading-relaxed">
                   A standard contract is void if it hurts consumers with zero power. Courts can strike out bad terms while keeping your settlement valid.
                 </p>
@@ -541,7 +541,7 @@ export default function UnfairContractTermsLoanAgreementsPage() {
 
             {/* Section 2: Statutory Framework CPA Sec 2(46) & Precedents */}
             <section id="statutory-framework-cpa-sec-2-46" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">2. Statutory Laws Against Unfair Loan Terms</h2>
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">2. Statutory Laws Against Unfair Loan Terms</h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Before 2019, borrowers used Section 23 of the Indian Contract Act, 1872. This led to slow civil trials. The <strong>Consumer Protection Act, 2019 (CPA 2019)</strong> fixed this via <strong>Section 2(46)</strong>. This section defines an &apos;unfair contract&apos. in clear words.
               </p>
@@ -603,44 +603,44 @@ export default function UnfairContractTermsLoanAgreementsPage() {
 
             {/* Section 3: Anatomy of Oppressive Banking Clauses */}
             <section id="anatomy-of-abusive-loan-clauses" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">3. Anatomy of Oppressive Banking Clauses</h2>
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">3. Anatomy of Oppressive Banking Clauses</h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Personal loans, credit cards. And business credit lines often contain bad terms. Lenders rely on four main types of abusive clauses:
               </p>
 
               <div className="grid grid-cols-1 md:grid-cols-2 gap-4 my-6">
                 <div className="p-4 bg-slate-50 rounded-xl border border-slate-200">
-                  <h3 className="font-bold text-slate-900 text-sm mb-2 flex items-center gap-1.5">
+                  <h4 className="font-bold text-slate-900 text-sm mb-2 flex items-center gap-1.5">
                     <BadgePercent className="w-4 h-4 text-[#1F5EFF]" />
                     <span>Compounding Penal Interest &amp; Fee Pyramids</span>
-                  </h3>
+                  </h4>
                   <p className="text-xs text-slate-600 leading-relaxed">
                     Clauses letting banks charge 24%–36% penal fees. Adding fines to principal violates Section 2(46)(ii) and RBI Master Directions.
                   </p>
                 </div>
                 <div className="p-4 bg-slate-50 rounded-xl border border-slate-200">
-                  <h4 className="font-bold text-slate-900 text-sm mb-2 flex items-center gap-1.5">
+                  <h5 className="font-bold text-slate-900 text-sm mb-2 flex items-center gap-1.5">
                     <ReceiptText className="w-4 h-4 text-[#1F5EFF]" />
                     <span>Unilateral Benchmark Escalation &amp; Reset Covenants</span>
-                  </h4>
+                  </h5>
                   <p className="text-xs text-slate-600 leading-relaxed">
                     Clauses letting banks raise loan spreads without notice. Under Section 2(46)(vi), borrowers must get a fair exit choice.
                   </p>
                 </div>
                 <div className="p-4 bg-slate-50 rounded-xl border border-slate-200">
-                  <h4 className="font-bold text-slate-900 text-sm mb-2 flex items-center gap-1.5">
+                  <h5 className="font-bold text-slate-900 text-sm mb-2 flex items-center gap-1.5">
                     <Gavel className="w-4 h-4 text-[#1F5EFF]" />
                     <span>Unilateral Sole Arbitrator Appointment Clauses</span>
-                  </h4>
+                  </h5>
                   <p className="text-xs text-slate-600 leading-relaxed">
                     Clauses letting banks pick a sole arbitrator in distant cities. The Supreme Court in <em>Perkins Eastman</em> and <em>TRF Limited</em> held these clauses invalid.
                   </p>
                 </div>
                 <div className="p-4 bg-slate-50 rounded-xl border border-slate-200">
-                  <h4 className="font-bold text-slate-900 text-sm mb-2 flex items-center gap-1.5">
+                  <h5 className="font-bold text-slate-900 text-sm mb-2 flex items-center gap-1.5">
                     <ShieldX className="w-4 h-4 text-[#1F5EFF]" />
                     <span>Unilateral Acceleration &amp; Third-Party Disclosure</span>
-                  </h4>
+                  </h5>
                   <p className="text-xs text-slate-600 leading-relaxed">
                     Clauses letting banks recall a loan for minor issues. Sharing borrower data with recovery agents also breaches privacy norms.
                   </p>
@@ -654,7 +654,7 @@ export default function UnfairContractTermsLoanAgreementsPage() {
 
             {/* Section 4: Bank NPA Accounting, Unfair Terms Provisioning & Recovery NPV Dynamics */}
             <section id="bank-npa-accounting-npv-dynamics" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">4. Bank NPA Accounting &amp; NPV Dynamics</h2>
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">4. Bank NPA Accounting &amp; NPV Dynamics</h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Banks follow RBI rules on loan defaults. They apply the RBI <em>Prudential Norms on IRACP</em>. These rules give borrowers leverage in loan settlement talks.
               </p>
@@ -726,7 +726,7 @@ export default function UnfairContractTermsLoanAgreementsPage() {
 
             {/* Section 5: Infographic Banner */}
             <section id="unfair-terms-statutory-roadmap" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">5. Statutory Contractual Challenge</h2>
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">5. Statutory Contractual Challenge</h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 This 5-stage roadmap shows how to challenge unfair terms. You can audit clauses, file under CPA Section 2(46). And secure an OTS.
               </p>
@@ -761,7 +761,7 @@ export default function UnfairContractTermsLoanAgreementsPage() {
 
             {/* Section 6: Forensic Sanction Letter & Digital Loan Agreement Audit Protocol */}
             <section id="forensic-sanction-letter-audit" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">6. Forensic Sanction Letter</h2>
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">6. Forensic Sanction Letter</h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Audit your loan papers before filing a case:
               </p>
@@ -811,7 +811,7 @@ export default function UnfairContractTermsLoanAgreementsPage() {
 
             {/* Section 7: Judicial Invalidation & Declaring Clauses Null & Void in Court */}
             <section id="judicial-invalidation-null-void" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">7. Judicial Invalidation</h2>
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">7. Judicial Invalidation</h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 The Consumer Protection Act, 2019 gives courts power to void unfair terms. State and National Commissions act under <strong>Section 47(1)(a)(ii)</strong> and <strong>Section 58(1)(a)(ii)</strong>.
               </p>
@@ -821,37 +821,37 @@ export default function UnfairContractTermsLoanAgreementsPage() {
 
               <div className="grid grid-cols-1 md:grid-cols-2 gap-4 my-6">
                 <div className="p-4 bg-slate-50 border border-slate-200 rounded-xl space-y-1.5">
-                  <h3 className="font-bold text-slate-900 text-xs sm:text-sm flex items-center gap-1.5">
+                  <h4 className="font-bold text-slate-900 text-xs sm:text-sm flex items-center gap-1.5">
                     <ShieldCheck className="w-4 h-4 text-emerald-500" />
                     <span>Direction to Remove Deficiencies &amp; Abusive Clauses</span>
-                  </h3>
+                  </h4>
                   <p className="text-xs text-slate-600 leading-relaxed">
                     Under Section 39(1)(b), courts strike out unfair terms. They fix your loan balance.
                   </p>
                 </div>
                 <div className="p-4 bg-slate-50 border border-slate-200 rounded-xl space-y-1.5">
-                  <h4 className="font-bold text-slate-900 text-xs sm:text-sm flex items-center gap-1.5">
+                  <h5 className="font-bold text-slate-900 text-xs sm:text-sm flex items-center gap-1.5">
                     <ReceiptText className="w-4 h-4 text-blue-500" />
                     <span>Restitution &amp; Complete Refund of Unauthorized Levies</span>
-                  </h4>
+                  </h5>
                   <p className="text-xs text-slate-600 leading-relaxed">
                     Under Section 39(1)(c), courts order refunds of all illegal fees and extra interest.
                   </p>
                 </div>
                 <div className="p-4 bg-slate-50 border border-slate-200 rounded-xl space-y-1.5">
-                  <h4 className="font-bold text-slate-900 text-xs sm:text-sm flex items-center gap-1.5">
+                  <h5 className="font-bold text-slate-900 text-xs sm:text-sm flex items-center gap-1.5">
                     <HeartPulse className="w-4 h-4 text-rose-500" />
                     <span>Monetary Compensation for Mental Agony &amp; Distress</span>
-                  </h4>
+                  </h5>
                   <p className="text-xs text-slate-600 leading-relaxed">
                     Under Section 39(1)(d), courts award payout for mental agony from harsh debt collection.
                   </p>
                 </div>
                 <div className="p-4 bg-slate-50 border border-slate-200 rounded-xl space-y-1.5">
-                  <h4 className="font-bold text-slate-900 text-xs sm:text-sm flex items-center gap-1.5">
+                  <h5 className="font-bold text-slate-900 text-xs sm:text-sm flex items-center gap-1.5">
                     <Gavel className="w-4 h-4 text-amber-500" />
                     <span>Cease-and-Desist Orders Against Unfair Trade Practices</span>
-                  </h4>
+                  </h5>
                   <p className="text-xs text-slate-600 leading-relaxed">
                     Under Section 39(1)(g), courts stop banks from using unfair recovery tactics.
                   </p>
@@ -861,7 +861,7 @@ export default function UnfairContractTermsLoanAgreementsPage() {
 
             {/* Section 8: Converting Invalidation to 50%-70% OTS */}
             <section id="converting-challenge-into-ots" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">8. Strategic Leverage</h2>
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">8. Strategic Leverage</h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Challenging bad contract terms gives you strong leverage. Normal recovery agents demand full payments with heavy fees.
               </p>
@@ -870,10 +870,10 @@ export default function UnfairContractTermsLoanAgreementsPage() {
               </p>
 
               <div className="bg-slate-50 rounded-2xl p-5 border border-slate-200 space-y-3 my-6">
-                <h3 className="font-bold text-slate-900 text-sm flex items-center gap-2">
+                <h4 className="font-bold text-slate-900 text-sm flex items-center gap-2">
                   <Check className="w-4 h-4 text-emerald-600" />
                   <span>The Dual-Track Strategic Resolution Framework</span>
-                </h3>
+                </h4>
                 <div className="grid grid-cols-1 md:grid-cols-2 gap-3 text-xs text-slate-700">
                   <div className="p-3 bg-white rounded-xl border border-slate-200">
                     <strong className="text-slate-900 block mb-1">Track 1: Active Judicial &amp; Regulatory Pressure</strong>
@@ -893,9 +893,9 @@ export default function UnfairContractTermsLoanAgreementsPage() {
 
             {/* Section 9: Contractual Remedy Comparative Matrix */}
             <section id="contractual-remedy-comparative-matrix" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                 9. Contractual Dispute Redressal Comparative Matrix
-              </h2>
+              </h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Borrowers facing unfair terms have several legal paths. The table below compares forums, timelines, costs. And settlement leverage:
               </p>
@@ -954,7 +954,7 @@ export default function UnfairContractTermsLoanAgreementsPage() {
 
             {/* Section 10 & Company Section */}
             <section id="company-defense-section" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">10. SettleLoans Contractual Defense</h2>
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">10. SettleLoans Contractual Defense</h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Facing unfair bank loan terms needs expert legal help. At <strong>SettleLoans</strong>, our banking lawyers protect borrowers across India.
               </p>
@@ -967,7 +967,7 @@ export default function UnfairContractTermsLoanAgreementsPage() {
 
             {/* Section 11: FAQ Accordion */}
             <section id="faqs" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">11. FAQs: Unfair Contract Terms in Loan Agreements</h2>
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">11. FAQs: Unfair Contract Terms in Loan Agreements</h3>
               <div className="space-y-3">
                 {((jsonLdGraph["@graph"].find((item: any) => item["@type"] === "FAQPage") as any)?.mainEntity || []).map((faq: any, index: number) => (
                   <details
@@ -988,9 +988,9 @@ export default function UnfairContractTermsLoanAgreementsPage() {
 
             {/* 5 Official Regulatory Links */}
             <section className="border-t border-slate-200 pt-8 mb-4">
-              <h3 className="text-xs sm:text-sm font-bold text-slate-900 mb-3 uppercase tracking-wider">
+              <h4 className="text-xs sm:text-sm font-bold text-slate-900 mb-3 uppercase tracking-wider">
                 Official Statutory &amp; Regulatory References
-              </h3>
+              </h4>
               <div className="grid grid-cols-1 sm:grid-cols-2 gap-2.5 text-xs">
                 <a
                   href="https://e-daakhil.nic.in"
@@ -1042,9 +1042,9 @@ export default function UnfairContractTermsLoanAgreementsPage() {
 
             {/* 10 Related Guide Badges */}
             <section className="border-t border-slate-200 pt-8 mb-8">
-              <h3 className="text-xs sm:text-sm font-bold text-slate-900 mb-4 uppercase tracking-wider">
+              <h4 className="text-xs sm:text-sm font-bold text-slate-900 mb-4 uppercase tracking-wider">
                 Related Legal Defense &amp; Loan Resolution Guides
-              </h3>
+              </h4>
               <div className="flex flex-wrap gap-2">
                 <Link
                   href="/consumer-court-complaint-against-bank-harassment"

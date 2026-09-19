@@ -302,62 +302,62 @@ export default function DelhiLoanSettlementPage() {
             </section>
 
             <section id="debt-spiral-delhi" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl font-black mb-6">Breaking the Delhi Debt Spiral</h2>
+              <h3 className="text-3xl font-black mb-6">Breaking the Delhi Debt Spiral</h3>
               <p>The debt spiral usually starts with a single credit card. You use it for an emergency, then you pay only the minimum due. Then you take a personal loan to pay off the credit card. Then you take another loan to pay the EMIs of the first loan. In Delhi, this cycle is incredibly common. The availability of 'instant loans' has only made it easier to enter this trap. Before you know it, you are working just to pay interest, while your actual debt remains unchanged or even grows because of penalties.</p>
               <p>Breaking this cycle requires a radical shift in strategy. Continuing to borrow is not the answer. Negotiating a one time settlement is. We understand that residents of Delhi take pride in their financial integrity. We want you to know that choosing settlement is not an act of dishonesty; it is a pragmatic financial decision made under genuine distress. It is a legally recognized way to end a cycle that has no other outlet.</p>
             </section>
 
             <section id="why-settle" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl font-black mb-6">Why Should You Settle Your Loan in Delhi NCR?</h2>
+              <h3 className="text-3xl font-black mb-6">Why Should You Settle Your Loan in Delhi NCR?</h3>
               <p>Settling a loan offers immediate relief. It puts a definitive end to the interest accumulation and the constant fear of the next EMI date. In the context of Delhi, where legal processes can be slow and recovery agents can be particularly aggressive, a settlement provides a clean break. It allows you to freeze your debt at a specific number and pay it off according to a timeline that you can actually afford.</p>
               <p>Moreover, a settlement is often the best outcome for the bank as well. They would rather recover 40% or 50% of the principal amount today than wait for years in a court system that is already overburdened with millions of pending cases. By opting for a professional settlement service, you are essentially facilitating a commercial compromise that benefits both parties while saving you from the mental trauma of persistent debt.</p>
             </section>
 
             <section id="legal-protection" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl font-black mb-6">Legal Protection for Borrowers in Delhi District Courts</h2>
+              <h3 className="text-3xl font-black mb-6">Legal Protection for Borrowers in Delhi District Courts</h3>
               <p>If your case has already reached the legal stage, do not panic. The Delhi district courts, including Saket, Dwarka, and Tis Hazari, handle thousands of recovery suits every year. Our legal team is well versed in the procedures of these courts. We know how to reply to summons, how to represent your financial hardship before a judge, and how to steer the case toward a compromise decree.</p>
               <p>The Code of Civil Procedure (CPC) in India allows for out of court settlements even after a suit has been filed. Under Order XXIII Rule 3 of the CPC, a compromise can be recorded by the court, which then becomes a binding decree. This effectively ends the litigation and gives you the legal assurance that the matter is closed. We provide the expert legal drafting and representation needed to navigate these courtrooms effectively.</p>
             </section>
 
             <section id="lok-adalats-expert" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl font-black mb-6">Unmatched Expertise in Delhi Lok Adalats</h2>
+              <h3 className="text-3xl font-black mb-6">Unmatched Expertise in Delhi Lok Adalats</h3>
               <p>The Delhi State Legal Services Authority (DSLSA) is one of the most proactive legal aid organizations in India. They regularly organize National Lok Adalats specifically for banking and financial matters. A Lok Adalat is a unique forum where disputes are settled without the formal atmosphere of a traditional court. There are no court fees, and the decision is final and non appealable.</p>
               <p>We have a track record of securing highly favorable settlements for our clients at these Lok Adalats. Our team coordinates with the DSLSA and the representing bank officers to ensure that your case is prioritized for an amicable resolution. The presence of a judicial officer at these sessions ensures that the settlement is fair and that the bank adheres to its promises. For a resident of Delhi, the Lok Adalat is perhaps the most efficient and legally sound way to settle a debt.</p>
             </section>
 
             <section id="drt-parliament-street" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl font-black mb-6">Navigating the DRT on Parliament Street</h2>
+              <h3 className="text-3xl font-black mb-6">Navigating the DRT on Parliament Street</h3>
               <p>For large debts, the Debt Recovery Tribunal (DRT) at Parliament Street is the primary forum. The DRT is a specialized body that focuses solely on the recovery of debts owed to banks. While the DRT process is faster than traditional civil courts, it also provides significant opportunities for settlement through the process of 'Compromise and Settlement'.</p>
               <p>If you have received a notice from the DRT, it usually means the bank is serious about recovery and may even attempt to attach your assets. However, even at this advanced stage, a settlement is possible. We provide the specialized DRT lawyers who can argue your case, contest unfair interest charges, and negotiate a settlement that protects your property and your future. The DRT environment requires a high level of legal precision, which is exactly what our Delhi office provides.</p>
             </section>
 
             <section id="ncr-specific-laws" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl font-black mb-6">NCR Specific Laws and Money Lending Regulations</h2>
+              <h3 className="text-3xl font-black mb-6">NCR Specific Laws and Money Lending Regulations</h3>
               <p>In addition to central laws like the SARFAESI Act and the RDB Act, certain local regulations in the Delhi NCR region provide additional layers of protection. For instance, the Punjab Registration of Money Lenders Act (as extended to Delhi) regulates private money lenders. If you have borrowed from a private source that is not a registered bank or NBFC, they must adhere to specific interest rate caps and registration requirements.</p>
               <p>Many 'informal' lenders in Delhi operate outside these laws, charging exorbitant interest rates and using muscle power for recovery. We help you identify these legal violations and use them as leverage in negotiations. Knowing the local legal landscape allows us to provide a level of protection that generic national services simply cannot match. We ensure that no lender, whether a giant bank or a local financier, operates outside the law when dealing with you.</p>
             </section>
 
             <section id="harassment-shield" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl font-black mb-6">The SettleLoans Anti-Harassment Shield for Delhi Residents</h2>
+              <h3 className="text-3xl font-black mb-6">The SettleLoans Anti-Harassment Shield for Delhi Residents</h3>
               <p>Recovery agent harassment is often the most painful part of being in debt. Agents calling your relatives, visiting your neighbors, or creating a scene at your office is not just unethical; it is illegal. The Supreme Court of India has held that the right to dignity is a fundamental right that cannot be taken away just because someone owes money.</p>
               <p>Our Anti-Harassment Shield is a combination of legal notices and communication redirection. We inform your lenders that you are now represented by counsel and that all further communication must be directed to our office. This immediately reduces the number of calls you receive. If agents persist, we help you file formal complaints with the Delhi Police and the Banking Ombudsman. We have a zero tolerance policy for harassment, and we empower you to stand up against these illegal tactics with the full force of the law behind you.</p>
             </section>
 
             <section id="settlement-roadmap" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl font-black mb-6">Your Roadmap to Becoming Debt Free in Delhi</h2>
+              <h3 className="text-3xl font-black mb-6">Your Roadmap to Becoming Debt Free in Delhi</h3>
               <p>Becoming debt free is a journey, and like any journey, it needs a good map. Our roadmap for Delhi residents is designed for maximum efficiency and minimum stress. It starts with a comprehensive audit of your debts. We look at which loans are already in default and which ones are about to be. We then prioritize based on the aggression level of the lender and the legal status of the account.</p>
               <p>Once the strategy is set, we move into the active negotiation phase. This is where our knowledge of bank-specific 'settlement cycles' comes into play. Banks often have certain months (like the end of a quarter or the financial year) where they are more willing to grant waivers to meet their targets. We time our moves to coincide with these windows, ensuring you get the largest possible discount. Every step of the way, you are kept informed through our dedicated client portal, giving you total visibility into the progress of your case.</p>
             </section>
 
             <section id="success-stories" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl font-black mb-8 text-center">Delhi Success Stories: Real People, Real Freedom</h2>
+              <h3 className="text-3xl font-black mb-8 text-center">Delhi Success Stories: Real People, Real Freedom</h3>
               <p className="text-center mb-8">We have successfully helped over 800+ families in the Delhi NCR region reclaim their financial lives. Here are a few notable success stories.</p>
               <div className="grid md:grid-cols-2 gap-6 not-prose">
                 <div className="bg-white p-6 rounded-2xl border border-[#DEDEDE] shadow-sm hover:shadow-md transition-all">
                   <div className="flex items-center mb-4">
                     <div className="w-10 h-10 rounded-full bg-[#1F5EFF]/10 flex items-center justify-center font-bold text-[#1F5EFF] mr-3">R</div>
                     <div>
-                      <h3 className="font-bold">Rajesh Kumar</h3>
+                      <h4 className="font-bold">Rajesh Kumar</h4>
                       <p className="text-xs text-gray-500">Rohini, Delhi</p>
                     </div>
                   </div>
@@ -368,7 +368,7 @@ export default function DelhiLoanSettlementPage() {
                   <div className="flex items-center mb-4">
                     <div className="w-10 h-10 rounded-full bg-[#1F5EFF]/10 flex items-center justify-center font-bold text-[#1F5EFF] mr-3">S</div>
                     <div>
-                      <h4 className="font-bold">Sunita Sharma</h4>
+                      <h5 className="font-bold">Sunita Sharma</h5>
                       <p className="text-xs text-gray-500">Dwarka, Delhi</p>
                     </div>
                   </div>
@@ -379,25 +379,25 @@ export default function DelhiLoanSettlementPage() {
             </section>
 
             <section id="cibil-recovery" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl font-black mb-6">The CIBIL Recovery Plan: Life After Settlement</h2>
+              <h3 className="text-3xl font-black mb-6">The CIBIL Recovery Plan: Life After Settlement</h3>
               <p>One of the most common myths in Delhi is that your credit life ends after a settlement. This is simply not true. While your score will take a hit, it is a temporary situation. We provide every client with a detailed 'CIBIL Rebuilding Guide'. This includes steps like opening a fixed deposit-backed credit card and managing it perfectly to generate a fresh, positive credit history.</p>
               <p>In fact, many of our past clients in Delhi have seen their scores bounce back to over 750 within 24 months of their final settlement. The key is to never miss a single payment on your new, smaller credit lines. By the time you need a big loan in the future, your past struggles will be a distant memory, and your current disciplined behavior will be the main factor that lenders look at. Settling today is the first step toward a healthier credit score tomorrow.</p>
             </section>
 
             <section id="bank-negotiation" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl font-black mb-6">Strategic Bank Level Negotiation in Delhi</h2>
+              <h3 className="text-3xl font-black mb-6">Strategic Bank Level Negotiation in Delhi</h3>
               <p>Negotiating with a bank is not about asking for a favor; it is about presenting a compelling commercial argument. Banks have specific committees and hierarchies for approving settlements. Our negotiators in Delhi are trained to speak the bank's language. We know how to draft 'Financial Hardship Statements' that satisfy the bank's internal audit requirements while securing the maximum waiver for you.</p>
               <p>We handle all major players in the Delhi market, from HDFC and ICICI to SBI and Punjab National Bank. Each of these institutions has a different appetite for risk and a different settlement policy. Our deep database of past successful settlements allows us to know exactly how much of a discount a particular bank is likely to offer in a particular month. This collective bargaining power is something an individual borrower simply cannot replicate on their own.</p>
             </section>
 
             <section id="professional-fees" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl font-black mb-6">Transparency in Our Service and Fees</h2>
+              <h3 className="text-3xl font-black mb-6">Transparency in Our Service and Fees</h3>
               <p>We believe that when you are already in financial distress, the last thing you need is more hidden costs. That is why SettleLoans operates on a model of total fee transparency. Our fees are based on the results we achieve for you. We don't make promises we can't keep, and we don't charge for services that don't add value.</p>
               <p>In the Delhi NCR market, there are many 'agents' who demand large upfront payments and then disappear. We are a registered entity with physical offices and a dedicated legal team. We provide a formal service agreement that outlines exactly what we will do and what our charges will be. This professional approach is why we are the top rated debt settlement service in North India. Your journey to financial freedom should be built on a foundation of trust and clarity.</p>
             </section>
 
             <section id="faqs" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl font-black mb-8">Frequently Asked Questions</h2>
+              <h3 className="text-3xl font-black mb-8">Frequently Asked Questions</h3>
               <div className="space-y-4 not-prose">
                 {[
                   { q: "Is loan settlement legal in Delhi?", a: "Yes, loan settlement is a 100% legal process in Delhi. It is a mutual agreement between the borrower and the lender under the Indian Contract Act. Mechanisms like Lok Adalats regularly facilitate such settlements for banking disputes." },
@@ -429,7 +429,7 @@ export default function DelhiLoanSettlementPage() {
             </section>
 
             <section className="mt-16 bg-[#1F5EFF] rounded-3xl p-10 text-center text-white shadow-2xl">
-              <h2 className="text-3xl md:text-4xl font-black mb-4">Start Your Debt Free Life Today</h2>
+              <h3 className="text-3xl md:text-4xl font-black mb-4">Start Your Debt Free Life Today</h3>
               <p className="mb-8 text-lg opacity-90 max-w-2xl mx-auto">Join the 800+ families in Delhi NCR who have successfully settled their loans with us. Your journey to financial freedom is just one call away.</p>
               <Link href="/contact" className="inline-block bg-white text-[#1F5EFF] font-black py-4 px-12 rounded-xl hover:scale-105 transition-all text-xl shadow-lg">
                 Get Your Free Analysis

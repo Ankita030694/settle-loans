@@ -372,9 +372,9 @@ export default function EducationLoanSettlementIndiaClient() {
 
             {/* Section 2 */}
             <section id="moratorium-expiry-unemployment-npa" className="scroll-mt-24 mb-10">
-              <h2 className="text-xl md:text-2xl font-black text-slate-900 mb-4 pb-2 border-b border-slate-200">
+              <h3 className="text-xl md:text-2xl font-black text-slate-900 mb-4 pb-2 border-b border-slate-200">
                 2. The Post-Graduation Moratorium Trap: Unemployment &amp; NPA Classification
-              </h2>
+              </h3>
               <p className="text-base text-slate-700 leading-relaxed mb-4">
                 The moratorium period is statutorily defined as the entire duration of the academic course plus either one year after course completion or six months after securing employment, whichever occurs earlier. During this phase, simple interest accrues on the disbursed tranches, but repayments are voluntary. The crisis initiates the exact moment this grace period lapses. If a graduate fails to secure campus placement or sustain gainful employment, compound interest suddenly gets capitalized into the core principal ledger, causing the outstanding liability to swell exponentially.
               </p>
@@ -431,9 +431,9 @@ export default function EducationLoanSettlementIndiaClient() {
 
             {/* Section 3 */}
             <section id="parent-coapplicant-legal-liabilities" className="scroll-mt-24 mb-10">
-              <h2 className="text-xl md:text-2xl font-black text-slate-900 mb-4 pb-2 border-b border-slate-200">
+              <h3 className="text-xl md:text-2xl font-black text-slate-900 mb-4 pb-2 border-b border-slate-200">
                 3. Parent &amp; Co-Applicant Legal Liabilities under Section 128 of Indian Contract Act
-              </h2>
+              </h3>
               <p className="text-base text-slate-700 leading-relaxed mb-4">
                 One of the most distressing dimensions of student loan default in India is the intense pressure mounted on parents. Under Section 128 of the Indian Contract Act, 1872, the liability of a guarantor or co-promisor is co-extensive with that of the principal debtor, unless explicitly contracted otherwise. Because commercial lenders mandate parents to sign as joint co-applicants or personal guarantors on education loan agreements, banks possess the strict contractual right to demand full satisfaction of unpaid arrears directly from the parents if the graduate cannot remit payments.
               </p>
@@ -444,9 +444,9 @@ export default function EducationLoanSettlementIndiaClient() {
 
             {/* Section 4 */}
             <section id="loan-tiers-cgfsel-collateral-rules" className="scroll-mt-24 mb-10">
-              <h2 className="text-xl md:text-2xl font-black text-slate-900 mb-4 pb-2 border-b border-slate-200">
+              <h3 className="text-xl md:text-2xl font-black text-slate-900 mb-4 pb-2 border-b border-slate-200">
                 4. Loan Tiers, CGFSEL Guarantee &amp; Collateral Enforceability
-              </h2>
+              </h3>
               <p className="text-base text-slate-700 leading-relaxed mb-4">
                 Understanding your loan tier is crucial for identifying your true legal exposure and settlement bargaining leverage. Under the IBA Educational Loan Scheme, loans up to ₹4 Lakh are purely clean advances requiring zero collateral and zero third-party guarantee, meaning recovery is entirely unsecured. For loans between ₹4 Lakh and ₹7.5 Lakh, no tangible collateral can be demanded; banks are protected by the Central Government&apos;s CGFSEL scheme, which guarantees reimbursement of 75% of the defaulted principal and interest upon NPA classification. For loans exceeding ₹7.5 Lakh—often availed for premier domestic institutions or overseas master&apos;s degrees—banks mandate tangible collateral security such as residential property, fixed deposits, or commercial plots.
               </p>
@@ -504,9 +504,9 @@ export default function EducationLoanSettlementIndiaClient() {
                     <span className="text-[10px] font-black uppercase tracking-widest text-blue-300 block">
                       Legal Defense &amp; Action Blueprint
                     </span>
-                    <h3 className="text-sm md:text-base font-black text-white leading-tight">
+                    <h4 className="text-sm md:text-base font-black text-white leading-tight">
                       Education Loan Settlement &amp; Co-Applicant Rights Roadmap
-                    </h3>
+                    </h4>
                   </div>
                 </div>
                 <a
@@ -548,9 +548,9 @@ export default function EducationLoanSettlementIndiaClient() {
 
             {/* Section 5 */}
             <section id="internal-haircut-npv-calculation" className="scroll-mt-24 mb-10">
-              <h2 className="text-xl md:text-2xl font-black text-slate-900 mb-4 pb-2 border-b border-slate-200">
+              <h3 className="text-xl md:text-2xl font-black text-slate-900 mb-4 pb-2 border-b border-slate-200">
                 5. How Banks Calculate Education Loan Settlements (Haircut &amp; NPV Formula)
-              </h2>
+              </h3>
               <p className="text-base text-slate-700 leading-relaxed mb-4">
                 A common misconception among borrowers is that loan settlement percentages are arbitrarily decided by recovery agents or local branch executives. In reality, Indian commercial banks and NBFCs evaluate One-Time Settlement (OTS) proposals using rigorous quantitative algorithms rooted in the Reserve Bank of India&apos;s Master Direction on Compromise Settlements (DOR.STR.REC.20/21.04.048/2023-24). The bank&apos;s Credit Committee compares the immediate cash value of your settlement offer against the Net Present Value (NPV) of projected future recoveries through legal enforcement.
               </p>
@@ -561,9 +561,9 @@ export default function EducationLoanSettlementIndiaClient() {
 
             {/* Section 6 */}
             <section id="step-by-step-ots-negotiation-strategy" className="scroll-mt-24 mb-10">
-              <h2 className="text-xl md:text-2xl font-black text-slate-900 mb-4 pb-2 border-b border-slate-200">
+              <h3 className="text-xl md:text-2xl font-black text-slate-900 mb-4 pb-2 border-b border-slate-200">
                 6. Step-by-Step OTS Negotiation Strategy for Unemployed Graduates
-              </h2>
+              </h3>
               <p className="text-base text-slate-700 leading-relaxed mb-4">
                 Successfully securing a favorable compromise settlement requires navigating the bank&apos;s institutional hierarchy with verified documentary evidence. The first step involves assembling a comprehensive Distress Portfolio, including university graduation certificates, verified copies of job application rejection letters, employment termination slips (if retrenched), and bank statements of both student and parents establishing lack of income. This documentation conclusively refutes any allegation of willful default, positioning the delinquency as genuine economic hardship.
               </p>
@@ -574,9 +574,9 @@ export default function EducationLoanSettlementIndiaClient() {
 
             {/* Section 7 */}
             <section id="restructuring-vs-extension-vs-ots" className="scroll-mt-24 mb-10">
-              <h2 className="text-xl md:text-2xl font-black text-slate-900 mb-4 pb-2 border-b border-slate-200">
+              <h3 className="text-xl md:text-2xl font-black text-slate-900 mb-4 pb-2 border-b border-slate-200">
                 7. Restructuring vs Moratorium Extension vs One-Time Settlement
-              </h2>
+              </h3>
               <p className="text-base text-slate-700 leading-relaxed mb-4">
                 Distressed graduates must carefully evaluate whether a compromise One-Time Settlement or a formal loan restructuring represents the optimal financial path. Restructuring is advisable if the borrower expects to secure employment within three to six months. Under RBI Prudential Norms, lenders possess internal discretion to elongate the loan tenure up to the maximum permissible ceiling of 15 years, convert accumulated unpaid interest into a Funded Interest Term Loan (FITL), or grant a temporary step-up EMI schedule. This route preserves credit standing by keeping the loan account active without a negative settlement tag.
               </p>
@@ -625,9 +625,9 @@ export default function EducationLoanSettlementIndiaClient() {
 
             {/* Section 8 */}
             <section id="legal-defenses-section138-harassment" className="scroll-mt-24 mb-10">
-              <h2 className="text-xl md:text-2xl font-black text-slate-900 mb-4 pb-2 border-b border-slate-200">
+              <h3 className="text-xl md:text-2xl font-black text-slate-900 mb-4 pb-2 border-b border-slate-200">
                 8. Legal Defenses Against Bank Notices: Section 138, Section 25 &amp; Harassment Rights
-              </h2>
+              </h3>
               <p className="text-base text-slate-700 leading-relaxed mb-4">
                 When an education loan defaults, collection departments often issue intimidating legal demand notices. A common tactic involves citing Section 25 of the Payment and Settlement Systems Act, 2007 (for bounced NACH/e-mandates) or Section 138 of the Negotiable Instruments Act, 1881 (if post-dated cheques bounce). Borrowers must understand that while bouncing an electronic clearing mandate is a technical quasi-criminal matter, establishing genuine lack of funds due to post-academic unemployment disproves dishonest intent. Participating in court proceedings with appropriate legal representation or transferring the matter to National Lok Adalat facilitates an amicable compromise settlement under judicial supervision.
               </p>
@@ -638,9 +638,9 @@ export default function EducationLoanSettlementIndiaClient() {
 
             {/* Section 9 */}
             <section id="sanction-letter-audit-zero-ndc" className="scroll-mt-24 mb-10">
-              <h2 className="text-xl md:text-2xl font-black text-slate-900 mb-4 pb-2 border-b border-slate-200">
+              <h3 className="text-xl md:text-2xl font-black text-slate-900 mb-4 pb-2 border-b border-slate-200">
                 9. Sanction Letter Audit, Safe Payment Protocols &amp; Zero-Balance NDC
-              </h2>
+              </h3>
               <p className="text-base text-slate-700 leading-relaxed mb-4">
                 Before transferring a single rupee toward an agreed settlement amount, borrowers must execute a stringent verification protocol. Never make payments based on verbal representations, WhatsApp messages, or scanned letters sent by third-party agencies. Insist upon receiving an authentic, physical <strong>OTS Sanction Letter</strong> issued on official bank letterhead, bearing the signature, employee designation, and official stamp of an authorized Credit Committee officer (such as the Assistant General Manager or Chief Manager).
               </p>
@@ -651,9 +651,9 @@ export default function EducationLoanSettlementIndiaClient() {
 
             {/* Section 10 */}
             <section id="cibil-score-rehabilitation-roadmap" className="scroll-mt-24 mb-10">
-              <h2 className="text-xl md:text-2xl font-black text-slate-900 mb-4 pb-2 border-b border-slate-200">
+              <h3 className="text-xl md:text-2xl font-black text-slate-900 mb-4 pb-2 border-b border-slate-200">
                 10. Credit Bureau Impact (CIBIL/CRIF) &amp; Post-Settlement Financial Rehabilitation
-              </h2>
+              </h3>
               <p className="text-base text-slate-700 leading-relaxed mb-4">
                 Following the execution of a compromise settlement, the lending institution reports the account status to all four authorized credit information companies—CIBIL, Experian, Equifax, and CRIF High Mark—as &apos;Settled&apos; or &apos;Post-Write-off Settled&apos; with an outstanding balance reflecting ₹0. While this status reflects that the debt was closed with a haircut rather than repaid in full, it is vastly preferable to an open, compounding &apos;Written-Off / Wilful Default&apos; status. The &apos;Settled&apos; mark halts further downward score degradation and stops legal collection activity permanently.
               </p>
@@ -674,9 +674,9 @@ export default function EducationLoanSettlementIndiaClient() {
                   <HelpCircle className="w-6 h-6" />
                 </div>
                 <div>
-                  <h2 className="text-xl md:text-2xl font-black text-slate-900">
+                  <h3 className="text-xl md:text-2xl font-black text-slate-900">
                     Frequently Asked Questions
-                  </h2>
+                  </h3>
                   <p className="text-xs md:text-sm text-slate-500">
                     Expert legal and regulatory answers for distressed student loan borrowers and parent guarantors
                   </p>
@@ -698,10 +698,10 @@ export default function EducationLoanSettlementIndiaClient() {
 
             {/* Official Sources & Regulatory References Strip */}
             <div className="bg-slate-50 border border-slate-200 rounded-2xl p-6 my-10">
-              <h3 className="text-base font-bold text-slate-900 mb-4 flex items-center gap-2">
+              <h4 className="text-base font-bold text-slate-900 mb-4 flex items-center gap-2">
                 <Scale className="w-5 h-5 text-[#1F5EFF]" />
                 Official Statutory Authorities &amp; Banking Regulations
-              </h3>
+              </h4>
               <ul className="space-y-3 text-xs md:text-sm text-slate-600">
                 <li className="flex items-start gap-2">
                   <ExternalLink className="w-4 h-4 text-[#1F5EFF] flex-shrink-0 mt-0.5" />
@@ -763,10 +763,10 @@ export default function EducationLoanSettlementIndiaClient() {
 
             {/* Related Guides & Resources Strip */}
             <div className="bg-slate-50 border border-slate-200 rounded-2xl p-6 my-10">
-              <h3 className="text-base font-bold text-slate-900 mb-4 flex items-center gap-2">
+              <h4 className="text-base font-bold text-slate-900 mb-4 flex items-center gap-2">
                 <BookOpen className="w-5 h-5 text-[#1F5EFF]" />
                 Explore Related Banking &amp; Debt Resolution Guides
-              </h3>
+              </h4>
               <div className="flex flex-wrap gap-2.5">
                 <Link
                   href="/bank-one-time-settlement-ots-policy"

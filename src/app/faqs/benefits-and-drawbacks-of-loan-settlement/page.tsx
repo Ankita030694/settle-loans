@@ -271,7 +271,7 @@ export default function BenefitsDrawbacksPage() {
                                 In 2024, as digital lending and NBFCs penetrate deeper into the middle class, default rates have seen a significant uptick. Banks have responded by tightening their settlement policies, making the negotiation process a high-stakes game. If you are currently overwhelmed by EMIs, you need to look beyond the immediate promise of a 50% waiver and understand the long term structural changes this decision will make to your financial DNA.
                             </p>
                             <div className="bg-[#1F5EFF]/5 p-8 rounded-2xl border-l-4 border-[#1F5EFF] mb-8">
-                                <h3 className="text-lg font-bold text-[#2E2E2E] mb-4 uppercase tracking-wide">The Fundamental Trade-off</h3>
+                                <h4 className="text-lg font-bold text-[#2E2E2E] mb-4 uppercase tracking-wide">The Fundamental Trade-off</h4>
                                 <p className="text-[#2E2E2E]/80">
                                     Settlement is essentially a compromise where you trade your future credit eligibility for immediate financial survival. It is chosen when the cost of continuing the loan (interest + penalties + harassment) exceeds the cost of a damaged credit report.
                                 </p>
@@ -279,38 +279,38 @@ export default function BenefitsDrawbacksPage() {
                         </section>
 
                         <section id="benefits-core" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                                 The Brighter Side: Immediate Benefits of Settlement
-                            </h2>
+                            </h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 The most immediate benefit is the massive reduction in the actual amount owed. When a loan is in default, the interest and penalties often grow faster than the borrower can possibly pay. Settlement freezes this growth and cuts the principal to a manageable level.
                             </p>
                             <div className="grid md:grid-cols-2 gap-6 mb-8">
                                 <div className="bg-emerald-50 p-6 rounded-xl border border-emerald-100">
                                     <FontAwesomeIcon icon={faShieldHeart} className="text-emerald-600 mb-4 w-6 h-6" />
-                                    <h3 className="font-bold text-lg mb-2 text-emerald-900">Principal Waivers</h3>
+                                    <h4 className="font-bold text-lg mb-2 text-emerald-900">Principal Waivers</h4>
                                     <p className="text-emerald-800 text-sm">Professional negotiators can often secure waivers ranging from 30% to 70% of the total outstanding amount, depending on the age of the debt and the lender's policy.</p>
                                 </div>
                                 <div className="bg-emerald-50 p-6 rounded-xl border border-emerald-100">
                                     <FontAwesomeIcon icon={faTriangleExclamation} className="text-emerald-600 mb-4 w-6 h-6" />
-                                    <h4 className="font-bold text-lg mb-2 text-emerald-900">Interest Freezing</h4>
+                                    <h5 className="font-bold text-lg mb-2 text-emerald-900">Interest Freezing</h5>
                                     <p className="text-emerald-800 text-sm">Once a settlement is initiated, the daily accumulation of penal interest stops, preventing the debt from ballooning while you arrange for the lump sum payment.</p>
                                 </div>
                             </div>
                         </section>
 
                         <section id="legal-protection" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                                 Legal Safety Net: Ending the Litigation cycle
-                            </h2>
+                            </h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 For many borrowers in India, the fear of legal action is the most significant stressor. Loan settlement acts as a formal legal closure. When you receive your No Dues Certificate, you are essentially getting a legal release from all future claims.
                             </p>
                             <div className="bg-gray-50 p-8 rounded-2xl border border-gray-200 mb-8">
-                                <h3 className="font-bold text-xl mb-4 flex items-center">
+                                <h4 className="font-bold text-xl mb-4 flex items-center">
                                     <FontAwesomeIcon icon={faGavel} className="text-blue-600 mr-3 w-5 h-5" />
                                     Legal Immunity via Settlement
-                                </h3>
+                                </h4>
                                 <ul className="space-y-4">
                                     <li className="flex items-start">
                                         <FontAwesomeIcon icon={faCheck} className="text-green-500 mt-1 mr-3 w-4 h-4 flex-shrink-0" />
@@ -329,27 +329,27 @@ export default function BenefitsDrawbacksPage() {
                         </section>
 
                         <section id="financial-freedom" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                                 Psychological Relief: The "Fresh Start" Effect
-                            </h2>
+                            </h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 One cannot quantify the value of a silent phone. The constant barrage of recovery calls, abrasive field agents visiting home or office, and the social stigma of being a defaulter takes a heavy toll on mental health. Settlement provides an immediate end to this harassment. It allows a borrower to sleep without the fear of a 7:30 AM threatening call. This psychological "reset" often provides the mental clarity needed to focus on rebuilding one's career or business.
                             </p>
                         </section>
 
                         <section id="drawbacks-core" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight text-red-600">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight text-red-600">
                                 The Price of Peace: Critical Drawbacks
-                            </h2>
+                            </h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 If settlement was purely beneficial, everyone would do it. The drawbacks are severe and intentionally designed by the banking system to discourage defaults. The biggest of these is the permanent damage to your credit reputation.
                             </p>
                         </section>
 
                         <section id="cibil-impact" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                                 The 7-Year CIBIL Scars: A Defaulter Stigma
-                            </h2>
+                            </h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 When you settle, your CIBIL report doesn't say "Closed" or "Paid". It says "Settled". This single word tells every future lender that you did not fulfill your original promise. You paid as per your convenience, not as per your contract.
                             </p>
@@ -362,7 +362,7 @@ export default function BenefitsDrawbacksPage() {
                                         </div>
                                     </div>
                                     <div className="md:w-2/3 p-8 bg-red-50/30">
-                                        <h3 className="text-xl font-bold text-gray-900 mb-4">The Impact of "Settled" Status</h3>
+                                        <h4 className="text-xl font-bold text-gray-900 mb-4">The Impact of "Settled" Status</h4>
                                         <p className="text-gray-700 leading-relaxed text-sm italic font-sans">
                                             While a default drops your score temporarily, a 'Settled' label persists in your historical data for seven years. This means even if your score reaches 750 after few years, a manual credit underwriter seeing the 'Settled' tag on an old personal loan might still reject your application for a premium credit card or high-value car loan.
                                         </p>
@@ -372,42 +372,42 @@ export default function BenefitsDrawbacksPage() {
                         </section>
 
                         <section id="future-borrowing" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                                 Future Borrowing: The Lending Blacklist
-                            </h2>
+                            </h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 Beyond the credit score, banks maintain internal "Negative Lists". If you settle a loan with SBI, you might be permanently blacklisted from all SBI Group products for life, regardless of how your CIBIL score behaves later. This "Institutional Blacklisting" often extends to subsidiary companies as well (e.g., settling an HDFC personal loan might affect an HDFC ERGO insurance policy or HDFC Securities account in some internal risk models).
                             </p>
                         </section>
 
                         <section id="social-implications" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                                 The "Settlement Trap": Recovery Pressure during Negotiation
-                            </h2>
+                            </h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 The process of reaching a settlement is itself a drawback. During the 3 to 6 months of negotiation, the recovery pressure often intensifies. Agents know you are looking to settle, so they might try to extract more by threatening to "Withdraw the offer" if you don't pay within 24 hours. This high-pressure environment can lead to bad deals where the borrower pays more than they should have just to end the stress. This is why professional mediation is often required.
                             </p>
                         </section>
 
                         <section id="tax-angle" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                                 The Hidden Tax Trap: Waivers as "Income"
-                            </h2>
+                            </h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 Most people forget that a loan waiver is technically a financial gain. If a bank waives ₹5 Lakhs, that ₹5 Lakhs can be treated as "Income from Other Sources" by the Indian Income Tax department. For business loans, the Finance Act 2023 has made this even more stringent. You might end up paying 20% to 30% of your "savings" to the government in the form of taxes, effectively reducing the net benefit of your settlement.
                             </p>
                         </section>
 
                         <section id="who-should-settle" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                                 Decision Matrix: Who is it Right For?
-                            </h2>
+                            </h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 To answer what are the key benefits and drawbacks of pursuing a loan settlement for your specific case, use this quick checklist:
                             </p>
                             <div className="grid sm:grid-cols-2 gap-4 mb-8">
                                 <div className="p-6 bg-blue-50 border border-blue-100 rounded-2xl">
-                                    <h3 className="font-bold text-blue-900 mb-3 uppercase text-xs tracking-widest">Settle IF...</h3>
+                                    <h4 className="font-bold text-blue-900 mb-3 uppercase text-xs tracking-widest">Settle IF...</h4>
                                     <ul className="space-y-2 text-sm text-blue-800">
                                         <li>You have zero hope of paying full EMIs in next 24 months.</li>
                                         <li>You are facing active legal notices (Section 138).</li>
@@ -415,7 +415,7 @@ export default function BenefitsDrawbacksPage() {
                                     </ul>
                                 </div>
                                 <div className="p-6 bg-red-50 border border-red-100 rounded-2xl">
-                                    <h4 className="font-bold text-red-900 mb-3 uppercase text-xs tracking-widest">DO NOT Settle IF...</h4>
+                                    <h5 className="font-bold text-red-900 mb-3 uppercase text-xs tracking-widest">DO NOT Settle IF...</h5>
                                     <ul className="space-y-2 text-sm text-red-800">
                                         <li>You plan to buy a home or car in the next 3 years.</li>
                                         <li>You have assets you can sell to pay in full.</li>
@@ -426,16 +426,16 @@ export default function BenefitsDrawbacksPage() {
                         </section>
 
                         <section id="expert-verdict" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                                 Professional Verdict: A Strategic Exit
-                            </h2>
+                            </h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 At SettleLoans, we view settlement as a "Strategic Bankruptcy Lite". It is a tool to be used only when all other options like restructuring or balance transfers are exhausted. If used correctly, it is a life saving procedure for your finances. If used incorrectly (out of convenience), it is a self inflicted wound to your financial credibility. Always weigh the immediate peace of mind against the seven years of credit friction before signing that sanction letter.
                             </p>
                         </section>
 
                         <section id="faqs" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 text-center">Settlement Strategy FAQs</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 text-center">Settlement Strategy FAQs</h3>
                             <div className="space-y-4 not-prose">
                                 {
                                     [
@@ -495,7 +495,7 @@ export default function BenefitsDrawbacksPage() {
                             </div>
                         </section>
 
-                        <h2 id="success-stories" className="scroll-mt-32 text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 text-center uppercase tracking-tighter">Strategic Impact Case Studies</h2>
+                        <h3 id="success-stories" className="scroll-mt-32 text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 text-center uppercase tracking-tighter">Strategic Impact Case Studies</h3>
                         <div className="grid md:grid-cols-2 gap-6 not-prose mb-16 font-sans">
                             {[
                                 {
@@ -530,7 +530,7 @@ export default function BenefitsDrawbacksPage() {
                                 <div key={i} className="bg-white p-6 rounded-2xl border border-[var(--color-border)] shadow-sm hover:shadow-md transition-all">
                                     <div className="flex items-center mb-4">
                                         <div className="w-10 h-10 rounded-full bg-[#1F5EFF]/10 flex items-center justify-center font-bold text-[#1F5EFF] mr-3">{review.name.charAt(0)}</div>
-                                        <div><h3 className="font-bold text-[#2E2E2E] text-base">{review.name}</h3><p className="text-[10px] text-gray-400 font-sans tracking-wide">{review.loc}</p></div>
+                                        <div><h4 className="font-bold text-[#2E2E2E] text-base">{review.name}</h4><p className="text-[10px] text-gray-400 font-sans tracking-wide">{review.loc}</p></div>
                                         <div className="ml-auto text-yellow-400 text-[10px] flex gap-0.5">
                                             {[...Array(5)].map((_, i) => <FontAwesomeIcon key={i} icon={faStar} className="w-2.5 h-2.5" />)}
                                         </div>
@@ -558,7 +558,7 @@ export default function BenefitsDrawbacksPage() {
                         <section className="bg-[#1F5EFF] rounded-[15px] p-8 md:p-16 text-center text-white relative overflow-hidden shadow-2xl">
                             <div className="absolute top-0 right-0 w-64 h-64 bg-white/10 rounded-full -mr-32 -mt-32 blur-3xl"></div>
                             <div className="relative z-10">
-                                <h2 className="text-3xl md:text-6xl font-black mb-8 uppercase tracking-tighter text-[#DEDEDE]">Make an Informed Choice</h2>
+                                <h3 className="text-3xl md:text-6xl font-black mb-8 uppercase tracking-tighter text-[#DEDEDE]">Make an Informed Choice</h3>
                                 <p className="text-lg md:text-2xl opacity-90 max-w-2xl mx-auto mb-12 leading-tight font-normal text-[#DEDEDE] text-pretty">
                                     Don't settle blindly. Our experts will help you weigh the pros and cons for your specific profile. Get a free advisory session.
                                 </p>

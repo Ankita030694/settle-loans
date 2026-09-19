@@ -241,7 +241,7 @@ const Page = () => {
                     </section>
 
                     <section id="hp-money-lending-act" className="scroll-mt-32 mb-16">
-                        <h2 className="text-3xl font-black mb-6">Protections under the HP Registration of Money Lenders Act, 1976</h2>
+                        <h3 className="text-3xl font-black mb-6">Protections under the HP Registration of Money Lenders Act, 1976</h3>
                         <p>For many residents of Himachal Pradesh, especially in rural areas, private moneylenders are a primary source of quick credit. However, this often comes with exorbitant interest rates and predatory recovery practices. To address this, the state enacted the **Himachal Pradesh Registration of Money Lenders Act, 1976**. This law is a cornerstone of borrower protection in HP.</p>
                         <p>The Act mandates that any individual or entity engaged in the business of money lending must be registered with the state and hold a valid license. This licensing process ensures that lenders are known to the authorities and are bound by the regulations of the state. If you have borrowed money from an unregistered lender in Mandi or Hamirpur, that lender is operating illegally. In many cases, loans from unlicensed lenders are legally unenforceable in a court of law. SettleLoans helps you verify the status of your lender and uses this as a significant leverage point in negotiations.</p>
                         <p>One of the most critical provisions of the Act is the cap on interest rates. The state government has the authority to specify the maximum interest that a registered moneylender can charge. Many private lenders in the hills charge rates that are well above these legal limits, often doubling or tripling the principal in just a few years. We conduct a thorough audit of your loan accounts, calculating the legal interest versus what has been charged. Often, we find that the borrower has already paid more than the legally permissible amount, which can lead to a complete waiver of the remaining debt.</p>
@@ -250,7 +250,7 @@ const Page = () => {
                     </section>
 
                     <section id="agricultural-debt-relief" className="scroll-mt-32 mb-16">
-                        <h2 className="text-3xl font-black mb-6">Navigating the Himachal Pradesh Relief of Agricultural Indebtedness Act, 1976</h2>
+                        <h3 className="text-3xl font-black mb-6">Navigating the Himachal Pradesh Relief of Agricultural Indebtedness Act, 1976</h3>
                         <p>Agriculture and horticulture are the backbones of the Himachal Pradesh economy. However, the uncertainties of weather, fluctuating market prices for crops like apples, and the high cost of inputs often leave farmers in a debt trap. Recognizing this, the state introduced the **Himachal Pradesh Relief of Agricultural Indebtedness Act, 1976**, specifically designed to assist the agrarian community.</p>
                         <p>This Act provides a much needed safety net for farmers, landless agricultural laborers, and rural artisans. It allows for the scaling down of debts and, in some cases, the complete discharge of certain types of liabilities. For a small farmer in Kullu or Shimla, this can mean the difference between losing their ancestral land and having a chance to recover. The Act recognizes that the credit needs of the rural population are different and require a more compassionate legal approach.</p>
                         <p>One of the key features of this Act is the provision for a debt relief court or officer who can investigate the financial status of a distressed agriculturalist. They have the power to examine the history of the debt, the interest charged, and the borrower's ability to repay. SettleLoans assists rural borrowers in presenting their cases before these authorities. We help gather the necessary documentation, such as land records, crop loss reports from the Patwari, and bank statements, to build a compelling case for relief.</p>
@@ -259,7 +259,7 @@ const Page = () => {
                     </section>
 
                     <section id="tourism-impact-debt" className="scroll-mt-32 mb-16">
-                        <h2 className="text-3xl font-black mb-6">The Impact of Tourism and Natural Calamities on Debt</h2>
+                        <h3 className="text-3xl font-black mb-6">The Impact of Tourism and Natural Calamities on Debt</h3>
                         <p>Himachal Pradesh's economy is highly dependent on tourism. From Shimla and Manali to the remote valleys of Spiti and Kinnaur, thousands of people rely on the influx of tourists for their income. However, tourism is a fickle mistress. It can be disrupted by many factors, including national economic trends, travel advisories, and, most significantly in HP, natural disasters. The devastating floods and landslides of 2023 are a prime example of how quickly the financial situation of thousands can change.</p>
                         <p>When disasters strike, the tourism industry comes to a complete standstill. Hotels remain empty, taxis stop running, and local markets go silent. For the many individuals who took personal loans, car loans, or business loans during a peak season, this lack of income is catastrophic. Banks, however, often continue to demand their monthly EMIs, indifferent to the fact that the borrower's source of income has literally been washed away. This leads to a spiral of default that is through no fault of the borrower.</p>
                         <p>SettleLoans specializes in 'Force Majeure' based negotiations. We argue that these natural calamities constitute an 'Act of God' that makes the regular fulfillment of the loan contract impossible. We work with the banks to recognize these extraordinary circumstances. Instead of allowing your debt to grow through penalties and compounded interest, we push for a **One Time Settlement (OTS)** that takes into account your actual financial standing after the disaster.</p>
@@ -268,7 +268,7 @@ const Page = () => {
                     </section>
 
                     <section id="hpslsa-lok-adalat" className="scroll-mt-32 mb-16">
-                        <h2 className="text-3xl font-black mb-6">Resolving Debt through HPSLSA and Lok Adalats</h2>
+                        <h3 className="text-3xl font-black mb-6">Resolving Debt through HPSLSA and Lok Adalats</h3>
                         <p>The **Himachal Pradesh State Legal Services Authority (HPSLSA)** is a vital institution for the people of the state, providing access to justice for those who might otherwise be overwhelmed by the legal system. One of the most effective tools provided by the HPSLSA is the **Lok Adalat**. These 'People's Courts' are held regularly across all districts of HP, from Shimla to Lahaul & Spiti, and are an excellent forum for resolving bank debt disputes.</p>
                         <p>A Lok Adalat is an informal, voluntary, and non adversarial process. It brings the borrower and the bank together on a common platform to reach a mutually agreeable settlement. The process is facilitated by conciliators, who are typically retired judges or senior legal professionals. The primary advantage of a Lok Adalat is that it offers a final and binding resolution. Once a settlement award is passed, it has the force of a civil court decree and cannot be appealed. This means you can walk away with a clean slate and no further legal threats from the bank.</p>
                         <p>However, navigating a Lok Adalat effectively requires preparation and professional representation. Banks often come with pre set targets and powerful legal teams. An individual borrower might feel pressured into accepting a settlement that is still beyond their means. SettleLoans acts as your advocate in this forum. We begin our negotiations with the bank's regional management long before the Lok Adalat date, setting the stage for a favorable outcome. We ensure that your financial hardship is clearly presented to the conciliators, who can then encourage the bank to be more reasonable.</p>
@@ -277,7 +277,7 @@ const Page = () => {
                     </section>
 
                     <section id="debt-reduction-act" className="scroll-mt-32 mb-16">
-                        <h2 className="text-3xl font-black mb-6">Understanding the Himachal Pradesh Debt Reduction Act, 1976</h2>
+                        <h3 className="text-3xl font-black mb-6">Understanding the Himachal Pradesh Debt Reduction Act, 1976</h3>
                         <p>Another powerful legislative tool at the disposal of HP residents is the **Himachal Pradesh Debt Reduction Act, 1976**. As the name suggests, this Act is specifically aimed at providing a legal mechanism for the reduction of debts that have become unmanageable. It is applicable to various types of loans and provides a structured way for the courts to intervene and provide relief to distressed borrowers.</p>
                         <p>The Act allows a debtor to apply to a court for the reduction of their debt. The court then has the power to look into the history of the loan, the amount of interest already paid, and any unfair practices by the lender. If the court finds that the interest is excessive or that the borrower's circumstances warrant relief, it can reduce the principal, waive off the interest, or set a manageable repayment schedule. This is particularly useful for loans from private sources or older bank debts that have ballooned due to penalties.</p>
                         <p>SettleLoans helps you leverage this Act by preparing a detailed 'Debt Audit Report'. We document every payment you have made since the inception of the loan. Often, we can prove that under the principles of the Debt Reduction Act, you have already repaid the fair value of the loan. We use this technical analysis to negotiate with your creditors. The threat of a court mandated debt reduction often makes banks much more willing to settle for a reasonable lump sum amount through an out of court settlement.</p>
@@ -286,7 +286,7 @@ const Page = () => {
                     </section>
 
                     <section id="consumer-protection-hp" className="scroll-mt-32 mb-16">
-                        <h2 className="text-3xl font-black mb-6">Your Rights as a Consumer in Himachal Pradesh</h2>
+                        <h3 className="text-3xl font-black mb-6">Your Rights as a Consumer in Himachal Pradesh</h3>
                         <p>Many borrowers often forget that when they take a loan, they are also a consumer of a financial service. As such, they are protected by the **Consumer Protection Act, 2019**, and the various guidelines issued by the **Reserve Bank of India (RBI)**. In Himachal Pradesh, where the banking network is extensive, ensuring that these rights are protected is a key part of our work at SettleLoans.</p>
                         <p>One of your primary rights is the right to transparency. The bank must clearly disclose all interest rates, fees, and penalties at the time of the loan. If you were misled about the terms or if the bank has charged 'hidden fees' that were not in your agreement, this is a 'Deficiency in Service'. We regularly find such discrepancies in credit card statements and personal loan accounts. We use these violations of consumer law to challenge the bank's claims during settlement negotiations.</p>
                         <p>You also have the right to a fair and professional grievance redressal process. Every bank is required to have a dedicated Nodal Officer to handle complaints. If you are unhappy with the bank's response, you can escalate the matter to the **Banking Ombudsman**. SettleLoans handles this entire escalation process for you. We draft professional complaints that highlight the bank's failures, whether it is inaccurate CIBIL reporting, refusal to provide a statement of account, or the use of illegal recovery tactics.</p>
@@ -295,7 +295,7 @@ const Page = () => {
                     </section>
 
                     <section id="stopping-recovery-harassment" className="scroll-mt-32 mb-16">
-                        <h2 className="text-3xl font-black mb-6">Stopping Recovery Harassment: Reclaiming Your Dignity</h2>
+                        <h3 className="text-3xl font-black mb-6">Stopping Recovery Harassment: Reclaiming Your Dignity</h3>
                         <p>The most painful part of being in debt is the constant barrage of calls and visits from recovery agents. In close knit Goan communities, the social stigma of being a defaulter is often used as a weapon by these agents. They might call your workplace in Shimla, contact your neighbors in Solan, or use abusive language on the phone. It is important to know that **this is illegal**.</p>
                         <p>The RBI has issued clear 'Fair Practices Codes' for banks and NBFCs regarding the recovery of debts. Agents are prohibited from using physical force, verbal abuse, or any form of public shaming. They can only call you during specific hours (usually 8 AM to 7 PM) and cannot harass your family members or friends. If these rules are being broken, you have the right to take legal action.</p>
                         <p>SettleLoans provides an immediate **Anti Harassment Shield**. The moment you enroll with us, we issue formal legal notices to all your creditors, informing them that you are now legally represented. This notice directs all future communication regarding the debt to our firm. This single step stops the majority of collection calls almost immediately. Most professional recovery agencies are instructed to back off once they know a borrower has a professional legal defense.</p>
@@ -304,7 +304,7 @@ const Page = () => {
                     </section>
 
                     <section id="personal-loan-settlement" className="scroll-mt-32 mb-16">
-                        <h2 className="text-3xl font-black mb-6">Strategic Settlement of Personal Loans in HP</h2>
+                        <h3 className="text-3xl font-black mb-6">Strategic Settlement of Personal Loans in HP</h3>
                         <p>Personal loans are often taken for urgent needs: a medical emergency at the IGMC Shimla, a child's education at a Solan university, or a family wedding in Mandi. Because these loans are unsecured, banks have no collateral to seize. This makes them much more aggressive in their recovery efforts, but it also makes them more willing to negotiate a settlement if they realize that recovery of the full amount is unlikely.</p>
                         <p>Negotiating a personal loan settlement is an art. It requires knowing the bank's 'internal threshold'. Every bank has a specific percentage of the outstanding amount that they are willing to accept as a final settlement during different times of the year (often during March or December). SettleLoans negotiators, with their deep industry experience, know these nuances. We don't just ask for a discount; we present a professional proposal backed by your 'Hardship Folder'.</p>
                         <p>We help you build a case that proves your inability to pay the full EMI, while demonstrating a genuine 'Willingness to Settle' for a lump sum. This might include showing loss of income, medical bills, or other financial obligations. We aim for a 'Full and Final' settlement, ensuring that once you pay the agreed amount, the account is closed forever. We also ensure that the bank provides a formal **Settlement Letter** on their official letterhead with a clear 'Validity Date'. Without this letter, any payment you make might just be adjusted as a partial payment, and the debt will continue to exist.</p>
@@ -312,7 +312,7 @@ const Page = () => {
                     </section>
 
                     <section id="credit-card-debt-hp" className="scroll-mt-32 mb-16">
-                        <h2 className="text-3xl font-black mb-6">Escaping the Credit Card Debt Trap in the Hills</h2>
+                        <h3 className="text-3xl font-black mb-6">Escaping the Credit Card Debt Trap in the Hills</h3>
                         <p>Credit cards are the most expensive form of debt in India, with interest rates often exceeding 40% per annum. In Himachal Pradesh's growing economy, credit card usage is on the rise, but so is the 'Minimum Amount Due' trap. Many people in Shimla and Dharamshala find themselves paying thousands every month just to keep their card active, while the principal amount never seems to decrease. This is not a repayment; it is a permanent interest tax on your life.</p>
                         <p>The 'Minimum Amount Due' only covers the interest and taxes for that month. The rest of your debt continues to accrue interest, and soon you are paying interest on interest. If you are in this situation, the best thing to do is to stop using the card and stop paying the minimum amount. This is a difficult decision, as it will hurt your credit score and start the recovery process, but it is the only way to force the bank to settle.</p>
                         <p>SettleLoans guides you through this 'Strategic Default'. We manage the fallout while building your case for a settlement. We highlight the massive amounts of interest you have already paid to the bank. We argue that a reasonable lump sum settlement is the only fair way to resolve the account given the predatory nature of credit card interest rates. We have a track record of settling credit card debts for as low as 25% to 35% of the total outstanding amount for our Goan clients.</p>
@@ -320,7 +320,7 @@ const Page = () => {
                     </section>
 
                     <section id="rebuilding-credit-hills" className="scroll-mt-32 mb-16">
-                        <h2 className="text-3xl font-black mb-6">Rebuilding Your Credit Score in Himachal Pradesh</h2>
+                        <h3 className="text-3xl font-black mb-6">Rebuilding Your Credit Score in Himachal Pradesh</h3>
                         <p>A common myth is that once you settle a loan, you will never be able to get credit again. While it is true that a settlement will lead to a 'Settled' remark on your CIBIL report and a temporary drop in your score, it is not a permanent death sentence for your financial life. In fact, settling a loan is the first step in rebuilding your credit, as it removes the 'Active Default' status which is far more damaging to future lenders.</p>
                         <p>After your settlement is complete and all NDCs are in your hand, we guide you through a 'Credit Rehabilitation Plan'. This is a structured approach to slowly and steadily improve your score over 12 to 24 months. The most effective method in HP is to take a 'Secured Credit Card' against a small Fixed Deposit (usually around ₹20,000) from a bank in Shimla or Solan. By using this card for small monthly expenses and paying the balance in full every month, you demonstrate to the credit bureaus that you are now a disciplined borrower.</p>
                         <p>We also advise our clients to regularly check their credit reports to ensure that the bank has accurately reported the account as 'Settled'. Sometimes, banks fail to update the status, and it continues to show as an active default. We help you file 'Data Accuracy' disputes with CIBIL, Experian, and other bureaus to rectify these errors. Within two years of disciplined behavior, many of our clients see their scores return to the 750+ range, making them eligible for car loans, home loans, and other credit products.</p>
@@ -328,13 +328,13 @@ const Page = () => {
                     </section>
 
                     <section id="hp-success-stories" className="scroll-mt-32 mb-16 text-center">
-                        <h2 className="text-4xl font-black mb-12">Success Stories from across Himachal Pradesh</h2>
+                        <h3 className="text-4xl font-black mb-12">Success Stories from across Himachal Pradesh</h3>
                         <div className="grid md:grid-cols-2 gap-8 not-prose">
                             <div className="bg-white p-8 rounded-3xl border border-[#DEDEDE] shadow-xl hover:shadow-2xl transition-all h-full flex flex-col">
                                 <div className="flex items-center mb-6">
                                     <div className="w-14 h-14 rounded-full bg-[#1F5EFF]/10 flex items-center justify-center font-bold text-[#1F5EFF] text-xl mr-4">V</div>
                                     <div className="text-left">
-                                        <h3 className="font-black text-xl">Vikas S.</h3>
+                                        <h4 className="font-black text-xl">Vikas S.</h4>
                                         <p className="text-sm text-gray-500">Manali, Kullu</p>
                                     </div>
                                     <div className="ml-auto text-yellow-500">★★★★★</div>
@@ -349,7 +349,7 @@ const Page = () => {
                                 <div className="flex items-center mb-6">
                                     <div className="w-14 h-14 rounded-full bg-[#1F5EFF]/10 flex items-center justify-center font-bold text-[#1F5EFF] text-xl mr-4">S</div>
                                     <div className="text-left">
-                                        <h4 className="font-black text-xl">Sandeep K.</h4>
+                                        <h5 className="font-black text-xl">Sandeep K.</h5>
                                         <p className="text-sm text-gray-500">Shimla, HP</p>
                                     </div>
                                     <div className="ml-auto text-yellow-500">★★★★★</div>
@@ -364,7 +364,7 @@ const Page = () => {
                     </section>
 
                     <section id="faqs-hp" className="scroll-mt-32 mb-16">
-                        <h2 className="text-3xl font-black mb-8">Frequently Asked Questions: Himachal Pradesh Edition</h2>
+                        <h3 className="text-3xl font-black mb-8">Frequently Asked Questions: Himachal Pradesh Edition</h3>
                         <div className="space-y-4 not-prose">
                             {[
                                 { q: "Is loan settlement legal in Himachal Pradesh?", a: "Yes, loan settlement is a 100% legal process recognized by the RBI and governed by the Indian Contract Act. It is a standard method for resolving Non-Performing Assets (NPAs)." },
@@ -394,7 +394,7 @@ const Page = () => {
                     </section>
 
                     <section className="mt-16 bg-[#1F5EFF] rounded-3xl p-10 text-center text-white shadow-2xl">
-                        <h2 className="text-3xl md:text-4xl font-black mb-4">Take the First Step to a Debt-Free Life in Himachal</h2>
+                        <h3 className="text-3xl md:text-4xl font-black mb-4">Take the First Step to a Debt-Free Life in Himachal</h3>
                         <p className="mb-8 text-lg opacity-90 max-w-2xl mx-auto">From the slopes of Rohtang to the temples of Kangra, we serve every corner of Himachal Pradesh. Reclaim your financial independence today.</p>
                         <div className="flex justify-center">
                             <Link href="/contact" className="inline-block bg-white text-[#1F5EFF] font-black py-4 px-12 rounded-xl hover:scale-105 transition-all text-xl shadow-lg">

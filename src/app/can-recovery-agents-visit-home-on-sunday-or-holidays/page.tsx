@@ -477,7 +477,7 @@ export default function CanRecoveryAgentsVisitHomeOnSundayOrHolidaysPage() {
 
             {/* Section 2: RBI Master Directions on Timing & Holiday Visits */}
             <section id="rbi-master-directions-holiday-visits" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">2. RBI Directives on Holiday Visits</h2>
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">2. RBI Directives on Holiday Visits</h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 The Reserve Bank of India sets rules for banks and NBFCs. Under Section 21 and Section 35A of the Banking Regulation Act, 1949, RBI orders are binding law.
               </p>
@@ -486,10 +486,10 @@ export default function CanRecoveryAgentsVisitHomeOnSundayOrHolidaysPage() {
               </p>
               
               <div className="bg-slate-50 border border-slate-200 rounded-2xl p-5 my-4 space-y-4">
-                <h3 className="text-xs sm:text-sm font-bold text-slate-900 uppercase tracking-wider flex items-center gap-2">
+                <h4 className="text-xs sm:text-sm font-bold text-slate-900 uppercase tracking-wider flex items-center gap-2">
                   <Gavel className="w-4 h-4 text-[#1F5EFF]" />
                   <span>Mandatory RBI Standards Governing Doorstep Visits</span>
-                </h3>
+                </h4>
                 <div className="space-y-3 text-xs sm:text-sm text-slate-700">
                   <div className="p-3.5 bg-white rounded-xl border border-slate-200">
                     <p className="font-bold text-slate-900">1. Strict Time Window Restriction (8:00 AM to 7:00 PM)</p>
@@ -525,7 +525,7 @@ export default function CanRecoveryAgentsVisitHomeOnSundayOrHolidaysPage() {
 
             {/* Section 3: Privacy Rights & Sec 329 BNS Trespass */}
             <section id="constitutional-privacy-criminal-trespass" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">3. Privacy Rights &amp; Sec 329 BNS Trespass</h2>
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">3. Privacy Rights &amp; Sec 329 BNS Trespass</h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Borrower rights are backed by the top court. In <em>Justice K.S. Puttaswamy (Retd.) v. Union of India (2017) 10 SCC 1</em>, the Supreme Court ruled privacy is a fundamental right under Article 21.
               </p>
@@ -537,10 +537,10 @@ export default function CanRecoveryAgentsVisitHomeOnSundayOrHolidaysPage() {
               </p>
               
               <div className="bg-slate-50 border border-slate-200 rounded-2xl p-5 my-4">
-                <h3 className="font-bold text-slate-900 text-sm mb-3 flex items-center gap-2">
+                <h4 className="font-bold text-slate-900 text-sm mb-3 flex items-center gap-2">
                   <ShieldCheck className="w-4 h-4 text-[#1F5EFF]" />
                   <span>Penal Consequences for Unlawful Holiday Recovery Conduct</span>
-                </h3>
+                </h4>
                 <div className="grid grid-cols-1 sm:grid-cols-2 gap-3 text-xs text-slate-700">
                   <div className="p-3 bg-white rounded-xl border border-slate-200">
                     <p className="font-bold text-slate-900 mb-1">Section 329 BNS: Criminal House-Trespass</p>
@@ -568,7 +568,7 @@ export default function CanRecoveryAgentsVisitHomeOnSundayOrHolidaysPage() {
 
             {/* Section 4: Bank NPA Accounting Realities & NPV Recovery Formula */}
             <section id="bank-npa-accounting-npv-recovery" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">4. Bank NPA Accounting in Weekend Recovery</h2>
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">4. Bank NPA Accounting in Weekend Recovery</h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Banks push on weekends because bad loans tie up bank funds. Under RBI rules, unpaid loans turn into Non-Performing Assets (NPAs) after 90 days.
               </p>
@@ -623,7 +623,7 @@ export default function CanRecoveryAgentsVisitHomeOnSundayOrHolidaysPage() {
 
             {/* Section 6: Tactical Step-by-Step Response */}
             <section id="tactical-protocol-turning-away-agents" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">6. Tactical Steps to Turn Away Agents</h2>
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">6. Tactical Steps to Turn Away Agents</h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 When agents visit on a Sunday or holiday, stay calm. Follow a clear legal step-by-step process. You do not need to panic or argue. Follow this 5-step plan:
               </p>
@@ -664,7 +664,7 @@ export default function CanRecoveryAgentsVisitHomeOnSundayOrHolidaysPage() {
 
             {/* Section 7: Institutional Escalation */}
             <section id="institutional-escalation-ombudsman-police" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">7. Escalation to Ombudsman &amp; Police</h2>
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">7. Escalation to Ombudsman &amp; Police</h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 If a lender sends agents on holidays, build a clear paper trail. Save visits, audio clips, and CCTV clips for formal complaints.
               </p>
@@ -678,7 +678,7 @@ export default function CanRecoveryAgentsVisitHomeOnSundayOrHolidaysPage() {
 
             {/* Section 8: Direct OTS Settlement Protocols */}
             <section id="cease-and-desist-ots-negotiation" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">8. OTS Settlement Protocol for Weekend Defaults</h2>
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">8. OTS Settlement Protocol for Weekend Defaults</h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Stopping Sunday visits brings peace of mind. But settling your debt brings permanent relief. Token cash payments only extend debt troubles. An institutional One-Time Settlement (OTS) is the best path.
               </p>
@@ -714,7 +714,7 @@ export default function CanRecoveryAgentsVisitHomeOnSundayOrHolidaysPage() {
 
             {/* Section 9: Comparative Legal Matrix */}
             <section id="comparative-enforcement-matrix" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">9. Weekend Recovery &amp; Defense Matrix</h2>
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">9. Weekend Recovery &amp; Defense Matrix</h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 The table below outlines legal boundaries, visiting hours, and borrower protections across recovery channels in India:
               </p>
@@ -774,7 +774,7 @@ export default function CanRecoveryAgentsVisitHomeOnSundayOrHolidaysPage() {
             {/* Section 10: SettleLoans Legal Defense Framework */}
             <section id="settleloans-legal-defense-framework" className="space-y-6">
               <div className="border-t border-slate-200 pt-8 space-y-4">
-                <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">10. SettleLoans Weekend Harassment Defense</h2>
+                <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">10. SettleLoans Weekend Harassment Defense</h3>
                 <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                   No family should face aggressive debt agents during weekend rest or festivals. At SettleLoans, our legal team defends borrowers across India. We enforce privacy rights under the RBI Fair Practices Code and Section 329 BNS.
                 </p>
@@ -791,7 +791,7 @@ export default function CanRecoveryAgentsVisitHomeOnSundayOrHolidaysPage() {
             <section id="faqs" className="space-y-4 border-t border-slate-200 pt-8">
               <div className="flex items-center gap-2 mb-2">
                 <HelpCircle className="w-5 h-5 text-[#1F5EFF]" />
-                <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">11. FAQs: Recovery Agent Sunday &amp; Holiday Rules</h2>
+                <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">11. FAQs: Recovery Agent Sunday &amp; Holiday Rules</h3>
               </div>
               <p className="text-xs sm:text-sm text-slate-600 mb-6">
                 Clear answers regarding recovery agent restrictions on weekends, holiday visit rules, criminal trespass, and debt settlement in India.
@@ -821,9 +821,9 @@ export default function CanRecoveryAgentsVisitHomeOnSundayOrHolidaysPage() {
 
             {/* 5 Official Regulatory Links */}
             <section className="border-t border-slate-200 pt-8 mb-4">
-              <h3 className="text-xs sm:text-sm font-bold text-slate-900 mb-3 uppercase tracking-wider">
+              <h4 className="text-xs sm:text-sm font-bold text-slate-900 mb-3 uppercase tracking-wider">
                 Official Statutory &amp; Regulatory References
-              </h3>
+              </h4>
               <div className="grid grid-cols-1 sm:grid-cols-2 gap-2.5 text-xs">
                 <a
                   href="https://www.rbi.org.in"
@@ -875,9 +875,9 @@ export default function CanRecoveryAgentsVisitHomeOnSundayOrHolidaysPage() {
 
             {/* 10 Related Guide Badges */}
             <section className="border-t border-slate-200 pt-8 mb-8">
-              <h3 className="text-xs sm:text-sm font-bold text-slate-900 mb-4 uppercase tracking-wider">
+              <h4 className="text-xs sm:text-sm font-bold text-slate-900 mb-4 uppercase tracking-wider">
                 Related Legal Defense &amp; Loan Settlement Guides
-              </h3>
+              </h4>
               <div className="flex flex-wrap gap-2">
                 <Link
                   href="/can-recovery-agents-enter-house-without-permission"

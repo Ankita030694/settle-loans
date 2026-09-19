@@ -263,9 +263,9 @@ export default function SpouseSeparateAccountRecoveryPage() {
             </section>
 
             <section id="legal-distinction" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 The Rule of Privity of Contract
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 Under Indian contract law, marriage does not automatically merge your legal identities regarding personal debts. The fundamental legal principle that protects you here is the doctrine of <strong>"Privity of Contract."</strong> This doctrine asserts that a contract cannot confer rights or impose obligations upon any person who is not a party to the contract.
               </p>
@@ -274,7 +274,7 @@ export default function SpouseSeparateAccountRecoveryPage() {
               </p>
 
               <div className="bg-blue-50 border-l-8 border-[#1F5EFF] p-8 rounded-r-2xl mb-8">
-                <h3 className="text-xl font-black text-[#1F5EFF] mb-4">Who is Actually Liable?</h3>
+                <h4 className="text-xl font-black text-[#1F5EFF] mb-4">Who is Actually Liable?</h4>
                 <p className="text-blue-900 text-lg leading-relaxed mb-4">
                   A bank can only recover money from individuals who are legally bound by the loan agreement. You are only liable if you fall into one of two categories:
                 </p>
@@ -295,22 +295,22 @@ export default function SpouseSeparateAccountRecoveryPage() {
             </section>
 
             <section id="account-types" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 Joint Accounts vs. Separate Accounts
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 The nature of your bank account heavily dictates how much overreach the bank can attempt. It is crucial to distinguish between the various ways couples hold money:
               </p>
 
               <div className="grid md:grid-cols-2 gap-6 my-8">
                 <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
-                  <h3 className="font-black text-[#1F5EFF] text-lg mb-3">Individual / Separate Account</h3>
+                  <h4 className="font-black text-[#1F5EFF] text-lg mb-3">Individual / Separate Account</h4>
                   <p className="text-gray-700 leading-relaxed">
                     This account is solely in your name (e.g., your salary account or personal savings). It contains your personal income. If your spouse defaults on a loan in their own name, the bank <strong>cannot touch this account under any circumstances</strong>, even if the account is held in the very same bank as the defaulted loan.
                   </p>
                 </div>
                 <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
-                  <h4 className="font-black text-[#1F5EFF] text-lg mb-3">Joint Account (Either or Survivor)</h4>
+                  <h5 className="font-black text-[#1F5EFF] text-lg mb-3">Joint Account (Either or Survivor)</h5>
                   <p className="text-gray-700 leading-relaxed">
                     If you share an "Either or Survivor" joint account, the situation is trickier. While banks frequently attempt to freeze the entire account, legally, they can only attach the funds that specifically belong to the defaulting spouse. They cannot arbitrarily seize your proven share (e.g., your salary credits) to satisfy their debt.
                   </p>
@@ -319,9 +319,9 @@ export default function SpouseSeparateAccountRecoveryPage() {
             </section>
 
             <section id="bank-tactics" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 How Banks Misuse the "Right of Set-Off"
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 When confronted by an angry spouse whose account has been unlawfully debited, bank managers often try to justify their illegal deduction by citing the <strong>"Banker's Right of Set-Off."</strong> This sounds highly technical and intimidating, but it is entirely misapplied in these cases.
               </p>
@@ -340,9 +340,9 @@ export default function SpouseSeparateAccountRecoveryPage() {
             </section>
 
             <section id="psychological-toll" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 The Psychological Toll of Unlawful Freezing
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 Beyond the legalities, the emotional and psychological impact of having an account abruptly frozen is devastating. Banks are well aware of this and often employ it as an extortionary tactic. 
               </p>
@@ -358,9 +358,9 @@ export default function SpouseSeparateAccountRecoveryPage() {
             </section>
 
             <section id="rbi-guidelines" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 What the RBI Says About Cross Liability
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 The Reserve Bank of India (RBI) operates with strict consumer protection frameworks. They heavily penalize banks for unauthorized debits and harassment of non-borrowers. Banks are legally obliged to adhere to the Fair Practices Code (FPC) and the Banking Codes and Standards Board of India (BCSBI) guidelines.
               </p>
@@ -369,7 +369,7 @@ export default function SpouseSeparateAccountRecoveryPage() {
                 <div className="flex gap-6">
                   <div className="flex-shrink-0 w-12 h-12 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center font-black text-xl shadow-lg">1</div>
                   <div>
-                    <h3 className="text-2xl font-bold text-[#2E2E2E] mb-2">No Automatic Cross Liability</h3>
+                    <h4 className="text-2xl font-bold text-[#2E2E2E] mb-2">No Automatic Cross Liability</h4>
                     <p className="text-lg text-gray-700 leading-relaxed">
                       The RBI clearly outlines that liability cannot be transferred to a family member simply by virtue of a biological or marital relationship. If a signature is missing from the legal contract, the bank's claim to cross liability is zero.
                     </p>
@@ -379,7 +379,7 @@ export default function SpouseSeparateAccountRecoveryPage() {
                 <div className="flex gap-6">
                   <div className="flex-shrink-0 w-12 h-12 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center font-black text-xl shadow-lg">2</div>
                   <div>
-                    <h3 className="text-2xl font-bold text-[#2E2E2E] mb-2">Unauthorized Deductions</h3>
+                    <h4 className="text-2xl font-bold text-[#2E2E2E] mb-2">Unauthorized Deductions</h4>
                     <p className="text-lg text-gray-700 leading-relaxed">
                       Any debit from an account without a valid, explicit mandate (like an ACH, ECS, or a signed standing instruction by the account holder themselves) is considered a wholly unauthorized transaction. The bank is liable to reverse it immediately and may have to pay severe compensation.
                     </p>
@@ -389,7 +389,7 @@ export default function SpouseSeparateAccountRecoveryPage() {
                 <div className="flex gap-6">
                   <div className="flex-shrink-0 w-12 h-12 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center font-black text-xl shadow-lg">3</div>
                   <div>
-                    <h3 className="text-2xl font-bold text-[#2E2E2E] mb-2">Intimidation of Relatives</h3>
+                    <h4 className="text-2xl font-bold text-[#2E2E2E] mb-2">Intimidation of Relatives</h4>
                     <p className="text-lg text-gray-700 leading-relaxed">
                       RBI's recovery agent guidelines explicitly prohibit agents from contacting, harassing, or intimidating the friends, colleagues, or relatives of the defaulter, including a spouse who is not a party to the loan.
                     </p>
@@ -399,9 +399,9 @@ export default function SpouseSeparateAccountRecoveryPage() {
             </section>
 
             <section id="legal-precedents" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 High Court Legal Precedents
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 Various High Courts across India, as well as the National Consumer Disputes Redressal Commission (NCDRC), have time and again strongly reprimanded banks for this very behavior. 
               </p>
@@ -414,15 +414,15 @@ export default function SpouseSeparateAccountRecoveryPage() {
             </section>
 
             <section id="exceptions-to-the-rule" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 Exceptions to the Rule: When CAN the Bank Attach?
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 While the general rule protects the non-defaulting spouse, it is important to be aware of a few specific exceptions where a bank might have legal standing to pursue a spouse's assets.
               </p>
 
               <div className="bg-blue-50 border-l-8 border-[#1F5EFF] p-8 rounded-r-2xl mb-8">
-                <h3 className="text-xl font-black text-[#1F5EFF] mb-4">The Few Exceptions</h3>
+                <h4 className="text-xl font-black text-[#1F5EFF] mb-4">The Few Exceptions</h4>
                 <ul className="space-y-3">
                   <li className="flex items-start gap-3">
                     <div className="mt-1.5 w-2 h-2 rounded-full bg-[#1F5EFF] flex-shrink-0"></div>
@@ -441,34 +441,34 @@ export default function SpouseSeparateAccountRecoveryPage() {
             </section>
 
             <section id="drafting-legal-notice" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 Drafting the Perfect Legal Notice
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 When fighting back, a simple email to customer care is rarely enough. The bank’s legal department will only respond to a formally drafted legal notice that speaks their language and threatens credible action.
               </p>
 
               <div className="grid md:grid-cols-2 gap-6 my-8">
                 <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
-                  <h3 className="font-black text-[#1F5EFF] text-lg mb-3">Cite specific RBI Circulars</h3>
+                  <h4 className="font-black text-[#1F5EFF] text-lg mb-3">Cite specific RBI Circulars</h4>
                   <p className="text-gray-700 leading-relaxed">
                     A strong notice explicitly references the exact RBI master circulars on Customer Service and the Fair Practices Code that the bank has violated by unauthorizedly debiting a third-party account.
                   </p>
                 </div>
                 <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
-                  <h4 className="font-black text-[#1F5EFF] text-lg mb-3">Denial of Privity</h4>
+                  <h5 className="font-black text-[#1F5EFF] text-lg mb-3">Denial of Privity</h5>
                   <p className="text-gray-700 leading-relaxed">
                     It must unequivocally state that no contractual relationship exists between the non-defaulting spouse and the bank regarding the specific loan account in question.
                   </p>
                 </div>
                 <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
-                  <h4 className="font-black text-[#1F5EFF] text-lg mb-3">Demand for Compensation</h4>
+                  <h5 className="font-black text-[#1F5EFF] text-lg mb-3">Demand for Compensation</h5>
                   <p className="text-gray-700 leading-relaxed">
                     Beyond just demanding the reversal of the debited amount, the notice should demand damages for the mental agony and financial disruption caused by the illegal freeze.
                   </p>
                 </div>
                 <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
-                  <h4 className="font-black text-[#1F5EFF] text-lg mb-3">The 48-Hour Ultimatum</h4>
+                  <h5 className="font-black text-[#1F5EFF] text-lg mb-3">The 48-Hour Ultimatum</h5>
                   <p className="text-gray-700 leading-relaxed">
                     It should provide a strict, non-negotiable deadline (usually 48 hours) for the bank to unfreeze the account, failing which you reserve the right to approach the Banking Ombudsman and Consumer Court.
                   </p>
@@ -477,15 +477,15 @@ export default function SpouseSeparateAccountRecoveryPage() {
             </section>
 
             <section id="immediate-action" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 Steps to Take if Your Account is Frozen
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 If the bank has already blocked your account or deducted money, you must act fast. Do not accept their verbal excuses or vague promises of "looking into it."
               </p>
 
               <div className="bg-red-50 p-6 rounded-xl border border-red-100 mb-8">
-                <h3 className="text-xl font-black text-red-700 mb-3">Your Action Plan</h3>
+                <h4 className="text-xl font-black text-red-700 mb-3">Your Action Plan</h4>
                 <ol className="list-decimal list-inside space-y-3 text-red-900 leading-relaxed">
                   <li><strong>Lodge a Written Protest:</strong> Immediately email the Branch Manager and the Nodal Grievance Officer. State clearly that you are not a co-borrower and demand an instant reversal of the unauthorized debit or unfreezing of the account.</li>
                   <li><strong>Demand the Contract:</strong> Challenge them to produce a document bearing your signature that authorizes them to touch your separate account. They will not be able to.</li>
@@ -496,9 +496,9 @@ export default function SpouseSeparateAccountRecoveryPage() {
             </section>
 
             <section id="success-stories" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 Client Success Stories
-              </h2>
+              </h3>
               <div className="grid md:grid-cols-2 gap-6 my-8">
                 <div className="bg-white p-8 rounded-[30px] border border-[#DEDEDE] shadow-sm hover:shadow-xl group transition-all">
                   <div className="flex items-center gap-4 mb-6">
@@ -506,7 +506,7 @@ export default function SpouseSeparateAccountRecoveryPage() {
                       PS
                     </div>
                     <div>
-                      <h3 className="font-bold text-gray-900">Priya S.</h3>
+                      <h4 className="font-bold text-gray-900">Priya S.</h4>
                       <div className="flex text-yellow-400">
                         <svg className="w-4 h-4 fill-current" viewBox="0 0 20 20"><path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z"/></svg>
                         <svg className="w-4 h-4 fill-current" viewBox="0 0 20 20"><path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z"/></svg>
@@ -531,7 +531,7 @@ export default function SpouseSeparateAccountRecoveryPage() {
                       AK
                     </div>
                     <div>
-                      <h4 className="font-bold text-gray-900">Amit K.</h4>
+                      <h5 className="font-bold text-gray-900">Amit K.</h5>
                       <div className="flex text-yellow-400">
                         <svg className="w-4 h-4 fill-current" viewBox="0 0 20 20"><path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z"/></svg>
                         <svg className="w-4 h-4 fill-current" viewBox="0 0 20 20"><path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z"/></svg>
@@ -553,13 +553,13 @@ export default function SpouseSeparateAccountRecoveryPage() {
             </section>
 
             <section id="faqs" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 Frequently Asked Questions
-              </h2>
+              </h3>
               <div className="space-y-4">
                 {jsonLd["@graph"].find((item: any) => item["@type"] === "FAQPage")?.mainEntity?.map((faq: any, index: number) => (
                   <div key={index} className="bg-white border border-[#DEDEDE] rounded-xl p-6 hover:shadow-md transition-shadow">
-                    <h3 className="text-xl font-bold text-[#2E2E2E] mb-3">{faq.name}</h3>
+                    <h4 className="text-xl font-bold text-[#2E2E2E] mb-3">{faq.name}</h4>
                     <p className="text-gray-700 leading-relaxed">{faq.acceptedAnswer.text}</p>
                   </div>
                 ))}
@@ -568,7 +568,7 @@ export default function SpouseSeparateAccountRecoveryPage() {
 
             <div className="bg-[#2E2E2E] text-white p-12 rounded-[40px] text-center mt-24 relative overflow-hidden group">
               <div className="absolute inset-0 bg-[#1F5EFF] opacity-0 group-hover:opacity-5 transition-opacity"></div>
-              <h3 className="text-3xl font-black mb-6 relative z-10">Stop the Illegal Account Freeze Now</h3>
+              <h4 className="text-3xl font-black mb-6 relative z-10">Stop the Illegal Account Freeze Now</h4>
               <p className="text-xl opacity-90 mb-8 relative z-10 max-w-2xl mx-auto">
                 Did the bank illegally freeze your separate salary account because your husband or wife defaulted on their personal loan? This is a severe RBI violation. Hire us to unfreeze your money immediately.
               </p>

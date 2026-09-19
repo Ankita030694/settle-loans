@@ -252,22 +252,22 @@ export default function NBFCEducationLoanDefaultPage() {
             </section>
 
             <section id="nbfc-vs-psu" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 How NBFCs Differ from PSU Banks
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 Traditional Public Sector Undertaking (PSU) banks like SBI or PNB operate under strict government mandates and offer leeway for education loans. Private NBFCs, on the other hand, are profit-driven entities with aggressive collection strategies.
               </p>
 
               <div className="grid md:grid-cols-2 gap-6 my-8">
                 <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
-                  <h3 className="font-black text-[#1F5EFF] text-lg mb-3">PSU Banks (SBI, PNB)</h3>
+                  <h4 className="font-black text-[#1F5EFF] text-lg mb-3">PSU Banks (SBI, PNB)</h4>
                   <p className="text-gray-700 leading-relaxed">
                     Slower to declare NPAs. Often willing to grant moratorium extensions. Legal action is usually initiated through the Debt Recovery Tribunal (DRT), which involves a formal, lengthy, and structured judicial process.
                   </p>
                 </div>
                 <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
-                  <h4 className="font-black text-[#1F5EFF] text-lg mb-3">Education NBFCs (Credila, Avanse)</h4>
+                  <h5 className="font-black text-[#1F5EFF] text-lg mb-3">Education NBFCs (Credila, Avanse)</h5>
                   <p className="text-gray-700 leading-relaxed">
                     Extremely fast to escalate defaults. They levy massive penal charges that can double the loan amount in a few years. They almost exclusively rely on private Arbitrators to get quick, ex-parte awards against you.
                   </p>
@@ -282,15 +282,15 @@ export default function NBFCEducationLoanDefaultPage() {
             </section>
 
             <section id="parental-pressure" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 The Target on Co-Borrowers (Parents)
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 The most brutal aspect of <span className="font-bold">Avanse loan recovery harassment</span> is not aimed at the student, but at the parents. NBFCs mandate that a parent must be a co-borrower in an education loan. 
               </p>
 
               <div className="bg-blue-50 border-l-8 border-[#1F5EFF] p-8 rounded-r-2xl mb-8">
-                <h3 className="text-xl font-black text-[#1F5EFF] mb-4">Legal Liability of a Co-Borrower</h3>
+                <h4 className="text-xl font-black text-[#1F5EFF] mb-4">Legal Liability of a Co-Borrower</h4>
                 <ul className="space-y-3">
                   <li className="flex items-start gap-3">
                     <div className="mt-1.5 w-2 h-2 rounded-full bg-[#1F5EFF] flex-shrink-0"></div>
@@ -308,7 +308,7 @@ export default function NBFCEducationLoanDefaultPage() {
               </div>
 
               <div className="bg-red-50 p-6 rounded-xl border border-red-100 mb-8">
-                <h4 className="text-xl font-black text-red-700 mb-3">Warning: Extortionate Harassment</h4>
+                <h5 className="text-xl font-black text-red-700 mb-3">Warning: Extortionate Harassment</h5>
                 <p className="text-red-900 leading-relaxed">
                   If recovery agents are calling your parents at odd hours, threatening them with jail, or using abusive language, this crosses the line into criminal intimidation. You have every right to send a legal notice to the NBFC and file a police complaint to halt this abuse immediately.
                 </p>
@@ -316,9 +316,9 @@ export default function NBFCEducationLoanDefaultPage() {
             </section>
 
             <section id="arbitration-tactics" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 The Arbitration Trap
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 Unlike PSU banks that file civil suits in DRT, NBFCs like InCred and Credila rely on the <strong>Arbitration and Conciliation Act, 1996</strong>. Buried in your loan agreement is an arbitration clause that allows them to bypass traditional courts.
               </p>
@@ -327,7 +327,7 @@ export default function NBFCEducationLoanDefaultPage() {
                 <div className="flex gap-6">
                   <div className="flex-shrink-0 w-12 h-12 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center font-black text-xl shadow-lg">1</div>
                   <div>
-                    <h3 className="text-2xl font-bold text-[#2E2E2E] mb-2">Unilateral Appointment</h3>
+                    <h4 className="text-2xl font-bold text-[#2E2E2E] mb-2">Unilateral Appointment</h4>
                     <p className="text-lg text-gray-700 leading-relaxed">
                       The NBFC appoints an arbitrator of their choice. Often, this arbitrator handles hundreds of cases for the same NBFC, raising serious questions about bias and neutrality.
                     </p>
@@ -337,7 +337,7 @@ export default function NBFCEducationLoanDefaultPage() {
                 <div className="flex gap-6">
                   <div className="flex-shrink-0 w-12 h-12 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center font-black text-xl shadow-lg">2</div>
                   <div>
-                    <h3 className="text-2xl font-bold text-[#2E2E2E] mb-2">Ex-Parte Awards</h3>
+                    <h4 className="text-2xl font-bold text-[#2E2E2E] mb-2">Ex-Parte Awards</h4>
                     <p className="text-lg text-gray-700 leading-relaxed">
                       Because borrowers often ignore arbitration notices thinking they are fake, the arbitrator passes an "ex-parte" (one-sided) award in favor of the NBFC, legally validating the highly inflated debt amount.
                     </p>
@@ -347,7 +347,7 @@ export default function NBFCEducationLoanDefaultPage() {
                 <div className="flex gap-6">
                   <div className="flex-shrink-0 w-12 h-12 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center font-black text-xl shadow-lg">3</div>
                   <div>
-                    <h3 className="text-2xl font-bold text-[#2E2E2E] mb-2">Execution Proceedings</h3>
+                    <h4 className="text-2xl font-bold text-[#2E2E2E] mb-2">Execution Proceedings</h4>
                     <p className="text-lg text-gray-700 leading-relaxed">
                       Once the award is passed, the NBFC takes it to a civil court to get it executed. This is when the court can issue warrants to attach your bank accounts or seize your parents' property. You must challenge the award under Section 34 of the Act before this happens.
                     </p>
@@ -357,14 +357,14 @@ export default function NBFCEducationLoanDefaultPage() {
             </section>
 
             <section id="consequences-of-default" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 What Happens When You Default?
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 If you are asking <span className="italic">"what happens if I don't pay NBFC education loan"</span>, the timeline generally looks like this:
               </p>
               <div className="bg-white p-8 border border-[#DEDEDE] rounded-2xl shadow-sm mb-8">
-                <h3 className="text-xl font-bold mb-4 text-[#2E2E2E] underline">The Escalation Timeline</h3>
+                <h4 className="text-xl font-bold mb-4 text-[#2E2E2E] underline">The Escalation Timeline</h4>
                 <ul className="list-disc pl-5 space-y-3 text-gray-700 leading-relaxed">
                   <li><strong>0-90 Days:</strong> Relentless calls to the student and parents. The account is marked as SMA (Special Mention Account). Your CIBIL score begins to drop rapidly.</li>
                   <li><strong>90+ Days (NPA):</strong> The loan is classified as a Non-Performing Asset. The NBFC issues a formal loan recall notice demanding the entire outstanding amount at once.</li>
@@ -375,9 +375,9 @@ export default function NBFCEducationLoanDefaultPage() {
             </section>
 
             <section id="settlement-strategy" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 How to Settle an Education Loan with an NBFC
-              </h2>
+              </h3>
               <div className="bg-gray-50 p-8 rounded-2xl mb-8 border border-gray-200">
                 <p className="text-lg leading-relaxed mb-6 text-gray-800">
                   The good news is that you absolutely can <strong>settle education loan with NBFC</strong>. Because their books carry massive inflated penal interests, they have huge margins for negotiation. Here is the strategy:
@@ -400,9 +400,9 @@ export default function NBFCEducationLoanDefaultPage() {
             </section>
 
             <section id="success-stories" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 Client Success Stories
-              </h2>
+              </h3>
               <div className="grid md:grid-cols-2 gap-6 my-8">
                 <div className="bg-white p-8 rounded-[30px] border border-[#DEDEDE] shadow-sm hover:shadow-xl group transition-all">
                   <div className="flex items-center gap-4 mb-6">
@@ -410,7 +410,7 @@ export default function NBFCEducationLoanDefaultPage() {
                       RM
                     </div>
                     <div>
-                      <h3 className="font-bold text-gray-900">Rahul M.</h3>
+                      <h4 className="font-bold text-gray-900">Rahul M.</h4>
                       <div className="flex text-yellow-400">
                         <svg className="w-4 h-4 fill-current" viewBox="0 0 20 20"><path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z"/></svg>
                         <svg className="w-4 h-4 fill-current" viewBox="0 0 20 20"><path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z"/></svg>
@@ -435,7 +435,7 @@ export default function NBFCEducationLoanDefaultPage() {
                       KT
                     </div>
                     <div>
-                      <h4 className="font-bold text-gray-900">Karan T.</h4>
+                      <h5 className="font-bold text-gray-900">Karan T.</h5>
                       <div className="flex text-yellow-400">
                         <svg className="w-4 h-4 fill-current" viewBox="0 0 20 20"><path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z"/></svg>
                         <svg className="w-4 h-4 fill-current" viewBox="0 0 20 20"><path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z"/></svg>
@@ -457,13 +457,13 @@ export default function NBFCEducationLoanDefaultPage() {
             </section>
 
             <section id="faqs" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 Frequently Asked Questions
-              </h2>
+              </h3>
               <div className="space-y-4">
                 {((jsonLd["@graph"].find((item: any) => item["@type"] === "FAQPage") as any)?.mainEntity || []).map((faq: { name: string; acceptedAnswer: { text: string } }, index: number) => (
                   <div key={index} className="bg-white border border-[#DEDEDE] rounded-xl p-6 hover:shadow-md transition-shadow">
-                    <h3 className="text-xl font-bold text-[#2E2E2E] mb-3">{faq.name}</h3>
+                    <h4 className="text-xl font-bold text-[#2E2E2E] mb-3">{faq.name}</h4>
                     <p className="text-gray-700 leading-relaxed">{faq.acceptedAnswer.text}</p>
                   </div>
                 ))}
@@ -472,7 +472,7 @@ export default function NBFCEducationLoanDefaultPage() {
 
             <div className="bg-[#2E2E2E] text-white p-12 rounded-[40px] text-center mt-24 relative overflow-hidden group">
               <div className="absolute inset-0 bg-[#1F5EFF] opacity-0 group-hover:opacity-5 transition-opacity"></div>
-              <h3 className="text-3xl font-black mb-6 relative z-10">Stop the Harassment & Settle Now</h3>
+              <h4 className="text-3xl font-black mb-6 relative z-10">Stop the Harassment & Settle Now</h4>
               <p className="text-xl opacity-90 mb-8 relative z-10 max-w-2xl mx-auto">
                 Are private NBFCs like Credila or Avanse harassing you and your parents over an education loan you can't pay right now? Stop the harassment and negotiate a structured settlement with our help.
               </p>

@@ -275,17 +275,17 @@ export default function LegalNoticeForLoanRecoveryPage() {
                         </section>
 
                         <section id="sarfaesi-13-2" className="scroll-mt-32 mb-16 text-justify">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight underline decoration-[#1F5EFF] underline-offset-[12px]">The 13(2) SARFAESI Notice: The Property War</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight underline decoration-[#1F5EFF] underline-offset-[12px]">The 13(2) SARFAESI Notice: The Property War</h3>
                             <p className="text-lg leading-relaxed mb-6 font-medium">
                                 If your loan is secured by a flat, shop, or land, you will likely receive a notice under Section 13(2) of the SARFAESI Act, 2002. This is the 'Nuclear Option' for banks because it allows them to sell your property without going to a regular civil court.
                             </p>
                             <div className="grid md:grid-cols-2 gap-8 mb-10">
                                 <div className="p-8 bg-white border border-[#DEDEDE] rounded-3xl shadow-sm">
-                                    <h3 className="font-black text-[#1F5EFF] mb-4 uppercase tracking-tighter italic text-center">The 60-Day Clock</h3>
+                                    <h4 className="font-black text-[#1F5EFF] mb-4 uppercase tracking-tighter italic text-center">The 60-Day Clock</h4>
                                     <p className="text-sm italic font-bold">You have exactly 60 days from the date of receipt to 'Discharge your Liabilities' or file a formal objection. The bank is legally mandated to reply to your objection within 15 days.</p>
                                 </div>
                                 <div className="p-8 bg-white border border-[#DEDEDE] rounded-3xl shadow-sm">
-                                    <h4 className="font-black text-[#1F5EFF] mb-4 uppercase tracking-tighter italic text-center">NPA Pre-Condition</h4>
+                                    <h5 className="font-black text-[#1F5EFF] mb-4 uppercase tracking-tighter italic text-center">NPA Pre-Condition</h5>
                                     <p className="text-sm italic font-bold">The bank can ONLY issue this notice if your account is a 'Non-Performing Asset' (NPA). If they send it while you are in SMA-1 or SMA-2 status, the notice is fundamentally illegal.</p>
                                 </div>
                             </div>
@@ -296,7 +296,7 @@ export default function LegalNoticeForLoanRecoveryPage() {
 
                         <section id="ni-act-138" className="scroll-mt-32 mb-16 bg-[#2E2E2E] text-white p-12 rounded-[40px] relative overflow-hidden text-justify">
                             <div className="absolute top-0 right-0 w-64 h-64 bg-[#1F5EFF]/10 rounded-full -translate-y-32 translate-x-32"></div>
-                            <h2 className="text-3xl md:text-4xl font-black mb-8 leading-tight relative z-10">Criminal Notice: Section 138 (Cheque Bounce)</h2>
+                            <h3 className="text-3xl md:text-4xl font-black mb-8 leading-tight relative z-10">Criminal Notice: Section 138 (Cheque Bounce)</h3>
                             <p className="text-lg opacity-80 mb-8 relative z-10 leading-relaxed font-bold italic">
                                 This is the most dangerous notice because it carries the risk of imprisonment. It is issued when you have defaulted and the bank's 'security cheques' have bounced.
                             </p>
@@ -304,21 +304,21 @@ export default function LegalNoticeForLoanRecoveryPage() {
                                 <div className="flex gap-6 items-center border-b border-white/10 pb-4">
                                     <span className="text-4xl font-black text-[#1F5EFF]">15</span>
                                     <div>
-                                        <h3 className="font-bold text-xl mb-2 italic">The 15-Day Payment Window</h3>
+                                        <h4 className="font-bold text-xl mb-2 italic">The 15-Day Payment Window</h4>
                                         <p className="opacity-70 text-sm font-medium">After receiving the notice, you have 15 days to pay the cheque amount. If you pay within this window, no criminal case can be filed against you. The clock starts the day YOU receive the notice, not when it was sent.</p>
                                     </div>
                                 </div>
                                 <div className="flex gap-6 items-center border-b border-white/10 pb-4">
                                     <span className="text-4xl font-black text-[#1F5EFF]">DEF</span>
                                     <div>
-                                        <h4 className="font-bold text-xl mb-2 italic">Common Defenses</h4>
+                                        <h5 className="font-bold text-xl mb-2 italic">Common Defenses</h5>
                                         <p className="opacity-70 text-sm font-medium">Was the cheque for 'Security' or for a 'Legally Enforceable Debt'? Was the notice sent within 30 days of the bounce? If any of these conditions are not met, the criminal case is liable to be dismissed.</p>
                                     </div>
                                 </div>
                                 <div className="flex gap-6 items-center">
                                     <span className="text-4xl font-black text-[#1F5EFF]">AUD</span>
                                     <div>
-                                        <h5 className="font-bold text-xl mb-2 italic">Liability Auditing</h5>
+                                        <h6 className="font-bold text-xl mb-2 italic">Liability Auditing</h6>
                                         <p className="opacity-70 text-sm font-medium">If the bank used a blank cheque to fill in an amount higher than what you actually owe, this is 'Material Alteration' and can be used to quash the proceedings in the High Court.</p>
                                     </div>
                                 </div>
@@ -326,7 +326,7 @@ export default function LegalNoticeForLoanRecoveryPage() {
                         </section>
 
                         <section id="defense-strategies" className="scroll-mt-32 mb-16 mt-16 text-justify">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">The Top 5 Legal Defenses Against Recovery Notices</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">The Top 5 Legal Defenses Against Recovery Notices</h3>
                             <p className="text-lg leading-relaxed mb-6 font-bold text-gray-400 italic">
                                 Use these technical shields to buy time or force the bank to settle on your terms:
                             </p>
@@ -372,7 +372,7 @@ export default function LegalNoticeForLoanRecoveryPage() {
                         </section>
 
                         <section id="fake-notice-audit" className="scroll-mt-32 mb-16 mt-16 text-justify bg-[#F8FAFC] p-12 rounded-[50px] border-l-8 border-[#1F5EFF]">
-                            <h2 className="text-3xl font-black mb-8 text-[#2E2E2E] uppercase">Anatomy of a Fake Legal Notice</h2>
+                            <h3 className="text-3xl font-black mb-8 text-[#2E2E2E] uppercase">Anatomy of a Fake Legal Notice</h3>
                             <p className="text-lg text-gray-600 mb-8 leading-relaxed font-bold italic">Don't be bullied by 'Collection Scams' dressed as law.</p>
                             <div className="space-y-4 font-mono text-xs uppercase">
                                 <div className="flex justify-between border-b border-gray-100 pb-2"><span>Red Flag 1</span> <span className="font-bold text-red-600">Police/Jail Threats (Illegal in civil cases)</span></div>
@@ -383,7 +383,7 @@ export default function LegalNoticeForLoanRecoveryPage() {
                         </section>
 
                         <section id="limitation-defense" className="scroll-mt-32 mb-16 mt-16 text-justify bg-[#2E2E2E] text-white p-12 rounded-[40px] relative overflow-hidden text-justify">
-                            <h2 className="text-3xl md:text-4xl font-black mb-8 leading-tight relative z-10">Limitation Act: <br />The 3-Year Recovery Rule</h2>
+                            <h3 className="text-3xl md:text-4xl font-black mb-8 leading-tight relative z-10">Limitation Act: <br />The 3-Year Recovery Rule</h3>
                             <p className="text-lg opacity-80 mb-8 relative z-10 font-bold italic">Does the bank still have the legal right to sue you?</p>
                             <div className="space-y-6 relative z-10">
                                 <p className="text-sm font-medium leading-relaxed italic">Under the Indian Limitation Act, 1963, most loans have a 3-year recovery window. If you haven't made a single payment or signed an 'Acknowledgment of Debt' for over 1,095 days, the bank cannot legally recover the money via a civil suit. Receiving a notice for a 5-year-old debt is often a bluff—a skilled lawyer can shut it down permanently in the first reply.</p>
@@ -391,7 +391,7 @@ export default function LegalNoticeForLoanRecoveryPage() {
                         </section>
 
                         <section id="reply-blueprint" className="scroll-mt-32 mb-16 mt-16 text-justify">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight text-center underline decoration-[#1F5EFF] decoration-8 underline-offset-8 uppercase">The Legal Reply Blueprint</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight text-center underline decoration-[#1F5EFF] decoration-8 underline-offset-8 uppercase">The Legal Reply Blueprint</h3>
                             <p className="text-lg leading-relaxed mb-10 text-center italic font-medium text-gray-500">How to draft a reply that makes bank lawyers nervous.</p>
                             <div className="bg-white border-2 border-[#DEDEDE] p-10 rounded-[50px] shadow-lg">
                                 <ul className="space-y-6">
@@ -412,16 +412,16 @@ export default function LegalNoticeForLoanRecoveryPage() {
                         </section>
 
                         <section id="procedural-errors" className="scroll-mt-32 mb-16 mt-16 text-justify">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">Spotting Common Bank Errors</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">Spotting Common Bank Errors</h3>
                             <p className="text-lg leading-relaxed mb-8 font-medium">In the rush to recover money, banks often make technical blunders that favor the borrower. Look for these carefully:</p>
                             <div className="p-8 bg-[#2E2E2E] rounded-[40px] text-white shadow-2xl">
                                 <div className="grid md:grid-cols-2 gap-8">
                                     <div>
-                                        <h3 className="font-black text-[#1F5EFF] mb-2 uppercase italic tracking-widest">Wrong Address Service</h3>
+                                        <h4 className="font-black text-[#1F5EFF] mb-2 uppercase italic tracking-widest">Wrong Address Service</h4>
                                         <p className="text-xs opacity-70 italic font-medium leading-relaxed">If the bank sent the notice to an old address despite you providing the new one, 'Good Service' was not achieved. This can collapse their entire court case in the first hearing.</p>
                                     </div>
                                     <div>
-                                        <h4 className="font-black text-[#1F5EFF] mb-2 uppercase italic tracking-widest">Reserve Price Undervaluation</h4>
+                                        <h5 className="font-black text-[#1F5EFF] mb-2 uppercase italic tracking-widest">Reserve Price Undervaluation</h5>
                                         <p className="text-xs opacity-70 italic font-medium leading-relaxed">In SARFAESI auctions, banks often set a 'Reserve Price' 30% below market value to ensure a quick sale. This is illegal. A lawyer can challenge the valuation report to stop the auction.</p>
                                     </div>
                                 </div>
@@ -429,7 +429,7 @@ export default function LegalNoticeForLoanRecoveryPage() {
                         </section>
 
                         <section id="statute-of-limitations" className="scroll-mt-32 mb-16 mt-16 text-justify bg-[#F8FAFC] p-12 rounded-[50px] border-l-8 border-[#1F5EFF]">
-                            <h2 className="text-3xl font-black mb-8 text-[#2E2E2E] italic">The 3-Year Time Bar: Your Ultimate Defense</h2>
+                            <h3 className="text-3xl font-black mb-8 text-[#2E2E2E] italic">The 3-Year Time Bar: Your Ultimate Defense</h3>
                             <p className="text-lg text-gray-600 mb-8 leading-relaxed font-bold italic">Did you know that debt has an expiry date for recovery?</p>
                             <div className="space-y-6 text-sm italic font-medium leading-relaxed">
                                 <p>Under the Limitation Act, 1963, a creditor has exactly 3 years from the date of the first default to initiate formal legal action. If a bank sends you a legal notice for a loan that hasn't been paid or acknowledged for over 3 years, that debt is legally 'Time Barred'.</p>
@@ -438,22 +438,22 @@ export default function LegalNoticeForLoanRecoveryPage() {
                         </section>
 
                         <section id="guarantor-rights" className="scroll-mt-32 mb-16 mt-16 text-justify">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight text-center underline decoration-[#1F5EFF] decoration-4">Guarantor Rights: The Secondary Target</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight text-center underline decoration-[#1F5EFF] decoration-4">Guarantor Rights: The Secondary Target</h3>
                             <p className="text-lg leading-relaxed mb-10 italics text-center font-bold text-gray-400">If you are a guarantor, the bank will target you with the same intensity as the borrower.</p>
                             <div className="grid md:grid-cols-2 gap-8 not-prose">
                                 <div className="p-8 bg-white border border-[#DEDEDE] rounded-3xl shadow-sm hover:border-blue-200 transition-colors">
-                                    <h3 className="font-black mb-3 text-[#2E2E2E] uppercase tracking-tighter italic">Discharge by Variance</h3>
+                                    <h4 className="font-black mb-3 text-[#2E2E2E] uppercase tracking-tighter italic">Discharge by Variance</h4>
                                     <p className="text-sm opacity-70 font-bold italic">If the bank and borrower changed the loan terms even by 1% without the guarantor's WRITTEN consent, the guarantor is legally discharged from all liability under Section 133 of the Indian Contract Act.</p>
                                 </div>
                                 <div className="p-8 bg-white border border-[#DEDEDE] rounded-3xl shadow-sm hover:border-blue-200 transition-colors">
-                                    <h4 className="font-black mb-3 text-[#2E2E2E] uppercase tracking-tighter italic">First Charge Exhaustion</h4>
+                                    <h5 className="font-black mb-3 text-[#2E2E2E] uppercase tracking-tighter italic">First Charge Exhaustion</h5>
                                     <p className="text-sm opacity-70 font-bold italic">A bank should ideally exhaust the primary borrower's assets before liquidating the guarantor's property. A skilled lawyer can use this 'Priority of Recovery' to protect the guarantor's household.</p>
                                 </div>
                             </div>
                         </section>
 
                         <section id="notice-checklist" className="scroll-mt-32 mb-16 text-justify">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 text-center uppercase tracking-tighter decoration-[#1F5EFF] underline decoration-4">The Post-Notice Checklist</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 text-center uppercase tracking-tighter decoration-[#1F5EFF] underline decoration-4">The Post-Notice Checklist</h3>
                             <div className="space-y-4">
                                 {[
                                     { step: "SERVICE CHECK", action: "Verify the 'Postmark' and 'Tracking' to ensure it was properly served." },
@@ -471,7 +471,7 @@ export default function LegalNoticeForLoanRecoveryPage() {
                         </section>
 
                         <section id="faqs" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-12 text-center underline decoration-[#1F5EFF] decoration-4 uppercase">Recovery Notice FAQ's</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-12 text-center underline decoration-[#1F5EFF] decoration-4 uppercase">Recovery Notice FAQ's</h3>
                             <div className="space-y-6">
                                 {[
                                     { q: "Can a bank lawyer send a notice directly to my employer?", a: "Unless your employer is a guarantor, this is a violation of privacy. A complaint to the RBI can force the bank to retract such communications and pay for damages to your reputation." },
@@ -489,7 +489,7 @@ export default function LegalNoticeForLoanRecoveryPage() {
                                     { q: "If I move to another state, is the notice still valid?", a: "Yes. In the digital era, 'Substituted Service' (newspaper ads or email) ensures the law reaches you. Transferring residence doesn't extinguish the debt or the legal process." }
                                 ].map((faq, i) => (
                                     <div key={i} className="p-8 bg-white border border-[#DEDEDE] rounded-3xl shadow-sm transition-all hover:shadow-lg text-justify">
-                                        <h3 className="font-black text-[#2E2E2E] mb-4 text-xl border-b pb-2 border-[#1F5EFF]/10 uppercase tracking-tighter italic">{faq.q}</h3>
+                                        <h4 className="font-black text-[#2E2E2E] mb-4 text-xl border-b pb-2 border-[#1F5EFF]/10 uppercase tracking-tighter italic">{faq.q}</h4>
                                         <p className="text-gray-600 leading-relaxed text-lg italic">"{faq.a}"</p>
                                     </div>
                                 ))}
@@ -497,7 +497,7 @@ export default function LegalNoticeForLoanRecoveryPage() {
                         </section>
 
                         <section className="scroll-mt-32 mb-16 text-center">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">Your Reply is Your Respect.</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">Your Reply is Your Respect.</h3>
                             <p className="text-lg leading-relaxed mb-6 italic font-bold text-gray-500">Silence is seen as surrender. A reply is seen as strength. Choose strength.</p>
                             <div className="bg-[#1F5EFF] p-10 rounded-[40px] text-white shadow-2xl">
                                 <p className="text-2xl font-black mb-8 tracking-tight uppercase">Analyze Your Notice Now</p>

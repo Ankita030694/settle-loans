@@ -525,7 +525,7 @@ export default function PersonalLoanSettlementVaranasiPage() {
 
             {/* Section 2: Statutory Protections & Civil Defense */}
             <section id="statutory-protections-civil-defense" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">2. Statutory Protections for Varanasi Borrowers</h2>
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">2. Statutory Protections for Varanasi Borrowers</h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Loan default is a civil breach of contract under the Indian Contract Act, 1872. It is not a crime. The RBI Fair Practices Code sets strict debt recovery rules.
               </p>
@@ -548,7 +548,7 @@ export default function PersonalLoanSettlementVaranasiPage() {
 
             {/* Section 3: Varanasi Kutchery & Judicial Jurisdictions */}
             <section id="varanasi-kutchery-court-jurisdictions" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">3. Varanasi Kutchery, District Courts &amp; Police Jurisdiction</h2>
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">3. Varanasi Kutchery, District Courts &amp; Police Jurisdiction</h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Collection agents often make false threats of police arrest or court warrants. You must know your rights at Varanasi District Court (Varanasi Kutchery at Orderly Bazar / Shivpur Road). Civil debt is separate from criminal law.
               </p>
@@ -585,7 +585,7 @@ export default function PersonalLoanSettlementVaranasiPage() {
 
             {/* Section 4: Bank Accounting & NPV Formula */}
             <section id="bank-accounting-npa-npv-formula" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">4. Bank Accounting Realities in Varanasi</h2>
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">4. Bank Accounting Realities in Varanasi</h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Understanding RBI rules helps you get big loan cuts. When you miss EMIs, banks tag loans as SMA-0, SMA-1, or SMA-2. Past 90 days, the loan becomes an NPA.
               </p>
@@ -617,7 +617,7 @@ export default function PersonalLoanSettlementVaranasiPage() {
 
             {/* Section 5: Infographic Banner */}
             <section id="infographic-overview" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">5. Visual Blueprint: The Complete Eastern UP Loan Settlement</h2>
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">5. Visual Blueprint: The Complete Eastern UP Loan Settlement</h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 The diagram below shows the loan settlement steps in Varanasi, Prayagraj, and Gorakhpur. It covers hardship audits, court defense, OTS talks, and No Dues Certificates via DLSA Lok Adalat:
               </p>
@@ -639,7 +639,7 @@ export default function PersonalLoanSettlementVaranasiPage() {
 
             {/* Section 6: Strategic OTS Negotiation Protocol */}
             <section id="ots-negotiation-protocol" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">6. Strategic One-Time Settlement (OTS) Negotiation Framework</h2>
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">6. Strategic One-Time Settlement (OTS) Negotiation Framework</h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 A good OTS requires clear steps, loan audits, and direct talks. Dealing alone with agents brings false promises. Informal token payments get lost as extra fees. Our advocates follow 4 clear stages:
               </p>
@@ -659,7 +659,7 @@ export default function PersonalLoanSettlementVaranasiPage() {
 
             {/* Section 7: DLSA Lok Adalat Settlement Mechanics */}
             <section id="dlsa-lok-adalat-settlement-mechanics" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">7. Varanasi DLSA Lok Adalat Settlement</h2>
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">7. Varanasi DLSA Lok Adalat Settlement</h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 The National Lok Adalat is the best place to settle personal loans in Eastern UP. It is run by DLSA Varanasi at the Kutchery court complex in Orderly Bazar.
               </p>
@@ -675,7 +675,7 @@ export default function PersonalLoanSettlementVaranasiPage() {
                     1
                   </div>
                   <div>
-                    <h3 className="font-bold text-slate-900 text-xs sm:text-sm">Status of a Final Civil Court Decree</h3>
+                    <h4 className="font-bold text-slate-900 text-xs sm:text-sm">Status of a Final Civil Court Decree</h4>
                     <p className="text-xs text-slate-600 leading-relaxed mt-0.5">
                       Under Section 21 of the Legal Services Authorities Act 1987, a Lok Adalat award acts as a civil court decree. It closes the loan permanently.
                     </p>
@@ -686,7 +686,7 @@ export default function PersonalLoanSettlementVaranasiPage() {
                     2
                   </div>
                   <div>
-                    <h4 className="font-bold text-slate-900 text-xs sm:text-sm">Absolute Bar on Future Appeals</h4>
+                    <h5 className="font-bold text-slate-900 text-xs sm:text-sm">Absolute Bar on Future Appeals</h5>
                     <p className="text-xs text-slate-600 leading-relaxed mt-0.5">
                       Banks cannot appeal a Lok Adalat award in District Court, Allahabad High Court, or Supreme Court. The loan is closed forever.
                     </p>
@@ -697,7 +697,7 @@ export default function PersonalLoanSettlementVaranasiPage() {
                     3
                   </div>
                   <div>
-                    <h4 className="font-bold text-slate-900 text-xs sm:text-sm">Automatic Criminal Compounding</h4>
+                    <h5 className="font-bold text-slate-900 text-xs sm:text-sm">Automatic Criminal Compounding</h5>
                     <p className="text-xs text-slate-600 leading-relaxed mt-0.5">
                       In Section 138 NI Act and Section 25 PSSA cases, Lok Adalat orders act as compounding decrees under Section 147 NI Act. All court cases are dropped.
                     </p>
@@ -708,7 +708,7 @@ export default function PersonalLoanSettlementVaranasiPage() {
                     4
                   </div>
                   <div>
-                    <h4 className="font-bold text-slate-900 text-xs sm:text-sm">Zero Court Fees &amp; Full Fee Refund</h4>
+                    <h5 className="font-bold text-slate-900 text-xs sm:text-sm">Zero Court Fees &amp; Full Fee Refund</h5>
                     <p className="text-xs text-slate-600 leading-relaxed mt-0.5">
                       Lok Adalat sessions are free. If a pending civil suit is settled here, court fees are refunded under the Court Fees Act, 1870.
                     </p>
@@ -719,7 +719,7 @@ export default function PersonalLoanSettlementVaranasiPage() {
 
             {/* Section 8: Sanction Letter Forensics & CIBIL */}
             <section id="sanction-letter-forensics-ndc-cibil" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">8. Sanction Letter Forensics &amp; NDC in Varanasi</h2>
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">8. Sanction Letter Forensics &amp; NDC in Varanasi</h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 A loan settlement needs two documents: a Bank Sanction Letter and a No Dues Certificate (NDC). Agents sometimes send fake letters on WhatsApp. We verify every paper before you pay:
               </p>
@@ -736,7 +736,7 @@ export default function PersonalLoanSettlementVaranasiPage() {
 
             {/* Section 9: Comparative Matrix Table */}
             <section id="comparative-matrix-litigation-vs-ots" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">9. Court Trial vs. Advocate-Led OTS in Varanasi</h2>
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">9. Court Trial vs. Advocate-Led OTS in Varanasi</h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 When facing bank legal notices in Varanasi Kutchery, compare contested court litigation against an advocate-led OTS:
               </p>
@@ -789,7 +789,7 @@ export default function PersonalLoanSettlementVaranasiPage() {
             {/* Section 10: SettleLoans Legal Defense & Advisory + CompanySection */}
             <section id="company-resolution-section" className="space-y-6">
               <div className="border-t border-slate-200 pt-8 space-y-4">
-                <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">10. SettleLoans Legal Defense in Varanasi</h2>
+                <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">10. SettleLoans Legal Defense in Varanasi</h3>
                 <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                   SettleLoans provides complete legal defense for silk traders, hotel owners, and salaried staff in Varanasi, Prayagraj, and Gorakhpur. Our advocates stop agent harassment with cease-and-desist notices. We defend Section 138 NI Act and Section 25 PSSA cases in Varanasi Kutchery. We also secure 40% to 70% bank OTS cuts with official No Dues Certificates and DLSA Lok Adalat decrees.
                 </p>
@@ -806,9 +806,9 @@ export default function PersonalLoanSettlementVaranasiPage() {
                   <Gavel className="w-4 h-4" />
                   <span>Local Legal Jurisdiction &amp; Legal Aid Directory</span>
                 </div>
-                <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+                <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                   District Courts &amp; DLSA Helpdesk in Varanasi
-                </h2>
+                </h3>
                 <p className="text-slate-700 leading-relaxed mb-6 text-base">
                   Distressed borrowers facing recovery pressure, arbitration summons, or Section 138 NI Act notices in Varanasi can access statutory legal defense through the local District Court and District Legal Services Authority (DLSA):
                 </p>
@@ -843,7 +843,7 @@ export default function PersonalLoanSettlementVaranasiPage() {
 <section id="faqs" className="space-y-4 border-t border-slate-200 pt-8">
               <div className="flex items-center gap-2 mb-2">
                 <HelpCircle className="w-5 h-5 text-[#1F5EFF]" />
-                <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">11. FAQs: Varanasi &amp; Eastern UP</h2>
+                <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">11. FAQs: Varanasi &amp; Eastern UP</h3>
               </div>
               <p className="text-xs sm:text-sm text-slate-600 mb-6">
                 Clear answers to key questions about personal loan settlement, court defense, and borrower rights in Varanasi.
@@ -873,9 +873,9 @@ export default function PersonalLoanSettlementVaranasiPage() {
 
             {/* 5 Official Regulatory Links */}
             <section className="border-t border-slate-200 pt-8 mb-4">
-              <h3 className="text-xs sm:text-sm font-bold text-slate-900 mb-3 uppercase tracking-wider">
+              <h4 className="text-xs sm:text-sm font-bold text-slate-900 mb-3 uppercase tracking-wider">
                 Official Statutory &amp; Regulatory References
-              </h3>
+              </h4>
               <div className="grid grid-cols-1 sm:grid-cols-2 gap-2.5 text-xs">
                 <a
                   href="https://www.rbi.org.in"
@@ -927,9 +927,9 @@ export default function PersonalLoanSettlementVaranasiPage() {
 
             {/* 10 Related Guide Badges */}
             <section className="border-t border-slate-200 pt-8 mb-8">
-              <h3 className="text-xs sm:text-sm font-bold text-slate-900 mb-4 uppercase tracking-wider">
+              <h4 className="text-xs sm:text-sm font-bold text-slate-900 mb-4 uppercase tracking-wider">
                 Related Legal Defense &amp; Debt Settlement Guides
-              </h3>
+              </h4>
               <div className="flex flex-wrap gap-2">
                 <Link
                   href="/personal-loan-settlement-lucknow"

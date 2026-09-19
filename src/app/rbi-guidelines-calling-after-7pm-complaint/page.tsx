@@ -503,7 +503,7 @@ export default function RbiGuidelinesCallingAfter7pmComplaintPage() {
 
             {/* Section 2: Constitutional Privacy and Civil Law Protections */}
             <section id="statutory-civil-criminal-protections" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">2. Constitutional Privacy and Civil Law Protections</h2>
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">2. Constitutional Privacy and Civil Law Protections</h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Beyond banking guidelines, protection against after-hours debt harassment is rooted in constitutional law. Article 21 of the Constitution of India guarantees the fundamental Right to Life and Personal Liberty. In <em>Justice K.S. Puttaswamy v. Union of India (2017)</em>, the Supreme Court held that privacy in one&apos;s home is an essential part of Article 21. This built upon <em>ICICI Bank Ltd. v. Prakash Kaur (2007)</em>, where the apex court barred lenders from using musclemen or intimidation to recover dues.
               </p>
@@ -514,7 +514,7 @@ export default function RbiGuidelinesCallingAfter7pmComplaintPage() {
 
             {/* Section 3: Timestamped Call Logs and Digital Evidence Standards */}
             <section id="forensic-call-log-evidence-admissibility" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">3. Timestamped Call Logs and Digital Evidence Standards</h2>
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">3. Timestamped Call Logs and Digital Evidence Standards</h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Banks and collection agencies often deny after-hours calling unless presented with clear electronic proof. To enforce your rights, you must document incoming calls systematically. Never delete after-hours call entries. Capture device screenshots showing the incoming caller ID, date, exact timestamp, and carrier status bar.
               </p>
@@ -549,7 +549,7 @@ export default function RbiGuidelinesCallingAfter7pmComplaintPage() {
 
             {/* Section 4: Lender Vicarious Liability and Monetary RBI Fines */}
             <section id="vicarious-liability-rbi-penalties" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">4. Lender Vicarious Liability and Monetary RBI Fines</h2>
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">4. Lender Vicarious Liability and Monetary RBI Fines</h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Lenders cannot avoid legal responsibility by claiming recovery agencies are independent contractors. Under the doctrine of vicarious liability—and Paragraph 12 of the RBI Master Direction on Outsourcing—banks and NBFCs remain directly responsible for the actions of their collection agents. The principal answers for wrongful acts committed by its agents during debt recovery.
               </p>
@@ -560,7 +560,7 @@ export default function RbiGuidelinesCallingAfter7pmComplaintPage() {
 
             {/* Section 5: Regulatory Calling Hours Infographic */}
             <section id="infographic-calling-hours-shield" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">5. Recovery Calling Hours Regulatory Infographic</h2>
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">5. Recovery Calling Hours Regulatory Infographic</h3>
               <div className="border border-slate-200 rounded-2xl overflow-hidden shadow-sm bg-slate-50 p-2">
                 <Image
                   src="/images/infographics/rbi-guidelines-calling-after-7pm-complaint.jpg"
@@ -578,7 +578,7 @@ export default function RbiGuidelinesCallingAfter7pmComplaintPage() {
 
             {/* Section 6: Issuing a Formal Advocate Cease-and-Desist Notice */}
             <section id="advocate-cease-and-desist-intervention" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">6. Issuing a Formal Advocate Cease-and-Desist Notice</h2>
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">6. Issuing a Formal Advocate Cease-and-Desist Notice</h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Frontline agency telecallers rarely heed verbal protests because their incentives depend on monthly collection targets. Stopping after-hours calls permanently requires a formal Advocate Cease-and-Desist Notice served on the bank&apos;s Managing Director and Principal Nodal Officer (PNO) via registered Speed Post and email.
               </p>
@@ -589,7 +589,7 @@ export default function RbiGuidelinesCallingAfter7pmComplaintPage() {
 
             {/* Section 7: Bank Provisioning Burden and NPV Recovery Calculus */}
             <section id="npa-provisioning-npv-recovery-model" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">7. Bank Provisioning Burden and NPV Recovery Calculus</h2>
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">7. Bank Provisioning Burden and NPV Recovery Calculus</h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 When an unsecured retail loan crosses 90 days overdue, it becomes a Non-Performing Asset (NPA) under RBI IRACP norms. This requires banks to stop recognizing interest income and allocate mandatory capital provisions from operating profits—starting at 15% to 25% and rising to 100% over time. Bank credit committees evaluate settlements against prolonged recovery friction using Net Present Value (NPV):
               </p>
@@ -615,7 +615,7 @@ export default function RbiGuidelinesCallingAfter7pmComplaintPage() {
 
             {/* Section 8: Escalating Harassment to the RBI CMS Ombudsman */}
             <section id="rbi-cms-ombudsman-escalation-protocol" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">8. Escalating Harassment to the RBI CMS Ombudsman</h2>
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">8. Escalating Harassment to the RBI CMS Ombudsman</h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 If a lender fails to resolve an after-hours harassment complaint within 30 days, borrowers can escalate the matter under the Reserve Bank – Integrated Ombudsman Scheme (RB-IOS), 2021 via the CMS portal at <code>cms.rbi.org.in</code>. File under &quot;Deficiency in Service – Violation of Recovery Agent Guidelines.&quot;
               </p>
@@ -626,7 +626,7 @@ export default function RbiGuidelinesCallingAfter7pmComplaintPage() {
 
             {/* Section 9: Comparative Debt Collection Enforcement Matrix */}
             <section id="comparative-enforcement-matrix" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">9. Comparative Debt Collection Enforcement Matrix</h2>
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">9. Comparative Debt Collection Enforcement Matrix</h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Knowing the legal boundaries of debt collection empowers borrowers to counter intimidation. The table below outlines permitted hours, prohibited acts, legal violations, and prescribed remedies across collection channels:
               </p>
@@ -686,7 +686,7 @@ export default function RbiGuidelinesCallingAfter7pmComplaintPage() {
             {/* Section 10: SettleLoans Legal Shield and Debt Resolution */}
             <section id="settleloans-advocate-intervention" className="space-y-6">
               <div className="border-t border-slate-200 pt-8 space-y-4">
-                <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">10. SettleLoans Legal Shield and Debt Resolution</h2>
+                <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">10. SettleLoans Legal Shield and Debt Resolution</h3>
                 <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                   Borrowers should never suffer after-hours harassment or threats over personal loans, business debt, or credit card balances. At SettleLoans, our senior banking litigators protect distressed borrowers across India.
                 </p>
@@ -703,7 +703,7 @@ export default function RbiGuidelinesCallingAfter7pmComplaintPage() {
             <section id="faqs" className="space-y-4 border-t border-slate-200 pt-8">
               <div className="flex items-center gap-2 mb-2">
                 <HelpCircle className="w-5 h-5 text-[#1F5EFF]" />
-                <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">11. Frequently Asked Questions on Calling Rules</h2>
+                <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">11. Frequently Asked Questions on Calling Rules</h3>
               </div>
               <p className="text-xs sm:text-sm text-slate-600 mb-6">
                 Clear answers on RBI recovery agent calling hours, evidence preservation under BSA 2023, and institutional debt settlement remedies.

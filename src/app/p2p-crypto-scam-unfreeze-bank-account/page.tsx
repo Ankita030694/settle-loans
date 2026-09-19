@@ -275,9 +275,9 @@ export default function P2PCryptoScamUnfreezePage() {
             </section>
 
             <section id="p2p-scam-mechanics" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
                 Section 1: How the P2P Crypto Scam Cycle Works
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 The Peer-to-Peer market is a decentralized way of exchanging fiat currency (like INR) for digital assets. However, its decentralized nature makes it a prime target for money launderers. In a typical P2P scam, the fraudster acts as a 'Buyer'. They place an order to buy crypto from you. But instead of sending you their own money, they use funds stolen from a victim of another scam.
               </p>
@@ -285,7 +285,7 @@ export default function P2PCryptoScamUnfreezePage() {
                 When that original victim realizes they have been scammed, they report the fraud on the National Cyber Crime Reporting Portal (1930). The portal's automated system tracks where that victim's money went. Since the fraudster sent that stolen money to your bank account to buy crypto, your account is marked as a recipient of fraudulent funds. This is known as a 'Second Layer' or 'Third Layer' involvement.
               </p>
               <div className="bg-gray-50 p-8 rounded-xl border border-gray-200 mb-8">
-                <h3 className="text-xl font-bold mb-6 italic">The Layering Process: Why You are Flagged</h3>
+                <h4 className="text-xl font-bold mb-6 italic">The Layering Process: Why You are Flagged</h4>
                 <div className="space-y-4 text-sm">
                   <p><strong>Layer 1:</strong> A victim is scammed of 1 Lakh INR via a fake job portal.</p>
                   <p><strong>Layer 2:</strong> The scammer uses the victim's money to buy USDT from you on P2P.</p>
@@ -299,7 +299,7 @@ export default function P2PCryptoScamUnfreezePage() {
             </section>
 
             <section id="freezing-legal-logic" className="scroll-mt-32 mb-16">
-              <h3 className="text-2xl md:text-3xl font-bold text-[#2E2E2E] mb-6">The Legal Logic Behind Bank Account Freezes</h3>
+              <h4 className="text-2xl md:text-3xl font-bold text-[#2E2E2E] mb-6">The Legal Logic Behind Bank Account Freezes</h4>
               <p className="text-lg leading-relaxed mb-6">
                 Indian law provides extensive powers to the police to prevent the dissipation of proceeds of crime. When a cybercrime is reported, the primary objective is to 'halt' the money trail. If the police do not freeze the destination accounts quickly, the fraudster will withdraw the cash or transfer it to accounts in foreign jurisdictions, making recovery impossible.
               </p>
@@ -308,20 +308,20 @@ export default function P2PCryptoScamUnfreezePage() {
               </p>
               <div className="grid md:grid-cols-2 gap-6 my-8">
                 <div className="bg-blue-50 p-6 rounded-xl border border-blue-100">
-                  <h4 className="font-black text-blue-900 mb-2 uppercase text-xs tracking-widest">Administrative Hold</h4>
+                  <h5 className="font-black text-blue-900 mb-2 uppercase text-xs tracking-widest">Administrative Hold</h5>
                   <p className="text-sm text-blue-800">Triggered by the bank internally when suspicious patterns emerge. Usually resolved with a KYC update.</p>
                 </div>
                 <div className="bg-red-50 p-6 rounded-xl border border-red-100">
-                  <h4 className="font-black text-red-900 mb-2 uppercase text-xs tracking-widest">Cyber Cell Freeze</h4>
+                  <h5 className="font-black text-red-900 mb-2 uppercase text-xs tracking-widest">Cyber Cell Freeze</h5>
                   <p className="text-sm text-red-800">Explicit legal instruction from law enforcement authorities. Requires a legal NOC for removal.</p>
                 </div>
               </div>
             </section>
 
             <section id="bnss-section-106" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
                 Section 2: Understanding Section 106 of the BNSS
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 With the implementation of the new criminal laws in India, Section 102 of the CrPC has been replaced by Section 106 of the Bharatiya Nagarik Suraksha Sanhita (BNSS). This section provides the primary legal foundation for the seizure and freezing of property. It states that any police officer may seize any property which may be alleged or suspected to have been stolen, or which may be found under circumstances which create suspicion of the commission of any offence.
               </p>
@@ -329,7 +329,7 @@ export default function P2PCryptoScamUnfreezePage() {
                 Crucially, Section 106(3) of the BNSS mandates that the police officer shall forthwith report the seizure to the Magistrate having jurisdiction. This is a critical check and balance designed to prevent the abuse of powers by law enforcement. Many frozen accounts are released by High Courts simply because the police failed to comply with this mandatory reporting requirement.
               </p>
               <div className="bg-amber-50 p-8 rounded-xl border border-amber-200 mb-8">
-                <h3 className="font-bold text-amber-900 mb-4">Key Legal Takeaway: The Mandatory Report</h3>
+                <h4 className="font-bold text-amber-900 mb-4">Key Legal Takeaway: The Mandatory Report</h4>
                 <p className="text-sm text-amber-800 leading-relaxed">
                   If the police freeze your account but do not inform the Magistrate 'forthwith', the freeze becomes legally unsustainable. A competent lawyer can file a petition in the High Court to quash such a freeze order based on procedural lapses alone. This demonstrates that while the police have power, that power is strictly bounded by the rules of procedure.
                 </p>
@@ -337,7 +337,7 @@ export default function P2PCryptoScamUnfreezePage() {
             </section>
 
             <section id="lien-vs-freeze" className="scroll-mt-32 mb-16">
-              <h3 className="text-2xl md:text-3xl font-bold text-[#2E2E2E] mb-6">What is a Lien and How Does it Differ from a Freeze?</h3>
+              <h4 className="text-2xl md:text-3xl font-bold text-[#2E2E2E] mb-6">What is a Lien and How Does it Differ from a Freeze?</h4>
               <p className="text-lg leading-relaxed mb-6">
                 A "Lien" is a digital mark where a specific amount of money is 'reserved' or locked in your account. For example, if you received 20,000 INR from a suspicious source, the bank might place a 20,000 INR lien. You can still use the rest of your balance. A "Full Freeze", however, blocks the entire account, including incoming and outgoing transactions.
               </p>
@@ -347,9 +347,9 @@ export default function P2PCryptoScamUnfreezePage() {
             </section>
 
             <section id="step-by-step-recovery" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                 Section 3: Practical Step-by-Step Recovery Guide
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-8">
                 The moment you realize your account is frozen, you must act decisively. Delays can lead to the "marked as fraud" tag being shared with other banks, potentially affecting your other accounts. Follow this systematic roadmap to resolve the situation.
               </p>
@@ -358,7 +358,7 @@ export default function P2PCryptoScamUnfreezePage() {
                 <div className="flex gap-6">
                   <div className="flex-shrink-0 w-12 h-12 bg-[#1F5EFF] text-white rounded-full flex items-center justify-center font-black text-xl">1</div>
                   <div>
-                    <h3 className="text-xl font-bold text-[#2E2E2E] mb-2">Engage with Your Bank Manager</h3>
+                    <h4 className="text-xl font-bold text-[#2E2E2E] mb-2">Engage with Your Bank Manager</h4>
                     <p className="text-gray-600 leading-relaxed">
                       Visit your home branch in person. Ask for the "Freeze Order Details". You need three pieces of information: The name of the Cyber Cell/Police Station, the Complaint ID (Acknowledge Number), and the name of the Investigating Officer (IO). Do not leave until you have these details in writing or over official email.
                     </p>
@@ -368,7 +368,7 @@ export default function P2PCryptoScamUnfreezePage() {
                 <div className="flex gap-6">
                   <div className="flex-shrink-0 w-12 h-12 bg-[#1F5EFF] text-white rounded-full flex items-center justify-center font-black text-xl">2</div>
                   <div>
-                    <h4 className="text-xl font-bold text-[#2E2E2E] mb-2">Connect with the Cyber Crime Cell</h4>
+                    <h5 className="text-xl font-bold text-[#2E2E2E] mb-2">Connect with the Cyber Crime Cell</h5>
                     <p className="text-gray-600 leading-relaxed">
                       Once you have the details, verify them on the National Cyber Crime Portal. You should then establish contact with the concerned Cyber Police Station. In many cases, these cells are in different states (like Telangana, Gujarat, or Delhi). You can start the communication via their official email ID provided on the portal.
                     </p>
@@ -378,7 +378,7 @@ export default function P2PCryptoScamUnfreezePage() {
                 <div className="flex gap-6">
                   <div className="flex-shrink-0 w-12 h-12 bg-[#1F5EFF] text-white rounded-full flex items-center justify-center font-black text-xl">3</div>
                   <div>
-                    <h4 className="text-xl font-bold text-[#2E2E2E] mb-2">Gather Your Evidence</h4>
+                    <h5 className="text-xl font-bold text-[#2E2E2E] mb-2">Gather Your Evidence</h5>
                     <p className="text-gray-600 leading-relaxed">
                       This is the most critical step. You must prove that you provided value (crypto) for the money you received. Collect screenshots of the P2P order on Binance/OKX, the chat history with the buyer, proof of USDT/BTC release, and your own bank statement showing the source of funds used to buy that crypto initially.
                     </p>
@@ -388,7 +388,7 @@ export default function P2PCryptoScamUnfreezePage() {
             </section>
 
             <section id="representation-io" className="scroll-mt-32 mb-16">
-              <h3 className="text-2xl md:text-3xl font-bold text-[#2E2E2E] mb-6">Drafting a Strong Representation to the IO</h3>
+              <h4 className="text-2xl md:text-3xl font-bold text-[#2E2E2E] mb-6">Drafting a Strong Representation to the IO</h4>
               <p className="text-lg leading-relaxed mb-6">
                 A "Representation" is a formal letter where you explain your case. It should be drafted professionally, avoiding emotional pleas and focusing on the facts. Use clear headings and attach all evidence as numbered annexures. Your goal is to show the IO that you are an 'Innocent Second-Layer Recipient'.
               </p>
@@ -401,16 +401,16 @@ export default function P2PCryptoScamUnfreezePage() {
             </section>
 
             <section id="judicial-remedies" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                 Section 4: Judicial Remedies to Unfreeze Accounts
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 In many instances, the police may be unresponsive or may insist that you visit a distant police station in person, which might not be practical. In such cases, you must approach the court. There are two primary levels of judicial intervention.
               </p>
             </section>
 
             <section id="magistrate-court-role" className="scroll-mt-32 mb-16">
-              <h3 className="text-2xl font-bold text-[#2E2E2E] mb-4">The Magistrate Court Route (Section 503 BNSS)</h3>
+              <h4 className="text-2xl font-bold text-[#2E2E2E] mb-4">The Magistrate Court Route (Section 503 BNSS)</h4>
               <p className="text-lg leading-relaxed mb-6">
                 You can file an application under Section 503 of the BNSS (formerly 457 CrPC) before the Magistrate who has jurisdiction over the police station that issued the freeze. In this application, you request the court to release your account. The court usually asks the police for a 'Status Report'.
               </p>
@@ -420,7 +420,7 @@ export default function P2PCryptoScamUnfreezePage() {
             </section>
 
             <section id="high-court-intervention" className="scroll-mt-32 mb-16">
-              <h4 className="text-2xl font-bold text-[#2E2E2E] mb-4">High Court Intervention under Article 226</h4>
+              <h5 className="text-2xl font-bold text-[#2E2E2E] mb-4">High Court Intervention under Article 226</h5>
               <p className="text-lg leading-relaxed mb-6">
                 If the freeze is blatantly illegal or if the police have frozen multiple accounts without a clear link, you can approach the High Court. A Writ Petition under Article 226 of the Constitution of India is a powerful tool. You can argue that the freeze violates your fundamental Right to Property and Right to Livelihood.
               </p>
@@ -430,9 +430,9 @@ export default function P2PCryptoScamUnfreezePage() {
             </section>
 
             <section id="innocent-trader-rights" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
                 Section 5: Rights of Innocent Traders in India
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 Being part of a P2P crypto trade does not make you a criminal. As a citizen, you have protections under the law. It is important to know these rights so you can stand your ground when talking to officials.
               </p>
@@ -453,19 +453,19 @@ export default function P2PCryptoScamUnfreezePage() {
             </section>
 
             <section id="blocking-unlawful-freezes" className="scroll-mt-32 mb-16">
-              <h3 className="text-2xl md:text-3xl font-bold text-[#2E2E2E] mb-6">How to Identify and Stop Unlawful Freezes</h3>
+              <h4 className="text-2xl md:text-3xl font-bold text-[#2E2E2E] mb-6">How to Identify and Stop Unlawful Freezes</h4>
               <p className="text-lg leading-relaxed mb-6">
                 An unlawful freeze is one where the protocols were not followed. For instance, if the instruction came from a police officer below the rank of Sub-Inspector (unless in specific circumstances), or if the account was frozen based on a private complaint without an FIR (First Information Report). If you suspect your freeze is unlawful, you should immediately send a legal notice to the bank's Nodal Officer and the concerned Police Commissioner.
               </p>
             </section>
 
             <section id="settleloans-assistance" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 uppercase">How SettleLoans Can Assist Your Recovery</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 uppercase">How SettleLoans Can Assist Your Recovery</h3>
               <p className="text-lg leading-relaxed mb-6">
                 Navigating cybercrime laws and bank protocols is daunting for any individual. At SettleLoans, we provide the professional shield you need. Our team of experts understands the exact 'Nodal Officer' chains and 'Cyber Cell' hierarchies that decide the fate of your account.
               </p>
               <div className="bg-[#1F5EFF] text-white p-8 rounded-3xl mb-8 shadow-2xl">
-                <h3 className="text-2xl font-bold mb-4">Our Professional Framework</h3>
+                <h4 className="text-2xl font-bold mb-4">Our Professional Framework</h4>
                 <ul className="space-y-4 text-sm opacity-90">
                   <li className="flex items-center gap-2">✓ Forensic analysis of your P2P trades to build a bulletproof 'Innocent Buyer' defense.</li>
                   <li className="flex items-center gap-2">✓ Legal drafting of representations to Investigating Officers and Cyber Cell Commissioners.</li>
@@ -477,33 +477,33 @@ export default function P2PCryptoScamUnfreezePage() {
             </section>
 
             <section id="future-precautions" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                 Section 6: Precision Safeguards for Future P2P Trading
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 Preventing a freeze is always easier than lifting one. If you intend to continue trading crypto in the P2P market, follow these golden rules of financial hygiene:
               </p>
               <div className="grid md:grid-cols-2 gap-8 my-10">
                 <div className="bg-white p-6 rounded-xl border border-gray-100 shadow-sm">
-                  <h3 className="font-bold mb-3 text-[#1F5EFF]">1. Third-Party Check</h3>
+                  <h4 className="font-bold mb-3 text-[#1F5EFF]">1. Third-Party Check</h4>
                   <p className="text-sm text-gray-600 leading-relaxed">
                     NEVER accept money from a bank account that does not match the name on the crypto platform. Fraudsters often use stolen accounts for transfers. If names do not match, refund the money immediately and cancel the trade.
                   </p>
                 </div>
                 <div className="bg-white p-6 rounded-xl border border-gray-100 shadow-sm">
-                  <h4 className="font-bold mb-3 text-[#1F5EFF]">2. Merchant Verification</h4>
+                  <h5 className="font-bold mb-3 text-[#1F5EFF]">2. Merchant Verification</h5>
                   <p className="text-sm text-gray-600 leading-relaxed">
                     Only trade with verified 'Pro' or 'Yellow Tick' merchants. Check their completion rate (should be &gt;95%) and their 'days since account creation'. A new account with high-volume trades is a significant red flag.
                   </p>
                 </div>
                 <div className="bg-white p-6 rounded-xl border border-gray-100 shadow-sm">
-                  <h4 className="font-bold mb-3 text-[#1F5EFF]">3. Transaction Remarks</h4>
+                  <h5 className="font-bold mb-3 text-[#1F5EFF]">3. Transaction Remarks</h5>
                   <p className="text-sm text-gray-600 leading-relaxed">
                     Ask the buyer to include their Order ID or "P2P Payment" in the transaction remarks. Avoid terms like "Crypto", "BTC", or "Investment", as these often trigger bank internal flags even without a scam.
                   </p>
                 </div>
                 <div className="bg-white p-6 rounded-xl border border-gray-100 shadow-sm">
-                  <h4 className="font-bold mb-3 text-[#1F5EFF]">4. Separate Accounts</h4>
+                  <h5 className="font-bold mb-3 text-[#1F5EFF]">4. Separate Accounts</h5>
                   <p className="text-sm text-gray-600 leading-relaxed">
                     Use a separate bank account specifically for P2P trading. Do not use your primary savings account or the account where you receive your salary. This limits the damage if a freeze occurs.
                   </p>
@@ -512,7 +512,7 @@ export default function P2PCryptoScamUnfreezePage() {
             </section>
 
             <section id="review-snippets-section" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 text-center uppercase tracking-tighter">Verified Success Stories</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 text-center uppercase tracking-tighter">Verified Success Stories</h3>
               <div className="grid md:grid-cols-2 gap-6">
                 {[
                   { name: "Arjun R.", loc: "Mumbai", type: "Binance P2P Freeze", story: "My HDFC account was frozen because of a 50k transaction. SettleLoans helped me reach out to the Telangana Cyber Cell. Within 20 days, my NOC was processed. Excellent service." },
@@ -526,7 +526,7 @@ export default function P2PCryptoScamUnfreezePage() {
                         {review.name.charAt(0)}
                       </div>
                       <div>
-                        <h3 className="font-bold text-[#2E2E2E]">{review.name}</h3>
+                        <h4 className="font-bold text-[#2E2E2E]">{review.name}</h4>
                         <p className="text-xs text-gray-400">{review.loc}</p>
                       </div>
                       <div className="ml-auto text-yellow-500 text-sm">★★★★★</div>
@@ -539,7 +539,7 @@ export default function P2PCryptoScamUnfreezePage() {
 
             {/* Conclusion */}
             <section className="mb-16">
-              <h2 className="text-3xl font-black text-[#2E2E2E] mb-6">Conclusion: Reclaiming Your Financial Security</h2>
+              <h3 className="text-3xl font-black text-[#2E2E2E] mb-6">Conclusion: Reclaiming Your Financial Security</h3>
               <p className="text-lg leading-relaxed mb-6">
                 A frozen bank account is a major stress, but it is a hurdle you can overcome with the right legal knowledge and persistence. By understanding the provisions of Section 106 BNSS and proactively engaging with law enforcement, you can prove your innocence and regain access to your hard earned money.
               </p>
@@ -549,7 +549,7 @@ export default function P2PCryptoScamUnfreezePage() {
             </section>
 
             <section id="faqs-section" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-5xl font-black text-[#2E2E2E] mt-16 mb-8 text-center uppercase">Frequently Asked Questions</h2>
+              <h3 className="text-3xl md:text-5xl font-black text-[#2E2E2E] mt-16 mb-8 text-center uppercase">Frequently Asked Questions</h3>
               <div className="space-y-4">
                 {[
                   { q: "Is it a crime to have my account frozen by a Cyber Cell?", a: "No. A freeze is a investigative procedure. You are not a criminal unless proven guilty in a court of law. It is a preventive measure to secure money that might be proceeds of crime." },
@@ -587,7 +587,7 @@ export default function P2PCryptoScamUnfreezePage() {
             <div className="lg:hidden mt-16 mb-8">
               <div className="bg-[#2E2E2E] rounded-2xl shadow-xl overflow-hidden border border-[#1F5EFF]/20">
                 <div className="bg-[#1F5EFF] p-6 text-center text-white">
-                  <h3 className="text-2xl font-black mb-2">Ready to Unfreeze?</h3>
+                  <h4 className="text-2xl font-black mb-2">Ready to Unfreeze?</h4>
                   <p className="opacity-90 text-sm">Don't let your money stay locked. Get expert help now.</p>
                 </div>
                 <div className="p-8 text-center">
@@ -643,7 +643,7 @@ export default function P2PCryptoScamUnfreezePage() {
         {/* Bottom CTA Section */}
         <section className="w-full bg-[#1F5EFF] py-16 px-4">
           <div className="max-w-4xl mx-auto text-center text-white">
-            <h2 className="text-3xl md:text-5xl font-black mb-6 uppercase tracking-tighter">Take Back Control of Your Bank Account</h2>
+            <h3 className="text-3xl md:text-5xl font-black mb-6 uppercase tracking-tighter">Take Back Control of Your Bank Account</h3>
             <p className="text-xl opacity-90 mb-10">Every hour you wait is an hour your funds remain at risk. Get the professional legal representation you deserve and resolve your P2P freeze today.</p>
             <Link href="/contact" className="inline-block bg-white text-[#1F5EFF] font-black py-5 px-12 rounded-xl hover:scale-105 transition-all shadow-2xl text-xl">
               Start Your Recovery Now

@@ -305,9 +305,9 @@ export default function LoanDefaultEMIAsistancePage() {
                         </section>
 
                         <section id="defining-default-npa" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
                                 Defining Default and the NPA Threshold
-                            </h2>
+                            </h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 In the Indian banking system, there is a clear distinction between a 'delay' and a 'default'. A default occurs the moment you miss a single EMI payment. However, the critical phase begins when your account is classified as a Non Performing Asset (NPA). According to RBI guidelines, most loan accounts are labeled as NPAs when the interest or principal remains overdue for a continuous period of 90 days.
                             </p>
@@ -326,9 +326,9 @@ export default function LoanDefaultEMIAsistancePage() {
                         </section>
 
                         <section id="mechanics-of-foreclosure" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
                                 The Mechanics of Foreclosure in India
-                            </h2>
+                            </h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 Foreclosure in India can be viewed through two lenses. The first is 'voluntary foreclosure', where a borrower chooses to pay off a loan early to save on interest. The second, more stressful lens is 'involuntary foreclosure', where the lender initiates a legal process to reclaim and sell the mortgaged property to recover their dues. This process is governed primarily by the SARFAESI Act for banks and NBFCs.
                             </p>
@@ -341,46 +341,46 @@ export default function LoanDefaultEMIAsistancePage() {
                         </section>
 
                         <section id="legal-rights-defaulters" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">Your Legal Rights as a Defaulter</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">Your Legal Rights as a Defaulter</h3>
                             <div className="grid sm:grid-cols-2 gap-4 mb-8">
                                 <div className="bg-white p-6 rounded-xl border border-[#DEDEDE] shadow-sm">
                                     <div className="text-[#1F5EFF] mb-4">
                                         <svg className="w-8 h-8" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M15 17h5l-1.405-1.405A2.032 2.032 0 0118 14.158V11a6.002 6.002 0 00-4-5.659V5a2 2 0 10-4 0v.341C7.67 6.165 6 8.388 6 11v3.159c0 .538-.214 1.055-.595 1.436L4 17h5m6 0v1a3 3 0 11-6 0v-1m6 0H9"></path></svg>
                                     </div>
-                                    <h3 className="font-black text-lg mb-2">Right to Notice</h3>
+                                    <h4 className="font-black text-lg mb-2">Right to Notice</h4>
                                     <p className="text-sm text-gray-500">Banks cannot seize assets without a formal 60 day notice. You also have a right to a 30 day sale notice before auction.</p>
                                 </div>
                                 <div className="bg-white p-6 rounded-xl border border-[#DEDEDE] shadow-sm">
                                     <div className="text-[#1F5EFF] mb-4">
                                         <svg className="w-8 h-8" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M3 6l3 1m0 0l-3 9a5.002 5.002 0 006.001 0M6 7l3 9M6 7l6-2m6 2l3-1m-3 1l-3 9a5.002 5.002 0 006.001 0M18 7l3 9m-3-9l-6-2m0-2v2m0 16V5m0 16H9m3 0h3"></path></svg>
                                     </div>
-                                    <h4 className="font-black text-lg mb-2">Right to Fair Value</h4>
+                                    <h5 className="font-black text-lg mb-2">Right to Fair Value</h5>
                                     <p className="text-sm text-gray-500">The bank cannot sell your property at a throwaway price. You have the right to challenge incorrect valuations in the DRT.</p>
                                 </div>
                                 <div className="bg-white p-6 rounded-xl border border-[#DEDEDE] shadow-sm">
                                     <div className="text-[#1F5EFF] mb-4">
                                         <svg className="w-8 h-8" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M12 8v4l3 3m6-3a9 9 0 11-18 0 9 9 0 0118 0z"></path></svg>
                                     </div>
-                                    <h4 className="font-black text-lg mb-2">Right to be Heard</h4>
+                                    <h5 className="font-black text-lg mb-2">Right to be Heard</h5>
                                     <p className="text-sm text-gray-500">Banks MUST listen to and reply to your objections within 15 days of receiving your 13(3A) representation.</p>
                                 </div>
                                 <div className="bg-white p-6 rounded-xl border border-[#DEDEDE] shadow-sm">
                                     <div className="text-[#1F5EFF] mb-4">
                                         <svg className="w-8 h-8" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M18.364 5.636l-3.536 3.536m0 5.656l3.536 3.536M9.172 9.172L5.636 5.636m3.536 9.192l-3.536 3.536M21 12a9 9 0 11-18 0 9 9 0 0118 0z"></path></svg>
                                     </div>
-                                    <h4 className="font-black text-lg mb-2">Right to Privacy</h4>
+                                    <h5 className="font-black text-lg mb-2">Right to Privacy</h5>
                                     <p className="text-sm text-gray-500">Recovery details cannot be revealed to third parties, neighbors, or colleagues to shame you into paying.</p>
                                 </div>
                             </div>
                         </section>
 
                         <section id="emi-restructuring-help" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">EMI Restructuring: A Lifeline for Distressed Borrowers</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">EMI Restructuring: A Lifeline for Distressed Borrowers</h3>
                             <p className="mb-6">
                                 Restructuring is often the best solution for borrowers who want to pay but can't afford the current installment amounts. Under RBI guidelines, banks have the power to 're-align' the loan terms based on the borrower's revised income levels. This can involve extending the tenure of the loan, which reduces the monthly EMI, or converting accumulated interest into a separate loan with a lower rate.
                             </p>
                             <div className="bg-blue-50 p-8 rounded-2xl border border-blue-100 mb-8">
-                                <h3 className="text-xl font-bold text-blue-800 mb-4">Proactive Restructuring Strategies</h3>
+                                <h4 className="text-xl font-bold text-blue-800 mb-4">Proactive Restructuring Strategies</h4>
                                 <p className="mb-4 text-blue-900/80">
                                     The key to successful restructuring is approaching the bank 'before' the account becomes a chronic NPA. We help our clients prepare a 'Financial Hardship Case', documenting the reasons for distress and proposing a realistic repayment schedule. When a bank sees a credible path to recovery without litigation, they are much more likely to agree to a restructuring plan.
                                 </p>
@@ -388,7 +388,7 @@ export default function LoanDefaultEMIAsistancePage() {
                         </section>
 
                         <section id="stopping-sarfaesi-eviction" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Stopping SARFAESI Eviction and Possession</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Stopping SARFAESI Eviction and Possession</h3>
                             <p className="mb-6">
                                 The most traumatic part of a loan default is the physical eviction from a property. The SARFAESI Act allows banks to apply to the District Magistrate for assistance in taking possession. However, this is not an 'automatic' right. Borrowers can approach the Debt Recovery Tribunal (DRT) through a 'Securitization Application' (SA) to challenge the legality of the bank's actions.
                             </p>
@@ -398,10 +398,10 @@ export default function LoanDefaultEMIAsistancePage() {
                         </section>
 
                         <section id="one-time-settlement-ots" className="scroll-mt-32 mb-12 text-center">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 uppercase tracking-tight">The Power of One Time Settlement (OTS)</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 uppercase tracking-tight">The Power of One Time Settlement (OTS)</h3>
                             <div className="bg-[#1F5EFF] text-white p-10 rounded-[40px] shadow-2xl relative overflow-hidden">
                                 <div className="absolute top-0 left-0 w-full h-full bg-[radial-gradient(circle_at_top_right,_var(--tw-gradient-stops))] from-white/20 to-transparent"></div>
-                                <h3 className="text-2xl font-black mb-6 relative z-10">The Ultimate Exit Door</h3>
+                                <h4 className="text-2xl font-black mb-6 relative z-10">The Ultimate Exit Door</h4>
                                 <p className="text-lg mb-8 relative z-10 font-medium">
                                     An OTS allows you to pay a single, negotiated lump sum amount, often as low as 40 to 60 percent of the total outstanding dues, to close the account permanently. This is a strategic win for both parties: you get a massive debt discount, and the bank clears a bad asset from its books.
                                 </p>
@@ -412,7 +412,7 @@ export default function LoanDefaultEMIAsistancePage() {
                         </section>
 
                         <section id="surviving-financial-stress" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Surviving the Psychological Impact of Financial Distress</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Surviving the Psychological Impact of Financial Distress</h3>
                             <p className="mb-6 text-lg leading-relaxed">
                                 We understand that financial crisis is not just a legal or economic issue; it is a deeply personal and emotional one. The stress of debt can lead to health problems, strained relationships, and a Loss of hope. Our assistance includes a 'Holistic Support' model. We take over all communication with the bank and recovery agents, effectively removing the constant source of your stress.
                             </p>
@@ -422,9 +422,9 @@ export default function LoanDefaultEMIAsistancePage() {
                         </section>
 
                         <section id="anti-harassment-laws" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Your Anti-Harassment Legal Shield</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Your Anti-Harassment Legal Shield</h3>
                             <div className="bg-[#2E2E2E] text-white p-8 rounded-2xl border border-[#1F5EFF]/30 shadow-xl">
-                                <h3 className="text-xl font-bold mb-4 text-[#1F5EFF]">Stopping Illegal Recovery Practices</h3>
+                                <h4 className="text-xl font-bold mb-4 text-[#1F5EFF]">Stopping Illegal Recovery Practices</h4>
                                 <p className="mb-6 opacity-80 leading-relaxed font-bold">
                                     RBI guidelines are very clear about the 'Fair Practices Code' for debt recovery. If agents are harrassing you, we don't just complain; we take action.
                                 </p>
@@ -446,7 +446,7 @@ export default function LoanDefaultEMIAsistancePage() {
                         </section>
 
                         <section id="rbi-guidelines-fair-recovery" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">RBI Guidelines: The Rulebook Banks Must Follow</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">RBI Guidelines: The Rulebook Banks Must Follow</h3>
                             <p className="mb-6">
                                 The Reserve Bank of India is the supreme regulator of banking in the country. They have issued several Master Circulars that mandate how banks should treat 'stressed' accounts. These guidelines provide for 'Prudential Framework for Resolution of Stressed Assets'. They demand that banks should act fairly and transparently. Banks that fail to follow these guidelines face heavy penalties and regulatory bans on recovery through agents.
                             </p>
@@ -456,7 +456,7 @@ export default function LoanDefaultEMIAsistancePage() {
                         </section>
 
                         <section id="asset-valuation-disputes" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Disputing Unfair Asset Valuations</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Disputing Unfair Asset Valuations</h3>
                             <p className="mb-6">
                                 When a bank prepares to auction a property, they set a 'Reserve Price'. This price is based on a valuation report. Often, the bank's valuer sets a lower price to ensure a quick sale, which is a massive loss for the borrower who could have potentially fetched a higher market price. You have the legal right to challenge this valuation.
                             </p>
@@ -466,12 +466,12 @@ export default function LoanDefaultEMIAsistancePage() {
                         </section>
 
                         <section id="credit-score-recovery" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">The Long Road Back: Credit Score Recovery</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">The Long Road Back: Credit Score Recovery</h3>
                             <p className="mb-6">
                                 A loan default is a significant blow to your credit health, but it is not a permanent death sentence for your financial future. Once a loan is settled through an OTS or repaid through restructuring, the bank will update your status with credit bureaus like CIBIL and Experian. While the status might say 'Settled' or 'Written Off', having no active debt is the first step toward recovery.
                             </p>
                             <div className="bg-gray-50 border border-[#DEDEDE] p-8 rounded-2xl mb-8">
-                                <h3 className="text-xl font-bold mb-4">Steps to Rebuild Credit</h3>
+                                <h4 className="text-xl font-bold mb-4">Steps to Rebuild Credit</h4>
                                 <ul className="space-y-3">
                                     <li className="flex items-center gap-2"><div className="w-1.5 h-1.5 bg-[#1F5EFF] rounded-full"></div> Obtain the No Dues Certificate (NDC) immediately after settlement.</li>
                                     <li className="flex items-center gap-2"><div className="w-1.5 h-1.5 bg-[#1F5EFF] rounded-full"></div> Check your CIBIL report after 90 days to ensure the update.</li>
@@ -482,7 +482,7 @@ export default function LoanDefaultEMIAsistancePage() {
                         </section>
 
                         <section id="debt-consolidation-strategies" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Strategic Debt Consolidation</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Strategic Debt Consolidation</h3>
                             <p className="mb-6 text-lg">
                                 For borrowers juggling multiple loans, debt consolidation can be a powerful tool for survival. This involves taking a single, larger loan—often at a lower interest rate—to pay off all higher interest debts like credit cards or micro-finance loans. This simplifies your finances into one single, manageable EMI.
                             </p>
@@ -492,19 +492,19 @@ export default function LoanDefaultEMIAsistancePage() {
                         </section>
 
                         <section id="settleloans-strategic-approach" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">The SettleLoans Methodology: Your Path to Freedom</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">The SettleLoans Methodology: Your Path to Freedom</h3>
                             <div className="bg-[#2E2E2E] text-white p-10 rounded-3xl border border-[#1F5EFF]/20 shadow-[0_20px_50px_rgba(255,59,48,0.1)]">
                                 <div className="grid md:grid-cols-2 gap-12">
                                     <div>
-                                        <h3 className="text-2xl font-black mb-6 text-[#1F5EFF]">Phase 1: Legal Shielding</h3>
+                                        <h4 className="text-2xl font-black mb-6 text-[#1F5EFF]">Phase 1: Legal Shielding</h4>
                                         <p className="opacity-80 leading-relaxed mb-6">We issue legal notices to tell your bank and recovery agents that you are now represented by a legal team. This stops the harassment and centralizes all communication through us.</p>
-                                        <h4 className="font-bold text-white mb-2">Benefit:</h4>
+                                        <h5 className="font-bold text-white mb-2">Benefit:</h5>
                                         <p className="text-sm opacity-60">Immediate mental relief and restoration of your professional image.</p>
                                     </div>
                                     <div>
-                                        <h3 className="text-2xl font-black mb-6 text-[#1F5EFF]">Phase 2: Strategic Exit</h3>
+                                        <h4 className="text-2xl font-black mb-6 text-[#1F5EFF]">Phase 2: Strategic Exit</h4>
                                         <p className="opacity-80 leading-relaxed mb-6">We audit your accounts, find the bank's errors, and prepare a powerful settlement or restructuring proposal that is impossible for the bank to ignore.</p>
-                                        <h4 className="font-bold text-white mb-2">Benefit:</h4>
+                                        <h5 className="font-bold text-white mb-2">Benefit:</h5>
                                         <p className="text-sm opacity-60">Significant reduction in total debt and preservation of your assets.</p>
                                     </div>
                                 </div>
@@ -512,7 +512,7 @@ export default function LoanDefaultEMIAsistancePage() {
                         </section>
 
                         <section id="foreclosure-survival-stories" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 text-center uppercase tracking-widest">Foreclosure Survival Stories</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 text-center uppercase tracking-widest">Foreclosure Survival Stories</h3>
                             <div className="grid md:grid-cols-2 gap-8 not-prose">
                                 {[
                                     {
@@ -538,7 +538,7 @@ export default function LoanDefaultEMIAsistancePage() {
                                                 {s.user.charAt(0)}
                                             </div>
                                             <div>
-                                                <h3 className="font-bold text-[#2E2E2E]">{s.user}</h3>
+                                                <h4 className="font-bold text-[#2E2E2E]">{s.user}</h4>
                                                 <p className="text-xs text-gray-400">{s.city}</p>
                                             </div>
                                             <div className="ml-auto text-yellow-400 text-sm">★★★★★</div>
@@ -553,7 +553,7 @@ export default function LoanDefaultEMIAsistancePage() {
                         </section>
 
                         <section id="faqs" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Frequently Asked Questions</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Frequently Asked Questions</h3>
                             <div className="space-y-4 not-prose">
                                 {[
                                     { q: "Can I stop an auction that is happening tomorrow?", a: "Yes, in rare cases of severe procedural error by the bank, a 'Urgent Hearing' in the DRT can secure a stay even on the day of the auction. Immediate legal intervention is mandatory." },
@@ -591,7 +591,7 @@ export default function LoanDefaultEMIAsistancePage() {
                         {/* Mobile CTA */}
                         <div className="lg:hidden mt-16 mb-8">
                             <div className="bg-[#1F5EFF] rounded-2xl shadow-xl overflow-hidden p-8 text-center text-white">
-                                <h3 className="text-2xl font-black mb-4">Immediate Default Relief</h3>
+                                <h4 className="text-2xl font-black mb-4">Immediate Default Relief</h4>
                                 <p className="opacity-90 mb-8 text-sm font-bold">Stop the pressure. Start the solution. Get your free legal audit today.</p>
                                 <Link href="/contact" className="inline-block w-full bg-white text-[#1F5EFF] font-black py-4 px-6 rounded-xl hover:scale-105 transition-all shadow-lg text-lg">
                                     Free Case Analysis

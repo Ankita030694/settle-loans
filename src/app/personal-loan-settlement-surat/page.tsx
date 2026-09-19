@@ -525,9 +525,9 @@ export default function PersonalLoanSettlementSuratPage() {
 
             {/* Section 2: Statutory & Regulatory Framework */}
             <section id="statutory-regulatory-framework-rbi-surat-courts" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                 2. Statutory Framework: RBI IRACP Master Directions, SARFAESI Limits &amp; Surat Judicial Jurisdictions
-              </h2>
+              </h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 A successful loan settlement in Surat is founded upon a deep understanding of Indian banking jurisprudence, Reserve Bank of India regulatory directives, and the specific jurisdiction of local courts across Surat district. Commercial lenders frequently attempt to intimidate distressed borrowers by threatening immediate asset seizure, police complaints, or factory lockouts. However, Indian law provides well-defined statutory firewalls that protect honest borrowers facing bona fide economic hardship.
               </p>
@@ -587,9 +587,9 @@ export default function PersonalLoanSettlementSuratPage() {
 
             {/* Section 3: Danger of Default & Legal Escalation */}
             <section id="danger-of-default-escalations-surat" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                 3. Escalation Risks: Cheque Bounce (NI Act 138), NACH Rejections, Banker Liens &amp; Recovery Pressures
-              </h2>
+              </h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 When a borrower in Surat defaults on an unsecured loan without professional legal representation, lenders deploy a multi-pronged escalation strategy designed to induce panic. Commercial banks and private NBFCs maintain aggressive debt recovery desks that leverage both statutory criminal notices and aggressive field recovery agents to force immediate repayments.
               </p>
@@ -633,9 +633,9 @@ export default function PersonalLoanSettlementSuratPage() {
 
             {/* Section 4: Bank Accounting, NPA Provisioning & NPV Recovery Formula */}
             <section id="bank-accounting-npa-provisioning-npv-formula" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                 4. Bank Balance Sheet Accounting, NPA Provisioning &amp; The Net Present Value (NPV) Equation
-              </h2>
+              </h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Securing a favorable 45% to 65% One-Time Settlement requires understanding the financial incentives that govern bank credit committees. Major commercial banks—including State Bank of India, Bank of Baroda, HDFC Bank, ICICI Bank, Axis Bank, Kotak Mahindra Bank, and leading NBFCs—operate under strict institutional balance sheet rules prescribed by the Reserve Bank of India.
               </p>
@@ -707,9 +707,9 @@ export default function PersonalLoanSettlementSuratPage() {
 
             {/* Section 5: Infographic Banner */}
             <section id="surat-loan-settlement-visual-roadmap" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                 5. Surat Loan Settlement Visual Roadmap
-              </h2>
+              </h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 The visual roadmap below details the structured 5-stage institutional progression for loan settlement in Surat: from initial default assessment in textile and diamond trade sectors to formal legal notice defense, zonal stressed asset negotiations, OTS sanction letter verification, and final RBI No Dues Certificate issuance with credit bureau restoration.
               </p>
@@ -744,9 +744,9 @@ export default function PersonalLoanSettlementSuratPage() {
 
             {/* Section 6: Advocate-Led Negotiation Strategy */}
             <section id="advocate-led-negotiation-strategy-surat" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                 6. Advocate-Led Defense &amp; Negotiating 45%–65% OTS Waivers: The Surat Strategic Protocol
-              </h2>
+              </h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Attempting to negotiate a loan settlement individually often results in frustration. Local branch managers in Surat lack the discretionary authority to write off significant loan principal, while outsourced collection agencies operate on recovery commissions and intentionally prolong pressure tactics.
               </p>
@@ -756,25 +756,25 @@ export default function PersonalLoanSettlementSuratPage() {
 
               <div className="space-y-3 my-4">
                 <div className="p-4 rounded-xl border-l-4 border-blue-600 bg-slate-50 space-y-1">
-                  <h3 className="font-bold text-slate-900 text-xs sm:text-sm">Phase 1: Legal Representation &amp; Anti-Harassment Notice</h3>
+                  <h4 className="font-bold text-slate-900 text-xs sm:text-sm">Phase 1: Legal Representation &amp; Anti-Harassment Notice</h4>
                   <p className="text-xs text-slate-600 leading-relaxed">
                     Advocates issue a formal Notice of Appearance and Cease-and-Desist representation to the bank&apos;s Regional Stressed Asset desk and recovery wing. Citing the <strong>RBI Fair Practices Code</strong>, this notice prohibits unauthorized agent visits to commercial markets (Ring Road, Mahidharpura) or residential homes, transferring all communications exclusively to legal counsel.
                   </p>
                 </div>
                 <div className="p-4 rounded-xl border-l-4 border-indigo-600 bg-slate-50 space-y-1">
-                  <h4 className="font-bold text-slate-900 text-xs sm:text-sm">Phase 2: Forensic Ledger Audit &amp; Penal Charge Dissection</h4>
+                  <h5 className="font-bold text-slate-900 text-xs sm:text-sm">Phase 2: Forensic Ledger Audit &amp; Penal Charge Dissection</h5>
                   <p className="text-xs text-slate-600 leading-relaxed">
                     Our legal and financial team conducts a forensic audit of the loan ledger from disbursal date. We extract the true net principal, strip out compounding penal interest, annual maintenance fees, late renewal debits, and uncharged memo interest, establishing an objective baseline for compromise negotiations.
                   </p>
                 </div>
                 <div className="p-4 rounded-xl border-l-4 border-purple-600 bg-slate-50 space-y-1">
-                  <h4 className="font-bold text-slate-900 text-xs sm:text-sm">Phase 3: Hardship Dossier Submission to Stressed Asset Desks</h4>
+                  <h5 className="font-bold text-slate-900 text-xs sm:text-sm">Phase 3: Hardship Dossier Submission to Stressed Asset Desks</h5>
                   <p className="text-xs text-slate-600 leading-relaxed">
                     We bypass branch staff to submit an unassailable financial hardship dossier to the bank&apos;s <strong>Stressed Assets Resolution Branch (SARB)</strong> in Ahmedabad or Surat. The dossier includes audited balance sheets showing business turnover declines, GST return contraction, buyer default notices, or medical proofs demonstrating genuine inability to repay in full.
                   </p>
                 </div>
                 <div className="p-4 rounded-xl border-l-4 border-amber-600 bg-slate-50 space-y-1">
-                  <h4 className="font-bold text-slate-900 text-xs sm:text-sm">Phase 4: Lok Adalat Conciliation &amp; Structured Compromise</h4>
+                  <h5 className="font-bold text-slate-900 text-xs sm:text-sm">Phase 4: Lok Adalat Conciliation &amp; Structured Compromise</h5>
                   <p className="text-xs text-slate-600 leading-relaxed">
                     Advocates structure an aggressive OTS settlement proposing 35% to 55% of verified principal, payable as a lump sum or in 2 to 4 monthly installments. When appropriate, we refer the matter to the <strong>National Lok Adalat</strong> at Surat District Court (Athwalines), securing a formal decree that completely shields the borrower from future claims.
                   </p>
@@ -788,9 +788,9 @@ export default function PersonalLoanSettlementSuratPage() {
 
             {/* Section 7: Sanction Letter Forensics */}
             <section id="sanction-letter-forensics-legal-finality" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                 7. Forensic Checklist for Watertight Bank Sanction Letters: Safeguarding Complete Legal Finality
-              </h2>
+              </h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 A critical phase in the loan settlement process is the forensic verification of the One-Time Settlement (OTS) Sanction Letter. Unscrupulous recovery agents frequently issue fake &quot;settlement discount emails&quot; or forged approval letters on WhatsApp to collect partial funds. Paying money against an unauthorized document leaves the loan active, compounding penal interest, and vulnerable to future litigation.
               </p>
@@ -850,9 +850,9 @@ export default function PersonalLoanSettlementSuratPage() {
 
             {/* Section 8: Remittance, RBI NDC Mandate & CIBIL Recovery */}
             <section id="remittance-rbi-ndc-mandate-cibil-recovery" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                 8. Remittance Protocols, RBI ₹0 No Dues Certificate Mandate &amp; CIBIL Restoration
-              </h2>
+              </h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Remitting the agreed compromise amount represents a decisive milestone, but debt resolution is complete only when the lender legally closes the account and credit bureau records reflect zero outstanding liability.
               </p>
@@ -870,9 +870,9 @@ export default function PersonalLoanSettlementSuratPage() {
                 </p>
               </div>
 
-              <h3 className="text-base sm:text-lg font-bold text-slate-900 pt-2">
+              <h4 className="text-base sm:text-lg font-bold text-slate-900 pt-2">
                 Understanding Credit Bureau Reporting &amp; Score Rehabilitation
-              </h3>
+              </h4>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Understanding how a settlement is reflected across credit bureaus is crucial for long-term commercial and personal financial planning:
               </p>
@@ -898,9 +898,9 @@ export default function PersonalLoanSettlementSuratPage() {
 
             {/* Section 9: Comparative Strategy Matrix */}
             <section id="surat-debt-resolution-comparative-matrix" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                 9. Comparative Strategy Matrix: OTS vs Restructuring vs Lok Adalat vs Civil Litigation
-              </h2>
+              </h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Evaluating the primary institutional pathways available to resolve delinquent unsecured personal and business loans in Surat enables borrowers and MSME owners to choose the most prudent strategy:
               </p>
@@ -953,9 +953,9 @@ export default function PersonalLoanSettlementSuratPage() {
             {/* Section 10: SettleLoans Legal Defense & Advisory + CompanySection */}
             <section id="company-resolution-section" className="space-y-6">
               <div className="border-t border-slate-200 pt-8 space-y-4">
-                <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
+                <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                   10. SettleLoans Legal Defense &amp; Surat Debt Advisory
-                </h2>
+                </h3>
                 <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                   Resolving delinquent personal loans, business credit facilities, and overdrafts in Surat demands seasoned legal advocates who understand commercial banking operations, RBI prudential norms, and local trade dynamics. SettleLoans represents textile merchants, diamond traders, MSME business owners, and salaried professionals across Surat: issuing formal representation notices, halting unlawful recovery agent harassment, defending against Section 138 NI Act notices in Surat courts, conducting forensic ledger audits, and negotiating directly with bank zonal authorities to secure the deepest lawful principal haircuts backed by official, bank-stamped No Dues Certificates.
                 </p>
@@ -969,9 +969,9 @@ export default function PersonalLoanSettlementSuratPage() {
             <section id="faqs" className="space-y-4 border-t border-slate-200 pt-8">
               <div className="flex items-center gap-2 mb-2">
                 <HelpCircle className="w-5 h-5 text-[#1F5EFF]" />
-                <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
+                <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                   11. Frequently Asked Questions: Loan Settlement Services in Surat
-                </h2>
+                </h3>
               </div>
               <p className="text-xs sm:text-sm text-slate-600 mb-6">
                 Direct, legally verified answers to essential questions regarding personal loan settlement, business credit compromise, and borrower protections in Surat, Gujarat.
@@ -1001,9 +1001,9 @@ export default function PersonalLoanSettlementSuratPage() {
 
             {/* 5 Official Regulatory Links */}
             <section className="border-t border-slate-200 pt-8 mb-4">
-              <h3 className="text-xs sm:text-sm font-bold text-slate-900 mb-3 uppercase tracking-wider">
+              <h4 className="text-xs sm:text-sm font-bold text-slate-900 mb-3 uppercase tracking-wider">
                 Official Statutory &amp; Regulatory References
-              </h3>
+              </h4>
               <div className="grid grid-cols-1 sm:grid-cols-2 gap-2.5 text-xs">
                 <a
                   href="https://www.rbi.org.in"
@@ -1055,9 +1055,9 @@ export default function PersonalLoanSettlementSuratPage() {
 
             {/* 10 Related Guide Badges */}
             <section className="border-t border-slate-200 pt-8 mb-8">
-              <h3 className="text-xs sm:text-sm font-bold text-slate-900 mb-4 uppercase tracking-wider">
+              <h4 className="text-xs sm:text-sm font-bold text-slate-900 mb-4 uppercase tracking-wider">
                 Related Working Capital &amp; Debt Resolution Guides
-              </h3>
+              </h4>
               <div className="flex flex-wrap gap-2">
                 <Link
                   href="/bank-one-time-settlement-ots-policy"

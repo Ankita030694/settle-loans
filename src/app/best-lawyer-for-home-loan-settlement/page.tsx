@@ -184,17 +184,17 @@ export default function HomeLoanLawyerPage() {
                         </section>
 
                         <section id="sarfaesi-defense" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">Challenging the SARFAESI Act Notices</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">Challenging the SARFAESI Act Notices</h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 The SARFAESI process starts with a Section 13(2) notice. Most borrowers ignore it, but a lawyer treats it as an opportunity. Within 60 days, you have the right to file an "Objection and Representation." If the bank does not reply to this within 15 days, their next action becomes legally vulnerable.
                             </p>
                             <div className="grid md:grid-cols-2 gap-8 mb-10">
                                 <div className="p-8 bg-white border border-[#DEDEDE] rounded-3xl shadow-sm">
-                                    <h3 className="font-black text-[#1F5EFF] mb-4 uppercase tracking-tighter">Section 13(2) Review</h3>
+                                    <h4 className="font-black text-[#1F5EFF] mb-4 uppercase tracking-tighter">Section 13(2) Review</h4>
                                     <p className="text-sm">We audit the notice for interest calculation errors or improper NPA classification. Banks often aggregate multiple accounts incorrectly to hit the recovery threshold.</p>
                                 </div>
                                 <div className="p-8 bg-white border border-[#DEDEDE] rounded-3xl shadow-sm">
-                                    <h4 className="font-black text-[#1F5EFF] mb-4 uppercase tracking-tighter">Section 13(4) Defense</h4>
+                                    <h5 className="font-black text-[#1F5EFF] mb-4 uppercase tracking-tighter">Section 13(4) Defense</h5>
                                     <p className="text-sm">This is the symbolic possession notice. We help you file a Securitization Application (SA) in the DRT within 45 days of this notice to challenge the bank's aggression.</p>
                                 </div>
                             </div>
@@ -202,7 +202,7 @@ export default function HomeLoanLawyerPage() {
 
                         <section id="drt-process" className="scroll-mt-32 mb-16 bg-[#2E2E2E] text-white p-12 rounded-[40px] relative overflow-hidden">
                             <div className="absolute top-0 right-0 w-64 h-64 bg-[#1F5EFF]/10 rounded-full -translate-y-32 translate-x-32"></div>
-                            <h2 className="text-3xl md:text-4xl font-black mb-8 leading-tight relative z-10">DRT Litigation: The Level Playing Field</h2>
+                            <h3 className="text-3xl md:text-4xl font-black mb-8 leading-tight relative z-10">DRT Litigation: The Level Playing Field</h3>
                             <p className="text-lg opacity-80 mb-8 relative z-10">
                                 The Debt Recovery Tribunal (DRT) is where the "Fast-Track" recovery power of the bank meets the "Due Process" rights of the borrower. For home loans above Rs. 20 Lakhs, the DRT is your primary battlefield.
                             </p>
@@ -223,27 +223,27 @@ export default function HomeLoanLawyerPage() {
                         </section>
 
                         <section id="illegal-possession" className="scroll-mt-32 mb-16 mt-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight underline decoration-[#1F5EFF] underline-offset-[12px]">Section 14: Challenging the Magistrate's Order</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight underline decoration-[#1F5EFF] underline-offset-[12px]">Section 14: Challenging the Magistrate's Order</h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 Under Section 14 of the SARFAESI Act, banks approach the District Magistrate (DM) or Chief Metropolitan Magistrate (CMM) for physical possession. While this role is administrative (ministerial), it is not immune to challenge. Recent legal precedents in 2024-25 emphasize that the Magistrate must verify the 'Credibility' of the bank's affidavit.
                             </p>
                             <div className="bg-orange-50 p-8 rounded-3xl border border-orange-100 mb-8">
-                                <h3 className="text-xl font-black text-orange-900 mb-4">The "Affidavit Shield"</h3>
+                                <h4 className="text-xl font-black text-orange-900 mb-4">The "Affidavit Shield"</h4>
                                 <p className="text-orange-800 leading-relaxed font-medium italic">
                                     Did the bank disclose your previous litigation in the DRT to the Magistrate? If the bank suppresses information in their Section 14 affidavit, it is a legal fraud. We challenge these orders by proving 'Material Concealment,' which can stay the physical possession for months, forcing a settlement.
                                 </p>
                             </div>
                             <div className="p-8 bg-blue-50 rounded-3xl border border-blue-100 mb-8">
-                                <h4 className="text-xl font-black text-blue-900 mb-4">The "Lock-Break" Illegalities</h4>
+                                <h5 className="text-xl font-black text-blue-900 mb-4">The "Lock-Break" Illegalities</h5>
                                 <p className="text-blue-800 leading-relaxed font-medium">If a bank breaks the lock of your home without the presence of the DM's appointed receiver or in violation of the notice period, it constitutes a criminal trespass. We use these procedural crimes as massive leverage for a deep-haircut settlement.</p>
                             </div>
                         </section>
 
                         <section id="msme-shield" className="scroll-mt-32 mb-16 p-10 bg-[#1F5EFF]/5 rounded-[40px] border-2 border-[#1F5EFF]/20">
-                            <h2 className="text-2xl md:text-3xl font-black text-[#2E2E2E] mb-6 flex items-center gap-3">
+                            <h3 className="text-2xl md:text-3xl font-black text-[#2E2E2E] mb-6 flex items-center gap-3">
                                 <span className="bg-[#1F5EFF] text-white px-3 py-1 rounded text-sm uppercase">Strategic</span>
                                 The MSME Shield for Residential Assets
-                            </h2>
+                            </h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 Many homeowners are also business owners (MSMEs). If your home loan is linked to your business or you have an MSME registration, the bank **must** follow the 'Framework for Revival and Rehabilitation of MSMEs' before invoking SARFAESI.
                             </p>
@@ -264,7 +264,7 @@ export default function HomeLoanLawyerPage() {
                         </section>
 
                         <section id="auction-stopping" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight text-center">Stopping the Bank Auction</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight text-center">Stopping the Bank Auction</h3>
                             <p className="text-lg leading-relaxed mb-10 text-center">An auction notice in the newspaper is not the end. It is often the peak time to force a settlement.</p>
                             <div className="grid md:grid-cols-2 gap-12 items-center">
                                 <div className="space-y-6">
@@ -290,13 +290,13 @@ export default function HomeLoanLawyerPage() {
                         </section>
 
                         <section id="ots-secured" className="scroll-mt-32 mb-16 mt-16 text-center">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">One Time Settlement (OTS) for Secured Loans</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">One Time Settlement (OTS) for Secured Loans</h3>
                             <p className="text-lg leading-relaxed mb-10 max-w-2xl mx-auto">
                                 In home loans, banks are board-bound to recover the principal. However, a lawyer can negotiate a waiver on 100% of the interest and penalties, and sometimes a 10-20% haircut on the principal if the property faces legal hurdles.
                             </p>
                             <div className="bg-[#1F5EFF] p-12 rounded-[50px] shadow-2xl relative overflow-hidden group">
                                 <div className="absolute top-0 left-0 w-full h-full bg-black/5 opacity-0 group-hover:opacity-100 transition-opacity"></div>
-                                <h3 className="text-2xl font-black text-white mb-6 uppercase tracking-widest">The "Lump-Sum" Advantage</h3>
+                                <h4 className="text-2xl font-black text-white mb-6 uppercase tracking-widest">The "Lump-Sum" Advantage</h4>
                                 <p className="text-white/80 leading-relaxed mb-8 font-bold italic">
                                     "When you offer a settlement amount that is higher than the bank's 'Distress Sale Value,' the bank manager's incentive switches from recovery to immediate provisioning relief."
                                 </p>
@@ -307,30 +307,30 @@ export default function HomeLoanLawyerPage() {
                         </section>
 
                         <section id="lawyer-role" className="scroll-mt-32 mb-16 mt-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">Why You Need a Specialist Banking Lawyer</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">Why You Need a Specialist Banking Lawyer</h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 General lawyers often don't understand the nuances of the 'Pari-passu' charge or the 'Consortium' banking dynamics. A specialist banking lawyer understands the bank's internal 'Delegated Power' (DP) matrix—who has the power to sign your settlement letter.
                             </p>
                             <div className="bg-[#2E2E2E] p-8 rounded-3xl text-white mb-8 border-l-8 border-[#1F5EFF]">
-                                <h3 className="text-xl font-black mb-4 uppercase tracking-tighter">The "NPA Forensics" Shield</h3>
+                                <h4 className="text-xl font-black mb-4 uppercase tracking-tighter">The "NPA Forensics" Shield</h4>
                                 <p className="opacity-80 leading-relaxed italic">
                                     "Did you know that if you paid even a partial amount that should have kept the account 'Standard' as per the 90-day rule, but the bank still declared it NPA? That is an illegal NPA. We specialize in forensic auditing of your loan statement to find these 24-hour discrepancies that can collapse the bank's entire SARFAESI case."
                                 </p>
                             </div>
                             <div className="grid md:grid-cols-2 gap-8">
                                 <div className="p-8 bg-white border border-[#DEDEDE] rounded-3xl shadow-sm hover:border-[#1F5EFF] transition-colors">
-                                    <h4 className="font-black text-[#2E2E2E] mb-3 uppercase text-sm tracking-widest">Policy Knowledge</h4>
+                                    <h5 className="font-black text-[#2E2E2E] mb-3 uppercase text-sm tracking-widest">Policy Knowledge</h5>
                                     <p className="text-xs opacity-70">We know the board-approved OTS limits of SBI, HDFC, ICICI, and NBFCs like Bajaj. We don't guess; we leverage.</p>
                                 </div>
                                 <div className="p-8 bg-white border border-[#DEDEDE] rounded-3xl shadow-sm hover:border-[#1F5EFF] transition-colors">
-                                    <h5 className="font-black text-[#2E2E2E] mb-3 uppercase text-sm tracking-widest">DRT Prowess</h5>
+                                    <h6 className="font-black text-[#2E2E2E] mb-3 uppercase text-sm tracking-widest">DRT Prowess</h6>
                                     <p className="text-xs opacity-70">Successfully challenging a Section 13(2) notice in DRT requires precision in calculating the 'Date of NPA' as per RBI Master Circulars.</p>
                                 </div>
                             </div>
                         </section>
 
                         <section id="valuation-disputes" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">The Math of Property Valuation</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">The Math of Property Valuation</h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 Banks use approved valuers to set the "Fair Market Value" and "Distress Value." Often, these valuers are pressured by the bank to set lower prices for a quicker sale. Our legal team cross-verifies these valuations. If the bank auctions your house at a price significantly lower than the market rate, we can get the entire sale set aside in the DRT.
                             </p>
@@ -342,7 +342,7 @@ export default function HomeLoanLawyerPage() {
                         </section>
 
                         <section id="success-stories" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 text-center uppercase tracking-tighter decoration-[#1F5EFF] underline decoration-4">Real Home Loan Wins</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 text-center uppercase tracking-tighter decoration-[#1F5EFF] underline decoration-4">Real Home Loan Wins</h3>
                             <div className="grid md:grid-cols-2 gap-6 not-prose">
                                 {[
                                     {
@@ -365,7 +365,7 @@ export default function HomeLoanLawyerPage() {
                                             <div className="w-10 h-10 rounded-full bg-blue-100 flex items-center justify-center font-bold text-blue-600 mr-3">
                                                 {review.name.charAt(0)}
                                             </div>
-                                            <h3 className="font-bold text-[#2E2E2E]">{review.name}</h3>
+                                            <h4 className="font-bold text-[#2E2E2E]">{review.name}</h4>
                                             <div className="ml-auto text-yellow-400 text-sm">★★★★★</div>
                                         </div>
                                         <div className="mb-4 flex gap-4 text-[10px] font-mono">
@@ -379,7 +379,7 @@ export default function HomeLoanLawyerPage() {
                         </section>
 
                         <section id="faqs" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-12 text-center">Home Loan Legal FAQ's</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-12 text-center">Home Loan Legal FAQ's</h3>
                             <div className="space-y-6">
                                 {[
                                     { q: "Can the bank take my home without going to court?", a: "Yes, under the SARFAESI Act, banks can take possession without court intervention if they follow the mandatory notice procedures. However, you can challenge this in the DRT." },
@@ -399,7 +399,7 @@ export default function HomeLoanLawyerPage() {
                                     { q: "Can my property be sold for 50% of its market value?", a: "No. Law requires a fair valuation. If a bank tries to sell at a 'Distress' price without justifying it, we can get the sale set aside in tribunal for 'Serious Undervaluation'." }
                                 ].map((faq, i) => (
                                     <div key={i} className="p-8 bg-white border border-[#DEDEDE] rounded-3xl shadow-sm transition-all hover:shadow-lg">
-                                        <h3 className="font-black text-[#2E2E2E] mb-4 text-xl border-b pb-2 border-[#1F5EFF]/10">{faq.q}</h3>
+                                        <h4 className="font-black text-[#2E2E2E] mb-4 text-xl border-b pb-2 border-[#1F5EFF]/10">{faq.q}</h4>
                                         <p className="text-gray-600 leading-relaxed text-lg italic">"{faq.a}"</p>
                                     </div>
                                 ))}
@@ -407,7 +407,7 @@ export default function HomeLoanLawyerPage() {
                         </section>
 
                         <section className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">Secure Your Home's Future Today</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">Secure Your Home's Future Today</h3>
                             <p className="text-lg leading-relaxed mb-6 italic font-bold">The bank has an army of legal experts. Do you? Let's equalize the battlefield and protect your most valuable asset.</p>
                             <div className="bg-[#1F5EFF] p-10 rounded-[40px] text-center text-white shadow-2xl">
                                 <p className="text-2xl font-black mb-8 tracking-tight">Every day you wait is a day closer to the DM's possession order. Act now.</p>

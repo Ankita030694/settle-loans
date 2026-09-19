@@ -154,7 +154,7 @@ const jsonLdGraph = {
       "@type": "FinancialService",
       "@id": "https://www.settleloans.in/bank-of-baroda-personal-loan-settlement#service",
       "name": "SettleLoans - Bank of Baroda Personal Loan Settlement & Legal Defense",
-      "description": "Specialized legal and financial negotiation advisory for settling defaulted Bank of Baroda personal loans and retail credit lines under RBI compromise frameworks and PSU banking guidelines.",
+      "description": "Specialized legal and financial talks advisory for settling defaulted Bank of Baroda personal loans and retail credit lines under RBI compromise frameworks and PSU banking guidelines.",
       "url": "https://www.settleloans.in/bank-of-baroda-personal-loan-settlement",
       "image": "https://www.settleloans.in/images/infographics/bank-of-baroda-personal-loan-settlement.jpg",
       "telephone": "+91-99999-99999",
@@ -284,7 +284,7 @@ const jsonLdGraph = {
           "name": "Can a defaulted Bank of Baroda personal loan be settled through the National Lok Adalat?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Yes. Bank of Baroda actively participates in the quarterly National Lok Adalat organized across India by the National Legal Services Authority (NALSA) and State Legal Services Authorities (SLSA). Bank of Baroda empowers its attending officers with pre-approved settlement mandates and special OTS discount bands (often 45% to 60% concessions). A settlement award passed in Lok Adalat carries the statutory force of a non-appealable Civil Court Decree under Section 21 of the Legal Services Authorities Act, 1987, ensuring permanent extinguishment of claims and immediate disposal of pending Section 25 PSSA or Section 138 NI Act proceedings."
+            "text": "Yes. Bank of Baroda actively participates in the quarterly National Lok Adalat organized across India by the National Legal Services Authority (NALSA) and State Legal Services Authorities (SLSA). Bank of Baroda empowers its attending officers with pre-approved settlement mandates and special OTS discount bands (often 45% to 60% concessions). A settlement award passed in Lok Adalat carries the statutory force of a non-appealable Civil Court Decree under Section 21 of the Legal Services Authorities Act, 1987, ensuring permanent extinguishment of claims and immediate disposal of pending Section 25 PSSA or Section 138 NI Act cases."
           }
         },
         {
@@ -300,7 +300,7 @@ const jsonLdGraph = {
           "name": "Why is Bank of Baroda's OTS process more formal than private banks?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "As a Public Sector Undertaking (PSU) bank, Bank of Baroda operates under the oversight of statutory bodies including the Central Vigilance Commission (CVC), the Comptroller and Auditor General (CAG) guidelines, and the Prevention of Corruption Act (POCA). Consequently, bank officials cannot offer undocumented or ad-hoc concessions. Every rupee of principal sacrifice must be justified through an ironclad paper trail establishing that the borrower has no attachable unencumbered assets and that immediate OTS recovery yields a higher Net Present Value (NPV) than prolonged civil litigation."
+            "text": "As a Public Sector Undertaking (PSU) bank, Bank of Baroda operates under the oversight of statutory bodies including the Central Vigilance Commission (CVC), the Comptroller and Auditor General (CAG) guidelines, and the Prevention of Corruption Act (POCA). so, bank officials cannot offer undocumented or ad-hoc concessions. Every rupee of principal sacrifice must be justified through an ironclad paper trail establishing that the borrower has no attachable unencumbered assets and that immediate OTS recovery yields a higher Net Present Value (NPV) than prolonged civil litigation."
           }
         },
         {
@@ -324,7 +324,7 @@ const jsonLdGraph = {
           "name": "What is the statutory timeline for Bank of Baroda to issue the No Dues Certificate (NDC)?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Under RBI Circular RBI/2023-24/60, Bank of Baroda is legally mandated to issue a formal No Dues Certificate (NDC) / Loan Closure Certificate and update credit bureau records within 30 calendar days of receiving the final settlement tranche. If the bank fails to issue the NDC within 30 days without lawful cause, it is statutorily obligated to pay compensation of ₹5,000 for each day of delay directly to the borrower."
+            "text": "Under RBI Circular RBI/2023-24/60, Bank of Baroda is legally mandated to issue a formal No Dues Certificate (NDC) / Loan Closure Certificate and update credit bureau records within 30 calendar days of receiving the final settlement tranche. If the bank fails to issue the NDC within 30 days without lawful cause, it is statutorily obligated to pay relief of ₹5,000 for each day of delay directly to the borrower."
           }
         }
       ]
@@ -546,10 +546,10 @@ export default function BankOfBarodaPersonalLoanSettlementPage() {
                 Navigating Debt Default in India&apos;s Second-Largest Public Sector Bank
               </h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-sm sm:text-base">
-                Bank of Baroda stands as India&apos;s second-largest public sector undertaking bank following its historic tripartite amalgamation with Dena Bank and Vijaya Bank. Bank of Baroda manages an extensive retail lending footprint across India. This encompasses Baroda Salary Classic accounts, schemes for defense personnel and government staff, and digital pre-approved loans via bob World. Consequently, the institution manages a massive unsecured retail loan book. However, resolving an unsecured loan default with Bank of Baroda represents a vastly different operational and legal challenge compared to dealing with aggressive private fintech lenders or non-banking financial companies (NBFCs).
+                Bank of Baroda stands as India&apos;s second-largest public sector undertaking bank following its historic tripartite amalgamation with Dena Bank and Vijaya Bank. Bank of Baroda manages an extensive retail lending footprint across India. This encompasses Baroda Salary Classic accounts, schemes for defense personnel and government staff, and digital pre-approved loans via bob World. so, the institution manages a massive unsecured retail loan book. However, resolving an unsecured loan default with Bank of Baroda represents a vastly different operational and legal challenge compared to dealing with aggressive private fintech lenders or non-banking financial companies (NBFCs).
               </p>
               <p className="text-slate-700 leading-relaxed mb-4 text-sm sm:text-base">
-                As a state-owned financial institution governed by the Banking Companies (Acquisition and Transfer of Undertakings) Act, 1970, Bank of Baroda functions under intense statutory scrutiny. Every officer within the bank is subject to governance oversight by the Central Vigilance Commission (CVC), the Comptroller and Auditor General (CAG) of India, and the Prevention of Corruption Act, 1988 (POCA). Consequently, Bank of Baroda officials cannot grant ad-hoc, informal, or discretionary debt waivers. Private lenders often empower tele-calling agencies to offer quick settlement concessions over phone calls. In contrast, public sector bankers face severe disciplinary action if a settlement lacks an irrefutable audit trail. The proposal must clearly prove genuine borrower insolvency.
+                As a state-owned financial institution governed by the Banking Companies (Acquisition and Transfer of Undertakings) Act, 1970, Bank of Baroda functions under intense statutory scrutiny. Every officer within the bank is subject to governance oversight by the Central Vigilance Commission (CVC), the Comptroller and Auditor General (CAG) of India, and the Prevention of Corruption Act, 1988 (POCA). so, Bank of Baroda officials cannot grant ad-hoc, informal, or discretionary debt waivers. Private lenders often empower tele-calling agencies to offer quick settlement concessions over phone calls. In contrast, public sector bankers face severe disciplinary action if a settlement lacks an irrefutable audit trail. The proposal must clearly prove genuine borrower insolvency.
               </p>
               <p className="text-slate-700 leading-relaxed mb-4 text-sm sm:text-base">
                 To navigate this public sector governance framework successfully, distressed borrowers must understand the precise bureaucratic mechanics of Bank of Baroda&apos;s internal Compromise Settlement Policy. Concessions are never granted out of sympathy. They are sanctioned strictly because a well-documented legal and financial dossier proves to the bank&apos;s Credit Committee that immediate compromise recovery yields a superior economic outcome compared to decades of protracted, expensive civil court litigation.
@@ -562,9 +562,9 @@ export default function BankOfBarodaPersonalLoanSettlementPage() {
                 <TrendingUp className="w-4 h-4" />
                 <span>2. Delinquency Timeline &amp; SARB Escalation</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 The Non-Performing Asset (NPA) Lifecycle and Stressed Assets Division
-              </h2>
+              </h3>
               <p className="text-slate-700 leading-relaxed mb-4 text-sm sm:text-base">
                 When a borrower misses a monthly equated installment (EMI) on a Bank of Baroda personal loan, the account does not immediately become eligible for a One-Time Settlement. Bank of Baroda tracks loan delinquency through structured Special Mention Account (SMA) buckets mandated by the Reserve Bank of India&apos;s Prudential Framework for Resolution of Stressed Assets:
               </p>
@@ -576,7 +576,7 @@ export default function BankOfBarodaPersonalLoanSettlementPage() {
                     <span>SMA-0 Stage (1–30 DPD)</span>
                   </div>
                   <p className="text-xs text-slate-600 leading-relaxed">
-                    Account is in early default. Handled by automated SMS reminders, bob World app notifications, and internal branch tele-calling desks. Base branch encourages immediate payment.
+                    Account is in early default. Handled by automated SMS reminders, bob World app notices, and internal branch tele-calling desks. Base branch encourages immediate payment.
                   </p>
                 </div>
                 <div className="bg-slate-50 border border-slate-200 rounded-xl p-4 shadow-sm">
@@ -603,10 +603,10 @@ export default function BankOfBarodaPersonalLoanSettlementPage() {
                 The defining turning point in Bank of Baroda&apos;s recovery architecture occurs between Day 90 and Day 120 past due. At this juncture, the base branch where the loan originated forfeits administrative control over the loan file. The delinquent account is transferred to Bank of Baroda&apos;s specialized asset resolution verticals: the <strong>Stressed Assets Recovery Branch (SARB)</strong> or the <strong>Zonal Stressed Asset Management Branch (ZSAMB)</strong>.
               </p>
               <p className="text-slate-700 leading-relaxed mb-4 text-sm sm:text-base">
-                This institutional transfer is critically advantageous for distressed borrowers. Base branch managers in Bank of Baroda have almost zero discretionary authority to sacrifice loan principal; their operational mandates require them to pursue 100% recovery of ledger dues to protect branch audit ratings. Conversely, SARB officers are tasked solely with stressed asset resolution, NPA reduction, and capital recovery. They possess delegated financial powers to negotiate substantial principal concessions under the bank&apos;s board-approved compromise policies.
+                This institutional transfer is critically advantageous for distressed borrowers. Base branch managers in Bank of Baroda have almost zero discretionary authority to sacrifice loan principal; their operational mandates require them to pursue 100% recovery of ledger dues to protect branch audit ratings. Conversely, SARB officers are tasked solely with stressed asset resolution, NPA reduction, and capital recovery. They possess delegated financial powers to negotiate large principal concessions under the bank&apos;s board-approved compromise policies.
               </p>
               <p className="text-slate-700 leading-relaxed mb-4 text-sm sm:text-base">
-                Furthermore, as an NPA ages on Bank of Baroda&apos;s balance sheet, RBI provisioning guidelines mandate heavy capital write-offs. For a Substandard NPA (up to 12 months delinquent), the bank provisions 15% of the outstanding balance. Over time, an unsecured personal loan transitions into Doubtful Asset status (D1: 25%, D2: 40%, D3: 100%) or Loss Asset status (100% written off). By this stage, Bank of Baroda has already absorbed the economic loss on its profit and loss statement. In these advanced stages, recovering 40% to 50% of the loan principal in liquid cash represents an immediate profit recovery and provision reversal for the bank.
+                also, as an NPA ages on Bank of Baroda&apos;s balance sheet, RBI provisioning guidelines mandate heavy capital write-offs. For a Substandard NPA (up to 12 months delinquent), the bank provisions 15% of the outstanding balance. Over time, an unsecured personal loan transitions into Doubtful Asset status (D1: 25%, D2: 40%, D3: 100%) or Loss Asset status (100% written off). By this stage, Bank of Baroda has already absorbed the economic loss on its profit and loss statement. In these advanced stages, recovering 40% to 50% of the loan principal in liquid cash represents an immediate profit recovery and provision reversal for the bank.
               </p>
             </section>
 
@@ -616,14 +616,14 @@ export default function BankOfBarodaPersonalLoanSettlementPage() {
                 <Scale className="w-4 h-4" />
                 <span>3. Section 171 Banker&apos;s Lien &amp; Operational Account Shields</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 Banker&apos;s Right of General Lien, CIF Auto-Sweeps, and Jurisdictional Limits
-              </h2>
+              </h3>
               <p className="text-slate-700 leading-relaxed mb-4 text-sm sm:text-base">
                 One of the most immediate hazards confronting a defaulting Bank of Baroda personal loan borrower is the sudden freezing or debiting of their savings, salary, or deposit accounts. This action is carried out under the legal doctrine of the <strong>Banker&apos;s Right of General Lien and Set-Off</strong> codified in <strong>Section 171 of the Indian Contract Act, 1872</strong>.
               </p>
               <p className="text-slate-700 leading-relaxed mb-4 text-sm sm:text-base">
-                Under Section 171, in the absence of a contract to the contrary, a bank possesses a statutory general lien. It can hold all goods, securities, and monetary funds deposited by a customer against any general balance of account due from that customer. Bank of Baroda utilizes a unified Core Banking Solution (CBS) indexed by a singular Customer Identification File (CIF) and PAN. As a result, the bank&apos;s automated recovery algorithms can automatically sweep funds from any account held under that CIF:
+                Under Section 171, in the absence of a contract to the contrary, a bank possesses a statutory general lien. It can hold all goods, securities, and monetary funds deposited by a customer against any general balance of account due from that customer. Bank of Baroda uses a unified Core Banking Solution (CBS) indexed by a singular Customer Identification File (CIF) and PAN. As a result, the bank&apos;s automated recovery algorithms can automatically sweep funds from any account held under that CIF:
               </p>
 
               <div className="bg-amber-50/70 border border-amber-200 rounded-2xl p-5 my-6">
@@ -639,7 +639,7 @@ export default function BankOfBarodaPersonalLoanSettlementPage() {
               </div>
 
               <p className="text-slate-700 leading-relaxed mb-4 text-sm sm:text-base">
-                For borrowers in severe financial distress, safeguarding basic living expenses and family survival funds is the primary priority. Distressed borrowers must immediately transition their active salary credits and operational liquidity to an independent banking institution where no loan liabilities exist, preventing unauthorized automated sweeps while compromise negotiations are underway.
+                For borrowers in severe financial distress, safeguarding basic living expenses and family survival funds is the primary priority. Distressed borrowers must immediately transition their active salary credits and operational liquidity to an independent banking institution where no loan liabilities exist, preventing unauthorized automated sweeps while compromise talks are underway.
               </p>
             </section>
 
@@ -649,39 +649,39 @@ export default function BankOfBarodaPersonalLoanSettlementPage() {
                 <Gavel className="w-4 h-4" />
                 <span>4. Statutory Legal Notices &amp; Advocate-Led Defense</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 Defending Against Section 25 PSSA, Section 138 NI Act, and SARFAESI Misconceptions
-              </h2>
+              </h3>
               <p className="text-slate-700 leading-relaxed mb-4 text-sm sm:text-base">
                 As a personal loan default approaches 90 to 180 days, Bank of Baroda escalates recovery through its panel of empanelled advocates by issuing formal statutory legal notices. Borrowers must understand the precise legal nature of these notices to avoid panic and mount an effective legal defense:
               </p>
               
               <div className="space-y-4 my-6">
                 <div className="border border-slate-200 rounded-xl p-5 bg-white shadow-sm">
-                  <h3 className="font-bold text-slate-900 text-sm sm:text-base mb-2 flex items-center gap-2">
+                  <h4 className="font-bold text-slate-900 text-sm sm:text-base mb-2 flex items-center gap-2">
                     <FileText className="w-4 h-4 text-[#1F5EFF]" />
                     <span>Section 25 of the Payment and Settlement Systems Act, 2007 (PSSA)</span>
-                  </h3>
+                  </h4>
                   <p className="text-xs sm:text-sm text-slate-600 leading-relaxed">
                     When an automated National Automated Clearing House (NACH) mandate or electronic clearing service (ECS) mandate dishonours due to insufficient funds, Bank of Baroda serves a statutory demand notice under Section 25 PSSA. The statute grants the borrower a mandatory 15-day cure period from the date of receipt to discharge the dishonoured installment. If unaddressed, the bank can technically institute a quasi-criminal complaint before a Metropolitan Magistrate or Judicial Magistrate First Class (JMFC). However, serving a well-reasoned advocate reply within 15 days documenting genuine insolvency and proposing an amicable OTS routinely stops magistrate court filings.
                   </p>
                 </div>
 
                 <div className="border border-slate-200 rounded-xl p-5 bg-white shadow-sm">
-                  <h3 className="font-bold text-slate-900 text-sm sm:text-base mb-2 flex items-center gap-2">
+                  <h4 className="font-bold text-slate-900 text-sm sm:text-base mb-2 flex items-center gap-2">
                     <FileText className="w-4 h-4 text-indigo-600" />
                     <span>Section 138 of the Negotiable Instruments Act, 1881 (NI Act)</span>
-                  </h3>
+                  </h4>
                   <p className="text-xs sm:text-sm text-slate-600 leading-relaxed">
-                    If the borrower provided post-dated cheques (PDCs) or security cheques at the time of loan sanction and those cheques bounce upon presentation, BOB issues a demand notice under Section 138. Like Section 25 PSSA, a statutory 15-day window is provided. An advocate-drafted reply can contest incorrect penal calculations and establish the lack of criminal intent (mens rea). It also requests compromise settlement under Section 147 of the NI Act, which makes cheque bounce offenses compoundable at any stage. This successfully converts adversarial litigation into constructive compromise negotiations.
+                    If the borrower provided post-dated cheques (PDCs) or security cheques at the time of loan sanction and those cheques bounce upon presentation, BOB issues a demand notice under Section 138. Like Section 25 PSSA, a statutory 15-day window is provided. An advocate-drafted reply can contest incorrect penal calculations and establish the lack of criminal intent (mens rea). It also requests compromise settlement under Section 147 of the NI Act, which makes cheque bounce offenses compoundable at any stage. This successfully converts adversarial litigation into constructive compromise talks.
                   </p>
                 </div>
 
                 <div className="border border-slate-200 rounded-xl p-5 bg-white shadow-sm">
-                  <h3 className="font-bold text-slate-900 text-sm sm:text-base mb-2 flex items-center gap-2">
+                  <h4 className="font-bold text-slate-900 text-sm sm:text-base mb-2 flex items-center gap-2">
                     <ShieldX className="w-4 h-4 text-rose-600" />
                     <span>Debunking SARFAESI Act Threats on Unsecured Personal Loans</span>
-                  </h3>
+                  </h4>
                   <p className="text-xs sm:text-sm text-slate-600 leading-relaxed">
                     Third-party recovery agents frequently issue unlawful threats claiming that Bank of Baroda will issue a Section 13(2) notice under the SARFAESI Act, 2002 to attach the borrower&apos;s residential home or auction household furniture. This is legally impossible. The SARFAESI Act strictly applies only to <em>secured credit facilities</em> where an explicit registered or equitable mortgage over immovable property was created. Unsecured personal loans carry zero mortgage rights; Bank of Baroda cannot attach physical property without obtaining a full civil court money decree, a process requiring 3 to 7 years in Indian civil courts.
                   </p>
@@ -689,7 +689,7 @@ export default function BankOfBarodaPersonalLoanSettlementPage() {
               </div>
 
               <p className="text-slate-700 leading-relaxed mb-4 text-sm sm:text-base">
-                Borrowers must never ignore a statutory legal notice. Under Indian evidence law, failure to reply to a formal legal notice can lead to an adverse inference in judicial proceedings. A timely, robust advocate response serves as the official opening gambit that shifts the borrower&apos;s file from aggressive collection harassment into formal, high-level SARB compromise proceedings.
+                Borrowers must never ignore a statutory legal notice. Under Indian evidence law, failure to reply to a formal legal notice can lead to an adverse inference in judicial cases. A timely, robust advocate response serves as the official opening gambit that shifts the borrower&apos;s file from aggressive collection harassment into formal, high-level SARB compromise cases.
               </p>
             </section>
 
@@ -699,9 +699,9 @@ export default function BankOfBarodaPersonalLoanSettlementPage() {
                 <Layers className="w-4 h-4" />
                 <span>5. Visual Resolution Blueprint</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 Bank of Baroda Personal Loan Settlement Workflow &amp; Approval Flow
-              </h2>
+              </h3>
               
               <div className="my-6 rounded-2xl overflow-hidden border border-slate-200 shadow-md bg-slate-50">
                 <img
@@ -724,9 +724,9 @@ export default function BankOfBarodaPersonalLoanSettlementPage() {
                 <Calculator className="w-4 h-4" />
                 <span>6. BOB OTS Policy &amp; Net Present Value (NPV) Recovery Formula</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 Bank of Baroda Compromise Policy Guidelines &amp; Financial Formulas
-              </h2>
+              </h3>
               <p className="text-slate-700 leading-relaxed mb-4 text-sm sm:text-base">
                 Bank of Baroda governs debt settlements under its Board-approved Compromise Settlement Scheme for Stressed Retail Assets, formulated in strict compliance with the RBI Master Directions on Prudential Norms. The core guiding principle of the policy is the Non-Discretionary and Non-Discriminatory treatment of distressed borrowers, evaluated through a rigorous financial metric known as <strong>Net Present Value (NPV) Recovery Valuation</strong>.
               </p>
@@ -754,19 +754,19 @@ export default function BankOfBarodaPersonalLoanSettlementPage() {
 
               <div className="grid grid-cols-1 sm:grid-cols-2 gap-4 my-6">
                 <div className="border border-blue-200 bg-blue-50/50 rounded-xl p-4">
-                  <h3 className="font-bold text-blue-950 text-sm mb-1 flex items-center gap-1.5">
+                  <h4 className="font-bold text-blue-950 text-sm mb-1 flex items-center gap-1.5">
                     <Percent className="w-4 h-4 text-[#1F5EFF]" />
                     <span>Penal &amp; Interest Waivers: 100% Elimination</span>
-                  </h3>
+                  </h4>
                   <p className="text-xs text-blue-900 leading-relaxed">
                     All accumulated uncapitalized interest, penal interest rates (often 24% p.a.), late payment penalties, NACH bounce charges, and processing fees are 100% written off upon OTS approval.
                   </p>
                 </div>
                 <div className="border border-emerald-200 bg-emerald-50/50 rounded-xl p-4">
-                  <h4 className="font-bold text-emerald-950 text-sm mb-1 flex items-center gap-1.5">
+                  <h5 className="font-bold text-emerald-950 text-sm mb-1 flex items-center gap-1.5">
                     <Percent className="w-4 h-4 text-emerald-600" />
                     <span>Principal Haircut: 40% to 60% Concession</span>
-                  </h4>
+                  </h5>
                   <p className="text-xs text-emerald-900 leading-relaxed">
                     Depending on the loan aging bucket (Substandard, Doubtful, or Loss Asset), borrowers with authenticated involuntary hardship secure a 40% to 60% reduction on the contractual principal balance.
                   </p>
@@ -780,9 +780,9 @@ export default function BankOfBarodaPersonalLoanSettlementPage() {
                 <Briefcase className="w-4 h-4" />
                 <span>7. Step-by-Step SARB Settlement Roadmap &amp; Zonal Hierarchy</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 Procedural Stages and Approval Authorities in Bank of Baroda
-              </h2>
+              </h3>
               <p className="text-slate-700 leading-relaxed mb-4 text-sm sm:text-base">
                 Executing a legally sound, maximum-haircut One-Time Settlement with Bank of Baroda requires adhering to a structured procedural methodology:
               </p>
@@ -793,7 +793,7 @@ export default function BankOfBarodaPersonalLoanSettlementPage() {
                     1
                   </div>
                   <div>
-                    <h3 className="font-bold text-slate-900 text-sm mb-1">Loan Ledger Audit &amp; Forensic Deconstruction</h3>
+                    <h4 className="font-bold text-slate-900 text-sm mb-1">Loan Ledger Audit &amp; Forensic Deconstruction</h4>
                     <p className="text-xs text-slate-600 leading-relaxed">
                       Obtain the full Statement of Account (SOA) directly from Bank of Baroda. Legally segregate the initial principal disbursed, total installments paid, outstanding contractual principal, and unlawful compound penal charges added post-default.
                     </p>
@@ -805,7 +805,7 @@ export default function BankOfBarodaPersonalLoanSettlementPage() {
                     2
                   </div>
                   <div>
-                    <h4 className="font-bold text-slate-900 text-sm mb-1">Comprehensive Hardship Dossier Compilation</h4>
+                    <h5 className="font-bold text-slate-900 text-sm mb-1">Comprehensive Hardship Dossier Compilation</h5>
                     <p className="text-xs text-slate-600 leading-relaxed">
                       Compile a verified hardship dossier establishing involuntary financial distress: medical discharge summaries, termination letters, salary reduction slips, GST surrender certificates, or audited ITRs showing business winding-up, backed by a sworn affidavit.
                     </p>
@@ -817,7 +817,7 @@ export default function BankOfBarodaPersonalLoanSettlementPage() {
                     3
                   </div>
                   <div>
-                    <h4 className="font-bold text-slate-900 text-sm mb-1">Submission to Competent Zonal Authority</h4>
+                    <h5 className="font-bold text-slate-900 text-sm mb-1">Submission to Competent Zonal Authority</h5>
                     <p className="text-xs text-slate-600 leading-relaxed">
                       Bypass base branch roadblocks and submit the formal OTS petition directly to the Competent Authority under Bank of Baroda&apos;s Delegation of Financial Powers:
                     </p>
@@ -834,7 +834,7 @@ export default function BankOfBarodaPersonalLoanSettlementPage() {
                     4
                   </div>
                   <div>
-                    <h4 className="font-bold text-slate-900 text-sm mb-1">Sanction Letter Issuance &amp; Payment Verification</h4>
+                    <h5 className="font-bold text-slate-900 text-sm mb-1">Sanction Letter Issuance &amp; Payment Verification</h5>
                     <p className="text-xs text-slate-600 leading-relaxed">
                       Upon committee approval, ensure Bank of Baroda issues a physical stamped OTS Sanction Letter on bank letterhead. Remit funds strictly through direct RTGS/NEFT into your loan account number and collect immediate bank acknowledgment.
                     </p>
@@ -849,14 +849,14 @@ export default function BankOfBarodaPersonalLoanSettlementPage() {
                 <Scale className="w-4 h-4" />
                 <span>8. National Lok Adalat Conciliation &amp; Judicial Finality</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 Resolving Bank of Baroda Defaults via Statutory Lok Adalat Benches
-              </h2>
+              </h3>
               <p className="text-slate-700 leading-relaxed mb-4 text-sm sm:text-base">
                 One of the most secure avenues for settling a Bank of Baroda loan is through the <strong>National Lok Adalat</strong>. Organized quarterly across India by the <strong>National Legal Services Authority (NALSA)</strong> and State Legal Services Authorities under the <em>Legal Services Authorities Act, 1987</em>, it provides complete judicial finality.
               </p>
               <p className="text-slate-700 leading-relaxed mb-4 text-sm sm:text-base">
-                Bank of Baroda regularly refers delinquent retail loan accounts to Lok Adalat pre-litigation benches to reduce its gross NPA ratios before quarter-end financial disclosures. During these Lok Adalat sessions, Bank of Baroda deputes authorized officers carrying pre-approved settlement mandates and special discount grids that permit deeper haircuts (often 45% to 60% principal waivers) than standard branch negotiations.
+                Bank of Baroda regularly refers delinquent retail loan accounts to Lok Adalat pre-litigation benches to reduce its gross NPA ratios before quarter-end financial disclosures. During these Lok Adalat sessions, Bank of Baroda deputes authorized officers carrying pre-approved settlement mandates and special discount grids that permit deeper haircuts (often 45% to 60% principal waivers) than standard branch talks.
               </p>
               <p className="text-slate-700 leading-relaxed mb-4 text-sm sm:text-base">
                 The most decisive advantage of a Lok Adalat settlement is its judicial finality:
@@ -882,17 +882,17 @@ export default function BankOfBarodaPersonalLoanSettlementPage() {
                 <FileCheck className="w-4 h-4" />
                 <span>9. Sanction Letter Forensics, No Dues Certificate &amp; CIBIL Trajectory</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 Verifying Bank Letterhead Sanctions, ₹0 NDC Mandate, and Credit Repair
-              </h2>
+              </h3>
               <p className="text-slate-700 leading-relaxed mb-4 text-sm sm:text-base">
-                A compromise settlement is only as legally binding as the documentation that certifies it. Borrowers must perform rigorous legal forensics on any settlement letter provided by Bank of Baroda before remitting a single rupee:
+                A compromise settlement is only as legally binding as the records that certifies it. Borrowers must perform rigorous legal forensics on any settlement letter provided by Bank of Baroda before remitting a single rupee:
               </p>
 
               <div className="border border-slate-200 rounded-xl p-5 bg-white shadow-sm my-6 space-y-3">
-                <h3 className="font-bold text-slate-900 text-sm uppercase tracking-wider text-[#1F5EFF]">
+                <h4 className="font-bold text-slate-900 text-sm uppercase tracking-wider text-[#1F5EFF]">
                   Mandatory Clauses in an Authentic Bank of Baroda OTS Sanction Letter
-                </h3>
+                </h4>
                 <ul className="text-xs sm:text-sm text-slate-700 space-y-2 leading-relaxed">
                   <li className="flex items-start gap-2">
                     <Check className="w-4 h-4 text-emerald-600 flex-shrink-0 mt-0.5" />
@@ -914,10 +914,10 @@ export default function BankOfBarodaPersonalLoanSettlementPage() {
               </div>
 
               <p className="text-slate-700 leading-relaxed mb-4 text-sm sm:text-base">
-                Following complete payment, <strong>RBI Circular RBI/2023-24/60</strong> imposes a strict statutory mandate: Bank of Baroda must issue a formal <strong>No Dues Certificate (NDC) / Loan Closure Certificate</strong> within <strong>30 calendar days</strong>. If the bank defaults on this timeline, it is statutorily liable to pay compensation of <strong>₹5,000 for each day of delay</strong> directly to the borrower.
+                Following complete payment, <strong>RBI Circular RBI/2023-24/60</strong> imposes a strict statutory mandate: Bank of Baroda must issue a formal <strong>No Dues Certificate (NDC) / Loan Closure Certificate</strong> within <strong>30 calendar days</strong>. If the bank defaults on this timeline, it is statutorily liable to pay relief of <strong>₹5,000 for each day of delay</strong> directly to the borrower.
               </p>
               <p className="text-slate-700 leading-relaxed mb-4 text-sm sm:text-base">
-                Regarding credit score impact, a &apos;Settled&apos; tag causes an immediate temporary drop of 75 to 150 points in credit score and a mandatory 12-month cooling window under RBI compromise directives. However, because the loan ledger is closed with ₹0 balance, ongoing negative DPD compounding stops completely. By obtaining a secured credit card against a fixed deposit, maintaining credit utilization under 30%, and ensuring flawless on-time payments, borrowers successfully rebuild their CIBIL score back to 750+ within 18 to 24 months.
+                Regarding credit score impact, a &apos;Settled&apos; tag causes an immediate temporary drop of 75 to 150 points in credit score and a mandatory 12-month cooling window under RBI compromise directives. However, because the loan ledger is closed with ₹0 balance, ongoing negative DPD compounding stops completely. By obtaining a secured credit card against a fixed deposit, maintaining credit use under 30%, and ensuring flawless on-time payments, borrowers successfully rebuild their CIBIL score back to 750+ within 18 to 24 months.
               </p>
             </section>
 
@@ -927,9 +927,9 @@ export default function BankOfBarodaPersonalLoanSettlementPage() {
                 <Scale className="w-4 h-4" />
                 <span>10. Comparative Resolution Matrix &amp; Professional Advocacy</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
-                Comparing Resolution Pathways: Self-Negotiation vs. Collection Channels vs. Legal Advocacy
-              </h2>
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+                Comparing Resolution Pathways: Self-talks vs. Collection Channels vs. Legal Advocacy
+              </h3>
               <p className="text-slate-700 leading-relaxed mb-4 text-sm sm:text-base">
                 The strategic path chosen by a distressed borrower determines whether their Bank of Baroda settlement succeeds or results in unfulfilled promises. The following matrix illustrates the decisive operational differences across resolution channels:
               </p>
@@ -940,7 +940,7 @@ export default function BankOfBarodaPersonalLoanSettlementPage() {
                   <thead>
                     <tr>
                       <th>Resolution Parameter</th>
-                      <th>Unassisted Individual</th>
+                      <th>Unassisted person</th>
                       <th>Outsourced Recovery Agent</th>
                       <th>SettleLoans Legal Advocacy</th>
                     </tr>
@@ -986,9 +986,9 @@ export default function BankOfBarodaPersonalLoanSettlementPage() {
                 </table>
               </div>
 
-              <h3 className="text-lg sm:text-xl font-bold text-slate-900 mb-3">
+              <h4 className="text-lg sm:text-xl font-bold text-slate-900 mb-3">
                 Expert Legal Representation for Bank of Baroda Loan Resolution
-              </h3>
+              </h4>
               <p className="text-slate-700 leading-relaxed mb-6 text-sm sm:text-base">
                 Resolving a defaulted Bank of Baroda personal loan requires deep familiarity with public sector banking regulations, CVC compliance safeguards, SARB delegation thresholds, and statutory magistrate court procedures. SettleLoans provides end-to-end legal and financial representation, protecting your family from recovery pressure and securing verified bank sanctions.
               </p>
@@ -1003,9 +1003,9 @@ export default function BankOfBarodaPersonalLoanSettlementPage() {
                 <HelpCircle className="w-4 h-4" />
                 <span>11. Frequently Asked Questions</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
                 Frequently Asked Questions on Bank of Baroda Personal Loan Settlement
-              </h2>
+              </h3>
 
               <div className="space-y-4">
                 {(((jsonLdGraph["@graph"].find((item: any) => item["@type"] === "FAQPage") as any)?.["mainEntity"] || []) as Array<{ name: string; acceptedAnswer: { text: string } }>).map((faq, index: number) => (
@@ -1032,10 +1032,10 @@ export default function BankOfBarodaPersonalLoanSettlementPage() {
 
             {/* 5 Official Regulatory Links */}
             <section className="bg-slate-50 border border-slate-200 rounded-2xl p-6 mb-8">
-              <h3 className="text-sm font-bold text-slate-900 mb-3 uppercase tracking-wider flex items-center gap-2">
+              <h4 className="text-sm font-bold text-slate-900 mb-3 uppercase tracking-wider flex items-center gap-2">
                 <ExternalLink className="w-4 h-4 text-[#1F5EFF]" />
                 <span>Official Statutory &amp; Regulatory References</span>
-              </h3>
+              </h4>
               <div className="grid grid-cols-1 sm:grid-cols-2 gap-3 text-xs">
                 <a
                   href="https://www.rbi.org.in"
@@ -1087,9 +1087,9 @@ export default function BankOfBarodaPersonalLoanSettlementPage() {
 
             {/* 10 Related Guide Badges */}
             <section className="border-t border-slate-200 pt-8 mb-8">
-              <h3 className="text-sm font-bold text-slate-900 mb-4 uppercase tracking-wider">
+              <h4 className="text-sm font-bold text-slate-900 mb-4 uppercase tracking-wider">
                 Related Loan Settlement &amp; Legal Defense Guides
-              </h3>
+              </h4>
               <div className="flex flex-wrap gap-2">
                 <Link
                   href="/sbi-personal-loan-settlement"

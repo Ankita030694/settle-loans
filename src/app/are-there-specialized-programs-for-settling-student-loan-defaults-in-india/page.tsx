@@ -353,9 +353,9 @@ export default function StudentLoanSettlementPage() {
             </section>
 
             <section id="npa-classification" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight text-[#1F5EFF]">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight text-[#1F5EFF]">
                 The Road to Default: RBI IRAC Norms and NPA Classification
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 Most students don't realize that an education loan has a highly regulated lifecycle. In India, banks follow the <strong>Income Recognition and Asset Classification (IRAC)</strong> norms set by the Reserve Bank of India. For an education loan, the most important phase is the "Moratorium Period." Usually, this is Course Duration + 1 Year. Interest continues to accrue (even if not paid) during this time, often leading to "Negative Amortization" if the student isn't aware that early interest payments can save Lakhs.
               </p>
@@ -363,7 +363,7 @@ export default function StudentLoanSettlementPage() {
                 The 90-Day Cliff: Once the Moratorium Ends, the Clock is Merciless.
               </p>
               <div className="bg-indigo-50 p-8 rounded-xl border border-indigo-200 mb-8 shadow-sm">
-                <h3 className="text-xl font-bold mb-4 text-indigo-900 italic uppercase tracking-widest text-center">The RBI SMA Timeline</h3>
+                <h4 className="text-xl font-bold mb-4 text-indigo-900 italic uppercase tracking-widest text-center">The RBI SMA Timeline</h4>
                 <div className="grid md:grid-cols-4 gap-4">
                   <div className="text-center p-4">
                     <div className="text-[#1F5EFF] text-2xl font-black mb-1">1-30 Days</div>
@@ -396,14 +396,14 @@ export default function StudentLoanSettlementPage() {
             </section>
 
             <section id="sbi-ots-2024" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight text-[#1F5EFF]">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight text-[#1F5EFF]">
                 SBI Education Loan OTS Policy 2024: The "Rinn Samadhan" Advantage
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6 font-bold">
                 State Bank of India (SBI), as the lead bank for education loans in India, has the most robust "Settlement Catalog." In 2024, SBI reinvigorated its <strong>Rinn Samadhan</strong> scheme, specifically targeting education loan borrowers who have been in NPA for over 2 years. The key advantage of an SBI OTS is that it is often "Non-Discretionary." If you fall within the specified waiver matrix (based on the age of the NPA), the branch manager has the delegated authority to close your loan without seeking approval from the Zonal Office.
               </p>
               <div className="bg-white border-2 border-[#DEDEDE] rounded-3xl p-10 mb-12 shadow-md hover:border-[#1F5EFF] transition-colors">
-                <h3 className="text-2xl font-black mb-6 text-[#1F5EFF] uppercase italic tracking-wider underline">The SBI Settlement Workflow for 2024</h3>
+                <h4 className="text-2xl font-black mb-6 text-[#1F5EFF] uppercase italic tracking-wider underline">The SBI Settlement Workflow for 2024</h4>
                 <p className="text-lg leading-relaxed mb-6">Navigating a settlement with SBI requires clinical precision. Our partners at <strong>CredSettle</strong> recommend the following 4-step execution plan:</p>
                 <ul className="space-y-6">
                   <li className="flex gap-4">
@@ -438,25 +438,25 @@ export default function StudentLoanSettlementPage() {
             </section>
 
             <section id="cgfsel-deepdive" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight text-[#1F5EFF] uppercase underline decoration-gray-200">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight text-[#1F5EFF] uppercase underline decoration-gray-200">
                 NCGTC Influence: Using the Guarantee Fund as Leverage
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 The <strong>Credit Guarantee Fund Scheme for Education Loan (CGFSEL)</strong> is the "Ultimate Weapon" in the hands of a knowledgeable borrower. Managed by the National Credit Guarantee Trustee Company (NCGTC), this fund provides a 75% guarantee for defaults on loans up to ₹7.5 Lakhs. Most students are told their "Future is at stake," but they aren't told that the bank has already "De-risked" the loan.
               </p>
               <div className="bg-indigo-50/50 p-8 rounded-2xl border border-indigo-200 mb-8 shadow-inner overflow-hidden relative">
                 <div className="absolute -top-10 -right-10 w-40 h-40 bg-[#1F5EFF]/5 rounded-full blur-2xl"></div>
-                <h3 className="text-lg font-black text-indigo-950 mb-4 uppercase tracking-tighter">The "75% Leverage" Logic for Settlement</h3>
+                <h4 className="text-lg font-black text-indigo-950 mb-4 uppercase tracking-tighter">The "75% Leverage" Logic for Settlement</h4>
                 <p className="text-base text-indigo-800 leading-relaxed font-medium mb-6">
                   When you default, the bank doesn't just lose money. They can approach the NCGTC and claim 75% of the defaulted amount almost immediately (after legal initiation). This means if you owe ₹10 Lakhs (of which ₹7.5 is guaranteed), the bank potentially gets ₹5.6 Lakhs from the government.
                 </p>
                 <div className="grid md:grid-cols-2 gap-6 bg-white/50 p-6 rounded-xl border border-indigo-100">
                   <div>
-                    <h4 className="font-black text-xs text-indigo-900 uppercase underline mb-2">The Bank's Weakness</h4>
+                    <h5 className="font-black text-xs text-indigo-900 uppercase underline mb-2">The Bank's Weakness</h5>
                     <p className="text-xs text-indigo-700">To claim the final 25% from NCGTC, the bank must prove they have "Exhausted all recovery options." This can take years of litigation and cost Lakhs in lawyer fees.</p>
                   </div>
                   <div>
-                    <h5 className="font-black text-xs text-indigo-900 uppercase underline mb-2">The Student's Opportunity</h5>
+                    <h6 className="font-black text-xs text-indigo-900 uppercase underline mb-2">The Student's Opportunity</h6>
                     <p className="text-xs text-indigo-700">You can offer a settlement of 20-30% of the principal today. The bank gets your 30% + the government's 75% = 105%. They actually make a profit on the principal while closing the "Dirty" file.</p>
                   </div>
                 </div>
@@ -467,9 +467,9 @@ export default function StudentLoanSettlementPage() {
             </section>
 
             <section id="ots-framework" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
                  Understanding the One Time Settlement (OTS) Framework
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6 font-bold text-[#1F5EFF]">
                 The One Time Settlement (OTS) is NOT a "Discount"; it is a clinical resolution of a bad asset. In the eyes of the RBI, a settlement is a "Compromise Asset." While it solves your debt problem, you must go in with your eyes open to the "CIBIL Aftermath."
               </p>
@@ -480,21 +480,21 @@ export default function StudentLoanSettlementPage() {
                 <div className="p-6 bg-gray-50 rounded-2xl border border-gray-100 flex gap-4">
                   <div className="w-12 h-12 bg-[#1F5EFF] rounded-full flex items-center justify-center text-white font-black shrink-0 shadow-lg">1</div>
                   <div>
-                    <h3 className="font-black text-[#2E2E2E] uppercase text-xs mb-1">Interest Audit Pillar</h3>
+                    <h4 className="font-black text-[#2E2E2E] uppercase text-xs mb-1">Interest Audit Pillar</h4>
                     <p className="text-sm text-gray-600">We verify every "Penal Interest" entry. Banks often overcharge students by applying compound interest on penalties a practice repeatedly criticized by Consumer Courts.</p>
                   </div>
                 </div>
                 <div className="p-6 bg-gray-50 rounded-2xl border border-gray-100 flex gap-4">
                   <div className="w-12 h-12 bg-[#1F5EFF] rounded-full flex items-center justify-center text-white font-black shrink-0 shadow-lg">2</div>
                   <div>
-                    <h4 className="font-black text-[#2E2E2E] uppercase text-xs mb-1">Hardship Substantiation</h4>
+                    <h5 className="font-black text-[#2E2E2E] uppercase text-xs mb-1">Hardship Substantiation</h5>
                     <p className="text-sm text-gray-600">We don't just say "I can't pay." we show the bank a "Negative Cash Flow Statement." When the bank sees that the student's current income is less than their basic rent and food cost, the settlement becomes a math problem, not an emotional one.</p>
                   </div>
                 </div>
                 <div className="p-6 bg-gray-50 rounded-2xl border border-gray-100 flex gap-4">
                   <div className="w-12 h-12 bg-[#1F5EFF] rounded-full flex items-center justify-center text-white font-black shrink-0 shadow-lg">3</div>
                   <div>
-                    <h4 className="font-black text-[#2E2E2E] uppercase text-xs mb-1">Legal Peace Pillar</h4>
+                    <h5 className="font-black text-[#2E2E2E] uppercase text-xs mb-1">Legal Peace Pillar</h5>
                     <p className="text-sm text-gray-600">The most important part of an OTS is the "Closing of Litigations." SettleLoans ensures that all 138 NI Act cases or DRT proceedings are formally withdrawn before the final payment is released.</p>
                   </div>
                 </div>
@@ -505,36 +505,36 @@ export default function StudentLoanSettlementPage() {
             </section>
 
             <section id="hardship-letter-guide" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight text-[#1F5EFF] uppercase italic tracking-tighter">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight text-[#1F5EFF] uppercase italic tracking-tighter">
                 The Master Guide: Drafting a Professional Student Hardship Letter
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-8">
                 The 'Hardship Letter' is the most powerful weapon in your settlement arsenal. It's not just a request for a waiver; it is a legal narrative that justifies the bank's decision to accept a loss to their internal auditors. In the Indian banking context, your letter must be clinical, factual, and devoid of "Begging." Banks respond to <strong>Capacity Analysis</strong>, not just emotional stories.
               </p>
               <div className="grid md:grid-cols-2 gap-8 mb-12">
                 <div className="p-8 bg-gray-50 rounded-3xl border-l-8 border-[#1F5EFF] shadow-sm">
-                  <h3 className="font-black text-lg mb-4 uppercase">The Career Gap Logic (The "Jobless" Clause)</h3>
+                  <h4 className="font-black text-lg mb-4 uppercase">The Career Gap Logic (The "Jobless" Clause)</h4>
                   <p className="text-sm text-gray-600 leading-relaxed font-bold mb-4">You must quantify your unemployment. Do not just say "I have no job."</p>
                   <p className="text-xs text-gray-500 italic border-t border-gray-200 pt-4">
                     "Despite applying to over [Number] companies in the [Sector] industry, as evidenced by the attached rejection emails, the regional economic downturn has prevented me from securing a placement. My current income is zero, and I am currently surviving on a monthly allowance of [Amount] from my family, which is insufficient to cover even the interest component."
                   </p>
                 </div>
                 <div className="p-8 bg-gray-50 rounded-3xl border-l-8 border-indigo-300 shadow-sm">
-                  <h4 className="font-black text-lg mb-4 uppercase italic">The Co-Applicant Vulnerability Clause</h4>
+                  <h5 className="font-black text-lg mb-4 uppercase italic">The Co-Applicant Vulnerability Clause</h5>
                   <p className="text-sm text-gray-600 leading-relaxed font-bold mb-4">Highlight the risk to the family's survival, not just the student's credit.</p>
                   <p className="text-xs text-gray-500 italic border-t border-gray-200 pt-4">
                     "My co-applicant, [Name], who is my [Relation], is a retired individual with an annual pension of only [Amount]. The medical expenses for [Condition] consume 40% of this income. Any aggressive recovery action against our primary residence will render an elderly citizen homeless, creating a social hardship that far outweighs the recovery value."
                   </p>
                 </div>
                 <div className="p-8 bg-gray-50 rounded-3xl border-l-8 border-gray-400 shadow-sm">
-                  <h4 className="font-black text-lg mb-4 uppercase underline">The "Third-Party Fund" Leverage</h4>
+                  <h5 className="font-black text-lg mb-4 uppercase underline">The "Third-Party Fund" Leverage</h5>
                   <p className="text-sm text-gray-600 leading-relaxed font-bold mb-4">Explain where the settlement money is coming from.</p>
                   <p className="text-xs text-gray-500 italic border-t border-gray-200 pt-4">
                     "I have managed to arrange a one-time sum of [Amount] by borrowing from extended family members. This offer is strictly time-bound and is intended for a 'Full and Final' settlement. If this offer is not accepted within [Days], these funds will be diverted to other family emergencies, and I will have no capacity to offer a settlement for the next 48 months."
                   </p>
                 </div>
                 <div className="p-8 bg-gray-50 rounded-3xl border-l-8 border-[#1F5EFF] shadow-sm">
-                  <h4 className="font-black text-lg mb-4 uppercase font-bold italic">The Fair Practice Code (Counter-Claim)</h4>
+                  <h5 className="font-black text-lg mb-4 uppercase font-bold italic">The Fair Practice Code (Counter-Claim)</h5>
                   <p className="text-sm text-gray-600 leading-relaxed font-bold mb-4">Put the bank on notice if they have crossed lines.</p>
                   <p className="text-xs text-gray-500 italic border-t border-gray-200 pt-4">
                     "I draw your attention to the illegal recovery calls made to my alumni network on [Date]. This is a clear violation of the RBI Fair Practice Code on Privacy. While I intend to settle this debt, I reserve the right to approach the Banking Ombudsman if these harassment tactics do not cease immediately in favor of a professional settlement dialogue."
@@ -547,20 +547,20 @@ export default function StudentLoanSettlementPage() {
             </section>
 
             <section id="restructuring" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight uppercase underline decoration-[#1F5EFF] decoration-4">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight uppercase underline decoration-[#1F5EFF] decoration-4">
                 Loan Restructuring: The Professional Alternative to Settlement
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 Settlement marks your CIBIL as 'Settled', which effectively blocks your ability to take a home loan or a car loan for 7 years. If you are early in your career and expect your income to rise in 2-3 years, <strong>Loan Restructuring</strong> is a far superior path. Under the RBI's Resolution Framework, you can request a one-time restructuring of your education loan without it being classified as an NPA.
               </p>
               <div className="grid md:grid-cols-2 gap-8 my-8">
                 <div className="p-8 bg-white border border-[#DEDEDE] rounded-3xl shadow-sm hover:shadow-xl transition-all group">
-                  <h3 className="text-[#1F5EFF] uppercase text-xs font-black mb-3 tracking-widest">Step-Up Repayment</h3>
+                  <h4 className="text-[#1F5EFF] uppercase text-xs font-black mb-3 tracking-widest">Step-Up Repayment</h4>
                   <p className="text-sm text-gray-600 leading-relaxed mb-4">Start with a very low EMI (say ₹2,000) for the first 2 years, with the EMI increasing by 15% every year as your career progresses. This keeps your CIBIL "Clean."</p>
                   <p className="text-xs text-red-500 font-bold hidden group-hover:block transition-all italic">Warning: This increases your total interest outflow by up to 25%!</p>
                 </div>
                 <div className="p-8 bg-white border border-[#DEDEDE] rounded-3xl shadow-sm hover:shadow-xl transition-all group">
-                  <h4 className="text-[#1F5EFF] uppercase text-xs font-black mb-3 tracking-widest">Tenure Extension Scheme</h4>
+                  <h5 className="text-[#1F5EFF] uppercase text-xs font-black mb-3 tracking-widest">Tenure Extension Scheme</h5>
                   <p className="text-sm text-gray-600 leading-relaxed mb-4">Banks like Union Bank and Canara Bank often allow students to extend the repayment period from a standard 8 years to 15 years, drastically reducing the monthly burden.</p>
                   <p className="text-xs text-indigo-500 font-bold hidden group-hover:block transition-all italic underline">Pro: Lower EMI. Con: Long-term debt trap.</p>
                 </div>
@@ -571,15 +571,15 @@ export default function StudentLoanSettlementPage() {
             </section>
 
             <section id="government-subsidies" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight text-[#1F5EFF] uppercase">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight text-[#1F5EFF] uppercase">
                 Government Subsidy Schemes (CSIS & PM-Vidyalaxmi Deep Dive)
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 Thousands of Indian students enter default simply because their bank "Forgot" to apply their government interest subsidy. The <strong>Central Sector Interest Subsidy (CSIS)</strong> scheme is a mandatory program for students from families earning less than ₹4.5 Lakhs. If you are eligible, the government pays the interest during the moratorium.
               </p>
               <div className="bg-[#2E2E2E] p-10 rounded-[40px] text-[#DEDEDE] mb-12 relative group overflow-hidden border border-[#1F5EFF]/20 shadow-2xl">
                 <div className="absolute top-0 right-0 w-64 h-64 bg-[#1F5EFF]/5 rounded-full blur-[100px] group-hover:bg-[#1F5EFF]/10 transition-all"></div>
-                <h3 className="text-[#1F5EFF] font-black text-2xl mb-6 uppercase tracking-widest italic decoration-white underline">The PM-Vidyalaxmi Checklist</h3>
+                <h4 className="text-[#1F5EFF] font-black text-2xl mb-6 uppercase tracking-widest italic decoration-white underline">The PM-Vidyalaxmi Checklist</h4>
                 <p className="text-base opacity-80 leading-relaxed mb-6 font-medium">
                   Under the revamped PM-Vidyalaxmi portal, any student with a family income up to ₹8 Lakhs can apply for a 3% interest subvention. However, if your loan becomes an NPA, <strong>the subsidy is often suspended.</strong>
                 </p>
@@ -603,43 +603,43 @@ export default function StudentLoanSettlementPage() {
             </section>
 
             <section id="borrower-bill-of-rights" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight text-center text-[#1F5EFF] uppercase italic tracking-tighter decoration-[#1F5EFF] underline decoration-4">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight text-center text-[#1F5EFF] uppercase italic tracking-tighter decoration-[#1F5EFF] underline decoration-4">
                 The Student Borrower's Bill of Rights
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-8 text-center max-w-2xl mx-auto font-bold">In the Indian legal system, a borrower in default is NOT a criminal. You have inherent rights protected by the RBI and the Supreme Court. If you are in default, these 5 rights are your ultimate shield.</p>
               <div className="grid gap-8">
                 <div className="p-8 bg-white border border-[#DEDEDE] rounded-3xl shadow-sm hover:shadow-2xl transition-all border-b-8 border-b-[#1F5EFF] relative overflow-hidden group">
                   <div className="absolute top-4 right-4 text-4xl font-black text-gray-100 group-hover:text-[#1F5EFF]/10 transition-colors">01</div>
-                  <h3 className="font-black text-xl mb-3 uppercase font-bold italic text-[#2E2E2E]">Right to a Moratorium Audit</h3>
+                  <h4 className="font-black text-xl mb-3 uppercase font-bold italic text-[#2E2E2E]">Right to a Moratorium Audit</h4>
                   <p className="text-sm text-gray-500 leading-relaxed font-medium">Under the RBI Master Circular, the bank must provide a clear "Moratorium Completion Certificate." If the bank started charging EMIs while you were still in your course or during the 1-year grace period, they have violated the contract. You have the right to demand a reversal of all penal interest charged during this "Illegal Recovery" window.</p>
                 </div>
                 <div className="p-8 bg-white border border-[#DEDEDE] rounded-3xl shadow-sm hover:shadow-2xl transition-all border-b-8 border-b-gray-200 relative overflow-hidden group">
                   <div className="absolute top-4 right-4 text-4xl font-black text-gray-100 group-hover:text-gray-200/20 transition-colors">02</div>
-                  <h4 className="font-black text-xl mb-3 uppercase text-[#2E2E2E]">Right to Social Privacy (Campus Shield)</h4>
+                  <h5 className="font-black text-xl mb-3 uppercase text-[#2E2E2E]">Right to Social Privacy (Campus Shield)</h5>
                   <p className="text-sm text-gray-500 leading-relaxed font-bold underline decoration-[#1F5EFF]">Recovery agents are legally barred from contacting your alma mater, your professors, or your current employer to disclose your debt status. Any "Name and Shame" tactic is a violation of the Right to Privacy (Article 21). SettleLoans helps borrowers file formal complaints that can lead to the bank being fined up to ₹5 Lakhs per violation.</p>
                 </div>
                 <div className="p-8 bg-white border border-[#DEDEDE] rounded-3xl shadow-sm hover:shadow-2xl transition-all border-b-8 border-b-[#1F5EFF] relative overflow-hidden group">
                   <div className="absolute top-4 right-4 text-4xl font-black text-gray-100 group-hover:text-[#1F5EFF]/10 transition-colors">03</div>
-                  <h4 className="font-black text-xl mb-3 uppercase font-bold italic underline text-[#2E2E2E]">Right to a Transparent Settlement Dialogue</h4>
+                  <h5 className="font-black text-xl mb-3 uppercase font-bold italic underline text-[#2E2E2E]">Right to a Transparent Settlement Dialogue</h5>
                   <p className="text-sm text-gray-500 leading-relaxed font-medium">The bank cannot refuse to "Talk" to you. If you submit a genuine hardship proposal, the bank is obligated to respond in writing within 15-30 days. You have the right to a "Reasoned Rejection." If they reject your settlement, they must state why. A generic "Policy doesn't allow" is legally insufficient if you have proven hardship.</p>
                 </div>
                 <div className="p-8 bg-white border border-[#DEDEDE] rounded-3xl shadow-sm hover:shadow-2xl transition-all border-b-8 border-b-gray-200 relative overflow-hidden group">
                   <div className="absolute top-4 right-4 text-4xl font-black text-gray-100 group-hover:text-gray-200/20 transition-colors">04</div>
-                  <h4 className="font-black text-xl mb-3 uppercase underline text-[#2E2E2E]">Right to Respectful Recovery Contact</h4>
+                  <h5 className="font-black text-xl mb-3 uppercase underline text-[#2E2E2E]">Right to Respectful Recovery Contact</h5>
                   <p className="text-sm text-gray-500 leading-relaxed font-bold">Harassment is a criminal offense under Section 506 of the IPC. Recovery agents can only call between 8 AM and 7 PM. They cannot call you from private numbers they must use registered bank landlines or GSM lines. You have the right to record every call as evidence for the Banking Ombudsman.</p>
                 </div>
                 <div className="p-8 bg-white border border-[#DEDEDE] rounded-3xl shadow-sm hover:shadow-2xl transition-all border-b-8 border-b-[#1F5EFF] relative overflow-hidden group">
                   <div className="absolute top-4 right-4 text-4xl font-black text-gray-100 group-hover:text-[#1F5EFF]/10 transition-colors">05</div>
-                  <h4 className="font-black text-xl mb-3 uppercase font-bold text-[#2E2E2E]">Right to a Physical Notice before Seizure</h4>
+                  <h5 className="font-black text-xl mb-3 uppercase font-bold text-[#2E2E2E]">Right to a Physical Notice before Seizure</h5>
                   <p className="text-sm text-gray-500 leading-relaxed font-medium">For secured loans, the bank must issue a 60-day notice under Section 13(2) of the SARFAESI Act before they can take symbolic possession of a property. You have the right to contest this notice in the Debt Recovery Tribunal (DRT). Many "Property Seizures" are stopped because the bank failed to follow the 60-day rule correctly.</p>
                 </div>
               </div>
             </section>
 
             <section id="lok-adatat" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight text-[#1F5EFF] uppercase underline decoration-gray-100">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight text-[#1F5EFF] uppercase underline decoration-gray-100">
                 Lok Adalat: The Ultimate Forum for Academic Debt Resolution
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 <strong>Lok Adalat (People's Court)</strong> is perhaps the most empathetic forum for student loan resolution in India. Organised by the National Legal Services Authority (NALSA), these courts focus on "Compromise" rather than "Judgment." In a traditional court, someone wins and someone loses. In a Lok Adalat, both parties agree to a middle ground.
               </p>
@@ -658,9 +658,9 @@ export default function StudentLoanSettlementPage() {
             </section>
 
             <section id="legal-protections" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight uppercase tracking-tighter text-[#1F5EFF] italic">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight uppercase tracking-tighter text-[#1F5EFF] italic">
                 Legal Protections: Your Shield Against Recovery Harassment
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-8">
                 The RBI has issued a series of "Master Directions" on Managing Risks and Code of Conduct in Outsourcing of Financial Services. These rules specifically apply to "Third Party Recovery Agents." If a bank official or an agent tells you "We will put you in jail for student loan default," they are lying. Debt default in India is a <strong>Civil Matter</strong>, not a criminal one (unless there is fraud or cheque bounce).
               </p>
@@ -684,14 +684,14 @@ export default function StudentLoanSettlementPage() {
             </section>
 
             <section id="role-of-coapplicants" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight text-[#1F5EFF] uppercase border-b-4 border-gray-100 pb-2">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight text-[#1F5EFF] uppercase border-b-4 border-gray-100 pb-2">
                 The Co-applicant Crisis: Managing the "Family Debt Trap"
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 In India, almost 90% of education loans are co-signed by parents or guardians. While the student is the "Primary Borrower," the parent is the "Guarantor/Co-borrower" with equal legal liability. This creates what we call "CIBIL Contagion." When a student misses an EMI, the co-applicant's credit score drops synchronously.
               </p>
               <div className="bg-red-50 border-r-8 border-red-600 p-8 rounded-l-3xl mb-8 shadow-sm">
-                <h3 className="font-black text-red-900 mb-4 uppercase italic">Critical Warning: The Property Risk</h3>
+                <h4 className="font-black text-red-900 mb-4 uppercase italic">Critical Warning: The Property Risk</h4>
                 <p className="text-sm text-red-800 leading-relaxed font-bold mb-4">
                   If your education loan was "Secured" (usually for amounts above ₹7.5 Lakhs), the bank has a charge on your family home. Under the SARFAESI Act, the bank doesn't need to go to a local court to seize the property; they can issue a notice and take possession through the District Magistrate.
                 </p>
@@ -705,15 +705,15 @@ export default function StudentLoanSettlementPage() {
             </section>
 
             <section id="professional-help" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                 Evaluating the Best Professional Help for Student Loan Settlement
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-8">
                 Settling a student loan is a mix of 50% Legal Knowledge and 50% Financial Negotiation. You need a partner who understands the RBI Master Circulars as much as they understand the "Banker's Psychology." Here is a comparison of the top firms in India for this specialized niche:
               </p>
               <div className="grid md:grid-cols-3 gap-8 mb-12">
                 <div className="bg-white border-2 border-gray-100 rounded-3xl p-8 hover:shadow-2xl transition-all hover:-translate-y-2 border-t-8 border-t-[#1F5EFF]">
-                  <h3 className="text-2xl font-black mb-4 text-[#2E2E2E]">Amalegal Solutions</h3>
+                  <h4 className="text-2xl font-black mb-4 text-[#2E2E2E]">Amalegal Solutions</h4>
                   <p className="text-xs text-[#1F5EFF] font-bold uppercase mb-4 tracking-widest">The Legal Powerhouse</p>
                   <p className="text-sm text-gray-500 leading-relaxed font-medium mb-6">Best for complex defaults where the bank has already initiated litigation or Sent DRT notices. They focus on the "Law of Hardship."</p>
                   <ul className="text-[10px] text-gray-400 space-y-2 font-bold italic">
@@ -724,7 +724,7 @@ export default function StudentLoanSettlementPage() {
                 </div>
                 <div className="bg-[#1F5EFF] rounded-3xl p-8 shadow-xl hover:shadow-2xl transition-all hover:-translate-y-2 relative overflow-hidden">
                    <div className="absolute -top-10 -left-10 w-32 h-32 bg-white/10 rounded-full blur-2xl"></div>
-                   <h4 className="text-2xl font-black mb-4 text-white">CredSettle</h4>
+                   <h5 className="text-2xl font-black mb-4 text-white">CredSettle</h5>
                    <p className="text-xs text-white/70 font-bold uppercase mb-4 tracking-widest">The Digital Negotiator</p>
                    <p className="text-sm text-white/90 leading-relaxed font-medium mb-6">Best for students who want a tech-driven approach. Their platform calculates "Optimal Settlement Value" based on current NPA age and loan type.</p>
                    <ul className="text-[10px] text-white/50 space-y-2 font-bold italic">
@@ -734,7 +734,7 @@ export default function StudentLoanSettlementPage() {
                   </ul>
                 </div>
                 <div className="bg-white border-2 border-gray-100 rounded-3xl p-8 hover:shadow-2xl transition-all hover:-translate-y-2 border-t-8 border-t-gray-300">
-                  <h4 className="text-2xl font-black mb-4 text-[#2E2E2E]">SettleLoans</h4>
+                  <h5 className="text-2xl font-black mb-4 text-[#2E2E2E]">SettleLoans</h5>
                   <p className="text-xs text-gray-400 font-bold uppercase mb-4 tracking-widest">The Advocacy Expert</p>
                   <p className="text-sm text-gray-500 leading-relaxed font-medium mb-6">Best for "Personalized Hardship" cases. They excel at drafting the narratives that get 60%+ waivers on interest components.</p>
                   <ul className="text-[10px] text-gray-400 space-y-2 font-bold italic">
@@ -750,7 +750,7 @@ export default function StudentLoanSettlementPage() {
             </section>
 
             <section id="rebuilding-life" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 text-center uppercase tracking-widest text-[#1F5EFF] decoration-4 underline">Life After Settlement: The Recovery Roadmap</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 text-center uppercase tracking-widest text-[#1F5EFF] decoration-4 underline">Life After Settlement: The Recovery Roadmap</h3>
               <div className="bg-gray-900 rounded-[50px] p-12 text-white relative overflow-hidden group">
                 <div className="absolute bottom-0 right-0 w-96 h-96 bg-[#1F5EFF]/20 rounded-full blur-[120px]"></div>
                 <div className="max-w-3xl mx-auto">
@@ -776,7 +776,7 @@ export default function StudentLoanSettlementPage() {
             <ReviewSnippets reviews={reviews} title="Real Stories of Academic Freedom" />
 
             <section id="faqs" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 uppercase tracking-widest text-[#1F5EFF]">Frequently Asked Questions</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 uppercase tracking-widest text-[#1F5EFF]">Frequently Asked Questions</h3>
               <div className="space-y-4 not-prose">
                 {(jsonLd["@context"] === "https://schema.org" && (jsonLd["@graph"][3] as any)?.mainEntity)?.map((faq: any, i: number) => (
                   <details key={i} className="group bg-white border border-[#DEDEDE] rounded-xl overflow-hidden hover:shadow-md transition-all border-b-4 border-b-[#1F5EFF]/20">
@@ -802,7 +802,7 @@ export default function StudentLoanSettlementPage() {
             <div className="lg:hidden mt-16 mb-8">
               <div className="bg-[#2E2E2E] rounded-2xl shadow-xl overflow-hidden border border-[#1F5EFF]/20">
                 <div className="bg-[#1F5EFF] p-6 text-center text-white">
-                  <h3 className="text-2xl font-black mb-2">Protect Your Family's Future</h3>
+                  <h4 className="text-2xl font-black mb-2">Protect Your Family's Future</h4>
                   <p className="opacity-90 text-sm">Student loan defaults are complex. Get professional help now.</p>
                 </div>
                 <div className="p-8 text-center text-[#DEDEDE]">

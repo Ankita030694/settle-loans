@@ -501,7 +501,7 @@ export default function RecoveryAgentsVisitingParentsOldAddressPage() {
 
             {/* Section 2: Privity of Contract & Parent Non-Liability */}
             <section id="privity-of-contract-parent-non-liability" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">2. Privity of Contract &amp; Absolute Non-Liability</h2>
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">2. Privity of Contract &amp; Absolute Non-Liability</h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Under Section 2(h) of the Indian Contract Act, 1872, loan terms bind only the signers. This rule is called Privity of Contract. An unsecured personal loan or credit card debt exists solely between the bank and the individual adult borrower.
               </p>
@@ -515,7 +515,7 @@ export default function RecoveryAgentsVisitingParentsOldAddressPage() {
 
             {/* Section 3: Criminal Trespass: Sec 329 BNS & Sec 441 IPC */}
             <section id="criminal-trespass-section-329-bns" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">3. Criminal Trespass Laws</h2>
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">3. Criminal Trespass Laws</h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Recovery agents have no judicial or legal powers. They carry no search warrants. They have no more right to enter a home than any ordinary stranger.
               </p>
@@ -529,7 +529,7 @@ export default function RecoveryAgentsVisitingParentsOldAddressPage() {
 
             {/* Section 4: Supreme Court Privacy Shield & Senior Citizens Act */}
             <section id="supreme-court-privacy-senior-citizens-act" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">4. Supreme Court Privacy Shield, Judicial Precedents</h2>
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">4. Supreme Court Privacy Shield, Judicial Precedents</h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 In <em>Justice K.S. Puttaswamy v. Union of India (2017)</em>, a nine-judge bench made privacy a fundamental right under Article 21. The ruling protects private homes from commercial harassment.
               </p>
@@ -560,7 +560,7 @@ export default function RecoveryAgentsVisitingParentsOldAddressPage() {
 
             {/* Section 6: Tactical Doorstep Shield for Aging Parents */}
             <section id="doorstep-defense-protocol-parents" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">6. Tactical Doorstep Protocol for Aging Parents</h2>
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">6. Tactical Doorstep Protocol for Aging Parents</h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 To stay safe, elderly parents should keep main doors and safety grills locked. Homeowners do not have to speak with third-party agents at their door.
               </p>
@@ -574,7 +574,7 @@ export default function RecoveryAgentsVisitingParentsOldAddressPage() {
 
             {/* Section 7: Bank NPA Mechanics & NPV Valuation Model */}
             <section id="npa-mechanics-npv-recovery-formula" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">7. Bank NPA Mechanics &amp; the NPV Valuation Model</h2>
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">7. Bank NPA Mechanics &amp; the NPV Valuation Model</h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 When an unsecured loan is unpaid for over 90 days, it becomes a Substandard Asset. Under RBI rules, the bank must set aside 15% to 100% of the loan amount from its profits. To reduce these losses, banks hire agencies on 15% to 25% commissions. This drives agents to visit family homes aggressively.
               </p>
@@ -603,7 +603,7 @@ export default function RecoveryAgentsVisitingParentsOldAddressPage() {
 
             {/* Section 8: Statutory Cease-and-Desist & Address Update */}
             <section id="statutory-cease-and-desist-notice" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">8. Serving a Formal Advocate Cease-and-Desist Notice</h2>
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">8. Serving a Formal Advocate Cease-and-Desist Notice</h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Verbal requests to agents rarely work because agency staff changes often. Protecting your parents permanently needs a two-part legal strategy.
               </p>
@@ -617,7 +617,7 @@ export default function RecoveryAgentsVisitingParentsOldAddressPage() {
 
             {/* Section 9: Comparative Enforcement Matrix */}
             <section id="comparative-legal-protection-matrix" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">9. Comparative Legal Enforcement Matrix</h2>
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">9. Comparative Legal Enforcement Matrix</h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Knowing the difference between private recovery agents and court officials helps protect your family. The matrix below shows legal limits for each recovery channel in India:
               </p>
@@ -677,7 +677,7 @@ export default function RecoveryAgentsVisitingParentsOldAddressPage() {
             {/* Section 10: SettleLoans Institutional Protection */}
             <section id="settleloans-advocate-intervention" className="space-y-6">
               <div className="border-t border-slate-200 pt-8 space-y-4">
-                <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">10. SettleLoans Legal Relief in Protecting Parents</h2>
+                <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">10. SettleLoans Legal Relief in Protecting Parents</h3>
                 <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                   No elderly parent in India should live in fear of recovery agents banging on doors for an adult child&apos;s personal loan. At SettleLoans, our senior banking lawyers and loan negotiators defend borrowers and their families across India.
                 </p>
@@ -694,7 +694,7 @@ export default function RecoveryAgentsVisitingParentsOldAddressPage() {
             <section id="faqs" className="space-y-4 border-t border-slate-200 pt-8">
               <div className="flex items-center gap-2 mb-2">
                 <HelpCircle className="w-5 h-5 text-[#1F5EFF]" />
-                <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">11. FAQs: Recovery Agents &amp; Parental Legal Rights</h2>
+                <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">11. FAQs: Recovery Agents &amp; Parental Legal Rights</h3>
               </div>
               <p className="text-xs sm:text-sm text-slate-600 mb-6">
                 Clear answers about recovery agent limits, Section 329 BNS trespass laws, Supreme Court privacy rulings. And debt settlement in India.
@@ -725,9 +725,9 @@ export default function RecoveryAgentsVisitingParentsOldAddressPage() {
 
             {/* 5 Official Regulatory Links */}
             <section className="border-t border-slate-200 pt-8 mb-4">
-              <h3 className="text-xs sm:text-sm font-bold text-slate-900 mb-3 uppercase tracking-wider">
+              <h4 className="text-xs sm:text-sm font-bold text-slate-900 mb-3 uppercase tracking-wider">
                 Official Statutory &amp; Regulatory References
-              </h3>
+              </h4>
               <div className="grid grid-cols-1 sm:grid-cols-2 gap-2.5 text-xs">
                 <a
                   href="https://www.mha.gov.in"
@@ -779,9 +779,9 @@ export default function RecoveryAgentsVisitingParentsOldAddressPage() {
 
             {/* 10 Related Guide Badges */}
             <section className="border-t border-slate-200 pt-8 mb-8">
-              <h3 className="text-xs sm:text-sm font-bold text-slate-900 mb-4 uppercase tracking-wider">
+              <h4 className="text-xs sm:text-sm font-bold text-slate-900 mb-4 uppercase tracking-wider">
                 Related Legal Defense &amp; Loan Settlement Guides
-              </h3>
+              </h4>
               <div className="flex flex-wrap gap-2">
                 <Link
                   href="/can-recovery-agents-enter-house-without-permission"

@@ -281,63 +281,63 @@ export default function KarnatakaLoanSettlementPage() {
             </section>
 
             <section id="debt-spiral-bangalore" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl font-black mb-6">Navigating the Bangalore Debt Trap</h2>
+              <h3 className="text-3xl font-black mb-6">Navigating the Bangalore Debt Trap</h3>
               <p>In the bustling corporate landscape of Bangalore, many fall into what we call the "Salary Day Stress" cycle. A significant portion of your salary is automatically deducted for various loan repayments, leaving very little for your monthly expenses. To bridge this gap, you might take another small loan or use the "Minimum Due" option on your credit cards. This is a classic debt trap where you are essentially paying interest on interest, and your actual principal amount remains untouched.</p>
               <p>The rise of digital lending platforms has exacerbated this issue. These apps offer instant money but often hide exorbitant interest rates and predatory collection practices behind a polished interface. For a resident of Karnataka, breaking this cycle requires more than just better budgeting; it requires a strategic legal intervention. Negotiating a one-time settlement allows you to halt the interest growth and settle your debt for a fraction of the total outstanding amount.</p>
               <p>We work with clients to audit their entire debt portfolio, identifying which loans are the most toxic and which ones offer the best opportunities for significant waivers. By taking a holistic view of your finances, we help you regain control over your future in a way that is both legal and ethical.</p>
             </section>
 
             <section id="why-settle-karnataka" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl font-black mb-6">Why Choose Loan Settlement in Karnataka?</h2>
+              <h3 className="text-3xl font-black mb-6">Why Choose Loan Settlement in Karnataka?</h3>
               <p>Choosing to settle a loan is often seen as a last resort, but in many cases, it is the most pragmatic financial decision you can make. When your debt has become unsustainable, continuing to pay only the interest is a waste of your hard earned resources. A settlement provides a clean break, allowing you to close the account permanently and focus on rebuilding your financial life.</p>
               <p>In Karnataka, the banking sector is highly competitive. Banks would often prefer to recover a significant portion of the principal amount through a settlement rather than let the account turn into a complete loss or spend years in expensive litigation. Our role is to bridge the communication gap between you and the lender, presenting your financial hardship in a professional manner that maximizes your chances of a high waiver.</p>
               <p>Moreover, the legal systems in Karnataka are increasingly supportive of out of court settlements. Forums like Lok Adalats are regularly organized to ease the burden on traditional courts, providing a perfect opportunity for borrowers to settle their dues under judicial supervision. This ensures that your settlement is not just a verbal agreement but a legally binding document that protects you from future claims.</p>
             </section>
 
             <section id="kslsa-lok-adalat" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl font-black mb-6">The Powerful Role of KSLSA Lok Adalats</h2>
+              <h3 className="text-3xl font-black mb-6">The Powerful Role of KSLSA Lok Adalats</h3>
               <p>The Karnataka State Legal Services Authority (KSLSA) is one of the most efficient bodies in the country for facilitating debt settlements. They regularly organize "National Lok Adalats" across all districts of Karnataka, including the major civil courts in Bangalore, Mangaluru, and Belagavi. A Lok Adalat is essentially a "People's Court" where disputes are settled through mutual compromise.</p>
               <p>The beauty of a Lok Adalat settlement is its finality. Once an award is passed by the Lok Adalat bench, it has the same status as a civil court decree. It cannot be appealed in any other court, meaning the cloud of debt is lifted from your shoulders forever. There are no court fees for these sessions, and the process is far more informal and faster than a regular trial. Our legal team specializes in preparing our clients for these sessions, ensuring that all necessary hardship documentation is ready and that the bank's representatives are open to a fair compromise.</p>
               <p>For those living in cities like Mysore or Hubli, these Lok Adalats provide a local, accessible, and highly effective way to resolve banking disputes without the need for expensive lawyers or endless court dates. We have a consistent track record of helping our clients achieve waivers of 50% to 70% during these state organized sessions.</p>
             </section>
 
             <section id="karnataka-interest-laws" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl font-black mb-6">Understanding Karnataka State Interest Laws</h2>
+              <h3 className="text-3xl font-black mb-6">Understanding Karnataka State Interest Laws</h3>
               <p>When dealing with debt, it is crucial to know your regional protections. The Karnataka Prohibition of Charging Exorbitant Interest Act is a significant piece of legislation designed to protect borrowers from predatory lending. While this act is primarily used against informal moneylenders, the principles it embodies are vital in negotiations with any lender charging unfair rates.</p>
               <p>In many cases, borrowers in Karnataka find themselves harassed by "blade companies" or unregistered financiers who charge interest rates that are far above the legal limits. Our legal experts are well versed in these state specific regulations. We help you identify illegal interest components in your loan and use that information as leverage to secure a more favorable settlement. Knowing that you have the law on your side changes the dynamic of the negotiation from one of desperation to one of strength.</p>
               <p>Whether you have borrowed from a major nationalized bank or a local financier in central Karnataka, we ensure that your rights under both central and state laws are fully protected. No lender is allowed to operate outside the boundaries of the law, and we are here to make sure they don't.</p>
             </section>
 
             <section id="drt-bengaluru" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl font-black mb-6">Navigating the Debt Recovery Tribunal (DRT) in Bengaluru</h2>
+              <h3 className="text-3xl font-black mb-6">Navigating the Debt Recovery Tribunal (DRT) in Bengaluru</h3>
               <p>For borrowers with larger liabilities, particularly small business owners or those with high value personal loans, the case might move to the Debt Recovery Tribunal (DRT) located in Bengaluru. The DRT is a specialized judicial body designed for the speedy recovery of debts owed to banks and financial institutions. Receiving a notice from the DRT can be intimidating, as it often signals the start of aggressive recovery actions including the attachment of assets.</p>
               <p>However, the DRT process also includes mandatory provisions for settlement. Even at this advanced stage, a settlement is not just possible but often encouraged by the presiding officers to reduce the tribunal's backlog. We provide access to experienced DRT lawyers who understand the nuances of the Recovery of Debts and Bankruptcy Act. We help you file the necessary replies, challenge unfair claims, and move the matter toward a commercial settlement that protects your assets and your dignity.</p>
               <p>Our Bengaluru based legal consultants have extensive experience dealing with the DRT-1 and DRT-2 in the city. We understand the specific preferences of the various benches and use this knowledge to draft settlement proposals that are most likely to be accepted. Being proactive at the DRT stage is essential to prevent the loss of property and ensure a fair resolution.</p>
             </section>
 
             <section id="anti-harassment-shield" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl font-black mb-6">The SettleLoans Anti-Harassment Shield for Karnataka</h2>
+              <h3 className="text-3xl font-black mb-6">The SettleLoans Anti-Harassment Shield for Karnataka</h3>
               <p>One of the most distressing aspects of debt is the constant harassment from recovery agents. In Karnataka, we have seen numerous reports of agents using abusive language, calling employers, or showing up at odd hours. This behavior is a direct violation of the RBI guidelines on fair debt collection practices. The right to live with dignity is protected by the Constitution of India, and no debt gives a bank the right to harass you or your family.</p>
               <p>Our Anti-Harassment Shield is designed to put an immediate stop to these illegal tactics. Once you join our program, we issue formal legal notices to your lenders, informing them that you are now represented by counsel and that all further communication must be directed to our office. We also set up a communication redirection system that shields you from direct calls. Most importantly, we empower you with the knowledge of your rights, so you can stand firm against any agent who crosses the line.</p>
               <p>If agents continue to violate the law, we assist you in filing formal complaints with the Karnataka Police and the Banking Ombudsman. We believe that a respectful environment is necessary for a successful negotiation. By removing the stress of harassment, we allow you to focus on your recovery while we handle the difficult conversations with the banks.</p>
             </section>
 
             <section id="settlement-roadmap" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl font-black mb-6">Your 5-Step Roadmap to Freedom in Karnataka</h2>
+              <h3 className="text-3xl font-black mb-6">Your 5-Step Roadmap to Freedom in Karnataka</h3>
               <p>Becoming debt free is a structured process that requires patience and expertise. Our roadmap for Karnataka residents is built on years of successful settlements. The first step is a **Case Audit**, where we analyze your total debt, income, and hardship reasons. This allows us to create a realistic budget for your settlements. The second step is **Strategic Delay**, where we wait for the debt to reach the appropriate age for the bank to be willing to offer a significant waiver.</p>
               <p>The third step is **Active Negotiation**. Our team uses their relationships and past data to negotiate with the bank's settlement officers. We don't just ask for a discount; we present a compelling case based on your financial reality. The fourth step is **Legal Validation**, where we ensure that the settlement letter provided by the bank is authentic and covers all legal bases. We never advise a client to pay until we have a verified document in hand.</p>
               <p>The final step is **Account Closure**, where you make the payment and we help you secure the 'No Dues Certificate' (NDC). This certificate is your proof to the world that the debt is gone forever. This roadmap is designed to take the guesswork out of the process, providing you with a clear timeline and regular updates on your progress toward a debt free life.</p>
             </section>
 
             <section id="success-stories" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl font-black mb-8 text-center">Karnataka Success Stories: Reclaiming Lives</h2>
+              <h3 className="text-3xl font-black mb-8 text-center">Karnataka Success Stories: Reclaiming Lives</h3>
               <p className="text-center mb-8">We have helped over 1,100+ families across Karnataka regain their financial independence. Here are some of their stories.</p>
               <div className="grid md:grid-cols-2 gap-6 not-prose">
                 <div className="bg-white p-6 rounded-2xl border border-[#DEDEDE] shadow-sm hover:shadow-md transition-all">
                   <div className="flex items-center mb-4">
                     <div className="w-10 h-10 rounded-full bg-[#1F5EFF]/10 flex items-center justify-center font-bold text-[#1F5EFF] mr-3">S</div>
                     <div>
-                      <h3 className="font-bold">Suresh Gowda</h3>
+                      <h4 className="font-bold">Suresh Gowda</h4>
                       <p className="text-xs text-gray-500">JP Nagar, Bangalore</p>
                     </div>
                   </div>
@@ -348,7 +348,7 @@ export default function KarnatakaLoanSettlementPage() {
                   <div className="flex items-center mb-4">
                     <div className="w-10 h-10 rounded-full bg-[#1F5EFF]/10 flex items-center justify-center font-bold text-[#1F5EFF] mr-3">P</div>
                     <div>
-                      <h4 className="font-bold">Priyanka Hegde</h4>
+                      <h5 className="font-bold">Priyanka Hegde</h5>
                       <p className="text-xs text-gray-500">Mysuru, Karnataka</p>
                     </div>
                   </div>
@@ -359,28 +359,28 @@ export default function KarnatakaLoanSettlementPage() {
             </section>
 
             <section id="cibil-recovery" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl font-black mb-6">The CIBIL Recovery Plan: Life after Settlement</h2>
+              <h3 className="text-3xl font-black mb-6">The CIBIL Recovery Plan: Life after Settlement</h3>
               <p>One of the biggest fears borrowers have is that a settlement will permanently destroy their credit score. While it is true that your score will drop and the 'Settled' remark will appear on your CIBIL report, this is far from a permanent situation. In fact, many people in Bangalore and other cities have used a settlement as a fresh start to build a healthier credit profile than they ever had before.</p>
               <p>Our 'CIBIL Rebuilding Guide' provides you with a step by step plan to improve your score. Once your debts are settled, your debt to income ratio improves dramatically. After a cooling period of about 6 months, you can start with small secured credit lines, such as a credit card against a fixed deposit. By using these lines responsibly and paying on time, you generate fresh, positive data points for the credit bureaus. Within 18 to 24 months of consistent behavior, most our clients see their scores return to the 750+ range.</p>
               <p>A settlement is a damage control measure. It is a way to stop the bleeding of a failing financial situation. Once the bleeding stops, the healing can begin. We don't just leave you after the settlement; we provide the knowledge and tools you need to ensure that your credit life is better in the future than it was in the past.</p>
             </section>
 
             <section id="bank-specific-negotiation" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl font-black mb-6">Strategic Bank level Negotiation in Karnataka</h2>
+              <h3 className="text-3xl font-black mb-6">Strategic Bank level Negotiation in Karnataka</h3>
               <p>Negotiating with a major bank like ICICI, HDFC, or Canara Bank requires more than just a request; it requires a deep understanding of their internal hierarchy and settlement windows. Banks operate on cycles, and there are specific times of the year, such as the end of a financial quarter, when they are more motivated to settle accounts to meet their recovery targets. Our team in Karnataka monitors these cycles closely to time our proposals for maximum effect.</p>
               <p>Every bank has a different 'risk appetite' and a different threshold for waivers. For instance, a nationalized bank might have more formal bureaucratic requirements, while a private bank might be more flexible if offered a prompt lump sum payment. We use our vast database of past successful settlements to tailor our approach for each specific lender. This collective bargaining power gives you an advantage that no individual borrower can achieve on their own.</p>
               <p>We handle everything from the initial communication to the final verification of the settlement letter. Our goal is to ensure that the bank treats you with the respect you deserve as a customer, regardless of your current financial difficulties. By acting as your professional representative, we change the tone of the conversation from one of conflict to one of resolution.</p>
             </section>
 
             <section id="professional-transparency" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl font-black mb-6">Our Commitment to Professionalism and Transparency</h2>
+              <h3 className="text-3xl font-black mb-6">Our Commitment to Professionalism and Transparency</h3>
               <p>In the debt settlement industry, trust is the most valuable commodity. We understand that our clients are often at their most vulnerable when they reach out to us. That is why SettleLoans is built on a foundation of absolute transparency. We do not make unrealistic promises and we do not have any hidden charges. Our service fees are clearly outlined in our client agreement, and we only work on cases where we believe we can add significant value.</p>
               <p>Unlike many fly by night operators in the Bangalore market, we have a established legal presence and a team of professional consultants. We provide you with a dedicated case manager and a client portal where you can track the status of every negotiation in real time. This level of accountability is what sets us apart and has made us the highest rated debt settlement service in Southern India. Your journey to financial freedom should be built on clarity, not confusion.</p>
               <p>We invite you to experience the SettleLoans difference. Talk to us, understand your options, and let us help you build a plan to take back your life from the burden of debt. The road to recovery starts with a single, informed decision.</p>
             </section>
 
             <section id="faqs" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl font-black mb-8">Frequently Asked Questions</h2>
+              <h3 className="text-3xl font-black mb-8">Frequently Asked Questions</h3>
               <div className="space-y-4 not-prose">
                 {[
                   { q: "Is loan settlement legal in Karnataka?", a: "Yes, loan settlement is a 100% legal process in Karnataka, governed by the Indian Contract Act and supported by alternative dispute resolution mechanisms like Lok Adalats organized by the KSLSA." },
@@ -412,7 +412,7 @@ export default function KarnatakaLoanSettlementPage() {
             </section>
 
             <section className="mt-16 bg-[#1F5EFF] rounded-3xl p-10 text-center text-white shadow-2xl">
-              <h2 className="text-3xl md:text-4xl font-black mb-4">Start Your Debt Free Life in Karnataka Today</h2>
+              <h3 className="text-3xl md:text-4xl font-black mb-4">Start Your Debt Free Life in Karnataka Today</h3>
               <p className="mb-8 text-lg opacity-90 max-w-2xl mx-auto">Join the hundreds of families across Karnataka who have successfully settled their loans with us. Your journey to financial freedom is just one consultation away.</p>
               <Link href="/contact" className="inline-block bg-white text-[#1F5EFF] font-black py-4 px-12 rounded-xl hover:scale-105 transition-all text-xl shadow-lg">
                 Get Your Free Analysis

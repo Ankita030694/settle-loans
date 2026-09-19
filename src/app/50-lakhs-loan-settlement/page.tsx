@@ -312,42 +312,42 @@ export default function FiftyLakhsLoanSettlementPage() {
                         </section>
 
                         <section id="legal-protections" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">Legal Protections & Your Rights in High-Value Recovery</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">Legal Protections & Your Rights in High-Value Recovery</h3>
                             <p className="text-lg leading-relaxed mb-6">When dealing with a 50 lakh default, the legal machinery moves faster. However, Indian law provides robust protections to ensure that recovery is done with dignity and due process.</p>
                             <div className="space-y-6">
                                 <div className="bg-white p-6 rounded-xl border border-gray-200 shadow-sm">
-                                    <h3 className="font-extrabold text-[#2E2E2E] mb-2 text-lg">1. The 60-Day SARFAESI Notice (For Secured Loans)</h3>
+                                    <h4 className="font-extrabold text-[#2E2E2E] mb-2 text-lg">1. The 60-Day SARFAESI Notice (For Secured Loans)</h4>
                                     <p className="text-sm text-gray-600 leading-relaxed">If your 50 lakh loan is secured by property, the bank must issue a notice under Section 13(2) of the SARFAESI Act. You have a legal right to respond to this notice within 60 days. This response is a critical negotiation tool. A well-drafted legal reply can stop the bank from taking possession and force them to the settlement table.</p>
                                 </div>
                                 <div className="bg-white p-6 rounded-xl border border-gray-200 shadow-sm">
-                                    <h4 className="font-extrabold text-[#2E2E2E] mb-2 text-lg">2. Protection Against Recovery Harassment</h4>
+                                    <h5 className="font-extrabold text-[#2E2E2E] mb-2 text-lg">2. Protection Against Recovery Harassment</h5>
                                     <p className="text-sm text-gray-600 leading-relaxed">RBI guidelines strictly forbid recovery agents from using muscle power or psychological harassment for any loan amount. For 50 lakh cases, banks often use more 'sophisticated' pressure, but the rules remain the same: no calls after 7 PM, no contact with neighbors, and no threats. Any violation can be reported to the Banking Ombudsman.</p>
                                 </div>
                                 <div className="bg-white p-6 rounded-xl border border-gray-200 shadow-sm">
-                                    <h4 className="font-extrabold text-[#2E2E2E] mb-2 text-lg">3. Right to a Fair Valuation</h4>
+                                    <h5 className="font-extrabold text-[#2E2E2E] mb-2 text-lg">3. Right to a Fair Valuation</h5>
                                     <p className="text-sm text-gray-600 leading-relaxed">If the bank attempts to auction your assets to recover the 50 lakhs, they must perform a fair market valuation. If they try to sell your 80-lakh property for 40 lakhs just to close their dues, you can challenge the auction in the Debt Recovery Tribunal (DRT).</p>
                                 </div>
                             </div>
                         </section>
 
                         <section id="business-impact" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">Impact on Business Continuity & Corporate Credit</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">Impact on Business Continuity & Corporate Credit</h3>
                             <p className="text-lg leading-relaxed mb-6">For business owners, a 50 lakh default affects more than just a personal credit score. it can ripple through your entire corporate ecosystem.</p>
                             <div className="bg-[#2E2E2E] text-white p-8 rounded-2xl mb-8">
-                                <h3 className="text-xl font-bold mb-4 italic">"Can my business survive a 50 lakh settlement?"</h3>
+                                <h4 className="text-xl font-bold mb-4 italic">"Can my business survive a 50 lakh settlement?"</h4>
                                 <p className="mb-4 opacity-80">Yes, but you must decouple your personal default from your business operations where possible. A settlement will lead to a 'Settled' remark on your personal CIBIL, which will make it difficult for your business to get fresh credit lines in your name for 2 to 3 years.</p>
                                 <p className="opacity-80">Smart business owners use the settlement period to move toward a 'Cash-and-Carry' model or seek investment that doesn't rely solely on their personal creditworthiness.</p>
                             </div>
                         </section>
 
                         <section id="financial-reconstruction" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">Rebuilding After a 50 Lakh Settlement</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">Rebuilding After a 50 Lakh Settlement</h3>
                             <p className="text-lg leading-relaxed mb-6">Closing a 50 lakh debt for, say, 20 lakhs provides immense relief, but the journey to financial health is just beginning. The first step is to ensure that the bank updates the status to 'Settled' and issues a clear No Dues Certificate (NDC).</p>
                             <p className="text-lg leading-relaxed mb-6">To rebuild your score after such a large write-off, you should avoid applying for any new loans for at least 24 months. Instead, focus on small 'Secured Credit Cards' backed by fixed deposits. Over time, these small positive entries will dilute the negative impact of the 50 lakh settlement.</p>
                         </section>
 
                         <section id="success-stories" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 text-center">Real Stories of Freedom</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 text-center">Real Stories of Freedom</h3>
                             <div className="grid md:grid-cols-2 gap-6 not-prose">
                                 {[
                                     {
@@ -385,7 +385,7 @@ export default function FiftyLakhsLoanSettlementPage() {
                                                 {review.name.charAt(0)}
                                             </div>
                                             <div>
-                                                <h3 className="font-bold text-[#2E2E2E]">{review.name}</h3>
+                                                <h4 className="font-bold text-[#2E2E2E]">{review.name}</h4>
                                                 <p className="text-xs text-gray-400">{review.loc}</p>
                                             </div>
                                             <div className="ml-auto text-yellow-400 text-sm">★★★★★</div>
@@ -400,7 +400,7 @@ export default function FiftyLakhsLoanSettlementPage() {
                         </section>
 
                         <section id="documentation-checklist" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">The 10-Step Documentation Checklist for 50 Lakhs Settlement</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">The 10-Step Documentation Checklist for 50 Lakhs Settlement</h3>
                             <p className="text-lg leading-relaxed mb-6">Preparation is 90% of the work. If you walk into a 50 lakh negotiation without these documents, the bank will assume you have the 'Ability to Pay' but lack the 'Intent to Pay'.</p>
                             <div className="bg-gray-50 p-8 rounded-2xl border border-gray-200">
                                 <ul className="space-y-4">
@@ -449,10 +449,10 @@ export default function FiftyLakhsLoanSettlementPage() {
                         </section>
 
                         <section id="psychological-fortress" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">The Psychological Fortress: Managing the Stress of 50 Lakhs Debt</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">The Psychological Fortress: Managing the Stress of 50 Lakhs Debt</h3>
                             <p className="text-lg leading-relaxed mb-6">A 50 lakh debt is not just a financial number; it is a psychological burden that can affect your sleep, health, and family relationships. Constant calls from senior recovery managers and the fear of legal action can lead to chronic anxiety.</p>
                             <div className="bg-blue-50 p-8 rounded-2xl border border-blue-100 mb-8">
-                                <h3 className="text-xl font-bold mb-4">Mental Strategies for the High-Value Borrower</h3>
+                                <h4 className="text-xl font-bold mb-4">Mental Strategies for the High-Value Borrower</h4>
                                 <ul className="space-y-4">
                                     <li className="flex items-start gap-3 italic">
                                         <span className="text-blue-600 font-bold">•</span>
@@ -471,7 +471,7 @@ export default function FiftyLakhsLoanSettlementPage() {
                         </section>
 
                         <section id="ots-vs-cdr" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">OTS vs. CDR: Which Path is Right for 50 Lakhs?</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">OTS vs. CDR: Which Path is Right for 50 Lakhs?</h3>
                             <p className="text-lg leading-relaxed mb-6">For amounts of 50 lakhs and above, you have two primary resolution paths: One-Time Settlement (OTS) or Corporate Debt Restructuring (CDR/Rescheduling).</p>
                             <div className="overflow-x-auto mb-10">
                                 <table className="w-full border-collapse border border-gray-200 text-sm">
@@ -509,73 +509,73 @@ export default function FiftyLakhsLoanSettlementPage() {
                         </section>
 
                         <section id="faqs" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight text-center">Comprehensive 50 Lakhs Settlement FAQ</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight text-center">Comprehensive 50 Lakhs Settlement FAQ</h3>
                             <div className="space-y-6">
                                 <div className="p-8 bg-white rounded-2xl border border-gray-200 shadow-sm">
-                                    <h3 className="font-black text-[#2E2E2E] mb-4 text-xl border-b pb-2 border-[#1F5EFF]/20">1. Does the 50 lakh threshold mean the bank will definitely go to DRT?</h3>
+                                    <h4 className="font-black text-[#2E2E2E] mb-4 text-xl border-b pb-2 border-[#1F5EFF]/20">1. Does the 50 lakh threshold mean the bank will definitely go to DRT?</h4>
                                     <p className="text-gray-600 leading-relaxed text-lg">Not necessarily. The Debt Recovery Tribunal (DRT) is usually the last resort. Banks prefer to settle high-value debts out of court because legal proceedings in India can take 5 to 10 years, and the bank must pay heavy legal fees upfront. A settlement is often 'cheaper' for them than a court win a decade later.</p>
                                 </div>
                                 <div className="p-8 bg-white rounded-2xl border border-gray-200 shadow-sm">
-                                    <h4 className="font-black text-[#2E2E2E] mb-4 text-xl border-b pb-2 border-[#1F5EFF]/20">2. How do I initiate a 50 lakh settlement offer formally?</h4>
+                                    <h5 className="font-black text-[#2E2E2E] mb-4 text-xl border-b pb-2 border-[#1F5EFF]/20">2. How do I initiate a 50 lakh settlement offer formally?</h5>
                                     <p className="text-gray-600 leading-relaxed text-lg">You must send a formal 'Settlement Proposal' via Registered Post or Email to the Nodal Officer of the bank. This letter should detail your loan account number, current financial hardship, a proposed settlement amount, and a clear payment timeline.</p>
                                 </div>
                                 <div className="p-8 bg-white rounded-2xl border border-gray-200 shadow-sm">
-                                    <h4 className="font-black text-[#2E2E2E] mb-4 text-xl border-b pb-2 border-[#1F5EFF]/20">3. Can I settle a 50 lakh credit card debt?</h4>
+                                    <h5 className="font-black text-[#2E2E2E] mb-4 text-xl border-b pb-2 border-[#1F5EFF]/20">3. Can I settle a 50 lakh credit card debt?</h5>
                                     <p className="text-gray-600 leading-relaxed text-lg">Yes. Credit card debt is 100% unsecured. For high-value card defaults like 50 lakhs (common for entrepreneurs using cards for business), banks are often very aggressive initially but highly flexible eventually, as there is zero collateral to recover.</p>
                                 </div>
                                 <div className="p-8 bg-white rounded-2xl border border-gray-200 shadow-sm">
-                                    <h4 className="font-black text-[#2E2E2E] mb-4 text-xl border-b pb-2 border-[#1F5EFF]/20">4. What is the role of a Debt Settlement Advocate?</h4>
+                                    <h5 className="font-black text-[#2E2E2E] mb-4 text-xl border-b pb-2 border-[#1F5EFF]/20">4. What is the role of a Debt Settlement Advocate?</h5>
                                     <p className="text-gray-600 leading-relaxed text-lg">An advocate provides a legal shield. They communicate with the bank on your behalf, ensuring that you are not harassed. They also help draft the 'Restructuring Settlement' terms to ensure you don't fall into a trap of recurring penalties.</p>
                                 </div>
                                 <div className="p-8 bg-white rounded-2xl border border-gray-200 shadow-sm">
-                                    <h4 className="font-black text-[#2E2E2E] mb-4 text-xl border-b pb-2 border-[#1F5EFF]/20">5. Can the bank attach my salary for a 50 lakh default?</h4>
+                                    <h5 className="font-black text-[#2E2E2E] mb-4 text-xl border-b pb-2 border-[#1F5EFF]/20">5. Can the bank attach my salary for a 50 lakh default?</h5>
                                     <p className="text-gray-600 leading-relaxed text-lg">Only through a court order. If the bank secures an 'Attachment Order' from a civil court, a portion of your salary can be diverted to debt repayment. However, this is a long legal road, and initiating a settlement early usually prevents this stage.</p>
                                 </div>
                                 <div className="p-8 bg-white rounded-2xl border border-gray-200 shadow-sm">
-                                    <h4 className="font-black text-[#2E2E2E] mb-4 text-xl border-b pb-2 border-[#1F5EFF]/20">6. Does a 50 lakh settlement impact my chances of going abroad?</h4>
+                                    <h5 className="font-black text-[#2E2E2E] mb-4 text-xl border-b pb-2 border-[#1F5EFF]/20">6. Does a 50 lakh settlement impact my chances of going abroad?</h5>
                                     <p className="text-gray-600 leading-relaxed text-lg">Generally, no. Debt is a civil matter and does not restrict travel. Restrictions only apply if the bank has filed a criminal case (fraud) and obtained a 'Lookout Notice' from a court, which is extremely rare for simple defaults.</p>
                                 </div>
                                 <div className="p-8 bg-white rounded-2xl border border-gray-200 shadow-sm">
-                                    <h4 className="font-black text-[#2E2E2E] mb-4 text-xl border-b pb-2 border-[#1F5EFF]/20">7. What happens if I miss a settlement installment?</h4>
+                                    <h5 className="font-black text-[#2E2E2E] mb-4 text-xl border-b pb-2 border-[#1F5EFF]/20">7. What happens if I miss a settlement installment?</h5>
                                     <p className="text-gray-600 leading-relaxed text-lg">This is high-risk. If you miss an installment of a 50 lakh settlement, the agreement usually stands cancelled, and the bank reverts to the original full amount plus penalties. Always ensure you have the funds liquid before signing the agreement.</p>
                                 </div>
                                 <div className="p-8 bg-white rounded-2xl border border-gray-200 shadow-sm">
-                                    <h4 className="font-black text-[#2E2E2E] mb-4 text-xl border-b pb-2 border-[#1F5EFF]/20">8. How do I know the bank manager isn't lying about the settlement?</h4>
+                                    <h5 className="font-black text-[#2E2E2E] mb-4 text-xl border-b pb-2 border-[#1F5EFF]/20">8. How do I know the bank manager isn't lying about the settlement?</h5>
                                     <p className="text-gray-600 leading-relaxed text-lg">Only trust your eyes. A valid settlement offer will be on the bank's letterhead, signed by an authorized signatory (Manager/AGM/ZM), and will contain a unique reference number. Verify this by visiting the branch or checking via official email.</p>
                                 </div>
                                 <div className="p-8 bg-white rounded-2xl border border-gray-200 shadow-sm">
-                                    <h4 className="font-black text-[#2E2E2E] mb-4 text-xl border-b pb-2 border-[#1F5EFF]/20">9. Ratio of Principal to Interest in a 50 Lakh Settlement?</h4>
+                                    <h5 className="font-black text-[#2E2E2E] mb-4 text-xl border-b pb-2 border-[#1F5EFF]/20">9. Ratio of Principal to Interest in a 50 Lakh Settlement?</h5>
                                     <p className="text-gray-600 leading-relaxed text-lg">Banks are often willing to waive 100% of the penal interest and a large portion of the standard interest. For 50 lakhs, you should fight to keep the total payment as close to the original principal (the amount you actually took) as possible.</p>
                                 </div>
                                 <div className="p-8 bg-white rounded-2xl border border-gray-200 shadow-sm">
-                                    <h4 className="font-black text-[#2E2E2E] mb-4 text-xl border-b pb-2 border-[#1F5EFF]/20">10. Can I settle with an NBFC more easily than a Bank?</h4>
+                                    <h5 className="font-black text-[#2E2E2E] mb-4 text-xl border-b pb-2 border-[#1F5EFF]/20">10. Can I settle with an NBFC more easily than a Bank?</h5>
                                     <p className="text-gray-600 leading-relaxed text-lg">NBFCs (Non-Banking Financial Companies) often have more flexible decision-making hierarchies than public sector banks. They might agree to a settlement faster, but they might also use more aggressive recovery tactics initially. Negotiation is effective with both.</p>
                                 </div>
                                 <div className="p-8 bg-white rounded-2xl border border-gray-200 shadow-sm">
-                                    <h4 className="font-black text-[#2E2E2E] mb-4 text-xl border-b pb-2 border-[#1F5EFF]/20">11. What if my 50 lakh loan is from multiple lenders?</h4>
+                                    <h5 className="font-black text-[#2E2E2E] mb-4 text-xl border-b pb-2 border-[#1F5EFF]/20">11. What if my 50 lakh loan is from multiple lenders?</h5>
                                     <p className="text-gray-600 leading-relaxed text-lg">This is 'Multi-Bank Stress'. You should ideally settle with each lender individually, but start with the one who is being most 'hostile' or the one where you have the largest exposure. Professional debt consolidation and settlement consultants specialize in these 'Multi-Lender' scenarios.</p>
                                 </div>
                                 <div className="p-8 bg-white rounded-2xl border border-gray-200 shadow-sm">
-                                    <h4 className="font-black text-[#2E2E2E] mb-4 text-xl border-b pb-2 border-[#1F5EFF]/20">12. Does Lok Adalat help with 50 lakh settlements?</h4>
+                                    <h5 className="font-black text-[#2E2E2E] mb-4 text-xl border-b pb-2 border-[#1F5EFF]/20">12. Does Lok Adalat help with 50 lakh settlements?</h5>
                                     <p className="text-gray-600 leading-relaxed text-lg">Yes. Lok Adalat is an excellent forum for high-value settlements. Since it is presided over by a judge or a senior legal expert, the bank is forced to make a reasonable offer. Settlement awards from Lok Adalat have the same force as a court decree.</p>
                                 </div>
                                 <div className="p-8 bg-white rounded-2xl border border-gray-200 shadow-sm">
-                                    <h4 className="font-black text-[#2E2E2E] mb-4 text-xl border-b pb-2 border-[#1F5EFF]/20">13. Can the bank take my retirement funds (PF/Gratuity) for 50 lakhs?</h4>
+                                    <h5 className="font-black text-[#2E2E2E] mb-4 text-xl border-b pb-2 border-[#1F5EFF]/20">13. Can the bank take my retirement funds (PF/Gratuity) for 50 lakhs?</h5>
                                     <p className="text-gray-600 leading-relaxed text-lg">Generally, retirement funds like PF and pension are legally protected from attachment by banks. However, many borrowers choose to 'volunteer' these funds to secure a life-changing settlement and end the legal harassment.</p>
                                 </div>
                                 <div className="p-8 bg-white rounded-2xl border border-gray-200 shadow-sm">
-                                    <h4 className="font-black text-[#2E2E2E] mb-4 text-xl border-b pb-2 border-[#1F5EFF]/20">14. Is it possible to settle a 50 lakh loan in 10%?</h4>
+                                    <h5 className="font-black text-[#2E2E2E] mb-4 text-xl border-b pb-2 border-[#1F5EFF]/20">14. Is it possible to settle a 50 lakh loan in 10%?</h5>
                                     <p className="text-gray-600 leading-relaxed text-lg">For a 50 lakh loan, a 10% settlement (paying 5 lakhs) is extremely rare and usually only happens in 'Zombie Debt' scenarios (debts very old, past statute of limitations). A realistic range is 30% to 60%.</p>
                                 </div>
                                 <div className="p-8 bg-white rounded-2xl border border-gray-200 shadow-sm">
-                                    <h4 className="font-black text-[#2E2E2E] mb-4 text-xl border-b pb-2 border-[#1F5EFF]/20">15. How do I get my property back after a 50 lakh settlement?</h4>
+                                    <h5 className="font-black text-[#2E2E2E] mb-4 text-xl border-b pb-2 border-[#1F5EFF]/20">15. How do I get my property back after a 50 lakh settlement?</h5>
                                     <p className="text-gray-600 leading-relaxed text-lg">Once the final settlement payment is made, the bank will issue a 'Release Deed' or 'Deed of Reconveyance'. They must return your original property documents and update the CERSAI registry to show that the charge on the property has been removed.</p>
                                 </div>
                             </div>
                         </section>
 
                         <section className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">Conclusion: Your Roadmap to Freedom from 50 Lakhs</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">Conclusion: Your Roadmap to Freedom from 50 Lakhs</h3>
                             <p className="text-lg leading-relaxed mb-6">A 50 lakh loan default is a crossroad, not a dead end. Whether your debt is the result of a failed business venture or a personal crisis, the law and the financial system provide paths for resolution. By choosing a strategic settlement, you are taking the first step toward a clean slate.</p>
                             <div className="bg-[#1F5EFF]/5 p-8 rounded-2xl border border-[#1F5EFF]/20 text-center">
                                 <p className="text-xl font-bold text-[#2E2E2E] mb-6 tracking-tight">Don't navigate the high-value committee approval maze alone. Get the legal shield you deserve.</p>
@@ -586,19 +586,19 @@ export default function FiftyLakhsLoanSettlementPage() {
                         </section>
 
                         <section id="hardship-case" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
                                 Building the High-Value Hardship Portfolio
-                            </h2>
+                            </h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 At the 50 lakh level, a simple letter isn't enough. You need to prove, through data, that paying the full amount is a mathematical impossibility. This requires a 'Hardship Portfolio'.
                             </p>
                             <div className="grid md:grid-cols-2 gap-8 mb-12">
                                 <div className="bg-white p-8 rounded-2xl border border-[#DEDEDE] shadow-sm">
-                                    <h3 className="text-xl font-bold text-[#1F5EFF] mb-4">Financial Transparency</h3>
+                                    <h4 className="text-xl font-bold text-[#1F5EFF] mb-4">Financial Transparency</h4>
                                     <p className="text-sm leading-relaxed text-gray-700">Provide audited balance sheets (for business loans) or detailed salary slips showing the decline. Include 12 months of bank statements to show the lack of liquidity. Every bounced cheque entry in your statement is actually a plus point here, as it proves financial distress.</p>
                                 </div>
                                 <div className="bg-white p-8 rounded-2xl border border-[#DEDEDE] shadow-sm">
-                                    <h3 className="text-xl font-bold text-[#1F5EFF] mb-4">Medical & Personal Documentation</h3>
+                                    <h4 className="text-xl font-bold text-[#1F5EFF] mb-4">Medical & Personal Documentation</h4>
                                     <p className="text-sm leading-relaxed text-gray-700">If medical crisis caused the default, provide extensive hospital records, discharge summaries, and ongoing costs. At this scale, even the bank managers are human and will consider compassionate grounds if the documentation is undeniable.</p>
                                 </div>
                             </div>
@@ -608,11 +608,11 @@ export default function FiftyLakhsLoanSettlementPage() {
                         </section>
 
                         <section id="negotiation-strategy" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">Mastering the Negotiation: Strategic Tactics for 50 Lakhs</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">Mastering the Negotiation: Strategic Tactics for 50 Lakhs</h3>
                             <p className="text-lg leading-relaxed mb-6">Negotiating a 50 lakh debt is a marathon of communication. It is a structured dialogue where the person who stays calmest and best-informed usually wins.</p>
                             <div className="space-y-8">
                                 <div className="bg-white p-8 rounded-2xl border border-[#DEDEDE] shadow-sm relative overflow-hidden">
-                                    <h3 className="text-2xl font-bold text-[#1F5EFF] mb-4">The 'Net Present Value' (NPV) Approach</h3>
+                                    <h4 className="text-2xl font-bold text-[#1F5EFF] mb-4">The 'Net Present Value' (NPV) Approach</h4>
                                     <p className="mb-4 text-gray-700">
                                         Banks are mathematically driven. When you offer, for example, 25 lakhs today instead of 50 lakhs over 5 years through legal proceedings, you must present it in terms of NPV. Explain to them that 25 lakhs in their hands today, which they can relend at interest, is worth more than a slow, uncertain recovery through the courts.
                                     </p>
@@ -622,7 +622,7 @@ export default function FiftyLakhsLoanSettlementPage() {
                                 </div>
 
                                 <div className="bg-white p-8 rounded-2xl border border-[#DEDEDE] shadow-sm relative overflow-hidden">
-                                    <h3 className="text-2xl font-bold text-[#1F5EFF] mb-4">The Multi-Tier Offer Strategy</h3>
+                                    <h4 className="text-2xl font-bold text-[#1F5EFF] mb-4">The Multi-Tier Offer Strategy</h4>
                                     <p className="mb-4 text-gray-700">
                                         Never start with your final amount. If you can afford to pay 30 lakhs, start your first formal offer at 15 lakhs. This allows for several rounds of back-and-forth negotiation. Each round should be accompanied by a small increase in your offer and a reinforcing piece of hardship evidence.
                                     </p>
@@ -632,7 +632,7 @@ export default function FiftyLakhsLoanSettlementPage() {
                                 </div>
 
                                 <div className="bg-white p-8 rounded-2xl border border-[#DEDEDE] shadow-sm relative overflow-hidden">
-                                    <h3 className="text-2xl font-bold text-[#1F5EFF] mb-4">The 'Staggered One-Time' Settlement</h3>
+                                    <h4 className="text-2xl font-bold text-[#1F5EFF] mb-4">The 'Staggered One-Time' Settlement</h4>
                                     <p className="mb-4 text-gray-700">
                                         While it sounds like a contradiction, for large sums like 50 lakhs, banks often agree to a 'One-Time Settlement' paid in 3 to 6 monthly installments. This provides you with the time to arrange funds from family, assets, or business liquidation while securing the legal finality of a settlement.
                                     </p>
@@ -641,19 +641,19 @@ export default function FiftyLakhsLoanSettlementPage() {
                         </section>
 
                         <section id="secured-vs-unsecured" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Secured vs. Unsecured: How the Type of Debt Changes Your 50 Lakh Strategy</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Secured vs. Unsecured: How the Type of Debt Changes Your 50 Lakh Strategy</h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 At the 50 lakh level, whether your loan is secured or unsecured completely changes your legal standing and your settlement leverage.
                             </p>
                             <div className="space-y-8">
                                 <div className="bg-white p-8 rounded-2xl border border-[#DEDEDE] shadow-sm border-l-4 border-l-red-500">
-                                    <h3 className="text-2xl font-bold text-[#2E2E2E] mb-4 text-red-600">Unsecured Loans & High-Value Credit Lines</h3>
+                                    <h4 className="text-2xl font-bold text-[#2E2E2E] mb-4 text-red-600">Unsecured Loans & High-Value Credit Lines</h4>
                                     <p className="mb-4 text-gray-700">
                                         This is where you have the highest leverage. For an unsecured debt of 50 lakhs, the bank's primary recovery tool is a civil suit or a Section 138 case (if cheques bounced). Both are lengthy processes. Consequently, banks are often willing to settle unsecured debts for as little as 30% to 50% of the total amount if they believe your hardship is genuine.
                                     </p>
                                 </div>
                                 <div className="bg-white p-8 rounded-2xl border border-[#DEDEDE] shadow-sm border-l-4 border-l-blue-500">
-                                    <h3 className="text-2xl font-bold text-[#2E2E2E] mb-4 text-blue-600">Secured Loans (LAP, Business Property, Machinery)</h3>
+                                    <h4 className="text-2xl font-bold text-[#2E2E2E] mb-4 text-blue-600">Secured Loans (LAP, Business Property, Machinery)</h4>
                                     <p className="mb-4 text-gray-700">
                                         Here, the power dynamic shifts toward the bank because they hold an asset. Under the SARFAESI Act, banks can take possession of the property after a 60-day notice. Settlement for secured loans is much harder and usually involves paying at least the full principal amount. Your focus should be on 'Loan Restructuring' or 'Managed Asset Sale' rather than deep-discount settlements.
                                     </p>

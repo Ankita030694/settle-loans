@@ -249,12 +249,12 @@ export default function PoliceCaseCardDebtPage() {
                         </section>
 
                         <section id="criminal-intimidation" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">The Truth About Police and Recovery Agents</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">The Truth About Police and Recovery Agents</h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 Many recovery agents masquerade as police officers or use fake police station addresses to intimidate borrowers. It is vital to remember: <strong>Recovery agents are not law enforcement officials.</strong> They have zero authority to summon you to a police station, arrest you, or seize your property without a court order.
                             </p>
                             <div className="bg-red-50 p-8 rounded-xl border border-red-100 mb-8">
-                                <h3 className="text-xl font-bold text-red-800 mb-4 uppercase">Detecting Fake Police Threats</h3>
+                                <h4 className="text-xl font-bold text-red-800 mb-4 uppercase">Detecting Fake Police Threats</h4>
                                 <ul className="space-y-4 text-sm text-red-900/80">
                                     <li>• <strong>WhatsApp Notices:</strong> No genuine police notice will come via WhatsApp with emojis or aggressive language.</li>
                                     <li>• <strong>Lack of FIR Number:</strong> If they claim an FIR is filed, demand the FIR number and the name of the police station. You can verify this online on the state's CCTNS portal.</li>
@@ -264,12 +264,12 @@ export default function PoliceCaseCardDebtPage() {
                         </section>
 
                         <section id="fighting-back" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">Turning the Tables: IPC Sections 503 & 506</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">Turning the Tables: IPC Sections 503 & 506</h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 If a recovery agent crosses the line into threats, abuse, or physical intimidation, <strong>they are the ones committing a crime.</strong> You have the legal right to file a police complaint against the agent and the bank.
                             </p>
                             <div className="bg-blue-50 p-8 rounded-2xl border border-blue-200 mb-8">
-                                <h3 className="text-xl font-bold text-blue-900 mb-4">Your Legal Weapons:</h3>
+                                <h4 className="text-xl font-bold text-blue-900 mb-4">Your Legal Weapons:</h4>
                                 <ul className="space-y-4 text-sm text-blue-800">
                                     <li>• <strong>Section 503 IPC (Criminal Intimidation):</strong> Applies when someone threatens to injure your person, reputation, or property.</li>
                                     <li>• <strong>Section 506 IPC:</strong> Punishment for criminal intimidation (up to 2 years imprisonment).</li>
@@ -279,7 +279,7 @@ export default function PoliceCaseCardDebtPage() {
                         </section>
 
                         <section id="vicarious-liability" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">Banks are Responsible: Vicarious Liability</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">Banks are Responsible: Vicarious Liability</h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 The Supreme Court of India holds <strong>banks vicariously liable</strong> for the criminal acts of their recovery agents. A bank cannot distance itself from an agent who uses muscle power.
                             </p>
@@ -291,12 +291,12 @@ export default function PoliceCaseCardDebtPage() {
                         </section>
 
                         <section id="pss-act" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">Electronic Default: Section 25 PSS Act</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">Electronic Default: Section 25 PSS Act</h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 Most credit card payments are now linked to <strong>NACH or ECS (auto-debit)</strong>. If an auto-debit fails due to insufficient funds, the bank can move under <strong>Section 25 of the Payment and Settlement Systems Act, 2007</strong>.
                             </p>
                             <div className="bg-amber-50 p-8 rounded-2xl border border-amber-200 mb-8">
-                                <h3 className="text-xl font-bold text-amber-800 mb-4 tracking-tight">Crucial Legal Distinction:</h3>
+                                <h4 className="text-xl font-bold text-amber-800 mb-4 tracking-tight">Crucial Legal Distinction:</h4>
                                 <p className="text-sm text-amber-900/80 leading-relaxed">
                                     While technically a criminal offense similar to a cheque bounce, Section 25 cases are <strong>Bailable.</strong> The police cannot arrest you without a bailable warrant issued by a Magistrate. Most importantly, it is an offense only if you ignore the legal notice sent after the bounce.
                                 </p>
@@ -304,7 +304,7 @@ export default function PoliceCaseCardDebtPage() {
                         </section>
 
                         <section id="mental-health" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">The Psychological Toll: You Are Not Alone</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">The Psychological Toll: You Are Not Alone</h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 Debt harassment can be draining. If you're feeling overwhelmed, remember that <strong>financial failure is temporary.</strong> Organizations like AASRA or Tele-MANAS offer 24/7 free emotional support.
                             </p>
@@ -314,7 +314,7 @@ export default function PoliceCaseCardDebtPage() {
                         </section>
 
                         <section id="stopping-harassment" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">How to Stop Harassment within 24 Hours</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">How to Stop Harassment within 24 Hours</h3>
                             <p className="mb-6 text-lg leading-relaxed">Take these 3 steps immediately:</p>
                             <ol className="space-y-4">
                                 <li className="p-6 bg-white rounded-xl border border-gray-200 shadow-sm">
@@ -330,22 +330,22 @@ export default function PoliceCaseCardDebtPage() {
                         </section>
 
                         <section id="lawsuit-truth" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">The Reality of Lawsuits: Why Banks Rarely Sue for Small Dues</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">The Reality of Lawsuits: Why Banks Rarely Sue for Small Dues</h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 Recovery agents often use the threat of a "Civil Suit" or "Summons" to create a sense of impending doom. While banks certainly have the right to sue for recovery, the practical reality of the Indian judicial system often works in the borrower's favor. Filing a lawsuit for a credit card debt, especially one under 2 to 3 lakhs, is often not cost-effective for a bank.
                             </p>
                             <div className="bg-gray-50 p-8 rounded-2xl border border-gray-200 mb-8 shadow-inner">
-                                <h3 className="text-xl font-bold mb-6 text-gray-800 flex items-center">
+                                <h4 className="text-xl font-bold mb-6 text-gray-800 flex items-center">
                                     <span className="w-8 h-8 bg-[#1F5EFF] text-white rounded-full flex items-center justify-center mr-3 text-sm">!</span>
                                     The Bank's Internal Decision Matrix
-                                </h3>
+                                </h4>
                                 <div className="grid md:grid-cols-2 gap-8">
                                     <div className="space-y-4">
-                                        <h4 className="font-bold text-[#2E2E2E] border-b-2 border-red-200 pb-2">The Litigation Path (Rare)</h4>
+                                        <h5 className="font-bold text-[#2E2E2E] border-b-2 border-red-200 pb-2">The Litigation Path (Rare)</h5>
                                         <p className="text-sm text-gray-600">The bank hires a lawyer, pays court fees, and waits 3 to 5 years for a judgment. Even if they win, if the borrower has no assets, the "Decree" is just a piece of paper. The bank's cost of recovery often exceeds the debt itself.</p>
                                     </div>
                                     <div className="space-y-4">
-                                        <h4 className="font-bold text-[#2E2E2E] border-b-2 border-green-200 pb-2">The Settlement Path (95% Cases)</h4>
+                                        <h5 className="font-bold text-[#2E2E2E] border-b-2 border-green-200 pb-2">The Settlement Path (95% Cases)</h5>
                                         <p className="text-sm text-gray-600">The bank agrees to accept a lump sum (often 30% to 50% of the principal) and closes the file immediately. This improves the bank's liquidity and clears their Balance Sheet of "Bad Loans" or NPAs instantly.</p>
                                     </div>
                                 </div>
@@ -356,7 +356,7 @@ export default function PoliceCaseCardDebtPage() {
                         </section>
 
                         <section id="success-stories" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 text-center uppercase">Real Stories of Legal Freedom</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 text-center uppercase">Real Stories of Legal Freedom</h3>
                             <div className="grid md:grid-cols-2 gap-6 not-prose">
                                 {[
                                     {
@@ -380,7 +380,7 @@ export default function PoliceCaseCardDebtPage() {
                                                 {review.name.charAt(0)}
                                             </div>
                                             <div>
-                                                <h3 className="font-bold text-[#2E2E2E]">{review.name}</h3>
+                                                <h4 className="font-bold text-[#2E2E2E]">{review.name}</h4>
                                                 <p className="text-xs text-gray-400">{review.loc}</p>
                                             </div>
                                             <div className="ml-auto text-yellow-400 text-sm">★★★★★</div>
@@ -395,7 +395,7 @@ export default function PoliceCaseCardDebtPage() {
                         </section>
 
                         <section id="faqs" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 uppercase text-center">Frequently Asked Questions</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 uppercase text-center">Frequently Asked Questions</h3>
                             <div className="space-y-4 not-prose">
                                 {[
                                     { q: "Can a bank file an FIR for credit card default?", a: "Generally, no. Default is civil. An FIR can only be filed if you committed fraud; like using fake documents to get the card." },

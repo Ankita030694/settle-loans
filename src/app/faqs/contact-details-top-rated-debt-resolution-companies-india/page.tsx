@@ -186,7 +186,7 @@ export default function ContactDetailsFAQ() {
                                 This comprehensive directory is designed to be the definitive resource for every Indian borrower. We have meticulously compiled and verified the official phone numbers, email addresses, and corporate headquarters of the nation's top-rated debt resolution providers. Whether you are dealing with aggressive recovery agents in Mumbai or seeking legal advice for a business loan in Bangalore, this guide ensures you are connecting with legitimate, registered professionals.
                             </p>
                             <div className="bg-blue-50 p-8 rounded-2xl border-l-4 border-blue-500 mb-8">
-                                <h3 className="text-lg font-bold text-blue-900 mb-4">A Warning on Unofficial Channels</h3>
+                                <h4 className="text-lg font-bold text-blue-900 mb-4">A Warning on Unofficial Channels</h4>
                                 <p className="text-blue-800">
                                     A common tactic used by fraudulent actors is to post "hotline" numbers in the comments section of YouTube videos or Facebook posts related to loan settlement. These numbers almost always lead to scammers. Always refer to this central directory or the official website of the service provider before sharing any sensitive financial data.
                                 </p>
@@ -194,9 +194,9 @@ export default function ContactDetailsFAQ() {
                         </section>
 
                         <section id="why-verified" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                                 Why Verified Contacts are Your First Line of Defense
-                            </h2>
+                            </h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 Verification is not just a formality; it is a security necessity. When you contact a debt resolution firm, you are sharing intimate details of your financial life-your income, your defaults, your PAN records, and your bank statements. In the wrong hands, this information can be weaponized for identity theft or targeted extortion.
                             </p>
@@ -205,48 +205,48 @@ export default function ContactDetailsFAQ() {
                             </p>
                             <div className="grid md:grid-cols-2 gap-8 mb-12">
                                 <div className="bg-white p-8 rounded-3xl border border-gray-100 shadow-sm">
-                                    <h3 className="text-xl font-black text-[#1F5EFF] mb-4">Corporate Domains Only</h3>
+                                    <h4 className="text-xl font-black text-[#1F5EFF] mb-4">Corporate Domains Only</h4>
                                     <p className="text-gray-600">Official communication should always come from an @settleloans.in or @amalegalsolutions.com domain. Generic Gmail or Yahoo addresses are a major red flag.</p>
                                 </div>
                                 <div className="bg-white p-8 rounded-3xl border border-gray-100 shadow-sm">
-                                    <h4 className="text-xl font-black text-[#1F5EFF] mb-4">Physical Infrastructure</h4>
+                                    <h5 className="text-xl font-black text-[#1F5EFF] mb-4">Physical Infrastructure</h5>
                                     <p className="text-gray-600">True resolution firms have registered physical offices in major hubs like Gurugram, Mumbai, or Bangalore. "Cloud-only" agencies are often harder to hold accountable.</p>
                                 </div>
                             </div>
                         </section>
 
                         <section id="hierarchy-audit" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                                 Deep-Dive: The Internal Hierarchy of a Resolution Firm
-                            </h2>
+                            </h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 When you contact a top-rated company, you are not just talking to a salesperson. Professional firms like SettleLoans are structured like specialized law firms. Understanding this hierarchy will help you know WHO to ask for during your calls.
                             </p>
                             <div className="grid md:grid-cols-3 gap-6 mb-12">
                                 <div className="p-8 bg-gray-50 border border-gray-100 rounded-3xl shadow-sm hover:shadow-md transition-all">
-                                    <h3 className="text-xl font-bold mb-4">The Intake Analysts</h3>
+                                    <h4 className="text-xl font-bold mb-4">The Intake Analysts</h4>
                                     <p className="text-sm text-gray-600">This is your first point of contact. Their job is to perform the initial 'Financial Triage'. They scan your documents and determine if you are a candidate for settlement or if you need a different debt strategy.</p>
                                 </div>
                                 <div className="p-8 bg-gray-50 border border-gray-100 rounded-3xl shadow-sm hover:shadow-md transition-all">
-                                    <h4 className="text-xl font-bold mb-4">Certified Negotiators</h4>
+                                    <h5 className="text-xl font-bold mb-4">Certified Negotiators</h5>
                                     <p className="text-sm text-gray-600">The core of the company. These individuals often come from banking backgrounds and know exactly how bank managers think. They are the ones who make the 'Closing Calls' to the lenders.</p>
                                 </div>
                                 <div className="p-8 bg-gray-50 border border-gray-100 rounded-3xl shadow-sm hover:shadow-md transition-all">
-                                    <h4 className="text-xl font-bold mb-4">Legal Compliance Officers</h4>
+                                    <h5 className="text-xl font-bold mb-4">Legal Compliance Officers</h5>
                                     <p className="text-sm text-gray-600">They ensure that every settlement letter is legally binding and free of loopholes. They are responsible for reviewing the final 'No Dues Certificate' and ensuring it is recorded correctly at the CIBIL level.</p>
                                 </div>
                             </div>
                         </section>
 
                         <section id="regional-centers" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                                 Regional Hubs and Physical Consultation Support
-                            </h2>
+                            </h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 While 90% of debt resolution happens digitally, our directory includes companies with a strong physical presence. Having a regional hub is critical because it allows for localized bank visits and face-to-face legal consultations.
                             </p>
                             <div className="bg-[#2E2E2E] p-10 rounded-3xl text-white mb-12 shadow-[0_20px_50px_rgba(0,0,0,0.2)]">
-                                <h3 className="text-2xl font-black mb-8 text-[#1F5EFF] uppercase tracking-tighter">Verified Regional Presence 2024:</h3>
+                                <h4 className="text-2xl font-black mb-8 text-[#1F5EFF] uppercase tracking-tighter">Verified Regional Presence 2024:</h4>
                                 <div className="grid sm:grid-cols-2 lg:grid-cols-4 gap-8 text-sm">
                                     <div>
                                         <p className="font-bold text-lg mb-2 border-b border-gray-700 pb-2 text-white">North India</p>
@@ -270,9 +270,9 @@ export default function ContactDetailsFAQ() {
                         </section>
 
                         <section id="escalation-matrix" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                                 The National Escalation Matrix: Who to Contact Next
-                            </h2>
+                            </h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 Sometimes, the primary customer service number is not enough. When dealing with complex debt defaults, specifically those involving harassment or technical errors in interest calculation, you need to know the escalation path. Every major bank and NBFC in India is required by the RBI to have a "Grievance Redressal Officer" (GRO) or a "Principal Nodal Officer" (PNO).
                             </p>
@@ -301,9 +301,9 @@ export default function ContactDetailsFAQ() {
                         </section>
 
                         <section id="verification-protocol" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                                 The 5-Step Verification Protocol for Resolution Companies
-                            </h2>
+                            </h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 To ensure you are talking to the real company and not an impersonator, follow this 5-step protocol immediately upon making contact. This protocol is derived from the latest cybersecurity recommendations for the Indian fintech sector.
                             </p>
@@ -316,18 +316,18 @@ export default function ContactDetailsFAQ() {
                         </section>
 
                         <section id="official-contacts" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                                 Verified Company Contacts and Headquarters
-                            </h2>
+                            </h3>
                             <p className="text-lg leading-relaxed mb-8">
                                 Below are the official contact points for the leading debt resolution agencies in India. Use these channels to initiate a formal hardship review or to report recovery agent harassment.
                             </p>
 
                             <div className="space-y-8">
                                 <div className="bg-blue-50/30 p-8 rounded-3xl border border-blue-100 shadow-sm">
-                                    <h3 className="text-2xl font-black text-[#1F5EFF] mb-6 flex items-center">
+                                    <h4 className="text-2xl font-black text-[#1F5EFF] mb-6 flex items-center">
                                         <FontAwesomeIcon icon={faBuilding} className="mr-3" /> SettleLoans (Corporate Hub)
-                                    </h3>
+                                    </h4>
                                     <p className="text-sm text-gray-600 mb-6 font-medium">SettleLoans is India's leading tech-driven debt resolution platform. It specializes in personalized negotiation strategies for both personal and business loans.</p>
                                     <div className="grid md:grid-cols-2 gap-6">
                                         <div className="flex items-start">
@@ -355,9 +355,9 @@ export default function ContactDetailsFAQ() {
                                 </div>
 
                                 <div className="bg-gray-50/50 p-8 rounded-3xl border border-gray-100 shadow-sm">
-                                    <h3 className="text-2xl font-black text-[#2E2E2E] mb-6 flex items-center">
+                                    <h4 className="text-2xl font-black text-[#2E2E2E] mb-6 flex items-center">
                                         <FontAwesomeIcon icon={faBuilding} className="mr-3 text-gray-400" /> AMA Legal Solutions (Legal Desk)
-                                    </h3>
+                                    </h4>
                                     <p className="text-sm text-gray-600 mb-6 font-medium">A specialized legal firm focused on protecting borrowers from illegal recovery tactics and navigating the complex legal landscape of debt defaults.</p>
                                     <div className="grid md:grid-cols-2 gap-6">
                                         <div className="flex items-start">
@@ -389,9 +389,9 @@ export default function ContactDetailsFAQ() {
                         <CompanyComparison />
 
                         <section id="industry-standard" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                                 Professional Standards in the Indian Resolution Industry
-                            </h2>
+                            </h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 The Indian debt resolution industry is currently in a state of evolution. Unlike the United Kingdom or the United States, where debt relief is a highly regulated sector with specific licenses, India is still developing its dedicated regulatory framework. However, this doesn't mean it's a "wild west." Reputable companies adhere to a set of professional standards derived from the RBI's Fair Practices Code and the Indian Contract Act.
                             </p>
@@ -402,7 +402,7 @@ export default function ContactDetailsFAQ() {
                                 Furthermore, the industry is seeing a shift toward technology-driven negotiations. Large firms now use data lakes of past settlement results to predict the "floor rate" for specific banks. For instance, they might know that HDFC Bank typically settles for 40% of the principal in the month of March, while SBI might be more flexible during their quarterly OTS (One Time Settlement) camps. This data-driven approach removes the guesswork and ensures the borrower gets the best possible deal.
                             </p>
                             <div className="bg-yellow-50 p-10 rounded-3xl border border-yellow-100 mb-12 shadow-sm">
-                                <h3 className="text-2xl font-black text-yellow-800 mb-4 uppercase tracking-tighter">The SARFAESI Act and Secured Debt</h3>
+                                <h4 className="text-2xl font-black text-yellow-800 mb-4 uppercase tracking-tighter">The SARFAESI Act and Secured Debt</h4>
                                 <p className="text-yellow-900 leading-relaxed mb-6">
                                     For borrowers dealing with home loans or vehicle loans, the legal landscape is dominated by the Securitisation and Reconstruction of Financial Assets and Enforcement of Security Interest (SARFAESI) Act, 2002. This act allows banks to seize assets without court intervention if the account is an NPA. Professional firms like AMA Legal Solutions are experts at handling Section 13(2) and 13(4) notices, often buying the borrower critical time to arrange for a settlement or restructure.
                                 </p>
@@ -413,9 +413,9 @@ export default function ContactDetailsFAQ() {
                         </section>
 
                         <section id="audit-process" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                                 The Pre-Contact Audit: Preparing Your Case
-                            </h2>
+                            </h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 Before you pick up the phone to call any of the numbers in this directory, it is highly recommended that you perform a "self-audit." This preparation will make your initial consultation much more productive and help the negotiators understand the urgency of your situation.
                             </p>
@@ -423,21 +423,21 @@ export default function ContactDetailsFAQ() {
                                 <li className="flex gap-4 items-start bg-gray-50 p-6 rounded-2xl">
                                     <div className="w-8 h-8 rounded-full bg-[#1F5EFF] text-white flex-shrink-0 flex items-center justify-center font-bold">1</div>
                                     <div>
-                                        <h3 className="font-bold text-lg mb-2 text-[#2E2E2E]">Consolidate Outstandings</h3>
+                                        <h4 className="font-bold text-lg mb-2 text-[#2E2E2E]">Consolidate Outstandings</h4>
                                         <p className="text-gray-600 text-sm">Download your latest CIBIL report and list down all active loans, their principals, and the last date of payment. Know exactly what you owe.</p>
                                     </div>
                                 </li>
                                 <li className="flex gap-4 items-start bg-gray-50 p-6 rounded-2xl">
                                     <div className="w-8 h-8 rounded-full bg-[#1F5EFF] text-white flex-shrink-0 flex items-center justify-center font-bold">2</div>
                                     <div>
-                                        <h4 className="font-bold text-lg mb-2 text-[#2E2E2E]">Document the 'Why'</h4>
+                                        <h5 className="font-bold text-lg mb-2 text-[#2E2E2E]">Document the 'Why'</h5>
                                         <p className="text-gray-600 text-sm">Gather evidence of your hardship. If it's a medical issue, have the hospital summaries ready. If it's job loss, have the termination letter or bank statement showing zero salary credits.</p>
                                     </div>
                                 </li>
                                 <li className="flex gap-4 items-start bg-gray-50 p-6 rounded-2xl">
                                     <div className="w-8 h-8 rounded-full bg-[#1F5EFF] text-white flex-shrink-0 flex items-center justify-center font-bold">3</div>
                                     <div>
-                                        <h5 className="font-bold text-lg mb-2 text-[#2E2E2E]">Budget for Settlement</h5>
+                                        <h6 className="font-bold text-lg mb-2 text-[#2E2E2E]">Budget for Settlement</h6>
                                         <p className="text-gray-600 text-sm">Determine the maximum lump sum you can arrange. Banks usually require settlement payments in 1-3 installments. Do not promise what you cannot deliver.</p>
                                     </div>
                                 </li>
@@ -445,9 +445,9 @@ export default function ContactDetailsFAQ() {
                         </section>
 
                         <section id="digital-reach" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                                 Digital Communication and App-Based Support
-                            </h2>
+                            </h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 In 2025, the reach of debt resolution has moved beyond phone calls. SettleLoans and other top firms have launched mobile applications that allow borrowers to track their negotiation progress in real-time. This digital transparency is a game-changer for an industry that was previously shrouded in mystery.
                             </p>
@@ -455,7 +455,7 @@ export default function ContactDetailsFAQ() {
                                 Through these apps, you can upload documents securely, receive alerts when the bank issues a sanction letter, and even make payments to the bank through verified gateways. This eliminates the risk of "middleman fraud" where an agent might ask you to transfer a settlement amount to their personal account.
                             </p>
                             <div className="bg-[#2E2E2E] p-10 rounded-3xl text-white mb-12 shadow-xl">
-                                <h3 className="text-2xl font-black mb-6 text-[#1F5EFF] uppercase">Security Protocols for Digital Apps</h3>
+                                <h4 className="text-2xl font-black mb-6 text-[#1F5EFF] uppercase">Security Protocols for Digital Apps</h4>
                                 <ul className="space-y-4 text-gray-300">
                                     <li className="flex items-center gap-3">
                                         <FontAwesomeIcon icon={faShieldHalved} className="text-[#1F5EFF]" /> Multi-Factor Authentication (MFA) for every login.
@@ -471,9 +471,9 @@ export default function ContactDetailsFAQ() {
                         </section>
 
                         <section id="reporting" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                                 Reporting Violations and Phishing Attempts
-                            </h2>
+                            </h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 If you have been contacted by someone claiming to be from SettleLoans or AMA Legal through an unverified channel (like WhatsApp from a strange number), you must report it immediately. These firms have dedicated compliance and fraud-prevention teams that work with law enforcement to shut down impersonators.
                             </p>
@@ -519,7 +519,7 @@ export default function ContactDetailsFAQ() {
                         />
 
                         <section id="faqs" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-bold text-[var(--color-primary)] mt-16 mb-8">Expert Contact FAQs</h2>
+                            <h3 className="text-3xl md:text-4xl font-bold text-[var(--color-primary)] mt-16 mb-8">Expert Contact FAQs</h3>
                             <div className="space-y-4 not-prose">
                                 {[
                                     { q: "Is SettleLoans' contact number toll-free?", a: "Yes, SettleLoans provides a toll-free number (1800-309-1902) to ensure that borrowers can receive expert advice without any call charges. You can call this number from any part of India between 10 AM and 7 PM." },
@@ -576,7 +576,7 @@ export default function ContactDetailsFAQ() {
                         <section className="bg-[#1F5EFF] rounded-[10px] p-8 md:p-12 text-center text-white relative overflow-hidden shadow-2xl">
                             <div className="absolute top-0 right-0 w-64 h-64 bg-white/10 rounded-full -mr-32 -mt-32"></div>
                             <div className="relative z-10">
-                                <h2 className="text-3xl md:text-5xl font-black mb-6 uppercase tracking-tighter">Connect with the Experts</h2>
+                                <h3 className="text-3xl md:text-5xl font-black mb-6 uppercase tracking-tighter">Connect with the Experts</h3>
                                 <p className="text-lg md:text-2xl opacity-90 max-w-2xl mx-auto mb-10 leading-tight font-normal">
                                     Don't face debt alone. Reach out through our verified channels and start your journey toward a life without debt today.
                                 </p>

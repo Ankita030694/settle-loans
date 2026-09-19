@@ -273,21 +273,21 @@ export default function LoanSettlementDRTPage() {
                         </section>
 
                         <section id="litigation-for-negotiation" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                                 Litigation for Negotiation: <span className="text-[#1F5EFF]">The Strategic DRT Defense</span>
-                            </h2>
+                            </h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 Most lawyers approach a DRT case as a standard civil suit. They file a simple reply and wait for the bank to present evidence. We use a more aggressive philosophy called 'Litigation for Negotiation'. Our goal is to make it as difficult as possible for the bank to get an easy order, thereby making a settlement look like their best option.
                             </p>
                             <div className="grid md:grid-cols-2 gap-6 my-10">
                                 <div className="bg-gray-50 p-6 rounded-xl border border-gray-200">
-                                    <h3 className="text-xl font-bold text-[#2E2E2E] mb-4">Interest Audit Defense</h3>
+                                    <h4 className="text-xl font-bold text-[#2E2E2E] mb-4">Interest Audit Defense</h4>
                                     <p className="text-sm text-gray-600 leading-relaxed">
                                         Banks often capitalize penal interest or use floating rates that were never properly communicated. We demand a 'Statement of Account' (SOA) audit. If we prove even a small calculation error, it can invalidate the entire 'Notice of Demand', forcing the bank to start over or settle.
                                     </p>
                                 </div>
                                 <div className="bg-gray-50 p-6 rounded-xl border border-gray-200">
-                                    <h3 className="text-xl font-bold text-[#2E2E2E] mb-4">NPA Classification Flaws</h3>
+                                    <h4 className="text-xl font-bold text-[#2E2E2E] mb-4">NPA Classification Flaws</h4>
                                     <p className="text-sm text-gray-600 leading-relaxed">
                                         The RBI has strict rules on when an account can be tagged as an NPA. If the bank skipped the 90 day rule or didn't account for partial payments, the entire DRT proceeding is premature. We file 'Ouster of Jurisdiction' applications based on these errors to stop the case in its tracks.
                                     </p>
@@ -302,14 +302,14 @@ export default function LoanSettlementDRTPage() {
                         </section>
 
                         <section id="ots-strategies" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                                 Effective OTS Strategies: <span className="text-[#1F5EFF]">Maximizing Your Haircut</span>
-                            </h2>
+                            </h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 Getting an OTS is not about asking for a favor; it is about offering a 'Solution' to the bank's 'Problem'. The bank's problem is an NPA that is hurting their balance sheet and a legal battle that is costing them massive fees. Our job is to show them that your settlement offer is more valuable than a 5 year wait for a potentially unenforceable judgment.
                             </p>
                             <div className="bg-blue-50 p-8 rounded-2xl border border-blue-100 my-8">
-                                <h3 className="font-bold text-blue-900 mb-4 text-xl">The 4-Step Settlement Protocol:</h3>
+                                <h4 className="font-bold text-blue-900 mb-4 text-xl">The 4-Step Settlement Protocol:</h4>
                                 <ul className="space-y-4">
                                     <li className="flex items-start gap-3 text-blue-800">
                                         <div className="w-6 h-6 rounded-full bg-blue-600 text-white flex items-center justify-center font-bold flex-shrink-0 mt-0.5 text-xs">1</div>
@@ -335,15 +335,15 @@ export default function LoanSettlementDRTPage() {
                         </section>
 
                         <section id="commercial-wisdom" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                                 Commercial Wisdom vs. <span className="text-[#1F5EFF]">Judicial Intervention</span>
-                            </h2>
+                            </h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 It is important to understand the 'Boundary of Power' between the bank and the DRT. The Supreme Court of India has held that a bank's decision to accept an OTS falls under its 'Commercial Wisdom'. This means the DRT cannot normally pass an order saying "Bank, you MUST accept this 30% offer." The tribunal respects the bank's right to decide how much of its debt it is willing to write off.
                             </p>
                             <div className="bg-[#2E2E2E] text-white p-8 rounded-2xl shadow-lg my-10 relative overflow-hidden">
                                 <div className="absolute top-0 right-0 w-40 h-40 bg-white/5 rounded-bl-full -mr-20 -mt-20"></div>
-                                <h3 className="text-2xl font-bold mb-6 relative z-10">When the DRT CAN Intervene</h3>
+                                <h4 className="text-2xl font-bold mb-6 relative z-10">When the DRT CAN Intervene</h4>
                                 <p className="text-lg opacity-80 mb-6 relative z-10">
                                     While the DRT can't force a settlement, it can strike down an 'Arbitrary Rejection'. If the bank is settling with other borrowers on similar terms but rejecting your proposal out of pure malice or without giving reasons, the DRT can direct the bank to reconsider your application fairly under the 'Principle of Equality' and RBI's master circulars on NPA management.
                                 </p>
@@ -357,14 +357,14 @@ export default function LoanSettlementDRTPage() {
                         </section>
 
                         <section id="documenting-ots" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                                 Documenting the OTS: <span className="text-[#1F5EFF]">Avoiding the "Settled" Trap</span>
-                            </h2>
+                            </h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 Reaching a verbal agreement with a bank manager is not an OTS. In fact, it is a dangerous trap. Many borrowers make 'Goodwill Payments' based on a manager's promise, only to find that the bank has credited that money to the interest and is still proceeding with the DRT case. A settlement is only real when it is on the bank's official letterhead with an authorized signature.
                             </p>
                             <div className="bg-amber-50 p-8 rounded-xl border border-amber-200 my-8">
-                                <h3 className="text-xl font-bold text-amber-900 mb-4">The "Post (Write Off)" Credit Risk:</h3>
+                                <h4 className="text-xl font-bold text-amber-900 mb-4">The "Post (Write Off)" Credit Risk:</h4>
                                 <p className="text-sm text-amber-800 leading-relaxed mb-4">
                                     When you settle a loan, banks report it to CIBIL as 'Settled'. This is often followed by '(Post Write Off)'. This tag tells future lenders that you didn't pay the full amount, which can prevent you from getting a loan for the next 7 years.
                                 </p>
@@ -381,16 +381,16 @@ export default function LoanSettlementDRTPage() {
                         </section>
 
                         <section id="drt-vs-ots" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                                 DRT vs. OTS: <span className="text-[#1F5EFF]">A Strategic Comparison</span>
-                            </h2>
+                            </h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 Should you fight the full case in DRT or push for an OTS? The answer depends on your long term goals. If the bank's case is genuinely weak and you have a massive counterclaim (for example, if the bank's illegal actions destroyed your business), then fighting to a final judgment in DRT might be better as it could result in the bank paying YOU damages.
                             </p>
                             <div className="bg-gray-50 p-8 rounded-2xl border border-gray-200 mb-8">
                                 <div className="grid md:grid-cols-2 gap-8">
                                     <div>
-                                        <h3 className="text-lg font-bold text-[#EAB308] mb-4">The DRT Litigation Route</h3>
+                                        <h4 className="text-lg font-bold text-[#EAB308] mb-4">The DRT Litigation Route</h4>
                                         <ul className="text-sm space-y-2 text-gray-600 list-disc ml-4">
                                             <li>Can take 3 to 7 years to conclude.</li>
                                             <li>Potential for full vindication and damages.</li>
@@ -399,7 +399,7 @@ export default function LoanSettlementDRTPage() {
                                         </ul>
                                     </div>
                                     <div>
-                                        <h4 className="text-lg font-bold text-[#1F5EFF] mb-4">The OTS Negotiation Route</h4>
+                                        <h5 className="text-lg font-bold text-[#1F5EFF] mb-4">The OTS Negotiation Route</h5>
                                         <ul className="text-sm space-y-2 text-gray-600 list-disc ml-4">
                                             <li>Can be closed in 30 to 90 days.</li>
                                             <li>Predictable cost with immediate relief.</li>
@@ -418,13 +418,13 @@ export default function LoanSettlementDRTPage() {
                         </section>
 
                         <section id="success-stories" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 text-center">DRT Settlement Victories</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 text-center">DRT Settlement Victories</h3>
                             <div className="grid md:grid-cols-2 gap-6 not-prose">
                                 <div className="bg-white p-8 rounded-2xl border border-[#DEDEDE] shadow-sm">
                                     <div className="flex items-center mb-6">
                                         <div className="w-12 h-12 bg-blue-100 rounded-full flex items-center justify-center font-bold text-blue-600 mr-4">S</div>
                                         <div>
-                                            <h3 className="font-bold text-[#2E2E2E]">Software Firm, Bangalore</h3>
+                                            <h4 className="font-bold text-[#2E2E2E]">Software Firm, Bangalore</h4>
                                             <p className="text-xs text-gray-400 uppercase tracking-widest font-bold">5 Cr Loan Dispute</p>
                                         </div>
                                         <div className="ml-auto text-yellow-400 text-sm flex gap-0.5">
@@ -442,7 +442,7 @@ export default function LoanSettlementDRTPage() {
                                     <div className="flex items-center mb-6">
                                         <div className="w-12 h-12 bg-blue-100 rounded-full flex items-center justify-center font-bold text-blue-600 mr-4">R</div>
                                         <div>
-                                            <h4 className="font-bold text-[#2E2E2E]">Retail Business, Mumbai</h4>
+                                            <h5 className="font-bold text-[#2E2E2E]">Retail Business, Mumbai</h5>
                                             <p className="text-xs text-gray-400 uppercase tracking-widest font-bold">Property Auction Stay</p>
                                         </div>
                                         <div className="ml-auto text-yellow-400 text-sm flex gap-0.5">
@@ -460,7 +460,7 @@ export default function LoanSettlementDRTPage() {
                         </section>
 
                         <section id="faqs" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Frequently Asked Questions</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Frequently Asked Questions</h3>
                             <div className="space-y-4 not-prose">
                                 {jsonLd["@graph"] && jsonLd["@graph"][4] && (jsonLd["@graph"][4] as any).mainEntity && (jsonLd["@graph"][4] as any)?.mainEntity?.map((faq: any, i: number) => (
                                     <details key={i} className="group bg-white border border-[#DEDEDE] rounded-xl overflow-hidden hover:shadow-md transition-all border-b-4 border-b-[#1F5EFF]/20">
@@ -480,7 +480,7 @@ export default function LoanSettlementDRTPage() {
 
                         <div className="mt-24 p-12 bg-[#2E2E2E] rounded-[32px] text-center text-white shadow-2xl relative overflow-hidden">
                             <div className="absolute top-0 left-0 w-full h-1 bg-[#1F5EFF]"></div>
-                            <h2 className="text-3xl md:text-5xl font-black mb-6">Settle Your DRT Case Today</h2>
+                            <h3 className="text-3xl md:text-5xl font-black mb-6">Settle Your DRT Case Today</h3>
                             <p className="text-lg md:text-xl opacity-70 mb-10 max-w-2xl mx-auto leading-relaxed">
                                 Don't wait for a Recovery Certificate. Whether you've just received a summons or an auction is scheduled, our DRT defense team can help you negotiate a closure.
                             </p>

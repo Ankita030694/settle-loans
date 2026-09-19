@@ -599,9 +599,9 @@ export default function HSBCPersonalLoanCreditCardSettlementPage() {
                 <Clock className="w-4 h-4" />
                 <span>2. Delinquency Lifecycle &amp; NPA Accounting</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 HSBC India Delinquency Progression: From DPD 1-30 to NPA &amp; Write-Off Accounting
-              </h2>
+              </h3>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Under the Reserve Bank of India&apos;s Prudential Norms on Income Recognition, Asset Classification and Provisioning (IRACP) pertaining to Advances, combined with global Expected Credit Loss (ECL) accounting standards under IFRS 9 / Ind AS 109, HSBC India systematically classifies defaulting credit card and personal loan accounts across precise Days Past Due (DPD) aging buckets. Mastering these institutional milestones is vital for timing settlement negotiations when bank provisioning is at its peak.
               </p>
@@ -672,9 +672,9 @@ export default function HSBCPersonalLoanCreditCardSettlementPage() {
                 <Lock className="w-4 h-4" />
                 <span>3. Workplace Privacy &amp; Anti-Harassment Defense</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 Workplace Privacy Protection: Halting HR Outreach, Reception Calls &amp; Collection Harassment
-              </h2>
+              </h3>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 The most acute vulnerability experienced by salaried corporate executives during financial default is the unlawful breach of workplace confidentiality by third-party recovery agencies engaged by lending institutions. Aggressive collection agents frequently utilize invasive tactics—such as dialing corporate switchboards, calling human resources departments, contacting reporting managers or colleagues, sending harassing communications to official enterprise email addresses, or threatening unauthorized visits to office premises.
               </p>
@@ -701,9 +701,9 @@ export default function HSBCPersonalLoanCreditCardSettlementPage() {
                 <Calculator className="w-4 h-4" />
                 <span>4. OTS Haircut Policies &amp; Valuation Framework</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 The Financial Mathematics of HSBC OTS: NPV Recovery Formula &amp; Haircut Slabs
-              </h2>
+              </h3>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Under the Reserve Bank of India Master Direction on Compromise Settlements and Technical Write-offs (DOR.STR.REC.20/21.04.048/2023-24), HSBC India operates a structured, board-approved compromise settlement matrix. Rather than relying on subjective officer discretion, HSBC&apos;s Stressed Assets Recovery Branch evaluates settlement proposals using an actuarial Net Present Value (NPV) recovery methodology.
               </p>
@@ -726,7 +726,7 @@ export default function HSBCPersonalLoanCreditCardSettlementPage() {
               </div>
 
               {/* Settlement Haircut Slabs Table */}
-              <h3 className="text-lg font-bold text-slate-900 mb-3">Realistic HSBC Settlement Haircut Slabs by Product &amp; Aging</h3>
+              <h4 className="text-lg font-bold text-slate-900 mb-3">Realistic HSBC Settlement Haircut Slabs by Product &amp; Aging</h4>
               <div className="overflow-x-auto my-4">
                 <table className="min-w-full bg-white">
                   <thead>
@@ -795,9 +795,9 @@ export default function HSBCPersonalLoanCreditCardSettlementPage() {
                       <span className="text-[10px] font-black uppercase tracking-widest text-blue-300 block">
                         Legal Defense &amp; Action Blueprint
                       </span>
-                      <h3 className="text-sm md:text-base font-black text-white leading-tight">
+                      <h4 className="text-sm md:text-base font-black text-white leading-tight">
                         HSBC Personal Loan &amp; Credit Card Settlement &amp; Legal Defense Blueprint
-                      </h3>
+                      </h4>
                     </div>
                   </div>
                   <a
@@ -844,9 +844,9 @@ export default function HSBCPersonalLoanCreditCardSettlementPage() {
                 <Gavel className="w-4 h-4" />
                 <span>6. Section 25 PSSA, Summary Suits &amp; Arbitration</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 Legal Notice Forensics: Section 25 PSSA, Summary Suits &amp; Unilateral Arbitration
-              </h2>
+              </h3>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 During advanced delinquency, HSBC India&apos;s legal panel advocates initiate formal statutory steps designed to compel borrower engagement. Understanding the specific legal mechanics and appropriate procedural responses prevents unnecessary panic and protects borrower rights:
               </p>
@@ -870,9 +870,9 @@ export default function HSBCPersonalLoanCreditCardSettlementPage() {
                 <Layers className="w-4 h-4" />
                 <span>7. Step-by-Step HSBC Settlement Protocol</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 The 5-Stage Institutional Protocol for HSBC Loan &amp; Premier Card Settlement
-              </h2>
+              </h3>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Executing an optimal compromise settlement with a major multinational banking entity like HSBC requires a disciplined, legally backed 5-stage institutional workflow:
               </p>
@@ -881,7 +881,7 @@ export default function HSBCPersonalLoanCreditCardSettlementPage() {
                 <div className="p-5 bg-white border border-slate-200 rounded-2xl shadow-sm hover:border-[#1F5EFF]/40 transition-colors">
                   <div className="flex items-center gap-3 mb-2">
                     <span className="w-7 h-7 rounded-full bg-[#1F5EFF] text-white font-bold text-xs flex items-center justify-center">1</span>
-                    <h3 className="font-bold text-slate-900 text-base">Stage 1: Portfolio Delinquency Audit &amp; Legal Protection</h3>
+                    <h4 className="font-bold text-slate-900 text-base">Stage 1: Portfolio Delinquency Audit &amp; Legal Protection</h4>
                   </div>
                   <p className="text-xs sm:text-sm text-slate-600 leading-relaxed pl-10">
                     Comprehensive audit of outstanding HSBC personal loans, Premier credit cards, and credit lines. Evaluation of delinquency aging, DPD bucket, and total accumulated penal interest. Immediate service of formal legal cease-and-desist notices to HSBC&apos;s Principal Nodal Officer to halt workplace calling and third-party recovery outreach.
@@ -891,7 +891,7 @@ export default function HSBCPersonalLoanCreditCardSettlementPage() {
                 <div className="p-5 bg-white border border-slate-200 rounded-2xl shadow-sm hover:border-[#1F5EFF]/40 transition-colors">
                   <div className="flex items-center gap-3 mb-2">
                     <span className="w-7 h-7 rounded-full bg-[#1F5EFF] text-white font-bold text-xs flex items-center justify-center">2</span>
-                    <h3 className="font-bold text-slate-900 text-base">Stage 2: Comprehensive Hardship Dossier Formulation</h3>
+                    <h4 className="font-bold text-slate-900 text-base">Stage 2: Comprehensive Hardship Dossier Formulation</h4>
                   </div>
                   <p className="text-xs sm:text-sm text-slate-600 leading-relaxed pl-10">
                     Drafting an authoritative legal hardship petition substantiating genuine insolvency or liquidity crisis. The dossier compiles certified income tax returns, salary reduction or termination letters, bank statements, and medical records to establish bona fide financial distress under RBI Master Directions.
@@ -901,7 +901,7 @@ export default function HSBCPersonalLoanCreditCardSettlementPage() {
                 <div className="p-5 bg-white border border-slate-200 rounded-2xl shadow-sm hover:border-[#1F5EFF]/40 transition-colors">
                   <div className="flex items-center gap-3 mb-2">
                     <span className="w-7 h-7 rounded-full bg-[#1F5EFF] text-white font-bold text-xs flex items-center justify-center">3</span>
-                    <h3 className="font-bold text-slate-900 text-base">Stage 3: High-Level NPV Hardship Negotiation</h3>
+                    <h4 className="font-bold text-slate-900 text-base">Stage 3: High-Level NPV Hardship Negotiation</h4>
                   </div>
                   <p className="text-xs sm:text-sm text-slate-600 leading-relaxed pl-10">
                     Direct representation before HSBC India&apos;s Zonal Stressed Assets Recovery Branch (SARB) and Retail Credit Committee in Mumbai. Bypassing external collection agencies, legal counsel presents an actuarial Net Present Value recovery argument to negotiate a 45% to 60% principal debt haircut with a complete 100% waiver of ancillary charges.
@@ -911,7 +911,7 @@ export default function HSBCPersonalLoanCreditCardSettlementPage() {
                 <div className="p-5 bg-white border border-slate-200 rounded-2xl shadow-sm hover:border-[#1F5EFF]/40 transition-colors">
                   <div className="flex items-center gap-3 mb-2">
                     <span className="w-7 h-7 rounded-full bg-[#1F5EFF] text-white font-bold text-xs flex items-center justify-center">4</span>
-                    <h3 className="font-bold text-slate-900 text-base">Stage 4: Multi-Point Sanction Letter Forensic Audit</h3>
+                    <h4 className="font-bold text-slate-900 text-base">Stage 4: Multi-Point Sanction Letter Forensic Audit</h4>
                   </div>
                   <p className="text-xs sm:text-sm text-slate-600 leading-relaxed pl-10">
                     Rigorous forensic examination of the official stamped HSBC OTS Sanction Letter. Legal audit confirms corporate letterhead authenticity, unique settlement reference numbers, explicit debt extinguishment clauses, and payment schedules before authorizing borrower funds remittance.
@@ -921,7 +921,7 @@ export default function HSBCPersonalLoanCreditCardSettlementPage() {
                 <div className="p-5 bg-white border border-slate-200 rounded-2xl shadow-sm hover:border-[#1F5EFF]/40 transition-colors">
                   <div className="flex items-center gap-3 mb-2">
                     <span className="w-7 h-7 rounded-full bg-[#1F5EFF] text-white font-bold text-xs flex items-center justify-center">5</span>
-                    <h3 className="font-bold text-slate-900 text-base">Stage 5: Direct Remittance, ₹0 NDC &amp; Court Withdrawal</h3>
+                    <h4 className="font-bold text-slate-900 text-base">Stage 5: Direct Remittance, ₹0 NDC &amp; Court Withdrawal</h4>
                   </div>
                   <p className="text-xs sm:text-sm text-slate-600 leading-relaxed pl-10">
                     Borrower remits the negotiated settlement sum strictly into their designated HSBC loan/card account via direct RTGS/NEFT. Legal counsel monitors delivery of the formal No Dues Certificate within 30 days under RBI directives and oversees the formal withdrawal of all pending Section 25 PSSA or civil court proceedings.
@@ -936,9 +936,9 @@ export default function HSBCPersonalLoanCreditCardSettlementPage() {
                 <FileCheck className="w-4 h-4" />
                 <span>8. Sanction Letter Forensics &amp; ₹0 NDC Audit</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 HSBC OTS Sanction Letter Forensics: Eliminating Payment Traps &amp; Securing ₹0 NDC
-              </h2>
+              </h3>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 A critical danger encountered by borrowers during loan settlement is the prevalence of unauthorized or fraudulent settlement letters issued by rogue collection agency personnel. Third-party tele-callers frequently present fabricated settlement emails or unauthorized concessions to extract partial payments that are subsequently booked as standard overdue installments, leaving the borrower with active debt and ongoing litigation.
               </p>
@@ -968,9 +968,9 @@ export default function HSBCPersonalLoanCreditCardSettlementPage() {
                 <TrendingUp className="w-4 h-4" />
                 <span>9. CIBIL Bureau Reporting &amp; Rehabilitation</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 CIBIL Score Trajectory Post-Settlement &amp; Strategic 18-Month Credit Recovery Plan
-              </h2>
+              </h3>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Executing a One-Time Settlement with HSBC India results in the account being formally reported to all four licensed credit information companies in India—TransUnion CIBIL, Experian, Equifax, and CRIF High Mark—with the account status updated to <strong>&apos;Settled&apos;</strong> or <strong>&apos;Post-Write-off Settled&apos;</strong> with an outstanding balance of exactly <strong>₹0</strong>.
               </p>
@@ -997,9 +997,9 @@ export default function HSBCPersonalLoanCreditCardSettlementPage() {
                 <ShieldCheck className="w-4 h-4" />
                 <span>10. Executive Defense &amp; Legal Advisory</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 Why Salaried Corporate Professionals &amp; Executives Choose SettleLoans
-              </h2>
+              </h3>
               <p className="text-slate-700 leading-relaxed mb-6 text-base md:text-lg">
                 Settling high-value unsecured debt with a premier multinational institution like HSBC India requires a sophisticated blend of corporate privacy defense, financial accounting expertise, and institutional legal advocacy. SettleLoans represents salaried executives and corporate leaders with complete confidentiality, halting third-party collection harassment through formal advocate notices, defending against statutory legal summons, and negotiating directly with HSBC Stressed Assets Recovery Desks to secure maximum lawful debt waivers and authentic stamped No Dues Certificates.
               </p>
@@ -1016,9 +1016,9 @@ export default function HSBCPersonalLoanCreditCardSettlementPage() {
                 <HelpCircle className="w-4 h-4" />
                 <span>11. Frequently Asked Questions</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
                 Frequently Asked Questions About HSBC Personal Loan &amp; Credit Card Settlement
-              </h2>
+              </h3>
 
               <div className="space-y-4">
                 {faqs.map((faq, index) => (
@@ -1044,10 +1044,10 @@ export default function HSBCPersonalLoanCreditCardSettlementPage() {
 
             {/* Regulatory References & Official Sources Strip */}
             <div className="bg-slate-50 border border-slate-200 rounded-2xl p-6 my-10">
-              <h3 className="text-base font-bold text-slate-900 mb-4 flex items-center gap-2">
+              <h4 className="text-base font-bold text-slate-900 mb-4 flex items-center gap-2">
                 <Landmark className="w-5 h-5 text-[#1F5EFF]" />
                 Official Regulatory References &amp; Statutory Circulars
-              </h3>
+              </h4>
               <ul className="space-y-3 text-xs text-slate-600">
                 <li className="flex items-start gap-2">
                   <ExternalLink className="w-4 h-4 text-[#1F5EFF] flex-shrink-0 mt-0.5" />
@@ -1109,10 +1109,10 @@ export default function HSBCPersonalLoanCreditCardSettlementPage() {
 
             {/* Related Guides & Resources Strip (10 Topic Badges) */}
             <div className="bg-slate-50 border border-slate-200 rounded-2xl p-6 my-10">
-              <h3 className="text-base font-bold text-slate-900 mb-4 flex items-center gap-2">
+              <h4 className="text-base font-bold text-slate-900 mb-4 flex items-center gap-2">
                 <BookOpen className="w-5 h-5 text-[#1F5EFF]" />
                 Explore Related Banking &amp; Debt Resolution Guides
-              </h3>
+              </h4>
               <div className="flex flex-wrap gap-2.5">
                 <Link
                   href="/bank-one-time-settlement-ots-policy"

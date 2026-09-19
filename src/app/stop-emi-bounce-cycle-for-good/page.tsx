@@ -267,10 +267,10 @@ export default function StopEmiBounceCyclePage() {
             </section>
 
             <section id="why-principal-doesnt-decrease" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">Why Your Principal Stays the Same</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">Why Your Principal Stays the Same</h3>
               
               <div className="bg-blue-50 border-l-8 border-[#1F5EFF] p-8 rounded-r-2xl mb-8">
-                <h3 className="text-xl font-black text-[#1F5EFF] mb-4">The Mathematics of Bounce Fees</h3>
+                <h4 className="text-xl font-black text-[#1F5EFF] mb-4">The Mathematics of Bounce Fees</h4>
                 <p className="text-lg leading-relaxed mb-4 text-[#1E3A8A]">
                   When you make a partial payment after a default, you might assume it goes toward your EMI. However, lenders follow a strict hierarchy of appropriation:
                 </p>
@@ -299,7 +299,7 @@ export default function StopEmiBounceCyclePage() {
               </p>
 
               <div className="bg-red-50 p-6 rounded-xl border border-red-100 mb-8">
-                <h4 className="text-xl font-black text-red-700 mb-3">Warning: The Multiple Hit Strategy</h4>
+                <h5 className="text-xl font-black text-red-700 mb-3">Warning: The Multiple Hit Strategy</h5>
                 <p className="text-lg leading-relaxed text-red-900">
                   Some aggressive lenders present the NACH mandate multiple times in a single week. If your bank charges ₹590 per bounce, three hits mean you lose nearly ₹1,800 to your own bank, plus identical charges from the lender. Your bank balance drains rapidly, pushing you further into financial distress.
                 </p>
@@ -307,7 +307,7 @@ export default function StopEmiBounceCyclePage() {
             </section>
 
             <section id="psychological-toll" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">The Psychological Toll of Debt Collection</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">The Psychological Toll of Debt Collection</h3>
               <p className="text-lg leading-relaxed mb-6 text-[#4A4A4A]">
                 Beyond the financial devastation, the EMI bounce cycle brings immense psychological pressure. Lenders rely on third-party recovery agencies whose primary tactic is intimidation. When your EMI bounces, it’s not just a mathematical issue; it becomes a daily mental battle. You may receive dozens of calls at all hours, threatening texts, and even humiliating visits to your home or workplace.
               </p>
@@ -322,17 +322,17 @@ export default function StopEmiBounceCyclePage() {
             </section>
 
             <section id="legal-rights" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">Legal Rights Against Unfair Charges</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">Legal Rights Against Unfair Charges</h3>
               <p className="text-lg leading-relaxed mb-6 text-[#4A4A4A]">
                 Many borrowers assume that once they sign a loan agreement, the lender possesses unlimited power to levy fees. This is a myth. You have specific legal rights that protect you from arbitrary and punitive charges designed solely to extract maximum profit from your default.
               </p>
               <div className="grid md:grid-cols-2 gap-6 my-8">
                 <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
-                  <h3 className="font-black text-[#1F5EFF] text-lg mb-3">Transparency Mandate</h3>
+                  <h4 className="font-black text-[#1F5EFF] text-lg mb-3">Transparency Mandate</h4>
                   <p className="text-base text-[#4A4A4A]">Lenders must explicitly state all bounce charges and penal interest rates in your Most Important Terms and Conditions (MITC) document. Any hidden fees can be legally challenged.</p>
                 </div>
                 <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
-                  <h4 className="font-black text-[#1F5EFF] text-lg mb-3">Proportional Penalties</h4>
+                  <h5 className="font-black text-[#1F5EFF] text-lg mb-3">Proportional Penalties</h5>
                   <p className="text-base text-[#4A4A4A]">RBI guidelines suggest that penal interest should be reasonable and not used as a revenue-enhancement tool. Exorbitant compounding penal interest is subject to regulatory scrutiny.</p>
                 </div>
               </div>
@@ -344,7 +344,7 @@ export default function StopEmiBounceCyclePage() {
             </section>
 
             <section id="steps-to-break-cycle" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">Steps to Break the Bounce Cycle</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">Steps to Break the Bounce Cycle</h3>
               <p className="text-lg leading-relaxed mb-8">
                 If you want to <strong className="text-[#2E2E2E]">stop recurring bounce charges</strong>, you must take proactive, legal steps to protect your finances. Passively hoping the lender will stop hitting your account is not a strategy.
               </p>
@@ -353,7 +353,7 @@ export default function StopEmiBounceCyclePage() {
                 <div className="flex flex-col md:flex-row gap-6">
                   <div className="flex-shrink-0 w-12 h-12 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center font-black text-xl shadow-lg">1</div>
                   <div>
-                    <h3 className="text-2xl font-black text-[#2E2E2E] mb-3">Revoke the NACH Mandate</h3>
+                    <h4 className="text-2xl font-black text-[#2E2E2E] mb-3">Revoke the NACH Mandate</h4>
                     <p className="text-lg leading-relaxed text-[#4A4A4A]">
                       You have the legal right to stop an automated debit mandate. Contact your bank immediately and submit a formal request to cancel the specific NACH mandate for your loan. This stops the bleeding and prevents your bank from charging you daily bounce fees.
                     </p>
@@ -363,7 +363,7 @@ export default function StopEmiBounceCyclePage() {
                 <div className="flex flex-col md:flex-row gap-6">
                   <div className="flex-shrink-0 w-12 h-12 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center font-black text-xl shadow-lg">2</div>
                   <div>
-                    <h3 className="text-2xl font-black text-[#2E2E2E] mb-3">Segregate Your Income</h3>
+                    <h4 className="text-2xl font-black text-[#2E2E2E] mb-3">Segregate Your Income</h4>
                     <p className="text-lg leading-relaxed text-[#4A4A4A]">
                       If your salary is credited to the same account where the loan EMI is deducted, consider requesting your employer to route your salary to a different, unlinked bank account. This ensures you have money to feed your family while you negotiate with the lender.
                     </p>
@@ -373,7 +373,7 @@ export default function StopEmiBounceCyclePage() {
                 <div className="flex flex-col md:flex-row gap-6">
                   <div className="flex-shrink-0 w-12 h-12 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center font-black text-xl shadow-lg">3</div>
                   <div>
-                    <h3 className="text-2xl font-black text-[#2E2E2E] mb-3">Communicate in Writing</h3>
+                    <h4 className="text-2xl font-black text-[#2E2E2E] mb-3">Communicate in Writing</h4>
                     <p className="text-lg leading-relaxed text-[#4A4A4A]">
                       Never rely on phone conversations with recovery agents. Send a formal email to the lender’s nodal officer explaining your financial hardship. State clearly that you intend to repay but need the bounce charges waived and the loan terms adjusted.
                     </p>
@@ -383,21 +383,21 @@ export default function StopEmiBounceCyclePage() {
             </section>
 
             <section id="mistakes-to-avoid" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">Common Mistakes to Avoid</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">Common Mistakes to Avoid</h3>
               <p className="text-lg leading-relaxed mb-8 text-[#4A4A4A]">
                 When desperation sets in, many borrowers attempt quick fixes that ultimately make the situation much worse. To permanently <strong className="text-[#2E2E2E]">break EMI debt trap</strong> cycles, you must avoid these critical pitfalls.
               </p>
 
               <div className="bg-red-50 p-6 rounded-xl border border-red-100 mb-8">
-                <h3 className="text-xl font-black text-red-700 mb-3">Mistake 1: The Loan-Stacking Trap</h3>
+                <h4 className="text-xl font-black text-red-700 mb-3">Mistake 1: The Loan-Stacking Trap</h4>
                 <p className="text-lg leading-relaxed text-red-900 mb-4">
                   Never take a new, higher-interest personal loan or instant app loan to pay off an overdue EMI. This is the fastest way to turn a manageable single debt into an uncontrollable multi-lender crisis. You are merely shifting the problem and accelerating the interest burn.
                 </p>
-                <h4 className="text-xl font-black text-red-700 mb-3">Mistake 2: Paying Recovery Agents Directly</h4>
+                <h5 className="text-xl font-black text-red-700 mb-3">Mistake 2: Paying Recovery Agents Directly</h5>
                 <p className="text-lg leading-relaxed text-red-900 mb-4">
                   Do not hand over cash or transfer money to the personal UPI accounts of recovery agents claiming they will "settle" the matter. Only pay through the lender's official portal or bank branches, and always demand an official receipt. Unofficial payments often disappear, leaving your debt unchanged.
                 </p>
-                <h4 className="text-xl font-black text-red-700 mb-3">Mistake 3: Ignoring Legal Notices</h4>
+                <h5 className="text-xl font-black text-red-700 mb-3">Mistake 3: Ignoring Legal Notices</h5>
                 <p className="text-lg leading-relaxed text-red-900">
                   Throwing away demand notices or arbitration letters will not make the problem disappear. Lenders use ignored notices to secure ex-parte legal orders against you. Always acknowledge official communication and respond formally, preferably with legal counsel.
                 </p>
@@ -405,32 +405,32 @@ export default function StopEmiBounceCyclePage() {
             </section>
 
             <section id="restructure-loan" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">How to Restructure Personal Loan</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">How to Restructure Personal Loan</h3>
               <p className="text-lg leading-relaxed mb-6">
                 Once you have stopped the automated bleeding, your next move is to <strong className="text-[#2E2E2E]">restructure personal loan</strong> obligations so they fit your current financial reality.
               </p>
 
               <div className="grid md:grid-cols-2 gap-6 my-8">
                 <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
-                  <h3 className="font-black text-[#1F5EFF] text-lg mb-3">Tenure Extension</h3>
+                  <h4 className="font-black text-[#1F5EFF] text-lg mb-3">Tenure Extension</h4>
                   <p className="text-base text-[#4A4A4A]">Request the lender to increase the duration of your loan. This mathematically reduces your monthly EMI to a manageable amount, though you will pay more interest overall.</p>
                 </div>
                 <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
-                  <h4 className="font-black text-[#1F5EFF] text-lg mb-3">Capitalization of Dues</h4>
+                  <h5 className="font-black text-[#1F5EFF] text-lg mb-3">Capitalization of Dues</h5>
                   <p className="text-base text-[#4A4A4A]">Ask the lender to waive the bounce charges, and add the missed principal EMIs back to the total outstanding amount, creating a fresh repayment schedule.</p>
                 </div>
                 <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
-                  <h4 className="font-black text-[#1F5EFF] text-lg mb-3">Interest Rate Reduction</h4>
+                  <h5 className="font-black text-[#1F5EFF] text-lg mb-3">Interest Rate Reduction</h5>
                   <p className="text-base text-[#4A4A4A]">If you can prove severe hardship (like job loss or medical emergency), some lenders may agree to temporarily reduce the applied interest rate.</p>
                 </div>
                 <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
-                  <h4 className="font-black text-[#1F5EFF] text-lg mb-3">One-Time Settlement (OTS)</h4>
+                  <h5 className="font-black text-[#1F5EFF] text-lg mb-3">One-Time Settlement (OTS)</h5>
                   <p className="text-base text-[#4A4A4A]">If repayment is completely impossible, you may negotiate an OTS. Be warned: this will severely damage your CIBIL score for years to come.</p>
                 </div>
               </div>
 
               <div className="bg-gray-50 p-8 rounded-2xl mb-8 border border-gray-200">
-                <h4 className="text-xl font-black text-[#2E2E2E] mb-4">Strategic Insight</h4>
+                <h5 className="text-xl font-black text-[#2E2E2E] mb-4">Strategic Insight</h5>
                 <p className="text-lg leading-relaxed text-[#4A4A4A]">
                   Lenders prefer a performing loan over a bad debt. If you approach them professionally, armed with proof of hardship (termination letter, hospital bills) and a realistic proposal, they are often willing to restructure rather than write off the account.
                 </p>
@@ -438,7 +438,7 @@ export default function StopEmiBounceCyclePage() {
             </section>
 
             <section id="success-stories" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">Real Success Stories</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">Real Success Stories</h3>
               <p className="text-lg leading-relaxed mb-6">
                 Breaking the cycle is possible. Here are examples of individuals who successfully stopped the bounce trap and regained control of their finances.
               </p>
@@ -487,7 +487,7 @@ export default function StopEmiBounceCyclePage() {
             </section>
 
             <section id="faqs" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">Frequently Asked Questions</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">Frequently Asked Questions</h3>
               <div className="space-y-4">
                 
                 <details name="faq-accordion" className="bg-white border border-[#DEDEDE] rounded-xl p-6 hover:shadow-md group cursor-pointer transition-shadow">
@@ -597,7 +597,7 @@ export default function StopEmiBounceCyclePage() {
             <div className="bg-[#2E2E2E] text-white p-12 rounded-[40px] text-center mt-24 relative overflow-hidden group">
               <div className="absolute inset-0 bg-[#1F5EFF] opacity-0 group-hover:opacity-5 transition-opacity"></div>
               <div className="relative z-10">
-                <h3 className="text-3xl md:text-5xl font-black mb-6 leading-tight">Stop Losing Money to Bounce Fees</h3>
+                <h4 className="text-3xl md:text-5xl font-black mb-6 leading-tight">Stop Losing Money to Bounce Fees</h4>
                 <p className="text-xl text-[#DEDEDE] mb-10 max-w-2xl mx-auto">
                   Are you paying thousands in bounce charges every month but your loan principal isn't going down? Learn how to break the toxic bounce cycle permanently.
                 </p>

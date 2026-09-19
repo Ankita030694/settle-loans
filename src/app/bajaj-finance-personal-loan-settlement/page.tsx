@@ -115,7 +115,7 @@ const jsonLdGraph = {
       "@type": "FinancialService",
       "@id": "https://www.settleloans.in/bajaj-finance-personal-loan-settlement#service",
       "name": "SettleLoans - Bajaj Finance Personal Loan Settlement & Legal Defense",
-      "description": "Specialized legal and financial negotiation advisory for settling defaulted Bajaj Finance personal loans, flexi loans, and EMI cards under RBI compromise frameworks with maximum debt waivers and complete harassment protection.",
+      "description": "Specialized legal and financial talks advisory for settling defaulted Bajaj Finance personal loans, flexi loans, and EMI cards under RBI compromise frameworks with maximum debt waivers and complete harassment protection.",
       "url": "https://www.settleloans.in/bajaj-finance-personal-loan-settlement",
       "image": "https://www.settleloans.in/images/infographics/bajaj-finance-personal-loan-settlement.jpg",
       "telephone": "+91-99999-99999",
@@ -164,7 +164,7 @@ const jsonLdGraph = {
             "name": "Ananya Sengupta"
           },
           "datePublished": "2026-07-18",
-          "reviewBody": "My Bajaj Finserv personal loan and EMI card dues accumulated to ₹6.8 Lakhs due to repeated NACH bounce penalties and high penal interest. SettleLoans structured my hardship documentation, halted further bank presentation fees, and secured an authorized 55% haircut directly from Bajaj Stressed Assets desk. The entire settlement was executed through official bank channels with zero hassle.",
+          "reviewBody": "My Bajaj Finserv personal loan and EMI card dues accumulated to ₹6.8 Lakhs due to repeated NACH bounce penalties and high penal interest. SettleLoans structured my hardship records, halted further bank presentation fees, and secured an authorized 55% haircut directly from Bajaj Stressed Assets desk. The entire settlement was executed through official bank channels with zero hassle.",
           "reviewRating": {
             "@type": "Rating",
             "ratingValue": "5",
@@ -179,7 +179,7 @@ const jsonLdGraph = {
             "name": "Pradeep Deshmukh"
           },
           "datePublished": "2026-05-30",
-          "reviewBody": "After defaulting on my Bajaj loan for 5 months, I received a legal notice under Section 25 of the Payment and Settlement Systems Act for NACH bounce. SettleLoans drafted a formal legal reply, represented my case before the conciliation panel, and settled the ₹5.5 Lakhs loan for ₹2.4 Lakhs with all legal proceedings formally withdrawn.",
+          "reviewBody": "After defaulting on my Bajaj loan for 5 months, I received a legal notice under Section 25 of the Payment and Settlement Systems Act for NACH bounce. SettleLoans drafted a formal legal reply, represented my case before the conciliation panel, and settled the ₹5.5 Lakhs loan for ₹2.4 Lakhs with all legal cases formally withdrawn.",
           "reviewRating": {
             "@type": "Rating",
             "ratingValue": "5",
@@ -194,7 +194,7 @@ const jsonLdGraph = {
             "name": "Rohit Kulkarni"
           },
           "datePublished": "2026-08-04",
-          "reviewBody": "Outstanding support against aggressive collection calls. SettleLoans established formal communication with the Bajaj Principal Nodal Officer, enforced RBI recovery rules, and helped me close my unsecured personal loan smoothly with an authentic stamped OTS letter and 50% principal reduction.",
+          "reviewBody": "Outstanding support against aggressive collection calls. SettleLoans established formal notice with the Bajaj Principal Nodal Officer, enforced RBI recovery rules, and helped me close my unsecured personal loan smoothly with an authentic stamped OTS letter and 50% principal reduction.",
           "reviewRating": {
             "@type": "Rating",
             "ratingValue": "5",
@@ -221,7 +221,7 @@ const jsonLdGraph = {
           "name": "How can borrowers stop Bajaj Finance NACH bounce charges and repeated automated debit attempts?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Bajaj Finance frequently presents electronic NACH mandates multiple times a month, multiplying return fees. To stop these charges: (1) Submit a written mandate cancellation request to your destination bank under NPCI rules; (2) Issue a formal hardship letter to Bajaj Finance requesting suspension of debit sweeps; (3) Demand a 100% waiver of all accumulated bounce fees and penal interest under RBI rules during OTS negotiations."
+            "text": "Bajaj Finance frequently presents electronic NACH mandates multiple times a month, multiplying return fees. To stop these charges: (1) Submit a written mandate cancellation request to your destination bank under NPCI rules; (2) Issue a formal hardship letter to Bajaj Finance requesting suspension of debit sweeps; (3) Demand a 100% waiver of all accumulated bounce fees and penal interest under RBI rules during OTS talks."
           }
         },
         {
@@ -285,7 +285,7 @@ const jsonLdGraph = {
           "name": "How long does Bajaj Finance take to issue the No Dues Certificate (NDC) after settlement?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Under RBI Circular RBI/2023-24/60, Bajaj Finance is legally required to issue a formal No Dues Certificate (NDC) and update credit bureaus within 30 calendar days of receiving final payment. If the lender fails to issue the NDC within 30 days, it must pay statutory compensation of ₹5,000 for each day of delay to the borrower."
+            "text": "Under RBI Circular RBI/2023-24/60, Bajaj Finance is legally required to issue a formal No Dues Certificate (NDC) and update credit bureaus within 30 calendar days of receiving final payment. If the lender fails to issue the NDC within 30 days, it must pay statutory relief of ₹5,000 for each day of delay to the borrower."
           }
         }
       ]

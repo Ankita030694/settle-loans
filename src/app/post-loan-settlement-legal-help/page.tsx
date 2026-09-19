@@ -270,9 +270,9 @@ export default function PostLoanSettlementPage() {
                         </section>
 
                         <section id="noc-holy-grail" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
                                 NOC: The Holy Grail of Debt Closure
-                            </h2>
+                            </h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 The No Objection Certificate (NOC), also known as a No Dues Certificate (NDC), is the single most important document in your post-settlement life. It is your ultimate legal shield. This document, issued by the bank or NBFC, formally declares that you have fulfilled your obligations under the settlement agreement and that the lender has no further claim against you or your assets. Without this document, your settlement is technically 'invisible' to third parties and future lenders.
                             </p>
@@ -280,7 +280,7 @@ export default function PostLoanSettlementPage() {
                                 Obtaining an NOC can sometimes be a bureaucratic nightmare. Banks may delay issuance due to internal audit processes, change in staff, or technical glitches in their core banking solution (CBS). It is vital to track the timeline: if you do not receive your NOC within 30 days of your final payment, you must initiate formal legal correspondence. We help our clients by drafting these technical follow ups, ensuring that the bank recognizes its legal obligation to provide you with this closure proof.
                             </p>
                             <div className="bg-gray-50 p-8 rounded-xl border border-gray-200 mb-8">
-                                <h3 className="text-xl font-bold mb-6">Anatomy of a Valid NOC Document</h3>
+                                <h4 className="text-xl font-bold mb-6">Anatomy of a Valid NOC Document</h4>
                                 <ul className="grid md:grid-cols-2 gap-4 text-sm font-medium">
                                     <li className="flex items-center gap-2">
                                         <span className="w-2 h-2 bg-[#1F5EFF] rounded-full"></span>
@@ -311,9 +311,9 @@ export default function PostLoanSettlementPage() {
                         </section>
 
                         <section id="fixing-credit-scars" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
                                 Fixing Credit Scars: Restoring Your Score
-                            </h2>
+                            </h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 A loan settlement leaves a 'scar' on your credit report. The account is typically marked as 'Settled' rather than 'Closed'. While this is better than 'Written Off' or 'Defaulted', it still impacts your credit score and your ability to get unsecured loans in the near future. The first step to restoring your score is ensuring that the settlement is accurately reported by the bank to all four credit bureaus (CIBIL, Experian, Equifax, and CRIF High Mark).
                             </p>
@@ -324,29 +324,29 @@ export default function PostLoanSettlementPage() {
                             <div className="relative border-l-2 border-dashed border-[#1F5EFF]/30 pl-8 ml-4 space-y-12 mb-12">
                                 <div className="relative">
                                     <div className="absolute -left-11 top-0 w-6 h-6 bg-[#1F5EFF] rounded-full border-4 border-white shadow-sm flex items-center justify-center text-[10px] text-white font-bold">1</div>
-                                    <h3 className="font-bold text-xl mb-3">Wait for the Reporting Cycle</h3>
+                                    <h4 className="font-bold text-xl mb-3">Wait for the Reporting Cycle</h4>
                                     <p className="text-gray-600 leading-relaxed">Banks typically report data to bureaus on a 30 to 45 day cycle. Do not expect changes to appear on CIBIL the very next day after payment.</p>
                                 </div>
                                 <div className="relative">
                                     <div className="absolute -left-11 top-0 w-6 h-6 bg-[#1F5EFF] rounded-full border-4 border-white shadow-sm flex items-center justify-center text-[10px] text-white font-bold">2</div>
-                                    <h4 className="font-bold text-xl mb-3">Conduct a Post-Closure Audit</h4>
+                                    <h5 className="font-bold text-xl mb-3">Conduct a Post-Closure Audit</h5>
                                     <p className="text-gray-600 leading-relaxed">Download your full credit report 60 days after receiving your NOC. Check if the balance is shown as zero and the status is 'Settled'.</p>
                                 </div>
                                 <div className="relative">
                                     <div className="absolute -left-11 top-0 w-6 h-6 bg-[#1F5EFF] rounded-full border-4 border-white shadow-sm flex items-center justify-center text-[10px] text-white font-bold">3</div>
-                                    <h4 className="font-bold text-xl mb-3">Initiate Bureau Disputes</h4>
+                                    <h5 className="font-bold text-xl mb-3">Initiate Bureau Disputes</h5>
                                     <p className="text-gray-600 leading-relaxed">If the balance is NOT zero, file a formal dispute on the bureau's portal. Attach your NOC and settlement payment receipts as evidence.</p>
                                 </div>
                                 <div className="relative">
                                     <div className="absolute -left-11 top-0 w-6 h-6 bg-[#1F5EFF] rounded-full border-4 border-white shadow-sm flex items-center justify-center text-[10px] text-white font-bold">4</div>
-                                    <h4 className="font-bold text-xl mb-3">Follow-up with the Bank's Nodal Officer</h4>
+                                    <h5 className="font-bold text-xl mb-3">Follow-up with the Bank's Nodal Officer</h5>
                                     <p className="text-gray-600 leading-relaxed">If the bureau dispute fails because the bank did not confirm the status, escalate to the bank's Nodal Officer with a legal warning.</p>
                                 </div>
                             </div>
                         </section>
 
                         <section id="settlement-to-closed" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Settled vs Closed: Understanding the Nuance</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Settled vs Closed: Understanding the Nuance</h3>
                             <p className="mb-6 text-lg leading-relaxed">
                                 Many borrowers are confused by the terms 'Settled' and 'Closed'. In banking parley, 'Closed' means you paid 100% of the dues. 'Settled' means you paid an agreed-upon portion, and the bank waived the rest. While both stop the recovery process, 'Settled' remains a negative indicator for approximately 7 years.
                             </p>
@@ -354,7 +354,7 @@ export default function PostLoanSettlementPage() {
                                 <div className="absolute top-0 right-0 p-4 opacity-10">
                                     <svg className="w-24 h-24" fill="currentColor" viewBox="0 0 20 20"><path fillRule="evenodd" d="M18 10a8 8 0 11-16 0 8 8 0 0116 0zm-7-4a1 1 0 11-2 0 1 1 0 012 0zM9 9a1 1 0 000 2v3a1 1 0 001 1h1a1 1 0 100-2v-3a1 1 0 00-1-1H9z" clipRule="evenodd"></path></svg>
                                 </div>
-                                <h3 className="text-2xl font-bold text-blue-800 mb-4">The Strategic 'Settled to Closed' Transition</h3>
+                                <h4 className="text-2xl font-bold text-blue-800 mb-4">The Strategic 'Settled to Closed' Transition</h4>
                                 <p className="text-blue-900 leading-relaxed mb-4">
                                     If your financial situation improves after a few years, you have the option to pay the waived amount (the difference between what you owed and what you paid in settlement). Once this is done, the bank is legally obligated to update your status from 'Settled' to 'Closed'. This is the ultimate method to 'clean' your credit history and regain access to premium credit cards and competitive home loan rates.
                                 </p>
@@ -362,7 +362,7 @@ export default function PostLoanSettlementPage() {
                         </section>
 
                         <section id="harassment-legal-recourse" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Harassment Recourse: Stopping the Zombie Debt</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Harassment Recourse: Stopping the Zombie Debt</h3>
                             <p className="mb-6 text-lg leading-relaxed">
                                 'Zombie Debt' is a term used for debt that has been settled but continues to haunt you through aggressive recovery agents. This often happens because the bank's 'Collection Agency' list was not updated, or the debt was sold to an Asset Reconstruction Company (ARC) without including the settlement status. Continuing to call, visit, or threaten a borrower after a settlement is a serious legal violation.
                             </p>
@@ -372,24 +372,24 @@ export default function PostLoanSettlementPage() {
                         </section>
 
                         <section id="consumer-law-protections" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Consumer Law Shield: Holding Banks Accountable</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Consumer Law Shield: Holding Banks Accountable</h3>
                             <p className="mb-6 text-lg leading-relaxed">
                                 The Consumer Protection Act, 2019, offers powerful tools for post-settlement disputes. Failure to issue an NOC, incorrect credit reporting, or continued harassment are all considered 'Deficiency in Service' and 'Unfair Trade Practices'. You can file a case in the District Consumer Disputes Redressal Commission and seek compensation for mental agony and financial loss.
                             </p>
                             <div className="grid md:grid-cols-2 gap-6 mb-8">
                                 <div className="bg-emerald-50 p-6 rounded-xl border border-emerald-100">
-                                    <h3 className="font-bold text-emerald-800 mb-2">Banking Ombudsman</h3>
+                                    <h4 className="font-bold text-emerald-800 mb-2">Banking Ombudsman</h4>
                                     <p className="text-sm text-emerald-900/80">The fastest route for relief. The Ombudsman can award compensation up to 20 Lakh INR for deficiency in service and 1 Lakh INR for mental agony.</p>
                                 </div>
                                 <div className="bg-purple-50 p-6 rounded-xl border border-purple-100">
-                                    <h4 className="font-bold text-purple-800 mb-2">Consumer Commission</h4>
+                                    <h5 className="font-bold text-purple-800 mb-2">Consumer Commission</h5>
                                     <p className="text-sm text-purple-900/80">Best for cases involving significant financial damage or where the bank's behavior was exceptionally predatory. Awards can include legal costs.</p>
                                 </div>
                             </div>
                         </section>
 
                         <section id="lost-docs-retrieval" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Lost Docs Retrieval: Reconstructing Your Proof</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Lost Docs Retrieval: Reconstructing Your Proof</h3>
                             <p className="mb-6 text-lg leading-relaxed">
                                 Losing your settlement documents is a high-risk situation. If the bank's records are ever contested or if you need to apply for a large loan years later, you will need that proof. If you have lost your original Settlement Letter or NOC, do not panic. The first step is to file an FIR (First Information Report) or a Non-Cognizable Report (NCR) at your local police station for the loss of documents.
                             </p>
@@ -399,12 +399,12 @@ export default function PostLoanSettlementPage() {
                         </section>
 
                         <section id="credit-rebuilding-plan" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Rebuilding Strategy: The Path back to 800+</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Rebuilding Strategy: The Path back to 800+</h3>
                             <p className="mb-6 text-lg leading-relaxed">
                                 Rebuilding your credit after a settlement is a marathon, not a sprint. It requires a disciplined approach to new credit. The goal is to show lenders that your period of financial stress was an anomaly, not a habit. The most effective way to start is with 'Secured Credit'. A credit card against a fixed deposit (FD) allows you to build a positive payment history without the bank taking a risk.
                             </p>
                             <div className="bg-gray-100 p-8 rounded-2xl border border-gray-200 mb-8">
-                                <h3 className="font-bold text-xl mb-4 text-[#2E2E2E]">The 4 Pillar Rebuilding Masterclass</h3>
+                                <h4 className="font-bold text-xl mb-4 text-[#2E2E2E]">The 4 Pillar Rebuilding Masterclass</h4>
                                 <ul className="space-y-4">
                                     <li className="flex items-start gap-3">
                                         <div className="mt-1 flex-shrink-0 w-4 h-4 rounded-full bg-blue-500"></div>
@@ -427,14 +427,14 @@ export default function PostLoanSettlementPage() {
                         </section>
 
                         <section id="settleloans-methodology" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Our Post-Debt Shield: The SettleLoans Advantage</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Our Post-Debt Shield: The SettleLoans Advantage</h3>
                             <p className="mb-6">
                                 SettleLoans provides a comprehensive 'Post-Settlement Care Package'. We believe that our responsibility doesn't end when the payment is made; it ends when your financial health is fully restored.
                             </p>
                             <div className="bg-[#2E2E2E] text-white p-10 rounded-[40px] shadow-2xl relative overflow-hidden mb-12">
                                 <div className="absolute top-0 right-0 w-64 h-64 bg-[#1F5EFF]/20 rounded-full -mr-32 -mt-32 blur-3xl"></div>
                                 <div className="relative z-10">
-                                    <h3 className="text-3xl font-black mb-8">The Financial Restoration Protocol</h3>
+                                    <h4 className="text-3xl font-black mb-8">The Financial Restoration Protocol</h4>
                                     <ul className="space-y-6">
                                         <li className="flex items-start gap-4">
                                             <div className="w-8 h-8 rounded-full bg-[#1F5EFF] flex items-center justify-center flex-shrink-0 text-sm font-bold">1</div>
@@ -470,7 +470,7 @@ export default function PostLoanSettlementPage() {
                         </section>
 
                         <section id="success-case-studies" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 text-center">Stories of Post-Settlement Victory</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 text-center">Stories of Post-Settlement Victory</h3>
                             <div className="grid md:grid-cols-2 gap-6 not-prose">
                                 {[
                                     {
@@ -508,7 +508,7 @@ export default function PostLoanSettlementPage() {
                                                 {s.name.charAt(0)}
                                             </div>
                                             <div>
-                                                <h3 className="font-bold text-[#2E2E2E]">{s.name}</h3>
+                                                <h4 className="font-bold text-[#2E2E2E]">{s.name}</h4>
                                                 <p className="text-xs text-gray-400">{s.loc}</p>
                                             </div>
                                             <div className="ml-auto text-yellow-400 text-sm">★★★★★</div>
@@ -523,7 +523,7 @@ export default function PostLoanSettlementPage() {
                         </section>
 
                         <section id="faqs" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Frequently Asked Questions</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Frequently Asked Questions</h3>
                             <div className="space-y-4 not-prose">
                                 {[
                                     { q: "Can I get a home loan after a settlement?", a: "Yes, but usually after a cooling off period of 2 to 3 years and with a restored CIBIL score of 750+. Some private lenders may consider you earlier if you provide a strong explanation and proof of current stable income." },
@@ -562,7 +562,7 @@ export default function PostLoanSettlementPage() {
                         <div className="lg:hidden mt-16 mb-8">
                             <div className="bg-[#1F5EFF] text-white p-10 rounded-[40px] shadow-2xl relative overflow-hidden">
                                 <div className="absolute top-0 left-0 w-full h-full bg-[radial-gradient(circle_at_top_right,_var(--tw-gradient-stops))] from-white/20 to-transparent"></div>
-                                <h3 className="text-2xl font-black mb-6 relative z-10">Protect Your Peace</h3>
+                                <h4 className="text-2xl font-black mb-6 relative z-10">Protect Your Peace</h4>
                                 <p className="text-lg mb-8 relative z-10 font-medium">
                                     Done with settlement but still facing issues? Let our legal experts handle the bureaucracy while you focus on your new life.
                                 </p>

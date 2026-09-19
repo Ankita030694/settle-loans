@@ -127,9 +127,9 @@ Due to an unfair billing and commercial dispute currently being handled by my le
 Please be advised of the following facts:
 1. This is strictly a personal civil dispute currently undergoing formal legal representation and dispute resolution under RBI Banking Ombudsman guidelines.
 2. The Reserve Bank of India (RBI Master Directions on Outsourcing of Financial Services, 2022/2023) and the Supreme Court of India strictly prohibit recovery agents from visiting a borrower's workplace, contacting employers, or disclosing personal financial data to colleagues.
-3. My legal counsel has already initiated formal legal cease-and-desist proceedings against the lender's Principal Nodal Officer for violation of privacy under Article 21 and illegal workplace intrusion.
+3. My legal counsel has already started formal legal cease-and-desist cases against the lender's Principal Nodal Officer for violation of privacy under Article 21 and illegal workplace intrusion.
 
-Should any individual arrive at reception or contact the switchboard claiming to represent [Bank Name], please instruct front-desk security to deny entry on grounds of unauthorized commercial trespass, and do not entertain any communication. Please forward any incoming details directly to me.
+Should any person arrive at reception or contact the switchboard claiming to represent [Bank Name], please instruct front-desk security to deny entry on grounds of unauthorized commercial trespass, and do not entertain any notice. Please forward any incoming details directly to me.
 
 I sincerely apologize for any inconvenience caused by this unlawful external intrusion and remain 100% committed to my daily professional duties.
 
@@ -148,7 +148,7 @@ Respected Sir/Madam,
 
 I am writing to register an urgent grievance against the unlawful, coercive, and criminal conduct of your recovery agents/collection agency regarding Loan Account No: [Your Account Number].
 
-On [Date] at approximately [Time], an agent identifying as representing your institution arrived at my workplace situated at [Office Address] and attempted to breach reception, interrogate office security, and demand access to my HR department regarding alleged loan arrears.
+On [Date] at about [Time], an agent identifying as representing your institution arrived at my workplace situated at [Office Address] and attempted to breach reception, interrogate office security, and demand access to my HR department regarding alleged loan arrears.
 
 This conduct constitutes an egregious violation of:
 1. RBI Master Directions on Outsourcing of Financial Services & Fair Practices Code: Strict prohibition against contacting borrowers at their place of work without explicit consent or disclosing debt status to employers/third parties.
@@ -158,9 +158,9 @@ This conduct constitutes an egregious violation of:
 DEMANDS FOR IMMEDIATE REDRESSAL:
 1. Immediately withdraw and blacklist the third-party recovery agency assigned to my file.
 2. Provide a written undertaking that no field agent shall contact my employer, colleagues, or visit my workplace.
-3. Conduct all future communication solely in writing via registered email or through my designated legal counsel at SettleLoans.
+3. Conduct all future notice solely in writing via registered email or through my designated legal counsel at SettleLoans.
 
-Failing receipt of a formal confirmation within 48 hours, I shall escalate this matter to the RBI Banking Ombudsman (CMS Portal), file a Police Complaint / FIR for criminal intimidation, and institute civil proceedings for damages to my professional reputation.
+Failing receipt of a formal confirmation within 48 hours, I shall escalate this matter to the RBI Banking Ombudsman (CMS Portal), file a Police Complaint / FIR for criminal intimidation, and institute civil cases for damages to my professional reputation.
 
 Yours faithfully,
 [Your Full Name]
@@ -172,7 +172,7 @@ Yours faithfully,
       question: "Can a recovery agent legally visit my office or workplace in India?",
       answer: (
         <p>
-          <strong>Under RBI Master Directions, recovery agents are strictly prohibited from visiting your workplace without prior consent.</strong> The Reserve Bank of India (RBI) circulars on the <em>Fair Practices Code</em> and <em>Outsourcing of Financial Services (updated 2022 and 2023)</em> mandate that recovery agents must first exhaust residential communication. They cannot show up at your office, factory, or corporate workplace unless you have explicitly provided written consent or have become entirely untraceable at your registered residential address. Even in authorized visits, agents are barred from creating any public scene or speaking to colleagues.
+          <strong>Under RBI Master Directions, recovery agents are strictly prohibited from visiting your workplace without prior consent.</strong> The Reserve Bank of India (RBI) circulars on the <em>Fair Practices Code</em> and <em>Outsourcing of Financial Services (updated 2022 and 2023)</em> mandate that recovery agents must first exhaust residential notice. They cannot show up at your office, factory, or corporate workplace unless you have explicitly provided written consent or have become entirely untraceable at your registered residential address. Even in authorized visits, agents are barred from creating any public scene or speaking to colleagues.
         </p>
       )
     },
@@ -196,15 +196,15 @@ Yours faithfully,
       question: "What are the allowed calling and visiting hours for recovery agents under RBI guidelines?",
       answer: (
         <p>
-          The RBI has fixed the permissible window for customer contact strictly between <strong>8:00 AM and 7:00 PM</strong>. Any phone calls, WhatsApp messages, or personal visits conducted before 8:00 AM or after 7:00 PM are illegal. Furthermore, persistent calling, spamming multiple times an hour, or sending threatening messages during office hours constitutes criminal harassment.
+          The RBI has fixed the permissible window for customer contact strictly between <strong>8:00 AM and 7:00 PM</strong>. Any phone calls, WhatsApp messages, or personal visits conducted before 8:00 AM or after 7:00 PM are illegal. also, persistent calling, spamming multiple times an hour, or sending threatening messages during office hours constitutes criminal harassment.
         </p>
       )
     },
     {
-      question: "Can my employer terminate my employment if a recovery agent creates a scene at the office?",
+      question: "Can my employer end my employment if a recovery agent creates a scene at the office?",
       answer: (
         <p>
-          <strong>A personal loan default is a civil contractual dispute, not an employment crime.</strong> Under Indian labor and employment laws, an employer cannot legally terminate a confirmed employee solely because of a personal financial dispute with a bank. To safeguard your workplace reputation against third-party nuisance, submit a confidential disclosure to your HR manager. Explain that an external agency is acting unlawfully, and clarify that legal proceedings against the lender are underway.
+          <strong>A personal loan default is a civil contractual dispute, not an employment crime.</strong> Under Indian labor and employment laws, an employer cannot legally end a confirmed employee solely because of a personal financial dispute with a bank. To safeguard your workplace reputation against third-party nuisance, submit a confidential disclosure to your HR manager. Explain that an external agency is acting unlawfully, and clarify that legal cases against the lender are underway.
         </p>
       )
     },
@@ -212,7 +212,7 @@ Yours faithfully,
       question: "Which sections of the Indian Penal Code (IPC) and Bharatiya Nyaya Sanhita (BNS) protect borrowers from workplace harassment?",
       answer: (
         <p>
-          You can initiate criminal complaints under multiple statutory provisions. First, invoke <strong>Criminal Trespass</strong> (Section 441/447 IPC / Section 329 BNS) for entering private office premises without authorization. Second, cite <strong>Criminal Intimidation</strong> (Section 503/506 IPC / Section 351 BNS) if they threaten your job or safety. Third, file for <strong>Defamation</strong> (Section 499/500 IPC / Section 356 BNS) for tarnishing your professional standing. Finally, report <strong>Extortion</strong> (Section 383/384 IPC / Section 308 BNS) if they demand spot cash under duress.
+          You can start criminal complaints under multiple statutory provisions. First, invoke <strong>Criminal Trespass</strong> (Section 441/447 IPC / Section 329 BNS) for entering private office premises without authorization. Second, cite <strong>Criminal Intimidation</strong> (Section 503/506 IPC / Section 351 BNS) if they threaten your job or safety. Third, file for <strong>Defamation</strong> (Section 499/500 IPC / Section 356 BNS) for tarnishing your professional standing. Finally, report <strong>Extortion</strong> (Section 383/384 IPC / Section 308 BNS) if they demand spot cash under duress.
         </p>
       )
     },
@@ -220,7 +220,7 @@ Yours faithfully,
       question: "How do I file a complaint with the RBI Banking Ombudsman against workplace recovery harassment?",
       answer: (
         <p>
-          First, submit a formal written complaint to the bank&apos;s <strong>Principal Nodal Officer (PNO)</strong> via registered email, citing the date, time, and agent details. If the bank fails to provide a satisfactory resolution within 30 days, file an online complaint on the <strong>RBI Complaint Management System (CMS portal: cms.rbi.org.in)</strong> under the <em>Reserve Bank - Integrated Ombudsman Scheme, 2021</em>. The Ombudsman has the power to award compensation up to ₹20 Lakhs for financial loss and up to ₹1 Lakh for mental harassment and loss of time.
+          First, submit a formal written complaint to the bank&apos;s <strong>Principal Nodal Officer (PNO)</strong> via registered email, citing the date, time, and agent details. If the bank fails to provide a satisfactory resolution within 30 days, file an online complaint on the <strong>RBI Complaint Management System (CMS portal: cms.rbi.org.in)</strong> under the <em>Reserve Bank - Integrated Ombudsman Scheme, 2021</em>. The Ombudsman has the power to award relief up to ₹20 Lakhs for financial loss and up to ₹1 Lakh for mental harassment and loss of time.
         </p>
       )
     },
@@ -236,7 +236,7 @@ Yours faithfully,
       question: "Can I settle my loan through One-Time Settlement (OTS) to stop workplace recovery pressure permanently?",
       answer: (
         <p>
-          <strong>Yes. A formal One-Time Settlement (OTS) is the most definitive, permanent legal solution.</strong> Through SettleLoans, experienced financial negotiators represent your genuine financial hardship to the bank&apos;s stressed asset committee, securing a substantial waiver (often 40% to 70% of total dues). Once the OTS sanction letter is issued and the compromise amount paid, the bank recalls all collection agencies and issues an official <strong>No Dues Certificate (NDC)</strong>, permanently closing the account.
+          <strong>Yes. A formal One-Time Settlement (OTS) is the most definitive, permanent legal solution.</strong> Through SettleLoans, experienced financial negotiators represent your genuine financial hardship to the bank&apos;s stressed asset committee, securing a large waiver (often 40% to 70% of total dues). Once the OTS sanction letter is issued and the compromise amount paid, the bank recalls all collection agencies and issues an official <strong>No Dues Certificate (NDC)</strong>, permanently closing the account.
         </p>
       )
     },
@@ -404,7 +404,7 @@ Yours faithfully,
                 <li className="flex items-start gap-2.5">
                   <CheckCircle2 className="w-5 h-5 text-[#1F5EFF] flex-shrink-0 mt-0.5" />
                   <span>
-                    <strong>Strict RBI Ban on Workplace Visits:</strong> Under RBI Master Directions on Outsourcing of Financial Services (2022/2023), recovery agents cannot visit your office unless residential communication is completely exhausted and you have given explicit consent.
+                    <strong>Strict RBI Ban on Workplace Visits:</strong> Under RBI Master Directions on Outsourcing of Financial Services (2022/2023), recovery agents cannot visit your office unless residential notice is completely exhausted and you have given explicit consent.
                   </span>
                 </li>
                 <li className="flex items-start gap-2.5">
@@ -422,7 +422,7 @@ Yours faithfully,
                 <li className="flex items-start gap-2.5">
                   <CheckCircle2 className="w-5 h-5 text-[#1F5EFF] flex-shrink-0 mt-0.5" />
                   <span>
-                    <strong>Your Job Is Legally Protected:</strong> Unsecured personal loan default is a purely civil contractual matter. Employers cannot lawfully terminate you for a personal bank dispute.
+                    <strong>Your Job Is Legally Protected:</strong> Unsecured personal loan default is a purely civil contractual matter. Employers cannot lawfully end you for a personal bank dispute.
                   </span>
                 </li>
                 <li className="flex items-start gap-2.5">
@@ -457,17 +457,17 @@ Yours faithfully,
                 Under Indian banking regulations established by the RBI and affirmed by the Supreme Court, <strong>loan recovery agents have NO legal right to enter your workplace</strong>. Office premises are private commercial property governed by corporate access policies.
               </p>
               <p className="text-base leading-relaxed mb-5 text-slate-700">
-                The regulatory framework mandates a strict hierarchy of communication:
+                The regulatory framework mandates a strict hierarchy of notice:
               </p>
               <ul className="list-disc list-inside space-y-2.5 text-base text-slate-700 mb-6 ml-2">
                 <li>
-                  <strong>Primary Contact Channel:</strong> All communication must be conducted via registered written notices, official email, or telephone contact at the borrower&apos;s residential contact coordinates between <strong>8:00 AM and 7:00 PM</strong>.
+                  <strong>Primary Contact Channel:</strong> All notice must be conducted via registered written notices, official email, or telephone contact at the borrower&apos;s residential contact coordinates between <strong>8:00 AM and 7:00 PM</strong>.
                 </li>
                 <li>
                   <strong>Condition Precedent for Workplace Visits:</strong> A recovery agent can ONLY attempt contact at a workplace if the borrower has completely vacated their residential address, has become demonstrably unreachable over registered phone channels, OR has provided explicit written consent requesting meetings at their office.
                 </li>
                 <li>
-                  <strong>Strict Prohibition of Third-Party Communication:</strong> Even if a recovery agent enters the office building, they are strictly prohibited under banking secrecy laws from revealing the nature of their visit, the name of the lending institution, the overdue amount, or the loan account details to security guards, receptionists, office colleagues, or HR personnel.
+                  <strong>Strict Prohibition of Third-Party notice:</strong> Even if a recovery agent enters the office building, they are strictly prohibited under banking secrecy laws from revealing the nature of their visit, the name of the lending institution, the overdue amount, or the loan account details to security guards, receptionists, office colleagues, or HR personnel.
                 </li>
               </ul>
               <p className="text-base leading-relaxed text-slate-700">
@@ -477,18 +477,18 @@ Yours faithfully,
 
             {/* Section 2 */}
             <section id="agent-dos-and-donts" className="scroll-mt-28 mb-14">
-              <h2 className="text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
+              <h3 className="text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
                 2. Legal Dos and Don&apos;ts: What Recovery Agents Can and Cannot Do
-              </h2>
+              </h3>
               <p className="text-base leading-relaxed mb-6 text-slate-700">
-                The Reserve Bank of India and the Indian Institute of Banking &amp; Finance (IIBF) have laid down comprehensive operational codes for Debt Recovery Agents (DRAs). Understanding the precise legal boundaries between lawful debt communication and illegal harassment enables you to identify violations immediately.
+                The Reserve Bank of India and the Indian Institute of Banking &amp; Finance (IIBF) have laid down comprehensive operational codes for Debt Recovery Agents (DRAs). Understanding the precise legal boundaries between lawful debt notice and illegal harassment enables you to identify violations immediately.
               </p>
 
               {/* 4-Sided Bordered Comparison Table */}
               <div className="my-8">
-                <h3 className="text-lg md:text-xl font-bold text-slate-900 mb-3">
+                <h4 className="text-lg md:text-xl font-bold text-slate-900 mb-3">
                   Comparative Guide: Lawful Recovery vs. Illegal Workplace Harassment
-                </h3>
+                </h4>
                 <div className="overflow-x-auto">
                   <table>
                     <thead>
@@ -526,7 +526,7 @@ Yours faithfully,
                       </tr>
                       <tr>
                         <td className="font-bold text-slate-900">Behavior &amp; Language</td>
-                        <td>Polite, civil, and professional communication of balance.</td>
+                        <td>Polite, civil, and professional notice of balance.</td>
                         <td className="text-rose-600 font-semibold">Shouting, abusive slurs, blocking doorway, or creating scene.</td>
                         <td>Sec 503/506 IPC (Intimidation)</td>
                       </tr>
@@ -544,9 +544,9 @@ Yours faithfully,
 
             {/* Section 3 */}
             <section id="penal-code-violations" className="scroll-mt-28 mb-14">
-              <h2 className="text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
+              <h3 className="text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
                 3. Criminal Penal Codes &amp; Constitutional Privacy Protections
-              </h2>
+              </h3>
               <p className="text-base leading-relaxed mb-5 text-slate-700">
                 When a recovery agent enters private commercial premises or harasses employees, their actions cross the line into <strong>cognizable criminal offenses</strong> under the IPC and Bharatiya Nyaya Sanhita (BNS). Legitimate debt recovery does not permit criminal trespass.
               </p>
@@ -556,7 +556,7 @@ Yours faithfully,
                 <div className="bg-slate-50 border border-slate-200 rounded-2xl p-5 shadow-sm">
                   <div className="flex items-center gap-2.5 mb-3 text-rose-600 font-bold text-base">
                     <AlertOctagon className="w-5 h-5" />
-                    <h3>Criminal Trespass (Sec 441/447 IPC / Sec 329 BNS)</h3>
+                    <h4>Criminal Trespass (Sec 441/447 IPC / Sec 329 BNS)</h4>
                   </div>
                   <p className="text-xs md:text-sm text-slate-600 leading-relaxed">
                     Corporate office premises, IT parks, and business establishments are private property. Entering without lawful visitor permission or refusing to leave when asked by corporate security constitutes criminal trespass, punishable by imprisonment and fines.
@@ -567,7 +567,7 @@ Yours faithfully,
                 <div className="bg-slate-50 border border-slate-200 rounded-2xl p-5 shadow-sm">
                   <div className="flex items-center gap-2.5 mb-3 text-rose-600 font-bold text-base">
                     <ShieldAlert className="w-5 h-5" />
-                    <h4>Criminal Intimidation (Sec 503/506 IPC / Sec 351 BNS)</h4>
+                    <h5>Criminal Intimidation (Sec 503/506 IPC / Sec 351 BNS)</h5>
                   </div>
                   <p className="text-xs md:text-sm text-slate-600 leading-relaxed">
                     Threatening to get a borrower fired, creating scenes to destroy their livelihood, or using threatening language to induce fear of injury to reputation is a punishable criminal offense under Indian law.
@@ -578,7 +578,7 @@ Yours faithfully,
                 <div className="bg-slate-50 border border-slate-200 rounded-2xl p-5 shadow-sm">
                   <div className="flex items-center gap-2.5 mb-3 text-rose-600 font-bold text-base">
                     <UserX className="w-5 h-5" />
-                    <h4>Criminal &amp; Civil Defamation (Sec 499/500 IPC / Sec 356 BNS)</h4>
+                    <h5>Criminal &amp; Civil Defamation (Sec 499/500 IPC / Sec 356 BNS)</h5>
                   </div>
                   <p className="text-xs md:text-sm text-slate-600 leading-relaxed">
                     Making unverified, disparaging statements to colleagues, receptionists, or HR directors regarding a person&apos;s credit status with intent to cause reputational damage entitles the borrower to file criminal defamation and seek massive civil tort damages.
@@ -589,20 +589,20 @@ Yours faithfully,
                 <div className="bg-slate-50 border border-slate-200 rounded-2xl p-5 shadow-sm">
                   <div className="flex items-center gap-2.5 mb-3 text-[#1F5EFF] font-bold text-base">
                     <Scale className="w-5 h-5" />
-                    <h4>Right to Privacy (Article 21 of Constitution)</h4>
+                    <h5>Right to Privacy (Article 21 of Constitution)</h5>
                   </div>
                   <p className="text-xs md:text-sm text-slate-600 leading-relaxed">
-                    As affirmed by the 9-Judge Constitution Bench of the Supreme Court in <em>Justice K.S. Puttaswamy (Retd.) v. Union of India (2017)</em>, personal financial standing is an intrinsic element of informational privacy and individual human dignity.
+                    As affirmed by the 9-Judge Constitution Bench of the Supreme Court in <em>Justice K.S. Puttaswamy (Retd.) v. Union of India (2017)</em>, personal financial standing is an intrinsic element of informational privacy and person human dignity.
                   </p>
                 </div>
               </div>
 
               {/* Landmark Supreme Court Case Box */}
               <div className="bg-amber-50 border-l-4 border-amber-500 p-5 rounded-r-xl my-6">
-                <h4 className="text-sm font-bold text-amber-900 mb-1 flex items-center gap-2">
+                <h5 className="text-sm font-bold text-amber-900 mb-1 flex items-center gap-2">
                   <Landmark className="w-4 h-4 text-amber-700" />
                   Landmark Precedent: Supreme Court in ICICI Bank Ltd. v. Shanti Devi Sharma (2008)
-                </h4>
+                </h5>
                 <p className="text-xs sm:text-sm text-amber-800 leading-relaxed">
                   The Supreme Court of India sternly ruled that banks and financial institutions cannot deploy musclemen, goons, or abusive recovery agents to recover loans through intimidation or humiliation. The Court held that <em>&quot;banks are vicariously liable for the unlawful acts of their recovery agents and must adhere strictly to the rule of law and human dignity.&quot;</em>
                 </p>
@@ -611,9 +611,9 @@ Yours faithfully,
 
             {/* Section 4 */}
             <section id="protecting-your-job-hr" className="scroll-mt-28 mb-14">
-              <h2 className="text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
-                4. Protecting Your Job: HR Communication Protocol &amp; Email Script
-              </h2>
+              <h3 className="text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
+                4. Protecting Your Job: HR notice Protocol &amp; Email Script
+              </h3>
               <p className="text-base leading-relaxed mb-5 text-slate-700">
                 The single biggest fear of any employee facing debt default is: <em>&quot;Will HR fire me if a recovery agent calls the office switchboard or sends an email?&quot;</em>
               </p>
@@ -668,9 +668,9 @@ Yours faithfully,
                       <span className="text-[10px] font-black uppercase tracking-widest text-blue-300 block">
                         Legal Defense &amp; Action Blueprint
                       </span>
-                      <h3 className="text-sm md:text-base font-black text-white leading-tight">
+                      <h4 className="text-sm md:text-base font-black text-white leading-tight">
                         Recovery Agent Workplace Harassment Summary &amp; Action Roadmap
-                      </h3>
+                      </h4>
                     </div>
                   </div>
                   <a
@@ -713,9 +713,9 @@ Yours faithfully,
 
             {/* Section 6 */}
             <section id="step-by-step-defense" className="scroll-mt-28 mb-14">
-              <h2 className="text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
+              <h3 className="text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
                 6. Step-by-Step Defense Action Plan: What to Do When an Agent Arrives
-              </h2>
+              </h3>
               <p className="text-base leading-relaxed mb-6 text-slate-700">
                 If a recovery agent physically reaches your office building or calls your office desk, execute this exact 6-stage legal protocol immediately:
               </p>
@@ -727,9 +727,9 @@ Yours faithfully,
                     <div className="w-7 h-7 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center font-bold text-xs">
                       1
                     </div>
-                    <h3 className="font-bold text-slate-900 text-base">
+                    <h4 className="font-bold text-slate-900 text-base">
                       Hold the Agent at Security / Visitor Lobby
-                    </h3>
+                    </h4>
                   </div>
                   <p className="text-sm text-slate-600 leading-relaxed ml-10">
                     Never allow the agent inside your office work floor or meeting rooms. Instruct the front-desk security executive to keep them seated in the public visitor holding area.
@@ -742,9 +742,9 @@ Yours faithfully,
                     <div className="w-7 h-7 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center font-bold text-xs">
                       2
                     </div>
-                    <h4 className="font-bold text-slate-900 text-base">
+                    <h5 className="font-bold text-slate-900 text-base">
                       Demand Credentials (Bank Letter, Agency ID &amp; DRA Certificate)
-                    </h4>
+                    </h5>
                   </div>
                   <p className="text-sm text-slate-600 leading-relaxed ml-10">
                     Under RBI regulations, you have the absolute legal right to inspect: 1) Bank Identity Card or Official Authorization Letter; 2) Collection Agency ID; 3) Indian Institute of Banking &amp; Finance (IIBF) Debt Recovery Agent Certificate. If they fail to produce all three, they are illegal trespassers.
@@ -757,9 +757,9 @@ Yours faithfully,
                     <div className="w-7 h-7 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center font-bold text-xs">
                       3
                     </div>
-                    <h4 className="font-bold text-slate-900 text-base">
+                    <h5 className="font-bold text-slate-900 text-base">
                       Activate Evidentiary Audio / Video Recording
-                    </h4>
+                    </h5>
                   </div>
                   <p className="text-sm text-slate-600 leading-relaxed ml-10">
                     Politely inform the agent that the interaction is being recorded for legal submission. Take photos of their identity cards and preserve visitor logbook timestamps as evidence for the RBI Banking Ombudsman.
@@ -772,12 +772,12 @@ Yours faithfully,
                     <div className="w-7 h-7 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center font-bold text-xs">
                       4
                     </div>
-                    <h4 className="font-bold text-slate-900 text-base">
+                    <h5 className="font-bold text-slate-900 text-base">
                       State Your Formal Privacy &amp; Trespass Objection
-                    </h4>
+                    </h5>
                   </div>
                   <p className="text-sm text-slate-600 leading-relaxed ml-10">
-                    Deliver this clear legal statement: <em>&quot;This office is private corporate property. Under RBI Master Directions on Outsourcing, you have no consent to visit my workplace. You are instructed to leave immediately. All further communication must be sent in writing via registered email or through my legal counsel.&quot;</em>
+                    Deliver this clear legal statement: <em>&quot;This office is private corporate property. Under RBI Master Directions on Outsourcing, you have no consent to visit my workplace. You are instructed to leave immediately. All further notice must be sent in writing via registered email or through my legal counsel.&quot;</em>
                   </p>
                 </div>
 
@@ -787,9 +787,9 @@ Yours faithfully,
                     <div className="w-7 h-7 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center font-bold text-xs">
                       5
                     </div>
-                    <h4 className="font-bold text-slate-900 text-base">
+                    <h5 className="font-bold text-slate-900 text-base">
                       Instruct Security to Escort the Agent Out
-                    </h4>
+                    </h5>
                   </div>
                   <p className="text-sm text-slate-600 leading-relaxed ml-10">
                     If the agent refuses to leave or creates a loud scene, request building facility management and security guards to escort them off the premises for illegal commercial trespass. Inform the agent that a Police Dial 112 call is being placed for breach of peace.
@@ -802,9 +802,9 @@ Yours faithfully,
                     <div className="w-7 h-7 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center font-bold text-xs">
                       6
                     </div>
-                    <h4 className="font-bold text-slate-900 text-base">
-                      Initiate Advocate Legal Cease-and-Desist Notice via SettleLoans
-                    </h4>
+                    <h5 className="font-bold text-slate-900 text-base">
+                      start Advocate Legal Cease-and-Desist Notice via SettleLoans
+                    </h5>
                   </div>
                   <p className="text-sm text-slate-600 leading-relaxed ml-10">
                     Immediately submit the incident details to SettleLoans. Our empaneled advocates draft and dispatch a formal legal notice to the bank&apos;s Managing Director and Principal Nodal Officer, freezing all field recovery agency mandates within 48 hours.
@@ -815,9 +815,9 @@ Yours faithfully,
 
             {/* Section 7 */}
             <section id="complaint-draft-templates" className="scroll-mt-28 mb-14">
-              <h2 className="text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
+              <h3 className="text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
                 7. Official Draft Complaint Templates: Bank PNO, RBI CMS &amp; Police
-              </h2>
+              </h3>
               <p className="text-base leading-relaxed mb-5 text-slate-700">
                 To create legal deterrence, you must establish an official documentary trail against the lending institution. Below is the ready-to-use complaint format to send to the Bank&apos;s Principal Nodal Officer (PNO) and attach to your RBI Ombudsman filing.
               </p>
@@ -855,9 +855,9 @@ Yours faithfully,
 
               {/* Escalation Channels Table */}
               <div className="my-8">
-                <h3 className="text-lg md:text-xl font-bold text-slate-900 mb-3">
+                <h4 className="text-lg md:text-xl font-bold text-slate-900 mb-3">
                   Key Regulatory Escalation Authorities in India
-                </h3>
+                </h4>
                 <div className="overflow-x-auto">
                   <table>
                     <thead>
@@ -877,7 +877,7 @@ Yours faithfully,
                       </tr>
                       <tr>
                         <td className="font-bold text-[#1F5EFF]">RBI Banking Ombudsman (RB-IOS 2021)</td>
-                        <td>Statutory appellate regulator; awards up to ₹20L compensation + ₹1L damages.</td>
+                        <td>Statutory appellate regulator; awards up to ₹20L relief + ₹1L damages.</td>
                         <td><a href="https://cms.rbi.org.in" target="_blank" rel="noopener noreferrer" className="text-[#1F5EFF] underline">cms.rbi.org.in</a></td>
                         <td>30 Days</td>
                       </tr>
@@ -901,9 +901,9 @@ Yours faithfully,
 
             {/* Section 8 */}
             <section id="ots-permanent-relief" className="scroll-mt-28 mb-14">
-              <h2 className="text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
+              <h3 className="text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
                 8. Permanent Debt Relief: One-Time Settlement (OTS) with SettleLoans
-              </h2>
+              </h3>
               <p className="text-base leading-relaxed mb-5 text-slate-700">
                 While legal cease-and-desist notices immediately stop illegal field harassment, the underlying debt default remains active on bank balance sheets. As long as the account remains delinquent, it continues compounding penal interest (up to 36% p.a.) and risks being transferred to alternate collection agencies every few months.
               </p>
@@ -916,7 +916,7 @@ Yours faithfully,
                   <div className="w-10 h-10 rounded-full bg-blue-100 text-[#1F5EFF] flex items-center justify-center mx-auto mb-3">
                     <Scale className="w-5 h-5" />
                   </div>
-                  <h3 className="font-bold text-slate-900 text-sm mb-1">Substantial Financial Waiver</h3>
+                  <h4 className="font-bold text-slate-900 text-sm mb-1">large Financial Waiver</h4>
                   <p className="text-xs text-slate-600">
                     SettleLoans negotiates waivers of <strong>40% to 70%</strong> on accumulated penal interest and outstanding principal.
                   </p>
@@ -926,7 +926,7 @@ Yours faithfully,
                   <div className="w-10 h-10 rounded-full bg-emerald-100 text-emerald-600 flex items-center justify-center mx-auto mb-3">
                     <ShieldCheck className="w-5 h-5" />
                   </div>
-                  <h4 className="font-bold text-slate-900 text-sm mb-1">Official Bank Sanction Letter</h4>
+                  <h5 className="font-bold text-slate-900 text-sm mb-1">Official Bank Sanction Letter</h5>
                   <p className="text-xs text-slate-600">
                     Every settlement is approved on authentic bank letterhead with zero third-party mediator risk.
                   </p>
@@ -936,7 +936,7 @@ Yours faithfully,
                   <div className="w-10 h-10 rounded-full bg-purple-100 text-purple-600 flex items-center justify-center mx-auto mb-3">
                     <Lock className="w-5 h-5" />
                   </div>
-                  <h4 className="font-bold text-slate-900 text-sm mb-1">Permanent ₹0 NDC &amp; Closure</h4>
+                  <h5 className="font-bold text-slate-900 text-sm mb-1">Permanent ₹0 NDC &amp; Closure</h5>
                   <p className="text-xs text-slate-600">
                     Secure an official No Dues Certificate (NDC) that permanently extinguishes debt liability and halts all recovery.
                   </p>
@@ -955,9 +955,9 @@ Yours faithfully,
                   Clear Answers to Common Questions
                 </span>
               </div>
-              <h2 className="text-2xl md:text-3xl font-black text-slate-900 mb-8 leading-tight">
+              <h3 className="text-2xl md:text-3xl font-black text-slate-900 mb-8 leading-tight">
                 9. Frequently Asked Questions: Recovery Agents &amp; Workplace Rights
-              </h2>
+              </h3>
 
               <div className="space-y-4">
                 {faqs.map((faq, index) => (
@@ -974,10 +974,10 @@ Yours faithfully,
 
             {/* Regulatory Sources Strip (5 Official Links) */}
             <div className="bg-slate-50 border border-slate-200 rounded-2xl p-6 mb-10 text-xs text-slate-600 space-y-3">
-              <h3 className="font-bold uppercase tracking-wider text-slate-900 text-sm flex items-center gap-2">
+              <h4 className="font-bold uppercase tracking-wider text-slate-900 text-sm flex items-center gap-2">
                 <Landmark className="w-4 h-4 text-[#1F5EFF]" />
                 <span>Statutory Authorities &amp; Official Regulatory References</span>
-              </h3>
+              </h4>
               <ul className="space-y-2">
                 <li className="flex items-center gap-2">
                   <ExternalLink className="w-4 h-4 text-[#1F5EFF] flex-shrink-0" />
@@ -1039,9 +1039,9 @@ Yours faithfully,
 
             {/* Internal Topic Badges (10 Links) */}
             <div className="my-10 pt-6 border-t border-slate-200">
-              <h4 className="text-sm font-bold uppercase tracking-wider text-slate-900 mb-4">
+              <h5 className="text-sm font-bold uppercase tracking-wider text-slate-900 mb-4">
                 Related Debt Resolution &amp; Legal Protection Guides
-              </h4>
+              </h5>
               <div className="flex flex-wrap gap-2">
                 <Link
                   href="/rbi-rules-for-recovery-agents"

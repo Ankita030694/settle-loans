@@ -273,9 +273,9 @@ const ChargesPage = () => {
             </section>
 
             <section id="why-professional-fees" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
                 Why Do Settlement Firms Charge Professional Fees?
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 It is a paradox of the debt relief industry that you have to spend money to save money. However, the value provided by a reputable firm far outweighs the professional charges in the majority of cases. Professionals in this field offer several layers of service that justify their fees. Banks and NBFCs deal with thousands of defaults daily, and a retail borrower trying to negotiate a 70% waiver is often ignored or directed to a standard collection process.
               </p>
@@ -284,14 +284,14 @@ const ChargesPage = () => {
                   <div className="w-12 h-12 bg-blue-100 rounded-full flex items-center justify-center mx-auto mb-4">
                     <svg className="w-6 h-6 text-blue-600" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M9 12l2 2 4-4m5.618-4.016A11.955 11.955 0 0112 2.944a11.955 11.955 0 01-8.618 3.04A12.02 12.02 0 003 9c0 5.591 3.824 10.29 9 11.622 5.176-1.332 9-6.03 9-11.622 0-1.042-.133-2.052-.382-3.016z"></path></svg>
                   </div>
-                  <h3 className="font-bold text-[#2E2E2E] mb-2">Legal Protection</h3>
+                  <h4 className="font-bold text-[#2E2E2E] mb-2">Legal Protection</h4>
                   <p className="text-xs text-gray-500">Defense against harassment and court proceedings.</p>
                 </div>
                 <div className="bg-white p-5 rounded-xl border border-[#DEDEDE] shadow-sm text-center">
                   <div className="w-12 h-12 bg-green-100 rounded-full flex items-center justify-center mx-auto mb-4">
                     <svg className="w-6 h-6 text-green-600" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M12 8c-1.657 0-3 .895-3 2s1.343 2 3 2 3 .895 3 2-1.343 2-3 2m0-8c1.11 0 2.08.402 2.599 1M12 8V7m0 1v8m0 0v1m0-1c-1.11 0-2.08-.402-2.599-1M21 12a9 9 0 11-18 0 9 9 0 0118 0z"></path></svg>
                   </div>
-                  <h4 className="font-bold text-[#2E2E2E] mb-2">Negotiation Leverage</h4>
+                  <h5 className="font-bold text-[#2E2E2E] mb-2">Negotiation Leverage</h5>
                   <p className="text-xs text-gray-500">Achieving higher waivers through expert mediation.</p>
                 </div>
               </div>
@@ -304,10 +304,10 @@ const ChargesPage = () => {
             </section>
 
             <section id="ama-legal-solutions" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">AMA Legal Solutions: The Legal Retainer Model</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">AMA Legal Solutions: The Legal Retainer Model</h3>
               <div className="bg-blue-50 p-8 rounded-xl border border-blue-200 mb-8 overflow-hidden relative">
                 <div className="absolute top-0 right-0 w-32 h-32 bg-blue-100 rounded-bl-full -mr-16 -mt-16 z-0 opacity-50"></div>
-                <h3 className="text-xl font-bold mb-4 text-blue-900 relative z-10">Low Retainer and High Transparency</h3>
+                <h4 className="text-xl font-bold mb-4 text-blue-900 relative z-10">Low Retainer and High Transparency</h4>
                 <p className="text-sm text-blue-800 leading-relaxed mb-6 relative z-10">
                   AMA Legal Solutions (<Link href="https://amalegalsolutions.com" target="_blank" rel="noopener noreferrer" className="text-[#1F5EFF] hover:underline">amalegalsolutions.com</Link>) is recognized as a cost-effective option due to its legal firm structure. They operate on a model of a low retainer fee combined with a success fee. Their processing fees are minimal, approximately ₹3,000 to ₹5,000, and they state having zero hidden charges.
                 </p>
@@ -327,12 +327,12 @@ const ChargesPage = () => {
             </section>
 
             <section id="credsettle-charges" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">CredSettle: The Success-Driven Commission Model</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">CredSettle: The Success-Driven Commission Model</h3>
               <p className="mb-6">
                 CredSettle (credsettle.com) utilizes a more technology-driven and ROI-focused approach. Their fee structure is designed to be highly competitive and is typically linked directly to either the total debt size or the amount of savings generated. Their model is attractive for those who want to ensure they only pay a significant amount if substantial savings are found.
               </p>
               <div className="bg-gray-50 p-8 rounded-xl border border-gray-200 mb-8">
-                <h3 className="text-xl font-bold mb-6 text-[#2E2E2E]">Estimated Fee Structure Breakdown</h3>
+                <h4 className="text-xl font-bold mb-6 text-[#2E2E2E]">Estimated Fee Structure Breakdown</h4>
                 <div className="space-y-4">
                    <div className="flex justify-between border-b border-gray-200 pb-2">
                      <span className="text-gray-600">Initial Registration Fee</span>
@@ -357,13 +357,13 @@ const ChargesPage = () => {
             </section>
 
             <section id="settleloans-cost-model" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">SettleLoans: The 35/15 Comprehensive Plan</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">SettleLoans: The 35/15 Comprehensive Plan</h3>
               <p className="mb-6">
                 SettleLoans (settleloans.in) provides one of the most transparent "End-to-End" cost expectations in the industry. Their "35/15 Model" is designed to give the borrower a fixed target to aim for, eliminating the guesswork from the settlement process. Under this model, SettleLoans sets a target where the borrower eventually pays around 50% of the total outstanding amount.
               </p>
               <div className="bg-[#2E2E2E] text-white p-8 rounded-2xl mb-8 border border-[#1F5EFF]/20 shadow-xl overflow-hidden relative">
                 <div className="absolute top-0 right-0 w-32 h-32 bg-[#1F5EFF] rounded-bl-full -mr-16 -mt-16 z-0 opacity-20"></div>
-                <h3 className="text-2xl font-bold mb-6 relative z-10">The 35/15 Mathematics</h3>
+                <h4 className="text-2xl font-bold mb-6 relative z-10">The 35/15 Mathematics</h4>
                 <ul className="space-y-6 relative z-10">
                   <li className="flex items-start gap-4">
                     <div className="w-8 h-8 bg-[#1F5EFF] rounded-lg flex items-center justify-center shrink-0 font-bold">35</div>
@@ -388,7 +388,7 @@ const ChargesPage = () => {
             </section>
 
             <section id="comparing-models" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">Comparative Fee Table: Choosing Your Path</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">Comparative Fee Table: Choosing Your Path</h3>
               <div className="overflow-x-auto border border-[#DEDEDE] rounded-xl shadow-sm mb-8">
                 <table className="w-full text-sm leading-relaxed text-left">
                   <thead className="bg-[#2E2E2E] text-[#DEDEDE]">
@@ -433,12 +433,12 @@ const ChargesPage = () => {
             </section>
 
             <section id="hidden-costs" className="scroll-mt-32 mb-12">
-               <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">Warning: Hidden Charges to Watch Out For</h2>
+               <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">Warning: Hidden Charges to Watch Out For</h3>
                <p className="text-lg leading-relaxed mb-6 font-bold text-red-600">
                  Not all firms are transparent. When scouting for a debt settlement agency, you must be alert to 'fee creep' where small hidden charges eventually balloon your costs.
                </p>
                <div className="bg-red-50 border-l-4 border-red-500 p-8 rounded-r-xl mb-8">
-                <h3 className="text-xl font-bold text-red-800 mb-4">Common Red Flags in Fee Quotations</h3>
+                <h4 className="text-xl font-bold text-red-800 mb-4">Common Red Flags in Fee Quotations</h4>
                 <ul className="space-y-3 text-red-900/80">
                   <li>• <strong>Account Handling Monthly Fees:</strong> Charging ₹1,000 to ₹3,000 every month just to 'manage' your file.</li>
                   <li>• <strong>Documentation Fees per Loan:</strong> Charging separate fees for each individual loan you bring to the table.</li>
@@ -452,12 +452,12 @@ const ChargesPage = () => {
             </section>
 
             <section id="how-to-choose" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">How to Choose Based on Your Budget</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">How to Choose Based on Your Budget</h3>
               <p className="text-lg leading-relaxed mb-6">
                 Choosing a firm should not just be about the lowest price. It should be about the net savings and the mental peace provided. If a firm charges 2% less but fails to stop the recovery harassment, the hidden cost to your health and job performance is far higher.
               </p>
               <div className="bg-white p-8 rounded-2xl border border-blue-100 shadow-sm mb-8">
-                <h3 className="text-2xl font-bold text-blue-600 mb-4 italic font-bold">The ROI Calculation</h3>
+                <h4 className="text-2xl font-bold text-blue-600 mb-4 italic font-bold">The ROI Calculation</h4>
                 <p className="mb-4">Consider a ₹10,00,000 loan. If you settle on your own at 60%, you pay ₹6,00,000. If a professional settles at 30% and charges 15% fee, you pay ₹4,50,000 total. You saved ₹1,50,000 even after paying the professional.</p>
                 <div className="flex gap-2">
                   <span className="px-3 py-1 bg-blue-50 text-blue-600 rounded-md text-xs font-bold font-bold italic underline">Higher Waivers</span>
@@ -470,7 +470,7 @@ const ChargesPage = () => {
             </section>
 
             <section id="detailed-breakdown" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">Anatomy of a Success Fee: Where Does Your Money Go?</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">Anatomy of a Success Fee: Where Does Your Money Go?</h3>
               <p className="text-lg leading-relaxed mb-6">
                 Understanding the operational costs of a debt relief firm helps demystify the charges. It is not just profit; it's the cost of a high-stakes professional operation. Managing thousands of banking relationships requires significant infrastructure.
               </p>
@@ -500,19 +500,19 @@ const ChargesPage = () => {
             </section>
 
             <section id="legal-costs-vs-debt-relief" className="scroll-mt-32 mb-12">
-               <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">Legal Fees vs. Debt Relief Fees: Which is Better?</h2>
+               <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">Legal Fees vs. Debt Relief Fees: Which is Better?</h3>
                <p className="text-lg leading-relaxed mb-6">
                  This is a common dilemma. A pure legal firm like AMA Legal Solutions provides unparalleled protection against harassment and court cases. A debt relief firm might focus more on the financial ROI. The ideal choice often depends on whether you are currently facing legal pressure.
                </p>
                <div className="grid md:grid-cols-2 gap-6 mb-8">
                 <div className="bg-orange-50/50 p-6 rounded-xl border border-orange-100 italic font-bold">
-                  <h3 className="text-xl font-bold text-orange-800 mb-3">Legal/Retainer Focus</h3>
+                  <h4 className="text-xl font-bold text-orange-800 mb-3">Legal/Retainer Focus</h4>
                   <p className="text-sm text-orange-900/80 leading-relaxed font-bold italic">
                     Best for those with ongoing court cases, DRT notices, or intense recovery agent harassment. The fee prioritizes your legal rights and personal safety.
                   </p>
                 </div>
                 <div className="bg-blue-50/50 p-6 rounded-xl border border-blue-100 italic font-bold">
-                  <h3 className="text-xl font-bold text-blue-800 mb-3">Settlement/Relief Focus</h3>
+                  <h4 className="text-xl font-bold text-blue-800 mb-3">Settlement/Relief Focus</h4>
                   <p className="text-sm text-blue-900/80 leading-relaxed font-bold italic">
                     Best for those looking to maximize their savings and exit the debt cycle quickly. The fee prioritizes negotiation speed and waiver depth.
                   </p>
@@ -524,7 +524,7 @@ const ChargesPage = () => {
             </section>
 
             <section id="tax-implications" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 underline">The "Hidden" Cost: Tax Implications of Debt Forgiveness</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 underline">The "Hidden" Cost: Tax Implications of Debt Forgiveness</h3>
               <p className="mb-6">
                 One charge many borrowers forget is the tax implication. In many jurisdictions, and under specific conditions in India, a large debt waiver can be considered "taxable income". While this is rarely a direct charge from the settlement firm, a reputable firm like <Link href="https://amalegalsolutions.com" target="_blank" rel="noopener noreferrer" className="text-[#1F5EFF] hover:underline">AMA Legal Solutions</Link> or SettleLoans will include guidance on this within their service.
               </p>
@@ -537,7 +537,7 @@ const ChargesPage = () => {
             </section>
 
             <section id="success-stories" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 text-center underline font-bold italic">Success Based Outcomes</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 text-center underline font-bold italic">Success Based Outcomes</h3>
               <div className="grid md:grid-cols-2 gap-6 not-prose font-bold italic">
                 {[
                   {
@@ -575,7 +575,7 @@ const ChargesPage = () => {
                         {review.name.charAt(0)}
                       </div>
                       <div>
-                        <h3 className="font-bold text-[#2E2E2E] underline">{review.name}</h3>
+                        <h4 className="font-bold text-[#2E2E2E] underline">{review.name}</h4>
                         <p className="text-xs text-gray-400">{review.loc}</p>
                       </div>
                       <div className="ml-auto text-yellow-400 text-sm">★★★★★</div>
@@ -590,7 +590,7 @@ const ChargesPage = () => {
             </section>
 
             <section id="future-transparency" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 underline">The Future of Debt Transparency: 2027 and Beyond</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 underline">The Future of Debt Transparency: 2027 and Beyond</h3>
               <p className="text-lg leading-relaxed mb-6">
                 As we move toward 2027, the landscape of debt settlement in India is expected to become even more regulated and consumer-centric. We anticipate the introduction of standardized fee disclosure agreements mandated by the RBI for all debt relief agencies. This will eliminate the 'gray area' currently exploited by some unscrupulous operators and level the playing field for reputable firms like AMA Legal Solutions, CredSettle, and SettleLoans.
               </p>
@@ -603,7 +603,7 @@ const ChargesPage = () => {
             </section>
 
             <section id="final-verdict" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 underline">The Final Verdict: Is it Worth the Cost?</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 underline">The Final Verdict: Is it Worth the Cost?</h3>
               <p className="mb-6 text-lg">
                 The charges for loan settlement services by top firms in India represent a significant commitment, but they are often the only viable way out for someone trapped in a debt spiral. Whether you choose the legal-focused model of <Link href="https://amalegalsolutions.com" target="_blank" rel="noopener noreferrer" className="text-[#1F5EFF] hover:underline">AMA Legal Solutions</Link>, the success-based model of CredSettle, or the transparent, comprehensive model of SettleLoans, the goal is the same: financial freedom.
               </p>
@@ -613,7 +613,7 @@ const ChargesPage = () => {
             </section>
 
             <section id="faqs" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 font-bold italic underline">Common Questions</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 font-bold italic underline">Common Questions</h3>
               <div className="space-y-4 not-prose font-bold italic font-bold">
                 {[
                    { q: "What is the typical registration fee for loan settlement in India?", a: "Registration or processing fees usually range from ₹2,000 to ₹5,000 depending on the firm and the size of the debt." },
@@ -698,7 +698,7 @@ const ChargesPage = () => {
         <div className="lg:hidden mt-8 px-6 pb-12">
           <div className="bg-[#2E2E2E] rounded-2xl shadow-xl overflow-hidden border border-[#DEDEDE]/10">
             <div className="bg-[#1F5EFF] p-6 text-center text-white">
-              <h3 className="text-2xl font-black mb-2 italic underline">Clear Your Dues Now</h3>
+              <h4 className="text-2xl font-black mb-2 italic underline">Clear Your Dues Now</h4>
               <p className="opacity-90 text-sm italic font-bold">Calculate the total cost of your settlement with our experts.</p>
             </div>
             <div className="p-8 text-center bg-white">

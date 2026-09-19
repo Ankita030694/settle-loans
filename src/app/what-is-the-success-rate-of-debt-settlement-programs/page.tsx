@@ -274,9 +274,9 @@ export default function DebtSettlementSuccessRatePage() {
             </section>
 
             <section id="2024-2025-landscape" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
                 The 2024-2025 Debt Settlement Landscape
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 The financial landscape in India has undergone a massive shift as we move through 2024 and into 2025. Following a period of aggressive lending by digital apps and NBFCs, we are now seeing a correction phase. This has created a unique environment for debt settlement. Banks and financial institutions are dealing with rising delinquency rates, which makes them more open to One Time Settlements (OTS) than they were in previous years.
               </p>
@@ -284,7 +284,7 @@ export default function DebtSettlementSuccessRatePage() {
                 In 2024, the Reserve Bank of India (RBI) reinforced guidelines regarding the fair treatment of borrowers and the conduct of recovery agents. This regulatory pressure has pushed many lenders to prefer structured settlement negotiations over aggressive and often illegal recovery tactics. When a bank realizes that a borrower is in genuine financial distress, they often calculate that recovering 40% of the principal now is better than spending years in litigation with no guarantee of recovery.
               </p>
               <div className="bg-gray-50 p-8 rounded-xl border border-gray-200 mb-8">
-                <h3 className="text-xl font-bold mb-6">Current Market Trends: 2025 Outlook</h3>
+                <h4 className="text-xl font-bold mb-6">Current Market Trends: 2025 Outlook</h4>
                 <p className="mb-4 text-sm text-gray-600">
                   The debt settlement market in India is projected to grow significantly, with a market share reaching nearly 8 million USD in 2024. This growth is driven by a better understanding among consumers that they have rights and options beyond just defaulting.
                 </p>
@@ -318,9 +318,9 @@ export default function DebtSettlementSuccessRatePage() {
             </section>
 
             <section id="account-vs-program" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
                 Account-Level vs Program-Level Success
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 When talking about success rates, it is vital to distinguish between settling a single account and completing an entire program. Industry data from organizations like the American Fair Credit Council (AFCC), which tracks multi-year trends, provides us with a clear picture. About 74% to 76% of individuals who enter a debt relief program successfully settle at least one of their accounts within the first three years.
               </p>
@@ -328,7 +328,7 @@ export default function DebtSettlementSuccessRatePage() {
                 This is what we call 'Account-Level Success'. For many borrowers, this is where the momentum starts. Often, people have one or two 'problem' debts that are draining their monthly income through high interest. By settling these first, they free up the cash flow needed to tackle the remaining debts. The success rate for individual accounts is generally much higher than the success rate for entire programs because life often gets in the way.
               </p>
               <div className="bg-blue-50 p-8 rounded-xl border border-blue-200 mb-8">
-                <h3 className="font-bold text-blue-900 mb-4">Why Account-Level Success is the Priority</h3>
+                <h4 className="font-bold text-blue-900 mb-4">Why Account-Level Success is the Priority</h4>
                 <p className="text-sm text-blue-800 leading-relaxed mb-4">
                   Consider a borrower with five credit card debts. If they manage to settle three of those for 50% each, they have effectively reduced their monthly interest burden by 60%. Even if they stop the program there, they have achieved a massive victory. This is why we focus on 'Incremental Success'. Every single settled account is a brick removed from the wall that is blocking your financial future.
                 </p>
@@ -336,9 +336,9 @@ export default function DebtSettlementSuccessRatePage() {
             </section>
 
             <section id="completion-statistics" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
                 Program Completion Statistics: The Hard Truth
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 Settling every single debt in a portfolio is a marathon, not a sprint. Data suggests that between 35% and 60% of enrollees complete their full program. Why is this number lower than the account-level success? The answer is usually financial instability. To settle a debt, you need a lump sum of money. If a borrower loses their job again or faces a medical emergency mid-program, they might have to use their 'settlement savings' for survival, forcing them to drop out of the program.
               </p>
@@ -348,26 +348,26 @@ export default function DebtSettlementSuccessRatePage() {
               <div className="grid sm:grid-cols-3 gap-4 my-8">
                 <div className="bg-white p-5 rounded-xl border border-[#DEDEDE] shadow-sm text-center">
                   <div className="text-3xl font-black text-[#1F5EFF] mb-2">75%</div>
-                  <h3 className="font-bold text-[#2E2E2E] mb-1">Partial Success</h3>
+                  <h4 className="font-bold text-[#2E2E2E] mb-1">Partial Success</h4>
                   <p className="text-xs text-gray-500">Settle at least one account within 36 months.</p>
                 </div>
                 <div className="bg-white p-5 rounded-xl border border-[#DEDEDE] shadow-sm text-center">
                   <div className="text-3xl font-black text-green-600 mb-2">48%</div>
-                  <h4 className="font-bold text-[#2E2E2E] mb-1">Average Waiver</h4>
+                  <h5 className="font-bold text-[#2E2E2E] mb-1">Average Waiver</h5>
                   <p className="text-xs text-gray-500">Typical reduction of the outstanding balance.</p>
                 </div>
                 <div className="bg-white p-5 rounded-xl border border-[#DEDEDE] shadow-sm text-center">
                   <div className="text-3xl font-black text-purple-600 mb-2">14.3</div>
-                  <h4 className="font-bold text-[#2E2E2E] mb-1">Months per Debt</h4>
+                  <h5 className="font-bold text-[#2E2E2E] mb-1">Months per Debt</h5>
                   <p className="text-xs text-gray-500">Average time to settle a single account.</p>
                 </div>
               </div>
             </section>
 
             <section id="savings-analysis" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
                 Real World Savings Analysis: What Will You Pay?
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 The most frequent question we hear is: 'How much will I save?' Based on our analysis of thousands of cases in 2024, the average savings percentage ranges from 30% to 60% of the total outstanding amount. This means if you owe 10 lakh rupees, a successful settlement could see you closing the account for 4 lakh to 7 lakh rupees.
               </p>
@@ -375,7 +375,7 @@ export default function DebtSettlementSuccessRatePage() {
                 It is important to note that the savings are calculated on the 'Total Outstanding', which includes the original principal plus the accumulated interest and penalties. This is why it often makes sense to wait until a debt is at least 6 to 9 months old before attempting a settlement. As time passes and the debt becomes 'static', the bank's willingness to give a larger waiver increases because their internal valuation of that debt decreases.
               </p>
               <div className="bg-white p-8 rounded-2xl border border-[#DEDEDE] shadow-sm mb-12">
-                <h3 className="text-xl font-bold mb-6">Example: 48% Average Waiver Savings</h3>
+                <h4 className="text-xl font-bold mb-6">Example: 48% Average Waiver Savings</h4>
                 <table className="w-full text-left">
                   <thead>
                     <tr className="border-b border-gray-100">
@@ -406,9 +406,9 @@ export default function DebtSettlementSuccessRatePage() {
             </section>
 
             <section id="timeline-to-success" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
                 The Timeline to Success: When Does it Happen?
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 Patience is a prerequisite for success in debt settlement. You cannot expect a settlement letter the day after you stop paying your EMIs. In fact, most banks will not even consider a settlement until the loan has been classified as a Non-Performing Asset (NPA), which typically happens after 90 days of non-payment.
               </p>
@@ -421,9 +421,9 @@ export default function DebtSettlementSuccessRatePage() {
             {/* Adding more content for depth and weight. */}
 
             <section id="factors-of-success" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
                 Critical Success Factors: What Makes a Settlement Work?
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 Why do some people get a 70% waiver while others struggle to get even 20%? The answer lies in the intersection of several factors. The most powerful tool in a settlement negotiation is the proof of 'Genuine Hardship'. If a bank believes you have the money but are simply refusing to pay, they will use every legal weapon available to collect 100%. However, if you can document a loss of job, a medical crisis, or a failed business, you provide the bank with a logical reason to accept a settlement.
               </p>
@@ -431,7 +431,7 @@ export default function DebtSettlementSuccessRatePage() {
                 Secondary factors include the 'Internal Policy' of the specific bank. Some private banks in India are very aggressive in the first year but become extremely flexible in the second year. Other public sector banks have very rigid One Time Settlement schemes that only open at certain times of the year. Understanding these internal cycles is what differentiates a professional negotiator from an amateur.
               </p>
               <div className="bg-[#2E2E2E] text-white p-8 rounded-2xl mb-8">
-                <h3 className="text-xl font-bold mb-4">The Success Checklist</h3>
+                <h4 className="text-xl font-bold mb-4">The Success Checklist</h4>
                 <ul className="space-y-3 opacity-90 text-sm">
                   <li className="flex items-center gap-3"><span className="w-1.5 h-1.5 bg-[#1F5EFF] rounded-full"></span> <strong>Age of Debt:</strong> Is the debt at least 6 months past due?</li>
                   <li className="flex items-center gap-3"><span className="w-1.5 h-1.5 bg-[#1F5EFF] rounded-full"></span> <strong>Type of Lender:</strong> Is it a flexible NBFC or a rigid Public Sector Bank?</li>
@@ -443,9 +443,9 @@ export default function DebtSettlementSuccessRatePage() {
             </section>
 
             <section id="risks-and-failures" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
                 Why Some Settlements Fail: Avoiding the Pitfalls
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 We must be honest about the risks. Settlement is not a magic wand. One of the main reasons a settlement fails is 'Premature Negotiation'. If you try to settle too early, the bank still has hope of full recovery and will offer a very poor deal. Some borrowers get frustrated and pay the poor deal, which we don't consider a true 'success'.
               </p>
@@ -455,7 +455,7 @@ export default function DebtSettlementSuccessRatePage() {
             </section>
 
             <section id="indian-banking-policies" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Indian Bank One Time Settlement (OTS) Policies</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Indian Bank One Time Settlement (OTS) Policies</h3>
               <p className="mb-6">
                 In India, the concept of One Time Settlement (OTS) is deeply embedded in the banking culture. For public sector banks like SBI, PNB, or Bank of Baroda, OTS schemes are often structured as 'Annual Festivals'. Usually, during the last quarter of the financial year (January to March), these banks are under immense pressure to clean up their Balance Sheets and reduce their Net NPA figures. This is the 'Golden Window' for success.
               </p>
@@ -465,7 +465,7 @@ export default function DebtSettlementSuccessRatePage() {
             </section>
 
             <section id="role-of-nbfcs" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">The Rise of NBFCs and Digital Lenders</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">The Rise of NBFCs and Digital Lenders</h3>
               <p className="mb-6">
                 In the last five years, a new class of lenders has emerged: Non-Banking Financial Companies (NBFCs) and Digital Lending Apps. These lenders are often more aggressive in their early recovery efforts but paradoxically more flexible in their settlement offerings. Because their cost of capital is higher and their recovery infrastructure is often outsourced, they are highly motivated to close bad debts quickly.
               </p>
@@ -475,7 +475,7 @@ export default function DebtSettlementSuccessRatePage() {
             </section>
 
             <section id="legal-impact-success" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Legal Protections and Their Impact on Success</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Legal Protections and Their Impact on Success</h3>
               <p className="mb-6">
                 The presence of legal protection is a massive multiplier for settlement success. In India, numerous court judgments have established that 'recovery at all costs' is not allowed. The Supreme Court has repeatedly stated that bank recovery agents must follow the law and respect the dignity of the borrower.
               </p>
@@ -485,12 +485,12 @@ export default function DebtSettlementSuccessRatePage() {
             </section>
 
             <section id="cibil-recovery" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 text-center">Post-Success: Navigating CIBIL Recovery</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 text-center">Post-Success: Navigating CIBIL Recovery</h3>
               <p className="mb-6 text-lg">
                 Success in debt settlement is only half the battle. The other half is what happens to your credit score. We must be clear: a settlement will stay on your CIBIL report for seven years. It is a 'financial scar' that tells future lenders that you did not pay back a previous loan in full. This is the trade-off for the massive waiver you receive.
               </p>
               <div className="bg-emerald-50 p-8 rounded-2xl border border-emerald-100 mb-8">
-                <h3 className="text-xl font-bold text-emerald-800 mb-4">Steps to Rebuild After Success</h3>
+                <h4 className="text-xl font-bold text-emerald-800 mb-4">Steps to Rebuild After Success</h4>
                 <p className="mb-4 text-emerald-900/80">
                   Winning the settlement means you are debt free, but starting from a low CIBIL score. To rebuild, you should start with small 'Secured' credit products. For example, a credit card backed by a Fixed Deposit (FD) is a great tool. By using such a card and paying it off in full every month, you demonstrate 'new' positive behavior that slowly builds your score back up.
                 </p>
@@ -501,7 +501,7 @@ export default function DebtSettlementSuccessRatePage() {
             </section>
 
             <section id="professional-negotiation" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Professional vs DIY Success Rates</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Professional vs DIY Success Rates</h3>
               <p className="mb-6">
                 Can you do this on your own? Absolutely. Many people successfully negotiate their own settlements. However, the success rate for 'Do-It-Yourself' (DIY) settlements is generally lower for three reasons. First, the emotional toll of dealing with recovery agents leads many individuals to settle too early for a bad deal. Second, an individual borrower doesn't have the 'volume leverage' that a consultancy has.
               </p>
@@ -511,7 +511,7 @@ export default function DebtSettlementSuccessRatePage() {
             </section>
 
             <section id="success-stories" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 text-center">Verified Success Stories: Real People, Real Results</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 text-center">Verified Success Stories: Real People, Real Results</h3>
               <div className="grid md:grid-cols-2 gap-6 not-prose">
                 {[
                   {
@@ -549,7 +549,7 @@ export default function DebtSettlementSuccessRatePage() {
                         {review.name.charAt(0)}
                       </div>
                       <div>
-                        <h3 className="font-bold text-[#2E2E2E]">{review.name}</h3>
+                        <h4 className="font-bold text-[#2E2E2E]">{review.name}</h4>
                         <p className="text-xs text-gray-400">{review.loc}</p>
                       </div>
                       <div className="ml-auto text-yellow-400 text-sm">★★★★★</div>
@@ -564,7 +564,7 @@ export default function DebtSettlementSuccessRatePage() {
             </section>
 
             <section id="future-projections" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">2025 and Beyond: The Future of Debt Relief</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">2025 and Beyond: The Future of Debt Relief</h3>
               <p className="mb-6">
                 As we look toward the rest of 2025, the trend for debt settlement is becoming even more positive for borrowers. The growth of India's digital economy means that lenders are increasingly using automated systems to offer settlements. We expect to see 'Pre-Approved Settlement' offers appearing in mobile banking apps throughout the year. This democratization of the settlement process will increase the overall success rate for the average consumer.
               </p>
@@ -577,7 +577,7 @@ export default function DebtSettlementSuccessRatePage() {
             </section>
 
             <section id="faqs" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Frequently Asked Questions</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Frequently Asked Questions</h3>
               <div className="space-y-4 not-prose">
                 {jsonLd["@graph"]?.[4] && "mainEntity" in jsonLd["@graph"][4] && (jsonLd["@graph"][4] as any)?.mainEntity?.map((faq: any, i: number) => (
                   <details key={i} className="group bg-white border border-[#DEDEDE] rounded-xl overflow-hidden hover:shadow-md transition-all border-b-4 border-b-[#1F5EFF]/20">
@@ -603,7 +603,7 @@ export default function DebtSettlementSuccessRatePage() {
             <div className="lg:hidden mt-16 mb-8">
               <div className="bg-[#2E2E2E] rounded-2xl shadow-xl overflow-hidden border border-[#1F5EFF]/20">
                 <div className="bg-[#1F5EFF] p-6 text-center text-white">
-                  <h3 className="text-2xl font-black mb-2">Want to be a Success Story?</h3>
+                  <h4 className="text-2xl font-black mb-2">Want to be a Success Story?</h4>
                   <p className="opacity-90 text-sm">Let our experts help you navigate the complex world of bank negotiations.</p>
                 </div>
                 <div className="p-8 text-center text-[#DEDEDE]">

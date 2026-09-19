@@ -263,17 +263,17 @@ export default function RecoveryAgentsCallFamilyPage() {
                         </section>
 
                         <section id="rbi-legal-framework" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight underline decoration-[#1F5EFF] underline-offset-[12px]">The RBI Legal Framework: Guidance 2024-2026</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight underline decoration-[#1F5EFF] underline-offset-[12px]">The RBI Legal Framework: Guidance 2024-2026</h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 The Reserve Bank of India (RBI) is the supreme authority governing banking conduct in India. Over the last few years, the RBI has grown increasingly strict regarding the behavior of recovery agents. The **Master Circular on Fair Practice Code for Lenders** and the **2022 Digital Lending Guidelines** are the twin pillars of your protection.
                             </p>
                             <div className="grid md:grid-cols-2 gap-8 mb-10">
                                 <div className="p-8 bg-white border border-[#DEDEDE] rounded-3xl shadow-sm">
-                                    <h3 className="font-black text-[#1F5EFF] mb-4 uppercase tracking-tighter">Circular No. RBI/2022-23/108</h3>
+                                    <h4 className="font-black text-[#1F5EFF] mb-4 uppercase tracking-tighter">Circular No. RBI/2022-23/108</h4>
                                     <p className="text-sm italic">"Lenders must ensure that they or their agents do not resort to intimidation or harassment of any kind, either verbal or physical, against any person in their debt collection efforts."</p>
                                 </div>
                                 <div className="p-8 bg-white border border-[#DEDEDE] rounded-3xl shadow-sm">
-                                    <h4 className="font-black text-[#1F5EFF] mb-4 uppercase tracking-tighter">The Duty of Confidentiality</h4>
+                                    <h5 className="font-black text-[#1F5EFF] mb-4 uppercase tracking-tighter">The Duty of Confidentiality</h5>
                                     <p className="text-sm italic">Banks are legally bound by the 'Banker's Duty of Secrecy'. Disclosing your private financial data to third parties is a breach of the contract you signed at the time of the loan.</p>
                                 </div>
                             </div>
@@ -284,7 +284,7 @@ export default function RecoveryAgentsCallFamilyPage() {
 
                         <section id="third-party-contact" className="scroll-mt-32 mb-16 bg-[#2E2E2E] text-white p-12 rounded-[40px] relative overflow-hidden">
                             <div className="absolute top-0 right-0 w-64 h-64 bg-[#1F5EFF]/10 rounded-full -translate-y-32 translate-x-32"></div>
-                            <h2 className="text-3xl md:text-4xl font-black mb-8 leading-tight relative z-10">Why Calling Family is a Forbidden Zone</h2>
+                            <h3 className="text-3xl md:text-4xl font-black mb-8 leading-tight relative z-10">Why Calling Family is a Forbidden Zone</h3>
                             <p className="text-lg opacity-80 mb-8 relative z-10">
                                 Under no circumstances can a recovery agent contact your parents, spouse, or siblings regarding your debt, unless they are co-borrowers or legal guarantors.
                             </p>
@@ -292,21 +292,21 @@ export default function RecoveryAgentsCallFamilyPage() {
                                 <div className="flex gap-6 items-center border-b border-white/10 pb-4">
                                     <span className="text-4xl font-black text-[#1F5EFF]">01</span>
                                     <div>
-                                        <h3 className="font-bold text-xl mb-2">Social Shaming is Harassment</h3>
+                                        <h4 className="font-bold text-xl mb-2">Social Shaming is Harassment</h4>
                                         <p className="opacity-70 text-sm">Attempting to put pressure on a borrower by involving their family members is classified as 'Undue Influence' and 'Coercion' under the Indian Contract Act.</p>
                                     </div>
                                 </div>
                                 <div className="flex gap-6 items-center border-b border-white/10 pb-4">
                                     <span className="text-4xl font-black text-[#1F5EFF]">02</span>
                                     <div>
-                                        <h4 className="font-bold text-xl mb-2">Privacy Breach</h4>
+                                        <h5 className="font-bold text-xl mb-2">Privacy Breach</h5>
                                         <p className="opacity-70 text-sm">Your family members are not party to the loan agreement. Informing them of your debt is a violation of your individual right to financial privacy.</p>
                                     </div>
                                 </div>
                                 <div className="flex gap-6 items-center">
                                     <span className="text-4xl font-black text-[#1F5EFF]">03</span>
                                     <div>
-                                        <h5 className="font-bold text-xl mb-2">Psychological Trauma</h5>
+                                        <h6 className="font-bold text-xl mb-2">Psychological Trauma</h6>
                                         <p className="opacity-70 text-sm">The harassment of senior citizens (parents) by agents can lead to critical health issues. Banks have been sued for massive amounts where such calls led to medical emergencies.</p>
                                     </div>
                                 </div>
@@ -314,12 +314,12 @@ export default function RecoveryAgentsCallFamilyPage() {
                         </section>
 
                         <section id="privacy-rights" className="scroll-mt-32 mb-16 mt-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">Constitutional Rights: Your Right to Privacy</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">Constitutional Rights: Your Right to Privacy</h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 In the landmark judgment of **Justice K.S. Puttaswamy (Retd.) vs Union of India**, the Supreme Court declared that the Right to Privacy is a fundamental right under Article 21 of the Constitution. This includes "Financial Privacy."
                             </p>
                             <div className="bg-orange-50 p-8 rounded-3xl border border-orange-100 mb-8">
-                                <h3 className="text-xl font-black text-orange-900 mb-4">The Data Protection Shield</h3>
+                                <h4 className="text-xl font-black text-orange-900 mb-4">The Data Protection Shield</h4>
                                 <p className="text-orange-800 leading-relaxed font-medium">The Digital Personal Data Protection (DPDP) Act 2023 further strengthens this. Any bank or agency using your contact data to call people not mentioned in your loan application is a violation of data processing rules. You have the right to demand how they obtained the numbers of your relatives.</p>
                             </div>
                             <p className="text-lg leading-relaxed">
@@ -328,7 +328,7 @@ export default function RecoveryAgentsCallFamilyPage() {
                         </section>
 
                         <section id="calling-colleagues" className="scroll-mt-32 mb-16 mt-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight text-center">Calling Colleagues & HR: Career Sabotage</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight text-center">Calling Colleagues & HR: Career Sabotage</h3>
                             <p className="text-lg leading-relaxed mb-10 text-center">Perhaps the most malicious tactic used by recovery agents is calling your workplace. This is not about recovering money; it is about threatening your livelihood.</p>
                             <div className="bg-white border-2 border-gray-100 p-10 rounded-[50px] shadow-sm">
                                 <ul className="space-y-6">
@@ -353,7 +353,7 @@ export default function RecoveryAgentsCallFamilyPage() {
                         </section>
 
                         <section id="psychological-impact" className="scroll-mt-32 mb-16 mt-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">The Invisible Cracks: Psychological Impact of Harassment</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">The Invisible Cracks: Psychological Impact of Harassment</h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 The impact of third-party calling is not just social; it is deeply physiological and psychological. Borrowers report a range of issues from chronic insomnia to severe anxiety disorders. When an agent calls your family, they are attacking your support system. 
                             </p>
@@ -361,18 +361,18 @@ export default function RecoveryAgentsCallFamilyPage() {
                                 Mental health experts in India have noted a sharp rise in "Debt-Induced Trauma" cases. The constant fear of the next phone call creates a state of hyper-vigilance. This stress often manifests as physical illness, including high blood pressure and cardiac issues. It is important to remember that the RBI's guidelines are designed specifically to prevent this kind of psychological harm.
                             </p>
                             <div className="bg-blue-50 p-8 rounded-3xl border border-blue-100 mb-8">
-                                <h3 className="text-xl font-black text-blue-900 mb-4">The 'Panic Cycle' of Collection</h3>
+                                <h4 className="text-xl font-black text-blue-900 mb-4">The 'Panic Cycle' of Collection</h4>
                                 <p className="text-blue-800 leading-relaxed font-medium">As the harassment increases, the borrower's ability to earn and negotiate decreases. This creates a downward spiral where the very behavior intended to recover money makes the recovery impossible. Break the cycle by acknowledging that the harassment is the problem, not your inability to pay.</p>
                             </div>
                         </section>
 
                         <section id="contact-tracing-scam" className="scroll-mt-32 mb-16 mt-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">The "Contact Tracing" Loophole Scam</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">The "Contact Tracing" Loophole Scam</h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 Agents often claim they called your relatives for "Contact Tracing" because you were "unreachable." This is a lie used to justify illegal calls.
                             </p>
                             <div className="p-8 bg-[#1F5EFF] rounded-[40px] text-white shadow-2xl relative overflow-hidden">
-                                <h3 className="text-xl font-black mb-4 uppercase tracking-widest">How to Debunk This</h3>
+                                <h4 className="text-xl font-black mb-4 uppercase tracking-widest">How to Debunk This</h4>
                                 <p className="opacity-90 leading-relaxed font-bold">
                                     If you have been responding to their calls or if your phone is active, they cannot claim you are untraceable. Even if you are unreachable, they can only contact the 'References' you provided in the application. Calling any other person is a violation of the RBI's 'Information Security' guidelines.
                                 </p>
@@ -380,7 +380,7 @@ export default function RecoveryAgentsCallFamilyPage() {
                         </section>
 
                         <section id="workplace-visits" className="scroll-mt-32 mb-16 mt-16 underline decoration-[#1F5EFF] underline-offset-[10px]">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">Office Visits: Know the Protocols in Detail</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">Office Visits: Know the Protocols in Detail</h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 Can an agent come to your office? Technically, yes, for a face-to-face meeting. But there are strict rules that protect you:
                             </p>
@@ -399,7 +399,7 @@ export default function RecoveryAgentsCallFamilyPage() {
                         </section>
 
                         <section id="international-comparison" className="scroll-mt-32 mb-16 mt-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">Global Recovery Standards: India vs The World</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">Global Recovery Standards: India vs The World</h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 How does India's protection compare to global standards? In the United States, the **Fair Debt Collection Practices Act (FDCPA)** is incredibly strict. In many US states, a single call to a third party can result in an automatic fine for the collection agency without the borrower needing to prove damages.
                             </p>
@@ -407,13 +407,13 @@ export default function RecoveryAgentsCallFamilyPage() {
                                 In the United Kingdom, the **Financial Conduct Authority (FCA)** mandates that firms must "treat customers fairly." This includes a total ban on any action that could potentially embarrass a borrower. India's RBI guidelines are rapidly evolving to match these global standards. The 2026 updates are expected to make it even harder for banks to use third-party agencies for high-volume calling.
                             </p>
                             <div className="bg-indigo-50 p-8 rounded-3xl border border-indigo-100 mb-8">
-                                <h3 className="text-xl font-black text-indigo-900 mb-4">The Trend Toward Human-Centric recovery</h3>
+                                <h4 className="text-xl font-black text-indigo-900 mb-4">The Trend Toward Human-Centric recovery</h4>
                                 <p className="text-indigo-800 leading-relaxed font-medium">Globally, the industry is moving away from aggressive calling and toward automated, empathetic communication. Banks that continue to use aggressive third-party agencies are increasingly facing reputational damage and regulatory fines.</p>
                             </div>
                         </section>
 
                         <section id="grievance-template" className="scroll-mt-32 mb-16 mt-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">Dealing with Harassment: A Grievance Letter Template</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">Dealing with Harassment: A Grievance Letter Template</h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 When you write to the Nodal Officer, you must be precise. Don't just say they are harassing you. Use legal terminology. Here is a basic template you can adapt:
                             </p>
@@ -429,17 +429,17 @@ export default function RecoveryAgentsCallFamilyPage() {
                         </section>
 
                         <section id="secured-vs-unsecured" className="scroll-mt-32 mb-16 mt-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">Secured vs Unsecured Loan Recovery Rules</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">Secured vs Unsecured Loan Recovery Rules</h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 While the general rules of behavior apply to all loans, there are slight differences in the recovery mechanics between secured (Home/Auto) and unsecured (Personal/Credit Card) loans.
                             </p>
                             <div className="grid md:grid-cols-2 gap-8 mb-10">
                                 <div className="p-8 bg-white border border-[#DEDEDE] rounded-3xl shadow-sm">
-                                    <h3 className="font-black text-[#2E2E2E] mb-4 uppercase tracking-tighter">Unsecured Loans</h3>
+                                    <h4 className="font-black text-[#2E2E2E] mb-4 uppercase tracking-tighter">Unsecured Loans</h4>
                                     <p className="text-sm">Since there is no collateral, agents tend to be more aggressive with social shaming. This is where the highest number of violations occur. Remember, just because there is no security doesn't mean they can break the law.</p>
                                 </div>
                                 <div className="p-8 bg-white border border-[#DEDEDE] rounded-3xl shadow-sm">
-                                    <h4 className="font-black text-[#2E2E2E] mb-4 uppercase tracking-tighter">Secured Loans</h4>
+                                    <h5 className="font-black text-[#2E2E2E] mb-4 uppercase tracking-tighter">Secured Loans</h5>
                                     <p className="text-sm">Here, recovery usually follows the SARFAESI Act. Banks have a legal path to seize the asset, which often makes them theoretically 'more professional'. However, any attempt to harass family members before the legal repossession is still illegal.</p>
                                 </div>
                             </div>
@@ -447,28 +447,28 @@ export default function RecoveryAgentsCallFamilyPage() {
                         </section>
 
                         <section id="cyber-harassment" className="scroll-mt-32 mb-16 text-center">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">Digital & WhatsApp Harassment</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">Digital & WhatsApp Harassment</h3>
                             <p className="text-lg leading-relaxed mb-10 max-w-2xl mx-auto italic font-medium">
                                 Predatory apps often create WhatsApp groups including your family and colleagues to shame you. This is a criminal offense under the IT Act.
                             </p>
                             <div className="grid md:grid-cols-3 gap-6">
                                 <div className="p-6 bg-white border-2 border-gray-100 rounded-3xl">
-                                    <h3 className="font-black mb-3 uppercase text-xs tracking-widest text-[#1F5EFF]">Social Shaming</h3>
+                                    <h4 className="font-black mb-3 uppercase text-xs tracking-widest text-[#1F5EFF]">Social Shaming</h4>
                                     <p className="text-xs opacity-70">Posting your photo with 'FRAUD' written over it is criminal defamation (IPC 499).</p>
                                 </div>
                                 <div className="p-6 bg-white border-2 border-gray-100 rounded-3xl">
-                                    <h4 className="font-black mb-3 uppercase text-xs tracking-widest text-green-600">Nude Mutilation</h4>
+                                    <h5 className="font-black mb-3 uppercase text-xs tracking-widest text-green-600">Nude Mutilation</h5>
                                     <p className="text-xs opacity-70">Predatory apps sometimes edit photos to harass women. This attracts severe non-bailable criminal charges.</p>
                                 </div>
                                 <div className="p-6 bg-white border-2 border-gray-100 rounded-3xl">
-                                    <h5 className="font-black mb-3 uppercase text-xs tracking-widest">Switchboard Spam</h5>
+                                    <h6 className="font-black mb-3 uppercase text-xs tracking-widest">Switchboard Spam</h6>
                                     <p className="text-xs opacity-70">Using bots to spam your company landline is an offense under the Telecom Regulatory Authority guidelines.</p>
                                 </div>
                             </div>
                         </section>
 
                         <section id="reporting-guide" className="scroll-mt-32 mb-16 mt-16 bg-[#2E2E2E] p-12 rounded-[50px] text-white">
-                            <h2 className="text-3xl font-black mb-8">Step-by-Step Reporting Guide</h2>
+                            <h3 className="text-3xl font-black mb-8">Step-by-Step Reporting Guide</h3>
                             <div className="space-y-6">
                                 <div className="flex gap-4">
                                     <div className="w-8 h-8 rounded-full bg-blue-500 flex-shrink-0 flex items-center justify-center font-bold">1</div>
@@ -486,7 +486,7 @@ export default function RecoveryAgentsCallFamilyPage() {
                         </section>
 
                         <section id="legal-remedies" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 text-center uppercase tracking-tighter decoration-[#1F5EFF] underline decoration-4">Legal Remedies for Harassment</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 text-center uppercase tracking-tighter decoration-[#1F5EFF] underline decoration-4">Legal Remedies for Harassment</h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 You are not helpless. The Indian legal system provides several avenues to stop predatory recovery practices.
                             </p>
@@ -502,7 +502,7 @@ export default function RecoveryAgentsCallFamilyPage() {
                                     }
                                 ].map((item, i) => (
                                     <div key={i} className="bg-white p-6 rounded-2xl border border-[#DEDEDE] shadow-sm hover:shadow-md transition-all">
-                                        <h3 className="font-bold text-[#1F5EFF] mb-4 uppercase">{item.title}</h3>
+                                        <h4 className="font-bold text-[#1F5EFF] mb-4 uppercase">{item.title}</h4>
                                         <p className="text-sm text-gray-600 italic leading-relaxed">"{item.desc}"</p>
                                     </div>
                                 ))}
@@ -510,12 +510,12 @@ export default function RecoveryAgentsCallFamilyPage() {
                         </section>
 
                         <section id="role-of-settleloans" className="scroll-mt-32 mb-16 mt-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">The Role of SettleLoans: Your Professional Shield</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">The Role of SettleLoans: Your Professional Shield</h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 Why do thousands of Indians choose SettleLoans? Because we speak the language the banks understand. When you represent yourself, agents see a victim. When SettleLoans represents you, they see a legal firewall.
                             </p>
                             <div className="p-10 bg-[#F8FAFC] rounded-[50px] border border-[#1F5EFF]/20">
-                                <h3 className="text-2xl font-black text-[#2E2E2E] mb-6">How We Stop Third-Party Calls:</h3>
+                                <h4 className="text-2xl font-black text-[#2E2E2E] mb-6">How We Stop Third-Party Calls:</h4>
                                 <ul className="space-y-4">
                                     <li className="flex items-start gap-4">
                                         <div className="w-6 h-6 bg-green-500 rounded-full flex-shrink-0 flex items-center justify-center text-white text-xs">✓</div>
@@ -534,7 +534,7 @@ export default function RecoveryAgentsCallFamilyPage() {
                         </section>
 
                         <section id="case-studies" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 text-center">Success Stories: Reclaiming Dignity</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 text-center">Success Stories: Reclaiming Dignity</h3>
                             <div className="grid md:grid-cols-2 gap-6 not-prose">
                                 {[
                                     {
@@ -555,7 +555,7 @@ export default function RecoveryAgentsCallFamilyPage() {
                                             <div className="w-10 h-10 rounded-full bg-blue-100 flex items-center justify-center font-bold text-blue-600 mr-3">
                                                 {review.name.charAt(0)}
                                             </div>
-                                            <h3 className="font-bold text-[#2E2E2E]">{review.name}</h3>
+                                            <h4 className="font-bold text-[#2E2E2E]">{review.name}</h4>
                                             <div className="ml-auto text-yellow-500 text-sm">★★★★★</div>
                                         </div>
                                         <div className="mb-4 flex gap-4 text-[10px] font-mono">
@@ -569,7 +569,7 @@ export default function RecoveryAgentsCallFamilyPage() {
                         </section>
 
                         <section id="faqs" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-12 text-center underline decoration-[#1F5EFF] decoration-4">Comprehensive FAQ's on Agent Rules</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-12 text-center underline decoration-[#1F5EFF] decoration-4">Comprehensive FAQ's on Agent Rules</h3>
                             <div className="space-y-6">
                                 {[
                                     { q: "Can my friend be harassed if they are just a reference?", a: "No. A reference is someone the bank can call ONLY to locate you if you are unreachable. They cannot discuss the loan amount, ask the friend to pay, or use them as a tool for shaming. This is a severe violation." },
@@ -589,7 +589,7 @@ export default function RecoveryAgentsCallFamilyPage() {
                                     { q: "Can I get my name cleared from the 'shame list' on a WhatsApp group?", a: "You can file a complaint under the IT Act for defamation. The person who created the group is legally liable for cyber-harassment." }
                                 ].map((faq, i) => (
                                     <div key={i} className="p-8 bg-white border border-[#DEDEDE] rounded-3xl shadow-sm transition-all hover:shadow-lg">
-                                        <h3 className="font-black text-[#2E2E2E] mb-4 text-xl border-b pb-2 border-[#1F5EFF]/10">{i + 1}. {faq.q}</h3>
+                                        <h4 className="font-black text-[#2E2E2E] mb-4 text-xl border-b pb-2 border-[#1F5EFF]/10">{i + 1}. {faq.q}</h4>
                                         <p className="text-gray-600 leading-relaxed text-lg italic">"{faq.a}"</p>
                                     </div>
                                 ))}
@@ -597,7 +597,7 @@ export default function RecoveryAgentsCallFamilyPage() {
                         </section>
 
                         <section className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight text-center">Reclaim Your Life and Social Standings.</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight text-center">Reclaim Your Life and Social Standings.</h3>
                             <p className="text-lg leading-relaxed mb-6 italic font-bold text-center">Don't suffer in silence. The law is on your side, and so are we.</p>
                             <div className="bg-[#1F5EFF] p-10 rounded-[40px] text-center text-white shadow-2xl">
                                 <p className="text-2xl font-black mb-8 tracking-tight">One simple step protects your family and your reputation. Start your legal protection today.</p>

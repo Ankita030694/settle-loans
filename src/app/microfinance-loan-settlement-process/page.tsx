@@ -580,9 +580,9 @@ export default function MicrofinanceLoanSettlementPage() {
                 <Scale className="w-4 h-4" />
                 <span>2. RBI Master Directions (2022) &amp; 50% Household Cap</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 Statutory Safeguards Under the RBI Regulatory Framework for Microfinance Loans (2022)
-              </h2>
+              </h3>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 In March 2022, the Reserve Bank of India enacted the comprehensive <em>Master Direction – Reserve Bank of India (Regulatory Framework for Microfinance Loans) Directions, 2022</em> (RBI/DOR/2021-22/89). This landmark regulatory framework unified microfinance regulations across all commercial banks, NBFC-MFIs, SFBs, and cooperative banks, introducing stringent statutory safeguards designed to eliminate predatory over-leveraging and protect vulnerable consumer groups:
               </p>
@@ -626,9 +626,9 @@ export default function MicrofinanceLoanSettlementPage() {
                 <Clock className="w-4 h-4" />
                 <span>3. Delinquency Lifecycle &amp; Ind AS 109 Provisioning</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 MFI Delinquency Lifecycle: From Center Meeting Misses to Balance-Sheet NPA Write-Offs
-              </h2>
+              </h3>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 To negotiate an advantageous microfinance debt compromise, borrowers and their legal representatives must grasp the financial mechanics of microfinance delinquency classification under RBI Prudential Norms and Indian Accounting Standards (Ind AS 109):
               </p>
@@ -672,9 +672,9 @@ export default function MicrofinanceLoanSettlementPage() {
                 <Calculator className="w-4 h-4" />
                 <span>4. OTS Haircut Policies &amp; NPV Recovery Valuation</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 How NBFC-MFIs Calculate Compromise Settlements Using Net Present Value (NPV)
-              </h2>
+              </h3>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Institutional compromise settlements in the microfinance domain are not arbitrary concessions; they are mathematically determined under the <em>RBI Master Direction on Compromise Settlements and Technical Write-offs (2023)</em>. When an MFI Stressed Asset Management Committee evaluates a hardship petition, it compares immediate cash recovery against the Net Present Value (NPV) of protracted recovery litigation:
               </p>
@@ -704,9 +704,9 @@ export default function MicrofinanceLoanSettlementPage() {
                 <div className="bg-gradient-to-r from-blue-900 to-indigo-900 text-white py-4 px-6 flex flex-wrap items-center justify-between gap-3">
                   <div className="flex items-center gap-2.5">
                     <span className="w-7 h-7 rounded-lg bg-blue-500/30 border border-blue-400/40 text-blue-200 text-xs font-black flex items-center justify-center">5</span>
-                    <h3 className="font-bold text-base md:text-lg text-white">
+                    <h4 className="font-bold text-base md:text-lg text-white">
                       Visual Blueprint: Microfinance Loan Settlement &amp; Vulnerable Borrower Protection
-                    </h3>
+                    </h4>
                   </div>
                   <a
                     href="/contact"
@@ -749,9 +749,9 @@ export default function MicrofinanceLoanSettlementPage() {
                 <ShieldAlert className="w-4 h-4" />
                 <span>6. Halting JLG Harassment &amp; Social Coercion</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 Defending Vulnerable Borrowers Against Coercive Group Recovery and Social Shaming
-              </h2>
+              </h3>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 The most severe abuse in microfinance recovery occurs when recovery agents exploit community relationships to inflict psychological distress upon defaulted borrowers. Field agents frequently violate statutory laws by inciting neighbors to demand immediate payment, staging sit-ins outside borrower homes, threatening to confiscate ration cards or household appliances, and threatening to register false police FIRs.
               </p>
@@ -783,9 +783,9 @@ export default function MicrofinanceLoanSettlementPage() {
                 <Layers className="w-4 h-4" />
                 <span>7. Step-by-Step NBFC-MFI Settlement Roadmap</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 Step-by-Step Strategic Roadmap: Negotiating an Enforceable Microfinance Settlement
-              </h2>
+              </h3>
               <p className="text-slate-700 leading-relaxed mb-6 text-base md:text-lg">
                 Executing a legally sound, discounted One-Time Settlement with major microfinance lenders (Bandhan Bank, Fusion, Spandana, CreditAccess Grameen, Muthoot Microfin, Satin Creditcare) requires a systematic six-stage process:
               </p>
@@ -793,10 +793,10 @@ export default function MicrofinanceLoanSettlementPage() {
               <div className="space-y-6">
                 {/* Phase 1 */}
                 <div className="p-6 rounded-2xl bg-white border border-slate-200 shadow-sm">
-                  <h3 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
+                  <h4 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
                     <span className="w-7 h-7 rounded-lg bg-blue-50 text-[#1F5EFF] font-black text-sm flex items-center justify-center border border-blue-200">1</span>
                     Compiling Bona Fide Hardship Documentation
-                  </h3>
+                  </h4>
                   <p className="text-slate-600 text-sm md:text-base leading-relaxed">
                     Assemble comprehensive documentary proof evidencing genuine, non-wilful financial distress. Critical documentation includes medical hospitalization discharge summaries, death certificates of primary earners, crop damage certificates from local revenue authorities, business trade closure records, or bank statements showing depleted liquidity.
                   </p>
@@ -804,10 +804,10 @@ export default function MicrofinanceLoanSettlementPage() {
 
                 {/* Phase 2 */}
                 <div className="p-6 rounded-2xl bg-white border border-slate-200 shadow-sm">
-                  <h3 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
+                  <h4 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
                     <span className="w-7 h-7 rounded-lg bg-blue-50 text-[#1F5EFF] font-black text-sm flex items-center justify-center border border-blue-200">2</span>
                     Isolating the Account &amp; Establishing Written Communication
-                  </h3>
+                  </h4>
                   <p className="text-slate-600 text-sm md:text-base leading-relaxed">
                     Serve a formal written representation to the NBFC-MFI branch and regional headquarters directing that all future communication be conducted exclusively in writing or through designated legal counsel. This halts unannounced center-meeting disruptions and establishes an auditable legal trail.
                   </p>
@@ -815,10 +815,10 @@ export default function MicrofinanceLoanSettlementPage() {
 
                 {/* Phase 3 */}
                 <div className="p-6 rounded-2xl bg-white border border-slate-200 shadow-sm">
-                  <h3 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
+                  <h4 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
                     <span className="w-7 h-7 rounded-lg bg-blue-50 text-[#1F5EFF] font-black text-sm flex items-center justify-center border border-blue-200">3</span>
                     Submitting the Formal Hardship OTS Proposal
-                  </h3>
+                  </h4>
                   <p className="text-slate-600 text-sm md:text-base leading-relaxed">
                     Bypass local field collection agents who lack settlement discretion. Submit a formal One-Time Settlement petition directly to the MFI Stressed Asset Department and Principal Nodal Officer, proposing a realistic compromise figure (typically 35% to 50% of the core principal outstanding) backed by the hardship dossier.
                   </p>
@@ -826,10 +826,10 @@ export default function MicrofinanceLoanSettlementPage() {
 
                 {/* Phase 4 */}
                 <div className="p-6 rounded-2xl bg-white border border-slate-200 shadow-sm">
-                  <h3 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
+                  <h4 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
                     <span className="w-7 h-7 rounded-lg bg-blue-50 text-[#1F5EFF] font-black text-sm flex items-center justify-center border border-blue-200">4</span>
                     Negotiating the Debt Haircut &amp; Demanding 100% Penalty Waivers
-                  </h3>
+                  </h4>
                   <p className="text-slate-600 text-sm md:text-base leading-relaxed">
                     Conduct structured negotiations with MFI regional credit authorities. Insist on a complete 100% waiver of all accumulated bounce charges, late payment fees, and penal interest under the RBI Fair Lending Practice framework, arriving at an agreed, discounted lump-sum or structured 2-to-3 installment settlement.
                   </p>
@@ -837,10 +837,10 @@ export default function MicrofinanceLoanSettlementPage() {
 
                 {/* Phase 5 */}
                 <div className="p-6 rounded-2xl bg-white border border-slate-200 shadow-sm">
-                  <h3 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
+                  <h4 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
                     <span className="w-7 h-7 rounded-lg bg-blue-50 text-[#1F5EFF] font-black text-sm flex items-center justify-center border border-blue-200">5</span>
                     Forensic Verification of the Official OTS Sanction Letter
-                  </h3>
+                  </h4>
                   <p className="text-slate-600 text-sm md:text-base leading-relaxed">
                     Prior to transferring any settlement funds, conduct a forensic audit on the OTS Sanction Letter. Ensure it is issued on official NBFC-MFI corporate letterhead, citing your correct loan account number, exact compromise figure, payment due dates, and explicit covenants confirming complete liability extinguishment and withdrawal of legal notices.
                   </p>
@@ -848,10 +848,10 @@ export default function MicrofinanceLoanSettlementPage() {
 
                 {/* Phase 6 */}
                 <div className="p-6 rounded-2xl bg-white border border-slate-200 shadow-sm">
-                  <h3 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
+                  <h4 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
                     <span className="w-7 h-7 rounded-lg bg-blue-50 text-[#1F5EFF] font-black text-sm flex items-center justify-center border border-blue-200">6</span>
                     Direct Bank Remittance &amp; Enforcing ₹0 NDC Delivery
-                  </h3>
+                  </h4>
                   <p className="text-slate-600 text-sm md:text-base leading-relaxed">
                     Remit the agreed settlement funds directly into your designated MFI loan account via NEFT/RTGS or official branch counter receipt. Under RBI Circular RBI/2023-24/60, the institution must deliver the formal No Dues Certificate and update credit bureau records within 30 calendar days.
                   </p>
@@ -865,9 +865,9 @@ export default function MicrofinanceLoanSettlementPage() {
                 <Gavel className="w-4 h-4" />
                 <span>8. Legal Notices Defense &amp; Lok Adalat Compromise</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 Navigating Section 25 PSSA Notices, Arbitration &amp; National Lok Adalat Decrees
-              </h2>
+              </h3>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 As microfinance defaults mature beyond 90 to 180 days, lending institutions routinely deploy formal legal procedures to accelerate recoveries. Understanding how to handle legal notices transforms procedural pressure into an opportunity for structured compromise:
               </p>
@@ -930,9 +930,9 @@ export default function MicrofinanceLoanSettlementPage() {
                 <FileCheck className="w-4 h-4" />
                 <span>9. Sanction Letter Audit &amp; ₹0 NDC Mandate</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 Authenticating Microfinance Settlement Letters &amp; Enforcing the ₹0 NDC Mandate
-              </h2>
+              </h3>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 A grave danger in rural and semi-urban microfinance recovery involves field collection agents or unauthorized third-party agencies issuing fake or verbal settlement assurances to collect partial payments. When a borrower deposits money without an authentic stamped sanction letter, the MFI core banking system automatically credits the funds toward overdue penal interest and bounce charges, leaving the principal balance active, compounding, and in default.
               </p>
@@ -964,9 +964,9 @@ export default function MicrofinanceLoanSettlementPage() {
                 <TrendingUp className="w-4 h-4" />
                 <span>10. CIBIL Trajectory &amp; Credit Rebuilding</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 Credit Bureau Trajectory Post-Settlement &amp; 18-Month Financial Rehabilitation Plan
-              </h2>
+              </h3>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Following the execution of an OTS, the microfinance institution reports the updated account status to all four authorized credit bureaus in India—TransUnion CIBIL, Experian, Equifax, and CRIF High Mark. The loan status transitions from active &apos;Default&apos; or &apos;Written-Off&apos; to <strong>&apos;Settled&apos;</strong> or <strong>&apos;Post-Write-Off Settled&apos;</strong>, with the outstanding ledger balance reduced to exactly <strong>₹0</strong>.
               </p>
@@ -1013,9 +1013,9 @@ export default function MicrofinanceLoanSettlementPage() {
                 <HeartHandshake className="w-4 h-4" />
                 <span>11. Legal Defense &amp; Representation</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 Why Vulnerable Microfinance &amp; JLG Borrowers Choose SettleLoans
-              </h2>
+              </h3>
               <p className="text-slate-700 leading-relaxed mb-6 text-base md:text-lg">
                 Resolving defaulted microfinance and Joint Liability Group loans requires specialized regulatory expertise, aggressive anti-harassment legal advocacy, and direct access to NBFC-MFI Stressed Asset Management committees. SettleLoans shields vulnerable borrowers from coercive recovery tactics, halts community shaming, defends against Section 25 notices and arbitration summons, and negotiates authentic stamped One-Time Settlements with maximum principal waivers and guaranteed ₹0 No Dues Certificates.
               </p>
@@ -1032,9 +1032,9 @@ export default function MicrofinanceLoanSettlementPage() {
                 <HelpCircle className="w-4 h-4" />
                 <span>12. Frequently Asked Questions</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
                 Frequently Asked Questions About Microfinance &amp; JLG Loan Settlement
-              </h2>
+              </h3>
 
               <div className="space-y-4">
                 {faqs.map((faq, index) => (
@@ -1060,10 +1060,10 @@ export default function MicrofinanceLoanSettlementPage() {
 
             {/* Regulatory References & Official Sources Strip (5 Official Links) */}
             <div className="bg-slate-50 border border-slate-200 rounded-2xl p-6 my-10">
-              <h3 className="text-base font-bold text-slate-900 mb-4 flex items-center gap-2">
+              <h4 className="text-base font-bold text-slate-900 mb-4 flex items-center gap-2">
                 <Landmark className="w-5 h-5 text-[#1F5EFF]" />
                 Official Regulatory References &amp; Statutory Circulars
-              </h3>
+              </h4>
               <ul className="space-y-3 text-xs text-slate-600">
                 <li className="flex items-start gap-2">
                   <ExternalLink className="w-4 h-4 text-[#1F5EFF] flex-shrink-0 mt-0.5" />
@@ -1125,10 +1125,10 @@ export default function MicrofinanceLoanSettlementPage() {
 
             {/* Related Guides & Resources Strip (10 Topic Badges) */}
             <div className="bg-slate-50 border border-slate-200 rounded-2xl p-6 my-10">
-              <h3 className="text-base font-bold text-slate-900 mb-4 flex items-center gap-2">
+              <h4 className="text-base font-bold text-slate-900 mb-4 flex items-center gap-2">
                 <BookOpen className="w-5 h-5 text-[#1F5EFF]" />
                 Explore Related Banking &amp; Debt Resolution Guides
-              </h3>
+              </h4>
               <div className="flex flex-wrap gap-2.5">
                 <Link
                   href="/app-loan-settlement"

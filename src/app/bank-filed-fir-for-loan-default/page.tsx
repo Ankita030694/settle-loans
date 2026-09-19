@@ -278,9 +278,9 @@ export default function BankFiledFIRPage() {
                         </section>
 
                         <section id="civil-vs-criminal" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
                                 The Thin Line: Civil Breach vs. Criminal Intent
-                            </h2>
+                            </h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 The relationship between a borrower and a bank is a 'Debtor-Creditor' relationship, governed by the Indian Contract Act. When you fail to pay, it is a 'Breach of Contract'. This is a civil wrong. The bank's legal remedy is to file a recovery suit in a Civil Court or a Debt Recovery Tribunal (DRT). They can attach your assets, but they cannot put you in jail for simply being poor.
                             </p>
@@ -295,7 +295,7 @@ export default function BankFiledFIRPage() {
                             </p>
                             <div className="grid md:grid-cols-2 gap-6 my-8">
                                 <div className="bg-blue-50 p-6 rounded-xl border border-blue-200">
-                                    <h3 className="font-bold text-blue-900 mb-2 underline">Civil Default (The Norm)</h3>
+                                    <h4 className="font-bold text-blue-900 mb-2 underline">Civil Default (The Norm)</h4>
                                     <ul className="text-sm text-blue-800 space-y-2">
                                         <li>• Business failure or job loss.</li>
                                         <li>• Honest intent to pay but lack of funds.</li>
@@ -304,7 +304,7 @@ export default function BankFiledFIRPage() {
                                     </ul>
                                 </div>
                                 <div className="bg-red-50 p-6 rounded-xl border border-red-200">
-                                    <h4 className="font-bold text-red-900 mb-2 underline">Criminal Default (The Exception)</h4>
+                                    <h5 className="font-bold text-red-900 mb-2 underline">Criminal Default (The Exception)</h5>
                                     <ul className="text-sm text-red-800 space-y-2">
                                         <li>• Forged salary slips or fake IDs.</li>
                                         <li>• Diversion of funds for other purposes.</li>
@@ -316,42 +316,42 @@ export default function BankFiledFIRPage() {
                         </section>
 
                         <section id="ipc-sections" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
                                 Commonly Invoked IPC Sections in Loan Cases
-                            </h2>
+                            </h3>
                             <p className="text-lg leading-relaxed mb-8">
                                 When a bank tries to criminalize a default, they typically cite specific sections of the Indian Penal Code (IPC). Understanding these sections will help you realize why they are often difficult for banks to prove in a genuine case of financial hardship.
                             </p>
                             <div className="space-y-6">
                                 <div className="border-l-4 border-[#1F5EFF] pl-6 py-2">
-                                    <h3 className="text-xl font-bold mb-2">Section 420 IPC: Cheating</h3>
+                                    <h4 className="text-xl font-bold mb-2">Section 420 IPC: Cheating</h4>
                                     <p className="text-gray-600">This is the most common section mentioned in bank FIR threats. It requires the bank to prove that you 'dishonestly induced' them to give you the loan. If your documents were genuine and you paid several EMIs before defaulting, proving 'cheating' becomes almost impossible for the bank.</p>
                                 </div>
                                 <div className="border-l-4 border-[#1F5EFF] pl-6 py-2">
-                                    <h3 className="text-xl font-bold mb-2">Section 406 IPC: Criminal Breach of Trust</h3>
+                                    <h4 className="text-xl font-bold mb-2">Section 406 IPC: Criminal Breach of Trust</h4>
                                     <p className="text-gray-600">This applies when someone is 'entrusted' with property and they misappropriate it. However, the courts have often ruled that in a loan, the money becomes the property of the borrower once disbursed. Therefore, failing to pay a personal loan is not usually considered a breach of trust under this section.</p>
                                 </div>
                                 <div className="border-l-4 border-[#1F5EFF] pl-6 py-2">
-                                    <h3 className="text-xl font-bold mb-2">Section 467/468/471 IPC: Forgery</h3>
+                                    <h4 className="text-xl font-bold mb-2">Section 467/468/471 IPC: Forgery</h4>
                                     <p className="text-gray-600">These sections are invoked if the bank discovers that a borrower used forged documents (like a fake PAN card or manipulated bank statements) to get the loan. This is a very serious matter and is one of the few areas where a criminal FIR by the bank is highly likely to stand.</p>
                                 </div>
                                 <div className="border-l-4 border-[#1F5EFF] pl-6 py-2">
-                                    <h3 className="text-xl font-bold mb-2">Section 120B IPC: Criminal Conspiracy</h3>
+                                    <h4 className="text-xl font-bold mb-2">Section 120B IPC: Criminal Conspiracy</h4>
                                     <p className="text-gray-600">This section is often appended to fraud cases when the bank suspects that multiple individuals (perhaps the borrower and a third-party agent) collaborated to deceive the institution. Proving conspiracy requires clear evidence of a 'meeting of minds' to commit an illegal act, which is a high evidentiary bar for the bank to satisfy in court.</p>
                                 </div>
                                 <div className="border-l-4 border-[#1F5EFF] pl-6 py-2">
-                                    <h3 className="text-xl font-bold mb-2">Section 503 & 506 IPC: Criminal Intimidation</h3>
+                                    <h4 className="text-xl font-bold mb-2">Section 503 & 506 IPC: Criminal Intimidation</h4>
                                     <p className="text-gray-600">While banks might threaten you, these sections are actually your weapons. If a recovery agent uses threats of injury to your person, reputation, or property to force a payment, they are committing criminal intimidation. You have every right to file a counter-FIR against the bank and the specific agent under these sections.</p>
                                 </div>
                                 <div className="border-l-4 border-[#1F5EFF] pl-6 py-2">
-                                    <h3 className="text-xl font-bold mb-2">Section 34 IPC: Common Intention</h3>
+                                    <h4 className="text-xl font-bold mb-2">Section 34 IPC: Common Intention</h4>
                                     <p className="text-gray-600">This section is used when several persons participate in the same criminal act. Banks use this to implicate family members if they were co-applicants or witnesses to the loan agreement, though it rarely holds if the family members were not directly involved in the alleged 'fraud'.</p>
                                 </div>
                             </div>
                         </section>
 
                         <section id="supreme-court-rulings" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Supreme Court Rulings: Your Shield</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Supreme Court Rulings: Your Shield</h3>
                             <p className="mb-6">
                                 The Indian judiciary has been very protective of borrowers against the 'arm-twisting' tactics of banks. Several landmark judgments have clarified that police and banks cannot use the criminal justice system as a recovery agency for civil debts.
                             </p>
@@ -365,12 +365,12 @@ export default function BankFiledFIRPage() {
                         </section>
 
                         <section id="ni-act-138" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Section 138 NI Act: The Cheque Bounce Challenge</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Section 138 NI Act: The Cheque Bounce Challenge</h3>
                             <p className="mb-6">
                                 While a loan default itself isn't a crime, a cheque bounce is a statutory criminal offense under Section 138 of the Negotiable Instruments Act. Most banks take Post-Dated Cheques (PDCs) or security cheques at the time of the loan. If they deposit such a cheque and it bounces, they can file a criminal case.
                             </p>
                             <div className="bg-amber-50 p-6 rounded-xl border border-amber-200 mb-8">
-                                <h3 className="text-xl font-bold text-amber-900 mb-3">Is a 138 Case the same as an FIR?</h3>
+                                <h4 className="text-xl font-bold text-amber-900 mb-3">Is a 138 Case the same as an FIR?</h4>
                                 <p className="text-sm text-amber-800 leading-relaxed mb-4">
                                     No. A Section 138 case is a 'Private Complaint' filed directly in a Magistrate's court. The police are not involved in the initial filing. It is a bailable offense, meaning you cannot be arrested without a warrant from the judge, and even then, you can get bail easily.
                                 </p>
@@ -381,7 +381,7 @@ export default function BankFiledFIRPage() {
                         </section>
 
                         <section id="pss-act-25" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Section 25 PSS Act: The Electronic Default</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Section 25 PSS Act: The Electronic Default</h3>
                             <p className="mb-6">
                                 In the modern era, most loans use NACH (National Automated Clearing House) or ECS for auto-debiting EMIs. Many people mistakenly believe that an electronic bounce is just a small technical error. However, Section 25 of the Payment and Settlement Systems (PSS) Act, 2007, gives electronic defaults the exact same criminal weight as a physical cheque bounce.
                             </p>
@@ -391,7 +391,7 @@ export default function BankFiledFIRPage() {
                         </section>
 
                         <section id="rbi-guidelines" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">RBI Guidelines: Protection Against Harassment</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">RBI Guidelines: Protection Against Harassment</h3>
                             <p className="mb-6">
                                 The Reserve Bank of India (RBI) has issued very strict 'Fair Practice Codes' for loan recovery. Lenders and their agents are strictly prohibited from using criminal intimidation, physical harassment, or any form of public shaming to recover money. If an agent threatens you with a 'fake police case', they are violating RBI norms.
                             </p>
@@ -418,12 +418,12 @@ export default function BankFiledFIRPage() {
                         </section>
 
                         <section id="detecting-fakes" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Alert: How to Spot a Fake FIR Notice</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Alert: How to Spot a Fake FIR Notice</h3>
                             <p className="mb-6 text-red-600 font-bold">
                                 Recovery agents are masters of psychological warfare. They often send high-quality 'PDF notices' that look exactly like police documents. Here is how you can tell they are fake.
                             </p>
                             <div className="bg-red-50 border-l-4 border-red-500 p-8 rounded-r-xl mb-8">
-                                <h3 className="text-xl font-bold text-red-800 mb-4">The Fake Notice Checklist</h3>
+                                <h4 className="text-xl font-bold text-red-800 mb-4">The Fake Notice Checklist</h4>
                                 <ul className="space-y-3 text-red-900/80">
                                     <li>• <strong>WhatsApp Source:</strong> Real police summons are usually hand-delivered by a constable or sent via Registered Post. A notice on WhatsApp is 99% a fake.</li>
                                     <li>• <strong>Bank Logo on Police Paper:</strong> Real FIRs or Summons come from a Police Station or a Court, not on a letterhead that has a bank logo.</li>
@@ -437,7 +437,7 @@ export default function BankFiledFIRPage() {
                         </section>
 
                         <section id="willful-defaulter" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Willful Defaulter vs. Genuine Hardship</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Willful Defaulter vs. Genuine Hardship</h3>
                             <p className="mb-6">
                                 A 'Willful Defaulter' is someone who has the money to pay but chooses not to, or someone who has diverted the loan funds for other purposes. Being declared a willful defaulter has serious consequences, including being banned from taking future loans and potentially facing criminal charges.
                             </p>
@@ -447,7 +447,7 @@ export default function BankFiledFIRPage() {
                         </section>
 
                         <section id="sarfaesi-act" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">SARFAESI Act: Secured Loans & Property</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">SARFAESI Act: Secured Loans & Property</h3>
                             <p className="mb-6">
                                 For secured loans (like home or car loans), banks don't need to file an FIR. They have a more powerful tool: the SARFAESI Act, 2002. This law allows banks to seize and auction the collateral without needing a court order.
                             </p>
@@ -457,31 +457,31 @@ export default function BankFiledFIRPage() {
                         </section>
 
                         <section id="legal-strategy" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Your 3-Step Legal Strategy</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Your 3-Step Legal Strategy</h3>
                             <p className="mb-6 text-lg">
                                 If a bank actually goes through with filing a criminal complaint, you need a precise strategy to protect your freedom and your reputation.
                             </p>
                             <div className="grid sm:grid-cols-3 gap-6 my-10">
                                 <div className="bg-white p-6 rounded-xl border border-gray-200 shadow-sm text-center">
                                     <div className="w-12 h-12 bg-blue-100 rounded-full flex items-center justify-center mx-auto mb-4 font-bold text-blue-600 text-xl">1</div>
-                                    <h3 className="font-bold mb-2">Legal Audit</h3>
+                                    <h4 className="font-bold mb-2">Legal Audit</h4>
                                     <p className="text-xs text-gray-500 leading-relaxed">Have a lawyer review your loan application and all bank communications to ensure no fraud occurred.</p>
                                 </div>
                                 <div className="bg-white p-6 rounded-xl border border-gray-200 shadow-sm text-center">
                                     <div className="w-12 h-12 bg-blue-100 rounded-full flex items-center justify-center mx-auto mb-4 font-bold text-blue-600 text-xl">2</div>
-                                    <h4 className="font-bold mb-2">Stop Harassment</h4>
+                                    <h5 className="font-bold mb-2">Stop Harassment</h5>
                                     <p className="text-xs text-gray-500 leading-relaxed">File complaints with the RBI and the police against agents using fake criminal threats to extort money.</p>
                                 </div>
                                 <div className="bg-white p-6 rounded-xl border border-gray-200 shadow-sm text-center">
                                     <div className="w-12 h-12 bg-blue-100 rounded-full flex items-center justify-center mx-auto mb-4 font-bold text-blue-600 text-xl">3</div>
-                                    <h4 className="font-bold mb-2">Settlement Path</h4>
+                                    <h5 className="font-bold mb-2">Settlement Path</h5>
                                     <p className="text-xs text-gray-500 leading-relaxed">Propose a legal settlement. Most banks will withdraw criminal complaints once the money is recovered.</p>
                                 </div>
                             </div>
                         </section>
 
                         <section id="anticipatory-bail" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Understanding Your Bail Rights</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Understanding Your Bail Rights</h3>
                             <p className="mb-6">
                                 If an FIR is filed under Section 420 or other non-bailable sections, your primary objective is to stay out of custody. You can file for <strong>Anticipatory Bail</strong> under Section 438 of the CrPC.
                             </p>
@@ -491,7 +491,7 @@ export default function BankFiledFIRPage() {
                         </section>
 
                         <section id="high-court-quashing" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Section 482 CrPC: Quashing the FIR</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Section 482 CrPC: Quashing the FIR</h3>
                             <p className="mb-6">
                                 If the FIR is clearly malicious and lacks any evidence of fraud, your lawyer can file a petition in the High Court for 'Quashing'. This is a high-level legal remedy where the High Court can throw the entire case out of the window because it is an 'Abuse of the Process of Law'.
                             </p>
@@ -501,12 +501,12 @@ export default function BankFiledFIRPage() {
                         </section>
 
                         <section id="mental-health" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Managing the Stress of a Legal Battle</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Managing the Stress of a Legal Battle</h3>
                             <p className="mb-6 text-lg">
                                 The word 'FIR' can be terrifying. It carries a social stigma and creates intense internal pressure. But remember, the threat is usually worse than the reality.
                             </p>
                             <div className="bg-blue-50 p-8 rounded-2xl border border-blue-100 mb-8">
-                                <h3 className="text-xl font-bold mb-4">You Are More Than Your Debt</h3>
+                                <h4 className="text-xl font-bold mb-4">You Are More Than Your Debt</h4>
                                 <p className="mb-4 text-gray-700 italic">
                                     "I was suicidal when the calls started about a police case. I thought my life was over. But then I realized, this is just a numbers game for the bank. Once I got legal help and realized it was all just a scare tactic, the fear vanished. I am still paying back, but I am living my life again."
                                     <span className="block mt-2 font-bold">— A SettleLoans Client Story</span>
@@ -518,12 +518,12 @@ export default function BankFiledFIRPage() {
                         </section>
 
                         <section id="settleloans-role" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">How SettleLoans Acts as Your Shield</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">How SettleLoans Acts as Your Shield</h3>
                             <p className="mb-6">
                                 Our team at SettleLoans is trained to handle exactly these high-pressure situations. We don't just negotiate money; we negotiate for your peace of mind. We have seen every trick in the recovery book, and we know exactly how to call their bluff.
                             </p>
                             <div className="bg-[#2E2E2E] text-white p-8 rounded-2xl mb-8">
-                                <h3 className="text-2xl font-bold mb-4">Our Protective Services</h3>
+                                <h4 className="text-2xl font-bold mb-4">Our Protective Services</h4>
                                 <ul className="space-y-4 text-sm opacity-90">
                                     <li className="flex items-center gap-3">
                                         <span className="w-2 h-2 bg-[#1F5EFF] rounded-full shrink-0"></span>
@@ -549,7 +549,7 @@ export default function BankFiledFIRPage() {
                         </section>
 
                         <section id="success-stories" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 text-center">Case Studies: Real People, Real Victories</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 text-center">Case Studies: Real People, Real Victories</h3>
                             <div className="grid md:grid-cols-2 gap-6 not-prose">
                                 {[
                                     {
@@ -587,7 +587,7 @@ export default function BankFiledFIRPage() {
                                                 {review.name.charAt(0)}
                                             </div>
                                             <div>
-                                                <h3 className="font-bold text-[#2E2E2E]">{review.name}</h3>
+                                                <h4 className="font-bold text-[#2E2E2E]">{review.name}</h4>
                                                 <p className="text-xs text-gray-400">{review.loc}</p>
                                             </div>
                                             <div className="ml-auto text-yellow-400 text-sm">★★★★★</div>
@@ -602,7 +602,7 @@ export default function BankFiledFIRPage() {
                         </section>
 
                         <section id="faqs" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Expert Legal FAQs</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Expert Legal FAQs</h3>
                             <div className="space-y-4 not-prose">
                                 {[
                                     { q: "Can a bank track my location via phone if they file an FIR?", a: "Only the police have the authority to track phones, and they only do so for serious crimes like kidnapping or terrorism. Banks have no such tracking power. Any recovery agent claiming they are 'tracking your live location' is lying to scare you." },
@@ -639,7 +639,7 @@ export default function BankFiledFIRPage() {
                         <div className="lg:hidden mt-16 mb-8">
                             <div className="bg-[#2E2E2E] rounded-2xl shadow-xl overflow-hidden border border-[#1F5EFF]/20">
                                 <div className="bg-[#1F5EFF] p-6 text-center text-white">
-                                    <h3 className="text-2xl font-black mb-2">Protect Your Future</h3>
+                                    <h4 className="text-2xl font-black mb-2">Protect Your Future</h4>
                                     <p className="opacity-90 text-sm">Don't let the threat of an FIR ruin your life. Get the right legal shield today.</p>
                                 </div>
                                 <div className="p-8 text-center text-[#DEDEDE]">

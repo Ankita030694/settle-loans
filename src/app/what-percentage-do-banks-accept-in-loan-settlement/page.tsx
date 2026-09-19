@@ -261,7 +261,7 @@ export default function BankSettlementPercentagePage() {
                                 The answer is not a fixed percentage. It is a negotiation. Banks call this a "Haircut" a term used to describe the percentage of the debt the bank agrees to chop off and forget. In this massive 5500+ word guide, we will pull back the curtain on how banks calculate these numbers and how you can ensure you get the deepest possible cut without falling into legal traps. At SettleLoans, we have seen thousands of these cases, and the data is clear: those who know the math always pay less.
                             </p>
                             <div className="bg-blue-50 p-8 rounded-2xl border border-blue-100 mb-8">
-                                <h3 className="text-xl font-bold mb-4">The Golden Rule of Settlement</h3>
+                                <h4 className="text-xl font-bold mb-4">The Golden Rule of Settlement</h4>
                                 <p className="text-sm leading-relaxed italic">
                                     A bank is more likely to accept a low percentage if they believe that getting something now is better than getting nothing forever. Your goal in negotiation is to prove that "Nothing" is the most likely alternative if they don't agree to your offer.
                                 </p>
@@ -269,24 +269,24 @@ export default function BankSettlementPercentagePage() {
                         </section>
 
                         <section id="typical-ranges" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight uppercase">Typical Settlement Ranges: What to Expect</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight uppercase">Typical Settlement Ranges: What to Expect</h3>
                             <p className="mb-6 leading-relaxed">
                                 While every case is unique, the Indian banking system generally operates within certain established bands for settlement percentages. These percentages are calculated on the "Total Outstanding Amount," which includes the principal, the accrued interest, and any late payment penalties.
                             </p>
                             <div className="grid md:grid-cols-3 gap-6 my-10">
                                 <div className="p-8 bg-white border border-[#DEDEDE] rounded-2xl shadow-sm text-center">
                                     <div className="text-3xl font-black text-[#1F5EFF] mb-2">40% - 60%</div>
-                                    <h3 className="font-bold mb-2">Standard Range</h3>
+                                    <h4 className="font-bold mb-2">Standard Range</h4>
                                     <p className="text-xs text-gray-500">Typical for personal loans and credit cards that are 6-12 months in default.</p>
                                 </div>
                                 <div className="p-8 bg-white border border-[#DEDEDE] rounded-2xl shadow-sm text-center">
                                     <div className="text-3xl font-black text-green-600 mb-2">25% - 35%</div>
-                                    <h4 className="font-bold mb-2">High Waiver Range</h4>
+                                    <h5 className="font-bold mb-2">High Waiver Range</h5>
                                     <p className="text-xs text-gray-500">Achievable for accounts in default for 2+ years or with proven severe hardship.</p>
                                 </div>
                                 <div className="p-8 bg-white border border-[#DEDEDE] rounded-2xl shadow-sm text-center">
                                     <div className="text-3xl font-black text-red-600 mb-2">70% - 85%</div>
-                                    <h4 className="font-bold mb-2">Poor Waiver Range</h4>
+                                    <h5 className="font-bold mb-2">Poor Waiver Range</h5>
                                     <p className="text-xs text-gray-500">Usually offered early in the default cycle (3 months) when the bank still has hope.</p>
                                 </div>
                             </div>
@@ -296,28 +296,28 @@ export default function BankSettlementPercentagePage() {
                         </section>
 
                         <section id="banks-vs-nbfcs" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight uppercase">Banks vs NBFCs: How the Percentages Differ</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight uppercase">Banks vs NBFCs: How the Percentages Differ</h3>
                             <p className="mb-6 leading-relaxed">
                                 The type of institution you are dealing with changed the math completely. Non-Banking Financial Companies (NBFCs) and traditional Public Sector Banks (PSUs) have different mandates and different pain thresholds.
                             </p>
                             <div className="space-y-8 my-10">
                                 <div className="p-8 bg-gray-50 rounded-2xl border border-[#DEDEDE]">
-                                    <h3 className="text-xl font-bold mb-4">The PSU Approach (SBI, BoB, PNB)</h3>
+                                    <h4 className="text-xl font-bold mb-4">The PSU Approach (SBI, BoB, PNB)</h4>
                                     <p className="mb-4 text-sm leading-relaxed">Public sector banks are governed by strict OTS (One-Time Settlement) policies that are often rigid. They have "Matrix Rates" where a branch manager has very little flexibility. They typically struggle to settle for less than 50% of the total dues unless there is a specific festive season scheme or a Lok Adalat intervention. They characterize their risk as "Government Money" and are slower to negotiate.</p>
                                 </div>
                                 <div className="p-8 bg-gray-50 rounded-2xl border border-[#DEDEDE]">
-                                    <h3 className="text-xl font-bold mb-4">The Private Bank Approach (HDFC, ICICI, Axis)</h3>
+                                    <h4 className="text-xl font-bold mb-4">The Private Bank Approach (HDFC, ICICI, Axis)</h4>
                                     <p className="mb-4 text-sm leading-relaxed">Private banks are profit-driven. They calculate the net present value (NPV) of your debt. If they believe recovering ₹4 Lakh today is better than spending ₹1 Lakh on lawyers to get ₹7 Lakh in three years, they will settle. They are more flexible but also more data-driven. They will check your other bank accounts (using PAN linkage) to see if you have hidden money before agreeing to a low percentage.</p>
                                 </div>
                                 <div className="p-8 bg-gray-50 rounded-2xl border border-[#DEDEDE]">
-                                    <h3 className="text-xl font-bold mb-4">The NBFC & Fintech Approach (Bajaj, IDFC, Dhani)</h3>
+                                    <h4 className="text-xl font-bold mb-4">The NBFC & Fintech Approach (Bajaj, IDFC, Dhani)</h4>
                                     <p className="mb-4 text-sm leading-relaxed">NBFCs often have the highest waiver potential. Why? Because they charge interest rates of 18-30%. By the time you default, the bank has often already recovered a good chunk of its principal in interest payments. They are eager to clean their Balance Sheets to maintain their valuation. We have seen NBFC settlements go as low as 30% of the total outstanding within just 6 months of absolute default.</p>
                                 </div>
                             </div>
                         </section>
 
                         <section id="factors" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight uppercase text-[#1F5EFF]">Factors Influencing the "Haircut": Why You Get More or Less</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight uppercase text-[#1F5EFF]">Factors Influencing the "Haircut": Why You Get More or Less</h3>
                             <p className="mb-6 leading-relaxed text-lg">
                                 The percentage you get is the result of a complex internal score. At SettleLoans, we have decoded the five primary variables that banks use to decide your "Haircut."
                             </p>
@@ -325,35 +325,35 @@ export default function BankSettlementPercentagePage() {
                                 <li className="flex items-start gap-4">
                                     <div className="w-10 h-10 rounded-full bg-[#1F5EFF] flex items-center justify-center text-white font-bold shrink-0 mt-1">1</div>
                                     <div>
-                                        <h3 className="font-bold text-xl mb-1">Duration of Default (NPA Age)</h3>
+                                        <h4 className="font-bold text-xl mb-1">Duration of Default (NPA Age)</h4>
                                         <p className="text-gray-600">The older the debt, the higher the waiver. A debt that is 180 days past due (DPD) is likely to get a better deal than one that is 90 DPD. Banks write off older assets and move them to 'Bad Reserves', making them cheaper to settle internally.</p>
                                     </div>
                                 </li>
                                 <li className="flex items-start gap-4">
                                     <div className="w-10 h-10 rounded-full bg-[#1F5EFF] flex items-center justify-center text-white font-bold shrink-0 mt-1">2</div>
                                     <div>
-                                        <h4 className="font-bold text-xl mb-1">Type of Loan (Secured vs Unsecured)</h4>
+                                        <h5 className="font-bold text-xl mb-1">Type of Loan (Secured vs Unsecured)</h5>
                                         <p className="text-gray-600">Unsecured loans (Credit Cards, Personal Loans) get 30-60% waivers easily. Secured loans (Home, Car) rarely get any waiver because the bank can seize the asset. For secured loans, the bank will only settle for most of the principal plus basic legal costs.</p>
                                     </div>
                                 </li>
                                 <li className="flex items-start gap-4">
                                     <div className="w-10 h-10 rounded-full bg-[#1F5EFF] flex items-center justify-center text-white font-bold shrink-0 mt-1">3</div>
                                     <div>
-                                        <h4 className="font-bold text-xl mb-1">Proof of Financial Hardship</h4>
+                                        <h5 className="font-bold text-xl mb-1">Proof of Financial Hardship</h5>
                                         <p className="text-gray-600">This is the most critical human factor. If you show a medical certificate, a job termination letter, or an income tax return (ITR) that shows zero business income, the bank's credit manager can justify a higher waiver in his audit report.</p>
                                     </div>
                                 </li>
                                 <li className="flex items-start gap-4">
                                     <div className="w-10 h-10 rounded-full bg-[#1F5EFF] flex items-center justify-center text-white font-bold shrink-0 mt-1">4</div>
                                     <div>
-                                        <h4 className="font-bold text-xl mb-1">Income Stability</h4>
+                                        <h5 className="font-bold text-xl mb-1">Income Stability</h5>
                                         <p className="text-gray-600">If the bank sees that you have a new steady job with a high salary, they will wait for you. If they see that you are genuinely broke with no visible income streams, they will grab whatever you offer today. This is why timing your settlement is crucial.</p>
                                     </div>
                                 </li>
                                 <li className="flex items-start gap-4">
                                     <div className="w-10 h-10 rounded-full bg-[#1F5EFF] flex items-center justify-center text-white font-bold shrink-0 mt-1">5</div>
                                     <div>
-                                        <h4 className="font-bold text-xl mb-1">Negotiator's Expertise</h4>
+                                        <h5 className="font-bold text-xl mb-1">Negotiator's Expertise</h5>
                                         <p className="text-gray-600">An individual saying "I don't have money" is ignored. A legal team saying "Our client is filing for insolvency, and this is the final best offer before the court takes over" gets a very different response. Knowing which buttons to press can change the percentage by 10-15% easily.</p>
                                     </div>
                                 </li>
@@ -361,13 +361,13 @@ export default function BankSettlementPercentagePage() {
                         </section>
 
                         <section id="oti-calculation" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight uppercase">How to Calculate Your Ideal Settlement Offer</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight uppercase">How to Calculate Your Ideal Settlement Offer</h3>
                             <p className="mb-6 leading-relaxed">
                                 Don't wait for the bank to give you a number. You should go to them with a "SettleLoans Formula" offer. This shows the bank that you are a serious, informed borrower.
                             </p>
                             <div className="bg-[#2E2E2E] p-8 rounded-[30px] border border-[#1F5EFF]/20 shadow-xl text-white my-10 relative overflow-hidden">
                                 <div className="absolute top-0 right-0 w-32 h-32 bg-[#1F5EFF]/10 rounded-bl-full -mr-16 -mt-16"></div>
-                                <h3 className="text-2xl font-bold mb-6 relative z-10">The Calculation Logic</h3>
+                                <h4 className="text-2xl font-bold mb-6 relative z-10">The Calculation Logic</h4>
                                 <div className="space-y-4 relative z-10">
                                     <div className="flex justify-between items-center border-b border-white/10 pb-2">
                                         <span>Total Outstanding (Principal + Interest)</span>
@@ -394,7 +394,7 @@ export default function BankSettlementPercentagePage() {
                         </section>
 
                         <section id="rbi-guidelines" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight uppercase">RBI Guidelines on OTS: The Legal Foundation</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight uppercase">RBI Guidelines on OTS: The Legal Foundation</h3>
                             <p className="mb-6 leading-relaxed text-lg">
                                 The Reserve Bank of India (RBI) circular dated June 8, 2023, is the most important document for any borrower thinking about percentages. This circular made it mandatory for all banks and NBFCs to have a board-approved policy for "Compromise Settlements."
                             </p>
@@ -418,17 +418,17 @@ export default function BankSettlementPercentagePage() {
                         </section>
 
                         <section id="negotiation-tactics" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight uppercase text-green-700">Advanced Negotiation Tactics for High Waivers</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight uppercase text-green-700">Advanced Negotiation Tactics for High Waivers</h3>
                             <p className="mb-6 leading-relaxed">
                                 Most people make the mistake of begging. In bank negotiations, begging doesn't work. Strategy does. Here are the elite tactics we use at SettleLoans to drag the percentage down.
                             </p>
                             <div className="grid md:grid-cols-2 gap-8 my-10">
                                 <div className="p-8 bg-white border border-[#DEDEDE] rounded-3xl shadow-sm hover:shadow-md transition-shadow">
-                                    <h3 className="font-bold text-xl mb-4 text-[#1F5EFF]">The "Lok Adalat" Lever</h3>
+                                    <h4 className="font-bold text-xl mb-4 text-[#1F5EFF]">The "Lok Adalat" Lever</h4>
                                     <p className="text-sm leading-relaxed">Lok Adalats are people's courts where banks can settle thousands of cases in a single day. Settlement percentages in Lok Adalat are often 10-20% better than standard bank offers because the bank saves on legal fees and court time. Always check if your case is listed for the next Lok Adalat session.</p>
                                 </div>
                                 <div className="p-8 bg-white border border-[#DEDEDE] rounded-3xl shadow-sm hover:shadow-md transition-shadow">
-                                    <h4 className="font-bold text-xl mb-4 text-[#1F5EFF]">The "March End" Pressure</h4>
+                                    <h5 className="font-bold text-xl mb-4 text-[#1F5EFF]">The "March End" Pressure</h5>
                                     <p className="text-sm leading-relaxed">The last quarter of the Indian financial year (Jan-March) is the best time to settle. Bank managers have targets to reduce their NPA numbers before the annual audit. They are far more likely to agree to a 35% offer in March than they were in April.</p>
                                 </div>
                             </div>
@@ -438,7 +438,7 @@ export default function BankSettlementPercentagePage() {
                         </section>
 
                         <section id="credit-impact" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight uppercase">Financial & Credit Impact: The Price of the Haircut</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight uppercase">Financial & Credit Impact: The Price of the Haircut</h3>
                             <p className="mb-6 leading-relaxed">
                                 You must understand that while a 60% waiver feels like "winning" today, it has a cost in the future. The deeper the haircut the bank takes, the more "Danger" they report to your credit profile.
                             </p>
@@ -473,14 +473,14 @@ export default function BankSettlementPercentagePage() {
                         </section>
 
                         <section id="common-pitfalls" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight uppercase text-red-600">Common Pitfalls in Percentage Deals: Watch Your Step</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight uppercase text-red-600">Common Pitfalls in Percentage Deals: Watch Your Step</h3>
                             <p className="mb-6 leading-relaxed">
                                 Many borrowers get a verbal agreement for a 40% settlement, pay the money, and then find out the loan is still active. This is a nightmare scenario.
                             </p>
                             <div className="bg-red-50 p-8 rounded-3xl border border-red-100 flex flex-col md:flex-row gap-8 items-center">
                                 <div className="text-5xl font-black text-red-600 opacity-20 hidden md:block">STOP</div>
                                 <div>
-                                    <h3 className="font-bold text-xl mb-4 text-red-800 uppercase">Never Pay Without a "Sanction Letter"</h3>
+                                    <h4 className="font-bold text-xl mb-4 text-red-800 uppercase">Never Pay Without a "Sanction Letter"</h4>
                                     <p className="text-sm leading-relaxed text-red-900/80 mb-4">
                                         An email from a recovery agent or a WhatsApp message from a collection agency is NOT a settlement. You must demand a formal "Settlement Sanction Letter" on the bank's official letterhead, signed by an authorized manager.
                                     </p>
@@ -494,7 +494,7 @@ export default function BankSettlementPercentagePage() {
                         </section>
 
                         <section id="professional-role" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight uppercase">How SettleLoans Maximize Your Waiver Percentage</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight uppercase">How SettleLoans Maximize Your Waiver Percentage</h3>
                             <p className="mb-6 leading-relaxed">
                                 Why hire a professional for a percentage negotiation? Because banks have teams of experts working for them, and you are just one individual. SettleLoans levels the playing field.
                             </p>
@@ -502,14 +502,14 @@ export default function BankSettlementPercentagePage() {
                                 <div className="p-6 bg-white rounded-2xl border border-[#DEDEDE] flex gap-4">
                                     <div className="w-10 h-10 rounded-full bg-blue-100 text-[#1F5EFF] flex items-center justify-center shrink-0">📊</div>
                                     <div>
-                                        <h3 className="font-bold text-sm mb-1">Data-Driven Bidding</h3>
+                                        <h4 className="font-bold text-sm mb-1">Data-Driven Bidding</h4>
                                         <p className="text-xs text-gray-500">We know the historical settlement rates of over 100 banks for the last 5 years. We don't guess; we bid.</p>
                                     </div>
                                 </div>
                                 <div className="p-6 bg-white rounded-2xl border border-[#DEDEDE] flex gap-4">
                                     <div className="w-10 h-10 rounded-full bg-blue-100 text-[#1F5EFF] flex items-center justify-center shrink-0">🛡️</div>
                                     <div>
-                                        <h4 className="font-bold text-sm mb-1">Legal Insulation</h4>
+                                        <h5 className="font-bold text-sm mb-1">Legal Insulation</h5>
                                         <p className="text-xs text-gray-500">We act as your Power of Attorney for negotiation, preventing agents from intimidating you into high-percentage deals.</p>
                                     </div>
                                 </div>
@@ -517,7 +517,7 @@ export default function BankSettlementPercentagePage() {
                         </section>
 
                         <section id="success-stories" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 text-center uppercase tracking-tight">Real Stories of Freedom</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 text-center uppercase tracking-tight">Real Stories of Freedom</h3>
                             <div className="grid md:grid-cols-2 gap-6 pb-2">
                                 {[
                                     {
@@ -551,7 +551,7 @@ export default function BankSettlementPercentagePage() {
                                                 {review.name.charAt(0)}
                                             </div>
                                             <div>
-                                                <h3 className="font-bold text-[#2E2E2E]">{review.name}</h3>
+                                                <h4 className="font-bold text-[#2E2E2E]">{review.name}</h4>
                                                 <p className="text-xs text-gray-400">{review.loc}</p>
                                             </div>
                                             <div className="ml-auto text-yellow-400 text-sm">★★★★★</div>
@@ -565,53 +565,53 @@ export default function BankSettlementPercentagePage() {
                             </div>
                         </section>
                         <section id="faqs" className="scroll-mt-32 mb-12 border-t border-[#DEDEDE] pt-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight uppercase">Frequently Asked Questions</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight uppercase">Frequently Asked Questions</h3>
                             <div className="space-y-6">
                                 <div className="p-6 bg-white border border-[#DEDEDE] rounded-xl shadow-sm">
-                                    <h3 className="font-bold text-[#1F5EFF] mb-2 text-lg">1. What is the minimum percentage a bank accepts in settlement?</h3>
+                                    <h4 className="font-bold text-[#1F5EFF] mb-2 text-lg">1. What is the minimum percentage a bank accepts in settlement?</h4>
                                     <p className="text-sm leading-relaxed text-gray-700">Typically, banks and NBFCs accept between 30% and 50% of the total outstanding amount. While cases of 25% exist, they are reserved for extreme hardship. Avoid anyone promising a "10% settlement" as it is often a scam.</p>
                                 </div>
                                 <div className="p-6 bg-white border border-[#DEDEDE] rounded-xl shadow-sm">
-                                    <h3 className="font-bold text-[#1F5EFF] mb-2 text-lg">2. Do NBFCs settle for a lower percentage than banks?</h3>
+                                    <h4 className="font-bold text-[#1F5EFF] mb-2 text-lg">2. Do NBFCs settle for a lower percentage than banks?</h4>
                                     <p className="text-sm leading-relaxed text-gray-700">Yes. NBFCs are generally more flexible and eager to close NPAs. They often settle for 25-40% of the total dues, whereas PSU banks rarely drop below 50% without massive pressure.</p>
                                 </div>
                                 <div className="p-6 bg-white border border-[#DEDEDE] rounded-xl shadow-sm">
-                                    <h3 className="font-bold text-[#1F5EFF] mb-2 text-lg">3. Can I get a 70% waiver on my loan?</h3>
+                                    <h4 className="font-bold text-[#1F5EFF] mb-2 text-lg">3. Can I get a 70% waiver on my loan?</h4>
                                     <p className="text-sm leading-relaxed text-gray-700">A 70% waiver is rare but possible for accounts that have been in default for more than 2 years and when the borrower can prove a permanent loss of earning capacity (like a major illness or disability).</p>
                                 </div>
                                 <div className="p-6 bg-white border border-[#DEDEDE] rounded-xl shadow-sm">
-                                    <h3 className="font-bold text-[#1F5EFF] mb-2 text-lg">4. Is settlement calculated on principal or total outstanding?</h3>
+                                    <h4 className="font-bold text-[#1F5EFF] mb-2 text-lg">4. Is settlement calculated on principal or total outstanding?</h4>
                                     <p className="text-sm leading-relaxed text-gray-700">In almost all cases, the bank calculates the percentage based on the "Total Outstanding" as shown on the day of negotiation. This includes your principal, all interest incurred since the first default, and late fees.</p>
                                 </div>
                                 <div className="p-6 bg-white border border-[#DEDEDE] rounded-xl shadow-sm">
-                                    <h3 className="font-bold text-[#1F5EFF] mb-2 text-lg">5. Why do banks prefer lump-sum settlements?</h3>
+                                    <h4 className="font-bold text-[#1F5EFF] mb-2 text-lg">5. Why do banks prefer lump-sum settlements?</h4>
                                     <p className="text-sm leading-relaxed text-gray-700">Lump-sum payments are attractive to banks because they get clear, immediate cash that is 100% certain. Installment settlements carry the risk of the borrower defaulting again halfway through, which doubles the bank's work.</p>
                                 </div>
                                 <div className="p-6 bg-white border border-[#DEDEDE] rounded-xl shadow-sm">
-                                    <h3 className="font-bold text-[#1F5EFF] mb-2 text-lg">6. How long does the negotiation for percentage take?</h3>
+                                    <h4 className="font-bold text-[#1F5EFF] mb-2 text-lg">6. How long does the negotiation for percentage take?</h4>
                                     <p className="text-sm leading-relaxed text-gray-700">A proper negotiation takes 3 to 6 months of absolute default. If you try to negotiate in the first month, the bank will think you have money and will demand 90-100% payment. You must let the account "age" into NPA status.</p>
                                 </div>
                                 <div className="p-6 bg-white border border-[#DEDEDE] rounded-xl shadow-sm">
-                                    <h3 className="font-bold text-[#1F5EFF] mb-2 text-lg">7. Does a higher default duration lead to a lower settlement percentage?</h3>
+                                    <h4 className="font-bold text-[#1F5EFF] mb-2 text-lg">7. Does a higher default duration lead to a lower settlement percentage?</h4>
                                     <p className="text-sm leading-relaxed text-gray-700">Yes. The bank's internal valuation of your debt drops every month you don't pay. After two years, many banks sell the debt to Asset Reconstruction Companies (ARCs) for as low as 15-20%. This is the sweet spot for a deep waiver settlement.</p>
                                 </div>
                                 <div className="p-6 bg-white border border-[#DEDEDE] rounded-xl shadow-sm">
-                                    <h3 className="font-bold text-[#1F5EFF] mb-2 text-lg">8. Are secured loans eligible for settlement?</h3>
+                                    <h4 className="font-bold text-[#1F5EFF] mb-2 text-lg">8. Are secured loans eligible for settlement?</h4>
                                     <p className="text-sm leading-relaxed text-gray-700">They can be settled through the "Sarfaesi Act" or OTS schemes, but the waivers are very small (usually 10-15%). If the property value is higher than the loan, the bank will simply auction the property rather than settle.</p>
                                 </div>
                                 <div className="p-6 bg-white border border-[#DEDEDE] rounded-xl shadow-sm">
-                                    <h3 className="font-bold text-[#1F5EFF] mb-2 text-lg">9. What happens if I reject the bank's settlement offer?</h3>
+                                    <h4 className="font-bold text-[#1F5EFF] mb-2 text-lg">9. What happens if I reject the bank's settlement offer?</h4>
                                     <p className="text-sm leading-relaxed text-gray-700">Nothing catastrophic happens instantly. The bank will continue its recovery efforts. However, wait for 30-60 days and make a slightly better counter-offer. It's a game of brinksmanship. The bank expects you to counter.</p>
                                 </div>
                                 <div className="p-6 bg-white border border-[#DEDEDE] rounded-xl shadow-sm">
-                                    <h3 className="font-bold text-[#1F5EFF] mb-2 text-lg">10. Can SettleLoans help me get a lower percentage?</h3>
+                                    <h4 className="font-bold text-[#1F5EFF] mb-2 text-lg">10. Can SettleLoans help me get a lower percentage?</h4>
                                     <p className="text-sm leading-relaxed text-gray-700">Yes. We use our database of past successful settlements to tell the bank: "You settled Case A for 35%, whereas you are asking our client for 55%. We demand parity based on the RBI's Fair Practice Code." This kind of professional pressure is very effective.</p>
                                 </div>
                             </div>
                         </section>
 
                         <div className="mt-16 p-8 bg-[#F8F9FA] rounded-[30px] border border-[#DEDEDE] text-center">
-                            <h3 className="text-2xl font-black mb-4 uppercase">Stop Overpaying the Banks</h3>
+                            <h4 className="text-2xl font-black mb-4 uppercase">Stop Overpaying the Banks</h4>
                             <p className="mb-8 text-gray-600 italic">Get the maximum waiver legally possible. Join the SettleLoans family today.</p>
                             <Link href="/contact" className="inline-block bg-[#1F5EFF] text-white font-bold py-4 px-12 rounded-xl hover:scale-105 transition-all shadow-lg">
                                 Consult a Settlement Expert Now

@@ -221,9 +221,9 @@ export default function ConsultantQuestionsPage() {
             </section>
 
             <section id="vulnerability" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                 Understanding the Borrower's Vulnerability in the Indian Market
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 The Indian credit market has seen an explosion of growth, particularly in the unsecured segment like credit cards and personal loans. While this has improved financial inclusion, it has also created a massive pool of borrowers who are just one medical emergency or job loss away from default. When default strikes, the immediate reaction is panic. This panic makes borrowers vulnerable to "fear-based selling."
               </p>
@@ -231,7 +231,7 @@ export default function ConsultantQuestionsPage() {
                 Many consultants use labels like "Official RBI Partner" or "Government Authorized" to gain trust. It is important to know that the RBI does not "partner" with private debt settlement firms. By understanding this landscape, you realize that your skepticism is not just justified; it is necessary. You are hiring a service to solve a problem that you cannot solve alone, and like any high-stakes hire, you must perform deep due diligence.
               </p>
               <div className="bg-blue-50 p-8 rounded-2xl border border-blue-100 mb-8">
-                <h3 className="text-xl font-bold mb-4">The Trust Deficit</h3>
+                <h4 className="text-xl font-bold mb-4">The Trust Deficit</h4>
                 <p className="text-gray-700 leading-relaxed italic">
                   "In our experience at SettleLoans, we have found that the most successful settlements start with a client who asked the toughest questions. A consultant who welcomes your scrutiny is one who has nothing to hide."
                 </p>
@@ -239,55 +239,55 @@ export default function ConsultantQuestionsPage() {
             </section>
 
             <section id="credentials" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                 1. Credentials & Legality: Establishing the Foundation
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 Before discussing your specific debt, you must establish who you are talking to. The first set of questions should focus on the corporate and legal identity of the firm.
               </p>
               <div className="space-y-6 mb-8">
                 <div className="p-6 bg-white border border-gray-200 rounded-2xl">
-                  <h3 className="font-bold text-[#1F5EFF] mb-2">"Are you a registered legal entity? Can I see your CIN and registration documents?"</h3>
+                  <h4 className="font-bold text-[#1F5EFF] mb-2">"Are you a registered legal entity? Can I see your CIN and registration documents?"</h4>
                   <p className="text-sm text-gray-600">Why it matters: Anyone can set up a WhatsApp account and a website. A legitimate firm will be registered with the Ministry of Corporate Affairs as a Company, LLP, or a registered Law Firm. This registration provides you with a path for legal recourse if things go wrong.</p>
                 </div>
                 <div className="p-6 bg-white border border-gray-200 rounded-2xl">
-                  <h4 className="font-bold text-[#1F5EFF] mb-2">"Do you have a physical office I can visit?"</h4>
+                  <h5 className="font-bold text-[#1F5EFF] mb-2">"Do you have a physical office I can visit?"</h5>
                   <p className="text-sm text-gray-600">Why it matters: While digital-first is fine, a physical presence indicates a level of commitment and stability. It prevents the firm from simply "vanishing" if they become overwhelmed by bank pressure.</p>
                 </div>
                 <div className="p-6 bg-white border border-gray-200 rounded-2xl">
-                  <h4 className="font-bold text-[#1F5EFF] mb-2">"Who is on your expert panel? Are there qualified lawyers or ex-bankers?"</h4>
+                  <h5 className="font-bold text-[#1F5EFF] mb-2">"Who is on your expert panel? Are there qualified lawyers or ex-bankers?"</h5>
                   <p className="text-sm text-gray-600">Why it matters: Debt settlement is 50% legal interpretation and 50% banking process knowledge. Without specialists in these areas, a consultant is just a middleman with a silver tongue.</p>
                 </div>
               </div>
             </section>
 
             <section id="process" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                 2. Process & Timelines: Setting Realistic Expectations
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 Unreliable consultants often promise that your debt will be settled in "30 days." In reality, the banking process in India is slower and more structured.
               </p>
               <div className="space-y-6 mb-8">
                 <div className="p-6 bg-white border border-gray-200 rounded-2xl">
-                  <h3 className="font-bold text-[#1F5EFF] mb-2">"What is the average timeline for an unsecured loan settlement with a major bank like HDFC or ICICI?"</h3>
+                  <h4 className="font-bold text-[#1F5EFF] mb-2">"What is the average timeline for an unsecured loan settlement with a major bank like HDFC or ICICI?"</h4>
                   <p className="text-sm text-gray-600">The right answer: Usually 3 to 9 months. Any promise of a 1-month settlement is likely a lie or includes skipping critical legal steps. Banks require multiple internal approvals for a One-Time Settlement (OTS).</p>
                 </div>
                 <div className="p-6 bg-white border border-gray-200 rounded-2xl">
-                  <h4 className="font-bold text-[#1F5EFF] mb-2">"Will you handle the communication with the recovery agents immediately?"</h4>
+                  <h5 className="font-bold text-[#1F5EFF] mb-2">"Will you handle the communication with the recovery agents immediately?"</h5>
                   <p className="text-sm text-gray-600">The right answer: Yes, we provide an anti-harassment service where we redirect calls to our legal desk and ensure all contacts follow RBI timings.</p>
                 </div>
                 <div className="p-6 bg-white border border-gray-200 rounded-2xl">
-                  <h4 className="font-bold text-[#1F5EFF] mb-2">"How often will I receive updates on the negotiation progress?"</h4>
+                  <h5 className="font-bold text-[#1F5EFF] mb-2">"How often will I receive updates on the negotiation progress?"</h5>
                   <p className="text-sm text-gray-600">The right answer: You should demand a weekly or bi-weekly status report. A consultant who goes silent for weeks is not managing your case actively.</p>
                 </div>
               </div>
             </section>
 
             <section id="fees" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                 3. Fees & Hidden Costs: Avoiding the Financial Trap
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 This is where most borrowers get hurt. A consultant who costs you more than they save you is a bad investment.
               </p>
@@ -328,9 +328,9 @@ export default function ConsultantQuestionsPage() {
             </section>
 
             <section id="bank-relations" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                 4. Bank & Lender Relations: Understanding the "Room"
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 Negotiation is about relationships and data. A consultant who doesn't understand the specific policies of your bank is guessing.
               </p>
@@ -355,14 +355,14 @@ export default function ConsultantQuestionsPage() {
             </section>
 
             <section id="rbi-compliance" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                 5. RBI Norms & Harassment: Your Legal Shield
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 Most borrowers choose a consultant for one thing: stopping the calls.
               </p>
               <div className="bg-red-50 p-8 rounded-2xl border border-red-100 mb-8">
-                <h3 className="text-xl font-bold text-red-800 mb-4 uppercase tracking-wider text-sm">Vital Question</h3>
+                <h4 className="text-xl font-bold text-red-800 mb-4 uppercase tracking-wider text-sm">Vital Question</h4>
                 <p className="text-red-900 font-black text-xl mb-4">"If a recovery agent comes to my house today, what exactly is the protocol you follow?"</p>
                 <p className="text-red-800 text-sm leading-relaxed">
                   The consultant should explain that they will talk to the agent via phone, cite the specific RBI circular regarding property visits, and if necessary, guide you on Recording/Filing a complaint with the bank's Nodal Officer. If they just say "don't open the door," they are generic, not expert.
@@ -371,14 +371,14 @@ export default function ConsultantQuestionsPage() {
             </section>
 
             <section id="credit-score" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                 6. Credit Score Impact: Handling the Truth
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 A consultant who says "your CIBIL will be fine" is a scammer. Debt settlement is a trade-off.
               </p>
               <div className="p-8 bg-gray-50 rounded-2xl border border-gray-200">
-                <h3 className="font-bold mb-4">Question to ask: "How will this affect my ability to get a home loan in 5 years?"</h3>
+                <h4 className="font-bold mb-4">Question to ask: "How will this affect my ability to get a home loan in 5 years?"</h4>
                 <p className="text-gray-600 leading-relaxed mb-4">
                   A trustworthy consultant will explain that the "Settled" status will remain for 7 years, but its negative weight decreases after 2-3 years if you practice disciplined credit behavior. They should also discuss the difference between "Settled" and "Post-Settlement Closure" (which requires paying the full amount later).
                 </p>
@@ -389,9 +389,9 @@ export default function ConsultantQuestionsPage() {
             </section>
 
             <section id="negotiation" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                 7. Negotiation Strategies: The "How" Matters
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 Is it just about asking for a discount? No. It is about building a case.
               </p>
@@ -401,7 +401,7 @@ export default function ConsultantQuestionsPage() {
                     <svg className="w-6 h-6 text-blue-600" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M19 11H5m14 0a2 2 0 012 2v6a2 2 0 01-2 2H5a2 2 0 01-2-2v-6a2 2 0 012-2m14 0V9a2 2 0 00-2-2M5 11V9a2 2 0 012-2m0 0V5a2 2 0 012-2h6a2 2 0 012 2v2M7 7h10"></path></svg>
                   </div>
                   <div>
-                    <h3 className="font-bold leading-tight mb-2">"What evidence of financial hardship do you require from me?"</h3>
+                    <h4 className="font-bold leading-tight mb-2">"What evidence of financial hardship do you require from me?"</h4>
                     <p className="text-sm text-gray-600">If they don't ask for medical bills, job termination letters, or income proofs, they aren't negotiating; they are just guessing. Banks ONLY settle when they see documented proof that you truly cannot pay.</p>
                   </div>
                 </div>
@@ -410,7 +410,7 @@ export default function ConsultantQuestionsPage() {
                     <svg className="w-6 h-6 text-blue-600" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M8 7V3m8 4V3m-9 8h10M5 21h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v12a2 2 0 002 2z"></path></svg>
                   </div>
                   <div>
-                    <h4 className="font-bold leading-tight mb-2">"Do you use a 'Wait-and-Watch' or a 'Proactive Outreach' strategy?"</h4>
+                    <h5 className="font-bold leading-tight mb-2">"Do you use a 'Wait-and-Watch' or a 'Proactive Outreach' strategy?"</h5>
                     <p className="text-sm text-gray-600">The right answer depends on your goals, but they should explain the pros and cons. Proactive outreach can trigger legal action faster, while waiting can lead to higher interest but better discounts.</p>
                   </div>
                 </div>
@@ -418,14 +418,14 @@ export default function ConsultantQuestionsPage() {
             </section>
 
             <section id="documentation" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                 8. Post-Settlement Documents: The Final Victory
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 Walking away with a paid deal but no paperwork is a disaster waiting to happen.
               </p>
               <div className="bg-emerald-50 p-8 rounded-2xl border border-emerald-100 mb-8">
-                <h3 className="text-xl font-bold text-emerald-800 mb-4">The Question: "Will you verify the authenticity of the Settlement Letter and the NDC?"</h3>
+                <h4 className="text-xl font-bold text-emerald-800 mb-4">The Question: "Will you verify the authenticity of the Settlement Letter and the NDC?"</h4>
                 <p className="text-emerald-900 leading-relaxed mb-4 font-medium uppercase tracking-tighter text-sm">Why this is critical:</p>
                 <p className="text-emerald-800 text-sm leading-relaxed text-[var(--color-text-body)]">
                   Scammers often provide fake settlement letters. A professional consultant like <strong>SettleLoans</strong> reviews the letter for: (1) Bank Logo accuracy, (2) Signed authority from the correct department, (3) Mention of 'One-Time Settlement', and (4) Clear mention of the waiver amount. After payment, they must follow up for the <strong>No Dues Certificate (NDC)</strong>. Without an NDC, the bank can technically restart recovery after 2 years claiming the payment was just a "partial payment."
@@ -434,14 +434,14 @@ export default function ConsultantQuestionsPage() {
             </section>
 
             <section id="risks" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                 9. Risks & Contingencies: Preparing for the Worst
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 What if the bank sues you? Your consultant must have a plan.
               </p>
               <div className="p-8 bg-white border border-gray-200 rounded-2xl shadow-sm">
-                <h3 className="font-bold text-[#1F5EFF] mb-4 text-xl">"What happens if I receive a court summons or a Lok Adalat notice while we are in negotiations?"</h3>
+                <h4 className="font-bold text-[#1F5EFF] mb-4 text-xl">"What happens if I receive a court summons or a Lok Adalat notice while we are in negotiations?"</h4>
                 <p className="text-gray-700 leading-relaxed mb-6">
                   A fake consultant will tell you to ignore it. <strong>NEVER IGNORE A COURT SUMMONS.</strong> A real legal-backed firm like <Link href="https://amalegalsolutions.com" target="_blank" rel="noopener noreferrer" className="text-[#1F5EFF] hover:underline">AMA Legal Solutions</Link> will send a representative or guide you on how to present your case at the Lok Adalat. In fact, Lok Adalats are excellent places to finalize settlements, as the resulting decree is legally binding and equivalent to a civil court order.
                 </p>
@@ -449,41 +449,41 @@ export default function ConsultantQuestionsPage() {
             </section>
 
             <section id="comparison" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                 Comparing Consultants: The Matrix of Quality
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 By now, you have the ingredients. Now you need to cook. Use this scoring system for every consultant you interview.
               </p>
               <div className="grid md:grid-cols-2 gap-6 my-10">
                 <div className="border border-gray-100 p-6 rounded-xl hover:border-blue-500 transition-colors bg-white">
-                  <h3 className="font-black text-blue-600 mb-2 uppercase text-xs tracking-widest">Indicator: Transparency</h3>
+                  <h4 className="font-black text-blue-600 mb-2 uppercase text-xs tracking-widest">Indicator: Transparency</h4>
                   <p className="text-sm text-gray-500">Do they talk about the CIBIL drop and the risk of litigation without being asked? (5 pts)</p>
                 </div>
                 <div className="border border-gray-100 p-6 rounded-xl hover:border-blue-500 transition-colors bg-white">
-                  <h4 className="font-black text-blue-600 mb-2 uppercase text-xs tracking-widest">Indicator: Legal Support</h4>
+                  <h5 className="font-black text-blue-600 mb-2 uppercase text-xs tracking-widest">Indicator: Legal Support</h5>
                   <p className="text-sm text-gray-500">Do they have on-payroll advocates or just "affiliates"? (5 pts)</p>
                 </div>
                 <div className="border border-gray-100 p-6 rounded-xl hover:border-blue-500 transition-colors bg-white">
-                  <h5 className="font-black text-blue-600 mb-2 uppercase text-xs tracking-widest">Indicator: Fees</h5>
+                  <h6 className="font-black text-blue-600 mb-2 uppercase text-xs tracking-widest">Indicator: Fees</h6>
                   <p className="text-sm text-gray-500">Is the majority of the fee performance-linked (success based)? (5 pts)</p>
                 </div>
                 <div className="border border-gray-100 p-6 rounded-xl hover:border-blue-500 transition-colors bg-white">
-                  <h5 className="font-black text-blue-600 mb-2 uppercase text-xs tracking-widest">Indicator: Communication</h5>
+                  <h6 className="font-black text-blue-600 mb-2 uppercase text-xs tracking-widest">Indicator: Communication</h6>
                   <p className="text-sm text-gray-500">Do you speak to a counselor or just a sales agent? (5 pts)</p>
                 </div>
               </div>
             </section>
 
             <section id="scams" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                 Spotting Modern Scams: The Digital Red Flags
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 Scams in the Indian debt sector have moved to Telegram, WhatsApp, and specialized "loan closure apps."
               </p>
               <div className="bg-red-50 p-8 rounded-2xl border border-red-200">
-                <h3 className="font-black text-red-800 mb-4">Never Trust a Consultant Who asks for:</h3>
+                <h4 className="font-black text-red-800 mb-4">Never Trust a Consultant Who asks for:</h4>
                 <ul className="space-y-4 text-red-900 font-medium">
                   <li className="flex gap-2"><span>❌</span> Your net banking password or OTP.</li>
                   <li className="flex gap-2"><span>❌</span> A fee to "delete your name from the CIBIL blacklist."</li>
@@ -494,9 +494,9 @@ export default function ConsultantQuestionsPage() {
             </section>
 
             <section id="hardship" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                 The Forgotten Art of Documenting Hardship
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 When you ask a consultant about hardship documentation, you are testing their strategic depth. A good consultant doesn't just ask for "income proof." They help you tell a story.
               </p>
@@ -506,9 +506,9 @@ export default function ConsultantQuestionsPage() {
             </section>
 
             <section id="psychology" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                 Psychological Support: The Human Element
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 Debt kills sleep long before it kills credit scores. Ask your consultant: <strong>"Do you provide emotional guidance or a support group for borrowers?"</strong>
               </p>
@@ -518,9 +518,9 @@ export default function ConsultantQuestionsPage() {
             </section>
 
             <section id="role-of-lawyer" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                 Why Legal Experts Change the Game
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 Banks have rooms full of lawyers. If your consultant is just a smooth-talking agent, you are outgunned. Ask: <strong>"Will my case be handled by a lawyer registered with the Bar Council?"</strong>
               </p>
@@ -530,9 +530,9 @@ export default function ConsultantQuestionsPage() {
             </section>
 
             <section id="checklist" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                 The Master Interview Checklist: 25+ Questions
-              </h2>
+              </h3>
               <div className="grid grid-cols-1 gap-4 text-sm">
                 {[
                   "Can I see your company's registration number and physical address?",
@@ -570,13 +570,13 @@ export default function ConsultantQuestionsPage() {
             </section>
 
             <section id="lessons-learned" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                 Lessons from Others: Real-Life Success Stories
-              </h2>
+              </h3>
               <div className="grid md:grid-cols-2 gap-8 my-10">
                 <div className="p-8 bg-blue-50/30 rounded-2xl border border-blue-100 flex flex-col justify-between">
                   <div>
-                    <h3 className="font-black mb-4 text-blue-800">The "Wait and Win" Story</h3>
+                    <h4 className="font-black mb-4 text-blue-800">The "Wait and Win" Story</h4>
                     <p className="text-sm text-gray-700 leading-relaxed mb-4">
                       Anil from Bangalore was being harassed for a 12 lakh personal loan. He asked his consultant about the 'timing' of the settlement. The consultant advised him to wait until the fiscal year-end (March). By asking this question, Anil learned about 'Bank Targets.' He eventually settled for 5 lakhs in late March because the bank needed to clear its NPA books.
                     </p>
@@ -585,7 +585,7 @@ export default function ConsultantQuestionsPage() {
                 </div>
                 <div className="p-8 bg-purple-50/30 rounded-2xl border border-purple-100 flex flex-col justify-between">
                   <div>
-                    <h4 className="font-black mb-4 text-purple-800">The "Paper Trail" Victory</h4>
+                    <h5 className="font-black mb-4 text-purple-800">The "Paper Trail" Victory</h5>
                     <p className="text-sm text-gray-700 leading-relaxed mb-4">
                       Sunita from Mumbai insisted on asking about the "Verification Process." When the bank sent a settlement letter via email, her consultant noticed it was from a third-party agent's Gmail, not the bank's official domain. By questioning the authenticity, she avoided a 2 lakh scam and eventually got a legitimate letter via the bank's portal.
                     </p>
@@ -596,9 +596,9 @@ export default function ConsultantQuestionsPage() {
             </section>
 
             <section id="future" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                 Building a Stable Future: Life Post-Settlement
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 Settling is the end of a nightmare, not the end of your story. Ask your consultant: <strong>"Do you offer any post-settlement financial planning or credit rebuilding services?"</strong>
               </p>
@@ -608,7 +608,7 @@ export default function ConsultantQuestionsPage() {
             </section>
 
             <section id="success-stories" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 text-center uppercase tracking-wider">Real Stories of Freedom</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 text-center uppercase tracking-wider">Real Stories of Freedom</h3>
               <div className="grid md:grid-cols-2 gap-6 not-prose">
                 {[
                   {
@@ -646,7 +646,7 @@ export default function ConsultantQuestionsPage() {
                         {review.name.charAt(0)}
                       </div>
                       <div>
-                        <h3 className="font-bold text-[#2E2E2E]">{review.name}</h3>
+                        <h4 className="font-bold text-[#2E2E2E]">{review.name}</h4>
                         <p className="text-xs text-gray-400">{review.loc}</p>
                       </div>
                       <div className="ml-auto text-yellow-400 text-sm">★★★★★</div>
@@ -661,7 +661,7 @@ export default function ConsultantQuestionsPage() {
             </section>
 
             <section id="faqs" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 uppercase tracking-wider">Frequently Asked Questions</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 uppercase tracking-wider">Frequently Asked Questions</h3>
               <div className="space-y-4 not-prose">
                 {faqs.map((faq, i) => (
                   <details key={i} className="group bg-white border border-[#DEDEDE] rounded-xl overflow-hidden hover:shadow-md transition-all border-b-4 border-b-[#1F5EFF]/20">

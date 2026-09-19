@@ -272,12 +272,12 @@ export default function TrackLoanSettlementStatusPage() {
             </section>
 
             <section id="the-need-for-tracking" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">Why Tracking Your Settlement is Critical</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">Why Tracking Your Settlement is Critical</h3>
               <p className="mb-6 leading-relaxed">
                 Settlement is not just about paying a sum of money; it's about ensuring that the debt is legally extinguished. Without proper tracking, you might find yourself in a situation where you have paid a "settlement" amount but the bank still considers you a defaulter. This happens due to administrative errors, misplaced documents, or even the lack of updates in the bank's internal systems.
               </p>
               <div className="bg-gray-50 p-8 rounded-2xl border border-[#DEDEDE] mb-8">
-                <h3 className="font-bold mb-4">Risk of Ignoring the Status:</h3>
+                <h4 className="font-bold mb-4">Risk of Ignoring the Status:</h4>
                 <ul className="space-y-3 text-sm text-gray-600">
                   <li>• Ongoing recovery harassment despite payment.</li>
                   <li>• Legal cases not being withdrawn by the lender.</li>
@@ -291,7 +291,7 @@ export default function TrackLoanSettlementStatusPage() {
             </section>
 
             <section id="mediator-platforms" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">The Role of Financial Service Providers</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">The Role of Financial Service Providers</h3>
               <p className="mb-6 leading-relaxed">
                 Most borrowers choose to use professional services rather than negotiating with banks directly. This is because banks can be intimidating, and the legal jargon involved in settlement letters can be confusing. Professional platforms act as an intermediary, providing both the expertise for negotiation and the interface for tracking.
               </p>
@@ -301,18 +301,18 @@ export default function TrackLoanSettlementStatusPage() {
             </section>
 
             <section id="platform-breakdown" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">Comparing Major Tracking Platforms</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">Comparing Major Tracking Platforms</h3>
               <p className="mb-6 leading-relaxed">
                 Each platform has its own unique way of handling client updates. Understanding these differences helps you choose the service that best fits your preference for transparency and control.
               </p>
             </section>
 
             <section id="amalegal-details" className="scroll-mt-32 mb-16 bg-[#1F5EFF]/5 p-8 rounded-2xl border border-[#1F5EFF]/10">
-              <h3 className="text-2xl font-black text-[#1F5EFF] mb-6">Amalegal Solutions (amalegalsolutions.com)</h3>
+              <h4 className="text-2xl font-black text-[#1F5EFF] mb-6">Amalegal Solutions (amalegalsolutions.com)</h4>
               <p className="mb-6 leading-relaxed">
                 <strong>Amalegal Solutions</strong> is primarily a law firm that specializes in debt resolution. Their approach to tracking is rooted in legal process management. When you sign up with them, you are assigned a legal case manager who serves as your primary point of contact for status updates.
               </p>
-              <h4 className="font-bold mb-3">Key Tracking Features:</h4>
+              <h5 className="font-bold mb-3">Key Tracking Features:</h5>
               <ul className="space-y-4 mb-6 text-sm">
                 <li className="flex items-start gap-3">
                   <span className="text-green-600 font-bold">✓</span>
@@ -331,11 +331,11 @@ export default function TrackLoanSettlementStatusPage() {
             </section>
 
             <section id="credsettle-details" className="scroll-mt-32 my-12 bg-gray-50 p-8 rounded-2xl border border-gray-200">
-              <h3 className="text-2xl font-black text-[#2E2E2E] mb-6">CredSettle (credsettle.com)</h3>
+              <h4 className="text-2xl font-black text-[#2E2E2E] mb-6">CredSettle (credsettle.com)</h4>
               <p className="mb-6 leading-relaxed">
                 <strong>CredSettle</strong> provides expert negotiation services with a strong focus on high-impact debt resolution. Their tracking system is centered on the negotiation lifecycle. They understand that for a borrower, the most anxious time is while waiting for a bank's response to a settlement proposal.
               </p>
-              <h4 className="font-bold mb-3">Key Tracking Features:</h4>
+              <h5 className="font-bold mb-3">Key Tracking Features:</h5>
               <ul className="space-y-4 mb-6 text-sm">
                 <li className="flex items-start gap-3">
                   <span className="text-blue-600 font-bold">✓</span>
@@ -354,11 +354,11 @@ export default function TrackLoanSettlementStatusPage() {
             </section>
 
             <section id="settleloans-details" className="scroll-mt-32 mb-16 bg-[#2E2E2E] text-[#DEDEDE] p-8 rounded-2xl border border-[#1F5EFF]/20">
-              <h3 className="text-2xl font-black text-[#1F5EFF] mb-6">SettleLoans (settleloans.in)</h3>
+              <h4 className="text-2xl font-black text-[#1F5EFF] mb-6">SettleLoans (settleloans.in)</h4>
               <p className="mb-6 leading-relaxed">
                 At <strong>SettleLoans</strong>, we use a technology-first approach to debt resolution. Our goal is to make tracking as professional and transparent as possible. We understand that our clients are often under extreme stress, and clarity is the best antidote to anxiety.
               </p>
-              <h4 className="font-bold mb-3 text-white">Our Tracking Innovation:</h4>
+              <h5 className="font-bold mb-3 text-white">Our Tracking Innovation:</h5>
               <ul className="space-y-4 mb-6 text-sm">
                 <li className="flex items-start gap-3">
                   <span className="text-[#1F5EFF] font-bold">✓</span>
@@ -377,32 +377,32 @@ export default function TrackLoanSettlementStatusPage() {
             </section>
 
             <section id="tracking-milestones" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">Key Milestones to Monitor</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">Key Milestones to Monitor</h3>
               <p className="mb-6 leading-relaxed">
                 To effectively track your settlement status, you need to know what you are looking for. Here are the five critical milestones in every successful debt resolution journey:
               </p>
               <div className="grid md:grid-cols-2 gap-6">
                 <div className="bg-white p-6 rounded-xl border border-[#DEDEDE] shadow-sm">
-                  <h3 className="font-bold text-[#1F5EFF] mb-2">1. The Proposal Stage</h3>
+                  <h4 className="font-bold text-[#1F5EFF] mb-2">1. The Proposal Stage</h4>
                   <p className="text-xs text-gray-600">This is when your service provider sends an official offer letter to the bank. Tracking at this stage is about ensuring the bank has acknowledged the offer.</p>
                 </div>
                 <div className="bg-white p-6 rounded-xl border border-[#DEDEDE] shadow-sm">
-                  <h4 className="font-bold text-[#1F5EFF] mb-2">2. The Settlement Letter</h4>
+                  <h5 className="font-bold text-[#1F5EFF] mb-2">2. The Settlement Letter</h5>
                   <p className="text-xs text-gray-600">The "Golden Document." This is the bank's official acceptance of the reduced amount. You must track this and verify every detail on it before paying.</p>
                 </div>
                 <div className="bg-white p-6 rounded-xl border border-[#DEDEDE] shadow-sm">
-                  <h5 className="font-bold text-[#1F5EFF] mb-2">3. The Payment Acknowledgment</h5>
+                  <h6 className="font-bold text-[#1F5EFF] mb-2">3. The Payment Acknowledgment</h6>
                   <p className="text-xs text-gray-600">Once you pay, you need a receipt. Tracking this ensures your money hasn't just gone into a black hole but has been applied to your loan account.</p>
                 </div>
                 <div className="bg-white p-6 rounded-xl border border-[#DEDEDE] shadow-sm">
-                  <h5 className="font-bold text-[#1F5EFF] mb-2">4. The No Dues Certificate</h5>
+                  <h6 className="font-bold text-[#1F5EFF] mb-2">4. The No Dues Certificate</h6>
                   <p className="text-xs text-gray-600">The proof of closure. This document confirms the bank has no further claims on you. This is the milestone that officially ends the settlement process.</p>
                 </div>
               </div>
             </section>
 
             <section id="document-verification" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">Verifying Bank Documents Directly</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">Verifying Bank Documents Directly</h3>
               <p className="mb-6 leading-relaxed">
                 Even when using a professional service, we always recommend verifying your status with the bank directly at critical junctures. This is the ultimate "double check" for your tracking.
               </p>
@@ -412,12 +412,12 @@ export default function TrackLoanSettlementStatusPage() {
             </section>
 
             <section id="cibil-tracking" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">Monitoring Credit Bureaus</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">Monitoring Credit Bureaus</h3>
               <p className="mb-6 leading-relaxed">
                 The "final state" of your settlement tracking is not on a mediator's website or even in a bank's NOC. It is on your credit report. In India, banks are mandated to report account updates to bureaus like CIBIL every 30 to 45 days.
               </p>
               <div className="bg-blue-50 p-8 rounded-2xl border border-blue-100 mb-8">
-                <h3 className="font-bold mb-4">Post-Settlement Credit Tracker Checklist:</h3>
+                <h4 className="font-bold mb-4">Post-Settlement Credit Tracker Checklist:</h4>
                 <ul className="space-y-4 text-sm">
                   <li className="flex items-center gap-3">
                     <span className="w-2 h-2 bg-[#1F5EFF] rounded-full"></span>
@@ -447,7 +447,7 @@ export default function TrackLoanSettlementStatusPage() {
             </section>
 
             <section id="tracking-delays" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">Common Hurdles & Delays</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">Common Hurdles & Delays</h3>
               <p className="mb-6 leading-relaxed">
                 Sometimes, tracking shows that your case is "stuck." This is normal in the banking industry. Common reasons for delays include:
               </p>
@@ -463,12 +463,12 @@ export default function TrackLoanSettlementStatusPage() {
             </section>
 
             <section id="scam-prevention" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">Avoiding Settlement Tracking Scams</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">Avoiding Settlement Tracking Scams</h3>
               <p className="mb-6 leading-relaxed text-red-600 font-bold">
                 Desperation can make us vulnerable to predators. Be extremely wary of websites or individuals promising "Instant No-Dues" or "Live CIBIL Manipulation."
               </p>
               <div className="bg-red-50 border-l-4 border-red-500 p-8 rounded-r-xl mb-8">
-                <h3 className="font-bold text-red-800 mb-2">Red Flags of a Scam Platform</h3>
+                <h4 className="font-bold text-red-800 mb-2">Red Flags of a Scam Platform</h4>
                 <ul className="space-y-3 text-red-900/80 text-sm">
                   <li>• Asking for your bank login credentials to "track" status directly.</li>
                   <li>• Promising a 100% success rate with "guaranteed" timeframes.</li>
@@ -482,7 +482,7 @@ export default function TrackLoanSettlementStatusPage() {
             </section>
 
             <section id="expert-organizing" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">Expert Tips: Stay Organized</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">Expert Tips: Stay Organized</h3>
               <p className="mb-6 leading-relaxed">
                 The best "status tracker" is your own organized file. Even if you use a premium service, keep a physical and digital folder of every communication. This includes:
               </p>
@@ -532,7 +532,7 @@ export default function TrackLoanSettlementStatusPage() {
             />
 
             <section id="faqs" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">Frequently Asked Questions</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">Frequently Asked Questions</h3>
               <div className="space-y-4">
                 {[
                   { 
@@ -599,7 +599,7 @@ export default function TrackLoanSettlementStatusPage() {
             <div className="lg:hidden mt-16 mb-8">
               <div className="bg-[#2E2E2E] rounded-2xl shadow-xl overflow-hidden border border-[#1F5EFF]/20">
                 <div className="bg-[#1F5EFF] p-6 text-center text-white">
-                  <h3 className="text-2xl font-black mb-2">Ready for a Fresh Start?</h3>
+                  <h4 className="text-2xl font-black mb-2">Ready for a Fresh Start?</h4>
                   <p className="opacity-90 text-sm">Join the 10,000+ Indians who have tracked their way to financial freedom with us.</p>
                 </div>
                 <div className="p-8 text-center text-[#DEDEDE]">

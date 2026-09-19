@@ -558,49 +558,49 @@ export default function Section60CpcExemptionsPage() {
 
             {/* Section 2: Complete List of Non-Attachable Assets */}
             <section id="non-attachable-assets-breakdown" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                 2. Complete Forensic Breakdown of Non-Attachable Assets Under Section 60(1) CPC
-              </h2>
+              </h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 The proviso to Section 60(1) of the Code of Civil Procedure sets forth an exhaustive statutory catalog of properties and monetary assets that are totally exempt from court attachment or sale. Understanding each specific sub-clause empowers borrowers to recognize illegal recovery threats and file robust objections before executing courts:
               </p>
 
               <div className="space-y-3 my-4">
                 <div className="p-4 rounded-xl border-l-4 border-blue-600 bg-slate-50 space-y-1">
-                  <h3 className="font-bold text-slate-900 text-xs sm:text-sm flex items-center gap-1.5">
+                  <h4 className="font-bold text-slate-900 text-xs sm:text-sm flex items-center gap-1.5">
                     <Home className="w-4 h-4 text-blue-600" />
                     <span>Section 60(1)(a): Necessary Wearing Apparel, Cooking Utensils &amp; Bedding</span>
-                  </h3>
+                  </h4>
                   <p className="text-xs text-slate-600 leading-relaxed">
                     The court bailiff or executing officer is strictly barred from seizing the necessary wearing apparel, cooking vessels, beds, and bedding belonging to the judgment-debtor, their spouse, and children. Furthermore, personal ornaments of religious significance that cannot be parted with by any woman under religious usage—most notably a <strong>Mangalsutra</strong>, wedding bands, and sanctified bangles—are completely exempt.
                   </p>
                 </div>
 
                 <div className="p-4 rounded-xl border-l-4 border-indigo-600 bg-slate-50 space-y-1">
-                  <h4 className="font-bold text-slate-900 text-xs sm:text-sm flex items-center gap-1.5">
+                  <h5 className="font-bold text-slate-900 text-xs sm:text-sm flex items-center gap-1.5">
                     <Sparkles className="w-4 h-4 text-indigo-600" />
                     <span>Spouse&apos;s Jewelry &amp; Stridhan: Absolute Protection Under Hindu Law</span>
-                  </h4>
+                  </h5>
                   <p className="text-xs text-slate-600 leading-relaxed">
                     Under established Indian civil jurisprudence, a wife&apos;s gold jewelry, ancestral gifts, and wedding presents constitute her absolute personal property, known as <strong>Stridhan</strong>. In executing a decree against a husband for an unsecured personal loan, credit card, or business default where the wife is not a formal co-borrower or guarantor, the bank has zero legal right to attach her Stridhan. Attempts by recovery agents to inventory or threaten the wife&apos;s jewelry constitute actionable civil tort and criminal intimidation.
                   </p>
                 </div>
 
                 <div className="p-4 rounded-xl border-l-4 border-purple-600 bg-slate-50 space-y-1">
-                  <h4 className="font-bold text-slate-900 text-xs sm:text-sm flex items-center gap-1.5">
+                  <h5 className="font-bold text-slate-900 text-xs sm:text-sm flex items-center gap-1.5">
                     <Briefcase className="w-4 h-4 text-purple-600" />
                     <span>Section 60(1)(b) &amp; (c): Tools of Artisans, Agricultural Implements &amp; Farmer Dwellings</span>
-                  </h4>
+                  </h5>
                   <p className="text-xs text-slate-600 leading-relaxed">
                     The law protects the judgment-debtor&apos;s means of earning a livelihood. Tools of artisans (e.g., professional instruments, computers used by freelance professionals, technician kits), implements of husbandry, seed-grain, and cattle necessary for an agriculturist to cultivate land are totally exempt. Additionally, under clause (c), houses and other buildings occupied by agriculturists, agricultural laborers, or rural domestic servants are fully protected from attachment.
                   </p>
                 </div>
 
                 <div className="p-4 rounded-xl border-l-4 border-emerald-600 bg-slate-50 space-y-1">
-                  <h4 className="font-bold text-slate-900 text-xs sm:text-sm flex items-center gap-1.5">
+                  <h5 className="font-bold text-slate-900 text-xs sm:text-sm flex items-center gap-1.5">
                     <Wallet className="w-4 h-4 text-emerald-600" />
                     <span>Section 60(1)(g), (k), (ka) &amp; (kb): Pensions, PF, Gratuity &amp; LIC Policies</span>
-                  </h4>
+                  </h5>
                   <p className="text-xs text-slate-600 leading-relaxed">
                     Statutory retirement savings and social security funds enjoy unshakeable legislative immunity. Under clause (g), civil and military service pensions and political stipends cannot be attached. Under clause (k) and (kb), all compulsory deposits in General Provident Funds (GPF), Public Provident Funds (PPF under the PPF Act), Employee Provident Funds (EPF Act, 1952), and Gratuity (Payment of Gratuity Act, 1972) are completely shielded. Under clause (ka), all moneys payable under a policy of insurance on the life of the judgment-debtor (LIC policies) are totally protected from civil court attachment.
                   </p>
@@ -610,9 +610,9 @@ export default function Section60CpcExemptionsPage() {
 
             {/* Section 3: Salary Attachment Formula & 24-Month Cap */}
             <section id="salary-attachment-formula-limits" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                 3. The Statutory Salary Attachment Ceiling: Section 60(1)(i) Formula &amp; The 24-Month Rule
-              </h2>
+              </h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 For salaried professionals across both public and private sectors, recovery agents frequently threaten that the bank will issue a direct mandate to human resources or payroll to withhold 100% of their monthly remuneration. Under the sovereign legal framework of India, this threat is entirely false. Wage attachment can only occur pursuant to a formal judicial precept issued by an executing civil court, and even then, it is subject to rigorous mathematical deduction caps codified under <strong>Section 60(1)(i) of the CPC</strong>.
               </p>
@@ -633,9 +633,9 @@ export default function Section60CpcExemptionsPage() {
                 </p>
               </div>
 
-              <h3 className="text-base sm:text-lg font-bold text-slate-900 pt-2">
+              <h4 className="text-base sm:text-lg font-bold text-slate-900 pt-2">
                 Practical Numerical Case Illustration: ₹60,000 Monthly Salary
-              </h3>
+              </h4>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Consider a salaried borrower with a monthly gross remuneration of ₹60,000, comprising a Basic Pay of ₹30,000 and ₹30,000 in exempt allowances (HRA, DA, Transport Allowance). Applying the Section 60(1)(i) statutory calculation:
               </p>
@@ -692,9 +692,9 @@ export default function Section60CpcExemptionsPage() {
 
             {/* Section 4: Bank NPA Accounting & NPV Settlement Formula */}
             <section id="bank-accounting-npv-recovery-formula" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                 4. Bank Balance Sheet Accounting, NPA Capital Provisioning &amp; The NPV Recovery Equation
-              </h2>
+              </h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 To negotiate effectively against aggressive recovery departments, a borrower must understand how commercial banks evaluate delinquent debts on their balance sheets. When a loan default crosses 90 days of non-payment, Reserve Bank of India (RBI) prudential norms compel the lender to classify the asset as a <strong>Non-Performing Asset (NPA)</strong> under Income Recognition and Asset Classification (IRAC) guidelines.
               </p>
@@ -766,9 +766,9 @@ export default function Section60CpcExemptionsPage() {
 
             {/* Section 5: Infographic Banner */}
             <section id="section-60-visual-roadmap" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                 5. Section 60 CPC Property &amp; Salary Attachment Exemptions: Visual Legal Defense Roadmap
-              </h2>
+              </h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 The visual roadmap below details the structured 5-pillar statutory defense and debt resolution architecture through which borrowers transition from unlawful collection threats to complete debt extinguishment under a legally verified One-Time Settlement.
               </p>
@@ -803,34 +803,34 @@ export default function Section60CpcExemptionsPage() {
 
             {/* Section 6: 4-Stage Advocate Defense Protocol */}
             <section id="four-stage-advocate-defense-protocol" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                 6. The 4-Stage Advocate Defense Protocol Against Unlawful Execution &amp; Recovery Harassment
-              </h2>
+              </h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 When confronting bank civil execution notices or aggressive collection tactics, borrowers cannot afford passive inaction. Retaining experienced debt defense legal counsel ensures an institutional barrier that prevents default judgments and halts illegal harassment:
               </p>
 
               <div className="space-y-3 my-4">
                 <div className="p-4 rounded-xl border-l-4 border-blue-600 bg-slate-50 space-y-1">
-                  <h3 className="font-bold text-slate-900 text-xs sm:text-sm">Stage 1: Forensic Summons Audit &amp; Appearance Filing</h3>
+                  <h4 className="font-bold text-slate-900 text-xs sm:text-sm">Stage 1: Forensic Summons Audit &amp; Appearance Filing</h4>
                   <p className="text-xs text-slate-600 leading-relaxed">
                     Advocates conduct an immediate forensic examination of the court summons (Order 37 Summary Suit or Order 21 Execution Petition). If served under Order 37, counsel files the mandatory Memorandum of Appearance within 10 calendar days to prevent an ex-parte monetary decree.
                   </p>
                 </div>
                 <div className="p-4 rounded-xl border-l-4 border-indigo-600 bg-slate-50 space-y-1">
-                  <h4 className="font-bold text-slate-900 text-xs sm:text-sm">Stage 2: Section 60 CPC Exemption Objections &amp; Stay Application</h4>
+                  <h5 className="font-bold text-slate-900 text-xs sm:text-sm">Stage 2: Section 60 CPC Exemption Objections &amp; Stay Application</h5>
                   <p className="text-xs text-slate-600 leading-relaxed">
                     In execution proceedings under Order 21 CPC, advocates file a formal Affidavit of Exemption under Section 60 CPC, demonstrating the protected character of the borrower&apos;s salary, Stridhan, and retirement savings, while moving an urgent stay application under Order XXI Rule 26 CPC.
                   </p>
                 </div>
                 <div className="p-4 rounded-xl border-l-4 border-purple-600 bg-slate-50 space-y-1">
-                  <h4 className="font-bold text-slate-900 text-xs sm:text-sm">Stage 3: Cease-and-Desist Notice &amp; RBI Ombudsman Escalation</h4>
+                  <h5 className="font-bold text-slate-900 text-xs sm:text-sm">Stage 3: Cease-and-Desist Notice &amp; RBI Ombudsman Escalation</h5>
                   <p className="text-xs text-slate-600 leading-relaxed">
                     If third-party recovery agents visit the borrower&apos;s home, contact employers, or threaten family members, advocates serve an immediate statutory cease-and-desist notice on the bank&apos;s Managing Director and lodge an expedited grievance on the <strong>RBI Integrated Ombudsman CMS portal (cms.rbi.org.in)</strong>.
                   </p>
                 </div>
                 <div className="p-4 rounded-xl border-l-4 border-amber-600 bg-slate-50 space-y-1">
-                  <h4 className="font-bold text-slate-900 text-xs sm:text-sm">Stage 4: High Court Revision / Writ Intervention</h4>
+                  <h5 className="font-bold text-slate-900 text-xs sm:text-sm">Stage 4: High Court Revision / Writ Intervention</h5>
                   <p className="text-xs text-slate-600 leading-relaxed">
                     In cases where an executing court erroneously attaches exempt properties or disregards statutory salary caps, counsel files an urgent Civil Revision Petition under Section 115 CPC or a Writ Petition under Article 226/227 before the High Court to set aside the attachment.
                   </p>
@@ -840,9 +840,9 @@ export default function Section60CpcExemptionsPage() {
 
             {/* Section 7: Confidential 45%-65% OTS Structuring */}
             <section id="confidential-ots-structuring" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                 7. Negotiating a Discretionary 45%–65% One-Time Settlement (OTS)
-              </h2>
+              </h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 The ultimate goal of debt defense is permanently extinguishing civil liability through an institutional <strong>One-Time Settlement (OTS)</strong>. An OTS is a consensual, legally binding compromise contract wherein the lender accepts a discounted lump sum or structured installment payment to close the loan account in full and final satisfaction of all claims.
               </p>
@@ -892,9 +892,9 @@ export default function Section60CpcExemptionsPage() {
 
             {/* Section 8: Sanction Letter Forensics & RBI NDC Mandate */}
             <section id="sanction-forensics-rbi-ndc-mandate" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                 8. Sanction Letter Forensics, Direct Remittance, RBI ₹0 NDC Mandate &amp; Bureau Trajectory
-              </h2>
+              </h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 A critical hazard in loan resolution is falling victim to unauthorized settlement promises manufactured by rogue recovery agents. Unscrupulous tele-callers frequently fabricate fake discount letters to collect partial payments that are subsequently misapplied toward overdue penal fees rather than settling the loan. Borrowers must never disburse settlement funds until the approval letter passes rigorous forensic verification.
               </p>
@@ -922,9 +922,9 @@ export default function Section60CpcExemptionsPage() {
                 </p>
               </div>
 
-              <h3 className="text-base sm:text-lg font-bold text-slate-900 pt-2">
+              <h4 className="text-base sm:text-lg font-bold text-slate-900 pt-2">
                 Credit Bureau Trajectory &amp; Score Rehabilitation
-              </h3>
+              </h4>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Following settlement, the bank updates credit bureau records with the status remark <strong>&quot;Settled&quot;</strong> or <strong>&quot;Post-Write-off Settled&quot;</strong> with a current outstanding balance of <strong>₹0</strong>. While this results in a temporary credit score dip of 70 to 120 points, it completely eliminates default compounding and permanently closes all legal risk. By obtaining a secured fixed-deposit credit card, keeping credit utilization below 30%, and maintaining timely utility payments, settled borrowers systematically rebuild their credit score back above 750 within 18 to 24 months.
               </p>
@@ -932,9 +932,9 @@ export default function Section60CpcExemptionsPage() {
 
             {/* Section 9: Comparative Legal Matrix */}
             <section id="comparative-legal-matrix" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                 9. Comparative Legal Matrix: Recovery Threats vs. Order 21 Attachment vs. Section 60 CPC vs. OTS
-              </h2>
+              </h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Evaluating the legal reality versus recovery agent threats enables borrowers to make confident, strategic decisions regarding asset defense and debt resolution:
               </p>
@@ -987,9 +987,9 @@ export default function Section60CpcExemptionsPage() {
             {/* Section 10: SettleLoans Legal Defense & Advisory + CompanySection */}
             <section id="company-resolution-section" className="space-y-6">
               <div className="border-t border-slate-200 pt-8 space-y-4">
-                <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
+                <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                   10. SettleLoans Legal Defense &amp; Debt Resolution Advisory
-                </h2>
+                </h3>
                 <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                   Defending borrowers against aggressive banking litigation requires seasoned legal advocates who master the nuances of Section 60 CPC statutory exemptions, Order XXI execution procedures, Reserve Bank of India Fair Practices Codes, and institutional debt restructuring. SettleLoans provides complete, confidential legal protection across India: serving formal cease-and-desist notices to stop harassment, filing Section 60 CPC exemption briefs before civil courts, escalating violations to the RBI Banking Ombudsman, and negotiating directly with bank zonal committees to secure 45% to 65% principal haircuts backed by official No Dues Certificates.
                 </p>
@@ -1003,9 +1003,9 @@ export default function Section60CpcExemptionsPage() {
             <section id="faqs" className="space-y-4 border-t border-slate-200 pt-8">
               <div className="flex items-center gap-2 mb-2">
                 <HelpCircle className="w-5 h-5 text-[#1F5EFF]" />
-                <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
+                <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                   11. Frequently Asked Questions: Section 60 CPC Property &amp; Salary Attachment
-                </h2>
+                </h3>
               </div>
               <p className="text-xs sm:text-sm text-slate-600 mb-6">
                 Direct, legally verified answers to critical questions regarding Section 60 CPC exemptions, salary attachment limits, Stridhan protection, and bank debt resolution.
@@ -1035,9 +1035,9 @@ export default function Section60CpcExemptionsPage() {
 
             {/* 5 Official Regulatory Links */}
             <section className="border-t border-slate-200 pt-8 mb-4">
-              <h3 className="text-xs sm:text-sm font-bold text-slate-900 mb-3 uppercase tracking-wider">
+              <h4 className="text-xs sm:text-sm font-bold text-slate-900 mb-3 uppercase tracking-wider">
                 Official Statutory &amp; Regulatory References
-              </h3>
+              </h4>
               <div className="grid grid-cols-1 sm:grid-cols-2 gap-2.5 text-xs">
                 <a
                   href="https://indiacode.gov.in/handle/123456789/2191"
@@ -1089,9 +1089,9 @@ export default function Section60CpcExemptionsPage() {
 
             {/* 10 Related Guide Badges */}
             <section className="border-t border-slate-200 pt-8 mb-8">
-              <h3 className="text-xs sm:text-sm font-bold text-slate-900 mb-4 uppercase tracking-wider">
+              <h4 className="text-xs sm:text-sm font-bold text-slate-900 mb-4 uppercase tracking-wider">
                 Related Legal Defense &amp; Loan Resolution Guides
-              </h3>
+              </h4>
               <div className="flex flex-wrap gap-2">
                 <Link
                   href="/bank-filed-civil-suit-for-loan-recovery-order-37-cpc-summons"

@@ -141,10 +141,10 @@ export default function PenaltyWaiverGuidePage() {
 
             {/* RBI Guidelines (Blue Important Box + Numbered Steps) */}
             <section id="rbi-guidelines" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">RBI Guidelines on Penal Interest</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">RBI Guidelines on Penal Interest</h3>
               
               <div className="bg-blue-50 border-l-8 border-[#1F5EFF] p-8 rounded-r-2xl mb-8">
-                <h3 className="text-xl font-black text-[#1F5EFF] mb-4">Latest RBI Directive Highlights</h3>
+                <h4 className="text-xl font-black text-[#1F5EFF] mb-4">Latest RBI Directive Highlights</h4>
                 <p className="text-lg text-gray-700 mb-4">
                   The Reserve Bank of India has clearly outlined how banks can levy penalties to prevent customer exploitation. Key takeaways include:
                 </p>
@@ -168,21 +168,21 @@ export default function PenaltyWaiverGuidePage() {
                 <div className="flex gap-6">
                   <div className="flex-shrink-0 w-12 h-12 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center font-black text-xl shadow-lg">1</div>
                   <div>
-                    <h3 className="text-2xl font-bold text-[#2E2E2E] mb-3">Identify the Overcharge</h3>
+                    <h4 className="text-2xl font-bold text-[#2E2E2E] mb-3">Identify the Overcharge</h4>
                     <p className="text-lg text-gray-700 leading-relaxed">Review your loan statements carefully. Look for terms like "Penal Interest", "Late Payment Fee", or "Bounce Charges" that seem disproportionately high compared to your EMI.</p>
                   </div>
                 </div>
                 <div className="flex gap-6">
                   <div className="flex-shrink-0 w-12 h-12 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center font-black text-xl shadow-lg">2</div>
                   <div>
-                    <h3 className="text-2xl font-bold text-[#2E2E2E] mb-3">Draft a Formal Objection</h3>
+                    <h4 className="text-2xl font-bold text-[#2E2E2E] mb-3">Draft a Formal Objection</h4>
                     <p className="text-lg text-gray-700 leading-relaxed">Prepare a formal letter addressing the branch manager. Explicitly mention the latest <strong className="text-[#1F5EFF]">RBI guidelines on penal interest</strong> and request a detailed breakdown of the levied charges.</p>
                   </div>
                 </div>
                 <div className="flex gap-6">
                   <div className="flex-shrink-0 w-12 h-12 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center font-black text-xl shadow-lg">3</div>
                   <div>
-                    <h3 className="text-2xl font-bold text-[#2E2E2E] mb-3">Escalate if Ignored</h3>
+                    <h4 className="text-2xl font-bold text-[#2E2E2E] mb-3">Escalate if Ignored</h4>
                     <p className="text-lg text-gray-700 leading-relaxed">If the bank refuses to adjust the charges within 30 days, escalate the matter to the RBI Banking Ombudsman with proof of your communication.</p>
                   </div>
                 </div>
@@ -191,13 +191,13 @@ export default function PenaltyWaiverGuidePage() {
 
             {/* How to Waive (4-Grid + Warning + Gray Box) */}
             <section id="how-to-waive" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">How to Waive Off Late Fees in India</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">How to Waive Off Late Fees in India</h3>
               <p className="text-lg leading-relaxed mb-6">
                 Knowing how to strategically request a waiver can save you thousands of rupees. You don't have to passively accept every charge a bank throws at you. Here are the core strategies to <strong className="text-[#1F5EFF]">waive off late fees India</strong>.
               </p>
 
               <div className="bg-red-50 p-6 rounded-xl border border-red-100 mb-8">
-                <h3 className="text-xl font-black text-red-700 mb-3">Crucial Warning</h3>
+                <h4 className="text-xl font-black text-red-700 mb-3">Crucial Warning</h4>
                 <p className="text-lg text-red-900 leading-relaxed">
                   Never agree to pay inflated penalty charges verbally over a recovery call. Always demand a written settlement offer or an updated loan statement reflecting the exact legal dues before making a payment toward penalties.
                 </p>
@@ -205,25 +205,25 @@ export default function PenaltyWaiverGuidePage() {
 
               <div className="grid md:grid-cols-2 gap-6 my-8">
                 <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
-                  <h3 className="font-black text-[#1F5EFF] text-lg mb-3">Cite Genuine Hardship</h3>
+                  <h4 className="font-black text-[#1F5EFF] text-lg mb-3">Cite Genuine Hardship</h4>
                   <p className="text-gray-700">Banks have internal policies for hardship cases. Document medical emergencies, job loss, or sudden business downturns.</p>
                 </div>
                 <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
-                  <h3 className="font-black text-[#1F5EFF] text-lg mb-3">Leverage Your History</h3>
+                  <h4 className="font-black text-[#1F5EFF] text-lg mb-3">Leverage Your History</h4>
                   <p className="text-gray-700">If you have a long history of timely payments before this default, use it! Banks want to retain good customers.</p>
                 </div>
                 <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
-                  <h3 className="font-black text-[#1F5EFF] text-lg mb-3">Offer Lump-Sum Payment</h3>
+                  <h4 className="font-black text-[#1F5EFF] text-lg mb-3">Offer Lump-Sum Payment</h4>
                   <p className="text-gray-700">Negotiate by offering to clear the principal and regular interest immediately if they waive the penalty fees.</p>
                 </div>
                 <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
-                  <h3 className="font-black text-[#1F5EFF] text-lg mb-3">Quote the Rulebook</h3>
+                  <h4 className="font-black text-[#1F5EFF] text-lg mb-3">Quote the Rulebook</h4>
                   <p className="text-gray-700">Remind them of the RBI Master Direction on Fair Practice Code to show you are an informed borrower.</p>
                 </div>
               </div>
 
               <div className="bg-gray-50 p-8 rounded-2xl mb-8 border border-gray-200">
-                <h4 className="text-2xl font-bold text-[#2E2E2E] mb-4">Pro Insight</h4>
+                <h5 className="text-2xl font-bold text-[#2E2E2E] mb-4">Pro Insight</h5>
                 <p className="text-lg text-gray-700 leading-relaxed">
                   Most frontline customer service agents do not have the authority to waive large penalty amounts. You must insist on speaking with the Branch Manager or the Collections Head, and always keep the correspondence in writing (Email/Registered Post).
                 </p>
@@ -232,7 +232,7 @@ export default function PenaltyWaiverGuidePage() {
 
             {/* Hidden Clauses */}
             <section id="hidden-clauses" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">Hidden Clauses in Loan Agreements</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">Hidden Clauses in Loan Agreements</h3>
               <div className="bg-white rounded-2xl p-8 border border-[#DEDEDE] shadow-sm relative overflow-hidden mb-8">
                 <p className="text-lg leading-relaxed mb-6 text-gray-700">
                   Most borrowers in India sign loan agreements without fully understanding the intricate legal jargon, often burying <strong className="text-[#1F5EFF]">hidden penalty clauses</strong> deep within the fine print. Banks use these clauses as a pretext to inflate the outstanding dues exponentially as soon as an EMI bounces.
@@ -248,9 +248,9 @@ export default function PenaltyWaiverGuidePage() {
 
             {/* Consumer Rights */}
             <section id="consumer-rights" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">Consumer Rights and Legal Precedents</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">Consumer Rights and Legal Precedents</h3>
               <div className="bg-blue-50 border-l-8 border-[#1F5EFF] p-8 rounded-r-2xl mb-8">
-                <h3 className="text-xl font-black text-[#1F5EFF] mb-4">Your Rights Under Indian Law</h3>
+                <h4 className="text-xl font-black text-[#1F5EFF] mb-4">Your Rights Under Indian Law</h4>
                 <p className="text-lg text-gray-700 mb-4">
                   Indian consumer protection laws and various High Court rulings have firmly established that borrowers are not helpless victims against institutional lending giants.
                 </p>
@@ -276,32 +276,32 @@ export default function PenaltyWaiverGuidePage() {
 
             {/* Dealing with Recovery Agents */}
             <section id="recovery-agents" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">Dealing with Recovery Agents</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">Dealing with Recovery Agents</h3>
               <p className="text-lg leading-relaxed mb-6">
                 A common tactic employed by banks is using recovery agents to intimidate borrowers into paying inflated penalty charges without verifying the actual legal dues. Knowing how to handle these agents is vital for protecting your finances and mental well-being.
               </p>
               
               <div className="grid md:grid-cols-2 gap-6 my-8">
                 <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
-                  <h3 className="font-black text-[#1F5EFF] text-lg mb-3">Ask for Identification</h3>
+                  <h4 className="font-black text-[#1F5EFF] text-lg mb-3">Ask for Identification</h4>
                   <p className="text-gray-700">Recovery agents must carry a valid ID and an authorization letter from the bank. Deny interaction if they fail to produce these documents.</p>
                 </div>
                 <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
-                  <h3 className="font-black text-[#1F5EFF] text-lg mb-3">Record the Conversations</h3>
+                  <h4 className="font-black text-[#1F5EFF] text-lg mb-3">Record the Conversations</h4>
                   <p className="text-gray-700">Keep a record of all calls and in-person interactions. Any abusive language or threats violate RBI guidelines and can be used as evidence against the bank.</p>
                 </div>
                 <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
-                  <h3 className="font-black text-[#1F5EFF] text-lg mb-3">Never Pay in Cash</h3>
+                  <h4 className="font-black text-[#1F5EFF] text-lg mb-3">Never Pay in Cash</h4>
                   <p className="text-gray-700">Agents may demand cash to "settle" penalties quickly. Always make payments via formal banking channels to ensure they reflect in your loan account.</p>
                 </div>
                 <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
-                  <h3 className="font-black text-[#1F5EFF] text-lg mb-3">Demand Written Statements</h3>
+                  <h4 className="font-black text-[#1F5EFF] text-lg mb-3">Demand Written Statements</h4>
                   <p className="text-gray-700">Refuse to acknowledge verbal penalty figures. Insist on a formal, updated statement of account before committing to any payment plan.</p>
                 </div>
               </div>
 
               <div className="bg-red-50 p-6 rounded-xl border border-red-100 mb-8">
-                <h4 className="text-xl font-black text-red-700 mb-3">Legal Action Against Harassment</h4>
+                <h5 className="text-xl font-black text-red-700 mb-3">Legal Action Against Harassment</h5>
                 <p className="text-lg text-red-900 leading-relaxed">
                   If recovery agents resort to public humiliation or continuous harassment, you can file an FIR for criminal intimidation and report the bank to the RBI. Banks can lose their license to operate if they repeatedly violate the fair practices code regarding debt recovery.
                 </p>
@@ -310,7 +310,7 @@ export default function PenaltyWaiverGuidePage() {
 
             {/* Success Stories */}
             <section id="success-stories" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">Borrower Success Stories</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">Borrower Success Stories</h3>
               <p className="text-lg leading-relaxed mb-8">
                 See how ordinary borrowers successfully fought back against unfair bank charges using the right knowledge and guidance.
               </p>
@@ -323,7 +323,7 @@ export default function PenaltyWaiverGuidePage() {
                       RK
                     </div>
                     <div>
-                      <h3 className="text-xl font-bold text-[#2E2E2E]">Ravi Kumar</h3>
+                      <h4 className="text-xl font-bold text-[#2E2E2E]">Ravi Kumar</h4>
                       <div className="flex gap-1 mt-1">
                         {[1,2,3,4,5].map(i => (
                           <svg key={i} className="w-4 h-4 text-yellow-400 fill-current" viewBox="0 0 20 20"><path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z"/></svg>
@@ -347,7 +347,7 @@ export default function PenaltyWaiverGuidePage() {
                       SG
                     </div>
                     <div>
-                      <h4 className="text-xl font-bold text-[#2E2E2E]">Sneha Gupta</h4>
+                      <h5 className="text-xl font-bold text-[#2E2E2E]">Sneha Gupta</h5>
                       <div className="flex gap-1 mt-1">
                         {[1,2,3,4,5].map(i => (
                           <svg key={i} className="w-4 h-4 text-yellow-400 fill-current" viewBox="0 0 20 20"><path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z"/></svg>
@@ -368,7 +368,7 @@ export default function PenaltyWaiverGuidePage() {
 
             {/* FAQs */}
             <section id="faqs" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">Frequently Asked Questions</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">Frequently Asked Questions</h3>
               <div className="space-y-4">
                 {[
                   { q: "Can banks charge penal interest on top of regular interest?", a: "No, per latest RBI guidelines, penal charges must be levied as 'penal charges' and not as 'penal interest' capitalized on the principal amount." },
@@ -399,7 +399,7 @@ export default function PenaltyWaiverGuidePage() {
             <div className="bg-[#2E2E2E] text-white p-12 rounded-[40px] text-center mt-24 relative overflow-hidden group">
               <div className="absolute inset-0 bg-[#1F5EFF] opacity-0 group-hover:opacity-5 transition-opacity"></div>
               <div className="relative z-10">
-                <h3 className="text-3xl md:text-4xl font-black mb-6">Stop Paying Unfair Bank Penalties Today!</h3>
+                <h4 className="text-3xl md:text-4xl font-black mb-6">Stop Paying Unfair Bank Penalties Today!</h4>
                 <p className="text-lg md:text-xl text-gray-300 mb-8 max-w-2xl mx-auto">
                   Don't let banks exploit you with illegal late fees and penal interest. Let our legal experts draft a robust penalty waiver request based on the latest RBI guidelines and get your unjust charges reversed.
                 </p>

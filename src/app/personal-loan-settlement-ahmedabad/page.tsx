@@ -518,9 +518,9 @@ export default function PersonalLoanSettlementAhmedabadPage() {
 
             {/* Section 2: Statutory Legal Protections & RBI Directives */}
             <section id="statutory-legal-protections" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                 2. Statutory Protections, Civil Laws, and RBI Master Directions Against Harassment
-              </h2>
+              </h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Many borrowers in Gujarat operate under the mistaken belief that defaulting on an unsecured loan gives lenders immediate powers to initiate criminal proceedings or seize personal property. Under Indian jurisprudence, an unsecured loan is an uncollateralized commercial agreement governed by the <strong>Indian Contract Act, 1872</strong>. Defaulting on debt obligations due to genuine financial distress constitutes a civil breach of contract, not a criminal offense.
               </p>
@@ -574,39 +574,39 @@ export default function PersonalLoanSettlementAhmedabadPage() {
 
             {/* Section 3: Gujarat Court Jurisdictions: Mirzapur, Bhadra & GSLSA */}
             <section id="gujarat-court-jurisdictions" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                 3. Local Judicial Mechanics: Mirzapur, Gheekanta, Bhadra City Civil, and GSLSA Lok Adalat
-              </h2>
+              </h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 When loan defaults cross 90 to 180 days, financial institutions in Gujarat initiate formal judicial mechanisms to pressure borrowers. Understanding the specific jurisdiction and operating procedures of local Ahmedabad courts is essential for mounting a robust legal defense:
               </p>
 
               <div className="space-y-4 my-4">
                 <div className="border border-slate-200 rounded-xl p-4 bg-white shadow-sm">
-                  <h3 className="font-bold text-slate-900 text-sm sm:text-base flex items-center gap-2 mb-2">
+                  <h4 className="font-bold text-slate-900 text-sm sm:text-base flex items-center gap-2 mb-2">
                     <Gavel className="w-4 h-4 text-[#1F5EFF]" />
                     <span>Metropolitan Magistrate Courts at Mirzapur &amp; Gheekanta (Section 138 &amp; Section 25)</span>
-                  </h3>
+                  </h4>
                   <p className="text-xs sm:text-sm text-slate-600 leading-relaxed">
                     Private lenders (such as HDFC Bank, ICICI Bank, Axis Bank, Kotak Mahindra Bank, and Bajaj Finance) routinely deposit post-dated security cheques or trigger NACH electronic clearing mandates after default. When these bounce, they file criminal complaints under <strong>Section 138 of the Negotiable Instruments Act, 1881</strong> or <strong>Section 25 of the Payment and Settlement Systems Act, 2007</strong> before the Additional Chief Metropolitan Magistrate (ACMM) courts at Mirzapur or Gheekanta. A seasoned Ahmedabad advocate files a Vakalatnama, appears on the summons date, secures regular bail without custody, scrutinizes statutory notice delivery timelines under Section 142 NI Act, and moves an application under Section 147 NI Act to refer the dispute for pre-trial conciliation.
                   </p>
                 </div>
 
                 <div className="border border-slate-200 rounded-xl p-4 bg-white shadow-sm">
-                  <h3 className="font-bold text-slate-900 text-sm sm:text-base flex items-center gap-2 mb-2">
+                  <h4 className="font-bold text-slate-900 text-sm sm:text-base flex items-center gap-2 mb-2">
                     <Landmark className="w-4 h-4 text-indigo-600" />
                     <span>Ahmedabad City Civil Court at Bhadra (Summary Civil Suits &amp; Injunctions)</span>
-                  </h3>
+                  </h4>
                   <p className="text-xs sm:text-sm text-slate-600 leading-relaxed">
                     For high-value unsecured exposures, lenders file summary recovery suits under <strong>Order 37 of the Code of Civil Procedure (CPC)</strong> before the City Civil and Sessions Court at Bhadra, Ahmedabad. Summary suits demand an immediate &quot;Leave to Defend&quot; application within 10 days of summons service. Your legal counsel prepares a detailed affidavit highlighting triable issues—including unadjusted penal charges, unilateral interest rate hikes, and disputed ledger balances—compelling the court to grant unconditional leave to defend, which neutralizes the bank&apos;s summary recovery advantage.
                   </p>
                 </div>
 
                 <div className="border border-slate-200 rounded-xl p-4 bg-white shadow-sm">
-                  <h3 className="font-bold text-slate-900 text-sm sm:text-base flex items-center gap-2 mb-2">
+                  <h4 className="font-bold text-slate-900 text-sm sm:text-base flex items-center gap-2 mb-2">
                     <Scale className="w-4 h-4 text-emerald-600" />
                     <span>Gujarat State Legal Services Authority (GSLSA) Lok Adalat Settlement</span>
-                  </h3>
+                  </h4>
                   <p className="text-xs sm:text-sm text-slate-600 leading-relaxed">
                     Constituted under the Legal Services Authorities Act, 1987, the GSLSA conducts National Lok Adalats across the Gujarat High Court complex, Ahmedabad City Civil Court, and District Courts in Gandhinagar and Surat. Lok Adalat provides the ultimate statutory vehicle for debt resolution. When a compromised settlement is executed before a Lok Adalat bench, it passes a binding award under <strong>Section 21</strong> that possesses the force of a final civil court decree, refunding court fees to the lender and permanently extinguishing all underlying civil, criminal, and arbitration claims.
                   </p>
@@ -616,9 +616,9 @@ export default function PersonalLoanSettlementAhmedabadPage() {
 
             {/* Section 4: Bank NPA Accounting & NPV Mechanics */}
             <section id="bank-accounting-npv-mechanics" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                 4. Bank NPA Accounting, Prudential Norms, and the Net Present Value (NPV) Formula
-              </h2>
+              </h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Why do commercial banks agree to write off 45% to 65% of legitimate loan balances? The answer lies in the stringent accounting mandates established by the <strong>RBI Master Direction on Prudential Norms on Income Recognition, Asset Classification and Provisioning Pertaining to Advances (IRACP)</strong>.
               </p>
@@ -647,9 +647,9 @@ export default function PersonalLoanSettlementAhmedabadPage() {
 
             {/* Section 5: Strategic Resolution Roadmap Infographic */}
             <section id="infographic-overview" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                 5. Strategic Resolution Roadmap: From Default Notice to Permanent Debt Discharge
-              </h2>
+              </h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 The lifecycle of commercial and personal debt resolution follows a rigorous statutory continuum. The infographic below illustrates the end-to-end framework deployed by SettleLoans advocates across Ahmedabad and Gujarat—bridging legal defense, GSLSA conciliation, and RBI Fair Practices compliance:
               </p>
@@ -678,37 +678,37 @@ export default function PersonalLoanSettlementAhmedabadPage() {
 
             {/* Section 6: Trader & MSME Negotiation Blueprint */}
             <section id="commercial-negotiation-blueprint" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                 6. Commercial Negotiation Blueprint for Gujarat Traders, GIDC MSMEs, and Individuals
-              </h2>
+              </h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Achieving a favorable loan settlement requires a meticulous strategy tailored to the specific financial realities of Gujarat&apos;s business communities. SettleLoans advocates deploy a proven four-pillar negotiation framework:
               </p>
 
               <div className="space-y-4 my-4">
                 <div className="bg-slate-50 border-l-4 border-[#1F5EFF] p-4 rounded-r-xl space-y-1">
-                  <h3 className="font-bold text-slate-900 text-sm">Pillar 1: Financial Hardship Dossier Preparation</h3>
+                  <h4 className="font-bold text-slate-900 text-sm">Pillar 1: Financial Hardship Dossier Preparation</h4>
                   <p className="text-xs sm:text-sm text-slate-600 leading-relaxed">
                     Advocates compile comprehensive documentary proof of genuine hardship—including GST turnover reductions, audited balance sheets showing commercial contraction, cancellation of trade orders, medical records, or proof of outstanding trade receivables locked in client defaults. This eliminates any arbitrary allegation of &quot;willful default.&quot;
                   </p>
                 </div>
 
                 <div className="bg-slate-50 border-l-4 border-indigo-500 p-4 rounded-r-xl space-y-1">
-                  <h4 className="font-bold text-slate-900 text-sm">Pillar 2: Forensic Ledger Audit &amp; Penal Charge Invalidation</h4>
+                  <h5 className="font-bold text-slate-900 text-sm">Pillar 2: Forensic Ledger Audit &amp; Penal Charge Invalidation</h5>
                   <p className="text-xs sm:text-sm text-slate-600 leading-relaxed">
                     Lenders routinely inflate outstanding balances by capitalizing overdue interest, compounding late fees, and attaching exorbitant legal recovery charges. Our legal team recalculates the actual net principal disbursed minus all repayments made, demanding the total reversal of unapproved compounding under RBI Fair Practices guidelines.
                   </p>
                 </div>
 
                 <div className="bg-slate-50 border-l-4 border-purple-500 p-4 rounded-r-xl space-y-1">
-                  <h4 className="font-bold text-slate-900 text-sm">Pillar 3: Zonal Stressed Assets Committee Representation</h4>
+                  <h5 className="font-bold text-slate-900 text-sm">Pillar 3: Zonal Stressed Assets Committee Representation</h5>
                   <p className="text-xs sm:text-sm text-slate-600 leading-relaxed">
                     Local branch managers have virtually zero discretion to sanction significant debt waivers. SettleLoans escalates settlement negotiations directly to the Zonal Stressed Assets Management Branches (SAMB) located along Ashram Road and CG Road in Ahmedabad, engaging directly with Assistant General Managers (AGMs) and Zonal Settlement Committees possessing requisite delegated financial authority.
                   </p>
                 </div>
 
                 <div className="bg-slate-50 border-l-4 border-emerald-500 p-4 rounded-r-xl space-y-1">
-                  <h4 className="font-bold text-slate-900 text-sm">Pillar 4: Structured Tranche Structuring</h4>
+                  <h5 className="font-bold text-slate-900 text-sm">Pillar 4: Structured Tranche Structuring</h5>
                   <p className="text-xs sm:text-sm text-slate-600 leading-relaxed">
                     For business owners managing tight cash flows, advocates negotiate staggered settlement schedules—typically dividing the discounted compromise amount across two to three manageable monthly tranches without re-triggering default clauses.
                   </p>
@@ -718,9 +718,9 @@ export default function PersonalLoanSettlementAhmedabadPage() {
 
             {/* Section 7: OTS Sanction Letter Forensics */}
             <section id="sanction-letter-forensics" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                 7. Forensic Scrutiny of the OTS Sanction Letter: Protecting Against Recovery Traps
-              </h2>
+              </h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 One of the most dangerous hazards in debt settlement is falling victim to unauthorized verbal promises made by third-party recovery agents. Borrowers frequently pay token amounts under the impression that their loan is settled, only to discover that the bank credited the funds as routine overdue interest while keeping the principal fully active.
               </p>
@@ -729,10 +729,10 @@ export default function PersonalLoanSettlementAhmedabadPage() {
               </p>
 
               <div className="bg-slate-50 border border-slate-200 rounded-2xl p-5 my-4 space-y-3">
-                <h3 className="font-bold text-slate-900 text-sm sm:text-base flex items-center gap-2">
+                <h4 className="font-bold text-slate-900 text-sm sm:text-base flex items-center gap-2">
                   <FileCheck className="w-5 h-5 text-emerald-600" />
                   <span>Mandatory Legal Checklist for an Authentic OTS Sanction Letter</span>
-                </h3>
+                </h4>
                 <ul className="space-y-2 text-xs sm:text-sm text-slate-700">
                   <li className="flex items-start gap-2">
                     <Check className="w-4 h-4 text-emerald-600 flex-shrink-0 mt-0.5" />
@@ -760,9 +760,9 @@ export default function PersonalLoanSettlementAhmedabadPage() {
 
             {/* Section 8: Post-Settlement Credit & NDC Protocols */}
             <section id="cibil-credit-repair-ndc" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                 8. Post-Settlement Credit Bureau Reporting (CIBIL) &amp; Mandatory No Dues Certificate Delivery
-              </h2>
+              </h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Executing the financial settlement is only the first phase of complete debt resolution. The second phase involves securing complete institutional release through the issuance of a <strong>No Dues Certificate (NDC)</strong> or No Objection Certificate (NOC) and managing credit bureau reporting.
               </p>
@@ -776,9 +776,9 @@ export default function PersonalLoanSettlementAhmedabadPage() {
 
             {/* Section 9: Comparative Resolution Matrix */}
             <section id="comparative-resolution-matrix" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                 9. Comparative Resolution Matrix: Evaluating Debt Relief Pathways in Gujarat
-              </h2>
+              </h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 To assist business owners, traders, and salaried borrowers in evaluating their strategic options, the comparative matrix below outlines key debt resolution pathways available under Indian law:
               </p>
@@ -830,9 +830,9 @@ export default function PersonalLoanSettlementAhmedabadPage() {
 
             {/* Section 10: Legal Advocacy & Representation */}
             <section id="professional-advocate-representation" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                 10. Why Professional Advocate Representation Is Essential for Commercial Debt Defense
-              </h2>
+              </h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Handling bank recovery without dedicated legal representation places borrowers at a severe disadvantage. Commercial lenders deploy sophisticated institutional legal wings and empanelled law firms whose sole objective is maximizing recovery yields through aggressive procedural pressure.
               </p>
@@ -878,9 +878,9 @@ export default function PersonalLoanSettlementAhmedabadPage() {
             <section id="faqs" className="space-y-4 pt-4 border-t border-slate-200">
               <div className="flex items-center gap-2 mb-2">
                 <HelpCircle className="w-5 h-5 text-[#1F5EFF]" />
-                <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
+                <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                   11. Frequently Asked Questions: Ahmedabad Loan Settlement &amp; Legal Defense
-                </h2>
+                </h3>
               </div>
               <p className="text-xs sm:text-sm text-slate-600 mb-4">
                 Detailed legal and procedural answers to the most critical questions asked by Ahmedabad business owners, traders, and individual borrowers.
@@ -910,9 +910,9 @@ export default function PersonalLoanSettlementAhmedabadPage() {
 
             {/* 5 Official Regulatory Links */}
             <section className="border-t border-slate-200 pt-8 mb-4">
-              <h3 className="text-xs sm:text-sm font-bold text-slate-900 mb-3 uppercase tracking-wider">
+              <h4 className="text-xs sm:text-sm font-bold text-slate-900 mb-3 uppercase tracking-wider">
                 Official Statutory &amp; Regulatory References
-              </h3>
+              </h4>
               <div className="grid grid-cols-1 sm:grid-cols-2 gap-2.5 text-xs">
                 <a
                   href="https://gslsa.gujarat.gov.in"
@@ -964,9 +964,9 @@ export default function PersonalLoanSettlementAhmedabadPage() {
 
             {/* 10 Related Guide Badges */}
             <section className="border-t border-slate-200 pt-8 mb-8">
-              <h3 className="text-xs sm:text-sm font-bold text-slate-900 mb-4 uppercase tracking-wider">
+              <h4 className="text-xs sm:text-sm font-bold text-slate-900 mb-4 uppercase tracking-wider">
                 Related Legal Defense &amp; Loan Resolution Guides
-              </h3>
+              </h4>
               <div className="flex flex-wrap gap-2">
                 <Link
                   href="/bank-sent-legal-notice-for-loan-what-to-do"

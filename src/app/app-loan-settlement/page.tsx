@@ -342,18 +342,18 @@ export default function AppLoanSettlementPage() {
 
            {/* Legal vs Illegal Apps - CRITICAL SECTION */}
            <section id="legal-vs-illegal" className="scroll-mt-32 mb-16">
-             <h2 className="text-3xl md:text-4xl font-bold text-[#0A0A0A] mb-8">
+             <h3 className="text-3xl md:text-4xl font-bold text-[#0A0A0A] mb-8">
               Step 1: Know Your Enemy (Legal vs. Illegal Apps)
-            </h2>
+            </h3>
             <p className="text-lg leading-relaxed mb-8">
                Your strategy depends entirely on who you have borrowed from. A legal app requires negotiation. An illegal app requires police action. Determining the category of your loan app is the first step towards freedom.
             </p>
             
             <div className="grid md:grid-cols-2 gap-6 mb-8">
                 <div className="bg-white p-6 rounded-xl border border-gray-200 shadow-sm hover:shadow-md transition-shadow">
-                    <h3 className="text-xl font-black text-[#1F5EFF] mb-4 flex items-center">
+                    <h4 className="text-xl font-black text-[#1F5EFF] mb-4 flex items-center">
                         <FontAwesomeIcon icon={faShieldHalved} className="mr-3 w-12 h-12" /> Legal / RBI Registered
-                    </h3>
+                    </h4>
                     <div className="mb-4 text-sm font-semibold bg-gray-50 p-2 rounded text-gray-700">
                         Examples: KreditBee, MoneyView, Navi, Kissht, CASHe, Bajaj Finserv, mPokket, SmartCoin
                     </div>
@@ -365,9 +365,9 @@ export default function AppLoanSettlementPage() {
                     </ul>
                 </div>
                 <div className="bg-white p-6 rounded-xl border border-red-100 shadow-sm relative overflow-hidden hover:shadow-md transition-shadow">
-                     <h3 className="text-xl font-bold text-red-700 mb-4 flex items-center relative z-10">
+                     <h4 className="text-xl font-bold text-red-700 mb-4 flex items-center relative z-10">
                         <FontAwesomeIcon icon={faUserSecret} className="mr-3 w-12 h-12" /> Illegal / Fake Apps
-                    </h3>
+                    </h4>
                     <div className="mb-4 text-sm font-semibold bg-red-50 p-2 rounded text-red-700">
                         Examples: CashBus, RupeeReady, AsanLoan, CrazyCash, and hundreds of random names on PlayStore.
                     </div>
@@ -384,9 +384,9 @@ export default function AppLoanSettlementPage() {
           {/* New Section: Checklist */}
           <section id="check-list" className="scroll-mt-32 mb-16">
              <div className="bg-gray-50 border-l-4 border-gray-800 p-6 rounded-r-lg">
-                <h3 className="text-xl font-bold text-gray-900 mb-4 flex items-center">
+                <h4 className="text-xl font-bold text-gray-900 mb-4 flex items-center">
                   <FontAwesomeIcon icon={faListCheck} className="mr-3 w-6 h-6" /> How to Verify if an App is Legal?
-                </h3>
+                </h4>
                 <ol className="list-decimal pl-5 space-y-3 text-gray-700">
                   <li><strong>Check the Play Store Description:</strong> Legal apps list their NBFC partner (e.g., 'In partnership with Krazybee Services Pvt Ltd'). Illegal apps often list random Gmail addresses.</li>
                   <li><strong>Check Tenure:</strong> If the loan is for 7 days or 15 days, it is 100% ILLEGAL. RBI mandates a minimum 90-day tenure option for digital loans.</li>
@@ -398,28 +398,28 @@ export default function AppLoanSettlementPage() {
 
            {/* RBI Guidelines 2024 */}
            <section id="rbi-guidelines" className="scroll-mt-32 mb-16">
-            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 flex items-center">
+            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 flex items-center">
               <FontAwesomeIcon icon={faGavel} className="mr-4 w-10 h-10" /> RBI Digital Lending Guidelines
-            </h2>
+            </h3>
             <p className="mb-6 leading-relaxed">
               In September 2022, the RBI issued comprehensive guidelines to regulate digital lending. 90% of borrowers are unaware of these rights, which recovery agents exploit. SettleLoans uses these exact guidelines to force lenders to the negotiating table.
             </p>
             <div className="bg-white rounded-xl border border-gray-200 overflow-hidden shadow-sm mb-6">
               <div className="grid divide-y md:divide-y-0 md:divide-x divide-gray-200 md:grid-cols-2">
                 <div className="p-6">
-                   <h3 className="font-bold text-lg text-gray-900 mb-2">1. The "Cooling-Off" Period</h3>
+                   <h4 className="font-bold text-lg text-gray-900 mb-2">1. The "Cooling-Off" Period</h4>
                    <p className="text-sm text-gray-600">Borrowers must be given a "look-up period" (typically 3 days for loans &gt;7 days) where they can exit the loan by paying the principal + proportionate APR without any penalty. If you tried to exit and they refused, the loan contract is voidable.</p>
                 </div>
                 <div className="p-6">
-                   <h4 className="font-bold text-lg text-gray-900 mb-2">2. Data Privacy (Need to Know)</h4>
+                   <h5 className="font-bold text-lg text-gray-900 mb-2">2. Data Privacy (Need to Know)</h5>
                    <p className="text-sm text-gray-600">DLAs (Digital Lending Apps) cannot access your mobile phone resources like file and media, contact list, call logs, etc. They can only take one-time access to camera/mic for KYC. If they have your contact list, they have <strong>violated the guidelines</strong>.</p>
                 </div>
                 <div className="p-6">
-                   <h4 className="font-bold text-lg text-gray-900 mb-2">3. KFS (Key Fact Statement)</h4>
+                   <h5 className="font-bold text-lg text-gray-900 mb-2">3. KFS (Key Fact Statement)</h5>
                    <p className="text-sm text-gray-600">The lender must provide a KFS before the loan contract is signed. This document must summarize the APR, recovery mechanisms, and grievance officer details. If you didn't receive a KFS, the loan disbursement is irregular.</p>
                 </div>
                 <div className="p-6">
-                   <h4 className="font-bold text-lg text-gray-900 mb-2">4. Direct Bank Transfer</h4>
+                   <h5 className="font-bold text-lg text-gray-900 mb-2">4. Direct Bank Transfer</h5>
                    <p className="text-sm text-gray-600">All loan disbursals and repayments are required to be executed only between the bank accounts of the borrower and the Regulated Entity (RE). No "pass-through" or "pool" accounts of third parties are allowed.</p>
                 </div>
               </div>
@@ -432,9 +432,9 @@ export default function AppLoanSettlementPage() {
 
           {/* Data Privacy & Rights (Expanded) */}
           <section id="data-privacy" className="scroll-mt-32 mb-16">
-             <h2 className="text-2xl md:text-3xl font-black text-[#2E2E2E] mb-6 flex items-center">
+             <h3 className="text-2xl md:text-3xl font-black text-[#2E2E2E] mb-6 flex items-center">
                 <FontAwesomeIcon icon={faLock} className="mr-4 w-8 h-8" /> Your Data Privacy Rights
-             </h2>
+             </h3>
              <p className="mb-6 leading-relaxed">
                One of the biggest fears borrowers have is the misuse of their personal data. It is important to know that <strong>harassment via data misuse is a criminal offense</strong> under the Information Technology Act, 2000.
              </p>
@@ -458,15 +458,15 @@ export default function AppLoanSettlementPage() {
 
            {/* Psychological Tactics */}
            <section id="psychology" className="scroll-mt-32 mb-16">
-            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 flex items-center">
+            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 flex items-center">
                <FontAwesomeIcon icon={faBrain} className="mr-4 w-10 h-10" /> How They Break You (And How to Resist)
-            </h2>
+            </h3>
             <p className="mb-6 leading-relaxed">
               Loan apps don't just lend money; they engineer anxiety. Their recovery scripts are designed by psychologists to exploit human fear and shame. Recognizing these tactics is the first step to becoming immune to them.
             </p>
             <div className="grid md:grid-cols-3 gap-6">
                <div className="bg-orange-50 p-6 rounded-xl border border-orange-100">
-                  <h3 className="font-bold text-orange-900 mb-2">1. The "Frequency" Attack</h3>
+                  <h4 className="font-bold text-orange-900 mb-2">1. The "Frequency" Attack</h4>
                   <p className="text-sm text-orange-800">
                     <strong>Tactic:</strong> Calling you 50-100 times a day using auto-dialers.
                     <br/><br/>
@@ -476,7 +476,7 @@ export default function AppLoanSettlementPage() {
                   </p>
                </div>
                <div className="bg-red-50 p-6 rounded-xl border border-red-100">
-                  <h4 className="font-bold text-red-900 mb-2">2. The "Social Shame" Bomb</h4>
+                  <h5 className="font-bold text-red-900 mb-2">2. The "Social Shame" Bomb</h5>
                   <p className="text-sm text-red-800">
                     <strong>Tactic:</strong> creating a WhatsApp group with your profile pic and adding your random contacts, titling it "Defaulter" or "Thief".
                     <br/><br/>
@@ -486,7 +486,7 @@ export default function AppLoanSettlementPage() {
                   </p>
                </div>
                <div className="bg-blue-50 p-6 rounded-xl border border-blue-100">
-                  <h4 className="font-bold text-blue-900 mb-2">3. The "Fake Legal" Threat</h4>
+                  <h5 className="font-bold text-blue-900 mb-2">3. The "Fake Legal" Threat</h5>
                   <p className="text-sm text-blue-800">
                     <strong>Tactic:</strong> Sending PDF notices on WhatsApp with "Supreme Court" or "CBI" logos, or "Arrest Warrants".
                     <br/><br/>
@@ -500,9 +500,9 @@ export default function AppLoanSettlementPage() {
 
           {/* Legal Settlement Process (Expanded) */}
           <section id="legal-settlement" className="scroll-mt-32 mb-16">
-            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">
+            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">
                Settling with Legal Apps: The Process
-            </h2>
+            </h3>
             <p className="mb-6 leading-relaxed">
                Legal apps function like digital NBFCs. They have boards, auditors, and legal teams. You cannot just "run away" from them without destroying your financial future. Settlement is the middle ground.
             </p>
@@ -511,35 +511,35 @@ export default function AppLoanSettlementPage() {
                 <div className="flex gap-4">
                     <div className="flex-shrink-0 w-10 h-10 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center font-bold">1</div>
                     <div>
-                        <h3 className="text-lg font-bold text-gray-900">Stop the EMI Spiral</h3>
+                        <h4 className="text-lg font-bold text-gray-900">Stop the EMI Spiral</h4>
                         <p className="text-gray-600 text-sm">The first step is to stop borrowing to pay. Accepting that you have defaulted is better than taking a new loan at 36% interest to pay an old one. This "debt trap" only benefits the lenders. We help you freeze your liability.</p>
                     </div>
                 </div>
                 <div className="flex gap-4">
                     <div className="flex-shrink-0 w-10 h-10 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center font-bold">2</div>
                     <div>
-                        <h4 className="text-lg font-bold text-gray-900">Official Communication</h4>
+                        <h5 className="text-lg font-bold text-gray-900">Official Communication</h5>
                         <p className="text-gray-600 text-sm">We take over specific communication channels. For apps like Navi and KreditBee, we email their 'Grievance Officers' directly (e.g., grievance@kreditbee.in), bypassing the lower-level call center agents who have no authority to negotiate. This elevates your case to a decision-maker.</p>
                     </div>
                 </div>
                 <div className="flex gap-4">
                     <div className="flex-shrink-0 w-10 h-10 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center font-bold">3</div>
                     <div>
-                        <h4 className="text-lg font-bold text-gray-900">Negotiate Waivers</h4>
+                        <h5 className="text-lg font-bold text-gray-900">Negotiate Waivers</h5>
                         <p className="text-gray-600 text-sm">Tech-lenders have high margins. They are often willing to settle for <strong>40-50% of the principal + interest</strong> if the case is pushed correctly. We target a full waiver of all "Late Fees", "Overdue Charges", and "Legal Notice Charges".</p>
                     </div>
                 </div>
                  <div className="flex gap-4">
                     <div className="flex-shrink-0 w-10 h-10 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center font-bold">4</div>
                     <div>
-                        <h4 className="text-lg font-bold text-gray-900">Verify Settlement Letter</h4>
+                        <h5 className="text-lg font-bold text-gray-900">Verify Settlement Letter</h5>
                         <p className="text-gray-600 text-sm">Before making payment, you must receive a formal letter on the lender's letterhead. It must state the exact settlement amount and confirm that the account will be closed. <strong>Never pay based on a WhatsApp message or a verbal promise.</strong></p>
                     </div>
                 </div>
                  <div className="flex gap-4">
                     <div className="flex-shrink-0 w-10 h-10 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center font-bold">5</div>
                     <div>
-                        <h4 className="text-lg font-bold text-gray-900">Closure & NDC</h4>
+                        <h5 className="text-lg font-bold text-gray-900">Closure & NDC</h5>
                         <p className="text-gray-600 text-sm">Once the settlement amount is paid, we ensure you receive a "No Dues Certificate" (NDC) or a "Closure Letter" within 45 days. This is crucial proof that the loan is closed and no further claim can be made against you.</p>
                     </div>
                 </div>
@@ -548,20 +548,20 @@ export default function AppLoanSettlementPage() {
 
           {/* Specific Apps Guide */}
            <section id="specific-apps" className="scroll-mt-32 mb-16">
-            <h2 className="text-2xl md:text-3xl font-black text-[#2E2E2E] mb-6 flex items-center">
+            <h3 className="text-2xl md:text-3xl font-black text-[#2E2E2E] mb-6 flex items-center">
                <FontAwesomeIcon icon={faMobileScreen} className="mr-4 w-8 h-8" /> Guide for Major Apps
-            </h2>
+            </h3>
             <div className="grid gap-6">
                <div className="bg-white p-6 border border-gray-200 rounded-xl shadow-sm">
-                  <h3 className="text-lg font-bold text-gray-900 mb-2">KreditBee Settlement</h3>
+                  <h4 className="text-lg font-bold text-gray-900 mb-2">KreditBee Settlement</h4>
                   <p className="text-sm text-gray-600 mb-2">KreditBee uses multiple NBFC partners (Krazybee, Poonawalla, etc.). You might receive legal notices for "Arbitration" or "Section 25" (NACH bounce). They are aggressive but legal. Settlements usually happen after 90 days of non-payment. <strong>Target Waiver: 40-60%</strong>.</p>
                </div>
                <div className="bg-white p-6 border border-gray-200 rounded-xl shadow-sm">
-                  <h3 className="text-lg font-bold text-gray-900 mb-2">MoneyView Settlement</h3>
+                  <h4 className="text-lg font-bold text-gray-900 mb-2">MoneyView Settlement</h4>
                   <p className="text-sm text-gray-600 mb-2">MoneyView (Whizdm Finance) relies heavily on digital tracking. They may track your swiggy/zomato location if permissions were given. They are open to OTS proposals if you can prove job loss. <strong>Target Waiver: 30-50%</strong>.</p>
                </div>
                <div className="bg-white p-6 border border-gray-200 rounded-xl shadow-sm">
-                  <h3 className="text-lg font-bold text-gray-900 mb-2">Navi / Kissht / Ring</h3>
+                  <h4 className="text-lg font-bold text-gray-900 mb-2">Navi / Kissht / Ring</h4>
                   <p className="text-sm text-gray-600 mb-2">These are technologically advanced. They report defaults to CIBIL very quickly. Ring and Kissht often have very small tenures (15 days) which borders on grey areas. Keep a screenshot of the app interface as evidence of high interest rates. <strong>Target Waiver: 40-50%</strong>.</p>
                </div>
             </div>
@@ -569,10 +569,10 @@ export default function AppLoanSettlementPage() {
 
            {/* Harassment Protection (Detailed) */}
           <section id="harassment-protection" className="scroll-mt-32 mb-16">
-            <h2 className="text-3xl md:text-4xl font-bold text-red-600 mb-8 flex items-center">
+            <h3 className="text-3xl md:text-4xl font-bold text-red-600 mb-8 flex items-center">
                <FontAwesomeIcon icon={faBan} className="mr-4 w-12 h-12" /> 
                Dealing with Illegal Apps: A Survival Guide
-            </h2>
+            </h3>
             <div className="bg-red-50 border-l-4 border-red-500 p-6 rounded-r-xl mb-8">
                <p className="font-bold text-red-900/80 mb-2">GOLDEN RULE: Never Pay to Stop Harassment</p>
                <p className="text-red-800 text-sm">
@@ -580,7 +580,7 @@ export default function AppLoanSettlementPage() {
                </p>
             </div>
 
-            <h3 className="text-xl font-bold text-gray-900 mb-4">Our 'Cyber-Shield' Protocol</h3>
+            <h4 className="text-xl font-bold text-gray-900 mb-4">Our 'Cyber-Shield' Protocol</h4>
             <p className="mb-6 text-gray-600">
                 When you sign up with us for illegal app protection, we initiate a 3-pronged defense strategy to secure your digital life and stop the mental torture.
             </p>
@@ -611,14 +611,14 @@ export default function AppLoanSettlementPage() {
 
           {/* Life After Settlement */}
            <section id="life-after-settlement" className="scroll-mt-32 mb-16">
-             <h2 className="text-2xl md:text-3xl font-black text-[#2E2E2E] mb-6 flex items-center">
+             <h3 className="text-2xl md:text-3xl font-black text-[#2E2E2E] mb-6 flex items-center">
                 <FontAwesomeIcon icon={faStar} className="mr-4 w-8 h-8" /> Rebuilding Your Life
-             </h2>
+             </h3>
              <p className="mb-6 leading-relaxed">
                Settlement is not the end; it is a new beginning. While your credit score will dip temporarily (usually by 50-75 points), it is better than a permanent default.
              </p>
              <div className="bg-green-50 p-6 rounded-xl border border-green-100">
-                <h3 className="font-bold text-green-900 mb-4">How to fix your CIBIL after settlement:</h3>
+                <h4 className="font-bold text-green-900 mb-4">How to fix your CIBIL after settlement:</h4>
                 <ul className="list-disc pl-5 space-y-2 text-green-800 text-sm">
                    <li><strong>Month 1-6:</strong> Do not apply for any new loans. Let the dust settle.</li>
                    <li><strong>Month 7:</strong> Apply for a <strong>Secured Credit Card</strong> (like OneCard or IDFC First WOW) against a small Fixed Deposit of ₹5,000-₹10,000.</li>
@@ -630,9 +630,9 @@ export default function AppLoanSettlementPage() {
           
            {/* Email Templates */}
            <section id="email-templates" className="scroll-mt-32 mb-16">
-            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 flex items-center">
+            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 flex items-center">
               <FontAwesomeIcon icon={faEnvelopeOpenText} className="mr-4 w-10 h-10" /> Copy-Paste Email Templates
-            </h2>
+            </h3>
             <p className="mb-6 leading-relaxed">
               Don't know what to write to the bank? Use these legally drafted templates. Replace the bracketed text with your details.
             </p>
@@ -690,9 +690,9 @@ Regards,<br/>
 
            {/* App List */}
           <section id="app-list" className="scroll-mt-32 mb-16">
-            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 text-center">
+            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 text-center">
               Major Apps We Settle
-            </h2>
+            </h3>
             <p className="text-center text-gray-600 mb-12 max-w-2xl mx-auto">
               We have successfully negotiated settlements for thousands of clients with these RBI-registered digital lenders.
             </p>
@@ -708,13 +708,13 @@ Regards,<br/>
 
           {/* Testimonials */}
           <section id="reviews" className="scroll-mt-32 text-center mb-16">
-             <h2 className="text-3xl font-black text-[#2E2E2E] mb-8">Client Success Stories</h2>
+             <h3 className="text-3xl font-black text-[#2E2E2E] mb-8">Client Success Stories</h3>
              <div className="grid md:grid-cols-2 gap-6 text-left">
                 <div className="bg-white p-6 rounded-2xl border border-[var(--color-border)] shadow-sm">
                    <div className="flex items-center mb-4">
                       <div className="w-10 h-10 rounded-full bg-blue-100 flex items-center justify-center font-bold text-blue-600 mr-3">V</div>
                       <div>
-                         <h3 className="font-bold">Vikram Singh</h3>
+                         <h4 className="font-bold">Vikram Singh</h4>
                          <p className="text-xs text-gray-500">Settled Bajaj Finance & KreditBee</p>
                       </div>
                    </div>
@@ -724,7 +724,7 @@ Regards,<br/>
                    <div className="flex items-center mb-4">
                       <div className="w-10 h-10 rounded-full bg-red-100 flex items-center justify-center font-bold text-red-600 mr-3">A</div>
                       <div>
-                         <h4 className="font-bold">Aditi Sharma</h4>
+                         <h5 className="font-bold">Aditi Sharma</h5>
                          <p className="text-xs text-gray-500">Victim of Chinese Loan App</p>
                       </div>
                    </div>
@@ -734,7 +734,7 @@ Regards,<br/>
                    <div className="flex items-center mb-4">
                       <div className="w-10 h-10 rounded-full bg-green-100 flex items-center justify-center font-bold text-green-600 mr-3">R</div>
                       <div>
-                         <h4 className="font-bold">Rahul Verma</h4>
+                         <h5 className="font-bold">Rahul Verma</h5>
                          <p className="text-xs text-gray-500">Settled MoneyView Loan</p>
                       </div>
                    </div>
@@ -744,7 +744,7 @@ Regards,<br/>
                    <div className="flex items-center mb-4">
                       <div className="w-10 h-10 rounded-full bg-yellow-100 flex items-center justify-center font-bold text-yellow-600 mr-3">S</div>
                       <div>
-                         <h4 className="font-bold">Sneha Gupta</h4>
+                         <h5 className="font-bold">Sneha Gupta</h5>
                          <p className="text-xs text-gray-500">Settled Kissht Loan</p>
                       </div>
                    </div>
@@ -754,9 +754,9 @@ Regards,<br/>
           </section>
 
           {/* FAQs */}
-          <h2 id="faqs" className="scroll-mt-32 text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">
+          <h3 id="faqs" className="scroll-mt-32 text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">
             Frequently Asked Questions
-          </h2>
+          </h3>
           <div className="space-y-4 not-prose mb-20">
             {[
               { 
@@ -830,7 +830,7 @@ Regards,<br/>
           <div className="lg:hidden mt-16 mb-8">
             <div className="bg-[#2E2E2E] rounded-2xl shadow-xl overflow-hidden border border-[#1F5EFF]/20">
               <div className="bg-[#1F5EFF] p-6 text-center text-white">
-                <h3 className="text-2xl font-black mb-2">Trapped by Apps?</h3>
+                <h4 className="text-2xl font-black mb-2">Trapped by Apps?</h4>
                 <p className="opacity-90 text-sm">Stop the harassment and settle your app loans legally today.</p>
               </div>
               <div className="p-8 text-center text-[#DEDEDE]">

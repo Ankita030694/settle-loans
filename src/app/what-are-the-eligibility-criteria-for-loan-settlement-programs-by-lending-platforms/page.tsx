@@ -259,28 +259,28 @@ export default function LoanSettlementEligibilityPage() {
             </section>
 
             <section id="core-eligibility" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">The Core Pillers of Eligibility</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">The Core Pillers of Eligibility</h3>
               <p className="text-lg leading-relaxed mb-6">
                 Regardless of the lender, three primary factors determine your eligibility for a settlement program. If you fail in even one of these, your request is likely to be dismissed at the initial review stage itself.
               </p>
               <div className="grid md:grid-cols-3 gap-6 mb-8">
                 <div className="p-6 bg-blue-50 rounded-xl border border-blue-100">
-                  <h3 className="font-bold mb-2">Intent to Pay</h3>
+                  <h4 className="font-bold mb-2">Intent to Pay</h4>
                   <p className="text-sm text-gray-600">You must show that you are not trying to cheat the system but are genuinely unable to meet the original terms.</p>
                 </div>
                 <div className="p-6 bg-blue-50 rounded-xl border border-blue-100">
-                  <h4 className="font-bold mb-2">Incapacity to Pay</h4>
+                  <h5 className="font-bold mb-2">Incapacity to Pay</h5>
                   <p className="text-sm text-gray-600">Your income must be significantly lower than your monthly debt obligations. A high salary makes you ineligible.</p>
                 </div>
                 <div className="p-6 bg-blue-50 rounded-xl border border-blue-100">
-                  <h4 className="font-bold mb-2">Lump Sum Ability</h4>
+                  <h5 className="font-bold mb-2">Lump Sum Ability</h5>
                   <p className="text-sm text-gray-600">You must have access to a one-time payment amount, usually 40% to 50% of the total dues.</p>
                 </div>
               </div>
             </section>
 
             <section id="hardship-scenarios" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">Hardship Scenarios: What Banks Accept</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">Hardship Scenarios: What Banks Accept</h3>
               <p className="text-lg leading-relaxed mb-6">
                 Banks need a valid 'story' for their audit trails. They cannot just waive off public money without a reason. Here are the scenarios that are most commonly accepted as grounds for eligibility:
               </p>
@@ -288,21 +288,21 @@ export default function LoanSettlementEligibilityPage() {
                 <li className="p-6 bg-white border border-[#DEDEDE] rounded-xl flex items-start gap-4">
                   <div className="w-12 h-12 bg-gray-100 rounded-full flex items-center justify-center shrink-0">💼</div>
                   <div>
-                    <h3 className="font-bold mb-1">Sudden Job Loss or Salary Reduction</h3>
+                    <h4 className="font-bold mb-1">Sudden Job Loss or Salary Reduction</h4>
                     <p className="text-sm text-gray-500 leading-relaxed">If your employer has shut down or if you have been laid off, you are highly eligible. You must provide a resignation letter or a bank statement showing no salary credits for at least 3 months.</p>
                   </div>
                 </li>
                 <li className="p-6 bg-white border border-[#DEDEDE] rounded-xl flex items-start gap-4">
                   <div className="w-12 h-12 bg-gray-100 rounded-full flex items-center justify-center shrink-0">🏥</div>
                   <div>
-                    <h4 className="font-bold mb-1">Severe Medical Emergencies</h4>
+                    <h5 className="font-bold mb-1">Severe Medical Emergencies</h5>
                     <p className="text-sm text-gray-500 leading-relaxed">Medical debt is the leading cause of insolvency in India. If a family member has been hospitalized and you have used your savings for treatment, banks take an empathetic view during negotiations.</p>
                   </div>
                 </li>
                 <li className="p-6 bg-white border border-[#DEDEDE] rounded-xl flex items-start gap-4">
                   <div className="w-12 h-12 bg-gray-100 rounded-full flex items-center justify-center shrink-0">🛑</div>
                   <div>
-                    <h4 className="font-bold mb-1">Business Failure</h4>
+                    <h5 className="font-bold mb-1">Business Failure</h5>
                     <p className="text-sm text-gray-500 leading-relaxed">For MSME owners, a business closure due to market conditions or government policy shifts is a strong ground for settlement eligibility. Audited loss statements are critical here.</p>
                   </div>
                 </li>
@@ -310,12 +310,12 @@ export default function LoanSettlementEligibilityPage() {
             </section>
 
             <section id="the-npa-rule" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">The 90-Day Rule: Timing is Everything</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">The 90-Day Rule: Timing is Everything</h3>
               <p className="text-lg leading-relaxed mb-6">
                 You cannot walk into a bank after missing one EMI and ask for a 50% waiver. The bank's internal policy usually forbids settlement discussions until the loan is classified as a Non-Performing Asset (NPA). 
               </p>
               <div className="p-8 bg-black text-[#DEDEDE] rounded-2xl mb-8 border-l-8 border-[#1F5EFF]">
-                <h3 className="text-xl font-bold mb-4 text-white">The NPA Lifecycle:</h3>
+                <h4 className="text-xl font-bold mb-4 text-white">The NPA Lifecycle:</h4>
                 <p className="mb-4">1 to 30 Days: Standard (Late fees applied)</p>
                 <p className="mb-4">31 to 60 Days: SMA-1 (Aggressive follow ups)</p>
                 <p className="mb-4">61 to 90 Days: SMA-2 (Legal threat phase)</p>
@@ -327,13 +327,13 @@ export default function LoanSettlementEligibilityPage() {
             </section>
 
             <section id="unsecured-advantage" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">Unsecured vs Secured: The Barrier</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">Unsecured vs Secured: The Barrier</h3>
               <p className="text-lg leading-relaxed mb-6">
                 One of the strictest eligibility criteria concerns the nature of the loan. In India, settlement is almost exclusively reserved for **unsecured loans**.
               </p>
               <div className="grid sm:grid-cols-2 gap-8 mb-8">
                 <div className="p-6 bg-green-50 rounded-xl border border-green-100">
-                  <h3 className="font-bold text-green-800 mb-2">High Eligibility</h3>
+                  <h4 className="font-bold text-green-800 mb-2">High Eligibility</h4>
                   <ul className="text-sm text-green-700 space-y-2">
                     <li>• Personal Loans</li>
                     <li>• Credit Card Outstanding</li>
@@ -342,7 +342,7 @@ export default function LoanSettlementEligibilityPage() {
                   </ul>
                 </div>
                 <div className="p-6 bg-red-50 rounded-xl border border-red-100">
-                  <h4 className="font-bold text-red-800 mb-2">Low Eligibility</h4>
+                  <h5 className="font-bold text-red-800 mb-2">Low Eligibility</h5>
                   <ul className="text-sm text-red-700 space-y-2">
                     <li>• Home Loans (Home can be seized)</li>
                     <li>• Car Loans (Car can be repossessed)</li>
@@ -354,7 +354,7 @@ export default function LoanSettlementEligibilityPage() {
             </section>
 
             <section id="bank-vs-nbfc" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">Differences in Eligibility: Banks vs NBFCs</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">Differences in Eligibility: Banks vs NBFCs</h3>
               <p className="text-lg leading-relaxed mb-6">
                 Not all lenders play by the same rules. While a PSU bank like SBI might have a rigid, committee driven criteria, a private NBFC like Bajaj Finserv or Fullerton might have more flexibility.
               </p>
@@ -387,18 +387,18 @@ export default function LoanSettlementEligibilityPage() {
             </section>
 
             <section id="fintech-criteria" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">Eligibility for Fintech & Digital Loan Apps</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">Eligibility for Fintech & Digital Loan Apps</h3>
               <p className="text-lg leading-relaxed mb-6">
                 With the rise of apps like Kissht, KreditBee, or Navi, many young Indians are finding themselves in debt traps. The good news is that these platforms are often data-driven and are very willing to settle small ticket loans to avoid the high cost of manual recovery.
               </p>
               <div className="bg-blue-50 p-6 rounded-xl border border-blue-200 mb-8">
-                <h3 className="font-bold mb-4">Fintech Settlement Signals:</h3>
+                <h4 className="font-bold mb-4">Fintech Settlement Signals:</h4>
                 <p className="text-sm">If you receive SMS offers from these apps with titles like "Heavy Discount Offer" or "Last Chance to Settle," it means you are ALREADY eligible in their systems. This is the best time to negotiate a flat closure without paying penalties.</p>
               </div>
             </section>
 
             <section id="asset-verification" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">How Banks Scan Your Final Eligibility</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">How Banks Scan Your Final Eligibility</h3>
               <p className="text-lg leading-relaxed mb-6">
                 Before a bank's settlement committee (usually chaired by a Chief Manager or higher) signs off on your waiver, they perform an investigation. They use internal and external data to see if you are lying about your poverty.
               </p>
@@ -411,12 +411,12 @@ export default function LoanSettlementEligibilityPage() {
             </section>
 
             <section id="legal-barriers" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">Willful Default: The Automatic Disqualification</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">Willful Default: The Automatic Disqualification</h3>
               <p className="text-lg leading-relaxed mb-6 text-red-600 font-bold">
                 If the bank classifies you as a "Willful Defaulter," you are permanently ineligible for any settlement programs. 
               </p>
               <div className="bg-red-50 border-l-4 border-red-500 p-8 rounded-r-xl mb-8">
-                <h3 className="text-xl font-bold text-red-800 mb-4">Who is a Willful Defaulter?</h3>
+                <h4 className="text-xl font-bold text-red-800 mb-4">Who is a Willful Defaulter?</h4>
                 <ul className="space-y-3 text-red-900/80 text-sm">
                   <li>• Someone who has the money but refuses to pay.</li>
                   <li>• Someone who has diverted the loan funds for a purpose other than what was stated (e.g., using a personal loan for high-stakes gambling).</li>
@@ -427,7 +427,7 @@ export default function LoanSettlementEligibilityPage() {
             </section>
 
             <section id="documentation-list" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">The "Eligibility Proof" Checklist</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">The "Eligibility Proof" Checklist</h3>
               <p className="text-lg leading-relaxed mb-6">
                 To maximize your chances of approval, you should have the following documents ready to attach to your formal settlement proposal:
               </p>
@@ -483,7 +483,7 @@ export default function LoanSettlementEligibilityPage() {
 
               <section id="faqs" className="scroll-mt-32 mb-12">
 
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Frequently Asked Questions</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Frequently Asked Questions</h3>
               <div className="space-y-4 not-prose">
                 {[
                   { q: "Can I settle a loan if I am currently employed?", a: "Yes, but it is much harder. You must prove that your salary is mostly going into essentials or medical care, leaving no surplus for full EMIs." },
@@ -512,7 +512,7 @@ export default function LoanSettlementEligibilityPage() {
             <div className="lg:hidden mt-16 mb-8">
               <div className="bg-[#2E2E2E] rounded-2xl shadow-xl border border-[#1F5EFF]/20">
                 <div className="bg-[#1F5EFF] p-6 text-center text-white">
-                  <h3 className="text-2xl font-black mb-2">Are You Eligible?</h3>
+                  <h4 className="text-2xl font-black mb-2">Are You Eligible?</h4>
                   <p className="text-sm">Talk to our experts today for a 100% free eligibility audit.</p>
                 </div>
                 <div className="p-8 text-center text-[#DEDEDE]">

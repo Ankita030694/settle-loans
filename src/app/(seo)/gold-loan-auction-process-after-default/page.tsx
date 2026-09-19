@@ -230,15 +230,15 @@ export default function GoldLoanAuctionPage() {
             </section>
 
             <section id="notice-period" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 Gold Loan Auction Notice Period & Your Rights
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 Banks cannot simply wake up one day and sell your gold. The law mandates a strict protocol that financial institutions must adhere to. The <strong className="text-[#1F5EFF]">gold loan auction notice period</strong> is critical.
               </p>
               
               <div className="bg-blue-50 border-l-8 border-[#1F5EFF] p-8 rounded-r-2xl mb-8">
-                <h3 className="text-xl font-black text-[#1F5EFF] mb-4">Mandatory Notice Requirements</h3>
+                <h4 className="text-xl font-black text-[#1F5EFF] mb-4">Mandatory Notice Requirements</h4>
                 <div className="flex items-start gap-3 mb-3">
                   <div className="mt-1.5 w-2 h-2 rounded-full bg-[#1F5EFF] flex-shrink-0"></div>
                   <p className="text-gray-800 text-lg">A formal notice of minimum 14 days must be sent to the borrower via Registered Post or Courier.</p>
@@ -254,7 +254,7 @@ export default function GoldLoanAuctionPage() {
               </div>
 
               <div className="bg-red-50 p-6 rounded-xl border border-red-100 mb-8">
-                <h4 className="text-xl font-black text-red-700 mb-2">Legal Warning</h4>
+                <h5 className="text-xl font-black text-red-700 mb-2">Legal Warning</h5>
                 <p className="text-red-900 text-lg">
                   If the bank auctions your gold without fulfilling these notice requirements, the auction is considered illegal, and you have strong grounds to sue them for damages.
                 </p>
@@ -262,9 +262,9 @@ export default function GoldLoanAuctionPage() {
             </section>
 
             <section id="stop-auction" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 Can You Stop a Gold Loan Auction?
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 Receiving an auction notice is frightening, but it is not the end of the road. You can legally <strong className="text-[#1F5EFF]">stop a gold loan auction</strong> by acting swiftly. Here is what you can do:
               </p>
@@ -273,21 +273,21 @@ export default function GoldLoanAuctionPage() {
                 <div className="flex gap-6">
                   <div className="flex-shrink-0 w-12 h-12 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center font-black text-xl shadow-lg">1</div>
                   <div>
-                    <h3 className="text-2xl font-black text-[#2E2E2E] mb-3">Pay the Overdue Amount</h3>
+                    <h4 className="text-2xl font-black text-[#2E2E2E] mb-3">Pay the Overdue Amount</h4>
                     <p className="text-lg text-gray-700">The most straightforward way is to clear your overdue interest and penal charges before the auction date to regularize your account.</p>
                   </div>
                 </div>
                 <div className="flex gap-6">
                   <div className="flex-shrink-0 w-12 h-12 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center font-black text-xl shadow-lg">2</div>
                   <div>
-                    <h4 className="text-2xl font-black text-[#2E2E2E] mb-3">Negotiate a Settlement</h4>
+                    <h5 className="text-2xl font-black text-[#2E2E2E] mb-3">Negotiate a Settlement</h5>
                     <p className="text-lg text-gray-700">Approach the bank to restructure your loan or propose a one-time settlement (OTS). Lenders often prefer recovery over the hassle of an auction.</p>
                   </div>
                 </div>
                 <div className="flex gap-6">
                   <div className="flex-shrink-0 w-12 h-12 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center font-black text-xl shadow-lg">3</div>
                   <div>
-                    <h4 className="text-2xl font-black text-[#2E2E2E] mb-3">File an Injunction</h4>
+                    <h5 className="text-2xl font-black text-[#2E2E2E] mb-3">File an Injunction</h5>
                     <p className="text-lg text-gray-700">If the bank has breached RBI guidelines or charged exorbitant hidden fees, you can hire a legal expert to obtain a stay order (injunction) from the court to halt the auction.</p>
                   </div>
                 </div>
@@ -295,9 +295,9 @@ export default function GoldLoanAuctionPage() {
             </section>
 
             <section id="surplus-money" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 Claiming Surplus Money After Gold Auction
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 Perhaps the most hidden secret in the banking industry is what happens to the <strong className="text-[#1F5EFF]">surplus money after a gold auction</strong>. Banks will not openly tell you this, but you are entitled to the extra cash.
               </p>
@@ -313,20 +313,20 @@ export default function GoldLoanAuctionPage() {
 
               <div className="grid md:grid-cols-2 gap-6 my-8">
                 <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
-                  <h3 className="font-black text-[#1F5EFF] text-lg mb-3">Demand Auction Details</h3>
+                  <h4 className="font-black text-[#1F5EFF] text-lg mb-3">Demand Auction Details</h4>
                   <p className="text-gray-700 text-base">Send a legal notice requesting the exact sale price, auction date, and buyer details.</p>
                 </div>
                 <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
-                  <h4 className="font-black text-[#1F5EFF] text-lg mb-3">Recover Your Funds</h4>
+                  <h5 className="font-black text-[#1F5EFF] text-lg mb-3">Recover Your Funds</h5>
                   <p className="text-gray-700 text-base">If the bank refuses to refund the surplus, file a complaint with the Banking Ombudsman or civil court.</p>
                 </div>
               </div>
             </section>
 
             <section id="legal-options" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 Legal Actions Against Unfair Auctions
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 Did the bank auction your family gold for a cheap price? Many NBFCs and banks have been caught undervaluing gold during auctions or selling it to their own sister companies at heavily discounted rates.
               </p>
@@ -351,9 +351,9 @@ export default function GoldLoanAuctionPage() {
             </section>
 
             <section id="reviews" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 Client Success Stories
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-8">
                 We have helped countless borrowers fight illegal auctions and recover their rightful surplus funds.
               </p>
@@ -366,7 +366,7 @@ export default function GoldLoanAuctionPage() {
                       RK
                     </div>
                     <div>
-                      <h3 className="font-bold text-[#2E2E2E] text-lg">Rajesh Kumar</h3>
+                      <h4 className="font-bold text-[#2E2E2E] text-lg">Rajesh Kumar</h4>
                       <div className="flex gap-1 text-yellow-400">
                         <svg className="w-5 h-5 fill-current" viewBox="0 0 20 20"><path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z"/></svg>
                         <svg className="w-5 h-5 fill-current" viewBox="0 0 20 20"><path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z"/></svg>
@@ -390,7 +390,7 @@ export default function GoldLoanAuctionPage() {
                       SV
                     </div>
                     <div>
-                      <h4 className="font-bold text-[#2E2E2E] text-lg">Sunita Verma</h4>
+                      <h5 className="font-bold text-[#2E2E2E] text-lg">Sunita Verma</h5>
                       <div className="flex gap-1 text-yellow-400">
                         <svg className="w-5 h-5 fill-current" viewBox="0 0 20 20"><path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z"/></svg>
                         <svg className="w-5 h-5 fill-current" viewBox="0 0 20 20"><path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z"/></svg>
@@ -410,9 +410,9 @@ export default function GoldLoanAuctionPage() {
             </section>
 
             <section id="faq" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 Frequently Asked Questions
-              </h2>
+              </h3>
               <div className="space-y-4">
                 {faqs.map((faq, index) => (
                   <details key={index} name="faq-accordion" className="bg-white border border-[#DEDEDE] rounded-xl p-6 hover:shadow-md group cursor-pointer transition-shadow">
@@ -432,9 +432,9 @@ export default function GoldLoanAuctionPage() {
             <div className="bg-[#2E2E2E] text-white p-12 rounded-[40px] text-center mt-24 relative overflow-hidden group">
               <div className="absolute inset-0 bg-[#1F5EFF] opacity-0 group-hover:opacity-5 transition-opacity duration-500"></div>
               <div className="relative z-10">
-                <h3 className="text-3xl md:text-4xl font-black mb-6">
+                <h4 className="text-3xl md:text-4xl font-black mb-6">
                   Did the bank auction your family gold for a cheap price?
-                </h3>
+                </h4>
                 <p className="text-xl md:text-2xl text-gray-300 mb-8 max-w-2xl mx-auto leading-relaxed">
                   You might be entitled to the <strong className="text-white">surplus funds</strong>. Find out how to claim your money back or stop a pending auction today.
                 </p>

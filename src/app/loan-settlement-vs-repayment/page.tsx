@@ -286,7 +286,7 @@ export default function LoanSettlementVsRepaymentPage() {
                         </section>
 
                         <section id="defining-repayment" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">Defining Loan Repayment: The Gold Standard of Credit</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">Defining Loan Repayment: The Gold Standard of Credit</h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 Loan repayment, often referred to as loan closure or full fulfillment, is the act of paying back the entire principal amount along with all accrued interest, late fees, and penalties as per the original or restructured agreement with the lender. This process signifies the completion of a contractual relationship where the borrower has met 100% of the expectations set at the time of loan disbursal.
                             </p>
@@ -297,7 +297,7 @@ export default function LoanSettlementVsRepaymentPage() {
                                 In the context of secured loans, such as home loans or car loans, full repayment leads to the return of your original documents and the removal of the 'Hypothecation' or 'Lien' from the asset. This grants you absolute ownership and the freedom to sell or transfer the asset without any bank interference.
                             </p>
                             <div className="p-8 bg-gray-50 border-l-8 border-[#1F5EFF] rounded-r-2xl shadow-sm mb-6">
-                                <h3 className="font-bold text-2xl mb-4 text-[#2E2E2E]">Benefits of Full Repayment</h3>
+                                <h4 className="font-bold text-2xl mb-4 text-[#2E2E2E]">Benefits of Full Repayment</h4>
                                 <ul className="space-y-3">
                                     <li className="flex items-start gap-2">
                                         <span className="text-[#1F5EFF] font-bold">✔</span>
@@ -316,7 +316,7 @@ export default function LoanSettlementVsRepaymentPage() {
                         </section>
 
                         <section id="defining-settlement" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">Defining Loan Settlement: The Strategic Last Resort</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">Defining Loan Settlement: The Strategic Last Resort</h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 Loan settlement, or One-Time Settlement (OTS), is a negotiated agreement between the borrower and the lender. In this scenario, the bank agrees to accept a significantly lower amount than what is actually owed (often waiving interest, penalties, and a part of the principal) to close the account forever. This is an admission by the bank that some money is better than no money.
                             </p>
@@ -332,7 +332,7 @@ export default function LoanSettlementVsRepaymentPage() {
                         </section>
 
                         <section id="critical-differences" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">The Critical Differences: At a Glance</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">The Critical Differences: At a Glance</h3>
                             <p className="text-lg leading-relaxed mb-8">
                                 To truly understand the gravity of this choice, we must compare them side-by-side across various parameters that affect your financial life in India.
                             </p>
@@ -377,7 +377,7 @@ export default function LoanSettlementVsRepaymentPage() {
                         </section>
 
                         <section id="cibil-impact" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">Deep Dive: The Granular Impact on Your CIBIL Score</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">Deep Dive: The Granular Impact on Your CIBIL Score</h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 Your CIBIL score is your financial passport in India. When you pay a loan in full, the status is updated as 'Closed'. This signals to the credit bureaus that the contract was fulfilled as per the original agreement. While your score might dip slightly after a loan is closed (due to a change in the 'Credit Mix' or 'Average Age of Accounts'), it quickly rebounds and stays high because your 'Repayment History'—which accounts for 35% of your score—shows 100% compliance.
                             </p>
@@ -388,7 +388,7 @@ export default function LoanSettlementVsRepaymentPage() {
                                 Credit bureaus like TransUnion CIBIL, Equifax, Experian, and CRIF High Mark all treat 'Settled' accounts with extreme caution. Even if you have other active loans that you are paying on time, a single 'Settled' tag can pull down your weighted average score significantly. It takes years of "clean" behavior with new, small credit lines (like secured cards) to move the needle back to a healthy range.
                             </p>
                             <div className="bg-yellow-50 p-8 rounded-xl border border-yellow-200 my-8">
-                                <h3 className="font-bold text-yellow-900 mb-4 text-xl">The "7-Year Itch" and Manual Underwriting</h3>
+                                <h4 className="font-bold text-yellow-900 mb-4 text-xl">The "7-Year Itch" and Manual Underwriting</h4>
                                 <p className="text-base text-yellow-800 leading-relaxed mb-4">
                                     The 'Settled' status doesn't just lower your score; it stays in the 'Accounts' section of your CIBIL report for 7 years. This is a crucial point that many settlement agencies fail to mention. Even if your score eventually goes back up to 750 through other means, a manual check by a bank's credit manager during a large loan application (like a Home Loan or Business Loan) will reveal the settlement.
                                 </p>
@@ -399,7 +399,7 @@ export default function LoanSettlementVsRepaymentPage() {
                         </section>
 
                         <section id="future-borrowing" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">Future Borrowing Prospects: Life After the Choice</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">Future Borrowing Prospects: Life After the Choice</h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 If you have a 'Closed' status, your future is bright and your leverage is high. You can apply for home loans, business expansion loans, and premium credit cards with ease. You are a 'Safe Bet' for the financial system, which allows you to negotiate for the lowest possible 'Spread' over the Repo Rate.
                             </p>
@@ -415,7 +415,7 @@ export default function LoanSettlementVsRepaymentPage() {
                         </section>
 
                         <section id="when-to-choose-repayment" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">When Should You Choose Full Repayment?</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">When Should You Choose Full Repayment?</h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 Repayment is not just about the money; it is about protecting your future leverage. You should choose full repayment if:
                             </p>
@@ -436,7 +436,7 @@ export default function LoanSettlementVsRepaymentPage() {
                         </section>
 
                         <section id="when-to-choose-settlement" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">When Should You Choose Loan Settlement?</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">When Should You Choose Loan Settlement?</h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 Settlement is a survival strategy. It is for those who are drowning and need a life jacket. You should consider settlement only if:
                             </p>
@@ -457,12 +457,12 @@ export default function LoanSettlementVsRepaymentPage() {
                         </section>
 
                         <section id="settlement-process" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">The Professional Loan Settlement Process in India</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">The Professional Loan Settlement Process in India</h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 If you choose the settlement path, doing it correctly is vital. Many borrowers fall into the trap of 'verbal settlements' which are never updated on the CIBIL records.
                             </p>
                             <div className="bg-[#1F5EFF]/5 p-8 rounded-3xl border border-[#1F5EFF]/20 mb-10">
-                                <h3 className="text-2xl font-black text-[#2E2E2E] mb-6">The SettleLoans Step-by-Step Method</h3>
+                                <h4 className="text-2xl font-black text-[#2E2E2E] mb-6">The SettleLoans Step-by-Step Method</h4>
                                 <ol className="space-y-4 text-base font-medium">
                                     <li className="flex items-start gap-3">
                                         <span className="w-6 h-6 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center text-xs flex-shrink-0 mt-1">1</span>
@@ -489,7 +489,7 @@ export default function LoanSettlementVsRepaymentPage() {
                         </section>
 
                         <section id="legal-framework" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">Legal Framework: RBI Guidelines and Your Rights</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">Legal Framework: RBI Guidelines and Your Rights</h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 In India, the RBI (Reserve Bank of India) has clear guidelines on how banks should handle stressed loans. The "Prudential Framework for Resolution of Stressed Assets" allows banks to settle accounts to clean their balance sheets.
                             </p>
@@ -502,32 +502,32 @@ export default function LoanSettlementVsRepaymentPage() {
                         </section>
 
                         <section id="alternatives" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">Alternatives to Settlement: Don't Kill Your Credit Yet</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">Alternatives to Settlement: Don't Kill Your Credit Yet</h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 Before you opt for a settlement, explore these 'Middle Ground' options that can save your CIBIL score:
                             </p>
                             <div className="grid md:grid-cols-2 gap-8 mb-10">
                                 <div className="p-6 bg-white border border-[#DEDEDE] rounded-xl">
-                                    <h3 className="font-bold text-[#1F5EFF] mb-3">Loan Restructuring</h3>
+                                    <h4 className="font-bold text-[#1F5EFF] mb-3">Loan Restructuring</h4>
                                     <p className="text-sm">Request the bank to increase your loan tenure. This will reduce your monthly EMI, making it manageable even with a reduced income. Your credit score remains safe.</p>
                                 </div>
                                 <div className="p-6 bg-white border border-[#DEDEDE] rounded-xl">
-                                    <h4 className="font-bold text-[#1F5EFF] mb-3">Debt Consolidation</h4>
+                                    <h5 className="font-bold text-[#1F5EFF] mb-3">Debt Consolidation</h5>
                                     <p className="text-sm">Take one large, low-interest loan (like a Loan Against Property) to pay off multiple high-interest credit cards. This simplifies your life and reduces interest costs.</p>
                                 </div>
                                 <div className="p-6 bg-white border border-[#DEDEDE] rounded-xl">
-                                    <h4 className="font-bold text-[#1F5EFF] mb-3">EMI Moratorium</h4>
+                                    <h5 className="font-bold text-[#1F5EFF] mb-3">EMI Moratorium</h5>
                                     <p className="text-sm">If your distress is very short-term, some banks offer a 3-month payment holiday. Interest will still accrue, but you won't be marked as a defaulter.</p>
                                 </div>
                                 <div className="p-6 bg-white border border-[#DEDEDE] rounded-xl">
-                                    <h4 className="font-bold text-[#1F5EFF] mb-3">Asset Liquidation</h4>
+                                    <h5 className="font-bold text-[#1F5EFF] mb-3">Asset Liquidation</h5>
                                     <p className="text-sm">Selling a vehicle or jewelry to pay off a high-interest debt is almost always smarter than settling and destroying your future borrowing power.</p>
                                 </div>
                             </div>
                         </section>
 
                         <section id="psychological-impact" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">The Psychological Impact of Debt and the Relief of Choice</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">The Psychological Impact of Debt and the Relief of Choice</h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 Debt is more than just numbers; it is a mental health crisis. The constant fear of the phone ringing, the shame of being unable to provide, and the anxiety of legal notices can be crippling. Studies in behavioral finance suggest that long-term debt stress can lead to "decision fatigue," where a borrower becomes so overwhelmed that they stop opening letters or answering calls, which only worsens the situation.
                             </p>
@@ -537,7 +537,7 @@ export default function LoanSettlementVsRepaymentPage() {
                         </section>
 
                         <section id="hidden-costs" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">The Hidden Costs of Persistent Debt</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">The Hidden Costs of Persistent Debt</h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 While the principal and interest are the visible costs, the hidden costs of staying in a debt trap are far more damaging. These include the "opportunity cost" of not being able to invest, the "health cost" of stress-related ailments, and the "relationship cost" of financial friction within the family.
                             </p>
@@ -560,7 +560,7 @@ export default function LoanSettlementVsRepaymentPage() {
                         </section>
 
                         <section id="borrower-profiles" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">Salaried vs. Business Borrowers: Different Stakes</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">Salaried vs. Business Borrowers: Different Stakes</h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 The choice between repayment and settlement often depends on your source of income.
                             </p>
@@ -573,16 +573,16 @@ export default function LoanSettlementVsRepaymentPage() {
                         </section>
 
                         <section id="case-studies-deep-dive" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">Case Studies: Real-World Scenarios</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">Case Studies: Real-World Scenarios</h3>
                             <div className="space-y-8">
                                 <div className="p-8 bg-blue-50 rounded-2xl border border-blue-100">
-                                    <h3 className="font-bold text-xl mb-4 text-blue-900">Case Study 1: The IT Professional's Comeback</h3>
+                                    <h4 className="font-bold text-xl mb-4 text-blue-900">Case Study 1: The IT Professional's Comeback</h4>
                                     <p className="text-sm text-blue-800 leading-relaxed">
                                         Amit, a software engineer, had 12 Lakhs in credit card debt across 5 cards. His EMIs were 80% of his salary. He was considering settlement. After a consultation with SettleLoans, we identified that he had a piece of land in his hometown. We helped him get a 'Loan Against Property' at 9% interest to pay off the 40% interest credit cards. By choosing <strong>Repayment</strong> through consolidation, he saved his CIBIL score and is now eligible for a home loan.
                                     </p>
                                 </div>
                                 <div className="p-8 bg-red-50 rounded-2xl border border-red-100">
-                                    <h4 className="font-bold text-xl mb-4 text-red-900">Case Study 2: The SME Owner's Reset</h4>
+                                    <h5 className="font-bold text-xl mb-4 text-red-900">Case Study 2: The SME Owner's Reset</h5>
                                     <p className="text-sm text-red-800 leading-relaxed">
                                         Mrs. Desai ran a garment export business that collapsed during the pandemic. She owed 45 Lakhs to an NBFC. There was no hope of the business restarting. We negotiated a <strong>Settlement</strong> at 18 Lakhs. While her credit score dropped, she was able to stop the recovery harassment and focus on a new consulting job. For her, settlement was the only logical choice to prevent total financial ruin.
                                     </p>
@@ -591,7 +591,7 @@ export default function LoanSettlementVsRepaymentPage() {
                         </section>
 
                         <section id="global-context" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">Global vs. Indian Context: Debt Resolution Trends</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">Global vs. Indian Context: Debt Resolution Trends</h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 In developed economies like the USA or UK, "Bankruptcy" or "Individual Voluntary Arrangements" (IVA) are common and structured. In India, we are still evolving. The <strong>Insolvency and Bankruptcy Code (IBC)</strong> for individuals is not yet fully active for all categories of borrowers, leaving a vacuum in the legal relief available to common people.
                             </p>
@@ -601,7 +601,7 @@ export default function LoanSettlementVsRepaymentPage() {
                         </section>
 
                         <section id="success-stories" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 text-center">What Our Clients Say (Success History)</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 text-center">What Our Clients Say (Success History)</h3>
                             <div className="grid md:grid-cols-2 gap-10 not-prose">
                                 {[
                                     {
@@ -645,7 +645,7 @@ export default function LoanSettlementVsRepaymentPage() {
                                         <div className="flex items-center mb-4">
                                             <div className="w-10 h-10 rounded-full bg-blue-100 flex items-center justify-center font-bold text-blue-600 mr-3">{review.name[0]}</div>
                                             <div>
-                                                <h3 className="font-bold text-[#2E2E2E]">{review.name}</h3>
+                                                <h4 className="font-bold text-[#2E2E2E]">{review.name}</h4>
                                                 <p className="text-xs text-gray-400">{review.loc}</p>
                                             </div>
                                             <div className="ml-auto text-yellow-400 text-sm">★★★★★</div>
@@ -660,7 +660,7 @@ export default function LoanSettlementVsRepaymentPage() {
                         </section>
 
                         <section id="credit-repair" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">Credit Repair: Can You Turn 'Settled' into 'Closed'?</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">Credit Repair: Can You Turn 'Settled' into 'Closed'?</h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 Yes, you can! This is the best-kept secret of the credit industry. If you settle a loan today and your financial situation improves 3 years later, you can approach the bank again.
                             </p>
@@ -670,7 +670,7 @@ export default function LoanSettlementVsRepaymentPage() {
                         </section>
 
                         <section id="common-myths" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">Common Myths vs. Realities</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">Common Myths vs. Realities</h3>
                             <div className="space-y-6 mb-10">
                                 <div className="p-6 bg-gray-50 rounded-xl">
                                     <p className="font-bold text-[#2E2E2E]">Myth: Settlement means I never have to pay anything.</p>
@@ -688,7 +688,7 @@ export default function LoanSettlementVsRepaymentPage() {
                         </section>
 
                         <section id="professional-help" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">The Role of Professional Debt Consultants</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">The Role of Professional Debt Consultants</h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 Why hire a professional for loan settlement or repayment strategy? Because banks are institutions with massive resources and legal departments. As an individual, you are at a disadvantage.
                             </p>
@@ -698,7 +698,7 @@ export default function LoanSettlementVsRepaymentPage() {
                         </section>
 
                         <section id="faqs" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Loan Settlement vs Repayment FAQs</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Loan Settlement vs Repayment FAQs</h3>
                             <div className="space-y-6 not-prose">
                                 {[
                                     { q: "Is loan settlement better than repayment?", a: "No. Full repayment is always better for your financial health and credit score. Settlement should only be chosen when repayment is physically and financially impossible." },
@@ -728,7 +728,7 @@ export default function LoanSettlementVsRepaymentPage() {
                         </section>
 
                         <div className="mt-16 p-8 bg-[#1F5EFF] rounded-3xl text-white text-center">
-                            <h2 className="text-3xl font-black mb-6">Confused Between Settle or Repay?</h2>
+                            <h3 className="text-3xl font-black mb-6">Confused Between Settle or Repay?</h3>
                             <p className="text-xl mb-8 opacity-90">
                                 Get a professional assessment of your financial situation. Our experts will help you choose the path that protects your future.
                             </p>

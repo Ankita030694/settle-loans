@@ -526,10 +526,10 @@ export default function PNOEscalationHarassmentPage() {
               </p>
 
               <div className="bg-slate-50 border-l-4 border-[#1F5EFF] p-4 rounded-r-xl my-4">
-                <h3 className="font-bold text-slate-900 text-xs sm:text-sm mb-1 flex items-center gap-1.5">
+                <h4 className="font-bold text-slate-900 text-xs sm:text-sm mb-1 flex items-center gap-1.5">
                   <ShieldAlert className="w-4 h-4 text-[#1F5EFF]" />
                   <span>Branch Desk vs. Principal Nodal Officer</span>
-                </h3>
+                </h4>
                 <p className="text-xs sm:text-sm text-slate-600 leading-relaxed">
                   Branch staff focus only on targets. In contrast, the PNO must follow RBI rules. When you file a complaint with the PNO, the bank logs it directly with the regulator.
                 </p>
@@ -538,7 +538,7 @@ export default function PNOEscalationHarassmentPage() {
 
             {/* Section 2: Statutory Legal Mandates & Regulatory Accountability */}
             <section id="statutory-mandates-rbi-fair-practices" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">2. Statutory Legal Mandates, RBI Fair Practices Code</h2>
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">2. Statutory Legal Mandates, RBI Fair Practices Code</h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 The Reserve Bank of India sets clear rules for debt collection. Under the <em>RBI Fair Practices Code</em> and circular <em>DOR.ORG.REC.65</em>, banks and agents must follow these limits:
               </p>
@@ -593,44 +593,44 @@ export default function PNOEscalationHarassmentPage() {
 
             {/* Section 3: Documenting Agent Coercion & Building the Evidentiary Dossier */}
             <section id="documenting-agent-coercion-evidence" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">3. Documenting Agent Coercion</h2>
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">3. Documenting Agent Coercion</h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 To win your case with the PNO, you need solid proof. Spoken complaints get ignored. But digital proof forces quick action. Gather these 4 types of records:
               </p>
 
               <div className="grid grid-cols-1 md:grid-cols-2 gap-4 my-6">
                 <div className="p-4 bg-slate-50 rounded-xl border border-slate-200">
-                  <h3 className="font-bold text-slate-900 text-sm mb-2 flex items-center gap-1.5">
+                  <h4 className="font-bold text-slate-900 text-sm mb-2 flex items-center gap-1.5">
                     <PhoneCall className="w-4 h-4 text-[#1F5EFF]" />
                     <span>Call Recordings and Call Logs</span>
-                  </h3>
+                  </h4>
                   <p className="text-xs text-slate-600 leading-relaxed">
                     Save audio files of all calls. Note the date, time. And phone numbers. Highlight any calls made outside 8 AM to 7 PM.
                   </p>
                 </div>
                 <div className="p-4 bg-slate-50 rounded-xl border border-slate-200">
-                  <h4 className="font-bold text-slate-900 text-sm mb-2 flex items-center gap-1.5">
+                  <h5 className="font-bold text-slate-900 text-sm mb-2 flex items-center gap-1.5">
                     <FileText className="w-4 h-4 text-[#1F5EFF]" />
                     <span>WhatsApp and SMS Messages</span>
-                  </h4>
+                  </h5>
                   <p className="text-xs text-slate-600 leading-relaxed">
                     Take screenshots of rude messages, fake legal threats. And abusive texts sent to you or your family.
                   </p>
                 </div>
                 <div className="p-4 bg-slate-50 rounded-xl border border-slate-200">
-                  <h4 className="font-bold text-slate-900 text-sm mb-2 flex items-center gap-1.5">
+                  <h5 className="font-bold text-slate-900 text-sm mb-2 flex items-center gap-1.5">
                     <Building2 className="w-4 h-4 text-[#1F5EFF]" />
                     <span>CCTV and Visitor Logs</span>
-                  </h4>
+                  </h5>
                   <p className="text-xs text-slate-600 leading-relaxed">
                     Keep security footage and gate records if agents visit your home or office without permission.
                   </p>
                 </div>
                 <div className="p-4 bg-slate-50 rounded-xl border border-slate-200">
-                  <h4 className="font-bold text-slate-900 text-sm mb-2 flex items-center gap-1.5">
+                  <h5 className="font-bold text-slate-900 text-sm mb-2 flex items-center gap-1.5">
                     <HeartPulse className="w-4 h-4 text-[#1F5EFF]" />
                     <span>Medical and Doctor Records</span>
-                  </h4>
+                  </h5>
                   <p className="text-xs text-slate-600 leading-relaxed">
                     Keep doctor prescriptions if collection stress caused anxiety or high blood pressure.
                   </p>
@@ -644,7 +644,7 @@ export default function PNOEscalationHarassmentPage() {
 
             {/* Section 4: Bank NPA Accounting, Provisioning Burdens & Harassment Risk NPV Formula */}
             <section id="bank-npa-accounting-harassment-npv" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">4. Bank NPA Accounting &amp; PNO Harassment NPV</h2>
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">4. Bank NPA Accounting &amp; PNO Harassment NPV</h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Filing a PNO complaint gives you strong leverage under bank accounting rules. Under RBI norms. When a loan is unpaid for 90 days, it turns into an NPA.
               </p>
@@ -716,7 +716,7 @@ export default function PNOEscalationHarassmentPage() {
 
             {/* Section 5: Infographic Banner */}
             <section id="pno-escalation-visual-roadmap" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">5. Institutional Escalation Roadmap</h2>
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">5. Institutional Escalation Roadmap</h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 This visual chart outlines the 5 key stages of escalating harassment. It shows how cases move from gathering evidence to PNO intervention, collection freezing. And final settlement with a No Dues Certificate.
               </p>
@@ -751,7 +751,7 @@ export default function PNOEscalationHarassmentPage() {
 
             {/* Section 6: Step-by-Step PNO Escalation Protocol */}
             <section id="step-by-step-pno-filing-protocol" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">6. Step-by-Step PNO Escalation Protocol</h2>
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">6. Step-by-Step PNO Escalation Protocol</h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Follow these 5 steps to file a complaint with the Principal Nodal Officer:
               </p>
@@ -811,7 +811,7 @@ export default function PNOEscalationHarassmentPage() {
 
             {/* Section 7: The RBI Internal Ombudsman Mandatory Review Mechanism */}
             <section id="rbi-internal-ombudsman-mandatory-review" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">7. The RBI Internal Ombudsman (IO) Mandatory Review</h2>
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">7. The RBI Internal Ombudsman (IO) Mandatory Review</h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 A key safeguard in banking is the <strong>RBI Internal Ombudsman (IO)</strong>. The IO is an independent referee who reviews customer disputes. All large banks and NBFCs must run an active Internal Ombudsman desk.
               </p>
@@ -820,10 +820,10 @@ export default function PNOEscalationHarassmentPage() {
               </p>
 
               <div className="bg-slate-50 rounded-2xl p-5 border border-slate-200 space-y-3 my-6">
-                <h3 className="font-bold text-slate-900 text-sm flex items-center gap-2">
+                <h4 className="font-bold text-slate-900 text-sm flex items-center gap-2">
                   <Check className="w-4 h-4 text-emerald-600" />
                   <span>How the Internal Ombudsman Protects You</span>
-                </h3>
+                </h4>
                 <div className="grid grid-cols-1 md:grid-cols-2 gap-3 text-xs text-slate-700">
                   <div className="p-3 bg-white rounded-xl border border-slate-200">
                     <strong className="text-slate-900 block mb-1">Independent Call Audit</strong>
@@ -843,7 +843,7 @@ export default function PNOEscalationHarassmentPage() {
 
             {/* Section 8: Converting PNO Grievances into Structured Debt Settlement (50%–70% OTS) */}
             <section id="converting-pno-grievance-to-ots" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">8. Strategic Debt Resolution</h2>
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">8. Strategic Debt Resolution</h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Stopping harassment brings quick relief. But clearing the loan brings lasting peace. When you talk to branch staff alone, they demand full payment plus extra fees.
               </p>
@@ -853,37 +853,37 @@ export default function PNOEscalationHarassmentPage() {
 
               <div className="grid grid-cols-1 md:grid-cols-2 gap-4 my-6">
                 <div className="p-4 bg-slate-50 border border-slate-200 rounded-xl space-y-1.5">
-                  <h3 className="font-bold text-slate-900 text-xs sm:text-sm flex items-center gap-1.5">
+                  <h4 className="font-bold text-slate-900 text-xs sm:text-sm flex items-center gap-1.5">
                     <BadgePercent className="w-4 h-4 text-emerald-600" />
                     <span>100% Waiver on Penal Fees</span>
-                  </h3>
+                  </h4>
                   <p className="text-xs text-slate-600 leading-relaxed">
                     The bank cancels all late charges, extra interest. And notice fees.
                   </p>
                 </div>
                 <div className="p-4 bg-slate-50 border border-slate-200 rounded-xl space-y-1.5">
-                  <h4 className="font-bold text-slate-900 text-xs sm:text-sm flex items-center gap-1.5">
+                  <h5 className="font-bold text-slate-900 text-xs sm:text-sm flex items-center gap-1.5">
                     <DollarSign className="w-4 h-4 text-blue-600" />
                     <span>50% to 70% Principal Waiver</span>
-                  </h4>
+                  </h5>
                   <p className="text-xs text-slate-600 leading-relaxed">
                     The settlement desk approves a deep discount on the loan balance.
                   </p>
                 </div>
                 <div className="p-4 bg-slate-50 border border-slate-200 rounded-xl space-y-1.5">
-                  <h4 className="font-bold text-slate-900 text-xs sm:text-sm flex items-center gap-1.5">
+                  <h5 className="font-bold text-slate-900 text-xs sm:text-sm flex items-center gap-1.5">
                     <FileCheck className="w-4 h-4 text-indigo-600" />
                     <span>Official No Dues Certificate (NDC)</span>
-                  </h4>
+                  </h5>
                   <p className="text-xs text-slate-600 leading-relaxed">
                     After payment, the bank issues a legal closure letter showing ₹0 balance.
                   </p>
                 </div>
                 <div className="p-4 bg-slate-50 border border-slate-200 rounded-xl space-y-1.5">
-                  <h4 className="font-bold text-slate-900 text-xs sm:text-sm flex items-center gap-1.5">
+                  <h5 className="font-bold text-slate-900 text-xs sm:text-sm flex items-center gap-1.5">
                     <Scale className="w-4 h-4 text-amber-600" />
                     <span>Withdrawal of Legal Cases</span>
-                  </h4>
+                  </h5>
                   <p className="text-xs text-slate-600 leading-relaxed">
                     The bank drops all cheque bounce notices and court actions.
                   </p>
@@ -897,7 +897,7 @@ export default function PNOEscalationHarassmentPage() {
 
             {/* Section 9: Dispute Escalation & Redressal Comparative Matrix */}
             <section id="dispute-escalation-comparative-matrix" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">9. Bank Grievance Escalation</h2>
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">9. Bank Grievance Escalation</h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Here is a simple comparison of different ways to handle debt harassment and settle loans in India:
               </p>
@@ -956,7 +956,7 @@ export default function PNOEscalationHarassmentPage() {
 
             {/* Section 10 & Company Section */}
             <section id="settleloans-executive-representation" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">10. SettleLoans Executive Legal Representation</h2>
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">10. SettleLoans Executive Legal Representation</h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Facing bank notices and dealing with recovery agents is stressful. At <strong>SettleLoans</strong>, our team of banking advocates and legal experts stands with you. We handle all talks with senior bank officers directly.
               </p>
@@ -969,7 +969,7 @@ export default function PNOEscalationHarassmentPage() {
 
             {/* Section 11: FAQ Accordion */}
             <section id="faqs" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">11. FAQs: Principal Nodal Officer Harassment Escalation</h2>
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">11. FAQs: Principal Nodal Officer Harassment Escalation</h3>
               <div className="space-y-3">
                 {((jsonLdGraph["@graph"].find((item: any) => item["@type"] === "FAQPage") as any)?.mainEntity || []).map((faq: any, index: number) => (
                   <details
@@ -990,9 +990,9 @@ export default function PNOEscalationHarassmentPage() {
 
             {/* 5 Official Regulatory Links */}
             <section className="border-t border-slate-200 pt-8 mb-4">
-              <h3 className="text-xs sm:text-sm font-bold text-slate-900 mb-3 uppercase tracking-wider">
+              <h4 className="text-xs sm:text-sm font-bold text-slate-900 mb-3 uppercase tracking-wider">
                 Official Statutory &amp; Regulatory References
-              </h3>
+              </h4>
               <div className="grid grid-cols-1 sm:grid-cols-2 gap-2.5 text-xs">
                 <a
                   href="https://cms.rbi.org.in"
@@ -1044,9 +1044,9 @@ export default function PNOEscalationHarassmentPage() {
 
             {/* 10 Related Guide Badges */}
             <section className="border-t border-slate-200 pt-8 mb-8">
-              <h3 className="text-xs sm:text-sm font-bold text-slate-900 mb-4 uppercase tracking-wider">
+              <h4 className="text-xs sm:text-sm font-bold text-slate-900 mb-4 uppercase tracking-wider">
                 Related Legal Defense &amp; Loan Resolution Guides
-              </h3>
+              </h4>
               <div className="flex flex-wrap gap-2">
                 <Link
                   href="/consumer-court-complaint-against-bank-harassment"

@@ -523,9 +523,9 @@ export default function BankOverdraftFacilitySettlementPage() {
 
             {/* Section 2: Statutory & Regulatory Framework */}
             <section id="statutory-regulatory-framework-rbi-norms" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                 2. RBI IRACP Norms, SARFAESI Limits &amp; Banker Lien Protections
-              </h2>
+              </h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Navigating an overdraft default requires an acute understanding of Indian banking jurisprudence, regulatory circulars issued by the Reserve Bank of India, and statutory civil safeguards. Commercial lenders frequently exploit borrower unfamiliarity with banking regulations to deploy aggressive recovery tactics. However, Indian statutory frameworks provide robust legal protections that govern delinquent overdraft credit facilities.
               </p>
@@ -585,9 +585,9 @@ export default function BankOverdraftFacilitySettlementPage() {
 
             {/* Section 3: Danger of Default & Compounding Penalties */}
             <section id="danger-of-compounding-penalties-frozen-accounts" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                 3. Compounding Interest, Account Freezes &amp; Recovery Risks
-              </h2>
+              </h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 When a borrower ignores an irregular overdraft account or attempts to manage the default by making sporadic, insufficient token payments, the compounding mechanics of the banking ledger create severe operational paralysis. Because overdrafts do not have fixed EMI dates, interest continues to accrue daily against the peak ledger balance.
               </p>
@@ -631,9 +631,9 @@ export default function BankOverdraftFacilitySettlementPage() {
 
             {/* Section 4: Bank Accounting, NPA Provisioning & NPV Recovery Formula */}
             <section id="bank-accounting-npa-provisioning-npv-formula" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                 4. Balance Sheet NPA Provisioning &amp; NPV Recovery Formula
-              </h2>
+              </h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Securing a deep 45% to 65% principal haircut on an overdraft facility requires understanding the economic motivations of commercial bank credit committees. Indian commercial banks do not view delinquent debt through emotional lenses; their decisions are strictly governed by RBI balance sheet provisioning mandates and mathematical recovery models.
               </p>
@@ -705,9 +705,9 @@ export default function BankOverdraftFacilitySettlementPage() {
 
             {/* Section 5: Infographic Banner */}
             <section id="overdraft-settlement-visual-roadmap" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                 5. Bank Overdraft Facility Settlement Visual Roadmap
-              </h2>
+              </h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 The visual roadmap below illustrates the structured 5-stage institutional progression. It guides you from initial OD account irregularity and interest freezing to forensic auditing, advocate-led zonal negotiations, official OTS sanction issuance, and final RBI No Dues Certificate delivery with credit bureau restoration.
               </p>
@@ -742,9 +742,9 @@ export default function BankOverdraftFacilitySettlementPage() {
 
             {/* Section 6: Advocate-Led Negotiation Strategy */}
             <section id="advocate-led-negotiation-strategy-ots" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                 6. Strategic Legal Defense &amp; Converting Irregular OD to OTS
-              </h2>
+              </h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Attempting to negotiate an overdraft settlement independently often results in frustration. Branch managers lack the discretionary authority to sanction significant principal haircuts, while outsourced recovery agencies earn commissions based on maximum collection, intentionally keeping borrowers trapped in cycles of token payments.
               </p>
@@ -754,25 +754,25 @@ export default function BankOverdraftFacilitySettlementPage() {
 
               <div className="space-y-3 my-4">
                 <div className="p-4 rounded-xl border-l-4 border-blue-600 bg-slate-50 space-y-1">
-                  <h3 className="font-bold text-slate-900 text-xs sm:text-sm">Phase 1: Legal Representation &amp; Cease-and-Desist Defense</h3>
+                  <h4 className="font-bold text-slate-900 text-xs sm:text-sm">Phase 1: Legal Representation &amp; Cease-and-Desist Defense</h4>
                   <p className="text-xs text-slate-600 leading-relaxed">
                     Advocates serve a formal Notice of Representation on the bank&apos;s Zonal Head and Legal Recovery Cell. This notice invokes the <strong>RBI Fair Practices Code</strong>, halts unlawful recovery agent harassment at your commercial premises or residence, challenges illegal banker lien freezes, and establishes a formal legal channel for all future communications.
                   </p>
                 </div>
                 <div className="p-4 rounded-xl border-l-4 border-indigo-600 bg-slate-50 space-y-1">
-                  <h4 className="font-bold text-slate-900 text-xs sm:text-sm">Phase 2: Forensic Ledger Audit &amp; Penal Charge Dissection</h4>
+                  <h5 className="font-bold text-slate-900 text-xs sm:text-sm">Phase 2: Forensic Ledger Audit &amp; Penal Charge Dissection</h5>
                   <p className="text-xs text-slate-600 leading-relaxed">
                     Our financial experts conduct a thorough audit of the overdraft statement of account from inception. We isolate the core drawn principal, dispute unauthorized commitment charges, penal compounding, and renewal inspection fees, establishing the true baseline debt figure for settlement discussions.
                   </p>
                 </div>
                 <div className="p-4 rounded-xl border-l-4 border-purple-600 bg-slate-50 space-y-1">
-                  <h4 className="font-bold text-slate-900 text-xs sm:text-sm">Phase 3: Hardship Dossier Submission to Stressed Asset Desks</h4>
+                  <h5 className="font-bold text-slate-900 text-xs sm:text-sm">Phase 3: Hardship Dossier Submission to Stressed Asset Desks</h5>
                   <p className="text-xs text-slate-600 leading-relaxed">
                     We bypass local branch personnel to engage the bank&apos;s <strong>Stressed Assets Resolution Branch (SARB/SAMB)</strong> or Zonal Settlement Committee. We present an unassailable hardship dossier—including audited profit and loss statements, GST return dips, business closure affidavits, or medical proofs—substantiating a permanent diminution in debt-servicing capacity.
                   </p>
                 </div>
                 <div className="p-4 rounded-xl border-l-4 border-amber-600 bg-slate-50 space-y-1">
-                  <h4 className="font-bold text-slate-900 text-xs sm:text-sm">Phase 4: Compromise Terms Structuring &amp; Lok Adalat Conciliation</h4>
+                  <h5 className="font-bold text-slate-900 text-xs sm:text-sm">Phase 4: Compromise Terms Structuring &amp; Lok Adalat Conciliation</h5>
                   <p className="text-xs text-slate-600 leading-relaxed">
                     Advocates structure an aggressive OTS proposal offering 35% to 55% of the verified principal, payable in a lump sum or structured across 2 to 4 monthly tranches. Where appropriate, we refer the compromise agreement to the <strong>National Lok Adalat</strong>, obtaining a formal decree that completely shields the borrower against future litigation.
                   </p>
@@ -786,9 +786,9 @@ export default function BankOverdraftFacilitySettlementPage() {
 
             {/* Section 7: Sanction Letter Forensics */}
             <section id="sanction-letter-forensics-legal-finality" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                 7. Forensic Checklist for Watertight OD Sanction Letters
-              </h2>
+              </h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 A critical phase in the overdraft settlement process is the forensic verification of the One-Time Settlement Sanction Letter. Delinquent borrowers are frequently targeted by rogue recovery agents who issue fabricated &quot;settlement approval emails&quot; or verbal promises to extract partial payments. Remitting funds without a genuine, bank-authorized sanction letter leaves your overdraft facility open and accumulating interest.
               </p>
@@ -848,9 +848,9 @@ export default function BankOverdraftFacilitySettlementPage() {
 
             {/* Section 8: Remittance, RBI NDC Mandate & CIBIL Recovery */}
             <section id="remittance-rbi-ndc-mandate-cibil-recovery" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                 8. Settlement Remittance, RBI ₹0 NDC Mandate &amp; CIBIL Recovery
-              </h2>
+              </h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">Executing the financial settlement by remitting the agreed compromised amount represents a major victory. However, the debt resolution process is complete only when the account is legally closed and credit bureau records reflect zero outstanding liability.</p>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Under <strong>RBI Circular RBI/2023-24/60</strong> (Responsible Lending Conduct – Release of Movable/Immovable Property Documents and Issuance of NDC), all commercial banks, urban cooperative banks, and NBFCs are statutorily bound by strict timelines:
@@ -866,9 +866,9 @@ export default function BankOverdraftFacilitySettlementPage() {
                 </p>
               </div>
 
-              <h3 className="text-base sm:text-lg font-bold text-slate-900 pt-2">
+              <h4 className="text-base sm:text-lg font-bold text-slate-900 pt-2">
                 Navigating Credit Bureau Reporting &amp; Score Rehabilitation
-              </h3>
+              </h4>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Understanding how an overdraft settlement is reflected across credit bureaus is crucial for future financial planning:
               </p>
@@ -894,9 +894,9 @@ export default function BankOverdraftFacilitySettlementPage() {
 
             {/* Section 9: Overdraft Resolution Comparative Matrix */}
             <section id="overdraft-resolution-comparative-matrix" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                 9. Overdraft Resolution Comparative Strategy Matrix
-              </h2>
+              </h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Evaluating the key institutional pathways available to resolve a delinquent bank overdraft facility enables borrowers and business owners to select the most financially prudent strategy:
               </p>
@@ -949,9 +949,9 @@ export default function BankOverdraftFacilitySettlementPage() {
             {/* Section 10: SettleLoans Legal Defense & Advisory + CompanySection */}
             <section id="company-resolution-section" className="space-y-6">
               <div className="border-t border-slate-200 pt-8 space-y-4">
-                <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
+                <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                   10. SettleLoans Legal Defense &amp; Overdraft Debt Advisory
-                </h2>
+                </h3>
                 <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                   Resolving a delinquent overdraft facility requires specialized legal advocates. Counsel must understand commercial banking operations, RBI directives, and stressed asset protocols. SettleLoans represents business owners and individuals across India. We issue formal notices, challenge unlawful banker liens, and conduct forensic ledger audits. Furthermore, we negotiate directly with bank zonal authorities to secure maximum lawful debt waivers backed by bank-stamped No Dues Certificates.
                 </p>
@@ -965,9 +965,9 @@ export default function BankOverdraftFacilitySettlementPage() {
             <section id="faqs" className="space-y-4 border-t border-slate-200 pt-8">
               <div className="flex items-center gap-2 mb-2">
                 <HelpCircle className="w-5 h-5 text-[#1F5EFF]" />
-                <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
+                <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                   11. Frequently Asked Questions: Bank Overdraft Facility Settlement
-                </h2>
+                </h3>
               </div>
               <p className="text-xs sm:text-sm text-slate-600 mb-6">
                 Direct, legally verified answers to essential questions regarding bank overdraft loan settlements, dropline facility closures, and borrower protections in India.
@@ -997,9 +997,9 @@ export default function BankOverdraftFacilitySettlementPage() {
 
             {/* 5 Official Regulatory Links */}
             <section className="border-t border-slate-200 pt-8 mb-4">
-              <h3 className="text-xs sm:text-sm font-bold text-slate-900 mb-3 uppercase tracking-wider">
+              <h4 className="text-xs sm:text-sm font-bold text-slate-900 mb-3 uppercase tracking-wider">
                 Official Statutory &amp; Regulatory References
-              </h3>
+              </h4>
               <div className="grid grid-cols-1 sm:grid-cols-2 gap-2.5 text-xs">
                 <a
                   href="https://www.rbi.org.in"
@@ -1051,9 +1051,9 @@ export default function BankOverdraftFacilitySettlementPage() {
 
             {/* 10 Related Guide Badges */}
             <section className="border-t border-slate-200 pt-8 mb-8">
-              <h3 className="text-xs sm:text-sm font-bold text-slate-900 mb-4 uppercase tracking-wider">
+              <h4 className="text-xs sm:text-sm font-bold text-slate-900 mb-4 uppercase tracking-wider">
                 Related Working Capital &amp; Debt Resolution Guides
-              </h3>
+              </h4>
               <div className="flex flex-wrap gap-2">
                 <Link
                   href="/bank-one-time-settlement-ots-policy"

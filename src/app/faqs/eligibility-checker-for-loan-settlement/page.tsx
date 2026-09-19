@@ -223,37 +223,37 @@ export default function EligibilityCheckerPage() {
 
           {/* Section 2: The Core 4 Criteria */}
           <section id="checklist" className="scroll-mt-32 mb-12">
-            <h2 className="text-2xl md:text-3xl font-black text-[#2E2E2E] mb-6">
+            <h3 className="text-2xl md:text-3xl font-black text-[#2E2E2E] mb-6">
               The 4 Core Eligibility Pillars
-            </h2>
+            </h3>
             <p className="mb-6">
               For a bank to consider your file for a One Time Settlement (OTS), you generally need to meet these four conditions. If you miss even one, your application is likely to be rejected.
             </p>
              <div className="grid sm:grid-cols-2 gap-6 my-8">
               <div className="bg-white p-6 rounded-xl border border-blue-100 shadow-sm relative group hover:-translate-y-1 transition-transform duration-300">
                 <div className="w-12 h-12 rounded-full bg-blue-50 text-blue-600 flex items-center justify-center font-bold text-xl mb-4 group-hover:bg-blue-600 group-hover:text-white transition-colors">1</div>
-                <h3 className="text-xl font-bold text-[var(--color-text-hero)] mb-3">Genuine Financial Hardship</h3>
+                <h4 className="text-xl font-bold text-[var(--color-text-hero)] mb-3">Genuine Financial Hardship</h4>
                 <p className="text-gray-600 text-sm leading-relaxed">
                   You must prove a specific event caused your income loss. Examples include Job Loss, Medical Emergency, Business Collapse, or Death of an earning member. Vague reasons like "expenses increased" are not accepted.
                 </p>
               </div>
               <div className="bg-white p-6 rounded-xl border border-purple-100 shadow-sm relative group hover:-translate-y-1 transition-transform duration-300">
                 <div className="w-12 h-12 rounded-full bg-purple-50 text-purple-600 flex items-center justify-center font-bold text-xl mb-4 group-hover:bg-purple-600 group-hover:text-white transition-colors">2</div>
-                <h3 className="text-xl font-bold text-[var(--color-text-hero)] mb-3">Minimum Delinquency</h3>
+                <h4 className="text-xl font-bold text-[var(--color-text-hero)] mb-3">Minimum Delinquency</h4>
                 <p className="text-gray-600 text-sm leading-relaxed">
                   You typically need to be unpaid for at least 90 days (3 months). This classifies your account as an NPA (Non Performing Asset). Banks rarely settle "Standard" accounts because they still hope you will pay.
                 </p>
               </div>
                <div className="bg-white p-6 rounded-xl border border-green-100 shadow-sm relative group hover:-translate-y-1 transition-transform duration-300">
                 <div className="w-12 h-12 rounded-full bg-green-50 text-green-600 flex items-center justify-center font-bold text-xl mb-4 group-hover:bg-green-600 group-hover:text-white transition-colors">3</div>
-                <h3 className="text-xl font-bold text-[var(--color-text-hero)] mb-3">Unsecured Debt Type</h3>
+                <h4 className="text-xl font-bold text-[var(--color-text-hero)] mb-3">Unsecured Debt Type</h4>
                 <p className="text-gray-600 text-sm leading-relaxed">
                   Settlement is primarily for Personal Loans, Credit Cards, and Consumer Loans. Secured loans (Home/Car/Gold) are usually ineligible because the bank prefers to seize and auction the asset instead.
                 </p>
               </div>
                <div className="bg-white p-6 rounded-xl border border-orange-100 shadow-sm relative group hover:-translate-y-1 transition-transform duration-300">
                 <div className="w-12 h-12 rounded-full bg-orange-50 text-orange-600 flex items-center justify-center font-bold text-xl mb-4 group-hover:bg-orange-600 group-hover:text-white transition-colors">4</div>
-                <h3 className="text-xl font-bold text-[var(--color-text-hero)] mb-3">Repayment Capacity</h3>
+                <h4 className="text-xl font-bold text-[var(--color-text-hero)] mb-3">Repayment Capacity</h4>
                 <p className="text-gray-600 text-sm leading-relaxed">
                   You need to have *some* money. Settlement is a lump sum deal. You need typically 30% to 50% of the principal amount ready to offer the bank to close the deal instantly.
                 </p>
@@ -263,14 +263,14 @@ export default function EligibilityCheckerPage() {
 
           {/* Section 3: NPA Status Rules */}
           <section id="npa-status" className="scroll-mt-32 mb-12">
-             <h2 className="text-2xl md:text-3xl font-black text-[#2E2E2E] mb-6">
+             <h3 className="text-2xl md:text-3xl font-black text-[#2E2E2E] mb-6">
               The Critical Timeline: NPA & SMA Classifications
-            </h2>
+            </h3>
              <p className="text-lg mb-6">
                 Many borrowers ask, "Can I settle after missing just one EMI?" The answer is generally no. Understanding the RBI mandated timeline is crucial to knowing when your "Settlement Window" opens.
              </p>
             <div className="bg-gray-50 p-6 rounded-xl border border-gray-200 mb-8">
-              <h3 className="font-bold text-gray-900 mb-2">The Danger Zone</h3>
+              <h4 className="font-bold text-gray-900 mb-2">The Danger Zone</h4>
               <p className="text-gray-600 leading-relaxed text-sm">
                  Banks follow a strict timeline known as SMA (Special Mention Account) before tagging you as an NPA. Settlement usually becomes a viable discussion only after you cross the 90 day mark.
               </p>
@@ -281,10 +281,10 @@ export default function EligibilityCheckerPage() {
                 <div className="relative">
                   <span className="absolute -left-[9px] top-1 w-4 h-4 rounded-full bg-green-500 border-2 border-white"></span>
                   <div className="bg-white p-4 rounded-lg border border-gray-100 shadow-sm">
-                      <h4 className="font-bold text-lg text-gray-800 flex justify-between">
+                      <h5 className="font-bold text-lg text-gray-800 flex justify-between">
                           Days 1-30: SMA 0
                           <span className="text-xs font-normal text-white bg-green-500 px-2 py-1 rounded-full">Standard Asset</span>
-                      </h4>
+                      </h5>
                       <p className="text-sm text-gray-500 mt-2">
                           <strong>Status:</strong> Just a late payment.
                           <br/>
@@ -299,10 +299,10 @@ export default function EligibilityCheckerPage() {
                 <div className="relative">
                   <span className="absolute -left-[9px] top-1 w-4 h-4 rounded-full bg-yellow-400 border-2 border-white"></span>
                    <div className="bg-white p-4 rounded-lg border border-gray-100 shadow-sm">
-                      <h4 className="font-bold text-lg text-gray-800 flex justify-between">
+                      <h5 className="font-bold text-lg text-gray-800 flex justify-between">
                           Days 31-60: SMA 1
                           <span className="text-xs font-normal text-gray-800 bg-yellow-400 px-2 py-1 rounded-full">Stress Signs</span>
-                      </h4>
+                      </h5>
                       <p className="text-sm text-gray-500 mt-2">
                           <strong>Status:</strong> Early delinquency.
                           <br/>
@@ -317,10 +317,10 @@ export default function EligibilityCheckerPage() {
                  <div className="relative">
                   <span className="absolute -left-[9px] top-1 w-4 h-4 rounded-full bg-orange-500 border-2 border-white"></span>
                    <div className="bg-white p-4 rounded-lg border border-gray-100 shadow-sm">
-                      <h4 className="font-bold text-lg text-gray-800 flex justify-between">
+                      <h5 className="font-bold text-lg text-gray-800 flex justify-between">
                           Days 61-90: SMA 2
                           <span className="text-xs font-normal text-white bg-orange-500 px-2 py-1 rounded-full">Critical</span>
-                      </h4>
+                      </h5>
                       <p className="text-sm text-gray-500 mt-2">
                           <strong>Status:</strong> Critical delinquency.
                           <br/>
@@ -335,10 +335,10 @@ export default function EligibilityCheckerPage() {
                  <div className="relative">
                   <span className="absolute -left-[9px] top-1 w-4 h-4 rounded-full bg-red-600 border-2 border-white animate-pulse"></span>
                    <div className="bg-white p-4 rounded-lg border border-red-100 shadow-md">
-                      <h4 className="font-bold text-lg text-red-700 flex justify-between">
+                      <h5 className="font-bold text-lg text-red-700 flex justify-between">
                           Day 90+: NPA
                           <span className="text-xs font-normal text-white bg-red-600 px-2 py-1 rounded-full">Bad Debt</span>
-                      </h4>
+                      </h5>
                       <p className="text-sm text-gray-500 mt-2">
                           <strong>Status:</strong> Non Performing Asset.
                           <br/>
@@ -353,9 +353,9 @@ export default function EligibilityCheckerPage() {
 
           {/* Section 4: Settlement vs Restructuring */}
           <section id="settlement-vs-restructuring" className="scroll-mt-32 mb-12">
-            <h2 className="text-2xl md:text-3xl font-black text-[#2E2E2E] mb-6">
+            <h3 className="text-2xl md:text-3xl font-black text-[#2E2E2E] mb-6">
               Am I Eligible for Settlement or Restructuring?
-            </h2>
+            </h3>
             <p className="mb-6">
                 Many potential clients confuse the two. Understanding the difference is vital for your financial future.
             </p>
@@ -401,15 +401,15 @@ export default function EligibilityCheckerPage() {
 
           {/* Section 5: Eligible Loan Types */}
           <section id="loan-types" className="scroll-mt-32 mb-12">
-            <h2 className="text-2xl md:text-3xl font-black text-[#2E2E2E] mb-6">
+            <h3 className="text-2xl md:text-3xl font-black text-[#2E2E2E] mb-6">
                Which Loans Categories Are Eligible?
-            </h2>
+            </h3>
             <div className="grid md:grid-cols-2 gap-4">
                 <div className="bg-green-50 p-6 rounded-xl border border-green-100">
-                    <h3 className="font-bold text-green-800 mb-4 flex items-center">
+                    <h4 className="font-bold text-green-800 mb-4 flex items-center">
                        <span className="w-6 h-6 rounded-full bg-green-200 mr-2 flex items-center justify-center text-xs">✓</span>
                        Eligible (Unsecured)
-                    </h3>
+                    </h4>
                     <ul className="space-y-3 text-green-900/80 font-medium text-sm">
                         <li className="flex items-start"><span className="mr-2">•</span> <strong>Personal Loans:</strong> Both from major banks (HDFC, ICICI, SBI) and NBFCs (Bajaj, Aditya Birla).</li>
                         <li className="flex items-start"><span className="mr-2">•</span> <strong>Credit Card Dues:</strong> One of the most common settled debts due to high interest rates.</li>
@@ -419,10 +419,10 @@ export default function EligibilityCheckerPage() {
                     </ul>
                 </div>
                 <div className="bg-red-50 p-6 rounded-xl border border-red-100">
-                    <h3 className="font-bold text-red-800 mb-4 flex items-center">
+                    <h4 className="font-bold text-red-800 mb-4 flex items-center">
                        <span className="w-6 h-6 rounded-full bg-red-200 mr-2 flex items-center justify-center text-xs">✕</span>
                        Ineligible (Secured)
-                    </h3>
+                    </h4>
                      <ul className="space-y-3 text-red-900/80 font-medium text-sm">
                         <li className="flex items-start"><span className="mr-2">•</span> <strong>Home Loans:</strong> The bank will initiate SARFAESI proceedings to auction your home.</li>
                         <li className="flex items-start"><span className="mr-2">•</span> <strong>Car / Auto Loans:</strong> The lender will repossess the vehicle.</li>
@@ -439,7 +439,7 @@ export default function EligibilityCheckerPage() {
 
           {/* Section 6: Self Assessment Quiz */}
           <section id="self-assessment" className="scroll-mt-32 mb-12">
-             <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">Self-Assessment Checklist</h2>
+             <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">Self-Assessment Checklist</h3>
              <p className="mb-6">
                Go through this list honestly. If you check more than 4 "Yes" boxes, you are a strong candidate for settlement.
              </p>
@@ -476,9 +476,9 @@ export default function EligibilityCheckerPage() {
 
           {/* Section 7: Documents Required */}
           <section id="documents" className="scroll-mt-32 mb-12">
-             <h2 className="text-2xl md:text-3xl font-black text-[#2E2E2E] mb-6">
+             <h3 className="text-2xl md:text-3xl font-black text-[#2E2E2E] mb-6">
               Documentation: The "Proof" of Eligibility
-            </h2>
+            </h3>
             <div className="bg-blue-50 p-8 rounded-2xl border border-blue-100">
                <p className="mb-6 text-blue-900">
                  You cannot just tell the bank you are broke; you must prove it. We help you build a "Hardship File" (Dossier) to present to the bank's credit committee.
@@ -487,7 +487,7 @@ export default function EligibilityCheckerPage() {
                <div className="space-y-6">
                    {/* Category 1 */}
                    <div>
-                       <h3 className="font-bold text-blue-800 border-b border-blue-200 pb-2 mb-3">1. Identity & Loan Proof</h3>
+                       <h4 className="font-bold text-blue-800 border-b border-blue-200 pb-2 mb-3">1. Identity & Loan Proof</h4>
                        <ul className="grid sm:grid-cols-2 gap-2 text-sm text-gray-700">
                            <li className="flex items-center"><span className="w-2 h-2 bg-blue-400 rounded-full mr-2"></span>PAN Card & Aadhaar Card</li>
                            <li className="flex items-center"><span className="w-2 h-2 bg-blue-400 rounded-full mr-2"></span>Original Loan Term Sheet</li>
@@ -498,7 +498,7 @@ export default function EligibilityCheckerPage() {
 
                    {/* Category 2 */}
                    <div>
-                       <h4 className="font-bold text-blue-800 border-b border-blue-200 pb-2 mb-3">2. Hardship Proof (Mandatory)</h4>
+                       <h5 className="font-bold text-blue-800 border-b border-blue-200 pb-2 mb-3">2. Hardship Proof (Mandatory)</h5>
                        <ul className="grid sm:grid-cols-2 gap-2 text-sm text-gray-700">
                            <li className="flex items-center"><span className="w-2 h-2 bg-red-400 rounded-full mr-2"></span><strong>Job Loss:</strong> Termination/Resignation letter.</li>
                            <li className="flex items-center"><span className="w-2 h-2 bg-red-400 rounded-full mr-2"></span><strong>Pay Cut:</strong> Salary slips showing reduction.</li>
@@ -510,7 +510,7 @@ export default function EligibilityCheckerPage() {
 
                     {/* Category 3 */}
                    <div>
-                       <h4 className="font-bold text-blue-800 border-b border-blue-200 pb-2 mb-3">3. Documents We Get You (Post-Settlement)</h4>
+                       <h5 className="font-bold text-blue-800 border-b border-blue-200 pb-2 mb-3">3. Documents We Get You (Post-Settlement)</h5>
                        <ul className="grid sm:grid-cols-2 gap-2 text-sm text-gray-700">
                            <li className="flex items-center"><span className="w-2 h-2 bg-green-400 rounded-full mr-2"></span>Settlement Letter (on Bank Letterhead)</li>
                            <li className="flex items-center"><span className="w-2 h-2 bg-green-400 rounded-full mr-2"></span>No Dues Certificate (NDC)</li>
@@ -523,33 +523,33 @@ export default function EligibilityCheckerPage() {
 
           {/* Section 8: Disqualifications */}
           <section id="disqualifications" className="scroll-mt-32 mb-12">
-            <h2 className="text-2xl md:text-3xl font-black text-[#2E2E2E] mb-6">
+            <h3 className="text-2xl md:text-3xl font-black text-[#2E2E2E] mb-6">
               Who is NOT Eligible? (Disqualification Factors)
-            </h2>
+            </h3>
             <p className="mb-6">
                 Even if you are 90 days overdue, a bank may flatly refuse settlement if you fall into these categories. These are "Red Flags" for any credit manager.
             </p>
             <div className="space-y-4">
                <div className="bg-white p-5 rounded-lg border-l-4 border-red-500 shadow-sm">
-                  <h3 className="font-bold text-gray-900">1. The Wilful Defaulter</h3>
+                  <h4 className="font-bold text-gray-900">1. The Wilful Defaulter</h4>
                   <p className="text-sm text-gray-600 mt-1">
                      If the bank discovers you have the money (e.g., high bank balance, new expensive car purchase, frequent international travel) but choose not to pay, they will file a criminal case. Settlement is for the "Can't Pay", not the "Won't Pay".
                   </p>
                </div>
                <div className="bg-white p-5 rounded-lg border-l-4 border-red-500 shadow-sm">
-                  <h4 className="font-bold text-gray-900">2. Asset Holders</h4>
+                  <h5 className="font-bold text-gray-900">2. Asset Holders</h5>
                   <p className="text-sm text-gray-600 mt-1">
                      If you own multiple properties or liquid assets that the bank knows about, they will pressure you to liquidate those assets first. They check land records and other databases.
                   </p>
                </div>
                <div className="bg-white p-5 rounded-lg border-l-4 border-red-500 shadow-sm">
-                  <h4 className="font-bold text-gray-900">3. Fraudulent Documents</h4>
+                  <h5 className="font-bold text-gray-900">3. Fraudulent Documents</h5>
                   <p className="text-sm text-gray-600 mt-1">
                      If your original loan application contained fake salary slips, forged IT returns, or fake address proof, settlement is off the table. You may face fraud charges under IPC sections.
                   </p>
                </div>
                <div className="bg-white p-5 rounded-lg border-l-4 border-red-500 shadow-sm">
-                  <h4 className="font-bold text-gray-900">4. Guarantor Availability</h4>
+                  <h5 className="font-bold text-gray-900">4. Guarantor Availability</h5>
                   <p className="text-sm text-gray-600 mt-1">
                      If you have a solvent guarantor for your loan, the bank will simply pursue them for the full amount instead of settling with you.
                   </p>
@@ -560,41 +560,41 @@ export default function EligibilityCheckerPage() {
 
            {/* Section 9: The Process */}
           <section id="process-overview" className="scroll-mt-32 mb-12">
-            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">The Eligibility to Closure Journey</h2>
+            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">The Eligibility to Closure Journey</h3>
             
             <div className="mb-12">
-               <h3 className="text-xl font-bold text-[var(--color-text-hero)] mb-6">Step-by-Step Overview</h3>
+               <h4 className="text-xl font-bold text-[var(--color-text-hero)] mb-6">Step-by-Step Overview</h4>
                <div className="relative pl-8 border-l-2 border-[var(--color-primary)]/20 space-y-8">
                 <div className="relative">
                   <span className="absolute -left-[9px] top-0 w-4 h-4 rounded-full bg-[var(--color-primary)]"></span>
-                  <h4 className="font-bold text-lg">1. Free Assessment</h4>
+                  <h5 className="font-bold text-lg">1. Free Assessment</h5>
                   <p className="text-sm text-gray-600">You check your eligibility using tools like this or by talking to our experts to verify if your case is strong.</p>
                 </div>
                 <div className="relative">
                   <span className="absolute -left-[9px] top-0 w-4 h-4 rounded-full bg-[var(--color-primary)]"></span>
-                  <h4 className="font-bold text-lg">2. Representation</h4>
+                  <h5 className="font-bold text-lg">2. Representation</h5>
                   <p className="text-sm text-gray-600">We send a "Representation Letter" to the bank, officially informing them of your hardship and intent to settle. This legally documents your situation.</p>
                 </div>
                 <div className="relative">
                   <span className="absolute -left-[9px] top-0 w-4 h-4 rounded-full bg-[var(--color-primary)]"></span>
-                  <h4 className="font-bold text-lg">3. Anti-Harassment Protocol</h4>
+                  <h5 className="font-bold text-lg">3. Anti-Harassment Protocol</h5>
                   <p className="text-sm text-gray-600">While the loan ages to 90 days (NPA), our legal team handles recovery calls to ensure you are not harassed.</p>
                 </div>
                 <div className="relative">
                   <span className="absolute -left-[9px] top-0 w-4 h-4 rounded-full bg-[var(--color-primary)]"></span>
-                  <h4 className="font-bold text-lg">4. Negotiation Table</h4>
+                  <h5 className="font-bold text-lg">4. Negotiation Table</h5>
                   <p className="text-sm text-gray-600">Once NPA, we negotiate. We leverage your hardship proofs to bring the demand down from 100% to 30-50%.</p>
                 </div>
                 <div className="relative">
                   <span className="absolute -left-[9px] top-0 w-4 h-4 rounded-full bg-[var(--color-primary)]"></span>
-                  <h4 className="font-bold text-lg">5. Settlement Letter & Closure</h4>
+                  <h5 className="font-bold text-lg">5. Settlement Letter & Closure</h5>
                   <p className="text-sm text-gray-600">Bank issues an official letter. You pay the agreed amount. Account closed.</p>
                 </div>
               </div>
             </div>
             
             <div className="bg-white rounded-2xl p-8 border border-[var(--color-border)] text-center">
-              <h3 className="text-2xl font-bold text-black mb-4">Ready to Check Your Status?</h3>
+              <h4 className="text-2xl font-bold text-black mb-4">Ready to Check Your Status?</h4>
               <p className="text-gray-600 mb-8 max-w-2xl mx-auto text-lg">
                 Don't guess. Banks have complex internal scoring for settlements. Let our experts analyze your portfolio for free.
               </p>
@@ -617,7 +617,7 @@ export default function EligibilityCheckerPage() {
 
           {/* Section 10: FAQs */}
           <section id="faqs" className="scroll-mt-32 mb-12">
-            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Frequently Asked Questions</h2>
+            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Frequently Asked Questions</h3>
             <div className="space-y-4 not-prose">
               {[
                 { 
@@ -680,7 +680,7 @@ export default function EligibilityCheckerPage() {
           <div className="lg:hidden mt-16 mb-8">
             <div className="bg-[#2E2E2E] rounded-2xl shadow-xl overflow-hidden border border-[#1F5EFF]/20">
               <div className="bg-[#1F5EFF] p-6 text-center text-white">
-                <h3 className="text-2xl font-black mb-2">Check My Status</h3>
+                <h4 className="text-2xl font-black mb-2">Check My Status</h4>
                 <p className="opacity-90 text-sm">Want a professional to review your portfolio for free?</p>
               </div>
               <div className="p-8 text-center text-[#DEDEDE]">

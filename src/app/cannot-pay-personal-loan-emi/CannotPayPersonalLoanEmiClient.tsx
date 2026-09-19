@@ -390,50 +390,50 @@ export default function CannotPayPersonalLoanEmiClient() {
               {/* Step by step cards */}
               <div className="space-y-4 my-6">
                 <div className="p-5 rounded-2xl bg-slate-50 border border-slate-200">
-                  <h3 className="font-bold text-slate-900 text-base mb-2 flex items-center gap-2">
+                  <h4 className="font-bold text-slate-900 text-base mb-2 flex items-center gap-2">
                     <span className="w-6 h-6 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center text-xs font-black">1</span>
                     Stop the Debt Spiral: Freeze All New Borrowing Immediately
-                  </h3>
+                  </h4>
                   <p className="text-sm text-slate-600 leading-relaxed">
                     Never take a fresh high-interest loan (especially peer-to-peer apps or instant NBFC micro-loans) to pay off an existing personal loan EMI. Rolling over debt at 36%–48% interest transforms a manageable ₹2 Lakh problem into an unpayable ₹10 Lakh catastrophe in 6 months.
                   </p>
                 </div>
 
                 <div className="p-5 rounded-2xl bg-slate-50 border border-slate-200">
-                  <h3 className="font-bold text-slate-900 text-base mb-2 flex items-center gap-2">
+                  <h4 className="font-bold text-slate-900 text-base mb-2 flex items-center gap-2">
                     <span className="w-6 h-6 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center text-xs font-black">2</span>
                     Ring-Fence Essential Survival Funds
-                  </h3>
+                  </h4>
                   <p className="text-sm text-slate-600 leading-relaxed">
                     Prioritize your hierarchy of expenses. Your family&apos;s food, house rent, children&apos;s school fees, utility bills, and critical medical insurance must always be protected before servicing unsecured loan EMIs. Banks cannot freeze your physical life.
                   </p>
                 </div>
 
                 <div className="p-5 rounded-2xl bg-slate-50 border border-slate-200">
-                  <h3 className="font-bold text-slate-900 text-base mb-2 flex items-center gap-2">
+                  <h4 className="font-bold text-slate-900 text-base mb-2 flex items-center gap-2">
                     <span className="w-6 h-6 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center text-xs font-black">3</span>
                     Send a Written Hardship Intimation to the Lender Before the Due Date
-                  </h3>
+                  </h4>
                   <p className="text-sm text-slate-600 leading-relaxed">
                     Proactive communication separates a genuine stressed borrower from a wilful defaulter. Send a registered email to your bank&apos;s customer care and Principal Nodal Officer stating your inability to pay next month&apos;s EMI due to verifiable hardship (e.g., termination letter, salary cut slip, hospital bills).
                   </p>
                 </div>
 
                 <div className="p-5 rounded-2xl bg-slate-50 border border-slate-200">
-                  <h3 className="font-bold text-slate-900 text-base mb-2 flex items-center gap-2">
+                  <h4 className="font-bold text-slate-900 text-base mb-2 flex items-center gap-2">
                     <span className="w-6 h-6 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center text-xs font-black">4</span>
                     Revoke NACH / e-Mandate or Maintain Separate Operating Accounts
-                  </h3>
+                  </h4>
                   <p className="text-sm text-slate-600 leading-relaxed">
                     When an EMI bounces, banks repeatedly attempt auto-debit sweeps, slapping ₹500–₹1,000 bounce fees on every attempt and wiping out whatever small savings you have left for groceries. Request an e-mandate cancellation or shift your essential survival cash to a separate bank account where you have no credit lines.
                   </p>
                 </div>
 
                 <div className="p-5 rounded-2xl bg-slate-50 border border-slate-200">
-                  <h3 className="font-bold text-slate-900 text-base mb-2 flex items-center gap-2">
+                  <h4 className="font-bold text-slate-900 text-base mb-2 flex items-center gap-2">
                     <span className="w-6 h-6 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center text-xs font-black">5</span>
                     Engage an Empaneled Legal Debt Relief Advocate
-                  </h3>
+                  </h4>
                   <p className="text-sm text-slate-600 leading-relaxed">
                     Engaging a legal debt advisory team like SettleLoans ensures all bank notices, Section 138/25 summons, and recovery agent communications are channeled through formal legal representation under the RBI Fair Practices Code.
                   </p>
@@ -443,18 +443,18 @@ export default function CannotPayPersonalLoanEmiClient() {
 
             {/* Section 2: Legal Myths vs Reality */}
             <section id="default-myths-vs-reality" className="scroll-mt-28 mb-14">
-              <h2 className="text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
+              <h3 className="text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
                 2. Can You Go to Jail? Dispelling 5 Big Loan Default Myths
-              </h2>
+              </h3>
               <p className="text-base leading-relaxed mb-5 text-slate-700">
                 Third-party recovery agencies routinely exploit borrowers&apos; legal ignorance to induce panic, threatening police raids, criminal FIRs, and instant asset forfeiture. Let us examine the statutory legal reality established under Indian law and Supreme Court jurisprudence:
               </p>
 
               {/* Comparison Table 1 */}
               <div className="my-8">
-                <h3 className="text-lg md:text-xl font-bold text-slate-900 mb-3">
+                <h4 className="text-lg md:text-xl font-bold text-slate-900 mb-3">
                   Legal Reality Check: Recovery Agent Threats vs. Actual Indian Law
-                </h3>
+                </h4>
                 <div className="overflow-x-auto">
                   <table>
                     <thead>
@@ -504,9 +504,9 @@ export default function CannotPayPersonalLoanEmiClient() {
 
             {/* Section 3: The 30-to-180-Day Timeline */}
             <section id="bank-recovery-timeline" className="scroll-mt-28 mb-14">
-              <h2 className="text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
+              <h3 className="text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
                 3. The 30-to-180-Day Chronology
-              </h2>
+              </h3>
               <p className="text-base leading-relaxed mb-5 text-slate-700">
                 Understanding the bank&apos;s internal operational lifecycle removes the fear of the unknown. When you miss consecutive EMIs, your loan moves through strictly defined regulatory categories established by the Reserve Bank of India:
               </p>
@@ -515,10 +515,10 @@ export default function CannotPayPersonalLoanEmiClient() {
               <div className="space-y-4 my-6">
                 <div className="p-5 rounded-2xl bg-white border border-slate-200 shadow-sm">
                   <div className="flex items-center justify-between mb-2">
-                    <h3 className="font-bold text-slate-900 text-base flex items-center gap-2">
+                    <h4 className="font-bold text-slate-900 text-base flex items-center gap-2">
                       <Clock className="w-5 h-5 text-[#1F5EFF]" />
                       Days 1 – 30: SMA-0 (Special Mention Account - 0)
-                    </h3>
+                    </h4>
                     <span className="text-xs bg-blue-100 text-[#1F5EFF] font-bold px-2.5 py-1 rounded-full">Stage 1</span>
                   </div>
                   <p className="text-sm text-slate-600 leading-relaxed">
@@ -528,10 +528,10 @@ export default function CannotPayPersonalLoanEmiClient() {
 
                 <div className="p-5 rounded-2xl bg-white border border-slate-200 shadow-sm">
                   <div className="flex items-center justify-between mb-2">
-                    <h3 className="font-bold text-slate-900 text-base flex items-center gap-2">
+                    <h4 className="font-bold text-slate-900 text-base flex items-center gap-2">
                       <AlertTriangle className="w-5 h-5 text-amber-500" />
                       Days 31 – 60: SMA-1 (Special Mention Account - 1)
-                    </h3>
+                    </h4>
                     <span className="text-xs bg-amber-100 text-amber-700 font-bold px-2.5 py-1 rounded-full">Stage 2</span>
                   </div>
                   <p className="text-sm text-slate-600 leading-relaxed">
@@ -541,10 +541,10 @@ export default function CannotPayPersonalLoanEmiClient() {
 
                 <div className="p-5 rounded-2xl bg-white border border-slate-200 shadow-sm">
                   <div className="flex items-center justify-between mb-2">
-                    <h3 className="font-bold text-slate-900 text-base flex items-center gap-2">
+                    <h4 className="font-bold text-slate-900 text-base flex items-center gap-2">
                       <BadgeAlert className="w-5 h-5 text-orange-600" />
                       Days 61 – 90: SMA-2 (Special Mention Account - 2)
-                    </h3>
+                    </h4>
                     <span className="text-xs bg-orange-100 text-orange-700 font-bold px-2.5 py-1 rounded-full">Stage 3</span>
                   </div>
                   <p className="text-sm text-slate-600 leading-relaxed">
@@ -554,10 +554,10 @@ export default function CannotPayPersonalLoanEmiClient() {
 
                 <div className="p-5 rounded-2xl bg-white border border-slate-200 shadow-sm">
                   <div className="flex items-center justify-between mb-2">
-                    <h3 className="font-bold text-slate-900 text-base flex items-center gap-2">
+                    <h4 className="font-bold text-slate-900 text-base flex items-center gap-2">
                       <ShieldAlert className="w-5 h-5 text-rose-600" />
                       Day 91+: NPA Classification (Non-Performing Asset)
-                    </h3>
+                    </h4>
                     <span className="text-xs bg-rose-100 text-rose-700 font-bold px-2.5 py-1 rounded-full">Stage 4</span>
                   </div>
                   <p className="text-sm text-slate-600 leading-relaxed">
@@ -567,10 +567,10 @@ export default function CannotPayPersonalLoanEmiClient() {
 
                 <div className="p-5 rounded-2xl bg-white border border-slate-200 shadow-sm">
                   <div className="flex items-center justify-between mb-2">
-                    <h3 className="font-bold text-slate-900 text-base flex items-center gap-2">
+                    <h4 className="font-bold text-slate-900 text-base flex items-center gap-2">
                       <Gavel className="w-5 h-5 text-purple-600" />
                       Days 91 – 180+: Legal Notices, Lok Adalat &amp; Settlement Window
-                    </h3>
+                    </h4>
                     <span className="text-xs bg-purple-100 text-purple-700 font-bold px-2.5 py-1 rounded-full">Stage 5</span>
                   </div>
                   <p className="text-sm text-slate-600 leading-relaxed">
@@ -582,18 +582,18 @@ export default function CannotPayPersonalLoanEmiClient() {
 
             {/* Section 4: Relief Options Matrix */}
             <section id="relief-options-matrix" className="scroll-mt-28 mb-14">
-              <h2 className="text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
+              <h3 className="text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
                 4. All Viable Relief Options Explored
-              </h2>
+              </h3>
               <p className="text-base leading-relaxed mb-5 text-slate-700">
                 Depending on whether your cash flow disruption is temporary (e.g., 3-month transition between jobs) or permanent (e.g., severe disability, permanent business closure), you have distinct financial and legal remedies available:
               </p>
 
               {/* Comparison Table 2 */}
               <div className="my-8">
-                <h3 className="text-lg md:text-xl font-bold text-slate-900 mb-3">
+                <h4 className="text-lg md:text-xl font-bold text-slate-900 mb-3">
                   Comprehensive Evaluation of Personal Loan Relief Pathways
-                </h3>
+                </h4>
                 <div className="overflow-x-auto">
                   <table>
                     <thead>
@@ -641,10 +641,10 @@ export default function CannotPayPersonalLoanEmiClient() {
 
               {/* Sample Hardship Letter Box */}
               <div className="bg-slate-50 border border-slate-300 rounded-2xl p-6 my-8">
-                <h4 className="font-bold text-slate-900 text-base mb-3 flex items-center gap-2">
+                <h5 className="font-bold text-slate-900 text-base mb-3 flex items-center gap-2">
                   <FileText className="w-5 h-5 text-[#1F5EFF]" />
                   Official Template: Hardship Intimation Letter to Bank Nodal Officer
-                </h4>
+                </h5>
                 <div className="bg-white p-5 rounded-xl border border-slate-200 text-xs md:text-sm font-mono text-slate-700 space-y-3 leading-relaxed">
                   <p><strong>To:</strong> The Principal Nodal Officer / Branch Manager, [Bank Name]</p>
                   <p><strong>Subject:</strong> Formal Intimation of Financial Hardship &amp; Request for Loan Restructuring / Moratorium — Loan A/C: [Your Loan Account Number]</p>
@@ -674,9 +674,9 @@ export default function CannotPayPersonalLoanEmiClient() {
                     <span className="text-[10px] font-black uppercase tracking-widest text-blue-300 block">
                       Emergency Crisis Framework
                     </span>
-                    <h3 className="text-sm md:text-base font-black text-white leading-tight">
+                    <h4 className="text-sm md:text-base font-black text-white leading-tight">
                       Cannot Pay Personal Loan EMI? 5-Step Crisis Roadmap
-                    </h3>
+                    </h4>
                   </div>
                 </div>
                 <a
@@ -718,19 +718,19 @@ export default function CannotPayPersonalLoanEmiClient() {
 
             {/* Section 5: Anti-Harassment Rights */}
             <section id="anti-harassment-rights" className="scroll-mt-28 mb-14">
-              <h2 className="text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
+              <h3 className="text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
                 5. How to Legally Stop Recovery Agent Harassment
-              </h2>
+              </h3>
               <p className="text-base leading-relaxed mb-5 text-slate-700">
                 When an EMI is overdue by more than 30 days, aggressive third-party collection agencies often resort to unlawful, intimidating tactics. The Reserve Bank of India (RBI) has enacted stringent directives to protect borrower dignity. Any breach by recovery agents is an actionable offense.
               </p>
 
               {/* Prohibited actions list */}
               <div className="bg-rose-50 border-l-4 border-rose-500 p-6 rounded-r-2xl my-6 space-y-3">
-                <h3 className="font-bold text-rose-900 text-base flex items-center gap-2">
+                <h4 className="font-bold text-rose-900 text-base flex items-center gap-2">
                   <AlertCircle className="w-5 h-5 text-rose-600" />
                   ACTIONS STRICTLY ILLEGAL UNDER RBI GUIDELINES (Circular RBI/2022-23/108):
-                </h3>
+                </h4>
                 <ul className="text-sm text-rose-800 space-y-2 list-disc list-inside">
                   <li>Calling borrowers before 8:00 AM or after 7:00 PM in the evening.</li>
                   <li>Calling friends, relatives, neighbours, or workplace colleagues regarding your debt.</li>
@@ -741,9 +741,9 @@ export default function CannotPayPersonalLoanEmiClient() {
                 </ul>
               </div>
 
-              <h3 className="text-lg md:text-xl font-bold text-slate-900 mb-3">
+              <h4 className="text-lg md:text-xl font-bold text-slate-900 mb-3">
                 The 3-Step Escalation Protocol to Stop Harassment Permanently:
-              </h3>
+              </h4>
               <div className="space-y-4 my-4">
                 <div className="p-4 rounded-xl border border-slate-200 bg-white">
                   <p className="font-bold text-slate-900 text-sm mb-1">
@@ -774,19 +774,19 @@ export default function CannotPayPersonalLoanEmiClient() {
 
             {/* Section 6: OTS Settlement Playbook */}
             <section id="ots-settlement-playbook" className="scroll-mt-28 mb-14">
-              <h2 className="text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
+              <h3 className="text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
                 6. One-Time Settlement (OTS) Playbook
-              </h2>
+              </h3>
               <p className="text-base leading-relaxed mb-5 text-slate-700">
                 When full repayment is mathematically impossible, a structured <strong>One-Time Settlement (OTS)</strong> is the most pragmatic legal exit. In an OTS, the bank waives 100% of penal interest, late fees, and a substantial portion of the principal balance in exchange for a single or tiered lump-sum payment.
               </p>
 
               {/* 3 Golden Rules Box */}
               <div className="bg-amber-50 border-l-4 border-amber-500 p-5 rounded-r-xl my-6">
-                <h3 className="text-amber-900 font-bold text-base flex items-center gap-2 mb-2">
+                <h4 className="text-amber-900 font-bold text-base flex items-center gap-2 mb-2">
                   <AlertTriangle className="w-5 h-5 text-amber-600" />
                   THE 3 MANDATORY RULES OF AUTHENTIC LOAN SETTLEMENT:
-                </h3>
+                </h4>
                 <ul className="text-sm text-amber-800 space-y-2 list-disc list-inside">
                   <li>
                     <strong>Rule 1: Never Pay on Verbal or WhatsApp Promises:</strong> Only pay when you possess an official OTS Sanction Letter generated on the bank&apos;s registered letterhead, carrying an authorized signatory&apos;s stamp and signature.
@@ -802,9 +802,9 @@ export default function CannotPayPersonalLoanEmiClient() {
 
               {/* Settlement Example Table */}
               <div className="my-8">
-                <h3 className="text-lg md:text-xl font-bold text-slate-900 mb-3">
+                <h4 className="text-lg md:text-xl font-bold text-slate-900 mb-3">
                   Illustrative Case Study: Personal Loan OTS Haircut Breakdown
-                </h3>
+                </h4>
                 <div className="overflow-x-auto">
                   <table>
                     <thead>
@@ -854,18 +854,18 @@ export default function CannotPayPersonalLoanEmiClient() {
 
             {/* Section 7: CIBIL Rebuilding Blueprint */}
             <section id="cibil-rebuilding-blueprint" className="scroll-mt-28 mb-14">
-              <h2 className="text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
+              <h3 className="text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
                 7. Restoring Your Financial Health
-              </h2>
+              </h3>
               <p className="text-base leading-relaxed mb-5 text-slate-700">
                 A common misconception is that a personal loan default permanently ruins your creditworthiness. Under the <strong>Credit Information Companies (Regulation) Act, 2005 (CICRA)</strong>, historical defaults remain on bureau reports for up to 7 years, but credit underwriting algorithms weigh recent payment discipline far more heavily than past distress.
               </p>
 
               {/* 36 Month Rebuild Table */}
               <div className="my-8">
-                <h3 className="text-lg md:text-xl font-bold text-slate-900 mb-3">
+                <h4 className="text-lg md:text-xl font-bold text-slate-900 mb-3">
                   The 24-Month Roadmap to 750+ CIBIL Recovery Post-Settlement
-                </h3>
+                </h4>
                 <div className="overflow-x-auto">
                   <table>
                     <thead>
@@ -909,49 +909,49 @@ export default function CannotPayPersonalLoanEmiClient() {
 
             {/* Section 8: Statutory Legal Framework */}
             <section id="statutory-legal-framework" className="scroll-mt-28 mb-14">
-              <h2 className="text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
+              <h3 className="text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
                 8. Legal Framework &amp; Judicial Protections
-              </h2>
+              </h3>
               <p className="text-base leading-relaxed mb-5 text-slate-700">
                 You are protected by robust statutory laws enacted by the Parliament of India and landmark rulings delivered by the Supreme Court of India:
               </p>
 
               <div className="space-y-4 my-6">
                 <div className="bg-slate-50 border border-slate-200 p-5 rounded-xl">
-                  <h3 className="font-bold text-slate-900 text-base mb-1.5 flex items-center gap-2">
+                  <h4 className="font-bold text-slate-900 text-base mb-1.5 flex items-center gap-2">
                     <Landmark className="w-5 h-5 text-[#1F5EFF]" />
                     RBI Master Direction on Compromise Settlements (June 2023)
-                  </h3>
+                  </h4>
                   <p className="text-sm text-slate-600 leading-relaxed">
                     Mandates all commercial banks and NBFCs to establish board-approved compromise settlement policies, authorizing lenders to settle NPAs without prejudice to regulatory prudential norms.
                   </p>
                 </div>
 
                 <div className="bg-slate-50 border border-slate-200 p-5 rounded-xl">
-                  <h4 className="font-bold text-slate-900 text-base mb-1.5 flex items-center gap-2">
+                  <h5 className="font-bold text-slate-900 text-base mb-1.5 flex items-center gap-2">
                     <Scale className="w-5 h-5 text-emerald-600" />
                     Supreme Court Ruling: ICICI Bank vs. Prakash Kaur (2007)
-                  </h4>
+                  </h5>
                   <p className="text-sm text-slate-600 leading-relaxed">
                     The Supreme Court held that banks and recovery agencies cannot deploy musclemen or illegal force to recover loans. Recovery must strictly adhere to statutory judicial procedures.
                   </p>
                 </div>
 
                 <div className="bg-slate-50 border border-slate-200 p-5 rounded-xl">
-                  <h4 className="font-bold text-slate-900 text-base mb-1.5 flex items-center gap-2">
+                  <h5 className="font-bold text-slate-900 text-base mb-1.5 flex items-center gap-2">
                     <ShieldCheck className="w-5 h-5 text-purple-600" />
                     Reserve Bank - Integrated Ombudsman Scheme, 2021
-                  </h4>
+                  </h5>
                   <p className="text-sm text-slate-600 leading-relaxed">
                     Provides a single, cost-free grievance redressal window for borrowers to penalize banks and NBFCs for unfair collection practices, billing errors, or delay in issuing No Dues Certificates.
                   </p>
                 </div>
 
                 <div className="bg-slate-50 border border-slate-200 p-5 rounded-xl">
-                  <h4 className="font-bold text-slate-900 text-base mb-1.5 flex items-center gap-2">
+                  <h5 className="font-bold text-slate-900 text-base mb-1.5 flex items-center gap-2">
                     <Gavel className="w-5 h-5 text-amber-600" />
                     Legal Services Authorities Act, 1987 (Lok Adalat Settlement)
-                  </h4>
+                  </h5>
                   <p className="text-sm text-slate-600 leading-relaxed">
                     Empowers National Lok Adalats to adjudicate pre-litigation and pending bank recovery disputes. An award passed by Lok Adalat is final, binding, and non-appealable in any court of law.
                   </p>
@@ -963,9 +963,9 @@ export default function CannotPayPersonalLoanEmiClient() {
 
             {/* Section 9: FAQs */}
             <section id="faqs" className="scroll-mt-28 mb-14">
-              <h2 className="text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
+              <h3 className="text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
                 9. Frequently Asked Questions (FAQ)
-              </h2>
+              </h3>
               <p className="text-base leading-relaxed mb-8 text-slate-600">
                 Immediate answers to the most critical legal, financial, and credit questions when you cannot pay your personal loan EMI in India.
               </p>
@@ -985,10 +985,10 @@ export default function CannotPayPersonalLoanEmiClient() {
 
             {/* Regulatory Sources & References (Exactly 5 Links) */}
             <div className="bg-slate-50 border border-slate-200 rounded-2xl p-6 my-10">
-              <h3 className="text-sm font-bold uppercase tracking-wider text-slate-900 mb-4 flex items-center gap-2">
+              <h4 className="text-sm font-bold uppercase tracking-wider text-slate-900 mb-4 flex items-center gap-2">
                 <Landmark className="w-4 h-4 text-[#1F5EFF]" />
                 <span>Official Regulatory Sources &amp; Legal Authorities</span>
-              </h3>
+              </h4>
               <ul className="space-y-2.5 text-xs md:text-sm text-slate-600">
                 <li className="flex items-center gap-2">
                   <ExternalLink className="w-4 h-4 text-[#1F5EFF] flex-shrink-0" />
@@ -1050,9 +1050,9 @@ export default function CannotPayPersonalLoanEmiClient() {
 
             {/* Internal Topic Badges (10 Links) */}
             <div className="my-10 pt-6 border-t border-slate-200">
-              <h4 className="text-sm font-bold uppercase tracking-wider text-slate-900 mb-4">
+              <h5 className="text-sm font-bold uppercase tracking-wider text-slate-900 mb-4">
                 Related Debt Relief &amp; Legal Protection Guides
-              </h4>
+              </h5>
               <div className="flex flex-wrap gap-2">
                 <Link
                   href="/missed-emi-guide-to-regain-control"

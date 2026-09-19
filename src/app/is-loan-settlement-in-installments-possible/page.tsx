@@ -274,14 +274,14 @@ export default function LoanSettlementInstallmentsPage() {
             </section>
 
             <section id="what-is-settlement" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
                 What is Loan Settlement in Installments?
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 A loan settlement is a mutual agreement between a borrower and a lender where the lender agrees to accept an amount that is less than the total outstanding balance to close the loan account. In the eyes of the bank, a settlement is a compromise. They realize that the borrower is facing genuine financial distress and may never be able to repay the full amount. In such cases, the bank prefers to recover at least a portion of the money rather than writing off the entire loan as a total loss.
               </p>
               <div className="bg-gray-50 p-8 rounded-xl border border-gray-200 mb-8">
-                <h3 className="text-xl font-bold mb-6">OTS (One Time Settlement) vs. Installment Settlement</h3>
+                <h4 className="text-xl font-bold mb-6">OTS (One Time Settlement) vs. Installment Settlement</h4>
                 <p className="text-lg leading-relaxed mb-4">
                   The most common form of settlement is the One Time Settlement, or OTS. In an OTS, the borrower pays the agreed-upon amount in a single payment. Banks generally prefer OTS because it provides immediate liquidity and closes the file instantly. However, many borrowers in deep distress don't have a lump sum of money available.
                 </p>
@@ -292,23 +292,23 @@ export default function LoanSettlementInstallmentsPage() {
             </section>
 
             <section id="why-installments" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
                 Why Do Banks Agree to Installment Settlements?
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 You might wonder why a bank would agree to take less money and also wait for it in installments. The reality of banking is based on risk management and recovery probability.
               </p>
               <div className="grid md:grid-cols-3 gap-4 my-8">
                 <div className="bg-white p-5 rounded-xl border border-[#DEDEDE] shadow-sm text-center">
-                  <h3 className="font-bold text-[#2E2E2E] mb-2 uppercase text-xs tracking-widest text-[#1F5EFF]">Zero Recovery Risk</h3>
+                  <h4 className="font-bold text-[#2E2E2E] mb-2 uppercase text-xs tracking-widest text-[#1F5EFF]">Zero Recovery Risk</h4>
                   <p className="text-sm">Recovering 50% in installments is mathematically superior to recovering 0% from a total write-off.</p>
                 </div>
                 <div className="bg-white p-5 rounded-xl border border-[#DEDEDE] shadow-sm text-center">
-                  <h4 className="font-bold text-[#2E2E2E] mb-2 uppercase text-xs tracking-widest text-[#1F5EFF]">Lower Legal Costs</h4>
+                  <h5 className="font-bold text-[#2E2E2E] mb-2 uppercase text-xs tracking-widest text-[#1F5EFF]">Lower Legal Costs</h5>
                   <p className="text-sm">Avoiding years of court cases and lawyer fees saves the bank massive operational expenses.</p>
                 </div>
                 <div className="bg-white p-5 rounded-xl border border-[#DEDEDE] shadow-sm text-center">
-                  <h4 className="font-bold text-[#2E2E2E] mb-2 uppercase text-xs tracking-widest text-[#1F5EFF]">RBI Compliance</h4>
+                  <h5 className="font-bold text-[#2E2E2E] mb-2 uppercase text-xs tracking-widest text-[#1F5EFF]">RBI Compliance</h5>
                   <p className="text-sm">Fair practice codes and ethical recovery guidelines encourage banks to offer relief to borrowers in distress.</p>
                 </div>
               </div>
@@ -318,9 +318,9 @@ export default function LoanSettlementInstallmentsPage() {
             </section>
 
             <section id="eligibility" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
                 Who is Eligible for an Installment Settlement?
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-8">
                 Banks have strict criteria to ensure the process is not misused by willful defaulters. To qualify, you must demonstrate that your situation is truly beyond your control.
               </p>
@@ -328,21 +328,21 @@ export default function LoanSettlementInstallmentsPage() {
                 <li className="flex gap-4 items-start bg-white p-6 rounded-2xl border border-gray-100 shadow-sm">
                   <span className="w-10 h-10 rounded-full bg-blue-100 text-blue-600 flex items-center justify-center font-bold flex-shrink-0">1</span>
                   <div>
-                    <h3 className="font-bold text-[#2E2E2E] mb-2">Job Loss or Salary Cuts</h3>
+                    <h4 className="font-bold text-[#2E2E2E] mb-2">Job Loss or Salary Cuts</h4>
                     <p className="text-base">Layoffs, company closures, or a sudden end to employment are the most accepted reasons for financial hardship.</p>
                   </div>
                 </li>
                 <li className="flex gap-4 items-start bg-white p-6 rounded-2xl border border-gray-100 shadow-sm">
                   <span className="w-10 h-10 rounded-full bg-blue-100 text-blue-600 flex items-center justify-center font-bold flex-shrink-0">2</span>
                   <div>
-                    <h4 className="font-bold text-[#2E2E2E] mb-2">Medical Emergencies</h4>
+                    <h5 className="font-bold text-[#2E2E2E] mb-2">Medical Emergencies</h5>
                     <p className="text-base">Serious illnesses or accidents involving the borrower or family members that required large unplanned expenses.</p>
                   </div>
                 </li>
                 <li className="flex gap-4 items-start bg-white p-6 rounded-2xl border border-gray-100 shadow-sm">
                   <span className="w-10 h-10 rounded-full bg-blue-100 text-blue-600 flex items-center justify-center font-bold flex-shrink-0">3</span>
                   <div>
-                    <h4 className="font-bold text-[#2E2E2E] mb-2">Business Failure</h4>
+                    <h5 className="font-bold text-[#2E2E2E] mb-2">Business Failure</h5>
                     <p className="text-base">Showing that the business has shuttered or is facing severe losses that make debt service impossible.</p>
                   </div>
                 </li>
@@ -350,35 +350,35 @@ export default function LoanSettlementInstallmentsPage() {
             </section>
 
             <section id="process" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
                 The Step-by-Step Process of Securing an Installment Settlement
-              </h2>
+              </h3>
               <div className="space-y-12 mt-8">
                 <div className="relative pl-8 border-l-2 border-[#1F5EFF]/20">
                   <div className="absolute top-0 left-[-9px] w-4 h-4 rounded-full bg-[#1F5EFF]"></div>
-                  <h3 className="text-xl font-bold text-[#2E2E2E] mb-4">1. Honest Self-Assessment</h3>
+                  <h4 className="text-xl font-bold text-[#2E2E2E] mb-4">1. Honest Self-Assessment</h4>
                   <p className="text-lg leading-relaxed">Calculate your total budget. Determine a realistic amount you can pay as a total settlement and break it down into monthly payments you are 100% sure you can meet.</p>
                 </div>
                 <div className="relative pl-8 border-l-2 border-[#1F5EFF]/20">
                   <div className="absolute top-0 left-[-9px] w-4 h-4 rounded-full bg-[#1F5EFF]"></div>
-                  <h4 className="text-xl font-bold text-[#2E2E2E] mb-4">2. Initiate Communication in Writing</h4>
+                  <h5 className="text-xl font-bold text-[#2E2E2E] mb-4">2. Initiate Communication in Writing</h5>
                   <p className="text-lg leading-relaxed">Do not rely on verbal conversations with recovery agents. Visit the bank branch or write a formal email to the Branch Manager explaining your situation clearly.</p>
                 </div>
                 <div className="relative pl-8 border-l-2 border-[#1F5EFF]/20">
                   <div className="absolute top-0 left-[-9px] w-4 h-4 rounded-full bg-[#1F5EFF]"></div>
-                  <h4 className="text-xl font-bold text-[#2E2E2E] mb-4">3. Demand a Written Settlement Letter</h4>
+                  <h5 className="text-xl font-bold text-[#2E2E2E] mb-4">3. Demand a Written Settlement Letter</h5>
                   <p className="text-lg leading-relaxed font-bold text-red-600">NEVER pay a single rupee toward a settlement based on a verbal promise. The bank must issue a formal Offer Letter on their letterheadListing all payment dates.</p>
                 </div>
                 <div className="relative pl-8 border-l-2 border-[#1F5EFF]/20">
                   <div className="absolute top-0 left-[-9px] w-4 h-4 rounded-full bg-[#1F5EFF]"></div>
-                  <h4 className="text-xl font-bold text-[#2E2E2E] mb-4">4. Obtain No Dues Certificate (NDC)</h4>
+                  <h5 className="text-xl font-bold text-[#2E2E2E] mb-4">4. Obtain No Dues Certificate (NDC)</h5>
                   <p className="text-lg leading-relaxed">Within 30 days of the last payment, collect your NDC. This is your final proof that the nightmare is over and the account is closed.</p>
                 </div>
               </div>
             </section>
 
             <section id="comparison" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 mt-16">Comparing Options: Lump Sum vs. Installments</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 mt-16">Comparing Options: Lump Sum vs. Installments</h3>
               <div className="overflow-x-auto">
                 <table className="w-full border-collapse bg-white rounded-xl overflow-hidden border border-gray-200">
                   <thead>
@@ -415,14 +415,14 @@ export default function LoanSettlementInstallmentsPage() {
             </section>
 
             <section id="credit-impact" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
                 The Impact on Your Credit Score and CIBIL Report
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 A loan settlement is not a "get out of jail free" card without consequence. When you settle a loan, the lender reports the status as "Settled" to CIBIL. This means you did not pay the full amount you owed, which stays on your report for seven years.
               </p>
               <div className="bg-red-50 border-l-4 border-red-500 p-8 rounded-r-xl mb-8">
-                <h3 className="text-xl font-bold text-red-800 mb-4 uppercase tracking-tighter">Crucial Facts About CIBIL 'Settled' Status</h3>
+                <h4 className="text-xl font-bold text-red-800 mb-4 uppercase tracking-tighter">Crucial Facts About CIBIL 'Settled' Status</h4>
                 <ul className="space-y-3 text-red-900/80 font-bold">
                   <li>• **Seven Year Shadow**: The status remains on your report for 84 months.</li>
                   <li>• **Difficulty in Traditional Loans**: Banks will likely reject new applications for the first 24 to 36 months.</li>
@@ -435,21 +435,21 @@ export default function LoanSettlementInstallmentsPage() {
             </section>
 
             <section id="legal-rights" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 mt-16 leading-tight">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 mt-16 leading-tight">
                 Your Legal Rights and Protection Against Harassment
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 Knowledge is your best defense. The RBI Fair Practice Code ensures that you are treated with dignity, regardless of your debt status.
               </p>
               <div className="grid md:grid-cols-2 gap-8 mb-8">
                 <div className="bg-blue-50 p-6 rounded-xl border border-blue-100 shadow-sm">
-                  <h3 className="text-xl font-bold mb-4 text-blue-900">Anti-Harassment Protocols</h3>
+                  <h4 className="text-xl font-bold mb-4 text-blue-900">Anti-Harassment Protocols</h4>
                   <p className="text-sm text-blue-800 leading-relaxed mb-4">
                     Agents cannot call you before 8 AM or after 7 PM. They are strictly prohibited from using physical force, verbal abuse, or shaming you in front of family or colleagues.
                   </p>
                 </div>
                 <div className="bg-emerald-50 p-6 rounded-xl border border-emerald-100 shadow-sm">
-                  <h3 className="text-xl font-bold mb-4 text-emerald-900">Understanding Section 138</h3>
+                  <h4 className="text-xl font-bold mb-4 text-emerald-900">Understanding Section 138</h4>
                   <p className="text-sm text-emerald-800 leading-relaxed mb-4">
                     While cheque bounce is a serious matter, it is a legal process where you have the right to a defense. Courts often encourage mediation for distressed borrowers who show a genuine intention to settle.
                   </p>
@@ -458,51 +458,51 @@ export default function LoanSettlementInstallmentsPage() {
             </section>
 
             <section id="negotiation-tactics" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
                 Tactical Advice for Negotiating with Specific Lenders
-              </h2>
+              </h3>
               <div className="space-y-8">
                 <div className="bg-white p-8 rounded-2xl border border-blue-100 shadow-sm">
-                  <h3 className="text-2xl font-bold text-blue-600 mb-4">Credit Card Debt</h3>
+                  <h4 className="text-2xl font-bold text-blue-600 mb-4">Credit Card Debt</h4>
                   <p className="mb-4">Credit cards have the highest interest. Banks are often more willing to settle because there is no collateral to seize. You can often negotiate installments if you show the interest has made the debt mathematically impossible to pay.</p>
                 </div>
                 <div className="bg-white p-8 rounded-2xl border border-purple-100 shadow-sm">
-                  <h3 className="text-2xl font-bold text-purple-600 mb-4">NBFC Personal Loans</h3>
+                  <h4 className="text-2xl font-bold text-purple-600 mb-4">NBFC Personal Loans</h4>
                   <p className="mb-4">NBFCs might be more aggressive in recovery but are also open to settlements once the account hits 180 days of default. Professional negotiation is key here to avoid high penalty charges.</p>
                 </div>
               </div>
             </section>
 
             <section id="methodology" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">The SettleLoans Methodology: Professional Negotiation</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">The SettleLoans Methodology: Professional Negotiation</h3>
               <p className="text-lg mb-8">Securing a settlement is not just about asking for a discount; it's about presenting a case that a bank's risk department cannot ignore.</p>
               <div className="bg-[#2E2E2E] text-white p-8 rounded-2xl mb-8">
                 <ul className="space-y-6">
                   <li className="flex items-start gap-4">
                     <span className="w-8 h-8 rounded-lg bg-[#1F5EFF] flex items-center justify-center font-bold flex-shrink-0">A</span>
                     <div>
-                      <h3 className="font-bold mb-1">Forensic Audit</h3>
+                      <h4 className="font-bold mb-1">Forensic Audit</h4>
                       <p className="opacity-80 text-sm">We analyze your entire profile for discrepancies in bank reporting or violations of RBI guidelines to gain early leverage.</p>
                     </div>
                   </li>
                   <li className="flex items-start gap-4">
                     <span className="w-8 h-8 rounded-lg bg-[#1F5EFF] flex items-center justify-center font-bold flex-shrink-0">B</span>
                     <div>
-                      <h4 className="font-bold mb-1">Hardship Narrative</h4>
+                      <h5 className="font-bold mb-1">Hardship Narrative</h5>
                       <p className="opacity-80 text-sm">We construct a compelling, documented proof of your situation using medical, employment, and income history.</p>
                     </div>
                   </li>
                   <li className="flex items-start gap-4">
                     <span className="w-8 h-8 rounded-lg bg-[#1F5EFF] flex items-center justify-center font-bold flex-shrink-0">C</span>
                     <div>
-                      <h4 className="font-bold mb-1">Multi-Tiered Negotiation</h4>
+                      <h5 className="font-bold mb-1">Multi-Tiered Negotiation</h5>
                       <p className="opacity-80 text-sm">We escalate proposals directly to Nodal Officers and Zonal Managers who have the actual authority to approve large waivers.</p>
                     </div>
                   </li>
                   <li className="flex items-start gap-4">
                     <span className="w-8 h-8 rounded-lg bg-[#1F5EFF] flex items-center justify-center font-bold flex-shrink-0">D</span>
                     <div>
-                      <h4 className="font-bold mb-1">Legal Shielding</h4>
+                      <h5 className="font-bold mb-1">Legal Shielding</h5>
                       <p className="opacity-80 text-sm">We provide a buffer against recovery calls and professionally reply to legal notices on your behalf.</p>
                     </div>
                   </li>
@@ -511,10 +511,10 @@ export default function LoanSettlementInstallmentsPage() {
             </section>
 
             <section id="case-studies" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 text-center">Real Stories of Installment Success</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 text-center">Real Stories of Installment Success</h3>
               <div className="grid md:grid-cols-2 gap-6 not-prose">
                 <div className="bg-white p-6 rounded-2xl border border-[#DEDEDE] shadow-sm">
-                  <h3 className="font-bold text-[#1F5EFF] mb-2 uppercase text-xs tracking-widest">Small Business Owner (Pune)</h3>
+                  <h4 className="font-bold text-[#1F5EFF] mb-2 uppercase text-xs tracking-widest">Small Business Owner (Pune)</h4>
                   <p className="text-sm italic mb-4">"Business dropped 70% during the slowdown. SettleLoans secured a 60% discount on my 15 lakh loan with a 6-month installment plan. I am finally debt-free and restarting today."</p>
                   <div className="flex justify-between items-center text-xs font-bold text-gray-500">
                     <span>Target: 15L</span>
@@ -522,7 +522,7 @@ export default function LoanSettlementInstallmentsPage() {
                   </div>
                 </div>
                 <div className="bg-white p-6 rounded-2xl border border-[#DEDEDE] shadow-sm">
-                  <h4 className="font-bold text-[#1F5EFF] mb-2 uppercase text-xs tracking-widest">IT Professional (Bangalore)</h4>
+                  <h5 className="font-bold text-[#1F5EFF] mb-2 uppercase text-xs tracking-widest">IT Professional (Bangalore)</h5>
                   <p className="text-sm italic mb-4">"Medical emergencies drained my savings. EMIs exceeded my salary. SettleLoans managed four lenders at once and got me an 11-month payment plan. They were my shield."</p>
                   <div className="flex justify-between items-center text-xs font-bold text-gray-500">
                     <span>Target: Multiple</span>
@@ -533,7 +533,7 @@ export default function LoanSettlementInstallmentsPage() {
             </section>
 
             <section id="digital-age" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Practicality in the Digital Age</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Practicality in the Digital Age</h3>
               <p className="text-lg mb-6">In the modern era of UPI and Netbanking, the settlement process remains high touch. However, technology can help ensure your success.</p>
               <div className="bg-blue-50 p-8 rounded-2xl border border-blue-100 italic">
                 <p className="text-blue-900 leading-relaxed">"We always recommend using Standing Instructions (SI) or e-NACH for your settlement installments. This eliminates human error and ensures you never inadvertently cancel your hard-won deal by missing a payment date."</p>
@@ -541,33 +541,33 @@ export default function LoanSettlementInstallmentsPage() {
             </section>
 
             <section id="psychology" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Psychological Resilience: The Hidden Battle</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Psychological Resilience: The Hidden Battle</h3>
               <p className="text-lg mb-6 leading-relaxed">Debt is not just a line on a spreadsheet; it's a thief that steals your peace, your sleep, and your confidence. At SettleLoans, we have seen the psychological toll that debt takes on individuals and their families. The constant pressure of unpaid bills and the fear of social stigma can lead to a condition often called 'Debt Stress Syndrome'. Recognizing the symptoms—like anxiety, paranoia, sleep deprivation, and relational strain—is the first step toward recovery.</p>
               <div className="bg-emerald-50 p-8 rounded-2xl border border-emerald-100 mb-8">
-                <h3 className="text-xl font-bold text-emerald-800 mb-4">Coping Mechanisms and Moving Forward</h3>
+                <h4 className="text-xl font-bold text-emerald-800 mb-4">Coping Mechanisms and Moving Forward</h4>
                 <p className="mb-4 text-emerald-900/80">The first step to emotional recovery is to realize that your debt is a problem with a mathematical and legal solution. It is not a moral failing. Talk to someone—whether it's a trusted friend, a family member, or a professional counselor. Breaking the silence is essential. Focus on what you can control: your response and your negotiation strategy. Engaging a debt consultancy like SettleLoans can provide you with an emotional buffer, knowing that someone is fighting your battle for you.</p>
                 <p className="text-emerald-900/80">Physical well-being is also crucial. High stress levels can lead to physical illness, which only adds to your financial burden. Ensure you are getting at least some exercise, maintaining a healthy routine, and prioritizing your mental health as much as your financial health. Your life is infinitely more valuable than any amount of money.</p>
               </div>
             </section>
 
             <section id="tax-implications" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Tax Implications of Loan Settlement</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Tax Implications of Loan Settlement</h3>
               <p className="text-lg mb-6 leading-relaxed">Many borrowers are surprised to learn that the amount of debt waived off by a bank can be considered taxable income under Indian law. Specifically, Section 56(2)(x) of the Income Tax Act may apply if the waived amount is viewed as a 'gift' or benefit. While this typically affects high-value business settlements more than small personal loans, it is something you should prepare for. If you settle 10 lakhs for 4 lakhs, the 6 lakhs waived could potentially be seen as income, and you might need to account for it in your annual tax filings. At SettleLoans, we recommend consulting with a tax professional once your settlement is finalized to ensure you are fully compliant with the latest CBDT regulations.</p>
             </section>
 
             <section id="future-proofing" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Future-Proofing Your Finances: Life After Debt</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Future-Proofing Your Finances: Life After Debt</h3>
               <p className="text-lg mb-6 leading-relaxed">Closing your debt accounts is only the beginning of your new financial life. The goal is to build a foundation so solid that you never have to face this stress again. This involves adopting the 50/30/20 rule of budgeting: 50% for needs, 30% for wants, and 20% for savings and debt repayment. Once you are debt-free, that 20% should go directly into an emergency fund. Aim to save at least six months of living expenses in a liquid savings account. This is your ultimate insurance policy against predatory lending and high-interest traps. Remember, financial freedom is not about how much you earn, but how much you keep and how wisely you use it.</p>
             </section>
 
             <section id="methodology-deep-dive" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">The SettleLoans Methodology: A Deep Dive</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">The SettleLoans Methodology: A Deep Dive</h3>
               <p className="text-lg mb-6 leading-relaxed">At SettleLoans, we follow a rigorous methodology to ensure the highest success rates for our clients. We start with a forensic audit, analyzing your entire credit profile to find discrepancies in reporting or violations of RBI guidelines. We then help you construct a compelling hardship narrative, proving your situation with concrete documentation. Our multi-tiered negotiation approach involves escalating proposals directly to the Nodal Officers and Zonal Managers who have the actual authority to approve large waivers and long-term installment plans.</p>
               <p className="text-lg mb-6 leading-relaxed">During this entire process, we act as your legal shield. We handle the calls, reply to the legal notices, and ensure you are never intimidated into signing a document that is not in your best interest. We believe that every person deserves a second chance, and our professional reputation helps ensure that your case is heard and respected by the banks.</p>
             </section>
 
             <section id="misconceptions" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 uppercase tracking-tighter">Common Misconceptions: Separating Fact from Fiction</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 uppercase tracking-tighter">Common Misconceptions: Separating Fact from Fiction</h3>
               <p className="text-lg mb-6 leading-relaxed">The world of debt recovery is filled with misinformation, often spread by agents to create a sense of urgency and fear. Let's look at the most common myths. Many borrowers believe that a settlement permanently bans them from ever taking a loan again. This is simply not true. While a settled status stays for seven years, it does not prevent you from taking secured loans like a Gold Loan or a Loan Against Property, which can be used to rebuild your credit. Another myth is that banks will only settle if you have been in default for years. Actually, many banks are open to settlement as soon as an account is classified as an NPA (Non-Performing Asset), which usually happens after 90 days of non-payment. Finally, there is a common fear that banks can arrest you for not paying a personal loan. In India, defaulting on an unsecured loan is a civil matter, not a criminal one. As long as you have not committed fraud or provided fake documents, there is no provision for arrest for simple non-payment.</p>
               <div className="bg-yellow-50 p-8 rounded-2xl border border-yellow-100 mb-8 italic text-yellow-900 border-l-8 border-l-yellow-400">
                 "We often hear from clients who were told by recovery agents that their neighbors would be contacted or their children's schools would be visited. These are illegal tactics that violate the RBI's Fair Practice Code. A professional settlement process through a consultancy like SettleLoans puts an end to these illegal practices by establishing a formal channel of communication with the bank's senior management."
@@ -575,7 +575,7 @@ export default function LoanSettlementInstallmentsPage() {
             </section>
 
             <section id="success-stories" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 text-center">Installment Settlement Success Stories</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 text-center">Installment Settlement Success Stories</h3>
               <div className="grid md:grid-cols-2 gap-6 not-prose">
                 {[
                   {
@@ -613,7 +613,7 @@ export default function LoanSettlementInstallmentsPage() {
                         {review.name.charAt(0)}
                       </div>
                       <div>
-                        <h3 className="font-bold text-[#2E2E2E]">{review.name}</h3>
+                        <h4 className="font-bold text-[#2E2E2E]">{review.name}</h4>
                         <p className="text-xs text-gray-400">{review.loc}</p>
                       </div>
                       <div className="ml-auto text-yellow-400 text-sm">★★★★★</div>
@@ -628,7 +628,7 @@ export default function LoanSettlementInstallmentsPage() {
             </section>
 
             <section id="faqs" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Frequently Asked Questions on Installments</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Frequently Asked Questions on Installments</h3>
               <div className="space-y-4 not-prose">
                 {[
                   { q: "Is it really possible to settle a loan in installments?", a: "Yes, it is possible. Banks often agree to 3-6 monthly installments for distressed borrowers who cannot pay a lump sum." },
@@ -665,7 +665,7 @@ export default function LoanSettlementInstallmentsPage() {
             <div className="lg:hidden mt-16 mb-8">
               <div className="bg-[#2E2E2E] rounded-2xl shadow-xl overflow-hidden border border-[#1F5EFF]/20">
                 <div className="bg-[#1F5EFF] p-6 text-center text-white">
-                  <h3 className="text-2xl font-black mb-2">Ready to Start Over?</h3>
+                  <h4 className="text-2xl font-black mb-2">Ready to Start Over?</h4>
                   <p className="opacity-90 text-sm">Join the thousands of Indians we've helped find their way to financial freedom.</p>
                 </div>
                 <div className="p-8 text-center text-[#DEDEDE]">

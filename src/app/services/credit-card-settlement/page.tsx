@@ -266,15 +266,15 @@ export default function CreditCardSettlementPage() {
 
           {/* Why Banks Agree to Settle (Expanded) */}
           <section id="why-banks-settle" className="scroll-mt-32">
-            <h2 className="text-2xl md:text-3xl font-black text-[#2E2E2E] mb-6">
+            <h3 className="text-2xl md:text-3xl font-black text-[#2E2E2E] mb-6">
               Why Do Banks Agree to Settle Credit Card Debt?
-            </h2>
+            </h3>
             <p className="mb-6 text-lg">
               It usually surprises our clients when we tell them that banks <em>want</em> to settle. It might seem counterintuitive for a financial institution to accept less money (often 50-60% less) than what is owed. However, purely from a business perspective, settlement is often the most logical step for a bank when dealing with unsecured bad debt.
             </p>
             
             <div className="bg-white p-8 rounded-xl border border-gray-200 shadow-sm mb-8">
-               <h3 className="text-xl font-bold text-gray-800 mb-4">The Economics of "Bad Debt"</h3>
+               <h4 className="text-xl font-bold text-gray-800 mb-4">The Economics of "Bad Debt"</h4>
                <p className="mb-4">
                  Banks work on probability. When a borrower stops paying for 90 days, the loan is classified as a <strong>Non-Performing Asset (NPA)</strong>. The bank is required by RBI regulations to set aside capital (Provisioning) to cover this loss, which hurts their profitability.
                </p>
@@ -283,7 +283,7 @@ export default function CreditCardSettlementPage() {
                </p>
                <div className="grid md:grid-cols-2 gap-6">
                  <div className="bg-red-50 p-6 rounded-lg border border-red-100">
-                    <h4 className="font-bold text-red-900 mb-2">Option A: Legal Route</h4>
+                    <h5 className="font-bold text-red-900 mb-2">Option A: Legal Route</h5>
                     <ul className="list-disc pl-5 space-y-2 text-sm text-red-800">
                        <li>File a case in civil court (takes 3-5 years).</li>
                        <li>Pay lawyers fees for every hearing.</li>
@@ -292,7 +292,7 @@ export default function CreditCardSettlementPage() {
                     </ul>
                  </div>
                  <div className="bg-green-50 p-6 rounded-lg border border-green-100">
-                    <h4 className="font-bold text-green-900 mb-2">Option B: Settlement (OTS)</h4>
+                    <h5 className="font-bold text-green-900 mb-2">Option B: Settlement (OTS)</h5>
                     <ul className="list-disc pl-5 space-y-2 text-sm text-green-800">
                        <li>Get a lump sum payment immediately (e.g., 40-50% of outstanding).</li>
                        <li>Close the account and release the "Provisioned Capital".</li>
@@ -309,15 +309,15 @@ export default function CreditCardSettlementPage() {
 
           {/* DEEP DIVE: The Trap (Slightly Expanded) */}
           <section id="the-math-of-debt" className="scroll-mt-32">
-            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
               The Mathematics of the Minimum Due Trap
-            </h2>
+            </h3>
             <div className="bg-white rounded-2xl p-8 border border-[var(--color-border)] shadow-sm relative overflow-hidden mb-8">
                <p className="text-lg leading-relaxed text-[var(--color-text-body)] mb-6">
                  Credit cards are the most expensive form of debt in India, carrying interest rates of <strong>36% to 48% per annum</strong>. The trap lies in the "Minimum Amount Due" (MAD). Banks typically ask you to pay only 5% of your outstanding balance. This seems affordable, but it triggers a financial catastrophe known as the <strong>Revolving Credit Trap</strong>.
               </p>
               
-              <h3 className="text-xl font-bold text-[var(--color-text-hero)] mb-4">A Practical Calculation</h3>
+              <h4 className="text-xl font-bold text-[var(--color-text-hero)] mb-4">A Practical Calculation</h4>
               <p className="mb-4">Let's assume you have a credit card debt of <strong>₹1,00,000</strong> and the bank charges 3.5% interest per month (42% per year). You decide to pay only the 5% minimum due every month.</p>
               
               <div className="overflow-x-auto rounded-lg border border-gray-200 mb-6">
@@ -377,39 +377,39 @@ export default function CreditCardSettlementPage() {
 
           {/* RBI & Legal Framework */}
           <section id="rbi-guidelines" className="scroll-mt-32">
-            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">
+            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">
               RBI Guidelines & Your Legal Rights
-            </h2>
+            </h3>
             <p className="mb-6 leading-relaxed">
               Many borrowers feel powerless against big banks. However, the Reserve Bank of India (RBI) and the Supreme Court have laid down strict guidelines to protect borrowers from unethical practices. Understanding these rights is the first step to freedom.
             </p>
 
             <div className="grid md:grid-cols-2 gap-6">
               <div className="bg-white border-t-4 border-green-500 shadow-sm p-6 rounded-lg">
-                 <h3 className="text-xl font-bold text-gray-800 mb-2 flex items-center">
+                 <h4 className="text-xl font-bold text-gray-800 mb-2 flex items-center">
                     <FontAwesomeIcon icon={faLandmark} className="mr-3 text-green-600 w-6 h-6" />
                     Board Approved Settlement
-                 </h3>
+                 </h4>
                  <p className="text-gray-700 text-sm">
                    The RBI mandates that every bank must have a Board-approved policy for <strong>Compromise Settlements</strong> of NPAs. This means they are <em>legally authorized</em> to offer you a discount if you cannot pay.
                  </p>
               </div>
 
               <div className="bg-white border-t-4 border-blue-500 shadow-sm p-6 rounded-lg">
-                 <h3 className="text-xl font-bold text-gray-800 mb-2 flex items-center">
+                 <h4 className="text-xl font-bold text-gray-800 mb-2 flex items-center">
                     <FontAwesomeIcon icon={faShieldHalved} className="mr-3 text-blue-600 w-6 h-6" />
                     Fair Practices Code
-                 </h3>
+                 </h4>
                  <p className="text-gray-700 text-sm">
                    Under the RBI's "Fair Practices Code", recovery agents cannot call before 08:00 AM or after 07:00 PM, nor can they use abusive language or threaten physical harm.
                  </p>
               </div>
               
               <div className="bg-white border-t-4 border-purple-500 shadow-sm p-6 rounded-lg md:col-span-2">
-                 <h3 className="text-xl font-bold text-gray-800 mb-2 flex items-center">
+                 <h4 className="text-xl font-bold text-gray-800 mb-2 flex items-center">
                     <FontAwesomeIcon icon={faUserShield} className="mr-3 text-purple-600 w-6 h-6" />
                     Right to Privacy
-                 </h3>
+                 </h4>
                  <p className="text-gray-700 text-sm">
                    Your debt is a private contract. Agents cannot shame you publicly, contact your employer without permission (unless you are uncontactable), or threaten to "ruin your reputation" in your society. SettleLoans helps enforce this right strictly.
                  </p>
@@ -419,9 +419,9 @@ export default function CreditCardSettlementPage() {
 
           {/* 10 Step Process (Expanded) */}
           <section id="step-by-step-guide" className="scroll-mt-32">
-            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-2 text-center">
+            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-2 text-center">
               The 10-Step Road to Debt Freedom
-            </h2>
+            </h3>
             <p className="text-center text-gray-600 mb-12 max-w-2xl mx-auto">
               Settlement is not magic; it is a structured financial and legal process. Here is how SettleLoans guides you through it.
             </p>
@@ -481,9 +481,9 @@ export default function CreditCardSettlementPage() {
               ].map((item, i) => (
                 <div key={i} className="relative pl-8 md:pl-12 group">
                    <div className="absolute -left-[14px] md:-left-[18px] top-0 w-6 h-6 md:w-8 md:h-8 rounded-full bg-white border-4 border-[#1F5EFF] flex items-center justify-center z-10 group-hover:scale-110 transition-transform shadow-sm"></div>
-                   <h3 className="text-xl font-black text-[#1F5EFF] mb-2 flex items-center">
+                   <h4 className="text-xl font-black text-[#1F5EFF] mb-2 flex items-center">
                      <span className="opacity-50 text-3xl mr-4 -mt-2 font-mono">{item.step}</span> {item.title}
-                   </h3>
+                   </h4>
                    <p className="text-[var(--color-text-body)] opacity-90 leading-relaxed max-w-3xl">{item.desc}</p>
                 </div>
               ))}
@@ -492,9 +492,9 @@ export default function CreditCardSettlementPage() {
 
           {/* Documents Required (New) */}
           <section id="documents-required" className="scroll-mt-32">
-             <h2 className="text-2xl md:text-3xl font-black text-[#2E2E2E] mb-6">
+             <h3 className="text-2xl md:text-3xl font-black text-[#2E2E2E] mb-6">
               Documents Required for Settlement
-            </h2>
+            </h3>
             <div className="bg-gray-50 p-8 rounded-xl border border-gray-200">
                <p className="mb-4 text-gray-700">To successfully negotiate, we need to build a case file that proves your financial hardship. The more evidence we have, the better our bargaining power.</p>
                <div className="grid md:grid-cols-2 gap-4">
@@ -520,7 +520,7 @@ export default function CreditCardSettlementPage() {
           
           {/* Comparison Table */}
           <section id="options-comparison" className="scroll-mt-32">
-             <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">Knowing Your Options</h2>
+             <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">Knowing Your Options</h3>
              <p className="mb-6">Before choosing settlement, it is critical to compare it with other options like Balance Transfers or Consolidation Loans.</p>
              <div className="overflow-x-auto shadow-lg rounded-xl border border-gray-200">
                <table className="w-full text-left border-collapse min-w-[600px]">
@@ -564,18 +564,18 @@ export default function CreditCardSettlementPage() {
 
           {/* Legal Deep Dive (Expanded) */}
           <section id="legal-implications" className="scroll-mt-32">
-             <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">
+             <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">
                Legal Risks Explained: Fact vs. Fear
-             </h2>
+             </h3>
              <p className="mb-8 text-lg">Banks and recovery agencies often use complex legal jargon to intimidate borrowers. It is crucial to separate the facts from the fear-mongering. Here is the reality of the three most common legal threats.</p>
             
              <div className="grid md:grid-cols-1 gap-8">
                 {/* Arbitration */}
                 <div className="bg-white p-8 rounded-2xl border border-gray-200 shadow-sm">
-                   <h3 className="text-2xl font-bold text-gray-800 mb-4 flex items-center">
+                   <h4 className="text-2xl font-bold text-gray-800 mb-4 flex items-center">
                      <FontAwesomeIcon icon={faBalanceScale} className="mr-3 text-indigo-600 w-12 h-12" />
                      1. Arbitration Proceedings
-                   </h3>
+                   </h4>
                    <div className="space-y-4 text-gray-700">
                      <p><strong>The Threat:</strong> "We have initiated arbitration proceedings against you and an award will be passed to seize your assets."</p>
                      <p><strong>The Reality:</strong> Most credit card agreements contain an arbitration clause. When you default, the bank appoints an Arbitrator (often a retired judge or lawyer on their payroll) to pass an "Award". This is a civil dispute resolution process, not a criminal court trial.</p>
@@ -585,10 +585,10 @@ export default function CreditCardSettlementPage() {
 
                 {/* Section 25 */}
                 <div className="bg-white p-8 rounded-2xl border border-gray-200 shadow-sm">
-                   <h3 className="text-2xl font-bold text-gray-800 mb-4 flex items-center">
+                   <h4 className="text-2xl font-bold text-gray-800 mb-4 flex items-center">
                      <FontAwesomeIcon icon={faFileContract} className="mr-3 text-indigo-600 w-12 h-12" />
                      2. Payment & Settlement Systems Act (Section 25)
-                   </h3>
+                   </h4>
                    <div className="space-y-4 text-gray-700">
                      <p><strong>The Threat:</strong> "We will file a criminal case under Section 25 for ECS bounce."</p>
                      <p><strong>The Reality:</strong> If you have an auto-debit (ECS/NACH) set up and it bounces due to insufficient funds, it is technically a criminal offense similar to a cheque bounce. This is the banks' favorite tool because the word "Criminal" scares people into paying.</p>
@@ -598,10 +598,10 @@ export default function CreditCardSettlementPage() {
 
                  {/* Section 138 */}
                 <div className="bg-white p-8 rounded-2xl border border-gray-200 shadow-sm">
-                   <h3 className="text-2xl font-bold text-gray-800 mb-4 flex items-center">
+                   <h4 className="text-2xl font-bold text-gray-800 mb-4 flex items-center">
                      <FontAwesomeIcon icon={faHandcuffs} className="mr-3 text-indigo-600 w-12 h-12" />
                      3. Section 138 (Cheque Bounce)
-                   </h3>
+                   </h4>
                     <div className="space-y-4 text-gray-700">
                      <p><strong>The Threat:</strong> "We will issue a non-bailable warrant for cheque bounce."</p>
                      <p><strong>The Reality:</strong> This section ONLY applies if you have given a physical cheque that has bounced. Most credit cards are issued without cheques. If you haven't given a cheque, this law DOES NOT APPLY to you. Do not fall for empty threats where agents send fake "Draft Summons" on WhatsApp.</p>
@@ -612,9 +612,9 @@ export default function CreditCardSettlementPage() {
 
            {/* Psychological Toll (New) */}
            <section className="scroll-mt-32">
-              <h2 className="text-2xl md:text-3xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-2xl md:text-3xl font-black text-[#2E2E2E] mb-6">
                The Hidden Cost: Mental Health
-              </h2>
+              </h3>
               <div className="bg-orange-50 border-l-4 border-orange-500 p-6 rounded-r-xl text-orange-900">
                  <p className="mb-4">
                    Debt is not just a financial number; it is a heavy emotional burden. Our clients often report:
@@ -633,18 +633,18 @@ export default function CreditCardSettlementPage() {
 
           {/* Write-off vs Waive-off */}
           <section id="write-off-vs-waive-off" className="scroll-mt-32">
-             <h2 className="text-2xl md:text-3xl font-black text-[#2E2E2E] mb-6">
+             <h3 className="text-2xl md:text-3xl font-black text-[#2E2E2E] mb-6">
               "Written Off" vs "Waived Off" - Know the Difference
-            </h2>
+            </h3>
             <div className="flex flex-col gap-6">
                <div className="bg-red-50 p-6 rounded-xl border-l-4 border-red-500">
-                  <h3 className="text-lg font-bold text-red-800 mb-2">Write-off (Bad for you)</h3>
+                  <h4 className="text-lg font-bold text-red-800 mb-2">Write-off (Bad for you)</h4>
                   <p className="text-red-900/80 mb-2">
                     This is an internal accounting entry for the bank. They move the loan to the "Loss" bucket to save tax. However, strictly speaking, <strong>you still owe the money</strong>. The bank may sell this "Bad Debt" to a collection agency years later, who might restart the harassment.
                   </p>
                </div>
                <div className="bg-emerald-50 p-6 rounded-xl border-l-4 border-emerald-500">
-                  <h3 className="text-lg font-bold text-emerald-800 mb-2">Settlement / Waiver (Good for you)</h3>
+                  <h4 className="text-lg font-bold text-emerald-800 mb-2">Settlement / Waiver (Good for you)</h4>
                   <p className="text-emerald-900/80 mb-2">
                     This means the lender agrees to accept a smaller amount and <strong>legally extinguishes</strong> the remaining debt. You get a "No Dues Certificate" or "Settlement Letter". You are no longer liable to pay anything. This is the gold standard we achieve for you.
                   </p>
@@ -654,23 +654,23 @@ export default function CreditCardSettlementPage() {
 
           {/* Life After Settlement (Expanded) */}
           <section id="post-settlement" className="scroll-mt-32 bg-gradient-to-br from-indigo-50 to-blue-50 p-8 md:p-12 rounded-3xl border border-indigo-100">
-            <h2 className="text-3xl font-bold text-indigo-900 mb-6 flex items-center">
+            <h3 className="text-3xl font-bold text-indigo-900 mb-6 flex items-center">
               <FontAwesomeIcon icon={faHandHoldingDollar} className="mr-3 text-indigo-600 w-12 h-12" /> Life After Settlement
-            </h2>
+            </h3>
             <p className="mb-8 text-indigo-800 text-lg">
               Many clients fear that "Settlement" equals financial death. It does not. It is a comma, not a full stop. It is a strategic pause to rebuild your foundation.
             </p>
             <div className="grid md:grid-cols-2 gap-8">
               <div className="bg-white/60 p-6 rounded-xl backdrop-blur-sm">
-                <h3 className="font-bold text-indigo-900 mb-3 text-lg">Immediate Aftermath (0-6 Months)</h3>
+                <h4 className="font-bold text-indigo-900 mb-3 text-lg">Immediate Aftermath (0-6 Months)</h4>
                 <p className="text-gray-700 mb-2">Your credit score will drop (e.g., to 600-650). Unsecured loans will be rejected. But importantly, you have <strong>Zero EMI</strong> pressure. You can use your entire salary for your household needs and savings instead of interest payments.</p>
               </div>
               <div className="bg-white/60 p-6 rounded-xl backdrop-blur-sm">
-                <h4 className="font-bold text-indigo-900 mb-3 text-lg">Rebuilding Phase (6-24 Months)</h4>
+                <h5 className="font-bold text-indigo-900 mb-3 text-lg">Rebuilding Phase (6-24 Months)</h5>
                 <p className="text-gray-700 mb-2">You can get a <strong>Secured Credit Card</strong> (backed by a Fixed Deposit of ₹20k-50k). Use it for small payments (Grocery/Petrol) and pay back 100% on time. This positive payment history is the secret to rebuilding your score rapidly.</p>
               </div>
               <div className="bg-white/60 p-6 rounded-xl backdrop-blur-sm md:col-span-2">
-                 <h4 className="font-bold text-indigo-900 mb-3 text-lg">The Future (2+ Years)</h4>
+                 <h5 className="font-bold text-indigo-900 mb-3 text-lg">The Future (2+ Years)</h5>
                  <p className="text-gray-700 mb-2">Once your score crosses 750 again, you become eligible for loans. Lenders care more about your <strong>recent behavior</strong> (last 24-36 months) than a past settlement. After 7 years, the 'Settlement' flag often disappears entirely from reports, leaving you with a clean slate.</p>
               </div>
             </div>
@@ -678,13 +678,13 @@ export default function CreditCardSettlementPage() {
 
           {/* Case Studies (Expanded) */}
           <section id="case-studies" className="scroll-mt-32">
-            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">Real Success Stories</h2>
+            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">Real Success Stories</h3>
             <div className="grid md:grid-cols-2 gap-6">
               <div className="bg-white p-6 rounded-xl border border-gray-100 shadow-sm hover:shadow-md transition-shadow">
                  <div className="flex items-center mb-4">
                    <div className="w-12 h-12 bg-gray-200 rounded-full flex items-center justify-center text-gray-500 font-bold text-xl mr-4">R</div>
                    <div>
-                     <h3 className="font-bold text-gray-900">Rahul S. (IT Professional, Pune)</h3>
+                     <h4 className="font-bold text-gray-900">Rahul S. (IT Professional, Pune)</h4>
                      <p className="text-sm text-gray-500">Total Debt: ₹8.4 Lakhs</p>
                    </div>
                  </div>
@@ -699,7 +699,7 @@ export default function CreditCardSettlementPage() {
                  <div className="flex items-center mb-4">
                    <div className="w-12 h-12 bg-gray-200 rounded-full flex items-center justify-center text-gray-500 font-bold text-xl mr-4">A</div>
                    <div>
-                     <h4 className="font-bold text-gray-900">Anita G. (Small Business Owner, Delhi)</h4>
+                     <h5 className="font-bold text-gray-900">Anita G. (Small Business Owner, Delhi)</h5>
                      <p className="text-sm text-gray-500">Total Debt: ₹12 Lakhs</p>
                    </div>
                  </div>
@@ -714,7 +714,7 @@ export default function CreditCardSettlementPage() {
                  <div className="flex items-center mb-4">
                    <div className="w-12 h-12 bg-gray-200 rounded-full flex items-center justify-center text-gray-500 font-bold text-xl mr-4">S</div>
                    <div>
-                     <h4 className="font-bold text-gray-900">Suresh K. (Government Employee, Chennai)</h4>
+                     <h5 className="font-bold text-gray-900">Suresh K. (Government Employee, Chennai)</h5>
                      <p className="text-sm text-gray-500">Total Debt: ₹5.6 Lakhs</p>
                    </div>
                  </div>
@@ -729,9 +729,9 @@ export default function CreditCardSettlementPage() {
           </section>
 
           {/* FAQs - Expanded */}
-          <h2 id="faqs" className="scroll-mt-32 text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">
+          <h3 id="faqs" className="scroll-mt-32 text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">
             Frequently Asked Questions
-          </h2>
+          </h3>
           <div className="space-y-4 not-prose mb-20">
             {[
               { 
@@ -837,7 +837,7 @@ export default function CreditCardSettlementPage() {
           <div className="lg:hidden mt-16 mb-8">
             <div className="bg-white rounded-2xl shadow-xl overflow-hidden border border-[#1F5EFF]/20">
               <div className="bg-[#1F5EFF] p-6 text-center text-white">
-                <h3 className="text-2xl font-black mb-2">Free Debt Analysis</h3>
+                <h4 className="text-2xl font-black mb-2">Free Debt Analysis</h4>
                 <p className="opacity-90 text-sm">Stop paying 42% interest. Find out if you qualify for a waiver.</p>
               </div>
               <div className="p-8 text-center">

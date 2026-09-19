@@ -205,7 +205,7 @@ export default function LegalImplicationsPage() {
                 That said, "non-payment" is not without its legal repercussions. While it is rarely a criminal matter at its core, specific technicalities (like cheque bounces) can lead to criminal proceedings. In this 5000+ word guide, we will peel back the layers of the Negotiable Instruments Act, the Payment and Settlement Systems Act, and the SARFAESI process to give you a clear, objective view of where you stand.
               </p>
 
-              <h3 className="text-2xl font-bold mt-12 mb-6 text-[#2E2E2E]">The Psychology of Legal Threats</h3>
+              <h4 className="text-2xl font-bold mt-12 mb-6 text-[#2E2E2E]">The Psychology of Legal Threats</h4>
               <p className="text-lg leading-relaxed mb-6">
                 The first thing to understand is that banks and NBFCs are not in the business of litigation, they are in the business of profit. A court case in India can drag on for a decade or more. During this time, the bank's money is stuck, they are paying legal fees, and their NPA ratios look bad to the RBI. Therefore, the "Legal Notice" you receive is often less of an actual precursor to a lawsuit and more of a psychological nudge to get you to prioritize their payment over your basic needs.
               </p>
@@ -213,21 +213,21 @@ export default function LegalImplicationsPage() {
                 By understanding this power dynamic, you can negotiate from a position of strength. A borrower who knows their rights is much more likely to secure a favorable One-Time Settlement (OTS) than one who is panicked by every SMS from a recovery agency.
               </p>
 
-              <h3 className="text-2xl font-bold mt-12 mb-6 text-[#2E2E2E]">Supreme Court Landmark: Jolly George Varghese case</h3>
+              <h4 className="text-2xl font-bold mt-12 mb-6 text-[#2E2E2E]">Supreme Court Landmark: Jolly George Varghese case</h4>
               <p className="text-lg leading-relaxed mb-6">
                 In 1980, the Supreme Court of India delivered a judgment that serves as the bedrock of debtor protection. Justice Krishna Iyer famously noted that in a country where poverty is widespread, the simple failure to repay a debt should not lead to the deprivation of liberty. This means that as long as you can prove that your inability to pay is due to genuine financial distress (job loss, business failure, medical emergency), the threat of jail is legally hollow for civil defaults.
               </p>
             </section>
 
             <section id="section-138-ni-act" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                 Section 138 NI Act: The "Cheque Bounce" Reality
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 This is the single most common legal leverage used by lenders. When you take a loan, you often provide "Security Cheques." If the bank deposits these cheques and they bounce due to "Insufficient Funds," they can initiate a case under Section 138 of the Negotiable Instruments Act.
               </p>
               <div className="bg-gray-50 border border-gray-200 rounded-2xl p-8 mb-8">
-                <h3 className="text-xl font-bold mb-4 text-[#2E2E2E]">The 138 Process Timeline:</h3>
+                <h4 className="text-xl font-bold mb-4 text-[#2E2E2E]">The 138 Process Timeline:</h4>
                 <ul className="space-y-4 text-sm text-gray-700">
                   <li className="flex gap-3"><span className="font-bold text-[#1F5EFF]">1.</span> <strong>Notice:</strong> The lender must send you a formal demand notice within 30 days of the cheque bouncing.</li>
                   <li className="flex gap-3"><span className="font-bold text-[#1F5EFF]">2.</span> <strong>Response Time:</strong> You have 15 days from the receipt of the notice to pay the specified amount.</li>
@@ -238,7 +238,7 @@ export default function LegalImplicationsPage() {
                 While this is a "criminal" section, it is technically a 'quasi-criminal' offense. Courts often encourage mediation and settlement. If you settle the loan through an OTS, the bank will withdraw this complaint, and the matter ends.
               </p>
 
-              <h3 className="text-2xl font-bold mt-12 mb-6 text-[#2E2E2E]">Common Defenses in 138 Cases</h3>
+              <h4 className="text-2xl font-bold mt-12 mb-6 text-[#2E2E2E]">Common Defenses in 138 Cases</h4>
               <p className="text-lg leading-relaxed mb-6">
                 If the bank files a 138 case, all is not lost. There are several technical and procedural defenses. For example, if the bank failed to send the notice to your correct address within the 30-day window, the case can be dismissed. Similarly, if the cheque was for an amount exceeding your actual debt (including interest), it might not be valid for a 138 prosecution. However, the most effective defense is always a settlement offer backed by a professional consultant.
               </p>
@@ -248,18 +248,18 @@ export default function LegalImplicationsPage() {
             </section>
 
             <section id="section-25-pss-act" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                 Section 25 PSS Act: The Electronic Equivalent
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 Many modern loans don't use cheques; they use NACH (National Automated Clearing House) or ECS (Electronic Clearing Service) mandates. If an ECS fail occurs due to insufficient funds, the lender can file a case under Section 25 of the Payment and Settlement Systems Act. The legal weight, the notice requirements, and the final penalties of this Act mirror those of Section 138 exactly. It is the digital version of a cheque bounce and is treated with equal seriousness by the courts.
               </p>
             </section>
 
             <section id="civil-vs-criminal" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                 Civil vs. Criminal Matters: Knowing the Line
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 The core of a loan is a contract. Breaking a contract is a civil wrong, not a crime. This means that if you simply can't pay, the police cannot walk into your home and arrest you. The lender must file a lawsuit in a civil court to recover the money. Criminal charges are only applicable in three scenarios:
               </p>
@@ -271,9 +271,9 @@ export default function LegalImplicationsPage() {
             </section>
 
             <section id="the-sarfaesi-hammer" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                 The SARFAESI Hammer: Risks for Secured Loans
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 If you have a secured loan (Home Loan, Loan Against Property) and the debt exceeds ₹1 lakh, the lender can use the SARFAESI Act. This is the most potent recovery tool because it allows the bank to take possession of your property without going to court.
               </p>
@@ -281,7 +281,7 @@ export default function LegalImplicationsPage() {
                 <p className="text-red-900 font-bold mb-2 uppercase text-xs tracking-widest">Warning</p>
                 <p className="text-red-800">Once an account hits NPA status, the bank issues a Section 13(2) notice giving you 60 days. If you don't settle or pay within this window, they can issue a possession notice under 13(4). Secure loans require strategic settlement intervention BEFORE this phase ends.</p>
               </div>
-              <h3 className="text-2xl font-bold mt-12 mb-6 text-[#2E2E2E]">Can You Challenge SARFAESI?</h3>
+              <h4 className="text-2xl font-bold mt-12 mb-6 text-[#2E2E2E]">Can You Challenge SARFAESI?</h4>
               <p className="text-lg leading-relaxed mb-6">
                 Yes, you can approach the Debt Recovery Tribunal (DRT) under Section 17 of the Act. However, the DRT often requires you to deposit a portion of the debt to stay the auction. This makes SARFAESI cases very difficult for borrowers who are already in a liquidity crunch. The most viable strategy for secured loans is to initiate OTS discussions during the initial 60-day notice period. Banks are often willing to settle if they see that the borrower is making a good-faith effort to close the account rather than just engaging in tactical delays at the DRT.
               </p>
@@ -291,36 +291,36 @@ export default function LegalImplicationsPage() {
             </section>
 
             <section id="summary-suits-order-37" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                 Summary Suits (Order 37): The Fast-Track Recovery
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 For unsecured loans where the debt is clearly documented, lenders often file a "Summary Suit." Unlike regular civil trials that take 10-15 years, a Summary Suit can be decided in months. The defendant doesn't have an automatic right to defend; they must show the judge they have a genuine triable issue. If the judge doesn't grant 'Leave to Defend,' the lender gets an immediate decree. This is why legal representation or a timely settlement offer is vital.
               </p>
             </section>
 
             <section id="arbitration-clauses" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                 Arbitration Clauses in NBFCs: The Private Court
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 Most NBFC (Non-Banking Financial Company) agreements contain an 'Arbitration Clause'. If you default, they appoint a private 'Arbitrator' who conducts hearings. While it feels less formal than a court, the 'Arbitral Award' has the same legal force as a court decree. If the arbitrator rules against you, the lender can go to a civil court to 'execute' the award, which may lead to the attachment of your bank accounts or salary.
               </p>
             </section>
 
             <section id="rbi-fair-practices-2024" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                 RBI Fair Practices 2024: Your Shield Against Overreach
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 The RBI has released updated guidelines for 2024-2025 to curb unethical recovery practices. Under the "Fair Practices Code," lenders are prohibited from using muscle power or psychological harassment. Every lender is responsible for the conduct of their outsourced recovery agents. Harsh language, threats, and multiple calls throughout the day are violations of these guidelines and can be used as a defense in your negotiations.
               </p>
             </section>
 
             <section id="recovery-agent-boundaries" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                 Recovery Agent Boundaries: What They CANNOT Do
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 Knowledge of these boundaries is your greatest asset during the settlement period:
               </p>
@@ -328,20 +328,20 @@ export default function LegalImplicationsPage() {
                 <li className="flex gap-4 p-4 border rounded-xl hover:bg-gray-50 transition-colors">
                   <div className="text-2xl text-blue-500 font-black">🚫</div>
                   <div>
-                    <h3 className="font-bold">No 3rd Party Disclosure</h3>
+                    <h4 className="font-bold">No 3rd Party Disclosure</h4>
                     <p className="text-sm text-gray-500 italic font-medium">They cannot call your HR, your relatives, or your neighbors to discuss your debt. This is a massive privacy violation and a breach of RBI norms.</p>
                   </div>
                 </li>
                 <li className="flex gap-4 p-4 border rounded-xl hover:bg-gray-50 transition-colors">
                   <div className="text-2xl text-blue-500 font-black">🚫</div>
                   <div>
-                    <h4 className="font-bold">Time Restrictions</h4>
+                    <h5 className="font-bold">Time Restrictions</h5>
                     <p className="text-sm text-gray-500 italic font-medium">Calls and visits are strictly restricted between 8 AM and 7 PM. Any contact outside these hours is harassment.</p>
                   </div>
                 </li>
               </ul>
 
-              <h3 className="text-2xl font-bold mt-12 mb-6 text-[#2E2E2E]">What the Police Can and Cannot Do</h3>
+              <h4 className="text-2xl font-bold mt-12 mb-6 text-[#2E2E2E]">What the Police Can and Cannot Do</h4>
               <p className="text-lg leading-relaxed mb-6">
                 Recovery agents often threaten to bring a "Havaldar" or "Police Officer" to your door. In 99% of cases, this is a lie. The police are not allowed to interfere in civil recovery matters. A police officer can only visit your house if there is a criminal FIR filed against you (under Section 420 for fraud) or if a court has issued a warrant. If an agent arrives with someone in uniform, you have the right to ask for their ID, their station name, and the specific FIR number. If they cannot provide these, you are likely being intimidated by a hired bouncer in a fake uniform, which is a serious crime in itself.
               </p>
@@ -349,21 +349,21 @@ export default function LegalImplicationsPage() {
                 Furthermore, the Supreme Court has restricted the power of police to arrest in cases where the punishment is less than 7 years (which includes Section 420 and 138). Under the *Arnesh Kumar* guidelines, the police must first issue a notice under Section 41A CrPC before making any arrest.
               </p>
 
-              <h3 className="text-2xl font-bold mt-12 mb-6 text-[#2E2E2E]">Data Privacy and Harassment</h3>
+              <h4 className="text-2xl font-bold mt-12 mb-6 text-[#2E2E2E]">Data Privacy and Harassment</h4>
               <p className="text-lg leading-relaxed mb-6">
                 The Digital Personal Data Protection Act (DPDP) of 2023 has added another layer of protection for borrowers. Banks can no longer share your personal data with third-party agencies without your explicit consent (which you usually give in the fine print of the loan agreement). However, even with consent, the usage of data is restricted. They cannot use your contact list to harass your friends or family. If they do, they are liable for heavy penalties under the new data laws.
               </p>
             </section>
 
             <section id="handling-legal-notices" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                 Handling Legal Notices: Don't Run, Respond!
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 The worst thing a borrower can do is ignore a court summons or a legal notice. Ignoring a 138 notice, for instance, leads the judge to issue 'Bailable' and eventually 'Non-Bailable' warrants. A "Non-Bailable Warrant" is the only stage where the police can actually come to your house for a debt-related matter. However, even this is not for the "debt" itself, but for the "contempt" of ignoring the court's summons. Always respond with the help of a professional debt consultant or lawyer.
               </p>
 
-              <h3 className="text-2xl font-bold mt-12 mb-6 text-[#2E2E2E]">The Art of the Reply Notice</h3>
+              <h4 className="text-2xl font-bold mt-12 mb-6 text-[#2E2E2E]">The Art of the Reply Notice</h4>
               <p className="text-lg leading-relaxed mb-6">
                 When you receive a 138 notice, your "Reply" sets the narrative for the entire case. A well-drafted reply will highlight that the cheque was issued for "Security Purposes" only and not against a specific "Legally Enforceable Debt" that was due on that specific date. It should also detail the hardships you have faced, creating a record of your good-faith intent to resolve the matter. This reply often makes the bank realize that you are not an easy target, nudging them towards a faster OTS.
               </p>
@@ -373,13 +373,13 @@ export default function LegalImplicationsPage() {
             </section>
 
             <section id="lok-adalat-role" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                 The Role of Lok Adalat: The Settlement Gateway
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 Lok Adalats are "People's Courts" organized by the government to resolve pendency in the regular court system. Many banks send "Pre-Litigation Notices" for Lok Adalat. This is NOT a threat; it's an opportunity. The judges in Lok Adalat are there to facilitate a settlement (OTS). The settlements reached here are final, non-appealable, and have the force of a court decree. It is often the best place to close a debt with zero future legal risk.
               </p>
-              <h3 className="text-2xl font-bold mt-12 mb-6 text-[#2E2E2E]">What Happens Inside a Lok Adalat?</h3>
+              <h4 className="text-2xl font-bold mt-12 mb-6 text-[#2E2E2E]">What Happens Inside a Lok Adalat?</h4>
               <p className="text-lg leading-relaxed mb-6">
                 Unlike a regular court room, a Lok Adalat is informal. You sit with the bank's representative in front of a retired judge or a senior lawyer. The judge often actively helps in the negotiation, asking the bank to be more lenient based on your socio-economic condition. If you reach an agreement, it is written down as an 'Award'. If you don't agree, you can simply walk away, and the matter returns to the regular legal process. There is no penalty for not agreeing in a Lok Adalat.
               </p>
@@ -389,22 +389,22 @@ export default function LegalImplicationsPage() {
             </section>
 
             <section id="impact-of-genuine-hardship" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                 Genuine Hardship Proof: Your Best Legal Defense
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 If your matter ever reaches a judge, your "story" matters. Indian law is compassionate towards those who *can't* pay vs. those who *won't* pay. Documenting your hardship, such as medical records, job termination letters, or business loss proofs, turns you from a "defaulter" into a "distressed citizen." Judges often push banks to be more flexible when clear evidence of hardship is presented.
               </p>
             </section>
 
             <section id="settlement-as-a-remedy" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                 Settlement as a Remedy: Closing the Legal Chapter
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 Debt settlement is the only bridge between financial distress and legal safety. By negotiating a One-Time Settlement, you create a new, final contract with the bank. This new contract supersedes the old loan agreement. Once you pay the settled amount and receive the 'No Dues Certificate', the bank is legally barred from ever taking action against you for that debt again.
               </p>
-              <h3 className="text-2xl font-bold mt-12 mb-6 text-[#2E2E2E]">The Role of a Professional Debt Consultant</h3>
+              <h4 className="text-2xl font-bold mt-12 mb-6 text-[#2E2E2E]">The Role of a Professional Debt Consultant</h4>
               <p className="text-lg leading-relaxed mb-6">                Navigating the legal minefield of the Indian banking system is not something you should do alone. A professional debt consultant, like those at <strong>AMA Legal Solutions</strong>, <strong>CredSettle</strong>, or <strong>SettleLoans</strong>, acts as a buffer between you and the lender. They understand the "Internal Policy" of the bank, which is often different from the "Public Policy."
               </p>
               <p className="text-lg leading-relaxed mb-6">
@@ -419,14 +419,14 @@ export default function LegalImplicationsPage() {
             </section>
 
             <section id="withdrawing-cases" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                 Withdrawing Pending Cases: The Clean Slate
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 A vital part of the settlement process is the "Withdrawal Application." If an NI Act 138 case is pending, the bank's lawyer must file an application in court stating that the matter has been settled out of court. The judge then dismisses the case. Always ensure your settlement letter mentions that "all pending legal proceedings shall be withdrawn upon receipt of the final settlement installment."
               </p>
 
-              <h3 className="text-2xl font-bold mt-12 mb-6 text-[#2E2E2E]">Section 143A: The Interim Compensation Trap</h3>
+              <h4 className="text-2xl font-bold mt-12 mb-6 text-[#2E2E2E]">Section 143A: The Interim Compensation Trap</h4>
               <p className="text-lg leading-relaxed mb-6">
                 In 2018, the Negotiable Instruments Act was amended to include Section 143A. This section allows a judge to order the drawer of a bounced cheque to pay up to 20% of the cheque amount as "Interim Compensation" while the trial is still ongoing. This is a significant blow to distressed borrowers. However, this is not an automatic order. A skilled legal consultant can argue against this by showing that the case is not 'Prima Facie' strong or that the borrower is in extreme financial hardship.
               </p>
@@ -434,21 +434,21 @@ export default function LegalImplicationsPage() {
                 If the borrower is acquitted later, this 20% must be returned with interest. But for someone in a settlement program, avoiding this 20% payment is critical for maintaining the savings pool for the final OTS.
               </p>
 
-              <h3 className="text-2xl font-bold mt-12 mb-6 text-[#2E2E2E]">Malafide vs. Bonafide Defaults</h3>
+              <h4 className="text-2xl font-bold mt-12 mb-6 text-[#2E2E2E]">Malafide vs. Bonafide Defaults</h4>
               <p className="text-lg leading-relaxed mb-6">
                 The Indian legal system distinguishes between "Bonafide" defaults (where the borrower wants to pay but can't) and "Malafide" defaults (where the borrower can pay but chooses to defraud the bank). Settlement consultants help you stay on the "Bonafide" side by maintaining consistent communication with the bank. Even if you can't pay the full EMI, sending occasional "Hardship Update" emails proves that you are not absconding. This documentation is your strongest shield if the bank tries to file a "Wilful Defaulter" notice.
               </p>
             </section>
 
             <section id="the-future-of-debt-laws" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                 The Future of Debt Laws: Insolvency and You
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 The Personal Insolvency provisions of the IBC are slowly being rolled out across India. In the future, individuals will have the right to file for 'Fresh Start' orders or 'Insolvency Resolution,' providing a formal legal shield against all creditors simultaneously. Until then, negotiated debt settlement remains the most practical and accessible way to resolve non-payment issues without falling into a legal abyss.
               </p>
 
-              <h3 className="text-2xl font-bold mt-12 mb-6 text-[#2E2E2E]">International Comparisons: Chapter 7 and 13</h3>
+              <h4 className="text-2xl font-bold mt-12 mb-6 text-[#2E2E2E]">International Comparisons: Chapter 7 and 13</h4>
               <p className="text-lg leading-relaxed mb-6">
                 Borrowers often look at the US system where Bankruptcy (Chapter 7 or 13) is a common and relatively shame-free process. In the US, most unsecured debt can be wiped clean by a court order within months. India is not there yet. Our system is still very lender-heavy. This makes the role of debt settlement firms even more critical in India, as they provide the only functional alternative to a system that doesn't yet have a comprehensive "Fresh Start" exit for consumers.
               </p>
@@ -456,7 +456,7 @@ export default function LegalImplicationsPage() {
                 By choosing a path like settlement, you are essentially creating your own "Private Bankruptcy" agreement that is recognized and accepted by the banking industry.
               </p>
 
-              <h3 className="text-2xl font-bold mt-12 mb-6 text-[#2E2E2E]">The Legal Weight of "Settled" Status</h3>
+              <h4 className="text-2xl font-bold mt-12 mb-6 text-[#2E2E2E]">The Legal Weight of "Settled" Status</h4>
               <p className="text-lg leading-relaxed mb-6">
                 Many borrowers ask if "Settled" means the same as "Cleared." Legally, "Settled" means that the creditor has agreed to accept a smaller amount and has waived their right to collect the balance. This is a legally binding contract. While it stays on your CIBIL report, it is a far better status than "Written Off" or "NPA/Defaulted." A "Settled" status shows future lenders that you eventually took responsibility for your debt and reached a closure, even if not for the full amount.
               </p>
@@ -464,19 +464,19 @@ export default function LegalImplicationsPage() {
                 In legal terms, an OTS letter acts as an "Accord and Satisfaction" document. Under the Indian Contract Act, this means the original old debt is replaced by the new settlement agreement. Once the new agreement is fulfilled, the old debt ceases to exist in the eyes of the law.
               </p>
 
-              <h3 className="text-2xl font-bold mt-12 mb-6 text-[#2E2E2E]">The Supreme Court vs. Bouncers: The Shanti Devi Legacy</h3>
+              <h4 className="text-2xl font-bold mt-12 mb-6 text-[#2E2E2E]">The Supreme Court vs. Bouncers: The Shanti Devi Legacy</h4>
               <p className="text-lg leading-relaxed mb-6">
                 The landmark judgment of *ICICI Bank vs. Shanti Devi* (2008) is the bedrock of borrower protection in India. The Supreme Court made it clear that banks are "vicariously liable" for the actions of their recovery agents. If an agent uses "muscle power" or "criminal intimidation," the bank cannot wash its hands of responsibility. This judgment led to the strict RBI Master Circular on Fair Practices Code for Lenders. If you are ever physically threatened, citing this case and the RBI circular usually makes the bank's legal department step in to pull back their over-aggressive agents.
               </p>
 
-              <h3 className="text-2xl font-bold mt-12 mb-6 text-[#2E2E2E]">Can You Travel Abroad with Defaults?</h3>
+              <h4 className="text-2xl font-bold mt-12 mb-6 text-[#2E2E2E]">Can You Travel Abroad with Defaults?</h4>
               <p className="text-lg leading-relaxed mb-6">
                 A common fear is that the bank will put you on a "No Fly List." In India, the right to travel abroad is a fundamental right under Article 21 of the Constitution (as established in the *Maneka Gandhi* case). A bank cannot stop you from traveling abroad unless they have obtained a specific "Look Out Circular" (LOC) from a court, which is usually reserved for economic offenders like Vijay Mallya or Nirav Modi who owe hundreds of crores. For a typical personal loan or credit card default, your passport and your right to travel remain perfectly safe.
               </p>
             </section>
 
             <section id="success-stories" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 text-center uppercase tracking-wider">Real Stories of Freedom</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 text-center uppercase tracking-wider">Real Stories of Freedom</h3>
               <div className="grid md:grid-cols-2 gap-6 not-prose">
                 {[
                   {
@@ -514,7 +514,7 @@ export default function LegalImplicationsPage() {
                         {review.name.charAt(0)}
                       </div>
                       <div>
-                        <h3 className="font-bold text-[#2E2E2E]">{review.name}</h3>
+                        <h4 className="font-bold text-[#2E2E2E]">{review.name}</h4>
                         <p className="text-xs text-gray-400">{review.loc}</p>
                       </div>
                       <div className="ml-auto text-yellow-400 text-sm">★★★★★</div>
@@ -529,7 +529,7 @@ export default function LegalImplicationsPage() {
             </section>
 
             <section id="faqs" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 uppercase tracking-wider">Frequently Asked Questions</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 uppercase tracking-wider">Frequently Asked Questions</h3>
               <div className="space-y-4 not-prose">
                 {faqs.map((faq, i) => (
                   <details key={i} className="group bg-white border border-[#DEDEDE] rounded-xl overflow-hidden hover:shadow-md transition-all border-b-4 border-b-[#1F5EFF]/20">

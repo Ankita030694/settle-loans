@@ -581,9 +581,9 @@ export default function StandardCharteredLoanCreditCardSettlementPage() {
                 <Calculator className="w-4 h-4" />
                 <span>2. Finance Charges &amp; Compounding Mechanics</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 The Compounding Debt Trap: How Standard Chartered Finance Charges Inflate Overdue Balances
-              </h2>
+              </h3>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 The primary driver of distress for Standard Chartered credit cardholders is the exponential acceleration of monthly finance charges once the minimum amount due is missed. Standard Chartered credit cards apply monthly finance charges ranging between <strong>3.75% and 3.99%</strong>, which translates into an effective <strong>Annual Percentage Rate (APR) of 45.0% to 52.8%</strong>. When combined with mandatory 18% Goods and Services Tax (GST) levied on all interest charges, late payment fees scaling up to ₹1,200 per billing cycle, over-limit charges, and automated transaction bounce penalties, an overdue card balance escalates rapidly.
               </p>
@@ -612,9 +612,9 @@ export default function StandardCharteredLoanCreditCardSettlementPage() {
                 <Clock className="w-4 h-4" />
                 <span>3. Delinquency Timeline &amp; Central Hub Escalation</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 Delinquency Stages, Asset Classification, and Escalation to Central Collections Hub
-              </h2>
+              </h3>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 The resolution trajectory of a defaulted Standard Chartered personal loan or credit card follows a rigid regulatory progression established by the RBI&apos;s Prudential Norms on Income Recognition, Asset Classification, and Provisioning pertaining to Advances (IRAC Norms). Understanding these exact chronological stages enables borrowers to time their settlement petitions for maximum institutional receptivity.
               </p>
@@ -635,9 +635,9 @@ export default function StandardCharteredLoanCreditCardSettlementPage() {
                 <Scale className="w-4 h-4" />
                 <span>4. Section 171 Lien &amp; Section 25 PSSA Defense</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 Banker&apos;s Right of Lien (Section 171) and Defending Statutory Legal Notices
-              </h2>
+              </h3>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 A critical legal dimension that borrowers must navigate when dealing with Standard Chartered Bank is the statutory doctrine of the <strong>Banker&apos;s Right of General Lien and Set-Off</strong>, codified under Section 171 of the Indian Contract Act, 1872. If a borrower defaults on a Standard Chartered credit card or personal loan while simultaneously maintaining a Savings Account, Priority Banking Account, Salary Account, Current Account, or Fixed Deposit with Standard Chartered Bank, the bank will unilaterally freeze and sweep those deposited funds to adjust against the overdue loan ledger under the same Customer Information File (CIF) or PAN.
               </p>
@@ -658,9 +658,9 @@ export default function StandardCharteredLoanCreditCardSettlementPage() {
                 <div className="p-5 bg-gradient-to-r from-slate-900 to-slate-800 text-white flex items-center justify-between">
                   <div className="flex items-center gap-2.5">
                     <Layers className="w-5 h-5 text-blue-400" />
-                    <h3 className="text-base font-bold text-white tracking-wide">
+                    <h4 className="text-base font-bold text-white tracking-wide">
                       Standard Chartered Bank India: Strategic Debt Resolution Blueprint
-                    </h3>
+                    </h4>
                   </div>
                   <span className="text-xs bg-blue-500/30 text-blue-200 px-3 py-1 rounded-full font-semibold border border-blue-400/30">
                     Resolution Flowchart
@@ -699,9 +699,9 @@ export default function StandardCharteredLoanCreditCardSettlementPage() {
                 <Calculator className="w-4 h-4" />
                 <span>5. OTS Haircut Policies &amp; NPV Valuation Formula</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 One-Time Settlement (OTS) Haircut Mechanics and the Net Present Value Recovery Formula
-              </h2>
+              </h3>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 A common misconception among defaulting cardholders is that Standard Chartered Bank agrees to debt settlements out of charitable sympathy. In commercial reality, every compromise settlement sanctioned by Standard Chartered is an analytical financial decision driven by risk management algorithms and balance-sheet recovery modeling known as the <strong>Net Present Value (NPV) Recovery Assessment</strong>.
               </p>
@@ -734,9 +734,9 @@ export default function StandardCharteredLoanCreditCardSettlementPage() {
                 <ShieldAlert className="w-4 h-4" />
                 <span>6. Third-Party Recovery Defense &amp; RBI Mandates</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 Defending Against Aggressive Recovery Agencies Under RBI Master Directions
-              </h2>
+              </h3>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Standard Chartered Bank outsources the field recovery of delinquent retail accounts to external third-party Debt Recovery Agencies (DRAs) across major Indian metros. Because these outsourced collection agencies operate on high recovery commission slabs (often earning 10% to 25% of any collected amount), their collection tele-callers and field personnel frequently resort to unlawful, coercive tactics designed to induce panic.
               </p>
@@ -775,9 +775,9 @@ export default function StandardCharteredLoanCreditCardSettlementPage() {
                 <Layers className="w-4 h-4" />
                 <span>7. Step-by-Step Central Hub Settlement Roadmap</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 Step-by-Step Roadmap: Negotiating Directly with Standard Chartered Central Collections Hub
-              </h2>
+              </h3>
               <p className="text-slate-700 leading-relaxed mb-6 text-base md:text-lg">
                 Executing a legally airtight, financially optimized One-Time Settlement with Standard Chartered Bank requires a structured, multi-phase methodology:
               </p>
@@ -785,10 +785,10 @@ export default function StandardCharteredLoanCreditCardSettlementPage() {
               <div className="space-y-6">
                 {/* Step 1 */}
                 <div className="p-6 rounded-2xl bg-white border border-slate-200 shadow-sm">
-                  <h3 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
+                  <h4 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
                     <span className="w-7 h-7 rounded-lg bg-blue-50 text-[#1F5EFF] font-black text-sm flex items-center justify-center border border-blue-200">1</span>
                     Comprehensive Financial Audit &amp; Hardship Dossier Compilation
-                  </h3>
+                  </h4>
                   <p className="text-slate-600 text-sm md:text-base leading-relaxed">
                     Compile irrefutable documentary evidence establishing bona fide, involuntary financial incapacity. Critical documents include salary reduction or termination letters, audited business balance sheets, hospital bills and discharge summaries, or bank account statements evidencing depleted liquidity. This conclusively proves that default is non-wilful and qualifies under RBI compromise guidelines.
                   </p>
@@ -796,10 +796,10 @@ export default function StandardCharteredLoanCreditCardSettlementPage() {
 
                 {/* Step 2 */}
                 <div className="p-6 rounded-2xl bg-white border border-slate-200 shadow-sm">
-                  <h3 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
+                  <h4 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
                     <span className="w-7 h-7 rounded-lg bg-blue-50 text-[#1F5EFF] font-black text-sm flex items-center justify-center border border-blue-200">2</span>
                     Revoking Mandates &amp; Establishing Exclusive Legal Channels
-                  </h3>
+                  </h4>
                   <p className="text-slate-600 text-sm md:text-base leading-relaxed">
                     Instruct your operational bank to suspend active e-NACH mandates to prevent recurring bounce charges. Issue a formal communication to Standard Chartered Bank directing that all future communications must be conducted via official email or through designated legal counsel, stopping third-party tele-calling.
                   </p>
@@ -807,10 +807,10 @@ export default function StandardCharteredLoanCreditCardSettlementPage() {
 
                 {/* Step 3 */}
                 <div className="p-6 rounded-2xl bg-white border border-slate-200 shadow-sm">
-                  <h3 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
+                  <h4 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
                     <span className="w-7 h-7 rounded-lg bg-blue-50 text-[#1F5EFF] font-black text-sm flex items-center justify-center border border-blue-200">3</span>
                     Submitting Formal Hardship Petition to Central Collections Hub
-                  </h3>
+                  </h4>
                   <p className="text-slate-600 text-sm md:text-base leading-relaxed">
                     Submit a detailed One-Time Settlement petition addressed directly to Standard Chartered Bank&apos;s Central Collections and Stressed Asset Hub in Chennai and Regional Zonal Desks. Anchor the initial settlement offer at 25% to 35% of total ledger dues, citing RBI compromise settlement directives.
                   </p>
@@ -818,10 +818,10 @@ export default function StandardCharteredLoanCreditCardSettlementPage() {
 
                 {/* Step 4 */}
                 <div className="p-6 rounded-2xl bg-white border border-slate-200 shadow-sm">
-                  <h3 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
+                  <h4 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
                     <span className="w-7 h-7 rounded-lg bg-blue-50 text-[#1F5EFF] font-black text-sm flex items-center justify-center border border-blue-200">4</span>
                     Structured Counter-Negotiation with Credit Committees
-                  </h3>
+                  </h4>
                   <p className="text-slate-600 text-sm md:text-base leading-relaxed">
                     The bank&apos;s recovery team will initially propose modest concessions (10%–20%). Experienced legal counsel counters by demonstrating that settlement funds are being pooled from third-party family loans or non-operational asset liquidation, steering the Credit Committee toward the optimal 40% to 65% principal haircut band.
                   </p>
@@ -829,10 +829,10 @@ export default function StandardCharteredLoanCreditCardSettlementPage() {
 
                 {/* Step 5 */}
                 <div className="p-6 rounded-2xl bg-white border border-slate-200 shadow-sm">
-                  <h3 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
+                  <h4 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
                     <span className="w-7 h-7 rounded-lg bg-blue-50 text-[#1F5EFF] font-black text-sm flex items-center justify-center border border-blue-200">5</span>
                     Rigorous Forensic Audit of the OTS Sanction Letter
-                  </h3>
+                  </h4>
                   <p className="text-slate-600 text-sm md:text-base leading-relaxed">
                     Before authorizing any funds, conduct a forensic audit of the settlement letter. Verify that it is printed on official Standard Chartered Bank India letterhead, contains the exact card/loan account numbers, sanctioned compromise amount, clear payment tranches, and explicit covenants confirming complete debt extinguishment.
                   </p>
@@ -840,10 +840,10 @@ export default function StandardCharteredLoanCreditCardSettlementPage() {
 
                 {/* Step 6 */}
                 <div className="p-6 rounded-2xl bg-white border border-slate-200 shadow-sm">
-                  <h3 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
+                  <h4 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
                     <span className="w-7 h-7 rounded-lg bg-blue-50 text-[#1F5EFF] font-black text-sm flex items-center justify-center border border-blue-200">6</span>
                     Direct Account Remittance &amp; Enforcing ₹0 NDC Delivery
-                  </h3>
+                  </h4>
                   <p className="text-slate-600 text-sm md:text-base leading-relaxed">
                     Remit the agreed settlement amount strictly into your designated Standard Chartered loan/card account via NEFT/RTGS or account payee cheque. Under RBI Circular RBI/2023-24/60, the bank must issue a formal No Dues Certificate (NDC) and update credit bureau records within 30 calendar days.
                   </p>
@@ -857,9 +857,9 @@ export default function StandardCharteredLoanCreditCardSettlementPage() {
                 <FileCheck className="w-4 h-4" />
                 <span>8. Sanction Letter Audit &amp; ₹0 NDC Mandate</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 Sanction Letter Forensics: Verifying Authentic Letters and Enforcing the ₹0 NDC Mandate
-              </h2>
+              </h3>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 The single most perilous hazard in credit card and personal loan settlement is the prevalence of fake or unauthorized settlement letters generated by rogue third-party collection agents. Under high monthly collection targets, unscrupulous agency callers fabricate PDF settlement letters or send informal WhatsApp approvals promising account closure upon partial payment. If a borrower deposits money against an unverified letter, Standard Chartered treats the deposit as a routine partial recovery against accrued finance charges, leaving the default active and compounding.
               </p>
@@ -895,9 +895,9 @@ export default function StandardCharteredLoanCreditCardSettlementPage() {
                 <TrendingUp className="w-4 h-4" />
                 <span>9. CIBIL Trajectory &amp; Comparative Matrix</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 CIBIL Score Trajectory Post-Settlement, Credit Rehabilitation &amp; Comparative Matrix
-              </h2>
+              </h3>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Upon successful execution of a One-Time Settlement, Standard Chartered Bank transmits updated records to all four licensed credit information bureaus in India: TransUnion CIBIL, Experian, Equifax, and CRIF High Mark. In compliance with credit reporting guidelines, the bureau status transitions from &apos;Overdue/Default&apos; to <strong>&apos;Settled&apos;</strong> or <strong>&apos;Post-Write-off Settled&apos;</strong>, with the outstanding dues balance updated to exactly <strong>₹0</strong>.
               </p>
@@ -960,9 +960,9 @@ export default function StandardCharteredLoanCreditCardSettlementPage() {
                 <ShieldCheck className="w-4 h-4" />
                 <span>10. Legal Defense &amp; Representation</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 Why Distressed Standard Chartered Borrowers Choose SettleLoans
-              </h2>
+              </h3>
               <p className="text-slate-700 leading-relaxed mb-6 text-base md:text-lg">
                 Navigating a high-ticket debt settlement with an international foreign bank requires sophisticated financial acumen, deep understanding of banking regulations, and robust legal advocacy. SettleLoans provides complete end-to-end protection for Standard Chartered credit cardholders and personal loan borrowers: we halt third-party recovery harassment through immediate cease-and-desist notices, draft statutory replies to Section 25 PSSA and Section 138 notices, and negotiate directly with Standard Chartered Bank&apos;s Central Collections and Stressed Asset Hub to secure maximum lawful debt haircuts and authentic ₹0 No Dues Certificates.
               </p>
@@ -979,9 +979,9 @@ export default function StandardCharteredLoanCreditCardSettlementPage() {
                 <HelpCircle className="w-4 h-4" />
                 <span>11. Frequently Asked Questions</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
                 Frequently Asked Questions About Standard Chartered Bank Settlement
-              </h2>
+              </h3>
 
               <div className="space-y-4">
                 {faqs.map((faq, index) => (
@@ -1007,10 +1007,10 @@ export default function StandardCharteredLoanCreditCardSettlementPage() {
 
             {/* Regulatory References & Official Sources Strip (5 Official Links) */}
             <div className="bg-slate-50 border border-slate-200 rounded-2xl p-6 my-10">
-              <h3 className="text-base font-bold text-slate-900 mb-4 flex items-center gap-2">
+              <h4 className="text-base font-bold text-slate-900 mb-4 flex items-center gap-2">
                 <Landmark className="w-5 h-5 text-[#1F5EFF]" />
                 Official Regulatory References &amp; Statutory Circulars
-              </h3>
+              </h4>
               <ul className="space-y-3 text-xs text-slate-600">
                 <li className="flex items-start gap-2">
                   <ExternalLink className="w-4 h-4 text-[#1F5EFF] flex-shrink-0 mt-0.5" />
@@ -1072,10 +1072,10 @@ export default function StandardCharteredLoanCreditCardSettlementPage() {
 
             {/* Related Guides & Resources Strip (10 Topic Badges) */}
             <div className="bg-slate-50 border border-slate-200 rounded-2xl p-6 my-10">
-              <h3 className="text-base font-bold text-slate-900 mb-4 flex items-center gap-2">
+              <h4 className="text-base font-bold text-slate-900 mb-4 flex items-center gap-2">
                 <BookOpen className="w-5 h-5 text-[#1F5EFF]" />
                 Explore Related Banking &amp; Debt Resolution Guides
-              </h3>
+              </h4>
               <div className="flex flex-wrap gap-2.5">
                 <Link
                   href="/credit-card-settlement-above-1-lakh"

@@ -265,15 +265,15 @@ export default function ExtraEMIPersonalLoanPage() {
 
             {/* Blue Important Box */}
             <section id="how-extra-emi-works" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 How Paying Extra EMI Works
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 When you pay your regular monthly EMI, the bank splits the amount. One part goes to the interest accrued that month, and the remainder reduces your principal. But when you make a partial prepayment—like an extra EMI—the math changes.
               </p>
 
               <div className="bg-blue-50 border-l-8 border-[#1F5EFF] p-8 rounded-r-2xl mb-8">
-                <h3 className="text-xl font-black text-[#1F5EFF] mb-4">The Principal Annihilation Effect</h3>
+                <h4 className="text-xl font-black text-[#1F5EFF] mb-4">The Principal Annihilation Effect</h4>
                 <p className="text-blue-900 text-lg leading-relaxed mb-4">
                   Any amount you pay over and above your regular EMI is legally required to be adjusted directly against your <strong>outstanding principal balance</strong>. 
                 </p>
@@ -296,34 +296,34 @@ export default function ExtraEMIPersonalLoanPage() {
 
             {/* 4-Grid Info Boxes */}
             <section id="the-mathematics" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 The Mathematics of Savings
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 Let's look at the incredible power of the "13th EMI" rule. Imagine you have a personal loan of ₹10 Lakhs at 14% interest for 5 years.
               </p>
 
               <div className="grid md:grid-cols-2 gap-6 my-8">
                 <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
-                  <h3 className="font-black text-[#1F5EFF] text-lg mb-3">Standard Repayment</h3>
+                  <h4 className="font-black text-[#1F5EFF] text-lg mb-3">Standard Repayment</h4>
                   <p className="text-gray-700 leading-relaxed">
                     Paying 12 EMIs a year for 5 years means you will pay roughly ₹3.97 Lakhs in just interest over the tenure.
                   </p>
                 </div>
                 <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
-                  <h4 className="font-black text-[#1F5EFF] text-lg mb-3">One Extra EMI per Year</h4>
+                  <h5 className="font-black text-[#1F5EFF] text-lg mb-3">One Extra EMI per Year</h5>
                   <p className="text-gray-700 leading-relaxed">
                     Paying just 1 extra EMI annually (13 total/year) saves you approximately ₹65,000 in interest and closes the loan 8 months early.
                   </p>
                 </div>
                 <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
-                  <h4 className="font-black text-[#1F5EFF] text-lg mb-3">Double EMI Payment Benefits</h4>
+                  <h5 className="font-black text-[#1F5EFF] text-lg mb-3">Double EMI Payment Benefits</h5>
                   <p className="text-gray-700 leading-relaxed">
                     Paying double EMI randomly whenever you have surplus cash (like a bonus) in the first 2 years can easily slash your tenure by over a year.
                   </p>
                 </div>
                 <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
-                  <h4 className="font-black text-[#1F5EFF] text-lg mb-3">The 5% Increase Rule</h4>
+                  <h5 className="font-black text-[#1F5EFF] text-lg mb-3">The 5% Increase Rule</h5>
                   <p className="text-gray-700 leading-relaxed">
                     Instead of lump sums, increasing your regular monthly EMI by just 5% every year yields similar massive interest savings.
                   </p>
@@ -334,9 +334,9 @@ export default function ExtraEMIPersonalLoanPage() {
             {/* Tax Implications Box */}
             <section id="tax-implications" className="scroll-mt-32 mb-16">
               <div className="bg-gray-50 p-8 rounded-2xl mb-8 border border-gray-200">
-                <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-4">
+                <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-4">
                   Tax Implications of Prepayment
-                </h2>
+                </h3>
                 <p className="text-gray-800 text-lg leading-relaxed mb-4">
                   Before you rush to pay an extra EMI, consider the tax benefits you might be losing. Unlike home loans or education loans, personal loans do not generally offer tax deductions on interest paid, unless the personal loan was used explicitly for business purposes or home renovation.
                 </p>
@@ -348,9 +348,9 @@ export default function ExtraEMIPersonalLoanPage() {
 
             {/* RBI Prepayment Rules */}
             <section id="rbi-prepayment-rules" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 RBI Rules on Prepayment
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 Banks hate it when you prepay because it eats directly into their projected profits. For a long time, they used "foreclosure charges" to trap borrowers.
               </p>
@@ -364,14 +364,14 @@ export default function ExtraEMIPersonalLoanPage() {
 
             {/* Negotiating Prepayment Charges */}
             <section id="negotiating-with-banks" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 Negotiating Prepayment Charges
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 If you have a fixed-rate personal loan, you might be subject to foreclosure or part-payment charges. However, these are not always set in stone. Many borrowers accept these charges at face value without realizing they can be negotiated or waived entirely.
               </p>
               <div className="bg-white rounded-2xl p-8 border border-[#DEDEDE] shadow-sm relative overflow-hidden mb-8">
-                <h3 className="text-xl font-bold mb-4 text-[#2E2E2E] underline">Strategies for Negotiation</h3>
+                <h4 className="text-xl font-bold mb-4 text-[#2E2E2E] underline">Strategies for Negotiation</h4>
                 <ul className="text-sm space-y-3 font-medium list-none text-gray-700">
                   <li className="flex items-start gap-2"><span className="w-1.5 h-1.5 bg-[#1F5EFF] rounded-full mt-2"></span> <strong>1. Leverage Your Relationship:</strong> If you hold a premium savings account or have been a long-time customer with the bank, escalate your request to the branch manager or relationship manager to waive the fee.</li>
                   <li className="flex items-start gap-2"><span className="w-1.5 h-1.5 bg-[#1F5EFF] rounded-full mt-2"></span> <strong>2. Threaten Balance Transfer:</strong> Inform the bank that you are considering transferring the remaining loan balance to a competitor offering zero part-payment fees. Retention teams often have the authority to waive charges to keep your loan account active.</li>
@@ -382,9 +382,9 @@ export default function ExtraEMIPersonalLoanPage() {
 
             {/* Numbered Steps */}
             <section id="execution-steps" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 Step-by-Step Execution
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 Ready to execute this strategy and reduce personal loan tenure? Here is exactly how to do it without falling into bank traps.
               </p>
@@ -393,7 +393,7 @@ export default function ExtraEMIPersonalLoanPage() {
                 <div className="flex gap-6">
                   <div className="flex-shrink-0 w-12 h-12 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center font-black text-xl shadow-lg">1</div>
                   <div>
-                    <h3 className="text-2xl font-bold text-[#2E2E2E] mb-2">Check the Lock-in Period</h3>
+                    <h4 className="text-2xl font-bold text-[#2E2E2E] mb-2">Check the Lock-in Period</h4>
                     <p className="text-lg text-gray-700 leading-relaxed">
                       Most banks have a lock-in period of 6 to 12 months for personal loans. They will not accept part-payments during this window. Verify this in your loan agreement.
                     </p>
@@ -403,7 +403,7 @@ export default function ExtraEMIPersonalLoanPage() {
                 <div className="flex gap-6">
                   <div className="flex-shrink-0 w-12 h-12 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center font-black text-xl shadow-lg">2</div>
                   <div>
-                    <h3 className="text-2xl font-bold text-[#2E2E2E] mb-2">Check the Minimum Amount</h3>
+                    <h4 className="text-2xl font-bold text-[#2E2E2E] mb-2">Check the Minimum Amount</h4>
                     <p className="text-lg text-gray-700 leading-relaxed">
                       You can't usually just transfer ₹5,000 extra. Banks often stipulate that a part payment must be equivalent to at least 2 or 3 times your regular EMI amount.
                     </p>
@@ -413,7 +413,7 @@ export default function ExtraEMIPersonalLoanPage() {
                 <div className="flex gap-6">
                   <div className="flex-shrink-0 w-12 h-12 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center font-black text-xl shadow-lg">3</div>
                   <div>
-                    <h3 className="text-2xl font-bold text-[#2E2E2E] mb-2">Explicitly Request Tenure Reduction</h3>
+                    <h4 className="text-2xl font-bold text-[#2E2E2E] mb-2">Explicitly Request Tenure Reduction</h4>
                     <p className="text-lg text-gray-700 leading-relaxed">
                       When you make the payment, the bank will ask if you want to reduce your EMI or reduce your tenure. <strong>Always choose tenure reduction.</strong> Reducing your EMI will stretch the loan out again, diluting your savings.
                     </p>
@@ -424,22 +424,22 @@ export default function ExtraEMIPersonalLoanPage() {
 
             {/* Using Bonuses for Prepayment */}
             <section id="bonus-utilization" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 Using Bonuses for Prepayment
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 One of the most painless ways to execute an extra EMI strategy is by aligning it with your annual performance bonuses, tax refunds, or festive incentives. Since this is money outside your regular monthly budget, it won't impact your day-to-day cash flow.
               </p>
 
               <div className="grid md:grid-cols-2 gap-6 my-8">
                 <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
-                  <h3 className="font-black text-[#1F5EFF] text-lg mb-3">The "Out of Sight" Strategy</h3>
+                  <h4 className="font-black text-[#1F5EFF] text-lg mb-3">The "Out of Sight" Strategy</h4>
                   <p className="text-gray-700 leading-relaxed">
                     Commit to routing 50% of any unexpected windfall directly into your loan account before it hits your savings account and gets spent on lifestyle inflation.
                   </p>
                 </div>
                 <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
-                  <h4 className="font-black text-[#1F5EFF] text-lg mb-3">Systematic Part Payments</h4>
+                  <h5 className="font-black text-[#1F5EFF] text-lg mb-3">Systematic Part Payments</h5>
                   <p className="text-gray-700 leading-relaxed">
                     If your bank doesn't allow monthly micro-prepayments, save the extra funds in a high-yield liquid mutual fund and make a single large part-payment at the end of the year.
                   </p>
@@ -449,15 +449,15 @@ export default function ExtraEMIPersonalLoanPage() {
             
             {/* Red Warning Box */}
             <section id="what-to-avoid" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 Common Mistakes to Avoid
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 While prepaying is financially smart, doing it blindly can put you in a precarious position.
               </p>
               
               <div className="bg-red-50 p-6 rounded-xl border border-red-100 mb-8">
-                <h3 className="text-xl font-black text-red-700 mb-3">Don't Drain Your Emergency Fund</h3>
+                <h4 className="text-xl font-black text-red-700 mb-3">Don't Drain Your Emergency Fund</h4>
                 <p className="text-red-900 leading-relaxed">
                   The biggest mistake borrowers make is taking money out of their emergency reserves to pay extra EMI for a personal loan. If a medical emergency strikes or you lose your job, you cannot ask the bank to give that prepayment back. Only use surplus funds, bonuses, or tax refunds for loan prepayment.
                 </p>
@@ -466,9 +466,9 @@ export default function ExtraEMIPersonalLoanPage() {
 
             {/* Review/Success Stories */}
             <section id="success-stories" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 Client Success Stories
-              </h2>
+              </h3>
               <div className="grid md:grid-cols-2 gap-6 my-8">
                 <div className="bg-white p-8 rounded-[30px] border border-[#DEDEDE] shadow-sm hover:shadow-xl group transition-all">
                   <div className="flex items-center gap-4 mb-6">
@@ -476,7 +476,7 @@ export default function ExtraEMIPersonalLoanPage() {
                       VS
                     </div>
                     <div>
-                      <h3 className="font-bold text-gray-900">Vikram S.</h3>
+                      <h4 className="font-bold text-gray-900">Vikram S.</h4>
                       <div className="flex text-yellow-400">
                         <svg className="w-4 h-4 fill-current" viewBox="0 0 20 20"><path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z"/></svg>
                         <svg className="w-4 h-4 fill-current" viewBox="0 0 20 20"><path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z"/></svg>
@@ -501,7 +501,7 @@ export default function ExtraEMIPersonalLoanPage() {
                       RM
                     </div>
                     <div>
-                      <h4 className="font-bold text-gray-900">Ritu M.</h4>
+                      <h5 className="font-bold text-gray-900">Ritu M.</h5>
                       <div className="flex text-yellow-400">
                         <svg className="w-4 h-4 fill-current" viewBox="0 0 20 20"><path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z"/></svg>
                         <svg className="w-4 h-4 fill-current" viewBox="0 0 20 20"><path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z"/></svg>
@@ -524,13 +524,13 @@ export default function ExtraEMIPersonalLoanPage() {
 
             {/* FAQs */}
             <section id="faqs" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 Frequently Asked Questions
-              </h2>
+              </h3>
               <div className="space-y-4">
                 {jsonLd["@graph"].find(item => item["@type"] === "FAQPage")?.mainEntity?.map((faq: any, index: number) => (
                   <div key={index} className="bg-white border border-[#DEDEDE] rounded-xl p-6 hover:shadow-md transition-shadow">
-                    <h3 className="text-xl font-bold text-[#2E2E2E] mb-3">{faq.name}</h3>
+                    <h4 className="text-xl font-bold text-[#2E2E2E] mb-3">{faq.name}</h4>
                     <p className="text-gray-700 leading-relaxed">{faq.acceptedAnswer.text}</p>
                   </div>
                 ))}
@@ -540,7 +540,7 @@ export default function ExtraEMIPersonalLoanPage() {
             {/* Lead Gen Hook */}
             <div className="bg-[#2E2E2E] text-white p-12 rounded-[40px] text-center mt-24 relative overflow-hidden group">
               <div className="absolute inset-0 bg-[#1F5EFF] opacity-0 group-hover:opacity-5 transition-opacity"></div>
-              <h3 className="text-3xl font-black mb-6 relative z-10">Stop Giving Banks Free Money</h3>
+              <h4 className="text-3xl font-black mb-6 relative z-10">Stop Giving Banks Free Money</h4>
               <p className="text-xl opacity-90 mb-8 relative z-10 max-w-2xl mx-auto">
                 Can you legally pay an extra EMI every year to close your personal loan early? Yes, and it saves you lakhs in interest. Talk to our financial experts to structure your prepayment strategy.
               </p>

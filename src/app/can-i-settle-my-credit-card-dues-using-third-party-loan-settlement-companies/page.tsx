@@ -333,9 +333,9 @@ export default function CreditCardSettlementPage() {
             </section>
 
             <section id="third-party-defined" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
                 What is Third-Party Loan Settlement?
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 Third-party loan settlement refers to the practice of hiring a professional consultancy or a law firm to negotiate with your bank on your behalf. These firms act as intermediaries between the borrower and the lender’s recovery or settlement department. Their primary goal is to reach a One-Time Settlement (OTS), where the bank agrees to accept a significantly reduced lump-sum payment to close the account forever.
               </p>
@@ -343,7 +343,7 @@ export default function CreditCardSettlementPage() {
                 Unlike debt collection agencies that work for the bank, third-party settlement firms work exclusively for the borrower. They use their expertise in financial laws, bank internal policies, and negotiation tactics to secure the best possible waiver for their clients.
               </p>
               <div className="bg-gray-50 p-8 rounded-xl border border-gray-200 mb-8">
-                <h3 className="text-xl font-bold mb-6 italic">How it Differs from Direct Negotiation</h3>
+                <h4 className="text-xl font-bold mb-6 italic">How it Differs from Direct Negotiation</h4>
                 <ul className="grid md:grid-cols-2 gap-4 text-sm font-medium">
                   <li className="flex items-center gap-2">
                     <span className="w-2 h-2 bg-[#1F5EFF] rounded-full"></span>
@@ -374,14 +374,14 @@ export default function CreditCardSettlementPage() {
             </section>
 
             <section id="legality-rbi" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
                 Legality and RBI Guidelines: <span className="text-[#1F5EFF]">Is it Safe?</span>
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 One of the most common concerns for borrowers is the legality of these services. In India, hiring a legal representative or a financial consultant to handle your affairs is a fundamental right. The Reserve Bank of India (RBI) has established clear guidelines through its "Fair Practice Code for Lenders," which mandates that all banks and NBFCs must have a grievance redressal mechanism and a clear policy for loan settlements.
               </p>
               <div className="bg-blue-50 p-8 rounded-xl border border-blue-200 mb-8">
-                <h3 className="text-xl font-bold mb-4 text-blue-900">The Power of Professional Representation</h3>
+                <h4 className="text-xl font-bold mb-4 text-blue-900">The Power of Professional Representation</h4>
                 <p className="text-sm text-blue-800 leading-relaxed mb-4">
                   When a professional firm like <strong>Amalegal Solutions</strong> or <strong>SettleLoans</strong> sends a legal notice to a bank, it signals that the borrower is aware of their rights. This often changes the dynamic from a one-sided harassment situation to a professional legal negotiation.
                 </p>
@@ -392,15 +392,15 @@ export default function CreditCardSettlementPage() {
             </section>
 
             <section id="benefits" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
                 Benefits of Using Third-Party Firms for Card Settlement
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 While you can attempt to settle on your own, the benefits of professional help are substantial, particularly in the aggressive Indian credit market.
               </p>
               <div className="space-y-6">
                 <div className="bg-white p-6 rounded-xl border border-gray-100 shadow-sm">
-                  <h3 className="text-xl font-bold mb-3">1. Massive Debt Reduction</h3>
+                  <h4 className="text-xl font-bold mb-3">1. Massive Debt Reduction</h4>
                   <p className="text-sm text-gray-600 leading-relaxed">
                     Professional negotiators understand the "bottom line" of various banks. They can often secure waivers that range from 30% to 70% of the total outstanding amount. This can save you lakhs of rupees that would otherwise go toward interest and penalties.
                   </p>
@@ -409,7 +409,7 @@ export default function CreditCardSettlementPage() {
                   </p>
                 </div>
                 <div className="bg-white p-6 rounded-xl border border-gray-100 shadow-sm">
-                  <h3 className="text-xl font-bold mb-3">2. Protection from Harassment</h3>
+                  <h4 className="text-xl font-bold mb-3">2. Protection from Harassment</h4>
                   <p className="text-sm text-gray-600 leading-relaxed">
                     The most immediate benefit is the cessation of harassment. Reputable firms act as a buffer between you and the recovery agents. Once you are legally represented, agents are significantly less likely to call your workplace, family, or social contacts.
                   </p>
@@ -418,7 +418,7 @@ export default function CreditCardSettlementPage() {
                   </p>
                 </div>
                 <div className="bg-white p-6 rounded-xl border border-gray-100 shadow-sm">
-                  <h3 className="text-xl font-bold mb-3">3. Legal Expertise and Document Review</h3>
+                  <h4 className="text-xl font-bold mb-3">3. Legal Expertise and Document Review</h4>
                   <p className="text-sm text-gray-600 leading-relaxed">
                     Firms like <strong>Amalegal Solutions</strong> have specialized legal teams that review your loan agreements for any illegal clauses or unfair interest practices. This technical knowledge provides significant leverage during the negotiation phase.
                   </p>
@@ -427,7 +427,7 @@ export default function CreditCardSettlementPage() {
                   </p>
                 </div>
                 <div className="bg-white p-6 rounded-xl border border-gray-100 shadow-sm">
-                  <h3 className="text-xl font-bold mb-3">4. Psychological Relief</h3>
+                  <h4 className="text-xl font-bold mb-3">4. Psychological Relief</h4>
                   <p className="text-sm text-gray-600 leading-relaxed">
                     Debt-related stress can destroy your peace of mind and impact your physical health. Outsourcing the negotiation to experts allows you to distance yourself emotionally from the hostile tactics of recovery agents, giving you the breathing space to rebuild your income and focus on your family.
                   </p>
@@ -436,12 +436,12 @@ export default function CreditCardSettlementPage() {
             </section>
 
             <section id="risks-analysis" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 text-red-600">The Risks Involved: A Transparent View</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 text-red-600">The Risks Involved: A Transparent View</h3>
               <p className="mb-6">
                 At SettleLoans, we believe in radical transparency. While settlement is a life-saving tool, it is not without its drawbacks. Any professional consultancy must inform you of these risks before you proceed.
               </p>
               <div className="bg-red-50 border-l-4 border-red-500 p-8 rounded-r-xl mb-8">
-                <h3 className="text-xl font-bold text-red-800 mb-4">What You Must Consider</h3>
+                <h4 className="text-xl font-bold text-red-800 mb-4">What You Must Consider</h4>
                 <ul className="space-y-3 text-red-900/80">
                   <li>• <strong>Credit Score Impact:</strong> Your CIBIL report will show a "Settled" status rather than "Closed." this will lead to a drop in your credit score.</li>
                   <li>• <strong>Future Credit Difficulty:</strong> For at least 2 to 3 years, it will be challenging to obtain new unsecured loans or credit cards from major banks.</li>
@@ -452,7 +452,7 @@ export default function CreditCardSettlementPage() {
             </section>
 
             <section id="when-to-settle" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">When is the Right Time to Settle?</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">When is the Right Time to Settle?</h3>
               <p className="mb-6">
                 Settlement should always be considered as a last resort. If you have any way to pay the full dues through consolidation or restructuring, you should explore those options first. However, settlement is the right choice if:
               </p>
@@ -465,36 +465,36 @@ export default function CreditCardSettlementPage() {
             </section>
 
             <section id="expert-firms" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">The Role of Experts: Amalegal, CredSettle, and SettleLoans</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">The Role of Experts: Amalegal, CredSettle, and SettleLoans</h3>
               <p className="mb-6">
                 Each of the major players in the Indian market offers a distinct advantage. Understanding their strengths can help you choose the right partner for your credit card settlement.
               </p>
               <div className="grid md:grid-cols-3 gap-6 mb-10">
                 <div className="bg-white p-6 rounded-2xl border border-gray-200 text-center shadow-sm">
-                  <h3 className="font-black text-[#1F5EFF] mb-2 uppercase text-xs tracking-widest">Legal Heavyweights</h3>
-                  <h4 className="text-xl font-bold mb-4">Amalegal Solutions</h4>
+                  <h4 className="font-black text-[#1F5EFF] mb-2 uppercase text-xs tracking-widest">Legal Heavyweights</h4>
+                  <h5 className="text-xl font-bold mb-4">Amalegal Solutions</h5>
                   <p className="text-xs text-gray-500 italic">Best for high-value cards and cases involving legal notices or SARFAESI threats.</p>
                 </div>
                 <div className="bg-white p-6 rounded-2xl border border-gray-200 text-center shadow-sm">
-                  <h3 className="font-black text-[#1F5EFF] mb-2 uppercase text-xs tracking-widest">Tech Innovators</h3>
-                  <h4 className="text-xl font-bold mb-4">CredSettle</h4>
+                  <h4 className="font-black text-[#1F5EFF] mb-2 uppercase text-xs tracking-widest">Tech Innovators</h4>
+                  <h5 className="text-xl font-bold mb-4">CredSettle</h5>
                   <p className="text-xs text-gray-500 italic">Best for tech-savvy borrowers who want a transparent, data-driven experience.</p>
                 </div>
                 <div className="bg-white p-6 rounded-2xl border border-gray-200 text-center shadow-sm">
-                  <h3 className="font-black text-[#1F5EFF] mb-2 uppercase text-xs tracking-widest">Empathetic Guides</h3>
-                  <h4 className="text-xl font-bold mb-4">SettleLoans.in</h4>
+                  <h4 className="font-black text-[#1F5EFF] mb-2 uppercase text-xs tracking-widest">Empathetic Guides</h4>
+                  <h5 className="text-xl font-bold mb-4">SettleLoans.in</h5>
                   <p className="text-xs text-gray-500 italic">Best for those seeking personalized support and end-to-end counselor assistance.</p>
                 </div>
               </div>
             </section>
 
             <section id="settleloans-role" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">How SettleLoans Supports Your Journey</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">How SettleLoans Supports Your Journey</h3>
               <p className="mb-6">
                 At SettleLoans, we function as your professional shield and expert negotiator. While we are a private consultancy, our mission is deeply rooted in empathy. We understand that credit card debt can feel like a life sentence, but we are here to show you that there is a way out. Our role is to bridge the gap between your current crisis and a sustainable future.
               </p>
               <div className="bg-[#2E2E2E] text-white p-8 rounded-2xl mb-8">
-                <h3 className="text-2xl font-bold mb-4">Our Commitment to You</h3>
+                <h4 className="text-2xl font-bold mb-4">Our Commitment to You</h4>
                 <p className="mb-4 opacity-80">
                   When you partner with us, we take over the heavy lifting. We handle the aggressive calls, we reply to the legal notices, and most importantly, we use our years of experience to negotiate a legal settlement that can save you significant amounts.
                 </p>
@@ -510,39 +510,39 @@ export default function CreditCardSettlementPage() {
             <ReviewSnippets reviews={reviews} title="Credit Card Settlement Success Stories" />
 
             <section id="settlement-guide" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 text-center">Step-by-Step Guide to Credit Card Settlement</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 text-center">Step-by-Step Guide to Credit Card Settlement</h3>
               <div className="relative border-l-2 border-gray-100 ml-4 mb-12">
                 <div className="mb-10 ml-6 relative">
                   <span className="absolute -left-[33px] top-0 w-4 h-4 rounded-full bg-[#1F5EFF]"></span>
-                  <h3 className="text-xl font-bold mb-2">Phase 1: Financial Assessment</h3>
+                  <h4 className="text-xl font-bold mb-2">Phase 1: Financial Assessment</h4>
                   <p className="text-sm text-gray-600">We analyze your income, expenses, and total debt to determine your realistic capacity to pay a settlement. This step is crucial for building a credible case for the bank.</p>
                 </div>
                 <div className="mb-10 ml-6 relative">
                   <span className="absolute -left-[33px] top-0 w-4 h-4 rounded-full bg-[#1F5EFF]"></span>
-                  <h3 className="text-xl font-bold mb-2">Phase 2: Formal Enrollment and Notices</h3>
+                  <h4 className="text-xl font-bold mb-2">Phase 2: Formal Enrollment and Notices</h4>
                   <p className="text-sm text-gray-600">Once you enroll, we issue formal legal notices to your creditors. This marks the beginning of your legal protection and signals the start of professional negotiations.</p>
                 </div>
                 <div className="mb-10 ml-6 relative">
                   <span className="absolute -left-[33px] top-0 w-4 h-4 rounded-full bg-[#1F5EFF]"></span>
-                  <h3 className="text-xl font-bold mb-2">Phase 3: The Negotiation Window</h3>
+                  <h4 className="text-xl font-bold mb-2">Phase 3: The Negotiation Window</h4>
                   <p className="text-sm text-gray-600">Our experts engage with the bank across multiple rounds. We use your hardship situation to advocate for the largest possible waiver of interest and penalties.</p>
                 </div>
                 <div className="ml-6 relative">
                   <span className="absolute -left-[33px] top-0 w-4 h-4 rounded-full bg-[#1F5EFF]"></span>
-                  <h3 className="text-xl font-bold mb-2">Phase 4: Closure and Documentation</h3>
+                  <h4 className="text-xl font-bold mb-2">Phase 4: Closure and Documentation</h4>
                   <p className="text-sm text-gray-600">After the bank agrees, we verify the settlement letter. You then make the payment directly to the bank. We then help you obtain the 'No Dues Certificate' to ensure the account is closed correctly.</p>
                 </div>
               </div>
             </section>
 
             <section id="documentation" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Essential Documentation for a Successful Settlement</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Essential Documentation for a Successful Settlement</h3>
               <p className="mb-6">
                 To build a strong case for the bank to grant you a major waiver, you need to provide evidence of your financial hardship. The more thorough your documentation, the better the settlement we can secure. Banks base their waiver approvals heavily on the credibility of the hardship proof you submit.
               </p>
               <div className="grid md:grid-cols-2 gap-6 mb-8">
                 <div className="bg-white p-6 rounded-xl border border-gray-100 shadow-sm">
-                  <h3 className="font-bold mb-3 flex items-center gap-2 text-lg text-[#1F5EFF]"><svg className="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M10 6H5a2 2 0 00-2 2v9a2 2 0 002 2h14a2 2 0 002-2V8a2 2 0 00-2-2h-5m-4 0V5a2 2 0 114 0v1m-4 0a2 2 0 104 0m-5 8a2 2 0 100-4 2 2 0 000 4zm0 0c1.306 0 2.417.835 2.83 2M9 14a3.001 3.001 0 00-2.83 2M15 11h3m-3 4h2"></path></svg> Personal & Financial Records</h3>
+                  <h4 className="font-bold mb-3 flex items-center gap-2 text-lg text-[#1F5EFF]"><svg className="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M10 6H5a2 2 0 00-2 2v9a2 2 0 002 2h14a2 2 0 002-2V8a2 2 0 00-2-2h-5m-4 0V5a2 2 0 114 0v1m-4 0a2 2 0 104 0m-5 8a2 2 0 100-4 2 2 0 000 4zm0 0c1.306 0 2.417.835 2.83 2M9 14a3.001 3.001 0 00-2.83 2M15 11h3m-3 4h2"></path></svg> Personal & Financial Records</h4>
                   <ul className="text-sm space-y-3 text-gray-600">
                     <li className="flex items-start gap-2"><span className="text-[#1F5EFF] mt-0.5">•</span> <span><strong>Identity Proof:</strong> Pan Card & Aadhar Card for KYC verification.</span></li>
                     <li className="flex items-start gap-2"><span className="text-[#1F5EFF] mt-0.5">•</span> <span><strong>Bank Statements:</strong> Last 6 to 12 months showing a clear drop in income or exhaustion of savings.</span></li>
@@ -551,7 +551,7 @@ export default function CreditCardSettlementPage() {
                   </ul>
                 </div>
                 <div className="bg-white p-6 rounded-xl border border-gray-100 shadow-sm">
-                  <h3 className="font-bold mb-3 flex items-center gap-2 text-lg text-[#1F5EFF]"><svg className="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"></path></svg> Solid Hardship Proof</h3>
+                  <h4 className="font-bold mb-3 flex items-center gap-2 text-lg text-[#1F5EFF]"><svg className="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"></path></svg> Solid Hardship Proof</h4>
                   <ul className="text-sm space-y-3 text-gray-600">
                     <li className="flex items-start gap-2"><span className="text-[#1F5EFF] mt-0.5">•</span> <span><strong>Medical Emergencies:</strong> Hospital bills, diagnostic reports, or pharmacy receipts for prolonged illness.</span></li>
                     <li className="flex items-start gap-2"><span className="text-[#1F5EFF] mt-0.5">•</span> <span><strong>Job Loss:</strong> Termination letter, pink slips, or emails indicating company layoffs.</span></li>
@@ -563,28 +563,28 @@ export default function CreditCardSettlementPage() {
             </section>
 
             <section id="rebuilding-life" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Rebuilding Your Financial Life After Settlement</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Rebuilding Your Financial Life After Settlement</h3>
               <p className="mb-6">
                 Closing your credit card debt is the end of a nightmare, but it is also the beginning of a dream. Life after debt is about discipline, knowledge, and growth. While settlement temporarily reduces your credit score, with proper strategies, you can rebuild your creditworthiness over the next 24 to 36 months. Focus on:
               </p>
               <div className="grid sm:grid-cols-3 gap-6 my-10">
                 <div className="bg-[#f8f9fa] p-5 rounded-xl border border-gray-200">
-                  <h3 className="text-lg font-bold mb-3 text-[#1F5EFF]">1. The Emergency Fund</h3>
+                  <h4 className="text-lg font-bold mb-3 text-[#1F5EFF]">1. The Emergency Fund</h4>
                   <p className="text-sm text-gray-600">Save at least 3 to 6 months of expenses in a liquid savings account or recurring deposit. This ensures you never have to rely on high-interest unsecured credit when unexpected expenses arise.</p>
                 </div>
                 <div className="bg-[#f8f9fa] p-5 rounded-xl border border-gray-200">
-                  <h3 className="text-lg font-bold mb-3 text-[#1F5EFF]">2. Secured Credit Options</h3>
+                  <h4 className="text-lg font-bold mb-3 text-[#1F5EFF]">2. Secured Credit Options</h4>
                   <p className="text-sm text-gray-600">Apply for a fixed-deposit (FD) backed credit card after 6 months. This allows you to generate new credit history safely without risk of default.</p>
                 </div>
                 <div className="bg-[#f8f9fa] p-5 rounded-xl border border-gray-200">
-                  <h3 className="text-lg font-bold mb-3 text-[#1F5EFF]">3. Impeccable Payment History</h3>
+                  <h4 className="text-lg font-bold mb-3 text-[#1F5EFF]">3. Impeccable Payment History</h4>
                   <p className="text-sm text-gray-600">Use your secured card for small purchases (under 30% utilization) and pay the full balance before the due date every single month to boost your CIBIL score quickly.</p>
                 </div>
               </div>
             </section>
 
             <section id="faqs" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Frequently Asked Questions</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Frequently Asked Questions</h3>
               <div className="space-y-4 not-prose">
                 {(jsonLd["@graph"][3] as any)?.mainEntity?.map((faq: any, i: number) => (
                   <details key={i} className="group bg-white border border-[#DEDEDE] rounded-xl overflow-hidden hover:shadow-md transition-all border-b-4 border-b-[#1F5EFF]/20">
@@ -610,7 +610,7 @@ export default function CreditCardSettlementPage() {
             <div className="lg:hidden mt-16 mb-8">
               <div className="bg-[#2E2E2E] rounded-2xl shadow-xl overflow-hidden border border-[#1F5EFF]/20">
                 <div className="bg-[#1F5EFF] p-6 text-center text-white">
-                  <h3 className="text-2xl font-black mb-2">Break Free from the Interest Trap!</h3>
+                  <h4 className="text-2xl font-black mb-2">Break Free from the Interest Trap!</h4>
                   <p className="opacity-90 text-sm">Join thousands who have successfully settled their card dues with SettleLoans.</p>
                 </div>
                 <div className="p-8 text-center text-[#DEDEDE]">

@@ -545,7 +545,7 @@ export default function Page() {
                   <Clock className="w-4 h-4" />
                   <span>2. Delinquency Timeline &amp; High Court Jurisprudence</span>
                 </div>
-                <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">NPA Delinquency Aging in Jodhpur</h2>
+                <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">NPA Delinquency Aging in Jodhpur</h3>
                 <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                   Under RBI IRACP rules, debt talks match default stages. After 90 days of missed EMIs, loans become NPAs. Banks must set aside cash reserves on their books:
                 </p>
@@ -607,7 +607,7 @@ export default function Page() {
                   <Gavel className="w-4 h-4" />
                   <span>3. Paota District Court &amp; Section 138/25 Defense</span>
                 </div>
-                <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Defending Legal Notices in Jodhpur Courts</h2>
+                <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Defending Legal Notices in Jodhpur Courts</h3>
                 <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                   When loans pass 90 days, lenders send court notices. They cite Section 138 NI Act in Paota courts. They also cite Section 25 PSSA. Loan default is a civil contract breach under the Indian Contract Act, 1872. Our advocates file legal replies under Vakalatnama. We stop criminal threats. We move cases to DLSA Lok Adalat benches.
                 </p>
@@ -619,7 +619,7 @@ export default function Page() {
                   <ShieldAlert className="w-4 h-4" />
                   <span>4. Section 171 Lien &amp; Salary Shielding</span>
                 </div>
-                <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Banker&apos;s General Lien Rules in Jodhpur</h2>
+                <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Banker&apos;s General Lien Rules in Jodhpur</h3>
                 <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                   Under Section 171 of the Indian Contract Act, 1872, banks can set off funds only within the same bank. They cannot freeze funds in separate banks without court orders.
                 </p>
@@ -634,7 +634,7 @@ export default function Page() {
                   <Sparkles className="w-4 h-4" />
                   <span>5. Visual Resolution Roadmap</span>
                 </div>
-                <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Personal Loan Settlement Roadmap in Jodhpur</h2>
+                <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Personal Loan Settlement Roadmap in Jodhpur</h3>
                 <p className="text-slate-700 leading-relaxed mb-6 text-base md:text-lg">
                   The chart below shows the debt resolution steps in Jodhpur. It covers hardship audits, Paota court notice defense. And anti-harassment protection. It shows SARB talks and getting your ₹0 No Dues Certificate.
                 </p>
@@ -661,7 +661,7 @@ export default function Page() {
                   <Percent className="w-4 h-4" />
                   <span>6. OTS Haircut Mechanics &amp; NPV Formula</span>
                 </div>
-                <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">OTS Haircut Mechanics &amp; NPV in Jodhpur</h2>
+                <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">OTS Haircut Mechanics &amp; NPV in Jodhpur</h3>
                 <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                   Under RBI rules, Zonal Committees review settlement offers using Net Present Value (NPV). Court cases take 4 to 7 years. They bring high costs and low cash on unsecured debt.
                 </p>
@@ -691,7 +691,7 @@ export default function Page() {
                   <ShieldCheck className="w-4 h-4" />
                   <span>7. Anti-Harassment &amp; Police Limits in Jodhpur</span>
                 </div>
-                <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Enforcing RBI Fair Practices in Jodhpur</h2>
+                <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Enforcing RBI Fair Practices in Jodhpur</h3>
                 <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                   The RBI Master Direction bans calls before 8 AM or after 7 PM. Agents cannot use abuse, call relatives, or visit offices.
                 </p>
@@ -706,7 +706,7 @@ export default function Page() {
                   <Layers className="w-4 h-4" />
                   <span>8. 5-Step Zonal SARB Settlement Protocol</span>
                 </div>
-                <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">5-Step Settlement Protocol in Jodhpur Zonal Desks</h2>
+                <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">5-Step Settlement Protocol in Jodhpur Zonal Desks</h3>
                 <p className="text-slate-700 leading-relaxed mb-6 text-base md:text-lg">
                   Our advocates negotiate directly with bank zonal desks:
                 </p>
@@ -717,7 +717,7 @@ export default function Page() {
                       1
                     </div>
                     <div>
-                      <h3 className="text-base font-bold text-slate-900 mb-1">Documenting Hardship</h3>
+                      <h4 className="text-base font-bold text-slate-900 mb-1">Documenting Hardship</h4>
                       <p className="text-sm text-slate-600 leading-relaxed">
                         We gather proof of distress. This includes export cancellations, loss statements. And medical bills.
                       </p>
@@ -729,7 +729,7 @@ export default function Page() {
                       2
                     </div>
                     <div>
-                      <h3 className="text-base font-bold text-slate-900 mb-1">Anti-Harassment Shield</h3>
+                      <h4 className="text-base font-bold text-slate-900 mb-1">Anti-Harassment Shield</h4>
                       <p className="text-sm text-slate-600 leading-relaxed">
                         We send legal notices to bank Nodal Officers under RBI rules. This stops visits to your home or office.
                       </p>
@@ -741,7 +741,7 @@ export default function Page() {
                       3
                     </div>
                     <div>
-                      <h3 className="text-base font-bold text-slate-900 mb-1">Court Notice Defense</h3>
+                      <h4 className="text-base font-bold text-slate-900 mb-1">Court Notice Defense</h4>
                       <p className="text-sm text-slate-600 leading-relaxed">
                         Our lawyers file formal replies to Section 138 and Section 25 notices within 15 days.
                       </p>
@@ -753,7 +753,7 @@ export default function Page() {
                       4
                     </div>
                     <div>
-                      <h3 className="text-base font-bold text-slate-900 mb-1">Direct Zonal SARB Talks</h3>
+                      <h4 className="text-base font-bold text-slate-900 mb-1">Direct Zonal SARB Talks</h4>
                       <p className="text-sm text-slate-600 leading-relaxed">
                         We submit OTS proposals to bank Zonal Stressed Assets desks. We secure 40% to 70% debt waivers.
                       </p>
@@ -765,7 +765,7 @@ export default function Page() {
                       5
                     </div>
                     <div>
-                      <h3 className="text-base font-bold text-slate-900 mb-1">Sanction Audit &amp; NDC</h3>
+                      <h4 className="text-base font-bold text-slate-900 mb-1">Sanction Audit &amp; NDC</h4>
                       <p className="text-sm text-slate-600 leading-relaxed">
                         We verify the bank approval letter before you pay. We secure your ₹0 NDC within 30 days.
                       </p>
@@ -780,7 +780,7 @@ export default function Page() {
                   <FileCheck className="w-4 h-4" />
                   <span>9. Sanction Letter Audit &amp; CIBIL Rebuilding</span>
                 </div>
-                <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Sanction Letter Audit &amp; NDC in Jodhpur</h2>
+                <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Sanction Letter Audit &amp; NDC in Jodhpur</h3>
                 <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                   Never pay without an official approval letter on bank letterhead. It must show your loan number, settlement amount, full debt closure, and NDC terms.
                 </p>
@@ -795,7 +795,7 @@ export default function Page() {
                   <Scale className="w-4 h-4" />
                   <span>10. Comparative Resolution Matrix</span>
                 </div>
-                <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Debt Resolution Pathways in Western Rajasthan</h2>
+                <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Debt Resolution Pathways in Western Rajasthan</h3>
                 <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                   Compare debt relief options in Jodhpur and Western Rajasthan:
                 </p>
@@ -851,7 +851,7 @@ export default function Page() {
                   <Landmark className="w-4 h-4" />
                   <span>11. SettleLoans Legal Defense &amp; Advisory</span>
                 </div>
-                <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">SettleLoans Legal Defense in Jodhpur</h2>
+                <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">SettleLoans Legal Defense in Jodhpur</h3>
                 <p className="text-slate-700 leading-relaxed mb-6 text-base md:text-lg">
                   Managing debt in Jodhpur, Boronada, Basni, or Pali requires legal support. SettleLoans stops recovery harassment and defends notices in Paota courts. We negotiate with bank Zonal Committees for deep debt waivers and verified ₹0 NDCs.
                 </p>
@@ -865,9 +865,9 @@ export default function Page() {
                   <Gavel className="w-4 h-4" />
                   <span>Local Legal Jurisdiction &amp; Legal Aid Directory</span>
                 </div>
-                <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+                <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                   District Courts &amp; DLSA Helpdesk in Jodhpur
-                </h2>
+                </h3>
                 <p className="text-slate-700 leading-relaxed mb-6 text-base">
                   Distressed borrowers facing recovery pressure, arbitration summons, or Section 138 NI Act notices in Jodhpur can access statutory legal defense through the local District Court and District Legal Services Authority (DLSA):
                 </p>
@@ -904,9 +904,9 @@ export default function Page() {
                   <HelpCircle className="w-4 h-4" />
                   <span>12. Frequently Asked Questions</span>
                 </div>
-                <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
+                <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
                   Frequently Asked Questions on Debt Settlement in Jodhpur
-                </h2>
+                </h3>
 
                 <div className="space-y-4">
                   {((jsonLdGraph["@graph"].find((item: any) => item["@type"] === "FAQPage") as any)?.mainEntity || []).map((faq: any, index: number) => (
@@ -934,10 +934,10 @@ export default function Page() {
 
               {/* 5 Official Regulatory Links */}
               <section className="bg-slate-50 border border-slate-200 rounded-2xl p-6 mb-8">
-                <h3 className="text-sm font-bold text-slate-900 mb-3 uppercase tracking-wider flex items-center gap-2">
+                <h4 className="text-sm font-bold text-slate-900 mb-3 uppercase tracking-wider flex items-center gap-2">
                   <ExternalLink className="w-4 h-4 text-[#1F5EFF]" />
                   <span>Official Statutory &amp; Regulatory References</span>
-                </h3>
+                </h4>
                 <div className="grid grid-cols-1 sm:grid-cols-2 gap-3 text-xs">
                   <a
                     href="https://www.rbi.org.in"
@@ -989,9 +989,9 @@ export default function Page() {
 
               {/* 10 Related Guide Badges */}
               <section className="border-t border-slate-200 pt-8 mb-8">
-                <h3 className="text-sm font-bold text-slate-900 mb-4 uppercase tracking-wider">
+                <h4 className="text-sm font-bold text-slate-900 mb-4 uppercase tracking-wider">
                   Related Loan Settlement &amp; Legal Defense Guides
-                </h3>
+                </h4>
                 <div className="flex flex-wrap gap-2">
                   <Link
                     href="/sbi-personal-loan-settlement"

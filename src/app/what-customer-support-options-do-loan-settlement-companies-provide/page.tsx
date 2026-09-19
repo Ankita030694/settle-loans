@@ -245,17 +245,17 @@ export default function SupportOptionsPage() {
             </section>
             
             <section id="case-manager-role" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight uppercase">The Role of Your Dedicated Case Manager</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight uppercase">The Role of Your Dedicated Case Manager</h3>
               <p className="text-lg leading-relaxed mb-6">
                 The core of premium support is continuity. In the banking world, you are often passed from one anonymous agent to another. In loan settlement, your Dedicated Case Manager is your single point of truth. They are senior professionals who understand the psychology of debt and the mechanics of bank recovery.
               </p>
               <div className="grid md:grid-cols-2 gap-6 mb-8">
                 <div className="bg-gray-50 p-6 rounded-xl border border-gray-200">
-                  <h3 className="font-bold text-[#1F5EFF] mb-3 uppercase text-xs tracking-wider">Contextual Awareness</h3>
+                  <h4 className="font-bold text-[#1F5EFF] mb-3 uppercase text-xs tracking-wider">Contextual Awareness</h4>
                   <p className="text-sm opacity-80 leading-relaxed">Your manager knows your story. They don't need to read a script. They know exactly why you defaulted – whether it was a medical bill or a business crash.</p>
                 </div>
                 <div className="bg-gray-50 p-6 rounded-xl border border-gray-200">
-                  <h4 className="font-bold text-[#1F5EFF] mb-3 uppercase text-xs tracking-wider">Strategic Advocacy</h4>
+                  <h5 className="font-bold text-[#1F5EFF] mb-3 uppercase text-xs tracking-wider">Strategic Advocacy</h5>
                   <p className="text-sm opacity-80 leading-relaxed">They proactively look for 'Settlement Windows' – those specific moments in the bank's quarter when recovery targets are high.</p>
                 </div>
               </div>
@@ -265,7 +265,7 @@ export default function SupportOptionsPage() {
             </section>
 
             <section id="harassment-protection" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight uppercase">Active Harassment Protection Protocols</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight uppercase">Active Harassment Protection Protocols</h3>
               <p className="text-lg leading-relaxed mb-6">
                 The most urgent support requirement is stopping the psychological warfare used by recovery agents. Our "Active Defense" protocol is designed to provide immediate relief. We don't just "advise" you on what to say; we provide the tools to stop the calls entirely. This involves a multi-pronged approach that targets the bank's internal recovery systems and its external third-party agencies simultaneously.
               </p>
@@ -292,12 +292,12 @@ export default function SupportOptionsPage() {
             </section>
 
             <section id="digital-dashboard" className="scroll-mt-32 mb-12">
-               <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight uppercase">The Transparency Dashboard: Real Time Tracking</h2>
+               <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight uppercase">The Transparency Dashboard: Real Time Tracking</h3>
                <p className="text-lg leading-relaxed mb-6">
                  Anxiety is born from the unknown. Our support infrastructure includes a secure, 24/7 digital dashboard where you can track every single action taken on your case. You don't have to call us to know the status; you can see it in real time. This is part of our commitment to absolute transparency in a process that is traditionally opaque.
                </p>
                <div className="bg-sky-50 p-8 rounded-2xl border border-sky-100 mb-8">
-                 <h3 className="text-xl font-bold text-sky-900 mb-4 uppercase tracking-tighter">Live Status Indicators</h3>
+                 <h4 className="text-xl font-bold text-sky-900 mb-4 uppercase tracking-tighter">Live Status Indicators</h4>
                  <p className="text-sky-800/80 leading-relaxed mb-4">
                    Our dashboard shows you exactly where each loan stands within the seven-stage settlement lifecycle. From "Hardship Profile Submitted" and "Counter Offer Negotiated" to the most critical "Final Settlement Approved" status, every step is timestamped and documented. You can download your official settlement letters and No Dues Certificates directly from the encrypted vault, ensuring you always have legal proof of your debt closure.
                  </p>
@@ -311,7 +311,7 @@ export default function SupportOptionsPage() {
             </section>
 
             <section id="legal-liaison" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 uppercase">Direct Legal & Support Integration</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 uppercase">Direct Legal & Support Integration</h3>
               <p className="text-lg leading-relaxed mb-6">
                 In India, a debt crisis can quickly turn into a legal battle. Summons from Lok Adalats, Section 138 notices (Cheque Bounce), and SARFAESI notices require more than just a call center agent. Our support team works as a specialized liaison with our in house legal department.
               </p>
@@ -332,12 +332,12 @@ export default function SupportOptionsPage() {
             </section>
 
             <section id="omnichannel-communication" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 uppercase">Omnichannel Communication Strategy</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 uppercase">Omnichannel Communication Strategy</h3>
               <p className="text-lg leading-relaxed mb-6">
                 We meet you where you are. Whether it is a quick update on WhatsApp, a detailed strategy over Email, or a voice call during a moment of crisis, our support is truly omnichannel. We understand that in a financial emergency, every second counts. Our systems are integrated so that a message sent on WhatsApp is visible to your case manager on their desktop instantly, allowing for a seamless transition between devices and channels.
               </p>
               <div className="bg-white p-6 rounded-xl border border-[#DEDEDE] shadow-sm mb-8 overflow-hidden">
-                <h3 className="font-bold text-[#1F5EFF] mb-4 uppercase tracking-wider text-xs">Our Delivery Standards</h3>
+                <h4 className="font-bold text-[#1F5EFF] mb-4 uppercase tracking-wider text-xs">Our Delivery Standards</h4>
                 <div className="overflow-x-auto">
                    <table className="w-full text-left text-sm">
                      <thead className="border-b border-[#DEDEDE]">
@@ -373,17 +373,17 @@ export default function SupportOptionsPage() {
             </section>
 
             <section id="ethical-standards" className="scroll-mt-32 mb-12 text-center">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-4 uppercase">Upholding Ethical Standards in Support</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-4 uppercase">Upholding Ethical Standards in Support</h3>
               <p className="text-lg leading-relaxed mb-10 opacity-70 max-w-2xl mx-auto">
                 Ethical support is defined by what we DON'T do. We don't make false promises. We don't hide fees. And we don't use the same pressure tactics as the banks. Our code of conduct is modeled on international best practices for debt advice, ensuring that the borrower always remains the priority.
               </p>
               <div className="grid md:grid-cols-2 gap-6 mb-12 text-left">
                 <div className="p-6 border border-[#DEDEDE] rounded-2xl group hover:border-[#1F5EFF] transition-colors shadow-sm">
-                  <h3 className="text-lg font-bold mb-3 uppercase tracking-tight text-[#1F5EFF]">Zero-Guaranty Policy</h3>
+                  <h4 className="text-lg font-bold mb-3 uppercase tracking-tight text-[#1F5EFF]">Zero-Guaranty Policy</h4>
                   <p className="text-sm opacity-80 leading-relaxed mb-4">We are honest about the fact that settlements depend on bank approval and credit policy. We don't "guarantee" 100% success; we guarantee 100% effort and professional strategy based on historical data. This honesty is the foundation of our trust with our clients.</p>
                 </div>
                 <div className="p-6 border border-[#DEDEDE] rounded-2xl group hover:border-[#1F5EFF] transition-colors shadow-sm">
-                  <h4 className="text-lg font-bold mb-3 uppercase tracking-tight text-[#1F5EFF]">Privacy Integrity</h4>
+                  <h5 className="text-lg font-bold mb-3 uppercase tracking-tight text-[#1F5EFF]">Privacy Integrity</h5>
                   <p className="text-sm opacity-80 leading-relaxed mb-4">We never share your data with other lenders or third-party marketing firms. Your financial crisis remains a private secret shared only between us and the relevant bank departments. Our servers are secured with banking-grade encryption to protect your sensitive documents.</p>
                 </div>
               </div>
@@ -393,12 +393,12 @@ export default function SupportOptionsPage() {
             </section>
 
             <section id="empathetic-counseling" className="scroll-mt-32 mb-12">
-               <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 uppercase">Empathetic Financial Counseling</h2>
+               <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 uppercase">Empathetic Financial Counseling</h3>
                <p className="text-lg leading-relaxed mb-6">
                  The emotional toll of debt can lead to depression and social isolation. Our support team includes advisors trained to handle these humanitarian aspects of the debt crisis. We understand the tears, the frustration, and the sense of failure. We are here to listen, support, and then solve.
                </p>
                <div className="bg-emerald-50 p-8 rounded-2xl border border-emerald-100 mb-8">
-                 <h3 className="text-xl font-bold text-emerald-900 mb-4 uppercase tracking-tighter">You Are Not Your Debt</h3>
+                 <h4 className="text-xl font-bold text-emerald-900 mb-4 uppercase tracking-tighter">You Are Not Your Debt</h4>
                  <p className="text-emerald-800/80 leading-relaxed mb-4">
                    Our counselors emphasize that your value as a human being is not defined by your CIBIL score. We help you separate your financial problems from your personal identity. This mental shift is what allows you to regain the energy needed to fight for your financial freedom.
                  </p>
@@ -409,7 +409,7 @@ export default function SupportOptionsPage() {
             </section>
 
             <section id="emergency-escalation" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 uppercase">The Emergency Escalation Matrix</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 uppercase">The Emergency Escalation Matrix</h3>
               <p className="text-lg leading-relaxed mb-8">
                 In the rare event that a bank ignore our notices or a recovery agent crosses a physical boundary, we have a Tiered Escalation Matrix. Your case doesn't just sit in a queue; it moves rapidly to the people with the highest authority to solve the problem.
               </p>
@@ -417,21 +417,21 @@ export default function SupportOptionsPage() {
                  <div className="flex gap-6 items-start">
                    <div className="w-12 h-12 shrink-0 bg-blue-50 rounded-lg flex items-center justify-center font-bold text-xl text-[#1F5EFF]">T1</div>
                    <div>
-                     <h3 className="text-lg font-bold uppercase mb-2">Recovery Stop Desk</h3>
+                     <h4 className="text-lg font-bold uppercase mb-2">Recovery Stop Desk</h4>
                      <p className="text-sm opacity-70 leading-relaxed">Immediate intervention with the bank's regional recovery head to stop illegal doorstep visits. Usually resolved within 2 hours.</p>
                    </div>
                  </div>
                  <div className="flex gap-6 items-start">
                    <div className="w-12 h-12 shrink-0 bg-blue-50 rounded-lg flex items-center justify-center font-bold text-xl text-[#1F5EFF]">T2</div>
                    <div>
-                     <h4 className="text-lg font-bold uppercase mb-2">Nodal Officer Liaison</h4>
+                     <h5 className="text-lg font-bold uppercase mb-2">Nodal Officer Liaison</h5>
                      <p className="text-sm opacity-70 leading-relaxed">Formal legal complaint to the bank's Nodal Officer citing specific violations of the RBI Fair Practice Code.</p>
                    </div>
                  </div>
                  <div className="flex gap-6 items-start">
                    <div className="w-12 h-12 shrink-0 bg-blue-50 rounded-lg flex items-center justify-center font-bold text-xl text-[#1F5EFF]">T3</div>
                    <div>
-                     <h5 className="text-lg font-bold uppercase mb-2">Ombudsman Elevation</h5>
+                     <h6 className="text-lg font-bold uppercase mb-2">Ombudsman Elevation</h6>
                      <p className="text-sm opacity-70 leading-relaxed">Direct filing with the Banking Ombudsman for systemic failures in bank conduct or refusal to acknowledge genuine hardship.</p>
                    </div>
                  </div>
@@ -439,7 +439,7 @@ export default function SupportOptionsPage() {
             </section>
 
             <div id="reviews" className="scroll-mt-32 mb-16">
-                 <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 text-center uppercase tracking-tight">Client Success Stories</h2>
+                 <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 text-center uppercase tracking-tight">Client Success Stories</h3>
                  <ReviewSnippets 
                   reviews={[
                     {
@@ -468,7 +468,7 @@ export default function SupportOptionsPage() {
             </div>
 
             <section id="faqs" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Frequently Asked Questions</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Frequently Asked Questions</h3>
               <div className="space-y-4">
                 {[
                   { q: "Do loan settlement companies offer 24/7 support?", a: "The best firms provide extended support hours and specific emergency lines for harassment relief, ensuring you have access to help during odd hours when recovery agents might be at your door." },
@@ -507,7 +507,7 @@ export default function SupportOptionsPage() {
             <div className="lg:hidden mt-16 mb-8">
               <div className="bg-[#2E2E2E] rounded-2xl shadow-xl overflow-hidden border border-[#1F5EFF]/20">
                 <div className="bg-[#1F5EFF] p-6 text-center text-white">
-                  <h3 className="text-2xl font-black mb-2 uppercase tracking-tighter">Talk to an Advisor</h3>
+                  <h4 className="text-2xl font-black mb-2 uppercase tracking-tighter">Talk to an Advisor</h4>
                   <p className="opacity-90 text-sm leading-snug">Empower your financial future with India's most empathetic and tech-driven support team.</p>
                 </div>
                 <div className="p-8 text-center">

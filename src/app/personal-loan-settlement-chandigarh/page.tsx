@@ -578,9 +578,9 @@ export default function PersonalLoanSettlementChandigarh() {
                 <Gavel className="w-4 h-4" />
                 <span>2. Judicial Hierarchy &amp; Local Tricity Jurisdictions</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 Tricity Legal Architecture: District Courts, High Court &amp; DRT Jurisdictions
-              </h2>
+              </h3>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Managing banking litigation in Tricity requires precise knowledge of local court jurisdictions. In Chandigarh, Section 138 NI Act cheque bounce complaints, Section 25 PSSA electronic mandate failures, and Order 37 CPC civil summary suits are heard at District Courts Sector 43.
               </p>
@@ -647,9 +647,9 @@ export default function PersonalLoanSettlementChandigarh() {
                 <Calculator className="w-4 h-4" />
                 <span>3. Bank Accounting &amp; Recovery Economics</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 Bank Balance-Sheet Accounting: How NPA Provisioning Unlocks 40%–65% Haircuts
-              </h2>
+              </h3>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Commercial banks and NBFCs operate under RBI Prudential Norms on Income Recognition, Asset Classification and Provisioning (IRACP) and Ind AS 109 Expected Credit Loss rules. When an unsecured personal loan crosses 90 days past due (DPD), it transitions into a Non-Performing Asset (NPA). The bank must halt interest recognition and allocate mandatory capital provisioning from operating profits.
               </p>
@@ -682,9 +682,9 @@ export default function PersonalLoanSettlementChandigarh() {
                 <ShieldAlert className="w-4 h-4" />
                 <span>4. Anti-Harassment Legal Protections</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 Halting Recovery Harassment &amp; Workplace Incursions Under RBI Directives
-              </h2>
+              </h3>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 High-ticket borrowers in Tricity frequently endure aggressive collection tactics from third-party Debt Recovery Agencies (DRAs). Recovery agents routinely violate regulations by calling outside permitted hours, visiting corporate offices in Mohali IT Park, or contacting non-guarantor relatives.
               </p>
@@ -708,9 +708,9 @@ export default function PersonalLoanSettlementChandigarh() {
                       <span className="text-[10px] font-black uppercase tracking-widest text-blue-300 block">
                         Tricity Legal Conciliation Blueprint
                       </span>
-                      <h3 className="text-sm md:text-base font-black text-white leading-tight">
+                      <h4 className="text-sm md:text-base font-black text-white leading-tight">
                         Personal Loan Settlement &amp; Legal Resolution Process in Chandigarh
-                      </h3>
+                      </h4>
                     </div>
                   </div>
                   <a
@@ -757,9 +757,9 @@ export default function PersonalLoanSettlementChandigarh() {
                 <Briefcase className="w-4 h-4" />
                 <span>6. High-Ticket Negotiation Strategy</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 Discreet High-Ticket Negotiation Protocols for High-Income Tricity Borrowers
-              </h2>
+              </h3>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Settling unsecured debts exceeding ₹15 Lakhs requires formal engagement with bank Zonal Stressed Assets Resolution Committees (SARC) rather than local branch personnel. Our advocates execute a structured three-step protocol:
               </p>
@@ -776,9 +776,9 @@ export default function PersonalLoanSettlementChandigarh() {
                 <Globe className="w-4 h-4" />
                 <span>7. Cross-Border NRI Debt Resolution</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 NRI Debt Settlement: Legal Representation for Expatriates in Canada, UK, UAE &amp; US
-              </h2>
+              </h3>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Non-Resident Indians residing in Canada, the UK, the US, Australia, and the UAE frequently hold legacy unsecured debts in Tricity banks. Overseas job transitions or currency pressures often precipitate defaults, causing intense worry over parental harassment or airport immigration alerts.
               </p>
@@ -793,9 +793,9 @@ export default function PersonalLoanSettlementChandigarh() {
                 <Scale className="w-4 h-4" />
                 <span>8. Legal Defense &amp; Lok Adalat Conciliation</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 Defending Section 138, Section 25 PSSA, Unilateral Arbitration &amp; Lok Adalat Decrees
-              </h2>
+              </h3>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 When defaults cross 90 days, lenders initiate statutory legal actions across Tricity court complexes. Responding through counsel within the mandatory 15-day notice window establishes a strong hardship record and averts coercive judicial warrants.
               </p>
@@ -812,9 +812,9 @@ export default function PersonalLoanSettlementChandigarh() {
                 <FileCheck className="w-4 h-4" />
                 <span>9. Sanction Letter Forensics &amp; NDC</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 Authenticating OTS Sanction Letters &amp; Enforcing Statutory ₹0 No Dues Certificates
-              </h2>
+              </h3>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 To prevent fraud from rogue collection agents issuing fake settlement letters, all OTS sanction letters undergo rigorous forensic scrutiny. We verify official bank letterhead, corporate identification numbers, authorized signatory credentials, unambiguous full and final debt discharge clauses, and explicit terms mandating the withdrawal of all pending court litigation.
               </p>
@@ -829,9 +829,9 @@ export default function PersonalLoanSettlementChandigarh() {
                 <TrendingUp className="w-4 h-4" />
                 <span>10. CIBIL Score Trajectory &amp; Rehabilitation</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 CIBIL Score Trajectory Post-Settlement &amp; Strategic 18-Month Credit Restoration
-              </h2>
+              </h3>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Following an OTS, the lender reports the account to CIBIL, Experian, and Equifax as &apos;Settled&apos; with an outstanding balance of ₹0. While an initial 75–150 point score reduction occurs alongside a mandatory 12-month cooling-off window, settling permanently halts the destructive compounding of active defaults.
               </p>
@@ -892,9 +892,9 @@ export default function PersonalLoanSettlementChandigarh() {
                 <ShieldCheck className="w-4 h-4" />
                 <span>11. Legal Defense &amp; Representation</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 Why Distressed Tricity Borrowers &amp; NRIs Trust SettleLoans
-              </h2>
+              </h3>
               <p className="text-slate-700 leading-relaxed mb-6 text-base md:text-lg">
                 Resolving high-ticket debt defaults in Chandigarh, Mohali, and Panchkula requires seasoned legal advocacy, forensic financial analysis, and direct access to bank Zonal Committees. SettleLoans delivers complete anti-harassment protection, robust court defense, and maximized debt haircuts with authentic ₹0 No Dues Certificates.
               </p>
@@ -911,9 +911,9 @@ export default function PersonalLoanSettlementChandigarh() {
                 <HelpCircle className="w-4 h-4" />
                 <span>12. Frequently Asked Questions</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
                 Frequently Asked Questions About Loan Settlement in Chandigarh Tricity
-              </h2>
+              </h3>
 
               <div className="space-y-4">
                 {faqs.map((faq, index) => (
@@ -939,10 +939,10 @@ export default function PersonalLoanSettlementChandigarh() {
 
             {/* Regulatory References & Official Sources Strip (5 Official Links) */}
             <div className="bg-slate-50 border border-slate-200 rounded-2xl p-6 my-10">
-              <h3 className="text-base font-bold text-slate-900 mb-4 flex items-center gap-2">
+              <h4 className="text-base font-bold text-slate-900 mb-4 flex items-center gap-2">
                 <Landmark className="w-5 h-5 text-[#1F5EFF]" />
                 Official Regulatory References &amp; Statutory Portals
-              </h3>
+              </h4>
               <ul className="space-y-3 text-xs text-slate-600">
                 <li className="flex items-start gap-2">
                   <ExternalLink className="w-4 h-4 text-[#1F5EFF] flex-shrink-0 mt-0.5" />
@@ -1004,10 +1004,10 @@ export default function PersonalLoanSettlementChandigarh() {
 
             {/* Related Guides & Resources Strip (10 Topic Badges) */}
             <div className="bg-slate-50 border border-slate-200 rounded-2xl p-6 my-10">
-              <h3 className="text-base font-bold text-slate-900 mb-4 flex items-center gap-2">
+              <h4 className="text-base font-bold text-slate-900 mb-4 flex items-center gap-2">
                 <BookOpen className="w-5 h-5 text-[#1F5EFF]" />
                 Explore Related Banking &amp; Debt Resolution Guides
-              </h3>
+              </h4>
               <div className="flex flex-wrap gap-2.5">
                 <Link
                   href="/bank-one-time-settlement-ots-policy"

@@ -268,7 +268,7 @@ export default function EconomicDownturnSettlementPage() {
                             </p>
                             <div className="bg-[#2E2E2E] p-10 rounded-[32px] text-white shadow-2xl relative overflow-hidden my-12">
                                 <div className="absolute top-0 right-0 w-64 h-64 bg-[#1F5EFF]/20 rounded-full -mr-32 -mt-32 blur-[80px]"></div>
-                                <h3 className="text-2xl font-black mb-6 relative z-10 text-blue-400 uppercase italic">The Downturn Lifecycle</h3>
+                                <h4 className="text-2xl font-black mb-6 relative z-10 text-blue-400 uppercase italic">The Downturn Lifecycle</h4>
                                 <p className="text-lg opacity-80 leading-relaxed relative z-10 font-medium">
                                     A financial downturn usually follows a predictable pattern for a borrower. It starts with 'Liquidity Squeeze', where you use savings to pay EMIs. Then comes 'Selective Default', where you pay the home loan but miss the credit card. Finally, it leads to 'Total Default'. Our mission is to intervene before you reach the final stage, using the legal frameworks provided by the RBI to find a compromise that saves your dignity and your future.
                                 </p>
@@ -279,9 +279,9 @@ export default function EconomicDownturnSettlementPage() {
                         </section>
 
                         <section id="financial-distress-context" className="scroll-mt-32 mb-20 text-lg">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 uppercase tracking-widest">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 uppercase tracking-widest">
                                 Defining Financial Distress in 2025
-                            </h2>
+                            </h3>
                             <p className="mb-8 leading-relaxed">
                                 Not all debt is the result of reckless spending. In fact, more than 70% of the cases we handle at SettleLoans involve what we call 'Circumstantial Debt'. This is debt that was perfectly manageable until an external factor changed the equation. In the current economic context, financial distress is often defined by a sharp mismatch between fixed liabilities (your EMIs) and variable income (your salary or business profits).
                             </p>
@@ -293,20 +293,20 @@ export default function EconomicDownturnSettlementPage() {
                             </p>
                             <div className="grid md:grid-cols-2 gap-6 my-12">
                                 <div className="bg-blue-50 p-8 rounded-2xl border border-blue-100">
-                                    <h3 className="font-black text-blue-900 mb-3 uppercase text-xs">Primary Driver</h3>
+                                    <h4 className="font-black text-blue-900 mb-3 uppercase text-xs">Primary Driver</h4>
                                     <p className="text-sm font-bold text-blue-800">Job market corrections and the automation of mid-level service roles has led to a sudden loss of repaying capacity for thousands.</p>
                                 </div>
                                 <div className="bg-green-50 p-8 rounded-2xl border border-green-100">
-                                    <h4 className="font-black text-green-900 mb-3 uppercase text-xs">Secondary Driver</h4>
+                                    <h5 className="font-black text-green-900 mb-3 uppercase text-xs">Secondary Driver</h5>
                                     <p className="text-sm font-bold text-green-800">Medical inflation in India is currently at 14%, wiping out years of loan-repayment savings in a single hospital admission.</p>
                                 </div>
                             </div>
                         </section>
 
                         <section id="rbi-2025-guidelines" className="scroll-mt-32 mb-20">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 uppercase italic border-l-8 border-[#1F5EFF] pl-6 font-sans">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 uppercase italic border-l-8 border-[#1F5EFF] pl-6 font-sans">
                                 RBI 2025: The New Era of Compromise Settlements
-                            </h2>
+                            </h3>
                             <p className="mb-8 text-xl font-medium leading-relaxed">
                                 The Reserve Bank of India, under its latest circulars on 'Stressed Asset Management', has made a paradigm shift in how it views loan settlement. In the past, settlement was seen as a 'last resort' and often handled with great secrecy by bank branch managers. Today, the RBI has mandated that every bank must have a 'Board Approved Policy' for compromise settlements.
                             </p>
@@ -322,9 +322,9 @@ export default function EconomicDownturnSettlementPage() {
                         </section>
 
                         <section id="borrower-rights-protection" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 uppercase tracking-widest decoration-[#1F5EFF] underline underline-offset-8">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 uppercase tracking-widest decoration-[#1F5EFF] underline underline-offset-8">
                                 Your Legal Shield: Rights Against Harassment
-                            </h2>
+                            </h3>
                             <p className="mb-8 leading-relaxed">
                                 When you default on a loan during a downturn, the first thing that changes is your phone. It starts ringing at odd hours, often with people on the other end who sound professional but are trained in the art of psychological pressure. You must know that as a citizen of India, your right to dignity is protected by the Constitution and detailed by the RBI's Fair Practice Code.
                             </p>
@@ -339,7 +339,7 @@ export default function EconomicDownturnSettlementPage() {
                                     <div key={idx} className="p-8 bg-white border border-gray-100 rounded-3xl shadow-sm hover:border-[#1F5EFF] transition-all group">
                                         <div className="flex items-center gap-4 mb-3">
                                             <div className="w-8 h-8 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center font-black text-xs">{idx + 1}</div>
-                                            <h3 className="font-black text-[#2E2E2E] uppercase text-sm tracking-widest">{right.title}</h3>
+                                            <h4 className="font-black text-[#2E2E2E] uppercase text-sm tracking-widest">{right.title}</h4>
                                         </div>
                                         <p className="text-gray-600 leading-relaxed font-medium">{right.desc}</p>
                                     </div>
@@ -351,9 +351,9 @@ export default function EconomicDownturnSettlementPage() {
                         </section>
 
                         <section id="ots-vs-restructuring" className="scroll-mt-32 mb-20">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 uppercase italic border-b-8 border-blue-50 pb-4">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 uppercase italic border-b-8 border-blue-50 pb-4">
                                 One-Time Settlement (OTS) vs. Restructuring
-                            </h2>
+                            </h3>
                             <p className="mb-8 text-xl font-medium leading-relaxed">
                                 During an economic downturn, you generally have two paths to recover your financial footing. The first is 'Restructuring', which is like a patch-up job. The bank extends your loan tenure, reduces your interest rate slightly, or gives you a 6 month 'EMI Holiday' (Moratorium). This is great if your income loss is temporary - for example, if you expect a new job in three months.
                             </p>
@@ -362,12 +362,12 @@ export default function EconomicDownturnSettlementPage() {
                             </p>
                             <div className="grid md:grid-cols-2 gap-8 my-16">
                                 <div className="p-10 rounded-[40px] bg-gray-50 border border-gray-100 text-center">
-                                    <h3 className="text-2xl font-black mb-4 text-[#2E2E2E]">Restructuring</h3>
+                                    <h4 className="text-2xl font-black mb-4 text-[#2E2E2E]">Restructuring</h4>
                                     <p className="text-sm text-gray-600 mb-6">Best for temporary shocks. Preserves your credit score but increases the total interest you pay over time.</p>
                                     <span className="inline-block py-2 px-6 rounded-full bg-blue-100 text-blue-700 font-bold text-xs uppercase">Preserve Score</span>
                                 </div>
                                 <div className="p-10 rounded-[40px] bg-[#1F5EFF]/5 border border-[#1F5EFF]/10 text-center">
-                                    <h4 className="text-2xl font-black mb-4 text-[#1F5EFF]">Settlement (OTS)</h4>
+                                    <h5 className="text-2xl font-black mb-4 text-[#1F5EFF]">Settlement (OTS)</h5>
                                     <p className="text-sm text-gray-600 mb-6">Best for structural income changes. Ends the debt immediately but marks 'Settled' on your CIBIL report.</p>
                                     <span className="inline-block py-2 px-6 rounded-full bg-[#1F5EFF] text-white font-bold text-xs uppercase">Clean Break</span>
                                 </div>
@@ -375,45 +375,45 @@ export default function EconomicDownturnSettlementPage() {
                         </section>
 
                         <section id="settlement-blueprint" className="scroll-mt-32 mb-20 text-lg">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-10 uppercase tracking-tighter">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-10 uppercase tracking-tighter">
                                 The 2025 Settlement Blueprint: Step-by-Step
-                            </h2>
+                            </h3>
                             <p className="mb-10 leading-relaxed">
                                 Negotiating with a bank requires the precision of a chess master and the patience of a saint. You cannot just walk into a branch and ask for a waiver. You must follow a structured process that forces the bank's internal credit committee to see your case as a 'High Risk/Low Recovery' asset.
                             </p>
                             <div className="space-y-12">
                                 <div className="relative pl-16">
                                     <div className="absolute left-0 top-0 w-12 h-12 rounded-full bg-black text-white flex items-center justify-center font-black">01</div>
-                                    <h3 className="text-xl font-bold mb-3 uppercase tracking-widest">Self Audit & Inventory</h3>
+                                    <h4 className="text-xl font-bold mb-3 uppercase tracking-widest">Self Audit & Inventory</h4>
                                     <p className="text-gray-600 leading-relaxed font-medium">List all your debts, including interest and penalties. Identify which loans are secured and which are unsecured. During a downturn, focus your settlement energy on high-interest unsecured credit cards first.</p>
                                 </div>
                                 <div className="relative pl-16">
                                     <div className="absolute left-0 top-0 w-12 h-12 rounded-full bg-black text-white flex items-center justify-center font-black">02</div>
-                                    <h4 className="text-xl font-bold mb-3 uppercase tracking-widest">The Hardship Declaration</h4>
+                                    <h5 className="text-xl font-bold mb-3 uppercase tracking-widest">The Hardship Declaration</h5>
                                     <p className="text-gray-600 leading-relaxed font-medium">Draft a comprehensive formal letter to the Nodal Officer of the bank. This letter should not be a plea for mercy; it should be a statement of financial facts. Attach your job loss documents or medical bills. Use the term 'Genuine Hardship due to Economic Downturn' repeatedly.</p>
                                 </div>
                                 <div className="relative pl-16">
                                     <div className="absolute left-0 top-0 w-12 h-12 rounded-full bg-black text-white flex items-center justify-center font-black">03</div>
-                                    <h5 className="text-xl font-bold mb-3 uppercase tracking-widest">Invoke the Ombudsman</h5>
+                                    <h6 className="text-xl font-bold mb-3 uppercase tracking-widest">Invoke the Ombudsman</h6>
                                     <p className="text-gray-600 leading-relaxed font-medium">If the branch manager refuses to move your file to the regional office, file a formal complaint with the Banking Ombudsman. This forces the bank's legal department to review your file. Legal departments are much more pragmatic than branch managers.</p>
                                 </div>
                                 <div className="relative pl-16">
                                     <div className="absolute left-0 top-0 w-12 h-12 rounded-full bg-black text-white flex items-center justify-center font-black">04</div>
-                                    <h5 className="text-xl font-bold mb-3 uppercase tracking-widest">The Written Offer</h5>
+                                    <h6 className="text-xl font-bold mb-3 uppercase tracking-widest">The Written Offer</h6>
                                     <p className="text-gray-600 leading-relaxed font-medium">Once they agree to talk, make a realistic offer. If you owe 10 Lakhs, offer 3 Lakhs in one go. Be prepared to go up to 4 or 5 Lakhs, but never start at your maximum limit. Always insist on a 'Sanction Letter' before paying a single rupee.</p>
                                 </div>
                             </div>
                         </section>
 
                         <section id="harship-documentation" className="scroll-mt-32 mb-20">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 uppercase italic underline decoration-[10px] decoration-blue-50 underline-offset-4">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 uppercase italic underline decoration-[10px] decoration-blue-50 underline-offset-4">
                                 Distress Proof: Documenting the Downturn
-                            </h2>
+                            </h3>
                             <p className="mb-8 leading-relaxed">
                                 In the eyes of a bank's credit risk officer, if it is not on paper, it does not exist. Your verbal explanation of 'markets are down' will carry zero weight. You must provide a 'Dossier of Distress' that proves your inability to pay is structural and not willful.
                             </p>
                             <div className="bg-[#2E2E2E] p-10 rounded-[40px] text-white my-12">
-                                <h3 className="text-2xl font-black mb-6 text-blue-400">The Essential Checklist</h3>
+                                <h4 className="text-2xl font-black mb-6 text-blue-400">The Essential Checklist</h4>
                                 <ul className="space-y-4 font-medium opacity-90">
                                     <li className="flex gap-4">
                                         <div className="shrink-0 w-6 h-6 rounded bg-[#1F5EFF] flex items-center justify-center text-[10px]">✓</div>
@@ -440,9 +440,9 @@ export default function EconomicDownturnSettlementPage() {
                         </section>
 
                         <section id="sarfaesi-defense" className="scroll-mt-32 mb-20 text-lg">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 uppercase tracking-widest border-l-8 border-gray-900 pl-6">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 uppercase tracking-widest border-l-8 border-gray-900 pl-6">
                                 SARFAESI Defense: Protecting Your Roof
-                            </h2>
+                            </h3>
                             <p className="mb-8 leading-relaxed">
                                 If you have a home loan or a loan against property, the bank will eventually invoke the SARFAESI Act. This sounds scary because it allows the bank to take possession of your home without going to a regular court. However, SARFAESI has its own built-in safeguards that borrowers often overlook during a panic.
                             </p>
@@ -455,9 +455,9 @@ export default function EconomicDownturnSettlementPage() {
                         </section>
 
                         <section id="cibil-recovery" className="scroll-mt-32 mb-20">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 uppercase italic decoration-[#1F5EFF] underline underline-offset-8">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 uppercase italic decoration-[#1F5EFF] underline underline-offset-8">
                                 Rebuilding After the Storm: The CIBIL Path
-                            </h2>
+                            </h3>
                             <p className="mb-8 text-xl font-medium leading-relaxed italic">
                                 Settle today, rebuild tomorrow. A 'Settled' status is not a life sentence; it is a temporary mark of resilience.
                             </p>
@@ -465,7 +465,7 @@ export default function EconomicDownturnSettlementPage() {
                                 When you settle a loan, your credit score will drop, sometimes by as much as 100 points. On your report, the loan will not be marked as 'Closed', it will be marked as 'Settled'. This tells future lenders that you didn't pay the full amount. This might make person or car loans difficult for the next 2 to 3 years.
                             </p>
                             <div className="bg-white p-10 rounded-[40px] border-2 border-dashed border-gray-200 my-12">
-                                <h3 className="text-xl font-black mb-6 uppercase tracking-widest text-[#2E2E2E]">The 24-Month Roadmap</h3>
+                                <h4 className="text-xl font-black mb-6 uppercase tracking-widest text-[#2E2E2E]">The 24-Month Roadmap</h4>
                                 <div className="space-y-6">
                                     <div className="flex gap-4">
                                         <span className="font-black text-[#1F5EFF]">0-6 Mo</span>
@@ -520,15 +520,15 @@ export default function EconomicDownturnSettlementPage() {
                         </section>
 
                         <section id="professional-shield" className="scroll-mt-32 mb-20">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 uppercase italic">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 uppercase italic">
                                 Why You Need a Professional Shield
-                            </h2>
+                            </h3>
                             <p className="mb-8 leading-relaxed text-xl">
                                 Negotiating with a bank during a downturn is like playing a high-stakes game where the other side knows all the rules and you are learning them for the first time. Lenders employ thousands of specialists whose only job is to maximize recovery. You, as an individual, cannot fight this institutional weight alone.
                             </p>
                             <div className="bg-[#1F5EFF] p-12 rounded-[48px] text-white shadow-2xl my-12 relative overflow-hidden">
                                 <div className="absolute top-0 left-0 w-80 h-80 bg-white/10 rounded-full -ml-40 -mt-40 blur-[100px]"></div>
-                                <h3 className="text-3xl font-black mb-8 relative z-10 uppercase tracking-tighter italic">The SettleLoans Edge</h3>
+                                <h4 className="text-3xl font-black mb-8 relative z-10 uppercase tracking-tighter italic">The SettleLoans Edge</h4>
                                 <div className="space-y-6 relative z-10 font-medium">
                                     <p>✓ We stop the recovery harassment within 24 hours by establishing direct legal communication with the lender.</p>
                                     <p>✓ We audit your loan accounts to find technical errors and 'Hidden Penalties' that can be used as leverage.</p>
@@ -539,28 +539,28 @@ export default function EconomicDownturnSettlementPage() {
                         </section>
 
                         <section id="future-proofing" className="scroll-mt-32 mb-20">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-10 uppercase tracking-widest text-center italic">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-10 uppercase tracking-widest text-center italic">
                                 Future Proofing: Life Post-Debt
-                            </h2>
+                            </h3>
                             <p className="mb-10 leading-relaxed text-lg font-medium">
                                 The goal of loan settlement isn't just to end the debt; it's to never let it happen again. Once the 'No Due Certificate' is in your hand, you must build a financial fortress that can withstand the next downturn. This means moving away from the 'Installment Century' and toward a 'Savings First' philosophy.
                             </p>
                             <div className="grid sm:grid-cols-2 gap-8 font-sans">
                                 <div className="p-8 bg-gray-50 rounded-3xl border border-gray-100">
-                                    <h3 className="font-black text-[#2E2E2E] mb-4 uppercase text-xs tracking-[0.2em] text-[#1F5EFF]">Rule 01</h3>
-                                    <h4 className="text-xl font-bold mb-3">The 6-Month Buffer</h4>
+                                    <h4 className="font-black text-[#2E2E2E] mb-4 uppercase text-xs tracking-[0.2em] text-[#1F5EFF]">Rule 01</h4>
+                                    <h5 className="text-xl font-bold mb-3">The 6-Month Buffer</h5>
                                     <p className="text-sm text-gray-500 leading-relaxed">In 2025, a 3-month emergency fund is no longer enough. Aim for 6 months of absolute essentials (Rent, Food, Health) in a completely liquid savings account.</p>
                                 </div>
                                 <div className="p-8 bg-gray-50 rounded-3xl border border-gray-100">
-                                    <h5 className="font-black text-[#2E2E2E] mb-4 uppercase text-xs tracking-[0.2em] text-[#1F5EFF]">Rule 02</h5>
-                                    <h4 className="text-xl font-bold mb-3">Health is Wealth</h4>
+                                    <h6 className="font-black text-[#2E2E2E] mb-4 uppercase text-xs tracking-[0.2em] text-[#1F5EFF]">Rule 02</h6>
+                                    <h5 className="text-xl font-bold mb-3">Health is Wealth</h5>
                                     <p className="text-sm text-gray-500 leading-relaxed">Medical debt is the primary killer of middle-class stability. Prioritize a high-coverage family floater health insurance before paying off any optional bills.</p>
                                 </div>
                             </div>
                         </section>
 
                         <section id="faqs" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 uppercase italic tracking-tighter">Frequently Asked Questions</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 uppercase italic tracking-tighter">Frequently Asked Questions</h3>
                             <div className="space-y-4 not-prose">
                                 {(jsonLd["@graph"] as any)[4]?.mainEntity?.map((faq: any, i: number) => (
                                     <details key={i} className="group bg-white border border-[#DEDEDE] rounded-xl overflow-hidden hover:shadow-md transition-all border-b-4 border-b-[#1F5EFF]/20">
@@ -588,7 +588,7 @@ export default function EconomicDownturnSettlementPage() {
                         <div className="lg:hidden mt-20 mb-8">
                             <div className="bg-[#2E2E2E] rounded-[40px] shadow-2xl overflow-hidden border border-[#1F5EFF]/20">
                                 <div className="bg-[#1F5EFF] p-8 text-center text-white">
-                                    <h3 className="text-3xl font-black mb-3 italic tracking-tighter">RECLAIM YOUR LIFE</h3>
+                                    <h4 className="text-3xl font-black mb-3 italic tracking-tighter">RECLAIM YOUR LIFE</h4>
                                     <p className="opacity-90 text-sm font-medium">Join 15,000+ Indians who chose resilience over despair. Start your settlement journey today.</p>
                                 </div>
                                 <div className="p-10 text-center text-[#DEDEDE]">

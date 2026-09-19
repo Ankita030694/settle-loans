@@ -498,17 +498,17 @@ export default function HighCourtWritBankHarassmentPage() {
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed"> Illegal debt recovery violates <strong>Article 21 of the Constitution</strong>. This article protects your right to life, dignity. and personal liberty. In <em>Justice K.S. Puttaswamy v. Union of India (2017)</em>, the Supreme Court confirmed that privacy is a basic right. Recovery agents cannot enter your home unlawfully or call your employer. A High Court writ gives borrowers strong legal protection against harassment. </p>
 
               <div className="bg-slate-50 border-l-4 border-[#1F5EFF] p-4 rounded-r-xl my-4">
-                <h3 className="font-bold text-slate-900 text-xs sm:text-sm mb-1 flex items-center gap-1.5">
+                <h4 className="font-bold text-slate-900 text-xs sm:text-sm mb-1 flex items-center gap-1.5">
                   <ShieldAlert className="w-4 h-4 text-[#1F5EFF]" />
                   <span>Constitutional Mandate: The High Court as the Protector of Fundamental Liberties</span>
-                </h3>
+                </h4>
                 <p className="text-xs sm:text-sm text-slate-600 leading-relaxed"> Article 226 gives High Courts the power to stop unlawful corporate actions. When bank agents threaten borrowers and local police fail to act, the High Court steps in. The court protects your personal safety and basic rights. </p>
               </div>
             </section>
 
             {/* Section 2: Statutory Framework & Landmark Precedents */}
             <section id="statutory-framework-landmark-precedents" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">2. Statutory Legal Framework, Maintainability of Writs</h2>
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">2. Statutory Legal Framework, Maintainability of Writs</h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed"> Banks often argue that private lenders are not subject to writ petitions. They claim borrowers must use civil courts, DRT. or the Banking Ombudsman instead. </p>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed"> The Supreme Court has rejected these bank arguments. In <em>Federal Bank Ltd. v. Sagar Thomas (2003)</em> and <em>Zee Telefilms (2005)</em>, the Apex Court ruled clearly. High Courts can issue writs against private banks when they break RBI rules or violate basic human rights. </p>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed"> In an Article 226 harassment writ, the <strong>State Government, DGP. and Police Chief</strong> are made main banks. The bank and its agency are added as co-banks. The writ directs the police to register FIRs, investigate threats. and provide safety to the borrower. </p>
@@ -557,37 +557,37 @@ export default function HighCourtWritBankHarassmentPage() {
 
             {/* Section 3: Threshold for Constitutional Intervention & Police Inaction */}
             <section id="threshold-for-constitutional-intervention" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">3. Threshold for Constitutional Intervention</h2>
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">3. Threshold for Constitutional Intervention</h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed"> A writ petition requires clear proof of two things. First, you must show <strong>illegal harassment by the bank or its agents</strong>. Second, you must show that <strong>local police failed to take action</strong> on your complaint. Simple loan reminders do not qualify. You must prove real threats, extortion, trespass. or severe harassment. </p>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed"> Under the Bharatiya Nyaya Sanhita (BNS) and IPC, aggressive recovery tactics are criminal offenses: </p>
 
               <div className="grid grid-cols-1 md:grid-cols-2 gap-4 my-6">
                 <div className="p-4 bg-slate-50 rounded-xl border border-slate-200">
-                  <h3 className="font-bold text-slate-900 text-sm mb-2 flex items-center gap-1.5">
+                  <h4 className="font-bold text-slate-900 text-sm mb-2 flex items-center gap-1.5">
                     <AlertOctagon className="w-4 h-4 text-rose-600" />
                     <span>Extortion &amp; Threat to Person (BNS Sec. 308 / IPC 384)</span>
-                  </h3>
+                  </h4>
                   <p className="text-xs text-slate-600 leading-relaxed"> Threatening a borrower to demand instant cash is extortion. Using physical fear or public shame to collect money creates direct criminal liability for agents and bank officers. </p>
                 </div>
                 <div className="p-4 bg-slate-50 rounded-xl border border-slate-200">
-                  <h4 className="font-bold text-slate-900 text-sm mb-2 flex items-center gap-1.5">
+                  <h5 className="font-bold text-slate-900 text-sm mb-2 flex items-center gap-1.5">
                     <ShieldAlert className="w-4 h-4 text-amber-600" />
                     <span>Criminal Intimidation &amp; Abuse (BNS Sec. 351, 352 / IPC 506)</span>
-                  </h4>
+                  </h5>
                   <p className="text-xs text-slate-600 leading-relaxed"> Threatening injury, bad language. or reputation damage is criminal threats. The law strictly punishes agents who use foul words over phone calls or in person. </p>
                 </div>
                 <div className="p-4 bg-slate-50 rounded-xl border border-slate-200">
-                  <h4 className="font-bold text-slate-900 text-sm mb-2 flex items-center gap-1.5">
+                  <h5 className="font-bold text-slate-900 text-sm mb-2 flex items-center gap-1.5">
                     <Building2 className="w-4 h-4 text-indigo-600" />
                     <span>Criminal Trespass &amp; Lurking (BNS Sec. 329 / IPC 441, 447)</span>
-                  </h4>
+                  </h5>
                   <p className="text-xs text-slate-600 leading-relaxed"> Entering your house without permission is criminal trespass. Agents cannot enter your home uninvited or block your apartment gate. </p>
                 </div>
                 <div className="p-4 bg-slate-50 rounded-xl border border-slate-200">
-                  <h4 className="font-bold text-slate-900 text-sm mb-2 flex items-center gap-1.5">
+                  <h5 className="font-bold text-slate-900 text-sm mb-2 flex items-center gap-1.5">
                     <Lock className="w-4 h-4 text-[#1F5EFF]" />
                     <span>Defamation &amp; Privacy Breach (BNS Sec. 356 / IT Act Sec. 66E)</span>
-                  </h4>
+                  </h5>
                   <p className="text-xs text-slate-600 leading-relaxed"> Telling neighbours or employers about your loan is illegal. Sending abusive messages or photos violates both criminal slander and IT privacy laws. </p>
                 </div>
               </div>
@@ -597,7 +597,7 @@ export default function HighCourtWritBankHarassmentPage() {
 
             {/* Section 4: Bank NPA Accounting, Capital Provisioning Burdens & NPV Recovery Model */}
             <section id="bank-npa-accounting-npv-recovery-dynamics" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">4. Bank NPA Accounting, Provisioning Burdens</h2>
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">4. Bank NPA Accounting, Provisioning Burdens</h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed"> A High Court writ gives borrowers strong leverage in debt settlement talks. Under RBI IRACP rules, banks must set aside cash reserves for unpaid loans. </p>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed"> When a loan passes 90 days of default, the bank marks it as an NPA. Over time, the bank must lock up to 100% of the loan amount in loss reserves: </p>
 
@@ -659,7 +659,7 @@ export default function HighCourtWritBankHarassmentPage() {
 
             {/* Section 5: Infographic Banner */}
             <section id="high-court-writ-roadmap" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">5. High Court Article 226 Writ Petition</h2>
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">5. High Court Article 226 Writ Petition</h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed"> The visual roadmap below details the 5-stage writ process. It covers collecting call evidence, filing the petition, getting stay orders. and negotiating a complete loan settlement. </p>
               
               <div className="relative w-full rounded-2xl overflow-hidden shadow-lg border border-slate-200 my-6 bg-slate-950 aspect-[16/9]">
@@ -692,7 +692,7 @@ export default function HighCourtWritBankHarassmentPage() {
 
             {/* Section 6: Step-by-Step Article 226 High Court Writ Petition Drafting & Mentioning Protocol */}
             <section id="step-by-step-article-226-filing-protocol" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">6. Step-by-Step Article 226 High Court Writ Petition</h2>
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">6. Step-by-Step Article 226 High Court Writ Petition</h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed"> Filing an Article 226 Writ Petition in the High Court follows a clear 5-step legal process: </p>
 
               <div className="space-y-3 my-6">
@@ -740,37 +740,37 @@ export default function HighCourtWritBankHarassmentPage() {
 
             {/* Section 7: Enforcing Judicial Restraining Orders & Contempt of Court Proceedings */}
             <section id="restraining-orders-contempt-proceedings" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">7. Enforcing Judicial Restraining Orders</h2>
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">7. Enforcing Judicial Restraining Orders</h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed"> A High Court order carries complete legal authority under Article 215 of the Constitution. A certified copy is served on the Police Chief and Bank Managing Director immediately. </p>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed"> If any recovery agent contacts the borrower after a stay order, they face direct <strong>Contempt of Court</strong> under the <strong>Contempt of Courts Act, 1971</strong>. </p>
 
               <div className="grid grid-cols-1 md:grid-cols-2 gap-4 my-6">
                 <div className="p-4 bg-slate-50 border border-slate-200 rounded-xl space-y-1.5">
-                  <h3 className="font-bold text-slate-900 text-xs sm:text-sm flex items-center gap-1.5">
+                  <h4 className="font-bold text-slate-900 text-xs sm:text-sm flex items-center gap-1.5">
                     <Gavel className="w-4 h-4 text-rose-600" />
                     <span>Civil Contempt (Section 2(b) Contempt Act)</span>
-                  </h3>
+                  </h4>
                   <p className="text-xs text-slate-600 leading-relaxed"> Willful disobedience of a court order is civil contempt. Bank directors are personally liable if their recovery agencies violate court stay orders. </p>
                 </div>
                 <div className="p-4 bg-slate-50 border border-slate-200 rounded-xl space-y-1.5">
-                  <h4 className="font-bold text-slate-900 text-xs sm:text-sm flex items-center gap-1.5">
+                  <h5 className="font-bold text-slate-900 text-xs sm:text-sm flex items-center gap-1.5">
                     <ShieldAlert className="w-4 h-4 text-amber-600" />
                     <span>Criminal Contempt (Section 2(c) Contempt Act)</span>
-                  </h4>
+                  </h5>
                   <p className="text-xs text-slate-600 leading-relaxed"> Threatening a borrower after court orders is criminal contempt. Courts take immediate action against agencies that interfere with justice. </p>
                 </div>
                 <div className="p-4 bg-slate-50 border border-slate-200 rounded-xl space-y-1.5">
-                  <h4 className="font-bold text-slate-900 text-xs sm:text-sm flex items-center gap-1.5">
+                  <h5 className="font-bold text-slate-900 text-xs sm:text-sm flex items-center gap-1.5">
                     <Building2 className="w-4 h-4 text-indigo-600" />
                     <span>Personal Appearance of Bank Heads</span>
-                  </h4>
+                  </h5>
                   <p className="text-xs text-slate-600 leading-relaxed"> The High Court can summon bank chairmen or CEOs in person to explain violations before the judge. </p>
                 </div>
                 <div className="p-4 bg-slate-50 border border-slate-200 rounded-xl space-y-1.5">
-                  <h4 className="font-bold text-slate-900 text-xs sm:text-sm flex items-center gap-1.5">
+                  <h5 className="font-bold text-slate-900 text-xs sm:text-sm flex items-center gap-1.5">
                     <Lock className="w-4 h-4 text-emerald-600" />
                     <span>Penalties: Jail and Fines (Section 12)</span>
-                  </h4>
+                  </h5>
                   <p className="text-xs text-slate-600 leading-relaxed"> Courts can punish contempt with up to six months of simple imprisonment or heavy financial fines. </p>
                 </div>
               </div>
@@ -780,15 +780,15 @@ export default function HighCourtWritBankHarassmentPage() {
 
             {/* Section 8: Strategic Settlement Leverage: Converting High Court Writ into 50%–70% OTS */}
             <section id="strategic-settlement-leverage-50-70-ots" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">8. Strategic Settlement Leverage</h2>
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">8. Strategic Settlement Leverage</h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed"> A High Court writ ends collection harassment. It also creates powerful legal leverage for negotiating a One-Time Settlement (OTS). </p>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed"> When faced with active High Court actions, bank zonal committees prefer resolving the dispute out of court: </p>
 
               <div className="bg-slate-50 rounded-2xl p-5 border border-slate-200 space-y-3 my-6">
-                <h3 className="font-bold text-slate-900 text-sm flex items-center gap-2">
+                <h4 className="font-bold text-slate-900 text-sm flex items-center gap-2">
                   <Check className="w-4 h-4 text-emerald-600" />
                   <span>The High Court Dual-Track Resolution Plan</span>
-                </h3>
+                </h4>
                 <div className="grid grid-cols-1 md:grid-cols-2 gap-3 text-xs text-slate-700">
                   <div className="p-3 bg-white rounded-xl border border-slate-200">
                     <strong className="text-slate-900 block mb-1">Track A: Court Injunction Pressure</strong>
@@ -806,7 +806,7 @@ export default function HighCourtWritBankHarassmentPage() {
 
             {/* Section 9: Comparative Matrix: High Court Writ vs Other Legal Forums */}
             <section id="redressal-comparative-matrix" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">9. Bank Recovery Harassment Legal Redressal Comparative</h2>
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">9. Bank Recovery Harassment Legal Redressal Comparative</h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed"> The table below compares the High Court writ with other legal options: </p>
 
               <div className="overflow-x-auto my-6">
@@ -870,7 +870,7 @@ export default function HighCourtWritBankHarassmentPage() {
 
             {/* Section 10 & Company Section */}
             <section id="company-resolution-section" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">10. SettleLoans High Court Constitutional Legal Defense</h2>
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">10. SettleLoans High Court Constitutional Legal Defense</h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed"> Facing criminal threats, physical harassment. And relentless debt pressure can be an overwhelming ordeal for people and business owners. At <strong>SettleLoans</strong>, our specialized team of senior High Court banking advocates, legal court case specialists. And seasoned debt compromise negotiators provides an unyielding shield for distressed borrowers across India. </p>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed"> From drafting high-impact pre-court case representations to Police Commissioners and filing emergency Article 226 Writ Petitions to securing ad-interim restraining orders and negotiating 50% to 70% One-Time Settlements, we stand with you every step of the way to restore your dignity, personal safety. And financial freedom. </p>
 
@@ -879,7 +879,7 @@ export default function HighCourtWritBankHarassmentPage() {
 
             {/* Section 11: FAQ Accordion */}
             <section id="faqs" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">11. FAQs: High Court Writ Petitions Against Bank Harassment</h2>
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">11. FAQs: High Court Writ Petitions Against Bank Harassment</h3>
               <div className="space-y-3">
                 {((jsonLdGraph["@graph"].find((item: any) => item["@type"] === "FAQPage") as any)?.mainEntity || []).map((faq: any, index: number) => (
                   <details
@@ -900,9 +900,9 @@ export default function HighCourtWritBankHarassmentPage() {
 
             {/* 5 Official Regulatory Links */}
             <section className="border-t border-slate-200 pt-8 mb-4">
-              <h3 className="text-xs sm:text-sm font-bold text-slate-900 mb-3 uppercase tracking-wider">
+              <h4 className="text-xs sm:text-sm font-bold text-slate-900 mb-3 uppercase tracking-wider">
                 Official Statutory &amp; Regulatory References
-              </h3>
+              </h4>
               <div className="grid grid-cols-1 sm:grid-cols-2 gap-2.5 text-xs">
                 <a
                   href="https://www.sci.gov.in"
@@ -954,9 +954,9 @@ export default function HighCourtWritBankHarassmentPage() {
 
             {/* 10 Related Guide Badges */}
             <section className="border-t border-slate-200 pt-8 mb-8">
-              <h3 className="text-xs sm:text-sm font-bold text-slate-900 mb-4 uppercase tracking-wider">
+              <h4 className="text-xs sm:text-sm font-bold text-slate-900 mb-4 uppercase tracking-wider">
                 Related Legal Defense &amp; Loan Resolution Guides
-              </h3>
+              </h4>
               <div className="flex flex-wrap gap-2">
                 <Link
                   href="/consumer-court-complaint-against-bank-harassment"

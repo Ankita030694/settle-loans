@@ -524,7 +524,7 @@ export default function RecoveryAgentsSnatchingBikeOnRoadPage() {
 
             {/* Section 2: Supreme Court Jurisprudence: Why Street Repossession is Criminal Dacoity & Extortion */}
             <section id="supreme-court-rulings-shanti-devi-sharma" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">2. Supreme Court Jurisprudence</h2>
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">2. Supreme Court Jurisprudence</h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 The Supreme Court of India has ruled clearly that <strong>banks cannot take the law into their own hands</strong>. The apex court banned musclemen for debt collection. Seizing vehicles by force breaks Article 21 rights of personal liberty and human dignity.
               </p>
@@ -581,7 +581,7 @@ export default function RecoveryAgentsSnatchingBikeOnRoadPage() {
 
             {/* Section 3: Statutory Protections, RBI Fair Practices Code & Mandatory Notice Protocols */}
             <section id="statutory-protections-rbi-fair-practices" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">3. Statutory Notice Protocols</h2>
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">3. Statutory Notice Protocols</h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 The Reserve Bank of India (RBI) sets strict recovery rules in its Fair Practices Code and Circular RBI/2022-23/108. Every bank and NBFC must follow these steps before taking action against hypothecated assets. Lenders often skip these rules, giving borrowers strong legal grounds to fight back.
               </p>
@@ -593,7 +593,7 @@ export default function RecoveryAgentsSnatchingBikeOnRoadPage() {
                 <div className="p-4 rounded-xl border border-slate-200 bg-slate-50 flex gap-3">
                   <div className="w-8 h-8 rounded-full bg-blue-100 text-[#1F5EFF] flex items-center justify-center font-bold text-sm flex-shrink-0">1</div>
                   <div className="space-y-1 text-xs sm:text-sm">
-                    <h3 className="font-bold text-slate-900">Mandatory 60-Day Loan Default &amp; Recall Notice</h3>
+                    <h4 className="font-bold text-slate-900">Mandatory 60-Day Loan Default &amp; Recall Notice</h4>
                     <p className="text-slate-600 leading-relaxed">
                       Lenders must give a written notice with a 60-day cure period. The notice must show the exact overdue amount, separating base principal from penal interest and late fees.
                     </p>
@@ -602,7 +602,7 @@ export default function RecoveryAgentsSnatchingBikeOnRoadPage() {
                 <div className="p-4 rounded-xl border border-slate-200 bg-slate-50 flex gap-3">
                   <div className="w-8 h-8 rounded-full bg-blue-100 text-[#1F5EFF] flex items-center justify-center font-bold text-sm flex-shrink-0">2</div>
                   <div className="space-y-1 text-xs sm:text-sm">
-                    <h4 className="font-bold text-slate-900">Pre-Repossession Notice &amp; Advance Police Station Intimation</h4>
+                    <h5 className="font-bold text-slate-900">Pre-Repossession Notice &amp; Advance Police Station Intimation</h5>
                     <p className="text-slate-600 leading-relaxed">
                       The lender must serve a pre-repossession notice before taking the vehicle. The bank must also inform the local police station in writing. Agents must carry bank IDs and IIBF DRA certificates.
                     </p>
@@ -611,7 +611,7 @@ export default function RecoveryAgentsSnatchingBikeOnRoadPage() {
                 <div className="p-4 rounded-xl border border-slate-200 bg-slate-50 flex gap-3">
                   <div className="w-8 h-8 rounded-full bg-blue-100 text-[#1F5EFF] flex items-center justify-center font-bold text-sm flex-shrink-0">3</div>
                   <div className="space-y-1 text-xs sm:text-sm">
-                    <h4 className="font-bold text-slate-900">Immediate Post-Repossession Inventory &amp; Condition Protocol</h4>
+                    <h5 className="font-bold text-slate-900">Immediate Post-Repossession Inventory &amp; Condition Protocol</h5>
                     <p className="text-slate-600 leading-relaxed">
                       After taking the vehicle, the lender must draft an inventory list with witnesses. It must record fuel level, vehicle condition. And personal items. A copy must go to the borrower immediately.
                     </p>
@@ -620,7 +620,7 @@ export default function RecoveryAgentsSnatchingBikeOnRoadPage() {
                 <div className="p-4 rounded-xl border border-slate-200 bg-slate-50 flex gap-3">
                   <div className="w-8 h-8 rounded-full bg-blue-100 text-[#1F5EFF] flex items-center justify-center font-bold text-sm flex-shrink-0">4</div>
                   <div className="space-y-1 text-xs sm:text-sm">
-                    <h4 className="font-bold text-slate-900">30-Day Pre-Sale Notice &amp; Statutory Right of Redemption</h4>
+                    <h5 className="font-bold text-slate-900">30-Day Pre-Sale Notice &amp; Statutory Right of Redemption</h5>
                     <p className="text-slate-600 leading-relaxed">
                       Under Section 176 of the Indian Contract Act, 1872, the lender must give 30 days notice before auctioning the asset. The borrower has the right to redeem the vehicle by clearing overdue EMIs.
                     </p>
@@ -631,7 +631,7 @@ export default function RecoveryAgentsSnatchingBikeOnRoadPage() {
 
             {/* Section 4: Criminal & Civil Liabilities Under BNS/IPC */}
             <section id="criminal-liabilities-bns-ipc-extortion" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">4. Criminal &amp; Civil Liabilities</h2>
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">4. Criminal &amp; Civil Liabilities</h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 When agents use force to take vehicles on public roads, they face criminal charges under the Bharatiya Nyaya Sanhita (BNS), 2023. And the Indian Penal Code (IPC). Financiers have no legal immunity from criminal trial.
               </p>
@@ -671,7 +671,7 @@ export default function RecoveryAgentsSnatchingBikeOnRoadPage() {
 
             {/* Section 5: Infographic Banner (16:9 Image) */}
             <section id="illegal-repossession-retrieval-roadmap" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">5. Vehicle Seizure &amp; Retrieval Roadmap</h2>
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">5. Vehicle Seizure &amp; Retrieval Roadmap</h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Understanding the steps of an illegal road seizure helps you stop harassment and reclaim your vehicle:
               </p>
@@ -694,7 +694,7 @@ export default function RecoveryAgentsSnatchingBikeOnRoadPage() {
 
             {/* Section 6: Emergency Step-by-Step Protocol: What to Do on the Road & How to Retrieve the Vehicle */}
             <section id="emergency-road-protocol-police-retrieval" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">6. Emergency Step-by-Step Protocol</h2>
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">6. Emergency Step-by-Step Protocol</h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 If recovery agents stop your vehicle on the road, follow these steps to stay safe and recover your property:
               </p>
@@ -703,7 +703,7 @@ export default function RecoveryAgentsSnatchingBikeOnRoadPage() {
                 <div className="p-4 rounded-xl border border-slate-200 bg-slate-50 flex gap-3">
                   <div className="w-7 h-7 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center font-bold text-xs flex-shrink-0">A</div>
                   <div className="space-y-1 text-xs sm:text-sm">
-                    <h3 className="font-bold text-slate-900">Step 1: Dial 112 Immediately &amp; Report Vehicle Snatching</h3>
+                    <h4 className="font-bold text-slate-900">Step 1: Dial 112 Immediately &amp; Report Vehicle Snatching</h4>
                     <p className="text-slate-600 leading-relaxed">
                       Stay inside your locked vehicle. Call police emergency at 112 right away. Report that unknown persons are blocking your vehicle and trying to snatch your keys. This creates an official police record.
                     </p>
@@ -713,7 +713,7 @@ export default function RecoveryAgentsSnatchingBikeOnRoadPage() {
                 <div className="p-4 rounded-xl border border-slate-200 bg-slate-50 flex gap-3">
                   <div className="w-7 h-7 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center font-bold text-xs flex-shrink-0">B</div>
                   <div className="space-y-1 text-xs sm:text-sm">
-                    <h4 className="font-bold text-slate-900">Step 2: Demand Official Credentials &amp; Video Record the Interaction</h4>
+                    <h5 className="font-bold text-slate-900">Step 2: Demand Official Credentials &amp; Video Record the Interaction</h5>
                     <p className="text-slate-600 leading-relaxed">
                       Record a video on your smartphone. Ask agents to show their bank ID card, IIBF DRA certificate. And bank authorization letter. Write down the license numbers of their vehicles.
                     </p>
@@ -723,7 +723,7 @@ export default function RecoveryAgentsSnatchingBikeOnRoadPage() {
                 <div className="p-4 rounded-xl border border-slate-200 bg-slate-50 flex gap-3">
                   <div className="w-7 h-7 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center font-bold text-xs flex-shrink-0">C</div>
                   <div className="space-y-1 text-xs sm:text-sm">
-                    <h4 className="font-bold text-slate-900">Step 3: Strictly Refuse to Sign Blank &quot;Voluntary Surrender&quot; Forms</h4>
+                    <h5 className="font-bold text-slate-900">Step 3: Strictly Refuse to Sign Blank &quot;Voluntary Surrender&quot; Forms</h5>
                     <p className="text-slate-600 leading-relaxed">
                       Agents often push a pre-printed surrender paper. <strong>Never sign any document under pressure.</strong> Signing gives the bank a false defense that you gave up the vehicle voluntarily.
                     </p>
@@ -733,7 +733,7 @@ export default function RecoveryAgentsSnatchingBikeOnRoadPage() {
                 <div className="p-4 rounded-xl border border-slate-200 bg-slate-50 flex gap-3">
                   <div className="w-7 h-7 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center font-bold text-xs flex-shrink-0">D</div>
                   <div className="space-y-1 text-xs sm:text-sm">
-                    <h4 className="font-bold text-slate-900">Step 4: Lodge a Formal Police Complaint / Zero FIR</h4>
+                    <h5 className="font-bold text-slate-900">Step 4: Lodge a Formal Police Complaint / Zero FIR</h5>
                     <p className="text-slate-600 leading-relaxed">
                       Go to the nearest police station immediately. File a complaint for extortion, theft. And threats under Sections 308, 303, and 351 BNS. Ask police to recover the vehicle under Section 497 BNSS / Section 451 CrPC.
                     </p>
@@ -743,7 +743,7 @@ export default function RecoveryAgentsSnatchingBikeOnRoadPage() {
                 <div className="p-4 rounded-xl border border-slate-200 bg-slate-50 flex gap-3">
                   <div className="w-7 h-7 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center font-bold text-xs flex-shrink-0">E</div>
                   <div className="space-y-1 text-xs sm:text-sm">
-                    <h4 className="font-bold text-slate-900">Step 5: Engage Legal Advocates to Serve Notices &amp; Approach Ombudsman</h4>
+                    <h5 className="font-bold text-slate-900">Step 5: Engage Legal Advocates to Serve Notices &amp; Approach Ombudsman</h5>
                     <p className="text-slate-600 leading-relaxed">
                       Have banking advocates send a legal notice to the bank Nodal Officer citing Supreme Court rulings. Also file a complaint with the RBI Banking Ombudsman for asset return and payout.
                     </p>
@@ -754,7 +754,7 @@ export default function RecoveryAgentsSnatchingBikeOnRoadPage() {
 
             {/* Section 7: Bank NPA Accounting, NPV Settlement Formula & Why Banks Waive Deficits */}
             <section id="bank-npa-accounting-npv-settlement" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">7. Bank NPA Accounting, NPV Recovery Formula</h2>
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">7. Bank NPA Accounting, NPV Recovery Formula</h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 After an illegal seizure, lenders often sell the vehicle at a cheap auction price. They then demand a large <strong>shortfall balance</strong>. Understanding bank NPA accounting helps explain why banks frequently waive these balances during legal talks.
               </p>
@@ -782,16 +782,16 @@ export default function RecoveryAgentsSnatchingBikeOnRoadPage() {
 
             {/* Section 8: Sanction Letter Forensics, No Dues Certificate (NDC) & CIBIL Bureau Restoration */}
             <section id="sanction-letter-ndc-cibil-restoration" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">8. Settlement Sanction Letter Forensics, RBI ₹0 NDC Mandate</h2>
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">8. Settlement Sanction Letter Forensics, RBI ₹0 NDC Mandate</h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Never pay cash to recovery agents or accept verbal settlement offers. Every vehicle loan settlement must be in writing. Get a signed <strong>One-Time Settlement (OTS) Sanction Letter</strong> on official bank letterhead.
               </p>
 
               <div className="p-5 rounded-2xl border border-blue-200 bg-blue-50/70 space-y-3 my-4">
-                <h3 className="font-bold text-blue-950 text-sm flex items-center gap-2">
+                <h4 className="font-bold text-blue-950 text-sm flex items-center gap-2">
                   <FileCheck className="w-4 h-4 text-[#1F5EFF]" />
                   <span>Mandatory Clauses in a Vehicle Loan Shortfall Settlement Letter</span>
-                </h3>
+                </h4>
                 <ul className="space-y-2 text-xs sm:text-sm text-blue-900">
                   <li className="flex items-start gap-2">
                     <Check className="w-4 h-4 text-emerald-600 flex-shrink-0 mt-0.5" />
@@ -819,7 +819,7 @@ export default function RecoveryAgentsSnatchingBikeOnRoadPage() {
 
             {/* Section 9: Vehicle Default Resolution Matrix */}
             <section id="comparative-repossession-defense-matrix" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">9. Vehicle Repossession Pathways vs Remedies Matrix</h2>
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">9. Vehicle Repossession Pathways vs Remedies Matrix</h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Review how different repossession methods compare under Indian law:
               </p>
@@ -872,9 +872,9 @@ export default function RecoveryAgentsSnatchingBikeOnRoadPage() {
             {/* Section 10: SettleLoans Legal Defense Advisory + CompanySection */}
             <section id="settleloans-advocate-defense-section" className="space-y-6">
               <div className="border-t border-slate-200 pt-8 space-y-4">
-                <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
+                <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                   10. SettleLoans Legal Defense &amp; Vehicle Seizure Advisory
-                </h2>
+                </h3>
                 <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                   Facing aggressive recovery agents and roadside vehicle seizures requires experienced banking advocates. SettleLoans defends vehicle loan borrowers across India. We send criminal counter-notices, help police recover seized vehicles, challenge biased arbitration under Section 12(5) of the Arbitration Act. And negotiate complete ₹0 shortfall waivers with official No Dues Certificates.
                 </p>
@@ -888,7 +888,7 @@ export default function RecoveryAgentsSnatchingBikeOnRoadPage() {
             <section id="faqs" className="space-y-4 border-t border-slate-200 pt-8">
               <div className="flex items-center gap-2 mb-2">
                 <HelpCircle className="w-5 h-5 text-[#1F5EFF]" />
-                <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">11. FAQs: Illegal Vehicle Seizure &amp; Recovery Agent Rules</h2>
+                <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">11. FAQs: Illegal Vehicle Seizure &amp; Recovery Agent Rules</h3>
               </div>
               <p className="text-xs sm:text-sm text-slate-600 mb-6">
                 Verified legal answers on vehicle repossession rules, Supreme Court rulings. And police assistance in India.
@@ -918,9 +918,9 @@ export default function RecoveryAgentsSnatchingBikeOnRoadPage() {
 
             {/* 5 Official Regulatory Links */}
             <section className="border-t border-slate-200 pt-8 mb-4">
-              <h3 className="text-xs sm:text-sm font-bold text-slate-900 mb-3 uppercase tracking-wider">
+              <h4 className="text-xs sm:text-sm font-bold text-slate-900 mb-3 uppercase tracking-wider">
                 Official Statutory &amp; Regulatory References
-              </h3>
+              </h4>
               <div className="grid grid-cols-1 sm:grid-cols-2 gap-2.5 text-xs">
                 <a
                   href="https://www.sci.gov.in"
@@ -972,9 +972,9 @@ export default function RecoveryAgentsSnatchingBikeOnRoadPage() {
 
             {/* 10 Related Guide Badges */}
             <section className="border-t border-slate-200 pt-8 mb-8">
-              <h3 className="text-xs sm:text-sm font-bold text-slate-900 mb-4 uppercase tracking-wider">
+              <h4 className="text-xs sm:text-sm font-bold text-slate-900 mb-4 uppercase tracking-wider">
                 Related Legal Defense &amp; Loan Resolution Guides
-              </h3>
+              </h4>
               <div className="flex flex-wrap gap-2">
                 <Link
                   href="/car-loan-repossession-and-shortfall-settlement"

@@ -314,33 +314,33 @@ export default function TrustworthyCompanyPage() {
                         />
 
                         <section id="anatomy-of-trust" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                                 The Pillars of Trust: What Separates Professionals from Predators
-                            </h2>
+                            </h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 Trust in debt resolution isn't built on pretty websites or celebrity endorsements. It is built on three fundamental pillars: Transparency, Accountability, and Expertise. If any one of these pillars is missing, the entire structure of the resolution process will eventually collapse, usually at the moment you need it most.
                             </p>
                             <div className="bg-[#f8fafc] p-10 rounded-3xl border border-slate-200 mb-12 shadow-sm">
-                                <h3 className="text-xl font-bold text-slate-900 mb-6">The Trinity of Professionalism</h3>
+                                <h4 className="text-xl font-bold text-slate-900 mb-6">The Trinity of Professionalism</h4>
                                 <div className="space-y-8">
                                     <div className="flex gap-4">
                                         <div className="w-10 h-10 bg-[#1F5EFF] rounded-full flex items-center justify-center text-white font-bold flex-shrink-0 mt-1">1</div>
                                         <div>
-                                            <h4 className="font-bold text-lg mb-1">Fee Transparency</h4>
+                                            <h5 className="font-bold text-lg mb-1">Fee Transparency</h5>
                                             <p className="text-slate-600 text-sm">Every single rupee charged must be documented. Professional firms provide a clear fee schedule at the point of enrollment, with no hidden 'processing charges' or 'legal surcharges' later on.</p>
                                         </div>
                                     </div>
                                     <div className="flex gap-4">
                                         <div className="w-10 h-10 bg-[#1F5EFF] rounded-full flex items-center justify-center text-white font-bold flex-shrink-0 mt-1">2</div>
                                         <div>
-                                            <h5 className="font-bold text-lg mb-1">Operational Accountability</h5>
+                                            <h6 className="font-bold text-lg mb-1">Operational Accountability</h6>
                                             <p className="text-slate-600 text-sm">A physical corporate office where you can meet the team. A registered GST number and a verifiable board of directors. Accountability means having someone to hold responsible if things go wrong.</p>
                                         </div>
                                     </div>
                                     <div className="flex gap-4">
                                         <div className="w-10 h-10 bg-[#1F5EFF] rounded-full flex items-center justify-center text-white font-bold flex-shrink-0 mt-1">3</div>
                                         <div>
-                                            <h5 className="font-bold text-lg mb-1">Legal Backing</h5>
+                                            <h6 className="font-bold text-lg mb-1">Legal Backing</h6>
                                             <p className="text-slate-600 text-sm">Debt resolution is a legal process. An agency without a dedicated team of advocates is essentially just a call center. True expertise lies in understanding the nuances of the SARFAESI and DRT laws.</p>
                                         </div>
                                     </div>
@@ -352,9 +352,9 @@ export default function TrustworthyCompanyPage() {
                         </section>
 
                         <section id="red-flag-checklist" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                                 The 'Red Flag' Checklist: 10 Signs of a Debt Settlement Scam
-                            </h2>
+                            </h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 Before you sign any document or pay a single rupee, run the agency through this 10-point 'Red Flag' filter. If the agency ticks even two of these boxes, walk away immediately.
                             </p>
@@ -375,9 +375,9 @@ export default function TrustworthyCompanyPage() {
                         </section>
 
                         <section id="vetting-protocol" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                                 The 7-Step Vetting Protocol for Professional Resolution
-                            </h2>
+                            </h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 If an agency passes the red-flag filter, it's time for a deeper investigation. This 7-step protocol is used by financial auditors to vet service providers, and you should use it too.
                             </p>
@@ -392,7 +392,7 @@ export default function TrustworthyCompanyPage() {
                                     { t: "Review Sentiment Analysis", d: "Scan 1-star reviews. Not for the rating itself, but for the company's response. A professional firm addresses complaints with facts, not aggression." }
                                 ].map((step, idx) => (
                                     <div key={idx} className="p-6 rounded-2xl bg-white border border-gray-200 shadow-sm hover:border-[#1F5EFF] transition-all group">
-                                        <h3 className="font-bold text-gray-900 group-hover:text-[#1F5EFF] transition-colors">{idx + 1}. {step.t}</h3>
+                                        <h4 className="font-bold text-gray-900 group-hover:text-[#1F5EFF] transition-colors">{idx + 1}. {step.t}</h4>
                                         <p className="text-sm text-gray-600 mt-2">{step.d}</p>
                                     </div>
                                 ))}
@@ -400,9 +400,9 @@ export default function TrustworthyCompanyPage() {
                         </section>
 
                         <section id="business-economics" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                                 How Professional Debt Agencies Avoid Conflicts of Interest
-                            </h2>
+                            </h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 A major concern for many borrowers is whether a debt settlement company is secretly working for the banks. This is a valid fear. In many cases, collection agencies 're-brand' themselves as settlement experts to get closer to the borrower and gather data for the bank. To avoid this conflict of interest, a trustworthy company must follow a strict **Independence Framework**.
                             </p>
@@ -415,15 +415,15 @@ export default function TrustworthyCompanyPage() {
                         </section>
 
                         <section id="sanction-letter-forensics" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                                 Sanction Letter Forensics: How to Spot a "Photoshop" Settlement
-                            </h2>
+                            </h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 One of the most common scams involves fake 'Settlement Letters' or 'Sanction Letters' created by unscrupulous agents to collect their success fees. These letters look real but are ignored by the bank's system. When the bank eventually sues you, the agent has disappeared with your money.
                             </p>
                             <div className="grid md:grid-cols-2 gap-8 mb-8">
                                 <div className="p-6 bg-white border border-gray-100 rounded-2xl shadow-sm">
-                                    <h3 className="font-bold text-[#1F5EFF] mb-2 uppercase text-xs">Authentic Markers</h3>
+                                    <h4 className="font-bold text-[#1F5EFF] mb-2 uppercase text-xs">Authentic Markers</h4>
                                     <ul className="space-y-4 text-xs font-sans">
                                         <li><FontAwesomeIcon icon={faCheck} className="text-green-500 mr-2" /> Official Bank Letterhead with a physically verifiable branch code.</li>
                                         <li><FontAwesomeIcon icon={faCheck} className="text-green-500 mr-2" /> Signature of an authorized bank officer with their Employee ID.</li>
@@ -432,7 +432,7 @@ export default function TrustworthyCompanyPage() {
                                     </ul>
                                 </div>
                                 <div className="p-6 bg-red-50 border border-red-100 rounded-2xl shadow-sm">
-                                    <h4 className="font-bold text-red-600 mb-2 uppercase text-xs">Forgery Red Flags</h4>
+                                    <h5 className="font-bold text-red-600 mb-2 uppercase text-xs">Forgery Red Flags</h5>
                                     <ul className="space-y-4 text-xs font-sans">
                                         <li><FontAwesomeIcon icon={faTriangleExclamation} className="text-red-500 mr-2" /> Spelling mistakes in the bank's own name or address.</li>
                                         <li><FontAwesomeIcon icon={faTriangleExclamation} className="text-red-500 mr-2" /> Instruction to pay the settlement amount to a 'Company Account' instead of the bank.</li>
@@ -444,9 +444,9 @@ export default function TrustworthyCompanyPage() {
                         </section>
 
                         <section id="escrow-ethics-depth" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                                 Escrow Ethics: Where Should Your Money Sit?
-                            </h2>
+                            </h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 A major differentiating factor between legitimate firms and scammers is how they handle your 'Accumulation Funds.' Professional firms often use a **Dedicated Savings Account** (sometimes called an Escrow Account) where you save money for the final lump-sum payment.
                             </p>
@@ -467,19 +467,19 @@ export default function TrustworthyCompanyPage() {
                         </section>
 
                         <section id="fee-structures" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                                 Understanding Fee Structures: Myths vs. Reality
-                            </h2>
+                            </h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 One of the most common questions is: Why do I have to pay a fee if I'm already in debt? The answer is simple: Professional negotiation requires expensive legal labor, data-mining tools, and administrative overhead. However, HOW you pay is the marker of a trustworthy firm.
                             </p>
                             <div className="grid md:grid-cols-2 gap-8 mb-8">
                                 <div className="p-8 rounded-3xl bg-blue-50 border border-blue-100">
-                                    <h3 className="font-bold text-blue-900 mb-4 uppercase text-xs tracking-widest">Enrollment Fees</h3>
+                                    <h4 className="font-bold text-blue-900 mb-4 uppercase text-xs tracking-widest">Enrollment Fees</h4>
                                     <p className="text-sm text-blue-800 leading-relaxed">This should be a fixed, modest amount. It covers the drafting of initial legal notices and the setup of your digital case file. Avoid agencies that ask for lakhs of rupees upfront.</p>
                                 </div>
                                 <div className="p-8 rounded-3xl bg-green-50 border border-green-100">
-                                    <h4 className="font-bold text-green-900 mb-4 uppercase text-xs tracking-widest">Success Fees</h4>
+                                    <h5 className="font-bold text-green-900 mb-4 uppercase text-xs tracking-widest">Success Fees</h5>
                                     <p className="text-sm text-green-800 leading-relaxed">This is usually 10-15% of the SAVED amount. A trustworthy firm only collects this after you have received the bank's official sanction letter. It aligns their success with yours.</p>
                                 </div>
                             </div>
@@ -489,33 +489,33 @@ export default function TrustworthyCompanyPage() {
                         </section>
 
                         <section id="contract-analysis" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                                 Contract Analysis: The Fine Print You Must Read
-                            </h2>
+                            </h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 The contract you sign with a resolution agency is the most important document in your debt journey. It defines your rights and the agency's obligations. Do not let yourself be rushed into signing. Take the document to a neutral lawyer if necessary.
                             </p>
                             <div className="bg-[#2E2E2E] text-[#DEDEDE] p-10 rounded-[40px] mb-12 shadow-2xl">
-                                <h3 className="text-2xl font-black mb-8 text-[#1F5EFF]">Must-Have Clauses</h3>
+                                <h4 className="text-2xl font-black mb-8 text-[#1F5EFF]">Must-Have Clauses</h4>
                                 <ul className="space-y-6">
                                     <li className="flex gap-4">
                                         <FontAwesomeIcon icon={faShieldHalved} className="text-[#1F5EFF] w-6 h-6 mt-1" />
                                         <div>
-                                            <h4 className="font-bold text-lg text-white">Direct Payment Clause</h4>
+                                            <h5 className="font-bold text-lg text-white">Direct Payment Clause</h5>
                                             <p className="text-gray-400 text-sm italic">Explicitly stating that the final settlement amount must be paid by the borrower directly to the bank, not into the agency's account.</p>
                                         </div>
                                     </li>
                                     <li className="flex gap-4">
                                         <FontAwesomeIcon icon={faShieldHalved} className="text-[#1F5EFF] w-6 h-6 mt-1" />
                                         <div>
-                                            <h5 className="font-bold text-lg text-white">Data Privacy Clause</h5>
+                                            <h6 className="font-bold text-lg text-white">Data Privacy Clause</h6>
                                             <p className="text-gray-400 text-sm italic">Protecting your financial info and ensuring it won't be sold as a lead to loan apps or collection agencies.</p>
                                         </div>
                                     </li>
                                     <li className="flex gap-4">
                                         <FontAwesomeIcon icon={faShieldHalved} className="text-[#1F5EFF] w-6 h-6 mt-1" />
                                         <div>
-                                            <h5 className="font-bold text-lg text-white">Refund Policy</h5>
+                                            <h6 className="font-bold text-lg text-white">Refund Policy</h6>
                                             <p className="text-gray-400 text-sm italic">A clear path for a partial refund if the agency fails to provide the basic legal services promised within a specific timeframe.</p>
                                         </div>
                                     </li>
@@ -524,9 +524,9 @@ export default function TrustworthyCompanyPage() {
                         </section>
 
                         <section id="regulatory-landscape-2025" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                                 Regulatory Landscape 2025: The Future of Debt Resolution Oversight
-                            </h2>
+                            </h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 As the Indian debt resolution market matures, the regulatory environment is shifting from 'Laissez-faire' to structured oversight. While the RBI does not currently license debt settlement companies directly, the introduction of the **Digital Personal Data Protection (DPDP) Act** and new **Fair Practices Codes** for Lenders has created a de-facto regulatory framework for third-party mediators.
                             </p>
@@ -536,9 +536,9 @@ export default function TrustworthyCompanyPage() {
                         </section>
 
                         <section id="legal-expertise" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                                 Digital Security and Data Privacy in Debt Resolution
-                            </h2>
+                            </h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 In 2025, your data is your most valuable asset. When you apply for a settlement, you are sharing bank statements, ID proofs, and income details. In the wrong hands, this data can be used for identity theft or targeted harassment. A trustworthy company treats data security as a core product feature, not an afterthought.
                             </p>
@@ -548,9 +548,9 @@ export default function TrustworthyCompanyPage() {
                         </section>
 
                         <section id="social-proof" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight text-balance">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight text-balance">
                                 The Role of Social Proof and Authentic Reviews
-                            </h2>
+                            </h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 Reviews are the easiest thing to fake in the digital age. A company with 500 reviews that all say "Great service, thanks!" is almost certainly using a bot farm. Authenticity lies in the details. A real review will mention the specific bank they settled with, the percentage of the waiver, the name of the negotiator who helped them, and the challenges they faced along the way.
                             </p>
@@ -562,9 +562,9 @@ export default function TrustworthyCompanyPage() {
                         </section>
 
                         <section id="corporate-governance" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                                 Corporate Governance and Conflicts of Interest
-                            </h2>
+                            </h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 Finally, check for conflicts of interest. Some settlement companies are actually 'Fronts' for collection agencies. They take your data and feed it back to the bank to help them collect more efficiently. This is the ultimate betrayal of trust.
                             </p>
@@ -574,7 +574,7 @@ export default function TrustworthyCompanyPage() {
                         </section>
 
                         <section id="faqs" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-bold text-[var(--color-primary)] mt-16 mb-8">Trust & Safety FAQs</h2>
+                            <h3 className="text-3xl md:text-4xl font-bold text-[var(--color-primary)] mt-16 mb-8">Trust & Safety FAQs</h3>
                             <div className="space-y-4 not-prose">
                                 {[
                                     { q: "How can I tell if a debt settlement company is trustworthy?", a: "Trustworthy companies have verifiable physical offices, transparent fee structures, legal advocate teams, and a track record of verified settlement letters from various banks." },
@@ -604,7 +604,7 @@ export default function TrustworthyCompanyPage() {
                         </section>
 
                         <section id="final-vetting-checklist" className="scroll-mt-32 mb-16 bg-blue-600 p-8 md:p-12 rounded-[40px] text-white">
-                            <h2 className="text-3xl font-black mb-6 uppercase tracking-tight">The 60-Second Trust Audit</h2>
+                            <h3 className="text-3xl font-black mb-6 uppercase tracking-tight">The 60-Second Trust Audit</h3>
                             <div className="grid md:grid-cols-2 gap-6">
                                 <div className="flex gap-4 items-center">
                                     <div className="w-8 h-8 rounded-full bg-white/20 flex items-center justify-center flex-shrink-0"><FontAwesomeIcon icon={faCheck} /></div>
@@ -633,7 +633,7 @@ export default function TrustworthyCompanyPage() {
                         <section className="bg-[#1F5EFF] rounded-[10px] p-8 md:p-12 text-center text-white relative overflow-hidden shadow-2xl">
                             <div className="absolute top-0 right-0 w-64 h-64 bg-white/10 rounded-full -mr-32 -mt-32"></div>
                             <div className="relative z-10">
-                                <h2 className="text-3xl md:text-5xl font-black mb-6 uppercase tracking-tighter">Your Safety is Our Priority</h2>
+                                <h3 className="text-3xl md:text-5xl font-black mb-6 uppercase tracking-tighter">Your Safety is Our Priority</h3>
                                 <p className="text-lg md:text-2xl opacity-90 max-w-2xl mx-auto mb-10 leading-tight font-normal">
                                     Experience the security of working with India's most trusted debt resolution agency. Start your safe journey to freedom today.
                                 </p>

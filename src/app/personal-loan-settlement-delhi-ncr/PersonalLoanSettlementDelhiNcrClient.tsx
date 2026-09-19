@@ -392,9 +392,9 @@ export default function PersonalLoanSettlementDelhiNcrClient() {
                 <Gavel className="w-4 h-4" />
                 <span>2. Statutory Defense &amp; Criminal Misconceptions</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 Civil Debt Default vs Criminal Traps: Dismantling Section 138 NI Act &amp; Section 25 PSSA
-              </h2>
+              </h3>
               <p className="text-base text-slate-700 leading-relaxed mb-4">
                 Under foundational Indian jurisprudence established by the Indian Contract Act, 1872, the inability to repay an unsecured personal loan due to genuine insolvency or economic distress is strictly a civil dispute arising from a breach of contractual covenants. The Supreme Court of India has repeatedly ruled that a default in loan repayment does not constitute a criminal offense of cheating or criminal breach of trust unless dishonest intention existed at the inception of the contract. Neither the Delhi Police, Haryana Police, nor UP Police possess statutory powers to arrest borrowers, register First Information Reports (FIRs), or summon debtors to police stations for pure unsecured loan defaults.
               </p>
@@ -424,9 +424,9 @@ export default function PersonalLoanSettlementDelhiNcrClient() {
                 <Scale className="w-4 h-4" />
                 <span>3. Advocacy &amp; Institutional Leverage</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 The Strategic Role of a Personal Loan Settlement Lawyer in Delhi NCR
-              </h2>
+              </h3>
               <p className="text-base text-slate-700 leading-relaxed mb-4">
                 Navigating a high-value loan default without professional legal counsel places the borrower at an extreme structural disadvantage. Third-party recovery agencies utilize psychological pressure, unauthorized workplace visits, and social embarrassment to coerce distressed families into liquidating essential assets or taking catastrophic high-interest informal loans. Engaging a seasoned personal loan settlement lawyer in Delhi NCR fundamentally shifts the balance of power from coercive collection agents to statutory legal channels.
               </p>
@@ -444,9 +444,9 @@ export default function PersonalLoanSettlementDelhiNcrClient() {
                 <Landmark className="w-4 h-4" />
                 <span>4. Conciliation &amp; Lok Adalat Frameworks</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 Delhi State Legal Services Authority (DSLSA) Lok Adalat Settlement Mechanics
-              </h2>
+              </h3>
               <p className="text-base text-slate-700 leading-relaxed mb-4">
                 The National Lok Adalat system, administered across the capital by the Delhi State Legal Services Authority (DSLSA) and District Legal Services Authorities (DLSAs), represents the most powerful, legally binding, and cost-effective mechanism for resolving unsecured personal loan defaults. Convened every two to three months across all Delhi District Court complexes under the Legal Services Authorities Act, 1987, Lok Adalats operate as statutory alternative dispute resolution forums designed specifically to clear institutional backlog and encourage amicable compromise between lenders and debtors.
               </p>
@@ -470,9 +470,9 @@ export default function PersonalLoanSettlementDelhiNcrClient() {
                       <span className="text-[10px] font-black uppercase tracking-widest text-blue-300 block">
                         Legal Defense &amp; Action Blueprint
                       </span>
-                      <h3 className="text-sm md:text-base font-black text-white leading-tight">
+                      <h4 className="text-sm md:text-base font-black text-white leading-tight">
                         Personal Loan Settlement in Delhi NCR Summary &amp; Process Overview
-                      </h3>
+                      </h4>
                     </div>
                   </div>
                   <a
@@ -519,9 +519,9 @@ export default function PersonalLoanSettlementDelhiNcrClient() {
                 <FileCheck className="w-4 h-4" />
                 <span>5. Procedural Workflow &amp; Legal Protocol</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 The 5-Stage Legal Defense &amp; Settlement Protocol in Delhi NCR
-              </h2>
+              </h3>
               <p className="text-base text-slate-700 leading-relaxed mb-4">
                 Achieving an optimal One-Time Settlement (OTS) with zero legal exposure requires strict adherence to a disciplined, multi-stage legal protocol. When borrowers attempt informal negotiations without legal protection, recovery agencies exploit their lack of procedural knowledge to collect piecemeal token payments that simply reset limitation periods without reducing the core principal obligation.
               </p>
@@ -548,9 +548,9 @@ export default function PersonalLoanSettlementDelhiNcrClient() {
                 <Sparkles className="w-4 h-4" />
                 <span>6. Banking Accounting &amp; NPV Mechanics</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 Banking Accounting Rules, NPV Calculations &amp; Securing 40%–70% Waivers
-              </h2>
+              </h3>
               <p className="text-base text-slate-700 leading-relaxed mb-4">
                 To negotiate maximum debt waivers with public and private sector banks in Delhi NCR, one must understand how Indian banking institutions account for non-performing assets (NPAs). Under Reserve Bank of India Master Directions on Prudential Norms on Income Recognition, Asset Classification and Provisioning, a loan account where EMI payments remain overdue for more than 90 days is classified as a Non-Performing Asset (Substandard). As default delinquency crosses 12 months, the account transitions into Doubtful and ultimately Loss asset categories.
               </p>
@@ -582,9 +582,9 @@ export default function PersonalLoanSettlementDelhiNcrClient() {
                 <ShieldAlert className="w-4 h-4" />
                 <span>7. Anti-Harassment &amp; Statutory Injunctions</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 Enforcing Anti-Harassment Protections Against Aggressive Recovery in NCR
-              </h2>
+              </h3>
               <p className="text-base text-slate-700 leading-relaxed mb-4">
                 Borrowers in Delhi, Gurugram, and Noida frequently face egregious overreach by unregulated collection agencies acting on behalf of major financial institutions. Common abusive tactics include relentless calling outside permissible hours, abusive language, sending intimidating groups of recovery agents to private residences in residential societies, visiting corporate workplaces in DLF Cyber City or Noida Sector 62, and contacting non-guarantor relatives or colleagues.
               </p>
@@ -602,9 +602,9 @@ export default function PersonalLoanSettlementDelhiNcrClient() {
                 <FileText className="w-4 h-4" />
                 <span>8. Settlement Verification &amp; Post-Closure</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 Legal Settlement Verification: Sanction Letters vs Final No Dues Certificates (NDC)
-              </h2>
+              </h3>
               <p className="text-base text-slate-700 leading-relaxed mb-4">
                 A critical vulnerability for distressed borrowers is falling victim to settlement scams orchestrated by third-party agency collection agents who offer verbal settlement discounts or issue fake WhatsApp settlement letters to meet monthly collection quotas. Once the borrower pays the discounted amount into a personal account or without formal bank sanction, the lender credits the funds as regular overdue interest, leaving the total loan balance active and litigation ongoing.
               </p>
@@ -625,9 +625,9 @@ export default function PersonalLoanSettlementDelhiNcrClient() {
                 <MapPin className="w-4 h-4" />
                 <span>9. NCR Courts Directory &amp; Resolution Matrix</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 Delhi NCR District Courts Directory &amp; Jurisdiction Matrix
-              </h2>
+              </h3>
               <p className="text-base text-slate-700 leading-relaxed mb-4">
                 Understanding which court complex has jurisdiction over your personal loan dispute is vital for prompt legal intervention. Below is the comprehensive jurisdiction matrix for district courts across Delhi, Gurugram, and Noida where loan recovery litigation, Section 138 NI Act trials, and DSLSA Lok Adalats are conducted:
               </p>
@@ -690,9 +690,9 @@ export default function PersonalLoanSettlementDelhiNcrClient() {
                 </table>
               </div>
 
-              <h3 className="text-lg sm:text-xl font-black text-slate-900 mt-8 mb-4">
+              <h4 className="text-lg sm:text-xl font-black text-slate-900 mt-8 mb-4">
                 Comparative Resolution Channels: Lok Adalat vs Direct Settlement vs Court Litigation
-              </h3>
+              </h4>
               <p className="text-base text-slate-700 leading-relaxed mb-4">
                 Borrowers facing loan defaults must evaluate their strategic options across speed, cost, legal finality, and potential debt haircut. The following table provides a comprehensive forensic comparison of available resolution channels:
               </p>
@@ -745,9 +745,9 @@ export default function PersonalLoanSettlementDelhiNcrClient() {
                 <HelpCircle className="w-4 h-4" />
                 <span>10. Common Questions &amp; Legal Answers</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
                 Frequently Asked Questions: Personal Loan Settlement in Delhi NCR
-              </h2>
+              </h3>
 
               <div className="space-y-4">
                 {faqs.map((faq, index) => (
@@ -819,9 +819,9 @@ export default function PersonalLoanSettlementDelhiNcrClient() {
 
             {/* 10 Internal Topic Badges */}
             <div className="bg-slate-50 border border-slate-200 rounded-2xl p-5 my-8">
-              <h3 className="text-xs font-bold uppercase tracking-wider text-slate-500 mb-3">
+              <h4 className="text-xs font-bold uppercase tracking-wider text-slate-500 mb-3">
                 Related Legal &amp; Debt Resolution Guides
-              </h3>
+              </h4>
               <div className="flex flex-wrap gap-2">
                 <Link
                   href="/personal-loan-legal-notice"

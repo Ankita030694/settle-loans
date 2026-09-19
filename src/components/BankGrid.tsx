@@ -85,9 +85,9 @@ export default function BankGrid() {
           <span className="inline-block py-1 px-4 rounded-full bg-[#004c94]/10 text-[#004c94] text-xs font-bold mb-4 tracking-widest uppercase">
             Bank Wise Settlement
           </span>
-          <h2 className="text-4xl md:text-5xl font-black text-[#1a202c] mb-6 leading-tight">
+          <h3 className="text-4xl md:text-5xl font-black text-[#1a202c] mb-6 leading-tight">
             Select Your Bank For <br className="hidden md:block" /> Specialized Settlement
-          </h2>
+          </h3>
           <p className="text-lg text-[#4a5568] max-w-2xl mx-auto">
             Each bank has unique settlement policies and OTS frameworks. Select your bank below to learn the exact step-by-step process we use to settle their debts.
           </p>

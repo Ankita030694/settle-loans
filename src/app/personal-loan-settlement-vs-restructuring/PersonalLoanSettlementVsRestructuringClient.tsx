@@ -123,7 +123,7 @@ export default function PersonalLoanSettlementVsRestructuringClient() {
       question: "What is the fundamental difference between personal loan settlement and loan restructuring?",
       answer: (
         <p>
-          The difference centers on <strong>contractual modification versus debt forgiveness</strong>. In a <strong>Loan Restructuring</strong>, the bank modifies your active contract terms. It may extend your repayment tenure, lower interest rates, or offer an EMI moratorium to make monthly payments manageable without terminating the loan.</p>
+          The difference centers on <strong>contractual modification versus debt forgiveness</strong>. In a <strong>Loan Restructuring</strong>, the bank modifies your active contract terms. It may extend your repayment tenure, lower interest rates, or offer an EMI moratorium to make monthly payments manageable without ending the loan.</p>
       )
     },
     {
@@ -152,7 +152,7 @@ export default function PersonalLoanSettlementVsRestructuringClient() {
       question: "What happens if I fail to pay EMIs after restructuring my personal loan?",
       answer: (
         <p>
-          If you default on a restructured payment plan, the bank revokes all interest concessions and moratorium benefits, reinstates full penal interest, and classifies the account as a <strong>&quot;Failed Restructure&quot;</strong>. The bank will initiate legal proceedings under Section 138 of the Negotiable Instruments Act or Section 25 of the Payment and Settlement Systems Act. At that stage, your sole remaining legal remedy to avoid court prosecution is negotiating a One-Time Settlement.
+          If you default on a restructured payment plan, the bank revokes all interest concessions and moratorium benefits, reinstates full penal interest, and classifies the account as a <strong>&quot;Failed Restructure&quot;</strong>. The bank will start legal cases under Section 138 of the Negotiable Instruments Act or Section 25 of the Payment and Settlement Systems Act. At that stage, your sole remaining legal remedy to avoid court prosecution is negotiating a One-Time Settlement.
         </p>
       )
     },
@@ -167,7 +167,7 @@ export default function PersonalLoanSettlementVsRestructuringClient() {
       question: "Do banks offer a moratorium period during personal loan restructuring?",
       answer: (
         <p>
-          Yes, depending on individual bank policies and hardship documentation, lenders can grant an EMI moratorium of <strong>3 to 6 months</strong> during restructuring. However, interest continues to accrue during the moratorium and is capitalized into your principal balance, slightly increasing subsequent monthly installments.
+          Yes, depending on person bank policies and hardship records, lenders can grant an EMI moratorium of <strong>3 to 6 months</strong> during restructuring. However, interest continues to accrue during the moratorium and is capitalized into your principal balance, slightly increasing subsequent monthly installments.
         </p>
       )
     },
@@ -415,9 +415,9 @@ export default function PersonalLoanSettlementVsRestructuringClient() {
 
               {/* Comparison Table 1 */}
               <div className="my-8">
-                <h3 className="text-lg md:text-xl font-bold text-slate-900 mb-3">
+                <h4 className="text-lg md:text-xl font-bold text-slate-900 mb-3">
                   Comprehensive Comparison: Loan Restructuring vs. Loan Settlement
-                </h3>
+                </h4>
                 <div className="overflow-x-auto">
                   <table>
                     <thead>
@@ -481,9 +481,9 @@ export default function PersonalLoanSettlementVsRestructuringClient() {
 
             {/* Section 2: Financial Mechanics & Simulation Analysis */}
             <section id="financial-mechanics-cost" className="scroll-mt-28 mb-12">
-              <h2 className="text-2xl md:text-3xl font-black text-slate-900 mb-5 leading-tight">
+              <h3 className="text-2xl md:text-3xl font-black text-slate-900 mb-5 leading-tight">
                 2. Financial Simulation: Monthly Cash Flow vs. Total Capital Outgo
-              </h2>
+              </h3>
               <p className="text-base leading-relaxed mb-4 text-slate-700">
                 The most critical decision variable for any borrower is evaluating the difference between <strong>monthly liquidity relief</strong> and <strong>total lifetime financial cost</strong>. Restructuring creates an illusion of affordability by lowering your monthly installment, but it significantly expands the lender&apos;s total interest harvest.
               </p>
@@ -493,10 +493,10 @@ export default function PersonalLoanSettlementVsRestructuringClient() {
 
               {/* Simulation Table */}
               <div className="bg-slate-50 border border-slate-200 rounded-2xl p-6 my-6">
-                <h3 className="text-base font-bold text-slate-900 flex items-center gap-2 mb-3">
+                <h4 className="text-base font-bold text-slate-900 flex items-center gap-2 mb-3">
                   <Calculator className="w-5 h-5 text-[#1F5EFF]" />
                   Comparative Financial Breakdown: ₹8,00,000 Personal Loan Scenario
-                </h3>
+                </h4>
                 <div className="overflow-x-auto">
                   <table>
                     <thead>
@@ -550,20 +550,20 @@ export default function PersonalLoanSettlementVsRestructuringClient() {
               </div>
 
               <div className="bg-amber-50 border-l-4 border-amber-500 p-5 rounded-r-xl my-6">
-                <h4 className="text-amber-900 font-bold text-base flex items-center gap-2 mb-1.5">
+                <h5 className="text-amber-900 font-bold text-base flex items-center gap-2 mb-1.5">
                   <AlertCircle className="w-5 h-5 text-amber-600" />
                   The Stressed Borrower&apos;s Paradox
-                </h4>
+                </h5>
                 <p className="text-sm text-amber-800 leading-relaxed">
-                  Restructuring solves <em>cash flow timing</em> but increases total interest paid over time. If your income has permanently reduced or debt obligations exceed 60% of earnings, loan settlement provides a definitive exit. It stops compounding debt and prevents long-term insolvency.</p>
+                  Restructuring solves <em>cash flow timing</em> but increases total interest paid over time. If your income has permanently reduced or debt debts exceed 60% of earnings, loan settlement provides a definitive exit. It stops compounding debt and prevents long-term insolvency.</p>
               </div>
             </section>
 
             {/* Section 3: CIBIL Score & Status Code Deep Dive */}
             <section id="cibil-score-mechanics" className="scroll-mt-28 mb-12">
-              <h2 className="text-2xl md:text-3xl font-black text-slate-900 mb-5 leading-tight">
+              <h3 className="text-2xl md:text-3xl font-black text-slate-900 mb-5 leading-tight">
                 3. CIBIL Mechanics: Restructured vs Settled vs Written Off
-              </h2>
+              </h3>
               <p className="text-base leading-relaxed mb-4 text-slate-700">
                 In the Indian banking ecosystem, credit bureaus—primarily TransUnion CIBIL, Experian, CRIF High Mark, and Equifax—operate under the statutory mandates of the <strong>Credit Information Companies (Regulation) Act, 2005 (CICRA)</strong>. Lenders report every account status tag to these bureaus monthly.
               </p>
@@ -573,10 +573,10 @@ export default function PersonalLoanSettlementVsRestructuringClient() {
 
               <div className="space-y-4 my-6">
                 <div className="p-5 rounded-xl border border-blue-200 bg-blue-50/50">
-                  <h3 className="text-base font-bold text-blue-900 flex items-center gap-2 mb-1">
+                  <h4 className="text-base font-bold text-blue-900 flex items-center gap-2 mb-1">
                     <RefreshCw className="w-5 h-5 text-[#1F5EFF]" />
                     1. &quot;Restructured&quot; Status Tag
-                  </h3>
+                  </h4>
                   <p className="text-sm text-blue-800 leading-relaxed mb-2">
                     When a loan is restructured under RBI guidelines, the bureau marks the account as <strong>&quot;Restructured due to Financial Hardship&quot;</strong>. The account remains <strong>active</strong> with a non-zero outstanding balance.
                   </p>
@@ -586,10 +586,10 @@ export default function PersonalLoanSettlementVsRestructuringClient() {
                 </div>
 
                 <div className="p-5 rounded-xl border border-amber-200 bg-amber-50/50">
-                  <h3 className="text-base font-bold text-amber-900 flex items-center gap-2 mb-1">
+                  <h4 className="text-base font-bold text-amber-900 flex items-center gap-2 mb-1">
                     <Scale className="w-5 h-5 text-amber-600" />
                     2. &quot;Settled&quot; Status Tag
-                  </h3>
+                  </h4>
                   <p className="text-sm text-amber-800 leading-relaxed mb-2">
                     In a One-Time Settlement, the account is permanently closed, and the active balance is updated to <strong>₹0</strong>. The bureau notes a non-zero write-off in the <em>&quot;Settlement Amount / Haircut&quot;</em> column.
                   </p>
@@ -599,12 +599,12 @@ export default function PersonalLoanSettlementVsRestructuringClient() {
                 </div>
 
                 <div className="p-5 rounded-xl border border-rose-200 bg-rose-50/50">
-                  <h3 className="text-base font-bold text-rose-900 flex items-center gap-2 mb-1">
+                  <h4 className="text-base font-bold text-rose-900 flex items-center gap-2 mb-1">
                     <AlertTriangle className="w-5 h-5 text-rose-600" />
                     3. &quot;Written Off&quot; / &quot;Suit Filed&quot; (Active Default Danger)
-                  </h3>
+                  </h4>
                   <p className="text-sm text-rose-800 leading-relaxed mb-2">
-                    Occurs when a borrower ignores bank notices without choosing restructuring or settlement. The bank books the entire amount as bad debt and initiates recovery litigation.
+                    Occurs when a borrower ignores bank notices without choosing restructuring or settlement. The bank books the entire amount as bad debt and starts recovery litigation.
                   </p>
                   <p className="text-xs text-rose-700">
                     <strong>Score Impact:</strong> Continuous collapse (-250 to -350 points). Unending Days Past Due (DPD 180+) reporting, total credit blacklisting across all lenders, and active civil/criminal court summons.
@@ -614,10 +614,10 @@ export default function PersonalLoanSettlementVsRestructuringClient() {
 
               {/* 36-Month Score Trajectory Table */}
               <div className="bg-slate-50 border border-slate-200 rounded-2xl p-6 my-6">
-                <h4 className="text-base font-bold text-slate-900 flex items-center gap-2 mb-3">
+                <h5 className="text-base font-bold text-slate-900 flex items-center gap-2 mb-3">
                   <TrendingUp className="w-5 h-5 text-[#1F5EFF]" />
                   36-Month CIBIL Score Trajectory Comparison
-                </h4>
+                </h5>
                 <div className="overflow-x-auto">
                   <table>
                     <thead>
@@ -667,39 +667,39 @@ export default function PersonalLoanSettlementVsRestructuringClient() {
 
             {/* Section 4: Bank Eligibility Criteria & RBI Regulatory Guidelines */}
             <section id="bank-eligibility-rbi" className="scroll-mt-28 mb-12">
-              <h2 className="text-2xl md:text-3xl font-black text-slate-900 mb-5 leading-tight">
+              <h3 className="text-2xl md:text-3xl font-black text-slate-900 mb-5 leading-tight">
                 4. Bank Eligibility Criteria &amp; RBI Regulatory Guidelines
-              </h2>
+              </h3>
               <p className="text-base leading-relaxed mb-4 text-slate-700">
                 Both loan restructuring and compromise settlements are governed by explicit frameworks issued by the Reserve Bank of India. Neither option is a casual favor from a branch manager; they are statutory resolutions anchored in central bank prudential norms.
               </p>
 
               <div className="space-y-4 my-6">
                 <div className="bg-slate-50 border border-slate-200 p-5 rounded-xl">
-                  <h3 className="font-bold text-slate-900 text-base mb-1.5 flex items-center gap-2">
+                  <h4 className="font-bold text-slate-900 text-base mb-1.5 flex items-center gap-2">
                     <Landmark className="w-5 h-5 text-[#1F5EFF]" />
                     RBI Prudential Framework for Resolution of Stressed Assets (June 7, 2019)
-                  </h3>
+                  </h4>
                   <p className="text-sm text-slate-600 leading-relaxed">
                     Mandates banks to identify early stress and classify accounts into Special Mention Accounts: <strong>SMA-0 (1–30 days overdue)</strong>, <strong>SMA-1 (31–60 days overdue)</strong>, and <strong>SMA-2 (61–90 days overdue)</strong>. Loan restructuring is most easily sanctioned during SMA-0 or SMA-1 when viability is demonstrable.
                   </p>
                 </div>
 
                 <div className="bg-slate-50 border border-slate-200 p-5 rounded-xl">
-                  <h4 className="font-bold text-slate-900 text-base mb-1.5 flex items-center gap-2">
+                  <h5 className="font-bold text-slate-900 text-base mb-1.5 flex items-center gap-2">
                     <ShieldCheck className="w-5 h-5 text-emerald-600" />
                     RBI Framework for Compromise Settlements and Technical Write-offs (June 8, 2023)
-                  </h4>
+                  </h5>
                   <p className="text-sm text-slate-600 leading-relaxed">
                     Empowers scheduled commercial banks, NBFCs, and cooperative lenders to formulate board-approved policies for executing One-Time Settlements without arbitrary branch-level discretion. It establishes cooling-off periods and mandates verifiable hardship parameters for granting principal waivers.
                   </p>
                 </div>
 
                 <div className="bg-slate-50 border border-slate-200 p-5 rounded-xl">
-                  <h4 className="font-bold text-slate-900 text-base mb-1.5 flex items-center gap-2">
+                  <h5 className="font-bold text-slate-900 text-base mb-1.5 flex items-center gap-2">
                     <AlertCircle className="w-5 h-5 text-amber-600" />
                     Strict Verification: Genuine Hardship vs. Wilful Default
-                  </h4>
+                  </h5>
                   <p className="text-sm text-slate-600 leading-relaxed">
                     Under RBI Master Directives, borrowers with genuine incapacity (verified income loss, medical documents, bank statement cash flow crunches) are entitled to compromise relief. Borrowers who intentionally siphon funds or conceal liquidity are classified as <em>Wilful Defaulters</em> and disqualified from concessions.
                   </p>
@@ -709,10 +709,10 @@ export default function PersonalLoanSettlementVsRestructuringClient() {
               {/* Eligibility Checklist Grid */}
               <div className="grid grid-cols-1 md:grid-cols-2 gap-5 my-6">
                 <div className="bg-white border border-slate-200 rounded-xl p-5 shadow-sm">
-                  <h5 className="font-bold text-slate-900 text-sm uppercase tracking-wider mb-3 flex items-center gap-2">
+                  <h6 className="font-bold text-slate-900 text-sm uppercase tracking-wider mb-3 flex items-center gap-2">
                     <RefreshCw className="w-4 h-4 text-[#1F5EFF]" />
                     <span>Restructuring Approval Criteria</span>
-                  </h5>
+                  </h6>
                   <ul className="text-xs text-slate-600 space-y-2">
                     <li className="flex items-start gap-1.5">
                       <Check className="w-3.5 h-3.5 text-emerald-600 flex-shrink-0 mt-0.5" />
@@ -734,10 +734,10 @@ export default function PersonalLoanSettlementVsRestructuringClient() {
                 </div>
 
                 <div className="bg-white border border-slate-200 rounded-xl p-5 shadow-sm">
-                  <h5 className="font-bold text-slate-900 text-sm uppercase tracking-wider mb-3 flex items-center gap-2">
+                  <h6 className="font-bold text-slate-900 text-sm uppercase tracking-wider mb-3 flex items-center gap-2">
                     <Scale className="w-4 h-4 text-amber-600" />
                     <span>Settlement (OTS) Approval Criteria</span>
-                  </h5>
+                  </h6>
                   <ul className="text-xs text-slate-600 space-y-2">
                     <li className="flex items-start gap-1.5">
                       <Check className="w-3.5 h-3.5 text-emerald-600 flex-shrink-0 mt-0.5" />
@@ -772,9 +772,9 @@ export default function PersonalLoanSettlementVsRestructuringClient() {
                     <span className="text-[10px] font-black uppercase tracking-widest text-blue-300 block">
                       Executive Decision Blueprint
                     </span>
-                    <h3 className="text-sm md:text-base font-black text-white leading-tight">
+                    <h4 className="text-sm md:text-base font-black text-white leading-tight">
                       Personal Loan Settlement vs. Restructuring: 4-Pillar Strategic Navigator
-                    </h3>
+                    </h4>
                   </div>
                 </div>
                 <span className="hidden sm:inline-block py-1 px-2.5 rounded-full bg-blue-500/20 border border-blue-400/30 text-blue-200 text-xs font-semibold">
@@ -790,7 +790,7 @@ export default function PersonalLoanSettlementVsRestructuringClient() {
                     <div className="w-8 h-8 rounded-xl bg-blue-50 text-[#1F5EFF] flex items-center justify-center font-black text-sm mb-2.5">
                       01
                     </div>
-                    <h4 className="text-sm font-black text-slate-900 mb-1">Financial Impact</h4>
+                    <h5 className="text-sm font-black text-slate-900 mb-1">Financial Impact</h5>
                     <p className="text-xs text-slate-600 leading-relaxed">
                       <strong>Restructure:</strong> Lower EMI, +20%–35% higher total interest.<br />
                       <strong>Settlement:</strong> 40%–70% haircut, zero future EMI.
@@ -802,7 +802,7 @@ export default function PersonalLoanSettlementVsRestructuringClient() {
                     <div className="w-8 h-8 rounded-xl bg-amber-50 text-amber-600 flex items-center justify-center font-black text-sm mb-2.5">
                       02
                     </div>
-                    <h4 className="text-sm font-black text-slate-900 mb-1">CIBIL Trajectory</h4>
+                    <h5 className="text-sm font-black text-slate-900 mb-1">CIBIL Trajectory</h5>
                     <p className="text-xs text-slate-600 leading-relaxed">
                       <strong>Restructure:</strong> -40 pts drop, fast 6-month recovery.<br />
                       <strong>Settlement:</strong> -120 pts drop, 18-month secured card rebound.
@@ -814,7 +814,7 @@ export default function PersonalLoanSettlementVsRestructuringClient() {
                     <div className="w-8 h-8 rounded-xl bg-purple-50 text-purple-600 flex items-center justify-center font-black text-sm mb-2.5">
                       03
                     </div>
-                    <h4 className="text-sm font-black text-slate-900 mb-1">Hardship Duration</h4>
+                    <h5 className="text-sm font-black text-slate-900 mb-1">Hardship Duration</h5>
                     <p className="text-xs text-slate-600 leading-relaxed">
                       <strong>Restructure:</strong> Temporary cash crunch (3–12 months).<br />
                       <strong>Settlement:</strong> Permanent insolvency or severe debt trap.
@@ -826,7 +826,7 @@ export default function PersonalLoanSettlementVsRestructuringClient() {
                     <div className="w-8 h-8 rounded-xl bg-emerald-50 text-emerald-600 flex items-center justify-center font-black text-sm mb-2.5">
                       04
                     </div>
-                    <h4 className="text-sm font-black text-slate-900 mb-1">Legal Finality</h4>
+                    <h5 className="text-sm font-black text-slate-900 mb-1">Legal Finality</h5>
                     <p className="text-xs text-slate-600 leading-relaxed">
                       <strong>Restructure:</strong> Active contract, re-default risk exists.<br />
                       <strong>Settlement:</strong> Permanent discharge with ₹0 NDC guarantee.
@@ -857,7 +857,7 @@ export default function PersonalLoanSettlementVsRestructuringClient() {
                     </div>
                     <div className="p-2.5 rounded-xl bg-slate-50 border border-slate-100">
                       <span className="text-[11px] font-bold text-emerald-600 block">Phase 4</span>
-                      <span className="text-xs font-bold text-slate-800">CIBIL Rehabilitation</span>
+                      <span className="text-xs font-bold text-slate-800">CIBIL recovery</span>
                       <span className="text-[10px] text-slate-500 block">Rebuild Score to 750+</span>
                     </div>
                   </div>
@@ -880,21 +880,21 @@ export default function PersonalLoanSettlementVsRestructuringClient() {
 
             {/* Section 5: Legal Protection, Enforceability & Dispute Resolution */}
             <section id="legal-protection-enforceability" className="scroll-mt-28 mb-12">
-              <h2 className="text-2xl md:text-3xl font-black text-slate-900 mb-5 leading-tight">
+              <h3 className="text-2xl md:text-3xl font-black text-slate-900 mb-5 leading-tight">
                 5. Legal Rights, Recovery Defense &amp; Dispute Resolution
-              </h2>
+              </h3>
               <p className="text-base leading-relaxed mb-4 text-slate-700">
-                A primary fear that drives borrowers into panic is the threat of aggressive recovery tactics and criminal prosecution under Indian banking laws. Knowing your exact statutory rights prevents unlawful intimidation and establishes a level playing field during negotiations.
+                A primary fear that drives borrowers into panic is the threat of aggressive recovery tactics and criminal prosecution under Indian banking laws. Knowing your exact statutory rights prevents unlawful intimidation and establishes a level playing field during talks.
               </p>
 
               <div className="space-y-4 my-6">
                 <div className="p-5 rounded-2xl bg-white border border-slate-200 shadow-sm">
-                  <h3 className="font-bold text-slate-900 text-base mb-2 flex items-center gap-2">
+                  <h4 className="font-bold text-slate-900 text-base mb-2 flex items-center gap-2">
                     <FileText className="w-5 h-5 text-rose-600" />
                     Section 138 of the Negotiable Instruments Act (Cheque Bounce)
-                  </h3>
+                  </h4>
                   <p className="text-sm text-slate-600 leading-relaxed mb-2">
-                    When personal loan EMIs fail, banks frequently present security cheques or initiate automated NACH debit attempts. A bounced cheque or dishonored electronic mandate triggers a statutory demand notice under Section 138 (or Section 25 of the PSS Act, 2007).
+                    When personal loan EMIs fail, banks frequently present security cheques or start automated NACH debit attempts. A bounced cheque or dishonored electronic mandate triggers a statutory demand notice under Section 138 (or Section 25 of the PSS Act, 2007).
                   </p>
                   <p className="text-xs text-slate-500">
                     <strong>Legal Safeguard:</strong> Executing a formal One-Time Settlement (OTS) legally compels the bank to withdraw all pending Section 138/Section 25 criminal complaints with prejudice upon receipt of settlement proceeds.
@@ -902,23 +902,23 @@ export default function PersonalLoanSettlementVsRestructuringClient() {
                 </div>
 
                 <div className="p-5 rounded-2xl bg-white border border-slate-200 shadow-sm">
-                  <h4 className="font-bold text-slate-900 text-base mb-2 flex items-center gap-2">
+                  <h5 className="font-bold text-slate-900 text-base mb-2 flex items-center gap-2">
                     <Scale className="w-5 h-5 text-[#1F5EFF]" />
                     Lok Adalat: Statutory Platform for Amicable Compromise
-                  </h4>
+                  </h5>
                   <p className="text-sm text-slate-600 leading-relaxed mb-2">
                     Organized by the National Legal Services Authority (NALSA) under the Legal Services Authorities Act, 1987, Lok Adalats provide an ideal statutory forum for executing binding settlement compromises between borrowers and commercial banks.
                   </p>
                   <p className="text-xs text-slate-500">
-                    <strong>Legal Safeguard:</strong> A Lok Adalat award carries the force of a final Civil Court decree. No appeal lies against a Lok Adalat award, guaranteeing that the lender cannot reopen recovery proceedings.
+                    <strong>Legal Safeguard:</strong> A Lok Adalat award carries the force of a final Civil Court decree. No appeal lies against a Lok Adalat award, guaranteeing that the lender cannot reopen recovery cases.
                   </p>
                 </div>
 
                 <div className="p-5 rounded-2xl bg-white border border-slate-200 shadow-sm">
-                  <h4 className="font-bold text-slate-900 text-base mb-2 flex items-center gap-2">
+                  <h5 className="font-bold text-slate-900 text-base mb-2 flex items-center gap-2">
                     <ShieldAlert className="w-5 h-5 text-emerald-600" />
                     RBI Fair Practices Code &amp; Anti-Harassment Safeguards
-                  </h4>
+                  </h5>
                   <p className="text-sm text-slate-600 leading-relaxed mb-2">
                     Under the Master Direction on Recovery Agents, lenders are strictly prohibited from visiting debtors before 8:00 AM or after 7:00 PM, calling friends or colleagues, using uncivilized language, or disclosing debt details publicly.
                   </p>
@@ -931,11 +931,11 @@ export default function PersonalLoanSettlementVsRestructuringClient() {
 
             {/* Section 6: Decision Framework Matrix */}
             <section id="decision-matrix-framework" className="scroll-mt-28 mb-12">
-              <h2 className="text-2xl md:text-3xl font-black text-slate-900 mb-5 leading-tight">
+              <h3 className="text-2xl md:text-3xl font-black text-slate-900 mb-5 leading-tight">
                 6. Decision Framework Matrix: When to Restructure vs. When to Settle
-              </h2>
+              </h3>
               <p className="text-base leading-relaxed mb-4 text-slate-700">
-                To determine whether loan restructuring or a One-Time Settlement is the most viable strategy for your specific circumstances, use our multi-parameter diagnostic framework:
+                To determine whether loan restructuring or a One-Time Settlement is the most viable strategy for your specific situations, use our multi-parameter diagnostic framework:
               </p>
 
               {/* Detailed Decision Matrix Table */}
@@ -988,9 +988,9 @@ export default function PersonalLoanSettlementVsRestructuringClient() {
 
             {/* Section 7: Transition Strategies */}
             <section id="transition-strategies" className="scroll-mt-28 mb-12">
-              <h2 className="text-2xl md:text-3xl font-black text-slate-900 mb-5 leading-tight">
+              <h3 className="text-2xl md:text-3xl font-black text-slate-900 mb-5 leading-tight">
                 7. Transition Strategies: Failed Restructure to OTS
-              </h2>
+              </h3>
               <p className="text-base leading-relaxed mb-4 text-slate-700">
                 Financial strategies must remain flexible. Many borrowers start with restructuring and later need to pivot to settlement, while others settle and later wish to convert their CIBIL remark to &quot;Closed&quot;. Here is how both transition mechanisms operate under Indian banking guidelines:
               </p>
@@ -998,26 +998,26 @@ export default function PersonalLoanSettlementVsRestructuringClient() {
               <div className="grid grid-cols-1 md:grid-cols-2 gap-5 my-6">
                 {/* Transition A */}
                 <div className="bg-slate-50 border border-slate-200 rounded-2xl p-6">
-                  <h3 className="font-bold text-slate-900 text-base mb-2 flex items-center gap-2">
+                  <h4 className="font-bold text-slate-900 text-base mb-2 flex items-center gap-2">
                     <RefreshCw className="w-5 h-5 text-[#1F5EFF]" />
                     Pivoting from Failed Restructuring to OTS
-                  </h3>
+                  </h4>
                   <p className="text-xs text-slate-600 leading-relaxed mb-3">
                     If you agreed to a restructured EMI plan but suffer a secondary income loss, do not attempt to borrow from predatory quick-loan apps.
                   </p>
                   <div className="bg-white p-3.5 rounded-xl border border-slate-200 text-xs text-slate-700 space-y-1.5">
                     <p><strong>Step 1:</strong> Issue a formal Hardship Inability Notice to the bank.</p>
-                    <p><strong>Step 2:</strong> Demonstrate that continued EMI servicing is impossible.</p>
+                    <p><strong>Step 2:</strong> show that continued EMI servicing is impossible.</p>
                     <p><strong>Step 3:</strong> Propose a final One-Time Settlement based on principal recovery.</p>
                   </div>
                 </div>
 
                 {/* Transition B */}
                 <div className="bg-slate-50 border border-slate-200 rounded-2xl p-6">
-                  <h4 className="font-bold text-slate-900 text-base mb-2 flex items-center gap-2">
+                  <h5 className="font-bold text-slate-900 text-base mb-2 flex items-center gap-2">
                     <CheckCircle2 className="w-5 h-5 text-emerald-600" />
                     Converting &quot;Settled&quot; to &quot;Closed&quot; in CIBIL
-                  </h4>
+                  </h5>
                   <p className="text-xs text-slate-600 leading-relaxed mb-3">
                     If your financial liquidity recovers 2 to 3 years after a settlement, you can completely erase the &quot;Settled&quot; remark.
                   </p>
@@ -1032,9 +1032,9 @@ export default function PersonalLoanSettlementVsRestructuringClient() {
 
             {/* Section 8: Step-by-Step Action Plan */}
             <section id="action-plan-rebuilding" className="scroll-mt-28 mb-12">
-              <h2 className="text-2xl md:text-3xl font-black text-slate-900 mb-5 leading-tight">
+              <h3 className="text-2xl md:text-3xl font-black text-slate-900 mb-5 leading-tight">
                 8. Step-by-Step Action Roadmap &amp; 750+ CIBIL Rebuild Blueprint
-              </h2>
+              </h3>
               <p className="text-base leading-relaxed mb-5 text-slate-700">
                 Whether you execute a restructuring or an OTS settlement, follow this battle-tested 4-step execution roadmap to resolve your liabilities cleanly and rehabilitate your credit profile:
               </p>
@@ -1045,9 +1045,9 @@ export default function PersonalLoanSettlementVsRestructuringClient() {
                     01
                   </div>
                   <div>
-                    <h3 className="font-bold text-slate-900 text-base mb-1">
+                    <h4 className="font-bold text-slate-900 text-base mb-1">
                       Comprehensive Debt &amp; Cash Flow Audit
-                    </h3>
+                    </h4>
                     <p className="text-xs text-slate-600 leading-relaxed">
                       List all outstanding loans, active interest rates, penal charges, and current DPD counts. Calculate your non-discretionary living expenses against verified take-home income to establish your real monthly EMI threshold.
                     </p>
@@ -1059,9 +1059,9 @@ export default function PersonalLoanSettlementVsRestructuringClient() {
                     02
                   </div>
                   <div>
-                    <h4 className="font-bold text-slate-900 text-base mb-1">
+                    <h5 className="font-bold text-slate-900 text-base mb-1">
                       Draft Statutory Hardship Representation to Bank
-                    </h4>
+                    </h5>
                     <p className="text-xs text-slate-600 leading-relaxed">
                       Submit a formal, written representation to the bank&apos;s Credit Restructuring Committee or Stressed Asset Resolution Branch citing RBI Master Directives. Attach salary slips, medical summaries, or business tax returns proving genuine distress.
                     </p>
@@ -1073,9 +1073,9 @@ export default function PersonalLoanSettlementVsRestructuringClient() {
                     03
                   </div>
                   <div>
-                    <h4 className="font-bold text-slate-900 text-base mb-1">
+                    <h5 className="font-bold text-slate-900 text-base mb-1">
                       Secure Official Written Sanction &amp; No Dues Certificate
-                    </h4>
+                    </h5>
                     <p className="text-xs text-slate-600 leading-relaxed">
                       Never transfer funds based on oral promises from collection agents. Verify that your Restructuring Agreement or OTS Sanction Letter is issued on the bank&apos;s official letterhead with authorized signatory credentials, account-specific UTR instructions, and a ₹0 NDC clause.
                     </p>
@@ -1087,11 +1087,11 @@ export default function PersonalLoanSettlementVsRestructuringClient() {
                     04
                   </div>
                   <div>
-                    <h4 className="font-bold text-slate-900 text-base mb-1">
-                      Execute the 750+ CIBIL Score Rehabilitation Protocol
-                    </h4>
+                    <h5 className="font-bold text-slate-900 text-base mb-1">
+                      Execute the 750+ CIBIL Score recovery Protocol
+                    </h5>
                     <p className="text-xs text-slate-600 leading-relaxed">
-                      Open a Fixed Deposit-backed secured credit card (e.g., IDFC WOW or Kotak 811 Dream Different) with a ₹25,000–₹50,000 limit. Maintain a Credit Utilization Ratio (CUR) below 20% and pay 100% of the bill on time every month. Your CIBIL score will cross <strong>750+ within 18 to 24 months</strong>.
+                      Open a Fixed Deposit-backed secured credit card (e.g., IDFC WOW or Kotak 811 Dream Different) with a ₹25,000–₹50,000 limit. Maintain a Credit use Ratio (CUR) below 20% and pay 100% of the bill on time every month. Your CIBIL score will cross <strong>750+ within 18 to 24 months</strong>.
                     </p>
                   </div>
                 </div>
@@ -1102,9 +1102,9 @@ export default function PersonalLoanSettlementVsRestructuringClient() {
             <CompanySection />
 
             <section id="faqs" className="scroll-mt-28 mb-12">
-              <h2 className="text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
+              <h3 className="text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
                 9. Frequently Asked Questions: Loan Settlement vs Restructuring
-              </h2>
+              </h3>
               <div className="space-y-3">
                 {faqs.map((faq, index) => (
                   <FAQItem
@@ -1120,10 +1120,10 @@ export default function PersonalLoanSettlementVsRestructuringClient() {
 
             {/* Section 10: Official Regulatory Sources & Legal Citations */}
             <div className="my-10 p-6 bg-slate-50 border border-slate-200 rounded-2xl">
-              <h3 className="text-sm font-bold uppercase tracking-wider text-slate-900 mb-3 flex items-center gap-2">
+              <h4 className="text-sm font-bold uppercase tracking-wider text-slate-900 mb-3 flex items-center gap-2">
                 <Landmark className="w-4 h-4 text-[#1F5EFF]" />
                 <span>Statutory References &amp; Official Regulatory Sources</span>
-              </h3>
+              </h4>
               <ul className="text-xs text-slate-600 space-y-2">
                 <li className="flex items-start gap-2">
                   <ExternalLink className="w-3.5 h-3.5 text-slate-400 flex-shrink-0 mt-0.5" />
@@ -1154,9 +1154,9 @@ export default function PersonalLoanSettlementVsRestructuringClient() {
 
             {/* Section 11: Internal Topic Badges (10 Links) */}
             <div className="my-10 pt-6 border-t border-slate-200">
-              <h4 className="text-sm font-bold uppercase tracking-wider text-slate-900 mb-4">
+              <h5 className="text-sm font-bold uppercase tracking-wider text-slate-900 mb-4">
                 Related Debt Resolution &amp; Legal Protection Guides
-              </h4>
+              </h5>
               <div className="flex flex-wrap gap-2">
                 <Link
                   href="/personal-loan-settlement-vs-closure"
@@ -1245,7 +1245,7 @@ export default function PersonalLoanSettlementVsRestructuringClient() {
                 </div>
               </div>
               <p className="text-xs text-slate-600 leading-relaxed mb-3">
-                Specializing in bank compromise negotiations, RBI regulatory compliance, and CIBIL score forensic dispute resolution for borrowers across India.
+                Specializing in bank compromise talks, RBI regulatory compliance, and CIBIL score forensic dispute resolution for borrowers across India.
               </p>
               <div className="pt-2.5 border-t border-slate-100 flex items-center justify-between text-xs font-semibold">
                 <Link
@@ -1269,7 +1269,7 @@ export default function PersonalLoanSettlementVsRestructuringClient() {
             <div className="bg-gradient-to-br from-[#1F5EFF] to-blue-700 text-white rounded-2xl p-5 shadow-md">
               <div className="flex items-center gap-1.5 text-blue-100 text-[11px] font-bold uppercase tracking-wider mb-2">
                 <PhoneCall className="w-3.5 h-3.5" />
-                <span>Emergency Advocate Assistance</span>
+                <span>Emergency Advocate help</span>
               </div>
               <div className="text-lg font-black mb-2 leading-tight">
                 Facing Recovery Harassment or Legal Court Notices?

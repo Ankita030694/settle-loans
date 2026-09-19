@@ -294,17 +294,17 @@ export default function ParentsLegalLiabilityPage() {
 
               {/* Legal Liability */}
               <section id="legal-liability" className="scroll-mt-32 mb-16">
-                <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+                <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                   Legal Liability of Parents as Co-Signers
-                </h2>
+                </h3>
                 <p className="text-lg leading-relaxed mb-6">
                   Many families misunderstand the role of a co-signer. They assume it is merely a formality to help the student secure the loan. In reality, the legal definition of a co-borrower or guarantor means you share 100% of the liability for the debt.
                 </p>
 
                 <div className="bg-blue-50 border-l-8 border-[#1F5EFF] p-8 rounded-r-2xl mb-8">
-                  <h3 className="text-xl font-black text-[#1F5EFF] mb-4">
+                  <h4 className="text-xl font-black text-[#1F5EFF] mb-4">
                     The Harsh Legal Truth of Co-Borrowing
-                  </h3>
+                  </h4>
                   <ul className="space-y-4">
                     <li className="flex items-start gap-3">
                       <div className="mt-1.5 w-2 h-2 rounded-full bg-[#1F5EFF] flex-shrink-0"></div>
@@ -324,9 +324,9 @@ export default function ParentsLegalLiabilityPage() {
 
               {/* Bank Harassment */}
               <section id="bank-harassment" className="scroll-mt-32 mb-16">
-                <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+                <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                   How Banks Target Parents and Retirement Savings
-                </h2>
+                </h3>
                 <p className="text-lg leading-relaxed mb-6">
                   When a student is unemployed, they have no assets to seize. The parents, however, usually have steady incomes, fixed deposits, or physical property. This makes them the primary target for <strong>education loan recovery</strong>. 
                 </p>
@@ -342,7 +342,7 @@ export default function ParentsLegalLiabilityPage() {
                 </p>
 
                 <div className="bg-red-50 p-6 rounded-xl border border-red-100 mb-8">
-                  <h3 className="text-xl font-black text-red-700 mb-2">Warning: Bank Harassment is Illegal</h3>
+                  <h4 className="text-xl font-black text-red-700 mb-2">Warning: Bank Harassment is Illegal</h4>
                   <p className="text-red-900 text-lg">
                     Banks harassing parents for student loans is a common issue, but it violates RBI guidelines. Recovery agents cannot call your relatives, visit your workplace to humiliate you, or use abusive language.
                   </p>
@@ -351,20 +351,20 @@ export default function ParentsLegalLiabilityPage() {
 
               {/* CIBIL Impact */}
               <section id="cibil-impact" className="scroll-mt-32 mb-16">
-                <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+                <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                   The Devastating Impact on Parents' CIBIL Scores
-                </h2>
+                </h3>
                 <p className="text-lg leading-relaxed mb-6">
                   Because the parent is registered as a co-borrower on the loan agreement, the loan appears on both the student's and the parent's CIBIL reports. 
                 </p>
 
                 <div className="grid md:grid-cols-2 gap-6 my-8">
                   <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
-                    <h3 className="font-black text-[#1F5EFF] text-lg mb-3">For the Student</h3>
+                    <h4 className="font-black text-[#1F5EFF] text-lg mb-3">For the Student</h4>
                     <p className="text-gray-700">The default ruins their credit score right at the beginning of their financial journey, making it difficult to get credit cards, auto loans, or even clear background checks for certain finance-sector jobs.</p>
                   </div>
                   <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
-                    <h4 className="font-black text-[#1F5EFF] text-lg mb-3">For the Parents</h4>
+                    <h5 className="font-black text-[#1F5EFF] text-lg mb-3">For the Parents</h5>
                     <p className="text-gray-700">The default immediately crashes the parent's CIBIL score. This means parents may be denied medical loans, personal loans, or credit extensions right when they need financial stability the most.</p>
                   </div>
                 </div>
@@ -372,9 +372,9 @@ export default function ParentsLegalLiabilityPage() {
 
               {/* Settlement Solution */}
               <section id="settlement-solution" className="scroll-mt-32 mb-16">
-                <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+                <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                   How to Settle an Education Loan in India
-                </h2>
+                </h3>
                 <p className="text-lg leading-relaxed mb-6">
                   If the student is genuinely unable to find employment and the parents cannot afford to cover the massive EMIs, a One Time Settlement (OTS) is often the most practical solution. To <strong>settle education loan in India</strong>, you negotiate with the bank to close the account for a fraction of the outstanding amount.
                 </p>
@@ -383,21 +383,21 @@ export default function ParentsLegalLiabilityPage() {
                   <div className="flex gap-6">
                     <div className="flex-shrink-0 w-12 h-12 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center font-black text-xl shadow-lg">1</div>
                     <div>
-                      <h3 className="text-xl font-bold text-[#2E2E2E] mb-2">Prove Financial Hardship</h3>
+                      <h4 className="text-xl font-bold text-[#2E2E2E] mb-2">Prove Financial Hardship</h4>
                       <p className="text-gray-700">You must formally demonstrate that the student has no income and the parents are financially distressed or nearing retirement. Bank statements and unemployment proofs are critical.</p>
                     </div>
                   </div>
                   <div className="flex gap-6">
                     <div className="flex-shrink-0 w-12 h-12 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center font-black text-xl shadow-lg">2</div>
                     <div>
-                      <h4 className="text-xl font-bold text-[#2E2E2E] mb-2">Stop Harassment Officially</h4>
+                      <h5 className="text-xl font-bold text-[#2E2E2E] mb-2">Stop Harassment Officially</h5>
                       <p className="text-gray-700">Send legal notices to the bank asserting your rights under RBI guidelines, forcing them to route all communication through legal channels rather than harassing phone calls.</p>
                     </div>
                   </div>
                   <div className="flex gap-6">
                     <div className="flex-shrink-0 w-12 h-12 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center font-black text-xl shadow-lg">3</div>
                     <div>
-                      <h4 className="text-xl font-bold text-[#2E2E2E] mb-2">Negotiate a Discount</h4>
+                      <h5 className="text-xl font-bold text-[#2E2E2E] mb-2">Negotiate a Discount</h5>
                       <p className="text-gray-700">Banks prefer recovering something over nothing. Expert negotiators can often reduce an unsecured education loan burden by 40% to 70%, allowing you to close the matter peacefully.</p>
                     </div>
                   </div>
@@ -406,9 +406,9 @@ export default function ParentsLegalLiabilityPage() {
 
               {/* Success Stories */}
               <section id="success-stories" className="scroll-mt-32 mb-16">
-                <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+                <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                   Success Stories: Education Loans Settled
-                </h2>
+                </h3>
                 
                 <div className="grid md:grid-cols-2 gap-6 my-8">
                   {/* Review 1 */}
@@ -419,7 +419,7 @@ export default function ParentsLegalLiabilityPage() {
                           R
                         </div>
                         <div>
-                          <h3 className="font-bold text-[#2E2E2E]">Rajesh S.</h3>
+                          <h4 className="font-bold text-[#2E2E2E]">Rajesh S.</h4>
                           <div className="flex gap-1">
                             {[...Array(5)].map((_, i) => (
                               <svg key={i} className="w-4 h-4 text-yellow-400" fill="currentColor" viewBox="0 0 20 20"><path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z" /></svg>
@@ -443,7 +443,7 @@ export default function ParentsLegalLiabilityPage() {
                           A
                         </div>
                         <div>
-                          <h4 className="font-bold text-[#2E2E2E]">Anita V.</h4>
+                          <h5 className="font-bold text-[#2E2E2E]">Anita V.</h5>
                           <div className="flex gap-1">
                             {[...Array(5)].map((_, i) => (
                               <svg key={i} className="w-4 h-4 text-yellow-400" fill="currentColor" viewBox="0 0 20 20"><path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z" /></svg>
@@ -463,58 +463,58 @@ export default function ParentsLegalLiabilityPage() {
 
               {/* FAQs */}
               <section id="faqs" className="scroll-mt-32 mb-16">
-                <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+                <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                   Frequently Asked Questions
-                </h2>
+                </h3>
                 <div className="space-y-4">
                   
                   <div className="bg-white border border-[#DEDEDE] rounded-xl p-6 hover:shadow-md transition-shadow">
-                    <h3 className="text-lg font-bold text-[#2E2E2E] mb-2">Are parents legally liable if a child defaults on an education loan in India?</h3>
+                    <h4 className="text-lg font-bold text-[#2E2E2E] mb-2">Are parents legally liable if a child defaults on an education loan in India?</h4>
                     <p className="text-gray-700">Yes. In almost all education loans exceeding ₹4 Lakhs, parents are required to be co-borrowers or guarantors, meaning they share equal legal responsibility to repay.</p>
                   </div>
 
                   <div className="bg-white border border-[#DEDEDE] rounded-xl p-6 hover:shadow-md transition-shadow">
-                    <h4 className="text-lg font-bold text-[#2E2E2E] mb-2">Can the bank seize my parents' retirement savings?</h4>
+                    <h5 className="text-lg font-bold text-[#2E2E2E] mb-2">Can the bank seize my parents' retirement savings?</h5>
                     <p className="text-gray-700">Banks cannot directly freeze accounts like EPF, but they can attach standard savings accounts or fixed deposits where retirement funds have been transferred.</p>
                   </div>
 
                   <div className="bg-white border border-[#DEDEDE] rounded-xl p-6 hover:shadow-md transition-shadow">
-                    <h4 className="text-lg font-bold text-[#2E2E2E] mb-2">Does an education loan default affect the parents' CIBIL score?</h4>
+                    <h5 className="text-lg font-bold text-[#2E2E2E] mb-2">Does an education loan default affect the parents' CIBIL score?</h5>
                     <p className="text-gray-700">Yes. Since the parent is a co-signer, the default will plummet their CIBIL score identically to the student's score, impacting their future borrowing capacity.</p>
                   </div>
 
                   <div className="bg-white border border-[#DEDEDE] rounded-xl p-6 hover:shadow-md transition-shadow">
-                    <h4 className="text-lg font-bold text-[#2E2E2E] mb-2">Can the bank sell our family home to recover the loan?</h4>
+                    <h5 className="text-lg font-bold text-[#2E2E2E] mb-2">Can the bank sell our family home to recover the loan?</h5>
                     <p className="text-gray-700">If the family home was pledged as collateral (common for loans above ₹7.5 Lakhs), the bank can initiate proceedings under the SARFAESI Act to auction the property.</p>
                   </div>
 
                   <div className="bg-white border border-[#DEDEDE] rounded-xl p-6 hover:shadow-md transition-shadow">
-                    <h4 className="text-lg font-bold text-[#2E2E2E] mb-2">Is it possible to settle an education loan in India?</h4>
+                    <h5 className="text-lg font-bold text-[#2E2E2E] mb-2">Is it possible to settle an education loan in India?</h5>
                     <p className="text-gray-700">Yes, education loans can be settled through a One Time Settlement (OTS) if there is genuine financial hardship, such as prolonged unemployment.</p>
                   </div>
 
                   <div className="bg-white border border-[#DEDEDE] rounded-xl p-6 hover:shadow-md transition-shadow">
-                    <h4 className="text-lg font-bold text-[#2E2E2E] mb-2">What happens if the student moves abroad and defaults?</h4>
+                    <h5 className="text-lg font-bold text-[#2E2E2E] mb-2">What happens if the student moves abroad and defaults?</h5>
                     <p className="text-gray-700">The bank will shift the recovery focus entirely to the parents residing in India, initiating legal action and harassment against them.</p>
                   </div>
 
                   <div className="bg-white border border-[#DEDEDE] rounded-xl p-6 hover:shadow-md transition-shadow">
-                    <h4 className="text-lg font-bold text-[#2E2E2E] mb-2">Can recovery agents harass parents for a student loan?</h4>
+                    <h5 className="text-lg font-bold text-[#2E2E2E] mb-2">Can recovery agents harass parents for a student loan?</h5>
                     <p className="text-gray-700">While they often resort to intimidation, RBI guidelines strictly prohibit harassment, abusive language, or calling outside reasonable hours.</p>
                   </div>
 
                   <div className="bg-white border border-[#DEDEDE] rounded-xl p-6 hover:shadow-md transition-shadow">
-                    <h4 className="text-lg font-bold text-[#2E2E2E] mb-2">Will a loan settlement permanently ruin the student's career?</h4>
+                    <h5 className="text-lg font-bold text-[#2E2E2E] mb-2">Will a loan settlement permanently ruin the student's career?</h5>
                     <p className="text-gray-700">A settled status remains on the CIBIL report for 7 years. It does not legally bar a student from getting a job, though some finance employers check credit histories.</p>
                   </div>
 
                   <div className="bg-white border border-[#DEDEDE] rounded-xl p-6 hover:shadow-md transition-shadow">
-                    <h4 className="text-lg font-bold text-[#2E2E2E] mb-2">What if the parent who co-signed passes away?</h4>
+                    <h5 className="text-lg font-bold text-[#2E2E2E] mb-2">What if the parent who co-signed passes away?</h5>
                     <p className="text-gray-700">The liability falls completely on the primary borrower (the student) or the surviving legal heirs to the extent of the assets inherited.</p>
                   </div>
 
                   <div className="bg-white border border-[#DEDEDE] rounded-xl p-6 hover:shadow-md transition-shadow">
-                    <h4 className="text-lg font-bold text-[#2E2E2E] mb-2">How much discount can be negotiated in a settlement?</h4>
+                    <h5 className="text-lg font-bold text-[#2E2E2E] mb-2">How much discount can be negotiated in a settlement?</h5>
                     <p className="text-gray-700">Depending on the vintage of the NPA and the borrower's proven inability to pay, settlements can range from 30% to 70% waivers.</p>
                   </div>
 
@@ -524,9 +524,9 @@ export default function ParentsLegalLiabilityPage() {
               {/* Lead Gen Hook */}
               <div className="bg-[#2E2E2E] text-white p-12 rounded-[40px] text-center mt-24 relative overflow-hidden group">
                 <div className="absolute inset-0 bg-[#1F5EFF] opacity-0 group-hover:opacity-5 transition-opacity"></div>
-                <h3 className="text-3xl md:text-4xl font-black mb-6 relative z-10">
+                <h4 className="text-3xl md:text-4xl font-black mb-6 relative z-10">
                   Is the bank threatening your parents' retirement savings because of an unpaid education loan?
-                </h3>
+                </h4>
                 <p className="text-xl text-gray-300 mb-8 max-w-2xl mx-auto relative z-10">
                   Consult our settlement experts to stop the harassment and negotiate a heavily discounted closure.
                 </p>

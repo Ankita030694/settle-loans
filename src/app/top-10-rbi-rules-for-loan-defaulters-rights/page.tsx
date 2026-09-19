@@ -249,7 +249,7 @@ const jsonLdGraph = {
           "name": "What are the permitted calling hours for loan recovery agents according to the RBI?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Under RBI Circular RBI/2022-23/108 (DOR.ORG.REC.65/21.04.158/2022-23), recovery agents and bank representatives are strictly restricted to contacting borrowers only between 8:00 AM and 7:00 PM. Calling before 8:00 AM, after 7:00 PM, or persistently ringing numbers during odd hours constitutes a direct regulatory violation punishable by the RBI."
+            "text": "Under RBI Circular RBI/2022-23/108 (DOR.ORG.REC.65/21.04.158/2022-23), recovery agents and bank agents are strictly restricted to contacting borrowers only between 8:00 AM and 7:00 PM. Calling before 8:00 AM, after 7:00 PM, or persistently ringing numbers during odd hours constitutes a direct regulatory violation punishable by the RBI."
           }
         },
         {
@@ -294,10 +294,10 @@ const jsonLdGraph = {
         },
         {
           "@type": "Question",
-          "name": "What compensation does a bank owe if it delays releasing original property documents after settlement?",
+          "name": "What relief does a bank owe if it delays releasing original property documents after settlement?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Under RBI Circular RBI/2023-24/60, Regulated Entities must release all original movable or immovable property documents and remove loan charges from registries within 30 days of full loan repayment or settlement. For every day of delay beyond 30 days attributable to the lender, the bank must pay compensation of ₹5,000 per day to the borrower."
+            "text": "Under RBI Circular RBI/2023-24/60, Regulated Entities must release all original movable or immovable property documents and remove loan charges from registries within 30 days of full loan repayment or settlement. For every day of delay beyond 30 days attributable to the lender, the bank must pay relief of ₹5,000 per day to the borrower."
           }
         },
         {
@@ -305,7 +305,7 @@ const jsonLdGraph = {
           "name": "How can a borrower lodge a formal complaint against recovery agent harassment with the RBI?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Borrowers should first submit a written complaint to the bank Principal Nodal Officer. If the bank fails to resolve the grievance within 30 days or rejects the complaint, the borrower can escalate the dispute to the RBI Integrated Ombudsman Scheme via the official CMS portal (cms.rbi.org.in), where the Ombudsman has the power to award compensation up to ₹20 Lakhs."
+            "text": "Borrowers should first submit a written complaint to the bank Principal Nodal Officer. If the bank fails to resolve the grievance within 30 days or rejects the complaint, the borrower can escalate the dispute to the RBI Integrated Ombudsman Scheme via the official CMS portal (cms.rbi.org.in), where the Ombudsman has the power to award relief up to ₹20 Lakhs."
           }
         },
         {
@@ -321,7 +321,7 @@ const jsonLdGraph = {
           "name": "How does advocate representation protect borrowers during loan default and recovery?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Advocate representation immediately halts illegal collection agent harassment by serving formal cease-and-desist notices, demanding strict adherence to RBI Fair Practices Codes, handling all institutional communication, and negotiating directly with bank settlement committees for maximum principal waivers backed by authentic No Dues Certificates."
+            "text": "Advocate representation immediately halts illegal collection agent harassment by serving formal cease-and-desist notices, demanding strict adherence to RBI Fair Practices Codes, handling all institutional notice, and negotiating directly with bank settlement committees for maximum principal waivers backed by authentic No Dues Certificates."
           }
         }
       ]
@@ -512,7 +512,7 @@ export default function Top10RbiRulesForLoanDefaultersRightsPage() {
                 </li>
                 <li className="flex items-start gap-2.5">
                   <CheckCircle2 className="w-4 h-4 text-emerald-600 flex-shrink-0 mt-0.5" />
-                  <span><strong>30-Day Mandatory NDC &amp; Deed Release:</strong> Banks must issue a No Dues Certificate and release all original property collateral documents within 30 days or pay ₹5,000/day compensation.</span>
+                  <span><strong>30-Day Mandatory NDC &amp; Deed Release:</strong> Banks must issue a No Dues Certificate and release all original property collateral documents within 30 days or pay ₹5,000/day relief.</span>
                 </li>
               </ul>
             </div>
@@ -536,19 +536,19 @@ export default function Top10RbiRulesForLoanDefaultersRightsPage() {
                   The RBI mandates that all Regulated Entities (REs)—including commercial banks, NBFCs, and fintech lenders—must treat borrowers with dignity. Lenders cannot subject borrowers to intimidation, humiliation, or persistent harassment in debt recovery.</p>
               </div>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
-                Under the Indian legal framework, commercial default is governed strictly by the Indian Contract Act, 1872. A failure to make monthly installment payments constitutes a civil breach of contractual obligations, for which lenders possess designated judicial and extra-judicial recovery avenues. Crucially, the law does not permit banks to disregard standard due process, deploy intimidation tactics, or convert civil defaults into extra-judicial debt collection campaigns.
+                Under the Indian legal framework, commercial default is governed strictly by the Indian Contract Act, 1872. A failure to make monthly installment payments constitutes a civil breach of contractual debts, for which lenders possess designated judicial and extra-judicial recovery avenues. Crucially, the law does not permit banks to disregard standard due process, deploy intimidation tactics, or convert civil defaults into extra-judicial debt collection campaigns.
               </p>
             </section>
 
             {/* Section 2: Calling Hours, Privacy & Harassment Bans */}
             <section id="calling-hours-privacy-harassment-bans" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                 2. Calling Hours (8 AM–7 PM) & Anti-Harassment Directives
-              </h2>
+              </h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
-                Collection communications are strictly regulated. To curtail predatory tactics, the RBI issued Circular RBI/2022-23/108 on Recovery Agents. Lenders and their agencies are barred from calling before 8:00 AM or after 7:00 PM, and cannot contact third parties without consent.</p>
+                Collection notices are strictly regulated. To curtail predatory tactics, the RBI issued Circular RBI/2022-23/108 on Recovery Agents. Lenders and their agencies are barred from calling before 8:00 AM or after 7:00 PM, and cannot contact third parties without consent.</p>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
-                Foremost among these protections is the strict restriction on communication timings. Regulated Entities and their authorized collection personnel are legally barred from contacting borrowers—via telephone calls, SMS messages, WhatsApp chats, or in-person visits—before 8:00 AM in the morning or after 7:00 PM in the evening. Persistent calling, automated dialer harassment during midnight or early morning hours, and calling on national holidays constitute explicit regulatory breaches that provide grounds for immediate grievance filing.
+                Foremost among these protections is the strict restriction on notice timings. Regulated Entities and their authorized collection personnel are legally barred from contacting borrowers—via telephone calls, SMS messages, WhatsApp chats, or in-person visits—before 8:00 AM in the morning or after 7:00 PM in the evening. Persistent calling, automated dialer harassment during midnight or early morning hours, and calling on national holidays constitute explicit regulatory breaches that provide grounds for immediate grievance filing.
               </p>
               <div className="grid grid-cols-1 sm:grid-cols-2 gap-3 my-4">
                 <div className="p-4 bg-slate-50 border border-slate-200 rounded-xl">
@@ -589,23 +589,23 @@ export default function Top10RbiRulesForLoanDefaultersRightsPage() {
                 </div>
               </div>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
-                Furthermore, the RBI strictly bans public humiliation and social shaming. In the landmark ruling <em>ICICI Bank v. Shanti Devi Sharma (2007) 2 SCC 711</em>, the Supreme Court condemned using strong-arm recovery agents and hired muscle. The court affirmed that debt recovery must follow due process of law.</p>
+                also, the RBI strictly bans public humiliation and social shaming. In the landmark ruling <em>ICICI Bank v. Shanti Devi Sharma (2007) 2 SCC 711</em>, the Supreme Court condemned using strong-arm recovery agents and hired muscle. The court affirmed that debt recovery must follow due process of law.</p>
             </section>
 
             {/* Section 3: Civil Immunity & Section 420 IPC Myth */}
             <section id="civil-default-immunity-section-420-myth" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                 3. Protections Against Criminalization: Section 420 Myth
-              </h2>
+              </h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 A common intimidation tactic involves sending fake police notices or arrest warrants over WhatsApp. Recovery agents often cite Section 420 (Cheating) or Section 406 (Criminal Breach of Trust) of the Indian Penal Code (IPC), threatening imminent imprisonment.</p>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Under Indian law, financial default arising from inability to pay does not constitute criminal cheating. To establish an offense under Section 420 IPC, fraudulent intent must be proven at the inception of the loan. In genuine default, the dispute remains purely civil.</p>
               <div className="bg-slate-50 border border-slate-200 rounded-2xl p-5 my-4 space-y-3">
-                <h3 className="text-xs sm:text-sm font-bold text-slate-900 uppercase tracking-wider flex items-center gap-2">
+                <h4 className="text-xs sm:text-sm font-bold text-slate-900 uppercase tracking-wider flex items-center gap-2">
                   <Gavel className="w-4 h-4 text-[#1F5EFF]" />
                   <span>Landmark Supreme Court Jurisprudence on Loan Defaults</span>
-                </h3>
+                </h4>
                 <div className="space-y-2.5 text-xs sm:text-sm text-slate-700">
                   <div className="p-3 bg-white rounded-xl border border-slate-200">
                     <p className="font-bold text-slate-900">Hridaya Ranjan Prasad Verma v. State of Bihar (2000) 4 SCC 168</p>
@@ -617,22 +617,22 @@ export default function Top10RbiRulesForLoanDefaultersRightsPage() {
                   </div>
                   <div className="p-3 bg-white rounded-xl border border-slate-200">
                     <p className="font-bold text-slate-900">Prof. R.K. Vijayasarathy v. Sudha Seetharam (2019) 16 SCC 739</p>
-                    <p className="text-slate-600 mt-1">The Supreme Court reaffirmed that converting pure civil commercial debt claims into criminal proceedings represents a gross abuse of the judicial process, liable to be quashed under Section 482 of the CrPC.</p>
+                    <p className="text-slate-600 mt-1">The Supreme Court reaffirmed that converting pure civil commercial debt claims into criminal cases represents a gross abuse of the judicial process, liable to be quashed under Section 482 of the CrPC.</p>
                   </div>
                 </div>
               </div>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
-                Consequently, local police stations have no legal authority to intervene in unsecured loan defaults, summon borrowers to police stations for debt negotiation, or threaten custodial arrest. Forged police summons or fake court notices distributed over digital messaging channels constitute criminal forgery under Section 465 and Section 468 of the IPC, rendering the offending recovery agency liable to immediate criminal prosecution.
+                so, local police stations have no legal authority to intervene in unsecured loan defaults, summon borrowers to police stations for debt talks, or threaten custodial arrest. Forged police summons or fake court notices distributed over digital messaging channels constitute criminal forgery under Section 465 and Section 468 of the IPC, rendering the offending recovery agency liable to immediate criminal prosecution.
               </p>
             </section>
 
             {/* Section 4: Bank Accounting & NPV Recovery Formula */}
             <section id="bank-accounting-npv-recovery-formula" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                 4. Bank NPA Provisioning Dynamics & NPV Recovery Valuation
-              </h2>
+              </h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
-                To comprehend why financial institutions utilize aggressive psychological pressure rather than initiating legitimate court proceedings, one must examine institutional balance sheet mechanics. Under the Reserve Bank of India Master Directions on Prudential Norms on Income Recognition, Asset Classification and Provisioning (IRACP), scheduled commercial banks must classify delinquent loans into progressive stages:
+                To comprehend why financial institutions use aggressive psychological pressure rather than starting legitimate court cases, one must examine institutional balance sheet mechanics. Under the Reserve Bank of India Master Directions on Prudential Norms on Income Recognition, Asset Classification and Provisioning (IRACP), scheduled commercial banks must classify delinquent loans into progressive stages:
               </p>
               <ul className="list-disc pl-5 space-y-1.5 text-xs sm:text-sm text-slate-700">
                 <li><strong>Special Mention Accounts (SMA-0, SMA-1, SMA-2):</strong> Monitored closely during 1 to 90 days overdue.</li>
@@ -641,7 +641,7 @@ export default function Top10RbiRulesForLoanDefaultersRightsPage() {
                 <li><strong>Loss Assets:</strong> Requires 100% provisioning write-off, representing an absolute drag on institutional return on assets (ROA).</li>
               </ul>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed mt-3">
-                When a bank files a civil suit under Order 37 CPC, it incurs substantial expenses. Lenders must pay court fees, maintain legal retainers, and navigate 3 to 7 years of procedural hearings. This reality creates a strong incentive for banks to accept One-Time Settlements.</p>
+                When a bank files a civil suit under Order 37 CPC, it incurs large expenses. Lenders must pay court fees, maintain legal retainers, and navigate 3 to 7 years of procedural hearings. This reality creates a strong incentive for banks to accept One-Time Settlements.</p>
 
               {/* NPV Formula Box */}
               <div className="bg-slate-900 text-white rounded-2xl p-5 my-6 shadow-md border border-slate-800">
@@ -658,7 +658,7 @@ export default function Top10RbiRulesForLoanDefaultersRightsPage() {
               </div>
 
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
-                Because prolonged litigation yields a severely negative Net Present Value on unsecured retail portfolios, banking institutions possess an immense financial incentive to execute a negotiated One-Time Settlement (OTS). Under standard OTS frameworks, banks agree to substantial haircuts (often waiving 45% to 65% of the total ledger balance) to immediately release locked regulatory capital and recover liquid cash.
+                Because prolonged litigation yields a severely negative Net Present Value on unsecured retail portfolios, banking institutions possess an immense financial incentive to execute a negotiated One-Time Settlement (OTS). Under standard OTS frameworks, banks agree to large haircuts (often waiving 45% to 65% of the total ledger balance) to immediately release locked regulatory capital and recover liquid cash.
               </p>
             </section>
 
@@ -682,9 +682,9 @@ export default function Top10RbiRulesForLoanDefaultersRightsPage() {
 
             {/* Section 6: Comprehensive Breakdown of the Top 10 RBI Rules */}
             <section id="comprehensive-breakdown-top-10-rules" className="space-y-6">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                 6. Breakdown of Top 10 RBI Rules for Loan Defaulters
-              </h2>
+              </h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 The Reserve Bank of India has woven a comprehensive statutory tapestry across multiple master directions, circulars, and ombudsman regulations. Below is the authoritative, detailed breakdown of the top 10 statutory rules that safeguard every borrower in India:
               </p>
@@ -695,9 +695,9 @@ export default function Top10RbiRulesForLoanDefaultersRightsPage() {
                 <div className="p-5 bg-white border border-slate-200 rounded-2xl shadow-sm space-y-2">
                   <div className="flex items-center gap-3">
                     <span className="w-8 h-8 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center font-bold text-xs flex-shrink-0">1</span>
-                    <h3 className="text-sm sm:text-base font-bold text-slate-900">
+                    <h4 className="text-sm sm:text-base font-bold text-slate-900">
                       Strict Permitted Calling Hours (8:00 AM to 7:00 PM)
-                    </h3>
+                    </h4>
                   </div>
                   <p className="text-xs sm:text-sm text-slate-600 leading-relaxed pl-11">
                     <strong>Regulatory Basis:</strong> RBI Circular RBI/2022-23/108 (DOR.ORG.REC.65/21.04.158/2022-23).<br />
@@ -709,9 +709,9 @@ export default function Top10RbiRulesForLoanDefaultersRightsPage() {
                 <div className="p-5 bg-white border border-slate-200 rounded-2xl shadow-sm space-y-2">
                   <div className="flex items-center gap-3">
                     <span className="w-8 h-8 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center font-bold text-xs flex-shrink-0">2</span>
-                    <h3 className="text-sm sm:text-base font-bold text-slate-900">
+                    <h4 className="text-sm sm:text-base font-bold text-slate-900">
                       Absolute Right to Privacy &amp; Anti-Shaming Mandate
-                    </h3>
+                    </h4>
                   </div>
                   <p className="text-xs sm:text-sm text-slate-600 leading-relaxed pl-11">
                     <strong>Regulatory Basis:</strong> RBI Master Direction on Outsourcing of Financial Services &amp; Digital Lending Guidelines.<br />
@@ -723,9 +723,9 @@ export default function Top10RbiRulesForLoanDefaultersRightsPage() {
                 <div className="p-5 bg-white border border-slate-200 rounded-2xl shadow-sm space-y-2">
                   <div className="flex items-center gap-3">
                     <span className="w-8 h-8 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center font-bold text-xs flex-shrink-0">3</span>
-                    <h3 className="text-sm sm:text-base font-bold text-slate-900">
+                    <h4 className="text-sm sm:text-base font-bold text-slate-900">
                       Total Ban on Physical Force, Intimidation &amp; Verbal Abuse
-                    </h3>
+                    </h4>
                   </div>
                   <p className="text-xs sm:text-sm text-slate-600 leading-relaxed pl-11">
                     <strong>Regulatory Basis:</strong> Supreme Court ruling in <em>ICICI Bank v. Prakash Kaur</em> &amp; IPC Sections 383, 503, 506.<br />
@@ -737,9 +737,9 @@ export default function Top10RbiRulesForLoanDefaultersRightsPage() {
                 <div className="p-5 bg-white border border-slate-200 rounded-2xl shadow-sm space-y-2">
                   <div className="flex items-center gap-3">
                     <span className="w-8 h-8 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center font-bold text-xs flex-shrink-0">4</span>
-                    <h3 className="text-sm sm:text-base font-bold text-slate-900">
+                    <h4 className="text-sm sm:text-base font-bold text-slate-900">
                       Mandatory Board-Approved Compromise Settlement (OTS) Framework
-                    </h3>
+                    </h4>
                   </div>
                   <p className="text-xs sm:text-sm text-slate-600 leading-relaxed pl-11">
                     <strong>Regulatory Basis:</strong> RBI Circular RBI/2023-24/40 (DOR.STR.REC.20/21.04.048/2023-24).<br />
@@ -751,9 +751,9 @@ export default function Top10RbiRulesForLoanDefaultersRightsPage() {
                 <div className="p-5 bg-white border border-slate-200 rounded-2xl shadow-sm space-y-2">
                   <div className="flex items-center gap-3">
                     <span className="w-8 h-8 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center font-bold text-xs flex-shrink-0">5</span>
-                    <h3 className="text-sm sm:text-base font-bold text-slate-900">
+                    <h4 className="text-sm sm:text-base font-bold text-slate-900">
                       Mandatory Written Settlement Sanction Letter Before Payment
-                    </h3>
+                    </h4>
                   </div>
                   <p className="text-xs sm:text-sm text-slate-600 leading-relaxed pl-11">
                     <strong>Regulatory Basis:</strong> RBI Fair Practices Code &amp; Banking Supervision Directives.<br />
@@ -765,9 +765,9 @@ export default function Top10RbiRulesForLoanDefaultersRightsPage() {
                 <div className="p-5 bg-white border border-slate-200 rounded-2xl shadow-sm space-y-2">
                   <div className="flex items-center gap-3">
                     <span className="w-8 h-8 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center font-bold text-xs flex-shrink-0">6</span>
-                    <h3 className="text-sm sm:text-base font-bold text-slate-900">
+                    <h4 className="text-sm sm:text-base font-bold text-slate-900">
                       Fair Lending Practices &amp; Ban on Capitalising Penal Interest
-                    </h3>
+                    </h4>
                   </div>
                   <p className="text-xs sm:text-sm text-slate-600 leading-relaxed pl-11">
                     <strong>Regulatory Basis:</strong> RBI Circular RBI/2023-24/53 (DOR.MCS.REC.28/01.01.001/2023-24).<br />
@@ -779,9 +779,9 @@ export default function Top10RbiRulesForLoanDefaultersRightsPage() {
                 <div className="p-5 bg-white border border-slate-200 rounded-2xl shadow-sm space-y-2">
                   <div className="flex items-center gap-3">
                     <span className="w-8 h-8 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center font-bold text-xs flex-shrink-0">7</span>
-                    <h3 className="text-sm sm:text-base font-bold text-slate-900">
+                    <h4 className="text-sm sm:text-base font-bold text-slate-900">
                       Mandatory 60-Day Notice Before Possession on Secured Loans
-                    </h3>
+                    </h4>
                   </div>
                   <p className="text-xs sm:text-sm text-slate-600 leading-relaxed pl-11">
                     <strong>Regulatory Basis:</strong> SARFAESI Act, 2002 (Sections 13(2) and 13(4)) &amp; Security Interest Rules.<br />
@@ -793,13 +793,13 @@ export default function Top10RbiRulesForLoanDefaultersRightsPage() {
                 <div className="p-5 bg-white border border-slate-200 rounded-2xl shadow-sm space-y-2">
                   <div className="flex items-center gap-3">
                     <span className="w-8 h-8 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center font-bold text-xs flex-shrink-0">8</span>
-                    <h3 className="text-sm sm:text-base font-bold text-slate-900">
-                      Direct Escalation to RBI Integrated Ombudsman with ₹20 Lakh Compensation Power
-                    </h3>
+                    <h4 className="text-sm sm:text-base font-bold text-slate-900">
+                      Direct Escalation to RBI Integrated Ombudsman with ₹20 Lakh relief Power
+                    </h4>
                   </div>
                   <p className="text-xs sm:text-sm text-slate-600 leading-relaxed pl-11">
                     <strong>Regulatory Basis:</strong> Reserve Bank - Integrated Ombudsman Scheme, 2021.<br />
-                    If a bank fails to resolve a harassment complaint within 30 days, the borrower can escalate the dispute to the RBI Integrated Ombudsman via the Complaint Management System (CMS). The Ombudsman possesses statutory powers to penalize the lender and award compensation up to ₹20 Lakhs for consequential losses and up to ₹1 Lakh for mental harassment.
+                    If a bank fails to resolve a harassment complaint within 30 days, the borrower can escalate the dispute to the RBI Integrated Ombudsman via the Complaint Management System (CMS). The Ombudsman possesses statutory powers to penalize the lender and award relief up to ₹20 Lakhs for consequential losses and up to ₹1 Lakh for mental harassment.
                   </p>
                 </div>
 
@@ -807,9 +807,9 @@ export default function Top10RbiRulesForLoanDefaultersRightsPage() {
                 <div className="p-5 bg-white border border-slate-200 rounded-2xl shadow-sm space-y-2">
                   <div className="flex items-center gap-3">
                     <span className="w-8 h-8 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center font-bold text-xs flex-shrink-0">9</span>
-                    <h3 className="text-sm sm:text-base font-bold text-slate-900">
+                    <h4 className="text-sm sm:text-base font-bold text-slate-900">
                       Immunity from Criminal Prosecution for Honest Civil Defaults
-                    </h3>
+                    </h4>
                   </div>
                   <p className="text-xs sm:text-sm text-slate-600 leading-relaxed pl-11">
                     <strong>Regulatory Basis:</strong> Supreme Court rulings in <em>Dalip Kaur</em> &amp; <em>Hridaya Ranjan Prasad Verma</em>.<br />
@@ -821,13 +821,13 @@ export default function Top10RbiRulesForLoanDefaultersRightsPage() {
                 <div className="p-5 bg-white border border-slate-200 rounded-2xl shadow-sm space-y-2">
                   <div className="flex items-center gap-3">
                     <span className="w-8 h-8 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center font-bold text-xs flex-shrink-0">10</span>
-                    <h3 className="text-sm sm:text-base font-bold text-slate-900">
+                    <h4 className="text-sm sm:text-base font-bold text-slate-900">
                       Mandatory Release of Property Documents &amp; NDC within 30 Days (₹5,000/Day Penalty)
-                    </h3>
+                    </h4>
                   </div>
                   <p className="text-xs sm:text-sm text-slate-600 leading-relaxed pl-11">
                     <strong>Regulatory Basis:</strong> RBI Directive RBI/2023-24/60 (DoR.MCS.REC.38/01.01.001/2023-24).<br />
-                    Upon full settlement or repayment, Regulated Entities must release all original property documents and issue a formal No Dues Certificate (NDC) within 30 days. For every day of delay beyond 30 days attributable to the lender, the bank must pay mandatory compensation of ₹5,000 per day to the borrower.
+                    Upon full settlement or repayment, Regulated Entities must release all original property documents and issue a formal No Dues Certificate (NDC) within 30 days. For every day of delay beyond 30 days attributable to the lender, the bank must pay mandatory relief of ₹5,000 per day to the borrower.
                   </p>
                 </div>
 
@@ -836,14 +836,14 @@ export default function Top10RbiRulesForLoanDefaultersRightsPage() {
 
             {/* Section 7: OTS Mechanics & Sanction Forensics */}
             <section id="ots-mechanics-haircut-sanction-forensics" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                 7. OTS Mechanics, Haircut Sizing & Sanction Letter Audit
-              </h2>
+              </h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Executing a legally secure and financially advantageous One-Time Settlement (OTS) requires understanding the internal hierarchy and decision-making apparatus of scheduled commercial banks. Settlement authority does not reside with field recovery agents; it is vested in institutional Credit Committees, Zonal Settlement Committees (ZSC), or Special Asset Management Branches (SAMB).
               </p>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
-                When an unrepresented borrower attempts to negotiate directly, recovery personnel frequently deploy psychological pressure to extract token payments. In contrast, specialized debt defense advocates construct a comprehensive Financial Hardship Dossier that formally demonstrates the borrower genuine inability to pay. This dossier documents termination letters, medical diagnosis certificates, audited business balance sheets, or tax returns.
+                When an unrepresented borrower attempts to negotiate directly, recovery personnel frequently deploy psychological pressure to extract token payments. In contrast, specialized debt defense advocates construct a comprehensive Financial Hardship Dossier that formally shows the borrower genuine inability to pay. This dossier documents termination letters, medical diagnosis certificates, audited business balance sheets, or tax returns.
               </p>
               <div className="bg-slate-50 border border-slate-200 rounded-2xl p-5 space-y-3">
                 <div className="flex items-center gap-2 text-slate-900 font-bold text-xs uppercase tracking-wider">
@@ -861,25 +861,25 @@ export default function Top10RbiRulesForLoanDefaultersRightsPage() {
                   </div>
                   <div className="p-3 bg-white rounded-xl border border-slate-200">
                     <p className="font-bold text-slate-900 mb-1">3. Closure &amp; Legal Withdrawal Clause</p>
-                    <p className="text-slate-600">Must state that upon receipt of the settled amount, all legal proceedings will be withdrawn and a stamped No Dues Certificate issued.</p>
+                    <p className="text-slate-600">Must state that upon receipt of the settled amount, all legal cases will be withdrawn and a stamped No Dues Certificate issued.</p>
                   </div>
                 </div>
               </div>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
-                Borrowers must never remit funds to third-party accounts, individual agent UPI handles, or collection agency accounts. Payments must be routed exclusively to the borrower dedicated loan account via traceable electronic methods such as RTGS, NEFT, or Account Payee Demand Drafts.
+                Borrowers must never remit funds to third-party accounts, person agent UPI handles, or collection agency accounts. Payments must be routed exclusively to the borrower dedicated loan account via traceable electronic methods such as RTGS, NEFT, or Account Payee Demand Drafts.
               </p>
             </section>
 
             {/* Section 8: Remittance, 30-Day NDC & Credit Repair */}
             <section id="remittance-ndc-30-day-cibil-reconstruction" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                 8. Remittance Protocols, 30-Day NDC & CIBIL Reconstruction
-              </h2>
+              </h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Once the final settlement installment is remitted in strict compliance with the sanction letter schedule, the post-settlement legal phase begins. Under RBI Directive RBI/2023-24/60, the financial institution is legally obligated to execute account closure, issue a physical and digital No Dues Certificate (NDC), and release any pledged security or original title deeds within 30 days.
               </p>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
-                Furthermore, lenders are required under CICRA, 2005 to transmit updated account records to credit bureaus. Within 30 days of receiving settlement funds, the bank must update CIBIL, Experian, Equifax, and CRIF High Mark to reflect an outstanding balance of ₹0.</p>
+                also, lenders are required under CICRA, 2005 to transmit updated account records to credit bureaus. Within 30 days of receiving settlement funds, the bank must update CIBIL, Experian, Equifax, and CRIF High Mark to reflect an outstanding balance of ₹0.</p>
               <div className="bg-gradient-to-br from-slate-900 to-slate-800 text-white rounded-2xl p-5 shadow-md border border-slate-700 space-y-3">
                 <div className="flex items-center gap-2 text-blue-400 font-bold text-xs uppercase tracking-wider">
                   <CreditCard className="w-4 h-4" />
@@ -892,7 +892,7 @@ export default function Top10RbiRulesForLoanDefaultersRightsPage() {
                   </div>
                   <div className="p-3 bg-slate-800/80 rounded-xl border border-slate-700">
                     <p className="font-bold text-white mb-1">Months 6 to 12: Secured Credit Card</p>
-                    <p className="text-slate-300">Open a Fixed Deposit (FD) backed credit card. Utilize 15%–20% of the limit and clear 100% of the statement balance monthly.</p>
+                    <p className="text-slate-300">Open a Fixed Deposit (FD) backed credit card. use 15%–20% of the limit and clear 100% of the statement balance monthly.</p>
                   </div>
                   <div className="p-3 bg-slate-800/80 rounded-xl border border-slate-700">
                     <p className="font-bold text-white mb-1">Months 12 to 18: Mandatory Cooling Exit</p>
@@ -905,15 +905,15 @@ export default function Top10RbiRulesForLoanDefaultersRightsPage() {
                 </div>
               </div>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
-                While a 'Settled' remark remains visible in bureau histories, its negative weighting diminishes rapidly as new positive credit lines demonstrate disciplined, responsible financial management.
+                While a 'Settled' remark remains visible in bureau histories, its negative weighting diminishes rapidly as new positive credit lines show disciplined, responsible financial management.
               </p>
             </section>
 
             {/* Section 9: Regulatory Enforcement Matrix */}
             <section id="comparative-statutory-matrix" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                 9. Dispute Resolution &amp; Regulatory Enforcement Comparative Matrix
-              </h2>
+              </h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 The following matrix summarizes the jurisdictional avenues, governing circulars, and enforceable borrower protections across key stages of loan recovery and debt settlement:
               </p>
@@ -931,7 +931,7 @@ export default function Top10RbiRulesForLoanDefaultersRightsPage() {
                   </thead>
                   <tbody>
                     <tr>
-                      <td className="font-semibold text-slate-900">Collection Communication</td>
+                      <td className="font-semibold text-slate-900">Collection notice</td>
                       <td>RBI/2022-23/108 Circular</td>
                       <td>Calling between 8:00 AM – 7:00 PM</td>
                       <td>Calling outside window, verbal abuse, shaming</td>
@@ -947,7 +947,7 @@ export default function Top10RbiRulesForLoanDefaultersRightsPage() {
                     <tr>
                       <td className="font-semibold text-slate-900">Compromise Settlement (OTS)</td>
                       <td>RBI/2023-24/40 Circular</td>
-                      <td>Board-approved haircut negotiation</td>
+                      <td>Board-approved haircut talks</td>
                       <td>Verbal settlement deals &amp; cash collections</td>
                       <td>Require formal stamped Sanction Letter</td>
                     </tr>
@@ -970,7 +970,7 @@ export default function Top10RbiRulesForLoanDefaultersRightsPage() {
                       <td>RBI/2023-24/60 Circular</td>
                       <td>Deliver NDC &amp; property deeds within 30 days</td>
                       <td>Delaying deed release or charging extra fees</td>
-                      <td>₹5,000/day compensation claim via Ombudsman</td>
+                      <td>₹5,000/day relief claim via Ombudsman</td>
                     </tr>
                   </tbody>
                 </table>
@@ -980,9 +980,9 @@ export default function Top10RbiRulesForLoanDefaultersRightsPage() {
             {/* Section 10: SettleLoans Legal Defense & Advisory + CompanySection */}
             <section id="settleloans-legal-defense-framework" className="space-y-6">
               <div className="border-t border-slate-200 pt-8 space-y-4">
-                <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
+                <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                   10. SettleLoans Legal Defense & Debt Resolution Shield
-                </h2>
+                </h3>
                 <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                   Navigating recovery harassment and complex banking rules requires seasoned legal advocates. SettleLoans stands as India premier legal defense and debt resolution platform. Our advocates protect your dignity by serving formal cease-and-desist notices to stop unlawful harassment. We hold abusive agencies accountable and negotiate directly with bank committees to secure maximum principal waivers backed by authentic, bank-stamped No Dues Certificates.</p>
               </div>
@@ -995,9 +995,9 @@ export default function Top10RbiRulesForLoanDefaultersRightsPage() {
             <section id="faqs" className="space-y-4 border-t border-slate-200 pt-8">
               <div className="flex items-center gap-2 mb-2">
                 <HelpCircle className="w-5 h-5 text-[#1F5EFF]" />
-                <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
+                <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                   11. FAQs: Top 10 RBI Rules for Loan Defaulters
-                </h2>
+                </h3>
               </div>
               <p className="text-xs sm:text-sm text-slate-600 mb-6">
                 Clear, advocate-verified answers to critical questions regarding RBI regulations, recovery limits, and borrower statutory rights in India.
@@ -1027,9 +1027,9 @@ export default function Top10RbiRulesForLoanDefaultersRightsPage() {
 
             {/* 5 Official Regulatory Links */}
             <section className="border-t border-slate-200 pt-8 mb-4">
-              <h3 className="text-xs sm:text-sm font-bold text-slate-900 mb-3 uppercase tracking-wider">
+              <h4 className="text-xs sm:text-sm font-bold text-slate-900 mb-3 uppercase tracking-wider">
                 Official Statutory &amp; Regulatory References
-              </h3>
+              </h4>
               <div className="grid grid-cols-1 sm:grid-cols-2 gap-2.5 text-xs">
                 <a
                   href="https://www.rbi.org.in"
@@ -1081,9 +1081,9 @@ export default function Top10RbiRulesForLoanDefaultersRightsPage() {
 
             {/* 10 Related Guide Badges */}
             <section className="border-t border-slate-200 pt-8 mb-8">
-              <h3 className="text-xs sm:text-sm font-bold text-slate-900 mb-4 uppercase tracking-wider">
+              <h4 className="text-xs sm:text-sm font-bold text-slate-900 mb-4 uppercase tracking-wider">
                 Related Legal Defense &amp; Loan Resolution Guides
-              </h3>
+              </h4>
               <div className="flex flex-wrap gap-2">
                 <Link
                   href="/bank-loan-settlement-guidelines"
@@ -1169,7 +1169,7 @@ export default function Top10RbiRulesForLoanDefaultersRightsPage() {
                 </div>
               </div>
               <p className="text-xs text-slate-600 leading-relaxed mb-3">
-                Pioneering advocate in banking jurisprudence, borrower statutory protections, RBI Fair Practices Code enforcement, and institutional One-Time Settlement (OTS) negotiations with over a decade of specialized advisory leadership.
+                Pioneering advocate in banking jurisprudence, borrower statutory protections, RBI Fair Practices Code enforcement, and institutional One-Time Settlement (OTS) talks with over a decade of specialized advisory leadership.
               </p>
               <div className="pt-3 border-t border-slate-200 flex items-center justify-between text-xs text-slate-500">
                 <Link href="/authors/ashish-jhangra" className="text-[#1F5EFF] font-semibold hover:underline flex items-center gap-1">

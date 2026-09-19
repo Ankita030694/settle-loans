@@ -277,17 +277,17 @@ export default function MSMELoanDisputePage() {
                         </section>
 
                         <section id="legal-rights-msme" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
                                 Your Legal Rights as an MSME Borrower
-                            </h2>
+                            </h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 The Indian legal system provides a robust framework to protect MSMEs from predatory lending and aggressive recovery. The most important of these is the MSME Development (MSMED) Act, 2006. This Act was created specifically to ensure that smaller businesses are not crushed by the weight of unmanageable debt or the unfair practices of larger financial institutions.
                             </p>
                             <div className="bg-gray-50 p-8 rounded-xl border border-gray-200 mb-8">
-                                <h3 className="text-xl font-bold mb-6 flex items-center gap-3">
+                                <h4 className="text-xl font-bold mb-6 flex items-center gap-3">
                                     <FontAwesomeIcon icon={faScaleBalanced} className="text-[#1F5EFF]" />
                                     Fundamental Protections for MSMEs
-                                </h3>
+                                </h4>
                                 <ul className="space-y-4 text-sm font-medium">
                                     <li className="flex items-start gap-2">
                                         <span className="w-2 h-2 bg-[#1F5EFF] rounded-full mt-1.5 flex-shrink-0"></span>
@@ -310,17 +310,17 @@ export default function MSMELoanDisputePage() {
                         </section>
 
                         <section id="sarfaesi-challenges" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
                                 Challenging SARFAESI Act Actions
-                            </h2>
+                            </h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 The SARFAESI Act, 2002, is the bank's most potent weapon. It allows lenders to take possession of and sell secured assets (like your factory or showroom) without the intervention of a civil court. However, this power is not absolute. The bank must follow a very specific, step-by-step legal procedure. Even a minor technical error in their process can be used by an expert lawyer to halt the recovery.
                             </p>
                             <div className="bg-red-50 p-8 rounded-xl border border-red-200 mb-8">
-                                <h3 className="text-xl font-bold text-red-900 mb-4 flex items-center gap-3">
+                                <h4 className="text-xl font-bold text-red-900 mb-4 flex items-center gap-3">
                                     <FontAwesomeIcon icon={faShieldHalved} />
                                     The 13(2) and 13(4) Notice Defense
-                                </h3>
+                                </h4>
                                 <p className="text-sm text-red-800 leading-relaxed mb-4">
                                     When you receive a 13(2) notice, you have 60 days to file a representation or an objection. This is a critical window. A specialized MSME lawyer will draft a detailed objection pointing out discrepancies in interest, classification, and procedure. If the bank fails to provide a reasoned response to your objection, the entire SARFAESI action can be set aside.
                                 </p>
@@ -331,9 +331,9 @@ export default function MSMELoanDisputePage() {
                         </section>
 
                         <section id="drt-proceedings" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
                                 DRT Litigation Strategy for MSMEs
-                            </h2>
+                            </h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 The Debt Recovery Tribunal is where the real legal battle takes place. For an MSME, the DRT is not just a court; it is a tactical arena. Our strategy in the DRT is often focused on time and transparency. We compel the bank to provide full account statements and justify every single rupee claimed as outstanding.
                             </p>
@@ -345,21 +345,21 @@ export default function MSMELoanDisputePage() {
                                     <div className="text-[#1F5EFF] mb-4">
                                         <FontAwesomeIcon icon={faGavel} className="w-8 h-8" />
                                     </div>
-                                    <h3 className="font-bold text-[#2E2E2E] mb-2">Interim Stays</h3>
+                                    <h4 className="font-bold text-[#2E2E2E] mb-2">Interim Stays</h4>
                                     <p className="text-xs text-gray-500">Securing immediate orders to prevent bank from taking physical possession of business units.</p>
                                 </div>
                                 <div className="bg-white p-6 rounded-xl border border-[#DEDEDE] shadow-sm">
                                     <div className="text-emerald-500 mb-4">
                                         <FontAwesomeIcon icon={faBuildingCircleCheck} className="w-8 h-8" />
                                     </div>
-                                    <h4 className="font-bold text-[#2E2E2E] mb-2">Valuation Challenges</h4>
+                                    <h5 className="font-bold text-[#2E2E2E] mb-2">Valuation Challenges</h5>
                                     <p className="text-xs text-gray-500">Challenging the 'Reserve Price' set by banks to ensure business assets are not sold at a throwaway price.</p>
                                 </div>
                             </div>
                         </section>
 
                         <section id="interest-disputes" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Interest Rate Disputes and Overcharging</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Interest Rate Disputes and Overcharging</h3>
                             <p className="mb-6">
                                 One of the most common issues in MSME loan disputes is the interest rate. Banks often apply 'floating rates' in a way that only moves upwards, never downwards, even when the RBI reduces the repo rate. Furthermore, the practice of charging 'interest on interest' or penal interest on the entire outstanding amount rather than the defaulted installment is often legally questionable.
                             </p>
@@ -369,15 +369,15 @@ export default function MSMELoanDisputePage() {
                         </section>
 
                         <section id="wilful-defaulter" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Combating Wilful Defaulter Classifications</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Combating Wilful Defaulter Classifications</h3>
                             <p className="mb-6">
                                 Being tagged as a 'Wilful Defaulter' is a death sentence for any business person's reputation and future borrowing capacity. Banks sometimes use this tag as a bullying tactic to pressure promoters who have genuine business failures. The process of classification as a wilful defaulter must follow strict principles of natural justice, including a personal hearing before a committee.
                             </p>
                             <div className="bg-red-50 p-8 rounded-2xl border border-red-100 mb-8">
-                                <h3 className="text-xl font-bold text-red-800 mb-4 flex items-center gap-2">
+                                <h4 className="text-xl font-bold text-red-800 mb-4 flex items-center gap-2">
                                     <FontAwesomeIcon icon={faCircleExclamation} />
                                     Protecting Your Personal Integrity
-                                </h3>
+                                </h4>
                                 <p className="mb-4 text-red-900 leading-relaxed text-sm">
                                     We represent promoters and directors before the bank's internal committees. We prepare an exhaustive defense showing how the funds were used for business purposes and that the default was due to external factors like market shifts, supply chain disruptions, or government policy changes. If the bank still classifies you improperly, we challenge the decision in the High Court through a Writ Petition.
                                 </p>
@@ -385,7 +385,7 @@ export default function MSMELoanDisputePage() {
                         </section>
 
                         <section id="ots-negotiation" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">The Power of One-Time Settlement (OTS)</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">The Power of One-Time Settlement (OTS)</h3>
                             <p className="mb-6">
                                 Litigation is a tool, but for most MSMEs, the ultimate goal is closure. A One-Time Settlement (OTS) is often the best outcome. However, negotiating an OTS is an art form. If you approach a bank directly, they will often offer you a deal that is only slightly better than the outstanding amount.
                             </p>
@@ -398,14 +398,14 @@ export default function MSMELoanDisputePage() {
                         </section>
 
                         <section id="restructuring-support" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 text-[#2E2E2E]">Strategic Business Restructuring</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 text-[#2E2E2E]">Strategic Business Restructuring</h3>
                             <p className="mb-8 text-lg">
                                 Sometimes, the business is viable but the debt structure is not. We work with financial experts to propose a comprehensive restructuring plan to the lender. This might include an extension of the tenure, a reduction in the interest rate, or even moving some of the interest into a 'funded interest term loan' (FITL). This gives the unit enough breathing room to restart operations and generate the cash flow needed to pay back the bank over a longer period.
                             </p>
                         </section>
 
                         <section id="msmed-act-benefits" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Leveraging the MSMED Act for Recovery</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Leveraging the MSMED Act for Recovery</h3>
                             <p className="mb-6 leading-relaxed">
                                 One of the biggest reasons MSMEs default on their loans is because of delayed payments from their own clients. The MSMED Act has strict provisions for delayed payments, including mandatory interest payments at three times the bank rate.
                             </p>
@@ -415,39 +415,39 @@ export default function MSMELoanDisputePage() {
                         </section>
 
                         <section id="emergency-injunctions" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Emergency Injunctions and Quashing</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Emergency Injunctions and Quashing</h3>
                             <p className="mb-6">
                                 In cases of extreme high-handedness where a bank attempts to take physical possession of a business without following the law, we approach the High Court for emergency stay orders. The judiciary in India is increasingly sensitive to the plight of MSMEs and often grants protection if a clear case of legal violation or 'hardship with intent to pay' is established.
                             </p>
                         </section>
 
                         <section id="choosing-best-lawyer" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">How to Choose the Best Lawyer for Your MSME Dispute</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">How to Choose the Best Lawyer for Your MSME Dispute</h3>
                             <p className="mb-6">
                                 Not all lawyers are equipped to handle complex banking disputes. When your business is on the line, you need a specialist. Look for a legal team that combines technical knowledge of the SARFAESI Act and DRT rules with a deep understanding of MSME business realities.
                             </p>
                             <div className="grid md:grid-cols-2 gap-4 mb-8">
                                 <div className="p-6 bg-white border border-[#DEDEDE] rounded-xl">
-                                    <h3 className="font-bold mb-2">Technical Expertise</h3>
+                                    <h4 className="font-bold mb-2">Technical Expertise</h4>
                                     <p className="text-sm text-gray-500">The lawyer must understand banking accounts, NPA rules, and the nuances of securitization laws.</p>
                                 </div>
                                 <div className="p-6 bg-white border border-[#DEDEDE] rounded-xl">
-                                    <h4 className="font-bold mb-2">Negotiation Skills</h4>
+                                    <h5 className="font-bold mb-2">Negotiation Skills</h5>
                                     <p className="text-sm text-gray-500">Legal knowledge is useless if they cannot translate it into a favorable settlement deal at the table.</p>
                                 </div>
                                 <div className="p-6 bg-white border border-[#DEDEDE] rounded-xl">
-                                    <h4 className="font-bold mb-2">Track Record</h4>
+                                    <h5 className="font-bold mb-2">Track Record</h5>
                                     <p className="text-sm text-gray-500">Look for success in halting auctions and securing OTS for units in your specific industry.</p>
                                 </div>
                                 <div className="p-6 bg-white border border-[#DEDEDE] rounded-xl">
-                                    <h4 className="font-bold mb-2">Empathetic Approach</h4>
+                                    <h5 className="font-bold mb-2">Empathetic Approach</h5>
                                     <p className="text-sm text-gray-500">You need a lawyer who understands that your business is your life's work, not just another case file.</p>
                                 </div>
                             </div>
                         </section>
 
                         <section id="success-case-studies" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 text-center">MSME Success Stories</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 text-center">MSME Success Stories</h3>
                             <div className="grid md:grid-cols-2 gap-6 not-prose">
                                 {[
                                     {
@@ -485,7 +485,7 @@ export default function MSMELoanDisputePage() {
                                                 {review.name.charAt(0)}
                                             </div>
                                             <div>
-                                                <h3 className="font-bold text-[#2E2E2E]">{review.name}</h3>
+                                                <h4 className="font-bold text-[#2E2E2E]">{review.name}</h4>
                                                 <p className="text-xs text-gray-400">{review.loc}</p>
                                             </div>
                                             <div className="ml-auto text-yellow-400 text-sm flex gap-0.5">
@@ -506,7 +506,7 @@ export default function MSMELoanDisputePage() {
                         </section>
 
                         <section id="faqs" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Expert Insights (FAQs)</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Expert Insights (FAQs)</h3>
                             <div className="space-y-4 not-prose">
                                 {[
                                     { q: "Is it better to hire a local lawyer or a specialized banking lawyer for MSME disputes?", a: "While a local lawyer might be convenient, banking laws like SARFAESI and the rules of the Debt Recovery Tribunal are highly specialized. A dedicated banking and MSME lawyer will have deeper knowledge of RBI circulars and tactical maneuvers that a general civil lawyer might overlook." },
@@ -538,7 +538,7 @@ export default function MSMELoanDisputePage() {
                         <section id="final-call-to-action" className="scroll-mt-32 mt-20">
                             <div className="bg-[#1F5EFF] rounded-3xl p-10 text-white text-center relative overflow-hidden shadow-2xl">
                                 <div className="absolute top-0 left-0 w-full h-full bg-[url('https://www.transparenttextures.com/patterns/cubes.png')] opacity-10"></div>
-                                <h2 className="text-3xl md:text-5xl font-black mb-6 relative z-10">Don't Let the Bank Decide Your Future</h2>
+                                <h3 className="text-3xl md:text-5xl font-black mb-6 relative z-10">Don't Let the Bank Decide Your Future</h3>
                                 <p className="text-xl mb-10 opacity-90 max-w-2xl mx-auto relative z-10">
                                     Activate your professional legal shield today. Join thousands of MSME owners who have saved their livelihoods with our expert legal and negotiation services.
                                 </p>
@@ -559,7 +559,7 @@ export default function MSMELoanDisputePage() {
                         <div className="lg:hidden mt-16 mb-8">
                             <div className="bg-[#2E2E2E] rounded-2xl shadow-xl overflow-hidden border border-[#DEDEDE]/10">
                                 <div className="bg-[#1F5EFF] p-4 text-center">
-                                    <h3 className="text-lg font-black text-white">Save Your Business</h3>
+                                    <h4 className="text-lg font-black text-white">Save Your Business</h4>
                                 </div>
                                 <div className="p-6 text-center">
                                     <p className="mb-6 text-sm text-[#DEDEDE] opacity-80 leading-relaxed font-bold">

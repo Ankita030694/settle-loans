@@ -185,17 +185,17 @@ export default function LoanSettlementRulesIndiaPage() {
                         </section>
 
                         <section id="board-approved-policy" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight underline decoration-[#1F5EFF] underline-offset-[12px]">The 'Board-Approved' Mandate</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight underline decoration-[#1F5EFF] underline-offset-[12px]">The 'Board-Approved' Mandate</h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 One of the most critical rules introduced is the requirement for a Board-Approved Policy. Every bank in India must now have a policy approved by its Board of Directors that explicitly lists the conditions under which a settlement can be offered.
                             </p>
                             <div className="grid md:grid-cols-2 gap-8 mb-10 text-justify">
                                 <div className="p-8 bg-white border border-[#DEDEDE] rounded-3xl shadow-sm">
-                                    <h3 className="font-black text-[#1F5EFF] mb-4 uppercase tracking-tighter">Permissible Sacrifice</h3>
+                                    <h4 className="font-black text-[#1F5EFF] mb-4 uppercase tracking-tighter">Permissible Sacrifice</h4>
                                     <p className="text-sm">Banks must quantify the 'Sacrifice' they are willing to take for different types of loans. For example, a policy might allow a 60% waiver for unsecured personal loans but only 20% for housing loans.</p>
                                 </div>
                                 <div className="p-8 bg-white border border-[#DEDEDE] rounded-3xl shadow-sm">
-                                    <h4 className="font-black text-[#1F5EFF] mb-4 uppercase tracking-tighter">Realizable Value</h4>
+                                    <h5 className="font-black text-[#1F5EFF] mb-4 uppercase tracking-tighter">Realizable Value</h5>
                                     <p className="text-sm">The methodology for arriving at the value of the 'Security' must be scientific. Banks can no longer use inflated historical values to reject your settlement offer.</p>
                                 </div>
                             </div>
@@ -206,7 +206,7 @@ export default function LoanSettlementRulesIndiaPage() {
 
                         <section id="cooling-off-period" className="scroll-mt-32 mb-16 bg-[#2E2E2E] text-white p-12 rounded-[40px] relative overflow-hidden">
                             <div className="absolute top-0 right-0 w-64 h-64 bg-[#1F5EFF]/10 rounded-full -translate-y-32 translate-x-32"></div>
-                            <h2 className="text-3xl md:text-4xl font-black mb-8 leading-tight relative z-10">Rule: The 12-Month Cooling Period</h2>
+                            <h3 className="text-3xl md:text-4xl font-black mb-8 leading-tight relative z-10">Rule: The 12-Month Cooling Period</h3>
                             <p className="text-lg opacity-80 mb-8 relative z-10 text-justify">
                                 Financial redemption comes with a price. While settling a loan frees you from immediate debt, it triggers a 'Cooling-off Period' during which you cannot access fresh credit from the banking system.
                             </p>
@@ -214,21 +214,21 @@ export default function LoanSettlementRulesIndiaPage() {
                                 <div className="flex gap-6 items-center border-b border-white/10 pb-4">
                                     <span className="text-4xl font-black text-[#1F5EFF]">12M</span>
                                     <div>
-                                        <h3 className="font-bold text-xl mb-2">Standard Exposure</h3>
+                                        <h4 className="font-bold text-xl mb-2">Standard Exposure</h4>
                                         <p className="opacity-70 text-sm">For non-farm credit (Personal Loans, Cards), you must wait a minimum of 12 months after the settlement is completed before a bank can grant you a new loan.</p>
                                     </div>
                                 </div>
                                 <div className="flex gap-6 items-center border-b border-white/10 pb-4">
                                     <span className="text-4xl font-black text-red-500">05Y</span>
                                     <div>
-                                        <h4 className="font-bold text-xl mb-2">Fraud/Wilful Default</h4>
+                                        <h5 className="font-bold text-xl mb-2">Fraud/Wilful Default</h5>
                                         <p className="opacity-70 text-sm">If your account was classified as 'Fraud' or you were labeled a 'Wilful Defaulter', the cooling-off period is extended to 5 full years.</p>
                                     </div>
                                 </div>
                                 <div className="flex gap-6 items-center">
                                     <span className="text-4xl font-black text-green-500">LTV</span>
                                     <div>
-                                        <h5 className="font-bold text-xl mb-2">Internal Discretion</h5>
+                                        <h6 className="font-bold text-xl mb-2">Internal Discretion</h6>
                                         <p className="opacity-70 text-sm">Individual banks have the right to set a LONGER cooling-off period based on their internal risk appetite. The RBI hanya sets the minimum floor.</p>
                                     </div>
                                 </div>
@@ -236,12 +236,12 @@ export default function LoanSettlementRulesIndiaPage() {
                         </section>
 
                         <section id="fraud-wilful-default" className="scroll-mt-32 mb-16 mt-16 text-justify">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">Settling with 'Fraud' or 'Wilful Defaulters'</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">Settling with 'Fraud' or 'Wilful Defaulters'</h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 Perhaps the most controversial rule in the 2023 framework is the provision allowing banks to settle with borrowers classified as Wilful Defaulters or those involved in Fraud. This was done to ensure that banks can recover at least a part of the taxpayers' money in cases that might otherwise be stuck in courts for decades.
                             </p>
                             <div className="bg-red-50 p-8 rounded-3xl border border-red-100 mb-8">
-                                <h3 className="text-xl font-black text-red-900 mb-4">The 'Criminal' Proviso</h3>
+                                <h4 className="text-xl font-black text-red-900 mb-4">The 'Criminal' Proviso</h4>
                                 <p className="text-red-800 leading-relaxed font-medium italic">Crucially, the rule states that a compromise settlement does NOT stop ongoing criminal proceedings. You can settle the debt for cash, but if there is an FIR for fraud, that investigation proceeds independently of the credit settlement.</p>
                             </div>
                             <p className="text-lg leading-relaxed">
@@ -250,7 +250,7 @@ export default function LoanSettlementRulesIndiaPage() {
                         </section>
 
                         <section id="fair-practice-code" className="scroll-mt-32 mb-16 mt-16 bg-[#F8FAFC] p-12 rounded-[50px] border-l-8 border-[#1F5EFF]">
-                            <h2 className="text-3xl font-black mb-8 text-[#2E2E2E]">The 2024 Fair Practice Code Updates</h2>
+                            <h3 className="text-3xl font-black mb-8 text-[#2E2E2E]">The 2024 Fair Practice Code Updates</h3>
                             <p className="text-lg text-gray-600 mb-8 leading-relaxed">The RBI hasn't just updated settlement rules; they have overhauled the 'Fair Practice Code' that governs how banks behave during the recovery process. These rules are your shield against harassment.</p>
                             <div className="space-y-6">
                                 <div className="flex gap-4 items-start">
@@ -269,36 +269,36 @@ export default function LoanSettlementRulesIndiaPage() {
                         </section>
 
                         <section id="arc-January-2025" className="scroll-mt-32 mb-16 mt-16 text-justify">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight underline decoration-orange-400">January 20, 2025: New ARC Rules</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight underline decoration-orange-400">January 20, 2025: New ARC Rules</h3>
                             <p className="text-lg leading-relaxed mb-6 italic font-medium">If your loan has been sold to an Asset Reconstruction Company (ARC) like IARC, ARCIL, or Omkara, the rules changed again on January 20, 2025.</p>
                             <p className="text-lg leading-relaxed mb-8">
                                 ARCs now have stricter mandates for One-Time Settlements (OTS). They must categorize accounts into 'Settlement Event 1' (Above 1 Crore) and 'Settlement Event 2' (Below 1 Crore). For large defaults, an Independent Advisory Committee (IAC) must vet the settlement to ensure there is no 'Under-valuation' of the bank's sacrifice.
                             </p>
                             <div className="bg-orange-50 border border-orange-200 p-8 rounded-3xl">
-                                <h3 className="font-bold text-orange-900 mb-2">The 'Best Option' Rule</h3>
+                                <h4 className="font-bold text-orange-900 mb-2">The 'Best Option' Rule</h4>
                                 <p className="text-orange-800 text-sm">Under the new Jan 2025 guidelines, an ARC can only settle if they prove that settlement is the 'best option available' compared to all other recovery methods like auctions or insolvency proceedings.</p>
                             </div>
                         </section>
 
                         <section id="legal-notice-rights" className="scroll-mt-32 mb-16 mt-16 bg-[#2E2E2E] p-12 rounded-[50px] text-white">
-                            <h2 className="text-3xl font-black mb-8">Rule: The 30-Day Pre-Notice Rights</h2>
+                            <h3 className="text-3xl font-black mb-8">Rule: The 30-Day Pre-Notice Rights</h3>
                             <p className="text-lg leading-relaxed mb-8 text-justify">
                                 Banks often threaten borrowers with immediate legal action. However, the law provides a mandatory 'Buffer Zone'. Before any legal proceeding (under SARFAESI or the NI Act) is initiated, a formal notice must be sent, giving the borrower a chance to breathe.
                             </p>
                             <div className="grid md:grid-cols-2 gap-8">
                                 <div className="p-6 border border-white/20 rounded-2xl">
-                                    <h3 className="font-bold text-[#1F5EFF] mb-2 uppercase text-xs">SARFAESI Section 13(2)</h3>
+                                    <h4 className="font-bold text-[#1F5EFF] mb-2 uppercase text-xs">SARFAESI Section 13(2)</h4>
                                     <p className="text-sm opacity-80">Requires a 60-day notice period. During this time, the bank cannot take possession of your house. It is the golden window for settlement negotiations.</p>
                                 </div>
                                 <div className="p-6 border border-white/20 rounded-2xl">
-                                    <h4 className="font-bold text-[#1F5EFF] mb-2 uppercase text-xs">Mediation Window</h4>
+                                    <h5 className="font-bold text-[#1F5EFF] mb-2 uppercase text-xs">Mediation Window</h5>
                                     <p className="text-sm opacity-80">2024 updates suggest that banks must offer a 60-day mediation or conciliation window before moving to court for a 'Decree'.</p>
                                 </div>
                             </div>
                         </section>
 
                         <section id="valuation-methodology" className="scroll-mt-32 mb-16 mt-16 text-justify">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">Rules for Valuation of Security</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">Rules for Valuation of Security</h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 If you have a secured loan, the 'Valuation' of your property determines your settlement discount. Banks used to inflate these values to demand higher settlement amounts. The new RBI rules mandate a 'Standardized Valuation Protocol'.
                             </p>
@@ -312,7 +312,7 @@ export default function LoanSettlementRulesIndiaPage() {
                         </section>
 
                         <section id="document-return-penalty" className="scroll-mt-32 mb-16 mt-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight underline decoration-[#1F5EFF] underline-offset-[10px]">Rule: Document Return & Daily Penalties</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight underline decoration-[#1F5EFF] underline-offset-[10px]">Rule: Document Return & Daily Penalties</h3>
                             <p className="text-lg leading-relaxed mb-6 text-justify">
                                 This is perhaps the most borrower-friendly rule ever passed in the Indian banking system. Once you settle your loan and pay the full amount, the bank has a statutory deadline to return your original property documents (Sale Deed, Mother Deed, etc.).
                             </p>
@@ -327,7 +327,7 @@ export default function LoanSettlementRulesIndiaPage() {
                         </section>
 
                         <section id="success-studies" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 text-center uppercase tracking-tighter decoration-[#1F5EFF] underline decoration-4">Settlement Rule Wins</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 text-center uppercase tracking-tighter decoration-[#1F5EFF] underline decoration-4">Settlement Rule Wins</h3>
                             <div className="grid md:grid-cols-2 gap-6 not-prose text-justify">
                                 {[
                                     {
@@ -350,7 +350,7 @@ export default function LoanSettlementRulesIndiaPage() {
                                             <div className="w-10 h-10 rounded-full bg-blue-100 flex items-center justify-center font-bold text-blue-600 mr-3">
                                                 {review.name.charAt(0)}
                                             </div>
-                                            <h3 className="font-bold text-[#2E2E2E]">{review.name}</h3>
+                                            <h4 className="font-bold text-[#2E2E2E]">{review.name}</h4>
                                             <div className="ml-auto text-yellow-400 text-sm">★★★★★</div>
                                         </div>
                                         <div className="mb-4 flex flex-col gap-2 scale-90 origin-left">
@@ -364,7 +364,7 @@ export default function LoanSettlementRulesIndiaPage() {
                         </section>
 
                         <section id="faqs" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-12 text-center underline decoration-[#1F5EFF] decoration-4">Legal Rules FAQ's</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-12 text-center underline decoration-[#1F5EFF] decoration-4">Legal Rules FAQ's</h3>
                             <div className="space-y-6">
                                 {[
                                     { q: "Is the June 2023 framework applicable to all banks?", a: "Yes. It applies to all Commercial Banks (including RRBs), Primary (Urban) Co-operative Banks, State Co-operative Banks, District Central Co-operative Banks, and all NBFCs." },
@@ -381,7 +381,7 @@ export default function LoanSettlementRulesIndiaPage() {
                                     { q: "What is the rule regarding 'Suits Filed' accounts?", a: "Accounts where the bank has already filed a suit in court can still be settled. The settlement will then be recorded as a 'Withdrawal of Suit' or a 'Consent Decree' in the court records." }
                                 ].map((faq, i) => (
                                     <div key={i} className="p-8 bg-white border border-[#DEDEDE] rounded-3xl shadow-sm transition-all hover:shadow-lg">
-                                        <h3 className="font-black text-[#2E2E2E] mb-4 text-xl border-b pb-2 border-[#1F5EFF]/10">{faq.q}</h3>
+                                        <h4 className="font-black text-[#2E2E2E] mb-4 text-xl border-b pb-2 border-[#1F5EFF]/10">{faq.q}</h4>
                                         <p className="text-gray-600 leading-relaxed text-lg italic">"{faq.a}"</p>
                                     </div>
                                 ))}
@@ -389,7 +389,7 @@ export default function LoanSettlementRulesIndiaPage() {
                         </section>
 
                         <section className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight text-center">Don't Negotiate in the Dark.</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight text-center">Don't Negotiate in the Dark.</h3>
                             <p className="text-lg leading-relaxed mb-6 italic font-bold text-center">Knowledge of the rules is the difference between a 'Bargain' and a 'Sacrifice'.</p>
                             <div className="bg-[#1F5EFF] p-10 rounded-[40px] text-center text-white shadow-2xl">
                                 <p className="text-2xl font-black mb-8 tracking-tight uppercase">Every Bank Has a Policy. We Help You Trigger It.</p>

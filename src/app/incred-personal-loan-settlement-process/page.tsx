@@ -588,7 +588,7 @@ export default function InCredPersonalLoanSettlementPage() {
                 <Clock className="w-4 h-4" />
                 <span>2. Delinquency Timeline &amp; NPA Stages</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">InCred Delinquency Lifecycle</h2>
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">InCred Delinquency Lifecycle</h3>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 InCred tracks overdue loans using RBI IRACP norms and Ind AS 109 rules. It groups overdue loans by Days Past Due (DPD). Knowing these stages helps borrowers time their settlement offers for maximum discounts.
               </p>
@@ -659,7 +659,7 @@ export default function InCredPersonalLoanSettlementPage() {
                 <Banknote className="w-4 h-4" />
                 <span>3. Stopping NACH Bounce Charges &amp; Penal Fees</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">How to Stop InCred NACH Bounce Charges</h2>
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">How to Stop InCred NACH Bounce Charges</h3>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Frequent auto-debit bounce fees add heavy financial stress on borrowers. InCred often presents NACH mandates two to four times in a month. If your bank account lacks funds, your bank charges ₹250 to ₹500 plus GST. InCred also adds ₹500 to ₹1,000 plus GST to your loan ledger.
               </p>
@@ -683,7 +683,7 @@ export default function InCredPersonalLoanSettlementPage() {
                 <Calculator className="w-4 h-4" />
                 <span>4. OTS Haircut Policies &amp; Valuation Framework</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">InCred Financial Services One-Time Settlement (OTS)</h2>
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">InCred Financial Services One-Time Settlement (OTS)</h3>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Under RBI Master Directions (DOR.STR.REC.20/21.04.048/2023-24), InCred follows a board-approved settlement policy. InCred uses a mathematical Net Present Value (NPV) formula to evaluate settlement requests.
               </p>
@@ -706,7 +706,7 @@ export default function InCredPersonalLoanSettlementPage() {
               </div>
 
               {/* Settlement Haircut Slabs Table */}
-              <h3 className="text-lg font-bold text-slate-900 mb-3">Realistic InCred Settlement Haircut Slabs by Product &amp; Aging</h3>
+              <h4 className="text-lg font-bold text-slate-900 mb-3">Realistic InCred Settlement Haircut Slabs by Product &amp; Aging</h4>
               <div className="overflow-x-auto my-4">
                 <table className="min-w-full bg-white">
                   <thead>
@@ -764,9 +764,9 @@ export default function InCredPersonalLoanSettlementPage() {
                       <span className="text-[10px] font-black uppercase tracking-widest text-blue-300 block">
                         Legal Defense &amp; Action Blueprint
                       </span>
-                      <h3 className="text-sm md:text-base font-black text-white leading-tight">
+                      <h4 className="text-sm md:text-base font-black text-white leading-tight">
                         InCred Personal Loan Settlement &amp; Legal Defense Blueprint
-                      </h3>
+                      </h4>
                     </div>
                   </div>
                   <a
@@ -813,7 +813,7 @@ export default function InCredPersonalLoanSettlementPage() {
                 <ShieldAlert className="w-4 h-4" />
                 <span>5. Recovery Practices &amp; RBI Harassment Defense</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Defending InCred Harassment Under RBI NBFC Rules</h2>
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Defending InCred Harassment Under RBI NBFC Rules</h3>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 InCred hires third-party recovery agencies to collect overdue loans. Tele-callers and field agents often work under high recovery targets. They may overstep legal rules by calling often, dialing family members, or showing up at borrower homes.
               </p>
@@ -831,7 +831,7 @@ export default function InCredPersonalLoanSettlementPage() {
                 <Layers className="w-4 h-4" />
                 <span>6. Step-by-Step NBFC Settlement Roadmap</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Step-by-Step InCred Loan Settlement Roadmap</h2>
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Step-by-Step InCred Loan Settlement Roadmap</h3>
               <p className="text-slate-700 leading-relaxed mb-6 text-base md:text-lg">
                 Follow these six steps to settle your InCred loan safely with a high discount:
               </p>
@@ -839,10 +839,10 @@ export default function InCredPersonalLoanSettlementPage() {
               <div className="space-y-6">
                 {/* Phase 1 */}
                 <div className="p-6 rounded-2xl bg-white border border-slate-200 shadow-sm">
-                  <h3 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
+                  <h4 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
                     <span className="w-7 h-7 rounded-lg bg-blue-50 text-[#1F5EFF] font-black text-sm flex items-center justify-center border border-blue-200">1</span>
                     Comprehensive Financial Audit &amp; Hardship Dossier Compilation
-                  </h3>
+                  </h4>
                   <p className="text-slate-600 text-sm md:text-base leading-relaxed">
                     Gather proof of your financial hardship. Useful documents include income slips, profit and loss statements, GST returns, medical bills, or termination letters. This proves your default is non-wilful.
                   </p>
@@ -850,10 +850,10 @@ export default function InCredPersonalLoanSettlementPage() {
 
                 {/* Phase 2 */}
                 <div className="p-6 rounded-2xl bg-white border border-slate-200 shadow-sm">
-                  <h3 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
+                  <h4 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
                     <span className="w-7 h-7 rounded-lg bg-blue-50 text-[#1F5EFF] font-black text-sm flex items-center justify-center border border-blue-200">2</span>
                     Revoking NACH Mandates &amp; Formalizing Communication Channels
-                  </h3>
+                  </h4>
                   <p className="text-slate-600 text-sm md:text-base leading-relaxed">
                     Tell your bank to stop the e-NACH mandate to avoid repeated bounce fees. Send a notice to InCred to direct all talks to your email or designated lawyer. This builds a written record.
                   </p>
@@ -861,10 +861,10 @@ export default function InCredPersonalLoanSettlementPage() {
 
                 {/* Phase 3 */}
                 <div className="p-6 rounded-2xl bg-white border border-slate-200 shadow-sm">
-                  <h3 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
+                  <h4 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
                     <span className="w-7 h-7 rounded-lg bg-blue-50 text-[#1F5EFF] font-black text-sm flex items-center justify-center border border-blue-200">3</span>
                     Submitting Formal Hardship Petition to Stressed Assets Desk
-                  </h3>
+                  </h4>
                   <p className="text-slate-600 text-sm md:text-base leading-relaxed">
                     Submit a formal OTS petition to InCred&apos;s Stressed Assets Desk. Cite the RBI Master Direction on Compromise Settlements. Start with an offer of 25% to 35% of total dues to allow room for talks.
                   </p>
@@ -872,10 +872,10 @@ export default function InCredPersonalLoanSettlementPage() {
 
                 {/* Phase 4 */}
                 <div className="p-6 rounded-2xl bg-white border border-slate-200 shadow-sm">
-                  <h3 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
+                  <h4 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
                     <span className="w-7 h-7 rounded-lg bg-blue-50 text-[#1F5EFF] font-black text-sm flex items-center justify-center border border-blue-200">4</span>
                     Managing Counter-Demands &amp; Structuring Committee Approvals
-                  </h3>
+                  </h4>
                   <p className="text-slate-600 text-sm md:text-base leading-relaxed">
                     InCred may offer a small discount of 10% to 20% first. Your lawyer can explain that funds come from friends or family help. This helps push the Credit Committee toward a 40% to 60% waiver.
                   </p>
@@ -883,10 +883,10 @@ export default function InCredPersonalLoanSettlementPage() {
 
                 {/* Phase 5 */}
                 <div className="p-6 rounded-2xl bg-white border border-slate-200 shadow-sm">
-                  <h3 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
+                  <h4 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
                     <span className="w-7 h-7 rounded-lg bg-blue-50 text-[#1F5EFF] font-black text-sm flex items-center justify-center border border-blue-200">5</span>
                     Rigorous Forensic Audit of the OTS Sanction Letter
-                  </h3>
+                  </h4>
                   <p className="text-slate-600 text-sm md:text-base leading-relaxed">
                     Check that InCred issues an official OTS sanction letter on corporate letterhead. It must show your loan number, settlement amount, payment dates, and a full waiver of the balance.
                   </p>
@@ -894,10 +894,10 @@ export default function InCredPersonalLoanSettlementPage() {
 
                 {/* Phase 6 */}
                 <div className="p-6 rounded-2xl bg-white border border-slate-200 shadow-sm">
-                  <h3 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
+                  <h4 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
                     <span className="w-7 h-7 rounded-lg bg-blue-50 text-[#1F5EFF] font-black text-sm flex items-center justify-center border border-blue-200">6</span>
                     Direct Account Remittance &amp; Enforcing ₹0 NDC Delivery
-                  </h3>
+                  </h4>
                   <p className="text-slate-600 text-sm md:text-base leading-relaxed">
                     Pay the agreed amount directly into your InCred loan account via RTGS or NEFT. Under RBI rules, InCred must deliver your No Dues Certificate and update credit bureaus within 30 days.
                   </p>
@@ -911,7 +911,7 @@ export default function InCredPersonalLoanSettlementPage() {
                 <Gavel className="w-4 h-4" />
                 <span>7. Section 25 Notices, Arbitration &amp; Lok Adalat</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Navigating InCred Sec 25 PSSA &amp; Lok Adalat</h2>
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Navigating InCred Sec 25 PSSA &amp; Lok Adalat</h3>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 When a loan crosses 60 to 90 days unpaid, InCred may send legal notices. These include Section 25 PSSA notices for failed auto-debits and arbitration notices in Mumbai or Delhi.
               </p>
@@ -976,7 +976,7 @@ export default function InCredPersonalLoanSettlementPage() {
                 <FileCheck className="w-4 h-4" />
                 <span>8. Sanction Letter Audit &amp; ₹0 NDC Mandate</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Authenticating InCred OTS Sanction Letters</h2>
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Authenticating InCred OTS Sanction Letters</h3>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Unscrupulous recovery agents sometimes offer fake settlement letters to take cash. If you pay on an unverified letter, InCred treats it as part-payment. Your loan default will remain open.
               </p>
@@ -994,7 +994,7 @@ export default function InCredPersonalLoanSettlementPage() {
                 <TrendingUp className="w-4 h-4" />
                 <span>9. CIBIL Score Trajectory &amp; Rehabilitation</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">InCred Post-Settlement CIBIL Trajectory</h2>
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">InCred Post-Settlement CIBIL Trajectory</h3>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 After an OTS, InCred reports your loan as <strong>&apos;Settled&apos;</strong> with an outstanding balance of <strong>₹0</strong> to CIBIL, Experian, Equifax, and CRIF High Mark. Your credit score may fall by 75 to 150 points initially.
               </p>
@@ -1012,9 +1012,9 @@ export default function InCredPersonalLoanSettlementPage() {
                 <ShieldCheck className="w-4 h-4" />
                 <span>10. Legal Defense &amp; Representation</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 Why Distressed InCred Borrowers Trust SettleLoans
-              </h2>
+              </h3>
               <p className="text-slate-700 leading-relaxed mb-6 text-base md:text-lg">
                 Settling a loan with a tech-NBFC like InCred requires legal knowledge and negotiation skills. SettleLoans stops recovery harassment with legal notices, defends against Section 25 PSSA notices, challenges one-sided arbitration, and negotiates with InCred to secure 40% to 60% waivers and valid ₹0 NDCs.
               </p>
@@ -1031,7 +1031,7 @@ export default function InCredPersonalLoanSettlementPage() {
                 <HelpCircle className="w-4 h-4" />
                 <span>11. Frequently Asked Questions</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">FAQs: InCred Personal Loan Settlement</h2>
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">FAQs: InCred Personal Loan Settlement</h3>
 
               <div className="space-y-4">
                 {faqs.map((faq, index) => (
@@ -1057,10 +1057,10 @@ export default function InCredPersonalLoanSettlementPage() {
 
             {/* Regulatory References & Official Sources Strip */}
             <div className="bg-slate-50 border border-slate-200 rounded-2xl p-6 my-10">
-              <h3 className="text-base font-bold text-slate-900 mb-4 flex items-center gap-2">
+              <h4 className="text-base font-bold text-slate-900 mb-4 flex items-center gap-2">
                 <Landmark className="w-5 h-5 text-[#1F5EFF]" />
                 Official Regulatory References &amp; Statutory Circulars
-              </h3>
+              </h4>
               <ul className="space-y-3 text-xs text-slate-600">
                 <li className="flex items-start gap-2">
                   <ExternalLink className="w-4 h-4 text-[#1F5EFF] flex-shrink-0 mt-0.5" />
@@ -1122,10 +1122,10 @@ export default function InCredPersonalLoanSettlementPage() {
 
             {/* Related Guides & Resources Strip (10 Topic Badges) */}
             <div className="bg-slate-50 border border-slate-200 rounded-2xl p-6 my-10">
-              <h3 className="text-base font-bold text-slate-900 mb-4 flex items-center gap-2">
+              <h4 className="text-base font-bold text-slate-900 mb-4 flex items-center gap-2">
                 <BookOpen className="w-5 h-5 text-[#1F5EFF]" />
                 Explore Related Banking &amp; Debt Resolution Guides
-              </h3>
+              </h4>
               <div className="flex flex-wrap gap-2.5">
                 <Link
                   href="/bank-one-time-settlement-ots-policy"

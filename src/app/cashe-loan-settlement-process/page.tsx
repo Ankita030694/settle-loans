@@ -595,9 +595,9 @@ export default function CasheLoanSettlementProcessPage() {
                 <Clock className="w-4 h-4" />
                 <span>2. Delinquency Lifecycle &amp; NPA Classification</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 CASHe Delinquency Lifecycle: From DPD 1-30 to Non-Performing Asset (NPA)
-              </h2>
+              </h3>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Under the Reserve Bank of India Prudential Norms on Income Recognition, Asset Classification and Provisioning (IRACP) and the Indian Accounting Standard 109 (Ind AS 109) Expected Credit Loss (ECL) frameworks, Bhanix Finance systematically transitions delinquent loan accounts across standardized Days Past Due (DPD) aging buckets. Recognizing the exact operational and legal characteristics of each bucket enables borrowers to determine the optimal timing for settlement negotiations.
               </p>
@@ -668,9 +668,9 @@ export default function CasheLoanSettlementProcessPage() {
                 <ShieldAlert className="w-4 h-4" />
                 <span>3. Halting Late Fees &amp; NACH Mandate Sweeps</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 Stopping Rapid Late Fee Accumulation, Penal Interest &amp; Repetitive NACH Bounces
-              </h2>
+              </h3>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 One of the most distressing experiences for defaulted CASHe borrowers is the alarming speed at which ledger balances inflate. A defaulted credit line of ₹80,000 can rapidly surge beyond ₹1,40,000 within just a few months due to compounding late payment charges, daily penal fees, processing surcharges, and repeated e-mandate presentation return fees.
               </p>
@@ -688,9 +688,9 @@ export default function CasheLoanSettlementProcessPage() {
                 <Calculator className="w-4 h-4" />
                 <span>4. OTS Haircut Policies &amp; NPV Valuation</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 How Bhanix Finance Evaluates Compromise Settlements: The NPV Recovery Benchmark
-              </h2>
+              </h3>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Non-Banking Financial Companies do not grant loan settlement waivers out of charity; every compromise sanction is strictly justified through rigorous institutional accounting. Under RBI Master Directions, Bhanix Finance&apos;s Credit Committee must evaluate whether accepting an immediate discounted cash settlement yields a superior financial return compared to the uncertain Net Present Value (NPV) of pursuing protracted legal litigation against an unsecured borrower.
               </p>
@@ -723,9 +723,9 @@ export default function CasheLoanSettlementProcessPage() {
                 <Layers className="w-4 h-4" />
                 <span>5. Visual Resolution Blueprint</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 CASHe App Loan Settlement &amp; Bhanix Finance Debt Resolution Blueprint
-              </h2>
+              </h3>
               <p className="text-slate-700 leading-relaxed mb-6 text-base md:text-lg">
                 The visual roadmap below details the complete 5-stage institutional and legal framework required to transition a defaulted CASHe credit facility from aggressive collection harassment into a fully discharged, legally binding One-Time Settlement with a ₹0 No Dues Certificate.
               </p>
@@ -760,9 +760,9 @@ export default function CasheLoanSettlementProcessPage() {
                 <ShieldAlert className="w-4 h-4" />
                 <span>6. Digital Recovery Practices &amp; Anti-Harassment</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 Defending Against Aggressive Recovery Tactics Under RBI Digital Lending Rules
-              </h2>
+              </h3>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Defaulted CASHe borrowers frequently experience extreme psychological distress caused by aggressive third-party Debt Recovery Agencies (DRAs). Collection agents operate on commission incentives and frequently utilize high-pressure tactics: contacting workplace numbers, sending intimidating messages via WhatsApp, threatening to call relatives or colleagues, and threatening immediate police arrests or home seizures.
               </p>
@@ -798,9 +798,9 @@ export default function CasheLoanSettlementProcessPage() {
                 <Gavel className="w-4 h-4" />
                 <span>7. Mumbai &amp; Bengaluru Advocate Notice Defense</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 Defending Advocate Legal Notices, Section 25 PSSA &amp; Unilateral Arbitration
-              </h2>
+              </h3>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 When a CASHe credit line reaches 60 to 120 days of non-payment, borrowers commonly receive stern legal notices sent via registered post, speed post, or email from law firms based in Mumbai (where Bhanix Finance maintains its corporate headquarters) or Bengaluru. These notices typically invoke Section 25 of the Payment and Settlement Systems Act, 2007 (PSSA) for dishonoured NACH mandates, Section 138 of the Negotiable Instruments Act, 1881, or initiate unilateral private arbitration proceedings under the Arbitration and Conciliation Act, 1996.
               </p>
@@ -863,9 +863,9 @@ export default function CasheLoanSettlementProcessPage() {
                 <Layers className="w-4 h-4" />
                 <span>8. Step-by-Step CASHe Settlement Roadmap</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 Step-by-Step Roadmap: How to Negotiate a Compromise Settlement with Bhanix Finance
-              </h2>
+              </h3>
               <p className="text-slate-700 leading-relaxed mb-6 text-base md:text-lg">
                 Executing a legally secure and financially advantageous One-Time Settlement with Bhanix Finance requires a structured, evidence-based methodology:
               </p>
@@ -873,10 +873,10 @@ export default function CasheLoanSettlementProcessPage() {
               <div className="space-y-6">
                 {/* Phase 1 */}
                 <div className="p-6 rounded-2xl bg-white border border-slate-200 shadow-sm">
-                  <h3 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
+                  <h4 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
                     <span className="w-7 h-7 rounded-lg bg-blue-50 text-[#1F5EFF] font-black text-sm flex items-center justify-center border border-blue-200">1</span>
                     Forensic Ledger Audit &amp; Compiling the Hardship Dossier
-                  </h3>
+                  </h4>
                   <p className="text-slate-600 text-sm md:text-base leading-relaxed">
                     Download complete statement logs from the CASHe mobile application and calculate exact net principal disbursed versus total repayments made. Assemble concrete documentary proof of involuntary financial distress—such as salary reduction slips, job termination letters, medical hospital bills, or bank statements showing depleted liquidity.
                   </p>
@@ -884,10 +884,10 @@ export default function CasheLoanSettlementProcessPage() {
 
                 {/* Phase 2 */}
                 <div className="p-6 rounded-2xl bg-white border border-slate-200 shadow-sm">
-                  <h3 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
+                  <h4 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
                     <span className="w-7 h-7 rounded-lg bg-blue-50 text-[#1F5EFF] font-black text-sm flex items-center justify-center border border-blue-200">2</span>
                     Revoking e-NACH Mandates &amp; Directing Formal Communication
-                  </h3>
+                  </h4>
                   <p className="text-slate-600 text-sm md:text-base leading-relaxed">
                     Instruct your bank to revoke the automated e-NACH / UPI autopay mandate to prevent further return charges. Issue a formal notice to Bhanix Finance directing all future communication exclusively to registered email channels or designated legal counsel, establishing a verifiable written evidentiary record.
                   </p>
@@ -895,10 +895,10 @@ export default function CasheLoanSettlementProcessPage() {
 
                 {/* Phase 3 */}
                 <div className="p-6 rounded-2xl bg-white border border-slate-200 shadow-sm">
-                  <h3 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
+                  <h4 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
                     <span className="w-7 h-7 rounded-lg bg-blue-50 text-[#1F5EFF] font-black text-sm flex items-center justify-center border border-blue-200">3</span>
                     Submitting the Formal Hardship Petition to Bhanix Stressed Assets Desk
-                  </h3>
+                  </h4>
                   <p className="text-slate-600 text-sm md:text-base leading-relaxed">
                     Submit a structured compromise settlement petition addressed to Bhanix Finance&apos;s Stressed Assets Desk citing RBI Master Directions. Anchor the initial settlement offer at 25% to 35% of outstanding principal dues to create strategic bargaining room for structured counter-negotiations.
                   </p>
@@ -906,10 +906,10 @@ export default function CasheLoanSettlementProcessPage() {
 
                 {/* Phase 4 */}
                 <div className="p-6 rounded-2xl bg-white border border-slate-200 shadow-sm">
-                  <h3 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
+                  <h4 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
                     <span className="w-7 h-7 rounded-lg bg-blue-50 text-[#1F5EFF] font-black text-sm flex items-center justify-center border border-blue-200">4</span>
                     Managing Counter-Demands &amp; Credit Committee Approval
-                  </h3>
+                  </h4>
                   <p className="text-slate-600 text-sm md:text-base leading-relaxed">
                     Bhanix Finance will initially counter with modest discounts (10%–20%). Experienced banking counsel counters by demonstrating that settlement funds are being pooled from external third-party family loans, steering the NBFC Credit Committee toward the target 40% to 65% principal waiver band.
                   </p>
@@ -917,10 +917,10 @@ export default function CasheLoanSettlementProcessPage() {
 
                 {/* Phase 5 */}
                 <div className="p-6 rounded-2xl bg-white border border-slate-200 shadow-sm">
-                  <h3 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
+                  <h4 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
                     <span className="w-7 h-7 rounded-lg bg-blue-50 text-[#1F5EFF] font-black text-sm flex items-center justify-center border border-blue-200">5</span>
                     Forensic Verification of the Official OTS Sanction Letter
-                  </h3>
+                  </h4>
                   <p className="text-slate-600 text-sm md:text-base leading-relaxed">
                     Never deposit money against verbal promises from tele-callers. Ensure Bhanix Finance issues an authentic, stamped OTS Sanction Letter on official corporate letterhead detailing the exact settlement amount, payment deadlines, loan account numbers, and explicit covenants guaranteeing full debt discharge and legal withdrawal.
                   </p>
@@ -928,10 +928,10 @@ export default function CasheLoanSettlementProcessPage() {
 
                 {/* Phase 6 */}
                 <div className="p-6 rounded-2xl bg-white border border-slate-200 shadow-sm">
-                  <h3 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
+                  <h4 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
                     <span className="w-7 h-7 rounded-lg bg-blue-50 text-[#1F5EFF] font-black text-sm flex items-center justify-center border border-blue-200">6</span>
                     Direct Account Remittance &amp; Enforcing ₹0 NDC Delivery
-                  </h3>
+                  </h4>
                   <p className="text-slate-600 text-sm md:text-base leading-relaxed">
                     Remit the agreed settlement funds directly into your verified Bhanix Finance loan account via NEFT/RTGS. Under RBI Circular RBI/2023-24/60, Bhanix Finance is legally mandated to deliver a formal No Dues Certificate (NDC) and update credit bureaus within 30 calendar days.
                   </p>
@@ -945,9 +945,9 @@ export default function CasheLoanSettlementProcessPage() {
                 <FileCheck className="w-4 h-4" />
                 <span>9. Sanction Letter Audit &amp; ₹0 NDC Mandate</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 Authenticating Bhanix Finance Settlement Letters &amp; Enforcing the ₹0 NDC Mandate
-              </h2>
+              </h3>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 A grave hazard in digital fintech loan settlement is the prevalence of unauthorized third-party collection agents issuing fabricated settlement letters or verbal discount assurances over WhatsApp to meet monthly collection targets. When an unsuspecting borrower transfers funds without authentic verification, Bhanix Finance credits the payment toward outstanding penal charges, leaving the default active and compounding.
               </p>
@@ -965,9 +965,9 @@ export default function CasheLoanSettlementProcessPage() {
                 <TrendingUp className="w-4 h-4" />
                 <span>10. CIBIL Score Trajectory &amp; Credit Repair</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 CIBIL Score Trajectory Post-Settlement &amp; 18-Month Credit Rehabilitation Plan
-              </h2>
+              </h3>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Upon completing a One-Time Settlement with Bhanix Finance, the lender reports the credit facility to TransUnion CIBIL, Experian, Equifax, and CRIF High Mark with the status <strong>&apos;Settled&apos;</strong> or <strong>&apos;Post-Write-off Settled&apos;</strong> with an outstanding balance of exactly <strong>₹0</strong>. This reporting change causes an initial credit score drop of 70 to 120 points.
               </p>
@@ -985,9 +985,9 @@ export default function CasheLoanSettlementProcessPage() {
                 <ShieldCheck className="w-4 h-4" />
                 <span>11. SettleLoans Legal Defense &amp; Representation</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 Why Distressed CASHe Borrowers Trust SettleLoans for Debt Resolution
-              </h2>
+              </h3>
               <p className="text-slate-700 leading-relaxed mb-6 text-base md:text-lg">
                 Negotiating an optimal debt settlement with a sophisticated digital lender like Bhanix Finance / CASHe requires deep technical expertise in fintech lending algorithms, RBI digital lending guidelines, and civil litigation defense. SettleLoans provides complete legal shielding: halting recovery harassment, responding to advocate demand notices, challenging unilateral arbitration, and negotiating directly with the NBFC&apos;s senior Stressed Assets Desk to secure maximum principal waivers and authentic ₹0 No Dues Certificates.
               </p>
@@ -1004,9 +1004,9 @@ export default function CasheLoanSettlementProcessPage() {
                 <HelpCircle className="w-4 h-4" />
                 <span>12. Frequently Asked Questions</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
                 Frequently Asked Questions About CASHe App Loan Settlement
-              </h2>
+              </h3>
 
               <div className="space-y-4">
                 {faqs.map((faq, index) => (
@@ -1032,10 +1032,10 @@ export default function CasheLoanSettlementProcessPage() {
 
             {/* Regulatory References & Official Sources Strip */}
             <div className="bg-slate-50 border border-slate-200 rounded-2xl p-6 my-10">
-              <h3 className="text-base font-bold text-slate-900 mb-4 flex items-center gap-2">
+              <h4 className="text-base font-bold text-slate-900 mb-4 flex items-center gap-2">
                 <Landmark className="w-5 h-5 text-[#1F5EFF]" />
                 Official Regulatory References &amp; Statutory Circulars
-              </h3>
+              </h4>
               <ul className="space-y-3 text-xs text-slate-600">
                 <li className="flex items-start gap-2">
                   <ExternalLink className="w-4 h-4 text-[#1F5EFF] flex-shrink-0 mt-0.5" />
@@ -1097,10 +1097,10 @@ export default function CasheLoanSettlementProcessPage() {
 
             {/* Related Guides & Resources Strip (10 Topic Badges) */}
             <div className="bg-slate-50 border border-slate-200 rounded-2xl p-6 my-10">
-              <h3 className="text-base font-bold text-slate-900 mb-4 flex items-center gap-2">
+              <h4 className="text-base font-bold text-slate-900 mb-4 flex items-center gap-2">
                 <BookOpen className="w-5 h-5 text-[#1F5EFF]" />
                 Explore Related Banking &amp; Debt Resolution Guides
-              </h3>
+              </h4>
               <div className="flex flex-wrap gap-2.5">
                 <Link
                   href="/app-loan-settlement"

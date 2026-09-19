@@ -268,9 +268,9 @@ export default function LoanSettlementLawyersPage() {
           </section>
 
           <section id="why-you-need" className="scroll-mt-32 mb-12">
-            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
+            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
               Why Legal Representation is Vital for Financial Relief
-            </h2>
+            </h3>
             <div className="text-lg leading-relaxed space-y-6 text-gray-700">
                <p>
                  The modern Indian banking system is a behemoth, and when a borrower enters the default cycle, they are no longer viewed as a customer, but as a "Non-Performing Asset" (NPA) that needs to be liquidated. The recovery departments of major banks and NBFCs operate with a single-minded focus on collection, often neglecting the ethical boundaries and legal protections afforded to citizens. Facing this structured corporate machine without professional legal help is like entering a complex judicial battle without a defense attorney. It is a fundamental structural imbalance that can only be corrected through professional legal intervention.
@@ -291,9 +291,9 @@ export default function LoanSettlementLawyersPage() {
           </section>
 
            <section id="legal-framework" className="scroll-mt-32 mb-12">
-            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
+            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
               The Comprehensive Legal Framework: RBI Guidelines and Borrower Rights
-            </h2>
+            </h3>
             <div className="text-lg leading-relaxed space-y-6 text-gray-700">
                <p>
                  In India, the relationship between a lender and a borrower is not just governed by a private contract, but also by a robust regulatory framework established by the Reserve Bank of India (RBI). These guidelines are designed to ensure that while banks have the right to recover their dues, they do so with a sense of social responsibility and within the boundaries of the law. The "Fair Practices Code for Lenders" is the cornerstone of these regulations. It explicitly prohibits the use of "muscle power," verbal abuse, or any form of harassment that can cause social embarrassment or psychological distress to the borrower or their family members.
@@ -314,9 +314,9 @@ export default function LoanSettlementLawyersPage() {
           </section>
 
           <section id="stopping-harassment" className="scroll-mt-32 mb-12">
-            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
+            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
               Stopping Recovery Harassment Definitively through Legal Intervention
-            </h2>
+            </h3>
             <div className="text-lg leading-relaxed space-y-6 text-gray-700">
                <p>
                  One of the most immediate and profound benefits of hiring expert loan settlement lawyers is the instant cessation of illegal recovery harassment. In India, while banks have the right to recover their dues, they must do so within the strict ethical and legal boundaries set by the Reserve Bank of India (RBI). Unfortunately, many outsourced recovery agencies resort to psychological warfare, making hundreds of calls a day, using abusive language, and visiting the borrower's home or office at odd hours. This behavior is not only unethical but also strictly illegal under the RBI Fair Practices Code for Lenders.
@@ -331,9 +331,9 @@ export default function LoanSettlementLawyersPage() {
           </section>
 
           <section id="the-process" className="scroll-mt-32 mb-12">
-            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
+            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
               Step-by-Step Negotiation Process by Settlement Lawyers
-            </h2>
+            </h3>
             <div className="text-lg leading-relaxed space-y-6 text-gray-700">
                <p>
                  The road to debt freedom through a legal settlement is a structured journey that requires patience, strategy, and deep legal expertise. It begins with a comprehensive "Hardship Audit." Your loan settlement lawyers will analyze your total debt profile, income sources, and the specific reasons for your default. Whether it was a medical emergency, job loss, or business failure, documenting the genuine inability to pay is the cornerstone of a successful settlement.
@@ -348,9 +348,9 @@ export default function LoanSettlementLawyersPage() {
           </section>
 
            <section id="defending-notices" className="scroll-mt-32 mb-12">
-            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
+            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
               Defending Against Formal Legal Notices from Banks
-            </h2>
+            </h3>
             <div className="text-lg leading-relaxed space-y-6 text-gray-700">
                <p>
                  Banks often use various types of legal notices to intimidate and pressure borrowers into paying the full amount, even when they cannot afford it. These include demand notices under the Civil Procedure Code, notices for Lok Adalat, demand notices under the SARFAESI Act for secured loans, and the dreaded Section 138 notices for cheque bounce cases. Ignoring these notices is a grave mistake that can lead to ex-parte orders or even arrest warrants.
@@ -362,9 +362,9 @@ export default function LoanSettlementLawyersPage() {
           </section>
 
            <section id="cheque-bounce" className="scroll-mt-32 mb-12">
-            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
+            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
               Handling Section 138 Cheque Bounce Cases Legally
-            </h2>
+            </h3>
             <div className="text-lg leading-relaxed space-y-6 text-gray-700">
                <p>
                  In India, a cheque bounce is a quasi-criminal offense under Section 138 of the Negotiable Instruments Act. Banks frequently take signed "security cheques" from borrowers at the time of loan disbursement and later present them for payment knowing they will bounce, solely to gain criminal leverage. This is where the role of loan settlement lawyers becomes critical. They will represent you in the magistrate's court, ensuring that you obtain bail and that the case does not lead to a conviction.
@@ -376,9 +376,9 @@ export default function LoanSettlementLawyersPage() {
           </section>
 
            <section id="arbitration" className="scroll-mt-32 mb-12">
-            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
+            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
               Understanding and Navigating Arbitration Proceedings
-            </h2>
+            </h3>
             <div className="text-lg leading-relaxed space-y-6 text-gray-700">
                <p>
                  Most loan agreements contain an arbitration clause, allowing the bank to bypass civil courts and settle disputes through private arbitration. While this is marketed as a faster resolution method, it is often heavily biased in favor of the bank. The bank appoints its own arbitrator, and proceedings sometimes happen without the borrower's knowledge. Loan settlement lawyers ensure that your right to a fair hearing is protected.
@@ -390,9 +390,9 @@ export default function LoanSettlementLawyersPage() {
           </section>
 
            <section id="financial-math" className="scroll-mt-32 mb-12">
-            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
+            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
               The Fundamental Financial Structure of a Legal Settlement
-            </h2>
+            </h3>
             <div className="text-lg leading-relaxed space-y-6 text-gray-700">
                <p>
                  A successful settlement is not just about paying less; it is about understanding the "Settlement Math." When you stop paying a loan, the "Book Balance" continues to rise due to penal interests, late fees, and compounding charges. However, the bank's "Cost of Recovery" also goes up. Loan settlement lawyers negotiate with a focus on the "Principal Amount."
@@ -404,9 +404,9 @@ export default function LoanSettlementLawyersPage() {
           </section>
 
            <section id="psychological-impact" className="scroll-mt-32 mb-12">
-            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
+            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
               Relieving the Psychological Toll of Debt through Legal Protection
-            </h2>
+            </h3>
             <div className="text-lg leading-relaxed space-y-6 text-gray-700">
                <p>
                  Chronic debt defaults lead to extreme psychological distress, often manifesting as anxiety, depression, and social withdrawal. The predatory tactics used by banks are designed to exploit this emotional vulnerability. Hiring loan settlement lawyers provides an immediate "Mental Safety Zone." It shifts the burden of worry from the borrower to a professional team.
@@ -418,9 +418,9 @@ export default function LoanSettlementLawyersPage() {
           </section>
 
            <section id="settleloans-advantage" className="scroll-mt-32 mb-12">
-            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
+            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
               The Unique SettleLoans Legal Advantage in India
-            </h2>
+            </h3>
             <div className="text-lg leading-relaxed space-y-6 text-gray-700">
                <p>
                  SettleLoans stands out by providing a truly legal-centric approach to debt relief. Unlike companies that merely provide "negotiation advice," we provide hard-hitting legal representation. Our network of loan settlement lawyers across India understands local court procedures and bank specific behaviors. We don't just talk to agents; we deal with the legal departments of major banks and NBFCs.
@@ -432,9 +432,9 @@ export default function LoanSettlementLawyersPage() {
           </section>
 
             <section id="comparing-agencies" className="scroll-mt-32 mb-12">
-            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
+            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
               Law Firms Versus Traditional Debt Management Agencies
-            </h2>
+            </h3>
             <div className="text-lg leading-relaxed space-y-6 text-gray-700">
                <p>
                  It is crucial to understand the difference between a "Settlement Agency" and an "Experienced Law Firm." Agencies often focus solely on phone calls and emails, which banks can easily ignore. They have no standing in a court of law. In contrast, loan settlement lawyers provide an "End to End" solution. If a bank files a suit, a lawyer can represent you in court; an agency cannot.
@@ -446,9 +446,9 @@ export default function LoanSettlementLawyersPage() {
           </section>
 
             <section id="secured-vs-unsecured" className="scroll-mt-32 mb-12">
-            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
+            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
               Secured vs Unsecured Debt Legal Settlement Strategies
-            </h2>
+            </h3>
             <div className="text-lg leading-relaxed space-y-6 text-gray-700">
                <p>
                  The legal strategy differs significantly between secured and unsecured debt. For unsecured debts like credit cards and personal loans, the bank has no collateral to seize. This makes them more willing to settle for a cash amount as their only alternative is years of expensive litigation to recover a relatively small sum.
@@ -460,9 +460,9 @@ export default function LoanSettlementLawyersPage() {
           </section>
 
              <section id="document-preparation" className="scroll-mt-32 mb-12">
-            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
+            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
               Preparing Your Comprehensive Financial Hardship Portfolio
-            </h2>
+            </h3>
             <div className="text-lg leading-relaxed space-y-6 text-gray-700">
                <p>
                  Documentation is the "Evidence" that wins a settlement negotiation. Your loan settlement lawyers will help you compile a "Hardship File." This includes proof of income loss (like a termination letter or bank statements showing business loss), medical bills for long term illnesses, and proof of other liabilities.
@@ -474,9 +474,9 @@ export default function LoanSettlementLawyersPage() {
           </section>
           
            <section id="credit-rehabilitation" className="scroll-mt-32 mb-12">
-            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
+            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
               Post Settlement Credit Score Rehabilitation Strategies
-            </h2>
+            </h3>
             <div className="text-lg leading-relaxed space-y-6 text-gray-700">
                <p>
                  A common concern is that a settlement "destroys" one's credit score. While a settlement is marked as "Settled" on a CIBIL report, it is far better than a "Default." A default implies an ongoing, unpaid obligation, whereas a settlement signifies a closed, resolved account.
@@ -488,9 +488,9 @@ export default function LoanSettlementLawyersPage() {
           </section>
           
            <section id="future-proofing" className="scroll-mt-32 mb-12">
-            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
+            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
               Future Proofing Your Economic Stability through Legal Advice
-            </h2>
+            </h3>
             <div className="text-lg leading-relaxed space-y-6 text-gray-700">
                <p>
                  Finalizing a settlement is the beginning of a new financial life. Expert lawyers provide more than just a one time fix; they provide a blueprint for financial survival. We advise our clients on how to avoid the "Debt Trap" in the future, how to read the fine print of lending agreements, and the importance of an emergency fund.
@@ -502,9 +502,9 @@ export default function LoanSettlementLawyersPage() {
           </section>
 
             <section id="success-stories" className="scroll-mt-32 mb-12">
-            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
+            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
               Real-World Outcomes: Success Stories and Client Reviews
-            </h2>
+            </h3>
              <div className="text-lg leading-relaxed space-y-6 text-gray-700">
                  <p>
                  Our thousands of success stories range from small personal loan defaults to multi-crore business debt settlements. In one notable case, a borrower with a 50 lakh credit card debt across five banks was facing 138 NI Act notices in three different cities. Our team of loan settlement lawyers intervened, consolidated the legal defense, and successfully settled the entire 50 lakh debt for a total of 12 lakhs (a 76% waiver) while having all criminal cases withdrawn.
@@ -540,7 +540,7 @@ export default function LoanSettlementLawyersPage() {
           </section>
           
           <section id="faqs" className="scroll-mt-32 mb-12">
-            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Frequently Asked Questions</h2>
+            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Frequently Asked Questions</h3>
             <div className="space-y-4 not-prose">
               {(jsonLd["@graph"].find((g: any) => g["@type"] === "FAQPage") as any)?.mainEntity?.map((faq: any, i: number) => (
                 <details key={i} className="group bg-white border border-[#DEDEDE] rounded-xl overflow-hidden hover:shadow-md transition-all">
@@ -560,7 +560,7 @@ export default function LoanSettlementLawyersPage() {
 
           {/* Bottom CTA within main content */}
           <section className="bg-[#1F5EFF]/5 p-8 rounded-2xl border border-[#1F5EFF]/20 mt-16 text-center">
-             <h3 className="text-2xl font-black text-[#2E2E2E] mb-4">Ready to Secure Expert Legal Protection?</h3>
+             <h4 className="text-2xl font-black text-[#2E2E2E] mb-4">Ready to Secure Expert Legal Protection?</h4>
              <p className="text-[#2E2E2E]/80 mb-6 font-medium max-w-2xl mx-auto">Don't wait until the legal notices pile up or recovery agents arrive at your doorstep. Take a proactive step toward debt freedom today by consulting with India's most aggressive and experienced loan settlement lawyers. We provide the legal shield you need to protect your family, your assets, and your future.</p>
              <Link href="/contact" className="inline-block bg-[#1F5EFF] text-white font-black py-4 px-10 rounded-[10px] shadow-lg hover:scale-105 transition-all duration-300">
                  Request Immediate Legal Consultation

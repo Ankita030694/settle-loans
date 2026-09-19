@@ -534,7 +534,7 @@ export default function RecoveryAgentsVirtualNumbersPage() {
 
             {/* Section 2: Statutory Framework */}
             <section id="statutory-telecom-it-act-rbi-regulations" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">2. Statutory Laws on Virtual Number Harassment</h2>
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">2. Statutory Laws on Virtual Number Harassment</h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">Indian telecom and cyber laws ban anonymous, automated. And spoofed bank calls. Recovery agencies break clear laws when using virtual lines and VoIP dialers. These rules come from TRAI, DoT, MeitY. And the RBI:</p>
 
               <div className="p-4 rounded-2xl bg-blue-50 border border-blue-200 text-xs sm:text-sm text-blue-900 space-y-2 my-4">
@@ -574,30 +574,30 @@ export default function RecoveryAgentsVirtualNumbersPage() {
 
             {/* Section 3: Vicarious Liability */}
             <section id="holding-lending-banks-vicariously-liable" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">3. Bank Liability for Virtual Harassment Agents</h2>
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">3. Bank Liability for Virtual Harassment Agents</h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">Lenders often claim they are not responsible for rogue callers, blaming third-party agencies instead. Under Indian contract law and banking rules, this defense is completely invalid.</p>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">The relationship between a lender and its collection agency is governed by the <strong>Doctrine of Bank Liability</strong>:</p>
 
               <div className="space-y-3 my-4">
                 <div className="p-4 rounded-xl border-l-4 border-red-500 bg-slate-50 space-y-1">
-                  <h3 className="font-bold text-slate-900 text-xs sm:text-sm flex items-center gap-1.5">
+                  <h4 className="font-bold text-slate-900 text-xs sm:text-sm flex items-center gap-1.5">
                     <Building2 className="w-4 h-4 text-red-600" />
                     <span>Section 182 &amp; 238 Indian Contract Act, 1872 (Principal-Agent Law)</span>
-                  </h3>
+                  </h4>
                   <p className="text-xs text-slate-600 leading-relaxed">Section 182 defines the principal-agent relationship. Under Section 238, frauds and misrepresentations by agents legally bind the principal bank itself.</p>
                 </div>
                 <div className="p-4 rounded-xl border-l-4 border-amber-500 bg-slate-50 space-y-1">
-                  <h4 className="font-bold text-slate-900 text-xs sm:text-sm flex items-center gap-1.5">
+                  <h5 className="font-bold text-slate-900 text-xs sm:text-sm flex items-center gap-1.5">
                     <ShieldCheck className="w-4 h-4 text-amber-600" />
                     <span>RBI Master Direction on Managing Risks and Code of Conduct in Outsourcing of Financial Services</span>
-                  </h4>
+                  </h5>
                   <p className="text-xs text-slate-600 leading-relaxed">The RBI states that outsourcing debt recovery does not reduce the bank&apos;s legal duties. Banks must ensure agents follow the Fair Practices Code and use only verified phone lines.</p>
                 </div>
                 <div className="p-4 rounded-xl border-l-4 border-purple-500 bg-slate-50 space-y-1">
-                  <h4 className="font-bold text-slate-900 text-xs sm:text-sm flex items-center gap-1.5">
+                  <h5 className="font-bold text-slate-900 text-xs sm:text-sm flex items-center gap-1.5">
                     <Gavel className="w-4 h-4 text-purple-600" />
                     <span>Judicial Precedent: ICICI Bank Ltd. v. Prakash Kaur (2007) 2 SCC 711</span>
-                  </h4>
+                  </h5>
                   <p className="text-xs text-slate-600 leading-relaxed">The Supreme Court ruled that banks cannot use musclemen or threats to recover debt. Lenders remain directly liable in court for agent misconduct.</p>
                 </div>
               </div>
@@ -607,7 +607,7 @@ export default function RecoveryAgentsVirtualNumbersPage() {
 
             {/* Section 4: Bank Accounting & NPV Recovery */}
             <section id="npa-accounting-npv-recovery-dynamics" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">4. Bank Provisions &amp; Virtual Harassment Fallout</h2>
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">4. Bank Provisions &amp; Virtual Harassment Fallout</h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">Knowing bank accounting explains why agencies use intense virtual dialing campaigns. bank banks and NBFCs follow strict RBI reserves rules. When an unsecured personal loan or credit card default passes 90 days, it becomes a <strong>defaulted Asset (NPA)</strong>. The bank must set aside capital buffers:</p>
 
               <div className="overflow-x-auto my-4">
@@ -668,7 +668,7 @@ export default function RecoveryAgentsVirtualNumbersPage() {
 
             {/* Section 5: Infographic Banner */}
             <section id="digital-harassment-defense-roadmap" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">5. Virtual Number Harassment Defense Roadmap</h2>
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">5. Virtual Number Harassment Defense Roadmap</h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">The roadmap below shows the 5-step process used by banking lawyers. It helps preserve digital evidence, file DoT Chakshu complaints. And secure a 55% OTS.</p>
               
               <div className="relative w-full rounded-2xl overflow-hidden shadow-lg border border-slate-200 my-6 bg-slate-950 aspect-[16/9]">
@@ -701,24 +701,24 @@ export default function RecoveryAgentsVirtualNumbersPage() {
 
             {/* Section 6: Digital Forensics & DoT Chakshu */}
             <section id="evidence-preservation-cdr-dot-chakshu-protocol" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">6. Digital Evidence &amp; Forensics Against Spoofing</h2>
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">6. Digital Evidence &amp; Forensics Against Spoofing</h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">When dealing with virtual auto-dialers and hidden WhatsApp messages, verbal complaints are not enough. The RBI Ombudsman and cyber crime units need clear digital proof under Section 63 of the <strong>Bharatiya Sakshya Adhiniyam, 2023</strong>:</p>
 
               <div className="space-y-3 my-4">
                 <div className="p-4 rounded-xl border-l-4 border-blue-600 bg-slate-50 space-y-1">
-                  <h3 className="font-bold text-slate-900 text-xs sm:text-sm">Step 1: Telecom Provider CDR (Call Detail Record) Retrieval</h3>
+                  <h4 className="font-bold text-slate-900 text-xs sm:text-sm">Step 1: Telecom Provider CDR (Call Detail Record) Retrieval</h4>
                   <p className="text-xs text-slate-600 leading-relaxed">Request itemized Call Detail Records from your mobile operator (Jio, Airtel, Vi). Official CDR logs prove call frequencies, timestamps. And numbers. This provides hard evidence of automated abuse.</p>
                 </div>
                 <div className="p-4 rounded-xl border-l-4 border-indigo-600 bg-slate-50 space-y-1">
-                  <h4 className="font-bold text-slate-900 text-xs sm:text-sm">Step 2: WhatsApp Header Capture &amp; Video Screen Forensics</h4>
+                  <h5 className="font-bold text-slate-900 text-xs sm:text-sm">Step 2: WhatsApp Header Capture &amp; Video Screen Forensics</h5>
                   <p className="text-xs text-slate-600 leading-relaxed">Take instant full-screen screenshots showing the sender&apos;s full phone number and timestamp before messages disappear. Record a continuous screen video scrolling through the chat context.</p>
                 </div>
                 <div className="p-4 rounded-xl border-l-4 border-purple-600 bg-slate-50 space-y-1">
-                  <h4 className="font-bold text-slate-900 text-xs sm:text-sm">Step 3: Filing Formal Complaint on DoT Sanchar Saathi Chakshu Portal</h4>
+                  <h5 className="font-bold text-slate-900 text-xs sm:text-sm">Step 3: Filing Formal Complaint on DoT Sanchar Saathi Chakshu Portal</h5>
                   <p className="text-xs text-slate-600 leading-relaxed">Visit the official <strong>Sanchar Saathi portal (sancharsaathi.gov.in)</strong> and open the <strong>Chakshu facility</strong>. Report the virtual numbers and dialer patterns under suspected fraud. This triggers telecom audits and SIM blacklisting.</p>
                 </div>
                 <div className="p-4 rounded-xl border-l-4 border-amber-600 bg-slate-50 space-y-1">
-                  <h4 className="font-bold text-slate-900 text-xs sm:text-sm">Step 4: TRAI TCCCPR Telecom Carrier Escalation</h4>
+                  <h5 className="font-bold text-slate-900 text-xs sm:text-sm">Step 4: TRAI TCCCPR Telecom Carrier Escalation</h5>
                   <p className="text-xs text-slate-600 leading-relaxed">Forward unregistered virtual numbers to your carrier. Send an SMS to <strong>1909</strong> or use the TRAI DND app to report spam.</p>
                 </div>
               </div>
@@ -728,7 +728,7 @@ export default function RecoveryAgentsVirtualNumbersPage() {
 
             {/* Section 7: Converting Harassment into 55% OTS */}
             <section id="converting-digital-harassment-into-ots" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">7. Converting Digital Harassment into Leverage</h2>
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">7. Converting Digital Harassment into Leverage</h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">Digital abuse is stressful. But it gives the debtor strong legal leverage. Persistent robotic calling shows the lender has no fast legal way to claim your assets. By hiring a lawyer to document these violations, you shift the advantage in your favor.</p>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">Our banking defense lawyers use these documented infractions to settle a <strong>One-Time Settlement (OTS)</strong>:</p>
 
@@ -766,7 +766,7 @@ export default function RecoveryAgentsVirtualNumbersPage() {
 
             {/* Section 8: Sanction Forensics & RBI NDC Mandate */}
             <section id="sanction-forensics-rbi-ndc-mandate" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">8. Sanction Letter Forensics &amp; NDC for Spoofed Calls</h2>
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">8. Sanction Letter Forensics &amp; NDC for Spoofed Calls</h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">Debtors must be careful when receiving settlement offers over WhatsApp or phone calls. Rogue agents often share fake settlement letters to meet monthly targets. Never pay any money until your legal counsel verifies the sanction letter.</p>
               
               <div className="p-4 rounded-2xl bg-amber-50 border border-amber-200 text-xs sm:text-sm text-amber-900 space-y-2 my-4">
@@ -790,15 +790,15 @@ export default function RecoveryAgentsVirtualNumbersPage() {
                 <p className="leading-relaxed text-emerald-900">Under <strong>RBI Circular RBI/2023-24/60</strong>, lenders must issue an official <strong>No Dues Certificate (NDC)</strong> within <strong>30 days</strong> of settlement payment. They must also update CIBIL, Experian, Equifax. and CRIF to show zero balance. Any delay beyond 30 days incurs a legal penalty of <strong>₹5,000 per day</strong>.</p>
               </div>
 
-              <h3 className="text-base sm:text-lg font-bold text-slate-900 pt-2">
+              <h4 className="text-base sm:text-lg font-bold text-slate-900 pt-2">
                 CIBIL Bureau Reporting Dynamics &amp; Credit Score Rehabilitation
-              </h3>
+              </h4>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">After settlement, credit bureaus mark the account as <strong>&quot;Settled&quot;</strong> with an outstanding balance of <strong>₹0</strong>. This stops monthly score erosion. With a secured card and timely payments, debtors rebuild credit scores above 750 in 18 to 24 months.</p>
             </section>
 
             {/* Section 9: Comparative Matrix */}
             <section id="comparative-digital-defense-matrix" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">9. Virtual Calling Legal Defense Matrix</h2>
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">9. Virtual Calling Legal Defense Matrix</h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">Evaluating these response strategies helps debtors take decisive legal action:</p>
 
               <div className="overflow-x-auto my-4">
@@ -849,7 +849,7 @@ export default function RecoveryAgentsVirtualNumbersPage() {
             {/* Section 10: SettleLoans Legal Defense & Advisory + CompanySection */}
             <section id="company-resolution-section" className="space-y-6">
               <div className="border-t border-slate-200 pt-8 space-y-4">
-                <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">10. SettleLoans Digital Harassment Defense</h2>
+                <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">10. SettleLoans Digital Harassment Defense</h3>
                 <p className="text-sm sm:text-base text-slate-700 leading-relaxed">Stopping virtual number calls needs expert banking lawyers. SettleLoans provides complete legal defense across India. We preserve digital evidence and file complaints on DoT Chakshu and RBI portals. We settle 45% to 65% loan waivers with authentic No Dues Certificates.</p>
               </div>
 
@@ -861,7 +861,7 @@ export default function RecoveryAgentsVirtualNumbersPage() {
             <section id="faqs" className="space-y-4 border-t border-slate-200 pt-8">
               <div className="flex items-center gap-2 mb-2">
                 <HelpCircle className="w-5 h-5 text-[#1F5EFF]" />
-                <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">11. FAQs: Virtual Numbers, Auto-Dialers &amp; Legal Remedies</h2>
+                <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">11. FAQs: Virtual Numbers, Auto-Dialers &amp; Legal Remedies</h3>
               </div>
               <p className="text-xs sm:text-sm text-slate-600 mb-6">Clear, verified answers to key questions about virtual calls, VoIP dialers, DoT Chakshu complaints. And debt settlement in India.</p>
 
@@ -889,9 +889,9 @@ export default function RecoveryAgentsVirtualNumbersPage() {
 
             {/* 5 Official Regulatory Links */}
             <section className="border-t border-slate-200 pt-8 mb-4">
-              <h3 className="text-xs sm:text-sm font-bold text-slate-900 mb-3 uppercase tracking-wider">
+              <h4 className="text-xs sm:text-sm font-bold text-slate-900 mb-3 uppercase tracking-wider">
                 Official Statutory &amp; Regulatory References
-              </h3>
+              </h4>
               <div className="grid grid-cols-1 sm:grid-cols-2 gap-2.5 text-xs">
                 <a
                   href="https://sancharsaathi.gov.in/sfc/"
@@ -943,9 +943,9 @@ export default function RecoveryAgentsVirtualNumbersPage() {
 
             {/* 10 Related Guide Badges */}
             <section className="border-t border-slate-200 pt-8 mb-8">
-              <h3 className="text-xs sm:text-sm font-bold text-slate-900 mb-4 uppercase tracking-wider">
+              <h4 className="text-xs sm:text-sm font-bold text-slate-900 mb-4 uppercase tracking-wider">
                 Related Legal Defense &amp; Loan Resolution Guides
-              </h3>
+              </h4>
               <div className="flex flex-wrap gap-2">
                 <Link
                   href="/bank-recovery-harassment-complaint"

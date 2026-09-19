@@ -86,7 +86,7 @@ export default function BajajFinancePersonalLoanSettlementClient() {
     { id: 'step-by-step-bajaj-settlement', title: '7. Step-by-Step NBFC Settlement Roadmap' },
     { id: 'section-25-pssa-lok-adalat-defense', title: '8. Section 25 Notices, Section 138 & Lok Adalat' },
     { id: 'sanction-letter-audit-ndc-verification', title: '9. Sanction Letter Audit & ₹0 NDC Mandate' },
-    { id: 'cibil-impact-credit-rehabilitation', title: '10. CIBIL Score Trajectory & Rehabilitation' },
+    { id: 'cibil-impact-credit-recovery', title: '10. CIBIL Score Trajectory & recovery' },
     { id: 'company-resolution-section', title: '11. SettleLoans Legal Defense & Advisory' },
     { id: 'faqs', title: '12. Frequently Asked Questions' },
   ];
@@ -122,7 +122,7 @@ export default function BajajFinancePersonalLoanSettlementClient() {
       question: "How can borrowers stop Bajaj Finance NACH bounce charges and repeated automated debit attempts?",
       answer: (
         <p>
-          Bajaj Finance frequently presents electronic NACH mandates multiple times a month, multiplying return fees. To stop these charges: (1) Instruct your destination bank in writing or online to cancel or suspend the e-NACH mandate under NPCI guidelines. (2) Send a formal hardship notice to Bajaj requesting a pause on electronic debit sweeps. (3) Demand a 100% waiver of all accumulated bounce fees and penal interest under RBI penal charge directives during One-Time Settlement negotiations.
+          Bajaj Finance frequently presents electronic NACH mandates multiple times a month, multiplying return fees. To stop these charges: (1) Instruct your destination bank in writing or online to cancel or suspend the e-NACH mandate under NPCI guidelines. (2) Send a formal hardship notice to Bajaj requesting a pause on electronic debit sweeps. (3) Demand a 100% waiver of all accumulated bounce fees and penal interest under RBI penal charge directives during One-Time Settlement talks.
         </p>
       )
     },
@@ -186,7 +186,7 @@ export default function BajajFinancePersonalLoanSettlementClient() {
       question: "How long does Bajaj Finance take to issue the No Dues Certificate (NDC) after settlement?",
       answer: (
         <p>
-          Under <strong>RBI Circular RBI/2023-24/60</strong>, Bajaj Finance is legally required to issue a formal No Dues Certificate (NDC) and update credit bureaus within <strong>30 calendar days</strong> of receiving final payment. If the lender fails to issue the NDC within 30 days, it must pay statutory compensation of <strong>₹5,000 for each day of delay</strong> directly to the borrower.
+          Under <strong>RBI Circular RBI/2023-24/60</strong>, Bajaj Finance is legally required to issue a formal No Dues Certificate (NDC) and update credit bureaus within <strong>30 calendar days</strong> of receiving final payment. If the lender fails to issue the NDC within 30 days, it must pay statutory relief of <strong>₹5,000 for each day of delay</strong> directly to the borrower.
         </p>
       )
     }
@@ -331,7 +331,7 @@ export default function BajajFinancePersonalLoanSettlementClient() {
                 <span>Bajaj Quick Crux</span>
               </div>
               <p className="text-[11px] leading-relaxed text-blue-800">
-                Overdue Bajaj accounts beyond 90 days enter NPA status. Direct negotiations with Zonal Credit Committees bypass aggressive collection agencies, yielding 40%–65% debt waivers with 100% bounce charge cancellation.
+                Overdue Bajaj accounts beyond 90 days enter NPA status. Direct talks with Zonal Credit Committees bypass aggressive collection agencies, yielding 40%–65% debt waivers with 100% bounce charge cancellation.
               </p>
             </div>
           </aside>
@@ -352,7 +352,7 @@ export default function BajajFinancePersonalLoanSettlementClient() {
                 Bajaj Finance Limited (operating under the Bajaj Finserv brand) is India&apos;s largest consumer non-banking financial company (NBFC), dominating retail credit through unsecured personal loans, Flexi credit lines, and digital EMI cards. Unlike traditional commercial banks that rely on gradual branch-level follow-ups, Bajaj Finance deploys an automated, algorithm-driven recovery engine engineered to trigger immediate collection pressure upon a single missed installment.
               </p>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
-                When an equated monthly installment (EMI) dishonours, automated systems levy internal bounce penalties (₹450 to ₹1,000+ plus GST), penal interest of 24% to 36% annually, and multi-channel tele-calling within 24 to 48 hours. Furthermore, the lender frequently re-presents electronic National Automated Clearing House (NACH) mandates multiple times a month, multiplying destination bank return charges and causing severe financial strain for distressed borrowers.
+                When an equated monthly installment (EMI) dishonours, automated systems levy internal bounce penalties (₹450 to ₹1,000+ plus GST), penal interest of 24% to 36% annually, and multi-channel tele-calling within 24 to 48 hours. also, the lender frequently re-presents electronic National Automated Clearing House (NACH) mandates multiple times a month, multiplying destination bank return charges and causing severe financial strain for distressed borrowers.
               </p>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 For borrowers experiencing severe economic disruptions—such as job loss, business failure, or critical illness—these automated charges compound into an acute burden. Non-payment of an unsecured personal loan is strictly a civil contractual matter under the Indian Contract Act, 1872. Under Reserve Bank of India (RBI) regulations, distressed borrowers hold enforceable legal rights to halt collection harassment and seek compromise One-Time Settlements (OTS).
@@ -373,9 +373,9 @@ export default function BajajFinancePersonalLoanSettlementClient() {
                 <Clock className="w-4 h-4" />
                 <span>2. Delinquency Timeline &amp; NPA Stages</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 Bajaj Finance Delinquency Stages
-              </h2>
+              </h3>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Bajaj Finance follows RBI Prudential Norms on Income Recognition, Asset Classification and Provisioning (IRACP). It also applies Expected Credit Loss (ECL) standards under Ind AS 109. Using these guidelines, Bajaj categorizes overdue retail loans into operational Days Past Due (DPD) buckets. Timing your settlement petition to match these stages is critical for maximizing debt waivers.
               </p>
@@ -415,7 +415,7 @@ export default function BajajFinancePersonalLoanSettlementClient() {
                       <td>61 – 90 Days</td>
                       <td>Doorstep visits, demand for overdue clearance, recall warnings.</td>
                       <td>Statutory Section 25 PSSA / Section 138 notices sent.</td>
-                      <td>Moderate (Penal fee waiver negotiations start).</td>
+                      <td>Moderate (Penal fee waiver talks start).</td>
                     </tr>
                     <tr>
                       <td className="font-bold text-amber-700">NPA (Substandard Asset)</td>
@@ -446,9 +446,9 @@ export default function BajajFinancePersonalLoanSettlementClient() {
                 <Banknote className="w-4 h-4" />
                 <span>3. Stopping NACH Bounce Charges &amp; Penal Fees</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 How to Stop Bajaj Finance Bounce Charges & NACH Hits
-              </h2>
+              </h3>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Compounding bounce penalties represent a severe hazard for delinquent Bajaj Finance borrowers. When an EMI mandate bounces, the destination bank deducts ₹250 to ₹500 plus GST, while Bajaj Finance levies an internal penalty of ₹450 to ₹1,000+. When the lender presents the debit mandate two or three times monthly, peripheral charges rapidly total thousands of rupees.
               </p>
@@ -459,7 +459,7 @@ export default function BajajFinancePersonalLoanSettlementClient() {
                 First, borrowers have strong statutory rights under NPCI regulations and RBI consumer protection guidelines. You can instruct your destination bank in writing or through net banking to cancel or suspend the e-NACH mandate. This prevents recurring bounce penalties.
               </p>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
-                Second, during formal OTS negotiations, legal counsel must demand a 100% waiver of all accumulated bounce fees, late charges, and penal interest. In approved compromise settlements, Bajaj Finance completely wipes out these levies, focusing solely on the discounted core principal balance.
+                Second, during formal OTS talks, legal counsel must demand a 100% waiver of all accumulated bounce fees, late charges, and penal interest. In approved compromise settlements, Bajaj Finance completely wipes out these levies, focusing solely on the discounted core principal balance.
               </p>
             </section>
 
@@ -469,9 +469,9 @@ export default function BajajFinancePersonalLoanSettlementClient() {
                 <Calculator className="w-4 h-4" />
                 <span>4. OTS Haircut Policies &amp; Valuation Framework</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 Bajaj Finance One-Time Settlement (OTS) &amp; Haircut Valuation Matrix
-              </h2>
+              </h3>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Under the RBI Master Direction on Compromise Settlements (DOR.STR.REC.20/21.04.048/2023-24), Bajaj Finance maintains a board-approved compromise settlement framework. Rather than acting on arbitrary discretion, the NBFC evaluates proposals using a mathematical Net Present Value (NPV) recovery methodology.
               </p>
@@ -480,20 +480,20 @@ export default function BajajFinancePersonalLoanSettlementClient() {
               </p>
 
               <div className="bg-slate-900 text-white p-5 md:p-6 rounded-2xl my-6 shadow-md border border-slate-800">
-                <h3 className="text-base font-bold text-blue-400 mb-2 flex items-center gap-2">
+                <h4 className="text-base font-bold text-blue-400 mb-2 flex items-center gap-2">
                   <Calculator className="w-5 h-5 text-[#1F5EFF]" />
                   <span>The NBFC Net Present Value (NPV) Settlement Equation</span>
-                </h3>
+                </h4>
                 <div className="p-3.5 bg-slate-800 rounded-xl font-mono text-xs sm:text-sm text-emerald-400 border border-slate-700 mb-3">
                   NPV Recovery = (Estimated Court Realization - Advocate Fees - Collection Cost) / (1 + Cost of Funds)^Time (Years)
                 </div>
                 <p className="text-xs text-slate-400 leading-relaxed">
-                  For Doubtful or Loss accounts with substantial ECL provisioning recognized, accepting a 40% to 55% settlement generates a direct positive cash write-back, making compromise settlements financially superior to prolonged litigation.
+                  For Doubtful or Loss accounts with large ECL provisioning recognized, accepting a 40% to 55% settlement generates a direct positive cash write-back, making compromise settlements financially superior to prolonged litigation.
                 </p>
               </div>
 
               {/* Settlement Haircut Slabs Table */}
-              <h3 className="text-lg font-bold text-slate-900 mb-3">Realistic Bajaj Finance Settlement Haircut Slabs by Product &amp; Aging</h3>
+              <h4 className="text-lg font-bold text-slate-900 mb-3">Realistic Bajaj Finance Settlement Haircut Slabs by Product &amp; Aging</h4>
               <div className="overflow-x-auto my-4">
                 <table className="min-w-full bg-white">
                   <thead>
@@ -525,7 +525,7 @@ export default function BajajFinancePersonalLoanSettlementClient() {
                       <td>90 – 180 Days</td>
                       <td>100% Waived</td>
                       <td>25% – 40% Waiver</td>
-                      <td>Offer 45% of Utilized Dues</td>
+                      <td>Offer 45% of used Dues</td>
                     </tr>
                     <tr>
                       <td className="font-bold text-slate-900">Bajaj Insta EMI Card / Consumer Loan</td>
@@ -552,9 +552,9 @@ export default function BajajFinancePersonalLoanSettlementClient() {
                       <span className="text-[10px] font-black uppercase tracking-widest text-blue-300 block">
                         Legal Defense &amp; Action Blueprint
                       </span>
-                      <h3 className="text-sm md:text-base font-black text-white leading-tight">
+                      <h4 className="text-sm md:text-base font-black text-white leading-tight">
                         Bajaj Finance Personal Loan Settlement &amp; Defense Blueprint
-                      </h3>
+                      </h4>
                     </div>
                   </div>
                   <a
@@ -601,9 +601,9 @@ export default function BajajFinancePersonalLoanSettlementClient() {
                 <ShieldAlert className="w-4 h-4" />
                 <span>5. Recovery Practices &amp; RBI Harassment Defense</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 Defending Against Aggressive Recovery Under RBI Directives
-              </h2>
+              </h3>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Bajaj Finance deploys extensive third-party Debt Recovery Agencies (DRAs) whose field personnel operate under commission incentives. In distress situations, these agents often overstep legal boundaries through persistent calling, unannounced workplace visits, and contacting non-guarantor relatives or colleagues whose numbers were collected during digital onboarding.
               </p>
@@ -621,9 +621,9 @@ export default function BajajFinancePersonalLoanSettlementClient() {
                 <Layers className="w-4 h-4" />
                 <span>6. Step-by-Step NBFC Settlement Roadmap</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 Step-by-Step Guide: Compromise Settlement with Bajaj Finance
-              </h2>
+              </h3>
               <p className="text-slate-700 leading-relaxed mb-6 text-base md:text-lg">
                 Navigating a compromise settlement with Bajaj Finance requires structured financial preparation and firm legal representation:
               </p>
@@ -631,10 +631,10 @@ export default function BajajFinancePersonalLoanSettlementClient() {
               <div className="space-y-6">
                 {/* Phase 1 */}
                 <div className="p-6 rounded-2xl bg-white border border-slate-200 shadow-sm">
-                  <h3 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
+                  <h4 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
                     <span className="w-7 h-7 rounded-lg bg-blue-50 text-[#1F5EFF] font-black text-sm flex items-center justify-center border border-blue-200">1</span>
                     Financial Audit &amp; Hardship Compilation
-                  </h3>
+                  </h4>
                   <p className="text-slate-600 text-sm md:text-base leading-relaxed">
                     Assemble verifiable evidence of involuntary financial disruption, including severance letters, medical treatment records, or audited loss statements. Consecutive bank statements showing depleted liquidity prove default is non-wilful.
                   </p>
@@ -642,10 +642,10 @@ export default function BajajFinancePersonalLoanSettlementClient() {
 
                 {/* Phase 2 */}
                 <div className="p-6 rounded-2xl bg-white border border-slate-200 shadow-sm">
-                  <h3 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
+                  <h4 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
                     <span className="w-7 h-7 rounded-lg bg-blue-50 text-[#1F5EFF] font-black text-sm flex items-center justify-center border border-blue-200">2</span>
-                    Revoking NACH Mandates &amp; Channeling Communication
-                  </h3>
+                    Revoking NACH Mandates &amp; Channeling notice
+                  </h4>
                   <p className="text-slate-600 text-sm md:text-base leading-relaxed">
                     Stop NACH debit presentations at your bank to eliminate return charges. Direct all settlement discussions in writing to Bajaj Finance&apos;s Zonal Stressed Assets Desk.
                   </p>
@@ -653,10 +653,10 @@ export default function BajajFinancePersonalLoanSettlementClient() {
 
                 {/* Phase 3 */}
                 <div className="p-6 rounded-2xl bg-white border border-slate-200 shadow-sm">
-                  <h3 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
+                  <h4 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
                     <span className="w-7 h-7 rounded-lg bg-blue-50 text-[#1F5EFF] font-black text-sm flex items-center justify-center border border-blue-200">3</span>
                     Submitting Formal Hardship Representation
-                  </h3>
+                  </h4>
                   <p className="text-slate-600 text-sm md:text-base leading-relaxed">
                     Submit a structured OTS petition citing the RBI Master Direction on Compromise Settlements. Anchor an opening settlement offer at 25% to 35% of total ledger dues.
                   </p>
@@ -664,21 +664,21 @@ export default function BajajFinancePersonalLoanSettlementClient() {
 
                 {/* Phase 4 */}
                 <div className="p-6 rounded-2xl bg-white border border-slate-200 shadow-sm">
-                  <h3 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
+                  <h4 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
                     <span className="w-7 h-7 rounded-lg bg-blue-50 text-[#1F5EFF] font-black text-sm flex items-center justify-center border border-blue-200">4</span>
-                    Managing Counter-Demands &amp; Negotiations
-                  </h3>
+                    Managing Counter-Demands &amp; talks
+                  </h4>
                   <p className="text-slate-600 text-sm md:text-base leading-relaxed">
-                    Reiterate the absence of disposable income and demonstrate settlement funds are pooled from third-party relatives, steering the committee toward target 40% to 55% approvals.
+                    Reiterate the absence of disposable income and show settlement funds are pooled from third-party relatives, steering the committee toward target 40% to 55% approvals.
                   </p>
                 </div>
 
                 {/* Phase 5 */}
                 <div className="p-6 rounded-2xl bg-white border border-slate-200 shadow-sm">
-                  <h3 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
+                  <h4 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
                     <span className="w-7 h-7 rounded-lg bg-blue-50 text-[#1F5EFF] font-black text-sm flex items-center justify-center border border-blue-200">5</span>
                     Rigorous Sanction Letter Audit
-                  </h3>
+                  </h4>
                   <p className="text-slate-600 text-sm md:text-base leading-relaxed">
                     Verify an official OTS Sanction Letter on Bajaj Finance Limited letterhead containing loan account details, exact settlement figures, payment deadlines, and full debt extinguishment covenants.
                   </p>
@@ -686,10 +686,10 @@ export default function BajajFinancePersonalLoanSettlementClient() {
 
                 {/* Phase 6 */}
                 <div className="p-6 rounded-2xl bg-white border border-slate-200 shadow-sm">
-                  <h3 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
+                  <h4 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
                     <span className="w-7 h-7 rounded-lg bg-blue-50 text-[#1F5EFF] font-black text-sm flex items-center justify-center border border-blue-200">6</span>
                     Direct Account Payment &amp; Securing ₹0 NDC
-                  </h3>
+                  </h4>
                   <p className="text-slate-600 text-sm md:text-base leading-relaxed">
                     Remit the settlement sum directly into your official Bajaj Finance loan account through RTGS/NEFT. Under RBI Circular RBI/2023-24/60, Bajaj Finance must issue a No Dues Certificate within 30 calendar days.
                   </p>
@@ -703,9 +703,9 @@ export default function BajajFinancePersonalLoanSettlementClient() {
                 <Gavel className="w-4 h-4" />
                 <span>7. Section 25 Notices, Section 138 &amp; Lok Adalat</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 Section 25 PSSA Notices, Arbitration & Lok Adalat
-              </h2>
+              </h3>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 When a personal loan crosses 60 to 90 days of default, Bajaj Finance issues statutory demand notices. These notices fall under Section 25 of the Payment and Settlement Systems Act, 2007 (PSSA) for dishonoured NACH mandates. The lender may also dispatch notices invoking private arbitration.
               </p>
@@ -713,7 +713,7 @@ export default function BajajFinancePersonalLoanSettlementClient() {
                 A Section 25 PSSA notice is a statutory precursor to a Magistrate Court complaint, not an arrest warrant. Responding through an advocate detailing genuine hardship and contesting improper mandate presentations protects your legal standing while establishing conciliation channels.
               </p>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
-                Furthermore, Bajaj Finance regularly participates in quarterly National Lok Adalats organized by District Legal Services Authorities (DLSA) under the Legal Services Authorities Act, 1987. In Lok Adalat sessions, NBFC representatives carry pre-approved settlement mandates (often 45% to 65% haircuts). The resulting settlement award holds the power of a binding Civil Court Decree with non-appealable finality.
+                also, Bajaj Finance regularly participates in quarterly National Lok Adalats organized by District Legal Services Authorities (DLSA) under the Legal Services Authorities Act, 1987. In Lok Adalat sessions, NBFC agents carry pre-approved settlement mandates (often 45% to 65% haircuts). The resulting settlement award holds the power of a binding Civil Court Decree with non-appealable finality.
               </p>
 
               <div className="overflow-x-auto my-6">
@@ -751,7 +751,7 @@ export default function BajajFinancePersonalLoanSettlementClient() {
                     </tr>
                     <tr>
                       <td className="font-bold text-slate-900">Section 25 / 138 Defense</td>
-                      <td>Magistrate court compoundable proceedings defense.</td>
+                      <td>Magistrate court compoundable cases defense.</td>
                       <td><strong>35% – 55% Debt Haircut</strong></td>
                       <td>2 to 6 Months</td>
                       <td>Formal withdrawal and case disposal.</td>
@@ -767,9 +767,9 @@ export default function BajajFinancePersonalLoanSettlementClient() {
                 <FileCheck className="w-4 h-4" />
                 <span>8. Sanction Letter Audit &amp; ₹0 NDC Mandate</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 Authenticating Bajaj Settlement Letters & Enforcing NDC
-              </h2>
+              </h3>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 A major hazard in retail debt recovery involves rogue collection agents issuing unverified settlement letters to collect partial payments. If funds are paid against an unauthorized letter, Bajaj Finance credits the money toward accumulated penal interest, leaving the core default open.
               </p>
@@ -777,19 +777,19 @@ export default function BajajFinancePersonalLoanSettlementClient() {
                 Borrowers must carefully verify the OTS sanction letter. Ensure it is printed on official Bajaj Finance Limited letterhead. The document must show the Corporate Identification Number (CIN) and the Pune registered office address. It must also feature a unique proposal reference number and the authorized officer&apos;s signature with employee ID.
               </p>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
-                The letter must explicitly declare that upon payment of the agreed sum, the account is fully discharged with zero further liability. Under RBI Circular RBI/2023-24/60, Bajaj Finance must deliver the No Dues Certificate (NDC) and cancel all security mandates within 30 days, or pay mandatory statutory compensation of ₹5,000 per day of delay.
+                The letter must explicitly declare that upon payment of the agreed sum, the account is fully discharged with zero further liability. Under RBI Circular RBI/2023-24/60, Bajaj Finance must deliver the No Dues Certificate (NDC) and cancel all security mandates within 30 days, or pay mandatory statutory relief of ₹5,000 per day of delay.
               </p>
             </section>
 
-            {/* Section 10: CIBIL Score Trajectory & Rehabilitation */}
-            <section id="cibil-impact-credit-rehabilitation" className="scroll-mt-24 mb-12">
+            {/* Section 10: CIBIL Score Trajectory & recovery */}
+            <section id="cibil-impact-credit-recovery" className="scroll-mt-24 mb-12">
               <div className="inline-flex items-center gap-2 text-xs font-bold text-[#1F5EFF] uppercase tracking-wider mb-2">
                 <TrendingUp className="w-4 h-4" />
-                <span>9. CIBIL Score Trajectory &amp; Rehabilitation</span>
+                <span>9. CIBIL Score Trajectory &amp; recovery</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 CIBIL Score Trajectory & 18-Month Recovery Plan
-              </h2>
+              </h3>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Completing a settlement with Bajaj Finance leads to the account being reported to all credit bureaus (CIBIL, Experian, Equifax, CRIF High Mark) as <strong>&apos;Settled&apos;</strong> or <strong>&apos;Post-Write-off Settled&apos;</strong> with an outstanding balance of exactly <strong>₹0</strong>. This causes an initial credit score drop of 75 to 150 points.
               </p>
@@ -797,7 +797,7 @@ export default function BajajFinancePersonalLoanSettlementClient() {
                 Under RBI compromise directives, a mandatory 12-month cooling-off period applies before fresh unsecured loans can be granted. However, a &apos;Settled&apos; record with ₹0 balance is far better than an active &apos;Default&apos; status that degrades credit scores every month and attracts litigation.
               </p>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
-                Borrowers can restore their credit profile to 750+ within 18 to 24 months. You can start by acquiring a fixed-deposit-backed credit card (FD card). Maintain credit utilization strictly under 25%. In addition, ensure prompt payments on all living expenses and secured obligations.
+                Borrowers can restore their credit profile to 750+ within 18 to 24 months. You can start by acquiring a fixed-deposit-backed credit card (FD card). Maintain credit use strictly under 25%. In addition, ensure prompt payments on all living expenses and secured debts.
               </p>
             </section>
 
@@ -807,9 +807,9 @@ export default function BajajFinancePersonalLoanSettlementClient() {
                 <ShieldCheck className="w-4 h-4" />
                 <span>10. Legal Defense &amp; Representation</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 Why Distressed Bajaj Finance Borrowers Trust SettleLoans
-              </h2>
+              </h3>
               <p className="text-slate-700 leading-relaxed mb-6 text-base md:text-lg">
                 Negotiating a debt settlement with an automated, aggressive lender like Bajaj Finance requires experienced legal defense. SettleLoans halts collection harassment through formal cease-and-desist notices, defends against Section 25 PSSA notices, and negotiates directly with Bajaj Finance&apos;s Zonal Stressed Assets Committees to achieve maximum lawful debt waivers.
               </p>
@@ -826,9 +826,9 @@ export default function BajajFinancePersonalLoanSettlementClient() {
                 <HelpCircle className="w-4 h-4" />
                 <span>11. Frequently Asked Questions</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
                 FAQs: Bajaj Finance Personal Loan Settlement
-              </h2>
+              </h3>
 
               <div className="space-y-3">
                 {faqs.map((faq, index) => (
@@ -845,10 +845,10 @@ export default function BajajFinancePersonalLoanSettlementClient() {
 
             {/* Regulatory References & Official Sources Strip */}
             <div className="bg-slate-50 border border-slate-200 rounded-2xl p-6 my-10">
-              <h3 className="text-base font-bold text-slate-900 mb-4 flex items-center gap-2">
+              <h4 className="text-base font-bold text-slate-900 mb-4 flex items-center gap-2">
                 <Landmark className="w-5 h-5 text-[#1F5EFF]" />
                 Official Regulatory References &amp; Statutory Circulars
-              </h3>
+              </h4>
               <ul className="space-y-3 text-xs text-slate-600">
                 <li className="flex items-start gap-2">
                   <ExternalLink className="w-4 h-4 text-[#1F5EFF] flex-shrink-0 mt-0.5" />
@@ -910,10 +910,10 @@ export default function BajajFinancePersonalLoanSettlementClient() {
 
             {/* Related Guides & Resources Strip (10 Topic Badges) */}
             <div className="bg-slate-50 border border-slate-200 rounded-2xl p-6 my-10">
-              <h3 className="text-base font-bold text-slate-900 mb-4 flex items-center gap-2">
+              <h4 className="text-base font-bold text-slate-900 mb-4 flex items-center gap-2">
                 <BookOpen className="w-5 h-5 text-[#1F5EFF]" />
                 Explore Related Banking &amp; Debt Resolution Guides
-              </h3>
+              </h4>
               <div className="flex flex-wrap gap-2.5">
                 <Link
                   href="/bank-one-time-settlement-ots-policy"
@@ -1002,7 +1002,7 @@ export default function BajajFinancePersonalLoanSettlementClient() {
                 </div>
               </div>
               <p className="text-xs text-slate-600 leading-relaxed mb-4">
-                Ashish has led over 1,200+ successful debt compromise negotiations across Bajaj Finance, HDFC Bank, SBI, and ICICI Bank. He specializes in NBFC recovery dispute defense, SARB conciliation, and borrower protection under RBI Master Directions.
+                Ashish has led over 1,200+ successful debt compromise talks across Bajaj Finance, HDFC Bank, SBI, and ICICI Bank. He specializes in NBFC recovery dispute defense, SARB conciliation, and borrower protection under RBI Master Directions.
               </p>
               <div className="pt-3 border-t border-slate-100 flex items-center justify-between text-xs font-semibold">
                 <Link
@@ -1022,7 +1022,7 @@ export default function BajajFinancePersonalLoanSettlementClient() {
               </div>
             </div>
 
-            {/* Card 2: Emergency Advocate Assistance CTA */}
+            {/* Card 2: Emergency Advocate help CTA */}
             <div className="bg-gradient-to-br from-[#1F5EFF] to-blue-700 text-white rounded-2xl p-6 shadow-lg">
               <div className="flex items-center gap-2 text-blue-100 text-xs font-bold uppercase tracking-wider mb-2">
                 <PhoneCall className="w-4 h-4" />
@@ -1052,7 +1052,7 @@ export default function BajajFinancePersonalLoanSettlementClient() {
                 <li className="flex items-start gap-2.5">
                   <Check className="w-4 h-4 text-emerald-600 flex-shrink-0 mt-0.5" />
                   <span>
-                    <strong>Direct NBFC Negotiations:</strong> We bypass third-party collection agencies to represent your case before Bajaj Finance Zonal Credit Committees.
+                    <strong>Direct NBFC talks:</strong> We bypass third-party collection agencies to represent your case before Bajaj Finance Zonal Credit Committees.
                   </span>
                 </li>
                 <li className="flex items-start gap-2.5">

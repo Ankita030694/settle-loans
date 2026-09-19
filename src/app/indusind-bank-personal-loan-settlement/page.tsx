@@ -558,9 +558,9 @@ export default function IndusIndBankPersonalLoanSettlementPage() {
 
             {/* Section 2: Pre-Litigation Machinery & Statutory Summons Defense */}
             <section id="indusind-pre-litigation-notices-section-25" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                 2. IndusInd Pre-Litigation Machinery, Section 25 PSSA Notices &amp; Statutory Defense
-              </h2>
+              </h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 As a delinquent personal loan transitions from SMA-2 into NPA status, IndusInd Bank&apos;s legal collection vertical routinely issues statutory legal notices. Empanelled legal firms representing the bank deploy these instruments to establish a formal paper trail and encourage the borrower to resolve outstanding liabilities. Distinguishing between genuine statutory proceedings and tactical collection communications is essential.
               </p>
@@ -612,9 +612,9 @@ export default function IndusIndBankPersonalLoanSettlementPage() {
 
             {/* Section 3: Banker's Lien & Harassment Shield */}
             <section id="bankers-lien-section-171-harassment-defense" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                 3. Section 171 Banker&apos;s Lien, Account Freezes &amp; Harassment Defense
-              </h2>
+              </h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 A critical legal issue encountered by distressed borrowers is the sudden debiting or freezing of funds in their savings accounts. Under Section 171 of the Indian Contract Act, 1872, banking institutions possess the statutory <em>Right of General Lien and Set-Off</em>. This grants IndusInd Bank the legal authority to deduct funds from any savings account, salary account, current account, fixed deposit, or Pioneer wealth relationship maintained under the borrower&apos;s Customer Identification File (CIF) or PAN to offset delinquent personal loan dues.
               </p>
@@ -627,9 +627,9 @@ export default function IndusIndBankPersonalLoanSettlementPage() {
                   While IndusInd Bank can lawfully exercise general lien rights over accounts maintained within IndusInd Bank, <strong>the bank has zero legal power to freeze, attach, or debit funds held in independent third-party banks</strong> (such as State Bank of India, HDFC Bank, or ICICI Bank) without an explicit judicial attachment decree from a competent Civil Court. Borrowers facing severe delinquency should promptly divert active salary credits and emergency reserves to an independent banking institution to maintain basic household liquidity.
                 </p>
               </div>
-              <h3 className="text-base sm:text-lg font-bold text-slate-900 pt-2">
+              <h4 className="text-base sm:text-lg font-bold text-slate-900 pt-2">
                 Statutory Defense Against Third-Party Recovery Agent Harassment
-              </h3>
+              </h4>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 When personal loans remain overdue beyond 60 days, IndusInd Bank routinely engages empanelled third-party Debt Recovery Agencies (DRAs). All collection conduct is strictly governed by the <strong>RBI Master Directions on Recovery Agents and Conduct (2022)</strong> and the statutory Fair Practices Code. Borrowers are protected by enforceable regulatory mandates:
               </p>
@@ -658,9 +658,9 @@ export default function IndusIndBankPersonalLoanSettlementPage() {
 
             {/* Section 4: NPA Accounting & Net Present Value (NPV) Equation */}
             <section id="indusind-npa-accounting-npv-formula" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                 4. IndusInd Bank Accounting, NPA Provisioning &amp; The Net Present Value (NPV) Equation
-              </h2>
+              </h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Securing a favorable One-Time Settlement with IndusInd Bank requires understanding the financial pressures governing commercial bank balance sheets. Under Reserve Bank of India provisioning guidelines, banks cannot carry defaulted loans indefinitely without setting aside statutory capital reserves from operating profits to absorb potential credit losses.
               </p>
@@ -727,9 +727,9 @@ export default function IndusIndBankPersonalLoanSettlementPage() {
 
             {/* Section 5: Infographic Banner */}
             <section id="indusind-settlement-visual-roadmap" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                 5. IndusInd Bank Personal Loan Settlement Visual Roadmap
-              </h2>
+              </h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 The infographic below illustrates the 5-step institutional lifecycle from initial default and statutory notice defense to hardship file submission, sanction letter forensic audit, and final ₹0 No Dues Certificate delivery.
               </p>
@@ -764,9 +764,9 @@ export default function IndusIndBankPersonalLoanSettlementPage() {
 
             {/* Section 6: Direct Negotiation Strategy with IndusInd Stressed Asset Desks */}
             <section id="direct-negotiation-strategy-nodal-desks" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                 6. Direct Negotiation Strategy with IndusInd Stressed Asset Desks &amp; Legal Nodal Officers
-              </h2>
+              </h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 A common misstep among defaulting borrowers is attempting to negotiate settlement concessions with third-party recovery tele-callers or visiting field agents. Outsourced collection agencies operate on recovery commission quotas; they lack delegated financial powers to write off principal balances or issue legally binding settlement letters. Verbal promises made by collection callers carry zero legal weight and often lead to partial deposits being consumed by accumulated penal charges.
               </p>
@@ -776,19 +776,19 @@ export default function IndusIndBankPersonalLoanSettlementPage() {
               
               <div className="space-y-3 my-4">
                 <div className="p-4 rounded-xl border-l-4 border-blue-600 bg-slate-50 space-y-1">
-                  <h3 className="font-bold text-slate-900 text-xs sm:text-sm">Phase 1: Hardship Documentation Dossier</h3>
+                  <h4 className="font-bold text-slate-900 text-xs sm:text-sm">Phase 1: Hardship Documentation Dossier</h4>
                   <p className="text-xs text-slate-600 leading-relaxed">
                     A formal OTS proposal must be supported by comprehensive documentary proof. This includes hospital discharge summaries, medical expense records, employment termination notices, salary reduction slips, GST surrender certificates, or bank statements demonstrating acute insolvency. The goal is to prove genuine inability to pay rather than wilful default.
                   </p>
                 </div>
                 <div className="p-4 rounded-xl border-l-4 border-indigo-600 bg-slate-50 space-y-1">
-                  <h4 className="font-bold text-slate-900 text-xs sm:text-sm">Phase 2: Direct Escalation to Stressed Asset Desks</h4>
+                  <h5 className="font-bold text-slate-900 text-xs sm:text-sm">Phase 2: Direct Escalation to Stressed Asset Desks</h5>
                   <p className="text-xs text-slate-600 leading-relaxed">
                     Our legal team bypasses recovery agency intermediaries and submits the settlement proposal directly to IndusInd Bank&apos;s Zonal Stressed Asset Management Division, the Central Settlement Committee, and the Principal Nodal Officer. This eliminates intermediary markups and prevents unauthorized promises.
                   </p>
                 </div>
                 <div className="p-4 rounded-xl border-l-4 border-amber-600 bg-slate-50 space-y-1">
-                  <h4 className="font-bold text-slate-900 text-xs sm:text-sm">Phase 3: Financial Anchoring &amp; Multi-Tranche Structuring</h4>
+                  <h5 className="font-bold text-slate-900 text-xs sm:text-sm">Phase 3: Financial Anchoring &amp; Multi-Tranche Structuring</h5>
                   <p className="text-xs text-slate-600 leading-relaxed">
                     Initial bank counter-offers typically demand 70% to 80% of the ledger balance. Through iterative legal representation and anchoring against the bank&apos;s 100% provisioning absorption, the payable sum is negotiated down to 35% to 55% of the principal debt, structured as a single lump sum or 2 to 4 manageable installments.
                   </p>
@@ -801,9 +801,9 @@ export default function IndusIndBankPersonalLoanSettlementPage() {
 
             {/* Section 7: Sanction Letter Forensics: Verifying Authenticity */}
             <section id="sanction-letter-forensics-authenticity" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                 7. Sanction Letter Forensics: Verifying Authenticity &amp; Eliminating Traps
-              </h2>
+              </h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Prior to remitting any settlement funds, the borrower must conduct a rigorous forensic audit of the One-Time Settlement (OTS) Sanction Letter. Unscrupulous recovery agents have been known to circulate unauthorized letters or informal payment receipts to meet monthly collection quotas, leaving the borrower with an active loan liability.
               </p>
@@ -862,9 +862,9 @@ export default function IndusIndBankPersonalLoanSettlementPage() {
 
             {/* Section 8: Loan Remittance, RBI ₹0 NDC & Credit Recovery */}
             <section id="remittance-rbi-ndc-mandate-cibil-recovery" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                 8. Loan Remittance, RBI ₹0 No Dues Certificate Mandate &amp; CIBIL Trajectory
-              </h2>
+              </h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Following the successful deposit of the agreed settlement sum, the final phase of debt extinguishment commences. Under <strong>RBI Circular RBI/2023-24/60</strong> (Responsible Lending Conduct – Release of Movable / Immovable Property Documents and Issuance of NDC), all regulated banking entities, including IndusInd Bank, are statutorily obligated to deliver an official <strong>No Dues Certificate (NDC) / Loan Closure Letter</strong> and update credit information bureaus within <strong>30 calendar days</strong> of receiving the final settlement tranche.
               </p>
@@ -878,9 +878,9 @@ export default function IndusIndBankPersonalLoanSettlementPage() {
                 </p>
               </div>
               
-              <h3 className="text-base sm:text-lg font-bold text-slate-900 pt-2">
+              <h4 className="text-base sm:text-lg font-bold text-slate-900 pt-2">
                 CIBIL Score Trajectory &amp; Structured Financial Rehabilitation
-              </h3>
+              </h4>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Borrowers should maintain practical expectations regarding credit bureau reporting following a compromise settlement:
               </p>
@@ -906,9 +906,9 @@ export default function IndusIndBankPersonalLoanSettlementPage() {
 
             {/* Section 9: Comprehensive Resolution Matrix */}
             <section id="indusind-settlement-comparative-matrix" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                 9. Comprehensive Resolution Matrix: Settlement vs Restructuring vs Lok Adalat vs Litigation
-              </h2>
+              </h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Evaluating different debt resolution pathways enables borrowers to make informed financial and legal choices when managing overdue IndusInd personal loans:
               </p>
@@ -961,9 +961,9 @@ export default function IndusIndBankPersonalLoanSettlementPage() {
             {/* Section 10: SettleLoans Legal Defense & Advisory + CompanySection */}
             <section id="company-resolution-section" className="space-y-6">
               <div className="border-t border-slate-200 pt-8 space-y-4">
-                <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
+                <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                   10. SettleLoans Legal Defense &amp; IndusInd Bank Debt Advisory Framework
-                </h2>
+                </h3>
                 <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                   Managing an institutional credit dispute against IndusInd Bank demands seasoned financial negotiation acumen and robust legal representation. SettleLoans advocates protect distressed borrowers nationwide, providing an end-to-end legal shield against unlawful recovery harassment, drafting statutory replies to Section 25 PSSA and Section 138 notices, and negotiating directly with IndusInd Bank&apos;s Zonal Stressed Asset Management committees to lock in maximum settlement haircuts alongside official, bank-stamped No Dues Certificates.
                 </p>
@@ -977,9 +977,9 @@ export default function IndusIndBankPersonalLoanSettlementPage() {
             <section id="faqs" className="space-y-4 border-t border-slate-200 pt-8">
               <div className="flex items-center gap-2 mb-2">
                 <HelpCircle className="w-5 h-5 text-[#1F5EFF]" />
-                <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
+                <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                   11. Frequently Asked Questions: IndusInd Bank Loan Settlement
-                </h2>
+                </h3>
               </div>
               <p className="text-xs sm:text-sm text-slate-600 mb-6">
                 Legally verified, authoritative answers to essential questions regarding IndusInd Bank personal loan settlements, recovery regulations, and credit score rehabilitation.
@@ -1009,9 +1009,9 @@ export default function IndusIndBankPersonalLoanSettlementPage() {
 
             {/* 5 Official Regulatory Links */}
             <section className="border-t border-slate-200 pt-8 mb-4">
-              <h3 className="text-xs sm:text-sm font-bold text-slate-900 mb-3 uppercase tracking-wider">
+              <h4 className="text-xs sm:text-sm font-bold text-slate-900 mb-3 uppercase tracking-wider">
                 Official Statutory &amp; Regulatory References
-              </h3>
+              </h4>
               <div className="grid grid-cols-1 sm:grid-cols-2 gap-2.5 text-xs">
                 <a
                   href="https://www.rbi.org.in"
@@ -1063,9 +1063,9 @@ export default function IndusIndBankPersonalLoanSettlementPage() {
 
             {/* 10 Related Guide Badges */}
             <section className="border-t border-slate-200 pt-8 mb-8">
-              <h3 className="text-xs sm:text-sm font-bold text-slate-900 mb-4 uppercase tracking-wider">
+              <h4 className="text-xs sm:text-sm font-bold text-slate-900 mb-4 uppercase tracking-wider">
                 Related Loan Settlement &amp; Legal Defense Guides
-              </h3>
+              </h4>
               <div className="flex flex-wrap gap-2">
                 <Link
                   href="/axis-bank-personal-loan-settlement"

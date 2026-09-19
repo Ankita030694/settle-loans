@@ -260,22 +260,22 @@ export default function EMIVsTenurePage() {
             </section>
 
             <section id="how-part-payment-works" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 How Part Payment Actually Works
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 Before deciding whether to reduce EMI or tenure after part payment, you must understand the underlying math. Your loan consists of the Principal (the money you borrowed) and the Interest (the bank's fee).
               </p>
 
               <div className="grid md:grid-cols-2 gap-6 my-8">
                 <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
-                  <h3 className="font-black text-[#1F5EFF] text-lg mb-3">100% Principal Reduction</h3>
+                  <h4 className="font-black text-[#1F5EFF] text-lg mb-3">100% Principal Reduction</h4>
                   <p className="text-gray-700 leading-relaxed">
                     When you make a part payment, the entire amount goes directly toward reducing your outstanding principal. None of it goes toward interest.
                   </p>
                 </div>
                 <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
-                  <h4 className="font-black text-[#1F5EFF] text-lg mb-3">The Recalculation</h4>
+                  <h5 className="font-black text-[#1F5EFF] text-lg mb-3">The Recalculation</h5>
                   <p className="text-gray-700 leading-relaxed">
                     Because your principal is now lower, the bank must recalculate your loan. They can either stretch the new, smaller balance over your original remaining time (lowering EMI) or keep your payments high to kill the balance faster (lowering tenure).
                   </p>
@@ -284,15 +284,15 @@ export default function EMIVsTenurePage() {
             </section>
 
             <section id="reduce-tenure" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 Option 1: Reduce Tenure (The Wealth Builder)
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 If you choose to keep your EMI constant and reduce your tenure, you are making an aggressive move to become debt-free faster. This is almost always the mathematically superior choice.
               </p>
 
               <div className="bg-blue-50 border-l-8 border-[#1F5EFF] p-8 rounded-r-2xl mb-8">
-                <h3 className="text-xl font-black text-[#1F5EFF] mb-4">Why Reducing Tenure Wins</h3>
+                <h4 className="text-xl font-black text-[#1F5EFF] mb-4">Why Reducing Tenure Wins</h4>
                 <p className="text-blue-900 text-lg leading-relaxed mb-4">
                   By continuing to pay the same high EMI against a reduced principal, a much larger portion of your monthly payment goes toward the principal rather than interest.
                 </p>
@@ -314,9 +314,9 @@ export default function EMIVsTenurePage() {
             </section>
 
             <section id="reduce-emi" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 Option 2: Reduce EMI (The Cashflow Saver)
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 If you choose to reduce your EMI and keep the loan tenure the same, the bank stretches your smaller outstanding principal over the remaining months. 
               </p>
@@ -337,9 +337,9 @@ export default function EMIVsTenurePage() {
             </section>
 
             <section id="lower-emi-vs-lower-tenure" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 Lower EMI vs Lower Tenure: The Verdict
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 Let's look at a hypothetical example. Suppose you have an outstanding loan of ₹50 Lakhs at 9% interest with 15 years remaining. You make a part payment of ₹5 Lakhs.
               </p>
@@ -348,7 +348,7 @@ export default function EMIVsTenurePage() {
                 <div className="flex gap-6">
                   <div className="flex-shrink-0 w-12 h-12 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center font-black text-xl shadow-lg">1</div>
                   <div>
-                    <h3 className="text-2xl font-bold text-[#2E2E2E] mb-2">Scenario A: Reduce Tenure</h3>
+                    <h4 className="text-2xl font-bold text-[#2E2E2E] mb-2">Scenario A: Reduce Tenure</h4>
                     <p className="text-lg text-gray-700 leading-relaxed">
                       Your EMI remains ₹50,713. Your tenure drops from 180 months to approximately 148 months. You save nearly ₹11.5 Lakhs in total interest.
                     </p>
@@ -358,7 +358,7 @@ export default function EMIVsTenurePage() {
                 <div className="flex gap-6">
                   <div className="flex-shrink-0 w-12 h-12 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center font-black text-xl shadow-lg">2</div>
                   <div>
-                    <h3 className="text-2xl font-bold text-[#2E2E2E] mb-2">Scenario B: Reduce EMI</h3>
+                    <h4 className="text-2xl font-bold text-[#2E2E2E] mb-2">Scenario B: Reduce EMI</h4>
                     <p className="text-lg text-gray-700 leading-relaxed">
                       Your tenure remains 180 months. Your EMI drops to ₹45,642. Over the remaining 15 years, you save only about ₹4.1 Lakhs in interest compared to your original schedule.
                     </p>
@@ -368,15 +368,15 @@ export default function EMIVsTenurePage() {
             </section>
 
             <section id="the-banks-default-trick" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 The Bank's "Default" Trick
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 Be highly vigilant when making an online part payment through your banking app or net banking. 
               </p>
               
               <div className="bg-red-50 p-6 rounded-xl border border-red-100 mb-8">
-                <h3 className="text-xl font-black text-red-700 mb-3">Watch Out for Auto-Selection</h3>
+                <h4 className="text-xl font-black text-red-700 mb-3">Watch Out for Auto-Selection</h4>
                 <p className="text-red-900 leading-relaxed">
                   Many banking systems are hardcoded to default to "Reduce EMI" when a part payment is made. This is because banks want to maximize their interest income over the long term. If you want to reduce your tenure, you must actively select that option, check a specific box, or submit a written instruction to the branch manager. Never assume the bank will automatically choose the option that saves you the most money.
                 </p>
@@ -384,9 +384,9 @@ export default function EMIVsTenurePage() {
             </section>
 
             <section id="success-stories" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 Success Stories & Real Impact
-              </h2>
+              </h3>
               <div className="grid md:grid-cols-2 gap-6 my-8">
                 <div className="bg-white p-8 rounded-[30px] border border-[#DEDEDE] shadow-sm hover:shadow-xl group transition-all">
                   <div className="flex items-center gap-4 mb-6">
@@ -394,7 +394,7 @@ export default function EMIVsTenurePage() {
                       VM
                     </div>
                     <div>
-                      <h3 className="font-bold text-gray-900">Vikas M.</h3>
+                      <h4 className="font-bold text-gray-900">Vikas M.</h4>
                       <div className="flex text-yellow-400">
                         <svg className="w-4 h-4 fill-current" viewBox="0 0 20 20"><path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z"/></svg>
                         <svg className="w-4 h-4 fill-current" viewBox="0 0 20 20"><path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z"/></svg>
@@ -419,7 +419,7 @@ export default function EMIVsTenurePage() {
                       PS
                     </div>
                     <div>
-                      <h4 className="font-bold text-gray-900">Priya S.</h4>
+                      <h5 className="font-bold text-gray-900">Priya S.</h5>
                       <div className="flex text-yellow-400">
                         <svg className="w-4 h-4 fill-current" viewBox="0 0 20 20"><path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z"/></svg>
                         <svg className="w-4 h-4 fill-current" viewBox="0 0 20 20"><path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z"/></svg>
@@ -441,13 +441,13 @@ export default function EMIVsTenurePage() {
             </section>
 
             <section id="faqs" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 Frequently Asked Questions
-              </h2>
+              </h3>
               <div className="space-y-4">
                 {jsonLd["@graph"].find(item => item["@type"] === "FAQPage")?.mainEntity?.map((faq: any, index: number) => (
                   <div key={index} className="bg-white border border-[#DEDEDE] rounded-xl p-6 hover:shadow-md transition-shadow">
-                    <h3 className="text-xl font-bold text-[#2E2E2E] mb-3">{faq.name}</h3>
+                    <h4 className="text-xl font-bold text-[#2E2E2E] mb-3">{faq.name}</h4>
                     <p className="text-gray-700 leading-relaxed">{faq.acceptedAnswer.text}</p>
                   </div>
                 ))}
@@ -456,7 +456,7 @@ export default function EMIVsTenurePage() {
 
             <div className="bg-[#2E2E2E] text-white p-12 rounded-[40px] text-center mt-24 relative overflow-hidden group">
               <div className="absolute inset-0 bg-[#1F5EFF] opacity-0 group-hover:opacity-5 transition-opacity"></div>
-              <h3 className="text-3xl font-black mb-6 relative z-10">Don't Let the Bank Decide for You</h3>
+              <h4 className="text-3xl font-black mb-6 relative z-10">Don't Let the Bank Decide for You</h4>
               <p className="text-xl opacity-90 mb-8 relative z-10 max-w-2xl mx-auto">
                 Are you confused about how to structure your loan part payment to maximize savings? Get expert advice and avoid costly mistakes.
               </p>

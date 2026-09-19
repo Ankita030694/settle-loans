@@ -99,7 +99,7 @@ export default function UnsecuredBusinessLoanSettlementClient() {
     { id: 'npa-provisioning-and-npv-haircut-mechanics', title: '7. NPA Aging & NPV Haircut Mathematics' },
     { id: 'statutory-notices-section-138-and-section-25-defense', title: '8. Section 138 & Section 25 Defense' },
     { id: 'step-by-step-msme-settlement-roadmap', title: '9. 5-Step MSME Settlement Roadmap' },
-    { id: 'commercial-cibil-and-director-credit-rebuilding', title: '10. Commercial CIBIL & Director Rehabilitation' },
+    { id: 'commercial-cibil-and-director-credit-rebuilding', title: '10. Commercial CIBIL & Director recovery' },
     { id: 'company-resolution-section', title: '11. SettleLoans Legal Defense & Advisory' },
     { id: 'faqs', title: '12. Frequently Asked Questions' },
   ];
@@ -127,7 +127,7 @@ export default function UnsecuredBusinessLoanSettlementClient() {
       question: "How does an unsecured business loan settlement differ from a retail personal loan settlement?",
       answer: (
         <p>
-          Unlike retail personal loans that assess individual salary slips, business loan settlements evaluate enterprise financial health, GST returns, audited profit and loss accounts, and corporate entity structures. Lenders scrutinize personal guarantees executed by directors or partners and verify that business closure was caused by involuntary commercial insolvency rather than fraudulent fund diversion before sanctioning compromise haircuts under RBI guidelines.
+          Unlike retail personal loans that assess person salary slips, business loan settlements evaluate enterprise financial health, GST returns, audited profit and loss accounts, and corporate entity structures. Lenders scrutinize personal guarantees executed by directors or partners and verify that business closure was caused by involuntary commercial insolvency rather than fraudulent fund diversion before sanctioning compromise haircuts under RBI guidelines.
         </p>
       )
     },
@@ -135,7 +135,7 @@ export default function UnsecuredBusinessLoanSettlementClient() {
       question: "Can a bank seize personal residential property for an unsecured business loan default?",
       answer: (
         <p>
-          Because the loan is completely unsecured, lenders hold no mortgage over your real estate. Consequently, they cannot invoke Section 13(2) or Section 13(4) of the SARFAESI Act, 2002 to seize property without a court order. To attach personal assets, a lender must first secure a contested civil court money decree or DRT recovery certificate, which typically takes 4 to 8 years in Indian judicial courts.
+          Because the loan is completely unsecured, lenders hold no mortgage over your real estate. so, they cannot invoke Section 13(2) or Section 13(4) of the SARFAESI Act, 2002 to seize property without a court order. To attach personal assets, a lender must first secure a contested civil court money decree or DRT recovery certificate, which typically takes 4 to 8 years in Indian judicial courts.
         </p>
       )
     },
@@ -143,7 +143,7 @@ export default function UnsecuredBusinessLoanSettlementClient() {
       question: "What is the role of a Personal Guarantee in unsecured business loan recovery?",
       answer: (
         <p>
-          In India, banks and NBFCs mandate that directors, partners, or proprietors execute personal guarantees under Sections 126 and 128 of the Indian Contract Act, 1872. This creates co-extensive liability, allowing lenders to pursue the individual guarantor alongside the enterprise. However, a properly negotiated One-Time Settlement (OTS) explicitly mandates the unconditional discharge and cancellation of all personal guarantees in the final sanction letter.
+          In India, banks and NBFCs mandate that directors, partners, or proprietors execute personal guarantees under Sections 126 and 128 of the Indian Contract Act, 1872. This creates co-extensive liability, allowing lenders to pursue the person guarantor alongside the enterprise. However, a properly negotiated One-Time Settlement (OTS) explicitly mandates the unconditional discharge and cancellation of all personal guarantees in the final sanction letter.
         </p>
       )
     },
@@ -159,12 +159,12 @@ export default function UnsecuredBusinessLoanSettlementClient() {
       question: "How do banks verify whether a business failure is genuine or willful default?",
       answer: (
         <p>
-          Bank Credit Committees inspect GSTR-3B and GSTR-1 filings, bank account statements across all operating banks, income tax returns (ITR-V), and audited balance sheets. They verify that loan proceeds were utilized for bona fide business operations (working capital, vendor payments, payroll) rather than siphoned off into personal investments or undisclosed entities.
+          Bank Credit Committees inspect GSTR-3B and GSTR-1 filings, bank account statements across all operating banks, income tax returns (ITR-V), and audited balance sheets. They verify that loan proceeds were used for bona fide business operations (working capital, vendor payments, payroll) rather than siphoned off into personal investments or undisclosed entities.
         </p>
       )
     },
     {
-      question: "Can a bank initiate Debt Recovery Tribunal (DRT) proceedings for an unsecured business loan?",
+      question: "Can a bank start Debt Recovery Tribunal (DRT) cases for an unsecured business loan?",
       answer: (
         <p>
           Under the RDB Act, 1993, a financial institution can approach the DRT only if default across facilities reaches or exceeds ₹20 Lakhs. Claims below ₹20 Lakhs must be pursued through regular civil courts. For defaults below ₹20 Lakhs, DRT is legally barred, restricting the lender to civil suits, arbitration, or compromise OTS.
@@ -183,7 +183,7 @@ export default function UnsecuredBusinessLoanSettlementClient() {
       question: "How does settling an unsecured business loan affect the director's personal CIBIL and Commercial CIBIL (CMR)?",
       answer: (
         <p>
-          The loan account is marked as 'Settled' with a ₹0 balance in both the enterprise Commercial CIBIL report (Company Credit Report) and the individual director's personal CIBIL report. While this temporarily impacts credit scores, it eliminates active default markers, allows business owners to rebuild credit within 18 to 24 months, and removes names from high-risk monitoring lists.
+          The loan account is marked as 'Settled' with a ₹0 balance in both the enterprise Commercial CIBIL report (Company Credit Report) and the person director's personal CIBIL report. While this temporarily impacts credit scores, it eliminates active default markers, allows business owners to rebuild credit within 18 to 24 months, and removes names from high-risk monitoring lists.
         </p>
       )
     }
@@ -355,7 +355,7 @@ export default function UnsecuredBusinessLoanSettlementClient() {
                   When a commercial enterprise collapses due to loss of key client contracts, cancellations of export orders, or insurmountable working capital deficits, the business experiences a total cash-flow paralysis. Unable to service monthly installments ranging from ₹50,000 to ₹5,00,000 across multiple stacked lenders, distressed entrepreneurs suddenly find themselves facing aggressive recovery pressure. Debt recovery agencies frequently target company premises, contact suppliers, and harass promoters at their residential addresses, creating severe psychological distress.
                 </p>
                 <p>
-                  Entrepreneurs must recognize that commercial business failure is not a crime. Under Indian jurisprudence, non-repayment of an unsecured business loan arising from genuine business insolvency represents a civil contract breach governed by the Indian Contract Act, 1872. The Reserve Bank of India has repeatedly emphasized through its circulars that commercial lenders must establish clear mechanisms to resolve stressed enterprise assets through structured compromise settlements. Understanding the legal distinctions between corporate debt and individual personal liabilities is the first crucial step toward achieving a clean debt exit.
+                  Entrepreneurs must recognize that commercial business failure is not a crime. Under Indian jurisprudence, non-repayment of an unsecured business loan arising from genuine business insolvency represents a civil contract breach governed by the Indian Contract Act, 1872. The Reserve Bank of India has repeatedly emphasized through its circulars that commercial lenders must establish clear mechanisms to resolve stressed enterprise assets through structured compromise settlements. Understanding the legal distinctions between corporate debt and person personal liabilities is the first crucial step toward achieving a clean debt exit.
                 </p>
               </div>
 
@@ -379,15 +379,15 @@ export default function UnsecuredBusinessLoanSettlementClient() {
                 </span>
                 <span className="text-xs font-black tracking-widest text-[#1F5EFF] uppercase">Section 02</span>
               </div>
-              <h2 className="text-2xl sm:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h3 className="text-2xl sm:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 2. Corporate vs Retail Debt Settlement: Key Distinctions
-              </h2>
+              </h3>
               <div className="space-y-4 text-slate-700 leading-relaxed text-base">
                 <p>
-                  A common misconception among business owners is assuming that settling an unsecured business loan follows the identical trajectory of an individual retail personal loan. In reality, banking institutions apply entirely distinct credit evaluation matrices, accounting audits, and legal protocols when negotiating enterprise debts compared to consumer credit.
+                  A common misconception among business owners is assuming that settling an unsecured business loan follows the identical trajectory of an person retail personal loan. In reality, banking institutions apply entirely distinct credit evaluation matrices, accounting audits, and legal protocols when negotiating enterprise debts compared to consumer credit.
                 </p>
                 <p>
-                  In a retail personal loan settlement, the lending bank evaluates the individual borrower&apos;s personal bank statements, salary slips, Form 16, and individual hardship evidence such as job termination or medical emergencies. In contrast, an unsecured business loan settlement requires an in-depth institutional review of the legal entity&apos;s constitutional structure, whether operating as a Sole Proprietorship, Partnership Firm, Limited Liability Partnership (LLP), or Private Limited Company.
+                  In a retail personal loan settlement, the lending bank evaluates the person borrower&apos;s personal bank statements, salary slips, Form 16, and person hardship evidence such as job termination or medical emergencies. In contrast, an unsecured business loan settlement requires an in-depth institutional review of the legal entity&apos;s constitutional structure, whether operating as a Sole Proprietorship, Partnership Firm, Limited Liability Partnership (LLP), or Private Limited Company.
                 </p>
                 <p>
                   When evaluating an MSME settlement proposal, the bank&apos;s Stressed Assets Recovery Branch (SARB) and Zonal Credit Committee conduct forensic scrutiny of corporate accounting records. They examine Goods and Services Tax (GST) returns, including GSTR-3B monthly summaries and GSTR-1 outward supply statements, alongside audited balance sheets, profit and loss statements, and primary current account bank ledgers. The primary institutional objective is verifying that the enterprise suffered authentic economic erosion rather than capital siphoning.
@@ -401,14 +401,14 @@ export default function UnsecuredBusinessLoanSettlementClient() {
                     <tr>
                       <th>Settlement Parameter</th>
                       <th>Unsecured Business Loan (MSME)</th>
-                      <th>Retail Personal Loan (Individual)</th>
+                      <th>Retail Personal Loan (person)</th>
                     </tr>
                   </thead>
                   <tbody>
                     <tr>
                       <td><strong>Borrower Entity Type</strong></td>
                       <td>Proprietorship, Partnership, LLP, Pvt Ltd</td>
-                      <td>Salaried or Individual Self-Employed</td>
+                      <td>Salaried or person Self-Employed</td>
                     </tr>
                     <tr>
                       <td><strong>Primary Evaluation Basis</strong></td>
@@ -433,7 +433,7 @@ export default function UnsecuredBusinessLoanSettlementClient() {
                     <tr>
                       <td><strong>Credit Bureau Impact</strong></td>
                       <td>Commercial CIBIL (CMR Rank) + Director Personal PAN</td>
-                      <td>Individual Personal CIBIL Score Only</td>
+                      <td>person Personal CIBIL Score Only</td>
                     </tr>
                   </tbody>
                 </table>
@@ -448,21 +448,21 @@ export default function UnsecuredBusinessLoanSettlementClient() {
                 </span>
                 <span className="text-xs font-black tracking-widest text-[#1F5EFF] uppercase">Section 03</span>
               </div>
-              <h2 className="text-2xl sm:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h3 className="text-2xl sm:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 3. Personal Guarantees & Directors' Liability Under Law
-              </h2>
+              </h3>
               <div className="space-y-4 text-slate-700 leading-relaxed text-base">
                 <p>
                   Founders of Private Limited companies frequently establish corporate entities assuming that the doctrine of limited liability fully shields their personal assets from business creditors. However, Indian commercial lending practices universally bypass corporate veil protections for unsecured business loans by requiring directors and key promoters to execute unconditional personal guarantee deeds.
                 </p>
                 <p>
-                  Under <strong>Section 126 of the Indian Contract Act, 1872</strong>, a contract of guarantee is an agreement to perform the promise or discharge the liability of a third person in case of their default. Furthermore, under <strong>Section 128 of the Indian Contract Act</strong>, the liability of the surety or guarantor is &apos;co-extensive&apos; with that of the principal debtor, unless expressly provided otherwise in the agreement. This legal provision empowers the financial institution to initiate recovery actions directly against the personal guarantor simultaneously with, or even prior to, exhausting legal remedies against the defaulting company.
+                  Under <strong>Section 126 of the Indian Contract Act, 1872</strong>, a contract of guarantee is an agreement to perform the promise or discharge the liability of a third person in case of their default. also, under <strong>Section 128 of the Indian Contract Act</strong>, the liability of the surety or guarantor is &apos;co-extensive&apos; with that of the principal debtor, unless expressly provided otherwise in the agreement. This legal provision empowers the financial institution to start recovery actions directly against the personal guarantor simultaneously with, or even before, exhausting legal remedies against the defaulting company.
                 </p>
                 <p>
-                  In a sole proprietorship, no legal separation exists between the proprietor and the enterprise; the proprietor bears unlimited personal liability on their individual Permanent Account Number (PAN). In a partnership firm, all partners remain jointly and severally liable under the Indian Partnership Act, 1932. For Private Limited entities, lenders invoke the personal guarantee clause to issue legal demand notices to directors.
+                  In a sole proprietorship, no legal separation exists between the proprietor and the enterprise; the proprietor bears unlimited personal liability on their person Permanent Account Number (PAN). In a partnership firm, all partners remain jointly and severally liable under the Indian Partnership Act, 1932. For Private Limited entities, lenders invoke the personal guarantee clause to issue legal demand notices to directors.
                 </p>
                 <p>
-                  A critical objective of an advocate-negotiated business loan settlement is ensuring that the final One-Time Settlement Sanction Letter explicitly stipulates the unconditional discharge, cancellation, and return of all executed Personal Guarantee Deeds. Without this precise legal clause, a bank might accept a partial compromise from the corporate entity while unlawfully preserving residual recovery claims against the individual guarantors.
+                  A critical objective of an advocate-negotiated business loan settlement is ensuring that the final One-Time Settlement Sanction Letter explicitly stipulates the unconditional discharge, cancellation, and return of all executed Personal Guarantee Deeds. Without this precise legal clause, a bank might accept a partial compromise from the corporate entity while unlawfully preserving residual recovery claims against the person guarantors.
                 </p>
               </div>
 
@@ -472,7 +472,7 @@ export default function UnsecuredBusinessLoanSettlementClient() {
                   <FileCheck className="w-5 h-5 text-[#1F5EFF] flex-shrink-0 mt-0.5" />
                   <div className="text-xs sm:text-sm text-slate-800 leading-relaxed">
                     <strong className="font-bold block text-slate-950 mb-1 text-sm">Essential Legal Requirement: Dual Discharge in OTS Sanction</strong>
-                    In every business loan settlement involving Private Limited firms or partnerships, the settlement sanction letter must explicitly discharge both the Principal Corporate Debtor and all Individual Personal Guarantors. SettleLoans legal counsel rigorously audits sanction terms to eliminate future personal guarantor claims.
+                    In every business loan settlement involving Private Limited firms or partnerships, the settlement sanction letter must explicitly discharge both the Principal Corporate Debtor and all person Personal Guarantors. SettleLoans legal counsel rigorously audits sanction terms to eliminate future personal guarantor claims.
                   </div>
                 </div>
               </div>
@@ -486,9 +486,9 @@ export default function UnsecuredBusinessLoanSettlementClient() {
                 </span>
                 <span className="text-xs font-black tracking-widest text-[#1F5EFF] uppercase">Section 04</span>
               </div>
-              <h2 className="text-2xl sm:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h3 className="text-2xl sm:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 4. The SARFAESI Myth: Unsecured Loans & Property Auctions
-              </h2>
+              </h3>
               <div className="space-y-4 text-slate-700 leading-relaxed text-base">
                 <p>
                   Recovery agencies often threaten the immediate sealing and auction of homes under the SARFAESI Act. However, this is an illegal intimidation tactic against unsecured business borrowers. These threats exploit the borrower&apos;s lack of procedural legal knowledge to induce panic.
@@ -500,7 +500,7 @@ export default function UnsecuredBusinessLoanSettlementClient() {
                   Unsecured business loans and fintech merchant advances are sanctioned without real estate collateral. Therefore, the lending institution holds zero statutory authority under Section 13(2) or Section 13(4) of the SARFAESI Act. A bank cannot issue a 60-day SARFAESI demand notice for unsecured loans. It cannot take possession of your home or approach the District Magistrate (DM) under Section 14 for physical eviction.
                 </p>
                 <p>
-                  To attach an unencumbered personal asset for an unsecured business default, a lender must undertake protracted judicial litigation. The bank must file a civil suit under Order XXXVII CPC or initiate DRT proceedings if exposure exceeds ₹20 Lakhs. It must secure a court decree before it can ever file execution petitions under Order XXI CPC. In Indian civil courts, this judicial process typically spans 4 to 8 years, creating an overwhelming commercial incentive for lenders to accept an immediate cash compromise settlement instead.
+                  To attach an unencumbered personal asset for an unsecured business default, a lender must undertake protracted judicial litigation. The bank must file a civil suit under Order XXXVII CPC or start DRT cases if exposure exceeds ₹20 Lakhs. It must secure a court decree before it can ever file execution petitions under Order XXI CPC. In Indian civil courts, this judicial process typically spans 4 to 8 years, creating an overwhelming commercial incentive for lenders to accept an immediate cash compromise settlement instead.
                 </p>
               </div>
             </section>
@@ -518,9 +518,9 @@ export default function UnsecuredBusinessLoanSettlementClient() {
                       <span className="text-[10px] font-black uppercase tracking-widest text-blue-300 block">
                         Legal Defense &amp; Action Blueprint
                       </span>
-                      <h3 className="text-sm md:text-base font-black text-white leading-tight">
+                      <h4 className="text-sm md:text-base font-black text-white leading-tight">
                         Unsecured Business Loan Settlement &amp; MSME Debt Resolution Overview
-                      </h3>
+                      </h4>
                     </div>
                   </div>
                   <a
@@ -569,21 +569,21 @@ export default function UnsecuredBusinessLoanSettlementClient() {
                 </span>
                 <span className="text-xs font-black tracking-widest text-[#1F5EFF] uppercase">Section 06</span>
               </div>
-              <h2 className="text-2xl sm:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h3 className="text-2xl sm:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 6. Pecuniary Jurisdiction: DRT Limits & Summary Suits
-              </h2>
+              </h3>
               <div className="space-y-4 text-slate-700 leading-relaxed text-base">
                 <p>
-                  When a commercial enterprise defaults on unsecured debt, financial institutions assess their legal recovery options based strictly on statutory pecuniary thresholds and recovery costs. Under <strong>Section 1(4) of the RDB Act, 1993</strong>, the minimum threshold for approaching the DRT is ₹20 Lakhs. For debts below ₹20 Lakhs, banks cannot initiate DRT proceedings.
+                  When a commercial enterprise defaults on unsecured debt, financial institutions assess their legal recovery options based strictly on statutory pecuniary thresholds and recovery costs. Under <strong>Section 1(4) of the RDB Act, 1993</strong>, the minimum threshold for approaching the DRT is ₹20 Lakhs. For debts below ₹20 Lakhs, banks cannot start DRT cases.
                 </p>
                 <p>
                   If an enterprise holds an unsecured business loan with an outstanding principal below ₹20 Lakhs, the lender is statutorily barred from approaching the DRT. For exposures under ₹20 Lakhs, lenders are restricted to filing civil suits under Order XXXVII CPC in District Courts. Alternatively, they can refer matters to National Lok Adalat or invoke arbitration clauses.
                 </p>
                 <p>
-                  Furthermore, private NBFCs and fintech lenders frequently initiate unilateral arbitration proceedings by appointing sole arbitrators without the mutual consent of the borrower. In the landmark judgment <em>Perkins Eastman Architects DPC v. HSCC (India) Ltd.</em>, the Supreme Court of India held that an interested party cannot unilaterally appoint a sole arbitrator. SettleLoans advocates routinely challenge such unilateral appointments under Section 12(5) and Section 14 of the Arbitration and Conciliation Act, 1996, effectively neutralizing coercive arbitral pressure.
+                  also, private NBFCs and fintech lenders frequently start unilateral arbitration cases by appointing sole arbitrators without the mutual consent of the borrower. In the landmark judgment <em>Perkins Eastman Architects DPC v. HSCC (India) Ltd.</em>, the Supreme Court of India held that an interested party cannot unilaterally appoint a sole arbitrator. SettleLoans advocates routinely challenge such unilateral appointments under Section 12(5) and Section 14 of the Arbitration and Conciliation Act, 1996, effectively neutralizing coercive arbitral pressure.
                 </p>
                 <p>
-                  Under the Insolvency and Bankruptcy Code, 2016 (IBC), the threshold for initiating insolvency (CIRP) under Section 4 was raised to ₹1 Crore. Lenders cannot initiate IBC proceedings against companies for operational debts below this limit. Consequently, operational creditors and financial lenders cannot drag small business enterprises with sub-crore defaults to the National Company Law Tribunal (NCLT), reinforcing bilateral compromise settlement as the only viable recovery avenue.
+                  Under the Insolvency and Bankruptcy Code, 2016 (IBC), the threshold for starting insolvency (CIRP) under Section 4 was raised to ₹1 Crore. Lenders cannot start IBC cases against companies for operational debts below this limit. so, operational creditors and financial lenders cannot drag small business enterprises with sub-crore defaults to the National Company Law Tribunal (NCLT), reinforcing bilateral compromise settlement as the only viable recovery avenue.
                 </p>
               </div>
             </section>
@@ -596,9 +596,9 @@ export default function UnsecuredBusinessLoanSettlementClient() {
                 </span>
                 <span className="text-xs font-black tracking-widest text-[#1F5EFF] uppercase">Section 07</span>
               </div>
-              <h2 className="text-2xl sm:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h3 className="text-2xl sm:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 7. Delinquency Aging, Provisioning & NPV Haircut Math
-              </h2>
+              </h3>
               <div className="space-y-4 text-slate-700 leading-relaxed text-base">
                 <p>
                   Negotiating an optimal 45% to 65% debt haircut on an unsecured business loan requires leveraging the bank&apos;s internal accounting mechanics. Under the Reserve Bank of India&apos;s Prudential Norms on Income Recognition, Asset Classification and Provisioning (IRACP), overdue enterprise loans transition through rigid delinquency stages based on Days Past Due (DPD).
@@ -672,18 +672,18 @@ export default function UnsecuredBusinessLoanSettlementClient() {
                 </span>
                 <span className="text-xs font-black tracking-widest text-[#1F5EFF] uppercase">Section 08</span>
               </div>
-              <h2 className="text-2xl sm:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h3 className="text-2xl sm:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 8. Statutory Notice Escalation: Section 138 & Section 25
-              </h2>
+              </h3>
               <div className="space-y-4 text-slate-700 leading-relaxed text-base">
                 <p>
                   When business cash flows dry up, automated National Automated Clearing House (e-NACH) standing instructions bounce, and post-dated security cheques deposited by lenders are dishonored. Lending institutions immediately issue formal statutory legal notices under <strong>Section 25 of the Payment and Settlement Systems Act, 2007 (PSSA)</strong> and <strong>Section 138 of the Negotiable Instruments Act, 1881 (NI Act)</strong>.
                 </p>
                 <p>
-                  Receiving notices that cite criminal provisions causes understandable anxiety for company directors. However, both Section 25 PSSA and Section 138 NI Act represent quasi-criminal, bailable, and compoundable statutory offenses designed to enforce financial obligations rather than penal imprisonment. The lender must provide a mandatory 30-day statutory demand notice window before filing any formal criminal complaint before a Metropolitan Magistrate or Judicial Magistrate First Class.
+                  Receiving notices that cite criminal provisions causes understandable anxiety for company directors. However, both Section 25 PSSA and Section 138 NI Act represent quasi-criminal, bailable, and compoundable statutory offenses designed to enforce financial debts rather than penal imprisonment. The lender must provide a mandatory 30-day statutory demand notice window before filing any formal criminal complaint before a Metropolitan Magistrate or Judicial Magistrate First Class.
                 </p>
                 <p>
-                  A specialized debt settlement advocate issues a comprehensive point-by-point reply within the 30-day window. The legal reply establishes that non-payment arose from commercial insolvency. It confirms that the instrument was issued strictly as security, and places on record the borrower&apos;s willingness to settle under RBI compromise frameworks. Under <strong>Section 147 of the Negotiable Instruments Act</strong>, once the agreed settlement sum is remitted, all criminal proceedings are formally compounded and permanently closed.
+                  A specialized debt settlement advocate issues a comprehensive point-by-point reply within the 30-day window. The legal reply establishes that non-payment arose from commercial insolvency. It confirms that the instrument was issued strictly as security, and places on record the borrower&apos;s willingness to settle under RBI compromise frameworks. Under <strong>Section 147 of the Negotiable Instruments Act</strong>, once the agreed settlement sum is remitted, all criminal cases are formally compounded and permanently closed.
                 </p>
               </div>
             </section>
@@ -696,9 +696,9 @@ export default function UnsecuredBusinessLoanSettlementClient() {
                 </span>
                 <span className="text-xs font-black tracking-widest text-[#1F5EFF] uppercase">Section 09</span>
               </div>
-              <h2 className="text-2xl sm:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h3 className="text-2xl sm:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 9. The 5-Step Strategic Legal Roadmap for MSME Debt Settlement
-              </h2>
+              </h3>
               <div className="space-y-4 text-slate-700 leading-relaxed text-base">
                 <p>
                   Executing a legally binding, deep-discount settlement on unsecured business loans requires disciplined legal execution through five structured phases:
@@ -707,13 +707,13 @@ export default function UnsecuredBusinessLoanSettlementClient() {
                   <strong>Phase 1: Forensic Loan Ledger &amp; Surcharge Audit.</strong> SettleLoans advocates inspect your complete loan account statement to isolate the actual disbursed principal from compounded penal interest, late payment levies, inspection surcharges, and repeated NACH bounce fees.
                 </p>
                 <p>
-                  <strong>Phase 2: Business Insolvency Dossier Compilation.</strong> We assemble a comprehensive corporate hardship dossier, including GSTR-3B filings demonstrating turnover reduction, audited balance sheets showing commercial losses, bank statements proving cash-flow depletion, and trade debtor default proofs to establish bona fide business distress.
+                  <strong>Phase 2: Business Insolvency Dossier Compilation.</strong> We assemble a comprehensive corporate hardship dossier, including GSTR-3B filings showing turnover reduction, audited balance sheets showing commercial losses, bank statements proving cash-flow depletion, and trade debtor default proofs to establish bona fide business distress.
                 </p>
                 <p>
-                  <strong>Phase 3: Formal Legal Notice Reply &amp; Harassment Shield.</strong> Our advocates issue formal legal representations to bank Nodal Officers and SARB Heads, channeling all future communication exclusively through legal counsel and halting unauthorized recovery visits under the RBI Fair Practices Code.
+                  <strong>Phase 3: Formal Legal Notice Reply &amp; Harassment Shield.</strong> Our advocates issue formal legal representations to bank Nodal Officers and SARB Heads, channeling all future notice exclusively through legal counsel and halting unauthorized recovery visits under the RBI Fair Practices Code.
                 </p>
                 <p>
-                  <strong>Phase 4: Direct Credit Committee Compromise Negotiation.</strong> Once the loan enters the 100% provisioning window, our senior counsel negotiates directly with the bank&apos;s Zonal Settlement Authority, leveraging NPV calculations to secure an approved 45% to 65% principal haircut.
+                  <strong>Phase 4: Direct Credit Committee Compromise talks.</strong> Once the loan enters the 100% provisioning window, our senior counsel negotiates directly with the bank&apos;s Zonal Settlement Authority, leveraging NPV calculations to secure an approved 45% to 65% principal haircut.
                 </p>
                 <p>
                   <strong>Phase 5: Sanction Letter Verification &amp; Dual Discharge NDC.</strong> Before any payment is transferred, we audit the bank&apos;s official settlement sanction letter to verify that it explicitly discharges both the corporate entity and all personal guarantors. Following payment, we secure the stamped zero-balance No Dues Certificate (NDC) within 30 days under RBI Circular RBI/2023-24/60.
@@ -721,7 +721,7 @@ export default function UnsecuredBusinessLoanSettlementClient() {
               </div>
             </section>
 
-            {/* SECTION 10: Commercial CIBIL & Director Rehabilitation */}
+            {/* SECTION 10: Commercial CIBIL & Director recovery */}
             <section id="commercial-cibil-and-director-credit-rebuilding" className="mb-10 scroll-mt-24">
               <div className="flex items-center gap-2 mb-3">
                 <span className="p-1.5 rounded-lg bg-blue-100 text-[#1F5EFF]">
@@ -729,12 +729,12 @@ export default function UnsecuredBusinessLoanSettlementClient() {
                 </span>
                 <span className="text-xs font-black tracking-widest text-[#1F5EFF] uppercase">Section 10</span>
               </div>
-              <h2 className="text-2xl sm:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h3 className="text-2xl sm:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 10. Commercial CIBIL Rank & Director Credit Trajectory
-              </h2>
+              </h3>
               <div className="space-y-4 text-slate-700 leading-relaxed text-base">
                 <p>
-                  Settling an unsecured business loan impacts two separate credit reporting layers: the enterprise <strong>Company Credit Report (CCR)</strong> reflecting its CIBIL MSME Rank (CMR), and the individual directors&apos; or partners&apos; personal consumer credit scores.
+                  Settling an unsecured business loan impacts two separate credit reporting layers: the enterprise <strong>Company Credit Report (CCR)</strong> reflecting its CIBIL MSME Rank (CMR), and the person directors&apos; or partners&apos; personal consumer credit scores.
                 </p>
                 <p>
                   Under the Credit Information Companies (Regulation) Act (CICRA), 2005, the lending institution must update all credit bureaus (CIBIL, Experian, Equifax, CRIF High Mark) within 30 to 45 days of receiving the final settlement tranche. The loan account status transitions from &apos;NPA / Doubtful&apos; to <strong>&apos;Settled&apos;</strong>, with the outstanding ledger balance reported as <strong>₹0</strong>.
@@ -758,9 +758,9 @@ export default function UnsecuredBusinessLoanSettlementClient() {
                 </span>
                 <span className="text-xs font-black tracking-widest text-[#1F5EFF] uppercase">Section 12</span>
               </div>
-              <h2 className="text-2xl sm:text-3xl font-black text-slate-900 mb-6 leading-tight">
+              <h3 className="text-2xl sm:text-3xl font-black text-slate-900 mb-6 leading-tight">
                 Frequently Asked Questions: Unsecured Business Loan Settlement
-              </h2>
+              </h3>
 
               <div className="space-y-3">
                 {faqs.map((faq, index) => (

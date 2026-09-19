@@ -279,9 +279,9 @@ export default function LoanSettlementStartupFoundersPage() {
             </section>
 
             <section id="personal-guarantee-trap" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
                 The Personal Guarantee Trap: A Founder's Hidden Liability
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 Most startup founders believe in the 'Limited Liability' of their Private Limited company. While this protects you in many civil situations, the Indian banking system often requires something much more intrusive: the Personal Guarantee (PG). By signing a PG, you have effectively told the bank, \"If my company cannot pay, I will pay with my own house, my own car, and my own daughter's education fund.\"
               </p>
@@ -292,7 +292,7 @@ export default function LoanSettlementStartupFoundersPage() {
                 Knowledge of Section 128 of the Indian Contract Act is vital for you. It states that the liability of a guarantor is 'co-extensive' with that of the principal debtor. This means the bank doesn't even have to wait to sell the company's computers or furniture before they come for your personal savings. Breaking this co-extensive liability through a professional settlement is the only way to safeguard your personal life once the corporate dream has ended.
               </p>
               <div className="bg-orange-50 p-8 rounded-xl border border-orange-200 mb-8">
-                <h3 className="text-xl font-bold mb-4 text-orange-900">Critical Check: Did you sign an 'Unlimited' Guarantee?</h3>
+                <h4 className="text-xl font-bold mb-4 text-orange-900">Critical Check: Did you sign an 'Unlimited' Guarantee?</h4>
                 <p className="text-sm text-orange-850 leading-relaxed mb-4">
                   Many founders sign 'Continuing Guarantees' which cover every current and future loan the company takes. This means even if you leave the company, your liability might continue unless you formally revoke it in writing with the bank. If your startup has shut down, audit every document you signed immediately.
                 </p>
@@ -300,9 +300,9 @@ export default function LoanSettlementStartupFoundersPage() {
             </section>
 
             <section id="why-startups-fail-debt" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
                 Why Even Billion-Dollar Startup Ideas Accumulate Debt
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 The path of a startup founder is one of managing mismatch. You mismatch your long-term vision with short-term cash flows. You mismatch investor expectations with market reality. In India, many founders turn to debt not because they want to, but because equity funding is slow or requires excessive dilution.
               </p>
@@ -313,7 +313,7 @@ export default function LoanSettlementStartupFoundersPage() {
                 According to recent data, 90% of startups fail within the first 5 years. In the Indian context, where the safety net is thin, this failure often results in a mountain of debt that the founder is left to manage alone. The 'Hero Culture' of founders prevents them from admitting they need debt relief until it's too late. At SettleLoans, we believe in 'Failing Fast and Resolving Faster'.
               </p>
               <div className="bg-gray-50 p-8 rounded-xl border border-gray-200 mb-8">
-                <h3 className="text-xl font-bold mb-6">Common Founders' Debt Signals:</h3>
+                <h4 className="text-xl font-bold mb-6">Common Founders' Debt Signals:</h4>
                 <ul className="grid md:grid-cols-2 gap-4 text-sm font-medium">
                   <li className="flex items-start gap-2">
                     <span className="w-2 h-2 bg-[#1F5EFF] rounded-full mt-1.5 shrink-0"></span>
@@ -344,35 +344,35 @@ export default function LoanSettlementStartupFoundersPage() {
             </section>
 
             <section id="types-of-startup-debt" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
                 Types of Debt Startup Founders Struggle With
-              </h2>
+              </h3>
               <p className="mb-8 text-lg">Founders' debt portfolios are more complex than standard business debt. We categorize them to apply different settlement strategies.</p>
               
               <div className="space-y-6">
                 <div className="bg-white p-6 rounded-2xl border border-[#DEDEDE] shadow-sm">
-                  <h3 className="text-xl font-bold text-[#1F5EFF] mb-2">1. Venture Debt</h3>
+                  <h4 className="text-xl font-bold text-[#1F5EFF] mb-2">1. Venture Debt</h4>
                   <p className="text-base text-gray-600 mb-4">Provided by specialized funds, often with equity kickers (warrants). While these lenders are more sophisticated, their collection tactics can be aggressive, including blocking company bank accounts. Settlement here involves a complex negotiation of warrants vs cash.</p>
                 </div>
                 <div className="bg-white p-6 rounded-2xl border border-[#DEDEDE] shadow-sm">
-                  <h3 className="text-xl font-bold text-[#1F5EFF] mb-2">2. Term Loans with Personal Guarantees</h3>
+                  <h4 className="text-xl font-bold text-[#1F5EFF] mb-2">2. Term Loans with Personal Guarantees</h4>
                   <p className="text-base text-gray-600 mb-4">The standard bank loan. These are regulated by the RBI's fair practice code. The settlement strategy here is volume-driven; we show the bank manager that the founder has no other income and the principal is all that can be recovered.</p>
                 </div>
                 <div className="bg-white p-6 rounded-2xl border border-[#DEDEDE] shadow-sm">
-                  <h3 className="text-xl font-bold text-[#1F5EFF] mb-2">3. Overdraft (OD) and CC Facilities</h3>
+                  <h4 className="text-xl font-bold text-[#1F5EFF] mb-2">3. Overdraft (OD) and CC Facilities</h4>
                   <p className="text-base text-gray-600 mb-4">Often used for inventory or working capital. If your startup was based on e-commerce or manufacturing, a dead inventory can make this debt impossible to pay. We help you present a 'Devaluation report' to the bank to justify a low settlement offer.</p>
                 </div>
                 <div className="bg-white p-6 rounded-2xl border border-[#DEDEDE] shadow-sm">
-                  <h3 className="text-xl font-bold text-[#1F5EFF] mb-2">4. Founder's Personal Loans</h3>
+                  <h4 className="text-xl font-bold text-[#1F5EFF] mb-2">4. Founder's Personal Loans</h4>
                   <p className="text-base text-gray-600 mb-4">The 'Last Resort' debt. Founders often take these in their own name to pay the team's salaries for that extra 3 months of runway. These are highly settle-able because they are unsecured personal credit.</p>
                 </div>
               </div>
             </section>
 
             <section id="founder-settlement-definition" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
                 What is Founder-Centric Loan Settlement?
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 A founder-centric settlement is not just about a discount; it's about **Strategic Separation**. It is the process where we legally decouple the founder's personal life from the startup's corporate liabilities. It involves a One-Time Settlement (OTS) with lenders where you pay a fraction of the total amount in exchange for a full release from your personal guarantees.
               </p>
@@ -380,7 +380,7 @@ export default function LoanSettlementStartupFoundersPage() {
                 For a founder, the goal of a settlement is 'Maximum Runway for the Next Life'. You want to save as much of your personal capital as possible to eventually refound or rebuild. This requires a professional team that can speak the bank's language of 'NPA Write-offs' and 'Recovery Targets'. We don't just ask for a waiver; we present a business case for why the bank will gain more by settling with you now than by waiting for years in a court battle.
               </p>
               <div className="bg-blue-50 p-8 rounded-xl border border-blue-200 mb-8">
-                <h3 className="text-xl font-bold mb-4 text-blue-900">Corporate Debt vs. Personal Liability</h3>
+                <h4 className="text-xl font-bold mb-4 text-blue-900">Corporate Debt vs. Personal Liability</h4>
                 <p className="text-sm text-blue-800 leading-relaxed mb-4">
                   In a settlement, we prioritize the accounts where your **Personal Home** or **Life Savings** are at stake. Corporate debt without a personal guarantee can often be handled during company closure, but the guaranteed loans are 'Priority One'.
                 </p>
@@ -391,7 +391,7 @@ export default function LoanSettlementStartupFoundersPage() {
             </section>
 
             <section id="cgtmse-advantage" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">The CGTMSE Advantage: A Founder's Secret Weapon</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">The CGTMSE Advantage: A Founder's Secret Weapon</h3>
               <p className="mb-6 text-lg">
                 Many startup loans in India are covered under the **Credit Guarantee Fund Trust for Micro and Small Enterprises (CGTMSE)**. Ifyour loan had this coverage, you likely paid a 'Guarantee Fee' to the bank. This is the best news you can receive during a startup failure.
               </p>
@@ -399,7 +399,7 @@ export default function LoanSettlementStartupFoundersPage() {
                 When a CGTMSE-covered loan defaults, the bank can claim up to 85% of the loss from the Government of India's trust. This significantly reduces the bank's actual 'loss' on your account. If the bank has already recovered 75% from the government, they are far more likely to accept a small Onetime Settlement from the founder to close the remaining 25%.
               </p>
               <div className="bg-teal-50 p-8 rounded-2xl border border-teal-100 mb-8">
-                <h3 className="text-xl font-bold text-teal-800 mb-4">Leveraging CGTMSE in Negotiation</h3>
+                <h4 className="text-xl font-bold text-teal-800 mb-4">Leveraging CGTMSE in Negotiation</h4>
                 <p className="text-sm text-teal-900 leading-relaxed">
                   Our team audit's your loan docs to check for the CGTMSE fee. If found, we use this in our formal legal proposal to the bank, reminding them that their net loss is minimal and a settlement is a 'Win-Win' for their recovery branch. This alone can save a founder crores in repayments.
                 </p>
@@ -407,7 +407,7 @@ export default function LoanSettlementStartupFoundersPage() {
             </section>
 
             <section id="step-by-step-founder" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 text-center">The 7-Step Founder Resolution Roadmap</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 text-center">The 7-Step Founder Resolution Roadmap</h3>
               <p className="mb-8 text-center max-w-2xl mx-auto">Founders need to handle debt like a board meeting - with clear data and firm strategy. Here is our exclusive 7-step process for venture debt resolution.</p>
               
               <div className="relative border-l-2 border-[#1F5EFF] ml-4 md:ml-8 space-y-12 pb-8">
@@ -422,7 +422,7 @@ export default function LoanSettlementStartupFoundersPage() {
                 ].map((item, i) => (
                   <div key={i} className="relative pl-8">
                     <div className="absolute -left-[9px] top-0 w-4 h-4 rounded-full bg-[#1F5EFF]"></div>
-                    <h3 className="text-xl font-bold text-[#2E2E2E] mb-2">{item.step}</h3>
+                    <h4 className="text-xl font-bold text-[#2E2E2E] mb-2">{item.step}</h4>
                     <p className="text-gray-600 leading-relaxed text-base">{item.content}</p>
                   </div>
                 ))}
@@ -430,7 +430,7 @@ export default function LoanSettlementStartupFoundersPage() {
             </section>
 
             <section id="documenting-failure" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Documenting Startup Failure: Proving Your Hardship</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Documenting Startup Failure: Proving Your Hardship</h3>
               <p className="mb-6">For a founder, 'failure' must be objective. The bank manager doesn't care about your 'Product-Market Fit'. They care about cash flow. You need to provide a 'Proof of Crisis' folder:</p>
               <ul className="space-y-4 mb-8">
                 <li className="flex items-start">
@@ -456,19 +456,19 @@ export default function LoanSettlementStartupFoundersPage() {
             </section>
 
             <section id="legal-protections-founders" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Legal Protections & IBC: The Founder's Rights</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Legal Protections & IBC: The Founder's Rights</h3>
               <p className="mb-6 text-lg leading-relaxed">
                 Knowledge of the law is your greatest defense. In India, a startup founder is protected by several legal frameworks that are often misunderstood.
               </p>
               <div className="grid md:grid-cols-2 gap-8 mb-8">
                 <div className="bg-white p-6 rounded-xl border border-gray-100 shadow-sm">
-                  <h3 className="text-xl font-bold mb-4">The IBC 'Fresh Start' Process</h3>
+                  <h4 className="text-xl font-bold mb-4">The IBC 'Fresh Start' Process</h4>
                   <p className="text-sm text-gray-600 leading-relaxed mb-4">
                     The Insolvency and Bankruptcy Code has provision's for small individuals (including founders with low personal turnover) to have their debts discharged under the 'Fresh Start' process. While technical, it provides a definitive end to your debt journey.
                   </p>
                 </div>
                 <div className="bg-white p-6 rounded-xl border border-gray-100 shadow-sm">
-                  <h3 className="text-xl font-bold mb-4">SARFAESI & DRT Defenses</h3>
+                  <h4 className="text-xl font-bold mb-4">SARFAESI & DRT Defenses</h4>
                   <p className="text-sm text-gray-600 leading-relaxed mb-4">
                     If the bank mentions the 'Debt Recovery Tribunal' (DRT), do not panic. DRT cases can take years, and banks hate the wait. We use the threat of a long DRT battle as leverage to get a quick 50% discount in settlement.
                   </p>
@@ -480,14 +480,14 @@ export default function LoanSettlementStartupFoundersPage() {
             </section>
 
             <section id="rbi-ethics-founders" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-6 leading-tight">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-6 leading-tight">
                 RBI Guidelines: Preventing Harassment in the Boardroom
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 Founders are often targets of 'Professional Shaming'. Recovery agents might call your investors, your current boss, or your new team members. This is 100% illegal under the Reserve Bank of India (RBI) guidelines.
               </p>
               <div className="bg-red-50 border-l-4 border-red-500 p-8 rounded-r-xl mb-8">
-                <h3 className="text-xl font-bold text-red-800 mb-4">Lenders are Strictly Prohibited From:</h3>
+                <h4 className="text-xl font-bold text-red-800 mb-4">Lenders are Strictly Prohibited From:</h4>
                 <ul className="space-y-3 text-red-900/80 font-medium text-base">
                   <li>• Calling your contacts or third parties to shame you or disclose your debt.</li>
                   <li>• Using abrasive or threatening language on social media platforms like LinkedIn.</li>
@@ -502,10 +502,10 @@ export default function LoanSettlementStartupFoundersPage() {
             </section>
 
             <section id="negotiation-tactics-founders" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Founder-Centric Negotiation: Speak Their Language</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Founder-Centric Negotiation: Speak Their Language</h3>
               <p className="mb-6">We don't negotiate like individuals; we negotiate like a CEO. Here are the tactics we use at SettleLoans for our startup founder clients.</p>
               <div className="bg-blue-50 p-8 rounded-2xl border border-blue-100 mb-8">
-                <h3 className="text-xl font-black text-blue-900 mb-6 text-[var(--color-text-body)]">The 'Last Available Cash' Tactic</h3>
+                <h4 className="text-xl font-black text-blue-900 mb-6 text-[var(--color-text-body)]">The 'Last Available Cash' Tactic</h4>
                 <p className="mb-6 text-[var(--color-text-body)]">We present a bank manager with a choice: 'Here is 20 lakhs of principal available from the founder's father right now. If you don't take it, the founder will have to declare personal insolvency and you will get zero over the next 10 years.' In 90% of cases, the bank chooses the 20 lakhs today.</p>
                 <div className="grid md:grid-cols-3 gap-4">
                   <div className="bg-white p-4 rounded-xl border border-blue-100 text-center">
@@ -528,7 +528,7 @@ export default function LoanSettlementStartupFoundersPage() {
             </section>
 
             <section id="founder-success-stories" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 text-center">Case Studies: The Refounded Founders</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 text-center">Case Studies: The Refounded Founders</h3>
               <div className="grid md:grid-cols-2 gap-6 not-prose">
                 {[
                   {
@@ -552,7 +552,7 @@ export default function LoanSettlementStartupFoundersPage() {
                         {review.name.charAt(0)}
                       </div>
                       <div>
-                        <h3 className="font-bold text-[#2E2E2E]">{review.name}</h3>
+                        <h4 className="font-bold text-[#2E2E2E]">{review.name}</h4>
                         <p className="text-xs text-gray-400">{review.loc}</p>
                       </div>
                       <div className="ml-auto text-yellow-500">★★★★★</div>
@@ -567,10 +567,10 @@ export default function LoanSettlementStartupFoundersPage() {
             </section>
 
             <section id="why-settleloans-founders" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Why SettleLoans is the Choice for Founders</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Why SettleLoans is the Choice for Founders</h3>
               <p className="mb-6 leading-relaxed">At SettleLoans, we speak the language of founders. We know the difference between 'Venture Debt' and 'Equity'. We know the impact of personal guarantees on your next fundraising round. Our team includes banking experts who have approved thousands of business settlements and legal experts who know how to shut down recovery harassment permanently.</p>
               <div className="bg-[#2E2E2E] text-white p-8 rounded-2xl mb-8">
-                <h3 className="text-2xl font-bold mb-4">Our Commitment to Founder Resilience</h3>
+                <h4 className="text-2xl font-bold mb-4">Our Commitment to Founder Resilience</h4>
                 <ul className="space-y-3 text-sm opacity-90">
                   <li className="flex items-start gap-2">✓ Shield Your Assets: We prioritize protection of your primary residence and basic life savings.</li>
                   <li className="flex items-start gap-2">✓ Professional Shield: We take 100% of the lender communication, allowing you to focus on your next job or startup.</li>
@@ -584,7 +584,7 @@ export default function LoanSettlementStartupFoundersPage() {
             </section>
 
             <section id="faqs" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Frequently Asked Questions</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Frequently Asked Questions</h3>
               <div className="space-y-4 not-prose">
                 {[
                   { q: "Can I settle my startup debt if I am now a salaried employee?", a: "Yes. In fact, many banks prefer a settlement once you have a stable job as they can see exactly what your 'repayment capacity' is. We ensure your salary account is never frozen during the process." },
@@ -621,7 +621,7 @@ export default function LoanSettlementStartupFoundersPage() {
             <div className="lg:hidden mt-16 mb-8">
               <div className="bg-[#2E2E2E] rounded-2xl shadow-xl overflow-hidden border border-[#1F5EFF]/20">
                 <div className="bg-[#1F5EFF] p-6 text-center text-white">
-                  <h3 className="text-2xl font-black mb-2">Refound Your Life</h3>
+                  <h4 className="text-2xl font-black mb-2">Refound Your Life</h4>
                   <p className="opacity-90 text-sm">Don't let startup debt hold you back. Speak to our startup desk today.</p>
                 </div>
                 <div className="p-8 text-center">
@@ -693,7 +693,7 @@ export default function LoanSettlementStartupFoundersPage() {
         {/* Bottom CTA Section */}
         <section className="w-full bg-[#1F5EFF] py-16 px-4 md:px-8">
             <div className="max-w-4xl mx-auto text-center">
-                <h2 className="text-3xl md:text-5xl font-black text-white mb-6">Your Vision Deserves a Second Chance.</h2>
+                <h3 className="text-3xl md:text-5xl font-black text-white mb-6">Your Vision Deserves a Second Chance.</h3>
                 <p className="text-white/90 text-lg md:text-xl mb-10">Don't let yesterday's startup debt stop tomorrow's breakthrough. Let us handle the banks while you find your next move.</p>
                 <Link href="/contact" className="inline-block bg-white text-[#1F5EFF] font-black py-5 px-12 rounded-xl text-xl hover:scale-105 transition-all shadow-2xl">
                     Get a Free Settlement Audit

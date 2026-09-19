@@ -212,50 +212,50 @@ export default function UnableToPayEMIPage() {
             </section>
 
             <section id="the-fear-factor" className="scroll-mt-32 mb-16">
-               <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">
+               <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">
                  The Fear Factor: What Really Happens When You Default?
-               </h2>
+               </h3>
                <p className="mb-6">Fear is the primary tool used by banks to ensure payment. But knowledge is the primary tool for a borrower to fight back. Let's look at the actual consequences of being unable to pay:</p>
                <div className="grid md:grid-cols-3 gap-6 mb-8">
                   <div className="p-6 bg-white border border-[#DEDEDE] rounded-2xl shadow-sm">
-                    <h3 className="font-bold text-[#1F5EFF] mb-2">Penalties</h3>
+                    <h4 className="font-bold text-[#1F5EFF] mb-2">Penalties</h4>
                     <p className="text-xs opacity-70">Expect a 2-3% monthly penal charge on the unpaid amount. This adds up, but it won't double your debt overnight.</p>
                   </div>
                   <div className="p-6 bg-white border border-[#DEDEDE] rounded-2xl shadow-sm">
-                    <h3 className="font-bold text-[#1F5EFF] mb-2">Credit Score</h3>
+                    <h4 className="font-bold text-[#1F5EFF] mb-2">Credit Score</h4>
                     <p className="text-xs opacity-70">Your CIBIL score will drop by 60-100 points. It's bad, but CIBIL scores can be rebuilt within 12-18 months of resolution.</p>
                   </div>
                   <div className="p-6 bg-white border border-[#DEDEDE] rounded-2xl shadow-sm">
-                    <h3 className="font-bold text-[#1F5EFF] mb-2">Legal Action</h3>
+                    <h4 className="font-bold text-[#1F5EFF] mb-2">Legal Action</h4>
                     <p className="text-xs opacity-70">Banks rarely file a court case before 3 months (90 days) of default. You have a window of opportunity to negotiate.</p>
                   </div>
                </div>
             </section>
 
             <section id="proactive-actions" className="scroll-mt-32 mb-16">
-               <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">
+               <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">
                  Proactive Actions: The First 24 Hours
-               </h2>
+               </h3>
                <p className="mb-8">The worst thing you can do is go 'silent'. Silence is interpreted by banks as 'Wilful Default' (having money but refusing to pay). Communication is interpreted as 'Bona-fide Hardship'.</p>
                <div className="space-y-6">
                  <div className="flex gap-6 items-start">
                     <div className="flex-shrink-0 w-10 h-10 bg-[#1F5EFF] text-white rounded-full flex items-center justify-center font-bold">1</div>
                     <div>
-                       <h3 className="font-bold text-xl mb-2">Draft a formal Hardship Letter</h3>
+                       <h4 className="font-bold text-xl mb-2">Draft a formal Hardship Letter</h4>
                        <p className="text-sm opacity-80 leading-relaxed">Write an email to your branch manager and the bank's customer care. Clearly state the reason for your inability to pay (Medical, Job Loss, Business Closure). Attach proof like a hospital bill or termination letter.</p>
                     </div>
                  </div>
                  <div className="flex gap-6 items-start">
                     <div className="flex-shrink-0 w-10 h-10 bg-[#1F5EFF] text-white rounded-full flex items-center justify-center font-bold">2</div>
                     <div>
-                       <h4 className="font-bold text-xl mb-2">Request an Appointment</h4>
+                       <h5 className="font-bold text-xl mb-2">Request an Appointment</h5>
                        <p className="text-sm opacity-80 leading-relaxed">Visit the branch in person. Talking to a human being makes you a person with a problem, not just an account number in red. Ask for the Nodal Officer if the manager is unhelpful.</p>
                     </div>
                  </div>
                  <div className="flex gap-6 items-start">
                     <div className="flex-shrink-0 w-10 h-10 bg-[#1F5EFF] text-white rounded-full flex items-center justify-center font-bold">3</div>
                     <div>
-                       <h4 className="font-bold text-xl mb-2">Stop Unnecessary Debits</h4>
+                       <h5 className="font-bold text-xl mb-2">Stop Unnecessary Debits</h5>
                        <p className="text-sm opacity-80 leading-relaxed">If you have multiple loans, prioritize the one with the highest interest or the one linked to your house. Stop non-essential insurance or mutual fund SIPs temporarily.</p>
                     </div>
                  </div>
@@ -263,12 +263,12 @@ export default function UnableToPayEMIPage() {
             </section>
 
             <section id="loan-restructuring" className="scroll-mt-32 mb-16">
-               <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">
+               <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">
                  Loan Restructuring: Your Best Hope for Credit Health
-               </h2>
+               </h3>
                <p className="mb-6">Restructuring is the process where the lender modifies the terms of your original agreement to make it affordable. This is the most professional way to handle an inability to pay.</p>
                <div className="bg-blue-50 p-8 rounded-3xl border border-blue-100 mb-8">
-                  <h3 className="font-bold text-blue-800 text-xl mb-4">How Restructuring Helps:</h3>
+                  <h4 className="font-bold text-blue-800 text-xl mb-4">How Restructuring Helps:</h4>
                   <ul className="list-disc pl-6 space-y-4 text-blue-900/80 mb-6">
                     <li><strong>Tenure Extension:</strong> If you have 2 years left on a personal loan, the bank might extend it to 4 years. Your EMI could drop from ₹20,000 to ₹11,000.</li>
                     <li><strong>Interest Rate Reduction:</strong> In rare cases, if you show extreme hardship, banks might reduce the interest rate slightly to ensure they eventually get their money back.</li>
@@ -279,13 +279,13 @@ export default function UnableToPayEMIPage() {
             </section>
 
             <section id="moratorium-options" className="scroll-mt-32 mb-16">
-               <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 lowercase">
+               <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 lowercase">
                  Can I still get a moratorium or an 'EMI Holiday'?
-               </h2>
+               </h3>
                <p className="mb-6">During COVID-19, the RBI mandated a moratorium. Today, there is no blanket mandate, but most bank policies (especially for HDFC, ICICI, SBI) have internal provisions for 'Grace Periods'.</p>
                <div className="grid md:grid-cols-2 gap-8 mb-8">
                   <div className="p-8 bg-gray-900 text-white rounded-[30px]">
-                    <h3 className="font-bold text-xl mb-4 text-[#1F5EFF]">What to Ask For:</h3>
+                    <h4 className="font-bold text-xl mb-4 text-[#1F5EFF]">What to Ask For:</h4>
                     <p className="text-sm opacity-70 leading-relaxed mb-4">"I request a temporary suspension of my EMI payments for 3 months under your internal hardship policy. I am confident of resuming payments by [Date]."</p>
                     <p className="text-xs text-red-400">Warning: Interest will continue to accrue during this period. Your loan balance will actually increase.</p>
                   </div>
@@ -296,9 +296,9 @@ export default function UnableToPayEMIPage() {
             </section>
 
             <section id="refinancing" className="scroll-mt-32 mb-16">
-               <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">
+               <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">
                  Refinancing & Balance Transfer: Using Good Debt to Kill Bad Debt
-               </h2>
+               </h3>
                <p className="mb-6">If your inability to pay is due to high interest rates (like credit cards at 42%), you should consider a Balance Transfer (BT). You move your high-interest debt to a lower-interest personal loan (12-15%).</p>
                <div className="overflow-x-auto mb-8">
                   <table className="min-w-full bg-white border border-gray-200">
@@ -331,43 +331,43 @@ export default function UnableToPayEMIPage() {
             </section>
 
             <section id="rbi-guidelines" className="scroll-mt-32 mb-16">
-               <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">
+               <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">
                  RBI Guidelines for 2024-2025: New Protections
-               </h2>
+               </h3>
                <p className="mb-8">The Reserve Bank of India has recently cracked down on predatory lending and recovery practices. As a borrower, these are your new shields:</p>
                <div className="space-y-6">
                   <div className="p-10 bg-[#E3EDFF] rounded-[40px] border border-blue-200">
-                    <h3 className="text-2xl font-black mb-4">1. Abolition of Penal Interest</h3>
+                    <h4 className="text-2xl font-black mb-4">1. Abolition of Penal Interest</h4>
                     <p className="text-lg leading-relaxed opacity-80">Banks used to charge 'penal interest' and then add it to your principal, meaning you were paying interest on the penalty! RBI has BANNED this (Capitalization of penalties). Now, banks can only charge a one-time 'Penal Charge' which must be reasonable.</p>
                   </div>
                   <div className="p-10 bg-white border border-[#DEDEDE] rounded-[40px] hover:shadow-xl transition-all">
-                    <h3 className="text-2xl font-black mb-4">2. The 30-Day Notice Period</h3>
+                    <h4 className="text-2xl font-black mb-4">2. The 30-Day Notice Period</h4>
                     <p className="text-lg leading-relaxed opacity-80">Lenders must provide a clear 30-day notice before classifying an account as NPA or initiating any aggressive recovery action. This gives you a critical window to talk to experts like SettleLoans.</p>
                   </div>
                   <div className="p-10 bg-white border border-[#DEDEDE] rounded-[40px] hover:shadow-xl transition-all">
-                    <h3 className="text-2xl font-black mb-4">3. Fair Practices in Recovery</h3>
+                    <h4 className="text-2xl font-black mb-4">3. Fair Practices in Recovery</h4>
                     <p className="text-lg leading-relaxed opacity-80">Recovery agents can only call between 8 AM and 7 PM. They cannot use abusive language or call your family/friends. Every communication must now be recorded by the bank and is audible to the RBI Ombudsman.</p>
                   </div>
                </div>
             </section>
 
             <section id="legal-remedies" className="scroll-mt-32 mb-16">
-               <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">
+               <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">
                  Legal Remedies & Rights: The Shield of Law
-               </h2>
+               </h3>
                <div className="bg-amber-50 p-10 rounded-[40px] border border-amber-200 mb-8">
-                  <h3 className="text-2xl font-black text-amber-900 mb-6">Know Your Acts:</h3>
+                  <h4 className="text-2xl font-black text-amber-900 mb-6">Know Your Acts:</h4>
                   <div className="space-y-6">
                     <div>
-                      <h4 className="font-bold text-amber-800">SARFAESI Act (Secured Loans)</h4>
+                      <h5 className="font-bold text-amber-800">SARFAESI Act (Secured Loans)</h5>
                       <p className="text-sm opacity-80">If you have a home loan, the bank will use this act. But they MUST give you a 60-day notice. You can challenge this in the Debt Recovery Tribunal (DRT) if you find any procedural error.</p>
                     </div>
                     <div>
-                      <h5 className="font-bold text-amber-800">Section 138 (Cheque Bounce)</h5>
+                      <h6 className="font-bold text-amber-800">Section 138 (Cheque Bounce)</h6>
                       <p className="text-sm opacity-80">If your payment bounces, it is a quasi-criminal matter. However, the court will always give you a chance to pay. Bail is guaranteed in these cases; nobody goes to jail instantly for an EMI default.</p>
                     </div>
                     <div>
-                      <h5 className="font-bold text-amber-800">Section 403 & 415 (IPC)</h5>
+                      <h6 className="font-bold text-amber-800">Section 403 & 415 (IPC)</h6>
                       <p className="text-sm opacity-80">Banks often threaten with 'Cheating' or 'Misappropriation'. These are almost never applicable to personal loans unless there was a forgery in the documentation.</p>
                     </div>
                   </div>
@@ -375,13 +375,13 @@ export default function UnableToPayEMIPage() {
             </section>
 
             <section id="debt-consolidation" className="scroll-mt-32 mb-16">
-               <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">
+               <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">
                  Debt Consolidation: Merging Multiple Problems into One Solution
-               </h2>
+               </h3>
                <p className="mb-6">If your inability to pay is due to managing 5 different loans with 5 different dates, consolidation is your answer. You take one large loan to pay off all others.</p>
                <div className="bg-teal-50 p-8 rounded-3xl border border-teal-100 flex flex-col md:flex-row gap-8 items-center">
                   <div className="flex-1">
-                    <h3 className="font-bold text-teal-900 text-xl mb-4">Why it works:</h3>
+                    <h4 className="font-bold text-teal-900 text-xl mb-4">Why it works:</h4>
                     <ul className="text-sm text-teal-800 space-y-2 opacity-80">
                       <li>• Only one EMI date to remember.</li>
                       <li>• Psychologically easier to manage one lender.</li>
@@ -397,9 +397,9 @@ export default function UnableToPayEMIPage() {
             </section>
 
             <section id="settlement-guide" className="scroll-mt-32 mb-16">
-               <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 lowercase">
+               <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 lowercase">
                  When all else fails: A guide to Loan Settlement.
-               </h2>
+               </h3>
                <p className="mb-6">Loan settlement is a 'One-Time Settlement' (OTS) where you pay between 30% and 60% of the total amount and the bank closes the file. This is for extreme cases where you literally cannot pay the full amount ever.</p>
                <div className="bg-purple-50 p-8 rounded-[40px] border border-purple-200 mb-8">
                   <p className="mb-4 text-purple-900 leading-relaxed"><strong>The Process:</strong> Once your account reaches 180+ days past due, the bank realizes full recovery is unlikely. They calculate their 'Minimum Floor Price' (the minimum amount to keep the accounting clean). Professional negotiators like SettleLoans know these floor prices for every bank in India and can ensure you get the best deal.</p>
@@ -410,30 +410,30 @@ export default function UnableToPayEMIPage() {
             </section>
 
             <section id="harassment-protection" className="scroll-mt-32 mb-16">
-               <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">
+               <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">
                  The Recovery Agent Shield: Stopping the Harassment
-               </h2>
+               </h3>
                <p className="mb-8">Many people think they have to tolerate abuse because they owe money. This is FALSE. Debtor's rights are human rights.</p>
                <div className="space-y-4">
                   <div className="p-6 bg-white border border-[#DEDEDE] rounded-2xl hover:shadow-md transition-shadow">
-                    <h3 className="font-bold mb-2">Rule 1: Right to Privacy</h3>
+                    <h4 className="font-bold mb-2">Rule 1: Right to Privacy</h4>
                     <p className="text-sm opacity-70">If an agent calls your boss, neighbor, or family, they are committing a crime. You can file a complaint for defamation.</p>
                   </div>
                   <div className="p-6 bg-white border border-[#DEDEDE] rounded-2xl hover:shadow-md transition-shadow">
-                    <h4 className="font-bold mb-2">Rule 2: The Identification Rule</h4>
+                    <h5 className="font-bold mb-2">Rule 2: The Identification Rule</h5>
                     <p className="text-sm opacity-70">Always ask for their identity card and the name of the agency. If they don't have it, they are trespassers. Call the police.</p>
                   </div>
                   <div className="p-6 bg-white border border-[#DEDEDE] rounded-2xl hover:shadow-md transition-shadow">
-                    <h4 className="font-bold mb-2">Rule 3: Record Everything</h4>
+                    <h5 className="font-bold mb-2">Rule 3: Record Everything</h5>
                     <p className="text-sm opacity-70">Use call recording apps. Video record home visits. This evidence is literal gold in the hands of a lawyer if things go to court.</p>
                   </div>
                </div>
             </section>
 
             <section id="hardship-letter" className="scroll-mt-32 mb-16">
-               <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">
+               <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">
                  Template: How to Write a Winning Hardship Letter
-               </h2>
+               </h3>
                <p className="mb-6">Copy and paste this template, fill in your details, and send it to your bank's Nodal Officer today.</p>
                <div className="bg-gray-100 p-10 rounded-[30px] font-mono text-xs opacity-80 leading-relaxed border border-gray-300">
                   <p>Subject: Formal Intimation of Financial Hardship - Loan A/C [Number]</p>
@@ -454,12 +454,12 @@ export default function UnableToPayEMIPage() {
             </section>
 
             <section id="co-applicant-risks" className="scroll-mt-32 mb-16">
-               <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">
+               <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">
                  The Co-Applicant & Guarantor Trap: Protecting Your Family
-               </h2>
+               </h3>
                <p className="mb-6">When you are unable to pay your EMI, it's not just your credit profile at risk. If your spouse, parent, or business partner co-signed the loan, they are equally liable. This is often the most painful part of debt distress.</p>
                <div className="bg-red-50 p-10 rounded-[40px] border border-red-100 mb-8">
-                  <h3 className="font-bold text-red-900 mb-4">Legal Implications for Guarantors:</h3>
+                  <h4 className="font-bold text-red-900 mb-4">Legal Implications for Guarantors:</h4>
                   <p className="text-sm text-red-800/80 leading-relaxed mb-4">Under the Indian Contract Act, the liability of the surety (guarantor) is co-extensive with that of the principal debtor. This means the bank can actually sue your guarantor BEFORE suing you if they think the guarantor has more liquid assets.</p>
                   <ul className="list-disc pl-6 space-y-2 text-xs text-red-800/60 font-bold">
                     <li>• Their CIBIL score will drop identically to yours.</li>
@@ -471,18 +471,18 @@ export default function UnableToPayEMIPage() {
             </section>
 
             <section id="retail-vs-commercial" className="scroll-mt-32 mb-16">
-               <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">
+               <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">
                  Retail vs. Commercial Loan Distress: Different Playbooks
-               </h2>
+               </h3>
                <p className="mb-6">An inability to pay a ₹5 Lakh personal loan is resolved differently than a ₹50 Lakh Business Loan. Understanding which 'bucket' your loan falls into helps determine your leverage.</p>
                <div className="grid md:grid-cols-2 gap-8 mb-8">
                   <div className="p-8 border border-gray-200 rounded-3xl bg-white shadow-sm">
-                    <h3 className="font-black mb-4">Retail Loans (PL, CC, Student)</h3>
+                    <h4 className="font-black mb-4">Retail Loans (PL, CC, Student)</h4>
                     <p className="text-sm opacity-80 mb-4">These are volume-driven. Banks have thousands of such defaulters. They use call centers and automated emails. Settlement here is usually about waiting for the right 'Percentage Offer' (OTS).</p>
                     <p className="text-xs font-bold text-blue-600">Leverage: High. The bank wants to clean up small accounts quickly.</p>
                   </div>
                   <div className="p-8 border border-gray-200 rounded-3xl bg-white shadow-sm">
-                    <h4 className="font-black mb-4">Commercial/SME Loans</h4>
+                    <h5 className="font-black mb-4">Commercial/SME Loans</h5>
                     <p className="text-sm opacity-80 mb-4">These are relationship-driven. You often have a dedicated Relationship Manager (RM). Recovery here is more legal and persistent. Restructuring (CDR) is a better option here than settlement.</p>
                     <p className="text-xs font-bold text-red-600">Leverage: Moderate. Banks will look at your inventory and receivables closely.</p>
                   </div>
@@ -490,9 +490,9 @@ export default function UnableToPayEMIPage() {
             </section>
 
             <section id="psychology-of-debt" className="scroll-mt-32 mb-16">
-               <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">
+               <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">
                  The Psychology of Debt: Staying Strong During the Siege
-               </h2>
+               </h3>
                <p className="mb-6">Being unable to pay an EMI feels like a siege. Your phone. Your mailbox. Your doorstep. Everything feels like a target. This is where most people break. But you must stay strong. Your mental health is the engine that will drive your financial recovery.</p>
                <div className="bg-[#2E2E2E] text-white p-12 rounded-[50px] shadow-2xl">
                   <p className="text-xl italic leading-loose opacity-90 mb-6">"During this time, your job is not to worry. Your job is to generate income and documentation. Worrying doesn't pay EMIs. Negotiation does. Tell yourself every morning: I am a responsible person in a difficult situation. I am solving it one step at a time."</p>
@@ -504,7 +504,7 @@ export default function UnableToPayEMIPage() {
             </section>
 
             <section id="reviews" className="scroll-mt-32 mb-16">
-               <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-12 text-center">People Who Faced the Same Crisis (Review Snippets)</h2>
+               <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-12 text-center">People Who Faced the Same Crisis (Review Snippets)</h3>
                <div className="grid md:grid-cols-2 gap-8 not-prose">
                   <div className="bg-white p-8 rounded-[40px] border border-[#DEDEDE] shadow-sm relative overflow-hidden group">
                      <div className="absolute top-0 right-0 w-24 h-24 bg-blue-500/10 rounded-bl-full -mr-10 -mt-10 group-hover:bg-blue-500/20 transition-all"></div>
@@ -534,7 +534,7 @@ export default function UnableToPayEMIPage() {
             </section>
 
             <section id="faqs" className="scroll-mt-32 mb-16">
-               <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-12 lowercase">Expert FAQs on loan inability.</h2>
+               <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-12 lowercase">Expert FAQs on loan inability.</h3>
                <div className="space-y-4">
                   {[
                     { q: "Can my employer fire me if my bank calls them for a default?", a: "In India, being a loan defaulter is not a ground for termination in most labor laws. However, it can affect your 'Good Conduct' standing in some sensitive sectors like Finance or Defense. It is best to inform your HR proactively about your crisis to preempt any negative perception." },
@@ -570,7 +570,7 @@ export default function UnableToPayEMIPage() {
 
             <div className="mt-24 pt-12 border-t border-[#DEDEDE] text-center mb-24 bg-[#2E2E2E] p-12 rounded-[50px] shadow-2xl relative overflow-hidden group">
               <div className="absolute inset-0 bg-blue-600 opacity-0 group-hover:opacity-10 transition-opacity duration-700"></div>
-              <h2 className="text-4xl md:text-5xl font-black mb-8 text-white relative z-10">Stop the Silence. Start the Recovery.</h2>
+              <h3 className="text-4xl md:text-5xl font-black mb-8 text-white relative z-10">Stop the Silence. Start the Recovery.</h3>
               <p className="mb-12 text-xl text-white/70 max-w-3xl mx-auto relative z-10 leading-relaxed font-bold">Don't wait for the legal notice to arrive. Our 100% legal roadmap has helped over 10,000+ borrowers exit the debt cycle with dignity.</p>
               <Link href="/contact" className="inline-block bg-[#1F5EFF] text-white font-black py-6 px-16 rounded-[25px] text-2xl hover:scale-105 transition-all shadow-2xl relative z-10 ring-4 ring-blue-500/30">
                  Call an Expert for a Free Audit

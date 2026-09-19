@@ -413,20 +413,20 @@ export default function LokAdalatNoticeClient() {
 
               <div className="space-y-4 my-6">
                 <div className="p-5 rounded-xl border border-blue-200 bg-blue-50/60">
-                  <h3 className="text-base font-bold text-blue-900 flex items-center gap-2 mb-1">
+                  <h4 className="text-base font-bold text-blue-900 flex items-center gap-2 mb-1">
                     <Scale className="w-5 h-5 text-[#1F5EFF]" />
                     1. Pre-Litigation Lok Adalat Reference (Most Common)
-                  </h3>
+                  </h4>
                   <p className="text-sm text-blue-800 leading-relaxed">
                     The bank submits a list of defaulted loan accounts to the District Legal Services Authority (DLSA) <em>before</em> any lawsuit or court complaint is filed. The DLSA issues a pre-litigation notice assigning a Pre-Litigation Case (PLC) number, inviting both the borrower and bank officials to meet on the designated Lok Adalat Saturday to reach an amicable One-Time Settlement (OTS).
                   </p>
                 </div>
 
                 <div className="p-5 rounded-xl border border-amber-200 bg-amber-50/60">
-                  <h3 className="text-base font-bold text-amber-900 flex items-center gap-2 mb-1">
+                  <h4 className="text-base font-bold text-amber-900 flex items-center gap-2 mb-1">
                     <Gavel className="w-5 h-5 text-amber-600" />
                     2. Post-Filing / Pending Litigation Lok Adalat Reference
-                  </h3>
+                  </h4>
                   <p className="text-sm text-amber-800 leading-relaxed">
                     If the bank has already filed a Section 138 Negotiable Instruments Act cheque bounce case, a Section 25 PSS Act NACH bounce case, or a civil recovery suit, the presiding Magistrate or Civil Judge may refer the pending case to the upcoming Lok Adalat bench if both parties indicate a willingness to explore compromise terms.
                   </p>
@@ -436,9 +436,9 @@ export default function LokAdalatNoticeClient() {
 
             {/* Comparison Table 1 */}
             <div className="my-8">
-              <h3 className="text-lg md:text-xl font-bold text-slate-900 mb-3">
+              <h4 className="text-lg md:text-xl font-bold text-slate-900 mb-3">
                 Notice Classification Matrix: Lok Adalat vs. Court Summons vs. Fake Recovery Notice
-              </h3>
+              </h4>
               <div className="overflow-x-auto">
                 <table>
                   <thead>
@@ -486,9 +486,9 @@ export default function LokAdalatNoticeClient() {
 
             {/* Section 2 */}
             <section id="mandatory-and-arrest-myths" className="scroll-mt-28 mb-14">
-              <h2 className="text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
+              <h3 className="text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
                 2. Is Lok Adalat Attendance Mandatory? Arrest Myths Debunked
-              </h2>
+              </h3>
               <p className="text-base leading-relaxed mb-5 text-slate-700">
                 The most pervasive tactic deployed by rogue debt collection agents is misrepresenting a Lok Adalat notice as a non-bailable judicial arrest warrant. Borrowers frequently receive threatening phone calls stating: <em>&quot;The Lok Adalat Judge has issued an order to arrest you if you do not report to court with cash by 10:00 AM.&quot;</em>
               </p>
@@ -498,30 +498,30 @@ export default function LokAdalatNoticeClient() {
 
               <div className="space-y-4 my-6">
                 <div className="p-5 rounded-2xl bg-white border border-slate-200 shadow-sm">
-                  <h3 className="font-bold text-slate-900 text-base mb-2 flex items-center gap-2">
+                  <h4 className="font-bold text-slate-900 text-base mb-2 flex items-center gap-2">
                     <ShieldCheck className="w-5 h-5 text-emerald-600" />
                     1. Supreme Court Precedent on Non-Coercive Nature
-                  </h3>
+                  </h4>
                   <p className="text-sm text-slate-600 leading-relaxed">
                     In landmark decisions including <em>State of Punjab v. Jalour Singh (2008 2 SCC 660)</em> and <em>B.P. Moideen Sevamandir v. A.M. Kutty Hassan (2009 2 SCC 198)</em>, the Supreme Court of India held that Lok Adalats have no adjudicatory or judicial power. Their role is solely to persuade parties to reach a compromise. A Lok Adalat cannot pass an order on merits, cannot punish any party, and cannot compel attendance against a citizen&apos;s will.
                   </p>
                 </div>
 
                 <div className="p-5 rounded-2xl bg-white border border-slate-200 shadow-sm">
-                  <h4 className="font-bold text-slate-900 text-base mb-2 flex items-center gap-2">
+                  <h5 className="font-bold text-slate-900 text-base mb-2 flex items-center gap-2">
                     <ShieldAlert className="w-5 h-5 text-rose-600" />
                     2. Complete Absence of Warrant &amp; Contempt Powers
-                  </h4>
+                  </h5>
                   <p className="text-sm text-slate-600 leading-relaxed">
                     A Lok Adalat bench has zero statutory power under the Code of Criminal Procedure (CrPC / BNSS) to issue warrants of arrest, issue property attachment notices, or initiate contempt of court proceedings. If a borrower fails to appear on the scheduled Saturday, the bench simply marks the pre-litigation matter as <em>&quot;Unsettled / Disposed of as Not Settled&quot;</em>.
                   </p>
                 </div>
 
                 <div className="p-5 rounded-2xl bg-white border border-slate-200 shadow-sm">
-                  <h4 className="font-bold text-slate-900 text-base mb-2 flex items-center gap-2">
+                  <h5 className="font-bold text-slate-900 text-base mb-2 flex items-center gap-2">
                     <Landmark className="w-5 h-5 text-[#1F5EFF]" />
                     3. Distinction from Section 138 Cheque Bounce Summons
-                  </h4>
+                  </h5>
                   <p className="text-sm text-slate-600 leading-relaxed">
                     If the bank previously filed a formal Section 138 NI Act or Section 25 PSS Act complaint in a regular Magistrate Court and that specific criminal court referred the matter to Lok Adalat, skipping the Lok Adalat session will return the file back to the regular Magistrate Court. In that scenario, your advocate must appear on the regular court hearing date to secure bail—not because of the Lok Adalat notice, but due to the underlying Section 138 summons.
                   </p>
@@ -531,9 +531,9 @@ export default function LokAdalatNoticeClient() {
 
             {/* Section 3 */}
             <section id="why-banks-choose-lok-adalat" className="scroll-mt-28 mb-14">
-              <h2 className="text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
+              <h3 className="text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
                 3. Why Banks and NBFCs Rely on Lok Adalat for Personal Loan Recoveries
-              </h2>
+              </h3>
               <p className="text-base leading-relaxed mb-5 text-slate-700">
                 Understanding why institutional lenders (such as HDFC Bank, ICICI Bank, SBI, Axis Bank, Kotak Mahindra, Bajaj Finance, and digital fintech NBFCs) aggressively push personal loan defaults to Lok Adalat gives you significant negotiating leverage:
               </p>
@@ -542,7 +542,7 @@ export default function LokAdalatNoticeClient() {
                 <div className="p-5 bg-slate-50 border border-slate-200 rounded-2xl">
                   <div className="flex items-center gap-2 mb-2">
                     <Percent className="w-5 h-5 text-[#1F5EFF]" />
-                    <h3 className="font-bold text-slate-900 text-base">100% Court Fee Exemption</h3>
+                    <h4 className="font-bold text-slate-900 text-base">100% Court Fee Exemption</h4>
                   </div>
                   <p className="text-sm text-slate-600 leading-relaxed">
                     Under <strong>Section 21(1) of the Legal Services Authorities Act, 1987</strong>, no court fee is payable in Lok Adalat. Furthermore, if the bank had already filed a civil suit and paid ad-valorem court fees (often 5% to 8% of the loan amount), the entire court fee is refunded in full to the bank once the matter is settled at Lok Adalat.
@@ -552,7 +552,7 @@ export default function LokAdalatNoticeClient() {
                 <div className="p-5 bg-slate-50 border border-slate-200 rounded-2xl">
                   <div className="flex items-center gap-2 mb-2">
                     <Building2 className="w-5 h-5 text-emerald-600" />
-                    <h4 className="font-bold text-slate-900 text-base">NPA Provisioning Relief</h4>
+                    <h5 className="font-bold text-slate-900 text-base">NPA Provisioning Relief</h5>
                   </div>
                   <p className="text-sm text-slate-600 leading-relaxed">
                     Under RBI Master Directions, commercial banks must set aside capital provisions (ranging from 15% to 100%) against non-performing unsecured personal loans. Settling the account via a Lok Adalat award allows the bank to write off the loss and immediately clean its balance sheet for the financial quarter.
@@ -562,7 +562,7 @@ export default function LokAdalatNoticeClient() {
                 <div className="p-5 bg-slate-50 border border-slate-200 rounded-2xl">
                   <div className="flex items-center gap-2 mb-2">
                     <Clock className="w-5 h-5 text-amber-600" />
-                    <h4 className="font-bold text-slate-900 text-base">Zero Appeal Delays</h4>
+                    <h5 className="font-bold text-slate-900 text-base">Zero Appeal Delays</h5>
                   </div>
                   <p className="text-sm text-slate-600 leading-relaxed">
                     Civil litigation in India takes an average of 4 to 7 years. Because Lok Adalat awards are non-appealable by law, the bank eliminates the risk of endless appellate litigation in the District Court or High Court, locking in guaranteed recovery cash flows.
@@ -572,7 +572,7 @@ export default function LokAdalatNoticeClient() {
                 <div className="p-5 bg-slate-50 border border-slate-200 rounded-2xl">
                   <div className="flex items-center gap-2 mb-2">
                     <Users className="w-5 h-5 text-purple-600" />
-                    <h4 className="font-bold text-slate-900 text-base">Senior Settlement Mandates</h4>
+                    <h5 className="font-bold text-slate-900 text-base">Senior Settlement Mandates</h5>
                   </div>
                   <p className="text-sm text-slate-600 leading-relaxed">
                     On National Lok Adalat days, banks empanel their Senior Vice Presidents, Cluster Heads, and Stressed Asset Managers on the bench. Unlike low-level call-center recovery agents who have zero authority to discount loans, these senior executives carry authorized corporate power to approve immediate 50%+ waivers on the spot.
@@ -583,9 +583,9 @@ export default function LokAdalatNoticeClient() {
 
             {/* Section 4 */}
             <section id="settlement-discounts-and-waivers" className="scroll-mt-28 mb-14">
-              <h2 className="text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
+              <h3 className="text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
                 4. Realistic Settlement Discounts in Lok Adalat (40%–75%)
-              </h2>
+              </h3>
               <p className="text-base leading-relaxed mb-5 text-slate-700">
                 How much debt relief can a borrower realistically achieve when negotiating a personal loan at Lok Adalat? Because personal loans are completely unsecured (with no property, gold, or vehicle pledged as collateral), the bank&apos;s recovery probability in contested litigation is extremely low.
               </p>
@@ -617,9 +617,9 @@ export default function LokAdalatNoticeClient() {
 
             {/* Comparison Table 2 */}
             <div className="my-8">
-              <h3 className="text-lg md:text-xl font-bold text-slate-900 mb-3">
+              <h4 className="text-lg md:text-xl font-bold text-slate-900 mb-3">
                 National Lok Adalat Settlement Matrix: Realistic Discount Benchmarks
-              </h3>
+              </h4>
               <div className="overflow-x-auto">
                 <table>
                   <thead>
@@ -678,9 +678,9 @@ export default function LokAdalatNoticeClient() {
                       <span className="text-[10px] font-black uppercase tracking-widest text-blue-300 block">
                         Legal Defense &amp; Action Blueprint
                       </span>
-                      <h3 className="text-sm md:text-base font-black text-white leading-tight">
+                      <h4 className="text-sm md:text-base font-black text-white leading-tight">
                         Lok Adalat Loan Settlement Summary &amp; Process Overview
-                      </h3>
+                      </h4>
                     </div>
                   </div>
                   <a
@@ -725,9 +725,9 @@ export default function LokAdalatNoticeClient() {
 
             {/* Section 6 */}
             <section id="step-by-step-negotiation-guide" className="scroll-mt-28 mb-14">
-              <h2 className="text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
+              <h3 className="text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
                 6. Action Plan: How to Prepare, Attend & Settle at Lok Adalat
-              </h2>
+              </h3>
               <p className="text-base leading-relaxed mb-5 text-slate-700">
                 Approaching Lok Adalat unprepared can result in settling on unfavorable terms. Following a structured, strategic protocol ensures maximum debt reduction and ironclad legal protection:
               </p>
@@ -739,9 +739,9 @@ export default function LokAdalatNoticeClient() {
                     1
                   </div>
                   <div>
-                    <h3 className="font-bold text-slate-900 text-base mb-1">
+                    <h4 className="font-bold text-slate-900 text-base mb-1">
                       Step 1: Verify Notice Authenticity &amp; Pre-Litigation Case (PLC) Number
-                    </h3>
+                    </h4>
                     <p className="text-sm text-slate-600 leading-relaxed">
                       Examine the physical notice received. Confirm that it carries a legitimate District Legal Services Authority (DLSA) seal, a valid PLC Number, and details of the specific court room/hall. You can verify the case on the state legal services portal or by visiting the DLSA office at your district court.
                     </p>
@@ -753,9 +753,9 @@ export default function LokAdalatNoticeClient() {
                     2
                   </div>
                   <div>
-                    <h4 className="font-bold text-slate-900 text-base mb-1">
+                    <h5 className="font-bold text-slate-900 text-base mb-1">
                       Step 2: Assemble Your Financial Hardship Dossier
-                    </h4>
+                    </h5>
                     <p className="text-sm text-slate-600 leading-relaxed">
                       Lok Adalat conciliation judges are deeply sympathetic to documented distress. Prepare a clean folder containing: termination letters, pink slip notices, salary slips showing steep pay cuts, medical diagnosis reports, hospital billing receipts, GST/ITR returns reflecting business downturn, and bank statements showing low average balances.
                     </p>
@@ -767,9 +767,9 @@ export default function LokAdalatNoticeClient() {
                     3
                   </div>
                   <div>
-                    <h4 className="font-bold text-slate-900 text-base mb-1">
+                    <h5 className="font-bold text-slate-900 text-base mb-1">
                       Step 3: Conduct Pre-Adalat Informal Bargaining with Bank Officers
-                    </h4>
+                    </h5>
                     <p className="text-sm text-slate-600 leading-relaxed">
                       In the 7 to 10 days leading up to Lok Adalat Saturday, contact the bank&apos;s Stressed Asset Resolution Branch (SARB) or have your debt settlement advocate initiate preliminary discussions. Agreeing on tentative settlement numbers in advance ensures that Lok Adalat day is merely used to record formal consent terms before the bench.
                     </p>
@@ -781,9 +781,9 @@ export default function LokAdalatNoticeClient() {
                     4
                   </div>
                   <div>
-                    <h4 className="font-bold text-slate-900 text-base mb-1">
+                    <h5 className="font-bold text-slate-900 text-base mb-1">
                       Step 4: Present Your Case Before the Lok Adalat Bench
-                    </h4>
+                    </h5>
                     <p className="text-sm text-slate-600 leading-relaxed">
                       On hearing day, attend the designated court room with your advocate. Explain your bona fide intention to resolve the debt despite genuine economic hardship. Emphasize that you are not a willful defaulter. The conciliation judge will actively counsel the bank officers to grant maximum principal haircuts and realistic installment timelines.
                     </p>
@@ -795,9 +795,9 @@ export default function LokAdalatNoticeClient() {
                     5
                   </div>
                   <div>
-                    <h4 className="font-bold text-slate-900 text-base mb-1">
+                    <h5 className="font-bold text-slate-900 text-base mb-1">
                       Step 5: Scrutinize the Award Text Before Signing Consent Terms
-                    </h4>
+                    </h5>
                     <p className="text-sm text-slate-600 leading-relaxed">
                       Before affixing your signature to the settlement agreement, ensure the written Award explicitly states: 1) The exact settlement amount and payment due dates; 2) That upon final payment, the entire debt is deemed fully discharged; 3) That the bank shall issue an unconditional No Dues Certificate (NDC) within 30 days; 4) That all pending Section 138, Section 25, or civil recovery proceedings stand permanently withdrawn.
                     </p>
@@ -808,9 +808,9 @@ export default function LokAdalatNoticeClient() {
 
             {/* Comparison Table 3 */}
             <div className="my-8">
-              <h3 className="text-lg md:text-xl font-bold text-slate-900 mb-3">
+              <h4 className="text-lg md:text-xl font-bold text-slate-900 mb-3">
                 Lok Adalat Settlement Award vs. Private Bank OTS Sanction Letter
-              </h3>
+              </h4>
               <div className="overflow-x-auto">
                 <table>
                   <thead>
@@ -853,18 +853,18 @@ export default function LokAdalatNoticeClient() {
 
             {/* Section 7 */}
             <section id="legal-finality-section-21" className="scroll-mt-28 mb-14">
-              <h2 className="text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
+              <h3 className="text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
                 7. Legal Finality of Lok Adalat Awards Under Section 21
-              </h2>
+              </h3>
               <p className="text-base leading-relaxed mb-5 text-slate-700">
                 The single most powerful advantage of settling a personal loan through Lok Adalat is its <strong>unshakeable legal finality</strong>. Under Section 21 of the Legal Services Authorities Act, 1987, every award passed by a Lok Adalat bench has the legal character and enforceability of a formal decree passed by a competent Civil Court.
               </p>
 
               <div className="bg-slate-100 border-l-4 border-slate-700 p-5 rounded-r-xl my-6">
-                <h3 className="font-bold text-slate-900 text-base mb-1.5 flex items-center gap-2">
+                <h4 className="font-bold text-slate-900 text-base mb-1.5 flex items-center gap-2">
                   <Scale className="w-5 h-5 text-[#1F5EFF]" />
                   Statutory Rule on Non-Appealable Consent Decrees:
-                </h3>
+                </h4>
                 <p className="text-sm text-slate-700 leading-relaxed">
                   &quot;Under Section 96(3) of the Code of Civil Procedure, 1908, no appeal shall lie from a decree passed by the court with the consent of parties. Because a Lok Adalat award is founded on mutual consent, neither the borrower nor the bank can appeal against the award before any District Court, High Court, or the Supreme Court.&quot;
                 </p>
@@ -886,9 +886,9 @@ export default function LokAdalatNoticeClient() {
 
             {/* Section 8 */}
             <section id="what-if-you-do-not-attend" className="scroll-mt-28 mb-14">
-              <h2 className="text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
+              <h3 className="text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
                 8. What Happens If You Do Not Attend Lok Adalat?
-              </h2>
+              </h3>
               <p className="text-base leading-relaxed mb-5 text-slate-700">
                 Many borrowers ask: <em>&quot;What if I simply do not show up on Lok Adalat Saturday? Will a judgment be passed against me in my absence?&quot;</em>
               </p>
@@ -898,30 +898,30 @@ export default function LokAdalatNoticeClient() {
 
               <div className="space-y-4 my-6">
                 <div className="p-5 bg-slate-50 border border-slate-200 rounded-xl">
-                  <h3 className="font-bold text-slate-900 text-base mb-1 flex items-center gap-2">
+                  <h4 className="font-bold text-slate-900 text-base mb-1 flex items-center gap-2">
                     <CheckCircle className="w-5 h-5 text-emerald-600" />
                     What Actually Happens at the Bench:
-                  </h3>
+                  </h4>
                   <p className="text-sm text-slate-600 leading-relaxed">
                     The bench calls the case. If the borrower is absent, the judge notes: <em>&quot;Borrower absent. Matter unsettled. Returned to referring bank.&quot;</em> The pre-litigation file is permanently closed without cost or penalty.
                   </p>
                 </div>
 
                 <div className="p-5 bg-slate-50 border border-slate-200 rounded-xl">
-                  <h4 className="font-bold text-slate-900 text-base mb-1 flex items-center gap-2">
+                  <h5 className="font-bold text-slate-900 text-base mb-1 flex items-center gap-2">
                     <AlertTriangle className="w-5 h-5 text-amber-600" />
                     What the Bank May Do Next:
-                  </h4>
+                  </h5>
                   <p className="text-sm text-slate-600 leading-relaxed">
                     With the pre-litigation attempt failed, the bank evaluates three choices: 1) Send regular advocate demand notices; 2) File a formal civil recovery suit or Section 138/25 complaint in court; 3) Re-list the matter in the next quarterly National Lok Adalat session (3 months later) with better settlement terms.
                   </p>
                 </div>
 
                 <div className="p-5 bg-slate-50 border border-slate-200 rounded-xl">
-                  <h4 className="font-bold text-slate-900 text-base mb-1 flex items-center gap-2">
+                  <h5 className="font-bold text-slate-900 text-base mb-1 flex items-center gap-2">
                     <Award className="w-5 h-5 text-[#1F5EFF]" />
                     Strategic Assessment: When to Attend vs. When to Skip:
-                  </h4>
+                  </h5>
                   <p className="text-sm text-slate-600 leading-relaxed">
                     If you have access to some settlement funds (even 30% to 40% of the loan value) via family assistance or savings, <strong>attending is strongly recommended</strong> because you will never get a better discount forum. If you are in total financial destitution with zero funds to offer, skipping is harmless; you can wait until your financial situation stabilizes.
                   </p>
@@ -931,18 +931,18 @@ export default function LokAdalatNoticeClient() {
 
             {/* Section 9 */}
             <section id="post-settlement-ndc-cibil" className="scroll-mt-28 mb-14">
-              <h2 className="text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
+              <h3 className="text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
                 9. Post-Settlement Compliance: Securing NDC & CIBIL Update
-              </h2>
+              </h3>
               <p className="text-base leading-relaxed mb-5 text-slate-700">
                 Securing a favorable Lok Adalat award is only half the battle; ensuring meticulous post-settlement execution is essential to protect your credit profile and financial standing:
               </p>
 
               <div className="bg-slate-50 border border-slate-200 rounded-2xl p-6 my-6 space-y-4">
-                <h3 className="text-base font-bold text-slate-900 flex items-center gap-2">
+                <h4 className="text-base font-bold text-slate-900 flex items-center gap-2">
                   <FileCheck className="w-5 h-5 text-emerald-600" />
                   4-Point Post-Lok Adalat Checklist:
-                </h3>
+                </h4>
                 <ol className="list-decimal list-inside space-y-3 text-sm md:text-base text-slate-700">
                   <li>
                     <strong>Execute Payments Strictly via Verifiable Banking Channels:</strong> Never pay cash to collection agents. Remit settlement tranches directly to your loan account via RTGS, NEFT, or Demand Draft, quoting the Lok Adalat Case Number in the transaction remarks.
@@ -965,9 +965,9 @@ export default function LokAdalatNoticeClient() {
 
             {/* Section 10: FAQ Accordion */}
             <section id="faqs" className="scroll-mt-28 mb-14">
-              <h2 className="text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
+              <h3 className="text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
                 10. Frequently Asked Questions (FAQ)
-              </h2>
+              </h3>
               <p className="text-base leading-relaxed mb-8 text-slate-600">
                 Authoritative legal answers to the most common questions surrounding Lok Adalat notices, attendance rules, arrest fears, and loan settlement negotiations in India.
               </p>
@@ -987,10 +987,10 @@ export default function LokAdalatNoticeClient() {
 
             {/* Regulatory Sources & References (Exactly 5 Links) */}
             <div className="bg-slate-50 border border-slate-200 rounded-2xl p-6 my-10">
-              <h3 className="text-sm font-bold uppercase tracking-wider text-slate-900 mb-4 flex items-center gap-2">
+              <h4 className="text-sm font-bold uppercase tracking-wider text-slate-900 mb-4 flex items-center gap-2">
                 <Landmark className="w-4 h-4 text-[#1F5EFF]" />
                 <span>Official Regulatory Sources &amp; Statutory Authorities</span>
-              </h3>
+              </h4>
               <ul className="space-y-2.5 text-xs md:text-sm text-slate-600">
                 <li className="flex items-center gap-2">
                   <ExternalLink className="w-4 h-4 text-[#1F5EFF] flex-shrink-0" />
@@ -1052,9 +1052,9 @@ export default function LokAdalatNoticeClient() {
 
             {/* Internal Topic Badges (10 Links) */}
             <div className="my-10 pt-6 border-t border-slate-200">
-              <h4 className="text-sm font-bold uppercase tracking-wider text-slate-900 mb-4">
+              <h5 className="text-sm font-bold uppercase tracking-wider text-slate-900 mb-4">
                 Related Debt Resolution &amp; Legal Protection Guides
-              </h4>
+              </h5>
               <div className="flex flex-wrap gap-2">
                 <Link
                   href="/personal-loan-legal-notice"

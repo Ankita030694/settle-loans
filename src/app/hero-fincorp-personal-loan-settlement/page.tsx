@@ -554,7 +554,7 @@ export default function HeroFincorpPersonalLoanSettlementPage() {
                 <Clock className="w-4 h-4" />
                 <span>2. Delinquency Timeline &amp; NPA Lifecycle</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-3 leading-tight">Hero FinCorp Delinquency Lifecycle</h2>
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-3 leading-tight">Hero FinCorp Delinquency Lifecycle</h3>
               <p className="text-slate-700 leading-relaxed mb-3 text-sm sm:text-base">
                 Hero FinCorp follows RBI IRACP norms and Ind AS 109 rules to track late payments. Knowing these stages helps you pick the right time to settle your loan.
               </p>
@@ -622,7 +622,7 @@ export default function HeroFincorpPersonalLoanSettlementPage() {
                 <Banknote className="w-4 h-4" />
                 <span>3. Stopping NACH Bounce Charges &amp; Penal Fees</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-3 leading-tight">Stopping Hero FinCorp Bounce Charges &amp; NACH Hits</h2>
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-3 leading-tight">Stopping Hero FinCorp Bounce Charges &amp; NACH Hits</h3>
               <p className="text-slate-700 leading-relaxed mb-3 text-sm sm:text-base">
                 Repeated auto-debit hits drain your bank account. HFCL systems present NACH mandates multiple times a month. Each failed debit adds bank fees and internal penalty charges. These fees can total thousands of rupees.
               </p>
@@ -637,7 +637,7 @@ export default function HeroFincorpPersonalLoanSettlementPage() {
                 <Calculator className="w-4 h-4" />
                 <span>4. OTS Haircut Policies &amp; Valuation Framework</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-3 leading-tight">Hero FinCorp One-Time Settlement (OTS)</h2>
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-3 leading-tight">Hero FinCorp One-Time Settlement (OTS)</h3>
               <p className="text-slate-700 leading-relaxed mb-3 text-sm sm:text-base">
                 Under RBI Master Directions (2023), Hero FinCorp reviews OTS offers using Net Present Value (NPV). Since personal loans have no security, HFCL prefers fast cash today over years of slow court battles.
               </p>
@@ -657,7 +657,7 @@ export default function HeroFincorpPersonalLoanSettlementPage() {
               </div>
 
               {/* Settlement Haircut Slabs Table */}
-              <h3 className="text-base font-bold text-slate-900 mb-2">Realistic Hero FinCorp Settlement Haircut Slabs by Aging</h3>
+              <h4 className="text-base font-bold text-slate-900 mb-2">Realistic Hero FinCorp Settlement Haircut Slabs by Aging</h4>
               <div className="overflow-x-auto my-3">
                 <table className="min-w-full bg-white">
                   <thead>
@@ -715,9 +715,9 @@ export default function HeroFincorpPersonalLoanSettlementPage() {
                       <span className="text-[10px] font-black uppercase tracking-widest text-blue-300 block">
                         Legal Defense &amp; Action Blueprint
                       </span>
-                      <h3 className="text-xs sm:text-sm font-black text-white leading-tight">
+                      <h4 className="text-xs sm:text-sm font-black text-white leading-tight">
                         Hero FinCorp Personal Loan Settlement &amp; Legal Defense Blueprint
-                      </h3>
+                      </h4>
                     </div>
                   </div>
                   <a
@@ -763,7 +763,7 @@ export default function HeroFincorpPersonalLoanSettlementPage() {
                 <ShieldAlert className="w-4 h-4" />
                 <span>5. Recovery Practices &amp; RBI Harassment Defense</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-3 leading-tight">Defending Against Harassment Under RBI NBFC Directives</h2>
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-3 leading-tight">Defending Against Harassment Under RBI NBFC Directives</h3>
               <p className="text-slate-700 leading-relaxed mb-3 text-sm sm:text-base">
                 Hero FinCorp hires third-party recovery agencies. Agents often push hard to meet monthly targets. But RBI Master Directions set strict rules. Agents can only call between 8:00 AM and 7:00 PM. They cannot call your family or visit your workplace without consent.
               </p>
@@ -778,67 +778,67 @@ export default function HeroFincorpPersonalLoanSettlementPage() {
                 <Layers className="w-4 h-4" />
                 <span>6. Step-by-Step NBFC Settlement Roadmap</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-3 leading-tight">Step-by-Step Guide to a Compromise Settlement with Hero</h2>
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-3 leading-tight">Step-by-Step Guide to a Compromise Settlement with Hero</h3>
               <p className="text-slate-700 leading-relaxed mb-4 text-sm sm:text-base">
                 Follow these six simple steps to settle your Hero FinCorp loan:
               </p>
 
               <div className="space-y-4">
                 <div className="p-4 rounded-xl bg-white border border-slate-200 shadow-sm">
-                  <h3 className="text-base font-bold text-slate-900 mb-1 flex items-center gap-2">
+                  <h4 className="text-base font-bold text-slate-900 mb-1 flex items-center gap-2">
                     <span className="w-6 h-6 rounded-lg bg-blue-50 text-[#1F5EFF] font-black text-xs flex items-center justify-center border border-blue-200">1</span>
                     Hardship Dossier Compilation
-                  </h3>
+                  </h4>
                   <p className="text-slate-600 text-xs sm:text-sm leading-relaxed">
                     Collect proof of your financial crisis. Gather salary cut slips, medical bills, or job loss letters. This proves non-wilful default under RBI rules.
                   </p>
                 </div>
 
                 <div className="p-4 rounded-xl bg-white border border-slate-200 shadow-sm">
-                  <h3 className="text-base font-bold text-slate-900 mb-1 flex items-center gap-2">
+                  <h4 className="text-base font-bold text-slate-900 mb-1 flex items-center gap-2">
                     <span className="w-6 h-6 rounded-lg bg-blue-50 text-[#1F5EFF] font-black text-xs flex items-center justify-center border border-blue-200">2</span>
                     NACH Revocation &amp; Formal Communication
-                  </h3>
+                  </h4>
                   <p className="text-slate-600 text-xs sm:text-sm leading-relaxed">
                     Ask your bank to cancel automated NACH debits to stop bank charges. Direct all talks to written emails through your lawyer.
                   </p>
                 </div>
 
                 <div className="p-4 rounded-xl bg-white border border-slate-200 shadow-sm">
-                  <h3 className="text-base font-bold text-slate-900 mb-1 flex items-center gap-2">
+                  <h4 className="text-base font-bold text-slate-900 mb-1 flex items-center gap-2">
                     <span className="w-6 h-6 rounded-lg bg-blue-50 text-[#1F5EFF] font-black text-xs flex items-center justify-center border border-blue-200">3</span>
                     Direct SARB Petition Submission
-                  </h3>
+                  </h4>
                   <p className="text-slate-600 text-xs sm:text-sm leading-relaxed">
                     Send a formal OTS letter straight to Hero FinCorp&apos;s SARB team. Cite RBI compromise rules and start with an offer of 25% to 35% of dues.
                   </p>
                 </div>
 
                 <div className="p-4 rounded-xl bg-white border border-slate-200 shadow-sm">
-                  <h3 className="text-base font-bold text-slate-900 mb-1 flex items-center gap-2">
+                  <h4 className="text-base font-bold text-slate-900 mb-1 flex items-center gap-2">
                     <span className="w-6 h-6 rounded-lg bg-blue-50 text-[#1F5EFF] font-black text-xs flex items-center justify-center border border-blue-200">4</span>
                     Committee Approvals &amp; Counter-Offers
-                  </h3>
+                  </h4>
                   <p className="text-slate-600 text-xs sm:text-sm leading-relaxed">
                     Handle counter-offers by showing limited family help. Guide the Credit Committee to agree to a 40% to 60% principal waiver.
                   </p>
                 </div>
 
                 <div className="p-4 rounded-xl bg-white border border-slate-200 shadow-sm">
-                  <h3 className="text-base font-bold text-slate-900 mb-1 flex items-center gap-2">
+                  <h4 className="text-base font-bold text-slate-900 mb-1 flex items-center gap-2">
                     <span className="w-6 h-6 rounded-lg bg-blue-50 text-[#1F5EFF] font-black text-xs flex items-center justify-center border border-blue-200">5</span>
                     Forensic Sanction Letter Audit
-                  </h3>
+                  </h4>
                   <p className="text-slate-600 text-xs sm:text-sm leading-relaxed">
                     Check the settlement letter on official Hero FinCorp letterhead. Confirm loan numbers, exact payment dates, and full waiver terms before paying.
                   </p>
                 </div>
 
                 <div className="p-4 rounded-xl bg-white border border-slate-200 shadow-sm">
-                  <h3 className="text-base font-bold text-slate-900 mb-1 flex items-center gap-2">
+                  <h4 className="text-base font-bold text-slate-900 mb-1 flex items-center gap-2">
                     <span className="w-6 h-6 rounded-lg bg-blue-50 text-[#1F5EFF] font-black text-xs flex items-center justify-center border border-blue-200">6</span>
                     Direct Payment &amp; ₹0 NDC Issuance
-                  </h3>
+                  </h4>
                   <p className="text-slate-600 text-xs sm:text-sm leading-relaxed">
                     Pay the agreed settlement amount directly to the HFCL loan account. Collect your official No Dues Certificate within 30 days under RBI rules.
                   </p>
@@ -852,7 +852,7 @@ export default function HeroFincorpPersonalLoanSettlementPage() {
                 <Gavel className="w-4 h-4" />
                 <span>7. Section 25 Notices, Arbitration &amp; Lok Adalat</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-3 leading-tight">Navigating Hero Fincorp Sec 25 PSSA &amp; Lok Adalat</h2>
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-3 leading-tight">Navigating Hero Fincorp Sec 25 PSSA &amp; Lok Adalat</h3>
               <p className="text-slate-700 leading-relaxed mb-3 text-sm sm:text-base">
                 After 60 to 90 days of default, Hero FinCorp may send Section 25 PSSA notices for bounced debits. They may also send arbitration notices. A Section 25 notice is not an arrest warrant. Replying within 15 days with hardship proof protects your rights and starts settlement talks.
               </p>
@@ -911,7 +911,7 @@ export default function HeroFincorpPersonalLoanSettlementPage() {
                 <FileCheck className="w-4 h-4" />
                 <span>8. Sanction Letter Audit &amp; ₹0 NDC Mandate</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-3 leading-tight">Authenticating Hero FinCorp Settlement Letters</h2>
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-3 leading-tight">Authenticating Hero FinCorp Settlement Letters</h3>
               <p className="text-slate-700 leading-relaxed mb-3 text-sm sm:text-base">
                 Always check your OTS letter before paying. The letter must come on official Hero FinCorp Limited letterhead. It must show CIN: U74899DL1991PLC046774, office address, officer details, and clear loan closure terms.
               </p>
@@ -926,7 +926,7 @@ export default function HeroFincorpPersonalLoanSettlementPage() {
                 <TrendingUp className="w-4 h-4" />
                 <span>9. CIBIL Score Trajectory &amp; Rehabilitation</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-3 leading-tight">Hero Fincorp Post-Settlement CIBIL Score Recovery</h2>
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-3 leading-tight">Hero Fincorp Post-Settlement CIBIL Score Recovery</h3>
               <p className="text-slate-700 leading-relaxed mb-3 text-sm sm:text-base">
                 After an OTS, Hero FinCorp marks your loan as <strong>&apos;Settled&apos;</strong> with a <strong>₹0</strong> balance. Your score may drop by 75 to 150 points at first. But all default interest and legal risks stop for good.
               </p>
@@ -941,9 +941,9 @@ export default function HeroFincorpPersonalLoanSettlementPage() {
                 <ShieldCheck className="w-4 h-4" />
                 <span>10. Legal Defense &amp; Representation</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-3 leading-tight">
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-3 leading-tight">
                 Why Distressed Hero FinCorp Borrowers Trust SettleLoans
-              </h2>
+              </h3>
               <p className="text-slate-700 leading-relaxed mb-4 text-sm sm:text-base">
                 SettleLoans provides legal defense and debt relief for defaulted Hero FinCorp loans. Our advocates stop agent harassment, answer Section 25 notices, and negotiate directly with SARB credit desks for top debt waivers and ₹0 No Dues Certificates.
               </p>
@@ -959,7 +959,7 @@ export default function HeroFincorpPersonalLoanSettlementPage() {
                 <HelpCircle className="w-4 h-4" />
                 <span>11. Frequently Asked Questions</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-5 leading-tight">FAQs: Hero FinCorp Loan Settlement</h2>
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-5 leading-tight">FAQs: Hero FinCorp Loan Settlement</h3>
 
               <div className="space-y-3">
                 {faqs.map((faq, index) => (
@@ -985,10 +985,10 @@ export default function HeroFincorpPersonalLoanSettlementPage() {
 
             {/* Regulatory References & Official Sources Strip */}
             <div className="bg-slate-50 border border-slate-200 rounded-2xl p-5 my-8">
-              <h3 className="text-sm sm:text-base font-bold text-slate-900 mb-3 flex items-center gap-2">
+              <h4 className="text-sm sm:text-base font-bold text-slate-900 mb-3 flex items-center gap-2">
                 <Landmark className="w-4 h-4 text-[#1F5EFF]" />
                 Official Regulatory References &amp; Statutory Circulars
-              </h3>
+              </h4>
               <ul className="space-y-2 text-xs text-slate-600">
                 <li className="flex items-start gap-2">
                   <ExternalLink className="w-3.5 h-3.5 text-[#1F5EFF] flex-shrink-0 mt-0.5" />
@@ -1025,10 +1025,10 @@ export default function HeroFincorpPersonalLoanSettlementPage() {
 
             {/* Related Guides & Resources Strip */}
             <div className="bg-slate-50 border border-slate-200 rounded-2xl p-5 my-8">
-              <h3 className="text-sm sm:text-base font-bold text-slate-900 mb-3 flex items-center gap-2">
+              <h4 className="text-sm sm:text-base font-bold text-slate-900 mb-3 flex items-center gap-2">
                 <BookOpen className="w-4 h-4 text-[#1F5EFF]" />
                 Explore Related Banking &amp; Debt Resolution Guides
-              </h3>
+              </h4>
               <div className="flex flex-wrap gap-2">
                 <Link href="/bank-one-time-settlement-ots-policy" className="py-1.5 px-3 rounded-full bg-white hover:bg-[#1F5EFF] hover:text-white text-slate-700 text-xs font-semibold transition border border-slate-200">
                   Bank OTS Policy

@@ -496,9 +496,9 @@ export default function TraiDndViolationComplaintRecoveryCallsPage() {
 
             {/* Section 2: Telecom Regulations: TCCCPR 2018 & DoT Directives */}
             <section id="telecom-regulations-tcccpr-dot" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                 2. Telecom Regulations: TCCCPR 2018 &amp; DoT Directives
-              </h2>
+              </h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 The regulatory architecture governing telephonic communications in India is established by the Telecom Regulatory Authority of India (TRAI) and the Department of Telecommunications (DoT). The primary statutory mechanism is the Telecom Commercial Communications Customer Preference Regulations, 2018 (TCCCPR). Under these regulations, any telephonic contact initiated for commercial recovery, credit evaluation, or payment solicitation is classified as Commercial Communication. Telecom regulations strictly prohibit commercial entities from placing recovery calls from standard, individual 10-digit subscriber numbers.
               </p>
@@ -538,9 +538,9 @@ export default function TraiDndViolationComplaintRecoveryCallsPage() {
 
             {/* Section 3: RBI Fair Practices Code on Debt Collection Calls */}
             <section id="rbi-fair-practices-collection-calls" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                 3. RBI Fair Practices Code on Debt Collection Calls
-              </h2>
+              </h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 The Reserve Bank of India exercises strict supervisory authority over scheduled commercial banks, non-banking financial companies (NBFCs), and housing finance institutions. Through the Master Direction on Managing Risks and Code of Conduct in Outsourcing of Financial Services, read alongside the Fair Practices Code (FPC), the central bank has established unambiguous parameters governing telephonic debt recovery. The RBI recognizes that while lenders retain the right to demand repayment of lawful dues, such recovery must never compromise the borrower&apos;s dignity or personal privacy.
               </p>
@@ -578,9 +578,9 @@ export default function TraiDndViolationComplaintRecoveryCallsPage() {
 
             {/* Section 4: Statutory Penalties Under BNS and IT Act, 2000 */}
             <section id="penal-liabilities-bns-it-act" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                 4. Statutory Penalties Under BNS and IT Act, 2000
-              </h2>
+              </h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 When recovery agents use technological trickery to conceal their caller identities while making threatening demands, their conduct crosses the threshold from civil contractual non-compliance into criminal offense. Under the Bharatiya Nyaya Sanhita, 2023 (BNS), which replaced the Indian Penal Code, and the Information Technology Act, 2000 (IT Act), individuals and corporate entities deploying deceptive telephonic mechanisms face rigorous statutory prosecution.
               </p>
@@ -638,9 +638,9 @@ export default function TraiDndViolationComplaintRecoveryCallsPage() {
 
             {/* Section 6: Step-by-Step DoT Chakshu Portal Reporting Guide */}
             <section id="dot-chakshu-portal-filing-protocol" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                 6. DoT Chakshu Portal Guide for Number Disconnection
-              </h2>
+              </h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 To combat the rising menace of cyber fraud, spoofed calls, and malicious telecom communications, the Department of Telecommunications launched the Chakshu facility under the unified Sanchar Saathi initiative (sancharsaathi.gov.in). Unlike conventional spam filters, Chakshu is an official government enforcement mechanism that interfaces directly with all Indian Telecom Service Providers (TSPs), including Reliance Jio, Bharti Airtel, and Vodafone Idea. When citizens report suspected communication on Chakshu, the DoT initiates an automated forensic audit that can result in the nationwide disconnection of the offending number and the blacklisting of the caller&apos;s handset IMEI.
               </p>
@@ -682,9 +682,9 @@ export default function TraiDndViolationComplaintRecoveryCallsPage() {
 
             {/* Section 7: TRAI DND 3.0 App & Telecom Operator Escalation */}
             <section id="trai-dnd-app-telecom-escalation" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                 7. TRAI DND 3.0 App &amp; Telecom Operator Escalation
-              </h2>
+              </h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 In addition to the central DoT Chakshu portal, the Telecom Regulatory Authority of India provides an automated mobile application known as TRAI DND 3.0 (Do Not Disturb). Available on official mobile app stores, the application enables subscribers to register their telecommunication preferences and lodge formal statutory complaints against Unsolicited Commercial Communications (UCC) directly from their device call and messaging logs.
               </p>
@@ -718,9 +718,9 @@ export default function TraiDndViolationComplaintRecoveryCallsPage() {
 
             {/* Section 8: Bank NPA Provisioning & The NPV Recovery Model */}
             <section id="bank-npa-accounting-npv-recovery" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                 8. Bank NPA Provisioning &amp; The NPV Recovery Model
-              </h2>
+              </h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 To counter collection agency tactics effectively, borrowers must understand the underlying financial mechanics that drive these aggressive telemarketing operations. Banks and NBFCs do not deploy automated dialers because they possess overwhelming legal power; they deploy them because civil litigation for unsecured loans is slow, costly, and financially inefficient for the lender. Under the Reserve Bank of India&apos;s Prudential Norms on Income Recognition, Asset Classification and Provisioning (IRACP), an unpaid loan becomes a Non-Performing Asset (NPA) once repayments remain overdue for 90 consecutive days.
               </p>
@@ -752,9 +752,9 @@ export default function TraiDndViolationComplaintRecoveryCallsPage() {
 
             {/* Section 9: Comparative Matrix: Telecom Channels vs Remedies */}
             <section id="comparative-telecom-defense-matrix" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                 9. Comparative Matrix: Telecom Channels vs Remedies
-              </h2>
+              </h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Navigating digital collection harassment requires understanding the distinct legal jurisdictions, operational authority, and corrective remedies available across different telecommunication channels in India. The comparative matrix below outlines the regulatory boundaries governing these channels:
               </p>
@@ -816,9 +816,9 @@ export default function TraiDndViolationComplaintRecoveryCallsPage() {
             {/* Section 10: SettleLoans Legal Defense & Cease-and-Desist */}
             <section id="settleloans-legal-defense-framework" className="space-y-6">
               <div className="border-t border-slate-200 pt-8 space-y-4">
-                <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
+                <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                   10. SettleLoans Legal Defense &amp; Cease-and-Desist
-                </h2>
+                </h3>
                 <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                   Enduring relentless auto-dialer harassment from anonymous virtual phone numbers can destabilize your personal and professional life. At SettleLoans, our experienced banking and telecommunication defense advocates provide immediate institutional intervention. We issue formal Cease-and-Desist notices to the lender&apos;s managing director, principal nodal officer, and outsourced recovery agencies, citing Section 351 BNS criminal liabilities, TRAI TCCCPR (2018) regulations, and RBI Fair Practices Code violations. Under central bank rules, the service of formal legal representation mandates the lender to cease all telephonic outreach and route all communications exclusively through our legal team.
                 </p>
@@ -835,9 +835,9 @@ export default function TraiDndViolationComplaintRecoveryCallsPage() {
             <section id="faqs" className="space-y-4 border-t border-slate-200 pt-8">
               <div className="flex items-center gap-2 mb-2">
                 <HelpCircle className="w-5 h-5 text-[#1F5EFF]" />
-                <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
+                <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                   11. FAQs: TRAI DND Complaints &amp; Virtual Recovery Calls
-                </h2>
+                </h3>
               </div>
               <p className="text-xs sm:text-sm text-slate-600 mb-6">
                 Authoritative statutory answers addressing recovery agent auto-dialers, DoT Chakshu portal reporting, TRAI DND 3.0 mechanics, and borrower legal defense rights in India.

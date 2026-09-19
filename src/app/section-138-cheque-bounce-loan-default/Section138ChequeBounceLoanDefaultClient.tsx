@@ -456,9 +456,9 @@ SettleLoans Legal Advisory Network`;
 
             {/* Section 2 */}
             <section id="statutory-process" className="scroll-mt-28 mb-14">
-              <h2 className="text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
+              <h3 className="text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
                 2. The 4-Stage Statutory Timeline under Section 138 NI Act
-              </h2>
+              </h3>
               <p className="text-base leading-relaxed mb-6 text-slate-700">
                 The Negotiable Instruments Act establishes an unalterable, strict statutory sequence of events. A bank cannot arbitrarily file a criminal case or demand your arrest without complying precisely with every statutory milestone. If the bank misses any statutory limitation period by even a single day, the entire complaint becomes legally defective and subject to dismissal under Section 142.
               </p>
@@ -470,9 +470,9 @@ SettleLoans Legal Advisory Network`;
                     <div className="w-9 h-9 rounded-xl bg-blue-100 text-[#1F5EFF] flex items-center justify-center font-black text-sm">
                       01
                     </div>
-                    <h3 className="font-bold text-slate-900 text-base">
+                    <h4 className="font-bold text-slate-900 text-base">
                       Cheque Dishonour &amp; Return Memo
-                    </h3>
+                    </h4>
                   </div>
                   <p className="text-xs text-slate-600 leading-relaxed mb-2">
                     The cheque must be presented to the bank within its validity period of <strong>3 months</strong> from the date inscribed on it. Upon dishonour, the drawee bank issues a formal &quot;Cheque Return Memo&quot; specifying the reason (e.g. &quot;Funds Insufficient&quot; or &quot;Account Closed&quot;).
@@ -487,9 +487,9 @@ SettleLoans Legal Advisory Network`;
                     <div className="w-9 h-9 rounded-xl bg-blue-100 text-[#1F5EFF] flex items-center justify-center font-black text-sm">
                       02
                     </div>
-                    <h3 className="font-bold text-slate-900 text-base">
+                    <h4 className="font-bold text-slate-900 text-base">
                       Mandatory 30-Day Legal Demand Notice
-                    </h3>
+                    </h4>
                   </div>
                   <p className="text-xs text-slate-600 leading-relaxed mb-2">
                     Under Section 138(b), the bank MUST issue a formal statutory demand notice in writing within <strong>30 calendar days</strong> of receiving the cheque dishonour memo from the clearing house. If dispatched on Day 31, the entire proceeding is void ab initio.
@@ -504,9 +504,9 @@ SettleLoans Legal Advisory Network`;
                     <div className="w-9 h-9 rounded-xl bg-blue-100 text-[#1F5EFF] flex items-center justify-center font-black text-sm">
                       03
                     </div>
-                    <h3 className="font-bold text-slate-900 text-base">
+                    <h4 className="font-bold text-slate-900 text-base">
                       15-Day Statutory Cure Period
-                    </h3>
+                    </h4>
                   </div>
                   <p className="text-xs text-slate-600 leading-relaxed mb-2">
                     Upon receipt of the legal notice, the law gives the borrower a mandatory <strong>15-day cure window</strong> to respond or arrange settlement. No criminal offence exists during these 15 days. The bank is legally barred from filing any court complaint until Day 16.
@@ -521,9 +521,9 @@ SettleLoans Legal Advisory Network`;
                     <div className="w-9 h-9 rounded-xl bg-blue-100 text-[#1F5EFF] flex items-center justify-center font-black text-sm">
                       04
                     </div>
-                    <h3 className="font-bold text-slate-900 text-base">
+                    <h4 className="font-bold text-slate-900 text-base">
                       30-Day Court Complaint Window
-                    </h3>
+                    </h4>
                   </div>
                   <p className="text-xs text-slate-600 leading-relaxed mb-2">
                     If payment is not made within 15 days, the statutory cause of action arises on Day 16. The bank has exactly <strong>30 calendar days</strong> to file a private criminal complaint before the Judicial Magistrate / Metropolitan Magistrate under Section 142.
@@ -537,9 +537,9 @@ SettleLoans Legal Advisory Network`;
 
             {/* Section 3 */}
             <section id="supreme-court-rulings" className="scroll-mt-28 mb-14">
-              <h2 className="text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
+              <h3 className="text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
                 3. Landmark Supreme Court Judgments on Security Cheques &amp; Presumptions
-              </h2>
+              </h3>
               <p className="text-base leading-relaxed mb-6 text-slate-700">
                 While Section 139 of the NI Act creates a legal presumption that a dishonoured cheque was issued towards a debt, this presumption is <strong>rebuttable</strong> on a &quot;preponderance of probabilities&quot;. The Supreme Court of India has delivered several authoritative rulings curtailing banks from abusing undated security cheques for un-crystallized, inflated loan claims.
               </p>
@@ -548,9 +548,9 @@ SettleLoans Legal Advisory Network`;
                 {/* Case Law 1 */}
                 <div className="bg-slate-50 border border-slate-200 rounded-2xl p-6 shadow-sm">
                   <div className="flex items-center justify-between gap-3 mb-2">
-                    <h3 className="text-lg font-bold text-slate-900">
+                    <h4 className="text-lg font-bold text-slate-900">
                       Dashrathbhai Trikambhai Patel v. Hitesh Mahendrabhai Patel (2022) 10 SCC 594
-                    </h3>
+                    </h4>
                     <span className="text-xs bg-[#1F5EFF]/10 text-[#1F5EFF] font-bold py-1 px-2.5 rounded-full whitespace-nowrap">
                       Landmark 3-Judge Bench
                     </span>
@@ -566,9 +566,9 @@ SettleLoans Legal Advisory Network`;
                 {/* Case Law 2 */}
                 <div className="bg-slate-50 border border-slate-200 rounded-2xl p-6 shadow-sm">
                   <div className="flex items-center justify-between gap-3 mb-2">
-                    <h3 className="text-lg font-bold text-slate-900">
+                    <h4 className="text-lg font-bold text-slate-900">
                       Indus Airways Pvt. Ltd. v. Magnum Aviation Pvt. Ltd. (2014) 12 SCC 539
-                    </h3>
+                    </h4>
                     <span className="text-xs bg-slate-200 text-slate-700 font-bold py-1 px-2.5 rounded-full whitespace-nowrap">
                       Security Cheque Precedent
                     </span>
@@ -581,9 +581,9 @@ SettleLoans Legal Advisory Network`;
                 {/* Case Law 3 */}
                 <div className="bg-slate-50 border border-slate-200 rounded-2xl p-6 shadow-sm">
                   <div className="flex items-center justify-between gap-3 mb-2">
-                    <h3 className="text-lg font-bold text-slate-900">
+                    <h4 className="text-lg font-bold text-slate-900">
                       Rakesh Ranjan Shrivastava v. State of Jharkhand (2024) INSC 206
-                    </h3>
+                    </h4>
                     <span className="text-xs bg-purple-100 text-purple-700 font-bold py-1 px-2.5 rounded-full whitespace-nowrap">
                       Interim Compensation Clarification
                     </span>
@@ -597,49 +597,49 @@ SettleLoans Legal Advisory Network`;
 
             {/* Section 4 */}
             <section id="legal-defense-strategies" className="scroll-mt-28 mb-14">
-              <h2 className="text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
+              <h3 className="text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
                 4. Key Legal Defense Strategies for Personal Loan Borrowers
-              </h2>
+              </h3>
               <p className="text-base leading-relaxed mb-5 text-slate-700">
                 When faced with Section 138 legal notices or court proceedings, borrowers often feel helpless due to aggressive collection calls. However, under the law, an experienced debt defense advocate can raise powerful, evidence-backed defenses to invalidate the bank&apos;s criminal complaint:
               </p>
 
               <div className="space-y-4 text-base text-slate-700">
                 <div className="p-5 border border-slate-200 rounded-2xl bg-white shadow-sm">
-                  <h3 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
+                  <h4 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
                     <ShieldCheck className="w-5 h-5 text-[#1F5EFF]" />
                     Defense 1: Rebutting Section 139 Statutory Presumption
-                  </h3>
+                  </h4>
                   <p className="text-sm text-slate-600 leading-relaxed">
                     The accused is not required to prove their innocence &quot;beyond reasonable doubt&quot;. Under <em>Bir Singh v. Mukesh Kumar (2019)</em> and <em>Basalingappa v. Mudibasappa (2019)</em>, the borrower only needs to establish a probable defense on a &quot;preponderance of probabilities&quot; through cross-examination of bank officers and loan account statements to shift the burden of proof back onto the bank.
                   </p>
                 </div>
 
                 <div className="p-5 border border-slate-200 rounded-2xl bg-white shadow-sm">
-                  <h3 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
+                  <h4 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
                     <Scale className="w-5 h-5 text-[#1F5EFF]" />
                     Defense 2: Violation of Section 56 (Failure to Endorse Part-Payments)
-                  </h3>
+                  </h4>
                   <p className="text-sm text-slate-600 leading-relaxed">
                     If you paid 6, 12, or 24 EMIs prior to default, the original principal loan amount no longer represents your actual balance. By depositing a blank security cheque filled for the original sanction amount or adding unverified penalties, the bank violates Section 56 of the NI Act. Under the <em>Dashrathbhai Patel</em> judgment, this single defect renders the complaint liable to dismissal.
                   </p>
                 </div>
 
                 <div className="p-5 border border-slate-200 rounded-2xl bg-white shadow-sm">
-                  <h3 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
+                  <h4 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
                     <FileWarning className="w-5 h-5 text-[#1F5EFF]" />
                     Defense 3: Time-Barred Debt or Defective Statutory Notice
-                  </h3>
+                  </h4>
                   <p className="text-sm text-slate-600 leading-relaxed">
                     Under Indian law, a cheque issued for a time-barred debt (where more than 3 years have elapsed without acknowledgment under the Limitation Act, 1963) cannot be prosecuted under Section 138. Furthermore, if the bank failed to dispatch the notice within 30 days of receiving the return memo, or failed to specify the exact cheque particulars, the statutory notice is defective.
                   </p>
                 </div>
 
                 <div className="p-5 border border-slate-200 rounded-2xl bg-white shadow-sm">
-                  <h3 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
+                  <h4 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
                     <Lock className="w-5 h-5 text-[#1F5EFF]" />
                     Defense 4: Lack of Locus Standi &amp; Unauthorized Power of Attorney
-                  </h3>
+                  </h4>
                   <p className="text-sm text-slate-600 leading-relaxed">
                     Complaints filed by outsourced collection agencies or unauthorized representatives without a valid, registered Power of Attorney (POA) or specific Board Resolution under Section 141 of the NI Act fail judicial scrutiny under the Supreme Court precedent in <em>A.C. Narayanan v. State of Maharashtra (2014)</em>.
                   </p>
@@ -660,9 +660,9 @@ SettleLoans Legal Advisory Network`;
                       <span className="text-[10px] font-black uppercase tracking-widest text-blue-300 block">
                         Legal Defense &amp; Action Blueprint
                       </span>
-                      <h3 className="text-sm md:text-base font-black text-white leading-tight">
+                      <h4 className="text-sm md:text-base font-black text-white leading-tight">
                         Section 138 Cheque Bounce Defense &amp; Resolution Blueprint
-                      </h3>
+                      </h4>
                     </div>
                   </div>
                   <a
@@ -705,36 +705,36 @@ SettleLoans Legal Advisory Network`;
 
             {/* Section 6 */}
             <section id="court-summons-bail-protocol" className="scroll-mt-28 mb-14">
-              <h2 className="text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
+              <h3 className="text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
                 6. Court Summons, Bailable Warrants (BW), and Bail Protocol
-              </h2>
+              </h3>
               <p className="text-base leading-relaxed mb-5 text-slate-700">
                 A major source of anxiety for borrowers is understanding what actually happens when a Section 138 complaint is filed in court. Misleading recovery agents often claim that police will arrive at night with handcuffs. In reality, Indian criminal procedure provides structured, bailable safeguards:
               </p>
 
               <div className="space-y-4 my-6">
                 <div className="border-l-4 border-emerald-500 bg-emerald-50/50 p-5 rounded-r-xl">
-                  <h3 className="text-base font-bold text-slate-900 mb-1">
+                  <h4 className="text-base font-bold text-slate-900 mb-1">
                     Stage 1: Pre-Summoning Evidence &amp; Judicial Summons
-                  </h3>
+                  </h4>
                   <p className="text-sm text-slate-700 leading-relaxed">
                     When the bank files a complaint, the Magistrate records the complainant&apos;s verification statement (pre-summoning evidence). Upon finding prima facie compliance, the court issues a <strong>Judicial Summons</strong> ordering you to appear on a future date. A summons is NOT an arrest warrant; it is an official judicial invitation to present your defense.
                   </p>
                 </div>
 
                 <div className="border-l-4 border-blue-500 bg-blue-50/50 p-5 rounded-r-xl">
-                  <h3 className="text-base font-bold text-slate-900 mb-1">
+                  <h4 className="text-base font-bold text-slate-900 mb-1">
                     Stage 2: Appearance &amp; Instant Regular Bail as a Matter of Right
-                  </h3>
+                  </h4>
                   <p className="text-sm text-slate-700 leading-relaxed">
                     Because Section 138 is a bailable offence under the Code of Criminal Procedure (CrPC) / Bharatiya Nagarik Suraksha Sanhita (BNSS), the Magistrate MUST grant bail upon appearance. Your defense advocate files a formal bail application along with a personal bond (usually ₹10,000 to ₹25,000) and a local surety. Bail is granted immediately within minutes on the same court date.
                   </p>
                 </div>
 
                 <div className="border-l-4 border-amber-500 bg-amber-50/50 p-5 rounded-r-xl">
-                  <h3 className="text-base font-bold text-slate-900 mb-1">
+                  <h4 className="text-base font-bold text-slate-900 mb-1">
                     Stage 3: What if You Missed Summons? Bailable Warrants &amp; Recall
-                  </h3>
+                  </h4>
                   <p className="text-sm text-slate-700 leading-relaxed">
                     If summons were delivered to an old address or you failed to appear, the court may issue a <strong>Bailable Warrant (BW)</strong> or, upon repeated non-appearance, a <strong>Non-Bailable Warrant (NBW)</strong>. This does not mean you go to jail. Your advocate immediately files an Application for Recall/Cancellation of Warrant under Section 70(2) CrPC along with proof of non-receipt or medical reasons, and the Magistrate recalls the warrant.
                   </p>
@@ -744,9 +744,9 @@ SettleLoans Legal Advisory Network`;
 
             {/* Section 7 */}
             <section id="notice-reply-template" className="scroll-mt-28 mb-14">
-              <h2 className="text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
+              <h3 className="text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
                 7. Official Advocate Reply to 15-Day Legal Notice (Interactive Template)
-              </h2>
+              </h3>
               <p className="text-base leading-relaxed mb-5 text-slate-700">
                 Responding to the bank&apos;s statutory demand notice within 15 days is your most powerful strategic tool. A well-drafted legal reply establishes your defense on record, places the bank on notice regarding Section 56 violations, prevents surprise ex-parte orders, and initiates structured settlement talks.
               </p>
@@ -783,18 +783,18 @@ SettleLoans Legal Advisory Network`;
 
             {/* Section 8 */}
             <section id="compounding-ots-settlement" className="scroll-mt-28 mb-14">
-              <h2 className="text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
+              <h3 className="text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
                 8. Section 147 Compounding &amp; One-Time Settlement (OTS)
-              </h2>
+              </h3>
               <p className="text-base leading-relaxed mb-5 text-slate-700">
                 The ultimate objective of handling a Section 138 personal loan case is not protracted multi-year criminal litigation, but achieving complete, permanent debt closure without a criminal record. Under <strong>Section 147 of the Negotiable Instruments Act</strong>, every offence under the chapter is explicitly compoundable.
               </p>
 
               <div className="bg-blue-50 border border-blue-200 rounded-2xl p-6 my-6 shadow-sm">
-                <h3 className="text-lg font-bold text-slate-900 mb-3 flex items-center gap-2">
+                <h4 className="text-lg font-bold text-slate-900 mb-3 flex items-center gap-2">
                   <Sparkles className="w-5 h-5 text-[#1F5EFF]" />
                   How SettleLoans Achieves Section 138 Case Dismissal via OTS
-                </h3>
+                </h4>
                 <ol className="list-decimal list-inside space-y-3 text-sm text-slate-700">
                   <li>
                     <strong>Hardship Portfolio Presentation:</strong> Our senior financial negotiators present your documented financial distress (job loss certificates, income drop, medical expenses) to the bank&apos;s Stressed Assets Resolution Committee (SARC).
@@ -814,18 +814,18 @@ SettleLoans Legal Advisory Network`;
 
             {/* Section 9: Comparative Legal Process Matrix */}
             <section id="comparative-legal-matrix" className="scroll-mt-28 mb-14">
-              <h2 className="text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
+              <h3 className="text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
                 9. Comparative Legal Process Matrix
-              </h2>
+              </h3>
               <p className="text-base leading-relaxed mb-6 text-slate-700">
                 Understanding the distinct avenues used by lending institutions allows borrowers to recognize the difference between legitimate judicial procedures and unlawful third-party recovery harassment.
               </p>
 
               {/* Table 1 */}
               <div className="my-8">
-                <h3 className="text-lg md:text-xl font-bold text-slate-900 mb-3">
+                <h4 className="text-lg md:text-xl font-bold text-slate-900 mb-3">
                   Table 1: Section 138 Criminal Complaint vs. Civil Summary Suit (Order 37 CPC) vs. DRT
-                </h3>
+                </h4>
                 <div className="overflow-x-auto">
                   <table>
                     <thead>
@@ -874,9 +874,9 @@ SettleLoans Legal Advisory Network`;
 
               {/* Table 2 */}
               <div className="my-8">
-                <h3 className="text-lg md:text-xl font-bold text-slate-900 mb-3">
+                <h4 className="text-lg md:text-xl font-bold text-slate-900 mb-3">
                   Table 2: Lawful NI Act Court Procedures vs. Unlawful Recovery Agent Threats
-                </h3>
+                </h4>
                 <div className="overflow-x-auto">
                   <table>
                     <thead>
@@ -931,9 +931,9 @@ SettleLoans Legal Advisory Network`;
                   <span className="text-xs font-black uppercase tracking-wider text-[#1F5EFF] block">
                     Got Questions? We Have Answers
                   </span>
-                  <h2 className="text-2xl md:text-3xl font-black text-slate-900">
+                  <h3 className="text-2xl md:text-3xl font-black text-slate-900">
                     Frequently Asked Questions on Section 138 Cheque Bounce
-                  </h2>
+                  </h3>
                 </div>
               </div>
 
@@ -952,10 +952,10 @@ SettleLoans Legal Advisory Network`;
 
             {/* Regulatory Sources Strip (5 Official Links) */}
             <div className="bg-slate-50 border border-slate-200 rounded-2xl p-6 my-10 shadow-sm">
-              <h3 className="text-sm font-bold uppercase tracking-wider text-slate-900 mb-3 flex items-center gap-2">
+              <h4 className="text-sm font-bold uppercase tracking-wider text-slate-900 mb-3 flex items-center gap-2">
                 <Landmark className="w-4 h-4 text-[#1F5EFF]" />
                 <span>Authoritative Legal &amp; Regulatory Sources</span>
-              </h3>
+              </h4>
               <ul className="space-y-2.5 text-xs text-slate-600">
                 <li className="flex items-center gap-2">
                   <ExternalLink className="w-4 h-4 text-[#1F5EFF] flex-shrink-0" />
@@ -1017,9 +1017,9 @@ SettleLoans Legal Advisory Network`;
 
             {/* Internal Topic Badges (10 Links) */}
             <div className="my-10 pt-6 border-t border-slate-200">
-              <h4 className="text-sm font-bold uppercase tracking-wider text-slate-900 mb-4">
+              <h5 className="text-sm font-bold uppercase tracking-wider text-slate-900 mb-4">
                 Related Debt Resolution &amp; Legal Protection Guides
-              </h4>
+              </h5>
               <div className="flex flex-wrap gap-2">
                 <Link
                   href="/legal-notice-for-loan-recovery"

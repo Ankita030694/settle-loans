@@ -160,32 +160,32 @@ export default function NRILoanSettlementPage() {
             </section>
 
             <section id="the-default-process" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">What Happens During an NRI Loan Default in India?</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">What Happens During an NRI Loan Default in India?</h3>
               <p className="text-lg leading-relaxed mb-6">
                 When an NRI misses a payment, the initial process is similar to a resident Indian default. The bank will typically send reminders via email and SMS. After 90 days of non-payment, the loan account is classified as a Non-Performing Asset (NPA). At this stage, the bank accelerates recovery efforts.
               </p>
               <div className="grid md:grid-cols-2 gap-6 my-8">
                 <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
-                  <h3 className="font-black text-[#1F5EFF] mb-3 text-lg">Notices to Indian Address</h3>
+                  <h4 className="font-black text-[#1F5EFF] mb-3 text-lg">Notices to Indian Address</h4>
                   <p className="text-sm leading-relaxed">Banks will send legal notices and recovery agents to your registered address in India. This often causes immense stress for family members residing there.</p>
                 </div>
                 <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
-                  <h4 className="font-black text-[#1F5EFF] mb-3 text-lg">Impact on Credit</h4>
+                  <h5 className="font-black text-[#1F5EFF] mb-3 text-lg">Impact on Credit</h5>
                   <p className="text-sm leading-relaxed">Your <strong>NRI CIBIL score default</strong> record is updated immediately. This severely damages your financial reputation in India, making future borrowing impossible.</p>
                 </div>
                 <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
-                  <h4 className="font-black text-[#1F5EFF] mb-3 text-lg">International Calls</h4>
+                  <h5 className="font-black text-[#1F5EFF] mb-3 text-lg">International Calls</h5>
                   <p className="text-sm leading-relaxed">Recovery agents may trace your international number and begin calling at odd hours, completely disregarding time zone differences.</p>
                 </div>
                 <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
-                  <h4 className="font-black text-[#1F5EFF] mb-3 text-lg">Interest Accumulation</h4>
+                  <h5 className="font-black text-[#1F5EFF] mb-3 text-lg">Interest Accumulation</h5>
                   <p className="text-sm leading-relaxed">Ignoring the problem will not make it disappear. The debt will continue to accrue interest and penal charges, ballooning to an unmanageable amount.</p>
                 </div>
               </div>
             </section>
 
             <section id="legal-implications" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">Can Bank File Case Against NRI in India?</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">Can Bank File Case Against NRI in India?</h3>
               <p className="text-lg leading-relaxed mb-6">
                 A common and anxiety-inducing question is: <strong>can bank file case against NRI in India?</strong> The short answer is yes. Banks have the legal right to file a civil suit for the recovery of dues. However, for unsecured loans like credit cards and personal loans, the reality is slightly more nuanced.
               </p>
@@ -195,9 +195,9 @@ export default function NRILoanSettlementPage() {
             </section>
 
             <section id="jurisdiction" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">Cross-Border Jurisdiction</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">Cross-Border Jurisdiction</h3>
               <div className="bg-blue-50 border-l-8 border-[#1F5EFF] p-8 rounded-r-2xl mb-8">
-                <h3 className="text-xl font-black text-[#1F5EFF] mb-4">Important Legal Context:</h3>
+                <h4 className="text-xl font-black text-[#1F5EFF] mb-4">Important Legal Context:</h4>
                 <ul className="space-y-4 text-blue-900 font-medium">
                   <li className="flex items-start gap-3">
                     <div className="mt-1.5 w-2 h-2 rounded-full bg-[#1F5EFF] flex-shrink-0"></div>
@@ -212,7 +212,7 @@ export default function NRILoanSettlementPage() {
             </section>
 
             <section id="settling-from-abroad" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">How to Settle Personal Loan from Abroad</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">How to Settle Personal Loan from Abroad</h3>
               <p className="text-lg leading-relaxed mb-8">
                 The good news is that you do not have to travel to India to resolve this. It is entirely possible to <strong>settle personal loan from abroad</strong> through proper legal representation. Here is the step-by-step process:
               </p>
@@ -220,14 +220,14 @@ export default function NRILoanSettlementPage() {
                 <div className="flex gap-6">
                   <div className="flex-shrink-0 w-12 h-12 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center font-black text-xl shadow-lg">1</div>
                   <div>
-                    <h3 className="text-xl font-black text-[#2E2E2E] mb-2">Assess the Situation</h3>
+                    <h4 className="text-xl font-black text-[#2E2E2E] mb-2">Assess the Situation</h4>
                     <p className="text-gray-600 leading-relaxed">Gather all loan documents, statements, and correspondence from the bank. Understand your exact outstanding amount and the tenure of default.</p>
                   </div>
                 </div>
                 <div className="flex gap-6">
                   <div className="flex-shrink-0 w-12 h-12 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center font-black text-xl shadow-lg">2</div>
                   <div>
-                    <h3 className="text-xl font-black text-[#2E2E2E] mb-2">Appoint a Representative</h3>
+                    <h4 className="text-xl font-black text-[#2E2E2E] mb-2">Appoint a Representative</h4>
                     <p className="text-gray-600 leading-relaxed">You need someone in India to act on your behalf. This can be a trusted family member, or ideally, a professional debt settlement agency.</p>
                   </div>
                 </div>
@@ -235,26 +235,26 @@ export default function NRILoanSettlementPage() {
             </section>
 
             <section id="poa-process" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">The POA Process</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">The POA Process</h3>
               <div className="space-y-12">
                 <div className="flex gap-6">
                   <div className="flex-shrink-0 w-12 h-12 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center font-black text-xl shadow-lg">3</div>
                   <div>
-                    <h3 className="text-xl font-black text-[#2E2E2E] mb-2">Issue a Special Power of Attorney (POA)</h3>
+                    <h4 className="text-xl font-black text-[#2E2E2E] mb-2">Issue a Special Power of Attorney (POA)</h4>
                     <p className="text-gray-600 leading-relaxed">You must draft a Special POA authorizing your representative to negotiate and sign settlement documents specifically for that loan account. This document must be notarized/attested at the Indian Embassy in your country of residence and couriered to India.</p>
                   </div>
                 </div>
                 <div className="flex gap-6">
                   <div className="flex-shrink-0 w-12 h-12 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center font-black text-xl shadow-lg">4</div>
                   <div>
-                    <h3 className="text-xl font-black text-[#2E2E2E] mb-2">Negotiation Phase</h3>
+                    <h4 className="text-xl font-black text-[#2E2E2E] mb-2">Negotiation Phase</h4>
                     <p className="text-gray-600 leading-relaxed">Your representative will engage with the bank's recovery department or collection agency. They will present your case of financial hardship and negotiate a lump-sum settlement amount, which is often significantly lower than the total outstanding.</p>
                   </div>
                 </div>
                 <div className="flex gap-6">
                   <div className="flex-shrink-0 w-12 h-12 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center font-black text-xl shadow-lg">5</div>
                   <div>
-                    <h3 className="text-xl font-black text-[#2E2E2E] mb-2">Receive Settlement Letter & Pay</h3>
+                    <h4 className="text-xl font-black text-[#2E2E2E] mb-2">Receive Settlement Letter & Pay</h4>
                     <p className="text-gray-600 leading-relaxed">Once a figure is agreed upon, the bank must issue an official settlement letter detailing the terms and the payment schedule. Do not pay anything without this document. Transfer the funds directly to your loan account as per the letter. Finally, ensure you receive a No Dues Certificate (NDC).</p>
                   </div>
                 </div>
@@ -262,33 +262,33 @@ export default function NRILoanSettlementPage() {
             </section>
 
             <section id="why-use-an-agency" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">Why NRIs Should Use Professional Debt Negotiators</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">Why NRIs Should Use Professional Debt Negotiators</h3>
               <p className="text-lg leading-relaxed mb-6">
                 While you can ask a relative to represent you, debt negotiation requires specific skills. Family members are often emotionally involved and may easily yield to pressure tactics used by aggressive recovery agents.
               </p>
               <div className="bg-gray-50 p-8 rounded-2xl mb-8 border border-gray-200">
-                <h3 className="font-black text-[#2E2E2E] mb-4">Expert Negotiation</h3>
+                <h4 className="font-black text-[#2E2E2E] mb-4">Expert Negotiation</h4>
                 <p className="mb-4">They understand banking policies and know exactly how far a bank can bend, often securing waivers of 40% to 60% on the total outstanding amount.</p>
-                <h4 className="font-black text-[#2E2E2E] mb-4">Legal Safety</h4>
+                <h5 className="font-black text-[#2E2E2E] mb-4">Legal Safety</h5>
                 <p>They ensure the settlement letter is legally sound and doesn't leave loopholes for the bank to demand more money later.</p>
               </div>
             </section>
 
             <section id="harassment" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">Preventing Harassment</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">Preventing Harassment</h3>
               <div className="bg-gray-50 p-8 rounded-2xl mb-8 border border-gray-200">
-                <h3 className="font-black text-[#2E2E2E] mb-4">Buffer Against Harassment</h3>
+                <h4 className="font-black text-[#2E2E2E] mb-4">Buffer Against Harassment</h4>
                 <p className="mb-4">Professional negotiators intercept all communications. Once they represent you, banks must legally communicate through them, stopping calls to your foreign number and visits to your Indian home. This creates an immediate firewall between your life abroad and the recovery teams in India.</p>
               </div>
             </section>
 
             <section id="cibil-impact" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">Understanding the NRI CIBIL Score Default Impact</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">Understanding the NRI CIBIL Score Default Impact</h3>
               <p className="text-lg leading-relaxed mb-6">
                 It is vital to manage expectations regarding your credit report. When you settle a loan rather than paying it in full, the bank reports it to CIBIL as "Settled", not "Closed". 
               </p>
               <div className="bg-red-50 p-6 rounded-xl border border-red-100 mb-8">
-                <h3 className="text-lg font-bold text-red-700 mb-3">Long-Term Impact:</h3>
+                <h4 className="text-lg font-bold text-red-700 mb-3">Long-Term Impact:</h4>
                 <p className="text-sm text-red-900 leading-relaxed italic">
                   An NRI CIBIL score default followed by a settlement will remain on your credit history for up to seven years. This will significantly lower your credit score and make acquiring new credit facilities in India very difficult during that period.
                 </p>
@@ -296,7 +296,7 @@ export default function NRILoanSettlementPage() {
             </section>
 
             <section id="returning-to-india" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">Returning to India</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">Returning to India</h3>
               <p className="text-lg leading-relaxed mb-6">
                 Will an NRI loan default prevent you from returning to India? Generally, no. A default is a civil matter and does not result in an immigration ban or detainment at the airport unless extreme legal action (like a Lookout Circular for massive, multi-crore frauds) has been explicitly filed.
               </p>
@@ -307,9 +307,9 @@ export default function NRILoanSettlementPage() {
             
             {/* Reviews Section matching the requested styling */}
             <section id="reviews" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-5xl font-black text-[#2E2E2E] mb-12 text-center">
+              <h3 className="text-3xl md:text-5xl font-black text-[#2E2E2E] mb-12 text-center">
                 Success Stories from <span className="text-[#1F5EFF]">NRIs</span>
-              </h2>
+              </h3>
               <div className="grid md:grid-cols-2 gap-8">
                 {[
                   { 
@@ -347,7 +347,7 @@ export default function NRILoanSettlementPage() {
                         {review.name.charAt(0)}
                       </div>
                       <div>
-                        <h3 className="font-black text-[#2E2E2E]">{review.name}</h3>
+                        <h4 className="font-black text-[#2E2E2E]">{review.name}</h4>
                         <p className="text-xs text-[#747474] font-bold uppercase tracking-wider">{review.loc}</p>
                       </div>
                       <div className="ml-auto flex text-yellow-400">
@@ -374,7 +374,7 @@ export default function NRILoanSettlementPage() {
 
             {/* FAQs Section matching requested styling */}
             <section id="faqs" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">Frequently Asked Questions</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">Frequently Asked Questions</h3>
               <div className="space-y-4">
                 {[
                   { q: "What happens in case of an NRI loan default in India?", a: "If an NRI defaults on an unsecured loan in India, banks will initiate recovery processes, send notices to the registered Indian address, and eventually write off or sell the debt. It heavily impacts the NRI CIBIL score default record." },
@@ -388,7 +388,7 @@ export default function NRILoanSettlementPage() {
                   { q: "Can a settled loan be removed from my CIBIL report?", a: "A settled loan will reflect as 'Settled' in your CIBIL report, not 'Closed'. This remains on the report for 7 years and impacts credit score negatively, but clears you of the legal obligation." }
                 ].map((faq, i) => (
                   <div key={i} className="bg-white border border-[#DEDEDE] rounded-xl p-6 hover:shadow-md transition-shadow">
-                    <h3 className="font-black text-[#2E2E2E] text-lg mb-3">{i+1}. {faq.q}</h3>
+                    <h4 className="font-black text-[#2E2E2E] text-lg mb-3">{i+1}. {faq.q}</h4>
                     <p className="text-gray-600 leading-relaxed">{faq.a}</p>
                   </div>
                 ))}
@@ -398,7 +398,7 @@ export default function NRILoanSettlementPage() {
             {/* Lead Gen Hook */}
             <div className="bg-[#2E2E2E] text-white p-12 rounded-[40px] text-center mt-24 relative overflow-hidden group">
                <div className="absolute inset-0 bg-[#1F5EFF] opacity-0 group-hover:opacity-5 transition-opacity"></div>
-               <h3 className="text-3xl md:text-5xl font-black mb-6">Stuck abroad and unable to pay your Indian bank loan?</h3>
+               <h4 className="text-3xl md:text-5xl font-black mb-6">Stuck abroad and unable to pay your Indian bank loan?</h4>
                <p className="text-xl opacity-80 mb-10 max-w-2xl mx-auto">
                  Our expert negotiators can legally represent you and settle your debt without you flying back.
                </p>

@@ -252,22 +252,22 @@ export default function SocialMediaShamingDefensePage() {
             </section>
 
             <section id="right-to-privacy" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 The Supreme Court & Right to Privacy
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 Many borrowers falsely believe that defaulting on a loan strips them of their basic rights. This is fundamentally untrue. The Indian legal system strongly protects the dignity of every citizen.
               </p>
 
               <div className="grid md:grid-cols-2 gap-6 my-8">
                 <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
-                  <h3 className="font-black text-[#1F5EFF] text-lg mb-3">Fundamental Right (Article 21)</h3>
+                  <h4 className="font-black text-[#1F5EFF] text-lg mb-3">Fundamental Right (Article 21)</h4>
                   <p className="text-gray-700 leading-relaxed">
                     In the landmark <em>Puttaswamy</em> judgment, the Supreme Court of India declared the Right to Privacy as an intrinsic part of the Right to Life and Personal Liberty under Article 21 of the Constitution.
                   </p>
                 </div>
                 <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
-                  <h4 className="font-black text-[#1F5EFF] text-lg mb-3">Confidentiality of Debt</h4>
+                  <h5 className="font-black text-[#1F5EFF] text-lg mb-3">Confidentiality of Debt</h5>
                   <p className="text-gray-700 leading-relaxed">
                     A loan is a confidential, civil contract between the lender and the borrower. The bank has no legal right to publicly broadcast your financial status to your neighbors, relatives, or social media followers.
                   </p>
@@ -282,15 +282,15 @@ export default function SocialMediaShamingDefensePage() {
             </section>
 
             <section id="is-it-legal" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 Is Public Shaming Legal? (Spoiler: No)
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 If a recovery agent posted my photo on Facebook or messaged my housing society WhatsApp group, they have committed multiple criminal offenses. Here is exactly why their actions are illegal:
               </p>
 
               <div className="bg-blue-50 border-l-8 border-[#1F5EFF] p-8 rounded-r-2xl mb-8">
-                <h3 className="text-xl font-black text-[#1F5EFF] mb-4">Criminal Defamation & IT Act Violations</h3>
+                <h4 className="text-xl font-black text-[#1F5EFF] mb-4">Criminal Defamation & IT Act Violations</h4>
                 <ul className="space-y-3">
                   <li className="flex items-start gap-3">
                     <div className="mt-1.5 w-2 h-2 rounded-full bg-[#1F5EFF] flex-shrink-0"></div>
@@ -308,7 +308,7 @@ export default function SocialMediaShamingDefensePage() {
               </div>
 
               <div className="bg-red-50 p-6 rounded-xl border border-red-100 mb-8">
-                <h4 className="text-xl font-black text-red-700 mb-3">Extortion under Section 383 IPC</h4>
+                <h5 className="text-xl font-black text-red-700 mb-3">Extortion under Section 383 IPC</h5>
                 <p className="text-red-900 leading-relaxed">
                   When agents threaten to post your details online <em>unless</em> you pay them immediately, they are committing extortion. This is a severe criminal offense where the police are mandated to act swiftly against the perpetrators.
                 </p>
@@ -316,9 +316,9 @@ export default function SocialMediaShamingDefensePage() {
             </section>
 
             <section id="immediate-actions" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 Immediate Actions to Take
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 Do not panic, and do not pay them under pressure. Paying them validates their extortion tactics. Instead, fight back using the legal system.
               </p>
@@ -327,7 +327,7 @@ export default function SocialMediaShamingDefensePage() {
                 <div className="flex gap-6">
                   <div className="flex-shrink-0 w-12 h-12 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center font-black text-xl shadow-lg">1</div>
                   <div>
-                    <h3 className="text-2xl font-bold text-[#2E2E2E] mb-2">Preserve All Evidence</h3>
+                    <h4 className="text-2xl font-bold text-[#2E2E2E] mb-2">Preserve All Evidence</h4>
                     <p className="text-lg text-gray-700 leading-relaxed">
                       Before doing anything else, take screenshots of the WhatsApp messages, Facebook posts, or LinkedIn comments. Record all phone calls where they threaten to defame you. This evidence is crucial for your police complaint and legal notice.
                     </p>
@@ -337,7 +337,7 @@ export default function SocialMediaShamingDefensePage() {
                 <div className="flex gap-6">
                   <div className="flex-shrink-0 w-12 h-12 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center font-black text-xl shadow-lg">2</div>
                   <div>
-                    <h3 className="text-2xl font-bold text-[#2E2E2E] mb-2">File a Cybercrime FIR</h3>
+                    <h4 className="text-2xl font-bold text-[#2E2E2E] mb-2">File a Cybercrime FIR</h4>
                     <p className="text-lg text-gray-700 leading-relaxed">
                       Report the incident immediately on the National Cyber Crime Reporting Portal (cybercrime.gov.in) or visit your local police station to file an FIR against the recovery agents for extortion, defamation, and IT Act violations.
                     </p>
@@ -347,7 +347,7 @@ export default function SocialMediaShamingDefensePage() {
                 <div className="flex gap-6">
                   <div className="flex-shrink-0 w-12 h-12 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center font-black text-xl shadow-lg">3</div>
                   <div>
-                    <h3 className="text-2xl font-bold text-[#2E2E2E] mb-2">Send a Legal Notice for Defamation</h3>
+                    <h4 className="text-2xl font-bold text-[#2E2E2E] mb-2">Send a Legal Notice for Defamation</h4>
                     <p className="text-lg text-gray-700 leading-relaxed">
                       Hire a specialized lawyer to draft a stern legal notice addressed directly to the Bank's CEO, Nodal Officer, and the Recovery Agency. Demand the immediate takedown of the posts and claim heavy compensation for mental agony and loss of reputation.
                     </p>
@@ -357,14 +357,14 @@ export default function SocialMediaShamingDefensePage() {
             </section>
 
             <section id="rbi-guidelines" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 RBI Guidelines on Defamation & Harassment
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 The Reserve Bank of India (RBI) is extremely strict regarding recovery practices. They have repeatedly issued circulars warning banks against employing 'musclemen' or resorting to humiliation tactics.
               </p>
               <div className="bg-white p-8 border border-[#DEDEDE] rounded-2xl shadow-sm mb-8">
-                <h3 className="text-xl font-bold mb-4 text-[#2E2E2E] underline">Vicarious Liability of Banks</h3>
+                <h4 className="text-xl font-bold mb-4 text-[#2E2E2E] underline">Vicarious Liability of Banks</h4>
                 <p className="text-gray-700 leading-relaxed mb-4">
                   A common excuse by banks is that they are not responsible for the actions of third-party recovery agencies. The RBI has completely rejected this. Banks are <strong>vicariously liable</strong> for any illegal acts committed by the recovery agents they hire.
                 </p>
@@ -375,9 +375,9 @@ export default function SocialMediaShamingDefensePage() {
             </section>
 
             <section id="claiming-damages" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 How to Claim Damages from Banks
-              </h2>
+              </h3>
               <div className="bg-gray-50 p-8 rounded-2xl mb-8 border border-gray-200">
                 <p className="text-lg leading-relaxed mb-6 text-gray-800">
                   When a bank destroys your reputation, you don't just have to defend yourself—you can go on the offensive. Here is how:
@@ -400,9 +400,9 @@ export default function SocialMediaShamingDefensePage() {
             </section>
 
             <section id="success-stories" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 Client Success Stories
-              </h2>
+              </h3>
               <div className="grid md:grid-cols-2 gap-6 my-8">
                 <div className="bg-white p-8 rounded-[30px] border border-[#DEDEDE] shadow-sm hover:shadow-xl group transition-all">
                   <div className="flex items-center gap-4 mb-6">
@@ -410,7 +410,7 @@ export default function SocialMediaShamingDefensePage() {
                       SK
                     </div>
                     <div>
-                      <h3 className="font-bold text-gray-900">Sandeep K.</h3>
+                      <h4 className="font-bold text-gray-900">Sandeep K.</h4>
                       <div className="flex text-yellow-400">
                         <svg className="w-4 h-4 fill-current" viewBox="0 0 20 20"><path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z"/></svg>
                         <svg className="w-4 h-4 fill-current" viewBox="0 0 20 20"><path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z"/></svg>
@@ -435,7 +435,7 @@ export default function SocialMediaShamingDefensePage() {
                       MP
                     </div>
                     <div>
-                      <h4 className="font-bold text-gray-900">Meera P.</h4>
+                      <h5 className="font-bold text-gray-900">Meera P.</h5>
                       <div className="flex text-yellow-400">
                         <svg className="w-4 h-4 fill-current" viewBox="0 0 20 20"><path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z"/></svg>
                         <svg className="w-4 h-4 fill-current" viewBox="0 0 20 20"><path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z"/></svg>
@@ -457,13 +457,13 @@ export default function SocialMediaShamingDefensePage() {
             </section>
 
             <section id="faqs" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 Frequently Asked Questions
-              </h2>
+              </h3>
               <div className="space-y-4">
                 {((jsonLd["@graph"].find((item: any) => item["@type"] === "FAQPage") as any)?.mainEntity || []).map((faq: { name: string; acceptedAnswer: { text: string } }, index: number) => (
                   <div key={index} className="bg-white border border-[#DEDEDE] rounded-xl p-6 hover:shadow-md transition-shadow">
-                    <h3 className="text-xl font-bold text-[#2E2E2E] mb-3">{faq.name}</h3>
+                    <h4 className="text-xl font-bold text-[#2E2E2E] mb-3">{faq.name}</h4>
                     <p className="text-gray-700 leading-relaxed">{faq.acceptedAnswer.text}</p>
                   </div>
                 ))}
@@ -472,7 +472,7 @@ export default function SocialMediaShamingDefensePage() {
 
             <div className="bg-[#2E2E2E] text-white p-12 rounded-[40px] text-center mt-24 relative overflow-hidden group">
               <div className="absolute inset-0 bg-[#1F5EFF] opacity-0 group-hover:opacity-5 transition-opacity"></div>
-              <h3 className="text-3xl font-black mb-6 relative z-10">Stop the Public Defamation Now</h3>
+              <h4 className="text-3xl font-black mb-6 relative z-10">Stop the Public Defamation Now</h4>
               <p className="text-xl opacity-90 mb-8 relative z-10 max-w-2xl mx-auto">
                 Are recovery agents threatening to post about your loan default in your housing society's WhatsApp group or on social media? Stop the public defamation. Let our lawyers send an immediate legal notice.
               </p>

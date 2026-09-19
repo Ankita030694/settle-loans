@@ -308,9 +308,9 @@ export default function MultipleAppLoanSettlementClient() {
 
             {/* Section 2: Algorithmic Delinquency & Ground Harassment */}
             <section id="algorithmic-delinquency-harassment" className="mb-10 scroll-mt-24">
-              <h2 className="text-xl md:text-2xl lg:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h3 className="text-xl md:text-2xl lg:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 2. Algorithmic Delinquency &amp; The Ground Reality of 50+ Daily Harassment Calls
-              </h2>
+              </h3>
               <p className="text-slate-700 leading-relaxed mb-4">
                 As the overdue horizon crossed 30 days past due (DPD) across all five lenders in April 2026, Rahul was subjected to relentless cyber-harassment orchestrated through automated predictive dialers and outsourced third-party Lending Service Providers (LSPs). Operating through multiple virtual private branch exchange (PBX) numbers and rotating GSM SIMs, collection agents initiated over 50 to 60 harassing telephone calls per day, commencing as early as 06:30 AM and continuing past 10:30 PM.
               </p>
@@ -324,9 +324,9 @@ export default function MultipleAppLoanSettlementClient() {
 
             {/* Section 3: Regulatory Red Lines */}
             <section id="rbi-digital-lending-violations" className="mb-10 scroll-mt-24">
-              <h2 className="text-xl md:text-2xl lg:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h3 className="text-xl md:text-2xl lg:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 3. Regulatory Red Lines: RBI Digital Lending Guidelines vs. Illegal App Practices
-              </h2>
+              </h3>
               <p className="text-slate-700 leading-relaxed mb-4">
                 To eradicate exploitative fintech collection practices, the Reserve Bank of India promulgated the landmark <em>Guidelines on Digital Lending (DOR.CRE.REC.66/21.07.001/2022-23)</em> alongside the <em>Master Direction on Recovery Agents Engaged by Regulated Entities</em>. These statutory regulations establish absolute legal boundaries governing how Regulated Entities (REs) and their appointed Lending Service Providers (LSPs) interact with distressed borrowers.
               </p>
@@ -380,9 +380,9 @@ export default function MultipleAppLoanSettlementClient() {
 
             {/* Section 4: Multi-App Legal Violations */}
             <section id="legal-framework-privacy-violations" className="mb-10 scroll-mt-24">
-              <h2 className="text-xl md:text-2xl lg:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h3 className="text-xl md:text-2xl lg:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 4. Statutory Legal Violations: Information Technology Act &amp; Criminal Intimidation
-              </h2>
+              </h3>
               <p className="text-slate-700 leading-relaxed mb-4">
                 The coercive collection methods deployed in multi-app debt scenarios constitute clear actionable offenses under Indian civil and criminal jurisprudence. Under the landmark nine-judge Constitution Bench ruling in <em>Justice K.S. Puttaswamy (Retd.) v. Union of India (2017)</em>, the Supreme Court of India declared informational privacy and personal dignity as fundamental rights guaranteed under Article 21. Commercial financial defaults under unsecured loan contracts do not grant digital lenders the license to breach constitutional protections.
               </p>
@@ -396,9 +396,9 @@ export default function MultipleAppLoanSettlementClient() {
 
             {/* Section 5: SettleLoans Emergency Protocol */}
             <section id="cease-and-desist-consolidation" className="mb-10 scroll-mt-24">
-              <h2 className="text-xl md:text-2xl lg:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h3 className="text-xl md:text-2xl lg:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 5. SettleLoans Emergency Protocol: Consolidating 5 Creditors &amp; Serving Statutory Notices
-              </h2>
+              </h3>
               <p className="text-slate-700 leading-relaxed mb-4">
                 Recognizing the escalating cyber-panic, SettleLoans onboarded Rahul into an immediate emergency debt defense workflow. The first objective was the complete consolidation and neutralization of all creditor touchpoints. SettleLoans advocates audited Rahul&apos;s call logs, archived audio recordings of abusive telecallers, gathered timestamped WhatsApp threats, and mapped each consumer-facing app to its underlying Reserve Bank of India-registered Non-Banking Financial Company (NBFC): Navi Finserv Limited, Krazybee Services Private Limited, Whizdm Finance Private Limited, SmartCoin Financials, and mPokket Financial Services.
               </p>
@@ -422,9 +422,9 @@ export default function MultipleAppLoanSettlementClient() {
                       <span className="text-[10px] font-black uppercase tracking-widest text-blue-300 block">
                         Legal Defense &amp; Action Blueprint
                       </span>
-                      <h3 className="text-sm md:text-base font-black text-white leading-tight">
+                      <h4 className="text-sm md:text-base font-black text-white leading-tight">
                         Instant App Loan Settlement &amp; Anti-Harassment Blueprint
-                      </h3>
+                      </h4>
                     </div>
                   </div>
                   <a
@@ -467,9 +467,9 @@ export default function MultipleAppLoanSettlementClient() {
 
             {/* Section 7: Ground Containment */}
             <section id="ground-containment-dialer-suppression" className="mb-10 scroll-mt-24">
-              <h2 className="text-xl md:text-2xl lg:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h3 className="text-xl md:text-2xl lg:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 6. Ground Containment: Suppressing Predictive Dialers &amp; Recalling Rogue LSPs
-              </h2>
+              </h3>
               <p className="text-slate-700 leading-relaxed mb-4">
                 The institutional response from the compliance desks of the five digital lenders was immediate. Faced with documented evidence of regulatory non-compliance, statutory notices citing RBI circulars, and the prospect of integrated ombudsman penalties, the Principal Nodal Officers acknowledged the communications within 24 to 48 hours.
               </p>
@@ -483,9 +483,9 @@ export default function MultipleAppLoanSettlementClient() {
 
             {/* Section 8: Fintech NPA Accounting & NPV Recovery */}
             <section id="fintech-npa-accounting-npv" className="mb-10 scroll-mt-24">
-              <h2 className="text-xl md:text-2xl lg:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h3 className="text-xl md:text-2xl lg:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 7. Behind the Balance Sheet: Fintech NPA Accounting &amp; Net Present Value (NPV) Recovery
-              </h2>
+              </h3>
               <p className="text-slate-700 leading-relaxed mb-4">
                 With the harassment neutralized, SettleLoans initiated structured settlement negotiations. To understand why digital lending NBFCs agree to substantial debt waivers ranging from 50% to 65% of outstanding balances, one must examine the regulatory accounting standards governing micro-credit under <em>Indian Accounting Standards (Ind AS 109)</em> and RBI prudential asset classification norms.
               </p>
@@ -555,9 +555,9 @@ export default function MultipleAppLoanSettlementClient() {
 
             {/* Section 9: Sequential OTS Negotiations */}
             <section id="sequential-ots-negotiation" className="mb-10 scroll-mt-24">
-              <h2 className="text-xl md:text-2xl lg:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h3 className="text-xl md:text-2xl lg:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 8. Sequential OTS Compromise: Settling 5 App Loans One by One for ₹85,000 Total
-              </h2>
+              </h3>
               <p className="text-slate-700 leading-relaxed mb-4">
                 SettleLoans formulated a strategic waterfall settlement roadmap under the <em>RBI Framework for Compromise Settlements and Technical Write-offs</em>. Rather than attempting a disorganized simultaneous settlement, negotiations were executed in sequential priority waves based on creditor responsiveness and available settlement pools.
               </p>
@@ -620,9 +620,9 @@ export default function MultipleAppLoanSettlementClient() {
 
             {/* Section 10: Sanction Audit & ₹0 NDCs */}
             <section id="sanction-audit-no-dues-certificate" className="mb-10 scroll-mt-24">
-              <h2 className="text-xl md:text-2xl lg:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h3 className="text-xl md:text-2xl lg:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 9. Sanction Letter Forensics, ₹0 No Dues Certificates (NDCs) &amp; Bureau Rehabilitation
-              </h2>
+              </h3>
               <p className="text-slate-700 leading-relaxed mb-4">
                 Prior to disbursing settlement payments, SettleLoans legal advocates conducted rigorous forensic verification on all five settlement sanction letters. The audit verified four essential legal standards: (1) Each letter originated from verified corporate domain email addresses of the registered NBFC; (2) The documents carried authorized digital signatures, employee identification numbers, and explicit clauses confirming full and final discharge; (3) Explicit guarantees were recorded confirming the revocation of NACH mandates and withdrawal of legal intimations; (4) Settlement payments were remitted exclusively into official loan account virtual numbers via RTGS/NEFT banking rails, completely avoiding personal agent UPI handles.
               </p>
@@ -636,9 +636,9 @@ export default function MultipleAppLoanSettlementClient() {
 
             {/* Section 11: Comparative Resolution Matrix */}
             <section id="comparative-resolution-matrix" className="mb-10 scroll-mt-24">
-              <h2 className="text-xl md:text-2xl lg:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h3 className="text-xl md:text-2xl lg:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 10. Strategic Resolution Matrix: Single-Handed Panic vs. Consolidated SettleLoans Shield
-              </h2>
+              </h3>
               <p className="text-slate-700 leading-relaxed mb-4">
                 When borrowers attempt to handle multiple delinquent digital loan apps independently, they almost universally fall victim to panic payments, unauthorized third-party harassment, and unallocated token deposits that prolong financial distress. The following comparative matrix contrasts unrepresented crisis management against institutional legal defense:
               </p>
@@ -691,10 +691,10 @@ export default function MultipleAppLoanSettlementClient() {
 
             {/* Section 13: Frequently Asked Questions */}
             <section id="faqs" className="mb-10 scroll-mt-24">
-              <h2 className="text-xl md:text-2xl lg:text-3xl font-black text-slate-900 mb-6 leading-tight flex items-center gap-2.5">
+              <h3 className="text-xl md:text-2xl lg:text-3xl font-black text-slate-900 mb-6 leading-tight flex items-center gap-2.5">
                 <ShieldCheck className="w-6 h-6 text-[#1F5EFF]" />
                 Frequently Asked Questions: Multi-App Loan Settlement
-              </h2>
+              </h3>
               <div className="space-y-4">
                 {faqs.map((faq, index) => (
                   <FAQItem
@@ -710,10 +710,10 @@ export default function MultipleAppLoanSettlementClient() {
 
             {/* Sources & Regulatory References Strip (5 Official Links) */}
             <div className="bg-slate-50 border border-slate-200 rounded-2xl p-6 my-8">
-              <h3 className="text-base font-bold text-slate-900 mb-3 flex items-center gap-2">
+              <h4 className="text-base font-bold text-slate-900 mb-3 flex items-center gap-2">
                 <BookOpen className="w-5 h-5 text-[#1F5EFF]" />
                 Official Statutory &amp; Regulatory References
-              </h3>
+              </h4>
               <ul className="space-y-2.5 text-xs text-slate-600">
                 <li>
                   <a
@@ -770,10 +770,10 @@ export default function MultipleAppLoanSettlementClient() {
 
             {/* Related Guides & Resources Strip (10 Topic Badges) */}
             <div className="bg-slate-50 border border-slate-200 rounded-2xl p-6 my-10">
-              <h3 className="text-base font-bold text-slate-900 mb-4 flex items-center gap-2">
+              <h4 className="text-base font-bold text-slate-900 mb-4 flex items-center gap-2">
                 <BookOpen className="w-5 h-5 text-[#1F5EFF]" />
                 Explore Related Banking &amp; Debt Resolution Guides
-              </h3>
+              </h4>
               <div className="flex flex-wrap gap-2.5">
                 <Link
                   href="/instant-app-loan-settlement"

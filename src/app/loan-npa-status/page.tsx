@@ -152,15 +152,15 @@ export default function LoanNPAStatusPage() {
             </section>
 
             <section id="what-is-npa" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 What Exactly is an NPA?
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 A Non-Performing Asset (NPA) is a banking term used to classify loans or advances that are in default or are in arrears. Simply put, if a borrower fails to make interest or principal payments for a specified period, the lender considers the loan to be non-performing, meaning it is no longer generating income for them.
               </p>
 
               <div className="bg-blue-50 border-l-8 border-[#1F5EFF] p-8 rounded-r-2xl mb-8">
-                <h3 className="text-xl font-black text-[#1F5EFF] mb-4">The Official RBI Definition</h3>
+                <h4 className="text-xl font-black text-[#1F5EFF] mb-4">The Official RBI Definition</h4>
                 <p className="text-lg leading-relaxed text-gray-800 mb-4">
                   According to the RBI, a loan becomes an NPA when the interest and/or installment of principal remain overdue for a period of more than 90 days in respect of a term loan.
                 </p>
@@ -178,9 +178,9 @@ export default function LoanNPAStatusPage() {
             </section>
 
             <section id="the-90-day-timeline" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 The 90-Day Default Timeline
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 Your loan doesn't become an NPA overnight. Lenders are required to classify accounts experiencing stress into Special Mention Accounts (SMA) before officially labeling them as NPAs. Here is the step-by-step breakdown:
               </p>
@@ -189,7 +189,7 @@ export default function LoanNPAStatusPage() {
                 <div className="flex gap-6">
                   <div className="flex-shrink-0 w-12 h-12 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center font-black text-xl shadow-lg">1</div>
                   <div>
-                    <h3 className="text-2xl font-bold text-[#2E2E2E] mb-3">SMA-0 (Overdue up to 30 days)</h3>
+                    <h4 className="text-2xl font-bold text-[#2E2E2E] mb-3">SMA-0 (Overdue up to 30 days)</h4>
                     <p className="text-lg leading-relaxed text-gray-600">
                       The principal or interest payment is overdue, but only for 1 to 30 days. You will start receiving reminder calls and SMS alerts from the lender.
                     </p>
@@ -199,7 +199,7 @@ export default function LoanNPAStatusPage() {
                 <div className="flex gap-6">
                   <div className="flex-shrink-0 w-12 h-12 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center font-black text-xl shadow-lg">2</div>
                   <div>
-                    <h3 className="text-2xl font-bold text-[#2E2E2E] mb-3">SMA-1 (Overdue 31 to 60 days)</h3>
+                    <h4 className="text-2xl font-bold text-[#2E2E2E] mb-3">SMA-1 (Overdue 31 to 60 days)</h4>
                     <p className="text-lg leading-relaxed text-gray-600">
                       The payment has been overdue between 31 and 60 days. The frequency of recovery calls will increase significantly. Your CIBIL score will take a noticeable hit.
                     </p>
@@ -209,7 +209,7 @@ export default function LoanNPAStatusPage() {
                 <div className="flex gap-6">
                   <div className="flex-shrink-0 w-12 h-12 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center font-black text-xl shadow-lg">3</div>
                   <div>
-                    <h3 className="text-2xl font-bold text-[#2E2E2E] mb-3">SMA-2 (Overdue 61 to 90 days)</h3>
+                    <h4 className="text-2xl font-bold text-[#2E2E2E] mb-3">SMA-2 (Overdue 61 to 90 days)</h4>
                     <p className="text-lg leading-relaxed text-gray-600">
                       The account is now 61 to 90 days overdue. The lender views this as a high-risk account. You may receive legal notices warning you of the impending NPA classification.
                     </p>
@@ -219,34 +219,34 @@ export default function LoanNPAStatusPage() {
             </section>
 
             <section id="what-happens-on-day-91" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 What Happens on Day 91?
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 On the 91st day of continuous default, your loan account is officially tagged as an NPA. This classification triggers a series of severe consequences for you as a borrower.
               </p>
 
               <div className="grid md:grid-cols-2 gap-6 my-8">
                 <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
-                  <h3 className="font-black text-[#1F5EFF] text-lg mb-3">Massive CIBIL Drop</h3>
+                  <h4 className="font-black text-[#1F5EFF] text-lg mb-3">Massive CIBIL Drop</h4>
                   <p className="text-gray-700">Your credit score will plunge drastically, often dropping below 600, barring you from getting future loans or credit cards.</p>
                 </div>
                 <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
-                  <h4 className="font-black text-[#1F5EFF] text-lg mb-3">Aggressive Recovery</h4>
+                  <h5 className="font-black text-[#1F5EFF] text-lg mb-3">Aggressive Recovery</h5>
                   <p className="text-gray-700">The case will likely be escalated to specialized external recovery agencies whose primary job is to extract the dues.</p>
                 </div>
                 <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
-                  <h4 className="font-black text-[#1F5EFF] text-lg mb-3">Legal Action Initiated</h4>
+                  <h5 className="font-black text-[#1F5EFF] text-lg mb-3">Legal Action Initiated</h5>
                   <p className="text-gray-700">Banks may initiate Section 138 (cheque bounce) or Section 25 (ECS bounce) cases in court.</p>
                 </div>
                 <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
-                  <h4 className="font-black text-[#1F5EFF] text-lg mb-3">SARFAESI Act (Secured)</h4>
+                  <h5 className="font-black text-[#1F5EFF] text-lg mb-3">SARFAESI Act (Secured)</h5>
                   <p className="text-gray-700">If it’s a home or property loan, the bank can issue a 60-day notice to seize your asset without court intervention.</p>
                 </div>
               </div>
 
               <div className="bg-red-50 p-6 rounded-xl border border-red-100 mb-8">
-                <h4 className="text-xl font-black text-red-700 mb-3">Warning: Avoid the Debt Trap</h4>
+                <h5 className="text-xl font-black text-red-700 mb-3">Warning: Avoid the Debt Trap</h5>
                 <p className="text-red-900 text-lg leading-relaxed">
                   Once an account is classified as an NPA, the entire outstanding amount (not just the EMIs) is often demanded by the bank. Penal interest and bounce charges keep compounding, creating an impossible debt trap if left unaddressed.
                 </p>
@@ -254,9 +254,9 @@ export default function LoanNPAStatusPage() {
             </section>
 
             <section id="how-to-avoid-npa" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 How to Avoid NPA Classification
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 If you are currently in the SMA-1 or SMA-2 phase, you still have time to prevent your loan from becoming an NPA. 
               </p>
@@ -280,9 +280,9 @@ export default function LoanNPAStatusPage() {
             </section>
 
             <section id="npa-rules-for-nbfcs" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 NPA Rules for NBFCs and Banks
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 Historically, NBFCs had a more relaxed timeline (120 to 180 days) for classifying NPAs. However, the RBI has recently harmonized these regulations. Now, the <strong>90-day overdue norm applies strictly to all NBFCs</strong>, bringing them exactly on par with traditional banks.
               </p>
@@ -292,9 +292,9 @@ export default function LoanNPAStatusPage() {
             </section>
 
             <section id="success-stories" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 Borrower Success Stories
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-8">
                 If your loan has already become an NPA, don't panic. Many borrowers have successfully settled their NPA accounts and closed their loans legally.
               </p>
@@ -307,7 +307,7 @@ export default function LoanNPAStatusPage() {
                       RS
                     </div>
                     <div>
-                      <h3 className="font-bold text-lg">Rahul S.</h3>
+                      <h4 className="font-bold text-lg">Rahul S.</h4>
                       <div className="flex text-yellow-400 gap-1 mt-1">
                         {[1,2,3,4,5].map(i => (
                           <svg key={i} className="w-4 h-4 fill-current" viewBox="0 0 20 20"><path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z"/></svg>
@@ -329,7 +329,7 @@ export default function LoanNPAStatusPage() {
                       AP
                     </div>
                     <div>
-                      <h4 className="font-bold text-lg">Anita P.</h4>
+                      <h5 className="font-bold text-lg">Anita P.</h5>
                       <div className="flex text-yellow-400 gap-1 mt-1">
                         {[1,2,3,4,5].map(i => (
                           <svg key={i} className="w-4 h-4 fill-current" viewBox="0 0 20 20"><path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z"/></svg>
@@ -347,9 +347,9 @@ export default function LoanNPAStatusPage() {
             </section>
 
             <section id="faq" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">
                 Frequently Asked Questions
-              </h2>
+              </h3>
               <div className="space-y-4">
                 {[
                   { q: "When does a loan become an NPA?", a: "A loan becomes a Non-Performing Asset (NPA) when the principal or interest payment remains overdue for a continuous period of 90 days." },
@@ -380,7 +380,7 @@ export default function LoanNPAStatusPage() {
             <div className="bg-[#2E2E2E] text-white p-12 rounded-[40px] text-center mt-24 relative overflow-hidden group">
               <div className="absolute inset-0 bg-[#1F5EFF] opacity-0 group-hover:opacity-5 transition-opacity"></div>
               <div className="relative z-10">
-                <h3 className="text-3xl font-black mb-4">Is Your Loan Nearing NPA Status?</h3>
+                <h4 className="text-3xl font-black mb-4">Is Your Loan Nearing NPA Status?</h4>
                 <p className="text-lg text-white/80 mb-8 max-w-2xl mx-auto">
                   Don't let aggressive recovery agents or legal notices ruin your peace of mind. Settle your debt legally and stop harassment today.
                 </p>

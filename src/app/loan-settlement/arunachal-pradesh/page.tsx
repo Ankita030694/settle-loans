@@ -241,7 +241,7 @@ const Page = () => {
                     </section>
 
                     <section id="money-lending-regulation-act" className="scroll-mt-32 mb-16">
-                        <h2 className="text-3xl font-black mb-6">The Arunachal Pradesh Money Lending (Regulation) Act, 2018</h2>
+                        <h3 className="text-3xl font-black mb-6">The Arunachal Pradesh Money Lending (Regulation) Act, 2018</h3>
                         <p>In response to the growing menace of unregulated private lending, the state government enacted the **Arunachal Pradesh Money Lending (Regulation) Act, 2018**. This legislation is a cornerstone of borrower protection in the state. Before this Act, private lenders often operated with impunity, charging exorbitant interest rates sometimes exceeding 60-100% annually. This Act brought much-needed structure and legal recourse for the common man.</p>
                         <p>Key protections under this Act include mandatory licensing. No person can carry on the business of money lending without a valid license from the designated authority. For borrowers, this is a powerful defense. If you have borrowed money from an unlicensed lender who is now harassing you, the debt may be legally unenforceable. The Act empowers the government to cancel licenses of lenders found guilty of malpractice, providing a strong deterrent against harassment.</p>
                         <p>The Act also stipulates interest rate caps to preventing usury. While the exact rates are notified by the government, the principle is clear: predatory lending is illegal. If you are stuck in a cycle of paying endless interest without the principal reducing, we can leverage this Act to challenge the lender's claims. We demand a full accounting of all payments made, often revealing that the borrower has already paid back more than the fair legal due.</p>
@@ -249,7 +249,7 @@ const Page = () => {
                     </section>
 
                     <section id="tribal-land-protections" className="scroll-mt-32 mb-16">
-                        <h2 className="text-3xl font-black mb-6">Tribal Rights and Bank Recovery: A Crucial Shield</h2>
+                        <h3 className="text-3xl font-black mb-6">Tribal Rights and Bank Recovery: A Crucial Shield</h3>
                         <p>One of the most unique aspects of banking in Arunachal Pradesh is the protection afforded to tribal land. Under the **Arunachal Pradesh Land Settlement and Records Act, 2000**, and customary laws, land ownership is generally restricted to indigenous tribal population. Transfer of land to non-tribals is strictly regulated and, in most cases, prohibited. This legal reality creates a significant hurdle for banks trying to recover loans through the SARFAESI Act.</p>
                         <p>When a bank issues a loan against property (mortgage loan) in Arunachal Pradesh, they face a challenge: they cannot easily auction the land to a non-tribal outsider if the borrower defaults. The market for the distressed property is limited to within the tribe or local community, which often results in few takers for bank auctions. Banks know this. They understand that a "SARFAESI Notice" in Arunachal Pradesh does not have the same teeth as it does in Delhi or Mumbai.</p>
                         <p>At SettleLoans, we utilize this specific legal context to your advantage. If a bank threatens to seize your ancestral land in Aalo or Roing, we remind them of the legal complexities and the limited liquidity of the asset. We argue that a protracted legal battle over land possession is not in the bank's capability or financial interest. Instead, a **One Time Settlement (OTS)** is the most logical commercial solution for them.</p>
@@ -257,7 +257,7 @@ const Page = () => {
                     </section>
 
                     <section id="apslsa-lok-adalat" className="scroll-mt-32 mb-16">
-                        <h2 className="text-3xl font-black mb-6">Resolving Disputes via APSLSA and Lok Adalats</h2>
+                        <h3 className="text-3xl font-black mb-6">Resolving Disputes via APSLSA and Lok Adalats</h3>
                         <p>The **Arunachal Pradesh State Legal Services Authority (APSLSA)** is a vital institution that ensures justice is accessible to all, especially the marginalized. One of its most effective tools for debt resolution is the **Lok Adalat**. Organized regularly across all districts, from West Kameng to Changlang, Lok Adalats provide a forum for settling banking disputes without the rigor and delay of regular courts.</p>
                         <p>For borrowers in Arunachal Pradesh, the Lok Adalat is often the fastest route to a clean slate. Banks prefer this route because it helps them reduce their Non-Performing Assets (NPAs) quickly. In a Lok Adalat, the conciliators (often senior judges and advocates) encourage both parties to reach a compromise. Once an award is passed, it has the force of a civil court decree and is final—no appeal lies against it. This brings absolute finality to the stress of debt.</p>
                         <p>However, entering a Lok Adalat unprepared can be risky. Bank representatives come prepared with their calculations and standard terms. Without professional representation, a borrower might be intimidated into agreeing to a settlement sum that is still too high for them. This is where SettleLoans intervenes. We prepare your case *before* the Lok Adalat session. We negotiate the terms with the bank manager beforehand, agreeing on a specific settlement amount.</p>
@@ -265,7 +265,7 @@ const Page = () => {
                     </section>
 
                     <section id="microfinance-challenges" className="scroll-mt-32 mb-16">
-                        <h2 className="text-3xl font-black mb-6">Microfinance Challenges in the Rural Hills</h2>
+                        <h3 className="text-3xl font-black mb-6">Microfinance Challenges in the Rural Hills</h3>
                         <p>Microfinance Institutions (MFIs) have penetrated deep into the rural fabric of Arunachal Pradesh, providing essential credit to Self Help Groups (SHGs) and small women entrepreneurs. While this has empowered many, it has also led to a crisis of over-indebtedness in districts like **Papum Pare and Lower Subansiri**. The "Joint Liability Group" model, where members are responsible for each other's loans, often leads to immense social pressure and peer harassment when one member defaults.</p>
                         <p>We see cases where agents from MFIs exert undue pressure, visiting homes at odd hours or threatening to shame borrowers in village meetings. It is crucial to understand that the **RBI's Fair Practices Code** applies strictly to MFIs as well. They cannot use coercive tactics. The RBI has specific regulations regarding household income assessment to prevent over-lending, which many MFIs often ignore in their rush to meet targets.</p>
                         <p>If you are a victim of aggressive MFI recovery, SettleLoans can help. We take up the matter with the MFI's grievance redressal officer and, if necessary, the MFIN (Microfinance Institutions Network). We challenge the validity of loans given without proper income assessment. Our intervention breaks the cycle of peer pressure. We negotiate individual settlements for group members, allowing you to pay off your share and exit the group liability, freeing you from the stress of others' defaults.</p>
@@ -273,14 +273,14 @@ const Page = () => {
                     </section>
 
                     <section id="consumer-protection-rights" className="scroll-mt-32 mb-16">
-                        <h2 className="text-3xl font-black mb-6">Consumer Protection: Your Right to Fair Treatment</h2>
+                        <h3 className="text-3xl font-black mb-6">Consumer Protection: Your Right to Fair Treatment</h3>
                         <p>Banking is a service, and under the **Consumer Protection Act, 2019**, you are a consumer with specific rights. If a bank or financial institution in Arunachal Pradesh provides "deficient service," you can approach the District Consumer Disputes Redressal Commissions. "Deficiency" covers a wide range of issues: harassment by recovery agents, failure to update CIBIL status after payment, hidden charges, or losing your property documents.</p>
                         <p>In a state where physical access to bank branches can be difficult, poor service is a common complaint. We have seen instances where banks continue to deduct EMIs even after a settlement, or fail to issue a No Objection Certificate (NOC) for months. These are not just administrative lapses; they are actionable legal wrongs. SettleLoans helps you file robust consumer complaints seeking not just rectification but also compensation for mental agony and legal costs.</p>
                         <p>The fear of a consumer court judgment—which can tarnish a bank's reputation—is a powerful leverage tool. When we send a legal notice drafting a potential consumer complaint, bank managers in regional offices often sit up and take notice. They become far more willing to resolve the underlying debt issue amicably to avoid litigation. We empower you to stop acting like a defaulter and start acting like an aggrieved consumer demanding fair service.</p>
                     </section>
 
                     <section id="regional-debt-patterns" className="scroll-mt-32 mb-16">
-                        <h2 className="text-3xl font-black mb-6">Regional Debt Patterns: From Itanagar to Tawang</h2>
+                        <h3 className="text-3xl font-black mb-6">Regional Debt Patterns: From Itanagar to Tawang</h3>
                         <p>Arunachal Pradesh is vast and diverse, and so are its debt patterns. In the **Capital Complex (Itanagar, Naharlagun)**, the debt profile is urban. Here, we see a high density of personal loans, credit cards, and consumer durable loans. The borrowers are often government employees, contractors, and traders. The stress here comes from lifestyle inflation and delays in government bill clearances. Recovery is aggressive due to better connectivity.</p>
                         <p>In the **Eastern Belts (Pasighat, Namsai, Tezu)**, the economy is more agricultural and timber-based but also sees significant commercial activity. Here, we encounter business loans, tractor loans, and KCC limits. The challenge here is the cyclical nature of income. We often negotiate restructuring for these loans, aligning repayment schedules with harvest or business cycles.</p>
                         <p>In the **Western and Northern Districts (Tawang, Bomdila, West Kameng)**, tourism is a key economic driver. The debt here is often linked to hotels, homestays, and transport vehicles. When tourism dips (as seen during monsoons or border tensions), debt servicing capability crashes. Our strategy tailored for this region focuses on proving "force majeure" or temporary cash flow disruption to seek moratoriums or settlement.</p>
@@ -288,7 +288,7 @@ const Page = () => {
                     </section>
 
                     <section id="settlement-roadmap" className="scroll-mt-32 mb-16">
-                        <h2 className="text-3xl font-black mb-6">The SettleLoans Roadmap to Freedom</h2>
+                        <h3 className="text-3xl font-black mb-6">The SettleLoans Roadmap to Freedom</h3>
                         <p>Our settlement process is a disciplined, step-by-step journey designed to take you from stress to stability. It begins with **Financial Triage**, where we assess your immediate liquidity and prioritize which fires to fight first. We analyze your loan agreements to identify any clauses that violate state laws.</p>
                         <p>Next comes the **Legal Fortification**. We immediately issue legal notices to all your creditors. This notice informs them that you are legally represented and that all future communication must be directed to SettleLoans. This single step often stops 90% of the harassment, as recovery agents are wary of interfering with legal counsel.</p>
                         <p>We then enter the **Strategic Delinquency & Negotiation** phase. This is a controlled process where we manage your accounts to force the bank to categorize them as "distressed assets" eligible for settlement. We engage in rounds of negotiation, using the offers from Lok Adalats as a benchmark. We don't accept the first offer; we push until we reach the "floor price" - the absolute minimum the bank is willing to accept.</p>
@@ -296,20 +296,20 @@ const Page = () => {
                     </section>
 
                     <section id="stopping-harassment" className="scroll-mt-32 mb-16">
-                        <h2 className="text-3xl font-black mb-6">Stopping Recovery Harassment in Arunachal Pradesh</h2>
+                        <h3 className="text-3xl font-black mb-6">Stopping Recovery Harassment in Arunachal Pradesh</h3>
                         <p>Harassment is the ugliest face of debt, and in Arunachal Pradesh, we have zero tolerance for it. Whether it is incessant calling, visiting your workplace, or contacting your relatives, these actions are illegal. The Supreme Court and the RBI have laid down that "Right to Privacy" is fundamental. A defaulter does not lose their civil rights.</p>
                         <p>If you are being harassed, we help you take immediate action. We draft complaints to the **Superintendent of Police (SP)** of your district, citing provisions of the IPC and the AP Money Lending Act. We also escalate the matter to the bank's Nodal Officer and the RBI Ombudsman. In severe cases, we are prepared to take legal action to protect your dignity.</p>
                         <p>Our clients in AP often tell us that the relief from harassment is the biggest value we provide. The silence from recovery agents allows them to think clearly, work productively, and save money for the eventual settlement. We act as a blast wall, absorbing the pressure so you can focus on rebuilding your life.</p>
                     </section>
 
                     <section id="success-stories" className="scroll-mt-32 mb-16">
-                        <h2 className="text-3xl font-black mb-8 text-center">Success Stories from Arunachal Pradesh</h2>
+                        <h3 className="text-3xl font-black mb-8 text-center">Success Stories from Arunachal Pradesh</h3>
                         <div className="grid md:grid-cols-2 gap-6 not-prose">
                             <div className="bg-white p-6 rounded-2xl border border-[#DEDEDE] shadow-sm hover:shadow-md transition-all">
                                 <div className="flex items-center mb-4">
                                     <div className="w-10 h-10 rounded-full bg-[#1F5EFF]/10 flex items-center justify-center font-bold text-[#1F5EFF] mr-3">T</div>
                                     <div>
-                                        <h3 className="font-bold">Tashi D.</h3>
+                                        <h4 className="font-bold">Tashi D.</h4>
                                         <p className="text-xs text-gray-500">Tawang</p>
                                     </div>
                                 </div>
@@ -320,7 +320,7 @@ const Page = () => {
                                 <div className="flex items-center mb-4">
                                     <div className="w-10 h-10 rounded-full bg-[#1F5EFF]/10 flex items-center justify-center font-bold text-[#1F5EFF] mr-3">P</div>
                                     <div>
-                                        <h4 className="font-bold">Pema K.</h4>
+                                        <h5 className="font-bold">Pema K.</h5>
                                         <p className="text-xs text-gray-500">Itanagar</p>
                                     </div>
                                 </div>
@@ -331,14 +331,14 @@ const Page = () => {
                     </section>
 
                     <section id="credit-score-rebuilding" className="scroll-mt-32 mb-16">
-                        <h2 className="text-3xl font-black mb-6">Rebuilding Credit in the Hills</h2>
+                        <h3 className="text-3xl font-black mb-6">Rebuilding Credit in the Hills</h3>
                         <p>Debts are settled, but what about the future? Rebuilding your credit score (CIBIL) is essential to regaining access to formal finance. In Arunachal Pradesh, finding banks that offer secured credit cards can sometimes be tricky. We guide you to the right nationalized banks in your district that offer FD-backed credit cards.</p>
                         <p>We advise you to start small. A fixed deposit of ₹20,000 can get you a credit card. Use it for fuel or groceries and pay it back 100% on the due date. This simple habit, repeated for 12 months, works wonders for your score. We also help you audit your CIBIL report to ensuring that your settled accounts are accurately reported as "Settled" or "Closed" and not left as "Written Off" or "Suit Filed," which are far more damaging.</p>
                         <p>Within 18-24 months of disciplined financial behavior, our clients often see their scores cross 750 again, making them eligible for new housing loans or car loans. We stick with you through this rebuilding phase, ensuring your financial health is restored permanently.</p>
                     </section>
 
                     <section id="faqs-arunachal" className="scroll-mt-32 mb-16">
-                        <h2 className="text-3xl font-black mb-8">Frequently Asked Questions: Arunachal Pradesh</h2>
+                        <h3 className="text-3xl font-black mb-8">Frequently Asked Questions: Arunachal Pradesh</h3>
                         <div className="space-y-4 not-prose">
                             {[
                                 { q: "Is loan settlement legal in Arunachal Pradesh?", a: "Yes, absolutely. It is a legal banking process governed by the Indian Contract Act and RBI guidelines. Courts and Lok Adalats actively facilitate it." },
@@ -368,7 +368,7 @@ const Page = () => {
                     </section>
 
                     <section className="mt-16 bg-[#1F5EFF] rounded-3xl p-10 text-center text-white shadow-2xl">
-                        <h2 className="text-3xl md:text-4xl font-black mb-4">Reclaim Your Financial Freedom in Arunachal Pradesh</h2>
+                        <h3 className="text-3xl md:text-4xl font-black mb-4">Reclaim Your Financial Freedom in Arunachal Pradesh</h3>
                         <p className="mb-8 text-lg opacity-90 max-w-2xl mx-auto">From Itanagar to the remote valleys, we have helped families settle their debts with dignity. Your fresh start is just a call away.</p>
                         <div className="flex justify-center">
                             <a href="#contact-form" className="inline-block bg-white text-[#1F5EFF] font-black py-4 px-12 rounded-xl hover:scale-105 transition-all text-xl shadow-lg">

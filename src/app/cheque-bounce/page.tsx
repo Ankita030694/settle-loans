@@ -333,27 +333,27 @@ export default function ChequeBouncePage() {
 
           {/* NEW SECTION: Key Ingredients */}
           <section id="ingredients" className="scroll-mt-32 mb-16">
-             <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 flex items-center">
+             <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 flex items-center">
               <FontAwesomeIcon icon={faBookOpen} className="mr-4 w-12 h-12 text-[#1F5EFF]" /> When Does it Become a Crime?
-            </h2>
+            </h3>
             <p className="text-lg leading-relaxed mb-8">
                Not every bounced cheque is an offense. For a case to be valid under Section 138, the following "Ingredients" must be met:
             </p>
             <div className="grid md:grid-cols-2 gap-6">
                 <div className="bg-white p-6 rounded-xl border border-[#DEDEDE] shadow-sm">
-                    <h3 className="font-black text-lg text-[#2E2E2E] mb-2">1. Legally Enforceable Debt</h3>
+                    <h4 className="font-black text-lg text-[#2E2E2E] mb-2">1. Legally Enforceable Debt</h4>
                     <p className="text-sm text-gray-600">The cheque must be towards a valid debt. A cheque given as a "Gift" or for "Illegal Purposes" (e.g., gambling debt) does not attract Sec 138.</p>
                 </div>
                 <div className="bg-white p-6 rounded-xl border border-[#DEDEDE] shadow-sm">
-                    <h3 className="font-black text-lg text-[#2E2E2E] mb-2">2. Presentation Validity</h3>
+                    <h4 className="font-black text-lg text-[#2E2E2E] mb-2">2. Presentation Validity</h4>
                     <p className="text-sm text-gray-600">The cheque must be presented to the bank within its validity period (usually 3 months from the date on the cheque).</p>
                 </div>
                 <div className="bg-white p-6 rounded-xl border border-[#DEDEDE] shadow-sm">
-                    <h3 className="font-black text-lg text-[#2E2E2E] mb-2">3. Return for Insufficiency</h3>
+                    <h4 className="font-black text-lg text-[#2E2E2E] mb-2">3. Return for Insufficiency</h4>
                     <p className="text-sm text-gray-600">The reason for return must be "Insufficient Funds", "Account Closed", or "Stop Payment". Sign mismatch typically doesn't attract 138 but can lead to 420 (Cheating).</p>
                 </div>
                 <div className="bg-white p-6 rounded-xl border border-[#DEDEDE] shadow-sm">
-                    <h3 className="font-black text-lg text-[#2E2E2E] mb-2">4. Legal Notice Service</h3>
+                    <h4 className="font-black text-lg text-[#2E2E2E] mb-2">4. Legal Notice Service</h4>
                     <p className="text-sm text-gray-600">The payee MUST send a legal notice within 30 days of the bounce. If they skip this, they cannot file a case.</p>
                 </div>
             </div>
@@ -361,9 +361,9 @@ export default function ChequeBouncePage() {
 
            {/* Consequences */}
            <section id="consequences" className="scroll-mt-32 mb-16">
-             <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 flex items-center">
+             <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 flex items-center">
               <FontAwesomeIcon icon={faGavel} className="mr-4 w-12 h-12 text-[#1F5EFF]" /> The Punishment
-            </h2>
+            </h3>
             <p className="text-lg leading-relaxed mb-8">
                If convicted by the court, the magistrate can impose the following penalties under the Act:
             </p>
@@ -373,14 +373,14 @@ export default function ChequeBouncePage() {
                      <div className="w-16 h-16 bg-gray-100 rounded-full flex items-center justify-center mb-4">
                         <FontAwesomeIcon icon={faHandcuffs} className="w-12 h-12 text-[#2E2E2E]"/>
                      </div>
-                     <h3 className="font-black text-xl text-[#2E2E2E] mb-2">Imprisonment</h3>
+                     <h4 className="font-black text-xl text-[#2E2E2E] mb-2">Imprisonment</h4>
                      <p className="text-gray-600">Up to <strong>2 Years</strong> of jail time. This is a criminal conviction that stays on your record.</p>
                 </div>
                 <div className="bg-white p-6 rounded-xl border border-[#DEDEDE] shadow-sm flex flex-col items-center text-center">
                      <div className="w-16 h-16 bg-gray-100 rounded-full flex items-center justify-center mb-4">
                         <FontAwesomeIcon icon={faMoneyBillWave} className="w-12 h-12 text-green-700"/>
                      </div>
-                     <h3 className="font-black text-xl text-[#2E2E2E] mb-2">Monetary Penalty</h3>
+                     <h4 className="font-black text-xl text-[#2E2E2E] mb-2">Monetary Penalty</h4>
                      <p className="text-gray-600">Up to <strong>Twice the Amount</strong> of the cheque value. (e.g., If cheque was 5L, penalty can be 10L).</p>
                 </div>
             </div>
@@ -388,9 +388,9 @@ export default function ChequeBouncePage() {
 
            {/* NEW SECTION: Sec 138 vs 420 IPC */}
            <section id="ipc-comparison" className="scroll-mt-32 mb-16">
-            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 flex items-center">
+            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 flex items-center">
                <FontAwesomeIcon icon={faScaleUnbalanced} className="mr-4 w-12 h-12 text-[#1F5EFF]" /> Criminal Breach: Sec 138 vs 420 IPC
-            </h2>
+            </h3>
             <p className="mb-6 leading-relaxed">
                Many borrowers are threatened with "Cheating" cases (Section 420 IPC) by recovery agents. It is crucial to understand that a simple cheque bounce due to lack of funds is <strong>NOT Cheating</strong>.
             </p>
@@ -431,14 +431,14 @@ export default function ChequeBouncePage() {
 
            {/* Bail Process */}
            <section id="bail-process" className="scroll-mt-32 mb-16">
-            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 flex items-center">
+            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 flex items-center">
               <FontAwesomeIcon icon={faUnlockKeyhole} className="mr-4 w-12 h-12 text-[#1F5EFF]" /> The Bail Process Explained
-            </h2>
+            </h3>
             <p className="mb-6 leading-relaxed">
               Since Sec 138 is a "Bailable Offense", you have the right to get bail. You do not need to go to jail if you follow the procedure correctly on the first date of hearing.
             </p>
             <div className="bg-[#E3EDFF]/20 border border-[#DEDEDE] rounded-2xl p-8">
-              <h3 className="font-black text-[#1F5EFF] mb-4">Steps to Secure Bail:</h3>
+              <h4 className="font-black text-[#1F5EFF] mb-4">Steps to Secure Bail:</h4>
               <ol className="list-decimal list-inside space-y-4 text-[#2E2E2E] opacity-90">
                 <li><strong>Appearance:</strong> You MUST appear in court on the date mentioned in the summons. Do not skip this.</li>
                 <li><strong>Bail Bond:</strong> Your lawyer will file a "Bail Bond" (Personal Bond) usually of ₹10,000 to ₹50,000 depending on the cheque amount.</li>
@@ -453,9 +453,9 @@ export default function ChequeBouncePage() {
 
            {/* DETAILED Timeline */}
            <section id="process-steps" className="scroll-mt-32 mb-16">
-            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 flex items-center">
+            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 flex items-center">
                <FontAwesomeIcon icon={faCalendarDays} className="mr-4 w-12 h-12 text-[#1F5EFF]" /> Detailed Court Procedure (12 Steps)
-            </h2>
+            </h3>
             <p className="mb-6 leading-relaxed">
                 The legal battle for a cheque bounce case is long and technical. Understanding each stage helps you stay prepared and avoid panic.
             </p>
@@ -480,7 +480,7 @@ export default function ChequeBouncePage() {
                            {item.step}
                        </div>
                        <div className="w-[calc(100%-4rem)] md:w-[calc(50%-2.5rem)] p-6 bg-white rounded-xl border border-[#DEDEDE] shadow-sm hover:shadow-md transition-all">
-                           <h3 className="font-black text-[#2E2E2E] mb-1">{item.title}</h3>
+                           <h4 className="font-black text-[#2E2E2E] mb-1">{item.title}</h4>
                            <p className="text-sm text-[#2E2E2E]/80 leading-relaxed">{item.desc}</p>
                        </div>
                    </div>
@@ -494,27 +494,27 @@ export default function ChequeBouncePage() {
 
            {/* Defenses */}
            <section id="defenses" className="scroll-mt-32 mb-16">
-            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 flex items-center">
+            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 flex items-center">
                <FontAwesomeIcon icon={faShieldHalved} className="mr-4 w-12 h-12 text-[#1F5EFF]" /> Valid Legal Defenses
-            </h2>
+            </h3>
             <p className="mb-6 leading-relaxed">
               Not every bounced cheque leads to conviction. Depending on the facts, you can argue the following defenses to get acquitted:
             </p>
             <div className="grid md:grid-cols-2 gap-6">
                 <div className="bg-white p-5 rounded-lg border border-[#DEDEDE] shadow-sm transition hover:shadow-md">
-                    <h3 className="font-black text-lg text-[#2E2E2E] mb-2">1. Security Cheque Misuse</h3>
+                    <h4 className="font-black text-lg text-[#2E2E2E] mb-2">1. Security Cheque Misuse</h4>
                     <p className="text-sm text-gray-600">If you gave a blank signed cheque as "Security" for a loan, and the lender filled a higher amount or presented it after the loan was closed.</p>
                 </div>
                 <div className="bg-white p-5 rounded-lg border border-[#DEDEDE] shadow-sm transition hover:shadow-md">
-                    <h4 className="font-black text-lg text-[#2E2E2E] mb-2">2. Time-Barred Debt</h4>
+                    <h5 className="font-black text-lg text-[#2E2E2E] mb-2">2. Time-Barred Debt</h5>
                     <p className="text-sm text-gray-600">A cheque cannot be legally enforced for a debt that is more than 3 years old (Time Barred under Limitation Act).</p>
                 </div>
                 <div className="bg-white p-5 rounded-lg border border-[#DEDEDE] shadow-sm transition hover:shadow-md">
-                    <h4 className="font-black text-lg text-[#2E2E2E] mb-2">3. Material Alteration</h4>
+                    <h5 className="font-black text-lg text-[#2E2E2E] mb-2">3. Material Alteration</h5>
                     <p className="text-sm text-gray-600">If the date or amount on the cheque was altered or overwritten without your countersignature, the instrument is void.</p>
                 </div>
                 <div className="bg-white p-5 rounded-lg border border-[#DEDEDE] shadow-sm transition hover:shadow-md">
-                     <h4 className="font-black text-lg text-[#2E2E2E] mb-2">4. Jurisdiction Error</h4>
+                     <h5 className="font-black text-lg text-[#2E2E2E] mb-2">4. Jurisdiction Error</h5>
                     <p className="text-sm text-gray-600">Legally, the case must be filed where the *payee's bank* is located. If filed elsewhere, it can be dismissed for lack of jurisdiction.</p>
                 </div>
             </div>
@@ -522,9 +522,9 @@ export default function ChequeBouncePage() {
 
            {/* NEW SECTION: Interim Compensation */}
            <section id="interim" className="scroll-mt-32 mb-16">
-            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 flex items-center">
+            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 flex items-center">
                <FontAwesomeIcon icon={faMoneyBillWave} className="mr-4 w-12 h-12 text-[#1F5EFF]" /> Interim Compensation (Sec 143A)
-            </h2>
+            </h3>
             <div className="bg-orange-50 border-l-4 border-orange-500 p-6 rounded-r-xl mb-8">
                <p className="font-black text-orange-900/80 mb-2">New Rule Alert (2018 Amendment)</p>
                <p className="text-orange-800 text-sm">
@@ -532,7 +532,7 @@ export default function ChequeBouncePage() {
                </p>
             </div>
             
-            <h3 className="text-xl font-black text-gray-900 mb-4">What happens if you don't pay this 20%?</h3>
+            <h4 className="text-xl font-black text-gray-900 mb-4">What happens if you don't pay this 20%?</h4>
             <ul className="list-disc list-inside space-y-3 text-gray-700">
                 <li>The amount can be recovered exclusively as a fine under CrPC Section 421.</li>
                 <li>Assets can be attached to recover this amount.</li>
@@ -542,9 +542,9 @@ export default function ChequeBouncePage() {
 
            {/* Myths */}
            <section id="myths" className="scroll-mt-32 mb-16">
-             <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 flex items-center">
+             <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 flex items-center">
                <FontAwesomeIcon icon={faBan} className="mr-4 w-12 h-12 text-[#1F5EFF]" /> Common Myths Busted
-             </h2>
+             </h3>
              <div className="space-y-4">
                  <div className="bg-gray-50 p-4 rounded-lg flex gap-4">
                      <div className="min-w-[4rem] font-black text-red-600">Myth</div>
@@ -568,9 +568,9 @@ export default function ChequeBouncePage() {
 
            {/* Settlement */}
            <section id="settlement" className="scroll-mt-32 mb-16">
-               <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 flex items-center">
+               <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 flex items-center">
                    <FontAwesomeIcon icon={faHandshake} className="mr-4 w-12 h-12 text-[#1F5EFF]" /> Settlement: The Smart Way Out
-               </h2>
+               </h3>
                <div className="bg-[#E3EDFF]/20 border border-[#DEDEDE] rounded-2xl p-8 mb-8">
                    <p className="text-[#2E2E2E] mb-6 text-lg">
                        Under <strong>Section 147</strong> of the Act, cheque bounce is a "Compoundable Offense". This implies that the law encourages settlement over jail. You can settle the case at ANY stage: from the notice period right up to the Supreme Court.
@@ -578,7 +578,7 @@ export default function ChequeBouncePage() {
                    
                    <div className="grid md:grid-cols-2 gap-6">
                       <div className="bg-white p-6 rounded-xl shadow-sm border border-[#DEDEDE]">
-                          <h3 className="font-black text-[#2E2E2E] text-xl mb-3">1. Assessment Stage</h3>
+                          <h4 className="font-black text-[#2E2E2E] text-xl mb-3">1. Assessment Stage</h4>
                           <p className="text-sm text-[#2E2E2E] mb-2">Before fighting, assess: Do you actually owe the money?</p>
                           <ul className="text-sm text-[#2E2E2E] list-disc list-inside opacity-80">
                              <li>If <strong>YES</strong>: Settle immediately to save legal costs.</li>
@@ -586,7 +586,7 @@ export default function ChequeBouncePage() {
                           </ul>
                       </div>
                       <div className="bg-white p-6 rounded-xl shadow-sm border border-[#DEDEDE]">
-                          <h4 className="font-black text-[#2E2E2E] text-xl mb-3">2. The "Compounding" Power</h4>
+                          <h5 className="font-black text-[#2E2E2E] text-xl mb-3">2. The "Compounding" Power</h5>
                            <p className="text-sm text-[#2E2E2E] opacity-80">
                              Once you agree to pay, both parties sign a "Compounding Deed". This is submitted to the court. The Judge accepts it and passes an order of Acquittal. The case vanishes as if it never happened.
                            </p>
@@ -594,15 +594,15 @@ export default function ChequeBouncePage() {
                    </div>
                </div>
 
-               <h3 className="text-2xl font-black text-[#2E2E2E] mb-6">3 Proven Methods to Settle</h3>
+               <h4 className="text-2xl font-black text-[#2E2E2E] mb-6">3 Proven Methods to Settle</h4>
                <div className="space-y-6">
                    <div className="flex flex-col md:flex-row gap-6 bg-white border border-gray-200 p-6 rounded-xl relative overflow-hidden">
                        <div className="absolute top-0 left-0 w-1 h-full bg-green-500"></div>
                        <div className="flex-1">
-                           <h4 className="text-xl font-black text-[#2E2E2E] flex items-center">
+                           <h5 className="text-xl font-black text-[#2E2E2E] flex items-center">
                                <span className="bg-green-100 text-green-700 w-8 h-8 rounded-full flex items-center justify-center text-sm mr-3 font-black">1</span>
                                Mediation Centre (Court Annexed)
-                           </h4>
+                           </h5>
                            <p className="mt-3 text-gray-600 text-sm leading-relaxed">
                               Every District Court has a "Mediation Centre". Your lawyer can request the Judge to refer the matter there. A trained Mediator (neutral lawyer) sits with both parties.
                            </p>
@@ -613,10 +613,10 @@ export default function ChequeBouncePage() {
                    <div className="flex flex-col md:flex-row gap-6 bg-white border border-gray-200 p-6 rounded-xl relative overflow-hidden">
                        <div className="absolute top-0 left-0 w-1 h-full bg-blue-500"></div>
                        <div className="flex-1">
-                           <h4 className="text-xl font-black text-[#2E2E2E] flex items-center">
+                           <h5 className="text-xl font-black text-[#2E2E2E] flex items-center">
                                <span className="bg-blue-100 text-blue-700 w-8 h-8 rounded-full flex items-center justify-center text-sm mr-3 font-black">2</span>
                                National Lok Adalat
-                           </h4>
+                           </h5>
                            <p className="mt-3 text-gray-600 text-sm leading-relaxed">
                               Held every few months across India. It is a "People's Court" designed for mass settlements. Banks and NBFCs often offer heavy discounts (waiver of interest/penalty) in Lok Adalats to close old files.
                            </p>
@@ -627,10 +627,10 @@ export default function ChequeBouncePage() {
                    <div className="flex flex-col md:flex-row gap-6 bg-white border border-gray-200 p-6 rounded-xl relative overflow-hidden">
                        <div className="absolute top-0 left-0 w-1 h-full bg-purple-500"></div>
                        <div className="flex-1">
-                           <h4 className="text-xl font-black text-[#2E2E2E] flex items-center">
+                           <h5 className="text-xl font-black text-[#2E2E2E] flex items-center">
                                <span className="bg-purple-100 text-purple-700 w-8 h-8 rounded-full flex items-center justify-center text-sm mr-3 font-black">3</span>
                                Direct Out-of-Court Settlement
-                           </h4>
+                           </h5>
                            <p className="mt-3 text-gray-600 text-sm leading-relaxed">
                               Lawyers negotiate directly. Once terms are agreed, you pay the amount via DD/RTGS. In return, the lender hands over the <strong>No Dues Certificate (NDC)</strong> and appears in court to withdraw the complaint.
                            </p>
@@ -642,9 +642,9 @@ export default function ChequeBouncePage() {
 
            {/* NEW SECTION: Comparison Table */}
            <section id="comparison" className="scroll-mt-32 mb-16">
-               <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 flex items-center">
+               <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 flex items-center">
                    <FontAwesomeIcon icon={faScaleBalanced} className="mr-4 w-12 h-12 text-[#1F5EFF]" /> Court Trial vs Mediation
-               </h2>
+               </h3>
                <div className="overflow-x-auto">
                    <table className="min-w-full text-sm text-left text-[#2E2E2E] bg-white border border-[#DEDEDE] shadow-sm rounded-lg overflow-hidden">
                        <thead className="text-xs text-[#2E2E2E] uppercase bg-gray-50 border-b border-[#DEDEDE]">
@@ -682,30 +682,30 @@ export default function ChequeBouncePage() {
 
            {/* Mistakes */}
             <section id="mistakes" className="scroll-mt-32 mb-16">
-             <h2 className="text-3xl md:text-4xl font-black text-red-600 mb-8 flex items-center">
+             <h3 className="text-3xl md:text-4xl font-black text-red-600 mb-8 flex items-center">
                 <FontAwesomeIcon icon={faTriangleExclamation} className="mr-4 w-12 h-12" /> Critical Mistakes to Avoid
-             </h2>
+             </h3>
              <div className="grid md:grid-cols-2 gap-6">
                 <div className="bg-red-50 p-6 rounded-xl border border-red-100">
-                    <h3 className="font-black text-red-900 mb-2">1. Ignoring the Summon</h3>
+                    <h4 className="font-black text-red-900 mb-2">1. Ignoring the Summon</h4>
                     <p className="text-sm text-red-800">
                         Thinking "If I don't receive it, they can't do anything." Reality: The court will issue a Bailable Warrant, then a Non-Bailable Warrant, and declare you a "Proclaimed Offender".
                     </p>
                 </div>
                 <div className="bg-red-50 p-6 rounded-xl border border-red-100">
-                    <h4 className="font-black text-red-900 mb-2">2. Changing Address</h4>
+                    <h5 className="font-black text-red-900 mb-2">2. Changing Address</h5>
                     <p className="text-sm text-red-800">
                         Fleeing your address doesn't help. The court considers the notice "Served" if it was sent to your last known correct address.
                     </p>
                 </div>
                 <div className="bg-red-50 p-6 rounded-xl border border-red-100">
-                    <h4 className="font-black text-red-900 mb-2">3. Admitting Liability in Chat</h4>
+                    <h5 className="font-black text-red-900 mb-2">3. Admitting Liability in Chat</h5>
                     <p className="text-sm text-red-800">
                         Sending WhatsApp messages like "Sorry I will pay next week" can be used as admission of debt in court, weakening your defense.
                     </p>
                 </div>
                 <div className="bg-red-50 p-6 rounded-xl border border-red-100">
-                    <h4 className="font-black text-red-900 mb-2">4. Not Replying to Legal Notice</h4>
+                    <h5 className="font-black text-red-900 mb-2">4. Not Replying to Legal Notice</h5>
                     <p className="text-sm text-red-800">
                         The reply is your first line of defense. If you don't reply, the court assumes you have no valid defense to offer.
                     </p>
@@ -715,16 +715,16 @@ export default function ChequeBouncePage() {
 
            {/* NEW SECTION: Company Directors */}
            <section id="directors" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 flex items-center">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 flex items-center">
                  <FontAwesomeIcon icon={faUserTie} className="mr-4 w-12 h-12 text-[#1F5EFF]" /> For Business Owners & Directors
-              </h2>
+              </h3>
               <div className="bg-gray-50 p-8 rounded-2xl border border-[#DEDEDE]">
                  <p className="mb-4 text-[#2E2E2E]">
                    If a company cheque bounces, <strong>Section 141</strong> of the NI Act kicks in. This means every person who was "In-charge of and responsible for the conduct of business" is liable.
                  </p>
                  <div className="grid md:grid-cols-2 gap-6 mt-6">
                     <div>
-                        <h3 className="font-black text-[#2E2E2E] mb-2">Who Gets Accused?</h3>
+                        <h4 className="font-black text-[#2E2E2E] mb-2">Who Gets Accused?</h4>
                         <ul className="list-disc list-inside text-sm text-gray-600 space-y-2">
                            <li>Managing Directors</li>
                            <li>Signatory Directors</li>
@@ -732,7 +732,7 @@ export default function ChequeBouncePage() {
                         </ul>
                     </div>
                     <div>
-                         <h4 className="font-black text-[#2E2E2E] mb-2">Who is Safe?</h4>
+                         <h5 className="font-black text-[#2E2E2E] mb-2">Who is Safe?</h5>
                         <ul className="list-disc list-inside text-sm text-gray-600 space-y-2">
                            <li>Independent/Non-Exec Directors (No daily role)</li>
                            <li>Directors who resigned BEFORE the bounce (Proof required)</li>
@@ -745,9 +745,9 @@ export default function ChequeBouncePage() {
 
            {/* Documents */}
            <section id="documents" className="scroll-mt-32 mb-16">
-               <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 flex items-center">
+               <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 flex items-center">
                    <FontAwesomeIcon icon={faFileContract} className="mr-4 w-12 h-12 text-[#1F5EFF]" /> Documents You Need
-               </h2>
+               </h3>
                <p className="mb-6">To build a strong defense or settlement, keep these ready:</p>
                <ul className="grid md:grid-cols-2 gap-4">
                    {["Copy of the Bounced Cheque", "Return Memo from Bank", "Legal Notice Received (with Envelope)", "Proof of any Partial Payments made", "Loan Agreement Copy", "Correspondence (Emails/Chats) with Lender"].map((item, i) => (
@@ -760,13 +760,13 @@ export default function ChequeBouncePage() {
 
            {/* Case Studies */}
            <section id="case-studies" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl font-black text-[#2E2E2E] mb-8 text-center">Real Cases Handled</h2>
+              <h3 className="text-3xl font-black text-[#2E2E2E] mb-8 text-center">Real Cases Handled</h3>
               <div className="space-y-8">
                  <div className="bg-white p-8 rounded-2xl border border-[#DEDEDE] shadow-sm relative">
                      <div className="absolute top-0 right-0 bg-[#1F5EFF]/10 text-[#1F5EFF] px-4 py-2 rounded-bl-xl rounded-tr-xl text-sm font-black">
                          Acquitted
                      </div>
-                     <h3 className="text-xl font-black text-[#2E2E2E] mb-4">Case: The Security Cheque Defense</h3>
+                     <h4 className="text-xl font-black text-[#2E2E2E] mb-4">Case: The Security Cheque Defense</h4>
                      <p className="text-[var(--color-text-body)] mb-4">
                          <strong>Scenario:</strong> Client had given 5 blank cheques in 2018 for a 2L loan. Loan was repaid in 2020. In 2023, lender deposited a cheque for 10L.
                      </p>
@@ -779,7 +779,7 @@ export default function ChequeBouncePage() {
                      <div className="absolute top-0 right-0 bg-[#1F5EFF]/10 text-[#1F5EFF] px-4 py-2 rounded-bl-xl rounded-tr-xl text-sm font-black">
                          Settled in Mediation
                      </div>
-                     <h3 className="text-xl font-black text-[#2E2E2E] mb-4">Case: Business Loss & Settlement</h3>
+                     <h4 className="text-xl font-black text-[#2E2E2E] mb-4">Case: Business Loss & Settlement</h4>
                      <p className="text-[var(--color-text-body)] mb-4">
                          <strong>Scenario:</strong> Client defaulted on vendor payment of 15L due to Covid. Vendor filed Sec 138.
                      </p>
@@ -792,31 +792,31 @@ export default function ChequeBouncePage() {
 
            {/* NEW SECTION: Judgments */}
            <section id="judgments" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 flex items-center">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 flex items-center">
                  <FontAwesomeIcon icon={faBuildingColumns} className="mr-4 w-12 h-12 text-[#1F5EFF]" /> Landmark Judgments
-              </h2>
+              </h3>
               <p className="mb-6">The Supreme Court of India has consistently ruled to protect honest borrowers and encourage settlement.</p>
               <div className="grid md:grid-cols-2 gap-6">
                  <div className="bg-gray-50 p-6 rounded-xl border border-[#DEDEDE] hover:shadow-md transition-shadow">
-                      <h3 className="font-black text-[#2E2E2E] mb-2">Damodar S. Prabhu vs. Sayed Babalal H.</h3>
+                      <h4 className="font-black text-[#2E2E2E] mb-2">Damodar S. Prabhu vs. Sayed Babalal H.</h4>
                       <p className="text-sm text-[var(--color-text-body)] opacity-80">
                         <strong>Rule:</strong> Established graded guidelines for compounding. If you settle early (before trial), you pay no or less costs to legal services. Encourages early compromise.
                       </p>
                  </div>
                  <div className="bg-gray-50 p-6 rounded-xl border border-[#DEDEDE] hover:shadow-md transition-shadow">
-                      <h4 className="font-black text-[#2E2E2E] mb-2">M/s Meters and Instruments vs. Kanchan Mehta</h4>
+                      <h5 className="font-black text-[#2E2E2E] mb-2">M/s Meters and Instruments vs. Kanchan Mehta</h5>
                       <p className="text-sm text-[var(--color-text-body)] opacity-80">
                         <strong>Rule:</strong> The court can close a case even if the complainant refuses to settle, provided the accused pays the cheque amount plus reasonable interest/compensation to the court.
                       </p>
                  </div>
                  <div className="bg-gray-50 p-6 rounded-xl border border-[#DEDEDE] hover:shadow-md transition-shadow">
-                      <h4 className="font-black text-[#2E2E2E] mb-2">Dashrath Rupsingh Rathod vs. State</h4>
+                      <h5 className="font-black text-[#2E2E2E] mb-2">Dashrath Rupsingh Rathod vs. State</h5>
                       <p className="text-sm text-[var(--color-text-body)] opacity-80">
                         <strong>Rule:</strong> Clarified Jurisdiction. Case must be filed where the Payee's Bank Branch is located, stopping harassment of filing cases in remote locations.
                       </p>
                  </div>
                  <div className="bg-gray-50 p-6 rounded-xl border border-[#DEDEDE] hover:shadow-md transition-shadow">
-                      <h4 className="font-black text-[#2E2E2E] mb-2">Dayawati vs. Yogesh Kumar Gosain</h4>
+                      <h5 className="font-black text-[#2E2E2E] mb-2">Dayawati vs. Yogesh Kumar Gosain</h5>
                       <p className="text-sm text-[var(--color-text-body)] opacity-80">
                         <strong>Rule:</strong> Delhi High Court clarified that cases referred to Mediation Centre are legally binding. Non-compliance after mediation settlement is Contempt of Court.
                       </p>
@@ -825,9 +825,9 @@ export default function ChequeBouncePage() {
            </section>
 
            {/* FAQs */}
-           <h2 id="faqs" className="scroll-mt-32 text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">
+           <h3 id="faqs" className="scroll-mt-32 text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">
              Frequently Asked Questions
-           </h2>
+           </h3>
            <div className="space-y-4 not-prose mb-20">
              {[
                { 

@@ -568,9 +568,9 @@ export default function Page() {
                   <Clock className="w-4 h-4" />
                   <span>2. Delinquency Timeline &amp; High Court Norms</span>
                 </div>
-                <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+                <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                   NPA Delinquency Aging &amp; Bank Provisioning Norms
-                </h2>
+                </h3>
                 <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                   Under RBI Prudential Norms (IRACP), overdue accounts move through Special Mention Account stages (SMA-0 to SMA-2) in the first 90 days. After 90 days of missed payments, the bank marks the account as a Non-Performing Asset (NPA). The bank must then set aside capital reserves between 15% and 100% for the unpaid balance.
                 </p>
@@ -635,9 +635,9 @@ export default function Page() {
                   <Gavel className="w-4 h-4" />
                   <span>3. District Court &amp; Section 138/25 Defense</span>
                 </div>
-                <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+                <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                   Defending Legal Notices in Adalat Road District Court
-                </h2>
+                </h3>
                 <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                   When personal loans default, lenders initiate action before the Judicial Magistrate First Class (JMFC) at the District Court Complex on Adalat Road. Creditors file cases under <strong>Section 138 of the Negotiable Instruments Act, 1881</strong> for bounced cheques or <strong>Section 25 of the PSSA, 2007</strong> for failed NACH debits.
                 </p>
@@ -655,9 +655,9 @@ export default function Page() {
                   <ShieldAlert className="w-4 h-4" />
                   <span>4. Section 171 Lien &amp; Salary Shielding</span>
                 </div>
-                <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+                <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                   Banker&apos;s General Lien Rules &amp; Salary Protection
-                </h2>
+                </h3>
                 <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                   Under <strong>Section 171 of the Indian Contract Act, 1872</strong>, banks hold a general lien allowing set-off only over accounts within their own branch network sharing identical CIF or PAN details.
                 </p>
@@ -675,9 +675,9 @@ export default function Page() {
                   <Sparkles className="w-4 h-4" />
                   <span>5. Visual Resolution Roadmap</span>
                 </div>
-                <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+                <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                   Personal Loan Settlement Roadmap in Aurangabad
-                </h2>
+                </h3>
                 <p className="text-slate-700 leading-relaxed mb-6 text-base md:text-lg">
                   The flowchart below illustrates the structured loan settlement process across Aurangabad, Jalna, and Marathwada, highlighting workplace privacy protection, Adalat Road court notice defense, Zonal SARB negotiations, and final No Dues Certificate issuance.
                 </p>
@@ -704,9 +704,9 @@ export default function Page() {
                   <Percent className="w-4 h-4" />
                   <span>6. OTS Haircut Mechanics &amp; NPV Formula</span>
                 </div>
-                <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+                <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                   OTS Haircut Mechanics &amp; NPV Recovery Formula
-                </h2>
+                </h3>
                 <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                   Bank Settlement Committees on Jalna Road use a Net Present Value (NPV) formula to evaluate settlement proposals. Prolonged litigation in civil courts or DRT costs banks heavy advocate retainers, administrative time, and locked provisioning capital.
                 </p>
@@ -736,9 +736,9 @@ export default function Page() {
                   <ShieldCheck className="w-4 h-4" />
                   <span>7. RBI Anti-Harassment &amp; Police Limits</span>
                 </div>
-                <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+                <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                   Enforcing RBI Fair Practices &amp; Police Limits in Waluj
-                </h2>
+                </h3>
                 <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                   Under the <strong>RBI Master Directions on Fair Practices Code</strong>, recovery agents must follow strict rules. Contact is restricted strictly between 08:00 and 19:00 hours. Intimidation, abusive calls, and contacting colleagues or family are strictly prohibited. Visiting industrial units in Waluj or Shendra without consent directly violates RBI mandates.
                 </p>
@@ -756,9 +756,9 @@ export default function Page() {
                   <Layers className="w-4 h-4" />
                   <span>8. 5-Step SARB Settlement Protocol</span>
                 </div>
-                <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+                <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                   5-Step Zonal SARB Settlement Protocol in Aurangabad
-                </h2>
+                </h3>
                 <p className="text-slate-700 leading-relaxed mb-6 text-base md:text-lg">
                   Executing a legally protective loan settlement across Aurangabad and Jalna follows a structured 5-step roadmap:
                 </p>
@@ -769,7 +769,7 @@ export default function Page() {
                       1
                     </div>
                     <div>
-                      <h3 className="text-base font-bold text-slate-900 mb-1">Financial Hardship Dossier Compilation</h3>
+                      <h4 className="text-base font-bold text-slate-900 mb-1">Financial Hardship Dossier Compilation</h4>
                       <p className="text-sm text-slate-600 leading-relaxed">
                         We audit total liabilities and gather hardship evidence, including production cut notices, medical bills, or turnover loss, to substantiate genuine financial distress.
                       </p>
@@ -781,7 +781,7 @@ export default function Page() {
                       2
                     </div>
                     <div>
-                      <h3 className="text-base font-bold text-slate-900 mb-1">Legal Cease-and-Desist Notice &amp; Workplace Privacy Shield</h3>
+                      <h4 className="text-base font-bold text-slate-900 mb-1">Legal Cease-and-Desist Notice &amp; Workplace Privacy Shield</h4>
                       <p className="text-sm text-slate-600 leading-relaxed">
                         Our advocates serve formal notices on bank Zonal Heads, barring collection agent visits to Waluj and Shendra factories or family homes in CIDCO.
                       </p>
@@ -793,7 +793,7 @@ export default function Page() {
                       3
                     </div>
                     <div>
-                      <h3 className="text-base font-bold text-slate-900 mb-1">Statutory Notice Defense at Adalat Road District Court</h3>
+                      <h4 className="text-base font-bold text-slate-900 mb-1">Statutory Notice Defense at Adalat Road District Court</h4>
                       <p className="text-sm text-slate-600 leading-relaxed">
                         We draft and submit replies to Section 138 NI Act and Section 25 PSSA notices in 15 days, preventing warrants and moving cases toward Lok Adalat.
                       </p>
@@ -805,7 +805,7 @@ export default function Page() {
                       4
                     </div>
                     <div>
-                      <h3 className="text-base font-bold text-slate-900 mb-1">Direct Negotiations with Zonal SARB Desks</h3>
+                      <h4 className="text-base font-bold text-slate-900 mb-1">Direct Negotiations with Zonal SARB Desks</h4>
                       <p className="text-sm text-slate-600 leading-relaxed">
                         Bypassing agencies, we negotiate directly with credit committees on Jalna Road, securing 40% to 70% principal cuts and 100% penal interest waivers.
                       </p>
@@ -817,7 +817,7 @@ export default function Page() {
                       5
                     </div>
                     <div>
-                      <h3 className="text-base font-bold text-slate-900 mb-1">Sanction Letter Audit &amp; Mandatory NDC Delivery</h3>
+                      <h4 className="text-base font-bold text-slate-900 mb-1">Sanction Letter Audit &amp; Mandatory NDC Delivery</h4>
                       <p className="text-sm text-slate-600 leading-relaxed">
                         We verify stamped OTS letters before direct RTGS remittance and ensure delivery of your ₹0 No Dues Certificate under RBI guidelines.
                       </p>
@@ -832,9 +832,9 @@ export default function Page() {
                   <FileCheck className="w-4 h-4" />
                   <span>9. Sanction Letter Audit &amp; CIBIL Rebuilding</span>
                 </div>
-                <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+                <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                   Sanction Letter Audit &amp; Mandatory NDC in Aurangabad
-                </h2>
+                </h3>
                 <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                   Never remit funds based on verbal claims or WhatsApp messages from collection agents. A valid compromise requires an official <strong>OTS Sanction Letter on bank letterhead</strong>, bearing the manager&apos;s signature, seal, settlement sum, and closure covenants.
                 </p>
@@ -852,9 +852,9 @@ export default function Page() {
                   <Scale className="w-4 h-4" />
                   <span>10. Comparative Resolution Matrix</span>
                 </div>
-                <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+                <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                   Debt Resolution Pathways in Aurangabad &amp; Marathwada
-                </h2>
+                </h3>
                 <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                   Comparing available debt resolution options helps borrowers in Aurangabad and Jalna make informed legal decisions:
                 </p>
@@ -910,9 +910,9 @@ export default function Page() {
                   <Landmark className="w-4 h-4" />
                   <span>11. SettleLoans Legal Defense &amp; Advisory</span>
                 </div>
-                <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+                <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                   SettleLoans Legal Representation in Aurangabad
-                </h2>
+                </h3>
                 <p className="text-slate-700 leading-relaxed mb-6 text-base md:text-lg">
                   Resolving defaulted personal loans in Chhatrapati Sambhajinagar and Jalna requires professional legal representation and rigorous adherence to banking regulations. SettleLoans provides comprehensive legal defense for automotive engineers, pharmaceutical specialists, and commercial traders, ensuring complete protection from harassment and delivering substantial debt relief.
                 </p>
@@ -925,9 +925,9 @@ export default function Page() {
                   <HelpCircle className="w-4 h-4" />
                   <span>12. Frequently Asked Questions</span>
                 </div>
-                <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
+                <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
                   FAQs: Personal Loan Settlement in Aurangabad
-                </h2>
+                </h3>
 
                 <div className="space-y-4">
                   {(jsonLdGraph["@graph"][4] as any).mainEntity.map((faq: any, index: number) => (
@@ -955,10 +955,10 @@ export default function Page() {
 
               {/* 5 Official Regulatory Links */}
               <section className="bg-slate-50 border border-slate-200 rounded-2xl p-6 mb-8">
-                <h3 className="text-sm font-bold text-slate-900 mb-3 uppercase tracking-wider flex items-center gap-2">
+                <h4 className="text-sm font-bold text-slate-900 mb-3 uppercase tracking-wider flex items-center gap-2">
                   <ExternalLink className="w-4 h-4 text-[#1F5EFF]" />
                   <span>Official Statutory &amp; Regulatory References</span>
-                </h3>
+                </h4>
                 <div className="grid grid-cols-1 sm:grid-cols-2 gap-3 text-xs">
                   <a
                     href="https://www.rbi.org.in"
@@ -1010,9 +1010,9 @@ export default function Page() {
 
               {/* 10 Related Guide Badges */}
               <section className="border-t border-slate-200 pt-8 mb-8">
-                <h3 className="text-sm font-bold text-slate-900 mb-4 uppercase tracking-wider">
+                <h4 className="text-sm font-bold text-slate-900 mb-4 uppercase tracking-wider">
                   Related Loan Settlement &amp; Legal Defense Guides
-                </h3>
+                </h4>
                 <div className="flex flex-wrap gap-2">
                   <Link
                     href="/sbi-personal-loan-settlement"

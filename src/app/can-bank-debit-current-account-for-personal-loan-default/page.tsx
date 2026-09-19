@@ -556,7 +556,7 @@ export default function CanBankDebitCurrentAccountPage() {
 
             {/* Section 2: The Doctrine of Mutuality & Legal Separation of Entity */}
             <section id="doctrine-of-mutuality-legal-entity-separation" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">2. The Doctrine of Mutuality</h2>
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">2. The Doctrine of Mutuality</h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 The core principle governing cross-account recovery is the <strong>Doctrine of Mutuality</strong>. Under this rule, a bank can only set off funds when the debt and the account share the same legal identity. If the legal entity or ownership role is different, the bank cannot touch the funds.
               </p>
@@ -566,30 +566,30 @@ export default function CanBankDebitCurrentAccountPage() {
 
               <div className="space-y-4 my-4">
                 <div className="p-4 rounded-xl border-l-4 border-blue-600 bg-slate-50 space-y-1.5">
-                  <h3 className="font-bold text-slate-900 text-xs sm:text-sm flex items-center gap-1.5">
+                  <h4 className="font-bold text-slate-900 text-xs sm:text-sm flex items-center gap-1.5">
                     <Building2 className="w-4 h-4 text-blue-600" />
                     <span>Private Limited &amp; Public Limited Companies (Complete Legal Immunity)</span>
-                  </h3>
+                  </h4>
                   <p className="text-xs text-slate-600 leading-relaxed">
                     Under the <strong>Companies Act 2013</strong> and the <em>Salomon v. Salomon &amp. Co Ltd</em> rule, a company is a separate legal person. This was upheld by the Supreme Court in <em>Tata Engineering &amp. Locomotive Co Ltd v. State of Bihar</em>. When a director defaults on a personal loan, it is an individual debt. Corporate bank funds belong to the company, shareholders. And suppliers. Freezing a company account for a director&apos;s personal debt is illegal and violates banking laws.
                   </p>
                 </div>
 
                 <div className="p-4 rounded-xl border-l-4 border-indigo-600 bg-slate-50 space-y-1.5">
-                  <h3 className="font-bold text-slate-900 text-xs sm:text-sm flex items-center gap-1.5">
+                  <h4 className="font-bold text-slate-900 text-xs sm:text-sm flex items-center gap-1.5">
                     <Users className="w-4 h-4 text-indigo-600" />
                     <span>Partnership Firms &amp; Limited Liability Partnerships (LLPs)</span>
-                  </h3>
+                  </h4>
                   <p className="text-xs text-slate-600 leading-relaxed">
                     Under the <strong>Indian Partnership Act 1932</strong> and the <strong>LLP Act 2008</strong>, firm funds belong to all partners together. A personal loan taken by one partner is not a firm debt. There is no mutuality between the partner&apos;s loan and the firm&apos;s account. A bank cannot debit or freeze a partnership account for one partner&apos;s personal loan.
                   </p>
                 </div>
 
                 <div className="p-4 rounded-xl border-l-4 border-amber-600 bg-slate-50 space-y-1.5">
-                  <h3 className="font-bold text-slate-900 text-xs sm:text-sm flex items-center gap-1.5">
+                  <h4 className="font-bold text-slate-900 text-xs sm:text-sm flex items-center gap-1.5">
                     <Briefcase className="w-4 h-4 text-amber-600" />
                     <span>Sole Proprietorships: The Dual Status &amp; Working Capital Nuance</span>
-                  </h3>
+                  </h4>
                   <p className="text-xs text-slate-600 leading-relaxed">
                     A sole proprietorship shares the owner&apos;s legal identity. Even so, High Courts have set clear limits. Banks cannot freeze an active business account without prior warning. Freezing working capital halts GST tax payments, employee salaries. And vendor dues. This violates the RBI Fair Practices Code for Lenders.
                   </p>
@@ -603,7 +603,7 @@ export default function CanBankDebitCurrentAccountPage() {
 
             {/* Section 3: High Court Rulings, Statutory Protections & Cash Flow Protections */}
             <section id="high-court-rulings-operational-cash-flow" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">3. High Court Precedents, Article 19(1)(g)</h2>
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">3. High Court Precedents, Article 19(1)(g)</h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Indian High Courts and the Supreme Court have ruled on bank account freezes many times. The courts hold that banks cannot act as judge and jury. Lenders cannot freeze running business accounts to force unsecured loan recovery.
               </p>
@@ -658,7 +658,7 @@ export default function CanBankDebitCurrentAccountPage() {
 
             {/* Section 4: Bank Balance Sheet Accounting & NPV Recovery Formula */}
             <section id="bank-accounting-npa-npv-recovery-formula" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">4. Bank NPA Accounting &amp; Current Account Freezes</h2>
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">4. Bank NPA Accounting &amp; Current Account Freezes</h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Banks use current account freezes when loans turn into defaulted Assets (NPAs). Under RBI rules, an unsecured personal loan becomes an NPA after 90 days of non-payment.
               </p>
@@ -730,7 +730,7 @@ export default function CanBankDebitCurrentAccountPage() {
 
             {/* Section 5: Infographic Banner */}
             <section id="visual-roadmap-business-account-unfreeze" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">5. Business Current Account Unfreezing</h2>
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">5. Business Current Account Unfreezing</h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 This 5-stage roadmap shows how to unfreeze a business current account. It guides you from checking illegal bank holds to serving legal notices and securing a debt settlement:
               </p>
@@ -765,32 +765,32 @@ export default function CanBankDebitCurrentAccountPage() {
 
             {/* Section 6: Emergency Advocate 4-Stage Protocol */}
             <section id="emergency-advocate-4-stage-unfreeze-protocol" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">6. The Emergency 4-Stage Advocate Protocol to Unfreeze</h2>
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">6. The Emergency 4-Stage Advocate Protocol to Unfreeze</h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 When a business account is frozen, standard complaints to branch desks rarely work. Branch managers cannot remove risk system holds without legal clearance. Legal counsel follows this 4-stage unfreezing protocol:
               </p>
 
               <div className="space-y-3 my-4">
                 <div className="p-4 rounded-xl border-l-4 border-blue-600 bg-slate-50 space-y-1">
-                  <h3 className="font-bold text-slate-900 text-xs sm:text-sm">Stage 1: Immediate Cash Flow Ring-Fencing &amp; Alternate Banking</h3>
+                  <h4 className="font-bold text-slate-900 text-xs sm:text-sm">Stage 1: Immediate Cash Flow Ring-Fencing &amp; Alternate Banking</h4>
                   <p className="text-xs text-slate-600 leading-relaxed">
                     Within 24 hours, move customer wire transfers, card swipe machines, and UPI QR codes to an account at another bank. This keeps fresh sales revenue safe from wrongful freezes.
                   </p>
                 </div>
                 <div className="p-4 rounded-xl border-l-4 border-indigo-600 bg-slate-50 space-y-1">
-                  <h4 className="font-bold text-slate-900 text-xs sm:text-sm">Stage 2: Serving Advocate Statutory Demand Notice</h4>
+                  <h5 className="font-bold text-slate-900 text-xs sm:text-sm">Stage 2: Serving Advocate Statutory Demand Notice</h5>
                   <p className="text-xs text-slate-600 leading-relaxed">
                     Your lawyer serves a legal notice on the bank&apos;s Zonal Head and Principal Nodal Officer. The notice proves lack of mutuality under company law, cites Section 31 NI Act. And warns of claims for damages.
                   </p>
                 </div>
                 <div className="p-4 rounded-xl border-l-4 border-purple-600 bg-slate-50 space-y-1">
-                  <h4 className="font-bold text-slate-900 text-xs sm:text-sm">Stage 3: Escalation to RBI Integrated Ombudsman Scheme</h4>
+                  <h5 className="font-bold text-slate-900 text-xs sm:text-sm">Stage 3: Escalation to RBI Integrated Ombudsman Scheme</h5>
                   <p className="text-xs text-slate-600 leading-relaxed">
                     If the bank does not unfreeze the account within 48 hours, file a complaint on the RBI CMS portal (cms.rbi.org.in). The RBI Ombudsman acts strictly against illegal account freezes.
                   </p>
                 </div>
                 <div className="p-4 rounded-xl border-l-4 border-amber-600 bg-slate-50 space-y-1">
-                  <h4 className="font-bold text-slate-900 text-xs sm:text-sm">Stage 4: Emergency High Court Writ (Article 226) or Commercial Court Injunction</h4>
+                  <h5 className="font-bold text-slate-900 text-xs sm:text-sm">Stage 4: Emergency High Court Writ (Article 226) or Commercial Court Injunction</h5>
                   <p className="text-xs text-slate-600 leading-relaxed">
                     For PSU banks, file a Writ Petition under Article 226 in the High Court. For private banks, file an injunction application under Order 39 CPC in commercial court to unfreeze funds immediately.
                   </p>
@@ -804,7 +804,7 @@ export default function CanBankDebitCurrentAccountPage() {
 
             {/* Section 7: Converting Unlawful Account Freezes into a 45%–65% OTS */}
             <section id="converting-freeze-into-compromise-ots" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">7. Converting an Unlawful Account Freeze into an Affordable</h2>
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">7. Converting an Unlawful Account Freeze into an Affordable</h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 An illegal account freeze shows that the bank wants a quick recovery. By exposing regulatory breaches, lawyers can turn this situation into leverage. Borrowers can then negotiate a formal <strong>One-Time Settlement (OTS)</strong> on the overdue personal loan.
               </p>
@@ -854,7 +854,7 @@ export default function CanBankDebitCurrentAccountPage() {
 
             {/* Section 8: Forensic Sanction Verification & ₹0 NDC Mandate */}
             <section id="sanction-letter-forensics-ndc-compliance" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">8. Sanction Letter Forensics &amp; RBI ₹0 NDC</h2>
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">8. Sanction Letter Forensics &amp; RBI ₹0 NDC</h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 When settling a loan that triggered an account freeze, checking paperwork is critical. Never rely on verbal promises from recovery agents. Without written approval, banks may keep debit flags active.
               </p>
@@ -911,9 +911,9 @@ export default function CanBankDebitCurrentAccountPage() {
                 </p>
               </div>
 
-              <h3 className="text-base sm:text-lg font-bold text-slate-900 pt-2">
+              <h4 className="text-base sm:text-lg font-bold text-slate-900 pt-2">
                 Understanding Commercial CIBIL (CCR) vs. Individual CIBIL Score Rehabilitation
-              </h3>
+              </h4>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 For Private Limited companies and LLPs, the Company Credit Report (CCR) runs under the company PAN. It remains completely safe from a director&apos;s personal debt settlement. For sole proprietors, the loan marks as <strong>&quot;Settled&quot;</strong> with a <strong>₹0 balance</strong>. This stops collection calls, clears bank holds. And lets you rebuild your score to 750+ within 18 months.
               </p>
@@ -921,7 +921,7 @@ export default function CanBankDebitCurrentAccountPage() {
 
             {/* Section 9: Comparative Legal Matrix */}
             <section id="comparative-legal-matrix-setoff-vs-injunction" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">9. Current Account Debt Defense Matrix</h2>
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">9. Current Account Debt Defense Matrix</h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Compare the legal options available when a bank freezes a business current account:
               </p>
@@ -974,7 +974,7 @@ export default function CanBankDebitCurrentAccountPage() {
             {/* Section 10: SettleLoans Legal Defense & Advisory + CompanySection */}
             <section id="company-resolution-section" className="space-y-6">
               <div className="border-t border-slate-200 pt-8 space-y-4">
-                <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">10. SettleLoans Account Unfreezing Legal Relief</h2>
+                <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">10. SettleLoans Account Unfreezing Legal Relief</h3>
                 <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                   Protecting your business against an unlawful account freeze requires expert banking advocates. SettleLoans helps business founders, partners. And proprietors across India. We serve legal notices, halt recovery pressure, file RBI Ombudsman cases. And secure 45% to 65% principal waivers with official No Dues Certificates.
                 </p>
@@ -988,7 +988,7 @@ export default function CanBankDebitCurrentAccountPage() {
             <section id="faqs" className="space-y-4 border-t border-slate-200 pt-8">
               <div className="flex items-center gap-2 mb-2">
                 <HelpCircle className="w-5 h-5 text-[#1F5EFF]" />
-                <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">11. FAQs: Current Account Freezes &amp; Legal Remedies</h2>
+                <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">11. FAQs: Current Account Freezes &amp; Legal Remedies</h3>
               </div>
               <p className="text-xs sm:text-sm text-slate-600 mb-6">
                 Find clear answers to key questions about business current account freezes, company laws. And loan settlements in India.
@@ -1019,9 +1019,9 @@ export default function CanBankDebitCurrentAccountPage() {
 
             {/* 5 Official Regulatory Links */}
             <section className="border-t border-slate-200 pt-8 mb-4">
-              <h3 className="text-xs sm:text-sm font-bold text-slate-900 mb-3 uppercase tracking-wider">
+              <h4 className="text-xs sm:text-sm font-bold text-slate-900 mb-3 uppercase tracking-wider">
                 Official Statutory &amp; Regulatory References
-              </h3>
+              </h4>
               <div className="grid grid-cols-1 sm:grid-cols-2 gap-2.5 text-xs">
                 <a
                   href="https://www.indiacode.gov.in/bitstream/123456789/2187/1/A1872-09.pdf"
@@ -1073,9 +1073,9 @@ export default function CanBankDebitCurrentAccountPage() {
 
             {/* 10 Related Guide Badges */}
             <section className="border-t border-slate-200 pt-8 mb-8">
-              <h3 className="text-xs sm:text-sm font-bold text-slate-900 mb-4 uppercase tracking-wider">
+              <h4 className="text-xs sm:text-sm font-bold text-slate-900 mb-4 uppercase tracking-wider">
                 Related Business Debt Defense &amp; Loan Resolution Guides
-              </h3>
+              </h4>
               <div className="flex flex-wrap gap-2">
                 <Link
                   href="/bank-freeze-salary-account-loan-default"

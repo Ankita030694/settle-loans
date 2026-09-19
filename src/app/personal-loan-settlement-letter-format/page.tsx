@@ -114,8 +114,8 @@ const jsonLdGraph = {
     {
       "@type": "Product",
       "@id": "https://www.settleloans.in/personal-loan-settlement-letter-format#product",
-      "name": "Personal Loan Settlement Legal Advisory & Documentation Services",
-      "description": "Professional drafting of bank settlement letters, OTS negotiation, anti-harassment legal protection, and CIBIL score rehabilitation for distressed borrowers in India.",
+      "name": "Personal Loan Settlement Legal Advisory & records Services",
+      "description": "Professional drafting of bank settlement letters, OTS talks, anti-harassment legal protection, and CIBIL score recovery for distressed borrowers in India.",
       "image": "https://www.settleloans.in/images/infographics/personal-loan-settlement-letter-format.jpg",
       "brand": {
         "@type": "Brand",
@@ -216,7 +216,7 @@ const jsonLdGraph = {
           "name": "What percentage of the outstanding loan amount should I offer in the settlement letter?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Initial settlement proposals typically start between 25% and 40% of the total outstanding dues (or 40%–50% of the principal amount). Banks generally settle unsecured personal loans between 35% and 60% of total dues depending on the age of the default (NPA bucket), your demonstrated insolvency, and board-approved compromise policies."
+            "text": "Initial settlement proposals typically start between 25% and 40% of the total outstanding dues (or 40%–50% of the principal amount). Banks generally settle unsecured personal loans between 35% and 60% of total dues depending on the age of the default (NPA bucket), your showed insolvency, and board-approved compromise policies."
           }
         },
         {
@@ -256,7 +256,7 @@ const jsonLdGraph = {
           "name": "What should be stated in the final settlement agreement or approval letter?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "The formal sanction letter must explicitly state: the exact settlement amount, payment due date(s), payment mode/account, an explicit clause that all remaining principal, interest, and charges are waived, confirmation that all legal proceedings (if any) will be withdrawn, and a commitment to issue a final No Dues Certificate within 30 days of payment."
+            "text": "The formal sanction letter must explicitly state: the exact settlement amount, payment due date(s), payment mode/account, an explicit clause that all remaining principal, interest, and charges are waived, confirmation that all legal cases (if any) will be withdrawn, and a commitment to issue a final No Dues Certificate within 30 days of payment."
           }
         },
         {
@@ -272,7 +272,7 @@ const jsonLdGraph = {
           "name": "Can I settle multiple personal loans and credit cards using a single common letter?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "No. If you have debts across multiple banks or multiple separate loan accounts within the same bank, you must draft and submit an individualized settlement letter for each distinct loan account number, detailing specific account numbers, disbursed amounts, and individualized hardship circumstances."
+            "text": "No. If you have debts across multiple banks or multiple separate loan accounts within the same bank, you must draft and submit an individualized settlement letter for each distinct loan account number, detailing specific account numbers, disbursed amounts, and individualized hardship situations."
           }
         }
       ]

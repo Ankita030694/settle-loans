@@ -275,9 +275,9 @@ export default function RecoveryAgentCallingAfter7PMPage() {
             </section>
 
             <section id="rbi-rulebook" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
                 The RBI Rulebook: Explicit and Mandatory
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 The guidelines governing recovery timings are not hidden in fine print. They are clearly articulated in the RBI's "Guidelines on Recovery Agents engaged by Banks" and the "Fair Practice Code" for NBFCs. These rules have been updated as recently as 2026 to include more stringent protections for digital lending.
               </p>
@@ -288,7 +288,7 @@ export default function RecoveryAgentCallingAfter7PMPage() {
                 Furthermore, the RBI has clarified that banks and NBFCs cannot delegate their responsibility to third-party agencies. If an agency calls you at 10:00 PM, the bank is legally liable. This accountability is the foundation of your defense. You aren’t just fighting a rogue agent; you are holding a multi-crore financial institution responsible for breaking the rules.
               </p>
               <div className="bg-gray-50 p-8 rounded-xl border border-gray-200 mb-8">
-                <h3 className="text-xl font-bold mb-6">The Golden Standard of Recovery Timing</h3>
+                <h4 className="text-xl font-bold mb-6">The Golden Standard of Recovery Timing</h4>
                 <ul className="space-y-4">
                   <li className="flex items-start gap-4">
                     <div className="w-6 h-6 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center text-xs flex-shrink-0 mt-1">✓</div>
@@ -311,9 +311,9 @@ export default function RecoveryAgentCallingAfter7PMPage() {
             </section>
 
             <section id="why-7pm-matters" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
                 Why the 7:00 PM Rule Exists: Protecting Human Dignity
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 You might wonder: "Why is 7:00 PM the cutoff? Why not 9:00 PM?" The RBI’s choice of 7:00 PM is deliberate. It is based on the recognition that a human being needs time to disconnect from the pressures of financial obligation to maintain mental stability and fulfill their roles as parents, spouses, and children.
               </p>
@@ -326,14 +326,14 @@ export default function RecoveryAgentCallingAfter7PMPage() {
             </section>
 
             <section id="harassment-definitions" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
                 Defining Harassment: It's Not Just About the Time
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 While the timing is a objective violation, harassment also includes the "quality" of the interaction. Even if a call happens at 2:00 PM, it can still be illegal. However, when a call happens after 7:00 PM, the "intent to harass" is automatically presumed by most regulatory bodies.
               </p>
               <div className="bg-red-50 p-8 rounded-xl border border-red-200 mb-8 font-bold">
-                <h3 className="text-xl font-bold mb-4 text-red-900">What Constitutes Illegal Harassment?</h3>
+                <h4 className="text-xl font-bold mb-4 text-red-900">What Constitutes Illegal Harassment?</h4>
                 <ul className="space-y-4 text-sm text-red-800">
                   <li>1. Repeated calls (more than 3 per day) even within the legal hours.</li>
                   <li>2. Use of abusive, derogatory, or unparliamentary language.</li>
@@ -348,19 +348,19 @@ export default function RecoveryAgentCallingAfter7PMPage() {
             </section>
 
             <section id="legal-protections" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Your Legal Protections: The Constitution and the IPC</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Your Legal Protections: The Constitution and the IPC</h3>
               <p className="mb-6">
                 Your protection against night-time harassment doesn't just come from the RBI. It is rooted in the highest laws of the land.
               </p>
               <div className="grid md:grid-cols-2 gap-6 mb-8">
                 <div className="bg-blue-50/50 p-6 rounded-xl border border-blue-100">
-                  <h3 className="text-xl font-bold text-blue-800 mb-3">Article 21: Right to Life</h3>
+                  <h4 className="text-xl font-bold text-blue-800 mb-3">Article 21: Right to Life</h4>
                   <p className="text-sm text-blue-900/80 leading-relaxed">
                     The Supreme Court of India has interpreted the Right to Life as including the "Right to Privacy" and the "Right to sleep peacefully." Illegal recovery calls at night are a direct violation of your constitutional rights.
                   </p>
                 </div>
                 <div className="bg-emerald-50/50 p-6 rounded-xl border border-emerald-100">
-                  <h3 className="text-xl font-bold text-emerald-800 mb-3">Section 503 IPC</h3>
+                  <h4 className="text-xl font-bold text-emerald-800 mb-3">Section 503 IPC</h4>
                   <p className="text-sm text-emerald-900/80 leading-relaxed">
                     Criminal Intimidation occurs when someone threatens another with injury to their person, reputation, or property. Threatening night calls are almost always classified as criminal intimidation.
                   </p>
@@ -372,7 +372,7 @@ export default function RecoveryAgentCallingAfter7PMPage() {
             </section>
 
             <section id="evidence-gathering" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">How to Gather Digital Proof of Night-Time Calls</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">How to Gather Digital Proof of Night-Time Calls</h3>
               <p className="mb-6">
                 The bank will almost always deny that their agents called at night. They will claim that the agent is "lying" or that the timing records are "glitched." You must have undeniable proof.
               </p>
@@ -405,7 +405,7 @@ export default function RecoveryAgentCallingAfter7PMPage() {
             </section>
 
             <section id="filing-complaints" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">The Step-by-Step Guide to Filing an Official Complaint</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">The Step-by-Step Guide to Filing an Official Complaint</h3>
               <p className="mb-6">
                 Don't just complain to the agent; complain to the system that pays them. Here is the effective escalation path:
               </p>
@@ -413,15 +413,15 @@ export default function RecoveryAgentCallingAfter7PMPage() {
                 <div className="bg-[#1F5EFF] p-6 text-white font-bold text-xl">The Escalation Protocol</div>
                 <div className="p-8 space-y-6">
                   <div>
-                    <h3 className="font-bold text-lg mb-2">Phase 1: The Bank's Grievance Desk</h3>
+                    <h4 className="font-bold text-lg mb-2">Phase 1: The Bank's Grievance Desk</h4>
                     <p className="text-gray-600">Every bank has a Principal Nodal Officer (PNO). Send a detailed email with your attachments. Mention the specific RBI circular on recovery timings. Demand an apology and a guarantee that night calls will stop.</p>
                   </div>
                   <div>
-                    <h4 className="font-bold text-lg mb-2">Phase 2: The Consumer Forum</h4>
+                    <h5 className="font-bold text-lg mb-2">Phase 2: The Consumer Forum</h5>
                     <p className="text-gray-600 font-bold">Night-time harassment is a 'deficiency in service.' You can file a complaint with the District Consumer Commission. They have the power to award you monetary compensation for the 'mental agony' caused by the bank's agents.</p>
                   </div>
                   <div>
-                    <h4 className="font-bold text-lg mb-2">Phase 3: The RBI Ombudsman (CMS Portal)</h4>
+                    <h5 className="font-bold text-lg mb-2">Phase 3: The RBI Ombudsman (CMS Portal)</h5>
                     <p className="text-gray-600">If the bank doesn't resolve the issue within 30 days, go to cms.rbi.org.in. This is the ultimate regulatory deterrent for banks. An inquiry from the Ombudsman's office can cost the bank far more than the value of your loan.</p>
                   </div>
                 </div>
@@ -429,7 +429,7 @@ export default function RecoveryAgentCallingAfter7PMPage() {
             </section>
 
             <section id="ombudsman-recourse" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">How the RBI Ombudsman Protects You</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">How the RBI Ombudsman Protects You</h3>
               <p className="mb-6">
                 The Integrated Ombudsman Scheme of the RBI is designed to handle "Grounds of Complaint" like yours. Harassment and timing violations are specifically mentioned in their manual. When you file a complaint, the Ombudsman will ask the bank to provide its version of events.
               </p>
@@ -442,12 +442,12 @@ export default function RecoveryAgentCallingAfter7PMPage() {
             </section>
 
             <section id="nocturnal-anxiety" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Dealing with Nocturnal Debt Anxiety</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Dealing with Nocturnal Debt Anxiety</h3>
               <p className="mb-6 text-lg">
                 The physiological impact of night-time harassment is real. When your phone pings at 10 PM, your body releases cortisol, the stress hormone. This leads to insomnia, which in turn leads to poor judgment and reduced productivity.
               </p>
               <div className="bg-orange-50 p-8 rounded-2xl border border-orange-100 mb-8">
-                <h3 className="text-xl font-bold text-orange-800 mb-4">Reclaiming Your Night</h3>
+                <h4 className="text-xl font-bold text-orange-800 mb-4">Reclaiming Your Night</h4>
                 <p className="mb-4 text-orange-900/80">
                   While you take legal steps, you must also take psychological steps. Turn on "Do Not Disturb" (DND) modes on your phone after 7:00 PM. Set it so that only your family members can reach you. Remind yourself constantly: "Any call I miss right now is illegal. I am in the right, they are in the wrong. I will deal with this tomorrow morning at 9:00 AM."
                 </p>
@@ -458,12 +458,12 @@ export default function RecoveryAgentCallingAfter7PMPage() {
             </section>
 
             <section id="settleloans-shield" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">The SettleLoans Shield: Turning Off the Noise</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">The SettleLoans Shield: Turning Off the Noise</h3>
               <p className="mb-6">
                 At SettleLoans, we have a specialized "Night Shield" protocol. We know that the first priority for any person in debt is to stop the harassment so they can think straight. When you enroll in our program, we don't just wait for the bank to call; we go on the offensive.
               </p>
               <div className="bg-[#2E2E2E] text-white p-8 rounded-2xl mb-8">
-                <h3 className="text-2xl font-bold mb-4">Our Professional Response System</h3>
+                <h4 className="text-2xl font-bold mb-4">Our Professional Response System</h4>
                 <p className="mb-4 opacity-80">
                   How we protect our clients after 7:00 PM:
                 </p>
@@ -485,7 +485,7 @@ export default function RecoveryAgentCallingAfter7PMPage() {
             </section>
 
             <section id="case-studies" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 text-center">Stories of Borrowers Who Fought Back</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 text-center">Stories of Borrowers Who Fought Back</h3>
               <div className="grid md:grid-cols-2 gap-6 not-prose">
                 {[
                   {
@@ -519,7 +519,7 @@ export default function RecoveryAgentCallingAfter7PMPage() {
                         {review.name.charAt(0)}
                       </div>
                       <div>
-                        <h3 className="font-bold text-[#2E2E2E]">{review.name}</h3>
+                        <h4 className="font-bold text-[#2E2E2E]">{review.name}</h4>
                         <p className="text-xs text-gray-400">{review.loc}</p>
                       </div>
                       <div className="ml-auto text-yellow-400 text-sm">★★★★★</div>
@@ -534,19 +534,19 @@ export default function RecoveryAgentCallingAfter7PMPage() {
             </section>
 
             <section id="long-term-relief" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">From Stopping Calls to Stopping Debt</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">From Stopping Calls to Stopping Debt</h3>
               <p className="mb-6 text-lg">
                 Stopping late-night calls is a critical victory, but it is just the first step. The ultimate goal is to remove the debt itself so that you never have to fear a phone call at any hour.
               </p>
               <div className="grid sm:grid-cols-2 gap-8 my-10">
                 <div>
-                  <h3 className="text-xl font-bold mb-4 text-[#1F5EFF]">Strategic Settlement</h3>
+                  <h4 className="text-xl font-bold mb-4 text-[#1F5EFF]">Strategic Settlement</h4>
                   <p className="text-sm text-gray-600 leading-relaxed">
                     Once the harassment stops, we begin the process of One-Time Settlement (OTS). We negotiate with the lender to close the loan for a fraction of the total dues, allowing you to pay what you can afford while clearing your name legally.
                   </p>
                 </div>
                 <div>
-                  <h3 className="text-xl font-bold mb-4 text-[#1F5EFF]">Credit Recovery</h3>
+                  <h4 className="text-xl font-bold mb-4 text-[#1F5EFF]">Credit Recovery</h4>
                   <p className="text-sm text-gray-600 leading-relaxed">
                     Settling a loan allows your credit profile to stop bleeding. Over time, with the right guidance, you can rebuild your CIBIL score and regain access to ethical, low-interest credit from reputable banks.
                   </p>
@@ -555,7 +555,7 @@ export default function RecoveryAgentCallingAfter7PMPage() {
             </section>
 
             <section id="faqs" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Frequently Asked Questions</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Frequently Asked Questions</h3>
               <div className="space-y-4 not-prose">
                 {[
                   { q: "Is calling after 7 PM illegal even if I have signed the loan agreement?", a: "Yes. No contract can override the law of the land or RBI's mandatory guidelines. Even if there is a clause buried in the agreement about 'anytime contact,' it is legally void as it violates the Fair Practice Code." },
@@ -592,7 +592,7 @@ export default function RecoveryAgentCallingAfter7PMPage() {
             <div className="lg:hidden mt-16 mb-8">
               <div className="bg-[#2E2E2E] rounded-2xl shadow-xl overflow-hidden border border-[#1F5EFF]/20">
                 <div className="bg-[#1F5EFF] p-6 text-center text-white">
-                  <h3 className="text-2xl font-black mb-2">Reclaim Your Peace</h3>
+                  <h4 className="text-2xl font-black mb-2">Reclaim Your Peace</h4>
                   <p className="opacity-90 text-sm">Join thousands of Indians who have stopped late-night harassment with SettleLoans.</p>
                 </div>
                 <div className="p-8 text-center text-[#DEDEDE]">
@@ -663,9 +663,9 @@ export default function RecoveryAgentCallingAfter7PMPage() {
         {/* Bottom CTA Section */}
         <section className="w-full bg-[#1F5EFF] py-16 px-4 md:px-8 lg:px-16 text-center text-white">
           <div className="max-w-4xl mx-auto">
-            <h2 className="text-3xl md:text-5xl font-black mb-8 leading-tight">
+            <h3 className="text-3xl md:text-5xl font-black mb-8 leading-tight">
               Don't Let Late-Night Calls <br /> Ruin Your Peace.
-            </h2>
+            </h3>
             <p className="text-lg md:text-xl mb-12 opacity-90 max-w-2xl mx-auto">
               Our legal shield has protected over 15,000 families from illegal recovery harassment. We stop the calls, protect your privacy, and settle your debt legally.
             </p>

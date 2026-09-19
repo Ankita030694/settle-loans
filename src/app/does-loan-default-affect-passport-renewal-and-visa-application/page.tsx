@@ -292,7 +292,7 @@ export default function LoanDefaultPassportVisaPage() {
             </section>
 
             <section id="civil-vs-criminal" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">Civil Default vs. Criminal Fraud</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">Civil Default vs. Criminal Fraud</h3>
               <p className="text-lg leading-relaxed mb-6">
                 It is crucial to clarify the legal difference between a standard civil loan default and a criminal fraud case. A loan default occurs when you are unable to pay your EMIs due to job loss, medical emergencies, or business failure. This is considered a <strong>civil dispute</strong> between you and your bank.
               </p>
@@ -302,7 +302,7 @@ export default function LoanDefaultPassportVisaPage() {
             </section>
 
             <section id="passport-renewal" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">Impact on Passport Renewal</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">Impact on Passport Renewal</h3>
               <p className="text-lg leading-relaxed mb-6">
                 Many individuals panic when their passport is up for renewal, fearing that their bank will block the process. However, the Regional Passport Office (RPO) operates under the Passports Act, 1967. 
               </p>
@@ -312,7 +312,7 @@ export default function LoanDefaultPassportVisaPage() {
             </section>
 
             <section id="cibil-and-visa" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">CIBIL Score and Visa Rejection</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">CIBIL Score and Visa Rejection</h3>
               <p className="text-lg leading-relaxed mb-6">
                 Does a low CIBIL score lead to visa rejection? The short answer is no. Foreign embassies (such as the US, UK, Schengen nations) do not pull your CIBIL report when evaluating a standard tourist or business visa application. 
               </p>
@@ -322,14 +322,14 @@ export default function LoanDefaultPassportVisaPage() {
             </section>
 
             <section id="can-defaulters-travel" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">Can a Defaulter Travel Abroad?</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">Can a Defaulter Travel Abroad?</h3>
               <p className="text-lg leading-relaxed mb-6">
                 Yes, a defaulter can absolutely travel abroad. The Indian Constitution guarantees the right to travel abroad under Article 21 (Protection of Life and Personal Liberty). A bank or recovery agent cannot illegally hold your passport or stop you at the airport.
               </p>
             </section>
 
             <section id="look-out-circular" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">Understanding Look Out Circulars (LOC)</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">Understanding Look Out Circulars (LOC)</h3>
               <p className="text-lg leading-relaxed mb-6">
                 A Look Out Circular (LOC) is a letter used by authorities to check whether a traveling person is wanted by the police. While banks have requested LOCs in the past to prevent defaulters from fleeing, the High Courts have strictly ruled that an LOC cannot be issued for mere civil loan defaults.
               </p>
@@ -339,14 +339,14 @@ export default function LoanDefaultPassportVisaPage() {
             </section>
 
             <section id="immigration-impact" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">Does Loan Default Stop Immigration?</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">Does Loan Default Stop Immigration?</h3>
               <p className="text-lg leading-relaxed mb-6">
                 If you are planning to immigrate permanently (e.g., Canadian PR, Australian Subclass visas), immigration authorities will require a Police Clearance Certificate (PCC). Since a loan default is a civil matter, it will not appear on a standard police clearance certificate unless an FIR for fraud was filed and a criminal court convicted you. 
               </p>
             </section>
 
             <section id="cheque-bounce-risks" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">Risks of Cheque Bounce (Sec 138)</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">Risks of Cheque Bounce (Sec 138)</h3>
               <p className="text-lg leading-relaxed mb-6">
                 The only major gray area for borrowers is a bounced cheque or ECS mandate under Section 138 of the Negotiable Instruments Act or Section 25 of the Payment and Settlement Systems Act. These are quasi-criminal offenses.
               </p>
@@ -356,28 +356,28 @@ export default function LoanDefaultPassportVisaPage() {
             </section>
 
             <section id="managing-debt-abroad" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">Managing Indian Debt While Abroad</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">Managing Indian Debt While Abroad</h3>
               <p className="text-lg leading-relaxed mb-6">
                 Moving abroad does not erase your Indian debt. The bank can still pursue legal action in India. They may send notices to your Indian address. To avoid ex-parte judgments (rulings made in your absence), you should stay in communication with the bank or appoint a legal representative via a Power of Attorney to manage the dispute locally.
               </p>
             </section>
 
             <section id="settlement-options" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">Loan Settlement Before Migrating</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">Loan Settlement Before Migrating</h3>
               <p className="text-lg leading-relaxed mb-6">
                 To migrate with complete peace of mind, the best approach is to negotiate a One-Time Settlement (OTS) with your lenders. This allows you to close the account by paying a mutually agreed portion of the outstanding amount. Once the bank issues a No Dues Certificate (NDC), you are legally free from the obligation.
               </p>
             </section>
 
             <section id="legal-rights" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">Your Legal Rights as a Borrower</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">Your Legal Rights as a Borrower</h3>
               <p className="text-lg leading-relaxed mb-6">
                 You have the right to respectful treatment. RBI guidelines strictly prohibit banks and recovery agents from using intimidation tactics, publicly shaming you, or threatening your travel plans. If an agent threatens to "block your visa" or "confiscate your passport", they are breaking the law, and you can file a formal complaint with the police or the banking ombudsman.
               </p>
             </section>
 
             <section id="conclusion" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">Conclusion & Expert Help</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">Conclusion & Expert Help</h3>
               <p className="text-lg leading-relaxed mb-6">
                 Do not let the fear of a loan default ruin your life plans. A civil default will not stop your passport renewal, nor will it block standard visa applications. However, handling legal notices and cheque bounce cases properly is crucial to ensure smooth travel.
               </p>
@@ -385,7 +385,7 @@ export default function LoanDefaultPassportVisaPage() {
 
             <div className="bg-[#2E2E2E] text-white p-12 rounded-[40px] text-center mt-24 relative overflow-hidden group">
                <div className="absolute inset-0 bg-[#1F5EFF] opacity-0 group-hover:opacity-5 transition-opacity"></div>
-               <h3 className="text-3xl md:text-5xl font-black mb-6">Ready to Take Control?</h3>
+               <h4 className="text-3xl md:text-5xl font-black mb-6">Ready to Take Control?</h4>
                <p className="text-xl opacity-80 mb-10 max-w-2xl mx-auto">
                  Worried your loan default will ruin your travel or immigration plans? Consult our legal experts to clear your financial record safely.
                </p>

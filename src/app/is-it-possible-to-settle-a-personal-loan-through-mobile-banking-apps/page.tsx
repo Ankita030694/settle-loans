@@ -282,33 +282,33 @@ export default function MobileAppLoanSettlementPage() {
             </section>
 
             <section id="core-terms" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">Understanding the Terminology: Settlement, Foreclosure, and Closure</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">Understanding the Terminology: Settlement, Foreclosure, and Closure</h3>
               <p className="text-lg mb-6 leading-relaxed">
                 When you look at your loan dashboard on an app like YONO SBI or iMobile, you might see terms like "Close Account" or "Pre-pay." It is vital to understand that these are fundamentally different from a "Settlement."
               </p>
               <div className="grid md:grid-cols-3 gap-6 mb-8">
                 <div className="bg-white p-6 rounded-xl border border-gray-100 shadow-sm">
-                  <h3 className="font-bold text-[#2E2E2E] mb-2 uppercase text-xs tracking-widest text-blue-600">Loan Closure</h3>
+                  <h4 className="font-bold text-[#2E2E2E] mb-2 uppercase text-xs tracking-widest text-blue-600">Loan Closure</h4>
                   <p className="text-sm">This is the natural end of a loan. You have paid every EMI on time, and the balance hits zero. The app will usually show "Closed" and might even offer you a digital No Dues Certificate.</p>
                 </div>
                 <div className="bg-white p-6 rounded-xl border border-gray-100 shadow-sm">
-                  <h4 className="font-bold text-[#2E2E2E] mb-2 uppercase text-xs tracking-widest text-green-600">Foreclosure</h4>
+                  <h5 className="font-bold text-[#2E2E2E] mb-2 uppercase text-xs tracking-widest text-green-600">Foreclosure</h5>
                   <p className="text-sm">This is when you have extra cash and decide to pay off the entire principal in one go before the tenure ends. Foreclosure is a "Good" event for your CIBIL score.</p>
                 </div>
                 <div className="bg-white p-6 rounded-xl border border-gray-100 shadow-sm">
-                  <h4 className="font-bold text-[#2E2E2E] mb-2 uppercase text-xs tracking-widest text-red-600">Settlement</h4>
+                  <h5 className="font-bold text-[#2E2E2E] mb-2 uppercase text-xs tracking-widest text-red-600">Settlement</h5>
                   <p className="text-sm">A settlement happens when you cannot pay the full amount, and the bank agrees to accept a smaller, lump sum amount. Almost no traditional banking app in India allows you to settle with one click.</p>
                 </div>
               </div>
             </section>
 
             <section id="digital-deep-dive" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 text-[#1F5EFF]">The Digital Lending Deep Dive and RBI 2025 Guidelines</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 text-[#1F5EFF]">The Digital Lending Deep Dive and RBI 2025 Guidelines</h3>
               <p className="text-lg mb-6 leading-relaxed">
                 The back-end of a banking app is a complex web of APIs connected to the bank's Core Banking System. For Instant Loans, the app also tracks your behavior—if you log in often but don't pay, the app internal risk engine flags you. The Reserve Bank of India has recently updated its Digital Lending Directions to stop the predatory practices of fake apps.
               </p>
               <div className="bg-gray-50 p-8 rounded-2xl border border-gray-200 mb-8">
-                <h3 className="text-xl font-bold mb-6">RBI 2025: Your Digital Shield</h3>
+                <h4 className="text-xl font-bold mb-6">RBI 2025: Your Digital Shield</h4>
                 <ul className="space-y-4">
                   <li className="flex items-center gap-3">
                     <span className="w-6 h-6 bg-blue-100 text-blue-600 rounded-full flex items-center justify-center text-xs font-bold">1</span>
@@ -331,12 +331,12 @@ export default function MobileAppLoanSettlementPage() {
             </section>
 
             <section id="ama-connect" className="scroll-mt-32 mb-16">
-               <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">AMA Connect App: The Power of Legal-Tech</h2>
+               <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">AMA Connect App: The Power of Legal-Tech</h3>
                <p className="text-lg mb-6 leading-relaxed">
                  While traditional banking apps focus on recovery, the <Link href="https://amalegalsolutions.com" target="_blank" rel="noopener noreferrer" className="text-[#1F5EFF] hover:underline">AMA Connect</Link> app focuses on protection. It is a revolutionary solution that bridges the gap between a borrower in distress and the complex legal system of India. Features like the **Harassment Shield** allow a user to report illegal calls from recovery agents directly from their phone, which triggers a legal notice from verified advocates.
                </p>
                <div className="bg-blue-600 text-white p-8 rounded-2xl shadow-xl mb-8">
-                 <h3 className="text-2xl font-bold mb-6">Key Features of AMA Connect</h3>
+                 <h4 className="text-2xl font-bold mb-6">Key Features of AMA Connect</h4>
                  <div className="grid md:grid-cols-2 gap-6 text-sm">
                    <div className="space-y-4">
                      <p><strong>✓ Ask Me Anything:</strong> Pro-bono legal guidance from verified advocates.</p>
@@ -360,7 +360,7 @@ export default function MobileAppLoanSettlementPage() {
             </section>
 
             <section id="settlement-reality" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">The Reality of App Settlement: Why Apps are Limited</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">The Reality of App Settlement: Why Apps are Limited</h3>
               <p className="text-lg mb-6 leading-relaxed">
                 While an app can automatically calculate interest, a settlement is a "Negotiated Write-off." It is an agreement where the bank loses money. Because of this, the decision typically lies with a Settlement Committee or a Nodal Officer. Most banking apps are not programmed to reflect these manual, human-driven decisions in real time.
               </p>
@@ -370,12 +370,12 @@ export default function MobileAppLoanSettlementPage() {
             </section>
 
             <section id="step-by-step" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 text-[#1F5EFF]">Step-by-Step: From App Default to Signed NDC</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 text-[#1F5EFF]">Step-by-Step: From App Default to Signed NDC</h3>
               <div className="space-y-12">
                 <div className="flex gap-6">
                    <div className="flex-shrink-0 w-12 h-12 bg-black text-white rounded-xl flex items-center justify-center font-black text-xl">01</div>
                    <div>
-                     <h3 className="text-xl font-bold mb-2">Detailed Hardship Documentation</h3>
+                     <h4 className="text-xl font-bold mb-2">Detailed Hardship Documentation</h4>
                      <p className="text-lg leading-relaxed text-gray-600 mb-4">Before you even open your banking app, ensure you have proof of your financial crisis. This could be a termination letter, medical bills, or a closure notice for your small business. Lenders require empirical evidence to justify a waiver to their audit committee.</p>
                      <p className="text-sm text-gray-500 italic">Pro Tip: Use the Secure Vault in AMA Connect to store these files with a time-stamp for legal admissibility.</p>
                    </div>
@@ -383,35 +383,35 @@ export default function MobileAppLoanSettlementPage() {
                 <div className="flex gap-6">
                    <div className="flex-shrink-0 w-12 h-12 bg-black text-white rounded-xl flex items-center justify-center font-black text-xl">02</div>
                    <div>
-                     <h4 className="text-xl font-bold mb-2">The Digital Request Initiation</h4>
+                     <h5 className="text-xl font-bold mb-2">The Digital Request Initiation</h5>
                      <p className="text-lg leading-relaxed text-gray-600 mb-4">Most apps like HDFC NetBanking or ICICI iMobile have a Service Request or Help Desk section. Instead of looking for a Settle button (which won't exist), raise a request under Loan Account Query. State clearly that you are facing a financial crisis and wish to discuss a Compromise Settlement.</p>
                    </div>
                 </div>
                 <div className="flex gap-6">
                    <div className="flex-shrink-0 w-12 h-12 bg-black text-white rounded-xl flex items-center justify-center font-black text-xl">03</div>
                    <div>
-                     <h4 className="text-xl font-bold mb-2">The Legal Buffer and Cease-and-Desist</h4>
+                     <h5 className="text-xl font-bold mb-2">The Legal Buffer and Cease-and-Desist</h5>
                      <p className="text-lg leading-relaxed text-gray-600 mb-4">Once you have raised your request, send your legal notice via <Link href="https://amalegalsolutions.com" target="_blank" rel="noopener noreferrer" className="text-[#1F5EFF] hover:underline">ama legal solutions</Link>. There is often a 7 to 10 day buffer period. During this time, the bank's internal collections system is updated to Legal/Disputed. This stops the automated IVR calls and recovery agent visits, giving you the space to breathe.</p>
                    </div>
                 </div>
                 <div className="flex gap-6">
                    <div className="flex-shrink-0 w-12 h-12 bg-black text-white rounded-xl flex items-center justify-center font-black text-xl">04</div>
                    <div>
-                     <h4 className="text-xl font-bold mb-2">Verifying the Settlement Offer Draft</h4>
+                     <h5 className="text-xl font-bold mb-2">Verifying the Settlement Offer Draft</h5>
                      <p className="text-lg leading-relaxed text-gray-600 mb-4">Never pay based on a verbal offer. Demand a draft of the settlement letter. Check for the total amount agreed upon, the exact dates of payment, and the confirmation that the account will be reported as Settled (not Written off).</p>
                    </div>
                 </div>
                 <div className="flex gap-6">
                    <div className="flex-shrink-0 w-12 h-12 bg-black text-white rounded-xl flex items-center justify-center font-black text-xl">05</div>
                    <div>
-                     <h4 className="text-xl font-bold mb-2">Final Payment via Official Channels</h4>
+                     <h5 className="text-xl font-bold mb-2">Final Payment via Official Channels</h5>
                      <p className="text-lg leading-relaxed text-gray-600 mb-4">Use the payment portal within your banking app if it supports One-time Payment for settled accounts. If not, use the bank's official website. Avoid third-party wallets or random UPI links for the final settlement payment.</p>
                    </div>
                 </div>
                 <div className="flex gap-6">
                    <div className="flex-shrink-0 w-12 h-12 bg-black text-white rounded-xl flex items-center justify-center font-black text-xl">06</div>
                    <div>
-                     <h4 className="text-xl font-bold mb-2">The 30-Day CIBIL Vigil</h4>
+                     <h5 className="text-xl font-bold mb-2">The 30-Day CIBIL Vigil</h5>
                      <p className="text-lg leading-relaxed text-gray-600 mb-4">After paying, wait for 30 days. Log in to your credit monitoring app and check if the loan status has changed. If it still shows Active or Overdue, use the AMA Connect case tracking to initiate an official dispute with the credit bureau.</p>
                    </div>
                 </div>
@@ -419,40 +419,40 @@ export default function MobileAppLoanSettlementPage() {
             </section>
 
             <section id="bank-comparisons" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">Bank-Specific Realities: HDFC, ICICI, SBI, and Axis</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">Bank-Specific Realities: HDFC, ICICI, SBI, and Axis</h3>
               <div className="space-y-6">
                 <div className="p-6 bg-white border border-gray-100 rounded-xl shadow-sm">
-                  <h3 className="text-xl font-bold text-blue-600 mb-2">HDFC Bank: Branch-First</h3>
+                  <h4 className="text-xl font-bold text-blue-600 mb-2">HDFC Bank: Branch-First</h4>
                   <p className="text-sm leading-relaxed">HDFC typically requires a wet signature at a physical branch for any loan closure or settlement activity. The app is mostly for viewing statements.</p>
                 </div>
                 <div className="p-6 bg-white border border-gray-100 rounded-xl shadow-sm">
-                  <h3 className="text-xl font-bold text-blue-600 mb-2">ICICI Bank iMobile: Digital-Friendly</h3>
+                  <h4 className="text-xl font-bold text-blue-600 mb-2">ICICI Bank iMobile: Digital-Friendly</h4>
                   <p className="text-sm leading-relaxed">ICICI has robust digital foreclosure for pre-approved loans, but settlements still require negotiation with the recovery department outside the app.</p>
                 </div>
                 <div className="p-6 bg-white border border-gray-100 rounded-xl shadow-sm">
-                  <h3 className="text-xl font-bold text-blue-600 mb-2">SBI YONO: Lok Adalat Advantage</h3>
+                  <h4 className="text-xl font-bold text-blue-600 mb-2">SBI YONO: Lok Adalat Advantage</h4>
                   <p className="text-sm leading-relaxed">SBI often holds Mega Lok Adalats announced via YONO. These are the best times to get significant waivers on personal loans.</p>
                 </div>
               </div>
             </section>
 
             <section id="fintech-landscape" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">The Fintech Landscape: Moneview, KreditBee, mPokket, and Cashe</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">The Fintech Landscape: Moneview, KreditBee, mPokket, and Cashe</h3>
               <p className="text-lg mb-6 leading-relaxed">
                 While traditional banks are slow, fintech apps are built for speed. Apps like **MoneyView**, **KreditBee**, **mPokket**, and **Cashe** use alternative data scoring to give loans to those who might be rejected by big banks. However, their recovery processes are also highly automated.
               </p>
-              <h3 className="text-xl font-bold mb-4">Automation in Defaults</h3>
+              <h4 className="text-xl font-bold mb-4">Automation in Defaults</h4>
               <p className="text-lg mb-6 leading-relaxed">
                 If you miss a payment on a fintech app, the system immediately starts a "Dunning" process. You will get automated WhatsApp messages, IVR calls, and in-app notifications. Because these companies do not have thousands of physical branches, they rely heavily on digital pressure to ensure repayment.
               </p>
-              <h3 className="text-xl font-bold mb-4">Settlement in Fintech Apps</h3>
+              <h4 className="text-xl font-bold mb-4">Settlement in Fintech Apps</h4>
               <p className="text-lg mb-6 leading-relaxed">
                 Interestingly, some fintech apps are more open to digital settlement than traditional banks. Because they have higher margins and higher default risks, they might offer a "Settlement Link" directly in the app after 180 days of default. However, you must be careful. Often, these links only settle the interest, not the principal, or they might not provide a valid No Dues Certificate.
               </p>
             </section>
 
             <section id="comparison-table" className="scroll-mt-32 mb-16 overflow-x-auto">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">Detailed Comparison Table: 10 Popular Apps in India</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">Detailed Comparison Table: 10 Popular Apps in India</h3>
               <table className="w-full text-left border-collapse border border-gray-200">
                 <thead>
                   <tr className="bg-gray-100 uppercase text-[10px] tracking-widest font-bold">
@@ -539,7 +539,7 @@ export default function MobileAppLoanSettlementPage() {
             </section>
 
             <section id="waterfall-method" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">The Waterfall Method for Digital Debt</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">The Waterfall Method for Digital Debt</h3>
               <p className="text-lg mb-6 leading-relaxed">
                 If you have five different apps demanding money, you must use the Waterfall Method to prioritize your repayments and protect your mental health.
               </p>
@@ -547,21 +547,21 @@ export default function MobileAppLoanSettlementPage() {
                 <div className="flex gap-6 items-start">
                   <div className="text-4xl font-bold text-gray-200">1</div>
                   <div>
-                    <h3 className="font-bold text-lg mb-2">The Largest Discount</h3>
+                    <h4 className="font-bold text-lg mb-2">The Largest Discount</h4>
                     <p className="text-sm text-gray-500">Prioritize the app offering the biggest waiver (e.g., settling a 50,000 debt for 15,000). This maximizes the impact of your limited cash.</p>
                   </div>
                 </div>
                 <div className="flex gap-6 items-start">
                   <div className="text-4xl font-bold text-gray-200">2</div>
                   <div>
-                    <h4 className="font-bold text-lg mb-2">The Aggressive Recovery</h4>
+                    <h5 className="font-bold text-lg mb-2">The Aggressive Recovery</h5>
                     <p className="text-sm text-gray-500">Settle the app that is using the most aggressive (even if illegal) tactics first. This saves your mental health and prevents social shaming.</p>
                   </div>
                 </div>
                 <div className="flex gap-6 items-start">
                   <div className="text-4xl font-bold text-gray-200">3</div>
                   <div>
-                    <h4 className="font-bold text-lg mb-2">The Credit Impact</h4>
+                    <h5 className="font-bold text-lg mb-2">The Credit Impact</h5>
                     <p className="text-sm text-gray-500">Settle the bank-linked loans (HDFC, SBI) first because their reporting to CIBIL is the most accurate and impactful for your future financial life.</p>
                   </div>
                 </div>
@@ -569,22 +569,22 @@ export default function MobileAppLoanSettlementPage() {
             </section>
 
             <section id="legal-impact" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">Legal and Financial Impact: The Digital Footprint</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">Legal and Financial Impact: The Digital Footprint</h3>
               <p className="text-lg mb-6 leading-relaxed">
                 The digital record never forgets. With the Account Aggregator (AA) Framework, your financial status is updated in real-time. A Settled status will appear on your CIBIL report within 45 days, marking you as a high-risk borrower for seven years. Obtaining the final No Dues Certificate is critical to prove the debt is legally extinguished.
               </p>
             </section>
 
             <section id="case-studies" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 text-center">Real Stories of Digital Debt Freedom</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 text-center">Real Stories of Digital Debt Freedom</h3>
               <div className="grid md:grid-cols-2 gap-6">
                 <div className="bg-slate-50 p-6 rounded-2xl border border-slate-100">
-                   <h3 className="font-black text-slate-800 mb-2">Rajesh's 2 Lakh Resolution</h3>
+                   <h4 className="font-black text-slate-800 mb-2">Rajesh's 2 Lakh Resolution</h4>
                    <p className="text-sm italic mb-4">"The AMA Connect app was a lifecycle. It stopped 50 plus calls a day and helped me settle my credit card for 65,000 rupees."</p>
                    <p className="text-xs font-bold text-blue-600 tracking-tighter uppercase">Verified Success Story</p>
                 </div>
                 <div className="bg-emerald-50 p-6 rounded-2xl border border-emerald-100">
-                   <h4 className="font-black text-emerald-800 mb-2">Sneha's Fake App Rescue</h4>
+                   <h5 className="font-black text-emerald-800 mb-2">Sneha's Fake App Rescue</h5>
                    <p className="text-sm italic mb-4">"A fraud app tried to blackmail me with my photos. The Harassment Shield in AMA Connect helped me file a Cyber Cell complaint."</p>
                    <p className="text-xs font-bold text-emerald-600 tracking-tighter uppercase">Legal Shield Recovery</p>
                 </div>
@@ -592,60 +592,60 @@ export default function MobileAppLoanSettlementPage() {
             </section>
 
             <section id="future-ai" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">The Future of AI in Debt Collection (2025-2030)</h2>
-              <h3 className="text-xl font-bold mb-4">Sentiment Analysis Bots</h3>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">The Future of AI in Debt Collection (2025-2030)</h3>
+              <h4 className="text-xl font-bold mb-4">Sentiment Analysis Bots</h4>
               <p className="text-lg mb-6 leading-relaxed">
                 In the next few years, recovery calls will not be made by humans but by "Sentiment Analysis Bots." These bots can detect the vibration in your voice to understand if you are lying, scared, or genuinely broke. They will adjust their tone in real-time to maximize the pressure.
               </p>
-              <h3 className="text-xl font-bold mb-4">The Counter-AI: Legal Advocacy</h3>
+              <h4 className="text-xl font-bold mb-4">The Counter-AI: Legal Advocacy</h4>
               <p className="text-lg mb-6 leading-relaxed">
                 For every aggressive recovery bot, there is a protective legal bot. The <Link href="https://amalegalsolutions.com" target="_blank" rel="noopener noreferrer" className="text-[#1F5EFF] hover:underline">AMA Connect</Link> app is already working on "Negotiation AI" that can talk to these bank bots. This creates a level playing field where a borrower's rights are defended by the same technology that the banks use to collect.
               </p>
             </section>
 
             <section id="msme-rights" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 text-blue-600">Digital Rights for Small Businesses and MSMEs</h2>
-              <h3 className="text-xl font-bold mb-4">App-Based Business Loans</h3>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 text-blue-600">Digital Rights for Small Businesses and MSMEs</h3>
+              <h4 className="text-xl font-bold mb-4">App-Based Business Loans</h4>
               <p className="text-lg mb-6 leading-relaxed">
                 Many small shop owners in India take "Merchant Cash Advances" or "App-Based Business Loans" from platforms like **BharatPe**, **PhonePe**, or **Paytm**. These are often linked to their daily QR code collections. If the business slows down, the "Auto-Deduct" can cripple the shop's cash flow.
               </p>
-              <h3 className="text-xl font-bold mb-4">Settlement for Businesses</h3>
+              <h4 className="text-xl font-bold mb-4">Settlement for Businesses</h4>
               <p className="text-lg mb-6 leading-relaxed">
                 Business loan settlement via apps is different from personal loans. It requires a "Business Viability Report." The <Link href="https://amalegalsolutions.com" target="_blank" rel="noopener noreferrer" className="text-[#1F5EFF] hover:underline">AMA Connect</Link> app allows MSME owners to upload their GST filings and ledger books to the **Secure Vault**. This data is then used to negotiate a "Structured Settlement" that allows the business to survive while the debt is cleared.
               </p>
             </section>
 
             <section id="global-comparisons" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">Global Comparisons: India vs The World</h2>
-              <h3 className="text-xl font-bold mb-4">The Chinese Model: Social Credit</h3>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">Global Comparisons: India vs The World</h3>
+              <h4 className="text-xl font-bold mb-4">The Chinese Model: Social Credit</h4>
               <p className="text-lg mb-6 leading-relaxed">
                 In China, defaulting on an app loan can lead to a drop in your "Social Credit Score," affecting your ability to buy high-speed train tickets. India has rejected this model, focusing instead on financial credit scoring (CIBIL) and legal frameworks.
               </p>
-              <h3 className="text-xl font-bold mb-4">The UK/US Model: Debt Management Plans</h3>
+              <h4 className="text-xl font-bold mb-4">The UK/US Model: Debt Management Plans</h4>
               <p className="text-lg mb-6 leading-relaxed">
                 In the West, "Debt Management Plans" (DMP) are more common and legally regulated. India is moving towards this with the **Insolvency and Bankruptcy Code (IBC)** for individuals. However, for now, "Compromise Settlement" remains the most practical path for the average Indian borrower.
               </p>
             </section>
 
             <section id="uli-impact" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 text-[#1F5EFF]">ULI and the Account Aggregator Framework</h2>
-              <h3 className="text-xl font-bold mb-4">What is ULI?</h3>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 text-[#1F5EFF]">ULI and the Account Aggregator Framework</h3>
+              <h4 className="text-xl font-bold mb-4">What is ULI?</h4>
               <p className="text-lg mb-6 leading-relaxed">
                 Announced by the RBI in 2024, the Unified Lending Interface (ULI) is set to do for lending what UPI did for payments. It creates a seamless flow of data between state governments (for land records), banks, and fintechs.
               </p>
-              <h3 className="text-xl font-bold mb-4">ULI in Loan Settlement</h3>
+              <h4 className="text-xl font-bold mb-4">ULI in Loan Settlement</h4>
               <p className="text-lg mb-6 leading-relaxed">
                 While ULI is designed for "Faster Credit," its data-rich environment will also revolutionize settlement. Lenders will have a 360-degree view of your assets. This means you cannot hide assets while asking for a waiver. Conversely, it also allows you to prove your total debt obligations across 10 different apps with single-click consent, forcing the bank to acknowledge that you are genuinely over-leveraged.
               </p>
             </section>
 
             <section id="emergency-checklist" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 text-red-600 uppercase tracking-tighter italic">Defaulter's Final Survival Checklist</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 text-red-600 uppercase tracking-tighter italic">Defaulter's Final Survival Checklist</h3>
               <div className="bg-red-50 p-10 rounded-3xl border-2 border-red-100 shadow-lg">
                 <p className="text-red-900 font-bold text-lg mb-8 italic">If you have defaulted on an app-based loan in India, follow these steps immediately to protect your legal and social integrity:</p>
                 <div className="grid md:grid-cols-2 gap-8">
                   <div className="space-y-6">
-                    <h3 className="font-black text-red-700 uppercase text-xs tracking-widest">Immediate Actions</h3>
+                    <h4 className="font-black text-red-700 uppercase text-xs tracking-widest">Immediate Actions</h4>
                     <ul className="space-y-4">
                       <li className="flex items-start gap-4">
                         <span className="w-6 h-6 bg-red-200 text-red-800 rounded-full flex items-center justify-center text-xs font-black">1</span>
@@ -662,7 +662,7 @@ export default function MobileAppLoanSettlementPage() {
                     </ul>
                   </div>
                   <div className="space-y-6">
-                    <h4 className="font-black text-red-700 uppercase text-xs tracking-widest">Legal Protection</h4>
+                    <h5 className="font-black text-red-700 uppercase text-xs tracking-widest">Legal Protection</h5>
                     <ul className="space-y-4">
                       <li className="flex items-start gap-4">
                         <span className="w-6 h-6 bg-red-200 text-red-800 rounded-full flex items-center justify-center text-xs font-black">4</span>
@@ -682,7 +682,7 @@ export default function MobileAppLoanSettlementPage() {
               </div>
             </section>
             <section id="success-stories" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 text-center">Real Stories of Freedom</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 text-center">Real Stories of Freedom</h3>
               <div className="grid md:grid-cols-2 gap-6 not-prose">
                 {[
                   {
@@ -720,7 +720,7 @@ export default function MobileAppLoanSettlementPage() {
                         {review.name.charAt(0)}
                       </div>
                       <div>
-                        <h3 className="font-bold text-[#2E2E2E]">{review.name}</h3>
+                        <h4 className="font-bold text-[#2E2E2E]">{review.name}</h4>
                         <p className="text-xs text-gray-400">{review.loc}</p>
                       </div>
                       <div className="ml-auto text-yellow-400 text-sm">★★★★★</div>
@@ -735,7 +735,7 @@ export default function MobileAppLoanSettlementPage() {
             </section>
 
             <section id="faqs" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">Frequently Asked Questions</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">Frequently Asked Questions</h3>
               <div className="space-y-4">
                 {jsonLd["@graph"][4]?.mainEntity?.map((faq: any, i: number) => (
                   <details key={i} className="group bg-white border border-gray-200 rounded-xl overflow-hidden hover:shadow-md transition-shadow">
@@ -754,7 +754,7 @@ export default function MobileAppLoanSettlementPage() {
             </section>
 
             <section id="literacy" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">Digital Financial Literacy: The Ultimate Defense</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">Digital Financial Literacy: The Ultimate Defense</h3>
               <p className="text-lg leading-relaxed mb-6">
                 In the end, the best way to handle digital debt is to prevent it. Digital financial literacy is not just about knowing how to use an app, but understanding the algorithms that drive them. When you see a "Pre-approved" offer, remember that it is an invitation to spend, not a reward for good behavior.
               </p>
@@ -764,7 +764,7 @@ export default function MobileAppLoanSettlementPage() {
             </section>
 
             <footer className="mt-16 pt-16 border-t border-gray-100 text-center">
-              <h3 className="text-2xl font-black mb-6 uppercase tracking-tighter italic">Ready to Regain Control?</h3>
+              <h4 className="text-2xl font-black mb-6 uppercase tracking-tighter italic">Ready to Regain Control?</h4>
               <p className="text-gray-500 mb-8 max-w-lg mx-auto">Our legal experts are ready to help you navigate the complex digital debt landscape safely.</p>
               <Link href="/contact" className="inline-block bg-[#1F5EFF] text-white font-black py-4 px-12 rounded-xl hover:scale-105 transition-all shadow-xl text-lg">
                 Get a Free Audit

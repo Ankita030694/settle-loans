@@ -351,9 +351,9 @@ export default function KreditBeeLoanSettlementClient() {
                 <Clock className="w-4 h-4" />
                 <span>2. Delinquency Timeline &amp; NPA Progression</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 KreditBee Delinquency Stages: From DPD 1–30 to Non-Performing Asset (NPA)
-              </h2>
+              </h3>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Under the Reserve Bank of India&apos;s Prudential Norms on Income Recognition, Asset Classification and Provisioning (IRACP) and Expected Credit Loss (ECL) frameworks under Indian Accounting Standard 109 (Ind AS 109), Krazybee Services systematically tracks digital loan defaults across structured Days Past Due (DPD) aging buckets. Understanding these institutional milestones is crucial for strategically timing settlement negotiations and securing the maximum principal debt haircut.
               </p>
@@ -420,9 +420,9 @@ export default function KreditBeeLoanSettlementClient() {
                 <ShieldAlert className="w-4 h-4" />
                 <span>3. Stopping Harassment Bots &amp; NACH Bounces</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 Halting Automated Calling Bots, WhatsApp Intimidation &amp; NACH Bounce Charges
-              </h2>
+              </h3>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 One of the most distressing aspects of defaulting on a digital app loan like KreditBee is the sheer volume of automated recovery pressure. KreditBee utilizes high-frequency predictive dialers and AI calling bots that dial borrowers 20 to 50 times a day from constantly rotating virtual phone numbers. In parallel, outsourced debt recovery agencies frequently deploy aggressive WhatsApp messaging tactics, sending fabricated legal notices, threatening to call references or workplace managers, and making unauthorized field visits.
               </p>
@@ -449,9 +449,9 @@ export default function KreditBeeLoanSettlementClient() {
                 <Calculator className="w-4 h-4" />
                 <span>4. OTS Haircut Policies &amp; NPV Recovery Valuation</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 Krazybee Services OTS Haircut Dynamics &amp; The Net Present Value (NPV) Formula
-              </h2>
+              </h3>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 When an unsecured digital personal loan defaults, Krazybee Services evaluates whether to pursue formal legal litigation or accept a discounted compromise One-Time Settlement (OTS). Under the Reserve Bank of India&apos;s Master Directions on Compromise Settlements and Technical Write-offs, NBFC credit committees are required to base settlement approvals on a rigorous financial comparison: the <strong>Net Present Value (NPV) of Estimated Recovery</strong> through civil litigation versus the immediate cash realization of an OTS offer.
               </p>
@@ -487,9 +487,9 @@ export default function KreditBeeLoanSettlementClient() {
                       <Layers className="w-4 h-4" />
                     </span>
                     <div>
-                      <h3 className="text-base sm:text-lg font-bold text-white leading-tight">
+                      <h4 className="text-base sm:text-lg font-bold text-white leading-tight">
                         Visual Blueprint: KreditBee Loan Settlement &amp; Legal Shield
-                      </h3>
+                      </h4>
                       <p className="text-xs text-slate-400">
                         Step-by-step roadmap from automated bot harassment defense to ₹0 No Dues Certificate
                       </p>
@@ -539,9 +539,9 @@ export default function KreditBeeLoanSettlementClient() {
                 <Scale className="w-4 h-4" />
                 <span>6. Statutory Borrower Protections &amp; RBI Fair Practices</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 Statutory Borrower Rights Under RBI Digital Lending &amp; Debt Recovery Regulations
-              </h2>
+              </h3>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Borrowers struggling with digital personal loan defaults frequently endure unlawful intimidation because they are unaware of the strict statutory protections enacted by Indian regulatory authorities and higher courts. Under the Reserve Bank of India Master Directions on Recovery Agents and NBFC Fair Practices Code:
               </p>
@@ -562,9 +562,9 @@ export default function KreditBeeLoanSettlementClient() {
                 <Layers className="w-4 h-4" />
                 <span>7. Step-by-Step KreditBee Settlement Roadmap</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 Step-by-Step Guide: How to Negotiate an Official OTS with KreditBee &amp; Krazybee
-              </h2>
+              </h3>
               <p className="text-slate-700 leading-relaxed mb-6 text-base md:text-lg">
                 Securing a legally binding, heavily discounted One-Time Settlement with Krazybee Services requires a disciplined, evidence-based strategy that bypasses junior tele-callers and directly engages decision-making credit authorities:
               </p>
@@ -572,10 +572,10 @@ export default function KreditBeeLoanSettlementClient() {
               <div className="space-y-6">
                 {/* Step 1 */}
                 <div className="p-6 rounded-2xl bg-white border border-slate-200 shadow-sm">
-                  <h3 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
+                  <h4 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
                     <span className="w-7 h-7 rounded-lg bg-blue-50 text-[#1F5EFF] font-black text-sm flex items-center justify-center border border-blue-200">1</span>
                     Comprehensive Financial Hardship Dossier Compilation
-                  </h3>
+                  </h4>
                   <p className="text-slate-600 text-sm md:text-base leading-relaxed">
                     Compile verifiable documentary evidence demonstrating that your loan default is non-wilful and caused by genuine involuntary hardship. Relevant documents include formal job termination or salary reduction letters, medical hospitalization discharge summaries, bank statements showing depleted liquidity, or business income tax filings evidencing revenue loss.
                   </p>
@@ -583,10 +583,10 @@ export default function KreditBeeLoanSettlementClient() {
 
                 {/* Step 2 */}
                 <div className="p-6 rounded-2xl bg-white border border-slate-200 shadow-sm">
-                  <h3 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
+                  <h4 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
                     <span className="w-7 h-7 rounded-lg bg-blue-50 text-[#1F5EFF] font-black text-sm flex items-center justify-center border border-blue-200">2</span>
                     Cancelling NACH Auto-Debits &amp; Formalizing Written Channels
-                  </h3>
+                  </h4>
                   <p className="text-slate-600 text-sm md:text-base leading-relaxed">
                     Instruct your bank to cancel the electronic NACH mandate to stop recurring return penalties. Serve a formal written notice to KreditBee and Krazybee Services directing that all debt communication be conducted exclusively via registered email or through your appointed legal counsel, establishing a clean evidentiary audit trail.
                   </p>
@@ -594,10 +594,10 @@ export default function KreditBeeLoanSettlementClient() {
 
                 {/* Step 3 */}
                 <div className="p-6 rounded-2xl bg-white border border-slate-200 shadow-sm">
-                  <h3 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
+                  <h4 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
                     <span className="w-7 h-7 rounded-lg bg-blue-50 text-[#1F5EFF] font-black text-sm flex items-center justify-center border border-blue-200">3</span>
                     Submitting Formal Hardship Petition to Stressed Assets Committee
-                  </h3>
+                  </h4>
                   <p className="text-slate-600 text-sm md:text-base leading-relaxed">
                     Submit a formal compromise proposal addressed to Krazybee Services&apos; Stressed Assets Division citing the RBI Master Direction on Compromise Settlements. Propose an initial settlement figure at 25% to 35% of core principal dues to establish an advantageous baseline for structured counter-negotiation.
                   </p>
@@ -605,10 +605,10 @@ export default function KreditBeeLoanSettlementClient() {
 
                 {/* Step 4 */}
                 <div className="p-6 rounded-2xl bg-white border border-slate-200 shadow-sm">
-                  <h3 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
+                  <h4 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
                     <span className="w-7 h-7 rounded-lg bg-blue-50 text-[#1F5EFF] font-black text-sm flex items-center justify-center border border-blue-200">4</span>
                     Managing Counter-Demands &amp; Securing Maximum Haircut
-                  </h3>
+                  </h4>
                   <p className="text-slate-600 text-sm md:text-base leading-relaxed">
                     Krazybee recovery desks will initially reject low opening offers and suggest minor interest concessions. Experienced debt settlement advocates counter these demands by establishing that settlement funds are being borrowed from third-party family members as a final one-time relief, successfully steering the approval toward the target 40% to 65% principal haircut band.
                   </p>
@@ -616,10 +616,10 @@ export default function KreditBeeLoanSettlementClient() {
 
                 {/* Step 5 */}
                 <div className="p-6 rounded-2xl bg-white border border-slate-200 shadow-sm">
-                  <h3 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
+                  <h4 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
                     <span className="w-7 h-7 rounded-lg bg-blue-50 text-[#1F5EFF] font-black text-sm flex items-center justify-center border border-blue-200">5</span>
                     Rigorous Forensic Audit of the OTS Sanction Letter
-                  </h3>
+                  </h4>
                   <p className="text-slate-600 text-sm md:text-base leading-relaxed">
                     Before paying any funds, conduct a rigorous audit of the One-Time Settlement sanction letter. Verify that it is issued on official Krazybee Services Private Limited letterhead, contains the loan account number, sanctioned settlement sum, exact payment deadlines, and unambiguous covenants confirming complete debt extinguishment.
                   </p>
@@ -627,10 +627,10 @@ export default function KreditBeeLoanSettlementClient() {
 
                 {/* Step 6 */}
                 <div className="p-6 rounded-2xl bg-white border border-slate-200 shadow-sm">
-                  <h3 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
+                  <h4 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
                     <span className="w-7 h-7 rounded-lg bg-blue-50 text-[#1F5EFF] font-black text-sm flex items-center justify-center border border-blue-200">6</span>
                     Official Channel Payment &amp; Enforcing ₹0 NDC Delivery
-                  </h3>
+                  </h4>
                   <p className="text-slate-600 text-sm md:text-base leading-relaxed">
                     Remit the agreed settlement amount exclusively into the designated Krazybee loan account through official banking channels (NEFT/RTGS or in-app payment gateway). Under RBI Circular RBI/2023-24/60, the NBFC is statutorily required to deliver your stamped No Dues Certificate and update credit bureau records within 30 calendar days.
                   </p>
@@ -644,9 +644,9 @@ export default function KreditBeeLoanSettlementClient() {
                 <Gavel className="w-4 h-4" />
                 <span>8. Section 25 PSSA, NI Act &amp; Lok Adalat Defense</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 Navigating Section 25 PSSA Legal Notices &amp; National Lok Adalat Settlements
-              </h2>
+              </h3>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 When a KreditBee digital personal loan default crosses 60 to 90 days, Krazybee Services or its legal counsel will often dispatch a statutory demand notice under <strong>Section 25 of the Payment and Settlement Systems Act, 2007 (PSSA)</strong> or Section 138 of the Negotiable Instruments Act, 1881, arising from bounced electronic NACH mandates.
               </p>
@@ -709,9 +709,9 @@ export default function KreditBeeLoanSettlementClient() {
                 <FileCheck className="w-4 h-4" />
                 <span>9. Sanction Letter Forensics &amp; ₹0 NDC Mandate</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 Authenticating KreditBee OTS Sanction Letters &amp; Enforcing the ₹0 NDC Mandate
-              </h2>
+              </h3>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 In the fintech recovery space, fraudulent collection scams represent a major hazard for distressed borrowers. Rogue third-party collection agents often issue fake settlement discount letters over WhatsApp or demand cash/UPI transfers to personal bank accounts, falsely promising loan closure. If a borrower makes an unverified payment, Krazybee credits the funds against accumulated penal charges, leaving the default open and compounding.
               </p>
@@ -729,9 +729,9 @@ export default function KreditBeeLoanSettlementClient() {
                 <TrendingUp className="w-4 h-4" />
                 <span>10. CIBIL Score Impact &amp; 18-Month Recovery Plan</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 CIBIL Score Trajectory Post-Settlement &amp; Strategic Credit Rehabilitation
-              </h2>
+              </h3>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Executing a One-Time Settlement with KreditBee results in Krazybee Services reporting the loan account status to credit information companies (TransUnion CIBIL, Experian, Equifax, and CRIF High Mark) as <strong>&apos;Settled&apos;</strong> or <strong>&apos;Post-Write-off Settled&apos;</strong> with an outstanding balance of exactly <strong>₹0</strong>. This creates an initial credit score drop of approximately 70 to 120 points.
               </p>
@@ -749,9 +749,9 @@ export default function KreditBeeLoanSettlementClient() {
                 <ShieldCheck className="w-4 h-4" />
                 <span>11. Legal Defense &amp; Representation</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 Why Distressed KreditBee Borrowers Trust SettleLoans
-              </h2>
+              </h3>
               <p className="text-slate-700 leading-relaxed mb-6 text-base md:text-lg">
                 Resolving defaulted digital app loans requires strong legal defense against predatory collection practices and deep expertise in NBFC debt restructuring. SettleLoans shields borrowers by issuing formal cease-and-desist notices to stop abusive recovery calls and WhatsApp harassment, revokes unauthorized electronic NACH mandates, replies to Section 25 PSSA legal notices, and negotiates directly with Krazybee Services Stressed Asset Desks to achieve 40% to 65% debt waivers with 100% authentic No Dues Certificates.
               </p>
@@ -768,9 +768,9 @@ export default function KreditBeeLoanSettlementClient() {
                 <HelpCircle className="w-4 h-4" />
                 <span>12. Frequently Asked Questions</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
                 Frequently Asked Questions About KreditBee Loan Settlement
-              </h2>
+              </h3>
 
               <div className="space-y-4">
                 {faqs.map((faq, index) => (
@@ -796,10 +796,10 @@ export default function KreditBeeLoanSettlementClient() {
 
             {/* Regulatory References & Official Sources Strip */}
             <div className="bg-slate-50 border border-slate-200 rounded-2xl p-6 my-10">
-              <h3 className="text-base font-bold text-slate-900 mb-4 flex items-center gap-2">
+              <h4 className="text-base font-bold text-slate-900 mb-4 flex items-center gap-2">
                 <Landmark className="w-5 h-5 text-[#1F5EFF]" />
                 Official Regulatory References &amp; Statutory Circulars
-              </h3>
+              </h4>
               <ul className="space-y-3 text-xs text-slate-600">
                 <li className="flex items-start gap-2">
                   <ExternalLink className="w-4 h-4 text-[#1F5EFF] flex-shrink-0 mt-0.5" />
@@ -861,10 +861,10 @@ export default function KreditBeeLoanSettlementClient() {
 
             {/* Related Guides & Resources Strip (10 Topic Badges) */}
             <div className="bg-slate-50 border border-slate-200 rounded-2xl p-6 my-10">
-              <h3 className="text-base font-bold text-slate-900 mb-4 flex items-center gap-2">
+              <h4 className="text-base font-bold text-slate-900 mb-4 flex items-center gap-2">
                 <BookOpen className="w-5 h-5 text-[#1F5EFF]" />
                 Explore Related Banking &amp; Debt Resolution Guides
-              </h3>
+              </h4>
               <div className="flex flex-wrap gap-2.5">
                 <Link
                   href="/app-loan-settlement"

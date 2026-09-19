@@ -300,54 +300,54 @@ export default function PunjabLoanSettlementPage() {
             </section>
 
             <section id="nri-influence" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl font-black mb-6">The NRI Influence and Consumption Patterns in Punjab</h2>
+              <h3 className="text-3xl font-black mb-6">The NRI Influence and Consumption Patterns in Punjab</h3>
               <p>A unique aspect of Punjab's economy is the significant influence of Non-Resident Indians (NRIs). While remittances improve the standard of living for many families, they also create a culture of high consumption. This 'remittance-driven lifestyle' often leads to a mismatch between local earnings and expenditure. Many households in regions like Doaba rely on credit cards to maintain a standard of living that is sometimes beyond their immediate local means.</p>
               <p>This reliance on credit cards for luxury consumption and lifestyle maintenance has created a new kind of urban debt in cities like Jalandhar and Phagwara. When the expected remittance is delayed or when the interest on multiple credit cards starts to compound, the situation spiral out of control. Many people find themselves using one credit card to pay the minimum due on another, a classic sign of a debt trap.</p>
               <p>We specialize in understanding these nuanced financial patterns. We help families reconcile their lifestyle choices with their actual financial capacity by settling past debts and creating a sustainable path forward. Our approach considers the seasonal nature of income and the specific pressure of NRI-linked financial obligations, ensuring a settlement that is realistic for the long term.</p>
             </section>
 
             <section id="kcc-crisis" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl font-black mb-6">The Crisis of Agricultural Debt and Kisan Credit Cards (KCC)</h2>
+              <h3 className="text-3xl font-black mb-6">The Crisis of Agricultural Debt and Kisan Credit Cards (KCC)</h3>
               <p>Agricultural debt is perhaps the most critical financial issue in Punjab. Despite being the breadbasket of India, the state's farming community is under immense strain. The Kisan Credit Card (KCC) scheme, while intended to support productivity, has seen a sharp rise in outstanding amounts. Recent data shows that even as the number of active KCC accounts has normalized, the amount of debt per card has increased significantly.</p>
               <p>This indicates that farmers are taking on larger loans per acre to manage rising input costs and personal expenditures. In districts like Sangrur, Bathinda, and Mansa, the debt per farm household is among the highest in the country. When crops fail or prices fluctuate, these farmers find themselves at the mercy of both institutional lenders and informal commission agents (arhtiyas).</p>
               <p>Loan settlement for KCC and other agricultural loans requires a specialized understanding of the Punjab Settlement of Agricultural Indebtedness Act, 2016. This Act provides a framework for fair resolution through specialized tribunals and forums. We guide farmers through these legal avenues, helping them negotiate with commercial and cooperative banks to waive off accumulated interest and penalties, allowing them to start fresh without the shadow of a default.</p>
             </section>
 
             <section id="why-settle-punjab" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl font-black mb-6">Why Should You Settle Your Loan in Punjab?</h2>
+              <h3 className="text-3xl font-black mb-6">Why Should You Settle Your Loan in Punjab?</h3>
               <p>Loan settlement is a formal process where a borrower and a lender mutually agree to close a debt for an amount that is less than the total outstanding balance. This is typically achieved through a one-time lump sum payment. In the legal context of India, this is a valid form of contract under the Indian Contract Act. For someone struggling with persistent debt in Punjab, settlement offers a much-needed second chance at financial stability.</p>
               <p>Unlike a 'written-off' status, which indicates that the bank has given up on recovery but the debt still technically exists, a 'settled' status means the account is closed permanently. While it does impact your credit score in the short term, it is far better than being labeled a 'wilful defaulter' or facing endless litigation. For many of our clients in Amritsar and Jalandhar, the primary benefit of settlement is the immediate cessation of interest and penalty accumulation, which often makes up the largest portion of the debt.</p>
               <p>The process of negotiation is where SettleLoans excels. Banks are organizations with their own financial targets and risk appetites. During certain periods, especially at the end of financial quarters or during National Lok Adalats, banks are more willing to offer significant waivers to clean up their balance sheets. We leverage our deep understanding of these institutional cycles to secure waivers ranging from 40% to 70% for our clients. This strategic approach ensures that you pay the absolute minimum required to achieve total freedom from debt.</p>
             </section>
 
             <section id="legal-protection-pslsa" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl font-black mb-6">Legal Protection via Punjab State Legal Services Authority</h2>
+              <h3 className="text-3xl font-black mb-6">Legal Protection via Punjab State Legal Services Authority</h3>
               <p>The legal framework for resolving banking disputes in Punjab is robust, thanks to the active role of the Punjab State Legal Services Authority (PSLSA). The PSLSA is dedicated to ensuring that citizens have access to justice and that disputes are resolved amicably. One of the most effective tools for loan settlement in Punjab is the National Lok Adalat, organized periodically across all district courts, from Ferozepur to Pathankot.</p>
               <p>A Lok Adalat, or 'People's Court,' provides an informal yet legally binding forum for settling bank debts. The key advantage of a Lok Adalat award is that it carries the same weight as a civil court decree. It is final and cannot be appealed in any other court. This provides an extraordinary level of legal certainty for borrowers. When we represent a client at a Lok Adalat session in Ludhiana or Chandigarh, we ensure that the terms of the settlement are clearly documented and that the final award reflects the mutual agreement accurately.</p>
               <p>Participating in a Lok Adalat also has significant financial benefits. There are no court fees involved for the settlement process itself. If a case is already pending in a regular court and is subsequently settled in a Lok Adalat, the court fees previously paid are often refunded to the parties. This makes it an extremely cost-effective way to end years of litigation and debt stress. Our legal team in Punjab has extensive experience in navigating the PSLSA framework and securing favorable outcomes in these public forums.</p>
             </section>
 
             <section id="lok-adalats-punjab" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl font-black mb-6">Navigating Lok Adalats Across Punjab Districts</h2>
+              <h3 className="text-3xl font-black mb-6">Navigating Lok Adalats Across Punjab Districts</h3>
               <p>Lok Adalats are a cornerstone of the alternative dispute resolution system in Punjab. Held periodically at the district and high court levels, these sessions are a boon for those looking to settle their bank debts. In Ludhiana, the district courts regularly host National Lok Adalats that see the resolution of thousands of cases in a single day. The atmosphere at a Lok Adalat is far less formal than a traditional court, focusing on reconciliation rather than confrontation.</p>
               <p>For a resident of Punjab, participating in a Lok Adalat can significantly speed up the settlement process. We help our clients prepare for these sessions by drafting formal settlement proposals and coordinating with the bank's legal representatives beforehand. This ensures that when the case comes up before the judicial officer, both parties are already close to an agreement. The presence of a judge or a retired judicial officer ensures that the settlement is recorded accurately and that there is no foul play by the lender.</p>
             </section>
 
             <section id="drt-chandigarh-procedures" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl font-black mb-6">Strategic Representation in DRT Chandigarh</h2>
+              <h3 className="text-3xl font-black mb-6">Strategic Representation in DRT Chandigarh</h3>
               <p>For high-value loans, typically those exceeding Rs. 20 lakhs, banks often approach the Debt Recovery Tribunal (DRT). For residents and businesses in Punjab, the DRT located in Chandigarh is the primary judicial body for such matters. Facing a case in the DRT can be an intimidating prospect, as banks may seek orders for the attachment of property or the freezing of bank accounts under the SARFAESI Act or the RDB Act.</p>
               <p>However, even at the DRT level, settlement remains a very viable and often preferred option for both parties. The judicial officers at the DRT frequently encourage the use of mediation and compromise to resolve long-standing disputes. Our specialized DRT lawyers in Chandigarh work proactively to defend your interests. We analyze the bank's procedures for any gaps or technical errors, which can then be used as leverage during settlement negotiations.</p>
               <p>Strategic representation in the DRT requires a blend of legal acumen and negotiation skill. We have successfully handled numerous cases in the Chandigarh DRT for entrepreneurs and individuals from across Punjab. Our goal is always to protect your assets while working towards a realistic financial compromise. By engaging with the bank through the formal DRT process, we can often facilitate a settlement that allows you to retain your property and dignity while clearing your debts for a manageable amount.</p>
             </section>
 
             <section id="bank-fraud-trends" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl font-black mb-6">Recent Trends in Banking Fraud and Institutional Scale</h2>
+              <h3 className="text-3xl font-black mb-6">Recent Trends in Banking Fraud and Institutional Scale</h3>
               <p>The banking sector in Punjab has seen a rise in complex fraud cases in 2024 and 2025. Large-scale defaults involving thousands of crores have put banks like Punjab National Bank (PNB) and State Bank of India (SBI) on high alert. This institutional pressure often trickles down to individual borrowers. When banks face massive losses from big defaulters, they become more aggressive in recovering smaller loans to maintain their capital adequacy ratios.</p>
               <p>This increased aggression means that average borrowers in Ludhiana or Patiala are facing more frequent calls and more persistent recovery tactics. However, this same pressure also makes banks more open to 'One Time Settlement' (OTS) schemes for smaller accounts. Banks are under pressure from shareholders and regulators to reduce their Non-Performing Assets (NPAs). We help you turn this institutional need into your opportunity by positioning your settlement as a way for the bank to recover a guaranteed sum today rather than a doubtful one tomorrow.</p>
             </section>
 
             <section id="harassment-shield-punjab" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl font-black mb-6">Stop Recovery Harassment: Your Rights and Police Helplines</h2>
+              <h3 className="text-3xl font-black mb-6">Stop Recovery Harassment: Your Rights and Police Helplines</h3>
               <p>One of the most distressing aspects of debt is the harassment by third-party recovery agents. In many parts of Punjab, these agents often cross legal boundaries, using intimidation, verbal abuse, or unauthorized visits to homes and workplaces. Such behavior is strictly prohibited by the Reserve Bank of India (RBI). No bank or NBFC has the right to compromise your dignity or privacy in the name of recovery.</p>
               <p>If you are facing harassment in Punjab, you should immediately document the incident and take the following steps:</p>
               <ul>
@@ -360,52 +360,52 @@ export default function PunjabLoanSettlementPage() {
             </section>
 
             <section id="agricultural-debt-act" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl font-black mb-6">Relief for Farmers: Punjab Agricultural Debt Act 2016</h2>
+              <h3 className="text-3xl font-black mb-6">Relief for Farmers: Punjab Agricultural Debt Act 2016</h3>
               <p>Given Punjab's status as the breadbasket of India, agricultural debt is a significant concern for many families. The Punjab Settlement of Agricultural Indebtedness Act, 2016, was specifically enacted to provide relief to farmers and agricultural laborers. This Act recognizes the unique challenges of the agrarian economy and provides a specialized forum for the fair and quick settlement of debts.</p>
               <p>The Act established the Punjab Agricultural Debt Settlement Tribunal and district-level Forums to resolve disputes where the total debt does not exceed fifteen lakh rupees. This provides a specialized alternative to the regular civil courts and allows for a more empathetic understanding of the borrower's situation. For our clients in the rural belts of Sangrur, Bathinda, and Mansa, this Act can be a powerful tool for achieving a fair settlement.</p>
               <p>Our legal experts are well-versed in the provisions of this Act and how it interacts with other banking laws. We help eligible borrowers navigate these specialized forums, ensuring that they receive the maximum benefits intended by the law. Whether it is a loan from a commercial bank or a cooperative society, we provide the expert guidance needed to use the 2016 Act to your advantage and secure a life-changing settlement.</p>
             </section>
 
             <section id="mental-health-punjab" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl font-black mb-6">Debt and Mental Health: A Punjab Perspective</h2>
+              <h3 className="text-3xl font-black mb-6">Debt and Mental Health: A Punjab Perspective</h3>
               <p>The culture of 'Majha, Malwa, and Doaba' is one of bravery and pride. However, this same pride can make debt feel like a personal failure. In Punjab, the social stigma of being a 'defaulter' is high. Many people suffer in silence, leading to clinical depression and anxiety. We believe that debt is a financial problem, not a character flaw.</p>
               <p>Our counselors and lawyers work together to provide a holistic support system. We help our clients understands that almost every major businessman and even the state government itself operates on debt. Resolving debt through settlement is a wise financial decision, not a sign of weakness. By speaking up and taking professional help, you are protecting your family's future and your own mental well-being. A debt-free life in Amritsar or Ludhiana is possible when you choose to act rather than despair.</p>
             </section>
 
             <section id="industrial-debt-ludhiana" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl font-black mb-6">Industrial Debt in Ludhiana: Manchester of India</h2>
+              <h3 className="text-3xl font-black mb-6">Industrial Debt in Ludhiana: Manchester of India</h3>
               <p>Ludhiana, often called the 'Manchester of India,' is the backbone of Punjab's industrial economy. However, the high-volume, low-margin nature of the hosiery, textile, and cycle-parts industries makes them vulnerable to global market fluctuations and rising credit costs. Small and Medium Enterprises (SMEs) in Ludhiana frequently rely on a mix of CC (Cash Credit) limits and term loans. When a recession hits or export orders are cancelled, these industrial units find themselves staring at NPAs.</p>
               <p>Settling industrial debt requires a high level of financial sophistication. We work with chartered accountants and legal experts to present a 'Business Viability Report' to the bank. We argue that a settlement is better than a forced liquidation, which would yield much less for the bank and lead to job losses. By securing a 50-60% waiver on industrial loans, we help Ludhiana's entrepreneurs pivot their businesses and restart on a cleaner slate. Our expertise in the local industrial landscape makes us the preferred choice for business debt settlement in the region.</p>
             </section>
 
             <section id="sarfaesi-high-court" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl font-black mb-6">SARFAESI and the High Court of Punjab and Haryana</h2>
+              <h3 className="text-3xl font-black mb-6">SARFAESI and the High Court of Punjab and Haryana</h3>
               <p>For many borrowers in Punjab, the ultimate fear is the SARFAESI Act. Under this Act, banks can take possession of a mortgaged property without the intervention of a court. However, the High Court of Punjab and Haryana in Chandigarh has often intervened to protect the legitimate rights of borrowers against arbitrary or illegal actions by banks.</p>
               <p>We help our clients identify procedural lapses in SARFAESI notices. Whether it is an incorrect valuation of the property or a failure to consider the borrower's representation, these technical errors can be used to file a Securitization Application in the DRT or a Writ Petition in the High Court. This legal counter-strategy creates a 'standstill' situation, which is often the best time to negotiate a settlement. Our legal team in Chandigarh is adept at using these judicial safeguards to force banks into a compromise that saves your home or shop.</p>
             </section>
 
             <section id="arhtiya-debt-loop" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl font-black mb-6">Managing the Arhtiya-Bank Debt Loop</h2>
+              <h3 className="text-3xl font-black mb-6">Managing the Arhtiya-Bank Debt Loop</h3>
               <p>An informal yet pervasive part of Punjab's financial system is the 'Arhtiya' or commission agent. Farmers and small traders often take loans from arhtiyas to pay off bank interest, and vice versa. This creates a dangerous 'debt loop' that is hard to break. The 2016 Agricultural Indebtedness Act provides some relief, but the informal nature of arhtiya debt makes it complex.</p>
               <p>We provide strategic advice on how to break this loop. Our first priority is to settle the high-interest bank debts, which carry the risk of legal action and credit score damage. By clearing the bank's dues first, the borrower regains access to formal credit and state subsidies, which can then be used to settle informal obligations more sustainably. We act as a mediator, helping you prioritize your debts and ensuring that you don't use high-cost informal loans to pay off low-cost formal ones.</p>
             </section>
 
             <section id="settlement-roadmap-pj" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl font-black mb-6">Your Step-by-Step Roadmap to Freedom in Punjab</h2>
+              <h3 className="text-3xl font-black mb-6">Your Step-by-Step Roadmap to Freedom in Punjab</h3>
               <p>Achieving financial freedom is a journey that requires a clear plan and professional execution. Our 3-step roadmap is designed specifically for the residents of Punjab who are looking to break free from the cycle of debt. The process begins with a 'Comprehensive Debt Audit.' Here, our financial experts analyze every loan, credit card, and EMI you have, identifying the high-interest debts and those with the most significant legal risks.</p>
               <p>The second step is 'Strategic Bank-Level Negotiation.' This is where our relationships with bank officers and our deep database of past settlements come into play. We don't just ask for a waiver; we present a professionally documented case of financial hardship. We time our settlement proposals to coincide with the bank's internal 'settlement windows,' maximizing the chances of a deep discount. Throughout this phase, our clients are kept informed through regular updates, ensuring total transparency.</p>
               <p>The final step is 'Formal Settlement and Closure.' We ensure that every agreement is documented in a 'Full and Final Settlement' letter issued by the bank. We advise our clients to make payments only after receiving this legal guarantee. Once the payment is made, we follow up to ensure you receive the 'No Dues Certificate' and that the account status is updated with credit bureaus like CIBIL. This meticulous attention to detail ensures that your debt is closed not just in the bank's books, but in every legal sense.</p>
             </section>
 
             <section id="success-stories-pj" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl font-black mb-8 text-center">Punjab Success Stories: Real People, Real Freedom</h2>
+              <h3 className="text-3xl font-black mb-8 text-center">Punjab Success Stories: Real People, Real Freedom</h3>
               <p className="text-center mb-8">We have successfully helped over 1500+ families across Punjab reclaim their financial lives. Here are a few notable success stories from the region.</p>
               <div className="grid md:grid-cols-2 gap-6 not-prose">
                 <div className="bg-white p-6 rounded-2xl border border-[#DEDEDE] shadow-sm hover:shadow-md transition-all">
                   <div className="flex items-center mb-4">
                     <div className="w-10 h-10 rounded-full bg-[#1F5EFF]/10 flex items-center justify-center font-bold text-[#1F5EFF] mr-3">V</div>
                     <div>
-                      <h3 className="font-bold">Vikram Singh</h3>
+                      <h4 className="font-bold">Vikram Singh</h4>
                       <p className="text-xs text-gray-500">Ludhiana, Punjab</p>
                     </div>
                   </div>
@@ -416,7 +416,7 @@ export default function PunjabLoanSettlementPage() {
                   <div className="flex items-center mb-4">
                     <div className="w-10 h-10 rounded-full bg-[#1F5EFF]/10 flex items-center justify-center font-bold text-[#1F5EFF] mr-3">K</div>
                     <div>
-                      <h4 className="font-bold">Kamal Preet</h4>
+                      <h5 className="font-bold">Kamal Preet</h5>
                       <p className="text-xs text-gray-500">Amritsar, Punjab</p>
                     </div>
                   </div>
@@ -427,13 +427,13 @@ export default function PunjabLoanSettlementPage() {
             </section>
 
             <section id="cibil-recovery-pj" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl font-black mb-6">Rebuilding Your Credit Health in Punjab Post-Settlement</h2>
+              <h3 className="text-3xl font-black mb-6">Rebuilding Your Credit Health in Punjab Post-Settlement</h3>
               <p>A common concern for many Punjabis is the impact of settlement on their CIBIL score. It is important to be realistic: a settlement will cause a temporary dip in your credit score. However, this is a necessary step towards recovery. A persistent default or a 'written-off' status is far more damaging to your financial future than a documented settlement. Once your old debts are cleared, you can begin the process of rebuilding your credit.</p>
               <p>We provide all our clients with a 'Credit Rebuilding Guide' tailored for the Indian market. This includes advice on how to manage small credit lines, the benefits of 'secured' credit cards (backed by a fixed deposit), and how to ensure your credit report is free of errors. Many of our past clients in Mohali and Chandigarh have seen their scores recover significantly within 18 to 24 months of their final settlement. Rebuilding your credit is like reclaiming your health after a long illness; it takes patience, discipline, and the right approach.</p>
             </section>
 
             <section id="faqs" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl font-black mb-8">Frequently Asked Questions</h2>
+              <h3 className="text-3xl font-black mb-8">Frequently Asked Questions</h3>
               <div className="space-y-4 not-prose">
                 {[
                   { q: "Is loan settlement legal in Punjab?", a: "Yes, loan settlement is 100% legal in Punjab. It is a mutual agreement between the borrower and the lender to close a debt for a reduced amount. This process is recognized under the Indian Contract Act and is frequently facilitated by forums like National Lok Adalats organized by the Punjab State Legal Services Authority (PSLSA)." },
@@ -463,7 +463,7 @@ export default function PunjabLoanSettlementPage() {
             </section>
 
             <section className="mt-16 bg-[#1F5EFF] rounded-3xl p-10 text-center text-white shadow-2xl">
-              <h2 className="text-3xl md:text-4xl font-black mb-4">Start Your Debt-Free Life in Punjab Today</h2>
+              <h3 className="text-3xl md:text-4xl font-black mb-4">Start Your Debt-Free Life in Punjab Today</h3>
               <p className="mb-8 text-lg opacity-90 max-w-2xl mx-auto">Join the 1500+ families in Punjab who have successfully settled their loans with us. Your journey to financial freedom is just one call away.</p>
               <Link href="/contact" className="inline-block bg-white text-[#1F5EFF] font-black py-4 px-12 rounded-xl hover:scale-105 transition-all text-xl shadow-lg">
                 Get Your Free Analysis

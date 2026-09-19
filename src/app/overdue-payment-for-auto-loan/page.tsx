@@ -277,7 +277,7 @@ export default function Page() {
               </section>
 
               <section id="default-timeline" className="scroll-mt-32 mb-16">
-                <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">Timeline of Car Loan Default Consequences</h2>
+                <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">Timeline of Car Loan Default Consequences</h3>
                 <p className="text-lg leading-relaxed mb-6 text-[var(--color-text-body)]">
                   Unlike unsecured loans where banks take months to initiate legal action, an auto loan is secured. Here is the strict timeline of what happens when you miss payments:
                 </p>
@@ -286,7 +286,7 @@ export default function Page() {
                   <div className="flex gap-6">
                     <div className="flex-shrink-0 w-12 h-12 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center font-black text-xl shadow-lg">1</div>
                     <div>
-                      <h3 className="text-2xl font-bold text-[#2E2E2E] mb-3">1-30 Days: The Warning Phase</h3>
+                      <h4 className="text-2xl font-bold text-[#2E2E2E] mb-3">1-30 Days: The Warning Phase</h4>
                       <p className="text-lg text-[var(--color-text-body)] leading-relaxed">
                         Your first missed EMI triggers late fees and penal interest. The bank will start calling you and sending SMS reminders. At this stage, your CIBIL score takes its first hit, dropping by 50-80 points.
                       </p>
@@ -296,7 +296,7 @@ export default function Page() {
                   <div className="flex gap-6">
                     <div className="flex-shrink-0 w-12 h-12 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center font-black text-xl shadow-lg">2</div>
                     <div>
-                      <h3 className="text-2xl font-bold text-[#2E2E2E] mb-3">31-60 Days: Auto Loan Overdue Recovery Begins</h3>
+                      <h4 className="text-2xl font-bold text-[#2E2E2E] mb-3">31-60 Days: Auto Loan Overdue Recovery Begins</h4>
                       <p className="text-lg text-[var(--color-text-body)] leading-relaxed">
                         This is when the <strong>auto loan overdue recovery</strong> process intensifies. The bank may send field agents to your home or workplace. They will issue a formal legal notice demanding payment of the outstanding arrears.
                       </p>
@@ -306,7 +306,7 @@ export default function Page() {
                   <div className="flex gap-6">
                     <div className="flex-shrink-0 w-12 h-12 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center font-black text-xl shadow-lg">3</div>
                     <div>
-                      <h3 className="text-2xl font-bold text-[#2E2E2E] mb-3">61-90 Days: Pre-Possession Notice</h3>
+                      <h4 className="text-2xl font-bold text-[#2E2E2E] mb-3">61-90 Days: Pre-Possession Notice</h4>
                       <p className="text-lg text-[var(--color-text-body)] leading-relaxed">
                         The bank classifies your loan as a Non-Performing Asset (NPA). You will receive a Section 13(2) notice under the SARFAESI Act (if applicable) or a standard pre-sale notice giving you 7 to 15 days to clear the dues before they seize the vehicle.
                       </p>
@@ -316,7 +316,7 @@ export default function Page() {
                   <div className="flex gap-6">
                     <div className="flex-shrink-0 w-12 h-12 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center font-black text-xl shadow-lg">4</div>
                     <div>
-                      <h3 className="text-2xl font-bold text-[#2E2E2E] mb-3">90+ Days: Repossession and Auction</h3>
+                      <h4 className="text-2xl font-bold text-[#2E2E2E] mb-3">90+ Days: Repossession and Auction</h4>
                       <p className="text-lg text-[var(--color-text-body)] leading-relaxed">
                         Recovery agents are authorized to seize your vehicle. Once repossessed, the bank will send a final pre-sale notice. If you still don't pay, the car is auctioned to recover the loan amount. If the auction amount is less than your outstanding balance, you still owe the difference.
                       </p>
@@ -326,7 +326,7 @@ export default function Page() {
               </section>
 
               <section id="recovery-process" className="scroll-mt-32 mb-16">
-                <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">Dealing with Recovery Agents</h2>
+                <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">Dealing with Recovery Agents</h3>
                 
                 <div className="bg-gray-50 p-8 rounded-2xl mb-8 border border-gray-200">
                   <p className="text-lg leading-relaxed mb-6 text-gray-700">
@@ -338,7 +338,7 @@ export default function Page() {
                 </div>
 
                 <div className="bg-red-50 p-6 rounded-xl border border-red-100 mb-8">
-                  <h3 className="text-xl font-black text-red-700 mb-3">Important Warning</h3>
+                  <h4 className="text-xl font-black text-red-700 mb-3">Important Warning</h4>
                   <p className="text-lg text-red-900 leading-relaxed">
                     Never surrender your car keys to anyone who cannot produce an official repossession order and an authorization letter from your bank. Unauthorized seizure is treated as theft under the law.
                   </p>
@@ -346,9 +346,9 @@ export default function Page() {
               </section>
 
               <section id="your-rights" className="scroll-mt-32 mb-16">
-                <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">Your Rights During Repossession</h2>
+                <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">Your Rights During Repossession</h3>
                 <div className="bg-blue-50 border-l-8 border-[#1F5EFF] p-8 rounded-r-2xl mb-8">
-                  <h3 className="text-xl font-black text-[#1F5EFF] mb-4">What the Bank Must Do Before Seizing Your Car</h3>
+                  <h4 className="text-xl font-black text-[#1F5EFF] mb-4">What the Bank Must Do Before Seizing Your Car</h4>
                   <p className="text-lg text-blue-900 leading-relaxed mb-4">
                     The repossession process cannot be arbitrary. You are legally entitled to:
                   </p>
@@ -369,36 +369,36 @@ export default function Page() {
               </section>
 
               <section id="prevention" className="scroll-mt-32 mb-16">
-                <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">How to Prevent Vehicle Seizure</h2>
+                <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">How to Prevent Vehicle Seizure</h3>
                 <p className="text-lg leading-relaxed mb-6 text-[var(--color-text-body)]">
                   If you are unable to make payments, do not ignore the bank's calls. Proactive communication is the best way to handle <strong>car loan default consequences</strong>.
                 </p>
 
                 <div className="grid md:grid-cols-2 gap-6 my-8">
                   <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
-                    <h3 className="font-black text-[#1F5EFF] text-lg mb-3">1. Ask for Restructuring</h3>
+                    <h4 className="font-black text-[#1F5EFF] text-lg mb-3">1. Ask for Restructuring</h4>
                     <p className="text-gray-700">Request the bank to increase your loan tenure. This will reduce your monthly EMI burden and make payments more manageable.</p>
                   </div>
                   
                   <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
-                    <h3 className="font-black text-[#1F5EFF] text-lg mb-3">2. EMI Moratorium</h3>
+                    <h4 className="font-black text-[#1F5EFF] text-lg mb-3">2. EMI Moratorium</h4>
                     <p className="text-gray-700">If you are facing a temporary job loss or medical emergency, you can request a temporary EMI holiday or moratorium period.</p>
                   </div>
 
                   <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
-                    <h3 className="font-black text-[#1F5EFF] text-lg mb-3">3. Voluntary Surrender</h3>
+                    <h4 className="font-black text-[#1F5EFF] text-lg mb-3">3. Voluntary Surrender</h4>
                     <p className="text-gray-700">If you cannot afford the car anymore, voluntarily surrendering it is better than forced repossession. You can often negotiate better terms for the outstanding balance.</p>
                   </div>
 
                   <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
-                    <h3 className="font-black text-[#1F5EFF] text-lg mb-3">4. One-Time Settlement</h3>
+                    <h4 className="font-black text-[#1F5EFF] text-lg mb-3">4. One-Time Settlement</h4>
                     <p className="text-gray-700">In some extreme cases, if the car's value is much lower than the loan, banks might agree to a settlement to close the account, though it severely impacts your CIBIL score.</p>
                   </div>
                 </div>
               </section>
 
               <section id="credit-impact" className="scroll-mt-32 mb-16">
-                <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">Impact of Default on Credit Score</h2>
+                <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">Impact of Default on Credit Score</h3>
                 <div className="bg-white rounded-2xl p-8 border border-[#DEDEDE] shadow-sm relative overflow-hidden mb-8">
                   <p className="text-lg leading-relaxed mb-6 text-[var(--color-text-body)]">
                     A <strong>vehicle loan late payment</strong> will have a devastating effect on your CIBIL score. Since auto loans are secured, a default signals to future lenders that you are a high-risk borrower even when collateral is involved.
@@ -421,9 +421,9 @@ export default function Page() {
               </section>
 
               <section id="guarantor-impact" className="scroll-mt-32 mb-16">
-                <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">What Happens to the Guarantor?</h2>
+                <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">What Happens to the Guarantor?</h3>
                 <div className="bg-red-50 p-6 rounded-xl border border-red-100 mb-8">
-                  <h3 className="text-xl font-black text-red-700 mb-3">Guarantors Are Equally Liable</h3>
+                  <h4 className="text-xl font-black text-red-700 mb-3">Guarantors Are Equally Liable</h4>
                   <p className="text-lg text-red-900 leading-relaxed mb-4">
                     If someone co-signed or stood as a guarantor for your auto loan, the <strong>car loan default consequences</strong> apply equally to them.
                   </p>
@@ -434,18 +434,18 @@ export default function Page() {
               </section>
 
               <section id="legal-actions" className="scroll-mt-32 mb-16">
-                <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">Legal Actions Beyond Repossession</h2>
+                <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">Legal Actions Beyond Repossession</h3>
                 <div className="bg-gray-50 p-8 rounded-2xl mb-8 border border-gray-200">
                   <p className="text-lg leading-relaxed mb-6 text-gray-700">
                     Many borrowers assume that once the car is seized, the loan is closed. This is a dangerous misconception. If the auction value of the car is less than your outstanding loan balance, the bank will initiate legal proceedings to recover the deficit.
                   </p>
                   <div className="grid md:grid-cols-2 gap-6 mt-6">
                     <div className="bg-white p-6 rounded-xl border border-[#DEDEDE]">
-                      <h3 className="font-black text-[#1F5EFF] text-lg mb-3">Civil Suits</h3>
+                      <h4 className="font-black text-[#1F5EFF] text-lg mb-3">Civil Suits</h4>
                       <p className="text-gray-700">The bank can file a civil suit for recovery under the Code of Civil Procedure (Order 37) to attach your other assets, such as a house or bank accounts.</p>
                     </div>
                     <div className="bg-white p-6 rounded-xl border border-[#DEDEDE]">
-                      <h3 className="font-black text-[#1F5EFF] text-lg mb-3">Arbitration</h3>
+                      <h4 className="font-black text-[#1F5EFF] text-lg mb-3">Arbitration</h4>
                       <p className="text-gray-700">Most loan agreements contain an arbitration clause. The bank will appoint an arbitrator who will likely pass an award in favor of the bank, legally compelling you to pay.</p>
                     </div>
                   </div>
@@ -453,7 +453,7 @@ export default function Page() {
               </section>
 
               <section id="success-stories" className="scroll-mt-32 mb-16">
-                <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">Success Stories</h2>
+                <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">Success Stories</h3>
                 <div className="grid md:grid-cols-2 gap-8">
                   {[
                     { name: "Rahul S.", review: "I had a 3-month overdue car loan and recovery agents were threatening me. I used restructuring strategies and got my EMI reduced. Kept my car!", stars: 5, loan: "₹8,00,000", settled: "₹5,50,000" },
@@ -467,7 +467,7 @@ export default function Page() {
                           {story.name.charAt(0)}
                         </div>
                         <div>
-                          <h3 className="font-bold text-[#2E2E2E]">{story.name}</h3>
+                          <h4 className="font-bold text-[#2E2E2E]">{story.name}</h4>
                           <div className="flex gap-1 mt-1">
                             {[...Array(story.stars)].map((_, idx) => (
                               <svg key={idx} className="w-4 h-4 text-yellow-400 fill-current" viewBox="0 0 20 20">
@@ -488,7 +488,7 @@ export default function Page() {
               </section>
 
               <section id="faqs" className="scroll-mt-32 mb-16">
-                <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">Frequently Asked Questions</h2>
+                <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">Frequently Asked Questions</h3>
                 <div className="space-y-4">
                   {[
                     { q: "What happens if I miss my car loan payment by one day?", a: "Missing a payment by one day will result in a late fee and penal interest. It generally won't be reported to CIBIL unless it crosses 30 days, but your bank will flag the account." },
@@ -523,7 +523,7 @@ export default function Page() {
               <div className="bg-[#2E2E2E] text-white p-12 rounded-[40px] text-center mt-24 relative overflow-hidden group">
                 <div className="absolute inset-0 bg-[#1F5EFF] opacity-0 group-hover:opacity-5 transition-opacity"></div>
                 <div className="relative z-10">
-                  <h2 className="text-3xl md:text-5xl font-black mb-6 leading-tight">Stop Your Car from Being Seized</h2>
+                  <h3 className="text-3xl md:text-5xl font-black mb-6 leading-tight">Stop Your Car from Being Seized</h3>
                   <p className="text-xl text-gray-300 mb-8 max-w-2xl mx-auto">
                     Falling behind on your car loan payments? Understand the strict timeline before the bank sends recovery agents to seize your vehicle. Talk to our legal experts today.
                   </p>

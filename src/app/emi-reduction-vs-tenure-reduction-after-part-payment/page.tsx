@@ -260,22 +260,22 @@ export default function EMIVsTenureReductionPage() {
             </section>
 
             <section id="understanding-the-options" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 EMI vs Tenure Reduction: The Basics
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 When your principal amount drops due to a part payment, the math equation of your loan changes. The bank has to adjust either the payment amount or the payment timeline.
               </p>
 
               <div className="grid md:grid-cols-2 gap-6 my-8">
                 <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
-                  <h3 className="font-black text-[#1F5EFF] text-lg mb-3">Option 1: EMI Reduction</h3>
+                  <h4 className="font-black text-[#1F5EFF] text-lg mb-3">Option 1: EMI Reduction</h4>
                   <p className="text-gray-700 leading-relaxed">
                     Your loan tenure (the number of months left) remains exactly the same. Because your principal is now lower, the bank recalculates your monthly installment downwards. You pay less every month, freeing up immediate cash flow.
                   </p>
                 </div>
                 <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
-                  <h4 className="font-black text-[#1F5EFF] text-lg mb-3">Option 2: Tenure Reduction</h4>
+                  <h5 className="font-black text-[#1F5EFF] text-lg mb-3">Option 2: Tenure Reduction</h5>
                   <p className="text-gray-700 leading-relaxed">
                     Your monthly EMI amount remains exactly the same. Because you are paying the same high amount against a much smaller principal, you burn through the remaining balance much faster, ending the loan years earlier.
                   </p>
@@ -284,15 +284,15 @@ export default function EMIVsTenureReductionPage() {
             </section>
 
             <section id="the-math" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 The Math: Which Saves More Money?
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 Let's run a scenario. Assume you have a ₹50 Lakh home loan at 9% interest for 20 years. Your standard EMI is ₹44,986. After 5 years, your outstanding principal is roughly ₹44.2 Lakhs. You decide to make a part payment of ₹5 Lakhs.
               </p>
 
               <div className="bg-blue-50 border-l-8 border-[#1F5EFF] p-8 rounded-r-2xl mb-8">
-                <h3 className="text-xl font-black text-[#1F5EFF] mb-4">The ₹5 Lakh Part Payment Showdown</h3>
+                <h4 className="text-xl font-black text-[#1F5EFF] mb-4">The ₹5 Lakh Part Payment Showdown</h4>
                 <p className="text-blue-900 text-lg leading-relaxed mb-4">
                   Here is how the numbers play out over the remaining 15 years of your loan depending on your choice:
                 </p>
@@ -314,9 +314,9 @@ export default function EMIVsTenureReductionPage() {
             </section>
 
             <section id="when-to-choose-what" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 When to Choose What
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 While tenure reduction is the undisputed mathematical champion for overall savings, personal finance is highly personal. There are valid reasons for both choices.
               </p>
@@ -325,7 +325,7 @@ export default function EMIVsTenureReductionPage() {
                 <div className="flex gap-6">
                   <div className="flex-shrink-0 w-12 h-12 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center font-black text-xl shadow-lg">1</div>
                   <div>
-                    <h3 className="text-2xl font-bold text-[#2E2E2E] mb-2">Choose Tenure Reduction If:</h3>
+                    <h4 className="text-2xl font-bold text-[#2E2E2E] mb-2">Choose Tenure Reduction If:</h4>
                     <p className="text-lg text-gray-700 leading-relaxed">
                       Your current EMI is comfortable, your job is stable, and your primary goal is to become debt-free as fast as possible and save the maximum amount on interest. This is the optimal strategy for wealth creation.
                     </p>
@@ -335,7 +335,7 @@ export default function EMIVsTenureReductionPage() {
                 <div className="flex gap-6">
                   <div className="flex-shrink-0 w-12 h-12 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center font-black text-xl shadow-lg">2</div>
                   <div>
-                    <h3 className="text-2xl font-bold text-[#2E2E2E] mb-2">Choose EMI Reduction If:</h3>
+                    <h4 className="text-2xl font-bold text-[#2E2E2E] mb-2">Choose EMI Reduction If:</h4>
                     <p className="text-lg text-gray-700 leading-relaxed">
                       You are facing cash flow issues, anticipating a job change, have an upcoming massive expense (like college fees), or if rising interest rates have pushed your EMI to an uncomfortably high level that strains your monthly budget.
                     </p>
@@ -345,7 +345,7 @@ export default function EMIVsTenureReductionPage() {
                 <div className="flex gap-6">
                   <div className="flex-shrink-0 w-12 h-12 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center font-black text-xl shadow-lg">3</div>
                   <div>
-                    <h3 className="text-2xl font-bold text-[#2E2E2E] mb-2">The Hybrid Strategy</h3>
+                    <h4 className="text-2xl font-bold text-[#2E2E2E] mb-2">The Hybrid Strategy</h4>
                     <p className="text-lg text-gray-700 leading-relaxed">
                       Choose EMI reduction to lower your mandatory obligation to the bank (acting as a safety net), but discipline yourself to keep investing the difference (the ₹5,091 from our example) into a high-yield mutual fund to offset the lost interest savings.
                     </p>
@@ -355,12 +355,12 @@ export default function EMIVsTenureReductionPage() {
             </section>
             
             <section id="the-bank-default-trap" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 The Bank Default Trap
-              </h2>
+              </h3>
               
               <div className="bg-red-50 p-6 rounded-xl border border-red-100 mb-8">
-                <h3 className="text-xl font-black text-red-700 mb-3">Warning: Watch the Prepayment Screen</h3>
+                <h4 className="text-xl font-black text-red-700 mb-3">Warning: Watch the Prepayment Screen</h4>
                 <p className="text-red-900 leading-relaxed">
                   Banks want to earn interest. Because EMI reduction stretches out the lifespan of the loan, banks earn significantly more money if you choose that option. Consequently, many banks automatically default the radio button or checkbox to "EMI Reduction" on their online part payment portals. If you blindly click "Submit," you might lock yourself into the less profitable option. Always verify your selection before confirming.
                 </p>
@@ -368,9 +368,9 @@ export default function EMIVsTenureReductionPage() {
             </section>
 
             <section id="rbi-guidelines" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 RBI Guidelines on Prepayment
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 Knowing your rights is essential when executing your part prepayment strategy.
               </p>
@@ -383,9 +383,9 @@ export default function EMIVsTenureReductionPage() {
             </section>
 
             <section id="success-stories" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 Client Success Stories
-              </h2>
+              </h3>
               <div className="grid md:grid-cols-2 gap-6 my-8">
                 <div className="bg-white p-8 rounded-[30px] border border-[#DEDEDE] shadow-sm hover:shadow-xl group transition-all">
                   <div className="flex items-center gap-4 mb-6">
@@ -393,7 +393,7 @@ export default function EMIVsTenureReductionPage() {
                       VS
                     </div>
                     <div>
-                      <h3 className="font-bold text-gray-900">Vikas S.</h3>
+                      <h4 className="font-bold text-gray-900">Vikas S.</h4>
                       <div className="flex text-yellow-400">
                          <svg className="w-4 h-4 fill-current" viewBox="0 0 20 20"><path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z"/></svg>
                          <svg className="w-4 h-4 fill-current" viewBox="0 0 20 20"><path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z"/></svg>
@@ -418,7 +418,7 @@ export default function EMIVsTenureReductionPage() {
                       PM
                     </div>
                     <div>
-                      <h4 className="font-bold text-gray-900">Priya M.</h4>
+                      <h5 className="font-bold text-gray-900">Priya M.</h5>
                       <div className="flex text-yellow-400">
                          <svg className="w-4 h-4 fill-current" viewBox="0 0 20 20"><path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z"/></svg>
                          <svg className="w-4 h-4 fill-current" viewBox="0 0 20 20"><path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z"/></svg>
@@ -440,13 +440,13 @@ export default function EMIVsTenureReductionPage() {
             </section>
 
             <section id="faqs" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 Frequently Asked Questions
-              </h2>
+              </h3>
               <div className="space-y-4">
                 {jsonLd["@graph"].find(item => item["@type"] === "FAQPage")?.mainEntity?.map((faq: any, index: number) => (
                   <div key={index} className="bg-white border border-[#DEDEDE] rounded-xl p-6 hover:shadow-md transition-shadow">
-                    <h3 className="text-xl font-bold text-[#2E2E2E] mb-3">{faq.name}</h3>
+                    <h4 className="text-xl font-bold text-[#2E2E2E] mb-3">{faq.name}</h4>
                     <p className="text-gray-700 leading-relaxed">{faq.acceptedAnswer.text}</p>
                   </div>
                 ))}
@@ -455,7 +455,7 @@ export default function EMIVsTenureReductionPage() {
 
             <div className="bg-[#2E2E2E] text-white p-12 rounded-[40px] text-center mt-24 relative overflow-hidden group">
               <div className="absolute inset-0 bg-[#1F5EFF] opacity-0 group-hover:opacity-5 transition-opacity"></div>
-              <h3 className="text-3xl font-black mb-6 relative z-10">Stop Overpaying the Bank</h3>
+              <h4 className="text-3xl font-black mb-6 relative z-10">Stop Overpaying the Bank</h4>
               <p className="text-xl opacity-90 mb-8 relative z-10 max-w-2xl mx-auto">
                 Need help deciding the optimal part prepayment strategy for your unique financial situation? Our experts can run the exact math for your loan.
               </p>

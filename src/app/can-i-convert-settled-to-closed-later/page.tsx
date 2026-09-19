@@ -276,21 +276,21 @@ export default function ConvertSettledToClosedPage() {
             </section>
 
             <section id="settled-vs-closed" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
                 Understanding the Status: Settled vs. Closed
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 To fix the problem, you must first understand the terminology banks and credit bureaus use. These labels have a massive impact on your CIBIL score and your reputation in the financial world.
               </p>
               <div className="grid md:grid-cols-2 gap-6 my-8">
                 <div className="bg-red-50 p-6 rounded-xl border border-red-100">
-                  <h3 className="font-bold text-red-800 mb-2">Settled Status</h3>
+                  <h4 className="font-bold text-red-800 mb-2">Settled Status</h4>
                   <p className="text-sm text-red-900/80">
                     This means you paid a fraction of the total dues. The bank waived off the rest (interest, penalties, or even part of the principal). It remains on your report for 7 years and drastically lowers your creditworthiness.
                   </p>
                 </div>
                 <div className="bg-green-50 p-6 rounded-xl border border-green-100">
-                  <h3 className="font-bold text-green-800 mb-2">Closed Status</h3>
+                  <h4 className="font-bold text-green-800 mb-2">Closed Status</h4>
                   <p className="text-sm text-green-900/80">
                     This means the loan was repaid in full. All principal, interest, and charges were cleared as per the original or amended agreement without any waiver. This is a positive signal to future lenders.
                   </p>
@@ -302,14 +302,14 @@ export default function ConvertSettledToClosedPage() {
             </section>
 
             <section id="impact-on-borrowing" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
                 How a Settled Status Impacts Your Future
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 The financial system in India is deeply interconnected. A single "Settled" mark on one personal loan can affect your ability to get a credit card from a completely different bank. Lenders today use sophisticated algorithms that flag settlements as a red alert.
               </p>
               <div className="bg-gray-50 p-8 rounded-xl border border-gray-200 mb-8">
-                <h3 className="font-bold mb-4">The Real-World Consequences:</h3>
+                <h4 className="font-bold mb-4">The Real-World Consequences:</h4>
                 <ul className="space-y-4">
                   <li className="flex items-start gap-3">
                     <span className="w-6 h-6 rounded-full bg-blue-100 text-blue-600 flex items-center justify-center flex-shrink-0 text-xs font-bold">1</span>
@@ -328,46 +328,46 @@ export default function ConvertSettledToClosedPage() {
             </section>
 
             <section id="conversion-process" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
                 The Exact Process to Convert 'Settled' to 'Closed'
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 Converting the status is a procedural journey that requires patience and precise documentation. Follow these steps to ensure the bank and credit bureaus update your records correctly.
               </p>
               <div className="space-y-6">
                 <div className="border-l-4 border-[#1F5EFF] pl-6 py-2">
-                  <h3 className="font-bold text-xl mb-2">Step 1: Contact the Original Lender</h3>
+                  <h4 className="font-bold text-xl mb-2">Step 1: Contact the Original Lender</h4>
                   <p className="text-base text-gray-600">Reach out to the Nodal Officer or the Credit Department of the bank where you settled the loan. Request a statement showing the exactly waived amount.</p>
                 </div>
                 <div className="border-l-4 border-[#1F5EFF] pl-6 py-2">
-                  <h4 className="font-bold text-xl mb-2">Step 2: Negotiate the Final Payment</h4>
+                  <h5 className="font-bold text-xl mb-2">Step 2: Negotiate the Final Payment</h5>
                   <p className="text-base text-gray-600">The bank might ask for the waived principal plus interest. Negotiate to pay just the principal balance that was originally waived. Get an agreement in writing that upon payment, they will update the status to "Closed."</p>
                 </div>
                 <div className="border-l-4 border-[#1F5EFF] pl-6 py-2">
-                  <h4 className="font-bold text-xl mb-2">Step 3: Make the Payment via Official Channels</h4>
+                  <h5 className="font-bold text-xl mb-2">Step 3: Make the Payment via Official Channels</h5>
                   <p className="text-base text-gray-600">Pay the amount through the bank's portal, a demand draft, or a cheque. Avoid paying in cash to individuals. Ensure the payment is linked to your specific loan account number.</p>
                 </div>
                 <div className="border-l-4 border-[#1F5EFF] pl-6 py-2">
-                  <h4 className="font-bold text-xl mb-2">Step 4: Obtain the No Dues Certificate (NDC)</h4>
+                  <h5 className="font-bold text-xl mb-2">Step 4: Obtain the No Dues Certificate (NDC)</h5>
                   <p className="text-base text-gray-600">This is your most important document. It must explicitly state that the loan is "Full and Finally Paid" and that there are "Zero Dues" remaining.</p>
                 </div>
               </div>
             </section>
 
             <section id="negotiating-with-banks" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 uppercase tracking-tighter">Negotiating with Banks for Status Conversion</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 uppercase tracking-tighter">Negotiating with Banks for Status Conversion</h3>
               <p className="text-lg leading-relaxed mb-6">
                 Banks are not always eager to reopen a "Closed" or "Settled" file. From their perspective, once a settlement is reached, the case is moved to the 'Archive' or 'Write-off' ledger. When you approach them to pay the remaining balance, you are essentially helping them recover a "Lost Asset." Use this leverage.
               </p>
               
               <div className="bg-white p-8 rounded-2xl border border-[#DEDEDE] shadow-sm mb-8">
-                <h3 className="font-black text-xl mb-4">The "Nodal Representative" Script</h3>
+                <h4 className="font-black text-xl mb-4">The "Nodal Representative" Script</h4>
                 <p className="text-sm text-gray-600 mb-4 italic italic">"I am calling regarding Loan Account [Number]. I have previously settled this loan due to extreme financial hardship. However, my circumstances have improved, and I wish to clear the 'Settled' mark on my CIBIL report by paying the waived principal amount. I request you to treat this as a voluntary disclosure and issue a standard 'Closed' No Dues Certificate upon receipt of funds."</p>
                 <p className="text-sm font-bold text-[#1F5EFF]">Why this works: It positions you as a responsible borrower who is helping the bank clean their NPA (Non-Performing Asset) records.</p>
               </div>
 
               <div className="bg-blue-50 p-8 rounded-xl border border-blue-200 mb-8">
-                <h4 className="font-bold mb-4 text-blue-900">Advanced Negotiation Levers:</h4>
+                <h5 className="font-bold mb-4 text-blue-900">Advanced Negotiation Levers:</h5>
                 <ul className="space-y-4 text-sm text-blue-800">
                   <li className="flex items-start gap-2">
                     <span className="font-bold">•</span>
@@ -386,12 +386,12 @@ export default function ConvertSettledToClosedPage() {
             </section>
 
             <section id="rbi-june-2023-circular" className="scroll-mt-32 mb-12">
-                <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 uppercase tracking-tighter">The RBI June 2023 Circular: A New Hope</h2>
+                <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 uppercase tracking-tighter">The RBI June 2023 Circular: A New Hope</h3>
                 <p className="text-lg leading-relaxed mb-6">
                     In June 2023, the Reserve Bank of India issued a landmark circular regarding "Framework for Compromise Settlements and Technical Write-offs." This circular explicitly directed banks and NBFCs to put in place board-approved policies for offering compromise settlements to borrowers.
                 </p>
                 <div className="bg-green-50 p-8 rounded-xl border border-green-100 text-green-900 border-l-8 border-l-green-600">
-                    <h3 className="font-bold mb-4">Key Takeaway for Status Conversion:</h3>
+                    <h4 className="font-bold mb-4">Key Takeaway for Status Conversion:</h4>
                     <p className="text-sm leading-relaxed mb-4">
                         The circular emphasizes that a settlement should not prevent a borrower from resuming a credit relationship after a "Cooling Period" (usually 12 months for fresh loans). This provides a legal basis for you to argue that once you have cleared the remaining balance and converted "Settled" to "Closed," your cooling period should ideally end, making you eligible for credit again.
                     </p>
@@ -400,7 +400,7 @@ export default function ConvertSettledToClosedPage() {
             </section>
 
             <section id="documentation-checklist" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Your Documentation Checklist</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Your Documentation Checklist</h3>
               <p className="mb-6">
                 Never rely on verbal promises. The banking world runs on paper and digital records. Ensure you have every piece of documentation before you consider the process complete.
               </p>
@@ -425,12 +425,12 @@ export default function ConvertSettledToClosedPage() {
             </section>
 
             <section id="cibil-update-steps" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Updating Credit Bureaus (CIBIL, Experian)</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Updating Credit Bureaus (CIBIL, Experian)</h3>
               <p className="mb-6">
                 Even after the bank says you are clear, the credit bureau might still show the old "Settled" status. This is because banks usually report data in monthly batches. If you are in a hurry, you must take active steps to update the record.
               </p>
               <div className="bg-[#2E2E2E] text-white p-8 rounded-2xl mb-8">
-                <h3 className="text-xl font-bold mb-4">How to Raise a Dispute with CIBIL:</h3>
+                <h4 className="text-xl font-bold mb-4">How to Raise a Dispute with CIBIL:</h4>
                 <ol className="space-y-4 text-sm opacity-90">
                   <li><strong>1. Log in to CIBIL:</strong> Go to the official CIBIL dispute portal.</li>
                   <li><strong>2. Select the Loan:</strong> Choose the specific loan account that is still showing as "Settled."</li>
@@ -441,7 +441,7 @@ export default function ConvertSettledToClosedPage() {
             </section>
 
             <section id="legal-rights" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Your Legal Rights as a Borrower</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Your Legal Rights as a Borrower</h3>
               <p className="mb-6">
                 The Reserve Bank of India (RBI) has laid down clear rules about how loan accounts should be reported. If you have paid the full dues, the bank has no legal right to keep reporting it as "Settled."
               </p>
@@ -457,31 +457,31 @@ export default function ConvertSettledToClosedPage() {
             </section>
 
             <section id="tax-and-fees" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Tax and Fee Implications of Recovery</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Tax and Fee Implications of Recovery</h3>
               <p className="mb-6">
                 When a bank waives a debt, they sometimes report it as 'income' for the borrower under tax laws (since it is a financial gain). While this rarely affects individual personal loan borrowers, it is a point of consideration for large business settlements. By paying the balance and converting to "Closed," you eliminate any potential tax ambiguity regarding that debt.
               </p>
             </section>
 
             <section id="rebuilding-strategies" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Strategies for Rebuilding Your Credit Score</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Strategies for Rebuilding Your Credit Score</h3>
               <p className="mb-6">
                 Closing the old loan is just the first step. To get back to a 750+ score, you need a proactive rebuilding strategy.
               </p>
               <div className="grid md:grid-cols-2 gap-8 my-10">
                 <div>
-                  <h3 className="font-bold text-[#1F5EFF] mb-2">The Secured Card Method</h3>
+                  <h4 className="font-bold text-[#1F5EFF] mb-2">The Secured Card Method</h4>
                   <p className="text-xs text-gray-600">Apply for a credit card against a Fixed Deposit (FD). Use it for small amounts and pay the balance in full every month. This creates a new, positive history.</p>
                 </div>
                 <div>
-                  <h4 className="font-bold text-[#1F5EFF] mb-2">Zero Overdues</h4>
+                  <h5 className="font-bold text-[#1F5EFF] mb-2">Zero Overdues</h5>
                   <p className="text-xs text-gray-600">Ensure every other loan or credit card you have is paid exactly on time. Even a one-day delay can reset your progress.</p>
                 </div>
               </div>
             </section>
 
             <section id="common-pitfalls" className="scroll-mt-32 mb-12">
-               <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Common Pitfalls to Avoid</h2>
+               <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Common Pitfalls to Avoid</h3>
                <div className="bg-red-50 p-6 border-l-4 border-red-500 rounded-r-xl">
                   <p className="text-sm text-red-900 font-bold mb-2">Warning: Avoid these mistakes during conversion:</p>
                   <ul className="space-y-2 text-xs text-red-800">
@@ -493,7 +493,7 @@ export default function ConvertSettledToClosedPage() {
             </section>
 
             <section id="psychological-impact" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">The Psychological Weight of Debt Settlement</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">The Psychological Weight of Debt Settlement</h3>
               <p className="mb-6 leading-relaxed">
                 Debt is not just a financial number; it is an emotional burden. For many Indians, the "Settled" mark feels like a badge of shame, a constant reminder of a difficult period in their lives. This psychological weight can lead to a lack of confidence in making future financial decisions. Converting the status to "Closed" provides more than just a better CIBIL score—it provides a sense of closure and emotional relief. It is the final step in taking back control of your life from the mistakes of the past.
               </p>
@@ -503,61 +503,61 @@ export default function ConvertSettledToClosedPage() {
             </section>
 
             <section id="bank-specific-policies" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">How Different Banks in India Handle Status Conversion</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">How Different Banks in India Handle Status Conversion</h3>
               <p className="mb-6">
                 While the RBI sets the broad rules, individual banks have their own internal workflows for status conversion. Understanding these nuances can save you months of follow-ups.
               </p>
               <div className="grid md:grid-cols-3 gap-4 mb-8">
                 <div className="bg-white p-6 rounded-xl border border-gray-100 shadow-sm transition-all hover:bg-blue-50">
-                  <h3 className="font-bold mb-2">HDFC & ICICI</h3>
+                  <h4 className="font-bold mb-2">HDFC & ICICI</h4>
                   <p className="text-xs text-gray-500">Very structured. They usually require a formal application to the Nodal Officer. Once processed, they are quick to update CIBIL.</p>
                 </div>
                 <div className="bg-white p-6 rounded-xl border border-gray-100 shadow-sm transition-all hover:bg-green-50">
-                  <h4 className="font-bold mb-2">SBI & PSU Banks</h4>
+                  <h5 className="font-bold mb-2">SBI & PSU Banks</h5>
                   <p className="text-xs text-gray-500">Often require a visit to the home branch where the loan was first taken. The 'OTS' (One Time Settlement) files are archived and might take time to retrieve.</p>
                 </div>
                 <div className="bg-white p-6 rounded-xl border border-gray-100 shadow-sm transition-all hover:bg-orange-50">
-                  <h4 className="font-bold mb-2">NBFCs (Bajaj, etc.)</h4>
+                  <h5 className="font-bold mb-2">NBFCs (Bajaj, etc.)</h5>
                   <p className="text-xs text-gray-500">More aggressive on interest. They might insist on paying back full penal interest, which can be negotiated down with expert help.</p>
                 </div>
               </div>
             </section>
 
             <section id="banking-ombudsman" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">The Role of the Banking Ombudsman</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">The Role of the Banking Ombudsman</h3>
               <p className="mb-6 leading-relaxed">
                 What if you pay the full dues, get the NDC, and the bank still refuses to update CIBIL? This is a case of "deficiency in service." Under the RBI Integrated Ombudsman Scheme, 2021, you can file a complaint online. The Ombudsman has the power to order the bank to not only update the status but also pay compensation for mental harassment and loss of credit opportunities.
               </p>
             </section>
 
             <section id="settlement-vs-restructuring" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Settlement vs. Debt Restructuring</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Settlement vs. Debt Restructuring</h3>
               <p className="mb-6 leading-relaxed">
                 Many confuse these two terms. Restructuring happens BEFORE a default where the bank changes the EMI or tenure. Settlement happens AFTER a default. If you are currently in a settlement, you have already crossed the default line. Conversion to 'Closed' is the only way to reverse the damage. Restructuring at this late stage is usually not an option unless you are dealing with a new, active loan.
               </p>
             </section>
 
             <section id="nri-guidelines" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Can NRIs Convert Settled Status?</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Can NRIs Convert Settled Status?</h3>
               <p className="mb-6 leading-relaxed">
                 Yes. Many Non-Resident Indians have old debts in India that were settled by family members in their absence. These old 'Settled' marks can prevent them from getting home loans for investment properties in India. NRIs can handle this process remotely through a Power of Attorney or by using services like SettleLoans to act as their local representative.
               </p>
             </section>
 
             <section id="employment-impact" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Impact on Employment and Background Checks</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Impact on Employment and Background Checks</h3>
               <p className="mb-6 leading-relaxed">
                 In the modern corporate world, background checks are not limited to criminal records. Many companies in the BFSI (Banking, Financial Services, and Insurance) sector and IT firms now check if a candidate has 'Settled' or 'Written Off' marks. They view this as a potential risk for internal fraud or lack of integrity. Converting to 'Closed' ensures that your professional growth isn't stunted by your financial past.
               </p>
             </section>
 
             <section id="arc-conversion" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 uppercase tracking-tighter">Converting Status with ARCs</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 uppercase tracking-tighter">Converting Status with ARCs</h3>
               <p className="text-lg leading-relaxed mb-6">
                 If your debt was sold by the bank to an Asset Reconstruction Company (ARC) like EARCL, Phoenix, or Arcil, the game changes. ARCs purchase bad loans at a deep discount (often for 30-40% of the value). This means an ARC is far more motivated to accept a lump-sum payment to "Close" the account.
               </p>
               <div className="bg-purple-50 p-8 rounded-xl border border-purple-100 mb-8">
-                <h3 className="font-bold text-purple-900 mb-4">Handling ARCs effectively:</h3>
+                <h4 className="font-bold text-purple-900 mb-4">Handling ARCs effectively:</h4>
                 <ul className="space-y-4 text-sm text-purple-800">
                   <li><strong>Lump-Sum Power:</strong> Unlike banks, ARCs have a high "Internal Rate of Return" (IRR) target. A single large payment today is often better for them than a legal case tomorrow.</li>
                   <li><strong>The ARC NOC:</strong> The No Dues Certificate must come from the ARC, not the original bank. Ensure it mentions that the "Assignment of Debt" is fulfilled and the loan is "Full and Finally Closed."</li>
@@ -567,7 +567,7 @@ export default function ConvertSettledToClosedPage() {
             </section>
 
             <section id="cibil-rank-impact" className="scroll-mt-32 mb-12">
-                <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 uppercase tracking-tighter">CIBIL Rank: The Business Owner's Metric</h2>
+                <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 uppercase tracking-tighter">CIBIL Rank: The Business Owner's Metric</h3>
                 <p className="text-lg leading-relaxed mb-6">
                     If you are a business owner (MSME), you don't just have a CIBIL Score; you have a <strong>CIBIL Rank</strong>. This ranges from 1 to 10, with 1 being the best. A "Settled" mark on your personal or company report will tank your CIBIL Rank, making it impossible to get Working Capital or Term Loans for your business.
                 </p>
@@ -577,26 +577,26 @@ export default function ConvertSettledToClosedPage() {
             </section>
 
             <section id="insurance-impact" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">The Hidden Link: Credit Status and Insurance</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">The Hidden Link: Credit Status and Insurance</h3>
               <p className="mb-6 leading-relaxed">
                 While common in the US, Indian insurance companies are also starting to look at credit history for setting 'Terms of Service' for high-value Life and Health Insurance. A 'Settled' status can lead to higher scrutiny or even higher premiums in some premium policies. Converting to 'Closed' ensures that your credit report reflects financial responsibility, which can indirectly benefit your insurance underwriting in the long run.
               </p>
             </section>
 
             <section id="tax-efficiency" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 uppercase tracking-tighter">Tax Efficiency Post-Closure</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 uppercase tracking-tighter">Tax Efficiency Post-Closure</h3>
               <p className="mb-6 leading-relaxed">
                 When a loan is closed after paying back the waived amount, any legal ambiguity regarding 'Deemed Income' is removed. Under Section 194R or other emerging tax interpretations, a waived debt could potentially be treated as a benefit. By closing the loan, you transition from a 'beneficiary of a waiver' to a 'full repayer,' which is a much safer position for high-net-worth individuals or business owners during income tax audits.
               </p>
             </section>
 
             <section id="expert-assistance" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">How SettleLoans Can Help You Restore Your Credit</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">How SettleLoans Can Help You Restore Your Credit</h3>
               <p className="mb-6">
                 Negotiating with a bank to reopen a settled file is complex. Our team of legal and financial experts acts as your representative. We know the right departments and the right legal framework to ensure your payment leads to a guaranteed status update.
               </p>
               <div className="bg-[#1F5EFF] text-white p-8 rounded-2xl text-center">
-                <h3 className="text-2xl font-black mb-4">Start Your Credit Restoration Today</h3>
+                <h4 className="text-2xl font-black mb-4">Start Your Credit Restoration Today</h4>
                 <p className="mb-6 opacity-90">We handle the paperwork, the negotiation, and the follow ups with credit bureaus so you can focus on your future.</p>
                 <Link href="/contact" className="inline-block bg-white text-[#1F5EFF] font-black py-4 px-8 rounded-xl hover:scale-105 transition-all">
                   Get a Free Credit Assessment
@@ -605,7 +605,7 @@ export default function ConvertSettledToClosedPage() {
             </section>
 
             <section id="success-stories" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 text-center">Real Stories of Freedom</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 text-center">Real Stories of Freedom</h3>
               <div className="grid md:grid-cols-2 gap-6 not-prose">
                 {[
                   {
@@ -643,7 +643,7 @@ export default function ConvertSettledToClosedPage() {
                         {review.name.charAt(0)}
                       </div>
                       <div>
-                        <h3 className="font-bold text-[#2E2E2E]">{review.name}</h3>
+                        <h4 className="font-bold text-[#2E2E2E]">{review.name}</h4>
                         <p className="text-xs text-gray-400">{review.loc}</p>
                       </div>
                       <div className="ml-auto text-yellow-400 text-sm">★★★★★</div>
@@ -658,7 +658,7 @@ export default function ConvertSettledToClosedPage() {
             </section>
 
             <section id="faqs" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Frequently Asked Questions</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Frequently Asked Questions</h3>
               <div className="space-y-4">
                 {[
                   { q: "Can I convert settled to closed without paying more?", a: "No. Conversion requires you to pay the amount that the bank originally waived during the settlement process." },

@@ -609,10 +609,10 @@ export default function PersonalLoanSettlementNashikPage() {
 
             {/* Section 2 */}
             <section id="delinquency-timeline-npa-nashik" className="scroll-mt-24 space-y-4">
-              <h2 className="text-xl sm:text-2xl font-black text-slate-900 tracking-tight flex items-center gap-2.5">
+              <h3 className="text-xl sm:text-2xl font-black text-slate-900 tracking-tight flex items-center gap-2.5">
                 <TrendingUp className="w-6 h-6 text-[#1F5EFF]" />
                 <span>2. Delinquency Timeline &amp; NPA in Nashik</span>
-              </h2>
+              </h3>
               <p>
                 Understanding how banks classify bad loans helps you time your settlement talks. Under RBI rules, an overdue loan moves through three Special Mention Account (SMA) stages before turning into a Non-Performing Asset (NPA) at 90 days past due (DPD).
               </p>
@@ -643,10 +643,10 @@ export default function PersonalLoanSettlementNashikPage() {
 
             {/* Section 3 */}
             <section id="anti-harassment-nach-protection" className="scroll-mt-24 space-y-4">
-              <h2 className="text-xl sm:text-2xl font-black text-slate-900 tracking-tight flex items-center gap-2.5">
+              <h3 className="text-xl sm:text-2xl font-black text-slate-900 tracking-tight flex items-center gap-2.5">
                 <ShieldAlert className="w-6 h-6 text-[#1F5EFF]" />
                 <span>3. Borrower Legal Protections in Nashik</span>
-              </h2>
+              </h3>
               <p>
                 Many borrowers in Nashik face harsh calls from recovery agents. Agents often visit factories in Ambad and Satpur MIDC or homes in Indira Nagar. But loan default is strictly a civil contract matter under the Indian Contract Act, 1872. It is not a crime.
               </p>
@@ -677,10 +677,10 @@ export default function PersonalLoanSettlementNashikPage() {
 
             {/* Section 4 */}
             <section id="rbi-ots-npv-valuation" className="scroll-mt-24 space-y-4">
-              <h2 className="text-xl sm:text-2xl font-black text-slate-900 tracking-tight flex items-center gap-2.5">
+              <h3 className="text-xl sm:text-2xl font-black text-slate-900 tracking-tight flex items-center gap-2.5">
                 <Calculator className="w-6 h-6 text-[#1F5EFF]" />
                 <span>4. NPV Valuation &amp; OTS Haircuts in Nashik</span>
-              </h2>
+              </h3>
               <p>
                 Bank One-Time Settlements follow RBI Master Directions on Compromise Settlements. Bank credit committees do not grant waivers based on emotion. They use a financial formula called Net Present Value (NPV).
               </p>
@@ -712,10 +712,10 @@ export default function PersonalLoanSettlementNashikPage() {
 
             {/* Section 5: Infographic Banner */}
             <section id="infographic-resolution-blueprint" className="scroll-mt-24 space-y-4">
-              <h2 className="text-xl sm:text-2xl font-black text-slate-900 tracking-tight flex items-center gap-2.5">
+              <h3 className="text-xl sm:text-2xl font-black text-slate-900 tracking-tight flex items-center gap-2.5">
                 <Layers className="w-6 h-6 text-[#1F5EFF]" />
                 <span>5. Resolution Blueprint in Nashik</span>
-              </h2>
+              </h3>
               <p>
                 This blueprint shows the full legal journey from debt default to advocate talks, Lok Adalat orders, and final ₹0 No Dues Certificates for Nashik borrowers:
               </p>
@@ -743,10 +743,10 @@ export default function PersonalLoanSettlementNashikPage() {
 
             {/* Section 6 */}
             <section id="nashik-court-defense-jmfc" className="scroll-mt-24 space-y-4">
-              <h2 className="text-xl sm:text-2xl font-black text-slate-900 tracking-tight flex items-center gap-2.5">
+              <h3 className="text-xl sm:text-2xl font-black text-slate-900 tracking-tight flex items-center gap-2.5">
                 <Gavel className="w-6 h-6 text-[#1F5EFF]" />
                 <span>6. Judicial Defense in Nashik District Courts</span>
-              </h2>
+              </h3>
               <p>
                 When a loan is unpaid for over 120 days, lenders may file cases in court. In Nashik, these cases go to the Judicial Magistrate First Class (JMFC) Courts at the Old Agra Road Court Complex near CBS.
               </p>
@@ -755,19 +755,19 @@ export default function PersonalLoanSettlementNashikPage() {
               </p>
               <div className="space-y-3 my-4">
                 <div className="border border-slate-200 rounded-xl p-4 bg-slate-50">
-                  <h3 className="font-bold text-slate-900 text-sm flex items-center gap-2">
+                  <h4 className="font-bold text-slate-900 text-sm flex items-center gap-2">
                     <Scale className="w-4 h-4 text-[#1F5EFF]" />
                     <span>Section 138 of the Negotiable Instruments Act, 1881 (Cheque Bounce)</span>
-                  </h3>
+                  </h4>
                   <p className="text-xs sm:text-sm text-slate-600 mt-1">
                     If security cheques bounce, the bank sends a 15-day notice before filing a case. Our Nashik advocates file a Vakalatnama, obtain bail, and apply under Section 147 of the NI Act to move the dispute to Lok Adalat for full closure.
                   </p>
                 </div>
                 <div className="border border-slate-200 rounded-xl p-4 bg-slate-50">
-                  <h4 className="font-bold text-slate-900 text-sm flex items-center gap-2">
+                  <h5 className="font-bold text-slate-900 text-sm flex items-center gap-2">
                     <FileText className="w-4 h-4 text-[#1F5EFF]" />
                     <span>Section 25 of the Payment and Settlement Systems Act, 2007 (NACH Bounce)</span>
-                  </h4>
+                  </h5>
                   <p className="text-xs sm:text-sm text-slate-600 mt-1">
                     When electronic NACH debits fail, lenders file cases under Section 25 PSSA. Our advocates show genuine financial distress and guide the case toward a mutual OTS agreement.
                   </p>
@@ -783,10 +783,10 @@ export default function PersonalLoanSettlementNashikPage() {
 
             {/* Section 7 */}
             <section id="nashik-lok-adalat-representation" className="scroll-mt-24 space-y-4">
-              <h2 className="text-xl sm:text-2xl font-black text-slate-900 tracking-tight flex items-center gap-2.5">
+              <h3 className="text-xl sm:text-2xl font-black text-slate-900 tracking-tight flex items-center gap-2.5">
                 <Landmark className="w-6 h-6 text-[#1F5EFF]" />
                 <span>7. Nashik District Legal Services Authority DLSA Lok Adalat</span>
-              </h2>
+              </h3>
               <p>
                 The District Legal Services Authority (DLSA) at the Old Agra Road Court Complex runs quarterly Lok Adalats under MSLSA and NALSA. Lok Adalat is the safest legal path to close a loan dispute permanently.
               </p>
@@ -809,10 +809,10 @@ export default function PersonalLoanSettlementNashikPage() {
 
             {/* Section 8 */}
             <section id="step-by-step-settlement-roadmap" className="scroll-mt-24 space-y-4">
-              <h2 className="text-xl sm:text-2xl font-black text-slate-900 tracking-tight flex items-center gap-2.5">
+              <h3 className="text-xl sm:text-2xl font-black text-slate-900 tracking-tight flex items-center gap-2.5">
                 <Clock className="w-6 h-6 text-[#1F5EFF]" />
                 <span>8. 5-Stage Settlement Protocol in Nashik</span>
-              </h2>
+              </h3>
               <p>
                 Resolving defaulted personal loans and business debt follows a 5-step legal process to get maximum debt cuts while keeping you safe:
               </p>
@@ -820,35 +820,35 @@ export default function PersonalLoanSettlementNashikPage() {
                 <div className="flex gap-4 items-start">
                   <div className="w-8 h-8 rounded-full bg-[#1F5EFF] text-white font-bold flex items-center justify-center text-sm flex-shrink-0 mt-0.5">1</div>
                   <div>
-                    <h3 className="font-bold text-slate-900 text-base">Stage 1: Financial &amp; Debt Audit</h3>
+                    <h4 className="font-bold text-slate-900 text-base">Stage 1: Financial &amp; Debt Audit</h4>
                     <p className="text-sm text-slate-600 mt-1">Our team audits your loan papers, bank statements, and bounce charges to remove wrongful fees added by the lender.</p>
                   </div>
                 </div>
                 <div className="flex gap-4 items-start">
                   <div className="w-8 h-8 rounded-full bg-[#1F5EFF] text-white font-bold flex items-center justify-center text-sm flex-shrink-0 mt-0.5">2</div>
                   <div>
-                    <h4 className="font-bold text-slate-900 text-base">Stage 2: Cease-and-Desist Notice</h4>
+                    <h5 className="font-bold text-slate-900 text-base">Stage 2: Cease-and-Desist Notice</h5>
                     <p className="text-sm text-slate-600 mt-1">We send formal legal notices under RBI Fair Practice rules to bank heads. This stops agent visits and directs all calls to counsel.</p>
                   </div>
                 </div>
                 <div className="flex gap-4 items-start">
                   <div className="w-8 h-8 rounded-full bg-[#1F5EFF] text-white font-bold flex items-center justify-center text-sm flex-shrink-0 mt-0.5">3</div>
                   <div>
-                    <h4 className="font-bold text-slate-900 text-base">Stage 3: Bank SARB Negotiations</h4>
+                    <h5 className="font-bold text-slate-900 text-base">Stage 3: Bank SARB Negotiations</h5>
                     <p className="text-sm text-slate-600 mt-1">Advocates negotiate directly with bank credit committees in Nashik, using hardship proof to win 40% to 70% principal waivers.</p>
                   </div>
                 </div>
                 <div className="flex gap-4 items-start">
                   <div className="w-8 h-8 rounded-full bg-[#1F5EFF] text-white font-bold flex items-center justify-center text-sm flex-shrink-0 mt-0.5">4</div>
                   <div>
-                    <h4 className="font-bold text-slate-900 text-base">Stage 4: Sanction Letter Audit &amp; Payment</h4>
+                    <h5 className="font-bold text-slate-900 text-base">Stage 4: Sanction Letter Audit &amp; Payment</h5>
                     <p className="text-sm text-slate-600 mt-1">We verify the bank OTS sanction letter for complete legal accuracy. You then pay directly into your loan account via RTGS or NEFT.</p>
                   </div>
                 </div>
                 <div className="flex gap-4 items-start">
                   <div className="w-8 h-8 rounded-full bg-[#1F5EFF] text-white font-bold flex items-center justify-center text-sm flex-shrink-0 mt-0.5">5</div>
                   <div>
-                    <h4 className="font-bold text-slate-900 text-base">Stage 5: ₹0 NDC &amp; Credit Bureau Update</h4>
+                    <h5 className="font-bold text-slate-900 text-base">Stage 5: ₹0 NDC &amp; Credit Bureau Update</h5>
                     <p className="text-sm text-slate-600 mt-1">We ensure your official ₹0 No Dues Certificate arrives within 30 days under RBI rules and verify zero-balance status on CIBIL.</p>
                   </div>
                 </div>
@@ -860,10 +860,10 @@ export default function PersonalLoanSettlementNashikPage() {
 
             {/* Section 9 */}
             <section id="sanction-letter-audit-ndc" className="scroll-mt-24 space-y-4">
-              <h2 className="text-xl sm:text-2xl font-black text-slate-900 tracking-tight flex items-center gap-2.5">
+              <h3 className="text-xl sm:text-2xl font-black text-slate-900 tracking-tight flex items-center gap-2.5">
                 <FileCheck className="w-6 h-6 text-[#1F5EFF]" />
                 <span>9. Forensic Audit of Nashik OTS Letters</span>
-              </h2>
+              </h3>
               <p>
                 Distressed borrowers must be careful with fake settlement letters issued by rogue agents. SettleLoans checks every OTS document before you pay any money.
               </p>
@@ -897,10 +897,10 @@ export default function PersonalLoanSettlementNashikPage() {
 
             {/* Section 10 */}
             <section id="cibil-score-rehabilitation-nashik" className="scroll-mt-24 space-y-4">
-              <h2 className="text-xl sm:text-2xl font-black text-slate-900 tracking-tight flex items-center gap-2.5">
+              <h3 className="text-xl sm:text-2xl font-black text-slate-900 tracking-tight flex items-center gap-2.5">
                 <TrendingUp className="w-6 h-6 text-[#1F5EFF]" />
                 <span>10. CIBIL Trajectory in Nashik</span>
-              </h2>
+              </h3>
               <p>
                 Understanding your credit score after settlement helps you plan your recovery. When you settle an unsecured loan, the lender reports the account to CIBIL, Experian, and CRIF as &quot;Settled&quot; with a balance of ₹0.
               </p>
@@ -928,10 +928,10 @@ export default function PersonalLoanSettlementNashikPage() {
 
             {/* Section 11: Comparative Matrix Table */}
             <section id="nashik-debt-matrix" className="scroll-mt-24 space-y-4">
-              <h2 className="text-xl sm:text-2xl font-black text-slate-900 tracking-tight flex items-center gap-2.5">
+              <h3 className="text-xl sm:text-2xl font-black text-slate-900 tracking-tight flex items-center gap-2.5">
                 <Scale className="w-6 h-6 text-[#1F5EFF]" />
                 <span>11. Debt Resolution Matrix in Nashik</span>
-              </h2>
+              </h3>
               <p>
                 Review resolution paths and expected OTS waivers for borrowers across Nashik and North Maharashtra:
               </p>
@@ -989,10 +989,10 @@ export default function PersonalLoanSettlementNashikPage() {
 
             {/* Section 12: Company Resolution Section */}
             <section id="company-resolution-section" className="scroll-mt-24 space-y-4">
-              <h2 className="text-xl sm:text-2xl font-black text-slate-900 tracking-tight flex items-center gap-2.5">
+              <h3 className="text-xl sm:text-2xl font-black text-slate-900 tracking-tight flex items-center gap-2.5">
                 <Shield className="w-6 h-6 text-[#1F5EFF]" />
                 <span>12. SettleLoans Legal Defense &amp; Debt Advisory in Nashik</span>
-              </h2>
+              </h3>
               <p>
                 SettleLoans is India&apos;s leading legal debt resolution service. Our Nashik legal team brings deep knowledge in banking rules, bank SARB talks, and court defense at the Old Agra Road Court Complex. We have helped over 1,200 borrowers across Maharashtra stop recovery harassment and secure maximum debt waivers.
               </p>
@@ -1006,9 +1006,9 @@ export default function PersonalLoanSettlementNashikPage() {
                   <Gavel className="w-4 h-4" />
                   <span>Local Legal Jurisdiction &amp; Legal Aid Directory</span>
                 </div>
-                <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+                <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                   District Courts &amp; DLSA Helpdesk in Nashik
-                </h2>
+                </h3>
                 <p className="text-slate-700 leading-relaxed mb-6 text-base">
                   Distressed borrowers facing recovery pressure, arbitration summons, or Section 138 NI Act notices in Nashik can access statutory legal defense through the local District Court and District Legal Services Authority (DLSA):
                 </p>
@@ -1043,9 +1043,9 @@ export default function PersonalLoanSettlementNashikPage() {
 <section id="faqs" className="scroll-mt-24 space-y-6">
               <div className="flex items-center gap-3 border-b border-slate-200 pb-3">
                 <HelpCircle className="w-6 h-6 text-[#1F5EFF]" />
-                <h2 className="text-xl sm:text-2xl font-black text-slate-900 tracking-tight">
+                <h3 className="text-xl sm:text-2xl font-black text-slate-900 tracking-tight">
                   13. Frequently Asked Questions on Nashik Loan Settlement
-                </h2>
+                </h3>
               </div>
               <div className="space-y-4">
                 {faqs.map((faq, index) => (
@@ -1069,10 +1069,10 @@ export default function PersonalLoanSettlementNashikPage() {
 
             {/* 5 Official Regulatory & Statutory Links */}
             <div className="bg-slate-50 border border-slate-200 rounded-2xl p-6 my-8 space-y-3">
-              <h3 className="text-base font-bold text-slate-900 flex items-center gap-2">
+              <h4 className="text-base font-bold text-slate-900 flex items-center gap-2">
                 <Landmark className="w-5 h-5 text-[#1F5EFF]" />
                 <span>Official Statutory &amp; Regulatory References</span>
-              </h3>
+              </h4>
               <ul className="space-y-2.5 text-xs sm:text-sm text-slate-600">
                 <li className="flex items-start gap-2">
                   <ExternalLink className="w-4 h-4 text-[#1F5EFF] flex-shrink-0 mt-0.5" />
@@ -1134,10 +1134,10 @@ export default function PersonalLoanSettlementNashikPage() {
 
             {/* 10 Related Guide Badges */}
             <div className="bg-slate-50 border border-slate-200 rounded-2xl p-6 my-8">
-              <h3 className="text-base font-bold text-slate-900 mb-4 flex items-center gap-2">
+              <h4 className="text-base font-bold text-slate-900 mb-4 flex items-center gap-2">
                 <BookOpen className="w-5 h-5 text-[#1F5EFF]" />
                 <span>Explore Related Banking &amp; Debt Resolution Guides</span>
-              </h3>
+              </h4>
               <div className="flex flex-wrap gap-2.5">
                 <Link
                   href="/bank-one-time-settlement-ots-policy"

@@ -539,9 +539,9 @@ export default function LoanSettlementSalariedVsSelfEmployedPage() {
 
             {/* Section 2: Statutory Protections & Wage Laws */}
             <section id="statutory-protections-cpc60" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                 2. Statutory Legal Protections: Section 60 CPC Wage Shields vs. Commercial Entity Exposure
-              </h2>
+              </h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 A critical strategic divide between salaried professionals and self-employed business owners lies in the statutory recovery protections codified under Indian civil jurisprudence. Salaried borrowers enjoy robust legislative shields enacted to prevent total destitution during debt recovery, whereas commercial entities face aggressive multi-statute recovery mechanisms.
               </p>
@@ -588,9 +588,9 @@ export default function LoanSettlementSalariedVsSelfEmployedPage() {
 
             {/* Section 3: Hardship Documentation Matrix */}
             <section id="insolvency-documentation-matrix" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                 3. Proving Hardship &amp; Financial Insolvency: Documentation Comparison Matrix
-              </h2>
+              </h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 The single most decisive factor determining the success and magnitude of a loan settlement is the quality of the financial hardship dossier presented to the bank&apos;s credit committee. Verbal pleas of poverty or generic claims of recession are universally rejected. The borrower must submit documented, third-party verifiable evidence tailored to their employment classification.
               </p>
@@ -641,9 +641,9 @@ export default function LoanSettlementSalariedVsSelfEmployedPage() {
 
             {/* Section 4: Bank NPA Accounting & NPV Equation */}
             <section id="npa-accounting-npv-formula" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                 4. Bank Balance Sheet Accounting, NPA Provisioning &amp; The Net Present Value (NPV) Equation
-              </h2>
+              </h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 To master settlement negotiations, one must grasp how banks account for delinquent loans under Reserve Bank of India Master Directions on Prudential Norms on Income Recognition, Asset Classification and Provisioning. When an unsecured loan crosses 90 days of non-payment, it is classified as a <strong>Non-Performing Asset (NPA)</strong>. Overdue aging dictates mandatory capital provisioning that directly erodes the lender&apos;s profitability:
               </p>
@@ -696,9 +696,9 @@ export default function LoanSettlementSalariedVsSelfEmployedPage() {
 
             {/* Section 5: Infographic Banner */}
             <section id="comparative-visual-roadmap" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                 5. Salaried vs. Self-Employed Loan Settlement Visual Architecture
-              </h2>
+              </h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 The visual infographic below contrasts the dual-track institutional pathways for debt resolution in India: comparing the salaried track (payslips, Form 16, Section 60 CPC, 45%–60% haircut) against the self-employed track (ITR balance sheets, GST surrender, insolvency dossier, 50%–70% haircut).
               </p>
@@ -729,9 +729,9 @@ export default function LoanSettlementSalariedVsSelfEmployedPage() {
 
             {/* Section 6: Negotiation Tactics & Haircut Benchmarks */}
             <section id="negotiation-haircut-benchmarks" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                 6. Negotiation Strategies &amp; Haircut Benchmarks: Maximizing Debt Relief
-              </h2>
+              </h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Securing an optimal settlement requires executing a structured, advocate-led negotiation strategy rather than pleading with local branch recovery officers. The haircut percentage—the portion of the outstanding balance formally waived by the bank—varies significantly based on employment category and negotiation execution.
               </p>
@@ -770,29 +770,29 @@ export default function LoanSettlementSalariedVsSelfEmployedPage() {
 
             {/* Section 7: Legal Coercion & Countermeasures */}
             <section id="legal-coercion-countermeasures" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                 7. Countering Legal Coercion: Salary Account Freezes vs. DRT &amp; Section 138 Actions
-              </h2>
+              </h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 When borrowers default, lenders frequently deploy aggressive recovery tactics to pressure debtors into borrowing from informal sources. The nature of these coercive measures differs fundamentally between salaried and self-employed individuals, requiring distinct legal defense countermeasures.
               </p>
 
               <div className="space-y-3 my-4">
                 <div className="p-4 rounded-xl border-l-4 border-blue-500 bg-slate-50 space-y-1">
-                  <h3 className="font-bold text-slate-900 text-xs sm:text-sm flex items-center gap-1.5">
+                  <h4 className="font-bold text-slate-900 text-xs sm:text-sm flex items-center gap-1.5">
                     <ShieldAlert className="w-4 h-4 text-blue-600" />
                     <span>Salaried Defense: Illegal Salary Account Freezes &amp; Workplace Intimidation</span>
-                  </h3>
+                  </h4>
                   <p className="text-xs text-slate-600 leading-relaxed">
                     Banks hosting a salaried borrower&apos;s payroll account frequently place unauthorized debit freezes or balance sweeps. Advocates immediately invoke Section 60 CPC wage exemptions, submit formal branch objections, instruct HR to divert future salary credits to an unaffected institution, and escalate arbitrary set-off violations to the RBI Banking Ombudsman under the Integrated Ombudsman Scheme, 2021.
                   </p>
                 </div>
 
                 <div className="p-4 rounded-xl border-l-4 border-indigo-500 bg-slate-50 space-y-1">
-                  <h4 className="font-bold text-slate-900 text-xs sm:text-sm flex items-center gap-1.5">
+                  <h5 className="font-bold text-slate-900 text-xs sm:text-sm flex items-center gap-1.5">
                     <Gavel className="w-4 h-4 text-indigo-600" />
                     <span>Self-Employed Defense: Section 138 NI Act &amp; DRT Original Applications</span>
-                  </h4>
+                  </h5>
                   <p className="text-xs text-slate-600 leading-relaxed">
                     For business defaults, lenders aggressively file criminal complaints under Section 138 of the Negotiable Instruments Act for bounced security cheques and NACH mandate rejections. Advocates appear in the jurisdictional Magistrate Court to secure prompt personal bail, file formal defense replies under Section 139 NI Act challenging the legally enforceable debt quantum, and simultaneously initiate compromise settlement discussions at the National Lok Adalat or High Court mediation centers.
                   </p>
@@ -806,9 +806,9 @@ export default function LoanSettlementSalariedVsSelfEmployedPage() {
 
             {/* Section 8: Sanction Letter Forensics & RBI NDC Mandate */}
             <section id="sanction-forensics-rbi-ndc" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                 8. Sanction Letter Forensics, Direct Remittance, RBI ₹0 NDC Mandate &amp; CIBIL Trajectory
-              </h2>
+              </h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 A critical vulnerability during loan settlement is falling prey to fraudulent settlement offers issued by third-party recovery agencies attempting to meet recovery quotas. Disbursing funds against an unverified WhatsApp letter or informal email will result in the payment being credited as a regular overdue adjustment rather than a full debt extinguishment.
               </p>
@@ -836,9 +836,9 @@ export default function LoanSettlementSalariedVsSelfEmployedPage() {
                 </p>
               </div>
 
-              <h3 className="text-base sm:text-lg font-bold text-slate-900 pt-2">
+              <h4 className="text-base sm:text-lg font-bold text-slate-900 pt-2">
                 Credit Score Trajectory &amp; Rebuilding Protocols
-              </h3>
+              </h4>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Post-settlement, the credit bureau status reflects <strong>&quot;Settled&quot;</strong> or <strong>&quot;Post-Write-Off Settled&quot;</strong> with a current balance of ₹0. While this causes an immediate credit score contraction of 75 to 120 points, it halts cascading 90+ DPD default accumulation. Salaried borrowers can systematically restore their CIBIL score to 750+ within 18 to 24 months by securing a fixed-deposit-backed credit card, maintaining credit utilization below 30%, and ensuring zero missed payments. Self-employed borrowers can re-establish commercial creditworthiness by maintaining pristine operational banking with an alternate institution.
               </p>
@@ -846,9 +846,9 @@ export default function LoanSettlementSalariedVsSelfEmployedPage() {
 
             {/* Section 9: Comprehensive Comparative Matrix */}
             <section id="comparative-matrix-breakdown" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                 9. Comprehensive Comparative Matrix: Salaried vs. Self-Employed Settlement Blueprint
-              </h2>
+              </h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 The strategic matrix below summarizes the operational, legal, and financial differences between salaried and self-employed debt settlement under Indian banking regulations:
               </p>
@@ -906,9 +906,9 @@ export default function LoanSettlementSalariedVsSelfEmployedPage() {
             {/* Section 10: SettleLoans Legal Defense & Advisory + CompanySection */}
             <section id="company-resolution-section" className="space-y-6">
               <div className="border-t border-slate-200 pt-8 space-y-4">
-                <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
+                <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                   10. SettleLoans Legal Defense &amp; Institutional Debt Settlement Advisory
-                </h2>
+                </h3>
                 <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                   Navigating the complexities of bank loan settlement requires specialized legal acumen, thorough documentation forensics, and institutional negotiation experience. SettleLoans provides end-to-end legal representation for both salaried professionals and self-employed business owners across India. Our banking advocates build unassailable hardship dossiers, halt recovery harassment, protect against unlawful salary freezes, represent borrowers in Section 138 NI Act proceedings, and negotiate directly with bank credit committees to secure 45% to 70% principal waivers backed by official, bank-stamped No Dues Certificates.
                 </p>
@@ -922,9 +922,9 @@ export default function LoanSettlementSalariedVsSelfEmployedPage() {
             <section id="faqs" className="space-y-4 border-t border-slate-200 pt-8">
               <div className="flex items-center gap-2 mb-2">
                 <HelpCircle className="w-5 h-5 text-[#1F5EFF]" />
-                <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
+                <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                   11. Frequently Asked Questions: Salaried vs. Self-Employed Loan Settlement
-                </h2>
+                </h3>
               </div>
               <p className="text-xs sm:text-sm text-slate-600 mb-6">
                 Direct, legally verified answers to critical questions regarding loan settlement rules, documentation standards, legal protections, and haircut optimization in India.
@@ -954,9 +954,9 @@ export default function LoanSettlementSalariedVsSelfEmployedPage() {
 
             {/* 5 Official Regulatory Links */}
             <section className="border-t border-slate-200 pt-8 mb-4">
-              <h3 className="text-xs sm:text-sm font-bold text-slate-900 mb-3 uppercase tracking-wider">
+              <h4 className="text-xs sm:text-sm font-bold text-slate-900 mb-3 uppercase tracking-wider">
                 Official Statutory &amp; Regulatory References
-              </h3>
+              </h4>
               <div className="grid grid-cols-1 sm:grid-cols-2 gap-2.5 text-xs">
                 <a
                   href="https://indiacode.gov.in/handle/123456789/2191"
@@ -1008,9 +1008,9 @@ export default function LoanSettlementSalariedVsSelfEmployedPage() {
 
             {/* 10 Related Guide Badges */}
             <section className="border-t border-slate-200 pt-8 mb-8">
-              <h3 className="text-xs sm:text-sm font-bold text-slate-900 mb-4 uppercase tracking-wider">
+              <h4 className="text-xs sm:text-sm font-bold text-slate-900 mb-4 uppercase tracking-wider">
                 Related Legal Defense &amp; Loan Resolution Guides
-              </h3>
+              </h4>
               <div className="flex flex-wrap gap-2">
                 <Link
                   href="/bank-freeze-salary-account-loan-default"

@@ -272,14 +272,14 @@ export default function TenLakhsLoanSettlementPage() {
                         </section>
 
                         <section id="bank-internal" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
                                 Inside the Machine: The Committee Structure for 10 Lakhs
-                            </h2>
+                            </h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 Unlike smaller loans where a branch manager might have some discretion, a 10 lakh loan settlement is almost always decided by a 'Settlement Committee' or 'Credit Committee' at the regional or zonal level. This committee operates on data and policy, not emotion. Understanding their internal metrics is the first step to a successful offer.
                             </p>
                             <div className="bg-gray-50 p-8 rounded-xl border border-gray-200 mb-8">
-                                <h3 className="text-xl font-bold mb-6">The Committee's Decision Matrix</h3>
+                                <h4 className="text-xl font-bold mb-6">The Committee's Decision Matrix</h4>
                                 <p className="mb-6 text-sm text-gray-600">
                                     When your file reaches the committee, they evaluate several factors before approving a write-off. Positioning your case to align with these metrics is vital.
                                 </p>
@@ -316,9 +316,9 @@ export default function TenLakhsLoanSettlementPage() {
                         </section>
 
                         <section id="hardship-proof" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
                                 The Hardship Portfolio: Proving Your Case for 10 Lakhs
-                            </h2>
+                            </h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 At the 10 lakh level, a simple letter isn't enough. You need a comprehensive portfolio that documents your financial descent. This portfolio serves as the evidence for the bank's internal auditors.
                             </p>
@@ -326,21 +326,21 @@ export default function TenLakhsLoanSettlementPage() {
                                 <div className="bg-white p-6 rounded-xl border border-[#DEDEDE] shadow-sm flex gap-6 items-start">
                                     <div className="w-12 h-12 bg-blue-100 rounded-full flex items-center justify-center shrink-0 font-bold text-blue-600">01</div>
                                     <div>
-                                        <h3 className="font-bold text-[#2E2E2E] mb-2 text-xl">Employment and Business Documentation</h3>
+                                        <h4 className="font-bold text-[#2E2E2E] mb-2 text-xl">Employment and Business Documentation</h4>
                                         <p className="text-sm text-gray-600">Provide termination letters, redundancy notices, or business ledger copies showing sustained losses. If you have moved to a much lower-paying job, provide the new appointment letter and salary slips to demonstrate the drastic drop in repaying capacity.</p>
                                     </div>
                                 </div>
                                 <div className="bg-white p-6 rounded-xl border border-[#DEDEDE] shadow-sm flex gap-6 items-start">
                                     <div className="w-12 h-12 bg-red-100 rounded-full flex items-center justify-center shrink-0 font-bold text-red-600">02</div>
                                     <div>
-                                        <h4 className="font-bold text-[#2E2E2E] mb-2 text-xl">Medical and Life Event Records</h4>
+                                        <h5 className="font-bold text-[#2E2E2E] mb-2 text-xl">Medical and Life Event Records</h5>
                                         <p className="text-sm text-gray-600">Extensive hospital bills, discharge summaries, and ongoing medication costs for yourself or immediate dependents are powerful proof of hardship. Banks are particularly sensitive to medical-induced defaults and often offer more compassionate settlement terms in these cases.</p>
                                     </div>
                                 </div>
                                 <div className="bg-white p-6 rounded-xl border border-[#DEDEDE] shadow-sm flex gap-6 items-start">
                                     <div className="w-12 h-12 bg-purple-100 rounded-full flex items-center justify-center shrink-0 font-bold text-purple-600">03</div>
                                     <div>
-                                        <h4 className="font-bold text-[#2E2E2E] mb-2 text-xl">Comparative Financial Statements</h4>
+                                        <h5 className="font-bold text-[#2E2E2E] mb-2 text-xl">Comparative Financial Statements</h5>
                                         <p className="text-sm text-gray-600">Bank statements from the last 6-12 months are mandatory. They should clearly show the lack of liquidity, numerous bounced cheque entries (if any), and the absence of any luxury spending. This proves that your default is a necessity, not a choice.</p>
                                     </div>
                                 </div>
@@ -348,11 +348,11 @@ export default function TenLakhsLoanSettlementPage() {
                         </section>
 
                         <section id="negotiation-phase" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">Mastering the Negotiation: Strategic High-Value Tactics</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">Mastering the Negotiation: Strategic High-Value Tactics</h3>
                             <p className="text-lg leading-relaxed mb-6">Negotiating a 10 lakh debt requires a multi-layered strategy. It is a marathon of communication where the person who stays calmest and best-informed usually wins.</p>
                             <div className="space-y-8">
                                 <div className="bg-white p-8 rounded-2xl border border-[#DEDEDE] shadow-sm">
-                                    <h3 className="text-2xl font-bold text-[#1F5EFF] mb-4">Leveraging 'Professional Advocacy'</h3>
+                                    <h4 className="text-2xl font-bold text-[#1F5EFF] mb-4">Leveraging 'Professional Advocacy'</h4>
                                     <p className="mb-4">
                                         In a 10 lakh negotiation, the bank's tone shifts when they realize you have professional representation. A legal firm or a recognized debt consultancy speaking on your behalf signals that you are taking the situation seriously and that zero-sum recovery tactics won't work. It forces the bank to move the file to their 'Legal & Settlement' desk rather than keeping it with the local 'Recovery' desk.
                                     </p>
@@ -362,7 +362,7 @@ export default function TenLakhsLoanSettlementPage() {
                                 </div>
 
                                 <div className="bg-white p-8 rounded-2xl border border-[#DEDEDE] shadow-sm">
-                                    <h3 className="text-2xl font-bold text-[#1F5EFF] mb-4">The 'Staggered Settlement' Strategy</h3>
+                                    <h4 className="text-2xl font-bold text-[#1F5EFF] mb-4">The 'Staggered Settlement' Strategy</h4>
                                     <p className="mb-4">
                                         While banks prefer a single lump sum, they are often more flexible for large amounts like 10 lakhs. We have a high success rate in negotiating staggered settlements. This involves paying, for example, 5 lakhs in three installments over 90 days.
                                     </p>
@@ -372,7 +372,7 @@ export default function TenLakhsLoanSettlementPage() {
                                 </div>
 
                                 <div className="bg-white p-8 rounded-2xl border border-[#DEDEDE] shadow-sm">
-                                    <h3 className="text-2xl font-bold text-[#1F5EFF] mb-4">Focusing on the 'Principal Recovery'</h3>
+                                    <h4 className="text-2xl font-bold text-[#1F5EFF] mb-4">Focusing on the 'Principal Recovery'</h4>
                                     <p className="mb-4">
                                         Banks have internal targets to recover at least the 'Principal' amount. In your 10 lakh debt, if the principal was 7 lakhs and interest/penalties make up the rest, an offer that covers a substantial part of that 7 lakhs is much more likely to be accepted. Always present your offer in terms of 'Principal Coverage' to align with the bank's internal recovery metrics.
                                     </p>
@@ -381,19 +381,19 @@ export default function TenLakhsLoanSettlementPage() {
                         </section>
 
                         <section id="secured-vs-unsecured" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Secured vs. Unsecured: How the Type of Debt Changes Your 10 Lakh Strategy</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Secured vs. Unsecured: How the Type of Debt Changes Your 10 Lakh Strategy</h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 At the 10 lakh level, whether your loan is secured or unsecured completely changes your legal standing and your settlement leverage.
                             </p>
                             <div className="space-y-8">
                                 <div className="bg-white p-8 rounded-2xl border border-[#DEDEDE] shadow-sm">
-                                    <h3 className="text-2xl font-bold text-[#2E2E2E] mb-4">Unsecured Personal Loans and Credit Cards</h3>
+                                    <h4 className="text-2xl font-bold text-[#2E2E2E] mb-4">Unsecured Personal Loans and Credit Cards</h4>
                                     <p className="mb-4 text-gray-700">
                                         This is where you have the most leverage. For an unsecured debt, the bank has no collateral to seize. Their only recourse is to file a civil suit, which in the Indian legal system can take a decade. Recognizing this, banks are highly motivated to settle unsecured debts, often accepting as little as 35-50% of the total dues after a year of default.
                                     </p>
                                 </div>
                                 <div className="bg-white p-8 rounded-2xl border border-[#DEDEDE] shadow-sm border-l-4 border-l-[#1F5EFF]">
-                                    <h3 className="text-2xl font-bold text-[#1F5EFF] mb-4">Secured Loans (LAP, Car Loans, Mortgages)</h3>
+                                    <h4 className="text-2xl font-bold text-[#1F5EFF] mb-4">Secured Loans (LAP, Car Loans, Mortgages)</h4>
                                     <p className="mb-4 text-gray-700">
                                         Here, the power dynamic shifts toward the bank because they hold an asset. Under the SARFAESI Act, banks can take possession of the asset with a relatively short notice period and without always needing a court order. Settlement for secured loans is much harder and usually involves paying the full principal plus some interest. Your focus here should be on 'Loan Restructuring' or 'Asset Sale' rather than deep-discount settlements.
                                     </p>
@@ -402,12 +402,12 @@ export default function TenLakhsLoanSettlementPage() {
                         </section>
 
                         <section id="legal-protection" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Your Legal Sanctuary: Protection Under the Shield</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Your Legal Sanctuary: Protection Under the Shield</h3>
                             <p className="mb-6">
                                 Knowledge of the law is your greatest asset. Even with a 10 lakh debt, you remain a citizen with inalienable rights. The RBI's Fair Practice Code is not a suggestion; it is a mandate.
                             </p>
                             <div className="bg-blue-50 p-8 rounded-2xl border border-blue-100 mb-8">
-                                <h3 className="text-2xl font-black text-[#2E2E2E] mb-6">High-Value Legal Protections: A Deep Dive</h3>
+                                <h4 className="text-2xl font-black text-[#2E2E2E] mb-6">High-Value Legal Protections: A Deep Dive</h4>
                                 <ul className="space-y-6">
                                     <li className="flex items-start gap-4 bg-white p-6 rounded-lg shadow-sm">
                                         <div className="w-8 h-8 rounded-full bg-blue-600 text-white flex items-center justify-center shrink-0 font-bold">1</div>
@@ -435,25 +435,25 @@ export default function TenLakhsLoanSettlementPage() {
                         </section>
 
                         <section id="legal-procedures" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">In-Depth: The 10 Lakhs Legal Journey - From Notice to Lok Adalat</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">In-Depth: The 10 Lakhs Legal Journey - From Notice to Lok Adalat</h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 When the amount involved is 10 lakhs, banks are more likely to initiate formal legal steps to exert pressure. Understanding this timeline prevents panic and allows you to negotiate from a position of strength.
                             </p>
                             <div className="space-y-8">
                                 <div className="bg-white p-8 rounded-2xl border border-[#DEDEDE] shadow-sm">
-                                    <h3 className="text-2xl font-bold text-[#2E2E2E] mb-4">1. The Section 138 Notice (If Applicable)</h3>
+                                    <h4 className="text-2xl font-bold text-[#2E2E2E] mb-4">1. The Section 138 Notice (If Applicable)</h4>
                                     <p className="mb-4 text-gray-700">
                                         If any of your EMIs or security cheques have bounced, the bank may send a notice under Section 138 of the Negotiable Instruments Act. This is a serious matter as it involves criminal liability. However, even in 138 cases, banks are almost always open to a settlement that involves closing the debt. If you receive such a notice, the first step is to respond through a lawyer and simultaneously offer a settlement.
                                     </p>
                                 </div>
                                 <div className="bg-white p-8 rounded-2xl border border-[#DEDEDE] shadow-sm">
-                                    <h3 className="text-2xl font-bold text-[#2E2E2E] mb-4">2. The Lok Adalat Invitation</h3>
+                                    <h4 className="text-2xl font-bold text-[#2E2E2E] mb-4">2. The Lok Adalat Invitation</h4>
                                     <p className="mb-4 text-gray-700">
                                         For 10 lakh defaults, you will likely receive an invitation to attend a Lok Adalat. Many borrowers fear this as a 'court summons', but it is actually a golden opportunity. Lok Adalats are designed for compromise. Judges there often push banks to accept reasonable settlement offers. Attending a Lok Adalat with a clear hardship case and a realistic lump sum offer is one of the most effective ways to close a 10 lakh debt.
                                     </p>
                                 </div>
                                 <div className="bg-white p-8 rounded-2xl border border-[#DEDEDE] shadow-sm">
-                                    <h3 className="text-2xl font-bold text-[#2E2E2E] mb-4">3. Civil Suits and Executions</h3>
+                                    <h4 className="text-2xl font-bold text-[#2E2E2E] mb-4">3. Civil Suits and Executions</h4>
                                     <p className="mb-4 text-gray-700">
                                         If the bank files a civil suit for recovery, remember that this is a process that takes years. During this period, the bank's legal costs continue to rise. This gives you prolonged leverage to negotiate. Most 10 lakh civil suits are settled mid-way through a 'Consent Decree' where you agree to a settlement amount and the bank withdraws the case.
                                     </p>
@@ -462,19 +462,19 @@ export default function TenLakhsLoanSettlementPage() {
                         </section>
 
                         <section id="reconstruction" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Rebuilding Your Financial Life After a 10 Lakh Settlement</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Rebuilding Your Financial Life After a 10 Lakh Settlement</h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 Settling a 10 lakh debt is a survival move, but rebuilding is a growth move. The 'Settled' status on your CIBIL report is a hurdle, not a wall.
                             </p>
                             <div className="grid md:grid-cols-2 gap-8 mb-12">
                                 <div className="bg-green-50 p-8 rounded-2xl border border-green-100">
-                                    <h3 className="text-xl font-bold text-green-800 mb-4">Phase 1: The 'Cooling' Period</h3>
+                                    <h4 className="text-xl font-bold text-green-800 mb-4">Phase 1: The 'Cooling' Period</h4>
                                     <p className="text-sm text-green-900/80 leading-relaxed mb-4">
                                         For the first 12-18 months after settlement, do not apply for any new credit. Every rejection further damages your score. Focus on maintaining a healthy bank balance and ensuring no other bills (utilities, phone, etc.) go unpaid. This creates a fresh window of financial discipline in your history.
                                     </p>
                                 </div>
                                 <div className="bg-blue-50 p-8 rounded-2xl border border-blue-100">
-                                    <h3 className="text-xl font-bold text-blue-800 mb-4">Phase 2: Micro-Credit Building</h3>
+                                    <h4 className="text-xl font-bold text-blue-800 mb-4">Phase 2: Micro-Credit Building</h4>
                                     <p className="text-sm text-blue-900/80 leading-relaxed">
                                         Once the cooling period is over, start with a 'Secured Credit Card' against a small Fixed Deposit (FD). Use only 20% of the limit and pay it in full every month. This 'positive reporting' slowly starts to dilute the impact of the old 10 lakh settlement. Within 2-3 years of consistent discipline, your score can return to the 700+ range.
                                     </p>
@@ -483,14 +483,14 @@ export default function TenLakhsLoanSettlementPage() {
                         </section>
 
                         <section id="psychological" className="scroll-mt-32 mb-12 text-center bg-gray-50 p-12 rounded-3xl border border-gray-200">
-                            <h2 className="text-3xl font-black text-[#2E2E2E] mb-6">Managing the Psychological Weight of 10 Lakhs</h2>
+                            <h3 className="text-3xl font-black text-[#2E2E2E] mb-6">Managing the Psychological Weight of 10 Lakhs</h3>
                             <p className="text-lg text-gray-600 max-w-3xl mx-auto leading-relaxed italic">
                                 "A debt of 10 lakhs can feel like you are carrying a building on your shoulders. It affects your sleep, your relationships, and your focus at work. We want you to know that your value as a human being is not tied to your credit score. Settling this debt is not just a financial transaction; it's an act of self-care. It's the moment you decide to stop living in the past and start building a future."
                             </p>
                         </section>
 
                         <section id="success-narratives" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 text-center">10 Lakh Settlement Success Stories</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 text-center">10 Lakh Settlement Success Stories</h3>
                             <div className="grid md:grid-cols-2 gap-6 not-prose">
                                 {[
                                     {
@@ -528,7 +528,7 @@ export default function TenLakhsLoanSettlementPage() {
                                                 {review.name.charAt(0)}
                                             </div>
                                             <div>
-                                                <h3 className="font-bold text-[#2E2E2E]">{review.name}</h3>
+                                                <h4 className="font-bold text-[#2E2E2E]">{review.name}</h4>
                                                 <p className="text-xs text-gray-400">{review.loc}</p>
                                             </div>
                                             <div className="ml-auto text-yellow-400 text-sm">★★★★★</div>
@@ -543,7 +543,7 @@ export default function TenLakhsLoanSettlementPage() {
                         </section>
 
                         <section id="faqs" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Frequently Asked Questions for 10 Lakhs</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Frequently Asked Questions for 10 Lakhs</h3>
                             <div className="space-y-4 not-prose">
                                 {[
                                     { q: "Can I settle a 10 lakh loan for 3 lakhs?", a: "While possible in extreme cases of total insolvency, 3 lakhs (30%) is very low for a 10 lakh loan. A more realistic range is 40% to 55%, unless you have exceptional hardship proof." },

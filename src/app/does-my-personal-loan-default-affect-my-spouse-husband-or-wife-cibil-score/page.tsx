@@ -281,25 +281,25 @@ export default function SpouseCibilScorePage() {
           </section>
 
           <section id="credit-files-separation" className="scroll-mt-32 mb-16">
-            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">Strict Separation of Individual Credit Files</h2>
+            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">Strict Separation of Individual Credit Files</h3>
             <p className="text-lg leading-relaxed mb-6">
               The most important concept to understand regarding <strong>individual loan liability in marriage</strong> is that CIBIL and other credit bureaus maintain completely separate files for every individual. 
             </p>
             <div className="grid md:grid-cols-2 gap-6 my-8">
               <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
-                <h3 className="font-black text-[#1F5EFF] mb-3 text-lg">Individual PAN Cards</h3>
+                <h4 className="font-black text-[#1F5EFF] mb-3 text-lg">Individual PAN Cards</h4>
                 <p className="text-sm leading-relaxed">Credit histories are mapped to PAN numbers. Since you and your spouse have different PAN cards, your credit histories remain isolated.</p>
               </div>
               <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
-                <h4 className="font-black text-[#1F5EFF] mb-3 text-lg">No Joint CIBIL Score</h4>
+                <h5 className="font-black text-[#1F5EFF] mb-3 text-lg">No Joint CIBIL Score</h5>
                 <p className="text-sm leading-relaxed">There is no such thing as a "family CIBIL score." Your default cannot legally be reported on your partner's individual credit file.</p>
               </div>
               <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
-                <h4 className="font-black text-[#1F5EFF] mb-3 text-lg">Future Loan Prospects</h4>
+                <h5 className="font-black text-[#1F5EFF] mb-3 text-lg">Future Loan Prospects</h5>
                 <p className="text-sm leading-relaxed">If you default, your spouse can still apply for their own loans or credit cards independently without any issues.</p>
               </div>
               <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
-                <h4 className="font-black text-[#1F5EFF] mb-3 text-lg">Reference Numbers</h4>
+                <h5 className="font-black text-[#1F5EFF] mb-3 text-lg">Reference Numbers</h5>
                 <p className="text-sm leading-relaxed">Even if you provided your spouse's number as an emergency reference, it does not link their credit profile to your loan.</p>
               </div>
             </div>
@@ -311,7 +311,7 @@ export default function SpouseCibilScorePage() {
           </section>
 
           <section id="when-spouse-liable" className="scroll-mt-32 mb-16">
-            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">When Can a Spouse Be Held Liable?</h2>
+            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">When Can a Spouse Be Held Liable?</h3>
             <p className="text-lg leading-relaxed mb-8">
               While individual unsecured loans (like personal loans and credit cards) do not affect your spouse, there are specific scenarios where their CIBIL score <em>will</em> be impacted:
             </p>
@@ -319,28 +319,28 @@ export default function SpouseCibilScorePage() {
               <div className="flex gap-6">
                 <div className="flex-shrink-0 w-12 h-12 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center font-black text-xl shadow-lg">1</div>
                 <div>
-                  <h3 className="text-xl font-black text-[#2E2E2E] mb-2">Co-Applicants</h3>
+                  <h4 className="text-xl font-black text-[#2E2E2E] mb-2">Co-Applicants</h4>
                   <p className="text-gray-600 leading-relaxed">If your spouse signed as a co-applicant on the loan (common in home loans), they share equal responsibility. A default will damage both CIBIL scores equally.</p>
                 </div>
               </div>
               <div className="flex gap-6">
                 <div className="flex-shrink-0 w-12 h-12 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center font-black text-xl shadow-lg">2</div>
                 <div>
-                  <h3 className="text-xl font-black text-[#2E2E2E] mb-2">Financial Guarantors</h3>
+                  <h4 className="text-xl font-black text-[#2E2E2E] mb-2">Financial Guarantors</h4>
                   <p className="text-gray-600 leading-relaxed">If your spouse signed as a legal guarantor, they have legally promised to repay the loan if you cannot. The default will heavily impact their credit score.</p>
                 </div>
               </div>
               <div className="flex gap-6">
                 <div className="flex-shrink-0 w-12 h-12 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center font-black text-xl shadow-lg">3</div>
                 <div>
-                  <h3 className="text-xl font-black text-[#2E2E2E] mb-2">Joint Credit Cards</h3>
+                  <h4 className="text-xl font-black text-[#2E2E2E] mb-2">Joint Credit Cards</h4>
                   <p className="text-gray-600 leading-relaxed">In the case of joint credit cards, the default is reported against both primary holders. However, mere "add-on" cardholders generally do not bear the primary liability.</p>
                 </div>
               </div>
             </div>
             
             <div id="joint-applications" className="bg-red-50 p-6 rounded-xl border border-red-100 mt-8 mb-8 scroll-mt-32">
-               <h4 className="text-lg font-bold text-red-700 mb-3">Warning on Joint Applications</h4>
+               <h5 className="text-lg font-bold text-red-700 mb-3">Warning on Joint Applications</h5>
                <p className="text-sm text-red-900 leading-relaxed italic">
                  If you have a defaulted individual loan, do not apply for a new joint loan with your spouse (e.g., a joint home loan). Your poor CIBIL score will pull down the application and cause a rejection, even if their score is perfect.
                </p>
@@ -348,12 +348,12 @@ export default function SpouseCibilScorePage() {
           </section>
 
           <section id="recovery-harassment" className="scroll-mt-32 mb-16">
-            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">Is the Bank Calling Your Spouse for Your Loan?</h2>
+            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">Is the Bank Calling Your Spouse for Your Loan?</h3>
             <p className="text-lg leading-relaxed mb-6">
               A common and highly illegal tactic used by recovery agencies is calling a borrower's spouse, parents, or employer to shame them into paying. If a <strong>bank is calling your spouse for your loan</strong> (and they are not a co-applicant), it is a severe violation of RBI guidelines.
             </p>
             <div id="legal-protections" className="bg-blue-50 border-l-8 border-[#1F5EFF] p-8 rounded-r-2xl mb-8 scroll-mt-32">
-              <h3 className="text-xl font-black text-[#1F5EFF] mb-4">Your Legal Protections Under RBI Rules:</h3>
+              <h4 className="text-xl font-black text-[#1F5EFF] mb-4">Your Legal Protections Under RBI Rules:</h4>
               <ul className="space-y-4 text-blue-900 font-medium">
                 <li className="flex items-start gap-3">
                    <div className="mt-1.5 w-2 h-2 rounded-full bg-[#1F5EFF] flex-shrink-0"></div>
@@ -377,9 +377,9 @@ export default function SpouseCibilScorePage() {
           </section>
 
           <section id="reviews" className="scroll-mt-32 mb-16">
-            <h2 className="text-3xl md:text-5xl font-black text-[#2E2E2E] mb-12 text-center">
+            <h3 className="text-3xl md:text-5xl font-black text-[#2E2E2E] mb-12 text-center">
               Stories of <span className="text-[#1F5EFF]">Hope</span>
-            </h2>
+            </h3>
             <div className="grid md:grid-cols-2 gap-8">
               {[
                 { 
@@ -417,7 +417,7 @@ export default function SpouseCibilScorePage() {
                       {review.name.charAt(0)}
                     </div>
                     <div>
-                      <h3 className="font-black text-[#2E2E2E]">{review.name}</h3>
+                      <h4 className="font-black text-[#2E2E2E]">{review.name}</h4>
                       <p className="text-xs text-[#747474] font-bold uppercase tracking-wider">{review.loc}</p>
                     </div>
                     <div className="ml-auto flex text-yellow-400">
@@ -443,7 +443,7 @@ export default function SpouseCibilScorePage() {
           </section>
 
           <section id="faqs" className="scroll-mt-32 mb-16">
-            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">Frequently Asked Questions</h2>
+            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">Frequently Asked Questions</h3>
             <div className="space-y-4">
               {[
                 { q: "Does husband loan default affect wife CIBIL in India?", a: "No, a husband's individual loan default does not affect his wife's CIBIL score in India unless she is a co-applicant or guarantor on that specific loan." },
@@ -458,7 +458,7 @@ export default function SpouseCibilScorePage() {
                 { q: "Does a joint bank account make my spouse liable?", a: "Having a joint savings account does not make your spouse liable for an individual personal loan, though the bank may try to set off funds if the loan account is linked to it." }
               ].map((faq, i) => (
                 <div key={i} className="bg-white border border-[#DEDEDE] rounded-xl p-6 hover:shadow-md transition-shadow">
-                  <h3 className="font-black text-[#2E2E2E] text-lg mb-3">{i+1}. {faq.q}</h3>
+                  <h4 className="font-black text-[#2E2E2E] text-lg mb-3">{i+1}. {faq.q}</h4>
                   <p className="text-gray-600 leading-relaxed">{faq.a}</p>
                 </div>
               ))}
@@ -467,7 +467,7 @@ export default function SpouseCibilScorePage() {
 
           <div className="bg-[#2E2E2E] text-white p-12 rounded-[40px] text-center mt-24 relative overflow-hidden group">
              <div className="absolute inset-0 bg-[#1F5EFF] opacity-0 group-hover:opacity-5 transition-opacity"></div>
-             <h3 className="text-3xl md:text-5xl font-black mb-6 relative z-10">Protect Your Family from Harassment</h3>
+             <h4 className="text-3xl md:text-5xl font-black mb-6 relative z-10">Protect Your Family from Harassment</h4>
              <p className="text-xl opacity-80 mb-10 max-w-2xl mx-auto relative z-10">
                Are recovery agents threatening your husband or wife for a loan taken only in your name? Get immediate legal intervention to stop them from harassing your spouse.
              </p>

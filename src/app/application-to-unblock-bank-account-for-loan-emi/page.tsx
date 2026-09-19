@@ -261,34 +261,34 @@ export default function UnblockBankAccountPage() {
             </section>
 
             <section id="the-domino-effect" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 The Domino Effect on Your Finances
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 A sudden debit freeze doesn't just stop one transaction; it creates a chain reaction that can damage your financial reputation across all institutions for years. When the bank arbitrarily blocks your funds, they are intentionally manufacturing a multi-layered crisis.
               </p>
               
               <div className="grid md:grid-cols-2 gap-6 my-8">
                 <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
-                  <h3 className="font-black text-[#1F5EFF] text-lg mb-3">Cascading EMI Bounces</h3>
+                  <h4 className="font-black text-[#1F5EFF] text-lg mb-3">Cascading EMI Bounces</h4>
                   <p className="text-gray-700 leading-relaxed">
                     If your salary account is blocked, every ECS or NACH mandate tied to that account will fail. Your home loan, car loan, and educational loans will register as defaults, even if you had sufficient balance in the account to clear them.
                   </p>
                 </div>
                 <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
-                  <h4 className="font-black text-[#1F5EFF] text-lg mb-3">Severe Penalty Accumulation</h4>
+                  <h5 className="font-black text-[#1F5EFF] text-lg mb-3">Severe Penalty Accumulation</h5>
                   <p className="text-gray-700 leading-relaxed">
                     For every bounced mandate, you are hit with bounce charges by your bank, and late payment penalties by the receiving lender. Over a span of just a few weeks, these arbitrary fees can accumulate into thousands of rupees.
                   </p>
                 </div>
                 <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
-                  <h4 className="font-black text-[#1F5EFF] text-lg mb-3">Rapid CIBIL Destruction</h4>
+                  <h5 className="font-black text-[#1F5EFF] text-lg mb-3">Rapid CIBIL Destruction</h5>
                   <p className="text-gray-700 leading-relaxed">
                     Multiple missed payments reported simultaneously to credit bureaus will cause your CIBIL score to nosedive. A drop of 100-150 points is common in a single month of a frozen account scenario, locking you out of future credit.
                   </p>
                 </div>
                 <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
-                  <h4 className="font-black text-[#1F5EFF] text-lg mb-3">Check Bounce Litigation</h4>
+                  <h5 className="font-black text-[#1F5EFF] text-lg mb-3">Check Bounce Litigation</h5>
                   <p className="text-gray-700 leading-relaxed">
                     If post-dated cheques (PDCs) are presented while your account is frozen, they will bounce. This exposes you to potential criminal litigation under Section 138 of the Negotiable Instruments Act by third-party lenders.
                   </p>
@@ -297,9 +297,9 @@ export default function UnblockBankAccountPage() {
             </section>
 
             <section id="understanding-your-rights" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 Understanding Your Legal Rights: The "Lien" Loophole
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 Many banks falsely claim they are exercising their "Right of General Lien" or "Right of Set-Off" to freeze your entire account. While a bank can debit an overdue EMI if you have a mandate, an absolute freeze that halts all operations without a court order or statutory notice (like Income Tax or Police) is highly irregular and legally questionable.
               </p>
@@ -314,7 +314,7 @@ export default function UnblockBankAccountPage() {
               </div>
               
               <div className="bg-red-50 p-6 rounded-xl border border-red-100 mb-8">
-                <h3 className="text-xl font-black text-red-700 mb-3">WARNING: Do Not Ignore Bouncing EMIs</h3>
+                <h4 className="text-xl font-black text-red-700 mb-3">WARNING: Do Not Ignore Bouncing EMIs</h4>
                 <p className="text-red-900 leading-relaxed">
                   If your account is frozen, any ECS or NACH mandate for other loans will bounce, attracting heavy penalties. You must urgently submit a request to <strong>unblock account for EMI payment</strong> to protect your credit profile from collateral damage. Sitting idle will only signal to the bank that their coercive tactics are working.
                 </p>
@@ -322,22 +322,22 @@ export default function UnblockBankAccountPage() {
             </section>
 
             <section id="legal-vs-illegal-freeze" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 Legal vs. Illegal Account Freezes
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 It is crucial to understand whether the freeze on your account has legal standing. Not all freezes are illegal, but those executed merely to strong-arm you into paying an unsecured personal loan often cross the line.
               </p>
               
               <div className="bg-white p-8 border border-[#DEDEDE] rounded-2xl shadow-sm mb-8">
-                <h3 className="text-xl font-bold mb-4 text-[#2E2E2E] underline">What constitutes a LEGAL freeze?</h3>
+                <h4 className="text-xl font-bold mb-4 text-[#2E2E2E] underline">What constitutes a LEGAL freeze?</h4>
                 <ul className="text-base space-y-3 font-medium list-none text-gray-700 mb-6">
                   <li className="flex items-start gap-2"><span className="w-1.5 h-1.5 bg-[#1F5EFF] rounded-full mt-2"></span> <strong>Court Orders:</strong> A civil court or Debt Recovery Tribunal (DRT) explicitly issues a garnishee order or attachment order against your account.</li>
                   <li className="flex items-start gap-2"><span className="w-1.5 h-1.5 bg-[#1F5EFF] rounded-full mt-2"></span> <strong>Statutory Directives:</strong> The Income Tax Department, GST Department, or Enforcement Directorate issues a freeze order for tax evasion or money laundering investigations.</li>
                   <li className="flex items-start gap-2"><span className="w-1.5 h-1.5 bg-[#1F5EFF] rounded-full mt-2"></span> <strong>Cyber Cell (Police):</strong> A freeze initiated via the National Cyber Crime Reporting Portal (1930) due to suspected fraudulent funds (e.g., P2P crypto scams) entering your account.</li>
                 </ul>
                 
-                <h4 className="text-xl font-bold mb-4 text-[#2E2E2E] underline mt-8">What constitutes an ILLEGAL freeze?</h4>
+                <h5 className="text-xl font-bold mb-4 text-[#2E2E2E] underline mt-8">What constitutes an ILLEGAL freeze?</h5>
                 <ul className="text-base space-y-3 font-medium list-none text-gray-700">
                   <li className="flex items-start gap-2"><span className="w-1.5 h-1.5 bg-red-500 rounded-full mt-2"></span> <strong>Branch Level Retaliation:</strong> The branch manager blocks the account simply because you missed a credit card payment or a personal loan EMI, without sending any formal legal notice or obtaining a court order.</li>
                   <li className="flex items-start gap-2"><span className="w-1.5 h-1.5 bg-red-500 rounded-full mt-2"></span> <strong>Total Operational Blockade:</strong> Freezing an amount far exceeding the disputed EMI, completely preventing you from accessing your salary or paying for essential livelihood expenses.</li>
@@ -347,15 +347,15 @@ export default function UnblockBankAccountPage() {
             </section>
 
             <section id="application-format" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 Letter Format to Unfreeze Bank Account
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 You do not need to beg the branch manager, nor should you waste time arguing over the phone with customer care representatives who have no authority to remove the lien. You need to establish a firm paper trail. Copy and paste the following template, adjust your details, and submit it directly to the Branch Manager and the Nodal Grievance Officer.
               </p>
 
               <div className="bg-blue-50 border-l-8 border-[#1F5EFF] p-8 rounded-r-2xl mb-8">
-                <h3 className="text-xl font-black text-[#1F5EFF] mb-4">Official Application Template</h3>
+                <h4 className="text-xl font-black text-[#1F5EFF] mb-4">Official Application Template</h4>
                 <div className="text-blue-900 text-base leading-relaxed mb-4 whitespace-pre-wrap font-mono bg-white p-4 rounded border border-blue-200">
 {`To,
 The Branch Manager,
@@ -392,9 +392,9 @@ Sincerely,
             </section>
             
             <section id="why-this-format-works" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 Why This Legal Format Works
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 The drafted letter is not just a polite request; it is a structured pre-litigation warning. It meticulously highlights the legal vulnerabilities of the bank's action. By explicitly stating that the freeze lacks a "court order" or "statutory directive," you strip away the branch manager's presumed authority.
               </p>
@@ -404,13 +404,13 @@ Sincerely,
 
               <div className="grid md:grid-cols-2 gap-6 my-8">
                 <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
-                  <h3 className="font-black text-[#1F5EFF] text-lg mb-3">Keep Proof of Submission</h3>
+                  <h4 className="font-black text-[#1F5EFF] text-lg mb-3">Keep Proof of Submission</h4>
                   <p className="text-gray-700 leading-relaxed">
                     Always send the letter via Registered Post with Acknowledgment Due (RPAD) or via email to the official grievance desk. Do not hand it over locally without getting a receiving stamp and a signature from the branch official.
                   </p>
                 </div>
                 <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
-                  <h4 className="font-black text-[#1F5EFF] text-lg mb-3">Attach Evidence</h4>
+                  <h5 className="font-black text-[#1F5EFF] text-lg mb-3">Attach Evidence</h5>
                   <p className="text-gray-700 leading-relaxed">
                     Attach screenshots of the freeze message on your net banking app, your KYC documents, and proof of the other EMIs (like mandate copies or bounce SMS) that are failing due to this blockage.
                   </p>
@@ -419,9 +419,9 @@ Sincerely,
             </section>
 
             <section id="steps-to-unblock" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 Steps to Unblock Account for EMI Payment
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 Follow this exact escalation matrix if the bank branch tries to ignore your written application. Speed is of the essence to minimize damage to your credit report.
               </p>
@@ -430,7 +430,7 @@ Sincerely,
                 <div className="flex gap-6">
                   <div className="flex-shrink-0 w-12 h-12 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center font-black text-xl shadow-lg">1</div>
                   <div>
-                    <h3 className="text-2xl font-bold text-[#2E2E2E] mb-2">Submit the Application</h3>
+                    <h4 className="text-2xl font-bold text-[#2E2E2E] mb-2">Submit the Application</h4>
                     <p className="text-lg text-gray-700 leading-relaxed">
                       Use the <strong>letter format to unfreeze bank account</strong> provided above. Email it to the branch manager and the zonal customer service head simultaneously. Documenting the date of this submission is critical.
                     </p>
@@ -440,7 +440,7 @@ Sincerely,
                 <div className="flex gap-6">
                   <div className="flex-shrink-0 w-12 h-12 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center font-black text-xl shadow-lg">2</div>
                   <div>
-                    <h3 className="text-2xl font-bold text-[#2E2E2E] mb-2">Send a Legal Notice</h3>
+                    <h4 className="text-2xl font-bold text-[#2E2E2E] mb-2">Send a Legal Notice</h4>
                     <p className="text-lg text-gray-700 leading-relaxed">
                       If the branch manager replies saying "clear your dues first," hire an advocate to serve a formal legal notice for deficiency of service and illegal restriction of funds. A notice on a lawyer's letterhead escalates the issue from the branch to the bank's legal department.
                     </p>
@@ -450,7 +450,7 @@ Sincerely,
                 <div className="flex gap-6">
                   <div className="flex-shrink-0 w-12 h-12 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center font-black text-xl shadow-lg">3</div>
                   <div>
-                    <h3 className="text-2xl font-bold text-[#2E2E2E] mb-2">Escalate to RBI Ombudsman</h3>
+                    <h4 className="text-2xl font-bold text-[#2E2E2E] mb-2">Escalate to RBI Ombudsman</h4>
                     <p className="text-lg text-gray-700 leading-relaxed">
                       If 30 days pass without resolution, upload your application, the legal notice, and the bank's rejection (if any) to the RBI CMS portal. The Ombudsman takes unilateral freezes very seriously, especially if they hamper other debt repayments.
                     </p>
@@ -460,9 +460,9 @@ Sincerely,
             </section>
             
             <section id="success-stories" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 Client Success Stories
-              </h2>
+              </h3>
               <div className="grid md:grid-cols-2 gap-6 my-8">
                 <div className="bg-white p-8 rounded-[30px] border border-[#DEDEDE] shadow-sm hover:shadow-xl group transition-all">
                   <div className="flex items-center gap-4 mb-6">
@@ -470,7 +470,7 @@ Sincerely,
                       VS
                     </div>
                     <div>
-                      <h3 className="font-bold text-gray-900">Vikas S.</h3>
+                      <h4 className="font-bold text-gray-900">Vikas S.</h4>
                       <div className="flex text-yellow-400">
                         <svg className="w-4 h-4 fill-current" viewBox="0 0 20 20"><path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z"/></svg>
                         <svg className="w-4 h-4 fill-current" viewBox="0 0 20 20"><path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z"/></svg>
@@ -495,7 +495,7 @@ Sincerely,
                       NR
                     </div>
                     <div>
-                      <h4 className="font-bold text-gray-900">Neha R.</h4>
+                      <h5 className="font-bold text-gray-900">Neha R.</h5>
                       <div className="flex text-yellow-400">
                         <svg className="w-4 h-4 fill-current" viewBox="0 0 20 20"><path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z"/></svg>
                         <svg className="w-4 h-4 fill-current" viewBox="0 0 20 20"><path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z"/></svg>
@@ -517,13 +517,13 @@ Sincerely,
             </section>
 
             <section id="faqs" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 Frequently Asked Questions
-              </h2>
+              </h3>
               <div className="space-y-4">
                 {jsonLd["@graph"].find(item => item["@type"] === "FAQPage")?.mainEntity?.map((faq: any, index: number) => (
                   <div key={index} className="bg-white border border-[#DEDEDE] rounded-xl p-6 hover:shadow-md transition-shadow">
-                    <h3 className="text-xl font-bold text-[#2E2E2E] mb-3">{faq.name}</h3>
+                    <h4 className="text-xl font-bold text-[#2E2E2E] mb-3">{faq.name}</h4>
                     <p className="text-gray-700 leading-relaxed">{faq.acceptedAnswer.text}</p>
                   </div>
                 ))}
@@ -532,7 +532,7 @@ Sincerely,
 
             <div className="bg-[#2E2E2E] text-white p-12 rounded-[40px] text-center mt-24 relative overflow-hidden group">
               <div className="absolute inset-0 bg-[#1F5EFF] opacity-0 group-hover:opacity-5 transition-opacity"></div>
-              <h3 className="text-3xl font-black mb-6 relative z-10">Stop the EMI Bounce Chain Reaction</h3>
+              <h4 className="text-3xl font-black mb-6 relative z-10">Stop the EMI Bounce Chain Reaction</h4>
               <p className="text-xl opacity-90 mb-8 relative z-10 max-w-2xl mx-auto">
                 Did the bank freeze your account illegally, causing your other EMIs to bounce? Copy-paste our legal application format or get an expert legal notice drafted to get it unblocked immediately.
               </p>

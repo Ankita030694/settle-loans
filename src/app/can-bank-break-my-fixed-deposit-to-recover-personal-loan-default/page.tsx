@@ -284,7 +284,7 @@ export default function BankersRightOfSetOffPage() {
                 </div>
 
                 <div className="bg-blue-50 border-l-8 border-[#1F5EFF] p-8 rounded-r-2xl mb-8">
-                  <h3 className="text-xl font-black text-[#1F5EFF] mb-4">Crucial Conditions for Set-Off</h3>
+                  <h4 className="text-xl font-black text-[#1F5EFF] mb-4">Crucial Conditions for Set-Off</h4>
                   <ul className="space-y-3">
                     <li className="flex items-start gap-3">
                       <div className="mt-1.5 w-2 h-2 rounded-full bg-[#1F5EFF] flex-shrink-0"></div>
@@ -303,12 +303,12 @@ export default function BankersRightOfSetOffPage() {
               </section>
 
               <section id="can-they-break-fd" className="scroll-mt-32 mb-16">
-                <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+                <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                   Can a Bank Break Your Fixed Deposit to Recover a Loan?
-                </h2>
+                </h3>
                 
                 <div className="bg-red-50 p-6 rounded-xl border border-red-100 mb-8">
-                  <h3 className="text-xl font-black text-red-700 mb-4">The Harsh Reality</h3>
+                  <h4 className="text-xl font-black text-red-700 mb-4">The Harsh Reality</h4>
                   <p className="text-red-900 leading-relaxed mb-4">
                     Yes. If your <strong className="font-bold">bank broke FD for loan default</strong>, they are generally within their legal rights. A Fixed Deposit represents money the bank owes to you. If you default on an unsecured personal loan or a credit card with the same bank, they can invoke their right of set-off to liquidate the FD prematurely and adjust the proceeds against your outstanding loan.
                   </p>
@@ -319,57 +319,57 @@ export default function BankersRightOfSetOffPage() {
               </section>
 
               <section id="how-it-works" className="scroll-mt-32 mb-16">
-                <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+                <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                   How the Right Works on Different Accounts
-                </h2>
+                </h3>
                 <p className="text-lg leading-relaxed mb-6 text-[#747474]">
                   Many borrowers wonder exactly which accounts are vulnerable when they start defaulting. Here is a breakdown of how the bank views your different assets.
                 </p>
 
                 <div className="grid md:grid-cols-2 gap-6 my-8">
                   <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
-                    <h3 className="font-black text-[#1F5EFF] text-lg mb-3">Salary Accounts</h3>
+                    <h4 className="font-black text-[#1F5EFF] text-lg mb-3">Salary Accounts</h4>
                     <p className="text-[#747474] text-sm">Highly vulnerable. If you have a personal loan with the same bank where your salary is credited, they will often auto-deduct the EMI or the entire overdue amount the moment your salary drops.</p>
                   </div>
                   <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
-                    <h3 className="font-black text-[#1F5EFF] text-lg mb-3">Recurring Deposits (RDs)</h3>
+                    <h4 className="font-black text-[#1F5EFF] text-lg mb-3">Recurring Deposits (RDs)</h4>
                     <p className="text-[#747474] text-sm">Just like FDs, the accumulated balance in your RD can be prematurely closed and adjusted against a defaulted loan or a maxed-out credit card.</p>
                   </div>
                   <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
-                    <h3 className="font-black text-[#1F5EFF] text-lg mb-3">Different Banks</h3>
+                    <h4 className="font-black text-[#1F5EFF] text-lg mb-3">Different Banks</h4>
                     <p className="text-[#747474] text-sm">Safe from set-off. Bank A cannot exercise a right of set-off on a savings account you hold in Bank B without a formal court order or attachment order.</p>
                   </div>
                   <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
-                    <h3 className="font-black text-[#1F5EFF] text-lg mb-3">Credit Card Debts</h3>
+                    <h4 className="font-black text-[#1F5EFF] text-lg mb-3">Credit Card Debts</h4>
                     <p className="text-[#747474] text-sm">A credit card from a bank is treated as an unsecured loan. Defaulting on it gives the bank full rights to freeze your savings accounts held in the same bank.</p>
                   </div>
                 </div>
               </section>
 
               <section id="exceptions" className="scroll-mt-32 mb-16">
-                <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+                <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                   Exceptions: When Can't They Touch Your Money?
-                </h2>
+                </h3>
                 <p className="text-lg leading-relaxed mb-6 text-[#747474]">
                   The banker's right of set-off is not absolute. There are specific legal scenarios where the bank is explicitly forbidden from touching your funds to recover a loan.
                 </p>
 
                 <div className="bg-gray-50 p-8 rounded-2xl mb-8 border border-gray-200">
-                  <h3 className="text-xl font-bold text-[#2E2E2E] mb-4">1. Different Legal Capacities</h3>
+                  <h4 className="text-xl font-bold text-[#2E2E2E] mb-4">1. Different Legal Capacities</h4>
                   <p className="text-[#747474] mb-4">If the loan is in your individual name, but you hold a savings account as a trustee for an NGO or as a guardian for a minor child, the bank cannot touch those funds. The "capacity" of the account holder is different.</p>
                   
-                  <h4 className="text-xl font-bold text-[#2E2E2E] mb-4">2. Joint Accounts</h4>
+                  <h5 className="text-xl font-bold text-[#2E2E2E] mb-4">2. Joint Accounts</h5>
                   <p className="text-[#747474] mb-4">If you took a loan individually, the bank cannot set off a joint account (e.g., held with your spouse) to recover it, unless the joint account mandate explicitly allows it or the spouse is a co-borrower/guarantor.</p>
                   
-                  <h4 className="text-xl font-bold text-[#2E2E2E] mb-4">3. Specific Purpose Deposits</h4>
+                  <h5 className="text-xl font-bold text-[#2E2E2E] mb-4">3. Specific Purpose Deposits</h5>
                   <p className="text-[#747474]">If you deposited money for a very specific, communicated purpose (like a draft for a medical bill), those funds are held in trust and are immune from general set-off.</p>
                 </div>
               </section>
 
               <section id="protect-savings" className="scroll-mt-32 mb-16">
-                <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+                <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                   How to Protect Your Savings Account from Loan Recovery
-                </h2>
+                </h3>
                 <p className="text-lg leading-relaxed mb-6 text-[#747474]">
                   If you are facing financial hardship and anticipate defaulting on a loan, taking proactive steps is crucial to <strong className="text-[#2E2E2E]">protect savings account from loan recovery</strong> and ensure you have money for basic survival.
                 </p>
@@ -378,21 +378,21 @@ export default function BankersRightOfSetOffPage() {
                   <div className="flex gap-6">
                     <div className="flex-shrink-0 w-12 h-12 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center font-black text-xl shadow-lg">1</div>
                     <div>
-                      <h3 className="text-xl font-bold text-[#2E2E2E] mb-2">Change Your Salary/Income Bank</h3>
+                      <h4 className="text-xl font-bold text-[#2E2E2E] mb-2">Change Your Salary/Income Bank</h4>
                       <p className="text-[#747474]">The most effective strategy is to open a new savings account in a completely different bank where you have no loans or credit cards, and route your salary or business income there.</p>
                     </div>
                   </div>
                   <div className="flex gap-6">
                     <div className="flex-shrink-0 w-12 h-12 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center font-black text-xl shadow-lg">2</div>
                     <div>
-                      <h3 className="text-xl font-bold text-[#2E2E2E] mb-2">Shift Your Fixed Deposits</h3>
+                      <h4 className="text-xl font-bold text-[#2E2E2E] mb-2">Shift Your Fixed Deposits</h4>
                       <p className="text-[#747474]">If you have matured FDs in the bank where you hold the defaulted loan, withdraw them or transfer them to another institution before the bank classifies your loan as an NPA (Non-Performing Asset) and freezes the assets.</p>
                     </div>
                   </div>
                   <div className="flex gap-6">
                     <div className="flex-shrink-0 w-12 h-12 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center font-black text-xl shadow-lg">3</div>
                     <div>
-                      <h3 className="text-xl font-bold text-[#2E2E2E] mb-2">Negotiate a Formal Settlement</h3>
+                      <h4 className="text-xl font-bold text-[#2E2E2E] mb-2">Negotiate a Formal Settlement</h4>
                       <p className="text-[#747474]">Instead of playing hide-and-seek with your money, engage a legal expert to negotiate a formal loan settlement or restructuring plan with the bank to resolve the debt legally.</p>
                     </div>
                   </div>
@@ -400,9 +400,9 @@ export default function BankersRightOfSetOffPage() {
               </section>
 
               <section id="success-stories" className="scroll-mt-32 mb-16">
-                <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">
+                <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">
                   Client Success Stories
-                </h2>
+                </h3>
                 <div className="grid md:grid-cols-2 gap-6">
                   <div className="bg-white p-8 rounded-[30px] border border-[#DEDEDE] shadow-sm hover:shadow-xl group transition-all">
                     <div className="flex items-center gap-4 mb-6">
@@ -447,9 +447,9 @@ export default function BankersRightOfSetOffPage() {
               </section>
 
               <section id="faqs" className="scroll-mt-32 mb-16">
-                <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">
+                <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">
                   Frequently Asked Questions
-                </h2>
+                </h3>
                 <div className="space-y-4">
                   {[
                     { q: "What is the Banker's Right of Set-Off in India?", a: "The Banker's Right of Set-Off is a legal right allowing a bank to combine two or more accounts of a customer to recover an outstanding debt, without requiring a court order." },
@@ -464,7 +464,7 @@ export default function BankersRightOfSetOffPage() {
                     { q: "What should I do if my bank broke my FD illegally?", a: "If the bank exercised the right improperly (e.g., against a trust account or joint account), you can file a grievance with the bank and escalate it to the Banking Ombudsman or take legal action." }
                   ].map((faq, i) => (
                     <div key={i} className="bg-white border border-[#DEDEDE] rounded-xl p-6 hover:shadow-md transition-shadow">
-                      <h3 className="font-bold text-[#2E2E2E] text-lg mb-2">{faq.q}</h3>
+                      <h4 className="font-bold text-[#2E2E2E] text-lg mb-2">{faq.q}</h4>
                       <p className="text-[#747474]">{faq.a}</p>
                     </div>
                   ))}
@@ -474,7 +474,7 @@ export default function BankersRightOfSetOffPage() {
               {/* Lead Gen Hook */}
               <div id="consult" className="bg-[#2E2E2E] text-white p-12 rounded-[40px] text-center mt-24 relative overflow-hidden group">
                 <div className="absolute inset-0 bg-[#1F5EFF] opacity-0 group-hover:opacity-5 transition-opacity"></div>
-                <h3 className="text-3xl md:text-4xl font-black mb-6 relative z-10">Protect Your Assets Today</h3>
+                <h4 className="text-3xl md:text-4xl font-black mb-6 relative z-10">Protect Your Assets Today</h4>
                 <p className="text-xl mb-8 relative z-10 opacity-90 max-w-2xl mx-auto">
                   Are you afraid your bank will freeze your savings or break your FD to recover a loan? Talk to our legal experts about protecting your assets immediately.
                 </p>

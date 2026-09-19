@@ -192,7 +192,7 @@ export default function DrtAccountDocumentsPage() {
                         </section>
 
                         <section id="importance-of-documents" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">Why Account Documents are the Foundation of Your Defense</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">Why Account Documents are the Foundation of Your Defense</h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 When a bank files an Original Application (OA) for recovery in the DRT, they are required to submit a comprehensive "List of Documents." This list must include the Statement of Account (SOA), which is the primary evidence of your debt. However, a bank's internal computer system is not automatically accepted as "gospel truth" in a court of law.
                             </p>
@@ -202,7 +202,7 @@ export default function DrtAccountDocumentsPage() {
                         </section>
 
                         <section id="bankers-books-act" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">Understanding the Bankers' Books Evidence Act, 1891</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">Understanding the Bankers' Books Evidence Act, 1891</h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 The Bankers' Books Evidence Act was enacted to allow banks to prove their entries without producing the original massive ledgers in court. Under Section 4 of the Act, a "certified copy" of an entry in a banker's book is received as *prima facie* evidence of the transaction.
                             </p>
@@ -210,7 +210,7 @@ export default function DrtAccountDocumentsPage() {
                                 This act is a "special law" which overrides general evidence rules. It specifically defines "banker's books" to include ledgers, day-books, cash-books, and all other records used in the ordinary business of a bank, whether kept in written form or as printouts of data stored on a floppy, disc, tape, or any other form of electro-magnetic data storage.
                             </p>
                             <div className="bg-blue-50 p-8 rounded-xl border border-blue-200 my-8">
-                                <h3 className="font-bold text-blue-900 mb-4 text-xl">The Prima Facie Trap</h3>
+                                <h4 className="font-bold text-blue-900 mb-4 text-xl">The Prima Facie Trap</h4>
                                 <p className="text-base text-blue-800 leading-relaxed mb-4">
                                     "Prima facie" means "accepted as correct until proven otherwise." Many borrowers fail to "prove otherwise" because they don't audit the statements. Once you identify a single error in the bank's statement (like a double-entry or a wrong interest rate), the *prima facie* presumption is destroyed, and the bank must prove every single entry manually.
                                 </p>
@@ -218,7 +218,7 @@ export default function DrtAccountDocumentsPage() {
                         </section>
 
                         <section id="section-2a-certification" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">Section 2A: The Mandatory Certificate for Electronic Records</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">Section 2A: The Mandatory Certificate for Electronic Records</h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 In today's digital age, all bank statements are computer-generated. Section 2A of the Bankers' Books Evidence Act (introduced in 2000) mandates that any printout from a computer system must be accompanied by two distinct certificates:
                             </p>
@@ -227,7 +227,7 @@ export default function DrtAccountDocumentsPage() {
                                 <li><strong>System Certificate:</strong> A certificate describing the computer system and confirming that it was operating properly at the time the data was entered, with adequate safeguards against data manipulation.</li>
                             </ul>
                             <div className="bg-red-50 p-8 rounded-xl border border-red-200 my-8">
-                                <h3 className="font-bold text-red-900 mb-4 text-xl">Why Banks Often Fail Here</h3>
+                                <h4 className="font-bold text-red-900 mb-4 text-xl">Why Banks Often Fail Here</h4>
                                 <p className="text-base text-red-800 leading-relaxed">
                                     Most banks simply provide a stamped bank statement. This is NOT enough. The law requires a specific certificate that describes the computer architecture and its security. Without this, the electronic data is hearsay and cannot be used to prove that you owe the money.
                                 </p>
@@ -235,7 +235,7 @@ export default function DrtAccountDocumentsPage() {
                         </section>
 
                         <section id="evidence-act-pari-materia" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">Special Law status: BBE Act vs Indian Evidence Act</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">Special Law status: BBE Act vs Indian Evidence Act</h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 A common confusion exists between Section 2A of the BBE Act and Section 65B of the Indian Evidence Act. While both deal with electronic evidence, the Bankers' Books Evidence Act is a "Special Law" for banking records.
                             </p>
@@ -245,22 +245,22 @@ export default function DrtAccountDocumentsPage() {
                         </section>
 
                         <section id="case-laws-drt" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">Landmark Case Laws on Bank Document Admissibility</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">Landmark Case Laws on Bank Document Admissibility</h3>
                             <div className="space-y-6">
                                 <div className="bg-gray-50 p-6 rounded-xl border border-gray-200">
-                                    <h3 className="font-bold text-[#1F5EFF] mb-2">ICICI Bank Limited vs. Surbhi Gupta (2018)</h3>
+                                    <h4 className="font-bold text-[#1F5EFF] mb-2">ICICI Bank Limited vs. Surbhi Gupta (2018)</h4>
                                     <p className="text-sm text-gray-600 leading-relaxed italic">
                                         The court held that statement of accounts exhibited without the necessary Section 2A certificate under the Bankers' Books Evidence Act would be inadmissible in evidence. This case is our primary weapon in DRT when banks take shortcuts in documentation. It reinforces that a mere bank official's signature is not enough for modern electronic records.
                                     </p>
                                 </div>
                                 <div className="bg-gray-50 p-6 rounded-xl border border-gray-200">
-                                    <h4 className="font-bold text-[#1F5EFF] mb-2">Anvar P.V. vs. P.K. Basheer</h4>
+                                    <h5 className="font-bold text-[#1F5EFF] mb-2">Anvar P.V. vs. P.K. Basheer</h5>
                                     <p className="text-sm text-gray-600 leading-relaxed italic">
                                         While not a banking case, this Supreme Court judgment set the gold standard for electronic evidence, reinforcing that primary evidence of electronic records must be backed by mandatory certificates. Any deviation leads to complete rejection of the evidence.
                                     </p>
                                 </div>
                                 <div className="bg-gray-50 p-6 rounded-xl border border-gray-200">
-                                    <h4 className="font-bold text-[#1F5EFF] mb-2">Sunderabai vs. State (2002)</h4>
+                                    <h5 className="font-bold text-[#1F5EFF] mb-2">Sunderabai vs. State (2002)</h5>
                                     <p className="text-sm text-gray-600 leading-relaxed italic">
                                         This case law is often cited regarding the custody and production of important documents. In the context of DRT, it highlights the bank's responsibility to safely maintain original records and produce them whenever their "certified copies" are questioned.
                                     </p>
@@ -269,43 +269,43 @@ export default function DrtAccountDocumentsPage() {
                         </section>
 
                         <section id="forensic-audit-framework" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">The Forensic Audit Framework</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">The Forensic Audit Framework</h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 A forensic audit in a DRT case is a high-precision exercise that involves three major layers:
                             </p>
                             <div className="grid md:grid-cols-3 gap-6 my-10">
                                 <div className="p-6 bg-gray-50 rounded-xl border border-gray-100">
-                                    <h3 className="font-bold mb-3 text-blue-600">1. Arithmetical Accuracy</h3>
+                                    <h4 className="font-bold mb-3 text-blue-600">1. Arithmetical Accuracy</h4>
                                     <p className="text-sm text-gray-600">Re-calculation of every interest installment based on the sanctioned rate vs actual debit. We look for rounding errors and wrong compounding frequencies.</p>
                                 </div>
                                 <div className="p-6 bg-gray-50 rounded-xl border border-gray-100">
-                                    <h4 className="font-bold mb-3 text-blue-600">2. Regulatory Compliance</h4>
+                                    <h5 className="font-bold mb-3 text-blue-600">2. Regulatory Compliance</h5>
                                     <p className="text-sm text-gray-600">Cross-checking every debit entry against RBI Master Circulars. If a fee is charged without a notice period, it is a regulatory violation.</p>
                                 </div>
                                 <div className="p-6 bg-gray-50 rounded-xl border border-gray-100">
-                                    <h5 className="font-bold mb-3 text-blue-600">3. Collateral & Security</h5>
+                                    <h6 className="font-bold mb-3 text-blue-600">3. Collateral & Security</h6>
                                     <p className="text-sm text-gray-600">Verifying if 'Inspection Charges' or 'Insurance Premiums' for the security were actually paid to third parties or just pocketed by the bank.</p>
                                 </div>
                             </div>
                         </section>
 
                         <section id="common-account-errors" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">Common Errors Found in Bank Statements</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">Common Errors Found in Bank Statements</h3>
                             <div className="space-y-8">
                                 <div className="border-l-4 border-[#1F5EFF] pl-6 py-2">
-                                    <h3 className="text-2xl font-bold text-[#2E2E2E] mb-4">1. Compounding Penal Interest</h3>
+                                    <h4 className="text-2xl font-bold text-[#2E2E2E] mb-4">1. Compounding Penal Interest</h4>
                                     <p className="text-base text-gray-700 leading-relaxed">
                                         According to RBI's Master Circular on Fair Practice Code, banks can charge 'Penal Interest' for late payments, but they CANNOT add this penal interest to the principal for the purpose of compounding. If your bank has been compounding your penalties, your debt is artificially inflated. This is the most common error we find in business loan statements.
                                     </p>
                                 </div>
                                 <div className="border-l-4 border-[#1F5EFF] pl-6 py-2">
-                                    <h3 className="text-2xl font-bold text-[#2E2E2E] mb-4">2. Wrongful Interest Benchmarks</h3>
+                                    <h4 className="text-2xl font-bold text-[#2E2E2E] mb-4">2. Wrongful Interest Benchmarks</h4>
                                     <p className="text-base text-gray-700 leading-relaxed">
                                         For Home and MSME loans, banks must follow specific benchmarks (MCLR, EBLR, etc.). We often find banks "forgetting" to pass on rate cuts to the borrower while being very quick to implement rate hikes. For a loan of ₹5 Cr, even a 0.25% discrepancy over 3 years can amount to several lakhs.
                                     </p>
                                 </div>
                                 <div className="border-l-4 border-[#1F5EFF] pl-6 py-2">
-                                    <h3 className="text-2xl font-bold text-[#2E2E2E] mb-4">3. Hidden Processing & Management Fees</h3>
+                                    <h4 className="text-2xl font-bold text-[#2E2E2E] mb-4">3. Hidden Processing & Management Fees</h4>
                                     <p className="text-base text-gray-700 leading-relaxed">
                                         Recurring "Annual Review Fees" or "Legal Audit Charges" are often slipped into statements without prior authorization in the sanction letter. We identify and challenge these unauthorized debits. If the sanction letter says "one-time fee," any recurring debit is a breach of contract.
                                     </p>
@@ -314,7 +314,7 @@ export default function DrtAccountDocumentsPage() {
                         </section>
 
                         <section id="penal-interest-rules" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">RBI's New Rules on Penal Charges (2024)</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">RBI's New Rules on Penal Charges (2024)</h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 Effective from April 2024, the RBI has issued a fresh directive regarding penal charges. Banks can no longer charge "Penal Interest" (which is additional interest on the outstanding loan). They can only charge "Penal Charges," which must be a fixed amount and cannot be capitalized (compounded).
                             </p>
@@ -324,7 +324,7 @@ export default function DrtAccountDocumentsPage() {
                         </section>
 
                         <section id="forensic-statement-audit" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">How our Forensic Statement Audit Works</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">How our Forensic Statement Audit Works</h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 Our process is purely data-driven. We use specialized legal-finance software to recreate your loan account from day one based on the Sanction Letter. We then layer the bank's actual statement over our projection.
                             </p>
@@ -334,7 +334,7 @@ export default function DrtAccountDocumentsPage() {
                         </section>
 
                         <section id="rbi-fair-practices" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">RBI Fair Practice Code: Your Legal Shield</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">RBI Fair Practice Code: Your Legal Shield</h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 The RBI mandates that all lenders must be transparent about their charges. Under the Fair Practice Code:
                             </p>
@@ -346,24 +346,24 @@ export default function DrtAccountDocumentsPage() {
                         </section>
 
                         <section id="challenging-bank-claims" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">Challenging the Validity of Bank Claims in DRT</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">Challenging the Validity of Bank Claims in DRT</h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 When we represent you in DRT, we use the account audit to file a "Written Statement" that specifically denies the bank's calculations. By pointing out exactly where the bank violated the Bankers' Books Evidence Act or the RBI guidelines, we force the bank's legal team into a defensive position.
                             </p>
                             <div className="grid md:grid-cols-2 gap-6 mb-8">
                                 <div className="bg-gray-50 p-6 rounded-xl border border-gray-200">
-                                    <h3 className="font-bold mb-2">Interrogatories</h3>
+                                    <h4 className="font-bold mb-2">Interrogatories</h4>
                                     <p className="text-sm">We file applications to ask the bank specific questions about their computer software and interest calculation logic.</p>
                                 </div>
                                 <div className="bg-gray-50 p-6 rounded-xl border border-gray-200">
-                                    <h4 className="font-bold mb-2">Production of Documents</h4>
+                                    <h5 className="font-bold mb-2">Production of Documents</h5>
                                     <p className="text-sm">We force the bank to produce the 'Original Ledgers' and the 'Sanction Files' to cross-check with the statements.</p>
                                 </div>
                             </div>
                         </section>
 
                         <section id="document-checklist" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">Your Audit Checklist for DRT Success</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">Your Audit Checklist for DRT Success</h3>
                             <p className="text-lg leading-relaxed mb-4 font-bold">Before we start the audit, ensure you have gathered the following:</p>
                             <ol className="list-decimal pl-8 space-y-4 mb-8">
                                 <li><strong>Full Loan Statement:</strong> From the date of first disbursement to the date of NPA.</li>
@@ -374,7 +374,7 @@ export default function DrtAccountDocumentsPage() {
                         </section>
 
                         <section id="success-stories" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 text-center">Real Success Stories in Document Audit</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 text-center">Real Success Stories in Document Audit</h3>
                             <div className="grid md:grid-cols-2 gap-10 not-prose">
                                 {[
                                     {
@@ -394,7 +394,7 @@ export default function DrtAccountDocumentsPage() {
                                         <div className="flex items-center mb-4">
                                             <div className="w-10 h-10 rounded-full bg-blue-100 flex items-center justify-center font-bold text-blue-600 mr-3">{review.name.charAt(0)}</div>
                                             <div>
-                                                <h3 className="font-bold text-[#2E2E2E]">{review.name}</h3>
+                                                <h4 className="font-bold text-[#2E2E2E]">{review.name}</h4>
                                                 <p className="text-xs text-gray-400">{review.loc}</p>
                                             </div>
                                             <div className="ml-auto text-yellow-400 text-sm">★★★★★</div>
@@ -409,7 +409,7 @@ export default function DrtAccountDocumentsPage() {
                         </section>
 
                         <section id="faqs" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">DRT Account Documents & Legal FAQs</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">DRT Account Documents & Legal FAQs</h3>
                             <div className="space-y-6 not-prose">
                                 {[
                                     { q: "What is a 'Certified Copy' under the Bankers' Books Evidence Act?", a: "It is a copy of an entry in the bank's ledger which includes a certificate stating it is a true copy, it was made in the ordinary course of business, and the original is still in the bank's custody." },

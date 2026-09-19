@@ -384,9 +384,9 @@ export default function PersonalLoanSettlementMumbaiClient() {
                 <Gavel className="w-4 h-4" />
                 <span>2. Statutory Defense &amp; Criminal Misconceptions</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 Civil Debt Default vs Criminal Traps: Section 138 NI Act &amp; Section 25 PSSA Defense
-              </h2>
+              </h3>
               <p className="text-base text-slate-700 leading-relaxed mb-4">
                 Under established Indian civil jurisprudence governed by the Indian Contract Act, 1872, the inability to repay an unsecured personal loan due to genuine financial insolvency is strictly a civil breach of contract. The Supreme Court of India and the Bombay High Court have consistently held that financial default does not constitute criminal breach of trust (Section 406 IPC / Section 316 BNS) or cheating (Section 420 IPC / Section 318 BNS) unless fraudulent intention was present at the inception of the loan agreement. Neither the Mumbai Police, Thane Police Commissionerate, nor Navi Mumbai Police possess legal jurisdiction to register FIRs, arrest debtors, or intervene in civil loan recoveries.
               </p>
@@ -416,9 +416,9 @@ export default function PersonalLoanSettlementMumbaiClient() {
                 <Scale className="w-4 h-4" />
                 <span>3. Advocacy &amp; Institutional Leverage</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 The Strategic Role of a Personal Loan Settlement Advocate in Mumbai MMR
-              </h2>
+              </h3>
               <p className="text-base text-slate-700 leading-relaxed mb-4">
                 Handling loan default in Mumbai without specialized legal counsel leaves corporate borrowers highly exposed. Third-party collection agencies rely on psychological pressure, unauthorized phone calls to corporate HR departments, and unannounced visits to residential gated societies in Powai, Bandra, Thane, or Palm Beach Road to coerce borrowers into liquidating retirement funds or taking catastrophic informal loans. Engaging an experienced debt settlement advocate shifts the entire engagement into formal statutory channels where the borrower&apos;s rights are fully protected.
               </p>
@@ -436,9 +436,9 @@ export default function PersonalLoanSettlementMumbaiClient() {
                 <Landmark className="w-4 h-4" />
                 <span>4. Conciliation &amp; Lok Adalat Frameworks</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 Maharashtra State Legal Services Authority (MSLSA) Lok Adalat Settlement Mechanics
-              </h2>
+              </h3>
               <p className="text-base text-slate-700 leading-relaxed mb-4">
                 The National Lok Adalat system, organized across Maharashtra by the Maharashtra State Legal Services Authority (MSLSA) and Mumbai District Legal Services Authorities (DLSA), represents the most powerful, legally binding, and cost-effective forum for resolving unsecured personal loan defaults. Convened quarterly across the High Court of Bombay, City Civil &amp; Sessions Courts at Fort and Dindoshi, and District Courts in Thane and Belapur, Lok Adalats function as statutory alternative dispute resolution bodies established under the Legal Services Authorities Act, 1987.
               </p>
@@ -462,9 +462,9 @@ export default function PersonalLoanSettlementMumbaiClient() {
                       <span className="text-[10px] font-black uppercase tracking-widest text-blue-300 block">
                         Legal Defense &amp; Action Blueprint
                       </span>
-                      <h3 className="text-sm md:text-base font-black text-white leading-tight">
+                      <h4 className="text-sm md:text-base font-black text-white leading-tight">
                         Personal Loan Settlement in Mumbai &amp; MMR: Process &amp; Legal Overview
-                      </h3>
+                      </h4>
                     </div>
                   </div>
                   <a
@@ -511,9 +511,9 @@ export default function PersonalLoanSettlementMumbaiClient() {
                 <FileCheck className="w-4 h-4" />
                 <span>5. Procedural Workflow &amp; Legal Protocol</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 The 5-Stage Legal Defense &amp; Settlement Protocol in Mumbai MMR
-              </h2>
+              </h3>
               <p className="text-base text-slate-700 leading-relaxed mb-4">
                 Securing an optimal One-Time Settlement (OTS) with complete legal immunity requires a structured, multi-stage procedural workflow. When borrowers attempt informal negotiations directly with field recovery agents, collections staff exploit their lack of legal knowledge to collect piecemeal token payments that simply reset statutory limitation periods under the Limitation Act, 1963, without reducing the underlying principal obligation.
               </p>
@@ -540,9 +540,9 @@ export default function PersonalLoanSettlementMumbaiClient() {
                 <Sparkles className="w-4 h-4" />
                 <span>6. Banking Accounting &amp; NPV Mechanics</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 Banking NPA Accounting Rules, NPV Calculations &amp; Securing 40%–70% Waivers
-              </h2>
+              </h3>
               <p className="text-base text-slate-700 leading-relaxed mb-4">
                 To negotiate maximum debt waivers with public and private sector banks in Mumbai, one must understand how Indian banking institutions account for non-performing assets (NPAs). Under Reserve Bank of India Master Directions on Prudential Norms on Income Recognition, Asset Classification and Provisioning, a loan account where EMI payments remain overdue for more than 90 days is classified as a Non-Performing Asset (Substandard). As default delinquency crosses 12 months, the account transitions into Doubtful and ultimately Loss asset categories.
               </p>
@@ -573,9 +573,9 @@ export default function PersonalLoanSettlementMumbaiClient() {
                 <ShieldAlert className="w-4 h-4" />
                 <span>7. Anti-Harassment &amp; Bombay High Court Rules</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 Enforcing Anti-Harassment Protections &amp; Bombay High Court Precedents
-              </h2>
+              </h3>
               <p className="text-base text-slate-700 leading-relaxed mb-4">
                 Borrowers in Mumbai, Thane, and Navi Mumbai frequently face aggressive overreach by unregulated recovery agencies acting on behalf of major financial institutions. Common abusive tactics include relentless calling outside permissible hours, abusive language, sending intimidating groups of recovery agents to residential housing societies in Powai, Thane, or Palm Beach Road, visiting corporate workplaces in BKC or Lower Parel, and contacting non-guarantor colleagues or relatives.
               </p>
@@ -593,9 +593,9 @@ export default function PersonalLoanSettlementMumbaiClient() {
                 <FileText className="w-4 h-4" />
                 <span>8. Settlement Verification &amp; Post-Closure</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 Legal Settlement Verification: Sanction Letters vs Final No Dues Certificates (NDC)
-              </h2>
+              </h3>
               <p className="text-base text-slate-700 leading-relaxed mb-4">
                 A critical danger for distressed borrowers in Mumbai is falling victim to settlement scams orchestrated by third-party collection agents who offer verbal settlement discounts or issue forged WhatsApp settlement letters to meet monthly recovery quotas. Once the borrower pays the discounted amount into a personal account or without formal bank sanction, the lender credits the funds as regular overdue interest, leaving the total loan balance active and litigation ongoing.
               </p>
@@ -616,9 +616,9 @@ export default function PersonalLoanSettlementMumbaiClient() {
                 <MapPin className="w-4 h-4" />
                 <span>9. Mumbai Courts Directory &amp; Resolution Matrix</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 Mumbai Metropolitan Region District Courts Directory &amp; Jurisdiction Matrix
-              </h2>
+              </h3>
               <p className="text-base text-slate-700 leading-relaxed mb-4">
                 Understanding which court complex has jurisdiction over your personal loan dispute is vital for prompt legal intervention. Below is the comprehensive jurisdiction matrix for district courts across Mumbai, Thane, and Navi Mumbai where loan recovery litigation, Section 138 NI Act trials, and MSLSA Lok Adalats are conducted:
               </p>
@@ -681,9 +681,9 @@ export default function PersonalLoanSettlementMumbaiClient() {
                 </table>
               </div>
 
-              <h3 className="text-lg sm:text-xl font-black text-slate-900 mt-8 mb-4">
+              <h4 className="text-lg sm:text-xl font-black text-slate-900 mt-8 mb-4">
                 Comparative Resolution Channels: Lok Adalat vs Direct Settlement vs Court Litigation
-              </h3>
+              </h4>
               <p className="text-base text-slate-700 leading-relaxed mb-4">
                 Borrowers facing loan defaults must evaluate their strategic options across speed, cost, legal finality, and potential debt haircut. The following table provides a comprehensive forensic comparison of available resolution channels:
               </p>
@@ -736,9 +736,9 @@ export default function PersonalLoanSettlementMumbaiClient() {
                 <HelpCircle className="w-4 h-4" />
                 <span>10. Common Questions &amp; Legal Answers</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
                 Frequently Asked Questions: Loan Settlement Services in Mumbai
-              </h2>
+              </h3>
 
               <div className="space-y-4">
                 {faqs.map((faq, index) => (
@@ -810,9 +810,9 @@ export default function PersonalLoanSettlementMumbaiClient() {
 
             {/* 10 Internal Topic Badges */}
             <div className="bg-slate-50 border border-slate-200 rounded-2xl p-5 my-8">
-              <h3 className="text-xs font-bold uppercase tracking-wider text-slate-500 mb-3">
+              <h4 className="text-xs font-bold uppercase tracking-wider text-slate-500 mb-3">
                 Related Legal &amp; Debt Resolution Guides
-              </h3>
+              </h4>
               <div className="flex flex-wrap gap-2">
                 <Link
                   href="/personal-loan-settlement-delhi-ncr"

@@ -259,12 +259,12 @@ export default function SubmitLoanSettlementOfferPage() {
             </section>
 
             <section id="pre-submission-assessment" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">Step 1: The Deep Financial Audit</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">Step 1: The Deep Financial Audit</h3>
               <p className="text-lg leading-relaxed mb-6">
                 Before you even pick up a pen or open your laptop to draft a letter, you must perform a brutal audit of your finances. Banks will ask for proof of your situation, and more importantly, they will test your offer. If you offer a lump sum that is obviously beyond your current means, the bank might suspect you have hidden assets.
               </p>
               <div className="bg-gray-50 p-8 rounded-xl border border-gray-200 mb-8">
-                <h3 className="text-xl font-bold mb-4">What to Calculate:</h3>
+                <h4 className="text-xl font-bold mb-4">What to Calculate:</h4>
                 <ul className="grid sm:grid-cols-2 gap-4">
                   <li className="flex items-center gap-2"><span className="w-2 h-2 bg-[#1F5EFF] rounded-full"></span>Total Outstanding (Principal + Interest)</li>
                   <li className="flex items-center gap-2"><span className="w-2 h-2 bg-[#1F5EFF] rounded-full"></span>Liquid Cash Available</li>
@@ -278,21 +278,21 @@ export default function SubmitLoanSettlementOfferPage() {
             </section>
 
             <section id="documentation-prep" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">Step 2: Building Your Hardship Evidence File</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">Step 2: Building Your Hardship Evidence File</h3>
               <p className="text-lg leading-relaxed mb-6">
                 Indian banks operate on paper and evidence. "I don't have money" is a statement; "Here is my job termination letter and empty bank statement" is evidence. To get a high waiver, you must prove that your default is due to genuine circumstances beyond your control, not due to a lack of intent.
               </p>
               <div className="grid md:grid-cols-3 gap-6 mb-8">
                 <div className="p-6 bg-white border border-[#DEDEDE] rounded-xl shadow-sm text-center">
-                  <h3 className="font-bold mb-2">Medical Files</h3>
+                  <h4 className="font-bold mb-2">Medical Files</h4>
                   <p className="text-sm text-gray-500">Hospital bills, discharge summaries, or chronic illness reports.</p>
                 </div>
                 <div className="p-6 bg-white border border-[#DEDEDE] rounded-xl shadow-sm text-center">
-                  <h4 className="font-bold mb-2">Income Loss</h4>
+                  <h5 className="font-bold mb-2">Income Loss</h5>
                   <p className="text-sm text-gray-500">Pink slips, salary slips showing cuts, or business loss audits.</p>
                 </div>
                 <div className="p-6 bg-white border border-[#DEDEDE] rounded-xl shadow-sm text-center">
-                  <h4 className="font-bold mb-2">Asset Status</h4>
+                  <h5 className="font-bold mb-2">Asset Status</h5>
                   <p className="text-sm text-gray-500">Proof that you do not own other houses or luxury assets the bank can seize.</p>
                 </div>
               </div>
@@ -302,7 +302,7 @@ export default function SubmitLoanSettlementOfferPage() {
             </section>
 
             <section id="finding-the-right-channel" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">Step 3: Finding the Right Communication Channel</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">Step 3: Finding the Right Communication Channel</h3>
               <p className="text-lg leading-relaxed mb-6">
                 Where you send your letter is as important as what you write. Sending it to a random customer care email will likely result in a generic auto-reply. To get your offer noticed, you must target the departments that have the power to say "Yes."
               </p>
@@ -323,7 +323,7 @@ export default function SubmitLoanSettlementOfferPage() {
             </section>
 
             <section id="drafting-the-letter" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">Step 4: Drafting the Perfect Settlement Proposal</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">Step 4: Drafting the Perfect Settlement Proposal</h3>
               <p className="text-lg leading-relaxed mb-6">
                 Your letter should be humble but firm. Avoid emotional venting; stick to the facts of your hardship and your clear intent to resolve the debt. Below is a professional template designed for Indian banks.
               </p>
@@ -340,17 +340,17 @@ export default function SubmitLoanSettlementOfferPage() {
             </section>
 
             <section id="negotiation-strategies" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">Step 5: Master the Art of Bank Negotiation</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">Step 5: Master the Art of Bank Negotiation</h3>
               <p className="text-lg leading-relaxed mb-6">
                 Once the bank receives your offer, they will likely counter it. If you offered 30%, they might ask for 80%. This is normal. Negotiation is a process of finding a middle ground where the bank gets more than what they would get in a court battle, and you get a discount you can afford.
               </p>
               <div className="grid md:grid-cols-2 gap-8 mb-8">
                 <div className="p-6 bg-white border border-gray-100 rounded-xl shadow-sm">
-                  <h3 className="font-bold mb-2">The "Capacity To Pay" Test</h3>
+                  <h4 className="font-bold mb-2">The "Capacity To Pay" Test</h4>
                   <p className="text-sm text-gray-600">The bank's recovery officer will check your CIBIL to see if you are paying other loans. If you are paying a car loan but not the personal loan, your settlement will be rejected. You must show total financial distress.</p>
                 </div>
                 <div className="p-6 bg-white border border-gray-100 rounded-xl shadow-sm">
-                  <h4 className="font-bold mb-2">The "Lump Sum" Advantage</h4>
+                  <h5 className="font-bold mb-2">The "Lump Sum" Advantage</h5>
                   <p className="text-sm text-gray-600">Always emphasize that the money is coming from a relative or a one-time source. Tell them that if they don't accept it now, the money might be used for other emergencies and won't be available later.</p>
                 </div>
               </div>
@@ -360,9 +360,9 @@ export default function SubmitLoanSettlementOfferPage() {
             </section>
 
             <section id="the-settlement-letter" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">Step 6: Never Pay Without the Settlement Letter</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">Step 6: Never Pay Without the Settlement Letter</h3>
               <div className="bg-red-50 border-l-4 border-red-500 p-8 rounded-r-xl mb-8">
-                <h3 className="text-xl font-bold text-red-800 mb-4">The Most Important Rule:</h3>
+                <h4 className="text-xl font-bold text-red-800 mb-4">The Most Important Rule:</h4>
                 <p className="text-red-900 leading-relaxed mb-4">
                   Recovery agents often promise you a settlement on a phone call. They might say, "Just pay ₹20,000 today and consider it settled." **This is a trap.** Without a formal letter from the bank, that payment will be treated as part-payment of the total debt, and you will still owe the rest.
                 </p>
@@ -376,19 +376,19 @@ export default function SubmitLoanSettlementOfferPage() {
             </section>
 
             <section id="payment-and-closure" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">Step 7: Finalizing Payment and Closure</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">Step 7: Finalizing Payment and Closure</h3>
               <p className="text-lg leading-relaxed mb-6">
                 Once you have the letter, make the payment through a traceable method: **NEFT, RTGS, or Demand Draft**. Avoid paying in cash at the counter unless you get a specific receipt that mentions the Settlement Letter reference.
               </p>
               <div className="bg-blue-50 p-8 rounded-2xl border border-blue-100 mb-8 flex flex-col items-center text-center">
-                <h3 className="font-bold mb-4">The "No Dues Certificate" (NDC)</h3>
+                <h4 className="font-bold mb-4">The "No Dues Certificate" (NDC)</h4>
                 <p className="text-sm mb-6">Within 15 to 30 days of your payment, the bank is legally obligated to issue an NDC. This is your "freedom paper." Store multiple copies of this document digitally, you will need it for the next 7 years.</p>
                 <div className="w-16 h-16 bg-blue-100 rounded-full flex items-center justify-center text-blue-600 font-bold mb-2">✓</div>
               </div>
             </section>
 
             <section id="legal-rights" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">Your Legal Protections in the Settlement Process</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">Your Legal Protections in the Settlement Process</h3>
               <p className="text-lg leading-relaxed mb-6">
                 The Reserve Bank of India (RBI) has laid out clear guidelines for how banks must handle settlements and defaults. You are protected by the law even if you owe money.
               </p>
@@ -444,7 +444,7 @@ export default function SubmitLoanSettlementOfferPage() {
 
             <section id="faqs" className="scroll-mt-32 mb-12">
 
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Frequently Asked Questions</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Frequently Asked Questions</h3>
               <div className="space-y-4 not-prose">
                 {[
                   { q: "How long does the entire offer to payment process take?", a: "Generally, it takes 30 to 90 days. This includes the submission, the negotiation period, and the committee's approval cycle." },
@@ -473,7 +473,7 @@ export default function SubmitLoanSettlementOfferPage() {
             <div className="lg:hidden mt-16 mb-8">
               <div className="bg-[#2E2E2E] rounded-2xl shadow-xl border border-[#1F5EFF]/20">
                 <div className="bg-[#1F5EFF] p-6 text-center text-white">
-                  <h3 className="text-2xl font-black mb-2">Need a Professional Offer?</h3>
+                  <h4 className="text-2xl font-black mb-2">Need a Professional Offer?</h4>
                   <p className="text-sm">Let our legal experts draft your settlement proposal today.</p>
                 </div>
                 <div className="p-8 text-center text-[#DEDEDE]">

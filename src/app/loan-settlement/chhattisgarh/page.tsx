@@ -242,7 +242,7 @@ const Page = () => {
                     </section>
 
                     <section id="legal-framework-debt" className="scroll-mt-32 mb-16">
-                        <h2 className="text-3xl font-black mb-6">The Legal Shield: Your Rights as a Borrower in CG</h2>
+                        <h3 className="text-3xl font-black mb-6">The Legal Shield: Your Rights as a Borrower in CG</h3>
                         <p>Many borrowers in Chhattisgarh live in constant fear of legal action, not realizing that the Indian legal system provides significant protections for those in financial distress. Understanding these rights is the first step toward reclaiming your peace of mind. The relationship between a borrower and a lender is governed by the **Indian Contract Act** and various directives issued by the **Reserve Bank of India (RBI)**. These regulations ensure that while banks have the right to recover their dues, they must do so within a framework of law and ethics.</p>
                         <p>One of the most important protections is the **RBI Fair Practices Code**. This code strictly prohibits the use of physical force, verbal abuse, or any form of humiliation during the recovery process. If you are in Raipur or Bilaspur and a recovery agent is calling your neighbors or visiting your office to shame you, they are breaking the law. We help you file formal complaints with the Banking Ombudsman, which can lead to penalties for the bank and even a stay on recovery proceedings. We use the law as a shield to stop the harassment first, allowing us the space to negotiate a settlement later.</p>
                         <p>Furthermore, the concept of **One Time Settlement (OTS)** is a formalized policy within most banks. It is not a favor they do for you; it is a business decision governed by their internal board approved policies. The RBI encourages banks to settle chronic defaults to keep their balance sheets clean. At SettleLoans, our legal experts analyze your specific loan agreement and the bank's current OTS schemes. We ensure that your request for settlement is backed by documented proofs of hardship, making it a professional and compelling case for the bank's credit committee.</p>
@@ -251,7 +251,7 @@ const Page = () => {
                     </section>
 
                     <section id="mining-sector-debt" className="scroll-mt-32 mb-16">
-                        <h2 className="text-3xl font-black mb-6">Navigating Mining and Industrial Debt Cycles</h2>
+                        <h3 className="text-3xl font-black mb-6">Navigating Mining and Industrial Debt Cycles</h3>
                         <p>Chhattisgarh's economy is deeply intertwined with its industrial and mining prowess. Towns like **Korba, Raigarh, and Kirandul** are home to thousands of workers, contractors, and entrepreneurs who depend on these sectors. However, the industrial life is often marked by periods of 'boom and bust'. A change in mining regulations, a shift in global steel prices, or a delay in contract payments can suddenly turn a thriving business or a high-salaried individual into a debt-stricken borrower. This is the industrial debt cycle that we frequently witness in the state.</p>
                         <p>For many contractors in Raigarh or transport operators in Raipur, the pressure is two-fold. They carry high commercial vehicle loans and, to sustain operations during lean periods, they often take multiple personal loans and exhaust their credit card limits. When the expected payments from large PSUs or private industrial giants are delayed, the entire financial structure collapses. At SettleLoans, we have a deep understanding of these specific industrial pressures. We have helped numerous industrial workers and business owners present their 'Hardship Case' to banks, emphasizing that their default is a result of macroeconomic factors and not a lack of intent.</p>
                         <p>Banks are often more receptive to settlement when the borrower is from a sector that is known to be in distress. We leverage this by documenting the specific industrial downturn that affected your income. Whether it is the closure of a particular mine or a slowdown in the manufacturing hub of Bhilai, we use these facts to argue for a higher waiver. We have successfully negotiated settlements for workers who lost their jobs due to automation or downsizing, helping them clear their debts using their final settlements and start a new chapter.</p>
@@ -260,7 +260,7 @@ const Page = () => {
                     </section>
 
                     <section id="agricultural-debt-relief" className="scroll-mt-32 mb-16">
-                        <h2 className="text-3xl font-black mb-6">Bridge between Agriculture and Unsecured Loans</h2>
+                        <h3 className="text-3xl font-black mb-6">Bridge between Agriculture and Unsecured Loans</h3>
                         <p>Chhattisgarh is famous for its paddy cultivation and the government's supportive schemes like the **Krishak Unnati Yojana**. While these schemes provide significant relief for core agricultural debt, many farming families in rural areas like Rajnandgaon, Mahasamund, and Dhamtari often find themselves in a different kind of debt trap: high-interest unsecured loans. These loans are often taken from private banks or digital apps to cover family emergencies, medical bills, or social obligations, as agricultural income is seasonal and often tied up in the government's procurement cycle.</p>
                         <p>A farmer may have his agricultural loan waived or subsidized by the state, but he still faces the mounting pressure of a personal loan taken during a medical crisis. Banks and collection agencies often do not care about the 'Rice Bowl' status of the borrower; they only see the missed EMI. SettleLoans acts as a bridge for these families. We understand that your income is not monthly but seasonal. We negotiate with the banks to align your settlement payments with your crop harvest cycles, making the repayment realistic and manageable.</p>
                         <p>We see many cases where rural borrowers are misled into taking loans with astronomical interest rates. Often, the documentation is not explained to them, and they are unaware of the hidden costs. We demand a complete audit of the loan account, often proving that the borrower has already paid back more than the principal amount through compound interest and penalties. By exposing these unfair practices, we can often force the lender to agree to a very low settlement amount, sometimes even just 20% to 30% of the claimed outstanding.</p>
@@ -269,7 +269,7 @@ const Page = () => {
                     </section>
 
                     <section id="raipur-bilaspur-urban-debt" className="scroll-mt-32 mb-16">
-                        <h2 className="text-3xl font-black mb-6">Tackling Urban Debt Stress in Raipur and Bilaspur</h2>
+                        <h3 className="text-3xl font-black mb-6">Tackling Urban Debt Stress in Raipur and Bilaspur</h3>
                         <p>The urban centers of Chhattisgarh, particularly **Raipur, Bilaspur, and Durg-Bhilai**, are seeing a rapid shift in lifestyle and consumption patterns. With more malls, improved connectivity, and a growing service sector, the 'credit culture' has taken a firm hold. While this drives economic activity, it also leads to significant urban debt stress. Young professionals, government employees, and small traders in these cities often find themselves juggling multiple credit cards and personal loans, leading to a precarious financial situation.</p>
                         <p>Urban debt stress is often hidden under a facade of prosperity. A resident in Shankar Nagar, Raipur, or Mangla, Bilaspur, might be maintaining a high standard of living while secretly struggling to pay the 'Minimum Amount Due' on four different credit cards. This 'Interest Trap' is particularly dangerous because it creates a permanent drain on your monthly income without ever reducing the actual debt. SettleLoans specializes in 'Debt Consolidation via Settlement', where we help you close all these high interest liabilities one by one, allowing you to breathe again.</p>
                         <p>We understand the social pressure that comes with debt in urban Chhattisgarh. The fear of a legal notice arriving at your workplace or a recovery agent knocking at your door in a respectable neighborhood can be paralyzing. Our digital first approach is designed for the modern urbanite. You can enroll with us silently, and we will take over all communication. We become your official legal representatives, and every bank call is diverted to us. This immediate 'Radio Silence' from the creditors is the first Step in our process, allowing you to focus on your career while we fight your legal battles.</p>
@@ -278,7 +278,7 @@ const Page = () => {
                     </section>
 
                     <section id="stopping-recovery-agencies" className="scroll-mt-32 mb-16">
-                        <h2 className="text-3xl font-black mb-6">Stopping Recovery Harassment in the State</h2>
+                        <h3 className="text-3xl font-black mb-6">Stopping Recovery Harassment in the State</h3>
                         <p>The biggest hurdle for any borrower considering settlement is the fear of recovery agents. In Chhattisgarh, as in many other parts of India, these third-party agencies often operate with a complete disregard for the law. They use intimidation, social shaming, and persistent phone calls to break a borrower's spirit. It is important to know that this behavior is not just unethical; it is illegal. Stoping this harassment is our first priority at SettleLoans.</p>
                         <p>The moment you join our program, we issue a formal legal notice to all your creditors: banks, NBFCs, and digital lenders. This notice clearly states that you are now represented by legal counsel and that, under the law, all communications must be directed to our firm. This simple act of 'Legal Representation' stops about 90% of harassment calls within the first few days. Banks are very careful about violating the rights of a borrower who has professional legal backing because the penalties for doing so are severe.</p>
                         <p>If an agent continues to call or visit you in person in Raipur or any other city, we help you record and document the interaction. We provide you with a 'Rights Guide' on how to handle these visits. You have the right to ask for the agent's ID card and the bank's authorization letter. You have the right to refuse them entry into your home. Most importantly, you are not obligated to speak to them about the debt; you can simply hand them our contact card and ask them to talk to your lawyers. This shift in power dynamics often defuses the situation completely.</p>
@@ -287,7 +287,7 @@ const Page = () => {
                     </section>
 
                     <section id="lok-adalat-cgslsa" className="scroll-mt-32 mb-16">
-                        <h2 className="text-3xl font-black mb-6">The Role of CGSLSA and Lok Adalats in Settlement</h2>
+                        <h3 className="text-3xl font-black mb-6">The Role of CGSLSA and Lok Adalats in Settlement</h3>
                         <p>The **Chhattisgarh State Legal Services Authority (CGSLSA)** is a vital institution that offers a path to justice for those who cannot afford expensive litigation. One of their most successful initiatives is the **National Lok Adalat**, which is held periodically in all district courts across the state, from Raipur and Bilaspur to the tribal heartlands of Kanker and Dantewada. These 'People's Courts' are specifically designed to settle civil matters, including bank debt and loan defaults, through mutual agreement.</p>
                         <p>For a borrower, the Lok Adalat is a golden opportunity. The process is informal, there are no court fees, and the decision reached is final and binding. It has the same power as a decree from a regular civil court, but without the years of waiting. Once a settlement is signed in a Lok Adalat, the bank can never reopen the case or harass you for more money. It brings an absolute end to the debt dispute. SettleLoans has a specialized team that helps our clients leverage this forum to its maximum potential.</p>
                         <p>Many people make the mistake of going to a Lok Adalat without preparation. Banks often send their regional managers with pre-determined settlement targets. If you go alone, you might be pressured into a settlement that is still too high for you. SettleLoans acts as your negotiator *before* and *during* the Lok Adalat. we engage with the bank's legal team weeks in advance, arriving at a figure that we know you can pay. On the day of the Adalat, we simply guide the process toward that agreed figure, ensuring all the paperwork is correctly filed.</p>
@@ -296,7 +296,7 @@ const Page = () => {
                     </section>
 
                     <section id="credit-card-resolution" className="scroll-mt-32 mb-16">
-                        <h2 className="text-3xl font-black mb-6">Ending the Credit Card Trap in Chhattisgarh</h2>
+                        <h3 className="text-3xl font-black mb-6">Ending the Credit Card Trap in Chhattisgarh</h3>
                         <p>Credit cards are the most common source of high interest debt traps in urban Chhattisgarh. With interest rates ranging from 40% to 52% per annum including taxes, it is incredibly easy for a small balance to snowball into an unmanageable mountain of debt. Many residents in cities like Raipur and Bilaspur fall into the 'Minimum Amount Due' trap, where they pay thousands every month but the principal amount never decreases. This is not just a financial problem; it is a system designed to keep you in debt forever.</p>
                         <p>The only way to win against a credit card company is to break the cycle. At SettleLoans, we advise a strategy of 'Controlled Default'. By stopping the payments of the minimum amounts, we force the bank to recognize that the account is in distress. While this leads to recovery calls and a dip in your credit score, it is a necessary step to bring the bank to the negotiating table. We simultaneously build your 'Hardship Case', proving to the bank that you have the intent to pay but not the capacity to pay their astronomical interest rates.</p>
                         <p>Our negotiators are experts in 'Credit Card Waivers'. We have a deep understanding of the internal settlement thresholds for major banks like ICICI, HDFC, SBI, and Axis. We don't just ask for a discount; we present a professional proposal based on your current financial status. We often achieve settlements where the borrower pays only the 'Principal Balance' or even less, with all interest, late fees, and penalties completely waived off. This can result in a saving of 50% to 70% on the total amount the bank is claiming.</p>
@@ -305,7 +305,7 @@ const Page = () => {
                     </section>
 
                     <section id="personal-loan-negotiation" className="scroll-mt-32 mb-16">
-                        <h2 className="text-3xl font-black mb-6">Strategic Negotiation for Personal Loan Settlements</h2>
+                        <h3 className="text-3xl font-black mb-6">Strategic Negotiation for Personal Loan Settlements</h3>
                         <p>Personal loans are often taken for life's most pressing needs: a daughter's wedding in Durg, an emergency surgery in a Raipur hospital, or a house renovation in Bilaspur. Because these loans are 'Unsecured', banks view them as high risk. When a borrower defaults, the bank's recovery mechanism becomes extremely aggressive. They often use the threat of legal notices and 'Section 138' (cheque bounce) cases to intimidate the borrower. At SettleLoans, we de-escalate this situation and turn it into a professional negotiation.</p>
                         <p>The key to a successful personal loan settlement is 'Evidence of Hardship'. We help you compile a comprehensive file containing your bank statements, salary slips (or proof of income loss), medical reports, and any other document that proves you are in genuine distress. We don't just tell the bank you can't pay; we *show* them. This professional approach makes a huge difference in how the bank's credit department views your case. They are much more likely to approve a 50% waiver for a well-documented case than for someone who is just making excuses.</p>
                         <p>We also specialize in handling 'Cheque Bounce' and 'NACH Failure' notices. Many borrowers in Chhattisgarh are terrified of these, thinking they will be arrested immediately. It is important to know that these are procedural matters that can be resolved through settlement. When we reach a settlement agreement, the bank is legally required to withdraw all such cases and stop all legal proceedings. We ensure that this condition is clearly mentioned in your settlement letter. We protect you from the legal fallout while we work on the financial solution.</p>
@@ -314,7 +314,7 @@ const Page = () => {
                     </section>
 
                     <section id="protecting-family-assets" className="scroll-mt-32 mb-16">
-                        <h2 className="text-3xl font-black mb-6">Protecting Your Assets from Aggressive Recovery</h2>
+                        <h3 className="text-3xl font-black mb-6">Protecting Your Assets from Aggressive Recovery</h3>
                         <p>The greatest fear for any borrower in default is the loss of their home, land, or family gold. In a state like Chhattisgarh, where ancestral property is deeply tied to family honor and heritage, this fear is even more acute. Banks and NBFCs often exploit this fear by sending notices under the **SARFAESI Act** or threatening to attach your property. It is vital to understand that for unsecured debts like personal loans and credit cards, banks have NO legal right to seize your home without a specific, years-long court process.</p>
                         <p>Even for secured loans, where the property is collateral, you have significant rights. A bank cannot simply show up and take your home. They must follow a strict timeline: the 13(2) notice, the 13(4) notice, and then a petition to the District Magistrate. At any point in this process, you can challenge the notice in a **Debt Recovery Tribunal (DRT)** if there is even a minor procedural error by the bank. SettleLoans helps you identify these errors, creating legal delays that provide the necessary time for a peaceful negotiation.</p>
                         <p>Our strategy in Chhattisgarh is to use 'Asset Protection' as a leverage point. Banks are aware that a legal battle over a home in Raipur or Bilaspur can take years and cost them a fortune in legal fees. They would much rather have a guaranteed cash payment today through a settlement than a risky and expensive auction in the future. We use this commercial reality to protect your roof. We ensure that while we negotiate the monetary settlement, your family remains safe and undisturbed in their home.</p>
@@ -323,13 +323,13 @@ const Page = () => {
                     </section>
 
                     <section id="success-stories-chhattisgarh" className="scroll-mt-32 mb-16 text-center">
-                        <h2 className="text-4xl font-black mb-12">Success Stories from Chhattisgarh</h2>
+                        <h3 className="text-4xl font-black mb-12">Success Stories from Chhattisgarh</h3>
                         <div className="grid md:grid-cols-2 gap-8 not-prose">
                             <div className="bg-white p-8 rounded-3xl border border-[#DEDEDE] shadow-xl hover:shadow-2xl transition-all h-full flex flex-col">
                                 <div className="flex items-center mb-6">
                                     <div className="w-14 h-14 rounded-full bg-[#1F5EFF]/10 flex items-center justify-center font-bold text-[#1F5EFF] text-xl mr-4">A</div>
                                     <div className="text-left">
-                                        <h3 className="font-black text-xl">Alok S.</h3>
+                                        <h4 className="font-black text-xl">Alok S.</h4>
                                         <p className="text-sm text-gray-500">Raipur, CG</p>
                                     </div>
                                     <div className="ml-auto text-yellow-500">★★★★★</div>
@@ -344,7 +344,7 @@ const Page = () => {
                                 <div className="flex items-center mb-6">
                                     <div className="w-14 h-14 rounded-full bg-[#1F5EFF]/10 flex items-center justify-center font-bold text-[#1F5EFF] text-xl mr-4">R</div>
                                     <div className="text-left">
-                                        <h4 className="font-black text-xl">Ramesh D.</h4>
+                                        <h5 className="font-black text-xl">Ramesh D.</h5>
                                         <p className="text-sm text-gray-500">Durg-Bhilai, CG</p>
                                     </div>
                                     <div className="ml-auto text-yellow-500">★★★★★</div>
@@ -359,7 +359,7 @@ const Page = () => {
                     </section>
 
                     <section id="rebuilding-credit-history" className="scroll-mt-32 mb-16">
-                        <h2 className="text-3xl font-black mb-6">Rebuilding Your CIBIL Score in Chhattisgarh</h2>
+                        <h3 className="text-3xl font-black mb-6">Rebuilding Your CIBIL Score in Chhattisgarh</h3>
                         <p>A common myth in Chhattisgarh is that once you settle a loan, you will never be able to take another loan for the rest of your life. This is simply not true. While a settlement does result in a 'Settled' remark on your CIBIL report and a temporary dip in your score (typically between 70 to 120 points), it is not a permanent black mark. In fact, settling a loan is the first step toward rebuilding your credit health because it stops the ongoing negative reporting of 'Missed Payments' and 'Growing Interest'.</p>
                         <p>Think of loan settlement as a financial surgery. It removes the infected debt so that the rest of your financial life can heal. Once we help you receive your **No Dues Certificate (NDC)**, the rebuilding phase begins. We provide our clients in Raipur and Bilaspur with a detailed 24 month roadmap to restore their credit scores. The most effective way to start is with a 'Secured Credit Card'. Many banks in Chhattisgarh provide these cards against a small Fixed Deposit (as low as ₹20,000). By using this card for small monthly expenses and paying the full bill on time, you start building a fresh, positive credit history.</p>
                         <p>We also advise you on how to monitor your credit report regularly. Sometimes, banks fail to update their records even after a settlement. We help you file 'Data Accuracy Disputes' with CIBIL and other bureaus to ensure that your 'Settled' accounts are correctly reported and that no 'Ghost Dues' are shown. Within two to three years of disciplined financial behavior, many of our clients see their scores return to the 750+ range, making them eligible for home loans, car loans, and business expansion capital in a thriving Chhattisgarh economy.</p>
@@ -367,7 +367,7 @@ const Page = () => {
                     </section>
 
                     <section id="faqs-chhattisgarh" className="scroll-mt-32 mb-16">
-                        <h2 className="text-3xl font-black mb-8">Frequently Asked Questions: Chhattisgarh Edition</h2>
+                        <h3 className="text-3xl font-black mb-8">Frequently Asked Questions: Chhattisgarh Edition</h3>
                         <div className="space-y-4 not-prose">
                             {[
                                 { q: "Is debt settlement available for small businesses in Raipur?", a: "Yes, we specialize in MSME and small business debt relief. If your Raipur-based business is struggling with overleveraged loans, we help you negotiate a lump sum settlement that allows your business to survive and grow." },
@@ -397,7 +397,7 @@ const Page = () => {
                     </section>
 
                     <section className="mt-16 bg-[#1F5EFF] rounded-3xl p-10 text-center text-white shadow-2xl">
-                        <h2 className="text-3xl md:text-4xl font-black mb-4">Start Your Debt-Free Life in Chhattisgarh Today</h2>
+                        <h3 className="text-3xl md:text-4xl font-black mb-4">Start Your Debt-Free Life in Chhattisgarh Today</h3>
                         <p className="mb-8 text-lg opacity-90 max-w-2xl mx-auto">From the industrial hubs of Raipur to the scenic valleys of Bastar, we have helped thousands of CG residents reclaim their financial dignity. Your fresh start is just one consultation away.</p>
                         <div className="flex justify-center">
                             <Link href="/contact" className="inline-block bg-white text-[#1F5EFF] font-black py-4 px-12 rounded-xl hover:scale-105 transition-all text-xl shadow-lg">

@@ -276,21 +276,21 @@ export default function AuctionNoticeChallengePage() {
             </section>
 
             <section id="decoding-auction-notice" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
                 Decoding the Auction Notice: Rule 8(6) and Rule 9(1)
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 Most borrowers receive a document that looks like a technical mess of legal citations and bank jargon. To fight it, you must first understand what it actually is. In the SARFAESI world, an auction notice is usually composed of two distinct parts under the Security Interest (Enforcement) Rules, 2002.
               </p>
               <div className="grid md:grid-cols-2 gap-8 mb-8">
                 <div className="p-6 bg-blue-50 rounded-xl border border-blue-100 shadow-sm">
-                  <h3 className="text-xl font-bold mb-4 text-blue-900">Rule 8(6): The Private Notice</h3>
+                  <h4 className="text-xl font-bold mb-4 text-blue-900">Rule 8(6): The Private Notice</h4>
                   <p className="text-sm text-blue-800 leading-relaxed mb-4">
                     This is the notice served directly to you, the borrower. The bank is legally required to give you <strong>30 days notice</strong> before they sell the property. This 30 day period is your final chance to pay the dues or find a procedural flaw. If the bank serves you this notice on Monday and publishes it in the newspaper on Tuesday, they have violated the law.
                   </p>
                 </div>
                 <div className="p-6 bg-purple-50 rounded-xl border border-purple-100 shadow-sm">
-                  <h3 className="text-xl font-bold mb-4 text-purple-900">Rule 9(1): The Public Notice</h3>
+                  <h4 className="text-xl font-bold mb-4 text-purple-900">Rule 9(1): The Public Notice</h4>
                   <p className="text-sm text-purple-800 leading-relaxed">
                     This is the notice published in the newspapers. It must be published in at least two leading newspapers, one of which must be in a <strong>vernacular language</strong> (the local language of the area where the property is located). It must contain the time, date, and place of the auction, the reserve price, and the terms of the sale.
                   </p>
@@ -305,9 +305,9 @@ export default function AuctionNoticeChallengePage() {
             {/* I will keep adding large sections with rich details */}
 
             <section id="legal-framework" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
                 The Historical and Legal Framework of SARFAESI
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 The Securitisation and Reconstruction of Financial Assets and Enforcement of Security Interest Act, 2002, was born out of a crisis in the Indian banking system. Before 2002, banks had to go through the civil courts or the DRTs to recover even the smallest debts. These processes could take decades, allowing borrowers to hold on to properties while the debt ballooned. The SARFAESI Act changed the game by allowing banks to take possession and sell assets without direct intervention from a court.
               </p>
@@ -315,7 +315,7 @@ export default function AuctionNoticeChallengePage() {
                 However, to balance this extraordinary power, the legislature and the courts built in "Checkpoints of Justice." These checkpoints are the procedural rules we use today to challenge auction notices. The Supreme Court of India has clarified in multiple landmark judgments that because the SARFAESI Act is a "drastic measure," the bank must follow every single rule to the letter. A "substantial compliance" is not enough; the compliance must be "strict."
               </p>
               <div className="bg-gray-50 p-8 rounded-xl border border-gray-200 mb-8">
-                <h3 className="text-xl font-bold mb-6">The Three Pillars of Your Defense</h3>
+                <h4 className="text-xl font-bold mb-6">The Three Pillars of Your Defense</h4>
                 <ol className="space-y-4">
                   <li className="flex items-start gap-4">
                     <span className="w-6 h-6 bg-[#1F5EFF] text-white rounded-full flex items-center justify-center flex-shrink-0 text-sm">1</span>
@@ -340,9 +340,9 @@ export default function AuctionNoticeChallengePage() {
             </section>
 
             <section id="rule-8-6-explained" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
                 Rule 8(6) Explained: The Mandatory 30 Day Cooling Period
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 Rule 8(6) of the Security Interest (Enforcement) Rules is perhaps the most frequently violated rule by banks. It states that after taking possession (symbolic or physical), the bank must serve a notice to the borrower giving them 30 days to clear the dues before they proceed to sell the property. This is a "personal notice." It must be sent to your registered address via registered post or courier.
               </p>
@@ -358,9 +358,9 @@ export default function AuctionNoticeChallengePage() {
             </section>
 
             <section id="rule-9-1-explained" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
                 Rule 9(1): The Science of Public Publication
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 Once the 30 day notice period of Rule 8(6) is complete, the bank issues the public auction notice under Rule 9(1). This is the notice that goes into the newspapers. The law is very specific about how this must happen. It is not just about placing an ad; it is about informing the world in a way that maximizes the chance of getting a good price for your property.
               </p>
@@ -387,9 +387,9 @@ export default function AuctionNoticeChallengePage() {
             </section>
 
             <section id="right-of-redemption" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
                 Section 13(8): Your Right of Redemption
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 The "Right of Redemption" is an ancient legal principle that says a borrower has the right to save their property by paying off the debt at any time before the sale is finalized. In the original SARFAESI Act, this right was very strong. You could pay even an hour before the auction started. However, in 2016, the law was amended to favor banks.
               </p>
@@ -397,7 +397,7 @@ export default function AuctionNoticeChallengePage() {
                 Now, under the amended Section 13(8), your right to redeem the property is extinguished the moment the bank <strong>publishes</strong> the auction notice. This means you must pay the full dues (plus all bank expenses like advertisement costs) <strong>before</strong> they put that ad in the paper. This is a massive shift in favor of the lender, and it makes it even more important to challenge the 13(2) and 13(4) notices early.
               </p>
               <div className="bg-blue-50 p-8 rounded-xl border border-blue-200 mb-8">
-                <h3 className="text-xl font-bold text-blue-900 mb-4">Strategic Tip: Using Section 13(8) Post-Amendment</h3>
+                <h4 className="text-xl font-bold text-blue-900 mb-4">Strategic Tip: Using Section 13(8) Post-Amendment</h4>
                 <p className="text-sm text-blue-800 leading-relaxed mb-4">
                   Even though the right is legally extinguished upon publication, the Supreme Court has recently started looking into this. In some cases, if the auction fails and no one buys the property, the Right of Redemption might be "reset" for the next auction attempt. This is a complex area of law where we often fight for our clients' rights to pay and save their homes even at the eleventh hour.
                 </p>
@@ -405,9 +405,9 @@ export default function AuctionNoticeChallengePage() {
             </section>
 
             <section id="valuation-disputes" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
                 Fighting the Reserve Price: The Valuation Trap
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 One of the most common ways banks "cheat" the system is by setting a very low reserve price. They do this to ensure that the property sells quickly, as they only care about recovering their principal and interest. They do not care if you lose the surplus equity you spent 20 years building in that property. This is fundamentally illegal under the SARFAESI rules.
               </p>
@@ -420,51 +420,51 @@ export default function AuctionNoticeChallengePage() {
             </section>
 
             <section id="procedural-loopholes" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
                 15 Procedural Loopholes to Challenge Auction Notices
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 To win a case in the DRT, you need technical grounds. Here are 15 of the most effective procedural lapses we look for when we audit an auction notice for our clients.
               </p>
               <div className="grid md:grid-cols-2 gap-4 mb-8">
                 <div className="p-4 border border-[#DEDEDE] rounded-lg hover:border-[#1F5EFF] transition-colors">
-                  <h3 className="font-bold mb-1">1. Non-service of 13(2) Notice</h3>
+                  <h4 className="font-bold mb-1">1. Non-service of 13(2) Notice</h4>
                   <p className="text-xs text-gray-500">If the initial demand notice wasn't served correctly to all co-borrowers.</p>
                 </div>
                 <div className="p-4 border border-[#DEDEDE] rounded-lg hover:border-[#1F5EFF] transition-colors">
-                  <h4 className="font-bold mb-1">2. Generic Reply under 13(3A)</h4>
+                  <h5 className="font-bold mb-1">2. Generic Reply under 13(3A)</h5>
                   <p className="text-xs text-gray-500">If the bank didn't address your specific objections with a reasoned response.</p>
                 </div>
                 <div className="p-4 border border-[#DEDEDE] rounded-lg hover:border-[#1F5EFF] transition-colors">
-                  <h4 className="font-bold mb-1">3. Improper NPA Date</h4>
+                  <h5 className="font-bold mb-1">3. Improper NPA Date</h5>
                   <p className="text-xs text-gray-500">If the account was classified as NPA before the 90 day default period.</p>
                 </div>
                 <div className="p-4 border border-[#DEDEDE] rounded-lg hover:border-[#1F5EFF] transition-colors">
-                  <h4 className="font-bold mb-1">4. Missing 30 Day Rule 8(6) Notice</h4>
+                  <h5 className="font-bold mb-1">4. Missing 30 Day Rule 8(6) Notice</h5>
                   <p className="text-xs text-gray-500">The most common mistake; skiping the personal 30 day notice before publication.</p>
                 </div>
                 <div className="p-4 border border-[#DEDEDE] rounded-lg hover:border-[#1F5EFF] transition-colors">
-                  <h4 className="font-bold mb-1">5. Vernacular Language Error</h4>
+                  <h5 className="font-bold mb-1">5. Vernacular Language Error</h5>
                   <p className="text-xs text-gray-500">Publishing only in English papers when a local language paper is required.</p>
                 </div>
                 <div className="p-4 border border-[#DEDEDE] rounded-lg hover:border-[#1F5EFF] transition-colors">
-                  <h4 className="font-bold mb-1">6. Outdated Valuation Report</h4>
+                  <h5 className="font-bold mb-1">6. Outdated Valuation Report</h5>
                   <p className="text-xs text-gray-500">Using a valuation that is more than one year old to set the reserve price.</p>
                 </div>
                 <div className="p-4 border border-[#DEDEDE] rounded-lg hover:border-[#1F5EFF] transition-colors">
-                  <h4 className="font-bold mb-1">7. Incorrect Boundaries</h4>
+                  <h5 className="font-bold mb-1">7. Incorrect Boundaries</h5>
                   <p className="text-xs text-gray-500">Misdescribing the property in the public notice, leading to potential low bids.</p>
                 </div>
                 <div className="p-4 border border-[#DEDEDE] rounded-lg hover:border-[#1F5EFF] transition-colors">
-                  <h4 className="font-bold mb-1">8. Unauthorized Officer Signature</h4>
+                  <h5 className="font-bold mb-1">8. Unauthorized Officer Signature</h5>
                   <p className="text-xs text-gray-500">Notice signed by an employee below the rank of an 'Authorized Officer'.</p>
                 </div>
                 <div className="p-4 border border-[#DEDEDE] rounded-lg hover:border-[#1F5EFF] transition-colors">
-                  <h4 className="font-bold mb-1">9. Failure to Affix Notice</h4>
+                  <h5 className="font-bold mb-1">9. Failure to Affix Notice</h5>
                   <p className="text-xs text-gray-500">Not pasting the possession or auction notice on a conspicuous part of the property.</p>
                 </div>
                 <div className="p-4 border border-[#DEDEDE] rounded-lg hover:border-[#1F5EFF] transition-colors">
-                  <h4 className="font-bold mb-1">10. Including Unsecured Chages</h4>
+                  <h5 className="font-bold mb-1">10. Including Unsecured Chages</h5>
                   <p className="text-xs text-gray-500">Adding credit card debt or other unsecured dues into the SARFAESI demand notice.</p>
                 </div>
               </div>
@@ -474,9 +474,9 @@ export default function AuctionNoticeChallengePage() {
             </section>
 
             <section id="challenging-in-drt" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
                 The Battle at the DRT: Filing your Securitisation Application (SA)
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 Directly challenging a bank's internal recovery team is usually futile; they will simply ignore your letters. To get their attention, you must bring them before a judge in the Debt Recovery Tribunal (DRT). Filing an application under Section 17 of the SARFAESI Act is the only way to challenge an auction notice.
               </p>
@@ -484,7 +484,7 @@ export default function AuctionNoticeChallengePage() {
                 When you file an SA, the process moves from the bank's office to a courtroom. The bank is now required to file a "Counter Affidavit" and prove, with evidence, that they followed every step of the law. This shifts the power balance. In the DRT, you can request the judge to summon the bank's internal records, the valuation report, and the proof of notice service. Most banks struggle to produce perfect documentation for every stage.
               </p>
               <div className="bg-[#2E2E2E] text-white p-8 rounded-2xl mb-8 shadow-xl">
-                <h3 className="text-xl font-bold mb-4">The Checklist for Filing an SA</h3>
+                <h4 className="text-xl font-bold mb-4">The Checklist for Filing an SA</h4>
                 <ul className="space-y-3 opacity-90 text-sm">
                   <li>✓ Complete copy of the 13(2) notice and your reply to it.</li>
                   <li>✓ Copy of the 13(4) possession notice and the paper publications.</li>
@@ -497,9 +497,9 @@ export default function AuctionNoticeChallengePage() {
             </section>
 
             <section id="obtaining-a-stay" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
                 How to Get an Interaction/Stay Order
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 A "Stay Order" is an interim command from the DRT that stops the auction from proceeding. This is the immediate goal of any legal challenge. To get a stay, your lawyer must convince the judge of three things: a Prima Facie Case (the bank made an obvious mistake), Irreparable Injury (you will lose your home forever if the stay isn't granted), and Balance of Convenience (the bank already has the property as security, so a short delay doesn't hurt them as much as it hurts you).
               </p>
@@ -509,27 +509,27 @@ export default function AuctionNoticeChallengePage() {
             </section>
 
             <section id="landmark-judgments" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
                 Landmark Court Rulings: The Legal Precedents
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 The law of SARFAESI is constantly evolving through the judgments of the Supreme Court and Various High Courts. These judgments are the "case laws" we cite in the DRT to win our cases.
               </p>
               <div className="space-y-6 mb-8">
                 <div className="p-6 bg-white border border-[#DEDEDE] rounded-xl shadow-sm">
-                  <h3 className="font-bold text-[#1F5EFF] mb-2 font-mono uppercase text-sm">Mathew Varghese vs M. Amritha Kumar (2014)</h3>
+                  <h4 className="font-bold text-[#1F5EFF] mb-2 font-mono uppercase text-sm">Mathew Varghese vs M. Amritha Kumar (2014)</h4>
                   <p className="text-sm text-gray-600 leading-relaxed">
                     This is the "Bible" of auction challenges. The Supreme Court held that the 30 day notice period under Rule 8(6) is mandatory and cannot be waived. If the bank fails to provide this personal notice, the entire auction publication in the newspaper becomes invalid. This case has saved countless homes in India.
                   </p>
                 </div>
                 <div className="p-6 bg-white border border-[#DEDEDE] rounded-xl shadow-sm">
-                  <h3 className="font-bold text-[#1F5EFF] mb-2 font-mono uppercase text-sm">Vasudeu vs State Bank of India</h3>
+                  <h4 className="font-bold text-[#1F5EFF] mb-2 font-mono uppercase text-sm">Vasudeu vs State Bank of India</h4>
                   <p className="text-sm text-gray-600 leading-relaxed">
                     In this case, the court clarified that the bank must provide a <strong>reasoned reply</strong> to the borrower's objection within 15 days. Filing a generic "we have reviewed and rejected your claim" is not enough. The reply must address each point raised by the borrower.
                   </p>
                 </div>
                 <div className="p-6 bg-white border border-[#DEDEDE] rounded-xl shadow-sm">
-                  <h3 className="font-bold text-[#1F5EFF] mb-2 font-mono uppercase text-sm">Amar Nath Dogra vs Jamia Co-operative Bank</h3>
+                  <h4 className="font-bold text-[#1F5EFF] mb-2 font-mono uppercase text-sm">Amar Nath Dogra vs Jamia Co-operative Bank</h4>
                   <p className="text-sm text-gray-600 leading-relaxed">
                     The court emphasized that the bank has a "sacred duty" to get the best price for the property. Selling a multi-crore property for a pittance just to recover a small loan was declared a "fraud on the power" of the bank.
                   </p>
@@ -538,9 +538,9 @@ export default function AuctionNoticeChallengePage() {
             </section>
 
             <section id="ots-as-leverage" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
                 The Ultimate Exit Strategy: One Time Settlement (OTS)
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 While winning a court case is great, it often just delays the inevitable. The bank will eventually fix their mistakes and issue a fresh notice. The real goal should be to use the legal time bought through the DRT to negotiate a One Time Settlement (OTS).
               </p>
@@ -553,7 +553,7 @@ export default function AuctionNoticeChallengePage() {
             </section>
 
             <section id="success-stories" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 text-center">Real Stories of Property Protection</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 text-center">Real Stories of Property Protection</h3>
               <div className="grid md:grid-cols-2 gap-6 not-prose">
                 {[
                   {
@@ -591,7 +591,7 @@ export default function AuctionNoticeChallengePage() {
                         {review.name.charAt(0)}
                       </div>
                       <div>
-                        <h3 className="font-bold text-[#2E2E2E]">{review.name}</h3>
+                        <h4 className="font-bold text-[#2E2E2E]">{review.name}</h4>
                         <p className="text-xs text-gray-400">{review.loc}</p>
                       </div>
                       <div className="ml-auto text-yellow-400 text-sm">★★★★★</div>
@@ -606,9 +606,9 @@ export default function AuctionNoticeChallengePage() {
             </section>
 
             <section id="defective-service" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
                 Service of Notice Errors: The Most Common Loophole
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 "Service" means the actual delivery of the notice to you. The law says the notice must be <strong>served</strong>, not just <strong>sent</strong>. If the bank sent the notice to an old address, or if the courier tracking shows "Door Locked" and they didn't try again properly, the service is defective.
               </p>
@@ -618,9 +618,9 @@ export default function AuctionNoticeChallengePage() {
             </section>
 
             <section id="physical-possession-link" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
                 The Link Between Auction and Physical Possession
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 A common misconception is that the bank needs physical possession to conduct an auction. This is false. A bank can conduct an auction based on <strong>symbolic possession</strong>. This is actually a major ground for challenge. A buyer in an auction will always pay less for a property where the borrower is still living (because the buyer will have to fight for eviction later).
               </p>
@@ -633,9 +633,9 @@ export default function AuctionNoticeChallengePage() {
             </section>
 
             <section id="protection-strategies" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
                 Long Term Protection: Life After the Challenge
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 Once the immediate threat of auction is gone, the work of rebuilding begins. A SARFAESI notice is a massive scar on your credit history (CIBIL). After we help you settle the loan, we guide you on how to ensure the bank issues a No Objection Certificate (NOC) and updates the CIBIL portal correctly to show the account as "Settled" or "Closed."
               </p>
@@ -645,14 +645,14 @@ export default function AuctionNoticeChallengePage() {
             </section>
 
             <section id="mental-health-support" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
                 Coping with the Stress: Your Life is More Than a Property
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-10">
                 The pressure of an auction notice is immense. We have seen the strongest of individuals break down under the stress of potentially losing their family home. We want you to know that while property is important, your life and your mental health are infinitely more valuable. Debt is a financial state, not a character flaw.
               </p>
               <div className="bg-emerald-50 p-8 rounded-2xl border border-emerald-100 mb-8">
-                <h3 className="text-xl font-bold text-emerald-800 mb-4">You Are Not Alone</h3>
+                <h4 className="text-xl font-bold text-emerald-800 mb-4">You Are Not Alone</h4>
                 <p className="mb-4 text-emerald-900/80 leading-relaxed text-lg">
                   If you are feeling overwhelmed, please reach out to friends, family, or professional counselors. Breaking the silence of debt is the first step toward solving it. At SettleLoans, we act not just as your legal shield but as your empathetic partners. We treat every case with the dignity and confidentiality it deserves.
                 </p>
@@ -663,7 +663,7 @@ export default function AuctionNoticeChallengePage() {
             </section>
 
             <section id="common-questions" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Common Questions About Auction Notice Challenges</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Common Questions About Auction Notice Challenges</h3>
               <div className="space-y-4 not-prose">
                 {[
                   { q: "Can I sell my property privately after an auction notice is issued?", a: "Technically, the bank's publication extinguishes your right to sell. However, in practice, if you find a buyer who is willing to pay the bank's entire dues (plus expenses) and the bank agrees, you can consummate a 'Private Sale' to settle the account. This is often the best way to get a higher price than a public auction." },
@@ -694,7 +694,7 @@ export default function AuctionNoticeChallengePage() {
  
              {/* Review Snippets */}
              <section id="recent-success" className="scroll-mt-32 mb-16">
-               <h3 className="text-xs font-black uppercase tracking-wider text-[#747474] mb-8 border-b border-[#DEDEDE] pb-2 text-center">Direct Impact: Recent Success Snippets</h3>
+               <h4 className="text-xs font-black uppercase tracking-wider text-[#747474] mb-8 border-b border-[#DEDEDE] pb-2 text-center">Direct Impact: Recent Success Snippets</h4>
                <div className="grid md:grid-cols-2 gap-4">
                  {[
                    { name: "RAKESH V.", loc: "KOLKATA", outcome: "Auction Stopped", story: "The bank auction was stopped just 48 hours before the hammer fell. SettleLoans is incredible." },
@@ -706,7 +706,7 @@ export default function AuctionNoticeChallengePage() {
                          {review.name.charAt(0)}
                        </div>
                        <div>
-                         <h4 className="font-bold text-[#2E2E2E] text-sm">{review.name}</h4>
+                         <h5 className="font-bold text-[#2E2E2E] text-sm">{review.name}</h5>
                          <p className="text-xs text-gray-400">{review.loc}</p>
                        </div>
                        <div className="ml-auto text-yellow-400 text-sm">★★★★★</div>
@@ -728,7 +728,7 @@ export default function AuctionNoticeChallengePage() {
             <div className="lg:hidden mt-16 mb-8">
               <div className="bg-[#2E2E2E] rounded-2xl shadow-xl overflow-hidden border border-[#1F5EFF]/20">
                 <div className="bg-[#1F5EFF] p-6 text-center text-white">
-                  <h3 className="text-2xl font-black mb-2">Auction Deadline Approaching?</h3>
+                  <h4 className="text-2xl font-black mb-2">Auction Deadline Approaching?</h4>
                   <p className="opacity-90 text-sm">Join the 18,000+ Indians we've helped secure their property rights and financial peace.</p>
                 </div>
                 <div className="p-8 text-center text-[#DEDEDE]">
@@ -798,7 +798,7 @@ export default function AuctionNoticeChallengePage() {
         
         {/* Bottom CTA Section */}
         <section className="w-full bg-[#1F5EFF] py-16 px-4 md:px-8 lg:px-16 text-center">
-            <h2 className="text-3xl md:text-5xl font-black text-white mb-8 leading-tight">Every Minute Counts in an Auction Crisis</h2>
+            <h3 className="text-3xl md:text-5xl font-black text-white mb-8 leading-tight">Every Minute Counts in an Auction Crisis</h3>
             <p className="text-white/80 text-lg md:text-xl max-w-3xl mx-auto mb-10">
                 The hammer hasn't fallen yet. Our team is ready to identify procedural lapses, file your DRT stay application, and protect your sanctuary. Join thousands who fought back and won.
             </p>

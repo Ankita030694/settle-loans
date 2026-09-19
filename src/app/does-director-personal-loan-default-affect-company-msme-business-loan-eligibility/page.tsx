@@ -178,7 +178,7 @@ export default function DirectorDefaultImpactPage() {
                   Unfortunately, this is not how commercial banking works. When a business applies for an MSME loan, working capital, or a letter of credit, banks don't just look at the company's balance sheet—they aggressively scrutinize the individuals running the show. A personal loan default by a single director can abruptly halt the entire company's growth.
                 </p>
                 <div className="bg-blue-50 p-8 rounded-2xl border border-blue-100 my-10">
-                  <h3 className="text-xl font-bold text-blue-900 mb-4 italic">The 'Separate Legal Entity' Myth</h3>
+                  <h4 className="text-xl font-bold text-blue-900 mb-4 italic">The 'Separate Legal Entity' Myth</h4>
                   <p className="text-blue-800 text-sm leading-6">
                     Legally speaking, a Private Limited Company is indeed a separate legal entity. However, from a bank's risk assessment perspective, a company is operated by its directors. If a director demonstrates poor financial discipline in their personal life by defaulting on a personal loan or credit card, the bank assumes they will exhibit the same negligence when managing the company's funds. 
                   </p>
@@ -187,29 +187,29 @@ export default function DirectorDefaultImpactPage() {
             </section>
 
             <section id="why-banks-scrutinize" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                 Why Banks Scrutinize Director CIBIL Scores
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 When processing any commercial loan, the credit manager must verify the "Character" of the management team—one of the traditional 5 Cs of credit. The director CIBIL score impact on a private limited company is absolute.
               </p>
               <div className="space-y-8 my-10">
                 <div className="p-8 bg-white border border-[#DEDEDE] rounded-2xl shadow-sm hover:shadow-md transition-all">
-                  <h3 className="text-2xl font-black text-[#1F5EFF] mb-4 underline">1. Management Integrity Risk</h3>
+                  <h4 className="text-2xl font-black text-[#1F5EFF] mb-4 underline">1. Management Integrity Risk</h4>
                   <p className="mb-4 text-[var(--color-text-body)]">
                     Banks view a personal default as a red flag for poor financial management, directly translating that risk to how the business will be run. If a director cannot manage their personal liabilities, commercial underwriters will instantly doubt their ability to manage a multi-crore working capital limit.
                   </p>
                 </div>
 
                 <div className="p-8 bg-white border border-[#DEDEDE] rounded-2xl shadow-sm hover:shadow-md transition-all">
-                  <h3 className="text-2xl font-black text-[#2E2E2E] mb-4 italic">2. Guarantor Requirements</h3>
+                  <h4 className="text-2xl font-black text-[#2E2E2E] mb-4 italic">2. Guarantor Requirements</h4>
                   <p className="mb-4 text-[var(--color-text-body)]">
                     Almost all MSME and working capital loans require the directors to sign as personal guarantors. A defaulter cannot be a valid guarantor. The moment their PAN is flagged in the CIBIL system, their guarantee becomes legally and financially worthless to the lending institution.
                   </p>
                 </div>
 
                 <div className="p-8 bg-white border border-[#DEDEDE] rounded-2xl shadow-sm hover:shadow-md transition-all">
-                  <h3 className="text-2xl font-black text-[#2E2E2E] mb-4">3. Co-Mingling of Funds & RBI Directives</h3>
+                  <h4 className="text-2xl font-black text-[#2E2E2E] mb-4">3. Co-Mingling of Funds & RBI Directives</h4>
                   <p className="mb-4 text-[var(--color-text-body)]">
                     Banks fear that a desperate director might illegally siphon business loan funds to pay off aggressive personal loan recovery agents. Furthermore, under strict RBI guidelines, lending to entities managed by willful defaulters or individuals with severely impaired credit is highly restricted.
                   </p>
@@ -218,9 +218,9 @@ export default function DirectorDefaultImpactPage() {
             </section>
 
             <section id="ccr-anatomy" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                 Anatomy of a <span className="text-[#1F5EFF]">CIBIL Commercial Report (CCR)</span>
-              </h2>
+              </h3>
               <div className="prose prose-lg max-w-none text-[var(--color-text-body)]">
                 <p className="mb-6 leading-relaxed">
                   To understand why a personal default matters, you must understand how a company's credit report is generated. Unlike retail CIBIL, which ranks individuals from 300 to 900, the CIBIL Commercial Report (CCR) assigns a CIBIL Rank (CMR) to MSMEs on a scale of 1 to 10, where CMR-1 is the best and CMR-10 is the worst.
@@ -229,7 +229,7 @@ export default function DirectorDefaultImpactPage() {
                   The algorithm behind the CMR heavily weights the background of the promoters. When a bank pulls a CCR, the system dynamically queries the retail CIBIL database for the PAN cards of all active directors listed on the MCA (Ministry of Corporate Affairs) master data. The data is merged. If a director's retail CIBIL shows a default, 'Written Off', or 'Settled' status, the algorithm imposes a severe penalty on the company's CMR.
                 </p>
                 <div className="bg-gray-50 p-8 rounded-2xl border border-[#DEDEDE] my-10">
-                  <h3 className="text-xl font-bold text-[#2E2E2E] mb-4 underline">The Silent Linkage</h3>
+                  <h4 className="text-xl font-bold text-[#2E2E2E] mb-4 underline">The Silent Linkage</h4>
                   <p className="text-sm leading-6">
                     Many founders are unaware that simply being appointed as an Additional Director on the board of a startup instantly links their personal financial history to the startup's commercial credit profile. There is no opting out of this linkage; it is a fundamental architectural rule of India's credit bureau framework.
                   </p>
@@ -238,27 +238,27 @@ export default function DirectorDefaultImpactPage() {
             </section>
 
             <section id="types-of-defaults" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                 Types of Defaults that Trigger Red Flags
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 Not all credit blips are treated equally by commercial lenders. Banks categorize personal delinquencies into different risk buckets before deciding whether to reject an MSME loan.
               </p>
               <div className="grid md:grid-cols-2 gap-8 my-10">
                 <div className="bg-white p-8 rounded-2xl border border-[#DEDEDE] shadow-sm">
-                  <h3 className="text-2xl font-black text-[#2E2E2E] mb-4">SMA-1 and SMA-2 Delays</h3>
+                  <h4 className="text-2xl font-black text-[#2E2E2E] mb-4">SMA-1 and SMA-2 Delays</h4>
                   <p className="text-gray-700 leading-relaxed mb-4">
                     Special Mention Accounts (SMA) indicate a delay in payment before an account officially becomes a Non-Performing Asset (NPA). An SMA-1 (31-60 days late) or SMA-2 (61-90 days late) by a director might not trigger an automatic rejection. However, the commercial underwriter will demand a written explanation and proof that the dues have been cleared.
                   </p>
                 </div>
                 <div className="bg-white p-8 rounded-2xl border border-[#DEDEDE] shadow-sm">
-                  <h3 className="text-2xl font-black text-[#2E2E2E] mb-4">Unsecured Loan Defaults</h3>
+                  <h4 className="text-2xl font-black text-[#2E2E2E] mb-4">Unsecured Loan Defaults</h4>
                   <p className="text-gray-700 leading-relaxed mb-4">
                     Defaults on unsecured personal loans and credit cards are viewed with extreme prejudice. Since these loans require no collateral, a default indicates a pure failure of character and financial discipline. This is a massive red flag for any MSME loan application.
                   </p>
                 </div>
                 <div className="bg-white p-8 rounded-2xl border border-[#DEDEDE] shadow-sm md:col-span-2">
-                  <h3 className="text-2xl font-black text-red-600 mb-4">Willful Defaulter Status</h3>
+                  <h4 className="text-2xl font-black text-red-600 mb-4">Willful Defaulter Status</h4>
                   <p className="text-gray-700 leading-relaxed mb-4">
                     If a director is classified as a 'Willful Defaulter' (someone who has the capacity to pay but intentionally refuses), the door to commercial credit is permanently slammed shut. No bank or NBFC is permitted to lend to a company with a willful defaulter on its board.
                   </p>
@@ -267,9 +267,9 @@ export default function DirectorDefaultImpactPage() {
             </section>
 
             <section id="co-director-impact" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                 Collateral Damage: <span className="text-[#1F5EFF]">Impact on Co-Directors</span>
-              </h2>
+              </h3>
               <div className="prose prose-lg max-w-none text-[var(--color-text-body)]">
                 <p className="mb-6 leading-relaxed">
                   A business partnership relies heavily on trust, but a personal loan default introduces toxic friction into the boardroom. When an MSME loan is rejected due to one director's default, the financial burden cascades onto the co-directors.
@@ -284,9 +284,9 @@ export default function DirectorDefaultImpactPage() {
             </section>
 
             <section id="chain-reaction" className="scroll-mt-32 mb-16 overflow-x-auto">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight text-center">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight text-center">
                 The Rejection <span className="text-[#1F5EFF]">Chain Reaction</span>
-              </h2>
+              </h3>
               <div className="min-w-[800px]">
                 <table className="w-full border-collapse bg-white shadow-xl rounded-2xl overflow-hidden border border-[#DEDEDE]">
                   <thead>
@@ -318,9 +318,9 @@ export default function DirectorDefaultImpactPage() {
             </section>
 
             <section id="legal-nuances" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                 Legal Nuances: <span className="text-[#1F5EFF]">Companies Act vs. RBI Directives</span>
-              </h2>
+              </h3>
               <div className="prose prose-lg max-w-none text-[var(--color-text-body)]">
                 <p className="mb-6 leading-relaxed">
                   Founders often argue with loan managers by citing the Companies Act, 2013, which enshrines the principle of the "Corporate Veil." This legal doctrine states that a company is an artificial legal person distinct from its shareholders and directors.
@@ -335,12 +335,12 @@ export default function DirectorDefaultImpactPage() {
             </section>
 
             <section id="blacklist-risk" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                 The Complete Blacklist Risk: <span className="text-black">RBI's Cross-Pollination Rule</span>
-              </h2>
+              </h3>
               <div className="grid md:grid-cols-1 gap-10 my-12">
                 <div className="bg-red-50 p-8 rounded-2xl border border-red-100">
-                  <h3 className="text-xl font-bold mb-4 text-red-900 leading-tight italic underline">Warning: Systemic Contagion</h3>
+                  <h4 className="text-xl font-bold mb-4 text-red-900 leading-tight italic underline">Warning: Systemic Contagion</h4>
                   <p className="text-sm leading-6 mb-6 text-red-900/80 font-medium">
                     If a director is classified as a "Willful Defaulter" by any bank, RBI guidelines dictate that <strong>no additional facilities should be granted by any bank/FI to any company where such a person is a director</strong>. This means one director's personal mistake can completely blacklist multiple, otherwise healthy, companies.
                   </p>
@@ -354,9 +354,9 @@ export default function DirectorDefaultImpactPage() {
             </section>
 
             <section id="alternative-financing" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                 Short-Term Alternative Financing Options
-              </h2>
+              </h3>
               <div className="prose prose-lg max-w-none text-[var(--color-text-body)]">
                 <p className="mb-6 leading-relaxed">
                   Fixing a director's CIBIL issue or restructuring the board takes time. Meanwhile, the business needs cash. Traditional banks will block you, but alternative financing platforms operate on different risk models.
@@ -378,9 +378,9 @@ export default function DirectorDefaultImpactPage() {
             </section>
 
             <section id="preventative-structures" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                 Preventative Board Structures for Startups
-              </h2>
+              </h3>
               <div className="prose prose-lg max-w-none text-[var(--color-text-body)]">
                 <p className="mb-6 leading-relaxed">
                   Prevention is vastly cheaper than the cure. Modern startups should design their board structures to insulate the company from personal credit shocks.
@@ -389,7 +389,7 @@ export default function DirectorDefaultImpactPage() {
                   First, perform a rigorous CIBIL audit of any incoming co-founder before formally adding them as a director to the MCA database. If a co-founder has a distressed credit history, they should remain a shareholder and an employee (e.g., VP of Product) but should <strong>not</strong> be appointed to the Board of Directors.
                 </p>
                 <div className="bg-emerald-50 p-8 rounded-2xl border border-emerald-100 my-10">
-                  <h3 className="text-xl font-bold text-emerald-900 mb-4 underline">Annual CIBIL Declarations</h3>
+                  <h4 className="text-xl font-bold text-emerald-900 mb-4 underline">Annual CIBIL Declarations</h4>
                   <p className="text-sm leading-6 text-emerald-800">
                     Forward-thinking boards now include clauses in their Shareholder Agreements (SHA) requiring all directors to submit their personal CIBIL reports annually. If a director's score drops below 700 due to defaults, the SHA can mandate their temporary resignation from the board until the issue is resolved, protecting the company's MSME loan eligibility.
                   </p>
@@ -398,14 +398,14 @@ export default function DirectorDefaultImpactPage() {
             </section>
 
             <section id="how-to-restore" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                 How to Restore the Company's Creditworthiness
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 If your company's MSME loan is stuck due to a director's default, you must act quickly to remove the block. There are only two viable legal paths forward.
               </p>
               <div className="prose prose-lg max-w-none text-[var(--color-text-body)]">
-                <h3 className="text-2xl font-black mt-10 mb-6 text-[#2E2E2E]">Action Plan 1: Settle the Personal Default</h3>
+                <h4 className="text-2xl font-black mt-10 mb-6 text-[#2E2E2E]">Action Plan 1: Settle the Personal Default</h4>
                 <p className="mb-6 leading-relaxed">
                   The most direct route is to fix the root cause. The defaulting director must resolve the outstanding personal loan. This involves negotiating a One-Time Settlement (OTS) with the bank to close the personal loan account and obtain the No Dues Certificate (NDC).
                 </p>
@@ -413,7 +413,7 @@ export default function DirectorDefaultImpactPage() {
                   Once obtained, submit the NDC to the commercial loan underwriter with a strong justification letter explaining the delay or past default. Often, commercial lenders will accept a 'Settled' status if the underlying business metrics are exceptionally strong.
                 </p>
 
-                <h3 className="text-2xl font-black mt-10 mb-6 text-[#2E2E2E]">Action Plan 2: Restructure the Board of Directors</h3>
+                <h4 className="text-2xl font-black mt-10 mb-6 text-[#2E2E2E]">Action Plan 2: Restructure the Board of Directors</h4>
                 <p className="mb-6 leading-relaxed">
                   If the director cannot settle the debt, the company must sever the legal tie to their CIBIL score. The defaulting director must officially resign from the board and update the DIR-12 form with the Ministry of Corporate Affairs (MCA).
                 </p>
@@ -427,7 +427,7 @@ export default function DirectorDefaultImpactPage() {
             </section>
 
             <section id="success-stories" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 text-center">Real Stories of Freedom</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 text-center">Real Stories of Freedom</h3>
               <div className="grid md:grid-cols-2 gap-6 not-prose">
                 {[
                   {
@@ -451,7 +451,7 @@ export default function DirectorDefaultImpactPage() {
                         {review.name.charAt(0)}
                       </div>
                       <div>
-                        <h3 className="font-bold text-[#2E2E2E]">{review.name}</h3>
+                        <h4 className="font-bold text-[#2E2E2E]">{review.name}</h4>
                         <p className="text-xs text-gray-400">{review.loc}</p>
                       </div>
                       <div className="ml-auto text-yellow-400 text-sm">★★★★★</div>
@@ -466,7 +466,7 @@ export default function DirectorDefaultImpactPage() {
             </section>
 
             <section id="faqs" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 text-center underline italic">Frequently Asked Questions</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 text-center underline italic">Frequently Asked Questions</h3>
               <div className="space-y-4 not-prose">
                 {[
                   { q: "Can a private limited company get a loan if one director is a defaulter?", a: "Generally, no. Even though a private limited company is a separate legal entity, banks pull the personal CIBIL scores of all active directors. A default by any key director usually leads to automatic rejection of MSME or working capital loans." },

@@ -275,9 +275,9 @@ export default function BankRecoveryAgentThreateningMePage() {
             </section>
 
             <section id="who-are-agents" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
                 Understanding Who Recovery Agents Really Are
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 Recovery agents are professionals or agencies hired by banks and NBFCs (Non-Banking Financial Companies) to follow up on late payments and defaults. While some banks have their own in-house recovery teams, many outsource this task to third-party Collection Agencies. These agencies often work on a commission basis, which unfortunately can incentivize aggressive and sometimes illegal behavior.
               </p>
@@ -288,7 +288,7 @@ export default function BankRecoveryAgentThreateningMePage() {
                 In many cases, the people calling you are part of a massive call center operation. They read from scripts designed to maximize pressure and anxiety. They might use technical-sounding legal jargon to confuse you. By understanding that this is a systematic process designed to extract payment through psychological stress, you can begin to distance yourself emotionally from their tactics.
               </p>
               <div className="bg-gray-50 p-8 rounded-xl border border-gray-200 mb-8">
-                <h3 className="text-xl font-bold mb-6">Common Myths vs. Legal Reality</h3>
+                <h4 className="text-xl font-bold mb-6">Common Myths vs. Legal Reality</h4>
                 <div className="grid md:grid-cols-2 gap-6">
                   <div className="p-4 bg-white rounded-lg border border-gray-100">
                     <p className="text-red-600 font-bold text-sm mb-2">The Myth:</p>
@@ -311,9 +311,9 @@ export default function BankRecoveryAgentThreateningMePage() {
             </section>
 
             <section id="rbi-rules" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
                 The RBI Master Circular: Your Legal Shield
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 The Reserve Bank of India is the ultimate authority over all financial institutions in the country. To prevent the exploitation of borrowers, the RBI has issued a "Master Circular" on the conduct of recovery agents. These rules are mandatory, and any bank found violating them faces severe penalties and public censure.
               </p>
@@ -321,7 +321,7 @@ export default function BankRecoveryAgentThreateningMePage() {
                 The core philosophy of these guidelines is that credit recovery must be done with dignity. The RBI acknowledges that while banks have a right to get their money back, they do not have a right to harass citizens. Every bank is responsible for the actions of their agents, even if those agents are from a third-party agency. This means you can hold the bank directly accountable for the behavior of a collection caller.
               </p>
               <div className="bg-blue-50 p-8 rounded-xl border border-blue-200 mb-8">
-                <h3 className="text-xl font-bold mb-4 text-blue-900">Key Pillars of the RBI Guidelines</h3>
+                <h4 className="text-xl font-bold mb-4 text-blue-900">Key Pillars of the RBI Guidelines</h4>
                 <ul className="space-y-4 text-blue-900/80">
                   <li className="flex items-start gap-3">
                     <span className="w-1.5 h-1.5 bg-blue-600 rounded-full mt-2 flex-shrink-0"></span>
@@ -347,9 +347,9 @@ export default function BankRecoveryAgentThreateningMePage() {
             </section>
 
             <section id="prohibited-actions" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
                 Strictly Prohibited Collection Acts
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 It is vital to recognize explicitly what constitutes a violation of the law. Many borrowers assume that because they owe money, they should just 'take' whatever treatment they get. This is incorrect. The following acts are illegal in the eyes of the RBI and Indian law:
               </p>
@@ -358,21 +358,21 @@ export default function BankRecoveryAgentThreateningMePage() {
                   <div className="w-12 h-12 bg-red-100 rounded-full flex items-center justify-center mx-auto mb-4">
                     <svg className="w-6 h-6 text-red-600" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M12 9v2m0 4h.01m-6.938 4h13.856c1.54 0 2.502-1.667 1.732-3L13.732 4c-.77-1.333-2.694-1.333-3.464 0L3.34 16c-.77 1.333.192 3 1.732 3z"></path></svg>
                   </div>
-                  <h3 className="font-bold mb-2">Verbal Abuse</h3>
+                  <h4 className="font-bold mb-2">Verbal Abuse</h4>
                   <p className="text-xs text-gray-500">Using foul language or shouting at the borrower.</p>
                 </div>
                 <div className="p-6 bg-white border border-[#DEDEDE] rounded-xl shadow-sm text-center">
                   <div className="w-12 h-12 bg-red-100 rounded-full flex items-center justify-center mx-auto mb-4">
                     <svg className="w-6 h-6 text-red-600" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M18.364 18.364A9 9 0 005.636 5.636m12.728 12.728L5.636 5.636"></path></svg>
                   </div>
-                  <h4 className="font-bold mb-2">Third Party Contact</h4>
+                  <h5 className="font-bold mb-2">Third Party Contact</h5>
                   <p className="text-xs text-gray-500">Calling your relatives, friends, or supervisor.</p>
                 </div>
                 <div className="p-6 bg-white border border-[#DEDEDE] rounded-xl shadow-sm text-center">
                   <div className="w-12 h-12 bg-red-100 rounded-full flex items-center justify-center mx-auto mb-4">
                     <svg className="w-6 h-6 text-red-600" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M8.228 9c.549-1.165 2.03-2 3.772-2 2.21 0 4 1.343 4 3 0 1.4-1.278 2.575-3.006 2.907-.542.104-.994.54-.994 1.093m0 3h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z"></path></svg>
                   </div>
-                  <h4 className="font-bold mb-2">False Identity</h4>
+                  <h5 className="font-bold mb-2">False Identity</h5>
                   <p className="text-xs text-gray-500">Pretending to be a lawyer or a police officer.</p>
                 </div>
               </div>
@@ -385,25 +385,25 @@ export default function BankRecoveryAgentThreateningMePage() {
             </section>
 
             <section id="legal-rights" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Your Fundamental Rights as a Borrower</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Your Fundamental Rights as a Borrower</h3>
               <p className="mb-6 text-lg">
                 The Indian legal system provides several protections that ensure a fair playing field even when you are in default. You are a citizen before you are a borrower, and your constitutional rights remain intact.
               </p>
               <div className="space-y-6">
                 <div className="p-8 bg-white border border-[#DEDEDE] rounded-2xl shadow-sm">
-                  <h3 className="text-xl font-bold text-[#1F5EFF] mb-4">The Right to Privacy</h3>
+                  <h4 className="text-xl font-bold text-[#1F5EFF] mb-4">The Right to Privacy</h4>
                   <p className="text-gray-600 leading-relaxed mb-4">
                     The Supreme Court of India has recognized privacy as a fundamental right. This extends to your financial life. A bank or its agent has no right to broadcast your financial failures to the world. Any act that attempts to shame you into paying is a direct violation of this right.
                   </p>
                 </div>
                 <div className="p-8 bg-white border border-[#DEDEDE] rounded-2xl shadow-sm">
-                  <h3 className="text-xl font-bold text-[#1F5EFF] mb-4">The Right to Civil Remediation</h3>
+                  <h4 className="text-xl font-bold text-[#1F5EFF] mb-4">The Right to Civil Remediation</h4>
                   <p className="text-gray-600 leading-relaxed mb-4">
                     If you cannot pay, the bank's remedy is to follow the civil legal process. This might involve filing a suit in a civil court or approaching a Debt Recovery Tribunal (DRT). These processes take time and allow you to present your side of the story. No one can shortcut this process through intimidation.
                   </p>
                 </div>
                 <div className="p-8 bg-white border border-[#DEDEDE] rounded-2xl shadow-sm">
-                  <h3 className="text-xl font-bold text-[#1F5EFF] mb-4">The Right to Notice</h3>
+                  <h4 className="text-xl font-bold text-[#1F5EFF] mb-4">The Right to Notice</h4>
                   <p className="text-gray-600 leading-relaxed mb-4">
                     You have the right to be informed. Banks must send you formal notices before taking any major action, such as declaring an account as an NPA (Non-Performing Asset) or initiating recovery. You cannot be blindsided by sudden "legal actions" without proper written communication.
                   </p>
@@ -415,7 +415,7 @@ export default function BankRecoveryAgentThreateningMePage() {
             </section>
 
             <section id="immediate-steps" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Immediate Action Plan for Handling Threats</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Immediate Action Plan for Handling Threats</h3>
               <p className="mb-6">
                 When you are in the heat of a threatening interaction, it is hard to think clearly. Here is a step-by-step checklist to regain control of the situation:
               </p>
@@ -423,28 +423,28 @@ export default function BankRecoveryAgentThreateningMePage() {
                 <div className="flex items-start">
                   <div className="flex-shrink-0 w-10 h-10 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center font-bold mr-4">1</div>
                   <div>
-                    <h3 className="font-bold text-lg mb-2">Record Everything</h3>
+                    <h4 className="font-bold text-lg mb-2">Record Everything</h4>
                     <p className="text-sm text-gray-600">Install a call recording app if your phone doesn't have one native. If an agent visits, record the video or audio of the interaction. Tell the agent clearly: "I am recording this conversation for my legal record." This alone often stops the abuse.</p>
                   </div>
                 </div>
                 <div className="flex items-start">
                   <div className="flex-shrink-0 w-10 h-10 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center font-bold mr-4">2</div>
                   <div>
-                    <h4 className="font-bold text-lg mb-2">Demand Identification</h4>
+                    <h5 className="font-bold text-lg mb-2">Demand Identification</h5>
                     <p className="text-sm text-gray-600">Ask for the caller's full name, the name of their agency, and the name of the bank they represent. If they refuse to provide this, say: "I do not speak with anonymous callers," and hang up. There is zero legal requirement to speak with someone who won't identify themselves.</p>
                   </div>
                 </div>
                 <div className="flex items-start">
                   <div className="flex-shrink-0 w-10 h-10 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center font-bold mr-4">3</div>
                   <div>
-                    <h4 className="font-bold text-lg mb-2">Do Not Argue</h4>
+                    <h5 className="font-bold text-lg mb-2">Do Not Argue</h5>
                     <p className="text-sm text-gray-600">Agents are trained to trigger an emotional response. If they shout, be quiet. If they threaten, state calmly: "I am aware of my rights and I will be reporting this threat to the bank and the RBI." Do not make promises you can't keep just to end the call.</p>
                   </div>
                 </div>
                 <div className="flex items-start">
                   <div className="flex-shrink-0 w-10 h-10 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center font-bold mr-4">4</div>
                   <div>
-                    <h4 className="font-bold text-lg mb-2">Log the Details</h4>
+                    <h5 className="font-bold text-lg mb-2">Log the Details</h5>
                     <p className="text-sm text-gray-600">Keep a physical or digital diary of every interaction. Note the date, time, phone number, and exactly what was said. This log becomes powerful evidence if you ever need to file a complaint or go to court.</p>
                   </div>
                 </div>
@@ -452,7 +452,7 @@ export default function BankRecoveryAgentThreateningMePage() {
             </section>
 
             <section id="complaint-process" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">The Formal Complaint Escalation Process</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">The Formal Complaint Escalation Process</h3>
               <p className="mb-6 text-lg">
                 If the harassment continues, you must move from defense to offense. The system has channels designed to punish banks that allow their agents to go rogue. Here is how you use them:
               </p>
@@ -489,12 +489,12 @@ export default function BankRecoveryAgentThreateningMePage() {
             </section>
 
             <section id="police-action" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 text-red-600">When to Involve the Police</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 text-red-600">When to Involve the Police</h3>
               <p className="mb-6 text-lg">
                 While debt is civil, certain actions by agents are purely criminal. If an agent crosses these lines, you should not wait for the bank to act, you should go straight to the nearest police station.
               </p>
               <div className="bg-red-50 p-8 rounded-2xl border-l-4 border-red-500 mb-8">
-                <h3 className="text-xl font-bold text-red-800 mb-4">File an FIR Immediately If:</h3>
+                <h4 className="text-xl font-bold text-red-800 mb-4">File an FIR Immediately If:</h4>
                 <ul className="space-y-3 text-red-900/80">
                   <li>• Any physical force or violence is used or threatened.</li>
                   <li>• The agent attempts to enter your home forcefully.</li>
@@ -512,32 +512,32 @@ export default function BankRecoveryAgentThreateningMePage() {
             </section>
 
             <section id="legal-sections" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Relevant IPC Sections for Your Protection</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Relevant IPC Sections for Your Protection</h3>
               <p className="mb-6">
                 Knowing the specific sections of the Indian Penal Code (now Bharatiya Nyaya Sanhita) that protect you can be extremely empowering. Here are the primary sections used in debt harassment cases:
               </p>
               <div className="grid md:grid-cols-2 gap-8 mb-8">
                 <div className="p-6 bg-white border border-[#DEDEDE] rounded-xl shadow-sm">
-                  <h3 className="text-lg font-bold mb-3">Section 503: Criminal Intimidation</h3>
+                  <h4 className="text-lg font-bold mb-3">Section 503: Criminal Intimidation</h4>
                   <p className="text-sm text-gray-600 leading-relaxed">This applies when someone threatens you with injury to your person, reputation, or property with the intent to cause alarm or force you to do an act you are not legally bound to do.</p>
                 </div>
                 <div className="p-6 bg-white border border-[#DEDEDE] rounded-xl shadow-sm">
-                  <h3 className="text-lg font-bold mb-3">Section 506: Punishment for Intimidation</h3>
+                  <h4 className="text-lg font-bold mb-3">Section 506: Punishment for Intimidation</h4>
                   <p className="text-sm text-gray-600 leading-relaxed">This section provides for imprisonment for up to two years for anyone found guilty of criminal intimidation. If the threat involves death or grievous hurt, the punishment can be up to seven years.</p>
                 </div>
                 <div className="p-6 bg-white border border-[#DEDEDE] rounded-xl shadow-sm">
-                  <h3 className="text-lg font-bold mb-3">Section 441: Criminal Trespass</h3>
+                  <h4 className="text-lg font-bold mb-3">Section 441: Criminal Trespass</h4>
                   <p className="text-sm text-gray-600 leading-relaxed">Entering onto your property with the intent to commit an offense or to intimidate, insult, or annoy you is criminal trespass. An agent cannot enter your yard or home without your invitation.</p>
                 </div>
                 <div className="p-6 bg-white border border-[#DEDEDE] rounded-xl shadow-sm">
-                  <h3 className="text-lg font-bold mb-3">Section 383: Extortion</h3>
+                  <h4 className="text-lg font-bold mb-3">Section 383: Extortion</h4>
                   <p className="text-sm text-gray-600 leading-relaxed">Using fear of injury to dishonestly induce a person to deliver any property or valuable security is extortion. Recovery tactics that go beyond legal process often border on extortion.</p>
                 </div>
               </div>
             </section>
 
             <section id="privacy-violations" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Fighting Back Against Privacy Violations</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Fighting Back Against Privacy Violations</h3>
               <p className="mb-6 text-lg">
                 One of the most painful aspects of debt recovery is the violation of privacy. Agents often try to "break" a borrower by involving their social circle. This is not only unethical but illegal.
               </p>
@@ -545,7 +545,7 @@ export default function BankRecoveryAgentThreateningMePage() {
                 If an agent calls your wife, your parents, or your siblings, they are in direct violation of the RBI Data Privacy guidelines. They have no right to disclose your financial status to anyone else. If this happens, you should immediately send a legal notice to the bank. Acknowledge the debt but state that the method of recovery is illegal.
               </p>
               <div className="bg-emerald-50 p-8 rounded-2xl border border-emerald-100 mb-8">
-                <h3 className="text-xl font-bold text-emerald-800 mb-4">Protecting Your Digital Privacy</h3>
+                <h4 className="text-xl font-bold text-emerald-800 mb-4">Protecting Your Digital Privacy</h4>
                 <p className="mb-4 text-emerald-900/80">
                   Many modern loan apps request access to your contacts. If you are using such an app and they begin calling everyone on your list, this is a serious cybercrime. Report such apps to the National Cyber Crime Reporting Portal (cybercrime.gov.in) immediately.
                 </p>
@@ -556,7 +556,7 @@ export default function BankRecoveryAgentThreateningMePage() {
             </section>
 
             <section id="mental-health" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">The Human Side: Coping with the Emotional Stress</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">The Human Side: Coping with the Emotional Stress</h3>
               <p className="mb-6 text-lg">
                 Constant phone calls and threats can lead to "debt-induced trauma". It can cause severe stress, lack of sleep, and even physical illness. It is important to treat your mental health as a priority during this time.
               </p>
@@ -572,13 +572,13 @@ export default function BankRecoveryAgentThreateningMePage() {
             </section>
 
             <section id="settleloans-support" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">How SettleLoans Can Change Your Life</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">How SettleLoans Can Change Your Life</h3>
               <p className="mb-6 text-lg font-bold">
                 You don't have to fight this giant alone. SettleLoans is your expert shield against bank harassment and your strategic bridge to financial freedom.
               </p>
               <div className="bg-[#2E2E2E] text-white p-8 rounded-2xl shadow-xl overflow-hidden relative">
                 <div className="absolute top-0 right-0 w-64 h-64 bg-[#1F5EFF] rounded-full -mr-32 -mt-32 opacity-20"></div>
-                <h3 className="text-2xl font-bold mb-6 relative z-10">Our Comprehensive Protection Program</h3>
+                <h4 className="text-2xl font-bold mb-6 relative z-10">Our Comprehensive Protection Program</h4>
                 <div className="grid md:grid-cols-2 gap-8 relative z-10">
                   <div className="space-y-4">
                     <div className="flex items-start gap-3">
@@ -610,7 +610,7 @@ export default function BankRecoveryAgentThreateningMePage() {
             </section>
 
             <section id="success-stories" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 text-center">Real Victories Over Harassment</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 text-center">Real Victories Over Harassment</h3>
               <div className="grid md:grid-cols-2 gap-6">
                 {[
                   {
@@ -644,7 +644,7 @@ export default function BankRecoveryAgentThreateningMePage() {
                         {testimonial.name.charAt(0)}
                       </div>
                       <div>
-                        <h3 className="font-bold text-[#2E2E2E]">{testimonial.name}</h3>
+                        <h4 className="font-bold text-[#2E2E2E]">{testimonial.name}</h4>
                         <p className="text-xs text-gray-400">{testimonial.loc}</p>
                       </div>
                       <div className="ml-auto text-yellow-400 text-sm">★★★★★</div>
@@ -656,7 +656,7 @@ export default function BankRecoveryAgentThreateningMePage() {
             </section>
 
             <section id="faqs" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Frequently Asked Questions</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Frequently Asked Questions</h3>
               <div className="space-y-4">
                 {[
                   { q: "Can a recovery agent come to my office?", a: "RBI guidelines prohibit agents from visiting your workplace unless specifically requested by you. Any unauthorized visit to your office to discuss your debt is a violation of privacy and workplace harassment." },
@@ -691,7 +691,7 @@ export default function BankRecoveryAgentThreateningMePage() {
             <div className="lg:hidden mt-16 mb-8">
               <div className="bg-[#2E2E2E] rounded-2xl shadow-xl overflow-hidden border border-[#1F5EFF]/20">
                 <div className="bg-[#1F5EFF] p-6 text-center text-white">
-                  <h3 className="text-2xl font-black mb-2">Safe and Confidential</h3>
+                  <h4 className="text-2xl font-black mb-2">Safe and Confidential</h4>
                   <p className="opacity-90 text-sm">Join thousands who have found peace of mind with our protection.</p>
                 </div>
                 <div className="p-8 text-center text-[#DEDEDE]">

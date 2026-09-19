@@ -253,7 +253,7 @@ export default function RetailLoanPage() {
                         </section>
 
                         <section id="retail-loan-meaning" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">Demystifying the Retail Loan Meaning</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">Demystifying the Retail Loan Meaning</h3>
                             <div className="bg-gray-50 p-8 rounded-2xl mb-8 border border-gray-200">
                                 <p className="text-lg leading-relaxed text-gray-800 mb-6">
                                     At its simplest, a retail loan is a direct financial arrangement between a banking institution (or NBFC) and an individual consumer. Unlike commercial or corporate loans that are disbursed to businesses for operational costs, retail loans are exclusively designed for personal consumption and individual financial goals.
@@ -265,9 +265,9 @@ export default function RetailLoanPage() {
                         </section>
 
                         <section id="consumer-rights" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">Why It Matters for Consumer Rights</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">Why It Matters for Consumer Rights</h3>
                             <div className="bg-blue-50 border-l-8 border-[#1F5EFF] p-8 rounded-r-2xl mb-8">
-                                <h3 className="text-xl font-black text-[#1F5EFF] mb-4">Consumer Protection Framework</h3>
+                                <h4 className="text-xl font-black text-[#1F5EFF] mb-4">Consumer Protection Framework</h4>
                                 <p className="text-lg leading-relaxed mb-4 text-blue-900">
                                     Understanding that your debt is classified as a "retail loan" grants you access to robust consumer protection mechanisms. The RBI explicitly dictates how retail loans should be sold, structured, and recovered.
                                 </p>
@@ -289,51 +289,51 @@ export default function RetailLoanPage() {
                         </section>
 
                         <section id="types-of-retail-loans" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">Major Types of Retail Banking Loans</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">Major Types of Retail Banking Loans</h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 The landscape of <strong>consumer loans in India</strong> is incredibly diverse. Broadly, these loans are split into secured (backed by collateral) and unsecured (backed only by your creditworthiness) categories.
                             </p>
                             <div className="grid md:grid-cols-2 gap-6 my-8">
                                 <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
-                                    <h3 className="font-black text-[#1F5EFF] text-lg mb-3">1. Personal Loans</h3>
+                                    <h4 className="font-black text-[#1F5EFF] text-lg mb-3">1. Personal Loans</h4>
                                     <p className="text-gray-700">The quintessential unsecured retail loan. Funds can be used for any purpose, from medical emergencies to weddings. They typically carry higher interest rates due to the lack of collateral.</p>
                                 </div>
                                 <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
-                                    <h4 className="font-black text-[#1F5EFF] text-lg mb-3">2. Home Loans (Mortgages)</h4>
+                                    <h5 className="font-black text-[#1F5EFF] text-lg mb-3">2. Home Loans (Mortgages)</h5>
                                     <p className="text-gray-700">Secured loans used to purchase real estate. The property itself serves as collateral. These boast lower interest rates and longer tenures (up to 30 years).</p>
                                 </div>
                                 <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
-                                    <h4 className="font-black text-[#1F5EFF] text-lg mb-3">3. Auto Loans</h4>
+                                    <h5 className="font-black text-[#1F5EFF] text-lg mb-3">3. Auto Loans</h5>
                                     <p className="text-gray-700">Specific secured loans used to purchase vehicles. The car or bike remains hypothecated to the bank until the final EMI is cleared.</p>
                                 </div>
                                 <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
-                                    <h4 className="font-black text-[#1F5EFF] text-lg mb-3">4. Credit Cards</h4>
+                                    <h5 className="font-black text-[#1F5EFF] text-lg mb-3">4. Credit Cards</h5>
                                     <p className="text-gray-700">A revolving retail credit facility. It allows consumers to borrow funds on demand up to a certain limit, requiring a minimum monthly payment.</p>
                                 </div>
                             </div>
                         </section>
 
                         <section id="step-by-step-process" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">The Process of Securing a Retail Loan</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">The Process of Securing a Retail Loan</h3>
                             <div className="space-y-12 my-8">
                                 <div className="flex gap-6">
                                     <div className="flex-shrink-0 w-12 h-12 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center font-black text-xl shadow-lg">1</div>
                                     <div>
-                                        <h3 className="text-xl font-bold text-[#2E2E2E] mb-2">Credit Assessment</h3>
+                                        <h4 className="text-xl font-bold text-[#2E2E2E] mb-2">Credit Assessment</h4>
                                         <p className="text-gray-700">The lender checks your CIBIL score and credit history to determine your reliability and assess the risk of default.</p>
                                     </div>
                                 </div>
                                 <div className="flex gap-6">
                                     <div className="flex-shrink-0 w-12 h-12 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center font-black text-xl shadow-lg">2</div>
                                     <div>
-                                        <h4 className="text-xl font-bold text-[#2E2E2E] mb-2">Income Verification</h4>
+                                        <h5 className="text-xl font-bold text-[#2E2E2E] mb-2">Income Verification</h5>
                                         <p className="text-gray-700">Submission of salary slips, ITRs, and bank statements to prove your Debt-to-Income (DTI) ratio is within acceptable limits.</p>
                                     </div>
                                 </div>
                                 <div className="flex gap-6">
                                     <div className="flex-shrink-0 w-12 h-12 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center font-black text-xl shadow-lg">3</div>
                                     <div>
-                                        <h4 className="text-xl font-bold text-[#2E2E2E] mb-2">Sanction & Disbursal</h4>
+                                        <h5 className="text-xl font-bold text-[#2E2E2E] mb-2">Sanction & Disbursal</h5>
                                         <p className="text-gray-700">Once approved, the bank issues a sanction letter outlining terms, followed by the direct transfer of funds to your account or the merchant.</p>
                                     </div>
                                 </div>
@@ -341,9 +341,9 @@ export default function RetailLoanPage() {
                         </section>
 
                         <section id="common-pitfalls" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">Beware: Common Pitfalls</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">Beware: Common Pitfalls</h3>
                             <div className="bg-red-50 p-6 rounded-xl border border-red-100 mb-8">
-                                <h3 className="text-xl font-black text-red-700 mb-4">Protect Yourself from Predatory Practices</h3>
+                                <h4 className="text-xl font-black text-red-700 mb-4">Protect Yourself from Predatory Practices</h4>
                                 <p className="text-red-900 text-lg leading-relaxed mb-4">
                                     While the retail banking sector is heavily regulated, consumers often fall prey to digital lending apps and predatory practices that obscure the true cost of the loan.
                                 </p>
@@ -354,7 +354,7 @@ export default function RetailLoanPage() {
                         </section>
 
                         <section id="success-stories" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">Retail Loan Success Stories</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">Retail Loan Success Stories</h3>
                             <p className="text-lg leading-relaxed mb-8">
                                 See how informed consumers navigated the complexities of retail banking and successfully managed their debt through our advisory.
                             </p>
@@ -366,7 +366,7 @@ export default function RetailLoanPage() {
                                             R
                                         </div>
                                         <div>
-                                            <h3 className="font-bold text-[#2E2E2E]">Ramesh G.</h3>
+                                            <h4 className="font-bold text-[#2E2E2E]">Ramesh G.</h4>
                                             <div className="flex gap-1 text-yellow-400">
                                                 <svg className="w-4 h-4 fill-current" viewBox="0 0 20 20"><path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z"/></svg>
                                                 <svg className="w-4 h-4 fill-current" viewBox="0 0 20 20"><path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z"/></svg>
@@ -389,7 +389,7 @@ export default function RetailLoanPage() {
                                             S
                                         </div>
                                         <div>
-                                            <h4 className="font-bold text-[#2E2E2E]">Sunita P.</h4>
+                                            <h5 className="font-bold text-[#2E2E2E]">Sunita P.</h5>
                                             <div className="flex gap-1 text-yellow-400">
                                                 <svg className="w-4 h-4 fill-current" viewBox="0 0 20 20"><path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z"/></svg>
                                                 <svg className="w-4 h-4 fill-current" viewBox="0 0 20 20"><path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z"/></svg>
@@ -409,56 +409,56 @@ export default function RetailLoanPage() {
                         </section>
 
                         <section id="faqs" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">Frequently Asked Questions</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">Frequently Asked Questions</h3>
                             <div className="space-y-4">
                                 {/* FAQ 1 */}
                                 <div className="bg-white border border-[#DEDEDE] rounded-xl p-6 hover:shadow-md transition-shadow">
-                                    <h3 className="font-bold text-lg text-[#2E2E2E] mb-2">What is the exact retail loan meaning?</h3>
+                                    <h4 className="font-bold text-lg text-[#2E2E2E] mb-2">What is the exact retail loan meaning?</h4>
                                     <p className="text-gray-700">A retail loan is a form of debt provided directly to individual consumers rather than businesses or institutions. These are primarily used for personal consumption, such as buying a house, a car, or funding personal expenses.</p>
                                 </div>
                                 {/* FAQ 2 */}
                                 <div className="bg-white border border-[#DEDEDE] rounded-xl p-6 hover:shadow-md transition-shadow">
-                                    <h4 className="font-bold text-lg text-[#2E2E2E] mb-2">What are the common types of retail banking loans?</h4>
+                                    <h5 className="font-bold text-lg text-[#2E2E2E] mb-2">What are the common types of retail banking loans?</h5>
                                     <p className="text-gray-700">Common types of retail banking loans include personal loans, home loans (mortgages), auto loans, education loans, and credit cards. They vary based on collateral, interest rates, and loan tenure.</p>
                                 </div>
                                 {/* FAQ 3 */}
                                 <div className="bg-white border border-[#DEDEDE] rounded-xl p-6 hover:shadow-md transition-shadow">
-                                    <h4 className="font-bold text-lg text-[#2E2E2E] mb-2">How do consumer loans in India differ from commercial loans?</h4>
+                                    <h5 className="font-bold text-lg text-[#2E2E2E] mb-2">How do consumer loans in India differ from commercial loans?</h5>
                                     <p className="text-gray-700">Consumer loans in India are designed for individuals for personal use, whereas commercial loans are intended for businesses to fund operations, expansions, or capital expenditures.</p>
                                 </div>
                                 {/* FAQ 4 */}
                                 <div className="bg-white border border-[#DEDEDE] rounded-xl p-6 hover:shadow-md transition-shadow">
-                                    <h4 className="font-bold text-lg text-[#2E2E2E] mb-2">Are personal loans considered retail loans?</h4>
+                                    <h5 className="font-bold text-lg text-[#2E2E2E] mb-2">Are personal loans considered retail loans?</h5>
                                     <p className="text-gray-700">Yes, personal loans are a classic example of a retail loan as they are provided directly to consumers for personal, non-business use.</p>
                                 </div>
                                 {/* FAQ 5 */}
                                 <div className="bg-white border border-[#DEDEDE] rounded-xl p-6 hover:shadow-md transition-shadow">
-                                    <h4 className="font-bold text-lg text-[#2E2E2E] mb-2">Do retail loans require collateral?</h4>
+                                    <h5 className="font-bold text-lg text-[#2E2E2E] mb-2">Do retail loans require collateral?</h5>
                                     <p className="text-gray-700">It depends on the type. Home and auto loans require collateral (the asset being purchased), while personal loans and credit cards are typically unsecured retail loans.</p>
                                 </div>
                                 {/* FAQ 6 */}
                                 <div className="bg-white border border-[#DEDEDE] rounded-xl p-6 hover:shadow-md transition-shadow">
-                                    <h4 className="font-bold text-lg text-[#2E2E2E] mb-2">What is the typical interest rate for retail loans?</h4>
+                                    <h5 className="font-bold text-lg text-[#2E2E2E] mb-2">What is the typical interest rate for retail loans?</h5>
                                     <p className="text-gray-700">Interest rates vary widely based on the loan type and the borrower's credit score. Secured retail loans usually offer lower interest rates compared to unsecured options like personal loans.</p>
                                 </div>
                                 {/* FAQ 7 */}
                                 <div className="bg-white border border-[#DEDEDE] rounded-xl p-6 hover:shadow-md transition-shadow">
-                                    <h4 className="font-bold text-lg text-[#2E2E2E] mb-2">How does my credit score affect consumer loans in India?</h4>
+                                    <h5 className="font-bold text-lg text-[#2E2E2E] mb-2">How does my credit score affect consumer loans in India?</h5>
                                     <p className="text-gray-700">In India, a higher credit score (CIBIL score) improves your chances of approval for consumer loans and helps secure more favorable interest rates and terms.</p>
                                 </div>
                                 {/* FAQ 8 */}
                                 <div className="bg-white border border-[#DEDEDE] rounded-xl p-6 hover:shadow-md transition-shadow">
-                                    <h4 className="font-bold text-lg text-[#2E2E2E] mb-2">Can retail loans impact my consumer rights?</h4>
+                                    <h5 className="font-bold text-lg text-[#2E2E2E] mb-2">Can retail loans impact my consumer rights?</h5>
                                     <p className="text-gray-700">Yes. Borrowers of retail loans are protected by RBI guidelines which safeguard consumer rights against unfair recovery practices, hidden charges, and transparent loan terms.</p>
                                 </div>
                                 {/* FAQ 9 */}
                                 <div className="bg-white border border-[#DEDEDE] rounded-xl p-6 hover:shadow-md transition-shadow">
-                                    <h4 className="font-bold text-lg text-[#2E2E2E] mb-2">Are education loans part of retail banking?</h4>
+                                    <h5 className="font-bold text-lg text-[#2E2E2E] mb-2">Are education loans part of retail banking?</h5>
                                     <p className="text-gray-700">Absolutely. Education loans are a significant component of retail banking, empowering individuals to fund their higher studies.</p>
                                 </div>
                                 {/* FAQ 10 */}
                                 <div className="bg-white border border-[#DEDEDE] rounded-xl p-6 hover:shadow-md transition-shadow">
-                                    <h4 className="font-bold text-lg text-[#2E2E2E] mb-2">What happens if I default on a retail loan?</h4>
+                                    <h5 className="font-bold text-lg text-[#2E2E2E] mb-2">What happens if I default on a retail loan?</h5>
                                     <p className="text-gray-700">Defaulting on a retail loan damages your credit score. For secured loans, the lender may repossess the asset. For unsecured loans, lenders can initiate legal recovery processes, subject strictly to RBI guidelines.</p>
                                 </div>
                             </div>
@@ -467,7 +467,7 @@ export default function RetailLoanPage() {
                         {/* Lead Gen Hook */}
                         <div className="bg-[#2E2E2E] text-white p-12 rounded-[40px] text-center mt-24 relative overflow-hidden group">
                             <div className="absolute inset-0 bg-[#1F5EFF] opacity-0 group-hover:opacity-5 transition-opacity"></div>
-                            <h3 className="text-3xl md:text-5xl font-black mb-6 relative z-10">Struggling with High-Interest Retail Loans?</h3>
+                            <h4 className="text-3xl md:text-5xl font-black mb-6 relative z-10">Struggling with High-Interest Retail Loans?</h4>
                             <p className="text-lg md:text-xl text-gray-300 mb-8 relative z-10 max-w-2xl mx-auto">
                                 Don't let compounding interest and predatory practices ruin your financial health. Get expert legal help to restructure or settle your retail debts today.
                             </p>

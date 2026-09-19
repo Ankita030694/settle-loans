@@ -283,9 +283,9 @@ export default function LoanAppHarassmentPage() {
 
             {/* How they hack */}
             <section id="how-they-hack" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 How Do They Execute "Loan App Hacking Contacts"?
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 You might wonder, <span className="italic">"How did they get my parents' and boss's phone numbers?"</span> The answer lies in the app's installation process. These predatory apps are essentially spyware disguised as financial tools.
               </p>
@@ -296,7 +296,7 @@ export default function LoanAppHarassmentPage() {
                     1
                   </div>
                   <div>
-                    <h3 className="text-2xl font-black text-[#2E2E2E] mb-3">The Fake Permission Trap</h3>
+                    <h4 className="text-2xl font-black text-[#2E2E2E] mb-3">The Fake Permission Trap</h4>
                     <p className="text-lg leading-relaxed text-gray-700">When you install the app, it demands overarching permissions to function. It asks for access to your Contacts, Storage, Media Gallery, and SMS. Blindly hitting "Allow" gives them the keys to your digital life.</p>
                   </div>
                 </div>
@@ -306,7 +306,7 @@ export default function LoanAppHarassmentPage() {
                     2
                   </div>
                   <div>
-                    <h3 className="text-2xl font-black text-[#2E2E2E] mb-3">Silent Background Scraping</h3>
+                    <h4 className="text-2xl font-black text-[#2E2E2E] mb-3">Silent Background Scraping</h4>
                     <p className="text-lg leading-relaxed text-gray-700">While you are staring at a "Processing Loan" screen, the app is rapidly uploading your entire contact list, personal photos, and SMS history (to read financial OTPs) to offshore servers.</p>
                   </div>
                 </div>
@@ -316,7 +316,7 @@ export default function LoanAppHarassmentPage() {
                     3
                   </div>
                   <div>
-                    <h3 className="text-2xl font-black text-[#2E2E2E] mb-3">Morphism and Blackmail</h3>
+                    <h4 className="text-2xl font-black text-[#2E2E2E] mb-3">Morphism and Blackmail</h4>
                     <p className="text-lg leading-relaxed text-gray-700">Using the photos they stole from your gallery or profile pictures, they use cheap editing software to superimpose your face onto explicit images. They then use your stolen contact list to threaten you: <span className="italic font-bold text-red-600">"Pay ₹10,000 now, or we send this to your mother."</span></p>
                   </div>
                 </div>
@@ -325,9 +325,9 @@ export default function LoanAppHarassmentPage() {
 
             {/* RBI Stance */}
             <section id="rbi-guidelines" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 The RBI Stance: Is Accessing Contacts Legal?
-              </h2>
+              </h3>
               <div className="bg-gray-50 p-8 rounded-2xl mb-8 border border-gray-200">
                 <p className="text-lg leading-relaxed mb-6 font-bold text-gray-800">
                   The short answer is an absolute NO.
@@ -349,12 +349,12 @@ export default function LoanAppHarassmentPage() {
 
             {/* Immediate Action */}
             <section id="immediate-action" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 Immediate Survival Steps to Stop Chinese Loan App Harassment
-              </h2>
+              </h3>
               
               <div className="bg-blue-50 border-l-8 border-[#1F5EFF] p-8 rounded-r-2xl mb-8">
-                <h3 className="text-xl font-black text-[#1F5EFF] mb-4">Rule #1: Do NOT Pay the Extortion Money!</h3>
+                <h4 className="text-xl font-black text-[#1F5EFF] mb-4">Rule #1: Do NOT Pay the Extortion Money!</h4>
                 <p className="text-lg text-blue-900 leading-relaxed mb-4">
                   Victims often panic and pay the scammers, hoping the harassment will stop. <strong>It will not stop.</strong> Paying them only flags you as a vulnerable target. Once you pay, they will immediately demand double the amount. Your compliance fuels their extortion.
                 </p>
@@ -372,25 +372,25 @@ export default function LoanAppHarassmentPage() {
 
               <div className="grid md:grid-cols-2 gap-6 my-8">
                 <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
-                  <h4 className="font-black text-[#1F5EFF] text-lg mb-3">1. Format Your Phone</h4>
+                  <h5 className="font-black text-[#1F5EFF] text-lg mb-3">1. Format Your Phone</h5>
                   <p className="text-gray-700 leading-relaxed">
                     Simply uninstalling the app isn't enough; the malware might persist. Backup your essential data (only what you know is safe) and perform a complete Factory Reset to wipe the spyware.
                   </p>
                 </div>
                 <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
-                  <h4 className="font-black text-[#1F5EFF] text-lg mb-3">2. Preempt the Narrative</h4>
+                  <h5 className="font-black text-[#1F5EFF] text-lg mb-3">2. Preempt the Narrative</h5>
                   <p className="text-gray-700 leading-relaxed">
                     Update your WhatsApp status or send a broadcast message: <span className="italic text-gray-500">"My phone was hacked. Scammers are sending morphed photos demanding money. Please block them and do not pay."</span>
                   </p>
                 </div>
                 <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
-                  <h4 className="font-black text-[#1F5EFF] text-lg mb-3">3. Block and Ignore</h4>
+                  <h5 className="font-black text-[#1F5EFF] text-lg mb-3">3. Block and Ignore</h5>
                   <p className="text-gray-700 leading-relaxed">
                     Do not engage in arguments with the recovery agents on WhatsApp. Block every number they use. Turn on your phone's auto-reject feature for unknown numbers temporarily.
                   </p>
                 </div>
                 <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
-                  <h4 className="font-black text-[#1F5EFF] text-lg mb-3">4. Secure Your Bank</h4>
+                  <h5 className="font-black text-[#1F5EFF] text-lg mb-3">4. Secure Your Bank</h5>
                   <p className="text-gray-700 leading-relaxed">
                     If you shared your debit card details or set up e-NACH mandates on their platform, immediately block that debit card and instruct your bank to halt all unauthorized auto-debits.
                   </p>
@@ -400,12 +400,12 @@ export default function LoanAppHarassmentPage() {
 
             {/* Cyber Complaint */}
             <section id="cyber-complaint" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 How to File a Cyber Cell Complaint Against Loan App
-              </h2>
+              </h3>
               
               <div className="bg-red-50 p-6 rounded-xl border border-red-100 mb-8">
-                <h3 className="font-black text-red-700 text-xl mb-3">CRITICAL: Gather Your Evidence</h3>
+                <h4 className="font-black text-red-700 text-xl mb-3">CRITICAL: Gather Your Evidence</h4>
                 <p className="text-red-900 leading-relaxed">
                   Before you format your phone, take screenshots of the threatening WhatsApp messages, the abusive language, the morphed photos, the app's logo, and any transaction IDs (if you made a payment). This evidence is vital for the police.
                 </p>
@@ -421,7 +421,7 @@ export default function LoanAppHarassmentPage() {
                     A
                   </div>
                   <div>
-                    <h3 className="text-2xl font-black text-[#2E2E2E] mb-3">Call the Cyber Helpline (1930)</h3>
+                    <h4 className="text-2xl font-black text-[#2E2E2E] mb-3">Call the Cyber Helpline (1930)</h4>
                     <p className="text-lg leading-relaxed text-gray-700">Dial the National Cyber Crime Helpline at <strong>1930</strong> immediately. If you have lost money, reporting it here in the 'Golden Hour' gives authorities the best chance to freeze the scammers' accounts.</p>
                   </div>
                 </div>
@@ -431,7 +431,7 @@ export default function LoanAppHarassmentPage() {
                     B
                   </div>
                   <div>
-                    <h3 className="text-2xl font-black text-[#2E2E2E] mb-3">National Cyber Crime Portal</h3>
+                    <h4 className="text-2xl font-black text-[#2E2E2E] mb-3">National Cyber Crime Portal</h4>
                     <p className="text-lg leading-relaxed text-gray-700">Go to <strong>cybercrime.gov.in</strong> and file a detailed report under the "Cyber Fraud" or "Cyber Bullying/Blackmail" category. Upload all your screenshots as attachments.</p>
                   </div>
                 </div>
@@ -441,7 +441,7 @@ export default function LoanAppHarassmentPage() {
                     C
                   </div>
                   <div>
-                    <h3 className="text-2xl font-black text-[#2E2E2E] mb-3">Local Police FIR</h3>
+                    <h4 className="text-2xl font-black text-[#2E2E2E] mb-3">Local Police FIR</h4>
                     <p className="text-lg leading-relaxed text-gray-700">Visit your nearest police station or dedicated Cyber Crime Cell to convert your online complaint into a formal First Information Report (FIR). Having a copy of the FIR is crucial to prove your innocence to your contacts.</p>
                   </div>
                 </div>
@@ -450,7 +450,7 @@ export default function LoanAppHarassmentPage() {
 
             {/* Success Stories */}
             <section id="victim-stories" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">Victim Success Stories</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">Victim Success Stories</h3>
               <div className="grid md:grid-cols-2 gap-6">
                 {[
                   { name: "Rahul M.", amt: "₹5,000 Extortion", settled: "Police FIR", desc: "They were blackmailing me with morphed photos. SettleLoans helped me file an FIR instantly and guided me to format my phone. The harassment stopped within a day." },
@@ -464,7 +464,7 @@ export default function LoanAppHarassmentPage() {
                         {review.name.charAt(0)}
                       </div>
                       <div>
-                        <h3 className="font-bold text-[#2E2E2E]">{review.name}</h3>
+                        <h4 className="font-bold text-[#2E2E2E]">{review.name}</h4>
                         <div className="flex gap-1 text-yellow-400">
                           ★★★★★
                         </div>
@@ -482,7 +482,7 @@ export default function LoanAppHarassmentPage() {
 
             {/* FAQs */}
             <section id="faqs" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">Frequently Asked Questions</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">Frequently Asked Questions</h3>
               <div className="space-y-4">
                 {[
                   { q: "Can loan apps legally access my contacts and photo gallery?", a: "No. According to the RBI Digital Lending Guidelines, lending apps are strictly prohibited from accessing your contacts list, photo gallery, media files, or call logs. Any app doing this is operating illegally." },
@@ -492,7 +492,7 @@ export default function LoanAppHarassmentPage() {
                   { q: "Will paying the illegal app stop the harassment?", a: "Never. Victims report that even after paying the full amount, these fraudulent apps claim the payment failed and demand more money, leading to a vicious cycle of extortion." }
                 ].map((faq, idx) => (
                   <div key={idx} className="bg-white border border-[#DEDEDE] rounded-xl p-6 hover:shadow-md transition-shadow">
-                    <h3 className="font-black text-[#2E2E2E] text-lg mb-2">{idx + 1}. {faq.q}</h3>
+                    <h4 className="font-black text-[#2E2E2E] text-lg mb-2">{idx + 1}. {faq.q}</h4>
                     <p className="text-gray-600 leading-relaxed">{faq.a}</p>
                   </div>
                 ))}
@@ -502,7 +502,7 @@ export default function LoanAppHarassmentPage() {
             {/* Lead Gen Hook */}
             <div className="bg-[#2E2E2E] text-white p-12 rounded-[40px] text-center mt-24 relative overflow-hidden group">
               <div className="absolute inset-0 bg-[#1F5EFF] opacity-0 group-hover:opacity-5 transition-opacity"></div>
-              <h2 className="text-3xl md:text-5xl font-black mb-6 relative z-10">Stop the Blackmail Today</h2>
+              <h3 className="text-3xl md:text-5xl font-black mb-6 relative z-10">Stop the Blackmail Today</h3>
               <p className="text-xl mb-8 text-white/80 relative z-10 max-w-2xl mx-auto">
                 Are illegal loan apps blackmailing you by sending morphed photos to your contacts? Don't pay the extortion money. Contact our cyber-legal experts to file an FIR and block them today.
               </p>

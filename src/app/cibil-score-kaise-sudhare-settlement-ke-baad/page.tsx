@@ -531,9 +531,9 @@ export default function CibilScoreKaiseSudhareSettlementKeBaadPage() {
                 </span>
                 <span className="text-xs font-black tracking-widest text-[#1F5EFF] uppercase">Section 02</span>
               </div>
-              <h2 className="text-2xl sm:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h3 className="text-2xl sm:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 2. Settled vs Closed vs Written-Off: Bureau Terminology
-              </h2>
+              </h3>
               <div className="space-y-4 text-slate-700 leading-relaxed text-base">
                 <p>
                   Credit report ko repair karne se pehle alag-alag status classifications ke legal aur underwriting implications ko samajhna anivarya hai. Automated loan approval algorithms aur credit risk officers har status ko alag lens se evaluate karte hain:
@@ -603,9 +603,9 @@ export default function CibilScoreKaiseSudhareSettlementKeBaadPage() {
                 </span>
                 <span className="text-xs font-black tracking-widest text-[#1F5EFF] uppercase">Section 03</span>
               </div>
-              <h2 className="text-2xl sm:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h3 className="text-2xl sm:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 3. NDC Verification & CICRA 2005 Statutory Data Audit
-              </h2>
+              </h3>
               <div className="space-y-4 text-slate-700 leading-relaxed text-base">
                 <p>
                   Loan settlement ka process tab tak complete nahi hota jab tak borrower ke hath mein bank ka official, stamped No Dues Certificate (NDC) ya No Objection Certificate (NOC) na aa jaye. Bahut se borrowers settlement amount transfer karne ke baad galti karte hain ki wo NDC collect nahi karte aur na hi credit bureau report verify karte hain. Lenders ke back-office accounting systems mein error hone ke kaaran, settlement ke baad bhi computer system loan ko active default ya overdue balance dikhata rehta hai.
@@ -647,9 +647,9 @@ export default function CibilScoreKaiseSudhareSettlementKeBaadPage() {
                 </span>
                 <span className="text-xs font-black tracking-widest text-[#1F5EFF] uppercase">Section 04</span>
               </div>
-              <h2 className="text-2xl sm:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h3 className="text-2xl sm:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 4. Converting 'Settled' to 'Closed': Legal Mechanics
-              </h2>
+              </h3>
               <div className="space-y-4 text-slate-700 leading-relaxed text-base">
                 <p>
                   Yadi aap high-value home loan, business loan, ya abroad visa application ke liye apply karne ki yojana bana rahe hain, toh credit report par &apos;Settled&apos; status ek badha ban sakta hai. Parantu bahut kam borrowers ko yeh maloom hai ki <strong>&apos;Settled&apos; status ko legally aur officially &apos;Closed&apos; status mein convert karwaya ja sakta hai</strong>.
@@ -684,9 +684,9 @@ export default function CibilScoreKaiseSudhareSettlementKeBaadPage() {
                       <span className="text-[10px] font-black uppercase tracking-widest text-blue-300 block">
                         Credit Rebuilding Workflow
                       </span>
-                      <h3 className="text-sm md:text-base font-black text-white leading-tight">
+                      <h4 className="text-sm md:text-base font-black text-white leading-tight">
                         CIBIL Score Kaise Sudhare Settlement Ke Baad: 4-Step Strategic Roadmap
-                      </h3>
+                      </h4>
                     </div>
                   </div>
                   <a
@@ -733,9 +733,9 @@ export default function CibilScoreKaiseSudhareSettlementKeBaadPage() {
                 </span>
                 <span className="text-xs font-black tracking-widest text-[#1F5EFF] uppercase">Section 06</span>
               </div>
-              <h2 className="text-2xl sm:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h3 className="text-2xl sm:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 6. Secured FD Credit Cards: Engine of Rapid Credit Repair
-              </h2>
+              </h3>
               <div className="space-y-4 text-slate-700 leading-relaxed text-base">
                 <p>
                   Loan settlement ke baad sabse badi samasya yeh hoti hai ki conventional banks aapko fresh unsecured credit card ya personal loan dene se seedhe inkaar kar dete hain, kyu ki automated risk engines 550 CIBIL score par application reject kar dete hain. Is vicious cycle ko todne ka ekmatra proven instrument hai: <strong>Secured Credit Card against Fixed Deposit (FD)</strong>.
@@ -766,9 +766,9 @@ export default function CibilScoreKaiseSudhareSettlementKeBaadPage() {
                 </span>
                 <span className="text-xs font-black tracking-widest text-[#1F5EFF] uppercase">Section 07</span>
               </div>
-              <h2 className="text-2xl sm:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h3 className="text-2xl sm:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 7. Credit Utilization Ratio (CUR) & Optimal Credit Mix
-              </h2>
+              </h3>
               <div className="space-y-4 text-slate-700 leading-relaxed text-base">
                 <p>
                   Secured credit card lene ke baad do mahatvapurna rules follow karna anivarya hai, jiske bina score recovery stagnant ho sakti hai:
@@ -793,9 +793,9 @@ export default function CibilScoreKaiseSudhareSettlementKeBaadPage() {
                 </span>
                 <span className="text-xs font-black tracking-widest text-[#1F5EFF] uppercase">Section 08</span>
               </div>
-              <h2 className="text-2xl sm:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h3 className="text-2xl sm:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 8. 18-Month Recovery Timeline: From 550 to 750+ CIBIL
-              </h2>
+              </h3>
               <div className="space-y-4 text-slate-700 leading-relaxed text-base">
                 <p>
                   Credit repair koi over-night magic nahi hai; yeh ek structured financial discipline hai jo measurable stages mein deliver hota hai. Niche diye gaye roadmap ke mutabiq aap apne credit score ke milestone progress ko track kar sakte hain:
@@ -851,9 +851,9 @@ export default function CibilScoreKaiseSudhareSettlementKeBaadPage() {
                 </span>
                 <span className="text-xs font-black tracking-widest text-[#1F5EFF] uppercase">Section 09</span>
               </div>
-              <h2 className="text-2xl sm:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h3 className="text-2xl sm:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 9. Authentic Credit Repair Methods vs Risky Shortcuts
-              </h2>
+              </h3>
               <div className="space-y-4 text-slate-700 leading-relaxed text-base">
                 <p>
                   Market mein kai fraudulent agencies claim karti hain ki wo 24 ghante mein settlement tag hata sakti hain ya CIBIL database hack karke score badha sakti hain. Aise scams se bachna aur legal avenues ko pehchanna behad zaroori hai.
@@ -919,9 +919,9 @@ export default function CibilScoreKaiseSudhareSettlementKeBaadPage() {
                 </span>
                 <span className="text-xs font-black tracking-widest text-[#1F5EFF] uppercase">Section 11</span>
               </div>
-              <h2 className="text-2xl sm:text-3xl font-black text-slate-900 mb-6 leading-tight">
+              <h3 className="text-2xl sm:text-3xl font-black text-slate-900 mb-6 leading-tight">
                 Frequently Asked Questions: CIBIL Score Repair After Settlement
-              </h2>
+              </h3>
 
               <div className="space-y-4">
                 <details className="group border border-slate-200 rounded-2xl bg-white shadow-sm overflow-hidden transition-all duration-200 hover:border-slate-300" open>

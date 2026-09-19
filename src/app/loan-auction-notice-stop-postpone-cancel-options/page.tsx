@@ -288,10 +288,10 @@ export default function Page() {
             </section>
 
             <section id="legal-steps-to-stop" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">Immediate Steps to Stop Bank Auction</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">Immediate Steps to Stop Bank Auction</h3>
               
               <div className="bg-blue-50 border-l-8 border-[#1F5EFF] p-8 rounded-r-2xl mb-8">
-                <h3 className="text-xl font-black text-[#1F5EFF] mb-4">Critical Defense Strategies</h3>
+                <h4 className="text-xl font-black text-[#1F5EFF] mb-4">Critical Defense Strategies</h4>
                 <p className="text-lg leading-relaxed mb-6 text-blue-900">
                   If the auction date is approaching within weeks or days, you need to execute rapid, legally sound strategies to halt the process.
                 </p>
@@ -315,7 +315,7 @@ export default function Page() {
                 <div className="flex gap-6">
                   <div className="flex-shrink-0 w-12 h-12 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center font-black text-xl shadow-lg">1</div>
                   <div>
-                    <h3 className="text-2xl font-bold text-[#2E2E2E] mb-3">Scrutinize the Auction Notice</h3>
+                    <h4 className="text-2xl font-bold text-[#2E2E2E] mb-3">Scrutinize the Auction Notice</h4>
                     <p className="text-lg leading-relaxed text-gray-700">The bank must strictly follow Rule 8 and Rule 9 of the Security Interest (Enforcement) Rules. They must provide a clear 30-day notice, publish it in two leading newspapers, and affix it to the property. Any failure here is grounds to cancel the auction.</p>
                   </div>
                 </div>
@@ -323,7 +323,7 @@ export default function Page() {
                 <div className="flex gap-6">
                   <div className="flex-shrink-0 w-12 h-12 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center font-black text-xl shadow-lg">2</div>
                   <div>
-                    <h3 className="text-2xl font-bold text-[#2E2E2E] mb-3">Challenge the Reserve Price</h3>
+                    <h4 className="text-2xl font-bold text-[#2E2E2E] mb-3">Challenge the Reserve Price</h4>
                     <p className="text-lg leading-relaxed text-gray-700">Banks frequently undervalue properties to sell them quickly. You can obtain an independent valuation report from an approved valuer and challenge the bank's reserve price in DRT, forcing a postponement.</p>
                   </div>
                 </div>
@@ -331,7 +331,7 @@ export default function Page() {
                 <div className="flex gap-6">
                   <div className="flex-shrink-0 w-12 h-12 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center font-black text-xl shadow-lg">3</div>
                   <div>
-                    <h3 className="text-2xl font-bold text-[#2E2E2E] mb-3">Seek an Interim Stay from DRT</h3>
+                    <h4 className="text-2xl font-bold text-[#2E2E2E] mb-3">Seek an Interim Stay from DRT</h4>
                     <p className="text-lg leading-relaxed text-gray-700">By filing an SA before the auction date, your legal counsel can request the DRT for an interim stay. The DRT may require you to deposit a percentage of the due amount to demonstrate bona fide intent.</p>
                   </div>
                 </div>
@@ -339,7 +339,7 @@ export default function Page() {
             </section>
 
             <section id="challenging-sarfaesi-action" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">Challenging SARFAESI Action in DRT</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">Challenging SARFAESI Action in DRT</h3>
               
               <div className="bg-gray-50 p-8 rounded-2xl mb-8 border border-gray-200">
                 <p className="text-lg leading-relaxed text-gray-700 mb-0">
@@ -349,29 +349,29 @@ export default function Page() {
 
               <div className="grid md:grid-cols-2 gap-6 my-8">
                 <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
-                  <h3 className="font-black text-[#1F5EFF] text-lg mb-3">Notice 13(2) Errors</h3>
+                  <h4 className="font-black text-[#1F5EFF] text-lg mb-3">Notice 13(2) Errors</h4>
                   <p className="text-gray-700">If the initial 60-day demand notice had calculation errors or was not properly served to all co-borrowers and guarantors, the entire SARFAESI action can be quashed.</p>
                 </div>
                 <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
-                  <h4 className="font-black text-[#1F5EFF] text-lg mb-3">Notice 13(4) Flaws</h4>
+                  <h5 className="font-black text-[#1F5EFF] text-lg mb-3">Notice 13(4) Flaws</h5>
                   <p className="text-gray-700">Taking symbolic or physical possession requires panchnama and proper inventory. Lack of witness signatures or improper procedure nullifies this step.</p>
                 </div>
                 <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
-                  <h4 className="font-black text-[#1F5EFF] text-lg mb-3">Wrongful NPA Classification</h4>
+                  <h5 className="font-black text-[#1F5EFF] text-lg mb-3">Wrongful NPA Classification</h5>
                   <p className="text-gray-700">If your account was classified as NPA contrary to RBI guidelines (e.g., ignoring moratorium periods), the foundation of the auction collapses.</p>
                 </div>
                 <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
-                  <h4 className="font-black text-[#1F5EFF] text-lg mb-3">Valuation Disputes</h4>
+                  <h5 className="font-black text-[#1F5EFF] text-lg mb-3">Valuation Disputes</h5>
                   <p className="text-gray-700">Banks must consult the borrower regarding property valuation. Bypassing this step to set an artificially low reserve price is illegal.</p>
                 </div>
               </div>
             </section>
 
             <section id="negotiating-ots" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">Negotiating an OTS (One Time Settlement)</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">Negotiating an OTS (One Time Settlement)</h3>
               
               <div className="bg-red-50 p-6 rounded-xl border border-red-100 mb-8">
-                <h3 className="text-xl font-black text-red-700 mb-4">Warning: Do Not Rely on Verbal Promises</h3>
+                <h4 className="text-xl font-black text-red-700 mb-4">Warning: Do Not Rely on Verbal Promises</h4>
                 <p className="text-lg leading-relaxed text-red-900 mb-0">
                   Many bank managers will verbally assure you that the auction is cancelled because you are discussing an OTS. Do not believe this. Unless you have a written letter from the bank explicitly stating the auction is deferred, the bank's recovery agents will proceed with the sale.
                 </p>
@@ -386,7 +386,7 @@ export default function Page() {
             </section>
 
             <section id="role-of-high-court" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">The Role of the High Court in SARFAESI Matters</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">The Role of the High Court in SARFAESI Matters</h3>
               <p className="text-lg leading-relaxed mb-6">
                 Many borrowers wonder if they can bypass the Debt Recovery Tribunal (DRT) and directly file a writ petition in the High Court under Article 226 of the Constitution to stop a bank auction. As a general rule established by the Supreme Court of India, High Courts are highly reluctant to entertain SARFAESI matters because the SARFAESI Act already provides a dedicated alternative statutory remedy (the DRT). 
               </p>
@@ -394,7 +394,7 @@ export default function Page() {
                 However, there are rare and specific exceptions where filing a writ petition might effectively delay property auction legal steps. If the actions of the bank are entirely without jurisdiction, or if there is a blatant violation of fundamental rights and principles of natural justice (for example, proceeding with an auction without serving any notice whatsoever), the High Court may intervene. Additionally, if the local DRT is non-functional or lacks a presiding officer, making it impossible to seek an urgent stay, the High Court can step in to provide immediate relief. 
               </p>
               <div className="bg-blue-50 border-l-8 border-[#1F5EFF] p-8 rounded-r-2xl mb-8">
-                <h3 className="text-xl font-black text-[#1F5EFF] mb-4">When to Consider the High Court</h3>
+                <h4 className="text-xl font-black text-[#1F5EFF] mb-4">When to Consider the High Court</h4>
                 <ul className="space-y-3">
                   <li className="flex items-start gap-3">
                     <div className="mt-1.5 w-2 h-2 rounded-full bg-[#1F5EFF] flex-shrink-0"></div>
@@ -413,7 +413,7 @@ export default function Page() {
             </section>
 
             <section id="protect-guarantors" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">Protecting Guarantors and Co-Borrowers</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">Protecting Guarantors and Co-Borrowers</h3>
               <div className="bg-gray-50 p-8 rounded-2xl mb-8 border border-gray-200">
                 <p className="text-lg leading-relaxed text-gray-700 mb-0">
                   When a property is listed for a bank auction, the repercussions are not limited strictly to the primary borrower. Co-borrowers and guarantors who pledged their own properties or signed personal guarantee documents are equally vulnerable to aggressive recovery actions under the SARFAESI Act.
@@ -428,7 +428,7 @@ export default function Page() {
             </section>
 
             <section id="common-mistakes" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">Crucial Mistakes to Avoid After Receiving Notice</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">Crucial Mistakes to Avoid After Receiving Notice</h3>
               <p className="text-lg leading-relaxed mb-6">
                 Panic often leads borrowers to make critical errors that severely weaken their legal position. When fighting to save your property, avoiding these common pitfalls is just as important as executing the right legal maneuvers.
               </p>
@@ -437,7 +437,7 @@ export default function Page() {
                 <div className="flex gap-6">
                   <div className="flex-shrink-0 w-12 h-12 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center font-black text-xl shadow-lg">1</div>
                   <div>
-                    <h3 className="text-2xl font-bold text-[#2E2E2E] mb-3">Ignoring Bank Communications</h3>
+                    <h4 className="text-2xl font-bold text-[#2E2E2E] mb-3">Ignoring Bank Communications</h4>
                     <p className="text-lg leading-relaxed text-gray-700">Refusing to accept delivery of the auction notice or ignoring bank letters does not stop the process. The law considers properly dispatched notices as "deemed served." Always accept the notice, note the date of receipt, and immediately consult a legal professional.</p>
                   </div>
                 </div>
@@ -445,7 +445,7 @@ export default function Page() {
                 <div className="flex gap-6">
                   <div className="flex-shrink-0 w-12 h-12 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center font-black text-xl shadow-lg">2</div>
                   <div>
-                    <h3 className="text-2xl font-bold text-[#2E2E2E] mb-3">Attempting to Transfer the Property</h3>
+                    <h4 className="text-2xl font-bold text-[#2E2E2E] mb-3">Attempting to Transfer the Property</h4>
                     <p className="text-lg leading-relaxed text-gray-700">Once an account becomes an NPA and the Section 13(2) notice is issued, any attempt to sell, gift, or transfer the mortgaged property without the bank's written consent is strictly illegal under Section 13(13) of the SARFAESI Act. Such transfers are void and can lead to criminal charges.</p>
                   </div>
                 </div>
@@ -453,7 +453,7 @@ export default function Page() {
                 <div className="flex gap-6">
                   <div className="flex-shrink-0 w-12 h-12 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center font-black text-xl shadow-lg">3</div>
                   <div>
-                    <h3 className="text-2xl font-bold text-[#2E2E2E] mb-3">Paying Fraudulent "Settlement Agents"</h3>
+                    <h4 className="text-2xl font-bold text-[#2E2E2E] mb-3">Paying Fraudulent "Settlement Agents"</h4>
                     <p className="text-lg leading-relaxed text-gray-700">Desperate borrowers often fall prey to unauthorized agents promising guaranteed auction cancellations for a huge upfront cash fee. Only deal directly with the bank for OTS proposals or use certified, practicing DRT advocates for tribunal representation.</p>
                   </div>
                 </div>
@@ -461,7 +461,7 @@ export default function Page() {
             </section>
 
             <section id="success-stories" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">Success Stories: Auctions Stopped</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">Success Stories: Auctions Stopped</h3>
               <div className="grid md:grid-cols-2 gap-6">
                 
                 <div className="bg-white p-8 rounded-[30px] border border-[#DEDEDE] shadow-sm hover:shadow-xl group transition-all">
@@ -470,7 +470,7 @@ export default function Page() {
                       RV
                     </div>
                     <div>
-                      <h3 className="font-bold text-[#2E2E2E]">Rajat V.</h3>
+                      <h4 className="font-bold text-[#2E2E2E]">Rajat V.</h4>
                       <div className="flex text-yellow-400">
                         <svg className="w-4 h-4 fill-current" viewBox="0 0 20 20"><path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z"/></svg>
                         <svg className="w-4 h-4 fill-current" viewBox="0 0 20 20"><path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z"/></svg>
@@ -493,7 +493,7 @@ export default function Page() {
                       MS
                     </div>
                     <div>
-                      <h4 className="font-bold text-[#2E2E2E]">Meera S.</h4>
+                      <h5 className="font-bold text-[#2E2E2E]">Meera S.</h5>
                       <div className="flex text-yellow-400">
                         <svg className="w-4 h-4 fill-current" viewBox="0 0 20 20"><path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z"/></svg>
                         <svg className="w-4 h-4 fill-current" viewBox="0 0 20 20"><path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z"/></svg>
@@ -514,7 +514,7 @@ export default function Page() {
             </section>
 
             <section id="faqs" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">Frequently Asked Questions</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">Frequently Asked Questions</h3>
               <div className="space-y-4">
                 <details name="faq-accordion" className="bg-white border border-[#DEDEDE] rounded-xl p-6 hover:shadow-md group cursor-pointer transition-shadow">
                   <summary className="font-bold text-lg text-[#2E2E2E] flex justify-between items-center outline-none">
@@ -622,7 +622,7 @@ export default function Page() {
             <div id="consultation" className="bg-[#2E2E2E] text-white p-12 rounded-[40px] text-center mt-24 relative overflow-hidden group">
               <div className="absolute inset-0 bg-[#1F5EFF] opacity-0 group-hover:opacity-5 transition-opacity duration-300"></div>
               <div className="relative z-10">
-                <h3 className="text-3xl md:text-5xl font-black mb-6">Auction Date Approaching Fast?</h3>
+                <h4 className="text-3xl md:text-5xl font-black mb-6">Auction Date Approaching Fast?</h4>
                 <p className="text-xl mb-10 text-gray-300 max-w-2xl mx-auto">
                   Don't lose your property without a fight. Our expert SARFAESI lawyers can analyze your notice for fatal errors and move DRT immediately for a stay order.
                 </p>

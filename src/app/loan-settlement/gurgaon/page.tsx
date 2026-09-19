@@ -305,7 +305,7 @@ export default function GurgaonLoanSettlementPage() {
             </section>
 
             <section id="legal-protection-haryana" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl font-black mb-6">Legal Protection for Borrowers under Haryana's Jurisdiction</h2>
+              <h3 className="text-3xl font-black mb-6">Legal Protection for Borrowers under Haryana's Jurisdiction</h3>
               <p>For a resident of Gurgaon, the legal framework for debt resolution is governed by the Haryana state laws and the larger national regulations of the Indian Contract Act. If your debt situation has moved into the legal stage, understanding the role of the District Court in Gurgaon (located near Rajiv Chowk) is essential. Whether you have received a notice under Section 138 of the Negotiable Instruments Act for a cheque bounce or a payment demand under the SARFAESI Act, the way you respond legally determines the outcome of your case.</p>
               <p>One of the most powerful legal protections in Haryana is the District Legal Services Authority (DLSA). The Gurgaon DLSA is known for its pro-active stance in mediation and Lok Adalats. We leverage these institutional mechanisms to ensure that our clients are not pushed into unfair settlement terms. A settlement reached through these official channels is legally final, non-appealable, and provides the highest level of closure possible. We represent your interests in these forums, drafting the necessary 'Hardship Statements' to ensure the judiciary understands your genuine inability to pay the full amount.</p>
               <p>Furthermore, the Haryana state has specific regulations concerning private money lending and micro-finance. If your debt involves a non-bank lender that is not registered under the RBI, they are bound by the Haryana Money Lenders Act, which imposes strict caps on interest rates and mandates fair recovery practices. Many 'informal' lenders in the city operate outside these laws, using intimidation rather than legal process. We help our Gurgaon clients identify these legal vulnerabilities in their lenders and use them as defensive shields against aggressive recovery attempts.</p>
@@ -313,7 +313,7 @@ export default function GurgaonLoanSettlementPage() {
             </section>
 
             <section id="cyber-city-debt-trap" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl font-black mb-6">The Cyber City Debt Trap: Why IT Professionals Struggle</h2>
+              <h3 className="text-3xl font-black mb-6">The Cyber City Debt Trap: Why IT Professionals Struggle</h3>
               <p>Gurgaon's identity as an IT and corporate hub has created a specific type of financial crisis. Many young professionals in Cyber City and Gurgaon-Sohna Road earn high salaries but are also the primary targets of aggressive retail lending. The 'Apply in 2 Minutes' culture of digital personal loans has made it too easy to borrow for discretionary spending. When the high salary is coupled with high EMIs, even a small hiccup like a delayed bonus or a month of medical leave can trigger a cascade of defaults.</p>
               <p>We see many cases in Gurgaon where borrowers have 5 to 7 active credit card lines and 3 to 4 personal loans. This is the classic 'Debt Pyramid' where new loans are taken just to pay the interest on old ones. This cycle is unsustainable and leads to severe mental stress. In an MNC environment where professional focus is mandatory, the constant harassment from bank call centers can even jeopardize one's career. Our 'Corporate Debt Relief' package is specifically designed for Gurgaon professionals to handle debt discreetly and effectively.</p>
               <p>Another factor in the Gurgaon debt trap is the real estate investment cycle. Many residents have over-invested in properties on Dwarka Expressway or New Gurgaon, relying on future rentals or appreciation that hasn't materialized. When the home loan EMI is combined with multiple consumer loans, the disposable income vanishes. We help you prioritize which loans to settle first, often starting with high-interest unsecured debts like credit cards to free up immediate cash flow for your survival and basic EMIs.</p>
@@ -321,7 +321,7 @@ export default function GurgaonLoanSettlementPage() {
             </section>
 
             <section id="lok-adalat-gurugram" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl font-black mb-6">Navigating Lok Adalats at the Gurgaon District Court</h2>
+              <h3 className="text-3xl font-black mb-6">Navigating Lok Adalats at the Gurgaon District Court</h3>
               <p>The National Lok Adalat is perhaps the most significant opportunity for a borrower in Gurgaon to settle a debt once and for all. Organized by the National Legal Services Authority (NALSA) and implemented locally by the Gurgaon DLSA, these sessions are dedicated for settleing disputes regarding bank loans, credit cards, and cheque bounce cases. The atmosphere is meant to be conciliatory rather than adversarial, making it the ideal venue for a fair negotiation.</p>
               <p>We prepare our Gurgaon clients for Lok Adalat by gathering all the evidence of their financial distress. Whether it is a termination letter from an MNC, a medical file, or a profit-and-loss statement of a failed Gurgaon start-up, this documentation is what convinces the presiding judge to recommend a deep waiver. We coordinate with the bank's 'Settlement Officers' well before the Lok Adalat date to ensure a deal is already in principle agreement, which the judge then formalizes into a binding order.</p>
               <p>One of the biggest advantages of a Lok Adalat settlement in Gurgaon is the finality it brings. Unlike a regular court case that can go into appeals for years, a Lok Adalat award is final. It ends the fear of any future litigation regarding that specific loan. Moreover, if the bank has already filed a civil suit against you at the Gurgaon court, the court fee you paid might even be refunded upon a successful Lok Adalat settlement. This makes it a cost-effective choice for those already drained of financial resources.</p>
@@ -329,7 +329,7 @@ export default function GurgaonLoanSettlementPage() {
             </section>
 
             <section id="drt-and-sarfaesi" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl font-black mb-6">The Challenges of DRT and SARFAESI in Gurgaon</h2>
+              <h3 className="text-3xl font-black mb-6">The Challenges of DRT and SARFAESI in Gurgaon</h3>
               <p>When debt amounts exceed ₹20 Lakhs, the situation often moves from the Gurgaon district court to the Debt Recovery Tribunal (DRT). For Gurgaon residents, the DRT jurisdiction usually falls under Delhi or Chandigarh. The DRT is a specialized fast-track body for bank recoveries, and receiving a notice from here is a serious matter. It often precedes an attempt by the bank to take symbolic or physical possession of assets, especially in secured loans.</p>
               <p>Similarly, for home owners in Gurgaon who have defaulted, the SARFAESI Act (Securitisation and Reconstruction of Financial Assets and Enforcement of Security Interest) is a formidable law. It allows banks to seize property without the immediate intervention of a court. However, even under the shadow of SARFAESI, a 'One Time Settlement' (OTS) is often the bank's preferred outcome. They would rather have 70% of the value today in cash than undergo a long legal process to auction a property in Gurgaon's fluctuating real estate market.</p>
               <p>Our legal team includes experts specialized in DRT and SARFAESI matters. We help Gurgaon borrowers file 'S.A.' (Securitisation Application) against unfair bank actions, effectively buying time to negotiate a settlement. We challenge the valuation of the property, the calculation of interest, and any procedural errors made by the bank. This aggressive 'Counter-Lending Strategy' often makes the bank much more willing to sit at the negotiation table and offer a reasonable settlement that allows you to save your home or business assets.</p>
@@ -337,7 +337,7 @@ export default function GurgaonLoanSettlementPage() {
             </section>
 
             <section id="harassment-legal-shield" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl font-black mb-6">The SettleLoans Anti-Harassment Shield for Gurgaon</h2>
+              <h3 className="text-3xl font-black mb-6">The SettleLoans Anti-Harassment Shield for Gurgaon</h3>
               <p>Perhaps the most traumatic part of debt in Gurgaon is the relentless harassment by recovery agents. These agents, often hired through third-party agencies in Delhi or Gurgaon, use psychological warfare to break the borrower. Calls to your MNC office, messages to your HR department, or creating a scene in the lobby of your residential society in Gurgaon Extension are tactics designed to shame you into paying money you don't have. This is not just unethical; it is a violation of your fundamental Right to Privacy.</p>
               <p>Our Anti-Harassment Shield is a combination of legal notices and technology. We send a formal 'Notice of Representation' to your lenders, informing them that you are now legally represented by SettleLoans and that all further communication regarding the debt must be directed to our Nodal Number. This immediately reduces the number of calls you receive. We also provide you with a 'Rights Guide' that teaches you how to handle any agent who shows up at your door in Gurgaon, including the correct way to record the interaction for legal evidence.</p>
               <p>The Gurgaon Police have become increasingly sensitive to 'Credit Card Recovery Harassment'. We help our clients file formal complaints with the Cyber Cell or the local police station if agents use foul language, threaten physical violence, or call outside permitted hours. In many instances, a single FIR for 'Criminal Intimidation' (Section 506 IPC) against an agency makes the bank become incredibly reasonable overnight. We empower you to fight back not with muscle, but with the law.</p>
@@ -346,7 +346,7 @@ export default function GurgaonLoanSettlementPage() {
 
             {/* Testimonials Section - Strategic for Rich Results */}
             <section id="client-testimonials" className="scroll-mt-32 mb-16 bg-gray-50 p-8 rounded-3xl border border-[#DEDEDE]">
-              <h2 className="text-3xl font-black mb-8 text-center uppercase tracking-tight text-[#1F5EFF]">Verified Client Testimonials</h2>
+              <h3 className="text-3xl font-black mb-8 text-center uppercase tracking-tight text-[#1F5EFF]">Verified Client Testimonials</h3>
               <div className="grid md:grid-cols-2 gap-8">
                 <div className="bg-white p-6 rounded-2xl shadow-sm border border-[#DEDEDE]">
                   <div className="flex text-yellow-400 mb-2">★★★★★</div>
@@ -399,7 +399,7 @@ export default function GurgaonLoanSettlementPage() {
             </section>
 
             <section id="rbi-guidelines-gurgaon" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl font-black mb-6">Borrower Rights: RBI Guidelines in the Millennium City</h2>
+              <h3 className="text-3xl font-black mb-6">Borrower Rights: RBI Guidelines in the Millennium City</h3>
               <p>The Reserve Bank of India (RBI) has issued clear 'Code of Conduct' mandates for all banks and NBFCs operating in Bharat, and these are fully applicable to Gurgaon. The core principle is that borrowers, even in default, must be treated with civility. One of the most important rules is the limitation on call timings: Agents cannot call you before 8 AM or after 7 PM. If you are receiving calls at 11 PM or 6 AM in Gurgaon, it is a direct violation that should be reported immediately.</p>
               <p>Another critical RBI guideline is the prohibition of discussion of your debt with third parties. A bank cannot tell your neighbor, your boss, or your colleagues about your financial situation. Furthermore, agents must carry proper identification and a letter of authorization from the bank when they visit your home in Gurgaon. They are strictly forbidden from entering your premises without consent or using any form of physical force. If an agent tries to force their way into your luxury flat in Gurgaon, they are committing 'Criminal Trespass'.</p>
               <p>The RBI also mandate a 'Fair Practices Code' for lending. This includes the right of the borrower to receive a 'No Dues Certificate' within 15 days of full payment or settlement. In Gurgaon, we often see banks delaying this certificate, which prevents the borrower from updating their CIBIL score. We ensure that our settlement agreements have a clause that penalizes the bank for any such delay. Knowing the 'Grievance Redressal' process of the bank is also vital. Every bank must have a Nodal Officer, and we handle the escalation of your complaints to their office on your behalf.</p>
@@ -407,41 +407,41 @@ export default function GurgaonLoanSettlementPage() {
             </section>
 
             <section id="settlement-roadmap" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl font-black mb-6">Your 5-Step Roadmap to Freedom in Gurgaon</h2>
+              <h3 className="text-3xl font-black mb-6">Your 5-Step Roadmap to Freedom in Gurgaon</h3>
               <p>Becoming debt-free is a process, not an event. In the complex financial environment of Gurgaon, you need a roadmap that is both logical and legally sound. At SettleLoans, we have refined a 5-step process that has helped hundreds of Gurgaon families move from financial despair to a fresh start. This roadmap is designed to protect your interests at every turn.</p>
               <ul className="list-none p-0 space-y-6">
                 <li className="bg-gray-50 p-6 rounded-xl border-l-4 border-[#1F5EFF]">
-                  <h3 className="font-black text-xl mb-2">1. Detailed Debt Audit (The Reality Check)</h3>
+                  <h4 className="font-black text-xl mb-2">1. Detailed Debt Audit (The Reality Check)</h4>
                   <p>We start by auditing your entire loan portfolio. This includes listing all creditors, interest rates, and legal statuses. In Gurgaon, many residents have a mix of home loans, personal loans, and credit card debts. We identify which ones are 'high-threat' (likely to take legal action) and which ones are 'high-cost' (interest-heavy) to determine our priority list.</p>
                 </li>
                 <li className="bg-gray-50 p-6 rounded-xl border-l-4 border-[#1F5EFF]">
-                  <h4 className="font-black text-xl mb-2">2. Communication Redirection (The Peace Maker)</h4>
+                  <h5 className="font-black text-xl mb-2">2. Communication Redirection (The Peace Maker)</h5>
                   <p>We issue the formal 'Representation Notices' to all your banks. This redirects the aggressive calls from you to us. This is the moment most our Gurgaon clients experience a 'sigh of relief'. By professionalizing the communication, we remove the emotional leverage that recovery agents use to pressure you into making unwise decisions.</p>
                 </li>
                 <li className="bg-gray-50 p-6 rounded-xl border-l-4 border-[#1F5EFF]">
-                  <h4 className="font-black text-xl mb-2">3. Delinquency Strategy (The Waiting Game)</h4>
+                  <h5 className="font-black text-xl mb-2">3. Delinquency Strategy (The Waiting Game)</h5>
                   <p>Banks usually consider a settlement only after a loan is significantly overdue (usually 90+ days). We manage this period by responding to the bank's legal demands logically. We don't just ignore them; we explain your temporary inability to pay. This creates a documented 'Hardship Record' which is essential for getting the highest waiver later.</p>
                 </li>
                 <li className="bg-gray-50 p-6 rounded-xl border-l-4 border-[#1F5EFF]">
-                  <h4 className="font-black text-xl mb-2">4. Intense Negotiation (The Commercial Deal)</h4>
+                  <h5 className="font-black text-xl mb-2">4. Intense Negotiation (The Commercial Deal)</h5>
                   <p>This is where our Gurgaon negotiators shine. We use our database of past settlements to know 'the bottom price' each bank is likely to accept. We argue for deep waivers on interest and penalties, and a reduction in the principal amount. We don't accept the first offer. We negotiate until we have a deal that fits your monthly budget.</p>
                 </li>
                 <li className="bg-gray-50 p-6 rounded-xl border-l-4 border-[#1F5EFF]">
-                  <h4 className="font-black text-xl mb-2">5. Formal Settlement & Closure (The New Start)</h4>
+                  <h5 className="font-black text-xl mb-2">5. Formal Settlement & Closure (The New Start)</h5>
                   <p>Once a deal is agreed, we verify the 'Settlement Letter' for any legal traps. You pay the bank according to the agreed schedule. We then follow up to ensure the 'No Dues Certificate' is issued and the bank updates credit bureaus. This is the final step where you hold the document that proves you are officially debt-free.</p>
                 </li>
               </ul>
             </section>
 
             <section id="success-stories-haryana" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl font-black mb-8 text-center">Gurgaon Success Stories: Real People, Real Freedom</h2>
+              <h3 className="text-3xl font-black mb-8 text-center">Gurgaon Success Stories: Real People, Real Freedom</h3>
               <p className="text-center mb-8">We have successfully helped over 500+ residents in Gurgaon and Faridabad reclaim their financial lives. Here are a few notable success stories from the Millennium City.</p>
               <div className="grid md:grid-cols-2 gap-6 not-prose">
                 <div className="bg-white p-6 rounded-2xl border border-[#DEDEDE] shadow-sm hover:shadow-md transition-all">
                   <div className="flex items-center mb-4">
                     <div className="w-10 h-10 rounded-full bg-[#1F5EFF]/10 flex items-center justify-center font-bold text-[#1F5EFF] mr-3">A</div>
                     <div>
-                      <h3 className="font-bold">Aditya Rao</h3>
+                      <h4 className="font-bold">Aditya Rao</h4>
                       <p className="text-xs text-gray-500">Sector 54, Gurgaon</p>
                     </div>
                   </div>
@@ -452,7 +452,7 @@ export default function GurgaonLoanSettlementPage() {
                   <div className="flex items-center mb-4">
                     <div className="w-10 h-10 rounded-full bg-[#1F5EFF]/10 flex items-center justify-center font-bold text-[#1F5EFF] mr-3">M</div>
                     <div>
-                      <h4 className="font-bold">Manish Gupta</h4>
+                      <h5 className="font-bold">Manish Gupta</h5>
                       <p className="text-xs text-gray-500">Cyber City Professional</p>
                     </div>
                   </div>
@@ -463,7 +463,7 @@ export default function GurgaonLoanSettlementPage() {
             </section>
 
             <section id="rebuilding-tomorrow" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl font-black mb-6">Rebuilding Your Credit Score in Gurgaon</h2>
+              <h3 className="text-3xl font-black mb-6">Rebuilding Your Credit Score in Gurgaon</h3>
               <p>One of the biggest concerns for our Gurgaon clients is the impact on their CIBIL score. Let's be transparent: A loan settlement will reflect as 'Settled' on your report, and your score will drop in the immediate term. However, in the dynamic economy of Gurgaon, your credit life is far from over. A credit score is like a muscle; it can be rebuilt with the right exercise and discipline. We provide every client with a personalized 'CIBIL Rebuilding Roadmap'.</p>
               <p>The first step in rebuilding is to ensure all your settled loans are correctly marked. We follow up with the banks to make sure they report the zero balance to all the credit bureaus (CIBIL, Experian, Equifax). Next, we advise you to wait for 6 to 12 months. After this 'cooling period', the best way to rebuild is through 'Secured Credit'. By opening a fixed deposit-backed credit card, you start generating fresh, positive credit data every month. By paying these new, small bills perfectly, you show lenders that your financial crisis is in the past.</p>
               <p>In Gurgaon, we also see many clients successfully using 'Consumer Durable Loans' (like for a laptop or a phone) to rebuild credit. These small loans, when paid on time, are powerful signals to credit bureau algorithms. Within 18 to 24 months, many of our clients see their scores climb back to the 750 range. The temporary 'Settled' marker becomes less significant in the eyes of future lenders when compared to two years of recent, flawless repayment history. Settled today means free today, and rebuilt by tomorrow.</p>
@@ -471,7 +471,7 @@ export default function GurgaonLoanSettlementPage() {
             </section>
 
             <section id="faqs" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl font-black mb-8">Frequently Asked Questions for Gurgaon Residents</h2>
+              <h3 className="text-3xl font-black mb-8">Frequently Asked Questions for Gurgaon Residents</h3>
               <div className="space-y-4 not-prose">
                 {[
                   { q: "Is loan settlement legal in Gurgaon?", a: "Yes, loan settlement is a 100% legal process in Gurgaon. It is a mutual commercial agreement between the lender and the borrower, recognized under the Indian Contract Act and RBI guidelines." },
@@ -501,7 +501,7 @@ export default function GurgaonLoanSettlementPage() {
             </section>
 
             <section className="mt-16 bg-[#1F5EFF] rounded-3xl p-10 text-center text-white shadow-2xl">
-              <h2 className="text-3xl md:text-4xl font-black mb-4">Find Your Financial Peace of Mind Today</h2>
+              <h3 className="text-3xl md:text-4xl font-black mb-4">Find Your Financial Peace of Mind Today</h3>
               <p className="mb-8 text-lg opacity-90 max-w-2xl mx-auto">Residents of Gurgaon choose SettleLoans because we combine local legal expertise with a results-driven negotiation approach. Your journey to being debt-free starts here.</p>
               <Link href="/contact" className="inline-block bg-white text-[#1F5EFF] font-black py-4 px-12 rounded-xl hover:scale-105 transition-all text-xl shadow-lg">
                 Start Your Free Debt Analysis

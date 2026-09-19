@@ -288,15 +288,15 @@ export default function SarfaesiNoticePage() {
             </section>
 
             <section id="the-60-day-clock" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 The Critical <span className="text-red-600">60 Days Notice Period</span>
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 The moment the 13(2) notice is delivered, a strict 60 days notice period begins ticking. This is your window of opportunity. During these 60 days, the bank cannot touch your property. However, what you do in this timeframe dictates whether you lose your house or live to fight another day.
               </p>
               
               <div className="bg-blue-50 border-l-8 border-[#1F5EFF] p-8 rounded-r-2xl mb-8">
-                <h3 className="text-xl font-black text-[#1F5EFF] mb-4">What the 60-Day Period Demands:</h3>
+                <h4 className="text-xl font-black text-[#1F5EFF] mb-4">What the 60-Day Period Demands:</h4>
                 <ul className="space-y-3">
                   <li className="flex items-start gap-3">
                     <div className="mt-1.5 w-2 h-2 rounded-full bg-[#1F5EFF] flex-shrink-0"></div>
@@ -315,9 +315,9 @@ export default function SarfaesiNoticePage() {
             </section>
 
             <section id="reply-under-13-3a" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 Drafting the Perfect Reply: <span className="text-[#1F5EFF]">Section 13(3A) Strategy</span>
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 The biggest mistake borrowers make is ignoring the notice or sending an emotional letter begging for time. The law does not care about emotions. You must file a highly technical, legal objection under Section 13(3A) of the SARFAESI Act.
               </p>
@@ -326,7 +326,7 @@ export default function SarfaesiNoticePage() {
                 <div className="flex gap-6">
                   <div className="flex-shrink-0 w-12 h-12 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center font-black text-xl shadow-lg">1</div>
                   <div>
-                    <h3 className="text-2xl font-bold text-[#2E2E2E] mb-2">Challenge the NPA Classification</h3>
+                    <h4 className="text-2xl font-bold text-[#2E2E2E] mb-2">Challenge the NPA Classification</h4>
                     <p className="text-lg text-gray-700">A loan can only be classified as an NPA after 90 days of continuous default. We scrutinize your account statement to prove that the bank violated RBI circulars regarding the exact date of NPA classification. If the date is wrong, the entire notice becomes legally void.</p>
                   </div>
                 </div>
@@ -334,7 +334,7 @@ export default function SarfaesiNoticePage() {
                 <div className="flex gap-6">
                   <div className="flex-shrink-0 w-12 h-12 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center font-black text-xl shadow-lg">2</div>
                   <div>
-                    <h3 className="text-2xl font-bold text-[#2E2E2E] mb-2">Dispute the Claimed Amount</h3>
+                    <h4 className="text-2xl font-bold text-[#2E2E2E] mb-2">Dispute the Claimed Amount</h4>
                     <p className="text-lg text-gray-700">Banks often add illegal penal interests, uncapitalized charges, and inflated recovery expenses to the demand amount. A watertight SARFAESI Act 13(2) notice reply format strictly demands a forensic breakdown of the claimed amount, stalling their process.</p>
                   </div>
                 </div>
@@ -342,7 +342,7 @@ export default function SarfaesiNoticePage() {
                 <div className="flex gap-6">
                   <div className="flex-shrink-0 w-12 h-12 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center font-black text-xl shadow-lg">3</div>
                   <div>
-                    <h3 className="text-2xl font-bold text-[#2E2E2E] mb-2">Force the 15-Day Statutory Response</h3>
+                    <h4 className="text-2xl font-bold text-[#2E2E2E] mb-2">Force the 15-Day Statutory Response</h4>
                     <p className="text-lg text-gray-700">Under Section 13(3A), once you submit a valid objection, the bank is legally compelled to reply with valid reasons within 15 days. If they fail to reply, or reply with generic templates, it becomes powerful grounds for a DRT judge to grant a stay order against the auction.</p>
                   </div>
                 </div>
@@ -350,37 +350,37 @@ export default function SarfaesiNoticePage() {
             </section>
 
             <section id="stopping-auction" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 How to Stop Property Auction under SARFAESI
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 If the 60 days pass without resolution, the bank will issue a possession notice under Section 13(4) and eventually a 30-day sale notice. To stop the auction, you need aggressive legal and financial strategies.
               </p>
               
               <div className="grid md:grid-cols-2 gap-6 my-8">
                 <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
-                  <h3 className="font-black text-[#1F5EFF] text-lg mb-3">One-Time Settlement (OTS)</h3>
+                  <h4 className="font-black text-[#1F5EFF] text-lg mb-3">One-Time Settlement (OTS)</h4>
                   <p className="text-gray-700">By exerting legal pressure, we force the bank to the negotiating table. If you can arrange a lump sum, banks often agree to waive penalties and even some principal to avoid lengthy DRT litigation.</p>
                 </div>
                 <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
-                  <h3 className="font-black text-[#1F5EFF] text-lg mb-3">Loan Restructuring</h3>
+                  <h4 className="font-black text-[#1F5EFF] text-lg mb-3">Loan Restructuring</h4>
                   <p className="text-gray-700">If your financial hardship is genuine (e.g., medical emergency, job loss), we petition the bank's higher management to restructure the loan, increasing the tenure and lowering the EMI to regularize the account.</p>
                 </div>
                 <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
-                  <h3 className="font-black text-[#1F5EFF] text-lg mb-3">Section 14 Challenge (CMM/DM)</h3>
+                  <h4 className="font-black text-[#1F5EFF] text-lg mb-3">Section 14 Challenge (CMM/DM)</h4>
                   <p className="text-gray-700">To take physical possession, the bank must apply to the Magistrate. We track these applications and file caveats to ensure we are heard before an order to forcefully evict you is passed.</p>
                 </div>
                 <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
-                  <h3 className="font-black text-[#1F5EFF] text-lg mb-3">Finding an Alternate Buyer</h3>
+                  <h4 className="font-black text-[#1F5EFF] text-lg mb-3">Finding an Alternate Buyer</h4>
                   <p className="text-gray-700">Before the property goes for a distress auction (often 30% below market rate), we negotiate with the bank to allow you to sell the property privately to a buyer, clearing the debt and saving your equity.</p>
                 </div>
               </div>
             </section>
 
             <section id="drt-stay-order" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 Approaching the DRT: <span className="text-[#1F5EFF]">Securing a Stay Order</span>
-              </h2>
+              </h3>
               <div className="bg-gray-50 p-8 rounded-2xl mb-8 border border-gray-200">
                 <p className="text-lg leading-relaxed mb-6 text-gray-800">
                   The Debt Recovery Tribunal (DRT) is your ultimate shield against the bank's bulldozer tactics. Under Section 17 of the SARFAESI Act, any person aggrieved by the measures taken by the bank can file a Securitisation Application (SA) in the DRT.
@@ -399,12 +399,12 @@ export default function SarfaesiNoticePage() {
             </section>
 
             <section id="legal-mistakes" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 Critical Mistakes to Avoid
-              </h2>
+              </h3>
               
               <div className="bg-red-50 p-6 rounded-xl border border-red-100 mb-8">
-                <h3 className="text-xl font-black text-red-700 mb-4">Warning: Do not make these fatal errors</h3>
+                <h4 className="text-xl font-black text-red-700 mb-4">Warning: Do not make these fatal errors</h4>
                 <ul className="space-y-4">
                   <li className="flex items-start gap-3">
                     <span className="text-red-900 font-bold">1. Ignoring the Notice:</span> The 60-day clock doesn't stop because you are stressed. Silence is taken as consent for them to seize the property.
@@ -420,9 +420,9 @@ export default function SarfaesiNoticePage() {
             </section>
 
             <section id="success-cases" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 Real Success Stories
-              </h2>
+              </h3>
               <div className="grid md:grid-cols-2 gap-6 my-8">
                 
                 <div className="bg-white p-8 rounded-[30px] border border-[#DEDEDE] shadow-sm hover:shadow-xl group transition-all">
@@ -481,15 +481,15 @@ export default function SarfaesiNoticePage() {
             </section>
 
             <section id="cmm-section-14-process" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 The Role of the CMM / DM: <span className="text-[#1F5EFF]">Section 14 Process</span>
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 One of the most misunderstood aspects of the SARFAESI Act is physical possession. When the 60-day notice period under Section 13(2) expires, and if a borrower refuses to hand over peaceful possession under Section 13(4), the bank cannot simply send goons or bouncers to forcibly evict the occupants. Such actions are blatantly illegal and carry severe judicial penalties.
               </p>
               
               <div className="bg-gray-50 p-8 rounded-2xl mb-8 border border-gray-200">
-                <h3 className="text-xl font-bold mb-4 text-[#2E2E2E] underline">The Mandatory Application to the Magistrate</h3>
+                <h4 className="text-xl font-bold mb-4 text-[#2E2E2E] underline">The Mandatory Application to the Magistrate</h4>
                 <p className="text-lg leading-relaxed mb-4 text-gray-800">
                   Instead, the bank is legally obligated to file a formal application before the Chief Metropolitan Magistrate (CMM) in metropolitan areas, or the District Magistrate (DM) in non-metropolitan districts, under Section 14 of the SARFAESI Act.
                 </p>
@@ -499,7 +499,7 @@ export default function SarfaesiNoticePage() {
               </div>
 
               <div className="bg-blue-50 border-l-8 border-[#1F5EFF] p-8 rounded-r-2xl mb-8">
-                <h4 className="text-xl font-black text-[#1F5EFF] mb-4">Strategic Defense at the Section 14 Stage:</h4>
+                <h5 className="text-xl font-black text-[#1F5EFF] mb-4">Strategic Defense at the Section 14 Stage:</h5>
                 <ul className="space-y-3">
                   <li className="flex items-start gap-3">
                     <div className="mt-1.5 w-2 h-2 rounded-full bg-[#1F5EFF] flex-shrink-0"></div>
@@ -514,9 +514,9 @@ export default function SarfaesiNoticePage() {
             </section>
 
             <section id="negotiating-with-arc" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 Dealing with ARCs: <span className="text-black">Asset Reconstruction Companies</span>
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 Often, public and private sector banks do not want to go through the lengthy process of recovering bad loans. To clean up their balance sheets, they sell these Non-Performing Assets (NPAs) in bulk to Asset Reconstruction Companies (ARCs) like Edelweiss ARC, Reliance ARC, or JM Financial ARC.
               </p>
@@ -526,26 +526,26 @@ export default function SarfaesiNoticePage() {
 
               <div className="grid md:grid-cols-2 gap-6 my-8">
                 <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
-                  <h3 className="font-black text-[#1F5EFF] text-lg mb-3">Aggressive Haircuts</h3>
+                  <h4 className="font-black text-[#1F5EFF] text-lg mb-3">Aggressive Haircuts</h4>
                   <p className="text-gray-700">Because ARCs buy the debt from the original bank at a discounted rate (e.g., buying a 50 Lakh debt for 25 Lakhs), they often have larger margins. A skilled DRT lawyer can sometimes negotiate a much more favorable One-Time Settlement (OTS) with an ARC than with the original bank.</p>
                 </div>
                 <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
-                  <h3 className="font-black text-[#1F5EFF] text-lg mb-3">Ruthless Auction Tactics</h3>
+                  <h4 className="font-black text-[#1F5EFF] text-lg mb-3">Ruthless Auction Tactics</h4>
                   <p className="text-gray-700">Conversely, if you refuse to settle, ARCs are extremely efficient at executing auctions. They have dedicated legal teams focused purely on obtaining Section 14 orders and pushing the property into the market. Time is of the essence when an ARC takes over your loan portfolio.</p>
                 </div>
               </div>
             </section>
 
             <section id="impact-co-borrowers" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 Impact on <span className="text-[#1F5EFF]">Co-Borrowers & Guarantors</span>
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 A common misconception is that the SARFAESI Act only targets the primary borrower. This is a fatal misunderstanding. The 13(2) notice is almost always addressed jointly to the primary borrower, any co-borrowers (usually a spouse or parent), and any financial guarantors. Under the law, the liability of a guarantor is co-extensive with that of the principal debtor.
               </p>
               
               <div className="bg-red-50 p-6 rounded-xl border border-red-100 mb-8">
-                <h3 className="text-xl font-black text-red-700 mb-4">Guarantor's Assets are at Risk</h3>
+                <h4 className="text-xl font-black text-red-700 mb-4">Guarantor's Assets are at Risk</h4>
                 <p className="text-lg text-red-900 leading-relaxed mb-4">
                   If you signed as a guarantor on a defaulted secured loan, the bank has the legal right to invoke SARFAESI provisions against your personal property, provided it was offered as collateral. Even if your property was not collateral, the bank can file a recovery suit in the DRT against your personal assets if the auction of the primary collateral falls short of the total dues.
                 </p>
@@ -556,15 +556,15 @@ export default function SarfaesiNoticePage() {
             </section>
 
             <section id="msme-business-loans" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 MSME and <span className="text-black">Business Properties</span>
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 The SARFAESI Act is heavily utilized by banks to recover Loan Against Property (LAP), Cash Credit (CC), and Overdraft (OD) facilities extended to MSMEs and businesses. When a factory, warehouse, or commercial office is attached, the stakes are significantly higher because it directly halts your business operations and livelihood.
               </p>
               
               <div className="bg-gray-50 p-8 rounded-2xl mb-8 border border-gray-200">
-                <h3 className="text-xl font-bold mb-4 text-[#2E2E2E] underline">Crucial Exemptions Under SARFAESI</h3>
+                <h4 className="text-xl font-bold mb-4 text-[#2E2E2E] underline">Crucial Exemptions Under SARFAESI</h4>
                 <p className="text-lg leading-relaxed mb-4 text-gray-800">
                   Not all properties or loans fall under the draconian grip of the SARFAESI Act. Before panicking, our lawyers always check if your case qualifies for a statutory exemption:
                 </p>
@@ -586,7 +586,7 @@ export default function SarfaesiNoticePage() {
             </section>
 
             <section id="faqs" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">Frequently Asked Questions</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">Frequently Asked Questions</h3>
               <div className="space-y-4">
                 {[
                   { q: "What is a SARFAESI Act Section 13(2) demand notice?", a: "It is a formal legal notice sent by a bank or financial institution to a borrower after a secured loan (like a home loan) account becomes a Non-Performing Asset (NPA). It gives the borrower 60 days to repay the outstanding dues before the bank can take possession of the collateral property." },
@@ -601,7 +601,7 @@ export default function SarfaesiNoticePage() {
                   { q: "Can I sell my property after receiving a 13(2) notice?", a: "No. Under Section 13(13) of the SARFAESI Act, once you receive the 13(2) notice, you are legally prohibited from transferring, selling, or leasing the secured asset without the written consent of the bank." }
                 ].map((faq, idx) => (
                   <div key={idx} className="bg-white border border-[#DEDEDE] rounded-xl p-6 hover:shadow-md transition-shadow">
-                    <h3 className="text-xl font-bold text-[#2E2E2E] mb-3">{faq.q}</h3>
+                    <h4 className="text-xl font-bold text-[#2E2E2E] mb-3">{faq.q}</h4>
                     <p className="text-gray-700 leading-relaxed">{faq.a}</p>
                   </div>
                 ))}
@@ -612,7 +612,7 @@ export default function SarfaesiNoticePage() {
             <div className="bg-[#2E2E2E] text-white p-12 rounded-[40px] text-center mt-24 relative overflow-hidden group">
               <div className="absolute inset-0 bg-[#1F5EFF] opacity-0 group-hover:opacity-5 transition-opacity"></div>
               <div className="relative z-10">
-                <h3 className="text-3xl font-black mb-4">Don't Let the Bank Auction Your Home.</h3>
+                <h4 className="text-3xl font-black mb-4">Don't Let the Bank Auction Your Home.</h4>
                 <p className="text-lg text-gray-300 mb-8 max-w-2xl mx-auto">
                   Received a 60-day SARFAESI notice from your bank? The clock is ticking on your property. Get our expert DRT lawyers to draft a watertight reply and secure a stay order today.
                 </p>

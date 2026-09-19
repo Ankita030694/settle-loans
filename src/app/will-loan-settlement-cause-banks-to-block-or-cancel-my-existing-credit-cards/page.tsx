@@ -296,9 +296,9 @@ export default function CreditCardBlockAfterSettlement() {
 
               {/* Blue Important Box */}
               <section id="cross-default-clause" className="scroll-mt-32 mb-16">
-                <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">What is the Cross-Default Clause?</h2>
+                <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">What is the Cross-Default Clause?</h3>
                 <div className="bg-blue-50 border-l-8 border-[#1F5EFF] p-8 rounded-r-2xl mb-8">
-                  <h3 className="text-xl font-black text-[#1F5EFF] mb-4">The Secret Weapon of Banks</h3>
+                  <h4 className="text-xl font-black text-[#1F5EFF] mb-4">The Secret Weapon of Banks</h4>
                   <p className="text-lg leading-relaxed mb-6 text-gray-700">
                     The <strong>Cross-Default Clause India</strong> is a powerful legal provision buried in the fine print of almost every loan and credit card agreement. In simple terms, it states that if you default on an obligation with <em>any</em> financial institution, it can be treated as a default by your current lender, even if you have never missed a payment with them.
                   </p>
@@ -317,7 +317,7 @@ export default function CreditCardBlockAfterSettlement() {
 
               {/* Numbered Steps */}
               <section id="algorithmic-risk" className="scroll-mt-32 mb-16">
-                <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">Algorithmic Risk Assessment by Banks</h2>
+                <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">Algorithmic Risk Assessment by Banks</h3>
                 <p className="text-lg leading-relaxed mb-8">
                   Gone are the days when a human banker manually reviewed your file. Today, the <strong>impact of personal loan settlement on credit card</strong> accounts is managed by ruthless algorithms. Here is how the automated domino effect works:
                 </p>
@@ -326,7 +326,7 @@ export default function CreditCardBlockAfterSettlement() {
                   <div className="flex gap-6">
                     <div className="flex-shrink-0 w-12 h-12 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center font-black text-xl shadow-lg">1</div>
                     <div>
-                      <h3 className="text-2xl font-bold text-[#2E2E2E] mb-3">The Trigger Event</h3>
+                      <h4 className="text-2xl font-bold text-[#2E2E2E] mb-3">The Trigger Event</h4>
                       <p className="text-lg leading-relaxed text-gray-600">You settle a personal loan. The lending bank reports this transaction to credit bureaus (like CIBIL, Experian) with the status &quot;Settled.&quot;</p>
                     </div>
                   </div>
@@ -334,7 +334,7 @@ export default function CreditCardBlockAfterSettlement() {
                   <div className="flex gap-6">
                     <div className="flex-shrink-0 w-12 h-12 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center font-black text-xl shadow-lg">2</div>
                     <div>
-                      <h3 className="text-2xl font-bold text-[#2E2E2E] mb-3">The Algorithmic Sweep</h3>
+                      <h4 className="text-2xl font-bold text-[#2E2E2E] mb-3">The Algorithmic Sweep</h4>
                       <p className="text-lg leading-relaxed text-gray-600">Your other banks perform monthly or quarterly automated sweeps of their customers&apos; credit profiles. The algorithm immediately flags the &quot;Settled&quot; status on your report.</p>
                     </div>
                   </div>
@@ -342,7 +342,7 @@ export default function CreditCardBlockAfterSettlement() {
                   <div className="flex gap-6">
                     <div className="flex-shrink-0 w-12 h-12 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center font-black text-xl shadow-lg">3</div>
                     <div>
-                      <h3 className="text-2xl font-bold text-[#2E2E2E] mb-3">Risk Re-evaluation</h3>
+                      <h4 className="text-2xl font-bold text-[#2E2E2E] mb-3">Risk Re-evaluation</h4>
                       <p className="text-lg leading-relaxed text-gray-600">The system re-evaluates your risk profile. Because a settlement indicates severe financial distress, your risk score skyrockets internally.</p>
                     </div>
                   </div>
@@ -351,26 +351,26 @@ export default function CreditCardBlockAfterSettlement() {
 
               {/* 4-Grid Info Boxes */}
               <section id="credit-limit-reduction" className="scroll-mt-32 mb-16">
-                <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">Why Your Credit Limit is Suddenly Reduced</h2>
+                <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">Why Your Credit Limit is Suddenly Reduced</h3>
                 <p className="text-lg leading-relaxed mb-6">
                   One of the first signs of trouble is a <strong>CIBIL score drop credit card limit reduced</strong> scenario. Banks use credit limits as a lever to manage their exposure to risky borrowers.
                 </p>
 
                 <div className="grid md:grid-cols-2 gap-6 my-8">
                   <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
-                    <h3 className="font-black text-[#1F5EFF] text-lg mb-3">Exposure Mitigation</h3>
+                    <h4 className="font-black text-[#1F5EFF] text-lg mb-3">Exposure Mitigation</h4>
                     <p className="text-gray-700">Banks want to ensure you cannot max out your card and default. Lowering the limit reduces their potential loss.</p>
                   </div>
                   <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
-                    <h3 className="font-black text-[#1F5EFF] text-lg mb-3">Behavioral Modeling</h3>
+                    <h4 className="font-black text-[#1F5EFF] text-lg mb-3">Behavioral Modeling</h4>
                     <p className="text-gray-700">Algorithms predict that borrowers who settle one loan are 70% more likely to max out available credit elsewhere.</p>
                   </div>
                   <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
-                    <h3 className="font-black text-[#1F5EFF] text-lg mb-3">Automated Execution</h3>
+                    <h4 className="font-black text-[#1F5EFF] text-lg mb-3">Automated Execution</h4>
                     <p className="text-gray-700">Limit reductions happen automatically, often via an SMS notification, without human intervention or prior warning.</p>
                   </div>
                   <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
-                    <h3 className="font-black text-[#1F5EFF] text-lg mb-3">Impact on Utilization</h3>
+                    <h4 className="font-black text-[#1F5EFF] text-lg mb-3">Impact on Utilization</h4>
                     <p className="text-gray-700">A reduced limit spikes your credit utilization ratio, further tanking your credit score in a vicious cycle.</p>
                   </div>
                 </div>
@@ -378,9 +378,9 @@ export default function CreditCardBlockAfterSettlement() {
 
               {/* Red Warning Box */}
               <section id="cancellation" className="scroll-mt-32 mb-16">
-                <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">Abrupt Cancellation of Active Credit Cards</h2>
+                <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">Abrupt Cancellation of Active Credit Cards</h3>
                 <div className="bg-red-50 p-6 rounded-xl border border-red-100 mb-8">
-                  <h3 className="text-xl font-black text-red-700 mb-4">Warning: Complete Card Revocation</h3>
+                  <h4 className="text-xl font-black text-red-700 mb-4">Warning: Complete Card Revocation</h4>
                   <p className="text-lg leading-relaxed text-red-900 mb-0">
                     If your algorithmic risk score crosses a critical threshold, banks won&apos;t just lower your limit—they will cancel the card entirely. You might be asking, <em>&quot;Will bank block active credit card after settlement even if I pay on time?&quot;</em> The answer is a resounding yes. Banks care about your overall financial stability, not just your loyalty to one card.
                   </p>
@@ -389,7 +389,7 @@ export default function CreditCardBlockAfterSettlement() {
 
               {/* Gray Insight Box */}
               <section id="cibil-impact" className="scroll-mt-32 mb-16">
-                <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">Impact of Settlement on CIBIL Score</h2>
+                <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">Impact of Settlement on CIBIL Score</h3>
                 <div className="bg-gray-50 p-8 rounded-2xl mb-8 border border-gray-200">
                   <p className="text-lg leading-relaxed mb-6 text-gray-800">
                     The core driver behind these automated actions is the massive drop in your CIBIL score. A settlement typically causes a drop of 75 to 100 points instantly. 
@@ -402,7 +402,7 @@ export default function CreditCardBlockAfterSettlement() {
 
               {/* Review / Success Stories */}
               <section id="success-stories" className="scroll-mt-32 mb-16">
-                <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">Success Stories</h2>
+                <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">Success Stories</h3>
                 <div className="grid md:grid-cols-2 gap-6">
                   
                   {/* Card 1 */}
@@ -412,7 +412,7 @@ export default function CreditCardBlockAfterSettlement() {
                         RS
                       </div>
                       <div>
-                        <h3 className="font-bold text-[#2E2E2E]">Rahul Sharma</h3>
+                        <h4 className="font-bold text-[#2E2E2E]">Rahul Sharma</h4>
                         <div className="flex text-yellow-400">
                           <svg className="w-4 h-4 fill-current" viewBox="0 0 20 20"><path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z" /></svg>
                           <svg className="w-4 h-4 fill-current" viewBox="0 0 20 20"><path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z" /></svg>
@@ -436,7 +436,7 @@ export default function CreditCardBlockAfterSettlement() {
                         PV
                       </div>
                       <div>
-                        <h4 className="font-bold text-[#2E2E2E]">Priya Verma</h4>
+                        <h5 className="font-bold text-[#2E2E2E]">Priya Verma</h5>
                         <div className="flex text-yellow-400">
                           <svg className="w-4 h-4 fill-current" viewBox="0 0 20 20"><path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z" /></svg>
                           <svg className="w-4 h-4 fill-current" viewBox="0 0 20 20"><path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z" /></svg>
@@ -458,11 +458,11 @@ export default function CreditCardBlockAfterSettlement() {
 
               {/* FAQs */}
               <section id="faq" className="scroll-mt-32 mb-16">
-                <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">Frequently Asked Questions</h2>
+                <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">Frequently Asked Questions</h3>
                 <div className="space-y-4">
                   {faqs.map((faq, i) => (
                     <div key={i} className="bg-white border border-[#DEDEDE] rounded-xl p-6 hover:shadow-md transition-shadow">
-                      <h3 className="text-lg font-bold text-[#2E2E2E] mb-2">{faq.q}</h3>
+                      <h4 className="text-lg font-bold text-[#2E2E2E] mb-2">{faq.q}</h4>
                       <p className="text-gray-600">{faq.a}</p>
                     </div>
                   ))}
@@ -472,7 +472,7 @@ export default function CreditCardBlockAfterSettlement() {
               {/* Lead Gen Hook */}
               <div className="bg-[#2E2E2E] text-white p-12 rounded-[40px] text-center mt-24 relative overflow-hidden group">
                 <div className="absolute inset-0 bg-[#1F5EFF] opacity-0 group-hover:opacity-5 transition-opacity"></div>
-                <h3 className="text-3xl md:text-4xl font-black mb-6 relative z-10">Worried about losing your active credit cards?</h3>
+                <h4 className="text-3xl md:text-4xl font-black mb-6 relative z-10">Worried about losing your active credit cards?</h4>
                 <p className="text-xl text-gray-300 mb-8 max-w-2xl mx-auto relative z-10">
                   Worried your active credit cards will be blocked if you settle a personal loan? Let our financial advisors help you restructure your debt while protecting your active credit lines.
                 </p>

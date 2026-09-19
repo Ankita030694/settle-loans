@@ -245,7 +245,7 @@ const Page = () => {
                     </section>
 
                     <section id="land-transfer-act-protection" className="scroll-mt-32 mb-16">
-                        <h2 className="text-3xl font-black mb-6">The Power of the Meghalaya Transfer of Land (Regulation) Act, 1971</h2>
+                        <h3 className="text-3xl font-black mb-6">The Power of the Meghalaya Transfer of Land (Regulation) Act, 1971</h3>
                         <p>For any borrower in Meghalaya, the most significant legal protection comes from the **Meghalaya Transfer of Land (Regulation) Act, 1971**. This landmark legislation was enacted to protect the land rights of the indigenous tribal populations of the state. Under this Act, the transfer of tribal land to non tribal entities is strictly regulated and, in most cases, prohibited without the explicit permission of the competent authority.</p>
                         <p>This has profound implications for bank loan recovery. Most nationalized and private banks in India are considered 'non tribal' entities under the law. Consequently, if a tribal borrower defaults on a secured loan, the bank faces immense legal hurdles in attempting to seize, auction, or transfer the land used as collateral. The standard procedures that banks use in other parts of the country to recover dues through property sales are largely ineffective in Meghalaya.</p>
                         <p>At SettleLoans, we use this legal reality as a massive leverage point during negotiations. We remind the banks' regional credit heads that pursuing a legal battle to take possession of tribal land in Meghalaya is a long, expensive, and often futile exercise. This commercial reality makes banks much more receptive to a **One Time Settlement (OTS)**. They would much rather accept a guaranteed lump sum cash payment today than spend years in litigation with very little hope of ever selling the property.</p>
@@ -254,7 +254,7 @@ const Page = () => {
                     </section>
 
                     <section id="tribal-debt-rights" className="scroll-mt-32 mb-16">
-                        <h2 className="text-3xl font-black mb-6">Upholding the Debt Rights of Tribal Borrowers</h2>
+                        <h3 className="text-3xl font-black mb-6">Upholding the Debt Rights of Tribal Borrowers</h3>
                         <p>The tribal populations of Meghalaya are protected by several constitutional and regional provisions that extend beyond land rights. The **Sixth Schedule of the Indian Constitution** provides for Autonomous District Councils (ADCs) that govern various aspects of social and economic life. In this environment, the rights of an indigenous borrower are not just subject to standard banking laws but also to the broader principles of social justice and regional protection.</p>
                         <p>Banks operating in Meghalaya are required to adhere to the directives of the Reserve Bank of India (RBI), which emphasize the need for fair treatment of all customers, particularly those from marginalized or protected communities. When a tribal borrower faces financial hardship, the bank is encouraged to explore all avenues of rehabilitation before resorting to aggressive recovery. This includes restructuring the loan, providing moratoriums, or agreeing to a mutually beneficial settlement.</p>
                         <p>SettleLoans acts as a professional advocate for tribal borrowers, ensuring that their specific hardships are articulated in a way that centralized banking systems can understand. We document the unique socio economic factors that might have led to the default, such as a localized crop failure or a sudden change in traditional trade routes. We argue that forcing a borrower into permanent debt in a protected region is contrary to the spirit of financial inclusion.</p>
@@ -263,7 +263,7 @@ const Page = () => {
                     </section>
 
                     <section id="mslsa-lok-adalat-role" className="scroll-mt-32 mb-16">
-                        <h2 className="text-3xl font-black mb-6">The Role of MSLSA and Lok Adalats in Debt Resolution</h2>
+                        <h3 className="text-3xl font-black mb-6">The Role of MSLSA and Lok Adalats in Debt Resolution</h3>
                         <p>For many residents of Meghalaya, the traditional court system can feel daunting and inaccessible. This is where the **Meghalaya State Legal Services Authority (MSLSA)** plays a crucial role. One of their most effective tools for debt resolution is the **Lok Adalat** (People's Court). These are held periodically across the state, from the judicial complexes in Shillong to the district courts in Tura and Jowai.</p>
                         <p>A Lok Adalat is an informal and efficient way to settle disputes between a borrower and a bank. It is presided over by a bench that typically includes a judge and a social worker or a senior advocate. The focus is not on finding fault but on finding a compromise. The process is completely free for the borrower, and any agreement reached here has the same legal force as a civil court decree. Most importantly, a Lok Adalat order is final and cannot be appealed, bringing total closure to the dispute.</p>
                         <p>At SettleLoans, we have a specialized team that manages Lok Adalat representations for our Meghalaya clients. We don't just wait for the day of the hearing. We engage with the bank's regional managers weeks in advance, conducting the heavy negotiations to reach a 'pre settlement' agreement. This ensures that when our client appears before the MSLSA bench, the terms are already favorable and the process is smooth.</p>
@@ -272,7 +272,7 @@ const Page = () => {
                     </section>
 
                     <section id="personal-loan-settlement-shillong" className="scroll-mt-32 mb-16">
-                        <h2 className="text-3xl font-black mb-6">Strategic Settlement for Personal Loans in Shillong</h2>
+                        <h3 className="text-3xl font-black mb-6">Strategic Settlement for Personal Loans in Shillong</h3>
                         <p>Personal loans have become the primary source of financial flexibility for many in Shillong. Whether it is for a child's higher education, an unexpected medical surgery at NEIGRIHMS, or a major home renovation, these unsecured loans are easy to get but hard to pay back when circumstances change. Because they are unsecured, banks have no collateral to fall back on, making them particularly aggressive during the recovery phase.</p>
                         <p>If you are a borrower in Shillong facing calls from recovery departments about your personal loan, the first thing to understand is that you are not alone. Thousands are in the same situation. The second thing is that you have the right to negotiate. Banks would rather recover 40% to 50% of the loan amount through a settlement than write off the entire amount as a loss. However, they only offer these deals to those who can prove genuine hardship.</p>
                         <p>SettleLoans specializes in drafting 'Hardship Letters' that carry weight. We don't just say you can't pay; we prove why. We use your bank statements, income proof (or lack thereof), and any medical or situational evidence to build a compelling case. We speak the language of the bank's credit committees. We know the 'bottom price' that most major private and nationalized banks are willing to accept for personal loans in the Northeast region.</p>
@@ -281,7 +281,7 @@ const Page = () => {
                     </section>
 
                     <section id="credit-card-trap-northeast" className="scroll-mt-32 mb-16">
-                        <h2 className="text-3xl font-black mb-6">Navigating the Credit Card Debt Trap in the Northeast</h2>
+                        <h3 className="text-3xl font-black mb-6">Navigating the Credit Card Debt Trap in the Northeast</h3>
                         <p>Credit cards are a relatively new addition to the financial lives of many in Meghalaya, but they have quickly become a source of significant debt stress. The allure of 'easy credit' often leads to overspending, and before you know it, you are trapped in the cycle of paying only the 'Minimum Amount Due'. With interest rates reaching up to 48% per annum, paying only the minimum means you are nearly only covering the interest and taxes, while the principal remains untouched.</p>
                         <p>This is the 'Death Spiral' of credit card debt. In a region like the Northeast, where financial literacy regarding digital credit is still evolving, many families find themselves owing lakhs on cards that originally had much lower limits. The stress of daily calls and the fear of a legal notice can be paralyzing. SettleLoans provides a structured exit strategy for those caught in this trap. We help you transition from being a 'victim' of the interest cycle to a 'negotiator'.</p>
                         <p>Our strategy involve a controlled process of 'Strategic Default'. We advise you to stop the futile cycle of paying minimums that provide no relief. Instead, we use that money to build a settlement fund while we simultaneously build your legal defense. We inform the banks that you are now legally represented. This immediately changes the tone of their communication. They realize that they can no longer use intimidation and must engage in professional negotiation.</p>
@@ -290,7 +290,7 @@ const Page = () => {
                     </section>
 
                     <section id="business-debt-relief-tura" className="scroll-mt-32 mb-16">
-                        <h2 className="text-3xl font-black mb-6">Sustainable Business Debt Relief in Tura and Beyond</h2>
+                        <h3 className="text-3xl font-black mb-6">Sustainable Business Debt Relief in Tura and Beyond</h3>
                         <p>Tura is the heart of the Garo Hills and a vital center for trade and agriculture. Many small and medium enterprises (SMEs) here rely on business loans to function. However, the business environment in the hills is subject to unique pressures. From seasonal logistics issues to changes in State government policies, a business that was profitable yesterday can find itself struggling to meet its loan obligations today.</p>
                         <p>When a business loan goes into default, the bank often threatens to seize the business assets. In many cases, these loans are secured by the personal property of the entrepreneur. This puts the entire family's future at risk. At SettleLoans, we specialize in 'Commercial Debt Resolution'. We understand that a business failure is not a crime; it is an economic event. We present the bank with a clear 'Winding Up' or 'Restructuring' plan, showing them that a settlement is in their best commercial interest.</p>
                         <p>We argue that forcing a small business in Tura into liquidation creates no value for the bank and destroys a piece of the local economy. We highlight that the bank's recovery costs will likely exceed what they can get through an auction of old machinery or shop fittings. This makes them much more likely to accept a lump sum settlement. We have helped shopkeepers, transport contractors, and small scale manufacturers in the Garo Hills settle their business debts for manageable amounts, allowing them to either restart or move on without the shadow of debt.</p>
@@ -299,7 +299,7 @@ const Page = () => {
                     </section>
 
                     <section id="sarfaesi-act-limitations" className="scroll-mt-32 mb-16">
-                        <h2 className="text-3xl font-black mb-6">Limitations of the SARFAESI Act in Sixth Schedule Areas</h2>
+                        <h3 className="text-3xl font-black mb-6">Limitations of the SARFAESI Act in Sixth Schedule Areas</h3>
                         <p>The SARFAESI Act (Securitisation and Reconstruction of Financial Assets and Enforcement of Security Interest Act, 2002) is a powerful tool used by banks to recover secured debts without the intervention of a court. It allows the bank to take possession of and sell the secured asset after giving a 60 day notice. However, in the **Sixth Schedule areas** of Meghalaya, the SARFAESI Act meets a significant legal wall.</p>
                         <p>The Supreme Court and various High Courts have often emphasized that central laws like SARFAESI must be read in harmony with regional protections like the Meghalaya Transfer of Land Act. Because banks cannot easily find 'tribal buyers' for auctioned land, and because the law prohibits transfer to 'non tribal' entities, the 'Enforcement' part of SARFAESI becomes nearly impossible to execute in the state. A bank can send the notice, but they can't easily sell the land.</p>
                         <p>At SettleLoans, we audit every SARFAESI notice sent to our clients. Often, banks send these notices simply to create panic, knowing well that they cannot easily follow through. We check for procedural errors in the notice; any mistake in the calculation of the 'Amount Due' or the 'Notice Period' can be used to challenge the action in a **Debt Recovery Tribunal (DRT)**. Even a simple stay on the proceedings can buy several months of time, which we use to negotiate a settlement.</p>
@@ -308,7 +308,7 @@ const Page = () => {
                     </section>
                     
                     <section id="stopping-harassment-meghalaya" className="scroll-mt-32 mb-16">
-                        <h2 className="text-3xl font-black mb-6">Zero Tolerance for Recovery Harassment in the Hills</h2>
+                        <h3 className="text-3xl font-black mb-6">Zero Tolerance for Recovery Harassment in the Hills</h3>
                         <p>One of the most painful aspects of being in debt is the harassment from third party recovery agents. These agents often use illegal tactics to shame and intimidate borrowers. In a close knit society like Meghalaya's, where reputation is everything, this harassment can lead to extreme mental health issues and social isolation. It is important to know that **harassment is illegal**.</p>
                         <p>The Reserve Bank of India (RBI) has strict guidelines for debt recovery. Agents are prohibited from calling before 8 AM or after 7 PM. They cannot use abusive language, they cannot threaten you with physical harm, and they absolutely cannot contact your relatives, friends, or employers to shame you. If an agent is visiting your home in Williamnagar or Jowai and behaving inappropriately, they are violating the law.</p>
                         <p>The moment you enroll with SettleLoans, we issue **Cease and Desist notices** to all your creditors. We inform them that you are now legally represented and that all further communication must be directed to our firm. This single step stops the majority of collection calls almost immediately. Most recovery agents are instructed to avoid borrowers who have professional legal protection because they know the risks of a formal complaint.</p>
@@ -317,13 +317,13 @@ const Page = () => {
                     </section>
 
                     <section id="meghalaya-success-stories" className="scroll-mt-32 mb-16 text-center">
-                        <h2 className="text-4xl font-black mb-12">Success Stories from Our Clients in Meghalaya</h2>
+                        <h3 className="text-4xl font-black mb-12">Success Stories from Our Clients in Meghalaya</h3>
                         <div className="grid md:grid-cols-2 gap-8 not-prose">
                             <div className="bg-white p-8 rounded-3xl border border-[#DEDEDE] shadow-xl hover:shadow-2xl transition-all h-full flex flex-col">
                                 <div className="flex items-center mb-6">
                                     <div className="w-14 h-14 rounded-full bg-[#1F5EFF]/10 flex items-center justify-center font-bold text-[#1F5EFF] text-xl mr-4">P</div>
                                     <div className="text-left">
-                                        <h3 className="font-black text-xl">Pynshngain S.</h3>
+                                        <h4 className="font-black text-xl">Pynshngain S.</h4>
                                         <p className="text-sm text-gray-500">Shillong, Meghalaya</p>
                                     </div>
                                     <div className="ml-auto text-yellow-500">★★★★★</div>
@@ -338,7 +338,7 @@ const Page = () => {
                                 <div className="flex items-center mb-6">
                                     <div className="w-14 h-14 rounded-full bg-[#1F5EFF]/10 flex items-center justify-center font-bold text-[#1F5EFF] text-xl mr-4">B</div>
                                     <div className="text-left">
-                                        <h4 className="font-black text-xl">Balarina M.</h4>
+                                        <h5 className="font-black text-xl">Balarina M.</h5>
                                         <p className="text-sm text-gray-500">Tura, Meghalaya</p>
                                     </div>
                                     <div className="ml-auto text-yellow-500">★★★★★</div>
@@ -353,7 +353,7 @@ const Page = () => {
                     </section>
 
                     <section id="credit-rebuilding-plan" className="scroll-mt-32 mb-16">
-                        <h2 className="text-3xl font-black mb-6">Your Roadmap to Rebuilding Credit in Meghalaya</h2>
+                        <h3 className="text-3xl font-black mb-6">Your Roadmap to Rebuilding Credit in Meghalaya</h3>
                         <p>One of the most common questions we get is: "Will I ever get a loan again after settling?" The answer is yes, but it requires a disciplined approach. While settlement does leave a 'Settled' remark on your CIBIL report, it is infinitely better than an 'Active Default'. A default shows you walked away from your responsibility; a settlement shows you found a legal resolution. Most lenders in Shillong and Tura will consider you for new credit after a 'cool off' period of 18 to 24 months, provided you show positive credit behavior during that time.</p>
                         <p>The first step in rebuilding is to ensure all your settled accounts are accurately updated in the Bureau reports. Sometimes, banks make administrative errors and show a settled account as 'Written Off'. This is more damaging. We help you audit your credit reports and file disputes with CIBIL, Experian, and Equifax to ensure the 'Settled' status is correctly reflected alongside a 'Zero Balance'.</p>
                         <p>The second step is to start small. The most effective way in the Northeast is to take a **Secured Credit Card**. Several banks in Meghalaya offer cards against a small Fixed Deposit (usually around ₹20,000). By using this card for small monthly expenses and paying the full bill every month, you start generating fresh, positive credit data. Over time, your score will start to climb back from the 500s into the 700s.</p>
@@ -362,7 +362,7 @@ const Page = () => {
                     </section>
 
                     <section id="faqs-meghalaya" className="scroll-mt-32 mb-16">
-                        <h2 className="text-3xl font-black mb-8">Frequently Asked Questions: Meghalaya Edition</h2>
+                        <h3 className="text-3xl font-black mb-8">Frequently Asked Questions: Meghalaya Edition</h3>
                         <div className="space-y-4 not-prose">
                             {faqData.map((faq, i) => (
                                 <details key={i} className="group bg-white border border-[#DEDEDE] rounded-xl overflow-hidden hover:shadow-md transition-all">
@@ -381,7 +381,7 @@ const Page = () => {
                     </section>
 
                     <section className="mt-16 bg-[#1F5EFF] rounded-3xl p-10 text-center text-white shadow-2xl">
-                        <h2 className="text-3xl md:text-4xl font-black mb-4">Secure Your Financial Future in Meghalaya</h2>
+                        <h3 className="text-3xl md:text-4xl font-black mb-4">Secure Your Financial Future in Meghalaya</h3>
                         <p className="mb-8 text-lg opacity-90 max-w-2xl mx-auto">From the hills of Shillong to the plains of Tura, we have helped hundreds of families reclaim their peace of mind. Your path to a debt free life starts with a single step.</p>
                         <div className="flex justify-center">
                             <Link href="/contact" className="inline-block bg-white text-[#1F5EFF] font-black py-4 px-12 rounded-xl hover:scale-105 transition-all text-xl shadow-lg">

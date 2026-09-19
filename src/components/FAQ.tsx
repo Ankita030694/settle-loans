@@ -22,7 +22,7 @@ const defaultFaqs = [
   },
   {
     question: "How long does the settlement process usually take?",
-    answer: "The timeline typically ranges from 3 to 12 months, depending on the number of creditors, the outstanding amount, and the negotiation phase with the lenders."
+    answer: "The timeline typically ranges from 3 to 12 months, depending on the number of creditors, the outstanding amount, and the talks phase with the lenders."
   },
   {
     question: "Will recovery calls stop once I start the process?",
@@ -68,14 +68,14 @@ const FAQ: React.FC<FAQProps> = ({
 
           {/* Left Column */}
           <div className="lg:w-[45%] space-y-6">
-            <h2 className="text-[#2E2E2E] text-[48px] md:text-[60px] font-bold leading-[0.95] tracking-tight" style={{ fontFamily: 'var(--font-satoshi), Satoshi, sans-serif' }}>
+            <h3 className="text-[#2E2E2E] text-[48px] md:text-[60px] font-bold leading-[0.95] tracking-tight" style={{ fontFamily: 'var(--font-satoshi), Satoshi, sans-serif' }}>
               {title.split(' ').map((word, i, arr) => (
                 <React.Fragment key={i}>
                   {word}{' '}
                   {i === 1 && <br className="hidden md:block" />}
                 </React.Fragment>
               ))}
-            </h2>
+            </h3>
             <p className="text-[#6D6D6D] text-[18px] md:text-[22px] font-normal leading-[1.2] max-w-md transition-all duration-300" style={{ fontFamily: 'var(--font-satoshi), Satoshi, sans-serif' }}>
               {description}
             </p>
@@ -99,7 +99,7 @@ const FAQ: React.FC<FAQProps> = ({
             </div>
 
             <button className="bg-[#1F5EFF] text-white px-8 py-3 rounded-[10px] text-lg font-medium transition-all duration-300 hover:bg-[#1648CC] hover:shadow-lg active:scale-[0.98]">
-              Request Assistance
+              Request help
             </button>
           </div>
 

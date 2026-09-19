@@ -274,36 +274,36 @@ export default function Page() {
               </section>
 
               <section id="default-consequences" className="scroll-mt-32 mb-16">
-                <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">Flexi Loan Default Consequences</h2>
+                <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">Flexi Loan Default Consequences</h3>
                 <p className="text-lg leading-relaxed mb-6">
                   Missing even a single payment on a flexi loan triggers a cascade of negative financial events. It is crucial to understand these <strong className="text-black">flexi loan default consequences</strong> so you can take proactive measures.
                 </p>
 
                 <div className="grid md:grid-cols-2 gap-6 my-8">
                   <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
-                    <h3 className="font-black text-[#1F5EFF] text-lg mb-3">Severe CIBIL Damage</h3>
+                    <h4 className="font-black text-[#1F5EFF] text-lg mb-3">Severe CIBIL Damage</h4>
                     <p className="text-gray-700">Your credit score will plummet immediately. Defaults stay on your credit report for up to 7 years, making it nearly impossible to secure new loans, credit cards, or mortgages.</p>
                   </div>
                   <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
-                    <h3 className="font-black text-[#1F5EFF] text-lg mb-3">Withdrawal Limits Frozen</h3>
+                    <h4 className="font-black text-[#1F5EFF] text-lg mb-3">Withdrawal Limits Frozen</h4>
                     <p className="text-gray-700">The moment your payment bounces, Bajaj Finance will block your available limit. You will no longer be able to withdraw funds from your approved sanction limit.</p>
                   </div>
                   <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
-                    <h3 className="font-black text-[#1F5EFF] text-lg mb-3">Relentless Collection Calls</h3>
+                    <h4 className="font-black text-[#1F5EFF] text-lg mb-3">Relentless Collection Calls</h4>
                     <p className="text-gray-700">Your phone will start ringing incessantly. Automated reminders quickly give way to aggressive telecalling agents demanding immediate payment of the overdue amount.</p>
                   </div>
                   <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
-                    <h3 className="font-black text-[#1F5EFF] text-lg mb-3">Legal Action Threats</h3>
+                    <h4 className="font-black text-[#1F5EFF] text-lg mb-3">Legal Action Threats</h4>
                     <p className="text-gray-700">If the default persists beyond 90 days (turning into an NPA), you will start receiving formal legal notices under Section 138 (if a cheque bounced) or Section 25 of the Payment and Settlement Act (for NACH bounces).</p>
                   </div>
                 </div>
               </section>
 
               <section id="overdue-charges" className="scroll-mt-32 mb-16">
-                <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">The Hidden Cost: Bajaj Flexi Loan Overdue Charges</h2>
+                <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">The Hidden Cost: Bajaj Flexi Loan Overdue Charges</h3>
                 
                 <div className="bg-blue-50 border-l-8 border-[#1F5EFF] p-8 rounded-r-2xl mb-8">
-                  <h3 className="text-xl font-black text-[#1F5EFF] mb-4">How Overdue Charges Compound Your Debt</h3>
+                  <h4 className="text-xl font-black text-[#1F5EFF] mb-4">How Overdue Charges Compound Your Debt</h4>
                   <p className="text-lg text-gray-800 mb-4">
                     The biggest danger of missing a flexi loan payment is the compounding effect of the <strong className="text-black">Bajaj flexi loan overdue charges</strong>. Unlike a standard loan where you just pay a late fee, flexi loans penalize you heavily:
                   </p>
@@ -324,7 +324,7 @@ export default function Page() {
                 </div>
 
                 <div className="bg-red-50 p-6 rounded-xl border border-red-100 mb-8">
-                  <h3 className="text-xl font-black text-red-700 mb-2">Warning: The Compounding Trap</h3>
+                  <h4 className="text-xl font-black text-red-700 mb-2">Warning: The Compounding Trap</h4>
                   <p className="text-red-900 text-lg">
                     If you ignore the overdue amount for 6 to 12 months, your total outstanding can easily become 30% to 50% higher than your original utilized limit simply due to these aggressive penal charges.
                   </p>
@@ -332,7 +332,7 @@ export default function Page() {
               </section>
 
               <section id="recovery-process" className="scroll-mt-32 mb-16">
-                <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">The Bajaj Finance Recovery Process Explained</h2>
+                <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">The Bajaj Finance Recovery Process Explained</h3>
                 <p className="text-lg leading-relaxed mb-8">
                   Dealing with the <strong className="text-black">Bajaj Finance recovery process</strong> can be incredibly stressful. The lender has a systematic escalation matrix for accounts that fall into default. Here is exactly what you can expect:
                 </p>
@@ -341,7 +341,7 @@ export default function Page() {
                   <div className="flex gap-6">
                     <div className="flex-shrink-0 w-12 h-12 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center font-black text-xl shadow-lg">1</div>
                     <div>
-                      <h3 className="text-2xl font-black text-[#2E2E2E] mb-3">Days 1-30: Automated Reminders & Telecalling</h3>
+                      <h4 className="text-2xl font-black text-[#2E2E2E] mb-3">Days 1-30: Automated Reminders & Telecalling</h4>
                       <p className="text-lg text-gray-700">Immediately after a bounce, you will receive SMS and WhatsApp alerts. This quickly transitions to daily calls from their in-house collection teams reminding you to pay the EMI plus bounce charges.</p>
                     </div>
                   </div>
@@ -349,7 +349,7 @@ export default function Page() {
                   <div className="flex gap-6">
                     <div className="flex-shrink-0 w-12 h-12 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center font-black text-xl shadow-lg">2</div>
                     <div>
-                      <h3 className="text-2xl font-black text-[#2E2E2E] mb-3">Days 31-90: Agency Allocation & Field Visits</h3>
+                      <h4 className="text-2xl font-black text-[#2E2E2E] mb-3">Days 31-90: Agency Allocation & Field Visits</h4>
                       <p className="text-lg text-gray-700">If unpaid for over a month, your account is allocated to external recovery agencies. You will start receiving threatening calls, and field agents will visit your registered residential and office addresses, often causing public embarrassment.</p>
                     </div>
                   </div>
@@ -357,7 +357,7 @@ export default function Page() {
                   <div className="flex gap-6">
                     <div className="flex-shrink-0 w-12 h-12 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center font-black text-xl shadow-lg">3</div>
                     <div>
-                      <h3 className="text-2xl font-black text-[#2E2E2E] mb-3">Day 90+: NPA Classification & Legal Notices</h3>
+                      <h4 className="text-2xl font-black text-[#2E2E2E] mb-3">Day 90+: NPA Classification & Legal Notices</h4>
                       <p className="text-lg text-gray-700">Once your account crosses 90 days overdue, it is classified as a Non-Performing Asset (NPA). You will receive formal legal demand notices from their advocates. They may initiate arbitration proceedings or file criminal complaints for instrument bounces.</p>
                     </div>
                   </div>
@@ -365,7 +365,7 @@ export default function Page() {
               </section>
 
               <section id="legal-rights" className="scroll-mt-32 mb-16">
-                <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">Legal Rights Against Harassment</h2>
+                <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">Legal Rights Against Harassment</h3>
                 <div className="bg-white rounded-2xl p-8 border border-[#DEDEDE] shadow-sm relative overflow-hidden mb-8">
                   <p className="text-lg leading-relaxed mb-6 text-gray-700">
                     Being in debt does not strip you of your fundamental rights. The Reserve Bank of India (RBI) has laid out strict guidelines governing how Non-Banking Financial Companies (NBFCs) like Bajaj Finance and their recovery agents can interact with borrowers. When your flexi loan is overdue, you might feel powerless, but knowing these rights can help you regain control.
@@ -373,19 +373,19 @@ export default function Page() {
                   
                   <div className="grid md:grid-cols-2 gap-6 mt-6">
                     <div className="bg-gray-50 p-6 rounded-xl border border-gray-200">
-                      <h3 className="font-black text-[#1F5EFF] text-lg mb-3">Restricted Call Timings</h3>
+                      <h4 className="font-black text-[#1F5EFF] text-lg mb-3">Restricted Call Timings</h4>
                       <p className="text-gray-700">Recovery agents are strictly prohibited from calling you at odd hours. They can only contact you between <strong className="text-[#2E2E2E]">8:00 AM and 7:00 PM</strong>. Any calls outside this window constitute harassment and can be reported.</p>
                     </div>
                     <div className="bg-gray-50 p-6 rounded-xl border border-gray-200">
-                      <h3 className="font-black text-[#1F5EFF] text-lg mb-3">No Abusive Language</h3>
+                      <h4 className="font-black text-[#1F5EFF] text-lg mb-3">No Abusive Language</h4>
                       <p className="text-gray-700">Agents cannot use foul, abusive, or threatening language. They are not allowed to intimidate you physically or mentally. If an agent yells or threatens you, you should record the call as evidence.</p>
                     </div>
                     <div className="bg-gray-50 p-6 rounded-xl border border-gray-200">
-                      <h3 className="font-black text-[#1F5EFF] text-lg mb-3">Privacy Protection</h3>
+                      <h4 className="font-black text-[#1F5EFF] text-lg mb-3">Privacy Protection</h4>
                       <p className="text-gray-700">Recovery agents cannot disclose your debt situation to your relatives, neighbors, friends, or employer. Shaming a defaulter publicly or on social media is a severe violation of your privacy rights.</p>
                     </div>
                     <div className="bg-gray-50 p-6 rounded-xl border border-gray-200">
-                      <h3 className="font-black text-[#1F5EFF] text-lg mb-3">Proper Identification</h3>
+                      <h4 className="font-black text-[#1F5EFF] text-lg mb-3">Proper Identification</h4>
                       <p className="text-gray-700">Any field agent visiting your residence must carry a valid ID card and an authorization letter from Bajaj Finance. You have the right to deny them entry if they fail to produce valid identification.</p>
                     </div>
                   </div>
@@ -393,9 +393,9 @@ export default function Page() {
               </section>
 
               <section id="common-mistakes" className="scroll-mt-32 mb-16">
-                <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">Common Mistakes to Avoid When Overdue</h2>
+                <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">Common Mistakes to Avoid When Overdue</h3>
                 <div className="bg-red-50 p-8 rounded-2xl mb-8 border border-red-100">
-                  <h3 className="text-xl font-black text-red-700 mb-4">Don't Make Your Situation Worse</h3>
+                  <h4 className="text-xl font-black text-red-700 mb-4">Don't Make Your Situation Worse</h4>
                   <p className="text-lg text-red-900 mb-6">
                     When the pressure of an overdue flexi loan mounts, many borrowers panic and make impulsive decisions that severely damage their financial future. Here are the top mistakes you must avoid at all costs:
                   </p>
@@ -426,13 +426,13 @@ export default function Page() {
               </section>
 
               <section id="negotiation-strategies" className="scroll-mt-32 mb-16">
-                <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">Negotiating a Fair Settlement</h2>
+                <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">Negotiating a Fair Settlement</h3>
                 <div className="bg-[#f8faff] p-8 rounded-2xl mb-8 border border-[#DEDEDE]">
                   <p className="text-lg leading-relaxed text-gray-700 mb-6">
                     If you have experienced a genuine job loss, medical emergency, or severe business downturn, you might be eligible for a One-Time Settlement (OTS). A settlement is a formal agreement where the lender accepts a lump sum payment that is less than the total outstanding balance, and in return, closes the loan account.
                   </p>
                   
-                  <h3 className="text-xl font-black text-[#1F5EFF] mb-4">How the Settlement Process Works:</h3>
+                  <h4 className="text-xl font-black text-[#1F5EFF] mb-4">How the Settlement Process Works:</h4>
                   
                   <div className="space-y-6">
                     <div className="flex gap-4 items-start">
@@ -468,7 +468,7 @@ export default function Page() {
               </section>
 
               <section id="action-plan" className="scroll-mt-32 mb-16">
-                <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">Action Plan: How to Break the Cycle and Settle Your Loan</h2>
+                <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">Action Plan: How to Break the Cycle and Settle Your Loan</h3>
                 
                 <div className="bg-gray-50 p-8 rounded-2xl mb-8 border border-gray-200">
                   <p className="text-lg leading-relaxed text-gray-700 mb-4">
@@ -483,7 +483,7 @@ export default function Page() {
               </section>
 
               <section id="success-stories" className="scroll-mt-32 mb-16">
-                <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">Client Success Stories</h2>
+                <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">Client Success Stories</h3>
                 <div className="grid md:grid-cols-2 gap-6">
                   
                   <div className="bg-white p-8 rounded-[30px] border border-[#DEDEDE] shadow-sm hover:shadow-xl group transition-all">
@@ -532,7 +532,7 @@ export default function Page() {
               </section>
 
               <section id="faq" className="scroll-mt-32 mb-16">
-                <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">Frequently Asked Questions</h2>
+                <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">Frequently Asked Questions</h3>
                 <div className="space-y-4">
                   {jsonLd[3].mainEntity?.map((faq: any, index: number) => (
                     <details key={index} name="faq-accordion" className="bg-white border border-[#DEDEDE] rounded-xl p-6 hover:shadow-md group cursor-pointer transition-shadow">
@@ -554,7 +554,7 @@ export default function Page() {
               <div className="bg-[#2E2E2E] text-white p-12 rounded-[40px] text-center mt-24 relative overflow-hidden group">
                 <div className="absolute inset-0 bg-[#1F5EFF] opacity-0 group-hover:opacity-5 transition-opacity"></div>
                 <div className="relative z-10">
-                  <h3 className="text-3xl md:text-4xl font-black mb-6">Stop the Endless Cycle of Overdue Charges</h3>
+                  <h4 className="text-3xl md:text-4xl font-black mb-6">Stop the Endless Cycle of Overdue Charges</h4>
                   <p className="text-xl text-gray-300 mb-8 max-w-2xl mx-auto">
                     Are you trapped in a Bajaj Flexi Loan overdue cycle with compounding interest? Stop the harassment and let our legal experts negotiate a settlement that you can actually afford.
                   </p>

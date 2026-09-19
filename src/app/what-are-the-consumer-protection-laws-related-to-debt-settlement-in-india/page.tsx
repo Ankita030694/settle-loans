@@ -302,9 +302,9 @@ export default function ConsumerProtectionLawsPage() {
             </section>
 
             <section id="consumer-protection-act-2019" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
                 Section 1: The Consumer Protection Act, 2019 - A New Era
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 The Consumer Protection Act, 2019, replaced the legacy 1986 version with a modern, digital-first approach. For the first time, financial services were explicitly brought under microscopic scrutiny. As a borrower, you are legally defined as a 'Consumer' of financial services. This means you have the right to seek redressal for 'Deficiency in Service' and 'Unfair Trade Practices'. This is a critical distinction because for decades, banks operated under the assumption that borrowers had fewer rights once they defaulted. The 2019 Act crushed that notion.
               </p>
@@ -315,7 +315,7 @@ export default function ConsumerProtectionLawsPage() {
                 Furthermore, the 2019 Act simplified the grievance process. You can now file cases electronically through the e-Daakhil portal, and you do not necessarily need a lawyer to represent you in the initial stages. The commissions are instructed to resolve cases within a timebound manner, ensuring that the bank cannot use their massive legal budgets to delay justice for years.
               </p>
               <div className="bg-gray-50 p-8 rounded-xl border border-gray-200 mb-8">
-                <h3 className="text-xl font-bold mb-6">Key Rights Under the 2019 Act</h3>
+                <h4 className="text-xl font-bold mb-6">Key Rights Under the 2019 Act</h4>
                 <ul className="grid md:grid-cols-2 gap-4 text-sm font-medium">
                   <li className="flex items-center gap-2">
                     <span className="w-2 h-2 bg-[#1F5EFF] rounded-full"></span>
@@ -346,9 +346,9 @@ export default function ConsumerProtectionLawsPage() {
             </section>
 
             <section id="rbi-fair-practice-code" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
                 Section 2: The RBI Fair Practice Code - The Lender's Bible
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 The RBI Fair Practice Code is the golden rulebook that every bank, NBFC, and Fintech platform in India must display on their website and follow religiously. It covers the entire lifecycle of a loan, from the application stage to the final closure. It mandates that lenders must be transparent about interest rates, processing fees, and the specific terms of recovery. There are no hidden charges allowed under this code.
               </p>
@@ -361,21 +361,21 @@ export default function ConsumerProtectionLawsPage() {
             </section>
 
             <section id="rights-against-harassment" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight text-center">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight text-center">
                 Rights Against Harassment: Breaking the Silent Fear
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6 text-center">
                 The biggest weapon of a debt collector is fear. But fear disappears when you know your rights. Under the latest RBI circulars (effective 2024-2025), you have specific protections that are non-negotiable and enforceable.
               </p>
               <div className="grid md:grid-cols-2 gap-6 my-10">
                 <div className="bg-red-50 p-6 rounded-xl border border-red-100">
-                  <h3 className="text-xl font-bold text-red-800 mb-3">Time Constraints</h3>
+                  <h4 className="text-xl font-bold text-red-800 mb-3">Time Constraints</h4>
                   <p className="text-sm text-red-900/80 leading-relaxed">
                     Agents can only call or visit you between 8:00 AM and 7:00 PM. Any call at midnight or early morning is an illegal act of harassment that should be reported immediately. The RBI recently clarified that automated 'Dunning Calls' also fall under this time restriction.
                   </p>
                 </div>
                 <div className="bg-blue-50 p-6 rounded-xl border border-blue-100">
-                  <h3 className="text-xl font-bold text-blue-800 mb-3">Third-Party Privacy</h3>
+                  <h4 className="text-xl font-bold text-blue-800 mb-3">Third-Party Privacy</h4>
                   <p className="text-sm text-blue-900/80 leading-relaxed">
                     Contacting your neighbors, your HR department, or your friends to shame you is strictly prohibited. Your financial distress is your private business, protected by privacy laws and the Right to Privacy under Article 21 of the Constitution.
                   </p>
@@ -390,9 +390,9 @@ export default function ConsumerProtectionLawsPage() {
             </section>
 
             <section id="legal-recovery-framework" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
                 Section 3: The Legal Recovery Framework in 2025
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 Recovery is not just a phone call; it is a legal process governed by acts like the Recovery of Debts Due to Banks and Financial Institutions Act (DRT Act) and the SARFAESI Act. These acts provide the framework through which a bank can attempt to recover their money while ensuring the borrower has a chance to be heard. 
               </p>
@@ -405,9 +405,9 @@ export default function ConsumerProtectionLawsPage() {
             </section>
 
             <section id="sarfaesi-act-protections" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
                 Protections Under the SARFAESI Act, 2002
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 The SARFAESI Act is often feared because it allows banks to take possession of secured assets (like your home or car) without the intervention of a court. However, this power is not absolute. The Act itself provides strong procedural safeguards for the borrower. If a bank skips even one step, their entire recovery action can be declared null and void.
               </p>
@@ -420,7 +420,7 @@ export default function ConsumerProtectionLawsPage() {
             </section>
 
             <section id="role-of-ombudsman" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 uppercase tracking-tighter">The Role of the Banking Ombudsman - Your Free Advocate</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 uppercase tracking-tighter">The Role of the Banking Ombudsman - Your Free Advocate</h3>
               <p className="mb-6 text-lg">
                 If your bank is not listening, the Banking Ombudsman is your ultimate ally. This is an independent authority appointed by the RBI to handle complaints against banks and NBFCs. The process is completely free for the consumer. You do not need a lawyer to approach the Ombudsman. It is an online, paperless process that has a very high success rate for legitimate grievances.
               </p>
@@ -433,7 +433,7 @@ export default function ConsumerProtectionLawsPage() {
             </section>
 
             <section id="digital-lending-rights" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Digital Lending Rights: The 2025 Fintech Shield</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Digital Lending Rights: The 2025 Fintech Shield</h3>
               <p className="mb-6 text-lg">
                 The rise of 'Loan Apps' led to a period of digital chaos. However, the RBI's new Digital Lending Guidelines (2023-2024) have brought these apps into a strict regulatory fold. If you borrow from a Digital Lending App (DLA), it must be partnered with a Regulated Entity (RE) like a bank or an NBFC. If an app cannot name its partner, it is likely illegal and you should report it to the cyber crime cell immediately.
               </p>
@@ -446,7 +446,7 @@ export default function ConsumerProtectionLawsPage() {
             </section>
 
             <section id="one-time-settlement-policies" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 text-center uppercase tracking-widest">One-Time Settlement (OTS) Policies 2025</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 text-center uppercase tracking-widest">One-Time Settlement (OTS) Policies 2025</h3>
               <p className="mb-6 text-lg">
                 A common myth is that debt settlement is a 'favor' given by a bank. In reality, the RBI mandates that every bank must have a board-approved policy for compromise settlements. In June 2023, the RBI issued a circular making it easier for banks to settle even with wilful defaulters if it helps recover at least some money. This was done to help banks clean their Balance Sheets and focus on new business.
               </p>
@@ -454,7 +454,7 @@ export default function ConsumerProtectionLawsPage() {
                 This means that settlement is a legitimate part of the Indian banking system. You have the right to request a settlement if your financial situation is genuinely dire. The bank must consider your proposal based on their board policy. Understanding this makes you a negotiator with standing, not a beggar at the bank's door. At SettleLoans, we use these board policies to ensure our clients get the lowest possible settlement amount while following every legal protocol.
               </p>
               <div className="bg-[#2E2E2E] text-white p-8 rounded-2xl mb-8">
-                <h3 className="text-xl font-bold mb-4 italic">The OTS Logic: Why Banks Settle</h3>
+                <h4 className="text-xl font-bold mb-4 italic">The OTS Logic: Why Banks Settle</h4>
                 <div className="overflow-x-auto text-sm">
                   <table className="w-full text-left">
                     <thead>
@@ -487,7 +487,7 @@ export default function ConsumerProtectionLawsPage() {
             </section>
 
             <section id="handling-recovery-agents" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 uppercase text-center">Handling Recovery Agents: A Pro-Active Strategy</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 uppercase text-center">Handling Recovery Agents: A Pro-Active Strategy</h3>
               <p className="mb-6 text-lg">
                 When an agent calls, you must remain calm. The first step is to verify their credentials. Ask for their 'Debt Recovery Agent' (DRA) certificate number. Every agent must undergo a mandatory 100-hour training by the Indian Institute of Banking and Finance (IIBF). If they do not have this, they are unauthorized and you should hang up immediately.
               </p>
@@ -500,26 +500,26 @@ export default function ConsumerProtectionLawsPage() {
             </section>
 
             <section id="grievance-redressal-path" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 text-center italic">The Grievance Redressal Path: Step-by-Step Success</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 text-center italic">The Grievance Redressal Path: Step-by-Step Success</h3>
               <div className="space-y-4 mb-8">
                 <div className="flex items-start gap-4 p-4 bg-gray-50 rounded-lg border border-gray-100">
                   <div className="w-8 h-8 bg-[#1F5EFF] text-white rounded-full flex items-center justify-center font-bold flex-shrink-0">1</div>
                   <div>
-                    <h3 className="font-bold text-lg">Register a Formal Complaint</h3>
+                    <h4 className="font-bold text-lg">Register a Formal Complaint</h4>
                     <p className="text-sm text-gray-500 font-bold">Submit a written complaint to the bank's Branch Manager or through their online portal. Keep the complaint number and a timestamped copy of the email. This is your foundation for all future legal action.</p>
                   </div>
                 </div>
                 <div className="flex items-start gap-4 p-4 bg-gray-50 rounded-lg border border-gray-100">
                   <div className="w-8 h-8 bg-[#1F5EFF] text-white rounded-full flex items-center justify-center font-bold flex-shrink-0">2</div>
                   <div>
-                    <h4 className="font-bold text-lg">Escalate to the PNO</h4>
+                    <h5 className="font-bold text-lg">Escalate to the PNO</h5>
                     <p className="text-sm text-gray-500 font-bold">If not resolved in 15 days, escalate to the Principal Nodal Officer (PNO) of the bank. Their contact details are legally required to be in the bank's footer or customer service section. The PNO has a higher authority to settle disputes.</p>
                   </div>
                 </div>
                 <div className="flex items-start gap-4 p-4 bg-gray-50 rounded-lg border border-gray-100">
                   <div className="w-8 h-8 bg-[#1F5EFF] text-white rounded-full flex items-center justify-center font-bold flex-shrink-0">3</div>
                   <div>
-                    <h4 className="font-bold text-lg">The Banking Ombudsman</h4>
+                    <h5 className="font-bold text-lg">The Banking Ombudsman</h5>
                     <p className="text-sm text-gray-500 font-bold">If still unresolved after 30 days total, file a complaint on the RBI Complaint Management System (CMS) portal at cms.rbi.org.in. This is a decisive move that often triggers an immediate settlement offer from the bank to avoid RBI penalties.</p>
                   </div>
                 </div>
@@ -527,7 +527,7 @@ export default function ConsumerProtectionLawsPage() {
             </section>
 
             <section id="privacy-and-data-protection" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 uppercase tracking-widest text-[#1F5EFF] text-center">Privacy and Data Protection Rights: Your Digital Fortress</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 uppercase tracking-widest text-[#1F5EFF] text-center">Privacy and Data Protection Rights: Your Digital Fortress</h3>
               <p className="mb-6 text-lg leading-relaxed">
                 With the Digital Personal Data Protection (DPDP) Act of 2023 coming into full force in 2025, your financial data is more secure than ever. Banks and Fintechs cannot share your sensitive details with third parties without your explicit consent, except for specific recovery purposes defined by law. They certainly cannot share your data with unauthorized data-selling agencies or use it to target you with predatory loan offers.
               </p>
@@ -540,7 +540,7 @@ export default function ConsumerProtectionLawsPage() {
             </section>
 
             <section id="impact-of-ibc-2016" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Impact of the Insolvency and Bankruptcy Code (IBC)</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Impact of the Insolvency and Bankruptcy Code (IBC)</h3>
               <p className="mb-6 text-lg">
                 The IBC 2016 introduced a 'Fresh Start' process for individuals with very low income and low assets. While this is a complex legal route, it provides a way for the most vulnerable citizens to have their debts up to 35,000 discharged entirely through a court of law. This is the ultimate consumer protection for those who have absolutely no way to pay.
               </p>
@@ -553,7 +553,7 @@ export default function ConsumerProtectionLawsPage() {
             </section>
 
             <section id="the-right-to-legal-aid" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">The Right to Legal Aid: You Are Never Alone</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">The Right to Legal Aid: You Are Never Alone</h3>
               <p className="mb-6 text-lg">
                 Under Article 39A of the Indian Constitution, the state must provide free legal aid to ensure that justice is not denied to any citizen by reason of economic or other disabilities. If you are facing a massive lawsuit from a bank and cannot afford a lawyer, you can approach the National Legal Services Authority (NALSA) or State Legal Services Authority (SLSA).
               </p>
@@ -563,7 +563,7 @@ export default function ConsumerProtectionLawsPage() {
             </section>
 
             <section id="success-stories" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 text-center uppercase tracking-widest">Real Stories of Freedom</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 text-center uppercase tracking-widest">Real Stories of Freedom</h3>
               <div className="grid md:grid-cols-2 gap-6 not-prose">
                 {[
                   {
@@ -601,7 +601,7 @@ export default function ConsumerProtectionLawsPage() {
                         {review.name.charAt(0)}
                       </div>
                       <div>
-                        <h3 className="font-bold text-[#2E2E2E]">{review.name}</h3>
+                        <h4 className="font-bold text-[#2E2E2E]">{review.name}</h4>
                         <p className="text-xs text-gray-400">{review.loc}</p>
                       </div>
                       <div className="ml-auto text-yellow-400 text-sm">★★★★★</div>
@@ -616,7 +616,7 @@ export default function ConsumerProtectionLawsPage() {
             </section>
 
             <section id="faqs" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Frequently Asked Questions: Know Your Laws</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Frequently Asked Questions: Know Your Laws</h3>
               <div className="space-y-4 not-prose">
                 {jsonLd["@graph"]?.[5] && "mainEntity" in jsonLd["@graph"][5] && (jsonLd["@graph"][5] as any)?.mainEntity?.map((faq: any, i: number) => (
                   <details key={i} className="group bg-white border border-[#DEDEDE] rounded-xl overflow-hidden hover:shadow-md transition-all border-b-4 border-b-[#1F5EFF]/20">
@@ -637,7 +637,7 @@ export default function ConsumerProtectionLawsPage() {
             <div className="mt-16 pt-8 border-t border-gray-200">
               <div className="flex flex-col md:flex-row items-center gap-6 p-8 bg-blue-50 rounded-2xl border border-blue-100">
                 <div className="flex-1 text-center md:text-left">
-                  <h3 className="text-2xl font-black text-[#1F5EFF] mb-2">Feeling Overwhelmed by Collection Calls?</h3>
+                  <h4 className="text-2xl font-black text-[#1F5EFF] mb-2">Feeling Overwhelmed by Collection Calls?</h4>
                   <p className="text-gray-600 font-bold">You do not have to face this alone. Our legal experts know the laws inside out and can protect you from harassment today. We use the law as your best defense.</p>
                 </div>
                 <Link href="/contact" className="bg-[#1F5EFF] text-white font-black py-4 px-8 rounded-xl hover:scale-105 transition-all shadow-xl">
@@ -650,7 +650,7 @@ export default function ConsumerProtectionLawsPage() {
             <div className="lg:hidden mt-8 space-y-8">
               <div className="bg-[#2E2E2E] rounded-2xl shadow-xl overflow-hidden border border-[#DEDEDE]/10 group">
                 <div className="bg-[#1F5EFF] p-6 text-center text-white">
-                  <h3 className="text-2xl font-black mb-2">We are in This Together</h3>
+                  <h4 className="text-2xl font-black mb-2">We are in This Together</h4>
                   <p className="opacity-90 text-sm">Our legal shield protects you from harassment while you settle your debts. You have the law on your side.</p>
                 </div>
                 <div className="p-8 text-center text-[#DEDEDE]">

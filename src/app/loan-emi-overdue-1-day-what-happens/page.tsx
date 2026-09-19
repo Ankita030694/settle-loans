@@ -290,13 +290,13 @@ export default function LoanEMIOverdue1Day() {
             </section>
 
             <section id="grace-period" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">Is There a Grace Period for Personal Loans?</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">Is There a Grace Period for Personal Loans?</h3>
               <p className="text-lg leading-relaxed mb-6 text-gray-700">
                 A common question borrowers ask is whether there is a standard <strong className="text-[#1F5EFF]">grace period for personal loan</strong> payments in India. The short answer is: legally, no, but practically, sometimes.
               </p>
               
               <div className="bg-gray-50 p-8 rounded-2xl mb-8 border border-gray-200">
-                <h3 className="text-xl font-bold text-[#2E2E2E] mb-4">The Reality of Grace Periods</h3>
+                <h4 className="text-xl font-bold text-[#2E2E2E] mb-4">The Reality of Grace Periods</h4>
                 <p className="text-lg leading-relaxed mb-4 text-gray-700">
                   Unlike credit cards which often have explicit grace periods (or interest-free periods) built into their billing cycles, personal loans operate on strict fixed schedules. The Reserve Bank of India (RBI) does not mandate a universal grace period for EMIs.
                 </p>
@@ -307,24 +307,24 @@ export default function LoanEMIOverdue1Day() {
 
               <div className="grid md:grid-cols-2 gap-6 my-8">
                 <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
-                  <h4 className="font-black text-[#1F5EFF] text-lg mb-3">Credit Card vs. Loan</h4>
+                  <h5 className="font-black text-[#1F5EFF] text-lg mb-3">Credit Card vs. Loan</h5>
                   <p className="text-gray-700">Credit cards often allow a 3-day grace period for payment reporting as per RBI guidelines. Personal loans do not have this explicit mandate.</p>
                 </div>
                 <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
-                  <h4 className="font-black text-[#1F5EFF] text-lg mb-3">Automated Penalties</h4>
+                  <h5 className="font-black text-[#1F5EFF] text-lg mb-3">Automated Penalties</h5>
                   <p className="text-gray-700">Banks use automated systems. The second your NACH mandate or auto-debit bounces due to insufficient funds, penalties are generated.</p>
                 </div>
               </div>
             </section>
 
             <section id="cibil-impact" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">What Happens to Your CIBIL Score If You're 1 Day Late?</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">What Happens to Your CIBIL Score If You're 1 Day Late?</h3>
               <p className="text-lg leading-relaxed mb-6 text-gray-700">
                 The biggest fear borrowers have is the immediate destruction of their credit score. Here is the reality regarding the <strong className="text-[#1F5EFF]">CIBIL impact 1 day late</strong> payments have.
               </p>
 
               <div className="bg-blue-50 border-l-8 border-[#1F5EFF] p-8 rounded-r-2xl mb-8">
-                <h3 className="text-xl font-black text-[#1F5EFF] mb-4">The Credit Bureau Reporting Cycle</h3>
+                <h4 className="text-xl font-black text-[#1F5EFF] mb-4">The Credit Bureau Reporting Cycle</h4>
                 <p className="text-lg leading-relaxed mb-4 text-blue-900">
                   Most banks and NBFCs batch their reporting to credit bureaus (CIBIL, Experian, Equifax) on a monthly basis, usually reporting the status of an account as of the month-end.
                 </p>
@@ -346,24 +346,24 @@ export default function LoanEMIOverdue1Day() {
             </section>
 
             <section id="penalty-charges" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">Late Payment Charges & Penalty Interest</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">Late Payment Charges & Penalty Interest</h3>
               <p className="text-lg leading-relaxed mb-6 text-gray-700">
                 While your CIBIL score might survive a 24-hour delay, your wallet will likely take a hit. Financial institutions apply specific charges the moment an EMI mandate fails.
               </p>
 
               <div className="grid md:grid-cols-2 gap-6 my-8">
                 <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
-                  <h3 className="font-black text-[#1F5EFF] text-lg mb-3">1. Bounce Charges</h3>
+                  <h4 className="font-black text-[#1F5EFF] text-lg mb-3">1. Bounce Charges</h4>
                   <p className="text-gray-700">Also known as ECS/NACH return charges. If your bank account lacks funds when the EMI auto-debit is triggered, your bank will charge you a bounce fee (usually ₹300 to ₹600 + GST). Additionally, your lender may also charge a separate bounce fee.</p>
                 </div>
                 <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
-                  <h4 className="font-black text-[#1F5EFF] text-lg mb-3">2. Penal Interest</h4>
+                  <h5 className="font-black text-[#1F5EFF] text-lg mb-3">2. Penal Interest</h5>
                   <p className="text-gray-700">Lenders charge penal interest on the overdue amount. This is typically calculated at 2% to 3% per month (24% to 36% p.a.), applied strictly for the number of days the payment is delayed.</p>
                 </div>
               </div>
 
               <div className="bg-red-50 p-6 rounded-xl border border-red-100 mb-8">
-                <h4 className="text-xl font-black text-red-700 mb-3">Important Warning on Penalties</h4>
+                <h5 className="text-xl font-black text-red-700 mb-3">Important Warning on Penalties</h5>
                 <p className="text-red-900 text-lg m-0">
                   Even if you transfer funds to your account the very next day, the automated bounce charge will have already been levied. Always ensure sufficient balance 24 hours <em>before</em> the due date.
                 </p>
@@ -371,7 +371,7 @@ export default function LoanEMIOverdue1Day() {
             </section>
 
             <section id="bank-reaction" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">How Banks React to a 1-Day Delay</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">How Banks React to a 1-Day Delay</h3>
               <p className="text-lg leading-relaxed mb-6 text-gray-700">
                 Modern banking operations are highly automated. When your <strong className="text-[#1F5EFF]">loan emi is late by 1 day</strong>, it triggers a series of automated events in the lender's system.
               </p>
@@ -393,13 +393,13 @@ export default function LoanEMIOverdue1Day() {
             </section>
 
             <section id="action-steps" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">4 Steps to Take If You Missed the EMI Date</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">4 Steps to Take If You Missed the EMI Date</h3>
               
               <div className="space-y-12">
                 <div className="flex gap-6">
                   <div className="flex-shrink-0 w-12 h-12 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center font-black text-xl shadow-lg">1</div>
                   <div>
-                    <h3 className="text-2xl font-black text-[#2E2E2E] mb-3">Fund Your Account Immediately</h3>
+                    <h4 className="text-2xl font-black text-[#2E2E2E] mb-3">Fund Your Account Immediately</h4>
                     <p className="text-lg text-gray-700">Banks often attempt to re-present the NACH mandate a few days after the initial bounce. Deposit the EMI amount plus an extra ₹1,000 (to cover bounce fees) immediately to ensure the next presentation clears.</p>
                   </div>
                 </div>
@@ -407,7 +407,7 @@ export default function LoanEMIOverdue1Day() {
                 <div className="flex gap-6">
                   <div className="flex-shrink-0 w-12 h-12 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center font-black text-xl shadow-lg">2</div>
                   <div>
-                    <h3 className="text-2xl font-black text-[#2E2E2E] mb-3">Pay Manually Online</h3>
+                    <h4 className="text-2xl font-black text-[#2E2E2E] mb-3">Pay Manually Online</h4>
                     <p className="text-lg text-gray-700">Log into your loan portal or banking app and check for a "Pay Overdue EMI" option. Paying manually is often faster than waiting for the auto-debit to be re-tried. Be sure to confirm whether making a manual payment stops the automated re-presentation to avoid double deduction.</p>
                   </div>
                 </div>
@@ -415,7 +415,7 @@ export default function LoanEMIOverdue1Day() {
                 <div className="flex gap-6">
                   <div className="flex-shrink-0 w-12 h-12 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center font-black text-xl shadow-lg">3</div>
                   <div>
-                    <h3 className="text-2xl font-black text-[#2E2E2E] mb-3">Inform Customer Support</h3>
+                    <h4 className="text-2xl font-black text-[#2E2E2E] mb-3">Inform Customer Support</h4>
                     <p className="text-lg text-gray-700">Call the bank's customer service or write an email explaining that the delay was an oversight and that payment has been made. Proactive communication builds trust and keeps your file clean.</p>
                   </div>
                 </div>
@@ -423,7 +423,7 @@ export default function LoanEMIOverdue1Day() {
                 <div className="flex gap-6">
                   <div className="flex-shrink-0 w-12 h-12 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center font-black text-xl shadow-lg">4</div>
                   <div>
-                    <h3 className="text-2xl font-black text-[#2E2E2E] mb-3">Request Fee Waiver (First-Time Offenders)</h3>
+                    <h4 className="text-2xl font-black text-[#2E2E2E] mb-3">Request Fee Waiver (First-Time Offenders)</h4>
                     <p className="text-lg text-gray-700">If this is the first time you've missed an EMI, you can formally request a waiver of the bounce charges. Banks often grant this goodwill gesture to customers with otherwise flawless repayment histories.</p>
                   </div>
                 </div>
@@ -431,7 +431,7 @@ export default function LoanEMIOverdue1Day() {
             </section>
 
             <section id="success-stories" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">Recent Debt Settlements</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">Recent Debt Settlements</h3>
               <p className="text-lg leading-relaxed mb-8 text-gray-700">
                 If your 1-day delay has turned into a 90-day delay, you might need professional help. Here are some users who settled their overdue loans successfully.
               </p>
@@ -492,7 +492,7 @@ export default function LoanEMIOverdue1Day() {
             </section>
 
             <section id="faq" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">Frequently Asked Questions</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">Frequently Asked Questions</h3>
               <div className="space-y-4">
                 
                 <details name="faq-accordion" className="bg-white border border-[#DEDEDE] rounded-xl p-6 hover:shadow-md group cursor-pointer transition-shadow">
@@ -602,7 +602,7 @@ export default function LoanEMIOverdue1Day() {
             <div className="bg-[#2E2E2E] text-white p-12 rounded-[40px] text-center mt-24 relative overflow-hidden group">
               <div className="absolute inset-0 bg-[#1F5EFF] opacity-0 group-hover:opacity-5 transition-opacity"></div>
               <div className="relative z-10">
-                <h3 className="text-3xl font-black mb-6">Are Multiple EMIs Bouncing?</h3>
+                <h4 className="text-3xl font-black mb-6">Are Multiple EMIs Bouncing?</h4>
                 <p className="text-xl mb-8 text-gray-300">
                   Missed your EMI by just 24 hours? Don't panic. But if delays have turned into months of default, you need an expert to protect your rights and stop recovery harassment.
                 </p>

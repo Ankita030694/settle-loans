@@ -159,27 +159,27 @@ export default function UserReviewsFAQ() {
                         </section>
 
                         <section id="trust-metrics" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                                 Decoding the Trust Metrics: What to Look For
-                            </h2>
+                            </h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 When analyzing reviews, it's essential to look beyond the surface level. A high-quality debt resolution platform will consistently exhibit certain traits across its user feedback. At SettleLoans, we track four primary "Trust Metrics" derived from real-world user experiences:
                             </p>
                             <div className="grid md:grid-cols-2 gap-8 mb-12">
                                 <div className="p-8 bg-blue-50/50 border border-blue-100 rounded-3xl">
-                                    <h3 className="text-xl font-bold text-[#1F5EFF] mb-3">Harassment Mitigation Speed</h3>
+                                    <h4 className="text-xl font-bold text-[#1F5EFF] mb-3">Harassment Mitigation Speed</h4>
                                     <p className="text-sm text-gray-600">How quickly did the recovery calls stop after onboarding? Top platforms usually achieve a 70-80% reduction within the first week.</p>
                                 </div>
                                 <div className="p-8 bg-blue-50/50 border border-blue-100 rounded-3xl">
-                                    <h4 className="text-xl font-bold text-[#1F5EFF] mb-3">Waiver Accuracy</h4>
+                                    <h5 className="text-xl font-bold text-[#1F5EFF] mb-3">Waiver Accuracy</h5>
                                     <p className="text-sm text-gray-600">Did the final settlement percentage match the initial estimate provided by the company's algorithm?</p>
                                 </div>
                                 <div className="p-8 bg-blue-50/50 border border-blue-100 rounded-3xl">
-                                    <h4 className="text-xl font-bold text-[#1F5EFF] mb-3">Legal Muscle</h4>
+                                    <h5 className="text-xl font-bold text-[#1F5EFF] mb-3">Legal Muscle</h5>
                                     <p className="text-sm text-gray-600">Do users mention the presence of actual lawyers during complex notice handlings or Lok Adalat sessions?</p>
                                 </div>
                                 <div className="p-8 bg-blue-50/50 border border-blue-100 rounded-3xl">
-                                    <h4 className="text-xl font-bold text-[#1F5EFF] mb-3">Post-Settlement Support</h4>
+                                    <h5 className="text-xl font-bold text-[#1F5EFF] mb-3">Post-Settlement Support</h5>
                                     <p className="text-sm text-gray-600">Did the company help in getting the 'No Dues Certificate' and ensuring the CIBIL status was updated?</p>
                                 </div>
                             </div>
@@ -188,9 +188,9 @@ export default function UserReviewsFAQ() {
                         <CompanyComparison />
 
                         <section id="sentiment-analysis" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                                 Borrower Sentiment Analysis 2024: A Data-Driven Review
-                            </h2>
+                            </h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 In 2024, our research team performed a sentiment analysis on over 50,000 public reviews across the debt resolution landscape in India. The results were revealing. The primary driver of "Positive Sentiment" (80% of 5-star reviews) was not just the size of the waiver, but the <strong>clarity of communication</strong>. Borrowers who were given a realistic timeline and were warned about the CIBIL impact early on tended to be much happier than those who were promised "miracle" solutions.
                             </p>
@@ -198,7 +198,7 @@ export default function UserReviewsFAQ() {
                                 Interestingly, "Negative Sentiment" (often found in 1-star and 2-star reviews) was rarely about the company's failure to settle. Instead, it was almost always about <strong>unrealistic expectations</strong>. For instance, many negative reviews came from users who thought that hiring a resolution firm meant they never had to pay the bank anything. Professional platforms like SettleLoans have taken this data to heart, implementing mandatory "Onboarding Orientation" calls to ensure users understand that resolution is a compromise, not a free pass.
                             </p>
                             <div className="bg-yellow-50 p-8 rounded-3xl border border-yellow-200 mb-8">
-                                <h3 className="text-xl font-bold text-yellow-800 mb-4 tracking-tighter uppercase">The Sentiment Shift: 2022 vs 2024</h3>
+                                <h4 className="text-xl font-bold text-yellow-800 mb-4 tracking-tighter uppercase">The Sentiment Shift: 2022 vs 2024</h4>
                                 <p className="text-sm text-yellow-900 mb-4">In 2022, users were mostly grateful for stoping recovery calls. In 2024, the focus has shifted to 'Long-term Credit Recovery'.</p>
                                 <div className="space-y-2">
                                     <div className="h-6 bg-yellow-200 rounded-full overflow-hidden w-full flex">
@@ -212,9 +212,9 @@ export default function UserReviewsFAQ() {
                         </section>
 
                         <section id="platform-evolution" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                                 The Evolution of Resolution Platforms in India
-                            </h2>
+                            </h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 If you look at reviews from five years ago, the "platforms" were mostly small legal offices with manual processes. Today, the top-rated platforms are multi-layered organizations. The shift from "service" to "ecosystem" is the most common theme in recent success stories. Platforms now offer:
                             </p>
@@ -239,9 +239,9 @@ export default function UserReviewsFAQ() {
                         </section>
 
                         <section id="success-patterns" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                                 Patterns of Success: Analyzing 5,000+ Case Reports
-                            </h2>
+                            </h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 By analyzing thousands of user reports, we can identify specific patterns that lead to a successful debt resolution. The most successful users are those who:
                             </p>
@@ -249,21 +249,21 @@ export default function UserReviewsFAQ() {
                                 <li className="flex gap-4 items-start bg-gray-50 p-6 rounded-2xl">
                                     <FontAwesomeIcon icon={faCheckCircle} className="text-[#1F5EFF] mt-1" />
                                     <div>
-                                        <h3 className="font-bold text-[#2E2E2E]">Onboard Early</h3>
+                                        <h4 className="font-bold text-[#2E2E2E]">Onboard Early</h4>
                                         <p className="text-gray-600 text-sm">Users who start the process as soon as their account becomes an NPA (90 days default) usually get better deals than those who wait for two years.</p>
                                     </div>
                                 </li>
                                 <li className="flex gap-4 items-start bg-gray-50 p-6 rounded-2xl">
                                     <FontAwesomeIcon icon={faCheckCircle} className="text-[#1F5EFF] mt-1" />
                                     <div>
-                                        <h4 className="font-bold text-[#2E2E2E]">Maintain Digital Discipline</h4>
+                                        <h5 className="font-bold text-[#2E2E2E]">Maintain Digital Discipline</h5>
                                         <p className="text-gray-600 text-sm">Users who use the platform's app to track every interaction with the bank report a much higher satisfaction rate due to the clarity of information.</p>
                                     </div>
                                 </li>
                                 <li className="flex gap-4 items-start bg-gray-50 p-6 rounded-2xl">
                                     <FontAwesomeIcon icon={faCheckCircle} className="text-[#1F5EFF] mt-1" />
                                     <div>
-                                        <h5 className="font-bold text-[#2E2E2E]">Document Hardship Meticulously</h5>
+                                        <h6 className="font-bold text-[#2E2E2E]">Document Hardship Meticulously</h6>
                                         <p className="text-gray-600 text-sm">Those who provide medical reports, bank statements, or proof of salary cuts empower the negotiators with the tools needed to squeeze the maximum waiver from the bank.</p>
                                     </div>
                                 </li>
@@ -271,9 +271,9 @@ export default function UserReviewsFAQ() {
                         </section>
 
                         <section id="psychology-debt" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                                 The Psychology of Relief: The Emotional Value of a Review
-                            </h2>
+                            </h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 Debt is not just a financial number; it is a psychological state. The constant anxiety of "What if the bank visits my home?" or "How will I face my family?" takes a massive toll on mental health. Many reviews in our database focus less on the money saved and more on the "peace of mind" regained.
                             </p>
@@ -287,9 +287,9 @@ export default function UserReviewsFAQ() {
                         </section>
 
                         <section id="verification-guide" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                                 How to Spot Real vs. Fake Reviews in the Industry
-                            </h2>
+                            </h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 Unfortunately, the growth of the industry has also led to the rise of fake review farms. Some companies pay for 5-star Google reviews, while others may post fake negative reviews on competitors. Here is how you can perform your own "Verification Audit":
                             </p>
@@ -328,9 +328,9 @@ export default function UserReviewsFAQ() {
                         />
 
                         <section id="regional-impact" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                                 Regional Patterns: Feedback from Tier 1 vs Tier 2 Cities
-                            </h2>
+                            </h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 Interesting trends emerge when we categorize reviews by city. Borrowers in Tier 1 cities like Mumbai and Bangalore often value the "Digital Speed" of platforms. They prefer managing everything through an app. In contrast, borrowers in Tier 2 and Tier 3 cities like Indore or Nagpur often highlight the "Local Interaction" and the ability to visit a firm's hub for a physical consultation.
                             </p>
@@ -340,7 +340,7 @@ export default function UserReviewsFAQ() {
                         </section>
 
                         <section id="faqs" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-bold text-[var(--color-primary)] mt-16 mb-8">Expert Review FAQs</h2>
+                            <h3 className="text-3xl md:text-4xl font-bold text-[var(--color-primary)] mt-16 mb-8">Expert Review FAQs</h3>
                             <div className="space-y-4 not-prose">
                                 {[
                                     { q: "Where can I find the most authentic reviews?", a: "Platforms like Trustpilot, Google Maps (for physical offices), and the company's own verified success stories portal are the best places. Always look for reviews with specific details." },
@@ -397,7 +397,7 @@ export default function UserReviewsFAQ() {
                         <section className="bg-[#1F5EFF] rounded-[10px] p-8 md:p-12 text-center text-white relative overflow-hidden shadow-2xl">
                             <div className="absolute top-0 right-0 w-64 h-64 bg-white/10 rounded-full -mr-32 -mt-32"></div>
                             <div className="relative z-10">
-                                <h2 className="text-3xl md:text-5xl font-black mb-6 uppercase tracking-tighter">Join 100,000+ Success Stories</h2>
+                                <h3 className="text-3xl md:text-5xl font-black mb-6 uppercase tracking-tighter">Join 100,000+ Success Stories</h3>
                                 <p className="text-lg md:text-2xl opacity-90 max-w-2xl mx-auto mb-10 leading-tight font-normal">
                                     Become the next success story. Reach out through our verified channels and start your journey toward a life without debt today.
                                 </p>

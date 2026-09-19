@@ -273,7 +273,7 @@ export default function SecuredVsUnsecuredSettlementPage() {
             </section>
 
             <section id="fundamental-divide" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 text-[#1F5EFF]">The Fundamental Divide: Secured vs. Unsecured</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 text-[#1F5EFF]">The Fundamental Divide: Secured vs. Unsecured</h3>
               <p className="text-lg mb-6 leading-relaxed">
                 To understand settlement, you must first understand the "security" in a secured loan. A secured loan is a debt that is backed by an asset. When you take a home loan, the house is the collateral. When you take a car loan, the vehicle is the collateral. In the eyes of the law, the lender has a "lien" or a "charge" on this asset. If you stop paying, the lender can bypass many of the usual civil court delays and move to "repossess" the asset. This is why banks feel "secure" lending you 50 lakhs for a house but might hesitate to give you 5 lakhs as a personal loan without a massive interest rate.
               </p>
@@ -283,7 +283,7 @@ export default function SecuredVsUnsecuredSettlementPage() {
             </section>
 
             <section id="can-secured-settle" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">Can Secured Loans Be Settled in India?</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">Can Secured Loans Be Settled in India?</h3>
               <p className="text-lg mb-6">
                 The short answer is yes. The longer answer is that it requires a much higher level of financial distress and a much more strategic approach. Banks in India are governed by the RBI guidelines on "Compromise Settlements." These guidelines allow banks to accept a "One-Time Settlement" (OTS) for any type of loan, provided the account has been classified as a Non-Performing Asset (NPA).
               </p>
@@ -314,29 +314,29 @@ export default function SecuredVsUnsecuredSettlementPage() {
             </section>
 
             <section id="home-loan-default" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 text-[#1F5EFF]">Secured Loan Deep Dive: The Home Loan Nightmare</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 text-[#1F5EFF]">Secured Loan Deep Dive: The Home Loan Nightmare</h3>
               <p className="text-lg mb-6">
                 The journey from a missed EMI to an auction notice is a terrifying one. In India, this process is streamlined by the SARFAESI Act of 2002. This act was specifically designed to help banks recover money without having to wait for 20 years in a Civil Court.
               </p>
               <div className="bg-[#2E2E2E] text-white p-8 rounded-2xl mb-8 space-y-6">
-                <h3 className="text-2xl font-bold">The Default Timeline</h3>
+                <h4 className="text-2xl font-bold">The Default Timeline</h4>
                 <div>
-                  <h4 className="font-bold text-[#1F5EFF] mb-2 uppercase">The 90-Day Countdown (NPA Status)</h4>
+                  <h5 className="font-bold text-[#1F5EFF] mb-2 uppercase">The 90-Day Countdown (NPA Status)</h5>
                   <p className="opacity-80">If you miss three consecutive EMIs (90 days), your account is officially declared an NPA. This is the "Point of No Return" where the bank's recovery department takes over from the service department.</p>
                 </div>
                 <div>
-                  <h4 className="font-bold text-[#1F5EFF] mb-2 uppercase">The Section 13(2) Notice</h4>
+                  <h5 className="font-bold text-[#1F5EFF] mb-2 uppercase">The Section 13(2) Notice</h5>
                   <p className="opacity-80">Once the account is an NPA, the bank issues a notice giving you 60 days to pay the entire outstanding amount. This is the window where professional services like **credsettle.com** are most effective.</p>
                 </div>
                 <div>
-                  <h4 className="font-bold text-[#1F5EFF] mb-2 uppercase">Section 13(4) Possession</h4>
+                  <h5 className="font-bold text-[#1F5EFF] mb-2 uppercase">Section 13(4) Possession</h5>
                   <p className="opacity-80">If you do not pay or reach a settlement within those 60 days, the bank can take "symbolic possession" of your home.</p>
                 </div>
               </div>
             </section>
 
             <section id="sarfaesi-act" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">The SARFAESI Act: A Legal Deep Dive for Borrowers</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">The SARFAESI Act: A Legal Deep Dive for Borrowers</h3>
               <p className="text-lg mb-6">
                 The Securitisation and Reconstruction of Financial Assets and Enforcement of Security Interest Act, 2002, commonly known as SARFAESI, is the most powerful weapon in a bank's arsenal. Before SARFAESI, banks had to file civil suits in local courts, which could take decades to resolve. This caused a massive buildup of NPAs. SARFAESI changed the game by allowing banks to recover money without entering a courtroom.
               </p>
@@ -346,7 +346,7 @@ export default function SecuredVsUnsecuredSettlementPage() {
             </section>
 
             <section id="drt-role" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 text-[#1F5EFF]">The Role of the Debt Recovery Tribunal (DRT)</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 text-[#1F5EFF]">The Role of the Debt Recovery Tribunal (DRT)</h3>
               <p className="text-lg mb-6">
                 The DRT is a specialized court created to handle recovery cases. While the bank does not need the DRT to take your house, YOU need the DRT to stop them. If you believe the bank's actions are illegal (e.g., They did not give you 60 days, or they did not value the property correctly), you can file a Securitisation Application (SA) in the DRT.
               </p>
@@ -356,7 +356,7 @@ export default function SecuredVsUnsecuredSettlementPage() {
             </section>
 
             <section id="unsecured-comparison" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">Unsecured Loan Comparison: The Path of Least Resistance</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">Unsecured Loan Comparison: The Path of Least Resistance</h3>
               <p className="text-lg mb-6 leading-relaxed">
                 Compare a home loan with a credit card debt. If you default on a credit card, the bank's only tool is harassment—calls, recovery agents at the door, and legal notices. They cannot take your TV, your fridge, or your house without a long-drawn-out civil suit that usually costs more than the debt itself. Because of this, the negotiation for an unsecured loan is a game of "how much can we save?" rather than "will we get anything at all?"
               </p>
@@ -366,7 +366,7 @@ export default function SecuredVsUnsecuredSettlementPage() {
             </section>
 
             <section id="comparison-table" className="scroll-mt-32 mb-16 px-4 md:px-0 scrollbar-hide">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">Secured vs Unsecured Loan Settlement</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">Secured vs Unsecured Loan Settlement</h3>
               <div className="overflow-x-auto">
                 <table className="w-full text-left border-collapse border border-gray-200 text-sm md:text-base">
                   <thead className="bg-gray-100">
@@ -403,15 +403,15 @@ export default function SecuredVsUnsecuredSettlementPage() {
             </section>
 
             <section id="case-studies" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 text-[#1F5EFF]">Real-Life Settlement Case Studies</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 text-[#1F5EFF]">Real-Life Settlement Case Studies</h3>
               <div className="space-y-8">
                 <div className="bg-white p-8 rounded-2xl border border-gray-100 shadow-sm">
-                  <h3 className="text-xl font-bold mb-4 uppercase tracking-tighter">Case Study 1: The Ahmedabad MSME</h3>
+                  <h4 className="text-xl font-bold mb-4 uppercase tracking-tighter">Case Study 1: The Ahmedabad MSME</h4>
                   <p className="text-gray-600 mb-4 italic">"I was about to lose my factory. Settleloans.in helped me audit my property value, and Amalegalsolutions.com stopped the auction in the DRT. The bank eventually agreed to a 40 Lakh interest waiver."</p>
                   <p className="text-sm">This industrialist had a 2 Crore LAP. By showing errors in the bank's valuation, they negotiated a Consent Settlement that allowed them to restart their business.</p>
                 </div>
                 <div className="bg-white p-8 rounded-2xl border border-gray-100 shadow-sm">
-                  <h3 className="text-xl font-bold mb-4 uppercase tracking-tighter">Case Study 2: The Education Loan Crisis</h3>
+                  <h4 className="text-xl font-bold mb-4 uppercase tracking-tighter">Case Study 2: The Education Loan Crisis</h4>
                   <p className="text-gray-600 mb-4 italic">"My father's house was at risk because of my foreign studies loan. Credsettle.com negotiated a restructuring that increased the years but lowered the interest to base rate."</p>
                   <p className="text-sm">Instead of a CIBIL-killing settlement, the family chose a long-term restructuring that saved both the house and the student's credit future.</p>
                 </div>
@@ -419,7 +419,7 @@ export default function SecuredVsUnsecuredSettlementPage() {
             </section>
 
             <section id="cibil-impact" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">Financial Impact: Life After Settlement</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">Financial Impact: Life After Settlement</h3>
               <p className="text-lg mb-6 leading-relaxed">
                 Whenever you settle a loan your credit report will reflect the status as "Settled." A "Settled" tag is a red flag to future lenders, telling them you did not fulfill your original legal contract. This tag stays on your CIBIL report for seven years. However, a "Settled" status is better than an "Active Default" or a "Suit Filed" status. Once you settle, your credit score will stop dropping.
               </p>
@@ -430,7 +430,7 @@ export default function SecuredVsUnsecuredSettlementPage() {
             </section>
 
             <section id="expert-insights" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 text-[#1F5EFF]">Expert Insights: Is Settlement Always Best?</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 text-[#1F5EFF]">Expert Insights: Is Settlement Always Best?</h3>
               <p className="text-lg mb-6">
                 A settlement is a "nuclear option." Before you choose it, consider Restructuring. If your financial distress is temporary, you can ask the bank to extend the tenure, grant an interest moratorium, or set up a step-up EMI plan. Negotiators at **credsettle.com** often advise that if you can pay the full amount over more time, you should choose that over settlement to save your CIBIL score.
               </p>
@@ -438,26 +438,26 @@ export default function SecuredVsUnsecuredSettlementPage() {
                 Settlement becomes the only option when the total debt is more than 3 times your annual income, or when you are facing a lifetime disability. The "Golden Rule" is to never pay any settlement amount until you have the **OTS Letter** in your hand. Verbal promises from recovery agents are worthless.
               </p>
 
-              <h3 className="text-2xl font-bold mb-6">The "Waterfall" Method of Debt Repayment</h3>
+              <h4 className="text-2xl font-bold mb-6">The "Waterfall" Method of Debt Repayment</h4>
               <p className="text-lg mb-6">
                 When you have multiple loans, you cannot treat them all equally. You must use a "Waterfall" approach to decide where your limited cash goes. This strategy ensures you protect your most vital assets first.
               </p>
               <div className="grid md:grid-cols-3 gap-6 mb-8">
                 <div className="bg-white p-6 rounded-xl border border-gray-100 shadow-sm">
-                  <h4 className="font-bold text-[#1F5EFF] mb-2 uppercase text-sm">Level 1: Primary Assets</h4>
+                  <h5 className="font-bold text-[#1F5EFF] mb-2 uppercase text-sm">Level 1: Primary Assets</h5>
                   <p className="text-sm">Your home loan must always be the first priority. Losing your home is a catastrophic event that leads to social stigma and physical displacement.</p>
                 </div>
                 <div className="bg-white p-6 rounded-xl border border-gray-100 shadow-sm">
-                  <h4 className="font-bold text-[#1F5EFF] mb-2 uppercase text-sm">Level 2: Mobility Assets</h4>
+                  <h5 className="font-bold text-[#1F5EFF] mb-2 uppercase text-sm">Level 2: Mobility Assets</h5>
                   <p className="text-sm">Your car or bike loan comes next. If you need your vehicle to earn a living, this asset is critical for your future income stability.</p>
                 </div>
                 <div className="bg-white p-6 rounded-xl border border-gray-100 shadow-sm">
-                  <h4 className="font-bold text-[#1F5EFF] mb-2 uppercase text-sm">Level 3: Unsecured Debt</h4>
+                  <h5 className="font-bold text-[#1F5EFF] mb-2 uppercase text-sm">Level 3: Unsecured Debt</h5>
                   <p className="text-sm">Credit cards and instant digital loans. Since these have no collateral, you have more time to negotiate and settle them later.</p>
                 </div>
               </div>
 
-              <h3 className="text-2xl font-bold mb-6">The Post-Settlement Audit: Securing Your Freedom</h3>
+              <h4 className="text-2xl font-bold mb-6">The Post-Settlement Audit: Securing Your Freedom</h4>
               <p className="text-lg mb-6">
                 The biggest risk in a secured loan settlement is the "Chain of Title." If you pay the bank but do not get the original property papers back, your property remains legally "blocked." Firms like **amalegalsolutions.com** perform a "Post-Settlement Audit" to ensure:
               </p>
@@ -470,12 +470,12 @@ export default function SecuredVsUnsecuredSettlementPage() {
             </section>
 
             <section id="global-comparison" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">Global Comparisons: Debt Resolution Across Borders</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">Global Comparisons: Debt Resolution Across Borders</h3>
               <p className="text-lg mb-6">
                 In the USA, bankruptcy is more common and offers "Automatic Stays" that prevent foreclosure immediately. In the UK, Individual Voluntary Arrangements (IVA) provide a legally binding path to pay back a portion of debt over 5 years. India's system is evolving, with the SARFAESI Act providing a pro-lender framework that requires borrowers to be much more strategic. Borrowers in India must rely on legal strategy from firms like **amalegalsolutions.com** to achieve what would be a standard court order in the West.
               </p>
 
-              <h3 className="text-2xl font-bold mb-6">The History and Evolution of Secured Lending in India</h3>
+              <h4 className="text-2xl font-bold mb-6">The History and Evolution of Secured Lending in India</h4>
               <p className="text-lg mb-6 leading-relaxed">
                 Understanding how we got here helps in understanding the current power dynamics. Before 1993, banks in India were almost powerless against defaulters. Borrowers could tie up cases in court for 30 years. This led to the creation of the **Recovery of Debts and Bankruptcy (RDB) Act, 1993**, which established the Debt Recovery Tribunals (DRT).
               </p>
@@ -485,12 +485,12 @@ export default function SecuredVsUnsecuredSettlementPage() {
             </section>
 
             <section id="psychological-support" className="scroll-mt-32 mb-16">
-               <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 text-[#1F5EFF]">Psychological Support: Your Mental Health Matters</h2>
+               <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 text-[#1F5EFF]">Psychological Support: Your Mental Health Matters</h3>
                <p className="text-lg mb-6">
                 Debt is not just a financial numbers game; it is a profound psychological burden. The stress of debt can lead to anxiety, depression, and in tragic cases, self harm. In India, several organizations provide emotional support alongside financial advice.
                </p>
                <div className="bg-emerald-50 p-8 rounded-2xl border border-emerald-100 mb-8">
-                <h3 className="text-xl font-bold text-emerald-800 mb-4 font-black">Don't Suffer in Silence</h3>
+                <h4 className="text-xl font-bold text-emerald-800 mb-4 font-black">Don't Suffer in Silence</h4>
                 <p className="mb-4 text-emerald-900/80 italic">
                   If you are feeling overwhelmed, please reach out to organizations like <strong>AASRA</strong> or the <strong>Vandrevala Foundation</strong>. They offer 24/7 helplines where you can talk to someone about your feelings without judgment. They understand the unique stress of debt and are there to listen.
                 </p>
@@ -501,7 +501,7 @@ export default function SecuredVsUnsecuredSettlementPage() {
             </section>
 
             <section id="future-resolution" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">The Future of Debt Resolution</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">The Future of Debt Resolution</h3>
               <p className="text-lg mb-6">
                 Banks are now using AI to predict which borrowers are likely to settle and which ones are "Willful Defaulters." Platforms like **settleloans.in** use similar technology to help borrowers understand their "Settlement Score." By analyzing your bank statements and your asset value, these platforms can tell you if a bank is likely to accept a 50% waiver or if they will push for 90%.
               </p>
@@ -511,24 +511,24 @@ export default function SecuredVsUnsecuredSettlementPage() {
             </section>
 
             <section id="legal-loopholes" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 text-[#1F5EFF]">Legal Loopholes: When the Bank Stumbles</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 text-[#1F5EFF]">Legal Loopholes: When the Bank Stumbles</h3>
               <p className="text-lg mb-6">
                 Recovery is not always a one-sided battle. Banks often make procedural errors that can be used as leverage in a settlement negotiation. Experts at **amalegalsolutions.com** frequently identify these "cracks" in the bank's case.
               </p>
               <ul className="list-none space-y-4 mb-8">
                 <li className="bg-white p-6 rounded-xl border border-gray-100 shadow-sm border-l-4 border-red-500">
-                  <h3 className="font-bold text-[#2E2E2E] mb-1">Incorrect Asset Description</h3>
+                  <h4 className="font-bold text-[#2E2E2E] mb-1">Incorrect Asset Description</h4>
                   <p className="text-sm">If the property dimensions or boundaries in the SARFAESI notice do not match the original sale deed, the entire recovery process can be declared null and void in the DRT.</p>
                 </li>
                 <li className="bg-white p-6 rounded-xl border border-gray-100 shadow-sm border-l-4 border-red-500">
-                  <h4 className="font-bold text-[#2E2E2E] mb-1">Failure to Serve Notice</h4>
+                  <h5 className="font-bold text-[#2E2E2E] mb-1">Failure to Serve Notice</h5>
                   <p className="text-sm">The bank must prove they sent the notice by registered post and also pasted it on the property. If they skip the "pasting" step or fail to publish in two newspapers, the auction is illegal.</p>
                 </li>
               </ul>
             </section>
 
             <section id="settlement-vs-bankruptcy" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">Debt Settlement vs. Bankruptcy in India</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">Debt Settlement vs. Bankruptcy in India</h3>
               <p className="text-lg mb-6 leading-relaxed">
                 With the introduction of the Insolvency and Bankruptcy Code (IBC) for individuals, many borrowers wonder if "Going Bankrupt" is better than "Settling." While bankruptcy offers a clean slate, the social stigma and the total loss of control over your assets make it a last resort. 
               </p>
@@ -538,7 +538,7 @@ export default function SecuredVsUnsecuredSettlementPage() {
             </section>
 
             <section id="right-to-representation" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 text-[#1F5EFF]">The Right to Fair Representation</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 text-[#1F5EFF]">The Right to Fair Representation</h3>
               <p className="text-lg mb-6">
                 Under the RBI's Fair Practice Code, every borrower has the right to be treated with dignity. Recovery agents cannot call you before 8 AM or after 7 PM. They cannot call your relatives unless they are co-applicants. Most importantly, they cannot enter your house without your permission unless they have a magistrate's order under SARFAESI Section 14.
               </p>
@@ -547,20 +547,20 @@ export default function SecuredVsUnsecuredSettlementPage() {
               </p>
             </section>
             <section id="myths-mistakes" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 text-red-600">Common Myths and Dangerous Mistakes</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 text-red-600">Common Myths and Dangerous Mistakes</h3>
               <div className="space-y-6">
                 <div className="bg-red-50 p-6 rounded-xl border border-red-100">
-                  <h3 className="font-bold text-red-800 mb-2 uppercase tracking-tighter">Myth: The Bank Cannot Evict Me</h3>
+                  <h4 className="font-bold text-red-800 mb-2 uppercase tracking-tighter">Myth: The Bank Cannot Evict Me</h4>
                   <p className="text-red-900 opacity-80 italic">Recovery agents may tell you stories, but the SARFAESI Act allows for physical eviction through a magistrate after the notice period. Living in the property is not a legal shield.</p>
                 </div>
                 <div className="bg-red-50 p-6 rounded-xl border border-red-100">
-                  <h3 className="font-bold text-red-800 mb-2 uppercase tracking-tighter">Mistake: Paying in Cash</h3>
+                  <h4 className="font-bold text-red-800 mb-2 uppercase tracking-tighter">Mistake: Paying in Cash</h4>
                   <p className="text-red-900 opacity-80 italic">Never pay a single rupee in cash. Always use recorded banking channels like NEFT or RTGS. A cash payment to an agent is a payment lost forever.</p>
                 </div>
               </div>
             </section>
             <section id="success-stories" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 text-center">Real Stories of Freedom</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 text-center">Real Stories of Freedom</h3>
               <div className="grid md:grid-cols-2 gap-6 not-prose">
                 {[
                   {
@@ -598,7 +598,7 @@ export default function SecuredVsUnsecuredSettlementPage() {
                         {review.name.charAt(0)}
                       </div>
                       <div>
-                        <h3 className="font-bold text-[#2E2E2E]">{review.name}</h3>
+                        <h4 className="font-bold text-[#2E2E2E]">{review.name}</h4>
                         <p className="text-xs text-gray-400">{review.loc}</p>
                       </div>
                       <div className="ml-auto text-yellow-400 text-sm">★★★★★</div>
@@ -613,7 +613,7 @@ export default function SecuredVsUnsecuredSettlementPage() {
             </section>
 
             <section id="faqs" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">Frequently Asked Questions</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">Frequently Asked Questions</h3>
               <div className="space-y-4">
                 {(jsonLd["@graph"][4] as any)?.mainEntity?.map((faq: any, i: number) => (
                   <details key={i} className="group bg-white border border-gray-200 rounded-xl overflow-hidden hover:shadow-md transition-shadow">
@@ -632,7 +632,7 @@ export default function SecuredVsUnsecuredSettlementPage() {
             </section>
 
             <footer className="mt-16 pt-16 border-t border-gray-100 text-center">
-              <h3 className="text-2xl font-black mb-6">Need Professional Guidance?</h3>
+              <h4 className="text-2xl font-black mb-6">Need Professional Guidance?</h4>
               <p className="text-gray-500 mb-8 max-w-lg mx-auto italic">Our experts at Amalegalsolutions.com, Credsettle.com, and Settleloans.in are here to help you navigate the legal complexities of your specific loan case.</p>
               <Link href="/contact" className="inline-block bg-[#1F5EFF] text-white font-black py-4 px-12 rounded-xl hover:scale-105 transition-all shadow-xl text-lg">
                 Get a Free Audit

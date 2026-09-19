@@ -284,9 +284,9 @@ export default function GenuineSettlementOfferPage() {
             </section>
 
             <section id="settlement-reality" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
                 What a Genuine Settlement Actually Looks Like
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 Before we dive into the red flags, it is vital to understand the standard operating procedure for a legitimate loan settlement in India. A settlement is essentially a contract between you and the lender where the lender agrees to accept a lesser amount than what is owed and close the account as "settled."
               </p>
@@ -297,7 +297,7 @@ export default function GenuineSettlementOfferPage() {
                 Once the letter is issued, the borrower makes the payment through official channels. After the payment is cleared, the bank initiates the process of updating the credit bureaus and issuing a No Dues Certificate. This entire process is transparent, documented, and traceable. Anything that deviates from this path should be treated with extreme suspicion.
               </p>
               <div className="bg-gray-50 p-8 rounded-xl border border-gray-200 mb-8">
-                <h3 className="text-xl font-bold mb-6">The Anatomy of a Genuine Settlement Letter</h3>
+                <h4 className="text-xl font-bold mb-6">The Anatomy of a Genuine Settlement Letter</h4>
                 <ul className="grid md:grid-cols-2 gap-4 text-sm font-medium">
                   <li className="flex items-center gap-2">
                     <span className="w-2 h-2 bg-[#1F5EFF] rounded-full"></span>
@@ -328,9 +328,9 @@ export default function GenuineSettlementOfferPage() {
             </section>
 
             <section id="common-red-flags" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
                 Red Flag 1: The Upfront Payment Trap
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 This is the single most common sign of a scam. A caller or an agent will tell you that the bank has approved your settlement for a very low amount, say 20% of the principal. However, to "activate" this offer or to "process the digital file," you need to pay a small fee of 2,000 or 5,000 rupees. They might call it a GST charge, a processing fee, or a legal documentation fee.
               </p>
@@ -341,7 +341,7 @@ export default function GenuineSettlementOfferPage() {
                 All legitimate costs associated with a settlement are calculated within the final settlement amount itself. If the bank agrees to settle for 1 lakh, you pay 1 lakh. You do not pay 2,000 now and 98,000 later. The moment someone asks for a separate, upfront payment to "book" the offer, hang up. They are simply trying to steal a small amount from as many people as possible.
               </p>
               <div className="bg-red-50 p-8 rounded-xl border border-red-200 mb-8">
-                <h3 className="text-xl font-bold mb-4 text-red-900">Why Scammers Use Small Amounts</h3>
+                <h4 className="text-xl font-bold mb-4 text-red-900">Why Scammers Use Small Amounts</h4>
                 <p className="text-sm text-red-800 leading-relaxed">
                   Scammers often ask for amounts between 500 and 5,000 rupees because they know most people won't go to the police for such a small loss. They also know that people in financial distress are more likely to take a risk on a small amount if it promises to solve a much larger problem. This is a volume game for them. If they trick 100 people a day, they make a significant profit with very little risk.
                 </p>
@@ -349,19 +349,19 @@ export default function GenuineSettlementOfferPage() {
             </section>
 
             <section id="payment-channel-fraud" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Red Flag 2: Unauthorized Payment Channels</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Red Flag 2: Unauthorized Payment Channels</h3>
               <p className="mb-6">
                 When you make a payment for a loan settlement, it should always go directly to the lender. In the digital age, this means paying via the official bank app, the bank's website portal, or through a designated account name that matches the bank's name (e.g., "HDFC Bank Loan Account").
               </p>
               <div className="grid md:grid-cols-2 gap-6 mb-8">
                 <div className="bg-orange-50/50 p-6 rounded-xl border border-orange-100">
-                  <h3 className="text-xl font-bold text-orange-800 mb-3">The UPI Scam</h3>
+                  <h4 className="text-xl font-bold text-orange-800 mb-3">The UPI Scam</h4>
                   <p className="text-sm text-orange-900/80 leading-relaxed">
                     Scammers will often send you a QR code or a VPA (Virtual Payment Address) that looks official but is actually linked to a private individual's account. They might use names like "SBI-Recovery-Team" or "ICICI-Settlement-Official." Remember, a bank will never use a private UPI ID for a settlement. Always verify the receiver's name in the UPI app before confirming.
                   </p>
                 </div>
                 <div className="bg-blue-50/50 p-6 rounded-xl border border-blue-100">
-                  <h3 className="text-xl font-bold text-blue-800 mb-3">The Third-Party Agent Scam</h3>
+                  <h4 className="text-xl font-bold text-blue-800 mb-3">The Third-Party Agent Scam</h4>
                   <p className="text-sm text-blue-900/80 leading-relaxed">
                     An agent might tell you to pay the amount into their personal account, and they will "settle it with the bank" on your behalf. They might even show you fake authorization letters. Never do this. Once the money is in their account, you have no legal proof that it was intended for the bank.
                   </p>
@@ -373,7 +373,7 @@ export default function GenuineSettlementOfferPage() {
             </section>
 
             <section id="verification-steps" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">5 Mandatory Steps to Verify Any Digital Offer</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">5 Mandatory Steps to Verify Any Digital Offer</h3>
               <p className="mb-6">
                 Do not take an offer at face value, no matter how professional the email looks or how polite the caller is. Follow these five steps to ensure your safety.
               </p>
@@ -412,12 +412,12 @@ export default function GenuineSettlementOfferPage() {
             </section>
 
             <section id="rbi-guidelines" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">The Role of RBI Guidelines & Your Legal Protection</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">The Role of RBI Guidelines & Your Legal Protection</h3>
               <p className="mb-6">
                 The Reserve Bank of India has clear directives on how banks must handle settlements and recovery. The "Fair Practice Code" mandates that all communications regarding loan accounts must be transparent and non-deceptive. If you discover a fraudulent offer, you are not alone; the law is on your side.
               </p>
               <div className="bg-blue-50 p-8 rounded-2xl border border-blue-100 mb-8">
-                <h3 className="text-xl font-bold text-blue-900 mb-4">The Banking Ombudsman: Your Shield</h3>
+                <h4 className="text-xl font-bold text-blue-900 mb-4">The Banking Ombudsman: Your Shield</h4>
                 <p className="mb-4 text-blue-800">
                   If you have been harassed by a fake agent or if your bank refuses to acknowledge a settlement you have already paid for (due to internal miscommunication), you can approach the Banking Ombudsman. This is a free, government-backed service that resolves disputes between banks and customers.
                 </p>
@@ -428,7 +428,7 @@ export default function GenuineSettlementOfferPage() {
             </section>
 
             <section id="professional-mediation" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Why Professional Mediation is Safer than Solo Negotiation</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Why Professional Mediation is Safer than Solo Negotiation</h3>
               <p className="mb-6">
                 When you try to negotiate a settlement on your own, you are often dealing with aggressive recovery departments whose goal is to maximize the bank's collection. They might not always give you the most accurate information, or they might pressure you into a high payment that you cannot sustain. This is where professional legal and mediation firms come in.
               </p>
@@ -438,7 +438,7 @@ export default function GenuineSettlementOfferPage() {
             </section>
 
             <section id="amalegal-role" className="scroll-mt-32 mb-12">
-              <h3 className="text-2xl font-bold text-[#1F5EFF] mb-4">Solving Complex Cases with <Link href="https://amalegalsolutions.com" target="_blank" rel="noopener noreferrer" className="text-[#1F5EFF] hover:underline">Ama Legal Solutions</Link></h3>
+              <h4 className="text-2xl font-bold text-[#1F5EFF] mb-4">Solving Complex Cases with <Link href="https://amalegalsolutions.com" target="_blank" rel="noopener noreferrer" className="text-[#1F5EFF] hover:underline">Ama Legal Solutions</Link></h4>
               <p className="mb-4">
                 For borrowers facing complex legal notices or those whose cases have moved to the Debt Recovery Tribunal (DRT), <Link href="https://amalegalsolutions.com" target="_blank" rel="noopener noreferrer" className="text-[#1F5EFF] hover:underline">**Ama Legal Solutions** (amalegalsolutions.com)</Link> provides high-end legal expertise. They specialize in high-ticket loan disputes and can verify even the most complex settlement structures. Their team of lawyers ensures that every document you sign is legally binding and that the bank's claims are verified against the actual ledger.
               </p>
@@ -448,7 +448,7 @@ export default function GenuineSettlementOfferPage() {
             </section>
 
             <section id="credsettle-benefits" className="scroll-mt-32 mb-12">
-              <h3 className="text-2xl font-bold text-[#1F5EFF] mb-4">Streamlined Resolution with CredSettle</h3>
+              <h4 className="text-2xl font-bold text-[#1F5EFF] mb-4">Streamlined Resolution with CredSettle</h4>
               <p className="mb-4">
                 If you are looking for a tech-enabled, transparent platform to manage your debt resolution, <strong>CredSettle</strong> (credsettle.com) is a leading choice. They act as a bridge between borrowers and lenders, using a structured process to find a "win-win" settlement. By using an established platform like CredSettle, you eliminate the risk of random digital scams because all interactions are handled through their verified portal.
               </p>
@@ -458,12 +458,12 @@ export default function GenuineSettlementOfferPage() {
             </section>
 
             <section id="settleloans-security" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">The SettleLoans Security Protocol: Your Final Protection</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">The SettleLoans Security Protocol: Your Final Protection</h3>
               <p className="mb-6">
                 At <strong>SettleLoans.in</strong>, we have built a reputation on trust and transparency. We understand the fear that comes with digital lending, which is why we have implemented a strict verification protocol for every client. When we handle your case, we take full responsibility for verifying the authenticity of the lender's communication.
               </p>
               <div className="bg-[#2E2E2E] text-white p-8 rounded-2xl mb-8">
-                <h3 className="text-2xl font-bold mb-4">Our Three-Way Verification Guarantee</h3>
+                <h4 className="text-2xl font-bold mb-4">Our Three-Way Verification Guarantee</h4>
                 <p className="mb-4 opacity-80">
                   When a settlement offer is received through our mediation, we don't just hand it to the client. We perform a three-step check that eliminates any possibility of fraud:
                 </p>
@@ -479,12 +479,12 @@ export default function GenuineSettlementOfferPage() {
             </section>
 
             <section id="psychological-impact" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Psychological Defense: Don't Let Fear Drive Your Decisions</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Psychological Defense: Don't Let Fear Drive Your Decisions</h3>
               <p className="mb-6 text-lg">
                 Scammers succeed because they hack into your emotions. They use the fear of jail, the fear of family shaming, and the fear of a permanent CIBIL blackmark to rush you. When you are scared, common sense often takes a backseat. This is not a sign of weakness; it's a basic human reaction.
               </p>
               <div className="bg-emerald-50 p-8 rounded-2xl border border-emerald-100 mb-8">
-                <h3 className="text-xl font-bold text-emerald-800 mb-4">The "24-Hour Wait" Rule</h3>
+                <h4 className="text-xl font-bold text-emerald-800 mb-4">The "24-Hour Wait" Rule</h4>
                 <p className="mb-4 text-emerald-900/80">
                   Whenever you receive a digital offer that claims to be "urgent," force yourself to wait for 24 hours before taking ANY action. Tell the caller, "I need to discuss this with my financial advisor." A genuine bank will have no problem with you taking a day to verify. A scammer will get aggressive and try to keep you on the phone. This reaction itself is your best diagnostic tool.
                 </p>
@@ -492,7 +492,7 @@ export default function GenuineSettlementOfferPage() {
             </section>
 
             <section id="success-stories" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 text-center">Real Stories of Saved Wealth</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 text-center">Real Stories of Saved Wealth</h3>
               <div className="grid md:grid-cols-2 gap-6 not-prose">
                 {[
                   {
@@ -530,7 +530,7 @@ export default function GenuineSettlementOfferPage() {
                         {review.name.charAt(0)}
                       </div>
                       <div>
-                        <h3 className="font-bold text-[#2E2E2E]">{review.name}</h3>
+                        <h4 className="font-bold text-[#2E2E2E]">{review.name}</h4>
                         <p className="text-xs text-gray-400">{review.loc}</p>
                       </div>
                       <div className="ml-auto text-yellow-400 text-sm">★★★★★</div>
@@ -545,31 +545,31 @@ export default function GenuineSettlementOfferPage() {
             </section>
 
             <section id="path-forward" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Your Path Forward: Actionable Steps</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Your Path Forward: Actionable Steps</h3>
               <p className="mb-6 text-lg">
                 If you have a settlement offer on your screen right now, here is what you must do in the next 60 minutes:
               </p>
               <div className="grid sm:grid-cols-2 gap-8 my-10">
                 <div>
-                  <h3 className="text-xl font-bold mb-4 text-[#1F5EFF]">1. Pause and Breathe</h3>
+                  <h4 className="text-xl font-bold mb-4 text-[#1F5EFF]">1. Pause and Breathe</h4>
                   <p className="text-sm text-gray-600 leading-relaxed">
                     Distance yourself from the urgency. A genuine settlement doesn't expire in 60 minutes. Give yourself the mental space to think clearly.
                   </p>
                 </div>
                 <div>
-                  <h3 className="text-xl font-bold mb-4 text-[#1F5EFF]">2. Collect All Data</h3>
+                  <h4 className="text-xl font-bold mb-4 text-[#1F5EFF]">2. Collect All Data</h4>
                   <p className="text-sm text-gray-600 leading-relaxed">
                     Save the email, screenshot the WhatsApp chat, and note down the phone number. Do not delete anything; this is your evidence trail.
                   </p>
                 </div>
                 <div>
-                  <h3 className="text-xl font-bold mb-4 text-[#1F5EFF]">3. Use Official Tools</h3>
+                  <h4 className="text-xl font-bold mb-4 text-[#1F5EFF]">3. Use Official Tools</h4>
                   <p className="text-sm text-gray-600 leading-relaxed">
                     Check the bank's official portal. Most major Indian banks now have a "Settlement Status" or "Account Summary" section in their net banking.
                   </p>
                 </div>
                 <div>
-                  <h3 className="text-xl font-bold mb-4 text-[#1F5EFF]">4. Reach Out for Help</h3>
+                  <h4 className="text-xl font-bold mb-4 text-[#1F5EFF]">4. Reach Out for Help</h4>
                   <p className="text-sm text-gray-600 leading-relaxed">
                     If you are unsure, send the document to a professional mediation firm like SettleLoans. We can verify it for you in a matter of hours.
                   </p>
@@ -581,7 +581,7 @@ export default function GenuineSettlementOfferPage() {
             </section>
 
             <section id="faqs" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Frequently Asked Questions</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Frequently Asked Questions</h3>
               <div className="space-y-4 not-prose">
                 {[
                   { q: "Can a bank offer a settlement on an active, regular loan?", a: "Generally, no. Settlements are offered when a loan has become an NPA (Non Performing Asset) or has being in default for several months. If you are paying EMIs regularly and suddenly get a settlement offer, it is almost certainly a scam." },
@@ -618,7 +618,7 @@ export default function GenuineSettlementOfferPage() {
             <div className="lg:hidden mt-16 mb-8">
               <div className="bg-[#2E2E2E] rounded-2xl shadow-xl overflow-hidden border border-[#1F5EFF]/20">
                 <div className="bg-[#1F5EFF] p-6 text-center text-white">
-                  <h3 className="text-2xl font-black mb-2">Worried About a Scam?</h3>
+                  <h4 className="text-2xl font-black mb-2">Worried About a Scam?</h4>
                   <p className="opacity-90 text-sm">Let our experts verify your settlement offer for peace of mind.</p>
                 </div>
                 <div className="p-8 text-center text-[#DEDEDE]">

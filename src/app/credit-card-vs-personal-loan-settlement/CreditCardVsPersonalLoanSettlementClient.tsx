@@ -137,7 +137,7 @@ export default function CreditCardVsPersonalLoanSettlementClient() {
       question: "Why do credit cards offer higher settlement discounts than personal loans?",
       answer: (
         <p>
-          Credit cards offer larger discounts because after 90 to 180 days of default, banks classify revolving card debt as charged-off loss assets with 100% provisioning. Furthermore, 40% to 60% of accumulated credit card balances often represent accrued finance charges and late fees rather than original disbursed capital, giving bank credit card recovery divisions broader discretionary waiver authority.
+          Credit cards offer larger discounts because after 90 to 180 days of default, banks classify revolving card debt as charged-off loss assets with 100% provisioning. also, 40% to 60% of accumulated credit card balances often represent accrued finance charges and late fees rather than original disbursed capital, giving bank credit card recovery divisions broader discretionary waiver authority.
         </p>
       )
     },
@@ -161,7 +161,7 @@ export default function CreditCardVsPersonalLoanSettlementClient() {
       question: "Can a bank file a Section 138 cheque bounce case for unpaid credit card bills?",
       answer: (
         <p>
-          Generally no, unless you physically issued a security cheque that subsequently bounced upon presentation. Credit card accounts operate through electronic cardholder agreements rather than post-dated cheques. However, personal loans mandate automated NACH e-mandates, which routinely trigger Section 25 of the Payment and Settlement Systems Act or Section 138 proceedings upon default.
+          Generally no, unless you physically issued a security cheque that then bounced upon presentation. Credit card accounts operate through electronic cardholder agreements rather than post-dated cheques. However, personal loans mandate automated NACH e-mandates, which routinely trigger Section 25 of the Payment and Settlement Systems Act or Section 138 cases upon default.
         </p>
       )
     },
@@ -169,7 +169,7 @@ export default function CreditCardVsPersonalLoanSettlementClient() {
       question: "How does credit card settlement impact my CIBIL score compared to loan settlement?",
       answer: (
         <p>
-          Both credit card and personal loan settlements result in a &quot;Settled&quot; or &quot;Post (WO) Settled&quot; remark on your credit bureau report and an immediate score drop of 75 to 150 points. However, settling credit cards terminates high revolving credit utilization (CUR) reporting, which actually speeds up bureau recovery once a secured credit rebuilding protocol is initiated.
+          Both credit card and personal loan settlements result in a &quot;Settled&quot; or &quot;Post (WO) Settled&quot; remark on your credit bureau report and an immediate score drop of 75 to 150 points. However, settling credit cards ends high revolving credit use (CUR) reporting, which actually speeds up bureau recovery once a secured credit rebuilding protocol is started.
         </p>
       )
     },
@@ -185,7 +185,7 @@ export default function CreditCardVsPersonalLoanSettlementClient() {
       question: "What documents are required to prove financial hardship for card and loan settlements?",
       answer: (
         <p>
-          To establish financial distress under RBI guidelines, compile objective documentation. Provide bank statements showing income loss, job termination letters, medical records, or business closure filings (GST cancellation/ITR returns).
+          To establish financial distress under RBI guidelines, compile objective records. Provide bank statements showing income loss, job termination letters, medical records, or business closure filings (GST cancellation/ITR returns).
         </p>
       )
     },
@@ -355,7 +355,7 @@ export default function CreditCardVsPersonalLoanSettlementClient() {
                 1. Revolving Credit Cards vs Fixed Personal Loans
               </h2>
               <p className="text-base leading-relaxed mb-4 text-slate-700">
-                Borrowers facing acute liquidity stress in India often carry a toxic combination of unsecured credit cards and personal loans across multiple commercial banks. Understanding the fundamental architectural differences between revolving credit card lines and amortized personal loans is essential for determining your negotiation leverage, projected settlement haircuts, and debt settlement priority.
+                Borrowers facing acute liquidity stress in India often carry a toxic combination of unsecured credit cards and personal loans across multiple commercial banks. Understanding the fundamental architectural differences between revolving credit card lines and amortized personal loans is essential for determining your talks leverage, projected settlement haircuts, and debt settlement priority.
               </p>
               <p className="text-base leading-relaxed mb-6 text-slate-700">
                 A personal loan is a closed-end contractual credit facility. The bank disburses capital directly into your savings account. The loan is amortized over 12 to 60 months with EMIs calculated on a reducing balance basis at interest rates between 11% and 24% per annum. Conversely, a credit card is an open-end revolving credit line. Cardholders borrow against an assigned limit. If the balance is unpaid within the grace period, finance charges compound at 42% to 48% APR, along with 18% GST on interest and late fees.
@@ -423,27 +423,27 @@ export default function CreditCardVsPersonalLoanSettlementClient() {
 
             {/* Section 2: Banking Accounting & NPA Provisioning */}
             <section id="bank-accounting-provisioning" className="scroll-mt-28 mb-12">
-              <h2 className="text-2xl md:text-3xl font-black text-slate-900 mb-5 leading-tight">
+              <h3 className="text-2xl md:text-3xl font-black text-slate-900 mb-5 leading-tight">
                 2. Banking Accounting &amp; Provisioning: How Lenders Treat Default
-              </h2>
+              </h3>
               <p className="text-base leading-relaxed mb-4 text-slate-700">
                 Under the RBI Master Circular on IRACP norms, commercial banks and NBFCs follow strict rules for delinquent accounts. Asset classifications dictate when provisioning reserves must be set aside. When payments are missed, debts progress through Special Mention Account stages. These buckets are SMA-0 (1 to 30 days), SMA-1 (31 to 60 days), and SMA-2 (61 to 90 days overdue). At 90 days past due (DPD), the account is formally classified as a Non-Performing Asset (NPA).
               </p>
               <p className="text-base leading-relaxed mb-4 text-slate-700">
-                However, internal banking accounting diverges sharply once an account crosses the 90-day NPA threshold. Credit cards are revolving instruments with zero collateral and low litigation yields. Consequently, major banks like HDFC, ICICI, SBI, Axis, and Kotak subject delinquent cards to aggressive charge-off schedules. By 120 to 180 days of default, credit card balances are categorized as loss assets and 100% provisioned on the bank balance sheet.
+                However, internal banking accounting diverges sharply once an account crosses the 90-day NPA threshold. Credit cards are revolving instruments with zero collateral and low litigation yields. so, major banks like HDFC, ICICI, SBI, Axis, and Kotak subject delinquent cards to aggressive charge-off schedules. By 120 to 180 days of default, credit card balances are categorized as loss assets and 100% provisioned on the bank balance sheet.
               </p>
               <p className="text-base leading-relaxed mb-6 text-slate-700">
-                Once an asset is 100% provisioned, any recovery achieved through a One-Time Settlement (OTS) is booked directly as clean, immediate non-interest profit. Consequently, bank credit card recovery managers have extensive decentralized mandate powers to authorize deep settlement haircuts without requiring board-level sign-offs. Personal loans, conversely, undergo standard provisioning of 15% to 25% during the sub-standard phase, and retail credit committees enforce stricter floor recovery thresholds to safeguard disbursed principal capital.
+                Once an asset is 100% provisioned, any recovery achieved through a One-Time Settlement (OTS) is booked directly as clean, immediate non-interest profit. so, bank credit card recovery managers have extensive decentralized mandate powers to authorize deep settlement haircuts without requiring board-level sign-offs. Personal loans, conversely, undergo standard provisioning of 15% to 25% during the sub-standard phase, and retail credit committees enforce stricter floor recovery thresholds to safeguard disbursed principal capital.
               </p>
             </section>
 
             {/* Section 3: Haircut Depth Comparison */}
             <section id="settlement-haircuts-discount-depth" className="scroll-mt-28 mb-12">
-              <h2 className="text-2xl md:text-3xl font-black text-slate-900 mb-5 leading-tight">
+              <h3 className="text-2xl md:text-3xl font-black text-slate-900 mb-5 leading-tight">
                 3. Haircut Depth: Credit Cards (50-75%) vs Loans (35-60%)
-              </h2>
+              </h3>
               <p className="text-base leading-relaxed mb-4 text-slate-700">
-                The most critical mathematical reality in Indian debt resolution is that credit card settlements consistently yield substantially larger percentage haircuts than personal loan settlements. This discrepancy is not arbitrary; it is rooted directly in balance composition and bank recovery economics.
+                The most critical mathematical reality in Indian debt resolution is that credit card settlements consistently yield greatly larger percentage haircuts than personal loan settlements. This discrepancy is not arbitrary; it is rooted directly in balance composition and bank recovery economics.
               </p>
               <p className="text-base leading-relaxed mb-6 text-slate-700">
                 Defaulting on a ₹3,00,000 credit card limit for 6 to 9 months causes balances to balloon to ₹5,20,000. This increase is driven by 48% APR compounding, monthly late fees, over-limit penalties, and 18% GST. The bank recognizes that ₹2,20,000 of the outstanding total represents artificial accounting interest. When SettleLoans advocates present formal hardship representation, the bank readily waives the entire ₹2,20,000 penalty component, plus an additional 30% to 50% discount on the original ₹3,00,000 principal. This results in an effective 65% to 75% overall haircut from gross statement dues.
@@ -451,9 +451,9 @@ export default function CreditCardVsPersonalLoanSettlementClient() {
 
               {/* 4-Sided Bordered Comparison Table */}
               <div className="my-8">
-                <h3 className="text-lg md:text-xl font-bold text-slate-900 mb-3">
+                <h4 className="text-lg md:text-xl font-bold text-slate-900 mb-3">
                   Financial Settlement Simulation: ₹5,00,000 Default Balance Comparison
-                </h3>
+                </h4>
                 <div className="overflow-x-auto">
                   <table>
                     <thead>
@@ -512,17 +512,17 @@ export default function CreditCardVsPersonalLoanSettlementClient() {
 
             {/* Section 4: Legal Exposure & Recovery Agency Tactics */}
             <section id="legal-exposure-recovery-tactics" className="scroll-mt-28 mb-12">
-              <h2 className="text-2xl md:text-3xl font-black text-slate-900 mb-5 leading-tight">
+              <h3 className="text-2xl md:text-3xl font-black text-slate-900 mb-5 leading-tight">
                 4. Legal Exposure: Section 138 vs Civil Debt Recovery
-              </h2>
+              </h3>
               <p className="text-base leading-relaxed mb-4 text-slate-700">
-                When borrowers default simultaneously on credit cards and personal loans, recovery dynamics and legal exposure differ substantially. Personal loans carry structured statutory enforcement mechanisms because banks mandate pre-authorized National Automated Clearing House (NACH) e-mandates or physical post-dated cheques prior to loan disbursal.
+                When borrowers default simultaneously on credit cards and personal loans, recovery dynamics and legal exposure differ greatly. Personal loans carry structured statutory enforcement mechanisms because banks mandate pre-authorized National Automated Clearing House (NACH) e-mandates or physical post-dated cheques before loan disbursal.
               </p>
               <p className="text-base leading-relaxed mb-4 text-slate-700">
-                When an EMI bounces, lenders can initiate quasi-criminal proceedings. These actions are filed under Section 25 of the PSSA, 2007 or Section 138 of the Negotiable Instruments Act, 1881. The bank issues a mandatory 30-day statutory demand notice through legal counsel, followed by filing a formal complaint before a Judicial Magistrate. If ignored, the court may issue bailable summons.
+                When an EMI bounces, lenders can start quasi-criminal cases. These actions are filed under Section 25 of the PSSA, 2007 or Section 138 of the Negotiable Instruments Act, 1881. The bank issues a mandatory 30-day statutory demand notice through legal counsel, followed by filing a formal complaint before a Judicial Magistrate. If ignored, the court may issue bailable summons.
               </p>
               <p className="text-base leading-relaxed mb-6 text-slate-700">
-                In contrast, credit card accounts rarely involve pre-signed cheques or NACH mandates. A default on a credit card constitutes a civil breach of contract rather than a criminal offence. Lenders cannot file Section 138 or Section 25 PSS Act complaints for card defaults unless you issued a physical cheque that subsequently dishonoured. Instead, credit card recovery divisions rely heavily on external collection agencies, pre-litigation Lok Adalat notices, or unilateral arbitration proceedings. Knowing these statutory distinctions is vital for protecting your legal rights under the RBI Fair Practices Code.
+                In contrast, credit card accounts rarely involve pre-signed cheques or NACH mandates. A default on a credit card constitutes a civil breach of contract rather than a criminal offence. Lenders cannot file Section 138 or Section 25 PSS Act complaints for card defaults unless you issued a physical cheque that then dishonoured. Instead, credit card recovery divisions rely heavily on external collection agencies, pre-litigation Lok Adalat notices, or unilateral arbitration cases. Knowing these statutory distinctions is vital for protecting your legal rights under the RBI Fair Practices Code.
               </p>
             </section>
 
@@ -537,9 +537,9 @@ export default function CreditCardVsPersonalLoanSettlementClient() {
                     <span className="text-[10px] font-black uppercase tracking-widest text-blue-300 block">
                       Legal Defense &amp; Action Blueprint
                     </span>
-                    <h3 className="text-sm md:text-base font-black text-white leading-tight">
+                    <h4 className="text-sm md:text-base font-black text-white leading-tight">
                       Credit Card vs Personal Loan Settlement Matrix
-                    </h3>
+                    </h4>
                   </div>
                 </div>
                 <a
@@ -581,9 +581,9 @@ export default function CreditCardVsPersonalLoanSettlementClient() {
 
             {/* Section 5: Strategic Debt Triage Playbook */}
             <section id="strategic-debt-triage-priority" className="scroll-mt-28 mb-12">
-              <h2 className="text-2xl md:text-3xl font-black text-slate-900 mb-5 leading-tight">
+              <h3 className="text-2xl md:text-3xl font-black text-slate-900 mb-5 leading-tight">
                 5. Strategic Debt Triage: Which Debt to Settle First?
-              </h2>
+              </h3>
               <p className="text-base leading-relaxed mb-4 text-slate-700">
                 Borrowers with limited cash reserves must avoid deploying funds without a structured plan. Distributing small partial payments across multiple lenders without formal agreements leads to rapid fund depletion without closing accounts. Paying a small amount to every bank satisfies no creditor and leaves you exposed to both legal summons and aggressive collection harassment.
               </p>
@@ -594,32 +594,32 @@ export default function CreditCardVsPersonalLoanSettlementClient() {
               {/* Triage Diagnostic Breakdown */}
               <div className="space-y-4 my-6">
                 <div className="p-5 rounded-2xl bg-rose-50/80 border border-rose-200">
-                  <h3 className="font-bold text-rose-900 text-base mb-1.5 flex items-center gap-2">
+                  <h4 className="font-bold text-rose-900 text-base mb-1.5 flex items-center gap-2">
                     <ShieldAlert className="w-4 h-4 text-rose-600" />
                     <span>Priority 1: Active Statutory Legal Exposure (Personal Loans with Sec 138/25 Notices)</span>
-                  </h3>
+                  </h4>
                   <p className="text-xs text-rose-950 leading-relaxed">
-                    If an NBFC or bank has issued a formal advocate notice under Section 138 of the Negotiable Instruments Act or Section 25 of the PSS Act, this debt must be addressed first. SettleLoans advocates engage the lender recovery division immediately to negotiate a compromise OTS and secure an official withdrawal of court proceedings upon settlement execution.
+                    If an NBFC or bank has issued a formal advocate notice under Section 138 of the Negotiable Instruments Act or Section 25 of the PSS Act, this debt must be addressed first. SettleLoans advocates engage the lender recovery division immediately to negotiate a compromise OTS and secure an official withdrawal of court cases upon settlement execution.
                   </p>
                 </div>
 
                 <div className="p-5 rounded-2xl bg-emerald-50/80 border border-emerald-200">
-                  <h4 className="font-bold text-emerald-900 text-base mb-1.5 flex items-center gap-2">
+                  <h5 className="font-bold text-emerald-900 text-base mb-1.5 flex items-center gap-2">
                     <TrendingUp className="w-4 h-4 text-emerald-600" />
                     <span>Priority 2: Deepest Discount Leverage (Charged-Off Credit Cards at 65%–75% Haircut)</span>
-                  </h4>
+                  </h5>
                   <p className="text-xs text-emerald-950 leading-relaxed">
                     Once criminal litigation exposure is neutralized, allocate liquid cash to settled credit cards. Because credit card divisions offer deep 65%–75% discounts on charged-off accounts, a ₹4,00,000 credit card debt can frequently be extinguished for ₹1,20,000 to ₹1,40,000, immediately eliminating high-velocity interest compounding.
                   </p>
                 </div>
 
                 <div className="p-5 rounded-2xl bg-blue-50/80 border border-blue-200">
-                  <h4 className="font-bold text-blue-900 text-base mb-1.5 flex items-center gap-2">
+                  <h5 className="font-bold text-blue-900 text-base mb-1.5 flex items-center gap-2">
                     <Layers className="w-4 h-4 text-blue-600" />
                     <span>Priority 3: Secondary Unsecured Loans &amp; Fintech Digital Credit Lines</span>
-                  </h4>
+                  </h5>
                   <p className="text-xs text-blue-950 leading-relaxed">
-                    Remaining personal loans and digital app lines are placed under formal legal representation under the RBI Fair Practices Code. Advocates maintain communication with lenders, stall coercive collection, and negotiate staggered multi-month OTS terms as new cash reserves accumulate.
+                    Remaining personal loans and digital app lines are placed under formal legal representation under the RBI Fair Practices Code. Advocates maintain notice with lenders, stall coercive collection, and negotiate staggered multi-month OTS terms as new cash reserves accumulate.
                   </p>
                 </div>
               </div>
@@ -627,9 +627,9 @@ export default function CreditCardVsPersonalLoanSettlementClient() {
 
             {/* Section 6: NPV & Bank Settlement Accounting Math */}
             <section id="npv-decision-modeling" className="scroll-mt-28 mb-12">
-              <h2 className="text-2xl md:text-3xl font-black text-slate-900 mb-5 leading-tight">
+              <h3 className="text-2xl md:text-3xl font-black text-slate-900 mb-5 leading-tight">
                 6. NPV & Risk Modeling in Bank Settlement Committees
-              </h2>
+              </h3>
               <p className="text-base leading-relaxed mb-4 text-slate-700">
                 To negotiate effectively, borrowers must understand how bank recovery committees evaluate settlement proposals. Lenders do not settle based on emotional appeals. Instead, they use Net Present Value (NPV) modeling to determine if an immediate cash offer yields a higher return than protracted court litigation.
               </p>
@@ -655,29 +655,29 @@ export default function CreditCardVsPersonalLoanSettlementClient() {
               </p>
             </section>
 
-            {/* Section 7: CIBIL Bureau & Credit Rehabilitation */}
+            {/* Section 7: CIBIL Bureau & Credit recovery */}
             <section id="cibil-credit-bureau-recovery" className="scroll-mt-28 mb-12">
-              <h2 className="text-2xl md:text-3xl font-black text-slate-900 mb-5 leading-tight">
+              <h3 className="text-2xl md:text-3xl font-black text-slate-900 mb-5 leading-tight">
                 7. Credit Bureau Reporting & CIBIL Score Trajectory
-              </h2>
+              </h3>
               <p className="text-base leading-relaxed mb-4 text-slate-700">
                 Both credit card and personal loan settlements result in a &quot;Settled&quot; or &quot;Post (WO) Settled&quot; status being transmitted to all four RBI-licensed credit information companies in India: TransUnion CIBIL, Experian, Equifax, and CRIF High Mark. While both settlements cause an immediate CIBIL score drop of 75 to 150 points, their structural impact on your ongoing credit profile differs.
               </p>
               <p className="text-base leading-relaxed mb-4 text-slate-700">
-                When a delinquent credit card is settled, the card account is permanently closed, and the high Credit Utilization Ratio (CUR)—which was previously reported at 120% to 150% of the limit—is eliminated. Removing maxed-out revolving credit balances immediately stops ongoing bureau score erosion. For personal loans, the account is marked with a ₹0 current balance and a closed date, terminating delinquent DPD counters.
+                When a delinquent credit card is settled, the card account is permanently closed, and the high Credit use Ratio (CUR)—which was previously reported at 120% to 150% of the limit—is eliminated. Removing maxed-out revolving credit balances immediately stops ongoing bureau score erosion. For personal loans, the account is marked with a ₹0 current balance and a closed date, ending delinquent DPD counters.
               </p>
               <p className="text-base leading-relaxed mb-6 text-slate-700">
-                Rebuilding your credit profile after settling dual debts requires a structured 24-month protocol. Within 30 to 45 days post-settlement, ensure all lenders issue verified No Dues Certificates. Next, open a fixed-deposit-backed secured credit card (such as an FD card with 90% credit limit) and maintain a strict utilization ratio below 25%, paying all statements in full on time. By following this protocol, borrowers consistently rebuild their CIBIL score back above 750 within 18 to 24 months.
+                Rebuilding your credit profile after settling dual debts requires a structured 24-month protocol. Within 30 to 45 days post-settlement, ensure all lenders issue verified No Dues Certificates. Next, open a fixed-deposit-backed secured credit card (such as an FD card with 90% credit limit) and maintain a strict use ratio below 25%, paying all statements in full on time. By following this protocol, borrowers consistently rebuild their CIBIL score back above 750 within 18 to 24 months.
               </p>
             </section>
 
             {/* Section 8: Step-by-Step Multi-Debt Action Protocol */}
             <section id="step-by-step-multi-debt-protocol" className="scroll-mt-28 mb-12">
-              <h2 className="text-2xl md:text-3xl font-black text-slate-900 mb-5 leading-tight">
-                8. Step-by-Step Multi-Debt Settlement Negotiation Protocol
-              </h2>
+              <h3 className="text-2xl md:text-3xl font-black text-slate-900 mb-5 leading-tight">
+                8. Step-by-Step Multi-Debt Settlement talks Protocol
+              </h3>
               <p className="text-base leading-relaxed mb-4 text-slate-700">
-                Successfully resolving a multi-lender portfolio requires disciplined execution across five systematic phases to ensure complete legal compliance and authentic bank documentation:
+                Successfully resolving a multi-lender portfolio requires disciplined execution across five systematic phases to ensure complete legal compliance and authentic bank records:
               </p>
 
               <div className="space-y-4 my-6">
@@ -704,10 +704,10 @@ export default function CreditCardVsPersonalLoanSettlementClient() {
                 <div className="p-5 rounded-2xl bg-slate-50 border border-slate-200">
                   <div className="flex items-center gap-2 font-bold text-slate-900 text-base mb-1.5">
                     <span className="w-6 h-6 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center text-xs font-black">3</span>
-                    <span>Execute Dual-Track Negotiations with Card &amp; Retail Committees</span>
+                    <span>Execute Dual-Track talks with Card &amp; Retail Committees</span>
                   </div>
                   <p className="text-xs text-slate-600 leading-relaxed">
-                    Advocates run simultaneous negotiations. Credit card charge-offs are negotiated for 60%–75% discounts with fast-track card units, while personal loan files are presented to zonal retail credit committees for 40%–60% principal haircuts.
+                    Advocates run simultaneous talks. Credit card charge-offs are negotiated for 60%–75% discounts with fast-track card units, while personal loan files are presented to zonal retail credit committees for 40%–60% principal haircuts.
                   </p>
                 </div>
 
@@ -735,14 +735,14 @@ export default function CreditCardVsPersonalLoanSettlementClient() {
 
             {/* Section 9: SettleLoans Legal Defense & Representation */}
             <section id="settleloans-defense-framework" className="scroll-mt-28 mb-12">
-              <h2 className="text-2xl md:text-3xl font-black text-slate-900 mb-5 leading-tight">
+              <h3 className="text-2xl md:text-3xl font-black text-slate-900 mb-5 leading-tight">
                 9. SettleLoans Multi-Lender Defense Framework &amp; Representation
-              </h2>
+              </h3>
               <p className="text-base leading-relaxed mb-4 text-slate-700">
-                Managing multi-lender debt negotiations independently while facing aggressive collection agents is intimidating and legally risky. SettleLoans provides a comprehensive institutional defense framework designed to protect your dignity, preserve your rights, and achieve maximum lawful debt reduction.
+                Managing multi-lender debt talks independently while facing aggressive collection agents is intimidating and legally risky. SettleLoans provides a comprehensive institutional defense framework designed to protect your dignity, preserve your rights, and achieve maximum lawful debt reduction.
               </p>
               <p className="text-base leading-relaxed mb-4 text-slate-700">
-                Our empaneled team of legal advocates represents borrowers across all major public banks, private financial institutions, and NBFCs in India. We handle all creditor communications and halt illegal collection harassment through statutory notices. Our legal team drafts responses to Section 138 and Section 25 PSSA notices, securing compromise agreements that eliminate up to 75% of outstanding debt.
+                Our empaneled team of legal advocates represents borrowers across all major public banks, private financial institutions, and NBFCs in India. We handle all creditor notices and halt illegal collection harassment through statutory notices. Our legal team drafts responses to Section 138 and Section 25 PSSA notices, securing compromise agreements that eliminate up to 75% of outstanding debt.
               </p>
               <p className="text-base leading-relaxed mb-6 text-slate-700">
                 With SettleLoans, every settlement is backed by verified bank sanction letters and official ₹0 No Dues Certificates, providing you with a clean financial slate and a roadmap to complete credit recovery.
@@ -759,9 +759,9 @@ export default function CreditCardVsPersonalLoanSettlementClient() {
                   <HelpCircle className="w-3.5 h-3.5" />
                   <span>Got Questions?</span>
                 </div>
-                <h3 className="text-2xl md:text-3xl font-black text-slate-900 leading-tight">
+                <h4 className="text-2xl md:text-3xl font-black text-slate-900 leading-tight">
                   Frequently Asked Questions: Credit Card vs Personal Loan Settlement
-                </h3>
+                </h4>
                 <p className="text-sm text-slate-600 mt-1">
                   Clear, authoritative answers to the most common legal, banking, and financial questions regarding multi-debt resolution.
                 </p>
@@ -782,10 +782,10 @@ export default function CreditCardVsPersonalLoanSettlementClient() {
 
             {/* Section 11: Official Regulatory Sources & Legal Citations */}
             <div className="my-10 p-6 bg-slate-50 border border-slate-200 rounded-2xl">
-              <h4 className="text-sm font-bold uppercase tracking-wider text-slate-900 mb-3 flex items-center gap-2">
+              <h5 className="text-sm font-bold uppercase tracking-wider text-slate-900 mb-3 flex items-center gap-2">
                 <Landmark className="w-4 h-4 text-[#1F5EFF]" />
                 <span>Statutory References &amp; Official Regulatory Sources</span>
-              </h4>
+              </h5>
               <ul className="text-xs text-slate-600 space-y-2">
                 <li className="flex items-start gap-2">
                   <ExternalLink className="w-3.5 h-3.5 text-slate-400 flex-shrink-0 mt-0.5" />
@@ -822,9 +822,9 @@ export default function CreditCardVsPersonalLoanSettlementClient() {
 
             {/* Section 12: Internal Topic Badges (10 Links) */}
             <div className="my-10 pt-6 border-t border-slate-200">
-              <h4 className="text-sm font-bold uppercase tracking-wider text-slate-900 mb-4">
+              <h5 className="text-sm font-bold uppercase tracking-wider text-slate-900 mb-4">
                 Related Debt Resolution &amp; Financial Planning Guides
-              </h4>
+              </h5>
               <div className="flex flex-wrap gap-2">
                 <Link
                   href="/loan-settlement-vs-debt-consolidation"
@@ -913,7 +913,7 @@ export default function CreditCardVsPersonalLoanSettlementClient() {
                 </div>
               </div>
               <p className="text-xs text-slate-600 leading-relaxed mb-3">
-                Specializing in bank compromise negotiations, multi-loan portfolio restructuring, RBI compliance, and CIBIL score forensic dispute resolution for borrowers across India.
+                Specializing in bank compromise talks, multi-loan portfolio restructuring, RBI compliance, and CIBIL score forensic dispute resolution for borrowers across India.
               </p>
               <div className="pt-2.5 border-t border-slate-100 flex items-center justify-between text-xs font-semibold">
                 <Link
@@ -937,7 +937,7 @@ export default function CreditCardVsPersonalLoanSettlementClient() {
             <div className="bg-gradient-to-br from-[#1F5EFF] to-blue-700 text-white rounded-2xl p-5 shadow-md">
               <div className="flex items-center gap-1.5 text-blue-100 text-[11px] font-bold uppercase tracking-wider mb-2">
                 <PhoneCall className="w-3.5 h-3.5" />
-                <span>Emergency Advocate Assistance</span>
+                <span>Emergency Advocate help</span>
               </div>
               <div className="text-lg font-black mb-2 leading-tight">
                 Overwhelmed by Credit Cards &amp; Loan EMIs?

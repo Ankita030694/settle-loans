@@ -146,7 +146,7 @@ const jsonLdGraph = {
       "@type": "FinancialService",
       "@id": "https://www.settleloans.in/job-loss-loan-settlement-process#service",
       "name": "SettleLoans - Unemployment & Hardship Loan Settlement Advisory",
-      "description": "Specialized legal and financial negotiation advisory for settling defaulted unsecured personal loans and credit cards caused by job loss, layoffs, or business failure under RBI compromise settlement frameworks.",
+      "description": "Specialized legal and financial talks advisory for settling defaulted unsecured personal loans and credit cards caused by job loss, layoffs, or business failure under RBI compromise settlement frameworks.",
       "url": "https://www.settleloans.in/job-loss-loan-settlement-process",
       "image": "https://www.settleloans.in/images/infographics/job-loss-loan-settlement-process.jpg",
       "telephone": "+91-99999-99999",
@@ -195,7 +195,7 @@ const jsonLdGraph = {
             "name": "Ananya Sengupta"
           },
           "datePublished": "2026-07-08",
-          "reviewBody": "My company downsized its marketing division in Gurgaon, leaving me unemployed with an ₹8 Lakh personal loan and over ₹2.4 Lakhs in credit card dues. When automated NACH debits bounced, the bank imposed thousands in return fees and threatened criminal cases under Section 25 PSSA. The legal team at SettleLoans revoked the electronic mandate sweeps, replied to the statutory notice demonstrating bona fide unemployment, and negotiated an authorized One-Time Settlement of ₹4.2 Lakhs for the entire debt portfolio. Truly life-saving legal support during the worst phase of my career.",
+          "reviewBody": "My company downsized its marketing division in Gurgaon, leaving me unemployed with an ₹8 Lakh personal loan and over ₹2.4 Lakhs in credit card dues. When automated NACH debits bounced, the bank imposed thousands in return fees and threatened criminal cases under Section 25 PSSA. The legal team at SettleLoans revoked the electronic mandate sweeps, replied to the statutory notice showing bona fide unemployment, and negotiated an authorized One-Time Settlement of ₹4.2 Lakhs for the entire debt portfolio. Truly life-saving legal support during the worst phase of my career.",
           "reviewRating": {
             "@type": "Rating",
             "ratingValue": "5",
@@ -210,7 +210,7 @@ const jsonLdGraph = {
             "name": "Karthik Subramanian"
           },
           "datePublished": "2026-05-14",
-          "reviewBody": "Facing unexpected termination in Hyderabad with 4 ongoing EMIs, I was overwhelmed by non-stop abusive calls from third-party recovery agents. SettleLoans educated me on my statutory rights under RBI Master Directions, took over all creditor communications, and presented our hardship dossier during the bank's NPA provisioning cycle. We achieved a 62% debt haircut on an unsecured loan of ₹11 Lakhs, settled across two convenient installments. Absolute legal professionalism.",
+          "reviewBody": "Facing unexpected termination in Hyderabad with 4 ongoing EMIs, I was overwhelmed by non-stop abusive calls from third-party recovery agents. SettleLoans educated me on my statutory rights under RBI Master Directions, took over all creditor notices, and presented our hardship dossier during the bank's NPA provisioning cycle. We achieved a 62% debt haircut on an unsecured loan of ₹11 Lakhs, settled across two convenient installments. Absolute legal professionalism.",
           "reviewRating": {
             "@type": "Rating",
             "ratingValue": "5",
@@ -244,7 +244,7 @@ const jsonLdGraph = {
           "name": "Is job loss considered a legally valid ground for loan settlement in India?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Yes. Under Reserve Bank of India (RBI) Master Directions on Compromise Settlements, involuntary unemployment, corporate layoffs, and sudden loss of earning capacity are explicitly recognized as genuine, non-wilful hardship grounds. When backed by verified documentation such as formal termination letters and zero-salary bank statements, credit committees are authorized to sanction deep compromise settlements with 50% to 70% debt haircuts."
+            "text": "Yes. Under Reserve Bank of India (RBI) Master Directions on Compromise Settlements, involuntary unemployment, corporate layoffs, and sudden loss of earning capacity are explicitly recognized as genuine, non-wilful hardship grounds. When backed by verified records such as formal termination letters and zero-salary bank statements, credit committees are authorized to sanction deep compromise settlements with 50% to 70% debt haircuts."
           }
         },
         {
@@ -252,12 +252,12 @@ const jsonLdGraph = {
           "name": "What documents are required to compile an unassailable hardship portfolio after job loss?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "A robust financial hardship portfolio must contain: (1) Official corporate termination or layoff letter stating the release date; (2) Final severance calculation and full & final settlement (FnF) statement; (3) Last 6 to 12 months of bank account statements establishing the complete cessation of regular salary credits; (4) Proof of PF advance withdrawals or medical expenditures incurred during unemployment; and (5) Income Tax Returns (ITR) demonstrating the sharp decline in annual taxable income."
+            "text": "A robust financial hardship portfolio must contain: (1) Official corporate termination or layoff letter stating the release date; (2) Final severance calculation and full & final settlement (FnF) statement; (3) Last 6 to 12 months of bank account statements establishing the complete cessation of regular salary credits; (4) Proof of PF advance withdrawals or medical expenditures incurred during unemployment; and (5) Income Tax Returns (ITR) showing the sharp decline in annual taxable income."
           }
         },
         {
           "@type": "Question",
-          "name": "Can a bank initiate criminal proceedings or arrest me if I default on loans due to job loss?",
+          "name": "Can a bank start criminal cases or arrest me if I default on loans due to job loss?",
           "acceptedAnswer": {
             "@type": "Answer",
             "text": "No. Involuntary loan default arising from genuine financial insolvency is strictly a civil dispute governed by the Indian Contract Act, 1872. Police authorities have zero legal jurisdiction to register an FIR, summon you, or make an arrest for unpaid unsecured personal loans. While lenders may issue statutory notices under Section 138 of the Negotiable Instruments Act or Section 25 of the PSSA for dishonoured cheques or NACH mandates, these are compoundable quasi-criminal matters that are routinely resolved through advocate representation and compromise OTS."
@@ -276,7 +276,7 @@ const jsonLdGraph = {
           "name": "How can you stop repeated NACH bounce fees when there is no salary credit in your bank account?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Repeated electronic NACH mandate sweeps can trigger hundreds of rupees in debit return fees from both the lending bank and destination bank. Borrowers can stop this financial drain by: (1) Submitting a written mandate revocation request to their destination bank under NPCI procedural guidelines; (2) Serving a formal hardship notification to the lending institution requesting an immediate freeze on automated electronic clearing; and (3) Demanding complete waiver of all bounce charges during OTS negotiations under RBI Fair Lending Practices."
+            "text": "Repeated electronic NACH mandate sweeps can trigger hundreds of rupees in debit return fees from both the lending bank and destination bank. Borrowers can stop this financial drain by: (1) Submitting a written mandate revocation request to their destination bank under NPCI procedural guidelines; (2) Serving a formal hardship notice to the lending institution requesting an immediate freeze on automated electronic clearing; and (3) Demanding complete waiver of all bounce charges during OTS talks under RBI Fair Lending Practices."
           }
         },
         {
@@ -297,7 +297,7 @@ const jsonLdGraph = {
         },
         {
           "@type": "Question",
-          "name": "What is the optimal timing window to initiate settlement negotiations after job loss?",
+          "name": "What is the optimal timing window to start settlement talks after job loss?",
           "acceptedAnswer": {
             "@type": "Answer",
             "text": "The optimal window for negotiating maximum debt waivers occurs between Day 120 and Day 180 following the first missed EMI (the Substandard NPA phase). At this stage, banks have classified the loan as a Non-Performing Asset and absorbed mandatory balance-sheet provisioning allocations under Ind AS 109, giving Zonal Stressed Assets Committees maximum internal authority to sanction 50% to 70% haircuts."
@@ -316,7 +316,7 @@ const jsonLdGraph = {
           "name": "How does loan settlement affect my CIBIL score after job loss, and how can I rebuild it?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Settling a defaulted loan updates credit bureaus to 'Settled' with an outstanding balance of ₹0. While this leads to an initial credit score reduction of 75 to 150 points and a temporary 12-month cooling period, it permanently terminates default compounding and legal risk. Once new employment is secured, borrowers can rebuild their credit score back to 750+ within 18 to 24 months by using a secured credit card backed by a fixed deposit and maintaining flawless payment discipline."
+            "text": "Settling a defaulted loan updates credit bureaus to 'Settled' with an outstanding balance of ₹0. While this leads to an initial credit score reduction of 75 to 150 points and a temporary 12-month cooling period, it permanently ends default compounding and legal risk. Once new employment is secured, borrowers can rebuild their credit score back to 750+ within 18 to 24 months by using a secured credit card backed by a fixed deposit and maintaining flawless payment discipline."
           }
         }
       ]
@@ -342,7 +342,7 @@ const jsonLdGraph = {
 export default function JobLossLoanSettlementPage() {
   const tocItems = [
     { id: "unemployment-default-crisis", title: "1. Involuntary Job Loss vs Willful Default" },
-    { id: "hardship-portfolio-documentation", title: "2. Compiling the Hardship Portfolio" },
+    { id: "hardship-portfolio-records", title: "2. Compiling the Hardship Portfolio" },
     { id: "npa-provisioning-timeline-unemployment", title: "3. NPA Lifecycle & Provisioning Timing" },
     { id: "npv-recovery-valuation-math", title: "4. NPV Recovery Valuation & Haircut Math" },
     { id: "infographic-resolution-blueprint", title: "5. Visual Resolution Blueprint" },
@@ -350,7 +350,7 @@ export default function JobLossLoanSettlementPage() {
     { id: "legal-notice-defense-pssa-138", title: "7. Section 25 PSSA & Section 138 Defense" },
     { id: "step-by-step-settlement-protocol", title: "8. Step-by-Step Settlement Protocol" },
     { id: "sanction-letter-audit-ndc-mandate", title: "9. Sanction Letter Audit & ₹0 NDC Mandate" },
-    { id: "comparative-matrix-credit-rehabilitation", title: "10. Comparative Matrix & CIBIL Recovery" },
+    { id: "comparative-matrix-credit-recovery", title: "10. Comparative Matrix & CIBIL Recovery" },
     { id: "company-resolution-section", title: "11. SettleLoans Legal Defense & Advisory" },
     { id: "faqs", title: "12. Frequently Asked Questions" },
   ];
@@ -358,14 +358,14 @@ export default function JobLossLoanSettlementPage() {
   const faqs = [
     {
       question: "Is job loss considered a legally valid ground for loan settlement in India?",
-      answer: "Yes. Under Reserve Bank of India (RBI) Master Directions on Compromise Settlements, involuntary unemployment, corporate layoffs, and sudden loss of earning capacity are explicitly recognized as genuine, non-wilful hardship grounds. When backed by verified documentation such as formal termination letters and zero-salary bank statements, credit committees are authorized to sanction deep compromise settlements with 50% to 70% debt haircuts."
+      answer: "Yes. Under Reserve Bank of India (RBI) Master Directions on Compromise Settlements, involuntary unemployment, corporate layoffs, and sudden loss of earning capacity are explicitly recognized as genuine, non-wilful hardship grounds. When backed by verified records such as formal termination letters and zero-salary bank statements, credit committees are authorized to sanction deep compromise settlements with 50% to 70% debt haircuts."
     },
     {
       question: "What documents are required to compile an unassailable hardship portfolio after job loss?",
-      answer: "A robust financial hardship portfolio must contain: (1) Official corporate termination or layoff letter stating the release date; (2) Final severance calculation and full & final settlement (FnF) statement; (3) Last 6 to 12 months of bank account statements establishing the complete cessation of regular salary credits; (4) Proof of PF advance withdrawals or medical expenditures incurred during unemployment; and (5) Income Tax Returns (ITR) demonstrating the sharp decline in annual taxable income."
+      answer: "A robust financial hardship portfolio must contain: (1) Official corporate termination or layoff letter stating the release date; (2) Final severance calculation and full & final settlement (FnF) statement; (3) Last 6 to 12 months of bank account statements establishing the complete cessation of regular salary credits; (4) Proof of PF advance withdrawals or medical expenditures incurred during unemployment; and (5) Income Tax Returns (ITR) showing the sharp decline in annual taxable income."
     },
     {
-      question: "Can a bank initiate criminal proceedings or arrest me if I default on loans due to job loss?",
+      question: "Can a bank start criminal cases or arrest me if I default on loans due to job loss?",
       answer: "No. Involuntary loan default arising from genuine financial insolvency is strictly a civil dispute governed by the Indian Contract Act, 1872. Police authorities have zero legal jurisdiction to register an FIR, summon you, or make an arrest for unpaid unsecured personal loans. While lenders may issue statutory notices under Section 138 of the Negotiable Instruments Act or Section 25 of the PSSA for dishonoured cheques or NACH mandates, these are compoundable quasi-criminal matters that are routinely resolved through advocate representation and compromise OTS."
     },
     {
@@ -374,7 +374,7 @@ export default function JobLossLoanSettlementPage() {
     },
     {
       question: "How can you stop repeated NACH bounce fees when there is no salary credit in your bank account?",
-      answer: "Repeated electronic NACH mandate sweeps can trigger hundreds of rupees in debit return fees from both the lending bank and destination bank. Borrowers can stop this financial drain by: (1) Submitting a written mandate revocation request to their destination bank under NPCI procedural guidelines; (2) Serving a formal hardship notification to the lending institution requesting an immediate freeze on automated electronic clearing; and (3) Demanding complete waiver of all bounce charges during OTS negotiations under RBI Fair Lending Practices."
+      answer: "Repeated electronic NACH mandate sweeps can trigger hundreds of rupees in debit return fees from both the lending bank and destination bank. Borrowers can stop this financial drain by: (1) Submitting a written mandate revocation request to their destination bank under NPCI procedural guidelines; (2) Serving a formal hardship notice to the lending institution requesting an immediate freeze on automated electronic clearing; and (3) Demanding complete waiver of all bounce charges during OTS talks under RBI Fair Lending Practices."
     },
     {
       question: "How do you handle aggressive recovery agent harassment at home or former office after a layoff?",
@@ -385,7 +385,7 @@ export default function JobLossLoanSettlementPage() {
       answer: "No. Financial and legal experts strongly advise against burning through essential retirement funds or limited severance packages to service unsecured debt interest. Severance capital should be preserved for basic family survival and medical emergencies. Once re-employment or alternative income stabilizes, remaining funds can be strategically deployed to fund a heavily discounted, lump-sum One-Time Settlement."
     },
     {
-      question: "What is the optimal timing window to initiate settlement negotiations after job loss?",
+      question: "What is the optimal timing window to start settlement talks after job loss?",
       answer: "The optimal window for negotiating maximum debt waivers occurs between Day 120 and Day 180 following the first missed EMI (the Substandard NPA phase). At this stage, banks have classified the loan as a Non-Performing Asset and absorbed mandatory balance-sheet provisioning allocations under Ind AS 109, giving Zonal Stressed Assets Committees maximum internal authority to sanction 50% to 70% haircuts."
     },
     {
@@ -394,7 +394,7 @@ export default function JobLossLoanSettlementPage() {
     },
     {
       question: "How does loan settlement affect my CIBIL score after job loss, and how can I rebuild it?",
-      answer: "Settling a defaulted loan updates credit bureaus to 'Settled' with an outstanding balance of ₹0. While this leads to an initial credit score reduction of 75 to 150 points and a temporary 12-month cooling period, it permanently terminates default compounding and legal risk. Once new employment is secured, borrowers can rebuild their credit score back to 750+ within 18 to 24 months by using a secured credit card backed by a fixed deposit and maintaining flawless payment discipline."
+      answer: "Settling a defaulted loan updates credit bureaus to 'Settled' with an outstanding balance of ₹0. While this leads to an initial credit score reduction of 75 to 150 points and a temporary 12-month cooling period, it permanently ends default compounding and legal risk. Once new employment is secured, borrowers can rebuild their credit score back to 750+ within 18 to 24 months by using a secured credit card backed by a fixed deposit and maintaining flawless payment discipline."
     }
   ];
 
@@ -570,7 +570,7 @@ export default function JobLossLoanSettlementPage() {
                 The Unemployment Retail Debt Crisis
               </h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
-                Corporate restructuring, macroeconomic contraction, technological automation, and sudden organizational downsizing across IT, fintech, e-commerce, and manufacturing sectors have precipitated an unprecedented wave of retail loan defaults in India. For salaried professionals servicing equated monthly installments (EMIs) across personal loans, credit card balances, and consumer durable lines, sudden job loss instantly destroys the debt-to-income equilibrium. What was once a manageable 35% debt service ratio transforms overnight into total insolvency, as recurring monthly obligations collide with zero ongoing cash inflows.
+                Corporate restructuring, macroeconomic contraction, technological automation, and sudden organizational downsizing across IT, fintech, e-commerce, and manufacturing sectors have precipitated an unprecedented wave of retail loan defaults in India. For salaried professionals servicing equated monthly installments (EMIs) across personal loans, credit card balances, and consumer durable lines, sudden job loss instantly destroys the debt-to-income equilibrium. What was once a manageable 35% debt service ratio transforms overnight into total insolvency, as recurring monthly debts collide with zero ongoing cash inflows.
               </p>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Indian banking jurisprudence draws a clear line between distressed borrowers and financial delinquents. This distinction rests on <em>involuntary default</em> versus <em>wilful default</em>. Under the RBI Master Circular on Wilful Defaulters, a borrower is branded wilful only if they intentionally withhold repayment despite having liquid capacity, siphon funds, or fraudulently dispose of collateral. A salaried professional who defaulted due to corporate retrenchment or company liquidation stands entirely outside the ambit of wilful default.
@@ -589,16 +589,16 @@ export default function JobLossLoanSettlementPage() {
             </section>
 
             {/* Section 2: Compiling the Verifiable Hardship Portfolio */}
-            <section id="hardship-portfolio-documentation" className="scroll-mt-24 mb-12">
+            <section id="hardship-portfolio-records" className="scroll-mt-24 mb-12">
               <div className="inline-flex items-center gap-2 text-xs font-bold text-[#1F5EFF] uppercase tracking-wider mb-2">
                 <FileText className="w-4 h-4" />
                 <span>2. Compiling the Hardship Portfolio</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 Compiling the Evidentiary Hardship Dossier
-              </h2>
+              </h3>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
-                Bank credit committees do not sanction debt waivers based on verbal explanations. Under internal auditing standards and RBI supervisory guidelines, every rupee of debt haircut must be justified by evidentiary records. A borrower who submits a documented <strong>Hardship Portfolio</strong> shifts the balance of power during negotiations. It proves that full liquid recovery is impossible, making a discounted One-Time Settlement (OTS) the bank&apos;s sole viable option.
+                Bank credit committees do not sanction debt waivers based on verbal explanations. Under internal auditing standards and RBI supervisory guidelines, every rupee of debt haircut must be justified by evidentiary records. A borrower who submits a documented <strong>Hardship Portfolio</strong> shifts the balance of power during talks. It proves that full liquid recovery is impossible, making a discounted One-Time Settlement (OTS) the bank&apos;s sole viable option.
               </p>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 A legally robust hardship dossier comprises five primary documentary pillars that substantiate total income cessation, depletion of emergency liquidity, and genuine insolvency:
@@ -625,7 +625,7 @@ export default function JobLossLoanSettlementPage() {
                     <tr>
                       <td className="font-bold text-slate-900">2. Full &amp; Final (FnF) Statement</td>
                       <td>Corporate FnF settlement slip detailing severance pay, gratuity, leave encashment, and notice pay deductions.</td>
-                      <td>Demonstrates total terminal compensation received and confirms complete cessation of corporate benefits.</td>
+                      <td>shows total terminal relief received and confirms complete cessation of corporate benefits.</td>
                       <td><span className="text-emerald-700 font-bold">Critical (Non-Negotiable)</span></td>
                     </tr>
                     <tr>
@@ -651,7 +651,7 @@ export default function JobLossLoanSettlementPage() {
               </div>
 
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
-                When presenting this dossier through legal counsel, each exhibit is cross-referenced with a formal Hardship Affidavit executed on non-judicial stamp paper. This formalization demonstrates absolute transparency, disarms aggressive recovery litigation, and provides the branch credit officer with the internal audit compliance necessary to recommend a 50% to 70% principal waiver to the Zonal Stressed Assets Committee.
+                When presenting this dossier through legal counsel, each exhibit is cross-referenced with a formal Hardship Affidavit executed on non-judicial stamp paper. This formalization shows absolute transparency, disarms aggressive recovery litigation, and provides the branch credit officer with the internal audit compliance necessary to recommend a 50% to 70% principal waiver to the Zonal Stressed Assets Committee.
               </p>
             </section>
 
@@ -661,9 +661,9 @@ export default function JobLossLoanSettlementPage() {
                 <Clock className="w-4 h-4" />
                 <span>3. NPA Delinquency Lifecycle &amp; Provisioning Timing</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 NPA Delinquency Lifecycle &amp; Bank Provisioning Windows
-              </h2>
+              </h3>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 To negotiate a maximum debt waiver following job loss, understand the bank&apos;s accounting mechanics. Under RBI IRACP norms and Ind AS 109 Expected Credit Loss frameworks, lenders face strict regulatory provisioning schedules. These aging schedules dictate when and why credit committees are willing to compromise.
               </p>
@@ -678,21 +678,21 @@ export default function JobLossLoanSettlementPage() {
               <div className="grid grid-cols-1 md:grid-cols-3 gap-4 my-6">
                 <div className="bg-slate-50 border border-slate-200 rounded-xl p-4">
                   <div className="text-xs font-bold uppercase tracking-wider text-slate-500 mb-1">Days 1 – 90</div>
-                  <h3 className="font-bold text-slate-900 text-base mb-2">SMA-0 to SMA-2 Stage</h3>
+                  <h4 className="font-bold text-slate-900 text-base mb-2">SMA-0 to SMA-2 Stage</h4>
                   <p className="text-xs text-slate-600 leading-relaxed">
                     Automated collection calls, repeated NACH sweeps, and agency pressure. Bank insists on full EMI regularization; settlement discounts are minimal.
                   </p>
                 </div>
                 <div className="bg-blue-50 border border-blue-300 rounded-xl p-4 shadow-sm">
                   <div className="text-xs font-bold uppercase tracking-wider text-[#1F5EFF] mb-1">Days 91 – 180 (Sweet Spot)</div>
-                  <h4 className="font-bold text-blue-950 text-base mb-2">Substandard NPA Stage</h4>
+                  <h5 className="font-bold text-blue-950 text-base mb-2">Substandard NPA Stage</h5>
                   <p className="text-xs text-blue-800 leading-relaxed">
                     Account transferred to Zonal Stressed Assets Desk. Bank absorbs mandatory capital provisioning. Optimal window for negotiating 50%–65% principal waivers.
                   </p>
                 </div>
                 <div className="bg-slate-50 border border-slate-200 rounded-xl p-4">
                   <div className="text-xs font-bold uppercase tracking-wider text-slate-500 mb-1">Days 181 – 365+</div>
-                  <h4 className="font-bold text-slate-900 text-base mb-2">Doubtful &amp; Loss Asset</h4>
+                  <h5 className="font-bold text-slate-900 text-base mb-2">Doubtful &amp; Loss Asset</h5>
                   <p className="text-xs text-slate-600 leading-relaxed">
                     Provisioning reaches 40%–100%. Bank prioritizes offloading bad ledger entries before fiscal year-end audits. Haircuts can reach 65%–70%+.
                   </p>
@@ -700,7 +700,7 @@ export default function JobLossLoanSettlementPage() {
               </div>
 
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
-                The primary negotiation sweet spot occurs between <strong>Day 120 and Day 180</strong>. At this stage, recovery agency commissions have peaked. In addition, internal records have established bona fide hardship. Credit committees actively seek cash recoveries to clean balance sheets before audits without incurring multi-year litigation costs.
+                The primary talks sweet spot occurs between <strong>Day 120 and Day 180</strong>. At this stage, recovery agency commissions have peaked. In addition, internal records have established bona fide hardship. Credit committees actively seek cash recoveries to clean balance sheets before audits without incurring multi-year litigation costs.
               </p>
             </section>
 
@@ -710,9 +710,9 @@ export default function JobLossLoanSettlementPage() {
                 <Calculator className="w-4 h-4" />
                 <span>4. NPV Recovery Valuation &amp; Debt Waiver Mathematics</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 Net Present Value (NPV) Recovery Modeling
-              </h2>
+              </h3>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Borrowers often wonder why a commercial bank would willingly forfeit 50% to 70% of an outstanding debt. The answer lies in risk management and <strong>Net Present Value (NPV) Recovery Valuation</strong>. Under RBI Master Directions, credit committees must compare immediate OTS cash against the discounted present value of litigating against an unemployed borrower with no attachable assets.
               </p>
@@ -727,7 +727,7 @@ export default function JobLossLoanSettlementPage() {
                   NPV_Recovery = ∑ [ C_t / (1 + r)^t ] - Litigation Costs - Provisioning Burden
                 </div>
                 <p className="text-xs text-slate-300 leading-relaxed mt-2">
-                  Where C_t represents estimated future cash recoveries, r is the institutional discount rate (12%–15%), and substantial deductions account for 3–5 years of court friction, advocate fees, and locked provisioning capital under RBI prudential norms.
+                  Where C_t represents estimated future cash recoveries, r is the institutional discount rate (12%–15%), and large deductions account for 3–5 years of court friction, advocate fees, and locked provisioning capital under RBI prudential norms.
                 </p>
               </div>
 
@@ -735,8 +735,8 @@ export default function JobLossLoanSettlementPage() {
                 Consider an unsecured personal loan with an outstanding principal balance of ₹10,00,000 defaulted due to job loss:
               </p>
               <ul className="list-disc pl-6 space-y-2 text-slate-700 mb-4 text-base">
-                <li><strong>Scenario A (Litigation Route):</strong> The bank files a civil summary suit under Order 37 of the Code of Civil Procedure (CPC) or initiates arbitration. Court fees (₹50,000–₹80,000), advocate retainers (₹60,000–₹1,00,000), and 4 to 7 years of court delays yield an uncertain decree against an individual with zero liquid assets. Meanwhile, 100% of the loan (₹10 Lakhs) remains frozen in capital reserves. The discounted NPV of this route yields barely ₹2.2 Lakhs to ₹2.8 Lakhs.</li>
-                <li><strong>Scenario B (Immediate Hardship OTS):</strong> The borrower, represented by specialized debt settlement advocates, offers an immediate lump-sum settlement of ₹3.8 Lakhs to ₹4.5 Lakhs (a 55% to 62% haircut) funded through family assistance. The bank receives immediate liquid cash, completely releases ₹10 Lakhs in locked regulatory provisioning, eliminates legal expenditures, and closes the bad loan ledger permanently.</li>
+                <li><strong>Scenario A (Litigation Route):</strong> The bank files a civil summary suit under Order 37 of the Code of Civil Procedure (CPC) or starts arbitration. Court fees (₹50,000–₹80,000), advocate retainers (₹60,000–₹1,00,000), and 4 to 7 years of court delays yield an uncertain decree against an person with zero liquid assets. Meanwhile, 100% of the loan (₹10 Lakhs) remains frozen in capital reserves. The discounted NPV of this route yields barely ₹2.2 Lakhs to ₹2.8 Lakhs.</li>
+                <li><strong>Scenario B (Immediate Hardship OTS):</strong> The borrower, represented by specialized debt settlement advocates, offers an immediate lump-sum settlement of ₹3.8 Lakhs to ₹4.5 Lakhs (a 55% to 62% haircut) funded through family help. The bank receives immediate liquid cash, completely releases ₹10 Lakhs in locked regulatory provisioning, eliminates legal expenditures, and closes the bad loan ledger permanently.</li>
               </ul>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Because Scenario B delivers higher economic value and zero ongoing risk, the bank&apos;s Zonal Stressed Assets Committee has a fiduciary and institutional incentive to approve the compromise settlement.
@@ -749,9 +749,9 @@ export default function JobLossLoanSettlementPage() {
                 <Layers className="w-4 h-4" />
                 <span>5. Visual Resolution Blueprint</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 Visual Resolution Blueprint: Job Loss Default to ₹0 NDC
-              </h2>
+              </h3>
               <p className="text-slate-700 leading-relaxed mb-6 text-base md:text-lg">
                 The comprehensive infographic below illustrates the 4-stage institutional lifecycle of settling defaulted retail loans following involuntary unemployment. It details how an evidentiary hardship dossier transforms unserviceable debt into an authorized 50% to 70% compromise waiver under Reserve Bank of India frameworks.
               </p>
@@ -778,9 +778,9 @@ export default function JobLossLoanSettlementPage() {
                 <ShieldAlert className="w-4 h-4" />
                 <span>6. Harassment Defense &amp; Statutory Rights</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 Stopping Recovery Agent Harassment
-              </h2>
+              </h3>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 The most traumatic consequence of defaulting after job loss is the aggressive onslaught of third-party recovery agencies. Lenders frequently outsource delinquent accounts to external collection agencies operating on aggressive commission structures (earning 10% to 20% of recovered cash). These agents routinely resort to unlawful tactics: non-stop phone calls from multiple virtual numbers, threatening former colleagues or HR managers, contacting non-guarantor family members, and making unannounced visits to residential premises.
               </p>
@@ -788,17 +788,17 @@ export default function JobLossLoanSettlementPage() {
                 Such coercive practices constitute a direct violation of the <strong>RBI Master Directions on Recovery Agents (2022)</strong> and the statutory <em>Fair Practices Code</em>. Under binding regulatory circulars issued to all commercial banks and NBFCs, borrowers enjoy concrete statutory rights:
               </p>
               <ul className="list-disc pl-6 space-y-2.5 text-slate-700 mb-6 text-base">
-                <li><strong>Strict Calling Hours:</strong> Recovery agents are legally prohibited from calling borrowers before 08:00 AM or after 07:00 PM. Any communication outside this statutory window is illegal.</li>
+                <li><strong>Strict Calling Hours:</strong> Recovery agents are legally prohibited from calling borrowers before 08:00 AM or after 07:00 PM. Any notice outside this statutory window is illegal.</li>
                 <li><strong>Zero Contact with Third Parties:</strong> Reaching out to employers, former colleagues, HR personnel, friends, or non-guarantor family members is explicitly forbidden under RBI privacy mandates.</li>
                 <li><strong>Prohibition of Workplace Visits:</strong> Agents cannot show up at a borrower&apos;s former office or present workplace unless explicitly authorized in writing by the borrower.</li>
-                <li><strong>Mandatory Identification:</strong> Any field representative visiting a residential address must possess an official identity card, a valid Indian Institute of Banking &amp; Finance (IIBF) DRA certificate, and a stamped bank authorization letter.</li>
+                <li><strong>Mandatory Identification:</strong> Any field agent visiting a residential address must possess an official identity card, a valid Indian Institute of Banking &amp; Finance (IIBF) DRA certificate, and a stamped bank authorization letter.</li>
                 <li><strong>Prohibition of Threatening Language:</strong> Intimidation, verbal abuse, public humiliation, and false threats of police arrest or asset seizure constitute punishable offenses under Indian criminal law.</li>
               </ul>
               <div className="bg-slate-50 border border-slate-200 rounded-xl p-5 my-6">
-                <h3 className="font-bold text-slate-900 text-sm uppercase tracking-wider mb-2 flex items-center gap-2">
+                <h4 className="font-bold text-slate-900 text-sm uppercase tracking-wider mb-2 flex items-center gap-2">
                   <Gavel className="w-4 h-4 text-[#1F5EFF]" />
                   <span>Enforcement Protocol for Harassment Violations</span>
-                </h3>
+                </h4>
                 <p className="text-xs text-slate-600 leading-relaxed">
                   When recovery agents violate these statutory norms, legal counsel issues a formal <strong>Legal Cease-and-Desist Notice</strong> to the bank&apos;s Managing Director and Principal Nodal Officer (PNO). If the lender fails to halt collection harassment within 30 days, a formal regulatory complaint is lodged on the RBI Integrated Ombudsman portal (<a href="https://cms.rbi.org.in" target="_blank" rel="noopener noreferrer" className="text-[#1F5EFF] underline">cms.rbi.org.in</a>). Under RBI guidelines, lending institutions face severe financial penalties and regulatory sanctions for third-party agency misconduct.
                 </p>
@@ -811,11 +811,11 @@ export default function JobLossLoanSettlementPage() {
                 <Scale className="w-4 h-4" />
                 <span>7. Section 25 PSSA &amp; Section 138 Defense</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 Defending Notices: Section 25 PSSA & Section 138 NI Act
-              </h2>
+              </h3>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
-                When salary credits cease, automated electronic National Automated Clearing House (e-NACH) mandates and post-dated cheques inevitably bounce due to insufficient funds. Lenders utilize these payment failures to issue statutory legal notices under <strong>Section 25 of the Payment and Settlement Systems Act (PSSA), 2007</strong> or <strong>Section 138 of the Negotiable Instruments (NI) Act, 1881</strong>.
+                When salary credits cease, automated electronic National Automated Clearing House (e-NACH) mandates and post-dated cheques inevitably bounce due to insufficient funds. Lenders use these payment failures to issue statutory legal notices under <strong>Section 25 of the Payment and Settlement Systems Act (PSSA), 2007</strong> or <strong>Section 138 of the Negotiable Instruments (NI) Act, 1881</strong>.
               </p>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Receiving a statutory 15-day or 30-day legal notice generates immense psychological anxiety, but borrowers must understand that a legal notice is simply a formal demand for payment, not an arrest warrant or court decree. Both Section 25 PSSA and Section 138 NI Act represent quasi-criminal, bailable, and compoundable statutory provisions designed to enforce debt recovery rather than punish genuine insolvency.
@@ -830,7 +830,7 @@ export default function JobLossLoanSettlementPage() {
                 <li><strong>Formal Offer for Conciliation &amp; OTS:</strong> Expressing continuous willingness to resolve the civil dispute through compromise settlement or National Lok Adalat conciliation benches under the Legal Services Authorities Act, 1987.</li>
               </ul>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
-                By responding formally through an advocate, the borrower prevents the lender from obtaining an uncontested ex-parte court order and firmly directs the dispute into structured compromise settlement negotiations.
+                By responding formally through an advocate, the borrower prevents the lender from obtaining an uncontested ex-parte court order and firmly directs the dispute into structured compromise settlement talks.
               </p>
             </section>
 
@@ -840,59 +840,59 @@ export default function JobLossLoanSettlementPage() {
                 <FileCheck className="w-4 h-4" />
                 <span>8. Step-by-Step Settlement Protocol</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 The 5-Step Unemployment Loan Settlement Protocol
-              </h2>
+              </h3>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Executing a legally secure, heavily discounted loan settlement requires bypassing frontline branch tele-callers and negotiating directly with authorized bank decision-makers. The following five-stage roadmap governs professional debt settlement:
               </p>
 
               <div className="space-y-4 my-6">
                 <div className="bg-slate-50 border border-slate-200 rounded-xl p-5">
-                  <h3 className="font-bold text-slate-900 text-base mb-1 flex items-center gap-2">
+                  <h4 className="font-bold text-slate-900 text-base mb-1 flex items-center gap-2">
                     <span className="w-6 h-6 rounded-full bg-[#1F5EFF] text-white text-xs flex items-center justify-center font-bold">1</span>
                     <span>Comprehensive Delinquency &amp; Ledger Audit</span>
-                  </h3>
+                  </h4>
                   <p className="text-xs sm:text-sm text-slate-600 leading-relaxed">
                     Obtain the complete Statement of Account (SOA) from the lender. Reconcile all historical EMI payments, isolate the core unamortized principal balance, and demand 100% elimination of all accumulated late fees, cheque bounce surcharges, and penal interest compounded post-default.
                   </p>
                 </div>
 
                 <div className="bg-slate-50 border border-slate-200 rounded-xl p-5">
-                  <h4 className="font-bold text-slate-900 text-base mb-1 flex items-center gap-2">
+                  <h5 className="font-bold text-slate-900 text-base mb-1 flex items-center gap-2">
                     <span className="w-6 h-6 rounded-full bg-[#1F5EFF] text-white text-xs flex items-center justify-center font-bold">2</span>
                     <span>Submission of Formal Hardship Petition</span>
-                  </h4>
+                  </h5>
                   <p className="text-xs sm:text-sm text-slate-600 leading-relaxed">
                     Submit a formal, advocate-drafted OTS Hardship Petition directly to the bank&apos;s Zonal Stressed Assets Recovery Branch (SARB) or Credit Committee. Accompany the petition with the verified Hardship Portfolio, explicitly citing RBI Master Directions on Compromise Settlements.
                   </p>
                 </div>
 
                 <div className="bg-slate-50 border border-slate-200 rounded-xl p-5">
-                  <h4 className="font-bold text-slate-900 text-base mb-1 flex items-center gap-2">
+                  <h5 className="font-bold text-slate-900 text-base mb-1 flex items-center gap-2">
                     <span className="w-6 h-6 rounded-full bg-[#1F5EFF] text-white text-xs flex items-center justify-center font-bold">3</span>
-                    <span>Mathematical NPV Haircut Negotiation</span>
-                  </h4>
+                    <span>Mathematical NPV Haircut talks</span>
+                  </h5>
                   <p className="text-xs sm:text-sm text-slate-600 leading-relaxed">
-                    Anchor the settlement offer between 30% and 40% of the core principal. Structure the negotiation using the Net Present Value recovery formula, demonstrating that an immediate lump-sum settlement delivers higher economic recovery than multi-year civil litigation.
+                    Anchor the settlement offer between 30% and 40% of the core principal. Structure the talks using the Net Present Value recovery formula, showing that an immediate lump-sum settlement delivers higher economic recovery than multi-year civil litigation.
                   </p>
                 </div>
 
                 <div className="bg-slate-50 border border-slate-200 rounded-xl p-5">
-                  <h4 className="font-bold text-slate-900 text-base mb-1 flex items-center gap-2">
+                  <h5 className="font-bold text-slate-900 text-base mb-1 flex items-center gap-2">
                     <span className="w-6 h-6 rounded-full bg-[#1F5EFF] text-white text-xs flex items-center justify-center font-bold">4</span>
                     <span>Forensic Sanction Letter Verification</span>
-                  </h4>
+                  </h5>
                   <p className="text-xs sm:text-sm text-slate-600 leading-relaxed">
                     Before releasing a single rupee of settlement funds, conduct a forensic legal audit of the bank&apos;s written OTS Sanction Letter. Ensure the letter contains authorized branch seals, explicit waiver clauses, and guaranteed No Dues Certificate delivery timelines.
                   </p>
                 </div>
 
                 <div className="bg-slate-50 border border-slate-200 rounded-xl p-5">
-                  <h4 className="font-bold text-slate-900 text-base mb-1 flex items-center gap-2">
+                  <h5 className="font-bold text-slate-900 text-base mb-1 flex items-center gap-2">
                     <span className="w-6 h-6 rounded-full bg-[#1F5EFF] text-white text-xs flex items-center justify-center font-bold">5</span>
                     <span>Direct Account Disbursal &amp; Stamped ₹0 NDC Mandate</span>
-                  </h4>
+                  </h5>
                   <p className="text-xs sm:text-sm text-slate-600 leading-relaxed">
                     Disburse the agreed settlement sum strictly via traceable banking channels (NEFT/RTGS/Cheque) directly into the specified loan account. Track the mandatory 30-day delivery of the stamped No Dues Certificate and verify zero-balance credit bureau updates under RBI Circular RBI/2023-24/60.
                   </p>
@@ -906,9 +906,9 @@ export default function JobLossLoanSettlementPage() {
                 <FileCheck className="w-4 h-4" />
                 <span>9. Sanction Letter Audit &amp; ₹0 NDC Mandate</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 OTS Sanction Letters: 5 Key Clauses & ₹0 NDC Mandate
-              </h2>
+              </h3>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 The greatest risk facing distressed borrowers is fake oral promises made by rogue collection agents. Tele-callers frequently induce borrowers to deposit token amounts like ₹50,000 on a ₹5 Lakh loan. The bank then treats this token as overdue interest rather than a settlement. This leaves the full debt active and compounding.
               </p>
@@ -926,21 +926,21 @@ export default function JobLossLoanSettlementPage() {
                 <div className="flex items-start gap-3">
                   <ShieldCheck className="w-5 h-5 text-emerald-600 flex-shrink-0 mt-0.5" />
                   <div className="text-xs sm:text-sm text-emerald-900 leading-relaxed">
-                    <strong>RBI Statutory Penalty for Delayed NDC:</strong> Under Reserve Bank of India Circular <em>RBI/2023-24/60 (Responsible Lending Conduct - Release of Movable / Immovable Property Documents / NDC on Repayment)</em>, regulated entities are legally mandated to issue the No Dues Certificate and update all credit information companies (CIBIL, Experian, Equifax, CRIF) within <strong>30 calendar days</strong> of settlement payment. If the bank fails to deliver the NDC within 30 days without lawful justification, it is statutorily liable to pay compensation of <strong>₹5,000 per day of delay</strong> directly to the borrower.
+                    <strong>RBI Statutory Penalty for Delayed NDC:</strong> Under Reserve Bank of India Circular <em>RBI/2023-24/60 (Responsible Lending Conduct - Release of Movable / Immovable Property Documents / NDC on Repayment)</em>, regulated entities are legally mandated to issue the No Dues Certificate and update all credit information companies (CIBIL, Experian, Equifax, CRIF) within <strong>30 calendar days</strong> of settlement payment. If the bank fails to deliver the NDC within 30 days without lawful justification, it is statutorily liable to pay relief of <strong>₹5,000 per day of delay</strong> directly to the borrower.
                   </div>
                 </div>
               </div>
             </section>
 
             {/* Section 10: Comparative Matrix & CIBIL Recovery */}
-            <section id="comparative-matrix-credit-rehabilitation" className="scroll-mt-24 mb-12">
+            <section id="comparative-matrix-credit-recovery" className="scroll-mt-24 mb-12">
               <div className="inline-flex items-center gap-2 text-xs font-bold text-[#1F5EFF] uppercase tracking-wider mb-2">
                 <TrendingUp className="w-4 h-4" />
                 <span>10. Comparative Matrix &amp; CIBIL Recovery</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 Comparative Debt Resolution Matrix & Credit Repair
-              </h2>
+              </h3>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Distressed borrowers often struggle to evaluate whether a One-Time Settlement (OTS) is superior to alternative relief mechanisms such as loan restructuring, emergency moratoriums, or conciliation through National Lok Adalat. The comparative matrix below details the strategic trade-offs of each avenue following employment termination:
               </p>
@@ -990,18 +990,18 @@ export default function JobLossLoanSettlementPage() {
                 </table>
               </div>
 
-              <h3 className="text-lg md:text-xl font-bold text-slate-900 mt-8 mb-3">
+              <h4 className="text-lg md:text-xl font-bold text-slate-900 mt-8 mb-3">
                 Rebuilding Your CIBIL Score from &apos;Settled&apos; to 750+ Post-Re-employment
-              </h3>
+              </h4>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
-                Executing a loan settlement updates your credit bureau status to <strong>&apos;Settled&apos;</strong> with an outstanding balance of <strong>₹0</strong>. This entry leads to an initial score dip of 75 to 150 points and a 12-month cooling period. However, it permanently terminates compounding default marks, quashes legal notices, and eliminates harassment.
+                Executing a loan settlement updates your credit bureau status to <strong>&apos;Settled&apos;</strong> with an outstanding balance of <strong>₹0</strong>. This entry leads to an initial score dip of 75 to 150 points and a 12-month cooling period. However, it permanently ends compounding default marks, quashes legal notices, and eliminates harassment.
               </p>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Once new employment is secured, borrowers can systematically rehabilitate their credit profile back to prime status (750+) within 18 to 24 months through a disciplined 3-step credit rebuilding roadmap:
               </p>
               <ol className="list-decimal pl-6 space-y-2 text-slate-700 mb-6 text-base">
                 <li><strong>Secured Credit Card Foundation:</strong> Open a Fixed Deposit (FD) of ₹30,000 to ₹50,000 with a scheduled commercial bank and obtain an instant secured credit card backed by the deposit (80%–90% credit limit).</li>
-                <li><strong>Strict Credit Utilization Discipline:</strong> Utilize no more than 20% to 30% of the card limit for regular household expenditures and ensure 100% automated full payment on or before the due date every month.</li>
+                <li><strong>Strict Credit use Discipline:</strong> use no more than 20% to 30% of the card limit for regular household expenditures and ensure 100% automated full payment on or before the due date every month.</li>
                 <li><strong>Bureau Score Re-indexing:</strong> As 12 to 18 months of spotless, on-time repayments are reported to CIBIL, Experian, Equifax, and CRIF, the credit scoring algorithm re-indexes your financial reliability, unlocking prime commercial credit eligibility.</li>
               </ol>
             </section>
@@ -1015,9 +1015,9 @@ export default function JobLossLoanSettlementPage() {
                 <HelpCircle className="w-4 h-4" />
                 <span>11. Frequently Asked Questions</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
                 FAQs: Loan Settlement After Job Loss &amp; Layoffs
-              </h2>
+              </h3>
 
               <div className="space-y-4">
                 {faqs.map((faq, index) => (
@@ -1043,10 +1043,10 @@ export default function JobLossLoanSettlementPage() {
 
             {/* Regulatory References & Official Sources Strip */}
             <div className="bg-slate-50 border border-slate-200 rounded-2xl p-6 my-10">
-              <h3 className="text-base font-bold text-slate-900 mb-4 flex items-center gap-2">
+              <h4 className="text-base font-bold text-slate-900 mb-4 flex items-center gap-2">
                 <Landmark className="w-5 h-5 text-[#1F5EFF]" />
                 Official Regulatory References &amp; Statutory Circulars
-              </h3>
+              </h4>
               <ul className="space-y-3 text-xs text-slate-600">
                 <li className="flex items-start gap-2">
                   <ExternalLink className="w-4 h-4 text-[#1F5EFF] flex-shrink-0 mt-0.5" />
@@ -1108,10 +1108,10 @@ export default function JobLossLoanSettlementPage() {
 
             {/* Related Guides & Resources Strip (10 Topic Badges) */}
             <div className="bg-slate-50 border border-slate-200 rounded-2xl p-6 my-10">
-              <h3 className="text-base font-bold text-slate-900 mb-4 flex items-center gap-2">
+              <h4 className="text-base font-bold text-slate-900 mb-4 flex items-center gap-2">
                 <BookOpen className="w-5 h-5 text-[#1F5EFF]" />
                 Explore Related Banking &amp; Debt Resolution Guides
-              </h3>
+              </h4>
               <div className="flex flex-wrap gap-2.5">
                 <Link
                   href="/bank-one-time-settlement-ots-policy"
@@ -1202,7 +1202,7 @@ export default function JobLossLoanSettlementPage() {
                 </div>
               </div>
               <p className="text-xs text-slate-600 leading-relaxed mb-4">
-                Ashish has led over 1,400+ successful debt compromise negotiations across SBI, HDFC Bank, ICICI Bank, Axis Bank, and leading NBFCs. He specializes in unemployment debt resolution, Section 25 PSSA notice defense, and borrower advocacy under RBI Master Directions.
+                Ashish has led over 1,400+ successful debt compromise talks across SBI, HDFC Bank, ICICI Bank, Axis Bank, and leading NBFCs. He specializes in unemployment debt resolution, Section 25 PSSA notice defense, and borrower advocacy under RBI Master Directions.
               </p>
               <div className="pt-3 border-t border-slate-100 flex items-center justify-between text-xs font-semibold">
                 <Link
@@ -1222,7 +1222,7 @@ export default function JobLossLoanSettlementPage() {
               </div>
             </div>
 
-            {/* Card 2: Emergency Advocate Assistance CTA */}
+            {/* Card 2: Emergency Advocate help CTA */}
             <div className="bg-gradient-to-br from-[#1F5EFF] to-blue-700 text-white rounded-2xl p-6 shadow-lg">
               <div className="flex items-center gap-2 text-blue-100 text-xs font-bold uppercase tracking-wider mb-2">
                 <PhoneCall className="w-4 h-4" />

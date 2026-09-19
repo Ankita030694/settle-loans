@@ -534,9 +534,9 @@ export default function CarLoanRepossessionShortfallSettlementPage() {
 
             {/* Section 2: Supreme Court Mandates & Ban on Forceful Seizure */}
             <section id="supreme-court-rulings-musclemen-ban" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                 2. Supreme Court Mandates &amp; The Complete Ban on Forceful Seizure: Prakash Kaur, Shanti Devi Sharma &amp; Magma Precedents
-              </h2>
+              </h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 The most critical principle governing auto loan recovery in India is that <strong>a hypothecation agreement does not grant a lender the right to take the law into its own hands</strong>. In a constitutional democracy governed by the rule of law, banks and financial institutions cannot deploy physical force, goons, musclemen, or deceptive tactics to dispossess a citizen of their property. The Supreme Court of India and various High Courts have repeatedly condemned strong-arm repossession practices and established binding legal precedents that hold banks criminally and financially accountable.
               </p>
@@ -593,9 +593,9 @@ export default function CarLoanRepossessionShortfallSettlementPage() {
 
             {/* Section 3: RBI Master Directions & Mandatory Pre-Sale Notices */}
             <section id="rbi-master-directions-fair-practices" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                 3. RBI Fair Practices Code &amp; Mandatory 60-Day Pre-Sale Notice Protocols
-              </h2>
+              </h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 The Reserve Bank of India (RBI), through its <em>Master Directions on Fair Practices Code for Lenders</em> and circulars on the engagement of recovery agents, has established stringent procedural prerequisites that every regulated bank and NBFC must satisfy before initiating repossession of any hypothecated asset. Lenders routinely bypass these requirements, giving borrowers conclusive grounds to challenge subsequent recovery demands.
               </p>
@@ -607,7 +607,7 @@ export default function CarLoanRepossessionShortfallSettlementPage() {
                 <div className="p-4 rounded-xl border border-slate-200 bg-slate-50 flex gap-3">
                   <div className="w-8 h-8 rounded-full bg-blue-100 text-[#1F5EFF] flex items-center justify-center font-bold text-sm flex-shrink-0">1</div>
                   <div className="space-y-1 text-xs sm:text-sm">
-                    <h3 className="font-bold text-slate-900">Formal Default &amp; Loan Recall Notice (60-Day Opportunity)</h3>
+                    <h4 className="font-bold text-slate-900">Formal Default &amp; Loan Recall Notice (60-Day Opportunity)</h4>
                     <p className="text-slate-600 leading-relaxed">
                       The bank must issue a written notice granting the borrower a minimum period to cure the payment default. The notice must specify the exact overdue amount, separating base principal from penal charges and unapproved administrative fees.
                     </p>
@@ -616,7 +616,7 @@ export default function CarLoanRepossessionShortfallSettlementPage() {
                 <div className="p-4 rounded-xl border border-slate-200 bg-slate-50 flex gap-3">
                   <div className="w-8 h-8 rounded-full bg-blue-100 text-[#1F5EFF] flex items-center justify-center font-bold text-sm flex-shrink-0">2</div>
                   <div className="space-y-1 text-xs sm:text-sm">
-                    <h4 className="font-bold text-slate-900">Pre-Repossession Notice &amp; Official Identity Verification</h4>
+                    <h5 className="font-bold text-slate-900">Pre-Repossession Notice &amp; Official Identity Verification</h5>
                     <p className="text-slate-600 leading-relaxed">
                       Prior to taking physical possession, the lender must serve a pre-repossession intimation. Recovery personnel must carry valid bank authorization letters, employee photo identity badges, and police station intimation slips. Repossessions between sunset and sunrise (night-time towing) are strictly forbidden under RBI guidelines.
                     </p>
@@ -625,7 +625,7 @@ export default function CarLoanRepossessionShortfallSettlementPage() {
                 <div className="p-4 rounded-xl border border-slate-200 bg-slate-50 flex gap-3">
                   <div className="w-8 h-8 rounded-full bg-blue-100 text-[#1F5EFF] flex items-center justify-center font-bold text-sm flex-shrink-0">3</div>
                   <div className="space-y-1 text-xs sm:text-sm">
-                    <h4 className="font-bold text-slate-900">Post-Repossession Inventory &amp; Condition Protocol</h4>
+                    <h5 className="font-bold text-slate-900">Post-Repossession Inventory &amp; Condition Protocol</h5>
                     <p className="text-slate-600 leading-relaxed">
                       Immediately upon possession, the bank must prepare an exhaustive inventory document signed by independent witnesses, detailing vehicle mileage, fuel level, exterior/interior condition, audio systems, and all personal belongings left inside the vehicle. The borrower must be furnished a copy immediately.
                     </p>
@@ -634,7 +634,7 @@ export default function CarLoanRepossessionShortfallSettlementPage() {
                 <div className="p-4 rounded-xl border border-slate-200 bg-slate-50 flex gap-3">
                   <div className="w-8 h-8 rounded-full bg-blue-100 text-[#1F5EFF] flex items-center justify-center font-bold text-sm flex-shrink-0">4</div>
                   <div className="space-y-1 text-xs sm:text-sm">
-                    <h4 className="font-bold text-slate-900">30-Day Pre-Sale Valuation Notice &amp; Right of Redemption</h4>
+                    <h5 className="font-bold text-slate-900">30-Day Pre-Sale Valuation Notice &amp; Right of Redemption</h5>
                     <p className="text-slate-600 leading-relaxed">
                       Under Section 176 of the Indian Contract Act, 1872, the pawnee/lender must provide reasonable notice of sale to the debtor. RBI rules mandate a 30-day pre-sale notice specifying the reserve valuation determined by an approved government valuer, the date and venue of public auction, and providing the borrower the legal right to redeem the vehicle by settling the loan.
                     </p>
@@ -645,9 +645,9 @@ export default function CarLoanRepossessionShortfallSettlementPage() {
 
             {/* Section 4: Rigged Distress Auctions & Shortfall Claims */}
             <section id="undervalued-auctions-shortfall-creation" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                 4. How Banks Undervalue Repossessed Cars &amp; Fabricate Artificial Shortfall Claims
-              </h2>
+              </h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 The fundamental mechanism through which banks manufacture post-repossession shortfall debts is the <strong>rigged distress auction</strong>. In an open and transparent secondary automobile market, a two-year-old vehicle might command a market price of ₹7 Lakhs. However, when repossessed by a bank or NBFC, the vehicle is moved to an unauthorized holding yard where it sits exposed to weather damage for months while daily yard parking fees (often ₹300 to ₹500 per day) are continually billed to the borrower&apos;s loan ledger.
               </p>
@@ -671,9 +671,9 @@ export default function CarLoanRepossessionShortfallSettlementPage() {
 
             {/* Section 5: Repossession & Shortfall Resolution Roadmap (Infographic Banner) */}
             <section id="repossession-shortfall-roadmap" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                 5. Car Repossession &amp; Shortfall Settlement Process: Step-by-Step Resolution Roadmap
-              </h2>
+              </h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Understanding the chronological trajectory of an auto loan default—from initial delinquency through repossession defense to final shortfall extinguishment—empowers borrowers to seize control of legal negotiations:
               </p>
@@ -696,9 +696,9 @@ export default function CarLoanRepossessionShortfallSettlementPage() {
 
             {/* Section 6: Strategic Legal Defenses to Invalidate & Settle Shortfall Balance to ₹0 */}
             <section id="legal-defenses-challenging-shortfall" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                 6. Strategic Legal Defenses to Invalidate &amp; Settle Shortfall Balance to ₹0
-              </h2>
+              </h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 When a bank or NBFC issues a legal notice demanding payment for a post-repossession shortfall, unrepresented borrowers often panic and consider paying. However, experienced debt defense advocates utilize the lender&apos;s procedural misconduct to dismantle the shortfall claim entirely, forcing the bank to execute a <strong>₹0 full-and-final settlement</strong>. The core legal arguments include:
               </p>
@@ -748,9 +748,9 @@ export default function CarLoanRepossessionShortfallSettlementPage() {
 
             {/* Section 7: NPA Accounting, NPV Valuation & Bank Compromise Formulas */}
             <section id="ots-negotiation-bank-accounting-npv" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                 7. NPA Accounting, Net Present Value (NPV) &amp; Bank Compromise Settlement Formulas
-              </h2>
+              </h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 To understand why commercial banks and NBFCs agree to waive substantial vehicle loan shortfall balances or settle them for ₹0, one must analyze the institutional accounting mechanics governing Non-Performing Assets (NPAs) under RBI prudential norms. Once a car loan defaults past 90 days, it is classified as a Substandard Asset. Once the collateralized car is repossessed and auctioned, <strong>the loan loses its secured classification</strong>.
               </p>
@@ -778,18 +778,18 @@ export default function CarLoanRepossessionShortfallSettlementPage() {
 
             {/* Section 8: Sanction Letter Forensics, No Dues Certificate (NDC) & CIBIL Correction */}
             <section id="settlement-sanction-ndc-cibil" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                 8. Settlement Sanction Letter Forensics, RBI ₹0 NDC Mandate &amp; CIBIL Restoration
-              </h2>
+              </h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Achieving an agreement with the bank is only half the battle. Borrowers must ensure that the settlement is executed with absolute legal rigor to prevent rogue collection agencies from reviving the shortfall debt years later. Every vehicle loan shortfall settlement must culminate in a formal, digitally verifiable <strong>One-Time Settlement (OTS) Sanction Letter</strong> issued on official bank letterhead.
               </p>
 
               <div className="p-5 rounded-2xl border border-blue-200 bg-blue-50/70 space-y-3 my-4">
-                <h3 className="font-bold text-blue-950 text-sm flex items-center gap-2">
+                <h4 className="font-bold text-blue-950 text-sm flex items-center gap-2">
                   <FileCheck className="w-4 h-4 text-[#1F5EFF]" />
                   <span>Mandatory Clauses in an Auto Loan Shortfall Settlement Letter</span>
-                </h3>
+                </h4>
                 <ul className="space-y-2 text-xs sm:text-sm text-blue-900">
                   <li className="flex items-start gap-2">
                     <Check className="w-4 h-4 text-emerald-600 flex-shrink-0 mt-0.5" />
@@ -817,9 +817,9 @@ export default function CarLoanRepossessionShortfallSettlementPage() {
 
             {/* Section 9: Vehicle Default Resolution Matrix */}
             <section id="repossession-shortfall-comparative-matrix" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                 9. Vehicle Default Resolution Matrix: Unilateral Seizure vs Voluntary Surrender vs Advocate ₹0 OTS
-              </h2>
+              </h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Comparing the key resolution mechanisms allows borrowers to evaluate the strategic advantages of challenging illegal seizures and securing an advocate-negotiated compromise settlement:
               </p>
@@ -872,9 +872,9 @@ export default function CarLoanRepossessionShortfallSettlementPage() {
             {/* Section 10: SettleLoans Legal Defense Advisory + CompanySection */}
             <section id="company-resolution-section" className="space-y-6">
               <div className="border-t border-slate-200 pt-8 space-y-4">
-                <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
+                <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                   10. SettleLoans Legal Defense &amp; Car Loan Shortfall Advisory
-                </h2>
+                </h3>
                 <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                   Navigating the aggressive repossession tactics of major private banks and NBFCs requires seasoned legal advocates who specialize in banking litigation, the Motor Vehicles Act, Supreme Court debt recovery jurisprudence, and RBI consumer protection frameworks. SettleLoans provides complete legal defense for borrowers across India: drafting formal counter-notices against illegal seizure, halting recovery agent harassment, filing consumer court complaints, challenging biased arbitration references under Section 12(5), and negotiating directly with bank zonal authorities to secure complete ₹0 shortfall waivers backed by official, bank-stamped No Dues Certificates.
                 </p>
@@ -888,9 +888,9 @@ export default function CarLoanRepossessionShortfallSettlementPage() {
             <section id="faqs" className="space-y-4 border-t border-slate-200 pt-8">
               <div className="flex items-center gap-2 mb-2">
                 <HelpCircle className="w-5 h-5 text-[#1F5EFF]" />
-                <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
+                <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                   11. Frequently Asked Questions: Car Loan Repossession Rules &amp; Shortfall Settlement
-                </h2>
+                </h3>
               </div>
               <p className="text-xs sm:text-sm text-slate-600 mb-6">
                 Direct, legally verified answers to essential questions regarding car loan repossession, Supreme Court protections against illegal seizure, and residual shortfall debt settlement in India.
@@ -920,9 +920,9 @@ export default function CarLoanRepossessionShortfallSettlementPage() {
 
             {/* 5 Official Regulatory Links */}
             <section className="border-t border-slate-200 pt-8 mb-4">
-              <h3 className="text-xs sm:text-sm font-bold text-slate-900 mb-3 uppercase tracking-wider">
+              <h4 className="text-xs sm:text-sm font-bold text-slate-900 mb-3 uppercase tracking-wider">
                 Official Statutory &amp; Regulatory References
-              </h3>
+              </h4>
               <div className="grid grid-cols-1 sm:grid-cols-2 gap-2.5 text-xs">
                 <a
                   href="https://www.sci.gov.in"
@@ -974,9 +974,9 @@ export default function CarLoanRepossessionShortfallSettlementPage() {
 
             {/* 10 Related Guide Badges */}
             <section className="border-t border-slate-200 pt-8 mb-8">
-              <h3 className="text-xs sm:text-sm font-bold text-slate-900 mb-4 uppercase tracking-wider">
+              <h4 className="text-xs sm:text-sm font-bold text-slate-900 mb-4 uppercase tracking-wider">
                 Related Legal Defense &amp; Loan Resolution Guides
-              </h3>
+              </h4>
               <div className="flex flex-wrap gap-2">
                 <Link
                   href="/bank-sent-legal-notice-for-loan-what-to-do"

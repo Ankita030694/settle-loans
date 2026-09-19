@@ -510,7 +510,7 @@ export default function FakeCourtNoticeWhatsAppPage() {
             </section>
 
             <section id="forensics-identifying-fake-court-summons" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">2. Forensics of Forgery</h2>
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">2. Forensics of Forgery</h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 You can identify a fake WhatsApp notice by checking a few clear signs. Real court notices follow strict rules under the Civil Procedure Code, 1908. Recovery agent fakes use cheap digital templates full of legal errors.
               </p>
@@ -519,10 +519,10 @@ export default function FakeCourtNoticeWhatsAppPage() {
               </p>
               
               <div className="bg-slate-50 border border-slate-200 rounded-2xl p-5 my-4 space-y-4">
-                <h3 className="text-xs sm:text-sm font-bold text-slate-900 uppercase tracking-wider flex items-center gap-2">
+                <h4 className="text-xs sm:text-sm font-bold text-slate-900 uppercase tracking-wider flex items-center gap-2">
                   <Search className="w-4 h-4 text-[#1F5EFF]" />
                   <span>Key Forensic Red Flags in Fabricated WhatsApp Legal Notices</span>
-                </h3>
+                </h4>
                 <div className="space-y-3 text-xs sm:text-sm text-slate-700">
                   <div className="p-3.5 bg-white rounded-xl border border-slate-200">
                     <p className="font-bold text-slate-900">1. Fake Lok Adalat Powers</p>
@@ -557,7 +557,7 @@ export default function FakeCourtNoticeWhatsAppPage() {
             </section>
 
             <section id="statutory-criminal-laws-bns-ipc" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">3. Statutory Criminal Protections</h2>
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">3. Statutory Criminal Protections</h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Sending fake court notices to collect debt is a major crime in India. Under the Bharatiya Nyaya Sanhita, 2023 (BNS) and the Indian Penal Code, 1860 (IPC), strict laws punish this conduct.
               </p>
@@ -567,25 +567,25 @@ export default function FakeCourtNoticeWhatsAppPage() {
               
               <div className="grid grid-cols-1 sm:grid-cols-2 gap-3 my-4">
                 <div className="p-4 bg-slate-50 border border-slate-200 rounded-xl">
-                  <h3 className="font-bold text-slate-900 text-xs sm:text-sm mb-1">Section 466 IPC / Section 338 BNS</h3>
+                  <h4 className="font-bold text-slate-900 text-xs sm:text-sm mb-1">Section 466 IPC / Section 338 BNS</h4>
                   <p className="text-xs text-slate-600 leading-relaxed">
                     <strong>Forgery of Court Records:</strong> Forging court papers carries up to 7 years in jail and fines. This is a serious, non-bailable offense.
                   </p>
                 </div>
                 <div className="p-4 bg-slate-50 border border-slate-200 rounded-xl">
-                  <h4 className="font-bold text-slate-900 text-xs sm:text-sm mb-1">Section 471 IPC / Section 340 BNS</h4>
+                  <h5 className="font-bold text-slate-900 text-xs sm:text-sm mb-1">Section 471 IPC / Section 340 BNS</h5>
                   <p className="text-xs text-slate-600 leading-relaxed">
                     <strong>Using as Genuine a Forged Document:</strong> Using a forged document as genuine carries the same penalty as making it.
                   </p>
                 </div>
                 <div className="p-4 bg-slate-50 border border-slate-200 rounded-xl">
-                  <h4 className="font-bold text-slate-900 text-xs sm:text-sm mb-1">Section 468 IPC / Section 336(3) BNS</h4>
+                  <h5 className="font-bold text-slate-900 text-xs sm:text-sm mb-1">Section 468 IPC / Section 336(3) BNS</h5>
                   <p className="text-xs text-slate-600 leading-relaxed">
                     <strong>Forgery for Purpose of Cheating:</strong> Forging court summons to trick a borrower into paying brings up to 7 years in jail.
                   </p>
                 </div>
                 <div className="p-4 bg-slate-50 border border-slate-200 rounded-xl">
-                  <h4 className="font-bold text-slate-900 text-xs sm:text-sm mb-1">Section 383/384 IPC / Section 308 BNS</h4>
+                  <h5 className="font-bold text-slate-900 text-xs sm:text-sm mb-1">Section 383/384 IPC / Section 308 BNS</h5>
                   <p className="text-xs text-slate-600 leading-relaxed">
                     <strong>Extortion:</strong> Putting someone in fear of arrest to demand money is criminal extortion. It carries up to 3 years in jail.
                   </p>
@@ -601,7 +601,7 @@ export default function FakeCourtNoticeWhatsAppPage() {
             </section>
 
             <section id="bank-npa-accounting-npv-formula" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">4. Bank Balance Sheet Economics</h2>
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">4. Bank Balance Sheet Economics</h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 To understand why agencies send fake notices, look at bank economics. Under RBI Prudential Norms (IRACP), an unsecured loan becomes a Non-Performing Asset (NPA) after 90 days of default.
               </p>
@@ -653,7 +653,7 @@ export default function FakeCourtNoticeWhatsAppPage() {
             </section>
 
             <section id="criminal-proceedings-fir-cyber-crime" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">6. Step-by-Step Criminal &amp; Regulatory Action</h2>
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">6. Step-by-Step Criminal &amp; Regulatory Action</h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 When you get a fake notice on WhatsApp, do not panic or argue with agents. Follow this step-by-step legal plan:
               </p>
@@ -703,7 +703,7 @@ export default function FakeCourtNoticeWhatsAppPage() {
             </section>
 
             <section id="civil-procedure-real-summons-protocols" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">7. Civil Court Realities</h2>
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">7. Civil Court Realities</h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 To spot fake summons, you should know the legal rules for court notices. Order V Rule 9 CPC sets the exact procedure for serving court summons:
               </p>
@@ -719,7 +719,7 @@ export default function FakeCourtNoticeWhatsAppPage() {
             </section>
 
             <section id="direct-bank-settlement-ots-cibil" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">8. Direct Bank Settlement Protocols</h2>
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">8. Direct Bank Settlement Protocols</h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Never pay money directly to recovery agents or through unverified links. Agents often claim that paying ₹25,000 will cancel an arrest warrant. In truth, that money goes to penalties and agent fees, leaving the debt unpaid.
               </p>
@@ -760,7 +760,7 @@ export default function FakeCourtNoticeWhatsAppPage() {
             </section>
 
             <section id="comparative-matrix-fake-vs-real-notices" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">9. Comparative Verification Matrix</h2>
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">9. Comparative Verification Matrix</h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 The comparative matrix below details the crucial procedural, structural, and legal distinctions between authentic judicial summons and forged electronic notices dispatched by recovery agencies:
               </p>
@@ -813,7 +813,7 @@ export default function FakeCourtNoticeWhatsAppPage() {
 
             <section id="settleloans-legal-defense-framework" className="space-y-6">
               <div className="border-t border-slate-200 pt-8 space-y-4">
-                <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">10. SettleLoans Legal Relief</h2>
+                <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">10. SettleLoans Legal Relief</h3>
                 <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                   Getting fake legal notices and arrest threats on WhatsApp can be stressful. At SettleLoans, our banking advocates and debt resolution experts protect borrowers. We file formal legal notices, issue Cease-and-Desist directives, and report rogue agencies. We also negotiate 40% to 65% One-Time Settlements with official bank No Dues Certificates.
                 </p>
@@ -825,7 +825,7 @@ export default function FakeCourtNoticeWhatsAppPage() {
             <section id="faqs" className="space-y-4 border-t border-slate-200 pt-8">
               <div className="flex items-center gap-2 mb-2">
                 <HelpCircle className="w-5 h-5 text-[#1F5EFF]" />
-                <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">11. FAQs: Fake Court Notices &amp; Recovery Agent Forgery</h2>
+                <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">11. FAQs: Fake Court Notices &amp; Recovery Agent Forgery</h3>
               </div>
               <p className="text-xs sm:text-sm text-slate-600 mb-6">
                 Clear, legally verified answers regarding forged WhatsApp court summons, Section 338 BNS / Section 466 IPC protections, and debt resolution procedures in India.
@@ -855,9 +855,9 @@ export default function FakeCourtNoticeWhatsAppPage() {
 
             {/* 5 Official Regulatory Links */}
             <section className="border-t border-slate-200 pt-8 mb-4">
-              <h3 className="text-xs sm:text-sm font-bold text-slate-900 mb-3 uppercase tracking-wider">
+              <h4 className="text-xs sm:text-sm font-bold text-slate-900 mb-3 uppercase tracking-wider">
                 Official Statutory &amp; Regulatory References
-              </h3>
+              </h4>
               <div className="grid grid-cols-1 sm:grid-cols-2 gap-2.5 text-xs">
                 <a
                   href="https://services.ecourts.gov.in"
@@ -909,9 +909,9 @@ export default function FakeCourtNoticeWhatsAppPage() {
 
             {/* 10 Related Guide Badges */}
             <section className="border-t border-slate-200 pt-8 mb-8">
-              <h3 className="text-xs sm:text-sm font-bold text-slate-900 mb-4 uppercase tracking-wider">
+              <h4 className="text-xs sm:text-sm font-bold text-slate-900 mb-4 uppercase tracking-wider">
                 Related Legal Defense &amp; Loan Settlement Guides
-              </h3>
+              </h4>
               <div className="flex flex-wrap gap-2">
                 <Link
                   href="/bank-recovery-agent-threatening-me"

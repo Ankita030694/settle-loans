@@ -496,7 +496,7 @@ export default function DpdpActViolationComplaintAgainstLoanAppsPage() {
 
             {/* Section 2: DPDP Act 2023 Statutory Architecture */}
             <section id="dpdp-act-2023-statutory-framework" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">2. The DPDP Act 2023 Statutory Architecture</h2>
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">2. The DPDP Act 2023 Statutory Architecture</h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 The DPDP Act 2023 protects loan borrowers across India. The law calls the borrower a &quot;Data Principal&quot;. It calls the lender a &quot;Data Fiduciary&quot;. The Act sets strict rules on collecting, using. And deleting data.
               </p>
@@ -505,10 +505,10 @@ export default function DpdpActViolationComplaintAgainstLoanAppsPage() {
               </p>
 
               <div className="bg-slate-50 border border-slate-200 rounded-2xl p-5 my-4 space-y-4">
-                <h3 className="text-xs sm:text-sm font-bold text-slate-900 uppercase tracking-wider flex items-center gap-2">
+                <h4 className="text-xs sm:text-sm font-bold text-slate-900 uppercase tracking-wider flex items-center gap-2">
                   <Scale className="w-4 h-4 text-[#1F5EFF]" />
                   <span>Key DPDP Act 2023 Statutory Provisions Governing Loan Apps</span>
-                </h3>
+                </h4>
                 <div className="space-y-3 text-xs sm:text-sm text-slate-700">
                   <div className="p-3.5 bg-white rounded-xl border border-slate-200">
                     <p className="font-bold text-slate-900">Section 6: Forced and Bundled Consent is Void.</p>
@@ -544,7 +544,7 @@ export default function DpdpActViolationComplaintAgainstLoanAppsPage() {
 
             {/* Section 3: RBI Digital Lending Directives */}
             <section id="rbi-digital-lending-guidelines-permissions" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">3. RBI Digital Lending Directives vs. Predatory Mobile App</h2>
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">3. RBI Digital Lending Directives vs. Predatory Mobile App</h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 The DPDP Act aligns with Reserve Bank of India rules. On September 2, 2022, the RBI issued its Digital Lending Guidelines (Circular RBI/2022-23/111 DOR.CRE.REC.66/21.07.001/2022-23). These rules apply to all banks, NBFCs. And lending apps.
               </p>
@@ -553,10 +553,10 @@ export default function DpdpActViolationComplaintAgainstLoanAppsPage() {
               </p>
 
               <div className="bg-slate-50 border border-slate-200 rounded-2xl p-5 my-4">
-                <h3 className="font-bold text-slate-900 text-sm mb-3 flex items-center gap-2">
+                <h4 className="font-bold text-slate-900 text-sm mb-3 flex items-center gap-2">
                   <ShieldCheck className="w-4 h-4 text-[#1F5EFF]" />
                   <span>Mandatory RBI Digital Lending Standards</span>
-                </h3>
+                </h4>
                 <div className="grid grid-cols-1 sm:grid-cols-2 gap-3 text-xs text-slate-700">
                   <div className="p-3 bg-white rounded-xl border border-slate-200">
                     <p className="font-bold text-slate-900 mb-1">Strict Ban on Access to Contacts and Media.</p>
@@ -584,7 +584,7 @@ export default function DpdpActViolationComplaintAgainstLoanAppsPage() {
 
             {/* Section 4: Penal Liabilities, Blackmail & Cyber Crime Sanctions */}
             <section id="criminal-penal-liabilities-bns-it-act" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">4. Penal Liabilities, Blackmail &amp; Cyber Crime Sanctions</h2>
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">4. Penal Liabilities, Blackmail &amp; Cyber Crime Sanctions</h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Threatening borrowers or sharing morphed pictures is a crime. Such conduct triggers immediate criminal liability.
               </p>
@@ -646,7 +646,7 @@ export default function DpdpActViolationComplaintAgainstLoanAppsPage() {
 
             {/* Section 6: Data Protection Board of India Filing Procedure */}
             <section id="data-protection-board-complaint-procedure" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">6. Step-by-Step Legal Procedure</h2>
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">6. Step-by-Step Legal Procedure</h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Borrowers must follow a clear legal path under the DPDP Act. A structured four-stage plan ensures swift action:
               </p>
@@ -691,7 +691,7 @@ export default function DpdpActViolationComplaintAgainstLoanAppsPage() {
 
             {/* Section 7: Fintech Accounting & NPV Recovery Calculus */}
             <section id="fintech-accounting-data-penalties-npv" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">7. Fintech NPA Accounting Realities</h2>
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">7. Fintech NPA Accounting Realities</h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Apps use aggressive collection because micro-loans are unsecured. Unlike home loans, digital loans carry no collateral.
               </p>
@@ -728,7 +728,7 @@ export default function DpdpActViolationComplaintAgainstLoanAppsPage() {
 
             {/* Section 8: Direct OTS Negotiation, Cease-and-Desist Notices & NDC */}
             <section id="cease-desist-evidence-preservation-ots" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">8. Cease-and-Desist Notices, Evidence Preservation</h2>
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">8. Cease-and-Desist Notices, Evidence Preservation</h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Never pay cash or UPI sums without official papers. Rogue agents pocket the money, leaving the loan active.
               </p>
@@ -764,7 +764,7 @@ export default function DpdpActViolationComplaintAgainstLoanAppsPage() {
 
             {/* Section 9: Comparative Enforcement Matrix */}
             <section id="comparative-statutory-protection-matrix" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">9. Comparative DPDP Enforcement &amp; Debt Matrix</h2>
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">9. Comparative DPDP Enforcement &amp; Debt Matrix</h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 The table below outlines legal mandates and fines under Indian digital lending laws:
               </p>
@@ -824,7 +824,7 @@ export default function DpdpActViolationComplaintAgainstLoanAppsPage() {
             {/* Section 10: SettleLoans Cyber-Legal Defense Framework */}
             <section id="settleloans-cyber-legal-defense" className="space-y-6">
               <div className="border-t border-slate-200 pt-8 space-y-4">
-                <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">10. SettleLoans Cyber-Legal Defense Framework</h2>
+                <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">10. SettleLoans Cyber-Legal Defense Framework</h3>
                 <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                   No borrower should face cyber threats, phonebook theft, or family harassment from loan apps. SettleLoans provides swift legal defense against predatory lenders across India. Our legal team serves Cease-and-Desist notices under the DPDP Act and RBI rules. We file complaints with the DPBI and cyber police. We negotiate 40% to 70% One-Time Settlements with official No Dues Certificates.
                 </p>
@@ -838,7 +838,7 @@ export default function DpdpActViolationComplaintAgainstLoanAppsPage() {
             <section id="faqs" className="space-y-4 border-t border-slate-200 pt-8">
               <div className="flex items-center gap-2 mb-2">
                 <HelpCircle className="w-5 h-5 text-[#1F5EFF]" />
-                <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">11. FAQs: DPDP Act &amp; Predatory Loan App Complaints</h2>
+                <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">11. FAQs: DPDP Act &amp; Predatory Loan App Complaints</h3>
               </div>
               <p className="text-xs sm:text-sm text-slate-600 mb-6">
                 Verified legal answers regarding the Digital Personal Data Protection Act 2023, Data Protection Board complaints, contact scraping prohibitions. And debt resolution.
@@ -868,9 +868,9 @@ export default function DpdpActViolationComplaintAgainstLoanAppsPage() {
 
             {/* 5 Official Regulatory Links */}
             <section className="border-t border-slate-200 pt-8 mb-4">
-              <h3 className="text-xs sm:text-sm font-bold text-slate-900 mb-3 uppercase tracking-wider">
+              <h4 className="text-xs sm:text-sm font-bold text-slate-900 mb-3 uppercase tracking-wider">
                 Official Statutory &amp; Regulatory References
-              </h3>
+              </h4>
               <div className="grid grid-cols-1 sm:grid-cols-2 gap-2.5 text-xs">
                 <a
                   href="https://www.meity.gov.in"
@@ -922,9 +922,9 @@ export default function DpdpActViolationComplaintAgainstLoanAppsPage() {
 
             {/* 10 Related Guide Badges */}
             <section className="border-t border-slate-200 pt-8 mb-8">
-              <h3 className="text-xs sm:text-sm font-bold text-slate-900 mb-4 uppercase tracking-wider">
+              <h4 className="text-xs sm:text-sm font-bold text-slate-900 mb-4 uppercase tracking-wider">
                 Related Cyber Legal Defense &amp; Loan Settlement Guides
-              </h3>
+              </h4>
               <div className="flex flex-wrap gap-2">
                 <Link
                   href="/cyber-crime-complaint-illegal-loan-apps-blackmail"

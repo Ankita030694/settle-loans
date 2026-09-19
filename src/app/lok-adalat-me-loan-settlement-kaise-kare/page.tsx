@@ -86,7 +86,7 @@ const jsonLdGraph = {
       "@type": "Article",
       "@id": "https://www.settleloans.in/lok-adalat-me-loan-settlement-kaise-kare#article",
       "headline": "Lok Adalat Me Loan Settlement Kaise Kare: Legal Process, Notice Rules & Spot OTS Haircut",
-      "description": "An exhaustive, forensic legal guide for Indian borrowers on settling defaulted personal loans, credit cards, and business debts in National Lok Adalat. Learn DLSA conciliation rules, Section 21 court decree finality, and step-by-step negotiation tactics for maximum waiver.",
+      "description": "An exhaustive, forensic legal guide for Indian borrowers on settling defaulted personal loans, credit cards, and business debts in National Lok Adalat. Learn DLSA conciliation rules, Section 21 court decree finality, and step-by-step talks tactics for maximum waiver.",
       "image": "https://www.settleloans.in/images/infographics/lok-adalat-me-loan-settlement-kaise-kare.jpg",
       "datePublished": "2026-08-26T11:12:44+05:30",
       "dateModified": "2026-08-26T11:12:44+05:30",
@@ -155,7 +155,7 @@ const jsonLdGraph = {
           "name": "Lok Adalat me personal loan ya credit card par kitna discount ya haircut mil sakta hai?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "In National Lok Adalat sessions, banks and NBFCs typically approve discounts ranging between 40% and 75% of the total outstanding demand for unsecured personal loans and credit cards. In virtually every approved compromise, 100% of accumulated penal interest, late payment penalties, bounce charges, and administrative costs are completely waived off. Furthermore, for seasoned Non-Performing Assets (NPAs past 180 to 360+ days), banks regularly agree to a 20% to 50% write-off on the core principal amount, depending on the borrower's documented financial distress."
+            "text": "In National Lok Adalat sessions, banks and NBFCs typically approve discounts ranging between 40% and 75% of the total outstanding demand for unsecured personal loans and credit cards. In virtually every approved compromise, 100% of accumulated penal interest, late payment penalties, bounce charges, and administrative costs are completely waived off. also, for seasoned Non-Performing Assets (NPAs past 180 to 360+ days), banks regularly agree to a 20% to 50% write-off on the core principal amount, depending on the borrower's documented financial distress."
           }
         },
         {
@@ -163,7 +163,7 @@ const jsonLdGraph = {
           "name": "Kya Lok Adalat me settlement hone par court fees lagti hai?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "No. One of the greatest statutory advantages of Lok Adalat is that there is zero court fee payable by either party. Furthermore, under Section 21(1) of the Legal Services Authorities Act, 1987, read with Section 16 of the Court Fees Act, 1870, if a formal civil suit was already pending in a regular court and the parties resolve the dispute in Lok Adalat, the entire court fee previously deposited by the plaintiff is fully refunded. This zero-fee structure significantly reduces resolution costs for both borrowers and financial institutions."
+            "text": "No. One of the greatest statutory advantages of Lok Adalat is that there is zero court fee payable by either party. also, under Section 21(1) of the Legal Services Authorities Act, 1987, read with Section 16 of the Court Fees Act, 1870, if a formal civil suit was already pending in a regular court and the parties resolve the dispute in Lok Adalat, the entire court fee previously deposited by the plaintiff is fully refunded. This zero-fee structure significantly reduces resolution costs for both borrowers and financial institutions."
           }
         },
         {
@@ -187,7 +187,7 @@ const jsonLdGraph = {
           "name": "Lok Adalat settlement ke baad CIBIL score par kya asar padta hai aur No Dues Certificate kab milta hai?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Following full payment of the agreed settlement sum, the lending institution updates the loan account status with credit bureaus (CIBIL, Experian, Equifax, CRIF) as 'Settled' or 'Post-Lok Adalat Settled' with a ₹0 balance. While a 'Settled' remark causes an initial credit score drop of 50 to 100 points, it halts continuous negative overdue compounding (DPD). Under RBI Circular RBI/2023-24/60, the bank is legally obligated to deliver an official stamped No Dues Certificate within 30 days of payment, subject to a ₹5,000 per day compensation penalty for unjustified delays."
+            "text": "Following full payment of the agreed settlement sum, the lending institution updates the loan account status with credit bureaus (CIBIL, Experian, Equifax, CRIF) as 'Settled' or 'Post-Lok Adalat Settled' with a ₹0 balance. While a 'Settled' remark causes an initial credit score drop of 50 to 100 points, it halts continuous negative overdue compounding (DPD). Under RBI Circular RBI/2023-24/60, the bank is legally obligated to deliver an official stamped No Dues Certificate within 30 days of payment, subject to a ₹5,000 per day relief penalty for unjustified delays."
           }
         },
         {
@@ -291,7 +291,7 @@ const jsonLdGraph = {
             "name": "Kavita Nair"
           },
           "datePublished": "2026-07-29",
-          "reviewBody": "Superb legal guidance on how Lok Adalat loan settlement works in India. The team calculated the bank Net Present Value recovery formula beforehand, giving us immense negotiation leverage before the District Judge bench. We closed a ₹5.2 Lakh Axis Bank loan at a 64% total haircut with complete peace of mind.",
+          "reviewBody": "Superb legal guidance on how Lok Adalat loan settlement works in India. The team calculated the bank Net Present Value recovery formula beforehand, giving us immense talks leverage before the District Judge bench. We closed a ₹5.2 Lakh Axis Bank loan at a 64% total haircut with complete peace of mind.",
           "reviewRating": {
             "@type": "Rating",
             "ratingValue": "5",

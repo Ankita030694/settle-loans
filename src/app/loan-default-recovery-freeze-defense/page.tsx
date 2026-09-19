@@ -272,9 +272,9 @@ export default function RecoveryFreezeDefensePage() {
                         </section>
 
                         <section id="sarfaesi-defense" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
                                 SARFAESI Defense (Section 13): Challenging the Process
-                            </h2>
+                            </h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 The SARFAESI Act is the bank's favorite tool because it allows for 'Out of Court' recovery. However, this same Act is riddled with procedural requirements that banks frequently overlook or cut corners on. Section 13(2) notice is the first shot across the bow, and your reply to this notice is your first chance to freeze the recovery. Not many know that under Section 13(3A), the bank is legally required to respond to your objections within 15 days. Failure to provide a 'Reasoned Reply' is in itself a ground to set aside all future recovery actions.
                             </p>
@@ -282,7 +282,7 @@ export default function RecoveryFreezeDefensePage() {
                                 When the bank moves to Section 13(4) — taking 'Symbolic Possession' — they create a window for you to approach the DRT. Challenging the validity of these notices requires a microscope. Was the notice served correctly? Was it published in two leading newspapers as per the Security Interest (Enforcement) Rules, 2002? Was the valuation of the property done by an approved valuer? Any slip in these technicalities can be used to obtain a status quo order, effectively freezing the recovery process in its tracks.
                             </p>
                             <div className="bg-gray-50 p-8 rounded-xl border border-gray-200 mb-8 font-bold">
-                                <h3 className="text-xl font-bold mb-6 text-[#1F5EFF]">Strategic SARFAESI Checkpoints</h3>
+                                <h4 className="text-xl font-bold mb-6 text-[#1F5EFF]">Strategic SARFAESI Checkpoints</h4>
                                 <div className="grid md:grid-cols-2 gap-4 text-sm uppercase">
                                     <div className="flex items-center gap-3 bg-white p-3 rounded-lg shadow-sm border border-gray-100">
                                         <div className="w-2 h-2 bg-red-500 rounded-full"></div>
@@ -305,9 +305,9 @@ export default function RecoveryFreezeDefensePage() {
                         </section>
 
                         <section id="drt-litigation-sa" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
                                 DRT Litigation (SA): The Filing for Status Quo
-                            </h2>
+                            </h3>
                             <p className="text-lg leading-relaxed mb-6 font-medium text-gray-700">
                                 The Debt Recovery Tribunal (DRT) is a quasi-judicial body where you file a Securitisation Application (SA) under Section 17. This is your primary battlefield. Filing an SA is more than just a complaint; it is a full-scale legal challenge to the bank's authority to recover. When you file an SA, your immediate prayer is for an 'Interlocutory Application' (IA) for a stay on recovery.
                             </p>
@@ -318,29 +318,29 @@ export default function RecoveryFreezeDefensePage() {
                             <div className="relative border-l-2 border-dashed border-[#1F5EFF]/30 pl-8 ml-4 space-y-12 mb-12">
                                 <div className="relative">
                                     <div className="absolute -left-11 top-0 w-6 h-6 bg-[#1F5EFF] rounded-full border-4 border-white shadow-sm flex items-center justify-center text-[10px] text-white font-bold">1</div>
-                                    <h3 className="font-bold text-xl mb-3 uppercase tracking-tighter">Drafting the Securitisation Application</h3>
+                                    <h4 className="font-bold text-xl mb-3 uppercase tracking-tighter">Drafting the Securitisation Application</h4>
                                     <p className="text-gray-600 leading-relaxed text-sm">We detail every single technical error the bank committed. This document becomes the foundation of your recovery freeze.</p>
                                 </div>
                                 <div className="relative">
                                     <div className="absolute -left-11 top-0 w-6 h-6 bg-[#1F5EFF] rounded-full border-4 border-white shadow-sm flex items-center justify-center text-[10px] text-white font-bold">2</div>
-                                    <h4 className="font-bold text-xl mb-3 uppercase tracking-tighter">Pressing for Interim Stay</h4>
+                                    <h5 className="font-bold text-xl mb-3 uppercase tracking-tighter">Pressing for Interim Stay</h5>
                                     <p className="text-gray-600 leading-relaxed text-sm">We argue the 'Balance of Convenience'. If the auction happens before the case is heard, the borrower suffers irreparable loss.</p>
                                 </div>
                                 <div className="relative">
                                     <div className="absolute -left-11 top-0 w-6 h-6 bg-[#1F5EFF] rounded-full border-4 border-white shadow-sm flex items-center justify-center text-[10px] text-white font-bold">3</div>
-                                    <h4 className="font-bold text-xl mb-3 uppercase tracking-tighter">The Conditional Stay Order</h4>
+                                    <h5 className="font-bold text-xl mb-3 uppercase tracking-tighter">The Conditional Stay Order</h5>
                                     <p className="text-gray-600 leading-relaxed text-sm">The DRT often grants a stay conditioned on a deposit. This order is a major victory as it prevents the sale of your asset.</p>
                                 </div>
                                 <div className="relative">
                                     <div className="absolute -left-11 top-0 w-6 h-6 bg-[#1F5EFF] rounded-full border-4 border-white shadow-sm flex items-center justify-center text-[10px] text-white font-bold">4</div>
-                                    <h4 className="font-bold text-xl mb-3 uppercase tracking-tighter">Negotiating from Strength</h4>
+                                    <h5 className="font-bold text-xl mb-3 uppercase tracking-tighter">Negotiating from Strength</h5>
                                     <p className="text-gray-600 leading-relaxed text-sm">With the recovery frozen, the bank's NPA targets are at risk. They are much more likely to agree to a One-Time Settlement (OTS).</p>
                                 </div>
                             </div>
                         </section>
 
                         <section id="procedural-lapses" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">How Procedural Lapses Freeze Recovery Actions</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">How Procedural Lapses Freeze Recovery Actions</h3>
                             <p className="mb-6 text-lg leading-relaxed">
                                 In the rush to meet quarterly recovery targets, banks often bypass mandatory rules. A missing date in the newspaper publication, an auction notice sent via WhatsApp instead of registered post, or a valuation done by a bank employee instead of a government-approved valuer — these are not 'minor' errors. Under the law of 'Strict Compliance', these lapses can invalidate the entire recovery process.
                             </p>
@@ -350,28 +350,28 @@ export default function RecoveryFreezeDefensePage() {
                         </section>
 
                         <section id="npa-classification-challenge" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">NPA Classification: The Foundation of Defense</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">NPA Classification: The Foundation of Defense</h3>
                             <p className="mb-6 text-lg leading-relaxed">
                                 A bank cannot trigger SARFAESI unless the account is a 'Non-Performing Asset' (NPA). However, NPA classification is governed by complex RBI Pru-norms. If a bank declares you NPA on day 89 (instead of after day 90), or if they ignore a payment that brings the account below the NPA threshold, their entire recovery process is illegal ab-initio (from the start). Challenging the 'NPA Date' is a high-level defense that can dismantle a bank's case completely.
                             </p>
                         </section>
 
                         <section id="agricultural-exclusion" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 uppercase tracking-tighter">Agricultural Land: The Untouchable Asset</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 uppercase tracking-tighter">Agricultural Land: The Untouchable Asset</h3>
                             <p className="mb-6 text-lg leading-relaxed">
                                 Section 31(i) of the SARFAESI Act is a powerful exemption. It states that the Act does not apply to security interest created on agricultural land. Banks often try to circumvent this by arguing that the land is not being used for farming or that it has been converted. We defend such cases by providing 'Khasra-Khatouni' records and crop evidence, proving the agricultural nature of the land and immediately freezing the bank's attempt to seizure.
                             </p>
                         </section>
 
                         <section id="twenty-percent-debt-rule" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 underline decoration-[#1F5EFF] decoration-double">The 20% Debt Rule: A Shield For Tiny Balances</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 underline decoration-[#1F5EFF] decoration-double">The 20% Debt Rule: A Shield For Tiny Balances</h3>
                             <p className="mb-6 text-lg leading-relaxed">
                                 Section 31(j) provides another vital freeze mechanism. If the remaining debt (principal + interest) is less than 20% of the original debt, the SARFAESI Act cannot be invoked. This is designed to prevent banks from seizing large assets for small unpaid balances. If you have paid back 80% or more of your total debt, any attempt at physical recovery using SARFAESI can be legally frozen based on this single provision.
                             </p>
                         </section>
 
                         <section id="stay-vs-injunction" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 uppercase italic underline decoration-blue-500">Stay vs Injunction: Understanding Your Relief</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 uppercase italic underline decoration-blue-500">Stay vs Injunction: Understanding Your Relief</h3>
                             <p className="mb-6 text-lg leading-relaxed">
                                 While often used interchangeably by laypersons, a 'Stay' and an 'Injunction' are distinct legal instruments with different applications in recovery freeze defense. A Stay Order typically stops the execution of an already passed order or a notice (like a Section 13(4) notice). An Injunction, however, is a proactive order that prevents the bank from taking a specific future action, such as publicizing an auction or selling the asset to a third party.
                             </p>
@@ -381,7 +381,7 @@ export default function RecoveryFreezeDefensePage() {
                         </section>
 
                         <section id="high-court-writs" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">High Court Writs: The Last Line of Constitutional Defense</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">High Court Writs: The Last Line of Constitutional Defense</h3>
                             <p className="mb-6 text-lg leading-relaxed">
                                 While the Debt Recovery Tribunal is the primary forum, there are situations where the DRT itself may be unavailable (due to vacancies) or where the bank's action is such a blatant violation of constitutional rights that the High Court must intervene. A Writ Petition under Article 226 of the Constitution of India can be used to freeze recovery if the bank has acted with 'Manifest Injustice'.
                             </p>
@@ -389,7 +389,7 @@ export default function RecoveryFreezeDefensePage() {
                                 High Courts are generally hesitant to interfere in SARFAESI matters because of the Supreme Court's ruling in the *United Bank of India vs Satyawati Tondon* case. However, exceptions exist for 'Alternative Remedy' being ineffective. If the DRT is non-functional or if the bank is trying to recover debt that is clearly time-barred under the Limitation Act, the High Court can exercise its extraordinary jurisdiction to grant an ad-interim stay. This is a path for 'Extreme Recovery Situations'.
                             </p>
                             <div className="bg-orange-50 p-8 rounded-2xl border border-orange-100 mb-8">
-                                <h3 className="text-xl font-bold text-orange-800 mb-4">When to Choose High Court Over DRT?</h3>
+                                <h4 className="text-xl font-bold text-orange-800 mb-4">When to Choose High Court Over DRT?</h4>
                                 <ul className="space-y-4">
                                     <li className="flex items-start gap-2">
                                         <span className="text-orange-500 font-bold">●</span>
@@ -408,7 +408,7 @@ export default function RecoveryFreezeDefensePage() {
                         </section>
 
                         <section id="digital-evidence-recovery" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Digital Evidence: The New Frontier of Recovery Freeze</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Digital Evidence: The New Frontier of Recovery Freeze</h3>
                             <p className="mb-6 text-lg leading-relaxed">
                                 In the digital age, recovery is not just about papers; it is about timestamps. Banks often claim to have sent notices via registered post, but digital tracking logs can often prove otherwise. We use 'Digital Forensics' to track service of notice. If a bank claims they sent a notice but the 'India Post' tracking shows it was only booked after the supposed auction was announced, it constitutes a fatal flaw in the recovery process.
                             </p>
@@ -418,11 +418,11 @@ export default function RecoveryFreezeDefensePage() {
                         </section>
 
                         <section id="settleloans-litigation-shield" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Our Litigation Shield: Why SettleLoans?</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Our Litigation Shield: Why SettleLoans?</h3>
                             <div className="bg-[#2E2E2E] text-white p-10 rounded-[40px] shadow-2xl relative overflow-hidden mb-12">
                                 <div className="absolute top-0 right-0 w-64 h-64 bg-[#1F5EFF]/20 rounded-full -mr-32 -mt-32 blur-3xl"></div>
                                 <div className="relative z-10">
-                                    <h3 className="text-3xl font-black mb-8">The Recovery Freeze Protocol</h3>
+                                    <h4 className="text-3xl font-black mb-8">The Recovery Freeze Protocol</h4>
                                     <ul className="space-y-6">
                                         <li className="flex items-start gap-4">
                                             <div className="w-8 h-8 rounded-full bg-[#1F5EFF] flex items-center justify-center flex-shrink-0 text-sm font-bold">1</div>
@@ -458,7 +458,7 @@ export default function RecoveryFreezeDefensePage() {
                         </section>
 
                         <section id="victory-case-studies" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 text-center uppercase tracking-widest">Defense Victories</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 text-center uppercase tracking-widest">Defense Victories</h3>
                             <div className="grid md:grid-cols-2 gap-6 not-prose">
                                 {[
                                     {
@@ -496,7 +496,7 @@ export default function RecoveryFreezeDefensePage() {
                                                 {s.name.charAt(0)}
                                             </div>
                                             <div>
-                                                <h3 className="font-bold text-[#2E2E2E] leading-tight">{s.name}</h3>
+                                                <h4 className="font-bold text-[#2E2E2E] leading-tight">{s.name}</h4>
                                                 <p className="text-xs text-gray-500 font-bold">{s.loc}</p>
                                             </div>
                                             <div className="ml-auto text-yellow-400 text-sm">★★★★★</div>
@@ -511,7 +511,7 @@ export default function RecoveryFreezeDefensePage() {
                         </section>
 
                         <section id="faqs" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Frequently Asked Questions</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Frequently Asked Questions</h3>
                             <div className="space-y-4 not-prose">
                                 {[
                                     { q: "Can I file an SA in DRT without a lawyer?", a: "While legally allowed, it is extremely risky. SARFAESI law is highly technical. One wrong statement can lead to the dismissal of your stay application and the instant loss of your property." },
@@ -550,7 +550,7 @@ export default function RecoveryFreezeDefensePage() {
                         <div className="lg:hidden mt-16 mb-8">
                             <div className="bg-[#1F5EFF] text-white p-10 rounded-[40px] shadow-2xl relative overflow-hidden">
                                 <div className="absolute top-0 left-0 w-full h-full bg-[radial-gradient(circle_at_top_right,_var(--tw-gradient-stops))] from-white/20 to-transparent"></div>
-                                <h3 className="text-2xl font-black mb-6 relative z-10">Freeze The Recovery</h3>
+                                <h4 className="text-2xl font-black mb-6 relative z-10">Freeze The Recovery</h4>
                                 <p className="text-lg mb-8 relative z-10 font-bold p-2 bg-black/10 rounded-lg">
                                     Received a SARFAESI notice? Don't wait for the hammer to fall. Let our litigation experts build your defense shield today.
                                 </p>

@@ -274,9 +274,9 @@ export default function InitiateSettlementPage() {
             </section>
 
             <section id="what-is-ff-settlement" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
                 Defining Full and Final Settlement: The Legal Reality
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 A Full and Final settlement is a legal agreement where the borrower pays a single lump sum (or a few installments) that is less than the total outstanding amount, and the lender agrees to discharge the borrower from all further liabilities. Legally, this is known as "Accord and Satisfaction."
               </p>
@@ -287,7 +287,7 @@ export default function InitiateSettlementPage() {
                 However, this doesn't come for free. The trade-off is your credit score. When you settle, your CIBIL report will show the status "Settled" for that particular loan. This is different from "Closed," which means you paid every rupee as per the original agreement. A settled status can stay on your report for up to seven years, affecting your ability to take new loans in the near future. Understanding this trade-off is the first step in deciding to initiate the discussion.
               </p>
               <div className="bg-gray-50 p-8 rounded-xl border border-gray-200 mb-8">
-                <h3 className="text-xl font-bold mb-6">The Three Pillars of a Successful F&F Settlement</h3>
+                <h4 className="text-xl font-bold mb-6">The Three Pillars of a Successful F&F Settlement</h4>
                 <ul className="grid md:grid-cols-1 gap-4 text-sm font-medium">
                   <li className="flex items-start gap-3">
                     <span className="flex-shrink-0 w-6 h-6 bg-[#1F5EFF] text-white rounded-full flex items-center justify-center text-xs">1</span>
@@ -306,9 +306,9 @@ export default function InitiateSettlementPage() {
             </section>
 
             <section id="ideal-timing" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
                 Timing the Discussion: When to Hit the "Settle" Button
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 Timing is everything in debt negotiation. If you try to settle the very next day after missing your first EMI, the bank will likely refuse. At that stage, they believe their regular recovery processes can still get the full money from you. On the other hand, if you wait for years, the legal penalties and interest might have doubled the debt, making even a 50% settlement very expensive.
               </p>
@@ -324,25 +324,25 @@ export default function InitiateSettlementPage() {
             </section>
 
             <section id="preparing-dossier" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Building Your Case: The Financial Dossier</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Building Your Case: The Financial Dossier</h3>
               <p className="mb-6">
                 Before you even pick up the phone, you must gather your evidence. The bank will not agree to a settlement just because you say you are in trouble. They need to show their auditors that they did their "due diligence" before accepting a loss. Your dossier should include:
               </p>
               <div className="space-y-6">
                 <div className="bg-white p-6 rounded-xl border border-[#DEDEDE] shadow-sm">
-                  <h3 className="font-bold text-[#1F5EFF] mb-2 uppercase text-xs tracking-widest">Category 1: Hardship Evidence</h3>
+                  <h4 className="font-bold text-[#1F5EFF] mb-2 uppercase text-xs tracking-widest">Category 1: Hardship Evidence</h4>
                   <p className="text-sm leading-relaxed">
                     This is the "Why" of your settlement. If you lost your job, include the termination letter. If it was a medical crisis, gather hospital discharge summaries and major bills. If your business failed, include CA certified balance sheets showing the loss. This is the emotional and factual core of your request.
                   </p>
                 </div>
                 <div className="bg-white p-6 rounded-xl border border-[#DEDEDE] shadow-sm">
-                  <h4 className="font-bold text-[#1F5EFF] mb-2 uppercase text-xs tracking-widest">Category 2: Financial Transparency</h4>
+                  <h5 className="font-bold text-[#1F5EFF] mb-2 uppercase text-xs tracking-widest">Category 2: Financial Transparency</h5>
                   <p className="text-sm leading-relaxed">
                     Pull your bank statements for the last 12 months for ALL your accounts. Scrutinize them yourself first. The bank will look for "unnecessary spends" or hidden income. You want to show a clear pattern of declining balance and genuine lack of funds.
                   </p>
                 </div>
                 <div className="bg-white p-6 rounded-xl border border-[#DEDEDE] shadow-sm">
-                  <h4 className="font-bold text-[#1F5EFF] mb-2 uppercase text-xs tracking-widest">Category 3: The Hardship Letter</h4>
+                  <h5 className="font-bold text-[#1F5EFF] mb-2 uppercase text-xs tracking-widest">Category 3: The Hardship Letter</h5>
                   <p className="text-sm leading-relaxed">
                     This is a 1 to 2 page document that summarizes your situation. It should be respectful, factual, and clear. Avoid sounding aggressive or entitled. State clearly: "Due to [X event], I can no longer service my EMI of [Y]. I wish to settle this account for a full and final amount of [Z]."
                   </p>
@@ -351,7 +351,7 @@ export default function InitiateSettlementPage() {
             </section>
 
             <section id="outreach-process" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Initiating Official Contact: Step-by-Step</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Initiating Official Contact: Step-by-Step</h3>
               <p className="mb-6 text-lg font-bold">
                 Follow this sequence to ensure your request reaches the right decision makers:
               </p>
@@ -384,31 +384,31 @@ export default function InitiateSettlementPage() {
             </section>
 
             <section id="negotiation-tactics" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Negotiation Masterclass: How to Get the Best Deal</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Negotiation Masterclass: How to Get the Best Deal</h3>
               <p className="mb-6">
                 Once the bank agrees to discuss a settlement, the real game begins. You are now in a business negotiation. Here are four tactics that can save you lakhs of rupees:
               </p>
               <div className="grid md:grid-cols-2 gap-8 mb-8">
                 <div className="bg-white p-6 rounded-xl border border-gray-100 shadow-sm">
-                  <h3 className="text-xl font-bold mb-4">The 'Anchor' Tactic</h3>
+                  <h4 className="text-xl font-bold mb-4">The 'Anchor' Tactic</h4>
                   <p className="text-sm text-gray-600 leading-relaxed mb-4">
                     Wait for the bank to give the first number. If they ask you for your offer, start low. A good starting point is often 30% of the principal outstanding. The bank will likely push back at 70%. Your goal is to meet in the middle, around 50-55%.
                   </p>
                 </div>
                 <div className="bg-white p-6 rounded-xl border border-gray-100 shadow-sm">
-                  <h3 className="text-xl font-bold mb-4">The 'Borrowed Funds' Argument</h3>
+                  <h4 className="text-xl font-bold mb-4">The 'Borrowed Funds' Argument</h4>
                   <p className="text-sm text-gray-600 leading-relaxed mb-4">
                     Tell the bank that the settlement money is not your own. Explain that family or friends are lending you this specific amount for "one last chance" to clear your name. This signals to the bank that you cannot increase the offer even if you wanted to.
                   </p>
                 </div>
                 <div className="bg-white p-6 rounded-xl border border-gray-100 shadow-sm">
-                  <h3 className="text-xl font-bold mb-4">The 'Legal Cost' Reminder</h3>
+                  <h4 className="text-xl font-bold mb-4">The 'Legal Cost' Reminder</h4>
                   <p className="text-sm text-gray-600 leading-relaxed mb-4">
                     Politely remind the officer that dragging this to court will take years and cost the bank significant legal fees. A lump sum today is worth much more to them than a uncertain legal decree five years from now.
                   </p>
                 </div>
                 <div className="bg-white p-6 rounded-xl border border-gray-100 shadow-sm">
-                  <h3 className="text-xl font-bold mb-4">The 'Multiple Settlement' Stress</h3>
+                  <h4 className="text-xl font-bold mb-4">The 'Multiple Settlement' Stress</h4>
                   <p className="text-sm text-gray-600 leading-relaxed mb-4">
                     If you have multiple loans, tell the bank: "I have 2 lakhs total to settle all my debts. Whoever gives me the best letter first gets the money." This creates competition between your lenders to close your case.
                   </p>
@@ -417,7 +417,7 @@ export default function InitiateSettlementPage() {
             </section>
 
             <section id="common-pitfalls" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Common Pitfalls to Avoid During Initiation</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Common Pitfalls to Avoid During Initiation</h3>
               <ul className="space-y-4 mb-8">
                 <li className="flex items-center gap-3 text-red-600 font-bold p-4 bg-red-50 rounded-lg">
                   <svg className="w-6 h-6 shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M12 9v2m0 4h.01m-6.938 4h13.856c1.54 0 2.502-1.667 1.732-3L13.732 4c-.77-1.333-2.694-1.333-3.464 0L3.34 16c-.77 1.333.192 3 1.732 3z"></path></svg>
@@ -435,12 +435,12 @@ export default function InitiateSettlementPage() {
             </section>
 
             <section id="legal-context" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">The RBI and Legal Landscape: Know Your Ground</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">The RBI and Legal Landscape: Know Your Ground</h3>
               <p className="mb-6">
                 The Reserve Bank of India (RBI) has issued several frameworks for "Compromise Settlements." While they don't force a bank to settle with you, they do insist on a transparent and non-discriminatory process. If you feel the bank is being unreasonable or treating you differently than other borrowers in your status, you have the right to challenge this.
               </p>
               <div className="bg-emerald-50 p-8 rounded-2xl border border-emerald-100 mb-8">
-                <h3 className="text-xl font-bold text-emerald-800 mb-4">The 2023 RBI Framework</h3>
+                <h4 className="text-xl font-bold text-emerald-800 mb-4">The 2023 RBI Framework</h4>
                 <p className="mb-4 text-emerald-900/80">
                   Recent RBI guidelines have streamlined the settlement process for REs (Regulated Entities). This has made it easier for banks to "write off" bad loans and accept settlements without fear of being investigated for corruption. This works in your favor as a borrower looking for an initiation.
                 </p>
@@ -448,33 +448,33 @@ export default function InitiateSettlementPage() {
             </section>
 
             <section id="professional-help" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Why Professional Guidance Makes a Difference</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Why Professional Guidance Makes a Difference</h3>
               <p className="mb-6">
                 Initiating a settlement is like going to court; while you can represent yourself, having an expert increases your chances of success exponentially. Professional firms understand the "target rates" of different banks and know exactly which legal buzzwords will get the committee's attention.
               </p>
             </section>
 
             <section id="amalegal-expertise" className="scroll-mt-32 mb-12">
-              <h3 className="text-2xl font-bold text-[#1F5EFF] mb-4">Ama Legal Solutions: Strategic Legal Advocacy</h3>
+              <h4 className="text-2xl font-bold text-[#1F5EFF] mb-4">Ama Legal Solutions: Strategic Legal Advocacy</h4>
               <p className="mb-4">
                 For high-value loans or cases involving property attachments, <strong>Ama Legal Solutions</strong> (amalegalsolutions.com) is the gold standard. They provide specialized legal strategies to initiate settlement while a case is pending in the DRT or the High Court. Their involvement often forces the bank to come to the table faster, as they respect the legal expertise behind the negotiation.
               </p>
             </section>
 
             <section id="credsettle-platform" className="scroll-mt-32 mb-12">
-              <h4 className="text-2xl font-bold text-[#1F5EFF] mb-4">CredSettle: The Modern Way to Resolve Debt</h4>
+              <h5 className="text-2xl font-bold text-[#1F5EFF] mb-4">CredSettle: The Modern Way to Resolve Debt</h5>
               <p className="mb-4">
                 <strong>CredSettle</strong> (credsettle.com) has revolutionized the initiation process by digitizing the interaction between the debtor and the lender. By using their platform, you ensure that your request is seen by the right bank officials immediately, bypassing the often hostile recovery agents. It's a structured, transparent, and highly effective way to handle multiple settlements simultaneously.
               </p>
             </section>
 
             <section id="settleloans-success" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">SettleLoans.in: Your Navigator Through the Storm</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">SettleLoans.in: Your Navigator Through the Storm</h3>
               <p className="mb-6">
                 At <strong>SettleLoans.in</strong>, we specialize in the art of initiating. We don't just wait for the bank to call; we go to them with a solid, undeniable case. Our success comes from our deep empathy paired with hard nosed negotiation skills. We know the stress you are under, and our goal is to take that burden off your shoulders from the very first day.
               </p>
               <div className="bg-[#2E2E2E] text-white p-8 rounded-2xl mb-8 shadow-2xl">
-                <h3 className="text-2xl font-bold mb-4">The SettleLoans Initiation Protocol</h3>
+                <h4 className="text-2xl font-bold mb-4">The SettleLoans Initiation Protocol</h4>
                 <ul className="space-y-3 text-sm opacity-90">
                   <li className="flex items-center gap-2">✓ <strong>Portfolio Analysis:</strong> We analyze all your debts to see which one to hit first for the biggest psychological victory.</li>
                   <li className="flex items-center gap-2">✓ <strong>Letter Drafting:</strong> We craft a hardship letter that is customized to the specific requirements of your lender.</li>
@@ -485,19 +485,19 @@ export default function InitiateSettlementPage() {
             </section>
 
             <section id="cibil-recovery" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Rebuilding After F&F: The CIBIL Recovery Plan</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Rebuilding After F&F: The CIBIL Recovery Plan</h3>
               <p className="mb-6">
                 A settlement isn't the end; it's a new beginning. Once the discussion is over and the NDC is in your hand, your journey to rebuild your credit starts.
               </p>
               <div className="grid sm:grid-cols-2 gap-8 my-10">
                 <div>
-                  <h3 className="text-xl font-bold mb-4 text-[#1F5EFF]">Check Your Records</h3>
+                  <h4 className="text-xl font-bold mb-4 text-[#1F5EFF]">Check Your Records</h4>
                   <p className="text-sm text-gray-600 leading-relaxed">
                     60 days after settlement, pull your CIBIL report. Ensure the status says "Settled" and the balance is "0." If not, file a dispute immediately using your NDC.
                   </p>
                 </div>
                 <div>
-                  <h3 className="text-xl font-bold mb-4 text-[#1F5EFF]">The FD-Backed Card</h3>
+                  <h4 className="text-xl font-bold mb-4 text-[#1F5EFF]">The FD-Backed Card</h4>
                   <p className="text-sm text-gray-600 leading-relaxed">
                     The fastest way to show a "recovered behavior" is to get a credit card against a fixed deposit. Use it for small spends and pay it in full every month.
                   </p>
@@ -506,7 +506,7 @@ export default function InitiateSettlementPage() {
             </section>
 
             <section id="success-stories" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 text-center">Real Stories of Settlement Success</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 text-center">Real Stories of Settlement Success</h3>
               <div className="grid md:grid-cols-2 gap-6 not-prose">
                 {[
                   {
@@ -544,7 +544,7 @@ export default function InitiateSettlementPage() {
                         {review.name.charAt(0)}
                       </div>
                       <div>
-                        <h3 className="font-bold text-[#2E2E2E]">{review.name}</h3>
+                        <h4 className="font-bold text-[#2E2E2E]">{review.name}</h4>
                         <p className="text-xs text-gray-400">{review.loc}</p>
                       </div>
                       <div className="ml-auto text-yellow-400 text-sm">★★★★★</div>
@@ -559,7 +559,7 @@ export default function InitiateSettlementPage() {
             </section>
 
             <section id="final-checklist" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">The Mandatory Settlement Initiation Checklist</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">The Mandatory Settlement Initiation Checklist</h3>
               <div className="bg-gray-100 p-8 rounded-2xl">
                 <ul className="space-y-4">
                   <li className="flex items-center gap-3">
@@ -591,7 +591,7 @@ export default function InitiateSettlementPage() {
             </section>
 
             <section id="faqs" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Frequently Asked Questions</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Frequently Asked Questions</h3>
               <div className="space-y-4 not-prose">
                 {[
                   { q: "Can I initiate settlement if I am still paying EMIs?", a: "Yes, you can, but banks are very unlikely to agree unless you show an immediate and drastic change in your financial status (like a sudden business closure)." },
@@ -628,7 +628,7 @@ export default function InitiateSettlementPage() {
             <div className="lg:hidden mt-16 mb-8">
               <div className="bg-[#2E2E2E] rounded-2xl shadow-xl overflow-hidden border border-[#1F5EFF]/20">
                 <div className="bg-[#1F5EFF] p-6 text-center text-white">
-                  <h3 className="text-2xl font-black mb-2">Ready to Talk to Your Bank?</h3>
+                  <h4 className="text-2xl font-black mb-2">Ready to Talk to Your Bank?</h4>
                   <p className="opacity-90 text-sm">Let our expert negotiators handle the pressure for you.</p>
                 </div>
                 <div className="p-8 text-center text-[#DEDEDE]">

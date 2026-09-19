@@ -3,7 +3,7 @@ import { Metadata } from "next";
 import TableOfContents from "@/components/TableOfContents";
 
 export const metadata: Metadata = {
-  title: "लोन सेटलमेंट प्रक्रिया हिंदी में | SettleLoans",
+  title: "लोन सेटलमेंट प्रक्रिया गाइड | SettleLoans",
   description: 'लोन सेटलमेंट की प्रक्रिया हिंदी में। पर्सनल लोन व क्रेडिट कार्ड सेटलमेंट और RBI नियम।',
   alternates: {
     canonical: "https://www.settleloans.in/loan-settlement-process-in-hindi",
@@ -217,29 +217,29 @@ export default function LoanSettlementHindiPage() {
             </section>
 
             <section id="loan-status" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 uppercase tracking-tighter">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 uppercase tracking-tighter">
                 लोन स्टेटस का गहरा सच: Settled, Closed और Written Off
-              </h2>
+              </h3>
               <p className="mb-6 text-gray-600">बैंक आपकी रिपोर्ट में जो शब्द लिखता है, वह आपके अगले 7 साल के वित्तीय भविष्य को तय करता है। इसे ध्यान से समझें:</p>
               <div className="space-y-4">
                 <div className="p-6 bg-white border border-[#DEDEDE] rounded-xl flex flex-col md:flex-row gap-4 items-start hover:shadow-md transition-shadow">
                   <div className="w-12 h-12 rounded-full bg-green-100 text-green-600 flex items-center justify-center font-black flex-shrink-0">✓</div>
                   <div>
-                    <h3 className="font-bold text-[#2E2E2E] text-xl mb-2 italic">Closed (पूर्ण बंद):</h3>
+                    <h4 className="font-bold text-[#2E2E2E] text-xl mb-2 italic">Closed (पूर्ण बंद):</h4>
                     <p className="text-sm leading-relaxed">जब आप मूलधन, ब्याज और पेनल्टी सहित पूरा पैसा चुका देते हैं। सिibil (CIBIL) रिपोर्ट में यह 'Closed' दिखता है और आपका स्कोर 750+ जाने की राह आसान हो जाती है। आपको बैंक से **No Dues Certificate (NDC)** अनिवार्य रूप से लेना चाहिए।</p>
                   </div>
                 </div>
                 <div className="p-6 bg-white border border-[#DEDEDE] rounded-xl flex flex-col md:flex-row gap-4 items-start hover:shadow-md transition-shadow">
                   <div className="w-12 h-12 rounded-full bg-yellow-100 text-yellow-600 flex items-center justify-center font-black flex-shrink-0">!</div>
                   <div>
-                    <h4 className="font-bold text-[#2E2E2E] text-xl mb-2 italic">Settled (सेटल):</h4>
+                    <h5 className="font-bold text-[#2E2E2E] text-xl mb-2 italic">Settled (सेटल):</h5>
                     <p className="text-sm leading-relaxed">जब बैंक आपकी तंगी को देखते हुए केवल "मूलधन" (Principal) या उससे भी कम पर मामला खत्म करने को राजी हो जाता है। सिबिल में यह 'Settled' दिखेगा। इसका मतलब है कि आपने पूरा पैसा नहीं दिया। अगले 2-3 साल तक नया लोन मिलना मुश्किल हो सकता है, लेकिन यह कानूनी कार्रवाई से बचने का सबसे तेज तरीका है।</p>
                   </div>
                 </div>
                 <div className="p-6 bg-white border border-[#DEDEDE] rounded-xl flex flex-col md:flex-row gap-4 items-start hover:shadow-md transition-shadow">
                   <div className="w-12 h-12 rounded-full bg-red-100 text-red-600 flex items-center justify-center font-black flex-shrink-0">X</div>
                   <div>
-                    <h4 className="font-bold text-[#2E2E2E] text-xl mb-2 italic">Written Off (बट्टे खाते):</h4>
+                    <h5 className="font-bold text-[#2E2E2E] text-xl mb-2 italic">Written Off (बट्टे खाते):</h5>
                     <p className="text-sm leading-relaxed">यह स्थिति तब आती है जब बैंक को लगता है कि आपसे पैसा वसूलना "महंगा" पड़ रहा है। वे अपने बही-खाते से आपका नाम हटा देते हैं, लेकिन रिकवरी एजेंटों को कर्ज बेच देते हैं। यह आपके सिबिल स्कोर के लिए "मौत की सजा" जैसा है।</p>
                   </div>
                 </div>
@@ -247,33 +247,33 @@ export default function LoanSettlementHindiPage() {
             </section>
 
             <section id="rbi-2025" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 uppercase tracking-tighter">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 uppercase tracking-tighter">
                 RBI नए नियम 2025: ग्राहकों की सुरक्षा
-              </h2>
+              </h3>
               <div className="grid md:grid-cols-2 gap-6 mb-8 text-left">
                 <div className="p-6 bg-white border border-[#DEDEDE] rounded-xl shadow-sm">
-                  <h3 className="font-bold mb-2">30-दिनीय पूर्व सूचना</h3>
+                  <h4 className="font-bold mb-2">30-दिनीय पूर्व सूचना</h4>
                   <p className="text-sm">अब बैंक को किसी भी कानूनी कार्रवाई या SARFAESI नोटिस से पहले 30 दिन की लिखित सूचना देना अनिवार्य है। यह बातचीत का सुनहरा मौका है।</p>
                 </div>
                 <div className="p-6 bg-white border border-[#DEDEDE] rounded-xl shadow-sm italic">
-                  <h4 className="font-bold mb-2">डिजिटल कॉल रिकॉर्ड</h4>
+                  <h5 className="font-bold mb-2">डिजिटल कॉल रिकॉर्ड</h5>
                   <p className="text-sm">बैंक को अब सभी रिकवरी कॉल का डिजिटल रिकॉर्ड रखना होगा। इससे एजेंटों की गाली-गलौज और धमकियों पर लगाम लगेगी।</p>
                 </div>
                 <div className="p-6 bg-white border border-[#DEDEDE] rounded-xl shadow-sm">
-                  <h4 className="font-bold mb-2">30 दिन की ग्रेस अवधि</h4>
+                  <h5 className="font-bold mb-2">30 दिन की ग्रेस अवधि</h5>
                   <p className="text-sm">2025 के नियमों के अनुसार, सिबिल (CIBIL) में रिपोर्ट करने से पहले बैंक को आपको सुधारने का 30 दिन का समय देने के लिए प्रोत्साहित किया गया है।</p>
                 </div>
                 <div className="p-6 bg-white border border-[#DEDEDE] rounded-xl shadow-sm italic text-blue-600">
-                  <h4 className="font-bold mb-2">अनिवार्य मध्यस्थता</h4>
+                  <h5 className="font-bold mb-2">अनिवार्य मध्यस्थता</h5>
                   <p className="text-sm">क्रिमिनल केस फाइल करने से पहले बैंकों को सलाह दी गई है कि वे आरबीआई के मध्यस्थता केंद्रों (Mediation Centers) का सहारा लें।</p>
                 </div>
               </div>
             </section>
 
             <section id="legal-notice" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight uppercase tracking-tighter decoration-blue-500 underline">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight uppercase tracking-tighter decoration-blue-500 underline">
                 कानूनी नोटिस का सच: डरें नहीं, जवाब दें
-              </h2>
+              </h3>
               <p className="mb-6 text-lg leading-relaxed">
                 जब बैंक आपको धारा 138 (Check Bounce) या धारा 25 (Digital Bounce) का नोटिस भेजता है, तो इसका मतलब गिरफ्तारी नहीं होता। यह बैंक का आपको बातचीत की मेज पर लाने का एक तरीका है।
               </p>
@@ -306,7 +306,7 @@ export default function LoanSettlementHindiPage() {
                 </table>
               </div>
               <div className="p-6 bg-red-50 border-l-4 border-red-500 rounded-r-xl mb-8">
-                <h3 className="font-bold text-red-700 mb-2">क्या करें जब नोटिस मिले?</h3>
+                <h4 className="font-bold text-red-700 mb-2">क्या करें जब नोटिस मिले?</h4>
                 <ul className="list-disc pl-6 space-y-2 text-sm italic">
                   <li>नोटिस को कभी नजरअंदाज न करें।</li>
                   <li>अपने वकील के माध्यम से "Reply to Legal Notice" जरूर भेजें।</li>
@@ -317,14 +317,14 @@ export default function LoanSettlementHindiPage() {
             </section>
 
             <section id="lok-adalat-2025" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                 राष्ट्रीय लोक अदालत 2025: भारी छूट का सुनहरा मौका
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 लोक अदालत वह मंच है जहाँ जज की मौजूदगी में बैंक और आप आपसी समझौते से लोन बंद करते हैं। यहाँ मिलने वाला सेटलमेंट **डिग्री (Decree)** के समान होता है, जिसे बाद में बैंक चुनौती नहीं दे सकता।
               </p>
               <div className="bg-[#2E2E2E] text-white p-8 rounded-2xl mb-8 border-l-8 border-[#1F5EFF]">
-                <h3 className="text-[#1F5EFF] font-bold mb-4 uppercase tracking-widest underline">2025 लोक अदालत कैलेंडर:</h3>
+                <h4 className="text-[#1F5EFF] font-bold mb-4 uppercase tracking-widest underline">2025 लोक अदालत कैलेंडर:</h4>
                 <div className="grid grid-cols-1 md:grid-cols-2 gap-4 font-black text-xl italic">
                   <div className="flex justify-between border-b border-white/10 pb-2"><span>08 मार्च, 2025</span></div>
                   <div className="flex justify-between border-b border-white/10 pb-2"><span>10 मई, 2025</span></div>
@@ -333,7 +333,7 @@ export default function LoanSettlementHindiPage() {
                 </div>
               </div>
               <div className="bg-blue-50 p-6 rounded-xl border border-blue-200">
-                <h4 className="font-bold mb-4 italic text-blue-800">लोक अदालत की तैयारी कैसे करें?</h4>
+                <h5 className="font-bold mb-4 italic text-blue-800">लोक अदालत की तैयारी कैसे करें?</h5>
                 <ol className="list-decimal pl-6 space-y-3 text-sm">
                   <li>**Pre-Lok Adalat Notice:** बैंक से पहले ही नोटिस मांगें या खुद उन्हें पत्र लिखकर मामला लोक अदालत में ले जाने का अनुरोध करें।</li>
                   <li>**बजट तय करें:** लोक अदालत में पैसा "ऑन द स्पॉट" या बहुत कम समय में देना होता है। अपना फंड तैयार रखें।</li>
@@ -344,18 +344,18 @@ export default function LoanSettlementHindiPage() {
             </section>
 
             <section id="debt-types" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                 क्रेडिट कार्ड बनाम पर्सनल लोन का गणित
-              </h2>
+              </h3>
               <div className="grid md:grid-cols-2 gap-8 mb-8">
                 <div className="bg-white p-6 rounded-xl border border-[#DEDEDE] shadow-sm">
-                  <h3 className="font-bold border-b pb-2 mb-4 text-[#1F5EFF]">क्रेडिट कार्ड सेटलमेंट</h3>
+                  <h4 className="font-bold border-b pb-2 mb-4 text-[#1F5EFF]">क्रेडिट कार्ड सेटलमेंट</h4>
                   <p className="text-sm leading-relaxed">
                     यह सबसे आसान सेटलमेंट है क्योंकि इसमें ब्याज दर 40-45% होती है। बैंक मूलधन (Principal) का 30% लेने को भी तैयार हो जाते हैं।
                   </p>
                 </div>
                 <div className="bg-white p-6 rounded-xl border border-[#DEDEDE] shadow-sm italic">
-                  <h4 className="font-bold border-b pb-2 mb-4 text-[#1F5EFF]">पर्सनल लोन सेटलमेंट</h4>
+                  <h5 className="font-bold border-b pb-2 mb-4 text-[#1F5EFF]">पर्सनल लोन सेटलमेंट</h5>
                   <p className="text-sm leading-relaxed">
                     यहाँ बैंक थोड़े सख्त होते हैं। आपको अपनी बीमारी या बेरोजगारी के कागजात दिखाने होंगे। मूलधन का 40-50% देने का लक्ष्य रखें।
                   </p>
@@ -364,12 +364,12 @@ export default function LoanSettlementHindiPage() {
             </section>
 
             <section id="business-edu" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight uppercase tracking-tighter">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight uppercase tracking-tighter">
                 बिज़नेस और एजुकेशन लोन: विशेष स्थितियां
-              </h2>
+              </h3>
               <div className="space-y-6">
                 <div className="p-6 bg-[#2E2E2E] text-white rounded-2xl border-l-8 border-[#1F5EFF]">
-                  <h3 className="text-[#1F5EFF] font-bold mb-4 text-xl">1. बिज़नेस लोन (Business Loans)</h3>
+                  <h4 className="text-[#1F5EFF] font-bold mb-4 text-xl">1. बिज़नेस लोन (Business Loans)</h4>
                   <p className="text-sm leading-relaxed mb-4">
                     यदि आपका बिज़नेस पूरी तरह फेल हो चुका है, तो बैंक आपके **"Stock Audit"** और **"GST Returns"** की जाँच करेगा।
                   </p>
@@ -379,7 +379,7 @@ export default function LoanSettlementHindiPage() {
                   </ul>
                 </div>
                 <div className="p-6 bg-white border border-[#DEDEDE] rounded-2xl italic shadow-sm hover:shadow-md transition-shadow">
-                  <h4 className="text-[#1F5EFF] font-bold mb-4 underline text-xl">2. एजुकेशन लोन (Education Loans)</h4>
+                  <h5 className="text-[#1F5EFF] font-bold mb-4 underline text-xl">2. एजुकेशन लोन (Education Loans)</h5>
                   <p className="text-sm leading-relaxed md:text-base mb-4">
                     आरबीआई के निर्देशानुसार, एजुकेशन लोन में बैंक को "सहानुभूति" (Empathy) बरतनी चाहिए।
                   </p>
@@ -393,76 +393,76 @@ export default function LoanSettlementHindiPage() {
             </section>
 
             <section id="npa-timeline" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight uppercase tracking-tighter">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight uppercase tracking-tighter">
                 NPA का रोडमैप: बैंक कब "हार" मानता है?
-              </h2>
+              </h3>
               <p className="mb-6 text-gray-600">लोन डिफॉल्ट के बाद बैंक एक निश्चित प्रक्रिया का पालन करता है। सही समय पर कार्रवाई करना ही आपकी जीत है:</p>
               <div className="relative border-l-2 border-dashed border-gray-300 ml-4 space-y-8">
                 <div className="relative pl-8">
                   <div className="absolute left-[-11px] top-1 w-5 h-5 bg-blue-500 rounded-full border-4 border-white"></div>
-                  <h3 className="font-bold text-lg mb-1">SMA-0 (1-30 दिन)</h3>
+                  <h4 className="font-bold text-lg mb-1">SMA-0 (1-30 दिन)</h4>
                   <p className="text-sm italic">सॉफ्ट रिमाइंडर, कॉल और मैसेज आएंगे। बैंक अभी भी उम्मीद करता है कि आप भर देंगे।</p>
                 </div>
                 <div className="relative pl-8">
                   <div className="absolute left-[-11px] top-1 w-5 h-5 bg-yellow-500 rounded-full border-4 border-white"></div>
-                  <h4 className="font-bold text-lg mb-1">SMA-1 & 2 (31-60 दिन)</h4>
+                  <h5 className="font-bold text-lg mb-1">SMA-1 & 2 (31-60 दिन)</h5>
                   <p className="text-sm italic">रिकवरी एजेंटों का दबाव बढ़ेगा। यहाँ आपको अपनी "हार्डशिप" (Hardship) बैंक को बतानी शुरू कर देनी चाहिए।</p>
                 </div>
                 <div className="relative pl-8">
                   <div className="absolute left-[-11px] top-1 w-5 h-5 bg-red-500 rounded-full border-4 border-white"></div>
-                  <h4 className="font-bold text-lg mb-1">NPA घोषित (90+ दिन)</h4>
+                  <h5 className="font-bold text-lg mb-1">NPA घोषित (90+ दिन)</h5>
                   <p className="text-sm italic text-red-600 font-medium">अकाउंट एनपीए हो गया। अब बैंक का लक्ष्य ब्याज कमाना नहीं, बल्कि मूलधन बचाना है। यह सेटलमेंट का बेस्ट टाइम है।</p>
                 </div>
                 <div className="relative pl-8">
                   <div className="absolute left-[-11px] top-1 w-5 h-5 bg-green-500 rounded-full border-4 border-white"></div>
-                  <h4 className="font-bold text-lg mb-1 italic">Write-Off (180+ दिन)</h4>
+                  <h5 className="font-bold text-lg mb-1 italic">Write-Off (180+ दिन)</h5>
                   <p className="text-sm italic text-green-700 font-bold">बैंक इसे नुकसान मान चुका है। वे अब किसी भी उचित रकम पर सेटलमेंट करने को सबसे ज्यादा इच्छुक होंगे।</p>
                 </div>
               </div>
             </section>
 
             <section id="step-guide" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                 6-चरणीय DIY सेटलमेंट मास्टरक्लास
-              </h2>
+              </h3>
               <div className="space-y-12 text-left">
                 <div className="relative pl-8 border-l-2 border-[#1F5EFF]/20 pb-8">
                   <div className="absolute top-0 left-[-9px] w-4 h-4 rounded-full bg-[#1F5EFF]"></div>
-                  <h3 className="text-xl font-bold text-[#2E2E2E] mb-2 uppercase italic">चरण 1: वित्तीय सत्यता (Audit)</h3>
+                  <h4 className="text-xl font-bold text-[#2E2E2E] mb-2 uppercase italic">चरण 1: वित्तीय सत्यता (Audit)</h4>
                   <p className="text-base leading-relaxed">अपना "Final Budget" तय करें। बैंक को देने से पहले यह सुनिश्चित करें कि आपके पास बुनियादी जरूरतों के लिए पैसे बचे हैं।</p>
                 </div>
                 <div className="relative pl-8 border-l-2 border-[#1F5EFF]/20 pb-8">
                   <div className="absolute top-0 left-[-9px] w-4 h-4 rounded-full bg-[#1F5EFF]"></div>
-                  <h4 className="text-xl font-bold text-[#2E2E2E] mb-2 uppercase italic">चरण 2: नोडल ऑफिसर को ईमेल</h4>
+                  <h5 className="text-xl font-bold text-[#2E2E2E] mb-2 uppercase italic">चरण 2: नोडल ऑफिसर को ईमेल</h5>
                   <p className="text-base leading-relaxed italic text-blue-800">कॉल पर कुछ भी तय न करें। बैंक के **Nodal Officer** को ईमेल लिखें। यह आपका "कोर्ट में सबूत" होगा यदि वे बाद में अपनी बात से मुकर जाएं।</p>
                 </div>
                 <div className="relative pl-8 border-l-2 border-[#1F5EFF]/20 pb-8">
                   <div className="absolute top-0 left-[-9px] w-4 h-4 rounded-full bg-[#1F5EFF]"></div>
-                  <h4 className="text-xl font-bold text-[#2E2E2E] mb-2 uppercase italic">चरण 3: हार्डशिप पोर्टफोलियो (Hardship Portfolio)</h4>
+                  <h5 className="text-xl font-bold text-[#2E2E2E] mb-2 uppercase italic">चरण 3: हार्डशिप पोर्टफोलियो (Hardship Portfolio)</h5>
                   <p className="text-base leading-relaxed">केवल 'गरीब हूँ' न कहें। मेडिकल रिपोर्ट, जॉब लॉस सर्टिफिकेट या बिजनेस लॉस का प्रूफ बैंक के सामने रखें। बैंक को "मजबूरी" देखनी चाहिए, "चालाकी" नहीं।</p>
                 </div>
                 <div className="relative pl-8 border-l-2 border-[#1F5EFF]/20 pb-8">
                   <div className="absolute top-0 left-[-9px] w-4 h-4 rounded-full bg-[#1F5EFF]"></div>
-                  <h4 className="text-xl font-bold text-[#2E2E2E] mb-2 uppercase italic">चरण 4: सेटलमेंट लेटर का वेरिफिकेशन</h4>
+                  <h5 className="text-xl font-bold text-[#2E2E2E] mb-2 uppercase italic">चरण 4: सेटलमेंट लेटर का वेरिफिकेशन</h5>
                   <p className="text-base leading-relaxed bg-yellow-50 p-4 border rounded border-yellow-200 decoration-red-500 font-bold underline">लेटर बैंक के आधिकारिक डोमेन से आना चाहिए। मुहर और साइन की जांच करें। इसमें "Full & Final Settlement" और "No Balance Dues" शब्द जरूर हों।</p>
                 </div>
                 <div className="relative pl-8 border-l-2 border-[#1F5EFF]/20 pb-8">
                   <div className="absolute top-0 left-[-9px] w-4 h-4 rounded-full bg-[#1F5EFF]"></div>
-                  <h4 className="text-xl font-bold text-[#2E2E2E] mb-2 uppercase italic">चरण 5: सुरक्षित भुगतान (Secure Payment)</h4>
+                  <h5 className="text-xl font-bold text-[#2E2E2E] mb-2 uppercase italic">चरण 5: सुरक्षित भुगतान (Secure Payment)</h5>
                   <p className="text-base leading-relaxed italic font-bold">भुगतान हमेशा बैंक के लिंक या ब्रांच में ही करें। कभी भी किसी एजेंट के निजी खाते में पैसा न डालें, भले ही वह कितना भी बड़ा डिस्काउंट दे।</p>
                 </div>
                 <div className="relative pl-8 border-l-2 border-[#1F5EFF]/20 pb-8">
                   <div className="absolute top-0 left-[-9px] w-4 h-4 rounded-full bg-[#1F5EFF]"></div>
-                  <h4 className="text-xl font-bold text-[#2E2E2E] mb-2 uppercase italic">चरण 6: सिबिल और एनडीसी (CIBIL & NDC)</h4>
+                  <h5 className="text-xl font-bold text-[#2E2E2E] mb-2 uppercase italic">चरण 6: सिबिल और एनडीसी (CIBIL & NDC)</h5>
                   <p className="text-base leading-relaxed">भुगतान के 45 दिन बाद बैंक से **No Dues Certificate** मांगें। इसकी एक कॉपी सिबिल (CIBIL) की वेबसाइट पर 'Dispute' सेक्शन में अपलोड करें ताकि आपका रिकॉर्ड तुरंत अपडेट हो।</p>
                 </div>
               </div>
             </section>
 
             <section id="hardship-docs" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                 दस्तावेजों की "शक्ति": बैंक को झुकने पर मजबूर करें
-              </h2>
+              </h3>
               <p className="text-lg mb-6">बैंक तभी सेटलमेंट करता है जब उसे यकीन हो जाए कि आप "Willful Defaulter" (जानबूझकर पैसा न देने वाले) नहीं हैं। नीचे दिए गए दस्तावेज आपकी सच्चाई का सबूत हैं:</p>
               <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
                 <div className="p-5 bg-blue-50 rounded-xl border border-blue-100 flex items-start gap-4 hover:bg-blue-100 transition-colors">
@@ -489,9 +489,9 @@ export default function LoanSettlementHindiPage() {
             </section>
 
             <section id="bank-nuances" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight uppercase tracking-tighter">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight uppercase tracking-tighter">
                 बैंक बनाम NBFC: आपकी सेटलमेंट रणनीति
-              </h2>
+              </h3>
               <div className="overflow-x-auto shadow-sm rounded-2xl">
                 <table className="w-full text-left border-collapse bg-white">
                   <thead>
@@ -523,9 +523,9 @@ export default function LoanSettlementHindiPage() {
             </section>
 
             <section id="agent-handling" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                 रिकवरी एजेंटों की "गुंडागर्दी" कैसे रोकें?
-              </h2>
+              </h3>
               <p className="mb-6">आरबीआई आपको एजेंटों के उत्पीड़न से बचाने के लिए कानूनी अधिकार देता है। यदि वे सीमा पार करें, तो यह करें:</p>
               <ul className="space-y-4 text-base italic leading-relaxed">
                 <li className="flex gap-3 items-center p-3 bg-gray-50 rounded-lg border border-gray-100">
@@ -542,7 +542,7 @@ export default function LoanSettlementHindiPage() {
                 </li>
               </ul>
               <div className="mt-8 bg-black text-white p-8 rounded-2xl">
-                <h3 className="text-[#1F5EFF] font-black mb-4 uppercase tracking-widest border-l-4 border-l-[#1F5EFF] pl-4">शिकायत कहाँ करें?</h3>
+                <h4 className="text-[#1F5EFF] font-black mb-4 uppercase tracking-widest border-l-4 border-l-[#1F5EFF] pl-4">शिकायत कहाँ करें?</h4>
                 <ol className="list-decimal pl-6 space-y-2 text-sm">
                   <li>बैंक के ग्रीवेंस ऑफिसर (Grievance Officer) को ईमेल।</li>
                   <li>30 दिन इंतज़ार करें, जवाब न मिलने पर **RBI Ombudsman** (आरबीआई लोकपाल) को शिकायत करें।</li>
@@ -552,9 +552,9 @@ export default function LoanSettlementHindiPage() {
             </section>
 
             <section id="tax-impact" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight uppercase tracking-tighter decoration-red-500 underline">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight uppercase tracking-tighter decoration-red-500 underline">
                 सेटलमेंट पर टैक्स का "झटका": धारा 194R क्या है?
-              </h2>
+              </h3>
               <p className="mb-6 text-lg">अधिकांश उधारकर्ता यह नहीं जानते कि बैंक द्वारा माफ किया गया पैसा आयकर विभाग की नज़र में आपकी **"आय" (Income)** है।</p>
               <div className="bg-yellow-50 border border-yellow-200 p-8 rounded-2xl italic">
                 <ul className="list-disc pl-6 space-y-4 text-sm md:text-base">
@@ -566,29 +566,29 @@ export default function LoanSettlementHindiPage() {
             </section>
 
             <section id="cibil-recovery" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                 सिबिल (CIBIL) सुधारने का "रोडमैप"
-              </h2>
+              </h3>
               <p className="mb-6 text-gray-600">सेटलमेंट के बाद आपका स्कोर गिरना तय है, लेकिन इसे 12 महीने में वापस 750+ लाया जा सकता है। यहाँ 'Credit Builder' रणनीति है:</p>
               <div className="space-y-6 text-left italic">
                 <div className="p-6 bg-gray-50 border border-gray-100 rounded-xl flex gap-6 items-center hover:bg-white hover:shadow-md transition-all">
                   <div className="w-16 h-16 rounded-full bg-[#2E2E2E] text-white flex items-center justify-center font-black flex-shrink-0 text-2xl shadow-lg">01</div>
                   <div>
-                    <h3 className="font-bold text-[#2E2E2E] mb-1">महीना 1-3: सफाई (Cleaning)</h3>
+                    <h4 className="font-bold text-[#2E2E2E] mb-1">महीना 1-3: सफाई (Cleaning)</h4>
                     <p className="text-sm">सुनिश्चित करें कि बैंक ने सिबिल में बैलेंस "Zero" अपडेट कर दिया है। यदि नहीं, तो CIBIL की वेबसाइट पर ऑनलाइन विवाद (Online Dispute) दर्ज करें।</p>
                   </div>
                 </div>
                 <div className="p-6 bg-gray-50 border border-gray-100 rounded-xl flex gap-6 items-center hover:bg-white hover:shadow-md transition-all">
                   <div className="w-16 h-16 rounded-full bg-[#2E2E2E] text-white flex items-center justify-center font-black flex-shrink-0 text-2xl shadow-lg">04</div>
                   <div>
-                    <h4 className="font-bold text-[#2E2E2E] mb-1">महीना 4-6: नींव (Foundation)</h4>
+                    <h5 className="font-bold text-[#2E2E2E] mb-1">महीना 4-6: नींव (Foundation)</h5>
                     <p className="text-sm">अपनी एफडी (Fixed Deposit) के बदले एक **"Secured Credit Card"** लें। इसकी लिमिट का केवल 20-30% ही खर्च करें और बिल आने के 2 दिन पहले भुगतान करें।</p>
                   </div>
                 </div>
                 <div className="p-6 bg-[#1F5EFF] text-white rounded-xl flex gap-6 items-center font-bold shadow-xl">
                   <div className="w-16 h-16 rounded-full bg-white text-[#1F5EFF] flex items-center justify-center font-black flex-shrink-0 text-2xl">12</div>
                   <div>
-                    <h5 className="font-bold mb-1">महीना 12: फल (Fruit)</h5>
+                    <h6 className="font-bold mb-1">महीना 12: फल (Fruit)</h6>
                     <p className="text-sm">12 महीने की लगातार पेमेंट हिस्ट्री के बाद, आप छोटे कंज्यूमर ड्यूरेबल लोन (जैसे मोबाइल या फ्रिज) के लिए पात्र हो जाएंगे। धीरे-धीरे आपका स्कोर पटरी पर आ जाएगा।</p>
                   </div>
                 </div>
@@ -596,35 +596,35 @@ export default function LoanSettlementHindiPage() {
             </section>
 
             <section id="bank-mergers" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 uppercase tracking-tighter">बैंकों के विलय (Merger) और आपका लोन</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 uppercase tracking-tighter">बैंकों के विलय (Merger) और आपका लोन</h3>
               <p className="mb-6 leading-relaxed">
                 हाल के वर्षों में कई सरकारी बैंकों का विलय हुआ है (जैसे इलाहाबाद बैंक का इंडियन बैंक में, विजया बैंक का बैंक ऑफ बड़ौदा में)। यदि आपका लोन किसी पुराने 'एकीकृत' (Amalgamated) बैंक में था, तो आपको सेटलमेंट की बातचीत अब 'एन्कर बैंक' (Anchor Bank) के साथ करनी होगी।
               </p>
               <div className="p-6 bg-red-50 border border-red-100 rounded-xl italic">
-                <h3 className="font-bold mb-2 uppercase text-red-800 tracking-tighter decoration-red-400 underline decoration-2 underline-offset-4">महत्वपूर्ण सावधानी:</h3>
+                <h4 className="font-bold mb-2 uppercase text-red-800 tracking-tighter decoration-red-400 underline decoration-2 underline-offset-4">महत्वपूर्ण सावधानी:</h4>
                 <p className="text-sm">विलेय के दौरान पुरानी फाइलें कई बार "खो" (Lost) जाती हैं या डेटा ट्रांसफर में देरी होती है। सेटलमेंट करने से पहले सुनिश्चित करें कि बैंक के पास आपका सटीक बकाया रिकॉर्ड (Outstanding Statement) है। सेटलमेंट लेटर अब नए बैंक के नाम और उसके नए लोगो (Logo) के साथ ही मान्य होगा।</p>
               </div>
             </section>
 
             <section id="credit-card-cons" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">क्रेडिट कार्ड सेटलमेंट: क्या यह "शॉर्टकट" सही है?</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">क्रेडिट कार्ड सेटलमेंट: क्या यह "शॉर्टकट" सही है?</h3>
               <p className="mb-6 leading-relaxed">
                 यद्यपि कार्ड सेटलमेंट सबसे तेज तरीका है, लेकिन इसके दीर्घकालिक प्रभाव गंभीर हो सकते हैं। एक बार 'Settled' रिपोर्ट होने के बाद, संबंधित बैंक आपको भविष्य में कभी भी कोई बैंकिंग सेवा (क्रेडिट कार्ड, ओवरड्राफ्ट) नहीं देगा (Internal Negative List)।
               </p>
               <div className="grid md:grid-cols-2 gap-4 text-sm mt-4">
                 <div className="p-4 bg-gray-50 border border-gray-100 rounded-lg">
-                  <h3 className="font-bold text-red-600 mb-1">नुकसान 1:</h3>
+                  <h4 className="font-bold text-red-600 mb-1">नुकसान 1:</h4>
                   <p>कोई भी **"Unsecured"** लोन अगले 5-7 साल तक मिलना लगभग असंभव हो जाता है।</p>
                 </div>
                 <div className="p-4 bg-gray-50 border border-gray-100 rounded-lg">
-                  <h4 className="font-bold text-red-600 mb-1">नुकसान 2:</h4>
+                  <h5 className="font-bold text-red-600 mb-1">नुकसान 2:</h5>
                   <p>आपकी **"Credit Limit"** का सदुपयोग करने की योग्यता पर सवाल खड़ा होता है, जिससे होम लोन की ब्याज दरें भी बढ़ सकती हैं।</p>
                 </div>
               </div>
             </section>
 
             <section id="success-stories" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 text-center uppercase tracking-widest decoration-blue-500 underline">सच्ची कहानियाँ</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 text-center uppercase tracking-widest decoration-blue-500 underline">सच्ची कहानियाँ</h3>
               <div className="grid md:grid-cols-2 gap-6 not-prose text-left">
                 {[
                   {
@@ -660,7 +660,7 @@ export default function LoanSettlementHindiPage() {
                     <div className="flex items-center mb-4">
                       <div className="w-10 h-10 rounded-full bg-blue-100 flex items-center justify-center font-bold text-blue-600 mr-3">{review.name.charAt(0)}</div>
                       <div>
-                        <h3 className="font-bold text-[#2E2E2E]">{review.name}</h3>
+                        <h4 className="font-bold text-[#2E2E2E]">{review.name}</h4>
                         <p className="text-xs text-gray-400">{review.loc}</p>
                       </div>
                       <div className="ml-auto text-yellow-400 text-sm">★★★★★</div>
@@ -675,7 +675,7 @@ export default function LoanSettlementHindiPage() {
             </section>
 
             <section id="faqs" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 uppercase tracking-tighter">अक्सर पूछे जाने वाले सवाल</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 uppercase tracking-tighter">अक्सर पूछे जाने वाले सवाल</h3>
               <div className="space-y-4 not-prose text-left">
                 {[
                   { q: "क्या लोन सेटलमेंट गैरकानूनी है?", a: "नहीं, लोन सेटलमेंट पूरी तरह से कानूनी है। यह बैंक और ग्राहक के बीच एक आपसी समझौता है।" },
@@ -709,7 +709,7 @@ export default function LoanSettlementHindiPage() {
             <div className="lg:hidden mt-16 mb-8 text-left italic">
               <div className="bg-[#2E2E2E] rounded-2xl shadow-xl overflow-hidden border border-[#1F5EFF]/20">
                 <div className="bg-[#1F5EFF] p-6 text-center text-white">
-                  <h3 className="text-2xl font-black mb-2">कर्ज से मुक्ति चाहिए?</h3>
+                  <h4 className="text-2xl font-black mb-2">कर्ज से मुक्ति चाहिए?</h4>
                   <p className="opacity-90 text-sm">हज़ारों भारतीयों ने हमारा हाथ पकड़ा और अपनी खुशियाँ वापस पाईं।</p>
                 </div>
                 <div className="p-8 text-center text-[#DEDEDE]">

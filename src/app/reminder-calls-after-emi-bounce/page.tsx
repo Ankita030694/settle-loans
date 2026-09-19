@@ -154,10 +154,10 @@ export default function ReminderCallsAfterEmiBouncePage() {
 
             {/* Your Rights Section */}
             <section id="your-rights" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">Your Rights Against Harassment</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">Your Rights Against Harassment</h3>
               
               <div className="bg-blue-50 border-l-8 border-[#1F5EFF] p-8 rounded-r-2xl mb-8">
-                <h3 className="text-xl font-black text-[#1F5EFF] mb-4">The RBI Guidelines Protect You</h3>
+                <h4 className="text-xl font-black text-[#1F5EFF] mb-4">The RBI Guidelines Protect You</h4>
                 <p className="text-lg leading-relaxed mb-6 text-gray-800">
                   The Reserve Bank of India (RBI) has strict guidelines regarding debt collection. Banks and their recovery agents must adhere to a code of conduct. If they violate these, you have the right to file a complaint.
                 </p>
@@ -183,19 +183,19 @@ export default function ReminderCallsAfterEmiBouncePage() {
 
               <div className="grid md:grid-cols-2 gap-6 my-8">
                 <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
-                  <h3 className="font-black text-[#1F5EFF] text-lg mb-3">Keep Records</h3>
+                  <h4 className="font-black text-[#1F5EFF] text-lg mb-3">Keep Records</h4>
                   <p className="text-gray-700">Always record abusive or excessively frequent calls. Keep a log of dates, times, and phone numbers.</p>
                 </div>
                 <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
-                  <h3 className="font-black text-[#1F5EFF] text-lg mb-3">Ask for ID</h3>
+                  <h4 className="font-black text-[#1F5EFF] text-lg mb-3">Ask for ID</h4>
                   <p className="text-gray-700">Demand the name of the caller, their agency, and the name of the bank official overseeing your account.</p>
                 </div>
                 <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
-                  <h3 className="font-black text-[#1F5EFF] text-lg mb-3">Refuse Unlawful Contact</h3>
+                  <h4 className="font-black text-[#1F5EFF] text-lg mb-3">Refuse Unlawful Contact</h4>
                   <p className="text-gray-700">Explicitly state that they do not have permission to contact anyone else regarding your loan.</p>
                 </div>
                 <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
-                  <h3 className="font-black text-[#1F5EFF] text-lg mb-3">Escalate Issues</h3>
+                  <h4 className="font-black text-[#1F5EFF] text-lg mb-3">Escalate Issues</h4>
                   <p className="text-gray-700">If harassed, send a formal email to the bank's Grievance Redressal Officer detailing the abuse.</p>
                 </div>
               </div>
@@ -204,7 +204,7 @@ export default function ReminderCallsAfterEmiBouncePage() {
 
             {/* How to Talk Section */}
             <section id="how-to-talk" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">How to Talk to Recovery Agents</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">How to Talk to Recovery Agents</h3>
               
               <div className="bg-gray-50 p-8 rounded-2xl mb-8 border border-gray-200">
                 <p className="text-lg leading-relaxed mb-6 text-gray-800">
@@ -217,7 +217,7 @@ export default function ReminderCallsAfterEmiBouncePage() {
               </div>
 
               <div className="bg-red-50 p-6 rounded-xl border border-red-100 mb-8">
-                <h3 className="text-xl font-black text-red-700 mb-2">What NEVER to Do:</h3>
+                <h4 className="text-xl font-black text-red-700 mb-2">What NEVER to Do:</h4>
                 <p className="text-red-900">
                   Do not make false promises about payment dates just to get them off the phone. Do not lose your temper or use abusive language, as they often record calls and can use it against you. Never give them alternate contact numbers of friends or family.
                 </p>
@@ -226,13 +226,13 @@ export default function ReminderCallsAfterEmiBouncePage() {
 
             {/* Steps to Stop Calls Section */}
             <section id="stop-recovery-calls" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">Steps to Stop Recovery Calls</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">Steps to Stop Recovery Calls</h3>
               
               <div className="space-y-12">
                 <div className="flex gap-6">
                   <div className="flex-shrink-0 w-12 h-12 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center font-black text-xl shadow-lg">1</div>
                   <div>
-                    <h3 className="text-2xl font-bold text-[#2E2E2E] mb-3">Answer Once and State Your Case</h3>
+                    <h4 className="text-2xl font-bold text-[#2E2E2E] mb-3">Answer Once and State Your Case</h4>
                     <p className="text-lg text-gray-700 leading-relaxed">
                       Do not completely ignore the calls initially. Answer one call, state your situation clearly, use the script mentioned above, and request all future communication in writing via email.
                     </p>
@@ -242,7 +242,7 @@ export default function ReminderCallsAfterEmiBouncePage() {
                 <div className="flex gap-6">
                   <div className="flex-shrink-0 w-12 h-12 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center font-black text-xl shadow-lg">2</div>
                   <div>
-                    <h3 className="text-2xl font-bold text-[#2E2E2E] mb-3">Send a Formal Email</h3>
+                    <h4 className="text-2xl font-bold text-[#2E2E2E] mb-3">Send a Formal Email</h4>
                     <p className="text-lg text-gray-700 leading-relaxed">
                       Write to the customer service email of your bank. State that you are facing financial hardship, acknowledge the missed EMI, and formally request a halt to telephonic harassment. Mention that you have received X number of calls in a single day.
                     </p>
@@ -252,7 +252,7 @@ export default function ReminderCallsAfterEmiBouncePage() {
                 <div className="flex gap-6">
                   <div className="flex-shrink-0 w-12 h-12 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center font-black text-xl shadow-lg">3</div>
                   <div>
-                    <h3 className="text-2xl font-bold text-[#2E2E2E] mb-3">Install Call Blocking Apps</h3>
+                    <h4 className="text-2xl font-bold text-[#2E2E2E] mb-3">Install Call Blocking Apps</h4>
                     <p className="text-lg text-gray-700 leading-relaxed">
                       Once you have formally communicated with the bank via email, you are under no obligation to entertain 20 calls a day. Use applications like Truecaller to identify and block spam recovery numbers to protect your mental peace.
                     </p>
@@ -262,7 +262,7 @@ export default function ReminderCallsAfterEmiBouncePage() {
                 <div className="flex gap-6">
                   <div className="flex-shrink-0 w-12 h-12 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center font-black text-xl shadow-lg">4</div>
                   <div>
-                    <h3 className="text-2xl font-bold text-[#2E2E2E] mb-3">Complain to the Ombudsman</h3>
+                    <h4 className="text-2xl font-bold text-[#2E2E2E] mb-3">Complain to the Ombudsman</h4>
                     <p className="text-lg text-gray-700 leading-relaxed">
                       If the harassment persists after 30 days of filing a complaint with the bank, escalate the matter to the RBI Ombudsman online. Attach your call logs and emails as proof of harassment.
                     </p>
@@ -273,7 +273,7 @@ export default function ReminderCallsAfterEmiBouncePage() {
 
             {/* Success Stories Section */}
             <section id="success-stories" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">Success Stories</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">Success Stories</h3>
               <div className="grid md:grid-cols-2 gap-6 my-8">
                 
                 <div className="bg-white p-8 rounded-[30px] border border-[#DEDEDE] shadow-sm hover:shadow-xl group transition-all">
@@ -317,7 +317,7 @@ export default function ReminderCallsAfterEmiBouncePage() {
 
             {/* FAQs Section */}
             <section id="faq" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">Frequently Asked Questions</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">Frequently Asked Questions</h3>
               <div className="space-y-4">
                 {[
                   { q: "Can a bank call for EMI payment 20 times a day?", a: "No, RBI guidelines strictly prohibit banks from harassing borrowers with excessive calls. They can only contact you during reasonable hours (typically 8 AM to 7 PM)." },
@@ -343,7 +343,7 @@ export default function ReminderCallsAfterEmiBouncePage() {
             <div className="bg-[#2E2E2E] text-white p-12 rounded-[40px] text-center mt-24 relative overflow-hidden group">
               <div className="absolute inset-0 bg-[#1F5EFF] opacity-0 group-hover:opacity-5 transition-opacity duration-300"></div>
               <div className="relative z-10">
-                <h2 className="text-3xl md:text-4xl font-black mb-6">Stop the Harassment Now.</h2>
+                <h3 className="text-3xl md:text-4xl font-black mb-6">Stop the Harassment Now.</h3>
                 <p className="text-lg md:text-xl text-gray-300 mb-8 max-w-2xl mx-auto">
                   Are you facing relentless calls and mental torture over a bounced EMI? Speak to our legal experts today and put an end to the harassment immediately.
                 </p>

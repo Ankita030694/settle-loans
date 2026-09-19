@@ -242,7 +242,7 @@ export default function CanRecoveryAgentsComeHomePage() {
                                 One of the most prevalent myths in the Indian debt landscape is that "if you owe money, you have no privacy." This misinformation is weaponized by recovery agencies to intimidate borrowers. However, the Reserve Bank of India (RBI) and the Indian Penal Code (IPC) provide a robust shield. While agents have a technical "right to request" a meeting at your home, they have zero "right to demand" entry.
                             </p>
                             <div className="bg-gray-900 p-12 rounded-[64px] text-white my-12 shadow-2xl relative border-t-8 border-[#1F5EFF]">
-                                <h3 className="text-2xl font-black mb-6 uppercase tracking-widest text-[#1F5EFF] italic">The Threshold of Legality</h3>
+                                <h4 className="text-2xl font-black mb-6 uppercase tracking-widest text-[#1F5EFF] italic">The Threshold of Legality</h4>
                                 <p className="text-lg opacity-80 leading-relaxed font-bold italic uppercase tracking-tighter">
                                     "A loan default is a civil dispute. Forcible entry into a home is a criminal act. The two must never be confused."
                                 </p>
@@ -250,32 +250,32 @@ export default function CanRecoveryAgentsComeHomePage() {
                         </section>
 
                         <section id="rbi-pre-visit-mandates" className="scroll-mt-32 mb-20 p-12 bg-blue-50 border border-blue-100 rounded-[56px] shadow-sm relative overflow-hidden">
-                            <h2 className="text-3xl md:text-4xl font-black text-blue-900 mb-8 border-l-8 border-[#1F5EFF] pl-6 uppercase tracking-tighter leading-none italic">
+                            <h3 className="text-3xl md:text-4xl font-black text-blue-900 mb-8 border-l-8 border-[#1F5EFF] pl-6 uppercase tracking-tighter leading-none italic">
                                 Pre-Visit Mandates: The Paper Trail
-                            </h2>
+                            </h3>
                             <p className="mb-8 leading-relaxed font-medium">
                                 A recovery agent cannot simply show up at your house on a whim. The RBI mandates a specific sequence of events before a doorstep visit can even be considered legal.
                             </p>
                             <div className="space-y-6">
                                 <div className="p-8 bg-white/50 border-l-8 border-blue-500 rounded-2xl">
-                                    <h3 className="text-xl font-black text-blue-900 mb-2 uppercase">The Written Notice</h3>
+                                    <h4 className="text-xl font-black text-blue-900 mb-2 uppercase">The Written Notice</h4>
                                     <p className="text-sm font-bold opacity-70 uppercase tracking-tighter">The bank must provide you with a written notice stating that the case has been handed over to a recovery agency. This notice must contain the agency's name and contact details.</p>
                                 </div>
                                 <div className="p-8 bg-white/50 border-l-8 border-blue-500 rounded-2xl">
-                                    <h4 className="text-xl font-black text-blue-900 mb-2 uppercase">The Agent Disclosure</h4>
+                                    <h5 className="text-xl font-black text-blue-900 mb-2 uppercase">The Agent Disclosure</h5>
                                     <p className="text-sm font-bold opacity-70 uppercase tracking-tighter">The name of the specific agent visiting must be disclosed or available upon request. Anonymous visits are a direct violation of regulatory protocols.</p>
                                 </div>
                                 <div className="p-8 bg-white/50 border-l-8 border-blue-500 rounded-2xl">
-                                    <h4 className="text-xl font-black text-blue-900 mb-2 uppercase">The Place of Meeting</h4>
+                                    <h5 className="text-xl font-black text-blue-900 mb-2 uppercase">The Place of Meeting</h5>
                                     <p className="text-sm font-bold opacity-70 uppercase tracking-tighter italic">"RBI clearly states that the borrower has a right to specify the place and time of the meeting." If you tell a bank you'd rather meet at their branch, the agent has no legal ground to visit your home.</p>
                                 </div>
                             </div>
                         </section>
 
                         <section id="right-to-refuse-entry" className="scroll-mt-32 mb-20 mt-20">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 uppercase tracking-widest border-b-8 border-gray-100 pb-4">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 uppercase tracking-widest border-b-8 border-gray-100 pb-4">
                                 Refusing Entry: Your Door is Your Border
-                            </h2>
+                            </h3>
                             <p className="mb-8 leading-relaxed font-medium italic opacity-70">
                                 You are not obligated to open your door to a recovery agent. It is a choice, not a mandate.
                             </p>
@@ -283,7 +283,7 @@ export default function CanRecoveryAgentsComeHomePage() {
                                 Many agents use a psychological tactic known as "presence-based pressure." They stand at the door, talk loudly so neighbors can hear, and try to shame you into letting them inside. Most borrowers cave in to avoid embarrassment. However, once you let them in, their leverage increases.
                             </p>
                             <div className="bg-[#1F5EFF] p-12 rounded-[64px] text-white shadow-3xl text-center relative overflow-hidden my-12">
-                                <h3 className="text-2xl font-black mb-4 uppercase tracking-tighter italic leading-none">The 'Stop at the Gate' Protocol</h3>
+                                <h4 className="text-2xl font-black mb-4 uppercase tracking-tighter italic leading-none">The 'Stop at the Gate' Protocol</h4>
                                 <p className="text-sm font-bold opacity-90 leading-relaxed max-w-2xl mx-auto uppercase tracking-widest italic border-t border-white/20 pt-6">
                                     If an agent visits, you can choose to speak to them through the gate or a window. State clearly: "I will not be allowing you inside. If you have papers to serve, please leave them in the mailbox or send them by registered post."
                                 </p>
@@ -294,15 +294,15 @@ export default function CanRecoveryAgentsComeHomePage() {
                             <div className="absolute top-0 right-0 p-10 opacity-5 group-hover:opacity-10 transition-opacity">
                                 <svg className="w-48 h-48 fill-current" viewBox="0 0 24 24"><path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm0 18c-4.41 0-8-3.59-8-8s3.59-8 8-8 8 3.59 8 8-3.59 8-8 8zm.5-13H11v6l5.25 3.15.75-1.23-4.5-2.67z" /></svg>
                             </div>
-                            <h2 className="text-3xl font-black text-[#2E2E2E] mb-8 border-l-8 border-[#1F5EFF] pl-6 uppercase tracking-tighter">Official Visit Timings</h2>
+                            <h3 className="text-3xl font-black text-[#2E2E2E] mb-8 border-l-8 border-[#1F5EFF] pl-6 uppercase tracking-tighter">Official Visit Timings</h3>
                             <p className="text-xl font-bold mb-8 text-[#1F5EFF] italic decoration-gray-200 underline underline-offset-4">"The RBI defines late-night visits as a form of mental cruelty."</p>
                             <div className="grid md:grid-cols-2 gap-8 relative z-10">
                                 <div className="p-8 bg-white border border-gray-200 rounded-3xl shadow-sm text-center">
-                                    <h3 className="text-[#1F5EFF] text-4xl font-black mb-2 italic">07:00</h3>
+                                    <h4 className="text-[#1F5EFF] text-4xl font-black mb-2 italic">07:00</h4>
                                     <p className="text-[10px] font-black uppercase text-gray-400 tracking-widest">Earliest Permitted Start</p>
                                 </div>
                                 <div className="p-8 bg-white border border-gray-200 rounded-3xl shadow-sm text-center">
-                                    <h4 className="text-[#1F5EFF] text-4xl font-black mb-2 italic">19:00</h4>
+                                    <h5 className="text-[#1F5EFF] text-4xl font-black mb-2 italic">19:00</h5>
                                     <p className="text-[10px] font-black uppercase text-gray-400 tracking-widest">Strict Universal Cut-off</p>
                                 </div>
                             </div>
@@ -312,27 +312,27 @@ export default function CanRecoveryAgentsComeHomePage() {
                         </section>
 
                         <section id="credential-verification-list" className="scroll-mt-32 mb-20 mt-20">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 uppercase tracking-widest border-b-8 border-gray-100 pb-4 leading-none">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 uppercase tracking-widest border-b-8 border-gray-100 pb-4 leading-none">
                                 Credential Verification: The Filter
-                            </h2>
+                            </h3>
                             <p className="mb-8 leading-relaxed font-medium">
                                 Treat every unverified agent like a potential fraudster. The RBI mandates three specific pieces of documentation for every home visit.
                             </p>
                             <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
                                 <div className="p-8 bg-[#2E2E2E] text-white rounded-3xl border-b-4 border-[#1F5EFF] hover:scale-105 transition-transform cursor-pointer group">
                                     <p className="text-[#1F5EFF] font-black text-xs mb-4 uppercase tracking-[0.2em] group-hover:tracking-[0.4em] transition-all">Doc 01</p>
-                                    <h3 className="text-xl font-black mb-4 leading-none italic uppercase">Bank ID Card</h3>
+                                    <h4 className="text-xl font-black mb-4 leading-none italic uppercase">Bank ID Card</h4>
                                     <p className="text-[10px] leading-relaxed opacity-60 font-bold uppercase">Must be a physical card issued by the Regulated Entity (RE), not just a photocopy.</p>
                                 </div>
                                 <div className="p-8 bg-[#2E2E2E] text-white rounded-3xl border-b-4 border-[#1F5EFF] hover:scale-105 transition-transform cursor-pointer group">
                                     <p className="text-[#1F5EFF] font-black text-xs mb-4 uppercase tracking-[0.2em] group-hover:tracking-[0.4em] transition-all">Doc 02</p>
-                                    <h4 className="text-xl font-black mb-4 leading-none italic uppercase">Auth Letter</h4>
-                                    <h5 className="text-[10px] leading-relaxed opacity-60 font-bold uppercase truncate">Specific to your Account</h5>
+                                    <h5 className="text-xl font-black mb-4 leading-none italic uppercase">Auth Letter</h5>
+                                    <h6 className="text-[10px] leading-relaxed opacity-60 font-bold uppercase truncate">Specific to your Account</h6>
                                     <p className="text-[10px] leading-relaxed opacity-60 font-bold uppercase mt-2">A generic 'To whom it may concern' is insufficient. It must name YOU.</p>
                                 </div>
                                 <div className="p-8 bg-[#2E2E2E] text-white rounded-3xl border-b-4 border-[#1F5EFF] hover:scale-105 transition-transform cursor-pointer group">
                                     <p className="text-[#1F5EFF] font-black text-xs mb-4 uppercase tracking-[0.2em] group-hover:tracking-[0.4em] transition-all">Doc 03</p>
-                                    <h4 className="text-xl font-black mb-4 leading-none italic uppercase">Draft Notice</h4>
+                                    <h5 className="text-xl font-black mb-4 leading-none italic uppercase">Draft Notice</h5>
                                     <p className="text-[10px] leading-relaxed opacity-60 font-bold uppercase">A copy of the formal demand notice showing the outstanding principal amount.</p>
                                 </div>
                             </div>
@@ -342,7 +342,7 @@ export default function CanRecoveryAgentsComeHomePage() {
                             <div className="absolute top-0 left-0 bg-gray-900 text-white px-8 py-3 rounded-br-[32px] font-black uppercase text-xs tracking-widest italic">
                                 Legalese: IPC Section 441
                             </div>
-                            <h2 className="text-3xl md:text-5xl font-black text-gray-900 mb-8 mt-6 uppercase tracking-tighter italic decoration-[#1F5EFF] underline underline-offset-8 leading-none">Criminal Trespass</h2>
+                            <h3 className="text-3xl md:text-5xl font-black text-gray-900 mb-8 mt-6 uppercase tracking-tighter italic decoration-[#1F5EFF] underline underline-offset-8 leading-none">Criminal Trespass</h3>
                             <p className="text-xl leading-relaxed font-bold italic border-b border-gray-100 pb-8 mb-8 text-gray-800">
                                 "Whoever enters into or upon property in the possession of another with intent to commit an offence or to intimidate, insult or annoy any person..."
                             </p>
@@ -352,9 +352,9 @@ export default function CanRecoveryAgentsComeHomePage() {
                         </section>
 
                         <section id="seizure-and-physical-conduct" className="scroll-mt-32 mb-20 mt-20">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 uppercase tracking-widest border-b-8 border-gray-100 pb-4 italic">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 uppercase tracking-widest border-b-8 border-gray-100 pb-4 italic">
                                 Banned Conduct: The Red Lines
-                            </h2>
+                            </h3>
                             <p className="mb-8 leading-relaxed font-medium italic opacity-70 border-l-4 border-[#1F5EFF] pl-6">
                                 The 2026 RBI guidelines provide an exhaustive list of actions that invalidate a recovery attempt and expose the bank to penalties.
                             </p>
@@ -379,14 +379,14 @@ export default function CanRecoveryAgentsComeHomePage() {
                         </section>
 
                         <section id="recording-home-visits" className="scroll-mt-32 mb-20 p-12 bg-[#2E2E2E] rounded-[64px] text-white shadow-3xl relative mt-20 overflow-hidden">
-                            <h2 className="text-3xl md:text-4xl font-black mb-8 border-l-8 border-[#1F5EFF] pl-6 uppercase tracking-widest italic decoration-gray-500 underline underline-offset-8">
+                            <h3 className="text-3xl md:text-4xl font-black mb-8 border-l-8 border-[#1F5EFF] pl-6 uppercase tracking-widest italic decoration-gray-500 underline underline-offset-8">
                                 The Power of the Lens
-                            </h2>
+                            </h3>
                             <p className="mb-8 leading-relaxed font-bold opacity-80 italic italic">
                                 In India, recording an interaction for self-defense is legally admissible and highly effective in silencing bullies.
                             </p>
                             <div className="p-10 bg-white/5 border border-white/10 rounded-[48px]">
-                                <h3 className="text-xl font-black mb-6 uppercase text-[#1F5EFF]">Recording Strategy</h3>
+                                <h4 className="text-xl font-black mb-6 uppercase text-[#1F5EFF]">Recording Strategy</h4>
                                 <ul className="space-y-4 text-sm font-bold italic opacity-70 uppercase tracking-tighter leading-relaxed">
                                     <li className="flex gap-4"><span className="text-[#1F5EFF]">●</span> Inform the agent: "This interaction is being recorded for security and audit purposes."</li>
                                     <li className="flex gap-4"><span className="text-[#1F5EFF]">●</span> Capture their ID card clearly on camera.</li>
@@ -397,7 +397,7 @@ export default function CanRecoveryAgentsComeHomePage() {
                         </section>
 
                         <section id="success-stories-home-defense" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 text-center uppercase">Real Stories of Home Protection</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 text-center uppercase">Real Stories of Home Protection</h3>
                             <div className="grid md:grid-cols-2 gap-6 not-prose">
                                 {[
                                     {
@@ -421,7 +421,7 @@ export default function CanRecoveryAgentsComeHomePage() {
                                                 {review.name.charAt(0)}
                                             </div>
                                             <div>
-                                                <h3 className="font-bold text-[#2E2E2E]">{review.name}</h3>
+                                                <h4 className="font-bold text-[#2E2E2E]">{review.name}</h4>
                                                 <p className="text-xs text-gray-400">{review.loc}</p>
                                             </div>
                                             <div className="ml-auto text-yellow-400 text-sm">★★★★★</div>
@@ -436,7 +436,7 @@ export default function CanRecoveryAgentsComeHomePage() {
                         </section>
 
                         <section id="technical-faqs-visits" className="scroll-mt-32 mb-12 mt-20">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 uppercase tracking-widest decoration-[#1F5EFF] underline underline-offset-8 leading-none italic">Home Visit Technical FAQs</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 uppercase tracking-widest decoration-[#1F5EFF] underline underline-offset-8 leading-none italic">Home Visit Technical FAQs</h3>
                             <div className="space-y-4 not-prose">
                                 {jsonLd["@graph"][4]["mainEntity"]?.map((faq: any, i: number) => (
                                     <details key={i} className="group bg-white border border-[#DEDEDE] rounded-xl overflow-hidden hover:shadow-md transition-all border-b-4 border-b-[#1F5EFF]/20">
@@ -464,7 +464,7 @@ export default function CanRecoveryAgentsComeHomePage() {
                         <div className="lg:hidden mt-16 mb-8">
                             <div className="bg-[#2E2E2E] rounded-2xl shadow-xl overflow-hidden border border-[#1F5EFF]/20">
                                 <div className="bg-[#1F5EFF] p-6 text-center text-white">
-                                    <h3 className="text-2xl font-black mb-2 uppercase tracking-tighter leading-none">Stop the Door-Knocking</h3>
+                                    <h4 className="text-2xl font-black mb-2 uppercase tracking-tighter leading-none">Stop the Door-Knocking</h4>
                                     <p className="opacity-90 text-sm font-bold uppercase tracking-wider italic">Illegal home visits are a breach of privacy. Let's help you file an injunction and stop the harassment today.</p>
                                 </div>
                                 <div className="p-8 text-center text-[#DEDEDE]">

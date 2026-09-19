@@ -338,7 +338,7 @@ export default function LegalRisksLoanDefaultPage() {
                   Ignoring a default is the single greatest mistake a borrower can make. In our experience at SettleLoans, silence often leads to escalation. A bank interprets silence as an intention to avoid payment, which might lead them to classify you as a &quot;Wilful Defaulter&quot;, a tag that carries heavy criminal legal implications. Understanding the difference between being a victim of genuine financial hardship and being a wilful defaulter is crucial to navigating this crisis.
                 </p>
                 <div className="bg-[#1F5EFF]/5 p-8 rounded-2xl border border-[#1F5EFF]/10 my-10">
-                  <h3 className="text-xl font-bold mb-4 text-[#1F5EFF]">The 90-Day Clock: A Critical Timeline</h3>
+                  <h4 className="text-xl font-bold mb-4 text-[#1F5EFF]">The 90-Day Clock: A Critical Timeline</h4>
                   <p className="text-base text-gray-700 leading-relaxed mb-4">
                     The 90 day window is the most important timeline for any borrower. During this period, the bank still views you as a &quot;Regular&quot; or &quot;Stress&quot; account. You are categorized as Special Mention Account 0 (SMA-0) for 1-30 days, SMA-1 for 31-60 days, and SMA-2 for 61-90 days.
                   </p>
@@ -350,9 +350,9 @@ export default function LegalRisksLoanDefaultPage() {
             </section>
 
             <section id="default-vs-settlement" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                 Default vs. Settlement: <span className="text-black">Why Settlement is the Shield</span>
-              </h2>
+              </h3>
               <div className="prose prose-lg max-w-none">
                 <p className="mb-6 leading-relaxed">
                   Many borrowers often ask us: &quot;If I have already defaulted, isn&apos;t the damage done? Why should I settle?&quot; This is a dangerous misconception. A chronic default is an open wound that continues to bleed interest, penalties, and legal costs every single day. A settlement, on the other hand, is a legal &quot;Full and Final&quot; closure that cauterizes that wound and stops the legal machinery from moving further.
@@ -370,9 +370,9 @@ export default function LegalRisksLoanDefaultPage() {
             </section>
 
             <section id="legal-notices" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                 The Anatomy of <span className="text-black">Legal & Demand Notices</span>
-              </h2>
+              </h3>
               <div className="prose prose-lg max-w-none">
                 <p className="mb-6 leading-relaxed">
                   The first official indicator that your debt has moved into the &quot;Danger Zone&quot; is the receipt of a legal notice. In India, most banks follow a structured escalation process. First, you will receive &quot;Internal Recall Notices&quot; from the bank&apos;s collection department. These are warnings. However, once you receive a notice on the letterhead of an Advocate, the legal process has officially commenced.
@@ -384,7 +384,7 @@ export default function LegalRisksLoanDefaultPage() {
                   There are specific types of notices you must be aware of. A &quot;Section 138 Notice&quot; is related to cheque bounces and is a precursor to a criminal case. A &quot;Section 13(2) Notice&quot; under the SARFAESI Act is for secured loans and gives you 60 days to pay before the bank seizes your property. Then there are &quot;Arbitration Notices&quot; where the bank tries to resolve the matter through a private arbitrator rather than a traditional court.
                 </p>
                 <div className="bg-gray-50 p-8 rounded-2xl border border-gray-200 my-10">
-                  <h3 className="text-xl font-bold mb-4">Steps to Take When You Receive a Notice</h3>
+                  <h4 className="text-xl font-bold mb-4">Steps to Take When You Receive a Notice</h4>
                   <ul className="space-y-4">
                     <li className="flex gap-3">
                       <span className="flex-shrink-0 w-6 h-6 rounded-full bg-red-100 text-red-600 flex items-center justify-center font-bold text-sm">!</span>
@@ -408,9 +408,9 @@ export default function LegalRisksLoanDefaultPage() {
             </section>
 
             <section id="civil-suits" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                 Civil Recovery Lawsuits: <span className="text-black">The Court Process</span>
-              </h2>
+              </h3>
               <div className="prose prose-lg max-w-none">
                 <p className="mb-6 leading-relaxed">
                   If the notices go unheeded, the lender may file a Civil Recovery Suit. Under the Civil Procedure Code (CPC), banks often file what is known as a &quot;Summary Suit&quot; (Order 37). This is a fast track lawsuit designed for debt recovery where the defendant is not even allowed to defend themselves unless the judge grants them &quot;Leave to Defend&quot; based on substantial merit.
@@ -428,9 +428,9 @@ export default function LegalRisksLoanDefaultPage() {
             </section>
 
             <section id="drt-process" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                 The Debt Recovery Tribunal (DRT): Escalation for High-Value Debts
-              </h2>
+              </h3>
               <div className="prose prose-lg max-w-none">
                 <p className="mb-6 leading-relaxed">
                   For debts exceeding Rs. 20 Lakhs, banks and financial institutions traditionally skip the local civil courts and approach the Debt Recovery Tribunal (DRT). Established under the RDDBFI Act, 1993, the DRTs are specialized bodies designed for one purpose: rapid debt recovery for banks. The procedural rules are much stricter than civil courts, and the leverage for the borrower is significantly lower.
@@ -448,9 +448,9 @@ export default function LegalRisksLoanDefaultPage() {
             </section>
 
             <section id="section-138-ni" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                 Section 138 (Cheque Bounce): <span className="text-black">The Criminal Trap</span>
-              </h2>
+              </h3>
               <div className="prose prose-lg max-w-none">
                 <p className="mb-6 leading-relaxed">
                   This is the section that causes the most fear, and for good reason. Under the Negotiable Instruments Act, a cheque bounce is a quasi criminal offense. If you have provided post dated cheques (PDCs) or &quot;Security Cheques&quot; to a lender, and those cheques are presented and returned for &quot;Insufficient Funds&quot;, the lender can file a criminal case against you.
@@ -468,9 +468,9 @@ export default function LegalRisksLoanDefaultPage() {
             </section>
 
             <section id="financial-impact" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                 CIBIL & Financial Impact: The Long Term Shadow
-              </h2>
+              </h3>
               <div className="prose prose-lg max-w-none">
                 <p className="mb-6 leading-relaxed">
                   Beyond the courtroom, a loan default creates a permanent scar on your financial identity. Your CIBIL score is essentially your &quot;Financial Character Certificate&quot; in the modern world. A single missed payment can drop your score by 50 to 100 points. A default that lasts for months can drive your score into the 300-500 range, which is considered a &quot;No Entry&quot; zone for all regulated lenders.
@@ -488,9 +488,9 @@ export default function LegalRisksLoanDefaultPage() {
             </section>
 
             <section id="recovery-agent-rules" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                 Recovery Agents: <span className="text-black">The RBI Fair Practice Code</span>
-              </h2>
+              </h3>
               <div className="prose prose-lg max-w-none">
                 <p className="mb-6 leading-relaxed">
                   For many, the most terrifying aspect of default is not the court, but the recovery agent. The knock on the door, the loud voices in the building, and the persistent calls are designed to use social shame as a weapon for recovery. However, you must know that the law is on your side when it comes to harassment.
@@ -508,9 +508,9 @@ export default function LegalRisksLoanDefaultPage() {
             </section>
 
             <section id="sarfaesi-act" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                 The SARFAESI Act: <span className="text-black">Risks for Secured Loans</span>
-              </h2>
+              </h3>
               <div className="prose prose-lg max-w-none">
                 <p className="mb-6 leading-relaxed">
                   If you have a home loan or a loan against property (LAP), the legal risks are much more direct. The SARFAESI Act, 2002, gives banks the power to take physical possession of your property without even going to a court. This is a formidable power. If you default for 90 days, the bank will issue a Section 13(2) notice giving you 60 days to pay the full dues.
@@ -528,9 +528,9 @@ export default function LegalRisksLoanDefaultPage() {
             </section>
 
             <section id="civil-vs-criminal" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                 Civil vs. Criminal Liability: <span className="text-black">Can You Go to Jail?</span>
-              </h2>
+              </h3>
               <div className="prose prose-lg max-w-none">
                 <p className="mb-6 leading-relaxed">
                   One of the most persistent myths in the Indian debt landscape is that the police will show up at your house and arrest you if you don&apos;t pay your loan. Let us be very clear: **In India, loan default is primarily a civil matter, not a criminal one.** In a landmark judgment, the Supreme Court has ruled that poverty or an inability to pay a debt is not a crime. You cannot be imprisoned for failing to repay a loan due to genuine financial distress.
@@ -548,9 +548,9 @@ export default function LegalRisksLoanDefaultPage() {
             </section>
 
             <section id="psychology-of-debt" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                 The Psychology of Debt: <span className="text-black">Breaking the Cycle of Denial</span>
-              </h2>
+              </h3>
               <div className="prose prose-lg max-w-none">
                 <p className="mb-6 leading-relaxed">
                   The greatest legal risk in a loan default is not the law itself, but the psychological paralysis that sets in. When a borrower realizes they cannot pay their EMI, the first reaction is almost always denial. They stop answering phone calls, they stop checking their mail, and they avoid the bank branch. This is a survival mechanism, but in the world of debt, it is a fatal mistake.
@@ -568,9 +568,9 @@ export default function LegalRisksLoanDefaultPage() {
             </section>
 
             <section id="digital-lending-risks" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                 Digital Lending Risks: <span className="text-black">The New Legal Frontier</span>
-              </h2>
+              </h3>
               <div className="prose prose-lg max-w-none">
                 <p className="mb-6 leading-relaxed">
                   The rise of &quot;Instant Loan Apps&quot; in India has created a unique set of legal risks. Many of these apps operate in a grey area of the law, using aggressive data scraping techniques to gain access to your contacts, gallery, and location. When a default occurs, they use this data to harass you and your social circle.
@@ -585,9 +585,9 @@ export default function LegalRisksLoanDefaultPage() {
             </section>
 
             <section id="loan-assignment-arc" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                 Loan Assignment: <span className="text-black">When Your Debt is Sold to an ARC</span>
-              </h2>
+              </h3>
               <div className="prose prose-lg max-w-none">
                 <p className="mb-6 leading-relaxed">
                   When a bank realizes that a loan is unlikely to be recovered, they often &quot;Sell&quot; that debt to an Asset Reconstruction Company (ARC). In India, companies like Phoenix ARC, Edelweiss ARC, and Reliance ARC buy bundles of bad loans from banks at a massive discount (sometimes for just 10% to 20% of the value).
@@ -602,9 +602,9 @@ export default function LegalRisksLoanDefaultPage() {
             </section>
 
             <section id="why-professional-help" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                 Why Professional Settlement is the <span className="text-black">Only Real Solution</span>
-              </h2>
+              </h3>
               <div className="prose prose-lg max-w-none">
                 <p className="mb-6 leading-relaxed">
                   Negotiating with a bank is not like bargaining in a market. It is a technical, legal, and bureaucratic process. If you go to the bank and say &quot;I cannot pay, please settle,&quot; the bank sees that as a sign of weakness. They will likely push you to pay more, or worse, they will use that admission to build a stronger legal case against you for &quot;Wilful Default.&quot;
@@ -622,9 +622,9 @@ export default function LegalRisksLoanDefaultPage() {
             </section>
 
             <section id="borrower-rights" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                 Your Rights under RBI: <span className="text-black">Don&apos;t Be a Passive Victim</span>
-              </h2>
+              </h3>
               <div className="prose prose-lg max-w-none">
                 <p className="mb-6 leading-relaxed">
                   A borrower in default is often treated like they have no rights, which is far from the truth. The RBI&apos;s &quot;Charter of Customer Rights&quot; applies to you regardless of your payment status. You have the Right to Fair Treatment, the Right to Transparency, and most importantly, the Right to be Heard.
@@ -642,9 +642,9 @@ export default function LegalRisksLoanDefaultPage() {
             </section>
 
             <section id="practical-scenarios" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                 Practical Scenarios: <span className="text-black">Real-World Case Studies</span>
-              </h2>
+              </h3>
               <div className="prose prose-lg max-w-none">
                 <div className="space-y-12">
                   <div className="bg-white border border-gray-200 rounded-2xl overflow-hidden shadow-sm">
@@ -681,7 +681,7 @@ export default function LegalRisksLoanDefaultPage() {
             </section>
 
             <section id="success-stories" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 text-center">Real Stories of Freedom</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 text-center">Real Stories of Freedom</h3>
               <div className="grid md:grid-cols-2 gap-6 not-prose">
                 {[
                   {
@@ -719,7 +719,7 @@ export default function LegalRisksLoanDefaultPage() {
                         {review.name.charAt(0)}
                       </div>
                       <div>
-                        <h3 className="font-bold text-[#2E2E2E]">{review.name}</h3>
+                        <h4 className="font-bold text-[#2E2E2E]">{review.name}</h4>
                         <p className="text-xs text-gray-400">{review.loc}</p>
                       </div>
                       <div className="ml-auto text-yellow-400 text-sm">★★★★★</div>
@@ -734,7 +734,7 @@ export default function LegalRisksLoanDefaultPage() {
             </section>
 
             <section id="faqs" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Frequently Asked Questions</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Frequently Asked Questions</h3>
               <div className="space-y-4 not-prose">
                 {[
                   { q: "Can banks file a case for personal loan default?", a: "Absolutely. Banks can file a civil recovery suit or approach the DRT if the amount is above Rs. 20 Lakhs. While it takes time, the court can eventually order the seizure of your secondary assets." },
@@ -771,7 +771,7 @@ export default function LegalRisksLoanDefaultPage() {
             <div className="lg:hidden mt-16 mb-8">
               <div className="bg-[#2E2E2E] rounded-2xl shadow-xl overflow-hidden border border-[#1F5EFF]/20">
                 <div className="bg-[#1F5EFF] p-6 text-center text-white">
-                  <h3 className="text-2xl font-black mb-2">Ready to Start Over?</h3>
+                  <h4 className="text-2xl font-black mb-2">Ready to Start Over?</h4>
                   <p className="opacity-90 text-sm">Join the 10,000+ Indians we&apos;ve helped find their way to financial freedom.</p>
                 </div>
                 <div className="p-8 text-center text-[#DEDEDE]">

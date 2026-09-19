@@ -260,22 +260,22 @@ export default function CreditCardLegalNoticePage() {
             </section>
 
             <section id="understanding-the-notice" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 Understanding the Notice: Real or Fake?
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 Banks and their recovery agencies frequently use "scare tactics" by sending fake legal notices designed to look like official court documents. You need to distinguish between a real lawyer's notice and a fake agency threat.
               </p>
 
               <div className="grid md:grid-cols-2 gap-6 my-8">
                 <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
-                  <h3 className="font-black text-[#1F5EFF] text-lg mb-3">Signs of a Fake Notice</h3>
+                  <h4 className="font-black text-[#1F5EFF] text-lg mb-3">Signs of a Fake Notice</h4>
                   <p className="text-gray-700 leading-relaxed">
                     Threatens immediate police arrest, lacks an advocate's Bar Council enrollment number, has grammatical errors, or mentions fabricated sections of the IPC (Indian Penal Code) like Section 420 for simple default.
                   </p>
                 </div>
                 <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
-                  <h4 className="font-black text-[#1F5EFF] text-lg mb-3">Signs of a Real Notice</h4>
+                  <h5 className="font-black text-[#1F5EFF] text-lg mb-3">Signs of a Real Notice</h5>
                   <p className="text-gray-700 leading-relaxed">
                     Sent on the official letterhead of an advocate/law firm, references the exact credit card agreement, clearly states a civil dispute, and gives a standard 7, 14, or 30 days to reply or clear the dues.
                   </p>
@@ -290,19 +290,19 @@ export default function CreditCardLegalNoticePage() {
             </section>
             
             <section id="legal-action-default" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 Legal Action for Credit Card Default: What Can Happen?
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 If the notice is genuine and ignored, the bank will escalate the matter. Understanding the actual legal action for credit card default takes away the fear of the unknown.
               </p>
               
               <div className="bg-red-50 p-6 rounded-xl border border-red-100 mb-8">
-                <h3 className="text-xl font-black text-red-700 mb-3">Civil Suit (Order 37 of CPC)</h3>
+                <h4 className="text-xl font-black text-red-700 mb-3">Civil Suit (Order 37 of CPC)</h4>
                 <p className="text-red-900 leading-relaxed mb-4">
                   The bank may file a civil suit for recovery of money. Order 37 is a summary suit where the court fast-tracks the process. If you don't file a "leave to defend" (permission to fight the case) within 10 days of receiving summons, the court may automatically pass a decree against you.
                 </p>
-                <h4 className="text-xl font-black text-red-700 mb-3">Arbitration Proceedings</h4>
+                <h5 className="text-xl font-black text-red-700 mb-3">Arbitration Proceedings</h5>
                 <p className="text-red-900 leading-relaxed">
                   Most credit card agreements contain an arbitration clause. The bank will appoint a private arbitrator who acts like a judge. Ignoring arbitration notices leads to an ex-parte (one-sided) award against you, which can later be enforced to attach your assets.
                 </p>
@@ -310,9 +310,9 @@ export default function CreditCardLegalNoticePage() {
             </section>
 
             <section id="step-by-step-reply" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 Step-by-Step: How to Reply to Credit Card Legal Notice
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 Knowing how to reply to a credit card legal notice is your strongest defense. A solid reply puts the brakes on aggressive legal action and signals to the bank that you are not an easy target.
               </p>
@@ -321,7 +321,7 @@ export default function CreditCardLegalNoticePage() {
                 <div className="flex gap-6">
                   <div className="flex-shrink-0 w-12 h-12 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center font-black text-xl shadow-lg">1</div>
                   <div>
-                    <h3 className="text-2xl font-bold text-[#2E2E2E] mb-2">Hire an Advocate</h3>
+                    <h4 className="text-2xl font-bold text-[#2E2E2E] mb-2">Hire an Advocate</h4>
                     <p className="text-lg text-gray-700 leading-relaxed">
                       Do not reply yourself via email. A legal notice must be countered with a legal reply sent by an advocate on their official letterhead. It shows the bank you are legally represented.
                     </p>
@@ -331,7 +331,7 @@ export default function CreditCardLegalNoticePage() {
                 <div className="flex gap-6">
                   <div className="flex-shrink-0 w-12 h-12 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center font-black text-xl shadow-lg">2</div>
                   <div>
-                    <h3 className="text-2xl font-bold text-[#2E2E2E] mb-2">Dispute Inflated Charges</h3>
+                    <h4 className="text-2xl font-bold text-[#2E2E2E] mb-2">Dispute Inflated Charges</h4>
                     <p className="text-lg text-gray-700 leading-relaxed">
                       Your lawyer will challenge the "principal amount" vs. "penal interest." Banks often inflate a ₹1 Lakh default to ₹3 Lakhs with compound interest. Your reply should demand a clear statement of accounts separating the actual spend from the late fees.
                     </p>
@@ -341,7 +341,7 @@ export default function CreditCardLegalNoticePage() {
                 <div className="flex gap-6">
                   <div className="flex-shrink-0 w-12 h-12 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center font-black text-xl shadow-lg">3</div>
                   <div>
-                    <h3 className="text-2xl font-bold text-[#2E2E2E] mb-2">State Hardship & Offer Settlement</h3>
+                    <h4 className="text-2xl font-bold text-[#2E2E2E] mb-2">State Hardship & Offer Settlement</h4>
                     <p className="text-lg text-gray-700 leading-relaxed">
                       If you lost your job or faced a medical emergency, the reply should formally state this hardship. It should express a willingness to resolve the matter amicably through a One-Time Settlement (OTS) rather than protracted litigation.
                     </p>
@@ -351,15 +351,15 @@ export default function CreditCardLegalNoticePage() {
             </section>
 
             <section id="received-summons" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 Received Summons for Credit Card: Court Procedures
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 If the bank has already bypassed the notice stage or you ignored the notice, you might receive a formal court summons. <strong>If you have received summons for credit card default, the situation is legally critical.</strong>
               </p>
 
               <div className="bg-blue-50 border-l-8 border-[#1F5EFF] p-8 rounded-r-2xl mb-8">
-                <h3 className="text-xl font-black text-[#1F5EFF] mb-4">Mandatory Appearance</h3>
+                <h4 className="text-xl font-black text-[#1F5EFF] mb-4">Mandatory Appearance</h4>
                 <p className="text-blue-900 text-lg leading-relaxed mb-4">
                   A summons is a direct order from a judge or arbitrator. You cannot ignore it.
                 </p>
@@ -381,9 +381,9 @@ export default function CreditCardLegalNoticePage() {
             </section>
 
             <section id="negotiating-settlement" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 Negotiating a Settlement
-              </h2>
+              </h3>
               <div className="bg-gray-50 p-8 rounded-2xl mb-8 border border-gray-200">
                 <p className="text-gray-800 text-lg leading-relaxed mb-6">
                   The ultimate goal of a legal notice for the bank is not to fight a 5-year court battle; it is to force you to pay. Banks know that unsecured debt recovery through courts is tedious and expensive.
@@ -395,9 +395,9 @@ export default function CreditCardLegalNoticePage() {
             </section>
 
             <section id="success-stories" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 Client Success Stories
-              </h2>
+              </h3>
               <div className="grid md:grid-cols-2 gap-6 my-8">
                 <div className="bg-white p-8 rounded-[30px] border border-[#DEDEDE] shadow-sm hover:shadow-xl group transition-all">
                   <div className="flex items-center gap-4 mb-6">
@@ -405,7 +405,7 @@ export default function CreditCardLegalNoticePage() {
                       VS
                     </div>
                     <div>
-                      <h3 className="font-bold text-gray-900">Vikas S.</h3>
+                      <h4 className="font-bold text-gray-900">Vikas S.</h4>
                       <div className="flex text-yellow-400">
                         <svg className="w-4 h-4 fill-current" viewBox="0 0 20 20"><path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z"/></svg>
                         <svg className="w-4 h-4 fill-current" viewBox="0 0 20 20"><path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z"/></svg>
@@ -430,7 +430,7 @@ export default function CreditCardLegalNoticePage() {
                       AP
                     </div>
                     <div>
-                      <h4 className="font-bold text-gray-900">Ananya P.</h4>
+                      <h5 className="font-bold text-gray-900">Ananya P.</h5>
                       <div className="flex text-yellow-400">
                         <svg className="w-4 h-4 fill-current" viewBox="0 0 20 20"><path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z"/></svg>
                         <svg className="w-4 h-4 fill-current" viewBox="0 0 20 20"><path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z"/></svg>
@@ -452,13 +452,13 @@ export default function CreditCardLegalNoticePage() {
             </section>
 
             <section id="faqs" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 Frequently Asked Questions
-              </h2>
+              </h3>
               <div className="space-y-4">
                 {jsonLd["@graph"].find(item => item["@type"] === "FAQPage")?.mainEntity?.map((faq: any, index: number) => (
                   <div key={index} className="bg-white border border-[#DEDEDE] rounded-xl p-6 hover:shadow-md transition-shadow">
-                    <h3 className="text-xl font-bold text-[#2E2E2E] mb-3">{faq.name}</h3>
+                    <h4 className="text-xl font-bold text-[#2E2E2E] mb-3">{faq.name}</h4>
                     <p className="text-gray-700 leading-relaxed">{faq.acceptedAnswer.text}</p>
                   </div>
                 ))}
@@ -467,7 +467,7 @@ export default function CreditCardLegalNoticePage() {
 
             <div className="bg-[#2E2E2E] text-white p-12 rounded-[40px] text-center mt-24 relative overflow-hidden group">
               <div className="absolute inset-0 bg-[#1F5EFF] opacity-0 group-hover:opacity-5 transition-opacity"></div>
-              <h3 className="text-3xl font-black mb-6 relative z-10">Stop the Harassment Now</h3>
+              <h4 className="text-3xl font-black mb-6 relative z-10">Stop the Harassment Now</h4>
               <p className="text-xl opacity-90 mb-8 relative z-10 max-w-2xl mx-auto">
                 Just received a heavy legal notice from your credit card company? Don't ignore it. Follow these next steps to protect yourself. Our expert lawyers can draft a powerful reply and negotiate a massive discount on your debt.
               </p>

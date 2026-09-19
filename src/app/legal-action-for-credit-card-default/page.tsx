@@ -243,7 +243,7 @@ export default function CreditCardDefaultPage() {
                                 Understanding the <strong>legal action for credit card default</strong> in India is critical because it marks the boundary where a financial problem becomes a judicial risk. While you might feel overwhelmed by the barrage of calls and formal-sounding notices, the law provides a robust framework of protection. Being in debt does not strip you of your constitutional rights to privacy, dignity, and a fair hearing.
                             </p>
                             <div className="bg-gray-900 p-10 rounded-[40px] text-white my-12 shadow-2xl relative">
-                                <h3 className="text-2xl font-black mb-6 uppercase tracking-widest text-[#1F5EFF]">The Civil Defense Foundation</h3>
+                                <h4 className="text-2xl font-black mb-6 uppercase tracking-widest text-[#1F5EFF]">The Civil Defense Foundation</h4>
                                 <p className="text-lg opacity-80 leading-relaxed font-medium">
                                     A credit card is a contract. Defaulting on it is a breach of contract. In the eyes of the Indian Civil Procedure Code (CPC), this is a civil dispute. The bank's primary legal tool is a civil recovery suit, not a handcuffs or an arrest warrant. Recognizing this fundamental distinction is your first step toward financial peace.
                                 </p>
@@ -251,32 +251,32 @@ export default function CreditCardDefaultPage() {
                         </section>
 
                         <section id="legal-consequences-timeline" className="scroll-mt-32 mb-20">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 uppercase tracking-widest border-b-8 border-gray-100 pb-4">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 uppercase tracking-widest border-b-8 border-gray-100 pb-4">
                                 The Escalation: A 90-Day Warning System
-                            </h2>
+                            </h3>
                             <p className="mb-8 font-medium">
                                 Recovery doesn't happen overnight. It follows a structured, albeit aggressive, progression mandated by RBI internal policies.
                             </p>
                             <div className="space-y-4">
                                 <div className="p-8 bg-blue-50 border border-blue-100 rounded-[32px] hover:shadow-md transition-shadow">
-                                    <h3 className="text-xl font-black text-[#1F5EFF] mb-2 uppercase italic leading-none">Days 1 to 30: The Gentle Nudge</h3>
+                                    <h4 className="text-xl font-black text-[#1F5EFF] mb-2 uppercase italic leading-none">Days 1 to 30: The Gentle Nudge</h4>
                                     <p className="text-sm leading-relaxed font-bold opacity-70">Automated SMS, emails, and occasional 'reminder' calls. CIBIL score takes its first hit as 'Late' is reported.</p>
                                 </div>
                                 <div className="p-8 bg-blue-50 border border-blue-100 rounded-[32px] hover:shadow-md transition-shadow">
-                                    <h4 className="text-xl font-black text-[#1F5EFF] mb-2 uppercase italic leading-none">Days 31 to 90: The Hard Recovery</h4>
+                                    <h5 className="text-xl font-black text-[#1F5EFF] mb-2 uppercase italic leading-none">Days 31 to 90: The Hard Recovery</h5>
                                     <p className="text-sm leading-relaxed font-bold opacity-70">Calls become frequent. Interest rates jump to 45%+. Third-party recovery agents may visit your registered address.</p>
                                 </div>
                                 <div className="p-8 bg-[#1F5EFF] text-white rounded-[32px] shadow-lg">
-                                    <h4 className="text-xl font-black mb-2 uppercase italic leading-none">The 90-Day Mark: NPA Classification</h4>
+                                    <h5 className="text-xl font-black mb-2 uppercase italic leading-none">The 90-Day Mark: NPA Classification</h5>
                                     <p className="text-sm leading-relaxed font-medium opacity-90">The bank classifies your account as a Non-Performing Asset (NPA). Legal notices drafted by advocates begin to arrive.</p>
                                 </div>
                             </div>
                         </section>
 
                         <section id="recovery-agent-guidelines" className="scroll-mt-32 mb-20 p-12 bg-white border-4 border-gray-100 rounded-[48px] shadow-inner relative mt-20">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 border-l-8 border-[#1F5EFF] pl-6 uppercase tracking-tighter italic">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 border-l-8 border-[#1F5EFF] pl-6 uppercase tracking-tighter italic">
                                 Recovery Agent Guidelines: Your Shield Against Harassment
-                            </h2>
+                            </h3>
                             <p className="mb-8 leading-relaxed">
                                 The most stressful part of credit card default is often the behavior of recovery agents. However, the RBI has issued strict <strong>Circulars on Recovery Agents</strong> that provide you with a powerful defensive shield.
                             </p>
@@ -299,15 +299,15 @@ export default function CreditCardDefaultPage() {
                                 </li>
                             </ul>
                             <div className="p-8 bg-red-50 rounded-3xl border border-red-100">
-                                <h3 className="text-xl font-black text-red-900 mb-2 uppercase">Violation? Strike Back.</h3>
+                                <h4 className="text-xl font-black text-red-900 mb-2 uppercase">Violation? Strike Back.</h4>
                                 <p className="text-sm italic font-bold text-red-700 leading-relaxed">Evidence of these violations can be used to set off the bank's claim in court or file a complaint with the Banking Ombudsman, often leading to heavy penalties for the bank.</p>
                             </div>
                         </section>
 
                         <section id="civil-vs-criminal-implications" className="scroll-mt-32 mb-20 mt-20">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 uppercase tracking-widest leading-[0.9] decoration-[#1F5EFF] underline underline-offset-8">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 uppercase tracking-widest leading-[0.9] decoration-[#1F5EFF] underline underline-offset-8">
                                 Civil recovery vs. Criminal liability
-                            </h2>
+                            </h3>
                             <p className="mb-8 leading-relaxed text-lg font-medium italic opacity-70">
                                 "The bank cannot put you in jail for being poor. They can only sue you for being in debt."
                             </p>
@@ -316,11 +316,11 @@ export default function CreditCardDefaultPage() {
                             </p>
                             <div className="grid md:grid-cols-2 gap-8 my-12">
                                 <div className="p-10 bg-[#2E2E2E] text-white rounded-[48px] shadow-xl border-l-8 border-[#1F5EFF]">
-                                    <h3 className="text-2xl font-black mb-4 uppercase italic leading-none">Criminal Case: Sec 138 Nia</h3>
+                                    <h4 className="text-2xl font-black mb-4 uppercase italic leading-none">Criminal Case: Sec 138 Nia</h4>
                                     <p className="text-sm leading-relaxed opacity-90 font-medium">If you submitted 'Security Cheques' that the bank presented and they bounced, they can file a criminal case. This is why we advise never sharing blank cheques with banks.</p>
                                 </div>
                                 <div className="p-10 bg-[#2E2E2E] text-white rounded-[48px] shadow-xl border-l-8 border-red-500">
-                                    <h4 className="text-2xl font-black mb-4 uppercase italic leading-none">Criminal Case: Sec 420 Ipc</h4>
+                                    <h5 className="text-2xl font-black mb-4 uppercase italic leading-none">Criminal Case: Sec 420 Ipc</h5>
                                     <p className="text-sm leading-relaxed opacity-90 font-medium">If the bank proves you obtained the card by providing forged income documents or misrepresenting identity, they can file a 'Cheating' case under IPC 420.</p>
                                 </div>
                             </div>
@@ -328,7 +328,7 @@ export default function CreditCardDefaultPage() {
 
                         <section id="cibil-credit-repair-strategy" className="scroll-mt-32 mb-20 p-10 bg-blue-50 rounded-[40px] border-2 border-blue-100 relative shadow-sm overflow-hidden">
                             <div className="absolute top-0 right-0 w-32 h-32 bg-blue-500/5 rounded-full -mr-16 -mt-16 blur-xl"></div>
-                            <h2 className="text-3xl font-black text-blue-900 mb-6 uppercase tracking-wider italic">Strategic CIBIL repair: Beyond the Default</h2>
+                            <h3 className="text-3xl font-black text-blue-900 mb-6 uppercase tracking-wider italic">Strategic CIBIL repair: Beyond the Default</h3>
                             <p className="text-lg text-blue-800 leading-relaxed font-medium mb-6">
                                 The damage to your credit report starts from the first missed payment. However, it's not permanent.
                             </p>
@@ -344,23 +344,23 @@ export default function CreditCardDefaultPage() {
                         </section>
 
                         <section id="limitation-act-protection" className="scroll-mt-32 mb-20 mt-20">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 border-l-8 border-[#2E2E2E] pl-6 uppercase tracking-widest leading-none">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 border-l-8 border-[#2E2E2E] pl-6 uppercase tracking-widest leading-none">
                                 Limitation Act: The 3-Year Expiry Shield
-                            </h2>
+                            </h3>
                             <p className="mb-8 leading-relaxed">
                                 Under the <strong>Indian Limitation Act, 1963</strong>, the window for a bank to file a lawsuit for credit card recovery is limited to <strong>3 years</strong>. This period is calculated from the date of the last payment you made or the date you last officially 'acknowledged' the debt in writing.
                             </p>
                             <div className="bg-red-900 p-10 rounded-[48px] text-white my-12 shadow-2xl">
-                                <h3 className="text-2xl font-black mb-4 uppercase italic text-red-500 leading-[0.9]">The "Acknowledgement" Trap</h3>
+                                <h4 className="text-2xl font-black mb-4 uppercase italic text-red-500 leading-[0.9]">The "Acknowledgement" Trap</h4>
                                 <p className="text-sm leading-relaxed opacity-80 font-bold italic mb-6">A single signature on a 'Balance Confirmation' letter or even a nominal payment of ₹500 via GPay can reset the 3-year clock.</p>
                                 <p className="text-xs font-black uppercase tracking-[0.2em] decoration-red-500 underline underline-offset-4">Do not acknowledge debts older than 3 years without checking the limitation status first.</p>
                             </div>
                         </section>
 
                         <section id="negotiating-ots-settlement" className="scroll-mt-32 mb-20">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 uppercase tracking-widest decoration-[#1F5EFF] underline underline-offset-8">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 uppercase tracking-widest decoration-[#1F5EFF] underline underline-offset-8">
                                 Negotiating the OTS: The Math of Freedom
-                            </h2>
+                            </h3>
                             <p className="mb-8 leading-relaxed">
                                 A <strong>One-Time Settlement (OTS)</strong> is often the most pragmatic end to a credit card crisis. Banks prefer liquid cash today over a litigation process that might yield nothing from an 'unsecured' debtor tomorrow.
                             </p>
@@ -370,19 +370,19 @@ export default function CreditCardDefaultPage() {
                             <div className="grid md:grid-cols-2 gap-8 my-12">
                                 <div className="p-10 bg-gray-50 rounded-[48px] border border-gray-100 shadow-sm relative overflow-hidden group">
                                     <div className="absolute top-0 right-0 w-24 h-24 bg-[#1F5EFF]/5 rounded-full -mr-12 -mt-12 group-hover:scale-150 transition-transform"></div>
-                                    <h3 className="text-xl font-black mb-4 uppercase tracking-tighter text-[#2E2E2E]">Waiver Protocol</h3>
+                                    <h4 className="text-xl font-black mb-4 uppercase tracking-tighter text-[#2E2E2E]">Waiver Protocol</h4>
                                     <p className="text-sm leading-relaxed opacity-70 font-medium italic">We identify and demand the waiver of 'Penal Interest' and 'Over-limit Charges', which often make up 60% of the bank's claim.</p>
                                 </div>
                                 <div className="p-10 bg-gray-50 rounded-[48px] border border-gray-100 shadow-sm relative overflow-hidden group text-right">
                                     <div className="absolute bottom-0 left-0 w-24 h-24 bg-[#1F5EFF]/5 rounded-full -ml-12 -mb-12 group-hover:scale-150 transition-transform"></div>
-                                    <h4 className="text-xl font-black mb-4 uppercase tracking-tighter text-[#2E2E2E]">Proof of Hardship</h4>
+                                    <h5 className="text-xl font-black mb-4 uppercase tracking-tighter text-[#2E2E2E]">Proof of Hardship</h5>
                                     <p className="text-sm leading-relaxed opacity-70 font-medium italic">Documented job loss or medical urgency is the ultimate leverage during an OTS negotiation board meeting.</p>
                                 </div>
                             </div>
                         </section>
 
                         <section id="ombudsman-harassment-redressal" className="scroll-mt-32 mb-20 p-12 bg-[#1F5EFF] rounded-[56px] text-white shadow-2xl relative">
-                            <h2 className="text-3xl md:text-4xl font-black mb-6 uppercase tracking-tighter italic leading-none">The Ombudsman Protocol</h2>
+                            <h3 className="text-3xl md:text-4xl font-black mb-6 uppercase tracking-tighter italic leading-none">The Ombudsman Protocol</h3>
                             <p className="text-xl leading-relaxed opacity-90 font-medium mb-8">
                                 If you are being harassed, the bank is at fault. The <strong>RBI Ombudsman Scheme</strong> allows you to file a complaint against the bank for unethical recovery practices.
                             </p>
@@ -390,9 +390,9 @@ export default function CreditCardDefaultPage() {
                         </section>
 
                         <section id="summary-suits-order-37" className="scroll-mt-32 mb-20 mt-20">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 uppercase tracking-widest italic border-l-8 border-[#2E2E2E] pl-6 leading-none">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 uppercase tracking-widest italic border-l-8 border-[#2E2E2E] pl-6 leading-none">
                                 Summary Suits (Order 37): The Legal Express
-                            </h2>
+                            </h3>
                             <p className="mb-8 leading-relaxed">
                                 Banks often use <strong>Summary Suits</strong> for credit card recovery because they're faster. In these cases, you don't automatically get to defend yourself. You must apply for 'Leave to Defend' within 10 days of receiving the summons.
                             </p>
@@ -402,9 +402,9 @@ export default function CreditCardDefaultPage() {
                         </section>
 
                         <section id="debt-validation-process" className="scroll-mt-32 mb-20">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 uppercase tracking-widest decoration-[#1F5EFF] underline underline-offset-8">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 uppercase tracking-widest decoration-[#1F5EFF] underline underline-offset-8">
                                 The Debt Validation Rights
-                            </h2>
+                            </h3>
                             <p className="mb-8 leading-relaxed">
                                 Never blindly trust the 'Outstanding' amount mentioned in a recovery call. You have the right to demand a <strong>Debt Validation Letter</strong>.
                             </p>
@@ -462,7 +462,7 @@ export default function CreditCardDefaultPage() {
                         </section>
 
                         <section id="faqs" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 uppercase tracking-widest leading-none">Credit Card Default FAQs</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 uppercase tracking-widest leading-none">Credit Card Default FAQs</h3>
                             <div className="space-y-4 not-prose">
                                 {(jsonLd["@graph"] as any)[4]?.mainEntity?.map((faq: any, i: number) => (
                                     <details key={i} className="group bg-white border border-[#DEDEDE] rounded-xl overflow-hidden hover:shadow-md transition-all border-b-4 border-b-[#1F5EFF]/20 shadow-sm">
@@ -490,7 +490,7 @@ export default function CreditCardDefaultPage() {
                         <div className="lg:hidden mt-16 mb-8">
                             <div className="bg-[#2E2E2E] rounded-2xl shadow-xl overflow-hidden border border-[#1F5EFF]/20">
                                 <div className="bg-[#1F5EFF] p-6 text-center text-white">
-                                    <h3 className="text-2xl font-black mb-2 uppercase tracking-tighter">Debt-Free Future</h3>
+                                    <h4 className="text-2xl font-black mb-2 uppercase tracking-tighter">Debt-Free Future</h4>
                                     <p className="opacity-90 text-sm italic font-medium">Stop the interest clock. Negotiate a final settlement and rebuild your financial life today.</p>
                                 </div>
                                 <div className="p-8 text-center text-[#DEDEDE]">

@@ -496,9 +496,9 @@ export default function Rbi100RupeesDailyCompensationCibilDelayPage() {
 
             {/* Section 2 */}
             <section id="statutory-resolution-timeline-clock" className="space-y-4">
-              <h2 className="text-xl sm:text-2xl font-black text-slate-900 tracking-tight">
+              <h3 className="text-xl sm:text-2xl font-black text-slate-900 tracking-tight">
                 2. The 30-Day Resolution Clock: Bank and Bureau Liability
-              </h2>
+              </h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 The centerpiece of the RBI compensation framework is an absolute 30-calendar-day resolution window that commences the moment a borrower formally registers a credit information grievance with either a lending institution or a credit bureau. To eliminate the historical practice wherein banks and credit bureaus deflected mutual blame for unrectified records, the Reserve Bank formulated precise institutional time budgets that delineate exact procedural responsibilities between Credit Institutions (CIs) and Credit Information Companies (CICs).
               </p>
@@ -512,9 +512,9 @@ export default function Rbi100RupeesDailyCompensationCibilDelayPage() {
 
             {/* Section 3 */}
             <section id="qualifying-grounds-for-compensation" className="space-y-4">
-              <h2 className="text-xl sm:text-2xl font-black text-slate-900 tracking-tight">
+              <h3 className="text-xl sm:text-2xl font-black text-slate-900 tracking-tight">
                 3. Qualifying Grounds for Claiming ₹100 Daily Delay Penalty
-              </h2>
+              </h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 The entitlement to ₹100 daily delay compensation is not restricted to clerical typographical errors; it extends across five primary operational scenarios where lenders and bureaus compromise a borrower&apos;s credit standing through administrative default or reporting failures. Recognizing these qualifying grounds ensures that aggrieved borrowers frame their initial legal grievances with precision, establishing an unassailable evidentiary audit trail.
               </p>
@@ -560,9 +560,9 @@ export default function Rbi100RupeesDailyCompensationCibilDelayPage() {
 
             {/* Section 4 */}
             <section id="bank-accounting-npv-recovery-dynamics" className="space-y-4">
-              <h2 className="text-xl sm:text-2xl font-black text-slate-900 tracking-tight">
+              <h3 className="text-xl sm:text-2xl font-black text-slate-900 tracking-tight">
                 4. Bank Accounting, Provisioning, and NPA Recovery Dynamics
-              </h2>
+              </h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 To understand why banks historically neglected credit updates—and why the RBI ₹100 daily penalty successfully forces prompt action—one must analyze the internal accounting mechanics of distressed asset resolution. Under the RBI Master Directions on Prudential Norms on Income Recognition, Asset Classification and Provisioning pertaining to Advances (IRACP), banks must maintain stringent capital reserves against non-performing loans. When an account defaults, it progresses from Sub-Standard (requiring a 15% provision) to Doubtful (requiring 25% to 100% provisioning), locking up high-cost Tier-1 capital that cannot be deployed for profitable lending.
               </p>
@@ -591,9 +591,9 @@ export default function Rbi100RupeesDailyCompensationCibilDelayPage() {
 
             {/* Section 5: Infographic Banner */}
             <section id="visual-infographic-timeline-flow" className="space-y-4">
-              <h2 className="text-xl sm:text-2xl font-black text-slate-900 tracking-tight">
+              <h3 className="text-xl sm:text-2xl font-black text-slate-900 tracking-tight">
                 5. Visual Guide: 30-Day Resolution and Compensation Flow
-              </h2>
+              </h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 The structural workflow below illustrates the statutory 30-calendar-day dispute resolution lifecycle governed by RBI Circular RBI/2023-24/73. It delineates the exact operational handoff between Credit Institutions (21-day verification ceiling) and Credit Information Companies (9-day ingestion limit), demonstrating how the ₹100 per day compensation meter activates automatically on Day 31.
               </p>
@@ -616,9 +616,9 @@ export default function Rbi100RupeesDailyCompensationCibilDelayPage() {
 
             {/* Section 6 */}
             <section id="procedural-filing-protocol-dcn" className="space-y-4">
-              <h2 className="text-xl sm:text-2xl font-black text-slate-900 tracking-tight">
+              <h3 className="text-xl sm:text-2xl font-black text-slate-900 tracking-tight">
                 6. Procedural Filing Protocol: Activating the Dispute Clock
-              </h2>
+              </h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 To hold a bank or credit bureau strictly liable for ₹100 daily compensation, the borrower must establish an indisputable evidentiary audit trail complying with the legal standards of the Bharatiya Sakshya Adhiniyam, 2023 (BSA). Informal phone calls to call center executives or verbal discussions with local branch managers do not constitute statutory notice under the RBI circular. Borrowers must adhere to a rigorous four-stage filing protocol.
               </p>
@@ -664,9 +664,9 @@ export default function Rbi100RupeesDailyCompensationCibilDelayPage() {
 
             {/* Section 7 */}
             <section id="direct-account-credit-apportionment" className="space-y-4">
-              <h2 className="text-xl sm:text-2xl font-black text-slate-900 tracking-tight">
+              <h3 className="text-xl sm:text-2xl font-black text-slate-900 tracking-tight">
                 7. Direct Account Credit Rules and Penalty Apportionment
-              </h2>
+              </h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 The Reserve Bank of India established clear financial payout guidelines to ensure that compensation is not converted into arbitrary credit notes, fee waivers, or illusory administrative adjustments. The compensation must be credited as actual cash directly into the complainant&apos;s bank account through automated electronic fund transfers (NEFT, RTGS, or IMPS). Furthermore, the regulatory framework mandates that this remittance must be completed within 5 working days from the date the dispute is officially resolved.
               </p>
@@ -695,9 +695,9 @@ export default function Rbi100RupeesDailyCompensationCibilDelayPage() {
 
             {/* Section 8 */}
             <section id="ombudsman-consumer-commission-escalation" className="space-y-4">
-              <h2 className="text-xl sm:text-2xl font-black text-slate-900 tracking-tight">
+              <h3 className="text-xl sm:text-2xl font-black text-slate-900 tracking-tight">
                 8. Escalation Pathways: RBI Ombudsman and Consumer Forum
-              </h2>
+              </h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 When a regulated entity fails to resolve a credit grievance within 30 calendar days, or executes the correction but refuses to disburse the accrued ₹100 daily penalty within the mandatory 5-working-day remittance window, the borrower possesses robust statutory escalation avenues under Indian banking and consumer protection jurisprudence.
               </p>
@@ -711,9 +711,9 @@ export default function Rbi100RupeesDailyCompensationCibilDelayPage() {
 
             {/* Section 9 */}
             <section id="comparative-liability-matrix" className="space-y-4">
-              <h2 className="text-xl sm:text-2xl font-black text-slate-900 tracking-tight">
+              <h3 className="text-xl sm:text-2xl font-black text-slate-900 tracking-tight">
                 9. Comparative Matrix: Regulatory Deadlines and Liabilities
-              </h2>
+              </h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 The operational response times and supervisory oversight mechanisms differ significantly across institutional categories. The comparative matrix below outlines statutory turnaround times, liability thresholds, and primary redressal channels across the Indian banking ecosystem.
               </p>
@@ -776,9 +776,9 @@ export default function Rbi100RupeesDailyCompensationCibilDelayPage() {
 
             {/* Section 10 */}
             <section id="institutional-legal-defense-ots" className="space-y-4">
-              <h2 className="text-xl sm:text-2xl font-black text-slate-900 tracking-tight">
+              <h3 className="text-xl sm:text-2xl font-black text-slate-900 tracking-tight">
                 10. Institutional Legal Defense and Clean Credit Recovery
-              </h2>
+              </h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Successfully recovering from financial distress requires more than executing a settlement payment; it necessitates complete, legally enforceable rehabilitation of your credit profile. When negotiating a One-Time Settlement without professional legal advocacy, borrowers routinely fall victim to verbal representations made by outsourced recovery agents who promise credit score clearance but have no authority over banking records. Once the borrower pays, the bank records the account as a unilateral write-off, leaving an indelible negative mark on bureau files.
               </p>
@@ -797,9 +797,9 @@ export default function Rbi100RupeesDailyCompensationCibilDelayPage() {
             <section id="frequently-asked-questions" className="space-y-6 pt-4">
               <div className="flex items-center gap-2 pb-2 border-b border-slate-200">
                 <HelpCircle className="w-5 h-5 text-[#1F5EFF]" />
-                <h2 className="text-xl sm:text-2xl font-black text-slate-900 tracking-tight">
+                <h3 className="text-xl sm:text-2xl font-black text-slate-900 tracking-tight">
                   11. Frequently Asked Questions
-                </h2>
+                </h3>
               </div>
 
               <div className="space-y-3">

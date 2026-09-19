@@ -259,15 +259,15 @@ export default function FreezeCompanyAccountDefensePage() {
             </section>
 
             <section id="right-of-set-off" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 Banker's Right of Set-Off Explained
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 Banks often justify freezing accounts by citing the "Banker's Right of Set-Off" or "General Lien." However, they frequently misuse or misinterpret this right when dealing with corporate accounts.
               </p>
 
               <div className="bg-blue-50 border-l-8 border-[#1F5EFF] p-8 rounded-r-2xl mb-8">
-                <h3 className="text-xl font-black text-[#1F5EFF] mb-4">The Rule of "Same Capacity"</h3>
+                <h4 className="text-xl font-black text-[#1F5EFF] mb-4">The Rule of "Same Capacity"</h4>
                 <p className="text-blue-900 text-lg leading-relaxed mb-4">
                   For a bank to legally exercise the right of set-off (i.e., taking money from one account to pay off a loan in another), two absolute conditions must be met:
                 </p>
@@ -285,13 +285,13 @@ export default function FreezeCompanyAccountDefensePage() {
 
               <div className="grid md:grid-cols-2 gap-6 my-8">
                 <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
-                  <h4 className="font-black text-[#1F5EFF] text-lg mb-3">Personal Capacity</h4>
+                  <h5 className="font-black text-[#1F5EFF] text-lg mb-3">Personal Capacity</h5>
                   <p className="text-gray-700 leading-relaxed">
                     If Mr. Sharma takes a personal loan in his individual capacity, his liability is personal. The bank can freeze his personal savings account if he defaults, as both are in his personal capacity.
                   </p>
                 </div>
                 <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
-                  <h4 className="font-black text-[#1F5EFF] text-lg mb-3">Corporate Capacity</h4>
+                  <h5 className="font-black text-[#1F5EFF] text-lg mb-3">Corporate Capacity</h5>
                   <p className="text-gray-700 leading-relaxed">
                     If Mr. Sharma is a director of Sharma Tech Pvt Ltd, the company's current account is held in a corporate capacity. The bank cannot touch these funds for his personal loan, as the capacities do not match.
                   </p>
@@ -300,9 +300,9 @@ export default function FreezeCompanyAccountDefensePage() {
             </section>
 
             <section id="when-can-they-freeze" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 When CAN a Bank Legally Freeze the Account?
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 There are very narrow, specific exceptions where a bank might legally touch a company account for a director's actions. It is crucial to check your loan documentation to see if these apply.
               </p>
@@ -320,22 +320,22 @@ export default function FreezeCompanyAccountDefensePage() {
             </section>
 
             <section id="proprietorship-vs-company" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 Proprietorships vs. Companies: A Crucial Difference
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 The business structure you operate under determines your vulnerability to these banking tactics. Many business owners confuse the protections of different entities.
               </p>
               
               <div className="grid md:grid-cols-2 gap-6 my-8">
                 <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
-                  <h3 className="font-black text-[#1F5EFF] text-lg mb-3">Sole Proprietorship</h3>
+                  <h4 className="font-black text-[#1F5EFF] text-lg mb-3">Sole Proprietorship</h4>
                   <p className="text-gray-700 leading-relaxed">
                     In the eyes of the law, a sole proprietorship and the proprietor are the <strong>exact same legal entity</strong>. There is no corporate veil. If you default on a personal credit card, the bank <strong>can</strong> legally freeze your proprietorship firm's current account.
                   </p>
                 </div>
                 <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
-                  <h4 className="font-black text-[#1F5EFF] text-lg mb-3">Private Limited / LLP</h4>
+                  <h5 className="font-black text-[#1F5EFF] text-lg mb-3">Private Limited / LLP</h5>
                   <p className="text-gray-700 leading-relaxed">
                     These entities enjoy the protection of the corporate veil. The director and the company are separate. The bank <strong>cannot</strong> freeze the Pvt Ltd current account for a personal default.
                   </p>
@@ -344,11 +344,11 @@ export default function FreezeCompanyAccountDefensePage() {
             </section>
 
             <section id="illegal-freezing" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 Illegal Freezing: A Threat to MSMEs
-              </h2>
+              </h3>
               <div className="bg-red-50 p-6 rounded-xl border border-red-100 mb-8">
-                <h3 className="text-xl font-black text-red-700 mb-3">The devastating impact of arbitrary banking actions</h3>
+                <h4 className="text-xl font-black text-red-700 mb-3">The devastating impact of arbitrary banking actions</h4>
                 <p className="text-red-900 leading-relaxed">
                   When a bank illegally freezes an MSME's working capital account, the consequences are immediate and disastrous. Payroll bounces, vendor payments fail, and business operations grind to a halt. Banks often do this intentionally as an aggressive pressure tactic, knowing it is illegal, hoping the director will panic and clear the personal debt immediately to save the company.
                 </p>
@@ -359,9 +359,9 @@ export default function FreezeCompanyAccountDefensePage() {
             </section>
 
             <section id="legal-remedies" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 Legal Remedies & Immediate Actions
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 If your company account has been illegally frozen for a personal loan default, time is of the essence. You must fight back legally to restore your business operations.
               </p>
@@ -370,7 +370,7 @@ export default function FreezeCompanyAccountDefensePage() {
                 <div className="flex gap-6">
                   <div className="flex-shrink-0 w-12 h-12 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center font-black text-xl shadow-lg">1</div>
                   <div>
-                    <h3 className="text-2xl font-bold text-[#2E2E2E] mb-2">Send a Legal Notice Immediately</h3>
+                    <h4 className="text-2xl font-bold text-[#2E2E2E] mb-2">Send a Legal Notice Immediately</h4>
                     <p className="text-lg text-gray-700 leading-relaxed">
                       Your lawyer must send an urgent legal notice to the Branch Manager and the Nodal Officer of the bank. The notice must clearly cite the separate legal entity status of the company, demand the immediate unfreezing of the account, and threaten legal action for damages.
                     </p>
@@ -380,7 +380,7 @@ export default function FreezeCompanyAccountDefensePage() {
                 <div className="flex gap-6">
                   <div className="flex-shrink-0 w-12 h-12 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center font-black text-xl shadow-lg">2</div>
                   <div>
-                    <h3 className="text-2xl font-bold text-[#2E2E2E] mb-2">File a Writ Petition in the High Court</h3>
+                    <h4 className="text-2xl font-bold text-[#2E2E2E] mb-2">File a Writ Petition in the High Court</h4>
                     <p className="text-lg text-gray-700 leading-relaxed">
                       If the bank does not comply within 24-48 hours, expert corporate lawyers can file a Writ of Mandamus in the respective High Court. Courts take a very strict view of banks bypassing the law to paralyze businesses, and often pass interim orders to unfreeze accounts swiftly.
                     </p>
@@ -390,7 +390,7 @@ export default function FreezeCompanyAccountDefensePage() {
                 <div className="flex gap-6">
                   <div className="flex-shrink-0 w-12 h-12 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center font-black text-xl shadow-lg">3</div>
                   <div>
-                    <h3 className="text-2xl font-bold text-[#2E2E2E] mb-2">Approach the Banking Ombudsman</h3>
+                    <h4 className="text-2xl font-bold text-[#2E2E2E] mb-2">Approach the Banking Ombudsman</h4>
                     <p className="text-lg text-gray-700 leading-relaxed">
                       Simultaneously, file a grievance with the RBI Banking Ombudsman for deficiency in service and arbitrary freezing of accounts without due process of law.
                     </p>
@@ -400,9 +400,9 @@ export default function FreezeCompanyAccountDefensePage() {
             </section>
 
             <section id="success-stories" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 Client Success Stories
-              </h2>
+              </h3>
               <div className="grid md:grid-cols-2 gap-6 my-8">
                 <div className="bg-white p-8 rounded-[30px] border border-[#DEDEDE] shadow-sm hover:shadow-xl group transition-all">
                   <div className="flex items-center gap-4 mb-6">
@@ -410,7 +410,7 @@ export default function FreezeCompanyAccountDefensePage() {
                       AR
                     </div>
                     <div>
-                      <h3 className="font-bold text-gray-900">Alok R.</h3>
+                      <h4 className="font-bold text-gray-900">Alok R.</h4>
                       <div className="flex text-yellow-400">
                         <svg className="w-4 h-4 fill-current" viewBox="0 0 20 20"><path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z"/></svg>
                         <svg className="w-4 h-4 fill-current" viewBox="0 0 20 20"><path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z"/></svg>
@@ -435,7 +435,7 @@ export default function FreezeCompanyAccountDefensePage() {
                       MS
                     </div>
                     <div>
-                      <h4 className="font-bold text-gray-900">Meera S.</h4>
+                      <h5 className="font-bold text-gray-900">Meera S.</h5>
                       <div className="flex text-yellow-400">
                         <svg className="w-4 h-4 fill-current" viewBox="0 0 20 20"><path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z"/></svg>
                         <svg className="w-4 h-4 fill-current" viewBox="0 0 20 20"><path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z"/></svg>
@@ -457,13 +457,13 @@ export default function FreezeCompanyAccountDefensePage() {
             </section>
 
             <section id="faqs" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 Frequently Asked Questions
-              </h2>
+              </h3>
               <div className="space-y-4">
                 {(jsonLd["@graph"][4] as any)?.mainEntity?.map((faq: any, idx: number) => (
                   <div key={idx} className="bg-white border border-[#DEDEDE] rounded-xl p-6 hover:shadow-md transition-shadow">
-                    <h3 className="font-bold text-[#2E2E2E] text-lg mb-2">{faq.name}</h3>
+                    <h4 className="font-bold text-[#2E2E2E] text-lg mb-2">{faq.name}</h4>
                     <p className="text-gray-600 leading-relaxed">{faq.acceptedAnswer.text}</p>
                   </div>
                 ))}
@@ -473,7 +473,7 @@ export default function FreezeCompanyAccountDefensePage() {
             {/* Lead Gen Hook */}
             <div className="bg-[#2E2E2E] text-white p-12 rounded-[40px] text-center mt-24 relative overflow-hidden group">
               <div className="absolute inset-0 bg-[#1F5EFF] opacity-0 group-hover:opacity-5 transition-opacity"></div>
-              <h3 className="text-3xl font-black mb-6 relative z-10">Protect Your Business Operations</h3>
+              <h4 className="text-3xl font-black mb-6 relative z-10">Protect Your Business Operations</h4>
               <p className="text-xl opacity-90 mb-8 relative z-10 max-w-2xl mx-auto">
                 Did the bank illegally freeze your company's current account over your personal loan, halting your business operations? Our corporate lawyers can file an immediate writ petition to unfreeze your working capital.
               </p>

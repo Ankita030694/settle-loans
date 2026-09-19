@@ -527,7 +527,7 @@ export default function RecoveryAgentMisbehavingWithWomenPage() {
 
             {/* Section 2: RBI Directives & Mandatory Female Staff Rule */}
             <section id="rbi-mandates-female-agent-rule" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">2. RBI Protections for Women Borrowers</h2>
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">2. RBI Protections for Women Borrowers</h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">The Reserve Bank of India (RBI) sets clear conduct rules for bank banks, NBFCs. and Direct Recovery Agencies (DRAs). These regulations protect the safety, dignity. And privacy of female debtors.</p>
 
               <div className="p-4 rounded-2xl bg-blue-50 border border-blue-200 text-xs sm:text-sm text-blue-900 space-y-2 my-4">
@@ -567,36 +567,36 @@ export default function RecoveryAgentMisbehavingWithWomenPage() {
 
             {/* Section 3: Criminal Law Protections: Sections 74, 75 & 79 BNS (IPC 354 & 509) */}
             <section id="bns-ipc-criminal-protections" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">3. Criminal Law Protections for Women</h2>
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">3. Criminal Law Protections for Women</h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">abuse of female debtors goes beyond civil banking disputes. It is a serious criminal offense. Under the <strong>Bharatiya Nyaya Sanhita (BNS), 2023</strong> and earlier Indian Penal Code (IPC) sections, strong criminal laws protect women from abusive agents:</p>
 
               <div className="space-y-3 my-4">
                 <div className="p-4 rounded-xl border-l-4 border-rose-500 bg-slate-50 space-y-1">
-                  <h3 className="font-bold text-slate-900 text-xs sm:text-sm flex items-center gap-1.5">
+                  <h4 className="font-bold text-slate-900 text-xs sm:text-sm flex items-center gap-1.5">
                     <AlertCircle className="w-4 h-4 text-rose-600" />
                     <span>Outraging Modesty of a Woman (Section 74 BNS / Section 354 IPC)</span>
-                  </h3>
+                  </h4>
                   <p className="text-xs text-slate-600 leading-relaxed">Anyone using force to outrage a woman&apos;s modesty commits a non-bailable crime. Agents who block doorways, make harsh physical gestures. or touch a woman face one to five years in jail and heavy fines.</p>
                 </div>
                 <div className="p-4 rounded-xl border-l-4 border-amber-500 bg-slate-50 space-y-1">
-                  <h4 className="font-bold text-slate-900 text-xs sm:text-sm flex items-center gap-1.5">
+                  <h5 className="font-bold text-slate-900 text-xs sm:text-sm flex items-center gap-1.5">
                     <ShieldAlert className="w-4 h-4 text-amber-600" />
                     <span>Sexual Harassment &amp; Lewd Conduct (Section 75 BNS / Section 354A IPC)</span>
-                  </h4>
+                  </h5>
                   <p className="text-xs text-slate-600 leading-relaxed">Agents who make unwelcome physical contact, demand favors. or make vulgar remarks in person or over phone calls face up to three years of rigorous imprisonment.</p>
                 </div>
                 <div className="p-4 rounded-xl border-l-4 border-purple-500 bg-slate-50 space-y-1">
-                  <h4 className="font-bold text-slate-900 text-xs sm:text-sm flex items-center gap-1.5">
+                  <h5 className="font-bold text-slate-900 text-xs sm:text-sm flex items-center gap-1.5">
                     <Scale className="w-4 h-4 text-purple-600" />
                     <span>Insulting the Modesty of a Woman (Section 79 BNS / Section 509 IPC)</span>
-                  </h4>
+                  </h5>
                   <p className="text-xs text-slate-600 leading-relaxed">Anyone who utters rude words, makes offensive gestures. or invades a woman&apos;s privacy faces up to three years in jail. Shouting insults in front of neighbors falls squarely under this law.</p>
                 </div>
                 <div className="p-4 rounded-xl border-l-4 border-indigo-500 bg-slate-50 space-y-1">
-                  <h4 className="font-bold text-slate-900 text-xs sm:text-sm flex items-center gap-1.5">
+                  <h5 className="font-bold text-slate-900 text-xs sm:text-sm flex items-center gap-1.5">
                     <Gavel className="w-4 h-4 text-indigo-600" />
                     <span>Criminal Intimidation &amp; Trespass (Sections 351, 352 &amp; 329 BNS / Sections 503, 506 &amp; 441 IPC)</span>
-                  </h4>
+                  </h5>
                   <p className="text-xs text-slate-600 leading-relaxed">Threatening injury or entering a private home unlawfully to cause fear gives the police legal power to arrest the offending agents right away.</p>
                 </div>
               </div>
@@ -606,7 +606,7 @@ export default function RecoveryAgentMisbehavingWithWomenPage() {
 
             {/* Section 4: Bank Accounting Dynamics, NPA Delinquency & NPV Recovery Formula */}
             <section id="npa-accounting-npv-recovery-equation" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">4. Bank Provisions &amp; Harassment Liabilities</h2>
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">4. Bank Provisions &amp; Harassment Liabilities</h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">Knowing bank accounting helps debtors fight back against recovery abuse. bank banks and NBFCs must follow strict RBI reserves rules. When an unsecured personal loan or credit card goes unpaid for 90 days, it becomes a <strong>defaulted Asset (NPA)</strong>. The bank must then set aside capital reserves:</p>
 
               <div className="overflow-x-auto my-4">
@@ -667,7 +667,7 @@ export default function RecoveryAgentMisbehavingWithWomenPage() {
 
             {/* Section 5: Infographic Banner */}
             <section id="legal-protection-visual-roadmap" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">5. Women Legal Defense Strategic Roadmap</h2>
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">5. Women Legal Defense Strategic Roadmap</h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">The roadmap below shows the 5-step process used by banking advocates to stop collection abuse, file NCW complaints. And secure an official loan settlement.</p>
               
               <div className="relative w-full rounded-2xl overflow-hidden shadow-lg border border-slate-200 my-6 bg-slate-950 aspect-[16/9]">
@@ -700,24 +700,24 @@ export default function RecoveryAgentMisbehavingWithWomenPage() {
 
             {/* Section 6: The Emergency 4-Stage Legal Counter-Action Protocol */}
             <section id="emergency-4-stage-action-protocol" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">6. The 4-Stage Legal Counter-Action Protocol</h2>
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">6. The 4-Stage Legal Counter-Action Protocol</h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">When recovery agents act aggressively toward women, getting angry or panicking does not help. Collection agencies thrive on fear. Instead, legal advocates follow a proven 4-stage protocol to stop abuse and protect your family:</p>
 
               <div className="space-y-3 my-4">
                 <div className="p-4 rounded-xl border-l-4 border-rose-600 bg-slate-50 space-y-1">
-                  <h3 className="font-bold text-slate-900 text-xs sm:text-sm">Stage 1: Forensic Evidence Preservation &amp; Identification Capture</h3>
+                  <h4 className="font-bold text-slate-900 text-xs sm:text-sm">Stage 1: Forensic Evidence Preservation &amp; Identification Capture</h4>
                   <p className="text-xs text-slate-600 leading-relaxed">Record all phone calls on your device. Take videos of visiting agents or save CCTV footage. Ask for the agent&apos;s bank ID card, DRA certificate. And authorization letter. Write down dates, times, vehicle numbers. And caller IDs.</p>
                 </div>
                 <div className="p-4 rounded-xl border-l-4 border-blue-600 bg-slate-50 space-y-1">
-                  <h4 className="font-bold text-slate-900 text-xs sm:text-sm">Stage 2: Serving Advocate Cease-and-Desist &amp; Criminal Defamation Notice</h4>
+                  <h5 className="font-bold text-slate-900 text-xs sm:text-sm">Stage 2: Serving Advocate Cease-and-Desist &amp; Criminal Defamation Notice</h5>
                   <p className="text-xs text-slate-600 leading-relaxed">Your lawyer sends an urgent legal notice to the bank&apos;s Managing Director and Principal Nodal Officer. The notice cites violations under Section 74/75/79 BNS and the RBI Fair Practices Code to stop home visits.</p>
                 </div>
                 <div className="p-4 rounded-xl border-l-4 border-purple-600 bg-slate-50 space-y-1">
-                  <h4 className="font-bold text-slate-900 text-xs sm:text-sm">Stage 3: National Commission for Women (NCW) &amp; Police Mahila Thana Filing</h4>
+                  <h5 className="font-bold text-slate-900 text-xs sm:text-sm">Stage 3: National Commission for Women (NCW) &amp; Police Mahila Thana Filing</h5>
                   <p className="text-xs text-slate-600 leading-relaxed">If agents trespass or use abusive words, counsel files a complaint on the <strong>NCW portal (ncwapps.nic.in)</strong>. A formal complaint is also filed at the Mahila Police Thana and on the <strong>RBI CMS portal (cms.rbi.org.in)</strong>.</p>
                 </div>
                 <div className="p-4 rounded-xl border-l-4 border-emerald-600 bg-slate-50 space-y-1">
-                  <h4 className="font-bold text-slate-900 text-xs sm:text-sm">Stage 4: Strategic Transition to Structured Debt Resolution (OTS)</h4>
+                  <h5 className="font-bold text-slate-900 text-xs sm:text-sm">Stage 4: Strategic Transition to Structured Debt Resolution (OTS)</h5>
                   <p className="text-xs text-slate-600 leading-relaxed">With collection visits halted and bank leaders facing regulatory complaints, our lawyers settle directly with the bank&apos;s Stressed Asset Desk to secure an affordable settlement.</p>
                 </div>
               </div>
@@ -727,7 +727,7 @@ export default function RecoveryAgentMisbehavingWithWomenPage() {
 
             {/* Section 7: Converting Harassment into 45%–65% One-Time Settlement (OTS) */}
             <section id="transforming-harassment-into-ots" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">7. Negotiating a 45%–65% Settlement on Harassment</h2>
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">7. Negotiating a 45%–65% Settlement on Harassment</h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">Recovery agent abuse shows that the lender cannot collect through normal legal paths. By documenting these violations with a lawyer, you gain strong leverage to settle a formal <strong>One-Time Settlement (OTS)</strong>.</p>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">Instead of paying inflated fines, our banking advocates settle structured settlement terms:</p>
 
@@ -765,7 +765,7 @@ export default function RecoveryAgentMisbehavingWithWomenPage() {
 
             {/* Section 8: Sanction Letter Forensics, Direct Remittance & RBI NDC Mandate */}
             <section id="sanction-letter-forensics-rbi-ndc" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">8. Sanction Letter Forensics &amp; NDC for Women Borrowers</h2>
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">8. Sanction Letter Forensics &amp; NDC for Women Borrowers</h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">Debtors must be careful when accepting a loan settlement. Rogue agents often share fake settlement letters on WhatsApp to collect quick funds. Never transfer any money until your legal counsel verifies the sanction letter.</p>
               
               <div className="p-4 rounded-2xl bg-amber-50 border border-amber-200 text-xs sm:text-sm text-amber-900 space-y-2 my-4">
@@ -789,15 +789,15 @@ export default function RecoveryAgentMisbehavingWithWomenPage() {
                 <p className="leading-relaxed text-emerald-900">Under <strong>RBI Circular RBI/2023-24/60</strong>, lenders must issue a formal <strong>No Dues Certificate (NDC)</strong> within <strong>30 days</strong> of full settlement. They must also update CIBIL, Experian, Equifax. and CRIF to show zero balance. Any delay beyond 30 days entitles the debtor to <strong>₹5,000 per day</strong> in payout.</p>
               </div>
 
-              <h3 className="text-base sm:text-lg font-bold text-slate-900 pt-2">
+              <h4 className="text-base sm:text-lg font-bold text-slate-900 pt-2">
                 CIBIL Bureau Reporting &amp; Post-Settlement Credit Rehabilitation
-              </h3>
+              </h4>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">After settlement, credit bureaus mark the loan as <strong>&quot;Settled&quot;</strong> with an outstanding balance of <strong>₹0</strong>. This may cause a temporary drop of 60 to 100 points. But it stops default accumulation and ends abuse. You can rebuild your score above 750 in 18 to 24 months with a secured credit card and timely payments.</p>
             </section>
 
             {/* Section 9: Comparative Protection Matrix */}
             <section id="comparative-legal-defense-matrix" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">9. Women Borrower Legal Defense Matrix</h2>
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">9. Women Borrower Legal Defense Matrix</h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">Evaluating the legal remedies available to female debtors and families facing harsh collection tactics highlights the power of formal legal action:</p>
 
               <div className="overflow-x-auto my-4">
@@ -848,7 +848,7 @@ export default function RecoveryAgentMisbehavingWithWomenPage() {
             {/* Section 10: SettleLoans Legal Defense & Advisory + CompanySection */}
             <section id="settleloans-legal-advocacy-section" className="space-y-6">
               <div className="border-t border-slate-200 pt-8 space-y-4">
-                <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">10. SettleLoans Women Borrower Legal Protection</h2>
+                <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">10. SettleLoans Women Borrower Legal Protection</h3>
                 <p className="text-sm sm:text-base text-slate-700 leading-relaxed">Dealing with rude recovery agents requires prompt legal action. SettleLoans provides complete legal defense for women debtors and families across India. Our banking advocates serve legal notices, file complaints with the NCW and RBI Ombudsman, stop illegal home visits. And secure 45% to 65% loan waivers with official No Dues Certificates.</p>
               </div>
 
@@ -860,7 +860,7 @@ export default function RecoveryAgentMisbehavingWithWomenPage() {
             <section id="faqs" className="space-y-4 border-t border-slate-200 pt-8">
               <div className="flex items-center gap-2 mb-2">
                 <HelpCircle className="w-5 h-5 text-[#1F5EFF]" />
-                <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">11. FAQs: Recovery Misbehavior &amp; Women Borrower Protections</h2>
+                <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">11. FAQs: Recovery Misbehavior &amp; Women Borrower Protections</h3>
               </div>
               <p className="text-xs sm:text-sm text-slate-600 mb-6">Clear, legally verified answers to key questions regarding recovery agent bad conduct toward female debtors, housewives. And legal remedies in India.</p>
 
@@ -888,9 +888,9 @@ export default function RecoveryAgentMisbehavingWithWomenPage() {
 
             {/* 5 Official Regulatory Links */}
             <section className="border-t border-slate-200 pt-8 mb-4">
-              <h3 className="text-xs sm:text-sm font-bold text-slate-900 mb-3 uppercase tracking-wider">
+              <h4 className="text-xs sm:text-sm font-bold text-slate-900 mb-3 uppercase tracking-wider">
                 Official Statutory &amp; Regulatory References
-              </h3>
+              </h4>
               <div className="grid grid-cols-1 sm:grid-cols-2 gap-2.5 text-xs">
                 <a
                   href="https://ncwapps.nic.in"
@@ -942,9 +942,9 @@ export default function RecoveryAgentMisbehavingWithWomenPage() {
 
             {/* 10 Related Guide Badges */}
             <section className="border-t border-slate-200 pt-8 mb-8">
-              <h3 className="text-xs sm:text-sm font-bold text-slate-900 mb-4 uppercase tracking-wider">
+              <h4 className="text-xs sm:text-sm font-bold text-slate-900 mb-4 uppercase tracking-wider">
                 Related Legal Defense &amp; Loan Resolution Guides
-              </h3>
+              </h4>
               <div className="flex flex-wrap gap-2">
                 <Link
                   href="/loan-settlement-for-housewives-and-co-borrowers"

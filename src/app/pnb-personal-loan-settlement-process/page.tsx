@@ -597,9 +597,9 @@ export default function PnbPersonalLoanSettlementPage() {
                 <Clock className="w-4 h-4" />
                 <span>2. Delinquency Lifecycle &amp; SASTRA Escalation</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 PNB&apos;s Delinquency Lifecycle: From SMA-0 to Circle SASTRA Transfer
-              </h2>
+              </h3>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Successfully settling a personal loan with Punjab National Bank requires understanding the Reserve Bank of India&apos;s Prudential Norms on Income Recognition, Asset Classification and Provisioning (IRACP). When a monthly repayment is missed, the loan account moves through standardized regulatory classifications that dictate the bank&apos;s provisioning liability and its institutional appetite for granting debt waivers.
               </p>
@@ -666,9 +666,9 @@ export default function PnbPersonalLoanSettlementPage() {
                 <Lock className="w-4 h-4" />
                 <span>3. Section 171 Banker&apos;s Lien &amp; CBS Account Defense</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 Banker&apos;s General Lien Under Section 171: Protecting Your Financial Lifeline
-              </h2>
+              </h3>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 A critical legal mechanism frequently exercised by Punjab National Bank is the <strong>Banker&apos;s Right of General Lien and Set-Off</strong> under Section 171 of the Indian Contract Act, 1872. Because PNB operates an integrated Core Banking Solution (CBS) across all branches nationwide, the bank&apos;s system automatically maps all accounts linked to the borrower&apos;s Customer Identification File (CIF) and Permanent Account Number (PAN).
               </p>
@@ -686,9 +686,9 @@ export default function PnbPersonalLoanSettlementPage() {
                 <Gavel className="w-4 h-4" />
                 <span>4. Section 138 &amp; Section 25 Legal Defense</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 Defending Section 138 NI Act &amp; Section 25 PSSA Statutory Notices
-              </h2>
+              </h3>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 When an electronic National Automated Clearing House (NACH) auto-debit mandate fails or a post-dated repayment cheque dishonours due to insufficient funds, Punjab National Bank&apos;s empanelled law firms issue formal statutory demand notices under <strong>Section 25 of the Payment and Settlement Systems Act, 2007 (PSSA)</strong> or <strong>Section 138 of the Negotiable Instruments Act, 1881</strong>.
               </p>
@@ -703,9 +703,9 @@ export default function PnbPersonalLoanSettlementPage() {
                 <Layers className="w-4 h-4" />
                 <span>5. Visual Resolution Blueprint</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 Punjab National Bank Personal Loan Settlement Process Flowchart
-              </h2>
+              </h3>
               <p className="text-slate-700 leading-relaxed mb-6 text-base md:text-lg">
                 The visual blueprint below details the complete 4-stage resolution framework for Punjab National Bank personal loans, illustrating delinquency progression, Circle SASTRA escalation, Zonal Committee compromise valuation, and final ₹0 No Dues Certificate delivery.
               </p>
@@ -734,9 +734,9 @@ export default function PnbPersonalLoanSettlementPage() {
                 <Calculator className="w-4 h-4" />
                 <span>6. PNB OTS Schemes &amp; Valuation Formula</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 PNB Special OTS Schemes, Delegated Powers &amp; Recovery NPV Formula
-              </h2>
+              </h3>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Punjab National Bank operates under structured Board-approved Compromise Settlement Policies and periodically launches time-bound <strong>Special OTS Schemes</strong> designed to clean its retail balance sheet of non-performing loans. Under PNB&apos;s internal Delegation of Financial Powers (DFP), settlement authority is strictly tiered: local branch managers have limited waiver powers, Circle SASTRA Heads can approve moderate haircuts, while substantial waivers (40% to 65%) on higher balances require sanction by the Zonal Settlement Committee (ZSC) or the Head Office Credit Committee.
               </p>
@@ -769,9 +769,9 @@ export default function PnbPersonalLoanSettlementPage() {
                 <ShieldAlert className="w-4 h-4" />
                 <span>7. Recovery Agent Rules &amp; Anti-Harassment</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 PNB Recovery Agent Conduct Rules &amp; Statutory Harassment Protections
-              </h2>
+              </h3>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Across its vast footprint in North and Central India, Punjab National Bank utilizes internal recovery officers for early arrears and assigns empanelled third-party Debt Recovery Agencies (DRAs) and Business Correspondents (BCs) for NPA accounts. However, all recovery personnel are bound by the strict statutory standards of the <strong>RBI Master Circular on Recovery Agents and Conduct</strong>, as well as landmark Supreme Court directives.
               </p>
@@ -807,9 +807,9 @@ export default function PnbPersonalLoanSettlementPage() {
                 <FileText className="w-4 h-4" />
                 <span>8. Step-by-Step SASTRA Settlement Roadmap</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 The 6-Phase Step-by-Step PNB SASTRA Settlement Roadmap
-              </h2>
+              </h3>
               <p className="text-slate-700 leading-relaxed mb-6 text-base md:text-lg">
                 Executing a legally sound, maximum-haircut One-Time Settlement with Punjab National Bank requires a disciplined, evidence-based legal strategy:
               </p>
@@ -817,10 +817,10 @@ export default function PnbPersonalLoanSettlementPage() {
               <div className="space-y-6">
                 {/* Phase 1 */}
                 <div className="p-6 rounded-2xl bg-white border border-slate-200 shadow-sm">
-                  <h3 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
+                  <h4 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
                     <span className="w-7 h-7 rounded-lg bg-blue-50 text-[#1F5EFF] font-black text-sm flex items-center justify-center border border-blue-200">1</span>
                     Comprehensive Financial Audit &amp; Hardship Dossier Compilation
-                  </h3>
+                  </h4>
                   <p className="text-slate-600 text-sm md:text-base leading-relaxed">
                     Assemble comprehensive documentary proof evidencing bona fide, non-wilful financial distress. Crucial records include job termination letters, salary reduction slips, audited business balance sheets, hospital discharge summaries, or bank statements showing depleted liquidity. This proves the default is involuntary and qualifies for PSU compromise relief.
                   </p>
@@ -828,10 +828,10 @@ export default function PnbPersonalLoanSettlementPage() {
 
                 {/* Phase 2 */}
                 <div className="p-6 rounded-2xl bg-white border border-slate-200 shadow-sm">
-                  <h3 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
+                  <h4 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
                     <span className="w-7 h-7 rounded-lg bg-blue-50 text-[#1F5EFF] font-black text-sm flex items-center justify-center border border-blue-200">2</span>
                     Revoking NACH Mandates &amp; Establishing Written Communication
-                  </h3>
+                  </h4>
                   <p className="text-slate-600 text-sm md:text-base leading-relaxed">
                     Submit a formal mandate suspension request to your bank under NPCI rules to stop recurring NACH bounce penalties. Serve a formal written notice to PNB directing all communication to official email channels or through designated legal counsel, establishing a verifiable evidentiary audit trail.
                   </p>
@@ -839,10 +839,10 @@ export default function PnbPersonalLoanSettlementPage() {
 
                 {/* Phase 3 */}
                 <div className="p-6 rounded-2xl bg-white border border-slate-200 shadow-sm">
-                  <h3 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
+                  <h4 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
                     <span className="w-7 h-7 rounded-lg bg-blue-50 text-[#1F5EFF] font-black text-sm flex items-center justify-center border border-blue-200">3</span>
                     Submitting Formal Hardship Petition to Circle SASTRA Centre
-                  </h3>
+                  </h4>
                   <p className="text-slate-600 text-sm md:text-base leading-relaxed">
                     Submit a formal OTS petition addressed to PNB&apos;s Circle SASTRA Head citing PNB&apos;s Board-approved Recovery Policy and the RBI Master Direction on Compromise Settlements. Anchor the initial settlement offer at 25% to 35% of principal dues to establish realistic room for structured counter-negotiations.
                   </p>
@@ -850,10 +850,10 @@ export default function PnbPersonalLoanSettlementPage() {
 
                 {/* Phase 4 */}
                 <div className="p-6 rounded-2xl bg-white border border-slate-200 shadow-sm">
-                  <h3 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
+                  <h4 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
                     <span className="w-7 h-7 rounded-lg bg-blue-50 text-[#1F5EFF] font-black text-sm flex items-center justify-center border border-blue-200">4</span>
                     Managing Counter-Demands &amp; Structuring Committee Approvals
-                  </h3>
+                  </h4>
                   <p className="text-slate-600 text-sm md:text-base leading-relaxed">
                     PNB will initially offer nominal concessions (10%–20%). Experienced banking advocates demonstrate that settlement funds are being pooled from external family assistance or non-banking liquidation, steering the Zonal Settlement Committee toward the target 40% to 65% principal waiver band.
                   </p>
@@ -861,10 +861,10 @@ export default function PnbPersonalLoanSettlementPage() {
 
                 {/* Phase 5 */}
                 <div className="p-6 rounded-2xl bg-white border border-slate-200 shadow-sm">
-                  <h3 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
+                  <h4 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
                     <span className="w-7 h-7 rounded-lg bg-blue-50 text-[#1F5EFF] font-black text-sm flex items-center justify-center border border-blue-200">5</span>
                     Rigorous Forensic Audit of the PNB OTS Sanction Letter
-                  </h3>
+                  </h4>
                   <p className="text-slate-600 text-sm md:text-base leading-relaxed">
                     Before transferring any settlement funds, conduct a forensic audit of the sanction letter. Ensure it is printed on official PNB branch or SASTRA letterhead, signed by an authorized Chief Manager/Assistant General Manager with P.F. number, and explicitly confirms full debt extinguishment with withdrawal of all legal notices.
                   </p>
@@ -872,10 +872,10 @@ export default function PnbPersonalLoanSettlementPage() {
 
                 {/* Phase 6 */}
                 <div className="p-6 rounded-2xl bg-white border border-slate-200 shadow-sm">
-                  <h3 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
+                  <h4 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
                     <span className="w-7 h-7 rounded-lg bg-blue-50 text-[#1F5EFF] font-black text-sm flex items-center justify-center border border-blue-200">6</span>
                     Direct Account Remittance &amp; Enforcing ₹0 NDC Delivery
-                  </h3>
+                  </h4>
                   <p className="text-slate-600 text-sm md:text-base leading-relaxed">
                     Deposit the agreed settlement amount directly into your designated PNB loan account number via RTGS, NEFT, or CBS transfer. Under RBI Circular RBI/2023-24/60, PNB is legally required to deliver a formal No Dues Certificate and update credit bureaus within 30 calendar days.
                   </p>
@@ -889,9 +889,9 @@ export default function PnbPersonalLoanSettlementPage() {
                 <Scale className="w-4 h-4" />
                 <span>9. Lok Adalat, Sanction Audit &amp; ₹0 NDC Mandate</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 National Lok Adalat Resolution, Sanction Forensics &amp; Mandatory NDC Timeline
-              </h2>
+              </h3>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Punjab National Bank actively participates in the quarterly <strong>National Lok Adalat</strong> conducted across India under the <em>Legal Services Authorities Act, 1987</em>. During Lok Adalat sessions, PNB deputes authorized SASTRA officers empowered with special discount mandates (often approving 45% to 60% haircuts). A settlement award passed in Lok Adalat holds the legal status of a non-appealable <strong>Civil Court Decree</strong>, ensuring absolute finality and permanently terminating all Section 138 NI Act or Section 25 PSSA proceedings.
               </p>
@@ -928,9 +928,9 @@ export default function PnbPersonalLoanSettlementPage() {
                 <TrendingUp className="w-4 h-4" />
                 <span>10. CIBIL Trajectory &amp; Comparative Resolution Matrix</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 CIBIL Score Recovery Post-Settlement &amp; Resolution Avenue Comparison
-              </h2>
+              </h3>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Following full payment of the agreed settlement amount, Punjab National Bank updates all four licensed credit bureaus (TransUnion CIBIL, Experian, Equifax, CRIF High Mark) with the status <strong>&apos;Settled&apos;</strong> or <strong>&apos;Post-Write-off Settled&apos;</strong> with an outstanding balance of exactly <strong>₹0</strong>. While this results in a temporary credit score drop of 75 to 150 points and a mandatory 12-month cooling period before fresh unsecured credit can be accessed, it completely halts active compounding default entries.
               </p>
@@ -990,9 +990,9 @@ export default function PnbPersonalLoanSettlementPage() {
                 <Scale className="w-4 h-4" />
                 <span>11. SettleLoans Legal Defense &amp; Advisory</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 Professional Legal Representation for Punjab National Bank Settlements
-              </h2>
+              </h3>
               <p className="text-slate-700 leading-relaxed mb-6 text-base md:text-lg">
                 Settling a defaulted personal loan with a major public sector lender like Punjab National Bank requires specialized knowledge of PSU banking hierarchies, Circle SASTRA procedures, and RBI Master Directions. SettleLoans provides end-to-end legal and financial representation to protect your family from recovery harassment, reply to statutory Section 138/25 notices, and negotiate directly with PNB Zonal Committees for maximum debt relief.
               </p>
@@ -1005,9 +1005,9 @@ export default function PnbPersonalLoanSettlementPage() {
                 <HelpCircle className="w-4 h-4" />
                 <span>12. Frequently Asked Questions</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
                 Frequently Asked Questions About PNB Personal Loan Settlement
-              </h2>
+              </h3>
 
               <div className="space-y-4">
                 {faqs.map((faq, index) => (
@@ -1033,10 +1033,10 @@ export default function PnbPersonalLoanSettlementPage() {
 
             {/* 5 Official Regulatory Links */}
             <section className="bg-slate-50 border border-slate-200 rounded-2xl p-6 mb-8">
-              <h3 className="text-sm font-bold text-slate-900 mb-3 uppercase tracking-wider flex items-center gap-2">
+              <h4 className="text-sm font-bold text-slate-900 mb-3 uppercase tracking-wider flex items-center gap-2">
                 <ExternalLink className="w-4 h-4 text-[#1F5EFF]" />
                 <span>Official Statutory &amp; Regulatory References</span>
-              </h3>
+              </h4>
               <div className="grid grid-cols-1 sm:grid-cols-2 gap-3 text-xs">
                 <a
                   href="https://www.rbi.org.in"
@@ -1088,10 +1088,10 @@ export default function PnbPersonalLoanSettlementPage() {
 
             {/* 10 Related Guide Badges */}
             <section className="border-t border-slate-200 pt-8 mb-8">
-              <h3 className="text-sm font-bold text-slate-900 mb-4 uppercase tracking-wider flex items-center gap-2">
+              <h4 className="text-sm font-bold text-slate-900 mb-4 uppercase tracking-wider flex items-center gap-2">
                 <BookOpen className="w-4 h-4 text-[#1F5EFF]" />
                 <span>Related Loan Settlement &amp; Legal Defense Guides</span>
-              </h3>
+              </h4>
               <div className="flex flex-wrap gap-2">
                 <Link
                   href="/bank-one-time-settlement-ots-policy"

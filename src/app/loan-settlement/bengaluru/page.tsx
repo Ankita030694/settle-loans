@@ -221,7 +221,7 @@ export default function BengaluruLoanSettlementPage() {
               <p className="mb-0">Whether you are a software engineer in Whitefield, a startup founder in HSR Layout, or a small business owner in Chickpet, our Bengaluru-dedicated legal team provides the specialized expertise needed to navigate out of debt. We don't just offer financial advice; we provide a legally backed exit strategy that protects your career, your reputation, and your future in India's leading tech hub.</p>
             </section>
             <section id="indiranagar-rent-stress" className="scroll-mt-32 mb-20 bg-gray-50/50 p-10 rounded-3xl border border-gray-100">
-               <h2 className="text-3xl font-black mb-8 text-black uppercase tracking-tighter">Indiranagar & HSR: The "Rental Trap" Debt</h2>
+               <h3 className="text-3xl font-black mb-8 text-black uppercase tracking-tighter">Indiranagar & HSR: The "Rental Trap" Debt</h3>
                <p className="mb-8">In Bengaluru's most sought-after neighborhoods like Indiranagar, HSR Layout, and Sarjapur Road, the cost of housing has reached unprecedented levels. We've observed a growing segment of debt cases driven by the "High-Deposit Cycle." With landlords frequently demanding 10-months' rent as a security deposit, many young professionals resort to personal loans just to secure an apartment. This "Pre-Living Debt" puts them on the back foot from day one of their professional journey.</p>
                <p className="mb-8 font-bold">The Real Estate-Debt Connection in Bengaluru:</p>
                <ul className="space-y-4 mb-8">
@@ -238,7 +238,7 @@ export default function BengaluruLoanSettlementPage() {
             </section>
 
             <section id="tech-sector-debt-crisis" className="scroll-mt-32 mb-20 bg-blue-50/20 p-10 rounded-3xl border border-blue-100">
-              <h2 className="text-3xl font-black mb-8 text-[#1F5EFF] uppercase tracking-tighter">Tech & Startup Debt: The Whitefield to Electronic City Crisis</h2>
+              <h3 className="text-3xl font-black mb-8 text-[#1F5EFF] uppercase tracking-tighter">Tech & Startup Debt: The Whitefield to Electronic City Crisis</h3>
               <p className="mb-8">The "Startup Capital" of India has another side - the increasing debt burden on employees and founders within the tech ecosystem. From the vast IT campuses of Manyata Tech Park and Electronic City Phase 1 to the co-working spaces in Koramangala, the culture of "easy digital credit" has led to a surge in unsecured lending. App-based loans, often carrying exorbitant interest rates masquerading as "convenience fees," have become a major driver of financial stress for Bengaluru's young workforce.</p>
               <p className="mb-8 font-bold">Bengaluru's Tech Sector Debt Patterns:</p>
               <ul className="space-y-4 mb-8">
@@ -259,7 +259,7 @@ export default function BengaluruLoanSettlementPage() {
             </section>
 
             <section id="lok-adalat-bangalore-2026" className="scroll-mt-32 mb-20">
-              <h2 className="text-3xl font-black mb-8 text-black uppercase tracking-tight">Bengaluru Lok Adalat 2026: Your Roadmap to Closure</h2>
+              <h3 className="text-3xl font-black mb-8 text-black uppercase tracking-tight">Bengaluru Lok Adalat 2026: Your Roadmap to Closure</h3>
               <p className="mb-8">For Bengaluru residents, the National Lok Adalat, organized by the Karnataka State Legal Services Authority (KSLSA), is the gold standard for debt resolution. These sessions offer a judicial environment where settlements are documented and permanently binding. In 2026, Bengaluru will host four major Lok Adalat sessions, providing critical windows for those with pending cases in Mayo Hall or the City Civil Courts.</p>
               <div className="bg-white border-2 border-[#DEDEDE] rounded-2xl overflow-hidden mb-10 shadow-md">
                 <div className="bg-[#2E2E2E] text-white p-5 font-black text-center text-xl tracking-widest uppercase">2026 BENGALURU NATIONAL LOK ADALAT CALENDAR</div>
@@ -288,7 +288,7 @@ export default function BengaluruLoanSettlementPage() {
             </section>
 
             <section id="chickpet-retail-debt" className="scroll-mt-32 mb-20">
-              <h2 className="text-3xl font-black mb-8 text-black border-l-8 border-[#1F5EFF] pl-6 uppercase tracking-tighter">Chickpet & Majestic: The Traditional SME Debt Trap</h2>
+              <h3 className="text-3xl font-black mb-8 text-black border-l-8 border-[#1F5EFF] pl-6 uppercase tracking-tighter">Chickpet & Majestic: The Traditional SME Debt Trap</h3>
               <p className="mb-8">While Bengaluru's tech glitz often takes the spotlight, the city's commercial heart beats in the narrow lanes of Chickpet, Avenue Road, and Majestic. This traditional business hub, which has survived centuries, is currently facing a unique financial crisis. Many small wholesalers and family-run retailers have been pushed into a "Debt Cycle" by the combination of pandemic-era losses, GST complexities, and the rise of e-commerce giants. To manage inventory and payroll, many business owners have pivoted from traditional credit to high-interest personal loans and credit cards.</p>
               <p className="mb-8 font-bold">The SME Debt Patterns in Old Bengaluru:</p>
               <ul className="space-y-4 mb-8">
@@ -305,7 +305,7 @@ export default function BengaluruLoanSettlementPage() {
             </section>
 
             <section id="kslsa-legal-aid" className="scroll-mt-32 mb-20 bg-gray-50/50 p-10 rounded-3xl border border-gray-100">
-              <h2 className="text-3xl font-black mb-8 text-black border-l-8 border-yellow-500 pl-6 uppercase tracking-tighter">Karnataka Legal Aid: The KSLSA Safety Net</h2>
+              <h3 className="text-3xl font-black mb-8 text-black border-l-8 border-yellow-500 pl-6 uppercase tracking-tighter">Karnataka Legal Aid: The KSLSA Safety Net</h3>
               <p className="mb-6">For many Bengaluru residents, the cost of high-end legal defense against aggressive banks can seem prohibitive. However, the Karnataka State Legal Services Authority (KSLSA) provides a robust "Safety Net" for those in financial distress. Under the Legal Services Authorities Act, 1987, most residents of Bengaluru whose <span className="text-[#1F5EFF] font-black underline decoration-2 underline-offset-4 tracking-tighter uppercase text-sm">annual income is below ₹3,00,000</span> are eligible for completely free legal services.</p>
               <p className="mb-8">This isn't just a consultation; it's a full-spectrum defense. KSLSA can provide you with a qualified advocate to represent you in Section 138 (Cheque Bounce) cases, arbitration challenges, or even against recovery harassment in any metropolitan court in Bengaluru. Whether you are dealing with a summons from the Mayo Hall Court or a credit card dispute in the City Civil Court at K.G. Road, the state ensures that lack of funds is never a barrier to justice.</p>
               <p className="mb-8">At SettleLoans, we work in tandem with these legal frameworks. We often guide our eligible Bengaluru clients on how to approach the KSLSA office at Nyaya Degula building on H. Siddaiah Road. We help you prepare your documentation: your bank notices, your proof of income, and your harassment records, so that your legal aid application is processed efficiently. In Bengaluru, the law is designed to protect the vulnerable; our job is to ensure you know how to leverage that protection.</p>
@@ -313,14 +313,14 @@ export default function BengaluruLoanSettlementPage() {
             </section>
 
             <section id="mg-road-banking" className="scroll-mt-32 mb-20">
-              <h2 className="text-3xl font-black mb-8 text-black uppercase tracking-tighter">MG Road & Trinity Circle: The Zonal Negotiating Corridor</h2>
+              <h3 className="text-3xl font-black mb-8 text-black uppercase tracking-tighter">MG Road & Trinity Circle: The Zonal Negotiating Corridor</h3>
               <p className="mb-8">In Bengaluru's banking hierarchy, your local branch manager in Hebbal or Banashankari has very limited "Waiver Power." For significant settlements, especially those involving high-value credit card defaults or personal loans, the decision-making authority sits in the Zonal and Regional offices centered around MG Road, Trinity Circle, and Church Street. From the Local Head Office (LHO) of SBI on Church Street to the regional headquarters of Bank of Baroda at Trinity Circle, this small geography is where your financial freedom is negotiated.</p>
               <p className="mb-8">Negotiating in these "Zonal Corridors" requires a high degree of technical precision. These offices are managed by seasoned Zonal Nodal Officers who view debt through the lens of "LGD" (Loss Given Default) and "RAROC" (Risk-Adjusted Return on Capital). When SettleLoans approaches a bank's regional office on MG Road, we don't just ask for a discount; we present a <strong>Comprehensive Settlement Portfolio</strong>. We highlight the judicial delays in Bengaluru's courts and the recovery costs the bank would incur, moving the negotiation from a place of "pleading" to a place of "mutual financial benefit."</p>
               <p className="mb-0">Our Bengaluru team has spent years building professional bridges with these Zonal Offices. We know which bank prefers a one-time settlement (OTS) during the September quarter and which lender is more open to a structured three-month payment plan. By shifting the battleground from your local branch to the regional HQs in MG Road, we frequently secure waivers ranging from 45% to 75% on the total outstanding amount.</p>
             </section>
 
             <section id="court-defense-mayo-hall" className="scroll-mt-32 mb-20 bg-emerald-50/30 p-10 rounded-3xl border border-emerald-100">
-              <h2 className="text-3xl font-black mb-8 text-emerald-800 uppercase tracking-tighter">Mayo Hall & City Civil Courts: Defending Your Rights</h2>
+              <h3 className="text-3xl font-black mb-8 text-emerald-800 uppercase tracking-tighter">Mayo Hall & City Civil Courts: Defending Your Rights</h3>
               <p className="mb-8">If you have received a summons for a Section 138 (Cheque Bounce) or a Section 25 PSS Act (ECS/NACH bounce) matter, it's likely originating from either the Mayo Hall Unit (MG Road) or the central City Civil Court complex at K.G. Road. These courts are the front lines of debt litigation in Bengaluru. While the bank uses these proceedings as a "Hammer" to force payment, you possess a "Legal Shield" if you know the right procedures.</p>
               <ul className="space-y-6 mb-10">
                 <li className="flex items-start gap-4">
@@ -342,7 +342,7 @@ export default function BengaluruLoanSettlementPage() {
             </section>
 
             <section id="harassment-protection" className="scroll-mt-32 mb-20 bg-red-50/20 p-10 rounded-3xl border border-red-100">
-              <h2 className="text-3xl font-black mb-8 text-red-600 uppercase tracking-tighter">Your Shield Against Recovery Harassment in Bengaluru</h2>
+              <h3 className="text-3xl font-black mb-8 text-red-600 uppercase tracking-tighter">Your Shield Against Recovery Harassment in Bengaluru</h3>
               <p className="mb-8">Bengaluru's recovery ecosystem can be particularly aggressive, often targeting professionals in their workplaces (Whitefield ITPL, Manyata Tech Park) or their luxury residencies in Sarjapur. This behavior is not just unethical; it is a direct violation of the RBI's "Fair Practices Code." No agent has the right to enter your office, call your HR, or harass your neighbors in an apartment complex.</p>
               <p className="mb-8 font-bold text-red-700">How SettleLoans Stops the Harassment in Bengaluru:</p>
               <div className="grid md:grid-cols-2 gap-6 mb-8">
@@ -359,7 +359,7 @@ export default function BengaluruLoanSettlementPage() {
             </section>
 
             <section id="bengaluru-reviews" className="scroll-mt-32 mb-20 bg-[#f8faff] p-10 rounded-[40px] border border-blue-50">
-              <h2 className="text-3xl font-black mb-12 text-center text-[#1F5EFF] uppercase tracking-tighter">Bengaluru Reset: Reviews from Your Neighbors</h2>
+              <h3 className="text-3xl font-black mb-12 text-center text-[#1F5EFF] uppercase tracking-tighter">Bengaluru Reset: Reviews from Your Neighbors</h3>
               <div className="grid gap-8 md:grid-cols-2">
                 {[
                   { name: "Rahul Hedge", location: "HSR Layout", stars: 5, text: "SettleLoans helped me close my credit card debt of 12 Lakhs. Their negotiation at MG Road was incredible. Secured a 65% waiver and the calls stopped in 24 hours." },
@@ -391,10 +391,10 @@ export default function BengaluruLoanSettlementPage() {
             </section>
 
             <section id="bengaluru-case-studies" className="scroll-mt-32 mb-20 bg-gray-50/50 p-10 rounded-3xl border border-gray-100">
-              <h2 className="text-3xl font-black mb-10 text-black uppercase tracking-tighter">Bengaluru Success Stories: From Debt to Freedom</h2>
+              <h3 className="text-3xl font-black mb-10 text-black uppercase tracking-tighter">Bengaluru Success Stories: From Debt to Freedom</h3>
               <div className="space-y-12">
                 <div className="border-l-4 border-[#1F5EFF] pl-6">
-                  <h3 className="text-xl font-black text-[#1F5EFF] mb-4 uppercase tracking-tight italic">Case Study 1: The Whitefield Tech Recovery</h3>
+                  <h4 className="text-xl font-black text-[#1F5EFF] mb-4 uppercase tracking-tight italic">Case Study 1: The Whitefield Tech Recovery</h4>
                   <p className="mb-4"><strong>Client Profile:</strong> Senior Software Architect at an MNC in ITPL, Bengaluru.</p>
                   <p className="mb-4 text-gray-700"><strong>The Crisis:</strong> A personal medical emergency in the family, combined with a delayed variable pay payout, led to a credit card debt spiral spanning 4 banks (total ₹28 Lakhs). Recovery agents were attempting to enter the ITPL campus.</p>
                   <p className="mb-4 text-gray-700 font-medium"><strong>Our Intervention:</strong> We immediately issued formal legal notices to the bank zonal offices in MG Road. We moved the case to the May 2025 Lok Adalat in Bengaluru. By proving the genuine medical distress (supported by hospital records from Manipal Whitefield), we secured a cumulative waiver of 62%.</p>
@@ -402,7 +402,7 @@ export default function BengaluruLoanSettlementPage() {
                 </div>
 
                 <div className="border-l-4 border-yellow-500 pl-6">
-                  <h3 className="text-xl font-black text-yellow-600 mb-4 uppercase tracking-tight italic">Case Study 2: The Koramangala Startup Pivot</h3>
+                  <h4 className="text-xl font-black text-yellow-600 mb-4 uppercase tracking-tight italic">Case Study 2: The Koramangala Startup Pivot</h4>
                   <p className="mb-4"><strong>Client Profile:</strong> Cofounder of a fintech startup in Koramangala 4th Block.</p>
                   <p className="mb-4 text-gray-700"><strong>The Crisis:</strong> After a failed Series A round, the founder had used multiple high-interest personal loans to keep the payroll running. Total unsecured debt: ₹45 Lakhs. The bank had initiated arbitration proceedings.</p>
                   <p className="mb-4 text-gray-700 font-medium"><strong>Our Intervention:</strong> SettleLoans challenged the arbitration appointment in the Bengaluru Commercial Court. We concurrently opened a "Resolution Dialogue" with the bank's Stressed Asset Management Branch (SAMB). We argued that a startup pivot requires breathing room and that the bank's recovery value would be zero if the founder was forced into insolvency.</p>
@@ -412,7 +412,7 @@ export default function BengaluruLoanSettlementPage() {
             </section>
 
             <section id="settlement-mechanics" className="scroll-mt-32 mb-24">
-              <h2 className="text-3xl font-black mb-8 text-black border-l-8 border-[#1F5EFF] pl-6 uppercase tracking-tighter">The Science of Settlement in Bengaluru</h2>
+              <h3 className="text-3xl font-black mb-8 text-black border-l-8 border-[#1F5EFF] pl-6 uppercase tracking-tighter">The Science of Settlement in Bengaluru</h3>
               <p className="mb-8 font-medium">Why do banks in Bengaluru settle? It's not out of kindness; it's a cold financial calculation. In the banking world, a defaulting account is an "NPA" (Non-Performing Asset) that eats into the bank's capital. In a competitive market like Bengaluru, banks are under immense pressure to keep their NPA ratios low. We use this pressure to your advantage.</p>
               <div className="grid md:grid-cols-3 gap-6 mb-8 text-center">
                  <div className="p-8 bg-gray-50 rounded-2xl border border-gray-100">
@@ -436,7 +436,7 @@ export default function BengaluruLoanSettlementPage() {
             </section>
 
             <section id="startup-debt-winter" className="scroll-mt-32 mb-24 bg-blue-900/5 p-12 rounded-[40px] border border-blue-900/10">
-              <h2 className="text-3xl font-black mb-8 text-blue-900 uppercase tracking-tighter">The "Startup Winter" Debt: Protecting Founders and Employees</h2>
+              <h3 className="text-3xl font-black mb-8 text-blue-900 uppercase tracking-tighter">The "Startup Winter" Debt: Protecting Founders and Employees</h3>
               <p className="mb-8">Bengaluru's reputation as the "Unicorn Capital" of India comes with a hidden cost: the personal financial ruin that follows when venture capital (VC) money dries up. We are currently seeing a significant trend in the "Funding Winter" of 2024-2025, where startup employees who were encouraged to live a certain lifestyle based on pre-IPO valuations are now stuck with high-interest personal loans and credit cards after layoffs or salary cuts.</p>
               <div className="bg-white p-8 rounded-3xl mb-8 shadow-sm">
                  <p className="mb-4 text-gray-700 italic">"Many small and mid-sized tech founders in HSR Layout have taken personal loans to bridge salary payments during lean months. When the bridge doesn't lead to a round, the founder is left personally liable for corporate-level expenses."</p>
@@ -447,7 +447,7 @@ export default function BengaluruLoanSettlementPage() {
             </section>
 
             <section id="educational-debt-burden" className="scroll-mt-32 mb-24">
-              <h2 className="text-3xl font-black mb-8 text-black border-l-8 border-orange-500 pl-6 uppercase tracking-tighter">Educational Bridge Debt: The Bengaluru Student Crisis</h2>
+              <h3 className="text-3xl font-black mb-8 text-black border-l-8 border-orange-500 pl-6 uppercase tracking-tighter">Educational Bridge Debt: The Bengaluru Student Crisis</h3>
               <p className="mb-8">As the academic heart of South India, Bengaluru attracts millions of students and young professionals for higher education and upskilling. However, the rise of "Ed-Tech" and private universities has led to a massive increase in educational 'bridge' loans: personal loans taken to cover living expenses or 'top-up' tuition fees that aren't covered by traditional student loans. These loans, often taken by young professionals in Silk Board or Hebbal at interest rates of 18-24%, become unmanageable if the "Campus Placement" doesn't result in a high-paying job.</p>
               <div className="bg-orange-50 p-8 rounded-3xl border border-orange-100 mb-8">
                 <p className="text-orange-900 leading-relaxed font-medium capitalize prose-lg">"We see dozens of young Bengaluru professionals who are essentially 'Debt-Locked' before their career even begins. They are servicing high EMIs on loans taken for Master's Degrees while earning entry-level salaries."</p>
@@ -457,7 +457,7 @@ export default function BengaluruLoanSettlementPage() {
             </section>
 
             <section id="bengaluru-faqs" className="scroll-mt-32 mb-24">
-              <h2 className="text-3xl font-black mb-12 text-[#1F5EFF] uppercase tracking-tighter">Frequently Asked Questions: Bengaluru Edition</h2>
+              <h3 className="text-3xl font-black mb-12 text-[#1F5EFF] uppercase tracking-tighter">Frequently Asked Questions: Bengaluru Edition</h3>
               <div className="grid md:grid-cols-2 gap-8">
                 {[
                   { q: "Can a bank in Bengaluru file a case in a different city?", a: "Legally, yes. However, under recent Supreme Court guidelines and the 'Doctrine of Forum Conveniens,' if you reside in Bengaluru, cases should be in Bengaluru courts like Mayo Hall." },
@@ -479,7 +479,7 @@ export default function BengaluruLoanSettlementPage() {
 
             <section id="take-action" className="scroll-mt-32 mb-10 bg-[#2E2E2E] p-12 lg:p-20 rounded-[40px] text-center text-white relative overflow-hidden">
                <div className="absolute top-0 right-0 w-64 h-64 bg-[#1F5EFF]/10 rounded-full blur-3xl -mr-32 -mt-32"></div>
-               <h2 className="text-4xl md:text-5xl font-black mb-8 uppercase tracking-tighter leading-tight relative z-10">Reclaim Your Financial Freedom <br/> in Bengaluru Today</h2>
+               <h3 className="text-4xl md:text-5xl font-black mb-8 uppercase tracking-tighter leading-tight relative z-10">Reclaim Your Financial Freedom <br/> in Bengaluru Today</h3>
                <p className="text-xl text-white/70 mb-12 max-w-2xl mx-auto relative z-10 font-normal">Don't let the shadow of debt follow you through the Silicon Valley. Get the legal protection and the massive waivers you deserve.</p>
                <div className="flex flex-col sm:flex-row justify-center items-center gap-6 relative z-10">
                   <Link href="/contact" className="w-full sm:w-auto bg-[#1F5EFF] text-white font-black py-5 px-14 rounded-2xl hover:scale-105 transition-all shadow-2xl text-xl uppercase tracking-widest">

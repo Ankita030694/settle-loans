@@ -227,15 +227,15 @@ export default function LoanAfterSettlementPage() {
 
           {/* Section 2: CIBIL Impact */}
           <section id="cibil-impact" className="scroll-mt-32 mb-12">
-            <h2 className="text-2xl md:text-3xl font-black text-[#2E2E2E] mb-6">
+            <h3 className="text-2xl md:text-3xl font-black text-[#2E2E2E] mb-6">
               Why Is It So Hard? The CIBIL Impact Detailed
-            </h2>
+            </h3>
             <p className="mb-6">
               To a future lender, a "Settled" status signals risk. It tells them, "This borrower faced difficulty in the past and could not repay the full amount." Here is exactly what happens to your financial profile:
             </p>
              <div className="space-y-6 mb-8">
               <div className="bg-red-50 p-6 rounded-xl border border-red-100 shadow-sm">
-                <h3 className="text-xl font-black text-red-800 mb-2">1. Score Drop</h3>
+                <h4 className="text-xl font-black text-red-800 mb-2">1. Score Drop</h4>
                 <p className="text-red-900/80 mb-4">
                   Your CIBIL score can drop by 75-100+ points instantly. A score below 700 usually disqualifies you from premium loan offers and low-interest credit cards.
                 </p>
@@ -244,7 +244,7 @@ export default function LoanAfterSettlementPage() {
                 </div>
               </div>
               <div className="bg-orange-50 p-6 rounded-xl border border-orange-100 shadow-sm">
-                <h3 className="text-xl font-black text-orange-800 mb-2">2. The 'Settled' Flag</h3>
+                <h4 className="text-xl font-black text-orange-800 mb-2">2. The 'Settled' Flag</h4>
                 <p className="text-orange-900/80 mb-4">
                   The account is flagged as "Settled" instead of "Closed." This remark stays on your report for up to 7 years, visible to all banks. Even if your score improves, manual verification by a loan officer will reveal this tag.
                 </p>
@@ -253,7 +253,7 @@ export default function LoanAfterSettlementPage() {
                 </div>
               </div>
               <div className="bg-yellow-50 p-6 rounded-xl border border-yellow-100 shadow-sm">
-                <h3 className="text-xl font-black text-yellow-800 mb-2">3. Written-Off Status</h3>
+                <h4 className="text-xl font-black text-yellow-800 mb-2">3. Written-Off Status</h4>
                 <p className="text-yellow-900/80 mb-4">
                   In some severe cases, if the unpaid amount is large, the bank might mark the remaining amount as "Written Off" (WO). This is even more damaging than "Settled" as it implies a total loss for the bank.
                 </p>
@@ -263,9 +263,9 @@ export default function LoanAfterSettlementPage() {
 
           {/* Section 3: The Cooling-Off Period */}
           <section id="cooling-off" className="scroll-mt-32 mb-12">
-             <h2 className="text-2xl md:text-3xl font-black text-[#2E2E2E] mb-6">
+             <h3 className="text-2xl md:text-3xl font-black text-[#2E2E2E] mb-6">
               The "Cooling-Off" Period
-            </h2>
+            </h3>
             <p className="mb-6 text-lg">
               There is an unofficial "cooling-off" period of <strong>12 to 24 months</strong> after settlement. This is the period where you must go invisible to lenders to let the dust settle. During this time:
             </p>
@@ -293,7 +293,7 @@ export default function LoanAfterSettlementPage() {
 
           {/* Section 4: Rebuilding Plan */}
           <section id="rebuilding-plan" className="scroll-mt-32 mb-12">
-             <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">Step-by-Step Rebuilding Plan</h2>
+             <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">Step-by-Step Rebuilding Plan</h3>
              <p className="mb-6">
                You can actively fix your credit score. Following a passive approach (just waiting) will not work fast enough. Follow this proven roadmap to become loan-eligible again:
              </p>
@@ -301,7 +301,7 @@ export default function LoanAfterSettlementPage() {
              <div className="relative pl-8 border-l-2 border-[var(--color-primary)]/20 space-y-12 my-10">
                 <div className="relative">
                   <span className="absolute -left-[9px] top-0 w-4 h-4 rounded-full bg-[var(--color-primary)] ring-4 ring-white"></span>
-                  <h3 className="font-bold text-xl text-[var(--color-text-hero)] mb-2">Month 1-3: Stabilization & Verification</h3>
+                  <h4 className="font-bold text-xl text-[var(--color-text-hero)] mb-2">Month 1-3: Stabilization & Verification</h4>
                   <p className="text-gray-600 mb-2">Ensure the settlement is accurately updated in your CIBIL report. Obtain the 'No Dues Certificate' (NDC) from the bank. Do not apply for any new credit.</p>
                   <ul className="list-disc pl-5 text-sm text-gray-500">
                       <li>Log in to CIBIL/Experian to check if the status says "Settled".</li>
@@ -310,22 +310,22 @@ export default function LoanAfterSettlementPage() {
                 </div>
                 <div className="relative">
                   <span className="absolute -left-[9px] top-0 w-4 h-4 rounded-full bg-[var(--color-primary)] ring-4 ring-white"></span>
-                  <h4 className="font-bold text-xl text-[var(--color-text-hero)] mb-2">Month 4-6: The Secured Start</h4>
+                  <h5 className="font-bold text-xl text-[var(--color-text-hero)] mb-2">Month 4-6: The Secured Start</h5>
                   <p className="text-gray-600">Open a Fixed Deposit (FD) of ₹20,000 - ₹50,000 and get a <strong>Secured Credit Card</strong> against it. This card is backed by your money, so banks approve it easily without checking your score deeply.</p>
                 </div>
                 <div className="relative">
                   <span className="absolute -left-[9px] top-0 w-4 h-4 rounded-full bg-[var(--color-primary)] ring-4 ring-white"></span>
-                  <h4 className="font-bold text-xl text-[var(--color-text-hero)] mb-2">Month 6-12: The 30% Rule</h4>
+                  <h5 className="font-bold text-xl text-[var(--color-text-hero)] mb-2">Month 6-12: The 30% Rule</h5>
                   <p className="text-gray-600">Use your secured card for small expenses (fuel, groceries). Keep utilization below 30% of the limit. <span className="font-bold text-black">Pay the full bill on time every month.</span> This builds a positive payment history.</p>
                 </div>
                 <div className="relative">
                   <span className="absolute -left-[9px] top-0 w-4 h-4 rounded-full bg-[var(--color-primary)] ring-4 ring-white"></span>
-                  <h4 className="font-bold text-xl text-[var(--color-text-hero)] mb-2">Month 12-18: Diversify</h4>
+                  <h5 className="font-bold text-xl text-[var(--color-text-hero)] mb-2">Month 12-18: Diversify</h5>
                   <p className="text-gray-600">Take a small Consumer Durable Loan (for a fridge, phone, etc.). These are easy to get and add a different type of credit to your mix, which boosts your score.</p>
                 </div>
                 <div className="relative">
                   <span className="absolute -left-[9px] top-0 w-4 h-4 rounded-full bg-[var(--color-primary)] ring-4 ring-white"></span>
-                  <h4 className="font-bold text-xl text-[var(--color-text-hero)] mb-2">Month 18-24: Graduation</h4>
+                  <h5 className="font-bold text-xl text-[var(--color-text-hero)] mb-2">Month 18-24: Graduation</h5>
                   <p className="text-gray-600">Your score should now be rising (700+). You may start getting offers for small personal loans or unsecured cards. Accept one responsibly to diversify your credit mix further.</p>
                 </div>
               </div>
@@ -333,30 +333,30 @@ export default function LoanAfterSettlementPage() {
 
           {/* Section 5: The Secured Card Strategy Detailed */}
           <section id="secured-card" className="scroll-mt-32 mb-12">
-            <h2 className="text-2xl md:text-3xl font-black text-[#2E2E2E] mb-6">
+            <h3 className="text-2xl md:text-3xl font-black text-[#2E2E2E] mb-6">
                The Secret Weapon: Secured Credit Cards
-            </h2>
+            </h3>
             <div className="bg-blue-50 border-l-4 border-blue-500 p-6 rounded-r-lg mb-8">
                <p className="text-blue-900/80 mb-2">
                  This is the fastest, most guaranteed way to improve your score. Since you deposit money (FD) with the bank, they have zero risk. In return, they report your payments to CIBIL, helping you build a positive history.
                </p>
             </div>
             
-            <h3 className="text-xl font-black text-[#2E2E2E] mb-4">How to Use It Correctly:</h3>
+            <h4 className="text-xl font-black text-[#2E2E2E] mb-4">How to Use It Correctly:</h4>
             <div className="grid md:grid-cols-3 gap-6">
                 <div className="bg-white p-5 rounded-xl border border-gray-200 shadow-sm">
                     <div className="text-4xl font-bold text-blue-200 mb-2">01</div>
-                    <h4 className="font-bold text-lg mb-2">Get the Card</h4>
+                    <h5 className="font-bold text-lg mb-2">Get the Card</h5>
                     <p className="text-sm text-gray-600">Approach banks like IDFC First (WOW card), Kotak (811), or SBI (Unnati). Deposit ₹25,000.</p>
                 </div>
                 <div className="bg-white p-5 rounded-xl border border-gray-200 shadow-sm">
                     <div className="text-4xl font-bold text-blue-200 mb-2">02</div>
-                    <h4 className="font-bold text-lg mb-2">Use &lt; 30%</h4>
+                    <h5 className="font-bold text-lg mb-2">Use &lt; 30%</h5>
                     <p className="text-sm text-gray-600">If your limit is ₹20,000, spend only ₹6,000. High usage signals "credit hunger" and hurts your score.</p>
                 </div>
                 <div className="bg-white p-5 rounded-xl border border-gray-200 shadow-sm">
                     <div className="text-4xl font-bold text-blue-200 mb-2">03</div>
-                    <h4 className="font-bold text-lg mb-2">Pay in Full</h4>
+                    <h5 className="font-bold text-lg mb-2">Pay in Full</h5>
                     <p className="text-sm text-gray-600">Never pay just the minimum due. Pay the total bill amount 2-3 days before the due date.</p>
                 </div>
             </div>
@@ -364,27 +364,27 @@ export default function LoanAfterSettlementPage() {
 
           {/* Section 6: Secured Loans */}
           <section id="secured-loans" className="scroll-mt-32 mb-12">
-            <h2 className="text-2xl md:text-3xl font-black text-[#2E2E2E] mb-6">
+            <h3 className="text-2xl md:text-3xl font-black text-[#2E2E2E] mb-6">
               Secured Loan Options: Your Bets Bet
-            </h2>
+            </h3>
             <p className="mb-6">
                 If you need a loan urgently and cannot wait for your score to improve, your best option is a Secured Loan. Since you provide collateral, banks are less concerned about your past settlement.
             </p>
             <div className="grid sm:grid-cols-2 gap-4">
               <div className="bg-white p-5 rounded-xl border border-[#DEDEDE] hover:border-[#1F5EFF] transition-colors">
-                <h3 className="font-black text-lg mb-2 flex items-center"><span className="text-yellow-500 mr-2 text-xl">●</span> Gold Loans</h3>
+                <h4 className="font-black text-lg mb-2 flex items-center"><span className="text-yellow-500 mr-2 text-xl">●</span> Gold Loans</h4>
                 <p className="text-sm text-gray-600">Quick approval (often in hours). The loan amount is based on the value of gold you pledge. No strict CIBIL check is required by most NBFCs.</p>
               </div>
               <div className="bg-white p-5 rounded-xl border border-[#DEDEDE] hover:border-[#1F5EFF] transition-colors">
-                <h4 className="font-black text-lg mb-2 flex items-center"><span className="text-blue-500 mr-2 text-xl">●</span> Loan Against Property (LAP)</h4>
+                <h5 className="font-black text-lg mb-2 flex items-center"><span className="text-blue-500 mr-2 text-xl">●</span> Loan Against Property (LAP)</h5>
                 <p className="text-sm text-gray-600">Mortgage your home or commercial space. You get lower interest rates and high approval chances, effectively engaging your asset to liquidity.</p>
               </div>
               <div className="bg-white p-5 rounded-xl border border-[#DEDEDE] hover:border-[#1F5EFF] transition-colors">
-                <h4 className="font-black text-lg mb-2 flex items-center"><span className="text-green-500 mr-2 text-xl">●</span> Loan Against Securities</h4>
+                <h5 className="font-black text-lg mb-2 flex items-center"><span className="text-green-500 mr-2 text-xl">●</span> Loan Against Securities</h5>
                 <p className="text-sm text-gray-600">Pledge your Mutual Funds, Shares, or Insurance Policies. You pay a small interest rate over your investment earning rate, and your investments continue to grow.</p>
               </div>
                <div className="bg-white p-5 rounded-xl border border-[#DEDEDE] hover:border-[#1F5EFF] transition-colors">
-                <h4 className="font-black text-lg mb-2 flex items-center"><span className="text-purple-500 mr-2 text-xl">●</span> Consumer Durable Loans</h4>
+                <h5 className="font-black text-lg mb-2 flex items-center"><span className="text-purple-500 mr-2 text-xl">●</span> Consumer Durable Loans</h5>
                 <p className="text-sm text-gray-600">Small loans for TVs, ACs or phones. These are easier to get than cash loans and are excellent tools for score building.</p>
               </div>
             </div>
@@ -392,9 +392,9 @@ export default function LoanAfterSettlementPage() {
 
           {/* Section 7: Removing Status */}
           <section id="removing-status" className="scroll-mt-32 mb-12">
-             <h2 className="text-2xl md:text-3xl font-black text-[#2E2E2E] mb-6">
+             <h3 className="text-2xl md:text-3xl font-black text-[#2E2E2E] mb-6">
               Settled vs Closed: What's the Difference?
-            </h2>
+            </h3>
             <div className="overflow-x-auto mb-8">
               <table className="min-w-full bg-white border border-gray-200 rounded-lg shadow-sm text-sm">
                 <thead>
@@ -432,14 +432,14 @@ export default function LoanAfterSettlementPage() {
 
           {/* Section 8: How to Remove the Tag */}
           <section id="how-to-remove" className="scroll-mt-32 mb-12">
-             <h2 className="text-2xl md:text-3xl font-black text-[#2E2E2E] mb-6">
+             <h3 className="text-2xl md:text-3xl font-black text-[#2E2E2E] mb-6">
               Can I Remove the "Settled" Tag?
-            </h2>
+            </h3>
             <p className="mb-6">
               Yes, in many cases, you can convert a "Settled" account to a "Closed" account. This is the ultimate fix for your credit report.
             </p>
             <div className="bg-emerald-50 p-6 rounded-xl border border-emerald-100">
-               <h3 className="font-bold text-emerald-800 mb-4 text-lg">The Removal Process:</h3>
+               <h4 className="font-bold text-emerald-800 mb-4 text-lg">The Removal Process:</h4>
                <ol className="list-decimal pl-5 space-y-4 text-emerald-900/80">
                  <li><strong>Approach the Bank:</strong> Contact the bank 6-12 months after your settlement when your finances are better.</li>
                  <li><strong>Offer Full Payment:</strong> Offer to pay the <strong>difference amount</strong> (the amount that was originally waived off during settlement).</li>
@@ -451,9 +451,9 @@ export default function LoanAfterSettlementPage() {
 
            {/* Section 9: Mistakes to Avoid */}
            <section id="mistakes-to-avoid" className="scroll-mt-32 mb-12">
-            <h2 className="text-2xl md:text-3xl font-black text-[#2E2E2E] mb-6">
+            <h3 className="text-2xl md:text-3xl font-black text-[#2E2E2E] mb-6">
               Common Mistakes That Ruin Your Chances
-            </h2>
+            </h3>
             <div className="space-y-4">
                <details className="group bg-white border border-gray-200 rounded-lg p-4 transition-all hover:shadow-md">
                   <summary className="font-bold cursor-pointer text-gray-800 flex justify-between items-center">
@@ -488,16 +488,16 @@ export default function LoanAfterSettlementPage() {
 
            {/* Section 10: Success Stories */}
            <section id="success-stories" className="scroll-mt-32 mb-12">
-            <h2 className="text-2xl md:text-3xl font-black text-[#2E2E2E] mb-6">
+            <h3 className="text-2xl md:text-3xl font-black text-[#2E2E2E] mb-6">
               Real Success Stories
-            </h2>
+            </h3>
             <p className="mb-8 text-gray-600">See how others navigated the journey from Settlement to Approval.</p>
             <div className="grid md:grid-cols-2 gap-6">
                <div className="bg-white p-6 rounded-2xl border border-[#DEDEDE] shadow-sm">
                   <div className="flex items-center mb-4">
                      <div className="w-10 h-10 rounded-full bg-blue-100 text-blue-600 flex items-center justify-center font-black mr-3 text-sm">R</div>
                      <div>
-                        <h3 className="font-black text-[#2E2E2E]">Rajesh's Comeback</h3>
+                        <h4 className="font-black text-[#2E2E2E]">Rajesh's Comeback</h4>
                         <p className="text-xs text-gray-500">Bangalore</p>
                      </div>
                   </div>
@@ -510,7 +510,7 @@ export default function LoanAfterSettlementPage() {
                   <div className="flex items-center mb-4">
                      <div className="w-10 h-10 rounded-full bg-purple-100 text-purple-600 flex items-center justify-center font-black mr-3 text-sm">P</div>
                      <div>
-                        <h4 className="font-black text-[#2E2E2E]">Priya's Clean Sheet</h4>
+                        <h5 className="font-black text-[#2E2E2E]">Priya's Clean Sheet</h5>
                         <p className="text-xs text-gray-500">Mumbai</p>
                      </div>
                   </div>
@@ -525,7 +525,7 @@ export default function LoanAfterSettlementPage() {
           {/* Section 11: Expert Help */}
           <section id="expert-help" className="scroll-mt-32 mb-16">
             <div className="bg-[var(--color-section-light)] rounded-2xl p-8 md:p-12 text-center border border-[var(--color-border)]">
-              <h2 className="text-2xl md:text-3xl font-bold text-black mb-4">Confused about your next step?</h2>
+              <h3 className="text-2xl md:text-3xl font-bold text-black mb-4">Confused about your next step?</h3>
               <p className="text-gray-600 mb-8 max-w-2xl mx-auto text-lg">
                 Whether you need to settle a current loan or plan your credit recovery, our experts are here to guide you through the maze of banking regulations.
               </p>
@@ -548,7 +548,7 @@ export default function LoanAfterSettlementPage() {
 
           {/* Section 12: Extended FAQs */}
           <section id="faqs-extended" className="scroll-mt-32 mb-12">
-            <h2 className="text-3xl md:text-4xl font-bold text-[var(--color-primary)] mt-16 mb-8">Frequently Asked Questions</h2>
+            <h3 className="text-3xl md:text-4xl font-bold text-[var(--color-primary)] mt-16 mb-8">Frequently Asked Questions</h3>
             <div className="space-y-4 not-prose">
               {[
                 { 
@@ -615,7 +615,7 @@ export default function LoanAfterSettlementPage() {
           <div className="lg:hidden mt-16 mb-8">
             <div className="bg-[#2E2E2E] rounded-2xl shadow-xl overflow-hidden border border-[#1F5EFF]/20">
               <div className="bg-[#1F5EFF] p-6 text-center text-white">
-                <h3 className="text-2xl font-black mb-2">Need a Fresh Start?</h3>
+                <h4 className="text-2xl font-black mb-2">Need a Fresh Start?</h4>
                 <p className="opacity-90 text-sm">Don't let debt trap you forever. Talk to our legal experts today.</p>
               </div>
               <div className="p-8 text-center text-[#DEDEDE]">

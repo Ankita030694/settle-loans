@@ -274,14 +274,14 @@ export default function CoBorrowerSettlementImpactPage() {
             </section>
 
             <section id="legal-liability" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
                 Joint & Several Liability: The Legal Reality
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 The backbone of almost every loan agreement in India is the principle of "Joint and Several Liability." This is a legal term that every co-applicant must memorize. In simple terms, it means the bank has the right to recover the <strong>entire</strong> amount from any one of the borrowers.
               </p>
               <div className="bg-gray-50 p-8 rounded-xl border border-gray-200 mb-8">
-                <h3 className="font-bold mb-4">What it actually means for you:</h3>
+                <h4 className="font-bold mb-4">What it actually means for you:</h4>
                 <ul className="space-y-4">
                   <li><strong>The "Solvent Party" Target:</strong> If the primary borrower has no assets but the co-borrower has a steady job or a house, the bank will spend 90% of its recovery energy on the co-borrower. They follow the "path of least resistance."</li>
                   <li><strong>No '50% Rule':</strong> There is no legal provision that says you only pay your share. You are legally a "Primary Debtor." If the loan is for 10 Lakhs, you owe 10 Lakhs.</li>
@@ -291,7 +291,7 @@ export default function CoBorrowerSettlementImpactPage() {
             </section>
 
             <section id="right-of-subrogation" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight uppercase tracking-tighter">The Right of Subrogation: Your Legal Shield</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight uppercase tracking-tighter">The Right of Subrogation: Your Legal Shield</h3>
               <p className="text-lg leading-relaxed mb-6">
                 If you, as a co-borrower, end up paying the bank to settle the loan, you are not necessarily losing that money forever. Under the Indian Contract Act, you have the <strong>Right of Subrogation</strong>.
               </p>
@@ -307,15 +307,15 @@ export default function CoBorrowerSettlementImpactPage() {
             </section>
 
             <section id="cibil-score-impact" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
                 The CIBIL Score Ripple Effect
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 Your PAN card is the digital anchor for your financial identity. When a loan account is created, all co-applicants' PAN numbers are mapped to that single account. Whatever happens to that account happens to all mapped PAN cards.
               </p>
               <div className="grid md:grid-cols-2 gap-6 my-8">
                 <div className="bg-white p-6 rounded-xl border border-[#DEDEDE] shadow-sm">
-                  <h3 className="font-bold text-[#2E2E2E] mb-4">Primary Borrower Impact</h3>
+                  <h4 className="font-bold text-[#2E2E2E] mb-4">Primary Borrower Impact</h4>
                   <ul className="text-sm space-y-2 text-gray-600">
                     <li>• Status: 'Settled'</li>
                     <li>• Score Drop: 100-150 points</li>
@@ -323,7 +323,7 @@ export default function CoBorrowerSettlementImpactPage() {
                   </ul>
                 </div>
                 <div className="bg-white p-6 rounded-xl border border-[#DEDEDE] shadow-sm border-t-4 border-t-[#1F5EFF]">
-                  <h4 className="font-bold text-[#2E2E2E] mb-4">Co-Borrower Impact</h4>
+                  <h5 className="font-bold text-[#2E2E2E] mb-4">Co-Borrower Impact</h5>
                   <ul className="text-sm space-y-2 text-gray-600">
                     <li>• Status: 'Settled' (Same as primary)</li>
                     <li>• Score Drop: 75-150 points</li>
@@ -337,19 +337,19 @@ export default function CoBorrowerSettlementImpactPage() {
             </section>
 
             <section id="legal-risks-explained" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Legal Risks for Co-Borrowers</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Legal Risks for Co-Borrowers</h3>
               <p className="mb-6">
                 Lenders have powerful legal tools at their disposal. They don't differentiate between who 'used' the money and who 'signed' for it. If you signed, you are a target for recovery.
               </p>
               <div className="space-y-6">
                 <div className="bg-white p-8 rounded-2xl border border-[#DEDEDE] shadow-sm">
-                  <h3 className="font-black text-xl mb-4">SARFAESI Act and Asset Seizure</h3>
+                  <h4 className="font-black text-xl mb-4">SARFAESI Act and Asset Seizure</h4>
                   <p className="text-sm leading-relaxed mb-4">
                     If the loan is secured (like a Home Loan or Loan Against Property), the bank can take possession of the security under the SARFAESI Act, 2002. If you are a co-borrower and also a co-owner of the property, your ownership stake is directly at risk. The bank can auction the property to recover its dues without needing a court order in many cases.
                   </p>
                 </div>
                 <div className="bg-white p-8 rounded-2xl border border-[#DEDEDE] shadow-sm">
-                  <h4 className="font-black text-xl mb-4">Civil Suits and Execution</h4>
+                  <h5 className="font-black text-xl mb-4">Civil Suits and Execution</h5>
                   <p className="text-sm leading-relaxed mb-4">
                     For unsecured loans, banks often file civil suits in a Commercial Court or the Debt Recovery Tribunal (DRT). A decree from the court can lead to the attachment of your personal bank accounts, salaries, or other movable and immovable assets.
                   </p>
@@ -358,12 +358,12 @@ export default function CoBorrowerSettlementImpactPage() {
             </section>
 
             <section id="impact-on-future-loans" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">The Future Loan Hurdle</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">The Future Loan Hurdle</h3>
               <p className="mb-6 leading-relaxed text-lg">
                 A "Settled" status is what bankers call a 'Red Flag.' Most automated credit approval systems will automatically reject any application where a previous settlement is present.
               </p>
               <div className="bg-blue-50 p-8 rounded-xl border border-blue-200 mb-8">
-                <h3 className="font-bold text-blue-900 mb-4">How it hurts you in the long run:</h3>
+                <h4 className="font-bold text-blue-900 mb-4">How it hurts you in the long run:</h4>
                 <ul className="grid md:grid-cols-2 gap-4 text-sm text-blue-800">
                   <li>• Rejection of Credit Card applications.</li>
                   <li>• Refusal of Home Loan or Car Loan processing.</li>
@@ -374,7 +374,7 @@ export default function CoBorrowerSettlementImpactPage() {
             </section>
 
             <section id="asset-separation" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 uppercase tracking-tighter">Asset Separation Strategies</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 uppercase tracking-tighter">Asset Separation Strategies</h3>
               <p className="text-lg leading-relaxed mb-6">
                 If you suspect the primary borrower is going to default, you must act early to protect your individual assets. Once a legal suit or SARFAESI action is initiated, it becomes much harder to secure your position.
               </p>
@@ -388,7 +388,7 @@ export default function CoBorrowerSettlementImpactPage() {
             </section>
 
             <section id="settlement-mechanics" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Settlement Mechanics for Multi-Applicant Loans</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Settlement Mechanics for Multi-Applicant Loans</h3>
               <p className="mb-6">
                 When a loan involving a co-borrower goes into settlement, the negotiation process is slightly more complex. The bank requires the "Full and Final Settlement" to cover the entire account, which effectively releases both parties from the debt upon payment.
               </p>
@@ -398,38 +398,38 @@ export default function CoBorrowerSettlementImpactPage() {
             </section>
 
             <section id="rights-protection" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Protecting Your Rights as a Co-Borrower</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Protecting Your Rights as a Co-Borrower</h3>
               <p className="mb-6">
                 Even in default, you have rights. The Reserve Bank of India (RBI) and the Fair Practice Code for Lenders ensure that you are treated with dignity.
               </p>
               <div className="grid md:grid-cols-2 gap-8 mb-8">
                 <div className="bg-white p-6 rounded-xl border border-gray-100 shadow-sm">
-                  <h3 className="font-bold mb-4">Right to Privacy</h3>
+                  <h4 className="font-bold mb-4">Right to Privacy</h4>
                   <p className="text-xs text-gray-600">Agents cannot call your workspace or shame you in your community just because you are a co-borrower. Your financial distress is private.</p>
                 </div>
                 <div className="bg-white p-6 rounded-xl border border-gray-100 shadow-sm">
-                  <h4 className="font-bold mb-4">Right to Notice</h4>
+                  <h5 className="font-bold mb-4">Right to Notice</h5>
                   <p className="text-xs text-gray-600">The bank must send all legal notices and recovery communications to the co-borrower, not just the primary one.</p>
                 </div>
               </div>
             </section>
 
             <section id="rbi-guidelines" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">RBI Guidelines on Loan Settlement Consequences</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">RBI Guidelines on Loan Settlement Consequences</h3>
               <p className="mb-6">
                 As of 2024, the RBI has become very strict about lenders communicating the consequences of a settlement. Banks are now legally obligated to inform BOTH the primary borrower and the co-borrower about how a settlement will impact their CIBIL reports before they sign the settlement offer.
               </p>
             </section>
 
             <section id="financial-disputes" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Managing Family and Business Disputes</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Managing Family and Business Disputes</h3>
               <p className="mb-6">
                 Often, a co-borrower defaults because of a fallout with the primary borrower. In family situations, this can be emotionally draining. It is important to separate the emotion from the finance. Your credit record is your individual asset. If the primary borrower is refusing to pay, you might need to take charge of the settlement negotiation to save your own future eligibility.
               </p>
             </section>
 
             <section id="exit-strategies" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">The Road to Recovery</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">The Road to Recovery</h3>
               <p className="mb-6">
                 If the settlement is already done and your score is low, don't lose heart. You can rebuild. Focus on:
               </p>
@@ -441,14 +441,14 @@ export default function CoBorrowerSettlementImpactPage() {
             </section>
 
             <section id="borrower-types" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Difference Between Co-Borrower, Guarantor, and Payer</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Difference Between Co-Borrower, Guarantor, and Payer</h3>
               <p className="mb-6 leading-relaxed">
                 In many Indian households, these terms are used interchangeably, but in a bank's ledger, they are worlds apart. A <strong>Co-Borrower</strong> is a primary applicant; the liability is immediate and equal. A <strong>Guarantor</strong> is someone who promises to pay if the primary defaults; their liability is secondary but can be invoked quickly. A <strong>Payer</strong> is simply someone who makes the EMIs but might not be on the legal agreement. If you are a co-borrower, you are the most 'at risk' because the bank doesn't need to wait for any default triggers to come after you.
               </p>
             </section>
 
             <section id="education-loan-impact" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Education Loans: A Parent's Dilemma</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Education Loans: A Parent's Dilemma</h3>
               <p className="mb-6 leading-relaxed text-lg">
                 Education loans in India almost always require a parent as a co-borrower. If a student moves abroad and stops paying, the bank immediately targets the parent.
               </p>
@@ -461,49 +461,49 @@ export default function CoBorrowerSettlementImpactPage() {
             </section>
 
             <section id="criminal-vs-civil" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Can a Co-Borrower be Arrested? (Legal Myths vs. Reality)</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Can a Co-Borrower be Arrested? (Legal Myths vs. Reality)</h3>
               <p className="mb-6 leading-relaxed">
                 There is a common fear that co-borrowers can be jailed for someone else's debt. In India, loan default is a <strong>civil matter</strong>. You cannot be arrested just for not being able to pay an EMI. However, if you signed cheques that bounced (Section 138 of the Negotiable Instruments Act), or if you provided forged documents during the application (Fraud), criminal proceedings can be initiated. As a co-borrower, always ensure you know exactly what documents were submitted under your name.
               </p>
             </section>
 
             <section id="clean-hands-doctrine" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">The 'Clean Hands' Doctrine in Loan Disputes</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">The 'Clean Hands' Doctrine in Loan Disputes</h3>
               <p className="mb-6 leading-relaxed">
                 In legal disputes, the court looks at whether the co-borrower acted in good faith. If you can prove that you were a victim of coercion or that the bank failed to follow RBI's 'Fair Practice Code,' you might have a stronger case in the DRT (Debt Recovery Tribunal). However, once you enter a settlement, you are essentially admitting the debt and the default, which is why the 'Settled' mark is so hard to remove without full payment later.
               </p>
             </section>
 
             <section id="business-partner-default" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Business Partner Default: The Corporate Trap</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Business Partner Default: The Corporate Trap</h3>
               <p className="mb-6 leading-relaxed">
                 In MSME loans, directors often co-sign for the company's debt. If the business fails and the company settles, the individual directors are still marked in their personal CIBIL reports. This prevents them from starting a new venture with fresh credit. A settlement for a company is a settlement for its co-signing directors.
               </p>
             </section>
 
             <section id="visa-immigration" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Impact on Visa and Immigration Applications</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Impact on Visa and Immigration Applications</h3>
               <p className="mb-6 leading-relaxed">
                 While most countries don't check CIBIL for a tourist visa, countries like Canada, the UK, and Australia check 'financial standing' for residency and work permits. A massive defaulted or settled loan on your record can sometimes be flagged during the verification of your assets or financial reliability, potentially stalling your immigration dreams.
               </p>
             </section>
 
             <section id="spouse-impact" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 uppercase tracking-tighter">Impact on Spouse's Credit Eligibility</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 uppercase tracking-tighter">Impact on Spouse's Credit Eligibility</h3>
               <p className="mb-6 leading-relaxed">
                 If you are a co-borrower on a loan that is being settled, and you later apply for a joint Home Loan with your spouse, your 'Settled' status will likely cause the entire application to be rejected. While your spouse's individual score might be 800+, the bank looks at the 'lowest common denominator' in a joint application. This means your past can tether your spouse's future financial opportunities as well.
               </p>
             </section>
 
             <section id="court-room-dynamics" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Co-Borrower vs. Guarantor in Court</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Co-Borrower vs. Guarantor in Court</h3>
               <p className="mb-6 leading-relaxed">
                 In a court of law, a <strong>Guarantor</strong> can sometimes argue that the bank did not exhaust all options with the primary borrower before coming after them. However, a <strong>Co-Borrower</strong> has no such defense. You are considered to have received the benefit of the loan (even if you didn't). This makes defending a co-borrower in court much harder than defending a guarantor, highlighting the extreme risk of signing as a co-applicant.
               </p>
             </section>
 
             <section id="success-stories-cob" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 text-center">Real Stories of Help</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 text-center">Real Stories of Help</h3>
               <div className="grid md:grid-cols-2 gap-6 not-prose">
                 {[
                   {
@@ -541,7 +541,7 @@ export default function CoBorrowerSettlementImpactPage() {
                         {review.name.charAt(0)}
                       </div>
                       <div>
-                        <h3 className="font-bold text-[#2E2E2E]">{review.name}</h3>
+                        <h4 className="font-bold text-[#2E2E2E]">{review.name}</h4>
                         <p className="text-xs text-gray-400">{review.loc}</p>
                       </div>
                       <div className="ml-auto text-yellow-400 text-sm">★★★★★</div>
@@ -556,7 +556,7 @@ export default function CoBorrowerSettlementImpactPage() {
             </section>
 
             <section id="faqs" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Frequently Asked Questions</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Frequently Asked Questions</h3>
               <div className="space-y-4">
                 {[
                   { q: "Can a co-borrower settle only their 'half' of the debt?", a: "No. Banks generally do not accept partial settlements for a single loan account. The entire account must be settled as a whole." },

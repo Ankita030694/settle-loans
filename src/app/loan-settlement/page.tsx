@@ -292,9 +292,9 @@ export default function LoanSettlementPage() {
 
           {/* Section 2: What is Settlement (New - Generalized) */}
           <section id="what-is-settlement" className="scroll-mt-32 mb-12">
-            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
+            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
               What is Loan Settlement?
-            </h2>
+            </h3>
             <p className="text-lg leading-relaxed mb-6">
               Loan settlement is a mutual decision between a borrower and a lender (Banks or NBFCs), where the lender agrees to accept less than the total outstanding amount to close the loan account. After payment, the loan is marked as "settled" instead of "closed." 
             </p>
@@ -305,9 +305,9 @@ export default function LoanSettlementPage() {
 
           {/* Section 3: Why Banks Agree (New) */}
           <section id="why-banks-agree" className="scroll-mt-32 mb-12">
-            <h2 className="text-2xl md:text-3xl font-black text-[#2E2E2E] mb-6">
+            <h3 className="text-2xl md:text-3xl font-black text-[#2E2E2E] mb-6">
               Why Do Banks Agree to Settle?
-            </h2>
+            </h3>
             <p className="mb-4">
               It might seem counterintuitive for a bank to accept less money. However, banks and NBFCs agree to settle only when they believe the borrower cannot repay the full amount. They prefer to recover a portion of the outstanding amount (Principal) rather than lose it entirely. Common reasons include:
             </p>
@@ -335,10 +335,10 @@ export default function LoanSettlementPage() {
 
           {/* Section 4: The Minimum Due Trap (Original) */}
           <section className="mb-16">
-            <h3 className="text-2xl font-black text-[#2E2E2E] mb-6 flex items-center">
+            <h4 className="text-2xl font-black text-[#2E2E2E] mb-6 flex items-center">
               <span className="w-8 h-8 rounded-lg bg-red-100 text-red-600 flex items-center justify-center mr-3 text-sm font-black">⚠</span>
               The "Minimum Due" Trap
-            </h3>
+            </h4>
             <div className="bg-red-50 border-l-4 border-red-500 p-8 rounded-r-xl">
               <p className="mb-4 font-medium text-red-900">
                 One of the most common ways people fall into a debt trap is through credit cards. It starts innocently. You pay the "Minimum Amount Due" (5%), thinking you are safe.
@@ -363,9 +363,9 @@ export default function LoanSettlementPage() {
 
           {/* Section 5: Closing vs Settling (New Table) */}
           <section id="closing-vs-settling" className="scroll-mt-32 mb-12">
-            <h2 className="text-2xl md:text-3xl font-black text-[#2E2E2E] mb-6">
+            <h3 className="text-2xl md:text-3xl font-black text-[#2E2E2E] mb-6">
               Difference Between Closing and Settling a Loan
-            </h2>
+            </h3>
             <div className="overflow-x-auto">
               <table className="min-w-full bg-white border border-gray-200 rounded-lg shadow-sm">
                 <thead>
@@ -403,7 +403,7 @@ export default function LoanSettlementPage() {
 
           {/* Section 6: When to Consider (Merged) */}
           <section id="when-to-consider" className="scroll-mt-32 mb-12">
-             <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">When is Settlement Your Only Option?</h2>
+             <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">When is Settlement Your Only Option?</h3>
             <p className="mb-6">
               Settlement is a drastic step, akin to financial surgery. It should not be your first choice. However, if you are borrowing money just to pay EMIs, you are digging a deeper hole. You should consider loan settlement if:
             </p>
@@ -417,7 +417,7 @@ export default function LoanSettlementPage() {
                 { title: "Harassment Escalation", desc: "Recovery agents are crossing lines, threatening your family, or showing up at your workplace." }
               ].map((item, i) => (
                 <div key={i} className="bg-white p-5 rounded-xl border border-[#DEDEDE] shadow-sm hover:shadow-md transition-shadow">
-                  <h3 className="font-black text-[#1F5EFF] mb-2">{item.title}</h3>
+                  <h4 className="font-black text-[#1F5EFF] mb-2">{item.title}</h4>
                   <p className="text-sm text-[var(--color-text-body)] opacity-80">{item.desc}</p>
                 </div>
               ))}
@@ -429,7 +429,7 @@ export default function LoanSettlementPage() {
 
           {/* Section 7: Recovery Agents (Original) */}
           <section className="scroll-mt-32 mb-12">
-            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">The Reality of Recovery Agents</h2>
+            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">The Reality of Recovery Agents</h3>
             <p>
               If you have defaulted, you likely know the dark side of Indian lending - the <strong>Recovery Agents</strong>. These are third-party agencies hired by banks to collect dues. While they are supposed to follow the law, the reality on the ground is often different.
             </p>
@@ -445,41 +445,41 @@ export default function LoanSettlementPage() {
 
           {/* Section 8: The Process (Merged) */}
           <section id="process" className="scroll-mt-32 mb-12">
-            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">The Settlement Process</h2>
+            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">The Settlement Process</h3>
             
             <div className="mb-12">
-               <h3 className="text-xl font-black text-[#2E2E2E] mb-6">Step-by-Step Overview</h3>
+               <h4 className="text-xl font-black text-[#2E2E2E] mb-6">Step-by-Step Overview</h4>
                <div className="relative pl-8 border-l-2 border-[#1F5EFF]/20 space-y-8">
                 <div className="relative">
                   <span className="absolute -left-[9px] top-0 w-4 h-4 rounded-full bg-[#1F5EFF]"></span>
-                  <h4 className="font-black text-lg">1. Analysis & Budgeting</h4>
+                  <h5 className="font-black text-lg">1. Analysis & Budgeting</h5>
                   <p className="text-sm text-gray-600">Assess total debt and determine a realistic settlement offer.</p>
                 </div>
                 <div className="relative">
                   <span className="absolute -left-[9px] top-0 w-4 h-4 rounded-full bg-[#1F5EFF]"></span>
-                  <h4 className="font-black text-lg">2. Delinquency Phase</h4>
+                  <h5 className="font-black text-lg">2. Delinquency Phase</h5>
                   <p className="text-sm text-gray-600">Loans usually become eligible for settlement after 90 days (NPA status).</p>
                 </div>
                 <div className="relative">
                   <span className="absolute -left-[9px] top-0 w-4 h-4 rounded-full bg-[#1F5EFF]"></span>
-                  <h4 className="font-black text-lg">3. Negotiation</h4>
+                  <h5 className="font-black text-lg">3. Negotiation</h5>
                   <p className="text-sm text-gray-600">Discuss with the bank to waive interest and part of the principal.</p>
                 </div>
                 <div className="relative">
                   <span className="absolute -left-[9px] top-0 w-4 h-4 rounded-full bg-[#1F5EFF]"></span>
-                  <h4 className="font-black text-lg">4. Settlement Letter</h4>
+                  <h5 className="font-black text-lg">4. Settlement Letter</h5>
                   <p className="text-sm text-gray-600">Receive formal written confirmation of the settlement terms.</p>
                 </div>
                 <div className="relative">
                   <span className="absolute -left-[9px] top-0 w-4 h-4 rounded-full bg-[#1F5EFF]"></span>
-                  <h4 className="font-black text-lg">5. Closure</h4>
+                  <h5 className="font-black text-lg">5. Closure</h5>
                   <p className="text-sm text-gray-600">Pay the agreed amount and obtain the No Dues Certificate.</p>
                 </div>
               </div>
             </div>
 
             <div className="bg-gray-50 p-8 rounded-2xl border border-[#DEDEDE]">
-               <h3 className="text-xl font-black text-[#1F5EFF] mb-4">How SettleLoans Helps You</h3>
+               <h4 className="text-xl font-black text-[#1F5EFF] mb-4">How SettleLoans Helps You</h4>
                <p className="mb-4">
                  Our role is to be your shield and your negotiator.
                </p>
@@ -493,19 +493,19 @@ export default function LoanSettlementPage() {
 
           {/* Section 9: Credit Score Impact (Merged) */}
           <section id="credit-score-impact" className="scroll-mt-32 mb-12">
-            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">What Does Settlement Do to Your Credit Score?</h2>
+            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">What Does Settlement Do to Your Credit Score?</h3>
              <p className="mb-6">
               We believe in total transparency. Loan settlement <strong>will damage your credit score</strong>. The "Settled" remark serves as a warning to other lenders.
             </p>
              <div className="space-y-6 mb-8">
               <div className="bg-white p-6 rounded-xl border border-gray-100 shadow-sm">
-                <h3 className="text-xl font-bold text-[var(--color-text-hero)] mb-2">1. Immediate Drop</h3>
+                <h4 className="text-xl font-bold text-[var(--color-text-hero)] mb-2">1. Immediate Drop</h4>
                 <p className="text-gray-600">
                   When your loan is tagged as "settled," lenders see it as a partial default. This can reduce your credit score by 75-100 points depending on your history.
                 </p>
               </div>
               <div className="bg-white p-6 rounded-xl border border-gray-100 shadow-sm">
-                <h3 className="text-xl font-bold text-[var(--color-text-hero)] mb-2">2. 7-Year Record</h3>
+                <h4 className="text-xl font-bold text-[var(--color-text-hero)] mb-2">2. 7-Year Record</h4>
                 <p className="text-gray-600">
                   The "settled" tag stays on your CIBIL report for up to 7 years. New loan approvals become difficult during this period.
                 </p>
@@ -531,18 +531,18 @@ export default function LoanSettlementPage() {
 
           {/* Section 10: Write-off vs Waive-off (New) */}
           <section id="write-off-vs-waive-off" className="scroll-mt-32 mb-12">
-             <h2 className="text-2xl md:text-3xl font-black text-[#2E2E2E] mb-6">
+             <h3 className="text-2xl md:text-3xl font-black text-[#2E2E2E] mb-6">
               Loan Write-off vs Loan Waive-off
-            </h2>
+            </h3>
             <div className="flex flex-col gap-6">
                <div className="bg-red-50 p-6 rounded-xl border-l-4 border-red-500">
-                  <h3 className="text-lg font-bold text-red-800 mb-2">Loan Write-off (Bad)</h3>
+                  <h4 className="text-lg font-bold text-red-800 mb-2">Loan Write-off (Bad)</h4>
                   <p className="text-red-900/80 mb-2">
                     This is an accounting entry. The bank considers the loan a loss for tax purposes. However, <strong>you still owe the money</strong>. Legal action can continue.
                   </p>
                </div>
                <div className="bg-emerald-50 p-6 rounded-xl border-l-4 border-emerald-500">
-                  <h3 className="text-lg font-bold text-emerald-800 mb-2">Loan Waive-off (Good)</h3>
+                  <h4 className="text-lg font-bold text-emerald-800 mb-2">Loan Waive-off (Good)</h4>
                   <p className="text-emerald-900/80 mb-2">
                     This means the lender completely forgives the debt. You are no longer liable. This is extremely rare for personal loans and usually happens only in government schemes.
                   </p>
@@ -552,9 +552,9 @@ export default function LoanSettlementPage() {
 
           {/* Section 11: Alternatives (New) */}
           <section id="alternatives" className="scroll-mt-32 mb-12">
-            <h2 className="text-2xl md:text-3xl font-black text-[#2E2E2E] mb-6">
+            <h3 className="text-2xl md:text-3xl font-black text-[#2E2E2E] mb-6">
               Alternatives Before Settling
-            </h2>
+            </h3>
             <p className="mb-6">Try these before opting for settlement:</p>
             <ul className="grid sm:grid-cols-2 gap-4">
                <li className="p-4 border border-gray-200 rounded-lg"><strong>EMI Restructuring:</strong> Ask for a longer tenure to reduce monthly EMIs.</li>
@@ -566,10 +566,10 @@ export default function LoanSettlementPage() {
 
           {/* Section 12: Benefits vs Risks (Original) */}
           <section id="benefits-risks" className="scroll-mt-32 mb-12">
-            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">Benefits vs Risks</h2>
+            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">Benefits vs Risks</h3>
             <div className="grid md:grid-cols-2 gap-6 my-8 not-prose">
               <div className="bg-emerald-50/50 p-6 rounded-2xl border border-emerald-100">
-                <h3 className="text-xl font-bold text-emerald-800 mb-4">Benefits</h3>
+                <h4 className="text-xl font-bold text-emerald-800 mb-4">Benefits</h4>
                 <ul className="space-y-3 text-emerald-900/80 text-sm">
                   <li>• <strong>Instant Relief:</strong> Stops harassment immediately.</li>
                   <li>• <strong>Massive Savings:</strong> Save up to 50% on principal.</li>
@@ -578,7 +578,7 @@ export default function LoanSettlementPage() {
                 </ul>
               </div>
               <div className="bg-rose-50/50 p-6 rounded-2xl border border-rose-100">
-                <h3 className="text-xl font-bold text-rose-800 mb-4">Risks</h3>
+                <h4 className="text-xl font-bold text-rose-800 mb-4">Risks</h4>
                 <ul className="space-y-3 text-rose-900/80 text-sm">
                   <li>• <strong>CIBIL Damage:</strong> Score drops significantly.</li>
                   <li>• <strong>Blacklist:</strong> Hard to get new loans for 2-3 years.</li>
@@ -590,9 +590,9 @@ export default function LoanSettlementPage() {
 
            {/* Section 13: Documents (New) */}
            <section id="documents-required" className="scroll-mt-32 mb-12">
-            <h2 className="text-2xl md:text-3xl font-black text-[#2E2E2E] mb-6">
+            <h3 className="text-2xl md:text-3xl font-black text-[#2E2E2E] mb-6">
               Documents Required
-            </h2>
+            </h3>
             <div className="bg-gray-50 p-6 rounded-lg">
                <p className="mb-4">To successfully negotiate, you need proof:</p>
                <ul className="grid sm:grid-cols-2 gap-2 text-sm font-medium">
@@ -608,7 +608,7 @@ export default function LoanSettlementPage() {
 
           {/* Section 14: RBI Guidelines (Merged) */}
           <section id="rbi-guidelines" className="scroll-mt-32 mb-12">
-            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">RBI Guidelines: Know Your Rights</h2>
+            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">RBI Guidelines: Know Your Rights</h3>
              <div className="bg-blue-50 border-l-4 border-blue-500 p-6 rounded-r-lg">
                <ul className="list-disc pl-6 space-y-2 text-blue-900/80">
                   <li><strong>Time Restrictions:</strong> Agents cannot call before 08:00 AM or after 07:00 PM.</li>
@@ -621,7 +621,7 @@ export default function LoanSettlementPage() {
 
           {/* Section 15: Reviews (Original) */}
           <section id="reviews" className="scroll-mt-32 mb-12">
-            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 text-center">Stories of Hope</h2>
+            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 text-center">Stories of Hope</h3>
              <div className="grid md:grid-cols-2 gap-6 not-prose">
               {[
                 { 
@@ -659,7 +659,7 @@ export default function LoanSettlementPage() {
                       {review.name.charAt(0)}
                     </div>
                     <div>
-                      <h3 className="font-bold text-[var(--color-text-hero)]">{review.name}</h3>
+                      <h4 className="font-bold text-[var(--color-text-hero)]">{review.name}</h4>
                       <p className="text-xs text-[var(--color-text-muted)]">{review.loc}</p>
                     </div>
                     <div className="ml-auto text-yellow-400 text-sm">★★★★★</div>
@@ -676,7 +676,7 @@ export default function LoanSettlementPage() {
 
           {/* Section 16: FAQs (Merged) */}
           <section id="faqs" className="scroll-mt-32 mb-12">
-            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Frequently Asked Questions</h2>
+            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Frequently Asked Questions</h3>
             <div className="space-y-4 not-prose">
               {[
                 { q: "Can I negotiate a settlement even if my loan is not yet in default?", a: "Yes, you can, but it is harder. Banks usually prefer settlement for accounts that are already NPAs (90+ days overdue). However, if you have strong proof of future inability to pay (like a layoff letter), some may consider it early." },
@@ -715,7 +715,7 @@ export default function LoanSettlementPage() {
           <div className="lg:hidden mt-16 mb-8">
             <div className="bg-[#2E2E2E] rounded-2xl shadow-xl overflow-hidden border border-[#1F5EFF]/20">
               <div className="bg-[#1F5EFF] p-6 text-center text-white">
-                <h3 className="text-2xl font-black mb-2">Struggling with Debt?</h3>
+                <h4 className="text-2xl font-black mb-2">Struggling with Debt?</h4>
                 <p className="opacity-90 text-sm">Get a comprehensive analysis of your loan portfolio today.</p>
               </div>
               <div className="p-8 text-center text-[#DEDEDE]">

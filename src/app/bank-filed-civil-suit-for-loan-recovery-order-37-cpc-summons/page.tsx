@@ -275,12 +275,12 @@ export default function Order37SummonsPage() {
             </section>
 
             <section id="what-is-order-37" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">What is Order 37 CPC for a Bank Loan?</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">What is Order 37 CPC for a Bank Loan?</h3>
               <p className="text-lg leading-relaxed mb-6">
                 Order 37 of the CPC provides for a summary procedure in suits based on negotiable instruments (like cheques) or where the plaintiff (the bank) seeks to recover a debt or liquidated demand in money arising out of a written contract. 
               </p>
               <div className="bg-blue-50 border-l-8 border-[#1F5EFF] p-8 rounded-r-2xl mb-8">
-                <h3 className="text-xl font-black text-[#1F5EFF] mb-4">Key Difference from Regular Suits</h3>
+                <h4 className="text-xl font-black text-[#1F5EFF] mb-4">Key Difference from Regular Suits</h4>
                 <p className="text-lg leading-relaxed mb-6 text-blue-900">
                   In a normal civil suit, the defendant (you) has the absolute right to present a defense, file a written statement, and contest the claims. In a <strong>summary suit for loan recovery</strong> under Order 37, you <em>do not have the right to defend yourself</em> unless you specifically ask for the court's permission, known as seeking "Leave to Defend."
                 </p>
@@ -288,32 +288,32 @@ export default function Order37SummonsPage() {
             </section>
 
             <section id="why-banks-use-it" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">Why Banks File Civil Suits Under Order 37</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">Why Banks File Civil Suits Under Order 37</h3>
               <p className="text-lg leading-relaxed mb-6">
                 If the bank filed civil suit against me, why did they choose Order 37? Banks and NBFCs prefer this route for several strategic reasons:
               </p>
               <div className="grid md:grid-cols-2 gap-6 my-8">
                 <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
-                  <h3 className="font-black text-[#1F5EFF] text-lg mb-2">Speed of Judgment</h3>
+                  <h4 className="font-black text-[#1F5EFF] text-lg mb-2">Speed of Judgment</h4>
                   <p className="text-gray-700">The entire legal process is fast-tracked. If the borrower misses the 10-day deadline, the bank gets a decree immediately without a trial.</p>
                 </div>
                 <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
-                  <h4 className="font-black text-[#1F5EFF] text-lg mb-2">Written Agreements</h4>
+                  <h5 className="font-black text-[#1F5EFF] text-lg mb-2">Written Agreements</h5>
                   <p className="text-gray-700">Since personal loans and credit cards involve signed agreements, banks meet the primary condition for filing a summary suit.</p>
                 </div>
                 <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
-                  <h4 className="font-black text-[#1F5EFF] text-lg mb-2">Psychological Pressure</h4>
+                  <h5 className="font-black text-[#1F5EFF] text-lg mb-2">Psychological Pressure</h5>
                   <p className="text-gray-700">The strict deadlines and the threat of an immediate decree put immense pressure on the borrower to settle on the bank's terms.</p>
                 </div>
                 <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
-                  <h4 className="font-black text-[#1F5EFF] text-lg mb-2">Asset Attachment</h4>
+                  <h5 className="font-black text-[#1F5EFF] text-lg mb-2">Asset Attachment</h5>
                   <p className="text-gray-700">Once a decree is passed, it is much easier for the bank to file for execution and attach your bank accounts or property.</p>
                 </div>
               </div>
             </section>
 
             <section id="how-to-reply" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">How to Reply to Order 37 Summons: Step-by-Step</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">How to Reply to Order 37 Summons: Step-by-Step</h3>
               <p className="text-lg leading-relaxed mb-6">
                 When dealing with an Order 37 cpc bank loan summons, you must adhere strictly to the timelines. Here is the legal process you and your lawyer must follow:
               </p>
@@ -321,21 +321,21 @@ export default function Order37SummonsPage() {
                 <div className="flex gap-6">
                   <div className="flex-shrink-0 w-12 h-12 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center font-black text-xl shadow-lg">1</div>
                   <div>
-                    <h3 className="text-2xl font-black text-[#2E2E2E] mb-2">Filing the Appearance (Within 10 Days)</h3>
+                    <h4 className="text-2xl font-black text-[#2E2E2E] mb-2">Filing the Appearance (Within 10 Days)</h4>
                     <p className="text-lg leading-relaxed text-gray-700">The moment you receive the summons in Form No. 4, Appendix B, you have exactly 10 days to enter an appearance in court. This simply means your lawyer informs the court, "Yes, we have received the notice, and we are present."</p>
                   </div>
                 </div>
                 <div className="flex gap-6">
                   <div className="flex-shrink-0 w-12 h-12 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center font-black text-xl shadow-lg">2</div>
                   <div>
-                    <h4 className="text-2xl font-black text-[#2E2E2E] mb-2">The Summons for Judgment</h4>
+                    <h5 className="text-2xl font-black text-[#2E2E2E] mb-2">The Summons for Judgment</h5>
                     <p className="text-lg leading-relaxed text-gray-700">After you file your appearance, the bank's lawyer will serve you with a "Summons for Judgment" supported by an affidavit verifying their claims.</p>
                   </div>
                 </div>
                 <div className="flex gap-6">
                   <div className="flex-shrink-0 w-12 h-12 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center font-black text-xl shadow-lg">3</div>
                   <div>
-                    <h4 className="text-2xl font-black text-[#2E2E2E] mb-2">Seeking Leave to Defend (Within 10 Days)</h4>
+                    <h5 className="text-2xl font-black text-[#2E2E2E] mb-2">Seeking Leave to Defend (Within 10 Days)</h5>
                     <p className="text-lg leading-relaxed text-gray-700">Once you receive the Summons for Judgment, you have another strict 10-day window to apply for "Leave to Defend" by filing an affidavit disclosing facts that demonstrate you have a valid defense.</p>
                   </div>
                 </div>
@@ -343,7 +343,7 @@ export default function Order37SummonsPage() {
             </section>
 
             <section id="leave-to-defend" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">Drafting a Strong "Leave to Defend"</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">Drafting a Strong "Leave to Defend"</h3>
               <div className="bg-gray-50 p-8 rounded-2xl mb-8 border border-gray-200">
                 <p className="text-lg leading-relaxed mb-6 text-gray-800">
                   The court will not grant you leave to defend just because you asked. Your lawyer must present "triable issues." This means showing the court that there is a genuine dispute regarding the facts or the amount claimed by the bank. 
@@ -357,9 +357,9 @@ export default function Order37SummonsPage() {
             </section>
 
             <section id="consequences" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">What Happens if You Ignore the Summons?</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">What Happens if You Ignore the Summons?</h3>
               <div className="bg-red-50 p-6 rounded-xl border border-red-100 mb-8">
-                <h3 className="text-xl font-black text-red-700 mb-4">The Danger of Default</h3>
+                <h4 className="text-xl font-black text-red-700 mb-4">The Danger of Default</h4>
                 <p className="text-lg leading-relaxed text-red-900">
                   Ignoring an Order 37 summons is catastrophic. If you do not enter an appearance within 10 days, the law presumes you have admitted to all the allegations in the bank's lawsuit. The judge will immediately pass a decree against you for the total amount claimed, plus interest and legal costs. Following this, the bank will initiate execution proceedings to freeze your bank accounts and attach your property.
                 </p>
@@ -367,7 +367,7 @@ export default function Order37SummonsPage() {
             </section>
 
             <section id="success-stories" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">Real Client Outcomes</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">Real Client Outcomes</h3>
               <div className="grid md:grid-cols-2 gap-6">
                 
                 <div className="bg-white p-8 rounded-[30px] border border-[#DEDEDE] shadow-sm hover:shadow-xl group transition-all">
@@ -376,7 +376,7 @@ export default function Order37SummonsPage() {
                       R
                     </div>
                     <div className="ml-4">
-                      <h3 className="font-bold text-[#2E2E2E]">Rahul M.</h3>
+                      <h4 className="font-bold text-[#2E2E2E]">Rahul M.</h4>
                       <div className="flex text-yellow-400">
                         <svg className="w-4 h-4 fill-current" viewBox="0 0 20 20"><path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z" /></svg>
                         <svg className="w-4 h-4 fill-current" viewBox="0 0 20 20"><path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z" /></svg>
@@ -399,7 +399,7 @@ export default function Order37SummonsPage() {
                       V
                     </div>
                     <div className="ml-4">
-                      <h4 className="font-bold text-[#2E2E2E]">Vikram S.</h4>
+                      <h5 className="font-bold text-[#2E2E2E]">Vikram S.</h5>
                       <div className="flex text-yellow-400">
                         <svg className="w-4 h-4 fill-current" viewBox="0 0 20 20"><path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z" /></svg>
                         <svg className="w-4 h-4 fill-current" viewBox="0 0 20 20"><path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z" /></svg>
@@ -420,7 +420,7 @@ export default function Order37SummonsPage() {
             </section>
 
             <section id="faqs" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">Frequently Asked Questions</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">Frequently Asked Questions</h3>
               <div className="space-y-4">
                 {[
                   { q: "What is an Order 37 CPC bank loan suit?", a: "An Order 37 suit is a 'Summary Suit' filed by a bank or NBFC for rapid recovery of debt. Unlike normal civil suits, it does not allow the borrower to defend themselves as a matter of right." },
@@ -451,7 +451,7 @@ export default function Order37SummonsPage() {
             <div className="bg-[#2E2E2E] text-white p-12 rounded-[40px] text-center mt-24 relative overflow-hidden group">
               <div className="absolute inset-0 bg-[#1F5EFF] opacity-0 group-hover:opacity-5 transition-opacity duration-500"></div>
               <div className="relative z-10">
-                <h3 className="text-3xl font-black mb-6">Received an Order 37 Court Summons?</h3>
+                <h4 className="text-3xl font-black mb-6">Received an Order 37 Court Summons?</h4>
                 <p className="text-xl mb-8 text-gray-300">
                   You only have <strong>10 days</strong> to respond before the bank gets a direct judgment against you. Hire our litigation experts to file your defense immediately.
                 </p>

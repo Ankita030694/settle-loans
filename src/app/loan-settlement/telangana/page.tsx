@@ -232,7 +232,7 @@ const Page = () => {
                     </section>
 
                     <section id="telangana-money-lenders-act" className="scroll-mt-32 mb-16">
-                        <h2 className="text-3xl font-black mb-6">The Telangana Money Lenders Act: Your Legal Shield</h2>
+                        <h3 className="text-3xl font-black mb-6">The Telangana Money Lenders Act: Your Legal Shield</h3>
                         <p>One of the most powerful legal tools available to borrowers in the state is the **Telangana Money Lenders Act, 1349 F.** (originally the Andhra Pradesh (Telangana Area) Money Lenders Act). This historical yet highly relevant legislation was designed to protect citizens from the exploitative practices of private lenders. It is a critical piece of the legal landscape that every borrower in Telangana should be aware of, especially those dealing with unregulated sources of credit.</p>
                         <p>The Act mandates that any individual or entity engaging in the business of money lending within the state must possess a valid license issued by the appropriate authority. This is not just a procedural requirement; it is a fundamental pillar of consumer protection. If you have borrowed money from a lender in Hyderabad or Nizamabad who does not have this license, their loan might be legally unenforceable. The courts often take a very strict view of unlicensed lending, and we help you verify the legal standing of those you owe money to.</p>
                         <p>In addition to licensing, the Act sets clear caps on the interest rates that can be charged. For unsecured loans, the legal limit is typically between 9% and 12% per annum. However, many private lenders in the state charge astronomical rates, sometimes exceeding 36% or even 60% through hidden fees and penalties. SettleLoans performs a thorough audit of your loan accounts. If we find that the interest charged exceeds the legal limits set by the Telangana Money Lenders Act, we use this as significant leverage during settlement negotiations. We can often compel the lender to waive substantial amounts just to avoid the legal consequences of their violations.</p>
@@ -241,7 +241,7 @@ const Page = () => {
                     </section>
 
                     <section id="tslsa-lok-adalat-hyderabad" className="scroll-mt-32 mb-16">
-                        <h2 className="text-3xl font-black mb-6">TSLSA and Lok Adalats: Efficient Dispute Resolution</h2>
+                        <h3 className="text-3xl font-black mb-6">TSLSA and Lok Adalats: Efficient Dispute Resolution</h3>
                         <p>For many residents of Telangana, the traditional court system can seem daunting and expensive. However, the **Telangana State Legal Services Authority (TSLSA)** provides an excellent alternative through the mechanism of **Lok Adalats**. These 'People's Courts' are held regularly across the state, from the High Court in Hyderabad to the district courts in Mahbubnagar and Nalgonda. They are specifically designed to resolve civil disputes, including bank loan defaults, in an amicable and swift manner.</p>
                         <p>The primary advantage of a Lok Adalat is its finality. When a settlement is reached and an award is passed by the Lok Adalat bench, it has the same force as a decree from a civil court. Most importantly, this award is final and cannot be appealed in any other court. This brings absolute closure to your debt issues. You don't have to worry about the bank coming back after several months or years with fresh demands. Once it is settled in the Lok Adalat, it is settled forever.</p>
                         <p>Going to a Lok Adalat without professional guidance, however, can be a missed opportunity. Banks often come prepared with their legal teams and pre calculated formulas. They might offer a settlement that is still quite high for your financial situation. SettleLoans acts as your advocate in this forum. We engage with the bank's regional managers even before the session begins. We prepare a detailed 'Hardship Case' that is presented to the conciliators (who are often retired judges or senior lawyers). Our presence ensures that the negotiation is balanced and that the bank's team stays within the boundaries of fair practice.</p>
@@ -250,7 +250,7 @@ const Page = () => {
                     </section>
 
                     <section id="it-debt-crisis-hyderabad" className="scroll-mt-32 mb-16">
-                        <h2 className="text-3xl font-black mb-6">Navigating the IT Sector Debt Crisis in Hyderabad</h2>
+                        <h3 className="text-3xl font-black mb-6">Navigating the IT Sector Debt Crisis in Hyderabad</h3>
                         <p>Hyderabad is the crown jewel of India's IT industry, with HITECH City, Gachibowli, and Madhapur serving as global hubs for technology and services. This prosperity has attracted thousands of young professionals from across the country. However, the high pressure environment and the culture of easy credit have led to a unique debt crisis among the IT workforce. High salaries often lead to high credit limits, which in turn can lead to lifestyle inflation and eventual debt traps.</p>
                         <p>Many IT professionals in Hyderabad find themselves juggling multiple credit cards and personal loans. A sudden layoff, a freeze in hiring, or a personal health crisis can quickly turn a manageable repayment schedule into a nightmare. The fear of 'Social Stigma' is particularly high in this community. Borrowers often take fresh loans at even higher interest rates just to keep their existing EMIs current, leading to a dangerous 'Debt Spiral'. They worry about how a default might affect their career prospects or their standing among peers.</p>
                         <p>SettleLoans has extensive experience in handling debt resolution for the IT community in Telangana. We understand the specific nuances of your career paths and the pressure you are under. Our approach is discreet and professional. We help you understand that a loan settlement is a strategic financial decision, not a moral failure. By negotiating a One Time Settlement (OTS), we help you close these high interest liabilities once and for all. This allows you to stop the bleed and focus your earnings on building real assets rather than just paying off interest.</p>
@@ -259,7 +259,7 @@ const Page = () => {
                     </section>
 
                     <section id="harassment-police-protection" className="scroll-mt-32 mb-16">
-                        <h2 className="text-3xl font-black mb-6">Police Protection and Anti-Harassment Measures</h2>
+                        <h3 className="text-3xl font-black mb-6">Police Protection and Anti-Harassment Measures</h3>
                         <p>The most distressing aspect of debt default in Telangana is the aggressive and often illegal behavior of recovery agents. If you are facing harassment in Hyderabad, Secunderabad, or any other part of the state, it is important to know that the law is on your side. The **Cyberabad Police**, **Rachakonda Police**, and **Hyderabad City Police** have been very proactive in cracking down on illegal recovery practices and predatory lending apps. They have established dedicated units to handle these complaints, and they take them very seriously.</p>
                         <p>Harassment can take many forms: incessant calls at odd hours, abusive language, visits to your workplace in Madhapur, or threatening your family members. All of these are violations of the **RBI's Fair Practices Code**. If you are being targeted, the first step is to document every interaction. Save call recordings, take screenshots of threatening messages, and note down the details of any agents who visit you. You can call the **Cyber Crime Helpline at 1930** to report digital harassment or visit your local police station for physical intimidation. The authorities in Telangana have shown that they will not tolerate bullying by banks or private lenders.</p>
                         <p>At SettleLoans, we provide an immediate 'Legal Shield' to our clients. When you enroll with us, we issue formal legal notices to all your creditors, informing them that you are now legally represented. We direct all their recovery and collection teams to communicate only with our firm. This single step often stops 85% to 90% of the harassment almost immediately. Banks and reputable NBFCs are generally very careful about continuing aggressive tactics once they know a professional legal firm is involved. We act as your 'Blast Wall', absorbing the pressure so you can regain your peace of mind.</p>
@@ -268,7 +268,7 @@ const Page = () => {
                     </section>
 
                     <section id="personal-loan-negotiation" className="scroll-mt-32 mb-16">
-                        <h2 className="text-3xl font-black mb-6">Expert Negotiation for Personal Loan Settlement</h2>
+                        <h3 className="text-3xl font-black mb-6">Expert Negotiation for Personal Loan Settlement</h3>
                         <p>Personal loans are often the first resort for families in Telangana when they face urgent needs like a medical emergency, a wedding in the family, or higher education expenses. Because these loans are unsecured, meaning no collateral is required, the banks view them as high risk. Consequently, when a borrower defaults, the bank's recovery mechanism becomes particularly intense. From Nizamabad to Khammam, we see many hardworking individuals who took these loans with every intention to pay but were derailed by life's unpredictability.</p>
                         <p>Negotiating a settlement for a personal loan requires a nuanced understanding of the bank's internal policies. Every banking institution has a 'Bottom Price', the absolute minimum amount they are willing to accept to close an account rather than letting it linger as a bad debt. This threshold varies based on the age of the default, the total outstanding amount, and the specific proof of hardship provided. Our negotiators, many of whom have backgrounds in the banking and legal sectors, understand these internal dynamics and leverage them to your advantage.</p>
                         <p>We don't just ask for a discount; we build a **Professional Hardship Dossier**. We compile your financial records, proof of income reduction (like salary slips showing cuts or termination letters), and any evidence of extraordinary expenses (like hospital bills). We present a formal proposal to the bank's decision makers in their regional hubs like Hyderabad. We use the 'Ability to Pay' versus 'Willingness to Pay' argument, proving that a partial payment today is more beneficial for the bank than a total loss in the future. This level of professional communication often yields results that an individual simply cannot achieve on their own.</p>
@@ -276,7 +276,7 @@ const Page = () => {
                     </section>
 
                     <section id="credit-card-trap-telangana" className="scroll-mt-32 mb-16">
-                        <h2 className="text-3xl font-black mb-6">Escaping the Credit Card Debt Trap in Telangana</h2>
+                        <h3 className="text-3xl font-black mb-6">Escaping the Credit Card Debt Trap in Telangana</h3>
                         <p>Credit cards are a ubiquitous part of modern life in Telangana's urban centers. While they offer convenience and rewards, they are also the most common source of high interest debt traps. Many residents in cities like Hyderabad and Warangal start by paying only the 'Minimum Amount Due' on their cards, thinking they are managing their finances well. In reality, they are entering a cycle of debt where the interest rates can soar as high as 42% to 48% per annum. This is not just interest; it is a financial cage that keeps you working just to pay the banks.</p>
                         <p>When you pay only the minimum, you are barely covering the interest and taxes. The principal amount remains almost untouched. Over several months, this interest is compounded, and suddenly you find that you owe more than what you originally spent, even after making regular payments. This is the 'Interest Spiral' that we help our clients break. We specialize in 'Credit Card Exit Strategies', designed to stop the bleed and allow you to regain control of your financial life.</p>
                         <p>Our strategy often involves a 'Controlled Default'. We guide you through the process of stopping payments to force the bank to recognize the account as a distressed asset. Simultaneously, we build your hardship case. We show the bank that you have already paid a significant amount in interest and that a one time settlement is the only logical way forward. Banks are often more willing to settle credit card debts for 30% to 40% of the total outstanding because they know the 'Expected Value' of a collection from a distressed borrower is low. We leverage this commercial reality to secure you a life changing discount.</p>
@@ -284,7 +284,7 @@ const Page = () => {
                     </section>
 
                     <section id="sme-business-loan-settlement" className="scroll-mt-32 mb-16">
-                        <h2 className="text-3xl font-black mb-6">SME and Business Debt Relief in Telangana</h2>
+                        <h3 className="text-3xl font-black mb-6">SME and Business Debt Relief in Telangana</h3>
                         <p>Telangana is home to a thriving ecosystem of Small and Medium Enterprises (SMEs). Industrial areas like Pashamylaram, Cherlapally, and regions near cities like Karimnagar and Ramagundam are the backbone of the state's economy. However, small business owners often face high volatility. A change in government policy, a shift in global supply chains, or a local economic downturn can drastically affect cash flow. Many SME owners in the state take business loans or use personal assets to fund their operations, only to find themselves struggling when things go south.</p>
                         <p>Business debt is particularly complex because it often involves higher amounts and, sometimes, family assets as collateral. Banks are often more aggressive in pursuing business owners. At SettleLoans, we specialize in 'Business Debt Restructuring and Settlement'. We understand the language of business and the nuances of balance sheets. We help you present a case to the bank that demonstrates 'Business Hardship'. We show them that forcing your enterprise into liquidation is a 'Lose-Lose' situation for everyone, whereas a settlement allows the bank to recover a portion of the loan and allows you to potentially restart or transition with dignity.</p>
                         <p>We work with entrepreneurs across Telangana, from tech startups in Hyderabad to manufacturing units in the outlying districts. We help you separate your business liability from your personal assets whenever possible. Our negotiators engage with the bank's 'Credit Risk' and 'NPA' departments, using industry specific data to justify why a settlement is the most pragmatic choice. We have helped numerous business owners settle their high interest working capital loans and term loans, allowing them to escape the shadow of debt and focus on their next venture or their family's security.</p>
@@ -292,7 +292,7 @@ const Page = () => {
                     </section>
 
                     <section id="protecting-assets-sarfaesi" className="scroll-mt-32 mb-16">
-                        <h2 className="text-3xl font-black mb-6">Protecting Your Assets from SARFAESI Actions</h2>
+                        <h3 className="text-3xl font-black mb-6">Protecting Your Assets from SARFAESI Actions</h3>
                         <p>The greatest fear for any borrower in default is the potential loss of their home or family property. In Telangana, where family land is often tied to identity and heritage, this fear is particularly acute. Banks often use the threat of the **SARFAESI Act** (Securitisation and Reconstruction of Financial Assets and Enforcement of Security Interest Act) as a psychological weapon to force borrowers into paying more than they can afford. It is crucial to understand that while this law is powerful, it is also bound by strict procedural rules and timelines.</p>
                         <p>A bank cannot simply show up and take possession of your home in Secunderabad or your land in Nalgonda. They must follow a rigorous legal process, including the issuance of a Section 13(2) notice and a Section 13(4) notice. You have the right to object and to seek relief from the **Debt Recovery Tribunal (DRT)** if the bank has not followed the law. SettleLoans provides a comprehensive legal audit of every notice you receive. Even a small procedural error by the bank can be used to stay their recovery proceedings, giving you valuable time.</p>
                         <p>Our primary strategy is to use these legal protections to create a window for negotiation. Banks are aware that a protracted legal battle in the DRT or the High Court can take years. They would much rather have a guaranteed cash payment today through a One Time Settlement (OTS) than a risky and expensive auction process in the future. We leverage this commercial reality to protect your most valuable assets. We ensure that you stay in control of your property while we work on a monetary solution that satisfies the bank's requirements. We handle the communication with the bank's 'Authorized Officers', ensuring that they stay within the bounds of the law during their field visits.</p>
@@ -300,7 +300,7 @@ const Page = () => {
                     </section>
 
                     <section id="rural-vs-urban-debt" className="scroll-mt-32 mb-16">
-                        <h2 className="text-3xl font-black mb-6">Addressing Rural and Urban Debt Challenges</h2>
+                        <h3 className="text-3xl font-black mb-6">Addressing Rural and Urban Debt Challenges</h3>
                         <p>Telangana is a state of contrasts, and the nature of debt varies significantly between its urban centers and its rural heartland. In urban areas like Hyderabad and Warangal, the primary challenges are credit card debt, personal loans for lifestyle upgrades, and expensive housing loans. In rural districts like Adilabad, Mahbubnagar, and Nizamabad, the debt is often tied to agricultural cycles, high interest loans from private moneylenders, and seasonal volatility. Each context requires a different approach to resolution.</p>
                         <p>In rural Telangana, the pressure of debt can be particularly devastating due to the close knit nature of the community and the lack of awareness about legal protections. Farmers and small town residents often feel trapped by 'Arhtiyas' or unlicensed lenders who charge exploitative rates. We help these borrowers understand that they are protected by the **Telangana Money Lenders Act** and that they have the right to seek help through the **TSLSA**. We have assisted many rural families in settling their debts for manageable amounts, often by challenging the illegal interest components of the loan. We bring the professionalism of a high end legal firm to the doorstep of those who need it most.</p>
                         <p>In urban Telangana, the challenge is often the complexity of juggling multiple digital loans and credit lines. The 'Instant Loan Apps' have become a major problem in cities, using aggressive digital shaming tactics. Our team is well versed in dealing with these modern threats. We work with the cyber crime cells and the RBI to stop these illegal practices. Whether it is a traditional bank loan or a modern fintech debt, our goal is the same, to provide a legal path to closure. We understand that whether you are in a high rise in Gachibowli or a village in Medak, the weight of debt feels the same. We offer a universal standard of professional care and empathy to every client across the state.</p>
@@ -308,35 +308,35 @@ const Page = () => {
                     </section>
 
                     <section id="settlement-process-roadmap" className="scroll-mt-32 mb-16">
-                        <h2 className="text-3xl font-black mb-6">Your Step-by-Step Roadmap to Freedom</h2>
+                        <h3 className="text-3xl font-black mb-6">Your Step-by-Step Roadmap to Freedom</h3>
                         <p>Regaining your financial independence is not a single event; it is a structured journey. At SettleLoans, we have refined this process into a clear roadmap to ensure that every client in Telangana knows exactly what to expect. This transparency is the foundation of the trust we build with you. We guide you through each phase, handling the legal and financial complexities so you can focus on your recovery.</p>
                         
                         <div className="mb-12">
-                            <h3 className="text-xl font-black text-[#2E2E2E] mb-6 underline decoration-[#1F5EFF] decoration-4 underline-offset-8">The SettleLoans Journey</h3>
+                            <h4 className="text-xl font-black text-[#2E2E2E] mb-6 underline decoration-[#1F5EFF] decoration-4 underline-offset-8">The SettleLoans Journey</h4>
                             <div className="relative pl-8 border-l-2 border-[#1F5EFF]/20 space-y-12">
                                 <div className="relative">
                                     <span className="absolute -left-[9px] top-0 w-4 h-4 rounded-full bg-[#1F5EFF] ring-4 ring-[#1F5EFF]/20 shadow-lg"></span>
-                                    <h4 className="font-black text-xl text-[#2E2E2E]">1. Comprehensive Debt Assessment</h4>
+                                    <h5 className="font-black text-xl text-[#2E2E2E]">1. Comprehensive Debt Assessment</h5>
                                     <p className="text-[#2E2E2E]/70 text-lg mt-2">We start by analyzing your entire loan portfolio. We listen to your story, understand your current financial capability, and identify the most critical debts that require immediate attention. This is a judgment free analysis where we set the goals for your settlement.</p>
                                 </div>
                                 <div className="relative">
                                     <span className="absolute -left-[9px] top-0 w-4 h-4 rounded-full bg-[#1F5EFF] ring-4 ring-[#1F5EFF]/20 shadow-lg"></span>
-                                    <h4 className="font-black text-xl text-[#2E2E2E]">2. Legal Shield Implementation</h4>
+                                    <h5 className="font-black text-xl text-[#2E2E2E]">2. Legal Shield Implementation</h5>
                                     <p className="text-[#2E2E2E]/70 text-lg mt-2">Immediately upon enrollment, we issue formal legal notices to your creditors. This notice establishes that you are legally represented. This is the first step in stopping harassment and ensuring that all communication is directed through professional channels.</p>
                                 </div>
                                 <div className="relative">
                                     <span className="absolute -left-[9px] top-0 w-4 h-4 rounded-full bg-[#1F5EFF] ring-4 ring-[#1F5EFF]/20 shadow-lg"></span>
-                                    <h4 className="font-black text-xl text-[#2E2E2E]">3. Hardship Documentation</h4>
+                                    <h5 className="font-black text-xl text-[#2E2E2E]">3. Hardship Documentation</h5>
                                     <p className="text-[#2E2E2E]/70 text-lg mt-2">We help you compile the necessary 'Dossier of Hardship'. This includes medical records, bank statements, and any other evidence that justifies why you cannot pay the full amount. A well documented case is the most powerful tool in any negotiation.</p>
                                 </div>
                                 <div className="relative">
                                     <span className="absolute -left-[9px] top-0 w-4 h-4 rounded-full bg-[#1F5EFF] ring-4 ring-[#1F5EFF]/20 shadow-lg"></span>
-                                    <h4 className="font-black text-xl text-[#2E2E2E]">4. Strategic Negotiation</h4>
+                                    <h5 className="font-black text-xl text-[#2E2E2E]">4. Strategic Negotiation</h5>
                                     <p className="text-[#2E2E2E]/70 text-lg mt-2">Our expert negotiators engage with your creditors. We use our understanding of bank thresholds and regional credit centers to secure the highest possible waiver. We keep you informed at every step, and you have the final say on any offer received.</p>
                                 </div>
                                 <div className="relative">
                                     <span className="absolute -left-[9px] top-0 w-4 h-4 rounded-full bg-[#1F5EFF] ring-4 ring-[#1F5EFF]/20 shadow-lg"></span>
-                                    <h4 className="font-black text-xl text-[#2E2E2E]">5. Settlement & Final Closure</h4>
+                                    <h5 className="font-black text-xl text-[#2E2E2E]">5. Settlement & Final Closure</h5>
                                     <p className="text-[#2E2E2E]/70 text-lg mt-2">Once an agreement is reached, we ensure you receive a valid, written settlement letter. After you make the agreed payment, we help you secure the 'No Dues Certificate' (NDC), confirming the permanent closure of your debt. You are now officially on the path to rebuilding.</p>
                                 </div>
                             </div>
@@ -345,13 +345,13 @@ const Page = () => {
                     </section>
 
                     <section id="telangana-success-stories" className="scroll-mt-32 mb-16 text-center">
-                        <h2 className="text-4xl font-black mb-12">Success Stories from Telangana</h2>
+                        <h3 className="text-4xl font-black mb-12">Success Stories from Telangana</h3>
                         <div className="grid md:grid-cols-2 gap-8 not-prose">
                             <div className="bg-white p-8 rounded-3xl border border-[#DEDEDE] shadow-xl hover:shadow-2xl transition-all h-full flex flex-col group">
                                 <div className="flex items-center mb-6">
                                     <div className="w-14 h-14 rounded-full bg-[#1F5EFF]/10 flex items-center justify-center font-bold text-[#1F5EFF] text-xl mr-4 group-hover:bg-[#1F5EFF] group-hover:text-white transition-colors">V</div>
                                     <div className="text-left">
-                                        <h3 className="font-black text-xl text-[#2E2E2E]">Venkatesh R.</h3>
+                                        <h4 className="font-black text-xl text-[#2E2E2E]">Venkatesh R.</h4>
                                         <p className="text-sm text-gray-500 font-bold uppercase tracking-widest">Gachibowli, Hyderabad</p>
                                     </div>
                                     <div className="ml-auto text-yellow-500 animate-pulse">★★★★★</div>
@@ -366,7 +366,7 @@ const Page = () => {
                                 <div className="flex items-center mb-6">
                                     <div className="w-14 h-14 rounded-full bg-[#1F5EFF]/10 flex items-center justify-center font-bold text-[#1F5EFF] text-xl mr-4 group-hover:bg-[#1F5EFF] group-hover:text-white transition-colors">S</div>
                                     <div className="text-left">
-                                        <h4 className="font-black text-xl text-[#2E2E2E]">Sravani K.</h4>
+                                        <h5 className="font-black text-xl text-[#2E2E2E]">Sravani K.</h5>
                                         <p className="text-sm text-gray-500 font-bold uppercase tracking-widest">Warangal City</p>
                                     </div>
                                     <div className="ml-auto text-yellow-500 animate-pulse">★★★★★</div>
@@ -381,14 +381,14 @@ const Page = () => {
                     </section>
 
                     <section id="cibil-rebuilding-hyderabad" className="scroll-mt-32 mb-16">
-                        <h2 className="text-3xl font-black mb-6">Rebuilding Your Credit Score after Settlement</h2>
+                        <h3 className="text-3xl font-black mb-6">Rebuilding Your Credit Score after Settlement</h3>
                         <p>A common question we hear from our clients in Hyderabad and across Telangana is: "Will I ever be able to take a loan again?" The answer is a resounding Yes. While a settlement does result in a 'Settled' remark on your CIBIL report and a temporary dip in your score, it is not a permanent barrier. Think of it as a necessary financial surgery. Once the unhealthy debt is removed, the healing process begins. With a disciplined approach, you can restore your credit health within 18 to 24 months.</p>
                         <p>The first step in rebuilding is to obtain your official No Dues Certificate and ensure that the bank has correctly updated the status with all credit bureaus (CIBIL, Experian, Equifax, and CRIF). Once this is done, wait for a cooling off period of about six months. During this time, focus on ensuring that you have no other active defaults. The most effective way to start rebuilding your score in Telangana is with a **Secured Credit Card**. Several nationalized and private banks in Hyderabad offer these cards against a small Fixed Deposit (usually ₹20,000 to ₹50,000). By using this card for small, regular expenses and paying the balance in full every month, you demonstrate responsible credit behavior to the bureaus.</p>
                         <p>We also advise our clients to take small 'Consumer Durable' loans (for a laptop, a mobile phone, or a refrigerator) if needed, and ensure that every EMI is paid on time. This mix of credit products, secured and consumer, helps diversify your credit profile. Within two years of consistent, perfect repayment behavior, most of our clients see their credit scores climb back to the 725-750 range. At this level, you can once again qualify for significant loans like home loans or car loans. SettleLoans doesn't just help you settle; we provide you with the financial literacy and the roadmap to stay healthy in the long run. Real financial freedom is not just being out of debt; it is having the knowledge and the discipline to use credit wisely for your dreams.</p>
                     </section>
 
                     <section id="faqs-telangana" className="scroll-mt-32 mb-16">
-                        <h2 className="text-3xl font-black mb-8">Frequently Asked Questions: Telangana Edition</h2>
+                        <h3 className="text-3xl font-black mb-8">Frequently Asked Questions: Telangana Edition</h3>
                         <div className="space-y-4 not-prose">
                             {[
                                 { q: "Is loan settlement better than loan closure?", a: "Loan closure (paying in full) is ideal for your credit score. However, if you are currently insolvent and cannot afford full payment, settlement is a superior alternative to continuing defaults, as it stops the cumulative interest and ends legal threats." },
@@ -419,7 +419,7 @@ const Page = () => {
 
                     <section className="mt-16 bg-[#1F5EFF] rounded-[40px] p-12 text-center text-white shadow-3xl relative overflow-hidden group">
                         <div className="absolute top-0 right-0 w-64 h-64 bg-white/10 rounded-full -mr-32 -mt-32 transition-transform group-hover:scale-110"></div>
-                        <h2 className="text-3xl md:text-5xl font-black mb-6 relative z-10">Reclaim Your Financial Independence in Telangana</h2>
+                        <h3 className="text-3xl md:text-5xl font-black mb-6 relative z-10">Reclaim Your Financial Independence in Telangana</h3>
                         <p className="mb-10 text-xl opacity-90 max-w-2xl mx-auto relative z-10 font-bold">From the tech hubs of Hyderabad to the historic cities of the North and South, we have helped thousands of Telangana families settle their debts with honor. Your path to a debt-free life starts right here.</p>
                         <div className="flex justify-center relative z-10">
                             <Link href="/contact" className="inline-block bg-white text-[#1F5EFF] font-black py-4 px-12 rounded-2xl hover:scale-105 transition-all text-xl shadow-2xl hover:shadow-white/20">

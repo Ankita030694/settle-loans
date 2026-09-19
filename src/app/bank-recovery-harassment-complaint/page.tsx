@@ -4,7 +4,7 @@ import TableOfContents from "@/components/TableOfContents";
 import ReviewSnippets from "@/components/ReviewSnippets";
 
 export const metadata: Metadata = {
-    title: "Bank Recovery Harassment Complaint | How to File & Win India",
+    title: "Bank Recovery Harassment Complaint: How to File in India",
     description: "Are you facing harassment from bank recovery agents? Learn exactly how to file a complaint with the RBI Ombudsman, file an FIR.",
     alternates: {
         canonical: "https://www.settleloans.in/bank-recovery-harassment-complaint",
@@ -242,7 +242,7 @@ export default function RecoveryHarassmentComplaintPage() {
                                 Most borrowers suffer in silence because they believe that "defaulting" makes them a criminal who has no rights. This is fundamentally untrue. The RBI and the Supreme Court of India have established a multi-layered redressal mechanism designed to protect you. This guide details every official channel available to you, from the bank's internal boardrooms to the regulatory halls of the RBI.
                             </p>
                             <div className="bg-gray-900 p-10 rounded-[40px] text-white my-12 shadow-2xl relative border-t-8 border-[#1F5EFF]">
-                                <h3 className="text-2xl font-black mb-6 uppercase tracking-widest text-[#1F5EFF]">The Silent Power of Documentation</h3>
+                                <h4 className="text-2xl font-black mb-6 uppercase tracking-widest text-[#1F5EFF]">The Silent Power of Documentation</h4>
                                 <p className="text-lg opacity-80 leading-relaxed font-medium">
                                     Before you send a single email, you must have your evidence ready. A complaint without evidence is just an allegation; a complaint with recordings and screenshots is a legal mandate for action.
                                 </p>
@@ -250,37 +250,37 @@ export default function RecoveryHarassmentComplaintPage() {
                         </section>
 
                         <section id="nodal-officer-procedure" className="scroll-mt-32 mb-20">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 uppercase tracking-widest border-b-8 border-gray-100 pb-4">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 uppercase tracking-widest border-b-8 border-gray-100 pb-4">
                                 Step 1: The Principal Nodal Officer (PNO)
-                            </h2>
+                            </h3>
                             <p className="mb-8 leading-relaxed font-medium">
                                 You cannot jump to the RBI without first giving the bank a chance to fix the behavior of its agents. This is a mandatory prerequisite.
                             </p>
                             <div className="space-y-6">
                                 <div className="p-8 bg-blue-50 border border-blue-100 rounded-[32px] hover:shadow-md transition-all">
-                                    <h3 className="text-xl font-black text-[#1F5EFF] mb-2 uppercase italic leading-none">The Formal Email</h3>
+                                    <h4 className="text-xl font-black text-[#1F5EFF] mb-2 uppercase italic leading-none">The Formal Email</h4>
                                     <p className="text-sm leading-relaxed font-bold opacity-70">Send a detailed email to the PNO of your bank. Use the subject line: 'URGENT: Harassment by Recovery Agents - Loan A/C [Number]'. Be professional, factual, and mention the specific RBI guidelines violated.</p>
                                 </div>
                                 <div className="p-8 bg-blue-50 border border-blue-100 rounded-[32px] hover:shadow-md transition-all">
-                                    <h4 className="text-xl font-black text-[#1F5EFF] mb-2 uppercase italic leading-none">The 30-Day Clock</h4>
+                                    <h5 className="text-xl font-black text-[#1F5EFF] mb-2 uppercase italic leading-none">The 30-Day Clock</h5>
                                     <p className="text-sm leading-relaxed font-bold opacity-70">The law gives the bank 30 days to resolve the matter. If they ignore you or send a generic 'we have noted your concern' email, your path to the Ombudsman is officially cleared.</p>
                                 </div>
                                 <div className="p-8 bg-[#1F5EFF] text-white rounded-[32px] shadow-lg">
-                                    <h4 className="text-xl font-black mb-2 uppercase italic leading-none">The Paper Trail</h4>
+                                    <h5 className="text-xl font-black mb-2 uppercase italic leading-none">The Paper Trail</h5>
                                     <p className="text-sm leading-relaxed font-medium opacity-90">Always keep a copy of the sent email and the 'auto-reply' or acknowledgement number. This is your 'Ticket to Justice' in the later stages.</p>
                                 </div>
                             </div>
                         </section>
 
                         <section id="rbi-ombudsman-cms-portal" className="scroll-mt-32 mb-20 p-12 bg-white border-4 border-gray-100 rounded-[48px] shadow-inner relative mt-20">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 border-l-8 border-[#1F5EFF] pl-6 uppercase tracking-tighter italic">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 border-l-8 border-[#1F5EFF] pl-6 uppercase tracking-tighter italic">
                                 The CMS Portal: Your Direct Line to RBI
-                            </h2>
+                            </h3>
                             <p className="mb-8 leading-relaxed">
                                 The <strong>RBI Complaint Management System (CMS)</strong> is a digital platform where you can lodge complaints against any regulated entity. The RBI Ombudsman acts as a referee who ensures the bank doesn't play dirty.
                             </p>
                             <div className="bg-blue-900 p-10 rounded-[40px] text-white shadow-2xl mb-12 relative overflow-hidden">
-                                <h3 className="text-2xl font-black mb-6 uppercase tracking-widest text-[#1F5EFF]">How to File on CMS (Step-by-Step)</h3>
+                                <h4 className="text-2xl font-black mb-6 uppercase tracking-widest text-[#1F5EFF]">How to File on CMS (Step-by-Step)</h4>
                                 <ol className="space-y-6 text-sm font-bold list-decimal pl-6">
                                     <li className="pl-4">Visit <strong>cms.rbi.org.in</strong> and select the 'File a Complaint' option.</li>
                                     <li className="pl-4">Identify the bank/NBFC and ensure you have their initial response (or proof of wait of 30 days).</li>
@@ -293,34 +293,34 @@ export default function RecoveryHarassmentComplaintPage() {
                         </section>
 
                         <section id="policing-the-agents-fir" className="scroll-mt-32 mb-20 mt-20">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 uppercase tracking-widest border-b-8 border-gray-100 pb-4">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 uppercase tracking-widest border-b-8 border-gray-100 pb-4">
                                 When It Becomes Criminal: The Police FIR
-                            </h2>
+                            </h3>
                             <p className="mb-8 leading-relaxed font-medium">
                                 If the harassment involves physical trespass, threats of violence, or stalking, it is no longer a financial matter. It is a police matter.
                             </p>
                             <div className="grid md:grid-cols-2 gap-8 my-12">
                                 <div className="p-10 bg-[#2E2E2E] text-white rounded-[48px] shadow-xl border-t-8 border-red-600">
-                                    <h3 className="text-2xl font-black mb-4 uppercase italic leading-none">Section 503 & 506 IPC</h3>
+                                    <h4 className="text-2xl font-black mb-4 uppercase italic leading-none">Section 503 & 506 IPC</h4>
                                     <p className="text-sm leading-relaxed opacity-90 font-bold uppercase italic border-b border-white/20 pb-4">Criminal Intimidation</p>
                                     <p className="text-xs leading-relaxed opacity-70 mt-4">Applies when agents threaten to ruin your life, family, or property. This is a non-bailable offense in many contexts.</p>
                                 </div>
                                 <div className="p-10 bg-[#2E2E2E] text-white rounded-[48px] shadow-xl border-t-8 border-blue-600">
-                                    <h4 className="text-2xl font-black mb-4 uppercase italic leading-none">Section 441 IPC</h4>
+                                    <h5 className="text-2xl font-black mb-4 uppercase italic leading-none">Section 441 IPC</h5>
                                     <p className="text-sm leading-relaxed opacity-90 font-bold uppercase italic border-b border-white/20 pb-4">Criminal Trespass</p>
                                     <p className="text-xs leading-relaxed opacity-70 mt-4">Applies when agents enter your home or office despite being told to leave or without a valid authorization letter.</p>
                                 </div>
                             </div>
                             <div className="p-8 bg-red-50 rounded-3xl border-2 border-red-100 mt-8 text-center">
-                                <h4 className="text-xl font-black text-red-900 mb-2 uppercase italic leading-none">The 'Zero FIR' Strategy</h4>
+                                <h5 className="text-xl font-black text-red-900 mb-2 uppercase italic leading-none">The 'Zero FIR' Strategy</h5>
                                 <p className="text-sm font-bold text-red-700 leading-relaxed">If you are at work and agents are at your home, you can file a 'Zero FIR' at any police station regardless of jurisdiction. The police are legally bound to register it.</p>
                             </div>
                         </section>
 
                         <section id="consumer-court-deficiency" className="scroll-mt-32 mb-20 mt-20">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 uppercase tracking-widest decoration-[#1F5EFF] underline underline-offset-8">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 uppercase tracking-widest decoration-[#1F5EFF] underline underline-offset-8">
                                 Consumer Forum: Seeking Financial Damages
-                            </h2>
+                            </h3>
                             <p className="mb-8 leading-relaxed font-medium">
                                 The Supreme Court has ruled that bank harassment is a <strong>Deficiency in Service</strong>. You can sue the bank for compensation in the Consumer Forum.
                             </p>
@@ -349,7 +349,7 @@ export default function RecoveryHarassmentComplaintPage() {
                         </section>
 
                         <section id="evidential-requirements" className="scroll-mt-32 mb-20 p-10 bg-blue-50 rounded-[40px] border-2 border-blue-100 relative shadow-sm overflow-hidden mt-12">
-                            <h2 className="text-3xl font-black text-blue-900 mb-6 uppercase tracking-wider italic leading-none">The Bulletproof Evidence Checklist</h2>
+                            <h3 className="text-3xl font-black text-blue-900 mb-6 uppercase tracking-wider italic leading-none">The Bulletproof Evidence Checklist</h3>
                             <p className="text-lg text-blue-800 leading-relaxed font-medium mb-6">
                                 When filing your complaint, attach these to ensure its success:
                             </p>
@@ -363,9 +363,9 @@ export default function RecoveryHarassmentComplaintPage() {
                         </section>
 
                         <section id="legal-notice-to-bank" className="scroll-mt-32 mb-20 mt-20">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 border-l-8 border-[#2E2E2E] pl-6 uppercase tracking-widest italic decoration-[#1F5EFF] underline-offset-8">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 border-l-8 border-[#2E2E2E] pl-6 uppercase tracking-widest italic decoration-[#1F5EFF] underline-offset-8">
                                 Drafting the Legal Notice
-                            </h2>
+                            </h3>
                             <p className="mb-8 leading-relaxed font-medium">
                                 A <strong>Legal Notice</strong> sent through an advocate is often the most effective way to stop agents from visiting your home. It puts the bank on notice that they are being watched.
                             </p>
@@ -373,7 +373,7 @@ export default function RecoveryHarassmentComplaintPage() {
                                 <div className="absolute top-0 right-0 p-8">
                                     <svg className="w-12 h-12 text-[#1F5EFF]/10 group-hover:scale-110 transition-transform" fill="currentColor" viewBox="0 0 24 24"><path d="M14 2H6c-1.1 0-1.99.9-1.99 2L4 20c0 1.1.89 2 1.99 2H18c1.1 0 2-.9 2-2V8l-6-6zm2 16H8v-2h8v2zm0-4H8v-2h8v2zm-3-5V3.5L18.5 9H13z" /></svg>
                                 </div>
-                                <h3 className="text-2xl font-black text-[#2E2E2E] mb-6 uppercase tracking-tighter leading-none italic">Essential Notice Elements</h3>
+                                <h4 className="text-2xl font-black text-[#2E2E2E] mb-6 uppercase tracking-tighter leading-none italic">Essential Notice Elements</h4>
                                 <ul className="space-y-4 text-sm font-bold opacity-80 uppercase tracking-tighter list-disc pl-4">
                                     <li>Cite specific RBI Circular Number: RBI/2022-23/108</li>
                                     <li>Detail the exact dates and times of harassment.</li>
@@ -385,28 +385,28 @@ export default function RecoveryHarassmentComplaintPage() {
                         </section>
 
                         <section id="compensation-and-damages" className="scroll-mt-32 mb-20 p-12 bg-[#1F5EFF] rounded-[64px] text-white shadow-3xl text-center relative overflow-hidden">
-                            <h2 className="text-3xl md:text-5xl font-black mb-6 uppercase tracking-tighter italic leading-none">Seeking Compensation</h2>
+                            <h3 className="text-3xl md:text-5xl font-black mb-6 uppercase tracking-tighter italic leading-none">Seeking Compensation</h3>
                             <p className="text-xl leading-relaxed opacity-90 font-medium mb-10 max-w-3xl mx-auto">
                                 You are entitled to more than just an apology. Under the Consumer Protection Act and RBI ombudsman scheme, you can claim:
                             </p>
                             <div className="grid md:grid-cols-3 gap-8 text-white/90">
                                 <div className="p-6 border border-white/20 rounded-[32px] bg-white/5 hover:bg-white/10 transition-colors">
-                                    <h3 className="text-sm font-black uppercase mb-2 tracking-widest text-[#DEDEDE]">Mental Agony</h3>
+                                    <h4 className="text-sm font-black uppercase mb-2 tracking-widest text-[#DEDEDE]">Mental Agony</h4>
                                     <p className="text-[10px] font-bold uppercase leading-relaxed">For the stress and trauma caused by agents.</p>
                                 </div>
                                 <div className="p-6 border border-white/20 rounded-[32px] bg-white/5 hover:bg-white/10 transition-colors">
-                                    <h4 className="text-sm font-black uppercase mb-2 tracking-widest text-[#DEDEDE]">Loss of Reputation</h4>
+                                    <h5 className="text-sm font-black uppercase mb-2 tracking-widest text-[#DEDEDE]">Loss of Reputation</h5>
                                     <p className="text-[10px] font-bold uppercase leading-relaxed">If agents shamed you in front of neighbors or colleagues.</p>
                                 </div>
                                 <div className="p-6 border border-white/20 rounded-[32px] bg-white/5 hover:bg-white/10 transition-colors">
-                                    <h4 className="text-sm font-black uppercase mb-2 tracking-widest text-[#DEDEDE]">Legal Costs</h4>
+                                    <h5 className="text-sm font-black uppercase mb-2 tracking-widest text-[#DEDEDE]">Legal Costs</h5>
                                     <p className="text-[10px] font-bold uppercase leading-relaxed">Recovering the expenses of filing complaints and notices.</p>
                                 </div>
                             </div>
                         </section>
 
                         <section id="success-stories" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 text-center uppercase">Real Stories of Redressal Victory</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 text-center uppercase">Real Stories of Redressal Victory</h3>
                             <div className="grid md:grid-cols-2 gap-6 not-prose">
                                 {[
                                     {
@@ -430,7 +430,7 @@ export default function RecoveryHarassmentComplaintPage() {
                                                 {review.name.charAt(0)}
                                             </div>
                                             <div>
-                                                <h3 className="font-bold text-[#2E2E2E]">{review.name}</h3>
+                                                <h4 className="font-bold text-[#2E2E2E]">{review.name}</h4>
                                                 <p className="text-xs text-gray-400">{review.loc}</p>
                                             </div>
                                             <div className="ml-auto text-yellow-400 text-sm">★★★★★</div>
@@ -445,7 +445,7 @@ export default function RecoveryHarassmentComplaintPage() {
                         </section>
 
                         <section id="comprehensive-faqs" className="scroll-mt-32 mb-12 mt-20">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 uppercase tracking-widest decoration-[#1F5EFF] underline underline-offset-8 leading-none">Harassment Complaint FAQs</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 uppercase tracking-widest decoration-[#1F5EFF] underline underline-offset-8 leading-none">Harassment Complaint FAQs</h3>
                             <div className="space-y-4 not-prose">
                                 {(jsonLd["@graph"] as any)[4]?.mainEntity?.map((faq: any, i: number) => (
                                     <details key={i} className="group bg-white border border-[#DEDEDE] rounded-xl overflow-hidden hover:shadow-md transition-all border-b-4 border-b-[#1F5EFF]/20">
@@ -473,7 +473,7 @@ export default function RecoveryHarassmentComplaintPage() {
                         <div className="lg:hidden mt-16 mb-8">
                             <div className="bg-[#2E2E2E] rounded-2xl shadow-xl overflow-hidden border border-[#1F5EFF]/20">
                                 <div className="bg-[#1F5EFF] p-6 text-center text-white">
-                                    <h3 className="text-2xl font-black mb-2 uppercase tracking-tighter leading-none">End the Abuse</h3>
+                                    <h4 className="text-2xl font-black mb-2 uppercase tracking-tighter leading-none">End the Abuse</h4>
                                     <p className="opacity-90 text-sm font-bold uppercase tracking-wider italic">Don't wait for the next call. Let our experts help you draft your complaint bundle today.</p>
                                 </div>
                                 <div className="p-8 text-center text-[#DEDEDE]">

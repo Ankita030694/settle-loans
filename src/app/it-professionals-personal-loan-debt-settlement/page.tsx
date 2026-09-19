@@ -600,9 +600,9 @@ export default function ITProfessionalsLoanSettlementPage() {
                 <CreditCard className="w-4 h-4" />
                 <span>2. Financial Engineering &amp; Delinquency Breakdown</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 Anatomy of Tech Debt: RSUs, Variable Pay Claws, and Lifestyle Over-Leveraging
-              </h2>
+              </h3>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 The financial anatomy of debt distress among technology professionals differs fundamentally from traditional retail defaults. In the tech sector, borrowing capacity is routinely calibrated by bank underwriting algorithms against gross CTC (Cost-to-Company) rather than stable, liquid net cash flow. A typical CTC package of ₹45 Lakhs may comprise only ₹24 Lakhs in fixed base salary, with the remainder distributed across performance incentives, employer PF contributions, and unvested stock grants.
               </p>
@@ -673,9 +673,9 @@ export default function ITProfessionalsLoanSettlementPage() {
                 <Lock className="w-4 h-4" />
                 <span>3. Statutory Protections &amp; Corporate Privacy</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 Legal Protections: Civil Law, RBI Master Directions &amp; Zero Workplace Exposure
-              </h2>
+              </h3>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 For IT professionals, the single greatest apprehension during a debt default is workplace exposure. In an industry governed by strict reputation metrics, non-disclosure agreements, and client confidentiality protocols, the prospect of recovery agents calling company switchboards, contacting HR managers, or physically visiting corporate tech campuses creates immense psychological paralysis.
               </p>
@@ -707,9 +707,9 @@ export default function ITProfessionalsLoanSettlementPage() {
                 <Calculator className="w-4 h-4" />
                 <span>4. Institutional Accounting &amp; Valuation Economics</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 Bank Balance Sheet Economics &amp; The Net Present Value (NPV) Recovery Formula
-              </h2>
+              </h3>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 A common misconception among software engineers is that loan settlement relies on bank mercy or arbitrary sympathy. In reality, loan compromise settlements operate strictly on mathematical, regulatory, and institutional accounting principles mandated by the Reserve Bank of India and Indian Accounting Standard 109 (Ind AS 109).
               </p>
@@ -751,9 +751,9 @@ export default function ITProfessionalsLoanSettlementPage() {
                 <Layers className="w-4 h-4" />
                 <span>5. Visual Resolution Architecture</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 Infographic: Personal Loan &amp; Credit Card Debt Settlement Framework for IT Professionals
-              </h2>
+              </h3>
               <p className="text-slate-700 leading-relaxed mb-6 text-base md:text-lg">
                 The visual blueprint below outlines the complete institutional debt resolution journey for tech workers—from early layoff triage and confidential advocate shield activation to bank zonal committee negotiations, stamped OTS letter issuance, and credit score rehabilitation.
               </p>
@@ -778,9 +778,9 @@ export default function ITProfessionalsLoanSettlementPage() {
                 <Gavel className="w-4 h-4" />
                 <span>6. Judicial Protections &amp; Notice Defense</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 Halting NACH Bounce Sweeps, Section 25 PSSA Notices &amp; Local Court Jurisdictions
-              </h2>
+              </h3>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 When an IT professional misses an EMI, lenders frequently present electronic National Automated Clearing House (e-NACH) mandates multiple times across the billing cycle. Each dishonoured presentation triggers an automated return fee of ₹500 to ₹1,000 debited by the borrower&apos;s home bank, accompanied by identical bounce penalties from the lending institution. Over 3 to 6 months, these automated sweeps can siphon ₹30,000 to ₹80,000 in purely predatory fees from remaining cash reserves.
               </p>
@@ -812,9 +812,9 @@ export default function ITProfessionalsLoanSettlementPage() {
                 <FileText className="w-4 h-4" />
                 <span>7. Strategic Resolution Workflow</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 The 100% Digital Advocate Negotiation Roadmap: From Hardship Dossier to 45%–65% OTS
-              </h2>
+              </h3>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Navigating loan settlement with tier-1 private banks (such as HDFC Bank, ICICI Bank, Axis Bank, Kotak Mahindra Bank) and major NBFCs (such as Bajaj Finance, Aditya Birla Capital, Tata Capital) requires a structured, multi-stage legal methodology. Software professionals must never negotiate directly with third-party tele-callers or collection agency agents, as external tele-callers have zero delegated authority to sanction binding debt discounts.
               </p>
@@ -824,50 +824,50 @@ export default function ITProfessionalsLoanSettlementPage() {
 
               <div className="space-y-4 my-6">
                 <div className="p-5 rounded-xl border border-slate-200 bg-slate-50">
-                  <h3 className="font-bold text-slate-900 text-base mb-1.5 flex items-center gap-2">
+                  <h4 className="font-bold text-slate-900 text-base mb-1.5 flex items-center gap-2">
                     <span className="w-6 h-6 rounded-full bg-[#1F5EFF] text-white text-xs font-black flex items-center justify-center">1</span>
                     Comprehensive Ledger Forensic Audit
-                  </h3>
+                  </h4>
                   <p className="text-sm text-slate-600 leading-relaxed">
                     Our banking specialists analyze your complete loan account statement, dissecting principal disbursed, total EMIs paid, unamortized interest, and illegitimate penalty charges. We establish the authentic core principal liability and compute target haircut thresholds.
                   </p>
                 </div>
 
                 <div className="p-5 rounded-xl border border-slate-200 bg-slate-50">
-                  <h4 className="font-bold text-slate-900 text-base mb-1.5 flex items-center gap-2">
+                  <h5 className="font-bold text-slate-900 text-base mb-1.5 flex items-center gap-2">
                     <span className="w-6 h-6 rounded-full bg-[#1F5EFF] text-white text-xs font-black flex items-center justify-center">2</span>
                     Digital Representation &amp; Legal Shield Activation
-                  </h4>
+                  </h5>
                   <p className="text-sm text-slate-600 leading-relaxed">
                     Execution of digital Vakalatnama and Power of Attorney authorizing SettleLoans advocates to represent your case. We immediately serve statutory cease-and-desist notices to bank nodal desks, eliminating third-party calling and shielding your workplace and references.
                   </p>
                 </div>
 
                 <div className="p-5 rounded-xl border border-slate-200 bg-slate-50">
-                  <h4 className="font-bold text-slate-900 text-base mb-1.5 flex items-center gap-2">
+                  <h5 className="font-bold text-slate-900 text-base mb-1.5 flex items-center gap-2">
                     <span className="w-6 h-6 rounded-full bg-[#1F5EFF] text-white text-xs font-black flex items-center justify-center">3</span>
                     Preparation of Institutional Hardship Dossier
-                  </h4>
+                  </h5>
                   <p className="text-sm text-slate-600 leading-relaxed">
                     Compilation of an unassailable documentary dossier substantiating genuine financial incapacity: corporate termination letters, severance release agreements, salary reduction slips, medical expenditure records, and bank statements establishing zero alternative liquidity.
                   </p>
                 </div>
 
                 <div className="p-5 rounded-xl border border-slate-200 bg-slate-50">
-                  <h4 className="font-bold text-slate-900 text-base mb-1.5 flex items-center gap-2">
+                  <h5 className="font-bold text-slate-900 text-base mb-1.5 flex items-center gap-2">
                     <span className="w-6 h-6 rounded-full bg-[#1F5EFF] text-white text-xs font-black flex items-center justify-center">4</span>
                     Zonal Stressed Assets Committee Negotiation
-                  </h4>
+                  </h5>
                   <p className="text-sm text-slate-600 leading-relaxed">
                     Advocate-to-advocate negotiations conducted directly with bank Zonal Stress Asset Managers and Credit Approval Committees. By leveraging Ind AS 109 provisioning dynamics and NPV recovery calculations, we negotiate authorized debt waivers ranging between 45% and 65%.
                   </p>
                 </div>
 
                 <div className="p-5 rounded-xl border border-slate-200 bg-slate-50">
-                  <h4 className="font-bold text-slate-900 text-base mb-1.5 flex items-center gap-2">
+                  <h5 className="font-bold text-slate-900 text-base mb-1.5 flex items-center gap-2">
                     <span className="w-6 h-6 rounded-full bg-[#1F5EFF] text-white text-xs font-black flex items-center justify-center">5</span>
                     Forensic Sanction Verification &amp; Direct Bank Settlement
-                  </h4>
+                  </h5>
                   <p className="text-sm text-slate-600 leading-relaxed">
                     Strict legal verification of the official OTS Sanction Letter issued on bank letterhead with digital signatures and unique settlement reference numbers. The borrower deposits the agreed settlement sum directly into the bank&apos;s loan account via RTGS/NEFT.
                   </p>
@@ -881,9 +881,9 @@ export default function ITProfessionalsLoanSettlementPage() {
                 <FileCheck className="w-4 h-4" />
                 <span>8. Documentation &amp; Statutory Compliance</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 Forensic Sanction Letter Audit &amp; RBI ₹5,000/Day Delay Penalty on No Dues Certificates
-              </h2>
+              </h3>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 In the debt resolution industry, thousands of distressed borrowers fall prey to unauthorized recovery agent scams—paying funds into personal accounts or relying on fraudulent WhatsApp messages and forged emails. An informal settlement carries zero legal standing; banks can legally re-assign the remaining balance to another collection agency or proceed with court litigation.
               </p>
@@ -912,9 +912,9 @@ export default function ITProfessionalsLoanSettlementPage() {
                 <TrendingUp className="w-4 h-4" />
                 <span>9. Credit Score Trajectory &amp; Employment Protection</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 CIBIL Score Trajectory, Background Verification (BGV) Protection &amp; Credit Rebuilding
-              </h2>
+              </h3>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Software professionals frequently express deep concern regarding how a loan settlement affects credit bureau reports (TransUnion CIBIL, Experian, Equifax, CRIF High Mark) and whether it will jeopardize future employment opportunities during Background Verification (BGV) screenings conducted by tech firms, MNCs, or global consulting enterprises.
               </p>
@@ -961,9 +961,9 @@ export default function ITProfessionalsLoanSettlementPage() {
                 <Scale className="w-4 h-4" />
                 <span>10. Comparative Strategy Matrix</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 Comparative Debt Resolution Pathways for Distressed IT Professionals
-              </h2>
+              </h3>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 When faced with overwhelming unsecured debt following job loss or compensation cuts, IT professionals must carefully evaluate all available resolution pathways to protect their capital, career, and mental well-being.
               </p>
@@ -1028,9 +1028,9 @@ export default function ITProfessionalsLoanSettlementPage() {
                 <HelpCircle className="w-4 h-4" />
                 <span>11. Frequently Asked Questions</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
                 Frequently Asked Questions: IT Professionals Loan Settlement
-              </h2>
+              </h3>
 
               <div className="space-y-4">
                 {faqs.map((faq, index) => (
@@ -1056,10 +1056,10 @@ export default function ITProfessionalsLoanSettlementPage() {
 
             {/* Regulatory References & Official Sources Strip (5 Official Links) */}
             <div className="bg-slate-50 border border-slate-200 rounded-2xl p-6 my-10">
-              <h3 className="text-base font-bold text-slate-900 mb-4 flex items-center gap-2">
+              <h4 className="text-base font-bold text-slate-900 mb-4 flex items-center gap-2">
                 <Landmark className="w-5 h-5 text-[#1F5EFF]" />
                 Official Regulatory References &amp; Statutory Circulars
-              </h3>
+              </h4>
               <ul className="space-y-3 text-xs text-slate-600">
                 <li className="flex items-start gap-2">
                   <ExternalLink className="w-4 h-4 text-[#1F5EFF] flex-shrink-0 mt-0.5" />
@@ -1121,10 +1121,10 @@ export default function ITProfessionalsLoanSettlementPage() {
 
             {/* Related Guides & Resources Strip (10 Topic Badges) */}
             <div className="bg-slate-50 border border-slate-200 rounded-2xl p-6 my-10">
-              <h3 className="text-base font-bold text-slate-900 mb-4 flex items-center gap-2">
+              <h4 className="text-base font-bold text-slate-900 mb-4 flex items-center gap-2">
                 <BookOpen className="w-5 h-5 text-[#1F5EFF]" />
                 Explore Related Banking &amp; Debt Resolution Guides
-              </h3>
+              </h4>
               <div className="flex flex-wrap gap-2.5">
                 <Link
                   href="/bank-one-time-settlement-ots-policy"

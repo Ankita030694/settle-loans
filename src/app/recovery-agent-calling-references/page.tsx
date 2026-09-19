@@ -275,9 +275,9 @@ export default function RecoveryAgentCallingReferencesPage() {
             </section>
 
             <section id="rbi-strict-rules" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
                 RBI Guidelines: The Shield of the Borrower
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 The Reserve Bank of India, as the supreme regulatory authority for banks and NBFCs, has established a comprehensive framework known as the Fair Practice Code. This code is not a suggestion; it is a mandatory set of rules that every financial institution in India must follow. In recent years, specifically in the August 2022 and February 2026 circulars, the RBI has doubled down on its stance against aggressive and illegal recovery practices.
               </p>
@@ -288,7 +288,7 @@ export default function RecoveryAgentCallingReferencesPage() {
                 Furthermore, the RBI has explicitly stated that banks and NBFCs are legally responsible for the behavior of the third-party recovery agencies they hire. A bank cannot hide behind the excuse that "it was the agency’s fault." If an agent calls a reference, the bank itself is liable for a penalty. This hierarchical responsibility is what gives you the power to fight back through the Banking Ombudsman.
               </p>
               <div className="bg-gray-50 p-8 rounded-xl border border-gray-200 mb-8">
-                <h3 className="text-xl font-bold mb-6">Critical RBI Clause: Prohibition on Third-Party Contact</h3>
+                <h4 className="text-xl font-bold mb-6">Critical RBI Clause: Prohibition on Third-Party Contact</h4>
                 <p className="mb-4 text-sm text-gray-600 leading-relaxed">
                   "Lenders and their agents shall not resort to intimidation or harassment of any kind, either verbal or physical, against any person in their debt collection efforts, including acts intended to humiliate publicly or intrude upon the privacy of the debtors' family members, referees and friends, making threatening or anonymous calls or inappropriately communicating with the target of their collection efforts."
                 </p>
@@ -322,9 +322,9 @@ export default function RecoveryAgentCallingReferencesPage() {
             </section>
 
             <section id="contacting-references" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
                 Why Contacting References Is Absolutely Illegal
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 When you apply for a loan, you might provide two or three names as "References." In the eyes of the law, these references are provided so the bank can verify your background or contact you in an emergency if you are truly unreachable. However, "unreachable" does not mean "ignoring a call today." It means a genuine situation where you have disappeared.
               </p>
@@ -335,7 +335,7 @@ export default function RecoveryAgentCallingReferencesPage() {
                 Agents often lie to references, saying things like, "Since you are a reference, you are responsible for the loan." This is a complete falsehood. A reference is not a guarantor. A guarantor signs a legal document and is legally bound to the debt; a reference merely provides a phone number. If an agent makes such a claim, they are committing a crime of misrepresentation and fraud.
               </p>
               <div className="bg-blue-50 p-8 rounded-xl border border-blue-200 mb-8">
-                <h3 className="text-xl font-bold mb-4 text-blue-900">The Illegal Scenarios to Watch For</h3>
+                <h4 className="text-xl font-bold mb-4 text-blue-900">The Illegal Scenarios to Watch For</h4>
                 <p className="text-sm text-blue-800 leading-relaxed mb-4">
                   1. The agent calls your friend and asks them to "tell your friend to pay the money or we will file a police case."
                 </p>
@@ -352,9 +352,9 @@ export default function RecoveryAgentCallingReferencesPage() {
             </section>
 
             <section id="employer-harassment" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
                 Harassment at the Workplace: A Threat to Your Livelihood
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 Perhaps the most malicious tactic used by recovery agents is calling a borrower’s employer or workplace. This is done with the specific intent of putting your job at risk. By calling your office phone line or your HR department, the agent is attempting to damage your professional standing. This is not just a breach of RBI rules; it is an act of criminal defamation.
               </p>
@@ -367,19 +367,19 @@ export default function RecoveryAgentCallingReferencesPage() {
             </section>
 
             <section id="defamation-laws" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Defamation and Shaming: The Legal Recourse</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Defamation and Shaming: The Legal Recourse</h3>
               <p className="mb-6">
                 In India, defamation (man-hani) is both a civil and a criminal offense. When a recovery agent calls your social references and speaks ill of your character, they are committing defamation. They are intentionally spreading false or private information to lower your reputation in the eyes of society.
               </p>
               <div className="grid md:grid-cols-2 gap-6 mb-8">
                 <div className="bg-orange-50/50 p-6 rounded-xl border border-orange-100">
-                  <h3 className="text-xl font-bold text-orange-800 mb-3">Civil Defamation</h3>
+                  <h4 className="text-xl font-bold text-orange-800 mb-3">Civil Defamation</h4>
                   <p className="text-sm text-orange-900/80 leading-relaxed">
                     You can file a lawsuit in a civil court demanding compensation for the damage done to your reputation. The amount of compensation depends on the severity of the shaming and the impact on your social or professional life.
                   </p>
                 </div>
                 <div className="bg-blue-50/50 p-6 rounded-xl border border-blue-100">
-                  <h3 className="text-xl font-bold text-blue-800 mb-3">Criminal Defamation (IPC)</h3>
+                  <h4 className="text-xl font-bold text-blue-800 mb-3">Criminal Defamation (IPC)</h4>
                   <p className="text-sm text-blue-900/80 leading-relaxed">
                     Under sections 499 and 500 of the Indian Penal Code, an individual can be sentenced to up to two years in prison for defamation. Filing a criminal complaint against an agent is often the fastest way to make the bank take notice.
                   </p>
@@ -391,7 +391,7 @@ export default function RecoveryAgentCallingReferencesPage() {
             </section>
 
             <section id="evidence-collection" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">How to Collect Evidence of Reference Calling</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">How to Collect Evidence of Reference Calling</h3>
               <p className="mb-6">
                 In the world of law, an accusation without proof is just a story. To take effective action against a bank, you must have solid evidence. This is where your references become your greatest allies. Ask them to help you by documenting every call they receive.
               </p>
@@ -424,7 +424,7 @@ export default function RecoveryAgentCallingReferencesPage() {
             </section>
 
             <section id="grievance-steps" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">The 4-Step Process to Stop the Harassment</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">The 4-Step Process to Stop the Harassment</h3>
               <p className="mb-6">
                 If your references are being called, you cannot wait for the bank to "feel sorry" for you. You must take a systematic approach to escalate the issue. Here is the path that works:
               </p>
@@ -432,19 +432,19 @@ export default function RecoveryAgentCallingReferencesPage() {
                 <div className="bg-[#1F5EFF] p-6 text-white font-bold text-xl">Escalation Matrix for Borrowers</div>
                 <div className="p-8 space-y-6">
                   <div>
-                    <h3 className="font-bold text-lg mb-2">Step 1: The Nodal Officer (Internal)</h3>
+                    <h4 className="font-bold text-lg mb-2">Step 1: The Nodal Officer (Internal)</h4>
                     <p className="text-gray-600">Send an email to the Principal Nodal Officer of the bank. Attach the evidence collected from your references. Explicitly state that you are filing this complaint under the RBI Fair Practice Code. The bank has 30 days to resolve this.</p>
                   </div>
                   <div>
-                    <h4 className="font-bold text-lg mb-2">Step 2: The RBI Ombudsman (External)</h4>
+                    <h5 className="font-bold text-lg mb-2">Step 2: The RBI Ombudsman (External)</h5>
                     <p className="text-gray-600">If the bank doesn't reply or gives a vague answer after 30 days, go to the RBI CMS portal (cms.rbi.org.in). File a complaint against the bank for a violation of the Fair Practice Code regarding third-party harassment.</p>
                   </div>
                   <div>
-                    <h4 className="font-bold text-lg mb-2">Step 3: Police Complaint (Legal)</h4>
+                    <h5 className="font-bold text-lg mb-2">Step 3: Police Complaint (Legal)</h5>
                     <p className="text-gray-600">If there is any threat of violence or severe defamation, visit your local police station. Even a simple "Police Information Report" can be sent to the bank as a warning. It shows you are serious about protecting your rights.</p>
                   </div>
                   <div>
-                    <h4 className="font-bold text-lg mb-2">Step 4: Professional Shield (Strategic)</h4>
+                    <h5 className="font-bold text-lg mb-2">Step 4: Professional Shield (Strategic)</h5>
                     <p className="text-gray-600 font-bold">Contact SettleLoans. We will review your case and can appoint a dedicated person to handle future calls on your behalf, redirecting the agents to our legal desk and out of your personal life.</p>
                   </div>
                 </div>
@@ -452,7 +452,7 @@ export default function RecoveryAgentCallingReferencesPage() {
             </section>
 
             <section id="legal-notices" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">The Power of a Formal Legal Notice</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">The Power of a Formal Legal Notice</h3>
               <p className="mb-6">
                 A common recovery tactic is to send you "fake" legal notices designed to look like they come from a court. However, a "real" legal notice sent by a reputable law firm on your behalf is a different matter entirely. When SettleLoans drafts a legal notice to a bank, it contains precise references to the RBI circulars and the sections of the IPC that are being violated.
               </p>
@@ -465,12 +465,12 @@ export default function RecoveryAgentCallingReferencesPage() {
             </section>
 
             <section id="psychological-impact" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Protecting Your Mental Health and Relationships</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Protecting Your Mental Health and Relationships</h3>
               <p className="mb-6 text-lg">
                 The hardest part of having your references called is the strain it puts on your relationships. You might feel like you can no longer look your friends in the eye. This isolation is what debt collection thrives on. But we have a different perspective.
               </p>
               <div className="bg-emerald-50 p-8 rounded-2xl border border-emerald-100 mb-8">
-                <h3 className="text-xl font-bold text-emerald-800 mb-4">Healing the Social Fracture</h3>
+                <h4 className="text-xl font-bold text-emerald-800 mb-4">Healing the Social Fracture</h4>
                 <p className="mb-4 text-emerald-900/80">
                   The people you listed as references are likely people who care about you. If they receive a call, tell them the truth. Say: "I am facing some financial difficulties, and the bank is illegally harrassing you to get to me. I am already taking legal steps to stop this. Please do not worry, and please block their numbers."
                 </p>
@@ -481,12 +481,12 @@ export default function RecoveryAgentCallingReferencesPage() {
             </section>
 
             <section id="settleloans-shield" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">How SettleLoans Acts as Your Shield</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">How SettleLoans Acts as Your Shield</h3>
               <p className="mb-6">
                 At SettleLoans, we provide a holistic approach to debt management. We don't just negotiate numbers; we protect people. Our "Shield" service is designed specifically to stop illegal recovery practices. When you join our program, we provide you with the tools and the legal backing to tell every recovery agent: "Talk to my authorized consultants."
               </p>
               <div className="bg-[#2E2E2E] text-white p-8 rounded-2xl mb-8">
-                <h3 className="text-2xl font-bold mb-4">Our Protection Protocol</h3>
+                <h4 className="text-2xl font-bold mb-4">Our Protection Protocol</h4>
                 <p className="mb-4 opacity-80">
                   We follow a three-tier protection system for every client:
                 </p>
@@ -508,7 +508,7 @@ export default function RecoveryAgentCallingReferencesPage() {
             </section>
 
             <section id="success-case-studies" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 text-center">Real Stories of Restored Dignity</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 text-center">Real Stories of Restored Dignity</h3>
               <div className="grid md:grid-cols-2 gap-6 not-prose">
                 {[
                   {
@@ -546,7 +546,7 @@ export default function RecoveryAgentCallingReferencesPage() {
                         {review.name.charAt(0)}
                       </div>
                       <div>
-                        <h3 className="font-bold text-[#2E2E2E]">{review.name}</h3>
+                        <h4 className="font-bold text-[#2E2E2E]">{review.name}</h4>
                         <p className="text-xs text-gray-400">{review.loc}</p>
                       </div>
                       <div className="ml-auto text-yellow-400 text-sm">★★★★★</div>
@@ -561,31 +561,31 @@ export default function RecoveryAgentCallingReferencesPage() {
             </section>
 
             <section id="rebuilding-trust" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Beyond the Harassment: Rebuilding Your Financial Life</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Beyond the Harassment: Rebuilding Your Financial Life</h3>
               <p className="mb-6 text-lg">
                 Stopping the calls is the first victory, but the ultimate goal is financial health. Once you are no longer living in fear of the next phone call, you can begin to make rational, long-term decisions.
               </p>
               <div className="grid sm:grid-cols-2 gap-8 my-10">
                 <div>
-                  <h3 className="text-xl font-bold mb-4 text-[#1F5EFF]">1. Settlement Over Silence</h3>
+                  <h4 className="text-xl font-bold mb-4 text-[#1F5EFF]">1. Settlement Over Silence</h4>
                   <p className="text-sm text-gray-600 leading-relaxed">
                     Ignoring debt doesn't make it go away. A legal settlement is an honorable way to close a chapter. It allows you to pay what you can and move on without the threat of future legal action hanging over your head.
                   </p>
                 </div>
                 <div>
-                  <h3 className="text-xl font-bold mb-4 text-[#1F5EFF]">2. CIBIL Rebuilding</h3>
+                  <h4 className="text-xl font-bold mb-4 text-[#1F5EFF]">2. CIBIL Rebuilding</h4>
                   <p className="text-sm text-gray-600 leading-relaxed">
                     A settled loan will impact your score, but a perpetual default is much worse. We guide you on how to slowly rebuild your credit after a settlement, using secured credit cards and timely payments of utilities.
                   </p>
                 </div>
                 <div>
-                  <h3 className="text-xl font-bold mb-4 text-[#1F5EFF]">3. Privacy Restoration</h3>
+                  <h4 className="text-xl font-bold mb-4 text-[#1F5EFF]">3. Privacy Restoration</h4>
                   <p className="text-sm text-gray-600 leading-relaxed">
                     In the future, be extremely careful about the permissions you give to lending apps. Never allow an app to access your contacts or galleries unless it is a reputable major bank. Protect your digital footprint as fiercely as your bank account.
                   </p>
                 </div>
                 <div>
-                  <h3 className="text-xl font-bold mb-4 text-[#1F5EFF]">4. Emergency Planning</h3>
+                  <h4 className="text-xl font-bold mb-4 text-[#1F5EFF]">4. Emergency Planning</h4>
                   <p className="text-sm text-gray-600 leading-relaxed">
                     Most people default because they have no liquidity. We help you build a budget that prioritizes an emergency fund of at least 1,000 rupees a month, providing a tiny buffer that can grow into a real safety net.
                   </p>
@@ -597,7 +597,7 @@ export default function RecoveryAgentCallingReferencesPage() {
             </section>
 
             <section id="faqs" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Frequently Asked Questions</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Frequently Asked Questions</h3>
               <div className="space-y-4 not-prose">
                 {[
                   { q: "Is calling a reference legal if the borrower is not picking up the phone?", a: "Even if the borrower is unreachable, the agent cannot discuss the loan OR the default with the reference. They can only briefly ask for the borrower's location or updated contact info. Discussing the debt itself is a violation of privacy law." },
@@ -634,7 +634,7 @@ export default function RecoveryAgentCallingReferencesPage() {
             <div className="lg:hidden mt-16 mb-8">
               <div className="bg-[#2E2E2E] rounded-2xl shadow-xl overflow-hidden border border-[#1F5EFF]/20">
                 <div className="bg-[#1F5EFF] p-6 text-center text-white">
-                  <h3 className="text-2xl font-black mb-2">Refuse to be Shamed</h3>
+                  <h4 className="text-2xl font-black mb-2">Refuse to be Shamed</h4>
                   <p className="opacity-90 text-sm">Join thousands of Indians who have reclaimed their dignity with SettleLoans.</p>
                 </div>
                 <div className="p-8 text-center text-[#DEDEDE]">
@@ -705,9 +705,9 @@ export default function RecoveryAgentCallingReferencesPage() {
         {/* Bottom CTA Section */}
         <section className="w-full bg-[#1F5EFF] py-16 px-4 md:px-8 lg:px-16 text-center text-white">
           <div className="max-w-4xl mx-auto">
-            <h2 className="text-3xl md:text-5xl font-black mb-8 leading-tight">
+            <h3 className="text-3xl md:text-5xl font-black mb-8 leading-tight">
               Enough is Enough. <br /> Stop the Reference Harassment Today.
-            </h2>
+            </h3>
             <p className="text-lg md:text-xl mb-12 opacity-90 max-w-2xl mx-auto">
               Our legal experts have helped over 10,000 Indians just like you. We will stop the calls, protect your privacy, and settle your debt legally.
             </p>

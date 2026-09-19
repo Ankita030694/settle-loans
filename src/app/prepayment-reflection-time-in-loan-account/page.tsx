@@ -264,22 +264,22 @@ export default function PrepaymentReflectionTimePage() {
             </section>
 
             <section id="typical-reflection-timelines" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 Typical Reflection Timelines
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 Understanding the standard <strong>time taken to reflect loan prepayment</strong> is the first step. If your transaction exceeds these timelines, there is a problem that requires your intervention.
               </p>
 
               <div className="grid md:grid-cols-2 gap-6 my-8">
                 <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
-                  <h3 className="font-black text-[#1F5EFF] text-lg mb-3">Online Transfers (NEFT/RTGS/IMPS)</h3>
+                  <h4 className="font-black text-[#1F5EFF] text-lg mb-3">Online Transfers (NEFT/RTGS/IMPS)</h4>
                   <p className="text-gray-700 leading-relaxed">
                     If you transfer funds electronically directly to your loan account number, the principal should ideally be adjusted within <strong>24 to 48 working hours</strong>. 
                   </p>
                 </div>
                 <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
-                  <h4 className="font-black text-[#1F5EFF] text-lg mb-3">Cheque Payments</h4>
+                  <h5 className="font-black text-[#1F5EFF] text-lg mb-3">Cheque Payments</h5>
                   <p className="text-gray-700 leading-relaxed">
                     If you submit a physical cheque at the branch, the reflection time depends on cheque clearing cycles, usually taking <strong>3 to 5 working days</strong> for the ledger to update.
                   </p>
@@ -288,15 +288,15 @@ export default function PrepaymentReflectionTimePage() {
             </section>
 
             <section id="deliberate-bank-delays" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 Deliberate Bank Delays: The Suspense Account Trick
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 Often, banks receive your funds but intentionally do not apply them to your principal balance. Instead, they park your money in what is known as a "Suspense Account."
               </p>
               
               <div className="bg-red-50 p-6 rounded-xl border border-red-100 mb-8">
-                <h3 className="text-xl font-black text-red-700 mb-3">Why Banks Delay Prepayments</h3>
+                <h4 className="text-xl font-black text-red-700 mb-3">Why Banks Delay Prepayments</h4>
                 <p className="text-red-900 leading-relaxed mb-4">
                   When your money sits in a suspense account, it earns the bank money, while they continue to charge you interest on your original outstanding principal. 
                 </p>
@@ -307,9 +307,9 @@ export default function PrepaymentReflectionTimePage() {
             </section>
 
             <section id="impact-on-cibil-score" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 Impact on CIBIL Score
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 Many borrowers do not realize that a delayed update by the bank directly damages your credit profile, especially if you are nearing the end of your loan tenure.
               </p>
@@ -325,15 +325,15 @@ export default function PrepaymentReflectionTimePage() {
             </section>
 
             <section id="tax-implications" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 Losing Your Tax Benefits
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 For home loans, the end of the financial year (March 31st) is a critical deadline. Prepayment delays during this period can have severe tax consequences.
               </p>
 
               <div className="bg-blue-50 border-l-8 border-[#1F5EFF] p-8 rounded-r-2xl mb-8">
-                <h3 className="text-xl font-black text-[#1F5EFF] mb-4">The Section 80C Danger</h3>
+                <h4 className="text-xl font-black text-[#1F5EFF] mb-4">The Section 80C Danger</h4>
                 <p className="text-blue-900 text-lg leading-relaxed mb-4">
                   Under Section 80C of the Income Tax Act, you can claim deductions up to ₹1.5 Lakhs for home loan principal repayment. 
                 </p>
@@ -351,22 +351,22 @@ export default function PrepaymentReflectionTimePage() {
             </section>
 
             <section id="compound-interest-trap" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 The Compound Interest Trap
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 The math behind loan amortization makes every single day of delay highly profitable for the bank and devastating for your wallet.
               </p>
 
               <div className="grid md:grid-cols-2 gap-6 my-8">
                 <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
-                  <h3 className="font-black text-[#1F5EFF] text-lg mb-3">Daily Rest Calculation</h3>
+                  <h4 className="font-black text-[#1F5EFF] text-lg mb-3">Daily Rest Calculation</h4>
                   <p className="text-gray-700 leading-relaxed">
                     Most modern loans calculate interest on a "daily reducing balance" method. This means interest is calculated on the outstanding principal at the end of each day. 
                   </p>
                 </div>
                 <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
-                  <h4 className="font-black text-[#1F5EFF] text-lg mb-3">The Invisible Drain</h4>
+                  <h5 className="font-black text-[#1F5EFF] text-lg mb-3">The Invisible Drain</h5>
                   <p className="text-gray-700 leading-relaxed">
                     If you pay ₹5 Lakhs, and the bank delays the ledger update by 30 days, they continue charging daily interest on that ₹5 Lakhs for an entire month, pocketing thousands of rupees in phantom interest.
                   </p>
@@ -375,9 +375,9 @@ export default function PrepaymentReflectionTimePage() {
             </section>
 
             <section id="steps-to-force-update" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 Steps to Force Ledger Update
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 If your part payment is not reflecting, you must take proactive steps to establish a paper trail. Verbal complaints to customer care are generally ineffective.
               </p>
@@ -386,7 +386,7 @@ export default function PrepaymentReflectionTimePage() {
                 <div className="flex gap-6">
                   <div className="flex-shrink-0 w-12 h-12 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center font-black text-xl shadow-lg">1</div>
                   <div>
-                    <h3 className="text-2xl font-bold text-[#2E2E2E] mb-2">Send an Immediate Email</h3>
+                    <h4 className="text-2xl font-bold text-[#2E2E2E] mb-2">Send an Immediate Email</h4>
                     <p className="text-lg text-gray-700 leading-relaxed">
                       The moment you make the transfer, email your bank's customer support and branch manager. Include the UTR number, date, amount, and explicitly state: "Please adjust this amount against the principal outstanding of loan account number [XXX] with immediate effect."
                     </p>
@@ -396,7 +396,7 @@ export default function PrepaymentReflectionTimePage() {
                 <div className="flex gap-6">
                   <div className="flex-shrink-0 w-12 h-12 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center font-black text-xl shadow-lg">2</div>
                   <div>
-                    <h3 className="text-2xl font-bold text-[#2E2E2E] mb-2">Escalate to the Nodal Officer</h3>
+                    <h4 className="text-2xl font-bold text-[#2E2E2E] mb-2">Escalate to the Nodal Officer</h4>
                     <p className="text-lg text-gray-700 leading-relaxed">
                       If the ledger is not updated within 7 days, forward your initial email to the bank's Grievance Redressal Officer (Nodal Officer). State that the bank is committing a deficiency of service by wrongfully charging interest.
                     </p>
@@ -406,7 +406,7 @@ export default function PrepaymentReflectionTimePage() {
                 <div className="flex gap-6">
                   <div className="flex-shrink-0 w-12 h-12 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center font-black text-xl shadow-lg">3</div>
                   <div>
-                    <h3 className="text-2xl font-bold text-[#2E2E2E] mb-2">Send a Legal Notice</h3>
+                    <h4 className="text-2xl font-bold text-[#2E2E2E] mb-2">Send a Legal Notice</h4>
                     <p className="text-lg text-gray-700 leading-relaxed">
                       If the bank ignores the Nodal Officer complaint, having an advocate send a formal legal demand notice usually forces the bank's legal team to correct the 'system error' immediately.
                     </p>
@@ -416,15 +416,15 @@ export default function PrepaymentReflectionTimePage() {
             </section>
             
             <section id="the-banking-ombudsman-route" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 The Banking Ombudsman Route
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 If the bank fails to resolve your complaint within 30 days, or if they reject your complaint, your next most powerful weapon is the RBI.
               </p>
 
               <div className="bg-blue-50 border-l-8 border-[#1F5EFF] p-8 rounded-r-2xl mb-8">
-                <h3 className="text-xl font-black text-[#1F5EFF] mb-4">Filing an Ombudsman Complaint</h3>
+                <h4 className="text-xl font-black text-[#1F5EFF] mb-4">Filing an Ombudsman Complaint</h4>
                 <p className="text-blue-900 text-lg leading-relaxed mb-4">
                   A <strong>banking ombudsman prepayment delay</strong> complaint is highly effective. You can file it online via the RBI CMS portal.
                 </p>
@@ -446,15 +446,15 @@ export default function PrepaymentReflectionTimePage() {
             </section>
 
             <section id="cheating-and-fraud" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 Can This Be Considered Fraud?
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 Borrowers frequently ask if holding a prepayment in suspense while charging interest constitutes a criminal offense by the bank. 
               </p>
 
               <div className="bg-red-50 p-6 rounded-xl border border-red-100 mb-8">
-                <h3 className="text-xl font-black text-red-700 mb-3">Criminal Breach of Trust</h3>
+                <h4 className="text-xl font-black text-red-700 mb-3">Criminal Breach of Trust</h4>
                 <p className="text-red-900 leading-relaxed">
                   While usually treated as a civil dispute or "deficiency in service", if a bank completely refuses to adjust the amount, denies receiving it despite clearing proof, and continues to harass you for EMIs on the unreduced principal, it steps into the territory of Criminal Breach of Trust (Section 405 IPC) and Cheating (Section 415 IPC). An advocate can advise if an FIR is warranted in extreme cases.
                 </p>
@@ -462,9 +462,9 @@ export default function PrepaymentReflectionTimePage() {
             </section>
 
             <section id="compensation-for-interest-loss" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 Compensation for Interest Loss
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 The most important aspect of a delayed ledger update is the financial loss you suffer. 
               </p>
@@ -477,9 +477,9 @@ export default function PrepaymentReflectionTimePage() {
             </section>
 
             <section id="success-stories" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 Client Success Stories
-              </h2>
+              </h3>
               <div className="grid md:grid-cols-2 gap-6 my-8">
                 <div className="bg-white p-8 rounded-[30px] border border-[#DEDEDE] shadow-sm hover:shadow-xl group transition-all">
                   <div className="flex items-center gap-4 mb-6">
@@ -487,7 +487,7 @@ export default function PrepaymentReflectionTimePage() {
                       VS
                     </div>
                     <div>
-                      <h3 className="font-bold text-gray-900">Vikram S.</h3>
+                      <h4 className="font-bold text-gray-900">Vikram S.</h4>
                       <div className="flex text-yellow-400">
                         <svg className="w-4 h-4 fill-current" viewBox="0 0 20 20"><path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z"/></svg>
                         <svg className="w-4 h-4 fill-current" viewBox="0 0 20 20"><path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z"/></svg>
@@ -512,7 +512,7 @@ export default function PrepaymentReflectionTimePage() {
                       AM
                     </div>
                     <div>
-                      <h4 className="font-bold text-gray-900">Anjali M.</h4>
+                      <h5 className="font-bold text-gray-900">Anjali M.</h5>
                       <div className="flex text-yellow-400">
                         <svg className="w-4 h-4 fill-current" viewBox="0 0 20 20"><path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z"/></svg>
                         <svg className="w-4 h-4 fill-current" viewBox="0 0 20 20"><path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z"/></svg>
@@ -534,13 +534,13 @@ export default function PrepaymentReflectionTimePage() {
             </section>
 
             <section id="faqs" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 Frequently Asked Questions
-              </h2>
+              </h3>
               <div className="space-y-4">
                 {jsonLd["@graph"].find(item => item["@type"] === "FAQPage")?.mainEntity?.map((faq: any, index: number) => (
                   <div key={index} className="bg-white border border-[#DEDEDE] rounded-xl p-6 hover:shadow-md transition-shadow">
-                    <h3 className="text-xl font-bold text-[#2E2E2E] mb-3">{faq.name}</h3>
+                    <h4 className="text-xl font-bold text-[#2E2E2E] mb-3">{faq.name}</h4>
                     <p className="text-gray-700 leading-relaxed">{faq.acceptedAnswer.text}</p>
                   </div>
                 ))}
@@ -549,7 +549,7 @@ export default function PrepaymentReflectionTimePage() {
 
             <div className="bg-[#2E2E2E] text-white p-12 rounded-[40px] text-center mt-24 relative overflow-hidden group">
               <div className="absolute inset-0 bg-[#1F5EFF] opacity-0 group-hover:opacity-5 transition-opacity"></div>
-              <h3 className="text-3xl font-black mb-6 relative z-10">Stop Paying Unnecessary Interest</h3>
+              <h4 className="text-3xl font-black mb-6 relative z-10">Stop Paying Unnecessary Interest</h4>
               <p className="text-xl opacity-90 mb-8 relative z-10 max-w-2xl mx-auto">
                 Made a massive part-payment but your principal hasn't reduced? Do not let the bank profit from a 'system error'. Force them to update your ledger immediately.
               </p>

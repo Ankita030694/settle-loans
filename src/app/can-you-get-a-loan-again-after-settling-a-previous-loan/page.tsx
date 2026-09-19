@@ -261,7 +261,7 @@ export default function LoanAgainAfterSettlementPage() {
                                 Yes, your CIBIL score will take a hit. Yes, the 'Settled' tag will appear on your report. But the financial system is built on data, not grudges. If you spend the next few years proving that you are now a disciplined borrower, banks will eventually compete to give you credit again. The journey from 'Settled' to 'Creditworthy' is a marathon, and like any marathon, it requires a plan, discipline, and the right guidance.
                             </p>
                             <div className="bg-blue-50 p-8 rounded-2xl border border-blue-100 mb-8">
-                                <h3 className="text-xl font-bold mb-4">Key Takeaway: Time + Behavior = Recovery</h3>
+                                <h4 className="text-xl font-bold mb-4">Key Takeaway: Time + Behavior = Recovery</h4>
                                 <p className="text-sm leading-relaxed italic">
                                     Your past settlement is a reflection of a specific period of hardship. Your future credit limit will be a reflection of how you handled yourself after that hardship. Banks look at recent trends more than ancient history.
                                 </p>
@@ -269,17 +269,17 @@ export default function LoanAgainAfterSettlementPage() {
                         </section>
 
                         <section id="cibil-impact" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight uppercase">Decoding the CIBIL Impact: Why the 'Settled' Tag Matters</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight uppercase">Decoding the CIBIL Impact: Why the 'Settled' Tag Matters</h3>
                             <p className="mb-6 leading-relaxed">
                                 When you settle a loan, the bank reports it to the TransUnion CIBIL bureau. Unlike 'Closed', which means the principal and all interest were paid, 'Settled' means the bank took a loss. In the eyes of an automated system, you are now a 'Risk Category' borrower.
                             </p>
                             <div className="grid md:grid-cols-2 gap-6 my-8">
                                 <div className="p-6 bg-white rounded-xl border border-[#DEDEDE] shadow-sm">
-                                    <h3 className="font-bold text-red-600 mb-2">Score Deduction</h3>
+                                    <h4 className="font-bold text-red-600 mb-2">Score Deduction</h4>
                                     <p className="text-sm">Expect a drop of 75 to 150 points. If you were at 750, you might suddenly find yourself at 620, which is below the lending threshold for most banks.</p>
                                 </div>
                                 <div className="p-6 bg-white rounded-xl border border-[#DEDEDE] shadow-sm">
-                                    <h4 className="font-bold text-[#1F5EFF] mb-2">Reporting Duration</h4>
+                                    <h5 className="font-bold text-[#1F5EFF] mb-2">Reporting Duration</h5>
                                     <p className="text-sm">The settlement tag stays on your record for 7 years. However, its negative weight decreases as new positive data (on-time payments) gets added.</p>
                                 </div>
                             </div>
@@ -289,57 +289,57 @@ export default function LoanAgainAfterSettlementPage() {
                         </section>
 
                         <section id="timeline" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight uppercase">The Recovery Timeline: When Can You Apply?</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight uppercase">The Recovery Timeline: When Can You Apply?</h3>
                             <p className="mb-8 leading-relaxed">
                                 Patience is your greatest asset post-settlement. Applying for a loan too early will lead to 'Hard Inquiries' and 'Rejections', both of which further damage your already fragile score.
                             </p>
                             <div className="relative border-l-2 border-[#1F5EFF] ml-4 pl-10 space-y-12">
                                 <div className="relative">
                                     <div className="absolute -left-[51px] top-0 w-10 h-10 bg-[#1F5EFF] rounded-full border-4 border-white shadow-sm flex items-center justify-center text-white font-bold">1</div>
-                                    <h3 className="text-xl font-bold mb-2">0 to 6 Months: The Cool-Off</h3>
+                                    <h4 className="text-xl font-bold mb-2">0 to 6 Months: The Cool-Off</h4>
                                     <p className="text-sm">Do not apply for anything. Focus on organizing your finances and ensuring no other defaults occur. If you have an active savings account, maintain a healthy balance.</p>
                                 </div>
                                 <div className="relative">
                                     <div className="absolute -left-[51px] top-0 w-10 h-10 bg-[#1F5EFF] rounded-full border-4 border-white shadow-sm flex items-center justify-center text-white font-bold">2</div>
-                                    <h4 className="text-xl font-bold mb-2">6 to 12 Months: The First Spark</h4>
+                                    <h5 className="text-xl font-bold mb-2">6 to 12 Months: The First Spark</h5>
                                     <p className="text-sm">Apply for a 'Secured Credit Card' against a Fixed Deposit. Use it for small amounts and pay back 100% on time. This starts the 'healing' process on your report.</p>
                                 </div>
                                 <div className="relative">
                                     <div className="absolute -left-[51px] top-0 w-10 h-10 bg-[#1F5EFF] rounded-full border-4 border-white shadow-sm flex items-center justify-center text-white font-bold">3</div>
-                                    <h4 className="text-xl font-bold mb-2">12 to 24 Months: The Growth Phase</h4>
+                                    <h5 className="text-xl font-bold mb-2">12 to 24 Months: The Growth Phase</h5>
                                     <p className="text-sm">Your score should be approaching 680-700. At this stage, you can apply for small consumer durable loans or gold loans from smaller NBFCs to diversify your credit mix.</p>
                                 </div>
                                 <div className="relative">
                                     <div className="absolute -left-[51px] top-0 w-10 h-10 bg-[#1F5EFF] rounded-full border-4 border-white shadow-sm flex items-center justify-center text-white font-bold">4</div>
-                                    <h4 className="text-xl font-bold mb-2">24+ Months: The Return to Prime</h4>
+                                    <h5 className="text-xl font-bold mb-2">24+ Months: The Return to Prime</h5>
                                     <p className="text-sm">With two years of perfect history, you can now consider major loans like Used Car loans or even Home Loans, provided your income is stable and your LTV (Loan to Value) is low.</p>
                                 </div>
                             </div>
                         </section>
 
                         <section id="rebuilding-strategies" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight uppercase">Strategies to Rebuild: The Credit Repair Roadmap</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight uppercase">Strategies to Rebuild: The Credit Repair Roadmap</h3>
                             <p className="mb-6 leading-relaxed text-lg">
                                 Rebuilding your credit is like physical therapy after an injury. You start small, stay consistent, and gradually increase the load. Here are the three most effective strategies we recommend at SettleLoans.
                             </p>
                             <div className="space-y-6">
                                 <div className="p-8 bg-gray-50 rounded-2xl border border-[#DEDEDE]">
-                                    <h3 className="text-xl font-bold mb-4 text-[#1F5EFF]">1. The FD-Backed Credit Card (The Gold Standard)</h3>
+                                    <h4 className="text-xl font-bold mb-4 text-[#1F5EFF]">1. The FD-Backed Credit Card (The Gold Standard)</h4>
                                     <p className="mb-4">Most banks (like IDFC First, ICICI, or Kotak) offer 'Secured Cards' where you make a small FD (₹10,000 to ₹25,000) and get a credit limit of 80% to 90% of that amount. Since the bank has no risk, they will give you the card even with a 'Settled' tag. Every time you pay your bill, the bank reports a 'Success' to CIBIL.</p>
                                 </div>
                                 <div className="p-8 bg-gray-50 rounded-2xl border border-[#DEDEDE]">
-                                    <h3 className="text-xl font-bold mb-4 text-[#1F5EFF]">2. Consumer Durable Loans (The Mix Booster)</h3>
+                                    <h4 className="text-xl font-bold mb-4 text-[#1F5EFF]">2. Consumer Durable Loans (The Mix Booster)</h4>
                                     <p className="mb-4">When you buy a phone or a fridge on EMI through Bajaj Finserv or Home Credit, it's a 'Consumer Durable Loan'. These are often easier to get than personal loans. Having one of these alongside a credit card improves your 'Credit Mix', which accounts for 10% of your score.</p>
                                 </div>
                                 <div className="p-8 bg-gray-50 rounded-2xl border border-[#DEDEDE]">
-                                    <h3 className="text-xl font-bold mb-4 text-[#1F5EFF]">3. Rent and Utility Reporting (The Hidden Data)</h3>
+                                    <h4 className="text-xl font-bold mb-4 text-[#1F5EFF]">3. Rent and Utility Reporting (The Hidden Data)</h4>
                                     <p className="mb-4">While not yet universal in India, some platforms are starting to report rent and utility payments to experiential bureaus. Ensure all your bills (Electricity, Mobile, Gas) are in your name and paid and cleared through your bank account to build an 'Alternative' credit profile.</p>
                                 </div>
                             </div>
                         </section>
 
                         <section id="secured-vs-unsecured" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight uppercase">Secured vs Unsecured Options Post-Settlement</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight uppercase">Secured vs Unsecured Options Post-Settlement</h3>
                             <p className="mb-6 leading-relaxed">
                                 The type of loan you apply for determines your success rate. In the first two years after a settlement, you should almost exclusively focus on 'Secured' loans.
                             </p>
@@ -379,7 +379,7 @@ export default function LoanAgainAfterSettlementPage() {
                         </section>
 
                         <section id="home-loans" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight uppercase">Securing a Home Loan: The Ultimate Test</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight uppercase">Securing a Home Loan: The Ultimate Test</h3>
                             <p className="mb-6 leading-relaxed">
                                 Can you get a home loan after a settlement? The answer is yes, but it requires 'Narrative Lending'. Automated home loan systems will likely reject you the moment they see 'Settled'. However, if you apply to Housing Finance Companies (HFCs) or smaller private banks, a credit manager will physically review your file.
                             </p>
@@ -389,7 +389,7 @@ export default function LoanAgainAfterSettlementPage() {
                         </section>
 
                         <section id="common-mistakes" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight uppercase text-red-600">Common Mistakes to Avoid: Don't Reset the Clock</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight uppercase text-red-600">Common Mistakes to Avoid: Don't Reset the Clock</h3>
                             <p className="mb-6 leading-relaxed">
                                 We've seen many borrowers at SettleLoans work hard for a year and then blow it all with one silly mistake. Avoid these four 'Credit Killers' at all costs.
                             </p>
@@ -402,7 +402,7 @@ export default function LoanAgainAfterSettlementPage() {
                         </section>
 
                         <section id="banks-behavior" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight uppercase">How Different Banks React: The Internal Negative List</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight uppercase">How Different Banks React: The Internal Negative List</h3>
                             <p className="mb-6 leading-relaxed">
                                 Even if your CIBIL score reaches 800, the specific bank you settled with will likely never give you credit again. This is because every bank maintains an 'Internal Negative List' or 'Internal Delinquency Log'.
                             </p>
@@ -412,7 +412,7 @@ export default function LoanAgainAfterSettlementPage() {
                         </section>
 
                         <section id="settlement-to-closure" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight uppercase">The Power of Closure: Upgrading Your Status</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight uppercase">The Power of Closure: Upgrading Your Status</h3>
                             <p className="mb-6 leading-relaxed">
                                 If your financial situation improves significantly in 3 to 4 years, you can approach your original lender. You can offer to pay the remaining 'waived' amount plus some interest. In return, you demand that the bank update the status from 'Settled' to 'Closed' and issue a fresh No Dues Certificate.
                             </p>
@@ -422,7 +422,7 @@ export default function LoanAgainAfterSettlementPage() {
                         </section>
 
                         <section id="future-of-credit" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight uppercase">New Era: The Rise of Account Aggregators</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight uppercase">New Era: The Rise of Account Aggregators</h3>
                             <p className="mb-6 leading-relaxed">
                                 The future of credit in India is moving away from just CIBIL scores. With the 'Account Aggregator' (AA) framework, banks can now see your real-time cash flow, salary consistency, and savings patterns with your consent.
                             </p>
@@ -432,7 +432,7 @@ export default function LoanAgainAfterSettlementPage() {
                         </section>
 
                         <section id="success-stories" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 text-center uppercase tracking-tight">Real Stories of Freedom</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 text-center uppercase tracking-tight">Real Stories of Freedom</h3>
                             <div className="grid md:grid-cols-2 gap-6 pb-2">
                                 {[
                                     {
@@ -466,7 +466,7 @@ export default function LoanAgainAfterSettlementPage() {
                                                 {review.name.charAt(0)}
                                             </div>
                                             <div>
-                                                <h3 className="font-bold text-[#2E2E2E]">{review.name}</h3>
+                                                <h4 className="font-bold text-[#2E2E2E]">{review.name}</h4>
                                                 <p className="text-xs text-gray-400">{review.loc}</p>
                                             </div>
                                             <div className="ml-auto text-yellow-400 text-sm">★★★★★</div>
@@ -480,53 +480,53 @@ export default function LoanAgainAfterSettlementPage() {
                             </div>
                         </section>
                         <section id="faqs" className="scroll-mt-32 mb-12 border-t border-[#DEDEDE] pt-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight uppercase">Frequently Asked Questions</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight uppercase">Frequently Asked Questions</h3>
                             <div className="space-y-6">
                                 <div className="p-6 bg-white border border-[#DEDEDE] rounded-xl shadow-sm">
-                                    <h3 className="font-bold text-[#1F5EFF] mb-2 text-lg">Can I get another loan if I have settled a previous one?</h3>
+                                    <h4 className="font-bold text-[#1F5EFF] mb-2 text-lg">Can I get another loan if I have settled a previous one?</h4>
                                     <p className="text-sm leading-relaxed text-gray-700">Yes, but it won't be immediate. You need to wait at least 12 to 24 months while rebuilding your credit score through secured products (like gold loans or FD-backed cards) before most lenders will consider you for unsecured credit again.</p>
                                 </div>
                                 <div className="p-6 bg-white border border-[#DEDEDE] rounded-xl shadow-sm">
-                                    <h3 className="font-bold text-[#1F5EFF] mb-2 text-lg">How much does a settlement drop my CIBIL score?</h3>
+                                    <h4 className="font-bold text-[#1F5EFF] mb-2 text-lg">How much does a settlement drop my CIBIL score?</h4>
                                     <p className="text-sm leading-relaxed text-gray-700">A settlement can drop your score by 75 to 150 points. If you were at 750, you might drop to 600, which is problematic for new loans. The exact drop depends on how many other clean accounts you have on your profile.</p>
                                 </div>
                                 <div className="p-6 bg-white border border-[#DEDEDE] rounded-xl shadow-sm">
-                                    <h3 className="font-bold text-[#1F5EFF] mb-2 text-lg">Which bank gives loans after settlement?</h3>
+                                    <h4 className="font-bold text-[#1F5EFF] mb-2 text-lg">Which bank gives loans after settlement?</h4>
                                     <p className="text-sm leading-relaxed text-gray-700">Major public and private banks usually reject automated applications. However, NBFCs like Bajaj Finserv or Muthoot, and smaller private banks, might consider you for secured loans or consumer durable loans after a 12-month cool-off period.</p>
                                 </div>
                                 <div className="p-6 bg-white border border-[#DEDEDE] rounded-xl shadow-sm">
-                                    <h3 className="font-bold text-[#1F5EFF] mb-2 text-lg">How to remove the 'Settled' status from CIBIL?</h3>
+                                    <h4 className="font-bold text-[#1F5EFF] mb-2 text-lg">How to remove the 'Settled' status from CIBIL?</h4>
                                     <p className="text-sm leading-relaxed text-gray-700">The only legal way is to pay the principal and interest that was 'waived' during the settlement. Once you pay the balance, the bank will update your status to 'Closed' on the CIBIL records. It usually takes 45-60 days for this update to reflect.</p>
                                 </div>
                                 <div className="p-6 bg-white border border-[#DEDEDE] rounded-xl shadow-sm">
-                                    <h3 className="font-bold text-[#1F5EFF] mb-2 text-lg">Can I get a home loan after settling a personal loan?</h3>
+                                    <h4 className="font-bold text-[#1F5EFF] mb-2 text-lg">Can I get a home loan after settling a personal loan?</h4>
                                     <p className="text-sm leading-relaxed text-gray-700">Yes, but you will likely need a co-applicant with a clean credit history, a higher down payment (30% instead of 20%), and you may have to pay a slightly higher interest rate for the first few years until your score fully recovers.</p>
                                 </div>
                                 <div className="p-6 bg-white border border-[#DEDEDE] rounded-xl shadow-sm">
-                                    <h3 className="font-bold text-[#1F5EFF] mb-2 text-lg">How long does the 'Settled' tag stay on a report?</h3>
+                                    <h4 className="font-bold text-[#1F5EFF] mb-2 text-lg">How long does the 'Settled' tag stay on a report?</h4>
                                     <p className="text-sm leading-relaxed text-gray-700">The account history remains on the bureau for 7 years from the date of reporting. However, its negative impact on score calculation diminishes significantly after the 3rd year, provided there are no new defaults.</p>
                                 </div>
                                 <div className="p-6 bg-white border border-[#DEDEDE] rounded-xl shadow-sm">
-                                    <h3 className="font-bold text-[#1F5EFF] mb-2 text-lg">Is a secured credit card the best way to rebuild credit?</h3>
+                                    <h4 className="font-bold text-[#1F5EFF] mb-2 text-lg">Is a secured credit card the best way to rebuild credit?</h4>
                                     <p className="text-sm leading-relaxed text-gray-700">Yes, it is the most predictable way. Since the card is backed by your own Fixed Deposit, the bank reports every on-time payment to CIBIL, which gradually replaces the 'bad data' from your settlement with 'good data'.</p>
                                 </div>
                                 <div className="p-6 bg-white border border-[#DEDEDE] rounded-xl shadow-sm">
-                                    <h3 className="font-bold text-[#1F5EFF] mb-2 text-lg">Does a settlement affect my job prospects?</h3>
+                                    <h4 className="font-bold text-[#1F5EFF] mb-2 text-lg">Does a settlement affect my job prospects?</h4>
                                     <p className="text-sm leading-relaxed text-gray-700">For most jobs, no. However, for positions in the core banking sector, NBFCs, or high-level finance roles, a credit check is often part of the background verification, and a past settlement might be an issue.</p>
                                 </div>
                                 <div className="p-6 bg-white border border-[#DEDEDE] rounded-xl shadow-sm">
-                                    <h3 className="font-bold text-[#1F5EFF] mb-2 text-lg">Should I wait to apply for a new loan?</h3>
+                                    <h4 className="font-bold text-[#1F5EFF] mb-2 text-lg">Should I wait to apply for a new loan?</h4>
                                     <p className="text-sm leading-relaxed text-gray-700">Yes, wait for at least 6 months before even checking your score, and 12-18 months before applying. Every rejection (hard inquiry) lowers your score further, making your recovery even harder.</p>
                                 </div>
                                 <div className="p-6 bg-white border border-[#DEDEDE] rounded-xl shadow-sm">
-                                    <h3 className="font-bold text-[#1F5EFF] mb-2 text-lg">Can SettleLoans help me get a loan later?</h3>
+                                    <h4 className="font-bold text-[#1F5EFF] mb-2 text-lg">Can SettleLoans help me get a loan later?</h4>
                                     <p className="text-sm leading-relaxed text-gray-700">We provide the credit recovery roadmap. By ensuring your current settlement is handled legally and the NDC is issued properly, we set the foundation for your credit repair. We also consult on the best products to use for fast score improvement.</p>
                                 </div>
                             </div>
                         </section>
 
                         <div className="mt-16 p-8 bg-[#F8F9FA] rounded-[30px] border border-[#DEDEDE] text-center">
-                            <h3 className="text-2xl font-black mb-4">Start Your Credit Recovery Journey</h3>
+                            <h4 className="text-2xl font-black mb-4">Start Your Credit Recovery Journey</h4>
                             <p className="mb-8 text-gray-600">Don't let a past settlement define your future. Let our experts guide you back to financial health.</p>
                             <Link href="/contact" className="inline-block bg-[#1F5EFF] text-white font-bold py-4 px-12 rounded-xl hover:scale-105 transition-all shadow-lg">
                                 Get Free Credit Recovery Consultation

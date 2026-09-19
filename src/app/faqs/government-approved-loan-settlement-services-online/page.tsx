@@ -157,7 +157,7 @@ export default function GovernmentApprovedFAQ() {
                                 As we move through 2025, the "Government-Approved" status of debt resolution has never been clearer. From the Reserve Bank of India's (RBI) explicit circulars on compromise settlements to the judiciary-led Lok Adalat system, the path to financial recovery is paved with official recognition. This guide provides a deep dive into these systems, ensuring that every Indian borrower understands their legal standing when facing financial hardship.
                             </p>
                             <div className="bg-blue-50 p-8 rounded-2xl border-l-4 border-blue-500 mb-8">
-                                <h3 className="text-lg font-bold text-blue-900 mb-4">Official Legitimacy</h3>
+                                <h4 className="text-lg font-bold text-blue-900 mb-4">Official Legitimacy</h4>
                                 <p className="text-blue-800">
                                     Loan settlement is a recognized banking practice authorized by the RBI and supported by various Indian laws including the Banking Regulation Act and the Securitisation Act. It is a win-win mechanism that helps banks clear Non-Performing Assets (NPAs) while giving borrowers a fresh start.
                                 </p>
@@ -165,9 +165,9 @@ export default function GovernmentApprovedFAQ() {
                         </section>
 
                         <section id="rbi-guidelines" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                                 RBI Guidelines on Compromise Settlements (2025 Update)
-                            </h2>
+                            </h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 The most significant turning point for the debt resolution industry in recent years was the RBI’s comprehensive circular on "Compromise Settlements and Technical Write-offs" issued in June 2023. This document provided a standardized framework for all Regulated Entities (REs)-including commercial banks, co-operative banks, and NBFCs-to handle settlements.
                             </p>
@@ -175,7 +175,7 @@ export default function GovernmentApprovedFAQ() {
                                 Under these guidelines, banks are mandated to have a board-approved policy describing the criteria for classifying a borrower as eligible for settlement. Crucially, the RBI has emphasized that settlements should be based on the borrower's "ability to pay" rather than just their "willingness to pay." This means that if you can prove genuine financial hardship through medical bills, unemployment records, or business failure audits, the bank is legally empowered (and encouraged) to offer you a waiver.
                             </p>
                             <div className="p-8 bg-gray-50 border border-gray-100 rounded-3xl mb-8">
-                                <h3 className="text-xl font-bold text-[#2E2E2E] mb-4">Key Takeaways from the RBI Framework:</h3>
+                                <h4 className="text-xl font-bold text-[#2E2E2E] mb-4">Key Takeaways from the RBI Framework:</h4>
                                 <ul className="space-y-4">
                                     <li className="flex gap-3">
                                         <FontAwesomeIcon icon={faCheck} className="text-green-600 mt-1" />
@@ -194,9 +194,9 @@ export default function GovernmentApprovedFAQ() {
                         </section>
 
                         <section id="lok-adalat" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                                 The Lok Adalat System: Judiciary-Led Debt Relief
-                            </h2>
+                            </h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 Lok Adalats (People's Courts) are one of the most powerful "Government-Approved" mechanisms for debt resolution in India. Administered by the National Legal Services Authority (NALSA), Lok Adalats function as an alternative dispute resolution channel. They are not traditional courts; instead, they are platforms for mediation and compromise.
                             </p>
@@ -204,7 +204,7 @@ export default function GovernmentApprovedFAQ() {
                                 When a bank files a suit against a borrower or when a borrower wants to proactively settle, the case can be referred to a Lok Adalat. The beauty of this system is that any settlement reached here has the status of a "Civil Court Decree" and is binding on both parties. There is no court fee, and if any fee was paid previously in a regular court, it is refunded upon settlement.
                             </p>
                             <div className="bg-[#2E2E2E] p-10 rounded-3xl text-white mb-12 shadow-xl">
-                                <h3 className="text-2xl font-black mb-6 text-[#1F5EFF] uppercase tracking-tighter">Why Choose Lok Adalat for Settlement?</h3>
+                                <h4 className="text-2xl font-black mb-6 text-[#1F5EFF] uppercase tracking-tighter">Why Choose Lok Adalat for Settlement?</h4>
                                 <ul className="space-y-6">
                                     <li className="flex gap-4">
                                         <FontAwesomeIcon icon={faGavel} className="text-[#1F5EFF] w-6 h-6" />
@@ -232,9 +232,9 @@ export default function GovernmentApprovedFAQ() {
                         </section>
 
                         <section id="case-law" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                                 Landmark Case Law: How the Supreme Court Protects Borrowers
-                            </h2>
+                            </h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 The Indian judiciary has consistently stepped in to protect the rights of borrowers against heavy-handed recovery tactics. One of the most cited cases is <strong>ICICI Bank vs. Shanti Devi (2008)</strong>, where the Supreme Court unequivocally stated that banks cannot use 'musclemen' or recovery agents to take possession of properties or vehicles without following due process of law. The court emphasized that in a democratic country governed by the rule of law, the use of force for recovery is a violation of fundamental rights.
                             </p>
@@ -247,9 +247,9 @@ export default function GovernmentApprovedFAQ() {
                         </section>
 
                         <section id="constitutional-rights" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                                 Constitutional Rights and the Debt Resolution Framework
-                            </h2>
+                            </h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 Beyond specific banking regulations, the Indian Constitution provides broad protections that even debt collectors must respect. Article 21-the Right to Life and Personal Liberty-has been interpreted by the courts to include the "Right to Live with Dignity." This means that being in debt does not strip you of your human rights. You cannot be harassed at your workplace, your children cannot be intimidated, and your neighbors cannot be informed of your defaults.
                             </p>
@@ -257,7 +257,7 @@ export default function GovernmentApprovedFAQ() {
                                 The <strong>Right to Privacy</strong>, recognized as a fundamental right in the <strong>Puttaswamy judgment (2017)</strong>, also plays a major role in debt resolution. Banks and their third-party agents are prohibited from sharing your loan details with anyone other than the official credit bureaus. If an agent creates a WhatsApp group with your relatives and posts your default details, it is a direct violation of your constitutional right to privacy.
                             </p>
                             <div className="bg-gray-100 p-8 rounded-3xl mb-12">
-                                <h3 className="text-2xl font-black mb-6 uppercase tracking-tighter">Your Constitutional Trio for Debt Defense:</h3>
+                                <h4 className="text-2xl font-black mb-6 uppercase tracking-tighter">Your Constitutional Trio for Debt Defense:</h4>
                                 <ul className="space-y-4">
                                     <li className="flex gap-4">
                                         <div className="w-6 h-6 rounded-full bg-blue-600 flex-shrink-0 flex items-center justify-center text-white text-xs font-bold">1</div>
@@ -276,9 +276,9 @@ export default function GovernmentApprovedFAQ() {
                         </section>
 
                         <section id="historical-context" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                                 From Indebtedness to Insolvency: A History of Indian Debt Laws
-                            </h2>
+                            </h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 The legal journey of debt in India is as old as the country itself. In the early years of independence, debt recovery was a slow, painful process governed largely by the Code of Civil Procedure (CPC), 1908. It often took decades for a bank to recover its dues through the civil courts. This led to a massive pile-up of NPAs, which threatened the stability of the entire banking system in the 1980s.
                             </p>
@@ -291,9 +291,9 @@ export default function GovernmentApprovedFAQ() {
                         </section>
 
                         <section id="ombudsman-role" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                                 The Integrated Ombudsman Scheme: Your Direct Path to Justice
-                            </h2>
+                            </h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 If you are a victim of "unfair banking practices," the RBI's Integrated Ombudsman Scheme, 2021, is your most powerful government-approved tool. This scheme consolidated the existing ombudsman for Banks, NBFCs, and Digital Transactions into one single platform.
                             </p>
@@ -306,9 +306,9 @@ export default function GovernmentApprovedFAQ() {
                         </section>
 
                         <section id="sarfaesi-act" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                                 Understanding the SARFAESI Act (Secured Debt)
-                            </h2>
+                            </h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 For those with home loans or vehicle loans, the legal terrain is heavily influenced by the SARFAESI (Securitisation and Reconstruction of Financial Assets and Enforcement of Security Interest) Act, 2002. This act provides banks with the power to take possession of a secured asset if the borrower defaults for 90 days.
                             </p>
@@ -318,9 +318,9 @@ export default function GovernmentApprovedFAQ() {
                         </section>
 
                         <section id="ibc-individual" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                                 The Insolvency and Bankruptcy Code (IBC) for Individuals
-                            </h2>
+                            </h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 While the IBC is famous for big corporate defaults, the "Individual Insolvency" provisions (though not yet fully operational for all individuals in all contexts) represent the government's long-term vision. The "Fresh Start Process" is a concept within the IBC designed for individuals with very low income and assets, allowing them to discharge their debts legally.
                             </p>
@@ -330,14 +330,14 @@ export default function GovernmentApprovedFAQ() {
                         </section>
 
                         <section id="fair-practices" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                                 The Fair Practice Code: Your Shield Against Harassment
-                            </h2>
+                            </h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 One of the most important "Government-Approved" documents is the RBI's Fair Practices Code for Lenders. This is not just a suggestion; it is a regulatory mandate. It specifies that recovery agents must be trained, must carry identity cards, and must not resort to harassment or intimidation.
                             </p>
                             <div className="bg-yellow-50 p-8 rounded-3xl border border-yellow-200 mb-8">
-                                <h3 className="text-xl font-bold text-yellow-800 mb-4">Prohibited Practices under RBI Code:</h3>
+                                <h4 className="text-xl font-bold text-yellow-800 mb-4">Prohibited Practices under RBI Code:</h4>
                                 <ul className="list-disc pl-6 space-y-2 text-yellow-900">
                                     <li>Contacting individual borrowers before 8 AM or after 7 PM.</li>
                                     <li>Making false or misleading statements to intimidate borrowers.</li>
@@ -377,9 +377,9 @@ export default function GovernmentApprovedFAQ() {
                         />
 
                         <section id="otsu-schemes" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                                 One-Time Settlement (OTS) Schemes: Public Sector Advantage
-                            </h2>
+                            </h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 Public Sector Banks (PSBs) like SBI, PNB, and Bank of Baroda frequently launch time-bound OTS schemes. These are official, government-backed programs where the bank publicly announces the percentage of waiver they are willing to offer for different categories of NPAs.
                             </p>
@@ -389,7 +389,7 @@ export default function GovernmentApprovedFAQ() {
                         </section>
 
                         <section id="faqs" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-bold text-[var(--color-primary)] mt-16 mb-8">Legal Expert FAQs</h2>
+                            <h3 className="text-3xl md:text-4xl font-bold text-[var(--color-primary)] mt-16 mb-8">Legal Expert FAQs</h3>
                             <div className="space-y-4 not-prose">
                                 {[
                                     { q: "Is loan settlement legal in India?", a: "Yes, it is a fully legal process recognized by the RBI and the Indian judicial system. It is considered a commercial compromise under the Indian Contract Act." },
@@ -446,7 +446,7 @@ export default function GovernmentApprovedFAQ() {
                         <section className="bg-[#1F5EFF] rounded-[10px] p-8 md:p-12 text-center text-white relative overflow-hidden shadow-2xl">
                             <div className="absolute top-0 right-0 w-64 h-64 bg-white/10 rounded-full -mr-32 -mt-32"></div>
                             <div className="relative z-10">
-                                <h2 className="text-3xl md:text-5xl font-black mb-6 uppercase tracking-tighter">Seek Legal Protection</h2>
+                                <h3 className="text-3xl md:text-5xl font-black mb-6 uppercase tracking-tighter">Seek Legal Protection</h3>
                                 <p className="text-lg md:text-2xl opacity-90 max-w-2xl mx-auto mb-10 leading-tight font-normal">
                                     Our legal experts are ready to defend your rights and negotiate the best possible settlement under India's judicial framework.
                                 </p>

@@ -192,7 +192,7 @@ export default function FeesSuccessRatePage() {
                 A common surprise for borrowers in India is the 'Taxable Income' status of the settled amount. When a bank waives ₹5 Lakhs off your debt, the Income Tax Department may view this waiver as 'Income from Other Sources'. Under Section 56(2)(x) of the Income Tax Act, any sum of money received without consideration can be taxable.
               </p>
               <div className="bg-blue-50 border-2 border-blue-200 p-8 rounded-2xl my-8">
-                <h3 className="font-bold text-xl mb-4 text-blue-900">How to Manage the Tax Burden:</h3>
+                <h4 className="font-bold text-xl mb-4 text-blue-900">How to Manage the Tax Burden:</h4>
                 <p className="text-lg text-blue-800 leading-relaxed">
                   Technically, a loan waiver is a remission of liability. Whether it is taxable depends on whether the loan was taken for business or personal use. For business loans, the waiver may be treated as business income. For personal loans, recent tribunal rulings have been mixed. Always ensure your settlement agency provides a tax-neutrality certificate or guidance on how to report the waiver in your ITR.
                 </p>
@@ -200,28 +200,28 @@ export default function FeesSuccessRatePage() {
             </section>
 
             <section id="cibil-recovery-blueprint" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#1A1A1A] mb-8 leading-tight">
+              <h3 className="text-3xl md:text-4xl font-black text-[#1A1A1A] mb-8 leading-tight">
                 CIBIL Recovery Blueprint: Post-Settlement Timeline
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 Settling a debt will initially cause your CIBIL score to drop or remain stagnant under the 'Settled' status. However, this is not a permanent death sentence for your credit profile. With a strategic recovery plan, you can return to a 750+ score within 24 to 36 months.
               </p>
               <div className="grid grid-cols-1 md:grid-cols-2 gap-8 my-10">
                 <div className="p-6 bg-white border border-gray-100 rounded-2xl shadow-sm">
-                  <h3 className="font-black text-[#1A1A1A] mb-3">Phase 1: Zero Dues (Months 1-6)</h3>
+                  <h4 className="font-black text-[#1A1A1A] mb-3">Phase 1: Zero Dues (Months 1-6)</h4>
                   <p className="text-sm">Ensure the bank updates your status from 'Written Off' to 'Settled'. Request a fresh CIBIL report every 3 months to verify there are no 'Overdue' amounts showing for the settled account.</p>
                 </div>
                 <div className="p-6 bg-white border border-gray-100 rounded-2xl shadow-sm">
-                  <h4 className="font-black text-[#1A1A1A] mb-3">Phase 2: Secured Credit (Months 7-18)</h4>
+                  <h5 className="font-black text-[#1A1A1A] mb-3">Phase 2: Secured Credit (Months 7-18)</h5>
                   <p className="text-sm">Obtain a 'Credit Builder Card' a credit card issued against a Fixed Deposit (FD). Use only 10% of the limit and pay the full amount before the due date. This creates 'Positive Payment DNA' in your report.</p>
                 </div>
               </div>
             </section>
 
             <section id="settlement-vs-consolidation" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#1A1A1A] mb-8 leading-tight">
+              <h3 className="text-3xl md:text-4xl font-black text-[#1A1A1A] mb-8 leading-tight">
                 Settlement vs. Consolidation: Which Model Saves More?
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 If your debt is still 'Standard' (no defaults yet), Debt Consolidation is often better. You take one large loan at a lower interest rate to pay off multiple high-interest cards. However, if you are already in default, consolidation is rarely possible as no bank will lend to an NPA account.
               </p>
@@ -231,9 +231,9 @@ export default function FeesSuccessRatePage() {
             </section>
 
             <section id="industry-success-rates" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#1A1A1A] mb-8 leading-tight">
+              <h3 className="text-3xl md:text-4xl font-black text-[#1A1A1A] mb-8 leading-tight">
                 Industry Success Rates: What Data Tells Us
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 Success in debt settlement is defined by two metrics: the probability of the bank agreeing to a settlement and the percentage of the waiver achieved. Based on our analysis of over 50,000 settlement cases in the Indian market, here is the reality of success rates in 2024.
               </p>
@@ -274,9 +274,9 @@ export default function FeesSuccessRatePage() {
             </section>
 
             <section id="twelve-month-roadmap" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#1A1A1A] mb-8 leading-tight">
+              <h3 className="text-3xl md:text-4xl font-black text-[#1A1A1A] mb-8 leading-tight">
                 The 12-Month Settlement Roadmap: What to Expect
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 Most borrowers enter the settlement process expecting a resolution within weeks. In reality, a successful high-waiver settlement is a marathon, not a sprint. Here is a month-by-month breakdown of the typical lifecycle when working with a professional firm.
               </p>
@@ -284,28 +284,28 @@ export default function FeesSuccessRatePage() {
                 <div className="flex gap-6 items-start">
                   <div className="w-16 h-16 shrink-0 bg-black text-[#FFD700] flex items-center justify-center rounded-2xl font-black text-2xl">01</div>
                   <div>
-                    <h3 className="text-xl font-bold mb-2">Month 1-2: The Shield Phase</h3>
+                    <h4 className="text-xl font-bold mb-2">Month 1-2: The Shield Phase</h4>
                     <p className="text-gray-600">The primary goal is to stop harassment. Your agency issues 'Letters of Representation' to the banks. Recovery calls are redirected. Your legal team builds a 'Financial Hardship Case' using your bank statements and income proof. Success rate at this stage is 0% as it is too early for banks to settle.</p>
                   </div>
                 </div>
                 <div className="flex gap-6 items-start">
                   <div className="w-16 h-16 shrink-0 bg-black text-[#FFD700] flex items-center justify-center rounded-2xl font-black text-2xl">04</div>
                   <div>
-                    <h4 className="text-xl font-bold mb-2">Month 3-6: The Stalemate Phase</h4>
+                    <h5 className="text-xl font-bold mb-2">Month 3-6: The Stalemate Phase</h5>
                     <p className="text-gray-600">The bank realizes you are not a 'Wait and Pay' customer. Your case is moved from the regular recovery department to the 'Stressed Assets' or 'Nodal Settlement' vertical. This is where initial offers of 10% to 20% waiver start appearing. Professional advice: Do not accept these early offers.</p>
                   </div>
                 </div>
                 <div className="flex gap-6 items-start">
                   <div className="w-16 h-16 shrink-0 bg-black text-[#FFD700] flex items-center justify-center rounded-2xl font-black text-2xl">09</div>
                   <div>
-                    <h4 className="text-xl font-bold mb-2">Month 7-10: The Negotiation Peak</h4>
+                    <h5 className="text-xl font-bold mb-2">Month 7-10: The Negotiation Peak</h5>
                     <p className="text-gray-600">This is where the magic happens. Your agency leverages the age of the default and your legal positioning to push for 50% plus waivers. Multiple counter-offers go back and forth. This phase requires extreme patience and trust in your legal representative.</p>
                   </div>
                 </div>
                 <div className="flex gap-6 items-start">
                   <div className="w-16 h-16 shrink-0 bg-black text-[#FFD700] flex items-center justify-center rounded-2xl font-black text-2xl">12</div>
                   <div>
-                    <h4 className="text-xl font-bold mb-2">Month 11-12: The Resolution Phase</h4>
+                    <h5 className="text-xl font-bold mb-2">Month 11-12: The Resolution Phase</h5>
                     <p className="text-gray-600">The bank issues an official One-Time Settlement (OTS) letter. You verify the letter and make the payment directly to the bank. Within 30 to 45 days, the bank issues the 'No Dues Certificate' (NDC), and your path to a debt-free life begins.</p>
                   </div>
                 </div>
@@ -313,35 +313,35 @@ export default function FeesSuccessRatePage() {
             </section>
 
             <section id="sector-specific-benchmarks" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#1A1A1A] mb-8 leading-tight">
+              <h3 className="text-3xl md:text-4xl font-black text-[#1A1A1A] mb-8 leading-tight">
                 Sector-Specific Benchmarks: Beyond Credit Cards
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 While credit cards have the highest success rates, other loan categories follow different rules. Understanding these nuances can save you from unrealistic expectations.
               </p>
-              <h3 className="text-2xl font-bold mt-12 mb-6 text-[#1A1A1A]">Micro-Finance Loans (MFI)</h3>
+              <h4 className="text-2xl font-bold mt-12 mb-6 text-[#1A1A1A]">Micro-Finance Loans (MFI)</h4>
               <p className="text-lg leading-relaxed mb-6">
                 MFIs are often more community-driven. Success rates are high (80%), but waivers are usually lower, around 20% to 30%. Banks are hesitant to give deep waivers here to avoid creating a 'moral hazard' in rural credit groups.
               </p>
-              <h3 className="text-2xl font-bold mt-12 mb-6 text-[#1A1A1A]">Education Loans</h3>
+              <h4 className="text-2xl font-bold mt-12 mb-6 text-[#1A1A1A]">Education Loans</h4>
               <p className="text-lg leading-relaxed mb-6">
                 Settling an education loan is difficult because of the emotional and career stakes involved. Success rates jump only after the borrower has been unemployed for more than 2 years. Government-backed education loans have 'Samadhan' schemes that offer 100% interest waivers but almost 0% principal waivers.
               </p>
-              <h3 className="text-2xl font-bold mt-12 mb-6 text-[#1A1A1A]">Mortgage-Backed Loans / LAP</h3>
+              <h4 className="text-2xl font-bold mt-12 mb-6 text-[#1A1A1A]">Mortgage-Backed Loans / LAP</h4>
               <p className="text-lg leading-relaxed mb-6">
                 If the bank holds your property as collateral, your success rate for settlement is near 0% until the SARFAESI proceedings reach the terminal stage. Even then, banks prefer to auction the property rather than settle for less than the principal. Your only leverage here is the delay in the court process.
               </p>
             </section>
 
             <section id="cost-of-inaction" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#1A1A1A] mb-8 leading-tight">
+              <h3 className="text-3xl md:text-4xl font-black text-[#1A1A1A] mb-8 leading-tight">
                 The Cost of Inaction: Why Waiting is Expensive
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 Many borrowers hesitate to settle because of the professional fees involved. However, the 'Cost of Inaction' is often 5 to 10 times higher than the cost of a settlement agency. In India, credit card interest rates hover around 42% to 48% per annum (APR). When you add late payment fees and GST on interest, your debt effectively doubles every 18 to 22 months.
               </p>
               <div className="bg-gray-100 p-8 rounded-2xl border border-gray-200 my-8">
-                <h3 className="font-black text-xl mb-4">The "Interest Trap" Calculation:</h3>
+                <h4 className="font-black text-xl mb-4">The "Interest Trap" Calculation:</h4>
                 <p className="text-lg leading-relaxed">
                   "On a ₹10 Lakh debt, the monthly interest alone is approximately ₹40,000. Over 12 months, you accrue ₹4.8 Lakhs in interest. A settlement agency charging 2% of the debt as an enrollment fee is asking for ₹20,000. By paying ₹20,000, you are stopping a ₹4.8 Lakh leakage. The ROI of professional debt resolution is among the highest in financial services."
                 </p>
@@ -349,9 +349,9 @@ export default function FeesSuccessRatePage() {
             </section>
 
             <section id="ethical-recovery-standards" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#1A1A1A] mb-8 leading-tight">
+              <h3 className="text-3xl md:text-4xl font-black text-[#1A1A1A] mb-8 leading-tight">
                 Ethical Recovery Standards: The BCSBI Guidelines
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 Most borrowers are unaware that banks in India are signatories to the Banking Codes and Standards Board of India (BCSBI). These guidelines mandate that recovery must be handled with dignity. If a recovery agent visits your home without a prior notice or after 7:00 PM, they are in violation of the code.
               </p>
@@ -361,19 +361,19 @@ export default function FeesSuccessRatePage() {
             </section>
 
             <section id="regional-success-heatmap" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#1A1A1A] mb-8 leading-tight">
+              <h3 className="text-3xl md:text-4xl font-black text-[#1A1A1A] mb-8 leading-tight">
                 Regional Success Heatmap: Why Geography Matters
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 Settling a debt in Mumbai is fundamentally different from settling a debt in Kolkata. The legal infrastructure, the density of recovery agents, and even the local court's attitude toward 'Cheque Bounce' cases vary significantly across India.
               </p>
               <div className="grid grid-cols-1 md:grid-cols-2 gap-8 my-10">
                 <div className="p-8 bg-blue-50 rounded-2xl border border-blue-100">
-                  <h3 className="font-bold text-xl mb-3 text-blue-900">Maharashtra & Gujarat (Commercial Hubs)</h3>
+                  <h4 className="font-bold text-xl mb-3 text-blue-900">Maharashtra & Gujarat (Commercial Hubs)</h4>
                   <p className="text-sm text-blue-800 leading-relaxed">Banks are very aggressive in these regions but also have the most structured settlement desks. Success rates for credit cards here are 90% plus because the volume of defaults is so high that banks prefer quick closures over long legal battles.</p>
                 </div>
                 <div className="p-8 bg-green-50 rounded-2xl border border-green-100">
-                  <h4 className="font-bold text-xl mb-3 text-green-900">South India (Organized Recovery)</h4>
+                  <h5 className="font-bold text-xl mb-3 text-green-900">South India (Organized Recovery)</h5>
                   <p className="text-sm text-green-800 leading-relaxed">In states like Tamil Nadu and Karnataka, recovery is often handled by highly organized third-party agencies. Negotiating here requires a technical approach as these agencies follow strict algorithmic guidelines. Waivers are usually capped at 45% unless extreme hardship is proven.</p>
                 </div>
               </div>
@@ -383,26 +383,26 @@ export default function FeesSuccessRatePage() {
             </section>
 
             <section id="ai-in-recovery" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#1A1A1A] mb-8 leading-tight">
+              <h3 className="text-3xl md:text-4xl font-black text-[#1A1A1A] mb-8 leading-tight">
                 The Role of AI in Bank Recovery: How You are Scored
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 Gone are the days when a bank manager decided your settlement. Today, banks use advanced Machine Learning models to assign a 'Settlement Propensity Score' to every defaulting account.
               </p>
-              <h3 className="text-2xl font-bold mt-12 mb-6 text-[#1A1A1A]">Factors that Lower Your Score (Tougher Settlement)</h3>
+              <h4 className="text-2xl font-bold mt-12 mb-6 text-[#1A1A1A]">Factors that Lower Your Score (Tougher Settlement)</h4>
               <p className="text-lg leading-relaxed mb-6">
                 If the AI detects that you are still using other credit cards, paying utility bills on time, or have a high average balance in your savings account, it flags you as 'Ability to Pay but Willingness to Default'. In such cases, the bank will refuse any meaningful waiver.
               </p>
-              <h3 className="text-2xl font-bold mt-12 mb-6 text-[#1A1A1A]">Factors that Increase Your Score (Better Settlement)</h3>
+              <h4 className="text-2xl font-bold mt-12 mb-6 text-[#1A1A1A]">Factors that Increase Your Score (Better Settlement)</h4>
               <p className="text-lg leading-relaxed mb-6">
                 The AI looks for signs of genuine distress: a sudden stop in all credit activity, a drop in savings balance, and multiple 'Enquiries' for hardship loans. High-quality settlement agencies understand these signals and help you structure your financial profile so that the bank's AI classifies you as a 'Lost Cause', prompting a high-waiver offer.
               </p>
             </section>
 
             <section id="negotiation-psychology" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#1A1A1A] mb-8 leading-tight">
+              <h3 className="text-3xl md:text-4xl font-black text-[#1A1A1A] mb-8 leading-tight">
                 The Psychology of Negotiation: Breaking the Wall
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 Debt negotiation is not just about numbers; it is a battle of persistence and psychological framing. Banks use a 'Standardized Recovery Script' designed to induce fear and urgency. They want you to believe that a settlement is an 'exception' they are making just for you.
               </p>
@@ -412,9 +412,9 @@ export default function FeesSuccessRatePage() {
             </section>
 
             <section id="global-context-settlement" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#1A1A1A] mb-8 leading-tight">
+              <h3 className="text-3xl md:text-4xl font-black text-[#1A1A1A] mb-8 leading-tight">
                 Market Comparison: India vs. USA vs. UK
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 India's debt settlement market is younger but faster-growing than the West. In the USA, the Federal Trade Commission (FTC) strictly regulates debt relief. Companies are forbidden from charging any fees until a settlement is reached. 
               </p>
@@ -424,14 +424,14 @@ export default function FeesSuccessRatePage() {
             </section>
 
             <section id="nri-debt-settlement" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#1A1A1A] mb-8 leading-tight">
+              <h3 className="text-3xl md:text-4xl font-black text-[#1A1A1A] mb-8 leading-tight">
                 Debt Settlement for NRIs: A Global Challenge
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 Settling debt for Non-Resident Indians (NRIs) involves unique legal and procedural layers. Most banks in India are hesitant to negotiate with someone who is not physically present in the country. They often view NRIs as 'High-Capacity' individuals and are less likely to grant waivers.
               </p>
               <div className="bg-gold-50 p-8 rounded-3xl border border-gold-200 my-8">
-                <h3 className="font-bold text-xl mb-4">The NRI Strategy Framework:</h3>
+                <h4 className="font-bold text-xl mb-4">The NRI Strategy Framework:</h4>
                 <p className="text-lg leading-relaxed">
                   "Success for NRIs depends on two factors: the use of a registered Power of Attorney (PoA) and the classification of the debt. If your debt is linked to an NRO account, the bank can easily attach your domestic assets. However, if the debt is unsecured and you have no domestic footprints, your leverage increases. A professional agency acting as your local custodian can bridge the trust gap with the bank's Nodal Officer."
                 </p>
@@ -439,9 +439,9 @@ export default function FeesSuccessRatePage() {
             </section>
 
             <section id="banking-ombudsman-leverage" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#1A1A1A] mb-8 leading-tight">
+              <h3 className="text-3xl md:text-4xl font-black text-[#1A1A1A] mb-8 leading-tight">
                 Using the Banking Ombudsman as a Shield
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 The RBI's Integrated Ombudsman Scheme is the most powerful tool in a borrower's arsenal. If you have made a settlement offer that is reasonable based on your financial hardship, and the bank refuses to even acknowledge it or continues to use aggressive recovery tactics, you have grounds for a formal complaint.
               </p>
@@ -451,9 +451,9 @@ export default function FeesSuccessRatePage() {
             </section>
 
             <section id="counseling-vs-settlement" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#1A1A1A] mb-8 leading-tight">
+              <h3 className="text-3xl md:text-4xl font-black text-[#1A1A1A] mb-8 leading-tight">
                 Credit Counseling vs. Debt Settlement: The Pragmatist's Choice
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 Many financial advisors in India recommend 'Credit Counseling' as the first step for distressed borrowers. Organizations like Disha or Abhay provide free advice on how to restructure your budget. However, there is a fundamental limitation to counseling: it does not reduce the principal amount you owe.
               </p>
@@ -461,7 +461,7 @@ export default function FeesSuccessRatePage() {
                 Counseling is ideal for borrowers who have had a temporary 'Cash Flow' issue but can still afford to pay 100% of their debt over a longer period. Debt Settlement is for those in 'Structural Insolvency'where even with the best budgeting in the world, the debt is mathematically unpayable due to compounded interest. 
               </p>
               <div className="bg-slate-50 p-10 rounded-3xl border border-slate-200 my-10">
-                <h3 className="font-black text-2xl mb-4">The "Survival" Audit:</h3>
+                <h4 className="font-black text-2xl mb-4">The "Survival" Audit:</h4>
                 <p className="text-lg leading-relaxed mb-4 italic">
                   "If your total monthly EMI exceeds 60% of your take-home pay, you are in a debt trap. Counseling might lower that to 50%, but you will still be one medical emergency away from total collapse. Settlement aims to bring your total debt down to a level where you can clear it in a single stroke, allowing you to restart your financial life with a clean slate."
                 </p>
@@ -469,26 +469,26 @@ export default function FeesSuccessRatePage() {
             </section>
 
             <section id="post-settlement-wealth" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#1A1A1A] mb-8 leading-tight">
+              <h3 className="text-3xl md:text-4xl font-black text-[#1A1A1A] mb-8 leading-tight">
                 Wealth Rebuilding: The Day After Settlement
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 Settling your debt is the end of a nightmare, but it is also the beginning of a new responsibility. Most people who settle once are at a high risk of falling back into debt because they haven't changed their 'Credit Consumption' habits.
               </p>
-              <h3 className="text-2xl font-bold mt-12 mb-6 text-[#1A1A1A]">The "Cash Only" Transition Period</h3>
+              <h4 className="text-2xl font-bold mt-12 mb-6 text-[#1A1A1A]">The "Cash Only" Transition Period</h4>
               <p className="text-lg leading-relaxed mb-6">
                 For the first 12 months post-settlement, your priority must be to live on a 100% cash basis. No 'Buy Now Pay Later' (BNPL) apps, no credit cards, and no personal loans. This period is critical for retraining your brain to understand the value of liquid capital versus debt-fueled spending.
               </p>
-              <h3 className="text-2xl font-bold mt-12 mb-6 text-[#1A1A1A]">Emergency Fund Architecture</h3>
+              <h4 className="text-2xl font-bold mt-12 mb-6 text-[#1A1A1A]">Emergency Fund Architecture</h4>
               <p className="text-lg leading-relaxed mb-6">
                 The money you were previously paying as EMIs must now go into an Emergency Fund. In the Indian economy, where job security is fluctuating, you need at least 6 months of basic living expenses in a liquid savings account or a high-interest Fixed Deposit. This fund is your 'Buffer against Recurrence'the next time a crisis hits, you will have cash, not a credit card, to deal with it.
               </p>
             </section>
 
             <section id="historical-waiver-evolution" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#1A1A1A] mb-8 leading-tight">
+              <h3 className="text-3xl md:text-4xl font-black text-[#1A1A1A] mb-8 leading-tight">
                 Historical Evolution of Debt Waivers in India (1990-2024)
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 The concept of 'Settlement' has evolved significantly with the Indian economy. In the 1990s, credit was tight, and defaults were rare. Banks followed a 'Total Recovery' policy with almost zero waivers. The 2008 global financial crisis was the first major turning point, as Indian banks saw a surge in NPAs and realized that receiving 50% was better than receiving 0% after a decade of litigation.
               </p>
@@ -498,9 +498,9 @@ export default function FeesSuccessRatePage() {
             </section>
 
             <section id="philosophy-of-sobriety" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#1A1A1A] mb-8 leading-tight">
+              <h3 className="text-3xl md:text-4xl font-black text-[#1A1A1A] mb-8 leading-tight">
                 The Philosophy of Debt Sobriety: Staying Clean
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 At <strong>SettleLoans</strong>, we believe that settlement is a tool for liberation, but it must be accompanied by a philosophical shift. Total Debt Sobriety is the state of mind where you view credit not as 'extra income' but as a high-velocity liability.
               </p>
@@ -510,16 +510,16 @@ export default function FeesSuccessRatePage() {
             </section>
 
             <section id="moral-compass-debt" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#1A1A1A] mb-8 leading-tight">
+              <h3 className="text-3xl md:text-4xl font-black text-[#1A1A1A] mb-8 leading-tight">
                 The Moral Compass of Debt Settlement: Reclaiming Your Life
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 One of the most significant barriers to seeking debt relief is the feeling of moral failure. Many borrowers in India are raised with the value that "all debts must be paid in full." While this is a noble principle, it often fails to account for the predatory nature of modern compounded interest.
               </p>
               <p className="text-lg leading-relaxed mb-6">
                 When a bank charges 42% interest, they have already priced in the risk of default. You are not 'stealing' from the bank; you are renegotiating a commercial contract that has become unsustainable due to unforeseen circumstances. Reclaiming your life through settlement is not an act of dishonesty; it is an act of survival and financial responsibility toward your family.
               </p>
-              <h3 className="text-2xl font-bold mt-12 mb-6 text-[#1A1A1A]">The Ripple Effect: Impact on Family and Business</h3>
+              <h4 className="text-2xl font-bold mt-12 mb-6 text-[#1A1A1A]">The Ripple Effect: Impact on Family and Business</h4>
               <p className="text-lg leading-relaxed mb-6">
                 Unresolved debt doesn't just sit on a balance sheet; it impacts the health, education, and future of every family member. The stress of constant recovery calls can lead to mental health crises and the breakdown of relationships. In a business context, debt overhang prevents you from taking new risks and growing your enterprise.
               </p>
@@ -529,9 +529,9 @@ export default function FeesSuccessRatePage() {
             </section>
 
             <section id="hidden-charges-checklist" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#1A1A1A] mb-8 leading-tight">
+              <h3 className="text-3xl md:text-4xl font-black text-[#1A1A1A] mb-8 leading-tight">
                 Hidden Charges: The "Fine Print" to Watch For
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 When comparing fees, the headline number is often a distraction. A firm charging 15% might end up being more expensive than one charging 20% if they add ad-hoc costs. Ensure your contract covers the following:
               </p>
@@ -549,7 +549,7 @@ export default function FeesSuccessRatePage() {
             </section>
 
             <section id="success-stories" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 text-center uppercase tracking-wider">Real Stories of Freedom</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 text-center uppercase tracking-wider">Real Stories of Freedom</h3>
               <div className="grid md:grid-cols-2 gap-6 not-prose">
                 {[
                   {
@@ -587,7 +587,7 @@ export default function FeesSuccessRatePage() {
                         {review.name.charAt(0)}
                       </div>
                       <div>
-                        <h3 className="font-bold text-[#1A1A1A]">{review.name}</h3>
+                        <h4 className="font-bold text-[#1A1A1A]">{review.name}</h4>
                         <p className="text-xs text-gray-400">{review.loc}</p>
                       </div>
                       <div className="ml-auto text-yellow-400 text-sm">★★★★★</div>
@@ -602,7 +602,7 @@ export default function FeesSuccessRatePage() {
             </section>
 
             <section id="faqs" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 uppercase tracking-wider border-b-4 border-[#1F5EFF] inline-block">FAQ: Fees & Reliability</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 uppercase tracking-wider border-b-4 border-[#1F5EFF] inline-block">FAQ: Fees & Reliability</h3>
               <div className="space-y-4 not-prose">
                 {faqs.map((faq, i) => (
                   <details key={i} className="group bg-[#F9F9F9] border border-[#DEDEDE] rounded-xl overflow-hidden hover:border-[#FFD700] transition-all">
@@ -621,7 +621,7 @@ export default function FeesSuccessRatePage() {
             </section>
 
             <div className="mt-16 p-8 bg-gray-900 rounded-3xl text-white">
-              <h3 className="text-2xl font-bold mb-4">Want a transparent cost analysis?</h3>
+              <h4 className="text-2xl font-bold mb-4">Want a transparent cost analysis?</h4>
               <p className="text-white/70 mb-6">Connect with our consultants for a detailed fee breakdown based on your debt portfolio. No hidden costs, just honest debt relief.</p>
               <Link href="/contact" className="inline-block bg-[#1F5EFF] text-white font-black py-4 px-8 rounded-xl hover:scale-105 transition-all">
                 Get a Free Quote
@@ -632,7 +632,7 @@ export default function FeesSuccessRatePage() {
             <div className="lg:hidden mt-16 mb-8">
               <div className="bg-[#2E2E2E] rounded-2xl shadow-xl overflow-hidden border border-[#1F5EFF]/20">
                 <div className="bg-[#1F5EFF] p-6 text-center text-white">
-                  <h3 className="text-2xl font-black mb-2">Ready to Start Over?</h3>
+                  <h4 className="text-2xl font-black mb-2">Ready to Start Over?</h4>
                   <p className="opacity-90 text-sm">Join the 10,000+ Indians we've helped find their way to financial freedom.</p>
                 </div>
                 <div className="p-8 text-center text-[#DEDEDE]">

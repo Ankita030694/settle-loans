@@ -262,9 +262,9 @@ export default function CheckLoanStatusPANPage() {
             </section>
 
             <section id="role-of-credit-bureaus" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 The Role of Credit Bureaus in Tracking PAN Data
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 In India, your Permanent Account Number (PAN) acts as the primary financial identifier across all banking institutions. Whenever a bank or Non-Banking Financial Company (NBFC) issues a loan, they are legally required to report it to the four major credit bureaus recognized by the Reserve Bank of India: TransUnion CIBIL, Experian, Equifax, and CRIF High Mark.
               </p>
@@ -279,34 +279,34 @@ export default function CheckLoanStatusPANPage() {
             </section>
 
             <section id="common-fraud-tricks" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 Common Tricks Used by Fraudsters
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 How do criminals manage to secure a loan just by having your PAN number? Over the past few years, the methods have evolved into highly sophisticated synthetic identity operations. By understanding these tactics, you can better protect yourself during a PAN card loan fraud check.
               </p>
               
               <div className="grid md:grid-cols-2 gap-6 my-8">
                 <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
-                  <h3 className="font-black text-[#1F5EFF] text-lg mb-3">Synthetic Identity Fraud</h3>
+                  <h4 className="font-black text-[#1F5EFF] text-lg mb-3">Synthetic Identity Fraud</h4>
                   <p className="text-gray-700 leading-relaxed">
                     Criminals combine real information (your PAN card number) with fake information (a burner phone number and a forged address). The automated system checks the PAN, sees a good CIBIL score, and approves the loan, sending the money to the fraudster.
                   </p>
                 </div>
                 <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
-                  <h4 className="font-black text-[#1F5EFF] text-lg mb-3">Unregulated Payday Apps</h4>
+                  <h5 className="font-black text-[#1F5EFF] text-lg mb-3">Unregulated Payday Apps</h5>
                   <p className="text-gray-700 leading-relaxed">
                     The dark web is flooded with unregulated, instant loan apps that perform zero physical KYC. These apps disburse small amounts (₹5,000 to ₹15,000) merely by uploading a manipulated photo of a PAN card, completely bypassing OTP verification.
                   </p>
                 </div>
                 <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
-                  <h4 className="font-black text-[#1F5EFF] text-lg mb-3">Data Breaches</h4>
+                  <h5 className="font-black text-[#1F5EFF] text-lg mb-3">Data Breaches</h5>
                   <p className="text-gray-700 leading-relaxed">
                     Have you ever submitted a photocopy of your PAN card to a local real estate agent, a hotel desk, or a mobile sim retailer? These physical copies are frequently stolen, scanned, and sold in bulk to criminal syndicates.
                   </p>
                 </div>
                 <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
-                  <h4 className="font-black text-[#1F5EFF] text-lg mb-3">Phishing Scams</h4>
+                  <h5 className="font-black text-[#1F5EFF] text-lg mb-3">Phishing Scams</h5>
                   <p className="text-gray-700 leading-relaxed">
                     Fraudsters send fake SMS messages or emails pretending to be from the Income Tax Department or your bank, asking you to "update your PAN details." Clicking the link hands over complete control of your financial identity.
                   </p>
@@ -315,9 +315,9 @@ export default function CheckLoanStatusPANPage() {
             </section>
 
             <section id="how-to-check-active-loans" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 How to Check Active Loans Using PAN Number
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 The only foolproof way to <strong>check active loans via PAN number</strong> is by pulling a detailed credit report. Every single loan attached to your PAN is legally required to be reported to credit bureaus like CIBIL, Experian, or Equifax.
               </p>
@@ -326,7 +326,7 @@ export default function CheckLoanStatusPANPage() {
                 <div className="flex gap-6">
                   <div className="flex-shrink-0 w-12 h-12 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center font-black text-xl shadow-lg">1</div>
                   <div>
-                    <h3 className="text-2xl font-bold text-[#2E2E2E] mb-2">Visit an Official Credit Bureau</h3>
+                    <h4 className="text-2xl font-bold text-[#2E2E2E] mb-2">Visit an Official Credit Bureau</h4>
                     <p className="text-lg text-gray-700 leading-relaxed">
                       Go to the official website of CIBIL or Experian. Alternatively, you can use trusted financial apps that offer free credit score checks using your PAN details.
                     </p>
@@ -336,7 +336,7 @@ export default function CheckLoanStatusPANPage() {
                 <div className="flex gap-6">
                   <div className="flex-shrink-0 w-12 h-12 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center font-black text-xl shadow-lg">2</div>
                   <div>
-                    <h3 className="text-2xl font-bold text-[#2E2E2E] mb-2">Enter Your PAN and Details</h3>
+                    <h4 className="text-2xl font-bold text-[#2E2E2E] mb-2">Enter Your PAN and Details</h4>
                     <p className="text-lg text-gray-700 leading-relaxed">
                       Input your name exactly as it appears on your PAN card, your PAN number, date of birth, and registered mobile number. Complete the OTP verification.
                     </p>
@@ -346,7 +346,7 @@ export default function CheckLoanStatusPANPage() {
                 <div className="flex gap-6">
                   <div className="flex-shrink-0 w-12 h-12 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center font-black text-xl shadow-lg">3</div>
                   <div>
-                    <h3 className="text-2xl font-bold text-[#2E2E2E] mb-2">Download Your Detailed Report</h3>
+                    <h4 className="text-2xl font-bold text-[#2E2E2E] mb-2">Download Your Detailed Report</h4>
                     <p className="text-lg text-gray-700 leading-relaxed">
                       Do not just look at the score. Download the full PDF report and navigate to the "Account Information" or "Active Loans" section. This will show every loan tied to your PAN card.
                     </p>
@@ -362,34 +362,34 @@ export default function CheckLoanStatusPANPage() {
             </section>
 
             <section id="identifying-fake-loans" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 Identifying Fake Loans on Your Report
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 Once you have your report open, you need to conduct a forensic review of the account section. Look for the following red flags that indicate identity theft.
               </p>
 
               <div className="grid md:grid-cols-2 gap-6 my-8">
                 <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
-                  <h3 className="font-black text-[#1F5EFF] text-lg mb-3">Unknown NBFCs</h3>
+                  <h4 className="font-black text-[#1F5EFF] text-lg mb-3">Unknown NBFCs</h4>
                   <p className="text-gray-700 leading-relaxed">
                     Fraudsters rarely use major banks. Look for strange NBFC names or obscure digital lending partners that you have never done business with.
                   </p>
                 </div>
                 <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
-                  <h4 className="font-black text-[#1F5EFF] text-lg mb-3">Small Ticket Loans</h4>
+                  <h5 className="font-black text-[#1F5EFF] text-lg mb-3">Small Ticket Loans</h5>
                   <p className="text-gray-700 leading-relaxed">
                     Fake loans are often small amounts ranging from ₹2,000 to ₹10,000. These are typical of instant payday loan apps that bypass strict KYC.
                   </p>
                 </div>
                 <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
-                  <h4 className="font-black text-[#1F5EFF] text-lg mb-3">Unrecognized Enquiries</h4>
+                  <h5 className="font-black text-[#1F5EFF] text-lg mb-3">Unrecognized Enquiries</h5>
                   <p className="text-gray-700 leading-relaxed">
                     Check the "Enquiries" section at the bottom. Multiple hard inquiries from lenders you didn't apply to means someone is actively shopping for loans using your PAN.
                   </p>
                 </div>
                 <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
-                  <h4 className="font-black text-[#1F5EFF] text-lg mb-3">Mismatched Addresses</h4>
+                  <h5 className="font-black text-[#1F5EFF] text-lg mb-3">Mismatched Addresses</h5>
                   <p className="text-gray-700 leading-relaxed">
                     Review the personal information section. If there are addresses or phone numbers listed that you do not recognize, it's a major sign of identity theft.
                   </p>
@@ -398,15 +398,15 @@ export default function CheckLoanStatusPANPage() {
             </section>
 
             <section id="legal-rights-of-victim" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 Legal Rights of the Victim
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 If you discover an active loan on your PAN card that you never applied for, it is natural to feel overwhelmed. However, the Reserve Bank of India and Indian consumer laws provide robust protections for victims of identity theft. You are not at the mercy of the lender or the recovery agents.
               </p>
 
               <div className="bg-blue-50 border-l-8 border-[#1F5EFF] p-8 rounded-r-2xl mb-8">
-                <h3 className="text-xl font-black text-[#1F5EFF] mb-4">Your Key Legal Protections</h3>
+                <h4 className="text-xl font-black text-[#1F5EFF] mb-4">Your Key Legal Protections</h4>
                 <p className="text-blue-900 text-lg leading-relaxed mb-4">
                   Under the RBI's Fair Practices Code and Digital Lending Guidelines, you have specific rights when dealing with fraudulent loans:
                 </p>
@@ -432,15 +432,15 @@ export default function CheckLoanStatusPANPage() {
             </section>
 
             <section id="what-to-do-if-you-find-fraud" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 What to Do If You Find a Fake Loan
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 If your PAN card loan fraud check reveals an unauthorized loan, do not panic, but act immediately. You are not liable to pay it, but the burden of proof is on you.
               </p>
 
               <div className="bg-white p-8 border border-[#DEDEDE] rounded-2xl shadow-sm mb-8">
-                <h3 className="text-xl font-bold mb-4 text-[#2E2E2E] underline">Immediate Action Plan</h3>
+                <h4 className="text-xl font-bold mb-4 text-[#2E2E2E] underline">Immediate Action Plan</h4>
                 <ul className="text-sm space-y-3 font-medium list-none text-gray-700">
                   <li className="flex items-start gap-2"><span className="w-1.5 h-1.5 bg-[#1F5EFF] rounded-full mt-2"></span> <strong>1. File an FIR / Cyber Complaint:</strong> Go to the cybercrime portal or local police station. An FIR is critical to legally prove identity theft.</li>
                   <li className="flex items-start gap-2"><span className="w-1.5 h-1.5 bg-[#1F5EFF] rounded-full mt-2"></span> <strong>2. Dispute with Bureau:</strong> Log into CIBIL/Experian and raise an official dispute against the fraudulent account number.</li>
@@ -449,7 +449,7 @@ export default function CheckLoanStatusPANPage() {
               </div>
               
               <div className="bg-red-50 p-6 rounded-xl border border-red-100 mb-8">
-                <h4 className="text-xl font-black text-red-700 mb-3">Warning: Do Not Ignore It</h4>
+                <h5 className="text-xl font-black text-red-700 mb-3">Warning: Do Not Ignore It</h5>
                 <p className="text-red-900 leading-relaxed">
                   Ignoring a fake loan will lead to the fraudsters defaulting on it. This will crash your CIBIL score below 500, invite harassment from recovery agents to your phone, and completely block you from getting home, education, or business loans in the future.
                 </p>
@@ -457,30 +457,30 @@ export default function CheckLoanStatusPANPage() {
             </section>
             
             <section id="preventive-measures" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 Preventing Future PAN Card Misuse
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 While you cannot change your PAN number, you can take multiple proactive steps to minimize the risk of it being misused again. Because PAN is so widely used in India, safeguarding physical and digital copies of the document is extremely important.
               </p>
               
               <div className="space-y-8">
                 <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
-                  <h3 className="font-black text-[#1F5EFF] text-lg mb-2">1. Mask Your Copies</h3>
+                  <h4 className="font-black text-[#1F5EFF] text-lg mb-2">1. Mask Your Copies</h4>
                   <p className="text-gray-700 leading-relaxed">
                     Never share photocopies of your PAN card with unverified entities. If you must submit a copy for official purposes, clearly write the date and specific purpose across the photocopy (e.g., "Submitted to XYZ Bank for KYC only on 15/08"). This makes the physical copy extremely hard to reuse.
                   </p>
                 </div>
                 
                 <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
-                  <h4 className="font-black text-[#1F5EFF] text-lg mb-2">2. Lock Biometrics via Aadhaar</h4>
+                  <h5 className="font-black text-[#1F5EFF] text-lg mb-2">2. Lock Biometrics via Aadhaar</h5>
                   <p className="text-gray-700 leading-relaxed">
                     Fraudsters often use a stolen PAN card in combination with a compromised Aadhaar e-KYC process. By logging into the UIDAI portal and locking your Aadhaar biometrics, you add an impenetrable secondary layer of security against instant loan apps.
                   </p>
                 </div>
                 
                 <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
-                  <h4 className="font-black text-[#1F5EFF] text-lg mb-2">3. Set Up Credit Alerts</h4>
+                  <h5 className="font-black text-[#1F5EFF] text-lg mb-2">3. Set Up Credit Alerts</h5>
                   <p className="text-gray-700 leading-relaxed">
                     Subscribe to premium services offered by credit bureaus or trusted fintech apps that send you real-time SMS or email alerts whenever a new hard inquiry is made on your PAN card or when a new loan account is opened. Early detection is your strongest defense against undetected fraud.
                   </p>
@@ -489,9 +489,9 @@ export default function CheckLoanStatusPANPage() {
             </section>
 
             <section id="success-stories" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 Fraud Resolution Success Stories
-              </h2>
+              </h3>
               <div className="grid md:grid-cols-2 gap-6 my-8">
                 <div className="bg-white p-8 rounded-[30px] border border-[#DEDEDE] shadow-sm hover:shadow-xl group transition-all">
                   <div className="flex items-center gap-4 mb-6">
@@ -499,7 +499,7 @@ export default function CheckLoanStatusPANPage() {
                       RM
                     </div>
                     <div>
-                      <h3 className="font-bold text-gray-900">Rahul M.</h3>
+                      <h4 className="font-bold text-gray-900">Rahul M.</h4>
                       <div className="flex text-yellow-400">
                         <svg className="w-4 h-4 fill-current" viewBox="0 0 20 20"><path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z"/></svg>
                         <svg className="w-4 h-4 fill-current" viewBox="0 0 20 20"><path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z"/></svg>
@@ -524,7 +524,7 @@ export default function CheckLoanStatusPANPage() {
                       SP
                     </div>
                     <div>
-                      <h4 className="font-bold text-gray-900">Simran P.</h4>
+                      <h5 className="font-bold text-gray-900">Simran P.</h5>
                       <div className="flex text-yellow-400">
                         <svg className="w-4 h-4 fill-current" viewBox="0 0 20 20"><path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z"/></svg>
                         <svg className="w-4 h-4 fill-current" viewBox="0 0 20 20"><path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z"/></svg>
@@ -546,13 +546,13 @@ export default function CheckLoanStatusPANPage() {
             </section>
 
             <section id="faqs" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 Frequently Asked Questions
-              </h2>
+              </h3>
               <div className="space-y-4">
                 {jsonLd["@graph"].find(item => item["@type"] === "FAQPage")?.mainEntity?.map((faq: any, index: number) => (
                   <div key={index} className="bg-white border border-[#DEDEDE] rounded-xl p-6 hover:shadow-md transition-shadow">
-                    <h3 className="text-xl font-bold text-[#2E2E2E] mb-3">{faq.name}</h3>
+                    <h4 className="text-xl font-bold text-[#2E2E2E] mb-3">{faq.name}</h4>
                     <p className="text-gray-700 leading-relaxed">{faq.acceptedAnswer.text}</p>
                   </div>
                 ))}
@@ -561,7 +561,7 @@ export default function CheckLoanStatusPANPage() {
 
             <div className="bg-[#2E2E2E] text-white p-12 rounded-[40px] text-center mt-24 relative overflow-hidden group">
               <div className="absolute inset-0 bg-[#1F5EFF] opacity-0 group-hover:opacity-5 transition-opacity"></div>
-              <h3 className="text-3xl font-black mb-6 relative z-10">Stop Fake Loans on Your PAN Today</h3>
+              <h4 className="text-3xl font-black mb-6 relative z-10">Stop Fake Loans on Your PAN Today</h4>
               <p className="text-xl opacity-90 mb-8 relative z-10 max-w-2xl mx-auto">
                 Are there fake loans running on your PAN card without your knowledge? Learn how to instantly check every active loan tied to your name. Let our legal team help you clear your credit report of fraudulent entries.
               </p>

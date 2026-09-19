@@ -223,15 +223,15 @@ export default function UnsecuredLoanLawyerPage() {
                     </aside>
                     <article className="w-full lg:w-3/5 flex-1 prose prose-slate max-w-none">
                         <section id="introduction"><h2>Introduction</h2><div className="content"></div></section>
-                        <section id="legal-definition"><h2>Legal Definition</h2><div className="content"></div></section>
+                        <section id="legal-definition"><h3>Legal Definition</h3><div className="content"></div></section>
                         <section id="harassment-protection" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">
                                 Drawing the Line: Protection from Collection Harassment
-                            </h2>
+                            </h3>
                             <p className="text-lg text-gray-700 leading-relaxed mb-6">
                                 The number one complaint of unsecured loan borrowers is the relentless harassment from third-party recovery agents. This includes persistent calling, visits to the workplace, shaming on social media, or contacting friends and family. In many cases, the agents use software to mask their numbers, making it difficult for the borrower to block them, or they call from multiple different numbers throughout the day.
                             </p>
-                            <h3 className="text-2xl font-bold text-[#2E2E2E] mb-4">What Constitutes Illegal Harassment?</h3>
+                            <h4 className="text-2xl font-bold text-[#2E2E2E] mb-4">What Constitutes Illegal Harassment?</h4>
                             <p className="text-lg text-gray-700 leading-relaxed mb-6">
                                 Under Indian law and RBI guidelines, the following actions are strictly prohibited and can be punished with heavy fines on the bank. It is crucial for borrowers to recognize these illegal behaviors so that they can document them for legal action:
                             </p>
@@ -242,7 +242,7 @@ export default function UnsecuredLoanLawyerPage() {
                                 <li><strong>Criminal Intimidation:</strong> Any use of muscle power, abusive language, or physical threats is a criminal offence under Section 506 and 509 of the Indian Penal Code. If an agent enters your house without permission, it is criminal trespass.</li>
                             </ul>
                             <div className="bg-yellow-50 p-6 rounded-xl border border-yellow-200 mb-8">
-                                <h4 className="font-bold text-[#856404] mb-2 uppercase text-sm tracking-widest">Action Step: The Documentation Strategy</h4>
+                                <h5 className="font-bold text-[#856404] mb-2 uppercase text-sm tracking-widest">Action Step: The Documentation Strategy</h5>
                                 <p className="text-[#856404] text-sm font-medium">Record every call using a call-recording app. Save every WhatsApp message and SMS. Do not delete emails. If agents visit your home, try to record the interaction on your phone or a CCTV. A single recording of a recovery agent using abusive language or making an illegal threat can be used by your lawyer to file a counter-suit or a criminal complaint, which often forces the bank to settle for a fraction of the debt or even write it off entirely to avoid high-profile litigation and RBI penalties.</p>
                             </div>
                             <p className="text-lg text-gray-700 leading-relaxed mb-6">
@@ -254,9 +254,9 @@ export default function UnsecuredLoanLawyerPage() {
                         </section>
 
                         <section id="rbi-guidelines" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 uppercase tracking-tight">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 uppercase tracking-tight">
                                 RBI Master Circulars: The Borrower's Bill of Rights
-                            </h2>
+                            </h3>
                             <p className="text-lg text-gray-700 leading-relaxed mb-6">
                                 The Reserve Bank of India (RBI) is the primary regulator and has issued several 'Master Circulars' that govern how banks and NBFCs should behave. The most critical one is the 'Fair Practice Code' for lenders. The 2022 RBI notification on 'Outsourcing of Financial Services' specifically mandates that banks are fully responsible for the actions of their outsourced agents.
                             </p>
@@ -277,13 +277,13 @@ export default function UnsecuredLoanLawyerPage() {
                             </p>
                         </section>
                         <section id="drt-vs-civil" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 uppercase tracking-tight">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 uppercase tracking-tight">
                                 The Legal Arena: DRT vs. Civil Courts
-                            </h2>
+                            </h3>
                             <p className="text-lg text-gray-700 leading-relaxed mb-6">
                                 Where the bank sues you depends on how much you owe. Understanding the jurisdiction is the first step in building a defense.
                             </p>
-                            <h3 className="text-2xl font-bold text-[#2E2E2E] mb-4">Debt Recovery Tribunal (DRT)</h3>
+                            <h4 className="text-2xl font-bold text-[#2E2E2E] mb-4">Debt Recovery Tribunal (DRT)</h4>
                             <p className="text-lg text-gray-700 leading-relaxed mb-6">
                                 If the total outstanding (Principal + Interest + Penalties) is above ₹20 Lakh, the bank or NBFC will move the Debt Recovery Tribunal (DRT) by filing an Original Application (OA). The DRT was established for the 'expeditious' recovery of bank dues. However, 'expeditious' does not mean 'automatic'.
                             </p>
@@ -295,7 +295,7 @@ export default function UnsecuredLoanLawyerPage() {
                                 <li><strong>Evidence of Disbursement:</strong> The bank must prove that every rupee they are claiming was actually disbursed to you. If their record-keeping is faulty, the claim can be challenged.</li>
                                 <li><strong>Service of Proper Notice:</strong> If the bank didn't send a mandatory demand notice before moving the DRT, the application can be stayed or dismissed as premature.</li>
                             </ul>
-                            <h3 className="text-2xl font-bold text-[#2E2E2E] mb-4">Civil Suit for Recovery (Order 37)</h3>
+                            <h4 className="text-2xl font-bold text-[#2E2E2E] mb-4">Civil Suit for Recovery (Order 37)</h4>
                             <p className="text-lg text-gray-700 leading-relaxed mb-6">
                                 For loans below ₹20 Lakh, banks file a civil suit in the District Court. Most often, they use 'Order 37 of the Civil Procedure Code' which is a 'Summary Suit'. This is a faster process where the defendant (the borrower) does not have an automatic right to defend the case.
                             </p>
@@ -308,9 +308,9 @@ export default function UnsecuredLoanLawyerPage() {
                         </section>
 
                         <section id="settlement-strategies" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">
                                 One-Time Settlement (OTS): The Art of the Negotiated Haircut
-                            </h2>
+                            </h3>
                             <p className="text-lg text-gray-700 leading-relaxed mb-6">
                                 Most unsecured loan cases don't end in a judgment; they end in a settlement. Banks know that recovering money from an individual without assets is difficult and expensive. They would rather take 50% of the money today than fight for 100% for five years. This is the logic we use to get our clients the best deals.
                             </p>
@@ -328,7 +328,7 @@ export default function UnsecuredLoanLawyerPage() {
                                     <li>- <strong>Proposed Source of Funds:</strong> Banks are more likely to settle if they know where the money is coming from (e.g., "my сестра is lending me this one-time amount to close my debts").</li>
                                 </ul>
                             </div>
-                            <h3 className="text-2xl font-bold text-[#2E2E2E] mb-4">The Pitfalls of DIY Settlement</h3>
+                            <h4 className="text-2xl font-bold text-[#2E2E2E] mb-4">The Pitfalls of DIY Settlement</h4>
                             <p className="text-lg text-gray-700 leading-relaxed mb-6">
                                 Many borrowers try to settle themselves and fall into traps. For example, a bank might ask you to make a small 'token payment' to 'show your intent'. UNLESS you have a written settlement offer letter (on bank letterhead), that token payment will just be adjusted against interest, and the clock for the Limitation Act will be restarted.
                             </p>
@@ -343,9 +343,9 @@ export default function UnsecuredLoanLawyerPage() {
                             </ul>
                         </section>
                         <section id="legal-loopholes" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">
                                 Expert Defences and Legal Loopholes
-                            </h2>
+                            </h3>
                             <p className="text-lg text-gray-700 leading-relaxed mb-6">
                                 Even in a simple loan case, banks and NBFCs make mistakes. These mistakes are the 'loopholes' that can save a borrower from a decree or help them negotiate a much better settlement. A specialized lawyer looks for these procedural and substantive errors during a 'Legal Audit' of the loan documents.
                             </p>
@@ -362,13 +362,13 @@ export default function UnsecuredLoanLawyerPage() {
                         </section>
 
                         <section id="limitation-act" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 uppercase tracking-tight">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 uppercase tracking-tight">
                                 The Limitation Act: When the Debt Dies Legally
-                            </h2>
+                            </h3>
                             <p className="text-lg text-gray-700 leading-relaxed mb-6">
                                 This is perhaps the most powerful tool in the arsenal of an unsecured loan borrower. The 'Law of Limitation' dictates that there is a fixed time within which a legal right must be exercised. If the bank misses this window, they lose the right to use the court to recover the money.
                             </p>
-                            <h3 className="text-2xl font-bold text-[#2E2E2E] mb-4">The 3-Year Rule</h3>
+                            <h4 className="text-2xl font-bold text-[#2E2E2E] mb-4">The 3-Year Rule</h4>
                             <p className="text-lg text-gray-700 leading-relaxed mb-6">
                                 Under Article 19 and 21 of the Limitation Act, 1963, a lender has exactly 3 years to file a suit for recovery of money. But when does this 3-year clock start?
                             </p>
@@ -388,13 +388,13 @@ export default function UnsecuredLoanLawyerPage() {
                             </p>
                         </section>
                         <section id="cibil-management" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">
                                 CIBIL Repair: Life After Debt Settlement
-                            </h2>
+                            </h3>
                             <p className="text-lg text-gray-700 leading-relaxed mb-6">
                                 One of the biggest fears borrowers have is the impact on their CIBIL score. It is a fact: defaulting on a loan will tank your score. However, a 'Settlement' is better than an 'Active Default'.
                             </p>
-                            <h3 className="text-2xl font-bold text-[#2E2E2E] mb-4">'Settled' vs. 'Closed'</h3>
+                            <h4 className="text-2xl font-bold text-[#2E2E2E] mb-4">'Settled' vs. 'Closed'</h4>
                             <p className="text-lg text-gray-700 leading-relaxed mb-6">
                                 When you settle a loan for less than the full amount, the bank reports the status to CIBIL as 'Settled'. If you pay the full amount (including all interest and penalties), it is reported as 'Closed'.
                             </p>
@@ -408,15 +408,15 @@ export default function UnsecuredLoanLawyerPage() {
                                 <li><strong>Full Payment Upgrade:</strong> If your financial situation improves in the future, you can pay the 'Haircut' amount back to the bank and ask them to change the status from 'Settled' to 'Closed'. This is the gold standard for credit repair.</li>
                             </ul>
                             <div className="bg-blue-900 p-8 rounded-[20px] text-white my-12 shadow-2xl">
-                                <h4 className="text-2xl font-bold mb-4">Pro Tip: The Commercial CIBIL</h4>
+                                <h5 className="text-2xl font-bold mb-4">Pro Tip: The Commercial CIBIL</h5>
                                 <p className="opacity-90 leading-relaxed uppercase tracking-tighter text-sm font-bold">If you are a business owner, your personal loan defaults also affect your 'CMR' (Company MSME Rank). A lawyer can help you separate your business liabilities from your personal ones to protect your company's credit lines while you resolve your personal debts.</p>
                             </div>
                         </section>
 
                         <section id="success-stories" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 uppercase tracking-tight text-center">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 uppercase tracking-tight text-center">
                                 Real Impact: Success Stories in Unsecured Loan Defence
-                            </h2>
+                            </h3>
                             <p className="text-lg text-gray-700 leading-relaxed mb-8 text-center">
                                 To understand the power of expert legal representation, look at these real-world examples.
                             </p>
@@ -457,7 +457,7 @@ export default function UnsecuredLoanLawyerPage() {
                                                 {review.name.charAt(0)}
                                             </div>
                                             <div>
-                                                <h3 className="font-bold text-[#2E2E2E]">{review.name}</h3>
+                                                <h4 className="font-bold text-[#2E2E2E]">{review.name}</h4>
                                                 <p className="text-xs text-gray-400">{review.loc}</p>
                                             </div>
                                             <div className="ml-auto text-yellow-400 text-sm">
@@ -477,9 +477,9 @@ export default function UnsecuredLoanLawyerPage() {
                         </section>
 
                         <section id="psychological-resilience" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">
                                 The Human Element: Building Psychological Resilience
-                            </h2>
+                            </h3>
                             <p className="text-lg text-gray-700 leading-relaxed mb-6">
                                 Debt is not just a financial number; it is a weight on the soul. In our years of practice, we have seen that the biggest obstacle to a successful legal resolution is not the law: it is the borrower's own fear and shame. Banks exploit this shame. They want you to feel isolated, as if you are the only person in India who has ever missed an EMI.
                             </p>
@@ -487,7 +487,7 @@ export default function UnsecuredLoanLawyerPage() {
                                 The truth is that millions of Indians face financial distress every year. The economy has cycles, and business failures are a natural part of any capitalist system. Your worth as a human being is not defined by your credit score.
                             </p>
                             <div className="bg-green-50 p-8 rounded-3xl border border-green-200 mb-10">
-                                <h3 className="text-xl font-bold text-green-800 mb-4">Five Pillars of Debt Resilience:</h3>
+                                <h4 className="text-xl font-bold text-green-800 mb-4">Five Pillars of Debt Resilience:</h4>
                                 <ul className="space-y-4 text-green-900 font-medium">
                                     <li>1. <strong>Acceptance:</strong> Stop hiding from the truth. Open the letters. Answer the calls (or let your lawyer do it). Facing the problem is the first step to solving it.</li>
                                     <li>2. <strong>Transparency:</strong> Talk to your family. Most borrowers hide their debt until it's too late. Your family is your support system. They deserve to know the truth.</li>
@@ -499,23 +499,23 @@ export default function UnsecuredLoanLawyerPage() {
                         </section>
 
                         <section id="advanced-case-law" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 uppercase tracking-tight">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 uppercase tracking-tight">
                                 Advanced Case Law: Precedents that Protect You
-                            </h2>
+                            </h3>
                             <p className="text-lg text-gray-700 leading-relaxed mb-6">
                                 The Indian Judiciary has consistently stood up for the rights of borrowers against the might of the financial institutions. Here are some landmark judgments that every unsecured loan lawyer uses in their arguments:
                             </p>
                             <div className="space-y-8">
                                 <div className="p-6 bg-gray-50 rounded-2xl border-l-4 border-[#1F5EFF]">
-                                    <h3 className="font-bold text-lg mb-2 text-[#2E2E2E]">ICICI Bank vs. Prakash Kaur (Supreme Court of India)</h3>
+                                    <h4 className="font-bold text-lg mb-2 text-[#2E2E2E]">ICICI Bank vs. Prakash Kaur (Supreme Court of India)</h4>
                                     <p className="text-gray-700">The Court observed that banks cannot use 'musclemen' or goons to recover loans. They must follow the 'procedure established by law'. This judgment is the foundation of almost all harassment-related litigation in India.</p>
                                 </div>
                                 <div className="p-6 bg-gray-50 rounded-2xl border-l-4 border-[#1F5EFF]">
-                                    <h4 className="font-bold text-lg mb-2 text-[#2E2E2E]">K. J. Somaiya vs. State of Maharashtra</h4>
+                                    <h5 className="font-bold text-lg mb-2 text-[#2E2E2E]">K. J. Somaiya vs. State of Maharashtra</h5>
                                     <p className="text-gray-700">This case clarified the limits of the bank's 'Right of Set-off'. A bank cannot arbitrarily take money from your savings account to pay off a disputed credit card debt without proper notice and authorization.</p>
                                 </div>
                                 <div className="p-6 bg-gray-50 rounded-2xl border-l-4 border-[#1F5EFF]">
-                                    <h4 className="font-bold text-lg mb-2 text-[#2E2E2E]">Mardarish vs. Union of India</h4>
+                                    <h5 className="font-bold text-lg mb-2 text-[#2E2E2E]">Mardarish vs. Union of India</h5>
                                     <p className="text-gray-700">The High Court held that the right to dignity is a part of the Right to Life under Article 21. Harassment by recovery agents is a violation of this fundamental right.</p>
                                 </div>
                             </div>
@@ -524,48 +524,48 @@ export default function UnsecuredLoanLawyerPage() {
                             </p>
                         </section>
                         <section id="comprehensive-faq" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">
                                 Frequently Asked Questions: Loan Legal Defence
-                            </h2>
+                            </h3>
                             <div className="space-y-8">
                                 <div className="border-b border-gray-100 pb-6">
-                                    <h3 className="text-xl font-bold text-[#2E2E2E] mb-3">1. Can I be jailed for defaulting on a personal loan?</h3>
+                                    <h4 className="text-xl font-bold text-[#2E2E2E] mb-3">1. Can I be jailed for defaulting on a personal loan?</h4>
                                     <p className="text-gray-700 leading-relaxed text-lg font-medium">No. In India, a simple loan default is a civil matter, not criminal. You cannot be jailed for being unable to pay. However, if you issued a check that bounced (Section 138) or if you used fake documents to get the loan (Section 420), criminal proceedings can be initiated. A lawyer ensures that cases are kept in the civil domain.</p>
                                 </div>
                                 <div className="border-b border-gray-100 pb-6">
-                                    <h4 className="text-xl font-bold text-[#2E2E2E] mb-3">2. How much 'haircut' can I expect in a credit card settlement?</h4>
+                                    <h5 className="text-xl font-bold text-[#2E2E2E] mb-3">2. How much 'haircut' can I expect in a credit card settlement?</h5>
                                     <p className="text-gray-700 leading-relaxed text-lg font-medium">For credit cards, where the interest is very high, it is common to settle for 25% to 40% of the total outstanding amount. In extreme cases of medical emergency or job loss, it can go even lower. The key is to wait for the debt to be 'aged' (usually 6+ months of non-payment) before beginning negotiations.</p>
                                 </div>
                                 <div className="border-b border-gray-100 pb-6">
-                                    <h4 className="text-xl font-bold text-[#2E2E2E] mb-3">3. Recovery agents are calling my office. What should I do?</h4>
+                                    <h5 className="text-xl font-bold text-[#2E2E2E] mb-3">3. Recovery agents are calling my office. What should I do?</h5>
                                     <p className="text-gray-700 leading-relaxed text-lg font-medium">This is a violation of the RBI Fair Practice Code. Immediately send a formal complaint to the bank's Nodal Officer. If they don't stop, have your lawyer file a suit for injunction and damages in the local civil court. Banks are very afraid of judgments that penalize them for privacy violations.</p>
                                 </div>
                                 <div className="border-b border-gray-100 pb-6">
-                                    <h4 className="text-xl font-bold text-[#2E2E2E] mb-3">4. Is 'Debt Settlement' the same as 'Debt Consolidation'?</h4>
+                                    <h5 className="text-xl font-bold text-[#2E2E2E] mb-3">4. Is 'Debt Settlement' the same as 'Debt Consolidation'?</h5>
                                     <p className="text-gray-700 leading-relaxed text-lg font-medium">No. Consolidation means taking one large loan to pay off many small ones. Settlement means paying a portion of the debt to close the account forever. Settlement is usually better for those in deep financial crisis, while consolidation is better for those who can still afford their EMIs but want to simplify their life.</p>
                                 </div>
                                 <div className="border-b border-gray-100 pb-6">
-                                    <h4 className="text-xl font-bold text-[#2E2E2E] mb-3">5. Can the bank attach my house for an unsecured personal loan?</h4>
+                                    <h5 className="text-xl font-bold text-[#2E2E2E] mb-3">5. Can the bank attach my house for an unsecured personal loan?</h5>
                                     <p className="text-gray-700 leading-relaxed text-lg font-medium">Technically, yes, if they win a court case and get a 'Decree of Execution'. However, this is a very long process taking 5-10 years. For unsecured loans, banks rarely go this far because the cost of litigation often exceeds the loan amount. They prefer to settle.</p>
                                 </div>
                                 <div className="border-b border-gray-100 pb-6">
-                                    <h4 className="text-xl font-bold text-[#2E2E2E] mb-3">6. What happens if I ignore the DRT Summons?</h4>
+                                    <h5 className="text-xl font-bold text-[#2E2E2E] mb-3">6. What happens if I ignore the DRT Summons?</h5>
                                     <p className="text-gray-700 leading-relaxed text-lg font-medium">NEVER ignore a court or tribunal summons. If you don't appear, the DRT will pass an 'Ex-Parte' order against you, meaning the bank automatically wins. It is much harder to reverse an ex-parte order than it is to defend the case from the start.</p>
                                 </div>
                                 <div className="border-b border-gray-100 pb-6">
-                                    <h4 className="text-xl font-bold text-[#2E2E2E] mb-3">7. How long does the 'Settled' status stay on CIBIL?</h4>
+                                    <h5 className="text-xl font-bold text-[#2E2E2E] mb-3">7. How long does the 'Settled' status stay on CIBIL?</h5>
                                     <p className="text-gray-700 leading-relaxed text-lg font-medium">It stays for 7 years. But remember, after 2-3 years of responsible behavior with new (secured) credit lines, the impact of that 'Settled' status diminishes significantly in the eyes of new lenders.</p>
                                 </div>
                                 <div className="border-b border-gray-100 pb-6">
-                                    <h4 className="text-xl font-bold text-[#2E2E2E] mb-3">8. Can a lawyer help me if my debt is already with an ARC?</h4>
+                                    <h5 className="text-xl font-bold text-[#2E2E2E] mb-3">8. Can a lawyer help me if my debt is already with an ARC?</h5>
                                     <p className="text-gray-700 leading-relaxed text-lg font-medium">Yes. Asset Reconstruction Companies (ARCs) buy bad loans from banks at a deep discount (sometimes for 20-30 cents on the dollar). This actually makes it EASIER to settle with an ARC than with the original bank, because the ARC has a lower 'break-even' point.</p>
                                 </div>
                                 <div className="border-b border-gray-100 pb-6">
-                                    <h4 className="text-xl font-bold text-[#2E2E2E] mb-3">9. Should I sign the 'Restructuring' agreement offered by the bank?</h4>
+                                    <h5 className="text-xl font-bold text-[#2E2E2E] mb-3">9. Should I sign the 'Restructuring' agreement offered by the bank?</h5>
                                     <p className="text-gray-700 leading-relaxed text-lg font-medium">Only if you are 100% sure you can pay the new EMI. Restructuring often increases the total interest you will pay. If you fail to pay a restructured loan, your legal position becomes weaker because you have signed a new admission of debt.</p>
                                 </div>
                                 <div className="border-b border-gray-100 pb-6">
-                                    <h4 className="text-xl font-bold text-[#2E2E2E] mb-3">10. Can I travel abroad if I have a pending loan case?</h4>
+                                    <h5 className="text-xl font-bold text-[#2E2E2E] mb-3">10. Can I travel abroad if I have a pending loan case?</h5>
                                     <p className="text-gray-700 leading-relaxed text-lg font-medium">In 99.9% of civil loan cases, there is no restriction on foreign travel. Only in very high-value cases (usually above ₹100 Crore) can a bank ask for a 'Look Out Circular' (LOC). For personal or unsecured loans, you are free to travel.</p>
                                 </div>
                             </div>

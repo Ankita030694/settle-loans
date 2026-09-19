@@ -523,7 +523,7 @@ export default function Page() {
                   <Clock className="w-4 h-4" />
                   <span>2. Delinquency Timeline &amp; High Court Norms</span>
                 </div>
-                <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">NPA Delinquency Aging &amp; Allahabad High Court Safeguards</h2>
+                <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">NPA Delinquency Aging &amp; Allahabad High Court Safeguards</h3>
                 <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                   Under RBI Prudential Norms (IRACP), overdue personal credit accounts transition through Special Mention Account stages (SMA-0 to SMA-2) during the initial ninety days of delinquency. When payments lapse past ninety continuous days, the account is classified as a Non-Performing Asset (NPA), obligating the lender to lock mandatory capital provisions against the unpaid balance.
                 </p>
@@ -585,7 +585,7 @@ export default function Page() {
                   <Gavel className="w-4 h-4" />
                   <span>3. District Court &amp; Section 138/25 Defense</span>
                 </div>
-                <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Defending Statutory Legal Notices in Prayagraj Courts</h2>
+                <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Defending Statutory Legal Notices in Prayagraj Courts</h3>
                 <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                   Following loan default or automated mandate failures, lenders issue demand notices under <strong>Section 138 of the Negotiable Instruments Act, 1881</strong> for dishonored cheques, or under <strong>Section 25 of the Payment and Settlement Systems Act, 2007 (PSSA)</strong> for bounced NACH debits. Creditors file these matters before Chief Judicial Magistrate (CJM) courts at the District &amp; Sessions Court campus in Kutchery, Prayagraj.
                 </p>
@@ -600,7 +600,7 @@ export default function Page() {
                   <ShieldAlert className="w-4 h-4" />
                   <span>4. Section 171 Lien &amp; Salary Shielding</span>
                 </div>
-                <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Banker&apos;s Lien &amp; Salary Shielding in Prayagraj</h2>
+                <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Banker&apos;s Lien &amp; Salary Shielding in Prayagraj</h3>
                 <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                   Under <strong>Section 171 of the Indian Contract Act, 1872</strong>, a bank holds a general lien only over accounts within its own branches. A creditor bank cannot freeze or debit funds in an external bank without a court decree. Furthermore, <strong>Section 60(1) of the Code of Civil Procedure (CPC), 1908</strong> strictly exempts government salaries, subsistence allowances, and pensions from judicial attachment.
                 </p>
@@ -615,9 +615,9 @@ export default function Page() {
                   <Sparkles className="w-4 h-4" />
                   <span>5. Visual Resolution Roadmap</span>
                 </div>
-                <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+                <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                   Personal Loan Settlement Roadmap in Prayagraj &amp; Kaushambi
-                </h2>
+                </h3>
                 <p className="text-slate-700 leading-relaxed mb-6 text-base md:text-lg">
                   The visual roadmap below details the advocate-led debt resolution framework across Prayagraj and Kaushambi, tracing the process from notice defense to bilateral Zonal SARB talks and Lok Adalat compromise awards.
                 </p>
@@ -644,7 +644,7 @@ export default function Page() {
                   <Percent className="w-4 h-4" />
                   <span>6. OTS Haircut Mechanics &amp; NPV Formula</span>
                 </div>
-                <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">OTS Haircut Mechanics &amp; Institutional Valuation Formula</h2>
+                <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">OTS Haircut Mechanics &amp; Institutional Valuation Formula</h3>
                 <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                   Bank compromise decisions depend on financial recovery mathematics. When assessing One-Time Settlement offers, bank Zonal Settlement Committees in Civil Lines, Prayagraj utilize a standardized Net Present Value (NPV) recovery valuation formula. Because unsecured personal loans lack collateral, pursuing years of court litigation consumes substantial legal fees and ties up regulatory capital.
                 </p>
@@ -674,7 +674,7 @@ export default function Page() {
                   <ShieldCheck className="w-4 h-4" />
                   <span>7. RBI Anti-Harassment &amp; Police Limits</span>
                 </div>
-                <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Enforcing RBI Anti-Harassment Directives &amp; Police Limits</h2>
+                <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Enforcing RBI Anti-Harassment Directives &amp; Police Limits</h3>
                 <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                   The RBI&apos;s updated <strong>Master Direction on Recovery Agents (2022)</strong> establishes strict behavioral boundaries for lenders. Collection calls are prohibited before 8:00 AM and after 7:00 PM. Agents cannot visit government offices, schools, or hospitals, nor may they use abusive language or contact family members.
                 </p>
@@ -692,7 +692,7 @@ export default function Page() {
                   <Layers className="w-4 h-4" />
                   <span>8. 5-Step Zonal SARB Settlement Protocol</span>
                 </div>
-                <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">5-Step Legal Settlement Protocol in Prayagraj</h2>
+                <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">5-Step Legal Settlement Protocol in Prayagraj</h3>
                 <p className="text-slate-700 leading-relaxed mb-6 text-base md:text-lg">
                   Achieving a binding debt compromise follows an advocate-led protocol across five strategic stages:
                 </p>
@@ -703,7 +703,7 @@ export default function Page() {
                       1
                     </div>
                     <div>
-                      <h3 className="text-base font-bold text-slate-900 mb-1">Financial Hardship Dossier Compilation</h3>
+                      <h4 className="text-base font-bold text-slate-900 mb-1">Financial Hardship Dossier Compilation</h4>
                       <p className="text-sm text-slate-600 leading-relaxed">
                         We compile verified financial distress records—including salary statements, medical bills, and trade ledgers—proving bona fide inability to maintain original installments.
                       </p>
@@ -715,7 +715,7 @@ export default function Page() {
                       2
                     </div>
                     <div>
-                      <h3 className="text-base font-bold text-slate-900 mb-1">Cease-and-Desist Notice &amp; Anti-Harassment Shielding</h3>
+                      <h4 className="text-base font-bold text-slate-900 mb-1">Cease-and-Desist Notice &amp; Anti-Harassment Shielding</h4>
                       <p className="text-sm text-slate-600 leading-relaxed">
                         Our advocates serve statutory notices on the bank&apos;s Principal Nodal Officer and Zonal Heads in Civil Lines, terminating recovery calls and preventing office visits.
                       </p>
@@ -727,7 +727,7 @@ export default function Page() {
                       3
                     </div>
                     <div>
-                      <h3 className="text-base font-bold text-slate-900 mb-1">Statutory Court Notice Defense in Prayagraj Courts</h3>
+                      <h4 className="text-base font-bold text-slate-900 mb-1">Statutory Court Notice Defense in Prayagraj Courts</h4>
                       <p className="text-sm text-slate-600 leading-relaxed">
                         Counsel prepares and files structured replies to Section 138 NI Act and Section 25 PSSA notices before CJM courts in Kutchery, shielding borrowers from warrants.
                       </p>
@@ -739,7 +739,7 @@ export default function Page() {
                       4
                     </div>
                     <div>
-                      <h3 className="text-base font-bold text-slate-900 mb-1">Direct Negotiations with Civil Lines Zonal SARB Desks</h3>
+                      <h4 className="text-base font-bold text-slate-900 mb-1">Direct Negotiations with Civil Lines Zonal SARB Desks</h4>
                       <p className="text-sm text-slate-600 leading-relaxed">
                         Bypassing collection agents, our negotiators interact directly with bank Stressed Assets branches and Zonal Committees to secure 40% to 70% debt waivers.
                       </p>
@@ -751,7 +751,7 @@ export default function Page() {
                       5
                     </div>
                     <div>
-                      <h3 className="text-base font-bold text-slate-900 mb-1">Sanction Letter Audit &amp; Mandatory NDC Delivery</h3>
+                      <h4 className="text-base font-bold text-slate-900 mb-1">Sanction Letter Audit &amp; Mandatory NDC Delivery</h4>
                       <p className="text-sm text-slate-600 leading-relaxed">
                         We audit the official bank sanction letter for legal accuracy before payment via RTGS, ensuring delivery of the zero-balance No Dues Certificate within thirty days.
                       </p>
@@ -766,7 +766,7 @@ export default function Page() {
                   <FileCheck className="w-4 h-4" />
                   <span>9. Sanction Letter Audit &amp; CIBIL Rebuilding</span>
                 </div>
-                <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Sanction Letter Forensics &amp; Mandatory ₹0 NDC Enforcement</h2>
+                <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Sanction Letter Forensics &amp; Mandatory ₹0 NDC Enforcement</h3>
                 <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                   Borrowers must never pay settlement amounts based on verbal promises or informal messages. A valid <strong>OTS Sanction Letter</strong> must arrive on official bank letterhead, displaying bank emblems, officer employee codes, exact waiver figures, and payment details directly into the loan account.
                 </p>
@@ -784,9 +784,9 @@ export default function Page() {
                   <Scale className="w-4 h-4" />
                   <span>10. Comparative Resolution Matrix</span>
                 </div>
-                <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+                <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                   Comparative Debt Resolution Pathways for Prayagraj Borrowers
-                </h2>
+                </h3>
                 <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                   Compare the principal debt resolution avenues available in Prayagraj and Kaushambi to evaluate which legal strategy aligns best with your financial goals:
                 </p>
@@ -842,9 +842,9 @@ export default function Page() {
                   <Landmark className="w-4 h-4" />
                   <span>11. SettleLoans Legal Defense &amp; Advisory</span>
                 </div>
-                <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+                <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                   Premier Loan Settlement &amp; Legal Defense Services in Prayagraj
-                </h2>
+                </h3>
                 <p className="text-slate-700 leading-relaxed mb-6 text-base md:text-lg">
                   Overcoming debt distress across Prayagraj, Allahabad, and Kaushambi requires dedicated advocate representation. Our legal team halts recovery harassment, defends court notices in Prayagraj District Court, and negotiates directly with bank credit committees to secure maximum debt waivers and legal closure.
                 </p>
@@ -857,9 +857,9 @@ export default function Page() {
                   <HelpCircle className="w-4 h-4" />
                   <span>12. Frequently Asked Questions</span>
                 </div>
-                <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
+                <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
                   Frequently Asked Questions on Debt Settlement in Prayagraj
-                </h2>
+                </h3>
 
                 <div className="space-y-4">
                   {faqsData.map((faq, index) => (
@@ -887,10 +887,10 @@ export default function Page() {
 
               {/* 5 Official Regulatory Links */}
               <section className="bg-slate-50 border border-slate-200 rounded-2xl p-6 mb-8">
-                <h3 className="text-sm font-bold text-slate-900 mb-3 uppercase tracking-wider flex items-center gap-2">
+                <h4 className="text-sm font-bold text-slate-900 mb-3 uppercase tracking-wider flex items-center gap-2">
                   <ExternalLink className="w-4 h-4 text-[#1F5EFF]" />
                   <span>Official Statutory &amp; Regulatory References</span>
-                </h3>
+                </h4>
                 <div className="grid grid-cols-1 sm:grid-cols-2 gap-3 text-xs">
                   <a
                     href="https://www.rbi.org.in"
@@ -942,9 +942,9 @@ export default function Page() {
 
               {/* 10 Related Guide Badges */}
               <section className="border-t border-slate-200 pt-8 mb-8">
-                <h3 className="text-sm font-bold text-slate-900 mb-4 uppercase tracking-wider">
+                <h4 className="text-sm font-bold text-slate-900 mb-4 uppercase tracking-wider">
                   Related Loan Settlement &amp; Legal Defense Guides
-                </h3>
+                </h4>
                 <div className="flex flex-wrap gap-2">
                   <Link
                     href="/sbi-personal-loan-settlement"

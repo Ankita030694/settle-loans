@@ -320,9 +320,9 @@ export default function BajajHarassmentStoppedClient() {
 
             {/* Section 2: RBI Recovery Red Lines */}
             <section id="rbi-recovery-guidelines-violations" className="mb-10 scroll-mt-24">
-              <h2 className="text-xl md:text-2xl lg:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h3 className="text-xl md:text-2xl lg:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 2. Regulatory Red Lines: RBI Master Directions vs. Ground Recovery Tactics
-              </h2>
+              </h3>
               <p className="text-slate-700 leading-relaxed mb-4">
                 The Reserve Bank of India has established comprehensive, binding regulations governing loan recovery practices through the <em>Master Direction – Non-Banking Financial Company – Systemically Important Non-Deposit taking Company (Reserve Bank) Directions</em> and the landmark <em>Circular on Recovery Agents engaged by Regulated Entities (DOR.ORG.REC.65/21.04.158/2022-23)</em>. These statutory directives strictly define the permissible boundaries of debt collection.
               </p>
@@ -376,9 +376,9 @@ export default function BajajHarassmentStoppedClient() {
 
             {/* Section 3: Workplace Harassment & Privacy Laws */}
             <section id="workplace-harassment-legal-implications" className="mb-10 scroll-mt-24">
-              <h2 className="text-xl md:text-2xl lg:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h3 className="text-xl md:text-2xl lg:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 3. Anatomy of Workplace Harassment: Privacy Violations &amp; Tortious Interference
-              </h2>
+              </h3>
               <p className="text-slate-700 leading-relaxed mb-4">
                 When recovery agents infiltrate a corporate workspace, they commit multiple concurrent violations under Indian civil, criminal, and constitutional law. In the landmark nine-judge bench ruling in <em>Justice K.S. Puttaswamy (Retd.) v. Union of India (2017)</em>, the Supreme Court of India established informational privacy and personal dignity as intrinsic fundamental rights protected under Article 21 of the Constitution. A commercial financial default does not extinguish a citizen&apos;s right to privacy or permit corporate vigilante tactics.
               </p>
@@ -392,9 +392,9 @@ export default function BajajHarassmentStoppedClient() {
 
             {/* Section 4: Serving Cease-and-Desist Notice */}
             <section id="cease-and-desist-legal-intervention" className="mb-10 scroll-mt-24">
-              <h2 className="text-xl md:text-2xl lg:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h3 className="text-xl md:text-2xl lg:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 4. The SettleLoans Legal Intervention: Serving the Statutory Cease-and-Desist Notice
-              </h2>
+              </h3>
               <p className="text-slate-700 leading-relaxed mb-4">
                 Upon being onboarded by Vikram, SettleLoans initiated an immediate multi-tiered legal defense strategy designed to neutralize physical harassment within 24 hours. The primary legal instrument deployed was a comprehensive <strong>Statutory Cease-and-Desist Legal Notice</strong> served concurrently via registered email and speed post to the Managing Director of Bajaj Finance Limited, the Principal Nodal Officer (PNO), and the designated local collection agency partner.
               </p>
@@ -421,9 +421,9 @@ export default function BajajHarassmentStoppedClient() {
                       <span className="text-[10px] font-black uppercase tracking-widest text-blue-300 block">
                         Legal Defense &amp; Action Blueprint
                       </span>
-                      <h3 className="text-sm md:text-base font-black text-white leading-tight">
+                      <h4 className="text-sm md:text-base font-black text-white leading-tight">
                         Bajaj Finance Harassment Defense &amp; Settlement Blueprint
-                      </h3>
+                      </h4>
                     </div>
                   </div>
                   <a
@@ -466,9 +466,9 @@ export default function BajajHarassmentStoppedClient() {
 
             {/* Section 6: Nodal Escalation & Agent Recall */}
             <section id="nodal-escalation-agent-containment" className="mb-10 scroll-mt-24">
-              <h2 className="text-xl md:text-2xl lg:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h3 className="text-xl md:text-2xl lg:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 6. Ground Containment: Principal Nodal Officer Escalation &amp; Immediate Withdrawal
-              </h2>
+              </h3>
               <p className="text-slate-700 leading-relaxed mb-4">
                 The institutional impact of the cease-and-desist notice was immediate and decisive. Within 48 hours of service, the Chief Grievance Redressal Officer and Principal Nodal Officer of Bajaj Finance issued a formal written acknowledgement via email, confirming that the account was withdrawn from the local third-party agency and reassigned to the internal Central Stressed Assets Resolution Desk in Pune.
               </p>
@@ -482,9 +482,9 @@ export default function BajajHarassmentStoppedClient() {
 
             {/* Section 7: NBFC Provisioning & Hardship Audit */}
             <section id="nbfc-provisioning-financial-hardship" className="mb-10 scroll-mt-24">
-              <h2 className="text-xl md:text-2xl lg:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h3 className="text-xl md:text-2xl lg:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 7. Behind the Balance Sheet: NBFC NPA Provisioning &amp; Settlement Willingness
-              </h2>
+              </h3>
               <p className="text-slate-700 leading-relaxed mb-4">
                 With physical harassment contained, the strategic focus transitioned to negotiating a sustainable financial resolution. To understand why Bajaj Finance agreed to waive 55% of the principal debt and 100% of accumulated penal fees, one must analyze the regulatory accounting rules governing Non-Banking Financial Companies under the <em>Indian Accounting Standards (Ind AS 109)</em> and RBI prudential asset classification norms.
               </p>
@@ -536,9 +536,9 @@ export default function BajajHarassmentStoppedClient() {
 
             {/* Section 8: Negotiating 55% Haircut & Waiver */}
             <section id="ots-negotiation-haircut-breakdown" className="mb-10 scroll-mt-24">
-              <h2 className="text-xl md:text-2xl lg:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h3 className="text-xl md:text-2xl lg:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 8. The OTS Compromise: Negotiating 55% Haircut (₹1.35L) &amp; Penalty Waiver
-              </h2>
+              </h3>
               <p className="text-slate-700 leading-relaxed mb-4">
                 Negotiating directly with Bajaj Finance&apos;s Zonal Settlement Committee, SettleLoans structured a formal One-Time Settlement (OTS) proposal under the <em>RBI Framework for Compromise Settlements and Technical Write-offs</em>. By eliminating inflated bounce penalties, interest surcharges, and legal levies, the negotiation focused strictly on the core principal balance.
               </p>
@@ -589,9 +589,9 @@ export default function BajajHarassmentStoppedClient() {
 
             {/* Section 9: Sanction Audit & ₹0 NDC Issuance */}
             <section id="sanction-audit-no-dues-certificate" className="mb-10 scroll-mt-24">
-              <h2 className="text-xl md:text-2xl lg:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h3 className="text-xl md:text-2xl lg:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 9. Sanction Letter Forensics, ₹0 NDC Issuance &amp; Credit Bureau Rehabilitation
-              </h2>
+              </h3>
               <p className="text-slate-700 leading-relaxed mb-4">
                 Before remitting any funds, SettleLoans advocates conducted an exhaustive forensic audit of the formal One-Time Settlement Sanction Letter issued by Bajaj Finance Limited. The verification verified five vital legal covenants: (1) The letter was generated on authentic corporate letterhead bearing authorized digital signatures and employee authorization codes; (2) The sanctioned figure of ₹1,35,000 was explicitly described as full and final discharge of all liabilities; (3) It contained a categorical clause confirming that upon payment, all pending legal notices, arbitration petitions, or Section 25 PSSA complaints would be immediately withdrawn; (4) It specified direct payment into Vikram&apos;s unique loan account number via official banking gateways; (5) It guaranteed the issuance of a formal No Dues Certificate (NDC) within 30 days.
               </p>
@@ -605,9 +605,9 @@ export default function BajajHarassmentStoppedClient() {
 
             {/* Section 10: Self-Defense vs Legal Shield */}
             <section id="comparative-resolution-matrix" className="mb-10 scroll-mt-24">
-              <h2 className="text-xl md:text-2xl lg:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h3 className="text-xl md:text-2xl lg:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 10. Strategic Resolution Matrix: Self-Defense vs. SettleLoans Legal Representation
-              </h2>
+              </h3>
               <p className="text-slate-700 leading-relaxed mb-4">
                 When retail borrowers attempt to handle aggressive NBFC recovery tactics without legal representation, they frequently fall victim to verbal intimidation, unauthorized cash payments to field agents, or fraudulent verbal settlement promises that leave debts active on bureau records. The following comparative matrix outlines the stark difference between unrepresented distress and professional legal defense:
               </p>
@@ -660,10 +660,10 @@ export default function BajajHarassmentStoppedClient() {
 
             {/* Section 12: Frequently Asked Questions */}
             <section id="faqs" className="mb-10 scroll-mt-24">
-              <h2 className="text-xl md:text-2xl lg:text-3xl font-black text-slate-900 mb-6 leading-tight flex items-center gap-2.5">
+              <h3 className="text-xl md:text-2xl lg:text-3xl font-black text-slate-900 mb-6 leading-tight flex items-center gap-2.5">
                 <ShieldCheck className="w-6 h-6 text-[#1F5EFF]" />
                 Frequently Asked Questions: Stopping Bajaj Recovery Harassment
-              </h2>
+              </h3>
               <div className="space-y-4">
                 {faqs.map((faq, index) => (
                   <FAQItem
@@ -679,10 +679,10 @@ export default function BajajHarassmentStoppedClient() {
 
             {/* Sources & Regulatory References Strip (5 Official Links) */}
             <div className="bg-slate-50 border border-slate-200 rounded-2xl p-6 my-8">
-              <h3 className="text-base font-bold text-slate-900 mb-3 flex items-center gap-2">
+              <h4 className="text-base font-bold text-slate-900 mb-3 flex items-center gap-2">
                 <BookOpen className="w-5 h-5 text-[#1F5EFF]" />
                 Official Statutory &amp; Regulatory References
-              </h3>
+              </h4>
               <ul className="space-y-2.5 text-xs text-slate-600">
                 <li>
                   <a
@@ -739,10 +739,10 @@ export default function BajajHarassmentStoppedClient() {
 
             {/* Related Guides & Resources Strip (10 Topic Badges) */}
             <div className="bg-slate-50 border border-slate-200 rounded-2xl p-6 my-10">
-              <h3 className="text-base font-bold text-slate-900 mb-4 flex items-center gap-2">
+              <h4 className="text-base font-bold text-slate-900 mb-4 flex items-center gap-2">
                 <BookOpen className="w-5 h-5 text-[#1F5EFF]" />
                 Explore Related Banking &amp; Debt Resolution Guides
-              </h3>
+              </h4>
               <div className="flex flex-wrap gap-2.5">
                 <Link
                   href="/bajaj-finance-personal-loan-settlement"

@@ -161,14 +161,14 @@ export default function VehicleLoanFAQ() {
                         </section>
 
                         <section id="repossession-laws" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                                 Repossession Laws: Knowing Your Rights in the Face of Seizure
-                            </h2>
+                            </h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 The fear of the "repo-man" is real, but it is often fueled by a lack of legal knowledge. In India, the law is very specific about how a vehicle can be repossessed. Banks and NBFCs cannot simply "snatch" a car from the middle of the road without following due process.
                             </p>
                             <div className="bg-red-50 p-8 rounded-3xl border border-red-100 mb-12 shadow-sm">
-                                <h3 className="text-xl font-bold text-red-900 mb-4 uppercase tracking-tighter">The Legal Repossession Procedure:</h3>
+                                <h4 className="text-xl font-bold text-red-900 mb-4 uppercase tracking-tighter">The Legal Repossession Procedure:</h4>
                                 <ul className="space-y-4">
                                     <li className="flex gap-3">
                                         <FontAwesomeIcon icon={faTriangleExclamation} className="text-red-600 mt-1" />
@@ -190,9 +190,9 @@ export default function VehicleLoanFAQ() {
                         </section>
 
                         <section id="legal-remedies" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                                 Immediate Legal Remedies Against Illegal Seizure
-                            </h2>
+                            </h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 If your vehicle has been snatched without notice, the first 24 hours are critical. You must file a formal complaint at the nearest police station immediately. In legal terms, this is often treated as a case of <strong>Wrongful Retraint</strong> or even <strong>Theft</strong> if the bank has not followed the due process of the Sarfaesi Act or the Fair Practice Code.
                             </p>
@@ -205,9 +205,9 @@ export default function VehicleLoanFAQ() {
                         </section>
 
                         <section id="bank-analysis" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                                 Bank-Specific Vehicle Loan Policy Analysis 2024
-                            </h2>
+                            </h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 Not all lenders treat vehicle defaults the same way. Our internal data for 2024-25 shows distinct patterns among major Indian auto-lenders. <strong>HDFC Bank and ICICI Bank</strong>, for instance, have highly automated recovery systems but are open to 'Retain Interest' settlements if the borrower can prove a temporary drop in income. They usually look for a settlement value that is 85-90% of the IDV (Insured Declared Value).
                             </p>
@@ -215,7 +215,7 @@ export default function VehicleLoanFAQ() {
                                 Lenders like <strong>Mahindra Finance and Sundaram Finance</strong>, who have a massive presence in the semi-urban and rural markets, are often more flexible. They understand that a tractor or a commercial pick-up is a livelihood tool. They are more likely to offer 'EMI Restructuring' or 'Holiday Periods' before pushing for a full settlement and repossession.
                             </p>
                             <div className="bg-red-50 p-8 rounded-3xl border border-red-100 mb-8 shadow-sm">
-                                <h3 className="text-xl font-bold text-red-900 mb-4 tracking-tighter uppercase">Lender Risk Profile Table:</h3>
+                                <h4 className="text-xl font-bold text-red-900 mb-4 tracking-tighter uppercase">Lender Risk Profile Table:</h4>
                                 <div className="overflow-x-auto">
                                     <table className="w-full text-sm text-left">
                                         <thead className="bg-red-100/50 text-red-900 font-bold">
@@ -248,9 +248,9 @@ export default function VehicleLoanFAQ() {
                         </section>
 
                         <section id="heavy-machinery" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                                 Heavy Machinery and Commercial Equipment Debt
-                            </h2>
+                            </h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 Loans for JCBs, Cranes, and Mining equipment fall under a different risk category. These are high-value assets (often ₹50 Lakh to ₹2 Cr) with high maintenance costs. If a bank repossesses a JCB and leaves it in a yard for six months, the hydraulic systems might fail, drastically reducing the recovery value.
                             </p>
@@ -260,28 +260,28 @@ export default function VehicleLoanFAQ() {
                         </section>
 
                         <section id="negotiation-strategy" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                                 Negotiation Strategy for Vehicle Settlements
-                            </h2>
+                            </h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 Negotiating a vehicle loan is fundamentally different from a personal loan because of the "Depreciating Asset" factor. Unlike money, a car loses value every day it sits in a yard. This is your biggest advantage.
                             </p>
                             <div className="grid md:grid-cols-2 gap-8 mb-12">
                                 <div className="p-8 bg-blue-50 border border-blue-100 rounded-3xl">
-                                    <h3 className="text-xl font-bold text-[#1F5EFF] mb-4">Yard Costs vs. Recovery</h3>
+                                    <h4 className="text-xl font-bold text-[#1F5EFF] mb-4">Yard Costs vs. Recovery</h4>
                                     <p className="text-sm text-gray-700">Banks have to pay storage fees, security costs, and insurance for repossessed vehicles. SettleLoans negotiators highlight these 'hidden costs' to make a settlement more attractive to the bank.</p>
                                 </div>
                                 <div className="p-8 bg-blue-50 border border-blue-100 rounded-3xl">
-                                    <h4 className="text-xl font-bold text-[#1F5EFF] mb-4">Auction Failure Risk</h4>
+                                    <h5 className="text-xl font-bold text-[#1F5EFF] mb-4">Auction Failure Risk</h5>
                                     <p className="text-sm text-gray-700">Most repossessed vehicles sell for significantly less than their current loan value at bank auctions. We push for a settlement that is higher than the auction price but lower than the full debt.</p>
                                 </div>
                             </div>
                         </section>
 
                         <section id="state-rto-guide" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                                 State-Specific RTO Guide for Debt Defaults
-                            </h2>
+                            </h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 While the Motor Vehicles Act is a central law, the <strong>Rules</strong> governing hypothecation removal vary slightly from state to state. For example, in Delhi (DL RTO), the process is now almost 100% digital through the 'Vahan' portal. You need a digital NOC from the bank to proceed. However, in states like Uttar Pradesh (UP RTO) or Bihar, physical submission of 'Form 35' is still the norm in many zones.
                             </p>
@@ -291,9 +291,9 @@ export default function VehicleLoanFAQ() {
                         </section>
 
                         <section id="ev-debt-impact" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                                 Electric Vehicles (EVs) and the Future of Asset Settlement
-                            </h2>
+                            </h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 The rise of Electric Vehicles (EVs) in India is creating a whole new challenge for debt resolution. EVs have a very different depreciation curve compared to Internal Combustion Engine (ICE) vehicles. The <strong>Battery Health</strong> is the primary determinant of an EV's value. If a bank repossesses an EV where the battery has significantly degraded, the recovery value is near zero.
                             </p>
@@ -303,9 +303,9 @@ export default function VehicleLoanFAQ() {
                         </section>
 
                         <section id="rto-formalities" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                                 RTO Formalities and Hypothecation Removal
-                            </h2>
+                            </h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 A vehicle settlement is not complete just because you paid the bank. The legal title of the vehicle still reflects a "Hypothecation" (Lien) in favor of the lender. This means you cannot sell the vehicle or even renew the registration for long-term without the bank's NOC (No Objection Certificate).
                             </p>
@@ -315,9 +315,9 @@ export default function VehicleLoanFAQ() {
                         </section>
 
                         <section id="residual-value" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                                 Residual Value Impact: The Financial Math of Vehicle Debt
-                            </h2>
+                            </h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 One of the most critical aspects of vehicle loan settlement that is often overlooked is the <strong>Residual Value Curve</strong>. Vehicles are depreciating assets that follow a non-linear value drop. The moment a car is driven out of the showroom, it loses 15-20% of its value. By the third year, the 'Loan Outstanding' often exceeds the 'Market Value' of the car-a state known as being "underwater" on the loan.
                             </p>
@@ -330,9 +330,9 @@ export default function VehicleLoanFAQ() {
                         </section>
 
                         <section id="fleet-restructuring" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                                 Fleet Debt Restructuring: A Survival Guide for Transport Businesses
-                            </h2>
+                            </h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 Small and Medium Transport operators (SMTs) often find themselves in a unique trap. They might have a fleet of 5-10 trucks, all financed through different NBFCs. A dip in the logistics market or a spike in fuel prices can cause a 'Cascade Default' where one vehicle's earnings are no longer enough to pay the EMI of the next. Repossession here is not just an asset loss; it's a shutdown of the business.
                             </p>
@@ -343,7 +343,7 @@ export default function VehicleLoanFAQ() {
                                 <div className="absolute top-0 right-0 p-4 bg-blue-600/20 rounded-bl-3xl">
                                     <FontAwesomeIcon icon={faTruck} className="text-blue-500 text-3xl" />
                                 </div>
-                                <h3 className="text-2xl font-black mb-6 uppercase tracking-tighter text-blue-500">The Fleet Multiplier Strategy:</h3>
+                                <h4 className="text-2xl font-black mb-6 uppercase tracking-tighter text-blue-500">The Fleet Multiplier Strategy:</h4>
                                 <ul className="space-y-4 text-gray-300">
                                     <li className="flex gap-4">
                                         <div className="w-1.5 h-1.5 rounded-full bg-blue-500 mt-2"></div>
@@ -362,14 +362,14 @@ export default function VehicleLoanFAQ() {
                         </section>
 
                         <section id="valuation-metrics" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                                 Valuation Metrics: Why IDV Matters
-                            </h2>
+                            </h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 Your vehicle's Insured Declared Value (IDV) is a primary anchor for settlement discussions. Banks often try to demand the full remaining principal, even if it is 2x the current market value of the car. A professional negotiator uses current market valuation reports (similar to Orange Book Value or Indian Blue Book) to demonstrate to the bank that their demand is unrealistic.
                             </p>
                             <div className="bg-[#2E2E2E] p-10 rounded-3xl text-white mb-12 shadow-xl">
-                                <h3 className="text-2xl font-black mb-6 text-[#1F5EFF] uppercase tracking-tighter">The Valuation Gap Strategy</h3>
+                                <h4 className="text-2xl font-black mb-6 text-[#1F5EFF] uppercase tracking-tighter">The Valuation Gap Strategy</h4>
                                 <p className="text-gray-300 leading-relaxed mb-4">
                                     If the Principal O/S is ₹8 Lakh but the market value is ₹5 Lakh, the bank is at a high risk. We present a settlement proposal of ₹4.5 Lakh, arguing that an auction would likely yield only ₹3.5 Lakh after all terminal costs. This logic is hard for a bank's risk committee to ignore.
                                 </p>
@@ -405,16 +405,16 @@ export default function VehicleLoanFAQ() {
                         />
 
                         <section id="commercial-fleet" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                                 Special Considerations for Commercial Fleet Owners
-                            </h2>
+                            </h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 For owners of commercial vehicles (CVs), a default is a double-edged sword. Not only does it affect their credit, but if the vehicle is seized, their ability to earn is gone. We offer a specialized "Fleet Recovery" program that focuses on maintaining vehicle possession while negotiations are ongoing. This ensures that the business stays alive while the debt is being restructured.
                             </p>
                         </section>
 
                         <section id="faqs" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-bold text-[var(--color-primary)] mt-16 mb-8">Vehicle Debt FAQs</h2>
+                            <h3 className="text-3xl md:text-4xl font-bold text-[var(--color-primary)] mt-16 mb-8">Vehicle Debt FAQs</h3>
                             <div className="space-y-4 not-prose">
                                 {[
                                     { q: "Can I settle a vehicle loan while keeping the car?", a: "Yes, it is possible. This is called a 'Retain Interest' settlement. You pay a lump sum to close the debt and the bank issues an NOC so you can continue using the vehicle." },
@@ -471,7 +471,7 @@ export default function VehicleLoanFAQ() {
                         <section className="bg-[#1F5EFF] rounded-[10px] p-8 md:p-12 text-center text-white relative overflow-hidden shadow-2xl">
                             <div className="absolute top-0 right-0 w-64 h-64 bg-white/10 rounded-full -mr-32 -mt-32"></div>
                             <div className="relative z-10">
-                                <h2 className="text-3xl md:text-5xl font-black mb-6 uppercase tracking-tighter">Save Your Vehicle Today</h2>
+                                <h3 className="text-3xl md:text-5xl font-black mb-6 uppercase tracking-tighter">Save Your Vehicle Today</h3>
                                 <p className="text-lg md:text-2xl opacity-90 max-w-2xl mx-auto mb-10 leading-tight font-normal">
                                     Our automotive debt experts are ready to protect your asset and negotiate the best possible deal. Keep your keys, lose the debt.
                                 </p>

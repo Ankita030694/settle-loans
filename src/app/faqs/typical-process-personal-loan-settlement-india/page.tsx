@@ -292,7 +292,7 @@ export default function TypicalProcessPersonalLoanSettlementPage() {
                                 In this comprehensive guide, we will peel back the layers of the Indian banking machinery to show you exactly how debt settlement works. From the moment you miss your first EMI to the final issuance of a No Dues Certificate, every step is a strategic move. This is not just about numbers; it is about reclaiming your mental peace and starting on a path toward future financial stability.
                             </p>
                             <div className="bg-blue-50 p-8 rounded-2xl border-l-4 border-blue-500 mb-8">
-                                <h3 className="text-lg font-bold text-blue-900 mb-4 uppercase tracking-wide">The Fundamental Truth</h3>
+                                <h4 className="text-lg font-bold text-blue-900 mb-4 uppercase tracking-wide">The Fundamental Truth</h4>
                                 <p className="text-blue-800">
                                     A bank is a for-profit entity. Once they realize that the cost of chasing you legally is higher than the potential recovery from a failed asset, they become willing partners in a settlement. Your goal is to prove, through the typical process for setting a personal loan in India, that a compromise is the most logical business decision for them.
                                 </p>
@@ -300,7 +300,7 @@ export default function TypicalProcessPersonalLoanSettlementPage() {
                         </section>
 
                         <section id="evolution" className="scroll-mt-32 mb-16">
-                            <h2 className="text-2xl md:text-3xl font-black text-[#2E2E2E] mb-6 uppercase tracking-tighter">The Evolution of Personal Lending in India</h2>
+                            <h3 className="text-2xl md:text-3xl font-black text-[#2E2E2E] mb-6 uppercase tracking-tighter">The Evolution of Personal Lending in India</h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 To understand the typical process for setting a personal loan in India, one must first look at how the lending market has evolved. A decade ago, personal loans were exclusive products for high-income individuals with pristine credit histories. However, the "Fintech Revolution" in India has democratized credit. Today, anyone with a smartphone and a PAN card can access a personal loan in minutes. This rapid expansion of credit has led to an equally rapid rise in over-leveraging.
                             </p>
@@ -313,7 +313,7 @@ export default function TypicalProcessPersonalLoanSettlementPage() {
                         </section>
 
                         <section id="economic-impact" className="scroll-mt-32 mb-16">
-                            <h2 className="text-2xl md:text-3xl font-black text-[#2E2E2E] mb-6 uppercase tracking-tighter">The Economic Impact of Personal Loan Defaults</h2>
+                            <h3 className="text-2xl md:text-3xl font-black text-[#2E2E2E] mb-6 uppercase tracking-tighter">The Economic Impact of Personal Loan Defaults</h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 Individual defaults might seem small, but collectively, they represent billions of rupees in the Indian economy. When thousands of borrowers default, it reduces the bank's ability to lend to productive sectors like manufacturing or infrastructure. This is why the RBI (Reserve Bank of India) views settlements as a "pragmatic evil". While it encourages a certain level of moral hazard (people might try to settle just to avoid paying), it is much better for the economy to have a settled account than a permanently "dead" account that ties up bank capital.
                             </p>
@@ -323,9 +323,9 @@ export default function TypicalProcessPersonalLoanSettlementPage() {
                         </section>
 
                         <section id="npa-timeline" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                                 Understanding the Lifecycle of a Delinquent Loan
-                            </h2>
+                            </h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 The process does not begin the day you miss a payment. It begins when the bank's internal systems flag your account as unstable. Understanding this timeline is crucial because your leverage in negotiation scales with the age of the delinquency. In the typical process for setting a personal loan in India, timing is everything. A request for settlement made too early will be rejected; a request made too late might find you in the middle of a legal battle that is hard to stop.
                             </p>
@@ -370,7 +370,7 @@ export default function TypicalProcessPersonalLoanSettlementPage() {
                             </p>
 
                             <div id="psychology">
-                                <h3 className="text-2xl font-black text-[#2E2E2E] mt-12 mb-6 uppercase tracking-tighter">The Psychology of Debt: Overcoming the Stigma</h3>
+                                <h4 className="text-2xl font-black text-[#2E2E2E] mt-12 mb-6 uppercase tracking-tighter">The Psychology of Debt: Overcoming the Stigma</h4>
                                 <p className="text-lg leading-relaxed mb-6">
                                     Perhaps the biggest hurdle in the typical process for setting a personal loan in India is not the bank, but the internal shame the borrower feels. In Indian society, debt is often seen as a moral failure. Recovery agents exploit this by threatening to visit your workplace or your neighbors.
                                 </p>
@@ -381,27 +381,27 @@ export default function TypicalProcessPersonalLoanSettlementPage() {
                         </section>
 
                         <section id="rbi-framework" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                                 The RBI Legal Framework: Deep Dive into Your Protections
-                            </h2>
+                            </h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 The Reserve Bank of India (RBI) is one of the most proactive central banks in the world when it comes to consumer protection. In the typical process for setting a personal loan in India, the RBI's "Master Circular on Loans and Advances" and the "Fair Practices Code" are your bibles.
                             </p>
                             <div className="grid md:grid-cols-2 gap-6 mb-8">
                                 <div className="bg-white p-6 rounded-2xl border border-gray-100 shadow-sm hover:border-blue-200 transition-all">
-                                    <h3 className="font-black text-blue-600 mb-3 uppercase tracking-tighter">Fair Practices Code (FPC)</h3>
+                                    <h4 className="font-black text-blue-600 mb-3 uppercase tracking-tighter">Fair Practices Code (FPC)</h4>
                                     <p className="text-gray-700 text-sm leading-relaxed">The FPC mandates that lenders cannot use "Muscle Power" for recovery. Any agent visiting your home must carry an ID card and an authorization letter from the bank. They cannot enter your house without permission, they cannot use abusive language, and they cannot call you between 7 PM and 8 AM. Violation of these is a serious compliance breach.</p>
                                 </div>
                                 <div className="bg-white p-6 rounded-2xl border border-gray-100 shadow-sm hover:border-blue-200 transition-all">
-                                    <h4 className="font-black text-blue-600 mb-3 uppercase tracking-tighter">OTS Circular June 2023</h4>
+                                    <h5 className="font-black text-blue-600 mb-3 uppercase tracking-tighter">OTS Circular June 2023</h5>
                                     <p className="text-gray-700 text-sm leading-relaxed">This landmark circular officially recognized that "Compromise Settlements" are a vital tool for resolving individual defaults. It directed banks to put in place board-approved transparent policies. This changed the typical process for setting a personal loan in India from a "backroom deal" to a formal, policy-driven procedure.</p>
                                 </div>
                                 <div className="bg-white p-6 rounded-2xl border border-gray-100 shadow-sm hover:border-blue-200 transition-all">
-                                    <h4 className="font-black text-blue-600 mb-3 uppercase tracking-tighter">The Banking Ombudsman</h4>
+                                    <h5 className="font-black text-blue-600 mb-3 uppercase tracking-tighter">The Banking Ombudsman</h5>
                                     <p className="text-gray-700 text-sm leading-relaxed">If a bank refuses to negotiate despite genuine hardship, or if their agents continue to harass you despite your request for a settlement, you can escalate the matter to the RBI Banking Ombudsman (now Integrated Ombudsman Scheme). This is a free, fast-track dispute resolution mechanism that banks are terrified of.</p>
                                 </div>
                                 <div className="bg-white p-6 rounded-2xl border border-gray-100 shadow-sm hover:border-blue-200 transition-all">
-                                    <h4 className="font-black text-blue-600 mb-3 uppercase tracking-tighter">Right to Privacy</h4>
+                                    <h5 className="font-black text-blue-600 mb-3 uppercase tracking-tighter">Right to Privacy</h5>
                                     <p className="text-gray-700 text-sm leading-relaxed">Banks cannot "shame" you by posting your photo in newspapers for unsecured personal loans (though they can for large secured loans). They also cannot call your friends, family, or employer and disclose your debt details. This is your most powerful lever to stop the harassment.</p>
                                 </div>
                             </div>
@@ -411,33 +411,33 @@ export default function TypicalProcessPersonalLoanSettlementPage() {
                         </section>
 
                         <section id="step-1-audit" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                                 Step 1: Conducting a Severe Financial Audit
-                            </h2>
+                            </h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 Before you even talk to the bank, you must talk to your bank account. The most common reason for a failed settlement is the borrower's inability to pay the agreed-upon lump sum. In the typical process for setting a personal loan in India, honesty with yourself is the foundation. You cannot negotiate a settlement if you don't know exactly what you can afford.
                             </p>
                             <div className="bg-gray-50 p-8 rounded-3xl border border-gray-200 mb-10 overflow-hidden relative">
-                                <h3 className="text-xl font-bold text-gray-900 mb-6">Your Settlement Readiness Checklist:</h3>
+                                <h4 className="text-xl font-bold text-gray-900 mb-6">Your Settlement Readiness Checklist:</h4>
                                 <div className="space-y-6">
                                     <div className="flex gap-4">
                                         <div className="flex-shrink-0 w-12 h-12 bg-white rounded-xl shadow-sm flex items-center justify-center text-blue-600 font-black">A</div>
                                         <div>
-                                            <h4 className="font-bold text-gray-900">Aggregate All Debt (The Master List)</h4>
+                                            <h5 className="font-bold text-gray-900">Aggregate All Debt (The Master List)</h5>
                                             <p className="text-sm text-gray-600">List every loan and credit card. Don't hide anything. Use a fresh CIBIL report to get the exact current outstanding amount, including all penalties and fees. Banks often add "hidden" legal charges which you should be aware of. Knowing your total debt-to-income ratio helps in building a "Hardship Case".</p>
                                         </div>
                                     </div>
                                     <div className="flex gap-4">
                                         <div className="flex-shrink-0 w-12 h-12 bg-white rounded-xl shadow-sm flex items-center justify-center text-blue-600 font-black">B</div>
                                         <div>
-                                            <h4 className="font-bold text-gray-900">Define Your "Lump Sum" Floor (Liquidity Check)</h4>
+                                            <h5 className="font-bold text-gray-900">Define Your "Lump Sum" Floor (Liquidity Check)</h5>
                                             <p className="text-sm text-gray-600">Determine the absolute maximum cash you can arrange right now through family, friends, PF withdrawal, or asset sales. Never offer a bank more than this figure. In the typical process for setting a personal loan in India, the "first offer" should be roughly 25-30% of the total outstanding, aiming to close at 40-50%.</p>
                                         </div>
                                     </div>
                                     <div className="flex gap-4">
                                         <div className="flex-shrink-0 w-12 h-12 bg-white rounded-xl shadow-sm flex items-center justify-center text-blue-600 font-black">C</div>
                                         <div>
-                                            <h4 className="font-bold text-gray-900">Identify the Hardship Proof (Evidence Gathering)</h4>
+                                            <h5 className="font-bold text-gray-900">Identify the Hardship Proof (Evidence Gathering)</h5>
                                             <p className="text-sm text-gray-600">Why can't you pay? Banks require documentation to justify a loss to their internal auditors. Gather hospital bills, termination letters, business closure certificates, or income tax returns showing a loss. If the hardship is "systemic" (like the industry you worked in collapsed), document that too with news articles.</p>
                                         </div>
                                     </div>
@@ -449,14 +449,14 @@ export default function TypicalProcessPersonalLoanSettlementPage() {
                         </section>
 
                         <section id="step-2-communication" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                                 Step 2: Strategic Communication with the Lender
-                            </h2>
+                            </h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 Once you have your facts ready, it is time to open the channel. Do not wait for recovery agents to knock on your door. Proactive communication is a major plus in the eyes of a settlement officer. It shows intent to resolve rather than intent to hide. In the typical process for setting a personal loan in India, the one who reaches out first often sets the tone of the negotiation.
                             </p>
                             <div className="bg-blue-600 rounded-3xl p-10 text-white shadow-xl mb-12 transform hover:scale-[1.01] transition-all">
-                                <h3 className="text-2xl font-black mb-4 uppercase tracking-tighter italic">Who Should You Talk To?</h3>
+                                <h4 className="text-2xl font-black mb-4 uppercase tracking-tighter italic">Who Should You Talk To?</h4>
                                 <p className="opacity-90 mb-8 font-medium">Do not negotiate with call center agents or field recovery boys. They have zero authority to grant waivers. They are only trained to "squeeze" some EMI payment out of you. To initiate the typical process for setting a personal loan in India, you need to reach out to the decision-makers:</p>
                                 <ul className="grid md:grid-cols-2 gap-4">
                                     <li className="flex items-center gap-2 bg-white/10 p-4 rounded-xl font-bold"><FontAwesomeIcon icon={faCheck} className="text-blue-200" /> The Principal Nodal Officer</li>
@@ -471,19 +471,19 @@ export default function TypicalProcessPersonalLoanSettlementPage() {
                         </section>
 
                         <section id="step-3-negotiation" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                                 Step 3: Mastering Strategic Negotiation
-                            </h2>
+                            </h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 Now comes the difficult part. The bank will likely respond with a high-ball offer. If you owe 10 lakhs, they will say, "Pay 8 lakhs and we close." They are testing your "pain threshold". Successful negotiation in the typical process for setting a personal loan in India requires patience and the right set of psychological triggers. You must be prepared for a "negotiation marathon" that could last 2 to 4 months.
                             </p>
                             <div className="flex flex-col md:flex-row gap-8 mb-12">
                                 <div className="md:w-1/2 p-8 bg-white border-2 border-dashed border-gray-200 rounded-3xl">
-                                    <h3 className="font-black text-gray-900 mb-4 uppercase tracking-widest text-sm">Tactical Lever: The "Third Party"</h3>
+                                    <h4 className="font-black text-gray-900 mb-4 uppercase tracking-widest text-sm">Tactical Lever: The "Third Party"</h4>
                                     <p className="text-gray-600 text-sm leading-relaxed italic">"I don't have this money. My parents are willing to lend me 2.5 lakhs strictly for a final settlement. if this doesn't work out, they will use that money for my sister's education or medical surgery. This is the only cash available to resolve this debt. Once this window closes, the money is gone."</p>
                                 </div>
                                 <div className="md:w-1/2 p-8 bg-white border-2 border-dashed border-gray-200 rounded-3xl">
-                                    <h4 className="font-black text-gray-900 mb-4 uppercase tracking-widest text-sm">Tactical Lever: "Multi-Debt Prioritization"</h4>
+                                    <h5 className="font-black text-gray-900 mb-4 uppercase tracking-widest text-sm">Tactical Lever: "Multi-Debt Prioritization"</h5>
                                     <p className="text-gray-600 text-sm leading-relaxed italic">"I have 3 other personal loans. I have a total of 5 lakhs remaining in my savings. Whoever gives me the best settlement letter first gets the money. The others will be left with zero as I will be filing for insolvency. You are my first choice, but I need a 70% waiver to make the math work."</p>
                                 </div>
                             </div>
@@ -496,14 +496,14 @@ export default function TypicalProcessPersonalLoanSettlementPage() {
                         </section>
 
                         <section id="step-4-settlement-letter" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                                 Step 4: The Critical Settlement Letter Verification
-                            </h2>
+                            </h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 Congratulations, you have reached a verbal agreement. But wait! In the typical process for setting a personal loan in India, a verbal agreement is worthless. Recovery agents have a notorious habit of promising a settlement, taking the money, and then marking it as "part payment" of the total EMI. They might even give you a fake letter on a photocopied letterhead to meet their monthly collection targets.
                             </p>
                             <div className="bg-red-50 p-8 rounded-3xl border border-red-100 mb-10">
-                                <h3 className="text-xl font-black text-red-900 mb-6 uppercase tracking-tighter">Crucial Checklist for the Settlement Letter:</h3>
+                                <h4 className="text-xl font-black text-red-900 mb-6 uppercase tracking-tighter">Crucial Checklist for the Settlement Letter:</h4>
                                 <ul className="space-y-4">
                                     <li className="flex items-center gap-3 font-semibold text-red-800"><FontAwesomeIcon icon={faStar} className="w-4 h-4" /> Letterhead Must Be Official: It must have the bank's logo, registered office address, and Corporate Identity Number (CIN).</li>
                                     <li className="flex items-center gap-3 font-semibold text-red-800"><FontAwesomeIcon icon={faStar} className="w-4 h-4" /> Correct Loan Details: Double-check the Loan Account Number (LAN). Even one digit wrong makes the letter legally invalid.</li>
@@ -518,20 +518,20 @@ export default function TypicalProcessPersonalLoanSettlementPage() {
                         </section>
 
                         <section id="step-5-payment" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                                 Step 5: Final Payment and Issuance of NDC
-                            </h2>
+                            </h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 Once you have the authentic letter, make the payment. Do not pay in cash to an agent. Use traceable methods: Demand Draft (DD), NEFT, RTGS, or a direct deposit at the bank counter. When paying through a digital app, ensure you are using the "Official" app and not a link sent by a recovery agent. Keep the deposit slip or the transaction PDF as if it were gold.
                             </p>
                             <div className="bg-[#2E2E2E] text-white p-10 rounded-3xl relative overflow-hidden mb-12">
-                                <h3 className="text-2xl font-black mb-4 tracking-tighter">The Holy Grail: No Dues Certificate (NDC)</h3>
+                                <h4 className="text-2xl font-black mb-4 tracking-tighter">The Holy Grail: No Dues Certificate (NDC)</h4>
                                 <p className="opacity-80 text-lg mb-6 leading-relaxed">After the payment is cleared, the bank is legally obligated to issue a No Dues Certificate (NDC) or a Closure Letter within 15 to 30 days. This is the final step in the typical process for setting a personal loan in India. This document confirms that the debt is dead. Never lose this certificate. Scan it, mail it to yourself, and keep physical copies in multiple safe locations.</p>
                                 <p className="opacity-80 text-lg leading-relaxed italic">Important Note: Ensure the NDC mentions that the bank will update the status with CIBIL within 45 days. If they don't, you will need the NDC to file a dispute with the credit bureau yourself.</p>
                             </div>
 
                             <div id="taxation">
-                                <h3 className="text-2xl font-black text-[#2E2E2E] mt-12 mb-6 uppercase tracking-tighter">Taxation and Legal Deep Dive: Is Waiver Taxable?</h3>
+                                <h4 className="text-2xl font-black text-[#2E2E2E] mt-12 mb-6 uppercase tracking-tighter">Taxation and Legal Deep Dive: Is Waiver Taxable?</h4>
                                 <p className="text-lg leading-relaxed mb-6">
                                     A common question in the typical process for setting a personal loan in India is whether the 50% or 60% waived amount is taxable. Under the Income Tax Act, a "waiver of loan" can sometimes be treated as "Income from Other Sources". However, for individual borrowers in genuine financial distress, this is rarely enforced.
                                 </p>
@@ -541,21 +541,21 @@ export default function TypicalProcessPersonalLoanSettlementPage() {
                             </div>
 
                             <div id="bank-strategies">
-                                <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">Strategic Differences by Bank Type</h2>
+                                <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">Strategic Differences by Bank Type</h3>
                                 <p className="text-lg leading-relaxed mb-6">
                                     Not all lenders follow the same playbook. In the typical process for setting a personal loan in India, your strategy must change based on who you are dealing with:
                                 </p>
                                 <div className="grid md:grid-cols-3 gap-6 mb-8">
                                     <div className="p-6 bg-white border border-gray-100 rounded-2xl shadow-sm">
-                                        <h3 className="font-bold text-gray-900 mb-2">Private Banks (HDFC, ICICI, Axis)</h3>
+                                        <h4 className="font-bold text-gray-900 mb-2">Private Banks (HDFC, ICICI, Axis)</h4>
                                         <p className="text-xs text-gray-600">They prioritize speed and NPV (Net Present Value). They are often the most willing to give deep discounts (50-70%) if the loan is over 270 days old, as they want to clean their balance sheets for investors.</p>
                                     </div>
                                     <div className="p-6 bg-white border border-gray-100 rounded-2xl shadow-sm">
-                                        <h4 className="font-bold text-gray-900 mb-2">Public Banks (SBI, PNB, BOB)</h4>
+                                        <h5 className="font-bold text-gray-900 mb-2">Public Banks (SBI, PNB, BOB)</h5>
                                         <p className="text-xs text-gray-600">They follow rigid "OTS Schemes" often launched around the end of the financial year. Negotiation is harder; they prefer you to fit into their pre-approved scheme boxes rather than custom deals.</p>
                                     </div>
                                     <div className="p-6 bg-white border border-gray-100 rounded-2xl shadow-sm">
-                                        <h5 className="font-bold text-gray-900 mb-2">Digital NBFCs & Apps</h5>
+                                        <h6 className="font-bold text-gray-900 mb-2">Digital NBFCs & Apps</h6>
                                         <p className="text-xs text-gray-600">They are extremely aggressive in the first 90 days but become very "settle-able" after 180 days. Many use third-party agencies, so you must be extra careful with letter verification here.</p>
                                     </div>
                                 </div>
@@ -563,9 +563,9 @@ export default function TypicalProcessPersonalLoanSettlementPage() {
                         </section>
 
                         <section id="cibil-impact" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                                 The Reality of Post-Settlement CIBIL Score
-                            </h2>
+                            </h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 We must be honest: a settlement is not a complete victory. It is a compromise. In the typical process for setting a personal loan in India, your CIBIL report will reflect the status as "Settled". This is fundamentally different from "Closed" or "Paid Off".
                             </p>
@@ -598,28 +598,28 @@ export default function TypicalProcessPersonalLoanSettlementPage() {
                                 </table>
                             </div>
 
-                            <h3 className="text-2xl font-black text-[#2E2E2E] mt-12 mb-6 uppercase tracking-tighter">Comparison: Settlement vs. Restructuring vs. Bankruptcy</h3>
+                            <h4 className="text-2xl font-black text-[#2E2E2E] mt-12 mb-6 uppercase tracking-tighter">Comparison: Settlement vs. Restructuring vs. Bankruptcy</h4>
                             <p className="text-lg leading-relaxed mb-6">
                                 Many borrowers get confused between different debt relief options. In the typical process for setting a personal loan in India, choosing the right path depends on your long-term goals.
                             </p>
                             <div className="bg-white border border-gray-100 rounded-3xl overflow-hidden shadow-sm mb-12">
                                 <div className="grid md:grid-cols-3 divide-y md:divide-y-0 md:divide-x divide-gray-100">
                                     <div className="p-8">
-                                        <h4 className="font-black text-blue-600 mb-4 uppercase">Loan Settlement</h4>
+                                        <h5 className="font-black text-blue-600 mb-4 uppercase">Loan Settlement</h5>
                                         <p className="text-sm text-gray-600 leading-relaxed">Pay a fraction of the debt (40-60%) in a lump sum. The account is closed as "Settled". High CIBIL impact for 7 years, but absolute relief from debt and harassment today.</p>
                                     </div>
                                     <div className="p-8">
-                                        <h4 className="font-black text-blue-600 mb-4 uppercase">Restructuring</h4>
+                                        <h5 className="font-black text-blue-600 mb-4 uppercase">Restructuring</h5>
                                         <p className="text-sm text-gray-600 leading-relaxed">The bank gives you more time or a lower interest rate. Total amount paid is usually HIGHER due to extended tenure. Better for CIBIL, but you stay in debt for much longer.</p>
                                     </div>
                                     <div className="p-8">
-                                        <h4 className="font-black text-blue-600 mb-4 uppercase">Insolvency/Bankruptcy</h4>
+                                        <h5 className="font-black text-blue-600 mb-4 uppercase">Insolvency/Bankruptcy</h5>
                                         <p className="text-sm text-gray-600 leading-relaxed">A court-driven process. Extremely difficult in India for individuals. It involves liquidating all identifiable assets. Only a last resort for debts exceeding 50+ lakhs.</p>
                                     </div>
                                 </div>
                             </div>
 
-                            <h3 className="text-2xl font-black text-[#2E2E2E] mt-12 mb-6 uppercase tracking-tighter">The "Year 1 to 7" Credit Recovery Roadmap</h3>
+                            <h4 className="text-2xl font-black text-[#2E2E2E] mt-12 mb-6 uppercase tracking-tighter">The "Year 1 to 7" Credit Recovery Roadmap</h4>
                             <p className="text-lg leading-relaxed mb-6">
                                 Settling is not the end of your financial life. It is the beginning of a recovery. Here is how you rebuild your credit after the typical process for setting a personal loan in India:
                             </p>
@@ -627,21 +627,21 @@ export default function TypicalProcessPersonalLoanSettlementPage() {
                                 <div className="flex gap-6 items-start">
                                     <div className="w-12 h-12 rounded-full bg-blue-600 text-white flex items-center justify-center font-black shrink-0">01</div>
                                     <div>
-                                        <h4 className="font-bold text-gray-900">Year 1: The "Cooling Off" Period</h4>
+                                        <h5 className="font-bold text-gray-900">Year 1: The "Cooling Off" Period</h5>
                                         <p className="text-sm text-gray-600">Do not apply for any credit. Any enquiry will be rejected and further lower your score. Focus on increasing your income and keeping a healthy bank balance. Open a "Fixed Deposit" based Credit Card (Secured Card) with a small limit of ₹20,000 to start building a new positive history.</p>
                                     </div>
                                 </div>
                                 <div className="flex gap-6 items-start">
                                     <div className="w-12 h-12 rounded-full bg-blue-600 text-white flex items-center justify-center font-black shrink-0">02</div>
                                     <div>
-                                        <h5 className="font-bold text-gray-900">Year 2-3: Stabilizing the Profile</h5>
+                                        <h6 className="font-bold text-gray-900">Year 2-3: Stabilizing the Profile</h6>
                                         <p className="text-sm text-gray-600">Use your secured card for small monthly spends (under 30% limit) and pay back in full every month. By now, your CIBIL score should start moving back toward 700. You might be eligible for a small personal loan (Consumer Durable Loan) for a phone or a TV from Fintech apps.</p>
                                     </div>
                                 </div>
                                 <div className="flex gap-6 items-start">
                                     <div className="w-12 h-12 rounded-full bg-blue-600 text-white flex items-center justify-center font-black shrink-0">03</div>
                                     <div>
-                                        <h5 className="font-bold text-gray-900">Year 4-7: Credit Maturity</h5>
+                                        <h6 className="font-bold text-gray-900">Year 4-7: Credit Maturity</h6>
                                         <p className="text-sm text-gray-600">The "Settled" remark starts losing its weight in the eyes of lenders. You can now apply for a Home Loan or a Car Loan with a larger down payment. By Year 7, if you have been perfect with your new payments, you are effectively back in the credit mainstream.</p>
                                     </div>
                                 </div>
@@ -649,30 +649,30 @@ export default function TypicalProcessPersonalLoanSettlementPage() {
                         </section>
 
                         <section id="professional-edge" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                                 Why Professional Help is the Deciding Factor
-                            </h2>
+                            </h3>
                             <p className="text-lg leading-relaxed mb-8">
                                 Navigating the typical process for setting a personal loan in India on your own is possible, but it is risky. One small mistake in wording or one fake settlement letter can set you back by months. This is where SettleLoans comes in.
                             </p>
                             <div className="grid sm:grid-cols-2 gap-8 mb-16">
                                 <div className="p-8 bg-blue-50 rounded-3xl border border-blue-100 shadow-sm relative overflow-hidden group">
                                     <div className="absolute top-0 right-0 w-24 h-24 bg-blue-100 rounded-bl-full -mr-12 -mt-12 group-hover:scale-125 transition-all"></div>
-                                    <h3 className="text-2xl font-black mb-4 relative z-10 text-blue-900 tracking-tighter">Benchmarking Power</h3>
+                                    <h4 className="text-2xl font-black mb-4 relative z-10 text-blue-900 tracking-tighter">Benchmarking Power</h4>
                                     <p className="text-sm text-blue-800 opacity-80 relative z-10">We deal with thousands of settlements every month. We know the exact "bottom line" for every bank. We know what ICICI will accept versus what HDFC will accept. We don't guess; we leverage data.</p>
                                 </div>
                                 <div className="p-8 bg-purple-50 rounded-3xl border border-purple-100 shadow-sm relative overflow-hidden group">
                                     <div className="absolute top-0 right-0 w-24 h-24 bg-purple-100 rounded-bl-full -mr-12 -mt-12 group-hover:scale-125 transition-all"></div>
-                                    <h4 className="text-2xl font-black mb-4 relative z-10 text-purple-900 tracking-tighter">Legal Shielding</h4>
+                                    <h5 className="text-2xl font-black mb-4 relative z-10 text-purple-900 tracking-tighter">Legal Shielding</h5>
                                     <p className="text-sm text-purple-800 opacity-80 relative z-10">Our legal team acts as your proxy. handle all recovery calls and legal notices. This stops the mental trauma and lets you focus on your work and family.</p>
                                 </div>
                             </div>
                         </section>
 
                         <section id="future" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                                 The Future of Personal Debt and Settlement in India
-                            </h2>
+                            </h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 As we look toward the 2030s, the typical process for setting a personal loan in India is set to undergo a digital transformation. The RBI's push for "Account Aggregators" and "Digital Public Infrastructure" (DPI) means that banks will soon have real-time visibility into your financial distress. This could lead to "Automated OTS" where the system itself offers you a settlement discount if it detects a genuine crash in your income.
                             </p>
@@ -682,9 +682,9 @@ export default function TypicalProcessPersonalLoanSettlementPage() {
                         </section>
 
                         <section id="glossary" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                                 Glossary: Terms You Must Know
-                            </h2>
+                            </h3>
                             <div className="grid sm:grid-cols-2 gap-4">
                                 <div className="p-4 bg-gray-50 rounded-xl border border-gray-100">
                                     <dt className="font-bold text-blue-600">Principal Outstanding</dt>
@@ -714,7 +714,7 @@ export default function TypicalProcessPersonalLoanSettlementPage() {
                         </section>
 
                         <section id="faqs" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 text-center">Frequently Asked Questions</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 text-center">Frequently Asked Questions</h3>
                             <div className="space-y-4">
                                 {[
                                     {
@@ -794,13 +794,13 @@ export default function TypicalProcessPersonalLoanSettlementPage() {
                         </section>
 
                         <section id="success-stories" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 text-center">Client Success Stories</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 text-center">Client Success Stories</h3>
                             <div className="grid md:grid-cols-2 gap-6 not-prose mb-16">
                                 <div className="bg-white p-6 rounded-2xl border border-gray-100 shadow-sm hover:shadow-md transition-all">
                                     <div className="flex items-center mb-4">
                                         <div className="w-10 h-10 rounded-full bg-[#1F5EFF]/10 flex items-center justify-center font-bold text-[#1F5EFF] mr-3">A</div>
                                         <div>
-                                            <h3 className="font-bold text-[#2E2E2E]">Amit Sharma</h3>
+                                            <h4 className="font-bold text-[#2E2E2E]">Amit Sharma</h4>
                                             <p className="text-xs text-gray-400">Mumbai | Private Bank</p>
                                         </div>
                                         <div className="ml-auto text-yellow-400 text-sm flex gap-0.5">
@@ -827,7 +827,7 @@ export default function TypicalProcessPersonalLoanSettlementPage() {
                                     <div className="flex items-center mb-4">
                                         <div className="w-10 h-10 rounded-full bg-[#1F5EFF]/10 flex items-center justify-center font-bold text-[#1F5EFF] mr-3">P</div>
                                         <div>
-                                            <h4 className="font-bold text-[#2E2E2E]">Priya Varma</h4>
+                                            <h5 className="font-bold text-[#2E2E2E]">Priya Varma</h5>
                                             <p className="text-xs text-gray-400">Delhi | NBFC</p>
                                         </div>
                                         <div className="ml-auto text-yellow-400 text-sm flex gap-0.5">
@@ -861,7 +861,7 @@ export default function TypicalProcessPersonalLoanSettlementPage() {
                         <section className="bg-[var(--color-text-hero)] rounded-[12px] p-10 md:p-16 text-center text-white relative overflow-hidden shadow-[0_20px_50px_rgba(31,94,255,0.3)]">
                             <div className="absolute top-0 left-0 w-full h-full bg-[#1F5EFF] opacity-10 pointer-events-none"></div>
                             <div className="relative z-10">
-                                <h2 className="text-3xl md:text-6xl font-black mb-8 leading-[0.95] tracking-tighter uppercase italic">Break the cycle <br /> of debt today</h2>
+                                <h3 className="text-3xl md:text-6xl font-black mb-8 leading-[0.95] tracking-tighter uppercase italic">Break the cycle <br /> of debt today</h3>
                                 <p className="text-lg md:text-3xl opacity-90 max-w-3xl mx-auto mb-12 leading-tight font-light">
                                     Join thousands of debt-free Indians who chose professional representation over constant harassment.
                                 </p>

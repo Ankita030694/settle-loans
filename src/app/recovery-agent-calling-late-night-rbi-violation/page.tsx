@@ -559,7 +559,7 @@ export default function RecoveryAgentCallingLateNightPage() {
 
             {/* Section 2: RBI 8 AM to 7 PM Mandate & Privacy Jurisprudence */}
             <section id="rbi-calling-window-regulations" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">2. Statutory Framework</h2>
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">2. Statutory Framework</h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 RBI rules control debt recovery. They stem from Section 21 and Section 35A of the <strong>Banking Regulation Act, 1949</strong>. They also derive from the <strong>RBI Act, 1934</strong>. These rules bind banks and loan apps.
               </p>
@@ -614,7 +614,7 @@ export default function RecoveryAgentCallingLateNightPage() {
 
             {/* Section 3: Criminal Intimidation & BNS Statutory Penalties */}
             <section id="criminal-intimidation-bns-penalties" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">3. Criminal Intimidation, Tort of Harassment</h2>
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">3. Criminal Intimidation, Tort of Harassment</h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Late-night threats by agents are crimes. Sections 351, 352, and 308 of the <strong>Bharatiya Nyaya Sanhita (BNS), 2023</strong> protect you.
               </p>
@@ -624,28 +624,28 @@ export default function RecoveryAgentCallingLateNightPage() {
 
               <div className="space-y-3 my-4">
                 <div className="p-4 rounded-xl border-l-4 border-red-500 bg-slate-50 space-y-1">
-                  <h3 className="font-bold text-slate-900 text-xs sm:text-sm flex items-center gap-1.5">
+                  <h4 className="font-bold text-slate-900 text-xs sm:text-sm flex items-center gap-1.5">
                     <AlertCircle className="w-4 h-4 text-red-600" />
                     <span>Criminal Intimidation (Section 351 &amp; 352 BNS / Sections 503 &amp; 506 IPC)</span>
-                  </h3>
+                  </h4>
                   <p className="text-xs text-slate-600 leading-relaxed">
                     Threatening harm over night calls is criminal intimidation. Threats bring up to seven years in jail, a fine, or both.
                   </p>
                 </div>
                 <div className="p-4 rounded-xl border-l-4 border-amber-500 bg-slate-50 space-y-1">
-                  <h4 className="font-bold text-slate-900 text-xs sm:text-sm flex items-center gap-1.5">
+                  <h5 className="font-bold text-slate-900 text-xs sm:text-sm flex items-center gap-1.5">
                     <ShieldAlert className="w-4 h-4 text-amber-600" />
                     <span>Extortion &amp; Threat of Injury (Section 308 BNS / Sections 383 &amp; 384 IPC)</span>
-                  </h4>
+                  </h5>
                   <p className="text-xs text-slate-600 leading-relaxed">
                     Demanding money through threats is extortion. It brings up to three years in prison plus court fines.
                   </p>
                 </div>
                 <div className="p-4 rounded-xl border-l-4 border-purple-500 bg-slate-50 space-y-1">
-                  <h4 className="font-bold text-slate-900 text-xs sm:text-sm flex items-center gap-1.5">
+                  <h5 className="font-bold text-slate-900 text-xs sm:text-sm flex items-center gap-1.5">
                     <PhoneCall className="w-4 h-4 text-purple-600" />
                     <span>Cyber Harassment &amp; Electronic Stalking (Section 66E, 67 &amp; 72 IT Act, 2000)</span>
-                  </h4>
+                  </h5>
                   <p className="text-xs text-slate-600 leading-relaxed">
                     Sending abusive audio clips or continuous robocalls is cyber harassment. The IT Act punishes it with up to three years in jail.
                   </p>
@@ -659,7 +659,7 @@ export default function RecoveryAgentCallingLateNightPage() {
 
             {/* Section 4: Bank NPA Accounting & NPV Recovery Formula */}
             <section id="bank-accounting-npa-npv-formula" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">4. Bank Accounting &amp; Night Calling Violations</h2>
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">4. Bank Accounting &amp; Night Calling Violations</h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Banks follow strict accounting rules. When loans remain unpaid for 90 days, lenders mark them as <strong>Non-Performing Assets (NPAs)</strong>.
               </p>
@@ -691,7 +691,7 @@ export default function RecoveryAgentCallingLateNightPage() {
 
             {/* Section 5: Infographic Banner */}
             <section id="infographic-timing-regulations" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">5. Visual Framework: RBI Debt Recovery Operating Window</h2>
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">5. Visual Framework: RBI Debt Recovery Operating Window</h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 This chart outlines RBI calling hours. It highlights banned night hours. It also shows your legal remedies:
               </p>
@@ -716,7 +716,7 @@ export default function RecoveryAgentCallingLateNightPage() {
 
             {/* Section 6: Securing Ombudsman Restraining Orders & FIRs */}
             <section id="ombudsman-restraining-orders-fir" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">6. Emergency Action Plan</h2>
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">6. Emergency Action Plan</h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 When late calls start, act calmly. Save all evidence. Clear records help lawyers take swift action.
               </p>
@@ -769,7 +769,7 @@ export default function RecoveryAgentCallingLateNightPage() {
 
             {/* Section 7: Converting Timing Violations into 55% OTS */}
             <section id="converting-harassment-into-ots" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">7. Strategic Advocate Negotiations</h2>
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">7. Strategic Advocate Negotiations</h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 A regulatory breach is your best negotiation tool. When lawyers prove night calls, the power shifts to you.
               </p>
@@ -794,7 +794,7 @@ export default function RecoveryAgentCallingLateNightPage() {
 
             {/* Section 8: Sanction Letter Forensics & ₹5,000/Day NDC Mandate */}
             <section id="sanction-letter-forensics-ndc" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">8. Forensic Sanction Letter Verification</h2>
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">8. Forensic Sanction Letter Verification</h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Beware of fake settlement letters from rogue agents. Never pay without verifying the sanction letter.
               </p>
@@ -867,7 +867,7 @@ export default function RecoveryAgentCallingLateNightPage() {
 
             {/* Section 9: Comparative Matrix */}
             <section id="comparative-recovery-matrix" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">9. Night Calling Legal Defense Matrix</h2>
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">9. Night Calling Legal Defense Matrix</h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 This table compares lawful recovery rules with illegal practices and direct remedies:
               </p>
@@ -926,7 +926,7 @@ export default function RecoveryAgentCallingLateNightPage() {
 
             {/* Section 10: SettleLoans Defense Advisory */}
             <section id="settleloans-defense-advisory" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">10. SettleLoans Night Harassment Legal Defense</h2>
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">10. SettleLoans Night Harassment Legal Defense</h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 At <strong>SettleLoans</strong>, we believe loan default is never a crime. No citizen should face sleep loss or late-night threats.
               </p>
@@ -971,7 +971,7 @@ export default function RecoveryAgentCallingLateNightPage() {
             <section id="faqs" className="space-y-4 pt-4 border-t border-slate-200">
               <div className="flex items-center gap-2 text-slate-900 font-bold text-xl sm:text-2xl tracking-tight mb-2">
                 <HelpCircle className="w-6 h-6 text-[#1F5EFF]" />
-                <h2>FAQs: Late-Night Recovery Harassment &amp; Legal Remedies</h2>
+                <h3>FAQs: Late-Night Recovery Harassment &amp; Legal Remedies</h3>
               </div>
               <p className="text-xs sm:text-sm text-slate-600 leading-relaxed">
                 Clear legal answers on recovery calling hours. Learn RBI rules, sleep rights, and complaint steps.
@@ -1000,9 +1000,9 @@ export default function RecoveryAgentCallingLateNightPage() {
 
             {/* 5 Official Regulatory Links */}
             <section className="border-t border-slate-200 pt-8 mb-4">
-              <h3 className="text-xs sm:text-sm font-bold text-slate-900 mb-3 uppercase tracking-wider">
+              <h4 className="text-xs sm:text-sm font-bold text-slate-900 mb-3 uppercase tracking-wider">
                 Official Statutory &amp; Regulatory References
-              </h3>
+              </h4>
               <div className="grid grid-cols-1 sm:grid-cols-2 gap-2.5 text-xs">
                 <a
                   href="https://cms.rbi.org.in"
@@ -1054,9 +1054,9 @@ export default function RecoveryAgentCallingLateNightPage() {
 
             {/* 10 Related Guide Badges */}
             <section className="border-t border-slate-200 pt-8 mb-8">
-              <h3 className="text-xs sm:text-sm font-bold text-slate-900 mb-4 uppercase tracking-wider">
+              <h4 className="text-xs sm:text-sm font-bold text-slate-900 mb-4 uppercase tracking-wider">
                 Related Legal Defense &amp; Loan Resolution Guides
-              </h3>
+              </h4>
               <div className="flex flex-wrap gap-2">
                 <Link
                   href="/bank-recovery-harassment-complaint"

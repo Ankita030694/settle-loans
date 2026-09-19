@@ -293,7 +293,7 @@ export default function SampleLetterToBankForLoanPage() {
                         </section>
 
                         <section id="why-it-matters" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">Why Writing a Professional Letter Matters</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">Why Writing a Professional Letter Matters</h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 You might wonder why a formal letter is still necessary when banks have sophisticated online portals and automated approval algorithms. The truth is that lending decisions, especially for larger amounts or specialized business requirements, are ultimately made by human beings. A branch manager or a loan officer reviews your file, and their initial impression is heavily influenced by how you present your case.
                             </p>
@@ -315,37 +315,37 @@ export default function SampleLetterToBankForLoanPage() {
                         </section>
 
                         <section id="types-of-loans" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">Types of Bank Loans and Their Specific Letter Requirements</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">Types of Bank Loans and Their Specific Letter Requirements</h3>
                             <p className="text-lg leading-relaxed mb-8">
                                 Not all loans are created equal, and consequently, not all loan request letters should be identical. Tailoring your sample letter to bank for loan according to the specific category of credit you seek is a critical strategy. Different loan products have varying risk profiles, regulatory requirements, and assessment criteria. Here is a detailed breakdown of the common loan types and what your letter must emphasize for each.
                             </p>
                             <div className="space-y-6 mb-10">
                                 <div className="p-8 bg-gray-50 border-l-8 border-[#1F5EFF] rounded-r-2xl shadow-sm">
-                                    <h3 className="font-bold text-2xl mb-4 text-[#2E2E2E]">Personal Loans</h3>
+                                    <h4 className="font-bold text-2xl mb-4 text-[#2E2E2E]">Personal Loans</h4>
                                     <p className="text-base text-gray-700 leading-relaxed mb-4">
                                         Personal loans are unsecured, meaning you do not need to pledge collateral. Because the risk to the bank is higher, your letter must strongly emphasize your stable income, your tenure at your current job, and your pristine credit history. You must clearly state the exact purpose of the loan, whether it is for debt consolidation, a family wedding, or a medical emergency. Transparency is vital here. Do not use vague terms; be specific about how the funds will be utilized and how you have calculated your repayment capacity based on your monthly disposable income.
                                     </p>
                                 </div>
                                 <div className="p-8 bg-gray-50 border-l-8 border-[#1F5EFF] rounded-r-2xl shadow-sm">
-                                    <h4 className="font-bold text-2xl mb-4 text-[#2E2E2E]">Business Loans</h4>
+                                    <h5 className="font-bold text-2xl mb-4 text-[#2E2E2E]">Business Loans</h5>
                                     <p className="text-base text-gray-700 leading-relaxed mb-4">
                                         When drafting a sample letter to bank for loan for business purposes, the tone must be highly commercial and objective. You must print this letter on your official company letterhead. The content must outline your business model, your target market, your competitive advantage, and most importantly, your projected cash flows. You are essentially pitching an investment opportunity to the bank. The letter should serve as an executive summary of your comprehensive business plan, highlighting exactly how the capital will be deployed to generate sufficient revenue to cover the principal and interest payments without straining your operating capital.
                                     </p>
                                 </div>
                                 <div className="p-8 bg-gray-50 border-l-8 border-[#1F5EFF] rounded-r-2xl shadow-sm">
-                                    <h4 className="font-bold text-2xl mb-4 text-[#2E2E2E]">Home Loans</h4>
+                                    <h5 className="font-bold text-2xl mb-4 text-[#2E2E2E]">Home Loans</h5>
                                     <p className="text-base text-gray-700 leading-relaxed mb-4">
                                         A home loan letter requires a focus on asset creation. You need to provide details about the property you intend to purchase, construct, or renovate. Mention the property address, the total estimated cost, the builder's credentials if applicable, and the exact loan amount required after accounting for your down payment. Banks view home loans favorably because they are secured against a tangible asset, but they still need absolute clarity on the legal status of the property and your long term financial stability to ensure regular EMI payments over ten or twenty years.
                                     </p>
                                 </div>
                                 <div className="p-8 bg-gray-50 border-l-8 border-[#1F5EFF] rounded-r-2xl shadow-sm">
-                                    <h4 className="font-bold text-2xl mb-4 text-[#2E2E2E]">Education Loans</h4>
+                                    <h5 className="font-bold text-2xl mb-4 text-[#2E2E2E]">Education Loans</h5>
                                     <p className="text-base text-gray-700 leading-relaxed mb-4">
                                         For an education loan, the letter is often written by the student alongside a co-applicant, typically a parent or guardian. The letter must detail the chosen academic institution, the specific course of study, the duration of the program, and the total fee structure including tuition, accommodation, and living expenses. You must also highlight the future employability and expected income potential of the student upon graduation, as this forms the basis of the repayment plan once the moratorium period ends.
                                     </p>
                                 </div>
                                 <div className="p-8 bg-gray-50 border-l-8 border-[#1F5EFF] rounded-r-2xl shadow-sm">
-                                    <h4 className="font-bold text-2xl mb-4 text-[#2E2E2E]">Auto Loans</h4>
+                                    <h5 className="font-bold text-2xl mb-4 text-[#2E2E2E]">Auto Loans</h5>
                                     <p className="text-base text-gray-700 leading-relaxed mb-4">
                                         An auto loan request should be straightforward and factual. You must mention the exact make, model, and variant of the vehicle you wish to purchase. Include the on-road price quote from an authorized dealer. State your contribution towards the margin money and the exact amount you wish the bank to finance. Auto loans are generally processed quickly because the vehicle serves as collateral, but a clear, error-free letter expedites the documentation and disbursement process significantly.
                                     </p>
@@ -354,7 +354,7 @@ export default function SampleLetterToBankForLoanPage() {
                         </section>
 
                         <section id="essential-elements" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">Essential Elements of a Perfect Loan Application Letter</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">Essential Elements of a Perfect Loan Application Letter</h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 Every highly effective sample letter to bank for loan contains several non-negotiable elements. Missing any of these components can delay your application or result in a swift rejection. Let us analyze the anatomy of a perfect formal request.
                             </p>
@@ -376,7 +376,7 @@ export default function SampleLetterToBankForLoanPage() {
                         </section>
 
                         <section id="step-by-step-guide" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">Step by Step Guide on How to Write a Sample Letter to Bank for Loan</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">Step by Step Guide on How to Write a Sample Letter to Bank for Loan</h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 Drafting your letter does not have to be an intimidating process. By following this systematic approach, you can create a compelling sample letter to bank for loan in a matter of minutes.
                             </p>
@@ -384,49 +384,49 @@ export default function SampleLetterToBankForLoanPage() {
                                 <li className="flex items-start gap-4">
                                     <span className="w-8 h-8 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center text-sm font-bold flex-shrink-0 mt-1">1</span>
                                     <div>
-                                        <h3 className="text-xl font-bold text-[#2E2E2E] mb-2">Gather All Your Information</h3>
+                                        <h4 className="text-xl font-bold text-[#2E2E2E] mb-2">Gather All Your Information</h4>
                                         <p className="text-gray-700 leading-relaxed">Before you type a single word, collect all necessary data. You need your bank account number, the exact loan amount required, a clear breakdown of the purpose, and your employment or business details. Having everything at your fingertips prevents interruptions and ensures accuracy.</p>
                                     </div>
                                 </li>
                                 <li className="flex items-start gap-4">
                                     <span className="w-8 h-8 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center text-sm font-bold flex-shrink-0 mt-1">2</span>
                                     <div>
-                                        <h4 className="text-xl font-bold text-[#2E2E2E] mb-2">Set Up the Professional Format</h4>
+                                        <h5 className="text-xl font-bold text-[#2E2E2E] mb-2">Set Up the Professional Format</h5>
                                         <p className="text-gray-700 leading-relaxed">Open a fresh document in your word processor. Set the margins to standard one inch all around. Choose a clean, professional font like Arial, Calibri, or Times New Roman in size 11 or 12. Align the text to the left. This creates a clean, corporate aesthetic.</p>
                                     </div>
                                 </li>
                                 <li className="flex items-start gap-4">
                                     <span className="w-8 h-8 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center text-sm font-bold flex-shrink-0 mt-1">3</span>
                                     <div>
-                                        <h4 className="text-xl font-bold text-[#2E2E2E] mb-2">Write the Header and Address block</h4>
+                                        <h5 className="text-xl font-bold text-[#2E2E2E] mb-2">Write the Header and Address block</h5>
                                         <p className="text-gray-700 leading-relaxed">Type your full contact details at the very top. Skip a line, type the current date, skip another line, and then type the recipient's details. Ensure you have the correct spelling of the branch manager's name if you know it, or simply use "The Branch Manager."</p>
                                     </div>
                                 </li>
                                 <li className="flex items-start gap-4">
                                     <span className="w-8 h-8 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center text-sm font-bold flex-shrink-0 mt-1">4</span>
                                     <div>
-                                        <h4 className="text-xl font-bold text-[#2E2E2E] mb-2">Draft a Powerful Subject Line</h4>
+                                        <h5 className="text-xl font-bold text-[#2E2E2E] mb-2">Draft a Powerful Subject Line</h5>
                                         <p className="text-gray-700 leading-relaxed">Write "Subject:" followed by a clear, one sentence summary of your request. Bold this line so it stands out prominently. For example: "Subject: Formal Request for a Business Expansion Loan of Rs. 10 Lakhs."</p>
                                     </div>
                                 </li>
                                 <li className="flex items-start gap-4">
                                     <span className="w-8 h-8 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center text-sm font-bold flex-shrink-0 mt-1">5</span>
                                     <div>
-                                        <h4 className="text-xl font-bold text-[#2E2E2E] mb-2">Write the Core Content</h4>
+                                        <h5 className="text-xl font-bold text-[#2E2E2E] mb-2">Write the Core Content</h5>
                                         <p className="text-gray-700 leading-relaxed">Begin with a respectful salutation. In the first paragraph, introduce yourself as a customer. In the second paragraph, state the exact loan amount and its detailed purpose. In the third paragraph, explain your income source and how you intend to repay the loan on time without fail.</p>
                                     </div>
                                 </li>
                                 <li className="flex items-start gap-4">
                                     <span className="w-8 h-8 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center text-sm font-bold flex-shrink-0 mt-1">6</span>
                                     <div>
-                                        <h4 className="text-xl font-bold text-[#2E2E2E] mb-2">Conclude and Add Enclosures</h4>
+                                        <h5 className="text-xl font-bold text-[#2E2E2E] mb-2">Conclude and Add Enclosures</h5>
                                         <p className="text-gray-700 leading-relaxed">End with a polite sentence thanking the manager for their time. Use a formal sign-off. Below your typed name, write "Enclosures:" and list every single document you are attaching to the letter. This acts as a checklist for the banking staff.</p>
                                     </div>
                                 </li>
                                 <li className="flex items-start gap-4">
                                     <span className="w-8 h-8 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center text-sm font-bold flex-shrink-0 mt-1">7</span>
                                     <div>
-                                        <h4 className="text-xl font-bold text-[#2E2E2E] mb-2">Proofread Extensively</h4>
+                                        <h5 className="text-xl font-bold text-[#2E2E2E] mb-2">Proofread Extensively</h5>
                                         <p className="text-gray-700 leading-relaxed">Never submit the first draft. Read the letter multiple times to catch typos, grammatical errors, or awkward phrasing. Ensure all numbers, especially the loan amount and your account number, are absolutely correct. A simple typo in an account number can cause severe delays.</p>
                                     </div>
                                 </li>
@@ -434,7 +434,7 @@ export default function SampleLetterToBankForLoanPage() {
                         </section>
 
                         <section id="personal-loan-template" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">Sample Letter to Bank for Personal Loan Template</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">Sample Letter to Bank for Personal Loan Template</h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 A personal loan is highly versatile and can be used for numerous private expenses. Because it is unsecured, your letter must project immense reliability. Use the following sample letter to bank for loan template and modify the bracketed information to suit your exact situation. Do not copy it blindly; customize it to tell your unique financial story.
                             </p>
@@ -487,7 +487,7 @@ Yours faithfully,
                         </section>
 
                         <section id="business-loan-template" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">Sample Letter to Bank for Business Loan Template</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">Sample Letter to Bank for Business Loan Template</h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 Securing capital for a business requires a completely different approach. The bank needs to see that you are a prudent entrepreneur with a viable strategy for growth. Your sample letter to bank for loan in this scenario must be written on official company letterhead. It should sound confident, strategic, and deeply rooted in financial realities.
                             </p>
@@ -539,7 +539,7 @@ Sincerely,
                         </section>
 
                         <section id="home-loan-template" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">Sample Letter to Bank for Home Loan Template</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">Sample Letter to Bank for Home Loan Template</h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 A home loan represents a massive, long term financial commitment. Your letter must reflect stability and a clear understanding of the property you intend to acquire. Banks will heavily scrutinize both your financial capacity and the legal integrity of the property. This sample letter to bank for loan addresses both aspects effectively.
                             </p>
@@ -588,7 +588,7 @@ Yours faithfully,
                         </section>
 
                         <section id="education-loan-template" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">Sample Letter to Bank for Education Loan Template</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">Sample Letter to Bank for Education Loan Template</h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 Education loans are unique because the primary beneficiary (the student) usually has no current income. The letter must focus on the prestige of the educational institution, the prospects of the course, and the financial strength of the co-applicant (usually a parent). This sample letter to bank for loan provides a structured way to present these details.
                             </p>
@@ -638,7 +638,7 @@ Yours faithfully,
                         </section>
 
                         <section id="auto-loan-template" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">Sample Letter to Bank for Auto Loan Template</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">Sample Letter to Bank for Auto Loan Template</h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 Auto loans are secured against the vehicle itself. The letter should be direct, specifying the exact vehicle details, the on-road cost, and the margin money you are bringing to the table. Use this highly effective sample letter to bank for loan to ensure a smooth vehicle financing process.
                             </p>
@@ -681,7 +681,7 @@ Yours faithfully,
                         </section>
 
                         <section id="common-mistakes" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">Common Mistakes to Avoid When Drafting Your Loan Request</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">Common Mistakes to Avoid When Drafting Your Loan Request</h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 Even with a great sample letter to bank for loan at your disposal, it is easy to make simple errors that can jeopardize your chances of approval. Here are the most critical mistakes you must absolutely avoid during the drafting process.
                             </p>
@@ -703,7 +703,7 @@ Yours faithfully,
                         </section>
 
                         <section id="formatting-presentation" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">How to Format and Present Your Loan Application Letter</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">How to Format and Present Your Loan Application Letter</h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 The visual presentation of your sample letter to bank for loan is almost as important as the words written on the page. A beautifully formatted letter commands respect and immediate attention. It demonstrates that you are an organized, meticulous individual.
                             </p>
@@ -722,7 +722,7 @@ Yours faithfully,
                         </section>
 
                         <section id="supporting-documents" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">The Role of Supporting Documents in Your Loan Request</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">The Role of Supporting Documents in Your Loan Request</h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 A brilliantly written sample letter to bank for loan is merely the cover page for your actual application. The true weight of your request lies in the supporting documents you attach. These documents provide the empirical evidence required to back up the claims made in your letter. Without them, your letter is just a piece of paper with unsubstantiated promises.
                             </p>
@@ -741,7 +741,7 @@ Yours faithfully,
                         </section>
 
                         <section id="follow-up-strategies" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">Navigating Bank Communication: Follow Up Strategies After Submitting Your Letter</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">Navigating Bank Communication: Follow Up Strategies After Submitting Your Letter</h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 Submitting your sample letter to bank for loan is merely the first step in a longer dance. The banking system is notorious for being slow and bureaucratic. Files can sit on desks for days awaiting a single signature. Therefore, mastering the art of the polite but persistent follow up is essential to secure your funding in a timely manner.
                             </p>
@@ -760,7 +760,7 @@ Yours faithfully,
                         </section>
 
                         <section id="negotiating-terms" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">Tips for Negotiating Loan Terms and Interest Rates</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">Tips for Negotiating Loan Terms and Interest Rates</h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 Many people assume that the terms offered by the bank after reviewing your sample letter to bank for loan are final and non-negotiable. This is a costly misconception. The banking sector is highly competitive, and managers have a degree of discretionary power to adjust interest rates, processing fees, and pre-payment penalties for high quality clients.
                             </p>
@@ -779,7 +779,7 @@ Yours faithfully,
                         </section>
 
                         <section id="bank-terminology" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">Understanding Bank Terminology in Loan Letters</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">Understanding Bank Terminology in Loan Letters</h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 When crafting your sample letter to bank for loan, using correct financial terminology can significantly enhance the professional impact of your request. It shows the manager that you understand the mechanics of borrowing. Here is a brief guide to essential terms.
                             </p>
@@ -792,7 +792,7 @@ Yours faithfully,
                         </section>
 
                         <section id="financial-health" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">How to Present Your Financial Health Effectively</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">How to Present Your Financial Health Effectively</h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 Your sample letter to bank for loan is essentially a sales pitch, and the product you are selling is your own financial reliability. How you present your financial health determines the success of the pitch. Be transparent, accurate, and focus on stability.
                             </p>
@@ -802,7 +802,7 @@ Yours faithfully,
                         </section>
 
                         <section id="digital-vs-physical" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">Digital vs Physical Letters: Which is Better?</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">Digital vs Physical Letters: Which is Better?</h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 In today's highly digitized banking landscape, you might wonder whether a physical sample letter to bank for loan is still relevant, or if an email suffices. The answer depends on the bank and the size of the request.
                             </p>
@@ -812,7 +812,7 @@ Yours faithfully,
                         </section>
 
                         <section id="psychology-of-request" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">The Psychology Behind a Successful Loan Request</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">The Psychology Behind a Successful Loan Request</h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 Writing a sample letter to bank for loan is not just an administrative task; it is an exercise in persuasion. You must understand the psychology of the loan officer reading it. Their primary motivation is risk aversion. They want to lend money, but only to individuals who pose zero threat to the bank's capital.
                             </p>
@@ -822,7 +822,7 @@ Yours faithfully,
                         </section>
 
                         <section id="success-stories" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 text-center">Success Stories: How a Great Letter Made the Difference</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 text-center">Success Stories: How a Great Letter Made the Difference</h3>
                             <p className="text-lg leading-relaxed mb-10 text-center max-w-3xl mx-auto">
                                 Do not just take our word for it. Review these experiences from individuals who utilized our strategies to draft the perfect sample letter to bank for loan, resulting in fast approvals and highly favorable terms.
                             </p>
@@ -863,7 +863,7 @@ Yours faithfully,
                                         <div className="flex items-center mb-4">
                                             <div className="w-10 h-10 rounded-full bg-blue-100 flex items-center justify-center font-bold text-blue-600 mr-3">{review.name.split(' ')[0][0]}</div>
                                             <div>
-                                                <h3 className="font-bold text-[#2E2E2E]">{review.name}</h3>
+                                                <h4 className="font-bold text-[#2E2E2E]">{review.name}</h4>
                                                 <p className="text-xs text-gray-400">{review.loc}</p>
                                             </div>
                                             <div className="ml-auto text-yellow-400 text-sm flex gap-1">
@@ -884,7 +884,7 @@ Yours faithfully,
                         </section>
 
                         <section id="faqs" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Frequently Asked Questions</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Frequently Asked Questions</h3>
                             <div className="space-y-6 not-prose">
                                 {[
                                     { q: "How do I write a sample letter to bank for loan?", a: "To write a sample letter to bank for loan, you must start with a formal header containing your contact details and the date. Address the branch manager respectfully. In the subject line, clearly state the purpose and amount of the loan. In the body paragraphs, explain your requirement, demonstrate your ability to repay, and list all the supporting documents you have attached. End with a professional closing." },
@@ -912,7 +912,7 @@ Yours faithfully,
                         </section>
 
                         <div className="mt-16 p-8 bg-[#1F5EFF] rounded-3xl text-white text-center">
-                            <h2 className="text-3xl font-black mb-6">Need Help Drafting Your Loan Application?</h2>
+                            <h3 className="text-3xl font-black mb-6">Need Help Drafting Your Loan Application?</h3>
                             <p className="text-xl mb-8 opacity-90">
                                 Our financial experts are standing by to help you craft the perfect sample letter to bank for loan and review your documentation.
                             </p>

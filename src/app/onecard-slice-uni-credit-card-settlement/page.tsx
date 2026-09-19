@@ -592,7 +592,7 @@ export default function OneCardSliceUniCreditCardSettlementPage() {
                 <TrendingUp className="w-4 h-4" />
                 <span>2. The 36%–48% APR Trap &amp; Ledger Inflation</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Anatomy of Fintech Card Default &amp; Charges</h2>
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Anatomy of Fintech Card Default &amp; Charges</h3>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Fintech cards offer instant credit limits from ₹50,000 to over ₹5,00,000. Job loss or medical costs can make full payments hard. If you pay only the Minimum Amount Due, the bank removes the interest-free grace period on all purchases.
               </p>
@@ -600,10 +600,10 @@ export default function OneCardSliceUniCreditCardSettlementPage() {
                 Interest rates of 36% to 48% APR compound daily. Combined with 18% GST and monthly late fees, card balances rise fast. An initial debt of ₹2,00,000 can grow past ₹3,40,000 in one year.
               </p>
               <div className="bg-slate-50 border border-slate-200 rounded-2xl p-5 my-6">
-                <h3 className="font-bold text-slate-900 text-sm mb-3 flex items-center gap-2">
+                <h4 className="font-bold text-slate-900 text-sm mb-3 flex items-center gap-2">
                   <Banknote className="w-4 h-4 text-[#1F5EFF]" />
                   <span>Fintech Card Ledger Inflation Mechanics (Example: ₹2,00,000 Default)</span>
-                </h3>
+                </h4>
                 <div className="overflow-x-auto">
                   <table className="min-w-full bg-white text-xs sm:text-sm">
                     <thead>
@@ -656,7 +656,7 @@ export default function OneCardSliceUniCreditCardSettlementPage() {
                 <Clock className="w-4 h-4" />
                 <span>3. Delinquency Timeline: DPD 1–90 to NPA</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Chronology of Default: DPD to NPA</h2>
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Chronology of Default: DPD to NPA</h3>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Under RBI IRACP rules, overdue credit card accounts move through clearly defined stages:
               </p>
@@ -717,7 +717,7 @@ export default function OneCardSliceUniCreditCardSettlementPage() {
                 <Calculator className="w-4 h-4" />
                 <span>4. Bank Accounting &amp; NPV Recovery Valuation</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Net Present Value (NPV) Recovery Math</h2>
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Net Present Value (NPV) Recovery Math</h3>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Fintech cards are unsecured debts. Filing civil suits under Order 37 CPC for ₹1 Lakh to ₹5 Lakhs is costly for partner banks. Court cases take 3 to 5 years and bring high lawyer fees. Instead, banks use Net Present Value (NPV) models to evaluate settlement offers.
               </p>
@@ -753,9 +753,9 @@ export default function OneCardSliceUniCreditCardSettlementPage() {
                       <span className="text-[10px] font-black uppercase tracking-widest text-blue-300 block">
                         Fintech Resolution Architecture
                       </span>
-                      <h3 className="text-sm md:text-base font-black text-white leading-tight">
+                      <h4 className="text-sm md:text-base font-black text-white leading-tight">
                         OneCard, Slice &amp; Uni Fintech Card Settlement &amp; Legal Resolution Blueprint
-                      </h3>
+                      </h4>
                     </div>
                   </div>
                   <a
@@ -802,7 +802,7 @@ export default function OneCardSliceUniCreditCardSettlementPage() {
                 <ShieldAlert className="w-4 h-4" />
                 <span>6. Digital Recovery Defense &amp; RBI Protections</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Combatting Digital Recovery Harassment</h2>
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Combatting Digital Recovery Harassment</h3>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Defaulted borrowers often face aggressive collection tactics. These include continuous phone calls, threatening WhatsApp messages. And contact with employers. Under RBI Digital Lending Guidelines and Credit Card rules, these actions are illegal:
               </p>
@@ -823,7 +823,7 @@ export default function OneCardSliceUniCreditCardSettlementPage() {
                 <Gavel className="w-4 h-4" />
                 <span>7. e-NACH PSSA Notices, ODR &amp; Civil Suits</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Defending Sec 25 PSSA &amp; Arbitration</h2>
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Defending Sec 25 PSSA &amp; Arbitration</h3>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 When card accounts pass 90 to 120 days overdue, partner banks may start legal actions:
               </p>
@@ -844,7 +844,7 @@ export default function OneCardSliceUniCreditCardSettlementPage() {
                 <Layers className="w-4 h-4" />
                 <span>8. Step-by-Step Fintech Card OTS Roadmap</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">5-Step Strategic Settlement Framework</h2>
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">5-Step Strategic Settlement Framework</h3>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Follow these five steps to settle your fintech credit card debt safely:
               </p>
@@ -863,7 +863,7 @@ export default function OneCardSliceUniCreditCardSettlementPage() {
                 <FileCheck className="w-4 h-4" />
                 <span>9. Partner Bank Sanction Letter &amp; ₹0 NDC</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Sanction Letter Audit &amp; ₹0 NDC Mandate</h2>
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Sanction Letter Audit &amp; ₹0 NDC Mandate</h3>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Never pay money on informal messages or phone calls. A genuine OTS letter must meet six key points:
               </p>
@@ -886,7 +886,7 @@ export default function OneCardSliceUniCreditCardSettlementPage() {
                 <TrendingUp className="w-4 h-4" />
                 <span>10. CIBIL Trajectory &amp; Score Rehabilitation</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Fintech Card CIBIL Recovery &amp; Credit Rebuilding</h2>
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Fintech Card CIBIL Recovery &amp; Credit Rebuilding</h3>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 After settlement, the bank reports the card as &quot;Settled&quot. with a balance of ₹0. Your score may drop by 75 to 120 points at first. However, this stops new default marks and ends legal threats. You can rebuild your score to 750+ within 18 to 24 months:
               </p>
@@ -941,7 +941,7 @@ export default function OneCardSliceUniCreditCardSettlementPage() {
                 <HelpCircle className="w-4 h-4" />
                 <span>12. Frequently Asked Questions</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">OneCard, Slice &amp; Uni Fintech Card Settlement</h2>
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">OneCard, Slice &amp; Uni Fintech Card Settlement</h3>
 
               <div className="space-y-4">
                 {faqs.map((faq, index) => (
@@ -964,10 +964,10 @@ export default function OneCardSliceUniCreditCardSettlementPage() {
 
             {/* Official Statutory & Regulatory Reference Strip (5 Links) */}
             <div className="bg-slate-50 border border-slate-200 rounded-2xl p-6 my-10">
-              <h3 className="text-base font-bold text-slate-900 mb-4 flex items-center gap-2">
+              <h4 className="text-base font-bold text-slate-900 mb-4 flex items-center gap-2">
                 <Scale className="w-5 h-5 text-[#1F5EFF]" />
                 Official Statutory &amp; Regulatory References
-              </h3>
+              </h4>
               <ul className="space-y-3 text-xs sm:text-sm text-slate-600">
                 <li className="flex items-start gap-2">
                   <ExternalLink className="w-4 h-4 text-[#1F5EFF] flex-shrink-0 mt-0.5" />
@@ -1029,10 +1029,10 @@ export default function OneCardSliceUniCreditCardSettlementPage() {
 
             {/* Related Guides & Resources Strip (10 Topic Badges) */}
             <div className="bg-slate-50 border border-slate-200 rounded-2xl p-6 my-10">
-              <h3 className="text-base font-bold text-slate-900 mb-4 flex items-center gap-2">
+              <h4 className="text-base font-bold text-slate-900 mb-4 flex items-center gap-2">
                 <BookOpen className="w-5 h-5 text-[#1F5EFF]" />
                 Explore Related Credit Card &amp; Debt Resolution Guides
-              </h3>
+              </h4>
               <div className="flex flex-wrap gap-2.5">
                 <Link
                   href="/american-express-amex-credit-card-settlement-india"

@@ -181,7 +181,7 @@ export default function LAPSettlementPage() {
                                 In India, the laws governing secured debt are heavily weighted in favor of financial institutions. The SARFAESI Act, 2002, allows banks to take possession of your property without ever stepping into a civil court. This creates a state of extreme urgency for the borrower. However, being in default does not mean you have lost your rights. A specialized lawyer for loan against property settlement can be the difference between a forced auction and a dignified, manageable resolution.
                             </p>
                             <div className="bg-blue-50 p-8 rounded-2xl border border-blue-100 mb-10">
-                                <h3 className="text-xl font-bold text-[#1F5EFF] mb-4 uppercase tracking-wider">The Anatomy of Secured Debt Default</h3>
+                                <h4 className="text-xl font-bold text-[#1F5EFF] mb-4 uppercase tracking-wider">The Anatomy of Secured Debt Default</h4>
                                 <p className="text-gray-700 leading-relaxed mb-4 font-medium">
                                     A default on an LAP usually moves through distinct stages: Special Mention Account (SMA), Non-Performing Asset (NPA), and then the formal SARFAESI enforcement. Most borrowers wait until the bank pastes a 'Possession Notice' on their gate to seek help. This is a mistake.
                                 </p>
@@ -192,13 +192,13 @@ export default function LAPSettlementPage() {
                         </section>
 
                         <section id="sarfaesi-act" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">
                                 The SARFAESI Act: Understanding the Bank’s Power and Your Defense
-                            </h2>
+                            </h3>
                             <p className="text-lg text-gray-700 leading-relaxed mb-6">
                                 The Securitisation and Reconstruction of Financial Assets and Enforcement of Security Interest (SARFAESI) Act, 2002, is the primary legal tool used by banks and NBFCs to recover property loans. It bypasses the slow-moving civil courts, allowing lenders to seize assets directly.
                             </p>
-                            <h3 className="text-2xl font-bold text-[#2E2E2E] mb-4 uppercase tracking-tighter">Key Sections You Must Know</h3>
+                            <h4 className="text-2xl font-bold text-[#2E2E2E] mb-4 uppercase tracking-tighter">Key Sections You Must Know</h4>
                             <ul className="list-none space-y-6 mb-10 text-gray-800 font-medium">
                                 <li className="p-6 bg-gray-50 rounded-2xl border border-gray-200">
                                     <strong className="text-[#1F5EFF]">Section 13(2): The Demand Notice.</strong> Once your account is an NPA, the bank issues a 60-day notice demanding full payment. This is your warning shot. You have the right to file a 'Representation and Objection' within this window.
@@ -216,9 +216,9 @@ export default function LAPSettlementPage() {
                         </section>
 
                         <section id="lap-mechanics" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 uppercase tracking-tight">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 uppercase tracking-tight">
                                 LAP Settlement Logic: Why Banks Settle
-                            </h2>
+                            </h3>
                             <p className="text-lg text-gray-700 leading-relaxed mb-6">
                                 From the bank’s perspective, a property auction is a last resort. Auctions are risky. If the real estate market is down, the property might not sell at the 'Reserve Price'. If the property is litigated, no one will bid. A property with a 'Stay Order' from the DRT is a liability for the bank.
                             </p>
@@ -227,20 +227,20 @@ export default function LAPSettlementPage() {
                             </p>
                             <div className="grid grid-cols-1 md:grid-cols-2 gap-8 mb-10">
                                 <div className="p-8 bg-blue-50 rounded-3xl border border-blue-100 shadow-sm">
-                                    <h3 className="font-bold text-xl mb-3 text-[#1F5EFF]">Net Present Value (NPV)</h3>
+                                    <h4 className="font-bold text-xl mb-3 text-[#1F5EFF]">Net Present Value (NPV)</h4>
                                     <p className="text-gray-700 leading-relaxed text-sm">Banks calculate the value of money over time. We argue that 1 Crore today is better than 1.5 Crore after 5 years of litigation and maintenance of the seized property.</p>
                                 </div>
                                 <div className="p-8 bg-blue-50 rounded-3xl border border-blue-100 shadow-sm">
-                                    <h4 className="font-bold text-xl mb-3 text-[#1F5EFF]">Provisioning Impact</h4>
+                                    <h5 className="font-bold text-xl mb-3 text-[#1F5EFF]">Provisioning Impact</h5>
                                     <p className="text-gray-700 leading-relaxed text-sm">Under RBI rules, banks must set aside capital for bad loans. By settling, they 'free up' this capital for new lending, which is a major incentive for branch managers.</p>
                                 </div>
                             </div>
                         </section>
 
                         <section id="ots-negotiation" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">
                                 OTS Negotiation Strategies for High-Value Property Loans
-                            </h2>
+                            </h3>
                             <p className="text-lg text-gray-700 leading-relaxed mb-6">
                                 Negotiating for an LAP is different from a personal loan. The amounts are higher, involves collateral, and the banks are more aggressive. A successful strategy requires a 'Multi-Pronged' legal and financial approach.
                             </p>
@@ -254,7 +254,7 @@ export default function LAPSettlementPage() {
                                     <div key={i} className="flex gap-4 p-6 bg-gray-50 rounded-2xl border border-gray-200 hover:border-[#1F5EFF]/50 transition-colors">
                                         <div className="w-8 h-8 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center font-bold flex-shrink-0">{i + 1}</div>
                                         <div>
-                                            <h3 className="font-bold text-[#2E2E2E] mb-1">{item.step}</h3>
+                                            <h4 className="font-bold text-[#2E2E2E] mb-1">{item.step}</h4>
                                             <p className="text-gray-600 text-sm">{item.desc}</p>
                                         </div>
                                     </div>
@@ -263,53 +263,53 @@ export default function LAPSettlementPage() {
                         </section>
 
                         <section id="drt-litigation" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 uppercase tracking-tight">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 uppercase tracking-tight">
                                 Debt Recovery Tribunal (DRT): Your Primary Legal Battlefield
-                            </h2>
+                            </h3>
                             <p className="text-lg text-gray-700 leading-relaxed mb-6">
                                 If the bank proceeds with possession under 13(4), your only recourse is to file a 'Securitization Application' (S.A.) in the Debt Recovery Tribunal. This is a specialized tribunal that hears cases between banks and borrowers.
                             </p>
-                            <h3 className="text-2xl font-bold text-[#2E2E2E] mb-6">Strategic Use of Section 17</h3>
+                            <h4 className="text-2xl font-bold text-[#2E2E2E] mb-6">Strategic Use of Section 17</h4>
                             <p className="text-lg text-gray-700 leading-relaxed mb-6">
                                 Section 17 of the SARFAESI Act allows a borrower to challenge the measures taken by the bank. If you can prove the bank skipped even a single procedural step (like giving the proper 30-day auction notice), the DRT can quash the entire recovery process. We have seen cases where property possession was restored to the borrower because the newspaper advertisement was in the wrong language or published in an obscure paper.
                             </p>
                             <div className="bg-red-50 p-8 rounded-2xl border border-red-100 mb-10">
-                                <h4 className="text-xl font-bold text-red-700 mb-4">The 'Pre-Deposit' Myth</h4>
+                                <h5 className="text-xl font-bold text-red-700 mb-4">The 'Pre-Deposit' Myth</h5>
                                 <p className="text-gray-700 leading-relaxed">Many believe you must pay 50% of the debt to approach the DRT. While the DRAT (Appellate Tribunal) requires a deposit, the DRT (Original Application) does not mandatory fixed deposit fee at the time of filing an S.A., although the judge may ask for a partial payment to grant a stay. A skilled lawyer can argue for a 'Zero or Minimal Deposit' stay based on current financial hardship.</p>
                             </div>
                         </section>
 
                         <section id="auction-challenge" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">
                                 How to Challenge and Stop a Property Auction
-                            </h2>
+                            </h3>
                             <p className="text-lg text-gray-700 leading-relaxed mb-6">
                                 Seeing your house in a public auction notice is devastating. But even at this late stage, there are several legal levers to pull. An auction notice is not an auction sale.
                             </p>
                             <div className="grid grid-cols-1 md:grid-cols-2 gap-6 mb-10 text-gray-700">
                                 <div className="p-6 bg-white border border-[#DEDEDE] rounded-xl shadow-sm">
-                                    <h3 className="font-black text-lg mb-2 text-[#2E2E2E]">Right to Redemption</h3>
+                                    <h4 className="font-black text-lg mb-2 text-[#2E2E2E]">Right to Redemption</h4>
                                     <p className="text-sm">Under Section 13(8), you have the right to redeem the property by paying the dues any time before the auction is completed. We use this to finalize the OTS while the auction clock is ticking.</p>
                                 </div>
                                 <div className="p-6 bg-white border border-[#DEDEDE] rounded-xl shadow-sm">
-                                    <h4 className="font-black text-lg mb-2 text-[#2E2E2E]">Valuation Challenge</h4>
+                                    <h5 className="font-black text-lg mb-2 text-[#2E2E2E]">Valuation Challenge</h5>
                                     <p className="text-sm">If the bank sets the price too low, we challenge it as 'Fraud on the Borrower'. Banks have a fiduciary duty to get a fair price for the property.</p>
                                 </div>
                                 <div className="p-6 bg-white border border-[#DEDEDE] rounded-xl shadow-sm">
-                                    <h4 className="font-black text-lg mb-2 text-[#2E2E2E]">Public Notice Errors</h4>
+                                    <h5 className="font-black text-lg mb-2 text-[#2E2E2E]">Public Notice Errors</h5>
                                     <p className="text-sm">Minor errors in the description of the property (Area, Survey Number, Boundaries) can make the auction legally invalid.</p>
                                 </div>
                                 <div className="p-6 bg-white border border-[#DEDEDE] rounded-xl shadow-sm">
-                                    <h4 className="font-black text-lg mb-2 text-[#2E2E2E]">The 'Buyer' Scare</h4>
+                                    <h5 className="font-black text-lg mb-2 text-[#2E2E2E]">The 'Buyer' Scare</h5>
                                     <p className="text-sm">A property with an active DRT case is radioactive to buyers. We ensure the public knows the property is under active litigation, which stops the auction from succeeding naturally.</p>
                                 </div>
                             </div>
                         </section>
 
                         <section id="agricultural-land" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 uppercase tracking-tight">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 uppercase tracking-tight">
                                 The Agricultural Land Exemption: Section 31(i)
-                            </h2>
+                            </h3>
                             <p className="text-lg text-gray-700 leading-relaxed mb-6 text-gray-800 font-bold italic">
                                 This is one of the most powerful defenses in Indian property law that is frequently overlooked.
                             </p>
@@ -322,9 +322,9 @@ export default function LAPSettlementPage() {
                         </section>
 
                         <section id="rbi-fair-practice" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">
                                 RBI Fair Practice Code and Recovery Agent Guidelines
-                            </h2>
+                            </h3>
                             <p className="text-lg text-gray-700 leading-relaxed mb-6">
                                 Real estate recovery involves high emotions. The RBI's Master Circular on 'Fair Practices Code' for lenders sets clear boundaries on how banks must treat borrowers.
                             </p>
@@ -343,15 +343,15 @@ export default function LAPSettlementPage() {
                                 </li>
                             </ul>
                             <div className="bg-yellow-50 p-8 rounded-2xl border-l-8 border-[#2E2E2E] mb-10">
-                                <h3 className="text-xl font-bold mb-4">The Internal Ombudsman Shield</h3>
+                                <h4 className="text-xl font-bold mb-4">The Internal Ombudsman Shield</h4>
                                 <p className="text-gray-700">If a bank branch is being unreasonable, we escalate to the bank's Internal Ombudsman. This is a mandatory regulatory level that must investigate borrower grievances before a bank can proceed with coercive recovery.</p>
                             </div>
                         </section>
 
                         <section id="step-by-step" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 uppercase tracking-tight">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 uppercase tracking-tight">
                                 Our Step-by-Step LAP Resolution Process
-                            </h2>
+                            </h3>
                             <p className="text-lg text-gray-700 leading-relaxed mb-6">
                                 Resolving property debt is a marathon, not a sprint. We follow a systematic process designed to protect the asset first and resolve the debt second.
                             </p>
@@ -375,9 +375,9 @@ export default function LAPSettlementPage() {
                         </section>
 
                         <section id="success-stories" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 uppercase tracking-tight text-center">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 uppercase tracking-tight text-center">
                                 Property Saved: Success Stories in LAP Settlement
-                            </h2>
+                            </h3>
                             <div className="grid grid-cols-1 md:grid-cols-2 gap-6 not-prose">
                                 {[
                                     {
@@ -415,7 +415,7 @@ export default function LAPSettlementPage() {
                                                 {review.name.charAt(0)}
                                             </div>
                                             <div>
-                                                <h3 className="font-bold text-[#2E2E2E]">{review.name}</h3>
+                                                <h4 className="font-bold text-[#2E2E2E]">{review.name}</h4>
                                                 <p className="text-xs text-gray-400">{review.loc}</p>
                                             </div>
                                             <div className="ml-auto text-yellow-400 text-sm">★★★★★</div>
@@ -430,9 +430,9 @@ export default function LAPSettlementPage() {
                         </section>
 
                         <section id="comprehensive-faq" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">
                                 Frequently Asked Questions: Property Debt Resolution
-                            </h2>
+                            </h3>
                             <div className="space-y-4 not-prose">
                                 {[
                                     { q: "Can the bank evict me without a 60-day notice?", a: "No. Under Section 13(2), they MUST give you a clear 60-day window to respond. Any shortcut is illegal." },
@@ -467,9 +467,9 @@ export default function LAPSettlementPage() {
                         </section>
 
                         <section id="conclusion" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 uppercase tracking-tight">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 uppercase tracking-tight">
                                 Conclusion: Defending Your Legacy and Your Future
-                            </h2>
+                            </h3>
                             <p className="text-lg text-gray-700 leading-relaxed mb-6 font-bold">
                                 A property is more than bricks and mortar; it is your security, your business foundation, and your family's future. Losing it to a bank default is a major crisis, but it is not inevitable.
                             </p>

@@ -285,63 +285,63 @@ export default function RajasthanLoanSettlementPage() {
             </section>
 
             <section id="rajasthan-court-interventions" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl font-black mb-6">Rajasthan Judiciary: Landmark Interventions in Debt Disputes</h2>
+              <h3 className="text-3xl font-black mb-6">Rajasthan Judiciary: Landmark Interventions in Debt Disputes</h3>
               <p>The judicial landscape in Rajasthan provides robust protection to borrowers facing aggressive recovery tactics. The Rajasthan High Court, through its benches in Jodhpur and Jaipur, has a history of delivering landmark judgments that balance the rights of financial institutions with the fundamental rights of citizens. In several instances, the court has intervened to stay the possession of residential properties under the SARFAESI Act when procedural lapses by the bank were evident. This judicial oversight ensures that banks cannot bypass the law in their pursuit of recovery.</p>
               <p>Furthermore, the establishment of specialized Commercial Courts in districts like Jaipur and Jodhpur has streamlined the resolution of high value business debts. These courts are designed to handle complex commercial disputes with greater speed and technical expertise. For entrepreneurs and MSMEs in Rajasthan, this means that their legal defenses are heard by judges who understand the nuances of business contracts and financial distress. We leverage these judicial forums to protect our clients' interests, frequently citing state specific precedents that favor fair mediation over forced liquidation.</p>
               <p>Another critical aspect of the legal environment in Rajasthan is the proactive role of the District Legal Services Authorities (DLSA). Beyond just organizing Lok Adalats, the DLSA provides a platform for pre-litigation mediation. This is an excellent opportunity for borrowers to resolve disputes before they even reach a formal court setup. Our team specializes in presenting your financial hardship during these mediation sessions, often achieving settlements that are much more favorable than what a bank might offer through its standard recovery channels.</p>
             </section>
 
             <section id="moneylenders-act" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl font-black mb-6">Rajasthan Money Lenders Act, 1963: Borrower Protections</h2>
+              <h3 className="text-3xl font-black mb-6">Rajasthan Money Lenders Act, 1963: Borrower Protections</h3>
               <p>One of the foundational legal protections for residents of Rajasthan is the Rajasthan Money Lenders Act of 1963. This state specific law was enacted to regulate the activities of private moneylenders and protect borrowers from the high interest rates and exploitative practices often found in the informal lending sector. In many urban and rural areas of Rajasthan, individuals still turn to local financiers when they cannot access formal bank credit. This Act makes it mandatory for all such lenders to hold a valid license from the state government.</p>
               <p>The Act provides several crucial safeguards. It empowers courts to reopen transactions that are found to be harsh or unconscionable. It also caps the maximum interest rate that can be charged by a private lender. Most importantly, it stipulates that any contract entered into by an unlicensed lender may be legally unenforceable. This means that if you are being harassed by an informal lender who is operating without the required state registration, you have substantial legal grounds to defend your interests. We help our clients understand how these state laws can be leveraged to resolve disputes that fall outside the traditional banking system.</p>
               <p>For many residents in cities like Alwar or Bikaner, understanding these protections is the first step toward freedom. Often, the fear of local lenders prevents people from taking action. By applying the provisions of the 1963 Act, we can often mediate settlements that are fair and realistic. Our legal experts are well versed in the nuances of Rajasthan's specific lending regulations and use them to ensure that no borrower is subjected to illegal or unethical recovery methods. Reclaiming your rights under this Act is a powerful way to end the cycle of predatory debt.</p>
             </section>
 
             <section id="samadhan-scheme" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl font-black mb-6">Samadhan Scheme 2024 and Cooperative Debt Relief Initiatives</h2>
+              <h3 className="text-3xl font-black mb-6">Samadhan Scheme 2024 and Cooperative Debt Relief Initiatives</h3>
               <p>The Government of Rajasthan has been proactive in introducing schemes to provide relief to borrowers in the cooperative sector. The Samadhan Scheme of 2024 is a prime example of such a state led initiative. Launched by the cooperatives department, this scheme specifically targets the recovery of bad and doubtful loans from central cooperative banks and land development banks. The primary objective is to help borrowers who have been unable to repay their loans due to natural calamities like droughts, industrial recession, or personal tragedies.</p>
               <p>Under the Samadhan Scheme, eligible borrowers are often allowed to settle their debts by paying the principal amount with a significantly reduced interest rate, sometimes as low as a flat 8% regardless of the original contractual rate. This provides a massive direct benefit to farmers, small artisans, and rural entrepreneurs across Rajasthan. We monitor these state notifications closely and assist our clients in identifying if they qualify for these special one time resolution programs. Navigating the paperwork for these departmental schemes requires precision, and our team provides the end to end support needed to ensure that no eligible resident misses out on these benefits.</p>
               <p>In addition to the Samadhan Scheme, the Mukhyamantri Awdhipar Byaj Rahat Ekmust Samjhauta Yojana for the years 2025 and 2026 offers further hope. This scheme aims to provide up to a 100% waiver on overdue interest for defaulters of Land Development Banks, provided the principal is repaid within the stipulated time. These initiatives reflect the state's recognition of the financial hardships faced by its citizens. We act as a bridge between the borrowers and these cooperative institutions, ensuring that the settlement process is transparent, fast, and results in a permanent closure of the debt account.</p>
             </section>
 
             <section id="why-settle-rajasthan" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl font-black mb-6">Why Should You Settle Your Loan in Rajasthan?</h2>
+              <h3 className="text-3xl font-black mb-6">Why Should You Settle Your Loan in Rajasthan?</h3>
               <p>Loan settlement is a formal and legally valid process where a borrower and a lender mutually agree to close an outstanding debt for an amount that is less than the total balance. This is typically achieved through a one time lump sum payment. In the Indian legal context, this is recognized as a valid form of contract and is a standard way for banks to manage non performing assets (NPAs). For someone struggling with persistent debt in Rajasthan, settlement offers a much needed second chance to stabilize their financial life without the weight of growing interest and penalties.</p>
               <p>One of the most significant advantages of settlement is the immediate stop it puts to the accumulation of interest and late fees. Often, the original loan amount becomes a small fraction of the total demand as penalties pile up over months or years. By entering into a professional negotiation, you can freeze these amounts and agree on a final figure that is manageable. For our clients in Jaipur and Jodhpur, the primary benefit is often the total cessation of recovery communications, allowing them to focus on their work and family without constant anxiety.</p>
               <p>Banks and financial institutions are large organizations with their own financial targets and risk management needs. During certain periods, such as the end of a financial quarter or during state wide Lok Adalats, banks are highly motivated to clean up their books and recover at least a portion of their bad debts. We leverage this institutional cycle to secure waivers that can range from 40% to 70% of the total outstanding amount. This strategic approach ensures that you achieve a full and final clearance of your debt for the absolute minimum amount possible under the circumstances.</p>
             </section>
 
             <section id="legal-protection-rslsa" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl font-black mb-6">Legal Protection via Rajasthan State Legal Services Authority (RSLSA)</h2>
+              <h3 className="text-3xl font-black mb-6">Legal Protection via Rajasthan State Legal Services Authority (RSLSA)</h3>
               <p>The Rajasthan State Legal Services Authority (RSLSA) is a vital body that ensures justice is accessible to every citizen of the state. It operates under the Legal Services Authorities Act of 1987 and is dedicated to providing free legal aid and promoting amicable settlement of disputes. For a borrower in Rajasthan, the RSLSA provides a platform where they can seek mediation and resolution for their banking disputes without entering into expensive and long drawn out litigation in civil courts.</p>
               <p>The RSLSA periodically organizes National Lok Adalats across the state, from the high court level down to the smallest district court. These sessions provide an informal yet legally binding forum where borrowers can meet with bank representatives in the presence of a judicial officer. The primary goal is to reach a compromise that is fair to both parties. A settlement reached in a Lok Adalat carries the same legal weight as a decree from a civil court. It is final and cannot be appealed, providing the borrower with the ultimate legal certainty that their debt is closed forever.</p>
               <p>Participating in these state sponsored events also has significant financial benefits. There are no court fees involved for the settlement process itself. If a case is already pending in a regular court and is settled in a Lok Adalat, the court fees previously paid are often refunded. Our legal team in Rajasthan has extensive experience in navigating the RSLSA framework and representing clients effectively in these public forums. We help you prepare your case, draft the settlement proposals, and ensure that the final agreement documented by the Lok Adalat correctly reflects the negotiated terms.</p>
             </section>
 
             <section id="lok-adalats-rajasthan" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl font-black mb-6">Navigating Lok Adalats in Jaipur, Jodhpur, and All Districts</h2>
+              <h3 className="text-3xl font-black mb-6">Navigating Lok Adalats in Jaipur, Jodhpur, and All Districts</h3>
               <p>Lok Adalats are a cornerstone of the alternative dispute resolution system in Rajasthan. Held multiple times a year, these sessions are a boon for those looking to resolve their bank debts quickly. In Jaipur, the district courts see the resolution of thousands of banking cases in a single Lok Adalat session. The atmosphere is designed to be conciliatory rather than adversarial, making it much easier for an individual borrower to present their situation and reach an agreement with the lender.</p>
               <p>For a resident of Rajasthan, whether in the urban center of Kota or the arid regions of Jaisalmer, participating in a Lok Adalat can drastically reduce the time and cost involved in settling a loan. We help our clients by identifying the upcoming Lok Adalat dates and coordinating with the bank's legal department to get their cases listed. This proactive approach ensures that when the session begins, we are already halfway to an agreement. The presence of a judicial officer ensures that there is no pressure from the bank and that the settlement is recorded with total legal accuracy.</p>
               <p>Wait times in regular courts for debt related cases can be years. In contrast, a Lok Adalat can resolve a case in a single day. This efficiency is particularly valuable for those who are facing multiple lawsuits or who want to clear their name before starting a new business or job. Our specialists across Rajasthan provide the necessary logistical and legal support to make the Lok Adalat experience smooth and successful for our clients.</p>
             </section>
 
             <section id="drt-jaipur-procedures" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl font-black mb-6">Strategic Representation in DRT Jaipur: Handling High Value Cases</h2>
+              <h3 className="text-3xl font-black mb-6">Strategic Representation in DRT Jaipur: Handling High Value Cases</h3>
               <p>For loans exceeding ₹20 lakhs, banks often approach the Debt Recovery Tribunal (DRT). In Rajasthan, the DRT is located in Jaipur and handles cases from across the state. Facing a case in the DRT can be a daunting prospect because banks use specialized laws like the SARFAESI Act or the RDB Act to attach properties or freeze bank accounts. If you have received a notice from the DRT, it is a sign that the bank has moved from simple recovery to formal legal action.</p>
               <p>However, it is important to know that even at the DRT level, settlement remains a very frequently used and effective tool. The judicial officers at the DRT often encourage parties to enter into a one time settlement (OTS) to avoid lengthy proceedings. Our specialized DRT lawyers in Jaipur work to protect your interests by analyzing the bank's procedures for any technical or procedural errors. Such errors, whether in the issuance of a Section 13(2) notice or in the valuation of the property, can be used as significant leverage during settlement negotiations.</p>
               <p>Representing a client at the DRT requiere a unique combination of legal knowledge and financial acumen. We have successfully defended numerous individuals and business owners from Jaipur to Barmer in the DRT. Our goal is always to protect your assets while working towards a realistic financial compromise that allows you to close the case and retain your property. By engaging professionally with the DRT process, we help you turn a legal crisis into a managed financial resolution.</p>
             </section>
 
             <section id="banking-trends-rajasthan" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl font-black mb-6">Banking Trends and NPA Recovery in Rajasthan 2024 and 2025</h2>
+              <h3 className="text-3xl font-black mb-6">Banking Trends and NPA Recovery in Rajasthan 2024 and 2025</h3>
               <p>The banking sector in Rajasthan is undergoing a significant shift. While national players like State Bank of India (SBI) and other public sector banking giants have always had a strong presence, local institutions like Au Small Finance Bank, headquartered in Jaipur, have grown rapidly. This institutional diversity means that different lenders have different approaches to managing their non performing assets (NPAs). In 2024 and 2025, we have seen an increased focus by banks on recovering smaller retail loans through one time settlement schemes.</p>
               <p>Banks are under constant pressure from regulators and shareholders to reduce their NPA ratios. This institutional pressure often works in favor of the borrower who is willing to come forward with a serious settlement offer. We use our extensive database of past settlements to understand the internal guidelines of different banks operating in Rajasthan. This data allows us to know the likely waiver percentage a bank will accept for a particular type of loan, whether it is a credit card debt in Jodhpur or a business loan in Udaipur.</p>
               <p>By positioning your settlement as a way for the bank to recover a guaranteed amount immediately rather than a doubtful amount after years of litigation, we create a win win scenario. Our expertise in the local banking landscape of Rajasthan ensures that your proposal is handled by the right decision makers within the bank's hierarchy, leading to faster approvals and deeper waivers.</p>
             </section>
 
             <section id="harassment-shield-rajasthan" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl font-black mb-6">Stop Recovery Harassment: Your Rights and Rajasthan Police Helplines</h2>
+              <h3 className="text-3xl font-black mb-6">Stop Recovery Harassment: Your Rights and Rajasthan Police Helplines</h3>
               <p>One of the most distressing parts of being in debt is the harassment from third party recovery agents. In many parts of Rajasthan, these agents often ignore the law and use intimidation or verbal abuse to pressure borrowers. It is critical to know that such behavior is a direct violation of the guidelines set by the Reserve Bank of India (RBI). No bank or financial institution has the legal right to compromise your dignity or enter your home without following the proper legal process.</p>
               <p>If you are facing harassment in any part of Rajasthan, you should take immediate action:</p>
               <ul>
@@ -354,52 +354,52 @@ export default function RajasthanLoanSettlementPage() {
             </section>
 
             <section id="agricultural-rfc-debt" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl font-black mb-6">Managing Agricultural Debt & RFC Schemes in Rajasthan</h2>
+              <h3 className="text-3xl font-black mb-6">Managing Agricultural Debt & RFC Schemes in Rajasthan</h3>
               <p>Given the importance of agriculture to the economy of Rajasthan, managing rural debt is a priority for many families. Farmers in the Ganganagar belt or the semi arid regions face unique challenges due to fluctuating yields and market prices. Loans for tractors, irrigation, and crop production often become difficult to manage when the season is poor. The Rajasthan State Cooperative Bank and various land development banks are the primary lenders here. The state government periodically introduces debt waiver or one time resolution schemes to help this sector.</p>
               <p>Additionally, for industrial and small scale entrepreneurs, the Rajasthan Financial Corporation (RFC) provides crucial credit. The RFC also introduces OTS schemes for its borrowers from time to time. These schemes often have specific formulas for calculating the settlement amount, taking into account the outstanding principal and sometimes the current market value of the security. We help our clients navigate these departmental procedures, ensuring that all applications are filed correctly and that they receive the maximum benefits allowed under the corporation's policies.</p>
               <p>Understanding the interplay between state sponsored relief and standard banking recovery is where we provide maximum value. Whether it is an agricultural loan in Hanumangarh or an RFC industrial loan in Bhilwara, we provide the specialized guidance needed to achieve a fair resolution. Our goal is to help Rajasthan's producers and entrepreneurs clear their past financial obligations so they can continue to contribute to the state's growth without the shadow of debt.</p>
             </section>
 
             <section id="mental-health-debt" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl font-black mb-6">Debt Stress and Mental Health: A Cultural Perspective from Rajasthan</h2>
+              <h3 className="text-3xl font-black mb-6">Debt Stress and Mental Health: A Cultural Perspective from Rajasthan</h3>
               <p>In the culture of Rajasthan, where the concept of 'Izzat' or social standing is of paramount importance, debt is often seen as a source of immense shame. This societal pressure can lead to severe mental stress, anxiety, and in tragic cases, can even affect the physical well being of the borrower. Many people suffer in silence for years, trying to keep their financial struggles a secret from their family and community. We believe that debt is a financial challenge, not a moral failure.</p>
               <p>Our counselors and lawyers work together to provide a holistic support system. We help our clients understand that almost every major business and even governments operate on credit. Choosing to settle a debt is a proactive and wise financial decision that shows you are taking control of your life. By speaking up and seeking professional help, you are protecting not just your finances, but your family's future and your own mental peace. A debt free life in Jaipur or Jodhpur is possible once you decide to face the problem with a clear plan.</p>
             </section>
 
             <section id="industrial-growth-debt" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl font-black mb-6">MSME Relief and Industrial Debt in Rajasthan's Growing Hubs</h2>
+              <h3 className="text-3xl font-black mb-6">MSME Relief and Industrial Debt in Rajasthan's Growing Hubs</h3>
               <p>Rajasthan has several thriving industrial clusters, such as the stone industry in Kishangarh, the textile hub in Bhilwara, and the emerging IT sector in Jaipur. These businesses often require significant capital, usually in the form of working capital limits or term loans. When the global or local market faces a downturn, even well managed units can find themselves in an NPA situation. For Small and Medium Enterprises (MSMEs), the pressure of debt can lead to the closure of units and loss of livelihoods.</p>
               <p>We specialized in MSME debt resolution. We help business owners present their cases to the bank as a 'going concern' that needs a restructuring or a one time settlement to survive. By arguing that a settlement is more beneficial for the bank than a forced liquidation of the machinery and land, we often secure substantial waivers. Our knowledge of the local industrial landscape in Rajasthan makes us the preferred choice for entrepreneurs who want to resolve their business debts and focus on their core enterprise.</p>
             </section>
 
             <section id="sarfaesi-high-court" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl font-black mb-6">SARFAESI Act and the Intervention of Rajasthan High Court</h2>
+              <h3 className="text-3xl font-black mb-6">SARFAESI Act and the Intervention of Rajasthan High Court</h3>
               <p>The SARFAESI Act is one of the most powerful tools available to banks for recovering secured loans. It allows them to take possession of a mortgaged property without the intervention of a court. For many homeowners and shopkeepers in Rajasthan, a SARFAESI notice is their greatest fear. However, the law provides substantial safeguards, and the Rajasthan High Court, both at its main seat in Jodhpur and the Jaipur bench, has often intervened to protect borrowers from arbitrary or illegal bank actions.</p>
               <p>We identify procedural lapses in the bank's recovery process. Whether the bank failed to provide the mandatory 60 day notice or the valuation of the property was conducted unfairly, these errors can be used to challenge the bank's action in the DRT or through a petition in the High Court. This legal counter strategy creates a period of stability, which is often the best time to negotiate a settlement. Our legal team is adept at using these judicial safeguards to bring banks to the negotiating table on terms that are favorable to our clients.</p>
             </section>
 
             <section id="informal-debt-cycles" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl font-black mb-6">Managing Informal Debt Cycles and Private Moneylenders</h2>
+              <h3 className="text-3xl font-black mb-6">Managing Informal Debt Cycles and Private Moneylenders</h3>
               <p>A common mistake many borrowers make is taking high interest loans from informal sources to pay off their bank EMIs. This creates a dangerous 'debt loop' that is extremely difficult to break. Because informal lenders in Rajasthan often operate outside the regulatory framework, their recovery methods can be even more aggressive than those of banks. Breaking this cycle requires a firm decision to prioritize and resolve the institutional debt first.</p>
               <p>We provide strategic advice on how to break this loop. By settling your bank debts first through a formal process, you reclaim your access to formal credit and state benefits, which can eventually help in resolving other obligations. We act as a professional buffer, helping you navigate these complex and often stressful interpersonal debt situations with a clear legal and financial strategy.</p>
             </section>
 
             <section id="settlement-roadmap-rj" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl font-black mb-6">Your Step by Step Roadmap to Freedom in Rajasthan</h2>
+              <h3 className="text-3xl font-black mb-6">Your Step by Step Roadmap to Freedom in Rajasthan</h3>
               <p>Achieving total freedom from debt in Rajasthan is a three stage process. It begins with a 'Comprehensive Debt Audit.' Here, we analyze every notice, statement, and call you have received. We prioritize your debts based on their interest rates, legal risks, and the intensity of recovery pressure. This audit gives us a clear picture of exactly what is needed to move forward.</p>
               <p>The second stage is 'Expert Level Negotiation.' This is where our relationships with bank officers and our knowledge of state specific schemes come into play. We present your case as one of genuine financial hardship, supported by documentation. We don't just ask for a waiver; we fight for one. Throughout this process, you are kept informed with regular updates, ensuring that you are always in the loop regarding the progress of your cases.</p>
               <p>The final stage is 'Formal Closure and Legal Protection.' We ensure that every settlement reached is documented in a formal Full and Final Settlement (FFS) letter issued by the bank's regional or zonal office. We advise our clients on how to make the payment securely and then follow up to ensure they receive the No Dues Certificate and that their CIBIL record is updated. This meticulous attention to detail ensures that the debt is gone for good and cannot resurface in the future.</p>
             </section>
 
             <section id="success-stories-rj" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl font-black mb-8 text-center">Rajasthan Success Stories: Real People, Real Freedom</h2>
+              <h3 className="text-3xl font-black mb-8 text-center">Rajasthan Success Stories: Real People, Real Freedom</h3>
               <p className="text-center mb-8">We have successfully helped over 1600+ families across Rajasthan reclaim their financial lives. Here are a few notable success stories from the region.</p>
               <div className="grid md:grid-cols-2 gap-6 not-prose">
                 <div className="bg-white p-6 rounded-2xl border border-[#DEDEDE] shadow-sm hover:shadow-md transition-all">
                   <div className="flex items-center mb-4">
                     <div className="w-10 h-10 rounded-full bg-[#1F5EFF]/10 flex items-center justify-center font-bold text-[#1F5EFF] mr-3">R</div>
                     <div>
-                      <h3 className="font-bold">Rajesh Sharma</h3>
+                      <h4 className="font-bold">Rajesh Sharma</h4>
                       <p className="text-xs text-gray-500">Jaipur, Rajasthan</p>
                     </div>
                   </div>
@@ -410,7 +410,7 @@ export default function RajasthanLoanSettlementPage() {
                   <div className="flex items-center mb-4">
                     <div className="w-10 h-10 rounded-full bg-[#1F5EFF]/10 flex items-center justify-center font-bold text-[#1F5EFF] mr-3">H</div>
                     <div>
-                      <h4 className="font-bold">Harsh Vardhan</h4>
+                      <h5 className="font-bold">Harsh Vardhan</h5>
                       <p className="text-xs text-gray-500">Jodhpur, Rajasthan</p>
                     </div>
                   </div>
@@ -421,13 +421,13 @@ export default function RajasthanLoanSettlementPage() {
             </section>
 
             <section id="cibil-recovery-rj" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl font-black mb-6">Rebuilding Your Credit Health in Rajasthan Post Settlement</h2>
+              <h3 className="text-3xl font-black mb-6">Rebuilding Your Credit Health in Rajasthan Post Settlement</h3>
               <p>A frequent question we hear in Rajasthan is about the impact of settlement on one's CIBIL score. It is important to be realistic: a settlement will cause a temporary decline in your credit score. However, this is a necessary step towards recovery. A persistent default or being marked as a 'wilful defaulter' is far more damaging in the long run. Once your past debts are cleared, you can begin the journey of rebuilding your credit reputation from a clean slate.</p>
               <p>We provide all our clients with a 'Credit Rebuilding Guide' tailored specifically for the Indian financial market. This includes advice on how to use secured credit cards (backed by fixed deposits), the importance of maintaining small credit lines with perfect repayment, and how to monitor your credit report for any discrepancies. Many of our past clients in cities like Ajmer and Pali have seen their scores recover significantly within 18 to 24 months of their final settlement. Rebuilding credit is a process of discipline and patience, and we are with you at every step.</p>
             </section>
 
             <section id="faqs" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl font-black mb-8">Frequently Asked Questions</h2>
+              <h3 className="text-3xl font-black mb-8">Frequently Asked Questions</h3>
               <div className="space-y-4 not-prose">
                 {[
                   { q: "Is loan settlement legal in Rajasthan?", a: "Yes, loan settlement is 100% legal in Rajasthan. It is a mutual agreement between the borrower and the lender to close a debt for a reduced amount. This process is recognized under the Indian Contract Act and is frequently facilitated by forums like National Lok Adalats organized by the Rajasthan State Legal Services Authority (RSLSA)." },
@@ -457,7 +457,7 @@ export default function RajasthanLoanSettlementPage() {
             </section>
 
             <section className="mt-16 bg-[#1F5EFF] rounded-3xl p-10 text-center text-white shadow-2xl">
-              <h2 className="text-3xl md:text-4xl font-black mb-4">Start Your Debt Free Life in Rajasthan Today</h2>
+              <h3 className="text-3xl md:text-4xl font-black mb-4">Start Your Debt Free Life in Rajasthan Today</h3>
               <p className="mb-8 text-lg opacity-90 max-w-2xl mx-auto">Join the 1600+ families in Rajasthan who have successfully settled their loans with us. Your journey to financial freedom is just one call away.</p>
               <Link href="/contact" className="inline-block bg-white text-[#1F5EFF] font-black py-4 px-12 rounded-xl hover:scale-105 transition-all text-xl shadow-lg">
                 Get Your Free Analysis

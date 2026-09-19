@@ -517,7 +517,7 @@ export default function SmaAccountClassificationLoanSettlementWindowPage() {
 
             {/* Section 2: Statutory Framework */}
             <section id="statutory-framework-rbi-prudential-directions" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">2. Statutory Architecture</h2>
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">2. Statutory Architecture</h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 The SMA system is set under the <strong>RBI Prudential Framework for Resolution of Stressed Assets (Circular RBI/2018-19/203 dated June 7, 2019)</strong>. It requires all banks and NBFCs to spot loan stress as soon as an EMI is missed.
               </p>
@@ -577,7 +577,7 @@ export default function SmaAccountClassificationLoanSettlementWindowPage() {
 
             {/* Section 3: Deconstructing SMA-0, SMA-1 & SMA-2 */}
             <section id="deconstructing-sma-0-sma-1-sma-2-thresholds" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">3. Deconstructing SMA-0, SMA-1, and SMA-2</h2>
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">3. Deconstructing SMA-0, SMA-1, and SMA-2</h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Loan stress moves through four stages based on how long payments are overdue. Here is how term loans, credit lines. And overdrafts are classified:
               </p>
@@ -634,7 +634,7 @@ export default function SmaAccountClassificationLoanSettlementWindowPage() {
 
             {/* Section 4: Bank Accounting Economics & NPV Formula */}
             <section id="bank-accounting-economics-pre-npa-provisioning" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">4. Bank SMA Accounting &amp; Balance Sheet Economics</h2>
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">4. Bank SMA Accounting &amp; Balance Sheet Economics</h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Banks offer large waivers in SMA-2 because NPA rules are costly. Under RBI Income Recognition and Asset Classification (IRAC) norms, crossing Day 90 triggers two fines:
               </p>
@@ -706,9 +706,9 @@ export default function SmaAccountClassificationLoanSettlementWindowPage() {
 
             {/* Section 5: Infographic Banner */}
             <section id="sma-classification-settlement-roadmap" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                 5. SMA Classification &amp; Pre-NPA Settlement Visual Roadmap
-              </h2>
+              </h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 The visual roadmap below shows the full path from Day 1 overdue to Day 90 NPA tagging. It highlights the pre-NPA window where you can secure maximum waivers and avoid court action.
               </p>
@@ -743,7 +743,7 @@ export default function SmaAccountClassificationLoanSettlementWindowPage() {
 
             {/* Section 6: Strategic Advantage & Leverage */}
             <section id="borrower-leverage-pre-90-day-window-waivers" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">6. Strategic Legal Advantage</h2>
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">6. Strategic Legal Advantage</h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Handling the pre-90-day SMA window needs proactive legal steps. Borrowers who negotiate alone often face threats from collection agents or demands to sell assets. With legal representation, talks move from recovery agents to the bank credit committee.
               </p>
@@ -753,25 +753,25 @@ export default function SmaAccountClassificationLoanSettlementWindowPage() {
 
               <div className="space-y-3 my-4">
                 <div className="p-4 rounded-xl border-l-4 border-blue-600 bg-slate-50 space-y-1">
-                  <h3 className="font-bold text-slate-900 text-xs sm:text-sm">Phase 1: Notice of Legal Representation &amp; Fair Lending Protection</h3>
+                  <h4 className="font-bold text-slate-900 text-xs sm:text-sm">Phase 1: Notice of Legal Representation &amp; Fair Lending Protection</h4>
                   <p className="text-xs text-slate-600 leading-relaxed">
                     Advocates serve a formal notice to the bank Nodal Officer. This invokes the <strong>RBI Fair Practices Code</strong>, halts agent calls and home visits. And requires all talks to be in writing through legal counsel.
                   </p>
                 </div>
                 <div className="p-4 rounded-xl border-l-4 border-indigo-600 bg-slate-50 space-y-1">
-                  <h4 className="font-bold text-slate-900 text-xs sm:text-sm">Phase 2: Forensic Ledger Audit &amp; Penal Charge Dissection</h4>
+                  <h5 className="font-bold text-slate-900 text-xs sm:text-sm">Phase 2: Forensic Ledger Audit &amp; Penal Charge Dissection</h5>
                   <p className="text-xs text-slate-600 leading-relaxed">
                     Our lawyers review loan account statements from start to finish. We dispute unlawful compound interest and late fees under <strong>RBI Fair Lending Directives (August 2023 / April 2024)</strong>.
                   </p>
                 </div>
                 <div className="p-4 rounded-xl border-l-4 border-purple-600 bg-slate-50 space-y-1">
-                  <h4 className="font-bold text-slate-900 text-xs sm:text-sm">Phase 3: Financial Hardship Dossier Submission to Zonal Sanction Authorities</h4>
+                  <h5 className="font-bold text-slate-900 text-xs sm:text-sm">Phase 3: Financial Hardship Dossier Submission to Zonal Sanction Authorities</h5>
                   <p className="text-xs text-slate-600 leading-relaxed">
                     We bypass front-line recovery staff. We submit a complete financial hardship dossier directly to the bank Zonal Stressed Asset branch. The file includes income drops, tax files, or medical records to prove genuine distress.
                   </p>
                 </div>
                 <div className="p-4 rounded-xl border-l-4 border-amber-600 bg-slate-50 space-y-1">
-                  <h4 className="font-bold text-slate-900 text-xs sm:text-sm">Phase 4: Structuring the Pre-NPA Compromise Settlement or Restructuring</h4>
+                  <h5 className="font-bold text-slate-900 text-xs sm:text-sm">Phase 4: Structuring the Pre-NPA Compromise Settlement or Restructuring</h5>
                   <p className="text-xs text-slate-600 leading-relaxed">
                     Using the bank need to prevent an NPA tag at Day 90, advocates structure a compromise settlement. This secures full waivers of penal interest and closes the debt with zero court risk.
                   </p>
@@ -785,7 +785,7 @@ export default function SmaAccountClassificationLoanSettlementWindowPage() {
 
             {/* Section 7: Forensic Verification of Sanctions */}
             <section id="forensic-verification-pre-npa-settlement-sanctions" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">7. SMA Settlement Forensic Sanction Checklist</h2>
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">7. SMA Settlement Forensic Sanction Checklist</h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 A big risk in SMA-1 and SMA-2 is fake settlement offers from third-party recovery agents. Under pressure to hit monthly targets, agents send unofficial messages promising to settle debt for a small token sum.
               </p>
@@ -848,7 +848,7 @@ export default function SmaAccountClassificationLoanSettlementWindowPage() {
 
             {/* Section 8: Remittance, NDC & Bureau Rectification */}
             <section id="settlement-remittance-ndc-cibil-rectification" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">8. Settlement Remittance Execution, Statutory No Dues</h2>
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">8. Settlement Remittance Execution, Statutory No Dues</h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Paying the agreed settlement sum fulfills your financial duty. But the legal process ends only when the bank issues a formal No Dues Certificate (NDC) and updates credit bureaus to ₹0 balance.
               </p>
@@ -866,9 +866,9 @@ export default function SmaAccountClassificationLoanSettlementWindowPage() {
                 </p>
               </div>
 
-              <h3 className="text-base sm:text-lg font-bold text-slate-900 pt-2">
+              <h4 className="text-base sm:text-lg font-bold text-slate-900 pt-2">
                 Credit Bureau Dynamics: SMA Resolution vs. Post-NPA Default Tagging
-              </h3>
+              </h4>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Settling debt during the SMA stage gives you much better credit results than waiting for an NPA tag:
               </p>
@@ -894,7 +894,7 @@ export default function SmaAccountClassificationLoanSettlementWindowPage() {
 
             {/* Section 9: Comparative Matrix */}
             <section id="pre-npa-sma-vs-post-npa-recovery-matrix" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">9. Pre-NPA (SMA) Settlement vs. Post-NPA Legal Recovery</h2>
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">9. Pre-NPA (SMA) Settlement vs. Post-NPA Legal Recovery</h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Comparing pre-NPA settlement with post-NPA litigation shows why acting early protects your rights and finances:
               </p>
@@ -952,7 +952,7 @@ export default function SmaAccountClassificationLoanSettlementWindowPage() {
             {/* Section 10: SettleLoans Legal Defense & Advisory + CompanySection */}
             <section id="company-resolution-section" className="space-y-6">
               <div className="border-t border-slate-200 pt-8 space-y-4">
-                <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">10. SettleLoans Pre-NPA Legal Defense</h2>
+                <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">10. SettleLoans Pre-NPA Legal Defense</h3>
                 <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                   Resolving debt during the SMA window requires prompt legal action. SettleLoans helps borrowers across India. We serve formal notices to stop recovery agent calls. We review loan ledgers to remove illegal penal fees. Finally, we negotiate directly with bank zonal authorities to secure pre-NPA compromise settlements and restructuring before Day 90.
                 </p>
@@ -966,7 +966,7 @@ export default function SmaAccountClassificationLoanSettlementWindowPage() {
             <section id="faqs" className="space-y-4 border-t border-slate-200 pt-8">
               <div className="flex items-center gap-2 mb-2">
                 <HelpCircle className="w-5 h-5 text-[#1F5EFF]" />
-                <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">11. FAQs: SMA Account Classification</h2>
+                <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">11. FAQs: SMA Account Classification</h3>
               </div>
               <p className="text-xs sm:text-sm text-slate-600 mb-6">
                 Direct, legally verified answers to critical questions regarding the RBI SMA framework, Days-Past-Due calculation, penal waivers. And pre-NPA settlement rights in India.
@@ -996,9 +996,9 @@ export default function SmaAccountClassificationLoanSettlementWindowPage() {
 
             {/* 5 Official Regulatory Links */}
             <section className="border-t border-slate-200 pt-8 mb-4">
-              <h3 className="text-xs sm:text-sm font-bold text-slate-900 mb-3 uppercase tracking-wider">
+              <h4 className="text-xs sm:text-sm font-bold text-slate-900 mb-3 uppercase tracking-wider">
                 Official Statutory &amp; Regulatory References
-              </h3>
+              </h4>
               <div className="grid grid-cols-1 sm:grid-cols-2 gap-2.5 text-xs">
                 <a
                   href="https://www.rbi.org.in"
@@ -1050,9 +1050,9 @@ export default function SmaAccountClassificationLoanSettlementWindowPage() {
 
             {/* 10 Related Guide Badges */}
             <section className="border-t border-slate-200 pt-8 mb-8">
-              <h3 className="text-xs sm:text-sm font-bold text-slate-900 mb-4 uppercase tracking-wider">
+              <h4 className="text-xs sm:text-sm font-bold text-slate-900 mb-4 uppercase tracking-wider">
                 Related Debt Resolution &amp; Banking Guides
-              </h3>
+              </h4>
               <div className="flex flex-wrap gap-2">
                 <Link
                   href="/arrear-emi-meaning-vs-overdue"

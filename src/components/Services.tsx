@@ -78,7 +78,7 @@ export default function Services() {
       description: "We recognize that life's financial challenges can be unpredictable. Our experts negotiate with lenders to secure manageable settlement plans for your unsecured personal loans.",
       href: "/services/personal-loan-settlement",
       pointers: [
-        "Strategic Negotiation",
+        "Strategic talks",
         "Debt Restructuring",
         "Legal Compliance",
         "Verified Loan Closure"
@@ -124,7 +124,7 @@ export default function Services() {
       pointers: [
         "Harassment Protection",
         "RBI Compliance",
-        "OTS Negotiation",
+        "OTS talks",
         "Digital Privacy"
       ]
     },

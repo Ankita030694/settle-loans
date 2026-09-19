@@ -196,9 +196,9 @@ export default function RecoveryHomeVisitRulesPage() {
             </section>
 
             <section id="8am-7pm-rule" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
                 The 8 AM to 7 PM Rule: <span className="text-[#1F5EFF]">Mandatory Timings</span>
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-8">
                 The most basic and frequently violated rule involves the timing of recovery activities. The RBI is very explicit about this. All field visits, whether to your home or your place of work, must only be conducted during reasonable hours. What constitutes 'reasonable' is not left to interpretation; it is clearly defined by law.
               </p>
@@ -208,7 +208,7 @@ export default function RecoveryHomeVisitRulesPage() {
                   <div className="w-12 h-12 bg-[#1F5EFF] text-white rounded-xl flex items-center justify-center mb-6 shadow-lg rotate-3">
                     <FontAwesomeIcon icon={faClock} className="w-6 h-6" />
                   </div>
-                  <h3 className="text-2xl font-bold mb-4">The Legal Window</h3>
+                  <h4 className="text-2xl font-bold mb-4">The Legal Window</h4>
                   <p className="text-lg font-black text-[#1F5EFF] mb-4">8:00 AM : 7:00 PM</p>
                   <p className="text-sm text-gray-600 leading-relaxed">
                     This is the only time an agent is legally allowed to knock on your door or call your phone for recovery purposes. Any visit before 8 AM or after 7 PM is a direct violation of the RBI Fair Practice Code.
@@ -218,7 +218,7 @@ export default function RecoveryHomeVisitRulesPage() {
                   <div className="w-12 h-12 bg-red-500 text-white rounded-xl flex items-center justify-center mb-6 shadow-lg -rotate-3">
                     <FontAwesomeIcon icon={faExclamationTriangle} className="w-6 h-6" />
                   </div>
-                  <h3 className="text-2xl font-bold mb-4">The Violation Zone</h3>
+                  <h4 className="text-2xl font-bold mb-4">The Violation Zone</h4>
                   <p className="text-lg font-black text-red-600 mb-4">7:01 PM : 7:59 AM</p>
                   <p className="text-sm text-red-800 leading-relaxed">
                     If an agent arrives at your door during these hours, you are under no obligation to open it. In fact, such a visit is considered harassment and can be used as strong evidence in a complaint against the bank.
@@ -235,9 +235,9 @@ export default function RecoveryHomeVisitRulesPage() {
             </section>
 
             <section id="identification" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
                 Mandatory Identification: <span className="text-[#1F5EFF]">Who is at Your Door?</span>
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-8">
                 Just because someone says they are from the bank does not make it true. The debt recovery industry in India is large and includes many third party agencies. Some of these agencies operate with very little oversight from the banks themselves. To prevent fraud and ensure accountability, the RBI requires every agent to follow a strict identification protocol.
               </p>
@@ -248,7 +248,7 @@ export default function RecoveryHomeVisitRulesPage() {
                     <FontAwesomeIcon icon={faIdCard} className="text-[#1F5EFF] w-7 h-7" />
                   </div>
                   <div>
-                    <h3 className="text-xl font-bold mb-2">1. The Official ID Card</h3>
+                    <h4 className="text-xl font-bold mb-2">1. The Official ID Card</h4>
                     <p className="text-gray-600 leading-relaxed text-base">
                       The agent must carry and proactively show an identity card issued by the bank or the NBFC they represent. It should have their clear photograph, name, and the official seal of the financial institution.
                     </p>
@@ -259,7 +259,7 @@ export default function RecoveryHomeVisitRulesPage() {
                     <FontAwesomeIcon icon={faScaleBalanced} className="text-[#1F5EFF] w-7 h-7" />
                   </div>
                   <div>
-                    <h4 className="text-xl font-bold mb-2">2. The Authorization Letter</h4>
+                    <h5 className="text-xl font-bold mb-2">2. The Authorization Letter</h5>
                     <p className="text-gray-600 leading-relaxed text-base">
                       An ID card is not enough. The agent must also carry a specific letter from the bank authorizing that particular agency and the agent to handle your specific loan account. This letter should clearly mention your loan number.
                     </p>
@@ -270,7 +270,7 @@ export default function RecoveryHomeVisitRulesPage() {
                     <FontAwesomeIcon icon={faHandshake} className="text-[#1F5EFF] w-7 h-7" />
                   </div>
                   <div>
-                    <h4 className="text-xl font-bold mb-2">3. Professional Introduction</h4>
+                    <h5 className="text-xl font-bold mb-2">3. Professional Introduction</h5>
                     <p className="text-gray-600 leading-relaxed text-base">
                       The agent must introduce themselves politely and state their purpose immediately. They are representatives of a professional institution and must act with the same decorum you would expect at a bank branch.
                     </p>
@@ -284,14 +284,14 @@ export default function RecoveryHomeVisitRulesPage() {
             </section>
 
             <section id="privacy" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
                 The Right to Privacy: <span className="text-[#1F5EFF]">Boundaries of Disclosure</span>
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 Privacy is perhaps the most frequent casualty during a recovery visit. Agents often use the threat of social exposure as their primary weapon. They might loud talk in the hallway of your apartment complex, shout across your front gate, or attempt to speak with your neighbors about your &quot;debt problem.&quot;
               </p>
               <div className="bg-red-50 p-8 rounded-2xl border border-red-100 mb-8">
-                <h3 className="text-xl font-bold text-red-900 mb-4 uppercase tracking-tighter italic">Strict Prohibitions on Privacy Breach</h3>
+                <h4 className="text-xl font-bold text-red-900 mb-4 uppercase tracking-tighter italic">Strict Prohibitions on Privacy Breach</h4>
                 <ul className="space-y-4">
                   <li className="flex items-start gap-3">
                     <div className="shrink-0 mt-1.5 w-2 h-2 bg-red-500 rounded-full"></div>
@@ -313,15 +313,15 @@ export default function RecoveryHomeVisitRulesPage() {
             </section>
 
             <section id="unauthorized-entry" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
                 Unauthorized Entry: <span className="text-[#1F5EFF]">A Guest, Not an Owner</span>
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 This is a critical point that many borrowers misunderstand: A recovery agent has absolutely no legal power to enter your home without your permission. They are not police officers, they are not court-appointed bailiffs, and they have no search warrants. 
               </p>
               <div className="bg-gray-50 rounded-2xl p-8 border border-[#DEDEDE] relative overflow-hidden mb-12">
                 <FontAwesomeIcon icon={faDoorOpen} className="absolute -top-4 -right-4 w-32 h-32 text-gray-200" />
-                <h3 className="text-2xl font-bold mb-4 relative z-10">Cross-Examining the Myth of Entry</h3>
+                <h4 className="text-2xl font-bold mb-4 relative z-10">Cross-Examining the Myth of Entry</h4>
                 <p className="text-lg leading-relaxed mb-6 relative z-10">
                   Agents often use high-pressure language to imply they have the right to &quot;inspect the property&quot; or &quot;attach the furniture.&quot; Unless you have a specific court order for asset seizure (which usually applies only to secured loans like car loans and follows a very different legal path), these threats are completely hollow.
                 </p>
@@ -346,9 +346,9 @@ export default function RecoveryHomeVisitRulesPage() {
             </section>
 
             <section id="behavior-standards" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight text-center uppercase tracking-tighter">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight text-center uppercase tracking-tighter">
                 Behavior Standards: <span className="text-[#1F5EFF]">What Constitutes Professionalism?</span>
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 The RBI Guidelines on Recovery of Loans and Advances clearly state that banks and their agents must not resort to intimidation or harassment of any kind. This includes both physical and verbal conduct. When an agent visits your home, they are representing a regulated financial institution, and their behavior must reflect that.
               </p>
@@ -362,7 +362,7 @@ export default function RecoveryHomeVisitRulesPage() {
                     <div className="w-10 h-10 bg-[#1F5EFF]/10 text-[#1F5EFF] rounded-full flex items-center justify-center mb-4">
                       <FontAwesomeIcon icon={item.icon} className="w-5 h-5" />
                     </div>
-                    <h3 className="text-xl font-bold mb-2">{item.title}</h3>
+                    <h4 className="text-xl font-bold mb-2">{item.title}</h4>
                     <p className="text-sm text-gray-600 leading-relaxed font-normal">{item.text}</p>
                   </div>
                 ))}
@@ -373,9 +373,9 @@ export default function RecoveryHomeVisitRulesPage() {
             </section>
 
             <section id="no-visit-days" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
                 No-Visit Days: <span className="text-[#1F5EFF]">Protecting Your Family Time</span>
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 Recovery is a business process, and the RBI recognizes that there are certain times when the intrusion of business into personal life is wholly inappropriate. While the 8 AM to 7 PM rule covers daily timings, there are broader situational rules that agents must respect.
               </p>
@@ -386,7 +386,7 @@ export default function RecoveryHomeVisitRulesPage() {
                     <FontAwesomeIcon icon={faShieldAlt} className="text-[#1F5EFF] w-12 h-12" />
                   </div>
                   <div>
-                    <h3 className="text-2xl font-black mb-4 tracking-tight uppercase">National Festivals & Religious Occasions</h3>
+                    <h4 className="text-2xl font-black mb-4 tracking-tight uppercase">National Festivals & Religious Occasions</h4>
                     <p className="text-white/70 leading-relaxed mb-4">
                       If your family is celebrating a major festival like Diwali, Eid, or Christmas, a recovery agent visit is considered highly inappropriate and a form of harassment. Banks are expected to refrain from sending agents during national holidays or religious festivals out of respect for the borrower's social standing.
                     </p>
@@ -403,9 +403,9 @@ export default function RecoveryHomeVisitRulesPage() {
             </section>
 
             <section id="documentation" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
                 Documenting the Visit: <span className="text-[#1F5EFF]">Evidence is Your Best Friend</span>
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 Recovery agent harassment often goes unpunished because it is &quot;your word against theirs.&quot; The bank will almost always shield their recovery agency unless you have hard evidence of wrongdoing. To turn the tide, you must become a collector of evidence.
               </p>
@@ -432,14 +432,14 @@ export default function RecoveryHomeVisitRulesPage() {
             </section>
 
             <section id="police-protection" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
                 Police Protection: <span className="text-[#1F5EFF]">When the Law Must Step In</span>
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 A common misconception is that the police will only support the bank because you have defaulted on a loan. This is incorrect. While debt repayment is a civil matter, harassment, physical intimidation, and trespassing are criminal matters. The police are duty-bound to protect any citizen from criminal behavior.
               </p>
               <div className="bg-white border-l-4 border-[#1F5EFF] p-8 rounded-r-2xl shadow-sm mb-12">
-                <h3 className="text-2xl font-bold mb-6">Legal Actions You Can Take</h3>
+                <h4 className="text-2xl font-bold mb-6">Legal Actions You Can Take</h4>
                 <div className="space-y-6">
                   <div className="flex gap-4">
                     <div className="font-black text-[#1F5EFF] text-2xl opacity-20 shrink-0">01</div>
@@ -470,16 +470,16 @@ export default function RecoveryHomeVisitRulesPage() {
             </section>
 
             <section id="rbi-complaint" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
                 Escalating to RBI: <span className="text-[#1F5EFF]">The Ombudsman Power</span>
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 If the bank's internal grievance redressal mechanism (comprising the Nodal Officer and Principal Nodal Officer) fails to resolve your complaint within 30 days, you can turn to the highest authority for bank disputes in India: The RBI Banking Ombudsman.
               </p>
               <div className="bg-[#F8F9FA] p-8 rounded-3xl border border-[#DEDEDE] mb-12">
                 <div className="flex flex-col md:flex-row gap-8">
                   <div className="flex-1">
-                    <h3 className="text-xl font-bold mb-4 uppercase tracking-tighter leading-tight italic">Why the Ombudsman is Effective</h3>
+                    <h4 className="text-xl font-bold mb-4 uppercase tracking-tighter leading-tight italic">Why the Ombudsman is Effective</h4>
                     <p className="text-sm text-gray-600 leading-relaxed mb-4 font-normal">
                       The Banking Ombudsman has the power to issue awards (compensations) of up to 20 lakh rupees for any loss suffered by the borrower, and an additional 1 lakh rupee for mental agony and harassment. 
                     </p>
@@ -488,7 +488,7 @@ export default function RecoveryHomeVisitRulesPage() {
                     </p>
                   </div>
                   <div className="w-full md:w-64 shrink-0 bg-white p-6 rounded-2xl border border-[#DEDEDE]">
-                    <h4 className="font-black text-[#2E2E2E] text-center mb-4 uppercase text-xs tracking-widest">How to File</h4>
+                    <h5 className="font-black text-[#2E2E2E] text-center mb-4 uppercase text-xs tracking-widest">How to File</h5>
                     <ul className="space-y-4 text-xs font-bold text-gray-600 font-normal italic leading-relaxed">
                       <li className="flex gap-2"><FontAwesomeIcon icon={faCheckCircle} className="text-[#1F5EFF]" /> Visit cms.rbi.org.in</li>
                       <li className="flex gap-2"><FontAwesomeIcon icon={faCheckCircle} className="text-[#1F5EFF]" /> Upload visit documentation</li>
@@ -501,13 +501,13 @@ export default function RecoveryHomeVisitRulesPage() {
             </section>
 
             <section id="settleloans-shield" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
                 SettleLoans Shield: <span className="text-[#1F5EFF]">A Legal Barrier Around Your Home</span>
-              </h2>
+              </h3>
               <div className="bg-white rounded-3xl p-4 md:p-12 border-2 border-[#1F5EFF] shadow-xl relative text-center">
                 <div className="absolute -top-6 left-1/2 -translate-x-1/2 bg-[#1F5EFF] text-white px-8 py-2 rounded-full font-black text-sm uppercase tracking-widest shadow-lg">The SettleLoans Proxy</div>
                 <FontAwesomeIcon icon={faUserShield} className="text-[#1F5EFF] w-16 h-16 mb-8" />
-                <h3 className="text-2xl md:text-4xl font-black text-[#2E2E2E] mb-6 uppercase tracking-tighter italic">Never Open Your Door Again</h3>
+                <h4 className="text-2xl md:text-4xl font-black text-[#2E2E2E] mb-6 uppercase tracking-tighter italic">Never Open Your Door Again</h4>
                 <p className="text-xl text-gray-600 mb-8 max-w-3xl mx-auto leading-relaxed font-normal">
                   The moment you sign up with SettleLoans, our legal team takes over all communication with your lenders. We serve a formal legal notice to the bank stating that we are now your authorized representatives. 
                 </p>
@@ -528,9 +528,9 @@ export default function RecoveryHomeVisitRulesPage() {
             </section>
 
             <section id="faqs" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-12 text-center uppercase tracking-tighter italic">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-12 text-center uppercase tracking-tighter italic">
                 Home Visit Rules: <span className="text-[#1F5EFF]">Frequently Asked Queries</span>
-              </h2>
+              </h3>
               <div className="space-y-4">
                 {[
                   { q: "Is it legal for recovery agents to visit my home on a Sunday?", a: "Yes, it is strictly legal for agents to visit on Sundays, as long as they adhere to the 8 AM to 7 PM timing window and follow all identification protocols. However, most banks try to avoid Sunday visits to maintain social decorum unless the default is very high." },
@@ -545,10 +545,10 @@ export default function RecoveryHomeVisitRulesPage() {
                   { q: "Can SettleLoans represent me even if agents are already visiting?", a: "Yes, and that is often when our services are most needed. Once we send a representation notice to your bank, the field visits usually stop within 48 to 72 hours as the bank moves your file from 'Recovery' to 'Negotiation' status." }
                 ].map((faq, i) => (
                   <div key={i} className="bg-white border border-[#DEDEDE] rounded-2xl p-6 hover:border-[#1F5EFF] transition-colors group">
-                    <h3 className="text-lg font-black text-gray-900 mb-3 group-hover:text-[#1F5EFF] transition-colors flex items-center justify-between pointer-events-none">
+                    <h4 className="text-lg font-black text-gray-900 mb-3 group-hover:text-[#1F5EFF] transition-colors flex items-center justify-between pointer-events-none">
                       {faq.q}
                       <div className="w-8 h-8 rounded-full bg-[#F8F9FA] flex items-center justify-center text-xs">+</div>
-                    </h3>
+                    </h4>
                     <p className="text-sm text-gray-600 leading-relaxed font-normal">{faq.a}</p>
                   </div>
                 ))}
@@ -557,7 +557,7 @@ export default function RecoveryHomeVisitRulesPage() {
 
             {/* Review Snippets */}
             <section id="reviews" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 text-center uppercase tracking-tighter border-b border-[#EEEEEE] pb-4">Verified Client Stories</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 text-center uppercase tracking-tighter border-b border-[#EEEEEE] pb-4">Verified Client Stories</h3>
               <div className="bg-[#F8F9FA] rounded-3xl p-4 md:p-8 border border-[#DEDEDE]">
                 <div className="grid md:grid-cols-2 gap-6">
                   {[
@@ -581,7 +581,7 @@ export default function RecoveryHomeVisitRulesPage() {
             <section className="mb-16">
               <div className="bg-[#2E2E2E] rounded-3xl p-8 md:p-16 text-center shadow-2xl relative overflow-hidden">
                 <div className="absolute top-0 right-0 w-64 h-64 bg-[#1F5EFF]/20 rounded-full blur-3xl -mr-32 -mt-32"></div>
-                <h2 className="text-3xl md:text-5xl font-black text-white mb-8 leading-tight tracking-tighter uppercase italic">Ready to End the Knocking?</h2>
+                <h3 className="text-3xl md:text-5xl font-black text-white mb-8 leading-tight tracking-tighter uppercase italic">Ready to End the Knocking?</h3>
                 <p className="text-white/70 text-lg md:text-xl mb-12 max-w-2xl mx-auto italic font-normal">
                   Stop the field visits and start the settlement process today. Our experts are ready to protect your home.
                 </p>

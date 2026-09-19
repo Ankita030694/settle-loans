@@ -227,7 +227,7 @@ export default function KisetsuSaisonSettlementPage() {
             </section>
 
             <section id="digital-lending-risks" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl font-black text-[#1a202c] mb-6">The Risks of Digital Lending and the Default Trap</h2>
+              <h3 className="text-3xl font-black text-[#1a202c] mb-6">The Risks of Digital Lending and the Default Trap</h3>
               <p className="mb-6">
                 Kisetsu Saison's primary strength is its digital-first approach, often partnering with various Fintech platforms to provide "Instant Loans." For many, these start as small credit lines that quickly mushroom into substantial debts. The ease of "one-click" borrowing can lead to a situation where the borrower is managing five or six different loan tenures simultaneously. When a financial shock hits - such as a job loss or medical emergency - the entire structure collapses, leading to a cascade of defaults.
               </p>
@@ -263,7 +263,7 @@ export default function KisetsuSaisonSettlementPage() {
             </section>
 
             <section id="settlement-mechanics" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl font-black text-[#1a202c] mb-6">Technical Mechanics of Kisetsu Saison OTS 2026</h2>
+              <h3 className="text-3xl font-black text-[#1a202c] mb-6">Technical Mechanics of Kisetsu Saison OTS 2026</h3>
               <p className="mb-6">
                 The One-Time Settlement (OTS) with Kisetsu Saison is a structured legal agreement. In 2026, the company has streamlined its "Digital OTS" portal, often sending automated settlement links to borrowers. However, these automated offers are usually not the "best price." They are designed to recover as much as possible with minimal human interaction.
               </p>
@@ -271,7 +271,7 @@ export default function KisetsuSaisonSettlementPage() {
                 To get a deep waiver - sometimes as high as 60-70% - you need to step outside the automated system and engage with their high-value recovery team. This requires a formal "Settlement Proposal Letter" which we draft for our clients. This letter must outline the specific reasons for default, prove the current lack of repayment capacity, and offer a realistic lump sum. Our experts know the exact "Waiver Benchmarks" that the Credit Saison audit team will accept without further escalation.
               </p>
               <div className="bg-[#f8faff] p-8 rounded-3xl border border-slate-100 mb-8">
-                <h3 className="font-black text-[#004c94] mb-4">Five Criteria for a Valid Kisetsu OTS Letter:</h3>
+                <h4 className="font-black text-[#004c94] mb-4">Five Criteria for a Valid Kisetsu OTS Letter:</h4>
                 <ul className="grid sm:grid-cols-2 gap-4">
                   <li className="flex items-center gap-2 font-medium">✓ Correct Corporate Name & Logo</li>
                   <li className="flex items-center gap-2 font-medium">✓ Final Agreed Settlement Amount (INR)</li>
@@ -293,7 +293,7 @@ export default function KisetsuSaisonSettlementPage() {
             </section>
 
             <section id="harassment-protection" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl font-black text-[#1a202c] mb-6">Stopping Collection Harassment and Your Rights</h2>
+              <h3 className="text-3xl font-black text-[#1a202c] mb-6">Stopping Collection Harassment and Your Rights</h3>
               <p className="mb-6">
                 A common issue with digital NBFCs like Kisetsu Saison is the aggressive nature of their third-party collection agencies. Many borrowers complain of excessive calls, calls to contacts saved on their phone, and intimidating messages. This is a direct violation of the the 2026 Digital Personal Data Protection Act and the RBI's Outsourcing Guidelines.
               </p>
@@ -321,7 +321,7 @@ export default function KisetsuSaisonSettlementPage() {
             </section>
 
             <section id="app-loan-strategies" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl font-black text-[#1a202c] mb-6">Strategic Handling of App-Based Loans</h2>
+              <h3 className="text-3xl font-black text-[#1a202c] mb-6">Strategic Handling of App-Based Loans</h3>
               <p className="mb-6">
                 Many Kisetsu Saison loans are facilitated through "Partner Apps." Borrowers are often confused about who they actually owe money to. In any such loan, Kisetsu Saison is the regulated entity responsible for your data and the recovery process. You must not negotiate with the app developers directly but with the registered NBFC.
               </p>
@@ -343,7 +343,7 @@ export default function KisetsuSaisonSettlementPage() {
             </section>
 
             <section id="legal-framework" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl font-black text-[#1a202c] mb-6">The Legal Framework and RBI Protections in 2026</h2>
+              <h3 className="text-3xl font-black text-[#1a202c] mb-6">The Legal Framework and RBI Protections in 2026</h3>
               <p className="mb-6">
                 In 2026, the RBI has introduced the "Borrower Bill of Rights," which gives you more control over your debt resolution. For any loan settlement exceeding 10 lakhs, there is a mandatory mediation period. For smaller loans, the "Digital Lending Guidelines" protect your privacy and ensure transparency in interest calculations.
               </p>
@@ -365,12 +365,12 @@ export default function KisetsuSaisonSettlementPage() {
             </section>
 
             <section id="documentation" className="scroll-mt-32 mb-16">
-               <h2 className="text-3xl font-black text-[#1a202c] mb-6">Building a Strong Hardship Dossier</h2>
+               <h3 className="text-3xl font-black text-[#1a202c] mb-6">Building a Strong Hardship Dossier</h3>
                <p className="mb-6">
                 To win a settlement with a corporate lender like Kisetsu Saison, you cannot just ask for a discount. You must prove your case. This is where documentation becomes your most powerful weapon.
                </p>
                <div className="bg-slate-50 p-8 rounded-2xl border border-slate-200">
-                  <h3 className="font-bold text-[#004c94] mb-4">Essential Evidence for Waiver Approvals:</h3>
+                  <h4 className="font-bold text-[#004c94] mb-4">Essential Evidence for Waiver Approvals:</h4>
                   <ul className="grid sm:grid-cols-2 gap-4">
                      <li className="flex items-center gap-2 font-medium text-slate-700">✓ Bank Statements showing low balance</li>
                      <li className="flex items-center gap-2 font-medium text-slate-700">✓ Termination letters or Salary cut proofs</li>
@@ -392,7 +392,7 @@ export default function KisetsuSaisonSettlementPage() {
             </section>
 
             <section id="cibil-recovery" className="scroll-mt-32 mb-16">
-               <h2 className="text-3xl font-black text-[#1a202c] mb-6">Rebuilding Your CIBIL Post-Kisetsu Settlement</h2>
+               <h3 className="text-3xl font-black text-[#1a202c] mb-6">Rebuilding Your CIBIL Post-Kisetsu Settlement</h3>
                <p className="mb-6">
                 Yes, a settlement will be marked as "Settled" in your CIBIL report. However, this is significantly better than having an "NPA" or "Active Default" status which prevents you from getting even a mobile connection on credit in some regions. A settlement is the definitive stop to a falling score.
                </p>
@@ -411,7 +411,7 @@ export default function KisetsuSaisonSettlementPage() {
             </section>
 
             <section id="success-metrics" className="scroll-mt-32 mb-16">
-               <h2 className="text-3xl font-black text-[#004c94] mb-8">Recent Success at Credit Saison India</h2>
+               <h3 className="text-3xl font-black text-[#004c94] mb-8">Recent Success at Credit Saison India</h3>
                <div className="grid gap-6">
                   <div className="bg-blue-50/50 p-6 rounded-2xl border border-blue-100 shadow-sm">
                     <div className="flex items-center gap-1 mb-3 text-[#004c94]">
@@ -449,7 +449,7 @@ export default function KisetsuSaisonSettlementPage() {
             </section>
 
             <section id="faqs" className="scroll-mt-32 mb-16">
-               <h2 className="text-3xl md:text-5xl font-black text-[#004c94] mb-12">Frequently Asked Questions</h2>
+               <h3 className="text-3xl md:text-5xl font-black text-[#004c94] mb-12">Frequently Asked Questions</h3>
                <div className="space-y-4">
                    {[
                      { q: "Is Credit Saison and Kisetsu Saison Finance the same?", a: "Yes, Kisetsu Saison Finance India Private Limited is the registered NBFC name, while Credit Saison is the trade name and parent brand." },
@@ -466,7 +466,7 @@ export default function KisetsuSaisonSettlementPage() {
                      { q: "Can I get a loan from other banks after settling Kisetsu?", a: "Not immediately. You will need to rebuild your credit history for at least 12-24 months. We provide a roadmap for this post-settlement journey." }
                    ].map((faq, i) => (
                      <div key={i} className="border-b border-slate-200 pb-6">
-                         <h3 className="font-bold text-lg text-slate-800 mb-2">{faq.q}</h3>
+                         <h4 className="font-bold text-lg text-slate-800 mb-2">{faq.q}</h4>
                          <p className="text-slate-600">{faq.a}</p>
                      </div>
                    ))}
@@ -474,7 +474,7 @@ export default function KisetsuSaisonSettlementPage() {
             </section>
 
             <section id="strategic-pathway" className="scroll-mt-32 mb-16">
-               <h2 className="text-3xl font-black text-[#1a202c] mb-6">Your Strategic Pathway to Freedom</h2>
+               <h3 className="text-3xl font-black text-[#1a202c] mb-6">Your Strategic Pathway to Freedom</h3>
                <p className="text-lg mb-6">
                 Debt is a heavy burden, especially in the fast-paced digital era. But remember, a loan is a commercial agreement, and a default is a commercial risk the lender has already factored into their business model. You are not a criminal; you are a borrower in distress. The Japanese philosophy of 'Kaizen' - continuous improvement - can be applied to your finances too. This settlement is your turn toward that improvement.
                </p>
@@ -485,7 +485,7 @@ export default function KisetsuSaisonSettlementPage() {
                  We have handled over 10,000 cases of digital debt in the last year alone. We understand the internal metrics of lenders like Kisetsu Saison. We know that their primary goal is recovery of capital. By aligning your settlement proposal with their corporate recovery targets, we create a win-win scenario that allows you to move on with your life.
                </p>
                <div className="bg-[#004c94] text-white p-10 rounded-3xl text-center shadow-lg transform hover:scale-[1.01] transition-all">
-                  <h3 className="text-3xl font-black mb-4">Close your Credit Saison Debt Permanently</h3>
+                  <h4 className="text-3xl font-black mb-4">Close your Credit Saison Debt Permanently</h4>
                   <p className="text-xl mb-8 opacity-90">Confidential, expert-led settlement for digital and app-based loans. We handle the banks, you get your life back.</p>
                   <Link href="/contact" className="inline-block bg-white text-[#004c94] font-black py-4 px-12 rounded-xl text-xl hover:bg-slate-100 transition-all shadow-md">
                      Book Your Professional Consultation

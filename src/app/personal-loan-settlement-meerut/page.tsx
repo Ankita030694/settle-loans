@@ -554,7 +554,7 @@ export default function Page() {
                   <Clock className="w-4 h-4" />
                   <span>2. Delinquency Timeline &amp; Allahabad HC Norms</span>
                 </div>
-                <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">NPA Delinquency Aging &amp; Timelines in Meerut</h2>
+                <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">NPA Delinquency Aging &amp; Timelines in Meerut</h3>
                 <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                   When you miss loan payments, banks follow RBI Master Directions on asset classification (IRACP). In the first 90 days, the loan moves through three stages: SMA-0 (1 to 30 days), SMA-1 (31 to 60 days), and SMA-2 (61 to 90 days). After 90 days of default, the bank marks the account as an NPA. The bank must then lock away capital reserves for the bad debt. This cost gives banks a strong reason to settle.
                 </p>
@@ -616,7 +616,7 @@ export default function Page() {
                   <Gavel className="w-4 h-4" />
                   <span>3. Meerut District Court &amp; Section 138/25 Defense</span>
                 </div>
-                <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Defending Legal Notices in Meerut Courts</h2>
+                <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Defending Legal Notices in Meerut Courts</h3>
                 <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                   After repeated missed payments, banks send legal demand notices. They send notices under <strong>Section 138 of the Negotiable Instruments Act, 1881</strong> for bounced cheques. They also use <strong>Section 25 of the Payment and Settlement Systems Act, 2007 (PSSA)</strong> for failed NACH auto-debits. These notices threaten cases in the Meerut District Court in Civil Lines.
                 </p>
@@ -631,7 +631,7 @@ export default function Page() {
                   <ShieldAlert className="w-4 h-4" />
                   <span>4. Section 171 Lien &amp; Account Protection</span>
                 </div>
-                <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Banker&apos;s General Lien Rules in Meerut</h2>
+                <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Banker&apos;s General Lien Rules in Meerut</h3>
                 <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                   Under Section 171 of the Indian Contract Act, 1872, a bank holds a lien on internal accounts under the same CIF and PAN. For factory owners in Partapur or traders on Suraj Kund Road, sudden debit sweeps can halt payroll.
                 </p>
@@ -646,7 +646,7 @@ export default function Page() {
                   <Sparkles className="w-4 h-4" />
                   <span>5. Visual Resolution Roadmap</span>
                 </div>
-                <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Personal Loan Settlement Roadmap in Meerut</h2>
+                <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Personal Loan Settlement Roadmap in Meerut</h3>
                 <p className="text-slate-700 leading-relaxed mb-6 text-base md:text-lg">
                   The roadmap below shows our debt settlement steps in Meerut. We audit your debts and stop agent visits. We defend court notices and negotiate with Zonal SARB desks to secure your No Dues Certificate.
                 </p>
@@ -673,7 +673,7 @@ export default function Page() {
                   <Percent className="w-4 h-4" />
                   <span>6. OTS Haircut Mechanics &amp; NPV Formula</span>
                 </div>
-                <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">OTS Haircut Mechanics &amp; NPV in Meerut</h2>
+                <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">OTS Haircut Mechanics &amp; NPV in Meerut</h3>
                 <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                   Bank Settlement Committees in Meerut and Ghaziabad review OTS offers using Net Present Value (NPV) models. Court battles in Uttar Pradesh take 4 to 7 years. They cost banks high legal fees and lock up capital in NPA reserves.
                 </p>
@@ -703,7 +703,7 @@ export default function Page() {
                   <ShieldCheck className="w-4 h-4" />
                   <span>7. RBI Anti-Harassment &amp; Police Limits</span>
                 </div>
-                <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Enforcing RBI Fair Practices &amp; Police Interference in Meerut</h2>
+                <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Enforcing RBI Fair Practices &amp; Police Interference in Meerut</h3>
                 <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                   The <strong>RBI Master Directions on Recovery Agents (2022)</strong> set strict rules for debt collection. Agents cannot call before 8:00 AM or after 7:00 PM. They cannot visit homes or factories without notice. They cannot use abusive words or contact family members. Visiting agents must carry valid bank ID cards.
                 </p>
@@ -718,7 +718,7 @@ export default function Page() {
                   <Layers className="w-4 h-4" />
                   <span>8. 5-Step Zonal SARB Settlement Protocol</span>
                 </div>
-                <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">5-Step Settlement Protocol in Meerut</h2>
+                <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">5-Step Settlement Protocol in Meerut</h3>
                 <p className="text-slate-700 leading-relaxed mb-6 text-base md:text-lg">
                   Settling personal loans with banks and NBFCs in Meerut follows a clear five-step legal process:
                 </p>
@@ -729,7 +729,7 @@ export default function Page() {
                       1
                     </div>
                     <div>
-                      <h3 className="text-base font-bold text-slate-900 mb-1">Financial Hardship Dossier Compilation</h3>
+                      <h4 className="text-base font-bold text-slate-900 mb-1">Financial Hardship Dossier Compilation</h4>
                       <p className="text-sm text-slate-600 leading-relaxed">
                         We audit your loan accounts. We remove unfair penal fees. We collect proof of hardship like lost sales, cancelled orders, or medical bills.
                       </p>
@@ -741,7 +741,7 @@ export default function Page() {
                       2
                     </div>
                     <div>
-                      <h3 className="text-base font-bold text-slate-900 mb-1">Cease-and-Desist Notice &amp; Anti-Harassment Shielding</h3>
+                      <h4 className="text-base font-bold text-slate-900 mb-1">Cease-and-Desist Notice &amp; Anti-Harassment Shielding</h4>
                       <p className="text-sm text-slate-600 leading-relaxed">
                         We serve legal notices to the bank Nodal Officer under RBI rules. This stops recovery agents from visiting your unit, shop, or home.
                       </p>
@@ -753,7 +753,7 @@ export default function Page() {
                       3
                     </div>
                     <div>
-                      <h3 className="text-base font-bold text-slate-900 mb-1">Statutory Notice Defense in Meerut District Court</h3>
+                      <h4 className="text-base font-bold text-slate-900 mb-1">Statutory Notice Defense in Meerut District Court</h4>
                       <p className="text-sm text-slate-600 leading-relaxed">
                         Our lawyers file replies under Vakalatnama to Section 138 NI Act and Section 25 PSSA notices within 15 days. This prevents court warrants.
                       </p>
@@ -765,7 +765,7 @@ export default function Page() {
                       4
                     </div>
                     <div>
-                      <h3 className="text-base font-bold text-slate-900 mb-1">Direct Negotiations with Meerut &amp; Ghaziabad Zonal Desks</h3>
+                      <h4 className="text-base font-bold text-slate-900 mb-1">Direct Negotiations with Meerut &amp; Ghaziabad Zonal Desks</h4>
                       <p className="text-sm text-slate-600 leading-relaxed">
                         We bypass field agents. We talk directly with bank Zonal SARB teams in Meerut and Ghaziabad to win 40% to 70% principal waivers.
                       </p>
@@ -777,7 +777,7 @@ export default function Page() {
                       5
                     </div>
                     <div>
-                      <h3 className="text-base font-bold text-slate-900 mb-1">Sanction Letter Audit &amp; Mandatory NDC Delivery</h3>
+                      <h4 className="text-base font-bold text-slate-900 mb-1">Sanction Letter Audit &amp; Mandatory NDC Delivery</h4>
                       <p className="text-sm text-slate-600 leading-relaxed">
                         We check the bank sanction letter before you pay via RTGS. We then obtain your official zero-balance No Dues Certificate under RBI rules.
                       </p>
@@ -792,7 +792,7 @@ export default function Page() {
                   <FileCheck className="w-4 h-4" />
                   <span>9. Sanction Letter Audit &amp; CIBIL Rebuilding</span>
                 </div>
-                <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Sanction Letter Audit &amp; NDC in Meerut</h2>
+                <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Sanction Letter Audit &amp; NDC in Meerut</h3>
                 <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                   Never pay settlement money based on phone calls or WhatsApp chats. A valid deal needs an official <strong>OTS Sanction Letter</strong> on bank letterhead. It must show bank stamps, exact waiver amounts. And a clear term to drop court cases in Meerut District Court.
                 </p>
@@ -807,7 +807,7 @@ export default function Page() {
                   <Scale className="w-4 h-4" />
                   <span>10. Comparative Resolution Matrix &amp; SettleLoans Defense</span>
                 </div>
-                <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Debt Resolution Pathways in Meerut &amp; Western UP</h2>
+                <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Debt Resolution Pathways in Meerut &amp; Western UP</h3>
                 <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                   Comparing legal resolution pathways helps MSME owners, traders. And salaried borrowers in Meerut choose the best option:
                 </p>
@@ -862,9 +862,9 @@ export default function Page() {
                     <Landmark className="w-4 h-4" />
                     <span>SettleLoans Legal Defense &amp; Advisory</span>
                   </div>
-                  <h3 className="text-xl sm:text-2xl font-black text-slate-900 mb-3 leading-tight">
+                  <h4 className="text-xl sm:text-2xl font-black text-slate-900 mb-3 leading-tight">
                     Premier Loan Settlement &amp; Legal Defense Advocates in Meerut
-                  </h3>
+                  </h4>
                   <p className="text-slate-700 leading-relaxed mb-6 text-base md:text-lg">
                     Facing debt stress, agent calls. And court notices in Meerut and Ghaziabad requires strong legal defense. SettleLoans stops recovery harassment under RBI rules. We defend you in Meerut Civil Lines Court and negotiate with bank Zonal teams for complete debt relief.
                   </p>
@@ -879,9 +879,9 @@ export default function Page() {
                   <Gavel className="w-4 h-4" />
                   <span>Local Legal Jurisdiction &amp; Legal Aid Directory</span>
                 </div>
-                <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+                <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                   District Courts &amp; DLSA Helpdesk in Meerut
-                </h2>
+                </h3>
                 <p className="text-slate-700 leading-relaxed mb-6 text-base">
                   Distressed borrowers facing recovery pressure, arbitration summons, or Section 138 NI Act notices in Meerut can access statutory legal defense through the local District Court and District Legal Services Authority (DLSA):
                 </p>
@@ -918,7 +918,7 @@ export default function Page() {
                   <HelpCircle className="w-4 h-4" />
                   <span>11. Frequently Asked Questions</span>
                 </div>
-                <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">FAQs: Personal Loan Settlement in Meerut</h2>
+                <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">FAQs: Personal Loan Settlement in Meerut</h3>
 
                 <div className="space-y-4">
                   {(jsonLdGraph["@graph"][4] as any).mainEntity.map((faq: any, index: number) => (
@@ -946,10 +946,10 @@ export default function Page() {
 
               {/* 5 Official Regulatory Links */}
               <section className="bg-slate-50 border border-slate-200 rounded-2xl p-6 mb-8">
-                <h3 className="text-sm font-bold text-slate-900 mb-3 uppercase tracking-wider flex items-center gap-2">
+                <h4 className="text-sm font-bold text-slate-900 mb-3 uppercase tracking-wider flex items-center gap-2">
                   <ExternalLink className="w-4 h-4 text-[#1F5EFF]" />
                   <span>Official Statutory &amp; Regulatory References</span>
-                </h3>
+                </h4>
                 <div className="grid grid-cols-1 sm:grid-cols-2 gap-3 text-xs">
                   <a
                     href="https://www.rbi.org.in"
@@ -1001,9 +1001,9 @@ export default function Page() {
 
               {/* 10 Related Guide Badges */}
               <section className="border-t border-slate-200 pt-8 mb-8">
-                <h3 className="text-sm font-bold text-slate-900 mb-4 uppercase tracking-wider">
+                <h4 className="text-sm font-bold text-slate-900 mb-4 uppercase tracking-wider">
                   Related Loan Settlement &amp; Legal Defense Guides
-                </h3>
+                </h4>
                 <div className="flex flex-wrap gap-2">
                   <Link
                     href="/sbi-personal-loan-settlement"

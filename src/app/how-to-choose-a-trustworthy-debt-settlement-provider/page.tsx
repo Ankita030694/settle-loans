@@ -230,14 +230,14 @@ export default function ChooseTrustworthyProviderPage() {
             </section>
 
             <section id="importance" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                 Why Choosing the Right Provider Matters Most
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 When you are in a situation where you cannot meet your EMI obligations, your relationship with your lender changes. Banks, which once sent you festive greetings and pre-approved offers, now represent a source of stress and anxiety. The communication becomes aggressive, and the threat of legal action or recovery harassment becomes a daily reality. This is where your choice of a debt settlement provider becomes a turning point.
               </p>
               <div className="bg-blue-50 p-8 rounded-2xl border border-blue-100 mb-8">
-                <h3 className="text-xl font-bold mb-4 text-[#2E2E2E]">The Risks of the Wrong Choice</h3>
+                <h4 className="text-xl font-bold mb-4 text-[#2E2E2E]">The Risks of the Wrong Choice</h4>
                 <ul className="space-y-4">
                   <li className="flex gap-3">
                     <span className="text-[#1F5EFF] font-bold">•</span>
@@ -259,9 +259,9 @@ export default function ChooseTrustworthyProviderPage() {
             </section>
 
             <section id="evolution" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                 The Evolution of Debt Collection in India: From Coercion to Compliance
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 To understand why you need a professional debt settlement provider today, one must look at how the recovery landscape in India has shifted. A decade ago, debt collection was often synonymous with "strong-arm" tactics. Banks frequently employed unregulated agencies that operated in a legal gray area, using intimidation and physical visits to pressure borrowers. This was an era of unchecked coercion where the borrower's rights were rarely acknowledged.
               </p>
@@ -274,14 +274,14 @@ export default function ChooseTrustworthyProviderPage() {
             </section>
 
             <section id="rbi-guidelines" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                 RBI Guidelines: Your Shield Against Harassment
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 The Reserve Bank of India has been proactive in protecting borrowers from unauthorized harassment. Every trustworthy debt settlement agency must have a deep, working knowledge of these guidelines. They aren't just suggestions; they are mandates that banks must follow.
               </p>
               <div className="bg-blue-50 p-8 rounded-2xl border border-blue-100 mb-8">
-                <h3 className="text-xl font-bold mb-4 text-[#2E2E2E]">Key Protections Under RBI Norms</h3>
+                <h4 className="text-xl font-bold mb-4 text-[#2E2E2E]">Key Protections Under RBI Norms</h4>
                 <ul className="space-y-4">
                   <li className="flex gap-3">
                     <span className="text-[#1F5EFF] font-bold">•</span>
@@ -303,9 +303,9 @@ export default function ChooseTrustworthyProviderPage() {
             </section>
 
             <section id="legal-standing" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                 Legal Standing and Reputation: The Foundation of Trust
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 The most important criterion for checking a debt settlement provider is their legal standing. Debt resolution is fundamentally a legal process. It involves interpreting loan agreements, understanding the Securitisation and Reconstruction of Financial Assets and Enforcement of Security Interest (SARFAESI) Act, and navigating the nuances of civil and consumer law. A firm that lacks a strong legal foundation is essentially fighting with one hand tied behind its back.
               </p>
@@ -318,32 +318,32 @@ export default function ChooseTrustworthyProviderPage() {
             </section>
 
             <section id="strategies" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                 Negotiation Strategies for Different Loan Types
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 Not all debts are created equal, and a one-size-fits-all approach to settlement is a recipe for failure. A trustworthy provider tailors their strategy based on the nature of the loan and the specific bank's internal policies.
               </p>
               <div className="space-y-8 mb-8">
                 <div className="p-6 bg-white border border-gray-200 rounded-2xl shadow-sm">
-                  <h3 className="text-xl font-bold mb-3 text-[#1F5EFF]">Credit Card Debt</h3>
+                  <h4 className="text-xl font-bold mb-3 text-[#1F5EFF]">Credit Card Debt</h4>
                   <p className="text-gray-600">Credit cards carry the highest interest rates and are often the first to go into default. Banks are usually more willing to settle credit card debt because it is entirely unsecured. However, the negotiation is intense because of the high "accrued interest" and "late fees." An expert negotiator focuses on getting these fees waived first, significantly reducing the principal amount required for closure.</p>
                 </div>
                 <div className="p-6 bg-white border border-gray-200 rounded-2xl shadow-sm">
-                  <h4 className="text-xl font-bold mb-3 text-[#1F5EFF]">Personal Loans</h4>
+                  <h5 className="text-xl font-bold mb-3 text-[#1F5EFF]">Personal Loans</h5>
                   <p className="text-gray-600">Personal loans often involve a larger principal amount than credit cards. The strategy here often involves presenting a "total loss of income" scenario. Banks may be willing to settle if they believe that a long-drawn legal battle will cost more than the discount they are offering. Providers like <strong>SettleLoans</strong> specialize in building this "hardship case" through documentation.</p>
                 </div>
                 <div className="p-6 bg-white border border-gray-200 rounded-2xl shadow-sm">
-                  <h4 className="text-xl font-bold mb-3 text-[#1F5EFF]">NBFC and Fintech Loans</h4>
+                  <h5 className="text-xl font-bold mb-3 text-[#1F5EFF]">NBFC and Fintech Loans</h5>
                   <p className="text-gray-600">Modern NBFCs and app-based lenders often have more aggressive recovery processes but also more flexible settlement windows. They use automated systems to categorize defaults. A professional agency knows how to trigger the "settlement flag" in these automated systems, often achieving faster results than with traditional public sector banks.</p>
                 </div>
               </div>
             </section>
 
             <section id="transparency" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                 Transparency in Processes: What to Look For
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 Transparency is the litmus test for any financial service provider. In the world of debt settlement, transparency means being honest about both the possibilities and the pitfalls. A company that promises a 90% discount on every loan is likely not telling you the whole truth. Every bank has different policies, and every borrower's situation is unique.
               </p>
@@ -351,19 +351,19 @@ export default function ChooseTrustworthyProviderPage() {
               </p>
               <ul className="grid md:grid-cols-2 gap-6 mb-8">
                 <li className="bg-gray-50 p-6 rounded-xl border border-gray-100">
-                  <h3 className="font-bold mb-2">The Realistic Settlement Range</h3>
+                  <h4 className="font-bold mb-2">The Realistic Settlement Range</h4>
                   <p className="text-sm text-gray-600">They provide a data backed estimate of what your settlement might look like, rather than making wild promises.</p>
                 </li>
                 <li className="bg-gray-50 p-6 rounded-xl border border-gray-100">
-                  <h4 className="font-bold mb-2">Detailed Fee Structure</h4>
+                  <h5 className="font-bold mb-2">Detailed Fee Structure</h5>
                   <p className="text-sm text-gray-600">All costs, including consultation fees and success fees, are clearly outlined from the start.</p>
                 </li>
                 <li className="bg-gray-50 p-6 rounded-xl border border-gray-100">
-                  <h4 className="font-bold mb-2">Credit Score Impact</h4>
+                  <h5 className="font-bold mb-2">Credit Score Impact</h5>
                   <p className="text-sm text-gray-600">They discuss the temporary negative impact on your CIBIL score and how settlement is reported.</p>
                 </li>
                 <li className="bg-gray-50 p-6 rounded-xl border border-gray-100">
-                  <h4 className="font-bold mb-2">Legal Risks and Timelines</h4>
+                  <h5 className="font-bold mb-2">Legal Risks and Timelines</h5>
                   <p className="text-sm text-gray-600">They don't hide the fact that settlement takes time and that banks may initially reject offers.</p>
                 </li>
               </ul>
@@ -373,9 +373,9 @@ export default function ChooseTrustworthyProviderPage() {
             </section>
 
             <section id="expert-team" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                 The Role of Experts: Why Experience Matters
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">                The effectiveness of a debt settlement negotiation depends heavily on the person sitting across the table (or on the other side of the phone) from the bank's representative. It requires a unique blend of financial analysis, psychological insight, and persistence. The experts at <strong>SettleLoans</strong> have spent years understanding the psychology of lenders. They know when a bank is willing to settle and when they are using a "hardline" stance as a tactical move.
               </p>
               <p className="text-lg leading-relaxed mb-6">
@@ -387,7 +387,7 @@ export default function ChooseTrustworthyProviderPage() {
                     <svg className="w-6 h-6 text-green-600" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M9 12l2 2 4-4m5.618-4.016A11.955 11.955 0 0112 2.944a11.955 11.955 0 01-8.618 3.04A12.02 12.02 0 003 9c0 5.591 3.824 10.29 9 11.622 5.176-1.332 9-6.03 9-11.622 0-1.042-.133-2.052-.382-3.016z"></path></svg>
                   </div>
                   <div>
-                    <h3 className="font-bold text-lg mb-1">Portfolio Analysis</h3>
+                    <h4 className="font-bold text-lg mb-1">Portfolio Analysis</h4>
                     <p className="text-gray-600">The ability to look at multiple loans and prioritize which ones to settle first to maximize savings and minimize legal risk.</p>
                   </div>
                 </div>
@@ -396,7 +396,7 @@ export default function ChooseTrustworthyProviderPage() {
                     <svg className="w-6 h-6 text-blue-600" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M17 8h2a2 2 0 012 2v6a2 2 0 01-2 2h-2v4l-4-4H9a1.994 1.994 0 01-1.414-.586m0 0L11 14h4a2 2 0 002-2V6a2 2 0 00-2-2H5a2 2 0 00-2 2v6a2 2 0 002 2h2v4l.586-.586z"></path></svg>
                   </div>
                   <div>
-                    <h4 className="font-bold text-lg mb-1">Professional Communication</h4>
+                    <h5 className="font-bold text-lg mb-1">Professional Communication</h5>
                     <p className="text-gray-600">Drafting formal proposals that present your hardship in a way that aligns with the bank's internal settlement criteria.</p>
                   </div>
                 </div>
@@ -405,7 +405,7 @@ export default function ChooseTrustworthyProviderPage() {
                     <svg className="w-6 h-6 text-purple-600" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M3 6l3 1m0 0l-3 9a5.002 5.002 0 006.001 0M6 7l3 9M6 7l6-2m6 2l3-1m-3 1l-3 9a5.002 5.002 0 006.001 0M18 7l3 9m-3-9l-6-2m0-2v2m0 16V5m0 16H9m3 0h3"></path></svg>
                   </div>
                   <div>
-                    <h4 className="font-bold text-lg mb-1">Legal Oversight</h4>
+                    <h5 className="font-bold text-lg mb-1">Legal Oversight</h5>
                     <p className="text-gray-600">Ensuring that the settlement letter contains the right language to protect you from any future claims by the bank.</p>
                   </div>
                 </div>
@@ -416,9 +416,9 @@ export default function ChooseTrustworthyProviderPage() {
             </section>
 
             <section id="success-rates" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                 Evaluating Success Rates and Real Feedback
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 Claims of a "100% success rate" are a major red flag. In the real world, success depends on many factors, including the borrower's ability to arrange the settlement funds and the specific policies of the lender at that moment. However, a trustworthy provider can demonstrate a strong track record through verifiable case studies and client testimonials.
               </p>
@@ -441,9 +441,9 @@ export default function ChooseTrustworthyProviderPage() {
             </section>
 
             <section id="myths-reality" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                 Debt Settlement: Myths vs. Reality
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 There is a significant amount of misinformation surrounding debt settlement in India. Transparent providers spend a lot of time "de-programming" clients who have heard urban legends about how settlement works.
               </p>
@@ -479,15 +479,15 @@ export default function ChooseTrustworthyProviderPage() {
             </section>
 
             <section id="top-providers" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                 Top Debt Settlement Providers in India: Our Recommendations
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 Based on our extensive research and analysis of service quality, legal backing, and client feedback, we have identified the top providers in the Indian market. While each has its own strengths, they all share a commitment to ethical practices and professional excellence.
               </p>
               <div className="space-y-12">
                 <div id="ama-legal" className="scroll-mt-32">
-                  <h3 className="text-2xl font-black text-[#1F5EFF] mb-4">1. <strong><Link href="https://amalegalsolutions.com" target="_blank" rel="noopener noreferrer" className="text-[#1F5EFF] hover:underline">AMA Legal Solutions</Link></strong></h3>
+                  <h4 className="text-2xl font-black text-[#1F5EFF] mb-4">1. <strong><Link href="https://amalegalsolutions.com" target="_blank" rel="noopener noreferrer" className="text-[#1F5EFF] hover:underline">AMA Legal Solutions</Link></strong></h4>
                   <p className="text-lg leading-relaxed mb-4">
                     As mentioned earlier, <strong><Link href="https://amalegalsolutions.com" target="_blank" rel="noopener noreferrer" className="text-[#1F5EFF] hover:underline">AMA Legal Solutions</Link></strong> is the gold standard for those seeking a legally robust approach to debt resolution. Functioning as a full service law firm, they specialize in high value settlements and complex cases where legal protection is a priority. Their strength lies in their ability to use the law as a shield for the borrower, ensuring that any settlement reached is final, legally binding, and protects the client from future harassment.
                   </p>
@@ -497,7 +497,7 @@ export default function ChooseTrustworthyProviderPage() {
                 </div>
 
                 <div id="credsettle" className="scroll-mt-32">
-                  <h3 className="text-2xl font-black text-[#1F5EFF] mb-4">2. <strong>CredSettle</strong></h3>
+                  <h4 className="text-2xl font-black text-[#1F5EFF] mb-4">2. <strong>CredSettle</strong></h4>
                   <p className="text-lg leading-relaxed mb-4">
                     <strong><Link href="https://credsettle.com" target="_blank" rel="noopener noreferrer" className="text-[#1F5EFF] hover:underline">CredSettle</Link></strong> is known for its modern, customer centric approach to debt relief. They combine professional negotiation with a transparent, technology-driven platform. Their team is highly responsive and specializes in managing multiple credit card and personal loan settlements simultaneously. They place a strong emphasis on educating the client and providing them with the tools to manage their finances better during and after the settlement process.
                   </p>
@@ -507,7 +507,7 @@ export default function ChooseTrustworthyProviderPage() {
                 </div>
 
                 <div id="settleloans" className="scroll-mt-32">
-                  <h3 className="text-2xl font-black text-[#1F5EFF] mb-4">3. <strong>SettleLoans</strong></h3>
+                  <h4 className="text-2xl font-black text-[#1F5EFF] mb-4">3. <strong>SettleLoans</strong></h4>
                   <p className="text-lg leading-relaxed mb-4">
                     <strong>SettleLoans</strong> brings a combination of deep industry experience and an empathetic, personalized touch. They understand the psychological stress of debt and provide more than just financial negotiation. Their experts act as counselors, helping clients navigate the emotional challenges of defaults while aggressively pursuing the best possible settlement terms. They have a proven track record across various types of unsecured loans and NBFC debts.
                   </p>
@@ -519,50 +519,50 @@ export default function ChooseTrustworthyProviderPage() {
             </section>
 
             <section id="process-steps" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                 Step-by-Step Guide: How a Trustworthy Provider Works
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-8">
                 Understanding the workflow of a professional agency will help you set realistic expectations and spot any red flags early on. A typical successful engagement follows these disciplined steps:
               </p>
               <div className="relative border-l-2 border-[#1F5EFF] ml-4 md:ml-8 pl-8 md:pl-12 space-y-12">
                 <div>
                   <div className="absolute -left-[9px] w-4 h-4 rounded-full bg-[#1F5EFF]"></div>
-                  <h3 className="text-xl font-bold mb-2">Step 1: Financial Assessment</h3>
+                  <h4 className="text-xl font-bold mb-2">Step 1: Financial Assessment</h4>
                   <p className="text-gray-600">The provider reviews your total debt, income, and expenses. They identify which loans are eligible for settlement and provide a realistic estimate of the funds required.</p>
                 </div>
                 <div>
                   <div className="absolute -left-[9px] w-4 h-4 rounded-full bg-[#1F5EFF]"></div>
-                  <h4 className="text-xl font-bold mb-2">Step 2: Hardship Documentation</h4>
+                  <h5 className="text-xl font-bold mb-2">Step 2: Hardship Documentation</h5>
                   <p className="text-gray-600">You work with the team to gather proof of your financial hardship, such as medical records, job termination letters, or bank statements showing lack of liquidity. This is the "evidence" for the negotiation.</p>
                 </div>
                 <div>
                   <div className="absolute -left-[9px] w-4 h-4 rounded-full bg-[#1F5EFF]"></div>
-                  <h4 className="text-xl font-bold mb-2">Step 3: Creditor Notification</h4>
+                  <h5 className="text-xl font-bold mb-2">Step 3: Creditor Notification</h5>
                   <p className="text-gray-600">The provider formally notifies your lenders that they are representing you. This includes a request to direct all communication through the agency, significantly reducing the harassment calls you receive.</p>
                 </div>
                 <div>
                   <div className="absolute -left-[9px] w-4 h-4 rounded-full bg-[#1F5EFF]"></div>
-                  <h4 className="text-xl font-bold mb-2">Step 4: Active Negotiation</h4>
+                  <h5 className="text-xl font-bold mb-2">Step 4: Active Negotiation</h5>
                   <p className="text-gray-600">The experts engage in multiple rounds of negotiation with the bank's settlement officers. This process can take several months as different levels of approval are required within the bank.</p>
                 </div>
                 <div>
                   <div className="absolute -left-[9px] w-4 h-4 rounded-full bg-[#1F5EFF]"></div>
-                  <h4 className="text-xl font-bold mb-2">Step 5: Settlement Verification</h4>
+                  <h5 className="text-xl font-bold mb-2">Step 5: Settlement Verification</h5>
                   <p className="text-gray-600">Once an agreement is reached, the bank issues a Settlement Letter. A trustworthy provider carefully reviews this letter to ensure it accurately reflects the terms and clearly states that the account will be closed.</p>
                 </div>
                 <div>
                   <div className="absolute -left-[9px] w-4 h-4 rounded-full bg-[#1F5EFF]"></div>
-                  <h4 className="text-xl font-bold mb-2">Step 6: Payment and NDC</h4>
+                  <h5 className="text-xl font-bold mb-2">Step 6: Payment and NDC</h5>
                   <p className="text-gray-600">You pay the settlement amount directly to the bank. After the payment is cleared, the provider follows up to ensure you receive the final No Dues Certificate (NDC), which is the most important document in your debt-free file.</p>
                 </div>
               </div>
             </section>
 
             <section id="social-impact" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                 Managing the Psychological and Social Impact
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 Debt in India is often accompanied by a deep sense of shame. This "social stigma" can be more damaging than the financial interest itself. Borrowers often withdraw from social circles, fear the postman, and live in constant fear that their neighbors or relatives will find out about their situation.
               </p>
@@ -572,40 +572,40 @@ export default function ChooseTrustworthyProviderPage() {
             </section>
 
             <section id="avoid-scams" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                 How to Avoid Debt Settlement Scams
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 Desperation is a magnet for scammers. When you are drowning in debt, someone promising a "magic" solution can seem like an angel. However, falling for a scam will only deepen your financial hole. Protect yourself by staying alert to these common tactics:
               </p>
               <div className="bg-red-50 p-8 rounded-2xl border border-red-100 mb-8">
-                <h3 className="text-xl font-bold text-red-800 mb-6">The Scam Warning Signs</h3>
+                <h4 className="text-xl font-bold text-red-800 mb-6">The Scam Warning Signs</h4>
                 <div className="grid md:grid-cols-2 gap-8">
                   <div className="flex gap-4">
                     <div className="shrink-0 text-red-500 font-bold text-2xl">!</div>
                     <div>
-                      <h4 className="font-bold text-red-900 mb-2">Charging Massive Fees Upfront</h4>
+                      <h5 className="font-bold text-red-900 mb-2">Charging Massive Fees Upfront</h5>
                       <p className="text-sm text-red-800">No reputable firm will ask for a large percentage of your debt as an upfront fee before performing any service. Professional fees are transparent and usually spread out.</p>
                     </div>
                   </div>
                   <div className="flex gap-4">
                     <div className="shrink-0 text-red-500 font-bold text-2xl">!</div>
                     <div>
-                      <h4 className="font-bold text-red-900 mb-2">Promising a "Clean" CIBIL</h4>
+                      <h5 className="font-bold text-red-900 mb-2">Promising a "Clean" CIBIL</h5>
                       <p className="text-sm text-red-800">Anyone claiming they can "delete" your default from the CIBIL system is lying. CIBIL is an independent bureau; only time and good behavior can rebuild your score.</p>
                     </div>
                   </div>
                   <div className="flex gap-4">
                     <div className="shrink-0 text-red-500 font-bold text-2xl">!</div>
                     <div>
-                      <h4 className="font-bold text-red-900 mb-2">Requesting Your Bank Login</h4>
+                      <h5 className="font-bold text-red-900 mb-2">Requesting Your Bank Login</h5>
                       <p className="text-sm text-red-800">Never, under any circumstances, share your bank password, credit card PIN, or OTP with anyone. A trustworthy provider does not need access to your funds.</p>
                     </div>
                   </div>
                   <div className="flex gap-4">
                     <div className="shrink-0 text-red-500 font-bold text-2xl">!</div>
                     <div>
-                      <h4 className="font-bold text-red-900 mb-2">Anonymous/Social Media Only</h4>
+                      <h5 className="font-bold text-red-900 mb-2">Anonymous/Social Media Only</h5>
                       <p className="text-sm text-red-800">If the company only exists on WhatsApp or Facebook and has no office address or registered legal entity, it is high risk. Verify their registration on the MCA portal.</p>
                     </div>
                   </div>
@@ -617,9 +617,9 @@ export default function ChooseTrustworthyProviderPage() {
             </section>
 
             <section id="client-rights" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                 Your Rights as a Client: What to Demand
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 When you hire a debt settlement provider, you are the client. You have the right to high-quality service and absolute transparency. A professional agency will respect and uphold these rights:
               </p>
@@ -647,26 +647,26 @@ export default function ChooseTrustworthyProviderPage() {
             </section>
 
             <section id="comparing-fees" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                 Understanding and Comparing Fee Structures
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 Fees for debt settlement services in India typically fall into three components. Understanding these will help you compare different providers on an apple-to-apple basis:
               </p>
               <div className="grid md:grid-cols-3 gap-8 mb-12">
                 <div className="bg-gray-50 p-6 rounded-2xl border border-gray-100 text-center">
                   <div className="text-[#1F5EFF] font-black text-2xl mb-2">01</div>
-                  <h3 className="font-bold mb-3">Consultation Fee</h3>
+                  <h4 className="font-bold mb-3">Consultation Fee</h4>
                   <p className="text-sm text-gray-600">A one-time fee for the initial financial analysis and legal review of your case. This covers the time spent by experts in creating your roadmap.</p>
                 </div>
                 <div className="bg-gray-50 p-6 rounded-2xl border border-gray-100 text-center">
                   <div className="text-[#1F5EFF] font-black text-2xl mb-2">02</div>
-                  <h4 className="font-bold mb-3">Management Fee</h4>
+                  <h5 className="font-bold mb-3">Management Fee</h5>
                   <p className="text-sm text-gray-600">Sometimes charged monthly to cover the ongoing costs of handling creditor communications and anti-harassment services.</p>
                 </div>
                 <div className="bg-gray-50 p-6 rounded-2xl border border-gray-100 text-center">
                   <div className="text-[#1F5EFF] font-black text-2xl mb-2">03</div>
-                  <h4 className="font-bold mb-3">Success Fee</h4>
+                  <h5 className="font-bold mb-3">Success Fee</h5>
                   <p className="text-sm text-gray-600">A percentage of the amount saved through negotiation. This aligns the provider's interests with yours: the more they save you, the more they earn.</p>
                 </div>
               </div>
@@ -676,19 +676,19 @@ export default function ChooseTrustworthyProviderPage() {
             </section>
 
             <section id="financial-planning" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                 Financial Planning Post-Settlement: The Road to Wealth
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 Settling your debt is the end of a nightmare, but it is also the beginning of a new chapter. The ultimate goal of a trustworthy provider is to ensure you never need their services again. This requires a fundamental shift in how you manage your finances.
               </p>
               <div className="grid md:grid-cols-2 gap-8 mb-8">
                 <div className="p-6 bg-green-50 rounded-2xl border border-green-100">
-                  <h3 className="font-black mb-4">The Emergency Fund</h3>
+                  <h4 className="font-black mb-4">The Emergency Fund</h4>
                   <p className="text-gray-700 italic">Before aiming for high returns, build a 6-month buffer. This ensures that a medical emergency or job loss doesn't send you back into the debt trap.</p>
                 </div>
                 <div className="p-6 bg-blue-50 rounded-2xl border border-blue-100">
-                  <h4 className="font-black mb-4">Disciplined Spending</h4>
+                  <h5 className="font-black mb-4">Disciplined Spending</h5>
                   <p className="text-gray-700 italic">Adopt the 50/30/20 rule. 50% for needs, 30% for wants, and 20% for savings/investments. This structure is your safety net.</p>
                 </div>
               </div>
@@ -698,9 +698,9 @@ export default function ChooseTrustworthyProviderPage() {
             </section>
 
             <section id="long-term-impact" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                 CIBIL and the Long-Term Impact of Settlement
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 It is vital to have a realistic understanding of how debt settlement affects your future financial life. A settled loan is better than a perpetually defaulted loan, but it is not the same as a "closed" or "fully paid" loan. When a loan is settled, the lender reports it to the credit bureaus as "Settled." This indicates that the borrower did not pay the full amount due.
               </p>
@@ -708,7 +708,7 @@ export default function ChooseTrustworthyProviderPage() {
                 This will lead to a temporary drop in your CIBIL score and may make it difficult to get new loans or credit cards for the next 2 to 3 years. However, this is a necessary step to break the cycle of unmanageable debt. Once you are debt-free, you can begin the process of rebuilding your credit. A trustworthy provider will guide you on how to do this:
               </p>
               <div className="bg-blue-50 p-8 rounded-2xl border border-blue-100 mb-8">
-                <h3 className="text-xl font-bold mb-4">Steps to Rebuild After Settlement</h3>
+                <h4 className="text-xl font-bold mb-4">Steps to Rebuild After Settlement</h4>
                 <ul className="space-y-4 text-gray-700">
                   <li><strong>1. Ensure Accurate Reporting:</strong> Check your CIBIL report 60 days after settlement to ensure the bank has correctly updated the status to "Settled" and that the balance is zero.</li>
                   <li><strong>2. Use a Secured Credit Card:</strong> Get a credit card against a fixed deposit. Use it for small amounts and pay the full balance every month to show a fresh history of responsible behavior.</li>
@@ -723,7 +723,7 @@ export default function ChooseTrustworthyProviderPage() {
             {/* CONTENT END */}
 
             <section id="success-stories" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 text-center">Real Stories of Freedom</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 text-center">Real Stories of Freedom</h3>
               <div className="grid md:grid-cols-2 gap-6 not-prose">
                 {[
                   {
@@ -761,7 +761,7 @@ export default function ChooseTrustworthyProviderPage() {
                         {review.name.charAt(0)}
                       </div>
                       <div>
-                        <h3 className="font-bold text-[#2E2E2E]">{review.name}</h3>
+                        <h4 className="font-bold text-[#2E2E2E]">{review.name}</h4>
                         <p className="text-xs text-gray-400">{review.loc}</p>
                       </div>
                       <div className="ml-auto text-yellow-400 text-sm">★★★★★</div>
@@ -777,7 +777,7 @@ export default function ChooseTrustworthyProviderPage() {
 
             {/* FAQs Section */}
             <section id="faqs" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Frequently Asked Questions</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Frequently Asked Questions</h3>
               <div className="space-y-4 not-prose">
                 {faqs.map((faq: { q: string; a: string }, i: number) => (
                   <details key={i} className="group bg-white border border-[#DEDEDE] rounded-xl overflow-hidden hover:shadow-md transition-all border-b-4 border-b-[#1F5EFF]/20">

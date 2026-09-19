@@ -314,14 +314,14 @@ export default function FintechLoanSettlementSalariedPage() {
             </section>
 
             <section id="salaried-challenges" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl lg:text-4xl font-black text-[#2E2E2E] mb-8">
+              <h3 className="text-3xl lg:text-4xl font-black text-[#2E2E2E] mb-8">
                 Why Salaried Individuals Face Unique Debt Challenges
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 Salaried employees in India often fall into a predictable cycle of borrowing. With fixed monthly incomes, even a small disruption can create a massive ripple effect. The ease of access to 'Instant Personal Loans' and 'Buy Now Pay Later' schemes through mobile apps has made it tempting to bridge temporary shortfalls with high interest credit.
               </p>
               <div className="bg-gray-50 border border-gray-200 rounded-2xl p-8 mb-8">
-                <h3 className="text-2xl font-bold mb-4 text-[#2E2E2E]">Common Debt Drivers for Salaried Persons</h3>
+                <h4 className="text-2xl font-bold mb-4 text-[#2E2E2E]">Common Debt Drivers for Salaried Persons</h4>
                 <ul className="grid md:grid-cols-2 gap-4">
                   <li className="flex items-start gap-3">
                     <span className="w-2 h-2 bg-[#1F5EFF] rounded-full mt-2.5"></span>
@@ -355,40 +355,40 @@ export default function FintechLoanSettlementSalariedPage() {
             </section>
 
             <section id="what-is-fintech-settlement" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl lg:text-4xl font-black text-[#2E2E2E] mb-8">
+              <h3 className="text-3xl lg:text-4xl font-black text-[#2E2E2E] mb-8">
                 Understanding Fintech Based Loan Settlement
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 Loan settlement via a fintech app is a process where a third party platform acts as an intermediary between you and your creditors. The goal is to reach a 'One Time Settlement' where the lender agrees to accept a lump sum amount that is less than the total outstanding balance, effectively closing the debt.
               </p>
               <div className="bg-[#1F5EFF]/5 border border-[#1F5EFF]/20 rounded-2xl p-8 mb-8">
-                <h3 className="text-2xl font-bold mb-6 text-[#1F5EFF]">The Fintech Settlement Workflow</h3>
+                <h4 className="text-2xl font-bold mb-6 text-[#1F5EFF]">The Fintech Settlement Workflow</h4>
                 <div className="space-y-6">
                   <div className="flex gap-4">
                     <div className="w-12 h-12 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center font-bold flex-shrink-0">1</div>
                     <div>
-                      <h4 className="font-bold text-lg">Initial Enrollment</h4>
+                      <h5 className="font-bold text-lg">Initial Enrollment</h5>
                       <p className="text-gray-600">You download the app, enroll your debts, and provide basic financial details. The app evaluates your total liability.</p>
                     </div>
                   </div>
                   <div className="flex gap-4">
                     <div className="w-12 h-12 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center font-bold flex-shrink-0">2</div>
                     <div>
-                      <h4 className="font-bold text-lg">Savings Phase</h4>
+                      <h5 className="font-bold text-lg">Savings Phase</h5>
                       <p className="text-gray-600">You stop paying EMIs directly and instead contribute to a 'Settlement Fund' managed by the app. This builds your negotiation leverage.</p>
                     </div>
                   </div>
                   <div className="flex gap-4">
                     <div className="w-12 h-12 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center font-bold flex-shrink-0">3</div>
                     <div>
-                      <h4 className="font-bold text-lg">Professional Negotiation</h4>
+                      <h5 className="font-bold text-lg">Professional Negotiation</h5>
                       <p className="text-gray-600">Once your fund reaches a certain level, the app's experts begin formal negotiations with your banks or NBFCs.</p>
                     </div>
                   </div>
                   <div className="flex gap-4">
                     <div className="w-12 h-12 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center font-bold flex-shrink-0">4</div>
                     <div>
-                      <h4 className="font-bold text-lg">Debt Discharge</h4>
+                      <h5 className="font-bold text-lg">Debt Discharge</h5>
                       <p className="text-gray-600">The lender accepts the offer, you pay from your fund, and receive a 'No Dues Certificate'. Your debt is officially settled.</p>
                     </div>
                   </div>
@@ -400,15 +400,15 @@ export default function FintechLoanSettlementSalariedPage() {
             {/* For now let's add the basic structure and some more detail to get closer to the word count */}
 
             <section id="top-apps-india" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl lg:text-4xl font-black text-[#2E2E2E] mb-8">
+              <h3 className="text-3xl lg:text-4xl font-black text-[#2E2E2E] mb-8">
                 Top Fintech Apps for Loan Settlement in India
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-10">
                 The Indian fintech ecosystem has matured significantly, with several dedicated players focusing on debt relief. These platforms vary in their approach, fees, and specialization. Selecting the right one depends on your specific debt profile and legal needs.
               </p>
 
               <div id="freed-overview" className="mb-12 border-l-4 border-[#1F5EFF] pl-8">
-                <h3 className="text-2xl font-bold mb-4 text-[#2E2E2E]">FREED: India's Pioneer in Debt Relief</h3>
+                <h4 className="text-2xl font-bold mb-4 text-[#2E2E2E]">FREED: India's Pioneer in Debt Relief</h4>
                 <p className="text-lg leading-relaxed mb-4">
                   FREED is widely considered India's first comprehensive debt relief platform. They specialize in helping individuals who are struggling with multiple unsecured loans and credit card debts. Their model focuses on systematic savings and professional negotiation.
                 </p>
@@ -424,7 +424,7 @@ export default function FintechLoanSettlementSalariedPage() {
               </div>
 
               <div id="ama-legal-overview" className="mb-12 border-l-4 border-emerald-500 pl-8">
-                <h3 className="text-2xl font-bold mb-4 text-[#2E2E2E]">AMA Legal Solutions: The Legal Advocacy Approach</h3>
+                <h4 className="text-2xl font-bold mb-4 text-[#2E2E2E]">AMA Legal Solutions: The Legal Advocacy Approach</h4>
                 <p className="text-lg leading-relaxed mb-4">
                   While many apps focus purely on negotiation, AMA Legal Solutions brings a strong legal component to the process. This is particularly useful for salaried individuals who are facing legal notices, arbitration, or potential court cases from major banks.
                 </p>
@@ -440,7 +440,7 @@ export default function FintechLoanSettlementSalariedPage() {
               </div>
 
               <div id="single-debt-overview" className="mb-12 border-l-4 border-orange-500 pl-8">
-                <h3 className="text-2xl font-bold mb-4 text-[#2E2E2E]">SingleDebt: Experts in Debt Consolidation Plans</h3>
+                <h4 className="text-2xl font-bold mb-4 text-[#2E2E2E]">SingleDebt: Experts in Debt Consolidation Plans</h4>
                 <p className="text-lg leading-relaxed mb-4">
                   SingleDebt takes a different approach by focusing on managing multiple creditors simultaneously. For a salaried person with five or six different EMIs, the administrative burden of managing everyone can be overwhelming. SingleDebt creates a single payment plan that covers all your monthly obligations.
                 </p>
@@ -450,7 +450,7 @@ export default function FintechLoanSettlementSalariedPage() {
               </div>
 
               <div id="debtzero-overview" className="mb-12 border-l-4 border-purple-500 pl-8">
-                <h3 className="text-2xl font-bold mb-4 text-[#2E2E2E]">DebtZero: AI Driven Debt Optimization</h3>
+                <h4 className="text-2xl font-bold mb-4 text-[#2E2E2E]">DebtZero: AI Driven Debt Optimization</h4>
                 <p className="text-lg leading-relaxed mb-4">
                   DebtZero is part of the the newer generation of fintech apps that utilize AI to optimize your repayment strategy. They analyze your spending patterns, liabilities, and income to suggest the most efficient path to becoming debt free.
                 </p>
@@ -461,29 +461,29 @@ export default function FintechLoanSettlementSalariedPage() {
             </section>
 
             <section id="rbi-guidelines" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl lg:text-4xl font-black text-[#2E2E2E] mb-8">
+              <h3 className="text-3xl lg:text-4xl font-black text-[#2E2E2E] mb-8">
                 RBI Guidelines 2024: <span className="text-[#1F5EFF]">Protecting Your Rights</span>
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 The Reserve Bank of India has been proactive in regulating the digital lending and debt recovery space. As a salaried individual using a fintech app, it is crucial to know that your rights are protected by the central bank's mandates.
               </p>
               <div className="bg-[#2E2E2E] text-[#DEDEDE] rounded-2xl p-8 mb-8">
-                <h3 className="text-xl font-bold mb-4 text-[#1F5EFF]">Key Regulatory Pillars</h3>
+                <h4 className="text-xl font-bold mb-4 text-[#1F5EFF]">Key Regulatory Pillars</h4>
                 <div className="grid md:grid-cols-2 gap-8">
                   <div>
-                    <h4 className="font-bold mb-2">Fair Practice Code</h4>
+                    <h5 className="font-bold mb-2">Fair Practice Code</h5>
                     <p className="text-sm opacity-80 leading-relaxed">Mandates that all lenders treat borrowers with respect. No physical harassment or verbal abuse is allowed during the recovery process. Calls are restricted to daytime hours (8 am to 7 pm).</p>
                   </div>
                   <div>
-                    <h4 className="font-bold mb-2">Digital Lending Directions</h4>
+                    <h5 className="font-bold mb-2">Digital Lending Directions</h5>
                     <p className="text-sm opacity-80 leading-relaxed">Ensures that fintech apps are transparent about their fees and processes. They must have a clear customer grievance redressal mechanism and respect data privacy.</p>
                   </div>
                   <div>
-                    <h4 className="font-bold mb-2">Restructuring Frameworks</h4>
+                    <h5 className="font-bold mb-2">Restructuring Frameworks</h5>
                     <p className="text-sm opacity-80 leading-relaxed">RBI often introduces specific windows for loan restructuring (like the ones seen during the pandemic) which permit banks to modify loan terms for stressed borrowers without immediate default marking.</p>
                   </div>
                   <div>
-                    <h4 className="font-bold mb-2">The Banking Ombudsman</h4>
+                    <h5 className="font-bold mb-2">The Banking Ombudsman</h5>
                     <p className="text-sm opacity-80 leading-relaxed">If a bank or its recovery agent violates RBI rules, you have the right to escalate your complaint to the Ombudsman for independent arbitration and resolution.</p>
                   </div>
                 </div>
@@ -494,22 +494,22 @@ export default function FintechLoanSettlementSalariedPage() {
             {/* I'll use a local variable to hold the rest of the text to keep the code block manageable or just write everything now */}
             
             <section id="settlement-steps" className="scroll-mt-32 mb-16">
-                <h2 className="text-3xl lg:text-4xl font-black text-[#2E2E2E] mb-8">A Detailed Step-by-Step Guide for Salaried Professionals</h2>
+                <h3 className="text-3xl lg:text-4xl font-black text-[#2E2E2E] mb-8">A Detailed Step-by-Step Guide for Salaried Professionals</h3>
                 <p className="text-lg leading-relaxed mb-8">Navigating the world of fintech loan settlement requires a strategic approach. It is not just about downloading an app; it is about following a disciplined process to ensure the best possible outcome for your financial future.</p>
                 <div className="space-y-12">
                     <div className="relative pl-16">
                         <div className="absolute left-0 top-0 w-12 h-12 bg-white border-2 border-[#1F5EFF] rounded-xl flex items-center justify-center font-black text-xl text-[#1F5EFF]">01</div>
-                        <h3 className="text-2xl font-bold mb-4">Detailed Financial Assessment</h3>
+                        <h4 className="text-2xl font-bold mb-4">Detailed Financial Assessment</h4>
                         <p className="text-lg leading-relaxed">Start by listing every single debt you owe. Include the lender name, total outstanding, current EMI, and interest rate. Use the fintech app's dashboard to aggregate this data. A clear picture is the first step to a solution. For salaried individuals, also list your fixed monthly expenses to determine your actual repayment capacity.</p>
                     </div>
                     <div className="relative pl-16">
                         <div className="absolute left-0 top-0 w-12 h-12 bg-white border-2 border-[#1F5EFF] rounded-xl flex items-center justify-center font-black text-xl text-[#1F5EFF]">02</div>
-                        <h3 className="text-2xl font-bold mb-4">Choosing the Right Platform</h3>
+                        <h4 className="text-2xl font-bold mb-4">Choosing the Right Platform</h4>
                         <p className="text-lg leading-relaxed">Research the apps mentioned above. Check their reviews on Google Play Store and consumer forums. Look for platforms that have a proven track record with your specific lenders. Some apps are better at negotiating with private banks like HDFC or ICICI, while others excel with digital NBFCs like KreditBee or Cashe.</p>
                     </div>
                     <div className="relative pl-16">
                         <div className="absolute left-0 top-0 w-12 h-12 bg-white border-2 border-[#1F5EFF] rounded-xl flex items-center justify-center font-black text-xl text-[#1F5EFF]">03</div>
-                        <h3 className="text-2xl font-bold mb-4">Establishing a Settlement Fund</h3>
+                        <h4 className="text-2xl font-bold mb-4">Establishing a Settlement Fund</h4>
                         <p className="text-lg leading-relaxed">This is the most critical phase. You will need to stop paying your regular EMIs and redirected that money into a dedicated account managed by the fintech app. These funds are used to pay the final settlement amount. Understand that this will lead to missed payment notices, but the app's legal team will guide you on how to handle them.</p>
                     </div>
                 </div>
@@ -518,10 +518,10 @@ export default function FintechLoanSettlementSalariedPage() {
             {/* More sections... */}
 
             <section id="eligibility-salaried" className="scroll-mt-32 mb-16">
-                <h2 className="text-3xl lg:text-4xl font-black text-[#2E2E2E] mb-8">Who Qualifies for Fintech Loan Settlement?</h2>
+                <h3 className="text-3xl lg:text-4xl font-black text-[#2E2E2E] mb-8">Who Qualifies for Fintech Loan Settlement?</h3>
                 <p className="text-lg leading-relaxed mb-6">Fintech platforms do not accept everyone. They look for specific criteria that indicate a genuine inability to pay rather than a willful default. For salaried individuals, this proof is usually found in your bank statements and salary slips.</p>
                 <div className="bg-blue-50 border border-blue-100 rounded-2xl p-8 mb-8">
-                    <h3 className="text-xl font-bold mb-4">Primary Eligibility Criteria</h3>
+                    <h4 className="text-xl font-bold mb-4">Primary Eligibility Criteria</h4>
                     <ul className="space-y-4">
                         <li className="flex gap-4">
                             <svg className="w-6 h-6 text-blue-600 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M5 13l4 4L19 7"></path></svg>
@@ -540,11 +540,11 @@ export default function FintechLoanSettlementSalariedPage() {
             </section>
 
             <section id="pros-and-cons" className="scroll-mt-32 mb-16">
-                <h2 className="text-3xl lg:text-4xl font-black text-[#2E2E2E] mb-8">Pros and Cons of Using Fintech Apps for Settlement</h2>
+                <h3 className="text-3xl lg:text-4xl font-black text-[#2E2E2E] mb-8">Pros and Cons of Using Fintech Apps for Settlement</h3>
                 <p className="text-lg leading-relaxed mb-6">Every financial strategy comes with its own set of advantages and risks. For a salaried professional, the decision to settle must be a informed one, weighing the immediate relief against long term consequences.</p>
                 <div className="grid md:grid-cols-2 gap-8">
                     <div className="bg-green-50 p-8 rounded-2xl border border-green-100">
-                        <h3 className="text-xl font-bold text-green-800 mb-4">Advantages (The Pros)</h3>
+                        <h4 className="text-xl font-bold text-green-800 mb-4">Advantages (The Pros)</h4>
                         <ul className="space-y-3 text-sm text-green-700">
                             <li>• Significant reduction in total debt amount (often 40 to 60 percent).</li>
                             <li>• Protection from physical and verbal harassment by recovery agents.</li>
@@ -556,7 +556,7 @@ export default function FintechLoanSettlementSalariedPage() {
                         </ul>
                     </div>
                     <div className="bg-red-50 p-8 rounded-2xl border border-red-100">
-                        <h3 className="text-xl font-bold text-red-800 mb-4">Drawbacks (The Cons)</h3>
+                        <h4 className="text-xl font-bold text-red-800 mb-4">Drawbacks (The Cons)</h4>
                         <ul className="space-y-3 text-sm text-red-700">
                             <li>• Significant negative impact on your CIBIL score in the short term.</li>
                             <li>• Fees charged by the app can be high (based on savings saved).</li>
@@ -571,16 +571,16 @@ export default function FintechLoanSettlementSalariedPage() {
             </section>
 
             <section id="fee-breakdown" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl lg:text-4xl font-black text-[#2E2E2E] mb-8">Understanding the Fee Structure of Fintech Apps</h2>
+              <h3 className="text-3xl lg:text-4xl font-black text-[#2E2E2E] mb-8">Understanding the Fee Structure of Fintech Apps</h3>
               <p className="text-lg leading-relaxed mb-6">Fintech companies are business entities that provide a valuable service. Understanding how they charge allows you to factor these costs into your overall debt resolution budget. Most platforms follow a combination of two fee models.</p>
               <div className="grid md:grid-cols-2 gap-8 mb-8">
                 <div className="bg-white p-8 rounded-2xl border border-gray-100 shadow-sm">
-                  <h3 className="text-xl font-bold mb-4">1. Monthly Subscription Fees</h3>
+                  <h4 className="text-xl font-bold mb-4">1. Monthly Subscription Fees</h4>
                   <p className="text-gray-600 leading-relaxed text-sm mb-4">This fee covers the cost of maintaining your account, providing debt counseling, and the 'Harassment Shield' services. It typically ranges from 500 to 2000 rupees per month depending on the platform and the number of active cases.</p>
                   <p className="text-gray-600 leading-relaxed text-sm">Think of this as an insurance premium for your mental peace and legal protection.</p>
                 </div>
                 <div className="bg-white p-8 rounded-2xl border border-gray-100 shadow-sm">
-                  <h4 className="text-xl font-bold mb-4">2. Success Based Fees</h4>
+                  <h5 className="text-xl font-bold mb-4">2. Success Based Fees</h5>
                   <p className="text-gray-600 leading-relaxed text-sm mb-4">This is the 'performance' part of the fee. Most apps charge between 10 to 15 percent of the amount they actually save you. For example, if they negotiate a waiver of 1 lakh rupees, their fee would be between 10,000 to 15,000 rupees.</p>
                   <p className="text-gray-600 leading-relaxed text-sm font-bold text-[#1F5EFF]">This model aligns the app's interests with yours; the more they save you, the more they earn.</p>
                 </div>
@@ -588,10 +588,10 @@ export default function FintechLoanSettlementSalariedPage() {
             </section>
 
             <section id="data-privacy" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl lg:text-4xl font-black text-[#2E2E2E] mb-8">Data Privacy: Is Your Financial Information Safe?</h2>
+              <h3 className="text-3xl lg:text-4xl font-black text-[#2E2E2E] mb-8">Data Privacy: Is Your Financial Information Safe?</h3>
               <p className="text-lg leading-relaxed mb-6">When you enroll in a fintech debt relief program, you are sharing sensitive data, including bank statements, salary details, and debt history. It is imperative to choose a platform that adheres to strict data protection standards.</p>
               <div className="bg-blue-50 p-8 rounded-2xl border border-blue-100 mb-8">
-                <h3 className="text-xl font-bold mb-4">What to Look For in an App's Privacy Policy</h3>
+                <h4 className="text-xl font-bold mb-4">What to Look For in an App's Privacy Policy</h4>
                 <ul className="space-y-3 text-sm">
                   <li className="flex items-center gap-2 font-medium">✓ ISO 27001 Certification: The gold standard for information security management.</li>
                   <li className="flex items-center gap-2 font-medium">✓ RBI Compliance: Ensure the app follows the latest Digital Lending Directions regarding data storage.</li>
@@ -602,38 +602,38 @@ export default function FintechLoanSettlementSalariedPage() {
             </section>
 
             <section id="settled-tag-depth" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl lg:text-4xl font-black text-[#2E2E2E] mb-8">The 'Settled' Tag: What It Means for Your Future</h2>
+              <h3 className="text-3xl lg:text-4xl font-black text-[#2E2E2E] mb-8">The 'Settled' Tag: What It Means for Your Future</h3>
               <p className="text-lg leading-relaxed mb-6">In the world of credit reporting, every word carries weight. When a loan is 'Settled', it means the lender accepted less than what was owed. This remains on your CIBIL report for 7 years. But does it mean you can never get a loan again?</p>
               <div className="bg-gray-50 p-8 rounded-2xl border border-gray-200 mb-8">
-                <h3 className="text-xl font-bold mb-4">Navigating Post Settlement Credit</h3>
+                <h4 className="text-xl font-bold mb-4">Navigating Post Settlement Credit</h4>
                 <p className="text-sm text-gray-600 leading-relaxed mb-4">Most major banks will be hesitant to lend to someone with a 'Settled' tag for the first 12 to 24 months. However, as you rebuild your score through secured credit cards and timely payments (as mentioned in our rebuilding section), smaller lenders and newer NBFCs will become more open to your applications.</p>
                 <p className="text-sm text-gray-600 leading-relaxed">The key is to wait until your score crosses the 750 mark again. At that point, your recent positive behavior outweighs the past settlement in many risk assessment models.</p>
               </div>
             </section>
 
             <section id="negotiating-salary-freeze" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl lg:text-4xl font-black text-[#2E2E2E] mb-8">How to Negotiate During a Corporate Salary Freeze</h2>
+              <h3 className="text-3xl lg:text-4xl font-black text-[#2E2E2E] mb-8">How to Negotiate During a Corporate Salary Freeze</h3>
               <p className="text-lg leading-relaxed mb-6">In the current economic climate, corporate salary freezes and layoffs are common. If you are a salaried employee facing such a situation, you have a strong case for a hardship based settlement. Fintech apps are particularly good at presenting this data to banks.</p>
               <div className="bg-[#1F5EFF]/10 p-8 rounded-2xl border border-[#1F5EFF]/20 mb-8">
-                <h3 className="text-xl font-bold mb-4">Leveraging 'Stagnant Income' in Negotiations</h3>
+                <h4 className="text-xl font-bold mb-4">Leveraging 'Stagnant Income' in Negotiations</h4>
                 <p className="text-sm leading-relaxed mb-4">When your salary is frozen but inflation and interest rates are rising, your 'Real Disposable Income' drops. Platforms like AMA Legal or FREED use this financial data to prove that you are not a 'Willful Defaulter' but a 'Stressed Borrower'. This distinction is vital for getting a better settlement percentage.</p>
                 <p className="text-sm leading-relaxed">By providing your last three years of salary slips and Form 16s, you can demonstrate the lack of growth in your income, supporting your request for a waiver of interest and penalties.</p>
               </div>
             </section>
 
             <section id="impact-on-cibil" className="scroll-mt-32 mb-16">
-                <h2 className="text-3xl lg:text-4xl font-black text-[#2E2E2E] mb-8">CIBIL Score Impact and Rebuilding Strategies</h2>
+                <h3 className="text-3xl lg:text-4xl font-black text-[#2E2E2E] mb-8">CIBIL Score Impact and Rebuilding Strategies</h3>
                 <p className="text-lg leading-relaxed mb-6">One of the biggest concerns for any salaried individual is their credit score. It is true that a settlement will hurt your score. When you settle a loan, the bank reports it to credit bureaus as 'Settled' rather than 'Closed'. This indicates that you did not pay the full amount as originally agreed.</p>
                 <div className="bg-gray-50 border border-gray-200 rounded-2xl p-8 mb-8">
-                    <h3 className="text-2xl font-bold mb-6">How to Rebuild After Settlement</h3>
+                    <h4 className="text-2xl font-bold mb-6">How to Rebuild After Settlement</h4>
                     <p className="mb-4">Settlement is not a permanent black mark. With disciplined effort, you can rebuild your credit score over 2 to 3 years.</p>
                     <div className="grid sm:grid-cols-2 gap-6">
                         <div className="bg-white p-4 rounded-xl shadow-sm">
-                            <h4 className="font-bold mb-2">Secured Credit Cards</h4>
+                            <h5 className="font-bold mb-2">Secured Credit Cards</h5>
                             <p className="text-sm text-gray-600">Consider getting a credit card against a fixed deposit. Using this and paying back in full every month is the fastest way to show new, positive credit behavior.</p>
                         </div>
                         <div className="bg-white p-4 rounded-xl shadow-sm">
-                            <h4 className="font-bold mb-2">Timely Bill Payments</h4>
+                            <h5 className="font-bold mb-2">Timely Bill Payments</h5>
                             <p className="text-sm text-gray-600">Ensure all utility bills, phone bills, and any remaining credit obligations are paid exactly on time. Consistency is key for the CIBIL algorithm.</p>
                         </div>
                     </div>
@@ -641,7 +641,7 @@ export default function FintechLoanSettlementSalariedPage() {
             </section>
 
             <section id="documents-needed" className="scroll-mt-32 mb-16">
-                <h2 className="text-3xl lg:text-4xl font-black text-[#2E2E2E] mb-8">Documents Required for Salaried Individuals</h2>
+                <h3 className="text-3xl lg:text-4xl font-black text-[#2E2E2E] mb-8">Documents Required for Salaried Individuals</h3>
                 <p className="text-lg leading-relaxed mb-8">To build a strong case for settlement, you need to provide meticulous documentation. Fintech apps will require these to verify your hardship and negotiate with banks.</p>
                 <div className="overflow-x-auto">
                     <table className="w-full text-left border-collapse">
@@ -678,7 +678,7 @@ export default function FintechLoanSettlementSalariedPage() {
             </section>
 
             <section id="success-stories" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 text-center">Real Stories of Freedom</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 text-center">Real Stories of Freedom</h3>
               <div className="grid md:grid-cols-2 gap-6 not-prose">
                 {[
                   {
@@ -716,7 +716,7 @@ export default function FintechLoanSettlementSalariedPage() {
                         {review.name.charAt(0)}
                       </div>
                       <div>
-                        <h3 className="font-bold text-[#2E2E2E]">{review.name}</h3>
+                        <h4 className="font-bold text-[#2E2E2E]">{review.name}</h4>
                         <p className="text-xs text-gray-400">{review.loc}</p>
                       </div>
                       <div className="ml-auto text-yellow-400 text-sm">★★★★★</div>
@@ -731,7 +731,7 @@ export default function FintechLoanSettlementSalariedPage() {
             </section>
 
             <section id="faqs" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Common Questions About Fintech Loan Settlement</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Common Questions About Fintech Loan Settlement</h3>
               <div className="space-y-4">
                 {(jsonLd["@graph"][4] as any)?.mainEntity?.map((faq: any, i: number) => (
                   <details key={i} className="group bg-white border border-[#DEDEDE] rounded-xl overflow-hidden hover:shadow-md transition-all border-b-4 border-b-[#1F5EFF]/20">
@@ -757,7 +757,7 @@ export default function FintechLoanSettlementSalariedPage() {
             <div className="lg:hidden mt-16 mb-8">
               <div className="bg-[#2E2E2E] rounded-2xl shadow-xl overflow-hidden border border-[#1F5EFF]/20">
                 <div className="bg-[#1F5EFF] p-6 text-center text-white">
-                    <h3 className="text-2xl font-black mb-2">Need Direct Help?</h3>
+                    <h4 className="text-2xl font-black mb-2">Need Direct Help?</h4>
                     <p className="opacity-90 text-sm">Talk to our experts today for a personalized debt evaluation and settlement plan.</p>
                 </div>
                 <div className="p-8 text-center">

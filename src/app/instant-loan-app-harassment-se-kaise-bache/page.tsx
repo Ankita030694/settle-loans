@@ -517,9 +517,9 @@ export default function InstantLoanAppHarassmentSeKaiseBachePage() {
                 </span>
                 <span className="text-xs font-black tracking-widest text-[#1F5EFF] uppercase">Section 02</span>
               </div>
-              <h2 className="text-2xl sm:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h3 className="text-2xl sm:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 2. Cyber Blackmail Tactics: Morphed Pornographic Photos, WhatsApp Contact Spamming &amp; Social Lynching
-              </h2>
+              </h3>
               <div className="space-y-4 text-slate-700 leading-relaxed text-base">
                 <p>
                   Instant loan app syndicates ki recovery strategy banking ya civil law par adharit nahi hoti, balki pure <strong>Psychological Terrorism &amp; Cyber Blackmail</strong> par tiki hoti hai. Jab victim high interest rates ya unconscionable processing charges ka virodh karta hai ya payment karne mein asamarth hota hai, toh recovery operatives organized stage-wise harassment workflow execute karte hain.
@@ -544,9 +544,9 @@ export default function InstantLoanAppHarassmentSeKaiseBachePage() {
                 </span>
                 <span className="text-xs font-black tracking-widest text-[#1F5EFF] uppercase">Section 03</span>
               </div>
-              <h2 className="text-2xl sm:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h3 className="text-2xl sm:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 3. Immediate Emergency Action: Filing on Cyber Crime Portal (cybercrime.gov.in) &amp; 1930 Helpline
-              </h2>
+              </h3>
               <div className="space-y-4 text-slate-700 leading-relaxed text-base">
                 <p>
                   Yadi aap ya aapka koi parijana instant loan app ke cyber blackmail aur morphed photos ka shikar ho raha hai, toh panic mein aakar galat kadam uthane ya paise transfer karne ke bajaye Bharat Sarkar ke <strong>National Cyber Crime Reporting Portal</strong> aur Indian Cybercrime Coordination Centre (I4C) ke statutory mechanism ko turant activate karein.
@@ -561,7 +561,7 @@ export default function InstantLoanAppHarassmentSeKaiseBachePage() {
                 <div className="border border-slate-200 rounded-2xl p-4 bg-slate-50 flex items-start gap-3">
                   <div className="w-7 h-7 rounded-xl bg-blue-600 text-white flex items-center justify-center text-xs font-bold flex-shrink-0">1</div>
                   <div>
-                    <h3 className="font-bold text-slate-900 text-sm mb-1">Dial 1930 National Cyber Financial Helpline Immediately</h3>
+                    <h4 className="font-bold text-slate-900 text-sm mb-1">Dial 1930 National Cyber Financial Helpline Immediately</h4>
                     <p className="text-xs sm:text-sm text-slate-600 leading-relaxed">
                       Apne phone se turant <strong>1930</strong> dial karein. Agar aapne dar ke maare scammers ke kisi UPI handle ya bank account mein paise transfer kiye hain, toh 1930 helpline banking fraud network ke sath coordinate karke beneficiary bank account ko turant freeze (lien) karwa sakti hai, jisse paisa wapas milne ki sambhavna banti hai.
                     </p>
@@ -571,7 +571,7 @@ export default function InstantLoanAppHarassmentSeKaiseBachePage() {
                 <div className="border border-slate-200 rounded-2xl p-4 bg-slate-50 flex items-start gap-3">
                   <div className="w-7 h-7 rounded-xl bg-blue-600 text-white flex items-center justify-center text-xs font-bold flex-shrink-0">2</div>
                   <div>
-                    <h4 className="font-bold text-slate-900 text-sm mb-1">Preserve Unaltered Digital Forensics &amp; Evidence</h4>
+                    <h5 className="font-bold text-slate-900 text-sm mb-1">Preserve Unaltered Digital Forensics &amp; Evidence</h5>
                     <p className="text-xs sm:text-sm text-slate-600 leading-relaxed">
                       Krodh ya sharm mein aakar WhatsApp chats ko delete na karein. Threatening messages, audio voice notes, morphed images, payment demand QR codes aur call history ka date aur time ke sath full screenshot lein. WhatsApp chat ko <em>&apos;Export Chat with Media&apos;</em> option ke zariye apne secure email par backup lein.
                     </p>
@@ -581,7 +581,7 @@ export default function InstantLoanAppHarassmentSeKaiseBachePage() {
                 <div className="border border-slate-200 rounded-2xl p-4 bg-slate-50 flex items-start gap-3">
                   <div className="w-7 h-7 rounded-xl bg-blue-600 text-white flex items-center justify-center text-xs font-bold flex-shrink-0">3</div>
                   <div>
-                    <h4 className="font-bold text-slate-900 text-sm mb-1">Lodge Formal Complaint on cybercrime.gov.in</h4>
+                    <h5 className="font-bold text-slate-900 text-sm mb-1">Lodge Formal Complaint on cybercrime.gov.in</h5>
                     <p className="text-xs sm:text-sm text-slate-600 leading-relaxed">
                       Official portal <a href="https://cybercrime.gov.in" target="_blank" rel="noopener noreferrer" className="text-[#1F5EFF] underline font-bold">cybercrime.gov.in</a> par login karein. Yadi victim mahila hai ya morphed nude photos shamil hain, toh <strong>&apos;Report Cyber Crime against Women/Children&apos;</strong> tab chunein jahan bina naam ujagar kiye anonymous complaint darj karne ka vikalp hota hai. Anya mamlon mein <strong>&apos;Report Other Cyber Crime&apos;</strong> select karke Sub-Category mein <em>&apos;Cyber Extortion / Blackmailing&apos;</em> chunein.
                     </p>
@@ -591,7 +591,7 @@ export default function InstantLoanAppHarassmentSeKaiseBachePage() {
                 <div className="border border-slate-200 rounded-2xl p-4 bg-slate-50 flex items-start gap-3">
                   <div className="w-7 h-7 rounded-xl bg-blue-600 text-white flex items-center justify-center text-xs font-bold flex-shrink-0">4</div>
                   <div>
-                    <h4 className="font-bold text-slate-900 text-sm mb-1">Secure the Cyber Acknowledgment Number &amp; Police Cyber Cell Visit</h4>
+                    <h5 className="font-bold text-slate-900 text-sm mb-1">Secure the Cyber Acknowledgment Number &amp; Police Cyber Cell Visit</h5>
                     <p className="text-xs sm:text-sm text-slate-600 leading-relaxed">
                       Complaint submit karne par prapt 15-digit <strong>Cyber Crime Acknowledgment Receipt (PDF)</strong> ko download karein. Is acknowledgement copy ke sath apne local district Cyber Crime Police Station mein formal written application submit karke regular FIR (under BNS &amp; IT Act) darj karwayen.
                     </p>
@@ -608,9 +608,9 @@ export default function InstantLoanAppHarassmentSeKaiseBachePage() {
                 </span>
                 <span className="text-xs font-black tracking-widest text-[#1F5EFF] uppercase">Section 04</span>
               </div>
-              <h2 className="text-2xl sm:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h3 className="text-2xl sm:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 4. Chakshu &amp; Sanchar Saathi Protocol: Blacklisting Suspect Numbers &amp; RBI Sachet Filing
-              </h2>
+              </h3>
               <div className="space-y-4 text-slate-700 leading-relaxed text-base">
                 <p>
                   Cyber police station ke alawa Bharat Sarkar ke Department of Telecommunications (DoT) aur Reserve Bank of India (RBI) ne scam syndicates ke infrastructure ko disable karne ke liye do powerful national digital platforms launch kiye hain jinka upayog har victim ko anivarya roop se karna chahiye.
@@ -650,9 +650,9 @@ export default function InstantLoanAppHarassmentSeKaiseBachePage() {
                       <span className="text-[10px] font-black uppercase tracking-widest text-blue-300 block">
                         Emergency Protection Workflow
                       </span>
-                      <h3 className="text-sm md:text-base font-black text-white leading-tight">
+                      <h4 className="text-sm md:text-base font-black text-white leading-tight">
                         Instant Loan App Harassment: 4-Stage Emergency Shield Blueprint
-                      </h3>
+                      </h4>
                     </div>
                   </div>
                   <a
@@ -699,9 +699,9 @@ export default function InstantLoanAppHarassmentSeKaiseBachePage() {
                 </span>
                 <span className="text-xs font-black tracking-widest text-[#1F5EFF] uppercase">Section 06</span>
               </div>
-              <h2 className="text-2xl sm:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h3 className="text-2xl sm:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 6. Statutory Criminal Law Protections: Bharatiya Nyaya Sanhita (BNS), IT Act 2000 &amp; RBI Master Rules
-              </h2>
+              </h3>
               <div className="space-y-4 text-slate-700 leading-relaxed text-base">
                 <p>
                   Aam borrowers ko kanoon ki jankari na hone ke kaaran loan recovery agents unhe darane mein safal ho jate hain. Bharat ka kanooni framework borrowers ko cyber extortion aur illegal recovery practices ke khilaf aakarshak aur majboot suraksha pradan karta hai. Scammers dwara kiye jane wale tamam aakraman Bharatiya Nyaya Sanhita (BNS) aur Information Technology Act, 2000 ke antargat non-bailable criminal offences hain:
@@ -732,9 +732,9 @@ export default function InstantLoanAppHarassmentSeKaiseBachePage() {
                 </span>
                 <span className="text-xs font-black tracking-widest text-[#1F5EFF] uppercase">Section 07</span>
               </div>
-              <h2 className="text-2xl sm:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h3 className="text-2xl sm:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 7. Digital Quarantine &amp; Contact Defense: How to Neutralize Social Stigmatization
-              </h2>
+              </h3>
               <div className="space-y-4 text-slate-700 leading-relaxed text-base">
                 <p>
                   Blackmailers ki sabse badi takat hoti hai victim ka <strong>&apos;Social Shame &amp; Isolation&apos;</strong>. Unka pura model is baat par depend karta hai ki victim sharm aur badnaami ke darr se chupchap paise deta rahega aur kisi ko batayega nahi. Is social leverage ko todne ke liye aapko turant ek strategic <strong>Contact Shield Broadcast</strong> execute karna chahiye.
@@ -778,9 +778,9 @@ export default function InstantLoanAppHarassmentSeKaiseBachePage() {
                 </span>
                 <span className="text-xs font-black tracking-widest text-[#1F5EFF] uppercase">Section 08</span>
               </div>
-              <h2 className="text-2xl sm:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h3 className="text-2xl sm:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 8. Differentiating RBI-Registered NBFC Apps vs Illegal Shell Apps: Forensics &amp; Sanction Checks
-              </h2>
+              </h3>
               <div className="space-y-4 text-slate-700 leading-relaxed text-base">
                 <p>
                   Bharat mein do alag-alag categories ke digital lending apps operate karte hain, aur dono se nipatne ka kanooni tareeqa bilkul alag hota hai.
@@ -805,9 +805,9 @@ export default function InstantLoanAppHarassmentSeKaiseBachePage() {
                 </span>
                 <span className="text-xs font-black tracking-widest text-[#1F5EFF] uppercase">Section 09</span>
               </div>
-              <h2 className="text-2xl sm:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h3 className="text-2xl sm:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 9. Comparative Evaluation: Illegal Chinese Apps vs RBI-Regulated Digital NBFCs
-              </h2>
+              </h3>
               <div className="space-y-4 text-slate-700 leading-relaxed text-base">
                 <p>
                   Niche di gayi comparative matrix table aapko rogue 7-day instant loan apps aur authentic RBI-registered digital lenders ke beech ke kanooni status, extortion level, credit score impact aur recommended legal response ko spasht roop se darshati hai:
@@ -880,9 +880,9 @@ export default function InstantLoanAppHarassmentSeKaiseBachePage() {
                 </span>
                 <span className="text-xs font-black tracking-widest text-[#1F5EFF] uppercase">Section 11</span>
               </div>
-              <h2 className="text-2xl sm:text-3xl font-black text-slate-900 mb-6 leading-tight">
+              <h3 className="text-2xl sm:text-3xl font-black text-slate-900 mb-6 leading-tight">
                 Frequently Asked Questions: Instant Loan App Harassment &amp; Legal Shielding
-              </h2>
+              </h3>
 
               <div className="space-y-4">
                 <details className="group border border-slate-200 rounded-2xl bg-white shadow-sm overflow-hidden transition-all duration-200 hover:border-slate-300" open>

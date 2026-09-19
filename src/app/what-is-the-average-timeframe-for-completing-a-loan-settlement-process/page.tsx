@@ -282,9 +282,9 @@ export default function AverageTimeframePage() {
             </section>
 
             <section id="core-answer" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
                 The Hard Truth: Why 3 to 6 Months is the Standard
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 In the world of Indian finance, nothing happens at the speed of light, especially when it involves a bank losing money. A loan settlement is essentially a "haircut" for the bank. They are agreeing to take less than what you owe. Naturally, they want to be 100% sure that you cannot pay the full amount before they agree to walk away from their profit.
               </p>
@@ -295,33 +295,33 @@ export default function AverageTimeframePage() {
                 While some fintech apps and Non-Banking Financial Companies (NBFCs) might move faster due to their automated systems, traditional banks like SBI, HDFC, or ICICI follow a very structured path. Trying to "rush" a bank often results in a rejected proposal because the bank's internal systems haven't yet moved the account to the 'Settlement-Ready' stage. Patience, combined with persistent professional negotiation, is the only way to win this game.
               </p>
               <div className="bg-gray-50 p-8 rounded-xl border border-gray-200 mb-8">
-                <h3 className="text-xl font-bold mb-6">The Master Timeline at a Glance</h3>
+                <h4 className="text-xl font-bold mb-6">The Master Timeline at a Glance</h4>
                 <div className="space-y-6">
                   <div className="flex gap-4">
                     <div className="w-16 h-16 bg-[#1F5EFF] text-white flex-shrink-0 rounded-full flex items-center justify-center font-black text-xl">01</div>
                     <div>
-                      <h4 className="font-black text-[#2E2E2E]">The Default Phase (Day 1 - 90)</h4>
+                      <h5 className="font-black text-[#2E2E2E]">The Default Phase (Day 1 - 90)</h5>
                       <p className="text-sm text-gray-600 italic">The bank attempts full recovery through calls and reminders. No settlement talk yet.</p>
                     </div>
                   </div>
                   <div className="flex gap-4">
                     <div className="w-16 h-16 bg-[#1F5EFF] text-white flex-shrink-0 rounded-full flex items-center justify-center font-black text-xl">02</div>
                     <div>
-                      <h4 className="font-black text-[#2E2E2E]">The Proposal Phase (Day 91 - 120)</h4>
+                      <h5 className="font-black text-[#2E2E2E]">The Proposal Phase (Day 91 - 120)</h5>
                       <p className="text-sm text-gray-600 italic">The account is an NPA. You submit your hardship letter. 2-3 weeks for first response.</p>
                     </div>
                   </div>
                   <div className="flex gap-4">
                     <div className="w-16 h-16 bg-[#1F5EFF] text-white flex-shrink-0 rounded-full flex items-center justify-center font-black text-xl">03</div>
                     <div>
-                      <h4 className="font-black text-[#2E2E2E]">The Negotiation Dance (Day 121 - 160)</h4>
+                      <h5 className="font-black text-[#2E2E2E]">The Negotiation Dance (Day 121 - 160)</h5>
                       <p className="text-sm text-gray-600 italic">Series of counter-offers. Verification of documents. The longest and most critical part.</p>
                     </div>
                   </div>
                   <div className="flex gap-4">
                     <div className="w-16 h-16 bg-[#1F5EFF] text-white flex-shrink-0 rounded-full flex items-center justify-center font-black text-xl">04</div>
                     <div>
-                      <h4 className="font-black text-[#2E2E2E]">Final Closure (Day 161 - 180+)</h4>
+                      <h5 className="font-black text-[#2E2E2E]">Final Closure (Day 161 - 180+)</h5>
                       <p className="text-sm text-gray-600 italic">Payment of settlement amount, receipt of NDC, and CIBIL status update.</p>
                     </div>
                   </div>
@@ -330,9 +330,9 @@ export default function AverageTimeframePage() {
             </section>
 
             <section id="phase-1" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
                 Phase 1: The 90 Day Default Clock (The NPA Wait)
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 Most borrowers make the mistake of asking for a settlement the day after they miss their first EMI. We understand the intent is to be honest, but from the bank's perspective, a one-month delay is just a "temporary liquidity issue." They will not even entertain a settlement conversation during the first 90 days.
               </p>
@@ -345,14 +345,14 @@ export default function AverageTimeframePage() {
             </section>
 
             <section id="phase-2" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
                 Phase 2: Formal Submission & Documentation (1 - 3 Weeks)
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 Once your account hits the 90-day mark, the legal and credit departments take over from the recovery team. This is when the window of opportunity opens. The next step is submitting a formal "Hardship Letter" along with a settlement proposal. This is not just a simple email; it is a legal document that explains why you cannot pay.
               </p>
               <div className="bg-blue-50 p-8 rounded-xl border border-blue-200 mb-8">
-                <h3 className="text-xl font-bold mb-4 text-blue-900">Documents that Speed Up Your Case</h3>
+                <h4 className="text-xl font-bold mb-4 text-blue-900">Documents that Speed Up Your Case</h4>
                 <p className="text-sm text-blue-800 mb-4">The bank needs proof. If you say you have a medical emergency but don't provide bills, they will add another 2 weeks to the timeline just asking for them. Have these ready:</p>
                 <ul className="grid sm:grid-cols-2 gap-4 text-sm font-bold text-blue-900">
                   <li>• Last 6 Months Bank Statements</li>
@@ -369,9 +369,9 @@ export default function AverageTimeframePage() {
             </section>
 
             <section id="phase-3" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
                 Phase 3: The Negotiation Dance (2 - 6 Weeks)
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 This is the heart of the timeline. You will never get the "best offer" on day one. The bank's first response to your proposal will likely be a very high amount, perhaps 80-90% of the total outstanding. This is a testing phase. They want to see if you are truly desperate or if you have "found some money" suddenly.
               </p>
@@ -384,9 +384,9 @@ export default function AverageTimeframePage() {
             </section>
 
             <section id="phase-4" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
                 Phase 4: Internal Approval & Verification (1 - 2 Weeks)
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 After you and the credit manager "verbally" agree on an amount, the case doesn't close immediately. The manager needs to get formal approval from their superiors – often a Committee of Executives or a Zonal Manager, depending on the loan amount.
               </p>
@@ -396,9 +396,9 @@ export default function AverageTimeframePage() {
             </section>
 
             <section id="phase-5" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
                 Phase 5: The Official Settlement Letter (7 - 15 Days)
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6 text-red-600 font-black italic">
                 CRITICAL WARNING: Never pay a single Rupee based on a phone call or a WhatsApp message from a recovery agent.
               </p>
@@ -418,9 +418,9 @@ export default function AverageTimeframePage() {
             </section>
 
             <section id="phase-6" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
                 Phase 6: Payment Fulfillment (1 - 90 Days)
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 Once you have the letter, the ball is in your court. Most settlement letters give you a window of seven to fifteen days to pay. If you have the lump sum ready, this phase is over in one day. However, if the bank has allowed an "Installment Settlement," this phase can extend for three months.
               </p>
@@ -430,9 +430,9 @@ export default function AverageTimeframePage() {
             </section>
 
             <section id="phase-7" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
                 Phase 7: Final Closure & CIBIL Update (30 - 60 Days)
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 The day you make the payment is not the day the loan is closed. The bank's branch must communicate with the head office to mark the account as closed. You should follow up for the "No Dues Certificate" (NDC) about 15 days after your final payment.
               </p>
@@ -442,28 +442,28 @@ export default function AverageTimeframePage() {
             </section>
 
             <section id="factors" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
                 Factors that Can Delay Your Settlement
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 While 6 months is the average, some cases drag on for a year while others finish in three. What makes the difference?
               </p>
               <div className="grid md:grid-cols-2 gap-6 mb-8">
                 <div className="bg-red-50 p-6 rounded-xl border border-red-100">
-                  <h3 className="font-bold text-red-800 mb-2">Legal Notices (Delays +2 Weeks)</h3>
+                  <h4 className="font-bold text-red-800 mb-2">Legal Notices (Delays +2 Weeks)</h4>
                   <p className="text-sm text-red-900/70">If the bank has already filed a case under Section 138 (Cheque Bounce) or started a recovery suit, the legal department must withdraw the case before the settlement is final. This adds multiple rounds of court approval.</p>
                 </div>
                 <div className="bg-green-50 p-6 rounded-xl border border-green-100">
-                  <h3 className="font-bold text-green-800 mb-2">Festive Offers (Speeds up by -3 Weeks)</h3>
+                  <h4 className="font-bold text-green-800 mb-2">Festive Offers (Speeds up by -3 Weeks)</h4>
                   <p className="text-sm text-green-900/70">Banks often have "One Time Settlement" (OTS) drives before the end of the financial year (March) or during major festivals. During these times, they are authorized to agree on amounts much faster.</p>
                 </div>
               </div>
             </section>
 
             <section id="professional-role" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
                 Why Professional Negotiation is Faster
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 An individual borrower often gets stuck in a loop of talking to different customer service agents who have no power to settle. At SettleLoans, we know exactly who the decision-makers are. We don't talk to the "call center"; we talk to the Credit Managers and the Nodal Officers.
               </p>
@@ -510,7 +510,7 @@ export default function AverageTimeframePage() {
             />
 
             <section id="case-studies" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 text-center">Real Life Timelines</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 text-center">Real Life Timelines</h3>
               <div className="grid md:grid-cols-2 gap-6 not-prose">
                 {[
                   { 
@@ -539,7 +539,7 @@ export default function AverageTimeframePage() {
                   }
                 ].map((caseStudy, i) => (
                   <div key={i} className="bg-white p-6 rounded-2xl border border-[#DEDEDE] shadow-sm hover:shadow-md transition-all">
-                    <h3 className="font-black text-[#2E2E2E] mb-2">{caseStudy.type}</h3>
+                    <h4 className="font-black text-[#2E2E2E] mb-2">{caseStudy.type}</h4>
                     <div className="flex items-center gap-2 mb-4">
                       <span className="text-xs font-mono bg-blue-50 text-blue-700 px-2 py-1 rounded">Total Time: {caseStudy.timeline}</span>
                       <span className="text-xs font-mono bg-green-50 text-green-700 px-2 py-1 rounded">Status: {caseStudy.status}</span>
@@ -551,9 +551,9 @@ export default function AverageTimeframePage() {
             </section>
 
             <section id="legal-framework" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
                 The Legal Framework of Loan Settlement in India
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 Understanding the legal environment is crucial for any borrower looking to settle. In India, loan recovery and settlement are governed by a complex web of regulations from the Reserve Bank of India (RBI) and specific acts passed by the Parliament. The most significant of these is the SARFAESI Act (Securitization and Reconstruction of Financial Assets and Enforcement of Security Interest Act, 2002). While this act primarily applies to secured loans, its shadow falls over all recovery processes.
               </p>
@@ -566,15 +566,15 @@ export default function AverageTimeframePage() {
             </section>
 
             <section id="secured-vs-unsecured" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
                 Secured vs Unsecured: How the Type of Loan Changes the Clock
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 The timeframe we've discussed so far (3-6 months) is most accurate for unsecured debts like personal loans and credit cards. If you are dealing with a secured loan, the timeline shifts dramatically.
               </p>
               <div className="grid md:grid-cols-2 gap-8 mb-8">
                 <div className="bg-white p-6 rounded-2xl border border-[#DEDEDE]">
-                  <h3 className="font-bold text-xl mb-4">Unsecured Loans (Fast Track)</h3>
+                  <h4 className="font-bold text-xl mb-4">Unsecured Loans (Fast Track)</h4>
                   <p className="text-sm text-gray-600 mb-4">Since there is no collateral to seize, the bank's only leverage is your credit score and legal action. This makes them more willing to settle within a 6-month window to avoid long-term legal costs.</p>
                   <ul className="text-sm font-bold text-[#1F5EFF] space-y-2">
                     <li>• Personal Loans: 3-5 Months</li>
@@ -583,7 +583,7 @@ export default function AverageTimeframePage() {
                   </ul>
                 </div>
                 <div className="bg-white p-6 rounded-2xl border border-[#DEDEDE]">
-                  <h3 className="font-bold text-xl mb-4">Secured Loans (Slow Track)</h3>
+                  <h4 className="font-bold text-xl mb-4">Secured Loans (Slow Track)</h4>
                   <p className="text-sm text-gray-600 mb-4">With a home or a car as collateral, the bank feels safe. They will often wait for 12-18 months, going through the physical seizure and auction process before even considering a settlement.</p>
                   <ul className="text-sm font-bold text-red-600 space-y-2">
                     <li>• Home Loans: 12-24 Months</li>
@@ -595,9 +595,9 @@ export default function AverageTimeframePage() {
             </section>
 
             <section id="lok-adalat" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
                 The Role of Lok Adalats in Speeding Up Settlements
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 If your loan settlement is dragging on, the "Lok Adalat" (People's Court) can be a godsend. These are alternative dispute resolution mechanisms organized by the government where pending cases are settled amicably. Banks love Lok Adalats because the settlements reached here have the same force as a decree of a civil court and cannot be appealed.
               </p>
@@ -607,14 +607,14 @@ export default function AverageTimeframePage() {
             </section>
 
             <section id="communication-strategy" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
                 Communication Strategies: What to Say (and What Not to Say)
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 Every email and call you have with the bank during this 6-month period is recorded. Your communication strategy can either shave weeks off your timeline or add months of delay. One of the biggest mistakes is giving "vague promises."
               </p>
               <div className="bg-blue-50 p-8 rounded-2xl border border-blue-100 mb-8">
-                <h3 className="text-xl font-bold text-blue-900 mb-4">The Golden Rules of Debt Communication</h3>
+                <h4 className="text-xl font-bold text-blue-900 mb-4">The Golden Rules of Debt Communication</h4>
                 <ul className="space-y-4 text-blue-800 font-medium">
                   <li><strong>1. Always Use Email:</strong> Phone calls have no legal standing. An email thread is a chronological record of your intent and the bank's response.</li>
                   <li><strong>2. Be Specific About Numbers:</strong> Instead of saying "I will pay soon," say "I can pay ₹1,50,000 by the 25th of next month."</li>
@@ -624,9 +624,9 @@ export default function AverageTimeframePage() {
             </section>
 
             <section id="rebuilding-timeline" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
                 Rebuilding Your Credit Score: The 24-Month Plan
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 Settling your loan is the end of the "crises" but the beginning of the "reconstruction." The timeline for a full credit recovery is typically 24 months after the "Settled" status appears on your CIBIL report.
               </p>
@@ -639,7 +639,7 @@ export default function AverageTimeframePage() {
             </section>
 
             <section id="faqs" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Frequently Asked Questions</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Frequently Asked Questions</h3>
               <div className="space-y-4 not-prose">
                 {[
                   { q: "How long does a typical loan settlement take in India?", a: "A standard loan settlement process usually takes between 3 to 6 months from the first missed EMI. This period includes the initial default phase, the credit department's review, and final negotiations." },
@@ -676,7 +676,7 @@ export default function AverageTimeframePage() {
             <div className="lg:hidden mt-16 mb-8">
               <div className="bg-[#2E2E2E] rounded-2xl shadow-xl overflow-hidden border border-[#DEDEDE]/10">
                 <div className="bg-[#1F5EFF] p-6 text-center text-white">
-                  <h3 className="text-2xl font-black mb-2">Ready to Start Your Timeline?</h3>
+                  <h4 className="text-2xl font-black mb-2">Ready to Start Your Timeline?</h4>
                   <p className="opacity-90 text-sm">Join thousands of Indians who have successfully closed their debt journey with us.</p>
                 </div>
                 <div className="p-8 text-center text-[#DEDEDE]">

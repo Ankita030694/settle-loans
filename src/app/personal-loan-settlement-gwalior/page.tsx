@@ -527,9 +527,9 @@ export default function Page() {
                   <Clock className="w-4 h-4" />
                   <span>2. Delinquency Timeline &amp; MP High Court Norms</span>
                 </div>
-                <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+                <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                   NPA Delinquency Aging &amp; MP High Court Bench Safeguards
-                </h2>
+                </h3>
                 <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                   Under the Reserve Bank of India&apos;s Prudential Norms (IRACP), overdue credit facilities transition through defined delinquency stages. During the initial ninety days, overdue loans are classified as Special Mention Accounts (SMA-0 to SMA-2), triggering reminder alerts and penal levies. Once an account exceeds ninety days of continuous non-payment, it is classified as a Non-Performing Asset (NPA), obligating the bank to lock mandatory capital reserves against the unpaid balance.
                 </p>
@@ -591,9 +591,9 @@ export default function Page() {
                   <Gavel className="w-4 h-4" />
                   <span>3. District Court &amp; Section 138/25 Defense</span>
                 </div>
-                <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+                <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                   Defending Statutory Legal Notices in Gwalior &amp; Chambal CJM Courts
-                </h2>
+                </h3>
                 <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                   When loan default persists, lenders initiate proceedings under Section 138 of the Negotiable Instruments Act, 1881 for bounced cheques, or Section 25 of the Payment and Settlement Systems Act, 2007 (PSSA) for failed NACH debits. Creditors file complaints before Chief Judicial Magistrate (CJM) Courts in Gwalior (Morar / City Centre), Morena, and Bhind.
                 </p>
@@ -608,9 +608,9 @@ export default function Page() {
                   <ShieldAlert className="w-4 h-4" />
                   <span>4. Section 171 Lien &amp; Salary Shielding</span>
                 </div>
-                <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+                <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                   Banker&apos;s Lien &amp; Salary Account Shielding in Gwalior
-                </h2>
+                </h3>
                 <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                   Under Section 171 of the Indian Contract Act, 1872, a bank holds a general lien only over accounts within its own institution. A creditor bank cannot freeze or debit deposits in separate, external banks without an explicit court order. Furthermore, Section 60(1) of the Code of Civil Procedure (CPC), 1908 strictly exempts government salaries, basic living allowances, and pensions from judicial attachment.
                 </p>
@@ -625,9 +625,9 @@ export default function Page() {
                   <Sparkles className="w-4 h-4" />
                   <span>5. Visual Resolution Roadmap</span>
                 </div>
-                <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+                <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                   Personal Loan Settlement Roadmap in Gwalior, Morena &amp; Bhind
-                </h2>
+                </h3>
                 <p className="text-slate-700 leading-relaxed mb-6 text-base md:text-lg">
                   The visual roadmap below details the five-step legal debt resolution framework across Gwalior and the Chambal division, illustrating the transition from hardship notice defense to bank Zonal SARB negotiations and binding Lok Adalat compromise awards.
                 </p>
@@ -654,9 +654,9 @@ export default function Page() {
                   <Percent className="w-4 h-4" />
                   <span>6. OTS Haircut Mechanics &amp; NPV Formula</span>
                 </div>
-                <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+                <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                   OTS Haircut Mechanics &amp; Institutional Valuation Formula
-                </h2>
+                </h3>
                 <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                   Bank compromise decisions depend on financial recovery mathematics. When evaluating One-Time Settlement offers, bank Zonal Settlement Committees in City Centre, Gwalior utilize a standardized Net Present Value (NPV) recovery valuation model. Because unsecured personal loans carry no collateral, pursuing civil court litigation requires upfront fees, legal costs, and years of process.
                 </p>
@@ -686,9 +686,9 @@ export default function Page() {
                   <ShieldCheck className="w-4 h-4" />
                   <span>7. RBI Anti-Harassment &amp; Police Limits</span>
                 </div>
-                <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+                <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                   Enforcing RBI Anti-Harassment Directives &amp; Police Limits
-                </h2>
+                </h3>
                 <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                   The RBI&apos;s Master Direction on Recovery Agents (2022) establishes strict operational boundaries for lenders. Calls are permitted only between 8:00 AM and 7:00 PM. Agents cannot call outside these hours, use intimidating language, contact relatives, or visit workplaces without consent.
                 </p>
@@ -706,9 +706,9 @@ export default function Page() {
                   <Layers className="w-4 h-4" />
                   <span>8. 5-Step Legal Settlement Protocol</span>
                 </div>
-                <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+                <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                   5-Step Legal Settlement Protocol in Gwalior &amp; Chambal
-                </h2>
+                </h3>
                 <p className="text-slate-700 leading-relaxed mb-6 text-base md:text-lg">
                   Achieving a binding debt compromise across Gwalior, Morena, and Bhind follows an advocate-led protocol across five strategic stages:
                 </p>
@@ -719,7 +719,7 @@ export default function Page() {
                       1
                     </div>
                     <div>
-                      <h3 className="text-base font-bold text-slate-900 mb-1">Financial Hardship Dossier Compilation</h3>
+                      <h4 className="text-base font-bold text-slate-900 mb-1">Financial Hardship Dossier Compilation</h4>
                       <p className="text-sm text-slate-600 leading-relaxed">
                         We compile verified hardship records—including salary slips, medical bills, trade ledgers, and tax returns—proving bona fide inability to service original loan terms.
                       </p>
@@ -731,7 +731,7 @@ export default function Page() {
                       2
                     </div>
                     <div>
-                      <h3 className="text-base font-bold text-slate-900 mb-1">Cease-and-Desist Anti-Harassment Notice</h3>
+                      <h4 className="text-base font-bold text-slate-900 mb-1">Cease-and-Desist Anti-Harassment Notice</h4>
                       <p className="text-sm text-slate-600 leading-relaxed">
                         Our advocates serve statutory notices on the bank Principal Nodal Officer and Zonal Heads in City Centre, halting recovery calls and prohibiting workplace or home visits.
                       </p>
@@ -743,7 +743,7 @@ export default function Page() {
                       3
                     </div>
                     <div>
-                      <h3 className="text-base font-bold text-slate-900 mb-1">CJM Court Legal Notice Defense</h3>
+                      <h4 className="text-base font-bold text-slate-900 mb-1">CJM Court Legal Notice Defense</h4>
                       <p className="text-sm text-slate-600 leading-relaxed">
                         Counsel prepares and files comprehensive replies to Section 138 NI Act and Section 25 PSSA notices in CJM Courts, shielding borrowers from judicial warrants.
                       </p>
@@ -755,7 +755,7 @@ export default function Page() {
                       4
                     </div>
                     <div>
-                      <h3 className="text-base font-bold text-slate-900 mb-1">Direct Zonal SARB &amp; Lok Adalat Conciliation</h3>
+                      <h4 className="text-base font-bold text-slate-900 mb-1">Direct Zonal SARB &amp; Lok Adalat Conciliation</h4>
                       <p className="text-sm text-slate-600 leading-relaxed">
                         Bypassing collection agencies, our negotiators interface directly with bank Stressed Assets branches in City Centre and DLSA Lok Adalat benches to secure 40% to 70% waivers.
                       </p>
@@ -767,7 +767,7 @@ export default function Page() {
                       5
                     </div>
                     <div>
-                      <h3 className="text-base font-bold text-slate-900 mb-1">Sanction Letter Audit &amp; Mandatory NDC Delivery</h3>
+                      <h4 className="text-base font-bold text-slate-900 mb-1">Sanction Letter Audit &amp; Mandatory NDC Delivery</h4>
                       <p className="text-sm text-slate-600 leading-relaxed">
                         We audit the official bank sanction letter for legal accuracy prior to payment via RTGS, ensuring delivery of the zero-balance No Dues Certificate within thirty calendar days.
                       </p>
@@ -782,9 +782,9 @@ export default function Page() {
                   <FileCheck className="w-4 h-4" />
                   <span>9. Sanction Letter Audit &amp; CIBIL Rebuilding</span>
                 </div>
-                <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+                <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                   Sanction Letter Forensics &amp; Mandatory ₹0 NDC Enforcement
-                </h2>
+                </h3>
                 <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                   Borrowers must never make settlement payments on verbal assurances. A valid OTS Sanction Letter must arrive on official bank letterhead, displaying emblems, officer codes, waiver terms, and payment schedules remitted solely to the loan account. Counsel audits every sanction letter before advising clients to remit funds via RTGS.
                 </p>
@@ -802,9 +802,9 @@ export default function Page() {
                   <Scale className="w-4 h-4" />
                   <span>10. Comparative Resolution Matrix</span>
                 </div>
-                <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+                <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                   Comparative Debt Resolution Pathways for Gwalior Borrowers
-                </h2>
+                </h3>
                 <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                   Compare the principal debt resolution avenues across Gwalior, Morena, and Bhind to evaluate which legal strategy best protects your financial recovery:
                 </p>
@@ -860,9 +860,9 @@ export default function Page() {
                   <Landmark className="w-4 h-4" />
                   <span>11. SettleLoans Legal Defense &amp; Advisory</span>
                 </div>
-                <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+                <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                   Premier Loan Settlement &amp; Legal Defense Services in Gwalior
-                </h2>
+                </h3>
                 <p className="text-slate-700 leading-relaxed mb-6 text-base md:text-lg">
                   Overcoming debt distress across Gwalior, Morena, and Bhind requires dedicated advocate representation. Our legal team halts recovery harassment, defends CJM notices, and negotiates directly with bank committees to secure maximum debt waivers and legal closure.
                 </p>
@@ -875,9 +875,9 @@ export default function Page() {
                   <HelpCircle className="w-4 h-4" />
                   <span>12. Frequently Asked Questions</span>
                 </div>
-                <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
+                <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
                   Frequently Asked Questions on Personal Loan Settlement in Gwalior
-                </h2>
+                </h3>
 
                 <div className="space-y-4">
                   {faqsData.map((faq, index) => (
@@ -905,10 +905,10 @@ export default function Page() {
 
               {/* 5 Official Regulatory Links */}
               <section className="bg-slate-50 border border-slate-200 rounded-2xl p-6 mb-8">
-                <h3 className="text-sm font-bold text-slate-900 mb-3 uppercase tracking-wider flex items-center gap-2">
+                <h4 className="text-sm font-bold text-slate-900 mb-3 uppercase tracking-wider flex items-center gap-2">
                   <ExternalLink className="w-4 h-4 text-[#1F5EFF]" />
                   <span>Official Statutory &amp; Regulatory References</span>
-                </h3>
+                </h4>
                 <div className="grid grid-cols-1 sm:grid-cols-2 gap-3 text-xs">
                   <a
                     href="https://www.rbi.org.in"
@@ -960,9 +960,9 @@ export default function Page() {
 
               {/* 10 Related Guide Badges */}
               <section className="border-t border-slate-200 pt-8 mb-8">
-                <h3 className="text-sm font-bold text-slate-900 mb-4 uppercase tracking-wider">
+                <h4 className="text-sm font-bold text-slate-900 mb-4 uppercase tracking-wider">
                   Related Loan Settlement &amp; Legal Defense Guides
-                </h3>
+                </h4>
                 <div className="flex flex-wrap gap-2">
                   <Link
                     href="/sbi-personal-loan-settlement"

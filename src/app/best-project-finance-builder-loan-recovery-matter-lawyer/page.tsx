@@ -274,21 +274,21 @@ export default function ProjectFinanceLawyerPage() {
                         </section>
 
                         <section id="rbi-guidelines-2025" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                                 Understanding the <span className="text-[#1F5EFF]">RBI Project Finance Directions 2025</span>
-                            </h2>
+                            </h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 The Reserve Bank of India recently released the 'Project Finance – Prudential Framework' directions, which are set to take full effect in 2025. These guidelines represent a major shift in how banks will approach project lending and recovery. For developers, understanding these new rules is critical for survival.
                             </p>
                             <div className="grid md:grid-cols-2 gap-6 my-10">
                                 <div className="bg-gray-50 p-6 rounded-xl border border-gray-200 shadow-sm transition-transform hover:scale-105">
-                                    <h3 className="text-xl font-bold text-[#2E2E2E] mb-4">Provisioning Norms</h3>
+                                    <h4 className="text-xl font-bold text-[#2E2E2E] mb-4">Provisioning Norms</h4>
                                     <p className="text-sm text-gray-600 leading-relaxed">
                                         The RBI has mandated a 1% provisioning for all under-construction projects. While this is lower than the initial 5% proposal, it still puts pressure on banks to be more selective and vigilant. Any sign of stress in the project will now lead to immediate bank action to protect their capital.
                                     </p>
                                 </div>
                                 <div className="bg-gray-50 p-6 rounded-xl border border-gray-200 shadow-sm transition-transform hover:scale-105">
-                                    <h3 className="text-xl font-bold text-[#2E2E2E] mb-4">Financial Closure Mandates</h3>
+                                    <h4 className="text-xl font-bold text-[#2E2E2E] mb-4">Financial Closure Mandates</h4>
                                     <p className="text-sm text-gray-600 leading-relaxed">
                                         Lenders must now ensure that at least 90% of the total project cost is fully tied up (financial closure) before the first disbursement. This prevents the 'stop-start' construction that often leads to project failures and subsequent recovery actions.
                                     </p>
@@ -301,7 +301,7 @@ export default function ProjectFinanceLawyerPage() {
                                 The guidelines also introduce a 'Credit Event' trigger. If a lender identifies specific stress indicators, they must initiate a resolution plan within 30 days. This rapid-fire timeline means that developers can no longer afford to be reactive. You must have your legal and financial defenses ready before the bank initiates their 'Resolution' which often involves harsh recovery conditions.
                             </p>
                             <div className="bg-blue-50 p-8 rounded-2xl border border-blue-100 my-8">
-                                <h4 className="font-bold text-blue-900 mb-4 text-xl">Key Defensive Checklist for 2025 Compliance:</h4>
+                                <h5 className="font-bold text-blue-900 mb-4 text-xl">Key Defensive Checklist for 2025 Compliance:</h5>
                                 <ul className="space-y-3">
                                     <li className="flex items-start gap-2 text-blue-800">
                                         <span className="mt-1.5 w-1.5 h-1.5 bg-blue-600 rounded-full flex-shrink-0"></span>
@@ -324,9 +324,9 @@ export default function ProjectFinanceLawyerPage() {
                         </section>
 
                         <section id="rera-vs-lenders" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                                 RERA Compliance vs <span className="text-[#1F5EFF]">Lender Recovery Interests</span>
-                            </h2>
+                            </h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 The Real Estate (Regulation and Development) Act, 2016 (RERA) was designed to protect homebuyers, but it has become a powerful shield for developers facing bank recovery. One of the most potent weapons in RERA is the concept of the 'Escrow Account' under Section 4.
                             </p>
@@ -335,7 +335,7 @@ export default function ProjectFinanceLawyerPage() {
                             </p>
                             <div className="bg-[#2E2E2E] text-white p-8 rounded-2xl shadow-lg my-10 relative overflow-hidden">
                                 <div className="absolute top-0 right-0 w-40 h-40 bg-white/5 rounded-bl-full -mr-20 -mt-20"></div>
-                                <h3 className="text-2xl font-bold mb-6 relative z-10">Section 18 RERA: The Exit Strategy</h3>
+                                <h4 className="text-2xl font-bold mb-6 relative z-10">Section 18 RERA: The Exit Strategy</h4>
                                 <p className="text-lg opacity-80 mb-6 relative z-10">
                                     Section 18 allows homebuyers to seek a refund if the project is delayed. This creates massive liquidity pressure on developers. However, RERA authorities are increasingly favoring 'Project Completion' over 'Individual Refunds'. We help developers argue that mass refunds will stall the project and harm the majority of buyers who want their homes. This legal stance can be used to negotiate breathing room with both the RERA authority and the financing bank.
                                 </p>
@@ -353,9 +353,9 @@ export default function ProjectFinanceLawyerPage() {
                         </section>
 
                         <section id="ibc-challenges" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                                 IBC & Homebuyer Rights: <span className="text-[#1F5EFF]">Defending Against CIRP</span>
-                            </h2>
+                            </h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 The Insolvency and Bankruptcy Code (IBC) has become a major threat to real estate developers. Since the recognition of homebuyers as 'financial creditors', even a small group of dissatisfied buyers can initiate the Corporate Insolvency Resolution Process (CIRP). This can lead to a professional Interim Resolution Professional (IRP) taking over your company, which almost always results in project paralysis.
                             </p>
@@ -363,7 +363,7 @@ export default function ProjectFinanceLawyerPage() {
                                 However, most IBC petitions filed by homebuyers are not about insolvency, but about using the threat of IBC to force a refund. This is 'proxy litigation' and can be defended. The Supreme Court of India has established a clear 'Speculative Investor' test. If a buyer has entered the project with a buy-back clause or an assured return, they are considered an investor, not an allottee, and cannot trigger IBC.
                             </p>
                             <div className="bg-amber-50 p-8 rounded-xl border border-amber-200 my-8">
-                                <h3 className="text-xl font-bold text-amber-900 mb-4">Strategic Defense against IBC Section 7:</h3>
+                                <h4 className="text-xl font-bold text-amber-900 mb-4">Strategic Defense against IBC Section 7:</h4>
                                 <p className="text-sm text-amber-800 leading-relaxed mb-4">
                                     When facing an IBC petition from homebuyers, the key is to show that the developer is solvent and that the delay is not a sign of financial failure but of external circumstances.
                                 </p>
@@ -380,9 +380,9 @@ export default function ProjectFinanceLawyerPage() {
                         </section>
 
                         <section id="recovery-defense" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                                 Legal Defense Strategies for <span className="text-[#1F5EFF]">Project Finance Recovery</span>
-                            </h2>
+                            </h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 When a bank issues a Section 13(2) notice under the SARFAESI Act, the clock starts ticking. You have 60 days to respond. This response is not just a formality; it is your first and best chance to stop the recovery process. A generic response will be ignored. Your response must be technical, legal, and grounded in the project's financial reality.
                             </p>
@@ -390,7 +390,7 @@ export default function ProjectFinanceLawyerPage() {
                                 <div className="flex gap-6 items-start">
                                     <div className="w-12 h-12 bg-blue-100 rounded-full flex items-center justify-center font-bold text-blue-600 flex-shrink-0 mt-1">1</div>
                                     <div>
-                                        <h3 className="text-xl font-bold mb-2">Challenging NPA Classification</h3>
+                                        <h4 className="text-xl font-bold mb-2">Challenging NPA Classification</h4>
                                         <p className="text-gray-600 leading-relaxed text-sm">
                                             We examine the bank's accounting to see if the NPA classification was premature. According to RBI Master Circulars, certain project loans have flexible NPA triggers based on DCCO extensions. If the bank miscalculated the 90 day window or ignored a valid extension request, the entire recovery process can be declared void by the DRT.
                                         </p>
@@ -399,7 +399,7 @@ export default function ProjectFinanceLawyerPage() {
                                 <div className="flex gap-6 items-start">
                                     <div className="w-12 h-12 bg-blue-100 rounded-full flex items-center justify-center font-bold text-blue-600 flex-shrink-0 mt-1">2</div>
                                     <div>
-                                        <h4 className="text-xl font-bold mb-2">Mortgage Technicalities</h4>
+                                        <h5 className="text-xl font-bold mb-2">Mortgage Technicalities</h5>
                                         <p className="text-gray-600 leading-relaxed text-sm">
                                             In project finance, security is often created over 'rights' rather than just 'land'. We check if the mortgage was properly registered and if the 'pari-passu' charge (between multiple lenders) was correctly executed. Any flaw in the security creation prevents the bank from taking physical possession of the project site.
                                         </p>
@@ -408,7 +408,7 @@ export default function ProjectFinanceLawyerPage() {
                                 <div className="flex gap-6 items-start">
                                     <div className="w-12 h-12 bg-blue-100 rounded-full flex items-center justify-center font-bold text-blue-600 flex-shrink-0 mt-1">3</div>
                                     <div>
-                                        <h4 className="text-xl font-bold mb-2">Force Majeure and Economic Hardship</h4>
+                                        <h5 className="text-xl font-bold mb-2">Force Majeure and Economic Hardship</h5>
                                         <p className="text-gray-600 leading-relaxed text-sm">
                                             We build a case around external shocks, like the sudden ban on river sand, changes in GST, or global supply chain issues, to argue that the default is temporary and beyond the developer's control.
                                         </p>
@@ -424,14 +424,14 @@ export default function ProjectFinanceLawyerPage() {
                         </section>
 
                         <section id="forensic-fund-monitoring" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                                 Forensic Audit Defense: <span className="text-[#1F5EFF]">Protecting Your Reputation</span>
-                            </h2>
+                            </h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 In today's climate, almost every high-value project recovery is accompanied by a forensic audit. Banks look for 'Fund Diversion' or 'Siphoning'. If a forensic auditor finds that project funds were used to buy land for another project, it can lead to charges of fraud, which makes any financial settlement nearly impossible and can lead to criminal action.
                             </p>
                             <div className="bg-gray-50 border border-gray-200 p-8 rounded-2xl mb-8">
-                                <h3 className="text-xl font-bold mb-4">Strategic Response to Forensic Audits:</h3>
+                                <h4 className="text-xl font-bold mb-4">Strategic Response to Forensic Audits:</h4>
                                 <p className="mb-4 text-gray-700 leading-relaxed text-sm">
                                     We don't wait for the auditor's report. We conduct a pre-emptive forensic review. By mapping every rupee of the loan to a project expense—even if it was an indirect expense—we build a defensible paper trail.
                                 </p>
@@ -445,9 +445,9 @@ export default function ProjectFinanceLawyerPage() {
                         </section>
 
                         <section id="sarfaesi-technicalities" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                                 SARFAESI in Real Estate: <span className="text-[#1F5EFF]">Physical Possession Challenges</span>
-                            </h2>
+                            </h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 SARFAESI Act allows banks to take possession of a project without a court order. However, in real estate, this is easier said than done. If people are living in parts of the project, or if many units are already registered in the names of allottees, the bank's 'symbolic' possession doesn't translate easily into 'physical' control.
                             </p>
@@ -474,13 +474,13 @@ export default function ProjectFinanceLawyerPage() {
                         </section>
 
                         <section id="success-stories" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 text-center">Developer & Project Success Stories</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 text-center">Developer & Project Success Stories</h3>
                             <div className="grid md:grid-cols-2 gap-6 not-prose">
                                 <div className="bg-white p-8 rounded-2xl border border-[#DEDEDE] shadow-sm">
                                     <div className="flex items-center mb-6">
                                         <div className="w-12 h-12 bg-blue-100 rounded-full flex items-center justify-center font-bold text-blue-600 mr-4">R</div>
                                         <div>
-                                            <h3 className="font-bold text-[#2E2E2E]">Residential Project, Mumbai</h3>
+                                            <h4 className="font-bold text-[#2E2E2E]">Residential Project, Mumbai</h4>
                                             <p className="text-xs text-gray-400 uppercase tracking-widest font-bold">Project Finance Settlement</p>
                                         </div>
                                         <div className="ml-auto text-yellow-400 text-sm flex gap-0.5">
@@ -498,7 +498,7 @@ export default function ProjectFinanceLawyerPage() {
                                     <div className="flex items-center mb-6">
                                         <div className="w-12 h-12 bg-blue-100 rounded-full flex items-center justify-center font-bold text-blue-600 mr-4">I</div>
                                         <div>
-                                            <h4 className="font-bold text-[#2E2E2E]">IT Park, Bangalore</h4>
+                                            <h5 className="font-bold text-[#2E2E2E]">IT Park, Bangalore</h5>
                                             <p className="text-xs text-gray-400 uppercase tracking-widest font-bold">Restructuring Victory</p>
                                         </div>
                                         <div className="ml-auto text-yellow-400 text-sm flex gap-0.5">
@@ -516,7 +516,7 @@ export default function ProjectFinanceLawyerPage() {
                         </section>
 
                         <section id="faqs" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Frequently Asked Questions</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Frequently Asked Questions</h3>
                             <div className="space-y-4 not-prose">
                                 {jsonLd["@graph"] && jsonLd["@graph"][4] && (jsonLd["@graph"][4] as any).mainEntity && (jsonLd["@graph"][4] as any)?.mainEntity?.map((faq: any, i: number) => (
                                     <details key={i} className="group bg-white border border-[#DEDEDE] rounded-xl overflow-hidden hover:shadow-md transition-all border-b-4 border-b-[#1F5EFF]/20">
@@ -536,7 +536,7 @@ export default function ProjectFinanceLawyerPage() {
 
                         <div className="mt-24 p-12 bg-[#2E2E2E] rounded-[32px] text-center text-white shadow-2xl relative overflow-hidden">
                             <div className="absolute top-0 left-0 w-full h-1 bg-[#1F5EFF]"></div>
-                            <h2 className="text-3xl md:text-5xl font-black mb-6">Let's Secure Your Project's Future</h2>
+                            <h3 className="text-3xl md:text-5xl font-black mb-6">Let's Secure Your Project's Future</h3>
                             <p className="text-lg md:text-xl opacity-70 mb-10 max-w-2xl mx-auto leading-relaxed">
                                 Don't let aggressive lenders or complex regulations derail your vision. Our legal team is ready to defend your project and negotiate a sustainable path forward.
                             </p>

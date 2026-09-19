@@ -268,9 +268,9 @@ export default function MudraLoanSettlementPage() {
                         </section>
 
                         <section id="npa-classification" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
                                 Why Mudra Loans Crash: The Road to NPA
-                            </h2>
+                            </h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 A loan account becomes a Non-Performing Asset (NPA) when the interest or principal installment remains overdue for more than 90 days. This is the 'Red Zone' for any Mudra borrower. But why does this happen? Unlike large corporate loans, Mudra loans fail because of micro-economic factors—a local shop's rent increase, a family medical emergency, or the sudden entry of a large competitor.
                             </p>
@@ -280,21 +280,21 @@ export default function MudraLoanSettlementPage() {
                         </section>
 
                         <section id="legal-consequences" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
                                 The Legal Consequences of Mudra Default
-                            </h2>
+                            </h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 While Mudra loans are 'collateral-free,' they are not 'liability-free.' The bank holds the power of the law to recover the public money lent under this scheme. The consequences of ignoring a Mudra default are severe and multi-dimensional.
                             </p>
                             <div className="grid md:grid-cols-2 gap-6 mb-8">
                                 <div className="bg-orange-50 p-6 rounded-xl border border-orange-100">
-                                    <h3 className="text-lg font-bold text-orange-900 mb-2">Notice under Section 138</h3>
+                                    <h4 className="text-lg font-bold text-orange-900 mb-2">Notice under Section 138</h4>
                                     <p className="text-sm text-orange-800 leading-relaxed">
                                         If you provided post-dated checks (PDCs) and they bounce, you can face criminal charges under the Negotiable Instruments Act. This can lead to imprisonment or heavy fines.
                                     </p>
                                 </div>
                                 <div className="bg-red-50 p-6 rounded-xl border border-red-100">
-                                    <h4 className="text-lg font-bold text-red-900 mb-2">Civil Recovery Suits</h4>
+                                    <h5 className="text-lg font-bold text-red-900 mb-2">Civil Recovery Suits</h5>
                                     <p className="text-sm text-red-800 leading-relaxed">
                                         Banks can file a summary suit in a civil court to attach your other personal assets or source of income to recover the outstanding balance.
                                     </p>
@@ -306,9 +306,9 @@ export default function MudraLoanSettlementPage() {
                         </section>
 
                         <section id="settlement-options" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
                                 Mudra Loan Settlement Options: The Legal Shield
-                            </h2>
+                            </h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 If you cannot repay the full amount, does the law provide a way out? Yes. Mudra loan settlement is a valid legal process where you and the bank reach a compromise.
                             </p>
@@ -318,14 +318,14 @@ export default function MudraLoanSettlementPage() {
                         </section>
 
                         <section id="ots-guide" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
                                 One-Time Settlement (OTS): The Gold Standard of Relief
-                            </h2>
+                            </h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 Most Public Sector Banks (PSBs) in India periodically launch OTS schemes specifically for small loans like Mudra. An OTS scheme is an open invitation for defaulters to close their accounts by paying a fraction of the total dues.
                             </p>
                             <div className="bg-blue-900 text-white p-8 rounded-2xl mb-8">
-                                <h3 className="text-2xl font-bold mb-4">The OTS Advantage</h3>
+                                <h4 className="text-2xl font-bold mb-4">The OTS Advantage</h4>
                                 <ul className="space-y-4">
                                     <li className="flex items-start gap-3">
                                         <span className="text-[#1F5EFF] font-bold text-xl">✓</span>
@@ -344,9 +344,9 @@ export default function MudraLoanSettlementPage() {
                         </section>
 
                         <section id="recovery-agent-rights" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
                                 Recovery Agents and Your Legal Rights
-                            </h2>
+                            </h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 Perhaps the most traumatic part of a Mudra default is the harassment by recovery agents. These agents often exploit the borrower's lack of legal knowledge to intimidate them. However, the Reserve Bank of India (RBI) has very strict 'Fair Practices Codes' for recovery.
                             </p>
@@ -356,9 +356,9 @@ export default function MudraLoanSettlementPage() {
                         </section>
 
                         <section id="rbi-guidelines" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
                                 RBI Guidelines on Mudra and SME NPAs
-                            </h2>
+                            </h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 The RBI has issued various circulars regarding the restructuring and settlement of MSME loans, including Mudra. These guidelines mandate banks to have a board-approved policy for compromise settlements. If a bank is refusing to discuss a settlement for your genuine financial hardship, they are violating the spirit of these guidelines.
                             </p>
@@ -368,12 +368,12 @@ export default function MudraLoanSettlementPage() {
                         </section>
 
                         <section id="negotiation-tactics" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Mastering the Mudra Settlement Negotiation</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Mastering the Mudra Settlement Negotiation</h3>
                             <p className="mb-6">
                                 Negotiation is not just about asking for a discount; it's about building a case. When we negotiate for a Mudra borrower, we prepare a detailed 'Hardship Profile.' We highlight the business losses, medical expenses, and the lack of collateral to show the bank that a settlement is their best chance of recovery.
                             </p>
                             <div className="bg-white p-8 rounded-2xl border border-[#DEDEDE] shadow-sm mb-8">
-                                <h3 className="text-xl font-black text-[#1F5EFF] mb-4 uppercase tracking-[2px]">Strategy for Shishu/Kishor Loans</h3>
+                                <h4 className="text-xl font-black text-[#1F5EFF] mb-4 uppercase tracking-[2px]">Strategy for Shishu/Kishor Loans</h4>
                                 <p className="leading-relaxed mb-4">
                                     For loans under 5 lakhs, the legal costs for the bank often outweigh the recovery amount. We use this 'Cost-Benefit' reality to push for settlements that are as low as 30-40% of the total outstanding dues. Banks would rather close ten such files in a day than fight ten court cases for years.
                                 </p>
@@ -381,7 +381,7 @@ export default function MudraLoanSettlementPage() {
                         </section>
 
                         <section id="role-of-lawyers" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Why Hire a Lawyer for Mudra Settlement?</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Why Hire a Lawyer for Mudra Settlement?</h3>
                             <p className="mb-6">
                                 Many borrowers ask: 'Can't I just go to the bank myself?' You can, but you are walking into a den of professionals designed to extract every rupee. A settlement lawyer provides the 'Equality of Arms.' We understand the bank's internal 'Provisioning' rules—how much they have already written off in their books and how much more they can waive.
                             </p>
@@ -391,14 +391,14 @@ export default function MudraLoanSettlementPage() {
                         </section>
 
                         <section id="cibil-impact-fix" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">The Long-Term CIBIL Recovery Plan</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">The Long-Term CIBIL Recovery Plan</h3>
                             <p className="mb-6">
                                 A settlement will show as 'Settled' on your CIBIL report. This is better than 'Default' or 'NPA,' but it still affects your credit score. We provide our clients with a 24-month 'Credit Rebuilding Roadmap.' This includes using 'Secure Credit Cards' or small 'Gold Loans' to show fresh positive repayment history, eventually overriding the negative impact of the old Mudra settlement.
                             </p>
                         </section>
 
                         <section id="document-checklist" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 uppercase tracking-tighter">Your Mudra Settlement Document Checklist</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 uppercase tracking-tighter">Your Mudra Settlement Document Checklist</h3>
                             <div className="bg-gray-50 p-8 rounded-2xl border border-gray-200">
                                 <ul className="space-y-4">
                                     <li className="flex items-center gap-3">
@@ -426,7 +426,7 @@ export default function MudraLoanSettlementPage() {
                         </section>
 
                         <section id="case-studies" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 text-center text-blue-600">Proof of Success: Mudra Cases Resolved</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 text-center text-blue-600">Proof of Success: Mudra Cases Resolved</h3>
                             <div className="grid md:grid-cols-2 gap-6 not-prose">
                                 {[
                                     { name: "Prakash T.", loc: "Ahmedabad", type: "Kishor Loan", savings: "₹1.8 Lakhs", story: "Facing closure of his textile shop, Prakash owed 4 lakhs. We negotiated an OTS for 2.2 lakhs, settled in 2 installments." },
@@ -440,7 +440,7 @@ export default function MudraLoanSettlementPage() {
                                                 {review.name.charAt(0)}
                                             </div>
                                             <div>
-                                                <h3 className="font-bold text-[#2E2E2E]">{review.name}</h3>
+                                                <h4 className="font-bold text-[#2E2E2E]">{review.name}</h4>
                                                 <p className="text-xs text-gray-400">{review.loc}</p>
                                             </div>
                                             <div className="ml-auto text-yellow-400 text-sm">★★★★★</div>
@@ -455,14 +455,14 @@ export default function MudraLoanSettlementPage() {
                         </section>
 
                         <section id="avoiding-scams" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Warning: Avoiding Fake Mudra Loan Relief</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Warning: Avoiding Fake Mudra Loan Relief</h3>
                             <p className="mb-6">
                                 The internet is full of scammers promising 'Mudra Loan Waivers' for a small upfront fee. Remember: There is NO such thing as a guaranteed waiver. Legal settlement is a case-by-case negotiation based on facts. Never share your OTPs or bank passwords with anyone claiming to be from the 'Mudra Ministry.' Always work with registered legal professionals who provide a clear service agreement.
                             </p>
                         </section>
 
                         <section id="faqs" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Mudra Loan Settlement: Your Questions Answered</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Mudra Loan Settlement: Your Questions Answered</h3>
                             <div className="space-y-4 not-prose">
                                 {[
                                     { q: "Is a Mudra loan really collateral-free?", a: "Yes, for Shishu and Kishor loans, banks are not allowed to ask for third-party guarantees or collateral. For Tarun loans, they may ask for business assets, but personal property is usually exempt unless specifically pledged." },
@@ -499,7 +499,7 @@ export default function MudraLoanSettlementPage() {
                         <div className="lg:hidden mt-16 mb-8">
                             <div className="bg-[#2E2E2E] rounded-2xl shadow-xl overflow-hidden border border-[#1F5EFF]/20">
                                 <div className="bg-[#1F5EFF] p-6 text-center text-white">
-                                    <h3 className="text-2xl font-black mb-2">Freedom From Mudra Debt</h3>
+                                    <h4 className="text-2xl font-black mb-2">Freedom From Mudra Debt</h4>
                                     <p className="opacity-90 text-sm">Expert legal help to settle your business loans and start fresh.</p>
                                 </div>
                                 <div className="p-8 text-center text-[#DEDEDE]">

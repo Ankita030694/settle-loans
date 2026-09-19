@@ -551,9 +551,9 @@ export default function TradingCryptoLossPersonalLoanSettlementPage() {
                 </span>
                 <span className="text-xs font-black tracking-widest text-[#1F5EFF] uppercase">Section 02</span>
               </div>
-              <h2 className="text-2xl sm:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h3 className="text-2xl sm:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 2. Market Losses vs Bank Default: Indian Contract Act Protections &amp; Absence of Fraud
-              </h2>
+              </h3>
               <div className="space-y-4 text-slate-700 leading-relaxed text-base">
                 <p>
                   The most pervasive weapon deployed by aggressive third-party recovery agencies against trading-loss defaulters is the psychological threat of criminal prosecution. Recovery agents frequently claim that utilizing personal loan disbursements for stock trading or cryptocurrency speculation constitutes criminal breach of trust, willful diversion of funds, or cheating punishable by immediate imprisonment under Section 318 of the Bharatiya Nyaya Sanhita, 2023 (BNS, formerly Section 420 of the Indian Penal Code). These assertions are legally baseless misrepresentations designed to extort payments through intimidation.
@@ -586,9 +586,9 @@ export default function TradingCryptoLossPersonalLoanSettlementPage() {
                 </span>
                 <span className="text-xs font-black tracking-widest text-[#1F5EFF] uppercase">Section 03</span>
               </div>
-              <h2 className="text-2xl sm:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h3 className="text-2xl sm:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 3. Delinquency Aging, NPA Provisioning &amp; The Net Present Value (NPV) Recovery Model
-              </h2>
+              </h3>
               <div className="space-y-4 text-slate-700 leading-relaxed text-base">
                 <p>
                   To secure an authorized 40% to 60% settlement haircut on a defaulted personal loan, a borrower must understand the institutional accounting mathematics governing commercial banks and Non-Banking Financial Companies (NBFCs). Under the Reserve Bank of India&apos;s Prudential Framework on Resolution of Stressed Assets, overdue loans transition through strictly regulated asset classification stages based on Days Past Due (DPD). The loan is categorized as Special Mention Account-0 (SMA-0) for 1 to 30 days overdue, SMA-1 for 31 to 60 days, and SMA-2 for 61 to 90 days.
@@ -676,9 +676,9 @@ export default function TradingCryptoLossPersonalLoanSettlementPage() {
                 </span>
                 <span className="text-xs font-black tracking-widest text-[#1F5EFF] uppercase">Section 04</span>
               </div>
-              <h2 className="text-2xl sm:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h3 className="text-2xl sm:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 4. Statutory Legal Notice Escalation: Section 25 PSSA, Section 138 NI Act &amp; Conciliation
-              </h2>
+              </h3>
               <div className="space-y-4 text-slate-700 leading-relaxed text-base">
                 <p>
                   As loan defaults mount, financial institutions initiate formal statutory legal escalation. When recurring electronic National Automated Clearing House (e-NACH) mandates bounce due to insufficient balances, the lender issues a statutory demand notice under <strong>Section 25 of the Payment and Settlement Systems Act, 2007 (PSSA)</strong>. Simultaneously, if post-dated security cheques or repayment instruments dishonor, demand notices are served under <strong>Section 138 of the Negotiable Instruments Act, 1881 (NI Act)</strong>.
@@ -716,9 +716,9 @@ export default function TradingCryptoLossPersonalLoanSettlementPage() {
                       <span className="text-[10px] font-black uppercase tracking-widest text-blue-300 block">
                         Legal Defense &amp; Action Blueprint
                       </span>
-                      <h3 className="text-sm md:text-base font-black text-white leading-tight">
+                      <h4 className="text-sm md:text-base font-black text-white leading-tight">
                         Trading &amp; Crypto Debt Settlement: Resolution Roadmap
-                      </h3>
+                      </h4>
                     </div>
                   </div>
                   <a
@@ -767,9 +767,9 @@ export default function TradingCryptoLossPersonalLoanSettlementPage() {
                 </span>
                 <span className="text-xs font-black tracking-widest text-[#1F5EFF] uppercase">Section 06</span>
               </div>
-              <h2 className="text-2xl sm:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h3 className="text-2xl sm:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 6. Building an Irrefutable Financial Hardship Dossier for Trading &amp; Crypto Losses
-              </h2>
+              </h3>
               <div className="space-y-4 text-slate-700 leading-relaxed text-base">
                 <p>
                   The cornerstone of securing deep debt waivers from bank credit committees is converting a trading disaster from an embarrassing secret into a legally documented proof of insolvency. A bank will never grant a 40% to 60% principal write-off based solely on oral pleas; the request must be backed by an airtight, forensic Financial Hardship Dossier.
@@ -806,9 +806,9 @@ export default function TradingCryptoLossPersonalLoanSettlementPage() {
                 </span>
                 <span className="text-xs font-black tracking-widest text-[#1F5EFF] uppercase">Section 07</span>
               </div>
-              <h2 className="text-2xl sm:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h3 className="text-2xl sm:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 7. Realistic OTS Haircut Formula &amp; Settlement Slabs for Trading Debts
-              </h2>
+              </h3>
               <div className="space-y-4 text-slate-700 leading-relaxed text-base">
                 <p>
                   During default, banks and collection agencies inflate personal loan liabilities by compounding exorbitant penal interest (frequently 24% to 36% per annum), automated mandate bounce charges, and administrative recovery overhead. An initial ₹10 Lakh loan balance rapidly swells on the bank ledger to ₹13.5 Lakhs or more.
@@ -878,9 +878,9 @@ export default function TradingCryptoLossPersonalLoanSettlementPage() {
                 </span>
                 <span className="text-xs font-black tracking-widest text-[#1F5EFF] uppercase">Section 08</span>
               </div>
-              <h2 className="text-2xl sm:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h3 className="text-2xl sm:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 8. Unilateral Arbitration Defense, DRT Jurisdictional Limits &amp; Civil Court Realities
-              </h2>
+              </h3>
               <div className="space-y-4 text-slate-700 leading-relaxed text-base">
                 <p>
                   Borrowers who default on unsecured personal loans must recognize the severe statutory boundaries constraining the bank&apos;s recovery apparatus. In India, institutional lenders face three distinct structural barriers when attempting judicial recovery for unsecured loans:
@@ -950,9 +950,9 @@ export default function TradingCryptoLossPersonalLoanSettlementPage() {
                 </span>
                 <span className="text-xs font-black tracking-widest text-[#1F5EFF] uppercase">Section 09</span>
               </div>
-              <h2 className="text-2xl sm:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h3 className="text-2xl sm:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 9. Sanction Letter Forensics, Zero-Balance NDC &amp; Credit Bureau Rebuilding
-              </h2>
+              </h3>
               <div className="space-y-4 text-slate-700 leading-relaxed text-base">
                 <p>
                   A compromise settlement is legally incomplete without rigorous verification of the bank&apos;s settlement sanction letter. Borrowers must never transfer funds based on oral promises or WhatsApp messages from collection agents. An authentic settlement requires an official letter issued on bank letterhead, bearing a unique reference number, authorized signature, exact loan account details, agreed settlement figures, explicit full-and-final waiver clauses, and a commitment to issue a zero-balance No Dues Certificate (NDC) within 30 days.
@@ -988,9 +988,9 @@ export default function TradingCryptoLossPersonalLoanSettlementPage() {
                 </span>
                 <span className="text-xs font-black tracking-widest text-[#1F5EFF] uppercase">Section 11</span>
               </div>
-              <h2 className="text-2xl sm:text-3xl font-black text-slate-900 mb-6 leading-tight">
+              <h3 className="text-2xl sm:text-3xl font-black text-slate-900 mb-6 leading-tight">
                 Frequently Asked Questions: Trading &amp; Crypto Loss Loan Settlement
-              </h2>
+              </h3>
 
               <div className="space-y-4">
                 {(jsonLdGraph['@graph'][4] as any).mainEntity.map((faq: any, index: number) => (

@@ -344,9 +344,9 @@ export default function NBFCSettlementPage() {
 
            {/* NBFC vs Banks Details */}
            <section id="nbfc-vs-banks" className="scroll-mt-32 mb-16">
-             <h2 className="text-3xl md:text-4xl font-black text-[var(--color-text-hero)] mb-8">
+             <h3 className="text-3xl md:text-4xl font-black text-[var(--color-text-hero)] mb-8">
               NBFC vs Bank Settlement: Critical Differences
-            </h2>
+            </h3>
             <p className="text-lg leading-relaxed mb-8">
                Many borrowers make the mistake of treating an NBFC loan like a PSU bank loan. This can be a fatal error. NBFCs are structured differently, regulated slightly differently under the RBI Act, and their recovery timelines are much faster. Understanding these differences is key to a successful negotiation strategy.
             </p>
@@ -387,9 +387,9 @@ export default function NBFCSettlementPage() {
 
             <div className="grid md:grid-cols-2 gap-6 mb-8">
                 <div className="bg-white p-6 rounded-xl border border-[var(--color-border)] shadow-sm hover:shadow-md transition-shadow">
-                    <h3 className="text-xl font-black text-[var(--color-primary)] mb-4 flex items-center">
+                    <h4 className="text-xl font-black text-[var(--color-primary)] mb-4 flex items-center">
                         <FontAwesomeIcon icon={faBuildingColumns} className="mr-3 w-12 h-12" /> Traditional Banks
-                    </h3>
+                    </h4>
                     <ul className="space-y-3 text-[var(--color-text-body)] text-sm">
                         <li className="flex items-start"><span className="text-green-500 mr-2 font-bold">✓</span> <span className="font-semibold">Slower Process:</span> Legal action usually starts after 12+ months of default.</li>
                         <li className="flex items-start"><span className="text-green-500 mr-2 font-bold">✓</span> <span className="font-semibold">Rigid Hierarchy:</span> Settlement approval goes through multiple committees.</li>
@@ -399,9 +399,9 @@ export default function NBFCSettlementPage() {
                 </div>
                 <div className="bg-white p-6 rounded-xl border border-[var(--color-border)] shadow-sm relative overflow-hidden hover:shadow-md transition-shadow">
                     <div className="absolute top-0 right-0 w-20 h-20 bg-orange-100 rounded-bl-full -mr-10 -mt-10"></div>
-                     <h3 className="text-xl font-bold text-orange-700 mb-4 flex items-center relative z-10">
+                     <h4 className="text-xl font-bold text-orange-700 mb-4 flex items-center relative z-10">
                         <FontAwesomeIcon icon={faBriefcase} className="mr-3 w-12 h-12" /> NBFCs (Private Finance)
-                    </h3>
+                    </h4>
                     <ul className="space-y-3 text-[var(--color-text-body)] relative z-10 text-sm">
                         <li className="flex items-start"><span className="text-orange-500 mr-2 font-bold">!</span> <span className="font-semibold">Rapid Arbitration:</span> Often trigger arbitration clauses within 90-120 days.</li>
                         <li className="flex items-start"><span className="text-orange-500 mr-2 font-bold">!</span> <span className="font-semibold">Aggressive Recovery:</span> Third-party agents are incentivized heavily for quick collection.</li>
@@ -417,16 +417,16 @@ export default function NBFCSettlementPage() {
 
           {/* Arbitration Deep Dive */}
           <section id="arbitration-trap" className="scroll-mt-32 mb-16">
-            <h2 className="text-3xl md:text-4xl font-black text-[var(--color-text-hero)] mb-8 leading-tight">
+            <h3 className="text-3xl md:text-4xl font-black text-[var(--color-text-hero)] mb-8 leading-tight">
               The "Arbitration" Trap: How NBFCs Use It
-            </h2>
+            </h3>
             <div className="bg-white p-8 rounded-2xl border border-[var(--color-border)] shadow-sm mb-8">
                 <div className="flex items-start mb-6">
                     <div className="flex-shrink-0 w-12 h-12 bg-red-100 rounded-full flex items-center justify-center text-red-600 mr-4">
                         <FontAwesomeIcon icon={faGavel} className="w-6 h-6" />
                     </div>
                     <div>
-                        <h3 className="text-xl font-bold text-[var(--color-text-hero)] mb-2">What is Arbitration?</h3>
+                        <h4 className="text-xl font-bold text-[var(--color-text-hero)] mb-2">What is Arbitration?</h4>
                          <p className="text-[var(--color-text-body)] leading-relaxed">
                             NBFC loan agreements usually have a "Dispute Resolution" clause allowing them to appoint a "Sole Arbitrator" to resolve payment issues. When you default, they trigger this. An arbitrator is a private judge (often a lawyer) appointed to pass a judgment.
                         </p>
@@ -437,7 +437,7 @@ export default function NBFCSettlementPage() {
                         <FontAwesomeIcon icon={faTriangleExclamation} className="w-6 h-6" />
                     </div>
                     <div>
-                        <h3 className="text-xl font-bold text-[var(--color-text-hero)] mb-2">The Hidden Danger</h3>
+                        <h4 className="text-xl font-bold text-[var(--color-text-hero)] mb-2">The Hidden Danger</h4>
                          <p className="text-[var(--color-text-body)] leading-relaxed">
                             The danger is that these arbitrations often happen in distant cities (e.g., Delhi or Chennai) regardless of where you live. NBFCs count on you <strong>not showing up</strong> because of the distance or lack of legal knowledge. If you don't appear, the arbitrator passes an 'Ex-Parte Award' (one-sided judgment) ordering you to pay the full amount plus heavy interest. This Award has the power of a Civil Court Decree and can be executed to freeze bank accounts.
                         </p>
@@ -449,7 +449,7 @@ export default function NBFCSettlementPage() {
                         <FontAwesomeIcon icon={faShieldHalved} className="w-6 h-6" />
                     </div>
                     <div>
-                        <h3 className="text-xl font-bold text-[var(--color-text-hero)] mb-2">How SettleLoans Defends You</h3>
+                        <h4 className="text-xl font-bold text-[var(--color-text-hero)] mb-2">How SettleLoans Defends You</h4>
                          <p className="text-[var(--color-text-body)] leading-relaxed">
                             We shatter this strategy by simply <strong>showing up</strong> (digitally or physically).
                             <br/><br/>
@@ -466,36 +466,36 @@ export default function NBFCSettlementPage() {
 
           {/* Legal Rights Section */}
           <section id="legal-rights" className="scroll-mt-32 mb-16">
-            <h2 className="text-3xl md:text-4xl font-black text-[var(--color-text-hero)] mb-8">
+            <h3 className="text-3xl md:text-4xl font-black text-[var(--color-text-hero)] mb-8">
                Your Legal Armour: RBI Guidelines & Supreme Court
-            </h2>
+            </h3>
             <p className="mb-6 leading-relaxed">
                The fear of recovery agents is the biggest weapon lenders have. But in India, you are protected by strong laws. The <strong>RBI Fair Practices Code</strong> and various <strong>Supreme Court Judgments</strong> (like <em>ICICI Bank vs. Shanti Devi Sharma</em>) have drawn clear red lines that NBFCs strictly cannot cross.
             </p>
             
             <div className="space-y-6">
                <div className="bg-emerald-50 border-l-4 border-emerald-500 p-6 rounded-r-xl">
-                  <h3 className="text-xl font-bold text-emerald-900 mb-2 flex items-center">
+                  <h4 className="text-xl font-bold text-emerald-900 mb-2 flex items-center">
                      <FontAwesomeIcon icon={faShieldHalved} className="mr-3 w-12 h-12" /> No Harassment Allowed
-                  </h3>
+                  </h4>
                    <p className="text-emerald-800 text-sm leading-relaxed">
                      Recovery agents cannot shout, abuse, use foul language, or threaten violence. They cannot contact your friends, family, or employer to "shame" you. Any such act is actionable under law. The Supreme Court has explicitly stated that banks cannot use "musclemen" for recovery.
                   </p>
                </div>
                
                <div className="bg-blue-50 border-l-4 border-blue-500 p-6 rounded-r-xl">
-                  <h3 className="text-xl font-bold text-blue-900 mb-2 flex items-center">
+                  <h4 className="text-xl font-bold text-blue-900 mb-2 flex items-center">
                      <FontAwesomeIcon icon={faPhoneSlash} className="mr-3 w-12 h-12" /> Privacy & Timing
-                  </h3>
+                  </h4>
                    <p className="text-blue-800 text-sm leading-relaxed">
                      Agents can only contact you between <strong>08:00 AM and 07:00 PM</strong>. They cannot visit your home without notice and valid identification. They must respect your privacy and cannot create a scene in your neighborhood. Calls at odd hours or excessive frequency are a violation.
                   </p>
                </div>
 
                 <div className="bg-purple-50 border-l-4 border-purple-500 p-6 rounded-r-xl">
-                  <h3 className="text-xl font-bold text-purple-900 mb-2 flex items-center">
+                  <h4 className="text-xl font-bold text-purple-900 mb-2 flex items-center">
                      <FontAwesomeIcon icon={faScaleBalanced} className="mr-3 w-12 h-12" /> Due Process in Recovery
-                  </h3>
+                  </h4>
                    <p className="text-purple-800 text-sm leading-relaxed">
                      NBFCs must follow the due process of law. Seizure of assets (for secured loans) or recovery of dues must follow the legal route. They cannot bypass the law to intimidate borrowers.
                   </p>
@@ -505,15 +505,15 @@ export default function NBFCSettlementPage() {
 
           {/* Dealing with Recovery Agents */}
            <section id="recovery-agents" className="scroll-mt-32 mb-16">
-            <h2 className="text-3xl md:text-4xl font-black text-[var(--color-text-hero)] mb-8">
+            <h3 className="text-3xl md:text-4xl font-black text-[var(--color-text-hero)] mb-8">
                Dealing with Recovery Agents
-            </h2>
+            </h3>
             <p className="mb-6 leading-relaxed">
                Recovery agents are third-party agencies hired by NBFCs. They are incentivized by commission, meaning the more they collect, the more they earn. This often leads to aggressive behavior. Here is how you should handle them:
             </p>
             <div className="grid md:grid-cols-2 gap-6">
                <div className="bg-gray-50 p-6 rounded-xl border border-[var(--color-border)]">
-                  <h3 className="font-black text-lg mb-3 text-[var(--color-primary)]">Do's</h3>
+                  <h4 className="font-black text-lg mb-3 text-[var(--color-primary)]">Do's</h4>
                   <ul className="space-y-2 text-sm text-[var(--color-text-body)]">
                      <li className="flex items-start"><span className="text-green-600 mr-2">✓</span> Ask for their ID card and Authorization Letter from the NBFC.</li>
                      <li className="flex items-start"><span className="text-green-600 mr-2">✓</span> Record the conversation if they are abusive. This is vital evidence.</li>
@@ -522,7 +522,7 @@ export default function NBFCSettlementPage() {
                   </ul>
                </div>
                <div className="bg-gray-50 p-6 rounded-xl border border-[var(--color-border)]">
-                  <h3 className="font-black text-lg mb-3 text-red-600">Don'ts</h3>
+                  <h4 className="font-black text-lg mb-3 text-red-600">Don'ts</h4>
                   <ul className="space-y-2 text-sm text-[var(--color-text-body)]">
                      <li className="flex items-start"><span className="text-red-600 mr-2">✗</span> Do not get into a shouting match or use abusive language back.</li>
                      <li className="flex items-start"><span className="text-red-600 mr-2">✗</span> Do not let them enter your home without your permission.</li>
@@ -535,14 +535,14 @@ export default function NBFCSettlementPage() {
 
            {/* RBI Ombudsman Scheme */}
            <section id="ombudsman-scheme" className="scroll-mt-32 mb-16">
-            <h2 className="text-3xl md:text-4xl font-black text-[var(--color-text-hero)] mb-8">
+            <h3 className="text-3xl md:text-4xl font-black text-[var(--color-text-hero)] mb-8">
                Filing a Complaint with the RBI Ombudsman
-            </h2>
+            </h3>
             <p className="mb-6 leading-relaxed">
                If an NBFC fails to resolve your grievance or if you face harassment, the <strong>Reserve Bank - Integrated Ombudsman Scheme (RB-IOS)</strong> provides a powerful redressal mechanism. It allows you to file a complaint for "Deficiency in Service".
             </p>
              <div className="bg-white p-6 rounded-2xl border border-blue-100 shadow-sm mb-6">
-                <h3 className="text-xl font-bold text-blue-900 mb-4">How to File a Complaint</h3>
+                <h4 className="text-xl font-bold text-blue-900 mb-4">How to File a Complaint</h4>
                 <ol className="list-decimal pl-5 space-y-4 text-[var(--color-text-body)]">
                    <li>
                       <strong>Step 1: Complain to the NBFC First</strong>
@@ -569,9 +569,9 @@ export default function NBFCSettlementPage() {
 
            {/* Detailed Settlement Process */}
           <section id="nbfc-process" className="scroll-mt-32 mb-16">
-            <h2 className="text-3xl md:text-4xl font-black text-[var(--color-text-hero)] mb-2 text-center">
+            <h3 className="text-3xl md:text-4xl font-black text-[var(--color-text-hero)] mb-2 text-center">
               Our 5-Step NBFC Settlement Protocol
-            </h2>
+            </h3>
             <p className="text-center text-[var(--color-text-body)] mb-12 max-w-2xl mx-auto">
               From the moment you hire us to the moment you are debt-free, we handle the complexity.
             </p>
@@ -617,7 +617,7 @@ export default function NBFCSettlementPage() {
                    </div>
                    <div>
                       <span className="text-sm font-black text-[var(--color-primary)] uppercase tracking-wider mb-1 block">{item.step}</span>
-                      <h3 className="text-xl font-black text-[var(--color-text-hero)] mb-3">{item.title}</h3>
+                      <h4 className="text-xl font-black text-[var(--color-text-hero)] mb-3">{item.title}</h4>
                       <p className="text-[var(--color-text-body)] leading-relaxed">{item.desc}</p>
                    </div>
                 </div>
@@ -627,15 +627,15 @@ export default function NBFCSettlementPage() {
 
            {/* Documents Checklist */}
            <section id="documents-checklist" className="scroll-mt-32 mb-16">
-             <h2 className="text-3xl font-black text-[var(--color-text-hero)] mb-8">
+             <h3 className="text-3xl font-black text-[var(--color-text-hero)] mb-8">
                Documents Required for Settlement
-             </h2>
+             </h3>
              <p className="mb-6 leading-relaxed">
                NBFCs are data-driven. To convince them to take a "haircut" (loss) on your loan, we need to prove that you genuinely cannot pay. The more evidence we have, the better the deal.
              </p>
              <div className="grid md:grid-cols-2 gap-4">
                <div className="bg-yellow-50 p-5 rounded-lg border border-yellow-200">
-                  <h3 className="font-bold text-yellow-800 mb-3">Proof of Financial Hardship</h3>
+                  <h4 className="font-bold text-yellow-800 mb-3">Proof of Financial Hardship</h4>
                   <ul className="space-y-2 text-sm text-yellow-900">
                      <li className="flex items-center"><span className="w-2 h-2 bg-yellow-600 rounded-full mr-2"></span> Termination / Layoff Letter</li>
                      <li className="flex items-center"><span className="w-2 h-2 bg-yellow-600 rounded-full mr-2"></span> Salary Slips showing pay cuts</li>
@@ -644,7 +644,7 @@ export default function NBFCSettlementPage() {
                   </ul>
                </div>
                <div className="bg-blue-50 p-5 rounded-lg border border-blue-200">
-                  <h3 className="font-bold text-blue-800 mb-3">KYC & Loan Details</h3>
+                  <h4 className="font-bold text-blue-800 mb-3">KYC & Loan Details</h4>
                   <ul className="space-y-2 text-sm text-blue-900">
                      <li className="flex items-center"><span className="w-2 h-2 bg-blue-600 rounded-full mr-2"></span> PAN Card & Aadhar Card</li>
                      <li className="flex items-center"><span className="w-2 h-2 bg-blue-600 rounded-full mr-2"></span> Latest Loan Account Statement</li>
@@ -657,9 +657,9 @@ export default function NBFCSettlementPage() {
 
            {/* Illegal Loan Apps */}
            <section id="illegal-loan-apps" className="scroll-mt-32 mb-16">
-             <h2 className="text-3xl font-black text-[var(--color-text-hero)] mb-6">
+             <h3 className="text-3xl font-black text-[var(--color-text-hero)] mb-6">
                Note on Illegal Loan Apps
-             </h2>
+             </h3>
              <div className="bg-red-50 border-l-4 border-red-500 p-6 rounded-r-xl">
                <p className="text-red-900 font-medium mb-4">
                   There is a major difference between RBI-registered NBFCs and Illegal "Chinese" Loan Apps.
@@ -677,24 +677,24 @@ export default function NBFCSettlementPage() {
 
           {/* Provider Specific Details */}
           <section id="provider-details" className="scroll-mt-32 mb-16">
-             <h2 className="text-3xl font-black text-[var(--color-text-hero)] mb-8">
+             <h3 className="text-3xl font-black text-[var(--color-text-hero)] mb-8">
                We Handle All Major NBFCs
-             </h2>
+             </h3>
              <div className="grid md:grid-cols-2 gap-6">
                 <div className="bg-gray-50 p-6 rounded-xl border border-[var(--color-border)]">
-                   <h3 className="font-bold text-lg mb-2">Bajaj Finance Settlement</h3>
+                   <h4 className="font-bold text-lg mb-2">Bajaj Finance Settlement</h4>
                    <p className="text-sm text-[var(--color-text-body)] mb-2">Known for very high volume of loans and quick arbitration filings. We have a dedicated strategy for handling Bajaj's specific legal notices and arbitration venues.</p>
                 </div>
                  <div className="bg-gray-50 p-6 rounded-xl border border-[var(--color-border)]">
-                   <h3 className="font-bold text-lg mb-2">Tata Capital Settlement</h3>
+                   <h4 className="font-bold text-lg mb-2">Tata Capital Settlement</h4>
                    <p className="text-sm text-[var(--color-text-body)] mb-2">Tata Capital is more process-driven. Settlements often require deeper documentation of hardship but are generally fairer and more transparent once approved.</p>
                 </div>
                  <div className="bg-gray-50 p-6 rounded-xl border border-[var(--color-border)]">
-                   <h3 className="font-bold text-lg mb-2">Aditya Birla Finance</h3>
+                   <h4 className="font-bold text-lg mb-2">Aditya Birla Finance</h4>
                    <p className="text-sm text-[var(--color-text-body)] mb-2">They often use digital courts/ODR platforms for arbitration. We handle the digital representation effectively to ensure your side is heard.</p>
                 </div>
                  <div className="bg-gray-50 p-6 rounded-xl border border-[var(--color-border)]">
-                   <h3 className="font-bold text-lg mb-2">Others We Handle</h3>
+                   <h4 className="font-bold text-lg mb-2">Others We Handle</h4>
                    <p className="text-sm text-[var(--color-text-body)] mb-2">HDB Financial, Mahindra Finance, Fullerton India (SMFG), L&T Finance, IDFC First (Consumer Durable), Home Credit, Dhani, KreditBee, and MoneyView.</p>
                 </div>
              </div>
@@ -702,13 +702,13 @@ export default function NBFCSettlementPage() {
 
           {/* Testimonials */}
           <section id="reviews" className="scroll-mt-32 text-center mb-16">
-             <h2 className="text-3xl font-black text-[var(--color-text-hero)] mb-8">Success Stories</h2>
+             <h3 className="text-3xl font-black text-[var(--color-text-hero)] mb-8">Success Stories</h3>
              <div className="grid md:grid-cols-2 gap-6 text-left">
                 <div className="bg-white p-6 rounded-2xl border border-[var(--color-border)] shadow-sm">
                    <div className="flex items-center mb-4">
                       <div className="w-10 h-10 rounded-full bg-blue-100 flex items-center justify-center font-bold text-blue-600 mr-3">R</div>
                       <div>
-                         <h3 className="font-bold">Rajesh Verma</h3>
+                         <h4 className="font-bold">Rajesh Verma</h4>
                          <p className="text-xs text-[var(--color-text-muted)]">Settled Bajaj Finance Loan</p>
                       </div>
                    </div>
@@ -718,7 +718,7 @@ export default function NBFCSettlementPage() {
                    <div className="flex items-center mb-4">
                       <div className="w-10 h-10 rounded-full bg-green-100 flex items-center justify-center font-bold text-green-600 mr-3">S</div>
                       <div>
-                         <h4 className="font-bold">Sneha Gupta</h4>
+                         <h5 className="font-bold">Sneha Gupta</h5>
                          <p className="text-xs text-[var(--color-text-muted)]">Settled Tata Capital Loan</p>
                       </div>
                    </div>
@@ -728,9 +728,9 @@ export default function NBFCSettlementPage() {
           </section>
 
           {/* FAQs */}
-          <h2 id="faqs" className="scroll-mt-32 text-3xl md:text-4xl font-black text-[var(--color-text-hero)] mt-16 mb-8">
+          <h3 id="faqs" className="scroll-mt-32 text-3xl md:text-4xl font-black text-[var(--color-text-hero)] mt-16 mb-8">
             Frequently Asked Questions
-          </h2>
+          </h3>
           <div className="space-y-4 not-prose mb-20">
             {[
               { 
@@ -816,7 +816,7 @@ export default function NBFCSettlementPage() {
           <div className="lg:hidden mt-16 mb-8">
             <div className="bg-white rounded-2xl shadow-xl overflow-hidden border border-[var(--color-primary)]/20">
               <div className="bg-[var(--color-primary)] p-6 text-center text-white">
-                <h3 className="text-2xl font-black mb-2">NBFC Harassing You?</h3>
+                <h4 className="text-2xl font-black mb-2">NBFC Harassing You?</h4>
                 <p className="opacity-90 text-sm">Get a free analysis of your Bajaj, Tata, or HDB loan case today.</p>
               </div>
               <div className="p-8 text-center text-[var(--color-background-dark)]">

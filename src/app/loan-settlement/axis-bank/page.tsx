@@ -214,7 +214,7 @@ export default function AxisBankSettlementPage() {
             </section>
 
             <section id="citi-legacy" className="scroll-mt-32 mb-32 bg-[#971647]/5 p-20 rounded-[80px] border border-[#971647]/10">
-               <h2 className="text-3xl font-black text-[#971647] mb-12">2. The Citi Legacy: Navigating Migrated Card Settlements</h2>
+               <h3 className="text-3xl font-black text-[#971647] mb-12">2. The Citi Legacy: Navigating Migrated Card Settlements</h3>
                <div className="space-y-10">
                   <p>
                      If your current Axis Bank debt originated as a Citibank credit card or personal loan, you are in a unique legal position. The migration, finalized in mid-2024, involved a massive transfer of data, reward systems, and contractual terms.
@@ -234,7 +234,7 @@ export default function AxisBankSettlementPage() {
             </section>
 
             <section id="burgundy-priority" className="scroll-mt-32 mb-32">
-               <h2 className="text-3xl font-black text-[#1a202c] mb-12">3. Burgundy & Priority Banking: Impact for High-Net-Worth Clients</h2>
+               <h3 className="text-3xl font-black text-[#1a202c] mb-12">3. Burgundy & Priority Banking: Impact for High-Net-Worth Clients</h3>
                <div className="space-y-10">
                   <p>
                      For clients under the 'Burgundy' or 'Priority' banking tiers, Axis Bank applies a different level of scrutiny. The bank assumes a higher 'Capacity to Pay,' which often makes the initial settlement offers less favorable than for standard retail customers.
@@ -249,7 +249,7 @@ export default function AxisBankSettlementPage() {
             </section>
 
             <section id="msme-ots-policy" className="scroll-mt-32 mb-32 border-t-8 border-[#971647] pt-24">
-               <h2 className="text-3xl font-black text-[#1a202c] mb-12">4. MSME Non-Discretionary OTS: Standardized Business Exit</h2>
+               <h3 className="text-3xl font-black text-[#1a202c] mb-12">4. MSME Non-Discretionary OTS: Standardized Business Exit</h3>
                <div className="space-y-10">
                   <p>
                      Unlike its retail products, Axis Bank's SME (Small and Medium Enterprise) loans follow a highly regulated path. For loans up to ₹10 Crores, the bank is committed to a 'Non-Discretionary One Time Settlement' policy. This means if your business meets certain hardship criteria defined by the RBI MSME circulars, the bank *must* offer a settlement based on a pre-defined mathematical formula.
@@ -264,7 +264,7 @@ export default function AxisBankSettlementPage() {
             </section>
 
             <section id="mumbai-service-recovery" className="scroll-mt-32 mb-32">
-               <h2 className="text-3xl font-black text-[#1a202c] mb-12">5. The Mumbai Service Recovery Path: Reaching the Final Authority</h2>
+               <h3 className="text-3xl font-black text-[#1a202c] mb-12">5. The Mumbai Service Recovery Path: Reaching the Final Authority</h3>
                <div className="space-y-10">
                   <p>
                      The most powerful escalation point within the Axis Bank structure is the 'Service Recovery' team based at 'Axis House' in Mumbai. This is a centralized, high-level cadre that handles escalations originating from:
@@ -281,18 +281,18 @@ export default function AxisBankSettlementPage() {
             </section>
 
             <section id="digital-collections-model" className="scroll-mt-32 mb-32 bg-slate-900 text-white p-20 rounded-[80px]">
-               <h2 className="text-3xl font-black mb-12 text-[#971647]">6. Decoding the Digital Collections AI Model</h2>
+               <h3 className="text-3xl font-black mb-12 text-[#971647]">6. Decoding the Digital Collections AI Model</h3>
                <div className="space-y-10">
                   <p className="text-2xl font-light opacity-80">
                      Axis Bank uses a proprietary AI risk model to categorize every defaulting borrower. By understanding the inputs of this model, we can influence its output: your settlement discount.
                   </p>
                   <div className="grid md:grid-cols-2 gap-12">
                      <div className="p-8 bg-white/5 rounded-3xl border border-white/10">
-                        <h3 className="text-2xl font-black mb-4">Input: Behavioral Scoring</h3>
+                        <h4 className="text-2xl font-black mb-4">Input: Behavioral Scoring</h4>
                         <p className="opacity-60 text-lg text-white">The model tracks every interaction, call duration, and frequency. A 'Panicked' response increases the recovery target. A 'Professional/Legal' response shifts the score toward 'Litigation Risk,' prompting a faster settlement suggestion.</p>
                      </div>
                      <div className="p-8 bg-white/5 rounded-3xl border border-white/10">
-                        <h4 className="text-2xl font-black mb-4">Output: Propensity to Pay</h4>
+                        <h5 className="text-2xl font-black mb-4">Output: Propensity to Pay</h5>
                         <p className="opacity-60 text-lg text-white">If the model predicts a 'High Propensity to Pay,' the discount offered will be minimal (10-20%). By legally documenting financial distress, we move your profile to 'Low Propensity,' unlocking 50-70% haircuts.</p>
                      </div>
                   </div>
@@ -300,7 +300,7 @@ export default function AxisBankSettlementPage() {
             </section>
 
             <section id="personal-loan-nuance" className="scroll-mt-32 mb-32">
-               <h2 className="text-3xl font-black text-[#1a202c] mb-12">7. Axis Personal Loan Nuances: Beyond the EMI</h2>
+               <h3 className="text-3xl font-black text-[#1a202c] mb-12">7. Axis Personal Loan Nuances: Beyond the EMI</h3>
                <div className="space-y-10">
                   <p>
                      Axis personal loans are often tied to 'Insurance Premium Funding.' Borrowers are frequently sold high-premium insurance policies as a condition for the loan. If you defaulted, you have likely been paying interest on these heavy insurance premiums as well.
@@ -312,7 +312,7 @@ export default function AxisBankSettlementPage() {
             </section>
 
             <section id="credit-card-haircuts" className="scroll-mt-32 mb-32">
-               <h2 className="text-3xl font-black text-[#1a202c] mb-12">8. Axis Credit Card Haircut Benchmarks</h2>
+               <h3 className="text-3xl font-black text-[#1a202c] mb-12">8. Axis Credit Card Haircut Benchmarks</h3>
                <div className="space-y-10">
                   <p>
                      For 2026, the 'Settlement Windows' for Axis Bank cards, including migrated Citi cards, have established specific internal benchmarks. While every case is unique, a professional negotiation usually aims for:
@@ -329,7 +329,7 @@ export default function AxisBankSettlementPage() {
             </section>
 
             <section id="secured-sarfaesi-grid" className="scroll-mt-32 mb-32 bg-[#971647] text-white p-20 rounded-[80px]">
-               <h2 className="text-3xl font-black mb-12 text-white">9. Axis Secured Asset Defense: SARFAESI Intervention</h2>
+               <h3 className="text-3xl font-black mb-12 text-white">9. Axis Secured Asset Defense: SARFAESI Intervention</h3>
                <div className="space-y-10">
                   <p>
                      For home loans and property-backed debts, Axis Bank initiates the Section 13(2) notice under the SARFAESI Act. Our intervention focuses on the 'Authorized Officer' (AO) stationed at the zonal hub. Since Axis is highly process-driven, any procedural slip-up in the 'Physical Possession' notice or the 'Auction Reserve Price' calculation allows us to file a Securitisation Application (SA) in the DRT. This technical friction forces the bank to the negotiating table for a 'Pre-Auction Settlement.'
@@ -338,7 +338,7 @@ export default function AxisBankSettlementPage() {
             </section>
 
             <section id="emi-insurance-mismatch" className="scroll-mt-32 mb-32">
-               <h2 className="text-3xl font-black text-[#1a202c] mb-12">10. EMI & Insurance Mismatch: The Technical Leverage</h2>
+               <h3 className="text-3xl font-black text-[#1a202c] mb-12">10. EMI & Insurance Mismatch: The Technical Leverage</h3>
                <div className="space-y-10">
                   <p>
                      A unique issue with Axis Bank retail assets is the 'Systemic Mismatch' between EMI schedules and the 'Interest Application' date. Often, interest is applied on a 30-day month while EMIs are collected on the 1st or 5th. Over 3 years, this creates a 'Compound Error' in the outstanding balance. We audit your Axis Statement of Account (SOA) to find these nuances, often reducing the settlement demand by ₹20,000 to ₹1,00,000 before the negotiation even begins.
@@ -347,7 +347,7 @@ export default function AxisBankSettlementPage() {
             </section>
 
             <section id="lok-adalat-strategy" className="scroll-mt-32 mb-32">
-               <h2 className="text-3xl font-black text-[#1a202c] mb-12">11. The Axis Lok Adalat Strategy</h2>
+               <h3 className="text-3xl font-black text-[#1a202c] mb-12">11. The Axis Lok Adalat Strategy</h3>
                <div className="space-y-10">
                   <p>
                      Axis Bank uses Lok Adalats to 'Batch Close' NPAs. They send junior officers with limited 'Sliding Scale' authority to these courts. We know the exact 'Sliding Scale' limits for these officers. By preparing a legal petition ahead of the Lok Adalat date, we ensure your case is heard at the very start of the session, when the bank's officers are most motivated to meet their 'Session Closure Targets.'
@@ -356,7 +356,7 @@ export default function AxisBankSettlementPage() {
             </section>
 
             <section id="closure-ndc-timeline" className="scroll-mt-32 mb-32">
-               <h2 className="text-3xl font-black text-[#1a202c] mb-12">12. Digital NDC: The Axis Confirmation Pipeline</h2>
+               <h3 className="text-3xl font-black text-[#1a202c] mb-12">12. Digital NDC: The Axis Confirmation Pipeline</h3>
                <div className="space-y-10">
                   <p>
                      Post-payment, Axis Bank utilizes a digital 'No Dues Certificate' (NDC) pipeline. This is a secure PDF with a QR code for verification. We ensure that your settlement isn't just a verbal promise but a digitally traceable event in the Axis Bank central registry. We track the 'Account Status Update' on your Axis Mobile app to ensure the balance hits 'Zero' within 7 days of the final payment.
@@ -365,7 +365,7 @@ export default function AxisBankSettlementPage() {
             </section>
 
             <section id="terminolgy-deep-dive" className="scroll-mt-32 mb-32 bg-slate-50 p-20 rounded-[80px]">
-               <h2 className="text-3xl font-black text-[#971647] mb-12">13. The Axis Technical Dictionary: Internal Recovery Jargon</h2>
+               <h3 className="text-3xl font-black text-[#971647] mb-12">13. The Axis Technical Dictionary: Internal Recovery Jargon</h3>
                <div className="grid md:grid-cols-2 gap-10">
                   {[
                     { t: "RVLS (Recovery vs Litigation Support)", d: "The internal decision matrix Axis uses to weigh the cost of suing you versus the benefit of a settlement." },
@@ -378,7 +378,7 @@ export default function AxisBankSettlementPage() {
                     { t: "NDC Reference Number", d: "A 16-digit code on your closure letter; we verify this through the Axis backend." }
                   ].map((item, i) => (
                     <div key={i} className="pb-6 border-b border-slate-200">
-                       <h3 className="text-xl font-black text-[#971647]">{item.t}</h3>
+                       <h4 className="text-xl font-black text-[#971647]">{item.t}</h4>
                        <p className="text-sm opacity-70 font-bold">{item.d}</p>
                     </div>
                   ))}
@@ -386,25 +386,25 @@ export default function AxisBankSettlementPage() {
             </section>
 
             <section id="additional-strategies" className="scroll-mt-32 mb-32">
-               <h2 className="text-3xl font-black text-[#1a202c] mb-12">14. Advanced Axis Recovery Nuances: 2026 Update</h2>
+               <h3 className="text-3xl font-black text-[#1a202c] mb-12">14. Advanced Axis Recovery Nuances: 2026 Update</h3>
                <div className="space-y-10">
-                  <h3 className="text-2xl font-black text-[#971647]">The 'Sahaj' and 'Suvidha' Rural Impact</h3>
+                  <h4 className="text-2xl font-black text-[#971647]">The 'Sahaj' and 'Suvidha' Rural Impact</h4>
                   <p>
                     For borrowers in rural or semi-urban India, Axis Bank operates under the 'Sahaj' and 'Suvidha' frameworks. These are simplified lending products with recovery workflows that are often more localized. In these areas, the role of the 'Branch Credit Manager' is slightly higher than in urban hubs. We leverage this local authority to secure faster 'Spot Settlements' for agricultural or micro-business debts.
                   </p>
-                  <h3 className="text-2xl font-black text-[#971647]">Axis Bank ARC Partitioning</h3>
+                  <h4 className="text-2xl font-black text-[#971647]">Axis Bank ARC Partitioning</h4>
                   <p>
                     Periodically, Axis Bank offloads its 'Hard NPAs' (debts older than 3 years) to Asset Reconstruction Companies (ARCs) like Edelweiss or UV ARC. If your debt has been transferred, Axis is no longer your primary creditor. We specialize in negotiating with these ARCs, who are often even more motivated for a lump-sum settlement as their entire business model is based on quick turnaround of stressed assets.
                   </p>
-                  <h3 className="text-2xl font-black text-[#971647]">The 'Top-Up' Compound Interest Trap</h3>
+                  <h4 className="text-2xl font-black text-[#971647]">The 'Top-Up' Compound Interest Trap</h4>
                   <p>
                     A significant portion of Axis personal loan defaults involves a 'Top-Up' loan. When you take a top-up, the bank often creates a 'Parallel Account' instead of merging the debt. This leads to double penal charges and overlapping interest application. Our legal audit identifies these 'Compounding Overlaps' and forces the bank to recalculate the debt, often knocking off 15-20% of the claim before the settlement negotiation even starts.
                   </p>
-                  <h3 className="text-2xl font-black text-[#971647]">Axis Bank 'Priority' Default Handling</h3>
+                  <h4 className="text-2xl font-black text-[#971647]">Axis Bank 'Priority' Default Handling</h4>
                   <p>
                     Priority banking clients are often surprised by the aggression of the bank when a default occurs. The bank assumes these clients have undisclosed assets. We prepare a 'Technical Wealth Audit Response' for our priority clients, legally proving a genuine 'Cash-Flow Crisis' to dismantle the bank's assumption of 'Willful Default.' This pivot is essential for securing a haircut that matches retail standards.
                   </p>
-                  <h3 className="text-2xl font-black text-[#971647]">Digital Contract Nuances</h3>
+                  <h4 className="text-2xl font-black text-[#971647]">Digital Contract Nuances</h4>
                   <p>
                     In 2026, many Axis loans are 'Digital First' with e-signatures through Aadhaar. If the 'Digital Sanction Letter' lacked specific mandatory disclosures under the RBI's Digital Lending Guidelines, the entire debt can be challenged in court. This 'Compliance Leverage' is a powerful tool in our arsenal to force the bank into a very favorable settlement.
                   </p>
@@ -412,18 +412,18 @@ export default function AxisBankSettlementPage() {
             </section>
 
             <section id="citi-card-brands" className="scroll-mt-32 mb-32 border-l-[10px] border-[#971647] pl-12">
-               <h2 className="text-3xl font-black text-[#1a202c] mb-12">15. The Legacy Citi Portfolio: Brand-Specific Strategies</h2>
+               <h3 className="text-3xl font-black text-[#1a202c] mb-12">15. The Legacy Citi Portfolio: Brand-Specific Strategies</h3>
                <div className="space-y-10">
                   <p>
                     Axis Bank now manages several legacy Citi brands. Each of these has a different 'Risk Weighting' in the Axis backend.
                   </p>
                   <div className="grid md:grid-cols-2 gap-8">
                      <div className="p-10 bg-slate-50 rounded-[40px]">
-                        <h3 className="text-2xl font-black mb-4">Citi IndianOil Cards</h3>
+                        <h4 className="text-2xl font-black mb-4">Citi IndianOil Cards</h4>
                         <p className="text-sm opacity-70">If you defaulted on this co-branded card, the 'IndianOil' partnership terms often include specific 'Dispute Resolution' clauses that migrated to Axis. We use these to challenge late fees that were applied during the migration blackout periods.</p>
                      </div>
                      <div className="p-10 bg-slate-50 rounded-[40px]">
-                        <h4 className="text-2xl font-black mb-4">Citi Rewards & CashBack</h4>
+                        <h5 className="text-2xl font-black mb-4">Citi Rewards & CashBack</h5>
                         <p className="text-sm opacity-70">The conversion of Citi points to 'Axis EDGE' points was a major friction point. If your points were devalued or lost during the default, we use this 'Asset Loss' as a technical offset against the total debt amount during our Mumbai Zonal negotiations.</p>
                      </div>
                   </div>
@@ -434,7 +434,7 @@ export default function AxisBankSettlementPage() {
             </section>
 
             <section id="gold-loan-defense" className="scroll-mt-32 mb-32 bg-[#fff5f8] p-20 rounded-[80px] border border-[#f3d9e2]">
-               <h2 className="text-3xl font-black text-[#971647] mb-12">16. Axis Gold Loan Defense: Stopping the Auction</h2>
+               <h3 className="text-3xl font-black text-[#971647] mb-12">16. Axis Gold Loan Defense: Stopping the Auction</h3>
                <div className="space-y-10">
                   <p>
                     Axis Bank is a major player in the agricultural and retail Gold Loan segment. Unlike personal loans, these are 'Collateralized' by your family jewelry. The bank's recovery speed here is lightning-fast, often moving to auction within 30 days of the second missed payment.
@@ -450,7 +450,7 @@ export default function AxisBankSettlementPage() {
             </section>
 
             <section id="one-axis-impact" className="scroll-mt-32 mb-32">
-               <h2 className="text-3xl font-black text-[#1a202c] mb-12">17. The 'One Axis' Cross-Selling Impact on Debt</h2>
+               <h3 className="text-3xl font-black text-[#1a202c] mb-12">17. The 'One Axis' Cross-Selling Impact on Debt</h3>
                <div className="space-y-10">
                   <p>
                     Axis Bank operates under a 'One Axis' philosophy where they try to own your entire financial life—Savings, Loans, Mutual Funds, and Insurance. When you default on a loan, the bank often uses its 'Right of Set-Off' to freeze your other Axis accounts or even pull funds from your 'Axis Direct' trading account if linked.
@@ -465,7 +465,7 @@ export default function AxisBankSettlementPage() {
             </section>
 
             <section id="education-loan-strategies" className="scroll-mt-32 mb-32 bg-slate-900 text-white p-24 rounded-[100px]">
-               <h2 className="text-3xl font-black mb-12 text-[#971647]">18. Axis Education Loan Strategies: The Future is Not a Debt</h2>
+               <h3 className="text-3xl font-black mb-12 text-[#971647]">18. Axis Education Loan Strategies: The Future is Not a Debt</h3>
                <div className="space-y-10">
                   <p className="text-xl opacity-80 leading-relaxed font-light">
                     Axis Bank is a leading lender for study-abroad programs. When a graduate cannot find a high-paying role immediately, the 'Moratorium Period' ends, and the bank enters aggressive recovery mode against both the student and the parent (the co-applicant).
@@ -477,7 +477,7 @@ export default function AxisBankSettlementPage() {
             </section>
 
             <section id="axis-audit-dossier" className="scroll-mt-32 mb-32">
-               <h2 className="text-3xl font-black text-[#1a202c] mb-12">19. Preparing the 'Axis Audit Dossier': Your Legal Shield</h2>
+               <h3 className="text-3xl font-black text-[#1a202c] mb-12">19. Preparing the 'Axis Audit Dossier': Your Legal Shield</h3>
                <div className="space-y-10">
                   <p>
                     To settle with Axis Bank, your hardship letter must be more than a story; it must be a technical dossier that survives an audit by the bank's 'Risk Central' in Mumbai. We prepare this dossier for you, including:
@@ -494,7 +494,7 @@ export default function AxisBankSettlementPage() {
             </section>
 
             <section id="victory-stories" className="scroll-mt-32 mb-32">
-               <h2 className="text-3xl font-black text-[#1a202c] mb-16">20. Real-World Axis Victory Case Studies</h2>
+               <h3 className="text-3xl font-black text-[#1a202c] mb-16">20. Real-World Axis Victory Case Studies</h3>
                <div className="grid gap-12">
                   {[
                     { t: "The Migrated Citi Card Victory", l: "₹8L Outstanding", s: "Settled for ₹2.4L", text: "A former Citi cardholder was being hounded for 'Unbilled EMIs' post-migration. We audited the Citi legacy statements and proved a double-calculation error. Axis agreed to a 70% haircut within 15 days of the Mumbai Service Recovery escalation." },
@@ -502,7 +502,7 @@ export default function AxisBankSettlementPage() {
                     { t: "The Burgundy Account Resolution", l: "₹45L Multi-Product Debt", s: "Discreet Settlement", text: "A high-net-worth client had overlapping defaults on a personal loan and premium card. We utilized his Relationship Manager to reach the 'Axis House' resolution desk directly, securing a discreet settlement that preserved his business reputation." }
                   ].map((cs, i) => (
                     <div key={i} className="p-12 bg-white border border-slate-100 rounded-[50px] shadow-sm hover:shadow-2xl transition-all border-l-[15px] border-[#971647]">
-                       <h3 className="text-3xl font-black text-[#971647] mb-4">{cs.t}</h3>
+                       <h4 className="text-3xl font-black text-[#971647] mb-4">{cs.t}</h4>
                        <p className="font-bold text-xl mb-4 italic">{cs.l} | {cs.s}</p>
                        <p className="opacity-70 text-lg">"{cs.text}"</p>
                     </div>
@@ -511,7 +511,7 @@ export default function AxisBankSettlementPage() {
             </section>
 
             <section id="technical-faq" className="scroll-mt-32 mb-32">
-               <h2 className="text-3xl font-black text-[#971647] mb-12">21. Axis-Specific Technical FAQs</h2>
+               <h3 className="text-3xl font-black text-[#971647] mb-12">21. Axis-Specific Technical FAQs</h3>
                <div className="space-y-12">
                   {[
                     { q: "Is the settlement offer in the Axis Mobile App the best I can get?", a: "No. The app offers are 'Automated Haircuts' designed for maximum bank profit. A manual legal negotiation almost always results in a 20-30% deeper discount." },
@@ -521,14 +521,14 @@ export default function AxisBankSettlementPage() {
                     { q: "What is an Axis Bank 'Recall of Credit'? ", a: "This is a formal step where Axis terminates your privilege to pay in EMIs and demands the full amount immediately. This is the signal that you need professional legal representation immediately." }
                   ].map((faq, i) => (
                     <div key={i} className="pb-10 border-b border-slate-100 group">
-                       <h3 className="text-2xl font-black text-[#1a202c] mb-4 group-hover:text-[#971647] transition-colors">{faq.q}</h3>
+                       <h4 className="text-2xl font-black text-[#1a202c] mb-4 group-hover:text-[#971647] transition-colors">{faq.q}</h4>
                        <p className="text-lg opacity-70 leading-relaxed font-light">{faq.a}</p>
                     </div>
                   ))}
                </div>
             </section>
             <section id="commercial-debt-workout" className="scroll-mt-32 mb-32 bg-[#fff5f8] p-20 rounded-[80px] border border-[#f3d9e2]">
-               <h2 className="text-3xl font-black text-[#971647] mb-12">22. Axis Commercial Vehicle & Equipment Workouts</h2>
+               <h3 className="text-3xl font-black text-[#971647] mb-12">22. Axis Commercial Vehicle & Equipment Workouts</h3>
                <div className="space-y-10">
                   <p>
                     Axis Bank is heavily indexed in the 'Transport and Logistics' finance sector. If you have defaulted on a Commercial Vehicle (CV) loan or Construction Equipment (CE) finance, the bank will move for 'Repossession' via local 'Recovery Agents' armed with arbitration awards.
@@ -541,7 +541,7 @@ export default function AxisBankSettlementPage() {
             </section>
 
             <section id="pno-escalation" className="scroll-mt-32 mb-32">
-               <h2 className="text-3xl font-black text-[#1a202c] mb-12">23. Reaching the Principal Nodal Officer (PNO) Mumbai</h2>
+               <h3 className="text-3xl font-black text-[#1a202c] mb-12">23. Reaching the Principal Nodal Officer (PNO) Mumbai</h3>
                <div className="space-y-10">
                   <p>
                     When all other channels fail, the final technical bastion is the Office of the Principal Nodal Officer (PNO) at Axis House, Worli, Mumbai. This office has the authority to 'Overrule' the Zonal Hubs if there is a documented breach of the 'RBI Fair Practice Code.'
@@ -561,7 +561,7 @@ export default function AxisBankSettlementPage() {
             </section>
 
             <section id="pre-npa-exit" className="scroll-mt-32 mb-32 border-b-4 border-slate-100 pb-24">
-               <h2 className="text-3xl font-black text-[#1a202c] mb-12">24. Strategic Pre-NPA Exit: The 89th Day Settlement</h2>
+               <h3 className="text-3xl font-black text-[#1a202c] mb-12">24. Strategic Pre-NPA Exit: The 89th Day Settlement</h3>
                <div className="space-y-10">
                   <p>
                     Most borrowers wait until their account is an NPA (90+ days default) to settle. This is a mistake for certain Axis Bank products. The bank's 'Recovery Targets' are highest between the 60th and 89th day of default, just before the account hits the 'Sustained NPA' mark which hurts the bank's quarterly results.

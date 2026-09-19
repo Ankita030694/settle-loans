@@ -159,14 +159,14 @@ export default function AlternativesToSettlementPage() {
                         </section>
 
                         <section id="consolidation" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                                 Debt Consolidation: Merging the Chaos into One
-                            </h2>
+                            </h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 Debt consolidation is the process of taking out a single, large loan to pay off multiple smaller, high-interest debts (like credit card dues and payday loans). The goal is simple: replace many complex payments with one manageable monthly installment.
                             </p>
                             <div className="bg-blue-50 p-8 rounded-2xl mb-8">
-                                <h3 className="font-bold text-[#1F5EFF] mb-4 uppercase tracking-wider">How to Consolidate Correctially:</h3>
+                                <h4 className="font-bold text-[#1F5EFF] mb-4 uppercase tracking-wider">How to Consolidate Correctially:</h4>
                                 <ul className="space-y-4">
                                     <li className="flex gap-3 items-start"><FontAwesomeIcon icon={faCheck} className="text-blue-500 mt-1" /> <span>**Identify the Interest Arbitrage:** Only consolidate if the interest rate of the new loan is significantly lower (at least 5%-8%) than the weighted average of your current debts.</span></li>
                                     <li className="flex gap-3 items-start"><FontAwesomeIcon icon={faCheck} className="text-blue-500 mt-1" /> <span>**Loan Against Property (LAP):** For large debt volumes, a LAP offers the lowest interest rates (9%-12%) and the longest tenures (up to 15 years).</span></li>
@@ -176,14 +176,14 @@ export default function AlternativesToSettlementPage() {
                         </section>
 
                         <section id="restructuring" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                                 RBI Debt Restructuring: The Official Safety Net
-                            </h2>
+                            </h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 Unlike settlement, **Restructuring** is a modification of the original loan terms. It is a formal process approved by the RBI where the bank agrees to change your EMI, interest rate, or tenure to accommodate a temporary financial hardship.
                             </p>
                             <div className="bg-[#2E2E2E] text-white p-10 rounded-3xl mb-8 border border-[#1F5EFF]/20 shadow-xl">
-                                <h3 className="text-2xl font-black mb-6 flex items-center gap-3 text-[#1F5EFF]"><FontAwesomeIcon icon={faShieldHalved} /> The Restructuring Toolkit</h3>
+                                <h4 className="text-2xl font-black mb-6 flex items-center gap-3 text-[#1F5EFF]"><FontAwesomeIcon icon={faShieldHalved} /> The Restructuring Toolkit</h4>
                                 <p className="mb-6 opacity-80">Depending on your profile, the bank may offer:</p>
                                 <div className="grid md:grid-cols-2 gap-6">
                                     <div className="p-4 bg-white/5 rounded-xl border border-white/10"><p className="font-bold text-sm mb-2">EMI Holiday (Moratorium)</p><p className="text-xs opacity-60">A 3-6 month period where you pay nothing, interest is capitalized.</p></div>
@@ -195,20 +195,20 @@ export default function AlternativesToSettlementPage() {
                         </section>
 
                         <section id="snowball-avalanche" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                                 Snowball vs. Avalanche: The Physics of Debt Repayment
-                            </h2>
+                            </h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 If you decide not to settle and instead choose to pay off your debt, you need a mathematical framework. Most people fail because they try to pay a "Little bit to everyone". This is the least effective way to get out of debt.
                             </p>
                             <div className="grid md:grid-cols-2 gap-8 mb-10">
                                 <div className="p-8 bg-blue-50 border border-blue-100 rounded-3xl">
-                                    <h3 className="font-bold text-[#1F5EFF] mb-4 flex items-center gap-2"><FontAwesomeIcon icon={faCalculator} /> The Snowball Method</h3>
+                                    <h4 className="font-bold text-[#1F5EFF] mb-4 flex items-center gap-2"><FontAwesomeIcon icon={faCalculator} /> The Snowball Method</h4>
                                     <p className="text-sm leading-relaxed mb-4">**Focus:** Psychological Wins. You pay off the SMALLEST balance first, regardless of the interest rate. Once that's gone, you roll that payment into the next smallest.</p>
                                     <p className="text-xs font-bold text-blue-600 uppercase">Best for: Motivation & Momentum.</p>
                                 </div>
                                 <div className="p-8 bg-gray-50 border border-gray-200 rounded-3xl">
-                                    <h4 className="font-bold text-[#2E2E2E] mb-4 flex items-center gap-2"><FontAwesomeIcon icon={faChartLine} /> The Avalanche Method</h4>
+                                    <h5 className="font-bold text-[#2E2E2E] mb-4 flex items-center gap-2"><FontAwesomeIcon icon={faChartLine} /> The Avalanche Method</h5>
                                     <p className="text-sm leading-relaxed mb-4">**Focus:** Interest Savings. You pay off the HIGHEST INTEREST debt first. This saves you the most money over time and gets you out of debt mathematically faster.</p>
                                     <p className="text-xs font-bold text-gray-600 uppercase">Best for: High-Interest Credit Cards.</p>
                                 </div>
@@ -219,9 +219,9 @@ export default function AlternativesToSettlementPage() {
                         </section>
 
                         <section id="asset-monetization" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                                 Asset Monetization: Unlocking Your Hidden Capital
-                            </h2>
+                            </h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 Before you accept the CIBIL damage of a settlement, perform an exhaustive audit of your personal balance sheet. Many borrowers are "Asset Rich but Cash Poor".
                             </p>
@@ -242,9 +242,9 @@ export default function AlternativesToSettlementPage() {
                         </section>
 
                         <section id="gold-loans" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                                 Gold Loans: The Ultimate Liquidity Bridge
-                            </h2>
+                            </h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 In India, gold is the most liquid asset. Companies like **Muthoot** and **Manappuram** offer 15-minute loan disbursements regardless of your CIBIL score.
                             </p>
@@ -254,14 +254,14 @@ export default function AlternativesToSettlementPage() {
                         </section>
 
                         <section id="budget-audit" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                                 Forensic Budget Audit: Finding the "Leak" in Your Income
-                            </h2>
+                            </h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 Most people who believe they are insolvent are actually suffering from "Cash Flow Friction". Before you settle, you must perform a **Forensic Budget Audit**. This is not a standard monthly budget; it is a clinical analysis of every rupee that leaves your account.
                             </p>
                             <div className="bg-red-50 p-8 rounded-3xl border border-red-100 mb-8">
-                                <h3 className="text-red-900 font-bold mb-4 uppercase text-sm tracking-widest">The "Cut-Throat" Categorization:</h3>
+                                <h4 className="text-red-900 font-bold mb-4 uppercase text-sm tracking-widest">The "Cut-Throat" Categorization:</h4>
                                 <ul className="space-y-4 text-red-800 text-sm italic">
                                     <li>**Survivability Expenses:** Food, essential medicine, and basic utilities. These are sacred.</li>
                                     <li>**Liability Expenses:** Minimum dues on credit cards, EMIs, and insurance premiums.</li>
@@ -272,9 +272,9 @@ export default function AlternativesToSettlementPage() {
                         </section>
 
                         <section id="p2p-refinancing" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                                 P2P Refinancing: The New Age Alternative to Bank Rejection
-                            </h2>
+                            </h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 Traditional banks use rigid algorithms. If your CIBIL is 650, you are rejected. However, **Peer-to-Peer (P2P)** platforms like Faircent or Lendbox use "Alternative Data" (social behavior, utility bill payments, professional trajectory) to assess your creditworthiness.
                             </p>
@@ -282,7 +282,7 @@ export default function AlternativesToSettlementPage() {
                                 A P2P loan can be used to consolidate debt even if you have a slightly damaged credit report. The investors on these platforms are individuals looking for higher returns and are often willing to take a 'Calculated Risk' on a borrower who has a clear plan for debt recovery.
                             </p>
                             <div className="bg-gray-50 p-8 rounded-2xl mb-8">
-                                <h3 className="font-bold mb-4 text-[#1F5EFF]">P2P Refinancing Checklist:</h3>
+                                <h4 className="font-bold mb-4 text-[#1F5EFF]">P2P Refinancing Checklist:</h4>
                                 <ul className="list-disc pl-6 space-y-2 text-sm">
                                     <li>Prepare a 'Hardship Statement' for the platform investors.</li>
                                     <li>Show a consistent income stream for the last 6 months.</li>
@@ -292,9 +292,9 @@ export default function AlternativesToSettlementPage() {
                         </section>
 
                         <section id="rehab-protocol" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                                 The Credit Rehab Protocol: A 12-Month Blueprint
-                            </h2>
+                            </h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 If you choose an alternative to settlement, your primary goal is to **protect and rehabilitate** your credit score. This protocol ensures you stay in the 'Good' zone during your debt repayment journey.
                             </p>
@@ -315,20 +315,20 @@ export default function AlternativesToSettlementPage() {
                         </section>
 
                         <section id="insurance-loans-depth" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                                 Life Insurance: Loan vs. Surrender - The Mathematical Choice
-                            </h2>
+                            </h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 If you have a traditional life insurance policy (Endowment or Money Back) that has been active for more than 3 years, it has likely accrued a **Surrender Value**. You have two choices:
                             </p>
                             <div className="grid md:grid-cols-2 gap-8 mb-10">
                                 <div className="p-8 bg-white border border-gray-200 rounded-3xl shadow-sm">
-                                    <h3 className="font-bold text-[#1F5EFF] mb-4 uppercase text-xs tracking-widest">Option A: Surrender</h3>
+                                    <h4 className="font-bold text-[#1F5EFF] mb-4 uppercase text-xs tracking-widest">Option A: Surrender</h4>
                                     <p className="text-sm leading-relaxed mb-4">You terminate the policy and receive the cash value. This provides immediate liquidity but you lose the life cover and the 'Bonuses' accrued over years.</p>
                                     <p className="text-xs font-bold text-red-600">Impact: High Liquidity, High Loss of Protection.</p>
                                 </div>
                                 <div className="p-8 bg-white border border-gray-200 rounded-3xl shadow-sm">
-                                    <h4 className="font-bold text-[#1F5EFF] mb-4 uppercase text-xs tracking-widest">Option B: Loan Against Policy</h4>
+                                    <h5 className="font-bold text-[#1F5EFF] mb-4 uppercase text-xs tracking-widest">Option B: Loan Against Policy</h5>
                                     <p className="text-sm leading-relaxed mb-4">Most insurers (like LIC) will lend you up to 90% of the surrender value at a fixed interest rate of 9%-10%. You keep the insurance cover intact, and the loan is repaid from the future maturity proceeds.</p>
                                     <p className="text-xs font-bold text-green-600">Impact: Sustainable Debt Refinancing.</p>
                                 </div>
@@ -339,9 +339,9 @@ export default function AlternativesToSettlementPage() {
                         </section>
 
                         <section id="asset-disposal-roadmap" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                                 The Asset Disposal Roadmap: Turning Things into Freedom
-                            </h2>
+                            </h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 Selling personal assets is emotionally difficult, but it is far less damaging than a legal battle with a bank. Here is the hierarchy of what to sell and how to do it efficiently:
                             </p>
@@ -359,9 +359,9 @@ export default function AlternativesToSettlementPage() {
                         </section>
 
                         <section id="employer-loans" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight uppercase tracking-tighter">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight uppercase tracking-tighter">
                                 Employer Loans: The Corporate Safety Net
-                            </h2>
+                            </h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 Many large corporates and government institutions have internal 'Employee Welfare Fund' loan schemes. These loans are often interest-free or provided at very low rates (5%-7%).
                             </p>
@@ -371,14 +371,14 @@ export default function AlternativesToSettlementPage() {
                         </section>
 
                         <section id="drp-template" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                                 The Debt Restructuring Proposal (DRP): Your Professional Pitch
-                            </h2>
+                            </h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 If you want the bank to restructure your loan instead of settling it, you must treat it like a business proposal. Banks are data-driven; they respond to logic, not just emotion.
                             </p>
                             <div className="bg-blue-50 p-8 rounded-3xl border border-blue-100 mb-8">
-                                <h3 className="text-blue-900 font-bold mb-4 uppercase text-sm tracking-widest">The Anatomy of a Winning DRP:</h3>
+                                <h4 className="text-blue-900 font-bold mb-4 uppercase text-sm tracking-widest">The Anatomy of a Winning DRP:</h4>
                                 <div className="space-y-4 text-sm text-blue-800 italic leading-relaxed">
                                     <p>**1. The Hardship Disclosure:** A clinical explanation of what changed (Job loss, medical emergency, industry downturn). Attach proof.</p>
                                     <p>**2. The Liquidity Audit:** Showing the bank your current income vs. essential expenses. Prove that you *can* pay a lower EMI, but *cannot* pay the current one.</p>
@@ -389,9 +389,9 @@ export default function AlternativesToSettlementPage() {
                         </section>
 
                         <section id="balance-transfer" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                                 Balance Transfer: The 0% Interest Rescue Strategy
-                            </h2>
+                            </h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 If your primary debt is credit card dues, a **Balance Transfer (BT)** is your most powerful weapon. Many banks offer a 0% interest period for 3-6 months to acquire new customers.
                             </p>
@@ -399,15 +399,15 @@ export default function AlternativesToSettlementPage() {
                                 How it works: You move your ₹2,00,000 credit card debt from Bank A (charging 42%) to Bank B. Bank B gives you 6 months to pay it off at 0% interest (with a small processing fee of 1%-2%).
                             </p>
                             <div className="bg-gray-50 p-8 rounded-2xl mb-8 border border-gray-100">
-                                <h3 className="font-bold mb-4">The BT Warning:</h3>
+                                <h4 className="font-bold mb-4">The BT Warning:</h4>
                                 <p className="text-sm leading-relaxed">A Balance Transfer is not a 'cure'; it is a 'timeout'. If you don't pay off the principal during the 0% period, the interest rate will jump back to the standard 36%-42%. Use this 6-month window to aggressively sell assets or deploy the 'Snowball' method.</p>
                             </div>
                         </section>
 
                         <section id="rbi-code" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                                 RBI Fair Practices Code: Your Legal Shield
-                            </h2>
+                            </h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 Every bank in India is bound by the **RBI Fair Practices Code for Lenders**. This code explicitly states that banks must treat borrowers with dignity and provide a forum for grievance redressal.
                             </p>
@@ -417,9 +417,9 @@ export default function AlternativesToSettlementPage() {
                         </section>
 
                         <section id="credit-simulation" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                                 Credit Score Simulation: Predicting Your Future
-                            </h2>
+                            </h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 One of the most common questions we get is: "How much will my score drop if I choose X instead of Y?" To answer this, we provide a **Credit Impact Simulation** based on standard CIBIL scoring algorithms.
                             </p>
@@ -446,14 +446,14 @@ export default function AlternativesToSettlementPage() {
                         </section>
 
                         <section id="ombudsman-escalation" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                                 Escalation: The Banking Ombudsman Roadmap
-                            </h2>
+                            </h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 If you have a legitimate restructuring proposal and the bank's internal nodal officer rejects it without a valid reason, you have the right to approach the **RBI Banking Ombudsman**.
                             </p>
                             <div className="bg-[#2E2E2E] text-[#DEDEDE] p-10 rounded-[30px] mb-8 relative overflow-hidden shadow-2xl">
-                                <h3 className="text-2xl font-black mb-6 uppercase text-[#1F5EFF] tracking-tighter">The Ombudsman Checklist:</h3>
+                                <h4 className="text-2xl font-black mb-6 uppercase text-[#1F5EFF] tracking-tighter">The Ombudsman Checklist:</h4>
                                 <ul className="space-y-4 text-sm font-normal opacity-90 leading-relaxed">
                                     <li>**Wait for the 30-Day Window:** You must first file a formal complaint with the bank and wait 30 days for their response.</li>
                                     <li>**Document the Rejection:** Ensure you have the rejection letter or email from the bank's Nodal Officer.</li>
@@ -464,9 +464,9 @@ export default function AlternativesToSettlementPage() {
                         </section>
 
                         <section id="summary-hierarchy" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                                 The Universal Hierarchy of Debt Relief
-                            </h2>
+                            </h3>
                             <p className="text-lg leading-relaxed mb-8">
                                 To help you choose the right path, we have created the final **"Relief Hierarchy"**. Start at Level 1 and only move down if that level is technically impossible for you.
                             </p>
@@ -495,9 +495,9 @@ export default function AlternativesToSettlementPage() {
                         </section>
 
                         <section id="resurrection-timeline" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                                 The Financial Resurrection Timeline: 60 Months to Prime Credit
-                            </h2>
+                            </h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 Debt recovery is a marathon, not a sprint. If you choose an alternative to settlement, you are playing the 'Long Game'. This is the standard timeline for a borrower to move from 'Distressed' to 'Prime' (CIBIL 750+).
                             </p>
@@ -518,9 +518,9 @@ export default function AlternativesToSettlementPage() {
                         </section>
 
                         <section id="hardship-portfolio" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                                 The Hardship Portfolio: Your Weapon in Negotiations
-                            </h2>
+                            </h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 If you are asking for restructuring or lower interest rates, you must prove your situation. A verbal "I have no money" is ignored by banks. A **Hardship Portfolio** is a physical or digital binder containing:
                             </p>
@@ -539,7 +539,7 @@ export default function AlternativesToSettlementPage() {
 
                         <section id="universal-checklist" className="scroll-mt-32 mb-16 shadow-xl border border-gray-100 rounded-[40px] overflow-hidden">
                             <div className="bg-[#1F5EFF] p-8 text-white">
-                                <h2 className="text-3xl font-black uppercase tracking-tighter">The Universal Debt Relief Checklist</h2>
+                                <h3 className="text-3xl font-black uppercase tracking-tighter">The Universal Debt Relief Checklist</h3>
                                 <p className="opacity-80 mt-2 font-normal italic">Perform this audit every 30 days until your debt is resolved.</p>
                             </div>
                             <div className="p-10 bg-white space-y-8">
@@ -575,9 +575,9 @@ export default function AlternativesToSettlementPage() {
                         </section>
 
                         <section id="faqs" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                                 Strategic FAQs: Debt Relief Alternatives
-                            </h2>
+                            </h3>
                             <div className="space-y-4 not-prose">
                                 {[
                                     { q: "Is debt consolidation just taking another loan?", a: "Technically, yes. But it's about the *quality* of the loan. You are trading a 'Predatory' loan (High interest, short tenure) for a 'Productive' loan (Low interest, long tenure). If done correctly, it's a strategic win." },
@@ -615,7 +615,7 @@ export default function AlternativesToSettlementPage() {
                         <section className="bg-[#2E2E2E] rounded-[40px] p-10 md:p-16 text-center text-[#DEDEDE] relative overflow-hidden shadow-2xl">
                             <div className="absolute top-0 left-0 w-full h-full bg-[#1F5EFF]/5 pointer-events-none"></div>
                             <div className="relative z-10">
-                                <h2 className="text-3xl md:text-5xl font-black mb-6 uppercase tracking-tight">Design Your Relief Strategy</h2>
+                                <h3 className="text-3xl md:text-5xl font-black mb-6 uppercase tracking-tight">Design Your Relief Strategy</h3>
                                 <p className="text-lg md:text-xl opacity-80 max-w-2xl mx-auto mb-10 leading-relaxed font-normal italic">
                                     Our expert team helps you navigate the complex hierarchy of debt relief. We don't just settle; we strategize for your long-term financial health.
                                 </p>

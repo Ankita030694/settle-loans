@@ -543,7 +543,7 @@ Job loss, business drop, or medical bills can cause default. Adding bounce fees 
                 <Clock className="w-4 h-4" />
                 <span>2. Delinquency Timeline &amp; NPA Stages</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Equitas SFB Delinquency Lifecycle: SMA to NPA</h2>
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Equitas SFB Delinquency Lifecycle: SMA to NPA</h3>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg"> Equitas SFB tracks overdue loans using RBI IRACP norms and Ind AS 109 rules. It groups overdue loans into strict Days Past Due (DPD) stages. Knowing these stages helps you time your settlement talks for maximum debt relief.
 
 During early SMA stages (DPD 1 to 90), Equitas SFB focuses on collections. Branch staff and agents make phone calls. Once a loan crosses 90 days unpaid, it becomes a Substandard NPA. The bank must stop booking unpaid interest as income. It must also set aside cash reserves against the bad loan.
@@ -557,7 +557,7 @@ When a loan becomes Doubtful or gets written off, Equitas SFB covers the full lo
                 <Banknote className="w-4 h-4" />
                 <span>3. Halting NACH Bounce Charges &amp; Penal Fees</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Stopping Equitas SFB Bounce Charges &amp; NACH Hits</h2>
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Stopping Equitas SFB Bounce Charges &amp; NACH Hits</h3>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg"> Recurring auto-debit return charges create heavy strain for defaulted borrowers. Equitas SFB systems often present NACH mandates multiple times each month. When your bank account lacks funds, your bank charges ₹250 to ₹500 plus GST per bounce. Equitas SFB also adds late charges of ₹450 to ₹800 plus GST.
 
 Over several months, these failed debits cost tens of thousands of rupees. They inflate your total debt with unfair penalty fees. Under RBI Fair Lending Practice rules (2023), banks cannot compound penal charges. They cannot add overdue interest into principal.
@@ -575,7 +575,7 @@ Second, demand a 100% waiver of all bounce fees and penal interest during OTS ta
                 <Calculator className="w-4 h-4" />
                 <span>4. OTS Haircut Policies &amp; Valuation Framework</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Equitas SFB One-Time Settlement (OTS)</h2>
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Equitas SFB One-Time Settlement (OTS)</h3>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg"> Under RBI Master Directions on Compromise Settlements (2023), Equitas SFB follows a board-approved settlement policy. The bank evaluates settlement bids using Net Present Value (NPV) rules rather than staff whim.
 
 Unsecured personal loans and micro-business credit lack physical collateral. Equitas SFB cannot seize property under SARFAESI rules. The bank compares a lump-sum cash offer against the slow pace and costs of civil court suits. It accounts for lawyer fees, court delays. and locked capital reserves. </p>
@@ -593,7 +593,7 @@ Unsecured personal loans and micro-business credit lack physical collateral. Equ
               </div>
 
               {/* Settlement Haircut Slabs Table */}
-              <h3 className="text-lg font-bold text-slate-900 mb-3">Realistic Equitas SFB Settlement Haircut Slabs by Product &amp; Aging</h3>
+              <h4 className="text-lg font-bold text-slate-900 mb-3">Realistic Equitas SFB Settlement Haircut Slabs by Product &amp; Aging</h4>
               <div className="overflow-x-auto my-4">
                 <table className="min-w-full bg-white">
                   <thead>
@@ -651,9 +651,9 @@ Unsecured personal loans and micro-business credit lack physical collateral. Equ
                       <span className="text-[10px] font-black uppercase tracking-widest text-blue-300 block">
                         Legal Defense &amp; Action Blueprint
                       </span>
-                      <h3 className="text-sm md:text-base font-black text-white leading-tight">
+                      <h4 className="text-sm md:text-base font-black text-white leading-tight">
                         Equitas Small Finance Bank Loan Settlement &amp; Legal Defense Blueprint
-                      </h3>
+                      </h4>
                     </div>
                   </div>
                   <a
@@ -700,7 +700,7 @@ Unsecured personal loans and micro-business credit lack physical collateral. Equ
                 <ShieldAlert className="w-4 h-4" />
                 <span>5. Recovery Practices &amp; RBI Harassment Defense</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Defending Against Equitas SFB Recovery Practices Under RBI</h2>
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Defending Against Equitas SFB Recovery Practices Under RBI</h3>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg"> Equitas Small Finance Bank uses branch recovery staff and outsourced Debt Recovery Agencies (DRAs). Due to high monthly recovery targets, ground agents often break rules. They make endless phone calls. They visit borrower business shops or homes during odd hours. They also try to call family members, employers, or friends listed as loan references.
 
 The RBI Master Directions on Recovery Agents establish strict legal safeguards. Agents may only call or visit borrowers between 08:00 AM and 07:00 PM. Reaching out to employers, colleagues, neighbors, or non-guarantor family is strictly illegal. Any verbal abuse, physical threats, workplace disruption, or public shaming is a punishable offense. All field agents must carry bank authorization letters and IIBF DRA certificates.
@@ -714,65 +714,65 @@ Borrowers facing collection abuse should record phone calls, text messages. and 
                 <Layers className="w-4 h-4" />
                 <span>6. Step-by-Step SFB Settlement Roadmap</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Step-by-Step Guide to a Compromise Settlement with Equitas</h2>
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Step-by-Step Guide to a Compromise Settlement with Equitas</h3>
               <p className="text-slate-700 leading-relaxed mb-6 text-base md:text-lg"> Executing an official One-Time Settlement with Equitas SFB requires a clear, step-by-step plan: </p>
 
               <div className="space-y-6">
                 <div className="p-6 rounded-2xl bg-white border border-slate-200 shadow-sm">
-                  <h3 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
+                  <h4 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
                     <span className="w-7 h-7 rounded-lg bg-blue-50 text-[#1F5EFF] font-black text-sm flex items-center justify-center border border-blue-200">1</span>
                     Hardship Dossier Compilation &amp; Documentation
-                  </h3>
+                  </h4>
                   <p className="text-slate-600 text-sm md:text-base leading-relaxed">
                     Gather documents showing genuine financial hardship. Collect medical bills, job layoff letters, salary cuts, or audited accounts showing business losses. This proves the default is non-wilful and qualifies for an OTS under RBI rules.
                   </p>
                 </div>
 
                 <div className="p-6 rounded-2xl bg-white border border-slate-200 shadow-sm">
-                  <h3 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
+                  <h4 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
                     <span className="w-7 h-7 rounded-lg bg-blue-50 text-[#1F5EFF] font-black text-sm flex items-center justify-center border border-blue-200">2</span>
                     Mandate Cancellation &amp; Directing Communication
-                  </h3>
+                  </h4>
                   <p className="text-slate-600 text-sm md:text-base leading-relaxed">
                     Instruct your home bank to cancel e-NACH auto-debits to stop recurring bounce fees. Send a written notice to Equitas SFB directing that all future loan talks happen strictly in writing via official email or legal counsel.
                   </p>
                 </div>
 
                 <div className="p-6 rounded-2xl bg-white border border-slate-200 shadow-sm">
-                  <h3 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
+                  <h4 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
                     <span className="w-7 h-7 rounded-lg bg-blue-50 text-[#1F5EFF] font-black text-sm flex items-center justify-center border border-blue-200">3</span>
                     Submitting Compromise Proposal to Stressed Assets Desk
-                  </h3>
+                  </h4>
                   <p className="text-slate-600 text-sm md:text-base leading-relaxed">
                     Submit a formal OTS petition to the Equitas SFB Stressed Assets Desk under RBI Master Directions. Start with an offer of 25% to 35% of total ledger dues. Demand a 100% waiver of penal interest and bounce charges.
                   </p>
                 </div>
 
                 <div className="p-6 rounded-2xl bg-white border border-slate-200 shadow-sm">
-                  <h3 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
+                  <h4 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
                     <span className="w-7 h-7 rounded-lg bg-blue-50 text-[#1F5EFF] font-black text-sm flex items-center justify-center border border-blue-200">4</span>
                     Managing Counter-Demands &amp; Credit Committee Escalation
-                  </h3>
+                  </h4>
                   <p className="text-slate-600 text-sm md:text-base leading-relaxed">
                     Equitas SFB will first counter with small 10% to 20% discounts. Your banking lawyer demonstrates that settlement funds come from third-party family aid. This moves the Credit Committee toward the target 40% to 60% principal waiver.
                   </p>
                 </div>
 
                 <div className="p-6 rounded-2xl bg-white border border-slate-200 shadow-sm">
-                  <h3 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
+                  <h4 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
                     <span className="w-7 h-7 rounded-lg bg-blue-50 text-[#1F5EFF] font-black text-sm flex items-center justify-center border border-blue-200">5</span>
                     Rigorous Audit of the OTS Sanction Letter
-                  </h3>
+                  </h4>
                   <p className="text-slate-600 text-sm md:text-base leading-relaxed">
                     Before paying any money, audit the official OTS Sanction Letter on Equitas SFB letterhead. Check the loan account number, agreed settlement amount, payment due date. and debt discharge terms.
                   </p>
                 </div>
 
                 <div className="p-6 rounded-2xl bg-white border border-slate-200 shadow-sm">
-                  <h3 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
+                  <h4 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
                     <span className="w-7 h-7 rounded-lg bg-blue-50 text-[#1F5EFF] font-black text-sm flex items-center justify-center border border-blue-200">6</span>
                     Direct Bank Remittance &amp; Securing ₹0 No Dues Certificate
-                  </h3>
+                  </h4>
                   <p className="text-slate-600 text-sm md:text-base leading-relaxed">
                     Pay the settlement amount directly into your Equitas SFB loan account via NEFT/RTGS. Under RBI Circular RBI/2023-24/60, the bank must issue a ₹0 No Dues Certificate (NDC) and update credit bureaus within 30 days.
                   </p>
@@ -786,7 +786,7 @@ Borrowers facing collection abuse should record phone calls, text messages. and 
                 <Gavel className="w-4 h-4" />
                 <span>7. Section 25 Notices, Arbitration &amp; Lok Adalat</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Sec 25 PSSA &amp; Lok Adalat for Equitas SFB</h2>
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Sec 25 PSSA &amp; Lok Adalat for Equitas SFB</h3>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 When an unsecured loan remains overdue past 60 to 90 days, Equitas SFB often sends legal demand notices. These notices cite Section 25 of the PSSA for bounced NACH debits, or Section 138 of the NI Act for bounced cheques.
               </p>
@@ -851,7 +851,7 @@ Borrowers facing collection abuse should record phone calls, text messages. and 
                 <FileCheck className="w-4 h-4" />
                 <span>8. Sanction Letter Audit &amp; ₹0 NDC Mandate</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Authenticating Equitas SFB Settlement Letters</h2>
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Authenticating Equitas SFB Settlement Letters</h3>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg"> A big risk in debt recovery is rogue collection agents giving fake verbal settlement promises. If a borrower pays cash without an official bank letter, Equitas SFB treats the money as part-payment. It adjusts the cash against penal fees, keeping the default active.
 
 Borrowers must verify that the OTS sanction letter is issued on official Equitas Small Finance Bank letterhead. It must show the CIN number, Chennai head office address, reference number, officer signature. and branch seal.
@@ -865,7 +865,7 @@ The letter must clearly state that paying the settlement amount closes all loan 
                 <TrendingUp className="w-4 h-4" />
                 <span>9. CIBIL Score Trajectory &amp; Rehabilitation</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Post-Settlement CIBIL Recovery for Equitas SFB</h2>
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Post-Settlement CIBIL Recovery for Equitas SFB</h3>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg"> Completing a One-Time Settlement with Equitas SFB updates your credit records across CIBIL, Experian, Equifax, and CRIF High Mark. The status changes to "Settled" or "Post-Write-off Settled" with a ₹0 balance. This brings a temporary score dip of 75 to 100 points.
 
 Under RBI rules, a 12-month cooling window applies before applying for fresh unsecured loans. However, a "Settled" mark with zero balance is far better than an active default that drops your score every single month.
@@ -879,9 +879,9 @@ Borrowers can rebuild their CIBIL score back to 750+ within 18 to 24 months. Tak
                 <ShieldCheck className="w-4 h-4" />
                 <span>10. Legal Defense &amp; Representation</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 Why Distressed Equitas SFB Borrowers Trust SettleLoans
-              </h2>
+              </h3>
               <p className="text-slate-700 leading-relaxed mb-6 text-base md:text-lg"> Settling a defaulted loan with Equitas Small Finance Bank requires legal and financial expertise. SettleLoans halts recovery agent harassment with legal cease-and-desist notices. We reply to Section 25 PSSA notices, contest one-sided arbitration. and negotiate directly with Equitas SFB Stressed Assets Desks. Our team secures 40% to 60% debt waivers and authentic ₹0 No Dues Certificates. </p>
 
               {/* Placement of Reusable CompanySection */}
@@ -896,7 +896,7 @@ Borrowers can rebuild their CIBIL score back to 750+ within 18 to 24 months. Tak
                 <HelpCircle className="w-4 h-4" />
                 <span>11. Frequently Asked Questions</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">FAQs: Equitas Small Finance Bank Loan Settlement</h2>
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">FAQs: Equitas Small Finance Bank Loan Settlement</h3>
 
               <div className="space-y-4">
                 {faqs.map((faq, index) => (
@@ -923,10 +923,10 @@ Borrowers can rebuild their CIBIL score back to 750+ within 18 to 24 months. Tak
 
             {/* Regulatory References & Official Sources Strip */}
             <div className="bg-slate-50 border border-slate-200 rounded-2xl p-6 my-10">
-              <h3 className="text-base font-bold text-slate-900 mb-4 flex items-center gap-2">
+              <h4 className="text-base font-bold text-slate-900 mb-4 flex items-center gap-2">
                 <Landmark className="w-5 h-5 text-[#1F5EFF]" />
                 Official Regulatory References &amp; Statutory Circulars
-              </h3>
+              </h4>
               <ul className="space-y-3 text-xs text-slate-600">
                 <li className="flex items-start gap-2"> <ExternalLink className="w-4 h-4 text-[#1F5EFF] flex-shrink-0 mt-0.5" /> <a href="https://www.rbi.org.in" target="_blank" rel="noopener noreferrer" className="hover:text-[#1F5EFF] underline decoration-slate-300 hover:decoration-[#1F5EFF] transition-colors" > <strong>Reserve Bank of India (RBI):</strong> Master Direction on Compromise Settlements and Technical Write-offs (DOR.STR.REC.20/21.04.048/2023-24) </a> </li>
                 <li className="flex items-start gap-2"> <ExternalLink className="w-4 h-4 text-[#1F5EFF] flex-shrink-0 mt-0.5" /> <a href="https://www.rbi.org.in" target="_blank" rel="noopener noreferrer" className="hover:text-[#1F5EFF] underline decoration-slate-300 hover:decoration-[#1F5EFF] transition-colors" > <strong>RBI Master Circular:</strong> Fair Practices Code for Scheduled bank Banks & Guidelines on Recovery Agents </a> </li>
@@ -938,10 +938,10 @@ Borrowers can rebuild their CIBIL score back to 750+ within 18 to 24 months. Tak
 
             {/* Related Guides & Resources Strip (10 Topic Badges) */}
             <div className="bg-slate-50 border border-slate-200 rounded-2xl p-6 my-10">
-              <h3 className="text-base font-bold text-slate-900 mb-4 flex items-center gap-2">
+              <h4 className="text-base font-bold text-slate-900 mb-4 flex items-center gap-2">
                 <BookOpen className="w-5 h-5 text-[#1F5EFF]" />
                 Explore Related Banking &amp; Debt Resolution Guides
-              </h3>
+              </h4>
               <div className="flex flex-wrap gap-2.5">
                 <Link
                   href="/bank-one-time-settlement-ots-policy"

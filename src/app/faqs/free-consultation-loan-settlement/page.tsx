@@ -212,51 +212,51 @@ export default function FreeConsultationPage() {
 
             {/* Section 2: What We Cover */}
             <section id="what-we-cover" className="scroll-mt-32 mb-12">
-              <h2 className="text-2xl md:text-3xl font-bold text-[var(--color-primary)] mb-6">
+              <h3 className="text-2xl md:text-3xl font-bold text-[var(--color-primary)] mb-6">
                 What Happens in a Consultation?
-              </h2>
+              </h3>
               <p className="mb-6">
                 Our consultation is not a sales pitch. It is a diagnostic session for your financial health. Here is what we analyze during the call:
               </p>
               <div className="grid sm:grid-cols-2 gap-6 my-8">
                 <div className="bg-white p-6 rounded-xl border border-blue-100 shadow-sm relative group hover:-translate-y-1 transition-transform duration-300">
                   <div className="w-12 h-12 rounded-full bg-blue-50 text-blue-600 flex items-center justify-center font-bold text-xl mb-4 group-hover:bg-blue-600 group-hover:text-white transition-colors">1</div>
-                  <h3 className="text-xl font-bold text-[var(--color-text-hero)] mb-3">Debt Profile Analysis</h3>
+                  <h4 className="text-xl font-bold text-[var(--color-text-hero)] mb-3">Debt Profile Analysis</h4>
                   <p className="text-gray-600 text-sm leading-relaxed">
                     We categorize your loans into Secured vs Unsecured, check interest rates, and identify which lenders are most aggressive vs which are open to settlement.
                   </p>
                 </div>
                 <div className="bg-white p-6 rounded-xl border border-purple-100 shadow-sm relative group hover:-translate-y-1 transition-transform duration-300">
                   <div className="w-12 h-12 rounded-full bg-purple-50 text-purple-600 flex items-center justify-center font-bold text-xl mb-4 group-hover:bg-purple-600 group-hover:text-white transition-colors">2</div>
-                  <h3 className="text-xl font-bold text-[var(--color-text-hero)] mb-3">Harassment Assessment</h3>
+                  <h4 className="text-xl font-bold text-[var(--color-text-hero)] mb-3">Harassment Assessment</h4>
                   <p className="text-gray-600 text-sm leading-relaxed">
                     Are agents visiting your home? Threatening calls? We assess the severity of harassment and advise on immediate legal steps to stop illegal recovery tactics.
                   </p>
                 </div>
                 <div className="bg-white p-6 rounded-xl border border-green-100 shadow-sm relative group hover:-translate-y-1 transition-transform duration-300">
                   <div className="w-12 h-12 rounded-full bg-green-50 text-green-600 flex items-center justify-center font-bold text-xl mb-4 group-hover:bg-green-600 group-hover:text-white transition-colors">3</div>
-                  <h3 className="text-xl font-bold text-[var(--color-text-hero)] mb-3">Eligibility Check</h3>
+                  <h4 className="text-xl font-bold text-[var(--color-text-hero)] mb-3">Eligibility Check</h4>
                   <p className="text-gray-600 text-sm leading-relaxed">
                     We check if your "Hardship" (Job loss, medical issue) is strong enough to convince the bank's credit committee for a good waiver.
                   </p>
                 </div>
                 <div className="bg-white p-6 rounded-xl border border-orange-100 shadow-sm relative group hover:-translate-y-1 transition-transform duration-300">
                   <div className="w-12 h-12 rounded-full bg-orange-50 text-orange-600 flex items-center justify-center font-bold text-xl mb-4 group-hover:bg-orange-600 group-hover:text-white transition-colors">4</div>
-                  <h3 className="text-xl font-bold text-[var(--color-text-hero)] mb-3">Savings Strategy</h3>
+                  <h4 className="text-xl font-bold text-[var(--color-text-hero)] mb-3">Savings Strategy</h4>
                   <p className="text-gray-600 text-sm leading-relaxed">
                     We help you calculate a realistic budget. How much can you save monthly? How long will it take to accumulate the settlement fund?
                   </p>
                 </div>
                 <div className="bg-white p-6 rounded-xl border border-teal-100 shadow-sm relative group hover:-translate-y-1 transition-transform duration-300">
                   <div className="w-12 h-12 rounded-full bg-teal-50 text-teal-600 flex items-center justify-center font-bold text-xl mb-4 group-hover:bg-teal-600 group-hover:text-white transition-colors">5</div>
-                  <h3 className="text-xl font-bold text-[var(--color-text-hero)] mb-3">Legal & Risk Review</h3>
+                  <h4 className="text-xl font-bold text-[var(--color-text-hero)] mb-3">Legal & Risk Review</h4>
                   <p className="text-gray-600 text-sm leading-relaxed">
                     We review any legal notices you have received (138 NI Act, Arbitration) and tell you which ones are genuine and which are fake intimidation tactics.
                   </p>
                 </div>
                 <div className="bg-white p-6 rounded-xl border border-rose-100 shadow-sm relative group hover:-translate-y-1 transition-transform duration-300">
                   <div className="w-12 h-12 rounded-full bg-rose-50 text-rose-600 flex items-center justify-center font-bold text-xl mb-4 group-hover:bg-rose-600 group-hover:text-white transition-colors">6</div>
-                  <h3 className="text-xl font-bold text-[var(--color-text-hero)] mb-3">Credit Rebuilding Road</h3>
+                  <h4 className="text-xl font-bold text-[var(--color-text-hero)] mb-3">Credit Rebuilding Road</h4>
                   <p className="text-gray-600 text-sm leading-relaxed">
                     Analysis is not just about today. We explain how settlement impacts your score and sketch a brief plan on how you can rebuild it over the next 24 months.
                   </p>
@@ -266,9 +266,9 @@ export default function FreeConsultationPage() {
 
             {/* New Section: DIY vs Expert */}
             <section id="diy-vs-expert" className="scroll-mt-32 mb-12">
-              <h2 className="text-2xl md:text-3xl font-bold text-[var(--color-primary)] mb-6">
+              <h3 className="text-2xl md:text-3xl font-bold text-[var(--color-primary)] mb-6">
                 Can I Settle My Loans Myself? (DIY vs Expert)
-              </h2>
+              </h3>
               <p className="mb-6">
                 Yes, you can settle your loans yourself. However, it is important to understand the difference between handling it alone versus having a professional team.
               </p>
@@ -314,14 +314,14 @@ export default function FreeConsultationPage() {
 
             {/* Section 3: Who Should Book */}
             <section id="who-is-it-for" className="scroll-mt-32 mb-12">
-              <h2 className="text-2xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+              <h3 className="text-2xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                 Who Should Book This Consultation?
-              </h2>
+              </h3>
               <p className="text-lg mb-6">
                 Loan settlement counselling is not for everyone. It is specifically designed for borrowers who are in genuine distress.
               </p>
               <div className="bg-gray-50 p-6 rounded-xl border border-gray-200 mb-8">
-                <h3 className="font-bold text-gray-900 mb-2">Ideal Candidates</h3>
+                <h4 className="font-bold text-gray-900 mb-2">Ideal Candidates</h4>
                 <ul className="grid md:grid-cols-2 gap-4 mt-4">
                   <li className="flex items-start">
                     <span className="w-5 h-5 rounded-full bg-red-100 text-red-600 flex items-center justify-center mr-3 mt-0.5 text-xs font-bold">✓</span>
@@ -353,9 +353,9 @@ export default function FreeConsultationPage() {
 
             {/* New Section: Who is it NOT for */}
             <section id="who-is-it-not-for" className="scroll-mt-32 mb-12">
-              <h2 className="text-2xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+              <h3 className="text-2xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                 Who Should NOT Book?
-              </h2>
+              </h3>
               <div className="bg-red-50 p-6 rounded-xl border border-red-200">
                 <p className="mb-4 text-red-900">
                   To respect our experts' time and help those in real need, please <strong>do not</strong> book if:
@@ -379,15 +379,15 @@ export default function FreeConsultationPage() {
 
             {/* Section 4: Preparation */}
             <section id="preparation" className="scroll-mt-32 mb-12">
-              <h2 className="text-2xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+              <h3 className="text-2xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                 How to Prepare for the Call
-              </h2>
+              </h3>
               <div className="grid md:grid-cols-2 gap-4">
                 <div className="bg-blue-50 p-6 rounded-xl border border-blue-100">
-                  <h3 className="font-bold text-blue-800 mb-4 flex items-center">
+                  <h4 className="font-bold text-blue-800 mb-4 flex items-center">
                     <span className="w-6 h-6 rounded-full bg-blue-200 mr-2 flex items-center justify-center text-xs">ℹ</span>
                     What to Have Ready
-                  </h3>
+                  </h4>
                   <ul className="space-y-3 text-blue-900/80 font-medium text-sm">
                     <li className="flex items-start"><span className="mr-2">•</span> <strong>List of Creditors:</strong> Names of all banks and apps you owe money to.</li>
                     <li className="flex items-start"><span className="mr-2">•</span> <strong>Outstanding Amounts:</strong> Approximate total due for each loan.</li>
@@ -396,10 +396,10 @@ export default function FreeConsultationPage() {
                   </ul>
                 </div>
                 <div className="bg-amber-50 p-6 rounded-xl border border-amber-100">
-                  <h3 className="font-bold text-amber-800 mb-4 flex items-center">
+                  <h4 className="font-bold text-amber-800 mb-4 flex items-center">
                     <span className="w-6 h-6 rounded-full bg-amber-200 mr-2 flex items-center justify-center text-xs">?</span>
                     What We Will Ask
-                  </h3>
+                  </h4>
                   <ul className="space-y-3 text-amber-900/80 font-medium text-sm">
                     <li className="flex items-start"><span className="mr-2">•</span> "What caused your financial difficulty? (Job loss, medical, etc)"</li>
                     <li className="flex items-start"><span className="mr-2">•</span> "How much disposable income do you have monthly for savings?"</li>
@@ -412,27 +412,27 @@ export default function FreeConsultationPage() {
 
             {/* New Section: Questions to Ask */}
             <section id="questions-to-ask" className="scroll-mt-32 mb-12">
-              <h2 className="text-2xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+              <h3 className="text-2xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                 Hard Questions You Must Ask
-              </h2>
+              </h3>
               <p className="mb-6">
                 Whether you choose SettleLoans or any other agency, you must protect yourself. Always ask these questions during your consultation:
               </p>
               <div className="grid md:grid-cols-2 gap-6">
                 <div className="border border-gray-200 p-5 rounded-lg">
-                  <h3 className="font-bold text-gray-900 mb-2">1. "Are you a law firm or a call center?"</h3>
+                  <h4 className="font-bold text-gray-900 mb-2">1. "Are you a law firm or a call center?"</h4>
                   <p className="text-sm text-gray-600">Many agencies are just call centers with no legal backing. Ensure there are real lawyers involved to handle notices.</p>
                 </div>
                 <div className="border border-gray-200 p-5 rounded-lg">
-                  <h4 className="font-bold text-gray-900 mb-2">2. "How do you charge fees?"</h4>
+                  <h5 className="font-bold text-gray-900 mb-2">2. "How do you charge fees?"</h5>
                   <p className="text-sm text-gray-600">Avoid companies charging huge upfront fees before doing any work. Look for success-fee based or reasonable monthly subscription models.</p>
                 </div>
                 <div className="border border-gray-200 p-5 rounded-lg">
-                  <h4 className="font-bold text-gray-900 mb-2">3. "Will you stop the calls?"</h4>
+                  <h5 className="font-bold text-gray-900 mb-2">3. "Will you stop the calls?"</h5>
                   <p className="text-sm text-gray-600">No one can legally "block" calls, but a good agency will route calls to themselves and file grievances against harassment.</p>
                 </div>
                 <div className="border border-gray-200 p-5 rounded-lg">
-                  <h4 className="font-bold text-gray-900 mb-2">4. "Is settlement guaranteed?"</h4>
+                  <h5 className="font-bold text-gray-900 mb-2">4. "Is settlement guaranteed?"</h5>
                   <p className="text-sm text-gray-600">If anyone says "Yes, 100%", run. Settlement depends on the bank. Honest agencies give probabilities, not false guarantees.</p>
                 </div>
               </div>
@@ -440,9 +440,9 @@ export default function FreeConsultationPage() {
 
             {/* New Section: Warning Signs */}
             <section id="red-flags" className="scroll-mt-32 mb-12">
-              <h2 className="text-2xl md:text-3xl font-bold text-[var(--color-primary)] mb-6">
+              <h3 className="text-2xl md:text-3xl font-bold text-[var(--color-primary)] mb-6">
                 Warning Signs: Spotting Scams
-              </h2>
+              </h3>
               <div className="bg-red-50 border-l-4 border-red-500 p-6 rounded-r-lg">
                 <p className="font-bold text-red-900 mb-4">Be careful if an agent:</p>
                 <ul className="space-y-3 text-red-900/80">
@@ -456,7 +456,7 @@ export default function FreeConsultationPage() {
 
             {/* Section 5: Confidentiality */}
             <section id="confidentiality" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">Privacy & Confidentiality</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">Privacy & Confidentiality</h3>
               <p className="mb-6">
                 We understand that debt is a sensitive personal matter. Your privacy is our top priority.
               </p>
@@ -470,7 +470,7 @@ export default function FreeConsultationPage() {
                       </div>
                     </div>
                     <div>
-                      <h3 className="text-xl font-bold text-gray-900 mb-2">100% Confidential</h3>
+                      <h4 className="text-xl font-bold text-gray-900 mb-2">100% Confidential</h4>
                       <p className="text-gray-600 text-sm leading-relaxed">
                         Your details are never shared with third-party agencies or banks without your explicit written consent. We use your information solely to assess your case and communicate strategies with you.
                       </p>
@@ -483,7 +483,7 @@ export default function FreeConsultationPage() {
                       </div>
                     </div>
                     <div>
-                      <h3 className="text-xl font-bold text-gray-900 mb-2">No Judgment Policy</h3>
+                      <h4 className="text-xl font-bold text-gray-900 mb-2">No Judgment Policy</h4>
                       <p className="text-gray-600 text-sm leading-relaxed">
                         We are not here to judge your financial past. We are here to secure your financial future. Our team is trained to be empathetic, professional, and solution-oriented.
                       </p>
@@ -501,9 +501,9 @@ export default function FreeConsultationPage() {
 
             {/* Section 6: Process Overview */}
             <section id="process" className="scroll-mt-32 mb-12">
-              <h2 className="text-2xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+              <h3 className="text-2xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                 How the Process Works
-              </h2>
+              </h3>
               <div className="bg-white p-8 rounded-2xl border border-gray-100">
                 <div className="space-y-8">
                   <div className="flex">
@@ -511,7 +511,7 @@ export default function FreeConsultationPage() {
                       <span className="flex items-center justify-center w-8 h-8 rounded-full bg-[var(--color-primary)] text-white font-bold text-sm">1</span>
                     </div>
                     <div>
-                      <h3 className="text-lg font-bold text-gray-900">Step 1: Book Your Slot</h3>
+                      <h4 className="text-lg font-bold text-gray-900">Step 1: Book Your Slot</h4>
                       <p className="text-sm text-gray-600 mt-1">Fill out the form on our contact page. Provide basic details about your total debt and current situation.</p>
                     </div>
                   </div>
@@ -520,7 +520,7 @@ export default function FreeConsultationPage() {
                       <span className="flex items-center justify-center w-8 h-8 rounded-full bg-[var(--color-primary)] text-white font-bold text-sm">2</span>
                     </div>
                     <div>
-                      <h4 className="text-lg font-bold text-gray-900">Step 2: Verification Call</h4>
+                      <h5 className="text-lg font-bold text-gray-900">Step 2: Verification Call</h5>
                       <p className="text-sm text-gray-600 mt-1">Our intake team will give you a quick call to verify your details and schedule an in-depth session with a senior expert.</p>
                     </div>
                   </div>
@@ -529,7 +529,7 @@ export default function FreeConsultationPage() {
                       <span className="flex items-center justify-center w-8 h-8 rounded-full bg-[var(--color-primary)] text-white font-bold text-sm">3</span>
                     </div>
                     <div>
-                      <h4 className="text-lg font-bold text-gray-900">Step 3: Strategy Session</h4>
+                      <h5 className="text-lg font-bold text-gray-900">Step 3: Strategy Session</h5>
                       <p className="text-sm text-gray-600 mt-1">Talk to the expert. Discuss your case. Get a customized "Assessment Report" outlining your eligibility and estimated settlement amount.</p>
                     </div>
                   </div>
@@ -538,7 +538,7 @@ export default function FreeConsultationPage() {
                       <span className="flex items-center justify-center w-8 h-8 rounded-full bg-[var(--color-primary)] text-white font-bold text-sm">4</span>
                     </div>
                     <div>
-                      <h4 className="text-lg font-bold text-gray-900">Step 4: Decision</h4>
+                      <h5 className="text-lg font-bold text-gray-900">Step 4: Decision</h5>
                       <p className="text-sm text-gray-600 mt-1">You decide if you want to hire us to handle the bank negotiations for you. There is no obligation to proceed after the consultation.</p>
                     </div>
                   </div>
@@ -547,7 +547,7 @@ export default function FreeConsultationPage() {
             </section>
 
             {/* Success Stories */}
-            <h2 id="reviews" className="scroll-mt-32 text-2xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 text-center uppercase tracking-tighter font-sans">Client Success Stories</h2>
+            <h3 id="reviews" className="scroll-mt-32 text-2xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 text-center uppercase tracking-tighter font-sans">Client Success Stories</h3>
             <div className="grid md:grid-cols-2 gap-4 md:gap-6 not-prose mb-16 text-left">
               {[
                 {
@@ -582,7 +582,7 @@ export default function FreeConsultationPage() {
                 <div key={i} className="bg-white p-5 md:p-6 rounded-2xl border border-[var(--color-border)] shadow-sm hover:shadow-md transition-all">
                   <div className="flex items-center mb-4">
                     <div className="w-10 h-10 rounded-full bg-[#1F5EFF]/10 flex items-center justify-center font-bold text-[#1F5EFF] mr-3">{review.name.charAt(0)}</div>
-                    <div><h3 className="font-bold text-[#2E2E2E]">{review.name}</h3><p className="text-xs text-gray-400">{review.loc}</p></div>
+                    <div><h4 className="font-bold text-[#2E2E2E]">{review.name}</h4><p className="text-xs text-gray-400">{review.loc}</p></div>
                     <div className="ml-auto text-yellow-400 text-sm flex gap-0.5">
                       <FontAwesomeIcon icon={faStar} className="w-3.5 h-3.5" />
                       <FontAwesomeIcon icon={faStar} className="w-3.5 h-3.5" />
@@ -608,7 +608,7 @@ export default function FreeConsultationPage() {
 
             {/* Section 7: FAQs (Expanded) */}
             <section id="faqs" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">Frequently Asked Questions</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">Frequently Asked Questions</h3>
               <div className="space-y-4 not-prose">
                 {[
                   {
@@ -679,7 +679,7 @@ export default function FreeConsultationPage() {
             <section className="bg-[#1F5EFF] rounded-[10px] p-8 md:p-12 text-center text-white relative overflow-hidden shadow-2xl mb-16">
               <div className="absolute top-0 right-0 w-64 h-64 bg-white/10 rounded-full -mr-32 -mt-32"></div>
               <div className="relative z-10">
-                <h2 className="text-3xl md:text-5xl font-black mb-6 uppercase tracking-tighter">Stop Stressing, Start Settling</h2>
+                <h3 className="text-3xl md:text-5xl font-black mb-6 uppercase tracking-tighter">Stop Stressing, Start Settling</h3>
                 <p className="text-lg md:text-2xl opacity-90 max-w-2xl mx-auto mb-10 leading-tight font-normal">
                   Join 10,000+ Indians who have successfully escaped the debt trap with professional help. Your path to freedom starts here.
                 </p>
@@ -693,7 +693,7 @@ export default function FreeConsultationPage() {
             <div className="lg:hidden mt-16 mb-8">
               <div className="bg-white rounded-[10px] shadow-[0_8px_30px_rgb(0,0,0,0.06)] overflow-hidden border border-[var(--color-border)]">
                 <div className="bg-[#1F5EFF] p-6 text-center text-white">
-                  <h3 className="text-2xl font-bold mb-2 uppercase tracking-wide">Professional Help</h3>
+                  <h4 className="text-2xl font-bold mb-2 uppercase tracking-wide">Professional Help</h4>
                   <p className="opacity-90 text-sm">Let our experts handle the negotiations for you.</p>
                 </div>
                 <div className="p-8 text-center">

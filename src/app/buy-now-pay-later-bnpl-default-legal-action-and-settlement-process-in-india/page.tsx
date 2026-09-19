@@ -242,15 +242,15 @@ export default function BNPLDefaultPage() {
             </section>
 
             <section id="legal-status" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 The Legal Reality of BNPL Apps
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 BNPL platforms are not banks themselves; they are technology frontends backed by traditional Non-Banking Financial Companies (NBFCs) and major banks (like IDFC FIRST Bank, axio, or Aditya Birla Finance).
               </p>
               
               <div className="bg-blue-50 border-l-8 border-[#1F5EFF] p-8 rounded-r-2xl mb-8">
-                <h3 className="text-xl font-black text-[#1F5EFF] mb-4">Why This Matters</h3>
+                <h4 className="text-xl font-black text-[#1F5EFF] mb-4">Why This Matters</h4>
                 <div className="space-y-4">
                   <div className="flex gap-3 items-start">
                     <div className="mt-1.5 w-2 h-2 rounded-full bg-[#1F5EFF] flex-shrink-0"></div>
@@ -269,12 +269,12 @@ export default function BNPLDefaultPage() {
             </section>
 
             <section id="consequences" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 Amazon Pay Later & Simpl: Default Consequences
-              </h2>
+              </h3>
               
               <div className="bg-red-50 p-6 rounded-xl border border-red-100 mb-8">
-                <h3 className="text-xl font-black text-red-700 mb-2">The Snowball Effect of Late Fees</h3>
+                <h4 className="text-xl font-black text-red-700 mb-2">The Snowball Effect of Late Fees</h4>
                 <p className="text-red-900">
                   A small default rapidly balloons out of control. BNPL platforms charge exorbitant late payment fees and penal interest (often scaling up to 36% annually or more). A ₹5,000 pending bill can easily double in a matter of months.
                 </p>
@@ -282,33 +282,33 @@ export default function BNPLDefaultPage() {
 
               <div className="grid md:grid-cols-2 gap-6 my-8">
                 <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
-                  <h3 className="font-black text-[#1F5EFF] text-lg mb-2">Platform Bans</h3>
+                  <h4 className="font-black text-[#1F5EFF] text-lg mb-2">Platform Bans</h4>
                   <p className="text-gray-700">Immediate suspension of your BNPL account. Platforms associated with e-commerce giants (like Amazon) may restrict your primary shopping accounts or cash-on-delivery options.</p>
                 </div>
                 <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
-                  <h3 className="font-black text-[#1F5EFF] text-lg mb-2">Aggressive Recovery</h3>
+                  <h4 className="font-black text-[#1F5EFF] text-lg mb-2">Aggressive Recovery</h4>
                   <p className="text-gray-700">The NBFC will deploy third-party recovery agencies. Expect relentless automated calls, text messages, and potential home visits demanding payment.</p>
                 </div>
                 <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
-                  <h3 className="font-black text-[#1F5EFF] text-lg mb-2">Legal Notices</h3>
+                  <h4 className="font-black text-[#1F5EFF] text-lg mb-2">Legal Notices</h4>
                   <p className="text-gray-700">Formal demand notices under various sections of the law will be sent to your permanent address, often causing distress to family members.</p>
                 </div>
                 <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
-                  <h3 className="font-black text-[#1F5EFF] text-lg mb-2">Cross-Platform Impact</h3>
+                  <h4 className="font-black text-[#1F5EFF] text-lg mb-2">Cross-Platform Impact</h4>
                   <p className="text-gray-700">Other lending apps will instantly recognize the default, dropping your eligibility for any future credit across the entire Indian financial ecosystem.</p>
                 </div>
               </div>
             </section>
 
             <section id="cibil-impact" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 The Disproportionate CIBIL Score Drop
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 The most severe penalty for a BNPL default is the immediate and devastating impact on your credit history. The CIBIL algorithm does not distinguish between a ₹20,00,000 personal loan default and a ₹10,000 BNPL default. 
               </p>
               <div className="bg-gray-50 p-8 rounded-2xl mb-8 border border-gray-200">
-                <h3 className="text-xl font-bold text-gray-900 mb-3">Why Micro-Defaults Hurt So Much</h3>
+                <h4 className="text-xl font-bold text-gray-900 mb-3">Why Micro-Defaults Hurt So Much</h4>
                 <p className="text-gray-700 leading-relaxed">
                   A missed payment is reported as Days Past Due (DPD). If the account goes to a Non-Performing Asset (NPA) status (usually after 90 days), your CIBIL score will plummet by 50 to 100 points instantly. Because BNPL limits are small, having an active default signals to other banks that your financial distress is so severe that you cannot even clear a micro-loan, making you a hyper-risk borrower.
                 </p>
@@ -316,9 +316,9 @@ export default function BNPLDefaultPage() {
             </section>
 
             <section id="legal-action" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 Legal Action by BNPL Platforms
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 If the debt remains unpaid, the NBFC backing the BNPL service (such as axio, Karur Vysya Bank, IDFC, etc.) will initiate standard legal recovery protocols.
               </p>
@@ -330,9 +330,9 @@ export default function BNPLDefaultPage() {
             </section>
 
             <section id="settlement-process" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 How to Settle Buy Now Pay Later Debt
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-8">
                 If you are trapped in a debt spiral with multiple BNPL apps, a formal debt settlement is the fastest way to stop the harassment and close the accounts permanently.
               </p>
@@ -341,7 +341,7 @@ export default function BNPLDefaultPage() {
                 <div className="flex gap-6">
                   <div className="flex-shrink-0 w-12 h-12 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center font-black text-xl shadow-lg">1</div>
                   <div>
-                    <h3 className="text-2xl font-bold text-[#2E2E2E] mb-3">Consolidate the Mess</h3>
+                    <h4 className="text-2xl font-bold text-[#2E2E2E] mb-3">Consolidate the Mess</h4>
                     <p className="text-lg text-gray-700">Most defaulters have 3-4 different BNPL apps active. List out the exact principal outstanding for each app, completely separating it from the absurd penalty charges they have added.</p>
                   </div>
                 </div>
@@ -349,7 +349,7 @@ export default function BNPLDefaultPage() {
                 <div className="flex gap-6">
                   <div className="flex-shrink-0 w-12 h-12 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center font-black text-xl shadow-lg">2</div>
                   <div>
-                    <h3 className="text-2xl font-bold text-[#2E2E2E] mb-3">Halt Recovery Harassment</h3>
+                    <h4 className="text-2xl font-bold text-[#2E2E2E] mb-3">Halt Recovery Harassment</h4>
                     <p className="text-lg text-gray-700">Send an official communication to the NBFC's grievance officer (not the app's customer support) citing RBI guidelines against harassment and stating your intent to settle due to extreme financial hardship.</p>
                   </div>
                 </div>
@@ -357,7 +357,7 @@ export default function BNPLDefaultPage() {
                 <div className="flex gap-6">
                   <div className="flex-shrink-0 w-12 h-12 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center font-black text-xl shadow-lg">3</div>
                   <div>
-                    <h3 className="text-2xl font-bold text-[#2E2E2E] mb-3">Negotiate the Waiver</h3>
+                    <h4 className="text-2xl font-bold text-[#2E2E2E] mb-3">Negotiate the Waiver</h4>
                     <p className="text-lg text-gray-700">NBFCs know that pursuing legal action for a ₹15,000 debt costs them more than the debt itself. Professional negotiators can often secure a complete waiver of all late fees, penalties, and even a 40-50% discount on the original principal amount.</p>
                   </div>
                 </div>
@@ -365,7 +365,7 @@ export default function BNPLDefaultPage() {
                 <div className="flex gap-6">
                   <div className="flex-shrink-0 w-12 h-12 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center font-black text-xl shadow-lg">4</div>
                   <div>
-                    <h3 className="text-2xl font-bold text-[#2E2E2E] mb-3">Get the Settlement Letter</h3>
+                    <h4 className="text-2xl font-bold text-[#2E2E2E] mb-3">Get the Settlement Letter</h4>
                     <p className="text-lg text-gray-700">Never pay based on a phone call with a recovery agent. Demand a formal Settlement Letter from the NBFC explicitly stating the agreed amount will be considered as "Full and Final Settlement". Once paid, ensure your CIBIL updates to "Settled" status.</p>
                   </div>
                 </div>
@@ -373,7 +373,7 @@ export default function BNPLDefaultPage() {
             </section>
 
             <section id="success-stories" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">Client Success Stories</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">Client Success Stories</h3>
               <div className="grid md:grid-cols-2 gap-6">
                 {/* Story 1 */}
                 <div className="bg-white p-8 rounded-[30px] border border-[#DEDEDE] shadow-sm hover:shadow-xl group transition-all">
@@ -382,7 +382,7 @@ export default function BNPLDefaultPage() {
                       R
                     </div>
                     <div>
-                      <h3 className="font-bold text-[#2E2E2E]">Rahul S.</h3>
+                      <h4 className="font-bold text-[#2E2E2E]">Rahul S.</h4>
                       <div className="flex text-yellow-400">
                         <svg className="w-4 h-4 fill-current" viewBox="0 0 20 20"><path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z"/></svg>
                         <svg className="w-4 h-4 fill-current" viewBox="0 0 20 20"><path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z"/></svg>
@@ -406,7 +406,7 @@ export default function BNPLDefaultPage() {
                       N
                     </div>
                     <div>
-                      <h4 className="font-bold text-[#2E2E2E]">Neha P.</h4>
+                      <h5 className="font-bold text-[#2E2E2E]">Neha P.</h5>
                       <div className="flex text-yellow-400">
                         <svg className="w-4 h-4 fill-current" viewBox="0 0 20 20"><path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z"/></svg>
                         <svg className="w-4 h-4 fill-current" viewBox="0 0 20 20"><path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z"/></svg>
@@ -426,7 +426,7 @@ export default function BNPLDefaultPage() {
             </section>
 
             <section id="faqs" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">Frequently Asked Questions</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">Frequently Asked Questions</h3>
               <div className="space-y-4">
                 {[
                   { q: "Can a ₹10,000 BNPL default ruin my CIBIL score?", a: "Yes. Even a small default of ₹5,000 or ₹10,000 on BNPL platforms is reported to credit bureaus as a defaulted personal loan by their partner NBFCs, leading to a massive drop in your CIBIL score." },
@@ -441,7 +441,7 @@ export default function BNPLDefaultPage() {
                   { q: "Can a debt settlement company help me with BNPL loans?", a: "Yes, specialized negotiators can consolidate multiple BNPL defaults and communicate directly with the NBFCs to secure a structured and highly discounted settlement on your behalf." }
                 ].map((faq, i) => (
                   <div key={i} className="bg-white border border-[#DEDEDE] rounded-xl p-6 hover:shadow-md transition-shadow">
-                    <h3 className="font-bold text-lg text-[#2E2E2E] mb-2">{faq.q}</h3>
+                    <h4 className="font-bold text-lg text-[#2E2E2E] mb-2">{faq.q}</h4>
                     <p className="text-gray-700">{faq.a}</p>
                   </div>
                 ))}
@@ -452,7 +452,7 @@ export default function BNPLDefaultPage() {
             <div className="bg-[#2E2E2E] text-white p-12 rounded-[40px] text-center mt-24 relative overflow-hidden group">
               <div className="absolute inset-0 bg-[#1F5EFF] opacity-0 group-hover:opacity-5 transition-opacity duration-500"></div>
               <div className="relative z-10">
-                <h3 className="text-3xl md:text-4xl font-black mb-6">Trapped in Multiple BNPL Defaults?</h3>
+                <h4 className="text-3xl md:text-4xl font-black mb-6">Trapped in Multiple BNPL Defaults?</h4>
                 <p className="text-xl text-gray-300 mb-8 max-w-2xl mx-auto">
                   Trapped in a cycle of high-interest Buy Now Pay Later (BNPL) debt from multiple apps? Let our negotiators consolidate and settle your micro-loans at a massive discount.
                 </p>

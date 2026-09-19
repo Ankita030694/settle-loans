@@ -211,7 +211,7 @@ export default function TradingLoanSettlementPage() {
                         </section>
 
                         <section id="what-is-trading-loan-settlement" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">What Exactly is Trading Loan Settlement?</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">What Exactly is Trading Loan Settlement?</h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 Trading loan settlement is a formal agreement between a borrower and a lender to resolve an outstanding debt for an amount that is less than the total balance owed. This typically happens when the borrower is in a state of financial hardship and cannot realistically repay the full amount. In the context of trading, this debt often arises from margin shortfalls, losses in leveraged positions, or loans taken against shares that have plummeted in value.
                             </p>
@@ -227,13 +227,13 @@ export default function TradingLoanSettlementPage() {
                         </section>
 
                         <section id="types-of-trading-loans" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">Common Types of Trading Debts in India: A Deep Dive</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">Common Types of Trading Debts in India: A Deep Dive</h3>
                             <p className="text-lg leading-relaxed mb-8">
                                 Debt in the trading world can take several forms, each with its own set of legal and financial implications. Understanding which type of debt you are dealing with is the first step in developing an effective settlement strategy.
                             </p>
                             <div className="space-y-6 mb-10">
                                 <div className="p-8 bg-gray-50 border-l-8 border-[#1F5EFF] rounded-r-2xl shadow-sm">
-                                    <h3 className="font-bold text-2xl mb-4 text-[#2E2E2E]">Margin Trading Facility (MTF)</h3>
+                                    <h4 className="font-bold text-2xl mb-4 text-[#2E2E2E]">Margin Trading Facility (MTF)</h4>
                                     <p className="text-base text-gray-700 leading-relaxed mb-4">
                                         MTF is a popular tool among retail traders. It allows you to buy stocks by paying only a portion of the value (the margin), while the broker lends you the rest. The stocks themselves serve as collateral. If the stock prices fall sharply, the broker will issue a margin call, asking you to add more funds or shares. If you fail to do so, the broker will sell your holdings to recover the loan. If the market is falling too fast, the sale proceeds may not even cover the interest, leaving you with a negative balance.
                                     </p>
@@ -242,7 +242,7 @@ export default function TradingLoanSettlementPage() {
                                     </p>
                                 </div>
                                 <div className="p-8 bg-gray-50 border-l-8 border-[#1F5EFF] rounded-r-2xl shadow-sm">
-                                    <h4 className="font-bold text-2xl mb-4 text-[#2E2E2E]">Loan Against Securities (LAS)</h4>
+                                    <h5 className="font-bold text-2xl mb-4 text-[#2E2E2E]">Loan Against Securities (LAS)</h5>
                                     <p className="text-base text-gray-700 leading-relaxed mb-4">
                                         LAS is typically offered by banks and NBFCs. Investors pledge their existing portfolios (stocks, mutual funds, or bonds) to get an overdraft facility. This liquidity is often used for further trading or business expansion. During market crashes, the "Value at Risk" increases, and the lender may demand immediate repayment or more collateral. If the investor cannot provide this, the bank liquidates the pledged shares.
                                     </p>
@@ -251,7 +251,7 @@ export default function TradingLoanSettlementPage() {
                                     </p>
                                 </div>
                                 <div className="p-8 bg-gray-50 border-l-8 border-[#1F5EFF] rounded-r-2xl shadow-sm">
-                                    <h4 className="font-bold text-2xl mb-4 text-[#2E2E2E]">Unsecured Business Trading Loans</h4>
+                                    <h5 className="font-bold text-2xl mb-4 text-[#2E2E2E]">Unsecured Business Trading Loans</h5>
                                     <p className="text-base text-gray-700 leading-relaxed mb-4">
                                         Professional traders who operate as proprietary firms or SMEs often take unsecured working capital loans. These loans don't have stock collateral but are backed by the business's turnover and the owner's personal guarantee. When a "black swan" event hits the market, the trading capital is wiped out, but the high interest EMI continues.
                                     </p>
@@ -263,7 +263,7 @@ export default function TradingLoanSettlementPage() {
                         </section>
 
                         <section id="why-traders-face-financial-distress" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">The Crisis of Market Leverage: The Hidden Trap</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">The Crisis of Market Leverage: The Hidden Trap</h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 Leverage is often marketed as a "force multiplier" for wealth, but it is equally a force multiplier for disaster. In the Indian stock market, which is susceptible to global cues, political shifts, and sudden regulatory changes, a leveraged position can become a liability overnight.
                             </p>
@@ -279,32 +279,32 @@ export default function TradingLoanSettlementPage() {
                         </section>
 
                         <section id="legal-rights-of-borrowers" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">Legal Protections for Traders: Your Shield Against Harassment</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">Legal Protections for Traders: Your Shield Against Harassment</h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 Even in default, you are protected by the law of the land. The Reserve Bank of India (RBI) and the various High Courts have made it clear that "debt recovery cannot be done at the cost of human dignity." Understanding your rights is the first step in regaining control of your life.
                             </p>
                             <div className="grid md:grid-cols-2 gap-8 mb-10">
                                 <div className="p-6 bg-white border border-[#DEDEDE] rounded-xl">
-                                    <h3 className="font-bold text-[#1F5EFF] mb-3">Protection from Harassment</h3>
+                                    <h4 className="font-bold text-[#1F5EFF] mb-3">Protection from Harassment</h4>
                                     <p className="text-sm">Recovery agents must follow the RBI's Fair Practices Code. They cannot call you before 8 AM or after 7 PM. They cannot use physical force, abusive language, or contact your social circle to shame you. If they do, you have the right to file a complaint with the Banking Ombudsman and seek damages.</p>
                                 </div>
                                 <div className="p-6 bg-white border border-[#DEDEDE] rounded-xl">
-                                    <h4 className="font-bold text-[#1F5EFF] mb-3">Right to a Fair Notice</h4>
+                                    <h5 className="font-bold text-[#1F5EFF] mb-3">Right to a Fair Notice</h5>
                                     <p className="text-sm">Brokers must give you a reasonable opportunity to meet a margin call before selling your shares. In the case of bank loans, you must be served a 13(2) notice under the SARFAESI Act, giving you 60 days to respond. Any shortcut taken by the lender makes their recovery action legally void.</p>
                                 </div>
                                 <div className="p-6 bg-white border border-[#DEDEDE] rounded-xl">
-                                    <h4 className="font-bold text-[#1F5EFF] mb-3">Right to Privacy</h4>
+                                    <h5 className="font-bold text-[#1F5EFF] mb-3">Right to Privacy</h5>
                                     <p className="text-sm">Your financial distress is a private matter. Lenders are prohibited from disclosing your debt details to your employer, neighbors, or relatives. Any such disclosure is a breach of the "Duty of Confidentiality" that every bank owes its customers.</p>
                                 </div>
                                 <div className="p-6 bg-white border border-[#DEDEDE] rounded-xl">
-                                    <h4 className="font-bold text-[#1F5EFF] mb-3">Right to Negotiate</h4>
+                                    <h5 className="font-bold text-[#1F5EFF] mb-3">Right to Negotiate</h5>
                                     <p className="text-sm">Settlement is a legitimate form of dispute resolution. The RBI encourages banks to resolve NPAs through compromises to avoid overloading the legal system. You have every right to approach your lender with a reasonable settlement offer based on your financial capacity.</p>
                                 </div>
                             </div>
                         </section>
 
                         <section id="settlement-process-steps" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">The Trading Loan Settlement Process: A Strategic Roadmap</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">The Trading Loan Settlement Process: A Strategic Roadmap</h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 Settling a high stakes trading debt is not a simple transaction; it is a strategic negotiation. You are asking the lender to take a loss on their books, so you must give them a compelling reason to do so. Here is how we manage the process for our clients.
                             </p>
@@ -313,35 +313,35 @@ export default function TradingLoanSettlementPage() {
                                     <li className="flex items-start gap-4">
                                         <div className="w-8 h-8 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center font-bold flex-shrink-0 mt-1">1</div>
                                         <div>
-                                            <h3 className="font-bold text-lg mb-1">Financial Forensic Audit</h3>
+                                            <h4 className="font-bold text-lg mb-1">Financial Forensic Audit</h4>
                                             <p className="text-base text-gray-700">We start by auditing your trading history and bank statements. We look for errors in interest calculation, wrongful margin calls, or procedural lapses by the broker. This "technical leverage" is often the key to getting a bigger discount.</p>
                                         </div>
                                     </li>
                                     <li className="flex items-start gap-4">
                                         <div className="w-8 h-8 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center font-bold flex-shrink-0 mt-1">2</div>
                                         <div>
-                                            <h4 className="font-bold text-lg mb-1">Hardship Documentation</h4>
+                                            <h5 className="font-bold text-lg mb-1">Hardship Documentation</h5>
                                             <p className="text-base text-gray-700">We help you prepare a "Hardship File." This includes proof of your losses, your current asset liabilities statement, and any medical or family emergencies that have impacted your ability to pay. A bank needs this paper trail to justify a "haircut" to their auditors.</p>
                                         </div>
                                     </li>
                                     <li className="flex items-start gap-4">
                                         <div className="w-8 h-8 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center font-bold flex-shrink-0 mt-1">3</div>
                                         <div>
-                                            <h5 className="font-bold text-lg mb-1">Legal Cease and Desist</h5>
+                                            <h6 className="font-bold text-lg mb-1">Legal Cease and Desist</h6>
                                             <p className="text-base text-gray-700">If recovery agents are harassing you, our lawyers issue a formal notice. This shifts the communication from informal harassment to formal legal negotiation, giving you the mental peace to focus on the resolution.</p>
                                         </div>
                                     </li>
                                     <li className="flex items-start gap-4">
                                         <div className="w-8 h-8 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center font-bold flex-shrink-0 mt-1">4</div>
                                         <div>
-                                            <h5 className="font-bold text-lg mb-1">The Multi Round Negotiation</h5>
+                                            <h6 className="font-bold text-lg mb-1">The Multi Round Negotiation</h6>
                                             <p className="text-base text-gray-700">Lenders never accept the first offer. We engage in multiple rounds of negotiation with the bank's recovery department or the broker's management. We use our database of successful settlements to ensure you are not overpaying.</p>
                                         </div>
                                     </li>
                                     <li className="flex items-start gap-4">
                                         <div className="w-8 h-8 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center font-bold flex-shrink-0 mt-1">5</div>
                                         <div>
-                                            <h5 className="font-bold text-lg mb-1">Closing and No Dues Certificate</h5>
+                                            <h6 className="font-bold text-lg mb-1">Closing and No Dues Certificate</h6>
                                             <p className="text-base text-gray-700">Once the settlement is reached, we verify the "Acceptance Letter" to ensure it has no hidden clauses. After the payment, we ensure the lender issues a "No Dues Certificate" (NDC) and updates the credit bureaus correctly.</p>
                                         </div>
                                     </li>
@@ -350,7 +350,7 @@ export default function TradingLoanSettlementPage() {
                         </section>
 
                         <section id="impact-on-credit-score" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">CIBIL Score and Settlement: Rebuilding from the Ashes</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">CIBIL Score and Settlement: Rebuilding from the Ashes</h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 One of the biggest fears traders have is the impact of settlement on their credit score. It is true that a settlement will mark your credit report with the status "Settled." This status stays on your report for seven years and makes it difficult to get unsecured loans or credit cards in the short term.
                             </p>
@@ -373,12 +373,12 @@ export default function TradingLoanSettlementPage() {
                         </section>
 
                         <section id="tax-implications-india" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">Tax Laws on Debt Waivers: The Accountant's Perspective</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">Tax Laws on Debt Waivers: The Accountant's Perspective</h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 In the eyes of the Income Tax Department, "money saved is money earned." When a lender waives a part of your debt, they are essentially giving you a financial benefit. This benefit may be taxable under various provisions of the Income Tax Act.
                             </p>
                             <div className="bg-gray-50 p-8 rounded-xl border border-gray-200 my-8">
-                                <h3 className="font-bold text-xl mb-4">Detailed Tax Breakdown:</h3>
+                                <h4 className="font-bold text-xl mb-4">Detailed Tax Breakdown:</h4>
                                 <ul className="space-y-6">
                                     <li className="flex items-start">
                                         <span className="text-[#1F5EFF] mr-2">✔</span>
@@ -404,7 +404,7 @@ export default function TradingLoanSettlementPage() {
                         </section>
 
                         <section id="comparison-table" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">Choosing Your Path: Settlement vs. Others</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">Choosing Your Path: Settlement vs. Others</h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 When you are in financial distress, you have three main paths. Here is how they compare in the Indian context.
                             </p>
@@ -449,7 +449,7 @@ export default function TradingLoanSettlementPage() {
                         </section>
 
                         <section id="psychological-impact" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">The Psychological Impact of Trading Losses and Debt: Breaking the Silence</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">The Psychological Impact of Trading Losses and Debt: Breaking the Silence</h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 Trading is one of the few professions where you can do everything "right": follow your system, manage your risk, stick to your plan, and still lose. For a trader, the loss of capital is often tied to a loss of identity. When you add the burden of debt to this, it creates a perfect storm of anxiety, depression, and social isolation. The "silent struggle" of the Indian trader is a reality that is rarely discussed in the glitzy world of financial influencers.
                             </p>
@@ -462,7 +462,7 @@ export default function TradingLoanSettlementPage() {
                         </section>
 
                         <section id="future-of-trading-debt" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">The Future of Trading Debt in India: New Regulations and Risks</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">The Future of Trading Debt in India: New Regulations and Risks</h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 The landscape of trading and debt in India is undergoing a massive transformation. With SEBI tightening the norms on "naked" options selling and the RBI closely monitoring the digital lending space, the "easy money" era of unlimited leverage is coming to an end. However, new risks are emerging in the form of "fintech" margin products that often operate in a regulatory gray area.
                             </p>
@@ -475,7 +475,7 @@ export default function TradingLoanSettlementPage() {
                         </section>
 
                         <section id="choosing-expert-counsel" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">Why Professional Settlement Help Matters: Closing the Loop</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">Why Professional Settlement Help Matters: Closing the Loop</h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 Dealing with banks and brokers is not a fair fight. They have teams of lawyers, recovery specialists, and massive institutional resources. A lone trader, already under immense stress, often makes mistakes that can ruin their chances of a good settlement. For instance, making a "partial payment" without a formal settlement letter can reset the "limitation period," giving the bank another three years to sue you.
                             </p>
@@ -489,7 +489,7 @@ export default function TradingLoanSettlementPage() {
 
 
                         <section id="success-stories" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 text-center">Traders Financial Success History</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 text-center">Traders Financial Success History</h3>
                             <div className="grid md:grid-cols-2 gap-10 not-prose">
                                 {[
                                     {
@@ -527,7 +527,7 @@ export default function TradingLoanSettlementPage() {
                                         <div className="flex items-center mb-4">
                                             <div className="w-10 h-10 rounded-full bg-blue-100 flex items-center justify-center font-bold text-blue-600 mr-3">{review.name.split(' ')[0][0]}</div>
                                             <div>
-                                                <h3 className="font-bold text-[#2E2E2E]">{review.name}</h3>
+                                                <h4 className="font-bold text-[#2E2E2E]">{review.name}</h4>
                                                 <p className="text-xs text-gray-400">{review.loc}</p>
                                             </div>
                                             <div className="ml-auto text-yellow-400 text-sm">★★★★★</div>
@@ -542,7 +542,7 @@ export default function TradingLoanSettlementPage() {
                         </section>
 
                         <section id="helpful-resources" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">Helpful Resources for Debt Resolution</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">Helpful Resources for Debt Resolution</h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 If you are looking for more information on how to manage your debts or legal challenges, we recommend exploring these resources from our site. These guides are curated from our sitemap and provide expert insights into various aspects of debt resolution in India.
                             </p>
@@ -569,7 +569,7 @@ export default function TradingLoanSettlementPage() {
                         </section>
 
                         <section id="faqs" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Trading Loan Settlement FAQs</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Trading Loan Settlement FAQs</h3>
                             <div className="space-y-6 not-prose">
                                 {[
                                     { q: "Is trading loan settlement legal in India?", a: "Yes, loan settlement is a perfectly legal process where two parties agree to a compromise. It is a standard practice for resolving Non Performing Assets (NPAs) in the banking sector and is recognized by the RBI as a valid way to clean up balance sheets." },
@@ -600,7 +600,7 @@ export default function TradingLoanSettlementPage() {
 
 
                         <div className="mt-16 p-8 bg-[#1F5EFF] rounded-3xl text-white text-center">
-                            <h2 className="text-3xl font-black mb-6">Reclaim Your Financial Future Today</h2>
+                            <h3 className="text-3xl font-black mb-6">Reclaim Your Financial Future Today</h3>
                             <p className="text-xl mb-8 opacity-90">
                                 Trading losses shouldn't define your life. Our expert advocates are ready to help you settle your debts and start fresh.
                             </p>

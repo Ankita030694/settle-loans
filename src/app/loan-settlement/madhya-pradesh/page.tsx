@@ -239,7 +239,7 @@ const Page = () => {
                     </section>
 
                     <section id="mp-money-lenders-act" className="scroll-mt-32 mb-16">
-                        <h2 className="text-3xl font-black mb-6">The Madhya Pradesh Money Lenders Act and Your Rights</h2>
+                        <h3 className="text-3xl font-black mb-6">The Madhya Pradesh Money Lenders Act and Your Rights</h3>
                         <p>For those who have borrowed from private sources, the Madhya Pradesh Money Lenders Act, 1934, along with its recent 2020 amendments, provides a robust framework for protection. This Act was designed to prevent the exploitation of borrowers by unregulated lenders and to ensure that credit practices in the state remain within legal boundaries.</p>
                         <p>One of the most significant aspects of the 2020 amendment is the inclusion of Non Banking Financial Companies (NBFCs) under certain provisions. This ensures that even modern digital lenders must adhere to state regulated interest rate caps. If a lender in Madhya Pradesh is charging interest rates that exceed the government's notified limits, the loan contract itself can be challenged in a court of law. This serves as a massive point of leverage for borrowers who find themselves trapped in usurious debt cycles.</p>
                         <p>Furthermore, the Act mandates that every money lender in Madhya Pradesh must be registered and hold a valid license. Any loan provided by an unregistered lender is legally unrecoverable. This means that if you have borrowed from an unlicensed source in places like Satna or Rewa, the lender cannot use the legal machinery to force repayment. At SettleLoans, we help our clients audit their loan agreements to identify such legal lapses. When we find that a lender has violated the MP Money Lenders Act, we use this information to negotiate aggressive waivers, often reducing the debt to just a fraction of the original claim.</p>
@@ -247,7 +247,7 @@ const Page = () => {
                     </section>
 
                     <section id="lok-adalat-mp-solutions" className="scroll-mt-32 mb-16">
-                        <h2 className="text-3xl font-black mb-6">Leveraging Lok Adalats for Debt Resolution in MP</h2>
+                        <h3 className="text-3xl font-black mb-6">Leveraging Lok Adalats for Debt Resolution in MP</h3>
                         <p>Madhya Pradesh has one of the most proactive State Legal Services Authorities (MPSLSA) in the country. The Lok Adalats, or 'People's Courts', are a cornerstone of debt resolution in the state. These forums provide a platform where disputes between banks and borrowers can be settled amicably, without the need for prolonged litigation and expensive court fees.</p>
                         <p>National Lok Adalats are held regularly in Bhopal, Indore, Gwalior, and Jabalpur, as well as in smaller district courts. These sessions are specifically designed to handle 'Pre Litigation' and 'Pending' cases involving bank loans and credit cards. The beauty of a Lok Adalat settlement is its finality. Once an award is passed, it has the same status as a civil court decree. It is binding on both the bank and the borrower, and it cannot be appealed in a higher court. This provides an absolute 'No Dues' certificate and a clean break from the debt.</p>
                         <p>However, many borrowers in MP are hesitant to attend Lok Adalats because they feel intimidated by the presence of bank officials and legal staff. This is where SettleLoans provides a critical advantage. We act as your professional advocates in the Lok Adalat process. We engage with the bank's regional credit managers weeks before the session, presenting your hardship case and negotiating the settlement terms in advance. By the time the Lok Adalat date arrives, we often have a pre agreed figure that is significantly lower than the bank's initial demand.</p>
@@ -255,7 +255,7 @@ const Page = () => {
                     </section>
 
                     <section id="banking-harassment-redressal" className="scroll-mt-32 mb-16">
-                        <h2 className="text-3xl font-black mb-6">Stopping Bank Harassment in Bhopal and Indore</h2>
+                        <h3 className="text-3xl font-black mb-6">Stopping Bank Harassment in Bhopal and Indore</h3>
                         <p>One of the most distressing aspects of debt is the constant harassment by recovery agents. In the urban centers of Madhya Pradesh like Bhopal and Indore, where mobile connectivity and digital tracking are high, borrowers often face a barrage of calls, messages, and even unauthorized visits. It is important to remember that such practices are a direct violation of the Reserve Bank of India (RBI) guidelines and your fundamental right to privacy.</p>
                         <p>The RBI's Fair Practices Code clearly states that recovery agents cannot contact you before 8:00 AM or after 7:00 PM. They cannot use abusive language, they cannot contact your friends or relatives to shame you, and they cannot enter your premises without proper identification and authorization. If you are experiencing such behavior in MP, you have the right to seek legal redress.</p>
                         <p>At SettleLoans, the first step we take for our clients is to issue a formal 'Legal Representation Notice' to all creditors. This notice informs the bank and its recovery agencies that you are now legally represented by our firm. It demands that all future communication regarding the debt must be directed to our legal team. This single action typically stops about 90% of the harassment calls within a few days. It creates a 'Blast Wall' between you and the recovery agents, giving you the mental space to focus on your recovery.</p>
@@ -263,7 +263,7 @@ const Page = () => {
                     </section>
 
                     <section id="kcc-debt-relief-farmers" className="scroll-mt-32 mb-16">
-                        <h2 className="text-3xl font-black mb-6">Kisan Credit Card (KCC) Settlement for MP Farmers</h2>
+                        <h3 className="text-3xl font-black mb-6">Kisan Credit Card (KCC) Settlement for MP Farmers</h3>
                         <p>Madhya Pradesh is the agricultural backbone of India, and its farmers are often the most vulnerable to debt cycles. The Kisan Credit Card (KCC) is a common financial tool in the rural belts of Malwa, Nimar, and Bundelkhand. While KCC offers low interest credit for farming needs, several factors like erratic rainfall, pest attacks, or fluctuating market prices can lead to a default.</p>
                         <p>For an MP farmer, a KCC default is not just a financial issue; it is a threat to their livelihood and ancestral land. Banks often use the specter of land seizure to pressure farmers into paying. However, it is essential to know that there are specific protections for agricultural debt. Many of these loans are covered under state sponsored debt relief schemes or periodically announced One Time Settlement (OTS) programs.</p>
                         <p>SettleLoans provides specialized services for KCC settlement. We help farmers navigate the complex bureaucratic requirements of public sector banks like SBI, Central Bank of India, and Bank of India, which have a massive presence in rural MP. We help you compile the necessary hardship proof, such as 'Girdawari' reports or certificates from local agricultural departments, to prove crop failure.</p>
@@ -271,7 +271,7 @@ const Page = () => {
                     </section>
 
                     <section id="mpfc-ots-scheme" className="scroll-mt-32 mb-16">
-                        <h2 className="text-3xl font-black mb-6">The MP Financial Corporation One Time Settlement (OTS)</h2>
+                        <h3 className="text-3xl font-black mb-6">The MP Financial Corporation One Time Settlement (OTS)</h3>
                         <p>For small and medium enterprise (SME) owners in Madhya Pradesh, the Madhya Pradesh Financial Corporation (MPFC) is a major lender. MPFC often provides loans for industrial units, machinery, and infrastructure. If your business has faced a downturn, perhaps due to the changes in the industrial climate of Pithampur or the textile shifts in Burhanpur, you might find yourself in default with the MPFC.</p>
                         <p>The good news is that MPFC regularly announces 'New One Time Settlement Schemes'. For example, the 2025 OTS scheme is specifically designed for Non Performing Asset (NPA) accounts. These schemes are non discretionary and non discriminatory, meaning if you meet the eligibility criteria, the corporation is mandated to offer you a settlement based on a pre defined formula.</p>
                         <p>However, navigating an MPFC settlement requires a technical understanding of their 'Recovery Policy'. The waivers usually apply to the penal interest and a part of the simple interest, while the principal is rarely waived entirely. We help business owners in MP conduct a thorough 'Cost Benefit Analysis' of these OTS schemes. We ensure that you are applying under the right category and that your documentation is flawless to avoid rejection.</p>
@@ -279,7 +279,7 @@ const Page = () => {
                     </section>
 
                     <section id="debt-trap-strategies" className="scroll-mt-32 mb-16">
-                        <h2 className="text-3xl font-black mb-6">Strategies to Escape the Unsecured Debt Trap</h2>
+                        <h3 className="text-3xl font-black mb-6">Strategies to Escape the Unsecured Debt Trap</h3>
                         <p>Unsecured debt, primarily in the form of credit cards and personal loans, is the most common cause of financial distress in urban MP. The trap often begins with 'Minimum Amount Due' payments. A borrower in Indore might feel that paying ₹5,000 on a ₹1 Lakh credit card bill is enough to stay afloat. In reality, they are only paying the interest and a small portion of taxes, while the principal remains untouched, compounding at rates as high as 45% per annum.</p>
                         <p>To escape this trap, one must stop digging. The first strategy we advocate at SettleLoans is the 'Strategic Default'. This is a controlled and legally backed decision to stop making these unproductive minimum payments. While this will impact your credit score and trigger recovery calls, it is a necessary step to force the bank to categorize your account as 'Distressed'. Banks do not negotiate settlements on healthy, paying accounts.</p>
                         <p>Once the account is in default, we build your 'Hardship Case'. We document all the interest and penalties you have already paid over the years. Often, we find that the borrower has already paid back more than the original principal in the form of charges and high interest. We present this audit to the bank, arguing that a settlement is the most logical way for them to recover their original investment while cleaning their books.</p>
@@ -287,7 +287,7 @@ const Page = () => {
                     </section>
 
                     <section id="legal-protections-borrowers" className="scroll-mt-32 mb-16">
-                        <h2 className="text-3xl font-black mb-6">Legal Protections for Borrowers Under Indian Law</h2>
+                        <h3 className="text-3xl font-black mb-6">Legal Protections for Borrowers Under Indian Law</h3>
                         <p>Beyond state specific laws, every citizen of Madhya Pradesh is protected by several national legal frameworks and Supreme Court rulings. Understanding these protections is vital to prevent intimidation.</p>
                         <p>First, the Indian Contract Act governs the relationship between you and the bank. If a bank has included unfair terms or if there was a lack of transparency in the loan agreement, it can be contested. Second, the SARFAESI Act, while powerful for secured loans, has very strict procedural requirements. A bank cannot simply sell your house in Gwalior without giving you multiple notices and a chance to appeal in the Debt Recovery Tribunal (DRT). For unsecured loans, your primary residence is generally protected from summary seizure.</p>
                         <p>Third, the Consumer Protection Act allows you to file a case against a bank for 'Deficiency in Service' or 'Unfair Trade Practices'. This is a highly effective tool if you have been wrongly charged, if your settlement was not updated, or if you faced harassment. The threat of a Consumer Court judgment, which often includes a penalty for the bank and compensation for the borrower, is a major leveler in the negotiation process.</p>
@@ -295,7 +295,7 @@ const Page = () => {
                     </section>
 
                     <section id="rebuilding-credit-mp" className="scroll-mt-32 mb-16">
-                        <h2 className="text-3xl font-black mb-6">Rebuilding Your CIBIL Score in Madhya Pradesh</h2>
+                        <h3 className="text-3xl font-black mb-6">Rebuilding Your CIBIL Score in Madhya Pradesh</h3>
                         <p>A common fear is that loan settlement will 'ruin' your financial future. It is true that a 'Settled' remark will appear on your CIBIL report and your score will drop initially. However, think of this as a reset button. An active default or a 'Suit Filed' status is far more damaging and prevents you from moving forward. A settlement shows that you have closed the liability and have no more outstanding obligations.</p>
                         <p>Rebuilding your credit score in Madhya Pradesh is a structured process that takes about 12 to 24 months. Once you have your No Dues Certificate, the first step is to ensure that the bank has updated the status with all four credit bureaus (CIBIL, Equifax, Experian, and CRIF). If they fail to do so, we help you file the necessary disputes to rectify your record.</p>
                         <p>The most effective way to start the recovery is through a 'Secured Credit Card'. Many banks in MP, like ICICI Bank or HDFC Bank, offer credit cards against a small Fixed Deposit (starting from ₹20,000). By using this card for small monthly expenses and paying the bill in full every month, you start creating a fresh, positive credit history. This 'New History' eventually outweighs the 'Settled' remarks from your past.</p>
@@ -303,13 +303,13 @@ const Page = () => {
                     </section>
 
                     <section id="success-stories-heart-of-india" className="scroll-mt-32 mb-16 text-center">
-                        <h2 className="text-4xl font-black mb-12">Success Stories from the Heart of India</h2>
+                        <h3 className="text-4xl font-black mb-12">Success Stories from the Heart of India</h3>
                         <div className="grid md:grid-cols-2 gap-8 not-prose">
                             <div className="bg-white p-8 rounded-3xl border border-[#DEDEDE] shadow-xl hover:shadow-2xl transition-all h-full flex flex-col">
                                 <div className="flex items-center mb-6">
                                     <div className="w-14 h-14 rounded-full bg-[#1F5EFF]/10 flex items-center justify-center font-bold text-[#1F5EFF] text-xl mr-4">A</div>
                                     <div className="text-left">
-                                        <h3 className="font-black text-xl">Aditya S.</h3>
+                                        <h4 className="font-black text-xl">Aditya S.</h4>
                                         <p className="text-sm text-gray-500">Indore, MP</p>
                                     </div>
                                     <div className="ml-auto text-yellow-500">★★★★★</div>
@@ -324,7 +324,7 @@ const Page = () => {
                                 <div className="flex items-center mb-6">
                                     <div className="w-14 h-14 rounded-full bg-[#1F5EFF]/10 flex items-center justify-center font-bold text-[#1F5EFF] text-xl mr-4">R</div>
                                     <div className="text-left">
-                                        <h4 className="font-black text-xl">Rajesh M.</h4>
+                                        <h5 className="font-black text-xl">Rajesh M.</h5>
                                         <p className="text-sm text-gray-500">Vidisha, MP</p>
                                     </div>
                                     <div className="ml-auto text-yellow-500">★★★★★</div>
@@ -339,7 +339,7 @@ const Page = () => {
                     </section>
 
                     <section id="faqs-madhya-pradesh" className="scroll-mt-32 mb-16">
-                        <h2 className="text-3xl font-black mb-8">Madhya Pradesh Loan Settlement FAQs</h2>
+                        <h3 className="text-3xl font-black mb-8">Madhya Pradesh Loan Settlement FAQs</h3>
                         <div className="space-y-4 not-prose">
                             {faqData.map((faq, i) => (
                                 <details key={i} className="group bg-white border border-[#DEDEDE] rounded-xl overflow-hidden hover:shadow-md transition-all">
@@ -358,7 +358,7 @@ const Page = () => {
                     </section>
 
                     <section className="mt-16 bg-[#1F5EFF] rounded-3xl p-10 text-center text-white shadow-2xl">
-                        <h2 className="text-3xl md:text-4xl font-black mb-4">Reclaim Your Financial Independence in Madhya Pradesh</h2>
+                        <h3 className="text-3xl md:text-4xl font-black mb-4">Reclaim Your Financial Independence in Madhya Pradesh</h3>
                         <p className="mb-8 text-lg opacity-90 max-w-2xl mx-auto">From the industrial corridors of Indore to the administrative heart of Bhopal, we have helped MP families settle their debts with honor. Your path to a debt free life starts here.</p>
                         <div className="flex justify-center">
                             <Link href="/contact" className="inline-block bg-white text-[#1F5EFF] font-black py-4 px-12 rounded-xl hover:scale-105 transition-all text-xl shadow-lg">

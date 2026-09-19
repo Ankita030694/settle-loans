@@ -205,43 +205,43 @@ export default function IgnoringLegalNoticesPage() {
             </section>
 
             <section id="types-of-notices" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">Common Bank Notices Explained</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">Common Bank Notices Explained</h3>
               <p className="text-lg leading-relaxed mb-6">
                 Banks do not immediately file cases. They follow a step-by-step escalation matrix. Here are the most common notices borrowers receive and mistakenly ignore:
               </p>
 
               <div className="grid md:grid-cols-2 gap-6 my-8">
                 <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
-                  <h3 className="font-black text-[#1F5EFF] text-lg mb-3">Recall Notice</h3>
+                  <h4 className="font-black text-[#1F5EFF] text-lg mb-3">Recall Notice</h4>
                   <p className="text-base text-[#2E2E2E]/80">A notice demanding the repayment of the entire outstanding loan amount immediately because you breached the loan terms.</p>
                 </div>
                 <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
-                  <h3 className="font-black text-[#1F5EFF] text-lg mb-3">Arbitration Notice</h3>
+                  <h4 className="font-black text-[#1F5EFF] text-lg mb-3">Arbitration Notice</h4>
                   <p className="text-base text-[#2E2E2E]/80">Summons invoking the arbitration clause in your loan agreement to settle the dispute outside traditional courts.</p>
                 </div>
                 <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
-                  <h3 className="font-black text-[#1F5EFF] text-lg mb-3">Section 138 Notice</h3>
+                  <h4 className="font-black text-[#1F5EFF] text-lg mb-3">Section 138 Notice</h4>
                   <p className="text-base text-[#2E2E2E]/80">Sent when a security cheque or PDC bounces. This is a criminal offense notice carrying jail time if ignored.</p>
                 </div>
                 <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
-                  <h3 className="font-black text-[#1F5EFF] text-lg mb-3">SARFAESI Notice</h3>
+                  <h4 className="font-black text-[#1F5EFF] text-lg mb-3">SARFAESI Notice</h4>
                   <p className="text-base text-[#2E2E2E]/80">Issued under Section 13(2) for secured loans, giving the bank the right to auction your property without court intervention.</p>
                 </div>
               </div>
             </section>
 
             <section id="ex-parte-order" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">The Danger of an Ex-Parte Order</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">The Danger of an Ex-Parte Order</h3>
               
               <div className="bg-red-50 p-6 rounded-xl border border-red-100 mb-8">
-                <h3 className="text-xl font-black text-red-700 mb-4">What is an Ex-Parte Order?</h3>
+                <h4 className="text-xl font-black text-red-700 mb-4">What is an Ex-Parte Order?</h4>
                 <p className="text-lg text-red-900 leading-relaxed">
                   If the bank files a civil suit for recovery or initiates arbitration, you will be sent a summons to appear. If you ignore this summons or the notices leading up to it, the judge or arbitrator will proceed <strong>Ex-Parte</strong> (in your absence). Because you aren't there to defend yourself, the bank will win the case by default.
                 </p>
               </div>
 
               <div className="bg-blue-50 border-l-8 border-[#1F5EFF] p-8 rounded-r-2xl mb-8">
-                <h4 className="text-xl font-black text-[#1F5EFF] mb-4">Consequences of an Ex-Parte Order</h4>
+                <h5 className="text-xl font-black text-[#1F5EFF] mb-4">Consequences of an Ex-Parte Order</h5>
                 <div className="space-y-4">
                   <div className="flex items-start gap-3">
                     <div className="mt-1.5 w-2 h-2 rounded-full bg-[#1F5EFF] flex-shrink-0"></div>
@@ -260,7 +260,7 @@ export default function IgnoringLegalNoticesPage() {
             </section>
 
             <section id="section-138" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">Ignoring Section 138 Cheque Bounce Notice</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">Ignoring Section 138 Cheque Bounce Notice</h3>
               <p className="text-lg leading-relaxed mb-6">
                 If you <strong>ignore a Section 138 notice</strong>, you are walking directly into a trap. Under the Negotiable Instruments Act, bouncing a cheque is a criminal offense. Here is how the situation escalates rapidly if you throw the notice away:
               </p>
@@ -269,21 +269,21 @@ export default function IgnoringLegalNoticesPage() {
                 <div className="flex gap-6">
                   <div className="flex-shrink-0 w-12 h-12 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center font-black text-xl shadow-lg">1</div>
                   <div>
-                    <h3 className="text-2xl font-bold text-[#2E2E2E] mb-3">Statutory Period Expires</h3>
+                    <h4 className="text-2xl font-bold text-[#2E2E2E] mb-3">Statutory Period Expires</h4>
                     <p className="text-lg text-[#2E2E2E]/80">The notice gives you 15 days to pay the cheque amount. By ignoring it, this window closes, and the bank gets the legal right to file a criminal complaint.</p>
                   </div>
                 </div>
                 <div className="flex gap-6">
                   <div className="flex-shrink-0 w-12 h-12 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center font-black text-xl shadow-lg">2</div>
                   <div>
-                    <h3 className="text-2xl font-bold text-[#2E2E2E] mb-3">Court Issues Summons</h3>
+                    <h4 className="text-2xl font-bold text-[#2E2E2E] mb-3">Court Issues Summons</h4>
                     <p className="text-lg text-[#2E2E2E]/80">The magistrate registers the criminal case and issues summons commanding you to appear in court on a specific date.</p>
                   </div>
                 </div>
                 <div className="flex gap-6">
                   <div className="flex-shrink-0 w-12 h-12 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center font-black text-xl shadow-lg">3</div>
                   <div>
-                    <h3 className="text-2xl font-bold text-[#2E2E2E] mb-3">Non-Bailable Warrant Issued</h3>
+                    <h4 className="text-2xl font-bold text-[#2E2E2E] mb-3">Non-Bailable Warrant Issued</h4>
                     <p className="text-lg text-[#2E2E2E]/80">If you continue to ignore the court summons, the magistrate will issue a Non-Bailable Warrant (NBW) for your arrest.</p>
                   </div>
                 </div>
@@ -291,13 +291,13 @@ export default function IgnoringLegalNoticesPage() {
             </section>
 
             <section id="financial-consequences" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">Financial & Default Consequences</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">Financial & Default Consequences</h3>
               <p className="text-lg leading-relaxed mb-6">
                 Beyond the immediate legal risks of ignoring a notice, the long-term financial consequences are severe and can cripple your economic stability for years.
               </p>
 
               <div className="bg-gray-50 p-8 rounded-2xl mb-8 border border-gray-200">
-                <h3 className="text-2xl font-black text-[#2E2E2E] mb-4">Complete Credit Destruction</h3>
+                <h4 className="text-2xl font-black text-[#2E2E2E] mb-4">Complete Credit Destruction</h4>
                 <p className="text-lg text-[#2E2E2E]/80 leading-relaxed">
                   Ignoring a legal notice equates to abandoning the debt. Your lender will mark your account as a 'Wilful Defaulter' or 'Written Off' in your CIBIL report. Your credit score will plummet, and you will be blacklisted from obtaining loans, credit cards, or mortgages from any regulated financial institution in India for up to 7 years.
                 </p>
@@ -305,13 +305,13 @@ export default function IgnoringLegalNoticesPage() {
             </section>
 
             <section id="action-plan" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">How to Respond to a Bank Notice</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">How to Respond to a Bank Notice</h3>
               <p className="text-lg leading-relaxed mb-6">
                 If you have received a legal notice, do not panic. Follow this strategic action plan to protect your rights:
               </p>
 
               <div className="bg-blue-50 border-l-8 border-[#1F5EFF] p-8 rounded-r-2xl mb-8">
-                <h3 className="text-xl font-black text-[#1F5EFF] mb-4">Strategic Steps to Take</h3>
+                <h4 className="text-xl font-black text-[#1F5EFF] mb-4">Strategic Steps to Take</h4>
                 <div className="space-y-4">
                   <div className="flex items-start gap-3">
                     <div className="mt-1.5 w-2 h-2 rounded-full bg-[#1F5EFF] flex-shrink-0"></div>
@@ -330,7 +330,7 @@ export default function IgnoringLegalNoticesPage() {
             </section>
 
             <section id="success-stories" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">Client Success Stories</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">Client Success Stories</h3>
               <div className="grid md:grid-cols-2 gap-8 my-8">
                 <div className="bg-white p-8 rounded-[30px] border border-[#DEDEDE] shadow-sm hover:shadow-xl group transition-all">
                   <div className="flex items-center gap-4 mb-6">
@@ -338,7 +338,7 @@ export default function IgnoringLegalNoticesPage() {
                       RM
                     </div>
                     <div>
-                      <h3 className="font-black text-[#2E2E2E] text-lg">Rahul M.</h3>
+                      <h4 className="font-black text-[#2E2E2E] text-lg">Rahul M.</h4>
                       <div className="flex text-yellow-400">
                         <svg className="w-4 h-4 fill-current" viewBox="0 0 20 20"><path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z"/></svg>
                         <svg className="w-4 h-4 fill-current" viewBox="0 0 20 20"><path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z"/></svg>
@@ -361,7 +361,7 @@ export default function IgnoringLegalNoticesPage() {
                       ST
                     </div>
                     <div>
-                      <h4 className="font-black text-[#2E2E2E] text-lg">Sonia T.</h4>
+                      <h5 className="font-black text-[#2E2E2E] text-lg">Sonia T.</h5>
                       <div className="flex text-yellow-400">
                         <svg className="w-4 h-4 fill-current" viewBox="0 0 20 20"><path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z"/></svg>
                         <svg className="w-4 h-4 fill-current" viewBox="0 0 20 20"><path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z"/></svg>
@@ -381,7 +381,7 @@ export default function IgnoringLegalNoticesPage() {
             </section>
 
             <section id="faq" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">Frequently Asked Questions</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">Frequently Asked Questions</h3>
               
               <div className="space-y-4">
                 {[
@@ -415,7 +415,7 @@ export default function IgnoringLegalNoticesPage() {
             <div className="bg-[#2E2E2E] text-white p-12 rounded-[40px] text-center mt-24 relative overflow-hidden group">
               <div className="absolute inset-0 bg-[#1F5EFF] opacity-0 group-hover:opacity-5 transition-opacity"></div>
               <div className="relative z-10">
-                <h3 className="text-3xl md:text-5xl font-black mb-6 tracking-tight">Stop the Ex-Parte Order Now.</h3>
+                <h4 className="text-3xl md:text-5xl font-black mb-6 tracking-tight">Stop the Ex-Parte Order Now.</h4>
                 <p className="text-xl md:text-2xl text-gray-300 mb-10 max-w-2xl mx-auto font-medium">
                   Have you ignored bank notices? Let our expert lawyers draft a powerful reply and negotiate a final settlement to close your loan legally.
                 </p>

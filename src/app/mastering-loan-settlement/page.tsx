@@ -206,7 +206,7 @@ export default function MasteringLoanSettlementPage() {
           </section>
 
           <section id="understanding" className="scroll-mt-32 mb-16">
-            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">Understanding Loan Settlement: What You Need to Know</h2>
+            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">Understanding Loan Settlement: What You Need to Know</h3>
             <div className="space-y-6 text-lg leading-relaxed text-[#2E2E2E]/80">
               <p>
                 Loan settlement is a financial strategy that involves negotiating with your creditors to reduce the total amount of debt you owe. This process can be particularly beneficial for those who are struggling to keep up with their loan repayments and are looking for a way to ease their financial burden. Essentially, loan settlement allows you to pay a lump sum that is less than the full amount you owe, thus settling the debt for a reduced figure. This can be a viable option for various types of loans including credit card debt, personal loans, and even certain types of secured loans.
@@ -221,7 +221,7 @@ export default function MasteringLoanSettlementPage() {
           </section>
 
           <section id="importance" className="scroll-mt-32 mb-16">
-            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">The Importance of Negotiating Your Debt</h2>
+            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">The Importance of Negotiating Your Debt</h3>
             <div className="space-y-6 text-lg leading-relaxed text-[#2E2E2E]/80">
               <p>
                 Negotiating your debt can be a game-changer in your financial journey. One of the most significant benefits is the potential to reduce the total amount you owe. This can provide immediate financial relief and make it easier to manage your monthly expenses. By negotiating a lower payoff amount, you can free up funds that can be redirected towards other financial goals, such as saving for emergencies or investing for the future.
@@ -236,7 +236,7 @@ export default function MasteringLoanSettlementPage() {
           </section>
 
           <section id="eligible-loans" className="scroll-mt-32 mb-16">
-            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">Common Types of Loans Eligible for Settlement</h2>
+            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">Common Types of Loans Eligible for Settlement</h3>
             <div className="space-y-6 text-lg leading-relaxed text-[#2E2E2E]/80">
               <p>
                 When it comes to loan settlement, not all types of loans are created equal. Some loans are more commonly eligible for settlement than others, and understanding which ones can be negotiated is an important step in the process. Credit card debt is one of the most common types of loans that can be settled. Credit card companies are often willing to negotiate a settlement because they prefer to recover a portion of the debt rather than risk getting nothing if the debtor defaults.
@@ -251,7 +251,7 @@ export default function MasteringLoanSettlementPage() {
           </section>
 
           <section id="key-steps" className="scroll-mt-32 mb-16">
-            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">Preparing for Negotiation: Key Steps to Take</h2>
+            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">Preparing for Negotiation: Key Steps to Take</h3>
             <div className="space-y-6 text-lg leading-relaxed text-[#2E2E2E]/80">
               <p>
                 Preparing for debt negotiation is a crucial step that can significantly impact the outcome. The first step in this process is to thoroughly assess your financial situation. This includes creating a detailed budget that outlines your income, expenses, and the total amount of debt you owe. Having a clear understanding of your financial position will help you determine how much you can realistically afford to offer as a settlement.
@@ -266,7 +266,7 @@ export default function MasteringLoanSettlementPage() {
           </section>
 
           <section id="strategies" className="scroll-mt-32 mb-16">
-            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">Strategies for Effective Debt Negotiation</h2>
+            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">Strategies for Effective Debt Negotiation</h3>
             <div className="space-y-6 text-lg leading-relaxed text-[#2E2E2E]/80">
               <p>
                 Effective debt negotiation requires a strategic approach. One of the most important strategies is to initiate the negotiation process early. The sooner you reach out to your creditors, the more options you may have available. Proactively communicating with your creditors can demonstrate your willingness to resolve the debt and may increase the likelihood of a favorable settlement.
@@ -281,7 +281,7 @@ export default function MasteringLoanSettlementPage() {
           </section>
 
           <section id="settlement-companies" className="scroll-mt-32 mb-16">
-            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">The Role of a Debt Settlement Company: Pros and Cons</h2>
+            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">The Role of a Debt Settlement Company: Pros and Cons</h3>
             <div className="space-y-6 text-lg leading-relaxed text-[#2E2E2E]/80">
               <p>
                 Debt settlement companies can play a significant role in the negotiation process, but it’s important to weigh the pros and cons before deciding to work with one. One of the primary advantages of using a debt settlement company is their expertise and experience. These companies have professional negotiators who are skilled in dealing with creditors and can often secure better settlement terms than individuals negotiating on their own. Additionally, they can handle the administrative aspects of the negotiation process, saving you time and effort.
@@ -296,7 +296,7 @@ export default function MasteringLoanSettlementPage() {
           </section>
 
           <section id="legal-aspects" className="scroll-mt-32 mb-16">
-            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">Legal Considerations in Loan Settlement</h2>
+            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">Legal Considerations in Loan Settlement</h3>
             <div className="space-y-6 text-lg leading-relaxed text-[#2E2E2E]/80">
               <p>
                 Navigating the legal aspects of loan settlement is essential to ensure that you are protected throughout the process. One of the key legal considerations is the Limitation Act. In India, there is a fixed period (typically three years from the date of default) during which a creditor can legally sue you for the recovery of debt. If this period has expired, the creditor may no longer have the legal right to enforce the debt in court, which can significantly impact your negotiation strategy.
@@ -311,7 +311,7 @@ export default function MasteringLoanSettlementPage() {
           </section>
 
           <section id="avoid-pitfalls" className="scroll-mt-32 mb-16">
-            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">How to Avoid Common Pitfalls in Debt Negotiation</h2>
+            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">How to Avoid Common Pitfalls in Debt Negotiation</h3>
             <div className="space-y-6 text-lg leading-relaxed text-[#2E2E2E]/80">
               <p>
                 Debt negotiation can be a complex process, and there are several common pitfalls that you should be aware of to avoid potential issues. One of the most common mistakes is failing to do thorough research before entering into negotiations. It’s important to understand your financial situation, the terms of your loan agreements, and the creditor’s policies. Without this information, you may be at a disadvantage during negotiations and may not be able to secure the best possible settlement.
@@ -326,13 +326,13 @@ export default function MasteringLoanSettlementPage() {
           </section>
 
           <section id="success-stories" className="scroll-mt-32 mb-16 text-center">
-            <h2 className="text-3xl md:text-5xl font-black text-[#2E2E2E] mb-12">Real-Life Success Stories</h2>
+            <h3 className="text-3xl md:text-5xl font-black text-[#2E2E2E] mb-12">Real-Life Success Stories</h3>
             <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-8 text-left">
                <div className="bg-white p-8 rounded-2xl border border-[#DEDEDE] shadow-xl hover:scale-105 transition-transform">
                   <div className="flex items-center gap-4 mb-6">
                     <div className="w-12 h-12 bg-blue-100 rounded-full flex items-center justify-center text-[#1F5EFF] font-black text-xl">S</div>
                     <div>
-                      <h3 className="font-black text-lg">Sneha</h3>
+                      <h4 className="font-black text-lg">Sneha</h4>
                       <p className="text-xs text-gray-500 uppercase font-bold tracking-widest text-[#1F5EFF]">Debt: ₹25 Lakhs</p>
                     </div>
                   </div>
@@ -348,7 +348,7 @@ export default function MasteringLoanSettlementPage() {
                   <div className="flex items-center gap-4 mb-6">
                     <div className="w-12 h-12 bg-blue-100 rounded-full flex items-center justify-center text-[#1F5EFF] font-black text-xl">J</div>
                     <div>
-                      <h4 className="font-black text-lg">Jatin & Lalita</h4>
+                      <h5 className="font-black text-lg">Jatin & Lalita</h5>
                       <p className="text-xs text-gray-500 uppercase font-bold tracking-widest text-[#1F5EFF]">Medical Bills: ₹5 Lakhs</p>
                     </div>
                   </div>
@@ -364,7 +364,7 @@ export default function MasteringLoanSettlementPage() {
                   <div className="flex items-center gap-4 mb-6">
                     <div className="w-12 h-12 bg-blue-100 rounded-full flex items-center justify-center text-[#1F5EFF] font-black text-xl">M</div>
                     <div>
-                      <h4 className="font-black text-lg">Manish</h4>
+                      <h5 className="font-black text-lg">Manish</h5>
                       <p className="text-xs text-gray-500 uppercase font-bold tracking-widest text-[#1F5EFF]">Business Loan: ₹40 Lakhs</p>
                     </div>
                   </div>
@@ -379,7 +379,7 @@ export default function MasteringLoanSettlementPage() {
           </section>
 
           <section id="faqs" className="scroll-mt-32 mb-16">
-            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 text-center uppercase tracking-tighter">Commonly Asked Questions</h2>
+            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 text-center uppercase tracking-tighter">Commonly Asked Questions</h3>
             <div className="space-y-4">
               {[
                 { q: "What is the primary benefit of loan settlement?", a: "The primary benefit is reducing the total amount of debt you owe, providing immediate financial relief and psychological peace of mind." },
@@ -389,7 +389,7 @@ export default function MasteringLoanSettlementPage() {
                 { q: "What are the tax implications of settlement?", a: "The forgiven portion of a debt may be considered taxable income by the Income Tax Department. You should consult a tax professional to understand your specific liability." }
               ].map((faq, i) => (
                 <div key={i} className="bg-white border border-[#DEDEDE] rounded-xl p-6 hover:shadow-md transition-shadow">
-                  <h3 className="font-black text-[#2E2E2E] text-lg mb-3">{i+1}. {faq.q}</h3>
+                  <h4 className="font-black text-[#2E2E2E] text-lg mb-3">{i+1}. {faq.q}</h4>
                   <p className="text-gray-600 leading-relaxed">{faq.a}</p>
                 </div>
               ))}
@@ -397,14 +397,14 @@ export default function MasteringLoanSettlementPage() {
           </section>
 
           <section className="scroll-mt-32 mb-16">
-             <h2 className="text-3xl font-black text-[#2E2E2E] mb-6">Conclusion: Taking Control of Your Financial Future</h2>
+             <h3 className="text-3xl font-black text-[#2E2E2E] mb-6">Conclusion: Taking Control of Your Financial Future</h3>
              <div className="space-y-6 text-lg text-[#2E2E2E]/80">
                 <p>
                   Mastering loan settlement and negotiating your debt wisely can be a transformative experience, providing relief from financial stress and paving the way for a more secure financial future. By addressing your debt and developing a solid financial plan, you can build a foundation for long-term financial stability and success.
                 </p>
                 <div className="bg-[#2E2E2E] text-white p-12 rounded-[40px] text-center mt-12 relative overflow-hidden group">
                    <div className="absolute inset-0 bg-[#1F5EFF] opacity-0 group-hover:opacity-5 transition-opacity"></div>
-                   <h3 className="text-3xl md:text-5xl font-black mb-6">Ready to Master Your Debt?</h3>
+                   <h4 className="text-3xl md:text-5xl font-black mb-6">Ready to Master Your Debt?</h4>
                    <p className="text-xl opacity-80 mb-10 max-w-2xl mx-auto">
                      Unlock the secrets to gain financial freedom today. Our experts are here to help you negotiate wisely and regain your peace of mind.
                    </p>

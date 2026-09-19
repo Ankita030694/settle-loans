@@ -532,9 +532,9 @@ export default function PreLitigationMediationLoanSettlementPage() {
 
             {/* Section 2: Statutory Legal Framework: DLSA & Mediation Act */}
             <section id="statutory-legal-protections-dlsa" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                 2. Statutory Legal Grounding: Legal Services Authorities Act, 1987, Section 89 CPC &amp; The Mediation Act, 2023
-              </h2>
+              </h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 To maximize the strategic impact of pre-litigation mediation, borrowers must grasp the statutory architecture that compels commercial banks and financial institutions to participate in good-faith settlement negotiations. The legal validity and institutional authority of pre-litigation mediation rest upon three foundational pillars of Indian civil jurisprudence:
               </p>
@@ -591,9 +591,9 @@ export default function PreLitigationMediationLoanSettlementPage() {
 
             {/* Section 3: Halting Recovery Harassment & Invalidation of Coercive Tactics */}
             <section id="halting-recovery-agent-harassment" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                 3. Halting Coercive Recovery Tactics: How DLSA Registration Neutralizes Aggressive Harassment
-              </h2>
+              </h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 One of the most immediate benefits of filing an application for pre-litigation mediation is the neutralization of third-party debt collection harassment. When a borrower defaults, commercial banks often outsource collection portfolios to third-party recovery agencies whose personnel employ aggressive and unlawful collection tactics—including persistent calling at unsociable hours, unauthorized visits to workplaces, contacting distant family members, and threatening unconstitutional criminal actions.
               </p>
@@ -633,9 +633,9 @@ export default function PreLitigationMediationLoanSettlementPage() {
 
             {/* Section 4: Bank Accounting, NPA Provisioning & NPV Recovery Formula */}
             <section id="bank-accounting-npv-recovery-formula" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                 4. Bank Balance Sheet Accounting, NPA Provisioning &amp; The Net Present Value (NPV) Equation
-              </h2>
+              </h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Securing a deep 40% to 65% principal haircut during DLSA mediation requires a clear understanding of the financial pressures governing commercial bank balance sheets. Indian commercial banks and NBFCs are strictly regulated by the Reserve Bank of India&apos;s Prudential Norms on Income Recognition, Asset Classification, and Provisioning (IRACP). When a borrower fails to service interest or principal instalments for 90 days, the loan is formally classified as a Non-Performing Asset (NPA).
               </p>
@@ -707,9 +707,9 @@ export default function PreLitigationMediationLoanSettlementPage() {
 
             {/* Section 5: Infographic Banner */}
             <section id="dlsa-mediation-visual-roadmap" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                 5. DLSA Pre-Litigation Mediation &amp; Loan Settlement Visual Roadmap
-              </h2>
+              </h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 The visual roadmap below details the complete 5-stage institutional trajectory of resolving bank loan default through District Legal Services Authority (DLSA) pre-litigation mediation—from filing the initial application to conciliation hearings, sanction letter execution, and receiving an unappealable Lok Adalat decree with a zero-balance No Dues Certificate.
               </p>
@@ -744,9 +744,9 @@ export default function PreLitigationMediationLoanSettlementPage() {
 
             {/* Section 6: Step-by-Step Advocate Strategy to Initiate DLSA Mediation */}
             <section id="advocate-strategy-initiating-mediation" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                 6. Step-by-Step Advocate Strategy: How to Proactively Initiate DLSA Pre-Litigation Mediation
-              </h2>
+              </h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Initiating pre-litigation mediation requires careful procedural precision and tactical preparation. While any citizen can theoretically submit a basic letter to the DLSA, engaging specialized debt defense advocates ensures your application is fortified with unassailable financial documentation, statutory citations, and negotiation strategy.
               </p>
@@ -756,25 +756,25 @@ export default function PreLitigationMediationLoanSettlementPage() {
 
               <div className="space-y-3 my-4">
                 <div className="p-4 rounded-xl border-l-4 border-blue-600 bg-slate-50 space-y-1">
-                  <h3 className="font-bold text-slate-900 text-xs sm:text-sm">Phase 1: Drafting the Formal DLSA Pre-Litigation Petition</h3>
+                  <h4 className="font-bold text-slate-900 text-xs sm:text-sm">Phase 1: Drafting the Formal DLSA Pre-Litigation Petition</h4>
                   <p className="text-xs text-slate-600 leading-relaxed">
                     Your advocate drafts a comprehensive pre-litigation application addressed to the Member Secretary of your territorial District Legal Services Authority. The petition details: (1) Full loan account specifications, sanction dates, and total principal disbursed; (2) Detailed accounting of total repayments made to date; (3) Clear identification of unapplied penal interest, bounce charges, and usurious late fees; (4) A comprehensive financial hardship statement articulating the specific trigger events (job loss, business downturn, medical crisis) that impaired servicing capacity.
                   </p>
                 </div>
                 <div className="p-4 rounded-xl border-l-4 border-indigo-600 bg-slate-50 space-y-1">
-                  <h4 className="font-bold text-slate-900 text-xs sm:text-sm">Phase 2: Compiling the Unassailable Hardship Dossier</h4>
+                  <h5 className="font-bold text-slate-900 text-xs sm:text-sm">Phase 2: Compiling the Unassailable Hardship Dossier</h5>
                   <p className="text-xs text-slate-600 leading-relaxed">
                     Banks routinely reject direct customer settlement requests because collection agents report that the borrower possesses hidden capacity to pay. We dismantle this assumption by appending certified documentary proof: income tax return (ITR) reductions, termination letters, medical treatment records, GST sales decline filings, or insolvency declarations that prove bona fide inability to service the full ledger balance.
                   </p>
                 </div>
                 <div className="p-4 rounded-xl border-l-4 border-purple-600 bg-slate-50 space-y-1">
-                  <h4 className="font-bold text-slate-900 text-xs sm:text-sm">Phase 3: Formal Service &amp; Halting Parallel Recovery Measures</h4>
+                  <h5 className="font-bold text-slate-900 text-xs sm:text-sm">Phase 3: Formal Service &amp; Halting Parallel Recovery Measures</h5>
                   <p className="text-xs text-slate-600 leading-relaxed">
                     Upon registration, the DLSA registry issues formal summons to the designated Nodal Officer and Zonal Legal Head of the lending bank. Your advocate immediately serves a copy of the DLSA case registration on the bank&apos;s collection department, establishing an official record that prohibits further coercive recovery visits or third-party agent intimidation.
                   </p>
                 </div>
                 <div className="p-4 rounded-xl border-l-4 border-emerald-600 bg-slate-50 space-y-1">
-                  <h4 className="font-bold text-slate-900 text-xs sm:text-sm">Phase 4: Representation During Mediation Hearings</h4>
+                  <h5 className="font-bold text-slate-900 text-xs sm:text-sm">Phase 4: Representation During Mediation Hearings</h5>
                   <p className="text-xs text-slate-600 leading-relaxed">
                     During the mediation sessions held at the District Court ADR center, your legal counsel presents the settlement proposal directly to the bank&apos;s authorized representative in the presence of the judicial mediator. Counsel emphasizes the bank&apos;s litigation risks, highlighting that rejecting the proposed compromise will result in years of zero-recovery civil litigation while the loan remains fully provisioned on their books.
                   </p>
@@ -788,9 +788,9 @@ export default function PreLitigationMediationLoanSettlementPage() {
 
             {/* Section 7: Mediation Settlement Agreement, Lok Adalat Consent Award & Sanction Forensics */}
             <section id="mediation-settlement-lok-adalat-award" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                 7. Mediation Settlement Agreement, Lok Adalat Consent Decrees &amp; Sanction Letter Forensics
-              </h2>
+              </h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Once the bank and borrower agree on a compromise settlement figure during mediation, the final documentation must be executed with absolute legal rigor. Thousands of borrowers fall into predatory traps each year by paying money based on verbal promises from recovery agents or unofficial email confirmations, only to discover that the bank credited their payment as partial interest and continued legal recovery for the remaining balance.
               </p>
@@ -850,9 +850,9 @@ export default function PreLitigationMediationLoanSettlementPage() {
 
             {/* Section 8: Remittance, RBI ₹0 NDC Mandate & Credit Recovery */}
             <section id="remittance-rbi-ndc-mandate-cibil" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                 8. Loan Remittance, RBI ₹0 No Dues Certificate Mandate &amp; CIBIL Bureau Trajectory
-              </h2>
+              </h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Completing your settlement payments on or before the agreed milestone dates initiates the final stage of total debt discharge: obtaining your official <strong>No Dues Certificate (NDC)</strong> and rehabilitating your credit profile. Under <strong>RBI Circular RBI/2023-24/60</strong> (Responsible Lending Conduct – Release of Movable/Immovable Property Documents and Issuance of NDC), all regulated commercial banks and NBFCs are statutorily required to issue an official NDC and update credit information bureaus within <strong>30 calendar days</strong> of receiving full settlement funds.
               </p>
@@ -867,9 +867,9 @@ export default function PreLitigationMediationLoanSettlementPage() {
                 </p>
               </div>
 
-              <h3 className="text-base sm:text-lg font-bold text-slate-900 pt-2">
+              <h4 className="text-base sm:text-lg font-bold text-slate-900 pt-2">
                 Understanding CIBIL Bureau Reporting &amp; Score Rehabilitation
-              </h3>
+              </h4>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Borrowers must understand the precise mechanism of credit bureau reporting following a compromise settlement:
               </p>
@@ -895,9 +895,9 @@ export default function PreLitigationMediationLoanSettlementPage() {
 
             {/* Section 9: Dispute Resolution Comparative Matrix */}
             <section id="mediation-comparative-matrix" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                 9. Dispute Resolution Comparative Matrix: DLSA Mediation vs Civil Court vs Arbitration vs Direct OTS
-              </h2>
+              </h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Evaluating the different dispute resolution pathways demonstrates why proactive DLSA Pre-Litigation Mediation provides the most advantageous balance of legal protection, cost savings, and speed for borrowers:
               </p>
@@ -950,9 +950,9 @@ export default function PreLitigationMediationLoanSettlementPage() {
             {/* Section 10: SettleLoans Legal Defense & Advisory + CompanySection */}
             <section id="company-resolution-section" className="space-y-6">
               <div className="border-t border-slate-200 pt-8 space-y-4">
-                <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
+                <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                   10. SettleLoans Legal Defense &amp; Strategic Mediation Advisory
-                </h2>
+                </h3>
                 <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                   Navigating pre-litigation mediation against well-funded institutional lenders requires experienced banking litigation advocates who understand the intersection of the Legal Services Authorities Act, the Mediation Act, 2023, and RBI debt resolution circulars. SettleLoans provides end-to-end legal protection: evaluating your financial hardship dossier, filing your formal DLSA mediation petition, halting unlawful recovery agent harassment, and negotiating directly with bank zonal authorities to secure the deepest possible principal haircuts backed by official, bank-stamped No Dues Certificates.
                 </p>
@@ -966,9 +966,9 @@ export default function PreLitigationMediationLoanSettlementPage() {
             <section id="faqs" className="space-y-4 border-t border-slate-200 pt-8">
               <div className="flex items-center gap-2 mb-2">
                 <HelpCircle className="w-5 h-5 text-[#1F5EFF]" />
-                <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
+                <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                   11. Frequently Asked Questions: Pre-Litigation Mediation for Loan Default
-                </h2>
+                </h3>
               </div>
               <p className="text-xs sm:text-sm text-slate-600 mb-6">
                 Direct, legally verified answers to critical questions regarding DLSA pre-litigation mediation, halting recovery harassment, and securing court-decreed bank loan settlements.
@@ -998,9 +998,9 @@ export default function PreLitigationMediationLoanSettlementPage() {
 
             {/* 5 Official Regulatory Links */}
             <section className="border-t border-slate-200 pt-8 mb-4">
-              <h3 className="text-xs sm:text-sm font-bold text-slate-900 mb-3 uppercase tracking-wider">
+              <h4 className="text-xs sm:text-sm font-bold text-slate-900 mb-3 uppercase tracking-wider">
                 Official Statutory &amp; Regulatory References
-              </h3>
+              </h4>
               <div className="grid grid-cols-1 sm:grid-cols-2 gap-2.5 text-xs">
                 <a
                   href="https://nalsa.gov.in"
@@ -1052,9 +1052,9 @@ export default function PreLitigationMediationLoanSettlementPage() {
 
             {/* 10 Related Guide Badges */}
             <section className="border-t border-slate-200 pt-8 mb-8">
-              <h3 className="text-xs sm:text-sm font-bold text-slate-900 mb-4 uppercase tracking-wider">
+              <h4 className="text-xs sm:text-sm font-bold text-slate-900 mb-4 uppercase tracking-wider">
                 Related Legal Defense &amp; Loan Resolution Guides
-              </h3>
+              </h4>
               <div className="flex flex-wrap gap-2">
                 <Link
                   href="/bank-sent-legal-notice-for-loan-what-to-do"

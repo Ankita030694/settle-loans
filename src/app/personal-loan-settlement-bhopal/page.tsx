@@ -586,7 +586,7 @@ export default function PersonalLoanSettlementBhopalPage() {
                 <Clock className="w-4 h-4" />
                 <span>2. Delinquency Timeline &amp; NPA Classification</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">NPA Delinquency Lifecycle in Bhopal</h2>
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">NPA Delinquency Lifecycle in Bhopal</h3>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Under RBI IRACP and Ind AS 109 rules, banks track overdue loans by days. Early overdue stages are SMA-0 and SMA-1. After 90 days, the loan becomes an NPA. The bank freezes interest and locks capital reserves. This creates strong motivation for banks to settle.
               </p>
@@ -654,7 +654,7 @@ export default function PersonalLoanSettlementBhopalPage() {
                 <ShieldAlert className="w-4 h-4" />
                 <span>3. Halting Harassment &amp; Stopping NACH Charges</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Defending Against Harassment in Bhopal</h2>
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Defending Against Harassment in Bhopal</h3>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Borrowers across Arera Colony, Shahpura, MP Nagar, and Kolar Road face aggressive collection agents. Agents often threaten office visits or shop disruptions. The RBI Fair Practices Code sets strict rules:
               </p>
@@ -675,7 +675,7 @@ export default function PersonalLoanSettlementBhopalPage() {
                 <Calculator className="w-4 h-4" />
                 <span>4. RBI Compromise Guidelines &amp; NPV Math</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">RBI Compromise Rules &amp; NPV in Bhopal</h2>
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">RBI Compromise Rules &amp; NPV in Bhopal</h3>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Under RBI Master Direction DOR.STR.REC.20/21.04.048/2023-24, banks maintain compromise policies. Personal loans have no collateral to seize under SARFAESI. Banks use Net Present Value (NPV) math to evaluate settlement offers:
               </p>
@@ -699,7 +699,7 @@ export default function PersonalLoanSettlementBhopalPage() {
               </p>
 
               {/* Settlement Haircut Slabs Table */}
-              <h3 className="text-lg font-bold text-slate-900 mb-3">Realistic Loan Settlement Haircut Slabs for Bhopal &amp; MP Borrowers</h3>
+              <h4 className="text-lg font-bold text-slate-900 mb-3">Realistic Loan Settlement Haircut Slabs for Bhopal &amp; MP Borrowers</h4>
               <div className="overflow-x-auto my-4">
                 <table className="min-w-full bg-white">
                   <thead>
@@ -764,9 +764,9 @@ export default function PersonalLoanSettlementBhopalPage() {
                       <span className="text-[10px] font-black uppercase tracking-widest text-blue-300 block">
                         Legal Defense &amp; Action Blueprint
                       </span>
-                      <h3 className="text-sm md:text-base font-black text-white leading-tight">
+                      <h4 className="text-sm md:text-base font-black text-white leading-tight">
                         Bhopal Personal Loan Settlement &amp; Lok Adalat Legal Defense Blueprint
-                      </h3>
+                      </h4>
                     </div>
                   </div>
                   <a
@@ -813,7 +813,7 @@ export default function PersonalLoanSettlementBhopalPage() {
                 <Gavel className="w-4 h-4" />
                 <span>6. Arera Hills District Court &amp; JMFC Defense</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Sec 138 NI Act &amp; Sec 25 Defense in Bhopal Courts</h2>
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Sec 138 NI Act &amp; Sec 25 Defense in Bhopal Courts</h3>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Lenders may file cases before the JMFC at Arera Hills District Court. These include Section 138 cheque bounce cases. They also file Section 25 PSSA cases for NACH bounce.
               </p>
@@ -831,7 +831,7 @@ export default function PersonalLoanSettlementBhopalPage() {
                 <Landmark className="w-4 h-4" />
                 <span>7. DLSA Bhopal Lok Adalat Conciliation</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Resolving Defaults via Bhopal DLSA Lok Adalat</h2>
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Resolving Defaults via Bhopal DLSA Lok Adalat</h3>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 DLSA Bhopal holds National Lok Adalats every quarter at Arera Hills. They provide a trusted forum to settle unpaid debts. Bank officers attend with special settlement authority. They can grant 45% to 65% debt waivers.
               </p>
@@ -852,7 +852,7 @@ export default function PersonalLoanSettlementBhopalPage() {
                 <Layers className="w-4 h-4" />
                 <span>8. Step-by-Step Settlement Roadmap</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Step-by-Step Settlement Roadmap in Bhopal</h2>
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Step-by-Step Settlement Roadmap in Bhopal</h3>
               <p className="text-slate-700 leading-relaxed mb-6 text-base md:text-lg">
                 Our structured six-phase roadmap helps you secure the best settlement terms:
               </p>
@@ -860,10 +860,10 @@ export default function PersonalLoanSettlementBhopalPage() {
               <div className="space-y-6">
                 {/* Phase 1 */}
                 <div className="p-6 rounded-2xl bg-white border border-slate-200 shadow-sm">
-                  <h3 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
+                  <h4 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
                     <span className="w-7 h-7 rounded-lg bg-blue-50 text-[#1F5EFF] font-black text-sm flex items-center justify-center border border-blue-200">1</span>
                     Hardship Dossier &amp; Forensic Financial Audit
-                  </h3>
+                  </h4>
                   <p className="text-slate-600 text-sm md:text-base leading-relaxed">
                     Collect proof of income loss, medical expenses, or business slowdown. This proves genuine hardship under RBI compromise rules.
                   </p>
@@ -871,10 +871,10 @@ export default function PersonalLoanSettlementBhopalPage() {
 
                 {/* Phase 2 */}
                 <div className="p-6 rounded-2xl bg-white border border-slate-200 shadow-sm">
-                  <h3 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
+                  <h4 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
                     <span className="w-7 h-7 rounded-lg bg-blue-50 text-[#1F5EFF] font-black text-sm flex items-center justify-center border border-blue-200">2</span>
                     NACH Mandate Cancellation &amp; Representation Notice
-                  </h3>
+                  </h4>
                   <p className="text-slate-600 text-sm md:text-base leading-relaxed">
                     Stop e-NACH auto-debits to avoid recurring bounce penalties. Send a formal legal notice directing lenders to communicate only with your lawyer.
                   </p>
@@ -882,10 +882,10 @@ export default function PersonalLoanSettlementBhopalPage() {
 
                 {/* Phase 3 */}
                 <div className="p-6 rounded-2xl bg-white border border-slate-200 shadow-sm">
-                  <h3 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
+                  <h4 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
                     <span className="w-7 h-7 rounded-lg bg-blue-50 text-[#1F5EFF] font-black text-sm flex items-center justify-center border border-blue-200">3</span>
                     Submitting Compromise Petition to Stressed Assets Desk
-                  </h3>
+                  </h4>
                   <p className="text-slate-600 text-sm md:text-base leading-relaxed">
                     File a formal compromise proposal with the bank zonal stressed assets desk in Bhopal or Indore. Start offers at 25% to 35% of principal dues.
                   </p>
@@ -893,10 +893,10 @@ export default function PersonalLoanSettlementBhopalPage() {
 
                 {/* Phase 4 */}
                 <div className="p-6 rounded-2xl bg-white border border-slate-200 shadow-sm">
-                  <h3 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
+                  <h4 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
                     <span className="w-7 h-7 rounded-lg bg-blue-50 text-[#1F5EFF] font-black text-sm flex items-center justify-center border border-blue-200">4</span>
                     Strategic Negotiation &amp; Credit Committee Approval
-                  </h3>
+                  </h4>
                   <p className="text-slate-600 text-sm md:text-base leading-relaxed">
                     Our advocates counter bank demands using loan recovery norms. We negotiate to win 45% to 65% debt waivers from credit committees.
                   </p>
@@ -904,10 +904,10 @@ export default function PersonalLoanSettlementBhopalPage() {
 
                 {/* Phase 5 */}
                 <div className="p-6 rounded-2xl bg-white border border-slate-200 shadow-sm">
-                  <h3 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
+                  <h4 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
                     <span className="w-7 h-7 rounded-lg bg-blue-50 text-[#1F5EFF] font-black text-sm flex items-center justify-center border border-blue-200">5</span>
                     Forensic Audit of the OTS Sanction Letter
-                  </h3>
+                  </h4>
                   <p className="text-slate-600 text-sm md:text-base leading-relaxed">
                     Check the settlement letter on official bank letterhead. Ensure all account numbers, waiver sums, and case withdrawal terms are accurate.
                   </p>
@@ -915,10 +915,10 @@ export default function PersonalLoanSettlementBhopalPage() {
 
                 {/* Phase 6 */}
                 <div className="p-6 rounded-2xl bg-white border border-slate-200 shadow-sm">
-                  <h3 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
+                  <h4 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
                     <span className="w-7 h-7 rounded-lg bg-blue-50 text-[#1F5EFF] font-black text-sm flex items-center justify-center border border-blue-200">6</span>
                     Remittance &amp; 30-Day ₹0 NDC Delivery Enforcement
-                  </h3>
+                  </h4>
                   <p className="text-slate-600 text-sm md:text-base leading-relaxed">
                     Pay the agreed settlement sum directly into the bank loan account. Enforce delivery of the No Dues Certificate within 30 days under RBI circular RBI/2023-24/60.
                   </p>
@@ -932,7 +932,7 @@ export default function PersonalLoanSettlementBhopalPage() {
                 <FileCheck className="w-4 h-4" />
                 <span>9. Sanction Letter Forensics &amp; NDC Mandate</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Sanction Letter Audit &amp; NDC in Bhopal</h2>
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Sanction Letter Audit &amp; NDC in Bhopal</h3>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Recovery agents may send fake or unauthorized settlement letters. To protect your money, our legal team verifies every document:
               </p>
@@ -953,7 +953,7 @@ export default function PersonalLoanSettlementBhopalPage() {
                 <TrendingUp className="w-4 h-4" />
                 <span>10. Credit Rehabilitation &amp; Score Recovery</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Post-Settlement CIBIL Recovery in Bhopal</h2>
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Post-Settlement CIBIL Recovery in Bhopal</h3>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 After settlement, credit bureaus (CIBIL, Experian, Equifax, CRIF) mark the loan as <strong>&apos;Settled&apos;</strong> with a <strong>₹0 balance</strong>. Your score may drop 75 to 150 points at first. But this ends overdue interest charges and stops legal action.
               </p>
@@ -974,9 +974,9 @@ export default function PersonalLoanSettlementBhopalPage() {
                 <ShieldCheck className="w-4 h-4" />
                 <span>11. Legal Representation &amp; Defense</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 Why Distressed Borrowers in Bhopal Choose SettleLoans
-              </h2>
+              </h3>
               <p className="text-slate-700 leading-relaxed mb-6 text-base md:text-lg">
                 Handling loan recovery pressure requires experienced legal support. SettleLoans helps civil servants, teachers, traders, and MSME owners across Bhopal, Sehore, Raisen, Vidisha, and Hoshangabad. We stop harassment. We defend court notices at Arera Hills. We represent clients at DLSA Lok Adalat sessions to secure maximum debt waivers.
               </p>
@@ -994,9 +994,9 @@ export default function PersonalLoanSettlementBhopalPage() {
                   <Gavel className="w-4 h-4" />
                   <span>Local Legal Jurisdiction &amp; Legal Aid Directory</span>
                 </div>
-                <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+                <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                   District Courts &amp; DLSA Helpdesk in Bhopal
-                </h2>
+                </h3>
                 <p className="text-slate-700 leading-relaxed mb-6 text-base">
                   Distressed borrowers facing recovery pressure, arbitration summons, or Section 138 NI Act notices in Bhopal can access statutory legal defense through the local District Court and District Legal Services Authority (DLSA):
                 </p>
@@ -1033,7 +1033,7 @@ export default function PersonalLoanSettlementBhopalPage() {
                 <HelpCircle className="w-4 h-4" />
                 <span>12. Frequently Asked Questions</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">FAQs: Personal Loan Settlement in Bhopal</h2>
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">FAQs: Personal Loan Settlement in Bhopal</h3>
 
               <div className="space-y-4">
                 {faqs.map((faq, index) => (
@@ -1059,10 +1059,10 @@ export default function PersonalLoanSettlementBhopalPage() {
 
             {/* Regulatory References & Official Sources Strip */}
             <div className="bg-slate-50 border border-slate-200 rounded-2xl p-6 my-10">
-              <h3 className="text-base font-bold text-slate-900 mb-4 flex items-center gap-2">
+              <h4 className="text-base font-bold text-slate-900 mb-4 flex items-center gap-2">
                 <Landmark className="w-5 h-5 text-[#1F5EFF]" />
                 Official Regulatory References &amp; Statutory Circulars
-              </h3>
+              </h4>
               <ul className="space-y-3 text-xs text-slate-600">
                 <li className="flex items-start gap-2">
                   <ExternalLink className="w-4 h-4 text-[#1F5EFF] flex-shrink-0 mt-0.5" />
@@ -1124,10 +1124,10 @@ export default function PersonalLoanSettlementBhopalPage() {
 
             {/* Related Guides & Resources Strip (10 Topic Badges) */}
             <div className="bg-slate-50 border border-slate-200 rounded-2xl p-6 my-10">
-              <h3 className="text-base font-bold text-slate-900 mb-4 flex items-center gap-2">
+              <h4 className="text-base font-bold text-slate-900 mb-4 flex items-center gap-2">
                 <BookOpen className="w-5 h-5 text-[#1F5EFF]" />
                 Explore Related Banking &amp; Debt Resolution Guides
-              </h3>
+              </h4>
               <div className="flex flex-wrap gap-2.5">
                 <Link
                   href="/bank-one-time-settlement-ots-policy"

@@ -578,7 +578,7 @@ export default function PersonalLoanSettlementDehradunPage() {
                 <Gavel className="w-4 h-4" />
                 <span>2. Uttarakhand Judicial Architecture &amp; Local Jurisdictions.</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Uttarakhand Court System &amp; DRT Dehradun</h2>
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Uttarakhand Court System &amp; DRT Dehradun</h3>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">Debtors must understand local court hierarchy. In Dehradun, Order 37 CPC suits go to the Dehradun Sadar court. Cheque bounce cases under Section 138 NI Act are heard here too.</p>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">Haridwar matters go to Roshnabad District Courts. Rishikesh cases go to local civil courts. Claims above ₹20 Lakhs fall under DRT Dehradun. High Court petitions go to Nainital.</p>
 
@@ -641,7 +641,7 @@ export default function PersonalLoanSettlementDehradunPage() {
                 <Calculator className="w-4 h-4" />
                 <span>3. Bank Balance-Sheet Accounting &amp; Recovery Economics.</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Bank NPA Accounting &amp; Debt Waivers in Dehradun</h2>
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Bank NPA Accounting &amp; Debt Waivers in Dehradun</h3>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">Banks follow RBI rules on bad loans. Missing three EMIs moves an account past 90 days. The bank marks it as an NPA. This stops future interest income.</p>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">As bad loans age, banks must make 100% loss reserves. This locks up bank funds. Bank committees evaluate settlement offers using a Net Present Value formula:</p>
 
@@ -666,7 +666,7 @@ export default function PersonalLoanSettlementDehradunPage() {
                 <ShieldAlert className="w-4 h-4" />
                 <span>4. Anti-Harassment Legal Protections.</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Halting Harassment Under RBI Guidelines in Dehradun</h2>
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Halting Harassment Under RBI Guidelines in Dehradun</h3>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">Debtors in Uttarakhand face harsh recovery calls. Some agents break banking rules. They call late at night. They contact friends and family.</p>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">RBI rules set strict limits. Agents cannot call before 8:00 AM or after 7:00 PM. In <em>ICICI Bank Ltd. v. Prakash Kaur</em>, the Supreme Court banned forceful recovery methods.</p>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">SettleLoans sends cease-and-desist notices to bank nodal officers. Lenders must route all calls through your lawyer. If abuse persists, we file complaints with DLSA, Cyber Police. And the RBI Ombudsman.</p>
@@ -684,9 +684,9 @@ export default function PersonalLoanSettlementDehradunPage() {
                       <span className="text-[10px] font-black uppercase tracking-widest text-blue-300 block">
                         Uttarakhand Legal Conciliation Blueprint.
                       </span>
-                      <h3 className="text-sm md:text-base font-black text-white leading-tight">
+                      <h4 className="text-sm md:text-base font-black text-white leading-tight">
                         Personal Loan Settlement &amp; Legal Resolution Process in Dehradun
-                      </h3>
+                      </h4>
                     </div>
                   </div>
                   <a
@@ -733,31 +733,31 @@ export default function PersonalLoanSettlementDehradunPage() {
                 <Briefcase className="w-4 h-4" />
                 <span>6. Sector-Specific Resolution Protocols.</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Tailored Settlement Strategies in Dehradun</h2>
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Tailored Settlement Strategies in Dehradun</h3>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">Debtors in Dehradun have distinct money needs. SettleLoans applies targeted legal strategies for each group:</p>
               
               <div className="space-y-6 my-6">
                 <div className="bg-slate-50 border border-slate-200 rounded-2xl p-6">
-                  <h3 className="text-base font-bold text-slate-900 mb-2 flex items-center gap-2">
+                  <h4 className="text-base font-bold text-slate-900 mb-2 flex items-center gap-2">
                     <Building2 className="w-5 h-5 text-[#1F5EFF]" />
                     <span>1. Government Servants, PSU Personnel &amp; Institute Staff.</span>
-                  </h3>
+                  </h4>
                   <p className="text-slate-700 leading-relaxed text-sm md:text-base">Dehradun hosts staff across the Secretariat, FRI. and ONGC. Recovery agents often threaten office inquiries. Legally, a loan default is a civil contract case. It is not departmental misconduct. Section 60(1) (i) CPC protects most salary from attachment. Our lawyers shield your privacy. We settle a confidential settlement.</p>
                 </div>
 
                 <div className="bg-slate-50 border border-slate-200 rounded-2xl p-6">
-                  <h3 className="text-base font-bold text-slate-900 mb-2 flex items-center gap-2">
+                  <h4 className="text-base font-bold text-slate-900 mb-2 flex items-center gap-2">
                     <Hotel className="w-5 h-5 text-[#1F5EFF]" />
                     <span>2. Hotel, Resort, Yoga Retreat &amp; Adventure Tourism Operators.</span>
-                  </h3>
+                  </h4>
                   <p className="text-slate-700 leading-relaxed text-sm md:text-base">Resorts and travel operators in Rishikesh face seasonal income swings. Monsoons can disrupt tourism for months. Many business owners use personal cards to manage cash flow. Our lawyers submit GST records and booking logs. This helps secure 45% to 60% principal waivers with easy payment terms.</p>
                 </div>
 
                 <div className="bg-slate-50 border border-slate-200 rounded-2xl p-6">
-                  <h3 className="text-base font-bold text-slate-900 mb-2 flex items-center gap-2">
+                  <h4 className="text-base font-bold text-slate-900 mb-2 flex items-center gap-2">
                     <GraduationCap className="w-5 h-5 text-[#1F5EFF]" />
                     <span>3. Higher Education Students &amp; Co-Borrower Parents.</span>
-                  </h3>
+                  </h4>
                   <p className="text-slate-700 leading-relaxed text-sm md:text-base">Graduates from local colleges sometimes face hiring delays. When student loans default, banks pressurize parent co-signers. SettleLoans represents families directly before bank committees. We submit job search records and income proofs. This secures an affordable settlement. It stops all recovery pressure on parents.</p>
                 </div>
               </div>
@@ -769,7 +769,7 @@ export default function PersonalLoanSettlementDehradunPage() {
                 <Scale className="w-4 h-4" />
                 <span>7. Legal Defense &amp; Lok Adalat Conciliation.</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Defending Sec 138 &amp; Sec 25 PSSA in Dehradun</h2>
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Defending Sec 138 &amp; Sec 25 PSSA in Dehradun</h3>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">When defaults pass 90 days, banks may file court cases. These include Section 138 NI Act cheque cases. They also include Section 25 PSSA cases. While heard in magistrate courts, these remain civil debt cases.</p>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">Sending a timely legal reply within 15 days is critical. It shows genuine money distress. Banks sometimes start private arbitration in distant cities. Our lawyers challenge authority under Sections 12 and 14 of the Arbitration Act.</p>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">National Lok Adalat by UKSLSA is the best forum. A Lok Adalat order acts as a final civil court decree. The bank must withdraw all cases and close your loan account permanently.</p>
@@ -781,7 +781,7 @@ export default function PersonalLoanSettlementDehradunPage() {
                 <FileCheck className="w-4 h-4" />
                 <span>8. Sanction Letter Forensics &amp; NDC Verification.</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Sanction Letter Forensics &amp; NDC in Dehradun</h2>
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Sanction Letter Forensics &amp; NDC in Dehradun</h3>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">Never pay money without a checked bank letter. Recovery agents sometimes issue fake receipts. SettleLoans checks every OTS sanction letter. We verify bank seals, signatory names. And clear debt waiver terms.</p>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">You pay funds directly into your loan account via RTGS or NEFT. Under RBI rules, banks must issue an NDC in 30 days. They must also update credit bureaus. Delayed certificates carry a penalty of ₹5,000 per day.</p>
             </section>
@@ -792,7 +792,7 @@ export default function PersonalLoanSettlementDehradunPage() {
                 <TrendingUp className="w-4 h-4" />
                 <span>9. Credit Score Trajectory &amp; Rehabilitation.</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Post-Settlement CIBIL Trajectory in Dehradun</h2>
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Post-Settlement CIBIL Trajectory in Dehradun</h3>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">The bank marks your settled loan with zero balance. Your credit score may drop by 75 to 150 points initially. However, ongoing default remarks stop right away.</p>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">You can rebuild your credit score past 750 within 18 to 24 months. Use a fixed-deposit credit card. Keep card use below 25% and pay all bills on time.</p>
 
@@ -849,7 +849,7 @@ export default function PersonalLoanSettlementDehradunPage() {
                 <ShieldCheck className="w-4 h-4" />
                 <span>10. Legal Representation &amp; Advisory.</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Why Uttarakhand Borrowers Choose SettleLoans</h2>
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Why Uttarakhand Borrowers Choose SettleLoans</h3>
               <p className="text-slate-700 leading-relaxed mb-6 text-base md:text-lg">Settling personal loans in Dehradun requires strong legal counsel. SettleLoans halts recovery abuse. We defend you in local courts. Our lawyers settle with bank zonal desks. We maximize debt waivers and deliver official No Dues Certificates.</p>
 
               {/* Placement of Reusable CompanySection */}
@@ -865,9 +865,9 @@ export default function PersonalLoanSettlementDehradunPage() {
                   <Gavel className="w-4 h-4" />
                   <span>Local Legal Jurisdiction &amp; Legal Aid Directory</span>
                 </div>
-                <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+                <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                   District Courts &amp; DLSA Helpdesk in Dehradun
-                </h2>
+                </h3>
                 <p className="text-slate-700 leading-relaxed mb-6 text-base">
                   Distressed borrowers facing recovery pressure, arbitration summons, or Section 138 NI Act notices in Dehradun can access statutory legal defense through the local District Court and District Legal Services Authority (DLSA):
                 </p>
@@ -904,7 +904,7 @@ export default function PersonalLoanSettlementDehradunPage() {
                 <HelpCircle className="w-4 h-4" />
                 <span>11. Frequently Asked Questions.</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">FAQs: Personal Loan Settlement in Dehradun</h2>
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">FAQs: Personal Loan Settlement in Dehradun</h3>
 
               <div className="space-y-4">
                 {faqs.map((faq, index) => (
@@ -931,10 +931,10 @@ export default function PersonalLoanSettlementDehradunPage() {
 
             {/* Regulatory References & Official Sources Strip (5 Official Links) */}
             <div className="bg-slate-50 border border-slate-200 rounded-2xl p-6 my-10">
-              <h3 className="text-base font-bold text-slate-900 mb-4 flex items-center gap-2">
+              <h4 className="text-base font-bold text-slate-900 mb-4 flex items-center gap-2">
                 <Landmark className="w-5 h-5 text-[#1F5EFF]" />
                 Official Regulatory References &amp; Statutory Portals
-              </h3>
+              </h4>
               <ul className="space-y-3 text-xs text-slate-600">
                 <li className="flex items-start gap-2"><ExternalLink className="w-4 h-4 text-[#1F5EFF] flex-shrink-0 mt-0.5" /> <a href="https://www.rbi.org.in" target="_blank" rel="noopener noreferrer" className="hover:text-[#1F5EFF] underline decoration-slate-300 hover:decoration-[#1F5EFF] transition-colors" > <strong>Reserve Bank of India (RBI):</strong> Master Direction on Settlement Settlements (DOR.STR.REC.20/21.04.048/2023-24). </a></li>
                 <li className="flex items-start gap-2"><ExternalLink className="w-4 h-4 text-[#1F5EFF] flex-shrink-0 mt-0.5" /> <a href="https://highcourtofuttarakhand.gov.in" target="_blank" rel="noopener noreferrer" className="hover:text-[#1F5EFF] underline decoration-slate-300 hover:decoration-[#1F5EFF] transition-colors" > <strong>High Court of Uttarakhand at Nainital:</strong> Official Case Status and Judicial Directives. </a></li>
@@ -946,10 +946,10 @@ export default function PersonalLoanSettlementDehradunPage() {
 
             {/* Related Guides & Resources Strip (10 Topic Badges) */}
             <div className="bg-slate-50 border border-slate-200 rounded-2xl p-6 my-10">
-              <h3 className="text-base font-bold text-slate-900 mb-4 flex items-center gap-2">
+              <h4 className="text-base font-bold text-slate-900 mb-4 flex items-center gap-2">
                 <BookOpen className="w-5 h-5 text-[#1F5EFF]" />
                 Explore Related Banking &amp; Debt Resolution Guides
-              </h3>
+              </h4>
               <div className="flex flex-wrap gap-2.5">
                 <Link
                   href="/bank-one-time-settlement-ots-policy"

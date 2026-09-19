@@ -271,16 +271,16 @@ export default function MissedCarLoanEmiPage() {
             </section>
 
             <section id="rbi-rules" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 RBI Vehicle Seizure Rules You Must Know
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 The Reserve Bank of India has strict guidelines regarding asset repossession. If a bank violates these <strong>vehicle seizure rules RBI</strong> has laid out, you can take legal action against them and get your vehicle released.
               </p>
               
               {/* Blue Important Box */}
               <div className="bg-blue-50 border-l-8 border-[#1F5EFF] p-8 rounded-r-2xl mb-8">
-                <h3 className="text-xl font-black text-[#1F5EFF] mb-4">Crucial RBI Guidelines on Repossession</h3>
+                <h4 className="text-xl font-black text-[#1F5EFF] mb-4">Crucial RBI Guidelines on Repossession</h4>
                 <div className="space-y-4">
                   <div className="flex gap-3">
                     <div className="mt-1.5 w-2 h-2 rounded-full bg-[#1F5EFF] flex-shrink-0"></div>
@@ -299,7 +299,7 @@ export default function MissedCarLoanEmiPage() {
 
               {/* Red Warning Box */}
               <div className="bg-red-50 p-6 rounded-xl border border-red-100 mb-8">
-                <h4 className="text-xl font-black text-red-700 mb-2">Warning: Illegal Towing Practices</h4>
+                <h5 className="text-xl font-black text-red-700 mb-2">Warning: Illegal Towing Practices</h5>
                 <p className="text-lg text-red-900 m-0">
                   If agents stop your family on the highway, force you out of the car, or tow it away at midnight without prior legal intimation, this is considered theft and extortion under the law. You must immediately dial 112 and register an FIR.
                 </p>
@@ -307,9 +307,9 @@ export default function MissedCarLoanEmiPage() {
             </section>
 
             <section id="consequences" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 Auto Loan Default Consequences
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 Ignoring an NPA account will lead to severe <strong>auto loan default consequences</strong> that can affect your financial future for years to come.
               </p>
@@ -317,49 +317,49 @@ export default function MissedCarLoanEmiPage() {
               {/* 4-Grid Info Boxes */}
               <div className="grid md:grid-cols-2 gap-6 my-8">
                 <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
-                  <h3 className="font-black text-[#1F5EFF] text-lg mb-3">1. CIBIL Score Crash</h3>
+                  <h4 className="font-black text-[#1F5EFF] text-lg mb-3">1. CIBIL Score Crash</h4>
                   <p className="text-[#4A4A4A] m-0">An NPA classification drops your CIBIL score drastically, blocking you from future home, personal, or car loans.</p>
                 </div>
                 <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
-                  <h4 className="font-black text-[#1F5EFF] text-lg mb-3">2. Vehicle Auction</h4>
+                  <h5 className="font-black text-[#1F5EFF] text-lg mb-3">2. Vehicle Auction</h5>
                   <p className="text-[#4A4A4A] m-0">The bank will sell your car at a distressed price to recover funds, often far below the actual market value.</p>
                 </div>
                 <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
-                  <h4 className="font-black text-[#1F5EFF] text-lg mb-3">3. Shortfall Recovery</h4>
+                  <h5 className="font-black text-[#1F5EFF] text-lg mb-3">3. Shortfall Recovery</h5>
                   <p className="text-[#4A4A4A] m-0">If the auction doesn't cover your outstanding balance, the bank will still legally pursue you for the remaining debt.</p>
                 </div>
                 <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
-                  <h4 className="font-black text-[#1F5EFF] text-lg mb-3">4. Arbitration Legal Action</h4>
+                  <h5 className="font-black text-[#1F5EFF] text-lg mb-3">4. Arbitration Legal Action</h5>
                   <p className="text-[#4A4A4A] m-0">Banks may invoke the arbitration clause in your loan agreement, dragging you into legal disputes and potential salary attachment.</p>
                 </div>
               </div>
             </section>
 
             <section id="stop-towing" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 How to Stop Illegal Towing and Harassment
-              </h2>
+              </h3>
               
               {/* Numbered Steps */}
               <div className="space-y-12 mt-10">
                 <div className="flex gap-6">
                   <div className="flex-shrink-0 w-12 h-12 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center font-black text-xl shadow-lg">1</div>
                   <div>
-                    <h3 className="text-xl font-black text-[#2E2E2E] mb-2">Demand Identification</h3>
+                    <h4 className="text-xl font-black text-[#2E2E2E] mb-2">Demand Identification</h4>
                     <p className="text-lg text-[#4A4A4A]">If agents approach you, do not panic. Ask for their ID cards and the RBI-mandated recovery agent certification. If they fail to produce it, they are acting illegally.</p>
                   </div>
                 </div>
                 <div className="flex gap-6">
                   <div className="flex-shrink-0 w-12 h-12 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center font-black text-xl shadow-lg">2</div>
                   <div>
-                    <h4 className="text-xl font-black text-[#2E2E2E] mb-2">Ask for the Repossession Order</h4>
+                    <h5 className="text-xl font-black text-[#2E2E2E] mb-2">Ask for the Repossession Order</h5>
                     <p className="text-lg text-[#4A4A4A]">Ask to see the written authorization and repossession notice from the bank. Verbal threats mean nothing in the eyes of the law.</p>
                   </div>
                 </div>
                 <div className="flex gap-6">
                   <div className="flex-shrink-0 w-12 h-12 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center font-black text-xl shadow-lg">3</div>
                   <div>
-                    <h4 className="text-xl font-black text-[#2E2E2E] mb-2">Send a Legal Notice</h4>
+                    <h5 className="text-xl font-black text-[#2E2E2E] mb-2">Send a Legal Notice</h5>
                     <p className="text-lg text-[#4A4A4A]">Send a strongly worded legal notice through an advocate citing harassment. This often forces the bank to pull back the aggressive third-party agents and negotiate directly.</p>
                   </div>
                 </div>
@@ -367,13 +367,13 @@ export default function MissedCarLoanEmiPage() {
             </section>
 
             <section id="negotiation" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 Negotiating with the Bank After 90 Days
-              </h2>
+              </h3>
               
               {/* Gray Insight Box */}
               <div className="bg-gray-50 p-8 rounded-2xl mb-8 border border-gray-200">
-                <h3 className="text-xl font-black text-[#2E2E2E] mb-4">The Restructuring Option</h3>
+                <h4 className="text-xl font-black text-[#2E2E2E] mb-4">The Restructuring Option</h4>
                 <p className="text-lg leading-relaxed text-[#4A4A4A] mb-0">
                   Once your account is an NPA, you can request the bank manager for restructuring or a one-time settlement (OTS). Show proof of job loss, medical emergencies, or business failure. If you negotiate properly, banks prefer settling over dealing with the hassle and legal costs of auctioning a depreciating asset like a car.
                 </p>
@@ -381,9 +381,9 @@ export default function MissedCarLoanEmiPage() {
             </section>
 
             <section id="success-stories" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 Success Stories: Stopping Vehicle Seizure
-              </h2>
+              </h3>
               
               {/* Review Grid */}
               <div className="grid md:grid-cols-2 gap-6 mt-8">
@@ -432,33 +432,33 @@ export default function MissedCarLoanEmiPage() {
             </section>
 
             <section id="faq" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">
                 Frequently Asked Questions
-              </h2>
+              </h3>
               <div className="space-y-4">
                 {/* FAQ 1 */}
                 <div className="bg-white border border-[#DEDEDE] rounded-xl p-6 hover:shadow-md transition-shadow">
-                  <h3 className="text-xl font-bold text-[#2E2E2E] mb-2">What happens if I miss my car loan EMI for 90 days?</h3>
+                  <h4 className="text-xl font-bold text-[#2E2E2E] mb-2">What happens if I miss my car loan EMI for 90 days?</h4>
                   <p className="text-[#4A4A4A] m-0">After 90 days, your account becomes an NPA. The bank can legally initiate repossession proceedings under the SARFAESI Act, but only after sending proper notices.</p>
                 </div>
                 {/* FAQ 2 */}
                 <div className="bg-white border border-[#DEDEDE] rounded-xl p-6 hover:shadow-md transition-shadow">
-                  <h4 className="text-xl font-bold text-[#2E2E2E] mb-2">Can recovery agents seize my car from the road?</h4>
+                  <h5 className="text-xl font-bold text-[#2E2E2E] mb-2">Can recovery agents seize my car from the road?</h5>
                   <p className="text-[#4A4A4A] m-0">No. RBI strictly prohibits the use of muscle power or stopping a running vehicle on the road. Repossession must be done peacefully with prior intimation.</p>
                 </div>
                 {/* FAQ 3 */}
                 <div className="bg-white border border-[#DEDEDE] rounded-xl p-6 hover:shadow-md transition-shadow">
-                  <h4 className="text-xl font-bold text-[#2E2E2E] mb-2">How many notices must the bank send before seizing my car?</h4>
+                  <h5 className="text-xl font-bold text-[#2E2E2E] mb-2">How many notices must the bank send before seizing my car?</h5>
                   <p className="text-[#4A4A4A] m-0">They must send a default notice and a final recall notice giving you a specific window (usually 7 to 15 days) to clear the overdue amount.</p>
                 </div>
                 {/* FAQ 4 */}
                 <div className="bg-white border border-[#DEDEDE] rounded-xl p-6 hover:shadow-md transition-shadow">
-                  <h4 className="text-xl font-bold text-[#2E2E2E] mb-2">Can I get my seized car back?</h4>
+                  <h5 className="text-xl font-bold text-[#2E2E2E] mb-2">Can I get my seized car back?</h5>
                   <p className="text-[#4A4A4A] m-0">Yes. You can reclaim your car before it gets auctioned by clearing the outstanding arrears along with repossession charges levied by the bank.</p>
                 </div>
                 {/* FAQ 5 */}
                 <div className="bg-white border border-[#DEDEDE] rounded-xl p-6 hover:shadow-md transition-shadow">
-                  <h4 className="text-xl font-bold text-[#2E2E2E] mb-2">What if the bank auctions my car for less than the loan amount?</h4>
+                  <h5 className="text-xl font-bold text-[#2E2E2E] mb-2">What if the bank auctions my car for less than the loan amount?</h5>
                   <p className="text-[#4A4A4A] m-0">If there is a shortfall between the auction price and your total dues, you are still legally obligated to pay the difference. The bank can file a suit against you.</p>
                 </div>
               </div>
@@ -468,7 +468,7 @@ export default function MissedCarLoanEmiPage() {
             <div className="bg-[#2E2E2E] text-white p-12 rounded-[40px] text-center mt-24 relative overflow-hidden group">
               <div className="absolute inset-0 bg-[#1F5EFF] opacity-0 group-hover:opacity-5 transition-opacity duration-500"></div>
               <div className="relative z-10">
-                <h3 className="text-3xl md:text-5xl font-black mb-6">Bank Threatening to Seize Your Car?</h3>
+                <h4 className="text-3xl md:text-5xl font-black mb-6">Bank Threatening to Seize Your Car?</h4>
                 <p className="text-xl mb-8 opacity-90 max-w-2xl mx-auto">
                   Stop illegal towing immediately. Our expert legal team will send a strict notice to the bank and force them to the negotiation table.
                 </p>

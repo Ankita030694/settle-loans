@@ -558,9 +558,9 @@ export default function BankFreezeSalaryAccountPage() {
 
             {/* Section 2: Statutory Legal Grounding: Section 60 CPC & Constitutional Safeguards */}
             <section id="statutory-legal-protections-cpc-60" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                 2. Statutory Legal Grounding: Section 60 CPC, Article 21 &amp; Landmark High Court Precedents
-              </h2>
+              </h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 The most potent statutory shield shielding a salaried employee from predatory bank account sweeps is enacted in <strong>Section 60 of the Code of Civil Procedure, 1908 (CPC)</strong>. Section 60 governs property liable to attachment and sale in the execution of court decrees. The legislative intent behind this statute is unambiguous: no creditor, institution, or judicial authority can reduce a citizen to complete destitution in the pursuit of civil monetary recovery.
               </p>
@@ -612,9 +612,9 @@ export default function BankFreezeSalaryAccountPage() {
 
             {/* Section 3: The Domino Effect of an Account Freeze */}
             <section id="domino-effect-unlawful-account-freeze" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                 3. The Domino Effect of an Account Freeze: Cheque Bounces, Living Crisis &amp; Legal Liabilities
-              </h2>
+              </h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 An unannounced debit freeze or total balance sweep unleashes a catastrophic chain reaction across a borrower&apos;s financial ecosystem. When an account is placed on debit freeze, incoming salary credits remain locked, while all outbound automated clearing transactions (NACH, ECS, standing instructions, and post-dated cheques) are instantly rejected by the bank&apos;s central processing system.
               </p>
@@ -624,28 +624,28 @@ export default function BankFreezeSalaryAccountPage() {
 
               <div className="space-y-3 my-4">
                 <div className="p-4 rounded-xl border-l-4 border-red-500 bg-slate-50 space-y-1">
-                  <h3 className="font-bold text-slate-900 text-xs sm:text-sm flex items-center gap-1.5">
+                  <h4 className="font-bold text-slate-900 text-xs sm:text-sm flex items-center gap-1.5">
                     <AlertCircle className="w-4 h-4 text-red-600" />
                     <span>Collateral Bounces &amp; Section 138 NI Act Vulnerability</span>
-                  </h3>
+                  </h4>
                   <p className="text-xs text-slate-600 leading-relaxed">
                     Legitimate outbound payments—such as home loan EMIs, rent cheques, and insurance premiums—bounce due to the account hold. Third-party lenders may initiate criminal complaints under <strong>Section 138 of the Negotiable Instruments Act</strong> or Section 25 of the Payment and Settlement Systems Act, unaware that the bounce was engineered by an internal freeze.
                   </p>
                 </div>
                 <div className="p-4 rounded-xl border-l-4 border-amber-500 bg-slate-50 space-y-1">
-                  <h4 className="font-bold text-slate-900 text-xs sm:text-sm flex items-center gap-1.5">
+                  <h5 className="font-bold text-slate-900 text-xs sm:text-sm flex items-center gap-1.5">
                     <ShieldAlert className="w-4 h-4 text-amber-600" />
                     <span>Severe Violation of RBI Fair Practices Code</span>
-                  </h4>
+                  </h5>
                   <p className="text-xs text-slate-600 leading-relaxed">
                     Under the <strong>RBI Master Direction on Fair Practices Code for Lenders</strong>, regulated entities are strictly prohibited from resorting to coercive, abusive, or extra-judicial recovery mechanisms that deprive borrowers of basic livelihood funds without formal prior notice and grievance redressal opportunities.
                   </p>
                 </div>
                 <div className="p-4 rounded-xl border-l-4 border-purple-500 bg-slate-50 space-y-1">
-                  <h4 className="font-bold text-slate-900 text-xs sm:text-sm flex items-center gap-1.5">
+                  <h5 className="font-bold text-slate-900 text-xs sm:text-sm flex items-center gap-1.5">
                     <CreditCard className="w-4 h-4 text-purple-600" />
                     <span>Unwarranted CIBIL Score Destruction</span>
-                  </h4>
+                  </h5>
                   <p className="text-xs text-slate-600 leading-relaxed">
                     Secondary loan defaults triggered by the primary account freeze lead to cascading 30+ and 60+ Days Past Due (DPD) entries across all credit bureaus, artificially destroying creditworthiness even when the borrower had ample funds to honor those obligations.
                   </p>
@@ -659,9 +659,9 @@ export default function BankFreezeSalaryAccountPage() {
 
             {/* Section 4: Bank Accounting, NPA Provisioning & NPV Recovery Formula */}
             <section id="bank-accounting-npv-recovery-formula" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                 4. Bank Balance Sheet Accounting, NPA Provisioning &amp; The Net Present Value (NPV) Equation
-              </h2>
+              </h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 To understand why banks freeze salary accounts—and how advocates force them to release the hold and accept an affordable compromise settlement—one must examine the strict accounting rules governing commercial banks in India. Under Reserve Bank of India prudential provisioning guidelines, when an unsecured personal loan or credit card crosses 90 days of non-payment, it is classified as a <strong>Non-Performing Asset (NPA)</strong>.
               </p>
@@ -733,9 +733,9 @@ export default function BankFreezeSalaryAccountPage() {
 
             {/* Section 5: Infographic Banner */}
             <section id="unfreeze-salary-account-roadmap" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                 5. Salary Account Unfreezing &amp; Debt Settlement Visual Roadmap
-              </h2>
+              </h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 The visual roadmap below illustrates the structured 5-stage institutional progression from discovering an unlawful salary account freeze to advocate defense, Section 60 CPC invocation, Principal Nodal Officer escalation, and concluding an official compromise settlement with full debt discharge.
               </p>
@@ -770,34 +770,34 @@ export default function BankFreezeSalaryAccountPage() {
 
             {/* Section 6: Emergency Advocate Unfreeze Protocol */}
             <section id="emergency-advocate-unfreeze-protocol" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                 6. The Emergency 4-Stage Advocate Protocol to Unfreeze Salary Accounts
-              </h2>
+              </h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 When confronting an active salary account freeze, time is of the essence. Begging branch personnel or arguing with collection agents will produce zero results, as local staff lack the authority to override automated debit liens. Instead, debt defense advocates execute an aggressive, legally calibrated 4-stage unfreezing protocol:
               </p>
 
               <div className="space-y-3 my-4">
                 <div className="p-4 rounded-xl border-l-4 border-blue-600 bg-slate-50 space-y-1">
-                  <h3 className="font-bold text-slate-900 text-xs sm:text-sm">Stage 1: Immediate Payroll Diversion &amp; Written Branch Objection</h3>
+                  <h4 className="font-bold text-slate-900 text-xs sm:text-sm">Stage 1: Immediate Payroll Diversion &amp; Written Branch Objection</h4>
                   <p className="text-xs text-slate-600 leading-relaxed">
                     Within 24 hours of noticing the restriction, provide your employer&apos;s payroll department with an alternate bank account at an unaffected institution. Simultaneously, submit a formal written objection to the Branch Manager demanding immediate disclosure of the specific legal authority (court order or internal set-off) under which the debit freeze was placed.
                   </p>
                 </div>
                 <div className="p-4 rounded-xl border-l-4 border-indigo-600 bg-slate-50 space-y-1">
-                  <h4 className="font-bold text-slate-900 text-xs sm:text-sm">Stage 2: Serving Advocate Statutory Legal Notice</h4>
+                  <h5 className="font-bold text-slate-900 text-xs sm:text-sm">Stage 2: Serving Advocate Statutory Legal Notice</h5>
                   <p className="text-xs text-slate-600 leading-relaxed">
                     Your legal counsel serves a formal demand notice on the bank&apos;s Managing Director, Zonal Head, and Principal Nodal Officer. The notice cites violations of Section 60(1)(i) CPC, Article 21, the lack of prior statutory notice, and warns of imminent proceedings before the High Court and Consumer Forum for consequential damages.
                   </p>
                 </div>
                 <div className="p-4 rounded-xl border-l-4 border-purple-600 bg-slate-50 space-y-1">
-                  <h4 className="font-bold text-slate-900 text-xs sm:text-sm">Stage 3: Escalation to RBI Integrated Ombudsman Scheme</h4>
+                  <h5 className="font-bold text-slate-900 text-xs sm:text-sm">Stage 3: Escalation to RBI Integrated Ombudsman Scheme</h5>
                   <p className="text-xs text-slate-600 leading-relaxed">
                     If the bank fails to unfreeze the account within 48 to 72 hours, an expedited complaint is logged on the <strong>RBI CMS portal (cms.rbi.org.in)</strong> under the category of &quot;Arbitrary Freezing of Accounts / Deficiency in Service&quot;. Commercial banks face severe scrutiny and penalties from the Banking Ombudsman for unauthorized debit holds.
                   </p>
                 </div>
                 <div className="p-4 rounded-xl border-l-4 border-amber-600 bg-slate-50 space-y-1">
-                  <h4 className="font-bold text-slate-900 text-xs sm:text-sm">Stage 4: High Court Writ Petition under Article 226 (Emergency Relief)</h4>
+                  <h5 className="font-bold text-slate-900 text-xs sm:text-sm">Stage 4: High Court Writ Petition under Article 226 (Emergency Relief)</h5>
                   <p className="text-xs text-slate-600 leading-relaxed">
                     In cases involving Public Sector Banks (State Bank of India, Bank of Baroda, Punjab National Bank) or extreme financial hardship where basic survival funds are blocked, advocates file an urgent Writ Petition under Article 226 of the Constitution, obtaining interim court directions directing the immediate restoration of account operations.
                   </p>
@@ -811,9 +811,9 @@ export default function BankFreezeSalaryAccountPage() {
 
             {/* Section 7: Negotiating Debt Resolution & OTS */}
             <section id="forcing-compromise-settlement-ots" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                 7. Converting an Account Freeze into an Affordable 45%–65% One-Time Settlement (OTS)
-              </h2>
+              </h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 An account freeze is frequently the final coercive attempt by a bank to recover an unsecured loan before facing heavy NPA provisioning write-offs. By deploying advocate representation and exposing the bank&apos;s legal non-compliance, you transform a distressing account hold into your strongest bargaining chip to negotiate an institutional <strong>One-Time Settlement (OTS)</strong>.
               </p>
@@ -863,9 +863,9 @@ export default function BankFreezeSalaryAccountPage() {
 
             {/* Section 8: Sanction Letter Forensics & RBI NDC Mandate */}
             <section id="sanction-forensics-rbi-ndc-mandate" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                 8. Sanction Letter Forensics, Direct Remittance, RBI ₹0 NDC Mandate &amp; CIBIL Bureau Trajectory
-              </h2>
+              </h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 A critical danger during debt resolution is falling victim to unauthorized settlement promises made by external recovery agents. Unscrupulous tele-callers frequently issue fake WhatsApp approval slips to hit monthly recovery quotas. A borrower must never disburse funds until the settlement letter undergoes rigorous forensic verification.
               </p>
@@ -893,9 +893,9 @@ export default function BankFreezeSalaryAccountPage() {
                 </p>
               </div>
 
-              <h3 className="text-base sm:text-lg font-bold text-slate-900 pt-2">
+              <h4 className="text-base sm:text-lg font-bold text-slate-900 pt-2">
                 Understanding CIBIL Bureau Reporting &amp; Credit Score Rehabilitation
-              </h3>
+              </h4>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Following settlement, the bank updates credit bureau records with the status remark <strong>&quot;Settled&quot;</strong> or <strong>&quot;Post-Write-off Settled&quot;</strong> with a current outstanding balance of <strong>₹0</strong>. While this causes a temporary credit score dip of 70 to 120 points, it halts compounding default accumulation and eliminates collection harassment. By securing a secured fixed-deposit credit card, keeping credit utilization below 30%, and ensuring timely utility payments, settled borrowers systematically rebuild their credit score back above 750 within 18 to 24 months.
               </p>
@@ -903,9 +903,9 @@ export default function BankFreezeSalaryAccountPage() {
 
             {/* Section 9: Dispute Resolution Comparative Matrix */}
             <section id="dispute-resolution-comparative-matrix" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                 9. Comparative Legal Matrix: Banker Right of Set-Off vs. Court Decree vs. Ombudsman vs. OTS
-              </h2>
+              </h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Evaluating the core legal mechanisms governing debt recovery and account freezes allows salaried borrowers to understand their strategic rights and choose the fastest path to financial recovery:
               </p>
@@ -958,9 +958,9 @@ export default function BankFreezeSalaryAccountPage() {
             {/* Section 10: SettleLoans Legal Defense & Advisory + CompanySection */}
             <section id="company-resolution-section" className="space-y-6">
               <div className="border-t border-slate-200 pt-8 space-y-4">
-                <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
+                <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                   10. SettleLoans Legal Defense &amp; Emergency Account Unfreezing Advisory
-                </h2>
+                </h3>
                 <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                   Confronting an illegal bank account freeze requires seasoned banking litigation advocates who understand the nuances of the Code of Civil Procedure, RBI Master Directions, and institutional debt settlement frameworks. SettleLoans provides end-to-end legal defense for salaried borrowers across India: serving formal Section 60 CPC demand notices, halting unlawful recovery harassment, filing emergency escalations with the RBI Banking Ombudsman, and negotiating directly with bank zonal authorities to secure 45% to 65% principal haircuts backed by official, bank-stamped No Dues Certificates.
                 </p>
@@ -974,9 +974,9 @@ export default function BankFreezeSalaryAccountPage() {
             <section id="faqs" className="space-y-4 border-t border-slate-200 pt-8">
               <div className="flex items-center gap-2 mb-2">
                 <HelpCircle className="w-5 h-5 text-[#1F5EFF]" />
-                <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
+                <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                   11. Frequently Asked Questions: Salary Account Freezes &amp; Legal Remedies
-                </h2>
+                </h3>
               </div>
               <p className="text-xs sm:text-sm text-slate-600 mb-6">
                 Direct, legally verified answers to critical questions regarding salary account freezes, Banker Right of Set-Off limitations, and debt settlement protocols in India.
@@ -1006,9 +1006,9 @@ export default function BankFreezeSalaryAccountPage() {
 
             {/* 5 Official Regulatory Links */}
             <section className="border-t border-slate-200 pt-8 mb-4">
-              <h3 className="text-xs sm:text-sm font-bold text-slate-900 mb-3 uppercase tracking-wider">
+              <h4 className="text-xs sm:text-sm font-bold text-slate-900 mb-3 uppercase tracking-wider">
                 Official Statutory &amp; Regulatory References
-              </h3>
+              </h4>
               <div className="grid grid-cols-1 sm:grid-cols-2 gap-2.5 text-xs">
                 <a
                   href="https://indiacode.gov.in/handle/123456789/2191"
@@ -1060,9 +1060,9 @@ export default function BankFreezeSalaryAccountPage() {
 
             {/* 10 Related Guide Badges */}
             <section className="border-t border-slate-200 pt-8 mb-8">
-              <h3 className="text-xs sm:text-sm font-bold text-slate-900 mb-4 uppercase tracking-wider">
+              <h4 className="text-xs sm:text-sm font-bold text-slate-900 mb-4 uppercase tracking-wider">
                 Related Legal Defense &amp; Loan Resolution Guides
-              </h3>
+              </h4>
               <div className="flex flex-wrap gap-2">
                 <Link
                   href="/application-to-unblock-bank-account-for-loan-emi"

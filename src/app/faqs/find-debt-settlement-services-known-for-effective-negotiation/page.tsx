@@ -312,26 +312,26 @@ export default function EffectiveNegotiationPage() {
                         />
 
                         <section id="dna-negotiator" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                                 The DNA of a High-Stakes Debt Negotiator
-                            </h2>
+                            </h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 What makes one person better at negotiating with a bank than another? It isn't just about being a 'fast talker.' In fact, the best negotiators are often the best listeners and the most meticulous researchers. In the world of debt settlement, a high-stakes negotiator must possess a very specific set of skills that combine legal knowledge, financial analysis, and psychological insight.
                             </p>
                             <div className="grid md:grid-cols-3 gap-6 mb-12">
                                 <div className="p-8 rounded-2xl bg-gray-50 border border-gray-100 shadow-sm relative overflow-hidden group">
                                     <div className="w-12 h-12 bg-[#1F5EFF] rounded-full flex items-center justify-center mb-6 text-white text-xl font-bold group-hover:scale-110 transition-transform">1</div>
-                                    <h3 className="font-bold text-lg mb-3">Legal Literacy</h3>
+                                    <h4 className="font-bold text-lg mb-3">Legal Literacy</h4>
                                     <p className="text-gray-500 text-sm leading-relaxed">Understanding SARFAESI, DRT rules, and the Indian Evidence Act is non-negotiable. Leverage is built on the threat of legal stalemate.</p>
                                 </div>
                                 <div className="p-8 rounded-2xl bg-gray-50 border border-gray-100 shadow-sm relative overflow-hidden group">
                                     <div className="w-12 h-12 bg-[#1F5EFF] rounded-full flex items-center justify-center mb-6 text-white text-xl font-bold group-hover:scale-110 transition-transform">2</div>
-                                    <h4 className="font-bold text-lg mb-3">Data Mastery</h4>
+                                    <h5 className="font-bold text-lg mb-3">Data Mastery</h5>
                                     <p className="text-gray-500 text-sm leading-relaxed">Knowing the 'Provisioning Floor' of a specific bank branch. Data on past settlements is the primary weapon in modern negotiation.</p>
                                 </div>
                                 <div className="p-8 rounded-2xl bg-gray-50 border border-gray-100 shadow-sm relative overflow-hidden group">
                                     <div className="w-12 h-12 bg-[#1F5EFF] rounded-full flex items-center justify-center mb-6 text-white text-xl font-bold group-hover:scale-110 transition-transform">3</div>
-                                    <h5 className="font-bold text-lg mb-3">Emotional IQ</h5>
+                                    <h6 className="font-bold text-lg mb-3">Emotional IQ</h6>
                                     <p className="text-gray-500 text-sm leading-relaxed">The ability to remain calm while facing aggressive bank lawyers. Effective negotiators absorb the stress so the borrower doesn't have to.</p>
                                 </div>
                             </div>
@@ -341,9 +341,9 @@ export default function EffectiveNegotiationPage() {
                         </section>
 
                         <section id="strategy-vs-talk" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                                 Why 'Talk' is Cheap but 'Strategy' is Expensive
-                            </h2>
+                            </h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 Many fly-by-night settlement agencies promise 'excellent negotiation' but all they really do is make a few phone calls and hope for the best. This is not negotiation; it is gambling with your financial future. True negotiation strategy involves a multi-layered approach that begins months before the first offer is even made to the bank.
                             </p>
@@ -378,9 +378,9 @@ export default function EffectiveNegotiationPage() {
                         </section>
 
                         <section id="journey-map" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                                 The 6-Month Negotiation Roadmap: A Deep Dive
-                            </h2>
+                            </h3>
                             <p className="text-lg leading-relaxed mb-10">
                                 Effective negotiation is a marathon, not a sprint. At SettleLoans, we follow a rigorous 6-month roadmap that has been optimized over thousands of successful cases. This journey is designed to maximize leverage and minimize the emotional stress on the borrower.
                             </p>
@@ -410,9 +410,9 @@ export default function EffectiveNegotiationPage() {
                         </section>
 
                         <section id="bank-psychology" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                                 Banking Recovery Psychology: How Banks Think
-                            </h2>
+                            </h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 To negotiate effectively, you must step into the shoes of your opponent. A bank is not a monolithic entity; it is a collection of departments, each with its own goals and KPIs. The Recovery Department wants to maximize cash flow. The Credit Department wants to minimize risk. The Legal Department wants to minimize procedural liability.
                             </p>
@@ -420,7 +420,7 @@ export default function EffectiveNegotiationPage() {
                                 A high-authority negotiator knows which 'Lever' to pull for which department. If they are talking to a legal officer, they focus on the risk of a 5-year stay in the DRT. If they are talking to a recovery manager, they focus on the 'Provisioning Reversal' that will hit their branch's profitability as long as your loan remains an NPA.
                             </p>
                             <div className="bg-blue-50 p-10 rounded-3xl border-l-8 border-blue-500 mb-8 shadow-inner">
-                                <h3 className="text-xl font-bold text-blue-900 mb-4">The 'Provisioning' Secret</h3>
+                                <h4 className="text-xl font-bold text-blue-900 mb-4">The 'Provisioning' Secret</h4>
                                 <p className="text-blue-800 leading-relaxed italic">
                                     "When a loan goes into default, the bank has to 'Provision' or set aside money to cover the potential loss. This money cannot be used to give new loans, which costs the bank profit. A settlement 'Reverses' this provision, suddenly giving the branch manager a boost in their available capital. Effective negotiators use this specific financial pressure to force a decision."
                                 </p>
@@ -431,9 +431,9 @@ export default function EffectiveNegotiationPage() {
                         </section>
 
                         <section id="lawyers-vs-agencies" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                                 Lawyer vs. Agency: Who has the real leverage?
-                            </h2>
+                            </h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 Many borrowers instinctively turn to a lawyer when they face debt trouble. While lawyers are essential for defending you in a courtroom, they are often surprisingly poor negotiators in a commercial context. A lawyer's mindset is adversarial; they want to win a legal battle. A negotiator's mindset is commercial; they want to close a deal.
                             </p>
@@ -446,9 +446,9 @@ export default function EffectiveNegotiationPage() {
                         </section>
 
                         <section id="tech-leverage" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                                 How Technology Powers Effective Negotiation
-                            </h2>
+                            </h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 If you walked into a bank today to negotiate, you would be operating with 1 percent of the information. The bank knows everything about you, but you know nothing about their internal targets. Modern debt resolution platforms have flipped this script. They use 'Big Data' to level the playing field.
                             </p>
@@ -457,14 +457,14 @@ export default function EffectiveNegotiationPage() {
                             </p>
                             <div className="bg-[#2E2E2E] text-white p-12 rounded-[40px] mb-12 shadow-2xl relative overflow-hidden">
                                 <div className="absolute top-0 right-0 w-32 h-32 bg-[#1F5EFF] opacity-10 rounded-full -mr-16 -mt-16"></div>
-                                <h3 className="text-2xl font-black mb-8 text-[#1F5EFF] uppercase tracking-widest">Our Tech Pillars</h3>
+                                <h4 className="text-2xl font-black mb-8 text-[#1F5EFF] uppercase tracking-widest">Our Tech Pillars</h4>
                                 <ul className="space-y-8">
                                     <li className="flex gap-6 items-start">
                                         <div className="flex-shrink-0 w-10 h-10 bg-white/5 rounded-full flex items-center justify-center border border-white/10 group-hover:bg-[#1F5EFF] transition-colors">
                                             <FontAwesomeIcon icon={faHandshake} className="text-[#1F5EFF] w-5 h-5" />
                                         </div>
                                         <div>
-                                            <h4 className="font-bold text-lg mb-1">AI-Predictive Bidding</h4>
+                                            <h5 className="font-bold text-lg mb-1">AI-Predictive Bidding</h5>
                                             <p className="text-gray-400 text-sm leading-relaxed">We know the bank's 'Pain Point' before the negotiation even begins, preventing you from overpaying.</p>
                                         </div>
                                     </li>
@@ -473,7 +473,7 @@ export default function EffectiveNegotiationPage() {
                                             <FontAwesomeIcon icon={faShieldHalved} className="text-[#1F5EFF] w-5 h-5" />
                                         </div>
                                         <div>
-                                            <h5 className="font-bold text-lg mb-1">Blockchain Verification</h5>
+                                            <h6 className="font-bold text-lg mb-1">Blockchain Verification</h6>
                                             <p className="text-gray-400 text-sm leading-relaxed">Ensuring every settlement letter is 100% authentic and won't be challenged by the bank later.</p>
                                         </div>
                                     </li>
@@ -482,9 +482,9 @@ export default function EffectiveNegotiationPage() {
                         </section>
 
                         <section id="credit-optimization" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                                 Credit Score Optimization during Negotiation
-                            </h2>
+                            </h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 A major fear for borrowers is that negotiation will 'Kill' their CIBIL score. While it is true that a settlement is better than a default but worse than a full payment, an effective agency has 'Credit Repair' built into their negotiation strategy.
                             </p>
@@ -494,9 +494,9 @@ export default function EffectiveNegotiationPage() {
                         </section>
 
                         <section id="harassment-mitigation" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                                 Handling Recovery Agents: The Negotiator's Role
-                            </h2>
+                            </h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 The most traumatic part of debt is the harassment from third-party recovery agents. These agents are paid on commission and often use illegal tactics like calling relatives or showing up at workplaces. An effective negotiation service takes this 'Off Your Plate' on Day 1.
                             </p>
@@ -506,9 +506,9 @@ export default function EffectiveNegotiationPage() {
                         </section>
 
                         <section id="global-context" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                                 India vs Global Standards: The Settlement Landscape
-                            </h2>
+                            </h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 How does debt negotiation in India compare to the West? In the USA, systems like Chapter 7 and Chapter 13 bankruptcy provide a clear legal exit. In India, we don't yet have an 'Individual Insolvency' law for non-business debt that is fully functional. This makes negotiation even more critical. In India, you are negotiating in a 'Lender-Friendly' environment, whereas in Europe or the US, the laws are more 'Borrower-Friendly.'
                             </p>
@@ -518,9 +518,9 @@ export default function EffectiveNegotiationPage() {
                         </section>
 
                         <section id="future-trends" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                                 Future Trends: Prop-tech and Fin-tech Integration
-                            </h2>
+                            </h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 As we move toward 2030, debt resolution will become almost entirely digital. We are already seeing the rise of 'Smart Contracts' for settlement, where the money is held in escrow and only released to the bank once a digital NDC is issued. This will eliminate the risk of bank officers taking the money and then 'forgetting' to clear the dues.
                             </p>
@@ -530,7 +530,7 @@ export default function EffectiveNegotiationPage() {
                         </section>
 
                         <section id="faqs" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-bold text-[var(--color-primary)] mt-16 mb-8">Expert Negotiation FAQs</h2>
+                            <h3 className="text-3xl md:text-4xl font-bold text-[var(--color-primary)] mt-16 mb-8">Expert Negotiation FAQs</h3>
                             <div className="space-y-4 not-prose">
                                 {[
                                     { q: "What makes a debt settlement service effective at negotiation?", a: "Effective services use three pillars: relationships with bank head offices, massive databases of past settlement rates, and a legal team that identifies procedural vulnerabilities." },
@@ -567,7 +567,7 @@ export default function EffectiveNegotiationPage() {
                         <section className="bg-[#1F5EFF] rounded-[10px] p-8 md:p-12 text-center text-white relative overflow-hidden shadow-2xl">
                             <div className="absolute top-0 right-0 w-64 h-64 bg-white/10 rounded-full -mr-32 -mt-32"></div>
                             <div className="relative z-10">
-                                <h2 className="text-3xl md:text-5xl font-black mb-6 uppercase tracking-tighter">Win Your Financial Freedom</h2>
+                                <h3 className="text-3xl md:text-5xl font-black mb-6 uppercase tracking-tighter">Win Your Financial Freedom</h3>
                                 <p className="text-lg md:text-2xl opacity-90 max-w-2xl mx-auto mb-10 leading-tight font-normal">
                                     Join 2,150+ individuals who have used our data-driven negotiation to settle their debts for a fraction of the cost.
                                 </p>

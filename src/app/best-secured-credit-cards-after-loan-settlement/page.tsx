@@ -513,9 +513,9 @@ export default function BestSecuredCreditCardsPage() {
 
             {/* Section 2: Statutory Framework: CICRA 2005 and RBI Master Directions */}
             <section id="statutory-framework-cicra-rbi" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                 2. Statutory Framework: CICRA 2005 and RBI Master Directions
-              </h2>
+              </h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Navigating credit recovery requires understanding the statutory boundaries governing credit reporting. Under CICRA 2005, credit bureaus maintain historical repayment records submitted by member banks. Section 17 and Section 21 mandate factual accuracy, preventing credit bureaus from arbitrarily erasing an authentic Settled remark without formal lender confirmation and a valid No Dues Certificate.
               </p>
@@ -526,9 +526,9 @@ export default function BestSecuredCreditCardsPage() {
 
             {/* Section 3: The Mechanics of FD-Backed Secured Credit Cards */}
             <section id="mechanics-fd-backed-credit-cards" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                 3. The Mechanics of FD-Backed Secured Credit Cards
-              </h2>
+              </h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Secured credit cards operate on collateral security rather than unencumbered cash flows or historical bureau scores. The applicant opens a Fixed Deposit (FD) with the issuing institution. Under Section 171 of the Indian Contract Act, 1872, the bank establishes a Banker&apos;s General Lien over the deposit. If the cardholder defaults, the bank holds the statutory right to liquidate deposit funds to satisfy outstanding statement balances.
               </p>
@@ -539,9 +539,9 @@ export default function BestSecuredCreditCardsPage() {
 
             {/* Section 4: Bank Underwriting Algorithms & Credit Recovery Formula */}
             <section id="bank-underwriting-recovery-formula" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                 4. Bank Underwriting Algorithms &amp; Credit Recovery Formula
-              </h2>
+              </h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Under Basel III and RBI capital adequacy norms, unsecured revolving credit carries risk weights of 125% to 150%, forcing banks to allocate reserves against potential defaults. In contrast, cash-collateralized credit lines carry a 0% risk weight, insulating lenders from credit loss. In the TransUnion CIBIL scoring model, your score is calculated across Payment History (35%), Credit Utilization (30%), Credit Age (15%), Credit Mix (10%), and Inquiries (10%).
               </p>
@@ -567,9 +567,9 @@ export default function BestSecuredCreditCardsPage() {
 
             {/* Section 5: Secured Credit Card Rehabilitation Visual Roadmap */}
             <section id="secured-card-rehabilitation-roadmap" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                 5. Secured Credit Card Rehabilitation Visual Roadmap
-              </h2>
+              </h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 The visual roadmap below details the complete 5-stage institutional progression from completing a loan settlement and managing the initial score decline, to opening an FD-backed card, optimizing monthly credit utilization, transmitting fresh data to credit bureaus, and reaching the coveted 750+ CIBIL milestone.
               </p>
@@ -604,9 +604,9 @@ export default function BestSecuredCreditCardsPage() {
 
             {/* Section 6: Top Secured Cards Compared: IDFC, Kotak, and SBM */}
             <section id="top-secured-cards-comparison" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                 6. Top Secured Cards Compared: IDFC, Kotak, and SBM
-              </h2>
+              </h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Selecting an appropriate secured card requires evaluating three core criteria: lifetime free maintenance, 100% digital KYC onboarding, and reliable monthly data reporting to TransUnion CIBIL, Experian, and CRIF High Mark. Three financial products currently dominate the Indian retail credit rehabilitation landscape:
               </p>
@@ -661,9 +661,9 @@ export default function BestSecuredCreditCardsPage() {
 
             {/* Section 7: CUR Calibration Under 30% and Payment Forensics */}
             <section id="cur-calibration-payment-forensics" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                 7. CUR Calibration Under 30% and Payment Forensics
-              </h2>
+              </h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Obtaining a secured card is only the prerequisite step; managing utilization within credit bureau parameters dictates the speed of recovery. Spending ₹9,500 on a ₹10,000 card produces a 95% Credit Utilization Ratio (CUR). Even when paid in full before the due date, this high reported utilization depresses bureau scores.
               </p>
@@ -674,9 +674,9 @@ export default function BestSecuredCreditCardsPage() {
 
             {/* Section 8: Credit Bureau Reporting Trajectory from 580 to 750+ */}
             <section id="bureau-reporting-750-score-timeline" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                 8. Credit Bureau Reporting Trajectory from 580 to 750+
-              </h2>
+              </h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Commercial banks submit Credit Information Reports (CIR) to TransUnion CIBIL, Experian, Equifax, and CRIF High Mark between the 1st and 15th of each month. Rebuilding your score follows a predictable four-stage trajectory over 12 to 18 billing cycles:
               </p>
@@ -711,9 +711,9 @@ export default function BestSecuredCreditCardsPage() {
 
             {/* Section 9: Secured Cards Comparative Technical Evaluation Matrix */}
             <section id="secured-cards-comparative-matrix" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                 9. Secured Cards Comparative Technical Evaluation Matrix
-              </h2>
+              </h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 The matrix below compares key specifications across India&apos;s leading secured credit cards to assist settled borrowers in selecting the best product for their financial profile:
               </p>
@@ -775,9 +775,9 @@ export default function BestSecuredCreditCardsPage() {
             {/* Section 10: SettleLoans Legal Defense & Advisory + CompanySection */}
             <section id="settleloans-rehabilitation-advisory" className="space-y-6">
               <div className="border-t border-slate-200 pt-8 space-y-4">
-                <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
+                <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                   10. SettleLoans Strategic Rehabilitation &amp; Legal Advisory
-                </h2>
+                </h3>
                 <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                   Completing a loan settlement is only the first step toward financial stability. Borrowers frequently find that former lenders delay issuing official No Dues Certificates (NDCs), misreport settled accounts as active write-offs, or neglect to update bureau records. SettleLoans provides comprehensive legal and financial guidance across India: enforcing compliance under RBI Circular RBI/2023-24/60, lodging formal bureau rectification disputes under CICRA, and structuring customized credit rebuilding plans to elevate scores from sub-600 levels back into the 750+ prime tier.
                 </p>
@@ -791,9 +791,9 @@ export default function BestSecuredCreditCardsPage() {
             <section id="faqs" className="space-y-4 border-t border-slate-200 pt-8">
               <div className="flex items-center gap-2 mb-2">
                 <HelpCircle className="w-5 h-5 text-[#1F5EFF]" />
-                <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
+                <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                   11. Frequently Asked Questions on Post-Settlement Cards
-                </h2>
+                </h3>
               </div>
               <p className="text-xs sm:text-sm text-slate-600 mb-6">
                 Direct, verified answers from banking litigation and credit recovery specialists addressing secured credit cards, CIBIL rebuilding, and post-settlement credit eligibility.

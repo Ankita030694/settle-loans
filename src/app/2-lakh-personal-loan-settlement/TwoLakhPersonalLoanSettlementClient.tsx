@@ -370,9 +370,9 @@ export default function TwoLakhPersonalLoanSettlementClient() {
                 <Clock className="w-4 h-4" />
                 <span>2. Delinquency Timeline &amp; NPA Aging</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 Delinquency Milestones &amp; RBI IRACP Provisioning Dynamics for ₹2 Lakh Loans
-              </h2>
+              </h3>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 When monthly installments on a ₹2 Lakh personal loan remain unpaid, the credit facility transitions through rigorous statutory stages established by the Reserve Bank of India under its <strong>Master Framework on Prudential Norms on Income Recognition, Asset Classification and Provisioning (IRACP)</strong>. Understanding this balance-sheet trajectory empowers borrowers, as a bank&apos;s willingness to grant substantial principal haircuts is directly tied to the accounting aging of the defaulted asset.
               </p>
@@ -434,19 +434,19 @@ export default function TwoLakhPersonalLoanSettlementClient() {
                 <Calculator className="w-4 h-4" />
                 <span>3. Haircut Formula &amp; Realistic Settlement Slabs</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 The Mathematical Haircut Formula: Realistic ₹2 Lakh Settlement Slabs (₹60k–₹1L)
-              </h2>
+              </h3>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 A common misconception is that personal loan settlements are arbitrary figures determined entirely by informal arguments with recovery agents. Under the <strong>RBI Master Direction on Compromise Settlements and Technical Write-offs (2023)</strong>, all regulated lenders must follow a standardized, board-approved compromise policy grounded in the <em>Net Present Value (NPV) Recovery Calculation</em>:
               </p>
               
               {/* Highlighted Statutory Callout Box */}
               <div className="bg-slate-50 border-l-4 border-[#1F5EFF] p-5 rounded-r-2xl my-6">
-                <h3 className="text-slate-900 font-bold text-base mb-2 flex items-center gap-2">
+                <h4 className="text-slate-900 font-bold text-base mb-2 flex items-center gap-2">
                   <Info className="w-5 h-5 text-[#1F5EFF]" />
                   Statutory Net Present Value (NPV) Valuation Rule
-                </h3>
+                </h4>
                 <p className="text-slate-700 text-sm leading-relaxed">
                   According to RBI compromise settlement guidelines, the compromise amount offered by the borrower must be greater than or equal to the Net Present Value (NPV) of the estimated net realisable recovery through judicial proceedings, discounted at the bank&apos;s prevailing base rate over a 3-to-5 year litigation horizon minus projected legal expenses.
                 </p>
@@ -507,9 +507,9 @@ export default function TwoLakhPersonalLoanSettlementClient() {
                 <ShieldAlert className="w-4 h-4" />
                 <span>4. Recovery Tactics &amp; Harassment Defense</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 The Small-Ticket Recovery Trap: Relentless Tele-Calling vs. Legal Realities
-              </h2>
+              </h3>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 If banks rarely file civil lawsuits for a ₹2 Lakh personal loan, why is borrower harassment so disproportionately intense? In Indian retail lending, small-ticket loans (₹50,000 to ₹3,00,000) represent the core revenue pool for third-party <strong>Debt Recovery Agencies (DRAs)</strong>. Because these agencies operate on contingency commissions ranging from 15% to 25% on recovered capital, their agents are under intense daily pressure to extract immediate payments.
               </p>
@@ -533,9 +533,9 @@ export default function TwoLakhPersonalLoanSettlementClient() {
                       <span className="text-[10px] font-black uppercase tracking-widest text-blue-300 block">
                         Legal Defense &amp; Action Blueprint
                       </span>
-                      <h3 className="text-sm md:text-base font-black text-white leading-tight">
+                      <h4 className="text-sm md:text-base font-black text-white leading-tight">
                         2 Lakh Personal Loan Settlement Roadmap &amp; Haircut Matrix
-                      </h3>
+                      </h4>
                     </div>
                   </div>
                   <a
@@ -582,9 +582,9 @@ export default function TwoLakhPersonalLoanSettlementClient() {
                 <Layers className="w-4 h-4" />
                 <span>5. Step-by-Step Strategic Roadmap</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 Step-by-Step Strategic Roadmap to Settle a ₹2 Lakh Loan Compromise
-              </h2>
+              </h3>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Navigating a ₹2 Lakh personal loan settlement requires a disciplined negotiation protocol that bypasses commission-seeking agency tele-callers and engages directly with the bank&apos;s Stressed Assets Resolution Branch (SARB) or Zonal Settlement Committee.
               </p>
@@ -602,9 +602,9 @@ export default function TwoLakhPersonalLoanSettlementClient() {
                 <Gavel className="w-4 h-4" />
                 <span>6. Legal Landscape &amp; Defense Protocols</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 Legal Exposure for ₹2 Lakh Defaults: Section 138 NI Act, Section 25 PSSA &amp; Police Myths
-              </h2>
+              </h3>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 A primary driver of anxiety in small-ticket defaults is the apprehension of criminal prosecution. Under Indian contract jurisprudence, the pure inability to service an unsecured loan is strictly a civil matter. The police have no statutory power to register an FIR under Section 420 of the IPC (or Section 318 of the Bharatiya Nyaya Sanhita, 2023) unless the lender can establish fraudulent misrepresentation or forged documentation at loan disbursement.
               </p>
@@ -622,9 +622,9 @@ export default function TwoLakhPersonalLoanSettlementClient() {
                 <TrendingUp className="w-4 h-4" />
                 <span>7. Comparative Resolution Avenues</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 Bilateral OTS vs. National Lok Adalat vs. Loan Restructuring for ₹2 Lakh Loans
-              </h2>
+              </h3>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Borrowers struggling with a ₹2 Lakh personal loan default have three primary legal pathways for resolving their debt obligations. Selecting the appropriate mechanism depends on immediate liquidity, ongoing legal notices, and future credit rebuilding goals.
               </p>
@@ -674,9 +674,9 @@ export default function TwoLakhPersonalLoanSettlementClient() {
                 <FileCheck className="w-4 h-4" />
                 <span>8. Sanction Letter Audit &amp; ₹0 NDC Mandate</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 The OTS Sanction Letter Audit: Mandatory Clauses &amp; The ₹0 NDC Mandate
-              </h2>
+              </h3>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 A major hazard in settling small-ticket loans is falling victim to unauthorized recovery agent fraud. In countless instances, borrowers transfer funds based on verbal promises or fraudulent WhatsApp receipts, only to discover that the bank credited the payment toward partial overdue interest while keeping the ₹2 Lakh loan delinquent.
               </p>
@@ -694,9 +694,9 @@ export default function TwoLakhPersonalLoanSettlementClient() {
                 <TrendingUp className="w-4 h-4" />
                 <span>9. CIBIL Score Trajectory &amp; Rehabilitation</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 CIBIL Score Impact &amp; 18–24 Month Credit Rebuilding Blueprint Post-Settlement
-              </h2>
+              </h3>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Following the execution of an OTS on a ₹2 Lakh personal loan, the lending institution updates the four RBI-licensed credit information companies (TransUnion CIBIL, Experian, Equifax, and CRIF High Mark), changing the account status to <strong>&apos;Settled&apos;</strong> and reducing the current balance to <strong>₹0</strong>.
               </p>
@@ -714,9 +714,9 @@ export default function TwoLakhPersonalLoanSettlementClient() {
                 <ShieldCheck className="w-4 h-4" />
                 <span>10. Legal Defense &amp; Representation</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 Why Distressed Borrowers Choose SettleLoans for ₹2 Lakh Loan Resolution
-              </h2>
+              </h3>
               <p className="text-slate-700 leading-relaxed mb-6 text-base md:text-lg">
                 Negotiating an equitable settlement on a ₹2 Lakh personal loan requires seasoned banking litigation counsel. The legal advocates and debt strategists at SettleLoans provide comprehensive protection: issuing immediate cease-and-desist notices to halt collection agent harassment, auditing bank provisioning buckets, and negotiating directly with Zonal Credit Committees to secure the highest permissible debt waiver under RBI frameworks.
               </p>
@@ -733,9 +733,9 @@ export default function TwoLakhPersonalLoanSettlementClient() {
                 <HelpCircle className="w-4 h-4" />
                 <span>11. Frequently Asked Questions</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
                 Frequently Asked Questions About Settling a ₹2 Lakh Personal Loan
-              </h2>
+              </h3>
 
               <div className="space-y-3">
                 {faqs.map((faq, index) => (
@@ -752,10 +752,10 @@ export default function TwoLakhPersonalLoanSettlementClient() {
 
             {/* Regulatory References & Official Sources Strip */}
             <div className="bg-slate-50 border border-slate-200 rounded-2xl p-6 my-10">
-              <h3 className="text-base font-bold text-slate-900 mb-4 flex items-center gap-2">
+              <h4 className="text-base font-bold text-slate-900 mb-4 flex items-center gap-2">
                 <Landmark className="w-5 h-5 text-[#1F5EFF]" />
                 Official Regulatory References &amp; Statutory Frameworks
-              </h3>
+              </h4>
               <ul className="space-y-3 text-xs text-slate-600">
                 <li className="flex items-start gap-2">
                   <ExternalLink className="w-4 h-4 text-[#1F5EFF] flex-shrink-0 mt-0.5" />
@@ -817,10 +817,10 @@ export default function TwoLakhPersonalLoanSettlementClient() {
 
             {/* Related Guides & Resources Strip (10 Topic Badges) */}
             <div className="bg-slate-50 border border-slate-200 rounded-2xl p-6 my-10">
-              <h3 className="text-base font-bold text-slate-900 mb-4 flex items-center gap-2">
+              <h4 className="text-base font-bold text-slate-900 mb-4 flex items-center gap-2">
                 <BookOpen className="w-5 h-5 text-[#1F5EFF]" />
                 Explore Related Banking &amp; Debt Resolution Guides
-              </h3>
+              </h4>
               <div className="flex flex-wrap gap-2.5">
                 <Link
                   href="/5-lakh-personal-loan-settlement"

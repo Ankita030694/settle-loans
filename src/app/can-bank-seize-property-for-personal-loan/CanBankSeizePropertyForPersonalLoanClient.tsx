@@ -155,7 +155,7 @@ export default function CanBankSeizePropertyForPersonalLoanClient() {
       question: "Which assets are completely protected from attachment under Section 60 of CPC?",
       answer: (
         <p>
-          Section 60 of the Code of Civil Procedure, 1908 grants absolute statutory exemption from court attachment for essential assets, including: 1) Necessary wearing apparel, cooking vessels, and bedding. 2) Tools of artisans and agricultural implements. 3) Sole residential house of an agriculturist or laborer. 4) Mandatory portions of salary (the first ₹1,000 plus two-thirds of the remainder are completely exempt). 5) Statutory Employee Provident Fund (EPF), Gratuity, and life insurance policy proceeds.
+          Section 60 of the Code of Civil Procedure, 1908 grants absolute statutory exemption from court attachment for essential assets, including: 1) Necessary wearing apparel, cooking vessels, and bedding. 2) Tools of artisans and agricultural applies. 3) Sole residential house of an agriculturist or laborer. 4) Mandatory portions of salary (the first ₹1,000 plus two-thirds of the remainder are completely exempt). 5) Statutory Employee Provident Fund (EPF), Gratuity, and life insurance policy proceeds.
         </p>
       )
     },
@@ -163,7 +163,7 @@ export default function CanBankSeizePropertyForPersonalLoanClient() {
       question: "Can a bank freeze my salary account or attach my entire salary?",
       answer: (
         <p>
-          A bank cannot arbitrarily freeze your salary account maintained in another independent financial institution without a formal court decree. If the default occurs with the exact same bank where your salary is deposited, the bank may attempt to exercise a Banker&apos;s Right of Set-Off under Section 171 of the Indian Contract Act. However, in court-directed execution proceedings, Section 60 CPC strictly caps salary attachment, ensuring that the majority of income remains protected for living subsistence.
+          A bank cannot arbitrarily freeze your salary account maintained in another independent financial institution without a formal court decree. If the default occurs with the exact same bank where your salary is deposited, the bank may attempt to exercise a Banker&apos;s Right of Set-Off under Section 171 of the Indian Contract Act. However, in court-directed execution cases, Section 60 CPC strictly caps salary attachment, ensuring that the majority of income remains protected for living subsistence.
         </p>
       )
     },
@@ -171,7 +171,7 @@ export default function CanBankSeizePropertyForPersonalLoanClient() {
       question: "What legitimate legal steps can a bank take to recover personal loan dues?",
       answer: (
         <p>
-          For personal loans, banks can: 1) Report the default to credit information companies (CIBIL, Experian, Equifax), lowering your credit score. 2) Issue formal statutory demand notices. 3) File a Civil Summary Suit under Order 37 of the Code of Civil Procedure, 1908. 4) Initiate Section 138 NI Act or Section 25 PSSA proceedings if cheques or NACH auto-debits bounced. 5) Refer the dispute to National Lok Adalat for an amicable compromise settlement.
+          For personal loans, banks can: 1) Report the default to credit information companies (CIBIL, Experian, Equifax), lowering your credit score. 2) Issue formal statutory demand notices. 3) File a Civil Summary Suit under Order 37 of the Code of Civil Procedure, 1908. 4) start Section 138 NI Act or Section 25 PSSA cases if cheques or NACH auto-debits bounced. 5) Refer the dispute to National Lok Adalat for an amicable compromise settlement.
         </p>
       )
     },
@@ -403,7 +403,7 @@ export default function CanBankSeizePropertyForPersonalLoanClient() {
               {/* Highlighted Statutory Callout Box */}
               <div className="bg-slate-100 border-l-4 border-[#1F5EFF] p-5 rounded-r-xl my-6">
                 <p className="text-sm md:text-base font-semibold text-slate-900 italic">
-                  &quot;An unsecured creditor has no proprietary interest or charge over any specific asset of the borrower. The relationship is purely that of a debtor and creditor governed by the Indian Contract Act, 1872. In the absence of an enforceable mortgage or registered charge, no summary recovery or extra-judicial possession of property can be initiated.&quot;
+                  &quot;An unsecured creditor has no proprietary interest or charge over any specific asset of the borrower. The relationship is purely that of a debtor and creditor governed by the Indian Contract Act, 1872. In the absence of an enforceable mortgage or registered charge, no summary recovery or extra-judicial possession of property can be started.&quot;
                 </p>
                 <p className="text-xs text-slate-500 mt-2 font-medium">
                   — Principles of Commercial Jurisprudence &amp; Indian Contract Act, 1872
@@ -414,15 +414,15 @@ export default function CanBankSeizePropertyForPersonalLoanClient() {
                 Let us state the foundational legal reality unequivocally: <strong>A bank or NBFC cannot seize, attach, or auction your immovable or movable property simply because you defaulted on an unsecured personal loan.</strong> Unlike home loans or auto loans, personal loans are extended solely on the basis of your creditworthiness, income verification, and personal promise to repay. You never signed a mortgage deed, never handed over property title deeds, and never hypothecated your vehicle or household assets to the lender.
               </p>
               <p className="text-base leading-relaxed mb-5 text-slate-700">
-                Under the Indian legal framework, commercial lenders account for the risk of default by charging substantially higher interest rates on unsecured personal loans—ranging from 12% to 36% per annum. This elevated pricing model reflects the reality that the lender has zero security backing the facility. Consequently, if a borrower defaults due to genuine financial distress, the bank cannot take the law into its own hands. Any attachment of property requires an exhaustive, multi-year civil court litigation ending in an enforceable money decree.
+                Under the Indian legal framework, commercial lenders account for the risk of default by charging greatly higher interest rates on unsecured personal loans—ranging from 12% to 36% per annum. This elevated pricing model reflects the reality that the lender has zero security backing the facility. so, if a borrower defaults due to genuine financial distress, the bank cannot take the law into its own hands. Any attachment of property requires an exhaustive, multi-year civil court litigation ending in an enforceable money decree.
               </p>
             </section>
 
             {/* Section 2 */}
             <section id="sarfaesi-act-inapplicability" className="scroll-mt-28 mb-14">
-              <h2 className="text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
+              <h3 className="text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
                 2. Secured vs Unsecured Debt: Why SARFAESI Does Not Apply
-              </h2>
+              </h3>
               <p className="text-base leading-relaxed mb-5 text-slate-700">
                 To understand why your property is legally safe, it is essential to examine the statutory framework governing loan recovery in India. When recovery agents threaten property attachment, they often quote the <em>SARFAESI Act (Securitisation and Reconstruction of Financial Assets and Enforcement of Security Interest Act, 2002)</em>. However, this statute applies exclusively to secured credit facilities.
               </p>
@@ -472,9 +472,9 @@ export default function CanBankSeizePropertyForPersonalLoanClient() {
                 </table>
               </div>
 
-              <h3 className="text-xl font-bold text-slate-900 mb-4 mt-8">
+              <h4 className="text-xl font-bold text-slate-900 mb-4 mt-8">
                 The Statutory Definition of &quot;Security Interest&quot; under SARFAESI
-              </h3>
+              </h4>
               <p className="text-base leading-relaxed mb-4 text-slate-700">
                 Under Section 2(1)(zf) of the SARFAESI Act, a &quot;security interest&quot; has a specific definition. It means any right, title, or interest upon property created in favour of a secured creditor. This includes any mortgage, charge, hypothecation, or assignment. Section 13(2) explicitly mandates that enforcement notices can only be served where a security interest exists.
               </p>
@@ -485,14 +485,14 @@ export default function CanBankSeizePropertyForPersonalLoanClient() {
 
             {/* Section 3 */}
             <section id="recovery-agent-myths" className="scroll-mt-28 mb-14">
-              <h2 className="text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
+              <h3 className="text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
                 3. Dismantling Recovery Agent Extortion
-              </h2>
+              </h3>
               <p className="text-base leading-relaxed mb-5 text-slate-700">
-                Third-party collection agencies rely almost exclusively on psychological pressure and manufactured panic to coerce payments. Unregulated collection representatives often send fake legal notices formatted to look like court warrants, threatening that &quot;court bailiffs accompanied by police officers will seize movable inventory within 48 hours.&quot;
+                Third-party collection agencies rely almost exclusively on psychological pressure and manufactured panic to coerce payments. Unregulated collection agents often send fake legal notices formatted to look like court warrants, threatening that &quot;court bailiffs accompanied by police officers will seize movable inventory within 48 hours.&quot;
               </p>
               <p className="text-base leading-relaxed mb-5 text-slate-700">
-                It is crucial to recognize these communications as illegal extortion tactics. In the landmark Supreme Court ruling in <em>ICICI Bank Ltd. v. Prakash Kaur (2007)</em>, the apex court condemned the use of strong-arm tactics and musclemen by financial institutions, ruling that banks are vicariously liable for the illegal conduct of their outsourced recovery agents.
+                It is crucial to recognize these notices as illegal extortion tactics. In the landmark Supreme Court ruling in <em>ICICI Bank Ltd. v. Prakash Kaur (2007)</em>, the apex court condemned the use of strong-arm tactics and musclemen by financial institutions, ruling that banks are vicariously liable for the illegal conduct of their outsourced recovery agents.
               </p>
 
               {/* Callout Warning Box */}
@@ -513,11 +513,11 @@ export default function CanBankSeizePropertyForPersonalLoanClient() {
 
             {/* Section 4 */}
             <section id="civil-court-attachment-procedure" className="scroll-mt-28 mb-14">
-              <h2 className="text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
+              <h3 className="text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
                 4. The Legitimate Legal Attachment Procedure
-              </h2>
+              </h3>
               <p className="text-base leading-relaxed mb-5 text-slate-700">
-                While extra-judicial property seizure is completely prohibited, does a lending bank possess any lawful mechanism to attach a borrower&apos;s property? Yes, but only through a rigorous, multi-stage civil judicial trial governed by the <em>Code of Civil Procedure (CPC), 1908</em>. Understanding this judicial process demonstrates why banks rarely attempt property attachment for retail personal loans.
+                While extra-judicial property seizure is completely prohibited, does a lending bank possess any lawful mechanism to attach a borrower&apos;s property? Yes, but only through a rigorous, multi-stage civil judicial trial governed by the <em>Code of Civil Procedure (CPC), 1908</em>. Understanding this judicial process shows why banks rarely attempt property attachment for retail personal loans.
               </p>
               <p className="text-base leading-relaxed mb-5 text-slate-700">
                 To execute any attachment, the bank must first institute a formal civil suit for recovery (typically under <strong>Order 37 CPC for Summary Suits</strong>). The civil court serves formal judicial summons upon the borrower. The borrower, represented by legal counsel, enters appearance and files an Application for Leave to Defend, challenging compound interest calculations, unadjusted charges, and documenting genuine financial hardship.
@@ -525,10 +525,10 @@ export default function CanBankSeizePropertyForPersonalLoanClient() {
 
               {/* Order 38 Rule 5 Detailed Breakdown */}
               <div className="bg-slate-50 border border-slate-200 rounded-2xl p-6 my-6">
-                <h3 className="text-base font-bold text-slate-900 mb-2 flex items-center gap-2">
+                <h4 className="text-base font-bold text-slate-900 mb-2 flex items-center gap-2">
                   <Gavel className="w-5 h-5 text-[#1F5EFF]" />
                   <span>The High Evidentiary Threshold of Order 38 Rule 5 (Attachment Before Judgment)</span>
-                </h3>
+                </h4>
                 <p className="text-sm text-slate-700 leading-relaxed mb-3">
                   During a civil recovery suit, a bank may file an interim application under Order 38 Rule 5 CPC for &quot;Attachment Before Judgment.&quot; However, the Supreme Court of India in <em>Raman Tech. &amp; Process Engg. Co. v. Solanki Traders (2008)</em> laid down clear boundaries. The Court ruled that Order 38 Rule 5 is a drastic power and cannot be exercised casually.
                 </p>
@@ -538,15 +538,15 @@ export default function CanBankSeizePropertyForPersonalLoanClient() {
               </div>
 
               <p className="text-base leading-relaxed mb-5 text-slate-700">
-                If the civil suit proceeds through trial, arguments, and evidence, obtaining a final money decree takes an average of <strong>3 to 7 years in Indian civil courts</strong>. Even after securing a decree, the bank must file separate Execution Proceedings under Order 21 of the CPC. This extensive duration and procedural complexity explain why commercial lenders overwhelmingly prefer negotiated debt settlements over litigation.
+                If the civil suit proceeds through trial, arguments, and evidence, obtaining a final money decree takes an average of <strong>3 to 7 years in Indian civil courts</strong>. Even after securing a decree, the bank must file separate Execution cases under Order 21 of the CPC. This extensive duration and procedural complexity explain why commercial lenders overwhelmingly prefer negotiated debt settlements over litigation.
               </p>
             </section>
 
             {/* Section 5: Infographic Action Blueprint Banner */}
             <section id="infographic-action-blueprint" className="scroll-mt-28 mb-14">
-              <h2 className="text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h3 className="text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 5. Legal Defense &amp; Asset Protection Blueprint
-              </h2>
+              </h3>
               <p className="text-base leading-relaxed mb-6 text-slate-700">
                 The visual blueprint below synthesizes the statutory realities, secured versus unsecured legal comparisons, the 5-stage formal court progression, and the typical default-to-resolution timeline under Indian law:
               </p>
@@ -562,9 +562,9 @@ export default function CanBankSeizePropertyForPersonalLoanClient() {
                       <span className="text-[10px] font-black uppercase tracking-widest text-blue-300 block">
                         Legal Defense &amp; Action Blueprint
                       </span>
-                      <h3 className="text-sm md:text-base font-black text-white leading-tight">
+                      <h4 className="text-sm md:text-base font-black text-white leading-tight">
                         Can Bank Seize Property for Personal Loan Summary &amp; Process Overview
-                      </h3>
+                      </h4>
                     </div>
                   </div>
                   <a
@@ -607,9 +607,9 @@ export default function CanBankSeizePropertyForPersonalLoanClient() {
 
             {/* Section 6 */}
             <section id="section-60-cpc-exemptions" className="scroll-mt-28 mb-14">
-              <h2 className="text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
+              <h3 className="text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
                 6. Statutory Immunity: Protected Assets Under Section 60 CPC
-              </h2>
+              </h3>
               <p className="text-base leading-relaxed mb-5 text-slate-700">
                 Suppose a bank pursues a civil suit to completion and obtains an execution decree under Order 21 CPC. Even in this rare scenario, Indian law establishes powerful statutory safeguards. These protections ensure that debtors and their families are never deprived of their fundamental means of survival.
               </p>
@@ -634,7 +634,7 @@ export default function CanBankSeizePropertyForPersonalLoanClient() {
                     <span>Tools of Trade &amp; Livelihood</span>
                   </div>
                   <p className="text-xs text-slate-600 leading-relaxed">
-                    Tools of artisans, agricultural implements, cattle necessary for tillage, and seed-grain required to earn a livelihood are entirely immune from attachment.
+                    Tools of artisans, agricultural applies, cattle necessary for tillage, and seed-grain required to earn a livelihood are entirely immune from attachment.
                   </p>
                 </div>
                 <div className="bg-slate-50 border border-slate-200 rounded-2xl p-5 shadow-sm">
@@ -664,9 +664,9 @@ export default function CanBankSeizePropertyForPersonalLoanClient() {
 
             {/* Section 7 */}
             <section id="npv-banking-accounting-math" className="scroll-mt-28 mb-14">
-              <h2 className="text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
+              <h3 className="text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
                 7. Banking Accounting Rules & NPV Recovery Economics
-              </h2>
+              </h3>
               <p className="text-base md:text-lg leading-relaxed mb-5 text-slate-700">
                 Borrowers often wonder: <em>If banks technically possess the right to file civil suits, why do they almost never proceed with asset attachment against salaried personal loan defaulters?</em> The answer lies in institutional banking accounting rules mandated by the Reserve Bank of India (RBI) and Net Present Value (NPV) recovery mathematics.
               </p>
@@ -680,9 +680,9 @@ export default function CanBankSeizePropertyForPersonalLoanClient() {
                   <BadgePercent className="w-4 h-4 text-[#1F5EFF]" />
                   <span>The Net Present Value (NPV) Recovery Formula</span>
                 </div>
-                <h3 className="text-xl md:text-2xl font-black mb-4 text-white">
+                <h4 className="text-xl md:text-2xl font-black mb-4 text-white">
                   Why Banks Financially Prefer OTS Over Long Litigation
-                </h3>
+                </h4>
                 <p className="text-sm text-slate-300 leading-relaxed mb-4">
                   When evaluating whether to litigate or settle, a bank&apos;s credit risk committee applies a Net Present Value (NPV) recovery analysis:
                 </p>
@@ -701,9 +701,9 @@ export default function CanBankSeizePropertyForPersonalLoanClient() {
 
             {/* Section 8 */}
             <section id="rbi-fair-practices-enforcement" className="scroll-mt-28 mb-14">
-              <h2 className="text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
+              <h3 className="text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
                 8. Enforcing RBI Mandates & Silencing Harassment
-              </h2>
+              </h3>
               <p className="text-base leading-relaxed mb-5 text-slate-700">
                 If recovery agents are subjecting you or your family to threats of property seizure, police action, or public humiliation, you do not have to suffer in silence. The Reserve Bank of India has established robust regulatory mechanisms under its <em>Master Direction on Fair Practices Code for Lenders</em> and <em>Master Circular on Recovery Agents</em>.
               </p>
@@ -715,7 +715,7 @@ export default function CanBankSeizePropertyForPersonalLoanClient() {
                     <XCircle className="w-5 h-5" />
                   </div>
                   <div>
-                    <h3 className="text-base font-bold text-slate-900 mb-1">Strict Time Window Mandates</h3>
+                    <h4 className="text-base font-bold text-slate-900 mb-1">Strict Time Window Mandates</h4>
                     <p className="text-sm text-slate-600 leading-relaxed">
                       Recovery agents are strictly prohibited from contacting borrowers before 8:00 AM or after 7:00 PM. Calls outside this regulatory window violate RBI directives.
                     </p>
@@ -727,7 +727,7 @@ export default function CanBankSeizePropertyForPersonalLoanClient() {
                     <XCircle className="w-5 h-5" />
                   </div>
                   <div>
-                    <h4 className="text-base font-bold text-slate-900 mb-1">Total Ban on Third-Party &amp; Workplace Harassment</h4>
+                    <h5 className="text-base font-bold text-slate-900 mb-1">Total Ban on Third-Party &amp; Workplace Harassment</h5>
                     <p className="text-sm text-slate-600 leading-relaxed">
                       Lenders cannot contact your employer, HR department, colleagues, friends, or extended family members. They cannot disclose your debt status to any unauthorized third party.
                     </p>
@@ -739,7 +739,7 @@ export default function CanBankSeizePropertyForPersonalLoanClient() {
                     <XCircle className="w-5 h-5" />
                   </div>
                   <div>
-                    <h4 className="text-base font-bold text-slate-900 mb-1">Prohibition of False Legal Assertions</h4>
+                    <h5 className="text-base font-bold text-slate-900 mb-1">Prohibition of False Legal Assertions</h5>
                     <p className="text-sm text-slate-600 leading-relaxed">
                       Threatening immediate police arrest, claiming court warrants exist without judicial records, or threatening illegal property confiscation is strictly actionable under banking regulations.
                     </p>
@@ -754,9 +754,9 @@ export default function CanBankSeizePropertyForPersonalLoanClient() {
 
             {/* Section 9 */}
             <section id="ots-permanent-clean-exit" className="scroll-mt-28 mb-14">
-              <h2 className="text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
+              <h3 className="text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
                 9. One-Time Settlement: Permanent Legally Binding Resolution
-              </h2>
+              </h3>
               <p className="text-base md:text-lg leading-relaxed mb-5 text-slate-700">
                 Understanding that your property cannot be seized eliminates immediate fear. However, leaving an unpaid loan in indefinite default causes severe long-term damage to your credit profile. Your CIBIL score drops, and you remain exposed to periodic collection escalations. The definitive, legally binding exit is a structured <strong>One-Time Settlement (OTS)</strong>.
               </p>
@@ -767,9 +767,9 @@ export default function CanBankSeizePropertyForPersonalLoanClient() {
                   <ShieldCheck className="w-4 h-4 text-[#1F5EFF]" />
                   <span>The SettleLoans Professional Representation Protocol</span>
                 </div>
-                <h3 className="text-xl md:text-2xl font-black mb-4 text-white">
+                <h4 className="text-xl md:text-2xl font-black mb-4 text-white">
                   How SettleLoans Protects Your Assets &amp; Negotiates Clean Exits
-                </h3>
+                </h4>
                 <div className="grid grid-cols-1 sm:grid-cols-2 gap-4 mt-6">
                   <div className="bg-white/10 rounded-xl p-4 border border-white/10">
                     <span className="text-xs font-black text-blue-300 uppercase tracking-wider block mb-1">
@@ -789,10 +789,10 @@ export default function CanBankSeizePropertyForPersonalLoanClient() {
                   </div>
                   <div className="bg-white/10 rounded-xl p-4 border border-white/10">
                     <span className="text-xs font-black text-blue-300 uppercase tracking-wider block mb-1">
-                      Step 3: OTS Negotiation (40%–70% Waiver)
+                      Step 3: OTS talks (40%–70% Waiver)
                     </span>
                     <p className="text-xs text-slate-200 leading-relaxed">
-                      We negotiate directly with the bank&apos;s senior credit committee to secure substantial waivers on penal interest, late fees, and principal balance.
+                      We negotiate directly with the bank&apos;s senior credit committee to secure large waivers on penal interest, late fees, and principal balance.
                     </p>
                   </div>
                   <div className="bg-white/10 rounded-xl p-4 border border-white/10">
@@ -829,9 +829,9 @@ export default function CanBankSeizePropertyForPersonalLoanClient() {
                   <HelpCircle className="w-3.5 h-3.5" />
                   <span>Borrower Rights &amp; Asset Protection</span>
                 </div>
-                <h2 className="text-2xl md:text-3xl font-black text-slate-900 mb-3">
+                <h3 className="text-2xl md:text-3xl font-black text-slate-900 mb-3">
                   Frequently Asked Questions
-                </h2>
+                </h3>
                 <p className="text-sm text-slate-600">
                   Authoritative, legally verified answers regarding property attachment, SARFAESI applicability, recovery agent intimidation, and debt settlement in India.
                 </p>
@@ -852,10 +852,10 @@ export default function CanBankSeizePropertyForPersonalLoanClient() {
 
             {/* Regulatory Sources Strip (5 Official Links) */}
             <div className="bg-slate-50 border border-slate-200 rounded-2xl p-6 my-10 shadow-sm">
-              <h3 className="text-sm font-bold uppercase tracking-wider text-slate-900 mb-3 flex items-center gap-2">
+              <h4 className="text-sm font-bold uppercase tracking-wider text-slate-900 mb-3 flex items-center gap-2">
                 <Landmark className="w-4 h-4 text-[#1F5EFF]" />
                 <span>Authoritative Legal &amp; Regulatory Sources</span>
-              </h3>
+              </h4>
               <ul className="space-y-2.5 text-xs text-slate-600">
                 <li className="flex items-center gap-2">
                   <ExternalLink className="w-4 h-4 text-[#1F5EFF] flex-shrink-0" />
@@ -917,9 +917,9 @@ export default function CanBankSeizePropertyForPersonalLoanClient() {
 
             {/* Internal Topic Badges (10 Links) */}
             <div className="my-10 pt-6 border-t border-slate-200">
-              <h4 className="text-sm font-bold uppercase tracking-wider text-slate-900 mb-4">
+              <h5 className="text-sm font-bold uppercase tracking-wider text-slate-900 mb-4">
                 Related Debt Resolution &amp; Legal Protection Guides
-              </h4>
+              </h5>
               <div className="flex flex-wrap gap-2">
                 <Link
                   href="/can-i-go-to-jail-for-loan-default"

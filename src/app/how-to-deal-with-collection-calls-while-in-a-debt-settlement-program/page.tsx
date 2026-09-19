@@ -274,9 +274,9 @@ export default function CollectionCallsPage() {
             </section>
 
             <section id="the-rbi-shield" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
                 The RBI Shield: Your Legal Foundation
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 The Reserve Bank of India has updated its guidelines multiple times over the last few years, most notably in 2024 and 2025. The core principle is simple: Recovery should be a civil process, never a criminal one. Lenders are expressly prohibited from using 'muscle power' or psychological warfare to collect debts.
               </p>
@@ -284,7 +284,7 @@ export default function CollectionCallsPage() {
                 When you enter a debt settlement program, you are essentially signaling to the bank that you are in genuine financial distress. The RBI guidelines mandate that banks must treat such cases with a 'Fair Practice Code'. If a recovery agent uses abusive language, threatens your family, or calls you incessantly, they are not just being rude they are breaking the law. As a borrower, your first line of defense is knowledge. You must let every caller know that you are aware of the RBI circulars and that you are documenting every interaction.
               </p>
               <div className="bg-gray-50 p-8 rounded-xl border border-gray-200 mb-8">
-                <h3 className="text-xl font-bold mb-6">Key RBI Mandates for 2025</h3>
+                <h4 className="text-xl font-bold mb-6">Key RBI Mandates for 2025</h4>
                 <ul className="grid md:grid-cols-2 gap-4 text-sm font-medium">
                   <li className="flex items-center gap-2">
                     <span className="w-2 h-2 bg-[#1F5EFF] rounded-full"></span>
@@ -315,9 +315,9 @@ export default function CollectionCallsPage() {
             </section>
 
             <section id="8am-7pm-rule" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
                 The Clock of Protection: The 8 AM to 7 PM Rule
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 One of the most frequently violated rules is the timing of recovery calls. The RBI is crystal clear: recovery agents are only permitted to contact you between 8:00 AM and 7:00 PM. If your phone rings at 7:30 PM or 7:00 AM, that call is an illegal act of harassment.
               </p>
@@ -327,9 +327,9 @@ export default function CollectionCallsPage() {
             </section>
 
             <section id="privacy-rights" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
                 Privacy Rights: Protecting Your Circle
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 Perhaps the most painful tactic used by recovery agents is the 'Social Shaming' technique calling your relatives, neighbors, or colleagues to disclose your debt. This is a massive violation of your privacy and is strictly forbidden under the Digital Personal Data Protection Act of 2023.
               </p>
@@ -337,7 +337,7 @@ export default function CollectionCallsPage() {
                 The bank and its agents have the right to contact 'you'. They have zero right to discuss your financial status with anyone else. If an agent calls your brother or your boss, they are committing a 'Privacy Breach' that can result in heavy fines for the bank. In 2024, the RBI even clarified that 'contact list accessing' by digital lending apps is illegal without explicit, contextual consent, and even then, harassment of social circles is prohibited.
               </p>
               <div className="bg-blue-50 p-8 rounded-xl border border-blue-200 mb-8">
-                <h3 className="font-bold text-blue-900 mb-4">What to do if they call your family</h3>
+                <h4 className="font-bold text-blue-900 mb-4">What to do if they call your family</h4>
                 <p className="text-sm text-blue-800 leading-relaxed mb-4">
                   Immediately document the name of the person they called, the time of the call, and the phone number the agent used. Have your family member record the conversation if possible. This specific evidence is 'Gold' when filing a complaint with the RBI Nodal Officer. Banks are terrified of privacy violation lawsuits in the current regulatory environment.
                 </p>
@@ -345,9 +345,9 @@ export default function CollectionCallsPage() {
             </section>
 
             <section id="answering-strategy" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
                 The Professional Answering Strategy: Control the Flow
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 Should you answer the phone? The answer is: Yes, but only on your terms. If you ignore calls for weeks, the bank may assume you have 'absconded' and might initiate legal action sooner. The key is to answer a few calls every week and provide a consistent, scripted response.
               </p>
@@ -371,9 +371,9 @@ export default function CollectionCallsPage() {
             </section>
 
             <section id="recording-evidence" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
                 Recording as Evidence: Your Digital Witness
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 In a court of law or before the Banking Ombudsman, 'He said, She said' won't work. You need digital proof. Most modern Android phones in India now have a call recording warning, but it is still legal to record calls for the purpose of documenting harassment.
               </p>
@@ -383,9 +383,9 @@ export default function CollectionCallsPage() {
             </section>
 
             <section id="home-visit-rights" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
                 Home Visit Protections: Stand Your Ground
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 Home visits can be deeply intimidating. However, an agent cannot just barge into your living room. They must follow a strict protocol. First, they must have issued a written notice before their first visit. Second, they must carry a valid ID card from the bank or the recovery agency. Third, they must carry an authorization letter specifically for your case.
               </p>
@@ -395,14 +395,14 @@ export default function CollectionCallsPage() {
             </section>
 
             <section id="nodal-officer-path" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight text-center">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight text-center">
                 The Nodal Officer Path: Cutting Through the Noise
-              </h2>
+              </h3>
               <p className="mb-6 text-lg">
                 Don't waste your energy arguing with a junior recovery agent who has no power. Go higher. Every bank and NBFC in India is required to have a 'Nodal Officer' for grievances. Their contact details are mandated to be on the bank's website.
               </p>
               <div className="bg-emerald-50 p-8 rounded-2xl border border-emerald-100 mb-8">
-                <h3 className="text-xl font-bold text-emerald-800 mb-4">How to File an Effective Complaint</h3>
+                <h4 className="text-xl font-bold text-emerald-800 mb-4">How to File an Effective Complaint</h4>
                 <p className="mb-4 text-emerald-900/80">
                   Write a professional email to the Nodal Officer. Include your loan account number, a log of the harassing calls (times, dates, numbers), and a link to your recordings. State clearly that these actions violate the RBI Master Circular on Recovery (DBR.No.BP.BC.45/21.04.048/2018-19) and the Fair Practice Code.
                 </p>
@@ -415,7 +415,7 @@ export default function CollectionCallsPage() {
             <hr className="my-12 border-[#DEDEDE]" />
 
             <section id="ombudsman-escalation" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 text-center uppercase tracking-tighter">Ombudsman Escalation: The Ultimate Weapon</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 text-center uppercase tracking-tighter">Ombudsman Escalation: The Ultimate Weapon</h3>
               <p className="mb-6">
                 If the Nodal Officer doesn't respond or doesn't stop the harassment within 30 days, you move to the 'Nuclear Option': The RBI Integrated Ombudsman. This is a free, digital platform (cms.rbi.org.in) where you can file a complaint against any regulated financial entity.
               </p>
@@ -425,7 +425,7 @@ export default function CollectionCallsPage() {
             </section>
 
             <section id="legal-notices" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Handling Legal Notices: Don't Panic</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Handling Legal Notices: Don't Panic</h3>
               <p className="mb-6">
                 During a debt settlement, you might receive a 'Legal Notice' from a lawyer representing the bank. Many people mistake this for a court summons. It is not. A legal notice is simply a formal warning. It is a tool used to pressure you.
               </p>
@@ -435,7 +435,7 @@ export default function CollectionCallsPage() {
             </section>
 
             <section id="professional-shield" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">The Professional Shield: Why SettleLoans?</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">The Professional Shield: Why SettleLoans?</h3>
               <p className="mb-6">
                 Dealing with collection calls is an emotional marathon. It is exhausting to fight these battles every day while also trying to manage your life. This is why having a 'Professional Shield' like SettleLoans is so valuable.
               </p>
@@ -445,7 +445,7 @@ export default function CollectionCallsPage() {
             </section>
 
             <section id="success-stories" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 text-center">Verified Relief Stories: From Harassment to Freedom</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 text-center">Verified Relief Stories: From Harassment to Freedom</h3>
               <div className="grid md:grid-cols-2 gap-6 not-prose">
                 {[
                   {
@@ -483,7 +483,7 @@ export default function CollectionCallsPage() {
                         {review.name.charAt(0)}
                       </div>
                       <div>
-                        <h3 className="font-bold text-[#2E2E2E]">{review.name}</h3>
+                        <h4 className="font-bold text-[#2E2E2E]">{review.name}</h4>
                         <p className="text-xs text-gray-400">{review.loc}</p>
                       </div>
                       <div className="ml-auto text-yellow-400 text-sm">★★★★★</div>
@@ -498,7 +498,7 @@ export default function CollectionCallsPage() {
             </section>
 
             <section id="common-pitfalls" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Common Pitfalls to Avoid: Don't Sink Your Settlement</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Common Pitfalls to Avoid: Don't Sink Your Settlement</h3>
               <p className="mb-6">
                 While you are fighting the harassment, be careful not to make mistakes that ruin your negotiation. Number one: Never admit to having 'hidden cash'. If you tell an agent you have 5 lakhs in your pocket, they will never agree to a 2 lakh settlement. Keep your finances private.
               </p>
@@ -508,12 +508,12 @@ export default function CollectionCallsPage() {
             </section>
 
             <section id="future-of-recovery" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 text-center">The Future of Debt Recovery: Towards 2026</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 text-center">The Future of Debt Recovery: Towards 2026</h3>
               <p className="mb-6 text-lg">
                 The tide is turning. By 2026, the RBI plans to make it mandatory for 'every' recovery agent to be registered and certified by the Indian Institute of Banking and Finance (IIBF). The days of unregulated 'freelance' recovery agents are coming to an end. We are moving toward a world where debt recovery will be driven by data and mediation rather than intimidation and noise.
               </p>
               <div className="bg-[#2E2E2E] text-white p-8 rounded-2xl mb-8">
-                <h3 className="text-xl font-bold mb-4">Summary: Your 2025 Survival Kit</h3>
+                <h4 className="text-xl font-bold mb-4">Summary: Your 2025 Survival Kit</h4>
                 <ul className="space-y-3 opacity-90 text-sm">
                   <li className="flex items-center gap-3"><span className="w-1.5 h-1.5 bg-[#1F5EFF] rounded-full"></span> <strong>Record Everything:</strong> Use it as leverage for a better deal.</li>
                   <li className="flex items-center gap-3"><span className="w-1.5 h-1.5 bg-[#1F5EFF] rounded-full"></span> <strong>Stay on Script:</strong> Mention your hardship and your consultancy.</li>
@@ -524,7 +524,7 @@ export default function CollectionCallsPage() {
             </section>
 
             <section id="final-advice" className="scroll-mt-32 mb-12 text-center">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">A Final Word of Advice</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">A Final Word of Advice</h3>
               <p className="text-lg leading-relaxed mb-10 max-w-3xl mx-auto">
                 The calls are a temporary storm. They are designed to make you panic, but if you stay grounded in your rights, they lose their power. Focus on your goal: a debt-free life. Use the tools we have provided, and remember that every day you handle a call professionally is a day closer to your final settlement.
               </p>
@@ -534,7 +534,7 @@ export default function CollectionCallsPage() {
             </section>
 
             <section id="faqs" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Frequently Asked Questions</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Frequently Asked Questions</h3>
               <div className="space-y-4 not-prose">
                 {jsonLd["@graph"]?.[4] && "mainEntity" in jsonLd["@graph"][4] && (jsonLd["@graph"][4] as any)?.mainEntity?.map((faq: any, i: number) => (
                   <details key={i} className="group bg-white border border-[#DEDEDE] rounded-xl overflow-hidden hover:shadow-md transition-all border-b-4 border-b-[#1F5EFF]/20">
@@ -560,7 +560,7 @@ export default function CollectionCallsPage() {
             <div className="lg:hidden mt-16 mb-8">
               <div className="bg-[#2E2E2E] rounded-2xl shadow-xl overflow-hidden border border-[#1F5EFF]/20">
                 <div className="bg-[#1F5EFF] p-6 text-center text-white">
-                  <h3 className="text-2xl font-black mb-2">Tired of the Non-Stop Calls?</h3>
+                  <h4 className="text-2xl font-black mb-2">Tired of the Non-Stop Calls?</h4>
                   <p className="opacity-90 text-sm">Let our legal shield handle the recovery agents while you reclaim your life.</p>
                 </div>
                 <div className="p-8 text-center text-[#DEDEDE]">

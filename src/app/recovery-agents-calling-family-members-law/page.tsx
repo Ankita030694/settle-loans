@@ -245,7 +245,7 @@ export default function RecoveryAgentsCallingFamilyMembersLawPage() {
                                 For years, recovery agencies have relied on "social shaming" to force repayment. By involving your family and peers, they aim to create a psychological state of panic and humiliation. However, what most borrowers don't realize is that once an agent contacts a third party without your specific consent for that specific purpose, the bank's legal standing weakens significantly.
                             </p>
                             <div className="bg-gray-900 p-12 rounded-[64px] text-white my-12 shadow-2xl relative border-t-8 border-[#1F5EFF]">
-                                <h3 className="text-2xl font-black mb-6 uppercase tracking-widest text-[#1F5EFF] italic">Absolute Prohibitions</h3>
+                                <h4 className="text-2xl font-black mb-6 uppercase tracking-widest text-[#1F5EFF] italic">Absolute Prohibitions</h4>
                                 <p className="text-lg opacity-80 leading-relaxed font-bold italic uppercase tracking-tighter">
                                     A bank cannot disclose your financial status, loan amount, or default history to anyone EXCEPT the co-borrower or guarantor of that specific loan.
                                 </p>
@@ -253,32 +253,32 @@ export default function RecoveryAgentsCallingFamilyMembersLawPage() {
                         </section>
 
                         <section id="rbi-privacy-circulars" className="scroll-mt-32 mb-20 p-12 bg-blue-50 border border-blue-100 rounded-[56px] shadow-sm relative overflow-hidden">
-                            <h2 className="text-3xl md:text-4xl font-black text-blue-900 mb-8 border-l-8 border-[#1F5EFF] pl-6 uppercase tracking-tighter leading-none italic">
+                            <h3 className="text-3xl md:text-4xl font-black text-blue-900 mb-8 border-l-8 border-[#1F5EFF] pl-6 uppercase tracking-tighter leading-none italic">
                                 RBI Privacy Circulars: The Mandate
-                            </h2>
+                            </h3>
                             <p className="mb-8 leading-relaxed font-medium">
                                 The RBI has issued several Master Directions (most notably in 2022 and the upcoming 2026 revisions) that explicitly redefine borrower privacy.
                             </p>
                             <div className="space-y-6 text-sm font-bold uppercase tracking-tighter">
                                 <div className="p-8 bg-white/50 border-l-8 border-blue-500 rounded-2xl">
-                                    <h3 className="text-xl font-black text-blue-900 mb-2 uppercase italic leading-none">Deficiency of Service</h3>
+                                    <h4 className="text-xl font-black text-blue-900 mb-2 uppercase italic leading-none">Deficiency of Service</h4>
                                     <p className="opacity-70">Any attempt to contact third parties is categorized as a "Deficiency of Service" under the Consumer Protection Act and an "Unfair Trade Practice."</p>
                                 </div>
                                 <div className="p-8 bg-white/50 border-l-8 border-blue-500 rounded-2xl">
-                                    <h4 className="text-xl font-black text-blue-900 mb-2 uppercase italic leading-none">The 'No-Contact' Rule</h4>
+                                    <h5 className="text-xl font-black text-blue-900 mb-2 uppercase italic leading-none">The 'No-Contact' Rule</h5>
                                     <p className="opacity-70">Unless a family member is a legal guarantor, the agent has zero permission to obtain their number or speak to them regarding the debt.</p>
                                 </div>
                                 <div className="p-8 bg-white/50 border-l-8 border-blue-500 rounded-2xl">
-                                    <h4 className="text-xl font-black text-blue-900 mb-2 uppercase italic leading-none">Privacy Codes</h4>
+                                    <h5 className="text-xl font-black text-blue-900 mb-2 uppercase italic leading-none">Privacy Codes</h5>
                                     <p className="opacity-70 italic shadow-sm p-4 bg-white/30 rounded-lg">"The Regulated Entity (Bank/NBFC) shall ensure that they or their agents shall not resort to any harassment of the borrower or their family members."</p>
                                 </div>
                             </div>
                         </section>
 
                         <section id="dpdp-act-2023-overview" className="scroll-mt-32 mb-20 mt-20">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 uppercase tracking-widest border-b-8 border-gray-100 pb-4">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 uppercase tracking-widest border-b-8 border-gray-100 pb-4">
                                 DPDP Act 2023: The Digital Wall
-                            </h2>
+                            </h3>
                             <p className="mb-8 leading-relaxed font-medium italic opacity-70">
                                 The Digital Personal Data Protection Act, 2023, is a game-changer for borrowers in India.
                             </p>
@@ -286,7 +286,7 @@ export default function RecoveryAgentsCallingFamilyMembersLawPage() {
                                 How do recovery agents get your contacts? Often through "Contact Scrapping" from unauthorized loan apps or secondary databases. Under the DPDP Act 2023, processing personal data without explicit, specific, and informed consent is a massive violation.
                             </p>
                             <div className="bg-[#1F5EFF] p-12 rounded-[64px] text-white shadow-3xl text-center relative overflow-hidden my-12 ring-[16px] ring-blue-50">
-                                <h3 className="text-2xl font-black mb-4 uppercase tracking-tighter italic leading-none">Punishable Privacy Breach</h3>
+                                <h4 className="text-2xl font-black mb-4 uppercase tracking-tighter italic leading-none">Punishable Privacy Breach</h4>
                                 <p className="text-sm font-bold opacity-90 leading-relaxed max-w-2xl mx-auto uppercase tracking-widest italic border-t border-white/20 pt-6">
                                     If a recovery agent calls a contact they found through your social media or scraped phone data, they can be penalized with fines up to 250 Crores INR at the entity level. This is why banks are now terrified of privacy litigation.
                                 </p>
@@ -294,30 +294,30 @@ export default function RecoveryAgentsCallingFamilyMembersLawPage() {
                         </section>
 
                         <section id="harassment-of-family-members" className="scroll-mt-32 mb-20 p-12 bg-gray-50 rounded-[48px] border border-gray-100 shadow-inner relative mt-20 overflow-hidden">
-                            <h2 className="text-3xl font-black text-[#2E2E2E] mb-8 border-l-8 border-[#1F5EFF] pl-6 uppercase tracking-tighter">Family Harassment Indicators</h2>
+                            <h3 className="text-3xl font-black text-[#2E2E2E] mb-8 border-l-8 border-[#1F5EFF] pl-6 uppercase tracking-tighter">Family Harassment Indicators</h3>
                             <p className="text-xl font-bold mb-8 text-[#1F5EFF] italic decoration-gray-200 underline underline-offset-4 leading-relaxed">"If the call doesn't concern the co-borrower, it is a crime."</p>
                             <div className="grid md:grid-cols-2 gap-4">
                                 <div className="p-6 bg-white border border-gray-100 rounded-3xl shadow-sm text-center">
-                                    <h3 className="text-gray-900 text-lg font-black mb-2 italic uppercase">The 'Guilt Visit'</h3>
+                                    <h4 className="text-gray-900 text-lg font-black mb-2 italic uppercase">The 'Guilt Visit'</h4>
                                     <p className="text-[10px] font-black uppercase text-gray-400 tracking-widest">Visiting parents' house when you live elsewhere.</p>
                                 </div>
                                 <div className="p-6 bg-white border border-gray-100 rounded-3xl shadow-sm text-center">
-                                    <h4 className="text-gray-900 text-lg font-black mb-2 italic uppercase">Neighbor Spreading</h4>
+                                    <h5 className="text-gray-900 text-lg font-black mb-2 italic uppercase">Neighbor Spreading</h5>
                                     <p className="text-[10px] font-black uppercase text-gray-400 tracking-widest">Telling neighbors to 'talk to you' relative to the debt.</p>
                                 </div>
                                 <div className="p-6 bg-white border border-gray-100 rounded-3xl shadow-sm text-center">
-                                    <h4 className="text-gray-900 text-lg font-black mb-2 italic uppercase">Emergency Call Abuse</h4>
+                                    <h5 className="text-gray-900 text-lg font-black mb-2 italic uppercase">Emergency Call Abuse</h5>
                                     <p className="text-[10px] font-black uppercase text-gray-400 tracking-widest">Using reference numbers for harassment, not verification.</p>
                                 </div>
                                 <div className="p-6 bg-white border border-gray-100 rounded-3xl shadow-sm text-center">
-                                    <h4 className="text-gray-900 text-lg font-black mb-2 italic uppercase">WhatsApp Blasting</h4>
+                                    <h5 className="text-gray-900 text-lg font-black mb-2 italic uppercase">WhatsApp Blasting</h5>
                                     <p className="text-[10px] font-black uppercase text-gray-400 tracking-widest">Sending loan details to family WhatsApp groups.</p>
                                 </div>
                             </div>
                         </section>
 
                         <section id="right-to-privacy-judgment-sc" className="scroll-mt-32 mb-20 mt-20">
-                            <h2 className="text-3xl md:text-5xl font-black text-[#2E2E2E] mb-8 uppercase tracking-tighter italic decoration-[#1F5EFF] underline underline-offset-8 leading-none">K.S. Puttaswamy Judgment</h2>
+                            <h3 className="text-3xl md:text-5xl font-black text-[#2E2E2E] mb-8 uppercase tracking-tighter italic decoration-[#1F5EFF] underline underline-offset-8 leading-none">K.S. Puttaswamy Judgment</h3>
                             <p className="text-xl leading-relaxed font-bold italic mb-8 opacity-80">
                                 The Supreme Court of India has declared privacy as a fundamental right under Article 21.
                             </p>
@@ -327,26 +327,26 @@ export default function RecoveryAgentsCallingFamilyMembersLawPage() {
                         </section>
 
                         <section id="legal-recourse-against-shaming" className="scroll-mt-32 mb-20 mt-20">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 uppercase tracking-widest border-b-8 border-gray-100 pb-4 italic leading-[0.9]">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 uppercase tracking-widest border-b-8 border-gray-100 pb-4 italic leading-[0.9]">
                                 Recourse Against Shaming: Fighting Back
-                            </h2>
+                            </h3>
                             <p className="mb-8 leading-relaxed font-medium">
                                 If your family is being targeted, do not just stay quiet. Passive behavior encourages more harassment. Follow this 3-step technical counter-strike:
                             </p>
                             <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
                                 <div className="p-8 bg-[#2E2E2E] text-white rounded-3xl border-b-4 border-[#1F5EFF] hover:scale-105 transition-transform cursor-pointer group shadow-2xl">
                                     <p className="text-[#1F5EFF] font-black text-xs mb-4 uppercase tracking-[0.2em] group-hover:tracking-[0.4em] transition-all">Step 01</p>
-                                    <h3 className="text-xl font-black mb-4 leading-none italic uppercase">Issue Cease & Desist</h3>
+                                    <h4 className="text-xl font-black mb-4 leading-none italic uppercase">Issue Cease & Desist</h4>
                                     <p className="text-[10px] leading-relaxed opacity-60 font-bold uppercase">Formally notify the bank branch manager and PNO that family contact must stop immediately.</p>
                                 </div>
                                 <div className="p-8 bg-[#2E2E2E] text-white rounded-3xl border-b-4 border-[#1F5EFF] hover:scale-105 transition-transform cursor-pointer group shadow-2xl">
                                     <p className="text-[#1F5EFF] font-black text-xs mb-4 uppercase tracking-[0.2em] group-hover:tracking-[0.4em] transition-all">Step 02</p>
-                                    <h4 className="text-xl font-black mb-4 leading-none italic uppercase">Cyber Cell FIR</h4>
+                                    <h5 className="text-xl font-black mb-4 leading-none italic uppercase">Cyber Cell FIR</h5>
                                     <p className="text-[10px] leading-relaxed opacity-60 font-bold uppercase italic">Report 'Data Scraping' if they found numbers not provided during the application.</p>
                                 </div>
                                 <div className="p-8 bg-[#2E2E2E] text-white rounded-3xl border-b-4 border-[#1F5EFF] hover:scale-105 transition-transform cursor-pointer group shadow-2xl">
                                     <p className="text-[#1F5EFF] font-black text-xs mb-4 uppercase tracking-[0.2em] group-hover:tracking-[0.4em] transition-all">Step 03</p>
-                                    <h4 className="text-xl font-black mb-4 leading-none italic uppercase">Ombudsman Escalation</h4>
+                                    <h5 className="text-xl font-black mb-4 leading-none italic uppercase">Ombudsman Escalation</h5>
                                     <p className="text-[10px] leading-relaxed opacity-60 font-bold uppercase">Submit call logs showing calls to non-borrower numbers to the RBI CMS portal.</p>
                                 </div>
                             </div>
@@ -356,7 +356,7 @@ export default function RecoveryAgentsCallingFamilyMembersLawPage() {
                             <div className="absolute top-0 right-0 bg-[#1F5EFF] text-white px-8 py-3 rounded-bl-[32px] font-black uppercase text-xs tracking-widest italic leading-none">
                                 Legal Codes: IPC 503 & 506
                             </div>
-                            <h2 className="text-3xl md:text-5xl font-black text-gray-900 mb-8 mt-6 uppercase tracking-tighter italic leading-tight">Criminal Intimidation</h2>
+                            <h3 className="text-3xl md:text-5xl font-black text-gray-900 mb-8 mt-6 uppercase tracking-tighter italic leading-tight">Criminal Intimidation</h3>
                             <p className="text-xl leading-relaxed font-bold italic border-b border-gray-100 pb-8 mb-8 text-red-600">
                                 "Whoever threatens another with any injury to his person, reputation or property... with intent to cause alarm."
                             </p>
@@ -366,9 +366,9 @@ export default function RecoveryAgentsCallingFamilyMembersLawPage() {
                         </section>
 
                         <section id="evidence-collection-for-privacy" className="scroll-mt-32 mb-20 p-12 bg-[#2E2E2E] rounded-[64px] text-white shadow-3xl relative mt-20 overflow-hidden ring-[12px] ring-[#1F5EFF]/10">
-                            <h2 className="text-3xl md:text-4xl font-black mb-8 border-l-8 border-[#1F5EFF] pl-6 uppercase tracking-widest italic decoration-gray-500 underline underline-offset-8">
+                            <h3 className="text-3xl md:text-4xl font-black mb-8 border-l-8 border-[#1F5EFF] pl-6 uppercase tracking-widest italic decoration-gray-500 underline underline-offset-8">
                                 The Privacy Vault: Evidence
-                            </h2>
+                            </h3>
                             <p className="mb-8 leading-relaxed font-bold opacity-80 italic">
                                 To win a privacy case, you need concrete data. Banks will always deny their agents made the calls unless you prove it.
                             </p>
@@ -386,7 +386,7 @@ export default function RecoveryAgentsCallingFamilyMembersLawPage() {
                         </section>
 
                         <section id="success-stories-privacy-wins" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 text-center uppercase">Real Stories of Privacy Victories</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 text-center uppercase">Real Stories of Privacy Victories</h3>
                             <div className="grid md:grid-cols-2 gap-6 not-prose">
                                 {[
                                     {
@@ -410,7 +410,7 @@ export default function RecoveryAgentsCallingFamilyMembersLawPage() {
                                                 {review.name.charAt(0)}
                                             </div>
                                             <div>
-                                                <h3 className="font-bold text-[#2E2E2E]">{review.name}</h3>
+                                                <h4 className="font-bold text-[#2E2E2E]">{review.name}</h4>
                                                 <p className="text-xs text-gray-400">{review.loc}</p>
                                             </div>
                                             <div className="ml-auto text-yellow-400 text-sm">★★★★★</div>
@@ -425,7 +425,7 @@ export default function RecoveryAgentsCallingFamilyMembersLawPage() {
                         </section>
 
                         <section id="privacy-legal-faqs" className="scroll-mt-32 mb-12 mt-20">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 uppercase tracking-widest decoration-[#1F5EFF] underline underline-offset-8 leading-none italic">Privacy Protection FAQs</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 uppercase tracking-widest decoration-[#1F5EFF] underline underline-offset-8 leading-none italic">Privacy Protection FAQs</h3>
                             <div className="space-y-4 not-prose">
                                 {(jsonLd["@graph"] as any)[4]?.mainEntity?.map((faq: any, i: number) => (
                                     <details key={i} className="group bg-white border border-[#DEDEDE] rounded-xl overflow-hidden hover:shadow-md transition-all border-b-4 border-b-[#1F5EFF]/20">
@@ -453,7 +453,7 @@ export default function RecoveryAgentsCallingFamilyMembersLawPage() {
                         <div className="lg:hidden mt-16 mb-8">
                             <div className="bg-[#2E2E2E] rounded-2xl shadow-xl overflow-hidden border border-[#1F5EFF]/20">
                                 <div className="bg-[#1F5EFF] p-6 text-center text-white">
-                                    <h3 className="text-2xl font-black mb-2 uppercase tracking-tighter leading-none">End Family Harassment</h3>
+                                    <h4 className="text-2xl font-black mb-2 uppercase tracking-tighter leading-none">End Family Harassment</h4>
                                     <p className="opacity-90 text-sm font-bold uppercase tracking-wider italic">Protect your reputation and your family's peace of mind. Let us silence the illegal calls through legal channels.</p>
                                 </div>
                                 <div className="p-8 text-center text-[#DEDEDE]">

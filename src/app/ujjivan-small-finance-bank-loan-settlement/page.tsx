@@ -585,7 +585,7 @@ export default function UjjivanSmallFinanceBankLoanSettlementPage() {
                 <Clock className="w-4 h-4" />
                 <span>2. Delinquency Timeline &amp; NPA Stages</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Ujjivan SFB Delinquency Lifecycle: SMA to NPA</h2>
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Ujjivan SFB Delinquency Lifecycle: SMA to NPA</h3>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Ujjivan SFB follows RBI IRACP norms and Ind AS 109 rules. It groups overdue loans by Days Past Due (DPD). Understanding these stages helps you time your settlement for maximum savings.
               </p>
@@ -656,7 +656,7 @@ export default function UjjivanSmallFinanceBankLoanSettlementPage() {
                 <ShieldAlert className="w-4 h-4" />
                 <span>3. RBI Protections Against Coercive Recovery</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">RBI Protections Against Coercive Collection</h2>
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">RBI Protections Against Coercive Collection</h3>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Small Finance Banks follow strict RBI guidelines. Under the RBI Microfinance Directions (2022) and Fair Practices Code, agents cannot use force.
               </p>
@@ -671,7 +671,7 @@ export default function UjjivanSmallFinanceBankLoanSettlementPage() {
                 <Banknote className="w-4 h-4" />
                 <span>4. Halting NACH Bounce Charges &amp; Penal Fees</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Stopping Ujjivan SFB Bounce Charges &amp; NACH Hits</h2>
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Stopping Ujjivan SFB Bounce Charges &amp; NACH Hits</h3>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Repeated NACH hits cause double bounce fees from your bank and Ujjivan SFB. Under RBI Fair Lending rules (2023), banks cannot compound penal interest. They cannot add penalty fees into your principal.
               </p>
@@ -686,7 +686,7 @@ export default function UjjivanSmallFinanceBankLoanSettlementPage() {
                 <Calculator className="w-4 h-4" />
                 <span>5. OTS Haircut Policies &amp; Valuation Framework</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Ujjivan SFB One-Time Settlement (OTS)</h2>
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Ujjivan SFB One-Time Settlement (OTS)</h3>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Ujjivan SFB reviews settlement offers using Net Present Value (NPV) under RBI Master Directions (DOR.STR.REC.20/21.04.048/2023-24). Unsecured loans have no collateral. Hence, instant cash recovery helps the bank avoid long, costly court battles.
               </p>
@@ -706,7 +706,7 @@ export default function UjjivanSmallFinanceBankLoanSettlementPage() {
               </div>
 
               {/* Settlement Haircut Slabs Table */}
-              <h3 className="text-lg font-bold text-slate-900 mb-3">Realistic Ujjivan SFB Settlement Haircut Slabs by Product &amp; Aging</h3>
+              <h4 className="text-lg font-bold text-slate-900 mb-3">Realistic Ujjivan SFB Settlement Haircut Slabs by Product &amp; Aging</h4>
               <div className="overflow-x-auto my-4">
                 <table className="min-w-full bg-white">
                   <thead>
@@ -771,9 +771,9 @@ export default function UjjivanSmallFinanceBankLoanSettlementPage() {
                       <span className="text-[10px] font-black uppercase tracking-widest text-blue-300 block">
                         Legal Defense &amp; Action Blueprint
                       </span>
-                      <h3 className="text-sm md:text-base font-black text-white leading-tight">
+                      <h4 className="text-sm md:text-base font-black text-white leading-tight">
                         Ujjivan Small Finance Bank Loan Settlement &amp; Legal Defense Blueprint
-                      </h3>
+                      </h4>
                     </div>
                   </div>
                   <a
@@ -820,7 +820,7 @@ export default function UjjivanSmallFinanceBankLoanSettlementPage() {
                 <Layers className="w-4 h-4" />
                 <span>6. Step-by-Step SFB Settlement Roadmap</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Step-by-Step Guide to a Compromise Settlement with Ujjivan</h2>
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Step-by-Step Guide to a Compromise Settlement with Ujjivan</h3>
               <p className="text-slate-700 leading-relaxed mb-6 text-base md:text-lg">
                 Settling a defaulted loan with Ujjivan Small Finance Bank involves six simple steps:
               </p>
@@ -828,10 +828,10 @@ export default function UjjivanSmallFinanceBankLoanSettlementPage() {
               <div className="space-y-6">
                 {/* Phase 1 */}
                 <div className="p-6 rounded-2xl bg-white border border-slate-200 shadow-sm">
-                  <h3 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
+                  <h4 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
                     <span className="w-7 h-7 rounded-lg bg-blue-50 text-[#1F5EFF] font-black text-sm flex items-center justify-center border border-blue-200">1</span>
                     Hardship Dossier Compilation
-                  </h3>
+                  </h4>
                   <p className="text-slate-600 text-sm md:text-base leading-relaxed">
                     Gather proof of money loss. Collect medical bills, job layoff letters, or low bank records. This shows genuine hardship under RBI rules.
                   </p>
@@ -839,10 +839,10 @@ export default function UjjivanSmallFinanceBankLoanSettlementPage() {
 
                 {/* Phase 2 */}
                 <div className="p-6 rounded-2xl bg-white border border-slate-200 shadow-sm">
-                  <h3 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
+                  <h4 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
                     <span className="w-7 h-7 rounded-lg bg-blue-50 text-[#1F5EFF] font-black text-sm flex items-center justify-center border border-blue-200">2</span>
                     Mandate Revocation &amp; Formal Communication
-                  </h3>
+                  </h4>
                   <p className="text-slate-600 text-sm md:text-base leading-relaxed">
                     Stop e-NACH auto-debits at your bank to avoid return fees. Send a written letter to Ujjivan SFB. Route all talks through your lawyer.
                   </p>
@@ -850,10 +850,10 @@ export default function UjjivanSmallFinanceBankLoanSettlementPage() {
 
                 {/* Phase 3 */}
                 <div className="p-6 rounded-2xl bg-white border border-slate-200 shadow-sm">
-                  <h3 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
+                  <h4 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
                     <span className="w-7 h-7 rounded-lg bg-blue-50 text-[#1F5EFF] font-black text-sm flex items-center justify-center border border-blue-200">3</span>
                     Submitting Compromise Proposal
-                  </h3>
+                  </h4>
                   <p className="text-slate-600 text-sm md:text-base leading-relaxed">
                     Send an OTS letter to Ujjivan SFB Stressed Assets Desk. Quote RBI settlement rules. Offer 25% to 35% of dues with zero penal fees.
                   </p>
@@ -861,10 +861,10 @@ export default function UjjivanSmallFinanceBankLoanSettlementPage() {
 
                 {/* Phase 4 */}
                 <div className="p-6 rounded-2xl bg-white border border-slate-200 shadow-sm">
-                  <h3 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
+                  <h4 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
                     <span className="w-7 h-7 rounded-lg bg-blue-50 text-[#1F5EFF] font-black text-sm flex items-center justify-center border border-blue-200">4</span>
                     Credit Committee Negotiation
-                  </h3>
+                  </h4>
                   <p className="text-slate-600 text-sm md:text-base leading-relaxed">
                     Our legal team negotiates firmly with the bank. We show funds come from family help. We push for 40% to 60% principal waivers.
                   </p>
@@ -872,10 +872,10 @@ export default function UjjivanSmallFinanceBankLoanSettlementPage() {
 
                 {/* Phase 5 */}
                 <div className="p-6 rounded-2xl bg-white border border-slate-200 shadow-sm">
-                  <h3 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
+                  <h4 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
                     <span className="w-7 h-7 rounded-lg bg-blue-50 text-[#1F5EFF] font-black text-sm flex items-center justify-center border border-blue-200">5</span>
                     Forensic Sanction Letter Audit
-                  </h3>
+                  </h4>
                   <p className="text-slate-600 text-sm md:text-base leading-relaxed">
                     We inspect the bank sanction letter. We verify the loan number, agreed amount, due date. And full debt discharge.
                   </p>
@@ -883,10 +883,10 @@ export default function UjjivanSmallFinanceBankLoanSettlementPage() {
 
                 {/* Phase 6 */}
                 <div className="p-6 rounded-2xl bg-white border border-slate-200 shadow-sm">
-                  <h3 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
+                  <h4 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
                     <span className="w-7 h-7 rounded-lg bg-blue-50 text-[#1F5EFF] font-black text-sm flex items-center justify-center border border-blue-200">6</span>
                     Remittance &amp; ₹0 NDC Enforcement
-                  </h3>
+                  </h4>
                   <p className="text-slate-600 text-sm md:text-base leading-relaxed">
                     Pay the settled sum straight to your Ujjivan SFB loan account. Under RBI rules (RBI/2023-24/60), the bank must issue your No Dues Certificate in 30 days.
                   </p>
@@ -900,7 +900,7 @@ export default function UjjivanSmallFinanceBankLoanSettlementPage() {
                 <Gavel className="w-4 h-4" />
                 <span>7. Section 25 Notices, Arbitration &amp; Lok Adalat</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Navigating Ujjivan Bank Sec 25 PSSA &amp; Lok Adalat</h2>
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Navigating Ujjivan Bank Sec 25 PSSA &amp; Lok Adalat</h3>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Ujjivan SFB may send Section 25 PSSA notices for failed NACH debits. They may also send Section 138 NI Act notices for bounced cheques. These are not arrest warrants. A timely legal reply within 15 days helps start settlement talks.
               </p>
@@ -959,7 +959,7 @@ export default function UjjivanSmallFinanceBankLoanSettlementPage() {
                 <FileCheck className="w-4 h-4" />
                 <span>8. Sanction Letter Audit &amp; ₹0 NDC Mandate</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Authenticating Ujjivan SFB Settlement Letters</h2>
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Authenticating Ujjivan SFB Settlement Letters</h3>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Never pay money based on oral promises or phone chats. Always demand an official OTS letter. Check the Ujjivan SFB letterhead, CIN number, reference code. And branch seal.
               </p>
@@ -974,7 +974,7 @@ export default function UjjivanSmallFinanceBankLoanSettlementPage() {
                 <TrendingUp className="w-4 h-4" />
                 <span>9. CIBIL Score Trajectory &amp; Rehabilitation</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Ujjivan Bank Post-Settlement CIBIL Recovery</h2>
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Ujjivan Bank Post-Settlement CIBIL Recovery</h3>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 After you pay, Ujjivan SFB marks your file as <strong>&apos;Settled&apos;</strong> with a <strong>₹0</strong> balance in credit bureaus (CIBIL, Experian, Equifax, CRIF High Mark). This ends default marks and removes all legal threats.
               </p>
@@ -989,9 +989,9 @@ export default function UjjivanSmallFinanceBankLoanSettlementPage() {
                 <ShieldCheck className="w-4 h-4" />
                 <span>10. Legal Defense &amp; Representation</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 Why Distressed Ujjivan SFB Borrowers Trust SettleLoans
-              </h2>
+              </h3>
               <p className="text-slate-700 leading-relaxed mb-6 text-base md:text-lg">
                 Settling loan debt needs skilled legal help. SettleLoans stops agent calls and home visits with legal notices. We handle Section 25 PSSA court notices. We block illegal arbitration. We talk with Ujjivan SFB Stressed Assets teams to win up to 60% waivers and valid ₹0 No Dues Certificates.
               </p>
@@ -1008,7 +1008,7 @@ export default function UjjivanSmallFinanceBankLoanSettlementPage() {
                 <HelpCircle className="w-4 h-4" />
                 <span>11. Frequently Asked Questions</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">FAQs: Ujjivan Small Finance Bank Loan Settlement</h2>
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">FAQs: Ujjivan Small Finance Bank Loan Settlement</h3>
 
               <div className="space-y-4">
                 {faqs.map((faq, index) => (
@@ -1035,10 +1035,10 @@ export default function UjjivanSmallFinanceBankLoanSettlementPage() {
 
             {/* Regulatory References & Official Sources Strip */}
             <div className="bg-slate-50 border border-slate-200 rounded-2xl p-6 my-10">
-              <h3 className="text-base font-bold text-slate-900 mb-4 flex items-center gap-2">
+              <h4 className="text-base font-bold text-slate-900 mb-4 flex items-center gap-2">
                 <Landmark className="w-5 h-5 text-[#1F5EFF]" />
                 Official Regulatory References &amp; Statutory Circulars
-              </h3>
+              </h4>
               <ul className="space-y-3 text-xs text-slate-600">
                 <li className="flex items-start gap-2">
                   <ExternalLink className="w-4 h-4 text-[#1F5EFF] flex-shrink-0 mt-0.5" />
@@ -1100,10 +1100,10 @@ export default function UjjivanSmallFinanceBankLoanSettlementPage() {
 
             {/* Related Guides & Resources Strip (10 Topic Badges) */}
             <div className="bg-slate-50 border border-slate-200 rounded-2xl p-6 my-10">
-              <h3 className="text-base font-bold text-slate-900 mb-4 flex items-center gap-2">
+              <h4 className="text-base font-bold text-slate-900 mb-4 flex items-center gap-2">
                 <BookOpen className="w-5 h-5 text-[#1F5EFF]" />
                 Explore Related Banking &amp; Debt Resolution Guides
-              </h3>
+              </h4>
               <div className="flex flex-wrap gap-2.5">
                 <Link
                   href="/bank-one-time-settlement-ots-policy"

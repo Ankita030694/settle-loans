@@ -587,7 +587,7 @@ export default function SBICardCreditCardSettlementPage() {
                 <TrendingUp className="w-4 h-4" />
                 <span>2. Revolving APR, Late Fees &amp; Compounding Debt Spiral</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">The Mechanics of SBI Card Financial Escalation</h2>
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">The Mechanics of SBI Card Financial Escalation</h3>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 SBI Card charges 3.50% to 3.75% per month. This equals 42% to 45% APR. On top of that, 18% GST applies to all finance charges and late fees. This creates a fast debt spiral.
               </p>
@@ -605,57 +605,57 @@ export default function SBICardCreditCardSettlementPage() {
                 <Clock className="w-4 h-4" />
                 <span>3. Delinquency Timeline &amp; NPA Stages</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">SBI Card Delinquency Lifecycle</h2>
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">SBI Card Delinquency Lifecycle</h3>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 SBI Card follows RBI rules to track default across DPD stages:
               </p>
 
               <div className="space-y-4 my-6">
                 <div className="p-4 rounded-xl border border-slate-200 bg-slate-50/70">
-                  <h3 className="font-bold text-slate-900 text-sm mb-1 flex items-center gap-2">
+                  <h4 className="font-bold text-slate-900 text-sm mb-1 flex items-center gap-2">
                     <span className="w-2.5 h-2.5 rounded-full bg-yellow-500"></span>
                     Stage 1: Days Past Due 1 to 30 (SMA-0)
-                  </h3>
+                  </h4>
                   <p className="text-xs sm:text-sm text-slate-600 leading-relaxed">
                     Auto-calls and SMS reminders start. Card gets blocked. No principal waiver.
                   </p>
                 </div>
 
                 <div className="p-4 rounded-xl border border-slate-200 bg-slate-50/70">
-                  <h4 className="font-bold text-slate-900 text-sm mb-1 flex items-center gap-2">
+                  <h5 className="font-bold text-slate-900 text-sm mb-1 flex items-center gap-2">
                     <span className="w-2.5 h-2.5 rounded-full bg-orange-500"></span>
                     Stage 2: Days Past Due 31 to 60 (SMA-1)
-                  </h4>
+                  </h5>
                   <p className="text-xs sm:text-sm text-slate-600 leading-relaxed">
                     Collection calls increase. Late fees pile up. Issuer demands full dues.
                   </p>
                 </div>
 
                 <div className="p-4 rounded-xl border border-slate-200 bg-slate-50/70">
-                  <h4 className="font-bold text-slate-900 text-sm mb-1 flex items-center gap-2">
+                  <h5 className="font-bold text-slate-900 text-sm mb-1 flex items-center gap-2">
                     <span className="w-2.5 h-2.5 rounded-full bg-red-500"></span>
                     Stage 3: Days Past Due 61 to 90 (SMA-2)
-                  </h4>
+                  </h5>
                   <p className="text-xs sm:text-sm text-slate-600 leading-relaxed">
                     Field visits begin. Pre-litigation notices are sent from Gurugram desks.
                   </p>
                 </div>
 
                 <div className="p-4 rounded-xl border border-slate-200 bg-slate-50/70">
-                  <h4 className="font-bold text-slate-900 text-sm mb-1 flex items-center gap-2">
+                  <h5 className="font-bold text-slate-900 text-sm mb-1 flex items-center gap-2">
                     <span className="w-2.5 h-2.5 rounded-full bg-red-700"></span>
                     Stage 4: Days Past Due 91 to 180 (NPA)
-                  </h4>
+                  </h5>
                   <p className="text-xs sm:text-sm text-slate-600 leading-relaxed">
                     Account becomes an NPA under RBI rules. File moves to Gurugram Stressed Assets Desk. Opens door to 45%–55% OTS waivers.
                   </p>
                 </div>
 
                 <div className="p-4 rounded-xl border border-slate-200 bg-slate-50/70">
-                  <h4 className="font-bold text-slate-900 text-sm mb-1 flex items-center gap-2">
+                  <h5 className="font-bold text-slate-900 text-sm mb-1 flex items-center gap-2">
                     <span className="w-2.5 h-2.5 rounded-full bg-slate-900"></span>
                     Stage 5: Days Past Due 181 to 365+ (Doubtful / Loss Asset)
-                  </h4>
+                  </h5>
                   <p className="text-xs sm:text-sm text-slate-600 leading-relaxed">
                     Full loss provisioned. Lok Adalat referrals begin. Maximum 55% to 70% debt waivers unlocked.
                   </p>
@@ -669,7 +669,7 @@ export default function SBICardCreditCardSettlementPage() {
                 <Calculator className="w-4 h-4" />
                 <span>4. NPV Recovery Valuation &amp; Haircut Slabs</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Net Present Value (NPV) Recovery Modeling</h2>
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Net Present Value (NPV) Recovery Modeling</h3>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 SBI Card settles debts using Net Present Value (NPV). Under RBI rules, the lender compares immediate cash recovery against 3 to 6 years of slow court litigation.
               </p>
@@ -689,7 +689,7 @@ export default function SBICardCreditCardSettlementPage() {
               </div>
 
               {/* Haircut Slabs Table */}
-              <h3 className="text-lg font-bold text-slate-900 mb-3">Realistic SBI Card Settlement Haircut Matrix by Card Product &amp; Aging</h3>
+              <h4 className="text-lg font-bold text-slate-900 mb-3">Realistic SBI Card Settlement Haircut Matrix by Card Product &amp; Aging</h4>
               <div className="overflow-x-auto my-4">
                 <table className="min-w-full bg-white">
                   <thead>
@@ -754,9 +754,9 @@ export default function SBICardCreditCardSettlementPage() {
                       <span className="text-[10px] font-black uppercase tracking-widest text-blue-300 block">
                         Legal Defense &amp; Action Blueprint
                       </span>
-                      <h3 className="text-sm md:text-base font-black text-white leading-tight">
+                      <h4 className="text-sm md:text-base font-black text-white leading-tight">
                         SBI Card Credit Card Settlement &amp; Legal Resolution Roadmap
-                      </h3>
+                      </h4>
                     </div>
                   </div>
                   <a
@@ -803,7 +803,7 @@ export default function SBICardCreditCardSettlementPage() {
                 <Gavel className="w-4 h-4" />
                 <span>6. Gurugram Legal Notices, Sec 25 PSSA &amp; Order 37 CPC</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Demystifying SBI Card Gurugram Legal Notices</h2>
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Demystifying SBI Card Gurugram Legal Notices</h3>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 SBI Cards &amp. Payment Services Limited runs a centralized legal recovery team in Gurugram. When an account stays unpaid for over 90 days, borrowers get formal demand notices. These notices cite strict laws to demand quick payment.
               </p>
@@ -835,7 +835,7 @@ export default function SBICardCreditCardSettlementPage() {
                 <Scale className="w-4 h-4" />
                 <span>7. Lok Adalat Conciliation &amp; 60-70% Waivers</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Leveraging National Lok Adalats</h2>
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Leveraging National Lok Adalats</h3>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 SBI Cards &amp. Payment Services Limited joins National Lok Adalats set up by NALSA and state bodies. For borrowers seeking deep debt relief, Lok Adalat benches offer a safe and neutral platform.
               </p>
@@ -853,7 +853,7 @@ export default function SBICardCreditCardSettlementPage() {
                 <Layers className="w-4 h-4" />
                 <span>8. Step-by-Step Online Settlement Roadmap</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Step-by-Step Strategic Roadmap</h2>
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Step-by-Step Strategic Roadmap</h3>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Follow these clear steps to secure a binding One-Time Settlement with SBI Card:
               </p>
@@ -917,7 +917,7 @@ export default function SBICardCreditCardSettlementPage() {
                 <FileCheck className="w-4 h-4" />
                 <span>9. Sanction Letter Forensics &amp; ₹0 NDC Mandate</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">SBI Card OTS Sanction Letter Forensics</h2>
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">SBI Card OTS Sanction Letter Forensics</h3>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Never pay settlement money based on phone calls or informal letters from recovery agents. illegal agents might keep your money or mark it as a part-payment. This leaves your debt open with ongoing interest.
               </p>
@@ -941,7 +941,7 @@ export default function SBICardCreditCardSettlementPage() {
                 <TrendingUp className="w-4 h-4" />
                 <span>10. CIBIL Trajectory &amp; Score Rehabilitation</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">SBI Card CIBIL Recovery &amp; Credit Rebuilding</h2>
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">SBI Card CIBIL Recovery &amp; Credit Rebuilding</h3>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Knowing how settlement affects your credit score is vital. When SBI Card closes an account under OTS, it reports the status as &apos;Settled&apos. or &apos;Post-Write-off Settled&apos. to CIBIL and Experian with a ₹0 balance.
               </p>
@@ -999,7 +999,7 @@ export default function SBICardCreditCardSettlementPage() {
                 <HelpCircle className="w-4 h-4" />
                 <span>12. Frequently Asked Questions</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">SBI Card Credit Card Settlement: Frequently Asked Questions</h2>
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">SBI Card Credit Card Settlement: Frequently Asked Questions</h3>
 
               <div className="space-y-4">
                 {faqs.map((faq, index) => (
@@ -1021,10 +1021,10 @@ export default function SBICardCreditCardSettlementPage() {
 
             {/* Official Statutory & Regulatory Reference Strip (5 Links) */}
             <div className="bg-slate-50 border border-slate-200 rounded-2xl p-6 my-10">
-              <h3 className="text-base font-bold text-slate-900 mb-4 flex items-center gap-2">
+              <h4 className="text-base font-bold text-slate-900 mb-4 flex items-center gap-2">
                 <Scale className="w-5 h-5 text-[#1F5EFF]" />
                 Official Statutory &amp; Regulatory References
-              </h3>
+              </h4>
               <ul className="space-y-3 text-xs sm:text-sm text-slate-600">
                 <li className="flex items-start gap-2">
                   <ExternalLink className="w-4 h-4 text-[#1F5EFF] flex-shrink-0 mt-0.5" />
@@ -1086,10 +1086,10 @@ export default function SBICardCreditCardSettlementPage() {
 
             {/* Related Guides & Resources Strip (10 Topic Badges) */}
             <div className="bg-slate-50 border border-slate-200 rounded-2xl p-6 my-10">
-              <h3 className="text-base font-bold text-slate-900 mb-4 flex items-center gap-2">
+              <h4 className="text-base font-bold text-slate-900 mb-4 flex items-center gap-2">
                 <BookOpen className="w-5 h-5 text-[#1F5EFF]" />
                 Explore Related Credit Card &amp; Debt Resolution Guides
-              </h3>
+              </h4>
               <div className="flex flex-wrap gap-2.5">
                 <Link
                   href="/bank-one-time-settlement-ots-policy"

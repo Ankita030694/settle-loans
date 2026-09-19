@@ -333,9 +333,9 @@ export default function PlatformReviewsPage() {
             </section>
 
             <section id="why-reviews-matter" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
                 Why Reviews Matter in the Debt Relief Ecosystem
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 When you are dealing with financial distress, trust is your most valuable currency. Choosing a debt settlement platform involves sharing sensitive financial documents and entrustment with your legal representation. User reviews serve as a vital indicator of a platform’s reliability, empathy, and effectiveness. They provide a window into the actual experience of working with these firms, beyond the polished marketing materials.
               </p>
@@ -343,7 +343,7 @@ export default function PlatformReviewsPage() {
                 In India, where the debt settlement industry is still maturing, reviews help distinguish between professional legal consultancies and unscrupulous operators. They highlight how a company handles recovery agent harassment, how transparent they are about fees, and how successful they are in securing significant waivers from major banks and NBFCs.
               </p>
               <div className="bg-gray-50 p-8 rounded-xl border border-gray-200 mb-8">
-                <h3 className="text-xl font-bold mb-6 italic">What to Look for in a Review</h3>
+                <h4 className="text-xl font-bold mb-6 italic">What to Look for in a Review</h4>
                 <ul className="grid md:grid-cols-2 gap-4 text-sm font-medium">
                   <li className="flex items-center gap-2">
                     <span className="w-2 h-2 bg-[#1F5EFF] rounded-full"></span>
@@ -374,14 +374,14 @@ export default function PlatformReviewsPage() {
             </section>
 
             <section id="amalegal-review" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
                 AMA Legal Solutions: <span className="text-[#1F5EFF]">The Legal Shield for Complex Debt</span>
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 <Link href="https://amalegalsolutions.com" target="_blank" rel="noopener noreferrer" className="text-[#1F5EFF] hover:underline">AMA Legal Solutions</Link> (amalegalsolutions.com) is widely recognized as a premier law firm in India specializing in debt resolution. Their approach is fundamentally rooted in legal advocacy, making them a preferred choice for borrowers facing severe legal consequences or complex business debt issues.
               </p>
               <div className="bg-blue-50 p-8 rounded-xl border border-blue-200 mb-8">
-                <h3 className="text-xl font-bold mb-4 text-blue-900">Core Strengths Identified in User Reviews</h3>
+                <h4 className="text-xl font-bold mb-4 text-blue-900">Core Strengths Identified in User Reviews</h4>
                 <p className="text-sm text-blue-800 leading-relaxed mb-4">
                   1. <strong>Expert Legal Advocacy:</strong> Users frequently mention the firm's deep understanding of the SARFAESI Act, DRT proceedings, and Section 138 cases. Their team of seasoned lawyers provides a robust defense against aggressive bank legal teams.
                 </p>
@@ -398,14 +398,14 @@ export default function PlatformReviewsPage() {
             </section>
 
             <section id="credsettle-review" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
                 CredSettle: <span className="text-[#1F5EFF]">The Modern, Data Driven Approach</span>
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 CredSettle (credsettle.com) has positioned itself as a technology-first debt settlement platform. Their model emphasizes transparency, data analytics, and streamlined communication, which appeals to a broad demographic of modern borrowers including young professionals and retail loan holders.
               </p>
               <div className="bg-purple-50 p-8 rounded-xl border border-purple-200 mb-8">
-                <h3 className="text-xl font-bold mb-4 text-purple-900">Key User Feedback Highlights</h3>
+                <h4 className="text-xl font-bold mb-4 text-purple-900">Key User Feedback Highlights</h4>
                 <p className="text-sm text-purple-800 leading-relaxed mb-4">
                   1. <strong>Transparent Dashboard:</strong> A standout feature mentioned in many reviews is their user-friendly dashboard. Borrowers appreciate being able to track the status of their negotiations with multiple banks in real-time, providing a sense of control over a stressful process.
                 </p>
@@ -422,14 +422,14 @@ export default function PlatformReviewsPage() {
             </section>
 
             <section id="settleloans-review" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
                 SettleLoans.in: <span className="text-[#1F5EFF]">The Empathetic Partner for Personalized Relief</span>
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 SettleLoans.in stands out for its deep focus on empathy and personalized guidance. They recognize that debt is as much a psychological burden as it is a financial one, and their services are designed to support both aspects of a borrower’s journey.
               </p>
               <div className="bg-emerald-50 p-8 rounded-xl border border-emerald-100 mb-8">
-                <h3 className="text-xl font-bold mb-4 text-emerald-900">What Users Love About SettleLoans</h3>
+                <h4 className="text-xl font-bold mb-4 text-emerald-900">What Users Love About SettleLoans</h4>
                 <p className="text-sm text-emerald-800 leading-relaxed mb-4">
                   1. <strong>Dedicated Case Managers:</strong> Unlike more automated platforms, SettleLoans assigns a dedicated counselor to each client. User reviews often mention these managers by name, praising their constant communication and emotional support during the toughest times.
                 </p>
@@ -446,7 +446,7 @@ export default function PlatformReviewsPage() {
             </section>
 
             <section id="comparison" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Comparative Analysis: Finding Your Fit</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Comparative Analysis: Finding Your Fit</h3>
               <p className="mb-6">
                 Choosing the right platform depends on your unique needs. While all three platforms mentioned are professional and well-regarded, they have slightly different areas of specialization.
               </p>
@@ -491,7 +491,7 @@ export default function PlatformReviewsPage() {
             </section>
 
             <section id="negotiation-process" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">The Negotiation Process: What to Expect</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">The Negotiation Process: What to Expect</h3>
               <p className="mb-6">
                 Regardless of the platform you choose, the debt settlement process follows a general legal and professional workflow. Understanding this timeline can help manage your expectations and reduce the stress of the unknown.
               </p>
@@ -524,12 +524,12 @@ export default function PlatformReviewsPage() {
             </section>
 
             <section id="legal-rights" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 text-red-600">Your Rights as a Borrower in India</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 text-red-600">Your Rights as a Borrower in India</h3>
               <p className="mb-6">
                 Many people fall into deeper distress simply because they do not know their legal protections. Under RBI guidelines and Indian law, you have specific rights that even a defaulting borrower retains.
               </p>
               <div className="bg-red-50 border-l-4 border-red-500 p-8 rounded-r-xl mb-8">
-                <h3 className="text-xl font-bold text-red-800 mb-4">Crucial Borrower Protections</h3>
+                <h4 className="text-xl font-bold text-red-800 mb-4">Crucial Borrower Protections</h4>
                 <ul className="space-y-3 text-red-900/80">
                   <li>• <strong>No Physical or Verbal Abuse:</strong> Recovery agents cannot use force, intimidation, or abusive language.</li>
                   <li>• <strong>Call Timings:</strong> Lenders can only contact you between 8 AM and 7 PM. Any calls outside these hours are a violation.</li>
@@ -540,7 +540,7 @@ export default function PlatformReviewsPage() {
             </section>
 
             <section id="red-flags" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Alert: How to Spot a Debt Relief Scam</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Alert: How to Spot a Debt Relief Scam</h3>
               <p className="mb-6">
                 While companies like <Link href="https://amalegalsolutions.com" target="_blank" rel="noopener noreferrer" className="text-[#1F5EFF] hover:underline">AMA Legal Solutions</Link>, CredSettle, and SettleLoans are professional entities, the popularity of debt settlement has also attracted scammers. Be extremely vigilant when choosing a provider.
               </p>
@@ -552,7 +552,7 @@ export default function PlatformReviewsPage() {
             <ReviewSnippets reviews={reviews} />
 
             <section id="life-after-settlement" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Building Your Future After Debt</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Building Your Future After Debt</h3>
               <p className="mb-6">
                 Settling your debt is a massive accomplishment, but the journey doesn't end there. It is the beginning of a fresh financial chapter. These platforms provide you with the wisdom to manage your money better, avoid future debt traps, and eventually start rebuilding your creditworthiness.
               </p>
@@ -562,7 +562,7 @@ export default function PlatformReviewsPage() {
             </section>
 
             <section id="faqs" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Frequently Asked Questions</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Frequently Asked Questions</h3>
               <div className="space-y-4 not-prose">
                 {(jsonLd["@graph"][4] as any)?.mainEntity?.map((faq: any, i: number) => (
                   <details key={i} className="group bg-white border border-[#DEDEDE] rounded-xl overflow-hidden hover:shadow-md transition-all border-b-4 border-b-[#1F5EFF]/20">
@@ -588,7 +588,7 @@ export default function PlatformReviewsPage() {
             <div className="lg:hidden mt-16 mb-8">
               <div className="bg-[#2E2E2E] rounded-2xl shadow-xl overflow-hidden border border-[#1F5EFF]/20">
                 <div className="bg-[#1F5EFF] p-6 text-center text-white">
-                  <h3 className="text-2xl font-black mb-2">Ready to Take Control?</h3>
+                  <h4 className="text-2xl font-black mb-2">Ready to Take Control?</h4>
                   <p className="opacity-90 text-sm">Our experts at SettleLoans are ready to help you find your way back to financial freedom.</p>
                 </div>
                 <div className="p-8 text-center text-[#DEDEDE]">

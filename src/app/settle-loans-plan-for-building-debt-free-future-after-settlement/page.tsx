@@ -267,7 +267,7 @@ export default function DebtFreeFuturePlanPage() {
                             </p>
                             <div className="bg-[#2E2E2E] p-10 rounded-[32px] text-white shadow-2xl relative overflow-hidden my-12">
                                 <div className="absolute top-0 right-0 w-64 h-64 bg-[#1F5EFF]/20 rounded-full -mr-32 -mt-32 blur-[80px]"></div>
-                                <h3 className="text-2xl font-black mb-6 relative z-10 text-blue-400 uppercase italic">The 2025 Financial Reality</h3>
+                                <h4 className="text-2xl font-black mb-6 relative z-10 text-blue-400 uppercase italic">The 2025 Financial Reality</h4>
                                 <p className="text-lg opacity-80 leading-relaxed relative z-10 font-medium">
                                     The post-pandemic world has proven that digital credit is addictive and dangerous. Lenders now use advanced AI to track your every move. If you have settled a debt, the 'Algorithm' will remember it for years. To beat a digital system, you need a digital recovery plan. This plan is built on the pillars of data verification, disciplined credit usage, and strategic legal oversight. We don't just help you settle; we help you win the second half of the game.
                                 </p>
@@ -278,9 +278,9 @@ export default function DebtFreeFuturePlanPage() {
                         </section>
 
                         <section id="golden-first-month" className="scroll-mt-32 mb-20 text-lg">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 uppercase tracking-widest">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 uppercase tracking-widest">
                                 The Golden First Month: Secure Your Rights
-                            </h2>
+                            </h3>
                             <p className="mb-8 leading-relaxed">
                                 The first 30 days after your final settlement payment are the most critical. This is where most errors occur that haunt borrowers for years. You must treat this period with the precision of a legal audit. The team at amalegalsolutions.com emphasizes that a settlement is only as good as the papers that prove it. Banks are large bureaucracies; often, the collection department knows you have settled, but the reporting department continues to show you as a defaulter.
                             </p>
@@ -292,20 +292,20 @@ export default function DebtFreeFuturePlanPage() {
                             </p>
                             <div className="grid md:grid-cols-2 gap-6 my-12">
                                 <div className="bg-blue-50 p-8 rounded-2xl border border-blue-100">
-                                    <h3 className="font-black text-blue-900 mb-3 uppercase text-xs">Action Item 01</h3>
+                                    <h4 className="font-black text-blue-900 mb-3 uppercase text-xs">Action Item 01</h4>
                                     <p className="text-sm font-bold text-blue-800">Ensure the NOC/NDC is physically stamped and signed. Keep three photocopies and a scanned digital copy in a secure cloud storage like Google Drive or Digilocker.</p>
                                 </div>
                                 <div className="bg-green-50 p-8 rounded-2xl border border-green-100">
-                                    <h4 className="font-black text-green-900 mb-3 uppercase text-xs">Action Item 02</h4>
+                                    <h5 className="font-black text-green-900 mb-3 uppercase text-xs">Action Item 02</h5>
                                     <p className="text-sm font-bold text-green-800">Check your CIBIL portal exactly 45 to 60 days after settlement. The status must change from 'Overdue' to 'Settled'. If it doesn't, invoke the legal services of Amalegal Solutions immediately.</p>
                                 </div>
                             </div>
                         </section>
 
                         <section id="cibil-auditing-guide" className="scroll-mt-32 mb-20">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 uppercase italic border-l-8 border-[#1F5EFF] pl-6 font-sans tracking-tighter">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 uppercase italic border-l-8 border-[#1F5EFF] pl-6 font-sans tracking-tighter">
                                 The CIBIL Audit: Understanding the 'Settled' Mark
-                            </h2>
+                            </h3>
                             <p className="mb-8 text-xl font-medium leading-relaxed">
                                 There is a common myth that a 'Settled' mark on your CIBIL report is a permanent stain. At settleloans.in, we call this the 'Settlement Scaring'. While it is true that 'Settled' is not as good as 'Closed', it is vastly superior to 'Suit Filed' or 'Default'. You must learn to read your report like a surgeon. The bank is required to report the settlement to all four bureaus: CIBIL, Experian, Equifax, and CRIF.
                             </p>
@@ -321,9 +321,9 @@ export default function DebtFreeFuturePlanPage() {
                         </section>
 
                         <section id="psychology-of-freedom" className="scroll-mt-32 mb-16 text-lg">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 uppercase tracking-widest italic decoration-[#1F5EFF] underline underline-offset-8">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 uppercase tracking-widest italic decoration-[#1F5EFF] underline underline-offset-8">
                                 The Psychology of the Debt-Free Mind
-                            </h2>
+                            </h3>
                             <p className="mb-8 leading-relaxed">
                                 Most of our clients at settleloans.in fall into debt not because of a lack of money, but because of a 'Scarcity Mindset' or an 'Image Mindset'. The pressure to 'Keep Up with the Kalras' is what fuels the credit card industry. To build a debt-free future, you must kill the part of you that feels successful only when spending money you don't have. Financial freedom is not about the car you drive; it is about the sleep you get.
                             </p>
@@ -337,7 +337,7 @@ export default function DebtFreeFuturePlanPage() {
                                     <div key={idx} className="p-8 bg-white border border-gray-100 rounded-[32px] shadow-sm hover:border-[#1F5EFF] transition-all group flex gap-6 items-start">
                                         <div className="w-12 h-12 rounded-full bg-[#1F5EFF]/10 text-[#1F5EFF] flex items-center justify-center font-black shrink-0">{idx + 1}</div>
                                         <div>
-                                            <h3 className="font-black text-[#2E2E2E] uppercase text-sm tracking-widest mb-2">{step.title}</h3>
+                                            <h4 className="font-black text-[#2E2E2E] uppercase text-sm tracking-widest mb-2">{step.title}</h4>
                                             <p className="text-gray-600 leading-relaxed font-medium text-sm">{step.desc}</p>
                                         </div>
                                     </div>
@@ -346,9 +346,9 @@ export default function DebtFreeFuturePlanPage() {
                         </section>
 
                         <section id="emergency-fund-creation" className="scroll-mt-32 mb-20 text-lg">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 uppercase italic border-b-8 border-blue-50 pb-4 tracking-tighter">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 uppercase italic border-b-8 border-blue-50 pb-4 tracking-tighter">
                                 Liquid Strength: The Six-Month Buffer
-                            </h2>
+                            </h3>
                             <p className="mb-8 leading-relaxed">
                                 The number one reason people fall back into debt after a settlement is a 'Secondary Life Shock'. You settle your credit cards, and suddenly your car engine fails or your father needs an emergency surgery. Without a buffer, you reach for another high-interest personal loan, and the cycle starts again. In the borrow-repay-repeat cycle, the bank always wins. To break this, you need 'Liquid Strength'.
                             </p>
@@ -357,7 +357,7 @@ export default function DebtFreeFuturePlanPage() {
                             </p>
                             <div className="bg-[#1F5EFF] p-12 rounded-[48px] text-white my-16 shadow-2xl relative overflow-hidden">
                                 <div className="absolute top-0 right-0 w-80 h-80 bg-white/10 rounded-full -mr-40 -mt-40 blur-[100px]"></div>
-                                <h3 className="text-2xl font-black mb-6 relative z-10 italic">The Liquidity Ladder</h3>
+                                <h4 className="text-2xl font-black mb-6 relative z-10 italic">The Liquidity Ladder</h4>
                                 <div className="space-y-4 relative z-10 opacity-90 font-medium">
                                     <p>Level 01: Build a ₹25,000 'Starter Buffer' within the first 60 days post-settlement.</p>
                                     <p>Level 02: Reach 2 Monthly Salaries in a liquid savings account within 6 months.</p>
@@ -367,41 +367,41 @@ export default function DebtFreeFuturePlanPage() {
                         </section>
 
                         <section id="credit-rebuilding-blueprint" className="scroll-mt-32 mb-20">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-10 uppercase tracking-widest border-l-8 border-gray-900 pl-6">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-10 uppercase tracking-widest border-l-8 border-gray-900 pl-6">
                                 The Credit Roadmap: From 500 to 800
-                            </h2>
+                            </h3>
                             <p className="mb-10 leading-relaxed text-lg font-medium">
                                 Once your debts are settled and your emergency fund is growing, it is time to engage with the credit system again. You don't rebuild credit by avoiding it; you rebuild it by mastering it. The credit bureau algorithms look for 'Patterns of Reliability'. They want to see that you can handle credit responsibly over a long period. This is a marathon, not a sprint.
                             </p>
                             <div className="space-y-12">
                                 <div className="relative pl-16">
                                     <div className="absolute left-0 top-0 w-12 h-12 rounded-full bg-black text-white flex items-center justify-center font-black italic">PH 1</div>
-                                    <h3 className="text-xl font-bold mb-3 uppercase tracking-widest">The Reconstruction Phase (Month 6-12)</h3>
+                                    <h4 className="text-xl font-bold mb-3 uppercase tracking-widest">The Reconstruction Phase (Month 6-12)</h4>
                                     <p className="text-gray-600 leading-relaxed font-medium">During this phase, do not apply for any loans. Focus on ensuring your 'Payment History' section on CIBIL shows green for all active utility bills. Avoid any 'Hard Inquiries'. Every time you apply for a loan and get rejected, your score drops another 10 points. Discipline is your only asset here.</p>
                                 </div>
                                 <div className="relative pl-16">
                                     <div className="absolute left-0 top-0 w-12 h-12 rounded-full bg-black text-white flex items-center justify-center font-black italic">PH 2</div>
-                                    <h4 className="text-xl font-bold mb-3 uppercase tracking-widest">The Activation Phase (Month 12-18)</h4>
+                                    <h5 className="text-xl font-bold mb-3 uppercase tracking-widest">The Activation Phase (Month 12-18)</h5>
                                     <p className="text-gray-600 leading-relaxed font-medium">Introduce a 'Secured Product'. This is usually a credit card given against an FD. This card is not for spending; it is for reporting. Use it to pay your Netflix bill and immediately pay it off. You are 'Gaming' the algorithm by showing a 100% on-time repayment history on a new line of credit.</p>
                                 </div>
                                 <div className="relative pl-16">
                                     <div className="absolute left-0 top-0 w-12 h-12 rounded-full bg-black text-white flex items-center justify-center font-black italic">PH 3</div>
-                                    <h5 className="text-xl font-bold mb-3 uppercase tracking-widest">The Diversification Phase (Month 18-24)</h5>
+                                    <h6 className="text-xl font-bold mb-3 uppercase tracking-widest">The Diversification Phase (Month 18-24)</h6>
                                     <p className="text-gray-600 leading-relaxed font-medium">Once your score crosses 700, apply for a small consumer durable loan - perhaps a fridge or a laptop - even if you have the cash. Pay the down payment and then pay the remaining EMIs religiously. This introduces 'Credit Mix' into your profile, which is a major score booster in modern scoring models.</p>
                                 </div>
                             </div>
                         </section>
 
                         <section id="secured-card-strategy" className="scroll-mt-32 mb-20 text-lg">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 uppercase italic underline decoration-[10px] decoration-blue-100 underline-offset-4 tracking-tighter">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 uppercase italic underline decoration-[10px] decoration-blue-100 underline-offset-4 tracking-tighter">
                                 The Secured Card Rule: 30% or Bust
-                            </h2>
+                            </h3>
                             <p className="mb-8 leading-relaxed">
                                 The 'Secured Credit Card' is the most powerful tool in the SettleLoans arsenal for rebuilding a post-settlement life. Banks like IDFC First, Kotak, and ICICI offer cards against a minimum FD of ₹10,000. This is a game-changer because the bank takes zero risk, and you get a data-reporting pipe to CIBIL. However, there is a catch: 'Credit Utilization Ratio'.
                             </p>
                             <div className="bg-white p-10 rounded-[40px] border-2 border-[#1F5EFF] my-12 relative">
                                 <div className="absolute -top-4 left-10 bg-[#1F5EFF] text-white px-6 py-1 rounded-full text-xs font-black uppercase tracking-widest italic">The Golden Equation</div>
-                                <h3 className="text-2xl font-black mb-6 text-[#2E2E2E]">Score = (Repayment x 0.35) + (Low Utilization x 0.30)</h3>
+                                <h4 className="text-2xl font-black mb-6 text-[#2E2E2E]">Score = (Repayment x 0.35) + (Low Utilization x 0.30)</h4>
                                 <p className="opacity-90 leading-relaxed mb-6 font-medium italic">
                                     If you have a ₹50,000 limit and you spend ₹40,000, you appear 'Credit Hungry' to the algorithm, even if you pay it off. This signals desperation. To boost your score, you must keep your usage below 30% (₹15,000). The sweet spot for rapid recovery is actually usage between 5% and 10%. Spend little, pay perfectly, and watch your score skyrocket.
                                 </p>
@@ -412,9 +412,9 @@ export default function DebtFreeFuturePlanPage() {
                         </section>
 
                         <section id="legal-protection-shield" className="scroll-mt-32 mb-20">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 uppercase tracking-widest border-l-8 border-blue-500 pl-6">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 uppercase tracking-widest border-l-8 border-blue-500 pl-6">
                                 The Legal Shield: Post-Settlement Security
-                            </h2>
+                            </h3>
                             <p className="mb-8 text-xl font-medium leading-relaxed italic">
                                 A settlement isn't a handshake; it's a contract. Ensure yours is ironclad with amalegalsolutions.com.
                             </p>
@@ -422,7 +422,7 @@ export default function DebtFreeFuturePlanPage() {
                                 One of the most dangerous occurrences in the debt industry is 'Zombie Debt Recovery'. This is when a bank sells its old settled ledgers to unlicensed recovery agencies for pennies. These agencies then begin to call you, claiming the settlement was invalid or that interest has continued to accrue. Without the legal oversight of amalegalsolutions.com, you might be bullied into paying again.
                             </p>
                             <div className="bg-gray-100 p-10 rounded-[40px] my-12 border border-gray-200">
-                                <h3 className="text-xl font-black text-[#2E2E2E] mb-6 uppercase tracking-widest">Protections under Consumer Protection Act 2019</h3>
+                                <h4 className="text-xl font-black text-[#2E2E2E] mb-6 uppercase tracking-widest">Protections under Consumer Protection Act 2019</h4>
                                 <ul className="space-y-4 font-medium text-sm text-gray-700">
                                     <li className="flex gap-3 items-start">
                                         <span className="text-[#1F5EFF] font-black">✓</span>
@@ -441,19 +441,19 @@ export default function DebtFreeFuturePlanPage() {
                         </section>
 
                         <section id="investment-mindset" className="scroll-mt-32 mb-20">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 uppercase italic border-l-8 border-[#1F5EFF] pl-6">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 uppercase italic border-l-8 border-[#1F5EFF] pl-6">
                                 Wealth Creation: From Debt to Investment
-                            </h2>
+                            </h3>
                             <p className="mb-8 leading-relaxed text-lg">
                                 The final stage of the SettleLoans plan is moving from a 'Survival Mindset' to a 'Wealth Mindset'. Debt is negative interest; investment is positive interest. Once you reach your emergency fund goal, you must start making your money work for you. In 2025, with India's growth trajectory, even a small monthly SIP (Systematic Investment Plan) can lead to massive long-term wealth.
                             </p>
                             <div className="grid md:grid-cols-2 gap-8 my-16">
                                 <div className="p-8 rounded-[40px] bg-blue-50 border border-blue-100 italic transition-hover hover:shadow-lg">
-                                    <h3 className="text-xl font-black mb-3">The Power of Rupee Cost Averaging</h3>
+                                    <h4 className="text-xl font-black mb-3">The Power of Rupee Cost Averaging</h4>
                                     <p className="text-sm text-gray-600">Start a SIP of even ₹1,000. It's not about the amount; it's about the habit of investing before spending. This is the ultimate cure for debt addiction.</p>
                                 </div>
                                 <div className="p-8 rounded-[40px] bg-green-50 border border-green-100 italic transition-hover hover:shadow-lg">
-                                    <h4 className="text-xl font-black mb-3">Asset Allocation for Resilience</h4>
+                                    <h5 className="text-xl font-black mb-3">Asset Allocation for Resilience</h5>
                                     <p className="text-sm text-gray-600">Diversify into gold and conservative debt funds. This ensures you have layers of protection so you never have to go back to the bank for an emergency.</p>
                                 </div>
                             </div>
@@ -496,7 +496,7 @@ export default function DebtFreeFuturePlanPage() {
                         </section>
 
                         <section id="faqs" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 uppercase italic tracking-tighter">Frequently Asked Questions</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 uppercase italic tracking-tighter">Frequently Asked Questions</h3>
                             <div className="space-y-4 not-prose">
                                 {(jsonLd["@graph"] as any)[4]?.mainEntity?.map((faq: any, i: number) => (
                                     <details key={i} className="group bg-white border border-[#DEDEDE] rounded-xl overflow-hidden hover:shadow-md transition-all border-b-4 border-b-[#1F5EFF]/20">
@@ -524,7 +524,7 @@ export default function DebtFreeFuturePlanPage() {
                         <div className="lg:hidden mt-20 mb-8">
                             <div className="bg-[#2E2E2E] rounded-[40px] shadow-2xl overflow-hidden border border-[#1F5EFF]/20">
                                 <div className="bg-[#1F5EFF] p-8 text-center text-white">
-                                    <h3 className="text-3xl font-black mb-3 italic tracking-tighter">START YOUR NEW LIFE</h3>
+                                    <h4 className="text-3xl font-black mb-3 italic tracking-tighter">START YOUR NEW LIFE</h4>
                                     <p className="opacity-90 text-sm font-medium">Join 20,000+ Indians who reclaimed their future with SettleLoans. Your debt-free life starts with a single click.</p>
                                 </div>
                                 <div className="p-10 text-center text-[#DEDEDE]">

@@ -403,9 +403,9 @@ export default function CaseStudyNriDubaiClient() {
 
             {/* Section 2: Demystifying Airport Arrests & LOC Myths */}
             <section id="airport-arrest-look-out-circular-myths" className="mb-10 scroll-mt-24">
-              <h2 className="text-xl md:text-2xl lg:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h3 className="text-xl md:text-2xl lg:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 2. Demystifying the Airport Arrest &amp; Look Out Circular (LOC) Myth
-              </h2>
+              </h3>
               <p className="text-slate-700 leading-relaxed mb-4">
                 As the delinquency crossed 120 days, third-party recovery agencies engaged by the lender initiated intensive telephonic harassment, contacting Tariq via international VoIP calls and sending threatening WhatsApp messages. The collection personnel claimed that a Look Out Circular (LOC) had been registered against his Indian passport, threatening that the moment his flight landed at Rajiv Gandhi International Airport in Hyderabad or Mumbai International Airport, immigration authorities and the Bureau of Immigration (BOI) would immediately arrest and detain him.
               </p>
@@ -457,9 +457,9 @@ export default function CaseStudyNriDubaiClient() {
 
             {/* Section 3: Power of Attorney & Consular Attestation */}
             <section id="power-of-attorney-consulate-process" className="mb-10 scroll-mt-24">
-              <h2 className="text-xl md:text-2xl lg:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h3 className="text-xl md:text-2xl lg:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 3. The Legal Enabler: Special Power of Attorney (SPA) &amp; UAE Consular Attestation
-              </h2>
+              </h3>
               <p className="text-slate-700 leading-relaxed mb-4">
                 Recognizing that Tariq could not travel to India due to workplace commitments and unjustified arrest anxiety, SettleLoans established a legally robust remote representation framework pursuant to the <strong>Powers of Attorney Act, 1882</strong> and the <strong>Diplomatic and Consular Officers (Oaths and Fees) Act, 1948</strong>.
               </p>
@@ -487,9 +487,9 @@ export default function CaseStudyNriDubaiClient() {
 
             {/* Section 4: Bank Accounting Realities & NPV Formula */}
             <section id="banking-accounting-nri-npa-npv" className="mb-10 scroll-mt-24">
-              <h2 className="text-xl md:text-2xl lg:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h3 className="text-xl md:text-2xl lg:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 4. Behind Bank Accounting: Unsecured NRI NPAs &amp; the Cross-Border NPV Formula
-              </h2>
+              </h3>
               <p className="text-slate-700 leading-relaxed mb-4">
                 To achieve a 60% principal waiver on an unsecured ₹10 Lakh loan, one must understand the economic and balance-sheet pressures governing commercial banks under the <em>Reserve Bank of India (Prudential Norms on Income Recognition, Asset Classification and Provisioning) Directions</em>.
               </p>
@@ -533,9 +533,9 @@ export default function CaseStudyNriDubaiClient() {
                       <span className="text-[10px] font-black uppercase tracking-widest text-blue-300 block">
                         Legal Defense &amp; Action Blueprint
                       </span>
-                      <h3 className="text-sm md:text-base font-black text-white leading-tight">
+                      <h4 className="text-sm md:text-base font-black text-white leading-tight">
                         NRI Loan Settlement Summary &amp; Process Overview
-                      </h3>
+                      </h4>
                     </div>
                   </div>
                   <a
@@ -578,9 +578,9 @@ export default function CaseStudyNriDubaiClient() {
 
             {/* Section 6: Direct Stressed Asset Committee Negotiation */}
             <section id="sarb-negotiation-haircut-breakdown" className="mb-10 scroll-mt-24">
-              <h2 className="text-xl md:text-2xl lg:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h3 className="text-xl md:text-2xl lg:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 6. Direct Stressed Asset Committee Negotiation: Securing the 60% Haircut
-              </h2>
+              </h3>
               <p className="text-slate-700 leading-relaxed mb-4">
                 Armed with the registered and adjudicated Special Power of Attorney, SettleLoans initiated formal institutional intervention. Our legal team served a comprehensive <strong>Representation &amp; Hardship Memorandum</strong> upon the bank&apos;s Regional Stressed Assets Resolution Branch (SARB) and the Principal Nodal Officer (PNO), simultaneously notifying third-party recovery vendors of legal representation under the RBI Master Directions on Recovery Agents (2022).
               </p>
@@ -600,9 +600,9 @@ export default function CaseStudyNriDubaiClient() {
 
             {/* Section 7: Sanction Letter Audit & Remote Remittance */}
             <section id="sanction-letter-audit-remote-remittance" className="mb-10 scroll-mt-24">
-              <h2 className="text-xl md:text-2xl lg:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h3 className="text-xl md:text-2xl lg:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 7. Sanction Letter Forensic Verification &amp; Secure NRE/NRO Remittance
-              </h2>
+              </h3>
               <p className="text-slate-700 leading-relaxed mb-4">
                 Settling a bank loan requires absolute legal certainty. Under SettleLoans&apos; strict risk governance protocols, no borrower is ever permitted to transfer funds based on verbal representations, informal emails, or collection agency demands.
               </p>
@@ -619,9 +619,9 @@ export default function CaseStudyNriDubaiClient() {
 
             {/* Section 8: No Dues Certificate & Immigration Travel Safety */}
             <section id="no-dues-certificate-cibil-rehabilitation" className="mb-10 scroll-mt-24">
-              <h2 className="text-xl md:text-2xl lg:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h3 className="text-xl md:text-2xl lg:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 8. ₹0 No Dues Certificate, Bureau Scrub &amp; Unrestricted Travel Safety
-              </h2>
+              </h3>
               <p className="text-slate-700 leading-relaxed mb-4">
                 Following the crediting of the final remittance tranche, SettleLoans tracked the operational loan closure pipeline pursuant to <strong>RBI Circular RBI/2023-24/60</strong> (<em>Release of Movable/Immovable Property Documents / Issuance of NDC on Repayment</em>).
               </p>
@@ -681,9 +681,9 @@ export default function CaseStudyNriDubaiClient() {
 
             {/* Section 9: Comparative Matrix: Remote POA vs Other Paths */}
             <section id="nri-ots-vs-cross-border-litigation-matrix" className="mb-10 scroll-mt-24">
-              <h2 className="text-xl md:text-2xl lg:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h3 className="text-xl md:text-2xl lg:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 9. Comparative Resolution Matrix: Remote POA vs Ignored Default vs Traveling to India
-              </h2>
+              </h3>
               <p className="text-slate-700 leading-relaxed mb-4">
                 Non-Resident Indians managing distressed banking liabilities in India typically confront three distinct courses of action. The following comparative matrix evaluates the strategic, legal, and economic implications of each route:
               </p>
@@ -737,9 +737,9 @@ export default function CaseStudyNriDubaiClient() {
 
             {/* Section 10: SettleLoans Legal Representation & Company Section */}
             <section id="company-resolution-section" className="mb-10 scroll-mt-24">
-              <h2 className="text-xl md:text-2xl lg:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h3 className="text-xl md:text-2xl lg:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 10. SettleLoans Remote Legal Representation for Non-Resident Indians
-              </h2>
+              </h3>
               <p className="text-slate-700 leading-relaxed mb-6">
                 SettleLoans is India&apos;s leading specialized debt dispute resolution and banking conciliation platform. We provide end-to-end legal representation for Non-Resident Indians (NRIs) across the UAE, Saudi Arabia, Qatar, Oman, Singapore, the United Kingdom, the United States, and Canada. From consular Power of Attorney drafting and high-level Stressed Asset Committee negotiations to anti-harassment injunctions and official No Dues Certificate procurement, our senior advocates protect your rights, your finances, and your freedom to travel.
               </p>
@@ -754,9 +754,9 @@ export default function CaseStudyNriDubaiClient() {
                 <div className="w-8 h-8 rounded-xl bg-blue-50 text-[#1F5EFF] flex items-center justify-center font-bold">
                   ?
                 </div>
-                <h2 className="text-xl md:text-2xl lg:text-3xl font-black text-slate-900 leading-tight">
+                <h3 className="text-xl md:text-2xl lg:text-3xl font-black text-slate-900 leading-tight">
                   Frequently Asked Questions: NRI Debt Resolution &amp; Airport Arrest Defense
-                </h2>
+                </h3>
               </div>
               <p className="text-slate-600 text-sm mb-6">
                 Explore clear, legally verified answers to common questions regarding NRI personal loan default, Power of Attorney attestation, and travel rights in India.
@@ -777,10 +777,10 @@ export default function CaseStudyNriDubaiClient() {
 
             {/* Regulatory Sources & References Strip (5 Official Links) */}
             <div className="bg-slate-50 border border-slate-200 rounded-2xl p-6 my-10 text-xs text-slate-600">
-              <h3 className="font-bold text-slate-900 text-sm mb-3 flex items-center gap-2">
+              <h4 className="font-bold text-slate-900 text-sm mb-3 flex items-center gap-2">
                 <Landmark className="w-4 h-4 text-[#1F5EFF]" />
                 Official Statutory &amp; Regulatory References
-              </h3>
+              </h4>
               <ul className="space-y-2.5">
                 <li className="flex items-start gap-2">
                   <ExternalLink className="w-4 h-4 text-[#1F5EFF] flex-shrink-0 mt-0.5" />
@@ -842,10 +842,10 @@ export default function CaseStudyNriDubaiClient() {
 
             {/* Related Guides & Resources Strip (10 Topic Badges) */}
             <div className="bg-slate-50 border border-slate-200 rounded-2xl p-6 my-10">
-              <h3 className="text-base font-bold text-slate-900 mb-4 flex items-center gap-2">
+              <h4 className="text-base font-bold text-slate-900 mb-4 flex items-center gap-2">
                 <BookOpen className="w-5 h-5 text-[#1F5EFF]" />
                 Explore Related Banking &amp; NRI Debt Resolution Guides
-              </h3>
+              </h4>
               <div className="flex flex-wrap gap-2.5">
                 <Link
                   href="/nri-personal-loan-settlement-india"

@@ -156,12 +156,12 @@ export default function LoanGuarantorLiabilityPage() {
             </section>
 
             <section id="co-extensive-liability" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">Co-Extensive Liability under Indian Law</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">Co-Extensive Liability under Indian Law</h3>
               <p className="text-lg leading-relaxed mb-6">
                 Section 128 of the Indian Contract Act, 1872, governs the liability of a surety (guarantor). The law explicitly states that the liability of the guarantor is <strong>"co-extensive with that of the principal debtor, unless it is otherwise provided by the contract."</strong>
               </p>
               <div className="bg-blue-50 border-l-8 border-[#1F5EFF] p-8 rounded-r-2xl mb-8">
-                <h3 className="text-xl font-black text-[#1F5EFF] mb-4">Important Legal Context:</h3>
+                <h4 className="text-xl font-black text-[#1F5EFF] mb-4">Important Legal Context:</h4>
                 <ul className="space-y-4 text-blue-900 font-medium">
                   <li className="flex items-start gap-3">
                     <div className="mt-1.5 w-2 h-2 rounded-full bg-[#1F5EFF] flex-shrink-0"></div>
@@ -176,32 +176,32 @@ export default function LoanGuarantorLiabilityPage() {
             </section>
 
             <section id="the-default-process" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">What Happens During a Default?</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">What Happens During a Default?</h3>
               <p className="text-lg leading-relaxed mb-6">
                 When the primary borrower misses a payment, a cascade of severe consequences begins. The bank will typically send reminders, and after 90 days, classify the loan as a Non-Performing Asset (NPA). At this stage, recovery efforts accelerate drastically.
               </p>
               <div className="grid md:grid-cols-2 gap-6 my-8">
                 <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
-                  <h3 className="font-black text-[#1F5EFF] mb-3 text-lg">Demand Notices</h3>
+                  <h4 className="font-black text-[#1F5EFF] mb-3 text-lg">Demand Notices</h4>
                   <p className="text-sm leading-relaxed">You will start receiving official demand notices from the bank's legal department, urging you to clear the entire outstanding balance immediately.</p>
                 </div>
                 <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
-                  <h4 className="font-black text-[#1F5EFF] mb-3 text-lg">Harassment by Agents</h4>
+                  <h5 className="font-black text-[#1F5EFF] mb-3 text-lg">Harassment by Agents</h5>
                   <p className="text-sm leading-relaxed">Banks often target guarantors aggressively, deploying recovery agents to your home and workplace, knowing you likely have a better reputation at stake.</p>
                 </div>
                 <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
-                  <h4 className="font-black text-[#1F5EFF] mb-3 text-lg">Account Freezes</h4>
+                  <h5 className="font-black text-[#1F5EFF] mb-3 text-lg">Account Freezes</h5>
                   <p className="text-sm leading-relaxed">If you hold accounts with the same bank, they can exercise a "general lien" and freeze your accounts or automatically debit funds to offset the arrears.</p>
                 </div>
                 <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
-                  <h4 className="font-black text-[#1F5EFF] mb-3 text-lg">Interest Accumulation</h4>
+                  <h5 className="font-black text-[#1F5EFF] mb-3 text-lg">Interest Accumulation</h5>
                   <p className="text-sm leading-relaxed">The debt will continue to accrue interest and penal charges, and as a guarantor, you are legally liable for the inflated sum including these penalties.</p>
                 </div>
               </div>
             </section>
 
             <section id="bank-recovery-rights" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">Can the Bank Recover From the Guarantor Directly?</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">Can the Bank Recover From the Guarantor Directly?</h3>
               <p className="text-lg leading-relaxed mb-6">
                 Absolutely. Indian courts have consistently ruled that a creditor can proceed directly against the guarantor without first suing the principal debtor. The Supreme Court of India has reaffirmed that a guarantee is an independent contract.
               </p>
@@ -211,12 +211,12 @@ export default function LoanGuarantorLiabilityPage() {
             </section>
 
             <section id="cibil-impact" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">Understanding the Guarantor CIBIL Score Impact</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">Understanding the Guarantor CIBIL Score Impact</h3>
               <p className="text-lg leading-relaxed mb-6">
                 One of the most immediate damages of being a guarantor happens to your credit score. The loan reflects on your CIBIL report under the "Guarantor" section, directly tying your creditworthiness to the primary borrower's actions.
               </p>
               <div className="bg-red-50 p-6 rounded-xl border border-red-100 mb-8">
-                <h3 className="text-lg font-bold text-red-700 mb-3">Long-Term Impact:</h3>
+                <h4 className="text-lg font-bold text-red-700 mb-3">Long-Term Impact:</h4>
                 <p className="text-sm text-red-900 leading-relaxed italic">
                   If the primary borrower defaults, it is recorded on your CIBIL report as a default. This will drastically lower your credit score, making it nearly impossible for you to secure a home loan, car loan, or even a basic credit card until the guaranteed loan is resolved.
                 </p>
@@ -224,7 +224,7 @@ export default function LoanGuarantorLiabilityPage() {
             </section>
 
             <section id="steps-to-take" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">Steps to Take if Your Friend Defaulted</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">Steps to Take if Your Friend Defaulted</h3>
               <p className="text-lg leading-relaxed mb-8">
                 If you receive a notice that the primary borrower has defaulted, you must act immediately to protect your own financial standing. Here is the step-by-step process:
               </p>
@@ -232,21 +232,21 @@ export default function LoanGuarantorLiabilityPage() {
                 <div className="flex gap-6">
                   <div className="flex-shrink-0 w-12 h-12 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center font-black text-xl shadow-lg">1</div>
                   <div>
-                    <h3 className="text-xl font-black text-[#2E2E2E] mb-2">Demand Resolution from the Borrower</h3>
+                    <h4 className="text-xl font-black text-[#2E2E2E] mb-2">Demand Resolution from the Borrower</h4>
                     <p className="text-gray-600 leading-relaxed">Contact the primary borrower immediately. Understand their financial situation and whether it's a temporary hiccup or a permanent default. Push them to clear the dues.</p>
                   </div>
                 </div>
                 <div className="flex gap-6">
                   <div className="flex-shrink-0 w-12 h-12 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center font-black text-xl shadow-lg">2</div>
                   <div>
-                    <h3 className="text-xl font-black text-[#2E2E2E] mb-2">Respond to Bank Notices</h3>
+                    <h4 className="text-xl font-black text-[#2E2E2E] mb-2">Respond to Bank Notices</h4>
                     <p className="text-gray-600 leading-relaxed">Do not ignore legal notices, as this will result in ex-parte orders against you. Respond formally, ideally through a legal professional, to buy time and assert any defenses.</p>
                   </div>
                 </div>
                 <div className="flex gap-6">
                   <div className="flex-shrink-0 w-12 h-12 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center font-black text-xl shadow-lg">3</div>
                   <div>
-                    <h3 className="text-xl font-black text-[#2E2E2E] mb-2">Exercise Right of Subrogation</h3>
+                    <h4 className="text-xl font-black text-[#2E2E2E] mb-2">Exercise Right of Subrogation</h4>
                     <p className="text-gray-600 leading-relaxed">If you are forced to pay the bank, you step into the shoes of the creditor (Section 140). You have the explicit legal right to file a civil recovery suit against the primary borrower to get your money back.</p>
                   </div>
                 </div>
@@ -254,31 +254,31 @@ export default function LoanGuarantorLiabilityPage() {
             </section>
 
             <section id="detaching-liability" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">Detaching Liability Through Legal Negotiation</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">Detaching Liability Through Legal Negotiation</h3>
               <p className="text-lg leading-relaxed mb-6">
                 If the borrower is incapable of paying, you need a strategy to protect yourself. Engaging specialized debt settlement lawyers can help you negotiate directly with the bank to detach your name from the liability.
               </p>
               <div className="bg-gray-50 p-8 rounded-2xl mb-8 border border-gray-200">
-                <h3 className="font-black text-[#2E2E2E] mb-4">Fractional Settlement</h3>
+                <h4 className="font-black text-[#2E2E2E] mb-4">Fractional Settlement</h4>
                 <p className="mb-4">Lawyers can negotiate a fractional settlement to explicitly release your name from the guarantee deed for a lower amount, while the bank continues to pursue the primary borrower for the rest.</p>
-                <h4 className="font-black text-[#2E2E2E] mb-4">Legal Defenses</h4>
+                <h5 className="font-black text-[#2E2E2E] mb-4">Legal Defenses</h5>
                 <p>Lawyers review the guarantee deed for loopholes. For example, if the bank altered the loan terms without your consent (Section 133), you may be legally discharged from the liability entirely.</p>
               </div>
             </section>
 
             <section id="preventing-harassment" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">Preventing Harassment</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">Preventing Harassment</h3>
               <div className="bg-gray-50 p-8 rounded-2xl mb-8 border border-gray-200">
-                <h3 className="font-black text-[#2E2E2E] mb-4">Buffer Against Harassment</h3>
+                <h4 className="font-black text-[#2E2E2E] mb-4">Buffer Against Harassment</h4>
                 <p className="mb-4">Professional negotiators intercept all communications. Once they represent you, banks must legally communicate through them, stopping calls to you and visits to your workplace. This creates an immediate firewall protecting your reputation.</p>
               </div>
             </section>
 
             {/* Reviews Section matching the requested styling */}
             <section id="reviews" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-5xl font-black text-[#2E2E2E] mb-12 text-center">
+              <h3 className="text-3xl md:text-5xl font-black text-[#2E2E2E] mb-12 text-center">
                 Success Stories from <span className="text-[#1F5EFF]">Guarantors</span>
-              </h2>
+              </h3>
               <div className="grid md:grid-cols-2 gap-8">
                 {[
                   { 
@@ -316,7 +316,7 @@ export default function LoanGuarantorLiabilityPage() {
                         {review.name.charAt(0)}
                       </div>
                       <div>
-                        <h3 className="font-black text-[#2E2E2E]">{review.name}</h3>
+                        <h4 className="font-black text-[#2E2E2E]">{review.name}</h4>
                         <p className="text-xs text-[#747474] font-bold uppercase tracking-wider">{review.loc}</p>
                       </div>
                       <div className="ml-auto flex text-yellow-400">
@@ -343,7 +343,7 @@ export default function LoanGuarantorLiabilityPage() {
 
             {/* FAQs Section matching requested styling */}
             <section id="faqs" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">Frequently Asked Questions</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">Frequently Asked Questions</h3>
               <div className="space-y-4">
                 {[
                   { q: "Can a bank recover a loan from a guarantor in India?", a: "Yes. Under the Indian Contract Act, a guarantor's liability is co-extensive with the principal borrower. The bank has the right to recover the full amount from the guarantor." },
@@ -356,7 +356,7 @@ export default function LoanGuarantorLiabilityPage() {
                   { q: "How can legal help protect a guarantor?", a: "Legal experts can negotiate a settlement with the bank, stop illegal recovery harassment, and explore legal loopholes in the guarantee agreement to minimize your liability." }
                 ].map((faq, i) => (
                   <div key={i} className="bg-white border border-[#DEDEDE] rounded-xl p-6 hover:shadow-md transition-shadow">
-                    <h3 className="font-black text-[#2E2E2E] text-lg mb-3">{i+1}. {faq.q}</h3>
+                    <h4 className="font-black text-[#2E2E2E] text-lg mb-3">{i+1}. {faq.q}</h4>
                     <p className="text-gray-600 leading-relaxed">{faq.a}</p>
                   </div>
                 ))}
@@ -366,7 +366,7 @@ export default function LoanGuarantorLiabilityPage() {
             {/* Lead Gen Hook */}
             <div className="bg-[#2E2E2E] text-white p-12 rounded-[40px] text-center mt-24 relative overflow-hidden group">
                <div className="absolute inset-0 bg-[#1F5EFF] opacity-0 group-hover:opacity-5 transition-opacity"></div>
-               <h3 className="text-3xl md:text-5xl font-black mb-6">Being harassed by banks because a friend defaulted?</h3>
+               <h4 className="text-3xl md:text-5xl font-black mb-6">Being harassed by banks because a friend defaulted?</h4>
                <p className="text-xl opacity-80 mb-10 max-w-2xl mx-auto">
                  Get legal help to negotiate a settlement and detach your liability today. Protect your financial future before the bank seizes your assets.
                </p>

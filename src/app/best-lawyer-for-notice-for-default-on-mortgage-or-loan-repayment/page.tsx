@@ -280,13 +280,13 @@ export default function MortgageDefaultNoticePage() {
                         </section>
 
                         <section id="anatomy-13-2-notice" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#1A1A1A] mb-8">The Anatomy of a 13(2) Notice under SARFAESI</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#1A1A1A] mb-8">The Anatomy of a 13(2) Notice under SARFAESI</h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 The Section 13(2) notice is the nuclear option for banks in India. It is a demand notice that declares you a defaulter and gives you exactly sixty days to clear the entire debt. If you fail to do so, the bank bypasses the normal court system and moves directly to take possession of your secured assets.
                             </p>
                             <div className="grid grid-cols-1 md:grid-cols-2 gap-6 my-10">
                                 <div className="bg-white p-6 rounded-xl border border-[#DEDEDE] shadow-sm border-t-4 border-t-[#1F5EFF]">
-                                    <h3 className="font-bold mb-3">What the Notice Must Include</h3>
+                                    <h4 className="font-bold mb-3">What the Notice Must Include</h4>
                                     <ul className="text-sm space-y-2 opacity-80">
                                         <li>• Exact bifurcation of principal and interest.</li>
                                         <li>• Date of NPA classification.</li>
@@ -295,7 +295,7 @@ export default function MortgageDefaultNoticePage() {
                                     </ul>
                                 </div>
                                 <div className="bg-white p-6 rounded-xl border border-[#DEDEDE] shadow-sm border-t-4 border-t-[#1F5EFF]">
-                                    <h4 className="font-bold mb-3">Critical Deadlines</h4>
+                                    <h5 className="font-bold mb-3">Critical Deadlines</h5>
                                     <ul className="text-sm space-y-2 opacity-80">
                                         <li>• 15 Days: Time for bank to reply to your objection.</li>
                                         <li>• 60 Days: Total time to pay before 13(4) action.</li>
@@ -309,7 +309,7 @@ export default function MortgageDefaultNoticePage() {
                         </section>
 
                         <section id="responding-to-recall" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#1A1A1A] mb-8">How to Respond to a Bank Recall Notice</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#1A1A1A] mb-8">How to Respond to a Bank Recall Notice</h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 A 'Recall Notice' often precedes a formal SARFAESI action. It is the bank saying, "We no longer trust you to pay in installments; give us the whole amount now." This is a high pressure tactic, but it is also an opportunity for negotiation.
                             </p>
@@ -322,20 +322,20 @@ export default function MortgageDefaultNoticePage() {
                         </section>
 
                         <section id="challenging-npa" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#1A1A1A] mb-8">Challenging the NPA Classification legally</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#1A1A1A] mb-8">Challenging the NPA Classification legally</h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 NPA classification is the 'jurisdictional fact' that allows a bank to use SARFAESI. If the classification is wrong, the entire recovery action is void from its inception. The RBI's Master Circular on IRAC norms is the bible for this defense.
                             </p>
                             <div className="bg-[#1A1A1A] text-white p-8 rounded-2xl mb-8 relative">
                                 <FontAwesomeIcon icon={faScaleBalanced} className="absolute top-6 right-6 opacity-20 text-4xl" />
-                                <h3 className="text-xl font-bold mb-4">The 90-Day Rule and Beyond</h3>
+                                <h4 className="text-xl font-bold mb-4">The 90-Day Rule and Beyond</h4>
                                 <p className="mb-4 opacity-90 leading-relaxed">Many banks mark an account as NPA prematurely. We have handled cases where the bank counted holiday periods or failed to consider 'grace periods' mandated for MSMEs or agricultural loans. We also look for 'Debit Freeze' actions that prevented the borrower from paying, effectively creating a 'Self Inflicted Default' by the bank.</p>
                                 <p className="text-[#1F5EFF] font-bold">Result: If we prove the NPA status is wrong, the bank has to restart the entire notice process, giving you months of extra time.</p>
                             </div>
                         </section>
 
                         <section id="wrongful-notice-remedies" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#1A1A1A] mb-8">Legal Remedies for Wrongful or Malicious Notices</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#1A1A1A] mb-8">Legal Remedies for Wrongful or Malicious Notices</h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 Is the bank sending notices to your relatives or your office to shame you? Is the amount claimed double what you actually owe? These are not just mistakes; they can be grounds for legal action against the bank.
                             </p>
@@ -345,7 +345,7 @@ export default function MortgageDefaultNoticePage() {
                         </section>
 
                         <section id="foreclosure-defense" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#1A1A1A] mb-8">Mortgage Foreclosure Defense Strategy</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#1A1A1A] mb-8">Mortgage Foreclosure Defense Strategy</h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 The ultimate goal of defense is to protect the asset. We use a multi-pronged strategy:
                             </p>
@@ -353,21 +353,21 @@ export default function MortgageDefaultNoticePage() {
                                 <div className="flex gap-4 p-5 bg-gray-50 rounded-xl border border-gray-100">
                                     <div className="w-10 h-10 bg-[#1F5EFF] text-white rounded-full flex items-center justify-center shrink-0 font-bold">1</div>
                                     <div>
-                                        <h3 className="font-bold mb-1">Stay on Auction</h3>
+                                        <h4 className="font-bold mb-1">Stay on Auction</h4>
                                         <p className="text-sm opacity-70 leading-relaxed">Filing an urgent application in the DRT to stop the public sale of the house or land.</p>
                                     </div>
                                 </div>
                                 <div className="flex gap-4 p-5 bg-gray-50 rounded-xl border border-gray-100">
                                     <div className="w-10 h-10 bg-[#1F5EFF] text-white rounded-full flex items-center justify-center shrink-0 font-bold">2</div>
                                     <div>
-                                        <h4 className="font-bold mb-1">Challenging Valuation</h4>
+                                        <h5 className="font-bold mb-1">Challenging Valuation</h5>
                                         <p className="text-sm opacity-70 leading-relaxed">Banks often undervalue properties to ensure a quick sale. We bring independent valuers to prove the real market value, forcing the court to stop the 'undervalued' auction.</p>
                                     </div>
                                 </div>
                                 <div className="flex gap-4 p-5 bg-gray-50 rounded-xl border border-gray-100">
                                     <div className="w-10 h-10 bg-[#1F5EFF] text-white rounded-full flex items-center justify-center shrink-0 font-bold">3</div>
                                     <div>
-                                        <h5 className="font-bold mb-1">Right of Redemption</h5>
+                                        <h6 className="font-bold mb-1">Right of Redemption</h6>
                                         <p className="text-sm opacity-70 leading-relaxed">Under Section 60 of the Transfer of Property Act, you have a right to get your property back by paying the dues any time before the final transfer of title. We help you exercise this right effectively.</p>
                                     </div>
                                 </div>
@@ -375,7 +375,7 @@ export default function MortgageDefaultNoticePage() {
                         </section>
 
                         <section id="section-17-application" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#1A1A1A] mt-16 mb-8">Securitization Application (SA) in the DRT</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#1A1A1A] mt-16 mb-8">Securitization Application (SA) in the DRT</h3>
                             <p className="mb-6 leading-relaxed text-lg">
                                 Once the bank issues a 13(4) notice (physical possession), the only legal forum that matters is the Debt Recovery Tribunal. The Section 17 application is your primary weapon. It allows you to challenge every single step the bank took, from the 13(2) notice to the newspaper advertisements.
                             </p>
@@ -385,7 +385,7 @@ export default function MortgageDefaultNoticePage() {
                         </section>
 
                         <section id="restructuring-negotiation" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#1A1A1A] mt-16 mb-8">Negotiating Mortgage Restructuring Post-Notice</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#1A1A1A] mt-16 mb-8">Negotiating Mortgage Restructuring Post-Notice</h3>
                             <p className="mb-6 text-lg">
                                 Just because you received a notice doesn't mean you have to lose the property. Many banks are open to 'Restructuring' if you can present a viable repayment plan. However, they won't take you seriously if you don't have a legal specialist by your side.
                             </p>
@@ -395,7 +395,7 @@ export default function MortgageDefaultNoticePage() {
                         </section>
 
                         <section id="secured-vs-unsecured" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#1A1A1A] mt-16 mb-8">Secured vs Unsecured Default Notices: Know the Difference</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#1A1A1A] mt-16 mb-8">Secured vs Unsecured Default Notices: Know the Difference</h3>
                             <p className="mb-6 text-lg">
                                 If your loan is 'Unsecured' (like a personal loan or credit card), the bank has NO right to issue a SARFAESI notice. They must go through the civil courts or arbitration. If an unsecured lender is threatening you with property attachment through a simple letter, they are committing a legal fraud.
                             </p>
@@ -405,7 +405,7 @@ export default function MortgageDefaultNoticePage() {
                         </section>
 
                         <section id="legal-harassment-redress" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#1A1A1A] mt-16 mb-8">Dealing with Bank Harassment and Recovery Agents</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#1A1A1A] mt-16 mb-8">Dealing with Bank Harassment and Recovery Agents</h3>
                             <p className="mb-6 text-lg">
                                 A default notice doesn't give the bank the right to harass you. The RBI's Code of Commitment to Customers and the guidelines for recovery agents are very clear: No calls at odd hours, no visits without notice, and no uncivilized behavior.
                             </p>
@@ -415,14 +415,14 @@ export default function MortgageDefaultNoticePage() {
                         </section>
 
                         <section id="credit-score-impact" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#1A1A1A] mt-16 mb-8">Managing Credit Score Impact and Future Borrowing</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#1A1A1A] mt-16 mb-8">Managing Credit Score Impact and Future Borrowing</h3>
                             <p className="mb-6 text-lg text-gray-700">
                                 A default notice is a major red flag on your CIBIL report. However, if the notice itself was wrongful, you have the right to have your credit record corrected. We work with the credit bureaus and use court orders to force the removal of 'defective' NPA markers. This preserves your ability to do business and borrow in the future after the current dispute is settled.
                             </p>
                         </section>
 
                         <section id="delay-condonation" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#1A1A1A] mt-16 mb-8">What if I Missed the 60-Day Deadline?</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#1A1A1A] mt-16 mb-8">What if I Missed the 60-Day Deadline?</h3>
                             <p className="mb-6 text-lg italic">"Is it too late to fight?"</p>
                             <p className="mb-6 text-lg">
                                 No. Even if the 60 days have passed, you can still file for 'Condonation of Delay' in the DRT. If your reason for delay is valid (medical emergency, lack of proper notice service, etc.), the court can allow you to raise your defenses. Even at the stage of the final auction notice, a Writ Petition in the High Court under Article 226 can provide emergency relief if there's a violation of fundamental justice.
@@ -430,7 +430,7 @@ export default function MortgageDefaultNoticePage() {
                         </section>
 
                         <section id="success-case-studies" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#1A1A1A] mt-16 mb-12 text-center">Mortgage Defense Victories</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#1A1A1A] mt-16 mb-12 text-center">Mortgage Defense Victories</h3>
                             <div className="grid md:grid-cols-2 gap-8 not-prose">
                                 {[
                                     {
@@ -468,7 +468,7 @@ export default function MortgageDefaultNoticePage() {
                                                 {review.name.charAt(0)}
                                             </div>
                                             <div>
-                                                <h3 className="font-bold text-[#2E2E2E]">{review.name}</h3>
+                                                <h4 className="font-bold text-[#2E2E2E]">{review.name}</h4>
                                                 <p className="text-xs text-gray-400">{review.loc}</p>
                                             </div>
                                             <div className="ml-auto text-yellow-400 text-sm">★★★★★</div>
@@ -483,7 +483,7 @@ export default function MortgageDefaultNoticePage() {
                         </section>
 
                         <section id="expert-defense" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#1A1A1A] mt-16 mb-8">Why Hire a Specialized Mortgage Defense Lawyer?</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#1A1A1A] mt-16 mb-8">Why Hire a Specialized Mortgage Defense Lawyer?</h3>
                             <p className="mb-6 text-lg">General civil lawyers don't understand the complexities of SARFAESI and RBI guidelines. You need a team that spends every day fighting banks in the DRT. We offer:</p>
                             <div className="grid grid-cols-1 sm:grid-cols-2 gap-4">
                                 <div className="p-6 bg-gray-50 rounded-2xl border border-gray-100 flex items-start gap-4">
@@ -498,7 +498,7 @@ export default function MortgageDefaultNoticePage() {
                         </section>
 
                         <section id="faqs-mortgage" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#1A1A1A] mt-16 mb-8">Property Defense Expert Insights (FAQs)</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#1A1A1A] mt-16 mb-8">Property Defense Expert Insights (FAQs)</h3>
                             <div className="space-y-4 not-prose">
                                 {[
                                     { q: "Can a bank take my house without a court order?", a: "Yes, under the SARFAESI Act, banks can take possession of a secured asset without a court order if they follow the notice procedure under Section 13(2) and 13(4). However, you can challenge this action in the DRT to stop them." },
@@ -530,7 +530,7 @@ export default function MortgageDefaultNoticePage() {
                         <section id="final-steps" className="scroll-mt-32 mt-20">
                             <div className="bg-[#1F5EFF] rounded-2xl p-12 text-white text-center shadow-2xl relative overflow-hidden">
                                 <div className="absolute inset-0 bg-black opacity-10"></div>
-                                <h2 className="text-4xl md:text-5xl font-black mb-6 relative z-10">Save Your Assets Today</h2>
+                                <h3 className="text-4xl md:text-5xl font-black mb-6 relative z-10">Save Your Assets Today</h3>
                                 <p className="text-xl mb-10 opacity-90 max-w-2xl mx-auto relative z-10">
                                     A default notice is the beginning of the end ONLY if you do not fight back. Let our elite legal panel take over your defense.
                                 </p>
@@ -549,7 +549,7 @@ export default function MortgageDefaultNoticePage() {
                         <div className="lg:hidden mt-16 mb-8">
                             <div className="bg-[#2E2E2E] rounded-2xl shadow-xl overflow-hidden border border-[#1F5EFF]/20">
                                 <div className="bg-[#1F5EFF] p-6 text-center text-white">
-                                    <h3 className="text-2xl font-black mb-2 uppercase tracking-tighter">Emergency Mortgage Shield</h3>
+                                    <h4 className="text-2xl font-black mb-2 uppercase tracking-tighter">Emergency Mortgage Shield</h4>
                                     <p className="opacity-90 text-sm">Facing foreclosure? Connect with experts who specialize in staying bank auctions.</p>
                                 </div>
                                 <div className="p-8 text-center text-white">

@@ -273,9 +273,9 @@ export default function PossessionNoticeChallengePage() {
             </section>
 
             <section id="what-is-possession-notice" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black mb-6 leading-tight">
+              <h3 className="text-3xl md:text-4xl font-black mb-6 leading-tight">
                 What Exactly is a SARFAESI Possession Notice?
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 The Securitisation and Reconstruction of Financial Assets and Enforcement of Security Interest Act, 2002 (SARFAESI) was created to give banks a faster way to recover loans without the long delays of civil courts. Under this act, once you miss three consecutive EMI payments and your account is tagged as a Non-Performing Asset (NPA), the bank gains extraordinary powers.
               </p>
@@ -283,7 +283,7 @@ export default function PossessionNoticeChallengePage() {
                 A possession notice is issued under Section 13(4) of this act. It is the bank's way of publicly stating that they have taken control of the security you provided for your loan. Whether it is your home, your shop, or a piece of land, the bank is signaling its intent to sell or lease that property to recover their dues. However, this power is not absolute. The bank must follow a strict, rigid procedure. Any deviation from this procedure can be challenged in the Debt Recovery Tribunal (DRT).
               </p>
               <div className="bg-gray-50 p-8 rounded-xl border border-gray-200 mb-8">
-                <h3 className="text-xl font-bold mb-6">Crucial Pre-requisites for a Valid Notice</h3>
+                <h4 className="text-xl font-bold mb-6">Crucial Pre-requisites for a Valid Notice</h4>
                 <ul className="space-y-4">
                   <li className="flex items-start gap-4">
                     <span className="w-6 h-6 bg-[#1F5EFF] text-white rounded-full flex items-center justify-center flex-shrink-0 text-sm">1</span>
@@ -308,9 +308,9 @@ export default function PossessionNoticeChallengePage() {
             </section>
 
             <section id="symbolic-vs-physical" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black mb-6 leading-tight">
+              <h3 className="text-3xl md:text-4xl font-black mb-6 leading-tight">
                 Symbolic vs Physical Possession: Know the Difference
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 It is very important to understand that there are two types of possession in the SARFAESI world. When you see a notice pasted on your wall, it is usually "Symbolic Possession." This means that the bank has legally "taken" the property on paper and in public records. You may still be living in the house, but you no longer have the right to sell it or transfer it to someone else.
               </p>
@@ -319,7 +319,7 @@ export default function PossessionNoticeChallengePage() {
               </p>
               <div className="grid sm:grid-cols-2 gap-4 my-8">
                 <div className="bg-blue-50 p-6 rounded-xl border border-blue-100">
-                  <h3 className="font-bold text-blue-900 mb-2">Symbolic Possession</h3>
+                  <h4 className="font-bold text-blue-900 mb-2">Symbolic Possession</h4>
                   <ul className="text-sm text-blue-800 space-y-2">
                     <li>• Notice pasted on property</li>
                     <li>• Published in two newspapers</li>
@@ -328,7 +328,7 @@ export default function PossessionNoticeChallengePage() {
                   </ul>
                 </div>
                 <div className="bg-red-50 p-6 rounded-xl border border-red-100">
-                  <h4 className="font-bold text-red-900 mb-2">Physical Possession</h4>
+                  <h5 className="font-bold text-red-900 mb-2">Physical Possession</h5>
                   <ul className="text-sm text-red-800 space-y-2">
                     <li>• DM/CMM order issued</li>
                     <li>• Court commissioner arrives</li>
@@ -340,14 +340,14 @@ export default function PossessionNoticeChallengePage() {
             </section>
 
             <section id="critical-timelines" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black mb-6 leading-tight">
+              <h3 className="text-3xl md:text-4xl font-black mb-6 leading-tight">
                 Critical Timelines You Cannot Ignore
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 In the fight against a bank's possession notice, time is your most valuable asset. The law is very strict about deadlines. If you miss a deadline by even a single day, the court might refuse to hear your case, regardless of how strong your arguments are. We have seen homeowners with perfect defenses lose their homes because they waited too long to file their application in the DRT.
               </p>
               <div className="bg-white p-8 rounded-2xl border-2 border-[#1F5EFF] mb-8 shadow-lg">
-                <h3 className="text-xl font-bold mb-6 text-[#1F5EFF]">The Golden Rule: 45 Days</h3>
+                <h4 className="text-xl font-bold mb-6 text-[#1F5EFF]">The Golden Rule: 45 Days</h4>
                 <p className="text-lg mb-4">
                   Section 17 of the SARFAESI Act gives you exactly <strong>45 days</strong> from the date of the measure taken (like the date of the possession notice) to file your Securitisation Application (SA) in the Debt Recovery Tribunal.
                 </p>
@@ -361,9 +361,9 @@ export default function PossessionNoticeChallengePage() {
             </section>
 
             <section id="demand-notice-13-2" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black mb-6 leading-tight">
+              <h3 className="text-3xl md:text-4xl font-black mb-6 leading-tight">
                 The 13(2) Demand Notice: The First Signal
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 Before the bank can paste a possession notice, they must send you a Section 13(2) notice. This is a formal demand for the entire outstanding amount. The law gives you a final 60 days to pay everything back. Most people make the mistake of ignoring this notice, thinking that since they couldn't pay the EMIs, they certainly can't pay the whole amount. This is a dangerous mistake.
               </p>
@@ -373,14 +373,14 @@ export default function PossessionNoticeChallengePage() {
             </section>
 
             <section id="reasoned-reply-13-3a" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black mb-6 leading-tight">
+              <h3 className="text-3xl md:text-4xl font-black mb-6 leading-tight">
                 The Power of the Reasoned Reply (Section 13(3A))
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 Many borrowers are unaware of Section 13(3A). This is a vital protection added to the law to prevent banks from acting like dictators. When you send your objection to the 13(2) notice, the bank is legally obligated to consider your objections. They cannot just throw your letter in the bin. They must provide a "reasoned reply" within 15 days of receiving your objection.
               </p>
               <div className="bg-blue-50 p-8 rounded-xl border border-blue-200 mb-8">
-                <h3 className="text-xl font-bold text-blue-900 mb-4">Why This Section is Your Best Friend</h3>
+                <h4 className="text-xl font-bold text-blue-900 mb-4">Why This Section is Your Best Friend</h4>
                 <p className="text-sm text-blue-800 leading-relaxed mb-4">
                   If the bank fails to provide a reply, or if their reply is generic and does not address your specific points, their entire subsequent possession notice under 13(4) becomes vulnerable. In many cases, the DRT has set aside possession measures simply because the bank failed to fulfill this duty of providing a reasoned response.
                 </p>
@@ -391,9 +391,9 @@ export default function PossessionNoticeChallengePage() {
             </section>
 
             <section id="possession-measures-13-4" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black mb-6 leading-tight">
+              <h3 className="text-3xl md:text-4xl font-black mb-6 leading-tight">
                 When the Notice becomes Action: Section 13(4)
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 If the 60-day period passes and you haven't paid or reached a settlement, the bank initiates measures under Section 13(4). The most common measure is taking possession of the property. This is when they paste the possession notice. Once this happens, the bank also has the right to invite bids for the sale or lease of your property.
               </p>
@@ -403,53 +403,53 @@ export default function PossessionNoticeChallengePage() {
               <div className="grid sm:grid-cols-3 gap-4 my-8">
                 <div className="bg-white p-5 rounded-xl border border-[#DEDEDE] shadow-sm text-center">
                   <div className="w-12 h-12 bg-blue-100 rounded-full flex items-center justify-center mx-auto mb-4 font-bold text-[#1F5EFF]">01</div>
-                  <h3 className="font-bold text-[#2E2E2E] mb-2 uppercase text-xs">Possession</h3>
+                  <h4 className="font-bold text-[#2E2E2E] mb-2 uppercase text-xs">Possession</h4>
                   <p className="text-[10px] text-gray-500">Notice pasted and publicized.</p>
                 </div>
                 <div className="bg-white p-5 rounded-xl border border-[#DEDEDE] shadow-sm text-center">
                   <div className="w-12 h-12 bg-purple-100 rounded-full flex items-center justify-center mx-auto mb-4 font-bold text-purple-600">02</div>
-                  <h4 className="font-bold text-[#2E2E2E] mb-2 uppercase text-xs">Valuation</h4>
+                  <h5 className="font-bold text-[#2E2E2E] mb-2 uppercase text-xs">Valuation</h5>
                   <p className="text-[10px] text-gray-600">Property assessed for market value.</p>
                 </div>
                 <div className="bg-white p-5 rounded-xl border border-[#DEDEDE] shadow-sm text-center">
                   <div className="w-12 h-12 bg-green-100 rounded-full flex items-center justify-center mx-auto mb-4 font-bold text-green-600">03</div>
-                  <h4 className="font-bold text-[#2E2E2E] mb-2 uppercase text-xs">Auction</h4>
+                  <h5 className="font-bold text-[#2E2E2E] mb-2 uppercase text-xs">Auction</h5>
                   <p className="text-[10px] text-gray-600">Public sale to recover dues.</p>
                 </div>
               </div>
             </section>
 
             <section id="grounds-for-challenge" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black mb-6 leading-tight">
+              <h3 className="text-3xl md:text-4xl font-black mb-6 leading-tight">
                 Solid Grounds for Challenging Possession Notices
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 Challenging a bank is not just about saying "I cannot pay." It is about showing the court that the bank did not play by the rules. We have identified several "legal weapons" that can be used to invalidate a possession notice. These grounds for challenge are technical, but they are very powerful when presented correctly by a skilled lawyer in the DRT.
               </p>
               <ul className="space-y-6 mb-8">
                 <li className="p-6 bg-white border border-[#DEDEDE] rounded-xl shadow-sm hover:border-[#1F5EFF] transition-colors">
-                  <h3 className="text-xl font-bold mb-2">1. Incorrect NPA Classification</h3>
+                  <h4 className="text-xl font-bold mb-2">1. Incorrect NPA Classification</h4>
                   <p className="text-sm text-gray-600">If you made a payment that they didn't account for, or if they tagged your account as NPA before the mandatory 90-day default period, the entire SARFAESI action is void from the start. We often conduct a detailed audit of the loan statement to find these discrepancies.</p>
                 </li>
                 <li className="p-6 bg-white border border-[#DEDEDE] rounded-xl shadow-sm hover:border-[#1F5EFF] transition-colors">
-                  <h4 className="text-xl font-bold mb-2">2. Failure to Serve Notices Correctly</h4>
+                  <h5 className="text-xl font-bold mb-2">2. Failure to Serve Notices Correctly</h5>
                   <p className="text-sm text-gray-600">The law says the notice must be served through specific channels. If it wasn't sent to all co-borrowers and guarantors, or if the proof of delivery is missing, the bank has failed in its procedural duty. Merely pasting it on the door is not enough.</p>
                 </li>
                 <li className="p-6 bg-white border border-[#DEDEDE] rounded-xl shadow-sm hover:border-[#1F5EFF] transition-colors">
-                  <h4 className="text-xl font-bold mb-2">3. Undervaluation of the Property</h4>
+                  <h5 className="text-xl font-bold mb-2">3. Undervaluation of the Property</h5>
                   <p className="text-sm text-gray-600">Banks sometimes set a "Reserve Price" that is far below the actual market value to ensure a quick sale. This is illegal. You have a right to get the best possible value for your property. We help you challenge the bank's valuation by providing an independent valuation report.</p>
                 </li>
                 <li className="p-6 bg-white border border-[#DEDEDE] rounded-xl shadow-sm hover:border-[#1F5EFF] transition-colors">
-                  <h4 className="text-xl font-bold mb-2">4. Failure to provide Section 13(3A) Response</h4>
+                  <h5 className="text-xl font-bold mb-2">4. Failure to provide Section 13(3A) Response</h5>
                   <p className="text-sm text-gray-600">As mentioned before, if the bank did not give you a "reasoned reply" to your objections, they have violated the principles of natural justice. This is one of the most successful grounds for setting aside a notice in the DRT.</p>
                 </li>
               </ul>
             </section>
 
             <section id="filing-sa-in-drt" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black mb-6 leading-tight">
+              <h3 className="text-3xl md:text-4xl font-black mb-6 leading-tight">
                 Filing a Securitization Application (SA) in the DRT
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 The Debt Recovery Tribunal (DRT) is the special court designed to handle these cases. Filing an SA under Section 17 is your way of bringing the bank before a judge. In this process, the bank becomes the defendant, and they have to prove that they followed the law. The DRT has the power to examine the entire history of the loan and determine if the bank's measures were legal.
               </p>
@@ -462,9 +462,9 @@ export default function PossessionNoticeChallengePage() {
             </section>
 
             <section id="obtaining-stay-order" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black mb-6 leading-tight">
+              <h3 className="text-3xl md:text-4xl font-black mb-6 leading-tight">
                 How to Get a Stay Order on the Bank Auction
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 The "Stay Order" is the holy grail for any borrower in distress. A stay order effectively freezes the situation. It prevents the bank from proceeding with the sale or taking physical possession. To get a stay, you must file an Interim Application (IA) along with your main SA. You have to prove "Prima Facie Case" (that you have a strong chance of winning) and "Balance of Convenience" (that you will suffer more if the stay isn't granted than the bank will if it is).
               </p>
@@ -474,9 +474,9 @@ export default function PossessionNoticeChallengePage() {
             </section>
 
             <section id="role-of-dm-section-14" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black mb-6 leading-tight">
+              <h3 className="text-3xl md:text-4xl font-black mb-6 leading-tight">
                 The Role of the District Magistrate (Section 14)
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 If the bank wants physical possession, they will go to the District Magistrate (DM) or the Chief Metropolitan Magistrate (CMM). Under Section 14, the bank files an affidavit claiming they have followed all rules. The DM/CMM is not supposed to go into the details of the loan dispute. Their role is mostly administrative: to verify the procedural steps.
               </p>
@@ -486,14 +486,14 @@ export default function PossessionNoticeChallengePage() {
             </section>
 
             <section id="procedural-lapses" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black mb-6 leading-tight">
+              <h3 className="text-3xl md:text-4xl font-black mb-6 leading-tight">
                 Common Procedural Lapses by Banks: Your Secret Weapon
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 Why do banks make mistakes? Because they handle thousands of cases and often use automated systems that don't account for individual complexities. These administrative gaps are exactly what we look for when we review your case. A single missing newspaper clipping or an incorrectly spelled name in a notice can be enough to halt the entire recovery process.
               </p>
               <div className="bg-emerald-50 p-8 rounded-2xl border border-emerald-100 mb-8">
-                <h3 className="text-xl font-bold text-emerald-800 mb-4">The Checklist of Mistakes</h3>
+                <h4 className="text-xl font-bold text-emerald-800 mb-4">The Checklist of Mistakes</h4>
                 <ul className="space-y-3 text-emerald-900/80">
                   <li>• <strong>No Newspaper Publication:</strong> The possession notice must be published in two leading newspapers (one in English, one in the local language) within 7 days of taking possession.</li>
                   <li>• <strong>Missing Sale Notice:</strong> The bank must give you 30 days notice before the first auction and 15 days before any subsequent auction.</li>
@@ -504,9 +504,9 @@ export default function PossessionNoticeChallengePage() {
             </section>
 
             <section id="ots-negotiation" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black mb-6 leading-tight">
+              <h3 className="text-3xl md:text-4xl font-black mb-6 leading-tight">
                 Reaching a One Time Settlement (OTS)
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 The ultimate goal for many is not just to win a court case, but to end the debt forever. This is where One Time Settlement (OTS) comes in. Banks are businesses. They don't want to spend years in court, and they don't want to own a house; they want their money back. A strong legal challenge in the DRT actually makes you a more valuable partner for negotiation.
               </p>
@@ -516,7 +516,7 @@ export default function PossessionNoticeChallengePage() {
             </section>
 
             <section id="success-stories" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black mt-16 mb-8 text-center">Real Stories of Property Protection</h2>
+              <h3 className="text-3xl md:text-4xl font-black mt-16 mb-8 text-center">Real Stories of Property Protection</h3>
               <div className="grid md:grid-cols-2 gap-6 not-prose">
                 {[
                   {
@@ -554,7 +554,7 @@ export default function PossessionNoticeChallengePage() {
                         {review.name.charAt(0)}
                       </div>
                       <div>
-                        <h3 className="font-bold text-[#2E2E2E]">{review.name}</h3>
+                        <h4 className="font-bold text-[#2E2E2E]">{review.name}</h4>
                         <p className="text-xs text-gray-400">{review.loc}</p>
                       </div>
                       <div className="ml-auto text-yellow-400 text-sm">★★★★★</div>
@@ -569,7 +569,7 @@ export default function PossessionNoticeChallengePage() {
             </section>
 
             <section id="faqs" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black mt-16 mb-8">Frequently Asked Questions</h2>
+              <h3 className="text-3xl md:text-4xl font-black mt-16 mb-8">Frequently Asked Questions</h3>
               <div className="space-y-4 not-prose">
                 {[
                   { q: "Can a bank take my house if it is my only residence?", a: "Yes, the SARFAESI Act does not provide a special exemption for 'only residence.' However, the procedural requirements are very high, and you can challenge the action in the DRT to gain time or settle." },
@@ -606,7 +606,7 @@ export default function PossessionNoticeChallengePage() {
             <div className="lg:hidden mt-16 mb-8">
               <div className="bg-[#2E2E2E] rounded-2xl shadow-xl overflow-hidden border border-[#1F5EFF]/20">
                 <div className="bg-[#1F5EFF] p-6 text-center text-white">
-                  <h3 className="text-2xl font-black mb-2">Ready to Fight Back?</h3>
+                  <h4 className="text-2xl font-black mb-2">Ready to Fight Back?</h4>
                   <p className="opacity-90 text-sm">Join the 15,000+ Indians we've helped protect their homes and financial dignity.</p>
                 </div>
                 <div className="p-8 text-center text-[#DEDEDE]">
@@ -676,7 +676,7 @@ export default function PossessionNoticeChallengePage() {
         
         {/* Bottom CTA Section */}
         <section className="w-full bg-[#1F5EFF] py-16 px-4 md:px-8 lg:px-16 text-center">
-            <h2 className="text-3xl md:text-5xl font-black text-white mb-8">Do Not Wait Until the Guard is at Your Door</h2>
+            <h3 className="text-3xl md:text-5xl font-black text-white mb-8">Do Not Wait Until the Guard is at Your Door</h3>
             <p className="text-white/80 text-lg md:text-xl max-w-3xl mx-auto mb-10">
                 The faster you act, the more legal options we have to protect your home. Join thousands of Indians who have successfully challenged possession notices and won back their peace of mind.
             </p>

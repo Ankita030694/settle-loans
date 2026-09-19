@@ -208,13 +208,13 @@ export default function DebtConsolidationLoanPage() {
             </section>
 
             <section id="how-it-works" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">How to Clear Overdue Loans with One EMI</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">How to Clear Overdue Loans with One EMI</h3>
               
               <div className="space-y-12">
                 <div className="flex gap-6">
                   <div className="flex-shrink-0 w-12 h-12 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center font-black text-xl shadow-lg">1</div>
                   <div>
-                    <h3 className="text-2xl font-bold text-[#2E2E2E] mb-2">Assess Your Total Outstanding Debt</h3>
+                    <h4 className="text-2xl font-bold text-[#2E2E2E] mb-2">Assess Your Total Outstanding Debt</h4>
                     <p className="text-lg leading-relaxed text-gray-700">
                       Gather all your loan statements and credit card bills. Calculate the total principal outstanding, accrued interest, and any late payment penalties. This defines the exact amount you need for your consolidation loan.
                     </p>
@@ -224,7 +224,7 @@ export default function DebtConsolidationLoanPage() {
                 <div className="flex gap-6">
                   <div className="flex-shrink-0 w-12 h-12 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center font-black text-xl shadow-lg">2</div>
                   <div>
-                    <h3 className="text-2xl font-bold text-[#2E2E2E] mb-2">Secure the Consolidation Loan</h3>
+                    <h4 className="text-2xl font-bold text-[#2E2E2E] mb-2">Secure the Consolidation Loan</h4>
                     <p className="text-lg leading-relaxed text-gray-700">
                       Apply for a fresh personal loan or a loan against property. Ensure the new loan amount fully covers your existing debts and that the new tenure makes the single EMI affordable.
                     </p>
@@ -234,7 +234,7 @@ export default function DebtConsolidationLoanPage() {
                 <div className="flex gap-6">
                   <div className="flex-shrink-0 w-12 h-12 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center font-black text-xl shadow-lg">3</div>
                   <div>
-                    <h3 className="text-2xl font-bold text-[#2E2E2E] mb-2">Pay Off Existing Creditors</h3>
+                    <h4 className="text-2xl font-bold text-[#2E2E2E] mb-2">Pay Off Existing Creditors</h4>
                     <p className="text-lg leading-relaxed text-gray-700">
                       Once the consolidation loan is disbursed, immediately clear all your overdue loans and credit card dues. Obtain No Objection Certificates (NOCs) from each lender to ensure those accounts are officially closed.
                     </p>
@@ -244,13 +244,13 @@ export default function DebtConsolidationLoanPage() {
             </section>
 
             <section id="hidden-costs" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">The Hidden Costs of Managing Multiple EMIs</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">The Hidden Costs of Managing Multiple EMIs</h3>
               <p className="text-lg leading-relaxed mb-6">
                 Many borrowers do not realize that managing several distinct loans simultaneously is far more expensive than carrying one large loan of the same total value. The primary reason for this involves compound interest, varied penalty structures, and hidden processing fees. When you have five different credit cards and personal loans, you are likely bleeding money in areas you aren't even tracking.
               </p>
               
               <div className="bg-gray-50 p-8 rounded-2xl mb-8 border border-gray-200">
-                <h3 className="text-xl font-bold text-gray-800 mb-3">The "Late Fee" Avalanche</h3>
+                <h4 className="text-xl font-bold text-gray-800 mb-3">The "Late Fee" Avalanche</h4>
                 <p className="text-gray-700 text-lg">
                   If you miss just one week of payments across four different loans, you are hit with four separate late fees, four separate bounce charges from your bank, and four distinct penal interest rates. A simple cash flow issue of ₹10,000 can easily balloon into ₹25,000 in penalties within a single month. This rapid escalation is exactly why a <strong>personal loan consolidation</strong> is critical to stop the bleeding.
                 </p>
@@ -261,13 +261,13 @@ export default function DebtConsolidationLoanPage() {
             </section>
 
             <section id="bad-credit" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">Consolidation Loan for Bad Credit</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">Consolidation Loan for Bad Credit</h3>
               <p className="text-lg leading-relaxed mb-6">
                 A common dilemma borrowers face is getting approved for a new loan when their CIBIL score has already taken a hit due to overdue EMIs. Can you actually get a <strong>consolidation loan for bad credit</strong>?
               </p>
 
               <div className="bg-blue-50 border-l-8 border-[#1F5EFF] p-8 rounded-r-2xl mb-8">
-                <h3 className="text-xl font-black text-[#1F5EFF] mb-4">Strategies for Bad Credit Approval</h3>
+                <h4 className="text-xl font-black text-[#1F5EFF] mb-4">Strategies for Bad Credit Approval</h4>
                 <ul className="space-y-3 text-lg text-blue-900">
                   <li className="flex items-start gap-3">
                     <div className="mt-1.5 w-2 h-2 rounded-full bg-[#1F5EFF] flex-shrink-0"></div>
@@ -285,7 +285,7 @@ export default function DebtConsolidationLoanPage() {
               </div>
 
               <div className="bg-red-50 p-6 rounded-xl border border-red-100 mb-8">
-                <h4 className="text-lg font-bold text-red-700 mb-2">Beware of Predatory Lenders</h4>
+                <h5 className="text-lg font-bold text-red-700 mb-2">Beware of Predatory Lenders</h5>
                 <p className="text-red-900">
                   If you are seeking a consolidation loan with bad credit, be cautious of loan sharks or apps offering guaranteed approvals. They often charge exorbitant processing fees and deeply hidden interest rates that will only worsen your debt trap.
                 </p>
@@ -293,12 +293,12 @@ export default function DebtConsolidationLoanPage() {
             </section>
 
             <section id="negotiate-creditors" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">Negotiating Before Consolidation</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">Negotiating Before Consolidation</h3>
               <p className="text-lg leading-relaxed mb-6">
                 Before you sign the dotted line on a new consolidation loan, it is highly recommended that you attempt to negotiate with your current creditors. Many banks, when faced with the genuine threat of an NPA (Non-Performing Asset), are willing to offer temporary relief or waive accumulated penalties. 
               </p>
               <div className="bg-blue-50 border-l-8 border-[#1F5EFF] p-8 rounded-r-2xl mb-8">
-                <h3 className="text-xl font-black text-[#1F5EFF] mb-4">Steps to Negotiate Effectively</h3>
+                <h4 className="text-xl font-black text-[#1F5EFF] mb-4">Steps to Negotiate Effectively</h4>
                 <ul className="space-y-3 text-lg text-blue-900">
                   <li className="flex items-start gap-3">
                     <div className="mt-1.5 w-2 h-2 rounded-full bg-[#1F5EFF] flex-shrink-0"></div>
@@ -320,32 +320,32 @@ export default function DebtConsolidationLoanPage() {
             </section>
 
             <section id="debt-restructuring" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">Debt Restructuring vs Consolidation</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">Debt Restructuring vs Consolidation</h3>
               <p className="text-lg leading-relaxed mb-6">
                 While trying to <strong>clear overdue loans with one EMI</strong>, you might hear the terms debt consolidation and debt restructuring used interchangeably. However, they are fundamentally different strategies in India.
               </p>
 
               <div className="grid md:grid-cols-2 gap-6 my-8">
                 <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
-                  <h3 className="font-black text-[#1F5EFF] text-lg mb-3">Debt Consolidation</h3>
+                  <h4 className="font-black text-[#1F5EFF] text-lg mb-3">Debt Consolidation</h4>
                   <p className="text-gray-700">Taking a brand new loan to pay off multiple existing ones. You replace old lenders with one new lender.</p>
                 </div>
                 <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
-                  <h4 className="font-black text-[#1F5EFF] text-lg mb-3">Debt Restructuring</h4>
+                  <h5 className="font-black text-[#1F5EFF] text-lg mb-3">Debt Restructuring</h5>
                   <p className="text-gray-700">Renegotiating terms with your <em>existing</em> lender (e.g., extending tenure to lower the EMI) due to financial hardship.</p>
                 </div>
                 <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
-                  <h4 className="font-black text-[#1F5EFF] text-lg mb-3">Impact on CIBIL</h4>
+                  <h5 className="font-black text-[#1F5EFF] text-lg mb-3">Impact on CIBIL</h5>
                   <p className="text-gray-700">Consolidation generally improves CIBIL over time as you clear old debts and pay the new EMI consistently.</p>
                 </div>
                 <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
-                  <h4 className="font-black text-[#1F5EFF] text-lg mb-3">Restructuring Status</h4>
+                  <h5 className="font-black text-[#1F5EFF] text-lg mb-3">Restructuring Status</h5>
                   <p className="text-gray-700">Loans that are restructured are often reported as "Restructured" on your credit report, which can impact future borrowing.</p>
                 </div>
               </div>
 
               <div className="bg-gray-50 p-8 rounded-2xl mb-8 border border-gray-200">
-                <h4 className="text-xl font-bold text-gray-800 mb-3">Expert Insight</h4>
+                <h5 className="text-xl font-bold text-gray-800 mb-3">Expert Insight</h5>
                 <p className="text-gray-700 text-lg">
                   If you have a steady income but simply mismanaged your cash flow, a consolidation loan is superior. However, if you have lost your job and have zero income, formal <strong>debt restructuring in India</strong> (or a loan settlement) is a more realistic path.
                 </p>
@@ -353,33 +353,33 @@ export default function DebtConsolidationLoanPage() {
             </section>
 
             <section id="alternatives" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">Alternatives to Consolidation</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">Alternatives to Consolidation</h3>
               <p className="text-lg leading-relaxed mb-6">
                 A <strong>consolidation loan for bad credit</strong> is not the only way out of a debt trap. Depending on the severity of your financial distress, there are other established legal and financial avenues in India to clear overdue loans. It's crucial to understand these alternatives to ensure you pick the path that best suits your cash flow.
               </p>
               
               <div className="grid md:grid-cols-2 gap-6 my-8">
                 <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
-                  <h3 className="font-black text-[#1F5EFF] text-lg mb-3">Balance Transfer</h3>
+                  <h4 className="font-black text-[#1F5EFF] text-lg mb-3">Balance Transfer</h4>
                   <p className="text-gray-700">Moving an existing high-interest loan (like a credit card balance) to another lender offering a significantly lower promotional interest rate. This works best if your CIBIL score is still relatively intact.</p>
                 </div>
                 <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
-                  <h4 className="font-black text-[#1F5EFF] text-lg mb-3">Debt Settlement</h4>
+                  <h5 className="font-black text-[#1F5EFF] text-lg mb-3">Debt Settlement</h5>
                   <p className="text-gray-700">Negotiating a one-time lump-sum payment that is lower than your total outstanding due. This will close the loan but severely damages your CIBIL score, marking it as "Settled" rather than "Closed".</p>
                 </div>
                 <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
-                  <h4 className="font-black text-[#1F5EFF] text-lg mb-3">Liquidating Assets</h4>
+                  <h5 className="font-black text-[#1F5EFF] text-lg mb-3">Liquidating Assets</h5>
                   <p className="text-gray-700">Selling underperforming mutual funds, stocks, or gold to clear unsecured debts. While emotionally difficult, this prevents wealth erosion from exorbitant personal loan interest rates.</p>
                 </div>
                 <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
-                  <h4 className="font-black text-[#1F5EFF] text-lg mb-3">Formal Insolvency</h4>
+                  <h5 className="font-black text-[#1F5EFF] text-lg mb-3">Formal Insolvency</h5>
                   <p className="text-gray-700">Filing for bankruptcy under the IBC (Insolvency and Bankruptcy Code). This is a severe, last-resort legal step for individuals who have absolutely zero means of repaying their massive debts.</p>
                 </div>
               </div>
             </section>
 
             <section id="legal-implications" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">Legal Implications of Defaulting on Multiple EMIs</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">Legal Implications of Defaulting on Multiple EMIs</h3>
               <p className="text-lg leading-relaxed mb-6 text-gray-700">
                 When you default on multiple personal loans and credit cards, the legal consequences multiply rapidly. Unlike a single loan default where you might deal with one bank's recovery process, juggling multiple defaults means facing an onslaught of legal notices from different institutions simultaneously. The initial consequence is constant harassment from various recovery agencies, but it quickly escalates to formal legal action.
               </p>
@@ -389,12 +389,12 @@ export default function DebtConsolidationLoanPage() {
             </section>
 
             <section id="choosing-right-lender" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">Choosing the Right Consolidation Lender</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">Choosing the Right Consolidation Lender</h3>
               <p className="text-lg leading-relaxed mb-6 text-gray-700">
                 Not all consolidation loans are created equal. When your goal is to reduce your financial burden, selecting the right lending partner is just as critical as the decision to consolidate. You must meticulously evaluate potential lenders based on their interest rates, processing fees, and hidden charges. 
               </p>
               <div className="bg-gray-50 p-8 rounded-2xl mb-8 border border-gray-200">
-                <h3 className="text-xl font-bold text-gray-800 mb-3">Key Factors to Consider</h3>
+                <h4 className="text-xl font-bold text-gray-800 mb-3">Key Factors to Consider</h4>
                 <ul className="space-y-3 text-lg text-gray-700">
                   <li className="flex items-start gap-3">
                     <div className="mt-1.5 w-2 h-2 rounded-full bg-[#1F5EFF] flex-shrink-0"></div>
@@ -413,7 +413,7 @@ export default function DebtConsolidationLoanPage() {
             </section>
 
             <section id="eligibility-criteria" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">Eligibility Criteria for Consolidation</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">Eligibility Criteria for Consolidation</h3>
               <p className="text-lg leading-relaxed mb-6 text-gray-700">
                 While the prospect of clearing multiple overdue loans with one EMI is attractive, securing approval requires meeting specific eligibility criteria. Lenders view borrowers seeking consolidation with a degree of caution, as the need for consolidation often implies pre-existing financial stress.
               </p>
@@ -423,7 +423,7 @@ export default function DebtConsolidationLoanPage() {
             </section>
 
             <section id="impact-on-co-borrowers" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">Impact on Co-Borrowers and Guarantors</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">Impact on Co-Borrowers and Guarantors</h3>
               <p className="text-lg leading-relaxed mb-6 text-gray-700">
                 A frequently overlooked aspect of defaulting on multiple EMIs is the severe impact on co-borrowers and financial guarantors. If you have taken a joint loan with your spouse, or if a family member stood as a guarantor for your personal loan, they are equally liable for the default. 
               </p>
@@ -433,7 +433,7 @@ export default function DebtConsolidationLoanPage() {
             </section>
 
             <section id="how-settleloan-helps" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">How SettleLoan Can Expedite the Process</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">How SettleLoan Can Expedite the Process</h3>
               <p className="text-lg leading-relaxed mb-6">
                 Navigating the complex landscape of Indian banking, loan recovery harassment, and credit bureaucracy can be overwhelming, especially when you are already dealing with the extreme stress of multiple overdue EMIs. Attempting to manage a <strong>debt restructuring in India</strong> on your own often leads to predatory traps or legal missteps.
               </p>
@@ -448,7 +448,7 @@ export default function DebtConsolidationLoanPage() {
               </div>
               
               <div className="bg-red-50 p-6 rounded-xl border border-red-100 mb-8">
-                <h3 className="text-lg font-bold text-red-700 mb-2">Don't Wait Until Your Account Turns NPA</h3>
+                <h4 className="text-lg font-bold text-red-700 mb-2">Don't Wait Until Your Account Turns NPA</h4>
                 <p className="text-red-900">
                   The worst thing you can do when facing multiple overdue EMIs is to ignore the calls and do nothing. Once a loan is officially classified as a Non-Performing Asset (typically after 90 days of non-payment), the bank's legal machinery activates, severely limiting your negotiation options. Act now to secure your consolidation options.
                 </p>
@@ -456,7 +456,7 @@ export default function DebtConsolidationLoanPage() {
             </section>
 
             <section id="success-stories" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">Borrower Success Stories</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">Borrower Success Stories</h3>
               <p className="text-lg leading-relaxed mb-8">
                 See how other borrowers successfully managed their <strong>personal loan consolidation</strong> to escape the debt trap.
               </p>
@@ -469,7 +469,7 @@ export default function DebtConsolidationLoanPage() {
                       R
                     </div>
                     <div>
-                      <h3 className="font-bold text-[#2E2E2E] text-lg">Rahul M.</h3>
+                      <h4 className="font-bold text-[#2E2E2E] text-lg">Rahul M.</h4>
                       <div className="flex gap-1">
                         {[1, 2, 3, 4, 5].map((star) => (
                           <svg key={star} className="w-4 h-4 text-yellow-400" fill="currentColor" viewBox="0 0 20 20">
@@ -493,7 +493,7 @@ export default function DebtConsolidationLoanPage() {
                       P
                     </div>
                     <div>
-                      <h4 className="font-bold text-[#2E2E2E] text-lg">Priya S.</h4>
+                      <h5 className="font-bold text-[#2E2E2E] text-lg">Priya S.</h5>
                       <div className="flex gap-1">
                         {[1, 2, 3, 4, 5].map((star) => (
                           <svg key={star} className="w-4 h-4 text-yellow-400" fill="currentColor" viewBox="0 0 20 20">
@@ -513,7 +513,7 @@ export default function DebtConsolidationLoanPage() {
             </section>
 
             <section id="faq" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">Frequently Asked Questions</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">Frequently Asked Questions</h3>
               <div className="space-y-4">
                 
                 <details name="faq-accordion" className="bg-white border border-[#DEDEDE] rounded-xl p-6 hover:shadow-md group cursor-pointer transition-shadow">
@@ -623,7 +623,7 @@ export default function DebtConsolidationLoanPage() {
             <div className="bg-[#2E2E2E] text-white p-12 rounded-[40px] text-center mt-24 relative overflow-hidden group">
               <div className="absolute inset-0 bg-[#1F5EFF] opacity-0 group-hover:opacity-5 transition-opacity"></div>
               <div className="relative z-10">
-                <h3 className="text-3xl md:text-4xl font-black mb-6">Need Help Clearing Your Overdue EMIs?</h3>
+                <h4 className="text-3xl md:text-4xl font-black mb-6">Need Help Clearing Your Overdue EMIs?</h4>
                 <p className="text-xl text-gray-300 mb-8 max-w-2xl mx-auto">
                   Stop dealing with multiple recovery agents. Let our legal and financial experts help you secure a consolidation loan or negotiate a debt restructuring plan today.
                 </p>

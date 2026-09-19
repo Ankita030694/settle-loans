@@ -529,9 +529,9 @@ export default function CooperativeBankLoanSettlementRulesPage() {
 
             {/* Section 2: Dual Regulatory Architecture: RBI vs. RCS */}
             <section id="dual-regulatory-framework-rbi-vs-rcs" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                 2. Dual Regulatory Architecture: The Interplay Between RBI Prudential Guidelines and the Registrar of Co-operative Societies
-              </h2>
+              </h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 The most complex aspect of resolving a delinquent co-operative bank loan is navigating the <strong>Dual Regulatory Framework</strong>. For decades, co-operative banks functioned under bifurcated supervision, which frequently led to jurisdictional confusion during debt recovery and compromise negotiations. Following the enactment of the <strong>Banking Regulation (Amendment) Act, 2020</strong>, the regulatory powers of the Reserve Bank of India over Urban and Multi-State Co-operative Banks were substantially strengthened, while administrative governance remained under state jurisdiction.
               </p>
@@ -591,9 +591,9 @@ export default function CooperativeBankLoanSettlementRulesPage() {
 
             {/* Section 3: Section 101 Recovery Certificates & Co-operative Court Disputes */}
             <section id="section-101-recovery-certificates-attachment" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                 3. The Threat of Section 101 Recovery Certificates, Attachment Orders &amp; Co-operative Court Disputes
-              </h2>
+              </h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 When a borrower defaults on a co-operative bank loan past 90 days, the bank rarely initiates protracted civil suits under Order 37 of the Civil Procedure Code (CPC) or files applications before the Debt Recovery Tribunal (DRT) unless the debt exceeds ₹20 Lakhs. Instead, co-operative banks rely on the extraordinary statutory mechanism provided under state legislation, most notably <strong>Section 101 of the Maharashtra Co-operative Societies Act, 1960</strong> (and analogous sections in other state statutes such as Section 70 of the Karnataka Act or Section 100 of the Gujarat Act).
               </p>
@@ -636,9 +636,9 @@ export default function CooperativeBankLoanSettlementRulesPage() {
 
             {/* Section 4: Balance Sheet Accounting & UCB NPA Provisioning */}
             <section id="ucb-npa-provisioning-balance-sheet-npv" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                 4. Bank Balance Sheet Accounting, UCB NPA Provisioning &amp; The Net Present Value (NPV) Equation
-              </h2>
+              </h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Securing a substantial 35% to 55% principal haircut on a delinquent co-operative bank loan requires understanding the balance sheet economics governing Urban Co-operative Banks and DCCBs. Co-operative banks operate under strict capital adequacy ratios (Capital to Risk-Weighted Assets Ratio - CRAR) enforced by the Reserve Bank of India. When a loan defaults, the bank must set aside substantial capital provisions from its operational profits:
               </p>
@@ -722,9 +722,9 @@ export default function CooperativeBankLoanSettlementRulesPage() {
 
             {/* Section 5: Infographic Banner */}
             <section id="cooperative-settlement-visual-roadmap" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                 5. Cooperative Bank Loan Settlement Visual Roadmap
-              </h2>
+              </h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 The visual roadmap below illustrates the structured 5-stage institutional progression required to settle a delinquent cooperative bank loan—from navigating state-level recovery notices and dual regulatory compliance to securing Board resolutions, Registrar concurrence, and obtaining an official RBI-mandated No Dues Certificate.
               </p>
@@ -759,9 +759,9 @@ export default function CooperativeBankLoanSettlementRulesPage() {
 
             {/* Section 6: Anatomy of Cooperative Bank OTS & Board Sanctions */}
             <section id="anatomy-of-cooperative-bank-ots" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                 6. The Anatomy of Cooperative Bank OTS: Board Resolutions, Registrar Sanctions &amp; Advocate Strategy
-              </h2>
+              </h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Settling a loan with an Urban or District Co-operative Bank requires an entirely different tactical approach than dealing with a commercial bank. In commercial banks, branch managers or zonal credit officers operate under fixed delegated discretionary lending powers (DLP). In co-operative banks, however, all debt compromise policies and major write-offs must be approved by the <strong>Board of Directors (BoD)</strong> during scheduled monthly board meetings.
               </p>
@@ -774,31 +774,31 @@ export default function CooperativeBankLoanSettlementRulesPage() {
 
               <div className="space-y-3 my-4">
                 <div className="p-4 rounded-xl border-l-4 border-blue-600 bg-slate-50 space-y-1">
-                  <h3 className="font-bold text-slate-900 text-xs sm:text-sm">Phase 1: Comprehensive Forensic Ledger Audit</h3>
+                  <h4 className="font-bold text-slate-900 text-xs sm:text-sm">Phase 1: Comprehensive Forensic Ledger Audit</h4>
                   <p className="text-xs text-slate-600 leading-relaxed">
                     Legal advocates conduct a detailed audit of the co-operative loan ledger from the date of sanction. We isolate the true core principal disbursed, identify and eliminate unauthorized penal compounding, audit share capital deductions, and calculate the actual unrecovered baseline debt.
                   </p>
                 </div>
                 <div className="p-4 rounded-xl border-l-4 border-indigo-600 bg-slate-50 space-y-1">
-                  <h4 className="font-bold text-slate-900 text-xs sm:text-sm">Phase 2: Formal Notice of Representation &amp; SRO Cease-and-Desist</h4>
+                  <h5 className="font-bold text-slate-900 text-xs sm:text-sm">Phase 2: Formal Notice of Representation &amp; SRO Cease-and-Desist</h5>
                   <p className="text-xs text-slate-600 leading-relaxed">
                     We serve a formal Notice of Representation on the Chairman, Managing Director, and Chief Executive Officer (CEO) of the co-operative bank, with copies marked to the District Registrar. This notice halts coercive recovery harassment, prevents illegal public defaming, and stays unilateral SRO auction steps.
                   </p>
                 </div>
                 <div className="p-4 rounded-xl border-l-4 border-purple-600 bg-slate-50 space-y-1">
-                  <h4 className="font-bold text-slate-900 text-xs sm:text-sm">Phase 3: Hardship Dossier Submission Under RBI June 2023 Framework</h4>
+                  <h5 className="font-bold text-slate-900 text-xs sm:text-sm">Phase 3: Hardship Dossier Submission Under RBI June 2023 Framework</h5>
                   <p className="text-xs text-slate-600 leading-relaxed">
                     We draft a comprehensive One-Time Settlement proposal invoking the <strong>RBI Master Direction on Compromise Settlements (June 8, 2023)</strong> and applicable State OTS schemes. The dossier includes audited financial statements, tax filings, medical records, or business closure affidavits substantiating a permanent reduction in debt servicing capacity.
                   </p>
                 </div>
                 <div className="p-4 rounded-xl border-l-4 border-amber-600 bg-slate-50 space-y-1">
-                  <h4 className="font-bold text-slate-900 text-xs sm:text-sm">Phase 4: Board Agenda Tabling &amp; Registrar Clearance</h4>
+                  <h5 className="font-bold text-slate-900 text-xs sm:text-sm">Phase 4: Board Agenda Tabling &amp; Registrar Clearance</h5>
                   <p className="text-xs text-slate-600 leading-relaxed">
                     The OTS proposal is formally placed on the agenda of the bank&apos;s Board of Directors. Advocates engage with the Executive Recovery Sub-Committee, ensuring that the approved compromise is codified in an official Board Resolution complete with meeting minute numbers and necessary Registrar clearances.
                   </p>
                 </div>
                 <div className="p-4 rounded-xl border-l-4 border-emerald-600 bg-slate-50 space-y-1">
-                  <h4 className="font-bold text-slate-900 text-xs sm:text-sm">Phase 5: National Lok Adalat or Co-operative Court Consent Terms</h4>
+                  <h5 className="font-bold text-slate-900 text-xs sm:text-sm">Phase 5: National Lok Adalat or Co-operative Court Consent Terms</h5>
                   <p className="text-xs text-slate-600 leading-relaxed">
                     Where Section 101 or Section 91 dispute proceedings are pending, advocates record the compromise terms before the <strong>National Lok Adalat</strong> or Co-operative Court. This converts the OTS agreement into a binding, non-appealable judicial award that permanently extinguishes the lender&apos;s claims.
                   </p>
@@ -812,9 +812,9 @@ export default function CooperativeBankLoanSettlementRulesPage() {
 
             {/* Section 7: Forensic Verification of Sanction Letters */}
             <section id="forensic-sanction-letter-verification" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                 7. Forensic Checklist for Watertight Cooperative Bank OTS Sanction Letters
-              </h2>
+              </h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 A common and dangerous pitfall in co-operative bank debt resolution is relying on informal verbal assurances from local bank directors, branch managers, or recovery agents. In co-operative institutions, informal promises carry zero legal validity. If a borrower deposits settlement funds without an authentic, Board-ratified sanction letter, the bank can appropriate the money toward accumulated penal interest and continue recovery for the remaining balance.
               </p>
@@ -874,9 +874,9 @@ export default function CooperativeBankLoanSettlementRulesPage() {
 
             {/* Section 8: Remittance, RBI NDC Mandate, Share Capital Refund & CIBIL */}
             <section id="remittance-rbi-ndc-share-capital-cibil" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                 8. Settlement Remittance, Share Capital Adjustment, RBI 30-Day NDC Mandate &amp; CIBIL Bureau Restoration
-              </h2>
+              </h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Remitting the agreed compromise amount is the penultimate step in loan resolution. The process is concluded only when the co-operative bank fulfills its statutory obligations regarding document release, share capital accounting, and credit bureau updating.
               </p>
@@ -894,9 +894,9 @@ export default function CooperativeBankLoanSettlementRulesPage() {
                 </p>
               </div>
 
-              <h3 className="text-base sm:text-lg font-bold text-slate-900 pt-2">
+              <h4 className="text-base sm:text-lg font-bold text-slate-900 pt-2">
                 Handling Co-operative Share Capital &amp; Credit Bureau Rebuilding
-              </h3>
+              </h4>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Borrowers must also ensure two critical post-settlement actions are executed properly:
               </p>
@@ -918,9 +918,9 @@ export default function CooperativeBankLoanSettlementRulesPage() {
 
             {/* Section 9: Cooperative Settlement Strategy Matrix */}
             <section id="cooperative-resolution-matrix" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                 9. Cooperative Bank Debt Resolution Comparative Matrix
-              </h2>
+              </h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Evaluating the primary institutional pathways available to resolve a delinquent cooperative bank loan empowers borrowers to choose the most legally secure and financially advantageous route:
               </p>
@@ -980,9 +980,9 @@ export default function CooperativeBankLoanSettlementRulesPage() {
             {/* Section 10: SettleLoans Legal Defense & Advisory + CompanySection */}
             <section id="company-resolution-section" className="space-y-6">
               <div className="border-t border-slate-200 pt-8 space-y-4">
-                <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
+                <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                   10. SettleLoans Legal Defense &amp; Cooperative Stressed Debt Advisory
-                </h2>
+                </h3>
                 <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                   Resolving a defaulted loan with an Urban Co-operative Bank or District Central Co-operative Bank requires specialized legal knowledge spanning state co-operative acts, Registrar procedures, and RBI banking directives. SettleLoans represents borrowers across India: issuing formal legal representations, challenging Section 101 recovery certificates before the Divisional Joint Registrar, halting unlawful Special Recovery Officer property attachments, conducting forensic ledger audits to remove penal compounding, and negotiating directly with bank Boards of Directors to secure the deepest lawful OTS haircuts backed by official ₹0 No Dues Certificates.
                 </p>
@@ -996,9 +996,9 @@ export default function CooperativeBankLoanSettlementRulesPage() {
             <section id="faqs" className="space-y-4 border-t border-slate-200 pt-8">
               <div className="flex items-center gap-2 mb-2">
                 <HelpCircle className="w-5 h-5 text-[#1F5EFF]" />
-                <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
+                <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                   11. Frequently Asked Questions: Cooperative Bank Loan Settlement Rules
-                </h2>
+                </h3>
               </div>
               <p className="text-xs sm:text-sm text-slate-600 mb-6">
                 Legally verified answers to essential questions regarding Urban Co-operative Bank loan settlements, Section 101 notices, Board approvals, and borrower rights in India.
@@ -1028,9 +1028,9 @@ export default function CooperativeBankLoanSettlementRulesPage() {
 
             {/* 5 Official Regulatory Links */}
             <section className="border-t border-slate-200 pt-8 mb-4">
-              <h3 className="text-xs sm:text-sm font-bold text-slate-900 mb-3 uppercase tracking-wider">
+              <h4 className="text-xs sm:text-sm font-bold text-slate-900 mb-3 uppercase tracking-wider">
                 Official Statutory &amp; Regulatory References
-              </h3>
+              </h4>
               <div className="grid grid-cols-1 sm:grid-cols-2 gap-2.5 text-xs">
                 <a
                   href="https://www.rbi.org.in"
@@ -1082,9 +1082,9 @@ export default function CooperativeBankLoanSettlementRulesPage() {
 
             {/* 10 Related Guide Badges */}
             <section className="border-t border-slate-200 pt-8 mb-8">
-              <h3 className="text-xs sm:text-sm font-bold text-slate-900 mb-4 uppercase tracking-wider">
+              <h4 className="text-xs sm:text-sm font-bold text-slate-900 mb-4 uppercase tracking-wider">
                 Related Banking &amp; Debt Resolution Guides
-              </h3>
+              </h4>
               <div className="flex flex-wrap gap-2">
                 <Link
                   href="/bank-one-time-settlement-ots-policy"

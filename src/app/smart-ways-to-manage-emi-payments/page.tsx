@@ -297,9 +297,9 @@ export default function SmartEMIManagementPage() {
             </section>
 
             <section id="golden-rule" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
                 The Golden Rule: The 30-40% EMI Ratio
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 The first step in smart EMI management is understanding your 'borrowing capacity'. Most financial planners in India agree on the 'Golden Rule': your total EMI obligations should never exceed 30 percent to 40 percent of your net take home monthly income. This is not an arbitrary number; it is a safety margin designed to ensure that you have enough remaining funds for essential living expenses and retirement savings.
               </p>
@@ -307,7 +307,7 @@ export default function SmartEMIManagementPage() {
                 When this ratio crosses 50 percent, you are entering the 'Debt Danger Zone'. At this level, even a small unexpected expense like a medical bill or a car repair can lead to a missed EMI payment. Banks in 2026 are using advanced AI algorithms to monitor this ratio, and if they see you over leveraging, they might increase your interest rates or refuse to offer you top up loans when you need them most.
               </p>
               <div className="bg-gray-50 p-8 rounded-xl border border-gray-200 mb-8">
-                <h3 className="text-xl font-bold mb-6">Why the 30-40% Ratio Matters</h3>
+                <h4 className="text-xl font-bold mb-6">Why the 30-40% Ratio Matters</h4>
                 <ul className="grid md:grid-cols-2 gap-4 text-sm font-medium">
                   <li className="flex items-center gap-2">
                     <span className="w-2 h-2 bg-[#1F5EFF] rounded-full"></span>
@@ -330,9 +330,9 @@ export default function SmartEMIManagementPage() {
             </section>
 
             <section id="budgeting-frameworks" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
                 Budgeting Frameworks for the Modern Borrower
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 Managing EMIs effectively requires a disciplined approach to budgeting. The most successful borrowers use the 50/30/20 framework, adapted for a credit heavy economy. In this model, 50 percent of your income goes to 'Needs' (which includes rent, groceries, and your core EMIs). 30 percent goes to 'Wants', and 20 percent is strictly reserved for 'Savings and Debt Reduction'.
               </p>
@@ -345,9 +345,9 @@ export default function SmartEMIManagementPage() {
             </section>
 
             <section id="avalanche-method" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
                 The Debt Avalanche Method: Minimizing Interest
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 If you are running multiple loans like a home loan at 9 percent, a car loan at 11 percent, and a credit card EMI at 42 percent, you need a hierarchy for your payments. The Debt Avalanche method is the most mathematically efficient way to manage multiple EMIs.
               </p>
@@ -355,7 +355,7 @@ export default function SmartEMIManagementPage() {
                 In this method, you pay the minimum due on all your loans, but any surplus money you have is directed entirely toward the loan with the highest interest rate. By attacking the most expensive debt first, you reduce the total amount of interest you pay to the bank. Once the highest interest loan is cleared, you move all that payment power to the next most expensive loan.
               </p>
               <div className="bg-blue-50 p-8 rounded-xl border border-blue-200 mb-8">
-                <h3 className="text-xl font-bold mb-4 text-blue-900">The Avalanche in Action</h3>
+                <h4 className="text-xl font-bold mb-4 text-blue-900">The Avalanche in Action</h4>
                 <p className="text-sm text-blue-800 leading-relaxed mb-4">
                   Imagine you have a bonus of 50,000 rupees. Paying it toward your home loan (9%) saves you some money. But paying it toward your credit card debt (42%) saves you nearly five times more in interest over the same period. The Debt Avalanche requires discipline, but it is the fastest route to being debt free.
                 </p>
@@ -363,9 +363,9 @@ export default function SmartEMIManagementPage() {
             </section>
 
             <section id="snowball-method" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
                 The Debt Snowball Method: Psychological Momentum
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 While the Avalanche is mathematically superior, the Debt Snowball is often more effective for people who feel overwhelmed. In this method, you focus on paying off the loan with the smallest balance first, regardless of the interest rate.
               </p>
@@ -378,9 +378,9 @@ export default function SmartEMIManagementPage() {
             </section>
 
             <section id="prepayment-strategy" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
                 Mastering Prepayments: Reducing the Principal
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 Prepayment is perhaps the most underutilized tool in EMI management. When you make a regular EMI payment, a large chunk goes toward interest, especially in the early years of the loan. However, when you make a 'part prepayment', 100 percent of that money goes toward reducing the principal amount.
               </p>
@@ -390,30 +390,30 @@ export default function SmartEMIManagementPage() {
               <div className="grid sm:grid-cols-3 gap-4 my-8">
                 <div className="bg-white p-5 rounded-xl border border-[#DEDEDE] shadow-sm text-center">
                   <div className="w-12 h-12 bg-blue-100 rounded-full flex items-center justify-center mx-auto mb-4">
-                    <h3 className="font-bold text-blue-600">1/12</h3>
+                    <h4 className="font-bold text-blue-600">1/12</h4>
                   </div>
-                  <h4 className="font-bold text-[#2E2E2E] mb-2">The Extra EMI</h4>
+                  <h5 className="font-bold text-[#2E2E2E] mb-2">The Extra EMI</h5>
                   <p className="text-xs text-gray-500">Pay one extra EMI annually to cut 4-5 years off a home loan.</p>
                 </div>
                 <div className="bg-white p-5 rounded-xl border border-[#DEDEDE] shadow-sm text-center">
                   <div className="w-12 h-12 bg-green-100 rounded-full flex items-center justify-center mx-auto mb-4">
-                    <h4 className="font-bold text-green-600">5%</h4>
+                    <h5 className="font-bold text-green-600">5%</h5>
                   </div>
-                  <h4 className="font-bold text-[#2E2E2E] mb-2">Annual Step-up</h4>
+                  <h5 className="font-bold text-[#2E2E2E] mb-2">Annual Step-up</h5>
                   <p className="text-xs text-gray-500">Increase EMI by 5% yearly to stay ahead of inflation.</p>
                 </div>
                 <div className="bg-white p-5 rounded-xl border border-[#DEDEDE] shadow-sm text-center">
                   <div className="w-12 h-12 bg-purple-100 rounded-full flex items-center justify-center mx-auto mb-4">
-                    <h4 className="font-bold text-purple-600">100%</h4>
+                    <h5 className="font-bold text-purple-600">100%</h5>
                   </div>
-                  <h4 className="font-bold text-[#2E2E2E] mb-2">Bonus Allocation</h4>
+                  <h5 className="font-bold text-[#2E2E2E] mb-2">Bonus Allocation</h5>
                   <p className="text-xs text-gray-500">Direct 100% of your work bonus toward loan principal.</p>
                 </div>
               </div>
             </section>
 
             <section id="refinancing" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Refinancing and Balance Transfers</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Refinancing and Balance Transfers</h3>
               <p className="mb-6">
                 Loyalty rarely pays in the world of banking. If you have been paying an EMI for more than two years and your credit score has improved, you are likely eligible for a lower interest rate than what you are currently paying. This is where 'Loan Refinancing' or a 'Balance Transfer' comes into play.
               </p>
@@ -421,7 +421,7 @@ export default function SmartEMIManagementPage() {
                 By moving your loan to a different lender who offers a lower rate, you can significantly reduce your monthly EMI or, better yet, keep the EMI the same and reduce your tenure. However, you must be careful with the 'hidden costs'. Calculate the processing fees, legal charges, and valuation fees associated with the new loan. A rate difference of at least 0.5 to 1 percent is usually needed to make a balance transfer worthwhile.
               </p>
               <div className="bg-orange-50/50 p-6 rounded-xl border border-orange-100 mb-8">
-                <h3 className="text-xl font-bold text-orange-800 mb-3">The Refinancing Checklist</h3>
+                <h4 className="text-xl font-bold text-orange-800 mb-3">The Refinancing Checklist</h4>
                 <p className="text-sm text-orange-900/80 leading-relaxed">
                   Before you switch, check your current loan agreement for 'Preclosure Charges'. For floating rate home loans, these are usually zero according to RBI mandates, but for personal loans or fixed rate loans, they can be as high as 4 percent. Ensure your interest savings over the remaining tenure are much higher than these costs.
                 </p>
@@ -429,7 +429,7 @@ export default function SmartEMIManagementPage() {
             </section>
 
             <section id="consolidation" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Loan Consolidation for Simplicity</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Loan Consolidation for Simplicity</h3>
               <p className="mb-6">
                 Managing six different EMI dates every month is a recipe for disaster. One missed date leads to a penalty, which leads to a score drop, which makes it harder to manage the others. Loan consolidation involves taking one large, lower interest loan (usually a personal loan or a loan against property) to pay off all your smaller, high interest debts.
               </p>
@@ -442,7 +442,7 @@ export default function SmartEMIManagementPage() {
             </section>
 
             <section id="emergency-buffer" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">The 6-Month EMI Buffer Fund</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">The 6-Month EMI Buffer Fund</h3>
               <p className="mb-6">
                 The biggest fear of any borrower is 'what if I lose my job?'. In today's volatile employment market, a standalone emergency fund is not enough. You need a dedicated 'EMI Buffer Fund'. This is a separate account that contains exactly six months of your total EMI payments.
               </p>
@@ -450,7 +450,7 @@ export default function SmartEMIManagementPage() {
                 Having this buffer means that even if your income stops tomorrow, your credit score and your relationship with the bank remain protected for half a year while you find a new role. This peace of mind is invaluable and prevents you from making desperate financial decisions under pressure.
               </p>
               <div className="bg-blue-50 p-8 rounded-2xl border border-blue-100 mb-8">
-                <h3 className="text-2xl font-black text-[#2E2E2E] mb-6">Where to Park Your Buffer</h3>
+                <h4 className="text-2xl font-black text-[#2E2E2E] mb-6">Where to Park Your Buffer</h4>
                 <div className="space-y-4">
                   <div className="bg-white p-4 rounded-lg flex items-center justify-between">
                     <span className="font-bold">Liquid Mutual Funds</span>
@@ -469,7 +469,7 @@ export default function SmartEMIManagementPage() {
             </section>
 
             <section id="modern-tools" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Leveraging Modern Tools and Automation</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Leveraging Modern Tools and Automation</h3>
               <p className="mb-6">
                 Human memory is fallible, especially when stressed. Modern financial management in India is heavily automated. Ensure that all your loans are on 'Standing Instructions' (SI) or 'National Automated Clearing House' (NACH) mandates. This ensures the money is pulled from your account automatically on the due date. 
               </p>
@@ -479,7 +479,7 @@ export default function SmartEMIManagementPage() {
             </section>
 
             <section id="international-perspective" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">International Perspective: How India Compares</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">International Perspective: How India Compares</h3>
               <p className="mb-6 text-lg">
                 To understand the smart ways to manage EMI payments, it helps to look at how different economies handle consumer debt. In developed markets like the US or the UK, interest rates for personal loans are often much lower than in India, but the 'Debt to Income' ratios are much higher. In India, we are blessed with a stronger family support system, but we face uniquely high interest rates for unsecured credit.
               </p>
@@ -492,7 +492,7 @@ export default function SmartEMIManagementPage() {
             </section>
 
             <section id="ai-trends-2026" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">The Role of AI in Debt Management (2026 Trends)</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">The Role of AI in Debt Management (2026 Trends)</h3>
               <p className="mb-6 text-lg">
                 As we move through 2026, Artificial Intelligence is changing how we interact with our debts. Many Indian fintech apps now offer 'Predictive EMI Management'. These AI systems analyze your spending patterns and predict if you will have an EMI shortfall two weeks before it happens.
               </p>
@@ -505,7 +505,7 @@ export default function SmartEMIManagementPage() {
             </section>
 
             <section id="health-checklist" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Weekly EMI Health Review: A 5-Minute Checklist</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Weekly EMI Health Review: A 5-Minute Checklist</h3>
               <p className="mb-6">
                 Consistency is the secret sauce of debt freedom. Every Sunday, take 5 minutes to review your EMI health with this checklist:
               </p>
@@ -532,12 +532,12 @@ export default function SmartEMIManagementPage() {
             </section>
 
             <section id="cibil-health" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Protecting Your CIBIL Score Health</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Protecting Your CIBIL Score Health</h3>
               <p className="mb-6 text-lg">
                 Your CIBIL score is your most important financial asset. A score above 750 opens doors to low interest rates, while a score below 600 can lead to loan rejections even for genuine needs. Smart EMI management and a high credit score go hand in hand.
               </p>
               <div className="bg-emerald-50 p-8 rounded-2xl border border-emerald-100 mb-8">
-                <h3 className="text-xl font-bold text-emerald-800 mb-4">The Golden Rules of CIBIL</h3>
+                <h4 className="text-xl font-bold text-emerald-800 mb-4">The Golden Rules of CIBIL</h4>
                 <p className="mb-4 text-emerald-900/80">
                   Never miss even a single EMI. Even a 30 day delay is reported to the bureau and stays on your record for 7 years. If you are struggling, it is better to borrow from a friend or use a gold loan to pay an EMI on time rather than letting it default.
                 </p>
@@ -548,19 +548,19 @@ export default function SmartEMIManagementPage() {
             </section>
 
             <section id="legal-rights" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Know Your Legal Rights as a Borrower</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Know Your Legal Rights as a Borrower</h3>
               <p className="mb-6 text-lg">
                 The Reserve Bank of India has established a 'Fair Practice Code' that all banks and NBFCs must follow. Even if you default on an EMI, you have rights. You cannot be harassed, abused, or publicly shamed.
               </p>
               <div className="grid md:grid-cols-2 gap-8 mb-8">
                 <div className="bg-white p-6 rounded-xl border border-gray-100 shadow-sm">
-                  <h3 className="text-xl font-bold mb-4">Restructuring Rights</h3>
+                  <h4 className="text-xl font-bold mb-4">Restructuring Rights</h4>
                   <p className="text-sm text-gray-600 leading-relaxed mb-4">
                     If you face a genuine disaster like a medical crisis or a business failure, you have the right to request a restructuring of your loan. This can involve an EMI holiday or an extension of the tenure to make payments more manageable.
                   </p>
                 </div>
                 <div className="bg-white p-6 rounded-xl border border-gray-100 shadow-sm">
-                  <h3 className="text-xl font-bold mb-4">Harassment Protection</h3>
+                  <h4 className="text-xl font-bold mb-4">Harassment Protection</h4>
                   <p className="text-sm text-gray-600 leading-relaxed mb-4">
                     Recovery agents can only call you between specific hours and cannot contact your friends or neighbors. If they violate these rules, you can file a complaint with the Banking Ombudsman.
                   </p>
@@ -569,12 +569,12 @@ export default function SmartEMIManagementPage() {
             </section>
 
             <section id="settlement-option" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">The Power of Professional Loan Settlement</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">The Power of Professional Loan Settlement</h3>
               <p className="mb-6">
                 Sometimes, despite your best intentions and smartest strategies, the debt burden becomes factually impossible to pay. This usually happens when interest rates spike or when life throws a catastrophic curveball. In these cases, 'Loan Settlement' is a legal and valid exit strategy.
               </p>
               <div className="bg-[#2E2E2E] text-white p-8 rounded-2xl mb-8">
-                <h3 className="text-2xl font-bold mb-4">How SettleLoans Can Help</h3>
+                <h4 className="text-2xl font-bold mb-4">How SettleLoans Can Help</h4>
                 <p className="mb-4 opacity-80">
                   SettleLoans acts as your expert representative in negotiations with banks and NBFCs. We understand the legal frameworks and the bank's internal 'write-off' policies. We can help you settle your debts for a significantly lower amount, stopping the harassment and giving you a definitive path back to a debt-free life.
                 </p>
@@ -591,7 +591,7 @@ export default function SmartEMIManagementPage() {
             </section>
 
             <section id="success-stories" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 text-center">Real Stories of Financial Reset</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 text-center">Real Stories of Financial Reset</h3>
               <div className="grid md:grid-cols-2 gap-6 not-prose">
                 {[
                   {
@@ -653,7 +653,7 @@ export default function SmartEMIManagementPage() {
             </section>
 
             <section id="faqs" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Frequently Asked Questions</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Frequently Asked Questions</h3>
               <div className="space-y-4 not-prose">
                 {[
                   { q: "How do I choose between the Avalanche and Snowball methods?", a: "Choose the Avalanche method if you want to save the maximum amount of money and have the discipline to wait for rewards. Choose the Snowball method if you need immediate results and psychological wins to keep going." },
@@ -690,7 +690,7 @@ export default function SmartEMIManagementPage() {
             <div className="mt-24 mb-12">
               <div className="bg-[#2E2E2E] rounded-2xl shadow-xl overflow-hidden border border-[#1F5EFF]/20">
                 <div className="bg-[#1F5EFF] p-10 text-center text-white">
-                  <h3 className="text-3xl md:text-4xl font-black mb-4">Escape the EMI Trap Today</h3>
+                  <h4 className="text-3xl md:text-4xl font-black mb-4">Escape the EMI Trap Today</h4>
                   <p className="opacity-90 text-lg max-w-2xl mx-auto mb-8">Work with India's most trusted debt resolution team. We've helped thousands reclaim their financial peace.</p>
                   <Link href="/contact" className="inline-block bg-white text-[#1F5EFF] font-black py-4 px-10 rounded-xl hover:scale-105 transition-all shadow-lg text-xl">
                     Get Your Free Consultation

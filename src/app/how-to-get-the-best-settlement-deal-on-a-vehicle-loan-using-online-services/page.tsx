@@ -288,11 +288,11 @@ export default function VehicleLoanSettlementPage() {
                 </p>
                 <div className="grid md:grid-cols-2 gap-6 my-8">
                   <div className="bg-blue-50 p-6 rounded-xl border border-blue-100">
-                    <h3 className="font-bold text-blue-900 mb-2">Foreclosure</h3>
+                    <h4 className="font-bold text-blue-900 mb-2">Foreclosure</h4>
                     <p className="text-sm text-blue-800">Paying off the entire loan balance before the tenure ends. This is positive for your credit score but requires significant liquidity.</p>
                   </div>
                   <div className="bg-orange-50 p-6 rounded-xl border border-orange-100">
-                    <h3 className="font-bold text-orange-900 mb-2">Settlement</h3>
+                    <h4 className="font-bold text-orange-900 mb-2">Settlement</h4>
                     <p className="text-sm text-orange-800">Paying a reduced amount to close the loan. This provides immediate debt relief but results in a 'Settled' status on your CIBIL report.</p>
                   </div>
                 </div>
@@ -306,14 +306,14 @@ export default function VehicleLoanSettlementPage() {
             </section>
 
             <section id="secured-loan-context" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
                 The Specific Challenges of Secured Vehicle Loans
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 Vehicle loans are classified as secured loans because the car or bike itself serves as collateral. The bank holds a 'Hypothecation' on the vehicle, which is recorded in the Registration Certificate (RC). This gives the lender significant leverage. If you default, the bank has the legal right to repossess the asset under the Securitization and Reconstruction of Financial Assets and Enforcement of Security Interest (SARFAESI) Act, 2002.
               </p>
               <div className="bg-gray-50 border-l-4 border-[#1F5EFF] p-8 rounded-r-xl mb-8">
-                <h3 className="text-xl font-bold mb-4">Why Secured Loans are Harder to Settle</h3>
+                <h4 className="text-xl font-bold mb-4">Why Secured Loans are Harder to Settle</h4>
                 <p className="mb-4">
                   For unsecured loans like credit cards, the bank has no asset to seize and is therefore often more willing to settle to recover whatever they can. With a vehicle loan, the bank knows they can sell the car and get a certain amount of cash immediately. This makes them more aggressive in their recovery tactics.
                 </p>
@@ -338,39 +338,39 @@ export default function VehicleLoanSettlementPage() {
             </section>
 
             <section id="step-by-step-process" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">The 5 Step Settlement Process: From Default to Freedom</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">The 5 Step Settlement Process: From Default to Freedom</h3>
               <div className="space-y-12">
                 <div className="relative pl-12">
                   <div className="absolute left-0 top-0 w-8 h-8 bg-[#1F5EFF] text-white rounded-lg flex items-center justify-center font-black">1</div>
-                  <h3 className="text-2xl font-bold mb-4">Phase 1: Entering the Default Stage</h3>
+                  <h4 className="text-2xl font-bold mb-4">Phase 1: Entering the Default Stage</h4>
                   <p className="mb-4 text-lg">
                     The journey toward settlement usually begins after three consecutive missed EMIs. At this point, your account is classified as a Non Performing Asset (NPA). The bank will start sending legal notices and automated messages. This is the phase where you should gather your financial documents and prepare your case. Do not wait until the recovery agents are at your door.
                   </p>
                 </div>
                 <div className="relative pl-12">
                   <div className="absolute left-0 top-0 w-8 h-8 bg-[#1F5EFF] text-white rounded-lg flex items-center justify-center font-black">2</div>
-                  <h3 className="text-2xl font-bold mb-4">Phase 2: Management of Recovery Communications</h3>
+                  <h4 className="text-2xl font-bold mb-4">Phase 2: Management of Recovery Communications</h4>
                   <p className="mb-4 text-lg">
                     This is often the most stressful period. Recovery agents may call incessantly or visit your home. It is vital to know that under RBI guidelines, they cannot use abusive language, call at odd hours, or threaten you physically. Professional online services can step in here, acting as a buffer by notifying the bank that you are now legally represented. This often leads to a shift from aggressive recovery to structured negotiation.
                   </p>
                 </div>
                 <div className="relative pl-12">
                   <div className="absolute left-0 top-0 w-8 h-8 bg-[#1F5EFF] text-white rounded-lg flex items-center justify-center font-black">3</div>
-                  <h3 className="text-2xl font-bold mb-4">Phase 3: The Negotiation Phase</h3>
+                  <h4 className="text-2xl font-bold mb-4">Phase 3: The Negotiation Phase</h4>
                   <p className="mb-4 text-lg">
                     This is where the 'magic' happens. You or your representative will present a hardship case to the bank's settlement committee. The goal is to prove that you cannot pay the full amount but have a certain lump sum ready for an immediate, one time settlement. You use the vehicle's depreciation and the bank's own costs of repossession as leverage to push for a lower amount.
                   </p>
                 </div>
                 <div className="relative pl-12">
                   <div className="absolute left-0 top-0 w-8 h-8 bg-[#1F5EFF] text-white rounded-lg flex items-center justify-center font-black">4</div>
-                  <h3 className="text-2xl font-bold mb-4">Phase 4: Receiving the Settlement Offer</h3>
+                  <h4 className="text-2xl font-bold mb-4">Phase 4: Receiving the Settlement Offer</h4>
                   <p className="mb-4 text-lg">
                     Never make a payment based on a verbal promise or a WhatsApp message. You must receive a formal Settlement Letter on the bank's official letterhead. This letter should clearly state the settlement amount, the due date for payment, and a confirmation that this will result in a full and final closure of the loan with no further claims on the vehicle.
                   </p>
                 </div>
                 <div className="relative pl-12">
                   <div className="absolute left-0 top-0 w-8 h-8 bg-[#1F5EFF] text-white rounded-lg flex items-center justify-center font-black">5</div>
-                  <h3 className="text-2xl font-bold mb-4">Phase 5: Payment and Closure</h3>
+                  <h4 className="text-2xl font-bold mb-4">Phase 5: Payment and Closure</h4>
                   <p className="mb-4 text-lg">
                     Once the payment is made, typically via NEFT or RTGS for a clear paper trail, you must follow up to receive two critical documents: the No Dues Certificate (NDC) and Form 35. These are the tools you need to go to the RTO and have the hypothecation removed from your Registration Certificate. Only after this step is the vehicle truly yours again.
                   </p>
@@ -379,27 +379,27 @@ export default function VehicleLoanSettlementPage() {
             </section>
 
             <section id="online-services" className="scroll-mt-32 mb-16 px-8 py-12 bg-blue-50 rounded-3xl border border-blue-100">
-              <h2 className="text-3xl md:text-4xl font-black text-blue-900 mb-8 leading-tight">
+              <h3 className="text-3xl md:text-4xl font-black text-blue-900 mb-8 leading-tight">
                 The Role of Professional Online Settlement Services
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed text-blue-800 mb-8">
                 Navigating the complex world of bank settlements while dealing with financial stress is almost impossible for an individual. Online platforms have emerged as a specialized sector to handle this burden for you. They provide legal expertise, negotiation skills, and a deep understanding of lender psychology.
               </p>
               <div className="space-y-6">
                 <div className="bg-white p-8 rounded-2xl shadow-sm border border-blue-200">
-                  <h3 className="text-2xl font-bold text-blue-700 mb-4">1. <Link href="https://amalegalsolutions.com" target="_blank" rel="noopener noreferrer" className="text-[#1F5EFF] hover:underline">amalegalsolutions.com</Link></h3>
+                  <h4 className="text-2xl font-bold text-blue-700 mb-4">1. <Link href="https://amalegalsolutions.com" target="_blank" rel="noopener noreferrer" className="text-[#1F5EFF] hover:underline">amalegalsolutions.com</Link></h4>
                   <p className="mb-4 text-gray-700">
                     <Link href="https://amalegalsolutions.com" target="_blank" rel="noopener noreferrer" className="text-[#1F5EFF] hover:underline">AMA Legal Solutions</Link> takes a legal first approach towards debt resolution. Their team of lawyers understands the fine print of loan agreements and the SARFAESI Act. They are particularly effective in stopping illegal harassment and representing you in case the bank initiates legal proceedings. Their online portal allows for easy document submission and real time tracking of your case.
                   </p>
                 </div>
                 <div className="bg-white p-8 rounded-2xl shadow-sm border border-blue-200">
-                  <h3 className="text-2xl font-bold text-blue-700 mb-4">2. credsettle.com</h3>
+                  <h4 className="text-2xl font-bold text-blue-700 mb-4">2. credsettle.com</h4>
                   <p className="mb-4 text-gray-700">
                     CredSettle specializes in automated and streamlined negotiation processes. They use data analytics to understand what settlement amounts a particular bank is likely to accept based on historical trends. This data driven approach often results in faster resolutions. They focus heavily on personal and vehicle loans, offering a very user friendly digital experience.
                   </p>
                 </div>
                 <div className="bg-white p-8 rounded-2xl shadow-sm border border-blue-200">
-                  <h3 className="text-2xl font-bold text-blue-700 mb-4">3. settleloans.in</h3>
+                  <h4 className="text-2xl font-bold text-blue-700 mb-4">3. settleloans.in</h4>
                   <p className="mb-4 text-gray-700">
                     SettleLoans offers a comprehensive end to end service. From the moment you sign up, you are assigned a dedicated counselor who handles all communications with the bank. They are known for their empathetic approach, recognizing the human side of debt. They help in compiling a robust hardship dossier, ensuring that your story is told effectively to the bank's decision makers.
                   </p>
@@ -408,34 +408,34 @@ export default function VehicleLoanSettlementPage() {
             </section>
 
             <section id="negotiation-strategies" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                 Winning Negotiation Tactics for Vehicle Loan Settlement
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 To get the best deal, you need to change the narrative from 'I can't pay' to 'This is the most you will ever get'. Here are the strategies that professionals use to secure deep discounts.
               </p>
               <div className="grid md:grid-cols-2 gap-8 my-8">
                 <div className="p-6 rounded-2xl border border-[#DEDEDE] hover:border-[#1F5EFF] transition-colors">
-                  <h3 className="font-bold text-xl mb-3">Depreciation Leverage</h3>
+                  <h4 className="font-bold text-xl mb-3">Depreciation Leverage</h4>
                   <p className="text-sm text-gray-600">Show the bank the current market value of your vehicle (IDV). Remind them that every month of delay means the car's value drops further. A settlement today is worth more to them than an auction six months from now.</p>
                 </div>
                 <div className="p-6 rounded-2xl border border-[#DEDEDE] hover:border-[#1F5EFF] transition-colors">
-                  <h4 className="font-bold text-xl mb-3">The Hardship Dossier</h4>
+                  <h5 className="font-bold text-xl mb-3">The Hardship Dossier</h5>
                   <p className="text-sm text-gray-600">Don't just say you have no money. Show them with medical reports, job termination letters, or business loss statements. Banks are more likely to approve settlements for 'Genuinely Distressed' cases rather than 'Willful Defaulters'.</p>
                 </div>
                 <div className="p-6 rounded-2xl border border-[#DEDEDE] hover:border-[#1F5EFF] transition-colors">
-                  <h4 className="font-bold text-xl mb-3">Timing the Settlement</h4>
+                  <h5 className="font-bold text-xl mb-3">Timing the Settlement</h5>
                   <p className="text-sm text-gray-600">Banks have monthly and quarterly recovery targets. Approaching them near the end of a quarter (March, June, September, December) can often lead to more flexible terms as they are keen to clear their books.</p>
                 </div>
                 <div className="p-6 rounded-2xl border border-[#DEDEDE] hover:border-[#1F5EFF] transition-colors">
-                  <h4 className="font-bold text-xl mb-3">Lump Sum vs Installments</h4>
+                  <h5 className="font-bold text-xl mb-3">Lump Sum vs Installments</h5>
                   <p className="text-sm text-gray-600">If you have the cash, always push for a one time payment. A lump sum offer is far more attractive to a bank than another installment plan which carries the risk of a second default.</p>
                 </div>
               </div>
             </section>
 
             <section id="key-factors" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">Factors That Determine Your Final Settlement Amount</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">Factors That Determine Your Final Settlement Amount</h3>
               <p className="text-lg leading-relaxed mb-6">
                 No two settlement deals are the same. A variety of factors play a role in what the bank finally accepts.
               </p>
@@ -443,28 +443,28 @@ export default function VehicleLoanSettlementPage() {
                 <li className="flex gap-4">
                   <div className="flex-shrink-0 w-12 h-12 rounded-full border border-[#DEDEDE] flex items-center justify-center font-bold">01</div>
                   <div>
-                    <h3 className="font-bold text-xl mb-2">Age of the Default</h3>
+                    <h4 className="font-bold text-xl mb-2">Age of the Default</h4>
                     <p className="text-gray-600">The longer you have been in default, the more desperate the bank becomes. Accounts that have been in the NPA category for over 6 to 12 months often receive much higher waivers than recent defaults.</p>
                   </div>
                 </li>
                 <li className="flex gap-4">
                   <div className="flex-shrink-0 w-12 h-12 rounded-full border border-[#DEDEDE] flex items-center justify-center font-bold">02</div>
                   <div>
-                    <h4 className="font-bold text-xl mb-2">Vehicle Category</h4>
+                    <h5 className="font-bold text-xl mb-2">Vehicle Category</h5>
                     <p className="text-gray-600">Two wheelers are harder and more expensive for banks to track and repossess than cars. Therefore, bike loan settlements often see very high discount rates, sometimes even 60% or more.</p>
                   </div>
                 </li>
                 <li className="flex gap-4">
                   <div className="flex-shrink-0 w-12 h-12 rounded-full border border-[#DEDEDE] flex items-center justify-center font-bold">03</div>
                   <div>
-                    <h4 className="font-bold text-xl mb-2">Lender Category</h4>
+                    <h5 className="font-bold text-xl mb-2">Lender Category</h5>
                     <p className="text-gray-600">Public Sector Banks (like SBI or PNB) follow strict internal OTS policies. Private NBFCs (like Mahindra Finance or Bajaj Finserv) are often more flexible and can make quicker decisions based on commercial logic.</p>
                   </div>
                 </li>
                 <li className="flex gap-4">
                   <div className="flex-shrink-0 w-12 h-12 rounded-full border border-[#DEDEDE] flex items-center justify-center font-bold">04</div>
                   <div>
-                    <h4 className="font-bold text-xl mb-2">Outstanding Principal</h4>
+                    <h5 className="font-bold text-xl mb-2">Outstanding Principal</h5>
                     <p className="text-gray-600">The ratio of principal to interest matters. Banks are generally more willing to waive off interest and penalties than the original principal amount borrowed.</p>
                   </div>
                 </li>
@@ -472,7 +472,7 @@ export default function VehicleLoanSettlementPage() {
             </section>
 
             <section id="comparison" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">Direct Bank Negotiation vs. Online Professional Services</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">Direct Bank Negotiation vs. Online Professional Services</h3>
               <div className="overflow-x-auto">
                 <table className="w-full text-left border-collapse border border-[#DEDEDE] rounded-xl overflow-hidden">
                   <thead className="bg-gray-50 uppercase text-xs font-bold tracking-wider">
@@ -514,16 +514,16 @@ export default function VehicleLoanSettlementPage() {
             </section>
 
             <section id="practical-scenarios" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">Real Life Scenarios: Learn from Others</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">Real Life Scenarios: Learn from Others</h3>
               <div className="space-y-8">
                 <div className="bg-gray-50 p-8 rounded-2xl border border-[#DEDEDE]">
-                  <h3 className="font-bold text-xl mb-4">Case 1: The High Value Car Repossession Threat</h3>
+                  <h4 className="font-bold text-xl mb-4">Case 1: The High Value Car Repossession Threat</h4>
                   <p className="mb-4">
                     Mr. Sharma from Delhi lost his business and defaulted on his luxury SUV loan for four months. The bank sent a repossession squad to his residence. He immediately contacted SettleLoans. The team sent a legal notice to the bank stating his intent to settle and highlighting the illegal conduct of the recovery agents. Within three weeks, the repo threat was withdrawn and a settlement was reached at 45% of the total outstanding amount, allowing him to keep the car.
                   </p>
                 </div>
                 <div className="bg-gray-50 p-8 rounded-2xl border border-[#DEDEDE]">
-                  <h4 className="font-bold text-xl mb-4">Case 2: The Two Wheeler Micro Debt Nightmare</h4>
+                  <h5 className="font-bold text-xl mb-4">Case 2: The Two Wheeler Micro Debt Nightmare</h5>
                   <p className="mb-4">
                     Sunita, a delivery partner in Bangalore, couldn't pay her bike loan EMIs due to a medical emergency. The remaining balance was small (₹40,000) but the penalties were doubling it. Professional counselors worked with the NBFC to explain her situation. Since the cost of seizing a bike in another city was high for the bank, they accepted a one time settlement of ₹25,000 as a full closure.
                   </p>
@@ -532,25 +532,25 @@ export default function VehicleLoanSettlementPage() {
             </section>
 
             <section id="legal-impact" className="scroll-mt-32 mb-16 px-8 py-12 bg-white border-4 border-[#1F5EFF]/20 rounded-3xl">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">The Legal and Financial Impact of Settlement</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">The Legal and Financial Impact of Settlement</h3>
               <p className="text-lg leading-relaxed mb-6 font-bold">
                 You must enter a settlement with your eyes wide open. While it provides immediate relief, it has long term consequences.
               </p>
               <div className="space-y-8">
                 <div>
-                  <h3 className="text-xl font-bold mb-3 text-[#1C4ED8]">Impact on CIBIL Score</h3>
+                  <h4 className="text-xl font-bold mb-3 text-[#1C4ED8]">Impact on CIBIL Score</h4>
                   <p className="text-gray-600">
                     When you settle, your credit report will show the status as 'Settled' for the next seven years. This is a negative marker that tells future lenders you didn't pay the full agreed amount. Your score might drop by 75 to 100 points immediately. However, this is still better than having an 'Active Default' or 'NPA' status, which prevents you from getting any credit at all.
                   </p>
                 </div>
                 <div>
-                  <h3 className="text-xl font-bold mb-3 text-[#1C4ED8]">Legal Rights Against Harassment</h3>
+                  <h4 className="text-xl font-bold mb-3 text-[#1C4ED8]">Legal Rights Against Harassment</h4>
                   <p className="text-gray-600">
                     Defaulting on a loan is not a criminal offense; it is a civil matter. Recovery agents have NO RIGHT to enter your house without permission, use offensive language, or call your employer. If you are being harassed, you can file an FIR for mental harassment and notify the Banking Ombudsman.
                   </p>
                 </div>
                 <div>
-                  <h3 className="text-xl font-bold mb-3 text-[#1C4ED8]">RTO Formalities</h3>
+                  <h4 className="text-xl font-bold mb-3 text-[#1C4ED8]">RTO Formalities</h4>
                   <p className="text-gray-600">
                     A settlement without an NDC and Form 35 is useless. You cannot sell the vehicle or renew its insurance properly if the bank's name is still on the RC. Ensure that the delivery of these documents is a written condition of your settlement agreement.
                   </p>
@@ -559,7 +559,7 @@ export default function VehicleLoanSettlementPage() {
             </section>
 
             <section id="success-stories" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 text-center">Real Stories of Freedom</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 text-center">Real Stories of Freedom</h3>
               <div className="grid md:grid-cols-2 gap-6 not-prose">
                 {[
                   {
@@ -597,7 +597,7 @@ export default function VehicleLoanSettlementPage() {
                         {review.name.charAt(0)}
                       </div>
                       <div>
-                        <h3 className="font-bold text-[#2E2E2E]">{review.name}</h3>
+                        <h4 className="font-bold text-[#2E2E2E]">{review.name}</h4>
                         <p className="text-xs text-gray-400">{review.loc}</p>
                       </div>
                       <div className="ml-auto text-yellow-400 text-sm">★★★★★</div>
@@ -612,14 +612,14 @@ export default function VehicleLoanSettlementPage() {
             </section>
 
             <section id="scam-prevention" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight text-red-600">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight text-red-600">
                 Alert: Avoiding Fraudulent Settlement Services
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 Desperation makes people vulnerable to scams. Some fly by night operators claim they can wipe out your debt without you paying anything to the bank. This is a scam.
               </p>
               <div className="bg-red-50 p-8 rounded-2xl border border-red-100">
-                <h3 className="text-xl font-bold text-red-800 mb-4">Red Flags to Watch For:</h3>
+                <h4 className="text-xl font-bold text-red-800 mb-4">Red Flags to Watch For:</h4>
                 <ul className="space-y-3 font-medium text-red-900">
                   <li className="flex items-center gap-2">✕ Asking you to stop paying the bank and pay them 'security deposits' instead.</li>
                   <li className="flex items-center gap-2">✕ Guaranteeing that the CIBIL marker will show as 'Closed' instead of 'Settled'.</li>
@@ -633,7 +633,7 @@ export default function VehicleLoanSettlementPage() {
             </section>
 
             <section id="faqs" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Expert FAQs on Vehicle Loan Settlement</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Expert FAQs on Vehicle Loan Settlement</h3>
               <div className="space-y-4 not-prose">
                 {[
                   { q: "Can the bank repossess my vehicle for just one missed EMI?", a: "Legally, the bank must follow a process of notices. While they can technically start the process after 60 to 90 days, repossession for a single EMI is rare and often against the Fair Practice Code. If this happens, seek legal help immediately." },
@@ -670,7 +670,7 @@ export default function VehicleLoanSettlementPage() {
             <div className="lg:hidden mt-16 mb-8">
               <div className="bg-[#2E2E2E] rounded-2xl shadow-xl overflow-hidden border border-[#1F5EFF]/20">
                 <div className="bg-[#1F5EFF] p-6 text-center text-white">
-                  <h3 className="text-2xl font-black mb-2">Ready to Save Your Vehicle?</h3>
+                  <h4 className="text-2xl font-black mb-2">Ready to Save Your Vehicle?</h4>
                   <p className="opacity-90 text-sm">Let our experts handle the banks while you focus on rebuilding your life.</p>
                 </div>
                 <div className="p-8 text-center text-[#DEDEDE]">

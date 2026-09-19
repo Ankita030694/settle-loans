@@ -259,22 +259,22 @@ export default function CreditPulseReportPage() {
             </section>
 
             <section id="cibil-vs-credit-pulse" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 CIBIL Score vs Credit Pulse
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 It is crucial to understand the distinction between a standard CIBIL score and the CIBIL credit pulse. They serve different analytical purposes for lenders.
               </p>
 
               <div className="grid md:grid-cols-2 gap-6 my-8">
                 <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
-                  <h3 className="font-black text-[#1F5EFF] text-lg mb-3">The CIBIL Score</h3>
+                  <h4 className="font-black text-[#1F5EFF] text-lg mb-3">The CIBIL Score</h4>
                   <p className="text-gray-700 leading-relaxed">
                     A static, 3-digit summary of your historical credit repayment behavior. It looks at long-term trends and is heavily influenced by past defaults, loan closures, and age of credit lines. It is a lagging indicator.
                   </p>
                 </div>
                 <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
-                  <h4 className="font-black text-[#1F5EFF] text-lg mb-3">The Credit Pulse</h4>
+                  <h5 className="font-black text-[#1F5EFF] text-lg mb-3">The Credit Pulse</h5>
                   <p className="text-gray-700 leading-relaxed">
                     A dynamic, real-time assessment of your current financial stress. It examines recent credit inquiries, sudden spikes in credit card usage, and monthly cash flow patterns. It acts as a leading indicator of future default risk.
                   </p>
@@ -289,15 +289,15 @@ export default function CreditPulseReportPage() {
             </section>
 
             <section id="hidden-red-flags" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 Hidden Red Flags Banks Look For
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 Your credit health report highlights several internal risk markers that lenders monitor closely.
               </p>
 
               <div className="bg-blue-50 border-l-8 border-[#1F5EFF] p-8 rounded-r-2xl mb-8">
-                <h3 className="text-xl font-black text-[#1F5EFF] mb-4">Common Credit Pulse Warnings</h3>
+                <h4 className="text-xl font-black text-[#1F5EFF] mb-4">Common Credit Pulse Warnings</h4>
                 <p className="text-blue-900 text-lg leading-relaxed mb-4">
                   If your loan was recently rejected, your pulse report likely triggered one of these severe warnings:
                 </p>
@@ -319,9 +319,9 @@ export default function CreditPulseReportPage() {
             </section>
 
             <section id="how-to-check" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 How to Check Your Credit Health Report
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 You do not have to remain in the dark about how lenders view your profile. You can proactively check credit health report data through several channels.
               </p>
@@ -330,7 +330,7 @@ export default function CreditPulseReportPage() {
                 <div className="flex gap-6">
                   <div className="flex-shrink-0 w-12 h-12 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center font-black text-xl shadow-lg">1</div>
                   <div>
-                    <h3 className="text-2xl font-bold text-[#2E2E2E] mb-2">Bureau Portals</h3>
+                    <h4 className="text-2xl font-bold text-[#2E2E2E] mb-2">Bureau Portals</h4>
                     <p className="text-lg text-gray-700 leading-relaxed">
                       Log into official credit bureaus like CIBIL, Experian, or Equifax. Look for premium features labeled as "Credit Health Analysis" or "Pulse Score" which provide deeper insights beyond the base score.
                     </p>
@@ -340,7 +340,7 @@ export default function CreditPulseReportPage() {
                 <div className="flex gap-6">
                   <div className="flex-shrink-0 w-12 h-12 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center font-black text-xl shadow-lg">2</div>
                   <div>
-                    <h3 className="text-2xl font-bold text-[#2E2E2E] mb-2">Banking Apps</h3>
+                    <h4 className="text-2xl font-bold text-[#2E2E2E] mb-2">Banking Apps</h4>
                     <p className="text-lg text-gray-700 leading-relaxed">
                       Many modern banking and fintech applications now offer a free credit health tracker. These tools analyze your spending patterns and give you a simplified view of your credit pulse.
                     </p>
@@ -350,7 +350,7 @@ export default function CreditPulseReportPage() {
                 <div className="flex gap-6">
                   <div className="flex-shrink-0 w-12 h-12 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center font-black text-xl shadow-lg">3</div>
                   <div>
-                    <h3 className="text-2xl font-bold text-[#2E2E2E] mb-2">Professional Analysis</h3>
+                    <h4 className="text-2xl font-bold text-[#2E2E2E] mb-2">Professional Analysis</h4>
                     <p className="text-lg text-gray-700 leading-relaxed">
                       For complex cases, consulting with a credit health expert is the best route. They can decode the intricate data points of your CIBIL credit pulse and identify exactly why loans are being declined.
                     </p>
@@ -360,15 +360,15 @@ export default function CreditPulseReportPage() {
             </section>
             
             <section id="improving-credit-health" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 Steps to Improve Your Credit Pulse
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 Unlike a traditional credit score which can take years to rebuild, you can rapidly improve a poor credit pulse by making immediate behavioral changes to your finances.
               </p>
               
               <div className="bg-red-50 p-6 rounded-xl border border-red-100 mb-8">
-                <h3 className="text-xl font-black text-red-700 mb-3">Warning: Do Not Settle Accounts Blindly</h3>
+                <h4 className="text-xl font-black text-red-700 mb-3">Warning: Do Not Settle Accounts Blindly</h4>
                 <p className="text-red-900 leading-relaxed">
                   A common mistake borrowers make is opting for a "Loan Settlement" to quickly close an account. A settled account acts as a permanent red flag on your credit pulse. Always aim for a formal closure by paying outstanding dues if you wish to maintain a strong credit profile for future borrowing.
                 </p>
@@ -376,9 +376,9 @@ export default function CreditPulseReportPage() {
             </section>
 
             <section id="success-stories" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 Client Success Stories
-              </h2>
+              </h3>
               <div className="grid md:grid-cols-2 gap-6 my-8">
                 <div className="bg-white p-8 rounded-[30px] border border-[#DEDEDE] shadow-sm hover:shadow-xl group transition-all">
                   <div className="flex items-center gap-4 mb-6">
@@ -386,7 +386,7 @@ export default function CreditPulseReportPage() {
                       VS
                     </div>
                     <div>
-                      <h3 className="font-bold text-gray-900">Vikas S.</h3>
+                      <h4 className="font-bold text-gray-900">Vikas S.</h4>
                       <div className="flex text-yellow-400">
                         <svg className="w-4 h-4 fill-current" viewBox="0 0 20 20"><path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z"/></svg>
                         <svg className="w-4 h-4 fill-current" viewBox="0 0 20 20"><path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z"/></svg>
@@ -411,7 +411,7 @@ export default function CreditPulseReportPage() {
                       PM
                     </div>
                     <div>
-                      <h4 className="font-bold text-gray-900">Pooja M.</h4>
+                      <h5 className="font-bold text-gray-900">Pooja M.</h5>
                       <div className="flex text-yellow-400">
                         <svg className="w-4 h-4 fill-current" viewBox="0 0 20 20"><path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z"/></svg>
                         <svg className="w-4 h-4 fill-current" viewBox="0 0 20 20"><path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z"/></svg>
@@ -433,13 +433,13 @@ export default function CreditPulseReportPage() {
             </section>
 
             <section id="faqs" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 Frequently Asked Questions
-              </h2>
+              </h3>
               <div className="space-y-4">
                 {jsonLd["@graph"].find(item => item["@type"] === "FAQPage")?.mainEntity?.map((faq: any, index: number) => (
                   <div key={index} className="bg-white border border-[#DEDEDE] rounded-xl p-6 hover:shadow-md transition-shadow">
-                    <h3 className="text-xl font-bold text-[#2E2E2E] mb-3">{faq.name}</h3>
+                    <h4 className="text-xl font-bold text-[#2E2E2E] mb-3">{faq.name}</h4>
                     <p className="text-gray-700 leading-relaxed">{faq.acceptedAnswer.text}</p>
                   </div>
                 ))}
@@ -448,7 +448,7 @@ export default function CreditPulseReportPage() {
 
             <div className="bg-[#2E2E2E] text-white p-12 rounded-[40px] text-center mt-24 relative overflow-hidden group">
               <div className="absolute inset-0 bg-[#1F5EFF] opacity-0 group-hover:opacity-5 transition-opacity"></div>
-              <h3 className="text-3xl font-black mb-6 relative z-10">Stop Guessing Why Your Loans Are Rejected</h3>
+              <h4 className="text-3xl font-black mb-6 relative z-10">Stop Guessing Why Your Loans Are Rejected</h4>
               <p className="text-xl opacity-90 mb-8 relative z-10 max-w-2xl mx-auto">
                 Banks use a secret 'Credit Pulse' algorithm to decide your loan approval. Get an expert analysis of your credit health report today and unlock the credit you deserve.
               </p>

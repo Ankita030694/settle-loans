@@ -567,7 +567,7 @@ export default function WilfulDefaulterNoticeReplyPage() {
 
             {/* Section 2: RBI Master Directions Framework & 21-Day Window */}
             <section id="rbi-master-directions-framework" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">2. RBI Master Directions (2024–2026)</h2>
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">2. RBI Master Directions (2024–2026)</h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 To stop unfair tagging, the RBI set strict rules under the <em>Master Direction on Treatment of Wilful Defaulters</em>. Banks must follow clear steps.
               </p>
@@ -577,19 +577,19 @@ export default function WilfulDefaulterNoticeReplyPage() {
 
               <div className="space-y-3 my-4">
                 <div className="p-4 rounded-xl border-l-4 border-blue-600 bg-slate-50 space-y-1">
-                  <h3 className="font-bold text-slate-900 text-xs sm:text-sm">Tier 1: Identification Committee Examination &amp; Show Cause Notice</h3>
+                  <h4 className="font-bold text-slate-900 text-xs sm:text-sm">Tier 1: Identification Committee Examination &amp; Show Cause Notice</h4>
                   <p className="text-xs text-slate-600 leading-relaxed">
                     The Identification Committee checks audit facts. If it suspects default, it issues a <strong>Show Cause Notice (SCN)</strong> with the charges.
                   </p>
                 </div>
                 <div className="p-4 rounded-xl border-l-4 border-indigo-600 bg-slate-50 space-y-1">
-                  <h4 className="font-bold text-slate-900 text-xs sm:text-sm">Mandatory 21-Day Representation Window</h4>
+                  <h5 className="font-bold text-slate-900 text-xs sm:text-sm">Mandatory 21-Day Representation Window</h5>
                   <p className="text-xs text-slate-600 leading-relaxed">
                     Under RBI rules, banks must give borrowers <strong>21 calendar days</strong> to file a reply. Notices giving less time are invalid.
                   </p>
                 </div>
                 <div className="p-4 rounded-xl border-l-4 border-purple-600 bg-slate-50 space-y-1">
-                  <h4 className="font-bold text-slate-900 text-xs sm:text-sm">Tier 2: Review Committee / Grievance Redressal Committee (GRC) Adjudication</h4>
+                  <h5 className="font-bold text-slate-900 text-xs sm:text-sm">Tier 2: Review Committee / Grievance Redressal Committee (GRC) Adjudication</h5>
                   <p className="text-xs text-slate-600 leading-relaxed">
                     The <strong>Review Committee / GRC</strong> is led by the MD/CEO and Independent Directors. It reviews the reply, holds a hearing. And passes a reasoned order.
                   </p>
@@ -609,7 +609,7 @@ export default function WilfulDefaulterNoticeReplyPage() {
 
             {/* Section 3: Statutory Repercussions & Supreme Court Doctrine */}
             <section id="statutory-repercussions-jah-developers" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">3. Legal Repercussions of Wrongful Tagging</h2>
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">3. Legal Repercussions of Wrongful Tagging</h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 A wilful defaulter tag brings severe fines. It harms personal and corporate standing in four big ways:
               </p>
@@ -651,7 +651,7 @@ export default function WilfulDefaulterNoticeReplyPage() {
 
             {/* Section 4: Bank Balance Sheet Accounting, Forensic Audits & NPV Formula */}
             <section id="forensic-accounting-npv-formula" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">4. Bank Balance Sheet Accounting, Forensic Ledger Audits</h2>
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">4. Bank Balance Sheet Accounting, Forensic Ledger Audits</h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Knowing bank accounting rules helps your defense. Banks classify bad loans under strict RBI provisioning rules.
               </p>
@@ -723,7 +723,7 @@ export default function WilfulDefaulterNoticeReplyPage() {
 
             {/* Section 5: Infographic Banner */}
             <section id="wilful-defaulter-visual-roadmap" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">5. Wilful Defaulter Defense Roadmap</h2>
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">5. Wilful Defaulter Defense Roadmap</h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 The visual roadmap below shows the full 5-stage legal defense path. It starts when you get the Show Cause Notice. Next, you send a 21-day forensic reply. Then, you appear before the Grievance Redressal Committee (GRC). You disprove bad intent. Finally, you execute an bank compromise OTS with a ₹0 No Dues Certificate.
               </p>
@@ -758,7 +758,7 @@ export default function WilfulDefaulterNoticeReplyPage() {
 
             {/* Section 6: Rebuttal & Defense Strategy: Forensic Accounting & Writ Remedies */}
             <section id="rebuttal-defense-writ-remedies" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">6. Formulating the Legal Rebuttal</h2>
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">6. Formulating the Legal Rebuttal</h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Replying to a Show Cause Notice needs both legal and accounting proof. A simple plea of hard times will fail. You must base your defense on clear ledger data and RBI rules.
               </p>
@@ -768,25 +768,25 @@ export default function WilfulDefaulterNoticeReplyPage() {
 
               <div className="space-y-3 my-4">
                 <div className="p-4 rounded-xl border-l-4 border-blue-600 bg-slate-50 space-y-1">
-                  <h3 className="font-bold text-slate-900 text-xs sm:text-sm">Pillar 1: Demanding Primary Inspection Records &amp; Forensic Workpapers</h3>
+                  <h4 className="font-bold text-slate-900 text-xs sm:text-sm">Pillar 1: Demanding Primary Inspection Records &amp; Forensic Workpapers</h4>
                   <p className="text-xs text-slate-600 leading-relaxed">
                     Under the <em>Jah Developers</em> ruling, you have a legal right to see all bank evidence. In our first reply, we demand the full Forensic Audit report and committee notes. If the bank refuses to share them, any final order is unlawful.
                   </p>
                 </div>
                 <div className="p-4 rounded-xl border-l-4 border-indigo-600 bg-slate-50 space-y-1">
-                  <h4 className="font-bold text-slate-900 text-xs sm:text-sm">Pillar 2: Transaction-by-Transaction End-Use Certification</h4>
+                  <h5 className="font-bold text-slate-900 text-xs sm:text-sm">Pillar 2: Transaction-by-Transaction End-Use Certification</h5>
                   <p className="text-xs text-slate-600 leading-relaxed">
                     If the lender claims fund diversion, our accountants check every payout. We match loan transfers with vendor bills, purchase orders. And tax files. We issue certified end-use papers under the Bankers&apos. Books Evidence Act to prove funds went to real operations.
                   </p>
                 </div>
                 <div className="p-4 rounded-xl border-l-4 border-purple-600 bg-slate-50 space-y-1">
-                  <h4 className="font-bold text-slate-900 text-xs sm:text-sm">Pillar 3: Establishing External Commercial Hardship &amp; Force Majeure</h4>
+                  <h5 className="font-bold text-slate-900 text-xs sm:text-sm">Pillar 3: Establishing External Commercial Hardship &amp; Force Majeure</h5>
                   <p className="text-xs text-slate-600 leading-relaxed">
                     We gather documents showing outside economic events caused the shortfall. These include cancelled state orders, tariff hikes, rising raw material costs, or delayed client dues. Genuine business failure proves there was no deliberate fraud.
                   </p>
                 </div>
                 <div className="p-4 rounded-xl border-l-4 border-amber-600 bg-slate-50 space-y-1">
-                  <h4 className="font-bold text-slate-900 text-xs sm:text-sm">Pillar 4: High Court Article 226 Constitutional Writ Remedies</h4>
+                  <h5 className="font-bold text-slate-900 text-xs sm:text-sm">Pillar 4: High Court Article 226 Constitutional Writ Remedies</h5>
                   <p className="text-xs text-slate-600 leading-relaxed">
                     If the bank ignores the 21-day timeline, withholds audit files, or denies a hearing, we act fast. We file a Writ Petition under Article 226 of the Constitution of India in the High Court. High Courts regularly stay bank notices when fair procedure is broken.
                   </p>
@@ -800,7 +800,7 @@ export default function WilfulDefaulterNoticeReplyPage() {
 
             {/* Section 7: Grievance Redressal Committee (GRC) Personal Hearings */}
             <section id="grc-hearings-sanction-forensics" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">7. Grievance Redressal Committee (GRC) Personal Hearings</h2>
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">7. Grievance Redressal Committee (GRC) Personal Hearings</h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 The personal hearing before the Review Committee (or GRC) is the main internal review stage. Under RBI rules, senior bank leaders. This includes the MD or CEO and Independent Directors, lead this committee.
               </p>
@@ -854,7 +854,7 @@ export default function WilfulDefaulterNoticeReplyPage() {
 
             {/* Section 8: Compromise OTS, RBI No Dues Certificate & Bureau Rectification */}
             <section id="institutional-ots-ndc-cibil-recovery" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">8. Structuring an Institutional Compromise Settlement (OTS),</h2>
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">8. Structuring an Institutional Compromise Settlement (OTS),</h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Once the wilful defaulter notice is stayed or dropped, you can settle the loan. Under the <strong>RBI Framework on Compromise Settlements and Technical Write-offs (2023–2026)</strong>, lenders have full power to enter into compromise deals with borrowers facing wilful default claims.
               </p>
@@ -875,9 +875,9 @@ export default function WilfulDefaulterNoticeReplyPage() {
                 </ul>
               </div>
 
-              <h3 className="text-base sm:text-lg font-bold text-slate-900 pt-2">
+              <h4 className="text-base sm:text-lg font-bold text-slate-900 pt-2">
                 Credit Information Companies (CIC) De-Tagging &amp; CIBIL Bureau Restoration
-              </h3>
+              </h4>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 After you pay the agreed settlement sum, RBI Master Directions require the bank to update all four credit bureaus (TransUnion CIBIL, Experian, Equifax, CRIF High Mark) and CRILC:
               </p>
@@ -899,7 +899,7 @@ export default function WilfulDefaulterNoticeReplyPage() {
 
             {/* Section 9: Dispute Resolution Comparative Matrix */}
             <section id="regulatory-defense-matrix" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">9. Statutory Enforcement Comparative Matrix</h2>
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">9. Statutory Enforcement Comparative Matrix</h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Comparing Indian loan recovery laws shows why an early defense against a Wilful Defaulter notice is vital. Acting fast protects your freedom, credit score. And business assets:
               </p>
@@ -952,7 +952,7 @@ export default function WilfulDefaulterNoticeReplyPage() {
             {/* Section 10: SettleLoans Regulatory Defense Advisory + CompanySection */}
             <section id="company-resolution-section" className="space-y-6">
               <div className="border-t border-slate-200 pt-8 space-y-4">
-                <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">10. SettleLoans Regulatory Defense</h2>
+                <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">10. SettleLoans Regulatory Defense</h3>
                 <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                   Handling a Wilful Defaulter notice requires skilled advocates and forensic accountants. They know banking law, RBI Master Directions, and High Court writ procedures. SettleLoans provides complete defense support. We draft solid 21-day replies. We secure audit records under the <em>Jah Developers</em> rule. We defend you before Review Committees and GRC hearings. We obtain High Court stays against unlawful tagging. Finally, we negotiate structured settlements backed by a ₹0 No Dues Certificate.
                 </p>
@@ -966,7 +966,7 @@ export default function WilfulDefaulterNoticeReplyPage() {
             <section id="faqs" className="space-y-4 border-t border-slate-200 pt-8">
               <div className="flex items-center gap-2 mb-2">
                 <HelpCircle className="w-5 h-5 text-[#1F5EFF]" />
-                <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">11. FAQs: Wilful Defaulter Notice Reply &amp; Defense</h2>
+                <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">11. FAQs: Wilful Defaulter Notice Reply &amp; Defense</h3>
               </div>
               <p className="text-xs sm:text-sm text-slate-600 mb-6">
                 Direct, legally verified answers to essential questions regarding Wilful Defaulter show cause notices, 21-day representation timelines, GRC hearings, and One Time Settlements in India.
@@ -996,9 +996,9 @@ export default function WilfulDefaulterNoticeReplyPage() {
 
             {/* 5 Official Regulatory Links */}
             <section className="border-t border-slate-200 pt-8 mb-4">
-              <h3 className="text-xs sm:text-sm font-bold text-slate-900 mb-3 uppercase tracking-wider">
+              <h4 className="text-xs sm:text-sm font-bold text-slate-900 mb-3 uppercase tracking-wider">
                 Official Statutory &amp; Regulatory References
-              </h3>
+              </h4>
               <div className="grid grid-cols-1 sm:grid-cols-2 gap-2.5 text-xs">
                 <a
                   href="https://www.rbi.org.in"
@@ -1050,9 +1050,9 @@ export default function WilfulDefaulterNoticeReplyPage() {
 
             {/* 10 Related Guide Badges */}
             <section className="border-t border-slate-200 pt-8 mb-8">
-              <h3 className="text-xs sm:text-sm font-bold text-slate-900 mb-4 uppercase tracking-wider">
+              <h4 className="text-xs sm:text-sm font-bold text-slate-900 mb-4 uppercase tracking-wider">
                 Related Legal Defense &amp; Loan Resolution Guides
-              </h3>
+              </h4>
               <div className="flex flex-wrap gap-2">
                 <Link
                   href="/bank-filed-fir-for-loan-default"

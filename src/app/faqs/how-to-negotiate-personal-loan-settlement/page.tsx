@@ -298,7 +298,7 @@ export default function NegotiatePersonalLoanSettlementPage() {
                                 When we talk about negotiation, we are not talking about "dodging" a debt. We are talking about a professional compromise where the bank recognizes your inability to pay the full amount and agrees to accept a lump sum to close the account. This process, often referred to as a One Time Settlement (OTS) or a compromise settlement, is a recognized banking practice governed by broad RBI principles.
                             </p>
                             <div className="bg-blue-50 p-8 rounded-2xl border-l-4 border-blue-500 mb-8">
-                                <h3 className="text-lg font-bold text-blue-900 mb-4">The Psychology of the Lender</h3>
+                                <h4 className="text-lg font-bold text-blue-900 mb-4">The Psychology of the Lender</h4>
                                 <p className="text-blue-800">
                                     Banks are business entities. Their primary goal is to maximize profit and minimize loss. Once a loan becomes a Non-Performing Asset (NPA), it starts eating into the bank's profitability because they have to set aside "provisions" for that bad debt. This is why, after a certain point of delinquency, a bank is often happier to take 40% of the money back than to have 0% on a permanently failed asset.
                                 </p>
@@ -309,19 +309,19 @@ export default function NegotiatePersonalLoanSettlementPage() {
                         </section>
 
                         <section id="rbi-guidelines" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                                 RBI Guidelines: Your Legal Shield
-                            </h2>
+                            </h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 One of the biggest misconceptions in India is that borrowers have no rights once they default. This couldn't be further from the truth. The Reserve Bank of India (RBI) has issued several circulars and guidelines meant to protect borrowers from predatory practices.
                             </p>
                             <div className="grid md:grid-cols-2 gap-6 mb-8">
                                 <div className="bg-white p-6 rounded-xl border border-gray-200 shadow-sm">
-                                    <h3 className="font-bold text-lg mb-3 text-gray-900">Fair Recovery Practices</h3>
+                                    <h4 className="font-bold text-lg mb-3 text-gray-900">Fair Recovery Practices</h4>
                                     <p className="text-gray-700 text-sm">RBI prohibits recovery agents from using physical or mental harassment. They cannot call you before 8 AM or after 7 PM. They cannot threaten you or use abusive language.</p>
                                 </div>
                                 <div className="bg-white p-6 rounded-xl border border-gray-200 shadow-sm">
-                                    <h4 className="font-bold text-xl mb-3 text-gray-900">Compromise Settlement Policy</h4>
+                                    <h5 className="font-bold text-xl mb-3 text-gray-900">Compromise Settlement Policy</h5>
                                     <p className="text-gray-700 text-sm">Under the June 2023 RBI circular, regulated entities (Banks/NBFCs) must have a board-approved policy for compromise settlements for all borrowers, including individuals.</p>
                                 </div>
                             </div>
@@ -334,14 +334,14 @@ export default function NegotiatePersonalLoanSettlementPage() {
                         </section>
 
                         <section id="financial-assessment" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                                 The Foundation: Self-Financial Assessment
-                            </h2>
+                            </h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 You cannot negotiate effectively if you do not know exactly what you can afford. This is where most borrowers fail. They make a settlement offer out of fear, only to realize later that they don't have the cash to fulfill it.
                             </p>
                             <div className="bg-gray-50 p-8 rounded-2xl mb-8">
-                                <h3 className="text-lg font-bold mb-4">Steps for a Deep Audit:</h3>
+                                <h4 className="text-lg font-bold mb-4">Steps for a Deep Audit:</h4>
                                 <ul className="space-y-4">
                                     <li className="flex items-start">
                                         <span className="text-[var(--color-primary)] font-bold mr-3">01.</span>
@@ -363,9 +363,9 @@ export default function NegotiatePersonalLoanSettlementPage() {
                         </section>
 
                         <section id="negotiation-phase-1" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                                 Phase 1: Timing is the Secret Weapon
-                            </h2>
+                            </h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 In debt recovery, time is either your enemy or your best friend. If you have missed only one EMI, the bank will not settle. They still believe they can force you to pay the full amount through regular pressure.
                             </p>
@@ -378,7 +378,7 @@ export default function NegotiatePersonalLoanSettlementPage() {
                                         </div>
                                     </div>
                                     <div className="md:w-2/3 p-8">
-                                        <h3 className="text-xl font-bold text-gray-900 mb-4">The NPA Threshold</h3>
+                                        <h4 className="text-xl font-bold text-gray-900 mb-4">The NPA Threshold</h4>
                                         <p className="text-gray-700 leading-relaxed text-sm">
                                             Once you cross 90 days of non-payment, your account is classified as a Non-Performing Asset (NPA). This is the "Golden Window" for negotiation. The bank's focus shifts from "how to get the full amount" to "how to get anything back at all".
                                         </p>
@@ -391,9 +391,9 @@ export default function NegotiatePersonalLoanSettlementPage() {
                         </section>
 
                         <section id="negotiation-phase-2" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                                 Phase 2: The Art of the First Offer
-                            </h2>
+                            </h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 When the bank finally calls you to discuss a settlement, or when you decide to reach out to their settlement department, never accept their first offer. It is always a high-ball figure designed to see if you have hidden funds.
                             </p>
@@ -401,7 +401,7 @@ export default function NegotiatePersonalLoanSettlementPage() {
                                 <strong>Strategy:</strong> Start with a figure that is intentionally low but not insulting. If you owe 10 lakhs, the bank might offer to settle at 7 lakhs. You should counter-offer with 2 lakhs, explaining your extreme hardship.
                             </p>
                             <div className="bg-orange-50 p-8 rounded-2xl border border-orange-200 mb-8">
-                                <h3 className="text-lg font-bold text-orange-950 mb-4 italic">Pro Tip: Use the "Third Party" Technique</h3>
+                                <h4 className="text-lg font-bold text-orange-950 mb-4 italic">Pro Tip: Use the "Third Party" Technique</h4>
                                 <p className="text-orange-900 leading-relaxed font-medium">
                                     "I don't have this money myself. My elderly parents/spouse/friend is willing to lend me a specific amount (say 2.5 lakhs) only if it settles this loan completely. Otherwise, they will use that money for my medical bills." This shifts the focus from your income to a limited external resource that the bank might lose if they don't act fast.
                                 </p>
@@ -412,27 +412,27 @@ export default function NegotiatePersonalLoanSettlementPage() {
                         </section>
 
                         <section id="negotiation-phase-3" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                                 Phase 3: Leveraging Hardship Proofs
-                            </h2>
+                            </h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 In professional negotiation, "Truth is the ultimate leverage". If you are genuinely in trouble, you have nothing to hide. Presenting documents makes your case credible.
                             </p>
                             <div className="grid sm:grid-cols-2 gap-4 mb-8">
                                 <div className="p-4 bg-white border border-gray-100 rounded-xl shadow-sm">
-                                    <h3 className="font-bold text-gray-800 mb-2">Medical Hardship</h3>
+                                    <h4 className="font-bold text-gray-800 mb-2">Medical Hardship</h4>
                                     <p className="text-xs text-gray-600">Provide hospital discharge summaries, bills exceeding 1 lakh, or proof of chronic illness requiring ongoing expensive treatment.</p>
                                 </div>
                                 <div className="p-4 bg-white border border-gray-100 rounded-xl shadow-sm">
-                                    <h4 className="font-bold text-gray-800 mb-2">Employment Loss</h4>
+                                    <h5 className="font-bold text-gray-800 mb-2">Employment Loss</h5>
                                     <p className="text-xs text-gray-600">Termination letter, a 'closed' business registration certificate, or bank statements showing zero salary inflow for 3+ months.</p>
                                 </div>
                                 <div className="p-4 bg-white border border-gray-100 rounded-xl shadow-sm">
-                                    <h5 className="font-bold text-gray-800 mb-2">Family Crisis</h5>
+                                    <h6 className="font-bold text-gray-800 mb-2">Family Crisis</h6>
                                     <p className="text-xs text-gray-600">Death certificate of the primary breadwinner or proof of sudden legal liabilities in the family.</p>
                                 </div>
                                 <div className="p-4 bg-white border border-gray-100 rounded-xl shadow-sm">
-                                    <h5 className="font-bold text-gray-800 mb-2">Multi-Debt Scenario</h5>
+                                    <h6 className="font-bold text-gray-800 mb-2">Multi-Debt Scenario</h6>
                                     <p className="text-xs text-gray-600">Show the bank that you have 5 other lenders. "I have 5 lakhs total. Whoever settles first with 1 lakh gets it. The rest get nothing."</p>
                                 </div>
                             </div>
@@ -442,9 +442,9 @@ export default function NegotiatePersonalLoanSettlementPage() {
                         </section>
 
                         <section id="common-mistakes" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                                 10 Fatal Negotiation Mistakes
-                            </h2>
+                            </h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 Avoiding these pitfalls is just as important as knowing the strategies. One wrong move can restart the whole recovery process.
                             </p>
@@ -464,7 +464,7 @@ export default function NegotiatePersonalLoanSettlementPage() {
                                     <div key={idx} className="flex gap-4 p-5 rounded-2xl bg-gray-50 border border-gray-100">
                                         <div className="flex-shrink-0 w-8 h-8 rounded-full bg-red-100 text-red-600 flex items-center justify-center font-bold">{idx + 1}</div>
                                         <div>
-                                            <h3 className="font-bold text-gray-900">{item.t}</h3>
+                                            <h4 className="font-bold text-gray-900">{item.t}</h4>
                                             <p className="text-sm text-gray-600">{item.d}</p>
                                         </div>
                                     </div>
@@ -473,9 +473,9 @@ export default function NegotiatePersonalLoanSettlementPage() {
                         </section>
 
                         <section id="settlement-letter-checklist" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                                 The Settlement Letter Checklist
-                            </h2>
+                            </h3>
                             <p className="text-lg leading-relaxed mb-8">
                                 The "Settlement Letter" or "Compromise Offer Letter" is the most important document in this process. Before you make any payment, ensure these 8 elements are present:
                             </p>
@@ -527,14 +527,14 @@ export default function NegotiatePersonalLoanSettlementPage() {
                         </section>
 
                         <section id="post-settlement" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                                 Life After Settlement: Rebuilding
-                            </h2>
+                            </h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 Settling a loan is not the end of your financial journey; it's a new beginning. Your CIBIL score will likely be in the 500s or 600s after settlement. No bank will give you a fresh unsecured loan for the next 2-3 years. That's the price you pay for the discount.
                             </p>
                             <div className="bg-[var(--color-section-light)] p-8 rounded-2xl border border-[var(--color-border)] mb-8 text-center">
-                                <h3 className="text-2xl font-bold text-[var(--color-text-hero)] mb-4">How to Rebuild in 3 Steps</h3>
+                                <h4 className="text-2xl font-bold text-[var(--color-text-hero)] mb-4">How to Rebuild in 3 Steps</h4>
                                 <div className="grid md:grid-cols-3 gap-6 text-left">
                                     <div className="p-4">
                                         <div className="text-sm font-bold text-[#1F5EFF] mb-2">STEP 01</div>
@@ -556,26 +556,26 @@ export default function NegotiatePersonalLoanSettlementPage() {
                         </section>
 
                         <section id="why-settleloans" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                                 Why Use Professional Negotiators?
-                            </h2>
+                            </h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 You can technically negotiate your own debt. However, just like you can technically represent yourself in court, it's rarely the optimal choice. Professional firms like SettleLoans bring three things to the table that an individual cannot:
                             </p>
                             <div className="grid sm:grid-cols-3 gap-6 mb-8">
                                 <div className="flex flex-col items-center text-center p-6 bg-white border border-gray-100 rounded-2xl hover:shadow-lg transition-all">
                                     <div className="w-12 h-12 bg-blue-100 rounded-full flex items-center justify-center text-blue-600 mb-4 font-bold text-xl">1</div>
-                                    <h3 className="font-bold mb-2">Benchmarking</h3>
+                                    <h4 className="font-bold mb-2">Benchmarking</h4>
                                     <p className="text-xs text-gray-500 font-medium">We know the exact 'floor price' for HDFC, ICICI, SBI, etc. We know when they are bluffing and when they are serious.</p>
                                 </div>
                                 <div className="flex flex-col items-center text-center p-6 bg-white border border-gray-100 rounded-2xl hover:shadow-lg transition-all">
                                     <div className="w-12 h-12 bg-purple-100 rounded-full flex items-center justify-center text-purple-600 mb-4 font-bold text-xl">2</div>
-                                    <h4 className="font-bold mb-2">Legal Shield</h4>
+                                    <h5 className="font-bold mb-2">Legal Shield</h5>
                                     <p className="text-xs text-gray-500 font-medium">As soon as you join us, our lawyers take over. We handle the notices and the harassment calls so you can work in peace.</p>
                                 </div>
                                 <div className="flex flex-col items-center text-center p-6 bg-white border border-gray-100 rounded-2xl hover:shadow-lg transition-all">
                                     <div className="w-12 h-12 bg-emerald-100 rounded-full flex items-center justify-center text-emerald-600 mb-4 font-bold text-xl">3</div>
-                                    <h4 className="font-bold mb-2">Audit Safety</h4>
+                                    <h5 className="font-bold mb-2">Audit Safety</h5>
                                     <p className="text-xs text-gray-500 font-medium">We ensure the documentation is 100% authentic. We protect you from fake recovery letters and agent fraud.</p>
                                 </div>
                             </div>
@@ -585,7 +585,7 @@ export default function NegotiatePersonalLoanSettlementPage() {
                         </section>
 
                         <section id="faqs" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-bold text-[var(--color-primary)] mt-16 mb-8">Expert Negotiation FAQs</h2>
+                            <h3 className="text-3xl md:text-4xl font-bold text-[var(--color-primary)] mt-16 mb-8">Expert Negotiation FAQs</h3>
                             <div className="space-y-4 not-prose">
                                 {[
                                     {
@@ -644,7 +644,7 @@ export default function NegotiatePersonalLoanSettlementPage() {
                             </div>
                         </section>
 
-                        <h2 id="reviews" className="scroll-mt-32 text-2xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 text-center uppercase tracking-tighter font-sans">Client Success Stories</h2>
+                        <h3 id="reviews" className="scroll-mt-32 text-2xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 text-center uppercase tracking-tighter font-sans">Client Success Stories</h3>
                         <div className="grid md:grid-cols-2 gap-4 md:gap-6 not-prose mb-16 text-left">
                             {[
                                 {
@@ -679,7 +679,7 @@ export default function NegotiatePersonalLoanSettlementPage() {
                                 <div key={i} className="bg-white p-5 md:p-6 rounded-2xl border border-[var(--color-border)] shadow-sm hover:shadow-md transition-all">
                                     <div className="flex items-center mb-4">
                                         <div className="w-10 h-10 rounded-full bg-[#1F5EFF]/10 flex items-center justify-center font-bold text-[#1F5EFF] mr-3">{review.name.charAt(0)}</div>
-                                        <div><h3 className="font-bold text-[#2E2E2E]">{review.name}</h3><p className="text-xs text-gray-400">{review.loc}</p></div>
+                                        <div><h4 className="font-bold text-[#2E2E2E]">{review.name}</h4><p className="text-xs text-gray-400">{review.loc}</p></div>
                                         <div className="ml-auto text-yellow-400 text-sm flex gap-0.5">
                                             <FontAwesomeIcon icon={faStar} className="w-3.5 h-3.5" />
                                             <FontAwesomeIcon icon={faStar} className="w-3.5 h-3.5" />
@@ -711,7 +711,7 @@ export default function NegotiatePersonalLoanSettlementPage() {
                         <section className="bg-[#1F5EFF] rounded-[10px] p-8 md:p-12 text-center text-white relative overflow-hidden shadow-2xl">
                             <div className="absolute top-0 right-0 w-64 h-64 bg-white/10 rounded-full -mr-32 -mt-32"></div>
                             <div className="relative z-10">
-                                <h2 className="text-3xl md:text-5xl font-black mb-6 uppercase tracking-tighter">Ready to Start Your Negotiation?</h2>
+                                <h3 className="text-3xl md:text-5xl font-black mb-6 uppercase tracking-tighter">Ready to Start Your Negotiation?</h3>
                                 <p className="text-lg md:text-2xl opacity-90 max-w-2xl mx-auto mb-10 leading-tight font-normal">
                                     Join 10,000+ Indians who have successfully settled their debts with professional help. Break the debt cycle today.
                                 </p>
@@ -725,7 +725,7 @@ export default function NegotiatePersonalLoanSettlementPage() {
                         <div className="lg:hidden mt-16 mb-8">
                             <div className="bg-white rounded-[10px] shadow-[0_8px_30px_rgb(0,0,0,0.06)] overflow-hidden border border-[var(--color-border)]">
                                 <div className="bg-[#1F5EFF] p-6 text-center text-white">
-                                    <h3 className="text-2xl font-bold mb-2 uppercase tracking-wide">Professional Help</h3>
+                                    <h4 className="text-2xl font-bold mb-2 uppercase tracking-wide">Professional Help</h4>
                                     <p className="opacity-90 text-sm">Let our experts handle the negotiations for you.</p>
                                 </div>
                                 <div className="p-8 text-center">

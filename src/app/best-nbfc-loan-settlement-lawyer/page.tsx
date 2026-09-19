@@ -259,7 +259,7 @@ export default function NBFCLoanSettlementLawyerPage() {
                                 A loan settlement: legally known as a One-Time Settlement (OTS) - is a voluntary agreement where the lender accepts a lower amount than the total outstanding to close the file. For an NBFC, it is a way to recover some money from a 'Non-Performing Asset' (NPA). For you, it is a path to regain your financial life. But doing it without professional legal representation is like entering a lion's den without a shield.
                             </p>
                             <div className="bg-blue-50 p-10 rounded-[32px] border-2 border-blue-100 my-12 shadow-sm">
-                                <h3 className="text-2xl font-black text-blue-900 mb-6 uppercase tracking-wider italic">The Power Shift</h3>
+                                <h4 className="text-2xl font-black text-blue-900 mb-6 uppercase tracking-wider italic">The Power Shift</h4>
                                 <p className="text-lg text-blue-800 leading-relaxed font-medium">
                                     In the landscape of debt, information is power. Lenders know exactly what they can and cannot do under the law, but they count on you not knowing. Our mission is to shift that power back to you by using the <strong>RBI Master Circulars</strong> as our primary weapon of negotiation.
                                 </p>
@@ -267,36 +267,36 @@ export default function NBFCLoanSettlementLawyerPage() {
                         </section>
 
                         <section id="rbi-fair-practices-code" className="scroll-mt-32 mb-20">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 uppercase tracking-widest border-b-8 border-gray-100 pb-4">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 uppercase tracking-widest border-b-8 border-gray-100 pb-4">
                                 RBI's Fair Practices Code: Your Statutory Bill of Rights
-                            </h2>
+                            </h3>
                             <p className="mb-8 font-medium italic">
                                 Most borrowers are unaware that the Reserve Bank of India (RBI) has laid down strict rules for how NBFCs must treat borrowers who have defaulted. This is known as the <strong>Fair Practices Code (FPC)</strong>.
                             </p>
                             <div className="grid md:grid-cols-2 gap-8 my-12">
                                 <div className="p-8 bg-gray-50 rounded-[40px] border border-gray-100 shadow-sm transition-all hover:border-[#1F5EFF]/30">
-                                    <h3 className="text-xl font-black text-[#1F5EFF] mb-4 uppercase">Dignity in Recovery</h3>
+                                    <h4 className="text-xl font-black text-[#1F5EFF] mb-4 uppercase">Dignity in Recovery</h4>
                                     <p className="text-sm leading-relaxed font-bold">Lenders are prohibited from using abusive language, physical threats, or harassing your family and neighbors. Any violation of this is a ground for immediate legal action.</p>
                                 </div>
                                 <div className="p-8 bg-gray-50 rounded-[40px] border border-gray-100 shadow-sm transition-all hover:border-[#1F5EFF]/30">
-                                    <h4 className="text-xl font-black text-[#1F5EFF] mb-4 uppercase">Restricted Contact</h4>
+                                    <h5 className="text-xl font-black text-[#1F5EFF] mb-4 uppercase">Restricted Contact</h5>
                                     <p className="text-sm leading-relaxed font-bold">Recovery agents cannot visit you at midnight or contact you repeatedly at your workplace. The permissible window for communication is strictly 8 AM to 7 PM.</p>
                                 </div>
                                 <div className="p-8 bg-gray-50 rounded-[40px] border border-gray-100 shadow-sm transition-all hover:border-[#1F5EFF]/30">
-                                    <h4 className="text-xl font-black text-[#1F5EFF] mb-4 uppercase">Transparency in Terms</h4>
+                                    <h5 className="text-xl font-black text-[#1F5EFF] mb-4 uppercase">Transparency in Terms</h5>
                                     <p className="text-sm leading-relaxed font-bold">Any change in interest rates or addition of penal charges must be communicated to you in writing. Hidden fees that are not in the original contract cannot be enforced.</p>
                                 </div>
                                 <div className="p-8 bg-gray-50 rounded-[40px] border border-gray-100 shadow-sm transition-all hover:border-[#1F5EFF]/30">
-                                    <h4 className="text-xl font-black text-[#1F5EFF] mb-4 uppercase">Grievance Redressal</h4>
+                                    <h5 className="text-xl font-black text-[#1F5EFF] mb-4 uppercase">Grievance Redressal</h5>
                                     <p className="text-sm leading-relaxed font-bold">Every NBFC must have a dedicated Nodal Officer. If they don't resolve your issue, you have the right to move the RBI Integrated Ombudsman.</p>
                                 </div>
                             </div>
                         </section>
 
                         <section id="role-of-settlement-lawyer" className="scroll-mt-32 mb-20 p-12 bg-gray-900 rounded-[48px] text-white shadow-2xl">
-                            <h2 className="text-3xl md:text-4xl font-black mb-8 uppercase tracking-tighter italic text-blue-400">
+                            <h3 className="text-3xl md:text-4xl font-black mb-8 uppercase tracking-tighter italic text-blue-400">
                                 Why You Need the Best NBFC Settlement Lawyer
-                            </h2>
+                            </h3>
                             <p className="mb-8 text-xl leading-relaxed opacity-80 font-medium">
                                 Attempting a settlement on your own is like representing yourself in a high-stakes litigation. NBFCs have teams of seasoned legal and recovery experts whose goal is to maximize their recovery at your expense.
                             </p>
@@ -309,23 +309,23 @@ export default function NBFCLoanSettlementLawyerPage() {
                         </section>
 
                         <section id="ots-negotiation-strategy" className="scroll-mt-32 mb-20 mt-20">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 border-l-8 border-[#1F5EFF] pl-6 uppercase tracking-widest">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 border-l-8 border-[#1F5EFF] pl-6 uppercase tracking-widest">
                                 The OTS Negotiation Masterclass: Strategic Phases
-                            </h2>
+                            </h3>
                             <p className="mb-8 leading-relaxed">
                                 A successful NBFC settlement is not a single phone call; it is a systematic process that evolves through three distinct phases.
                             </p>
                             <div className="space-y-10">
                                 <div>
-                                    <h3 className="text-2xl font-black text-[#2E2E2E] mb-4 uppercase tracking-tighter"><span className="text-[#1F5EFF]">Phase 1:</span> Hardship Documentation</h3>
+                                    <h4 className="text-2xl font-black text-[#2E2E2E] mb-4 uppercase tracking-tighter"><span className="text-[#1F5EFF]">Phase 1:</span> Hardship Documentation</h4>
                                     <p className="leading-relaxed">We help you compile a 'Hardship Manifesto': a set of legally valid proofs (medical reports, job termination letters, bank statements) that prove your inability to pay is genuine and not a 'Willful Default'. NBFCs are legally mandated to consider genuine hardship under the <strong>RBI Prudential Framework</strong>.</p>
                                 </div>
                                 <div>
-                                    <h4 className="text-2xl font-black text-[#2E2E2E] mb-4 uppercase tracking-tighter"><span className="text-[#1F5EFF]">Phase 2:</span> The Anchor Offer</h4>
+                                    <h5 className="text-2xl font-black text-[#2E2E2E] mb-4 uppercase tracking-tighter"><span className="text-[#1F5EFF]">Phase 2:</span> The Anchor Offer</h5>
                                     <p className="leading-relaxed">Instead of waiting for the bank to offer a settlement, we proactively initiate the <strong>Anchor Offer</strong>. This offer is drafted with technical precision, highlighting the legal risks the bank faces if they choose litigation over settlement. We anchor the negotiation at the lowest possible principal-only amount.</p>
                                 </div>
                                 <div>
-                                    <h4 className="text-2xl font-black text-[#2E2E2E] mb-4 uppercase tracking-tighter"><span className="text-[#1F5EFF]">Phase 3:</span> Final Resolution & Verification</h4>
+                                    <h5 className="text-2xl font-black text-[#2E2E2E] mb-4 uppercase tracking-tighter"><span className="text-[#1F5EFF]">Phase 3:</span> Final Resolution & Verification</h5>
                                     <p className="leading-relaxed">Once the amount is agreed upon, we strictly monitor the receipt of the formal <strong>OTS Letter</strong>. We verify it to ensure it includes the loan number, the settlement breakdown, the payment timeline, and a clear clause for the withdrawal of all ongoing legal cases (including Section 138/Cheque Bounce or SARFAESI actions).</p>
                                 </div>
                             </div>
@@ -333,7 +333,7 @@ export default function NBFCLoanSettlementLawyerPage() {
 
                         <section id="stopping-recovery-harassment" className="scroll-mt-32 mb-20 p-10 bg-red-50 rounded-[40px] border-2 border-red-100 shadow-sm relative overflow-hidden">
                             <div className="absolute top-0 right-0 w-32 h-32 bg-red-500/5 rounded-full -mr-16 -mt-16"></div>
-                            <h2 className="text-3xl font-black text-red-900 mb-6 uppercase italic">The "Red Card" Protocol: Stopping Recovery Harassment</h2>
+                            <h3 className="text-3xl font-black text-red-900 mb-6 uppercase italic">The "Red Card" Protocol: Stopping Recovery Harassment</h3>
                             <p className="text-lg text-red-800 leading-relaxed font-medium mb-6">
                                 If you are being harassed by recovery agents, you are a victim of a crime. Under the <strong>Indian Penal Code (IPC)</strong> and RBI directions, harassment is illegal. We help you trigger the 'Red Card' protocol:
                             </p>
@@ -346,9 +346,9 @@ export default function NBFCLoanSettlementLawyerPage() {
                         </section>
 
                         <section id="nbfc-specific-policies" className="scroll-mt-32 mb-20">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 uppercase tracking-tighter decoration-[#1F5EFF] underline underline-offset-8">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 uppercase tracking-tighter decoration-[#1F5EFF] underline underline-offset-8">
                                 NBFC-Specific Settlement Policies: Know Your Opponent
-                            </h2>
+                            </h3>
                             <p className="mb-8 leading-relaxed">
                                 Not all NBFCs are created equal. Some follow the 'Prudential Norms' strictly, while others might be more flexible. For instance, major players have board-approved <strong>OTS Policies</strong> that specify different waiver percentages for unsecured personal loans versus secured business loans.
                             </p>
@@ -356,7 +356,7 @@ export default function NBFCLoanSettlementLawyerPage() {
                                 We maintain an internal database of the settlement behavior and recent 'Success Thresholds' of major NBFCs in India. This data-driven approach allows us to tell you exactly what percentage of a waiver is realistic for your specific lender. Whether it's a fintech startup or a legacy financial powerhouse, we know who is likely to settle and for how much.
                             </p>
                             <div className="bg-gray-50 border-2 border-dashed border-gray-200 p-8 rounded-[40px] my-12 text-center">
-                                <h3 className="text-2xl font-black text-gray-400 mb-4 uppercase">Fact Check: The 90-Day Rule</h3>
+                                <h4 className="text-2xl font-black text-gray-400 mb-4 uppercase">Fact Check: The 90-Day Rule</h4>
                                 <p className="text-lg font-bold text-[#2E2E2E] italic leading-relaxed">
                                     "Most NBFCs will only entertain a settlement offer once the loan has officially become an NPA (Non-Performing Asset), which usually happens after 90 days of consecutive non-payment. Proving your inability to pay during this period is the key to a 75% waiver."
                                 </p>
@@ -364,9 +364,9 @@ export default function NBFCLoanSettlementLawyerPage() {
                         </section>
 
                         <section id="documenting-the-closure" className="scroll-mt-32 mb-20">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 uppercase italic border-l-8 border-gray-900 pl-6">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 uppercase italic border-l-8 border-gray-900 pl-6">
                                 The Final Guardian: Documenting Your Loan Closure
-                            </h2>
+                            </h3>
                             <p className="mb-8 text-lg leading-relaxed">
                                 The greatest mistake a borrower can make is paying the settlement amount without the correct legal paperwork. A payment without an <strong>OTS Letter</strong> is just an EMI; it doesn't close the account.
                             </p>
@@ -374,7 +374,7 @@ export default function NBFCLoanSettlementLawyerPage() {
                                 After payment, you MUST obtain a <strong>No Dues Certificate (NDC)</strong> or a <strong>Release Letter</strong>. This document must state that the lender has no further claim on you, your assets, or your legal heirs. If the loan was secured, we also ensure that the bank files the 'Satisfaction of Charge' with the Registrar of Companies (for businesses) or returns the 'Original Documents' and releases the mortgage (for individuals). Without these steps, the loan remains an open wound in your credit history.
                             </p>
                             <div className="bg-[#1F5EFF]/5 border-2 border-dashed border-[#1F5EFF]/20 p-10 rounded-[40px] my-12">
-                                <h3 className="text-2xl font-black text-[#2E2E2E] mb-4 uppercase">The Release of Documents Clock</h3>
+                                <h4 className="text-2xl font-black text-[#2E2E2E] mb-4 uppercase">The Release of Documents Clock</h4>
                                 <p className="text-lg leading-relaxed font-medium">
                                     RBI guidelines issued in late 2023 mandate that all banks and NBFCs MUST release original property documents within <strong>30 days</strong> of full settlement. Failure to do so attracts a penalty of ₹5,000 for every day of delay, payable to the borrower. We ensure our clients receive this compensation if the lender is negligent.
                                 </p>
@@ -382,9 +382,9 @@ export default function NBFCLoanSettlementLawyerPage() {
                         </section>
 
                         <section id="cibil-credit-repair" className="scroll-mt-32 mb-20">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 uppercase tracking-[0.2em] decoration-[#1F5EFF] underline underline-offset-8">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 uppercase tracking-[0.2em] decoration-[#1F5EFF] underline underline-offset-8">
                                 CIBIL & Credit Restoration: Life After Settlement
-                            </h2>
+                            </h3>
                             <p className="mb-8 text-xl font-bold italic">
                                 "A settlement is a temporary setback, not a permanent exclusion from the financial system."
                             </p>
@@ -408,9 +408,9 @@ export default function NBFCLoanSettlementLawyerPage() {
                         </section>
 
                         <section id="legal-recourse-ombudsman" className="scroll-mt-32 mb-20">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">
                                 The RBI Ombudsman: The Ultimate Legal Deterrent
-                            </h2>
+                            </h3>
                             <p className="mb-8 text-lg">
                                 If an NBFC refuses to negotiate reasonably despite genuine hardship, or if they continue harassment after receiving a legal notice, we escalate the matter to the <strong>RBI Integrated Ombudsman</strong>.
                             </p>
@@ -456,7 +456,7 @@ export default function NBFCLoanSettlementLawyerPage() {
                         </section>
 
                         <section id="faqs" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 uppercase tracking-widest leading-none">NBFC Settlement Authority FAQs</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 uppercase tracking-widest leading-none">NBFC Settlement Authority FAQs</h3>
                             <div className="space-y-4 not-prose">
                                 {jsonLd["@graph"][4]["mainEntity"]?.map((faq: any, i: number) => (
                                     <details key={i} className="group bg-white border border-[#DEDEDE] rounded-xl overflow-hidden hover:shadow-md transition-all border-b-4 border-b-[#1F5EFF]/20 shadow-sm">
@@ -484,7 +484,7 @@ export default function NBFCLoanSettlementLawyerPage() {
                         <div className="lg:hidden mt-16 mb-8">
                             <div className="bg-[#2E2E2E] rounded-2xl shadow-xl overflow-hidden border border-[#1F5EFF]/20">
                                 <div className="bg-[#1F5EFF] p-6 text-center text-white">
-                                    <h3 className="text-2xl font-black mb-2 uppercase tracking-tighter">Ready to Start Over?</h3>
+                                    <h4 className="text-2xl font-black mb-2 uppercase tracking-tighter">Ready to Start Over?</h4>
                                     <p className="opacity-90 text-sm italic font-medium">Join 10,000+ Indians we've helped find their way to financial freedom and legal peace.</p>
                                 </div>
                                 <div className="p-8 text-center text-[#DEDEDE]">

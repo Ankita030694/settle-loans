@@ -270,17 +270,17 @@ export default function ExperianCreditHistoryPage() {
 
             {/* Blue Important Box Section */}
             <section id="experian-vs-cibil" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 Experian Credit Report vs CIBIL
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 While both bureaus serve the same fundamental purpose—tracking your borrowing and repayment history—there are subtle differences in how they calculate your score and process data from lenders.
               </p>
               
               <div className="bg-blue-50 border-l-8 border-[#1F5EFF] p-8 rounded-r-2xl mb-8">
-                <h3 className="text-xl font-black text-[#1F5EFF] mb-4">
+                <h4 className="text-xl font-black text-[#1F5EFF] mb-4">
                   Key Differences You Should Know
-                </h3>
+                </h4>
                 <ul className="space-y-4">
                   <li className="flex items-start gap-3">
                     <div className="mt-1.5 w-2 h-2 rounded-full bg-[#1F5EFF] flex-shrink-0"></div>
@@ -300,43 +300,43 @@ export default function ExperianCreditHistoryPage() {
 
             {/* 4-Grid Info Boxes */}
             <section id="check-score-free" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 How to Check Experian Score Free
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 You are legally entitled to one free full credit report per year from every credit bureau in India, including Experian. Don't fall for aggregator sites that demand monthly subscriptions.
               </p>
               
               <div className="grid md:grid-cols-2 gap-6 my-8">
                 <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
-                  <h3 className="font-black text-[#1F5EFF] text-lg mb-3">1. Official Experian Portal</h3>
+                  <h4 className="font-black text-[#1F5EFF] text-lg mb-3">1. Official Experian Portal</h4>
                   <p className="text-gray-700">Visit the official Experian India website. They offer a direct "Free Credit Report" portal where you just need your PAN and mobile number.</p>
                 </div>
                 <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
-                  <h3 className="font-black text-[#1F5EFF] text-lg mb-3">2. Bank Apps (Soft Pull)</h3>
+                  <h4 className="font-black text-[#1F5EFF] text-lg mb-3">2. Bank Apps (Soft Pull)</h4>
                   <p className="text-gray-700">Many major banking apps (like HDFC, ICICI, or Kotak) have an inbuilt free credit score checker powered by Experian.</p>
                 </div>
                 <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
-                  <h3 className="font-black text-[#1F5EFF] text-lg mb-3">3. WhatsApp Access</h3>
+                  <h4 className="font-black text-[#1F5EFF] text-lg mb-3">3. WhatsApp Access</h4>
                   <p className="text-gray-700">Experian recently launched a WhatsApp bot. You can get your credit score by sending a simple "Hi" to their official verified business number.</p>
                 </div>
                 <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
-                  <h3 className="font-black text-[#1F5EFF] text-lg mb-3">4. FinTech Platforms</h3>
+                  <h4 className="font-black text-[#1F5EFF] text-lg mb-3">4. FinTech Platforms</h4>
                   <p className="text-gray-700">Apps like Cred, Paytm, or PolicyBazaar often provide free Experian updates, though they may use your data for cross-selling.</p>
                 </div>
               </div>
 
               <div className="bg-gray-50 p-8 rounded-2xl mb-8 border border-gray-200">
-                <h4 className="text-xl font-bold text-gray-800 mb-2">Insight: Soft vs Hard Inquiries</h4>
+                <h5 className="text-xl font-bold text-gray-800 mb-2">Insight: Soft vs Hard Inquiries</h5>
                 <p className="text-gray-700">Checking your own Experian score through these free methods is considered a <strong>Soft Inquiry</strong>. It will absolutely NOT lower your credit score, no matter how many times you check it.</p>
               </div>
             </section>
 
             {/* Numbered Steps Section */}
             <section id="fix-errors" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 Fix Experian Credit History Errors
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 Found a default you never made? An active loan you already closed? Errors in Experian reports are surprisingly common. Here is the exact step-by-step process to dispute and fix them.
               </p>
@@ -345,7 +345,7 @@ export default function ExperianCreditHistoryPage() {
                 <div className="flex gap-6">
                   <div className="flex-shrink-0 w-12 h-12 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center font-black text-xl shadow-lg">1</div>
                   <div>
-                    <h3 className="text-2xl font-bold text-[#2E2E2E] mb-3">Download the Full Report</h3>
+                    <h4 className="text-2xl font-bold text-[#2E2E2E] mb-3">Download the Full Report</h4>
                     <p className="text-lg text-gray-700 leading-relaxed">Don't just look at the score. Download the full PDF report from Experian. You need to identify the exact <strong>Account Number</strong> and <strong>Lender Name</strong> associated with the error.</p>
                   </div>
                 </div>
@@ -353,7 +353,7 @@ export default function ExperianCreditHistoryPage() {
                 <div className="flex gap-6">
                   <div className="flex-shrink-0 w-12 h-12 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center font-black text-xl shadow-lg">2</div>
                   <div>
-                    <h3 className="text-2xl font-bold text-[#2E2E2E] mb-3">Raise an Online Dispute</h3>
+                    <h4 className="text-2xl font-bold text-[#2E2E2E] mb-3">Raise an Online Dispute</h4>
                     <p className="text-lg text-gray-700 leading-relaxed">Log into the Experian Consumer Services portal. Navigate to the Dispute section. Select the erroneous entry and submit a dispute ticket. You will receive a unique Dispute Reference Number.</p>
                   </div>
                 </div>
@@ -361,23 +361,23 @@ export default function ExperianCreditHistoryPage() {
                 <div className="flex gap-6">
                   <div className="flex-shrink-0 w-12 h-12 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center font-black text-xl shadow-lg">3</div>
                   <div>
-                    <h3 className="text-2xl font-bold text-[#2E2E2E] mb-3">The Verification Period (30 Days)</h3>
+                    <h4 className="text-2xl font-bold text-[#2E2E2E] mb-3">The Verification Period (30 Days)</h4>
                     <p className="text-lg text-gray-700 leading-relaxed">Experian cannot alter data on its own. They will contact the bank/lender who reported the data. The lender has 30 days under RBI guidelines to verify and respond.</p>
                   </div>
                 </div>
               </div>
 
               <div className="bg-red-50 p-6 rounded-xl border border-red-100 mb-8">
-                <h4 className="text-xl font-black text-red-700 mb-2">Warning: Fraudulent "Credit Repair" Agencies</h4>
+                <h5 className="text-xl font-black text-red-700 mb-2">Warning: Fraudulent "Credit Repair" Agencies</h5>
                 <p className="text-lg text-red-900">Never pay an agency that promises to "erase" your defaults from Experian illegally. True credit repair involves raising legitimate disputes or settling outstanding debts legally. Fake agencies will just take your money.</p>
               </div>
             </section>
 
             {/* Review / Success Stories */}
             <section id="success-stories" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 Success Stories: Recovering From Experian Errors
-              </h2>
+              </h3>
               
               <div className="grid md:grid-cols-2 gap-6 my-8">
                 <div className="bg-white p-8 rounded-[30px] border border-[#DEDEDE] shadow-sm hover:shadow-xl group transition-all duration-300">
@@ -387,7 +387,7 @@ export default function ExperianCreditHistoryPage() {
                         RS
                       </div>
                       <div>
-                        <h3 className="font-bold text-[#2E2E2E]">Rahul S.</h3>
+                        <h4 className="font-bold text-[#2E2E2E]">Rahul S.</h4>
                         <div className="flex text-yellow-400">
                           <svg className="w-4 h-4 fill-current" viewBox="0 0 20 20"><path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z"/></svg>
                           <svg className="w-4 h-4 fill-current" viewBox="0 0 20 20"><path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z"/></svg>
@@ -412,7 +412,7 @@ export default function ExperianCreditHistoryPage() {
                         PM
                       </div>
                       <div>
-                        <h4 className="font-bold text-[#2E2E2E]">Priya M.</h4>
+                        <h5 className="font-bold text-[#2E2E2E]">Priya M.</h5>
                         <div className="flex text-yellow-400">
                           <svg className="w-4 h-4 fill-current" viewBox="0 0 20 20"><path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z"/></svg>
                           <svg className="w-4 h-4 fill-current" viewBox="0 0 20 20"><path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z"/></svg>
@@ -434,9 +434,9 @@ export default function ExperianCreditHistoryPage() {
 
             {/* FAQs Section */}
             <section id="faqs" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">
                 Frequently Asked Questions
-              </h2>
+              </h3>
               <div className="space-y-4">
                 {[
                   { q: "Is Experian score better than CIBIL?", a: "Neither is universally 'better.' Both are credit bureaus licensed by the RBI. Some banks prefer CIBIL, while others heavily rely on Experian, especially for personal loans." },
@@ -451,7 +451,7 @@ export default function ExperianCreditHistoryPage() {
                   { q: "How can I improve my Experian score fast?", a: "Pay all dues on time, keep credit utilization below 30%, do not apply for multiple loans simultaneously, and regularly check for and dispute any errors." }
                 ].map((faq, i) => (
                   <div key={i} className="bg-white border border-[#DEDEDE] rounded-xl p-6 hover:shadow-md transition-shadow">
-                    <h3 className="text-xl font-bold text-[#2E2E2E] mb-2">{faq.q}</h3>
+                    <h4 className="text-xl font-bold text-[#2E2E2E] mb-2">{faq.q}</h4>
                     <p className="text-gray-700">{faq.a}</p>
                   </div>
                 ))}
@@ -462,7 +462,7 @@ export default function ExperianCreditHistoryPage() {
             <div className="bg-[#2E2E2E] text-white p-12 rounded-[40px] text-center mt-24 relative overflow-hidden group">
               <div className="absolute inset-0 bg-[#1F5EFF] opacity-0 group-hover:opacity-5 transition-opacity duration-300"></div>
               <div className="relative z-10">
-                <h3 className="text-3xl md:text-4xl font-black mb-4">Experian Score Too Low for a Loan?</h3>
+                <h4 className="text-3xl md:text-4xl font-black mb-4">Experian Score Too Low for a Loan?</h4>
                 <p className="text-lg md:text-xl text-gray-300 mb-8 max-w-2xl mx-auto">
                   If unpaid loans or credit card defaults have ruined your Experian credit history, we can help you legally settle them and start fresh.
                 </p>

@@ -290,7 +290,7 @@ export default function CibilDefaulterLoanPage() {
                         </section>
 
                         <section id="understanding-cibil" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">The Reality of Being a CIBIL Defaulter</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">The Reality of Being a CIBIL Defaulter</h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 First, it is crucial to understand that there is no official list titled "CIBIL Defaulters" maintained by the credit bureau. When people use this term, they usually refer to individuals who have one or more negative remarks on their credit report, such as "Written Off," "Settled," or consistent "Delayed Payments."
                             </p>
@@ -303,13 +303,13 @@ export default function CibilDefaulterLoanPage() {
                         </section>
 
                         <section id="top-nbfcs" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">Top NBFCs Providing Personal Loans for Low CIBIL Scores</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">Top NBFCs Providing Personal Loans for Low CIBIL Scores</h3>
                             <p className="text-lg leading-relaxed mb-8">
                                 NBFCs are generally more flexible than nationalized banks. They often charge a slightly higher interest rate to compensate for the higher risk, but they are far more likely to approve an application from someone with a less-than-perfect credit history.
                             </p>
                             <div className="space-y-6 mb-10">
                                 <div className="p-8 bg-gray-50 border-l-8 border-[#1F5EFF] rounded-r-2xl shadow-sm">
-                                    <h3 className="font-bold text-2xl mb-4 text-[#2E2E2E]">Tata Capital</h3>
+                                    <h4 className="font-bold text-2xl mb-4 text-[#2E2E2E]">Tata Capital</h4>
                                     <p className="text-base text-gray-700 leading-relaxed mb-4">
                                         Tata Capital has one of the most balanced approaches to credit. While they do check CIBIL scores, they also place significant weight on the borrower's employment with reputed companies and their overall debt-to-income ratio. If you have a stable job, they might consider your application even with a moderate score.
                                     </p>
@@ -318,7 +318,7 @@ export default function CibilDefaulterLoanPage() {
                                     </p>
                                 </div>
                                 <div className="p-8 bg-gray-50 border-l-8 border-[#1F5EFF] rounded-r-2xl shadow-sm">
-                                    <h4 className="font-bold text-2xl mb-4 text-[#2E2E2E]">Fullerton India (Poonawalla Fincorp)</h4>
+                                    <h5 className="font-bold text-2xl mb-4 text-[#2E2E2E]">Fullerton India (Poonawalla Fincorp)</h5>
                                     <p className="text-base text-gray-700 leading-relaxed mb-4">
                                         Fullerton is known for its wide reach and willingness to fund borrowers in both urban and semi-urban areas. They offer customized loan products for individuals who may not meet the strict criteria of large private banks.
                                     </p>
@@ -327,7 +327,7 @@ export default function CibilDefaulterLoanPage() {
                                     </p>
                                 </div>
                                 <div className="p-8 bg-gray-50 border-l-8 border-[#1F5EFF] rounded-r-2xl shadow-sm">
-                                    <h4 className="font-bold text-2xl mb-4 text-[#2E2E2E]">HDB Financial Services</h4>
+                                    <h5 className="font-bold text-2xl mb-4 text-[#2E2E2E]">HDB Financial Services</h5>
                                     <p className="text-base text-gray-700 leading-relaxed mb-4">
                                         As a subsidiary of HDFC Bank, HDB caters specifically to the segments that the parent bank might find too risky. They provide personal loans with minimal documentation and are often more lenient with credit score requirements for existing HDFC customers.
                                     </p>
@@ -339,32 +339,32 @@ export default function CibilDefaulterLoanPage() {
                         </section>
 
                         <section id="bank-options" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">Bank Options: Can You Ever Get a Loan from a Mainstream Bank?</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">Bank Options: Can You Ever Get a Loan from a Mainstream Bank?</h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 For most "CIBIL defaulters," getting an *unsecured* personal loan from a major bank like SBI, ICICI, or Axis is extremely difficult. However, these banks do offer specialized paths for those with bad credit:
                             </p>
                             <div className="grid md:grid-cols-2 gap-8 mb-10">
                                 <div className="p-6 bg-white border border-[#DEDEDE] rounded-xl">
-                                    <h3 className="font-bold text-[#1F5EFF] mb-3">Secured Credit Lines</h3>
+                                    <h4 className="font-bold text-[#1F5EFF] mb-3">Secured Credit Lines</h4>
                                     <p className="text-sm">Banks like ICICI and Kotak allow you to open a Fixed Deposit and take a loan or credit card against it. This is the fastest way to start rebuilding your CIBIL score. Since the loan is backed by your own money, the bank doesn't care about your past default history.</p>
                                 </div>
                                 <div className="p-6 bg-white border border-[#DEDEDE] rounded-xl">
-                                    <h4 className="font-bold text-[#1F5EFF] mb-3">Relationship-Based Lending</h4>
+                                    <h5 className="font-bold text-[#1F5EFF] mb-3">Relationship-Based Lending</h5>
                                     <p className="text-sm">If you have maintained a salary account with a bank for over 5 years and have never defaulted on *their* products, the bank's internal score might override your external CIBIL score. Banks like SBI often have "Pre-approved" offers for their long-term loyal customers.</p>
                                 </div>
                                 <div className="p-6 bg-white border border-[#DEDEDE] rounded-xl">
-                                    <h4 className="font-bold text-[#1F5EFF] mb-3">Small Finance Banks</h4>
+                                    <h5 className="font-bold text-[#1F5EFF] mb-3">Small Finance Banks</h5>
                                     <p className="text-sm">Banks like AU Small Finance Bank, Equitas, and Ujjivan are mandated to improve financial inclusion. They often have more personal assessment processes where they talk to the borrower to understand their story, rather than just clicking 'reject' based on a number.</p>
                                 </div>
                                 <div className="p-6 bg-white border border-[#DEDEDE] rounded-xl">
-                                    <h4 className="font-bold text-[#1F5EFF] mb-3">Micro-Lending Arms</h4>
+                                    <h5 className="font-bold text-[#1F5EFF] mb-3">Micro-Lending Arms</h5>
                                     <p className="text-sm">Many large banks have micro-finance departments that provide small loans (up to 50,000) to individuals in lower-income groups. These departments use community-based verification and are very flexible with credit scores.</p>
                                 </div>
                             </div>
                         </section>
 
                         <section id="fintech-apps" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">Fintech Apps: Instant Loans for CIBIL Defaulters</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">Fintech Apps: Instant Loans for CIBIL Defaulters</h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 The digital revolution has been a blessing for those with poor credit. Fintech apps use artificial intelligence to analyze your smartphone data (with permission), such as transaction SMS and app usage, to build a credit profile that traditional banks ignore.
                             </p>
@@ -388,7 +388,7 @@ export default function CibilDefaulterLoanPage() {
                         </section>
 
                         <section id="p2p-lending" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">Peer-to-Peer (P2P) Lending: Bypassing the Banks</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">Peer-to-Peer (P2P) Lending: Bypassing the Banks</h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 P2P lending platforms like **Faircent** and **LenDenClub** connect you directly with individual investors. These platforms act as facilitators and perform their own due diligence. Because the money comes from individuals seeking higher returns, they are often willing to take a chance on a "risky" borrower for a higher interest rate.
                             </p>
@@ -415,28 +415,28 @@ export default function CibilDefaulterLoanPage() {
                         </section>
 
                         <section id="secured-loans" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">Secured Loans: The Most Reliable Path for Defaulters</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">Secured Loans: The Most Reliable Path for Defaulters</h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 If you need a significant amount of money and have a history of defaults, an unsecured loan might not be the best strategy. Instead, look at "Secured Loans" where your credit score plays a secondary role.
                             </p>
                             <div className="space-y-6">
                                 <div className="p-6 bg-white border border-[#DEDEDE] rounded-xl shadow-sm">
-                                    <h3 className="font-bold text-xl mb-2 text-[#2E2E2E]">Gold Loans</h3>
+                                    <h4 className="font-bold text-xl mb-2 text-[#2E2E2E]">Gold Loans</h4>
                                     <p className="text-base">This is the most popular option in India. Banks like Muthoot Finance and Manappuram Finance provide loans within minutes. Your gold is the security, so your CIBIL score is irrelevant. The interest rates are also much lower than unsecured personal loans.</p>
                                 </div>
                                 <div className="p-6 bg-white border border-[#DEDEDE] rounded-xl shadow-sm">
-                                    <h4 className="font-bold text-xl mb-2 text-[#2E2E2E]">Loan Against Property (LAP)</h4>
+                                    <h5 className="font-bold text-xl mb-2 text-[#2E2E2E]">Loan Against Property (LAP)</h5>
                                     <p className="text-base">If you own a house or land, you can get a loan up to 60% of its market value. Even with a default on a personal loan, banks might give you a LAP because they have the right to sell the property if you fail to repay. This is great for business expansion or medical emergencies.</p>
                                 </div>
                                 <div className="p-6 bg-white border border-[#DEDEDE] rounded-xl shadow-sm">
-                                    <h4 className="font-bold text-xl mb-2 text-[#2E2E2E]">Loan Against Life Insurance</h4>
+                                    <h5 className="font-bold text-xl mb-2 text-[#2E2E2E]">Loan Against Life Insurance</h5>
                                     <p className="text-base">If you have an LIC policy or any endowment plan with a surrender value, you can take a loan from the insurance company itself. They charge very low interest (typically 9% to 10%) and do not perform any credit check.</p>
                                 </div>
                             </div>
                         </section>
 
                         <section id="interest-comparison" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">Comparative Interest Rates for Bad Credit Loans</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">Comparative Interest Rates for Bad Credit Loans</h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 When you have a low credit score, the cost of borrowing increases. It is essential to compare the Annual Percentage Rate (APR) across different platforms to avoid falling into a debt trap.
                             </p>
@@ -481,7 +481,7 @@ export default function CibilDefaulterLoanPage() {
                         </section>
 
                         <section id="psychological-aspect" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">The Psychological Journey of Financial Recovery</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">The Psychological Journey of Financial Recovery</h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 Dealing with the tag of a "defaulter" often leads to significant stress, anxiety, and a feeling of hopelessness. Many people stop answering calls from banks and withdraw from social life because of the shame associated with debt.
                             </p>
@@ -494,12 +494,12 @@ export default function CibilDefaulterLoanPage() {
                         </section>
 
                         <section id="legal-rights" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">Legal Rights and Recovery Defense for Defaulters</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">Legal Rights and Recovery Defense for Defaulters</h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 Being a defaulter does not mean you lose your fundamental rights. Many borrowers are harassed by recovery agents or threatened with immediate jail time. It is important to know that defaulting on a personal loan is a civil matter, not a criminal one (unless there is fraud or cheque bounce involved).
                             </p>
                             <div className="bg-blue-50 p-8 rounded-xl border border-blue-200 my-8">
-                                <h3 className="font-bold text-blue-900 mb-4 text-xl">Protecting Yourself from Harassment</h3>
+                                <h4 className="font-bold text-blue-900 mb-4 text-xl">Protecting Yourself from Harassment</h4>
                                 <p className="text-base text-blue-800 leading-relaxed mb-4">
                                     The RBI has strict guidelines for recovery agents. They cannot call you before 8 AM or after 7 PM. They cannot call your friends, family, or colleagues. They cannot use physical force or abusive language.
                                 </p>
@@ -513,12 +513,12 @@ export default function CibilDefaulterLoanPage() {
                         </section>
 
                         <section id="application-strategy" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">Winning Strategy: How to Get Your Loan Approved</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">Winning Strategy: How to Get Your Loan Approved</h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 If you decide to apply for a loan with a low CIBIL score, follow these steps to maximize your chances of success:
                             </p>
                             <div className="bg-[#1F5EFF]/5 p-8 rounded-3xl border border-[#1F5EFF]/20 mb-10">
-                                <h3 className="text-2xl font-black text-[#2E2E2E] mb-6">The 4-Step Approval Framework</h3>
+                                <h4 className="text-2xl font-black text-[#2E2E2E] mb-6">The 4-Step Approval Framework</h4>
                                 <ol className="space-y-4 text-base font-medium">
                                     <li className="flex items-start gap-3">
                                         <span className="w-6 h-6 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center text-xs flex-shrink-0 mt-1">1</span>
@@ -541,7 +541,7 @@ export default function CibilDefaulterLoanPage() {
                         </section>
 
                         <section id="improving-score" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">Improving Your Credit Score Post-Default</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">Improving Your Credit Score Post-Default</h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 Obtaining a loan is a temporary fix. Your long-term goal should be to bring your CIBIL score back above 750. This is a journey that takes 12 to 24 months but is entirely possible.
                             </p>
@@ -579,7 +579,7 @@ export default function CibilDefaulterLoanPage() {
                         </section>
 
                         <section id="success-stories" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 text-center">Real Success Stories</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 text-center">Real Success Stories</h3>
                             <div className="grid md:grid-cols-2 gap-10 not-prose">
                                 {[
                                     {
@@ -617,7 +617,7 @@ export default function CibilDefaulterLoanPage() {
                                         <div className="flex items-center mb-4">
                                             <div className="w-10 h-10 rounded-full bg-blue-100 flex items-center justify-center font-bold text-blue-600 mr-3">{review.name.split(' ')[0][0]}</div>
                                             <div>
-                                                <h3 className="font-bold text-[#2E2E2E]">{review.name}</h3>
+                                                <h4 className="font-bold text-[#2E2E2E]">{review.name}</h4>
                                                 <p className="text-xs text-gray-400">{review.loc}</p>
                                             </div>
                                             <div className="ml-auto text-yellow-400 text-sm">★★★★★</div>
@@ -632,7 +632,7 @@ export default function CibilDefaulterLoanPage() {
                         </section>
 
                         <section id="faqs" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Frequently Asked Questions</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Frequently Asked Questions</h3>
                             <div className="space-y-6 not-prose">
                                 {[
                                     { q: "Can a CIBIL defaulter get a personal loan in India?", a: "Yes, while traditional banks might reject applications, certain NBFCs, fintech apps, and P2P lending platforms offer loans to CIBIL defaulters, often at higher interest rates or through secured loan options." },
@@ -665,7 +665,7 @@ export default function CibilDefaulterLoanPage() {
                         </section>
 
                         <div className="mt-16 p-8 bg-[#1F5EFF] rounded-3xl text-white text-center">
-                            <h2 className="text-3xl font-black mb-6">Stop Worrying About Your CIBIL Score</h2>
+                            <h3 className="text-3xl font-black mb-6">Stop Worrying About Your CIBIL Score</h3>
                             <p className="text-xl mb-8 opacity-90">
                                 We help you navigate the complex world of debt and credit. Let us help you find the right financial solution today.
                             </p>

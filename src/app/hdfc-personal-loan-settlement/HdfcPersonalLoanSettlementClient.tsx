@@ -98,7 +98,7 @@ export default function HdfcPersonalLoanSettlementClient() {
     { id: 'step-by-step-settlement-process', title: '6. Step-by-Step Settlement Roadmap' },
     { id: 'ots-vs-restructuring-vs-lok-adalat', title: '7. Comparative Resolution Avenues' },
     { id: 'sanction-letter-audit-ndc-verification', title: '8. Sanction Letter Audit & ₹0 NDC Mandate' },
-    { id: 'cibil-impact-credit-rehabilitation', title: '9. CIBIL Score Trajectory & Rehabilitation' },
+    { id: 'cibil-impact-credit-recovery', title: '9. CIBIL Score Trajectory & recovery' },
     { id: 'company-resolution-section', title: '10. SettleLoans Legal Defense & Advisory' },
     { id: 'faqs', title: '11. Frequently Asked Questions' },
   ];
@@ -126,7 +126,7 @@ export default function HdfcPersonalLoanSettlementClient() {
       question: "What is the HDFC Bank personal loan settlement process and how does it work?",
       answer: (
         <p>
-          The <strong>HDFC Bank personal loan settlement process</strong> is a formal legal compromise agreement between HDFC Bank Limited and a distressed borrower who is genuinely unable to repay their outstanding unsecured loan. When a loan crosses 90 to 180 days of non-payment, it transitions into Non-Performing Asset (NPA) status. At this stage, the borrower can submit a formal One-Time Settlement (OTS) proposal. The proposal must be supported by verifiable hardship proof, such as job loss, medical catastrophe, or business failure. HDFC&apos;s internal Stressed Assets Resolution Group (SARB) or Competent Credit Committee evaluates the account&apos;s recovery potential using a Net Present Value (NPV) formula. If approved, HDFC issues an official stamped <strong>OTS Sanction Letter</strong>. Upon direct payment of the agreed settlement amount into the loan account, the bank extinguishes the residual debt, closes all legal proceedings, and issues a ₹0 <strong>No Dues Certificate (NDC)</strong>.
+          The <strong>HDFC Bank personal loan settlement process</strong> is a formal legal compromise agreement between HDFC Bank Limited and a distressed borrower who is genuinely unable to repay their outstanding unsecured loan. When a loan crosses 90 to 180 days of non-payment, it transitions into Non-Performing Asset (NPA) status. At this stage, the borrower can submit a formal One-Time Settlement (OTS) proposal. The proposal must be supported by verifiable hardship proof, such as job loss, medical catastrophe, or business failure. HDFC&apos;s internal Stressed Assets Resolution Group (SARB) or Competent Credit Committee evaluates the account&apos;s recovery potential using a Net Present Value (NPV) formula. If approved, HDFC issues an official stamped <strong>OTS Sanction Letter</strong>. Upon direct payment of the agreed settlement amount into the loan account, the bank extinguishes the residual debt, closes all legal cases, and issues a ₹0 <strong>No Dues Certificate (NDC)</strong>.
         </p>
       )
     },
@@ -134,7 +134,7 @@ export default function HdfcPersonalLoanSettlementClient() {
       question: "What percentage of debt waiver or haircut does HDFC Bank typically approve on personal loans?",
       answer: (
         <p>
-          On unsecured personal loans, Jumbo loans, and credit cards, HDFC Bank typically approves debt haircuts ranging between <strong>40% and 65%</strong> of the total ledger balance. The exact waiver percentage depends on: (1) <em>Delinquency Aging:</em> Accounts in deep default (over 180 to 365 days) where HDFC has already absorbed 50% to 100% balance-sheet provisioning qualify for higher discounts. (2) <em>Hardship Verifiability:</em> Rock-solid documentation proving total loss of livelihood or severe medical disability. (3) <em>Direct Credit Committee Negotiations:</em> Eliminating third-party recovery commissions to negotiate directly with authorized bank managers. In virtually all approved settlements, 100% of penal interest, late fees, and bounce charges are completely waived alongside a substantial principal discount.
+          On unsecured personal loans, Jumbo loans, and credit cards, HDFC Bank typically approves debt haircuts ranging between <strong>40% and 65%</strong> of the total ledger balance. The exact waiver percentage depends on: (1) <em>Delinquency Aging:</em> Accounts in deep default (over 180 to 365 days) where HDFC has already absorbed 50% to 100% balance-sheet provisioning qualify for higher discounts. (2) <em>Hardship Verifiability:</em> Rock-solid records proving total loss of livelihood or severe medical disability. (3) <em>Direct Credit Committee talks:</em> Eliminating third-party recovery commissions to negotiate directly with authorized bank managers. In virtually all approved settlements, 100% of penal interest, late fees, and bounce charges are completely waived alongside a large principal discount.
         </p>
       )
     },
@@ -142,7 +142,7 @@ export default function HdfcPersonalLoanSettlementClient() {
       question: "How strict are HDFC Bank recovery agents and what are your rights against harassment?",
       answer: (
         <p>
-          HDFC Bank operates a structured collection mechanism. It utilizes internal tele-calling teams for early delinquencies (1–60 days). Once an account enters NPA territory (90+ days), it assigns recovery to third-party <strong>Debt Recovery Agencies (DRAs)</strong>. While HDFC maintains codes of conduct, third-party agents sometimes overstep legal boundaries. Under the <strong>RBI Master Directions on Recovery Agents (2022)</strong> and the <em>RBI Fair Practices Code</em>, borrowers have clear statutory rights. First, agents can only contact you between 08:00 AM and 07:00 PM. Second, abusive language and public shaming are strictly illegal. Third, agents cannot contact references, colleagues, or neighbors. Finally, they must present their bank authorization letter and DRA identity card upon visiting. Any breach can be reported to HDFC&apos;s Principal Nodal Officer (PNO) and the RBI Ombudsman.
+          HDFC Bank operates a structured collection mechanism. It uses internal tele-calling teams for early delinquencies (1–60 days). Once an account enters NPA territory (90+ days), it assigns recovery to third-party <strong>Debt Recovery Agencies (DRAs)</strong>. While HDFC maintains codes of conduct, third-party agents sometimes overstep legal boundaries. Under the <strong>RBI Master Directions on Recovery Agents (2022)</strong> and the <em>RBI Fair Practices Code</em>, borrowers have clear statutory rights. First, agents can only contact you between 08:00 AM and 07:00 PM. Second, abusive language and public shaming are strictly illegal. Third, agents cannot contact references, colleagues, or neighbors. Finally, they must present their bank authorization letter and DRA identity card upon visiting. Any breach can be reported to HDFC&apos;s Principal Nodal Officer (PNO) and the RBI Ombudsman.
         </p>
       )
     },
@@ -150,7 +150,7 @@ export default function HdfcPersonalLoanSettlementClient() {
       question: "Can HDFC Bank file a criminal police case or have you arrested for personal loan default?",
       answer: (
         <p>
-          <strong>No. Defaulting on an unsecured personal loan or credit card in India is strictly a civil dispute</strong>. It is governed by the Law of Contract (Indian Contract Act, 1872). It is not a criminal offence. The police have zero legal authority to register an FIR, arrest you, or summon you to a station for genuine insolvency. However, if your repayment cheques bounce or an automated NACH/ECS mandate fails, HDFC Bank can initiate legal proceedings. The bank has the statutory right to invoke <strong>Section 138 of the Negotiable Instruments Act, 1881</strong>, or <strong>Section 25 of the Payment and Settlement Systems Act, 2007</strong>. These proceedings originate from a Magistrate Court, not a police station, and can be resolved through counsel or settlement.
+          <strong>No. Defaulting on an unsecured personal loan or credit card in India is strictly a civil dispute</strong>. It is governed by the Law of Contract (Indian Contract Act, 1872). It is not a criminal offence. The police have zero legal authority to register an FIR, arrest you, or summon you to a station for genuine insolvency. However, if your repayment cheques bounce or an automated NACH/ECS mandate fails, HDFC Bank can start legal cases. The bank has the statutory right to invoke <strong>Section 138 of the Negotiable Instruments Act, 1881</strong>, or <strong>Section 25 of the Payment and Settlement Systems Act, 2007</strong>. These cases originate from a Magistrate Court, not a police station, and can be resolved through counsel or settlement.
         </p>
       )
     },
@@ -174,7 +174,7 @@ export default function HdfcPersonalLoanSettlementClient() {
       question: "How does an HDFC personal loan settlement impact your CIBIL score and credit profile?",
       answer: (
         <p>
-          Following full remittance of the agreed OTS amount, HDFC Bank updates the account status across all four credit bureaus (CIBIL, Experian, Equifax, CRIF High Mark). The account is reported as <strong>&apos;Settled&apos;</strong> or <strong>&apos;Post-Write-off Settled&apos;</strong> with an outstanding balance of <strong>₹0</strong>. This closure results in an initial CIBIL score reduction of approximately 75 to 150 points. Furthermore, under RBI directives, the borrower enters a 12-month cooling period before applying for fresh credit. Even so, a &apos;Settled&apos; status with ₹0 dues is far better than an open, compounding default or &apos;Suit Filed&apos; tag. Borrowers can steadily rebuild their CIBIL score back to 750+ within 18 to 24 months through secured credit cards and disciplined repayments.
+          Following full remittance of the agreed OTS amount, HDFC Bank updates the account status across all four credit bureaus (CIBIL, Experian, Equifax, CRIF High Mark). The account is reported as <strong>&apos;Settled&apos;</strong> or <strong>&apos;Post-Write-off Settled&apos;</strong> with an outstanding balance of <strong>₹0</strong>. This closure results in an initial CIBIL score reduction of about 75 to 150 points. also, under RBI directives, the borrower enters a 12-month cooling period before applying for fresh credit. Even so, a &apos;Settled&apos; status with ₹0 dues is far better than an open, compounding default or &apos;Suit Filed&apos; tag. Borrowers can steadily rebuild their CIBIL score back to 750+ within 18 to 24 months through secured credit cards and disciplined repayments.
         </p>
       )
     },
@@ -182,7 +182,7 @@ export default function HdfcPersonalLoanSettlementClient() {
       question: "What non-negotiable security checks must be verified before paying settlement money to HDFC?",
       answer: (
         <p>
-          Distressed borrowers must observe five strict safety rules: (1) <strong>Zero Verbal Agreements:</strong> Never pay a single rupee based on telephone calls, WhatsApp messages, or handwritten notes from collection executives. (2) <strong>Official Bank Letterhead:</strong> Demand an authentic OTS Sanction Letter printed on official HDFC Bank letterhead with bank seal and officer signature. (3) <strong>Direct Account Remittance:</strong> Pay only directly into your official HDFC Loan Account Number via RTGS/NEFT or account payee cheque—never into any third-party agency or individual account. (4) <strong>Full Debt Extinguishment Clause:</strong> Confirm the letter explicitly states that upon receipt of the settlement sum, the loan account stands fully discharged with no further liability. (5) <strong>Instant Acknowledgment:</strong> Secure an official bank stamped receipt immediately upon payment.
+          Distressed borrowers must observe five strict safety rules: (1) <strong>Zero Verbal Agreements:</strong> Never pay a single rupee based on telephone calls, WhatsApp messages, or handwritten notes from collection executives. (2) <strong>Official Bank Letterhead:</strong> Demand an authentic OTS Sanction Letter printed on official HDFC Bank letterhead with bank seal and officer signature. (3) <strong>Direct Account Remittance:</strong> Pay only directly into your official HDFC Loan Account Number via RTGS/NEFT or account payee cheque—never into any third-party agency or person account. (4) <strong>Full Debt Extinguishment Clause:</strong> Confirm the letter explicitly states that upon receipt of the settlement sum, the loan account stands fully discharged with no further liability. (5) <strong>Instant Acknowledgment:</strong> Secure an official bank stamped receipt immediately upon payment.
         </p>
       )
     },
@@ -190,7 +190,7 @@ export default function HdfcPersonalLoanSettlementClient() {
       question: "Can an HDFC Bank personal loan be settled during a National Lok Adalat session?",
       answer: (
         <p>
-          <strong>Yes. HDFC Bank is one of the most active institutional participants in the National Lok Adalat</strong>, organized quarterly across India by District Legal Services Authorities (DLSA) under the <em>Legal Services Authorities Act, 1987</em>. During Lok Adalat sessions, HDFC Bank sends designated officers empowered with pre-approved settlement discount mandates (often 45% to 65% haircut). Settling via Lok Adalat offers substantial advantages: (a) The settlement award holds the status of a <strong>Civil Court Decree with absolute finality</strong>. (b) No appeal lies against the settlement in any court. (c) Any ongoing civil litigation or Section 138 complaint is formally disposed of on the spot.
+          <strong>Yes. HDFC Bank is one of the most active institutional participants in the National Lok Adalat</strong>, organized quarterly across India by District Legal Services Authorities (DLSA) under the <em>Legal Services Authorities Act, 1987</em>. During Lok Adalat sessions, HDFC Bank sends designated officers empowered with pre-approved settlement discount mandates (often 45% to 65% haircut). Settling via Lok Adalat offers large advantages: (a) The settlement award holds the status of a <strong>Civil Court Decree with absolute finality</strong>. (b) No appeal lies against the settlement in any court. (c) Any ongoing civil litigation or Section 138 complaint is formally disposed of on the spot.
         </p>
       )
     },
@@ -198,7 +198,7 @@ export default function HdfcPersonalLoanSettlementClient() {
       question: "How long does HDFC Bank take to issue the No Dues Certificate (NDC) after final payment?",
       answer: (
         <p>
-          Pursuant to <strong>RBI Circular RBI/2023-24/60</strong>, HDFC Bank must adhere to strict post-settlement timelines. The bank is legally obligated to issue a formal <strong>No Dues Certificate (NDC) / Loan Closure Certificate</strong>. It must also update all credit bureaus within <strong>30 calendar days</strong> of receiving the final settlement tranche. If HDFC Bank fails to complete the closure within 30 days due to internal delays, it faces penalties. The bank is legally required to pay statutory compensation of <strong>₹5,000 for each day of delay</strong> directly to the borrower.
+          under <strong>RBI Circular RBI/2023-24/60</strong>, HDFC Bank must adhere to strict post-settlement timelines. The bank is legally obligated to issue a formal <strong>No Dues Certificate (NDC) / Loan Closure Certificate</strong>. It must also update all credit bureaus within <strong>30 calendar days</strong> of receiving the final settlement tranche. If HDFC Bank fails to complete the closure within 30 days due to internal delays, it faces penalties. The bank is legally required to pay statutory relief of <strong>₹5,000 for each day of delay</strong> directly to the borrower.
         </p>
       )
     }
@@ -343,7 +343,7 @@ export default function HdfcPersonalLoanSettlementClient() {
                 <span>HDFC Quick Crux</span>
               </div>
               <p className="text-[11px] leading-relaxed text-blue-800">
-                HDFC accounts defaulted beyond 90 days enter NPA status. Direct negotiations with SARB bypass third-party agent markups, yielding 40%–65% debt waivers.
+                HDFC accounts defaulted beyond 90 days enter NPA status. Direct talks with SARB bypass third-party agent markups, yielding 40%–65% debt waivers.
               </p>
             </div>
           </aside>
@@ -361,10 +361,10 @@ export default function HdfcPersonalLoanSettlementClient() {
                 Understanding HDFC Bank&apos;s Retail Loan Portfolio &amp; Default Dynamics
               </h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
-                HDFC Bank Limited is the cornerstone of India&apos;s private retail credit market, managing an expansive loan book spanning unsecured personal loans, pre-approved InstaLoans, Jumbo loans linked to credit cards, and digital revolving credit facilities. These credit products are extended without any underlying physical security or mortgage backing. Consequently, HDFC Bank safeguards its capital through algorithmic risk modeling, stringent credit bureau cutoffs, and automated NACH mandate sweeps.
+                HDFC Bank Limited is the cornerstone of India&apos;s private retail credit market, managing an expansive loan book spanning unsecured personal loans, pre-approved InstaLoans, Jumbo loans linked to credit cards, and digital revolving credit facilities. These credit products are extended without any underlying physical security or mortgage backing. so, HDFC Bank safeguards its capital through algorithmic risk modeling, stringent credit bureau cutoffs, and automated NACH mandate sweeps.
               </p>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
-                The institutional collection mechanism of HDFC Bank is structured for rapid escalation upon the first instance of payment failure. When an equated monthly installment fails to clear on the designated cycle date, automated ledger triggers activate immediately. They initiate compounding late fees and penal interest of 24% to 36% annually. In addition, algorithmic risk flags restrict existing credit card limits across the borrower&apos;s entire CIF.
+                The institutional collection mechanism of HDFC Bank is structured for rapid escalation upon the first instance of payment failure. When an equated monthly installment fails to clear on the designated cycle date, automated ledger triggers activate immediately. They start compounding late fees and penal interest of 24% to 36% annually. In addition, algorithmic risk flags restrict existing credit card limits across the borrower&apos;s entire CIF.
               </p>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Borrowers facing severe personal disruptions—such as sudden corporate layoffs, catastrophic critical illness, business liquidation, or macroeconomic insolvencies—frequently experience an acute debt trap where compounding penal charges outpace their realistic debt servicing ability. Under Indian law and the governing Reserve Bank of India (RBI) directives, genuine financial failure is fundamentally recognized as a civil contractual dispute rather than a criminal dereliction.
@@ -373,7 +373,7 @@ export default function HdfcPersonalLoanSettlementClient() {
                 <div className="flex items-start gap-3">
                   <AlertCircle className="w-5 h-5 text-amber-600 flex-shrink-0 mt-0.5" />
                   <div className="text-xs sm:text-sm text-amber-900 leading-relaxed">
-                    <strong>Crucial Legal Distinction:</strong> The Reserve Bank of India strictly distinguishes between a <em>wilful defaulter</em>—defined as an individual or corporate debtor with proven liquid financial capacity who purposefully diverts sanctioned funds or refuses to service liabilities—and an <em>involuntary distressed borrower</em> whose repayment capacity has disintegrated due to legitimate economic catastrophe. Involuntary distressed borrowers are legally entitled to request compromise debt waivers under board-approved One-Time Settlement policies.
+                    <strong>Crucial Legal Distinction:</strong> The Reserve Bank of India strictly distinguishes between a <em>wilful defaulter</em>—defined as an person or corporate debtor with proven liquid financial capacity who purposefully diverts sanctioned funds or refuses to service liabilities—and an <em>involuntary distressed borrower</em> whose repayment capacity has disintegrated due to legitimate economic catastrophe. Involuntary distressed borrowers are legally entitled to request compromise debt waivers under board-approved One-Time Settlement policies.
                   </div>
                 </div>
               </div>
@@ -385,9 +385,9 @@ export default function HdfcPersonalLoanSettlementClient() {
                 <Clock className="w-4 h-4" />
                 <span>2. Delinquency Timeline &amp; Asset Classification</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 HDFC&apos;s Default Timeline: From SMA-0 to NPA Classification
-              </h2>
+              </h3>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Understanding how HDFC Bank classifies delinquent retail debt under the Reserve Bank of India&apos;s Prudential Norms on Income Recognition, Asset Classification and Provisioning (IRACP) is vital for timing a compromise settlement. An overdue personal loan progresses through five administrative and regulatory tiers, each dictating the bank&apos;s internal recovery posture and legal authority to grant principal concessions.
               </p>
@@ -419,7 +419,7 @@ export default function HdfcPersonalLoanSettlementClient() {
                       <td className="font-bold text-slate-900">SMA-1 (Mid Delinquency)</td>
                       <td>31 – 60 Days</td>
                       <td>Intensive tele-calling by HDFC internal collections team. Branch level loan follow-ups.</td>
-                      <td>NACH bounce notifications. Credit score starts dropping.</td>
+                      <td>NACH bounce notices. Credit score starts dropping.</td>
                       <td>Low (Restructuring or tenure extension may be offered).</td>
                     </tr>
                     <tr>
@@ -448,7 +448,7 @@ export default function HdfcPersonalLoanSettlementClient() {
               </div>
 
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
-                Once an account breaches the mandatory 90-day overdue threshold, HDFC Bank is legally required to classify the loan as an NPA and allocate capital provisioning against its balance sheet. In the Substandard and Doubtful-1 stages, the bank must set aside substantial provisioning reserves. This requirement creates a strong incentive for credit officers to accept upfront cash settlements. A settlement immediately releases locked capital back to operating profitability.
+                Once an account breaches the mandatory 90-day overdue threshold, HDFC Bank is legally required to classify the loan as an NPA and allocate capital provisioning against its balance sheet. In the Substandard and Doubtful-1 stages, the bank must set aside large provisioning reserves. This requirement creates a strong incentive for credit officers to accept upfront cash settlements. A settlement immediately releases locked capital back to operating profitability.
               </p>
             </section>
 
@@ -458,9 +458,9 @@ export default function HdfcPersonalLoanSettlementClient() {
                 <Calculator className="w-4 h-4" />
                 <span>3. OTS Haircut Policies &amp; Valuation Framework</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 HDFC&apos;s Internal One-Time Settlement (OTS) &amp; Haircut Policy
-              </h2>
+              </h3>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Under the regulatory framework mandated by the <strong>Reserve Bank of India Master Direction on Compromise Settlements and Technical Write-offs (DOR.STR.REC.20/21.04.048/2023-24)</strong>, HDFC Bank operates a board-approved Compromise Settlement Policy. Rather than relying on arbitrary discretion, the bank&apos;s Credit Committees evaluate settlement proposals through a standardized mathematical Net Present Value (NPV) recovery methodology.
               </p>
@@ -469,10 +469,10 @@ export default function HdfcPersonalLoanSettlementClient() {
               </p>
 
               <div className="bg-slate-900 text-white p-5 md:p-6 rounded-2xl my-6 shadow-md border border-slate-800">
-                <h3 className="text-base font-bold text-blue-400 mb-2 flex items-center gap-2">
+                <h4 className="text-base font-bold text-blue-400 mb-2 flex items-center gap-2">
                   <Calculator className="w-5 h-5 text-[#1F5EFF]" />
                   <span>The Banking Net Present Value (NPV) Settlement Equation</span>
-                </h3>
+                </h4>
                 <p className="text-xs sm:text-sm text-slate-300 leading-relaxed mb-3">
                   When evaluating an OTS request, the HDFC Credit Committee calculates whether the immediate cash offer exceeds the discounted recovery probability:
                 </p>
@@ -489,7 +489,7 @@ export default function HdfcPersonalLoanSettlementClient() {
               </p>
 
               {/* Settlement Haircut Slabs Table */}
-              <h3 className="text-lg font-bold text-slate-900 mb-3">Typical HDFC Settlement Haircut Slabs by Product &amp; Aging</h3>
+              <h4 className="text-lg font-bold text-slate-900 mb-3">Typical HDFC Settlement Haircut Slabs by Product &amp; Aging</h4>
               <div className="overflow-x-auto my-4">
                 <table className="min-w-full bg-white">
                   <thead>
@@ -541,17 +541,17 @@ export default function HdfcPersonalLoanSettlementClient() {
                 <ShieldAlert className="w-4 h-4" />
                 <span>4. Recovery Practices &amp; RBI Anti-Harassment Law</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 HDFC Recovery Agent Practices, Harassment Defense &amp; RBI Compliance
-              </h2>
+              </h3>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
-                When an HDFC Bank retail loan breaches 90 days of non-payment, the account is transferred from internal tele-calling executives to outsourced Debt Recovery Agencies (DRAs). Because external recovery personnel operate on recovery-linked commission incentives, aggressive and unauthorized tactics frequently occur, including relentless calling, unscheduled residential visits, and intimidating communications directed at relatives or employers.
+                When an HDFC Bank retail loan breaches 90 days of non-payment, the account is transferred from internal tele-calling executives to outsourced Debt Recovery Agencies (DRAs). Because external recovery personnel operate on recovery-linked commission incentives, aggressive and unauthorized tactics frequently occur, including relentless calling, unscheduled residential visits, and intimidating notices directed at relatives or employers.
               </p>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 The Reserve Bank of India has established comprehensive statutory regulations through its Master Direction on Recovery Agents and the Fair Practices Code. These binding guidelines protect borrowers against aggressive recovery tactics. Collection agents are strictly prohibited from calling before 08:00 AM or after 07:00 PM. They cannot share debt details with family members, visit workplaces to cause embarrassment, or use abusive language.
               </p>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
-                Borrowers must understand their legal remedies when dealing with overreaching collection agents. Every borrower holds the statutory right to demand the agent&apos;s physical Indian Institute of Banking &amp; Finance (IIBF) DRA Certification and an official letter of authority issued by HDFC Bank. Any non-compliance can be immediately documented with call recordings and escalated directly to HDFC&apos;s Principal Nodal Officer and the Reserve Bank Integrated Ombudsman Scheme for swift corrective action and penalty proceedings against the lending institution.
+                Borrowers must understand their legal remedies when dealing with overreaching collection agents. Every borrower holds the statutory right to demand the agent&apos;s physical Indian Institute of Banking &amp; Finance (IIBF) DRA Certification and an official letter of authority issued by HDFC Bank. Any non-compliance can be immediately documented with call recordings and escalated directly to HDFC&apos;s Principal Nodal Officer and the Reserve Bank Integrated Ombudsman Scheme for swift corrective action and penalty cases against the lending institution.
               </p>
             </section>
 
@@ -568,9 +568,9 @@ export default function HdfcPersonalLoanSettlementClient() {
                       <span className="text-[10px] font-black uppercase tracking-widest text-blue-300 block">
                         Legal Defense &amp; Action Blueprint
                       </span>
-                      <h3 className="text-sm md:text-base font-black text-white leading-tight">
+                      <h4 className="text-sm md:text-base font-black text-white leading-tight">
                         HDFC Bank Personal Loan Settlement Process &amp; Haircut Blueprint
-                      </h3>
+                      </h4>
                     </div>
                   </div>
                   <a
@@ -617,9 +617,9 @@ export default function HdfcPersonalLoanSettlementClient() {
                 <Layers className="w-4 h-4" />
                 <span>5. Execution Roadmap</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
-                Step-by-Step Guide: How to Initiate &amp; Negotiate Settlement with HDFC Bank
-              </h2>
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+                Step-by-Step Guide: How to start &amp; Negotiate Settlement with HDFC Bank
+              </h3>
               <p className="text-slate-700 leading-relaxed mb-6 text-base md:text-lg">
                 Navigating a high-stakes compromise settlement with HDFC Bank requires strategic legal coordination. Following this tested sequential roadmap ensures optimal financial relief while safeguarding your legal position at every milestone:
               </p>
@@ -627,82 +627,82 @@ export default function HdfcPersonalLoanSettlementClient() {
               <div className="space-y-6">
                 {/* Phase 1 */}
                 <div className="p-6 rounded-2xl bg-white border border-slate-200 shadow-sm">
-                  <h3 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
+                  <h4 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
                     <span className="w-7 h-7 rounded-lg bg-blue-50 text-[#1F5EFF] font-black text-sm flex items-center justify-center border border-blue-200">1</span>
                     Comprehensive Financial Audit &amp; Hardship Evidence Compilation
-                  </h3>
+                  </h4>
                   <p className="text-slate-600 text-sm md:text-base leading-relaxed mb-3">
-                    HDFC Bank&apos;s Credit Committee will not consider informal or unsupported requests for debt forgiveness. You must assemble an indisputable evidentiary dossier establishing legitimate income destruction. This dossier includes corporate severance notifications, termination letters, medical diagnosis certificates, catastrophic hospitalization invoices, or audited financial statements documenting complete commercial insolvency.
+                    HDFC Bank&apos;s Credit Committee will not consider informal or unsupported requests for debt forgiveness. You must assemble an indisputable evidentiary dossier establishing legitimate income destruction. This dossier includes corporate severance notices, termination letters, medical diagnosis certificates, catastrophic hospitalization invoices, or audited financial statements documenting complete commercial insolvency.
                   </p>
                   <p className="text-slate-600 text-sm md:text-base leading-relaxed">
-                    Coupling this with six months of bank statements illustrating negligible cash inflows clearly demonstrates that default is involuntary, shielding the borrower from wilful default tagging.
+                    Coupling this with six months of bank statements illustrating negligible cash inflows clearly shows that default is involuntary, shielding the borrower from wilful default tagging.
                   </p>
                 </div>
 
                 {/* Phase 2 */}
                 <div className="p-6 rounded-2xl bg-white border border-slate-200 shadow-sm">
-                  <h3 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
+                  <h4 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
                     <span className="w-7 h-7 rounded-lg bg-blue-50 text-[#1F5EFF] font-black text-sm flex items-center justify-center border border-blue-200">2</span>
                     Neutralizing External Agencies &amp; Establishing Direct Banking Jurisdiction
-                  </h3>
+                  </h4>
                   <p className="text-slate-600 text-sm md:text-base leading-relaxed mb-3">
-                    A frequent strategic mistake made by distressed borrowers is attempting to negotiate settlement numbers with outsourced collection agents. These representatives lack legal authority to issue debt waivers and often promise verbal discounts to collect partial payments that are subsequently applied to overdue interest.
+                    A frequent strategic mistake made by distressed borrowers is attempting to negotiate settlement numbers with outsourced collection agents. These agents lack legal authority to issue debt waivers and often promise verbal discounts to collect partial payments that are then applied to overdue interest.
                   </p>
                   <p className="text-slate-600 text-sm md:text-base leading-relaxed">
-                    Borrowers must immediately issue a formal communication directing all discussions to the Branch Manager and the Stressed Assets Resolution Group (SARB), effectively eliminating third-party commission markups from the negotiation table.
+                    Borrowers must immediately issue a formal notice directing all discussions to the Branch Manager and the Stressed Assets Resolution Group (SARB), effectively eliminating third-party commission markups from the talks table.
                   </p>
                 </div>
 
                 {/* Phase 3 */}
                 <div className="p-6 rounded-2xl bg-white border border-slate-200 shadow-sm">
-                  <h3 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
+                  <h4 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
                     <span className="w-7 h-7 rounded-lg bg-blue-50 text-[#1F5EFF] font-black text-sm flex items-center justify-center border border-blue-200">3</span>
                     Submitting the Formal Compromise Settlement Proposal
-                  </h3>
+                  </h4>
                   <p className="text-slate-600 text-sm md:text-base leading-relaxed mb-3">
                     The formal OTS application must be formally addressed to the Competent Credit Authority, citing the Reserve Bank of India Master Direction on Compromise Settlements. The application should provide a detailed breakdown of historical repayments to establish good faith, articulate the specific hardship event, and present an opening settlement offer.
                   </p>
                   <p className="text-slate-600 text-sm md:text-base leading-relaxed">
-                    Strategically anchoring the opening offer at 25% to 35% of the total outstanding ledger balance creates necessary bargaining room to close negotiations within the target 40% to 55% settlement band.
+                    Strategically anchoring the opening offer at 25% to 35% of the total outstanding ledger balance creates necessary bargaining room to close talks within the target 40% to 55% settlement band.
                   </p>
                 </div>
 
                 {/* Phase 4 */}
                 <div className="p-6 rounded-2xl bg-white border border-slate-200 shadow-sm">
-                  <h3 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
+                  <h4 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
                     <span className="w-7 h-7 rounded-lg bg-blue-50 text-[#1F5EFF] font-black text-sm flex items-center justify-center border border-blue-200">4</span>
-                    Managing Counter-Demands &amp; Credit Committee Negotiations
-                  </h3>
+                    Managing Counter-Demands &amp; Credit Committee talks
+                  </h4>
                   <p className="text-slate-600 text-sm md:text-base leading-relaxed mb-3">
                     Upon receiving the proposal, HDFC&apos;s settlement desk will typically present a conservative counter-demand requiring 70% to 80% of book dues. This initial response is a standard institutional probe to test the debtor&apos;s liquidity.
                   </p>
                   <p className="text-slate-600 text-sm md:text-base leading-relaxed">
-                    Borrowers must maintain firm legal footing throughout negotiations. Reiterate the total absence of disposable income. Highlight that the proposed settlement capital is provided by third-party relatives exclusively for a one-time discharge. This guides the committee toward realistic haircut approvals.
+                    Borrowers must maintain firm legal footing throughout talks. Reiterate the total absence of disposable income. Highlight that the proposed settlement capital is provided by third-party relatives exclusively for a one-time discharge. This guides the committee toward realistic haircut approvals.
                   </p>
                 </div>
 
                 {/* Phase 5 */}
                 <div className="p-6 rounded-2xl bg-white border border-slate-200 shadow-sm">
-                  <h3 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
+                  <h4 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
                     <span className="w-7 h-7 rounded-lg bg-blue-50 text-[#1F5EFF] font-black text-sm flex items-center justify-center border border-blue-200">5</span>
                     Rigorous Audit of the Stamped OTS Sanction Letter
-                  </h3>
+                  </h4>
                   <p className="text-slate-600 text-sm md:text-base leading-relaxed mb-3">
                     Before releasing a single rupee, the borrower must receive and meticulously audit an official OTS Sanction Letter printed on HDFC Bank letterhead. The document must explicitly stipulate the exact compromise figure, precise remittance deadlines, and an unconditional covenant confirming that all residual principal, penal interest, and incidental legal fees will be permanently extinguished upon payment.
                   </p>
                   <p className="text-slate-600 text-sm md:text-base leading-relaxed">
-                    The sanction letter must also include an explicit undertaking from HDFC Bank to withdraw any pending litigation or statutory cheque bounce proceedings.
+                    The sanction letter must also include an explicit undertaking from HDFC Bank to withdraw any pending litigation or statutory cheque bounce cases.
                   </p>
                 </div>
 
                 {/* Phase 6 */}
                 <div className="p-6 rounded-2xl bg-white border border-slate-200 shadow-sm">
-                  <h3 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
+                  <h4 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
                     <span className="w-7 h-7 rounded-lg bg-blue-50 text-[#1F5EFF] font-black text-sm flex items-center justify-center border border-blue-200">6</span>
                     Direct Account Remittance &amp; Securing the ₹0 No Dues Certificate
-                  </h3>
+                  </h4>
                   <p className="text-slate-600 text-sm md:text-base leading-relaxed mb-3">
-                    The sanctioned settlement amount must be remitted strictly through verifiable banking channels (RTGS, NEFT, or Account Payee draft) directly into the designated HDFC loan account number. Third-party intermediary or collection agency accounts must never be utilized under any circumstances.
+                    The sanctioned settlement amount must be remitted strictly through verifiable banking channels (RTGS, NEFT, or Account Payee draft) directly into the designated HDFC loan account number. Third-party intermediary or collection agency accounts must never be used under any situations.
                   </p>
                   <p className="text-slate-600 text-sm md:text-base leading-relaxed">
                     Under Reserve Bank of India Circular RBI/2023-24/60, HDFC Bank is legally mandated to complete full account closure and issue an official No Dues Certificate (NDC) within 30 calendar days of receiving full payment.
@@ -717,9 +717,9 @@ export default function HdfcPersonalLoanSettlementClient() {
                 <Scale className="w-4 h-4" />
                 <span>6. Comparative Resolution Avenues</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 HDFC OTS vs Loan Restructuring vs National Lok Adalat
-              </h2>
+              </h3>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Distressed borrowers often face the dilemma of choosing between a One-Time Settlement, formal loan restructuring, or participating in judicial conciliation through the National Lok Adalat. Each mechanism carries distinct legal consequences, financial requirements, and credit bureau reporting outcomes that must be evaluated against the debtor&apos;s realistic earning trajectory.
               </p>
@@ -788,27 +788,27 @@ export default function HdfcPersonalLoanSettlementClient() {
                 <FileCheck className="w-4 h-4" />
                 <span>7. Sanction Letter Audit &amp; ₹0 NDC Mandate</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 Critical Checklist for HDFC Settlement Sanction Letters &amp; ₹0 NDC Verification
-              </h2>
+              </h3>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 A recurring hazard in retail debt recovery involves rogue collection agents issuing fraudulent or unauthorized settlement letters to induce token payments. If a payment is remitted against an invalid letter, HDFC Bank will credit the sum as a standard part-payment toward accumulated penal charges, leaving the loan open and litigation active.
               </p>
-              <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">To guarantee complete legal validity, every borrower must verify that the sanction letter is printed on official HDFC Bank stationery featuring the bank&apos;s corporate watermark, the physical address of the sanctioning retail asset branch. Additionally, the explicit physical or digital signature of an authorized officer accompanied by their official employee code.</p>
+              <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">To guarantee complete legal validity, every borrower must verify that the sanction letter is printed on official HDFC Bank stationery featuring the bank&apos;s corporate watermark, the physical address of the sanctioning retail asset branch. also, the explicit physical or digital signature of an authorized officer accompanied by their official employee code.</p>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
-                Crucially, the body of the letter must contain unambiguous legal covenants. It must state that the agreed settlement sum constitutes full and final satisfaction of all claims, permanently extinguishing all residual liabilities. Furthermore, pursuant to <strong>RBI Circular RBI/2023-24/60</strong>, HDFC Bank must release all closure certificates within 30 calendar days. The bank is liable for statutory penalties of ₹5,000 per day payable to the borrower for operational delays attributable to the bank.
+                Crucially, the body of the letter must contain unambiguous legal covenants. It must state that the agreed settlement sum constitutes full and final satisfaction of all claims, permanently extinguishing all residual liabilities. also, under <strong>RBI Circular RBI/2023-24/60</strong>, HDFC Bank must release all closure certificates within 30 calendar days. The bank is liable for statutory penalties of ₹5,000 per day payable to the borrower for operational delays attributable to the bank.
               </p>
             </section>
 
-            {/* Section 9: CIBIL Score Impact & Credit Rehabilitation */}
-            <section id="cibil-impact-credit-rehabilitation" className="scroll-mt-24 mb-12">
+            {/* Section 9: CIBIL Score Impact & Credit recovery */}
+            <section id="cibil-impact-credit-recovery" className="scroll-mt-24 mb-12">
               <div className="inline-flex items-center gap-2 text-xs font-bold text-[#1F5EFF] uppercase tracking-wider mb-2">
                 <TrendingUp className="w-4 h-4" />
-                <span>8. CIBIL Score Trajectory &amp; Rehabilitation</span>
+                <span>8. CIBIL Score Trajectory &amp; recovery</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
-                Impact on CIBIL Score &amp; Long-Term Credit Rehabilitation Post-HDFC Settlement
-              </h2>
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+                Impact on CIBIL Score &amp; Long-Term Credit recovery Post-HDFC Settlement
+              </h3>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Distressed borrowers often worry about the long-term credit bureau consequences of a settlement. Following receipt of the final settlement tranche, HDFC Bank must update all four authorized credit bureaus: TransUnion CIBIL, Experian, Equifax, and CRIF High Mark. The bank modifies the account status from &apos;Default&apos; or &apos;Suit Filed&apos; to <strong>&apos;Settled&apos;</strong> or <strong>&apos;Post-Write-off Settled&apos;</strong> with an outstanding balance of exactly <strong>₹0</strong>.
               </p>
@@ -816,21 +816,21 @@ export default function HdfcPersonalLoanSettlementClient() {
                 A &apos;Settled&apos; remark lowers your CIBIL score by 75 to 150 points. It also triggers a 12-month cooling period under RBI guidelines before fresh credit can be obtained. However, it permanently halts month-on-month credit degradation caused by compounding Days Past Due (DPD) counters. Eliminating active default tags is the foundational first step toward regaining financial freedom.
               </p>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
-                Rebuilding a credit profile post-settlement is a systematic process achievable within 18 to 24 months. Borrowers can systematically rebuild credit post-settlement. Obtain a secured credit card backed by a modest fixed deposit. Maintain credit utilization strictly below 25%, and service utility bills punctually. This steady payment history elevates your credit score back to the 750+ threshold.
+                Rebuilding a credit profile post-settlement is a systematic process achievable within 18 to 24 months. Borrowers can systematically rebuild credit post-settlement. Obtain a secured credit card backed by a modest fixed deposit. Maintain credit use strictly below 25%, and service utility bills punctually. This steady payment history elevates your credit score back to the 750+ threshold.
               </p>
             </section>
 
-            {/* Section 10: SettleLoans Legal Defense & Professional Negotiation Services */}
+            {/* Section 10: SettleLoans Legal Defense & Professional talks Services */}
             <section id="company-resolution-section" className="scroll-mt-24 mb-12">
               <div className="inline-flex items-center gap-2 text-xs font-bold text-[#1F5EFF] uppercase tracking-wider mb-2">
                 <ShieldCheck className="w-4 h-4" />
                 <span>9. Legal Defense &amp; Representation</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 Why Distressed HDFC Borrowers Choose SettleLoans
-              </h2>
+              </h3>
               <p className="text-slate-700 leading-relaxed mb-6 text-base md:text-lg">
-                Negotiating an equitable compromise settlement with a major financial institution like HDFC Bank requires experienced banking litigation counsel. The legal strategists at SettleLoans provide comprehensive debt defense. We halt third-party harassment through formal cease-and-desist notices and audit NPA provisioning allocations. Furthermore, we directly engage HDFC&apos;s Zonal Settlement Committees to secure the maximum legally permissible debt waiver.
+                Negotiating an equitable compromise settlement with a major financial institution like HDFC Bank requires experienced banking litigation counsel. The legal strategists at SettleLoans provide comprehensive debt defense. We halt third-party harassment through formal cease-and-desist notices and audit NPA provisioning allocations. also, we directly engage HDFC&apos;s Zonal Settlement Committees to secure the maximum legally permissible debt waiver.
               </p>
 
               {/* HDFC Institutional Escalation Architecture */}
@@ -867,9 +867,9 @@ export default function HdfcPersonalLoanSettlementClient() {
                 <HelpCircle className="w-4 h-4" />
                 <span>10. Frequently Asked Questions</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
                 Frequently Asked Questions About HDFC Personal Loan Settlement
-              </h2>
+              </h3>
 
               <div className="space-y-3">
                 {faqs.map((faq, index) => (
@@ -886,10 +886,10 @@ export default function HdfcPersonalLoanSettlementClient() {
 
             {/* Regulatory References & Official Sources Strip */}
             <div className="bg-slate-50 border border-slate-200 rounded-2xl p-6 my-10">
-              <h3 className="text-base font-bold text-slate-900 mb-4 flex items-center gap-2">
+              <h4 className="text-base font-bold text-slate-900 mb-4 flex items-center gap-2">
                 <Landmark className="w-5 h-5 text-[#1F5EFF]" />
                 Official Regulatory References &amp; Statutory Circulars
-              </h3>
+              </h4>
               <ul className="space-y-3 text-xs text-slate-600">
                 <li className="flex items-start gap-2">
                   <ExternalLink className="w-4 h-4 text-[#1F5EFF] flex-shrink-0 mt-0.5" />
@@ -951,10 +951,10 @@ export default function HdfcPersonalLoanSettlementClient() {
 
             {/* Related Guides & Resources Strip (10 Topic Badges) */}
             <div className="bg-slate-50 border border-slate-200 rounded-2xl p-6 my-10">
-              <h3 className="text-base font-bold text-slate-900 mb-4 flex items-center gap-2">
+              <h4 className="text-base font-bold text-slate-900 mb-4 flex items-center gap-2">
                 <BookOpen className="w-5 h-5 text-[#1F5EFF]" />
                 Explore Related Banking &amp; Debt Resolution Guides
-              </h3>
+              </h4>
               <div className="flex flex-wrap gap-2.5">
                 <Link
                   href="/bank-one-time-settlement-ots-policy"
@@ -1043,7 +1043,7 @@ export default function HdfcPersonalLoanSettlementClient() {
                 </div>
               </div>
               <p className="text-xs text-slate-600 leading-relaxed mb-4">
-                Ashish has led over 1,200+ successful bank compromise negotiations across HDFC Bank, SBI, ICICI, and Axis Bank. He specializes in banking NPA haircuts, SARB conciliation, and borrower legal defense under RBI Master Directions.
+                Ashish has led over 1,200+ successful bank compromise talks across HDFC Bank, SBI, ICICI, and Axis Bank. He specializes in banking NPA haircuts, SARB conciliation, and borrower legal defense under RBI Master Directions.
               </p>
               <div className="pt-3 border-t border-slate-100 flex items-center justify-between text-xs font-semibold">
                 <Link
@@ -1063,7 +1063,7 @@ export default function HdfcPersonalLoanSettlementClient() {
               </div>
             </div>
 
-            {/* Card 2: Emergency Advocate Assistance CTA */}
+            {/* Card 2: Emergency Advocate help CTA */}
             <div className="bg-gradient-to-br from-[#1F5EFF] to-blue-700 text-white rounded-2xl p-6 shadow-lg">
               <div className="flex items-center gap-2 text-blue-100 text-xs font-bold uppercase tracking-wider mb-2">
                 <PhoneCall className="w-4 h-4" />
@@ -1093,7 +1093,7 @@ export default function HdfcPersonalLoanSettlementClient() {
                 <li className="flex items-start gap-2.5">
                   <Check className="w-4 h-4 text-emerald-600 flex-shrink-0 mt-0.5" />
                   <span>
-                    <strong>Direct Bank Negotiations:</strong> We bypass third-party collection agencies to represent your case before HDFC SARB and Credit Committees.
+                    <strong>Direct Bank talks:</strong> We bypass third-party collection agencies to represent your case before HDFC SARB and Credit Committees.
                   </span>
                 </li>
                 <li className="flex items-start gap-2.5">

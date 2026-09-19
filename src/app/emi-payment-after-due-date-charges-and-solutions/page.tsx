@@ -264,22 +264,22 @@ export default function EmiPaymentAfterDueDatePage() {
             </section>
 
             <section id="penal-interest-vs-late-fees" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 Understanding the Financial Hit
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6 text-gray-700">
                 When you fail to pay your EMI on the exact due date, the bank hits you with multiple charges. It is crucial to understand the difference between them so you can negotiate effectively.
               </p>
 
               <div className="grid md:grid-cols-2 gap-6 my-8">
                 <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
-                  <h3 className="font-black text-[#1F5EFF] text-lg mb-3">Bounce Charges</h3>
+                  <h4 className="font-black text-[#1F5EFF] text-lg mb-3">Bounce Charges</h4>
                   <p className="text-gray-700 leading-relaxed">
                     A flat fee charged by the bank when your NACH/ECS mandate fails due to insufficient funds. Typically ranges from ₹500 to ₹1000 per bounce.
                   </p>
                 </div>
                 <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
-                  <h3 className="font-black text-[#1F5EFF] text-lg mb-3">Penal Interest</h3>
+                  <h4 className="font-black text-[#1F5EFF] text-lg mb-3">Penal Interest</h4>
                   <p className="text-gray-700 leading-relaxed">
                     A penalty interest (usually 2% - 3% per month) calculated on the overdue EMI amount for the exact number of days it remains unpaid.
                   </p>
@@ -287,7 +287,7 @@ export default function EmiPaymentAfterDueDatePage() {
               </div>
 
               <div className="bg-red-50 p-6 rounded-xl border border-red-100 mb-8">
-                <h4 className="text-xl font-black text-red-700 mb-4">RBI Rule Warning</h4>
+                <h5 className="text-xl font-black text-red-700 mb-4">RBI Rule Warning</h5>
                 <p className="text-lg leading-relaxed text-red-900">
                   As per the latest RBI guidelines, banks are strictly prohibited from capitalizing penal charges. Penal interest must be calculated ONLY on the overdue EMI amount, never on the total outstanding principal balance.
                 </p>
@@ -295,9 +295,9 @@ export default function EmiPaymentAfterDueDatePage() {
             </section>
 
             <section id="cibil-impact" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 EMI Paid After Due Date: CIBIL Impact
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6 text-gray-700">
                 One of the biggest concerns for borrowers is how a delayed payment affects their credit score. The impact of an EMI paid after due date on CIBIL depends entirely on the timing of your payment.
               </p>
@@ -311,15 +311,15 @@ export default function EmiPaymentAfterDueDatePage() {
             </section>
 
             <section id="legal-rights-borrower" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 Legal Rights of the Borrower
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6 text-gray-700">
                 It is a common misconception that defaulting on an EMI immediately strips the borrower of their legal rights. In reality, the Reserve Bank of India (RBI) has laid down strict fair practices codes that all banks and NBFCs must follow, regardless of your payment status. Understanding these rights can protect you from harassment and undue pressure by recovery agents.
               </p>
               
               <div className="bg-[#f8faff] p-8 rounded-2xl mb-8 border border-[#DEDEDE]">
-                <h3 className="text-xl font-black text-[#1F5EFF] mb-4">Your Crucial Protections</h3>
+                <h4 className="text-xl font-black text-[#1F5EFF] mb-4">Your Crucial Protections</h4>
                 <ul className="space-y-4">
                   <li className="flex gap-4">
                     <div className="mt-1 w-2 h-2 rounded-full bg-[#1F5EFF] flex-shrink-0"></div>
@@ -338,23 +338,23 @@ export default function EmiPaymentAfterDueDatePage() {
             </section>
 
             <section id="settlement-vs-waiver" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 Penalty Waiver vs. Loan Settlement
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6 text-gray-700">
                 Many borrowers confuse a late payment penalty waiver with a loan settlement. These are two completely different financial actions with vastly different impacts on your long-term credit health and CIBIL score.
               </p>
               
               <div className="grid md:grid-cols-2 gap-6 my-8">
                 <div className="bg-white p-6 rounded-xl border-t-4 border-[#1F5EFF] shadow-sm">
-                  <h3 className="font-black text-[#2E2E2E] text-xl mb-3">Penalty Waiver</h3>
+                  <h4 className="font-black text-[#2E2E2E] text-xl mb-3">Penalty Waiver</h4>
                   <p className="text-gray-700 leading-relaxed mb-4">
                     A waiver means you are paying the full principal EMI, but asking the bank to forgive the extra late fees and penal interest generated due to the delay.
                   </p>
                   <p className="text-sm text-[#1F5EFF] font-bold uppercase tracking-wider">CIBIL Impact: Neutral to Positive</p>
                 </div>
                 <div className="bg-white p-6 rounded-xl border-t-4 border-red-500 shadow-sm">
-                  <h3 className="font-black text-[#2E2E2E] text-xl mb-3">Loan Settlement</h3>
+                  <h4 className="font-black text-[#2E2E2E] text-xl mb-3">Loan Settlement</h4>
                   <p className="text-gray-700 leading-relaxed mb-4">
                     A settlement occurs when you cannot pay the full outstanding loan amount, and the bank agrees to accept a lesser amount to close the account, writing off the rest.
                   </p>
@@ -370,9 +370,9 @@ export default function EmiPaymentAfterDueDatePage() {
             </section>
 
             <section id="banking-ombudsman" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 Role of the Banking Ombudsman
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6 text-gray-700">
                 What do you do if a bank illegally capitalizes penal interest, refuses to explain mysterious charges, or unleashes harassing recovery agents despite you being just a few days late? This is where the RBI Banking Ombudsman steps in. 
               </p>
@@ -381,7 +381,7 @@ export default function EmiPaymentAfterDueDatePage() {
               </p>
 
               <div className="bg-blue-50 border-l-8 border-[#1F5EFF] p-8 rounded-r-2xl mb-8">
-                <h3 className="text-xl font-black text-[#1F5EFF] mb-4">When to Escalate to the Ombudsman:</h3>
+                <h4 className="text-xl font-black text-[#1F5EFF] mb-4">When to Escalate to the Ombudsman:</h4>
                 <div className="space-y-3">
                   <div className="flex items-start gap-3">
                     <div className="mt-1.5 w-2 h-2 rounded-full bg-[#1F5EFF] flex-shrink-0"></div>
@@ -400,9 +400,9 @@ export default function EmiPaymentAfterDueDatePage() {
             </section>
 
             <section id="how-to-waive-charges" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 How to Waive Off Late Payment Charges
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6 text-gray-700">
                 If you have been hit with a hefty late payment penalty for your personal loan, don't pay it blindly. Follow these steps to get a waiver from your bank.
               </p>
@@ -411,7 +411,7 @@ export default function EmiPaymentAfterDueDatePage() {
                 <div className="flex gap-6">
                   <div className="flex-shrink-0 w-12 h-12 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center font-black text-xl shadow-lg">1</div>
                   <div>
-                    <h3 className="text-2xl font-black text-[#2E2E2E] mb-2">Clear the Principal EMI Immediately</h3>
+                    <h4 className="text-2xl font-black text-[#2E2E2E] mb-2">Clear the Principal EMI Immediately</h4>
                     <p className="text-lg text-gray-700 leading-relaxed">
                       Before asking for a waiver, transfer the actual EMI amount manually to your loan account. Banks will not entertain waiver requests if the core EMI is still unpaid.
                     </p>
@@ -421,7 +421,7 @@ export default function EmiPaymentAfterDueDatePage() {
                 <div className="flex gap-6">
                   <div className="flex-shrink-0 w-12 h-12 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center font-black text-xl shadow-lg">2</div>
                   <div>
-                    <h3 className="text-2xl font-black text-[#2E2E2E] mb-2">Draft a Formal Request</h3>
+                    <h4 className="text-2xl font-black text-[#2E2E2E] mb-2">Draft a Formal Request</h4>
                     <p className="text-lg text-gray-700 leading-relaxed">
                       Write an email to the customer grievance cell or visit your branch manager. Clearly state the genuine reason for the delay (e.g., salary credited late, medical emergency).
                     </p>
@@ -431,7 +431,7 @@ export default function EmiPaymentAfterDueDatePage() {
                 <div className="flex gap-6">
                   <div className="flex-shrink-0 w-12 h-12 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center font-black text-xl shadow-lg">3</div>
                   <div>
-                    <h3 className="text-2xl font-black text-[#2E2E2E] mb-2">Leverage Your Track Record</h3>
+                    <h4 className="text-2xl font-black text-[#2E2E2E] mb-2">Leverage Your Track Record</h4>
                     <p className="text-lg text-gray-700 leading-relaxed">
                       If this is your first time missing a payment in several years, highlight your clean track record. Bank managers have discretionary power to reverse late fees for good customers.
                     </p>
@@ -440,7 +440,7 @@ export default function EmiPaymentAfterDueDatePage() {
               </div>
 
               <div className="bg-blue-50 border-l-8 border-[#1F5EFF] p-8 rounded-r-2xl mb-8 mt-12">
-                <h4 className="text-xl font-black text-[#1F5EFF] mb-4">Pro Tips for Waiver Negotiation:</h4>
+                <h5 className="text-xl font-black text-[#1F5EFF] mb-4">Pro Tips for Waiver Negotiation:</h5>
                 <div className="space-y-3">
                   <div className="flex items-start gap-3">
                     <div className="mt-1.5 w-2 h-2 rounded-full bg-[#1F5EFF] flex-shrink-0"></div>
@@ -459,9 +459,9 @@ export default function EmiPaymentAfterDueDatePage() {
             </section>
 
             <section id="success-stories" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 Borrower Success Stories
-              </h2>
+              </h3>
               
               <div className="grid md:grid-cols-2 gap-6 mt-8">
                 <div className="bg-white p-8 rounded-[30px] border border-[#DEDEDE] shadow-sm hover:shadow-xl group transition-all">
@@ -470,7 +470,7 @@ export default function EmiPaymentAfterDueDatePage() {
                       R
                     </div>
                     <div>
-                      <h3 className="font-bold text-[#2E2E2E]">Rajat Verma</h3>
+                      <h4 className="font-bold text-[#2E2E2E]">Rajat Verma</h4>
                       <div className="flex gap-1 mt-1 text-yellow-400">
                         <svg className="w-4 h-4 fill-current" viewBox="0 0 20 20"><path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z" /></svg>
                         <svg className="w-4 h-4 fill-current" viewBox="0 0 20 20"><path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z" /></svg>
@@ -493,7 +493,7 @@ export default function EmiPaymentAfterDueDatePage() {
                       S
                     </div>
                     <div>
-                      <h4 className="font-bold text-[#2E2E2E]">Sneha P.</h4>
+                      <h5 className="font-bold text-[#2E2E2E]">Sneha P.</h5>
                       <div className="flex gap-1 mt-1 text-yellow-400">
                         <svg className="w-4 h-4 fill-current" viewBox="0 0 20 20"><path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z" /></svg>
                         <svg className="w-4 h-4 fill-current" viewBox="0 0 20 20"><path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z" /></svg>
@@ -513,9 +513,9 @@ export default function EmiPaymentAfterDueDatePage() {
             </section>
 
             <section id="faq" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">
                 Frequently Asked Questions
-              </h2>
+              </h3>
               
               <div className="space-y-4">
                 {[
@@ -549,7 +549,7 @@ export default function EmiPaymentAfterDueDatePage() {
             <div className="bg-[#2E2E2E] text-white p-12 rounded-[40px] text-center mt-24 relative overflow-hidden group">
               <div className="absolute inset-0 bg-[#1F5EFF] opacity-0 group-hover:opacity-5 transition-opacity"></div>
               <div className="relative z-10">
-                <h3 className="text-3xl md:text-4xl font-black mb-6">Stop Paying Unfair Bank Penalties</h3>
+                <h4 className="text-3xl md:text-4xl font-black mb-6">Stop Paying Unfair Bank Penalties</h4>
                 <p className="text-xl mb-8 text-gray-300 max-w-2xl mx-auto">
                   Has the bank charged you exorbitant late fees? Get professional legal help to draft a waiver request and protect your CIBIL score today.
                 </p>

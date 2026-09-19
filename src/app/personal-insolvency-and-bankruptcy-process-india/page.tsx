@@ -526,9 +526,9 @@ export default function PersonalInsolvencyAndBankruptcyProcessIndiaPage() {
 
             {/* Section 2: Statutory Legal Grounding: IBC Part III Architecture & Section 96 Moratorium */}
             <section id="statutory-ibc-architecture-section-94-96" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                 2. Statutory Architecture of IBC Part III: Section 94 Debtor Petitions &amp; The Section 96 Statutory Interim Moratorium
-              </h2>
+              </h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Part III of the IBC operates through an organized statutory hierarchy designed to protect the debtor while balancing legitimate creditor rights under constitutional law. The procedural mechanics begin when an eligible debtor or creditor initiates legal proceedings before the designated Adjudicating Authority:
               </p>
@@ -585,9 +585,9 @@ export default function PersonalInsolvencyAndBankruptcyProcessIndiaPage() {
 
             {/* Section 3: The Fresh Start Process */}
             <section id="fresh-start-process-eligibility-limits" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                 3. The &quot;Fresh Start&quot; Process (Chapter II, Sections 79–93): Eligibility, Limitations &amp; Realities
-              </h2>
+              </h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Under Chapter II of Part III of the IBC (Sections 79 through 93), the legislature introduced the revolutionary <strong>Fresh Start Process</strong>. This unique statutory instrument is specifically designed as a social welfare mechanism to relieve impoverished, low-income citizens from unpayable micro-debts without the heavy administrative costs of full-blown insolvency litigation.
               </p>
@@ -641,9 +641,9 @@ export default function PersonalInsolvencyAndBankruptcyProcessIndiaPage() {
 
             {/* Section 4: Individual Insolvency Resolution Process (IIRP) in DRT */}
             <section id="drt-individual-insolvency-repayment-plan" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                 4. Individual Insolvency Resolution Process (IIRP) in the DRT: Resolution Professionals, Repayment Plans &amp; NPV Valuation
-              </h2>
+              </h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 For mid-to-high ticket individual borrowers, business entrepreneurs, and personal guarantors whose financial liabilities exceed the Fresh Start thresholds, the statutory route is the <strong>Individual Insolvency Resolution Process (IIRP)</strong> under Chapter III (Sections 94–120).
               </p>
@@ -653,25 +653,25 @@ export default function PersonalInsolvencyAndBankruptcyProcessIndiaPage() {
 
               <div className="space-y-3 my-4">
                 <div className="p-4 rounded-xl border-l-4 border-blue-600 bg-slate-50 space-y-1">
-                  <h3 className="font-bold text-slate-900 text-xs sm:text-sm">Step 1: Appointment &amp; Report of the Resolution Professional (Section 97 &amp; 99)</h3>
+                  <h4 className="font-bold text-slate-900 text-xs sm:text-sm">Step 1: Appointment &amp; Report of the Resolution Professional (Section 97 &amp; 99)</h4>
                   <p className="text-xs text-slate-600 leading-relaxed">
                     The DRT directs the IBBI to nominate an independent Resolution Professional (RP). The RP audits the debtor&apos;s financial records, verifies default authenticity, and submits a comprehensive Section 99 report recommending admission or rejection of the insolvency petition.
                   </p>
                 </div>
                 <div className="p-4 rounded-xl border-l-4 border-indigo-600 bg-slate-50 space-y-1">
-                  <h4 className="font-bold text-slate-900 text-xs sm:text-sm">Step 2: Formulation of the Section 105 Repayment Plan</h4>
+                  <h5 className="font-bold text-slate-900 text-xs sm:text-sm">Step 2: Formulation of the Section 105 Repayment Plan</h5>
                   <p className="text-xs text-slate-600 leading-relaxed">
                     The debtor, assisted by specialized debt defense advocates and the RP, prepares a comprehensive Repayment Plan. The plan outlines restructuring terms, proposed debt haircuts (35%–60%), liquidation of non-core secondary assets, and a realistic tranche repayment schedule over 12 to 36 months.
                   </p>
                 </div>
                 <div className="p-4 rounded-xl border-l-4 border-purple-600 bg-slate-50 space-y-1">
-                  <h4 className="font-bold text-slate-900 text-xs sm:text-sm">Step 3: Creditor Voting &amp; The 75% Majority Requirement (Section 111)</h4>
+                  <h5 className="font-bold text-slate-900 text-xs sm:text-sm">Step 3: Creditor Voting &amp; The 75% Majority Requirement (Section 111)</h5>
                   <p className="text-xs text-slate-600 leading-relaxed">
                     The RP convenes a formal meeting of all participating creditors. Under Section 111, for the repayment plan to succeed, it must secure approval by a majority of more than <strong>75% in total value of the voting creditors</strong>.
                   </p>
                 </div>
                 <div className="p-4 rounded-xl border-l-4 border-emerald-600 bg-slate-50 space-y-1">
-                  <h4 className="font-bold text-slate-900 text-xs sm:text-sm">Step 4: DRT Judicial Sanction Order (Section 114)</h4>
+                  <h5 className="font-bold text-slate-900 text-xs sm:text-sm">Step 4: DRT Judicial Sanction Order (Section 114)</h5>
                   <p className="text-xs text-slate-600 leading-relaxed">
                     Upon approval by the requisite creditor majority, the Presiding Officer of the DRT passes a judicial sanction order under Section 114, making the compromise plan legally binding on the debtor, all secured and unsecured creditors, and guarantors.
                   </p>
@@ -703,9 +703,9 @@ export default function PersonalInsolvencyAndBankruptcyProcessIndiaPage() {
 
             {/* Section 5: Infographic Banner */}
             <section id="personal-insolvency-visual-roadmap" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                 5. Personal Insolvency &amp; Bankruptcy Process: Statutory Visual Roadmap
-              </h2>
+              </h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 The visual roadmap below details the complete 5-stage statutory lifecycle under the Insolvency and Bankruptcy Code (IBC) and Debt Recovery Tribunal (DRT): from initial default and Section 94/95 filings to the Section 96 interim moratorium shield, Resolution Professional investigation, creditor voting, and full judicial debt discharge.
               </p>
@@ -740,9 +740,9 @@ export default function PersonalInsolvencyAndBankruptcyProcessIndiaPage() {
 
             {/* Section 6: Section 121–148 Bankruptcy Order */}
             <section id="bankruptcy-order-liquidation-discharge" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                 6. Chapter IV Formal Bankruptcy: Asset Liquidation, Section 138 Discharge Orders &amp; Disqualifications
-              </h2>
+              </h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 When an Individual Insolvency Resolution Process fails—either because creditors reject the proposed repayment plan or the debtor is genuinely unable to offer any settlement terms—the statutory machinery shifts into <strong>Chapter IV (Bankruptcy for Individuals and Partnership Firms, Sections 121–148)</strong>.
               </p>
@@ -802,9 +802,9 @@ export default function PersonalInsolvencyAndBankruptcyProcessIndiaPage() {
 
             {/* Section 7: Personal Guarantors & Supreme Court Precedents */}
             <section id="personal-guarantors-corporate-debtors" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                 7. Personal Guarantors to Corporate Debtors: Supreme Court Precedents &amp; Parallel DRT / NCLT Jurisdictions
-              </h2>
+              </h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 The most litigated and commercially active dimension of Part III of the IBC in India involves <strong>Personal Guarantors to Corporate Debtors</strong>. By a landmark central government notification dated November 15, 2019, the Ministry of Corporate Affairs operationalized the personal insolvency provisions specifically for personal guarantors.
               </p>
@@ -834,9 +834,9 @@ export default function PersonalInsolvencyAndBankruptcyProcessIndiaPage() {
 
             {/* Section 8: Remittance, ₹0 NDC & Credit Recovery */}
             <section id="remittance-rbi-ndc-cibil-recovery" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                 8. Loan Remittance, RBI ₹0 No Dues Certificate Mandate &amp; Long-Term Credit Bureau Rehabilitation
-              </h2>
+              </h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Whether a borrower achieves debt resolution through a judicially confirmed IBC Repayment Plan (Section 114), a formal Discharge Order (Section 138), or an advocate-negotiated Bank One-Time Settlement (OTS), securing unassailable closure documentation is vital.
               </p>
@@ -854,9 +854,9 @@ export default function PersonalInsolvencyAndBankruptcyProcessIndiaPage() {
                 </p>
               </div>
 
-              <h3 className="text-base sm:text-lg font-bold text-slate-900 pt-2">
+              <h4 className="text-base sm:text-lg font-bold text-slate-900 pt-2">
                 Credit Information Bureau (CIBIL) Trajectory &amp; Score Rehabilitation
-              </h3>
+              </h4>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Borrowers must understand the precise mechanism of credit bureau reporting after resolving insolvency or debt default:
               </p>
@@ -882,9 +882,9 @@ export default function PersonalInsolvencyAndBankruptcyProcessIndiaPage() {
 
             {/* Section 9: Dispute Resolution Comparative Matrix */}
             <section id="insolvency-comparative-resolution-matrix" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                 9. Dispute Resolution Comparative Matrix: IBC Personal Insolvency vs DRT OA vs Bank OTS vs Civil Suit
-              </h2>
+              </h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Evaluating the strategic parameters across major Indian debt resolution mechanisms illustrates the comparative advantages of judicial discharge, tribunal defense, and advocate-led compromise settlements:
               </p>
@@ -944,9 +944,9 @@ export default function PersonalInsolvencyAndBankruptcyProcessIndiaPage() {
             {/* Section 10: SettleLoans Legal Defense & Advisory + CompanySection */}
             <section id="company-resolution-section" className="space-y-6">
               <div className="border-t border-slate-200 pt-8 space-y-4">
-                <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
+                <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                   10. SettleLoans Personal Insolvency Defense &amp; Institutional Debt Advisory
-                </h2>
+                </h3>
                 <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                   Navigating personal insolvency petitions, Debt Recovery Tribunal litigation, and complex bank compromise negotiations requires seasoned legal advocates who possess deep mastery of the Insolvency and Bankruptcy Code, banking regulations, and civil recovery laws. SettleLoans provides comprehensive legal defense for borrowers, corporate guarantors, and stressed individuals across India: invoking Section 96 interim moratoriums, auditing loan ledgers for illegal penal interest, representing clients before the DRT, and negotiating directly with bank Zonal Committees to deliver massive principal haircuts backed by authentic No Dues Certificates.
                 </p>
@@ -960,9 +960,9 @@ export default function PersonalInsolvencyAndBankruptcyProcessIndiaPage() {
             <section id="faqs" className="space-y-4 border-t border-slate-200 pt-8">
               <div className="flex items-center gap-2 mb-2">
                 <HelpCircle className="w-5 h-5 text-[#1F5EFF]" />
-                <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
+                <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                   11. Frequently Asked Questions: Personal Insolvency &amp; Bankruptcy in India
-                </h2>
+                </h3>
               </div>
               <p className="text-xs sm:text-sm text-slate-600 mb-6">
                 Direct, legally verified answers to critical questions regarding personal insolvency petitions, Section 96 interim moratoriums, DRT procedures, Fresh Start eligibility, and debt discharge orders in India.
@@ -992,9 +992,9 @@ export default function PersonalInsolvencyAndBankruptcyProcessIndiaPage() {
 
             {/* 5 Official Regulatory Links */}
             <section className="border-t border-slate-200 pt-8 mb-4">
-              <h3 className="text-xs sm:text-sm font-bold text-slate-900 mb-3 uppercase tracking-wider">
+              <h4 className="text-xs sm:text-sm font-bold text-slate-900 mb-3 uppercase tracking-wider">
                 Official Statutory &amp; Regulatory References
-              </h3>
+              </h4>
               <div className="grid grid-cols-1 sm:grid-cols-2 gap-2.5 text-xs">
                 <a
                   href="https://indiacode.gov.in/handle/123456789/2154"
@@ -1046,9 +1046,9 @@ export default function PersonalInsolvencyAndBankruptcyProcessIndiaPage() {
 
             {/* 10 Related Guide Badges */}
             <section className="border-t border-slate-200 pt-8 mb-8">
-              <h3 className="text-xs sm:text-sm font-bold text-slate-900 mb-4 uppercase tracking-wider">
+              <h4 className="text-xs sm:text-sm font-bold text-slate-900 mb-4 uppercase tracking-wider">
                 Related Legal Defense &amp; Loan Resolution Guides
-              </h3>
+              </h4>
               <div className="flex flex-wrap gap-2">
                 <Link
                   href="/drt-loan-settlement-process"

@@ -351,7 +351,7 @@ export default function IgnoringCallsPage() {
               In banking terminology, this switch in behavior often triggers a shift from "Soft Collections" to "Hard Collections." Soft collections involve polite reminders and internal bank staff trying to help you find a way to pay. Hard collections involve third party agencies whose agents are incentivized by commissions on the amount they recover. By staying silent, you are effectively choosing the more aggressive path for your own recovery process.
             </p>
             <div className="bg-red-50 border-l-4 border-red-500 p-6 rounded-r-lg mb-8">
-              <h3 className="text-xl font-bold text-red-800 mb-2">The Classification Trap</h3>
+              <h4 className="text-xl font-bold text-red-800 mb-2">The Classification Trap</h4>
               <p className="text-red-900/80">
                 If you have missed two or more EMIs and are actively avoiding all forms of digital and telephonic communication, the bank's automated systems will likely mark you as a "Potential Willful Defaulter." This does not mean you have the money and are not paying, but it means the bank *perceives* you that way because you have refused to explain your situation. Once this label is attached, your chances of getting a moratorium, a restructuring deal, or a polite settlement drop significantly.
               </p>
@@ -359,7 +359,7 @@ export default function IgnoringCallsPage() {
           </section>
 
           <section id="psychological-toll" className="scroll-mt-32 mb-12">
-             <h2 className="text-2xl md:text-3xl font-black text-[#2E2E2E] mb-6">The Psychological Toll of Avoidance: Living in a Digital Fortress</h2>
+             <h3 className="text-2xl md:text-3xl font-black text-[#2E2E2E] mb-6">The Psychological Toll of Avoidance: Living in a Digital Fortress</h3>
              <p className="text-lg leading-relaxed mb-6">
                The mental health impact of debt is one of the most underreported crises in urban India today. Living in constant fear of your phone is physically and mentally exhausting. The constant anxiety spikes every time your device rings, vibrates, or even just lights up with a notification, which can lead to severe issues like chronic stress, clinical insomnia, and deep depression.
              </p>
@@ -378,7 +378,7 @@ export default function IgnoringCallsPage() {
           </section>
 
           <section id="legal-escalation" className="scroll-mt-32 mb-12">
-            <h2 className="text-2xl md:text-3xl font-black text-[#2E2E2E] mb-6">Legal Escalation: Detailed Breakdown of NI Act vs PSS Act</h2>
+            <h3 className="text-2xl md:text-3xl font-black text-[#2E2E2E] mb-6">Legal Escalation: Detailed Breakdown of NI Act vs PSS Act</h3>
             <p className="text-lg leading-relaxed mb-6">
               One of the biggest misconceptions in the Indian debt landscape is that "nothing happens" if you simply ignore direct communication from the bank or its agents. While it is true that the police will not show up at your door for a missed payment (which is a civil matter), the legal machinery is designed to move slow but relentlessly. When communication breaks down, the lender stops trying to talk and starts trying to litigate.
             </p>
@@ -408,19 +408,19 @@ export default function IgnoringCallsPage() {
           </section>
 
           <section id="npa-classification" className="scroll-mt-32 mb-12">
-            <h2 className="text-2xl md:text-3xl font-black text-[#2E2E2E] mb-6">NPA Classification Realities: The Point of No Return</h2>
+            <h3 className="text-2xl md:text-3xl font-black text-[#2E2E2E] mb-6">NPA Classification Realities: The Point of No Return</h3>
             <p className="text-lg leading-relaxed mb-6">
               In the Indian banking system, the ninety day mark is the "Rubicon." If you fail to pay any amount for ninety consecutive days, your loan account is classified as a Non Performing Asset (NPA). This is not just a bookkeeping entry; it fundamentally changes your relationship with the bank.
             </p>
             <div className="grid md:grid-cols-2 gap-6 mb-8">
                <div className="bg-orange-50 p-6 rounded-xl border border-orange-100">
-                 <h3 className="font-bold text-orange-900 mb-2 underline decoration-orange-300">Phase 1: SMA (Special Mention Account)</h3>
+                 <h4 className="font-bold text-orange-900 mb-2 underline decoration-orange-300">Phase 1: SMA (Special Mention Account)</h4>
                  <p className="text-sm text-orange-800 leading-relaxed">
                    Before ninety days, you are in the SMA 0, SMA 1, or SMA 2 category. During this phase, you are still a "Standard Asset." The bank's goal is to keep you as a customer. You have the maximum leverage to negotiate for a moratorium or a restructuring of your loan terms.
                  </p>
                </div>
                <div className="bg-red-50 p-6 rounded-xl border border-red-100">
-                 <h4 className="font-bold text-red-900 mb-2 underline decoration-red-300">Phase 2: NPA (Non Performing Asset)</h4>
+                 <h5 className="font-bold text-red-900 mb-2 underline decoration-red-300">Phase 2: NPA (Non Performing Asset)</h5>
                  <p className="text-sm text-red-800 leading-relaxed">
                    Once you hit the ninety one day mark, you are an NPA. The bank's risk department takes over. For secured loans, the SARFAESI Act is triggered. For unsecured loans, the bank writes off the debt and moves it to the legal recovery cell. Standard customer service will no longer talk to you; you must now deal with recovery lawyers.
                  </p>
@@ -432,7 +432,7 @@ export default function IgnoringCallsPage() {
           </section>
 
           <section id="rbi-guidelines" className="scroll-mt-32 mb-12">
-             <h2 className="text-2xl md:text-3xl font-black text-[#2E2E2E] mb-6">RBI Guidelines: Your Bill of Rights as a Borrower</h2>
+             <h3 className="text-2xl md:text-3xl font-black text-[#2E2E2E] mb-6">RBI Guidelines: Your Bill of Rights as a Borrower</h3>
              <p className="text-lg leading-relaxed mb-6">
                The Reserve Bank of India has clear, strict guidelines to protect borrowers from unethical recovery practices. Even if you have defaulted on multiple loans, you do not lose your fundamental rights as a citizen, nor do you lose your right to dignity. Ignorance of these rights often empowers rogue agents to cross the line. Here is a detailed breakdown of what agents are strictly prohibited from doing under the RBI Fair Practices Code:
              </p>
@@ -449,7 +449,7 @@ export default function IgnoringCallsPage() {
                       <svg className="w-8 h-8" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M18.364 18.364A9 9 0 005.636 5.636m12.728 12.728A9 9 0 015.636 5.636m12.728 12.728L5.636 5.636"></path></svg>
                     </div>
                     <div>
-                      <h3 className="font-bold text-xl text-[#2E2E2E] mb-1">{item.title}</h3>
+                      <h4 className="font-bold text-xl text-[#2E2E2E] mb-1">{item.title}</h4>
                       <p className="text-gray-600 leading-relaxed">{item.desc}</p>
                     </div>
                  </div>
@@ -461,7 +461,7 @@ export default function IgnoringCallsPage() {
           </section>
 
           <section id="field-visit-protocol" className="scroll-mt-32 mb-12">
-             <h2 className="text-2xl md:text-3xl font-black text-[#2E2E2E] mb-6">The Field Visit Protocol: What to Do If Agents Visit Your Home</h2>
+             <h3 className="text-2xl md:text-3xl font-black text-[#2E2E2E] mb-6">The Field Visit Protocol: What to Do If Agents Visit Your Home</h3>
              <p className="text-lg leading-relaxed mb-6">
                A visit from a recovery agent can be intimidating, especially if it happens in front of your family or neighbors. However, you must remember that you are on your own property and you have the upper hand. Here is the step by step action plan for a field visit:
              </p>
@@ -503,24 +503,24 @@ export default function IgnoringCallsPage() {
           </section>
 
           <section id="ombudsman-process" className="scroll-mt-32 mb-12">
-             <h2 className="text-2xl md:text-3xl font-black text-[#2E2E2E] mb-6">RBI Ombudsman: Moving from Complaint to Resolution</h2>
+             <h3 className="text-2xl md:text-3xl font-black text-[#2E2E2E] mb-6">RBI Ombudsman: Moving from Complaint to Resolution</h3>
              <p className="text-lg leading-relaxed mb-6">
                If you have filed a grievance with the bank and they have not resolved it within thirty days, or if their response is unsatisfactory, you can approach the Reserve Bank Integrated Ombudsman Scheme (RB IOS). This is a fast, free, and incredibly effective platform.
              </p>
              <div className="grid md:grid-cols-3 gap-6 mb-8">
                 <div className="bg-white p-6 rounded-2xl border border-gray-100 shadow-sm text-center">
                    <div className="w-12 h-12 bg-blue-50 text-[#1F5EFF] rounded-full flex items-center justify-center mx-auto mb-4 font-black">1</div>
-                   <h3 className="font-bold mb-2">Lodge on CMS Portal</h3>
+                   <h4 className="font-bold mb-2">Lodge on CMS Portal</h4>
                    <p className="text-xs text-gray-500">Visit cms.rbi.org.in and fill out the online form with your loan details and evidence of harassment.</p>
                 </div>
                 <div className="bg-white p-6 rounded-2xl border border-gray-100 shadow-sm text-center">
                    <div className="w-12 h-12 bg-blue-50 text-[#1F5EFF] rounded-full flex items-center justify-center mx-auto mb-4 font-black">2</div>
-                   <h4 className="font-bold mb-2">Submit Evidence</h4>
+                   <h5 className="font-bold mb-2">Submit Evidence</h5>
                    <p className="text-xs text-gray-500">Upload call recordings, screenshots of messages, and the initial complaint you sent to the bank.</p>
                 </div>
                 <div className="bg-white p-6 rounded-2xl border border-gray-100 shadow-sm text-center">
                    <div className="w-12 h-12 bg-blue-50 text-[#1F5EFF] rounded-full flex items-center justify-center mx-auto mb-4 font-black">3</div>
-                   <h5 className="font-bold mb-2">Wait for Award</h5>
+                   <h6 className="font-bold mb-2">Wait for Award</h6>
                    <p className="text-xs text-gray-500">The Ombudsman will investigate and can direct the bank to stop harassment and even pay you compensation.</p>
                 </div>
              </div>
@@ -530,12 +530,12 @@ export default function IgnoringCallsPage() {
           </section>
 
           <section id="regulatory-updates-2025" className="scroll-mt-32 mb-12">
-             <h2 className="text-2xl md:text-3xl font-black text-[#2E2E2E] mb-6">2025 Regulatory Updates: Stricter Rules for Lenders</h2>
+             <h3 className="text-2xl md:text-3xl font-black text-[#2E2E2E] mb-6">2025 Regulatory Updates: Stricter Rules for Lenders</h3>
              <p className="text-lg leading-relaxed mb-6">
                As we move into 2025, the regulatory environment in India has shifted significantly in favor of the borrower's right to privacy and peace. The RBI has issued several internal circulars that mandate technological and procedural changes for all REs (Regulated Entities).
              </p>
              <div className="bg-amber-50 rounded-2xl p-8 border border-amber-100 mb-8">
-                <h3 className="font-bold text-amber-900 mb-4 text-xl">What is New in 2025?</h3>
+                <h4 className="font-bold text-amber-900 mb-4 text-xl">What is New in 2025?</h4>
                 <ul className="space-y-4 text-amber-900/80">
                    <li className="flex gap-3">
                       <span className="text-amber-500 font-bold">▶</span>
@@ -558,7 +558,7 @@ export default function IgnoringCallsPage() {
           </section>
 
           <section id="recovery-tactics" className="scroll-mt-32 mb-12">
-            <h2 className="text-2xl md:text-3xl font-black text-[#2E2E2E] mb-6">Common Recovery Tactics (And Truths)</h2>
+            <h3 className="text-2xl md:text-3xl font-black text-[#2E2E2E] mb-6">Common Recovery Tactics (And Truths)</h3>
              <p className="text-lg leading-relaxed mb-6">
                Agents use psychological scripts designed to panic you into making irrational financial decisions. By knowing the truth behind these scripts, you neutralize their power.
              </p>
@@ -597,7 +597,7 @@ export default function IgnoringCallsPage() {
           </section>
 
           <section id="what-not-to-do" className="scroll-mt-32 mb-12">
-             <h2 className="text-2xl md:text-3xl font-black text-[#2E2E2E] mb-6">What NOT To Do: Avoiding Common Pitfalls</h2>
+             <h3 className="text-2xl md:text-3xl font-black text-[#2E2E2E] mb-6">What NOT To Do: Avoiding Common Pitfalls</h3>
              <ul className="list-disc pl-6 space-y-4 text-lg text-gray-700 leading-relaxed">
                <li><strong>Do NOT switch off your phone permanently:</strong> This marks you as "Untraceable" (UTP) in the system. When digital communication fails, the bank is legally allowed to ramp up physical field visits to find you.</li>
                <li><strong>Do NOT promise what you cannot deliver:</strong> Do not tell an agent "I will pay five thousand on Monday" just to end the call. When you miss that promise, the system marks you as a "deceptive borrower," which triggers more aggressive tactics.</li>
@@ -608,7 +608,7 @@ export default function IgnoringCallsPage() {
           </section>
 
           <section id="right-way-to-handle" className="scroll-mt-32 mb-12">
-             <h2 className="text-2xl md:text-3xl font-black text-[#2E2E2E] mb-6">The Right Way to Handle Recovery Calls</h2>
+             <h3 className="text-2xl md:text-3xl font-black text-[#2E2E2E] mb-6">The Right Way to Handle Recovery Calls</h3>
              <div className="bg-green-50/50 p-10 rounded-3xl border border-green-100 shadow-sm">
                 <p className="text-lg font-bold text-green-900 mb-6 italic underline decoration-green-200">The "Professional Borrower" Protocol:</p>
                 <ol className="list-decimal pl-5 space-y-6 font-medium text-gray-800">
@@ -632,7 +632,7 @@ export default function IgnoringCallsPage() {
           </section>
 
           <section id="loan-settlement-role" className="scroll-mt-32 mb-12">
-             <h2 className="text-2xl md:text-3xl font-black text-[#2E2E2E] mb-6">How Loan Settlement Stops the Chaos Permanently</h2>
+             <h3 className="text-2xl md:text-3xl font-black text-[#2E2E2E] mb-6">How Loan Settlement Stops the Chaos Permanently</h3>
              <p className="text-lg leading-relaxed mb-6">
                If your financial hardship is genuine and long term (e.g., permanent job loss, medical disability, or business failure), continuing to answer calls is just a "Band Aid" on a deep wound. The interest and penalties will grow until they are larger than the original loan. The only sustainable exit strategy for unsecured debt is <strong>Professional Loan Settlement</strong>.
              </p>
@@ -641,26 +641,26 @@ export default function IgnoringCallsPage() {
              </p>
              <div className="grid sm:grid-cols-2 gap-6 mb-8">
                <div className="bg-white p-8 rounded-2xl shadow-sm border border-gray-100 hover:shadow-lg transition-all border-b-4 border-b-[#1F5EFF]">
-                 <h3 className="font-black text-2xl text-[#2E2E2E] mb-3">Legal Shield</h3>
+                 <h4 className="font-black text-2xl text-[#2E2E2E] mb-3">Legal Shield</h4>
                  <p className="text-sm text-gray-600 leading-relaxed">We issue a formal legal notice to the bank stating that we are your authorized representatives. Legally, the agents are now obligated to talk to us, not you.</p>
                </div>
                <div className="bg-white p-8 rounded-2xl shadow-sm border border-gray-100 hover:shadow-lg transition-all border-b-4 border-b-[#1F5EFF]">
-                 <h4 className="font-black text-2xl text-[#2E2E2E] mb-3">Interest Freeze</h4>
+                 <h5 className="font-black text-2xl text-[#2E2E2E] mb-3">Interest Freeze</h5>
                  <p className="text-sm text-gray-600 leading-relaxed">We negotiate with the bank to stop the accumulation of penalty interest and late fees, which often make up thirty to forty percent of the total outstanding amount.</p>
                </div>
                <div className="bg-white p-8 rounded-2xl shadow-sm border border-gray-100 hover:shadow-lg transition-all border-b-4 border-b-[#1F5EFF]">
-                 <h4 className="font-black text-2xl text-[#2E2E2E] mb-3">Strategic Negotiation</h4>
+                 <h5 className="font-black text-2xl text-[#2E2E2E] mb-3">Strategic Negotiation</h5>
                  <p className="text-sm text-gray-600 leading-relaxed">We use our database of thousands of successful settlements to know the "bottom line" for every bank. We negotiate a One Time Settlement (OTS) for fifty percent or less.</p>
                </div>
                <div className="bg-white p-8 rounded-2xl shadow-sm border border-gray-100 hover:shadow-lg transition-all border-b-4 border-b-[#1F5EFF]">
-                 <h4 className="font-black text-2xl text-[#2E2E2E] mb-3">NOC Verification</h4>
+                 <h5 className="font-black text-2xl text-[#2E2E2E] mb-3">NOC Verification</h5>
                  <p className="text-sm text-gray-600 leading-relaxed">We do not just get a deal; we ensure the No Dues Certificate is legally valid and that your credit report is updated to reflect the account as "Settled" or "Closed."</p>
                </div>
              </div>
           </section>
 
           <section id="mental-health-support" className="scroll-mt-32 mb-12">
-             <h2 className="text-2xl md:text-3xl font-black text-[#2E2E2E] mb-6">Mental Health and Family Support: Navigating the Crisis Together</h2>
+             <h3 className="text-2xl md:text-3xl font-black text-[#2E2E2E] mb-6">Mental Health and Family Support: Navigating the Crisis Together</h3>
              <p className="text-lg leading-relaxed mb-6">
                When you are <strong>ignoring calls of recovery agent</strong>, the stress does not stay contained within your phone. It spills over into your marriage, your relationship with your children, and your overall health. Debt is a heavy burden, but carrying it in secret makes it twice as heavy.
              </p>
@@ -668,7 +668,7 @@ export default function IgnoringCallsPage() {
                According to various psychologists working with financial distress in India, "Debt Shame" is the primary reason why people choose to ignore calls. They feel they have failed their families. However, the first step to resolution is breaking the silence at home. Your family needs to know that you are not being "irresponsible," but that you are facing a temporary financial crisis.
              </p>
              <div className="bg-purple-50 p-8 rounded-3xl border border-purple-100 mb-8">
-                <h3 className="font-bold text-purple-900 mb-4 text-xl">Protecting Your Family from Agent Harassment</h3>
+                <h4 className="font-bold text-purple-900 mb-4 text-xl">Protecting Your Family from Agent Harassment</h4>
                 <ul className="space-y-4 text-purple-800">
                    <li><strong>Truth is a Shield:</strong> Inform your spouse and adult family members about the situation. If an agent calls them or visits, they should know exactly what to say: "Please talk to the borrower directly. Do not harass us."</li>
                    <li><strong>Digital Hygiene:</strong> Help your elderly parents block unknown numbers on their phones if they are getting spam calls from recovery agencies. Show them how to report these numbers as "Spam" on Truecaller.</li>
@@ -681,7 +681,7 @@ export default function IgnoringCallsPage() {
           </section>
 
           <section id="credit-score-reality" className="scroll-mt-32 mb-12">
-             <h2 className="text-2xl md:text-3xl font-black text-[#2E2E2E] mb-6">The Truth About Credit Score and the Default Cycle</h2>
+             <h3 className="text-2xl md:text-3xl font-black text-[#2E2E2E] mb-6">The Truth About Credit Score and the Default Cycle</h3>
              <p className="text-lg leading-relaxed mb-6">
                The most common fear that keeps borrowers trapped in the "Ignoring Calls" cycle is the fear of ruining their credit score. This is ironic because by ignoring the problem, you are causing the maximum possible damage. Once your account is marked as a "Willful Defaulter" or "Suit Filed," your financial identity is effectively frozen for years.
              </p>
@@ -708,7 +708,7 @@ export default function IgnoringCallsPage() {
           </section>
 
            <section id="reviews" className="scroll-mt-32 mb-12">
-            <h2 className="text-3xl md:text-5xl font-black text-[#2E2E2E] mt-24 mb-12 text-center">Real Stories: From Harassment to Freedom</h2>
+            <h3 className="text-3xl md:text-5xl font-black text-[#2E2E2E] mt-24 mb-12 text-center">Real Stories: From Harassment to Freedom</h3>
              <div className="grid md:grid-cols-2 gap-8 not-prose mb-12">
                {[
                  { 
@@ -774,7 +774,7 @@ export default function IgnoringCallsPage() {
                        {review.name.charAt(0)}
                      </div>
                      <div>
-                       <h3 className="font-extrabold text-lg text-[#2E2E2E]">{review.name}</h3>
+                       <h4 className="font-extrabold text-lg text-[#2E2E2E]">{review.name}</h4>
                        <p className="text-xs text-gray-500 font-bold uppercase tracking-widest">{review.loc}</p>
                      </div>
                      <div className="ml-auto text-yellow-400 text-lg">★★★★★</div>
@@ -789,7 +789,7 @@ export default function IgnoringCallsPage() {
              </div>
              <div className="bg-[#1F5EFF] rounded-[32px] p-12 text-center text-white relative overflow-hidden group">
                <div className="absolute top-0 right-0 w-64 h-64 bg-white/10 rounded-full -translate-y-1/2 translate-x-1/2 blur-3xl group-hover:scale-110 transition-transform duration-700"></div>
-               <h3 className="text-3xl md:text-4xl font-black mb-6 relative z-10">Stop Being a Victim of Harassment</h3>
+               <h4 className="text-3xl md:text-4xl font-black mb-6 relative z-10">Stop Being a Victim of Harassment</h4>
                <p className="text-xl opacity-90 mb-10 max-w-2xl mx-auto font-medium relative z-10">
                  You have legal rights and we are here to enforce them. Join thousands of Indians who have reclaimed their peace.
                </p>
@@ -801,7 +801,7 @@ export default function IgnoringCallsPage() {
 
           {/* FAQs */}
           <section id="faqs" className="scroll-mt-32 mb-12">
-            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Frequently Asked Questions</h2>
+            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Frequently Asked Questions</h3>
             <div className="space-y-4 not-prose">
               {jsonLd["@graph"][3]?.mainEntity?.map((faq: any, i: number) => (
                 <details key={i} className="group bg-white border border-[#DEDEDE] rounded-xl overflow-hidden hover:shadow-md transition-all">

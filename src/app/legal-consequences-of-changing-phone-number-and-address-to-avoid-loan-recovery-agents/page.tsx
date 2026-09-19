@@ -281,13 +281,13 @@ export default function LegalConsequencesChangingNumberPage() {
 
             {/* Section 2: Psychological Toll */}
             <section id="psychological-toll" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">The Psychological Toll of Living in Hiding</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">The Psychological Toll of Living in Hiding</h3>
               <p className="text-lg leading-relaxed mb-6">
                 Before delving into the technicalities of skip tracing and criminal law, it is essential to address the sheer mental exhaustion of living as a fugitive from your own finances. When you change your address and phone number to escape debt, you are forcing yourself into a state of perpetual paranoia.
               </p>
 
               <div className="bg-gray-50 p-8 rounded-2xl mb-8 border border-gray-200">
-                <h3 className="text-2xl font-bold text-[#2E2E2E] mb-4">A Life Looked Over Your Shoulder</h3>
+                <h4 className="text-2xl font-bold text-[#2E2E2E] mb-4">A Life Looked Over Your Shoulder</h4>
                 <p className="text-lg leading-relaxed text-[#2E2E2E]/80 mb-6">
                   Every knock on the door, every unfamiliar number on your new phone, and every letter in the mail becomes a source of extreme anxiety. The fear of being "found out" in front of new colleagues or neighbors can lead to severe depression and relationship strain. 
                 </p>
@@ -299,7 +299,7 @@ export default function LegalConsequencesChangingNumberPage() {
 
             {/* Section 3: Skip Tracing */}
             <section id="skip-tracing" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">How Recovery Agents Find You: Skip Tracing Explained</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">How Recovery Agents Find You: Skip Tracing Explained</h3>
               <p className="text-lg leading-relaxed mb-6">
                 You might think a new phone number makes you invisible, but modern recovery agencies employ specialized investigators known as skip tracers. <strong className="text-[#2E2E2E]">Skip tracing recovery agents in India</strong> use a sophisticated web of digital data to track down absconding borrowers.
               </p>
@@ -310,19 +310,19 @@ export default function LegalConsequencesChangingNumberPage() {
 
               <div className="grid md:grid-cols-2 gap-6 my-8">
                 <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
-                  <h3 className="font-black text-[#1F5EFF] text-lg mb-3">CIBIL & Credit Bureaus</h3>
+                  <h4 className="font-black text-[#1F5EFF] text-lg mb-3">CIBIL & Credit Bureaus</h4>
                   <p className="text-base text-[#747474]">Any time you open a new bank account, apply for a fresh loan, or get a credit card, your new contact details are updated on your CIBIL report, instantly alerting the old lenders to your new location.</p>
                 </div>
                 <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
-                  <h4 className="font-black text-[#1F5EFF] text-lg mb-3">EPFO & Salary Data</h4>
+                  <h5 className="font-black text-[#1F5EFF] text-lg mb-3">EPFO & Salary Data</h5>
                   <p className="text-base text-[#747474]">If you switch jobs, your new employer will update your PF account via your UAN. Recovery agencies track EPFO portals to find your current employer and new work address without needing your phone number.</p>
                 </div>
                 <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
-                  <h4 className="font-black text-[#1F5EFF] text-lg mb-3">Social Media Footprint</h4>
+                  <h5 className="font-black text-[#1F5EFF] text-lg mb-3">Social Media Footprint</h5>
                   <p className="text-base text-[#747474]">Skip tracers actively monitor LinkedIn, Facebook, and Instagram. A simple job update, a tagged location in a photo, or a check-in at a local restaurant can reveal exactly where you are residing.</p>
                 </div>
                 <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
-                  <h4 className="font-black text-[#1F5EFF] text-lg mb-3">PAN & Aadhaar Trails</h4>
+                  <h5 className="font-black text-[#1F5EFF] text-lg mb-3">PAN & Aadhaar Trails</h5>
                   <p className="text-base text-[#747474]">Your PAN and Aadhaar are central to all your financial activities, including renting a new apartment, buying a vehicle, or getting a new post-paid connection. Updating KYC anywhere creates a permanent digital footprint.</p>
                 </div>
               </div>
@@ -330,13 +330,13 @@ export default function LegalConsequencesChangingNumberPage() {
 
             {/* Section 4: Impact on Co-borrowers */}
             <section id="impact-on-co-borrowers" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">What Happens to Guarantors and Co-Borrowers?</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">What Happens to Guarantors and Co-Borrowers?</h3>
               <p className="text-lg leading-relaxed mb-6">
                 A crucial detail that absconding borrowers often overlook is the collateral damage inflicted upon guarantors and co-borrowers. When you take out a substantial personal loan or business loan, the bank frequently requires a guarantor.
               </p>
               
               <div className="bg-red-50 p-6 rounded-xl border border-red-100 mb-8">
-                <h3 className="text-xl font-black text-red-700 mb-3">The Burden Shifts Completely</h3>
+                <h4 className="text-xl font-black text-red-700 mb-3">The Burden Shifts Completely</h4>
                 <p className="text-lg text-red-900 leading-relaxed mb-0">
                   If you change your number and run away, the bank will immediately shift its crosshairs to your guarantor. Legally, a guarantor is equally liable for the outstanding debt. The bank can initiate asset attachment, file civil suits, and send recovery agents directly to the guarantor's house. 
                 </p>
@@ -349,13 +349,13 @@ export default function LegalConsequencesChangingNumberPage() {
 
             {/* Section 5: Legal Consequences */}
             <section id="legal-consequences" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">Civil Default vs. Criminal Case: Section 420 IPC</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">Civil Default vs. Criminal Case: Section 420 IPC</h3>
               <p className="text-lg leading-relaxed mb-6">
                 The most dangerous consequence of changing your number and absconding is the shift in legal perspective. In India, a standard failure to repay a loan is a civil offense. You cannot be jailed merely for being unable to pay due to job loss or medical emergencies.
               </p>
 
               <div className="bg-blue-50 border-l-8 border-[#1F5EFF] p-8 rounded-r-2xl mb-8">
-                <h3 className="text-xl font-black text-[#1F5EFF] mb-4">The Breaking Point: Intent to Defraud</h3>
+                <h4 className="text-xl font-black text-[#1F5EFF] mb-4">The Breaking Point: Intent to Defraud</h4>
                 <p className="text-lg text-[#2E2E2E] leading-relaxed mb-0">
                   When you deliberately cut off communication, change your address without notice, and evade the bank, you demonstrate "malicious intent" (mens rea). The bank can argue that you took the loan with the pre-planned intention of never repaying it, effectively turning a civil matter into criminal fraud.
                 </p>
@@ -367,7 +367,7 @@ export default function LegalConsequencesChangingNumberPage() {
                     1
                   </div>
                   <div>
-                    <h3 className="text-xl font-bold text-[#2E2E2E] mb-2">Filing of an FIR</h3>
+                    <h4 className="text-xl font-bold text-[#2E2E2E] mb-2">Filing of an FIR</h4>
                     <p className="text-[#747474] text-lg leading-relaxed">
                       Banks can file a First Information Report (FIR) with the local police, escalating a simple financial default into an active police investigation based on suspected fraud.
                     </p>
@@ -379,7 +379,7 @@ export default function LegalConsequencesChangingNumberPage() {
                     2
                   </div>
                   <div>
-                    <h3 className="text-xl font-bold text-[#2E2E2E] mb-2">Charges under Section 420 IPC</h3>
+                    <h4 className="text-xl font-bold text-[#2E2E2E] mb-2">Charges under Section 420 IPC</h4>
                     <p className="text-[#747474] text-lg leading-relaxed">
                       You could be formally charged with "cheating and dishonestly inducing delivery of property" under Section 420 of the Indian Penal Code. This shifts the jurisdiction to criminal courts.
                     </p>
@@ -391,7 +391,7 @@ export default function LegalConsequencesChangingNumberPage() {
                     3
                   </div>
                   <div>
-                    <h3 className="text-xl font-bold text-[#2E2E2E] mb-2">Severe Absconding Punishment</h3>
+                    <h4 className="text-xl font-bold text-[#2E2E2E] mb-2">Severe Absconding Punishment</h4>
                     <p className="text-[#747474] text-lg leading-relaxed">
                       A conviction under Section 420 IPC carries severe penalties, including imprisonment for up to 7 years and substantial fines. Furthermore, your passport might be impounded, preventing any overseas travel.
                     </p>
@@ -402,7 +402,7 @@ export default function LegalConsequencesChangingNumberPage() {
 
             {/* Section 6: Police Involvement */}
             <section id="police-involvement" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">Can the Police Actually Arrest You for a Loan?</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">Can the Police Actually Arrest You for a Loan?</h3>
               <p className="text-lg leading-relaxed mb-6">
                 A common threat used by aggressive recovery agents is that the police will arrest you immediately if you don't pay. It is critical to separate fact from intimidation tactics. 
               </p>
@@ -416,13 +416,13 @@ export default function LegalConsequencesChangingNumberPage() {
 
             {/* Section 7: Statute of Limitations */}
             <section id="statute-of-limitations" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">Is There a Time Limit for Loan Recovery in India?</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">Is There a Time Limit for Loan Recovery in India?</h3>
               <p className="text-lg leading-relaxed mb-6">
                 Many borrowers run away hoping that after a few years, the loan will simply "expire." This is a massive misconception. While the Limitation Act sets a 3-year limit for filing a civil recovery suit from the date of default, banks have numerous legal tools to refresh this limitation period indefinitely.
               </p>
               
               <div className="bg-gray-50 p-8 rounded-2xl mb-8 border border-gray-200">
-                <h3 className="text-2xl font-bold text-[#2E2E2E] mb-4">How Banks Keep Debt Alive</h3>
+                <h4 className="text-2xl font-bold text-[#2E2E2E] mb-4">How Banks Keep Debt Alive</h4>
                 <p className="text-lg leading-relaxed text-[#2E2E2E]/80 mb-6">
                   Every time you make a partial payment, acknowledge the debt via email, or even reply to a legal notice, the 3-year clock resets. Furthermore, if you completely vanish, the bank can obtain a decree ex-parte (in your absence). An execution of a decree has a limitation period of 12 years.
                 </p>
@@ -434,13 +434,13 @@ export default function LegalConsequencesChangingNumberPage() {
 
             {/* Section 8: What to Do */}
             <section id="what-to-do" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">What to Do Instead of Absconding</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">What to Do Instead of Absconding</h3>
               <p className="text-lg leading-relaxed mb-6">
                 If you are overwhelmed by debt and harassment, hiding is the worst strategy. There are completely legal and effective ways to handle recovery agents and settle your debt with dignity.
               </p>
 
               <div className="bg-blue-50 border-l-8 border-[#1F5EFF] p-8 rounded-r-2xl mb-8">
-                <h3 className="text-xl font-black text-[#1F5EFF] mb-4">Legal Solutions to Debt Stress</h3>
+                <h4 className="text-xl font-black text-[#1F5EFF] mb-4">Legal Solutions to Debt Stress</h4>
                 <ul className="space-y-4">
                   <li className="flex items-start">
                     <div className="mt-1.5 w-2 h-2 rounded-full bg-[#1F5EFF] flex-shrink-0 mr-3"></div>
@@ -464,7 +464,7 @@ export default function LegalConsequencesChangingNumberPage() {
 
             {/* Section 9: Success Stories */}
             <section id="success-stories" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">Success Stories: Settling Loans Legally</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">Success Stories: Settling Loans Legally</h3>
               <p className="text-lg leading-relaxed mb-8">
                 Borrowers who chose to seek legal help instead of absconding found permanent relief. Here is how professional intervention helped them navigate out of deep financial trouble.
               </p>
@@ -476,7 +476,7 @@ export default function LegalConsequencesChangingNumberPage() {
                       R
                     </div>
                     <div>
-                      <h3 className="font-bold text-[#2E2E2E]">Rahul S.</h3>
+                      <h4 className="font-bold text-[#2E2E2E]">Rahul S.</h4>
                       <div className="flex text-[#FFD700]">
                         <svg className="w-4 h-4 fill-current" viewBox="0 0 20 20"><path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z"/></svg>
                         <svg className="w-4 h-4 fill-current" viewBox="0 0 20 20"><path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z"/></svg>
@@ -499,7 +499,7 @@ export default function LegalConsequencesChangingNumberPage() {
                       V
                     </div>
                     <div>
-                      <h4 className="font-bold text-[#2E2E2E]">Vikram M.</h4>
+                      <h5 className="font-bold text-[#2E2E2E]">Vikram M.</h5>
                       <div className="flex text-[#FFD700]">
                         <svg className="w-4 h-4 fill-current" viewBox="0 0 20 20"><path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z"/></svg>
                         <svg className="w-4 h-4 fill-current" viewBox="0 0 20 20"><path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z"/></svg>
@@ -520,7 +520,7 @@ export default function LegalConsequencesChangingNumberPage() {
 
             {/* Section 10: FAQs */}
             <section id="faq" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">Frequently Asked Questions</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">Frequently Asked Questions</h3>
               <div className="space-y-4">
                 {[
                   { q: "Can I be arrested for running away from bank loan default?", a: "While default itself is a civil matter, running away can lead the bank to file a criminal complaint for cheating and fraud under Section 420 IPC, which can result in an arrest." },
@@ -530,7 +530,7 @@ export default function LegalConsequencesChangingNumberPage() {
                   { q: "What should I do instead of changing my number?", a: "Communicate with the bank or hire a legal debt settlement agency to handle negotiations and stop harassment legally." }
                 ].map((faq, i) => (
                   <div key={i} className="bg-white border border-[#DEDEDE] rounded-xl p-6 hover:shadow-md transition-shadow">
-                    <h3 className="text-lg font-bold text-[#2E2E2E] mb-2">{faq.q}</h3>
+                    <h4 className="text-lg font-bold text-[#2E2E2E] mb-2">{faq.q}</h4>
                     <p className="text-[#747474] mb-0">{faq.a}</p>
                   </div>
                 ))}
@@ -541,7 +541,7 @@ export default function LegalConsequencesChangingNumberPage() {
             <div className="bg-[#2E2E2E] text-white p-12 rounded-[40px] text-center mt-24 relative overflow-hidden group">
               <div className="absolute inset-0 bg-[#1F5EFF] opacity-0 group-hover:opacity-5 transition-opacity duration-500"></div>
               <div className="relative z-10">
-                <h3 className="text-3xl font-black mb-6">Stop Running, Start Settling</h3>
+                <h4 className="text-3xl font-black mb-6">Stop Running, Start Settling</h4>
                 <p className="text-xl text-white/80 mb-8 max-w-2xl mx-auto">
                   Thinking of throwing away your SIM card to escape recovery agents? Don't turn a civil issue into a criminal case. Contact us to legally stop the harassment today.
                 </p>

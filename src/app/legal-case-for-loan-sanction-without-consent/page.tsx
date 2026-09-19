@@ -256,7 +256,7 @@ export default function LoanSanctionWithoutConsentPage() {
                                 In an increasingly digital financial ecosystem, "Loan Sanction Without Consent" has become a rampant threat. It occurs when syndicate of fraudsters — often in collusion with rogue bank employees or third party agents — use your PAN, Aadhaar, and forged signatures to create a debt liability in your name. You only discover the crime when you receive a collection call or see a massive drop in your CIBIL score.
                             </p>
                             <div className="bg-red-50 p-10 rounded-[40px] border-2 border-red-100 my-12 relative overflow-hidden">
-                                <h3 className="text-2xl font-black text-red-900 mb-6 uppercase italic tracking-[0.1em]">Immediate Action: The 24-Hour Protocol</h3>
+                                <h4 className="text-2xl font-black text-red-900 mb-6 uppercase italic tracking-[0.1em]">Immediate Action: The 24-Hour Protocol</h4>
                                 <div className="space-y-4 text-sm font-bold text-red-800">
                                     <p className="flex items-center gap-3"><span className="w-6 h-6 bg-red-200 rounded-full flex items-center justify-center text-xs">1</span> Download your latest CIBIL, Equifax, and Experian reports immediately.</p>
                                     <p className="flex items-center gap-3"><span className="w-6 h-6 bg-red-200 rounded-full flex items-center justify-center text-xs">2</span> Capture screenshots of every fraudulent transaction or communication.</p>
@@ -267,9 +267,9 @@ export default function LoanSanctionWithoutConsentPage() {
                         </section>
 
                         <section id="forgery-legal-landscape" className="scroll-mt-32 mb-20">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 uppercase tracking-widest">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 uppercase tracking-widest">
                                 The Legal Landscape of Forgery: IPC 420, 467 & 471
-                            </h2>
+                            </h3>
                             <p className="mb-8 font-medium">
                                 In India, the primary legal defense against unauthorized loans is found in the Indian Penal Code (IPC). When a fraudster signs a loan document in your name, they are committing multiple felonies simultaneously. <strong>Section 463</strong> defines forgery, but it is <strong>Section 467</strong> that is truly lethal, as it deals with "Forgery of valuable security" — which includes loan agreements and promissory notes. This section carries a punishment of up to life imprisonment or 10 years and a fine.
                             </p>
@@ -281,7 +281,7 @@ export default function LoanSanctionWithoutConsentPage() {
                             </p>
                             <div className="bg-[#2E2E2E] p-10 rounded-[32px] text-white shadow-2xl relative overflow-hidden my-12">
                                 <div className="absolute top-0 right-0 w-64 h-64 bg-[#1F5EFF]/20 rounded-full -mr-32 -mt-32 blur-[80px]"></div>
-                                <h3 className="text-2xl font-black mb-6 relative z-10 text-blue-400 uppercase italic">The Burden of Proof</h3>
+                                <h4 className="text-2xl font-black mb-6 relative z-10 text-blue-400 uppercase italic">The Burden of Proof</h4>
                                 <p className="text-lg opacity-80 leading-relaxed relative z-10 font-medium">
                                     In a civil case for unauthorized debt, the bank initially has the burden to prove that the loan was taken by you. However, once they produce a signed document, the 'Onus' shifts to you to prove the signature is forged. This 'Shifting of Burden' is where many victims lose their cases. Our strategy is to proactively produce such overwhelming circumstantial evidence — mobile location logs, absence from the city during signing, and bank account non-linkage — that the bank's document is discredited before the trial even begins.
                                 </p>
@@ -289,9 +289,9 @@ export default function LoanSanctionWithoutConsentPage() {
                         </section>
 
                         <section id="criminal-remedies-fir" className="scroll-mt-32 mb-20">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 border-b-8 border-gray-100 pb-4">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 border-b-8 border-gray-100 pb-4">
                                 Criminal Remedies: The Power of the FIR
-                            </h2>
+                            </h3>
                             <p className="mb-8 text-lg leading-relaxed">
                                 Many victims are told by banks to "just pay a settlement" to close the fraudulent account. <strong>Never do this.</strong> Paying even a single rupee toward a fraudulent loan can be interpreted as an 'Admission of Debt'. The first step must always be the FIR (First Information Report).
                             </p>
@@ -299,7 +299,7 @@ export default function LoanSanctionWithoutConsentPage() {
                                 An FIR serves as the foundational legal document for all subsequent civil and administrative actions. It stops the recovery process in its tracks. No bank can legally harass a citizen whose loan is under active police investigation for forgery. We assist victims in drafting "Technically Precise" police complaints that specify the exact sections of the IPC and IT Act, ensuring that the police are forced to take the matter seriously.
                             </p>
                             <div className="bg-blue-900 text-white p-10 rounded-[40px] my-12 shadow-2xl">
-                                <h3 className="text-2xl font-black mb-6 text-blue-300">Strategy: The Writ of Mandamus</h3>
+                                <h4 className="text-2xl font-black mb-6 text-blue-300">Strategy: The Writ of Mandamus</h4>
                                 <p className="opacity-80 leading-relaxed mb-6">
                                     If the local police station refuses to file an FIR (a common problem in identity theft cases), we guide victims in moving the High Court for a 'Writ of Mandamus'. This court order compels the police to perform their statutory duty and register the case. A High Court-monitored investigation is the fastest way to bring fraudsters to justice.
                                 </p>
@@ -310,9 +310,9 @@ export default function LoanSanctionWithoutConsentPage() {
                         </section>
 
                         <section id="it-act-cyber-fraud" className="scroll-mt-32 mb-20">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 uppercase italic border-l-8 border-[#1F5EFF] pl-6">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 uppercase italic border-l-8 border-[#1F5EFF] pl-6">
                                 Cyber Fraud & The IT Act 2000: The Fintech Frontier
-                            </h2>
+                            </h3>
                             <p className="mb-8">
                                 As loans move the "Digital First" route, identity theft is increasingly governed by the IT Act. <strong>Section 66C</strong> is dedicated to "Punishment for identity theft" and applies when someone fraudulently uses another person's electronic signature, password, or other unique identification. <strong>Section 66D</strong> addresses cheating by impersonation using computer resources.
                             </p>
@@ -325,9 +325,9 @@ export default function LoanSanctionWithoutConsentPage() {
                         </section>
 
                         <section id="civil-liability-banks" className="scroll-mt-32 mb-20">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">
                                 Civil Liability: Holding the Bank Accountable
-                            </h2>
+                            </h3>
                             <p className="mb-8 text-lg">
                                 While criminal law punishes the fraudster, civil law protects your wallet. Under the principle of 'Duty of Care', a bank has a legal obligation to ensure that the person signing the loan is indeed the authorized borrower. If the bank sanctions a loan based on forged documents, they have committed a <strong>Deficiency in Service</strong>.
                             </p>
@@ -335,7 +335,7 @@ export default function LoanSanctionWithoutConsentPage() {
                                 The landmark Supreme Court judgements have established that banks cannot escape liability by claiming they were also "victims of fraud". If their internal systems were bypassed, it is their loss, not yours. We file suits for 'Declaration' and 'Permanent Injunction', seeking a court order that the loan agreement is "Null and Void" and permanently restraining the bank from any recovery activity.
                             </p>
                             <div className="bg-blue-50 p-8 rounded-3xl border-2 border-blue-100 my-12">
-                                <h3 className="text-xl font-black text-blue-900 mb-4 uppercase">The Rule of 'Non Est Factum'</h3>
+                                <h4 className="text-xl font-black text-blue-900 mb-4 uppercase">The Rule of 'Non Est Factum'</h4>
                                 <p className="text-sm text-blue-800 leading-relaxed font-medium">
                                     The legal doctrine of <i>Non Est Factum</i> (Latin for "it is not my deed") is a powerful defense. It allows a person to escape a contract they signed if they were fundamentally mistaken about the nature of the document or if their signature was obtained through radical fraud. When applied to unauthorized loan sanctions, we prove that there was never any 'Meeting of Minds' (Consensus ad Idem) between you and the bank, making the entire contract void from the beginning (Void Ab Initio).
                                 </p>
@@ -343,9 +343,9 @@ export default function LoanSanctionWithoutConsentPage() {
                         </section>
 
                         <section id="kyc-negligence-cases" className="scroll-mt-32 mb-20">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 uppercase">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 uppercase">
                                 KYC Negligence: The RBI Master Circular Defense
-                            </h2>
+                            </h3>
                             <p className="mb-8">
                                 The Reserve Bank of India's Master Circular on KYC (Know Your Customer) is the most powerful tool in our arsenal. It mandates that banks must perform a "Physical Verification" or "Live Video KYC" for high value loans. If a bank sanctioned a loan without seeing the borrower in person or verifying original documents, they have violated RBI norms.
                             </p>
@@ -353,7 +353,7 @@ export default function LoanSanctionWithoutConsentPage() {
                                 A violation of KYC norms attracts heavy penalties for the bank and makes the loan contract unenforceable. In our representations to the Banking Ombudsman, we focus heavily on these "Systemic Failures". When we prove that a bank issued a loan to a 'Ghost Borrower', the liability is almost always transferred back to the bank's own internal fraud insurance.
                             </p>
                             <div className="bg-gray-50 border-2 border-dashed border-gray-200 p-8 rounded-3xl my-16">
-                                <h3 className="text-xl font-bold mb-4 uppercase tracking-widest text-gray-500">Case Study: The Ghost Commercial Loan</h3>
+                                <h4 className="text-xl font-bold mb-4 uppercase tracking-widest text-gray-500">Case Study: The Ghost Commercial Loan</h4>
                                 <p className="text-lg text-[#2E2E2E] font-medium leading-relaxed italic mb-6">
                                     "A client discovered a ₹15 Lakh commercial loan in his name. The documents showed a photo that wasn't his, but the PAN was correct. We proved the bank never visited the mentioned business address. Result: Loan cancelled, CIBIL restored, and the bank was fined ₹1 Lakh for negligence."
                                 </p>
@@ -362,9 +362,9 @@ export default function LoanSanctionWithoutConsentPage() {
                         </section>
 
                         <section id="banking-ombudsman-role" className="scroll-mt-32 mb-20">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 uppercase tracking-[0.2em] decoration-[#1F5EFF] underline underline-offset-8">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 uppercase tracking-[0.2em] decoration-[#1F5EFF] underline underline-offset-8">
                                 The Banking Ombudsman: RBI's Fast-Track Justice
-                            </h2>
+                            </h3>
                             <p className="mb-8 text-lg">
                                 If the bank's internal grievance redressal mechanism (GRM) fails to provide relief within 30 days, the next logical step is the RBI Banking Ombudsman. Under the <strong>Integrated Ombudsman Scheme 2021</strong>, the process is entirely digital and free of cost. This is the SME and individual borrower's most effective weapon against the "Institutional Arrogance" of banks.
                             </p>
@@ -372,7 +372,7 @@ export default function LoanSanctionWithoutConsentPage() {
                                 Our team assists victims in drafting the 'Grounds of Complaint'. We don't just say "it's a fraud", we quote the specific <strong>Master Direction on Customer Service in Banks</strong> that the institution has violated. When the Ombudsman sees that a bank failed to implement 'Multi-factor Authentication' or 'Digital KYC' correctly, they can order the bank to not only reverse the loan but also pay compensation of up to <strong>₹20 Lakhs</strong> for the loss of time and mental agony.
                             </p>
                             <div className="bg-[#1F5EFF]/5 border-2 border-dashed border-[#1F5EFF]/20 p-10 rounded-[40px] my-12">
-                                <h3 className="text-2xl font-black text-[#2E2E2E] mb-4 uppercase italic">Pro Tip: The 'Nodal Officer' Leverage</h3>
+                                <h4 className="text-2xl font-black text-[#2E2E2E] mb-4 uppercase italic">Pro Tip: The 'Nodal Officer' Leverage</h4>
                                 <p className="text-lg leading-relaxed text-gray-700">
                                     Before going to the Ombudsman, you must send a formal notice to the bank's Principal Nodal Officer (PNO). Very often, once a PNO sees a well-drafted legal notice that threatens a report to the RBI, they choose to settle the matter internally to protect their 'Trust Rating' with the regulator. We ensure your notice is so technically robust that the bank's legal department advises immediate closure of the fraudulent account.
                                 </p>
@@ -380,9 +380,9 @@ export default function LoanSanctionWithoutConsentPage() {
                         </section>
 
                         <section id="consumer-court-path" className="scroll-mt-32 mb-20">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">
                                 Consumer Courts: Suing for Reputational Damage
-                            </h2>
+                            </h3>
                             <p className="mb-8">
                                 While the Ombudsman is for technical violations, the Consumer Court is for <strong>compensation</strong>. If an unauthorized loan has destroyed your credit reputation, resulting in the rejection of a legitimate home loan or business expansion credit, you can sue the bank for 'Substantial Damages'.
                             </p>
@@ -409,9 +409,9 @@ export default function LoanSanctionWithoutConsentPage() {
                         </section>
 
                         <section id="forensic-handwriting" className="scroll-mt-32 mb-20">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 uppercase italic underline decoration-blue-500">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 uppercase italic underline decoration-blue-500">
                                 Forensic Handwriting Analysis: The Smoking Gun
-                            </h2>
+                            </h3>
                             <p className="mb-8 text-lg">
                                 In most "Loan Without Consent" cases, the bank will point to a signature that "looks" like yours. This is where <strong>Questioned Document Examination (QDE)</strong> comes in. Forensic handwriting experts don't just look at the shape of letters; they look at 'Pen Pressure', 'Slant', 'Line Quality', and 'Terminal Strokes' that a forger cannot replicate.
                             </p>
@@ -422,7 +422,7 @@ export default function LoanSanctionWithoutConsentPage() {
                                 It is vital to understand that a "Copy" of a signature is not enough for a conclusive forensic report. We assist you in compelling the bank to produce the **Original Physical Loan Documents** through an application under Section 91 of the CrPC. Only the original document can reveal the 'Dynamic Characteristics' of the handwriting, such as the micro-tremors in a forger's hand or the indentation depth on the paper.
                             </p>
                             <div className="bg-gray-900 p-10 rounded-[40px] text-white my-16 shadow-[0_20px_60px_-15px_rgba(0,0,0,0.3)]">
-                                <h3 className="text-2xl font-black mb-6 text-blue-400 uppercase tracking-widest">The Forensic Advantage</h3>
+                                <h4 className="text-2xl font-black mb-6 text-blue-400 uppercase tracking-widest">The Forensic Advantage</h4>
                                 <p className="opacity-90 leading-relaxed mb-6 font-medium text-blue-100">
                                     "A forger can copy a signature's shape, but they cannot copy the muscle memory of the original writer. Under a microscope, a forged signature shows 'Hesitation Marks' and 'Ink Blobs' that confirm the pen was moving slowly and unnaturally. This is the ultimate proof that the loan was never yours. We ensure this evidence is presented so forcefully that the bank is forced to withdraw its claim."
                                 </p>
@@ -430,9 +430,9 @@ export default function LoanSanctionWithoutConsentPage() {
                         </section>
 
                         <section id="credit-damage-assessment" className="scroll-mt-32 mb-20">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 text-red-600">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 text-red-600">
                                 Assessing the Damage: Your Credit Future
-                            </h2>
+                            </h3>
                             <p className="mb-8 text-lg">
                                 The damage from an unauthorized loan sanction is not just the principal amount. It's the **Opportunity Cost**. When a fraudulent loan appears on your CIBIL report, it can trigger a 'Cross-Default' in your other existing loans, leading to increased interest rates or cancellation of credit lines.
                             </p>
@@ -478,7 +478,7 @@ export default function LoanSanctionWithoutConsentPage() {
                         </section>
 
                         <section id="faqs" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Fraud Legal FAQs</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Fraud Legal FAQs</h3>
                             <div className="space-y-4 not-prose">
                                 {(jsonLd["@graph"] as any)[4]?.mainEntity?.map((faq: any, i: number) => (
                                     <details key={i} className="group bg-white border border-[#DEDEDE] rounded-xl overflow-hidden hover:shadow-md transition-all border-b-4 border-b-[#1F5EFF]/20">
@@ -504,7 +504,7 @@ export default function LoanSanctionWithoutConsentPage() {
                         <div className="lg:hidden mt-16 mb-8">
                             <div className="bg-[#2E2E2E] rounded-2xl shadow-xl overflow-hidden border border-[#1F5EFF]/20">
                                 <div className="bg-[#1F5EFF] p-6 text-center text-white">
-                                    <h3 className="text-2xl font-black mb-2">Ready to Start Over?</h3>
+                                    <h4 className="text-2xl font-black mb-2">Ready to Start Over?</h4>
                                     <p className="opacity-90 text-sm">Join the 10,000+ Indians we've helped find their way to financial freedom.</p>
                                 </div>
                                 <div className="p-8 text-center text-[#DEDEDE]">

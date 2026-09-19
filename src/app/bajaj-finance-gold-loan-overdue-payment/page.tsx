@@ -3,7 +3,7 @@ import Link from 'next/link';
 import TableOfContents from '@/components/TableOfContents';
 
 export const metadata: Metadata = {
-  title: 'Bajaj Finance Gold Loan Overdue Payment Rules: Stop Auction',
+  title: 'Bajaj Finance Gold Loan Overdue Rules: Stop Bank Auction',
   description: 'Overdue on your Bajaj Gold Loan? Understand NBFC auction rules, legal notice timelines, and your rights to halt the auction of pledged gold.',
   alternates: {
     canonical: 'https://www.settleloans.in/bajaj-finance-gold-loan-overdue-payment',
@@ -298,34 +298,34 @@ export default function BajajFinanceGoldLoanOverduePaymentPage() {
             </section>
 
             <section id="nbfc-auction-rules" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 Understanding NBFC Gold Auction Rules
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 The Reserve Bank of India (RBI) has laid down specific <strong className="font-semibold text-black">gold auction rules NBFC</strong> institutions must follow. They cannot simply sell your gold the day after you miss a payment.
               </p>
 
               <div className="grid md:grid-cols-2 gap-6 my-8">
                 <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
-                  <h3 className="font-black text-[#1F5EFF] text-lg mb-3">Notice Requirements</h3>
+                  <h4 className="font-black text-[#1F5EFF] text-lg mb-3">Notice Requirements</h4>
                   <p className="text-gray-700">Lenders must provide adequate prior notice before auctioning the pledged gold. Typically, a 14-day formal notice is given after earlier reminders.</p>
                 </div>
                 <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
-                  <h3 className="font-black text-[#1F5EFF] text-lg mb-3">Transparency in Auction</h3>
+                  <h4 className="font-black text-[#1F5EFF] text-lg mb-3">Transparency in Auction</h4>
                   <p className="text-gray-700">The auction must be conducted transparently, and the borrower must be informed of the date, time, and venue.</p>
                 </div>
                 <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
-                  <h3 className="font-black text-[#1F5EFF] text-lg mb-3">Fair Value Realization</h3>
+                  <h4 className="font-black text-[#1F5EFF] text-lg mb-3">Fair Value Realization</h4>
                   <p className="text-gray-700">The gold cannot be sold at a throwaway price. The auction must attempt to fetch the fair market value of the gold.</p>
                 </div>
                 <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
-                  <h3 className="font-black text-[#1F5EFF] text-lg mb-3">Refunding the Surplus</h3>
+                  <h4 className="font-black text-[#1F5EFF] text-lg mb-3">Refunding the Surplus</h4>
                   <p className="text-gray-700">If the gold is auctioned for a price higher than the outstanding loan amount and penalties, the excess money must be refunded to the borrower.</p>
                 </div>
               </div>
 
               <div className="bg-blue-50 border-l-8 border-[#1F5EFF] p-8 rounded-r-2xl mb-8">
-                <h4 className="text-xl font-black text-[#1F5EFF] mb-4">Crucial Fact About NBFC Auctions</h4>
+                <h5 className="text-xl font-black text-[#1F5EFF] mb-4">Crucial Fact About NBFC Auctions</h5>
                 <p className="text-lg leading-relaxed mb-4 text-blue-900">
                   An auction notice is a legal warning, not the end of the road. It means the lender has initiated the final recovery step, but it is not irreversible. You still have the opportunity to intervene before the auction actually happens.
                 </p>
@@ -343,15 +343,15 @@ export default function BajajFinanceGoldLoanOverduePaymentPage() {
             </section>
 
             <section id="overdue-interest" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 Overdue Interest and Penalties
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 When you miss your payment date, standard interest is no longer the only charge applied. You will be hit with <strong className="font-semibold text-black">overdue gold loan interest</strong> and penal charges.
               </p>
 
               <div className="bg-red-50 p-6 rounded-xl border border-red-100 mb-8">
-                <h3 className="text-xl font-black text-red-700 mb-4">The Danger of Compounding Penalties</h3>
+                <h4 className="text-xl font-black text-red-700 mb-4">The Danger of Compounding Penalties</h4>
                 <p className="text-lg leading-relaxed mb-0 text-red-900">
                   Penal interest on gold loans can be exceptionally high, sometimes up to 3-5% extra per month on the overdue amount. If ignored, these penalties compound quickly, eating into the equity of your pledged gold and increasing the likelihood of a shortfall during an auction.
                 </p>
@@ -363,15 +363,15 @@ export default function BajajFinanceGoldLoanOverduePaymentPage() {
             </section>
 
             <section id="legal-rights-of-borrowers" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 Legal Rights of Borrowers Before Auction
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 Many borrowers assume that once they miss a few payments, the NBFC has total control over their gold and can do whatever they please. This is a misconception. The <strong className="font-semibold text-black">Reserve Bank of India (RBI)</strong> has established a strict regulatory framework that gives you specific legal rights as a borrower. Understanding these rights is your best defense against arbitrary actions by lenders.
               </p>
 
               <div className="bg-gray-50 p-8 rounded-2xl mb-8 border border-gray-200">
-                <h3 className="text-xl font-black text-[#2E2E2E] mb-4">The Right to Adequate Notice</h3>
+                <h4 className="text-xl font-black text-[#2E2E2E] mb-4">The Right to Adequate Notice</h4>
                 <p className="text-lg leading-relaxed text-gray-700 mb-4">
                   Bajaj Finance or any other NBFC cannot seize and sell your gold without giving you proper prior notice. The law mandates that the lender must issue a formal communication clearly stating the default amount, the penal interest applied, and a final deadline before which the dues must be cleared. If this notice is not served appropriately, the auction process can be deemed legally invalid.
                 </p>
@@ -381,7 +381,7 @@ export default function BajajFinanceGoldLoanOverduePaymentPage() {
               </div>
 
               <div className="bg-blue-50 border-l-8 border-[#1F5EFF] p-8 rounded-r-2xl mb-8">
-                <h4 className="text-xl font-black text-[#1F5EFF] mb-4">Your Right to Redeem</h4>
+                <h5 className="text-xl font-black text-[#1F5EFF] mb-4">Your Right to Redeem</h5>
                 <p className="text-lg leading-relaxed mb-4 text-blue-900">
                   Until the hammer falls at the auction, you generally retain the right to "redeem" your pledged gold. This means if you arrange the funds at the eleventh hour, you can still stop the sale.
                 </p>
@@ -399,34 +399,34 @@ export default function BajajFinanceGoldLoanOverduePaymentPage() {
             </section>
 
             <section id="impact-on-credit-score" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 Impact of Gold Loan Default on Your CIBIL Score
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 A common myth surrounding gold loans is that because they are backed by an asset, a default won't affect your credit rating. This is entirely false. Like any other credit facility, your repayment behavior on a gold loan is actively reported to credit bureaus like CIBIL, Experian, and Equifax.
               </p>
 
               <div className="grid md:grid-cols-2 gap-6 my-8">
                 <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
-                  <h3 className="font-black text-[#1F5EFF] text-lg mb-3">Missed EMI Reporting</h3>
+                  <h4 className="font-black text-[#1F5EFF] text-lg mb-3">Missed EMI Reporting</h4>
                   <p className="text-gray-700">The moment your payment becomes 30 days overdue, it is reported as a missed payment, causing an immediate drop in your CIBIL score.</p>
                 </div>
                 <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
-                  <h3 className="font-black text-[#1F5EFF] text-lg mb-3">NPA Classification</h3>
+                  <h4 className="font-black text-[#1F5EFF] text-lg mb-3">NPA Classification</h4>
                   <p className="text-gray-700">If dues remain unpaid for 90 days, the account is classified as a Non-Performing Asset (NPA), severely damaging your creditworthiness.</p>
                 </div>
                 <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
-                  <h3 className="font-black text-[#1F5EFF] text-lg mb-3">Auction Record</h3>
+                  <h4 className="font-black text-[#1F5EFF] text-lg mb-3">Auction Record</h4>
                   <p className="text-gray-700">If the gold is auctioned off, the account will be marked as "Settled" or "Written-off" depending on the deficit, making future borrowing extremely difficult.</p>
                 </div>
                 <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
-                  <h3 className="font-black text-[#1F5EFF] text-lg mb-3">Long-Term Impact</h3>
+                  <h4 className="font-black text-[#1F5EFF] text-lg mb-3">Long-Term Impact</h4>
                   <p className="text-gray-700">These derogatory marks remain on your credit report for up to 7 years, impacting your ability to secure home loans, car loans, or credit cards in the future.</p>
                 </div>
               </div>
 
               <div className="bg-red-50 p-6 rounded-xl border border-red-100 mb-8">
-                <h4 className="text-xl font-black text-red-700 mb-4">Warning: Shortfall Recovery</h4>
+                <h5 className="text-xl font-black text-red-700 mb-4">Warning: Shortfall Recovery</h5>
                 <p className="text-lg leading-relaxed mb-0 text-red-900">
                   If the auction value of your gold is lower than your outstanding loan amount (which can happen due to fluctuating gold prices or accumulated penal interest), you are still legally obligated to pay the difference. If you fail to pay this shortfall, the lender can initiate separate legal proceedings against you for recovery, further tarnishing your financial record.
                 </p>
@@ -434,9 +434,9 @@ export default function BajajFinanceGoldLoanOverduePaymentPage() {
             </section>
 
             <section id="alternatives-to-auction" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 Alternatives to Losing Your Gold
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 Before resigning yourself to the reality of a gold auction, it is crucial to explore viable alternatives. Your pledged gold often holds immense emotional and traditional value, far beyond its market price.
               </p>
@@ -445,7 +445,7 @@ export default function BajajFinanceGoldLoanOverduePaymentPage() {
                 <div className="flex gap-6">
                   <div className="flex-shrink-0 w-12 h-12 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center font-black text-xl shadow-lg">A</div>
                   <div>
-                    <h3 className="text-2xl font-bold text-[#2E2E2E] mb-3">Gold Loan Balance Transfer</h3>
+                    <h4 className="text-2xl font-bold text-[#2E2E2E] mb-3">Gold Loan Balance Transfer</h4>
                     <p className="text-lg text-gray-700 leading-relaxed">If your current lender's penal interest rates are suffocating, you might qualify for a balance transfer to another bank or NBFC offering better terms. The new lender pays off Bajaj Finance, releases your gold, and pledges it with themselves. However, this is highly time-sensitive and must be initiated well before the final auction date.</p>
                   </div>
                 </div>
@@ -453,7 +453,7 @@ export default function BajajFinanceGoldLoanOverduePaymentPage() {
                 <div className="flex gap-6">
                   <div className="flex-shrink-0 w-12 h-12 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center font-black text-xl shadow-lg">B</div>
                   <div>
-                    <h3 className="text-2xl font-bold text-[#2E2E2E] mb-3">Unsecured Personal Loans</h3>
+                    <h4 className="text-2xl font-bold text-[#2E2E2E] mb-3">Unsecured Personal Loans</h4>
                     <p className="text-lg text-gray-700 leading-relaxed">If your credit score is still intact, taking a small unsecured personal loan from friends, family, or a digital lender can help you quickly clear the overdue interest and pause the auction. It buys you the necessary breathing room to restructure your finances without losing a physical asset.</p>
                   </div>
                 </div>
@@ -461,7 +461,7 @@ export default function BajajFinanceGoldLoanOverduePaymentPage() {
                 <div className="flex gap-6">
                   <div className="flex-shrink-0 w-12 h-12 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center font-black text-xl shadow-lg">C</div>
                   <div>
-                    <h3 className="text-2xl font-bold text-[#2E2E2E] mb-3">Negotiating a Settlement</h3>
+                    <h4 className="text-2xl font-bold text-[#2E2E2E] mb-3">Negotiating a Settlement</h4>
                     <p className="text-lg text-gray-700 leading-relaxed">In extreme hardship cases, if the loan amount far exceeds the gold's value, you might negotiate a one-time settlement on the penal interest. While NBFCs rarely discount the principal on a secured loan, they may waive off a portion of the compounded penalties if you can provide a lump-sum payment immediately.</p>
                   </div>
                 </div>
@@ -469,9 +469,9 @@ export default function BajajFinanceGoldLoanOverduePaymentPage() {
             </section>
 
             <section id="stop-the-auction" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 How to Stop the Auction Process
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 If you have received an auction notice, act immediately. Time is critical. Here are the steps you can take to stop or delay the auction of your pledged assets.
               </p>
@@ -480,7 +480,7 @@ export default function BajajFinanceGoldLoanOverduePaymentPage() {
                 <div className="flex gap-6">
                   <div className="flex-shrink-0 w-12 h-12 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center font-black text-xl shadow-lg">1</div>
                   <div>
-                    <h3 className="text-2xl font-bold text-[#2E2E2E] mb-3">Pay the Overdue Interest</h3>
+                    <h4 className="text-2xl font-bold text-[#2E2E2E] mb-3">Pay the Overdue Interest</h4>
                     <p className="text-lg text-gray-700 leading-relaxed">The fastest way to stop an auction is to pay the pending interest and penal charges. Lenders prefer regularized accounts over auctions.</p>
                   </div>
                 </div>
@@ -488,7 +488,7 @@ export default function BajajFinanceGoldLoanOverduePaymentPage() {
                 <div className="flex gap-6">
                   <div className="flex-shrink-0 w-12 h-12 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center font-black text-xl shadow-lg">2</div>
                   <div>
-                    <h3 className="text-2xl font-bold text-[#2E2E2E] mb-3">Negotiate for Time</h3>
+                    <h4 className="text-2xl font-bold text-[#2E2E2E] mb-3">Negotiate for Time</h4>
                     <p className="text-lg text-gray-700 leading-relaxed">Visit the branch and speak with the manager. Explain your situation and request a short extension in writing. While not guaranteed, they may offer a grace period if they believe you have a genuine intent to pay.</p>
                   </div>
                 </div>
@@ -496,14 +496,14 @@ export default function BajajFinanceGoldLoanOverduePaymentPage() {
                 <div className="flex gap-6">
                   <div className="flex-shrink-0 w-12 h-12 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center font-black text-xl shadow-lg">3</div>
                   <div>
-                    <h3 className="text-2xl font-bold text-[#2E2E2E] mb-3">Part-Payment</h3>
+                    <h4 className="text-2xl font-bold text-[#2E2E2E] mb-3">Part-Payment</h4>
                     <p className="text-lg text-gray-700 leading-relaxed">If you cannot clear the entire overdue amount, make a significant part-payment to show good faith. This often causes the lender to halt auction proceedings temporarily.</p>
                   </div>
                 </div>
               </div>
 
               <div className="bg-gray-50 p-8 rounded-2xl mb-8 border border-gray-200">
-                <h4 className="text-xl font-black text-[#2E2E2E] mb-4">A Note on Loan Takeovers</h4>
+                <h5 className="text-xl font-black text-[#2E2E2E] mb-4">A Note on Loan Takeovers</h5>
                 <p className="text-lg leading-relaxed text-gray-700 mb-0">
                   If your gold value is much higher than your loan amount, you can consider a balance transfer to another lender. However, this is difficult to execute once the auction process has formally begun, so it requires fast action.
                 </p>
@@ -511,9 +511,9 @@ export default function BajajFinanceGoldLoanOverduePaymentPage() {
             </section>
 
             <section id="client-success-stories" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 Client Success Stories
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 See how we've helped others navigate gold loan defaults and protect their valuable assets.
               </p>
@@ -568,9 +568,9 @@ export default function BajajFinanceGoldLoanOverduePaymentPage() {
             </section>
 
             <section id="faq" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">
                 Frequently Asked Questions
-              </h2>
+              </h3>
               <div className="space-y-4">
                 {[
                   { q: "What is the penalty for overdue gold loan interest with Bajaj Finance?", a: "Bajaj Finance typically charges a penal interest on the overdue amount. The exact rate varies based on your loan agreement, but it's important to pay it quickly to avoid compounding charges." },
@@ -605,7 +605,7 @@ export default function BajajFinanceGoldLoanOverduePaymentPage() {
             <div className="bg-[#2E2E2E] text-white p-12 rounded-[40px] text-center mt-24 relative overflow-hidden group">
               <div className="absolute inset-0 bg-[#1F5EFF] opacity-0 group-hover:opacity-5 transition-opacity duration-500"></div>
               <div className="relative z-10">
-                <h3 className="text-3xl md:text-4xl font-black mb-6">Stop the Auction Before It's Too Late</h3>
+                <h4 className="text-3xl md:text-4xl font-black mb-6">Stop the Auction Before It's Too Late</h4>
                 <p className="text-lg text-gray-300 mb-8 max-w-2xl mx-auto">
                   Don't lose your family gold. Talk to our experts today to understand your legal rights and explore ways to halt the Bajaj Finance auction process immediately.
                 </p>

@@ -588,7 +588,7 @@ export default function AUSmallFinanceBankLoanSettlementPage() {
                 <Clock className="w-4 h-4" />
                 <span>2. Delinquency Timeline &amp; NPA Stages</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">AU Bank Delinquency Lifecycle</h2>
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">AU Bank Delinquency Lifecycle</h3>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 AU Small Finance Bank tracks overdue loans using RBI IRACP norms and Ind AS 109 accounting rules. Overdue loans move through Days Past Due (DPD) stages. Each stage brings different collection actions and settlement options.
               </p>
@@ -659,7 +659,7 @@ export default function AUSmallFinanceBankLoanSettlementPage() {
                 <Banknote className="w-4 h-4" />
                 <span>3. Stopping NACH Bounce Charges &amp; Penal Fees</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Stopping AU Bank Bounce Charges &amp; NACH Hits</h2>
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Stopping AU Bank Bounce Charges &amp; NACH Hits</h3>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 AU Small Finance Bank often runs e-NACH mandates multiple times each month. This triggers bank return charges of ₹250 to ₹500. It also adds AU Bank internal bounce fees of ₹500 to ₹750 plus GST, along with penal interest.
               </p>
@@ -677,7 +677,7 @@ export default function AUSmallFinanceBankLoanSettlementPage() {
                 <Calculator className="w-4 h-4" />
                 <span>4. OTS Haircut Policies &amp; Valuation Framework</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">AU Small Finance Bank One-Time Settlement (OTS)</h2>
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">AU Small Finance Bank One-Time Settlement (OTS)</h3>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 AU Small Finance Bank follows the RBI Master Direction on Compromise Settlements. The bank uses a Net Present Value (NPV) recovery model to evaluate all settlement offers.
               </p>
@@ -700,7 +700,7 @@ export default function AUSmallFinanceBankLoanSettlementPage() {
               </div>
 
               {/* Settlement Haircut Slabs Table */}
-              <h3 className="text-lg font-bold text-slate-900 mb-3">Realistic AU Small Finance Bank Settlement Haircut Slabs by Product &amp; Aging</h3>
+              <h4 className="text-lg font-bold text-slate-900 mb-3">Realistic AU Small Finance Bank Settlement Haircut Slabs by Product &amp; Aging</h4>
               <div className="overflow-x-auto my-4">
                 <table className="min-w-full bg-white">
                   <thead>
@@ -765,9 +765,9 @@ export default function AUSmallFinanceBankLoanSettlementPage() {
                       <span className="text-[10px] font-black uppercase tracking-widest text-blue-300 block">
                         Legal Defense &amp; Action Blueprint
                       </span>
-                      <h3 className="text-sm md:text-base font-black text-white leading-tight">
+                      <h4 className="text-sm md:text-base font-black text-white leading-tight">
                         AU Small Finance Bank Loan Settlement &amp; SARB Blueprint
-                      </h3>
+                      </h4>
                     </div>
                   </div>
                   <a
@@ -814,7 +814,7 @@ export default function AUSmallFinanceBankLoanSettlementPage() {
                 <ShieldAlert className="w-4 h-4" />
                 <span>5. SARB Negotiation &amp; Anti-Harassment Defense</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Direct SARB Escalation vs Defending Against Third-Party</h2>
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Direct SARB Escalation vs Defending Against Third-Party</h3>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Outsourced recovery agents work for commissions. They have no power to approve loan waivers or issue closure letters. Small payments made to field agents usually go toward penalty fees without settling the loan.
               </p>
@@ -832,7 +832,7 @@ export default function AUSmallFinanceBankLoanSettlementPage() {
                 <Layers className="w-4 h-4" />
                 <span>6. Step-by-Step SFB Settlement Roadmap</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Step-by-Step Guide to a Compromise Settlement with AU Small</h2>
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Step-by-Step Guide to a Compromise Settlement with AU Small</h3>
               <p className="text-slate-700 leading-relaxed mb-6 text-base md:text-lg">
                 Follow these clear steps to settle your debt with AU Small Finance Bank:
               </p>
@@ -840,10 +840,10 @@ export default function AUSmallFinanceBankLoanSettlementPage() {
               <div className="space-y-6">
                 {/* Phase 1 */}
                 <div className="p-6 rounded-2xl bg-white border border-slate-200 shadow-sm">
-                  <h3 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
+                  <h4 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
                     <span className="w-7 h-7 rounded-lg bg-blue-50 text-[#1F5EFF] font-black text-sm flex items-center justify-center border border-blue-200">1</span>
                     Comprehensive Hardship Dossier &amp; Financial Audit
-                  </h3>
+                  </h4>
                   <p className="text-slate-600 text-sm md:text-base leading-relaxed">
                     Collect proof of your financial hardship. Useful documents include income loss records, business GST returns, salary reduction slips, or medical bills. These documents prove that your default is genuine.
                   </p>
@@ -851,10 +851,10 @@ export default function AUSmallFinanceBankLoanSettlementPage() {
 
                 {/* Phase 2 */}
                 <div className="p-6 rounded-2xl bg-white border border-slate-200 shadow-sm">
-                  <h3 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
+                  <h4 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
                     <span className="w-7 h-7 rounded-lg bg-blue-50 text-[#1F5EFF] font-black text-sm flex items-center justify-center border border-blue-200">2</span>
                     Revoking NACH Mandates &amp; Establishing Formal Legal Channels
-                  </h3>
+                  </h4>
                   <p className="text-slate-600 text-sm md:text-base leading-relaxed">
                     Ask your bank to revoke the e-NACH auto-debit mandate to stop bounce fees. Next, send a notice to AU Bank. Direct all communication through email or your legal counsel to keep a clear written record.
                   </p>
@@ -862,10 +862,10 @@ export default function AUSmallFinanceBankLoanSettlementPage() {
 
                 {/* Phase 3 */}
                 <div className="p-6 rounded-2xl bg-white border border-slate-200 shadow-sm">
-                  <h3 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
+                  <h4 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
                     <span className="w-7 h-7 rounded-lg bg-blue-50 text-[#1F5EFF] font-black text-sm flex items-center justify-center border border-blue-200">3</span>
                     Submitting Hardship Petition to Stressed Asset Resolution Branch (SARB)
-                  </h3>
+                  </h4>
                   <p className="text-slate-600 text-sm md:text-base leading-relaxed">
                     Submit your OTS proposal to the AU Bank SARB team under RBI compromise rules. Start your offer at 25% to 35% of total dues to allow room for negotiation.
                   </p>
@@ -873,10 +873,10 @@ export default function AUSmallFinanceBankLoanSettlementPage() {
 
                 {/* Phase 4 */}
                 <div className="p-6 rounded-2xl bg-white border border-slate-200 shadow-sm">
-                  <h3 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
+                  <h4 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
                     <span className="w-7 h-7 rounded-lg bg-blue-50 text-[#1F5EFF] font-black text-sm flex items-center justify-center border border-blue-200">4</span>
                     Managing Counter-Demands &amp; Securing Committee Approval
-                  </h3>
+                  </h4>
                   <p className="text-slate-600 text-sm md:text-base leading-relaxed">
                     AU Bank may reject low offers at first and offer small discounts. Your lawyer counters this by showing that funds come from family help. This guides the Zonal Credit Committee toward a 35% to 55% waiver.
                   </p>
@@ -884,10 +884,10 @@ export default function AUSmallFinanceBankLoanSettlementPage() {
 
                 {/* Phase 5 */}
                 <div className="p-6 rounded-2xl bg-white border border-slate-200 shadow-sm">
-                  <h3 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
+                  <h4 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
                     <span className="w-7 h-7 rounded-lg bg-blue-50 text-[#1F5EFF] font-black text-sm flex items-center justify-center border border-blue-200">5</span>
                     Rigorous Forensic Audit of the OTS Sanction Letter
-                  </h3>
+                  </h4>
                   <p className="text-slate-600 text-sm md:text-base leading-relaxed">
                     Review the OTS Sanction Letter on AU Bank letterhead before paying. Check the loan account number, settlement amount, payment due date, and debt waiver terms.
                   </p>
@@ -895,10 +895,10 @@ export default function AUSmallFinanceBankLoanSettlementPage() {
 
                 {/* Phase 6 */}
                 <div className="p-6 rounded-2xl bg-white border border-slate-200 shadow-sm">
-                  <h3 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
+                  <h4 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
                     <span className="w-7 h-7 rounded-lg bg-blue-50 text-[#1F5EFF] font-black text-sm flex items-center justify-center border border-blue-200">6</span>
                     Direct Account Remittance &amp; Enforcing ₹0 NDC Delivery
-                  </h3>
+                  </h4>
                   <p className="text-slate-600 text-sm md:text-base leading-relaxed">
                     Deposit the agreed settlement amount directly into your designated AU Small Finance Bank loan account via RTGS/NEFT. Under RBI Circular RBI/2023-24/60, AU Bank is legally required to deliver a formal No Dues Certificate and update credit bureaus within 30 calendar days.
                   </p>
@@ -912,7 +912,7 @@ export default function AUSmallFinanceBankLoanSettlementPage() {
                 <Gavel className="w-4 h-4" />
                 <span>7. Section 25 Notices, Arbitration &amp; Lok Adalat</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Sec 25 PSSA &amp; Lok Adalat for AU Bank</h2>
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Sec 25 PSSA &amp; Lok Adalat for AU Bank</h3>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 After 60 to 90 days of default, AU Small Finance Bank often sends legal demand notices under Section 25 of the Payment and Settlement Systems Act (PSSA). The bank may also send arbitration notices in Jaipur or Mumbai.
               </p>
@@ -974,7 +974,7 @@ export default function AUSmallFinanceBankLoanSettlementPage() {
                 <FileCheck className="w-4 h-4" />
                 <span>8. Sanction Letter Audit &amp; ₹0 NDC Mandate</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Authenticating AU Small Finance Bank Settlement Letters</h2>
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Authenticating AU Small Finance Bank Settlement Letters</h3>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Never pay money on verbal promises or unverified letters. Unauthorized agents sometimes issue fake letters. If you pay without an official letter, AU Bank treats the money as part payment for penalty fees.
               </p>
@@ -992,7 +992,7 @@ export default function AUSmallFinanceBankLoanSettlementPage() {
                 <TrendingUp className="w-4 h-4" />
                 <span>9. CIBIL Score Trajectory &amp; Rehabilitation</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Post-Settlement CIBIL Recovery for AU Bank</h2>
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Post-Settlement CIBIL Recovery for AU Bank</h3>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 After you settle an AU Bank loan, the bank reports it to CIBIL, Experian, Equifax, and CRIF High Mark. The status shows as <strong>&apos;Settled&apos;</strong> with a balance of <strong>₹0</strong>. Your credit score may drop by 70 to 120 points at first.
               </p>
@@ -1010,7 +1010,7 @@ export default function AUSmallFinanceBankLoanSettlementPage() {
                 <ShieldCheck className="w-4 h-4" />
                 <span>10. Legal Defense &amp; Representation</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Why Distressed AU Small Finance Bank Borrowers Trust</h2>
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Why Distressed AU Small Finance Bank Borrowers Trust</h3>
               <p className="text-slate-700 leading-relaxed mb-6 text-base md:text-lg">
                 Settling an AU Bank loan needs solid legal help and financial analysis. SettleLoans stops recovery harassment with legal notices. We handle Section 25 PSSA court summons and challenge one-sided arbitration. Our advocates negotiate directly with AU Bank SARB and Zonal Credit Committees to secure high debt waivers and official ₹0 No Dues Certificates.
               </p>
@@ -1027,7 +1027,7 @@ export default function AUSmallFinanceBankLoanSettlementPage() {
                 <HelpCircle className="w-4 h-4" />
                 <span>11. Frequently Asked Questions</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">FAQs: AU Small Finance Bank Loan Settlement</h2>
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">FAQs: AU Small Finance Bank Loan Settlement</h3>
 
               <div className="space-y-4">
                 {faqs.map((faq, index) => (
@@ -1054,10 +1054,10 @@ export default function AUSmallFinanceBankLoanSettlementPage() {
 
             {/* Regulatory References & Official Sources Strip */}
             <div className="bg-slate-50 border border-slate-200 rounded-2xl p-6 my-10">
-              <h3 className="text-base font-bold text-slate-900 mb-4 flex items-center gap-2">
+              <h4 className="text-base font-bold text-slate-900 mb-4 flex items-center gap-2">
                 <Landmark className="w-5 h-5 text-[#1F5EFF]" />
                 Official Regulatory References &amp; Statutory Circulars
-              </h3>
+              </h4>
               <ul className="space-y-3 text-xs text-slate-600">
                 <li className="flex items-start gap-2">
                   <ExternalLink className="w-4 h-4 text-[#1F5EFF] flex-shrink-0 mt-0.5" />
@@ -1119,10 +1119,10 @@ export default function AUSmallFinanceBankLoanSettlementPage() {
 
             {/* Related Guides & Resources Strip (10 Topic Badges) */}
             <div className="bg-slate-50 border border-slate-200 rounded-2xl p-6 my-10">
-              <h3 className="text-base font-bold text-slate-900 mb-4 flex items-center gap-2">
+              <h4 className="text-base font-bold text-slate-900 mb-4 flex items-center gap-2">
                 <BookOpen className="w-5 h-5 text-[#1F5EFF]" />
                 Explore Related Banking &amp; Debt Resolution Guides
-              </h3>
+              </h4>
               <div className="flex flex-wrap gap-2.5">
                 <Link
                   href="/bank-one-time-settlement-ots-policy"

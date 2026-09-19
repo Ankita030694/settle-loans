@@ -299,68 +299,68 @@ export default function WestBengalLoanSettlementPage() {
             </section>
 
             <section id="kolkata-debt-trap" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl font-black mb-6">Navigating the Kolkata Debt Trap: Beyond Burrabazar</h2>
+              <h3 className="text-3xl font-black mb-6">Navigating the Kolkata Debt Trap: Beyond Burrabazar</h3>
               <p>Kolkata, the "City of Joy," is also a city of deep financial history. The traditional "Mahajani" system of lending has largely evolved into modern banking, yet the pressures of debt remain constant. Many professionals working in the city's corporate sectors or running small businesses in the wholesale markets often fall into the trap of using one loan to pay another. This "revolving door" of credit is particularly dangerous when dealing with high interest unsecured loans like credit cards.</p>
               <p>The "Minimum Amount Due" feature on credit cards is often the beginning of the end for many borrowers. It gives a false sense of security while the principal amount remains untouched and the interest compounds at 36-48% annually. For a small business owner in Posta or a teacher in Behala, this can lead to a situation where they are essentially working only to pay off the bank's interest.</p>
               <p>Breaking this cycle requires a fundamental shift in strategy. Instead of struggling to keep up with impossible payments, a structured loan settlement allows you to address the core problem. By negotiating a one-time settlement, you can halt the interest accumulation and settle the entire liability for a fraction of the total outstanding amount, thereby reclaiming your financial future.</p>
             </section>
 
             <section id="why-settle" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl font-black mb-6">Why Choose Loan Settlement in West Bengal?</h2>
+              <h3 className="text-3xl font-black mb-6">Why Choose Loan Settlement in West Bengal?</h3>
               <p>Settling a loan is a pragmatic financial decision when repayments become impossible. In West Bengal's competitive banking environment, lenders often prefer to recover a significant portion of the principal through a settlement rather than facing the long and expensive route of litigation or losing the amount entirely to a permanent default.</p>
               <p>West Bengal's legal framework offers several advantages for borrowers seeking mediation. The state has a robust system of "People's Courts" or Lok Adalats, which are specifically designed to resolve such disputes amicably. A settlement reached through these forums is not only legally binding but also carries the weight of a court decree, providing you with absolute peace of mind.</p>
               <p>Furthermore, settling allows you to stop the "bleeding" of your finances. Every rupee you pay toward an unsustainable debt's interest is a rupee that could have gone toward your children's education or your retirement. A settlement provides a clean break, allowing you to focus your resources on rebuilding your life rather than servicing old, toxic debts.</p>
             </section>
 
             <section id="money-lenders-act" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl font-black mb-6">The Protective Shield of the Bengal Money-Lenders Act, 1940</h2>
+              <h3 className="text-3xl font-black mb-6">The Protective Shield of the Bengal Money-Lenders Act, 1940</h3>
               <p>One of the most significant legal advantages for borrowers in West Bengal is the Bengal Money-Lenders Act of 1940. This historic piece of legislation was passed to protect the people from predatory lending practices and remains a powerful tool in the hands of a knowledgeable legal team. While initially aimed at private moneylenders, the principles of this act often influence how courts view "unconscionable" interest rates in any context.</p>
               <p>Under this Act, all money lenders in West Bengal must be licensed. Any lender operating without a license or charging interest rates beyond the statutory limits faces severe penalties. This Act also provides a framework for the reopening of old accounts to check for unfair practices. If a lender has used coercive methods for recovery, the Bengal Money-Lenders Act provides specific grounds for legal recourse.</p>
               <p>At SettleLoans, we use the provisions of this Act to ensure that our clients are not being exploited by unregistered lenders or "blade companies" that operate outside the law. Knowing your regional rights is the first step toward standing firm against illegal recovery tactics.</p>
             </section>
 
             <section id="damdupat-principle" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl font-black mb-6">The Damdupat Principle: A Traditional Guardrail</h2>
+              <h3 className="text-3xl font-black mb-6">The Damdupat Principle: A Traditional Guardrail</h3>
               <p>Integral to West Bengal's debt laws is the ancient principle of "Damdupat," which is recognized under the Bengal Money-Lenders Act. This rule states that the total interest recoverable by a lender cannot exceed the original principal amount of the loan. This is a crucial protection for many borrowers who have been paying for years only to find their outstanding amount still higher than what they originally borrowed.</p>
               <p>For example, if you took a loan of ₹1 lakh, the maximum total interest you should ever have to pay back, including what has already been paid, should generally not exceed ₹1 lakh. In many modern credit card cases, the interest and penalties combined far exceed the original principal. We leverage the spirit of the Damdupat rule during negotiations to demonstrate the unfairness of the bank's claims and secure higher waivers for our clients.</p>
               <p>This principle emphasizes the idea that a loan should not become a life sentence. It recognizes that there must be a cap on how much a lender can profit from a borrower's misfortune. Integrating this traditional wisdom with modern financial negotiation is a hallmark of our approach in West Bengal.</p>
             </section>
 
             <section id="lok-adalat-wbslsa" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl font-black mb-6">The Power of WBSLSA and Lok Adalats in West Bengal</h2>
+              <h3 className="text-3xl font-black mb-6">The Power of WBSLSA and Lok Adalats in West Bengal</h3>
               <p>The West Bengal State Legal Services Authority (WBSLSA) plays a transformative role in resolving debt disputes. They regularly organize National Lok Adalats across the state—from the Calcutta High Court to district courts in Paschim Medinipur and Malda. A Lok Adalat is a forum where cases pending in a court of law or at pre-litigation stage are settled in a friendly manner.</p>
               <p>Settling your loan through a Lok Adalat in Kolkata has several benefits. First, it is essentially free—there are no court fees. Second, the decision is reached through mutual consent, meaning both you and the bank agree to the terms. Third, once a Lok Adalat award is signed, it cannot be appealed in any other court. This marks the definitive end of your debt journey with that specific lender.</p>
               <p>Our legal team in Kolkata has extensive experience in preparing cases for Lok Adalat. we help you document your financial hardship so that the bench understands why a high waiver is necessary. We have seen success rates of 50-70% waiver on total outstanding amounts when cases are handled through these judicial mediation sessions.</p>
             </section>
 
             <section id="drt-kolkata" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl font-black mb-6">Navigating the Debt Recovery Tribunal (DRT) in Kolkata</h2>
+              <h3 className="text-3xl font-black mb-6">Navigating the Debt Recovery Tribunal (DRT) in Kolkata</h3>
               <p>For those with higher liabilities—often business owners or high net worth individuals—the case may be referred to one of the three Debt Recovery Tribunals (DRTs) in Kolkata. These tribunals (DRT-1, DRT-2, and DRT-3) are specialized bodies that handle recovery cases for amounts above ₹20 lakhs. Receiving a summons from the DRT is often a source of great anxiety, but it is also an opportunity for a professional settlement.</p>
               <p>The DRT process is designed for speed, but the law also encourages settlements at every stage. We provide our clients with access to seasoned DRT advocates who understand the specific procedural nuances of the Kolkata benches. Whether it is challenging the valuation of a collateral property or filing a counter claim for unfair charges, we ensure that your interests are aggressively defended.</p>
               <p>Often, the most effective way to resolve a DRT matter is through a "Compromise Settlement." We work with the bank's zonal offices in Kolkata to draft a proposal that the bank's board is likely to approve, thereby avoiding the long drawn out process of a tribunal trial and the risk of asset auction.</p>
             </section>
 
             <section id="anti-harassment" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl font-black mb-6">Your Anti-Harassment Shield: West Bengal Police and RBI Guidelines</h2>
+              <h3 className="text-3xl font-black mb-6">Your Anti-Harassment Shield: West Bengal Police and RBI Guidelines</h3>
               <p>The most painful part of falling behind on loan payments is often the harassment from recovery agents. In West Bengal, we have seen instances where agents use abusive language, make calls to employers, or visit homes at inappropriate hours. This behavior is a direct violation of the RBI guidelines on fair debt collection practices. The right to live with dignity is protected by the Constitution of India, and no debt gives a bank the right to harass you or your family.</p>
               <p>Residents of West Bengal have strong protections. The Kolkata Police and West Bengal Police are increasingly sensitive to cases of "extortion" or "harassment" by recovery agents. If an agent threatens you, you have every right to file a General Diary (GD) or a formal FIR. At SettleLoans, we provide an Anti-Harassment Shield that manages all communications with the lenders. Once you are part of our program, we send formal legal notices to the banks informing them that you are now legally represented. This usually stops the aggressive calls immediately. If agents continue to violate the law, we assist you in filing complaints with the Banking Ombudsman. We believe that no one should be bullied into a settlement; it should always be a dignified legal process.</p>
             </section>
 
             <section id="roadmap" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl font-black mb-6">The 5-Step Roadmap to Freedom in West Bengal</h2>
+              <h3 className="text-3xl font-black mb-6">The 5-Step Roadmap to Freedom in West Bengal</h3>
               <p>Becoming debt-free is a journey that requires a map. Our 5-step process is tailored for the West Bengal market. The first step is **Case Audit and Hardship Profiling**, where we analyze your total debt across all banks and document your genuine financial hardship. This forms the basis of our negotiation. The second step is **Strategic Communication Redirection**, where we issue notices to your lenders to stop direct harassment. All communications are routed through our legal experts.</p>
               <p>The third step is **The Negotiation Phase**. We use our data and relationships with bank managers in Kolkata to propose a "bottom price" settlement. We aim for the highest possible waiver on your behalf. The fourth step is **Verification of the Settlement Letter**. We never advise you to pay a single rupee until we have a formal, official settlement letter from the bank on their letterhead. We verify every letter for authenticity. The final step is **Payment and Account Closure**, where you make the payment to the bank, and we follow up to ensure you receive your "No Dues Certificate" (NDC), marking the official end of your debt journey.</p>
             </section>
 
             <section id="success-stories" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl font-black mb-8 text-center">West Bengal Success Stories: Reclaiming Lives</h2>
+              <h3 className="text-3xl font-black mb-8 text-center">West Bengal Success Stories: Reclaiming Lives</h3>
               <p className="text-center mb-8">We have helped over 1,200+ families across West Bengal regain their financial independence. Here are some of their stories.</p>
               <div className="grid md:grid-cols-2 gap-6 not-prose">
                 <div className="bg-white p-6 rounded-2xl border border-[#DEDEDE] shadow-sm hover:shadow-md transition-all">
                   <div className="flex items-center mb-4">
                     <div className="w-10 h-10 rounded-full bg-[#1F5EFF]/10 flex items-center justify-center font-bold text-[#1F5EFF] mr-3">S</div>
                     <div>
-                      <h3 className="font-bold">Subir Das</h3>
+                      <h4 className="font-bold">Subir Das</h4>
                       <p className="text-xs text-gray-500">Kolkata, West Bengal</p>
                     </div>
                   </div>
@@ -371,7 +371,7 @@ export default function WestBengalLoanSettlementPage() {
                   <div className="flex items-center mb-4">
                     <div className="w-10 h-10 rounded-full bg-[#1F5EFF]/10 flex items-center justify-center font-bold text-[#1F5EFF] mr-3">A</div>
                     <div>
-                      <h4 className="font-bold">Ananya Roy</h4>
+                      <h5 className="font-bold">Ananya Roy</h5>
                       <p className="text-xs text-gray-500">Howrah, West Bengal</p>
                     </div>
                   </div>
@@ -382,25 +382,25 @@ export default function WestBengalLoanSettlementPage() {
             </section>
 
             <section id="cibil-recovery" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl font-black mb-6">CIBIL Score Recovery in West Bengal: Life after Settlement</h2>
+              <h3 className="text-3xl font-black mb-6">CIBIL Score Recovery in West Bengal: Life after Settlement</h3>
               <p>A common concern is the impact of a settlement on the CIBIL score. It is true that a settlement will mark your account as "Settled" and temporarily lower your score. However, this is far better than a "Suit Filed" or "Written Off" status. In the fast-paced economy of Kolkata, being debt-free is the first step toward rebuilding your credit. A settlement is damage control, it is a way to stop the bleeding of a failing financial situation.</p>
               <p>We provide a "Credit Rebuilding Guide" to all our clients. Once your debts are settled, your debt-to-income ratio improves significantly. By using small secured credit lines, such as a credit card against a fixed deposit, and paying them on time, you generate fresh, positive data points for the credit bureaus. Within 18 to 24 months of consistent behavior, most our clients see their scores return to the 750+ range. Freedom from harassment today is worth the temporary dip in a score that you can fix tomorrow.</p>
             </section>
 
             <section id="bank-negotiation" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl font-black mb-6">Strategic Bank level Negotiation: Kolkata Zonal Office Insights</h2>
+              <h3 className="text-3xl font-black mb-6">Strategic Bank level Negotiation: Kolkata Zonal Office Insights</h3>
               <p>Negotiating successfully requires knowing who to talk to. Dealing with a local branch manager in Burdwan is different from dealing with a Zonal Manager in Dalhousie, Kolkata. We understand the internal "windows" used by different banks, nationalized banks like UCO or Punjab National Bank have different criteria than private giants like ICICI or Axis. Banks operate on cycles, and there are specific times of the year, such as the end of a financial quarter, when they are more motivated to settle accounts to meet their recovery targets.</p>
               <p>Our team in Kolkata monitors these cycles closely to time our proposals for maximum effect. Every bank has a different 'risk appetite' and a different threshold for waivers. We use our vast database of past successful settlements to tailor our approach for each specific lender. This collective bargaining power gives you an advantage that no individual borrower can achieve on their own. We handle everything from the initial communication to the final verification of the settlement letter, ensuring you are treated with respect throughout the process.</p>
             </section>
 
             <section id="professionalism" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl font-black mb-6">Our Commitment to Professionalism and Transparency</h2>
+              <h3 className="text-3xl font-black mb-6">Our Commitment to Professionalism and Transparency</h3>
               <p>In the debt settlement industry, trust is the most valuable commodity. We understand that our clients are often at their most vulnerable when they reach out to us. That is why SettleLoans is built on a foundation of absolute transparency. We do not make unrealistic promises and we do not have any hidden charges. Our service fees are clearly outlined in our client agreement, and we only work on cases where we believe we can add significant value.</p>
               <p>Unlike many fly-by-night operators in the Kolkata market, we have an established legal presence and a team of professional consultants. We provide you with a dedicated case manager and a client portal where you can track the status of every negotiation in real time. This level of accountability is what sets us apart and has made us the highest rated debt settlement service in Eastern India. Your journey to financial freedom should be built on clarity, not confusion. We invite you to experience the SettleLoans difference and take back your life from the burden of debt.</p>
             </section>
 
             <section id="faqs" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl font-black mb-8">Frequently Asked Questions</h2>
+              <h3 className="text-3xl font-black mb-8">Frequently Asked Questions</h3>
               <div className="space-y-4 not-prose">
                 {[
                   { q: "Is loan settlement legal in West Bengal?", a: "Yes, it is a 100% legal process governed by the Indian Contract Act and supported by RBI guidelines and the state's Lok Adalat system." },
@@ -432,7 +432,7 @@ export default function WestBengalLoanSettlementPage() {
             </section>
 
             <section className="mt-16 bg-[#1F5EFF] rounded-3xl p-10 text-center text-white shadow-2xl">
-              <h2 className="text-3xl md:text-4xl font-black mb-4">Start Your Debt Free Life in West Bengal Today</h2>
+              <h3 className="text-3xl md:text-4xl font-black mb-4">Start Your Debt Free Life in West Bengal Today</h3>
               <p className="mb-8 text-lg opacity-90 max-w-2xl mx-auto">Join the hundreds of families across West Bengal who have successfully settled their loans with us. Your journey to financial freedom is just one consultation away.</p>
               <div className="flex justify-center">
                 <Link href="/contact" className="inline-block bg-white text-[#1F5EFF] font-black py-4 px-12 rounded-xl hover:scale-105 transition-all text-xl shadow-lg">

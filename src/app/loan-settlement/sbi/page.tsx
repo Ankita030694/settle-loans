@@ -288,7 +288,7 @@ export default function SBILoanSettlementPage() {
             </section>
 
             <section id="sbi-npa-landscape" className="scroll-mt-32 mb-32">
-               <h2 className="text-3xl font-black text-[#1a202c] mb-12">2. The SBI NPA Landscape & Strategic Borrower Advantage</h2>
+               <h3 className="text-3xl font-black text-[#1a202c] mb-12">2. The SBI NPA Landscape & Strategic Borrower Advantage</h3>
                <div className="space-y-10">
                   <p>
                      The State Bank of India governs the most significant portfolio of retail and corporate financing in South Asia. As we move through 2026, the bank's operational focus has pivoted toward the aggressive liquidation of Non-Performing Assets (NPAs) to align with international Basel III norms. When your account is officially classified as an NPA, it triggers a cascade of both automated monitoring and manual recovery workflows.
@@ -303,7 +303,7 @@ export default function SBILoanSettlementPage() {
             </section>
 
             <section id="rinn-samadhan-deepdive" className="scroll-mt-32 mb-32 bg-[#004687]/5 p-20 rounded-[80px] border border-[#004687]/10">
-               <h2 className="text-3xl font-black text-[#004687] mb-12">3. Rinn Samadhan Scheme Deep Dive: The 2026 Operational Blueprint</h2>
+               <h3 className="text-3xl font-black text-[#004687] mb-12">3. Rinn Samadhan Scheme Deep Dive: The 2026 Operational Blueprint</h3>
                <div className="space-y-10">
                   <p>
                      The Rinn Samadhan is more than just a marketing campaign; it is a codified policy framework that defines the exact parameters for debt forgiveness at SBI. In the 2026 iteration, the scheme has been widened to encompass nearly all retail products up to a threshold of ₹25 lakhs, with specialized tracks for larger corporate and SME exposures.
@@ -320,7 +320,7 @@ export default function SBILoanSettlementPage() {
             </section>
 
             <section id="ots-negotiation-logic" className="scroll-mt-32 mb-32">
-               <h2 className="text-3xl font-black text-[#1a202c] mb-12">4. Mathematical Logic of SBI OTS: Converting Risk to Capital</h2>
+               <h3 className="text-3xl font-black text-[#1a202c] mb-12">4. Mathematical Logic of SBI OTS: Converting Risk to Capital</h3>
                <div className="space-y-10">
                   <p>
                      If you have ever wondered why a bank as powerful as SBI would accept ₹7 lakhs for a debt of ₹20 lakhs, the answer lies in the cold logic of IRAC (Income Recognition and Asset Classification). An NPA is a 'toxic' asset that drains the bank's resources in perpetuity through legal fees, human capital costs, and most importantly, the blocked capital described earlier.
@@ -338,7 +338,7 @@ export default function SBILoanSettlementPage() {
             </section>
 
             <section id="personal-loan-strategies" className="scroll-mt-32 mb-32">
-               <h2 className="text-3xl font-black text-[#1a202c] mb-12">5. Personal Loan Exit Strategies: Breaking the Cycle of Interest</h2>
+               <h3 className="text-3xl font-black text-[#1a202c] mb-12">5. Personal Loan Exit Strategies: Breaking the Cycle of Interest</h3>
                <div className="space-y-10">
                   <p>
                      SBI personal loans, frequently marketed to public sector employees and pensioners, are often the first to go into default when a family crisis occurs. Because these are unsecured, SBI's initial reaction is often highly aggressive through their third-party agency networks.
@@ -350,7 +350,7 @@ export default function SBILoanSettlementPage() {
             </section>
 
             <section id="credit-card-management" className="scroll-mt-32 mb-32">
-               <h2 className="text-3xl font-black text-[#1a202c] mb-12">6. SBI Card Debt Management: Defying the 40% Interest Trap</h2>
+               <h3 className="text-3xl font-black text-[#1a202c] mb-12">6. SBI Card Debt Management: Defying the 40% Interest Trap</h3>
                <div className="space-y-10">
                   <p>
                      SBI Cards operates with a separate recovery machinery that is notably more agile and persistent than the rural branch network. The compounded interest on a credit card in default can double the debt in less than eighteen months. This is a mathematical trap designed to drain the borrower's resources indefinitely.
@@ -362,18 +362,18 @@ export default function SBILoanSettlementPage() {
             </section>
 
             <section id="home-loan-protection" className="scroll-mt-32 mb-32 bg-slate-900 text-white p-20 rounded-[80px]">
-               <h2 className="text-3xl font-black mb-12 text-[#ED2326]">7. Home Loan & SARFAESI Defense: Legal Shield for Your Residence</h2>
+               <h3 className="text-3xl font-black mb-12 text-[#ED2326]">7. Home Loan & SARFAESI Defense: Legal Shield for Your Residence</h3>
                <div className="space-y-10">
                   <p className="text-2xl font-light opacity-80">
                      The Securitisation and Reconstruction of Financial Assets and Enforcement of Security Interest (SARFAESI) Act is the primary mechanism SBI uses for residential recovery. However, the legislation is complex and contains numerous procedural hurdles that the bank must clear perfectly.
                   </p>
                   <div className="space-y-12">
                      <div className="border-l-4 border-[#ED2326] pl-12">
-                        <h3 className="text-3xl font-black mb-4">Stage 1: Technical Objection to the 13(2) Notice</h3>
+                        <h4 className="text-3xl font-black mb-4">Stage 1: Technical Objection to the 13(2) Notice</h4>
                         <p className="opacity-70 text-xl">The 60-day notice is your golden window. We scrutinize the interest calculations, the classification date, and the service of notice. If a single procedural error is found, the bank must reissue the notice, buying you months of time to finalize a financial settlement.</p>
                      </div>
                      <div className="border-l-4 border-[#ED2326] pl-12">
-                        <h4 className="text-3xl font-black mb-4">Stage 2: Challenging Asset Valuation in the DRT</h4>
+                        <h5 className="text-3xl font-black mb-4">Stage 2: Challenging Asset Valuation in the DRT</h5>
                         <p className="opacity-70 text-xl">If the bank attempts to auction your home, we intervene in the Debt Recovery Tribunal. We challenge the 'Reserve Price'. Public sector banks often set low prices for a fast sale to friendly bidders. By forcing a market-linked valuation, we prevent the bank from selling your asset for less than its worth, often forcing them to accept a settlement instead.</p>
                      </div>
                   </div>
@@ -381,7 +381,7 @@ export default function SBILoanSettlementPage() {
             </section>
 
             <section id="sme-business-debt" className="scroll-mt-32 mb-32">
-               <h2 className="text-3xl font-black text-[#1a202c] mb-12">8. SME & Business Debt Workout: Professional Restructuring for Growth</h2>
+               <h3 className="text-3xl font-black text-[#1a202c] mb-12">8. SME & Business Debt Workout: Professional Restructuring for Growth</h3>
                <div className="space-y-10">
                   <p>
                      For a small business owner, an SBI Cash Credit (CC) default can lead to the total collapse of the enterprise. But in 2026, the MSME framework provided by the government offers a path to survival.
@@ -393,7 +393,7 @@ export default function SBILoanSettlementPage() {
             </section>
 
             <section id="legal-summons-guide" className="scroll-mt-32 mb-32">
-               <h2 className="text-3xl font-black text-[#1a202c] mb-12">9. Navigating Legal Summons: Differentiating Myths from Reality</h2>
+               <h3 className="text-3xl font-black text-[#1a202c] mb-12">9. Navigating Legal Summons: Differentiating Myths from Reality</h3>
                <div className="space-y-10">
                   <p>
                      SBI retains a massive army of empanelled advocates. The letters you receive are often part of a standardized recovery sequence designed to create psychological pressure. Not every 'Legal Notice' is a court summons.
@@ -405,7 +405,7 @@ export default function SBILoanSettlementPage() {
             </section>
 
             <section id="rbi-fair-practice" className="scroll-mt-32 mb-32 bg-[#004687] text-white p-20 rounded-[80px]">
-               <h2 className="text-3xl font-black mb-12 underline decoration-[#ED2326] decoration-[5px]">10. RBI Fair Practice Code 2026: The Mandatory Guidelines for SBI</h2>
+               <h3 className="text-3xl font-black mb-12 underline decoration-[#ED2326] decoration-[5px]">10. RBI Fair Practice Code 2026: The Mandatory Guidelines for SBI</h3>
                <div className="space-y-10">
                   <p>
                      The Reserve Bank of India's update to the Fair Practice Code in 2026 is a revolutionary protective measure for Indian borrowers. SBI is legally required to adhere to these rules, and any deviation provides you with an instant 'Nuclear Option' in negotiations.
@@ -422,7 +422,7 @@ export default function SBILoanSettlementPage() {
             </section>
 
             <section id="lok-adalat-success" className="scroll-mt-32 mb-32">
-               <h2 className="text-3xl font-black text-[#1a202c] mb-12">11. Lok Adalat Success Tactics: The Court of Final Compromise</h2>
+               <h3 className="text-3xl font-black text-[#1a202c] mb-12">11. Lok Adalat Success Tactics: The Court of Final Compromise</h3>
                <div className="space-y-10">
                   <p>
                      Lok Adalats are the ultimate venue for closing SBI cases. They are unique because the bench is composed of a sitting judge and an independent social worker whose only goal is to find a middle ground. There is no 'Trial', only 'Negotiation'.
@@ -434,7 +434,7 @@ export default function SBILoanSettlementPage() {
             </section>
 
             <section id="ombudsman-recourse" className="scroll-mt-32 mb-32">
-               <h2 className="text-3xl font-black text-[#1a202c] mb-12">12. Banking Ombudsman Remedies: Escalating Your Grievance</h2>
+               <h3 className="text-3xl font-black text-[#1a202c] mb-12">12. Banking Ombudsman Remedies: Escalating Your Grievance</h3>
                <div className="space-y-10">
                   <p>
                      If your local SBI branch is being unresponsive or if they are demanding an unreasonable amount for a settlement, the Banking Ombudsman is our next escalation point. The 2021 Integrated Ombudsman Scheme covers almost every aspect of banking conduct.
@@ -446,7 +446,7 @@ export default function SBILoanSettlementPage() {
             </section>
 
             <section id="psychology-of-debt" className="scroll-mt-32 mb-32">
-               <h2 className="text-3xl font-black text-[#1a202c] mb-12">13. The Psychology of Debt Freedom: Shifting the Power Dynamic</h2>
+               <h3 className="text-3xl font-black text-[#1a202c] mb-12">13. The Psychology of Debt Freedom: Shifting the Power Dynamic</h3>
                <div className="space-y-10">
                   <p>
                      The most potent tool in the bank's arsenal is your psychological isolation. They count on you feeling guilty for an outcome that is often driven by macroeconomic factors or unforeseen personal tragedies. We teach our clients to stop thinking like a 'Defaulter' and start thinking like a 'Contractual Negotiator'.
@@ -458,7 +458,7 @@ export default function SBILoanSettlementPage() {
             </section>
 
             <section id="technical-glossary" className="scroll-mt-32 mb-32 bg-slate-50 p-20 rounded-[60px]">
-               <h2 className="text-3xl font-black text-[#004687] mb-16 underline decoration-[#ED2326] decoration-[10px]">14. Technical Glossary: Decoding the Bank's Dialect</h2>
+               <h3 className="text-3xl font-black text-[#004687] mb-16 underline decoration-[#ED2326] decoration-[10px]">14. Technical Glossary: Decoding the Bank's Dialect</h3>
                <div className="grid md:grid-cols-2 gap-10">
                   {[
                     { t: "NPA (Non-Performing Asset)", d: "A status reached when payment is 90 days overdue. This is the moment your settlement eligibility begins." },
@@ -473,7 +473,7 @@ export default function SBILoanSettlementPage() {
                     { t: "Realizable Value", d: "The actual cash the bank can get from an auction. This is always lower than market value." }
                   ].map((item, i) => (
                     <div key={i} className="space-y-2 pb-6 border-b border-slate-200">
-                       <h3 className="text-xl font-black text-[#004687]">{item.t}</h3>
+                       <h4 className="text-xl font-black text-[#004687]">{item.t}</h4>
                        <p className="text-sm opacity-70 leading-relaxed font-bold">{item.d}</p>
                     </div>
                   ))}
@@ -482,7 +482,7 @@ export default function SBILoanSettlementPage() {
             </section>
 
             <section id="expanded-case-studies" className="scroll-mt-32 mb-32">
-               <h2 className="text-3xl font-black text-[#1a202c] mb-16">15. Detailed Financial Case Studies: Real-World SBI Victories</h2>
+               <h3 className="text-3xl font-black text-[#1a202c] mb-16">15. Detailed Financial Case Studies: Real-World SBI Victories</h3>
                <div className="grid gap-12">
                   {[
                     { t: "The Pensioner's Grace", l: "₹12L Personal Loan", s: "Settled for ₹4L", text: "A retired teacher faced a medical crisis. SBI was deducting 80% of her pension. We used 'Humanitarian Clauses' in the internal policy to stop the circular deductions and settle for just 33% of the debt." },
@@ -492,7 +492,7 @@ export default function SBILoanSettlementPage() {
                     { t: "The Agricultural Relief", l: "₹15L Crop Loan", s: "100% Waiver on Interest", text: "A farmer in Maharashtra was facing crop failure. We used the 'Agri Samadhan' circulars to waive all interest and settle the principal over 12 interest-free months." }
                   ].map((cs, i) => (
                     <div key={i} className="p-12 bg-white border border-slate-100 rounded-[50px] shadow-sm hover:shadow-2xl transition-all border-l-[15px] border-[#ED2326]">
-                       <h3 className="text-3xl font-black text-[#004687] mb-4">{cs.t}</h3>
+                       <h4 className="text-3xl font-black text-[#004687] mb-4">{cs.t}</h4>
                        <p className="font-bold text-xl mb-4 italic">{cs.l} | {cs.s}</p>
                        <p className="opacity-70 text-lg">"{cs.text}"</p>
                     </div>
@@ -502,7 +502,7 @@ export default function SBILoanSettlementPage() {
             </section>
 
             <section id="faq-resolution" className="scroll-mt-32 mb-32">
-               <h2 className="text-3xl font-black text-[#ED2326] mb-12">16. Mega FAQ Resolution Center</h2>
+               <h3 className="text-3xl font-black text-[#ED2326] mb-12">16. Mega FAQ Resolution Center</h3>
                <div className="space-y-12">
                   {[
                     { q: "What is the minimum period of default before SBI will consider a settlement?", a: "Typically, an account must be in NPA status for at least 6 to 12 months before the bank's settlement committees will review an OTS proposal. However, 'Pre-NPA' settlements are possible for businesses undergoing restructuring." },
@@ -522,7 +522,7 @@ export default function SBILoanSettlementPage() {
                     { q: "What is the 'Early Bird' bonus in SBI OTS?", a: "It is an additional discount (usually 5%) given to those who pay the entire settled amount within the first 30 days of the approval letter." }
                   ].map((faq, i) => (
                     <div key={i} className="pb-10 border-b border-slate-100 group">
-                       <h3 className="text-2xl font-black text-[#1a202c] mb-4 group-hover:text-[#004687] transition-colors">{faq.q}</h3>
+                       <h4 className="text-2xl font-black text-[#1a202c] mb-4 group-hover:text-[#004687] transition-colors">{faq.q}</h4>
                        <p className="text-lg opacity-70 leading-relaxed font-light">{faq.a}</p>
                     </div>
                   ))}
@@ -530,9 +530,9 @@ export default function SBILoanSettlementPage() {
             </section>
 
             <section id="conclusion" className="scroll-mt-32 mb-16">
-               <h2 className="text-3xl font-black text-[#1a202c] mb-16 leading-[0.8] tracking-tighter">
+               <h3 className="text-3xl font-black text-[#1a202c] mb-16 leading-[0.8] tracking-tighter">
                   Freedom. <br className="hidden md:block"/> <span className="text-[#004687]">Guaranteed.</span>
-               </h2>
+               </h3>
                <div className="space-y-12 text-3xl font-light leading-relaxed">
                   <p>
                      You have just completed a rigorous study covering every strategic facet of SBI debt resolution. This knowledge is your first and most vital step toward reclaiming your financial autonomy.
@@ -542,7 +542,7 @@ export default function SBILoanSettlementPage() {
                   </p>
                   <div className="bg-[#004687] text-white p-24 rounded-[100px] text-center shadow-[0_80px_150px_rgba(0,70,135,0.4)] relative overflow-hidden">
                      <div className="absolute top-0 left-0 w-full h-full bg-[#ED2326]/5 transform -rotate-12 translate-x-1/2"></div>
-                     <h2 className="text-3xl font-black mb-12 leading-none relative z-10">Start Your SBI <br/> Debt Exit Today</h2>
+                     <h3 className="text-3xl font-black mb-12 leading-none relative z-10">Start Your SBI <br/> Debt Exit Today</h3>
                      <Link href="/contact" className="inline-block bg-[#ED2326] text-white font-black py-10 px-32 rounded-3xl text-3xl hover:scale-110 active:scale-95 transition-all shadow-4xl relative z-10">
                         Get Free Debt Analysis
                      </Link>

@@ -275,9 +275,9 @@ export default function DRTCaseDefencePage() {
             </section>
 
             <section id="understanding-drt" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
                 What Exactly is the Debt Recovery Tribunal?
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 The Debt Recovery Tribunal (DRT) was established by the Indian government with a very specific purpose: to provide a fast-track mechanism for banks and financial institutions to recover their dues from borrowers who have defaulted. Before the establishment of DRTs, recovery cases would linger in Civil Courts for decades. The DRT was designed to solve this by creating a specialized forum that focuses solely on financial recovery.
               </p>
@@ -288,7 +288,7 @@ export default function DRTCaseDefencePage() {
                 Currently, there are dozens of DRTs across India, each presided over by a Presiding Officer who is typically a District Judge or someone of equivalent stature. For a bank to approach the DRT, the amount of debt in question must generally be Rs. 20 Lakhs or above. For smaller amounts, they must still use the regular civil court system or other summary procedures. Understanding that the DRT is a specialized court is the first step toward preparing a proper defence.
               </p>
               <div className="bg-gray-50 p-8 rounded-xl border border-gray-200 mb-8 font-medium">
-                <h3 className="text-xl font-bold mb-6">The Purpose of DRT in the Indian Ecosystem</h3>
+                <h4 className="text-xl font-bold mb-6">The Purpose of DRT in the Indian Ecosystem</h4>
                 <ul className="grid md:grid-cols-2 gap-4">
                   <li className="flex items-center gap-2">
                     <span className="w-2 h-2 bg-[#1F5EFF] rounded-full"></span>
@@ -311,21 +311,21 @@ export default function DRTCaseDefencePage() {
             </section>
 
             <section id="legal-framework" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
                 The Legal Framework: RDB Act and SARFAESI Act
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 To defend a case in the DRT effectively, one must understand the two primary laws that govern these proceedings. These laws are often used together by banks, but they serve different purposes and offer different avenues for defence.
               </p>
               <div className="space-y-8">
                 <div className="bg-white p-8 rounded-2xl border border-blue-50 shadow-sm transition-all hover:bg-blue-50/30">
-                  <h3 className="text-2xl font-bold text-blue-600 mb-4">1. The RDB Act, 1993</h3>
+                  <h4 className="text-2xl font-bold text-blue-600 mb-4">1. The RDB Act, 1993</h4>
                   <p className="mb-4">
                     The Recovery of Debts and Bankruptcy Act (formerly RDDBFI Act) is what created the DRT. Under this act, the bank files an "Original Application" (OA) to get a "Recovery Certificate" against you. This is a structured legal battle where evidence is presented, and witnesses are sometimes cross-examined. This process is generally slower but allows for a more detailed factual defence.
                   </p>
                 </div>
                 <div className="bg-white p-8 rounded-2xl border border-purple-50 shadow-sm transition-all hover:bg-purple-50/30">
-                  <h3 className="text-2xl font-bold text-purple-600 mb-4">2. The SARFAESI Act, 2002</h3>
+                  <h4 className="text-2xl font-bold text-purple-600 mb-4">2. The SARFAESI Act, 2002</h4>
                   <p className="mb-4">
                     The Secularisation and Reconstruction of Financial Assets and Enforcement of Security Interest Act is the bank's most powerful weapon. It allows them to bypass the court process for secured assets. If you have mortgaged a property, they can seize it and auction it directly. To challenge this, you must file a "Securitisation Application" (SA) in the DRT. The timelines here are very strict, and the focus is on whether the bank followed the the technical rules of the act.
                   </p>
@@ -337,9 +337,9 @@ export default function DRTCaseDefencePage() {
             </section>
 
             <section id="npa-notice-stages" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
                 The Critical Stages: From NPA to DRT Notice
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 A DRT case does not happen overnight. It is the result of a multi-stage process where the bank transitions from being a creditor to becoming a litigator. Identifying these stages is crucial because each stage offers a different "window of opportunity" for a borrower to defend themselves.
               </p>
@@ -347,7 +347,7 @@ export default function DRTCaseDefencePage() {
                 The journey begins with the classification of your account as a Non-Performing Asset (NPA). According to RBI guidelines, this usually happens after 90 days of non-payment. Once the account is an NPA, the bank loses its ability to treat the loan as an active asset and must begin recovery. This transition is not just an internal bank entry; it is a legal milestone that triggers your rights as a borrower.
               </p>
               <div className="bg-blue-50 p-8 rounded-xl border border-blue-200 mb-8">
-                <h3 className="text-xl font-bold mb-4 text-blue-900">The Timeline of a Default</h3>
+                <h4 className="text-xl font-bold mb-4 text-blue-900">The Timeline of a Default</h4>
                 <ul className="space-y-4 text-blue-900/80">
                   <li className="flex items-start gap-3">
                     <span className="font-bold text-blue-600 mt-0">SMA 0-2:</span>
@@ -373,31 +373,31 @@ export default function DRTCaseDefencePage() {
             </section>
 
             <section id="common-defences" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Common Legal Defences in the DRT</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Common Legal Defences in the DRT</h3>
               <p className="mb-6 text-lg">
                 Defending a DRT case is not just about saying "I cannot pay". It is about proving that the bank's action is technically or legally flawed. In Indian banking law, the "procedure is the protection". If the bank ignores a single tiny step in the rulebook, their entire action can be set aside.
               </p>
               <div className="grid md:grid-cols-2 gap-8 mb-8">
                 <div className="p-8 bg-white border border-[#DEDEDE] rounded-2xl shadow-sm hover:shadow-md transition-shadow">
-                  <h3 className="text-xl font-bold text-[#1F5EFF] mb-4">A. Wrong NPA Classification</h3>
+                  <h4 className="text-xl font-bold text-[#1F5EFF] mb-4">A. Wrong NPA Classification</h4>
                   <p className="text-sm text-gray-600 leading-relaxed mb-4">
                     Did the bank follow the RBI Master Circular on NPA classification? Sometimes banks classify accounts as NPA based on a computer error or before the 90-day grace period. If you can prove the account was not legally an NPA on the day the notice was issued, the entire SARFAESI proceeding is invalid.
                   </p>
                 </div>
                 <div className="p-8 bg-white border border-[#DEDEDE] rounded-2xl shadow-sm hover:shadow-md transition-shadow">
-                  <h3 className="text-xl font-bold text-[#1F5EFF] mb-4">B. Notice Service Errors</h3>
+                  <h4 className="text-xl font-bold text-[#1F5EFF] mb-4">B. Notice Service Errors</h4>
                   <p className="text-sm text-gray-600 leading-relaxed mb-4">
                     The law requires the notice to be served in a specific way (registered post, courier, and sometimes publication). If there were multiple co-borrowers or guarantors and some did not receive the notice, the bank's action is legally incomplete. Each defender must be given their individual right to object.
                   </p>
                 </div>
                 <div className="p-8 bg-white border border-[#DEDEDE] rounded-2xl shadow-sm hover:shadow-md transition-shadow">
-                  <h3 className="text-xl font-bold text-[#1F5EFF] mb-4">C. The 13(3A) Failure</h3>
+                  <h4 className="text-xl font-bold text-[#1F5EFF] mb-4">C. The 13(3A) Failure</h4>
                   <p className="text-sm text-gray-600 leading-relaxed mb-4">
                     Did you send a representation to the bank after the demand notice? Did they respond with a reasoned order? Many banks simply send a standard " we have considered and rejected" letter. The law requires them to address your specific points. Failure to do so is a major ground for a stay from the DRT.
                   </p>
                 </div>
                 <div className="p-8 bg-white border border-[#DEDEDE] rounded-2xl shadow-sm hover:shadow-md transition-shadow">
-                  <h3 className="text-xl font-bold text-[#1F5EFF] mb-4">D. Limitation Period</h3>
+                  <h4 className="text-xl font-bold text-[#1F5EFF] mb-4">D. Limitation Period</h4>
                   <p className="text-sm text-gray-600 leading-relaxed mb-4">
                     The bank must file its case in the DRT within 3 years from the date the debt became due. If they wait too long and haven't gotten a fresh "acknowledgment of debt" from you, the claim might be "time-barred". This is a complete defence that wipes out the entire claim.
                   </p>
@@ -406,12 +406,12 @@ export default function DRTCaseDefencePage() {
             </section>
 
             <section id="procedural-lapses" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Identifying Procedural Lapses: The Devil in the Details</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Identifying Procedural Lapses: The Devil in the Details</h3>
               <p className="mb-6">
                 In many DRT cases, the borrower's best friend is the bank's own lack of discipline. Because banks handle thousands of cases, they often cut corners in the paperwork. Identifying these "procedural lapses" is the bread and butter of DRT defence. A single missing date, a wrong stamp, or a failure to publish an auction notice in two newspapers (one of which must be in the vernacular language) can render an entire recovery attempt illegal.
               </p>
               <div className="bg-red-50 p-8 rounded-2xl border-l-4 border-red-500 mb-8">
-                <h3 className="text-xl font-bold text-red-800 mb-4">The "Rule 8 & 9" Violations</h3>
+                <h4 className="text-xl font-bold text-red-800 mb-4">The "Rule 8 & 9" Violations</h4>
                 <p className="mb-4 text-red-900/80 leading-relaxed">
                   Rules 8 and 9 of the Security Interest (Enforcement) Rules, 2002 are the most litigated sections of the law. They mandate:
                 </p>
@@ -429,23 +429,23 @@ export default function DRTCaseDefencePage() {
             </section>
 
             <section id="interim-relief" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Winning the First Battle: Getting an Interim Stay</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Winning the First Battle: Getting an Interim Stay</h3>
               <p className="mb-6 text-lg">
                 The most urgent goal in any DRT case is to protect the status quo. If the bank is about to auction your property in 48 hours, you do not have time for a full trial. You need an "Interim Order" or a "Stay Order". This is a temporary command from the presiding officer that stops the bank from moving forward until the deeper issues of the case are explored.
               </p>
               <div className="bg-white p-8 rounded-2xl border-2 border-[#1F5EFF]/20 space-y-8">
-                <h3 className="font-bold text-center text-xl">The Three-Pronged Test for a Stay</h3>
+                <h4 className="font-bold text-center text-xl">The Three-Pronged Test for a Stay</h4>
                 <div className="grid md:grid-cols-3 gap-6">
                   <div className="text-center">
-                    <h4 className="font-bold mb-2">1. Prima Facie Case</h4>
+                    <h5 className="font-bold mb-2">1. Prima Facie Case</h5>
                     <p className="text-xs text-gray-500">You must show that on the face of it, you have a strong legal argument (e.g. a gross procedural error by the bank).</p>
                   </div>
                   <div className="text-center">
-                    <h5 className="font-bold mb-2">2. Irreparable Loss</h5>
+                    <h6 className="font-bold mb-2">2. Irreparable Loss</h6>
                     <p className="text-xs text-gray-500">You must prove that if the auction goes through, the damage to you cannot be fixed by money alone (e.g. losing a residential home).</p>
                   </div>
                   <div className="text-center">
-                    <h5 className="font-bold mb-2">3. Balance of Convenience</h5>
+                    <h6 className="font-bold mb-2">3. Balance of Convenience</h6>
                     <p className="text-xs text-gray-500">The tribunal must weigh who would suffer more. Usually, the borrower losing their roof is a greater harm than a bank waiting 2 months for their money.</p>
                   </div>
                 </div>
@@ -456,7 +456,7 @@ export default function DRTCaseDefencePage() {
             </section>
 
             <section id="statement-errors" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">The Maths of Defence: Accounting Discrepancies</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">The Maths of Defence: Accounting Discrepancies</h3>
               <p className="mb-6">
                 Banks are not infallible when it comes to arithmetic. In fact, Statement of Account (SOA) errors are surprisingly common. Banks often charge "compound interest on penal interest", which is strictly prohibited by various High Court and Supreme Court rulings. They might apply higher rates of interest than what was agreed upon in the original loan document or fail to credit payments you made during the COVID-19 moratorium period.
               </p>
@@ -472,7 +472,7 @@ export default function DRTCaseDefencePage() {
             </section>
 
             <section id="valuation-disputes" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Challenging the Reserve Price: Valuation Disputes</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Challenging the Reserve Price: Valuation Disputes</h3>
               <p className="mb-6 text-lg">
                 Under the SARFAESI Act, before the bank can auction your property, they must determine its "fair market value" through a registered valuer. This value then determines the "Reserve Price" for the auction. If the Reserve Price is set too low, your property could be sold for a fraction of its worth, and you would still be left with a massive debt even after the home is gone.
               </p>
@@ -482,13 +482,13 @@ export default function DRTCaseDefencePage() {
             </section>
 
             <section id="ots-negotiation" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">The ultimate Way Out: One-Time Settlement (OTS)</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">The ultimate Way Out: One-Time Settlement (OTS)</h3>
               <p className="mb-6 text-lg">
                 Litigation in the DRT is rarely the end goal. Most smart borrowers and banks use the litigation as "leverage" for a settlement. This is called a One-Time Settlement or OTS. In an OTS, the bank agrees to accept a portion of the total dues (often the original principal plus a small amount of simple interest) and closes the account as "Settled". This allows the borrower to keep their property and the bank to recover their funds without continuing a 5-year lawsuit.
               </p>
               <div className="bg-[#2E2E2E] text-white p-8 rounded-2xl mb-8 border border-[#1F5EFF]/30 relative overflow-hidden">
                 <div className="absolute top-0 right-0 w-64 h-64 bg-[#1F5EFF] rounded-full -mr-32 -mt-32 opacity-10"></div>
-                <h3 className="text-2xl font-bold mb-4 relative z-10">Why Banks Agree to Settlements in DRT</h3>
+                <h4 className="text-2xl font-bold mb-4 relative z-10">Why Banks Agree to Settlements in DRT</h4>
                 <p className="mb-6 opacity-80 relative z-10">Banks are under pressure from the RBI to reduce their "GNPAs" (Gross NPAs). A long-drawn DRT case means the bank has to set aside capital as "provisioning", which hurts their profits. They would rather have Rs. 50 Lakhs today than the "promise" of Rs. 80 Lakhs in three years. This "time value of money" is your greatest leverage in a DRT case.</p>
                 <div className="flex gap-4 flex-wrap relative z-10">
                   <span className="px-4 py-2 bg-white/10 rounded-full text-xs font-bold border border-white/20">Waiver of Penal Interest</span>
@@ -502,7 +502,7 @@ export default function DRTCaseDefencePage() {
             </section>
 
             <section id="drat-appeals" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">What if the DRT Order is Against You? The Appellate Process</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">What if the DRT Order is Against You? The Appellate Process</h3>
               <p className="mb-6">
                 If the DRT passes an order that you believe is wrong, you have the right to appeal to the Debt Recovery Appellate Tribunal (DRAT). This is the "Higher Court" for recovery cases. However, the path to the DRAT has a significant hurdle called the "Pre-deposit". Under Section 18 of the SARFAESI Act, the appellant must deposit 50% of the debt amount (which the chairperson can reduce to 25%) before the appeal can even be heard.
               </p>
@@ -512,7 +512,7 @@ export default function DRTCaseDefencePage() {
             </section>
 
             <section id="mental-health" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Navigating the Psychological Toll of Litigation</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Navigating the Psychological Toll of Litigation</h3>
               <p className="mb-6 text-lg">
                 There is no denying it: a DRT case is stressful. The thought of appearing before a judge and the constant worry of losing your home can affect your work, your health, and your relationships. We often call this "litigation fatigue". It's a situation where the borrower is so exhausted by the process that they agree to a bad deal just to make it stop.
               </p>
@@ -522,13 +522,13 @@ export default function DRTCaseDefencePage() {
             </section>
 
             <section id="settleloans-role" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">How SettleLoans Can Change the Outcome of Your Case</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">How SettleLoans Can Change the Outcome of Your Case</h3>
               <p className="mb-6 text-lg font-bold">
                 DRT defence requires a combination of aggressive litigation and subtle negotiation. SettleLoans provides both in a single, professional package. We don't just "represent" you; we "advocate" for your financial future.
               </p>
               <div className="bg-white border-2 border-[#DEDEDE] rounded-2xl overflow-hidden shadow-xl mb-12">
                 <div className="bg-[#1F5EFF] p-6 text-white text-center">
-                  <h3 className="text-2xl font-black italic">The DRT Defence shield</h3>
+                  <h4 className="text-2xl font-black italic">The DRT Defence shield</h4>
                   <p className="text-sm opacity-90 mt-2">Professional | Legal | Strategic</p>
                 </div>
                 <div className="p-10">
@@ -537,14 +537,14 @@ export default function DRTCaseDefencePage() {
                       <div className="flex gap-4">
                         <div className="w-8 h-8 rounded-full bg-blue-100 flex items-center justify-center font-bold text-blue-600 flex-shrink-0">1</div>
                         <div>
-                          <h4 className="font-bold text-[#2E2E2E]">Comprehensive Audit</h4>
+                          <h5 className="font-bold text-[#2E2E2E]">Comprehensive Audit</h5>
                           <p className="text-xs text-gray-500 mt-1">We perform a 360-degree audit of all bank notices and accounts to find every single procedural lapse and interest error.</p>
                         </div>
                       </div>
                       <div className="flex gap-4">
                         <div className="w-8 h-8 rounded-full bg-blue-100 flex items-center justify-center font-bold text-blue-600 flex-shrink-0">2</div>
                         <div>
-                          <h4 className="font-bold text-[#2E2E2E]">Strategic SA/OA Filing</h4>
+                          <h5 className="font-bold text-[#2E2E2E]">Strategic SA/OA Filing</h5>
                           <p className="text-xs text-gray-500 mt-1">Our legal partners draft high-impact applications that focus on the most effective grounds for getting a stay and setting aside bank actions.</p>
                         </div>
                       </div>
@@ -553,14 +553,14 @@ export default function DRTCaseDefencePage() {
                       <div className="flex gap-4">
                         <div className="w-8 h-8 rounded-full bg-blue-100 flex items-center justify-center font-bold text-blue-600 flex-shrink-0">3</div>
                         <div>
-                          <h4 className="font-bold text-[#2E2E2E]">Direct Bank Interaction</h4>
+                          <h5 className="font-bold text-[#2E2E2E]">Direct Bank Interaction</h5>
                           <p className="text-xs text-gray-500 mt-1">We interact directly with the bank's Authorized Officer and their legal counsel to explore settlement opportunities from a position of strength.</p>
                         </div>
                       </div>
                       <div className="flex gap-4">
                         <div className="w-8 h-8 rounded-full bg-blue-100 flex items-center justify-center font-bold text-blue-600 flex-shrink-0">4</div>
                         <div>
-                          <h4 className="font-bold text-[#2E2E2E]">Property Protection</h4>
+                          <h5 className="font-bold text-[#2E2E2E]">Property Protection</h5>
                           <p className="text-xs text-gray-500 mt-1">Our primary priority is always to prevent physical dispossession and auction, giving you the breathing room you need to rearrange your finances.</p>
                         </div>
                       </div>
@@ -579,7 +579,7 @@ export default function DRTCaseDefencePage() {
             </section>
 
             <section id="faqs" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 text-center">Frequently Asked Questions on DRT Defence</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 text-center">Frequently Asked Questions on DRT Defence</h3>
               <div className="space-y-4">
                 {[
                   { q: "Is it possible to stop an auction after the notice is published?", a: "Yes. If there are procedural flaws in the auction notice (like less than 30 days notice or wrong newspaper publication), the DRT can grant a stay even 24 hours before the auction is scheduled." },
@@ -614,7 +614,7 @@ export default function DRTCaseDefencePage() {
             <div className="lg:hidden mt-16 mb-8">
               <div className="bg-[#2E2E2E] rounded-2xl shadow-xl overflow-hidden border border-[#1F5EFF]/20">
                 <div className="bg-[#1F5EFF] p-6 text-center text-white">
-                  <h3 className="text-2xl font-black mb-2">Save Your Assets</h3>
+                  <h4 className="text-2xl font-black mb-2">Save Your Assets</h4>
                   <p className="opacity-90 text-sm">Professional DRT litigation and negotiation support at your fingertips.</p>
                 </div>
                 <div className="p-8 text-center text-[#DEDEDE]">

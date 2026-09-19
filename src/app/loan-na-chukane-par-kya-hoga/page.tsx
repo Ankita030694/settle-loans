@@ -529,17 +529,17 @@ export default function LoanNaChukaneParKyaHogaPage() {
 
             {/* Section 2: Civil Breach vs Criminal Fraud: IPC 420 & BNS Debunked */}
             <section id="civil-vs-criminal-law-protections" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                 2. Civil Breach vs Criminal Fraud: Section 420 IPC &amp; BNS Provisions Debunked
-              </h2>
+              </h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Recovery agents darre hue borrowers ko Section 420 IPC (Cheating) aur Section 406 (Criminal Breach of Trust) ke tehat FIR ki dhamki dete hain. Lekin kanoon ke mutabiq Section 420 ke liye shuruat se hi thagne ki mansha (mens rea) hona zaroori hai. Asali documents par liye gaye loan me baad ka default dhokhadhadi nahi banta.
               </p>
               <div className="bg-slate-50 border border-slate-200 rounded-2xl p-5 my-4 space-y-3">
-                <h3 className="text-xs sm:text-sm font-bold text-slate-900 uppercase tracking-wider flex items-center gap-2">
+                <h4 className="text-xs sm:text-sm font-bold text-slate-900 uppercase tracking-wider flex items-center gap-2">
                   <Scale className="w-4 h-4 text-[#1F5EFF]" />
                   <span>Supreme Court of India ke Aitihasik Faisle</span>
-                </h3>
+                </h4>
                 <div className="space-y-2.5 text-xs sm:text-sm text-slate-700">
                   <div className="p-3 bg-white rounded-xl border border-slate-200">
                     <p className="font-bold text-slate-900">Dalip Kaur v. Jagnar Singh (2009) 14 SCC 696</p>
@@ -555,27 +555,27 @@ export default function LoanNaChukaneParKyaHogaPage() {
 
             {/* Section 3: Recovery Agent Coercion & Fake Notices */}
             <section id="recovery-agent-tactics-and-harassment" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                 3. Recovery Agent Coercion, Fake Police Notices &amp; RBI Safeguards
-              </h2>
+              </h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Bank civil court me lamba samay lagne ke kaaran third-party collection agencies ko commission par hire karte hain. Yeh agents borrower ke darr ka fayda uthane ke liye gair-kanooni hathkande apnate hain:
               </p>
               <div className="grid grid-cols-1 sm:grid-cols-2 gap-3 my-4">
                 <div className="p-4 bg-slate-50 border border-slate-200 rounded-xl">
-                  <h3 className="font-bold text-slate-900 text-xs sm:text-sm mb-1">Fake Police Notices</h3>
+                  <h4 className="font-bold text-slate-900 text-xs sm:text-sm mb-1">Fake Police Notices</h4>
                   <p className="text-xs text-slate-600">WhatsApp par farzi seals aur arrest warrants bhejkar darana IPC Section 465/468 ke tehat non-bailable forgery apradh hai.</p>
                 </div>
                 <div className="p-4 bg-slate-50 border border-slate-200 rounded-xl">
-                  <h4 className="font-bold text-slate-900 text-xs sm:text-sm mb-1">Relatives &amp; Workplace Calls</h4>
+                  <h5 className="font-bold text-slate-900 text-xs sm:text-sm mb-1">Relatives &amp; Workplace Calls</h5>
                   <p className="text-xs text-slate-600">Parivar ya employer ko call karke badnam karna RBI Fair Practices Code aur privacy rights ka ghor ullanghan hai.</p>
                 </div>
                 <div className="p-4 bg-slate-50 border border-slate-200 rounded-xl">
-                  <h4 className="font-bold text-slate-900 text-xs sm:text-sm mb-1">Abusive Language &amp; Odd Hours</h4>
+                  <h5 className="font-bold text-slate-900 text-xs sm:text-sm mb-1">Abusive Language &amp; Odd Hours</h5>
                   <p className="text-xs text-slate-600">Subah 8 baje se pehle ya sham 7 baje ke baad call karna, gaali dena IPC Section 506 ke tehat dandniya hai.</p>
                 </div>
                 <div className="p-4 bg-slate-50 border border-slate-200 rounded-xl">
-                  <h4 className="font-bold text-slate-900 text-xs sm:text-sm mb-1">Illegal Home Visits</h4>
+                  <h5 className="font-bold text-slate-900 text-xs sm:text-sm mb-1">Illegal Home Visits</h5>
                   <p className="text-xs text-slate-600">Bina official ID card ke ghar par aakar shor machana legal trespass aur criminal harassment banta hai.</p>
                 </div>
               </div>
@@ -586,9 +586,9 @@ export default function LoanNaChukaneParKyaHogaPage() {
 
             {/* Section 4: Bank NPA Accounting & NPV Recovery Formula */}
             <section id="bank-npa-accounting-and-npv-formula" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                 4. Bank Accounting Realities: NPA Provisioning &amp; The NPV Recovery Formula
-              </h2>
+              </h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Jab borrower 90 din tak EMI nahi bharta, to account Non-Performing Asset (NPA) ban jata hai. Bank ko Substandard NPA me 15% aur Doubtful asset me 100% mandatory provisioning karni padti hai. Kyunki civil court me 3-5 saal lagte hain, bank Net Present Value (NPV) recovery formula se settlement evaluate karte hain:
               </p>
@@ -632,9 +632,9 @@ export default function LoanNaChukaneParKyaHogaPage() {
 
             {/* Section 6: How Advocates Defang Criminal Threats & Shield You */}
             <section id="advocate-intervention-and-defense" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                 6. How Advocate Intervention Stops Harassment &amp; Shifts Bank to Settlement
-              </h2>
+              </h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Advocate ke formal legal representation lete hi bank recovery ka roop badal jata hai:
               </p>
@@ -642,28 +642,28 @@ export default function LoanNaChukaneParKyaHogaPage() {
                 <div className="p-4 bg-white border border-slate-200 rounded-xl shadow-sm flex items-start gap-3">
                   <ShieldCheck className="w-5 h-5 text-[#1F5EFF] flex-shrink-0 mt-0.5" />
                   <div>
-                    <h3 className="font-bold text-slate-900 text-xs sm:text-sm">Formal Cease-and-Desist Notice</h3>
+                    <h4 className="font-bold text-slate-900 text-xs sm:text-sm">Formal Cease-and-Desist Notice</h4>
                     <p className="text-xs text-slate-600 mt-1">Bank Nodal Officer ko notice bhejkar direct calls band karwayi jati hain aur communication counsel ke through transfer hoti hai.</p>
                   </div>
                 </div>
                 <div className="p-4 bg-white border border-slate-200 rounded-xl shadow-sm flex items-start gap-3">
                   <AlertTriangle className="w-5 h-5 text-amber-600 flex-shrink-0 mt-0.5" />
                   <div>
-                    <h4 className="font-bold text-slate-900 text-xs sm:text-sm">Counter-Complaints for Coercion (IPC 506)</h4>
+                    <h5 className="font-bold text-slate-900 text-xs sm:text-sm">Counter-Complaints for Coercion (IPC 506)</h5>
                     <p className="text-xs text-slate-600 mt-1">Farzi notices ka record banakar Cyber Crime aur Magistrate ke samne counter-criminal proceedings ki jati hain.</p>
                   </div>
                 </div>
                 <div className="p-4 bg-white border border-slate-200 rounded-xl shadow-sm flex items-start gap-3">
                   <Landmark className="w-5 h-5 text-indigo-600 flex-shrink-0 mt-0.5" />
                   <div>
-                    <h4 className="font-bold text-slate-900 text-xs sm:text-sm">RBI Ombudsman Escalation</h4>
+                    <h5 className="font-bold text-slate-900 text-xs sm:text-sm">RBI Ombudsman Escalation</h5>
                     <p className="text-xs text-slate-600 mt-1">RBI Integrated Ombudsman portal par recovery violations ki complaint se bank par regulatory penalty ka dabav banta hai.</p>
                   </div>
                 </div>
                 <div className="p-4 bg-white border border-slate-200 rounded-xl shadow-sm flex items-start gap-3">
                   <BadgePercent className="w-5 h-5 text-emerald-600 flex-shrink-0 mt-0.5" />
                   <div>
-                    <h4 className="font-bold text-slate-900 text-xs sm:text-sm">Direct Institutional OTS Negotiation</h4>
+                    <h5 className="font-bold text-slate-900 text-xs sm:text-sm">Direct Institutional OTS Negotiation</h5>
                     <p className="text-xs text-slate-600 mt-1">Hardship dossier ke aadhar par bank Zonal Committee se 50% se 65% principal waiver par settlement tay hota hai.</p>
                   </div>
                 </div>
@@ -672,9 +672,9 @@ export default function LoanNaChukaneParKyaHogaPage() {
 
             {/* Section 7: Sanction Letter Forensics & Section 482 CrPC Quashing */}
             <section id="sanction-letter-forensics-and-quashing" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                 7. Sanction Letter Forensics &amp; Section 482 CrPC / 528 BNSS Quashing Precedents
-              </h2>
+              </h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Yadi collection agency Magistrate ke samne Section 156(3) ya Section 200 CrPC ke tehat farzi criminal complaint dakhil kare, to High Court me Section 482 CrPC (Section 528 BNSS) ke tehat petition dakhil karke use turant quash karwaya jata hai:
               </p>
@@ -688,9 +688,9 @@ export default function LoanNaChukaneParKyaHogaPage() {
 
             {/* Section 8: CIBIL Impact, Remittance Protocols & Stamped NDC */}
             <section id="cibil-impact-ndc-and-credit-rebuilding" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                 8. CIBIL Score Impact, Secure Remittance &amp; RBI-Mandated No Dues Certificate
-              </h2>
+              </h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Loan default se credit score 150-250 points gir jata hai. Lekin settlement ke baad recovery band hoti hai aur score re-build hota hai. Surakshit settlement ke 3 anivarya niyam:
               </p>
@@ -718,9 +718,9 @@ export default function LoanNaChukaneParKyaHogaPage() {
 
             {/* Section 9: Dispute Resolution Comparative Matrix Table */}
             <section id="comparative-dispute-resolution-matrix" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                 9. Dispute Resolution Comparative Matrix: Bank Recovery Avenues in India
-              </h2>
+              </h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Bharat me loan default ke recovery madhyamon ka tulnatmak vishleshan:
               </p>
@@ -780,9 +780,9 @@ export default function LoanNaChukaneParKyaHogaPage() {
             {/* Section 10: SettleLoans Legal Defense & OTS Pathway + CompanySection */}
             <section id="settleloans-legal-resolution-pathway" className="space-y-6">
               <div className="border-t border-slate-200 pt-8 space-y-4">
-                <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
+                <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                   10. SettleLoans Legal Defense Pathway: Your Shield Against Harassment
-                </h2>
+                </h3>
                 <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                   Karz na chuka pane par darr me jeene ke bajaye sahi kanooni rasta apnayein. SettleLoans banking advocates harassment rukwate hain aur One-Time Settlement (OTS) karwake aarthik aazaadi dilwate hain.
                 </p>
@@ -796,9 +796,9 @@ export default function LoanNaChukaneParKyaHogaPage() {
             <section id="faqs" className="space-y-4 border-t border-slate-200 pt-8">
               <div className="flex items-center gap-2 mb-2">
                 <HelpCircle className="w-5 h-5 text-[#1F5EFF]" />
-                <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
+                <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                   11. Frequently Asked Questions: Loan Na Chukane Par Kya Hoga
-                </h2>
+                </h3>
               </div>
               <p className="text-xs sm:text-sm text-slate-600 mb-6">
                 Loan na chukane par bank action, police arrest myths, civil rights aur settlement se jude sawalon ke kanooni jawab.
@@ -828,9 +828,9 @@ export default function LoanNaChukaneParKyaHogaPage() {
 
             {/* 5 Official Regulatory Links */}
             <section className="border-t border-slate-200 pt-8 mb-4">
-              <h3 className="text-xs sm:text-sm font-bold text-slate-900 mb-3 uppercase tracking-wider">
+              <h4 className="text-xs sm:text-sm font-bold text-slate-900 mb-3 uppercase tracking-wider">
                 Official Statutory &amp; Regulatory References
-              </h3>
+              </h4>
               <div className="grid grid-cols-1 sm:grid-cols-2 gap-2.5 text-xs">
                 <a
                   href="https://www.sci.gov.in"
@@ -882,9 +882,9 @@ export default function LoanNaChukaneParKyaHogaPage() {
 
             {/* 10 Related Guide Badges */}
             <section className="border-t border-slate-200 pt-8 mb-8">
-              <h3 className="text-xs sm:text-sm font-bold text-slate-900 mb-4 uppercase tracking-wider">
+              <h4 className="text-xs sm:text-sm font-bold text-slate-900 mb-4 uppercase tracking-wider">
                 Related Legal Protection &amp; Loan Resolution Guides
-              </h3>
+              </h4>
               <div className="flex flex-wrap gap-2">
                 <Link
                   href="/can-i-go-to-jail-for-loan-default"

@@ -346,9 +346,9 @@ export default function DebtEvaluationPage() {
             </section>
 
             <section id="what-is-evaluation" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight text-indigo-600 uppercase">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight text-indigo-600 uppercase">
                 What Exactly is a Professional Debt Evaluation?
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 Most people confuse a "debt evaluation" with a simple inquiry about a settlement discount. In reality, a true professional audit is a deep-dive into three distinct pillars of your financial life: your Liability Architecture, your Cash-Flow Sustainability, and your Legal Risk Profile. It is the equivalent of an MRI scan for your bank account.
               </p>
@@ -356,7 +356,7 @@ export default function DebtEvaluationPage() {
                 During this phase, a senior counselor or a legal associate will look beyond the surface level of "what you owe." They will investigate the age of the debt, the history of payments (and defaults), the presence of any collateral, and most importantly, the psychological toll it is taking on your family. This is why we call it a "360-degree evaluation" it covers everything from the math to the legalities to the human element.
               </p>
               <div className="bg-indigo-50 p-8 rounded-xl border border-indigo-200 mb-8 shadow-inner">
-                <h3 className="text-xl font-bold mb-4 text-indigo-900 italic">The Three Pillars of Evaluation</h3>
+                <h4 className="text-xl font-bold mb-4 text-indigo-900 italic">The Three Pillars of Evaluation</h4>
                 <ul className="space-y-4">
                   <li className="flex items-start gap-3">
                     <span className="shrink-0 w-6 h-6 bg-indigo-500 text-white rounded-full flex items-center justify-center font-bold text-sm text-[8px]">LIABILITY</span>
@@ -387,9 +387,9 @@ export default function DebtEvaluationPage() {
             </section>
 
             <section id="why-free" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
                 Why Evaluation Should Always Be Free: Avoiding the Predatory Scams
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 In a market as sensitive as debt settlement, there is unfortunately a rise in "vulture consultants" who prey on the desperate. One of the most common red flags is a company that asks for an "evaluation fee," "file opening charges," or "registration costs" before they have even analyzed your case. 
               </p>
@@ -398,7 +398,7 @@ export default function DebtEvaluationPage() {
               </p>
               <div className="grid md:grid-cols-2 gap-6 mb-8">
                 <div className="bg-white p-6 rounded-xl border border-red-100 shadow-sm border-l-4 border-l-red-500">
-                  <h3 className="font-bold text-red-600 mb-2 uppercase text-xs tracking-widest">Scam Alert Checklist</h3>
+                  <h4 className="font-bold text-red-600 mb-2 uppercase text-xs tracking-widest">Scam Alert Checklist</h4>
                   <p className="text-sm text-gray-600 leading-relaxed font-bold">
                     Requests payment via UPI/WhatsApp before any call. Promises 100% 'guaranteed' 90% discount. Asks for your original identity documents or bank passwords. 
                   </p>
@@ -407,7 +407,7 @@ export default function DebtEvaluationPage() {
                   </p>
                 </div>
                 <div className="bg-white p-6 rounded-xl border border-green-100 shadow-sm border-l-4 border-l-green-500">
-                  <h3 className="font-bold text-green-600 mb-2 uppercase text-xs tracking-widest">Ethical Firm Protocol</h3>
+                  <h4 className="font-bold text-green-600 mb-2 uppercase text-xs tracking-widest">Ethical Firm Protocol</h4>
                   <p className="text-sm text-gray-600 leading-relaxed">
                     Offers a dedicated counselor for a recorded, professional evaluation call. Provides a written summary of the audit. Uses transparent fee structures based on the 'Success' or 'Amount Saved' model.
                   </p>
@@ -419,9 +419,9 @@ export default function DebtEvaluationPage() {
             </section>
 
             <section id="dti-calculation" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
                 Section 1: The DTI Ratio Mastery: Science of Debt Stress
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 The most important metric in any debt evaluation is your <strong>Debt-to-Income (DTI) Ratio</strong>. This is a simple mathematical percentage that represents how much of your gross monthly income is currently dedicated to paying debt obligations (EMIs, minimum card payments, interest). This number is the "blood pressure" of your financial life.
               </p>
@@ -429,7 +429,7 @@ export default function DebtEvaluationPage() {
                 During our evaluation, we don't just ask for a number; we help you find the truth. Many borrowers underestimate their DTI because they forget to include recurring "small app" payments or variable credit card interest. We bring everything to the table to calculate your "Real DTI."
               </p>
               <div className="bg-blue-50 p-8 rounded-xl border border-blue-200 mb-8 font-medium">
-                <h3 className="text-xl font-bold mb-4 text-blue-900 uppercase tracking-tight">The DTI Danger Zones</h3>
+                <h4 className="text-xl font-bold mb-4 text-blue-900 uppercase tracking-tight">The DTI Danger Zones</h4>
                 <ul className="grid md:grid-cols-2 gap-6">
                   <li className="flex items-start gap-2 text-blue-800">
                     <span className="w-2.5 h-2.5 bg-green-500 rounded-full mt-1.5"></span>
@@ -466,9 +466,9 @@ export default function DebtEvaluationPage() {
             </section>
 
             <section id="hardship-markers" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
                 Identifying Your 'Hardship Markers': Why Banks Listen
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 A key part of a 360-degree evaluation is identifying "Hardship Markers." Banks are monolithic institutions, but they operate under RBI guidelines that mandate they listen to borrowers in genuine distress. However, a bank will not take your word for it; they require documented proof. During the evaluation, we audit your life events over the last 12-24 months to find the "Legal Hooks" that will force the bank to offer a massive discount or a compromise settlement.
               </p>
@@ -476,7 +476,7 @@ export default function DebtEvaluationPage() {
                 A hardship is defined as an unavoidable circumstance that has permanently or significantly altered your ability to repay your debt as originally agreed. Without a hardship marker, a bank sees you as a 'Strategic Defaulter' (someone who can pay but won't). With a hardship marker, you are a 'Compassionate Case.' We help you bridge that gap.
               </p>
               <div className="bg-gray-50 p-8 rounded-xl border border-gray-200 mb-8">
-                <h3 className="text-xl font-bold mb-4 italic text-gray-800 uppercase tracking-tighter">Valid Hardship Markers in India</h3>
+                <h4 className="text-xl font-bold mb-4 italic text-gray-800 uppercase tracking-tighter">Valid Hardship Markers in India</h4>
                 <div className="space-y-4">
                   <div className="flex gap-4">
                     <span className="font-black text-indigo-600">01.</span>
@@ -502,25 +502,25 @@ export default function DebtEvaluationPage() {
             </section>
 
             <section id="evaluation-process" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight uppercase">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight uppercase">
                 The 3-Step Audit Process: From Chaos to Strategy
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 When you request a free evaluation from a professional firm like SettleLoans, you aren't just getting a phone call. You are entering a structured, legal-grade audit process designed to minimize your risk and maximize your leverage. This is how we move from the chaos of unpaid bills to the clarity of a resolution strategy.
               </p>
               <div className="space-y-8 my-10">
                 <div className="border-l-4 border-indigo-600 pl-6 py-4 bg-gray-50 rounded-r-xl shadow-sm">
-                  <h3 className="font-black text-xl mb-2 uppercase text-indigo-600">Phase 1: The Initial Triage (Day 0)</h3>
+                  <h4 className="font-black text-xl mb-2 uppercase text-indigo-600">Phase 1: The Initial Triage (Day 0)</h4>
                   <p className="text-sm text-gray-700 leading-relaxed mb-2 font-bold italic">This is a 20-30 minute preliminary call where a junior counselor understands the basics how many lenders, total debt amount, and the current status of defaults.</p>
                   <p className="text-sm text-gray-500">The goal of this phase is 'Emergency Level Assessment.' If you are currently getting threatened by recovery agents at your doorstep, we prioritize immediate legal-shield protection before diving into the long-term math.</p>
                 </div>
                 <div className="border-l-4 border-indigo-600 pl-6 py-4 bg-gray-50 rounded-r-xl shadow-sm">
-                  <h4 className="font-black text-xl mb-2 uppercase text-indigo-600">Phase 2: Document Forensic Audit (Day 1-2)</h4>
+                  <h5 className="font-black text-xl mb-2 uppercase text-indigo-600">Phase 2: Document Forensic Audit (Day 1-2)</h5>
                   <p className="text-sm text-gray-700 leading-relaxed mb-2">You provide digital copies of your bank statements, CIBIL report, and loan documents. Our specialized team of auditors (not just salespeople) reviews these to find discrepancies in interest calculation or violations of the RBI Fair Practice Code.</p>
                   <p className="text-sm text-gray-500 italic">This is where we build your 'Negotiation Dossier.' We find the exact numbers that the bank cannot argue with.</p>
                 </div>
                 <div className="border-l-4 border-indigo-600 pl-6 py-4 bg-gray-50 rounded-r-xl shadow-sm">
-                  <h4 className="font-black text-xl mb-2 uppercase text-indigo-600">Phase 3: The Roadmap Consultation (Day 3)</h4>
+                  <h5 className="font-black text-xl mb-2 uppercase text-indigo-600">Phase 3: The Roadmap Consultation (Day 3)</h5>
                   <p className="text-sm text-gray-700 leading-relaxed mb-2 font-bold">A senior advisor joins you for a final strategy call. They present the findings: your DTI, your hardship eligibility, and the recommended path whether it is a 50% waiver through settlement or a tenure extension through restructuring.</p>
                   <p className="text-sm text-gray-500">By the end of this call, you have a written 'Resolution Strategy' document. You are under no obligation to hire us, but you now have the truth in your hands.</p>
                 </div>
@@ -531,7 +531,7 @@ export default function DebtEvaluationPage() {
             </section>
 
             <section id="firm-comparison" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 text-center uppercase">Choosing Your Auditor: Firm Comparison</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 text-center uppercase">Choosing Your Auditor: Firm Comparison</h3>
               <div className="overflow-x-auto">
                 <table className="w-full text-left border-collapse border border-gray-200 bg-white shadow-sm">
                   <thead className="bg-[#2E2E2E] text-white">
@@ -569,20 +569,20 @@ export default function DebtEvaluationPage() {
             <ReviewSnippets reviews={reviews} title="Verified Evaluation Case Studies" />
 
             <section id="document-prep" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Document Preparation: Your Arsenal for Success</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Document Preparation: Your Arsenal for Success</h3>
               <p className="mb-6 text-lg leading-relaxed">
                 A 360-degree evaluation is only as good as the data provided. While we can perform a basic analysis with just a conversation, a "Legal-Grade Audit" requires specific documentation. Preparing these in advance is the difference between a generic "we can help" and a precise "we can save you exactly 4.2 Lakhs." We recommend gathering these documents into a single secure folder (digital or physical) before your evaluation call.
               </p>
               <div className="grid sm:grid-cols-2 gap-8 my-10">
                 <div className="bg-white border border-[#DEDEDE] p-10 rounded-2xl relative overflow-hidden group hover:bg-[#2E2E2E] transition-all duration-500 shadow-sm hover:shadow-xl">
                   <div className="absolute top-0 right-0 w-24 h-24 bg-indigo-600/10 rounded-bl-full group-hover:bg-white/10 transition-colors"></div>
-                  <h3 className="text-2xl font-black mb-6 group-hover:text-indigo-400 transition-colors uppercase leading-none">The Financial Stack</h3>
+                  <h4 className="text-2xl font-black mb-6 group-hover:text-indigo-400 transition-colors uppercase leading-none">The Financial Stack</h4>
                   <p className="text-base leading-relaxed text-gray-600 group-hover:text-[#DEDEDE]/80 transition-colors font-bold mb-4">Latest CIBIL Report (not just the score), Bank Statements from all operative accounts (PDF format), and Income Proofs (Salary slips/ITR).</p>
                   <p className="text-sm text-gray-400 group-hover:text-white/60 transition-colors italic">Importance: This helps us calculate the exact DTI and identify 'Hidden Interest' that you might be paying without realizing.</p>
                 </div>
                 <div className="bg-white border border-[#DEDEDE] p-10 rounded-2xl relative overflow-hidden group hover:bg-indigo-600 transition-all duration-500 shadow-sm hover:shadow-xl">
                   <div className="absolute top-0 right-0 w-24 h-24 bg-red-500/5 rounded-bl-full group-hover:bg-white/5 transition-colors"></div>
-                  <h3 className="text-2xl font-black mb-6 group-hover:text-white transition-colors uppercase leading-none">The Hardship Stack</h3>
+                  <h4 className="text-2xl font-black mb-6 group-hover:text-white transition-colors uppercase leading-none">The Hardship Stack</h4>
                   <p className="text-base leading-relaxed text-gray-600 group-hover:text-white/90 transition-colors font-bold mb-4">Termination Letters, Medical Discharge Summaries, Legal Notices received from banks, and proof of any dependents' expenses.</p>
                   <p className="text-sm text-gray-400 group-hover:text-white/70 transition-colors italic">Importance: This provides the 'Moral and Legal Weight' to your case, forcing the bank to move from recovery-logic to compromise-logic.</p>
                 </div>
@@ -593,9 +593,9 @@ export default function DebtEvaluationPage() {
             </section>
 
             <section id="psychological-impact" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
                 The Psychological Relief: Why 'Knowing' is Half the Battle
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 Perhaps the most underestimated benefit of requesting a free evaluation is the immediate drop in anxiety. Debt-induced stress in India is not just about the money; it is about the "un-known." When will they call? Will they come to my office? Can I ever get another loan? These questions, when left unanswered, lead to a state of mental paralysis.
               </p>
@@ -612,7 +612,7 @@ export default function DebtEvaluationPage() {
             </section>
 
             <section id="faqs" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 uppercase tracking-widest text-[#1F5EFF]">Frequently Asked Questions</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 uppercase tracking-widest text-[#1F5EFF]">Frequently Asked Questions</h3>
               <div className="space-y-4 not-prose">
                 {(jsonLd["@graph"][3] as any)?.mainEntity?.map((faq: any, i: number) => (
                   <details key={i} className="group bg-white border border-[#DEDEDE] rounded-xl overflow-hidden hover:shadow-md transition-all border-b-4 border-b-[#1F5EFF]/20">
@@ -638,7 +638,7 @@ export default function DebtEvaluationPage() {
             <div className="lg:hidden mt-16 mb-8">
               <div className="bg-[#2E2E2E] rounded-2xl shadow-xl overflow-hidden border border-[#1F5EFF]/20">
                 <div className="bg-[#1F5EFF] p-6 text-center text-white">
-                  <h3 className="text-2xl font-black mb-2">Claim Your Free Audit Now!</h3>
+                  <h4 className="text-2xl font-black mb-2">Claim Your Free Audit Now!</h4>
                   <p className="opacity-90 text-sm">Don't guess your financial future get a professional 360-degree debt evaluation for ₹0.</p>
                 </div>
                 <div className="p-8 text-center text-[#DEDEDE]">

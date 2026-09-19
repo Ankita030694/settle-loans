@@ -271,9 +271,9 @@ export default function LoanSettlementBenefitsDrawbacksPage() {
             </section>
 
             <section id="what-is-settlement" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
                 Decoding Loan Settlement: What Really Happens?
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 Most people confuse 'closing a loan' with 'settling a loan'. When you close a loan, you pay back every single rupee you borrowed, along with all the interest and fees. This is the ideal outcome. However, life often has other plans. A sudden layoff, a failed startup, or a massive medical bill can make full repayment impossible.
               </p>
@@ -281,7 +281,7 @@ export default function LoanSettlementBenefitsDrawbacksPage() {
                 When a borrower cannot pay for several months, the bank begins to view that loan as a 'bad asset' or a Non-Performing Asset (NPA). From the bank's perspective, getting some money back is better than getting nothing at all. This is where the concept of a settlement comes in. It is a formal agreement where the lender accepts a lump sum payment: usually between 25% to 50% of the total outstanding amount: and agrees to close the account forever.
               </p>
               <div className="bg-gray-50 p-8 rounded-xl border border-gray-200 mb-8">
-                <h3 className="text-xl font-bold mb-6 italic">The Legal Framework of Compromise</h3>
+                <h4 className="text-xl font-bold mb-6 italic">The Legal Framework of Compromise</h4>
                 <p className="mb-4 text-sm text-gray-600">
                   The Reserve Bank of India (RBI) provides guidelines that allow banks to engage in compromise settlements. For the bank, it is a way to clean their balance sheets. For you, it is a way to legally end the debt cycle. However, the catch lies in how this event is recorded. Unlike a full closure, a settlement is reported to credit bureaus like CIBIL with the tag 'Settled'. This tag tells all future lenders that you did not pay back the full amount, which significantly impacts your future borrowing power.
                 </p>
@@ -307,35 +307,35 @@ export default function LoanSettlementBenefitsDrawbacksPage() {
             </section>
 
             <section id="comprehensive-benefits" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">The Major Benefits of Pursuing a Settlement</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">The Major Benefits of Pursuing a Settlement</h3>
               <p className="text-lg leading-relaxed mb-6">
                 While much is said about the damage to credit scores, the benefits of a well negotiated settlement can be life-changing for someone in genuine distress. It is about more than just numbers on a screen; it is about human dignity and financial survival.
               </p>
 
               <div className="space-y-8">
                 <div className="bg-white p-8 rounded-2xl border border-[#DEDEDE] shadow-sm">
-                  <h3 className="text-2xl font-bold text-[#1F5EFF] mb-4">1. Substantial Debt Reduction</h3>
+                  <h4 className="text-2xl font-bold text-[#1F5EFF] mb-4">1. Substantial Debt Reduction</h4>
                   <p className="mb-4">
                     The most obvious benefit is the massive discount on the amount owed. Interest rates on credit cards in India can exceed 40% per year. Penalties and late fees can double a debt in just a couple of years. Through settlement, you can often clear a debt for 30% or 40% of the current outstanding amount. This 'haircut', as it is known in financial circles, allows you to walk away from a debt that might be mathematically impossible to repay in full.
                   </p>
                 </div>
 
                 <div className="bg-white p-8 rounded-2xl border border-[#DEDEDE] shadow-sm">
-                  <h3 className="text-2xl font-bold text-[#1F5EFF] mb-4">2. Immediate Cessation of Harassment</h3>
+                  <h4 className="text-2xl font-bold text-[#1F5EFF] mb-4">2. Immediate Cessation of Harassment</h4>
                   <p className="mb-4">
                     The psychological toll of recovery calls cannot be overstated. Agents often use aggressive tactics, calling multiple times a day and even contacting relatives. Once a settlement is initiated and a deal is reached, these calls stop. The bank's recovery department hands over the file to the settlement desk, providing the borrower with immediate mental peace.
                   </p>
                 </div>
 
                 <div className="bg-white p-8 rounded-2xl border border-[#DEDEDE] shadow-sm">
-                  <h3 className="text-2xl font-bold text-[#1F5EFF] mb-4">3. Protection Against Legal Action</h3>
+                  <h4 className="text-2xl font-bold text-[#1F5EFF] mb-4">3. Protection Against Legal Action</h4>
                   <p className="mb-4">
                     Continuous default can lead the bank to file civil suits or even criminal cases for cheque bouncing (Section 138). A settlement is a legal resolution that involves the bank withdrawing any pending legal actions once the payment is made. It provides a clean terminal point to a potentially long and expensive legal battle.
                   </p>
                 </div>
 
                 <div className="bg-white p-8 rounded-2xl border border-[#DEDEDE] shadow-sm">
-                  <h3 className="text-2xl font-bold text-[#1F5EFF] mb-4">4. A Definitive Fresh Start</h3>
+                  <h4 className="text-2xl font-bold text-[#1F5EFF] mb-4">4. A Definitive Fresh Start</h4>
                   <p className="mb-4">
                     Instead of having multiple loans hanging over your head for the next decade, a settlement allows you to close the chapter entirely. You no longer have the looming shadow of debt tracking your every move. You can finally start saving for your family's future instead of just feeding the bank's interest engine.
                   </p>
@@ -344,20 +344,20 @@ export default function LoanSettlementBenefitsDrawbacksPage() {
             </section>
 
             <section id="critical-drawbacks" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">The Critical Drawbacks: What They Don't Tell You</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">The Critical Drawbacks: What They Don't Tell You</h3>
               <p className="text-lg leading-relaxed mb-6 text-red-600 font-bold">
                 A loan settlement is not a 'get out of jail free' card. It comes with significant consequences that can affect your life for nearly a decade.
               </p>
               
               <div className="grid md:grid-cols-2 gap-8 mb-8">
                 <div className="bg-red-50 p-8 rounded-xl border border-red-100 shadow-sm leading-relaxed">
-                  <h3 className="text-xl font-bold text-red-800 mb-4">The CIBIL Scar</h3>
+                  <h4 className="text-xl font-bold text-red-800 mb-4">The CIBIL Scar</h4>
                   <p className="text-sm text-red-900 mb-4">
                     When you settle, your CIBIL report will show the status 'Settled' for that account. This status remains for seven years. It is a massive red flag for any Tier-1 bank. Even if your score eventually recovers to 750, a human loan officer will see that 'Settled' tag and likely reject your application for a home or car loan.
                   </p>
                 </div>
                 <div className="bg-red-50 p-8 rounded-xl border border-red-100 shadow-sm leading-relaxed">
-                  <h3 className="text-xl font-bold text-red-800 mb-4">Future Rejections</h3>
+                  <h4 className="text-xl font-bold text-red-800 mb-4">Future Rejections</h4>
                   <p className="text-sm text-red-900 mb-4">
                     Major lenders like HDFC, ICICI, and SBI have internal databases. If you settle with one of them, you might be 'blacklisted' by that institution forever. You might never be able to get even a basic savings account or a small loan from that specific group again, regardless of how much money you earn later.
                   </p>
@@ -370,12 +370,12 @@ export default function LoanSettlementBenefitsDrawbacksPage() {
             </section>
 
             <section id="credit-score-impact" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">In-Depth CIBIL Impact Analysis</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">In-Depth CIBIL Impact Analysis</h3>
               <p className="mb-6 text-lg">
                 Your credit score is your financial passport in modern India. A settlement is like having a major visa rejection stamped on it. But exactly how bad is the damage?
               </p>
               <div className="bg-blue-50 p-10 rounded-2xl border border-blue-100 mb-8">
-                <h3 className="text-2xl font-black text-[#2E2E2E] mb-6 underline decoration-[#1F5EFF]">The Numerical Reality</h3>
+                <h4 className="text-2xl font-black text-[#2E2E2E] mb-6 underline decoration-[#1F5EFF]">The Numerical Reality</h4>
                 <div className="space-y-6">
                   <div className="flex items-start gap-4">
                     <div className="bg-white p-3 rounded-lg shadow-sm font-black text-[#1F5EFF]">75-150</div>
@@ -397,7 +397,7 @@ export default function LoanSettlementBenefitsDrawbacksPage() {
             </section>
 
             <section id="legal-rights" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">The Borrower's Legal Shield</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">The Borrower's Legal Shield</h3>
               <p className="mb-6">
                 Many borrowers believe that because they have defaulted, they have lost all their rights. This is fundamentally untrue. Whether you owe 10,000 rupees or 10 crores, the Indian legal system provides you with certain non-negotiable protections.
               </p>
@@ -430,12 +430,12 @@ export default function LoanSettlementBenefitsDrawbacksPage() {
             </section>
 
             <section id="taxation-issues" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">The Hidden Tax Trap: Section 194R</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">The Hidden Tax Trap: Section 194R</h3>
               <p className="mb-6">
                 One of the least discussed aspects of loan settlement is the potential attention from the Income Tax department. In the eyes of the law, if someone forgives a debt you were supposed to pay, you have essentially gained wealth.
               </p>
               <div className="bg-amber-50 p-8 rounded-2xl border border-amber-200 mb-8">
-                <h3 className="text-xl font-bold text-amber-900 mb-4">Is Forgiven Debt Taxable?</h3>
+                <h4 className="text-xl font-bold text-amber-900 mb-4">Is Forgiven Debt Taxable?</h4>
                 <p className="text-sm text-amber-900/80 leading-relaxed mb-4">
                   For business loans, the amount waived by the bank can sometimes be classified as a 'perquisite' or 'benefit' arising from business. Under Section 194R, banks are required to deduct TDS on such benefits. While this primarily affects business entities, individuals with high-value settlements should be aware of this possibility.
                 </p>
@@ -446,7 +446,7 @@ export default function LoanSettlementBenefitsDrawbacksPage() {
             </section>
 
             <section id="settlement-vs-others" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Settlement vs. Other Debt Solutions</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Settlement vs. Other Debt Solutions</h3>
               <p className="mb-6">
                 Before committing to a settlement, you should evaluate other options that might have a less severe impact on your credit history.
               </p>
@@ -481,21 +481,21 @@ export default function LoanSettlementBenefitsDrawbacksPage() {
             </section>
 
             <section id="negotiation-secrets" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Secrets to a Successful Negotiation</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Secrets to a Successful Negotiation</h3>
               <p className="mb-6">
                 Negotiating with a bank is like a high-stakes game of poker. The bank wants as much as they can get; you want to pay as little as possible. Here is how you can tilt the odds in your favor.
               </p>
               <div className="bg-gray-50 p-8 rounded-2xl border border-gray-200 mb-8 space-y-6">
                 <div>
-                  <h3 className="font-black text-[#1F5EFF] uppercase text-sm mb-2">1. Timing is Everything</h3>
+                  <h4 className="font-black text-[#1F5EFF] uppercase text-sm mb-2">1. Timing is Everything</h4>
                   <p className="text-sm">Banks are most likely to agree to deep discounts at the end of the quarter (March, June, September, December). This is when they are under pressure to reduce their NPA numbers.</p>
                 </div>
                 <div>
-                  <h4 className="font-black text-[#1F5EFF] uppercase text-sm mb-2">2. Document Your Hardship</h4>
+                  <h5 className="font-black text-[#1F5EFF] uppercase text-sm mb-2">2. Document Your Hardship</h5>
                   <p className="text-sm">Don't just say you can't pay. Show them. Medical reports, termination letters, or business closure certificates are powerful tools that convince the bank that you are genuinely unable to pay, not just avoiding debt.</p>
                 </div>
                 <div>
-                  <h4 className="font-black text-[#1F5EFF] uppercase text-sm mb-2">3. The Written Offer Rule</h4>
+                  <h5 className="font-black text-[#1F5EFF] uppercase text-sm mb-2">3. The Written Offer Rule</h5>
                   <p className="text-sm font-bold text-red-600 uppercase tracking-tighter">NEVER PAY A SINGLE RUPEE without a written settlement offer on the bank's official letterhead.</p>
                   <p className="text-sm">Promises made over the phone by recovery agents are not legally binding. They might take your money as a 'regular payment' and then ask for the remaining balance a week later.</p>
                 </div>
@@ -503,28 +503,28 @@ export default function LoanSettlementBenefitsDrawbacksPage() {
             </section>
 
             <section id="professional-help" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Why Use SettleLoans for Your Journey?</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Why Use SettleLoans for Your Journey?</h3>
               <p className="mb-6">
                 Attempting to settle a loan by yourself is like performing surgery on yourself. It is technically possible, but the risks of error and psychological trauma are high. SettleLoans acts as your professional buffer and expert strategist.
               </p>
               <div className="bg-[#2E2E2E] text-[#DEDEDE] p-10 rounded-3xl relative overflow-hidden group">
                 <div className="absolute top-0 right-0 w-64 h-64 bg-[#1F5EFF]/10 rounded-full -mr-32 -mt-32 transition-transform group-hover:scale-110"></div>
-                <h3 className="text-3xl font-black mb-8 text-white">Your Shield Against Pressure</h3>
+                <h4 className="text-3xl font-black mb-8 text-white">Your Shield Against Pressure</h4>
                 <div className="grid md:grid-cols-2 gap-8 text-sm leading-relaxed">
                   <div>
-                    <h4 className="text-white font-bold mb-3">Professional Buffer</h4>
+                    <h5 className="text-white font-bold mb-3">Professional Buffer</h5>
                     <p className="opacity-80">Once we take over, our lawyers handle the calls. This immediately stops the harassment and allows you to focus on your family and work.</p>
                   </div>
                   <div>
-                    <h4 className="text-white font-bold mb-3">Maximizing Discounts</h4>
+                    <h5 className="text-white font-bold mb-3">Maximizing Discounts</h5>
                     <p className="opacity-80">We know what the 'bottom line' is for different banks. We negotiate using data and precedent to get you the lowest possible lump sum payment.</p>
                   </div>
                   <div>
-                    <h4 className="text-white font-bold mb-3">Legal Safeguards</h4>
+                    <h5 className="text-white font-bold mb-3">Legal Safeguards</h5>
                     <p className="opacity-80">We ensure that every document is airtight. From the offer letter to the No Dues Certificate, we protect you from future claims by the bank.</p>
                   </div>
                   <div>
-                    <h4 className="text-white font-bold mb-3">Psychological Support</h4>
+                    <h5 className="text-white font-bold mb-3">Psychological Support</h5>
                     <p className="opacity-80">We walk this path with you. Our team provides the empathy and the clarity you need during these challenging times.</p>
                   </div>
                 </div>
@@ -532,7 +532,7 @@ export default function LoanSettlementBenefitsDrawbacksPage() {
             </section>
 
             <section id="recovery-path" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 text-center">Life After Settlement: The Road Back to 750</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 text-center">Life After Settlement: The Road Back to 750</h3>
               <div className="space-y-6">
                 <p className="text-lg">Settling is the end of a nightmare, but it's the start of a long journey toward credit recovery. You can't fix your score overnight, but you can build a new foundation.</p>
                 {[
@@ -544,7 +544,7 @@ export default function LoanSettlementBenefitsDrawbacksPage() {
                   <div key={i} className="flex gap-4 p-6 bg-white border border-[#DEDEDE] rounded-xl hover:shadow-md transition-shadow">
                     <span className="text-4xl font-black text-[#DEDEDE]">{i + 1}</span>
                     <div>
-                      <h3 className="font-bold text-[#2E2E2E] mb-2">{item.title}</h3>
+                      <h4 className="font-bold text-[#2E2E2E] mb-2">{item.title}</h4>
                       <p className="text-sm text-gray-600">{item.desc}</p>
                     </div>
                   </div>
@@ -553,7 +553,7 @@ export default function LoanSettlementBenefitsDrawbacksPage() {
             </section>
 
             <section id="conclusion" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">The Verdict: Should You Settle?</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">The Verdict: Should You Settle?</h3>
               <div className="bg-blue-600 text-white p-10 rounded-3xl shadow-xl">
                 <p className="text-xl leading-relaxed mb-6 font-medium">
                   If you have the money to pay in full, DO IT. There is no better way to protect your long-term financial health than a full repayment.
@@ -568,7 +568,7 @@ export default function LoanSettlementBenefitsDrawbacksPage() {
             </section>
 
             <section id="faqs" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Frequently Asked Questions</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Frequently Asked Questions</h3>
               <div className="space-y-4 not-prose">
                 {[
                   { q: "Is a settlement better than a write-off?", a: "Yes. A settlement implies that you reached a compromise and paid a portion. A 'write-off' means the bank gave up entirely on you, which is considered even more negative by credit bureaus. Always aim for a formal settlement over a write-off." },
@@ -605,7 +605,7 @@ export default function LoanSettlementBenefitsDrawbacksPage() {
             <div className="lg:hidden mt-16 mb-8">
               <div className="bg-[#2E2E2E] rounded-2xl shadow-xl overflow-hidden border border-[#1F5EFF]/20">
                 <div className="bg-[#1F5EFF] p-6 text-center text-white">
-                  <h3 className="text-2xl font-black mb-2">Ready to Start Over?</h3>
+                  <h4 className="text-2xl font-black mb-2">Ready to Start Over?</h4>
                   <p className="opacity-90 text-sm">Join the thousands of Indians we've helped find their way to financial freedom.</p>
                 </div>
                 <div className="p-8 text-center text-[#DEDEDE]">

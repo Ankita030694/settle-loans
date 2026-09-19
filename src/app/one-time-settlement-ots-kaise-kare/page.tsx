@@ -34,7 +34,7 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: 'One Time Settlement OTS Kaise Kare: Full Guide | SettleLoans',
+  title: 'One Time Settlement (OTS) Kaise Kare | SettleLoans',
   description: 'One Time Settlement (OTS) kaise kare? Jane bank loan settlement process, OTS proposal draft karne ka tarika aur 40-70% discount.',
   keywords: [
     'one time settlement ots kaise le',
@@ -53,7 +53,7 @@ export const metadata: Metadata = {
     canonical: 'https://www.settleloans.in/one-time-settlement-ots-kaise-kare',
   },
   openGraph: {
-    title: 'One Time Settlement OTS Kaise Kare: Full Guide | SettleLoans',
+    title: 'One Time Settlement (OTS) Kaise Kare | SettleLoans',
     description: 'One Time Settlement OTS kaise le? Learn how to approach bank NPA Stressed Asset management, draft an OTS proposal, secure 40-70% waivers, and get a ₹0 NDC.',
     url: 'https://www.settleloans.in/one-time-settlement-ots-kaise-kare',
     siteName: 'SettleLoans',
@@ -70,7 +70,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'One Time Settlement OTS Kaise Kare: Full Guide | SettleLoans',
+    title: 'One Time Settlement (OTS) Kaise Kare | SettleLoans',
     description: 'Step-by-step masterclass: approach bank NPA branches, leverage RBI Compromise Settlement circulars, calculate NPV recovery, and obtain ₹0 No Dues Certificate.',
     images: ['https://www.settleloans.in/images/infographics/one-time-settlement-ots-kaise-kare.jpg'],
   },
@@ -507,9 +507,9 @@ export default function OneTimeSettlementOtsKaiseKarePage() {
                 </span>
                 <span className="text-xs font-black tracking-widest text-[#1F5EFF] uppercase">Section 02</span>
               </div>
-              <h2 className="text-2xl sm:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h3 className="text-2xl sm:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 2. Approaching the Bank&apos;s Stressed Asset Department: Bypassing Third-Party Recovery Chaos
-              </h2>
+              </h3>
               <div className="space-y-4 text-slate-700 leading-relaxed text-base">
                 <p>
                   Adhikansh borrowers jo loan default mein aate hain, unka sabse pehla aur durbhagyavash sabse galat samna third-party collection agencies aur outsourced telecallers se hota hai. Yeh recovery agents pure commission model par kaam karte hain aur unke paas kisi bhi prakar ke financial discount ya loan write-off ko approve karne ki koi kanooni shakti nahi hoti. Unka ekmatra uddeshya borrower par psychological pressure create karke minimum overdue amount jama karwana hota hai, jisse unka monthly target pura ho sake.
@@ -540,9 +540,9 @@ export default function OneTimeSettlementOtsKaiseKarePage() {
                 </span>
                 <span className="text-xs font-black tracking-widest text-[#1F5EFF] uppercase">Section 03</span>
               </div>
-              <h2 className="text-2xl sm:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h3 className="text-2xl sm:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 3. RBI Statutory Framework &amp; Compromise Settlement Directives: Borrower Rights &amp; Protections
-              </h2>
+              </h3>
               <div className="space-y-4 text-slate-700 leading-relaxed text-base">
                 <p>
                   One-Time Settlement koi bank ki kripa ya daya par aadharit anurodh nahi hai, balki Reserve Bank of India dwara nirdharit <strong>Prudential Framework for Resolution of Stressed Assets</strong> aur <strong>Master Directions on Compromise Settlements and Technical Write-offs (2023–2024 Guidelines)</strong> ke tehat ek legitimate kanooni upchar hai. RBI ne sabhi commercial scheduled banks, regional rural banks, aur NBFCs ko spashtha aadesh diya hai ki unke board of directors dwara approved ek transparent settlement policy honi chahiye.
@@ -570,9 +570,9 @@ export default function OneTimeSettlementOtsKaiseKarePage() {
                 </span>
                 <span className="text-xs font-black tracking-widest text-[#1F5EFF] uppercase">Section 04</span>
               </div>
-              <h2 className="text-2xl sm:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h3 className="text-2xl sm:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 4. Bank Accounting Mechanics: How Stressed Asset Committees Calculate NPV &amp; Haircuts
-              </h2>
+              </h3>
               <div className="space-y-4 text-slate-700 leading-relaxed text-base">
                 <p>
                   Jab aap bank ko OTS proposal bhejte hain, toh bank ka Stressed Assets Committee yeh faisla kaise leta hai ki aapko 40%, 50% ya 65% ka discount diya jaye? Iske peeche banking finance ka ek scientific mathematical evaluation hota hai jise <strong>Net Present Value (NPV) of Recovery</strong> kaha jata hai.
@@ -618,9 +618,9 @@ export default function OneTimeSettlementOtsKaiseKarePage() {
                       <span className="text-[10px] font-black uppercase tracking-widest text-blue-300 block">
                         Statutory Resolution Workflow
                       </span>
-                      <h3 className="text-sm md:text-base font-black text-white leading-tight">
+                      <h4 className="text-sm md:text-base font-black text-white leading-tight">
                         One Time Settlement (OTS) Process in Indian Banking: 4-Stage Resolution Blueprint
-                      </h3>
+                      </h4>
                     </div>
                   </div>
                   <a
@@ -667,9 +667,9 @@ export default function OneTimeSettlementOtsKaiseKarePage() {
                 </span>
                 <span className="text-xs font-black tracking-widest text-[#1F5EFF] uppercase">Section 06</span>
               </div>
-              <h2 className="text-2xl sm:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h3 className="text-2xl sm:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 6. Drafting a Shaktishali OTS Proposal: Hardship Documentation &amp; Forensic Substantiation
-              </h2>
+              </h3>
               <div className="space-y-4 text-slate-700 leading-relaxed text-base">
                 <p>
                   Ek shaktishali One-Time Settlement (OTS) proposal letter koi sadharan maafi-nama ya emotional application nahi hota, balki ek highly structured legal and financial dossier hota hai. Bank ke Stressed Asset Committee ke samne har roz saikdon settlement requests aati hain. Aapka proposal tabhi approve hota hai jab woh bank ke internal audit standards aur RBI prudential requirements par 100% khara utarta hai.
@@ -703,9 +703,9 @@ export default function OneTimeSettlementOtsKaiseKarePage() {
                 </span>
                 <span className="text-xs font-black tracking-widest text-[#1F5EFF] uppercase">Section 07</span>
               </div>
-              <h2 className="text-2xl sm:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h3 className="text-2xl sm:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 7. Multi-Tier Negotiation Tactics: Countering Initial Rejections &amp; Securing Maximum Haircuts
-              </h2>
+              </h3>
               <div className="space-y-4 text-slate-700 leading-relaxed text-base">
                 <p>
                   Banking negotiations mein pehla proposal aamtaur par bank dwara reject kar diya jata hai ya bank behad unchi counter-offer (jaise 85% se 90% of total dues) pesh karta hai. Yeh bank ki ek standard tactical move hoti hai jisse woh borrower ki financial capacity ko test karte hain. Yahan par borrower ko ghabra kar surrender nahi karna chahiye, balki structured multi-tier escalation tactics ka upyog karna chahiye:
@@ -733,9 +733,9 @@ export default function OneTimeSettlementOtsKaiseKarePage() {
                 </span>
                 <span className="text-xs font-black tracking-widest text-[#1F5EFF] uppercase">Section 08</span>
               </div>
-              <h2 className="text-2xl sm:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h3 className="text-2xl sm:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 8. Sanction Letter Forensics &amp; Securing ₹0 No Dues Certificate: Preventing Future Legal Traps
-              </h2>
+              </h3>
               <div className="space-y-4 text-slate-700 leading-relaxed text-base">
                 <p>
                   One-Time Settlement ka sabse nazuk aur kanooni roop se sensitive charan hota hai <strong>OTS Sanction Letter ki forensic auditing</strong>. Bharat mein hajaron borrowers fraud ka shikar bante hain jab woh recovery agent ke bheje gaye WhatsApp PDF ya plain email par bharosa karke paise transfer kar dete hain. Kuch mahino baad unhe pata chalta hai ki unke paise regular EMI account mein deduct ho gaye aur baki lakho rupaye ka loan abhi bhi unke naam par chal raha hai.
@@ -766,9 +766,9 @@ export default function OneTimeSettlementOtsKaiseKarePage() {
                 </span>
                 <span className="text-xs font-black tracking-widest text-[#1F5EFF] uppercase">Section 09</span>
               </div>
-              <h2 className="text-2xl sm:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h3 className="text-2xl sm:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 9. CIBIL Rectification &amp; Comparative Settlement Matrix: Post-OTS Financial Rehabilitation
-              </h2>
+              </h3>
               <div className="space-y-4 text-slate-700 leading-relaxed text-base">
                 <p>
                   One-Time Settlement finalize hone ke baad credit reporting ek crucial reality hoti hai. Jab aap loan compromise settle karte hain, toh RBI Credit Information Companies (Regulation) Act ke mutabiq bank TransUnion CIBIL, Experian, Equifax, aur CRIF High Mark ko account status <strong>&apos;Settled&apos;</strong> ya <strong>&apos;Post-Write-Off Settled&apos;</strong> ke roop mein report karta hai, jabki balance ₹0 darshaya jata hai.
@@ -847,9 +847,9 @@ export default function OneTimeSettlementOtsKaiseKarePage() {
                 </span>
                 <span className="text-xs font-black tracking-widest text-[#1F5EFF] uppercase">Section 11</span>
               </div>
-              <h2 className="text-2xl sm:text-3xl font-black text-slate-900 mb-6 leading-tight">
+              <h3 className="text-2xl sm:text-3xl font-black text-slate-900 mb-6 leading-tight">
                 Frequently Asked Questions: One Time Settlement (OTS) Rules &amp; Negotiation Guide
-              </h2>
+              </h3>
 
               <div className="space-y-4">
                 <details className="group border border-slate-200 rounded-2xl bg-white shadow-sm overflow-hidden transition-all duration-200 hover:border-slate-300" open>

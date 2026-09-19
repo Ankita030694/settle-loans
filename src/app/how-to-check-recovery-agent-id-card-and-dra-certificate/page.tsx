@@ -530,7 +530,7 @@ export default function CheckRecoveryAgentIdCardAndDraCertificatePage() {
 
             {/* Section 2: Mandatory RBI Doorstep Credentials */}
             <section id="mandatory-rbi-doorstep-credentials" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">2. Mandatory RBI Doorstep Credentials</h2>
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">2. Mandatory RBI Doorstep Credentials</h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Under the RBI Master Direction on Fair Practices Code, rules are strict. No agent can visit without three papers. If any paper is missing, deny entry at once.
               </p>
@@ -547,7 +547,7 @@ export default function CheckRecoveryAgentIdCardAndDraCertificatePage() {
 
             {/* Section 3: Legal Right to Refuse Entry, Criminal Trespass & Privacy */}
             <section id="legal-right-to-refuse-entry-trespass" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">3. The Absolute Legal Right to Refuse Entry</h2>
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">3. The Absolute Legal Right to Refuse Entry</h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Many think loan default lets banks enter private property. That is false. Default on an unsecured loan is a civil contract breach under the Indian Contract Act, 1872. It is not a crime. It gives agents zero entry rights.
               </p>
@@ -561,7 +561,7 @@ export default function CheckRecoveryAgentIdCardAndDraCertificatePage() {
 
             {/* Section 4: Bank Economics & The NPV Recovery Equation */}
             <section id="bank-accounting-npa-npv-formula" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">4. Bank DRA Accounting &amp; Agency Economics</h2>
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">4. Bank DRA Accounting &amp; Agency Economics</h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Bank accounting rules explain why agencies use aggressive home visits. Banks operate under strict RBI provisioning rules. These rules force banks to set aside capital reserves as loans stay unpaid.
               </p>
@@ -596,7 +596,7 @@ export default function CheckRecoveryAgentIdCardAndDraCertificatePage() {
 
             {/* Section 5: Infographic Banner */}
             <section id="doorstep-verification-visual-roadmap" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">5. DRA Verification Strategic Roadmap</h2>
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">5. DRA Verification Strategic Roadmap</h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 The visual guide below shows our 4-stage verification plan. Use it to inspect agents, verify papers, invoke legal rights. And stop doorstep harassment.
               </p>
@@ -620,7 +620,7 @@ export default function CheckRecoveryAgentIdCardAndDraCertificatePage() {
 
             {/* Section 6: The 4-Stage Doorstep Defense Protocol */}
             <section id="emergency-4-stage-confrontation-protocol" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">6. The 4-Stage Doorstep Defense Protocol</h2>
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">6. The 4-Stage Doorstep Defense Protocol</h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 When aggressive agents visit your home, emotional arguments increase stress. Debt defense advocates suggest a 4-stage action plan.
               </p>
@@ -640,7 +640,7 @@ export default function CheckRecoveryAgentIdCardAndDraCertificatePage() {
 
             {/* Section 7: Converting Violations into a 55% OTS */}
             <section id="forcing-compromise-settlement-ots" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">7. Converting Doorstep Harassment into Leverage</h2>
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">7. Converting Doorstep Harassment into Leverage</h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Aggressive doorstep visits show lender quarter-end pressure. When an uncertified agency breaks RBI rules, the bank faces heavy Ombudsman fines. Experienced advocates use these violations to win an official One-Time Settlement (OTS).
               </p>
@@ -657,7 +657,7 @@ export default function CheckRecoveryAgentIdCardAndDraCertificatePage() {
 
             {/* Section 8: Sanction Letter Forensics & RBI NDC Mandate */}
             <section id="sanction-forensics-rbi-ndc-mandate" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">8. Sanction Letter Forensics &amp; DRA Verification NDC</h2>
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">8. Sanction Letter Forensics &amp; DRA Verification NDC</h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Loan settlements require careful verification. Rogue agents send fake letters on WhatsApp. They pocket cash that never reaches your loan account. Never pay money until your advocate inspects the sanction letter.
               </p>
@@ -674,7 +674,7 @@ export default function CheckRecoveryAgentIdCardAndDraCertificatePage() {
 
             {/* Section 9: Comparative Matrix: Verified DRA Agent vs Uncertified Collection Agent vs Advocate OTS */}
             <section id="comparative-verification-defense-matrix" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">9. DRA Verification Legal Defense Matrix</h2>
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">9. DRA Verification Legal Defense Matrix</h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Comparing agent types helps borrowers handle doorstep visits with confidence:
               </p>
@@ -732,7 +732,7 @@ export default function CheckRecoveryAgentIdCardAndDraCertificatePage() {
             {/* Section 10: SettleLoans Legal Defense & Doorstep Protection Advisory + CompanySection */}
             <section id="company-resolution-section" className="space-y-6">
               <div className="border-t border-slate-200 pt-8 space-y-4">
-                <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">10. SettleLoans DRA Compliance Legal Defense</h2>
+                <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">10. SettleLoans DRA Compliance Legal Defense</h3>
                 <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                   Handling unverified agents requires experienced banking defense advocates. We enforce RBI Master Directions, cite Supreme Court privacy rulings. And serve criminal trespass notices. SettleLoans provides complete legal defense across India. We serve cease-and-desist notices, file RBI Ombudsman complaints, protect family privacy. And negotiate 45% to 65% principal waivers with official No Dues Certificates.
                 </p>
@@ -746,7 +746,7 @@ export default function CheckRecoveryAgentIdCardAndDraCertificatePage() {
             <section id="faqs" className="space-y-4 border-t border-slate-200 pt-8">
               <div className="flex items-center gap-2 mb-2">
                 <HelpCircle className="w-5 h-5 text-[#1F5EFF]" />
-                <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">11. FAQs: Recovery Agent Verification &amp; Doorstep Rights</h2>
+                <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">11. FAQs: Recovery Agent Verification &amp; Doorstep Rights</h3>
               </div>
               <p className="text-xs sm:text-sm text-slate-600 mb-6">
                 Clear, legally verified answers on bank recovery agent ID cards, IIBF DRA certificates. And doorstep borrower rights in India.
@@ -776,9 +776,9 @@ export default function CheckRecoveryAgentIdCardAndDraCertificatePage() {
 
             {/* 5 Official Regulatory Links */}
             <section className="border-t border-slate-200 pt-8 mb-4">
-              <h3 className="text-xs sm:text-sm font-bold text-slate-900 mb-3 uppercase tracking-wider">
+              <h4 className="text-xs sm:text-sm font-bold text-slate-900 mb-3 uppercase tracking-wider">
                 Official Statutory &amp; Regulatory References
-              </h3>
+              </h4>
               <div className="grid grid-cols-1 sm:grid-cols-2 gap-2.5 text-xs">
                 <a
                   href="https://www.rbi.org.in"
@@ -830,9 +830,9 @@ export default function CheckRecoveryAgentIdCardAndDraCertificatePage() {
 
             {/* 10 Related Guide Badges */}
             <section className="border-t border-slate-200 pt-8 mb-8">
-              <h3 className="text-xs sm:text-sm font-bold text-slate-900 mb-4 uppercase tracking-wider">
+              <h4 className="text-xs sm:text-sm font-bold text-slate-900 mb-4 uppercase tracking-wider">
                 Related Legal Defense &amp; Loan Resolution Guides
-              </h3>
+              </h4>
               <div className="flex flex-wrap gap-2">
                 <Link
                   href="/bank-recovery-harassment-complaint"

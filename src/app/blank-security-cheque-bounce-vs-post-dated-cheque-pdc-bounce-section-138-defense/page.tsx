@@ -263,22 +263,22 @@ export default function SecurityChequeBounceDefensePage() {
             </section>
 
             <section id="legal-difference" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 Security Cheque vs. PDC: The Crucial Distinction
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 Many borrowers and even inexperienced lawyers confuse these two instruments. To successfully defend a Section 138 case, you must establish the legal character of the cheque in question.
               </p>
 
               <div className="grid md:grid-cols-2 gap-6 my-8">
                 <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
-                  <h3 className="font-black text-[#1F5EFF] text-lg mb-3">Post-Dated Cheque (PDC)</h3>
+                  <h4 className="font-black text-[#1F5EFF] text-lg mb-3">Post-Dated Cheque (PDC)</h4>
                   <p className="text-gray-700 leading-relaxed">
                     A PDC is issued to discharge a specific, quantifiable, and existing debt. The date is written by the drawer, indicating that on that specific future date, the debt will be legally enforceable. Bouncing a PDC almost always attracts Section 138 liability.
                   </p>
                 </div>
                 <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
-                  <h4 className="font-black text-[#1F5EFF] text-lg mb-3">Blank Security Cheque</h4>
+                  <h5 className="font-black text-[#1F5EFF] text-lg mb-3">Blank Security Cheque</h5>
                   <p className="text-gray-700 leading-relaxed">
                     A security cheque is an undated instrument given as collateral. At the time of issuance, there is no crystallized debt equivalent to the (yet to be filled) amount on the cheque. It is merely a guarantee for a contingent future liability.
                   </p>
@@ -293,15 +293,15 @@ export default function SecurityChequeBounceDefensePage() {
             </section>
 
             <section id="section-138-applicability" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 Does Section 138 Apply to Security Cheques?
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 The short answer is: <strong>Not automatically.</strong> The bank cannot blindly invoke Section 138 without crossing several legal hurdles. Here is why the bank's case is often flawed:
               </p>
 
               <div className="bg-blue-50 border-l-8 border-[#1F5EFF] p-8 rounded-r-2xl mb-8">
-                <h3 className="text-xl font-black text-[#1F5EFF] mb-4">The Presumption of Debt (Section 139)</h3>
+                <h4 className="text-xl font-black text-[#1F5EFF] mb-4">The Presumption of Debt (Section 139)</h4>
                 <p className="text-blue-900 text-lg leading-relaxed mb-4">
                   Section 139 of the NI Act creates a statutory presumption in favor of the bank—it assumes the cheque was received for a debt. However, this is a <strong>rebuttable presumption</strong>.
                 </p>
@@ -322,7 +322,7 @@ export default function SecurityChequeBounceDefensePage() {
               </div>
 
               <div className="bg-red-50 p-6 rounded-xl border border-red-100 mb-8">
-                <h4 className="text-xl font-black text-red-700 mb-3">Beware of Section 20 of the NI Act</h4>
+                <h5 className="text-xl font-black text-red-700 mb-3">Beware of Section 20 of the NI Act</h5>
                 <p className="text-red-900 leading-relaxed">
                   Banks often counter by citing Section 20, which gives the holder of a blank cheque the prima facie authority to fill it. However, courts have clarified that this authority is not absolute. The bank can only fill an amount strictly equal to the legally enforceable debt—not arbitrary penal charges.
                 </p>
@@ -330,9 +330,9 @@ export default function SecurityChequeBounceDefensePage() {
             </section>
 
             <section id="supreme-court-rulings" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 Landmark Supreme Court Rulings
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 The jurisprudence around security cheques has evolved significantly. Top DRT lawyers rely heavily on these landmark judgments to quash illegal notices:
               </p>
@@ -341,7 +341,7 @@ export default function SecurityChequeBounceDefensePage() {
                 <div className="flex gap-6">
                   <div className="flex-shrink-0 w-12 h-12 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center font-black text-xl shadow-lg">1</div>
                   <div>
-                    <h3 className="text-2xl font-bold text-[#2E2E2E] mb-2">Indus Airways Pvt. Ltd. vs. Magnum Aviation Pvt. Ltd.</h3>
+                    <h4 className="text-2xl font-bold text-[#2E2E2E] mb-2">Indus Airways Pvt. Ltd. vs. Magnum Aviation Pvt. Ltd.</h4>
                     <p className="text-lg text-gray-700 leading-relaxed">
                       The Supreme Court categorically ruled that for a Section 138 offense to be made out, there must be a legally enforceable debt on the <strong>date the cheque was drawn</strong>. If a cheque is issued as an advance or security, and the debt did not exist on that date, Section 138 is not attracted.
                     </p>
@@ -351,7 +351,7 @@ export default function SecurityChequeBounceDefensePage() {
                 <div className="flex gap-6">
                   <div className="flex-shrink-0 w-12 h-12 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center font-black text-xl shadow-lg">2</div>
                   <div>
-                    <h3 className="text-2xl font-bold text-[#2E2E2E] mb-2">Dashrathbhai Trikambhai Patel vs. Hitesh Mahendrabhai Patel</h3>
+                    <h4 className="text-2xl font-bold text-[#2E2E2E] mb-2">Dashrathbhai Trikambhai Patel vs. Hitesh Mahendrabhai Patel</h4>
                     <p className="text-lg text-gray-700 leading-relaxed">
                       In this 2022 judgment, the Court held that if a borrower makes part payments towards a debt, and the lender subsequently deposits a security cheque for the <strong>full original amount</strong>, the cheque bounces. A Section 138 case cannot be maintained because the cheque amount does not represent the legally enforceable debt on the date of deposit.
                     </p>
@@ -361,7 +361,7 @@ export default function SecurityChequeBounceDefensePage() {
                 <div className="flex gap-6">
                   <div className="flex-shrink-0 w-12 h-12 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center font-black text-xl shadow-lg">3</div>
                   <div>
-                    <h3 className="text-2xl font-bold text-[#2E2E2E] mb-2">M.S. Narayana Menon vs. State of Kerala</h3>
+                    <h4 className="text-2xl font-bold text-[#2E2E2E] mb-2">M.S. Narayana Menon vs. State of Kerala</h4>
                     <p className="text-lg text-gray-700 leading-relaxed">
                       The Court established that the standard of proof to rebut the presumption under Section 139 is merely a "preponderance of probabilities." The accused does not need to prove their defense beyond a reasonable doubt.
                     </p>
@@ -371,14 +371,14 @@ export default function SecurityChequeBounceDefensePage() {
             </section>
 
             <section id="rbi-guidelines-cheques" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 RBI Guidelines on the Collection of Security Cheques
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 The Reserve Bank of India (RBI) has laid down specific directives regarding the Fair Practices Code (FPC) that all banks and NBFCs must strictly adhere to. While taking security cheques is not explicitly banned, the <em>manner</em> in which they are utilized is heavily regulated. A critical defense angle often ignored is whether the bank violated these fundamental RBI circulars before depositing the cheque.
               </p>
               <div className="bg-white p-8 border border-[#DEDEDE] rounded-2xl shadow-sm mb-8">
-                <h3 className="text-xl font-bold mb-4 text-[#2E2E2E] underline">The Requirement of Prior Notice</h3>
+                <h4 className="text-xl font-bold mb-4 text-[#2E2E2E] underline">The Requirement of Prior Notice</h4>
                 <p className="text-gray-700 leading-relaxed mb-4">
                   According to standard banking practice and implied RBI guidelines on transparency, a lender cannot abruptly fill a date and amount on a blank security cheque and present it for clearing without giving the borrower <strong>prior written intimation</strong>. 
                 </p>
@@ -392,22 +392,22 @@ export default function SecurityChequeBounceDefensePage() {
             </section>
 
             <section id="role-of-drt" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 The Role of the DRT (Debt Recovery Tribunal)
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 Borrowers often confuse the jurisdiction of a Magistrate Court handling a Section 138 criminal complaint with the Debt Recovery Tribunal (DRT). Understanding the interplay between these two forums is vital for a comprehensive legal defense. 
               </p>
               
               <div className="grid md:grid-cols-2 gap-6 my-8">
                 <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
-                  <h3 className="font-black text-[#1F5EFF] text-lg mb-3">Magistrate Court (Section 138)</h3>
+                  <h4 className="font-black text-[#1F5EFF] text-lg mb-3">Magistrate Court (Section 138)</h4>
                   <p className="text-gray-700 leading-relaxed">
                     This court exclusively deals with the criminal aspect of the bounced cheque. The Magistrate’s primary concern is whether the ingredients of Section 138 are met. They do not conduct a deep accounting audit of your loan statement. If convicted, the penalty is imprisonment and a fine (which usually goes to the bank as compensation).
                   </p>
                 </div>
                 <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
-                  <h4 className="font-black text-[#1F5EFF] text-lg mb-3">Debt Recovery Tribunal (DRT)</h4>
+                  <h5 className="font-black text-[#1F5EFF] text-lg mb-3">Debt Recovery Tribunal (DRT)</h5>
                   <p className="text-gray-700 leading-relaxed">
                     The DRT is a specialized civil forum for banks to recover debts (usually above ₹20 Lakhs). However, borrowers can also approach the DRT by filing Securitisation Applications (SA) if the bank violates SARFAESI norms. The DRT conducts a thorough audit of the debt quantum, illegal penal charges, and unfair practices.
                   </p>
@@ -419,14 +419,14 @@ export default function SecurityChequeBounceDefensePage() {
             </section>
 
             <section id="police-complaint-vs-court" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 Police Complaints vs. Magistrate Court Summons
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 Recovery agents frequently use intimidation tactics, threatening borrowers that the "police are on their way to arrest them" because a cheque bounced. It is crucial to dispel this myth and understand the actual legal procedure.
               </p>
               <div className="bg-gray-50 p-8 rounded-2xl mb-8 border border-gray-200">
-                <h3 className="text-xl font-bold mb-4 text-[#2E2E2E] italic underline">The Truth About Police Involvement</h3>
+                <h4 className="text-xl font-bold mb-4 text-[#2E2E2E] italic underline">The Truth About Police Involvement</h4>
                 <p className="text-gray-800 text-lg leading-relaxed mb-4">
                   A cheque bounce under Section 138 is a <strong>non-cognizable offense</strong>. This means the police have absolutely no power to register an FIR, investigate, or arrest you directly for a bounced cheque without a specific court order. 
                 </p>
@@ -442,14 +442,14 @@ export default function SecurityChequeBounceDefensePage() {
             </section>
 
             <section id="limitation-period" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 The Limitation Period: A Fatal Flaw for Banks
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 The law of limitation is extremely strict in Section 138 cases. Banks process thousands of defaults daily, and their legal departments frequently make administrative errors regarding timelines. A missed deadline by the bank is an automatic dismissal of the case, regardless of the merits of the debt.
               </p>
               <div className="bg-blue-50 border-l-8 border-[#1F5EFF] p-8 rounded-r-2xl mb-8">
-                <h3 className="text-xl font-black text-[#1F5EFF] mb-4">The Strict Timeline Banks Must Follow</h3>
+                <h4 className="text-xl font-black text-[#1F5EFF] mb-4">The Strict Timeline Banks Must Follow</h4>
                 <ol className="space-y-4 list-decimal list-inside text-blue-900 text-lg leading-relaxed">
                   <li><strong>Cheque Validity:</strong> The bank must present the cheque to the drawee bank within 3 months from the date written on the cheque.</li>
                   <li><strong>The Legal Notice:</strong> Once the cheque bounces and the bank receives the return memo, they must send a statutory legal demand notice to the borrower within <strong>30 days</strong>.</li>
@@ -463,34 +463,34 @@ export default function SecurityChequeBounceDefensePage() {
             </section>
 
             <section id="strategic-defense" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 Strategic Defense Tactics for Borrowers
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 If you have received a demand notice under Section 138, inaction is your biggest enemy. You have precisely 15 days to act. Here is how expert lawyers build an ironclad defense:
               </p>
 
               <div className="grid md:grid-cols-2 gap-6 my-8">
                 <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
-                  <h3 className="font-black text-[#1F5EFF] text-lg mb-3">1. The 15-Day Reply Notice</h3>
+                  <h4 className="font-black text-[#1F5EFF] text-lg mb-3">1. The 15-Day Reply Notice</h4>
                   <p className="text-gray-700 leading-relaxed">
                     Never ignore the bank's statutory notice. Your lawyer must draft a powerful reply explicitly stating that the cheque was a blank security instrument collected at the time of loan sanction, not issued for the discharge of the currently claimed debt.
                   </p>
                 </div>
                 <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
-                  <h4 className="font-black text-[#1F5EFF] text-lg mb-3">2. Disputing the Debt Quantum</h4>
+                  <h5 className="font-black text-[#1F5EFF] text-lg mb-3">2. Disputing the Debt Quantum</h5>
                   <p className="text-gray-700 leading-relaxed">
                     Banks often fill amounts that include massive unapplied penal interests. Demand a detailed statement of accounts. If the cheque amount exceeds the actual legally enforceable debt, the Section 138 case fails under the <em>Dashrathbhai</em> precedent.
                   </p>
                 </div>
                 <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
-                  <h4 className="font-black text-[#1F5EFF] text-lg mb-3">3. Gathering Documentary Evidence</h4>
+                  <h5 className="font-black text-[#1F5EFF] text-lg mb-3">3. Gathering Documentary Evidence</h5>
                   <p className="text-gray-700 leading-relaxed">
                     Produce the loan agreement or welcome letter. These documents usually list the cheque numbers taken as 'Security'. This instantly proves the nature of the cheque and rebuts the bank's presumption.
                   </p>
                 </div>
                 <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
-                  <h4 className="font-black text-[#1F5EFF] text-lg mb-3">4. Handwriting & Ink Analysis</h4>
+                  <h5 className="font-black text-[#1F5EFF] text-lg mb-3">4. Handwriting & Ink Analysis</h5>
                   <p className="text-gray-700 leading-relaxed">
                     If the bank claims you filled the cheque, file an application in court to send the cheque for forensic analysis. Different ink or handwriting for the signature versus the amount proves the cheque was materially altered by the bank.
                   </p>
@@ -499,9 +499,9 @@ export default function SecurityChequeBounceDefensePage() {
             </section>
 
             <section id="bank-tactics" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 Common Bank Tactics to Intimidate
-              </h2>
+              </h3>
               <div className="bg-gray-50 p-8 rounded-2xl mb-8 border border-gray-200">
                 <p className="text-lg leading-relaxed mb-6 text-gray-800">
                   Lenders rely heavily on the fear of criminal prosecution to force settlements on their terms. It is critical to recognize these pressure tactics:
@@ -524,9 +524,9 @@ export default function SecurityChequeBounceDefensePage() {
             </section>
 
             <section id="success-stories" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 Client Success Stories
-              </h2>
+              </h3>
               <div className="grid md:grid-cols-2 gap-6 my-8">
                 <div className="bg-white p-8 rounded-[30px] border border-[#DEDEDE] shadow-sm hover:shadow-xl group transition-all">
                   <div className="flex items-center gap-4 mb-6">
@@ -534,7 +534,7 @@ export default function SecurityChequeBounceDefensePage() {
                       RM
                     </div>
                     <div>
-                      <h3 className="font-bold text-gray-900">Rajesh M.</h3>
+                      <h4 className="font-bold text-gray-900">Rajesh M.</h4>
                       <div className="flex text-yellow-400">
                         <svg className="w-4 h-4 fill-current" viewBox="0 0 20 20"><path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z"/></svg>
                         <svg className="w-4 h-4 fill-current" viewBox="0 0 20 20"><path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z"/></svg>
@@ -559,7 +559,7 @@ export default function SecurityChequeBounceDefensePage() {
                       AS
                     </div>
                     <div>
-                      <h4 className="font-bold text-gray-900">Anil S.</h4>
+                      <h5 className="font-bold text-gray-900">Anil S.</h5>
                       <div className="flex text-yellow-400">
                         <svg className="w-4 h-4 fill-current" viewBox="0 0 20 20"><path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z"/></svg>
                         <svg className="w-4 h-4 fill-current" viewBox="0 0 20 20"><path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z"/></svg>
@@ -581,13 +581,13 @@ export default function SecurityChequeBounceDefensePage() {
             </section>
 
             <section id="faqs" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 Frequently Asked Questions
-              </h2>
+              </h3>
               <div className="space-y-4">
                 {(jsonLd["@graph"][4] as any)?.mainEntity?.map((faq: any, idx: number) => (
                   <div key={idx} className="bg-white border border-[#DEDEDE] rounded-xl p-6 hover:shadow-md transition-shadow">
-                    <h3 className="font-bold text-[#2E2E2E] text-lg mb-2">{faq.name}</h3>
+                    <h4 className="font-bold text-[#2E2E2E] text-lg mb-2">{faq.name}</h4>
                     <p className="text-gray-600 leading-relaxed">{faq.acceptedAnswer.text}</p>
                   </div>
                 ))}
@@ -596,7 +596,7 @@ export default function SecurityChequeBounceDefensePage() {
 
             <div className="bg-[#2E2E2E] text-white p-12 rounded-[40px] text-center mt-24 relative overflow-hidden group">
               <div className="absolute inset-0 bg-[#1F5EFF] opacity-0 group-hover:opacity-5 transition-opacity"></div>
-              <h3 className="text-3xl font-black mb-6 relative z-10">Stop the Illegal Section 138 Harassment</h3>
+              <h4 className="text-3xl font-black mb-6 relative z-10">Stop the Illegal Section 138 Harassment</h4>
               <p className="text-xl opacity-90 mb-8 relative z-10 max-w-2xl mx-auto">
                 Did the bank fill a massive amount on your blank security cheque and bounce it to file a criminal case? Hire our expert DRT lawyers to quash the illegal notice.
               </p>

@@ -301,15 +301,15 @@ export default function RegulariseLoanAccountPage() {
             </section>
 
             <section id="the-mathematical-formula" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 The Exact Mathematical Formula to Regularise
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 Many borrowers mistakenly believe that paying just one EMI will remove the NPA tag. Under current RBI regulations, that is strictly incorrect. To <strong className="text-[#2E2E2E]">regularise your loan account</strong>, you must satisfy a specific mathematical formula to clear all arrears.
               </p>
 
               <div className="bg-blue-50 border-l-8 border-[#1F5EFF] p-8 rounded-r-2xl mb-8">
-                <h3 className="text-xl font-black text-[#1F5EFF] mb-4">Total Arrears Required for Regularisation</h3>
+                <h4 className="text-xl font-black text-[#1F5EFF] mb-4">Total Arrears Required for Regularisation</h4>
                 <p className="text-lg text-blue-900 mb-4">To effectively pay arrears to remove the NPA tag, your payment must equal:</p>
                 <ul className="space-y-3">
                   <li className="flex items-start gap-3 text-lg text-blue-900">
@@ -333,37 +333,37 @@ export default function RegulariseLoanAccountPage() {
             </section>
 
             <section id="rbi-guidelines" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 RBI Guidelines on Upgrading NPA Accounts
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 The Reserve Bank of India (RBI) has issued strict guidelines regarding the upgradation of loan accounts classified as NPAs. Understanding these rules is critical if you want to successfully convert an NPA to a standard account.
               </p>
 
               <div className="grid md:grid-cols-2 gap-6 my-8">
                 <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
-                  <h3 className="font-black text-[#1F5EFF] text-lg mb-3">No Partial Upgrades</h3>
+                  <h4 className="font-black text-[#1F5EFF] text-lg mb-3">No Partial Upgrades</h4>
                   <p className="text-gray-700">Paying partial arrears will not upgrade your account. The RBI mandates that the entire arrears of interest and principal must be paid for the account to be upgraded to 'Standard'.</p>
                 </div>
                 <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
-                  <h3 className="font-black text-[#1F5EFF] text-lg mb-3">Immediate Status Update</h3>
+                  <h4 className="font-black text-[#1F5EFF] text-lg mb-3">Immediate Status Update</h4>
                   <p className="text-gray-700">Once the full arrears are cleared, banks are required to immediately upgrade the account status from NPA to Standard without any cooling period.</p>
                 </div>
                 <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
-                  <h3 className="font-black text-[#1F5EFF] text-lg mb-3">Impact on CIBIL</h3>
+                  <h4 className="font-black text-[#1F5EFF] text-lg mb-3">Impact on CIBIL</h4>
                   <p className="text-gray-700">After regularisation, your account will reflect as 'Standard' in your CIBIL report, though the historical delayed payment string (e.g., 90+ days late) will remain on record.</p>
                 </div>
                 <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
-                  <h3 className="font-black text-[#1F5EFF] text-lg mb-3">Stoppage of Recovery</h3>
+                  <h4 className="font-black text-[#1F5EFF] text-lg mb-3">Stoppage of Recovery</h4>
                   <p className="text-gray-700">Regularising the account legally obligates the lender to immediately halt all SARFAESI Act proceedings and intense recovery actions.</p>
                 </div>
               </div>
             </section>
 
             <section id="step-by-step-guide" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 Step-by-Step Guide to Pay Arrears
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 Follow this proven approach to accurately pay your arrears to remove the NPA tag and secure your asset.
               </p>
@@ -372,28 +372,28 @@ export default function RegulariseLoanAccountPage() {
                 <div className="flex gap-6">
                   <div className="flex-shrink-0 w-12 h-12 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center font-black text-xl shadow-lg">1</div>
                   <div>
-                    <h3 className="text-2xl font-bold text-[#2E2E2E] mb-3">Request a Foreclosure or Outstanding Letter</h3>
+                    <h4 className="text-2xl font-bold text-[#2E2E2E] mb-3">Request a Foreclosure or Outstanding Letter</h4>
                     <p className="text-lg text-gray-700">Do not rely solely on your banking app or a verbal quote from a recovery agent. Visit the bank branch and formally request an updated statement showing the exact total overdue amount, including all penal charges, up to the current date.</p>
                   </div>
                 </div>
                 <div className="flex gap-6">
                   <div className="flex-shrink-0 w-12 h-12 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center font-black text-xl shadow-lg">2</div>
                   <div>
-                    <h3 className="text-2xl font-bold text-[#2E2E2E] mb-3">Negotiate Penal Charges</h3>
+                    <h4 className="text-2xl font-bold text-[#2E2E2E] mb-3">Negotiate Penal Charges</h4>
                     <p className="text-lg text-gray-700">While you must pay the principal and standard interest, you can often negotiate the waiver of bounce charges and penal interest. Submit a written request to the branch manager citing financial hardship.</p>
                   </div>
                 </div>
                 <div className="flex gap-6">
                   <div className="flex-shrink-0 w-12 h-12 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center font-black text-xl shadow-lg">3</div>
                   <div>
-                    <h3 className="text-2xl font-bold text-[#2E2E2E] mb-3">Make the Payment in a Single Tranche</h3>
+                    <h4 className="text-2xl font-bold text-[#2E2E2E] mb-3">Make the Payment in a Single Tranche</h4>
                     <p className="text-lg text-gray-700">To trigger the automatic RBI upgradation rule, it is highly recommended to pay the entire negotiated arrears amount in a single, clear transaction (RTGS/NEFT/Demand Draft).</p>
                   </div>
                 </div>
                 <div className="flex gap-6">
                   <div className="flex-shrink-0 w-12 h-12 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center font-black text-xl shadow-lg">4</div>
                   <div>
-                    <h3 className="text-2xl font-bold text-[#2E2E2E] mb-3">Obtain the Regularisation Confirmation</h3>
+                    <h4 className="text-2xl font-bold text-[#2E2E2E] mb-3">Obtain the Regularisation Confirmation</h4>
                     <p className="text-lg text-gray-700">After the funds clear, immediately demand a written letter or email from the bank confirming that the arrears have been paid and the account has been upgraded from NPA to Standard.</p>
                   </div>
                 </div>
@@ -401,12 +401,12 @@ export default function RegulariseLoanAccountPage() {
             </section>
 
             <section id="consequences-of-npa" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 Consequences of Remaining in NPA
-              </h2>
+              </h3>
               
               <div className="bg-red-50 p-6 rounded-xl border border-red-100 mb-8">
-                <h3 className="text-xl font-black text-red-700 mb-3">What happens if you ignore the NPA status?</h3>
+                <h4 className="text-xl font-black text-red-700 mb-3">What happens if you ignore the NPA status?</h4>
                 <p className="text-lg text-red-900 mb-4">Failing to regularise your loan account can lead to severe legal and financial repercussions:</p>
                 <ul className="list-disc pl-5 space-y-2 text-lg text-red-900">
                   <li><strong>SARFAESI Act Initiation:</strong> For secured loans, banks will issue a Section 13(2) notice giving you 60 days to pay the entire outstanding loan amount (not just arrears).</li>
@@ -417,7 +417,7 @@ export default function RegulariseLoanAccountPage() {
               </div>
               
               <div className="bg-gray-50 p-8 rounded-2xl mb-8 border border-gray-200">
-                <h3 className="text-2xl font-bold text-[#2E2E2E] mb-4">Pro Insight</h3>
+                <h4 className="text-2xl font-bold text-[#2E2E2E] mb-4">Pro Insight</h4>
                 <p className="text-lg text-gray-700">
                   If you are entirely unable to gather the funds to regularise your loan account, you should proactively approach the bank for loan restructuring or explore a formal loan settlement. Ignoring the problem will only accelerate legal actions.
                 </p>
@@ -425,9 +425,9 @@ export default function RegulariseLoanAccountPage() {
             </section>
 
             <section id="success-stories" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">
                 Recent Success Stories
-              </h2>
+              </h3>
               <div className="grid md:grid-cols-2 gap-6">
                 <div className="bg-white p-8 rounded-[30px] border border-[#DEDEDE] shadow-sm hover:shadow-xl group transition-all">
                   <div className="flex items-center gap-4 mb-6">
@@ -472,9 +472,9 @@ export default function RegulariseLoanAccountPage() {
             </section>
 
             <section id="faq" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">
                 Frequently Asked Questions
-              </h2>
+              </h3>
               <div className="space-y-4">
                 {[
                   { q: "What does it mean to regularise a loan account?", a: "To regularise a loan account means to bring an overdue or Non-Performing Asset (NPA) account back to 'Standard' status by paying off all accumulated missed EMIs, overdue interest, and penal charges." },
@@ -505,7 +505,7 @@ export default function RegulariseLoanAccountPage() {
             <div className="bg-[#2E2E2E] text-white p-12 rounded-[40px] text-center mt-24 relative overflow-hidden group">
               <div className="absolute inset-0 bg-[#1F5EFF] opacity-0 group-hover:opacity-5 transition-opacity"></div>
               <div className="relative z-10">
-                <h3 className="text-3xl md:text-5xl font-black mb-6">Need Help Regularising Your NPA Account?</h3>
+                <h4 className="text-3xl md:text-5xl font-black mb-6">Need Help Regularising Your NPA Account?</h4>
                 <p className="text-xl mb-8 text-white/80 max-w-2xl mx-auto">
                   Don't let the bank auction your assets. Speak to our legal and financial experts to negotiate penalty waivers and safely convert your NPA to a standard account.
                 </p>

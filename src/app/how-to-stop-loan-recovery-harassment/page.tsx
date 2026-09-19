@@ -267,9 +267,9 @@ export default function StopLoanHarassmentPage() {
             </section>
             
             <section id="legal-framework" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
                 The RBI Guidelines 2026: Your Essential Legal Shield
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 Recovery harassment is not just a moral issue; it is a direct violation of the rules established by the Reserve Bank of India (RBI). In 2026, the RBI has further strengthened these protections to ensure that lenders and their recovery agents maintain professional conduct. Understanding these rules is your first and most powerful defense. When you know what is illegal, you can call it out immediately and stop the intimidation in its tracks.
               </p>
@@ -277,7 +277,7 @@ export default function StopLoanHarassmentPage() {
                 The primary rule governs the timing of communication. Recovery agents are strictly prohibited from calling or visiting you outside the hours of 8:00 AM and 7:00 PM. Any call received after 7:00 PM is a clear violation of the RBI Fair Practice Code. This rule exists to protect your privacy and your right to a peaceful home life. If an agent calls you at 10:00 PM and claims it is urgent, they are lying and breaking the law.
               </p>
               <div className="bg-blue-50 p-8 rounded-xl border border-blue-200 mb-8">
-                <h3 className="text-xl font-bold mb-4 text-blue-900">Summary of Key RBI Recovery Rules</h3>
+                <h4 className="text-xl font-bold mb-4 text-blue-900">Summary of Key RBI Recovery Rules</h4>
                 <ul className="space-y-4 text-blue-800 leading-relaxed font-medium">
                   <li className="flex items-start gap-2">
                     <span className="w-2 h-2 bg-blue-600 rounded-full mt-2 shrink-0"></span>
@@ -310,15 +310,15 @@ export default function StopLoanHarassmentPage() {
             </section>
 
             <section id="complaint-process" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
                 The Practical Roadmap: Filing a Formal Complaint
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 If the harassment does not stop after you inform the agent about your rights, you must move up the grievance ladder. Many people make the mistake of only arguing with the recovery agent. The agent is trained to ignore your protests. To get results, you must communicate with the people who have the authority to stop them.
               </p>
               <div className="space-y-8">
                 <div className="bg-white p-8 rounded-2xl border border-[#DEDEDE] shadow-sm">
-                  <h3 className="text-2xl font-bold text-[#1F5EFF] mb-4">Step 1: The Bank's Internal Complaints Department</h3>
+                  <h4 className="text-2xl font-bold text-[#1F5EFF] mb-4">Step 1: The Bank's Internal Complaints Department</h4>
                   <p className="mb-4 text-lg">
                     Every bank and NBFC has a Nodal Officer or a Principal Nodal Officer specifically for grievances. You should send a formal email or a registered letter to this officer. In your complaint, be extremely specific. Mention the date, time, and phone number of the harassing calls. Describe the behavior in detail. Attach your call recordings or screenshots as evidence.
                   </p>
@@ -328,7 +328,7 @@ export default function StopLoanHarassmentPage() {
                 </div>
 
                 <div className="bg-white p-8 rounded-2xl border border-[#DEDEDE] shadow-sm">
-                  <h3 className="text-2xl font-bold text-[#1F5EFF] mb-4">Step 2: The RBI Ombudsman (CMS Portal)</h3>
+                  <h4 className="text-2xl font-bold text-[#1F5EFF] mb-4">Step 2: The RBI Ombudsman (CMS Portal)</h4>
                   <p className="mb-4 text-lg">
                     If the bank does not resolve your complaint within 30 days, or if you are not satisfied with their answer, you can escalate the matter to the RBI Ombudsman. This is done through the RBI's Complaint Management System (CMS) portal. This is a powerful tool. The Ombudsman has the authority to fine the bank and even order them to pay you compensation for the harassment you have suffered.
                   </p>
@@ -340,17 +340,17 @@ export default function StopLoanHarassmentPage() {
             </section>
 
             <section id="home-visit-rules" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Home Visit Regulations: What Agents Can and Cannot Do</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Home Visit Regulations: What Agents Can and Cannot Do</h3>
               <p className="mb-6 text-lg">
                 Physical home visits are often the most stressful part of recovery. However, agents are bound by very specific rules when they step onto your property. If they violate these, they can be held legally accountable for trespass or criminal intimidation.
               </p>
               <div className="grid md:grid-cols-2 gap-6 mb-8 text-lg">
                 <div className="bg-orange-50/50 p-6 rounded-xl border border-orange-100">
-                  <h3 className="font-bold text-orange-800 mb-2">Identification Requirement</h3>
+                  <h4 className="font-bold text-orange-800 mb-2">Identification Requirement</h4>
                   <p className="text-sm text-orange-900/80">Every agent who visits your home must carry a valid ID card issued by the bank or the agency. They must also have a formal authorization letter from the lender specific to your loan account. If they cannot produce these documents, you have every right to ask them to leave your property immediately.</p>
                 </div>
                 <div className="bg-emerald-50/50 p-6 rounded-xl border border-emerald-100">
-                   <h4 className="font-bold text-emerald-800 mb-2">Respect for Privacy</h4>
+                   <h5 className="font-bold text-emerald-800 mb-2">Respect for Privacy</h5>
                    <p className="text-sm text-emerald-900/80">Agents are not allowed to enter your home without your permission. They must conduct themselves with dignity and respect. They cannot use abusive language, scream, or create a scene in front of your neighbors to shame you. Public shaming is a direct violation of the RBI guidelines.</p>
                 </div>
               </div>
@@ -360,27 +360,27 @@ export default function StopLoanHarassmentPage() {
             </section>
             
             <section id="legal-protections" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Your Protection Under the Indian Penal Code (IPC)</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Your Protection Under the Indian Penal Code (IPC)</h3>
               <p className="mb-6 text-lg">
                 While the RBI guidelines provide a regulatory framework, the Indian Penal Code (IPC) provides criminal protections against extreme harassment. Many recovery agents assume that the borrower is unaware of their criminal liability. When you use the correct legal terminology, you send a clear message that you know the law and are prepared to use it.
               </p>
               <div className="bg-gray-50 p-8 rounded-xl border border-gray-200 mb-8">
-                <h3 className="text-xl font-bold mb-6">Key Criminal Sections for Debt Harassment</h3>
+                <h4 className="text-xl font-bold mb-6">Key Criminal Sections for Debt Harassment</h4>
                 <div className="space-y-6">
                   <div>
-                    <h4 className="font-bold text-gray-900 mb-2">Section 503: Criminal Intimidation</h4>
+                    <h5 className="font-bold text-gray-900 mb-2">Section 503: Criminal Intimidation</h5>
                     <p className="text-sm text-gray-600">This section applies when an agent threatens you with injury to your person, reputation, or property with the intent to cause alarm. If an agent says they will "break your legs" or "shame you in your community," they are committing criminal intimidation.</p>
                   </div>
                   <div>
-                    <h4 className="font-bold text-gray-900 mb-2">Section 506: Punishment for Criminal Intimidation</h4>
+                    <h5 className="font-bold text-gray-900 mb-2">Section 506: Punishment for Criminal Intimidation</h5>
                     <p className="text-sm text-gray-600">This section details the punishments for those found guilty under Section 503. Criminal intimidation is a serious offense that can lead to imprisonment. Reminding a persistent agent of Section 506 often changes their tone immediately.</p>
                   </div>
                   <div>
-                    <h4 className="font-bold text-gray-900 mb-2">Section 507: Anonymous Communication</h4>
+                    <h5 className="font-bold text-gray-900 mb-2">Section 507: Anonymous Communication</h5>
                     <p className="text-sm text-gray-600">If you are receiving threatening calls from unknown numbers where the caller refuses to identify themselves or their agency, this section is applicable. Anonymous criminal intimidation carries even stricter penalties.</p>
                   </div>
                   <div>
-                    <h4 className="font-bold text-gray-900 mb-2">Section 509: Insulting the Modesty of a Woman</h4>
+                    <h5 className="font-bold text-gray-900 mb-2">Section 509: Insulting the Modesty of a Woman</h5>
                     <p className="text-sm text-gray-600">If a recovery agent uses foul or suggestive language with a female borrower or a female family member, they are in direct violation of Section 509. The Indian legal system is particularly strict regarding the protection of women from such harassment.</p>
                   </div>
                 </div>
@@ -391,7 +391,7 @@ export default function StopLoanHarassmentPage() {
             </section>
 
             <section id="family-protection" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Prohibiting the Harassment of Your Family and Friends</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Prohibiting the Harassment of Your Family and Friends</h3>
               <p className="mb-6 text-lg">
                 One of the most unethical tactics used by recovery agents is "third party shaming." This involves calling your parents, spouse, siblings, or even your workplace to inform them about your debt. They do this to create social pressure and shame you into paying. You must know that this tactic is completely illegal under both RBI guidelines and privacy laws.
               </p>
@@ -399,7 +399,7 @@ export default function StopLoanHarassmentPage() {
                 The loan agreement is a contract between you and the bank. Your family members are not parties to this contract unless they are co-borrowers or guarantors. Lenders have no legal right to discuss your financial status with anyone else. If an agent calls your relative, they are violating your fundamental right to privacy.
               </p>
               <div className="bg-red-50 border-l-4 border-red-500 p-8 rounded-r-xl mb-8">
-                <h3 className="text-xl font-bold text-red-800 mb-4">How to Handle Third Party Contact</h3>
+                <h4 className="text-xl font-bold text-red-800 mb-4">How to Handle Third Party Contact</h4>
                 <p className="text-red-900/80 mb-4">If you discover that an agent has contacted your family or workplace, take the following steps:</p>
                 <ul className="space-y-3 text-red-900/80">
                   <li>• <strong>Inform the contact:</strong> Ask your relative or colleague to record any future calls from the agent.</li>
@@ -414,7 +414,7 @@ export default function StopLoanHarassmentPage() {
             </section>
 
             <section id="consumer-court" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Seeking Justice Through Consumer Courts</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Seeking Justice Through Consumer Courts</h3>
               <p className="mb-6 text-lg">
                 If you have suffered significant mental agony or professional damage due to recovery harassment, the Consumer Protection Act 2019 offers a path for compensation. You can file a case in the District Consumer Disputes Redressal Commission for "deficiency in service" and "unfair trade practices."
               </p>
@@ -427,12 +427,12 @@ export default function StopLoanHarassmentPage() {
             </section>
             
             <section id="avoiding-scams" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Alert: How to Identify and Stop Fake Recovery Agents</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Alert: How to Identify and Stop Fake Recovery Agents</h3>
               <p className="mb-6 text-lg">
                 In the digital age, a new threat has emerged: fake recovery agents. These are scammers who obtain your loan information (sometimes through data leaks) and pretend to be from your bank to extort money. They often use high pressure tactics and demand immediate payment via UPI or personal accounts.
               </p>
               <div className="bg-yellow-50 border-l-4 border-yellow-400 p-8 rounded-r-xl mb-8">
-                <h3 className="text-xl font-bold text-yellow-800 mb-4">Signs of a Fake Recovery Agent</h3>
+                <h4 className="text-xl font-bold text-yellow-800 mb-4">Signs of a Fake Recovery Agent</h4>
                 <ul className="space-y-3 text-yellow-900/80">
                   <li>• <strong>Personal Payment Demands:</strong> A real bank will never ask you to pay into a personal UPI ID or a personal bank account. All payments must go to the official bank account.</li>
                   <li>• <strong>Lack of Documentation:</strong> Fake agents will refuse to provide an employee ID or an authorization letter. They will make excuses about the documents being "at the office."</li>
@@ -446,7 +446,7 @@ export default function StopLoanHarassmentPage() {
             </section>
 
             <section id="settlement-as-solution" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Strategic Loan Settlement: The Definitive Way to End the Cycle</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Strategic Loan Settlement: The Definitive Way to End the Cycle</h3>
               <p className="mb-6 text-lg">
                 Stopping the harassment is the immediate goal, but the long term solution is to resolve the debt itself. If you are genuinely unable to pay the full amount due to financial hardship, a strategic loan settlement is often the best path forward. A settlement allows you to pay a single, reduced lump sum amount to close the loan forever.
               </p>
@@ -455,7 +455,7 @@ export default function StopLoanHarassmentPage() {
               </p>
               <div className="bg-[#2E2E2E] text-white p-10 rounded-3xl mb-12 relative overflow-hidden">
                 <div className="absolute top-0 right-0 w-64 h-64 bg-blue-600/10 rounded-full -mr-32 -mt-32 blur-3xl"></div>
-                <h3 className="text-2xl font-bold mb-6 relative z-10">Why SettleLoans is Your Best Ally</h3>
+                <h4 className="text-2xl font-bold mb-6 relative z-10">Why SettleLoans is Your Best Ally</h4>
                 <ul className="space-y-4 relative z-10 opacity-90">
                   <li className="flex items-center gap-3">
                     <div className="w-6 h-6 rounded-full bg-blue-500 flex items-center justify-center shrink-0">✓</div>
@@ -486,12 +486,12 @@ export default function StopLoanHarassmentPage() {
             </section>
 
             <section id="mental-health" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Protecting Your Mental Health During the Crisis</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Protecting Your Mental Health During the Crisis</h3>
               <p className="mb-6 text-lg">
                 The psychological weight of debt and harassment is immense. It can lead to severe anxiety, social isolation, and a feeling of hopelessness. You must remember that you are not defined by your debt. Millions of honest people face financial setbacks; it is a part of life, and it is temporary.
               </p>
               <div className="bg-emerald-50 p-8 rounded-2xl border border-emerald-100 mb-8">
-                <h3 className="text-xl font-bold text-emerald-800 mb-4">You Are Not Alone</h3>
+                <h4 className="text-xl font-bold text-emerald-800 mb-4">You Are Not Alone</h4>
                 <p className="mb-4 text-emerald-900/80 italic">
                   "The phone would ring and my heart would start racing. I was scared to even look at my family. SettleLoans didn't just help with the loan; they gave me my life back." — A Restored Client
                 </p>
@@ -505,7 +505,7 @@ export default function StopLoanHarassmentPage() {
             </section>
             
             <section id="success-stories" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 text-center">Real Stories of Freedom</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 text-center">Real Stories of Freedom</h3>
               <div className="grid md:grid-cols-2 gap-6 not-prose">
                 {[
                   {
@@ -543,7 +543,7 @@ export default function StopLoanHarassmentPage() {
                         {review.name.charAt(0)}
                       </div>
                       <div>
-                        <h3 className="font-bold text-[#2E2E2E]">{review.name}</h3>
+                        <h4 className="font-bold text-[#2E2E2E]">{review.name}</h4>
                         <p className="text-xs text-gray-400">{review.loc}</p>
                       </div>
                       <div className="ml-auto text-yellow-400 text-sm">★★★★★</div>
@@ -558,7 +558,7 @@ export default function StopLoanHarassmentPage() {
             </section>
 
             <section id="faqs" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Frequently Asked Questions</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Frequently Asked Questions</h3>
               <div className="space-y-4 not-prose">
                 {[
                   { q: "Can recovery agents call me at night?", a: "No. According to RBI guidelines, recovery agents can only call or visit between 8:00 AM and 7:00 PM. Any call after 7:00 PM is a violation of the law." },
@@ -595,7 +595,7 @@ export default function StopLoanHarassmentPage() {
             <div className="lg:hidden mt-16 mb-8">
               <div className="bg-[#2E2E2E] rounded-2xl shadow-xl overflow-hidden border border-[#1F5EFF]/20">
                 <div className="bg-[#1F5EFF] p-6 text-center text-white">
-                  <h3 className="text-2xl font-black mb-2">Ready to End the Fear?</h3>
+                  <h4 className="text-2xl font-black mb-2">Ready to End the Fear?</h4>
                   <p className="opacity-90 text-sm">Join thousands of Indians who have stopped harassment and found financial freedom with us.</p>
                 </div>
                 <div className="p-8 text-center text-[#DEDEDE]">

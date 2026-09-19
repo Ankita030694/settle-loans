@@ -261,15 +261,15 @@ export default function SalaryAccountFreezePage() {
             </section>
 
             <section id="right-of-set-off-limits" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 Limitations of the "Right of Set-Off"
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 The Banker's Right of Set-Off is a common-law principle that allows a bank to adjust funds from your deposit account to settle your outstanding debts within the same bank. However, it cannot be exercised arbitrarily.
               </p>
 
               <div className="bg-blue-50 border-l-8 border-[#1F5EFF] p-8 rounded-r-2xl mb-8">
-                <h3 className="text-xl font-black text-[#1F5EFF] mb-4">Crucial Legal Requirements for Set-Off</h3>
+                <h4 className="text-xl font-black text-[#1F5EFF] mb-4">Crucial Legal Requirements for Set-Off</h4>
                 <p className="text-blue-900 text-lg leading-relaxed mb-4">
                   For a bank to legally deduct money from your account, they must strictly follow these rules:
                 </p>
@@ -291,9 +291,9 @@ export default function SalaryAccountFreezePage() {
             </section>
 
             <section id="right-to-livelihood" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 Article 21: Protection of Livelihood
-              </h2>
+              </h3>
               <div className="bg-gray-50 p-8 rounded-2xl mb-8 border border-gray-200">
                 <p className="text-gray-800 text-lg leading-relaxed mb-4">
                   The Indian Constitution supersedes banking policies. Under <strong>Article 21 (Right to Life)</strong>, the Supreme Court of India has interpreted that the Right to Life includes the Right to Livelihood.
@@ -305,22 +305,22 @@ export default function SalaryAccountFreezePage() {
             </section>
 
             <section id="rbi-rules-on-deductions" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 RBI Rules on Unfair Deductions
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 The RBI's Fair Practices Code (FPC) strongly condemns coercive recovery tactics.
               </p>
 
               <div className="grid md:grid-cols-2 gap-6 my-8">
                 <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
-                  <h3 className="font-black text-[#1F5EFF] text-lg mb-3">Disproportionate Deductions</h3>
+                  <h4 className="font-black text-[#1F5EFF] text-lg mb-3">Disproportionate Deductions</h4>
                   <p className="text-gray-700 leading-relaxed">
                     RBI guidelines dictate that recovery methods should not be disproportionate. Wiping out 100% of a paycheck for a credit card default is highly disproportionate and abusive.
                   </p>
                 </div>
                 <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
-                  <h4 className="font-black text-[#1F5EFF] text-lg mb-3">Auto-Debits vs. Set-Off</h4>
+                  <h5 className="font-black text-[#1F5EFF] text-lg mb-3">Auto-Debits vs. Set-Off</h5>
                   <p className="text-gray-700 leading-relaxed">
                     If an auto-debit (NACH) fails due to insufficient funds, the bank cannot randomly sweep the account the moment your salary hits without notifying you, masking it as a "Set-Off."
                   </p>
@@ -329,9 +329,9 @@ export default function SalaryAccountFreezePage() {
             </section>
 
             <section id="how-to-unfreeze" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 Steps to Unfreeze Your Salary Account
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 If your salary account frozen for credit card dues, you must act fast. Do not negotiate with junior customer care agents; they do not have the authority to reverse this.
               </p>
@@ -340,7 +340,7 @@ export default function SalaryAccountFreezePage() {
                 <div className="flex gap-6">
                   <div className="flex-shrink-0 w-12 h-12 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center font-black text-xl shadow-lg">1</div>
                   <div>
-                    <h3 className="text-2xl font-bold text-[#2E2E2E] mb-2">Send a Legal Notice Immediately</h3>
+                    <h4 className="text-2xl font-bold text-[#2E2E2E] mb-2">Send a Legal Notice Immediately</h4>
                     <p className="text-lg text-gray-700 leading-relaxed">
                       Have a lawyer draft a strong legal notice addressed to the Branch Manager and Nodal Officer. The notice must cite the lack of prior intimation, the violation of the Right to Livelihood, and demand the immediate unfreezing of the account and reversal of the deducted amount.
                     </p>
@@ -350,7 +350,7 @@ export default function SalaryAccountFreezePage() {
                 <div className="flex gap-6">
                   <div className="flex-shrink-0 w-12 h-12 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center font-black text-xl shadow-lg">2</div>
                   <div>
-                    <h3 className="text-2xl font-bold text-[#2E2E2E] mb-2">File an RBI Ombudsman Complaint</h3>
+                    <h4 className="text-2xl font-bold text-[#2E2E2E] mb-2">File an RBI Ombudsman Complaint</h4>
                     <p className="text-lg text-gray-700 leading-relaxed">
                       If the bank does not reverse the transaction within a few days of receiving the notice, file a complaint on the RBI Complaint Management System (CMS) portal under "Unauthorized Debit" and "Non-adherence to Fair Practices Code."
                     </p>
@@ -360,7 +360,7 @@ export default function SalaryAccountFreezePage() {
                 <div className="flex gap-6">
                   <div className="flex-shrink-0 w-12 h-12 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center font-black text-xl shadow-lg">3</div>
                   <div>
-                    <h3 className="text-2xl font-bold text-[#2E2E2E] mb-2">Change Your Salary Account</h3>
+                    <h4 className="text-2xl font-bold text-[#2E2E2E] mb-2">Change Your Salary Account</h4>
                     <p className="text-lg text-gray-700 leading-relaxed">
                       To prevent this from happening next month, immediately request your HR department to transfer your upcoming salaries to an account in a completely different bank where you have no credit cards or loans.
                     </p>
@@ -370,11 +370,11 @@ export default function SalaryAccountFreezePage() {
             </section>
 
             <section id="what-not-to-do" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 Crucial Mistakes to Avoid
-              </h2>
+              </h3>
               <div className="bg-red-50 p-6 rounded-xl border border-red-100 mb-8">
-                <h3 className="text-xl font-black text-red-700 mb-3">Do Not Open a New Account in the Same Bank</h3>
+                <h4 className="text-xl font-black text-red-700 mb-3">Do Not Open a New Account in the Same Bank</h4>
                 <p className="text-red-900 leading-relaxed mb-4">
                   A common mistake borrowers make is opening a new savings account in the same bank branch to receive funds, thinking the bank won't touch it. 
                 </p>
@@ -385,9 +385,9 @@ export default function SalaryAccountFreezePage() {
             </section>
 
             <section id="success-stories" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 Client Success Stories
-              </h2>
+              </h3>
               <div className="grid md:grid-cols-2 gap-6 my-8">
                 <div className="bg-white p-8 rounded-[30px] border border-[#DEDEDE] shadow-sm hover:shadow-xl group transition-all">
                   <div className="flex items-center gap-4 mb-6">
@@ -395,7 +395,7 @@ export default function SalaryAccountFreezePage() {
                       KM
                     </div>
                     <div>
-                      <h3 className="font-bold text-gray-900">Karan M.</h3>
+                      <h4 className="font-bold text-gray-900">Karan M.</h4>
                       <div className="flex text-yellow-400">
                         <svg className="w-4 h-4 fill-current" viewBox="0 0 20 20"><path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z"/></svg>
                         <svg className="w-4 h-4 fill-current" viewBox="0 0 20 20"><path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z"/></svg>
@@ -420,7 +420,7 @@ export default function SalaryAccountFreezePage() {
                       NP
                     </div>
                     <div>
-                      <h4 className="font-bold text-gray-900">Neha P.</h4>
+                      <h5 className="font-bold text-gray-900">Neha P.</h5>
                       <div className="flex text-yellow-400">
                         <svg className="w-4 h-4 fill-current" viewBox="0 0 20 20"><path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z"/></svg>
                         <svg className="w-4 h-4 fill-current" viewBox="0 0 20 20"><path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z"/></svg>
@@ -442,13 +442,13 @@ export default function SalaryAccountFreezePage() {
             </section>
 
             <section id="faqs" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 Frequently Asked Questions
-              </h2>
+              </h3>
               <div className="space-y-4">
                 {faqs.map((faq: any, index: number) => (
                   <div key={index} className="bg-white border border-[#DEDEDE] rounded-xl p-6 hover:shadow-md transition-shadow">
-                    <h3 className="text-xl font-bold text-[#2E2E2E] mb-2">{faq.name}</h3>
+                    <h4 className="text-xl font-bold text-[#2E2E2E] mb-2">{faq.name}</h4>
                     <p className="text-gray-700 leading-relaxed">{faq.acceptedAnswer.text}</p>
                   </div>
                 ))}
@@ -457,7 +457,7 @@ export default function SalaryAccountFreezePage() {
 
             <div className="bg-[#2E2E2E] text-white p-12 rounded-[40px] text-center mt-24 relative overflow-hidden group">
               <div className="absolute inset-0 bg-[#1F5EFF] opacity-0 group-hover:opacity-5 transition-opacity"></div>
-              <h3 className="text-3xl md:text-4xl font-black mb-6 relative z-10">Stop the Illegal Deduction Today</h3>
+              <h4 className="text-3xl md:text-4xl font-black mb-6 relative z-10">Stop the Illegal Deduction Today</h4>
               <p className="text-xl text-gray-300 mb-8 max-w-2xl mx-auto relative z-10">
                 Did the bank illegally freeze your entire salary account for a credit card default, leaving you with zero money for rent and food? Let our lawyers file an urgent Ombudsman complaint to release your salary.
               </p>

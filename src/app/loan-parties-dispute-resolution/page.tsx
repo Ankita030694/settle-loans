@@ -304,9 +304,9 @@ export default function LoanPartiesDisputeResolutionPage() {
                         </section>
 
                         <section id="dynamics-of-loan-parties" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
                                 The Dynamics of Loan Parties in India
-                            </h2>
+                            </h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 Understanding who is involved in a loan agreement is the first step toward resolving a dispute. Each party has distinct legal rights and obligations. The primary borrower is usually at the center, but the inclusion of co-borrowers and guarantors creates a web of joint and several liability. In the eyes of the law, a co-borrower often has the same level of responsibility as the primary borrower, which is a fact that many people only realize when a dispute arises.
                             </p>
@@ -317,7 +317,7 @@ export default function LoanPartiesDisputeResolutionPage() {
                                 Conflicts can also be 'internal' between the loan parties themselves. For instance, in a divorce or a business partnership split, one party may stop paying their share of the EMI, leaving the other party vulnerable to bank action. Resolving these multi-party conflicts requires a strategic approach that combines matrimonial or corporate law with debt recovery defense. Our advisory services encompass all these dimensions, providing a holistic resolution for everyone involved.
                             </p>
                             <div className="bg-gray-50 p-8 rounded-xl border border-gray-200 mb-8">
-                                <h3 className="text-xl font-bold mb-6">Roles and Responsibilities in a Loan Contract</h3>
+                                <h4 className="text-xl font-bold mb-6">Roles and Responsibilities in a Loan Contract</h4>
                                 <p className="mb-4 text-sm text-gray-600">
                                     Knowing your role is critical when a dispute begins. The law treats 'Principal Debtors' and 'Sureties' (guarantors) differently in specific scenarios, especially regarding the discharge of liability.
                                 </p>
@@ -351,9 +351,9 @@ export default function LoanPartiesDisputeResolutionPage() {
                         </section>
 
                         <section id="common-points-of-conflict" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
                                 Common Points of Conflict in Loan Agreements
-                            </h2>
+                            </h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 Most disputes in the Indian banking landscape fall into predictable categories. Interest rate fluctuations are a major source of tension, especially in floating rate loans where the bank increases the rate without proper notice or justification. Another common flashpoint is the 'levy of penalty charges' or 'overdue interest' that can make the total balance grow exponentially, often exceeding the original principal amount.
                             </p>
@@ -364,7 +364,7 @@ export default function LoanPartiesDisputeResolutionPage() {
                                 Furthermore, service deficiencies such as the failure to return original property documents after loan closure or incorrect reporting to CIBIL create long term damages for borrowers. At SettleLoans, we have handled thousands of such cases. We understand that while a bank sees a 'loan account number', you see your life's earnings and its future. We bring a human perspective to these technical conflicts, ensuring that the resolution is not just legal, but also fair.
                             </p>
                             <div className="bg-blue-50 p-8 rounded-xl border border-blue-200 mb-8">
-                                <h3 className="text-xl font-bold mb-4 text-blue-900">The Anatomy of an Interest Dispute</h3>
+                                <h4 className="text-xl font-bold mb-4 text-blue-900">The Anatomy of an Interest Dispute</h4>
                                 <p className="text-sm text-blue-800 leading-relaxed mb-4">
                                     Interest calculation is governed by the 'Master Direction' of the RBI. Banks must follow the Benchmark Prime Lending Rate (BPLR) or the Marginal Cost of Funds based Lending Rate (MCLR) rules strictly.
                                 </p>
@@ -377,28 +377,28 @@ export default function LoanPartiesDisputeResolutionPage() {
                                     <div className="w-12 h-12 bg-blue-100 rounded-full flex items-center justify-center mx-auto mb-4">
                                         <svg className="w-6 h-6 text-blue-600" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M9 19v-6a2 2 0 00-2-2H5a2 2 0 00-2 2v6a2 2 0 002 2h2a2 2 0 002-2zm0 0V9a2 2 0 012-2h2a2 2 0 012 2v10m-6 0a2 2 0 002 2h2a2 2 0 002-2m0 0V5a2 2 0 012-2h2a2 2 0 012 2v14a2 2 0 01-2 2h-2a2 2 0 01-2-2z"></path></svg>
                                     </div>
-                                    <h4 className="font-bold text-[#2E2E2E] mb-2">Interest Audit</h4>
+                                    <h5 className="font-bold text-[#2E2E2E] mb-2">Interest Audit</h5>
                                     <p className="text-xs text-gray-500">Uncovering hidden charges and incorrect interest rates.</p>
                                 </div>
                                 <div className="bg-white p-5 rounded-xl border border-[#DEDEDE] shadow-sm text-center">
                                     <div className="w-12 h-12 bg-green-100 rounded-full flex items-center justify-center mx-auto mb-4">
                                         <svg className="w-6 h-6 text-green-600" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M12 11c0 3.517-1.009 6.799-2.753 9.571m-3.44-2.148l.83-3.454a4.414 4.414 0 00-.51-3.133l-1.93-3.44a4.414 4.414 0 01.51-3.133L5.554 1.83a4.414 4.414 0 013.133.51l3.44 1.93a4.414 4.414 0 003.133-.51l3.454-.83a4.414 4.414 0 013.133.51l1.93 3.44a4.414 4.414 0 00.51 3.133l-.83 3.454a4.414 4.414 0 01-.51 3.133l-1.93 3.44a4.414 4.414 0 00-.51 3.133l.83 3.454a4.414 4.414 0 01-.51 3.133L16.446 22.17a4.414 4.414 0 01-3.133-.51l-3.44-1.93a4.414 4.414 0 00-3.133.51l-3.454.83a4.414 4.414 0 01-3.133-.51l-1.93-3.44a4.414 4.414 0 00-.51-3.133l.83-3.454z"></path></svg>
                                     </div>
-                                    <h4 className="font-bold text-[#2E2E2E] mb-2">Asset Protection</h4>
+                                    <h5 className="font-bold text-[#2E2E2E] mb-2">Asset Protection</h5>
                                     <p className="text-xs text-gray-500">Challenging unfair collateral valuations by bank auditors.</p>
                                 </div>
                                 <div className="bg-white p-5 rounded-xl border border-[#DEDEDE] shadow-sm text-center">
                                     <div className="w-12 h-12 bg-purple-100 rounded-full flex items-center justify-center mx-auto mb-4">
                                         <svg className="w-6 h-6 text-purple-600" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M17 20h5v-2a3 3 0 00-5.356-1.857M17 20H7m10 0v-2c0-.656-.126-1.283-.356-1.857M7 20H2v-2a3 3 0 015.356-1.857M7 20v-2c0-.656.126-1.283.356-1.857m0 0a5.002 5.002 0 019.288 0M15 7a3 3 0 11-6 0 3 3 0 016 0zm6 3a2 2 0 11-4 0 2 2 0 014 0zM7 10a2 2 0 11-4 0 2 2 0 014 0z"></path></svg>
                                     </div>
-                                    <h4 className="font-bold text-[#2E2E2E] mb-2">Mutual Liability</h4>
+                                    <h5 className="font-bold text-[#2E2E2E] mb-2">Mutual Liability</h5>
                                     <p className="text-xs text-gray-500">Resolving conflicts between co-borrowers and guarantors.</p>
                                 </div>
                             </div>
                         </section>
 
                         <section id="drthelp-legal-framework" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">DRT & The Legal Framework for Recovery</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">DRT & The Legal Framework for Recovery</h3>
                             <div className="bg-white p-8 rounded-2xl border border-[#DEDEDE] shadow-sm">
                                 <p className="mb-4">
                                     The Debt Recovery Tribunal (DRT) system was established by the Recovery of Debts Due to Banks and Financial Institutions (RDDBFI) Act, 1993. It is a specialized forum designed to decide cases involving bank dues exceeding 20 lakh rupees. For a borrower, the DRT can be a double edged sword. While it allows for faster recovery by banks, it also provides a formalized platform where you can present legal defenses that might not be possible in a standard civil court.
@@ -414,19 +414,19 @@ export default function LoanPartiesDisputeResolutionPage() {
                         </section>
 
                         <section id="challenging-sarfaesi" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Challenging SARFAESI Act Actions</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Challenging SARFAESI Act Actions</h3>
                             <p className="mb-6">
                                 The SARFAESI Act of 2002 is the most powerful weapon in the lender's arsenal for secured loans. It allows them to bypass the long wait times of traditional courts and take possession of collateral directly. However, the Act also provides significant procedural rights to the borrower. The Supreme Court of India has repeatedly held that banks must follow the 'letter of the law' when invoking SARFAESI.
                             </p>
                             <div className="grid md:grid-cols-2 gap-6 mb-8">
                                 <div className="bg-orange-50/50 p-6 rounded-xl border border-orange-100">
-                                    <h3 className="text-xl font-bold text-orange-800 mb-3">The Power of Representation</h3>
+                                    <h4 className="text-xl font-bold text-orange-800 mb-3">The Power of Representation</h4>
                                     <p className="text-sm text-orange-900/80 leading-relaxed">
                                         Under Section 13(3A), you have the right to send a formal 'Representation or Objection' after receiving a 13(2) notice. The bank MUST reply to this within 15 days. If they fail to provide a reasoned reply, their subsequent actions can be challenged in the DRT as illegal and void.
                                     </p>
                                 </div>
                                 <div className="bg-blue-50/50 p-6 rounded-xl border border-blue-100">
-                                    <h3 className="text-xl font-bold text-blue-800 mb-3">Securitization Application (SA)</h3>
+                                    <h4 className="text-xl font-bold text-blue-800 mb-3">Securitization Application (SA)</h4>
                                     <p className="text-sm text-blue-900/80 leading-relaxed">
                                         Once the bank moves to take possession under Section 13(4), you can file an SA in the DRT. At this stage, you can seek a stay on the possession by proving that the bank has committed procedural errors or that your account was incorrectly classified as an NPA.
                                     </p>
@@ -438,12 +438,12 @@ export default function LoanPartiesDisputeResolutionPage() {
                         </section>
 
                         <section id="adr-powerhouse" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">ADR: The Modern Path to Settlement</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">ADR: The Modern Path to Settlement</h3>
                             <p className="mb-6 text-lg">
                                 Alternative Dispute Resolution (ADR) is rapidly becoming the preferred method for resolving loan conflicts in India. It offers a way to reach a conclusion that is binding but avoids the 'win or lose' aggression of a court room. The three main pillars of ADR in banking are Arbitration, Mediation, and Lok Adalats.
                             </p>
                             <div className="bg-purple-50 p-8 rounded-2xl border border-purple-100 mb-8">
-                                <h3 className="text-xl font-bold text-purple-800 mb-4">Why Choose ADR?</h3>
+                                <h4 className="text-xl font-bold text-purple-800 mb-4">Why Choose ADR?</h4>
                                 <p className="mb-4 text-purple-900/80">
                                     Courts in India are overburdened, and a typical debt recovery case can last for decades. ADR provides a 'fixed timeline' for resolution. Furthermore, ADR processes are private and confidential, protecting your professional reputation while you resolve your financial issues.
                                 </p>
@@ -461,7 +461,7 @@ export default function LoanPartiesDisputeResolutionPage() {
                         </section>
 
                         <section id="mediation-strategies" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Mastering Mediation and Negotiation</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Mastering Mediation and Negotiation</h3>
                             <p className="mb-6">
                                 Mediation is an art as much as a legal process. Unlike litigation, which focuses on rights and wrongs, mediation focuses on 'interests'. What does the bank want? Primarily, they want to reduce their NPA numbers. What do you want? You want to pay an amount that you can realistically afford while saving your credit score.
                             </p>
@@ -474,12 +474,12 @@ export default function LoanPartiesDisputeResolutionPage() {
                         </section>
 
                         <section id="banking-ombudsman-help" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Banking Ombudsman: Redressal Outside the Court Room</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Banking Ombudsman: Redressal Outside the Court Room</h3>
                             <p className="mb-6">
                                 The RBI's Banking Ombudsman Scheme is your primary defense against 'deficiency in service' and 'unfair practices'. This is a free mechanism that allows you to complain against banks for issues like non-adherence to fair practices code, delay in loan disbursement, or unauthorized debit of charges.
                             </p>
                             <div className="bg-emerald-50 p-8 rounded-2xl border border-emerald-100 mb-8">
-                                <h3 className="text-xl font-bold text-emerald-800 mb-4">When to Approach the Ombudsman</h3>
+                                <h4 className="text-xl font-bold text-emerald-800 mb-4">When to Approach the Ombudsman</h4>
                                 <ul className="space-y-3 text-emerald-900/80">
                                     <li>• If the bank has failed to respond to your written complaint within 30 days.</li>
                                     <li>• If the bank's response is unsatisfactory or has rejected your valid claims.</li>
@@ -493,19 +493,19 @@ export default function LoanPartiesDisputeResolutionPage() {
                         </section>
 
                         <section id="consumer-court-pathway" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Consumer Court: Seeking Compassion and Compensation</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Consumer Court: Seeking Compassion and Compensation</h3>
                             <p className="mb-6 text-lg">
                                 While DRTs handle recovery, Consumer Courts handle 'service quality'. A bank is a service provider, and you are its consumer. If a bank engages in 'Unfair Trade Practices'—such as not informing you of interest changes or misrepresenting loan terms—Consumer Courts can grant you significant compensation.
                             </p>
                             <div className="grid md:grid-cols-2 gap-8 mb-8">
                                 <div className="bg-white p-6 rounded-xl border border-gray-100 shadow-sm">
-                                    <h3 className="text-xl font-bold mb-4">Deficiency in Service</h3>
+                                    <h4 className="text-xl font-bold mb-4">Deficiency in Service</h4>
                                     <p className="text-sm text-gray-600 leading-relaxed mb-4">
                                         This includes delays in returning original title deeds after the loan is paid off. In many landmark cases, Consumer Courts have fined banks lakhs of rupees for losing or delaying the return of property documents.
                                     </p>
                                 </div>
                                 <div className="bg-white p-6 rounded-xl border border-gray-100 shadow-sm">
-                                    <h3 className="text-xl font-bold mb-4">Harassment Protection</h3>
+                                    <h4 className="text-xl font-bold mb-4">Harassment Protection</h4>
                                     <p className="text-sm text-gray-600 leading-relaxed mb-4">
                                         If recovery agents use abusive language or call at odd hours, you can approach the Consumer Court for mental agony and harassment. The court can order the bank to pay damages that often offset your outstanding dues.
                                     </p>
@@ -514,7 +514,7 @@ export default function LoanPartiesDisputeResolutionPage() {
                         </section>
 
                         <section id="co-borrower-guarantor" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">The Rights of Co-Borrowers and Guarantors</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">The Rights of Co-Borrowers and Guarantors</h3>
                             <p className="mb-6">
                                 In many loan disputes, the co-borrower or the guarantor is the one who suffers the most, often without even realizing their full liability. A guarantor is legally 'standing in the shoes' of the borrower. However, a guarantor also has the right to be informed about any changes in the loan agreement or a default by the primary borrower.
                             </p>
@@ -524,12 +524,12 @@ export default function LoanPartiesDisputeResolutionPage() {
                         </section>
 
                         <section id="unfair-bank-practices" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Stopping Unfair and Aggressive Bank Practices</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Stopping Unfair and Aggressive Bank Practices</h3>
                             <p className="mb-6 text-lg">
                                 The RBI's 'Fair Practices Code' is not a suggestion; it is a mandatory rulebook. Banks are strictly prohibited from using force or intimidation during recovery. They cannot call you before 8 AM or after 7 PM. They cannot contact your neighbors or relatives to reveal your debt situation. Any such action is a serious violation that can be met with immediate legal intervention.
                             </p>
                             <div className="bg-[#2E2E2E] text-white p-8 rounded-2xl mb-8">
-                                <h3 className="text-2xl font-bold mb-4">Your Professional Shield Against Bullying</h3>
+                                <h4 className="text-2xl font-bold mb-4">Your Professional Shield Against Bullying</h4>
                                 <p className="mb-4 opacity-80">
                                     When you engage SettleLoans, we send a formal legal notice to the bank's nodal officer and the recovery agency. This notice puts them on 'Strict Legal Warning' that any further harassment will result in a police complaint and an Ombudsman case. In 95% of cases, the harassment stops within 24 hours of our intervention, allowing for a peaceful negotiation to begin.
                                 </p>
@@ -537,35 +537,35 @@ export default function LoanPartiesDisputeResolutionPage() {
                         </section>
 
                         <section id="legal-reply-masterclass" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 text-center">Masterclass: Drafting the Perfect Legal Reply</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 text-center">Masterclass: Drafting the Perfect Legal Reply</h3>
                             <p className="mb-6 text-center text-gray-500">A well-crafted reply is your first line of defense. It creates a paper trail of your 'honesty and good faith'.</p>
                             <div className="grid md:grid-cols-2 gap-6 not-prose">
                                 <div className="bg-white p-6 rounded-2xl border border-[#DEDEDE] shadow-sm">
-                                    <h3 className="font-bold text-[#2E2E2E] mb-3">Audit the Claim</h3>
+                                    <h4 className="font-bold text-[#2E2E2E] mb-3">Audit the Claim</h4>
                                     <p className="text-sm text-gray-600">The first step is to verify the bank's numbers. If their claimed amount differs even by a few thousand from your records, it provides a technical ground for objection.</p>
                                 </div>
                                 <div className="bg-white p-6 rounded-2xl border border-[#DEDEDE] shadow-sm">
-                                    <h4 className="font-bold text-[#2E2E2E] mb-3">Explain the 'Reasonable Cause'</h4>
+                                    <h5 className="font-bold text-[#2E2E2E] mb-3">Explain the 'Reasonable Cause'</h5>
                                     <p className="text-sm text-gray-600">Don't just say you can't pay. Detail the medical emergencies, business losses, or legal disputes that caused the delay. Courts are more lenient when 'force majeure' events are proven.</p>
                                 </div>
                                 <div className="bg-white p-6 rounded-2xl border border-[#DEDEDE] shadow-sm">
-                                    <h4 className="font-bold text-[#2E2E2E] mb-3">Highlight Service Lapses</h4>
+                                    <h5 className="font-bold text-[#2E2E2E] mb-3">Highlight Service Lapses</h5>
                                     <p className="text-sm text-gray-600">Mention any instance where the bank failed to provide statements or ignored your previous letters. This shifts the 'burden of proof' back to the institution.</p>
                                 </div>
                                 <div className="bg-white p-6 rounded-2xl border border-[#DEDEDE] shadow-sm">
-                                    <h4 className="font-bold text-[#2E2E2E] mb-3">Propose a Solution</h4>
+                                    <h5 className="font-bold text-[#2E2E2E] mb-3">Propose a Solution</h5>
                                     <p className="text-sm text-gray-600">Always end with a willingness to resolve. Propose a meeting or a restructuring. This makes it harder for the bank to prove you are a 'wilful defaulter' in the future.</p>
                                 </div>
                             </div>
                         </section>
 
                         <section id="avoiding-litigation" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 text-center">Avoiding the Trap of Long Term Litigation</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 text-center">Avoiding the Trap of Long Term Litigation</h3>
                             <p className="mb-6">
                                 Litigation in India is a marathon, and the banks have more resources than you do. For them, a decade long court case is just another item on their balance sheet. For you, it is a source of constant stress and wasted life energy. This is why our primary goal is always to find a 'settlement' rather than just a 'judgment'.
                             </p>
                             <div className="bg-orange-50 border-l-4 border-orange-500 p-8 rounded-r-xl mb-8">
-                                <h3 className="text-xl font-bold text-orange-800 mb-4">The Settlement Mindset</h3>
+                                <h4 className="text-xl font-bold text-orange-800 mb-4">The Settlement Mindset</h4>
                                 <p className="text-orange-900/80 mb-4 text-sm font-bold">
                                     We look for 'win-win' scenarios. By using the DRT or the Ombudsman as a platform, we create a situation where the bank realizes that settling today is more profitable than litigating for the next 10 years. This strategic realism is what makes SettleLoans the leader in debt resolution.
                                 </p>
@@ -573,9 +573,9 @@ export default function LoanPartiesDisputeResolutionPage() {
                         </section>
 
                         <section id="settleloans-methodology" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">How SettleLoans Resolves Your Complex Disputes</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">How SettleLoans Resolves Your Complex Disputes</h3>
                             <div className="bg-[#2E2E2E] text-white p-8 rounded-2xl mb-8 border border-[#1F5EFF]/20">
-                                <h3 className="text-2xl font-bold mb-4">Our Resolution Roadmap</h3>
+                                <h4 className="text-2xl font-bold mb-4">Our Resolution Roadmap</h4>
                                 <ul className="space-y-4">
                                     <li className="flex items-start">
                                         <div className="flex-shrink-0 w-8 h-8 rounded-lg bg-[#1F5EFF] text-white flex items-center justify-center font-bold mr-4 mt-1">1</div>
@@ -606,7 +606,7 @@ export default function LoanPartiesDisputeResolutionPage() {
                         </section>
 
                         <section id="success-case-studies" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 text-center">Stories of Successfully Resolved Disputes</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 text-center">Stories of Successfully Resolved Disputes</h3>
                             <div className="grid md:grid-cols-2 gap-6 not-prose">
                                 {[
                                     {
@@ -644,7 +644,7 @@ export default function LoanPartiesDisputeResolutionPage() {
                                                 {s.name.charAt(0)}
                                             </div>
                                             <div>
-                                                <h3 className="font-bold text-[#2E2E2E]">{s.name}</h3>
+                                                <h4 className="font-bold text-[#2E2E2E]">{s.name}</h4>
                                                 <p className="text-xs text-gray-400">{s.loc}</p>
                                             </div>
                                             <div className="ml-auto text-yellow-400 text-sm">★★★★★</div>
@@ -659,7 +659,7 @@ export default function LoanPartiesDisputeResolutionPage() {
                         </section>
 
                         <section id="faqs" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Frequently Asked Questions</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Frequently Asked Questions</h3>
                             <div className="space-y-4 not-prose">
                                 {[
                                     { q: "What is a 'Reasoned Reply' from a bank?", a: "When you object to a SARFAESI notice, the bank must provide a 'Reasoned Reply'—a detailed explanation of why they are accepting or rejecting your points. A generic 'we reject your request' is not legally sufficient." },
@@ -698,7 +698,7 @@ export default function LoanPartiesDisputeResolutionPage() {
                         <div className="lg:hidden mt-16 mb-8">
                             <div className="bg-[#1F5EFF] text-white p-10 rounded-[40px] shadow-2xl relative overflow-hidden">
                                 <div className="absolute top-0 left-0 w-full h-full bg-[radial-gradient(circle_at_top_right,_var(--tw-gradient-stops))] from-white/20 to-transparent"></div>
-                                <h3 className="text-2xl font-black mb-6 relative z-10">The Ultimate Dispute Strategy</h3>
+                                <h4 className="text-2xl font-black mb-6 relative z-10">The Ultimate Dispute Strategy</h4>
                                 <p className="text-lg mb-8 relative z-10 font-medium">
                                     Facing a legal battle with your lender? Our focused dispute resolution services help you find a fair middle ground and avoid years of stressful litigation.
                                 </p>

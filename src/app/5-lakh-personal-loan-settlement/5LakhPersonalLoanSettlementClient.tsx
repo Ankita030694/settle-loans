@@ -370,9 +370,9 @@ export default function FiveLakhPersonalLoanSettlementClient() {
                 <Clock className="w-4 h-4" />
                 <span>2. Delinquency Timeline &amp; NPA Aging</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 Delinquency Timeline & NPA Dynamics for ₹5 Lakh Default
-              </h2>
+              </h3>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 When a borrower fails to service consecutive monthly EMIs on a ₹5 Lakh personal loan, the account progresses through tightly structured statutory stages mandated by the RBI Master Framework on Stressed Assets. Understanding this delinquency trajectory is critical, as the bank&apos;s willingness to offer deep debt waivers increases proportionally with the aging of the default on its quarterly balance sheet.
               </p>
@@ -434,19 +434,19 @@ export default function FiveLakhPersonalLoanSettlementClient() {
                 <Calculator className="w-4 h-4" />
                 <span>3. Haircut Formula &amp; Realistic Settlement Slabs</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 The Mathematical Haircut Formula
-              </h2>
+              </h3>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 A common misconception among distressed borrowers is that loan settlements are arbitrary or based solely on aggressive arguing with field recovery agents. In reality, every institutional settlement in India is governed by the <strong>RBI Master Direction on Compromise Settlements and Technical Write-offs (2023)</strong>. Bank Credit Approval Committees calculate compromise terms using a rigorous <em>Net Present Value (NPV) Recovery Formula</em>:
               </p>
               
               {/* Highlighted Statutory Callout Box */}
               <div className="bg-slate-50 border-l-4 border-[#1F5EFF] p-5 rounded-r-2xl my-6">
-                <h3 className="text-slate-900 font-bold text-base mb-2 flex items-center gap-2">
+                <h4 className="text-slate-900 font-bold text-base mb-2 flex items-center gap-2">
                   <Info className="w-5 h-5 text-[#1F5EFF]" />
                   Statutory Net Present Value (NPV) Valuation Rule
-                </h3>
+                </h4>
                 <p className="text-slate-700 text-sm leading-relaxed">
                   Under RBI compromise guidelines, the settlement amount offered by the borrower must be greater than or equal to the Net Present Value of the estimated net realisable recovery through legal proceedings, discounted at the bank&apos;s prevailing base lending rate over a 3-to-5 year litigation horizon minus anticipated judicial expenses.
                 </p>
@@ -507,9 +507,9 @@ export default function FiveLakhPersonalLoanSettlementClient() {
                 <ShieldAlert className="w-4 h-4" />
                 <span>4. Recovery Dynamics &amp; Anti-Harassment Law</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 Collection Agency Tactics in the ₹5 Lakh Bracket
-              </h2>
+              </h3>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Why is recovery pressure disproportionately intense for a ₹5 Lakh personal loan default? In Indian retail banking, loan defaults below ₹1 Lakh are frequently written off through automated software protocols, while defaults exceeding ₹25 Lakhs are assigned to institutional litigation departments. The ₹3 Lakh to ₹10 Lakh bracket, therefore, represents the primary revenue engine for empaneled <strong>Debt Recovery Agencies (DRAs)</strong>.
               </p>
@@ -533,9 +533,9 @@ export default function FiveLakhPersonalLoanSettlementClient() {
                       <span className="text-[10px] font-black uppercase tracking-widest text-blue-300 block">
                         Legal Defense &amp; Action Blueprint
                       </span>
-                      <h3 className="text-sm md:text-base font-black text-white leading-tight">
+                      <h4 className="text-sm md:text-base font-black text-white leading-tight">
                         5 Lakh Personal Loan Settlement Roadmap &amp; Haircut Matrix
-                      </h3>
+                      </h4>
                     </div>
                   </div>
                   <a
@@ -582,9 +582,9 @@ export default function FiveLakhPersonalLoanSettlementClient() {
                 <Layers className="w-4 h-4" />
                 <span>5. Step-by-Step Strategic Roadmap</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 Step-by-Step Strategic Roadmap to Settle a ₹5 Lakh Loan Compromise
-              </h2>
+              </h3>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Successfully settling an unsecured ₹5 Lakh personal loan requires disciplined execution across five chronological phases, shifting negotiation power from commission-driven recovery agents directly to the bank&apos;s Stressed Assets Resolution Branch (SARB) or Zonal Settlement Committee.
               </p>
@@ -602,9 +602,9 @@ export default function FiveLakhPersonalLoanSettlementClient() {
                 <Gavel className="w-4 h-4" />
                 <span>6. Legal Landscape &amp; Defense Protocols</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 Legal Exposure for ₹5 Lakh Defaults
-              </h2>
+              </h3>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 A primary source of anxiety for borrowers defaulting on a ₹5 Lakh loan is the fear of criminal prosecution. It is an immutable principle of Indian jurisprudence that pure financial inability to repay an unsecured debt does not constitute a criminal offence. The police have no statutory authority to register an FIR under Section 420 of the Indian Penal Code (or Section 318 of the Bharatiya Nyaya Sanhita, 2023) unless the lender can demonstrate fraudulent inducement at the inception of the loan.
               </p>
@@ -622,9 +622,9 @@ export default function FiveLakhPersonalLoanSettlementClient() {
                 <TrendingUp className="w-4 h-4" />
                 <span>7. Comparative Resolution Avenues</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 Bilateral OTS vs Lok Adalat for ₹5 Lakh Loan Exposure
-              </h2>
+              </h3>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Borrowers struggling with a ₹5 Lakh default have three distinct legal mechanisms available for resolving their debt obligations. Choosing the optimal avenue depends on current liquidity, future income stability, and immediate legal exposure.
               </p>
@@ -674,9 +674,9 @@ export default function FiveLakhPersonalLoanSettlementClient() {
                 <FileCheck className="w-4 h-4" />
                 <span>8. Sanction Letter Audit &amp; ₹0 NDC Mandate</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 OTS Sanction Letter Audit: Mandatory Clauses &amp; ₹0 NDC
-              </h2>
+              </h3>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 A critical vulnerability in retail loan settlements is making payments based on fraudulent or unauthorized assurances from collection executives. Over 30% of individual disputes arise when a borrower pays money into an account based on verbal promises, only to find the bank applied the funds toward partial overdue interest while keeping the ₹5 Lakh loan active.
               </p>
@@ -694,9 +694,9 @@ export default function FiveLakhPersonalLoanSettlementClient() {
                 <TrendingUp className="w-4 h-4" />
                 <span>9. CIBIL Score Trajectory &amp; Rehabilitation</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 CIBIL Score Impact & 24-Month Rebuilding Blueprint
-              </h2>
+              </h3>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Following the execution of a compromise settlement on a ₹5 Lakh personal loan, the lending institution updates the four RBI-licensed credit bureaus (TransUnion CIBIL, Experian, Equifax, and CRIF High Mark), replacing the delinquent status with a <strong>&apos;Settled&apos;</strong> remark and setting the outstanding balance to exactly <strong>₹0</strong>.
               </p>
@@ -714,9 +714,9 @@ export default function FiveLakhPersonalLoanSettlementClient() {
                 <ShieldCheck className="w-4 h-4" />
                 <span>10. Legal Defense &amp; Representation</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 Why Borrowers Choose SettleLoans for ₹5 Lakh Relief
-              </h2>
+              </h3>
               <p className="text-slate-700 leading-relaxed mb-6 text-base md:text-lg">
                 Negotiating an equitable compromise settlement on a ₹5 Lakh personal loan requires seasoned banking litigation counsel. The legal advocates and debt strategists at SettleLoans provide comprehensive protection: issuing immediate cease-and-desist notices to halt collection agent harassment, auditing bank provisioning buckets, and negotiating directly with Zonal Credit Committees to secure the highest permissible debt waiver under RBI frameworks.
               </p>
@@ -733,9 +733,9 @@ export default function FiveLakhPersonalLoanSettlementClient() {
                 <HelpCircle className="w-4 h-4" />
                 <span>11. Frequently Asked Questions</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
                 Frequently Asked Questions About Settling a ₹5 Lakh Personal Loan
-              </h2>
+              </h3>
 
               <div className="space-y-3">
                 {faqs.map((faq, index) => (
@@ -752,10 +752,10 @@ export default function FiveLakhPersonalLoanSettlementClient() {
 
             {/* Regulatory References & Official Sources Strip */}
             <div className="bg-slate-50 border border-slate-200 rounded-2xl p-6 my-10">
-              <h3 className="text-base font-bold text-slate-900 mb-4 flex items-center gap-2">
+              <h4 className="text-base font-bold text-slate-900 mb-4 flex items-center gap-2">
                 <Landmark className="w-5 h-5 text-[#1F5EFF]" />
                 Official Regulatory References &amp; Statutory Frameworks
-              </h3>
+              </h4>
               <ul className="space-y-3 text-xs text-slate-600">
                 <li className="flex items-start gap-2">
                   <ExternalLink className="w-4 h-4 text-[#1F5EFF] flex-shrink-0 mt-0.5" />
@@ -817,10 +817,10 @@ export default function FiveLakhPersonalLoanSettlementClient() {
 
             {/* Related Guides & Resources Strip (10 Topic Badges) */}
             <div className="bg-slate-50 border border-slate-200 rounded-2xl p-6 my-10">
-              <h3 className="text-base font-bold text-slate-900 mb-4 flex items-center gap-2">
+              <h4 className="text-base font-bold text-slate-900 mb-4 flex items-center gap-2">
                 <BookOpen className="w-5 h-5 text-[#1F5EFF]" />
                 Explore Related Banking &amp; Debt Resolution Guides
-              </h3>
+              </h4>
               <div className="flex flex-wrap gap-2.5">
                 <Link
                   href="/personal-loan-settlement-percentage"

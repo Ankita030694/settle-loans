@@ -583,9 +583,9 @@ export default function Page() {
                   <Clock className="w-4 h-4" />
                   <span>2. NPA Lifecycle &amp; Calcutta HC Norms</span>
                 </div>
-                <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+                <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                   NPA Delinquency Architecture &amp; Calcutta High Court Civil Protections
-                </h2>
+                </h3>
                 <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                   Achieving a favorable personal loan settlement in Kolkata requires a precise understanding of the Reserve Bank of India&apos;s Prudential Norms on Income Recognition, Asset Classification and Provisioning (IRACP). Commercial banks and NBFCs do not entertain substantial debt waivers during early delinquency; compromise settlements become commercially attractive to institutions only as a delinquent debt progresses through regulatory delinquency stages.
                 </p>
@@ -650,9 +650,9 @@ export default function Page() {
                   <Gavel className="w-4 h-4" />
                   <span>3. Bankshall &amp; Alipore Notice Defense</span>
                 </div>
-                <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+                <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                   Defending Legal Notices in Bankshall, Sealdah, and Alipore Magistrate Courts
-                </h2>
+                </h3>
                 <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                   When electronic National Automated Clearing House (NACH) mandates or physical post-dated security cheques bounce due to insufficient funds, banks and NBFCs issue formal statutory demand notices. These notices are issued under <strong>Section 25 of the Payment and Settlement Systems Act, 2007 (PSSA)</strong> or <strong>Section 138 of the Negotiable Instruments Act, 1881 (NI Act)</strong>, threatening criminal complaints across Kolkata&apos;s key judicial complexes: the City Civil &amp; Sessions Court (Bankshall Court), Alipore District &amp; Sessions Court, Sealdah Metropolitan Magistrate Court, and Howrah District Court.
                 </p>
@@ -673,9 +673,9 @@ export default function Page() {
                   <ShieldAlert className="w-4 h-4" />
                   <span>4. Section 171 Lien &amp; Account Protection</span>
                 </div>
-                <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+                <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                   Banker&apos;s Right of General Lien (Section 171) &amp; Ring-Fencing Subsistence Accounts
-                </h2>
+                </h3>
                 <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                   A critical legal risk that distressed borrowers in Kolkata must proactively manage is the <strong>Banker&apos;s Right of General Lien and Set-Off</strong> under Section 171 of the Indian Contract Act, 1872. This statutory doctrine grants a lending bank the legal right to unilaterally appropriate funds, freeze balances, or set off monies from any savings account, current account, fixed deposit, or salary account maintained within that exact same banking institution under the same Customer Information File (CIF) or PAN.
                 </p>
@@ -693,9 +693,9 @@ export default function Page() {
                   <Sparkles className="w-4 h-4" />
                   <span>5. Visual Resolution Blueprint</span>
                 </div>
-                <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+                <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                   Personal Loan Settlement Roadmap in Kolkata &amp; West Bengal
-                </h2>
+                </h3>
                 <p className="text-slate-700 leading-relaxed mb-6 text-base md:text-lg">
                   The visual roadmap below details the complete stage-by-stage debt resolution lifecycle in Kolkata—from initial delinquency and court defense in Bankshall/Alipore to RBI anti-harassment protections, BBD Bagh SAMB negotiations, and final ₹0 No Dues Certificate delivery.
                 </p>
@@ -722,9 +722,9 @@ export default function Page() {
                   <Percent className="w-4 h-4" />
                   <span>6. OTS Haircuts &amp; NPV Recovery Formula</span>
                 </div>
-                <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+                <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                   OTS Haircut Mechanics &amp; The Net Present Value (NPV) Recovery Benchmark
-                </h2>
+                </h3>
                 <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                   Under the Reserve Bank of India&apos;s Master Directions on Resolution of Stressed Assets and board-approved compromise settlement policies, banks evaluate One-Time Settlement proposals through structured financial economics rather than emotional appeals. While outsourced collection tele-callers assert that banks never offer discounts, Zonal Credit Committees along BBD Bagh and Strand Road evaluate every defaulted account against an institutional <strong>Net Present Value (NPV) Recovery Valuation Benchmark</strong>.
                 </p>
@@ -757,9 +757,9 @@ export default function Page() {
                   <ShieldCheck className="w-4 h-4" />
                   <span>7. Anti-Harassment &amp; Bengal Legal Shield</span>
                 </div>
-                <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+                <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                   Anti-Harassment Protections Under RBI Rules &amp; Bengal Money Lenders Act
-                </h2>
+                </h3>
                 <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                   Borrowers facing coercive debt collection in Kolkata and West Bengal are protected by a robust framework of statutory and regulatory safeguards. The <strong>RBI Master Circular on Recovery Agents and Conduct</strong> (2022) strictly prohibits lenders and their third-party agents from engaging in intimidating behavior. Collection agents are barred from calling borrowers before 8:00 AM or after 7:00 PM, calling continuously throughout the day, using abusive language, threatening physical violence, or contacting relatives, friends, or employers.
                 </p>
@@ -777,59 +777,59 @@ export default function Page() {
                   <Briefcase className="w-4 h-4" />
                   <span>8. 5-Stage BBD Bagh Resolution Protocol</span>
                 </div>
-                <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+                <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                   The 5-Stage Advocate Settlement Protocol at BBD Bagh / Strand Road Zonal Desks
-                </h2>
+                </h3>
                 <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                   Navigating institutional settlement requires bypassing third-party collection callers who lack credit write-off authority, and engaging directly with the bank&apos;s authorized decision-makers at Stressed Assets Management Branches (SAMB) located along BBD Bagh and Strand Road. SettleLoans executes an advocate-led, 5-stage settlement protocol:
                 </p>
 
                 <div className="space-y-4 my-6">
                   <div className="p-4 bg-slate-50 border border-slate-200 rounded-xl">
-                    <h3 className="font-bold text-slate-900 text-sm mb-1 flex items-center gap-2">
+                    <h4 className="font-bold text-slate-900 text-sm mb-1 flex items-center gap-2">
                       <span className="w-6 h-6 rounded-full bg-[#1F5EFF] text-white text-xs flex items-center justify-center font-bold">1</span>
                       <span>Forensic Debt Audit &amp; Legal Scrutiny</span>
-                    </h3>
+                    </h4>
                     <p className="text-xs sm:text-sm text-slate-600 leading-relaxed">
                       Our legal team analyzes loan agreements, statements of accounts, and penalty ledgers, stripping away unlawful compounding charges, insurance mis-selling add-ons, and unjustified penal levies to establish true principal liability.
                     </p>
                   </div>
 
                   <div className="p-4 bg-slate-50 border border-slate-200 rounded-xl">
-                    <h4 className="font-bold text-slate-900 text-sm mb-1 flex items-center gap-2">
+                    <h5 className="font-bold text-slate-900 text-sm mb-1 flex items-center gap-2">
                       <span className="w-6 h-6 rounded-full bg-[#1F5EFF] text-white text-xs flex items-center justify-center font-bold">2</span>
                       <span>Hardship Dossier &amp; Cease-and-Desist Representation</span>
-                    </h4>
+                    </h5>
                     <p className="text-xs sm:text-sm text-slate-600 leading-relaxed">
                       We compile certified documentary proof of genuine insolvency (medical certificates, salary reduction records, termination notices) and issue statutory notices under RBI Master Directions to halt all recovery agent harassment.
                     </p>
                   </div>
 
                   <div className="p-4 bg-slate-50 border border-slate-200 rounded-xl">
-                    <h4 className="font-bold text-slate-900 text-sm mb-1 flex items-center gap-2">
+                    <h5 className="font-bold text-slate-900 text-sm mb-1 flex items-center gap-2">
                       <span className="w-6 h-6 rounded-full bg-[#1F5EFF] text-white text-xs flex items-center justify-center font-bold">3</span>
                       <span>Court Representation &amp; Section 138/25 Defense</span>
-                    </h4>
+                    </h5>
                     <p className="text-xs sm:text-sm text-slate-600 leading-relaxed">
                       Empanelled Kolkata advocates enter appearances under Vakalatnama in Bankshall, Alipore, or Sealdah courts, secure bail without custodial risk, and move applications under Section 147 NI Act to refer the matter to Lok Adalat.
                     </p>
                   </div>
 
                   <div className="p-4 bg-slate-50 border border-slate-200 rounded-xl">
-                    <h4 className="font-bold text-slate-900 text-sm mb-1 flex items-center gap-2">
+                    <h5 className="font-bold text-slate-900 text-sm mb-1 flex items-center gap-2">
                       <span className="w-6 h-6 rounded-full bg-[#1F5EFF] text-white text-xs flex items-center justify-center font-bold">4</span>
                       <span>SAMB Zonal Negotiations &amp; 40%–70% OTS Structuring</span>
-                    </h4>
+                    </h5>
                     <p className="text-xs sm:text-sm text-slate-600 leading-relaxed">
                       Our advocates negotiate directly with Zonal Stressed Assets Resolution Committees along BBD Bagh, structuring customized one-time lump-sum or structured installment settlements with maximum principal write-offs.
                     </p>
                   </div>
 
                   <div className="p-4 bg-slate-50 border border-slate-200 rounded-xl">
-                    <h4 className="font-bold text-slate-900 text-sm mb-1 flex items-center gap-2">
+                    <h5 className="font-bold text-slate-900 text-sm mb-1 flex items-center gap-2">
                       <span className="w-6 h-6 rounded-full bg-[#1F5EFF] text-white text-xs flex items-center justify-center font-bold">5</span>
                       <span>Sanction Letter Audit, Direct Payment &amp; ₹0 NDC Delivery</span>
-                    </h4>
+                    </h5>
                     <p className="text-xs sm:text-sm text-slate-600 leading-relaxed">
                       Every sanction letter is forensically audited to ensure full debt extinguishment before direct payment into the loan account, followed by mandatory ₹0 No Dues Certificate issuance within 30 days under RBI Circular RBI/2023-24/60.
                     </p>
@@ -843,9 +843,9 @@ export default function Page() {
                   <FileCheck className="w-4 h-4" />
                   <span>9. Sanction Letter Audit &amp; CIBIL Relief</span>
                 </div>
-                <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+                <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                   Sanction Letter Forensics, Mandatory ₹0 NDC &amp; Credit Score Rehabilitation
-                </h2>
+                </h3>
                 <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                   A common pitfall for borrowers in Kolkata is falling victim to recovery agent fraud—remitting partial funds based on verbal promises or informal WhatsApp messages, only to discover that the bank credited the amount toward penal interest while keeping the full loan active. A legally binding compromise settlement requires an official, verifiable <strong>Settlement Sanction Letter</strong> issued on the bank&apos;s corporate letterhead, digitally signed by an authorized Zonal Credit Manager from the bank&apos;s Kolkata SAMB office.
                 </p>
@@ -863,9 +863,9 @@ export default function Page() {
                   <Scale className="w-4 h-4" />
                   <span>10. Comparative Resolution Matrix</span>
                 </div>
-                <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+                <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                   Comparing Debt Resolution Pathways in Kolkata
-                </h2>
+                </h3>
                 <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                   Borrowers facing personal loan defaults in Kolkata must weigh their options carefully. The table below illustrates the stark contrast between professional advocate representation, unguided individual attempts, and unregulated collection agency interactions:
                 </p>
@@ -922,9 +922,9 @@ export default function Page() {
                   <HelpCircle className="w-4 h-4" />
                   <span>12. Frequently Asked Questions</span>
                 </div>
-                <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
+                <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
                   Frequently Asked Questions on Personal Loan Settlement in Kolkata
-                </h2>
+                </h3>
 
                 <div className="space-y-4">
                   {(jsonLdGraph["@graph"][4] as any).mainEntity.map((faq: any, index: number) => (
@@ -951,10 +951,10 @@ export default function Page() {
 
               {/* 5 Official Regulatory Links */}
               <section className="bg-slate-50 border border-slate-200 rounded-2xl p-6 mb-8">
-                <h3 className="text-sm font-bold text-slate-900 mb-3 uppercase tracking-wider flex items-center gap-2">
+                <h4 className="text-sm font-bold text-slate-900 mb-3 uppercase tracking-wider flex items-center gap-2">
                   <ExternalLink className="w-4 h-4 text-[#1F5EFF]" />
                   <span>Official Statutory &amp; Regulatory References</span>
-                </h3>
+                </h4>
                 <div className="grid grid-cols-1 sm:grid-cols-2 gap-3 text-xs">
                   <a
                     href="https://www.rbi.org.in"
@@ -1006,9 +1006,9 @@ export default function Page() {
 
               {/* 10 Related Guide Badges */}
               <section className="border-t border-slate-200 pt-8 mb-8">
-                <h3 className="text-sm font-bold text-slate-900 mb-4 uppercase tracking-wider">
+                <h4 className="text-sm font-bold text-slate-900 mb-4 uppercase tracking-wider">
                   Related Loan Settlement &amp; Legal Defense Guides
-                </h3>
+                </h4>
                 <div className="flex flex-wrap gap-2">
                   <Link
                     href="/sbi-personal-loan-settlement"

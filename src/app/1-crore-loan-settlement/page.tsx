@@ -230,14 +230,14 @@ export default function OneCroreLoanSettlement() {
                         </section>
 
                         <section id="head-office-approval" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                                 Zonal & Head Office Approvals: <span className="text-[#1F5EFF]">The Decision Chain</span>
-                            </h2>
+                            </h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 While a 50 lakh settlement can be approved at the Zonal level, a 1 Crore settlement often requires the signature of the General Manager (GM) or even the Management Committee (MC) at the bank's Head Office. This adds layers of scrutiny to your 'Ability to Pay'.
                             </p>
                             <div className="bg-gray-50 p-8 rounded-2xl border border-gray-200 mb-8">
-                                <h3 className="text-xl font-bold mb-4 italic text-center underline decoration-[#1F5EFF] underline-offset-4">Step-by-Step Approval Protocol for Crores</h3>
+                                <h4 className="text-xl font-bold mb-4 italic text-center underline decoration-[#1F5EFF] underline-offset-4">Step-by-Step Approval Protocol for Crores</h4>
                                 <div className="space-y-6">
                                     <div className="bg-white p-6 rounded-xl border border-gray-100">
                                         <p className="font-bold text-[#1F5EFF] mb-2 uppercase tracking-widest text-xs">Stage 1: Asset Valuation</p>
@@ -256,26 +256,26 @@ export default function OneCroreLoanSettlement() {
                         </section>
 
                         <section id="corporate-debt" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                                 Corporate Debt Restructuring <span className="text-black">(CDR) & Settlement</span>
-                            </h2>
+                            </h3>
                             <p className="text-lg leading-relaxed mb-6">For business owners, a 1 Crore default souvent involves multiple products: CC limits, Term Loans, and BG/LC facilities. Corporate Debt Restructuring is a mechanism that allows you to resize these debts into a single, manageable package.</p>
                             <p className="text-lg leading-relaxed mb-6 italic">If restructuring is not viable, a 'Corporate Settlement' is the next step. This involves negotiating a 'Haircut' on the total principal. For amounts above 1 Crore, haircuts can range from 30% to 50% depending on the liquidity of the underlying assets.</p>
                             <p className="text-lg leading-relaxed mb-6">Restructuring often involves 'Funding Interest Term Loans' (FITL) where your overdue interest is converted into a new loan with a lower interest rate, providing you breathing room to restart your operations. However, if the business model is broken beyond repair, a clean break through high-value settlement is the only responsible way forward.</p>
                         </section>
 
                         <section id="sarfaesi-defense" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                                 SARFAESI Act Defense: <span className="text-black">Protecting 1 Crore Assets</span>
-                            </h2>
+                            </h3>
                             <p className="text-lg leading-relaxed mb-6">The SARFAESI Act is the most powerful weapon in a bank's arsenal. For a 1 Crore loan, they will not hesitate to issue a 'Symbolic Possession' notice. However, the Act itself has 'Safety Valves' for the borrower.</p>
                             <div className="grid grid-cols-1 md:grid-cols-2 gap-6 mb-8">
                                 <div className="p-6 bg-[#2E2E2E] text-white rounded-2xl shadow-xl border-t-4 border-[#1F5EFF]">
-                                    <h3 className="font-black text-[#1F5EFF] mb-3 text-lg">The Section 17 Appeal</h3>
+                                    <h4 className="font-black text-[#1F5EFF] mb-3 text-lg">The Section 17 Appeal</h4>
                                     <p className="text-sm opacity-80 leading-relaxed">You can challenge the bank's recovery action in the DRT under Section 17. If the bank has made even a minor procedural error in their notices, the entire recovery process can be stalled for years.</p>
                                 </div>
                                 <div className="p-6 bg-[#2E2E2E] text-white rounded-2xl shadow-xl border-t-4 border-[#1F5EFF]">
-                                    <h4 className="font-black text-[#1F5EFF] mb-3 text-lg">Redemption Rights</h4>
+                                    <h5 className="font-black text-[#1F5EFF] mb-3 text-lg">Redemption Rights</h5>
                                     <p className="text-sm opacity-80 leading-relaxed">Under Section 13(8), you have the right to redeem the property by paying the dues anytime before the publication of the auction notice. This is a critical window to finalize a settlement.</p>
                                 </div>
                             </div>
@@ -283,22 +283,22 @@ export default function OneCroreLoanSettlement() {
                         </section>
 
                         <section id="nclt-ibc" className="scroll-mt-32 mb-16 text-center">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                                 NCLT & IBC: <span className="text-[#1F5EFF]">The Red Line for Crores</span>
-                            </h2>
+                            </h3>
                             <p className="text-lg leading-relaxed mb-6">If your business is a Private Limited company, a 1 Crore default can push you into the National Company Law Tribunal (NCLT) under the Insolvency and Bankruptcy Code (IBC). This is the 'Nuclear Option'. Once IBC is triggered, you lose control of your company to a Resolution Professional (RP).</p>
                             <div className="bg-red-50 p-8 rounded-2xl border border-red-100 mb-8">
-                                <h3 className="text-xl font-bold text-red-700 mb-4 italic uppercase tracking-tighter">CRITICAL WARNING: The IBC Threshold</h3>
+                                <h4 className="text-xl font-bold text-red-700 mb-4 italic uppercase tracking-tighter">CRITICAL WARNING: The IBC Threshold</h4>
                                 <p className="text-red-900 mb-4 opacity-80 italic">The minimum default threshold for IBC is currently 1 Crore. This means that if your default is even slightly above this mark, any creditor can drag your company to NCLT. Settling the debt before an IBC petition is admitted is mathematically the only way to save your corporate identity.</p>
                             </div>
                             <p className="text-lg leading-relaxed mb-6 uppercase font-black text-gray-500">The 90% Rule: Even if your company is in NCLT, you can still settle. Under Section 12A, if you reach a settlement with 90% of your creditors (by value), you can exit the IBC process and reclaim your business. This is high-stakes negotiation that requires professional legal intervention at every step.</p>
                         </section>
 
                         <section id="multi-bank" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight text-[#1F5EFF]">Navigating Multi-Bank Exposure: The Consortium Challenge</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight text-[#1F5EFF]">Navigating Multi-Bank Exposure: The Consortium Challenge</h3>
                             <p className="text-lg leading-relaxed mb-6">A 1 Crore default rarely happens in isolation. Often, it involves a 'Consortium' of lenders or multiple 'Multiple Banking Arrangements' (MBA). In such cases, one bank acts as the 'Lead Bank'. Negotiation becomes exponentially complex because all banks must agree on the 'Pari-Passu' charge (equal footing) on your assets.</p>
                             <div className="bg-indigo-50 p-8 rounded-3xl border border-indigo-100 mb-8 italic">
-                                <h3 className="text-xl font-bold mb-4">Strategic Moves for Consortium Defaults</h3>
+                                <h4 className="text-xl font-bold mb-4">Strategic Moves for Consortium Defaults</h4>
                                 <ul className="space-y-4">
                                     <li><strong>The JLF Mechanism:</strong> Banks usually form a Joint Lenders Forum (JLF) to decide on a 'Correction Action Plan' (CAP). You must present your settlement offer to the JLF coordinator, not just your branch manager.</li>
                                     <li><strong>Inter-Creditor Agreements (ICA):</strong> Recent RBI circulars empower the lead bank to push a settlement if 66% of lenders (by value) agree. This is a vital window for a 1 Crore settlement—you don't need a 100% consensus if the majority is on board.</li>
@@ -308,54 +308,54 @@ export default function OneCroreLoanSettlement() {
                         </section>
 
                         <section id="international-recovery" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">Can 1 Crore Debts Follow You Abroad?</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">Can 1 Crore Debts Follow You Abroad?</h3>
                             <p className="text-lg leading-relaxed mb-6">Many high-value borrowers consider moving abroad after a default. While debt is civil, for amounts above 1 Crore, banks have become increasingly aggressive. They can apply for a 'Lookout Circular' (LOC) through a court if they suspect 'Willful Default' or 'Asset Stripping'.</p>
                             <p className="text-lg leading-relaxed mb-6 italic text-red-600 font-bold">"Warning: While you can travel for work, a pending 1 Crore lawsuit can complicate visa renewals in certain jurisdictions if the bank manages to convert the civil default into a criminal 'Breach of Trust' case."</p>
                             <p className="text-lg leading-relaxed mb-6">The best strategy is to settle the debt before moving. A 'Settled' CIBIL status, despite being low, is infinitely better than an active 'Red Corner' type notice or a fraud tag linked to your passport. Professional settlement allows you to preserve your global mobility.</p>
                         </section>
 
                         <section id="rbi-directives" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight text-center">RBI Directives & Bank Schemes: The 'Nirbandh' Factor</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight text-center">RBI Directives & Bank Schemes: The 'Nirbandh' Factor</h3>
                             <p className="text-lg leading-relaxed mb-6">Every year, public sector banks launch specific OTS schemes like 'Nirbandh' or 'Rinn Mukti'. For 1 Crore loans, these schemes offer a predefined 'Settlement Formula'. For example, the formula might be 'Principal + 10% of standard interest'.</p>
                             <div className="bg-gray-200 p-8 rounded-2xl mb-8">
-                                <h3 className="text-xl font-bold mb-4">How to Qualify for Bank-Specific Schemes</h3>
+                                <h4 className="text-xl font-bold mb-4">How to Qualify for Bank-Specific Schemes</h4>
                                 <p className="mb-4 text-gray-700">These schemes are usually valid for a short window (30 to 60 days). To qualify for a 1 Crore waiver, your account must have been an NPA for at least 2 years in most cases. We track these secret bank circulars and alert you when your specific bank opens a high-value waiver window.</p>
                             </div>
                         </section>
 
                         <section id="psychological-resilience" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">The Psychological Fortress: Managing Crore-Scale Anxiety</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">The Psychological Fortress: Managing Crore-Scale Anxiety</h3>
                             <p className="text-lg leading-relaxed mb-6">Living with a 1 Crore debt is a test of mental endurance. The constant threat of legal action from Zonal offices and the fear of social stigma can be overwhelming. However, resilience is built on 'Actionable Knowledge'.</p>
                             <p className="text-lg leading-relaxed mb-6 italic font-medium">When you have a legal shield and a professional negotiator between you and the bank, the anxiety levels drop by 80%. You no longer feel like a victim; you feel like a participant in a strategic financial process. Remember, a bank is a business, and your default is just an entry in their 'Loss' column. They want to move on as much as you do.</p>
                         </section>
 
                         <section id="bank-auditors" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">Inside the Zonal Committee: The Bank Auditor's Lens</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">Inside the Zonal Committee: The Bank Auditor's Lens</h3>
                             <p className="text-lg leading-relaxed mb-6">When your 1 Crore settlement offer reaches the Zonal Office, it is first reviewed by a 'Concurrent Auditor' or a 'Credit Risk Officer'. Their job is not to be kind; it is to ensure the bank doesn't get sued by the CBI or CAG for 'Sacrificing Bank Interest'.</p>
                             <p className="text-lg leading-relaxed mb-6 italic">To pass this audit, your proposal must prove that the 'Net Realizable Value' (NRV) of your assets is lower than the settlement amount you are offering today. Auditors love 'Depreciation Reports'. If you are settling a 1 Crore machinery loan, showing that the machinery is now obsolete and has zero resale value is the most powerful argument you can make.</p>
                         </section>
 
                         <section id="alr-math" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                                 The Asset-to-Liability Ratio (ALR) <span className="text-[#1F5EFF]">in Crore Settlements</span>
-                            </h2>
+                            </h3>
                             <p className="text-lg leading-relaxed mb-6">Banks use a internal metric called the ALR to decide on high-value haircuts. For a 1 Crore debt, if your total verifiable assets are only 40 lakhs, your ALR is 0.4. In such cases, banks know that even if they win in court, they can only recover 40 lakhs after 7 years of litigation.</p>
                             <p className="text-lg leading-relaxed mb-6">By offering 45 lakhs today, you are essentially providing them a 112% recovery on your verifiable net worth. This 'Mathematical Superiority' of a settlement over recovery is what professional negotiators use to secure approvals from Zonal General Managers.</p>
                         </section>
 
                         <section id="corporate-cibil" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">Corporate vs. Personal CIBIL: The Double Default</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">Corporate vs. Personal CIBIL: The Double Default</h3>
                             <p className="text-lg leading-relaxed mb-6">For 1 Crore business loans, the default is reported both on your Personal CIBIL and your company's 'Commercial CIBIL' (Rank/CMR). A settlement will result in a 'Settled' tag on both records.</p>
                             <p className="text-lg leading-relaxed mb-6 italic">While this prevents you from getting fresh bank finance for the same company, it does not prevent you from starting a new entity with a clean slate, provided you were not tagged as a 'Willful Defaulter'. High-value settlement is the only way to remove the 'Suit Filed' or 'NPA' tags that prevent you from even opening a simple current account in many private banks.</p>
                         </section>
 
                         <section id="zonal-playbook" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                                 The Zonal Manager's Playbook: <span className="text-black">Hidden Bank Dynamics</span>
-                            </h2>
+                            </h3>
                             <p className="text-lg leading-relaxed mb-6">At the 1 Crore level, the Zonal Manager (ZM) is the kingmaker. However, the ZM is also under immense pressure from the RBI and the Head Office to reduce the bank's Gross NPA ratio. Understanding this pressure is your greatest leverage.</p>
                             <div className="bg-gray-50 p-8 rounded-2xl border border-gray-200 mb-8 italic">
-                                <h3 className="text-xl font-bold mb-4">Insider Secrets for Crore-Scale Negotiation</h3>
+                                <h4 className="text-xl font-bold mb-4">Insider Secrets for Crore-Scale Negotiation</h4>
                                 <ul className="space-y-4">
                                     <li><strong>The March/September Deadline:</strong> Banks are most desperate to settle in March (Year-end) and September (Half-year end). A 1 Crore settlement offer made in February has a 40% higher chance of approval than one made in May.</li>
                                     <li><strong>Provisioning Reversal:</strong> When a 1 Crore loan is settled, the bank 'reverses' the massive amount of capital it had to set aside. This directly improves the bank's quarterly profit, making you a favorite of the finance department even if the recovery department is angry.</li>
@@ -364,33 +364,33 @@ export default function OneCroreLoanSettlement() {
                         </section>
 
                         <section id="asset-shielding" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                                 Strategic Asset Shielding: <span className="text-black">Protecting the Family Home</span>
-                            </h2>
+                            </h3>
                             <p className="text-lg leading-relaxed mb-6">The biggest fear of a 1 Crore debtor is losing their primary residence. If your home is collateral, the SARFAESI fire is real. However, professional defense focuses on 'Procedural Delays' and 'Value Equity'.</p>
                             <p className="text-lg leading-relaxed mb-6 italic">If the property value is 2 Crores and the debt is 1 Crore, the bank has 100% security. They will not settle easily. In this case, we help you negotiate a 'Balance Transfer' to a stressed-asset fund or a 'Consent Sale' where you sell the property at market value, pay the bank, and keep the surplus. This is always better than a distress auction where the property might sell for 1.2 Crores, leaving you with nothing.</p>
                         </section>
 
                         <section id="cibil-forensics" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                                 CIBIL Forensics: <span className="text-black">Life After a 1 Crore Write-off</span>
-                            </h2>
+                            </h3>
                             <p className="text-lg leading-relaxed mb-6">A 1 Crore settlement will tank your CIBIL score to the 500s. Recovery is a 3-year journey. The key is in 'Data Cleaning'. Once the settlement is done, you must audit your CIBIL every 3 months to ensure the bank has stopped reporting the 'Interest Accrual'.</p>
                             <p className="text-lg leading-relaxed mb-6 italic">Many banks continue to report interest even after settlement, which is illegal. We assist you in filing disputes with CIBIL and the Banking Ombudsman to ensure your record is as clean as a 'Settled' status allows.</p>
                         </section>
 
                         <section id="guarantor-defense" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                                 Guarantor Defense: <span className="text-black">When the Bank Targets Your Family</span>
-                            </h2>
+                            </h3>
                             <p className="text-lg leading-relaxed mb-6">In 1 Crore loans, banks almost always take a 'Personal Guarantee' from family members or business partners. When you default, the bank doesn't just sue you; they sue the guarantor. However, the 'Discharge of Guarantor' under the Indian Contract Act is a powerful defense.</p>
                             <p className="text-lg leading-relaxed mb-6 italic">If the bank has varied the terms of the 1 Crore loan (like changing the interest rate or tenure) without the express consent of the guarantor, the guarantor may be legally discharged. A professional settlement must include a 'Full and Final Release' for both the borrower and the guarantor to prevent the bank from chasing your family after you have settled.</p>
                         </section>
 
                         <section id="roadmap-10" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight text-center">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight text-center">
                                 The 10-Step Ultra-High Value <span className="text-[#1F5EFF]">Settlement Roadmap</span>
-                            </h2>
+                            </h3>
                             <div className="bg-[#2E2E2E] p-10 rounded-[40px] text-white shadow-2xl">
                                 <ol className="space-y-6 italic font-medium">
                                     <li className="flex gap-4"><span className="text-[#1F5EFF] font-black">01.</span> Stop all interest accrual by declaring an 'Inability to Pay' formally.</li>
@@ -408,25 +408,25 @@ export default function OneCroreLoanSettlement() {
                         </section>
 
                         <section id="success-stories" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                                 High-Level Success Stories: <span className="text-black">Resolving 1 Crore+ Debts</span>
-                            </h2>
+                            </h3>
                             <div className="space-y-8">
                                 <div className="bg-white p-8 rounded-2xl border border-gray-200 shadow-sm border-l-8 border-[#1F5EFF]">
-                                    <h3 className="text-xl font-bold mb-4 underline decoration-[#1F5EFF]">Case Study 1: The Manufacturing Unit Stay</h3>
+                                    <h4 className="text-xl font-bold mb-4 underline decoration-[#1F5EFF]">Case Study 1: The Manufacturing Unit Stay</h4>
                                     <p className="text-gray-700 mb-4 italic">A steel fabrication plant in Pune had a 1.2 Crore NPA. The bank moved for possession. We identified a flaw in the Section 13(4) notice and obtained a stay in the DRT. With the bank's recovery halted, they agreed to a settlement of 75 lakhs paid over 6 months.</p>
                                 </div>
                                 <div className="bg-white p-8 rounded-2xl border border-gray-200 shadow-sm border-l-8 border-[#1F5EFF]">
-                                    <h4 className="text-xl font-bold mb-4 underline decoration-[#1F5EFF]">Case Study 2: Exit from IBC Pre-Admission</h4>
+                                    <h5 className="text-xl font-bold mb-4 underline decoration-[#1F5EFF]">Case Study 2: Exit from IBC Pre-Admission</h5>
                                     <p className="text-gray-700 mb-4 italic">A tech firm with a 1.05 Crore default was threatened with NCLT by an NBFC. We negotiated a settlement of 65 lakhs just 48 hours before the admission of the petition, saving the directors from being ousted.</p>
                                 </div>
                             </div>
                         </section>
 
                         <section id="doc-checklist" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                                 Ultra-High Value <span className="text-black">Documentation Protocol</span>
-                            </h2>
+                            </h3>
                             <p className="text-lg leading-relaxed mb-6 italic">When dealing with Head Office committees, your 'Evidence File' must be impeccable. A single missing document can lead to an automatic rejection by a risk officer who has never met you.</p>
                             <div className="bg-[#2E2E2E] p-8 rounded-3xl text-white">
                                 <ul className="space-y-4 font-medium italic">
@@ -441,7 +441,7 @@ export default function OneCroreLoanSettlement() {
                         </section>
 
                         <section id="faqs" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight text-center underline decoration-[#1F5EFF] underline-offset-8">1 Crore Settlement: Master FAQ</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight text-center underline decoration-[#1F5EFF] underline-offset-8">1 Crore Settlement: Master FAQ</h3>
                             <div className="space-y-6">
                                 {[
                                     { q: "Is it possible to settle a 1 Crore loan?", a: "Yes, but it requires Zonal or Head office approval. It is a technical process involving multiple committees and risk audits." },
@@ -461,7 +461,7 @@ export default function OneCroreLoanSettlement() {
                                     { q: "What is the status on my CIBIL after settlement?", a: "It will show as 'Settled'. This will impact your ability to get fresh loans for a few years, but it stops the mounting debt immediately." }
                                 ].map((faq, i) => (
                                     <div key={i} className="p-6 bg-white rounded-2xl border border-gray-100 shadow-sm italic hover:shadow-md transition-shadow">
-                                        <h3 className="font-black text-[#2E2E2E] mb-2">{faq.q}</h3>
+                                        <h4 className="font-black text-[#2E2E2E] mb-2">{faq.q}</h4>
                                         <p className="text-gray-600 leading-relaxed text-sm">{faq.a}</p>
                                     </div>
                                 ))}
@@ -469,7 +469,7 @@ export default function OneCroreLoanSettlement() {
                         </section>
 
                         <section className="scroll-mt-32 mb-12 text-center bg-gray-50 p-12 rounded-[40px] border border-gray-100 italic">
-                            <h2 className="text-3xl md:text-5xl font-black text-[#2E2E2E] mb-8 leading-tight italic">Your Crore-Scale Roadmap to Peace</h2>
+                            <h3 className="text-3xl md:text-5xl font-black text-[#2E2E2E] mb-8 leading-tight italic">Your Crore-Scale Roadmap to Peace</h3>
                             <p className="text-xl leading-relaxed mb-10 max-w-2xl mx-auto">Don't let the magnitude of 1 Crore paralyze you. Strategic action, legal shielding, and professional negotiation are the only ways out. Start your resolution journey today.</p>
                             <Link href="/contact" className="inline-block bg-[#1F5EFF] text-white font-black py-5 px-12 rounded-2xl hover:scale-105 transition-all text-2xl shadow-2xl">
                                 Consult a UHV Expert
@@ -477,7 +477,7 @@ export default function OneCroreLoanSettlement() {
                         </section>
 
                         <section id="success-stories" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 text-center">Real Stories of Freedom</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 text-center">Real Stories of Freedom</h3>
                             <div className="grid md:grid-cols-2 gap-6 not-prose">
                                 {[
                                     {
@@ -515,7 +515,7 @@ export default function OneCroreLoanSettlement() {
                                                 {review.name.charAt(0)}
                                             </div>
                                             <div>
-                                                <h3 className="font-bold text-[#2E2E2E]">{review.name}</h3>
+                                                <h4 className="font-bold text-[#2E2E2E]">{review.name}</h4>
                                                 <p className="text-xs text-gray-400">{review.loc}</p>
                                             </div>
                                             <div className="ml-auto text-yellow-400 text-sm">★★★★★</div>
@@ -530,7 +530,7 @@ export default function OneCroreLoanSettlement() {
                         </section>
 
                         <section className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">Conclusion: Reclaiming Your Path</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">Conclusion: Reclaiming Your Path</h3>
                             <p className="text-lg leading-relaxed mb-6">A 1 Crore debt is a storm, but it is not the end of the world. With strategic legal defense and data-backed negotiation, you can settle your dues and rebuild your financial dignity. The first step is to stop hiding and start negotiating from a position of knowledge.</p>
                             <div className="bg-[#1F5EFF]/5 p-8 rounded-3xl border border-[#1F5EFF]/20 text-center">
                                 <p className="text-xl font-bold text-[#2E2E2E] mb-6 italic">Don't let a 1 Crore default define your future. Speak to an expert who understands Head Office politics.</p>

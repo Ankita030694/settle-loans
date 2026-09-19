@@ -119,7 +119,7 @@ const jsonLdGraph = {
       "@type": "Article",
       "@id": "https://www.settleloans.in/police-complaint-format-recovery-agent-harassment#article",
       "headline": "Police Complaint Against Recovery Agent Format: Legal Draft, IPC Sections & RBI Safeguards",
-      "description": "An exhaustive statutory analysis of legal remedies against loan recovery agent harassment in India. Examines Indian Penal Code Sections 506, 509, 383, 441, RBI Fair Practices Code, police station filing procedures, and debt settlement negotiation strategies.",
+      "description": "An exhaustive statutory analysis of legal remedies against loan recovery agent harassment in India. Examines Indian Penal Code Sections 506, 509, 383, 441, RBI Fair Practices Code, police station filing procedures, and debt settlement talks strategies.",
       "image": "https://www.settleloans.in/images/infographics/police-complaint-format-recovery-agent-harassment.jpg",
       "datePublished": "2026-08-25T10:00:00+05:30",
       "dateModified": "2026-08-25T10:00:00+05:30",
@@ -147,7 +147,7 @@ const jsonLdGraph = {
       "@type": "FinancialService",
       "@id": "https://www.settleloans.in/police-complaint-format-recovery-agent-harassment#service",
       "name": "SettleLoans - Legal Debt Defense & Harassment Protection Advisory",
-      "description": "Comprehensive legal defense against recovery agent harassment, unlawful criminal intimidation, unauthorized workplace intrusions, and deceptive collection practices, combined with structured One-Time Settlement (OTS) negotiations.",
+      "description": "Comprehensive legal defense against recovery agent harassment, unlawful criminal intimidation, unauthorized workplace intrusions, and deceptive collection practices, combined with structured One-Time Settlement (OTS) talks.",
       "url": "https://www.settleloans.in/police-complaint-format-recovery-agent-harassment",
       "image": "https://www.settleloans.in/images/infographics/police-complaint-format-recovery-agent-harassment.jpg",
       "telephone": "+91-99999-99999",
@@ -269,7 +269,7 @@ const jsonLdGraph = {
           "name": "What should I do if the local Police Station (SHO) refuses to accept my complaint?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "If the Station House Officer (SHO) refuses to register your complaint, you should immediately send the written complaint via Registered Post with Acknowledgement Due (RPAD) to the Superintendent of Police (SP) or Deputy Commissioner of Police (DCP) under Section 154(3) CrPC (Section 173(4) BNSS). If inaction persists, your advocate can file an application before the Judicial Magistrate under Section 156(3) CrPC (Section 175(3) BNSS) to direct police investigation."
+            "text": "If the Station House Officer (SHO) refuses to register your complaint, you should immediately send the written complaint via Registered Post with Acknowledgement Due (RPAD) to the Superintendent of Police (SP) or Deputy Commissioner of Police (DCP) under Section 154(3) CrPC (Section 173(4) BNSS). If inaction persists, your advocate can file an application before the Judicial Magistrate under Section 156(3) CrPC (Section 175(3) BNSS) to direct police inquiry."
           }
         },
         {
@@ -301,7 +301,7 @@ const jsonLdGraph = {
           "name": "How does filing a police complaint assist in achieving a favorable debt settlement?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "When a borrower formally documents collection malpractice through police complaints, RBI Ombudsman grievances, and advocate notices, the lending institution faces significant regulatory, reputational, and penal risks. To mitigate legal liabilities, bank legal departments typically withdraw aggressive collection agencies, transfer the file to internal settlement committees, and offer substantial principal waivers (often 45% to 65%) under an official One-Time Settlement (OTS)."
+            "text": "When a borrower formally documents collection malpractice through police complaints, RBI Ombudsman grievances, and advocate notices, the lending institution faces significant regulatory, reputational, and penal risks. To mitigate legal liabilities, bank legal departments typically withdraw aggressive collection agencies, transfer the file to internal settlement committees, and offer large principal waivers (often 45% to 65%) under an official One-Time Settlement (OTS)."
           }
         },
         {
@@ -465,7 +465,7 @@ export default function PoliceComplaintFormatRecoveryAgentHarassmentPage() {
                 <span>Executive Legal Crux</span>
               </div>
               <p className="text-xs text-slate-600 leading-relaxed">
-                Financial default on an unsecured bank loan is strictly a civil dispute. When debt recovery agents resort to threats, stalking, abusive communication, or unlawful trespassing, their actions cross into cognizable criminal offenses under IPC Sections 506, 509, 383, and 441, making them directly liable for police prosecution.
+                Financial default on an unsecured bank loan is strictly a civil dispute. When debt recovery agents resort to threats, stalking, abusive notice, or unlawful trespassing, their actions cross into cognizable criminal offenses under IPC Sections 506, 509, 383, and 441, making them directly liable for police prosecution.
               </p>
             </div>
 
@@ -500,7 +500,7 @@ export default function PoliceComplaintFormatRecoveryAgentHarassmentPage() {
                 </li>
                 <li className="flex items-start gap-2.5">
                   <CheckCircle2 className="w-4 h-4 text-emerald-600 flex-shrink-0 mt-0.5" />
-                  <span><strong>Strategic OTS Transition:</strong> Formal police and regulatory complaints neutralize aggressive coercion, forcing institutional lenders into structured debt compromise negotiations.</span>
+                  <span><strong>Strategic OTS Transition:</strong> Formal police and regulatory complaints neutralize aggressive coercion, forcing institutional lenders into structured debt compromise talks.</span>
                 </li>
               </ul>
             </div>
@@ -514,7 +514,7 @@ export default function PoliceComplaintFormatRecoveryAgentHarassmentPage() {
                 Across the Indian retail credit landscape, unexpected financial setbacks—such as involuntary job separation, severe enterprise cash flow disruption, or debilitating health emergencies—often leave honest borrowers unable to meet scheduled Equated Monthly Installments (EMIs). When an unsecured personal loan or credit card facility remains overdue beyond ninety days, banking institutions classify the ledger exposure as a Non-Performing Asset (NPA). In an effort to bypass the procedural duration and cost of formal civil litigation, financial institutions frequently assign these delinquent accounts to third-party collection and recovery agencies.
               </p>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
-                A critical legal boundary separates legitimate recovery from actionable criminal conduct. A loan agreement under the Indian Contract Act, 1872, is purely a civil commercial contract. The lender’s lawful remedies are confined to civil suits under Order 37 CPC, commercial arbitration, or DRT proceedings. When recovery agents resort to physical stalking, abusive calls, threats of violence, or social humiliation, their actions become penal offenses under the Indian criminal justice system.
+                A critical legal boundary separates legitimate recovery from actionable criminal conduct. A loan agreement under the Indian Contract Act, 1872, is purely a civil commercial contract. The lender’s lawful remedies are confined to civil suits under Order 37 CPC, commercial arbitration, or DRT cases. When recovery agents resort to physical stalking, abusive calls, threats of violence, or social humiliation, their actions become penal offenses under the Indian criminal justice system.
               </p>
               <div className="bg-amber-50 border-l-4 border-amber-500 p-4 rounded-r-xl my-4">
                 <div className="flex items-center gap-2 text-amber-900 font-bold text-xs uppercase tracking-wider mb-1">
@@ -522,56 +522,56 @@ export default function PoliceComplaintFormatRecoveryAgentHarassmentPage() {
                   <span>Foundational Constitutional &amp; Civil Right</span>
                 </div>
                 <p className="text-xs sm:text-sm text-amber-800 leading-relaxed">
-                  The Constitution of India under Article 21 guarantees every citizen the fundamental right to life, dignity, and personal liberty. Financial default does not strip an individual of these constitutional safeguards. Coercive recovery tactics deployed by banks or third-party collection agencies violate fundamental privacy and personal safety rights established by the Supreme Court of India.
+                  The Constitution of India under Article 21 guarantees every citizen the fundamental right to life, dignity, and personal liberty. Financial default does not strip an person of these constitutional safeguards. Coercive recovery tactics deployed by banks or third-party collection agencies violate fundamental privacy and personal safety rights established by the Supreme Court of India.
                 </p>
               </div>
             </section>
 
             {/* Section 2: Statutory Penal Provisions: IPC Sections 506, 509, 383 & BNS Alignments */}
             <section id="statutory-penal-provisions" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                 2. Penal Framework: IPC Sections & Bharatiya Nyaya Sanhita
-              </h2>
+              </h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 When drafting a formal criminal complaint to be lodged with local law enforcement, precision in statutory citations is paramount. The Indian Penal Code (IPC), along with corresponding provisions under the Bharatiya Nyaya Sanhita (BNS), provides robust penal remedies against abusive recovery practices. Each specific coercive act committed by collection agents triggers distinct statutory provisions:
               </p>
               
               <div className="grid grid-cols-1 sm:grid-cols-2 gap-3 my-4">
                 <div className="p-4 bg-slate-50 border border-slate-200 rounded-xl">
-                  <h3 className="font-bold text-slate-900 text-xs sm:text-sm mb-1 flex items-center gap-1.5">
+                  <h4 className="font-bold text-slate-900 text-xs sm:text-sm mb-1 flex items-center gap-1.5">
                     <ShieldAlert className="w-4 h-4 text-rose-600" />
                     <span>Section 506 IPC / Section 351 BNS</span>
-                  </h3>
+                  </h4>
                   <p className="text-xs text-slate-600">
                     <strong>Criminal Intimidation:</strong> Punishes anyone who threatens another with injury to their person, reputation, or property. If the threat involves death, grievous hurt, or destruction of property, the offense carries imprisonment for up to seven years.
                   </p>
                 </div>
                 
                 <div className="p-4 bg-slate-50 border border-slate-200 rounded-xl">
-                  <h4 className="font-bold text-slate-900 text-xs sm:text-sm mb-1 flex items-center gap-1.5">
+                  <h5 className="font-bold text-slate-900 text-xs sm:text-sm mb-1 flex items-center gap-1.5">
                     <ShieldAlert className="w-4 h-4 text-rose-600" />
                     <span>Section 509 IPC / Section 79 BNS</span>
-                  </h4>
+                  </h5>
                   <p className="text-xs text-slate-600">
                     <strong>Insulting Modesty of Women:</strong> Applies directly when recovery agents use indecent language, obscene gestures, or verbal intimidation against female borrowers, spouses, mothers, or daughters, carrying rigorous imprisonment.
                   </p>
                 </div>
 
                 <div className="p-4 bg-slate-50 border border-slate-200 rounded-xl">
-                  <h4 className="font-bold text-slate-900 text-xs sm:text-sm mb-1 flex items-center gap-1.5">
+                  <h5 className="font-bold text-slate-900 text-xs sm:text-sm mb-1 flex items-center gap-1.5">
                     <ShieldAlert className="w-4 h-4 text-rose-600" />
                     <span>Section 383 &amp; 384 IPC / Section 308 BNS</span>
-                  </h4>
+                  </h5>
                   <p className="text-xs text-slate-600">
                     <strong>Extortion:</strong> Intentionally putting any person in fear of injury or public disgrace to dishonestly induce the delivery of valuable property or money constitutes criminal extortion punishable with up to three years imprisonment.
                   </p>
                 </div>
 
                 <div className="p-4 bg-slate-50 border border-slate-200 rounded-xl">
-                  <h4 className="font-bold text-slate-900 text-xs sm:text-sm mb-1 flex items-center gap-1.5">
+                  <h5 className="font-bold text-slate-900 text-xs sm:text-sm mb-1 flex items-center gap-1.5">
                     <ShieldAlert className="w-4 h-4 text-rose-600" />
                     <span>Section 441 &amp; 447 IPC / Section 329 BNS</span>
-                  </h4>
+                  </h5>
                   <p className="text-xs text-slate-600">
                     <strong>Criminal Trespass:</strong> Entering private residential property or commercial offices unlawfully with the intent to intimidate, insult, or annoy the occupant constitutes an actionable criminal trespass offense.
                   </p>
@@ -585,18 +585,18 @@ export default function PoliceComplaintFormatRecoveryAgentHarassmentPage() {
 
             {/* Section 3: Step-by-Step Legal Draft Protocol for Police SHO & SP Complaints */}
             <section id="complaint-drafting-architecture" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                 3. Structuring an Actionable Police Complaint
-              </h2>
+              </h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 A police complaint submitted to the Station House Officer (SHO) of your local territorial police jurisdiction must be drafted with analytical precision. Vague allegations of general distress are often dismissed as civil disputes. To ensure law enforcement registers a General Diary (GD) entry or First Information Report (FIR), the complaint narrative must be structured methodically around concrete factual and legal elements.
               </p>
               
               <div className="bg-slate-50 border border-slate-200 rounded-2xl p-5 space-y-4 my-4">
-                <h3 className="text-xs sm:text-sm font-bold text-slate-900 uppercase tracking-wider flex items-center gap-2">
+                <h4 className="text-xs sm:text-sm font-bold text-slate-900 uppercase tracking-wider flex items-center gap-2">
                   <FileText className="w-4 h-4 text-[#1F5EFF]" />
                   <span>Essential Structural Sections of the Legal Complaint</span>
-                </h3>
+                </h4>
                 
                 <div className="space-y-3 text-xs sm:text-sm text-slate-700">
                   <div className="p-3 bg-white rounded-xl border border-slate-200">
@@ -611,7 +611,7 @@ export default function PoliceComplaintFormatRecoveryAgentHarassmentPage() {
 
                   <div className="p-3 bg-white rounded-xl border border-slate-200">
                     <p className="font-bold text-slate-900">3. Commercial Relationship Context</p>
-                    <p className="text-slate-600 mt-1">Briefly outline the underlying credit facility: Loan Account Number, principal disbursed, regular EMIs serviced prior to default, and the genuine circumstances causing temporary financial distress (e.g., job loss, medical emergency).</p>
+                    <p className="text-slate-600 mt-1">Briefly outline the underlying credit facility: Loan Account Number, principal disbursed, regular EMIs serviced before default, and the genuine situations causing temporary financial distress (e.g., job loss, medical emergency).</p>
                   </div>
 
                   <div className="p-3 bg-white rounded-xl border border-slate-200">
@@ -631,23 +631,23 @@ export default function PoliceComplaintFormatRecoveryAgentHarassmentPage() {
 
                   <div className="p-3 bg-white rounded-xl border border-slate-200">
                     <p className="font-bold text-slate-900">7. Explicit Relief &amp; Prayer Clause</p>
-                    <p className="text-slate-600 mt-1">Specifically pray for: (a) Immediate registration of an FIR against the recovery agents and lending institution. (b) Initiation of formal investigation under Section 156 CrPC. And (c) Immediate issuance of restraining directions to ensure life and liberty protection.</p>
+                    <p className="text-slate-600 mt-1">Specifically pray for: (a) Immediate registration of an FIR against the recovery agents and lending institution. (b) Initiation of formal inquiry under Section 156 CrPC. And (c) Immediate issuance of restraining directions to ensure life and liberty protection.</p>
                   </div>
                 </div>
               </div>
 
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
-                Presenting law enforcement with a statutory complaint and structured evidentiary annexures is vital. It eliminates the standard police claim that the matter is merely civil. This compels investigating authorities to initiate a formal inquiry.
+                Presenting law enforcement with a statutory complaint and structured evidentiary annexures is vital. It eliminates the standard police claim that the matter is merely civil. This compels investigating authorities to start a formal inquiry.
               </p>
             </section>
 
             {/* Section 4: Evidentiary Audit & Digital Trail + NPV Recovery Formula */}
             <section id="evidentiary-audit-digital-trail" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                 4. Evidentiary Audit: CDRs, Audio Logs & CCTV Forensics
-              </h2>
+              </h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
-                In modern criminal jurisprudence, contemporaneous electronic evidence forms the bedrock of an unassailable prosecution. Collection agencies often operate through outsourced tele-callers utilizing VoIP applications, spoofed virtual numbers, or rotating SIM cards. To legally bind both the individual perpetrator and the principal lending bank, the complainant must construct an airtight digital audit trail.
+                In modern criminal jurisprudence, contemporaneous electronic evidence forms the bedrock of an unassailable prosecution. Collection agencies often operate through outsourced tele-callers using VoIP applications, spoofed virtual numbers, or rotating SIM cards. To legally bind both the person perpetrator and the principal lending bank, the complainant must construct an airtight digital audit trail.
               </p>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Under Section 65B of the Indian Evidence Act, 1872 (now Section 63 BSA), electronic records are admissible when accompanied by a statutory certificate. Borrowers must record incoming recovery calls and preserve raw audio files. In addition, capture screenshots displaying caller IDs with timestamps, and secure CCTV recordings showing unauthorized entry.
@@ -692,9 +692,9 @@ export default function PoliceComplaintFormatRecoveryAgentHarassmentPage() {
 
             {/* Section 6: Police Escalation Hierarchy: SHO to Magistrate */}
             <section id="police-escalation-hierarchy" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                 6. Police Escalation Ladder: CrPC & BNSS Procedures
-              </h2>
+              </h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Local police stations sometimes hesitate to register an FIR against recovery agencies, directing borrowers to settle with the bank. The Code of Criminal Procedure establishes a strict escalation mechanism to overcome administrative inaction:
               </p>
@@ -705,7 +705,7 @@ export default function PoliceComplaintFormatRecoveryAgentHarassmentPage() {
                     1
                   </div>
                   <div>
-                    <h3 className="font-bold text-slate-900 text-xs sm:text-sm">Tier 1: Formal Submission to Local SHO (Section 154(1) CrPC / Section 173 BNSS)</h3>
+                    <h4 className="font-bold text-slate-900 text-xs sm:text-sm">Tier 1: Formal Submission to Local SHO (Section 154(1) CrPC / Section 173 BNSS)</h4>
                     <p className="text-xs text-slate-600 mt-1">Submit two physical copies of the complaint to the Station House Officer. Obtain a stamped receiving acknowledgment with date and General Diary (GD) reference number on the duplicate copy.</p>
                   </div>
                 </div>
@@ -715,7 +715,7 @@ export default function PoliceComplaintFormatRecoveryAgentHarassmentPage() {
                     2
                   </div>
                   <div>
-                    <h4 className="font-bold text-slate-900 text-xs sm:text-sm">Tier 2: Escalation to Superintendent of Police (Section 154(3) CrPC / Section 173(4) BNSS)</h4>
+                    <h5 className="font-bold text-slate-900 text-xs sm:text-sm">Tier 2: Escalation to Superintendent of Police (Section 154(3) CrPC / Section 173(4) BNSS)</h5>
                     <p className="text-xs text-slate-600 mt-1">If the SHO fails to act within 72 hours, send the complete complaint docket via Registered Post with Acknowledgment Due (RPAD) directly to the District Superintendent of Police (SP) or Deputy Commissioner of Police (DCP).</p>
                   </div>
                 </div>
@@ -725,7 +725,7 @@ export default function PoliceComplaintFormatRecoveryAgentHarassmentPage() {
                     3
                   </div>
                   <div>
-                    <h4 className="font-bold text-slate-900 text-xs sm:text-sm">Tier 3: Judicial Magistrate Application (Section 156(3) CrPC / Section 175(3) BNSS)</h4>
+                    <h5 className="font-bold text-slate-900 text-xs sm:text-sm">Tier 3: Judicial Magistrate Application (Section 156(3) CrPC / Section 175(3) BNSS)</h5>
                     <p className="text-xs text-slate-600 mt-1">If police authorities remain passive, your legal counsel files an application before the Chief Judicial Magistrate (CJM). Counsel presents postal receipts and requests a judicial directive ordering the police to register an FIR and submit a compliance report.</p>
                   </div>
                 </div>
@@ -735,7 +735,7 @@ export default function PoliceComplaintFormatRecoveryAgentHarassmentPage() {
                     4
                   </div>
                   <div>
-                    <h4 className="font-bold text-slate-900 text-xs sm:text-sm">Tier 4: Simultaneous Cyber Crime &amp; Nodal Escalation</h4>
+                    <h5 className="font-bold text-slate-900 text-xs sm:text-sm">Tier 4: Simultaneous Cyber Crime &amp; Nodal Escalation</h5>
                     <p className="text-xs text-slate-600 mt-1">Lodge a digital complaint on the National Cyber Crime Reporting Portal (cybercrime.gov.in) for telephonic harassment, while serving formal legal notices to the bank's Principal Nodal Officer and the RBI Integrated Ombudsman.</p>
                   </div>
                 </div>
@@ -744,9 +744,9 @@ export default function PoliceComplaintFormatRecoveryAgentHarassmentPage() {
 
             {/* Section 7: Vicarious Corporate Liability: Holding Bank Directors & Nodal Officers Accountable */}
             <section id="vicarious-bank-liability" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                 7. Holding Bank Directors & Nodal Officers Accountable
-              </h2>
+              </h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 A frequent defense raised by commercial banks and NBFCs is that collection agencies are independent third-party contractors, attempting to insulate corporate management from criminal liability. Indian judicial precedent has decisively rejected this corporate shielding doctrine.
               </p>
@@ -760,11 +760,11 @@ export default function PoliceComplaintFormatRecoveryAgentHarassmentPage() {
 
             {/* Section 8: Transitioning Criminal Defense into a Structured Debt Settlement & No Dues Certificate */}
             <section id="transitioning-defense-to-ots" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                 8. Transitioning Criminal Defense into Structured OTS
-              </h2>
+              </h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
-                Filing a statutory police complaint is not merely a defensive maneuver to stop unlawful harassment—it serves as the foundational catalyst for achieving an advantageous, conclusive debt settlement. Once the aggressive third-party agency is neutralized by criminal pushback, the lending bank is forced to transition the account from extra-judicial intimidation to lawful commercial negotiation.
+                Filing a statutory police complaint is not merely a defensive maneuver to stop unlawful harassment—it serves as the foundational catalyst for achieving an advantageous, conclusive debt settlement. Once the aggressive third-party agency is neutralized by criminal pushback, the lending bank is forced to transition the account from extra-judicial intimidation to lawful commercial talks.
               </p>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 At this juncture, specialized debt defense advocates step in to execute a structured settlement protocol:
@@ -781,7 +781,7 @@ export default function PoliceComplaintFormatRecoveryAgentHarassmentPage() {
                     <p className="text-slate-600">Submitting certified income loss records, medical dossiers, or business termination proofs directly to the bank’s internal Zonal Compromise Committee.</p>
                   </div>
                   <div className="p-3 bg-white rounded-xl border border-slate-200">
-                    <p className="font-bold text-slate-900 mb-1">2. Principal Waiver Negotiation</p>
+                    <p className="font-bold text-slate-900 mb-1">2. Principal Waiver talks</p>
                     <p className="text-slate-600">Leveraging the lender’s regulatory vulnerability to secure a 45% to 65% waiver on outstanding ledger balances, completely eliminating accumulated penal interest.</p>
                   </div>
                   <div className="p-3 bg-white rounded-xl border border-slate-200">
@@ -796,15 +796,15 @@ export default function PoliceComplaintFormatRecoveryAgentHarassmentPage() {
               </div>
 
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
-                By pairing criminal defense protections with experienced commercial negotiation, borrowers achieve permanent debt freedom without succumbing to intimidation or compromising their dignity.
+                By pairing criminal defense protections with experienced commercial talks, borrowers achieve permanent debt freedom without succumbing to intimidation or compromising their dignity.
               </p>
             </section>
 
             {/* Section 9: Harassment Redressal & Enforcement Comparative Matrix */}
             <section id="enforcement-comparative-matrix" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                 9. Harassment Redressal &amp; Enforcement Comparative Matrix
-              </h2>
+              </h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 The following comparative matrix outlines the legal forums, governing statutes, enforcement timelines, and typical outcomes available to borrowers facing recovery agent harassment across India:
               </p>
@@ -840,14 +840,14 @@ export default function PoliceComplaintFormatRecoveryAgentHarassmentPage() {
                       <td>Section 156(3) / 200 CrPC</td>
                       <td>Metropolitan / Judicial Magistrate</td>
                       <td>30 to 60 Days</td>
-                      <td>Court-mandated FIR and formal police investigation</td>
+                      <td>Court-mandated FIR and formal police inquiry</td>
                     </tr>
                     <tr>
                       <td className="font-semibold text-slate-900">RBI Integrated Ombudsman</td>
                       <td>RBI Ombudsman Scheme 2021</td>
                       <td>Reserve Bank of India Portal</td>
                       <td>30 to 45 Days</td>
-                      <td>Institutional penalty, borrower compensation up to ₹20L</td>
+                      <td>Institutional penalty, borrower relief up to ₹20L</td>
                     </tr>
                     <tr>
                       <td className="font-semibold text-slate-900">Bank Zonal OTS Committee</td>
@@ -864,11 +864,11 @@ export default function PoliceComplaintFormatRecoveryAgentHarassmentPage() {
             {/* Section 10: SettleLoans Legal Defense & Advisory + CompanySection */}
             <section id="settleloans-legal-defense-ecosystem" className="space-y-6">
               <div className="border-t border-slate-200 pt-8 space-y-4">
-                <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
+                <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                   10. SettleLoans Legal Ecosystem: Restoring Dignity
-                </h2>
+                </h3>
                 <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
-                  Navigating collection tactics, false police threats, and banking regulations requires seasoned legal advocates. SettleLoans stands as India’s foremost debt defense platform. We safeguard borrowers from harassment while negotiating binding One-Time Settlements. Our team serves cease-and-desist notices, prepares police complaints under IPC Sections 506 and 509, files escalations with the RBI Ombudsman, and secures substantial principal waivers backed by official No Dues Certificates.
+                  Navigating collection tactics, false police threats, and banking regulations requires seasoned legal advocates. SettleLoans stands as India’s foremost debt defense platform. We safeguard borrowers from harassment while negotiating binding One-Time Settlements. Our team serves cease-and-desist notices, prepares police complaints under IPC Sections 506 and 509, files escalations with the RBI Ombudsman, and secures large principal waivers backed by official No Dues Certificates.
                 </p>
               </div>
 
@@ -880,9 +880,9 @@ export default function PoliceComplaintFormatRecoveryAgentHarassmentPage() {
             <section id="faqs" className="space-y-4 border-t border-slate-200 pt-8">
               <div className="flex items-center gap-2 mb-2">
                 <HelpCircle className="w-5 h-5 text-[#1F5EFF]" />
-                <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
+                <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                   11. FAQs: Police Complaints Against Recovery Harassment
-                </h2>
+                </h3>
               </div>
               <p className="text-xs sm:text-sm text-slate-600 mb-6">
                 Clear, legally verified answers regarding recovery agent harassment, police complaint formats, IPC sections, and borrower rights under Indian law.
@@ -912,9 +912,9 @@ export default function PoliceComplaintFormatRecoveryAgentHarassmentPage() {
 
             {/* 5 Official Regulatory Links */}
             <section className="border-t border-slate-200 pt-8 mb-4">
-              <h3 className="text-xs sm:text-sm font-bold text-slate-900 mb-3 uppercase tracking-wider">
+              <h4 className="text-xs sm:text-sm font-bold text-slate-900 mb-3 uppercase tracking-wider">
                 Official Statutory &amp; Regulatory References
-              </h3>
+              </h4>
               <div className="grid grid-cols-1 sm:grid-cols-2 gap-2.5 text-xs">
                 <a
                   href="https://www.rbi.org.in"
@@ -966,9 +966,9 @@ export default function PoliceComplaintFormatRecoveryAgentHarassmentPage() {
 
             {/* 10 Related Guide Badges */}
             <section className="border-t border-slate-200 pt-8 mb-8">
-              <h3 className="text-xs sm:text-sm font-bold text-slate-900 mb-4 uppercase tracking-wider">
+              <h4 className="text-xs sm:text-sm font-bold text-slate-900 mb-4 uppercase tracking-wider">
                 Related Legal Defense &amp; Loan Resolution Guides
-              </h3>
+              </h4>
               <div className="flex flex-wrap gap-2">
                 <Link
                   href="/bank-recovery-agent-threatening-me"

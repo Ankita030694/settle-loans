@@ -268,9 +268,9 @@ export default function ForgedLoanSignaturesPage() {
                         </section>
 
                         <section id="forgery-methods" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
                                 How Loan Forgery Happens: The Indian Context
-                            </h2>
+                            </h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 Forgery in loans can be as simple as an agent signing for you on a paper form or as complex as 'Digital Signature Forgery.' In many cases we handle, the victim originally provided their KYC documents (Aadhaar, PAN) for a legitimate purpose, which were then misused to generate multiple unauthorized loans.
                             </p>
@@ -280,14 +280,14 @@ export default function ForgedLoanSignaturesPage() {
                         </section>
 
                         <section id="immediate-action" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
                                 First Strike: FIR and the Police Procedure
-                            </h2>
+                            </h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 The moment you discover a forged loan, time is of the essence. A verbal complaint to the bank manager is never enough. You must establish a 'Legal Record.'
                             </p>
                             <div className="bg-red-900 text-white p-8 rounded-2xl mb-8">
-                                <h3 className="text-2xl font-bold mb-4 italic underline">The Fraud Response Protocol</h3>
+                                <h4 className="text-2xl font-bold mb-4 italic underline">The Fraud Response Protocol</h4>
                                 <ul className="space-y-4">
                                     <li className="flex items-start gap-3">
                                         <span className="text-[#1F5EFF] font-bold text-xl">1.</span>
@@ -306,9 +306,9 @@ export default function ForgedLoanSignaturesPage() {
                         </section>
 
                         <section id="forensic-evidence" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
                                 The Science of Truth: Forensic Handwriting Analysis
-                            </h2>
+                            </h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 In a dispute over forged signatures, the Handwriting Expert is the 'Star Witness.' A forgery might look like your signature to the naked eye, but it never has your unique 'Micro-Muscular Handwriting Habits.'
                             </p>
@@ -318,21 +318,21 @@ export default function ForgedLoanSignaturesPage() {
                         </section>
 
                         <section id="ipc-bns-sections" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
                                 Criminal Statutes: IPC vs. BNS Sections
-                            </h2>
+                            </h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 Loan forgery is a serious criminal offense in India. With the implementation of the Bharatiya Nyaya Sanhita (BNS), the legal landscape has updated.
                             </p>
                             <div className="grid md:grid-cols-2 gap-6 mb-8">
                                 <div className="bg-gray-50 p-6 rounded-xl border border-gray-200">
-                                    <h3 className="text-lg font-bold text-gray-900 mb-2">Section 463/467/468 IPC</h3>
+                                    <h4 className="text-lg font-bold text-gray-900 mb-2">Section 463/467/468 IPC</h4>
                                     <p className="text-sm text-gray-800 leading-relaxed">
                                         Classical sections for forgery, forgery of valuable security, and forgery for cheating. These carry penalties of up to life imprisonment in extreme cases.
                                     </p>
                                 </div>
                                 <div className="bg-blue-50 p-6 rounded-xl border border-blue-100">
-                                    <h4 className="text-lg font-bold text-blue-900 mb-2">New BNS Provisions</h4>
+                                    <h5 className="text-lg font-bold text-blue-900 mb-2">New BNS Provisions</h5>
                                     <p className="text-sm text-blue-800 leading-relaxed font-bold">
                                         Sections 335 to 340 of the BNS now handle forgery and fraudulent documents with a focus on electronic records as well.
                                     </p>
@@ -341,9 +341,9 @@ export default function ForgedLoanSignaturesPage() {
                         </section>
 
                         <section id="bank-internal-audit" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
                                 The Bank's Liability: Vicarious Responsibility
-                            </h2>
+                            </h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 Banks often argue that 'if an agent forged it, it's not the bank's fault.' This is legally wrong. Under the principle of 'Vicarious Liability,' the bank is responsible for the acts of its employees and authorized agents during their course of employment.
                             </p>
@@ -353,21 +353,21 @@ export default function ForgedLoanSignaturesPage() {
                         </section>
 
                         <section id="rbi-ombudsman-fraud" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
                                 Winning with the RBI Ombudsman
-                            </h2>
+                            </h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 The Integrated Ombudsman Scheme, 2021, is a faster route than the courts. The Ombudsman has the power to order the bank to 'Cease Collection' and 'Reinstate Credit Status.' To win here, we draft a precision-engineered complaint that highlights the bank's violation of the 'Master Circular on Frauds.'
                             </p>
                         </section>
 
                         <section id="civil-court-declaration" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 uppercase tracking-widest font-black">Suit for Declaration: Voiding the Loan Contract</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 uppercase tracking-widest font-black">Suit for Declaration: Voiding the Loan Contract</h3>
                             <p className="mb-6">
                                 Sometimes, a criminal case isn't enough to stop the bank's civil recovery process. We file a 'Suit for Declaration and Injunction' in a Civil Court. We ask the court to declare the loan agreement 'Void ab initio' (invalid from the start) and to permanently restrain the bank from recovering any money from you.
                             </p>
                             <div className="bg-white p-8 rounded-2xl border border-[#DEDEDE] shadow-sm mb-8">
-                                <h3 className="text-xl font-black text-[#1F5EFF] mb-4">The Civil Defense Strategy</h3>
+                                <h4 className="text-xl font-black text-[#1F5EFF] mb-4">The Civil Defense Strategy</h4>
                                 <p className="leading-relaxed mb-4">
                                     We use the 'Burden of Proof' to our advantage. While we must prove forgery, the bank must prove they followed every 'Due Diligence' step required by law. Most of the time, the bank's lack of internal documentation becomes their downfall.
                                 </p>
@@ -375,21 +375,21 @@ export default function ForgedLoanSignaturesPage() {
                         </section>
 
                         <section id="cibil-rectification" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Clearing the CIBIL Fraud Stain</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Clearing the CIBIL Fraud Stain</h3>
                             <p className="mb-6">
                                 Proving forgery in court is only half the battle. Your credit score might still be in ruins. We handle the technical process of 'CIBIL Rectification' by providing the credit bureaus (CIBIL, Experian, Equifax) with the certified copies of the FIR, the Forensic Report, and the Bank's own Fraud Closure Letter.
                             </p>
                         </section>
 
                         <section id="digital-forgery-threat" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">The Rise of Digital Loan Forgery</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">The Rise of Digital Loan Forgery</h3>
                             <p className="mb-6">
                                 Modern forgery doesn't use a pen; it uses a keyboard. 'Session Hijacking' and 'OTP Fraud' are the digital equivalents of a forged signature. If you never received the 'Disbursal OTP' or never performed the 'e-KYC,' we challenge the bank's 'IT Audit Trail' to prove the loan was fraudulent.
                             </p>
                         </section>
 
                         <section id="preventative-measures" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">How to Prevent Future Loan Identity Theft</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">How to Prevent Future Loan Identity Theft</h3>
                             <div className="bg-emerald-50 p-8 rounded-2xl border border-emerald-100">
                                 <ul className="space-y-4">
                                     <li className="flex items-center gap-3">
@@ -409,14 +409,14 @@ export default function ForgedLoanSignaturesPage() {
                         </section>
 
                         <section id="legal-representation" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 text-center text-blue-600">Why Expert Legal Counsel is Non-Negotiable</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 text-center text-blue-600">Why Expert Legal Counsel is Non-Negotiable</h3>
                             <p className="mb-6">
                                 Forgery cases are decided on 'Technicalities.' A missing police stamp or a poorly drafted affidavit can ruin your case. At SettleLoans, we bring a multi-disciplinary team of criminal lawyers, civil litigators, and forensic technology experts to your side. We don't just 'help'—we take complete command of the legal narrative.
                             </p>
                         </section>
 
                         <section id="case-studies" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 text-center text-red-600">Identity Restored: Forgery Victims Vindicated</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 text-center text-red-600">Identity Restored: Forgery Victims Vindicated</h3>
                             <div className="grid md:grid-cols-2 gap-6 not-prose">
                                 {[
                                     { name: "Anil M.", loc: "Pune", type: "Loan Cancellation", outcome: "2L Debt Voided", story: "Found a 2 lakh loan on my CIBIL I never took. SettleLoans proved the signature was forged. The loan was cancelled and my score restored." },
@@ -430,7 +430,7 @@ export default function ForgedLoanSignaturesPage() {
                                                 {review.name.charAt(0)}
                                             </div>
                                             <div>
-                                                <h3 className="font-bold text-[#2E2E2E]">{review.name}</h3>
+                                                <h4 className="font-bold text-[#2E2E2E]">{review.name}</h4>
                                                 <p className="text-xs text-gray-400">{review.loc}</p>
                                             </div>
                                             <div className="ml-auto text-yellow-400 text-sm">★★★★★</div>
@@ -445,7 +445,7 @@ export default function ForgedLoanSignaturesPage() {
                         </section>
 
                         <section id="faqs" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Forged Loan Signatures: Your Questions Answered</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Forged Loan Signatures: Your Questions Answered</h3>
                             <div className="space-y-4 not-prose">
                                 {[
                                     { q: "What if I accidentally signed a blank paper and the bank used it for a loan?", a: "This is a form of 'Constructive Forgery.' While your signature is genuine, the 'Application' is fraudulent because the terms were filled without your knowledge. Legal help is vital here to prove the intent to cheat." },
@@ -482,7 +482,7 @@ export default function ForgedLoanSignaturesPage() {
                         <div className="lg:hidden mt-16 mb-8">
                             <div className="bg-[#2E2E2E] rounded-2xl shadow-xl overflow-hidden border border-[#1F5EFF]/20">
                                 <div className="bg-[#1F5EFF] p-6 text-center text-white">
-                                    <h3 className="text-2xl font-black mb-2">Expose the Fraud</h3>
+                                    <h4 className="text-2xl font-black mb-2">Expose the Fraud</h4>
                                     <p className="opacity-90 text-sm">Expert legal tools to prove forgery and clear your name.</p>
                                 </div>
                                 <div className="p-8 text-center text-[#DEDEDE]">

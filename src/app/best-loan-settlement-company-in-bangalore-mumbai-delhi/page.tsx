@@ -249,36 +249,36 @@ export default function BestSettlementCompanyPage() {
             </section>
 
             <section id="why-hire-professional" className="scroll-mt-32 mb-16">
-               <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+               <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                 Why Hire a Professional Loan Settlement Company?
-              </h2>
+              </h3>
               <p>
                 You might wonder if you can negotiate with the bank yourself. While it is theoretically possible, the reality of the Indian banking system in major cities is daunting. Banks employ professional collection agencies that are incentivized to recover every rupee, often using tactics that skirt the edges of RBI guidelines.
               </p>
               <div className="grid md:grid-cols-2 gap-6 my-8">
                 <div className="bg-white p-6 rounded-xl border border-[#DEDEDE] shadow-sm">
-                  <h3 className="font-black text-[#1F5EFF] mb-3">Expert Negotiation</h3>
+                  <h4 className="font-black text-[#1F5EFF] mb-3">Expert Negotiation</h4>
                   <p className="text-sm">We know the internal settlement thresholds of major banks, ensuring you get the lowest possible figure.</p>
                 </div>
                 <div className="bg-white p-6 rounded-xl border border-[#DEDEDE] shadow-sm">
-                  <h4 className="font-black text-[#1F5EFF] mb-3">Harassment Protection</h4>
+                  <h5 className="font-black text-[#1F5EFF] mb-3">Harassment Protection</h5>
                   <p className="text-sm">We route communication through our legal team, giving you the mental peace you deserve.</p>
                 </div>
                 <div className="bg-white p-6 rounded-xl border border-[#DEDEDE] shadow-sm">
-                  <h4 className="font-black text-[#1F5EFF] mb-3">Legal Compliance</h4>
+                  <h5 className="font-black text-[#1F5EFF] mb-3">Legal Compliance</h5>
                   <p className="text-sm">We ensure every settlement letter and No Dues Certificate is legally vetted and genuine.</p>
                 </div>
                 <div className="bg-white p-6 rounded-xl border border-[#DEDEDE] shadow-sm">
-                  <h4 className="font-black text-[#1F5EFF] mb-3">Strategic Planning</h4>
+                  <h5 className="font-black text-[#1F5EFF] mb-3">Strategic Planning</h5>
                   <p className="text-sm">We help you budget your repayments to ensure you don't fall back into the debt trap.</p>
                 </div>
               </div>
             </section>
 
             <section id="bangalore-focus" className="scroll-mt-32 mb-16">
-               <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+               <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                 Bangalore: The Tech Hub's Debt Reality
-              </h2>
+              </h3>
               <div className="bg-blue-50/50 p-8 rounded-2xl border border-blue-100 mb-8">
                 <p className = "text-lg leading-relaxed">
                   Bangalore, the Silicon Valley of India, is a city of dreams. However, behind the glass buildings of Manyata Tech Park and Indiranagar's vibrant nightlife, thousands of IT professionals are struggling with "High-Speed Debt." With high salaries come high credit limits, and in a city where lifestyle inflation is rampant, many find their EMIs consuming over 60% of their take-home pay.
@@ -295,9 +295,9 @@ export default function BestSettlementCompanyPage() {
             </section>
 
             <section id="mumbai-focus" className="scroll-mt-32 mb-16">
-               <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+               <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                 Mumbai: The Financial Capital's Survival Struggle
-              </h2>
+              </h3>
               <p>
                 In Mumbai, the pace is relentless and the costs are extreme. For those living in Bandra, Andheri, or Navi Mumbai, the pressure of maintaining a certain standard of living while dealing with the world's most expensive real estate creates a unique debt profile. Here, credit card debt is the primary culprit, often used to bridge the gap between flat salaries and rising expenses.
               </p>
@@ -312,9 +312,9 @@ export default function BestSettlementCompanyPage() {
             </section>
 
             <section id="delhi-focus" className="scroll-mt-32 mb-16">
-               <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+               <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                 Delhi & NCR: Navigating Business and Lifestyle Debt
-              </h2>
+              </h3>
               <p>
                 The National Capital Region, comprising Delhi, Gurgaon, and Noida, has a different debt dynamic. Here, business failures and lifestyle spending often go hand-in-hand. Small business owners in South Delhi or Rohini often use personal loans as working capital, leading to a precarious situation when business cycles turn slow.
               </p>
@@ -323,15 +323,15 @@ export default function BestSettlementCompanyPage() {
               </p>
               <div className="grid grid-cols-1 md:grid-cols-3 gap-4 mt-8">
                 <div className="p-4 bg-white border border-[#DEDEDE] rounded-lg text-center">
-                  <h3 className="font-bold text-[#1F5EFF]">Delhi</h3>
+                  <h4 className="font-bold text-[#1F5EFF]">Delhi</h4>
                   <p className="text-xs">Business & Personal Loan Focus</p>
                 </div>
                 <div className="p-4 bg-white border border-[#DEDEDE] rounded-lg text-center">
-                  <h4 className="font-bold text-[#1F5EFF]">Gurgaon</h4>
+                  <h5 className="font-bold text-[#1F5EFF]">Gurgaon</h5>
                   <p className="text-xs">Corporate & High-Value Debt</p>
                 </div>
                 <div className="p-4 bg-white border border-[#DEDEDE] rounded-lg text-center">
-                  <h5 className="font-bold text-[#1F5EFF]">Noida</h5>
+                  <h6 className="font-bold text-[#1F5EFF]">Noida</h6>
                   <p className="text-xs">EMI & Lifestyle Debt</p>
                 </div>
               </div>
@@ -342,9 +342,9 @@ export default function BestSettlementCompanyPage() {
             */}
 
             <section id="settleloans-advantage" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                 The SettleLoans Advantage: Why We Are #1
-              </h2>
+              </h3>
               <p className="mb-6">
                 What makes us the <strong>best loan settlement company</strong> across India's top metros? It is our commitment to three core values: Transparency, Legality, and Empathy. We don't just see you as a number; we see you as a person deserving of a second chance at financial life.
               </p>
@@ -354,7 +354,7 @@ export default function BestSettlementCompanyPage() {
                     <svg className="w-6 h-6 text-green-600" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M5 13l4 4L19 7"></path></svg>
                   </div>
                   <div>
-                    <h3 className="font-bold text-lg">No Hidden Charges</h3>
+                    <h4 className="font-bold text-lg">No Hidden Charges</h4>
                     <p className="text-sm">We believe in clear, upfront communication. You will always know exactly what you are paying for and what result to expect.</p>
                   </div>
                 </div>
@@ -363,7 +363,7 @@ export default function BestSettlementCompanyPage() {
                     <svg className="w-6 h-6 text-green-600" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M5 13l4 4L19 7"></path></svg>
                   </div>
                   <div>
-                    <h4 className="font-bold text-lg">Legal Powerhouse</h4>
+                    <h5 className="font-bold text-lg">Legal Powerhouse</h5>
                     <p className="text-sm">Our team includes seasoned legal professionals who specialize in banking laws, ensuring you are never bullied by lenders.</p>
                   </div>
                 </div>
@@ -372,7 +372,7 @@ export default function BestSettlementCompanyPage() {
                     <svg className="w-6 h-6 text-green-600" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M5 13l4 4L19 7"></path></svg>
                   </div>
                   <div>
-                    <h4 className="font-bold text-lg">Tailored Solutions</h4>
+                    <h5 className="font-bold text-lg">Tailored Solutions</h5>
                     <p className="text-sm">We don't provide a general plan. We analyze your unique income, expenses, and debt portfolio in your specific city.</p>
                   </div>
                 </div>
@@ -380,42 +380,42 @@ export default function BestSettlementCompanyPage() {
             </section>
 
             <section id="the-process" className="scroll-mt-32 mb-16">
-               <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+               <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                 Our Proven Loan Settlement Process
-              </h2>
+              </h3>
               <div className="space-y-12">
                 <div className="relative pl-12">
                   <div className="absolute left-0 top-0 w-8 h-8 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center font-bold">1</div>
-                  <h3 className="font-black text-xl mb-2">Debt Analysis</h3>
+                  <h4 className="font-black text-xl mb-2">Debt Analysis</h4>
                   <p>We review all your outstanding loans and credit cards to determine the total scope of your debt and your current repayment capacity.</p>
                 </div>
                 <div className="relative pl-12">
                   <div className="absolute left-0 top-0 w-8 h-8 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center font-bold">2</div>
-                  <h4 className="font-black text-xl mb-2">Legal Shield Activation</h4>
+                  <h5 className="font-black text-xl mb-2">Legal Shield Activation</h5>
                   <p>We take over all communication with your lenders. All collection calls and notices are redirected to our legal team.</p>
                 </div>
                 <div className="relative pl-12">
                   <div className="absolute left-0 top-0 w-8 h-8 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center font-bold">3</div>
-                  <h4 className="font-black text-xl mb-2">Negotiation Phase</h4>
+                  <h5 className="font-black text-xl mb-2">Negotiation Phase</h5>
                   <p>Our expert negotiators work with individual banks to waive interest penalties and reduce the principal amount.</p>
                 </div>
                 <div className="relative pl-12">
                   <div className="absolute left-0 top-0 w-8 h-8 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center font-bold">4</div>
-                  <h4 className="font-black text-xl mb-2">Settlement & Closure</h4>
+                  <h5 className="font-black text-xl mb-2">Settlement & Closure</h5>
                   <p>Once an agreement is reached, you receive a formal settlement letter. After payment, we ensure you get the No Dues Certificate.</p>
                 </div>
               </div>
             </section>
 
             <section id="cibil-recovery" className="scroll-mt-32 mb-16">
-               <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+               <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                 CIBIL Recovery: Life After Settlement
-              </h2>
+              </h3>
               <p className="mb-6">
                 Many people fear that settlement will haunt them forever. While it does impact your score in the short term, it is not a dead end. In cities like Bangalore, Mumbai, and Delhi, where credit is lifeblood, rebuilding your score is priority #1 after settlement.
               </p>
               <div className="bg-emerald-50 p-8 rounded-2xl border border-emerald-100">
-                <h3 className="font-bold text-emerald-900 mb-4 text-xl">Rebuilding Steps</h3>
+                <h4 className="font-bold text-emerald-900 mb-4 text-xl">Rebuilding Steps</h4>
                 <ul className="space-y-3 text-emerald-800">
                   <li className="flex gap-2">✓ <span className="font-semibold">Secured Credit Card:</span> Start with a card backed by a Fixed Deposit.</li>
                   <li className="flex gap-2">✓ <span className="font-semibold">Small Value Loans:</span> Take a consumer durable loan for a gadget and pay EMIs on time.</li>
@@ -427,9 +427,9 @@ export default function BestSettlementCompanyPage() {
 
             {/* Detailed SEO Sections to reach 5000 words */}
             <section id="debt-psychology-metros" className="scroll-mt-32 mb-16">
-              <h2 className="text-2xl md:text-3xl font-black text-[#2E2E2E] mb-8">
+              <h3 className="text-2xl md:text-3xl font-black text-[#2E2E2E] mb-8">
                 The Psychology of Debt in India's Metro Cities
-              </h2>
+              </h3>
               <p>
                 Debt is not just a financial burden; it is a psychological one. In high-pressure environments like Bangalore's tech parks or Mumbai's financial districts, the stigma of debt can be paralyzing. Many individuals feel a sense of failure, which prevents them from seeking help early. This "Debt Silence" is what allows interest rates to climb from manageable figures to insurmountable mountains.
               </p>
@@ -442,14 +442,14 @@ export default function BestSettlementCompanyPage() {
             </section>
 
             <section id="consumer-protection-rights" className="scroll-mt-32 mb-16">
-              <h2 className="text-2xl md:text-3xl font-black text-[#2E2E2E] mb-8">
+              <h3 className="text-2xl md:text-3xl font-black text-[#2E2E2E] mb-8">
                 Know Your Rights: Consumer Protection Under RBI Guidelines
-              </h2>
+              </h3>
               <p>
                 Every borrower in India, whether in Delhi, Mumbai, or Bangalore, is protected by a set of robust guidelines issued by the Reserve Bank of India (RBI). Unfortunately, many banks and their third-party agents rely on the borrower's ignorance to use aggressive tactics.
               </p>
               <div className="bg-white p-8 rounded-2xl border border-[#DEDEDE] shadow-lg my-8">
-                <h3 className="font-black text-[#1F5EFF] mb-4">Your Fundamental Rights as a Borrower:</h3>
+                <h4 className="font-black text-[#1F5EFF] mb-4">Your Fundamental Rights as a Borrower:</h4>
                 <ul className="space-y-4">
                   <li className="flex items-start gap-3">
                     <span className="text-blue-500 font-bold">01.</span>
@@ -475,27 +475,27 @@ export default function BestSettlementCompanyPage() {
             </section>
 
             <section id="spotting-scams" className="scroll-mt-32 mb-16">
-              <h2 className="text-2xl md:text-3xl font-black text-[#2E2E2E] mb-8">
+              <h3 className="text-2xl md:text-3xl font-black text-[#2E2E2E] mb-8">
                 How to Spot Fraudulent Loan Settlement Companies
-              </h2>
+              </h3>
               <p>
                 The rise in debt has unfortunately led to a rise in "Fly-by-Night" operators in cities like Delhi and Bangalore. These companies promise the world but deliver nothing, often leaving the borrower in a worse state. When searching for the **best loan settlement company**, look out for these red flags:
               </p>
               <div className="grid md:grid-cols-2 gap-6 my-8">
                 <div className="p-6 bg-red-50 rounded-xl border border-red-100">
-                  <h3 className="font-bold text-red-800 mb-2">Red Flag: Unrealistic Guarantees</h3>
+                  <h4 className="font-bold text-red-800 mb-2">Red Flag: Unrealistic Guarantees</h4>
                   <p className="text-sm text-red-900/70">If they promise a 90% waiver or claim they can "make your debt disappear" without any impact on CIBIL, they are lying. Settlement always has an impact.</p>
                 </div>
                 <div className="p-6 bg-red-50 rounded-xl border border-red-100">
-                  <h4 className="font-bold text-red-800 mb-2">Red Flag: No Physical Office</h4>
+                  <h5 className="font-bold text-red-800 mb-2">Red Flag: No Physical Office</h5>
                   <p className="text-sm text-red-900/70">A legitimate company will have a registered office that you can visit in cities like Mumbai or Delhi. Avoid companies that only operate via WhatsApp or anonymous emails.</p>
                 </div>
                 <div className="p-6 bg-red-50 rounded-xl border border-red-100">
-                  <h5 className="font-bold text-red-800 mb-2">Red Flag: High Upfront Fees Only</h5>
+                  <h6 className="font-bold text-red-800 mb-2">Red Flag: High Upfront Fees Only</h6>
                   <p className="text-sm text-red-900/70">Be wary of companies that demand a massive upfront fee without any clarity on the service deliverables or timeline. Real firms work on a transparent service-linked model.</p>
                 </div>
                 <div className="p-6 bg-red-50 rounded-xl border border-red-100">
-                  <h5 className="font-bold text-red-800 mb-2">Red Flag: Encouraging Default</h5>
+                  <h6 className="font-bold text-red-800 mb-2">Red Flag: Encouraging Default</h6>
                   <p className="text-sm text-red-900/70">A reputable firm will never tell you to stop paying your EMIs if you have the capacity to pay. They only step in when you have a genuine financial crisis.</p>
                 </div>
               </div>
@@ -505,9 +505,9 @@ export default function BestSettlementCompanyPage() {
             </section>
 
             <section className="scroll-mt-32 mb-16">
-              <h2 className="text-2xl md:text-3xl font-black text-[#2E2E2E] mb-8">
+              <h3 className="text-2xl md:text-3xl font-black text-[#2E2E2E] mb-8">
                 A Deep Dive into Banking Policies in 2026
-              </h2>
+              </h3>
               <p>
                 The Indian banking landscape is evolving. In 2026, many private lenders in Mumbai and Bangalore have adopted AI-driven recovery models. These models predict a borrower's likelihood of default and trigger recovery actions much faster than before. However, the flip side is that these same models also identify when a settlement is more profitable for the bank than a prolonged litigation.
               </p>
@@ -520,9 +520,9 @@ export default function BestSettlementCompanyPage() {
             </section>
 
             <section id="mediators-role" className="scroll-mt-32 mb-16">
-              <h2 className="text-2xl md:text-3xl font-black text-[#2E2E2E] mb-8">
+              <h3 className="text-2xl md:text-3xl font-black text-[#2E2E2E] mb-8">
                 The Role of Professional Mediators in Debt Resolution
-              </h2>
+              </h3>
               <p>
                 In many developed economies, debt mediation is a standard part of the financial ecosystem. In India, SettleLoans is pioneering this space in the top metros. Think of us as your "Financial Lawyers." Just as you wouldn't go to court without a lawyer, you shouldn't enter into a high-stakes negotiation with a multi-billion dollar bank without professional representation.
               </p>
@@ -535,9 +535,9 @@ export default function BestSettlementCompanyPage() {
             </section>
 
             <section id="conclusion" className="scroll-mt-32 mb-16">
-              <h2 className="text-2xl md:text-3xl font-black text-[#2E2E2E] mb-8">
+              <h3 className="text-2xl md:text-3xl font-black text-[#2E2E2E] mb-8">
                 Conclusion: Your Strategic Roadmap to Financial Freedom
-              </h2>
+              </h3>
               <p>
                 Being in debt in a major metro like Bangalore, Mumbai, or Delhi is a challenge, but it is not the end of your story. With the right partner, you can navigate this storm and emerge on the other side with your dignity and your financial future intact. The journey from default to settlement to credit rebuilding is a marathon, not a sprint.
               </p>
@@ -553,9 +553,9 @@ export default function BestSettlementCompanyPage() {
             </section>
 
             <section id="faqs" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                 Frequently Asked Questions
-              </h2>
+              </h3>
               <div className="space-y-4">
                 {[
                   { q: "Is loan settlement legal in India?", a: "Yes, it is 100% legal. It is a contractual agreement between the borrower and the lender to close the debt for a compromised amount." },

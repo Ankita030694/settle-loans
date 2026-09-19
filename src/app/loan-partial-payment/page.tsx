@@ -264,15 +264,15 @@ export default function LoanPartialPaymentPage() {
             </section>
 
             <section id="what-is-a-part-payment" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 What is a Part Payment?
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 A part payment is a lump sum amount that a borrower pays towards their outstanding loan balance in addition to the regular EMI. 
               </p>
 
               <div className="bg-blue-50 border-l-8 border-[#1F5EFF] p-8 rounded-r-2xl mb-8">
-                <h3 className="text-xl font-black text-[#1F5EFF] mb-4">Core Benefits of Part Payments</h3>
+                <h4 className="text-xl font-black text-[#1F5EFF] mb-4">Core Benefits of Part Payments</h4>
                 <p className="text-blue-900 text-lg leading-relaxed mb-4">
                   Making a part payment triggers a series of highly favorable mathematical events in your loan account:
                 </p>
@@ -294,34 +294,34 @@ export default function LoanPartialPaymentPage() {
             </section>
 
             <section id="how-to-reduce-loan-principal" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 How to Reduce Loan Principal Effectively
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 To maximize your <strong>part payment benefits</strong>, you need to be strategic. Throwing random amounts at your loan whenever you feel like it won't yield the best results.
               </p>
 
               <div className="grid md:grid-cols-2 gap-6 my-8">
                 <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
-                  <h3 className="font-black text-[#1F5EFF] text-lg mb-3">Timing is Everything</h3>
+                  <h4 className="font-black text-[#1F5EFF] text-lg mb-3">Timing is Everything</h4>
                   <p className="text-gray-700 leading-relaxed">
                     Make part payments early in your loan tenure. The first 30% of your tenure is when interest payments are the highest. A part payment here yields the maximum savings.
                   </p>
                 </div>
                 <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
-                  <h4 className="font-black text-[#1F5EFF] text-lg mb-3">Annual Windfalls</h4>
+                  <h5 className="font-black text-[#1F5EFF] text-lg mb-3">Annual Windfalls</h5>
                   <p className="text-gray-700 leading-relaxed">
                     Use your annual bonuses, tax refunds, or unexpected windfalls to make these payments. Committing one bonus a year to your principal will shave years off your loan.
                   </p>
                 </div>
                 <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
-                  <h4 className="font-black text-[#1F5EFF] text-lg mb-3">The "Extra EMI" Strategy</h4>
+                  <h5 className="font-black text-[#1F5EFF] text-lg mb-3">The "Extra EMI" Strategy</h5>
                   <p className="text-gray-700 leading-relaxed">
                     If you cannot manage a large lump sum, aim to pay one extra EMI amount per year as a part payment. It's a psychological trick that reaps massive mathematical rewards.
                   </p>
                 </div>
                 <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
-                  <h4 className="font-black text-[#1F5EFF] text-lg mb-3">Tenure vs. EMI Reduction</h4>
+                  <h5 className="font-black text-[#1F5EFF] text-lg mb-3">Tenure vs. EMI Reduction</h5>
                   <p className="text-gray-700 leading-relaxed">
                     After a part payment, always opt to reduce your loan tenure rather than your EMI. Reducing your EMI sacrifices the compounding interest savings.
                   </p>
@@ -330,9 +330,9 @@ export default function LoanPartialPaymentPage() {
             </section>
 
             <section id="how-to-make-a-partial-payment" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 Steps to Make a Partial Payment
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 The process for making a part payment varies slightly between banks, but the general framework is consistent. Follow these steps to ensure your money is applied correctly.
               </p>
@@ -341,7 +341,7 @@ export default function LoanPartialPaymentPage() {
                 <div className="flex gap-6">
                   <div className="flex-shrink-0 w-12 h-12 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center font-black text-xl shadow-lg">1</div>
                   <div>
-                    <h3 className="text-2xl font-bold text-[#2E2E2E] mb-2">Check the Lock-in Period</h3>
+                    <h4 className="text-2xl font-bold text-[#2E2E2E] mb-2">Check the Lock-in Period</h4>
                     <p className="text-lg text-gray-700 leading-relaxed">
                       Most personal loans have a lock-in period of 6 to 12 months during which no part payments are allowed. Verify this in your loan agreement.
                     </p>
@@ -351,7 +351,7 @@ export default function LoanPartialPaymentPage() {
                 <div className="flex gap-6">
                   <div className="flex-shrink-0 w-12 h-12 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center font-black text-xl shadow-lg">2</div>
                   <div>
-                    <h3 className="text-2xl font-bold text-[#2E2E2E] mb-2">Confirm Minimum Amounts</h3>
+                    <h4 className="text-2xl font-bold text-[#2E2E2E] mb-2">Confirm Minimum Amounts</h4>
                     <p className="text-lg text-gray-700 leading-relaxed">
                       Banks usually stipulate a minimum part payment amount, typically equal to 2 or 3 times your regular monthly EMI. Ensure you have sufficient funds.
                     </p>
@@ -361,7 +361,7 @@ export default function LoanPartialPaymentPage() {
                 <div className="flex gap-6">
                   <div className="flex-shrink-0 w-12 h-12 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center font-black text-xl shadow-lg">3</div>
                   <div>
-                    <h3 className="text-2xl font-bold text-[#2E2E2E] mb-2">Execute and Request Tenure Reduction</h3>
+                    <h4 className="text-2xl font-bold text-[#2E2E2E] mb-2">Execute and Request Tenure Reduction</h4>
                     <p className="text-lg text-gray-700 leading-relaxed">
                       Make the payment via net banking, cheque, or at the branch. Crucially, explicitly instruct the bank to apply the payment to the principal and to reduce your loan tenure, not the EMI.
                     </p>
@@ -371,9 +371,9 @@ export default function LoanPartialPaymentPage() {
             </section>
 
             <section id="the-mathematical-secret" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 The Mathematical Secret
-              </h2>
+              </h3>
               <div className="bg-gray-50 p-8 rounded-2xl mb-8 border border-gray-200">
                 <p className="text-gray-800 text-lg leading-relaxed mb-4">
                   <strong>The compounding effect works in reverse when you pay down debt.</strong>
@@ -387,21 +387,21 @@ export default function LoanPartialPaymentPage() {
             </section>
 
             <section id="lump-sum-vs-step-up-emi" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 Lump Sum vs. Step-Up EMI: Which is Better?
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 Many borrowers wonder whether it’s better to make one large lump sum partial payment or simply increase their monthly EMI (known as a step-up EMI) to pay off the loan faster. Both methods effectively reduce your principal, but they operate differently mathematically.
               </p>
               <div className="grid md:grid-cols-2 gap-6 my-8">
                 <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
-                  <h3 className="font-black text-[#1F5EFF] text-lg mb-3">Lump Sum Advantage</h3>
+                  <h4 className="font-black text-[#1F5EFF] text-lg mb-3">Lump Sum Advantage</h4>
                   <p className="text-gray-700 leading-relaxed">
                     A lump sum part payment immediately knocks out a large chunk of your principal. This instantly recalculates your amortization schedule, meaning every subsequent EMI has a higher principal component and a lower interest component.
                   </p>
                 </div>
                 <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
-                  <h4 className="font-black text-[#1F5EFF] text-lg mb-3">Step-Up EMI Advantage</h4>
+                  <h5 className="font-black text-[#1F5EFF] text-lg mb-3">Step-Up EMI Advantage</h5>
                   <p className="text-gray-700 leading-relaxed">
                     A step-up EMI slowly accelerates your payment over time. It’s easier on cash flow since it relies on your annual salary increments. It’s consistent and automatic, but the total interest saved is generally slightly less than an early lump-sum payment.
                   </p>
@@ -413,14 +413,14 @@ export default function LoanPartialPaymentPage() {
             </section>
 
             <section id="impact-on-credit-score" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 Impact on Credit Score
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 Will making a partial payment boost your CIBIL score? The short answer is yes, but the mechanics of how it helps are indirect yet incredibly powerful.
               </p>
               <div className="bg-white rounded-2xl p-8 border border-[#DEDEDE] shadow-sm mb-8">
-                <h3 className="text-xl font-bold mb-4 text-[#2E2E2E]">How Part Payments Boost CIBIL</h3>
+                <h4 className="text-xl font-bold mb-4 text-[#2E2E2E]">How Part Payments Boost CIBIL</h4>
                 <ul className="text-sm space-y-4 font-medium list-none text-gray-700">
                   <li className="flex items-start gap-2">
                     <span className="w-1.5 h-1.5 bg-[#1F5EFF] rounded-full mt-2 flex-shrink-0"></span>
@@ -439,14 +439,14 @@ export default function LoanPartialPaymentPage() {
             </section>
 
             <section id="when-to-avoid-part-payments" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 When to Avoid Part Payments
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 As incredibly beneficial as part payments are, there are specific financial scenarios where making an extra payment toward your loan might actually be a bad idea. Understanding these exceptions is crucial for balanced financial planning.
               </p>
               <div className="bg-red-50 p-6 rounded-xl border border-red-100 mb-8">
-                <h3 className="text-xl font-black text-red-700 mb-3">Red Flags: Do Not Prepay If...</h3>
+                <h4 className="text-xl font-black text-red-700 mb-3">Red Flags: Do Not Prepay If...</h4>
                 <p className="text-red-900 leading-relaxed mb-4">
                   Consider holding onto your cash if you fall into any of these categories:
                 </p>
@@ -468,9 +468,9 @@ export default function LoanPartialPaymentPage() {
             </section>
 
             <section id="psychological-benefits" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 The Psychological Benefits of Early Repayment
-              </h2>
+              </h3>
               <div className="bg-gray-50 p-8 rounded-2xl mb-8 border border-gray-200">
                 <p className="text-gray-800 text-lg leading-relaxed mb-4">
                   While we've focused heavily on the math, we cannot ignore the psychological aspect of debt. Debt often feels like a heavy anchor. It limits career choices, prevents entrepreneurial risks, and adds a constant low-level hum of anxiety to your life.
@@ -482,15 +482,15 @@ export default function LoanPartialPaymentPage() {
             </section>
 
             <section id="prepayment-penalties" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 Beware of Prepayment Penalties
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 While the benefits are massive, banks don't want to lose out on interest income. They often introduce friction to discourage part payments.
               </p>
               
               <div className="bg-red-50 p-6 rounded-xl border border-red-100 mb-8">
-                <h3 className="text-xl font-black text-red-700 mb-3">Watch Out For Penalty Charges</h3>
+                <h4 className="text-xl font-black text-red-700 mb-3">Watch Out For Penalty Charges</h4>
                 <p className="text-red-900 leading-relaxed">
                   Many lenders charge a part-payment penalty, typically ranging from 1% to 3% of the part payment amount, plus GST. Additionally, there are often limits on how many times a year you can make these payments. Always read your sanction letter carefully and calculate if the interest savings outweigh the penalty charges before proceeding.
                 </p>
@@ -498,9 +498,9 @@ export default function LoanPartialPaymentPage() {
             </section>
 
             <section id="success-stories" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 Client Success Stories
-              </h2>
+              </h3>
               <div className="grid md:grid-cols-2 gap-6 my-8">
                 <div className="bg-white p-8 rounded-[30px] border border-[#DEDEDE] shadow-sm hover:shadow-xl group transition-all">
                   <div className="flex items-center gap-4 mb-6">
@@ -508,7 +508,7 @@ export default function LoanPartialPaymentPage() {
                       RM
                     </div>
                     <div>
-                      <h3 className="font-bold text-gray-900">Rajesh M.</h3>
+                      <h4 className="font-bold text-gray-900">Rajesh M.</h4>
                       <div className="flex text-yellow-400">
                         <svg className="w-4 h-4 fill-current" viewBox="0 0 20 20"><path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z"/></svg>
                         <svg className="w-4 h-4 fill-current" viewBox="0 0 20 20"><path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z"/></svg>
@@ -533,7 +533,7 @@ export default function LoanPartialPaymentPage() {
                       NS
                     </div>
                     <div>
-                      <h4 className="font-bold text-gray-900">Neha S.</h4>
+                      <h5 className="font-bold text-gray-900">Neha S.</h5>
                       <div className="flex text-yellow-400">
                         <svg className="w-4 h-4 fill-current" viewBox="0 0 20 20"><path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z"/></svg>
                         <svg className="w-4 h-4 fill-current" viewBox="0 0 20 20"><path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z"/></svg>
@@ -555,13 +555,13 @@ export default function LoanPartialPaymentPage() {
             </section>
 
             <section id="faqs" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 Frequently Asked Questions
-              </h2>
+              </h3>
               <div className="space-y-4">
                 {jsonLd["@graph"].find(item => item["@type"] === "FAQPage")?.mainEntity?.map((faq: any, index: number) => (
                   <div key={index} className="bg-white border border-[#DEDEDE] rounded-xl p-6 hover:shadow-md transition-shadow">
-                    <h3 className="text-xl font-bold text-[#2E2E2E] mb-3">{faq.name}</h3>
+                    <h4 className="text-xl font-bold text-[#2E2E2E] mb-3">{faq.name}</h4>
                     <p className="text-gray-700 leading-relaxed">{faq.acceptedAnswer.text}</p>
                   </div>
                 ))}
@@ -570,7 +570,7 @@ export default function LoanPartialPaymentPage() {
 
             <div className="bg-[#2E2E2E] text-white p-12 rounded-[40px] text-center mt-24 relative overflow-hidden group">
               <div className="absolute inset-0 bg-[#1F5EFF] opacity-0 group-hover:opacity-5 transition-opacity"></div>
-              <h3 className="text-3xl font-black mb-6 relative z-10">Ready to Become Debt-Free?</h3>
+              <h4 className="text-3xl font-black mb-6 relative z-10">Ready to Become Debt-Free?</h4>
               <p className="text-xl opacity-90 mb-8 relative z-10 max-w-2xl mx-auto">
                 Want to crush your debt faster? Learn the mathematical secret of how 1 extra partial payment can shave years off your loan.
               </p>

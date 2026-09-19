@@ -503,9 +503,9 @@ export default function BankKaLegalNoticeAaneParKyaKarePage() {
                 </span>
                 <span className="text-xs font-black tracking-widest text-[#1F5EFF] uppercase">Section 02</span>
               </div>
-              <h2 className="text-2xl sm:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h3 className="text-2xl sm:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 2. Bank Legal Notice Ko Ignore Karna Kyu Khatarnak Hai
-              </h2>
+              </h3>
               <div className="space-y-4 text-slate-700 leading-relaxed text-base">
                 <p>
                   Adhikansh borrowers ghabrahat, financial resources ki kami, ya galatfehmi ke kaaran bank ke legal notice ko daraz mein band karke rakh dete hain ya use puri tarah ignore kar dete hain. Unhe lagta hai ki jab court se bulawa aayega tab dekha jayega. Yeh unke financial aur legal jeevan ki sabse badi bhool sabit hoti hai. Indian legal framework mein legal notice ko ignore karne ke parinam behad gambhir hote hain jo aapke defence ko hamesha ke liye kamzor kar dete hain.
@@ -527,9 +527,9 @@ export default function BankKaLegalNoticeAaneParKyaKarePage() {
                 </span>
                 <span className="text-xs font-black tracking-widest text-[#1F5EFF] uppercase">Section 03</span>
               </div>
-              <h2 className="text-2xl sm:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h3 className="text-2xl sm:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 3. The 15-Day Critical Reply Window: Key Strategic Steps
-              </h2>
+              </h3>
               <div className="space-y-4 text-slate-700 leading-relaxed text-base">
                 <p>
                   Har advocate legal notice mein aamtaur par <strong>15 calendar days</strong> ka samay diya jata hai jismein dues clear karne ya formal reply submit karne ki demand hoti hai. Yeh 15 din ka samay borrower ke liye ek golden strategic window hota hai. Is dauran kiya gaya action yeh nirdharit karta hai ki aane wale mahino mein mamla court ki lambi litigation mein fasega ya bank ke sath table par baithkar peaceful One-Time Settlement (OTS) mein convert hoga.
@@ -560,9 +560,9 @@ export default function BankKaLegalNoticeAaneParKyaKarePage() {
                 </span>
                 <span className="text-xs font-black tracking-widest text-[#1F5EFF] uppercase">Section 04</span>
               </div>
-              <h2 className="text-2xl sm:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h3 className="text-2xl sm:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 4. Bank Accounting Dynamics: NPA Provisioning & NPV Math
-              </h2>
+              </h3>
               <div className="space-y-4 text-slate-700 leading-relaxed text-base">
                 <p>
                   Banks kyu legal notice bhejte hain aur fir achanak loan settlement ke liye taiyar kyu ho jate hain? Iske peeche banking accounting aur Reserve Bank of India ke prudential provisioning norms ka deep mathematical reality hota hai. Jab koi loan account 90 din se adhik default rehta hai, toh RBI ke <strong>Income Recognition and Asset Classification (IRAC)</strong> norms ke mutabiq bank ko us loan ke khilaf apni balance sheet mein se 15% se lekar 100% tak provisioning capital reserve ke roop mein alag rakhna padta hai.
@@ -605,9 +605,9 @@ export default function BankKaLegalNoticeAaneParKyaKarePage() {
                       <span className="text-[10px] font-black uppercase tracking-widest text-blue-300 block">
                         Statutory Defence Workflow
                       </span>
-                      <h3 className="text-sm md:text-base font-black text-white leading-tight">
+                      <h4 className="text-sm md:text-base font-black text-white leading-tight">
                         Bank Ka Legal Notice Aane Par Kya Kare: 4-Stage Resolution Blueprint
-                      </h3>
+                      </h4>
                     </div>
                   </div>
                   <a
@@ -654,9 +654,9 @@ export default function BankKaLegalNoticeAaneParKyaKarePage() {
                 </span>
                 <span className="text-xs font-black tracking-widest text-[#1F5EFF] uppercase">Section 06</span>
               </div>
-              <h2 className="text-2xl sm:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h3 className="text-2xl sm:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 6. Advocate Reply Drafting Strategy & Formal Rejoinder
-              </h2>
+              </h3>
               <div className="space-y-4 text-slate-700 leading-relaxed text-base">
                 <p>
                   Ek professional advocate dwara draft kiya gaya legal notice reply koi simple mafinama ya appeal nahi hota, balki ek comprehensive statutory rejoinder hota hai jo Indian laws aur RBI regulations ke tahat bank ke claims ko structure karta hai. Jab bank ka panel lawyer aapka detailed advocate reply receive karta hai, toh use clear signal milta hai ki borrower legally equipped hai aur bina justifiable ground ke unilateral recovery order lena asambhav hoga.
@@ -687,9 +687,9 @@ export default function BankKaLegalNoticeAaneParKyaKarePage() {
                 </span>
                 <span className="text-xs font-black tracking-widest text-[#1F5EFF] uppercase">Section 07</span>
               </div>
-              <h2 className="text-2xl sm:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h3 className="text-2xl sm:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 7. Halting Court Action Through National Lok Adalat
-              </h2>
+              </h3>
               <div className="space-y-4 text-slate-700 leading-relaxed text-base">
                 <p>
                   Legal notice aane ke baad sabse safe aur cost-effective tarika hota hai dispute ko <strong>National Lok Adalat</strong> ya pre-litigation mediation forum mein shift karna. Legal Services Authorities Act, 1987 ke tahat sthapit Lok Adalat ek statutory forum hai jo courts ke bojh ko kam karne aur borrowers va banks ke beech mutual agreement se disputes ko nipatane ke liye har 3 mahine mein pure desh mein aayojit ki jati hai.
@@ -717,9 +717,9 @@ export default function BankKaLegalNoticeAaneParKyaKarePage() {
                 </span>
                 <span className="text-xs font-black tracking-widest text-[#1F5EFF] uppercase">Section 08</span>
               </div>
-              <h2 className="text-2xl sm:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h3 className="text-2xl sm:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 8. OTS Negotiation: Sanction Letter Forensics & ₹0 NDC
-              </h2>
+              </h3>
               <div className="space-y-4 text-slate-700 leading-relaxed text-base">
                 <p>
                   Legal notice ke formal reply ke baad bank jab compromise negotiations ke liye agree hota hai, toh borrower ko <strong>One-Time Settlement (OTS)</strong> process ko pure forensic discipline ke sath execute karna chahiye. Bahut se borrowers verbally settlement amount tay karke kisi recovery agent ke UPI ya personal account mein paise transfer kar dete hain, jisse unke paise doob jate hain aur bank ledger par default waisa ka waisa bana rehta hai.
@@ -747,9 +747,9 @@ export default function BankKaLegalNoticeAaneParKyaKarePage() {
                 </span>
                 <span className="text-xs font-black tracking-widest text-[#1F5EFF] uppercase">Section 09</span>
               </div>
-              <h2 className="text-2xl sm:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h3 className="text-2xl sm:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 9. Bank Notice Types & Borrower Defense Strategy Matrix
-              </h2>
+              </h3>
               <div className="space-y-4 text-slate-700 leading-relaxed text-base">
                 <p>
                   Alag-alag banking defaults ke mutabiq alag-alag kanun lagu hote hain. Niche di gayi comparative matrix table aapko har prakar ke bank notice ke legal section, statutory response window, aur effective defence strategy ko spasht roop se samajhati hai:
@@ -822,9 +822,9 @@ export default function BankKaLegalNoticeAaneParKyaKarePage() {
                 </span>
                 <span className="text-xs font-black tracking-widest text-[#1F5EFF] uppercase">Section 11</span>
               </div>
-              <h2 className="text-2xl sm:text-3xl font-black text-slate-900 mb-6 leading-tight">
+              <h3 className="text-2xl sm:text-3xl font-black text-slate-900 mb-6 leading-tight">
                 FAQs: Bank Legal Notice Resolution & Borrower Rights
-              </h2>
+              </h3>
 
               <div className="space-y-4">
                 <details className="group border border-slate-200 rounded-2xl bg-white shadow-sm overflow-hidden transition-all duration-200 hover:border-slate-300" open>

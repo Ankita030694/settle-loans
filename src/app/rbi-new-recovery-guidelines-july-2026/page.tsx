@@ -243,7 +243,7 @@ export default function RBIRecoveryGuidelines2026Page() {
                                 The <strong>RBI New Recovery Guidelines July 2026</strong> are not merely a list of suggestions; they are a statutory overhaul. These rules are designed to balance the rights of financial institutions to recover their dues with the fundamental right of every citizen to live with dignity and privacy. In a digital-first economy where 'Easy Credit' has led to complex debt cycles, these guidelines serve as the essential safety net for the common man.
                             </p>
                             <div className="bg-blue-50 p-10 rounded-[32px] border-2 border-blue-100 my-12 shadow-sm">
-                                <h3 className="text-2xl font-black text-blue-900 mb-6 uppercase tracking-wider italic italic">The Institutional Core</h3>
+                                <h4 className="text-2xl font-black text-blue-900 mb-6 uppercase tracking-wider italic italic">The Institutional Core</h4>
                                 <p className="text-lg text-blue-800 leading-relaxed font-medium">
                                     At the heart of the 2026 reforms is the concept of 'Institutional Integrity'. Banks and NBFCs can no longer hide behind third-party agencies; they are now legally and financially responsible for every word spoken and every action taken by their representatives. This is the era of zero tolerance for institutional harassment.
                                 </p>
@@ -251,27 +251,27 @@ export default function RBIRecoveryGuidelines2026Page() {
                         </section>
 
                         <section id="prohibited-practices-list" className="scroll-mt-32 mb-20">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 uppercase tracking-widest border-b-8 border-gray-100 pb-4">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 uppercase tracking-widest border-b-8 border-gray-100 pb-4">
                                 The "No-Go" Zone: Prohibited Recovery Practices
-                            </h2>
+                            </h3>
                             <p className="mb-8 font-medium">
                                 The new circular provides an exhaustive list of practices that are strictly prohibited. Engaging in any of these will trigger immediate regulatory penalties for the lender.
                             </p>
                             <div className="grid md:grid-cols-2 gap-8 my-12">
                                 <div className="p-8 bg-gray-50 rounded-[40px] border border-gray-100 shadow-sm transition-all hover:border-[#1F5EFF]/30 group">
-                                    <h3 className="text-xl font-black text-[#1F5EFF] mb-4 uppercase group-hover:italic transition-all">Verbal & Physical Abuse</h3>
+                                    <h4 className="text-xl font-black text-[#1F5EFF] mb-4 uppercase group-hover:italic transition-all">Verbal & Physical Abuse</h4>
                                     <p className="text-sm leading-relaxed font-bold">Use of abusive language, shouting, or any form of physical threat (implied or direct) is a top-tier violation. Agents must maintain a professional and courteous tone at all times.</p>
                                 </div>
                                 <div className="p-8 bg-gray-50 rounded-[40px] border border-gray-100 shadow-sm transition-all hover:border-[#1F5EFF]/30 group">
-                                    <h4 className="text-xl font-black text-[#1F5EFF] mb-4 uppercase group-hover:italic transition-all">Public Humiliation</h4>
+                                    <h5 className="text-xl font-black text-[#1F5EFF] mb-4 uppercase group-hover:italic transition-all">Public Humiliation</h5>
                                     <p className="text-sm leading-relaxed font-bold">Agents are forbidden from publishing names of defaulters on social media, putting up posters in the borrower's locality, or disclosing debt details to unauthorized third parties.</p>
                                 </div>
                                 <div className="p-8 bg-gray-50 rounded-[40px] border border-gray-100 shadow-sm transition-all hover:border-[#1F5EFF]/30 group">
-                                    <h4 className="text-xl font-black text-[#1F5EFF] mb-4 uppercase group-hover:italic transition-all">Misleading Threats</h4>
+                                    <h5 className="text-xl font-black text-[#1F5EFF] mb-4 uppercase group-hover:italic transition-all">Misleading Threats</h5>
                                     <p className="text-sm leading-relaxed font-bold">Threatening the borrower with immediate arrest, police action for a civil debt, or falsely claiming to be a court official is a criminal offense under the new framework.</p>
                                 </div>
                                 <div className="p-8 bg-gray-50 rounded-[40px] border border-gray-100 shadow-sm transition-all hover:border-[#1F5EFF]/30 group">
-                                    <h4 className="text-xl font-black text-[#1F5EFF] mb-4 uppercase group-hover:italic transition-all">Invasive Interaction</h4>
+                                    <h5 className="text-xl font-black text-[#1F5EFF] mb-4 uppercase group-hover:italic transition-all">Invasive Interaction</h5>
                                     <p className="text-sm leading-relaxed font-bold">Repeatedly calling the borrower's workplace, contacting referees for reason other than address verification, or visiting during funerals or festivals is strictly prohibited.</p>
                                 </div>
                             </div>
@@ -279,9 +279,9 @@ export default function RBIRecoveryGuidelines2026Page() {
 
                         <section id="contact-hours-window" className="scroll-mt-32 mb-20 p-12 bg-gray-900 rounded-[48px] text-white shadow-2xl relative overflow-hidden">
                             <div className="absolute bottom-0 right-0 w-48 h-48 bg-blue-500/10 rounded-full -mr-24 -mb-24 blur-3xl"></div>
-                            <h2 className="text-3xl md:text-4xl font-black mb-8 uppercase tracking-tighter italic text-blue-400">
+                            <h3 className="text-3xl md:text-4xl font-black mb-8 uppercase tracking-tighter italic text-blue-400">
                                 The 8-AM-to-7-PM Rule: Enforcing Timelines
-                            </h2>
+                            </h3>
                             <p className="mb-8 text-xl leading-relaxed opacity-80 font-medium">
                                 One of the most common complaints by borrowers is the receiving of calls at odd hours: late at night or early in the morning. The 2026 guidelines provide a rigid temporal framework for all recovery interactions.
                             </p>
@@ -301,9 +301,9 @@ export default function RBIRecoveryGuidelines2026Page() {
                         </section>
 
                         <section id="mandatory-certification-iibf" className="scroll-mt-32 mb-20 mt-20">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 border-l-8 border-[#1F5EFF] pl-6 uppercase tracking-widest">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 border-l-8 border-[#1F5EFF] pl-6 uppercase tracking-widest">
                                 The "Certified Professional" Mandate: Certification for Agents
-                            </h2>
+                            </h3>
                             <p className="mb-8 leading-relaxed">
                                 From July 2026, the concept of the 'Unregulated Recovery Agent' is dead. Every individual who interacts with a borrower for debt collection must possess a valid certification from the <strong>Indian Institute of Banking and Finance (IIBF)</strong>. This certification process involves rigorous training in the Fair Practices Code, ethical communication, and the legal limits of recovery.
                             </p>
@@ -311,7 +311,7 @@ export default function RBIRecoveryGuidelines2026Page() {
                                 Lenders are now required to maintain a digital database of these certified agents. When an agent visits you or calls you, they are legally bound to provide their certification details upon request. If an agent cannot prove their certification, the borrower has the right to refuse interaction and report the bank for engaging unverified personnel. This move ensures that the first line of recovery consists of professionals who understand the law, rather than muscle-men who seek to bypass it.
                             </p>
                             <div className="bg-orange-50 p-10 rounded-[32px] border-2 border-orange-100 my-12">
-                                <h3 className="text-2xl font-black text-orange-900 mb-4 uppercase italic">Verification Check</h3>
+                                <h4 className="text-2xl font-black text-orange-900 mb-4 uppercase italic">Verification Check</h4>
                                 <p className="text-lg text-orange-800 leading-relaxed font-bold">
                                     Always ask for the "IIBF Registration Number" during your first interaction with a recovery agent. A legitimate professional will have no hesitation in providing it. An intimidator will likely hang up.
                                 </p>
@@ -319,9 +319,9 @@ export default function RBIRecoveryGuidelines2026Page() {
                         </section>
 
                         <section id="vicarious-liability-banks" className="scroll-mt-32 mb-20">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 uppercase tracking-tighter decoration-[#1F5EFF] underline underline-offset-8">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 uppercase tracking-tighter decoration-[#1F5EFF] underline underline-offset-8">
                                 Vicarious Liability: No More Scapegoating
-                            </h2>
+                            </h3>
                             <p className="mb-8 leading-relaxed">
                                 For years, banks and NBFCs escaped accountability by claiming that harassment was the rogue act of an independent recovery agency. The July 2026 guidelines end this 'Plausible Deniability' through the doctrine of <strong>Vicarious Liability</strong>.
                             </p>
@@ -346,7 +346,7 @@ export default function RBIRecoveryGuidelines2026Page() {
 
                         <section id="privacy-family-protections" className="scroll-mt-32 mb-20 p-10 bg-red-50 rounded-[40px] border-2 border-red-100 shadow-sm relative overflow-hidden">
                             <div className="absolute top-0 right-0 w-32 h-32 bg-red-500/5 rounded-full -mr-16 -mt-16"></div>
-                            <h2 className="text-3xl font-black text-red-900 mb-6 uppercase italic">Privacy is Not a Privilege: Protecting Your Family</h2>
+                            <h3 className="text-3xl font-black text-red-900 mb-6 uppercase italic">Privacy is Not a Privilege: Protecting Your Family</h3>
                             <p className="text-lg text-red-800 leading-relaxed font-medium mb-6">
                                 Interaction with family members, neighbors, or friends for recovery is now a "Red-Line" violation. The debt is a contract between the borrower and the lender; your elderly parents or distant relatives are not part of that contract.
                             </p>
@@ -368,9 +368,9 @@ export default function RBIRecoveryGuidelines2026Page() {
                         </section>
 
                         <section id="ombudsman-recourse-2026" className="scroll-mt-32 mb-20">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 uppercase italic border-l-8 border-gray-900 pl-6">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 uppercase italic border-l-8 border-gray-900 pl-6">
                                 The Ombudsman Power: Moving Beyond Internal Complaints
-                            </h2>
+                            </h3>
                             <p className="mb-8 text-lg leading-relaxed">
                                 The first step in any dispute is always the bank's internal 'Grievance Redressal Mechanism'. However, under the 2026 framework, if you do not receive a satisfactory response within <strong>30 days</strong>, you have the immediate right to approach the <strong>RBI Integrated Ombudsman</strong>.
                             </p>
@@ -378,7 +378,7 @@ export default function RBIRecoveryGuidelines2026Page() {
                                 The Ombudsman functions as a quasi-judicial authority. They have the power to not only stop the harassment but also order the bank to pay compensation for psychological distress and loss of reputation. In recent cases, the Ombudsman has awarded amounts ranging from ₹25,000 to ₹1,00,000 for verified Fair Practices Code violations. The new guidelines strengthen the Ombudsman's hand by making it mandatory for banks to provide call recordings and interaction logs upon request, significantly simplifying the burden of proof for the borrower.
                             </p>
                             <div className="bg-[#1F5EFF]/5 border-2 border-dashed border-[#1F5EFF]/20 p-10 rounded-[40px] my-12">
-                                <h3 className="text-2xl font-black text-[#2E2E2E] mb-4 uppercase">The "30-Day Window" Rule</h3>
+                                <h4 className="text-2xl font-black text-[#2E2E2E] mb-4 uppercase">The "30-Day Window" Rule</h4>
                                 <p className="text-lg leading-relaxed font-medium">
                                     Do not wait indefinitely for the bank to "investigate" itself. At the exact 31st day, if your harassment complaint hasn't been resolved with a written apology or a stop-contact order, file your online complaint at <strong>cms.rbi.org.in</strong>. This is your most effective constitutional weapon.
                                 </p>
@@ -386,9 +386,9 @@ export default function RBIRecoveryGuidelines2026Page() {
                         </section>
 
                         <section id="identifying-authorized-agents" className="scroll-mt-32 mb-20">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 uppercase tracking-[0.2em] decoration-[#1F5EFF] underline underline-offset-8">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 uppercase tracking-[0.2em] decoration-[#1F5EFF] underline underline-offset-8">
                                 Agent Verification: The "Authorization Card" Protocol
-                            </h2>
+                            </h3>
                             <p className="mb-8 text-xl font-bold italic">
                                 "Identity is the first step of accountability."
                             </p>
@@ -408,9 +408,9 @@ export default function RBIRecoveryGuidelines2026Page() {
                         </section>
 
                         <section id="harassment-legal-consequences" className="scroll-mt-32 mb-20">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">
                                 Criminal vs Civil: Legal Consequences for Harassment
-                            </h2>
+                            </h3>
                             <p className="mb-8 text-lg">
                                 While debt is a civil matter, harassment is a criminal one. The 2026 RBI guidelines reiterate that the criminal law of the land outweighs any recovery directive.
                             </p>
@@ -420,26 +420,26 @@ export default function RBIRecoveryGuidelines2026Page() {
                         </section>
 
                         <section id="preparing-for-july-2026" className="scroll-mt-32 mb-20">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 uppercase tracking-widest leading-none">The Borrower's Compliance Checklist</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 uppercase tracking-widest leading-none">The Borrower's Compliance Checklist</h3>
                             <p className="mb-8 leading-relaxed">As the new guidelines take effect, every borrower should maintain a 'Documentation Shield' to ensure their rights are effectively enforced.</p>
                             <div className="space-y-6">
                                 <div className="p-8 bg-gray-50 rounded-3xl border border-gray-100 shadow-sm">
-                                    <h3 className="text-xl font-black text-[#1F5EFF] mb-4 uppercase">1. Communication Log</h3>
+                                    <h4 className="text-xl font-black text-[#1F5EFF] mb-4 uppercase">1. Communication Log</h4>
                                     <p className="text-sm font-medium leading-relaxed">Keep a recording of every call. Note the date, time, and the name of the agent. This is your primary evidence for an Ombudsman complaint.</p>
                                 </div>
                                 <div className="p-8 bg-gray-50 rounded-3xl border border-gray-100 shadow-sm">
-                                    <h4 className="text-xl font-black text-[#1F5EFF] mb-4 uppercase">2. Written Hardship Disclosure</h4>
+                                    <h5 className="text-xl font-black text-[#1F5EFF] mb-4 uppercase">2. Written Hardship Disclosure</h5>
                                     <p className="text-sm font-medium leading-relaxed">Always disclose your inability to pay in writing (Email/Speed Post). Verbal disclosures count for little; written proof of your cooperation makes harassment look even more institutionalized in the eyes of the regulator.</p>
                                 </div>
                                 <div className="p-8 bg-gray-50 rounded-3xl border border-gray-100 shadow-sm">
-                                    <h4 className="text-xl font-black text-[#1F5EFF] mb-4 uppercase">3. Third-Party Witnessing</h4>
+                                    <h5 className="text-xl font-black text-[#1F5EFF] mb-4 uppercase">3. Third-Party Witnessing</h5>
                                     <p className="text-sm font-medium leading-relaxed">During home visits, if possible, have a neighbor or friend present. Harassment thrives in isolation; professional conduct is more likely when there is a witness.</p>
                                 </div>
                             </div>
                         </section>
 
                         <section id="success-stories" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 text-center uppercase">Real Stories of Regulatory Victory</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 text-center uppercase">Real Stories of Regulatory Victory</h3>
                             <div className="grid md:grid-cols-2 gap-6 not-prose">
                                 {[
                                     {
@@ -463,7 +463,7 @@ export default function RBIRecoveryGuidelines2026Page() {
                                                 {review.name.charAt(0)}
                                             </div>
                                             <div>
-                                                <h3 className="font-bold text-[#2E2E2E]">{review.name}</h3>
+                                                <h4 className="font-bold text-[#2E2E2E]">{review.name}</h4>
                                                 <p className="text-xs text-gray-400">{review.loc}</p>
                                             </div>
                                             <div className="ml-auto text-yellow-400 text-sm">★★★★★</div>
@@ -478,7 +478,7 @@ export default function RBIRecoveryGuidelines2026Page() {
                         </section>
 
                         <section id="faqs" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 uppercase tracking-widest leading-none">RBI Recovery Guidelines 2026 FAQs</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 uppercase tracking-widest leading-none">RBI Recovery Guidelines 2026 FAQs</h3>
                             <div className="space-y-4 not-prose">
                                 {jsonLd["@graph"][4]["mainEntity"]?.map((faq: any, i: number) => (
                                     <details key={i} className="group bg-white border border-[#DEDEDE] rounded-xl overflow-hidden hover:shadow-md transition-all border-b-4 border-b-[#1F5EFF]/20 shadow-sm">
@@ -506,7 +506,7 @@ export default function RBIRecoveryGuidelines2026Page() {
                         <div className="lg:hidden mt-16 mb-8">
                             <div className="bg-[#2E2E2E] rounded-2xl shadow-xl overflow-hidden border border-[#1F5EFF]/20">
                                 <div className="bg-[#1F5EFF] p-6 text-center text-white">
-                                    <h3 className="text-2xl font-black mb-2 uppercase tracking-tighter">Facing Harassment?</h3>
+                                    <h4 className="text-2xl font-black mb-2 uppercase tracking-tighter">Facing Harassment?</h4>
                                     <p className="opacity-90 text-sm italic font-medium">Stop the abuse today. Our experts use the latest RBI directives to defend your rights and peace.</p>
                                 </div>
                                 <div className="p-8 text-center text-[#DEDEDE]">

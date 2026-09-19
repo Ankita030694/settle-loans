@@ -4,7 +4,7 @@ import { Metadata } from 'next';
 import TableOfContents from '@/components/TableOfContents';
 
 export const metadata: Metadata = {
-  title: "Check Loan Settlement Status: How to Track & Get NOC Online",
+  title: "Check Loan Settlement Status: Track & Get NOC Online",
   description: "Waiting for your settlement NOC? Learn how to legally check loan settlement status online, track your NOC, and force the bank to update your CIBIL.",
   alternates: {
     canonical: "https://www.settleloans.in/check-loan-settlement-status",
@@ -260,34 +260,34 @@ export default function CheckLoanSettlementStatusPage() {
             </section>
 
             <section id="how-to-track" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 How to Track Your Status Online
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 Wondering <strong>how to track loan settlement</strong> progress? Do not rely solely on the verbal assurances of a recovery agent or a branch employee. You need to verify it officially.
               </p>
 
               <div className="grid md:grid-cols-2 gap-6 my-8">
                 <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
-                  <h3 className="font-black text-[#1F5EFF] text-lg mb-3">Net Banking Portal</h3>
+                  <h4 className="font-black text-[#1F5EFF] text-lg mb-3">Net Banking Portal</h4>
                   <p className="text-gray-700 leading-relaxed">
                     Log into your official net banking account. Check the 'Loans' or 'Cards' section. A successfully settled loan should eventually be marked as "Closed," "Settled," or removed from active accounts entirely.
                   </p>
                 </div>
                 <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
-                  <h4 className="font-black text-[#1F5EFF] text-lg mb-3">Official Bank Email</h4>
+                  <h5 className="font-black text-[#1F5EFF] text-lg mb-3">Official Bank Email</h5>
                   <p className="text-gray-700 leading-relaxed">
                     Check your registered email inbox for automated confirmations. Real settlement updates are always sent from the bank's official domain (e.g., @hdfcbank.com), never from Gmail or Yahoo addresses.
                   </p>
                 </div>
                 <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
-                  <h4 className="font-black text-[#1F5EFF] text-lg mb-3">Customer Service Portals</h4>
+                  <h5 className="font-black text-[#1F5EFF] text-lg mb-3">Customer Service Portals</h5>
                   <p className="text-gray-700 leading-relaxed">
                     Use the bank's official CRM tracking system. If you logged a request or complaint regarding the settlement, track the ticket ID through their dedicated grievance portal.
                   </p>
                 </div>
                 <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
-                  <h4 className="font-black text-[#1F5EFF] text-lg mb-3">CIBIL Report Verification</h4>
+                  <h5 className="font-black text-[#1F5EFF] text-lg mb-3">CIBIL Report Verification</h5>
                   <p className="text-gray-700 leading-relaxed">
                     The ultimate proof of your <strong>settlement NOC status</strong> is your credit report. Download a fresh CIBIL report 45 days after payment to ensure the account status reflects "Post Write-off Settled."
                   </p>
@@ -296,15 +296,15 @@ export default function CheckLoanSettlementStatusPage() {
             </section>
 
             <section id="legal-rights" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 Your Legal Rights for NOC & Updates
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 You are not at the mercy of the bank once you have fulfilled your end of the settlement agreement.
               </p>
 
               <div className="bg-blue-50 border-l-8 border-[#1F5EFF] p-8 rounded-r-2xl mb-8">
-                <h3 className="text-xl font-black text-[#1F5EFF] mb-4">The Bank's Obligation</h3>
+                <h4 className="text-xl font-black text-[#1F5EFF] mb-4">The Bank's Obligation</h4>
                 <p className="text-blue-900 text-lg leading-relaxed mb-4">
                   Under banking codes and consumer protection laws, banks are obligated to issue a No Dues Certificate promptly upon receiving the final settlement payment.
                 </p>
@@ -326,9 +326,9 @@ export default function CheckLoanSettlementStatusPage() {
             </section>
 
             <section id="steps-to-escalate" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 Steps to Escalate Delay in Settlement Status
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 If you <strong>check loan settlement status online</strong> and it remains un-updated after 30 days, or if the bank refuses to issue your NOC, take immediate action to force compliance.
               </p>
@@ -337,7 +337,7 @@ export default function CheckLoanSettlementStatusPage() {
                 <div className="flex gap-6">
                   <div className="flex-shrink-0 w-12 h-12 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center font-black text-xl shadow-lg">1</div>
                   <div>
-                    <h3 className="text-2xl font-bold text-[#2E2E2E] mb-2">Escalate to Nodal Officer</h3>
+                    <h4 className="text-2xl font-bold text-[#2E2E2E] mb-2">Escalate to Nodal Officer</h4>
                     <p className="text-lg text-gray-700 leading-relaxed">
                       Bypass regular customer care. Draft a strong email to the Principal Nodal Officer of the bank. Attach the signed settlement letter and proof of payment transaction (UTR number).
                     </p>
@@ -347,7 +347,7 @@ export default function CheckLoanSettlementStatusPage() {
                 <div className="flex gap-6">
                   <div className="flex-shrink-0 w-12 h-12 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center font-black text-xl shadow-lg">2</div>
                   <div>
-                    <h3 className="text-2xl font-bold text-[#2E2E2E] mb-2">Send a Legal Demand Notice</h3>
+                    <h4 className="text-2xl font-bold text-[#2E2E2E] mb-2">Send a Legal Demand Notice</h4>
                     <p className="text-lg text-gray-700 leading-relaxed">
                       If the Nodal Officer ignores you, hire a lawyer to send a formal legal demand notice. This notice compels the bank to update the status and warns of impending legal action for deficiency of service.
                     </p>
@@ -357,7 +357,7 @@ export default function CheckLoanSettlementStatusPage() {
                 <div className="flex gap-6">
                   <div className="flex-shrink-0 w-12 h-12 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center font-black text-xl shadow-lg">3</div>
                   <div>
-                    <h3 className="text-2xl font-bold text-[#2E2E2E] mb-2">File an RBI Ombudsman Complaint</h3>
+                    <h4 className="text-2xl font-bold text-[#2E2E2E] mb-2">File an RBI Ombudsman Complaint</h4>
                     <p className="text-lg text-gray-700 leading-relaxed">
                       If 30 days pass after your complaint to the bank without a satisfactory resolution, escalate the matter to the RBI Ombudsman through the CMS portal. This usually forces the bank into immediate compliance.
                     </p>
@@ -367,15 +367,15 @@ export default function CheckLoanSettlementStatusPage() {
             </section>
             
             <section id="fake-updates" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 Beware of Fake Status Updates
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 Scams are rampant in the debt settlement space. Borrowers are sometimes tricked by recovery agents who want to collect cash without actually processing a settlement in the system.
               </p>
               
               <div className="bg-red-50 p-6 rounded-xl border border-red-100 mb-8">
-                <h3 className="text-xl font-black text-red-700 mb-3">Red Flags to Watch For</h3>
+                <h4 className="text-xl font-black text-red-700 mb-3">Red Flags to Watch For</h4>
                 <p className="text-red-900 leading-relaxed">
                   Never accept a "status update" or "NOC" sent via WhatsApp as final proof. If an agent promises that your status is updated but it doesn't reflect on the bank's official app or your CIBIL after 45 days, you may have been scammed. Always demand a hard copy or PDF of the NOC from an official bank email domain. If the agent asks for payment to a personal account promising an instant status update, it is a fraud.
                 </p>
@@ -383,9 +383,9 @@ export default function CheckLoanSettlementStatusPage() {
             </section>
             
             <section id="cibil-update" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 The CIBIL Update Delay
-              </h2>
+              </h3>
               
               <div className="bg-gray-50 p-8 rounded-2xl mb-8 border border-gray-200">
                 <p className="text-gray-800 text-lg leading-relaxed mb-4">
@@ -398,9 +398,9 @@ export default function CheckLoanSettlementStatusPage() {
             </section>
 
             <section id="success-stories" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 Client Success Stories
-              </h2>
+              </h3>
               <div className="grid md:grid-cols-2 gap-6 my-8">
                 <div className="bg-white p-8 rounded-[30px] border border-[#DEDEDE] shadow-sm hover:shadow-xl group transition-all">
                   <div className="flex items-center gap-4 mb-6">
@@ -408,7 +408,7 @@ export default function CheckLoanSettlementStatusPage() {
                       VS
                     </div>
                     <div>
-                      <h3 className="font-bold text-gray-900">Vikas S.</h3>
+                      <h4 className="font-bold text-gray-900">Vikas S.</h4>
                       <div className="flex text-yellow-400">
                         <svg className="w-4 h-4 fill-current" viewBox="0 0 20 20"><path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z"/></svg>
                         <svg className="w-4 h-4 fill-current" viewBox="0 0 20 20"><path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z"/></svg>
@@ -433,7 +433,7 @@ export default function CheckLoanSettlementStatusPage() {
                       MT
                     </div>
                     <div>
-                      <h4 className="font-bold text-gray-900">Meera T.</h4>
+                      <h5 className="font-bold text-gray-900">Meera T.</h5>
                       <div className="flex text-yellow-400">
                         <svg className="w-4 h-4 fill-current" viewBox="0 0 20 20"><path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z"/></svg>
                         <svg className="w-4 h-4 fill-current" viewBox="0 0 20 20"><path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z"/></svg>
@@ -455,13 +455,13 @@ export default function CheckLoanSettlementStatusPage() {
             </section>
 
             <section id="faqs" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 Frequently Asked Questions
-              </h2>
+              </h3>
               <div className="space-y-4">
                 {jsonLd["@graph"].find(item => item["@type"] === "FAQPage")?.mainEntity?.map((faq: any, index: number) => (
                   <div key={index} className="bg-white border border-[#DEDEDE] rounded-xl p-6 hover:shadow-md transition-shadow">
-                    <h3 className="text-xl font-bold text-[#2E2E2E] mb-3">{faq.name}</h3>
+                    <h4 className="text-xl font-bold text-[#2E2E2E] mb-3">{faq.name}</h4>
                     <p className="text-gray-700 leading-relaxed">{faq.acceptedAnswer.text}</p>
                   </div>
                 ))}
@@ -470,7 +470,7 @@ export default function CheckLoanSettlementStatusPage() {
 
             <div className="bg-[#2E2E2E] text-white p-12 rounded-[40px] text-center mt-24 relative overflow-hidden group">
               <div className="absolute inset-0 bg-[#1F5EFF] opacity-0 group-hover:opacity-5 transition-opacity"></div>
-              <h3 className="text-3xl font-black mb-6 relative z-10">Stop Waiting for Your NOC</h3>
+              <h4 className="text-3xl font-black mb-6 relative z-10">Stop Waiting for Your NOC</h4>
               <p className="text-xl opacity-90 mb-8 relative z-10 max-w-2xl mx-auto">
                 Is your bank intentionally delaying your NOC or failing to update your CIBIL? Our legal team can force them to close the account officially.
               </p>

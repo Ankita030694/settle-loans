@@ -241,13 +241,13 @@ export default function LoanSettlementCalculatorClient() {
                                     ) : (
                                         <div className="text-center animate-in fade-in zoom-in duration-500">
                                             <p className="text-[#747474] font-black uppercase tracking-widest text-xs mb-4">Targeted Settlement Window</p>
-                                            <h3 className="text-4xl md:text-5xl font-black text-[#1F5EFF] mb-2 leading-none">
+                                            <h4 className="text-4xl md:text-5xl font-black text-[#1F5EFF] mb-2 leading-none">
                                                 ₹{result.lower.toLocaleString('en-IN')}
-                                            </h3>
+                                            </h4>
                                             <div className="w-10 h-1 bg-[#DEDEDE] mx-auto my-3"></div>
-                                            <h3 className="text-4xl md:text-5xl font-black text-[#2E2E2E] leading-none mb-6">
+                                            <h4 className="text-4xl md:text-5xl font-black text-[#2E2E2E] leading-none mb-6">
                                                 ₹{result.upper.toLocaleString('en-IN')}
-                                            </h3>
+                                            </h4>
                                             <p className="text-[#1F5EFF] bg-blue-50 px-4 py-2 rounded-full text-xs font-black uppercase tracking-tighter">
                                                 Recommended Negotiation Zone
                                             </p>
@@ -261,9 +261,9 @@ export default function LoanSettlementCalculatorClient() {
                         </section>
 
                         <section id="math-of-settlement" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                                 Decoding the <span className="text-[#1F5EFF]">Mathematics of Loan Settlement</span>
-                            </h2>
+                            </h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 To successfully negotiate a debt resolution, you must first understand how the bank views your file from a mathematical perspective. Behind every recovery agent's call and every demand notice lies a balance sheet where your loan is no longer an asset but a liability. In the banking world, once a loan crosses the 90-day threshold of non-repayment, it is classified as a Non-Performing Asset (NPA).
                             </p>
@@ -281,7 +281,7 @@ export default function LoanSettlementCalculatorClient() {
                         </section>
 
                         <section id="bank-internal-logic" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">Bank's Internal Logic: The Haircut Philosophy</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">Bank's Internal Logic: The Haircut Philosophy</h3>
                             <p className="text-lg leading-relaxed mb-8">
                                 A "haircut" is the percentage of the debt the bank agrees to waive. For example, if you owe 10 Lakhs and settle for 4 Lakhs, the bank has taken a 60% haircut. Understanding how this percentage varies by loan type is critical:
                             </p>
@@ -296,7 +296,7 @@ export default function LoanSettlementCalculatorClient() {
                                             'border-green-100 bg-green-50'
                                         }`}>
                                         <span className="text-[10px] font-black uppercase tracking-widest opacity-60 mb-2 block">{item.level} Waiver</span>
-                                        <h3 className="text-3xl font-black mb-1">{item.range}</h3>
+                                        <h4 className="text-3xl font-black mb-1">{item.range}</h4>
                                         <p className="text-sm font-bold opacity-80 underline">{item.type}</p>
                                     </div>
                                 ))}
@@ -304,26 +304,26 @@ export default function LoanSettlementCalculatorClient() {
                         </section>
 
                         <section id="factor-impact" className="scroll-mt-32 mb-16 text-white bg-[#2E2E2E] p-12 rounded-[40px] border-l-[12px] border-[#1F5EFF] mt-16">
-                            <h2 className="text-3xl md:text-4xl font-black mb-8 leading-tight">Variable Influencers on Your Settlement Range</h2>
+                            <h3 className="text-3xl md:text-4xl font-black mb-8 leading-tight">Variable Influencers on Your Settlement Range</h3>
                             <div className="space-y-10">
                                 <div className="flex gap-8">
                                     <div className="w-12 h-12 rounded-xl bg-[#1F5EFF] flex items-center justify-center shrink-0 font-black text-2xl">01</div>
                                     <div>
-                                        <h3 className="text-2xl font-bold mb-2 text-[#DEDEDE]">Vintage of Default</h3>
+                                        <h4 className="text-2xl font-bold mb-2 text-[#DEDEDE]">Vintage of Default</h4>
                                         <p className="opacity-70 text-lg leading-relaxed">A loan defaulted 2 years ago has a higher probability of deep discount compared to a loan defaulted last month. Banks prefer to clear "Aged NPAs" quickly.</p>
                                     </div>
                                 </div>
                                 <div className="flex gap-8">
                                     <div className="w-12 h-12 rounded-xl bg-[#1F5EFF] flex items-center justify-center shrink-0 font-black text-2xl">02</div>
                                     <div>
-                                        <h4 className="text-2xl font-bold mb-2 text-[#DEDEDE]">Nature of Liability</h4>
+                                        <h5 className="text-2xl font-bold mb-2 text-[#DEDEDE]">Nature of Liability</h5>
                                         <p className="opacity-70 text-lg leading-relaxed">Secured loans (Home/Car) represent a 'hard asset' for the bank. Their willingness to waive principal is low compared to unsecured credit where there is no collateral.</p>
                                     </div>
                                 </div>
                                 <div className="flex gap-8">
                                     <div className="w-12 h-12 rounded-xl bg-[#1F5EFF] flex items-center justify-center shrink-0 font-black text-2xl">03</div>
                                     <div>
-                                        <h4 className="text-2xl font-bold mb-2 text-[#DEDEDE]">Documentary Evidence of Hardship</h4>
+                                        <h5 className="text-2xl font-bold mb-2 text-[#DEDEDE]">Documentary Evidence of Hardship</h5>
                                         <p className="opacity-70 text-lg leading-relaxed">Mathematical models change based on the "Recovery Probability Index." If you provide proof of job loss or critical illness, the bank adjusts its recovery expectations downward.</p>
                                     </div>
                                 </div>
@@ -331,7 +331,7 @@ export default function LoanSettlementCalculatorClient() {
                         </section>
 
                         <section id="unsecured-math" className="scroll-mt-32 mb-16 mt-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">Mathematics for Unsecured Loans (Personal/Credit Card)</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">Mathematics for Unsecured Loans (Personal/Credit Card)</h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 For unsecured loans, the calculation is often a reverse-engineering of the bank's recovery costs. If a bank spends Rs. 10,000 on recovery agents and legal notices over 6 months to recover a debt of Rs. 1,00,000, and the success probability is only 30%, their "Expected Value" is only Rs. 30,000.
                             </p>
@@ -350,38 +350,38 @@ export default function LoanSettlementCalculatorClient() {
                         </section>
 
                         <section id="secured-math" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight underline decoration-[#1F5EFF] underline-offset-[10px]">The "Collateral Weighted" Calculation for Secured Loans</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight underline decoration-[#1F5EFF] underline-offset-[10px]">The "Collateral Weighted" Calculation for Secured Loans</h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 Secured loans follow a different mathematical trajectory because of the SARFAESI Act. Banks evaluate the FMV (Fair Market Value) and the Distress Value of the property before deciding on a settlement amount.
                             </p>
                             <div className="grid md:grid-cols-2 gap-6">
                                 <div className="p-8 bg-gray-50 rounded-3xl border border-gray-200">
-                                    <h3 className="font-black text-[#2E2E2E] mb-4 uppercase tracking-tighter">Bank's Calculation</h3>
+                                    <h4 className="font-black text-[#2E2E2E] mb-4 uppercase tracking-tighter">Bank's Calculation</h4>
                                     <p className="text-sm italic opacity-70">"Settlement Amount = (Liquidation Value of Asset) - (Cost of Auction Process) - (Time-Value of Money)."</p>
                                 </div>
                                 <div className="p-8 bg-[#1F5EFF] text-white rounded-3xl shadow-xl">
-                                    <h4 className="font-black mb-4 uppercase tracking-tighter">Strategic Insight</h4>
+                                    <h5 className="font-black mb-4 uppercase tracking-tighter">Strategic Insight</h5>
                                     <p className="text-sm font-bold">Settlement in secured loans is best utilized when the property value has depreciated or if the bank faces a legal challenge in taking physical possession.</p>
                                 </div>
                             </div>
                         </section>
 
                         <section id="negotiation-leverage" className="scroll-mt-32 mb-16 mt-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">Using Calculation Logic as Negotiation Leverage</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">Using Calculation Logic as Negotiation Leverage</h3>
                             <p className="text-lg leading-relaxed mb-6 text-center italic">Don't just ask for a discount. Prove why it's the only logical outcome.</p>
                             <div className="bg-white border border-[#DEDEDE] p-8 md:p-12 rounded-[50px] shadow-sm">
                                 <div className="space-y-8">
                                     <div className="flex gap-6 items-start">
                                         <div className="w-10 h-10 rounded-full bg-blue-500 text-white flex items-center justify-center shrink-0 font-bold">✓</div>
                                         <div>
-                                            <h3 className="font-black text-lg mb-2 text-[#2E2E2E]">Highlight 'Ghost' Interest</h3>
+                                            <h4 className="font-black text-lg mb-2 text-[#2E2E2E]">Highlight 'Ghost' Interest</h4>
                                             <p className="text-gray-600">Point out how interest-on-interest and penal compounded charges make up the bulk of the outstanding. Banks often waive these first during negotiation.</p>
                                         </div>
                                     </div>
                                     <div className="flex gap-6 items-start">
                                         <div className="w-10 h-10 rounded-full bg-blue-500 text-white flex items-center justify-center shrink-0 font-bold">✓</div>
                                         <div>
-                                            <h4 className="font-black text-lg mb-2 text-[#2E2E2E]">Offer Lump-Sum Clarity</h4>
+                                            <h5 className="font-black text-lg mb-2 text-[#2E2E2E]">Offer Lump-Sum Clarity</h5>
                                             <p className="text-gray-600">When you offer a specific amount based on a calculator range, it shows the bank you are a serious, data-driven negotiator, not a desperate one.</p>
                                         </div>
                                     </div>
@@ -390,21 +390,21 @@ export default function LoanSettlementCalculatorClient() {
                         </section>
 
                         <section id="tax-implications" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">The "Hidden" Math: Income Tax on Loan Waivers</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">The "Hidden" Math: Income Tax on Loan Waivers</h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 In India, the amount waived by the bank in a settlement is technically considered "Income" under the Income Tax Act in certain business scenarios. While individual personal loan waivers are generally not taxed as income, business loan waivers may have different implications.
                             </p>
                             <div className="p-8 bg-orange-50 border-2 border-orange-100 rounded-[40px] flex items-center gap-8">
                                 <div className="hidden md:flex w-24 h-24 bg-white rounded-full items-center justify-center text-orange-500 text-5xl font-black shadow-inner">!</div>
                                 <div className="flex-1">
-                                    <h3 className="text-lg font-black text-orange-800 uppercase mb-2">Pro-Tip for MSMEs</h3>
+                                    <h4 className="text-lg font-black text-orange-800 uppercase mb-2">Pro-Tip for MSMEs</h4>
                                     <p className="text-orange-900 leading-relaxed font-bold italic">"Always consult a tax expert along with your debt negotiator. The math of your settlement doesn't end at the bank; it ends at your ITR filing."</p>
                                 </div>
                             </div>
                         </section>
 
                         <section id="rebuilding-math" className="scroll-mt-32 mb-16 mt-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight text-center">Rebuilding Credit Score Math</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight text-center">Rebuilding Credit Score Math</h3>
                             <p className="text-lg leading-relaxed mb-10 text-center">Settlement will impact your score, but here is the recovery math you need to know.</p>
                             <div className="grid md:grid-cols-2 gap-12 items-center">
                                 <div className="space-y-6">
@@ -430,7 +430,7 @@ export default function LoanSettlementCalculatorClient() {
                         </section>
 
                         <section id="success-scenarios" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 text-center uppercase tracking-tighter decoration-[#1F5EFF] underline decoration-4">Real Settlement Stories</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 text-center uppercase tracking-tighter decoration-[#1F5EFF] underline decoration-4">Real Settlement Stories</h3>
                             <div className="grid md:grid-cols-2 gap-6 not-prose">
                                 {[
                                     {
@@ -467,7 +467,7 @@ export default function LoanSettlementCalculatorClient() {
                                             <div className="w-10 h-10 rounded-full bg-blue-100 flex items-center justify-center font-bold text-blue-600 mr-3">
                                                 {review.name.charAt(0)}
                                             </div>
-                                            <h3 className="font-bold text-[#2E2E2E]">{review.name}</h3>
+                                            <h4 className="font-bold text-[#2E2E2E]">{review.name}</h4>
                                             <div className="ml-auto text-yellow-400 text-sm">★★★★★</div>
                                         </div>
                                         <div className="mb-4 flex gap-4 text-[10px] font-mono">
@@ -481,7 +481,7 @@ export default function LoanSettlementCalculatorClient() {
                         </section>
 
                         <section id="faqs" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-12 text-center">Calculation & Logic FAQ's</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-12 text-center">Calculation & Logic FAQ's</h3>
                             <div className="space-y-6">
                                 {[
                                     { q: "Can I settle my loan for just 10% of the principal?", a: "While rare, 10% settlements do occur in extremely old, aged NPAs (vintage 5-7 years) where the bank has already written off the asset. For regular defaults, 30-50% is more common." },
@@ -496,7 +496,7 @@ export default function LoanSettlementCalculatorClient() {
                                     { q: "How often should I use the calculator as debt ages?", a: "Interest and penalties keep growing, so your settlement range will shift every month. Ideally, check every quarter to see your new 'Target Window'." }
                                 ].map((faq, i) => (
                                     <div key={i} className="p-8 bg-white border border-[#DEDEDE] rounded-3xl shadow-sm transition-all hover:shadow-lg">
-                                        <h3 className="font-black text-[#2E2E2E] mb-4 text-xl border-b pb-2 border-[#1F5EFF]/10">{faq.q}</h3>
+                                        <h4 className="font-black text-[#2E2E2E] mb-4 text-xl border-b pb-2 border-[#1F5EFF]/10">{faq.q}</h4>
                                         <p className="text-gray-600 leading-relaxed text-lg italic">"{faq.a}"</p>
                                     </div>
                                 ))}
@@ -504,7 +504,7 @@ export default function LoanSettlementCalculatorClient() {
                         </section>
 
                         <section className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">Your Path to a Debt-Free Future</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">Your Path to a Debt-Free Future</h3>
                             <p className="text-lg leading-relaxed mb-6 italic font-bold">Knowing the math is 50% of the battle. The other 50% is having the legal professional to stand by you during the negotiation.</p>
                             <div className="bg-[#1F5EFF] p-10 rounded-[40px] text-center text-white shadow-2xl">
                                 <p className="text-2xl font-black mb-8 tracking-tight">Got your range? Now get the results. Let's resolve your debt today.</p>
@@ -559,7 +559,7 @@ export default function LoanSettlementCalculatorClient() {
                 {/* Localities Section - Full Width before Footer */}
                 <section className="w-full bg-gray-50 border-t border-[#DEDEDE] py-20 px-4 md:px-8 lg:px-16">
                     <div className="max-w-7xl mx-auto">
-                        <h2 className="text-3xl md:text-5xl font-black text-[#2E2E2E] mb-12 text-center tracking-tighter uppercase">Solving Debt Calculations Nationwide</h2>
+                        <h3 className="text-3xl md:text-5xl font-black text-[#2E2E2E] mb-12 text-center tracking-tighter uppercase">Solving Debt Calculations Nationwide</h3>
                         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-8">
                             {[
                                 { state: "Andhra Pradesh", cities: "Anantapur, Guntur, Kakinada, Nellore, Rajahmundry, Tirupati, Vijayawada, Visakhapatnam" },
@@ -594,10 +594,10 @@ export default function LoanSettlementCalculatorClient() {
                                 { state: "Union Territories", cities: "Andaman & Nicobar Islands, Chandigarh, Dadra & Nagar Haveli and Daman & Diu, Jammu & Kashmir, Ladakh, Lakshadweep, Puducherry" }
                             ].map((item, idx) => (
                                 <div key={idx} className="bg-white p-6 rounded-3xl border border-[#DEDEDE] shadow-sm hover:shadow-md hover:border-[#1F5EFF] transition-all group">
-                                    <h3 className="text-lg font-black text-[#2E2E2E] mb-3 group-hover:text-[#1F5EFF] flex items-center">
+                                    <h4 className="text-lg font-black text-[#2E2E2E] mb-3 group-hover:text-[#1F5EFF] flex items-center">
                                         <span className="w-2 h-2 bg-[#1F5EFF] rounded-full mr-2 opacity-0 group-hover:opacity-100 transition-opacity"></span>
                                         {item.state}
-                                    </h3>
+                                    </h4>
                                     <p className="text-sm text-[#747474] leading-relaxed">
                                         {item.cities}
                                     </p>

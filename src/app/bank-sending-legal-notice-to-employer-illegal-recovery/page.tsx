@@ -560,9 +560,9 @@ export default function BankSendingLegalNoticeToEmployerPage() {
 
             {/* Section 2: Supreme Court Privacy Jurisprudence & RBI Fair Practices Code */}
             <section id="supreme-court-privacy-rbi-mandates" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                 2. Statutory Protections: Supreme Court Privacy Rulings &amp; RBI Fair Practices Code Bans
-              </h2>
+              </h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Indian jurisprudence and banking regulations explicitly forbid commercial lenders from using third-party disclosures or public humiliation as recovery mechanisms. A multi-layered statutory architecture protects borrowers against unlawful workplace intrusions:
               </p>
@@ -614,9 +614,9 @@ export default function BankSendingLegalNoticeToEmployerPage() {
 
             {/* Section 3: Criminal Defamation, IPC/BNS Provisions & Tort Liabilities */}
             <section id="criminal-defamation-tort-protections" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                 3. Criminal Defamation, IPC/BNS Provisions &amp; Tort Liabilities Against Predatory Lenders
-              </h2>
+              </h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Workplace debt collection is not merely an ethical infraction or a banking service deficiency; it constitutes an actionable civil wrong and a criminal offense under Indian law. By broadcasting confidential financial distress to corporate executives, co-workers, or human resource managers, recovery agencies actively defame the borrower and jeopardize their professional standing.
               </p>
@@ -626,28 +626,28 @@ export default function BankSendingLegalNoticeToEmployerPage() {
 
               <div className="space-y-3 my-4">
                 <div className="p-4 rounded-xl border-l-4 border-red-500 bg-slate-50 space-y-1">
-                  <h3 className="font-bold text-slate-900 text-xs sm:text-sm flex items-center gap-1.5">
+                  <h4 className="font-bold text-slate-900 text-xs sm:text-sm flex items-center gap-1.5">
                     <AlertCircle className="w-4 h-4 text-red-600" />
                     <span>Criminal Defamation (Section 499 &amp; 500 IPC / Section 356 BNS 2023)</span>
-                  </h3>
+                  </h4>
                   <p className="text-xs text-slate-600 leading-relaxed">
                     Whoever, by words spoken or written, makes or publishes any imputation concerning another person intending to harm their reputation commits criminal defamation. Sending defamatory notices, emails, or debt claims to an employer with intent to lower the borrower&apos;s professional standing carries a penalty of up to two years of simple imprisonment, a fine, or both.
                   </p>
                 </div>
                 <div className="p-4 rounded-xl border-l-4 border-amber-500 bg-slate-50 space-y-1">
-                  <h4 className="font-bold text-slate-900 text-xs sm:text-sm flex items-center gap-1.5">
+                  <h5 className="font-bold text-slate-900 text-xs sm:text-sm flex items-center gap-1.5">
                     <ShieldAlert className="w-4 h-4 text-amber-600" />
                     <span>Criminal Intimidation &amp; Extortion (Section 503, 506 &amp; 384 IPC / Sections 351 &amp; 308 BNS)</span>
-                  </h4>
+                  </h5>
                   <p className="text-xs text-slate-600 leading-relaxed">
                     Threatening a borrower with termination of employment, public exposure at their workplace, or visiting their corporate office to cause humiliation constitutes criminal intimidation. Using coercive workplace threats to extract money constitutes attempted extortion under criminal law.
                   </p>
                 </div>
                 <div className="p-4 rounded-xl border-l-4 border-purple-500 bg-slate-50 space-y-1">
-                  <h4 className="font-bold text-slate-900 text-xs sm:text-sm flex items-center gap-1.5">
+                  <h5 className="font-bold text-slate-900 text-xs sm:text-sm flex items-center gap-1.5">
                     <Scale className="w-4 h-4 text-purple-600" />
                     <span>Civil Tort of Defamation &amp; Exemplary Damages</span>
-                  </h4>
+                  </h5>
                   <p className="text-xs text-slate-600 leading-relaxed">
                     Under Indian tort law, a borrower whose professional reputation, appraisal, or career progression is damaged by unauthorized bank communications can initiate a civil suit for substantial monetary damages against the lending institution and the collection agency.
                   </p>
@@ -661,9 +661,9 @@ export default function BankSendingLegalNoticeToEmployerPage() {
 
             {/* Section 4: Bank Accounting, NPA Provisioning & NPV Recovery Formula */}
             <section id="bank-accounting-npa-npv-formula" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                 4. Bank Accounting Dynamics: Why Recovery Agencies Target Workplaces &amp; The NPV Recovery Equation
-              </h2>
+              </h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 To counter workplace recovery harassment effectively, one must understand the internal operational machinery driving it. Commercial banks in India do not typically dispatch their own full-time branch officers to visit workplaces. Instead, when an unsecured personal loan crosses 60 to 90 days of delinquency, the file is outsourced to third-party Direct Recovery Agencies (DRAs) operating on aggressive contingency commission models.
               </p>
@@ -735,9 +735,9 @@ export default function BankSendingLegalNoticeToEmployerPage() {
 
             {/* Section 5: Infographic Banner */}
             <section id="workplace-harassment-defense-roadmap" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                 5. Visual Strategic Roadmap: Workplace Harassment Defense &amp; Debt Resolution
-              </h2>
+              </h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 The visual roadmap below details the structured 5-stage institutional workflow deployed by seasoned banking litigation advocates to halt illegal employer communications, invoke Supreme Court privacy protections, serve criminal defamation notices, and conclude an official debt settlement.
               </p>
@@ -772,34 +772,34 @@ export default function BankSendingLegalNoticeToEmployerPage() {
 
             {/* Section 6: The 4-Stage Emergency Advocate Defense Protocol */}
             <section id="emergency-4-stage-advocate-protocol" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                 6. The Emergency 4-Stage Advocate Protocol to Stop Workplace Harassment Immediately
-              </h2>
+              </h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 When a recovery agent contacts your employer or threatens office visits, emotional panic or arguing over the phone will not stop them. Rogue collection agencies view verbal protests as vulnerability. Instead, debt defense advocates execute an aggressive, legally calibrated 4-stage protocol designed to enforce an immediate ceasefire:
               </p>
 
               <div className="space-y-3 my-4">
                 <div className="p-4 rounded-xl border-l-4 border-blue-600 bg-slate-50 space-y-1">
-                  <h3 className="font-bold text-slate-900 text-xs sm:text-sm">Stage 1: Evidence Preservation &amp; Internal HR Clarification Memo</h3>
+                  <h4 className="font-bold text-slate-900 text-xs sm:text-sm">Stage 1: Evidence Preservation &amp; Internal HR Clarification Memo</h4>
                   <p className="text-xs text-slate-600 leading-relaxed">
                     Collect every piece of evidence: email headers sent to corporate addresses, call recordings from office switchboards, WhatsApp messages, and physical copies of notices served at reception. Concurrently, provide your HR department with a formal written advisory stating that an external agency is engaged in unlawful third-party privacy harassment in violation of RBI regulations, and that your legal counsel is taking formal action.
                   </p>
                 </div>
                 <div className="p-4 rounded-xl border-l-4 border-indigo-600 bg-slate-50 space-y-1">
-                  <h4 className="font-bold text-slate-900 text-xs sm:text-sm">Stage 2: Serving Advocate Legal Notice for Criminal Defamation &amp; Tort</h4>
+                  <h5 className="font-bold text-slate-900 text-xs sm:text-sm">Stage 2: Serving Advocate Legal Notice for Criminal Defamation &amp; Tort</h5>
                   <p className="text-xs text-slate-600 leading-relaxed">
                     Your advocate drafts and serves an emergency legal notice on the bank&apos;s Managing Director, Principal Nodal Officer, and the collection agency directors. The notice cites Section 499/500 IPC (Defamation), Section 503/506 IPC (Criminal Intimidation), the Supreme Court <em>Puttaswamy</em> ruling, and the RBI Fair Practices Code, giving them 48 hours to retract defamatory communications and cease all workplace contact.
                   </p>
                 </div>
                 <div className="p-4 rounded-xl border-l-4 border-purple-600 bg-slate-50 space-y-1">
-                  <h4 className="font-bold text-slate-900 text-xs sm:text-sm">Stage 3: Escalation to RBI Integrated Ombudsman &amp; Police Cyber Desk</h4>
+                  <h5 className="font-bold text-slate-900 text-xs sm:text-sm">Stage 3: Escalation to RBI Integrated Ombudsman &amp; Police Cyber Desk</h5>
                   <p className="text-xs text-slate-600 leading-relaxed">
                     If the bank fails to provide an immediate written apology and confirmation of agency disengagement, an expedited grievance is logged on the <strong>RBI CMS portal (cms.rbi.org.in)</strong> under &quot;Violation of Fair Practices Code / Harassment by Recovery Agents&quot;. Where physical trespass or threats occurred at the office, a formal Police Complaint is filed for criminal trespass and intimidation.
                   </p>
                 </div>
                 <div className="p-4 rounded-xl border-l-4 border-amber-600 bg-slate-50 space-y-1">
-                  <h4 className="font-bold text-slate-900 text-xs sm:text-sm">Stage 4: Strategic Transition to Structured Debt Settlement</h4>
+                  <h5 className="font-bold text-slate-900 text-xs sm:text-sm">Stage 4: Strategic Transition to Structured Debt Settlement</h5>
                   <p className="text-xs text-slate-600 leading-relaxed">
                     With the bank&apos;s collection agency disarmed and the lender facing substantial regulatory liability before the Banking Ombudsman, advocates shift the engagement to the bank&apos;s Stressed Asset Resolution Desk to negotiate an amicable, heavily discounted One-Time Settlement.
                   </p>
@@ -813,9 +813,9 @@ export default function BankSendingLegalNoticeToEmployerPage() {
 
             {/* Section 7: Negotiating Debt Resolution & OTS */}
             <section id="forcing-compromise-settlement-ots" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                 7. Converting Workplace Harassment into an Affordable 45%–65% One-Time Settlement (OTS)
-              </h2>
+              </h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Workplace harassment indicates that the bank is anxious about its mounting NPA provisions and is using coercive pressure because it lacks viable legal avenues to attach your assets. By exposing these illegal actions through advocate representation, you transform a distressing workplace incident into your greatest negotiating asset to secure a formal <strong>One-Time Settlement (OTS)</strong>.
               </p>
@@ -865,9 +865,9 @@ export default function BankSendingLegalNoticeToEmployerPage() {
 
             {/* Section 8: Sanction Letter Forensics & RBI NDC Mandate */}
             <section id="sanction-forensics-rbi-ndc-mandate" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                 8. Sanction Letter Forensics, Direct Remittance, RBI ₹0 NDC Mandate &amp; CIBIL Recovery
-              </h2>
+              </h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Borrowers dealing with rogue collection agencies must exercise extreme vigilance during settlement execution. Unscrupulous tele-callers frequently fabricate fake settlement letters on WhatsApp or promise verbal closures to collect partial token amounts. A borrower must never transfer funds until the settlement letter is forensically verified by legal counsel.
               </p>
@@ -895,9 +895,9 @@ export default function BankSendingLegalNoticeToEmployerPage() {
                 </p>
               </div>
 
-              <h3 className="text-base sm:text-lg font-bold text-slate-900 pt-2">
+              <h4 className="text-base sm:text-lg font-bold text-slate-900 pt-2">
                 CIBIL Bureau Reporting Trajectory &amp; Credit Score Rehabilitation
-              </h3>
+              </h4>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Following settlement, the bank updates credit bureau records with the status remark <strong>&quot;Settled&quot;</strong> or <strong>&quot;Post-Write-off Settled&quot;</strong> with a current outstanding balance of <strong>₹0</strong>. While this causes a temporary credit score dip of 70 to 120 points, it halts compounding default accumulation and eliminates collection harassment permanently. By maintaining a secured fixed-deposit credit card, keeping credit utilization below 30%, and ensuring timely utility payments, settled borrowers systematically rebuild their credit score back above 750 within 18 to 24 months.
               </p>
@@ -905,9 +905,9 @@ export default function BankSendingLegalNoticeToEmployerPage() {
 
             {/* Section 9: Comparative Legal Defense Matrix */}
             <section id="comparative-legal-defense-matrix" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                 9. Comparative Legal Matrix: Workplace Harassment vs. Legal Due Process vs. Ombudsman vs. OTS
-              </h2>
+              </h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Evaluating the legal remedies available to salaried borrowers allows you to choose the most effective strategy to protect your career, stop recovery harassment, and resolve your outstanding debt:
               </p>
@@ -960,9 +960,9 @@ export default function BankSendingLegalNoticeToEmployerPage() {
             {/* Section 10: SettleLoans Legal Defense & Advisory + CompanySection */}
             <section id="company-resolution-section" className="space-y-6">
               <div className="border-t border-slate-200 pt-8 space-y-4">
-                <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
+                <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                   10. SettleLoans Legal Defense &amp; Workplace Harassment Advisory
-                </h2>
+                </h3>
                 <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                   Confronting illegal workplace debt recovery requires seasoned banking litigation advocates who understand how to enforce RBI Master Directions, invoke Supreme Court privacy protections, and draft hard-hitting criminal defamation notices. SettleLoans provides end-to-end legal defense for salaried professionals across India: issuing emergency cease-and-desist notices to bank management, filing formal complaints with the RBI Banking Ombudsman, shielding your corporate reputation, and negotiating directly with bank zonal authorities to secure 45% to 65% principal haircuts backed by official, bank-stamped No Dues Certificates.
                 </p>
@@ -976,9 +976,9 @@ export default function BankSendingLegalNoticeToEmployerPage() {
             <section id="faqs" className="space-y-4 border-t border-slate-200 pt-8">
               <div className="flex items-center gap-2 mb-2">
                 <HelpCircle className="w-5 h-5 text-[#1F5EFF]" />
-                <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
+                <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                   11. Frequently Asked Questions: Bank Notices to Employer &amp; Legal Remedies
-                </h2>
+                </h3>
               </div>
               <p className="text-xs sm:text-sm text-slate-600 mb-6">
                 Direct, legally verified answers to critical questions regarding workplace debt collection, unauthorized HR communications, and debt settlement protocols in India.
@@ -1008,9 +1008,9 @@ export default function BankSendingLegalNoticeToEmployerPage() {
 
             {/* 5 Official Regulatory Links */}
             <section className="border-t border-slate-200 pt-8 mb-4">
-              <h3 className="text-xs sm:text-sm font-bold text-slate-900 mb-3 uppercase tracking-wider">
+              <h4 className="text-xs sm:text-sm font-bold text-slate-900 mb-3 uppercase tracking-wider">
                 Official Statutory &amp; Regulatory References
-              </h3>
+              </h4>
               <div className="grid grid-cols-1 sm:grid-cols-2 gap-2.5 text-xs">
                 <a
                   href="https://www.indiacode.gov.in/bitstream/123456789/2187/1/A1872-09.pdf"
@@ -1062,9 +1062,9 @@ export default function BankSendingLegalNoticeToEmployerPage() {
 
             {/* 10 Related Guide Badges */}
             <section className="border-t border-slate-200 pt-8 mb-8">
-              <h3 className="text-xs sm:text-sm font-bold text-slate-900 mb-4 uppercase tracking-wider">
+              <h4 className="text-xs sm:text-sm font-bold text-slate-900 mb-4 uppercase tracking-wider">
                 Related Legal Defense &amp; Loan Resolution Guides
-              </h3>
+              </h4>
               <div className="flex flex-wrap gap-2">
                 <Link
                   href="/bank-recovery-harassment-complaint"

@@ -537,7 +537,7 @@ export default function LokAdalatOrderNonCompliancePage() {
 
             {/* Section 2: Statutory Binding Nature: Section 21 of the Legal Services Authorities Act, 1987 */}
             <section id="section-21-lsa-act-binding-decree" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">2. Statutory Supremacy</h2>
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">2. Statutory Supremacy</h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 To enforce a settlement, you must know the Legal Services Authorities (LSA) Act, 1987. A Lok Adalat is not just a mediation panel. It is a statutory judicial body set up by Parliament.
               </p>
@@ -588,7 +588,7 @@ export default function LokAdalatOrderNonCompliancePage() {
 
             {/* Section 3: Civil Procedure Enforcement: Executing the Award Under Order 21 CPC */}
             <section id="order-21-cpc-civil-execution" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">3. Civil Court Execution Proceedings</h2>
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">3. Civil Court Execution Proceedings</h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 A Lok Adalat award is a civil decree. You can enforce it under Order 21 of the Code of Civil Procedure (CPC), 1908. Borrowers who pay on time have the right to file execution petitions against non-compliant banks.
               </p>
@@ -598,28 +598,28 @@ export default function LokAdalatOrderNonCompliancePage() {
 
               <div className="space-y-3 my-4">
                 <div className="p-4 rounded-xl border-l-4 border-blue-600 bg-slate-50 space-y-1">
-                  <h3 className="font-bold text-slate-900 text-xs sm:text-sm flex items-center gap-1.5">
+                  <h4 className="font-bold text-slate-900 text-xs sm:text-sm flex items-center gap-1.5">
                     <FileCheck className="w-4 h-4 text-blue-600" />
                     <span>Specific Performance of Mandatory Injunctions (Order 21 Rule 32 CPC)</span>
-                  </h3>
+                  </h4>
                   <p className="text-xs text-slate-600 leading-relaxed">
                     If the bank refuses to issue an NDC, the court acts under Rule 32. It can attach bank assets or seize original property deeds.
                   </p>
                 </div>
                 <div className="p-4 rounded-xl border-l-4 border-indigo-600 bg-slate-50 space-y-1">
-                  <h4 className="font-bold text-slate-900 text-xs sm:text-sm flex items-center gap-1.5">
+                  <h5 className="font-bold text-slate-900 text-xs sm:text-sm flex items-center gap-1.5">
                     <Landmark className="w-4 h-4 text-indigo-600" />
                     <span>Attachment of Bank Branch Operating Accounts (Order 21 Rule 43 &amp; 46 CPC)</span>
-                  </h4>
+                  </h5>
                   <p className="text-xs text-slate-600 leading-relaxed">
                     If a bank took extra money, the court issues a Garnishee Order. This freezes the bank branch&apos;s RBI account until the decree is paid.
                   </p>
                 </div>
                 <div className="p-4 rounded-xl border-l-4 border-purple-600 bg-slate-50 space-y-1">
-                  <h4 className="font-bold text-slate-900 text-xs sm:text-sm flex items-center gap-1.5">
+                  <h5 className="font-bold text-slate-900 text-xs sm:text-sm flex items-center gap-1.5">
                     <Building2 className="w-4 h-4 text-purple-600" />
                     <span>Territorial Jurisdiction of the Executing Court</span>
-                  </h4>
+                  </h5>
                   <p className="text-xs text-slate-600 leading-relaxed">
                     Under Sections 38 and 39 CPC, file the petition where the case started. Or file where the bank branch is located.
                   </p>
@@ -633,7 +633,7 @@ export default function LokAdalatOrderNonCompliancePage() {
 
             {/* Section 4: Bank Accounting Dynamics, Provisioning Reversals & The NPV Recovery Equation */}
             <section id="bank-accounting-npv-dynamics" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">4. Bank Accounting Realities in Lok Adalat Awards</h2>
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">4. Bank Accounting Realities in Lok Adalat Awards</h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Bank accounting rules show why settlements happen. Loans in Lok Adalat are Non-Performing Assets (NPAs) past 90 days. Under RBI rules, banks must set aside cash reserves:
               </p>
@@ -699,7 +699,7 @@ export default function LokAdalatOrderNonCompliancePage() {
 
             {/* Section 5: Infographic Banner */}
             <section id="lok-adalat-enforcement-roadmap" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">5. Visual Judicial Roadmap</h2>
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">5. Visual Judicial Roadmap</h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 This roadmap shows how to enforce your Lok Adalat award. Follow these legal steps to get your NDC, fix CIBIL records. And claim RBI delay fines.
               </p>
@@ -734,32 +734,32 @@ export default function LokAdalatOrderNonCompliancePage() {
 
             {/* Section 6: The 4-Stage Legal Protocol to Compel Bank Compliance */}
             <section id="emergency-4-stage-compliance-protocol" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">6. The 4-Stage Legal Protocol to Compel Immediate Bank</h2>
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">6. The 4-Stage Legal Protocol to Compel Immediate Bank</h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Visiting the branch rarely solves delays. Advocates use a 4-stage legal plan to force compliance:
               </p>
 
               <div className="space-y-3 my-4">
                 <div className="p-4 rounded-xl border-l-4 border-blue-600 bg-slate-50 space-y-1">
-                  <h3 className="font-bold text-slate-900 text-xs sm:text-sm">Stage 1: Forensic Verification of Compliance &amp; Certified Award Compilation</h3>
+                  <h4 className="font-bold text-slate-900 text-xs sm:text-sm">Stage 1: Forensic Verification of Compliance &amp; Certified Award Compilation</h4>
                   <p className="text-xs text-slate-600 leading-relaxed">
                     Gather your proof: certified Lok Adalat Award with court seals, payment receipts. And settlement letter.
                   </p>
                 </div>
                 <div className="p-4 rounded-xl border-l-4 border-indigo-600 bg-slate-50 space-y-1">
-                  <h4 className="font-bold text-slate-900 text-xs sm:text-sm">Stage 2: Serving Advocate Legal Notice for Civil Decree Disobedience</h4>
+                  <h5 className="font-bold text-slate-900 text-xs sm:text-sm">Stage 2: Serving Advocate Legal Notice for Civil Decree Disobedience</h5>
                   <p className="text-xs text-slate-600 leading-relaxed">
                     Your lawyer sends a notice to the bank MD and Nodal Officer. It cites Section 21 LSA Act and gives <strong>15 business days</strong> to act.
                   </p>
                 </div>
                 <div className="p-4 rounded-xl border-l-4 border-purple-600 bg-slate-50 space-y-1">
-                  <h4 className="font-bold text-slate-900 text-xs sm:text-sm">Stage 3: Escalation to the RBI Integrated Banking Ombudsman</h4>
+                  <h5 className="font-bold text-slate-900 text-xs sm:text-sm">Stage 3: Escalation to the RBI Integrated Banking Ombudsman</h5>
                   <p className="text-xs text-slate-600 leading-relaxed">
                     If the bank ignores the notice, lodge a complaint on the <strong>RBI CMS portal (cms.rbi.org.in)</strong>. The Ombudsman can order fast loan closure and damages.
                   </p>
                 </div>
                 <div className="p-4 rounded-xl border-l-4 border-amber-600 bg-slate-50 space-y-1">
-                  <h4 className="font-bold text-slate-900 text-xs sm:text-sm">Stage 4: Filing Execution Petition Under Order 21 CPC in Civil Court</h4>
+                  <h5 className="font-bold text-slate-900 text-xs sm:text-sm">Stage 4: Filing Execution Petition Under Order 21 CPC in Civil Court</h5>
                   <p className="text-xs text-slate-600 leading-relaxed">
                     Your counsel files an Execution Petition under Order 21 CPC. The Civil Court can attach bank branch accounts and order property return.
                   </p>
@@ -773,7 +773,7 @@ export default function LokAdalatOrderNonCompliancePage() {
 
             {/* Section 7: Resolving CIBIL Bureau Violations */}
             <section id="cibil-bureau-rectification-ndc" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">7. Resolving CIBIL Bureau Violations</h2>
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">7. Resolving CIBIL Bureau Violations</h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Bank delays can hurt your credit score. Lenders often fail to update credit bureaus. CIBIL, Experian, and Equifax may still show overdue debt.
               </p>
@@ -809,7 +809,7 @@ export default function LokAdalatOrderNonCompliancePage() {
 
             {/* Section 8: Sanction Forensics, Mandated Timelines & RBI Delay Penalties */}
             <section id="sanction-forensics-rbi-penalty" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">8. Sanction Forensics, Mandated Timelines</h2>
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">8. Sanction Forensics, Mandated Timelines</h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 You must know your legal timelines. The Reserve Bank of India sets strict rules against bank delays.
               </p>
@@ -849,7 +849,7 @@ export default function LokAdalatOrderNonCompliancePage() {
 
             {/* Section 9: Comparative Judicial Remedies Matrix */}
             <section id="comparative-judicial-remedies-matrix" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">9. Lok Adalat Non-Compliance Defense Matrix</h2>
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">9. Lok Adalat Non-Compliance Defense Matrix</h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Compare available legal routes to enforce your Lok Adalat settlement:
               </p>
@@ -902,7 +902,7 @@ export default function LokAdalatOrderNonCompliancePage() {
             {/* Section 10: SettleLoans Legal Defense & Advisory + CompanySection */}
             <section id="company-resolution-section" className="space-y-6">
               <div className="border-t border-slate-200 pt-8 space-y-4">
-                <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">10. SettleLoans Lok Adalat Award Enforcement</h2>
+                <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">10. SettleLoans Lok Adalat Award Enforcement</h3>
                 <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                   Enforcing a Lok Adalat order takes skilled legal help. SettleLoans protects borrowers across India. We serve notices on bank executives. We file execution petitions under Order 21 CPC. We win ₹5,000 daily delay fines from the RBI. We also update CIBIL records to a ₹0 balance.
                 </p>
@@ -916,7 +916,7 @@ export default function LokAdalatOrderNonCompliancePage() {
             <section id="faqs" className="space-y-4 border-t border-slate-200 pt-8">
               <div className="flex items-center gap-2 mb-2">
                 <HelpCircle className="w-5 h-5 text-[#1F5EFF]" />
-                <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">11. FAQs: Bank Non-Compliance with Lok Adalat Orders</h2>
+                <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">11. FAQs: Bank Non-Compliance with Lok Adalat Orders</h3>
               </div>
               <p className="text-xs sm:text-sm text-slate-600 mb-6">
                 Direct, legally verified answers to critical questions regarding Lok Adalat awards, civil decree executions, No Dues Certificates. And credit bureau rectifications in India.
@@ -946,9 +946,9 @@ export default function LokAdalatOrderNonCompliancePage() {
 
             {/* 5 Official Regulatory Links */}
             <section className="border-t border-slate-200 pt-8 mb-4">
-              <h3 className="text-xs sm:text-sm font-bold text-slate-900 mb-3 uppercase tracking-wider">
+              <h4 className="text-xs sm:text-sm font-bold text-slate-900 mb-3 uppercase tracking-wider">
                 Official Statutory &amp; Regulatory References
-              </h3>
+              </h4>
               <div className="grid grid-cols-1 sm:grid-cols-2 gap-2.5 text-xs">
                 <a
                   href="https://nalsa.gov.in"
@@ -1000,9 +1000,9 @@ export default function LokAdalatOrderNonCompliancePage() {
 
             {/* 10 Related Guide Badges */}
             <section className="border-t border-slate-200 pt-8 mb-8">
-              <h3 className="text-xs sm:text-sm font-bold text-slate-900 mb-4 uppercase tracking-wider">
+              <h4 className="text-xs sm:text-sm font-bold text-slate-900 mb-4 uppercase tracking-wider">
                 Related Legal Defense &amp; Loan Resolution Guides
-              </h3>
+              </h4>
               <div className="flex flex-wrap gap-2">
                 <Link
                   href="/case-study-sbi-lok-adalat-settlement"

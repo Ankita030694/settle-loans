@@ -261,31 +261,31 @@ export default function BusinessLoanForeclosurePage() {
 
             {/* When to Use Section */}
             <section id="when-to-use" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 When Should You Send This Letter?
-              </h2>
+              </h3>
               
               <div className="grid md:grid-cols-2 gap-6 my-8">
                 <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
-                  <h3 className="font-black text-[#1F5EFF] text-lg mb-3">Refinancing to Lower Rates</h3>
+                  <h4 className="font-black text-[#1F5EFF] text-lg mb-3">Refinancing to Lower Rates</h4>
                   <p className="text-gray-700">If you have found another lender offering a significantly lower interest rate and want to transfer your balance to save on EMI.</p>
                 </div>
                 <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
-                  <h3 className="font-black text-[#1F5EFF] text-lg mb-3">Excess Business Capital</h3>
+                  <h4 className="font-black text-[#1F5EFF] text-lg mb-3">Excess Business Capital</h4>
                   <p className="text-gray-700">When your business has surplus cash reserves and you want to reduce your debt burden to improve cash flow.</p>
                 </div>
                 <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
-                  <h3 className="font-black text-[#1F5EFF] text-lg mb-3">Selling Collateral</h3>
+                  <h4 className="font-black text-[#1F5EFF] text-lg mb-3">Selling Collateral</h4>
                   <p className="text-gray-700">If you have secured a loan against property (LAP) and plan to sell the asset, you must close the loan first to release the documents.</p>
                 </div>
                 <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
-                  <h3 className="font-black text-[#1F5EFF] text-lg mb-3">Closing Operations</h3>
+                  <h4 className="font-black text-[#1F5EFF] text-lg mb-3">Closing Operations</h4>
                   <p className="text-gray-700">If you are winding down a particular business venture or partnership and need to clear all associated liabilities.</p>
                 </div>
               </div>
 
               <div className="bg-red-50 p-6 rounded-xl border border-red-100 mb-8">
-                <h4 className="font-black text-red-700 text-xl mb-4">Crucial Warning</h4>
+                <h5 className="font-black text-red-700 text-xl mb-4">Crucial Warning</h5>
                 <p className="text-red-900 text-lg leading-relaxed">
                   Never pay the foreclosure amount without first receiving a formal written statement from the bank detailing the exact payoff amount, including principal, interest, and any applicable charges up to a specific validity date.
                 </p>
@@ -294,9 +294,9 @@ export default function BusinessLoanForeclosurePage() {
 
             {/* Letter Format Section */}
             <section id="letter-format" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 Business Loan Foreclosure Letter Format
-              </h2>
+              </h3>
               
               <div className="bg-gray-50 p-8 rounded-2xl mb-8 border border-gray-200">
                 <p className="text-lg leading-relaxed mb-6 text-gray-800">
@@ -339,9 +339,9 @@ export default function BusinessLoanForeclosurePage() {
 
             {/* Step-by-Step Process */}
             <section id="step-by-step" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 Step-by-Step Foreclosure Process
-              </h2>
+              </h3>
               
               <div className="space-y-12">
                 <div className="flex gap-6">
@@ -349,7 +349,7 @@ export default function BusinessLoanForeclosurePage() {
                     1
                   </div>
                   <div>
-                    <h3 className="text-xl font-bold text-[#2E2E2E] mb-3">Submit the Request Letter</h3>
+                    <h4 className="text-xl font-bold text-[#2E2E2E] mb-3">Submit the Request Letter</h4>
                     <p className="text-gray-700 text-lg leading-relaxed">
                       Use the MSME loan closure format provided above. If submitting physically, take two copies and get one stamped by the bank as an acknowledgment receipt.
                     </p>
@@ -361,7 +361,7 @@ export default function BusinessLoanForeclosurePage() {
                     2
                   </div>
                   <div>
-                    <h3 className="text-xl font-bold text-[#2E2E2E] mb-3">Receive the Foreclosure Statement</h3>
+                    <h4 className="text-xl font-bold text-[#2E2E2E] mb-3">Receive the Foreclosure Statement</h4>
                     <p className="text-gray-700 text-lg leading-relaxed">
                       The bank will calculate the total payoff amount, including remaining principal, interest till date, and prepayment penalties (if applicable). This document will have a validity date.
                     </p>
@@ -373,7 +373,7 @@ export default function BusinessLoanForeclosurePage() {
                     3
                   </div>
                   <div>
-                    <h3 className="text-xl font-bold text-[#2E2E2E] mb-3">Make the Final Payment</h3>
+                    <h4 className="text-xl font-bold text-[#2E2E2E] mb-3">Make the Final Payment</h4>
                     <p className="text-gray-700 text-lg leading-relaxed">
                       Pay the exact amount mentioned in the statement via RTGS, NEFT, or Demand Draft before the validity date expires. Ensure you get a transaction reference number or receipt.
                     </p>
@@ -385,7 +385,7 @@ export default function BusinessLoanForeclosurePage() {
                     4
                   </div>
                   <div>
-                    <h3 className="text-xl font-bold text-[#2E2E2E] mb-3">Collect NOC and Original Documents</h3>
+                    <h4 className="text-xl font-bold text-[#2E2E2E] mb-3">Collect NOC and Original Documents</h4>
                     <p className="text-gray-700 text-lg leading-relaxed">
                       Within 15 to 30 days of payment, collect your No Objection Certificate (NOC) and any original collateral documents (like property papers) from the bank.
                     </p>
@@ -396,12 +396,12 @@ export default function BusinessLoanForeclosurePage() {
 
             {/* Bank Stalling Section */}
             <section id="bank-stalling" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 What to Do if the Bank Stalls Your Request
-              </h2>
+              </h3>
               
               <div className="bg-blue-50 border-l-8 border-[#1F5EFF] p-8 rounded-r-2xl mb-8">
-                <h3 className="text-xl font-black text-[#1F5EFF] mb-4">Take These Legal Actions</h3>
+                <h4 className="text-xl font-black text-[#1F5EFF] mb-4">Take These Legal Actions</h4>
                 <p className="text-gray-800 text-lg mb-4">Banks lose out on future interest when you close a loan early, so relationship managers often delay processing your letter. If they ignore your request for more than 15 days, do the following:</p>
                 <ul className="space-y-4">
                   <li className="flex items-start gap-3">
@@ -422,9 +422,9 @@ export default function BusinessLoanForeclosurePage() {
 
             {/* Success Stories Section */}
             <section id="success-stories" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 Success Stories: MSME Loan Closures
-              </h2>
+              </h3>
               
               <div className="grid md:grid-cols-2 gap-8">
                 <div className="bg-white p-8 rounded-[30px] border border-[#DEDEDE] shadow-sm hover:shadow-xl group transition-all">
@@ -440,7 +440,7 @@ export default function BusinessLoanForeclosurePage() {
                       ))}
                     </div>
                   </div>
-                  <h3 className="font-bold text-xl text-[#2E2E2E] mb-4">HDFC Business Loan</h3>
+                  <h4 className="font-bold text-xl text-[#2E2E2E] mb-4">HDFC Business Loan</h4>
                   <p className="text-gray-600 mb-6 italic">&quot;The branch kept telling me the system was down. I sent this exact letter format to the Nodal officer and got my statement the next day.&quot;</p>
                   <div className="flex flex-wrap gap-2">
                     <span className="inline-block py-1 px-3 rounded-full bg-red-100 text-red-700 text-xs font-bold">Loan: ₹15L</span>
@@ -461,7 +461,7 @@ export default function BusinessLoanForeclosurePage() {
                       ))}
                     </div>
                   </div>
-                  <h4 className="font-bold text-xl text-[#2E2E2E] mb-4">Bajaj Finserv MSME</h4>
+                  <h5 className="font-bold text-xl text-[#2E2E2E] mb-4">Bajaj Finserv MSME</h5>
                   <p className="text-gray-600 mb-6 italic">&quot;Having a formal paper trail is crucial. Once I submitted the letter, the relationship manager stopped offering excuses and processed my NOC.&quot;</p>
                   <div className="flex flex-wrap gap-2">
                     <span className="inline-block py-1 px-3 rounded-full bg-red-100 text-red-700 text-xs font-bold">Loan: ₹40L</span>
@@ -473,9 +473,9 @@ export default function BusinessLoanForeclosurePage() {
 
             {/* FAQ Section */}
             <section id="faq" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">
                 Frequently Asked Questions
-              </h2>
+              </h3>
               
               <div className="space-y-4">
                 <details name="faq-accordion" className="bg-white border border-[#DEDEDE] rounded-xl p-6 hover:shadow-md group cursor-pointer transition-shadow">
@@ -604,7 +604,7 @@ export default function BusinessLoanForeclosurePage() {
             <div className="bg-[#2E2E2E] text-white p-12 rounded-[40px] text-center mt-24 relative overflow-hidden group">
               <div className="absolute inset-0 bg-[#1F5EFF] opacity-0 group-hover:opacity-5 transition-opacity"></div>
               <div className="relative z-10">
-                <h3 className="text-3xl font-black mb-6">Bank Delaying Your Foreclosure?</h3>
+                <h4 className="text-3xl font-black mb-6">Bank Delaying Your Foreclosure?</h4>
                 <p className="text-lg text-gray-300 mb-8 max-w-2xl mx-auto">
                   Don't let banks extract more interest from your business. Get expert legal support to enforce your foreclosure request and secure your NOC immediately.
                 </p>

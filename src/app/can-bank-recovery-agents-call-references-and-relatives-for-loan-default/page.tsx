@@ -260,22 +260,22 @@ export default function RecoveryAgentsHarassmentPage() {
             </section>
 
             <section id="reference-vs-guarantor" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 Reference vs. Guarantor: Knowing the Difference
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 Recovery agents often lie to your relatives, telling them they are legally bound to pay because their name is on the application. It is crucial to understand the legal distinction.
               </p>
 
               <div className="grid md:grid-cols-2 gap-6 my-8">
                 <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
-                  <h3 className="font-black text-[#1F5EFF] text-lg mb-3">A Loan Reference</h3>
+                  <h4 className="font-black text-[#1F5EFF] text-lg mb-3">A Loan Reference</h4>
                   <p className="text-gray-700 leading-relaxed">
                     A reference is merely someone who can vouch for your identity and contact information. They did not sign the loan agreement. They have absolutely <strong>zero financial or legal liability</strong> for your default.
                   </p>
                 </div>
                 <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
-                  <h4 className="font-black text-[#1F5EFF] text-lg mb-3">A Co-Borrower or Guarantor</h4>
+                  <h5 className="font-black text-[#1F5EFF] text-lg mb-3">A Co-Borrower or Guarantor</h5>
                   <p className="text-gray-700 leading-relaxed">
                     A guarantor has formally signed the loan contract and submitted their KYC documents, legally binding themselves to repay the debt if the primary borrower fails to do so. Only guarantors can be legally asked to pay.
                   </p>
@@ -290,15 +290,15 @@ export default function RecoveryAgentsHarassmentPage() {
             </section>
 
             <section id="rbi-fair-practices-code" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 The RBI Fair Practices Code Protection
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 The Reserve Bank of India (RBI) has issued strict guidelines for all banks and NBFCs regarding loan recovery. These guidelines exist specifically to prevent the humiliation of borrowers.
               </p>
 
               <div className="bg-blue-50 border-l-8 border-[#1F5EFF] p-8 rounded-r-2xl mb-8">
-                <h3 className="text-xl font-black text-[#1F5EFF] mb-4">Prohibition of Harassment</h3>
+                <h4 className="text-xl font-black text-[#1F5EFF] mb-4">Prohibition of Harassment</h4>
                 <p className="text-blue-900 text-lg leading-relaxed mb-4">
                   The RBI clearly states that recovery agents must not resort to intimidation, either verbal or physical, against any person in their debt collection efforts.
                 </p>
@@ -319,7 +319,7 @@ export default function RecoveryAgentsHarassmentPage() {
               </div>
 
               <div className="bg-red-50 p-6 rounded-xl border border-red-100 mb-8">
-                <h4 className="text-xl font-black text-red-700 mb-3">Violation of Privacy Laws</h4>
+                <h5 className="text-xl font-black text-red-700 mb-3">Violation of Privacy Laws</h5>
                 <p className="text-red-900 leading-relaxed">
                   Disclosing a borrower's financial default to their employer, colleagues, or neighbors is a severe breach of confidentiality. Banks are legally bound to keep your account details private.
                 </p>
@@ -327,9 +327,9 @@ export default function RecoveryAgentsHarassmentPage() {
             </section>
 
             <section id="how-they-get-numbers" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 How Do Agents Find Undisclosed Numbers?
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 Borrowers are often shocked when agents call relatives they never listed as references. Here is how rogue agencies illegally obtain this data:
               </p>
@@ -338,7 +338,7 @@ export default function RecoveryAgentsHarassmentPage() {
                 <div className="flex gap-6">
                   <div className="flex-shrink-0 w-12 h-12 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center font-black text-xl shadow-lg">1</div>
                   <div>
-                    <h3 className="text-2xl font-bold text-[#2E2E2E] mb-2">Illegal App Permissions</h3>
+                    <h4 className="text-2xl font-bold text-[#2E2E2E] mb-2">Illegal App Permissions</h4>
                     <p className="text-lg text-gray-700 leading-relaxed">
                       Many digital lending apps ask for permission to access your Contacts, Gallery, and Location. When you default, they scrape your entire phonebook and start calling everyone from your parents to your boss.
                     </p>
@@ -348,7 +348,7 @@ export default function RecoveryAgentsHarassmentPage() {
                 <div className="flex gap-6">
                   <div className="flex-shrink-0 w-12 h-12 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center font-black text-xl shadow-lg">2</div>
                   <div>
-                    <h3 className="text-2xl font-bold text-[#2E2E2E] mb-2">Social Media Scraping</h3>
+                    <h4 className="text-2xl font-bold text-[#2E2E2E] mb-2">Social Media Scraping</h4>
                     <p className="text-lg text-gray-700 leading-relaxed">
                       Agents stalk your LinkedIn, Facebook, and Instagram profiles. They find out where you work, who your siblings are, and message them directly to cause maximum humiliation.
                     </p>
@@ -358,7 +358,7 @@ export default function RecoveryAgentsHarassmentPage() {
                 <div className="flex gap-6">
                   <div className="flex-shrink-0 w-12 h-12 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center font-black text-xl shadow-lg">3</div>
                   <div>
-                    <h3 className="text-2xl font-bold text-[#2E2E2E] mb-2">Data Brokers</h3>
+                    <h4 className="text-2xl font-bold text-[#2E2E2E] mb-2">Data Brokers</h4>
                     <p className="text-lg text-gray-700 leading-relaxed">
                       Unregulated recovery agencies sometimes buy data from third-party brokers to trace alternative numbers linked to your address or family members.
                     </p>
@@ -368,15 +368,15 @@ export default function RecoveryAgentsHarassmentPage() {
             </section>
 
             <section id="legal-remedies" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 Legal Steps to Stop Harassment
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 You do not have to suffer in silence. The law provides powerful tools to stop recovery agents from calling your references and relatives.
               </p>
               
               <div className="bg-white p-8 border border-[#DEDEDE] rounded-2xl shadow-sm mb-8">
-                <h3 className="text-xl font-bold mb-4 text-[#2E2E2E] underline">Actionable Steps for Borrowers</h3>
+                <h4 className="text-xl font-bold mb-4 text-[#2E2E2E] underline">Actionable Steps for Borrowers</h4>
                 <ul className="text-sm space-y-3 font-medium list-none text-gray-700">
                   <li className="flex items-start gap-2"><span className="w-1.5 h-1.5 bg-[#1F5EFF] rounded-full mt-2"></span> <strong>Record Evidence:</strong> Ask your relatives and references to record the harassing calls and save any abusive WhatsApp messages or SMS.</li>
                   <li className="flex items-start gap-2"><span className="w-1.5 h-1.5 bg-[#1F5EFF] rounded-full mt-2"></span> <strong>File a Police Complaint:</strong> If agents use abusive language or issue threats, your relatives can file an FIR for criminal intimidation (Section 506), extortion, and intentional insult.</li>
@@ -387,34 +387,34 @@ export default function RecoveryAgentsHarassmentPage() {
             </section>
 
             <section id="sending-legal-notice" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 The Power of a Legal Cease & Desist Notice
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 The most effective and immediate way to stop the harassment of your relatives is to have an advocate send a strict <strong>Cease and Desist Legal Notice</strong> to the bank’s nodal officer and the recovery agency.
               </p>
 
               <div className="grid md:grid-cols-2 gap-6 my-8">
                 <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
-                  <h3 className="font-black text-[#1F5EFF] text-lg mb-3">Establishes Official Record</h3>
+                  <h4 className="font-black text-[#1F5EFF] text-lg mb-3">Establishes Official Record</h4>
                   <p className="text-gray-700 leading-relaxed">
                     A legal notice places on record that the bank is violating RBI guidelines. Banks hate paper trails of their illegal activities, as it hurts them in consumer courts and DRT proceedings.
                   </p>
                 </div>
                 <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
-                  <h4 className="font-black text-[#1F5EFF] text-lg mb-3">Threat of Legal Repercussions</h4>
+                  <h5 className="font-black text-[#1F5EFF] text-lg mb-3">Threat of Legal Repercussions</h5>
                   <p className="text-gray-700 leading-relaxed">
                     The notice warns the bank that you will file defamation and mental agony lawsuits against their executives if the calls to third parties do not stop immediately.
                   </p>
                 </div>
                 <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
-                  <h4 className="font-black text-[#1F5EFF] text-lg mb-3">Immediate Escallation</h4>
+                  <h5 className="font-black text-[#1F5EFF] text-lg mb-3">Immediate Escallation</h5>
                   <p className="text-gray-700 leading-relaxed">
                     Local agents act tough, but legal notices go straight to the bank's central legal department. The legal team usually instructs the local agency to back off to avoid regulatory fines.
                   </p>
                 </div>
                 <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
-                  <h4 className="font-black text-[#1F5EFF] text-lg mb-3">Protects Your Network</h4>
+                  <h5 className="font-black text-[#1F5EFF] text-lg mb-3">Protects Your Network</h5>
                   <p className="text-gray-700 leading-relaxed">
                     It explicitly states that the people being called are mere references, stripping the agents of their false claim that the relatives are somehow legally liable for the debt.
                   </p>
@@ -423,9 +423,9 @@ export default function RecoveryAgentsHarassmentPage() {
             </section>
 
             <section id="success-stories" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 Client Success Stories
-              </h2>
+              </h3>
               <div className="grid md:grid-cols-2 gap-6 my-8">
                 <div className="bg-white p-8 rounded-[30px] border border-[#DEDEDE] shadow-sm hover:shadow-xl group transition-all">
                   <div className="flex items-center gap-4 mb-6">
@@ -433,7 +433,7 @@ export default function RecoveryAgentsHarassmentPage() {
                       VS
                     </div>
                     <div>
-                      <h3 className="font-bold text-gray-900">Vikas S.</h3>
+                      <h4 className="font-bold text-gray-900">Vikas S.</h4>
                       <div className="flex text-yellow-400">
                         <svg className="w-4 h-4 fill-current" viewBox="0 0 20 20"><path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z"/></svg>
                         <svg className="w-4 h-4 fill-current" viewBox="0 0 20 20"><path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z"/></svg>
@@ -458,7 +458,7 @@ export default function RecoveryAgentsHarassmentPage() {
                       PK
                     </div>
                     <div>
-                      <h4 className="font-bold text-gray-900">Priya K.</h4>
+                      <h5 className="font-bold text-gray-900">Priya K.</h5>
                       <div className="flex text-yellow-400">
                         <svg className="w-4 h-4 fill-current" viewBox="0 0 20 20"><path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z"/></svg>
                         <svg className="w-4 h-4 fill-current" viewBox="0 0 20 20"><path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z"/></svg>
@@ -480,13 +480,13 @@ export default function RecoveryAgentsHarassmentPage() {
             </section>
 
             <section id="faqs" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 Frequently Asked Questions
-              </h2>
+              </h3>
               <div className="space-y-4">
                 {jsonLd["@graph"].find(item => item["@type"] === "FAQPage")?.mainEntity?.map((faq: any, index: number) => (
                   <div key={index} className="bg-white border border-[#DEDEDE] rounded-xl p-6 hover:shadow-md transition-shadow">
-                    <h3 className="text-xl font-bold text-[#2E2E2E] mb-3">{faq.name}</h3>
+                    <h4 className="text-xl font-bold text-[#2E2E2E] mb-3">{faq.name}</h4>
                     <p className="text-gray-700 leading-relaxed">{faq.acceptedAnswer.text}</p>
                   </div>
                 ))}
@@ -495,7 +495,7 @@ export default function RecoveryAgentsHarassmentPage() {
 
             <div className="bg-[#2E2E2E] text-white p-12 rounded-[40px] text-center mt-24 relative overflow-hidden group">
               <div className="absolute inset-0 bg-[#1F5EFF] opacity-0 group-hover:opacity-5 transition-opacity"></div>
-              <h3 className="text-3xl font-black mb-6 relative z-10">Stop the Social Embarrassment</h3>
+              <h4 className="text-3xl font-black mb-6 relative z-10">Stop the Social Embarrassment</h4>
               <p className="text-xl opacity-90 mb-8 relative z-10 max-w-2xl mx-auto">
                 Are recovery agents harassing your elderly parents, relatives, or office colleagues who were merely listed as references? We can send a strict cease-and-desist notice to the bank today.
               </p>

@@ -227,7 +227,7 @@ const Page = () => {
                     </section>
 
                     <section id="legal-framework-ut" className="scroll-mt-32 mb-16">
-                        <h2 className="text-3xl font-black mb-6">Legal Framework for Debt in the Union Territory</h2>
+                        <h3 className="text-3xl font-black mb-6">Legal Framework for Debt in the Union Territory</h3>
                         <p>As a Union Territory, Andaman and Nicobar Islands are governed by the same central laws that apply to the rest of India, but the implementation often faces local logistical challenges. For a borrower in Port Blair or Car Nicobar, understanding the legal landscape is the first step toward debt freedom. The **Reserve Bank of India (RBI)** guidelines on fair practices for lenders apply here in their full force, providing you with significant protection against overreach.</p>
                         <p>Many borrowers are unaware that banks and Non Banking Financial Companies (NBFCs) are legally bound to follow a specific protocol for debt recovery. They cannot use physical force, they cannot call you at odd hours, and they certainly cannot harass your friends or relatives. Even in the remote parts of the islands, these protections are your right. SettleLoans acts as your legal representative to ensure that the banks located in major cities like Kolkata or Chennai respect these boundaries when dealing with island customers.</p>
                         <p>The **Insolvency and Bankruptcy Code (IBC)** and the various **SARFAESI Act** provisions also come into play for larger or secured loans. However, for most unsecured personal loans and credit cards, the legal process for the bank is often long and expensive. This works in your favor during settlement negotiations. Banks realize that filing a case in the Calcutta High Court's Circuit Bench in Port Blair will take years and cost them significantly more than accepting a reasonable settlement amount from a distressed borrower today.</p>
@@ -236,24 +236,24 @@ const Page = () => {
                     </section>
 
                     <section id="types-of-loan-settlement" className="scroll-mt-32 mb-16">
-                        <h2 className="text-3xl font-black mb-6">Settling Different Types of Loans in the Islands</h2>
+                        <h3 className="text-3xl font-black mb-6">Settling Different Types of Loans in the Islands</h3>
                         <p>Debt isn't a 'one size fits all' problem, and neither is the solution. In the Andaman and Nicobar Islands, we deal with a wide variety of loan types, each requiring a tailored negotiation strategy. Understanding the nuances of your specific debt is crucial for achieving the best possible waiver.</p>
                         
-                        <h3 className="text-2xl font-bold mt-8 mb-4">Credit Card Debt Settlement</h3>
+                        <h4 className="text-2xl font-bold mt-8 mb-4">Credit Card Debt Settlement</h4>
                         <p>Credit cards are perhaps the most common source of high interest debt traps in Port Blair. With interest rates often exceeding 40% per annum, a small balance can double in less than two years. Many islanders find themselves paying only the 'Minimum Amount Due' for months, only to realize that the principal balance has barely moved. This is what we call the 'Compound Interest Trap'. We specialize in settling these debts for 30% to 40% of the total outstanding, effectively wiping out the accumulated interest and penalties.</p>
 
-                        <h3 className="text-2xl font-bold mt-8 mb-4">Personal Loan Negotiation</h3>
+                        <h4 className="text-2xl font-bold mt-8 mb-4">Personal Loan Negotiation</h4>
                         <p>Personal loans are often taken for life's necessities such as medical emergencies, home repairs, or family expenses. Because these loans are unsecured, banks are more aggressive in their recovery attempts. However, they are also more willing to settle when they see genuine evidence of financial hardship. We help our clients in the islands compile a 'Hardship File', including medical reports or business loss statements, to prove to the bank that a settlement is the most logical path for both parties.</p>
 
-                        <h3 className="text-2xl font-bold mt-8 mb-4">Business Loan Resolution</h3>
+                        <h4 className="text-2xl font-bold mt-8 mb-4">Business Loan Resolution</h4>
                         <p>The small business community in the islands is the backbone of the local economy. From traders in Aberdeen Bazaar to boutique owners in Havelock, business owners often take loans for expansion or working capital. When the market dynamics shift, these loans can become a burden. We help business owners restructure their liabilities through negotiated settlements, allowing them to save their businesses and their reputations.</p>
 
-                        <h3 className="text-2xl font-bold mt-8 mb-4">Microloans and Digital App Loans</h3>
+                        <h4 className="text-2xl font-bold mt-8 mb-4">Microloans and Digital App Loans</h4>
                         <p>A recent and worrying trend in the islands is the rise of digital lending apps. These apps often use aggressive and unethical tactics to recover small amounts of money. If you are being harassed by a digital lender, it is vital to remember that many of them operate in violation of RBI guidelines. We assist in reporting these unauthorized lenders and negotiating settlements that bring an end to the harassment and the debt itself.</p>
                     </section>
 
                     <section id="tourism-economic-fluctuations" className="scroll-mt-32 mb-16">
-                        <h2 className="text-3xl font-black mb-6">Healing the Cycle of Tourism and Economic Fluctuations</h2>
+                        <h3 className="text-3xl font-black mb-6">Healing the Cycle of Tourism and Economic Fluctuations</h3>
                         <p>The economy of the Andaman and Nicobar Islands is intrinsically tied to its turquoise waters and emerald forests. Tourism is the primary driver of growth, but it is also a highly volatile industry. From seasonal monsoon closures to sudden changes in flight connectivity, a hotel owner in Neil Island or a boat operator in Long Island can see their income vanish in a matter of days. This volatility is a major reason why many honest borrowers in the islands fall into default.</p>
                         <p>Banks often use Mainland benchmarks to evaluate borrowers in the islands, failing to account for the unique challenges of an island economy. They don't understand that a delay in shipping can halt a construction business or that a cyclone warning can cancel a week's worth of bookings. At SettleLoans, we act as the cultural and economic translators for our clients. We present the banks with a clear picture of how these 'Island Factors' have directly impacted your ability to pay. When we provide a context for the default, banks are much more likely to approve an OTS (One Time Settlement).</p>
                         <p>We work with many individuals who took loans during a peak season, only to be hit by a subsequent slump. Instead of taking fresh loans to pay existing ones (which is a recipe for disaster), we advise them to consolidate and settle. By settling your high interest liabilities, you can use the income from the next season to rebuild your savings rather than just paying off old interest. This is the only way to achieve true financial sustainability in a fluctuating economy.</p>
@@ -261,7 +261,7 @@ const Page = () => {
                     </section>
 
                     <section id="government-employee-debt" className="scroll-mt-32 mb-16">
-                        <h2 className="text-3xl font-black mb-6">Challenges for Government Employees in Port Blair</h2>
+                        <h3 className="text-3xl font-black mb-6">Challenges for Government Employees in Port Blair</h3>
                         <p>A significant portion of the workforce in the Andaman and Nicobar Islands consists of government employees and those working in the defense sector. While government jobs provide stability, they also make you a 'preferred target' for banks and NBFCs. Lenders assume that because you have a steady salary, you can always pay, even if your circumstances have changed. They often use the possibility of a department complaint or a salary attachment to pressure you into paying more than you can afford.</p>
                         <p>For a government employee in Port Blair, a loan default can be particularly stressful due to the fear of it affecting their career. Banks often exploit this fear. It is important to know that a civil debt default is NOT a criminal offense and does not automatically lead to disciplinary action in your department. However, the constant harassment from recovery agents can certainly affect your work performance and mental health. SettleLoans provides a shield for government employees, ensuring that all bank communications are handled professionally by our legal team.</p>
                         <p>We help government employees manage their debt portfolios by calculating a realistic budget. If you are paying more than 60% of your take home pay as EMIs, you are in a financial crisis. We assist in negotiating settlements for your unsecured loans, allowing you to bring your monthly outflow down to a manageable level. By settling your high interest credit cards or personal loans, you can protect your primary income and focus on your duty without the constant distraction of debt.</p>
@@ -269,7 +269,7 @@ const Page = () => {
                     </section>
 
                     <section id="stopping-harassment-port-blair" className="scroll-mt-32 mb-16">
-                        <h2 className="text-3xl font-black mb-6">Stopping Recovery Harassment in Port Blair and Beyond</h2>
+                        <h3 className="text-3xl font-black mb-6">Stopping Recovery Harassment in Port Blair and Beyond</h3>
                         <p>One of the most harrowing aspects of being in debt is the constant harassment from recovery agents. In a place like Port Blair, where everyone knows everyone, the threat of an agent visiting your home or office is particularly terrifying. These agents often use intimidation, shame, and sheer persistence to break a borrower's spirit. At SettleLoans, we believe that no one should be bullied because of their financial situation. Harassment is illegal, and we have the tools to stop it.</p>
                         <p>The moment you subscribe to our services, we issue a formal 'Legal Representational Notice' to all your creditors. This notice informs them that SettleLoans is now handling your debt matters and that all future communications must be directed to us. This single step often reduces the volume of calls by up to 90% almost instantly. When recovery agencies see that a borrower is legally represented, they usually back off, as they are trained to avoid legal confrontation with professional firms.</p>
                         <p>If an agent continues to harass you or visits your home in the islands, we provide you with a step by step guide on how to handle the situation. You should never be intimidated. We help you document the harassment, recording calls and saving messages, which can then be used as evidence in complaints to the **Banking Ombudsman** or the police. The knowledge that you have a legal team just a phone call away gives you the confidence to stand your ground and protect your dignity.</p>
@@ -277,7 +277,7 @@ const Page = () => {
                     </section>
 
                     <section id="lok-adalat-andaman" className="scroll-mt-32 mb-16">
-                        <h2 className="text-3xl font-black mb-6">Lok Adalat and Dispute Resolution in the Islands</h2>
+                        <h3 className="text-3xl font-black mb-6">Lok Adalat and Dispute Resolution in the Islands</h3>
                         <p>The judicial system in the Andaman and Nicobar Islands, though robust, can be slow. For many islanders, the idea of going to court is filled with dread. However, there is a much faster and more amicable way to resolve debt disputes: the **Lok Adalat**. Organized by the **Andaman and Nicobar State Legal Services Authority**, these 'People's Courts' are held periodically in Port Blair and are an excellent forum for settling bank disputes.</p>
                         <p>The beauty of a Lok Adalat is that it is a non adversarial process. The goal is not to punish the borrower but to find a middle ground that satisfies both the bank and the client. The awards passed by a Lok Adalat have the same force as a decree of a civil court, bringing a final and binding end to the dispute. Most importantly, there are no court fees, and the process is far less intimidating than a regular trial. At SettleLoans, we have extensive experience in facilitating settlements through this forum.</p>
                         <p>However, entering a Lok Adalat without professional representation can be a mistake. Banks often come prepared with their own legal teams and might offer a settlement that still feels like a burden to you. We act as your negotiators, engaging with the bank's legal officers weeks before the Lok Adalat session begins. We work to reach the absolute 'bottom price' waiver, ensuring that the final agreement in front of the judge is the most favorable one possible for you.</p>
@@ -285,7 +285,7 @@ const Page = () => {
                     </section>
 
                     <section id="cibil-recovery-strategies" className="scroll-mt-32 mb-16">
-                        <h2 className="text-3xl font-black mb-6">Rebuilding Your Credit Score After Settlement</h2>
+                        <h3 className="text-3xl font-black mb-6">Rebuilding Your Credit Score After Settlement</h3>
                         <p>A major concern for many island residents when considering settlement is: "Will I ever be able to take a loan again?" It is a valid question. Yes, a settlement will result in a 'Settled' remark on your CIBIL report, and your score will take a temporary hit. However, this is not a permanent situation. Think of settlement as a necessary financial surgery that leaves a scar but saves your life. Once the debt is cleared, the healing process begins.</p>
                         <p>At SettleLoans, we don't just leave you after the settlement is done. We provide you with a 'Credit Recovery Roadmap'. The first step is to ensure that you have your **No Dues Certificate (NDC)** from the bank. This is your primary proof that the debt is resolved. We help you verify that the bank correctly reports the settlement to the credit bureaus. Sometimes administrative errors can show a settled loan as 'Written Off', which is more damaging. we ensure these errors are corrected immediately.</p>
                         <p>In the islands, one of the best ways to start rebuilding your credit is through a 'Secured Credit Card'. Many banks in Port Blair offer these cards against a small Fixed Deposit (usually ₹10,000 to ₹25,000). By using this card for small monthly expenses and paying the bill in full and on time every month, you start creating a fresh, positive credit history. Within 12 to 18 months of disciplined behavior, many of our clients see their credit scores climb back into a healthy range, making them eligible for new credit lines if they need them in the future.</p>
@@ -293,7 +293,7 @@ const Page = () => {
                     </section>
 
                     <section id="why-consult-experts" className="scroll-mt-32 mb-16">
-                        <h2 className="text-3xl font-black mb-6">Why Professional Help Matters in the Islands</h2>
+                        <h3 className="text-3xl font-black mb-6">Why Professional Help Matters in the Islands</h3>
                         <p>You might be tempted to try and negotiate with your bank yourself. While possible, it is often fraught with challenges. Banks are large institutions with aggressive collection departments and skilled negotiators. Their goal is to recover as much as possible, often by using pressure tactics. When you negotiate as an individual, you are at a disadvantage because of the emotional stress of the situation and the lack of specialized knowledge about the bank's internal 'floor prices'.</p>
                         <p>SettleLoans brings a collective bargaining power to the table. We represent thousands of clients, which gives us a level of influence that an individual simply cannot match. We know which banks are currently looking to clean their balance sheets and which ones are more likely to offer deep waivers. We speak the bank's language, dealing with regional managers and legal heads directly. In the Andaman and Nicobar Islands, where the physical distance from bank headquarters can lead to communication gaps, having a professional firm that bridges that gap is essential.</p>
                         <p>We also provide an essential service: **Verification of Settlement**. Many individuals have been cheated by unscrupulous agents who gave them fake settlement letters, took their money, and left them still in debt. We ensure that every letter we receive is 100% genuine, verified through the bank's official channels. We ensure that the terms are clear and that there are no 'hidden clauses' that could come back to haunt you later. With SettleLoans, you are paying for security, expertise, and peace of mind.</p>
@@ -301,13 +301,13 @@ const Page = () => {
                     </section>
 
                     <section id="success-stories-andaman" className="scroll-mt-32 mb-16 text-center">
-                        <h2 className="text-4xl font-black mb-12">Success Stories from Andaman & Nicobar</h2>
+                        <h3 className="text-4xl font-black mb-12">Success Stories from Andaman & Nicobar</h3>
                         <div className="grid md:grid-cols-2 gap-8 not-prose">
                             <div className="bg-white p-8 rounded-3xl border border-[#DEDEDE] shadow-xl hover:shadow-2xl transition-all h-full flex flex-col">
                                 <div className="flex items-center mb-6">
                                     <div className="w-14 h-14 rounded-full bg-[#1F5EFF]/10 flex items-center justify-center font-bold text-[#1F5EFF] text-xl mr-4">M</div>
                                     <div className="text-left">
-                                        <h3 className="font-black text-xl">Mohammad R.</h3>
+                                        <h4 className="font-black text-xl">Mohammad R.</h4>
                                         <p className="text-sm text-gray-500">Port Blair</p>
                                     </div>
                                     <div className="ml-auto text-yellow-500">★★★★★</div>
@@ -322,7 +322,7 @@ const Page = () => {
                                 <div className="flex items-center mb-6">
                                     <div className="w-14 h-14 rounded-full bg-[#1F5EFF]/10 flex items-center justify-center font-bold text-[#1F5EFF] text-xl mr-4">D</div>
                                     <div className="text-left">
-                                        <h4 className="font-black text-xl">Deepa M.</h4>
+                                        <h5 className="font-black text-xl">Deepa M.</h5>
                                         <p className="text-sm text-gray-500">Diglipur</p>
                                     </div>
                                     <div className="ml-auto text-yellow-500">★★★★★</div>
@@ -337,7 +337,7 @@ const Page = () => {
                     </section>
 
                     <section id="frequently-asked-questions" className="scroll-mt-32 mb-16">
-                        <h2 className="text-3xl font-black mb-8">Frequently Asked Questions: Andaman Edition</h2>
+                        <h3 className="text-3xl font-black mb-8">Frequently Asked Questions: Andaman Edition</h3>
                         <div className="space-y-4 not-prose">
                             {faqData.map((faq, i) => (
                                 <details key={i} className="group bg-white border border-[#DEDEDE] rounded-xl overflow-hidden hover:shadow-md transition-all">
@@ -356,7 +356,7 @@ const Page = () => {
                     </section>
 
                     <section className="mt-16 bg-[#1F5EFF] rounded-3xl p-10 text-center text-white shadow-2xl">
-                        <h2 className="text-3xl md:text-4xl font-black mb-4">Reclaim Your Financial Future in the Islands</h2>
+                        <h3 className="text-3xl md:text-4xl font-black mb-4">Reclaim Your Financial Future in the Islands</h3>
                         <p className="mb-8 text-lg opacity-90 max-w-2xl mx-auto">From Port Blair to the farthest shores of Nicobar, we are here to fight for your financial freedom. Your journey to a life without debt starts with a single conversation.</p>
                         <div className="flex justify-center">
                             <link href="/contact" />

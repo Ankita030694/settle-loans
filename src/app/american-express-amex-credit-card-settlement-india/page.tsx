@@ -591,7 +591,7 @@ export default function AmericanExpressCreditCardSettlementPage() {
                 <TrendingUp className="w-4 h-4" />
                 <span>2. Revolving APR, Late Fees &amp; Compounding Debt Trap</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">The Anatomy of Amex Financial Escalation</h2>
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">The Anatomy of Amex Financial Escalation</h3>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Distressed debt on American Express cards grows rapidly due to high interest rates. Amex charges 3.5% to 4.25% per month. This equals 42% to 52.86% APR. In addition, an 18% GST applies on all interest and fees. This creates a fast adding debt trap.
               </p>
@@ -609,7 +609,7 @@ export default function AmericanExpressCreditCardSettlementPage() {
                 <Clock className="w-4 h-4" />
                 <span>3. Delinquency Timeline &amp; NPA Stages</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">American Express Delinquency Lifecycle</h2>
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">American Express Delinquency Lifecycle</h3>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 American Express Banking Corp. follows RBI Prudential Norms for Asset status (IRACP). As an unpaid card account ages, the bank becomes much more willing to offer debt waivers.
               </p>
@@ -619,50 +619,50 @@ export default function AmericanExpressCreditCardSettlementPage() {
 
               <div className="space-y-4 my-6">
                 <div className="p-4 rounded-xl border border-slate-200 bg-slate-50/70">
-                  <h3 className="font-bold text-slate-900 text-sm mb-1 flex items-center gap-2">
+                  <h4 className="font-bold text-slate-900 text-sm mb-1 flex items-center gap-2">
                     <span className="w-2.5 h-2.5 rounded-full bg-yellow-500"></span>
                     Stage 1: Days Past Due 1 to 30 (Special Mention Account 0 - SMA-0)
-                  </h3>
+                  </h4>
                   <p className="text-xs sm:text-sm text-slate-600 leading-relaxed">
                     Digital recovery starts at once. The cardholder receives calls, SMS. And email alerts. Card spending is paused. Amex pushes for full payments or EMI conversions.
                   </p>
                 </div>
 
                 <div className="p-4 rounded-xl border border-slate-200 bg-slate-50/70">
-                  <h4 className="font-bold text-slate-900 text-sm mb-1 flex items-center gap-2">
+                  <h5 className="font-bold text-slate-900 text-sm mb-1 flex items-center gap-2">
                     <span className="w-2.5 h-2.5 rounded-full bg-orange-500"></span>
                     Stage 2: Days Past Due 31 to 60 (SMA-1 Classification)
-                  </h4>
+                  </h5>
                   <p className="text-xs sm:text-sm text-slate-600 leading-relaxed">
                     Card suspension becomes permanent. Internal phone collections begin. Late fees add up. And calls warn about CIBIL score drops. No principal cuts are given yet.
                   </p>
                 </div>
 
                 <div className="p-4 rounded-xl border border-slate-200 bg-slate-50/70">
-                  <h4 className="font-bold text-slate-900 text-sm mb-1 flex items-center gap-2">
+                  <h5 className="font-bold text-slate-900 text-sm mb-1 flex items-center gap-2">
                     <span className="w-2.5 h-2.5 rounded-full bg-red-500"></span>
                     Stage 3: Days Past Due 61 to 90 (SMA-2 Classification)
-                  </h4>
+                  </h5>
                   <p className="text-xs sm:text-sm text-slate-600 leading-relaxed">
                     The account is close to NPA status. Amex assigns field collection agencies. Preliminary legal notice letters arrive from Gurugram legal cells.
                   </p>
                 </div>
 
                 <div className="p-4 rounded-xl border border-slate-200 bg-slate-50/70">
-                  <h4 className="font-bold text-slate-900 text-sm mb-1 flex items-center gap-2">
+                  <h5 className="font-bold text-slate-900 text-sm mb-1 flex items-center gap-2">
                     <span className="w-2.5 h-2.5 rounded-full bg-red-700"></span>
                     Stage 4: Days Past Due 91 to 180 (Sub-Standard Asset / NPA Classification)
-                  </h4>
+                  </h5>
                   <p className="text-xs sm:text-sm text-slate-600 leading-relaxed">
                     Under RBI rules, the account becomes a defaulted Asset (NPA). Amex must set aside capital reserves for the bad debt. The file moves to the Stressed Assets Desk in Gurugram. This is the best window to negotiate 45% to 55% waivers.
                   </p>
                 </div>
 
                 <div className="p-4 rounded-xl border border-slate-200 bg-slate-50/70">
-                  <h4 className="font-bold text-slate-900 text-sm mb-1 flex items-center gap-2">
+                  <h5 className="font-bold text-slate-900 text-sm mb-1 flex items-center gap-2">
                     <span className="w-2.5 h-2.5 rounded-full bg-slate-900"></span>
                     Stage 5: Days Past Due 181 to 365+ (Doubtful / Loss Asset &amp; Technical Write-Off)
-                  </h4>
+                  </h5>
                   <p className="text-xs sm:text-sm text-slate-600 leading-relaxed">
                     The bank writes off the debt in its balance sheet. Amex may send court notices or move the case to National Lok Adalat. Debt waivers reach 55% to 65% with proof of hardship.
                   </p>
@@ -676,7 +676,7 @@ export default function AmericanExpressCreditCardSettlementPage() {
                 <Calculator className="w-4 h-4" />
                 <span>4. NPV Recovery Valuation &amp; Haircut Slabs</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Amex NPV Recovery Valuation Modeling</h2>
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Amex NPV Recovery Valuation Modeling</h3>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Many cardholders believe debt settlements are random talks with phone callers. In reality, American Express evaluates settlements using financial math. Under RBI Master Directions, banks calculate the <strong>Net Present Value (NPV)</strong> of recovery. They compare an immediate cash payment against the cost of fighting a long court battle.
               </p>
@@ -699,7 +699,7 @@ export default function AmericanExpressCreditCardSettlementPage() {
               </div>
 
               {/* Haircut Slabs Table */}
-              <h3 className="text-lg font-bold text-slate-900 mb-3">Realistic American Express Settlement Haircut Matrix by Card Product &amp; Aging</h3>
+              <h4 className="text-lg font-bold text-slate-900 mb-3">Realistic American Express Settlement Haircut Matrix by Card Product &amp; Aging</h4>
               <div className="overflow-x-auto my-4">
                 <table className="min-w-full bg-white">
                   <thead>
@@ -757,9 +757,9 @@ export default function AmericanExpressCreditCardSettlementPage() {
                       <span className="text-[10px] font-black uppercase tracking-widest text-blue-300 block">
                         Legal Defense &amp; Action Blueprint
                       </span>
-                      <h3 className="text-sm md:text-base font-black text-white leading-tight">
+                      <h4 className="text-sm md:text-base font-black text-white leading-tight">
                         American Express Credit Card Settlement &amp; Legal Resolution Blueprint
-                      </h3>
+                      </h4>
                     </div>
                   </div>
                   <a
@@ -806,7 +806,7 @@ export default function AmericanExpressCreditCardSettlementPage() {
                 <Gavel className="w-4 h-4" />
                 <span>6. Gurugram Legal Notices, Sec 25 PSSA &amp; Order 37 CPC</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Demystifying Amex Gurugram Legal Notices</h2>
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Demystifying Amex Gurugram Legal Notices</h3>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 American Express manages all legal cases from Gurugram, Haryana. When an account becomes an NPA, cardholders across India receive legal notices from Amex empanelled law firms in Gurugram and New Delhi. These notices use formal legal terms to pressure borrowers.
               </p>
@@ -838,7 +838,7 @@ export default function AmericanExpressCreditCardSettlementPage() {
                 <Scale className="w-4 h-4" />
                 <span>7. Unilateral Arbitration &amp; Lok Adalat Conciliation</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Challenging Unilateral Arbitration</h2>
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Challenging Unilateral Arbitration</h3>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Many Amex card agreements contain arbitration clauses in Delhi or Gurugram. Cardholders often receive letters stating that Amex has appointed a sole arbitrator. one-sided arbitrator appointments by lenders are legally invalid.
               </p>
@@ -856,7 +856,7 @@ export default function AmericanExpressCreditCardSettlementPage() {
                 <Layers className="w-4 h-4" />
                 <span>8. Step-by-Step Amex Settlement Roadmap</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Step-by-Step Amex Settlement Roadmap</h2>
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Step-by-Step Amex Settlement Roadmap</h3>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Reaching a safe and cost-effective settlement with American Express requires a clear 5-step roadmap:
               </p>
@@ -920,7 +920,7 @@ export default function AmericanExpressCreditCardSettlementPage() {
                 <FileCheck className="w-4 h-4" />
                 <span>9. Sanction Letter Forensics &amp; Mandatory ₹0 NDC</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Amex Sanction Letter Forensics &amp; NDC</h2>
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Amex Sanction Letter Forensics &amp; NDC</h3>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 The biggest risk in card settlement is paying on verbal promises from recovery agents. Agents often make fake promises or treat your money as a partial payment. This keeps the loan active and growing.
               </p>
@@ -944,7 +944,7 @@ export default function AmericanExpressCreditCardSettlementPage() {
                 <TrendingUp className="w-4 h-4" />
                 <span>10. CIBIL Trajectory &amp; Score Rehabilitation</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Post-Amex CIBIL Score Rehabilitation</h2>
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Post-Amex CIBIL Score Rehabilitation</h3>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Knowing how an OTS affects your credit score is vital. After a settlement, American Express reports the card as &apos;Settled&apos. with a ₹0 balance to CIBIL, Experian, Equifax, and CRIF.
               </p>
@@ -1002,7 +1002,7 @@ export default function AmericanExpressCreditCardSettlementPage() {
                 <HelpCircle className="w-4 h-4" />
                 <span>12. Frequently Asked Questions</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">American Express Credit Card Settlement</h2>
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">American Express Credit Card Settlement</h3>
 
               <div className="space-y-4">
                 {faqs.map((faq, index) => (
@@ -1024,10 +1024,10 @@ export default function AmericanExpressCreditCardSettlementPage() {
 
             {/* Official Statutory & Regulatory Reference Strip (5 Links) */}
             <div className="bg-slate-50 border border-slate-200 rounded-2xl p-6 my-10">
-              <h3 className="text-base font-bold text-slate-900 mb-4 flex items-center gap-2">
+              <h4 className="text-base font-bold text-slate-900 mb-4 flex items-center gap-2">
                 <Scale className="w-5 h-5 text-[#1F5EFF]" />
                 Official Statutory &amp; Regulatory References
-              </h3>
+              </h4>
               <ul className="space-y-3 text-xs sm:text-sm text-slate-600">
                 <li className="flex items-start gap-2">
                   <ExternalLink className="w-4 h-4 text-[#1F5EFF] flex-shrink-0 mt-0.5" />
@@ -1089,10 +1089,10 @@ export default function AmericanExpressCreditCardSettlementPage() {
 
             {/* Related Guides & Resources Strip (10 Topic Badges) */}
             <div className="bg-slate-50 border border-slate-200 rounded-2xl p-6 my-10">
-              <h3 className="text-base font-bold text-slate-900 mb-4 flex items-center gap-2">
+              <h4 className="text-base font-bold text-slate-900 mb-4 flex items-center gap-2">
                 <BookOpen className="w-5 h-5 text-[#1F5EFF]" />
                 Explore Related Credit Card &amp; Debt Resolution Guides
-              </h3>
+              </h4>
               <div className="flex flex-wrap gap-2.5">
                 <Link
                   href="/bank-one-time-settlement-ots-policy"

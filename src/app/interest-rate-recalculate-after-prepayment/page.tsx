@@ -292,15 +292,15 @@ export default function InterestRateRecalculatePage() {
             </section>
 
             <section id="how-interest-is-calculated" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 How is Interest Calculated After Part Payment?
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 To maximize your <strong>part payment interest savings</strong>, you must know exactly what happens behind the scenes at the bank the moment your check clears.
               </p>
 
               <div className="bg-blue-50 border-l-8 border-[#1F5EFF] p-8 rounded-r-2xl mb-8">
-                <h3 className="text-xl font-black text-[#1F5EFF] mb-4">The Immediate Effect on Principal</h3>
+                <h4 className="text-xl font-black text-[#1F5EFF] mb-4">The Immediate Effect on Principal</h4>
                 <p className="text-blue-900 text-lg leading-relaxed mb-4">
                   When you make a part payment, the entire amount goes directly toward reducing your outstanding principal amount. It does not go toward future interest.
                 </p>
@@ -322,16 +322,16 @@ export default function InterestRateRecalculatePage() {
             </section>
 
             <section id="recalculation-formula" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 The Loan Recalculation Formula
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 Banks use standard amortization mathematics. If you are wondering how the math works out, here is a breakdown of the <strong>loan recalculation formula</strong>.
               </p>
 
               <div className="grid md:grid-cols-2 gap-6 my-8">
                 <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
-                  <h3 className="font-black text-[#1F5EFF] text-lg mb-3">The Mathematical Formula</h3>
+                  <h4 className="font-black text-[#1F5EFF] text-lg mb-3">The Mathematical Formula</h4>
                   <p className="text-gray-700 leading-relaxed">
                     EMI = [P x R x (1+R)^N] / [(1+R)^N - 1]<br/><br/>
                     <strong>P</strong> = New Outstanding Principal<br/>
@@ -340,7 +340,7 @@ export default function InterestRateRecalculatePage() {
                   </p>
                 </div>
                 <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
-                  <h4 className="font-black text-[#1F5EFF] text-lg mb-3">What the Bank Controls</h4>
+                  <h5 className="font-black text-[#1F5EFF] text-lg mb-3">What the Bank Controls</h5>
                   <p className="text-gray-700 leading-relaxed">
                     When 'P' decreases due to your part payment, the bank must solve the equation again. They will either keep 'EMI' constant and reduce 'N' (Tenure), or keep 'N' constant and reduce 'EMI'.
                   </p>
@@ -349,9 +349,9 @@ export default function InterestRateRecalculatePage() {
             </section>
 
             <section id="emi-vs-tenure" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 EMI Reduction vs. Tenure Reduction
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 When you make a part payment, you have a crucial choice to make that will determine your total <strong>part payment interest savings</strong>.
               </p>
@@ -360,7 +360,7 @@ export default function InterestRateRecalculatePage() {
                 <div className="flex gap-6">
                   <div className="flex-shrink-0 w-12 h-12 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center font-black text-xl shadow-lg">1</div>
                   <div>
-                    <h3 className="text-2xl font-bold text-[#2E2E2E] mb-2">Option A: Reducing the Tenure (Recommended)</h3>
+                    <h4 className="text-2xl font-bold text-[#2E2E2E] mb-2">Option A: Reducing the Tenure (Recommended)</h4>
                     <p className="text-lg text-gray-700 leading-relaxed">
                       By keeping your EMI the same, the extra money paid every month aggressively eats into the remaining principal. This drastically shortens the life of your loan and saves you massive amounts of interest over the long run.
                     </p>
@@ -370,7 +370,7 @@ export default function InterestRateRecalculatePage() {
                 <div className="flex gap-6">
                   <div className="flex-shrink-0 w-12 h-12 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center font-black text-xl shadow-lg">2</div>
                   <div>
-                    <h3 className="text-2xl font-bold text-[#2E2E2E] mb-2">Option B: Reducing the EMI</h3>
+                    <h4 className="text-2xl font-bold text-[#2E2E2E] mb-2">Option B: Reducing the EMI</h4>
                     <p className="text-lg text-gray-700 leading-relaxed">
                       The bank recalculates a lower EMI while keeping the original end date of the loan. This gives you immediate cash flow relief month-to-month, but your overall interest savings will be much lower compared to Option A.
                     </p>
@@ -380,15 +380,15 @@ export default function InterestRateRecalculatePage() {
             </section>
 
             <section id="impact-on-cibil" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 Impact on CIBIL Score
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 Many borrowers wonder if prepaying a loan affects their credit score. The short answer is yes, but largely in a positive way, provided it's done correctly.
               </p>
               
               <div className="bg-gray-50 p-8 rounded-2xl mb-8 border border-gray-200">
-                <h3 className="text-xl font-bold text-gray-800 mb-4">How Prepayment Boosts Your Score</h3>
+                <h4 className="text-xl font-bold text-gray-800 mb-4">How Prepayment Boosts Your Score</h4>
                 <p className="text-gray-800 text-lg leading-relaxed mb-4">
                   When you make a part payment, your total outstanding debt decreases. This improves your Credit Utilization Ratio (CUR) and your overall debt-to-income ratio, signaling to future lenders that you are financially responsible and capable of clearing debts ahead of schedule.
                 </p>
@@ -399,22 +399,22 @@ export default function InterestRateRecalculatePage() {
             </section>
 
             <section id="hidden-charges" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 Beware of Hidden Charges During Prepayment
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 Banks despise prepayments because it directly cuts into their anticipated interest profits. To deter this, they often try to impose sneaky charges.
               </p>
               
               <div className="grid md:grid-cols-2 gap-6 my-8">
                 <div className="bg-white p-6 rounded-xl border border-[#DEDEDE] shadow-sm">
-                  <h3 className="font-black text-[#1F5EFF] text-lg mb-3">Prepayment Penalties</h3>
+                  <h4 className="font-black text-[#1F5EFF] text-lg mb-3">Prepayment Penalties</h4>
                   <p className="text-gray-700 leading-relaxed">
                     While the RBI has strictly banned prepayment penalties on floating-rate home loans for individuals, banks may still charge a 1% to 3% fee on fixed-rate loans, personal loans, or loans taken under a business entity.
                   </p>
                 </div>
                 <div className="bg-white p-6 rounded-xl border border-[#DEDEDE] shadow-sm">
-                  <h4 className="font-black text-[#1F5EFF] text-lg mb-3">Administrative Fees</h4>
+                  <h5 className="font-black text-[#1F5EFF] text-lg mb-3">Administrative Fees</h5>
                   <p className="text-gray-700 leading-relaxed">
                     Some lenders attempt to charge a flat "administrative fee" or "recalculation fee" every time you request a change in your amortization schedule. Always contest these charges if they weren't explicitly stated in your original loan agreement.
                   </p>
@@ -423,14 +423,14 @@ export default function InterestRateRecalculatePage() {
             </section>
 
             <section id="legal-rights" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 Your Legal Rights Under RBI Guidelines
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 You are not at the mercy of the bank's whims. The Reserve Bank of India (RBI) has established clear consumer protection guidelines regarding loan prepayments and interest recalculations.
               </p>
               <div className="bg-blue-50 border-l-8 border-[#1F5EFF] p-8 rounded-r-2xl mb-8">
-                <h3 className="text-xl font-black text-[#1F5EFF] mb-4">Mandatory Compliance</h3>
+                <h4 className="text-xl font-black text-[#1F5EFF] mb-4">Mandatory Compliance</h4>
                 <ul className="space-y-3">
                   <li className="flex items-start gap-3">
                     <div className="mt-1.5 w-2 h-2 rounded-full bg-[#1F5EFF] flex-shrink-0"></div>
@@ -449,9 +449,9 @@ export default function InterestRateRecalculatePage() {
             </section>
             
             <section id="bank-failures" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 Why Banks Fail to Update (And Cost You Money)
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 Unfortunately, the system isn't always automatic. Borrowers often face "technical glitches" where the part payment sits in a suspense account instead of hitting the principal.
               </p>
@@ -463,7 +463,7 @@ export default function InterestRateRecalculatePage() {
               </div>
 
               <div className="bg-red-50 p-6 rounded-xl border border-red-100 mb-8">
-                <h3 className="text-xl font-black text-red-700 mb-3">Warning: Watch Your Statement</h3>
+                <h4 className="text-xl font-black text-red-700 mb-3">Warning: Watch Your Statement</h4>
                 <p className="text-red-900 leading-relaxed">
                   Never assume the bank has correctly applied the <strong>loan recalculation formula</strong>. You must check your loan statement the following month. If the principal has not dropped by the exact amount you paid, you are being illegally overcharged.
                 </p>
@@ -471,9 +471,9 @@ export default function InterestRateRecalculatePage() {
             </section>
 
             <section id="success-stories" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 Client Success Stories
-              </h2>
+              </h3>
               <div className="grid md:grid-cols-2 gap-6 my-8">
                 <div className="bg-white p-8 rounded-[30px] border border-[#DEDEDE] shadow-sm hover:shadow-xl group transition-all">
                   <div className="flex items-center gap-4 mb-6">
@@ -481,7 +481,7 @@ export default function InterestRateRecalculatePage() {
                       VS
                     </div>
                     <div>
-                      <h3 className="font-bold text-gray-900">Vikram S.</h3>
+                      <h4 className="font-bold text-gray-900">Vikram S.</h4>
                       <div className="flex text-yellow-400">
                         <svg className="w-4 h-4 fill-current" viewBox="0 0 20 20"><path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z"/></svg>
                         <svg className="w-4 h-4 fill-current" viewBox="0 0 20 20"><path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z"/></svg>
@@ -506,7 +506,7 @@ export default function InterestRateRecalculatePage() {
                       PM
                     </div>
                     <div>
-                      <h4 className="font-bold text-gray-900">Priya M.</h4>
+                      <h5 className="font-bold text-gray-900">Priya M.</h5>
                       <div className="flex text-yellow-400">
                         <svg className="w-4 h-4 fill-current" viewBox="0 0 20 20"><path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z"/></svg>
                         <svg className="w-4 h-4 fill-current" viewBox="0 0 20 20"><path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z"/></svg>
@@ -528,13 +528,13 @@ export default function InterestRateRecalculatePage() {
             </section>
 
             <section id="faqs" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 Frequently Asked Questions
-              </h2>
+              </h3>
               <div className="space-y-4">
                 {jsonLd["@graph"].find(item => item["@type"] === "FAQPage")?.mainEntity?.map((faq: any, index: number) => (
                   <div key={index} className="bg-white border border-[#DEDEDE] rounded-xl p-6 hover:shadow-md transition-shadow">
-                    <h3 className="text-xl font-bold text-[#2E2E2E] mb-3">{faq.name}</h3>
+                    <h4 className="text-xl font-bold text-[#2E2E2E] mb-3">{faq.name}</h4>
                     <p className="text-gray-700 leading-relaxed">{faq.acceptedAnswer.text}</p>
                   </div>
                 ))}
@@ -543,7 +543,7 @@ export default function InterestRateRecalculatePage() {
 
             <div className="bg-[#2E2E2E] text-white p-12 rounded-[40px] text-center mt-24 relative overflow-hidden group">
               <div className="absolute inset-0 bg-[#1F5EFF] opacity-0 group-hover:opacity-5 transition-opacity"></div>
-              <h3 className="text-3xl font-black mb-6 relative z-10">Did the Bank Fail to Reduce Your Interest Burden?</h3>
+              <h4 className="text-3xl font-black mb-6 relative z-10">Did the Bank Fail to Reduce Your Interest Burden?</h4>
               <p className="text-xl opacity-90 mb-8 relative z-10 max-w-2xl mx-auto">
                 If you made a part-payment and your bank is dragging their feet on recalculation, you are losing money every single day. Let our legal team step in.
               </p>

@@ -226,7 +226,7 @@ const MSMEAndBusinessLoansPage = () => {
                                 </div>
                             </div>
 
-                            <h3 className="text-2xl font-black mb-6 mt-12">The Micro-Economic Impact of Loan Defaults</h3>
+                            <h4 className="text-2xl font-black mb-6 mt-12">The Micro-Economic Impact of Loan Defaults</h4>
                             <p className="mb-6">
                                 When an MSME defaults, the impact ripple is felt by workers, suppliers, and the local community. Banks often treat these defaults purely as balance sheet items, ignoring the human element. Our legal approach involves humanizing the business in front of the judge. Whether it is in the High Court or the DRT, we present the socio-economic impact of a potential closure. This often helps in obtaining empathetic 'Reliefs' and 'Stays' that a purely technical defense might not achieve.
                             </p>
@@ -236,23 +236,23 @@ const MSMEAndBusinessLoansPage = () => {
                         </section>
 
                         <section id="msmed-act-protections" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#1A1A1A] mb-8">The MSMED Act 2006: Your Statutory Shield</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#1A1A1A] mb-8">The MSMED Act 2006: Your Statutory Shield</h3>
                             <p className="mb-6">
                                 Many business owners are unaware that they possess a powerful legal tool: the Micro, Small and Medium Enterprises Development (MSMED) Act, 2006. This Act provides specific mechanisms to handle the two biggest threats to an MSME: delayed payments and aggressive bank recovery. The Act was specifically passed to provide a 'Safety Net' for small entrepreneurs against the 'Big Corporate' bullying that often happens in the supply chain.
                             </p>
                             <div className="grid grid-cols-1 md:grid-cols-2 gap-6 my-10">
                                 <div className="bg-white p-6 rounded-xl border border-[#DEDEDE] shadow-sm border-t-4 border-t-[#1F5EFF]">
-                                    <h3 className="font-bold mb-3 italic underline text-[#1F5EFF]">Section 15: The 45-Day Rule</h3>
+                                    <h4 className="font-bold mb-3 italic underline text-[#1F5EFF]">Section 15: The 45-Day Rule</h4>
                                     <p className="text-sm opacity-90">By law, any person who buys goods or services from an MSME MUST pay within 45 days. If they don't, they are liable to pay triple the bank rate as compound interest. We use this to force your debtors to pay you, helping you clear your own bank dues. This interest is mandatory and cannot be waived even by the courts.</p>
                                 </div>
                                 <div className="bg-white p-6 rounded-xl border border-[#DEDEDE] shadow-sm border-t-4 border-t-[#1F5EFF]">
-                                    <h4 className="font-bold mb-3 italic underline text-[#1F5EFF]">Section 18: MSEFC Arbitration</h4>
+                                    <h5 className="font-bold mb-3 italic underline text-[#1F5EFF]">Section 18: MSEFC Arbitration</h5>
                                     <p className="text-sm opacity-90">You can skip the slow civil courts and take your payment disputes to the Facilitation Council. It's faster, cheaper, and much more business-friendly than traditional litigation. The council acts as a conciliator first, and if that fails, it takes up arbitration. The best part? The buyer has to deposit 75% of the disputed amount even to challenge the council's order in a higher court.</p>
                                 </div>
                             </div>
 
                             <div className="bg-blue-50 p-8 rounded-2xl border border-blue-100 my-10">
-                                <h4 className="text-xl font-black mb-4 uppercase">The Power of Udyam Registration</h4>
+                                <h5 className="text-xl font-black mb-4 uppercase">The Power of Udyam Registration</h5>
                                 <p className="mb-4">
                                     To avail these protections, your Udyam Registration must be active and correctly categorized. We help businesses 'Retro-actively' claim their MSME status if they were eligible at the time of the transaction. The Supreme Court has clarified that MSME status is determined by the date of service, which provides a massive loophole for businesses that forgot to register earlier.
                                 </p>
@@ -263,12 +263,12 @@ const MSMEAndBusinessLoansPage = () => {
                         </section>
 
                         <section id="sarfaesi-msme" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#1A1A1A] mb-8">Fighting SARFAESI: Protecting Your Assets</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#1A1A1A] mb-8">Fighting SARFAESI: Protecting Your Assets</h3>
                             <p className="mb-6">
                                 The Securitization and Reconstruction of Financial Assets and Enforcement of Security Interest (SARFAESI) Act, 2002, is the bank's most potent weapon. It allows them to take possession of your factory, machinery, or residence without a court order. However, for an MSME, this exercise of power is subject to strict guidelines. The 'Rule of Law' dictates that even the bank must follow the 'Standard Operating Procedures' laid down by the RBI and the Supreme Court.
                             </p>
                             <div className="bg-gray-50 p-8 rounded-2xl border border-gray-100 my-8">
-                                <h3 className="text-xl font-bold mb-4 text-[#1F5EFF]">Stop the Bank's Auction Process</h3>
+                                <h4 className="text-xl font-bold mb-4 text-[#1F5EFF]">Stop the Bank's Auction Process</h4>
                                 <ul className="space-y-4">
                                     <li className="flex items-start gap-3">
                                         <FontAwesomeIcon icon={faCircleCheck} className="text-[#1F5EFF] mt-1.5 shrink-0" />
@@ -284,7 +284,7 @@ const MSMEAndBusinessLoansPage = () => {
                                     </li>
                                 </ul>
                             </div>
-                            <h3 className="text-2xl font-black mb-6 mt-12">The District Magistrate (DM) / CMM Link</h3>
+                            <h4 className="text-2xl font-black mb-6 mt-12">The District Magistrate (DM) / CMM Link</h4>
                             <p className="mb-6">
                                 When a bank wants physical possession, they file an application under Section 14 of SARFAESI with the DM or CMM. Many owners think this is a rubber-stamp process. However, we intervene at this stage to show that the bank has suppressed facts or that the account is already under a restructuring proposal. This often delays the physical takeover by several months, giving you time to arrange funds or negotiate an OTS.
                             </p>
@@ -294,17 +294,17 @@ const MSMEAndBusinessLoansPage = () => {
                         </section>
 
                         <section id="180-day-rule" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#1A1A1A] mb-8">The 180-Day Rule and NPA Classification</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#1A1A1A] mb-8">The 180-Day Rule and NPA Classification</h3>
                             <p className="mb-6">
                                 For years, the RBI has recognized that MSMEs need more time to recover from cash flow shocks. While standard corporate loans become NPAs in 90 days, certain MSME categories have historically enjoyed a 180-day window. Even today, the 'Resolution Framework' for MSMEs requires banks to consider restructuring if the default is less than 30 days old. This recognition of 'Cash Flow Asymmetry' is the cornerstone of MSME banking regulations.
                             </p>
                             <div className="bg-[#1F5EFF]/5 border border-[#1F5EFF]/20 p-8 rounded-3xl mb-10">
-                                <h3 className="text-xl font-bold mb-4">Strategic Intervention Before NPA</h3>
+                                <h4 className="text-xl font-bold mb-4">Strategic Intervention Before NPA</h4>
                                 <p className="mb-4">The best time to hire a lawyer for a business loan matter is BEFORE the account is declared an NPA. Once the NPA tag is attached, your credit rating collapses and the SARFAESI machinery starts. We help you use the 'Framework for Revival and Rehabilitation of MSMEs' to force the bank to sit at the table before they take recovery action. This framework is mandatory, not optional. If a bank skips the 'Corrective Action Plan' (CAP) stage, their subsequent recovery is legally flawed.</p>
                                 <p className="font-bold text-[#1F5EFF]">Immediate action can prevent the legal stigma of being an NPA borrower and save your credit history for the long term.</p>
                             </div>
 
-                            <h3 className="text-2xl font-black mb-6 mt-12">The SMA-0, SMA-1, and SMA-2 Hierarchy</h3>
+                            <h4 className="text-2xl font-black mb-6 mt-12">The SMA-0, SMA-1, and SMA-2 Hierarchy</h4>
                             <p className="mb-6">
                                 Banks track your default in stages. Special Mention Account (SMA-0) is generic, but SMA-1 (31-60 days) and SMA-2 (61-90 days) are serious red flags. Our legal team intervenes at the SMA-1 stage to propose a 'TEV Study' (Techno-Economic Viability). By showing the bank that the business is viable but just needs a 'Holidays' on interest, we can often stop the slide into NPA.
                             </p>
@@ -314,23 +314,23 @@ const MSMEAndBusinessLoansPage = () => {
                         </section>
 
                         <section id="msefc-arbitration" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#1A1A1A] mb-8">MSEFC Arbitration: Turning Your Debtors into Cash</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#1A1A1A] mb-8">MSEFC Arbitration: Turning Your Debtors into Cash</h3>
                             <p className="mb-6">
                                 One of the primary reasons for MSME loan default is 'Delayed Receivables' from big clients. You can't pay the bank because your customer hasn't paid you. This is where the Micro and Small Enterprise Facilitation Council (MSEFC) becomes your best friend. It is a specialized forum that understands the 'Buyer-Seller' power dynamic.
                             </p>
                             <div className="flex flex-col md:flex-row gap-6 my-10">
                                 <div className="flex-1 bg-white p-6 rounded-xl border border-[#DEDEDE] relative transition-hover hover:shadow-lg">
                                     <FontAwesomeIcon icon={faShieldHalved} className="absolute top-6 right-6 opacity-20 text-4xl text-[#1F5EFF]" />
-                                    <h3 className="font-bold mb-4">The Samadhaan Benefit</h3>
+                                    <h4 className="font-bold mb-4">The Samadhaan Benefit</h4>
                                     <p className="text-sm opacity-80">Filing on the MSME Samadhaan portal creates a public record of the buyer's default. Professional buyers and listed companies are terrified of this because it affects their corporate governance rating. This pressure alone often triggers a payment. Listed companies have to disclose MSME dues in their half-yearly reports (MSME Form 1), and a Samadhaan case makes this disclosure legally mandatory and risky for them.</p>
                                 </div>
                                 <div className="flex-1 bg-white p-6 rounded-xl border border-[#DEDEDE] relative transition-hover hover:shadow-lg">
                                     <FontAwesomeIcon icon={faTruckFast} className="absolute top-6 right-6 opacity-20 text-4xl text-[#1F5EFF]" />
-                                    <h4 className="font-bold mb-4">Arbitration Award</h4>
+                                    <h5 className="font-bold mb-4">Arbitration Award</h5>
                                     <p className="text-sm opacity-80">If the portal filing doesn't work, we take the case to formal arbitration in the Council. The process is time-bound. Once you get an award, we help you execute it in the civil court to attach the buyer's bank accounts and properties. An MSEFC award is as powerful as a High Court decree but is obtained in a fraction of the time.</p>
                                 </div>
                             </div>
-                            <h3 className="text-2xl font-black mb-6 mt-12">The 'Pay to Appeal' Rule</h3>
+                            <h4 className="text-2xl font-black mb-6 mt-12">The 'Pay to Appeal' Rule</h4>
                             <p className="mb-6">
                                 The beauty of the MSMED Act is Section 19. If a buyer wants to challenge the council's order in a higher court, they MUST first deposit 75% of the award amount. This stops the common tactic of 'Appeal after Appeal' used by rich companies to delay paying small vendors. We aggressively enforce this 75% deposit rule to ensure that even if the case goes to the High Court, your money is secured in the court registry.
                             </p>
@@ -340,7 +340,7 @@ const MSMEAndBusinessLoansPage = () => {
                         </section>
 
                         <section id="restructuring-msme" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#1A1A1A] mb-8">Effective Restructuring for Business Survival</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#1A1A1A] mb-8">Effective Restructuring for Business Survival</h3>
                             <p className="mb-6">
                                 Sometimes, the business model is sound but the debt structure is toxic. We help business owners negotiate a 'Haircut' or a 'Moratorium' that allows them to breathe. Restructuring is not just about delay; it is about 'Re-engineering' the loan to match the current cash flow of the business.
                             </p>
@@ -348,28 +348,28 @@ const MSMEAndBusinessLoansPage = () => {
                                 <div className="flex gap-4 p-5 bg-gray-50 rounded-xl border border-gray-100">
                                     <div className="w-10 h-10 bg-[#1F5EFF] text-white rounded-full flex items-center justify-center shrink-0 font-bold">1</div>
                                     <div>
-                                        <h3 className="font-bold mb-1">Debt Consolidation</h3>
+                                        <h4 className="font-bold mb-1">Debt Consolidation</h4>
                                         <p className="text-sm opacity-70 leading-relaxed">Combining multiple high-interest business loans and credit cards into a single, manageable term loan with a lower interest rate. We help you present a 'Unified Cash Flow' statement to the bank to justify this consolidation.</p>
                                     </div>
                                 </div>
                                 <div className="flex gap-4 p-5 bg-gray-50 rounded-xl border border-gray-100">
                                     <div className="w-10 h-10 bg-[#1F5EFF] text-white rounded-full flex items-center justify-center shrink-0 font-bold">2</div>
                                     <div>
-                                        <h4 className="font-bold mb-1">Interest Waivers</h4>
+                                        <h5 className="font-bold mb-1">Interest Waivers</h5>
                                         <p className="text-sm opacity-70 leading-relaxed">Negotiating with banks to waive penal interest and compound interest charges that have made the loan balloon beyond the principal amount. We use the 'Usury Law' principles and RBI circulars against excessive interest to force these waivers.</p>
                                     </div>
                                 </div>
                                 <div className="flex gap-4 p-5 bg-gray-50 rounded-xl border border-gray-100">
                                     <div className="w-10 h-10 bg-[#1F5EFF] text-white rounded-full flex items-center justify-center shrink-0 font-bold">3</div>
                                     <div>
-                                        <h5 className="font-bold mb-1">One-Time Settlement (OTS)</h5>
+                                        <h6 className="font-bold mb-1">One-Time Settlement (OTS)</h6>
                                         <p className="text-sm opacity-70 leading-relaxed">For businesses that want a complete exit, we negotiate a final settlement amount, often saving 40-70% of the total outstanding amount. We ensure that the OTS is 'Irrevocable' so the bank cannot restart recovery once you have paid the settled amount.</p>
                                     </div>
                                 </div>
                             </div>
 
                             <div className="bg-white p-8 rounded-2xl border border-gray-100 shadow-sm my-10">
-                                <h4 className="text-xl font-black mb-6">Pre-packaged Insolvency (PPIRP)</h4>
+                                <h5 className="text-xl font-black mb-6">Pre-packaged Insolvency (PPIRP)</h5>
                                 <p className="mb-4">
                                     The IBC now offers a 'Pre-pack' specifically for MSMEs. This is revolutionary. Unlike large corporate insolvency where the owner loses control, in PPIRP, the 'Debtor-in-Possession' model is maintained. You keep running your business while you negotiate a resolution plan.
                                 </p>
@@ -380,12 +380,12 @@ const MSMEAndBusinessLoansPage = () => {
                         </section>
 
                         <section id="cgtmse-protection" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#1A1A1A] mb-8">CGTMSE and Credit Guarantees: Debunking the Myths</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#1A1A1A] mb-8">CGTMSE and Credit Guarantees: Debunking the Myths</h3>
                             <p className="mb-6">
                                 Many MSME loans are covered under the Credit Guarantee Fund Trust for Micro and Small Enterprises (CGTMSE). There is a common misconception among borrowers that if the loan is guaranteed, the bank cannot pursue the borrower for the balance. This is legally incorrect. The guarantee is for the 'Bank's Protection', not the 'Borrower's Relief'. If you default, the CGTMSE pays the bank, but the Trust then 'Steps into the Shoes' of the bank to recover the money from you.
                             </p>
                             <div className="bg-yellow-50 p-8 rounded-2xl border border-yellow-100 mb-10">
-                                <h3 className="text-xl font-bold mb-4">The 'Subrogation' Principle</h3>
+                                <h4 className="text-xl font-bold mb-4">The 'Subrogation' Principle</h4>
                                 <p className="mb-4">Under Section 140 of the Indian Contract Act, once a guarantor (CGTMSE) pays the creditor (the Bank), the guarantor gets all the rights that the creditor had against the principal debtor. This means you are now dealing with a government-backed trust instead of a private bank. Recovery from government trusts can often be more rigid and involve 'Public Demand Recovery' acts, which are even more stringent than standard civil suits.</p>
                                 <p className="font-bold text-yellow-800">We help you negotiate with the bank BEFORE they invoke the CGTMSE guarantee. Once the guarantee is invoked, the bank loses interest in your account, and you are left to deal with the technicalities of the Trust, which has very little room for negotiation or OTS.</p>
                             </div>
@@ -395,7 +395,7 @@ const MSMEAndBusinessLoansPage = () => {
                         </section>
 
                         <section id="why-hire-msme-lawyer" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#1A1A1A] mb-8">Why SettleLoans is the Right Choice for Your MSME</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#1A1A1A] mb-8">Why SettleLoans is the Right Choice for Your MSME</h3>
                             <p className="mb-6 text-lg">We don't just know the law; we know the struggle of running a small business in India. Our legal panel is curated to include experts who have successfully fought and won against some of the largest banks in the country.</p>
                             <div className="grid grid-cols-1 sm:grid-cols-2 gap-4">
                                 <div className="p-6 bg-gray-50 rounded-2xl border border-gray-100 flex items-start gap-4">
@@ -418,7 +418,7 @@ const MSMEAndBusinessLoansPage = () => {
                         </section>
 
                         <section id="success-stories" className="scroll-mt-32 mb-20">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#1A1A1A] mb-12 text-center underline decoration-[#1F5EFF] underline-offset-8">Stories of Resilience</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#1A1A1A] mb-12 text-center underline decoration-[#1F5EFF] underline-offset-8">Stories of Resilience</h3>
                             <div className="grid grid-cols-1 md:grid-cols-2 gap-8">
                                 {reviews.map((review, i) => (
                                     <div key={i} className="bg-white p-6 rounded-2xl border border-[#DEDEDE] shadow-sm hover:shadow-md transition-all">
@@ -427,7 +427,7 @@ const MSMEAndBusinessLoansPage = () => {
                                                 {review.name.charAt(0)}
                                             </div>
                                             <div>
-                                                <h3 className="font-bold text-[#2E2E2E]">{review.name}</h3>
+                                                <h4 className="font-bold text-[#2E2E2E]">{review.name}</h4>
                                                 <p className="text-xs text-gray-400">{review.loc}</p>
                                             </div>
                                             <div className="ml-auto text-yellow-400 text-sm">★★★★★</div>
@@ -442,7 +442,7 @@ const MSMEAndBusinessLoansPage = () => {
                         </section>
 
                         <section id="faqs" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#1A1A1A] mb-8">MSME Loan Defense: FAQ</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#1A1A1A] mb-8">MSME Loan Defense: FAQ</h3>
                             <div className="space-y-4">
                                 {faqs.map((faq, i) => (
                                     <details key={i} className="group bg-white border border-[#DEDEDE] rounded-xl overflow-hidden hover:shadow-md transition-all border-b-4 border-b-[#1F5EFF]/20">
@@ -466,7 +466,7 @@ const MSMEAndBusinessLoansPage = () => {
                         <div className="lg:hidden mt-16 mb-8">
                             <div className="bg-[#2E2E2E] rounded-2xl shadow-xl overflow-hidden border border-[#1F5EFF]/20">
                                 <div className="bg-[#1F5EFF] p-6 text-center text-white">
-                                    <h3 className="text-2xl font-black mb-2">Ready to Start Over?</h3>
+                                    <h4 className="text-2xl font-black mb-2">Ready to Start Over?</h4>
                                     <p className="opacity-90 text-sm">Join the 10,000+ Indians we've helped find their way to financial freedom.</p>
                                 </div>
                                 <div className="p-8 text-center text-[#DEDEDE]">

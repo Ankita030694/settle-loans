@@ -286,7 +286,7 @@ export default function AggressiveRecoverySupportPage() {
             </section>
 
             <section id="nature-of-aggression" className="scroll-mt-32 mb-12">
-               <h2 className="text-3xl md:text-5xl font-black text-[#2E2E2E] mb-10 leading-tight uppercase tracking-tighter">The Psychology of Intimidation</h2>
+               <h3 className="text-3xl md:text-5xl font-black text-[#2E2E2E] mb-10 leading-tight uppercase tracking-tighter">The Psychology of Intimidation</h3>
                <p className="text-lg leading-relaxed mb-8">
                  Aggressive recovery is built on one simple principle: the cultivation of fear. Agents often work in high pressure boiler rooms where they are rewarded for the amount of stress they can induce in a borrower. They know that a terrified person is more likely to borrow from another predatory source to pay off the current debt, thereby entering a fatal debt trap.
                </p>
@@ -297,39 +297,39 @@ export default function AggressiveRecoverySupportPage() {
                  <div className="absolute bottom-0 right-0 opacity-5">
                    <svg className="w-64 h-64" fill="currentColor" viewBox="0 0 24 24"><path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm1 15h-2v-6h2v6zm0-8h-2V7h2v2z"/></svg>
                  </div>
-                 <h3 className="text-2xl font-bold mb-6 text-[#1F5EFF] uppercase tracking-wider">Expert Insight: Why Agents Cross the Line</h3>
+                 <h4 className="text-2xl font-bold mb-6 text-[#1F5EFF] uppercase tracking-wider">Expert Insight: Why Agents Cross the Line</h4>
                  <p className="mb-6 opacity-80 leading-relaxed">Most recovery agents are hired on a commission basis. Their livelihood depends on extracting money from you. This creates a conflict of interest where they are willing to violate the law to meet their targets. Banks and NBFCs often outsource this work to third party agencies to maintain 'plausible deniability' for the harassment.</p>
                  <p className="opacity-80 leading-relaxed">This is why you must deal with the bank directly through professional intermediaries like SettleLoans. We bypass the aggressive agents and speak directly to the bank's settlement officers, who are trained to look at the financial reality rather than using intimidation.</p>
                </div>
             </section>
 
             <section id="rbi-guidelines" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">RBI Guidelines 2025: Concrete Rules for Recovery</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">RBI Guidelines 2025: Concrete Rules for Recovery</h3>
               <p className="text-lg leading-relaxed mb-10">
                 The Reserve Bank of India has updated its Master Circular to include very specific protections for borrowers. These are not merely suggestions; they are mandatory for every bank and NBFC operating in India.
               </p>
               <div className="grid md:grid-cols-2 gap-8 mb-12">
                  <div className="p-8 bg-white border border-[#DEDEDE] rounded-3xl hover:bg-blue-50 transition-colors shadow-sm">
-                   <h3 className="text-xl font-black mb-4 uppercase text-[#1F5EFF]">Calling Timeframe</h3>
+                   <h4 className="text-xl font-black mb-4 uppercase text-[#1F5EFF]">Calling Timeframe</h4>
                    <p className="text-gray-600 leading-relaxed">Agents can only call between <span className="font-bold text-black">8:00 AM and 7:00 PM</span>. Any call received at 7:05 PM or 7:55 AM is a documented violation. SettleLoans helps you log these timestamps effectively for legal evidence.</p>
                  </div>
                  <div className="p-8 bg-white border border-[#DEDEDE] rounded-3xl hover:bg-blue-50 transition-colors shadow-sm">
-                   <h4 className="text-xl font-black mb-4 uppercase text-[#1F5EFF]">Privacy Boundaries</h4>
+                   <h5 className="text-xl font-black mb-4 uppercase text-[#1F5EFF]">Privacy Boundaries</h5>
                    <p className="text-gray-600 leading-relaxed">It is strictly prohibited to contact your family, friends, or coworkers about your debt. Your financial situation is a private contract between you and the lender. Shaming you in front of others is a civil offense.</p>
                  </div>
                  <div className="p-8 bg-white border border-[#DEDEDE] rounded-3xl hover:bg-blue-50 transition-colors shadow-sm">
-                   <h4 className="text-xl font-black mb-4 uppercase text-[#1F5EFF]">Identification</h4>
+                   <h5 className="text-xl font-black mb-4 uppercase text-[#1F5EFF]">Identification</h5>
                    <p className="text-gray-600 leading-relaxed">Upon request, the agent must provide their full name, the agency they work for, and their employee ID. If they visit you, they must carry a physical authorization letter from the lending institution.</p>
                  </div>
                  <div className="p-8 bg-white border border-[#DEDEDE] rounded-3xl hover:bg-blue-50 transition-colors shadow-sm">
-                   <h4 className="text-xl font-black mb-4 uppercase text-[#1F5EFF]">Zero Harassment</h4>
+                   <h5 className="text-xl font-black mb-4 uppercase text-[#1F5EFF]">Zero Harassment</h5>
                    <p className="text-gray-600 leading-relaxed">The use of physical force, verbal abuse, or persistent calling that disturbs the peace is forbidden. The RBI views 'harassment' broadly, including repeated calls that prevent a person from working or sleeping.</p>
                  </div>
               </div>
             </section>
 
             <section id="legal-rights" className="scroll-mt-32 mb-12">
-               <h2 className="text-3xl md:text-5xl font-black text-[#2E2E2E] mb-8 leading-tight tracking-tighter uppercase">Your Fundamental Legal Rights in India</h2>
+               <h3 className="text-3xl md:text-5xl font-black text-[#2E2E2E] mb-8 leading-tight tracking-tighter uppercase">Your Fundamental Legal Rights in India</h3>
                <p className="text-lg leading-relaxed mb-8">
                  In the Indian judicial system, the right to dignity is a part of Article 21 of the Constitution (Right to Life). This right does not vanish because you owe money. Amalegal Solutions works to ensure that these constitutional protections are applied to your specific debt situation.
                </p>
@@ -342,7 +342,7 @@ export default function AggressiveRecoverySupportPage() {
             </section>
 
             <section id="agent-tactics" className="scroll-mt-32 mb-12">
-               <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight uppercase tracking-tighter">De-coding the Common Agent Tactics</h2>
+               <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight uppercase tracking-tighter">De-coding the Common Agent Tactics</h3>
                <p className="text-lg leading-relaxed mb-8">
                  To avoid falling for their traps, you must recognize the scripts they use. Most agencies have a 'script book' that they use to escalate the pressure.
                </p>
@@ -350,21 +350,21 @@ export default function AggressiveRecoverySupportPage() {
                  <li className="flex gap-4">
                     <span className="text-red-500 text-2xl">●</span>
                     <div>
-                      <h3 className="font-bold text-xl mb-2">The 'Fake Advocate' Call</h3>
+                      <h4 className="font-bold text-xl mb-2">The 'Fake Advocate' Call</h4>
                       <p className="text-gray-600">A person calls claiming to be from the 'High Court' or a 'Special Legal Cell'. They use heavy legal jargon and threaten immediate warrants. Note: Warrants are issued by judges after a hearing, not by people on the phone. Amalegal Solutions can verify the authenticity of any such claim within minutes.</p>
                     </div>
                  </li>
                  <li className="flex gap-4">
                     <span className="text-red-500 text-2xl">●</span>
                     <div>
-                      <h4 className="font-bold text-xl mb-2">The 'Police Station' Visit</h4>
+                      <h5 className="font-bold text-xl mb-2">The 'Police Station' Visit</h5>
                       <p className="text-gray-600">Agents might tell you to meet them at the local police station to 'settle the matter'. This is a tactic to use the authority of the police to scare you. The police station is not a place for private debt settlement. You should only go if you have a formal summons, and even then, you should only go with your lawyer from Amalegal Solutions.</p>
                     </div>
                  </li>
                  <li className="flex gap-4">
                     <span className="text-red-500 text-2xl">●</span>
                     <div>
-                      <h4 className="font-bold text-xl mb-2">The 'Neighborhood Shout'</h4>
+                      <h5 className="font-bold text-xl mb-2">The 'Neighborhood Shout'</h5>
                       <p className="text-gray-600">Visiting your home and talking loudly so neighbors can hear. This is intentional character assassination. If this happens, do not shout back. Simply record the event on your phone. This recording will be used by our legal team to file a defamation and harassment suit against the lender.</p>
                     </div>
                  </li>
@@ -376,7 +376,7 @@ export default function AggressiveRecoverySupportPage() {
                  <div className="flex justify-center gap-1 mb-6">
                     {[1,2,3,4,5].map(i => <span key={i} className="text-yellow-400 text-2xl">★</span>)}
                  </div>
-                 <h4 className="text-2xl font-black mb-6 uppercase tracking-tight text-[#2E2E2E]">Highly Recommended Support</h4>
+                 <h5 className="text-2xl font-black mb-6 uppercase tracking-tight text-[#2E2E2E]">Highly Recommended Support</h5>
                  <p className="text-lg italic text-gray-600 mb-8 px-4">
                    "The recovery agents were calling my wife and my parents. I was terrified. But the moment I joined SettleLoans, they took over. They contacted the bank's nodal officer and within 48 hours, all harassment stopped. They then negotiated a settlement that saved me nearly 7 lakhs. I owe my life to this team."
                  </p>
@@ -384,7 +384,7 @@ export default function AggressiveRecoverySupportPage() {
              </div>
 
             <section id="whatsapp-shaming" className="scroll-mt-32 mb-12">
-               <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">Digital Harassment: Handling WhatsApp Shaming</h2>
+               <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">Digital Harassment: Handling WhatsApp Shaming</h3>
                <p className="text-lg leading-relaxed mb-8">
                  In the last two years, WhatsApp has become the primary tool for debt harassment. This is particularly prevalent with fintech apps. They might send messages to your entire contact list, create groups with your photo, or use abusive stickers. This is not just a violation of RBI rules; it is a crime under the Information Technology Act.
                </p>
@@ -392,7 +392,7 @@ export default function AggressiveRecoverySupportPage() {
                  If you face this, <span className="font-bold text-red-600 uppercase">Do Not Delete the Messages</span>. Use them as evidence. Block the numbers but keep the chat history. Amalegal Solutions can assist you in filing a complaint with the National Cyber Crime portal. We have successfully used these digital evidences to force lenders to waive entire loan amounts as a penalty for their illegal recovery conduct.
                </p>
                <div className="p-8 bg-black text-white rounded-3xl border border-[#1F5EFF]/30 flex flex-col items-center text-center">
-                  <h3 className="text-xl font-bold mb-4 uppercase text-[#1F5EFF]">Wait! Before You Block Them</h3>
+                  <h4 className="text-xl font-bold mb-4 uppercase text-[#1F5EFF]">Wait! Before You Block Them</h4>
                   <p className="text-sm opacity-70 mb-6">Take high quality screenshots showing the sender's phone number, the content of the message, and the time received. This is your digital evidence.</p>
                   <div className="w-full h-px bg-white/20 mb-6"></div>
                   <p className="font-medium">SettleLoans specializes in 'Cyber Shielding' for borrowers facing digital shaming.</p>
@@ -400,7 +400,7 @@ export default function AggressiveRecoverySupportPage() {
             </section>
 
             <section id="workplace-visits" className="scroll-mt-32 mb-12">
-               <h2 className="text-3xl md:text-5xl font-black text-[#2E2E2E] mb-8 leading-tight tracking-tighter uppercase">Protecting Your Career from Workplace Visits</h2>
+               <h3 className="text-3xl md:text-5xl font-black text-[#2E2E2E] mb-8 leading-tight tracking-tighter uppercase">Protecting Your Career from Workplace Visits</h3>
                <p className="text-lg leading-relaxed mb-8">
                  For a working professional, a visit by a recovery agent to the office is a nightmare. It can ruin a career built over decades. We understand the urgency of this situation.
                </p>
@@ -411,7 +411,7 @@ export default function AggressiveRecoverySupportPage() {
             </section>
 
             <section id="family-contacts" className="scroll-mt-32 mb-12">
-               <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight uppercase tracking-tighter">Your Family is Not a Negotiation Tool</h2>
+               <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight uppercase tracking-tighter">Your Family is Not a Negotiation Tool</h3>
                <p className="text-lg leading-relaxed mb-8">
                  Calling elderly parents or spouse is a cowardly tactic. The law does not allow it. We provide our clients with a 'Family Protection Kit'. This includes a pre written script that your family members can use to handle such calls. It simply states that they are not the borrower, they do not authorize any further calls, and any further attempt will be reported as harassment to the police.
                </p>
@@ -421,12 +421,12 @@ export default function AggressiveRecoverySupportPage() {
             </section>
 
              <section id="physical-harassment" className="scroll-mt-32 mb-12">
-               <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 uppercase tracking-tighter">Zero Tolerance for Physical Threats</h2>
+               <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 uppercase tracking-tighter">Zero Tolerance for Physical Threats</h3>
                <p className="mb-6 text-lg">
                  If an agent uses physical force or attempts to enter your home forcefully, this is a criminal situation. You have the right to self-defense and the right to immediate police protection.
                </p>
                <div className="bg-red-50 p-10 rounded-[40px] border-4 border-red-500/20 mb-12">
-                  <h3 className="text-2xl font-black text-red-800 mb-6 uppercase">Immediate Action Plan</h3>
+                  <h4 className="text-2xl font-black text-red-800 mb-6 uppercase">Immediate Action Plan</h4>
                   <ol className="space-y-4 text-red-900 leading-relaxed">
                     <li>1. <span className="font-bold">Check Your Security:</span> If you are at home, lock your doors and do not open them to strangers.</li>
                     <li>2. <span className="font-bold">Call 100/112:</span> Inform the local police that unidentified people are attempting to trespass.</li>
@@ -437,7 +437,7 @@ export default function AggressiveRecoverySupportPage() {
             </section>
 
             <section id="cyber-security" className="scroll-mt-32 mb-12">
-               <h2 className="text-3xl md:text-5xl font-black text-[#2E2E2E] mb-8 leading-tight tracking-tighter uppercase">Advanced Cyber Safety for Borrowers</h2>
+               <h3 className="text-3xl md:text-5xl font-black text-[#2E2E2E] mb-8 leading-tight tracking-tighter uppercase">Advanced Cyber Safety for Borrowers</h3>
                <p className="text-lg leading-relaxed mb-8">
                  Digital lending apps often gain access to your photo gallery and contacts list. This is a massive privacy risk. If you are using such apps, we recommend revocation of all permissions in your phone settings immediately.
                </p>
@@ -445,38 +445,38 @@ export default function AggressiveRecoverySupportPage() {
                  If you feel your personal photos are being used for blackmail, it is a non-bailable offense under the IT Act. Amalegal Solutions can assist in fast-tracking your case with the Cyber Crime Branch. We have an expert team that understands digital forensics and can help trace the source of these threats.
                </p>
                <div className="bg-gray-50 border border-[#DEDEDE] rounded-3xl p-8 mb-12">
-                  <h3 className="text-xl font-bold mb-4 uppercase text-[#2E2E2E]">Pro Tip: Use Your Privacy Settings</h3>
+                  <h4 className="text-xl font-bold mb-4 uppercase text-[#2E2E2E]">Pro Tip: Use Your Privacy Settings</h4>
                   <p className="text-gray-600 mb-4">Set your WhatsApp to 'Contacts Only' for your profile photo and status. This prevents unknown agents from using your personal photos to create fake groups.</p>
                </div>
             </section>
 
             <section id="evidence-gathering" className="scroll-mt-32 mb-12">
-               <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">Gathering Legal Evidence: The SettleLoans Protocol</h2>
+               <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">Gathering Legal Evidence: The SettleLoans Protocol</h3>
                <p className="text-lg leading-relaxed mb-8">
                  To build a strong case against a bank, you need a 'Log of Violation'. SettleLoans provides every client with an 'Evidence Vault' where they can store records of interactions.
                </p>
                <div className="grid sm:grid-cols-2 gap-6 mb-12">
                   <div className="p-6 bg-white border border-[#DEDEDE] rounded-3xl">
-                     <h3 className="font-bold mb-2 uppercase text-[#1F5EFF]">Call Recording</h3>
+                     <h4 className="font-bold mb-2 uppercase text-[#1F5EFF]">Call Recording</h4>
                      <p className="text-sm text-gray-500 leading-relaxed font-medium">Record every call. State clearly that the call is being recorded. This acts as a deterrent and as legal evidence.</p>
                   </div>
                   <div className="p-6 bg-white border border-[#DEDEDE] rounded-3xl">
-                     <h4 className="font-bold mb-2 uppercase text-[#1F5EFF]">Screenshot Log</h4>
+                     <h5 className="font-bold mb-2 uppercase text-[#1F5EFF]">Screenshot Log</h5>
                      <p className="text-sm text-gray-500 leading-relaxed font-medium">Capture WhatsApp messages, SMS, and emails. Ensure the sender's details are visible.</p>
                   </div>
                   <div className="p-6 bg-white border border-[#DEDEDE] rounded-3xl">
-                     <h5 className="font-bold mb-2 uppercase text-[#1F5EFF]">Witness List</h5>
+                     <h6 className="font-bold mb-2 uppercase text-[#1F5EFF]">Witness List</h6>
                      <p className="text-sm text-gray-500 leading-relaxed font-medium">Keep a note of anyone who witnessed harassment at your home or office. Their statement can be vital.</p>
                   </div>
                   <div className="p-6 bg-white border border-[#DEDEDE] rounded-3xl">
-                     <h5 className="font-bold mb-2 uppercase text-[#1F5EFF]">Medical Records</h5>
+                     <h6 className="font-bold mb-2 uppercase text-[#1F5EFF]">Medical Records</h6>
                      <p className="text-sm text-gray-500 leading-relaxed font-medium">If the stress of harassment leads to medical issues, keep the doctor's reports. This build the case for compensation.</p>
                   </div>
                </div>
             </section>
 
              <section id="grievance-redressal" className="scroll-mt-32 mb-12">
-               <h2 className="text-3xl md:text-5xl font-black text-[#2E2E2E] mb-8 leading-tight tracking-tighter uppercase">Official Grievance Redressal Mechanisms</h2>
+               <h3 className="text-3xl md:text-5xl font-black text-[#2E2E2E] mb-8 leading-tight tracking-tighter uppercase">Official Grievance Redressal Mechanisms</h3>
                <p className="text-lg leading-relaxed mb-8">
                  The financial system in India is heavily regulated. There is always a higher authority to complain to. We guide you through the hierarchy of complaints to ensure your voice is heard at the right level.
                </p>
@@ -484,13 +484,13 @@ export default function AggressiveRecoverySupportPage() {
                  The process starts with the bank's internal nodal officer. If that fails, we escalate to the Principal Nodal Officer (PNO). If the PNO fails to resolve the issue within 30 days, we move to the Banking Ombudsman. Most banks will try to settle the harassment claim at the PNO level itself to avoid the scrutiny of the RBI Ombudsman.
                </p>
                <div className="bg-[#1F5EFF] text-white p-10 rounded-[40px] mb-12 shadow-inner">
-                  <h3 className="text-2xl font-bold mb-6 uppercase tracking-wider">The 30-Day Rule</h3>
+                  <h4 className="text-2xl font-bold mb-6 uppercase tracking-wider">The 30-Day Rule</h4>
                   <p className="leading-relaxed opacity-90 mb-4 font-medium">You must give the bank 30 days to resolve your complaint before going to the Ombudsman. Our team at SettleLoans ensures that your initial complaint is so comprehensive that the bank is forced to take notice immediately.</p>
                </div>
             </section>
 
             <section id="banking-ombudsman" className="scroll-mt-32 mb-12">
-               <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight uppercase tracking-tighter">Leveraging the Banking Ombudsman for Results</h2>
+               <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight uppercase tracking-tighter">Leveraging the Banking Ombudsman for Results</h3>
                <p className="text-lg leading-relaxed mb-8">
                  The Banking Ombudsman is a powerful, quasi judicial authority. They can pass 'Awards' that the bank must follow. If we can prove systemic harassment, the Ombudsman can order the bank to stop all recovery, compensate you for mental agony, and in some cases, even waive the debt.
                </p>
@@ -498,14 +498,14 @@ export default function AggressiveRecoverySupportPage() {
             </section>
 
              <section id="police-complaints" className="scroll-mt-32 mb-12">
-               <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 uppercase tracking-tighter">When and How to Call the Police</h2>
+               <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 uppercase tracking-tighter">When and How to Call the Police</h3>
                <p className="mb-6 text-lg">
                  Police intervention is necessary when there is a threat to life or property. Do not be afraid of the police; they are there to protect the law. We assist in drafting clear, evidence backed police complaints that cannot be ignored.
                </p>
             </section>
 
              <section id="amalegal-solutions" className="scroll-mt-32 mb-12">
-               <h2 className="text-3xl md:text-5xl font-black text-[#2E2E2E] mb-8 leading-tight tracking-tighter uppercase">Amalegal Solutions: A Higher Standard of Legal Support</h2>
+               <h3 className="text-3xl md:text-5xl font-black text-[#2E2E2E] mb-8 leading-tight tracking-tighter uppercase">Amalegal Solutions: A Higher Standard of Legal Support</h3>
                <p className="text-lg leading-relaxed mb-8">
                  At Amalegal Solutions, we don't just 'advise'. we 'advocate'. Our legal team is led by veterans in the financial law domain. We understand the mindset of the bank's legal department because we deal with them every single day.
                </p>
@@ -513,7 +513,7 @@ export default function AggressiveRecoverySupportPage() {
             </section>
 
              <section id="settleloans-process" className="scroll-mt-32 mb-12">
-               <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight uppercase tracking-tighter">The SettleLoans Methodology: From Crisis to Completion</h2>
+               <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight uppercase tracking-tighter">The SettleLoans Methodology: From Crisis to Completion</h3>
                <p className="text-lg leading-relaxed mb-8">
                  While stopping harassment is the immediate priority, the ultimate solution is the <span className="font-bold underline">One-Time Settlement</span>. Our methodology is built on years of experience in the Indian debt market.
                </p>
@@ -521,21 +521,21 @@ export default function AggressiveRecoverySupportPage() {
                   <li className="flex gap-4">
                      <span className="w-10 h-10 bg-black text-white rounded-full flex items-center justify-center shrink-0 font-bold">1</span>
                      <div>
-                       <h3 className="font-bold text-lg mb-2 uppercase">Financial Auditing</h3>
+                       <h4 className="font-bold text-lg mb-2 uppercase">Financial Auditing</h4>
                        <p className="text-gray-600">We audit your income, assets, and liabilities to build a 'Hardship Profile'. This is the document we present to the bank to justify why you cannot pay the full amount.</p>
                      </div>
                   </li>
                   <li className="flex gap-4">
                      <span className="w-10 h-10 bg-black text-white rounded-full flex items-center justify-center shrink-0 font-bold">2</span>
                      <div>
-                       <h4 className="font-bold text-lg mb-2 uppercase">Negotiation Windowing</h4>
+                       <h5 className="font-bold text-lg mb-2 uppercase">Negotiation Windowing</h5>
                        <p className="text-gray-600">We wait for the specific times during the financial year when banks are most aggressive in meeting their NPA reduction targets. This is when we get the best waivers.</p>
                      </div>
                   </li>
                   <li className="flex gap-4">
                      <span className="w-10 h-10 bg-black text-white rounded-full flex items-center justify-center shrink-0 font-bold">3</span>
                      <div>
-                       <h4 className="font-bold text-lg mb-2 uppercase">Settlement Validation</h4>
+                       <h5 className="font-bold text-lg mb-2 uppercase">Settlement Validation</h5>
                        <p className="text-gray-600">We never tell you to pay until we have a formal, authenticated settlement letter from the bank. We check the letter for any clauses that could leave you liable later.</p>
                      </div>
                   </li>
@@ -543,7 +543,7 @@ export default function AggressiveRecoverySupportPage() {
             </section>
 
             <section id="financial-impact" className="scroll-mt-32 mb-12">
-               <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight uppercase tracking-tighter">The Economic Reality of Debt Settlement</h2>
+               <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight uppercase tracking-tighter">The Economic Reality of Debt Settlement</h3>
                <p className="text-lg leading-relaxed mb-8">
                  Settling a debt is often the most rational financial decision during a crisis. It stops the compounding interest and the mounting penalties. From a purely mathematical perspective, paying 5 lakhs to close a 12 lakh debt is a net gain of 7 lakhs. This capital can be used to rebuild your business or secure your family's future.
                </p>
@@ -551,18 +551,18 @@ export default function AggressiveRecoverySupportPage() {
             </section>
 
              <section id="mental-health" className="scroll-mt-32 mb-12">
-               <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 uppercase tracking-tighter">The Importance of Mental Wellbeing</h2>
+               <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 uppercase tracking-tighter">The Importance of Mental Wellbeing</h3>
                <p className="mb-6 text-xl font-medium">
                  Debt stress can kill. We have seen the darkest side of this crisis. If you feel suicidal or completely hopeless, please talk to someone. Our team at SettleLoans is trained to be empathetic. We are not just your consultants; we are your supporters.
                </p>
                <div className="bg-emerald-500 text-white p-10 rounded-[40px] mb-12 shadow-2xl transition-transform hover:scale-[1.02]">
-                  <h3 className="text-2xl font-black mb-6 uppercase">A Message of Hope</h3>
+                  <h4 className="text-2xl font-black mb-6 uppercase">A Message of Hope</h4>
                   <p className="text-lg leading-relaxed opacity-95">Every financial problem has a professional solution. No amount of debt is worth your life. We have seen people in crores of debt come out the other side smiling. You will also get there. Just take the first step and let us handle the burden for you.</p>
                </div>
             </section>
 
             <section id="success-stories" className="scroll-mt-32 mb-12">
-               <h2 className="text-3xl md:text-5xl font-black text-[#2E2E2E] mt-16 mb-12 text-center uppercase tracking-tighter">Living Proof of Financial Freedom</h2>
+               <h3 className="text-3xl md:text-5xl font-black text-[#2E2E2E] mt-16 mb-12 text-center uppercase tracking-tighter">Living Proof of Financial Freedom</h3>
                <div className="grid md:grid-cols-2 gap-8 not-prose">
                  {[
                    {
@@ -600,7 +600,7 @@ export default function AggressiveRecoverySupportPage() {
                          {review.name.charAt(0)}
                        </div>
                        <div>
-                         <h3 className="font-bold text-xl text-[#2E2E2E] uppercase tracking-tight">{review.name}</h3>
+                         <h4 className="font-bold text-xl text-[#2E2E2E] uppercase tracking-tight">{review.name}</h4>
                          <p className="text-sm text-gray-400 font-medium">{review.loc}</p>
                        </div>
                        <div className="ml-auto text-yellow-400 text-lg">★★★★★</div>
@@ -631,7 +631,7 @@ export default function AggressiveRecoverySupportPage() {
                    </p>
 
                    <section id="regional-variations" className="scroll-mt-32 mt-24">
-                      <h2 className="text-3xl md:text-5xl font-black text-[#2E2E2E] mb-10 leading-tight uppercase tracking-tighter">Regional Variations in Recovery Practices Across India</h2>
+                      <h3 className="text-3xl md:text-5xl font-black text-[#2E2E2E] mb-10 leading-tight uppercase tracking-tighter">Regional Variations in Recovery Practices Across India</h3>
                       <p className="text-lg leading-relaxed mb-8">
                         The nature of debt recovery in India varies significantly from state to state, influenced by local regulations, social norms, and the presence of organized recovery agencies. In metropolitan hubs like Mumbai, Delhi, and Bangalore, recovery is often handled by large, professionalized agencies that operate out of call centers. In these regions, the primary form of aggression is digital and persistent calling.
                       </p>
@@ -639,15 +639,15 @@ export default function AggressiveRecoverySupportPage() {
                         However, in Tier 2 and Tier 3 cities, recovery often takes a more physical and localized form. Agents may be local individuals who have personal knowledge of the neighborhood. This can lead to a higher incidence of social shaming and direct home visits. At SettleLoans, we have localized expertise that allows us to handle both high-tech metropolitan harassment and the more traditional, physical forms of intimidation found in smaller towns.
                       </p>
                       <div className="bg-gray-100 p-10 rounded-[40px] mb-12 border-l-8 border-l-black">
-                         <h3 className="text-xl font-bold mb-4 uppercase">The North India Scenario</h3>
+                         <h4 className="text-xl font-bold mb-4 uppercase">The North India Scenario</h4>
                          <p className="mb-6 opacity-70">In states like Punjab, Haryana, and Uttar Pradesh, the threat of legal action and police involvement is more commonly used by agents to coerce payment. Borrowers are often threatened with 'Section 138' (Cheque Bounce) cases, even if no cheque has actually bounced. Amalegal Solutions has a strong presence in these regions and can provide immediate legal counters to these hollow threats.</p>
-                         <h4 className="text-xl font-bold mb-4 uppercase">The South India Scenario</h4>
+                         <h5 className="text-xl font-bold mb-4 uppercase">The South India Scenario</h5>
                          <p className="opacity-70">In states like Tamil Nadu and Karnataka, there is a higher reliance on 'Social Peer Pressure'. Agents might visit the local community leaders or attempt to discredit the borrower in their social circle. We use a combination of privacy laws and community advocacy to shut down these unethical routes.</p>
                       </div>
                    </section>
 
                    <section id="nbfc-roles" className="scroll-mt-32 mt-24">
-                      <h2 className="text-3xl md:text-5xl font-black text-[#2E2E2E] mb-10 leading-tight uppercase tracking-tighter">The Rising Role of NBFCs and Fintech in Aggressive Debt Collection</h2>
+                      <h3 className="text-3xl md:text-5xl font-black text-[#2E2E2E] mb-10 leading-tight uppercase tracking-tighter">The Rising Role of NBFCs and Fintech in Aggressive Debt Collection</h3>
                       <p className="text-lg leading-relaxed mb-8">
                         Non-Banking Financial Companies (NBFCs) and Fintech apps have revolutionized credit in India, but they have also been at the center of the controversy regarding aggressive collection. Unlike traditional banks, many young fintech companies do not have established grievance redressal frameworks. They often rely on aggressive AI driven calling bots and unscrupulous third party agencies to recover small ticket loans.
                       </p>
@@ -658,7 +658,7 @@ export default function AggressiveRecoverySupportPage() {
                          <div className="absolute top-0 right-0 p-8">
                            <svg className="w-16 h-16 opacity-20" fill="currentColor" viewBox="0 0 24 24"><path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm0 18c-4.41 0-8-3.59-8-8s3.59-8 8-8 8 3.59 8 8-3.59 8-8 8z"/><path d="M11 7h2v6h-2zm0 8h2v2h-2z"/></svg>
                          </div>
-                         <h3 className="text-3xl font-black mb-8 uppercase tracking-widest italic">A Final Word on Resilience</h3>
+                         <h4 className="text-3xl font-black mb-8 uppercase tracking-widest italic">A Final Word on Resilience</h4>
                          <p className="text-xl leading-relaxed opacity-90 mb-8 font-medium">Being in debt is a financial condition, not a personality flaw. The history of the world's most successful entrepreneurs is paved with failures and debt crises that were eventually resolved. What sets the survivors apart is their willingness to ask for professional help when the storm becomes too fierce.</p>
                          <p className="text-xl leading-relaxed opacity-90 font-bold italic">At SettleLoans and Amalegal Solutions, we believe in your resilience. We believe in your right to a second chance. And most importantly, we believe that no one should ever have to live in fear because of a debt.</p>
                       </div>
@@ -667,7 +667,7 @@ export default function AggressiveRecoverySupportPage() {
              </section>
 
             <section id="faqs" className="scroll-mt-32 mb-12 border-t-8 border-t-[#1F5EFF] pt-16">
-              <h2 className="text-3xl md:text-5xl font-black text-[#2E2E2E] mb-12 uppercase tracking-tighter">Frequently Asked Questions</h2>
+              <h3 className="text-3xl md:text-5xl font-black text-[#2E2E2E] mb-12 uppercase tracking-tighter">Frequently Asked Questions</h3>
               <div className="space-y-6 not-prose">
                 {[
                   { q: "What should I do if an agent calls me at 11:30 PM?", a: "This is a direct violation of RBI guidelines (calling hours are 8 AM to 7 PM). Record the call, take a screenshot of the call log, and immediately file a complaint with the bank's nodal officer. SettleLoans can help you draft this complaint to ensure it get immediate attention." },
@@ -708,7 +708,7 @@ export default function AggressiveRecoverySupportPage() {
             <div className="lg:hidden mt-16 mb-8">
               <div className="bg-[#2E2E2E] rounded-[40px] shadow-2xl overflow-hidden border border-[#1F5EFF]/20">
                 <div className="bg-[#1F5EFF] p-10 text-center text-white">
-                  <h3 className="text-3xl font-black mb-4 uppercase tracking-tighter">Stop the Harassment</h3>
+                  <h4 className="text-3xl font-black mb-4 uppercase tracking-tighter">Stop the Harassment</h4>
                   <p className="opacity-90 text-lg">Join 10,000+ others who reached financial freedom.</p>
                 </div>
                 <div className="p-10 text-center text-[#DEDEDE]">
@@ -770,7 +770,7 @@ export default function AggressiveRecoverySupportPage() {
                 <svg className="w-full h-full" viewBox="0 0 100 100" preserveAspectRatio="none"><path d="M0 100 L100 0 L100 100 Z" fill="#1F5EFF"/></svg>
             </div>
             <div className="max-w-6xl mx-auto text-center relative z-10">
-                <h2 className="text-4xl md:text-7xl font-black text-white mb-10 uppercase tracking-tighter leading-[1] italic">You have suffered enough. <br/> Let us take from here.</h2>
+                <h3 className="text-4xl md:text-7xl font-black text-white mb-10 uppercase tracking-tighter leading-[1] italic">You have suffered enough. <br/> Let us take from here.</h3>
                 <p className="text-xl md:text-3xl text-white/80 mb-14 max-w-4xl mx-auto font-medium leading-relaxed">Join the thousands of Indians who have reclaimed their dignity and financial freedom with SettleLoans and Amalegal Solutions. Your second chance starts with a single click.</p>
                 <Link href="/contact" className="inline-flex items-center justify-center bg-[#1F5EFF] text-white font-black py-6 px-16 rounded-[20px] hover:scale-110 transition-all duration-500 text-2xl shadow-[0_20px_50px_rgba(31,94,255,0.4)] uppercase tracking-widest">
                    Get Your Life Back Now

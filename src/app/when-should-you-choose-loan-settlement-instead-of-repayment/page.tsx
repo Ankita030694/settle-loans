@@ -263,18 +263,18 @@ export default function WhenToChooseSettlementPage() {
                         </section>
 
                         <section id="definitions" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">Repayment vs Settlement: A Clear Distinction</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">Repayment vs Settlement: A Clear Distinction</h3>
                             <p className="mb-6 leading-relaxed">
                                 Before we dive into the 'When', let us be crystal clear about the 'What'.
                             </p>
                             <div className="grid md:grid-cols-2 gap-8 my-10">
                                 <div className="p-8 bg-blue-50 rounded-2xl border border-blue-100 shadow-sm transition-all hover:shadow-md">
-                                    <h3 className="text-xl font-bold mb-4 text-blue-800">Loan Repayment (Closure)</h3>
+                                    <h4 className="text-xl font-bold mb-4 text-blue-800">Loan Repayment (Closure)</h4>
                                     <p className="text-sm leading-relaxed mb-4">You pay 100% of the principal, 100% of the interest, and 100% of any penalties. The loan is marked 'Closed' on your credit report. Your credit score remains safe or even improves.</p>
                                     <div className="text-xs font-bold text-blue-600">IDEAL FOR: Future Borrowers, Home Seeker, Prime Customers.</div>
                                 </div>
                                 <div className="p-8 bg-orange-50 rounded-2xl border border-orange-100 shadow-sm transition-all hover:shadow-md">
-                                    <h3 className="text-xl font-bold mb-4 text-orange-800">Loan Settlement (Compromise)</h3>
+                                    <h4 className="text-xl font-bold mb-4 text-orange-800">Loan Settlement (Compromise)</h4>
                                     <p className="text-sm leading-relaxed mb-4">You pay a reduced percentage (usually 30% to 60%) of the total outstanding. The bank 'waives' the rest and reports the account as 'Settled'. Your credit score drops, and you face a cool-off period for new loans.</p>
                                     <div className="text-xs font-bold text-orange-600">IDEAL FOR: Distressed Borrowers, Medical Emergencies, Unemployed Individuals.</div>
                                 </div>
@@ -282,12 +282,12 @@ export default function WhenToChooseSettlementPage() {
                         </section>
 
                         <section id="when-to-repay" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">Why Full Repayment is Still the King</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">Why Full Repayment is Still the King</h3>
                             <p className="mb-6 leading-relaxed">
                                 Let us be brutally honest: If you have the capacity to pay, you should always choose full repayment. Settlement is a 'Distress Service'. It is for people who have no other choice. If you can sell an unused asset, take a side job, or restructure your spending to pay back the loan, do it.
                             </p>
                             <div className="bg-[#F1F3F5] p-8 rounded-2xl mb-8">
-                                <h3 className="font-bold mb-4">Choose Repayment If:</h3>
+                                <h4 className="font-bold mb-4">Choose Repayment If:</h4>
                                 <ul className="space-y-4">
                                     <li className="flex items-center gap-3">
                                         <div className="w-2 h-2 bg-green-500 rounded-full"></div>
@@ -310,12 +310,12 @@ export default function WhenToChooseSettlementPage() {
                         </section>
 
                         <section id="when-to-settle" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">The Case for Settlement: When Survival Comes First</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">The Case for Settlement: When Survival Comes First</h3>
                             <p className="mb-6 leading-relaxed">
                                 There are times when 'Protecting Your CIBIL' is synonymous with 'Financial Suicide'. If you are taking a new loan to pay an old loan, you are in a death spiral. Eventually, the new loans will stop, and you will be left with 10x the original debt. This is when settlement becomes not just an option, but a necessity.
                             </p>
                             <div className="p-8 bg-black text-white rounded-3xl mb-8">
-                                <h3 className="text-xl font-bold mb-4 text-[#1F5EFF]">The Red Line: When to Stop Repaying and Start Settling</h3>
+                                <h4 className="text-xl font-bold mb-4 text-[#1F5EFF]">The Red Line: When to Stop Repaying and Start Settling</h4>
                                 <p className="mb-6 opacity-80 italic">We recommend settlement when you meet at least three of the following criteria:</p>
                                 <ul className="space-y-4 opacity-90">
                                     <li>✓ <strong>Income to EMI Ratio:</strong> Your EMIs consume more than 70% of your take-home pay.</li>
@@ -328,24 +328,24 @@ export default function WhenToChooseSettlementPage() {
                         </section>
 
                         <section id="decision-criteria" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">Critical Decision Criteria: The SettleLoans Framework</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">Critical Decision Criteria: The SettleLoans Framework</h3>
                             <p className="mb-6 leading-relaxed text-lg">
                                 How do we help our clients decide? We look at the 'Debt-to-Destiny' ratio. We ask where you want to be in 5 years. If your current debt prevents you from even thinking about next week, we need to clear the slate.
                             </p>
                             <div className="space-y-8 my-10">
                                 <div className="border border-[#DEDEDE] p-8 rounded-2xl">
-                                    <h3 className="font-bold text-xl mb-4">1. The Vintage of the Debt</h3>
+                                    <h4 className="font-bold text-xl mb-4">1. The Vintage of the Debt</h4>
                                     <p className="text-sm leading-relaxed">If you just took a loan last month, a bank will never settle. They will see you as a fraudster. However, if the debt is 2-3 years old and you have already paid back a significant chunk of the principal in interest, the bank is much more likely to agree to a compromise. We look for 'Mature' debt for settlements.</p>
                                 </div>
                                 <div className="border border-[#DEDEDE] p-8 rounded-2xl">
-                                    <h3 className="font-bold text-xl mb-4">2. The Type of Lender</h3>
+                                    <h4 className="font-bold text-xl mb-4">2. The Type of Lender</h4>
                                     <p className="text-sm leading-relaxed">Public sector banks (like SBI) have very rigid settlement processes. Private banks (like HDFC or ICICI) are more profit-oriented and will settle if they see it's better than getting zero. NBFCs and digital apps are the most aggressive but also the most willing to settle quickly to clear their books.</p>
                                 </div>
                             </div>
                         </section>
 
                         <section id="financial-comparison" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">Financial Impact Analysis: Comparing the True Cost</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">Financial Impact Analysis: Comparing the True Cost</h3>
                             <p className="mb-6 leading-relaxed">
                                 Let's look at the numbers. Imagine a ₹5,00,000 personal loan that you can no longer afford.
                             </p>
@@ -386,7 +386,7 @@ export default function WhenToChooseSettlementPage() {
                         </section>
 
                         <section id="rbi-view" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">RBI's Stance on Settlement: It's Your Right</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">RBI's Stance on Settlement: It's Your Right</h3>
                             <p className="mb-6 leading-relaxed">
                                 Many borrowers feel like 'criminals' when thinking about settlement. We want to banish that thought. The Reserve Bank of India (RBI) explicitly allows 'Compromise Settlements' as a tool for banks to manage their NPAs. The RBI recognizes that in a dynamic economy, honest borrowers can face business losses or medical crises.
                             </p>
@@ -396,7 +396,7 @@ export default function WhenToChooseSettlementPage() {
                         </section>
 
                         <section id="psychological-impact" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">The Emotional Cost: Peace vs Pride</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">The Emotional Cost: Peace vs Pride</h3>
                             <p className="mb-6 leading-relaxed">
                                 Most people avoid settlement because of 'Pride'. They feel they are breaking a promise. But what about the promise you made to your family to keep them safe and fed? What about the promise you made to yourself to live a life of dignity?
                             </p>
@@ -406,7 +406,7 @@ export default function WhenToChooseSettlementPage() {
                         </section>
 
                         <section id="professional-negotiation" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">Why Expert Negotiation Changes the Math</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">Why Expert Negotiation Changes the Math</h3>
                             <p className="mb-6 leading-relaxed">
                                 When an individual approaches a bank for settlement, the bank often dictates terms. They use fear to make you pay more than you should. When 'SettleLoans' steps in, we change the power dynamic.
                             </p>
@@ -419,7 +419,7 @@ export default function WhenToChooseSettlementPage() {
                                     </ul>
                                 </div>
                                 <div className="bg-blue-600 p-8 rounded-3xl text-white">
-                                    <h3 className="font-bold mb-2">Our Success Rate</h3>
+                                    <h4 className="font-bold mb-2">Our Success Rate</h4>
                                     <div className="text-5xl font-black mb-2">94%</div>
                                     <p className="text-xs opacity-80">of our clients achieve a legal settlement within 6 to 9 months of joining our program.</p>
                                 </div>
@@ -427,7 +427,7 @@ export default function WhenToChooseSettlementPage() {
                         </section>
 
                         <section id="exit-strategy" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">Creating Your Exit Plan: Step-by-Step</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">Creating Your Exit Plan: Step-by-Step</h3>
                             <p className="mb-6 leading-relaxed">
                                 If you've decided that settlement is your best path, here is how you proceed without making mistakes.
                             </p>
@@ -435,28 +435,28 @@ export default function WhenToChooseSettlementPage() {
                                 <div className="flex gap-4">
                                     <div className="flex-shrink-0 w-12 h-12 bg-gray-100 rounded-full flex items-center justify-center font-black">01</div>
                                     <div>
-                                        <h3 className="font-bold">Audit Your Debt</h3>
+                                        <h4 className="font-bold">Audit Your Debt</h4>
                                         <p className="text-sm text-gray-600">List every loan, interest rate, and total outstanding. Identify which ones are most 'settleable'.</p>
                                     </div>
                                 </div>
                                 <div className="flex gap-4">
                                     <div className="flex-shrink-0 w-12 h-12 bg-gray-100 rounded-full flex items-center justify-center font-black">02</div>
                                     <div>
-                                        <h4 className="font-bold">Build a Settlement Reserve</h4>
+                                        <h5 className="font-bold">Build a Settlement Reserve</h5>
                                         <p className="text-sm text-gray-600">Stop paying partial EMIs (which only go toward interest) and start saving that cash for a lump sum settlement offer.</p>
                                     </div>
                                 </div>
                                 <div className="flex gap-4">
                                     <div className="flex-shrink-0 w-12 h-12 bg-gray-100 rounded-full flex items-center justify-center font-black">03</div>
                                     <div>
-                                        <h4 className="font-bold">Engage Professional Help</h4>
+                                        <h5 className="font-bold">Engage Professional Help</h5>
                                         <p className="text-sm text-gray-600">Contact SettleLoans to begin the formal legal process and shield yourself from recovery agents.</p>
                                     </div>
                                 </div>
                                 <div className="flex gap-4">
                                     <div className="flex-shrink-0 w-12 h-12 bg-gray-100 rounded-full flex items-center justify-center font-black">04</div>
                                     <div>
-                                        <h4 className="font-bold">Verify the NDC</h4>
+                                        <h5 className="font-bold">Verify the NDC</h5>
                                         <p className="text-sm text-gray-600">Never pay until you see a formal settlement letter. Ensure you get a 'No Dues Certificate' after payment.</p>
                                     </div>
                                 </div>
@@ -464,7 +464,7 @@ export default function WhenToChooseSettlementPage() {
                         </section>
 
                         <section id="success-stories" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 text-center uppercase tracking-tight">Real Stories of Freedom</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 text-center uppercase tracking-tight">Real Stories of Freedom</h3>
                             <div className="grid md:grid-cols-2 gap-6 pb-2">
                                 {[
                                     {
@@ -498,7 +498,7 @@ export default function WhenToChooseSettlementPage() {
                                                 {review.name.charAt(0)}
                                             </div>
                                             <div>
-                                                <h3 className="font-bold text-[#2E2E2E]">{review.name}</h3>
+                                                <h4 className="font-bold text-[#2E2E2E]">{review.name}</h4>
                                                 <p className="text-xs text-gray-400">{review.loc}</p>
                                             </div>
                                             <div className="ml-auto text-yellow-400 text-sm">★★★★★</div>
@@ -512,53 +512,53 @@ export default function WhenToChooseSettlementPage() {
                             </div>
                         </section>
                         <section id="faqs" className="scroll-mt-32 mb-12 border-t border-[#DEDEDE] pt-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight uppercase">Frequently Asked Questions</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight uppercase">Frequently Asked Questions</h3>
                             <div className="space-y-6">
                                 <div className="p-6 bg-white border border-[#DEDEDE] rounded-xl shadow-sm">
-                                    <h3 className="font-bold text-[#1F5EFF] mb-2 text-lg">1. Is loan settlement better than repayment?</h3>
+                                    <h4 className="font-bold text-[#1F5EFF] mb-2 text-lg">1. Is loan settlement better than repayment?</h4>
                                     <p className="text-sm leading-relaxed text-gray-700">Repayment is always better for your long-term credit health. Settlement is better for your immediate financial survival if you are in deep distress. If you can afford to pay, always choose repayment.</p>
                                 </div>
                                 <div className="p-6 bg-white border border-[#DEDEDE] rounded-xl shadow-sm">
-                                    <h3 className="font-bold text-[#1F5EFF] mb-2 text-lg">2. When does a bank offer a settlement?</h3>
+                                    <h4 className="font-bold text-[#1F5EFF] mb-2 text-lg">2. When does a bank offer a settlement?</h4>
                                     <p className="text-sm leading-relaxed text-gray-700">Banks typically offer a settlement after your loan has been in default for 90 to 180 days. Once the account moves from 'Standard' to 'NPA', the bank's recovery department becomes much more open to compromise deals.</p>
                                 </div>
                                 <div className="p-6 bg-white border border-[#DEDEDE] rounded-xl shadow-sm">
-                                    <h3 className="font-bold text-[#1F5EFF] mb-2 text-lg">3. Can I settle a loan without defaulting?</h3>
+                                    <h4 className="font-bold text-[#1F5EFF] mb-2 text-lg">3. Can I settle a loan without defaulting?</h4>
                                     <p className="text-sm leading-relaxed text-gray-700">No. If you are paying on time, the bank has no incentive to offer a settlement. You must be in a state of delinquency for them to consider a compromise.</p>
                                 </div>
                                 <div className="p-6 bg-white border border-[#DEDEDE] rounded-xl shadow-sm">
-                                    <h3 className="font-bold text-[#1F5EFF] mb-2 text-lg">4. What is the impact on future loans?</h3>
+                                    <h4 className="font-bold text-[#1F5EFF] mb-2 text-lg">4. What is the impact on future loans?</h4>
                                     <p className="text-sm leading-relaxed text-gray-700">A settlement will show as 'Settled' on your bureau for 7 years. Most big banks will reject you for the first 2-3 years. However, secured credit and NBFC loans remain accessible if you rebuild properly.</p>
                                 </div>
                                 <div className="p-6 bg-white border border-[#DEDEDE] rounded-xl shadow-sm">
-                                    <h3 className="font-bold text-[#1F5EFF] mb-2 text-lg">5. How much can I save in a settlement?</h3>
+                                    <h4 className="font-bold text-[#1F5EFF] mb-2 text-lg">5. How much can I save in a settlement?</h4>
                                     <p className="text-sm leading-relaxed text-gray-700">It depends on the bank and how long you've been in default. Typically, you can settle for 25% to 50% of the total outstanding amount if you have a skilled negotiator on your side.</p>
                                 </div>
                                 <div className="p-6 bg-white border border-[#DEDEDE] rounded-xl shadow-sm">
-                                    <h3 className="font-bold text-[#1F5EFF] mb-2 text-lg">6. Is it legal to settle a loan?</h3>
+                                    <h4 className="font-bold text-[#1F5EFF] mb-2 text-lg">6. Is it legal to settle a loan?</h4>
                                     <p className="text-sm leading-relaxed text-gray-700">Absolutely. It is a formal legal contract between you and the lender. It is a 'voluntary agreement' that clears you of all future legal liabilities once the settled amount is paid.</p>
                                 </div>
                                 <div className="p-6 bg-white border border-[#DEDEDE] rounded-xl shadow-sm">
-                                    <h3 className="font-bold text-[#1F5EFF] mb-2 text-lg">7. Should I settle if I have the money to pay?</h3>
+                                    <h4 className="font-bold text-[#1F5EFF] mb-2 text-lg">7. Should I settle if I have the money to pay?</h4>
                                     <p className="text-sm leading-relaxed text-gray-700">No. If you have the savings or a steady income, we strongly advise against settlement. The long-term damage to your creditworthiness is not worth the short-term cash saving if you don't 'need' it for survival.</p>
                                 </div>
                                 <div className="p-6 bg-white border border-[#DEDEDE] rounded-xl shadow-sm">
-                                    <h3 className="font-bold text-[#1F5EFF] mb-2 text-lg">8. Does a settlement stop recovery calls?</h3>
+                                    <h4 className="font-bold text-[#1F5EFF] mb-2 text-lg">8. Does a settlement stop recovery calls?</h4>
                                     <p className="text-sm leading-relaxed text-gray-700">Yes. The settlement agreement nullifies the original loan agreement. The bank must legally withdraw all collection efforts and and not bother you or your family members ever again.</p>
                                 </div>
                                 <div className="p-6 bg-white border border-[#DEDEDE] rounded-xl shadow-sm">
-                                    <h3 className="font-bold text-[#1F5EFF] mb-2 text-lg">9. Can I settle more than one loan?</h3>
+                                    <h4 className="font-bold text-[#1F5EFF] mb-2 text-lg">9. Can I settle more than one loan?</h4>
                                     <p className="text-sm leading-relaxed text-gray-700">Yes. If you have multiple loans from different banks, you can pursue settlements for all of them. This is often recommended if your total EMI burden is what's causing the distress, rather than just one loan.</p>
                                 </div>
                                 <div className="p-6 bg-white border border-[#DEDEDE] rounded-xl shadow-sm">
-                                    <h3 className="font-bold text-[#1F5EFF] mb-2 text-lg">10. Why use SettleLoans for this decision?</h3>
+                                    <h4 className="font-bold text-[#1F5EFF] mb-2 text-lg">10. Why use SettleLoans for this decision?</h4>
                                     <p className="text-sm leading-relaxed text-gray-700">We provide an expert analysis that is free from the 'emotions' of debt. We help you see the cold, hard numbers and then walk you through the legal execution of whichever path you choose.</p>
                                 </div>
                             </div>
                         </section>
 
                         <div className="mt-16 p-8 bg-[#2E2E2E] rounded-[30px] border border-[#DEDEDE] text-center text-white">
-                            <h3 className="text-2xl font-black mb-4 uppercase">Need an Expert Opinion?</h3>
+                            <h4 className="text-2xl font-black mb-4 uppercase">Need an Expert Opinion?</h4>
                             <p className="mb-8 opacity-70">Don't guess with your financial life. Let our experts analyze your debt and give you a definitive recommendation.</p>
                             <Link href="/contact" className="inline-block bg-[#1F5EFF] text-white font-bold py-4 px-12 rounded-xl hover:scale-105 transition-all shadow-lg">
                                 Get Your Free Debt Audit

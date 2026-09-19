@@ -293,7 +293,7 @@ export default function LoanSettlementCompaniesPage() {
                                 When a borrower defaults on a loan, the immediate aftermath is often characterized by intense pressure from banks and NBFCs. Recovery agents begin their calls, interest and penalties start piling up, and the threat of legal action looms large. In such a high-pressure environment, many borrowers feel hopeless and isolated. This is where loan settlement services come into play. A loan settlement, also known as a compromise settlement or One Time Settlement (OTS), is a process where the lender agrees to accept a portion of the total outstanding amount as a final payment to close the loan account.
                             </p>
                             <div className="bg-blue-50 p-8 rounded-2xl border-l-4 border-blue-500 mb-8">
-                                <h3 className="text-lg font-bold text-blue-900 mb-4">The Need for Clarity</h3>
+                                <h4 className="text-lg font-bold text-blue-900 mb-4">The Need for Clarity</h4>
                                 <p className="text-blue-800">
                                     While the concept of settlement is straightforward, the execution is anything but simple. Negotiating with a bank requires a deep understanding of banking policies, legal frameworks, and negotiation tactics. This is why professional loan settlement companies have become essential intermediaries in the Indian financial market.
                                 </p>
@@ -304,19 +304,19 @@ export default function LoanSettlementCompaniesPage() {
                         </section>
 
                         <section id="why-professional" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                                 Why Use a Professional Loan Settlement Service?
-                            </h2>
+                            </h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 One might wonder why a professional service is necessary for something that is essentially a negotiation. Why can't a borrower simply walk into a bank and ask for a discount? The reality is that banks are large, bureaucratic institutions with rigid policies. A single branch manager usually does not have the authority to grant a significant waiver on a defaulted loan. These decisions are made by specialized settlement committees or departments at the regional or head office level.
                             </p>
                             <div className="grid md:grid-cols-2 gap-6 mb-8">
                                 <div className="bg-white p-6 rounded-xl border border-gray-200 shadow-sm">
-                                    <h3 className="font-bold text-lg mb-3 text-gray-900">Knowledge of Floor Rates</h3>
+                                    <h4 className="font-bold text-lg mb-3 text-gray-900">Knowledge of Floor Rates</h4>
                                     <p className="text-gray-700 text-sm">Every bank has an internal limit on how much of a discount they can provide. A professional agency knows exactly what these limits are, preventing borrowers from accepting sub-optimal offers.</p>
                                 </div>
                                 <div className="bg-white p-6 rounded-xl border border-gray-200 shadow-sm">
-                                    <h4 className="font-bold text-lg mb-3 text-gray-900">The Legal Shield</h4>
+                                    <h5 className="font-bold text-lg mb-3 text-gray-900">The Legal Shield</h5>
                                     <p className="text-gray-700 text-sm">When you hire a professional, their legal team takes over all communication. They handle recovery calls and ensure the bank adheres to the RBI Fair Practices Code.</p>
                                 </div>
                             </div>
@@ -364,9 +364,9 @@ export default function LoanSettlementCompaniesPage() {
 
 
                         <section id="settlement-process" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                                 Typical Process for Setting a Personal Loan in India
-                            </h2>
+                            </h3>
                             <p className="text-lg leading-relaxed mb-10">
                                 The process of settling a personal loan is not an overnight event. It is a strategic journey that typically takes between three to six months. Understanding this timeline is essential for managing expectations.
                             </p>
@@ -396,33 +396,33 @@ export default function LoanSettlementCompaniesPage() {
                         </section>
 
                         <section id="legal-framework" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                                 The Legal Framework: Your Rights as a Borrower
-                            </h2>
+                            </h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 It is a common myth in India that default makes you a criminal. In reality, loan default is a civil matter. The Reserve Bank of India (RBI) has created a robust legal framework to ensure that borrowers are treated with dignity and fairness.
                             </p>
                             <div className="bg-[#2E2E2E] text-white p-10 rounded-3xl mb-12 shadow-2xl">
-                                <h3 className="text-2xl font-bold mb-6 text-[#1F5EFF]">The RBI Fair Practices Shield</h3>
+                                <h4 className="text-2xl font-bold mb-6 text-[#1F5EFF]">The RBI Fair Practices Shield</h4>
                                 <ul className="space-y-6">
                                     <li className="flex gap-4">
                                         <FontAwesomeIcon icon={faTriangleExclamation} className="text-[#1F5EFF] w-6 h-6 mt-1" />
                                         <div>
-                                            <h4 className="font-bold text-lg">No Harassment Allowed</h4>
+                                            <h5 className="font-bold text-lg">No Harassment Allowed</h5>
                                             <p className="text-gray-400 text-sm">RBI strictly prohibits harassment, intimidation, or persistent calling at odd hours (before 8 AM or after 7 PM).</p>
                                         </div>
                                     </li>
                                     <li className="flex gap-4">
                                         <FontAwesomeIcon icon={faCheck} className="text-green-500 w-6 h-6 mt-1" />
                                         <div>
-                                            <h5 className="font-bold text-lg">Compromise Settlement Policy</h5>
+                                            <h6 className="font-bold text-lg">Compromise Settlement Policy</h6>
                                             <p className="text-gray-400 text-sm">The June 2023 RBI circular mandates that all regulated entities must have a board-approved policy for settlements.</p>
                                         </div>
                                     </li>
                                     <li className="flex gap-4">
                                         <FontAwesomeIcon icon={faStar} className="text-yellow-500 w-6 h-6 mt-1" />
                                         <div>
-                                            <h5 className="font-bold text-lg">Banking Ombudsman</h5>
+                                            <h6 className="font-bold text-lg">Banking Ombudsman</h6>
                                             <p className="text-gray-400 text-sm">If your rights are violated, you have the right to file a complaint with the Banking Ombudsman for immediate redressal.</p>
                                         </div>
                                     </li>
@@ -434,19 +434,19 @@ export default function LoanSettlementCompaniesPage() {
                         </section>
 
                         <section id="choosing-agency" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                                 How to Choose the Right Loan Settlement Agency
-                            </h2>
+                            </h3>
                             <p className="text-lg leading-relaxed mb-8">
                                 With the growing demand for debt relief, many new players have entered the market. However, not all are equally competent or ethical.
                             </p>
                             <div className="grid sm:grid-cols-2 gap-6 mb-8">
                                 <div className="p-8 bg-gray-50 border border-gray-100 rounded-3xl">
-                                    <h3 className="font-bold text-xl mb-4">Look for Transparency</h3>
+                                    <h4 className="font-bold text-xl mb-4">Look for Transparency</h4>
                                     <p className="text-gray-600 leading-relaxed text-sm">Reputable firms provide clear fee structures and don't demand massive upfront payments. They work on a performance basis.</p>
                                 </div>
                                 <div className="p-8 bg-gray-50 border border-gray-100 rounded-3xl">
-                                    <h4 className="font-bold text-xl mb-4">Validate Legal Muscle</h4>
+                                    <h5 className="font-bold text-xl mb-4">Validate Legal Muscle</h5>
                                     <p className="text-gray-600 leading-relaxed text-sm">Does the agency have a proven team of advocates? Legal expertise is non-negotiable when dealing with bank notices.</p>
                                 </div>
                             </div>
@@ -456,9 +456,9 @@ export default function LoanSettlementCompaniesPage() {
                         </section>
 
                         <section id="technology-role" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                                 The Role of Technology in Modern Debt Settlement
-                            </h2>
+                            </h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 In the past, debt settlement was a manual, opaque process. A borrower would have to physically visit bank branches and hope to meet the right officer. Fintech-focused agencies like SettleLoans have revolutionized this space. By analyzing thousands of historical cases, they can predict the likely "floor" with high accuracy.
                             </p>
@@ -470,82 +470,82 @@ export default function LoanSettlementCompaniesPage() {
                         </section>
 
                         <section id="bank-strategies" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                                 Bank-Specific Negotiation Strategies
-                            </h2>
+                            </h3>
                             <p className="text-lg leading-relaxed mb-8">
                                 Every financial institution in India has its own internal playbook. Understanding these nuances is key.
                             </p>
                             <div className="space-y-4">
                                 <div className="p-6 bg-white border border-gray-100 rounded-2xl shadow-sm">
-                                    <h3 className="font-bold text-gray-900 mb-2">Public Sector (PSU) Banks</h3>
+                                    <h4 className="font-bold text-gray-900 mb-2">Public Sector (PSU) Banks</h4>
                                     <p className="text-sm text-gray-600">Very structured schemes. Focused on principal recovery. Slow approval process but high predictability.</p>
                                 </div>
                                 <div className="p-6 bg-white border border-gray-100 rounded-2xl shadow-sm">
-                                    <h4 className="font-bold text-gray-900 mb-2">Private Sector Giants</h4>
+                                    <h5 className="font-bold text-gray-900 mb-2">Private Sector Giants</h5>
                                     <p className="text-sm text-gray-600">Driven by quarterly targets (March/September). Dynamic base rates. Faster resolutions if timed correctly.</p>
                                 </div>
                                 <div className="p-6 bg-white border border-gray-100 rounded-2xl shadow-sm">
-                                    <h5 className="font-bold text-gray-900 mb-2">Digital Lending Apps</h5>
+                                    <h6 className="font-bold text-gray-900 mb-2">Digital Lending Apps</h6>
                                     <p className="text-sm text-gray-600">Higher aggression. Require strong legal hands to ensure bureau reporting is actually updated correctly.</p>
                                 </div>
                             </div>
                         </section>
 
                         <section id="psychology" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                                 The Emotional and Psychological Toll of Debt
-                            </h2>
+                            </h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 Debt isn't just a financial burden; it's a mental one. The chronic stress of defaults affects health, relationships, and careers. A professional agency acts as an "Emotional Buffer," taking over the 'battle' so you can focus on your professional life.
                             </p>
                         </section>
 
                         <section id="global-comparison" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                                 Global Market Comparison: India vs the West
-                            </h2>
+                            </h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 In the US, debt settlement is highly regulated with bankruptcy routes (Chapter 7/13). India relies more on "Contractual and Policy-driven" processes. This makes the skill of your chosen negotiator even more critical in the Indian context than in a court-supervised Western system.
                             </p>
                         </section>
 
                         <section id="case-study" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                                 Real-Life Success Case: The Power of Strategy
-                            </h2>
+                            </h3>
                             <p className="text-lg leading-relaxed mb-8">
                                 Mr. Animesh, a software engineer, faced 15 lakhs in debt after a layoff. Within 5 months of onboarding, his debts were settled for 6 lakhs total (60% waiver). This case demonstrates that with the right legal and strategic support, even massive debt hurdles are surmountable.
                             </p>
                         </section>
 
                         <section id="myths" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                                 Critical Industry Myths and Realities
-                            </h2>
+                            </h3>
                             <div className="grid md:grid-cols-2 gap-4">
                                 <div className="p-6 rounded-2xl bg-red-50 border border-red-100">
-                                    <h3 className="font-bold text-red-900 mb-2">Myth: Settlement is Illegal</h3>
+                                    <h4 className="font-bold text-red-900 mb-2">Myth: Settlement is Illegal</h4>
                                     <p className="text-xs text-red-800">Reality: It is a standard, board-approved banking practice used globally to manage bad debts.</p>
                                 </div>
                                 <div className="p-6 rounded-2xl bg-red-50 border border-red-100">
-                                    <h4 className="font-bold text-red-900 mb-2">Myth: You Can Settle Instantly</h4>
+                                    <h5 className="font-bold text-red-900 mb-2">Myth: You Can Settle Instantly</h5>
                                     <p className="text-xs text-red-800">Reality: Banks need the NPA classification to have the incentive to offer deep discounts.</p>
                                 </div>
                             </div>
                         </section>
 
                         <section id="future" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                                 The Future of Debt Resolution in India
-                            </h2>
+                            </h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 We expect the industry to move toward institutionalization, AI-driven prediction models, and tighter regulatory oversight, making debt relief safer and more effective for every Indian borrower.
                             </p>
                         </section>
 
                         <section id="faqs" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-bold text-[var(--color-primary)] mt-16 mb-8">Expert Industry FAQs</h2>
+                            <h3 className="text-3xl md:text-4xl font-bold text-[var(--color-primary)] mt-16 mb-8">Expert Industry FAQs</h3>
                             <div className="space-y-4 not-prose">
                                 {[
                                     { q: "Can any loan be settled in India?", a: "Most unsecured loans like personal loans, credit card debts, and business loans can be settled. Secured loans are generally not eligible." },
@@ -584,7 +584,7 @@ export default function LoanSettlementCompaniesPage() {
                         <section className="bg-[#1F5EFF] rounded-[10px] p-8 md:p-12 text-center text-white relative overflow-hidden shadow-2xl">
                             <div className="absolute top-0 right-0 w-64 h-64 bg-white/10 rounded-full -mr-32 -mt-32"></div>
                             <div className="relative z-10">
-                                <h2 className="text-3xl md:text-5xl font-black mb-6 uppercase tracking-tighter">Exit the Debt Cycle Today</h2>
+                                <h3 className="text-3xl md:text-5xl font-black mb-6 uppercase tracking-tighter">Exit the Debt Cycle Today</h3>
                                 <p className="text-lg md:text-2xl opacity-90 max-w-2xl mx-auto mb-10 leading-tight font-normal">
                                     Join thousands of users who have reclaimed their financial freedom with SettleLoans. Let the experts fight your legal and negotiation battles.
                                 </p>

@@ -402,9 +402,9 @@ export default function TataCapitalPersonalLoanSettlementClient() {
                 <Clock className="w-4 h-4" />
                 <span>2. Delinquency Timeline &amp; NPA Stages</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 Tata Capital Delinquency Lifecycle: From DPD 1-30 to Non-Performing Asset (NPA)
-              </h2>
+              </h3>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Under the Reserve Bank of India&apos;s Prudential Norms on Income Recognition, Asset Classification and Provisioning (IRACP) and Expected Credit Loss (ECL) frameworks under Indian Accounting Standard 109 (Ind AS 109), Tata Capital systematically categorizes retail delinquencies into specific Days Past Due (DPD) buckets. Understanding these institutional aging milestones is essential for timing settlement negotiations and securing maximum debt write-offs.
               </p>
@@ -475,9 +475,9 @@ export default function TataCapitalPersonalLoanSettlementClient() {
                 <Banknote className="w-4 h-4" />
                 <span>3. Stopping NACH Bounce Charges &amp; Penal Fees</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 How to Stop Tata Capital Bounce Charges &amp; Halt Repeated NACH Presentations
-              </h2>
+              </h3>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 One of the most severe financial burdens faced by borrowers in default is the aggressive compounding of electronic auto-debit bounce fees. Tata Capital&apos;s automated treasury systems often present e-NACH mandates two to three times within a single month. When an account lacks sufficient funds, the borrower&apos;s destination bank deducts ₹250 to ₹500 plus GST per return, while Tata Capital simultaneously levies internal bounce penalties ranging from ₹450 to ₹1,000 plus GST.
               </p>
@@ -501,9 +501,9 @@ export default function TataCapitalPersonalLoanSettlementClient() {
                 <Calculator className="w-4 h-4" />
                 <span>4. OTS Haircut Policies &amp; Valuation Framework</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 Tata Capital One-Time Settlement (OTS) &amp; Haircut Valuation Matrix
-              </h2>
+              </h3>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Under the RBI Master Direction on Compromise Settlements and Technical Write-offs (DOR.STR.REC.20/21.04.048/2023-24), Tata Capital maintains a board-approved compromise settlement framework. Rather than acting on arbitrary discretion, the NBFC evaluates settlement proposals using a mathematical Net Present Value (NPV) recovery methodology.
               </p>
@@ -526,7 +526,7 @@ export default function TataCapitalPersonalLoanSettlementClient() {
               </div>
 
               {/* Settlement Haircut Slabs Table */}
-              <h3 className="text-lg font-bold text-slate-900 mb-3">Realistic Tata Capital Settlement Haircut Slabs by Product &amp; Aging</h3>
+              <h4 className="text-lg font-bold text-slate-900 mb-3">Realistic Tata Capital Settlement Haircut Slabs by Product &amp; Aging</h4>
               <div className="overflow-x-auto my-4">
                 <table className="min-w-full bg-white">
                   <thead>
@@ -584,9 +584,9 @@ export default function TataCapitalPersonalLoanSettlementClient() {
                       <span className="text-[10px] font-black uppercase tracking-widest text-blue-300 block">
                         Legal Defense &amp; Action Blueprint
                       </span>
-                      <h3 className="text-sm md:text-base font-black text-white leading-tight">
+                      <h4 className="text-sm md:text-base font-black text-white leading-tight">
                         Tata Capital Personal Loan Settlement &amp; Defense Blueprint
-                      </h3>
+                      </h4>
                     </div>
                   </div>
                   <a
@@ -633,9 +633,9 @@ export default function TataCapitalPersonalLoanSettlementClient() {
                 <ShieldAlert className="w-4 h-4" />
                 <span>5. Recovery Practices &amp; RBI Harassment Defense</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 Defending Against Aggressive Recovery Tactics Under RBI NBFC Directives
-              </h2>
+              </h3>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Tata Capital engages external third-party Debt Recovery Agencies (DRAs) whose tele-callers and field executives operate under commission-driven incentives. In delinquent accounts, collection personnel frequently overstep regulatory boundaries by making incessant phone calls throughout the day, executing unannounced visits to residential and workplace premises, and contacting non-guarantor family members or employers whose details were captured during digital onboarding.
               </p>
@@ -653,9 +653,9 @@ export default function TataCapitalPersonalLoanSettlementClient() {
                 <Layers className="w-4 h-4" />
                 <span>6. Step-by-Step NBFC Settlement Roadmap</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 Step-by-Step Guide: How to Negotiate a Compromise Settlement with Tata Capital
-              </h2>
+              </h3>
               <p className="text-slate-700 leading-relaxed mb-6 text-base md:text-lg">
                 Executing a legally secure, cost-effective One-Time Settlement with Tata Capital requires a disciplined, evidence-based approach:
               </p>
@@ -663,10 +663,10 @@ export default function TataCapitalPersonalLoanSettlementClient() {
               <div className="space-y-6">
                 {/* Phase 1 */}
                 <div className="p-6 rounded-2xl bg-white border border-slate-200 shadow-sm">
-                  <h3 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
+                  <h4 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
                     <span className="w-7 h-7 rounded-lg bg-blue-50 text-[#1F5EFF] font-black text-sm flex items-center justify-center border border-blue-200">1</span>
                     Comprehensive Financial Audit &amp; Hardship Dossier Compilation
-                  </h3>
+                  </h4>
                   <p className="text-slate-600 text-sm md:text-base leading-relaxed">
                     Assemble comprehensive documentary proof evidencing bona fide, involuntary financial incapacity. Crucial documents include job termination letters, salary reduction slips, audited business balance sheets, hospital discharge summaries, or bank statements showing depleted liquidity. This proves the default is non-wilful and qualifies for compromise relief.
                   </p>
@@ -674,10 +674,10 @@ export default function TataCapitalPersonalLoanSettlementClient() {
 
                 {/* Phase 2 */}
                 <div className="p-6 rounded-2xl bg-white border border-slate-200 shadow-sm">
-                  <h3 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
+                  <h4 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
                     <span className="w-7 h-7 rounded-lg bg-blue-50 text-[#1F5EFF] font-black text-sm flex items-center justify-center border border-blue-200">2</span>
                     Revoking NACH Mandates &amp; Formalizing Communication Channels
-                  </h3>
+                  </h4>
                   <p className="text-slate-600 text-sm md:text-base leading-relaxed">
                     Instruct your bank to revoke the e-NACH auto-debit mandate to halt recurring return penalties. Issue a formal notice to Tata Capital directing all collection communication to written email channels or through designated legal counsel, establishing a verifiable evidentiary audit trail.
                   </p>
@@ -685,10 +685,10 @@ export default function TataCapitalPersonalLoanSettlementClient() {
 
                 {/* Phase 3 */}
                 <div className="p-6 rounded-2xl bg-white border border-slate-200 shadow-sm">
-                  <h3 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
+                  <h4 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
                     <span className="w-7 h-7 rounded-lg bg-blue-50 text-[#1F5EFF] font-black text-sm flex items-center justify-center border border-blue-200">3</span>
                     Submitting Formal Hardship Petition to Stressed Assets Desk
-                  </h3>
+                  </h4>
                   <p className="text-slate-600 text-sm md:text-base leading-relaxed">
                     Submit a formal OTS petition addressed to Tata Capital&apos;s Zonal Stressed Assets Desk citing the RBI Master Direction on Compromise Settlements. Anchor the opening settlement proposal at 25% to 35% of total book dues to establish room for structured counter-negotiations.
                   </p>
@@ -696,10 +696,10 @@ export default function TataCapitalPersonalLoanSettlementClient() {
 
                 {/* Phase 4 */}
                 <div className="p-6 rounded-2xl bg-white border border-slate-200 shadow-sm">
-                  <h3 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
+                  <h4 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
                     <span className="w-7 h-7 rounded-lg bg-blue-50 text-[#1F5EFF] font-black text-sm flex items-center justify-center border border-blue-200">4</span>
                     Managing Counter-Demands &amp; Structuring Committee Approvals
-                  </h3>
+                  </h4>
                   <p className="text-slate-600 text-sm md:text-base leading-relaxed">
                     Tata Capital will initially reject low offers and propose modest discounts (10%–20%). Experienced legal counsel counters by demonstrating that settlement funds are being pooled from third-party family assistance, steering the Credit Committee toward the target 40% to 60% principal waiver band.
                   </p>
@@ -707,10 +707,10 @@ export default function TataCapitalPersonalLoanSettlementClient() {
 
                 {/* Phase 5 */}
                 <div className="p-6 rounded-2xl bg-white border border-slate-200 shadow-sm">
-                  <h3 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
+                  <h4 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
                     <span className="w-7 h-7 rounded-lg bg-blue-50 text-[#1F5EFF] font-black text-sm flex items-center justify-center border border-blue-200">5</span>
                     Rigorous Forensic Audit of the OTS Sanction Letter
-                  </h3>
+                  </h4>
                   <p className="text-slate-600 text-sm md:text-base leading-relaxed">
                     Before paying any funds, verify that Tata Capital issues an official OTS Sanction Letter on corporate letterhead containing loan account details, sanctioned settlement amount, exact payment deadlines, and unambiguous covenants confirming complete debt discharge and legal withdrawal.
                   </p>
@@ -718,10 +718,10 @@ export default function TataCapitalPersonalLoanSettlementClient() {
 
                 {/* Phase 6 */}
                 <div className="p-6 rounded-2xl bg-white border border-slate-200 shadow-sm">
-                  <h3 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
+                  <h4 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
                     <span className="w-7 h-7 rounded-lg bg-blue-50 text-[#1F5EFF] font-black text-sm flex items-center justify-center border border-blue-200">6</span>
                     Direct Account Remittance &amp; Enforcing ₹0 NDC Delivery
-                  </h3>
+                  </h4>
                   <p className="text-slate-600 text-sm md:text-base leading-relaxed">
                     Deposit the agreed settlement amount directly into your designated Tata Capital loan account via RTGS/NEFT. Under RBI Circular RBI/2023-24/60, Tata Capital is legally required to deliver a formal No Dues Certificate and update credit bureaus within 30 calendar days.
                   </p>
@@ -735,9 +735,9 @@ export default function TataCapitalPersonalLoanSettlementClient() {
                 <Gavel className="w-4 h-4" />
                 <span>7. Section 25 Notices, Arbitration &amp; Lok Adalat</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 Navigating Section 25 PSSA Notices, Arbitration &amp; National Lok Adalat
-              </h2>
+              </h3>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 When an unsecured personal loan crosses 60 to 90 days of non-payment, Tata Capital routinely issues statutory demand notices under Section 25 of the Payment and Settlement Systems Act, 2007 (PSSA) for dishonoured NACH mandates, alongside notices invoking unilateral private arbitration.
               </p>
@@ -799,9 +799,9 @@ export default function TataCapitalPersonalLoanSettlementClient() {
                 <FileCheck className="w-4 h-4" />
                 <span>8. Sanction Letter Audit &amp; ₹0 NDC Mandate</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 Authenticating Tata Capital Settlement Letters &amp; Enforcing the ₹0 NDC
-              </h2>
+              </h3>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 A serious risk in retail debt recovery involves unauthorized collection agents issuing fake settlement letters to collect partial payments. If a borrower transfers funds against an unverified or verbal offer, Tata Capital credits the money toward outstanding penal charges, leaving the default open and compounding.
               </p>
@@ -819,9 +819,9 @@ export default function TataCapitalPersonalLoanSettlementClient() {
                 <TrendingUp className="w-4 h-4" />
                 <span>9. CIBIL Score Trajectory &amp; Rehabilitation</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 CIBIL Score Trajectory Post-Settlement &amp; Strategic 18-Month Recovery Plan
-              </h2>
+              </h3>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Completing a One-Time Settlement with Tata Capital results in the account being reported to all four licensed credit bureaus (TransUnion CIBIL, Experian, Equifax, CRIF High Mark) with the status <strong>&apos;Settled&apos;</strong> or <strong>&apos;Post-Write-off Settled&apos;</strong> with an outstanding balance of exactly <strong>₹0</strong>. This causes an initial credit score drop of 75 to 150 points.
               </p>
@@ -839,9 +839,9 @@ export default function TataCapitalPersonalLoanSettlementClient() {
                 <ShieldCheck className="w-4 h-4" />
                 <span>10. Legal Defense &amp; Representation</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 Why Distressed Tata Capital Borrowers Trust SettleLoans
-              </h2>
+              </h3>
               <p className="text-slate-700 leading-relaxed mb-6 text-base md:text-lg">
                 Negotiating an optimal debt settlement with a major corporate NBFC like Tata Capital requires rigorous financial analysis and dedicated legal advocacy. SettleLoans halts third-party recovery harassment through immediate cease-and-desist notices, defends against Section 25 PSSA summons, and negotiates directly with Tata Capital&apos;s Zonal Stressed Assets Desks to secure maximum lawful debt waivers and authentic ₹0 No Dues Certificates.
               </p>
@@ -858,9 +858,9 @@ export default function TataCapitalPersonalLoanSettlementClient() {
                 <HelpCircle className="w-4 h-4" />
                 <span>11. Frequently Asked Questions</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
                 Frequently Asked Questions About Tata Capital Personal Loan Settlement
-              </h2>
+              </h3>
 
               <div className="space-y-3">
                 {faqs.map((faq, index) => (
@@ -877,10 +877,10 @@ export default function TataCapitalPersonalLoanSettlementClient() {
 
             {/* Regulatory References & Official Sources Strip */}
             <div className="bg-slate-50 border border-slate-200 rounded-2xl p-6 my-10">
-              <h3 className="text-base font-bold text-slate-900 mb-4 flex items-center gap-2">
+              <h4 className="text-base font-bold text-slate-900 mb-4 flex items-center gap-2">
                 <Landmark className="w-5 h-5 text-[#1F5EFF]" />
                 Official Regulatory References &amp; Statutory Circulars
-              </h3>
+              </h4>
               <ul className="space-y-3 text-xs text-slate-600">
                 <li className="flex items-start gap-2">
                   <ExternalLink className="w-4 h-4 text-[#1F5EFF] flex-shrink-0 mt-0.5" />
@@ -942,10 +942,10 @@ export default function TataCapitalPersonalLoanSettlementClient() {
 
             {/* Related Guides & Resources Strip (10 Topic Badges) */}
             <div className="bg-slate-50 border border-slate-200 rounded-2xl p-6 my-10">
-              <h3 className="text-base font-bold text-slate-900 mb-4 flex items-center gap-2">
+              <h4 className="text-base font-bold text-slate-900 mb-4 flex items-center gap-2">
                 <BookOpen className="w-5 h-5 text-[#1F5EFF]" />
                 Explore Related Banking &amp; Debt Resolution Guides
-              </h3>
+              </h4>
               <div className="flex flex-wrap gap-2.5">
                 <Link
                   href="/bank-one-time-settlement-ots-policy"

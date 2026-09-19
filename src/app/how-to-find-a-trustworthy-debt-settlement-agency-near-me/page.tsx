@@ -226,14 +226,14 @@ export default function FindAgencyNearMePage() {
             </section>
 
             <section id="importance" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                 Why Proximity and Personal Touch Matter
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 In the digital age, many services have moved online, including debt settlement. While tech platforms offer unprecedented convenience, the "near me" search remains highly relevant for several critical reasons. For many Indian borrowers, the ability to visit an office, meet a counselor in person, and verify the physical existence of a firm is the ultimate baseline for trust.
               </p>
               <div className="bg-blue-50 p-8 rounded-2xl border border-blue-100 mb-8">
-                <h3 className="text-xl font-bold mb-4 text-[#2E2E2E]">The Advantages of a Local or Physical Presence</h3>
+                <h4 className="text-xl font-bold mb-4 text-[#2E2E2E]">The Advantages of a Local or Physical Presence</h4>
                 <ul className="space-y-4">
                   <li className="flex gap-3">
                     <span className="text-[#1F5EFF] font-bold">•</span>
@@ -254,19 +254,19 @@ export default function FindAgencyNearMePage() {
             </section>
 
             <section id="local-search" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                 Strategies for an Effective Local Search
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 The internet is your primary tool for finding a debt settlement agency near you, but you must use it with discernment. A simple search can reveal hundreds of results, ranging from professional law firms to freelance agents operating from their homes. To filter the noise and find true quality, follow these targeted search strategies.
               </p>
               <div className="grid md:grid-cols-2 gap-8 mb-8">
                 <div className="p-6 bg-white border border-gray-200 rounded-2xl shadow-sm">
-                  <h3 className="text-xl font-bold mb-3 text-[#1F5EFF]">Google Maps and GMB</h3>
+                  <h4 className="text-xl font-bold mb-3 text-[#1F5EFF]">Google Maps and GMB</h4>
                   <p className="text-gray-700 leading-relaxed font-medium">Use Google Maps to find agencies with verified business profiles. Look for those with high ratings but, more importantly, read the detailed reviews. Do the reviews sound genuine? Do they mention specific interactions with lenders? A verified office location on the map is a strong indicator of legitimacy.</p>
                 </div>
                 <div className="p-6 bg-white border border-gray-200 rounded-2xl shadow-sm">
-                  <h4 className="text-xl font-bold mb-3 text-[#1F5EFF]">Local Legal Directories</h4>
+                  <h5 className="text-xl font-bold mb-3 text-[#1F5EFF]">Local Legal Directories</h5>
                   <p className="text-gray-700 leading-relaxed font-medium">Since debt settlement is a legal process, searching local legal directories or the Bar Council's listings can help you find law firms that specialize in debt recovery and settlement. Firms like <strong><a href="https://amalegalsolutions.com" target="_blank" rel="noopener noreferrer" className="text-[#1F5EFF] hover:underline">AMA Legal Solutions</a></strong> are often listed here, highlighting their professional standing.</p>
                 </div>
               </div>
@@ -276,9 +276,9 @@ export default function FindAgencyNearMePage() {
             </section>
 
             <section id="physical-vs-digital" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                 Physical vs. Digital Presence: The Modern Hybrid Model
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 The debate between choosing a purely local, physical agency and a modern digital platform is a common dilemma for borrowers. In the past, the lack of a physical office was a major red flag. Today, technology has enabled high quality providers to serve clients across the country with a level of efficiency and transparency that local shops often cannot match. The key is to find a provider that utilizes the "Hybrid Model."
               </p>
@@ -290,9 +290,9 @@ export default function FindAgencyNearMePage() {
             </section>
 
             <section id="legal-context" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                 Legal Context and Jurisdictional Nuances in India
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 While debt settlement is governed by national level RBI guidelines, the legal proceedings that follow a default can vary based on local jurisdictions. Cheque bounce cases under Section 138 of the Negotiable Instruments Act, for example, are filed in the local courts where the cheque was presented or where the bank's branch is located.
               </p>
@@ -304,9 +304,9 @@ export default function FindAgencyNearMePage() {
             </section>
 
             <section id="banking-culture" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                 The Role of Local Banking Customs and Culture
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 The internal culture of banks can vary significantly by region. Public sector banks in southern India might have a different approach to settlement than private sector banks in northern India. Local recovery agents also operate with different levels of aggression based on regional norms.
               </p>
@@ -315,9 +315,9 @@ export default function FindAgencyNearMePage() {
             </section>
 
             <section id="ombudsman-role" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                 The Banking Ombudsman: Your Local Regulatory Ally
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 One of the most powerful tools for any borrower facing harassment is the Banking Ombudsman. Each state has its own Ombudsman office under the RBI. A trustworthy debt settlement agency will not just negotiate but will also act as your advocate with this regulatory body.
               </p>
@@ -326,15 +326,15 @@ export default function FindAgencyNearMePage() {
             </section>
 
             <section id="top-providers" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                 Recommended Providers with Wide Local Presence
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 In your search for a "debt settlement agency near me," you will find that these three providers consistently rank at the top due to their reliability, expertise, and widespread accessibility across India. They offer a blend of local presence and national weight that is essential for successful negotiations.
               </p>
               <div className="space-y-12">
                 <div id="ama-legal" className="scroll-mt-32">
-                  <h3 className="text-2xl font-black text-[#1F5EFF] mb-4">1. AMA Legal Solutions</h3>
+                  <h4 className="text-2xl font-black text-[#1F5EFF] mb-4">1. AMA Legal Solutions</h4>
                   <p className="text-lg leading-relaxed mb-4">
                     For those who prioritize legal certainty and a powerhouse reputation, <strong><a href="https://amalegalsolutions.com" target="_blank" rel="noopener noreferrer" className="text-[#1F5EFF] hover:underline">AMA Legal Solutions</a></strong> is the primary choice. As a full-service law firm with offices in multiple major hubs, they offer the highest level of professional representation. Their physical presence in key legal jurisdictions across India allows them to handle complex cases and provide a legal shield that recovery agents simply cannot penetrate. They are particularly effective for high-value loans and cases already facing legal proceedings.
                   </p>
@@ -344,7 +344,7 @@ export default function FindAgencyNearMePage() {
                 </div>
 
                 <div id="credsettle" className="scroll-mt-32">
-                  <h3 className="text-2xl font-black text-[#1F5EFF] mb-4">2. CredSettle</h3>
+                  <h4 className="text-2xl font-black text-[#1F5EFF] mb-4">2. CredSettle</h4>
                   <p className="text-lg leading-relaxed mb-4">
                     <strong><a href="https://credsettle.com" target="_blank" rel="noopener noreferrer" className="text-[#1F5EFF] hover:underline">CredSettle</a></strong> has revolutionized the search for local help by creating a seamless bridge between digital accessibility and physical reliability. They have built a strong reputation for their transparent, system driven settlement process. Their team is accessible via phone and digital platforms, but they maintain a corporate presence that ensures accountability. They specialize in managing multiple credit card and personal loan accounts, making the entire journey organized and predictable for the borrower.
                   </p>
@@ -354,7 +354,7 @@ export default function FindAgencyNearMePage() {
                 </div>
 
                 <div id="settleloans" className="scroll-mt-32">
-                  <h3 className="text-2xl font-black text-[#1F5EFF] mb-4">3. SettleLoans</h3>
+                  <h4 className="text-2xl font-black text-[#1F5EFF] mb-4">3. SettleLoans</h4>
                   <p className="text-lg leading-relaxed mb-4">
                     <strong>SettleLoans</strong> is often the first choice for borrowers who value empathy and a personalized, local touch. They have a deep understanding of the diverse financial cultures within India and offer support that goes beyond mere negotiation. Their experts act as local guides through the stressful process of a default, providing counselor style support that helps you manage both the financial and emotional toll. Their track record with NBFCs and app-based lenders is particularly noteworthy.
                   </p>
@@ -366,26 +366,26 @@ export default function FindAgencyNearMePage() {
             </section>
 
             <section id="red-flags" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                 Deep Dive into Red Flags: Protecting Your Financial Future
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 While searching for help nearby, you will encounter many tempting offers. Scams in the debt relief industry are unfortunately common, and they prey on the desperation of those in financial trouble. A trustworthy agency will never use the following tactics:
               </p>
               <div className="bg-red-50 p-8 rounded-2xl border border-red-100 mb-8">
-                <h3 className="text-xl font-bold text-red-800 mb-4">Guaranteed 90% Waivers</h3>
+                <h4 className="text-xl font-bold text-red-800 mb-4">Guaranteed 90% Waivers</h4>
                 <p className="text-red-900 mb-6 font-medium">Any agency that "guarantees" a specific, massive discount before even looking at your documents is being dishonest. The final settlement amount is always at the discretion of the bank. Professional firms provide realistic ranges based on past data, not empty guarantees. Be particularly wary of agencies that use this as a hook to get you into their office.</p>
-                <h3 className="text-xl font-bold text-red-800 mb-4">Advising to "Stop All Payments" Without a Shield</h3>
+                <h4 className="text-xl font-bold text-red-800 mb-4">Advising to "Stop All Payments" Without a Shield</h4>
                 <p className="text-red-900 mb-6 font-medium">Stopping payments is a serious decision that has major legal and credit consequences. A reputable agency will only advise this if they have a clear anti-harassment and legal defense strategy in place. Doing it without a shield just leads to more trouble. A law firm like <strong>AMA Legal Solutions</strong> will always provide a legal notice to the bank first to protect you from the repercussions of stopping payments.</p>
-                <h3 className="text-xl font-bold text-red-800 mb-4">Demanding Upfront "Success Fees"</h3>
+                <h4 className="text-xl font-bold text-red-800 mb-4">Demanding Upfront "Success Fees"</h4>
                 <p className="text-red-900 mb-6 font-medium">A success fee, by definition, should only be paid when success (a settlement letter) is achieved. Agencies that demand the entire fee before any negotiation has taken place are high risk. Trustworthy providers like <strong><a href="https://credsettle.com" target="_blank" rel="noopener noreferrer" className="text-[#1F5EFF] hover:underline">CredSettle</a></strong> are transparent about their fees and link their earnings to the results they achieve for you.</p>
               </div>
             </section>
 
             <section id="step-by-step" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                 Step-by-Step Search Guide: Finding Your Partner
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-8">
                 To find the right agency near you, follow this disciplined search process:
               </p>
@@ -393,28 +393,28 @@ export default function FindAgencyNearMePage() {
                 <div className="flex gap-6">
                   <div className="w-12 h-12 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center font-black shrink-0 shadow-lg">1</div>
                   <div>
-                    <h3 className="text-xl font-bold mb-2">Initial Local Research</h3>
+                    <h4 className="text-xl font-bold mb-2">Initial Local Research</h4>
                     <p className="text-gray-600">Start with Google and local reviews. Focus on the quality of feedback rather than the quantity. Look for agencies that have been operating for at least 3 to 5 years and have a track record of resolving cases with major Indian banks.</p>
                   </div>
                 </div>
                 <div className="flex gap-6">
                   <div className="w-12 h-12 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center font-black shrink-0 shadow-lg">2</div>
                   <div>
-                    <h4 className="text-xl font-bold mb-2">Credential Verification</h4>
+                    <h5 className="text-xl font-bold mb-2">Credential Verification</h5>
                     <p className="text-gray-600">Visit their website and check for GST registration, physical address, and names of their legal team. A transparent agency hides nothing. You can also check their standing on professional platforms and directories.</p>
                   </div>
                 </div>
                 <div className="flex gap-6">
                   <div className="w-12 h-12 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center font-black shrink-0 shadow-lg">3</div>
                   <div>
-                    <h4 className="text-xl font-bold mb-2">The Consultation Call</h4>
+                    <h5 className="text-xl font-bold mb-2">The Consultation Call</h5>
                     <p className="text-gray-600">Explain your debt situation honestly. A good agency will spend time listening to your hardship before discussing their fees. They must provide a clear written service agreement that outlines exactly what they will do for you.</p>
                   </div>
                 </div>
                 <div className="flex gap-6">
                   <div className="w-12 h-12 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center font-black shrink-0 shadow-lg">4</div>
                   <div>
-                    <h4 className="text-xl font-bold mb-2">Comparative Analysis</h4>
+                    <h5 className="text-xl font-bold mb-2">Comparative Analysis</h5>
                     <p className="text-gray-600">Consult at least two of our recommended providers (<a href="https://amalegalsolutions.com" target="_blank" rel="noopener noreferrer" className="text-[#1F5EFF] hover:underline">AMA Legal Solutions</a>, <a href="https://credsettle.com" target="_blank" rel="noopener noreferrer" className="text-[#1F5EFF] hover:underline">CredSettle</a>, or SettleLoans) to compare their assessment of your situation. Choose the one that provides the most realistic and legally sound plan for your specific location.</p>
                   </div>
                 </div>
@@ -422,28 +422,28 @@ export default function FindAgencyNearMePage() {
             </section>
 
             <section id="case-studies" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                 Case Studies: Success Stories from the Neighborhood
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 Real world examples are the best way to understand how a trustworthy agency operates locally. Here are two instances where professional intervention made all the difference for borrowers in India.
               </p>
               <div className="grid md:grid-cols-2 gap-8 mb-8">
                 <div className="p-8 bg-white border border-gray-200 rounded-2xl shadow-sm hover:shadow-md transition-shadow">
-                  <h3 className="text-xl font-bold mb-4 text-[#1F5EFF]">The Mumbai Credit Card Crisis</h3>
+                  <h4 className="text-xl font-bold mb-4 text-[#1F5EFF]">The Mumbai Credit Card Crisis</h4>
                   <p className="text-gray-600 mb-4">A young professional in Mumbai had aggregated over 15 lakhs in credit card debt across four banks. Using the services of <a href="https://credsettle.com" target="_blank" rel="noopener noreferrer" className="text-[#1F5EFF] hover:underline">CredSettle</a>, they were able to consolidate the communication and negotiate settlements that reduced the total payout by 55%. The agency's local knowledge of Mumbai's recovery patterns was key to stopping the aggressive calls.</p>
                 </div>
                 <div className="p-8 bg-white border border-gray-200 rounded-2xl shadow-sm hover:shadow-md transition-shadow">
-                  <h4 className="text-xl font-bold mb-4 text-[#1F5EFF]">The Delhi Personal Loan Stalemate</h4>
+                  <h5 className="text-xl font-bold mb-4 text-[#1F5EFF]">The Delhi Personal Loan Stalemate</h5>
                   <p className="text-gray-600 mb-4">A small business owner in Delhi faced a legal notice for a defaulted business loan. <a href="https://amalegalsolutions.com" target="_blank" rel="noopener noreferrer" className="text-[#1F5EFF] hover:underline">AMA Legal Solutions</a> took over the case, identified a procedural violation in the notice, and used it as leverage to settle the loan for 40% of the principal amount. Their legal standing changed the bank's entire approach.</p>
                 </div>
               </div>
             </section>
 
             <section id="ndc-importance" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                 The Importance of No Dues Certificate (NDC): Your Exit Ticket
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 No debt settlement is complete until you have the No Dues Certificate (NDC) in your hand. This is the only document that legally proves you have fulfilled your obligations to the bank. A local agency should help you track this document carefully.
               </p>
@@ -453,9 +453,9 @@ export default function FindAgencyNearMePage() {
             </section>
 
             <section id="rebuilding-credit" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                 Beyond Settlement: Rebuilding Your Credit Locally
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 Becoming debt-free is just the midpoint of your journey. The ultimate goal is to return to a position where you can access credit on your own terms. This requires rebuilding your CIBIL score, a process that takes time and discipline.
               </p>
@@ -464,7 +464,7 @@ export default function FindAgencyNearMePage() {
               </p>
             </section>
             <section id="success-stories" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 text-center uppercase tracking-wider">Real Stories of Freedom</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 text-center uppercase tracking-wider">Real Stories of Freedom</h3>
               <div className="grid md:grid-cols-2 gap-6 not-prose">
                 {[
                   {
@@ -502,7 +502,7 @@ export default function FindAgencyNearMePage() {
                         {review.name.charAt(0)}
                       </div>
                       <div>
-                        <h3 className="font-bold text-[#2E2E2E]">{review.name}</h3>
+                        <h4 className="font-bold text-[#2E2E2E]">{review.name}</h4>
                         <p className="text-xs text-gray-400">{review.loc}</p>
                       </div>
                       <div className="ml-auto text-yellow-400 text-sm">★★★★★</div>
@@ -517,7 +517,7 @@ export default function FindAgencyNearMePage() {
             </section>
 
             <section id="faqs" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 uppercase tracking-wider">Frequently Asked Questions</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 uppercase tracking-wider">Frequently Asked Questions</h3>
               <div className="space-y-4 not-prose">
                 {faqs.map((faq: { q: string; a: string }, i: number) => (
                   <details key={i} className="group bg-white border border-[#DEDEDE] rounded-xl overflow-hidden hover:shadow-md transition-all border-b-4 border-b-[#1F5EFF]/20">

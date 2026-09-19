@@ -267,30 +267,30 @@ export default function CreditScore800Page() {
             </section>
 
               <section id="cibil-algorithm" className="scroll-mt-32 mb-16">
-                <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+                <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                   Decoding the Algorithm: What Truly Moves the Needle
-                </h2>
+                </h3>
                 <p className="text-lg leading-relaxed mb-6">
                   To reach 800, you must understand the math behind the CIBIL score. The TransUnion CIBIL algorithm is a complex weighted model that looks at your entire financial history. It doesn't just look at whether you paid last month; it looks at how you have behaved over the last 36 to 72 months.
                 </p>
                 <div className="grid md:grid-cols-2 gap-8 my-10">
                   <div className="bg-blue-50 p-8 rounded-2xl border border-blue-100 shadow-sm text-center">
-                    <h3 className="text-4xl font-black text-blue-600 mb-2">35%</h3>
+                    <h4 className="text-4xl font-black text-blue-600 mb-2">35%</h4>
                     <p className="font-bold text-[#2E2E2E] mb-4 uppercase tracking-wider text-sm">Payment History</p>
                     <p className="text-xs text-blue-800 leading-relaxed">The single most important factor. Timely payments are non-negotiable for an 800 score.</p>
                   </div>
                   <div className="bg-green-50 p-8 rounded-2xl border border-green-100 shadow-sm text-center">
-                    <h3 className="text-4xl font-black text-green-600 mb-2">30%</h3>
+                    <h4 className="text-4xl font-black text-green-600 mb-2">30%</h4>
                     <p className="font-bold text-[#2E2E2E] mb-4 uppercase tracking-wider text-sm">Credit Utilization</p>
                     <p className="text-xs text-green-800 leading-relaxed">How much of your limit you use. High utilization signals financial stress.</p>
                   </div>
                   <div className="bg-purple-50 p-8 rounded-2xl border border-purple-100 shadow-sm text-center">
-                    <h3 className="text-4xl font-black text-purple-600 mb-2">15%</h3>
+                    <h4 className="text-4xl font-black text-purple-600 mb-2">15%</h4>
                     <p className="font-bold text-[#2E2E2E] mb-4 uppercase tracking-wider text-sm">History Length</p>
                     <p className="text-xs text-purple-800 leading-relaxed">The age of your oldest active account. Older is always better.</p>
                   </div>
                   <div className="bg-orange-50 p-8 rounded-2xl border border-orange-100 shadow-sm text-center">
-                    <h3 className="text-4xl font-black text-orange-600 mb-2">10%</h3>
+                    <h4 className="text-4xl font-black text-orange-600 mb-2">10%</h4>
                     <p className="font-bold text-[#2E2E2E] mb-4 uppercase tracking-wider text-sm">Credit Mix</p>
                     <p className="text-xs text-orange-800 leading-relaxed">The variety of your loans. A mix of secured and unsecured is ideal.</p>
                   </div>
@@ -298,14 +298,14 @@ export default function CreditScore800Page() {
               </section>
 
               <section id="payment-history-mastery" className="scroll-mt-32 mb-16 font-sans">
-                <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+                <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                   The 35% Rule: Why Payment History is Your Biggest Leverage
-                </h2>
+                </h3>
                 <p className="text-lg leading-relaxed mb-8">
                   You cannot reach an 800 score if you have even a single 'Days Past Due' (DPD) flag in the last 24 months. For CIBIL, a payment that is even 3 days late is a red flag. It hints at a lack of discipline or a liquidity crunch. Super-prime borrowers don't just pay on time; they often pay a few days early to ensure no glitches in the banking system affect their record.
                 </p>
                 <div className="bg-[#2E2E2E] text-white p-8 rounded-2xl mb-12">
-                  <h3 className="text-xl font-bold mb-4">The Perfectionist's Checklist:</h3>
+                  <h4 className="text-xl font-bold mb-4">The Perfectionist's Checklist:</h4>
                   <ul className="space-y-4 text-sm opacity-90">
                     <li className="flex items-start gap-2">
                        <span className="text-[#1F5EFF] font-bold">✓</span>
@@ -324,7 +324,7 @@ export default function CreditScore800Page() {
               </section>
 
               <section id="utilization-secrets" className="scroll-mt-32 mb-16">
-                <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">Credit Utilization: The 10% Secret</h2>
+                <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">Credit Utilization: The 10% Secret</h3>
                 <p className="text-lg leading-relaxed mb-6">
                   Most experts will tell you to keep your credit utilization ratio (CUR) below 30%. While this is good for a 750 score, it is not enough for an 800 score. Data shows that individuals with the highest credit scores in India typically maintain a utilization of 10% or less.
                 </p>
@@ -333,7 +333,7 @@ export default function CreditScore800Page() {
                 </p>
                 <div className="bg-blue-50 p-6 rounded-xl border border-blue-100 flex items-center justify-between mb-8">
                   <div>
-                    <h3 className="font-bold text-blue-900">Pro-Tip: Request a Limit Increase</h3>
+                    <h4 className="font-bold text-blue-900">Pro-Tip: Request a Limit Increase</h4>
                     <p className="text-xs text-blue-800">Instead of spending less, ask your bank to double your limit. If your spending stays the same, your CUR drops by half automatically.</p>
                   </div>
                   <div className="hidden sm:block">
@@ -343,18 +343,18 @@ export default function CreditScore800Page() {
               </section>
 
               <section id="credit-mix-strategy" className="scroll-mt-32 mb-16">
-                <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">The Strategy of a Diverse Credit Mix</h2>
+                <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">The Strategy of a Diverse Credit Mix</h3>
                 <p className="text-lg leading-relaxed mb-6">
                   Borrowers who only have credit cards often reach a 'score ceiling' at around 770. To break into the 800s, CIBIL likes to see that you can manage different types of debt, especially secured debt.
                 </p>
                 <div className="grid sm:grid-cols-2 gap-4 mb-10">
                   <div className="p-6 bg-white border border-[#DEDEDE] rounded-2xl">
-                    <h3 className="font-bold mb-2">Unsecured Debt</h3>
+                    <h4 className="font-bold mb-2">Unsecured Debt</h4>
                     <p className="text-xs text-gray-500 mb-4">Credit Cards, Personal Loans, Consumer Durable Loans.</p>
                     <p className="text-sm">High risk for banks. Harder to maintain high scores if this is your only type of debt.</p>
                   </div>
                   <div className="p-6 bg-white border border-[#DEDEDE] rounded-2xl border-b-4 border-b-[#1F5EFF]">
-                    <h4 className="font-bold mb-2">Secured Debt</h4>
+                    <h5 className="font-bold mb-2">Secured Debt</h5>
                     <p className="text-xs text-gray-500 mb-4">Home Loans, Car Loans, Gold Loans, LAP.</p>
                     <p className="text-sm">Low risk. Successfully managing a home loan is the fastest way to stabilize an 800+ score.</p>
                   </div>
@@ -365,7 +365,7 @@ export default function CreditScore800Page() {
               </section>
 
               <section id="old-accounts-value" className="scroll-mt-32 mb-16">
-                <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">Why You Should Never Close Your First Credit Card</h2>
+                <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">Why You Should Never Close Your First Credit Card</h3>
                 <p className="text-lg leading-relaxed mb-6">
                   Many people close their old, basic credit cards once they get a new 'Gold' or 'Platinum' card. This is a massive mistake. The length of your credit history accounts for 15% of your score. Closing your oldest card instantly reduces the 'average age' of your credit lines, which can drop your score by 40-50 points overnight.
                 </p>
@@ -375,12 +375,12 @@ export default function CreditScore800Page() {
               </section>
 
               <section id="monitoring-and-errors" className="scroll-mt-32 mb-16">
-                <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">Correcting CIBIL Errors: The Silent Score Killer</h2>
+                <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">Correcting CIBIL Errors: The Silent Score Killer</h3>
                 <p className="text-lg leading-relaxed mb-6">
                   Nearly 1 in 5 CIBIL reports in India contains an error. Sometimes a loan you closed 2 years ago still shows as 'Active'. Other times, someone with a similar name has their defaults accidentally mapped to your PAN.
                 </p>
                 <div className="bg-red-50 p-8 rounded-2xl border border-red-100 mb-8">
-                  <h3 className="text-xl font-bold text-red-800 mb-4">The Dispute Process</h3>
+                  <h4 className="text-xl font-bold text-red-800 mb-4">The Dispute Process</h4>
                   <p className="text-sm text-red-900 leading-relaxed mb-4">
                     Check your report quarterly. If you find an error, use the CIBIL 'Raise a Dispute' portal immediately. You will need your Nodal Officer's closure letter as proof. CIBIL is legally required to resolve disputes within 30 days.
                   </p>
@@ -391,7 +391,7 @@ export default function CreditScore800Page() {
               </section>
 
               <section id="inquiry-management" className="scroll-mt-32 mb-16">
-                <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">Hard Inquiries: The Cost of Being Curious</h2>
+                <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">Hard Inquiries: The Cost of Being Curious</h3>
                 <p className="text-lg leading-relaxed mb-6">
                   Every time you apply for a credit card, the bank does a 'Hard Inquiry' on your profile. Too many inquiries in a short time (3+ in 6 months) signals that you are 'credit hungry' or in financial trouble. Each inquiry can shave 5-10 points off your score.
                 </p>
@@ -401,7 +401,7 @@ export default function CreditScore800Page() {
               </section>
 
               <section id="settlement-impact" className="scroll-mt-32 mb-16">
-                <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">The Impact of Loan Settlement on Your Journey</h2>
+                <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">The Impact of Loan Settlement on Your Journey</h3>
                 <p className="text-lg leading-relaxed mb-6">
                   If you have previously settled a loan, your score will drop significantly. While SettleLoans helps you navigate the legal end of the debt, we also want to be honest about the CIBIL impact. A 'Settled' marker is a signal that you didn't pay the full amount due.
                 </p>
@@ -411,7 +411,7 @@ export default function CreditScore800Page() {
               </section>
 
               <section id="roadmap-to-800" className="scroll-mt-32 mb-16">
-                <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">The 12-Month Roadmap to 800+</h2>
+                <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">The 12-Month Roadmap to 800+</h3>
                 <div className="space-y-4">
                   {[
                     { m: "Months 1-3", t: "Audit and Fix", d: "Get your full CIBIL report. Identify errors and file disputes. Pay every single bill 3 days before the due date." },
@@ -423,7 +423,7 @@ export default function CreditScore800Page() {
                        <div className="absolute left-0 top-0 w-2 h-full bg-[#1F5EFF] opacity-0 group-hover:opacity-100 transition-opacity"></div>
                        <div className="w-1/4 font-black text-[#2E2E2E]">{step.m}</div>
                        <div className="w-3/4">
-                          <h3 className="font-bold text-[#1F5EFF] mb-2">{step.t}</h3>
+                          <h4 className="font-bold text-[#1F5EFF] mb-2">{step.t}</h4>
                           <p className="text-sm text-gray-600 leading-relaxed">{step.d}</p>
                        </div>
                     </div>
@@ -432,34 +432,34 @@ export default function CreditScore800Page() {
               </section>
 
               <section id="exclusive-benefits" className="scroll-mt-32 mb-16">
-                <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 text-center">The Elite Lifestyle: Benefits of 800+</h2>
+                <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 text-center">The Elite Lifestyle: Benefits of 800+</h3>
                 <div className="grid md:grid-cols-3 gap-6">
                   <div className="bg-white p-8 rounded-2xl border border-[#DEDEDE] shadow-sm text-center">
                     <div className="w-12 h-12 bg-blue-100 rounded-full flex items-center justify-center mx-auto mb-4">
                       <span className="text-blue-600 font-bold">₹</span>
                     </div>
-                    <h3 className="font-bold mb-2">Lowest ROI</h3>
+                    <h4 className="font-bold mb-2">Lowest ROI</h4>
                     <p className="text-xs text-gray-500">Qualification for 'Risk Based Pricing' where you get the lowest possible interest rates.</p>
                   </div>
                   <div className="bg-white p-8 rounded-2xl border border-[#DEDEDE] shadow-sm text-center">
                     <div className="w-12 h-12 bg-green-100 rounded-full flex items-center justify-center mx-auto mb-4">
                       <span className="text-green-600 font-bold">⚡</span>
                     </div>
-                    <h4 className="font-bold mb-2">Instant Approval</h4>
+                    <h5 className="font-bold mb-2">Instant Approval</h5>
                     <p className="text-xs text-gray-500">Most automated lending systems approve 800+ scores within seconds with minimal documentation.</p>
                   </div>
                   <div className="bg-white p-8 rounded-2xl border border-[#DEDEDE] shadow-sm text-center">
                     <div className="w-12 h-12 bg-purple-100 rounded-full flex items-center justify-center mx-auto mb-4">
                       <span className="text-purple-600 font-bold">★</span>
                     </div>
-                    <h5 className="font-bold mb-2">Zero Processing</h5>
+                    <h6 className="font-bold mb-2">Zero Processing</h6>
                     <p className="text-xs text-gray-500">High leverage to negotiate for 100% waiver on processing fees and administrative charges.</p>
                   </div>
                 </div>
               </section>
 
               <section id="success-stories-credit" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 text-center">Real Stories of Success</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 text-center">Real Stories of Success</h3>
               <div className="grid md:grid-cols-2 gap-6 not-prose">
                 {[
                   {
@@ -497,7 +497,7 @@ export default function CreditScore800Page() {
                         {review.name.charAt(0)}
                       </div>
                       <div>
-                        <h3 className="font-bold text-[#2E2E2E]">{review.name}</h3>
+                        <h4 className="font-bold text-[#2E2E2E]">{review.name}</h4>
                         <p className="text-xs text-gray-400">{review.loc}</p>
                       </div>
                       <div className="ml-auto text-yellow-400 text-sm">★★★★★</div>
@@ -512,7 +512,7 @@ export default function CreditScore800Page() {
             </section>
 
             <section id="faqs-credit" className="scroll-mt-32 mb-16">
-                <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">Frequently Asked Questions</h2>
+                <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">Frequently Asked Questions</h3>
                 <div className="space-y-4">
                   {(jsonLd["@graph"][4] as any)?.mainEntity?.map((faq: any, i: number) => (
                     <details key={i} className="group bg-white border border-[#DEDEDE] rounded-xl overflow-hidden hover:shadow-md transition-all border-b-4 border-b-[#1F5EFF]/20">
@@ -572,7 +572,7 @@ export default function CreditScore800Page() {
         <div className="lg:hidden px-4 mb-16">
           <div className="bg-[#1F5EFF] rounded-2xl shadow-xl overflow-hidden">
             <div className="p-8 text-center">
-              <h3 className="text-2xl font-black text-white mb-4">Master Your Credit</h3>
+              <h4 className="text-2xl font-black text-white mb-4">Master Your Credit</h4>
               <Link href="/contact" className="inline-block w-full bg-white text-[#1F5EFF] font-black py-4 px-6 rounded-xl hover:scale-105 transition-all shadow-lg text-lg">
                 Get Free Analysis
               </Link>

@@ -259,9 +259,9 @@ export default function RemoveWrittenOffStatusPage() {
             </section>
 
             <section id="accounting-vs-forgiveness" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 Accounting Practice vs. Forgiveness
-              </h2>
+              </h3>
               <div className="bg-gray-50 p-8 rounded-2xl mb-8 border border-gray-200">
                 <p className="text-gray-800 text-lg leading-relaxed mb-4">
                   <strong>The core reality of a write-off:</strong> The bank has simply accepted a temporary loss on their books. They have not waived your legal liability. 
@@ -272,7 +272,7 @@ export default function RemoveWrittenOffStatusPage() {
               </div>
 
               <div className="bg-red-50 p-6 rounded-xl border border-red-100 mb-8">
-                <h3 className="text-xl font-black text-red-700 mb-3">Do Not Ignore a Written-Off Loan</h3>
+                <h4 className="text-xl font-black text-red-700 mb-3">Do Not Ignore a Written-Off Loan</h4>
                 <p className="text-red-900 leading-relaxed">
                   Assuming your debt is gone because it was written off will lead to severe shocks later—like waking up to a frozen bank account, a civil summons, or having a future crucial loan application instantly rejected. The debt must be legally cleared.
                 </p>
@@ -280,34 +280,34 @@ export default function RemoveWrittenOffStatusPage() {
             </section>
 
             <section id="cibil-status-differences" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 Understanding the Different CIBIL Statuses
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 To fix your CIBIL report, you must understand how different closure types are viewed by prospective lenders. The terminology heavily dictates your future borrowing power.
               </p>
 
               <div className="grid md:grid-cols-2 gap-6 my-8">
                 <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
-                  <h3 className="font-black text-[#1F5EFF] text-lg mb-3">1. Closed (Ideal)</h3>
+                  <h4 className="font-black text-[#1F5EFF] text-lg mb-3">1. Closed (Ideal)</h4>
                   <p className="text-gray-700 leading-relaxed">
                     You have paid all principal, interest, and penalties in full. The bank has no further claims. This is the gold standard and positively impacts your CIBIL score.
                   </p>
                 </div>
                 <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
-                  <h4 className="font-black text-[#1F5EFF] text-lg mb-3">2. Settled (Compromise)</h4>
+                  <h5 className="font-black text-[#1F5EFF] text-lg mb-3">2. Settled (Compromise)</h5>
                   <p className="text-gray-700 leading-relaxed">
                     You paid a mutually agreed lesser amount to close the loan. The bank absorbed a loss. While better than an active default, it leaves a negative remark for up to 7 years.
                   </p>
                 </div>
                 <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
-                  <h4 className="font-black text-[#1F5EFF] text-lg mb-3">3. Written-Off (Worst)</h4>
+                  <h5 className="font-black text-[#1F5EFF] text-lg mb-3">3. Written-Off (Worst)</h5>
                   <p className="text-gray-700 leading-relaxed">
                     The bank has given up on standard collection and booked a 100% loss. This is a severe red flag indicating you abandoned your financial obligation entirely.
                   </p>
                 </div>
                 <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
-                  <h4 className="font-black text-[#1F5EFF] text-lg mb-3">4. Post Write-Off Settled</h4>
+                  <h5 className="font-black text-[#1F5EFF] text-lg mb-3">4. Post Write-Off Settled</h5>
                   <p className="text-gray-700 leading-relaxed">
                     After a write-off, you came forward and negotiated a settlement. This shows financial maturity and responsibility, making future lenders slightly more forgiving.
                   </p>
@@ -316,15 +316,15 @@ export default function RemoveWrittenOffStatusPage() {
             </section>
 
             <section id="severe-consequences" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 Consequences of a Written-Off Status
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 Having the phrase "Written-Off" tied to your PAN card across the credit bureaus carries devastating long-term effects.
               </p>
 
               <div className="bg-blue-50 border-l-8 border-[#1F5EFF] p-8 rounded-r-2xl mb-8">
-                <h3 className="text-xl font-black text-[#1F5EFF] mb-4">Immediate Repercussions</h3>
+                <h4 className="text-xl font-black text-[#1F5EFF] mb-4">Immediate Repercussions</h4>
                 <ul className="space-y-3">
                   <li className="flex items-start gap-3">
                     <div className="mt-1.5 w-2 h-2 rounded-full bg-[#1F5EFF] flex-shrink-0"></div>
@@ -343,9 +343,9 @@ export default function RemoveWrittenOffStatusPage() {
             </section>
 
             <section id="how-to-clear" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 How to Clear a Written-Off Loan from CIBIL
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 The objective is to change the status on your CIBIL report from "Written-Off" to "Closed" or, at the very least, "Settled". Because the bank has already accounted for the loss, you have significant leverage to negotiate, especially if you offer a lump sum payment.
               </p>
@@ -355,9 +355,9 @@ export default function RemoveWrittenOffStatusPage() {
             </section>
 
             <section id="negotiation-steps" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 Steps to Convert Written-Off to Closed CIBIL
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 Follow this exact systematic approach to resolve the debt and upgrade your credit profile:
               </p>
@@ -366,7 +366,7 @@ export default function RemoveWrittenOffStatusPage() {
                 <div className="flex gap-6">
                   <div className="flex-shrink-0 w-12 h-12 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center font-black text-xl shadow-lg">1</div>
                   <div>
-                    <h3 className="text-2xl font-bold text-[#2E2E2E] mb-2">Pull Your Latest CIBIL Report</h3>
+                    <h4 className="text-2xl font-bold text-[#2E2E2E] mb-2">Pull Your Latest CIBIL Report</h4>
                     <p className="text-lg text-gray-700 leading-relaxed">
                       Download your credit report directly from CIBIL or Experian. Identify the exact loan account number, the date of default, the reported outstanding amount, and the current status (Written-Off). Ensure you aren't paying a debt that belongs to someone else due to a reporting error.
                     </p>
@@ -376,7 +376,7 @@ export default function RemoveWrittenOffStatusPage() {
                 <div className="flex gap-6">
                   <div className="flex-shrink-0 w-12 h-12 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center font-black text-xl shadow-lg">2</div>
                   <div>
-                    <h3 className="text-2xl font-bold text-[#2E2E2E] mb-2">Initiate Formal Contact</h3>
+                    <h4 className="text-2xl font-bold text-[#2E2E2E] mb-2">Initiate Formal Contact</h4>
                     <p className="text-lg text-gray-700 leading-relaxed">
                       Do not negotiate verbally with third-party recovery agents. Send a formal email to the bank’s nodal officer or the specific collections department. State your intent to resolve the written-off account and request a detailed statement of accounts.
                     </p>
@@ -386,7 +386,7 @@ export default function RemoveWrittenOffStatusPage() {
                 <div className="flex gap-6">
                   <div className="flex-shrink-0 w-12 h-12 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center font-black text-xl shadow-lg">3</div>
                   <div>
-                    <h3 className="text-2xl font-bold text-[#2E2E2E] mb-2">Negotiate a Settlement (Principal Only)</h3>
+                    <h4 className="text-2xl font-bold text-[#2E2E2E] mb-2">Negotiate a Settlement (Principal Only)</h4>
                     <p className="text-lg text-gray-700 leading-relaxed">
                       Propose a One-Time Settlement (OTS). Argue financial hardship and offer to pay only the outstanding principal amount while requesting a complete waiver of the accumulated penal interest and late fees. Expert negotiators can often settle these for 30-50% of the currently demanded amount.
                     </p>
@@ -396,7 +396,7 @@ export default function RemoveWrittenOffStatusPage() {
                 <div className="flex gap-6">
                   <div className="flex-shrink-0 w-12 h-12 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center font-black text-xl shadow-lg">4</div>
                   <div>
-                    <h3 className="text-2xl font-bold text-[#2E2E2E] mb-2">Demand Upgradation to "Closed"</h3>
+                    <h4 className="text-2xl font-bold text-[#2E2E2E] mb-2">Demand Upgradation to "Closed"</h4>
                     <p className="text-lg text-gray-700 leading-relaxed">
                       If you manage to pay the original principal and standard interest, negotiate fiercely to have the bank report the status as <strong>"Closed"</strong> rather than "Settled". If they insist on "Settled", ensure they report it as "Post Write-Off Settled" with a zero balance.
                     </p>
@@ -406,7 +406,7 @@ export default function RemoveWrittenOffStatusPage() {
                 <div className="flex gap-6">
                   <div className="flex-shrink-0 w-12 h-12 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center font-black text-xl shadow-lg">5</div>
                   <div>
-                    <h3 className="text-2xl font-bold text-[#2E2E2E] mb-2">Obtain the NOC / NDC</h3>
+                    <h4 className="text-2xl font-bold text-[#2E2E2E] mb-2">Obtain the NOC / NDC</h4>
                     <p className="text-lg text-gray-700 leading-relaxed">
                       Never make the final payment until you have a formal settlement letter from the bank detailing the terms. Once paid, ensure you receive a No Objection Certificate (NOC) or No Dues Certificate (NDC). Ensure the bank updates CIBIL within 30 to 45 days.
                     </p>
@@ -416,9 +416,9 @@ export default function RemoveWrittenOffStatusPage() {
             </section>
 
             <section id="success-stories" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 Client Success Stories
-              </h2>
+              </h3>
               <div className="grid md:grid-cols-2 gap-6 my-8">
                 <div className="bg-white p-8 rounded-[30px] border border-[#DEDEDE] shadow-sm hover:shadow-xl group transition-all">
                   <div className="flex items-center gap-4 mb-6">
@@ -426,7 +426,7 @@ export default function RemoveWrittenOffStatusPage() {
                       SK
                     </div>
                     <div>
-                      <h3 className="font-bold text-gray-900">Sanjay K.</h3>
+                      <h4 className="font-bold text-gray-900">Sanjay K.</h4>
                       <div className="flex text-yellow-400">
                         <svg className="w-4 h-4 fill-current" viewBox="0 0 20 20"><path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z"/></svg>
                         <svg className="w-4 h-4 fill-current" viewBox="0 0 20 20"><path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z"/></svg>
@@ -451,7 +451,7 @@ export default function RemoveWrittenOffStatusPage() {
                       NS
                     </div>
                     <div>
-                      <h4 className="font-bold text-gray-900">Neha S.</h4>
+                      <h5 className="font-bold text-gray-900">Neha S.</h5>
                       <div className="flex text-yellow-400">
                         <svg className="w-4 h-4 fill-current" viewBox="0 0 20 20"><path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z"/></svg>
                         <svg className="w-4 h-4 fill-current" viewBox="0 0 20 20"><path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z"/></svg>
@@ -473,13 +473,13 @@ export default function RemoveWrittenOffStatusPage() {
             </section>
 
             <section id="faqs" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 Frequently Asked Questions
-              </h2>
+              </h3>
               <div className="space-y-4">
                 {((jsonLd["@graph"].find((item: any) => item["@type"] === "FAQPage") as any)?.mainEntity || []).map((faq: any, index: number) => (
                   <div key={index} className="bg-white border border-[#DEDEDE] rounded-xl p-6 hover:shadow-md transition-shadow">
-                    <h3 className="text-lg font-bold text-[#2E2E2E] mb-2">{faq.name}</h3>
+                    <h4 className="text-lg font-bold text-[#2E2E2E] mb-2">{faq.name}</h4>
                     <p className="text-gray-700 leading-relaxed">{faq.acceptedAnswer.text}</p>
                   </div>
                 ))}
@@ -488,7 +488,7 @@ export default function RemoveWrittenOffStatusPage() {
 
             <div className="bg-[#2E2E2E] text-white p-12 rounded-[40px] text-center mt-24 relative overflow-hidden group">
               <div className="absolute inset-0 bg-[#1F5EFF] opacity-0 group-hover:opacity-5 transition-opacity"></div>
-              <h3 className="text-3xl font-black mb-6 relative z-10">Clear Your Written-Off CIBIL Status</h3>
+              <h4 className="text-3xl font-black mb-6 relative z-10">Clear Your Written-Off CIBIL Status</h4>
               <p className="text-xl opacity-90 mb-8 relative z-10 max-w-2xl mx-auto">
                 Did your bank write off your personal loan, completely destroying your CIBIL score? Let our financial experts negotiate with the bank to settle the actual dues and clear your credit report.
               </p>

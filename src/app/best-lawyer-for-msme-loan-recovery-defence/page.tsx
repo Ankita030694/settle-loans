@@ -262,9 +262,9 @@ export default function MSMELoanRecoveryDefencePage() {
                         </section>
 
                         <section id="legal-framework" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 uppercase tracking-tight">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 uppercase tracking-tight">
                                 Decoding the Indian Legal Landscape for MSME Recovery
-                            </h2>
+                            </h3>
                             <p className="text-lg text-gray-700 leading-relaxed mb-6">
                                 The legal framework governing MSME loan recovery is a complex web of overlapping statutes. To build a robust defence, one must understand how these laws interact. The primary battleground involves three major acts:
                             </p>
@@ -272,21 +272,21 @@ export default function MSMELoanRecoveryDefencePage() {
                                 <li className="flex items-start gap-4">
                                     <div className="bg-blue-100 p-3 rounded-lg text-blue-600 mt-1"><FontAwesomeIcon icon={faShieldAlt} /></div>
                                     <div>
-                                        <h3 className="font-bold text-xl text-[#2E2E2E]">1. The SARFAESI Act, 2002</h3>
+                                        <h4 className="font-bold text-xl text-[#2E2E2E]">1. The SARFAESI Act, 2002</h4>
                                         <p className="text-gray-600">The Securitisation and Reconstruction of Financial Assets and Enforcement of Security Interest Act is the bank's most potent weapon. It allows secured creditors to recover dues without the involvement of a court or tribunal, provided the debt is over ₹1 lakh (or ₹20 lakh for certain NBFCs).</p>
                                     </div>
                                 </li>
                                 <li className="flex items-start gap-4">
                                     <div className="bg-blue-100 p-3 rounded-lg text-blue-600 mt-1"><FontAwesomeIcon icon={faIndustry} /></div>
                                     <div>
-                                        <h4 className="font-bold text-xl text-[#2E2E2E]">2. The MSMED Act, 2006</h4>
+                                        <h5 className="font-bold text-xl text-[#2E2E2E]">2. The MSMED Act, 2006</h5>
                                         <p className="text-gray-600">The Micro, Small and Medium Enterprises Development Act is the borrower's shield. It provides for a statutory mechanism to recover delayed payments from buyers and mandates certain fair treatment policies from banks.</p>
                                     </div>
                                 </li>
                                 <li className="flex items-start gap-4">
                                     <div className="bg-blue-100 p-3 rounded-lg text-blue-600 mt-1"><FontAwesomeIcon icon={faGavel} /></div>
                                     <div>
-                                        <h4 className="font-bold text-xl text-[#2E2E2E]">3. The RDB Act, 1993</h4>
+                                        <h5 className="font-bold text-xl text-[#2E2E2E]">3. The RDB Act, 1993</h5>
                                         <p className="text-gray-600">The Recovery of Debts and Bankruptcy Act established the Debt Recovery Tribunals (DRT). For unsecured loans or when SARFAESI is not applicable, banks must file an Original Application (OA) in the DRT.</p>
                                     </div>
                                 </li>
@@ -297,13 +297,13 @@ export default function MSMELoanRecoveryDefencePage() {
                         </section>
 
                         <section id="sarfaesi-defense" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">
                                 Tactical Defenses Against SARFAESI Actions
-                            </h2>
+                            </h3>
                             <p className="text-lg text-gray-700 leading-relaxed mb-6">
                                 When a bank issues a notice under Section 13(2) of the SARFAESI Act, the clock starts ticking. You have exactly 60 days to respond. This is the most critical window for any MSME owner.
                             </p>
-                            <h3 className="text-2xl font-bold text-[#2E2E2E] mb-4">The Reply to Section 13(2) Notice</h3>
+                            <h4 className="text-2xl font-bold text-[#2E2E2E] mb-4">The Reply to Section 13(2) Notice</h4>
                             <p className="text-lg text-gray-700 leading-relaxed mb-6">
                                 Many borrowers make the mistake of ignoring this notice or giving a generic reply. The best lawyer for MSME loan recovery defence will draft a detailed objection that challenges:
                             </p>
@@ -314,15 +314,15 @@ export default function MSMELoanRecoveryDefencePage() {
                                 <li><strong>Asset Valuation:</strong> Is the market value of the security far higher than the debt? If the bank is trying to seize a ₹5 Cr factory for a ₹1 Cr debt, the proportionality can be challenged.</li>
                             </ul>
                             <div className="bg-yellow-50 p-6 rounded-xl border border-yellow-200 mb-8">
-                                <h4 className="font-bold text-[#856404] mb-2 uppercase text-sm tracking-widest">Pro Tip</h4>
+                                <h5 className="font-bold text-[#856404] mb-2 uppercase text-sm tracking-widest">Pro Tip</h5>
                                 <p className="text-[#856404] text-sm">Always ensure your reply is sent via Registered AD with a tracking number. Under Section 13(3A), the bank is MANDATED to respond to your objections within 15 days. If they fail to provide a reasoned response, their subsequent actions under Section 13(4) can be struck down by the DRT.</p>
                             </div>
                         </section>
 
                         <section id="msmed-protections" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">
                                 The MSMED Act Shield: Beyond Just a Token Status
-                            </h2>
+                            </h3>
                             <p className="text-lg text-gray-700 leading-relaxed mb-6">
                                 Having your Udyam registration is not just for tax benefits; it is a powerful legal shield. The MSMED Act 2006 provides a specialized mechanism for the recovery of dues through the Micro and Small Enterprises Facilitation Council (MSEFC).
                             </p>
@@ -335,13 +335,13 @@ export default function MSMELoanRecoveryDefencePage() {
                         </section>
 
                         <section id="drt-proceedings" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 uppercase tracking-tight">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 uppercase tracking-tight">
                                 Winning the Battle in the Debt Recovery Tribunal (DRT)
-                            </h2>
+                            </h3>
                             <p className="text-lg text-gray-700 leading-relaxed mb-6">
                                 If the bank proceeds from symbolic possession to physical possession or issues an auction notice, the fight moves to the DRT. For an MSME, the DRT is not just a court; it is a platform to prove technical and procedural lapses by the bank.
                             </p>
-                            <h3 className="text-2xl font-bold text-[#2E2E2E] mb-4">Securitization Application (SA) under Section 17</h3>
+                            <h4 className="text-2xl font-bold text-[#2E2E2E] mb-4">Securitization Application (SA) under Section 17</h4>
                             <p className="text-lg text-gray-700 leading-relaxed mb-6">
                                 Within 45 days of the bank's action, the MSME must file an SA. This application is your primary weapon. Unlike a civil suit that can drag on for years, an SA is supposed to be resolved within 60 to 120 days.
                             </p>
@@ -364,7 +364,7 @@ export default function MSMELoanRecoveryDefencePage() {
                                 </li>
                             </ul>
 
-                            <h3 className="text-2xl font-bold text-[#2E2E2E] mb-4">The Difference Between Symbolic and Physical Possession</h3>
+                            <h4 className="text-2xl font-bold text-[#2E2E2E] mb-4">The Difference Between Symbolic and Physical Possession</h4>
                             <p className="text-lg text-gray-700 leading-relaxed mb-6">
                                 It is vital to understand the progression of bank actions. Symbolic possession means the bank has taken legal control and pasted a notice on your door. You can still operate your business. However, once the bank applies to the Chief Metropolitan Magistrate (CMM) or District Magistrate (DM) under Section 14, they are looking for physical eviction.
                             </p>
@@ -374,9 +374,9 @@ export default function MSMELoanRecoveryDefencePage() {
                         </section>
 
                         <section id="industry-analysis" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">
                                 Industry-Specific Recovery Challenges
-                            </h2>
+                            </h3>
                             <p className="text-lg text-gray-700 leading-relaxed mb-6">
                                 Not all MSMEs are created equal. The legal defence must be tailored to the specific sector.
                             </p>
@@ -389,9 +389,9 @@ export default function MSMELoanRecoveryDefencePage() {
                         </section>
 
                         <section id="ibc-vs-msme" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">
                                 IBC Section 240A: The Special Protection for MSME Promoters
-                            </h2>
+                            </h3>
                             <p className="text-lg text-gray-700 leading-relaxed mb-6">
                                 If the bank or another creditor drags your MSME to the National Company Law Tribunal (NCLT) under the Insolvency and Bankruptcy Code (IBC), all is not lost.
                             </p>
@@ -404,9 +404,9 @@ export default function MSMELoanRecoveryDefencePage() {
                         </section>
 
                         <section id="rbi-guidelines" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">
                                 RBI Stressed Asset Framework: Your Right to Restructuring
-                            </h2>
+                            </h3>
                             <p className="text-lg text-gray-700 leading-relaxed mb-6">
                                 The Reserve Bank of India has issued specific circulars (Framework for Revival and Rehabilitation of MSMEs) that are often ignored by branch managers. These guidelines mandate that every bank must have a Committee for Stressed MSMEs.
                             </p>
@@ -416,9 +416,9 @@ export default function MSMELoanRecoveryDefencePage() {
                         </section>
 
                         <section id="delayed-payments" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">
                                 Delayed Payment Recovery: The Root Cause Strategy
-                            </h2>
+                            </h3>
                             <p className="text-lg text-gray-700 leading-relaxed mb-6">
                                 As mentioned earlier, MSME defaults are rarely about lack of intent and usually about lack of liquidity. At SettleLoans, we believe the best defence is a good offence. By filing a delay payment suit in the MSEFC, we put pressure on your debtors.
                             </p>
@@ -428,9 +428,9 @@ export default function MSMELoanRecoveryDefencePage() {
                         </section>
 
                         <section id="negotiation-ots" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">
                                 One-Time Settlement (OTS): Negotiation from Strength
-                            </h2>
+                            </h3>
                             <p className="text-lg text-gray-700 leading-relaxed mb-6">
                                 Litigation should be used as leverage for negotiation. The ultimate goal for most MSMEs is a clean exit from debt through a One-Time Settlement (OTS).
                             </p>
@@ -438,7 +438,7 @@ export default function MSMELoanRecoveryDefencePage() {
                                 Banks frequently offer OTS schemes, especially at the end of the financial year. However, the first offer from a bank is rarely the best one. They will try to maximize recovery. With an expert lawyer by your side, you can point out the weaknesses in their security (e.g., faulty documentation, legal stays) to negotiate the "Haircut" (the discount on the debt).
                             </p>
                             <div className="bg-gray-100 p-8 rounded-2xl border-l-8 border-[#2E2E2E]">
-                                <h3 className="font-bold text-xl mb-4">Key Elements of a Successful OTS:</h3>
+                                <h4 className="font-bold text-xl mb-4">Key Elements of a Successful OTS:</h4>
                                 <ul className="space-y-3 font-medium">
                                     <li>- Accurate calculation of the principal amount vs inflated interest.</li>
                                     <li>- Clear proof of why the business cannot pay the full amount (Audited balance sheets).</li>
@@ -449,38 +449,38 @@ export default function MSMELoanRecoveryDefencePage() {
                         </section>
 
                         <section id="choosing-lawyer" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">
                                 Why You Need the Best Lawyer for MSME Loan Recovery Defence
-                            </h2>
+                            </h3>
                             <p className="text-lg text-gray-700 leading-relaxed mb-6">
                                 Banking law is highly technical. A general civil lawyer might not be aware of the specific nuances of the SARFAESI Rules or the latest RBI master circulars. When you choose a specialist, you are paying for:
                             </p>
                             <div className="grid md:grid-cols-2 gap-6 my-10">
                                 <div className="p-6 border border-gray-200 rounded-2xl hover:bg-blue-50 transition-colors">
                                     <FontAwesomeIcon icon={faShieldAlt} className="text-[#1F5EFF] text-3xl mb-4" />
-                                    <h3 className="font-bold text-lg mb-2">Procedural Expertise</h3>
+                                    <h4 className="font-bold text-lg mb-2">Procedural Expertise</h4>
                                     <p className="text-sm text-gray-600">Identifying minor flaws in the bank's notices that can lead to major stays.</p>
                                 </div>
                                 <div className="p-6 border border-gray-200 rounded-2xl hover:bg-blue-50 transition-colors">
                                     <FontAwesomeIcon icon={faBriefcase} className="text-[#1F5EFF] text-3xl mb-4" />
-                                    <h4 className="font-bold text-lg mb-2">Restructuring Knowledge</h4>
+                                    <h5 className="font-bold text-lg mb-2">Restructuring Knowledge</h5>
                                     <p className="text-sm text-gray-600">Knowing how to force the bank to restructure your loan under RBI guidelines.</p>
                                 </div>
                                 <div className="p-6 border border-gray-200 rounded-2xl hover:bg-blue-50 transition-colors">
                                     <FontAwesomeIcon icon={faBalanceScale} className="text-[#1F5EFF] text-3xl mb-4" />
-                                    <h5 className="font-bold text-lg mb-2">DRT/High Court Representation</h5>
+                                    <h6 className="font-bold text-lg mb-2">DRT/High Court Representation</h6>
                                     <p className="text-sm text-gray-600">Effective advocacy in specialized tribunals to protect your assets.</p>
                                 </div>
                                 <div className="p-6 border border-gray-200 rounded-2xl hover:bg-blue-50 transition-colors">
                                     <FontAwesomeIcon icon={faHandshake} className="text-[#1F5EFF] text-3xl mb-4" />
-                                    <h5 className="font-bold text-lg mb-2">Settlement Brains</h5>
+                                    <h6 className="font-bold text-lg mb-2">Settlement Brains</h6>
                                     <p className="text-sm text-gray-600">Negotiating the best possible haircut while ensuring all your assets are released.</p>
                                 </div>
                             </div>
                         </section>
 
                         <section id="success-stories" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 text-center">Real Stories of Freedom</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 text-center">Real Stories of Freedom</h3>
                             <div className="grid md:grid-cols-2 gap-6 not-prose">
                                 {[
                                     {
@@ -502,7 +502,7 @@ export default function MSMELoanRecoveryDefencePage() {
                                                 {review.name.charAt(0)}
                                             </div>
                                             <div>
-                                                <h3 className="font-bold text-[#2E2E2E]">{review.name}</h3>
+                                                <h4 className="font-bold text-[#2E2E2E]">{review.name}</h4>
                                                 <p className="text-xs text-gray-400">{review.loc}</p>
                                             </div>
                                             <div className="ml-auto text-yellow-400 text-sm">★★★★★</div>
@@ -517,55 +517,55 @@ export default function MSMELoanRecoveryDefencePage() {
                         </section>
 
                         <section id="comprehensive-faq" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-12 text-center uppercase tracking-tight">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-12 text-center uppercase tracking-tight">
                                 MSME Legal Defence FAQs
-                            </h2>
+                            </h3>
                             <div className="space-y-8">
                                 <div className="p-8 bg-white border border-gray-100 rounded-3xl shadow-sm">
-                                    <h3 className="font-black text-xl text-[#2E2E2E] mb-4">1. Is it mandatory for banks to follow RBI restructuring guidelines?</h3>
+                                    <h4 className="font-black text-xl text-[#2E2E2E] mb-4">1. Is it mandatory for banks to follow RBI restructuring guidelines?</h4>
                                     <p className="text-gray-600 leading-relaxed font-medium">Yes. The Supreme Court in various judgments and the RBI in its 2016-17 Master Circulars have made it mandatory for banks to consider restructuring for MSMEs before tagging them as NPA. Failure to do so can be used to challenge a SARFAESI notice.</p>
                                 </div>
                                 <div className="p-8 bg-white border border-gray-100 rounded-3xl shadow-sm">
-                                    <h4 className="font-black text-xl text-[#2E2E2E] mb-4">2. Can MSEFC help if my buyer is a government department?</h4>
+                                    <h5 className="font-black text-xl text-[#2E2E2E] mb-4">2. Can MSEFC help if my buyer is a government department?</h5>
                                     <p className="text-gray-600 leading-relaxed font-medium">Absolutely. Government departments, Public Sector Undertakings (PSUs), and even local bodies are covered under the MSMED Act. In fact, MSEFC is often more effective against government bodies who are legally bound to pay interest for delays.</p>
                                 </div>
                                 <div className="p-8 bg-white border border-gray-100 rounded-3xl shadow-sm">
-                                    <h4 className="font-black text-xl text-[#2E2E2E] mb-4">3. What is the deadline to file a case in DRT?</h4>
+                                    <h5 className="font-black text-xl text-[#2E2E2E] mb-4">3. What is the deadline to file a case in DRT?</h5>
                                     <p className="text-gray-600 leading-relaxed font-medium">For a Securitization Application (SA) under Section 17 of SARFAESI, you must file within 45 days from the date the bank takes an enforcement measure (like a possession notice or auction notice).</p>
                                 </div>
                                 <div className="p-8 bg-white border border-gray-100 rounded-3xl shadow-sm">
-                                    <h4 className="font-black text-xl text-[#2E2E2E] mb-4">4. Can I sell my MSME assets myself to settle the loan?</h4>
+                                    <h5 className="font-black text-xl text-[#2E2E2E] mb-4">4. Can I sell my MSME assets myself to settle the loan?</h5>
                                     <p className="text-gray-600 leading-relaxed font-medium">Under Section 13(13) of SARFAESI, you cannot transfer or sell the secured assets after receiving the 13(2) notice without the bank's written consent. However, we can negotiate a "Privatized Auction" or a "Tripartite Sale" where you find a buyer at a better price to settle the bank dues.</p>
                                 </div>
                                 <div className="p-8 bg-white border border-gray-100 rounded-3xl shadow-sm">
-                                    <h4 className="font-black text-xl text-[#2E2E2E] mb-4">5. What happens if I lose my case in the DRT?</h4>
+                                    <h5 className="font-black text-xl text-[#2E2E2E] mb-4">5. What happens if I lose my case in the DRT?</h5>
                                     <p className="text-gray-600 leading-relaxed font-medium">You can file an appeal in the Debt Recovery Appellate Tribunal (DRAT). However, you must deposit 50% (can be reduced to 25%) of the debt amount as per Section 18 of SARFAESI to maintain the appeal.</p>
                                 </div>
                                 <div className="p-8 bg-white border border-gray-100 rounded-3xl shadow-sm">
-                                    <h4 className="font-black text-xl text-[#2E2E2E] mb-4">6. Does the MSMED Act apply to medium enterprises too?</h4>
+                                    <h5 className="font-black text-xl text-[#2E2E2E] mb-4">6. Does the MSMED Act apply to medium enterprises too?</h5>
                                     <p className="text-gray-600 leading-relaxed font-medium">Most provisions for delayed payments (MSEFC) primarily benefit Micro and Small enterprises. Medium enterprises have different protections, mainly regarding credit access and restructuring under RBI norms.</p>
                                 </div>
                                 <div className="p-8 bg-white border border-gray-100 rounded-3xl shadow-sm">
-                                    <h4 className="font-black text-xl text-[#2E2E2E] mb-4">7. Can a lawyer help in OTS negotiation if the bank has already filed a suit?</h4>
+                                    <h5 className="font-black text-xl text-[#2E2E2E] mb-4">7. Can a lawyer help in OTS negotiation if the bank has already filed a suit?</h5>
                                     <p className="text-gray-600 leading-relaxed font-medium">Yes, in fact, litigation provides the best context for OTS. Banks are often more willing to settle when they see a strong legal defense that might delay their recovery by years.</p>
                                 </div>
                                 <div className="p-8 bg-white border border-gray-100 rounded-3xl shadow-sm">
-                                    <h4 className="font-black text-xl text-[#2E2E2E] mb-4">8. What is a symbolic possession?</h4>
+                                    <h5 className="font-black text-xl text-[#2E2E2E] mb-4">8. What is a symbolic possession?</h5>
                                     <p className="text-gray-600 leading-relaxed font-medium">Symbolic possession means the bank has taken legal control of the asset and published a notice in the newspaper, but you are still physically occupying it. You should move the DRT immediately at this stage before they seek an order from the CMM/DM for physical eviction.</p>
                                 </div>
                                 <div className="p-8 bg-white border border-gray-100 rounded-3xl shadow-sm">
-                                    <h4 className="font-black text-xl text-[#2E2E2E] mb-4">9. Can the bank freeze my current account?</h4>
+                                    <h5 className="font-black text-xl text-[#2E2E2E] mb-4">9. Can the bank freeze my current account?</h5>
                                     <p className="text-gray-600 leading-relaxed font-medium">Yes, banks often use their "Right of Set-off" to appropriate any balance in your other accounts towards the loan default. Working with a lawyer can help protect your operating cash flows.</p>
                                 </div>
                                 <div className="p-8 bg-white border border-gray-100 rounded-3xl shadow-sm">
-                                    <h4 className="font-black text-xl text-[#2E2E2E] mb-4">10. Why is em-dash removal mentioned in the guidelines?</h4>
+                                    <h5 className="font-black text-xl text-[#2E2E2E] mb-4">10. Why is em-dash removal mentioned in the guidelines?</h5>
                                     <p className="text-gray-600 leading-relaxed font-medium">This is purely for editorial consistency and SEO optimization, ensuring the content is rendered perfectly across all browser types and devices without special character errors.</p>
                                 </div>
                             </div>
                         </section>
 
                         <div className="bg-[#1F5EFF] p-12 rounded-[40px] text-center text-white my-20">
-                            <h2 className="text-4xl font-black mb-6 leading-tight">Your Business Deserves another Chance</h2>
+                            <h3 className="text-4xl font-black mb-6 leading-tight">Your Business Deserves another Chance</h3>
                             <p className="text-xl opacity-90 mb-10 max-w-2xl mx-auto">
                                 Don't wait for the auction notice. Every hour you delay gives the bank more power. Contact SettleLoans today for a clinical legal evaluation of your MSME loan case.
                             </p>

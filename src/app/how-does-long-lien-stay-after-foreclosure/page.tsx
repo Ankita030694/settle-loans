@@ -259,22 +259,22 @@ export default function LienRemovalPage() {
             </section>
 
             <section id="property-lien-removal" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 The Process to Clear a Lien Mark on Property
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 When you take a home loan or Loan Against Property (LAP), the bank registers a "charge" or lien with the local sub-registrar's office and CERSAI (Central Registry of Securitisation Asset Reconstruction and Security Interest of India). Paying the loan is only step one; clearing the registry is step two.
               </p>
 
               <div className="grid md:grid-cols-2 gap-6 my-8">
                 <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
-                  <h3 className="font-black text-[#1F5EFF] text-lg mb-3">Obtain the NOC</h3>
+                  <h4 className="font-black text-[#1F5EFF] text-lg mb-3">Obtain the NOC</h4>
                   <p className="text-gray-700 leading-relaxed">
                     First, you must collect the original No Objection Certificate (NOC) and your original Title Deeds from the bank. The NOC explicitly states the bank has no further financial interest in the property.
                   </p>
                 </div>
                 <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
-                  <h4 className="font-black text-[#1F5EFF] text-lg mb-3">Update CERSAI</h4>
+                  <h5 className="font-black text-[#1F5EFF] text-lg mb-3">Update CERSAI</h5>
                   <p className="text-gray-700 leading-relaxed">
                     The bank is legally obligated to update the CERSAI portal to remove the registered charge. Ensure you ask for proof of this CERSAI satisfaction receipt.
                   </p>
@@ -289,15 +289,15 @@ export default function LienRemovalPage() {
             </section>
 
             <section id="rto-lien-removal" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 RTO Lien Removal for Vehicles
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 For car and two-wheeler loans, the bank registers a "hypothecation" with the Regional Transport Office (RTO). Even if your loan account shows zero balance, you cannot sell the car until the RTO removes this hypothecation from your Registration Certificate (RC).
               </p>
 
               <div className="bg-blue-50 border-l-8 border-[#1F5EFF] p-8 rounded-r-2xl mb-8">
-                <h3 className="text-xl font-black text-[#1F5EFF] mb-4">The RTO Hypothecation Cancellation Process</h3>
+                <h4 className="text-xl font-black text-[#1F5EFF] mb-4">The RTO Hypothecation Cancellation Process</h4>
                 <p className="text-blue-900 text-lg leading-relaxed mb-4">
                   To execute an <strong>RTO lien removal</strong>, you must follow these specific steps:
                 </p>
@@ -319,15 +319,15 @@ export default function LienRemovalPage() {
             </section>
 
             <section id="bank-delay-tactics" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 Common Bank Delay Tactics
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 Unfortunately, banks often drag their feet when it comes to releasing a lien. They have their money, so your administrative closure becomes their lowest priority.
               </p>
               
               <div className="bg-red-50 p-6 rounded-xl border border-red-100 mb-8">
-                <h3 className="text-xl font-black text-red-700 mb-3">Beware of the "Cross-Collateralization" Excuse</h3>
+                <h4 className="text-xl font-black text-red-700 mb-3">Beware of the "Cross-Collateralization" Excuse</h4>
                 <p className="text-red-900 leading-relaxed">
                   A common tactic is the bank refusing to remove a lien on your house or car because you have a separate, unpaid credit card or personal loan with them. They claim a "Right of General Lien." Unless your property was explicitly pledged against that specific credit card, this retention is entirely illegal and violates RBI rules.
                 </p>
@@ -335,9 +335,9 @@ export default function LienRemovalPage() {
             </section>
 
             <section id="actionable-steps" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 Steps to Force Bank Lien Removal
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 If the bank is delaying your NOC, failing to update CERSAI, or withholding Form 35, you must take strong, documented legal action to <strong>remove bank lien after loan closure</strong>.
               </p>
@@ -346,7 +346,7 @@ export default function LienRemovalPage() {
                 <div className="flex gap-6">
                   <div className="flex-shrink-0 w-12 h-12 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center font-black text-xl shadow-lg">1</div>
                   <div>
-                    <h3 className="text-2xl font-bold text-[#2E2E2E] mb-2">Issue a Formal Legal Notice</h3>
+                    <h4 className="text-2xl font-bold text-[#2E2E2E] mb-2">Issue a Formal Legal Notice</h4>
                     <p className="text-lg text-gray-700 leading-relaxed">
                       A verbal complaint won't work. Have an advocate send a strict legal notice to the bank's nodal officer, citing RBI directives which mandate the release of all documents and charges within 30 days of closure.
                     </p>
@@ -356,7 +356,7 @@ export default function LienRemovalPage() {
                 <div className="flex gap-6">
                   <div className="flex-shrink-0 w-12 h-12 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center font-black text-xl shadow-lg">2</div>
                   <div>
-                    <h3 className="text-2xl font-bold text-[#2E2E2E] mb-2">Demand the RBI Penalty</h3>
+                    <h4 className="text-2xl font-bold text-[#2E2E2E] mb-2">Demand the RBI Penalty</h4>
                     <p className="text-lg text-gray-700 leading-relaxed">
                       Remind the bank that under RBI guidelines, a delay in releasing property documents and clearing the lien beyond 30 days makes them liable to pay a penalty of ₹5,000 for every single day of delay.
                     </p>
@@ -366,7 +366,7 @@ export default function LienRemovalPage() {
                 <div className="flex gap-6">
                   <div className="flex-shrink-0 w-12 h-12 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center font-black text-xl shadow-lg">3</div>
                   <div>
-                    <h3 className="text-2xl font-bold text-[#2E2E2E] mb-2">Escalate to RBI Ombudsman</h3>
+                    <h4 className="text-2xl font-bold text-[#2E2E2E] mb-2">Escalate to RBI Ombudsman</h4>
                     <p className="text-lg text-gray-700 leading-relaxed">
                       If the bank ignores the legal notice, immediately escalate the case to the RBI Banking Ombudsman with proof of the settlement and the legal notice. This usually forces compliance within days.
                     </p>
@@ -376,9 +376,9 @@ export default function LienRemovalPage() {
             </section>
 
             <section id="success-stories" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 Client Success Stories
-              </h2>
+              </h3>
               <div className="grid md:grid-cols-2 gap-6 my-8">
                 <div className="bg-white p-8 rounded-[30px] border border-[#DEDEDE] shadow-sm hover:shadow-xl group transition-all">
                   <div className="flex items-center gap-4 mb-6">
@@ -386,7 +386,7 @@ export default function LienRemovalPage() {
                       VS
                     </div>
                     <div>
-                      <h3 className="font-bold text-gray-900">Vikas S.</h3>
+                      <h4 className="font-bold text-gray-900">Vikas S.</h4>
                       <div className="flex text-yellow-400">
                         <svg className="w-4 h-4 fill-current" viewBox="0 0 20 20"><path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z"/></svg>
                         <svg className="w-4 h-4 fill-current" viewBox="0 0 20 20"><path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z"/></svg>
@@ -411,7 +411,7 @@ export default function LienRemovalPage() {
                       RG
                     </div>
                     <div>
-                      <h4 className="font-bold text-gray-900">Ramesh G.</h4>
+                      <h5 className="font-bold text-gray-900">Ramesh G.</h5>
                       <div className="flex text-yellow-400">
                         <svg className="w-4 h-4 fill-current" viewBox="0 0 20 20"><path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z"/></svg>
                         <svg className="w-4 h-4 fill-current" viewBox="0 0 20 20"><path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z"/></svg>
@@ -433,13 +433,13 @@ export default function LienRemovalPage() {
             </section>
 
             <section id="faqs" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 Frequently Asked Questions
-              </h2>
+              </h3>
               <div className="space-y-4">
                 {jsonLd["@graph"].find((item: any) => item["@type"] === "FAQPage")?.mainEntity?.map((faq: any, index: number) => (
                   <div key={index} className="bg-white border border-[#DEDEDE] rounded-xl p-6 hover:shadow-md transition-shadow">
-                    <h3 className="text-xl font-bold text-[#2E2E2E] mb-3">{faq.name}</h3>
+                    <h4 className="text-xl font-bold text-[#2E2E2E] mb-3">{faq.name}</h4>
                     <p className="text-gray-700 leading-relaxed">{faq.acceptedAnswer.text}</p>
                   </div>
                 ))}
@@ -448,7 +448,7 @@ export default function LienRemovalPage() {
 
             <div className="bg-[#2E2E2E] text-white p-12 rounded-[40px] text-center mt-24 relative overflow-hidden group">
               <div className="absolute inset-0 bg-[#1F5EFF] opacity-0 group-hover:opacity-5 transition-opacity"></div>
-              <h3 className="text-3xl font-black mb-6 relative z-10">Don't Let the Bank Control Your Property</h3>
+              <h4 className="text-3xl font-black mb-6 relative z-10">Don't Let the Bank Control Your Property</h4>
               <p className="text-xl opacity-90 mb-8 relative z-10 max-w-2xl mx-auto">
                 Closed your loan but the bank's 'Lien' is still marked on your property or car? Let our legal experts force the bank to issue your NOC and clear the lien immediately.
               </p>

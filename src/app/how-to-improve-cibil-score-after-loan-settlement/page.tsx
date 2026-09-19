@@ -292,7 +292,7 @@ export default function ImproveCibilAfterSettlementPage() {
                         </section>
 
                         <section id="understanding-settlement" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">What Exactly Happens During a Loan Settlement?</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">What Exactly Happens During a Loan Settlement?</h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 A loan settlement occurs when a borrower is unable to pay the full outstanding amount and the lender agrees to accept a smaller, one-time payment to close the account. This usually happens after the loan has been overdue for more than 90 to 180 days.
                             </p>
@@ -305,25 +305,25 @@ export default function ImproveCibilAfterSettlementPage() {
                         </section>
 
                         <section id="technical-impact" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">The Technical Impact of Settlement on Your CIBIL Score</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">The Technical Impact of Settlement on Your CIBIL Score</h3>
                             <p className="text-lg leading-relaxed mb-8">
                                 Understanding how CIBIL calculates your score is the first step in fixing it. The moment an account is marked as settled, several things happen simultaneously:
                             </p>
                             <div className="space-y-6 mb-10">
                                 <div className="p-8 bg-gray-50 border-l-8 border-[#1F5EFF] rounded-r-2xl shadow-sm">
-                                    <h3 className="font-bold text-2xl mb-4 text-[#2E2E2E]">Score Drop</h3>
+                                    <h4 className="font-bold text-2xl mb-4 text-[#2E2E2E]">Score Drop</h4>
                                     <p className="text-base text-gray-700 leading-relaxed mb-4">
                                         Your score can drop by 70 to 150 points instantly. This happens because the "unpaid" portion of the loan is still considered as a failure to repay. Even if the amount was small, the damage to the score is significant.
                                     </p>
                                 </div>
                                 <div className="p-8 bg-gray-50 border-l-8 border-[#1F5EFF] rounded-r-2xl shadow-sm">
-                                    <h4 className="font-bold text-2xl mb-4 text-[#2E2E2E]">Negative Remark Visibility</h4>
+                                    <h5 className="font-bold text-2xl mb-4 text-[#2E2E2E]">Negative Remark Visibility</h5>
                                     <p className="text-base text-gray-700 leading-relaxed mb-4">
                                         The "Settled" remark stays in your history for seven years. Even if your score starts to rise after two or three years, a manual underwriter at a bank will still see that remark and might reject your application.
                                     </p>
                                 </div>
                                 <div className="p-8 bg-gray-50 border-l-8 border-[#1F5EFF] rounded-r-2xl shadow-sm">
-                                    <h4 className="font-bold text-2xl mb-4 text-[#2E2E2E]">Inquiry Sensitivity</h4>
+                                    <h5 className="font-bold text-2xl mb-4 text-[#2E2E2E]">Inquiry Sensitivity</h5>
                                     <p className="text-base text-gray-700 leading-relaxed mb-4">
                                         After a settlement, if you apply for multiple new loans to test the waters, each rejection creates a "hard inquiry". Since your score is already low, these inquiries pull it down even further, creating a downward spiral.
                                     </p>
@@ -332,24 +332,24 @@ export default function ImproveCibilAfterSettlementPage() {
                         </section>
 
                         <section id="post-settlement-verification" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">Crucial Post-Settlement Verification Steps</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">Crucial Post-Settlement Verification Steps</h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 Do not take the bank's word for it. Errors are extremely common in credit reporting. You must verify that the settlement was reported correctly. Sometimes, banks forget to update the status, and it continues to show as "Default" or "Overdue", which is far worse than "Settled".
                             </p>
                             <div className="grid md:grid-cols-2 gap-8 mb-10">
                                 <div className="p-6 bg-white border border-[#DEDEDE] rounded-xl">
-                                    <h3 className="font-bold text-[#1F5EFF] mb-3">Obtain the NOC</h3>
+                                    <h4 className="font-bold text-[#1F5EFF] mb-3">Obtain the NOC</h4>
                                     <p className="text-sm">Ensure you have a physical and digital copy of the No Objection Certificate (NOC) or No Dues Certificate from the lender. This document must clearly state that the account is settled and no further dues are pending. This is your primary shield if there are any future disputes.</p>
                                 </div>
                                 <div className="p-6 bg-white border border-[#DEDEDE] rounded-xl">
-                                    <h4 className="font-bold text-[#1F5EFF] mb-3">Check CIBIL After 60 Days</h4>
+                                    <h5 className="font-bold text-[#1F5EFF] mb-3">Check CIBIL After 60 Days</h5>
                                     <p className="text-sm">It takes about 45 to 60 days for the bank to report the update to the bureau. Download your fresh CIBIL report and ensure the "Current Balance" for that account is showing as Zero. If it shows any amount, you must raise a dispute immediately.</p>
                                 </div>
                             </div>
                         </section>
 
                         <section id="converting-status" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">Converting 'Settled' to 'Closed': The Golden Strategy</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">Converting 'Settled' to 'Closed': The Golden Strategy</h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 If you want to get a high-value loan like a home loan within the next few years, the "Settled" remark is your biggest enemy. There is only one way to truly erase it: pay the difference.
                             </p>
@@ -357,7 +357,7 @@ export default function ImproveCibilAfterSettlementPage() {
                                 You can approach the lender even years after the settlement and offer to pay the remaining amount that was waived off during the settlement. This is often just the interest and penalties. Once you pay the full amount, the bank is legally obligated to update the status from "Settled" to "Closed".
                             </p>
                             <div className="bg-blue-50 p-8 rounded-xl border border-blue-200 my-8">
-                                <h3 className="font-bold text-blue-900 mb-4 text-xl">The Process of Status Conversion</h3>
+                                <h4 className="font-bold text-blue-900 mb-4 text-xl">The Process of Status Conversion</h4>
                                 <p className="text-base text-blue-800 leading-relaxed mb-4">
                                     Write a formal letter to the bank's nodal officer expressing your desire to "close" the account by paying the settled difference. Once they provide the updated amount, make the payment and demand a "No Dues Certificate" for a "Closed" account.
                                 </p>
@@ -368,7 +368,7 @@ export default function ImproveCibilAfterSettlementPage() {
                         </section>
 
                         <section id="secured-credit-cards" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">Secured Credit Cards: The Foundation of Rebuilding</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">Secured Credit Cards: The Foundation of Rebuilding</h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 After a settlement, no bank will give you a standard credit card. However, you can easily get a secured credit card. This is a card issued against a Fixed Deposit (FD).
                             </p>
@@ -395,7 +395,7 @@ export default function ImproveCibilAfterSettlementPage() {
                         </section>
 
                         <section id="micro-loans" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">Micro-Loans and Consumer Durable Credit Strategy</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">Micro-Loans and Consumer Durable Credit Strategy</h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 Another effective way to add positive data points is through small consumer durable loans. When you buy a smartphone, a washing machine, or a laptop on EMI at a retail store, the loan is usually provided by an NBFC like Bajaj Finance or HDFC.
                             </p>
@@ -405,7 +405,7 @@ export default function ImproveCibilAfterSettlementPage() {
                         </section>
 
                         <section id="credit-utilization" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">The Science of Credit Utilization Ratio</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">The Science of Credit Utilization Ratio</h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 Your Credit Utilization Ratio (CUR) is the percentage of your total available credit that you are currently using. If you have a total limit of ₹1 Lakh across all cards and you use ₹80,000, your CUR is 80%.
                             </p>
@@ -418,7 +418,7 @@ export default function ImproveCibilAfterSettlementPage() {
                         </section>
 
                         <section id="credit-mix" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">Building a Diverse and Healthy Credit Mix</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">Building a Diverse and Healthy Credit Mix</h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 CIBIL likes to see that you can handle different types of credit. A "credit mix" consists of secured loans (like home loans, car loans, or gold loans) and unsecured loans (like personal loans and credit cards).
                             </p>
@@ -428,7 +428,7 @@ export default function ImproveCibilAfterSettlementPage() {
                         </section>
 
                         <section id="errors-to-avoid" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">Common Errors to Avoid During Credit Recovery</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">Common Errors to Avoid During Credit Recovery</h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 Many people make mistakes that unintentionally keep their scores low even while they are trying to fix them. Avoid these common pitfalls:
                             </p>
@@ -463,7 +463,7 @@ export default function ImproveCibilAfterSettlementPage() {
                         </section>
 
                         <section id="professional-help" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">When to Seek Professional Credit Assistance?</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">When to Seek Professional Credit Assistance?</h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 Rebuilding credit can be a complex and lonely process. Sometimes, the bank refuses to update your status even after you have paid the dues. Or perhaps you are finding it difficult to negotiate a "Settled to Closed" conversion.
                             </p>
@@ -473,7 +473,7 @@ export default function ImproveCibilAfterSettlementPage() {
                         </section>
 
                         <section id="future-outlook" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">Future Outlook: Credit Scoring in 2026</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">Future Outlook: Credit Scoring in 2026</h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 The world of credit scoring is evolving. By 2026, lenders are increasingly using alternative data such as your utility bill payment history, rent payments, and even your digital transaction patterns to assess creditworthiness.
                             </p>
@@ -483,7 +483,7 @@ export default function ImproveCibilAfterSettlementPage() {
                         </section>
 
                         <section id="recovery-timeline" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">Step-by-Step Credit Recovery Timeline: What to Expect</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">Step-by-Step Credit Recovery Timeline: What to Expect</h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 Rebuilding your credit is a marathon, not a sprint. Knowing what to expect at each stage can help you stay motivated. Here is a realistic timeline of your recovery process after a loan settlement.
                             </p>
@@ -491,7 +491,7 @@ export default function ImproveCibilAfterSettlementPage() {
                                 <div className="flex gap-6 items-start">
                                     <div className="w-12 h-12 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center font-bold shrink-0 mt-1">1</div>
                                     <div>
-                                        <h3 className="text-xl font-bold mb-2">Month 1 to 2: The Cleanup Phase</h3>
+                                        <h4 className="text-xl font-bold mb-2">Month 1 to 2: The Cleanup Phase</h4>
                                         <p className="text-gray-600 leading-relaxed">
                                             This is when you ensure the bank has reported the settlement correctly. You should have your NOC in hand and check CIBIL at the end of Month 2. If you find any discrepancies, this is the time to raise disputes. Do not apply for any new credit during these 60 days. Your focus should be on stabilizing your existing finances and ensuring no other payments are missed.
                                         </p>
@@ -500,7 +500,7 @@ export default function ImproveCibilAfterSettlementPage() {
                                 <div className="flex gap-6 items-start">
                                     <div className="w-12 h-12 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center font-bold shrink-0 mt-1">2</div>
                                     <div>
-                                        <h4 className="text-xl font-bold mb-2">Month 3 to 6: The Foundation Phase</h4>
+                                        <h5 className="text-xl font-bold mb-2">Month 3 to 6: The Foundation Phase</h5>
                                         <p className="text-gray-600 leading-relaxed">
                                             By Month 3, the settlement shock should have settled. Apply for a secured credit card against a fixed deposit. Start with a small amount that you are comfortable with. Use this card for small transactions and pay the bill in full. By Month 6, you will see your score stop falling and start to stabilize or even tick up by a few points.
                                         </p>
@@ -509,7 +509,7 @@ export default function ImproveCibilAfterSettlementPage() {
                                 <div className="flex gap-6 items-start">
                                     <div className="w-12 h-12 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center font-bold shrink-0 mt-1">3</div>
                                     <div>
-                                        <h4 className="text-xl font-bold mb-2">Month 7 to 12: The Momentum Phase</h4>
+                                        <h5 className="text-xl font-bold mb-2">Month 7 to 12: The Momentum Phase</h5>
                                         <p className="text-gray-600 leading-relaxed">
                                             Continue your perfect repayment record with the secured card. If you need any home appliances, this is a good time to take a small consumer durable loan (if eligible). The combination of a credit card and a small installment loan creates a healthy credit mix. By the end of the first year, your score should be significantly higher than it was immediately after the settlement.
                                         </p>
@@ -518,7 +518,7 @@ export default function ImproveCibilAfterSettlementPage() {
                                 <div className="flex gap-6 items-start">
                                     <div className="w-12 h-12 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center font-bold shrink-0 mt-1">4</div>
                                     <div>
-                                        <h4 className="text-xl font-bold mb-2">Month 13 to 24: The Graduation Phase</h4>
+                                        <h5 className="text-xl font-bold mb-2">Month 13 to 24: The Graduation Phase</h5>
                                         <p className="text-gray-600 leading-relaxed">
                                             After a year of perfect history, you can try applying for an unsecured credit card with a small limit, preferably from a bank where you maintain a savings account. Once you get an unsecured card, keep your secured card active for some time to maintain the age of your credit history. By the end of Month 24, most borrowers who follow this path find themselves with a score above 720, making them eligible for many prime loan products.
                                         </p>
@@ -528,7 +528,7 @@ export default function ImproveCibilAfterSettlementPage() {
                         </section>
 
                         <section id="success-stories" className="scroll-mt-32 mb-16 text-center">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Credit Recovery Success Stories</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Credit Recovery Success Stories</h3>
                             <div className="grid md:grid-cols-2 gap-10 not-prose text-left">
                                 {[
                                     {
@@ -566,7 +566,7 @@ export default function ImproveCibilAfterSettlementPage() {
                                         <div className="flex items-center mb-4">
                                             <div className="w-10 h-10 rounded-full bg-blue-100 flex items-center justify-center font-bold text-blue-600 mr-3">{review.name.split(' ')[0][0]}</div>
                                             <div>
-                                                <h3 className="font-bold text-[#2E2E2E]">{review.name}</h3>
+                                                <h4 className="font-bold text-[#2E2E2E]">{review.name}</h4>
                                                 <p className="text-xs text-gray-400">{review.loc}</p>
                                             </div>
                                             <div className="ml-auto text-yellow-400 text-sm">★★★★★</div>
@@ -581,7 +581,7 @@ export default function ImproveCibilAfterSettlementPage() {
                         </section>
 
                         <section id="faqs" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Frequently Asked Questions</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Frequently Asked Questions</h3>
                             <div className="space-y-6 not-prose">
                                 {[
                                     { q: "How long does it take for a CIBIL score to improve after settlement?", a: "You will start seeing small improvements in 6 months if you use a secured card. Significant recovery usually takes 18 to 24 months of perfect repayment history." },
@@ -614,7 +614,7 @@ export default function ImproveCibilAfterSettlementPage() {
                         </section>
 
                         <div className="mt-16 p-8 bg-[#1F5EFF] rounded-3xl text-white text-center">
-                            <h2 className="text-3xl font-black mb-6">Start Your Credit Recovery Today</h2>
+                            <h3 className="text-3xl font-black mb-6">Start Your Credit Recovery Today</h3>
                             <p className="text-xl mb-8 opacity-90">
                                 Don't let a past settlement dictate your future. Our experts can help you rebuild your credit score and get your financial life back on track.
                             </p>

@@ -4,7 +4,7 @@ import Link from 'next/link';
 import TableOfContents from '@/components/TableOfContents';
 
 export const metadata: Metadata = {
-  title: "RBI IRACP Norms & Loan Classification | SMA & NPA Meaning",
+  title: "RBI IRACP Norms: Loan Classification, SMA & NPA Meaning",
   description: "Decode the RBI's complex IRACP norms. Learn what SMA-0, SMA-1, SMA-2, and NPA mean, and understand exactly how banks classify your financial stress level.",
   alternates: { canonical: "https://www.settleloans.in/rbi-iracp-norms-loan-classification" }
 };
@@ -126,10 +126,10 @@ export default function RbiIracpNormsPage() {
 
             {/* Blue Important Box */}
             <section id="sma-classification" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">Understanding SMA Classification</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">Understanding SMA Classification</h3>
               
               <div className="bg-blue-50 border-l-8 border-[#1F5EFF] p-8 rounded-r-2xl mb-8">
-                <h3 className="text-xl font-black text-[#1F5EFF] mb-4">Special Mention Accounts (SMA)</h3>
+                <h4 className="text-xl font-black text-[#1F5EFF] mb-4">Special Mention Accounts (SMA)</h4>
                 <p className="text-lg leading-relaxed mb-6 text-gray-800">
                   Before a loan becomes an NPA, the RBI requires banks to identify incipient stress by categorizing overdue accounts into three SMA sub-categories:
                 </p>
@@ -152,26 +152,26 @@ export default function RbiIracpNormsPage() {
               {/* 4-Grid Info Boxes */}
               <div className="grid md:grid-cols-2 gap-6 my-8">
                 <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
-                  <h3 className="font-black text-[#1F5EFF] text-lg mb-3">Early Warning Signal</h3>
+                  <h4 className="font-black text-[#1F5EFF] text-lg mb-3">Early Warning Signal</h4>
                   <p className="text-gray-700">SMA classification acts as an early warning signal for banks to initiate corrective action and recover the dues before it turns into a bad loan.</p>
                 </div>
                 <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
-                  <h3 className="font-black text-[#1F5EFF] text-lg mb-3">Credit Score Impact</h3>
+                  <h4 className="font-black text-[#1F5EFF] text-lg mb-3">Credit Score Impact</h4>
                   <p className="text-gray-700">Your credit score starts taking a hit the moment you slip into SMA-0. Banks aggressively report these days-past-due (DPD) to bureaus like CIBIL.</p>
                 </div>
                 <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
-                  <h3 className="font-black text-[#1F5EFF] text-lg mb-3">Constant Follow-ups</h3>
+                  <h4 className="font-black text-[#1F5EFF] text-lg mb-3">Constant Follow-ups</h4>
                   <p className="text-gray-700">During the SMA phase, expect continuous reminder calls, emails, and SMS from the bank's internal collections team.</p>
                 </div>
                 <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
-                  <h3 className="font-black text-[#1F5EFF] text-lg mb-3">Reversibility</h3>
+                  <h4 className="font-black text-[#1F5EFF] text-lg mb-3">Reversibility</h4>
                   <p className="text-gray-700">You can reverse the SMA classification instantly by paying the total overdue amount, returning your account to the 'Standard' category.</p>
                 </div>
               </div>
             </section>
 
             <section id="npa-meaning" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">What Does NPA Mean?</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">What Does NPA Mean?</h3>
               
               <div className="bg-gray-50 p-8 rounded-2xl mb-8 border border-gray-200">
                 <p className="text-lg leading-relaxed mb-6 text-gray-800">
@@ -185,7 +185,7 @@ export default function RbiIracpNormsPage() {
 
               {/* Red Warning Box */}
               <div className="bg-red-50 p-6 rounded-xl border border-red-100 mb-8">
-                <h3 className="text-xl font-black text-red-700 mb-3">Crucial NPA Consequence</h3>
+                <h4 className="text-xl font-black text-red-700 mb-3">Crucial NPA Consequence</h4>
                 <p className="text-red-900 text-lg">
                   Once your account crosses the 90-day mark and becomes an NPA, banks may initiate aggressive legal action. For secured loans, they can invoke the SARFAESI Act to auction your property. For unsecured loans, they may file civil suits or arbitration cases.
                 </p>
@@ -193,14 +193,14 @@ export default function RbiIracpNormsPage() {
             </section>
 
             <section id="consequences" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">The Path of Financial Stress</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">The Path of Financial Stress</h3>
               
               {/* Numbered Steps */}
               <div className="space-y-12">
                 <div className="flex gap-6">
                   <div className="flex-shrink-0 w-12 h-12 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center font-black text-xl shadow-lg">1</div>
                   <div>
-                    <h3 className="text-xl font-black text-[#2E2E2E] mb-2">SMA-0 (1-30 Days Overdue)</h3>
+                    <h4 className="text-xl font-black text-[#2E2E2E] mb-2">SMA-0 (1-30 Days Overdue)</h4>
                     <p className="text-lg text-gray-700">Initial missed payment. Minor penalty charges apply. Bank sends polite reminders via SMS and automated calls.</p>
                   </div>
                 </div>
@@ -208,7 +208,7 @@ export default function RbiIracpNormsPage() {
                 <div className="flex gap-6">
                   <div className="flex-shrink-0 w-12 h-12 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center font-black text-xl shadow-lg">2</div>
                   <div>
-                    <h3 className="text-xl font-black text-[#2E2E2E] mb-2">SMA-1 (31-60 Days Overdue)</h3>
+                    <h4 className="text-xl font-black text-[#2E2E2E] mb-2">SMA-1 (31-60 Days Overdue)</h4>
                     <p className="text-lg text-gray-700">Increased pressure from bank recovery teams. Severe CIBIL score damage begins. Legal notices demanding payment may be dispatched.</p>
                   </div>
                 </div>
@@ -216,7 +216,7 @@ export default function RbiIracpNormsPage() {
                 <div className="flex gap-6">
                   <div className="flex-shrink-0 w-12 h-12 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center font-black text-xl shadow-lg">3</div>
                   <div>
-                    <h3 className="text-xl font-black text-[#2E2E2E] mb-2">SMA-2 (61-90 Days Overdue)</h3>
+                    <h4 className="text-xl font-black text-[#2E2E2E] mb-2">SMA-2 (61-90 Days Overdue)</h4>
                     <p className="text-lg text-gray-700">Critical stage. Bank may send recovery agents to your home/office. Final opportunity to avoid NPA classification and severe legal repercussions.</p>
                   </div>
                 </div>
@@ -224,7 +224,7 @@ export default function RbiIracpNormsPage() {
                 <div className="flex gap-6">
                   <div className="flex-shrink-0 w-12 h-12 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center font-black text-xl shadow-lg">4</div>
                   <div>
-                    <h3 className="text-xl font-black text-[#2E2E2E] mb-2">NPA (90+ Days Overdue)</h3>
+                    <h4 className="text-xl font-black text-[#2E2E2E] mb-2">NPA (90+ Days Overdue)</h4>
                     <p className="text-lg text-gray-700">Loan is officially "bad". Bank can now legally seize collateral, file court cases, or sell the debt to an Asset Reconstruction Company (ARC).</p>
                   </div>
                 </div>
@@ -233,7 +233,7 @@ export default function RbiIracpNormsPage() {
 
             {/* Review Cards */}
             <section className="mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">Client Success Stories</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">Client Success Stories</h3>
               <div className="grid md:grid-cols-2 gap-6">
                 <div className="bg-white p-8 rounded-[30px] border border-[#DEDEDE] shadow-sm hover:shadow-xl group transition-all">
                   <div className="flex items-center gap-4 mb-6">
@@ -275,7 +275,7 @@ export default function RbiIracpNormsPage() {
 
             {/* FAQs */}
             <section id="faqs" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">Frequently Asked Questions</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">Frequently Asked Questions</h3>
               <div className="space-y-4">
                 <details name="faq-accordion" className="bg-white border border-[#DEDEDE] rounded-xl p-6 hover:shadow-md group cursor-pointer transition-shadow">
                   <summary className="font-bold text-lg text-[#2E2E2E] list-none flex justify-between items-center">
@@ -323,7 +323,7 @@ export default function RbiIracpNormsPage() {
             <div className="bg-[#2E2E2E] text-white p-12 rounded-[40px] text-center mt-24 relative overflow-hidden group">
               <div className="absolute inset-0 bg-[#1F5EFF] opacity-0 group-hover:opacity-5 transition-opacity"></div>
               <div className="relative z-10">
-                <h3 className="text-3xl font-black mb-4">Stuck in SMA or Facing an NPA?</h3>
+                <h4 className="text-3xl font-black mb-4">Stuck in SMA or Facing an NPA?</h4>
                 <p className="text-xl mb-8 text-white/80">Don&apos;t wait for aggressive recovery or property auction. Our legal and financial experts can help negotiate settlements and restructures.</p>
                 <Link href="#consultation" className="inline-block bg-[#1F5EFF] text-white font-bold py-4 px-10 rounded-xl hover:scale-105 transition-transform shadow-lg text-lg">
                   Request Free Case Evaluation

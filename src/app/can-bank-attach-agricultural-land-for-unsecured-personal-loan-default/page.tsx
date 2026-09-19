@@ -260,15 +260,15 @@ export default function AgriculturalLandAttachmentPage() {
             </section>
 
             <section id="section-60-cpc" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 The Legal Shield: Section 60 of the CPC
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 Even if a bank goes to a civil court and wins a legal decree against you for defaulting on a personal loan, the court's power to seize your property is severely restricted by <strong>Section 60 of the Civil Procedure Code (CPC), 1908</strong>.
               </p>
 
               <div className="bg-blue-50 border-l-8 border-[#1F5EFF] p-8 rounded-r-2xl mb-8">
-                <h3 className="text-xl font-black text-[#1F5EFF] mb-4">Absolute Immunity for Farmers</h3>
+                <h4 className="text-xl font-black text-[#1F5EFF] mb-4">Absolute Immunity for Farmers</h4>
                 <p className="text-blue-900 text-lg leading-relaxed mb-4">
                   Section 60(1) lays down specific properties that are completely immune from attachment and sale in execution of a court decree. The primary objective is to ensure that a debtor is not rendered destitute and deprived of their basic means of earning a living.
                 </p>
@@ -279,34 +279,34 @@ export default function AgriculturalLandAttachmentPage() {
             </section>
 
             <section id="what-is-protected" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 What Exactly Cannot Be Attached?
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 Under Section 60 of the CPC, the following assets belonging to an agriculturist are strictly protected from bank seizure for unsecured debts:
               </p>
 
               <div className="grid md:grid-cols-2 gap-6 my-8">
                 <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
-                  <h3 className="font-black text-[#1F5EFF] text-lg mb-3">Agricultural Land</h3>
+                  <h4 className="font-black text-[#1F5EFF] text-lg mb-3">Agricultural Land</h4>
                   <p className="text-gray-700 leading-relaxed">
                     Any land used for agricultural purposes, along with houses or buildings occupied by the agriculturist necessary for tending to the farm, cannot be attached.
                   </p>
                 </div>
                 <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
-                  <h4 className="font-black text-[#1F5EFF] text-lg mb-3">Implements of Husbandry</h4>
+                  <h5 className="font-black text-[#1F5EFF] text-lg mb-3">Implements of Husbandry</h5>
                   <p className="text-gray-700 leading-relaxed">
                     Farming tools, tractors, harvesters, plows, and any machinery directly necessary for the farmer to cultivate the land and earn a livelihood are completely exempt.
                   </p>
                 </div>
                 <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
-                  <h4 className="font-black text-[#1F5EFF] text-lg mb-3">Cattle & Livestock</h4>
+                  <h5 className="font-black text-[#1F5EFF] text-lg mb-3">Cattle & Livestock</h5>
                   <p className="text-gray-700 leading-relaxed">
                     Cows, buffaloes, oxen, and other livestock necessary for farming operations or sustaining the farmer's family cannot be seized by recovery agents.
                   </p>
                 </div>
                 <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
-                  <h4 className="font-black text-[#1F5EFF] text-lg mb-3">Seeds & Crops</h4>
+                  <h5 className="font-black text-[#1F5EFF] text-lg mb-3">Seeds & Crops</h5>
                   <p className="text-gray-700 leading-relaxed">
                     Seed grain and a portion of the agricultural produce deemed necessary by the court to maintain the farmer and their family until the next harvest are protected.
                   </p>
@@ -315,15 +315,15 @@ export default function AgriculturalLandAttachmentPage() {
             </section>
 
             <section id="secured-vs-unsecured" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 The Exception: Secured vs. Unsecured Loans
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 The protections of Section 60 CPC are incredibly strong, but they primarily apply to <strong>unsecured loans</strong> (where no collateral was pledged) or when executing a general money decree.
               </p>
               
               <div className="bg-gray-50 p-8 rounded-2xl mb-8 border border-gray-200">
-                <h3 className="text-xl font-bold mb-4 text-[#2E2E2E]">What if the land is formally mortgaged?</h3>
+                <h4 className="text-xl font-bold mb-4 text-[#2E2E2E]">What if the land is formally mortgaged?</h4>
                 <p className="text-gray-800 text-lg leading-relaxed mb-4">
                   If you took a specific agricultural loan (like a Kisan Credit Card or a tractor loan) and legally <strong>mortgaged your agricultural land</strong> as security by depositing title deeds, the situation changes. 
                 </p>
@@ -336,9 +336,9 @@ export default function AgriculturalLandAttachmentPage() {
             </section>
 
             <section id="sarfaesi-exemption" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 The SARFAESI Act Exemption
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 Banks love to use the SARFAESI Act, 2002, to seize properties quickly without going to court. However, the law provides a massive shield for farmers here as well.
               </p>
@@ -353,11 +353,11 @@ export default function AgriculturalLandAttachmentPage() {
             </section>
 
             <section id="illegal-bank-tactics" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 Illegal Bank Harassment Tactics
-              </h2>
+              </h3>
               <div className="bg-red-50 p-6 rounded-xl border border-red-100 mb-8">
-                <h3 className="text-xl font-black text-red-700 mb-3">Recognize Extortion</h3>
+                <h4 className="text-xl font-black text-red-700 mb-3">Recognize Extortion</h4>
                 <p className="text-red-900 leading-relaxed mb-4">
                   Because banks know they cannot legally attach agricultural land for a personal loan, they rely purely on intimidation. Recovery agents may:
                 </p>
@@ -373,9 +373,9 @@ export default function AgriculturalLandAttachmentPage() {
             </section>
 
             <section id="legal-remedies" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 Immediate Legal Remedies
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 If agents are threatening your agricultural property for a personal loan, do not panic. Take these steps to protect your livelihood:
               </p>
@@ -384,7 +384,7 @@ export default function AgriculturalLandAttachmentPage() {
                 <div className="flex gap-6">
                   <div className="flex-shrink-0 w-12 h-12 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center font-black text-xl shadow-lg">1</div>
                   <div>
-                    <h3 className="text-2xl font-bold text-[#2E2E2E] mb-2">Send a Section 60 Legal Notice</h3>
+                    <h4 className="text-2xl font-bold text-[#2E2E2E] mb-2">Send a Section 60 Legal Notice</h4>
                     <p className="text-lg text-gray-700 leading-relaxed">
                       Have a lawyer send a strongly worded legal notice to the bank branch and their legal department, explicitly stating your status as an agriculturist and citing the protections under Section 60 CPC. This usually forces the legal department to call off the rogue recovery agents immediately.
                     </p>
@@ -394,7 +394,7 @@ export default function AgriculturalLandAttachmentPage() {
                 <div className="flex gap-6">
                   <div className="flex-shrink-0 w-12 h-12 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center font-black text-xl shadow-lg">2</div>
                   <div>
-                    <h3 className="text-2xl font-bold text-[#2E2E2E] mb-2">File a Police Complaint</h3>
+                    <h4 className="text-2xl font-bold text-[#2E2E2E] mb-2">File a Police Complaint</h4>
                     <p className="text-lg text-gray-700 leading-relaxed">
                       If agents try to physically take your tractor, cattle, or enter your farm forcefully, call the local police. File an FIR for criminal trespass (Section 441 IPC), extortion (Section 383 IPC), and criminal intimidation (Section 503 IPC).
                     </p>
@@ -404,7 +404,7 @@ export default function AgriculturalLandAttachmentPage() {
                 <div className="flex gap-6">
                   <div className="flex-shrink-0 w-12 h-12 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center font-black text-xl shadow-lg">3</div>
                   <div>
-                    <h3 className="text-2xl font-bold text-[#2E2E2E] mb-2">Seek a Civil Injunction</h3>
+                    <h4 className="text-2xl font-bold text-[#2E2E2E] mb-2">Seek a Civil Injunction</h4>
                     <p className="text-lg text-gray-700 leading-relaxed">
                       If the harassment is severe, your lawyer can file a suit for injunction in the local civil court, securing an order that strictly prohibits the bank and its agents from interfering with your possession of the agricultural land and implements.
                     </p>
@@ -414,9 +414,9 @@ export default function AgriculturalLandAttachmentPage() {
             </section>
 
             <section id="success-stories" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 Client Success Stories
-              </h2>
+              </h3>
               <div className="grid md:grid-cols-2 gap-6 my-8">
                 <div className="bg-white p-8 rounded-[30px] border border-[#DEDEDE] shadow-sm hover:shadow-xl group transition-all">
                   <div className="flex items-center gap-4 mb-6">
@@ -424,7 +424,7 @@ export default function AgriculturalLandAttachmentPage() {
                       BS
                     </div>
                     <div>
-                      <h3 className="font-bold text-gray-900">Balram S.</h3>
+                      <h4 className="font-bold text-gray-900">Balram S.</h4>
                       <div className="flex text-yellow-400">
                         <svg className="w-4 h-4 fill-current" viewBox="0 0 20 20"><path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z"/></svg>
                         <svg className="w-4 h-4 fill-current" viewBox="0 0 20 20"><path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z"/></svg>
@@ -449,7 +449,7 @@ export default function AgriculturalLandAttachmentPage() {
                       KP
                     </div>
                     <div>
-                      <h4 className="font-bold text-gray-900">Kishan P.</h4>
+                      <h5 className="font-bold text-gray-900">Kishan P.</h5>
                       <div className="flex text-yellow-400">
                         <svg className="w-4 h-4 fill-current" viewBox="0 0 20 20"><path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z"/></svg>
                         <svg className="w-4 h-4 fill-current" viewBox="0 0 20 20"><path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z"/></svg>
@@ -471,13 +471,13 @@ export default function AgriculturalLandAttachmentPage() {
             </section>
 
             <section id="faqs" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 Frequently Asked Questions
-              </h2>
+              </h3>
               <div className="space-y-4">
                 {(jsonLd["@graph"][4] as any)?.mainEntity?.map((faq: any, idx: number) => (
                   <div key={idx} className="bg-white border border-[#DEDEDE] rounded-xl p-6 hover:shadow-md transition-shadow">
-                    <h3 className="font-bold text-[#2E2E2E] text-lg mb-2">{faq.name}</h3>
+                    <h4 className="font-bold text-[#2E2E2E] text-lg mb-2">{faq.name}</h4>
                     <p className="text-gray-600 leading-relaxed">{faq.acceptedAnswer.text}</p>
                   </div>
                 ))}
@@ -487,7 +487,7 @@ export default function AgriculturalLandAttachmentPage() {
             {/* Lead Gen Hook */}
             <div className="bg-[#2E2E2E] text-white p-12 rounded-[40px] text-center mt-24 relative overflow-hidden group">
               <div className="absolute inset-0 bg-[#1F5EFF] opacity-0 group-hover:opacity-5 transition-opacity"></div>
-              <h3 className="text-3xl font-black mb-6 relative z-10">Protect Your Ancestral Land</h3>
+              <h4 className="text-3xl font-black mb-6 relative z-10">Protect Your Ancestral Land</h4>
               <p className="text-xl opacity-90 mb-8 relative z-10 max-w-2xl mx-auto">
                 Is the bank threatening to seize your family's agricultural land for a personal loan default? The law strictly forbids this. Protect your livelihood with our legal team.
               </p>

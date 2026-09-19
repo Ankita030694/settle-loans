@@ -576,7 +576,7 @@ export default function MobiKwikZipPayLaterSettlementPage() {
                 <Clock className="w-4 h-4" />
                 <span>2. Delinquency Lifecycle &amp; NBFC NPA Accounting</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">MobiKwik ZIP Delinquency Lifecycle</h2>
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">MobiKwik ZIP Delinquency Lifecycle</h3>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Under RBI IRACP norms and Ind AS 109 rules, NBFCs track overdue ZIP loans by Days Past Due (DPD). Knowing these stages helps you time your settlement talks for top principal discounts.
               </p>
@@ -647,7 +647,7 @@ export default function MobiKwikZipPayLaterSettlementPage() {
                 <Banknote className="w-4 h-4" />
                 <span>3. Stopping Predatory Late Fees &amp; Mandates</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">How to Eliminate Predatory Late Fees</h2>
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">How to Eliminate Predatory Late Fees</h3>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Late fees make defaulted BNPL balances grow fast. Under RBI Fair Lending Directives (Circular RBI/2023-24/53), lenders cannot add penal charges to principal. Penal charges must stay fair and reasonable.
               </p>
@@ -665,7 +665,7 @@ export default function MobiKwikZipPayLaterSettlementPage() {
                 <Calculator className="w-4 h-4" />
                 <span>4. OTS Haircut Policies &amp; Valuation Framework</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">MobiKwik ZIP One-Time Settlement (OTS) Policies</h2>
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">MobiKwik ZIP One-Time Settlement (OTS) Policies</h3>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Under RBI Master Directions (DOR.STR.REC.20/21.04.048/2023-24), NBFCs settle micro-loans through NPV recovery. Litigation costs on small loans are too high for lenders.
               </p>
@@ -688,7 +688,7 @@ export default function MobiKwikZipPayLaterSettlementPage() {
               </div>
 
               {/* Haircut Slabs Table */}
-              <h3 className="text-lg font-bold text-slate-900 mb-3">Realistic MobiKwik ZIP Settlement Haircut Slabs</h3>
+              <h4 className="text-lg font-bold text-slate-900 mb-3">Realistic MobiKwik ZIP Settlement Haircut Slabs</h4>
               <div className="overflow-x-auto my-4">
                 <table className="min-w-full bg-white">
                   <thead>
@@ -746,9 +746,9 @@ export default function MobiKwikZipPayLaterSettlementPage() {
                       <span className="text-[10px] font-black uppercase tracking-widest text-blue-300 block">
                         Legal Defense &amp; Action Blueprint.
                       </span>
-                      <h3 className="text-sm md:text-base font-black text-white leading-tight">
+                      <h4 className="text-sm md:text-base font-black text-white leading-tight">
                         MobiKwik ZIP Pay Later Debt Settlement &amp; OTS Blueprint
-                      </h3>
+                      </h4>
                     </div>
                   </div>
                   <a
@@ -795,7 +795,7 @@ export default function MobiKwikZipPayLaterSettlementPage() {
                 <ShieldAlert className="w-4 h-4" />
                 <span>5. Harassment Defense &amp; DPDP Protections</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Defending Against Aggressive Collection Tactics, WhatsApp</h2>
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Defending Against Aggressive Collection Tactics, WhatsApp</h3>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Defaulted accounts often go to third-party collection agencies. Some agents make non-stop calls. Some send fake WhatsApp notices. Others contact your family and coworkers.
               </p>
@@ -813,7 +813,7 @@ export default function MobiKwikZipPayLaterSettlementPage() {
                 <Layers className="w-4 h-4" />
                 <span>6. Step-by-Step MobiKwik ZIP Settlement</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Step-by-Step MobiKwik ZIP Settlement Roadmap</h2>
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Step-by-Step MobiKwik ZIP Settlement Roadmap</h3>
               <p className="text-slate-700 leading-relaxed mb-6 text-base md:text-lg">
                 Follow these six simple steps to settle your MobiKwik ZIP account safely:
               </p>
@@ -821,10 +821,10 @@ export default function MobiKwikZipPayLaterSettlementPage() {
               <div className="space-y-6">
                 {/* Phase 1 */}
                 <div className="p-6 rounded-2xl bg-white border border-slate-200 shadow-sm">
-                  <h3 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
+                  <h4 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
                     <span className="w-7 h-7 rounded-lg bg-blue-50 text-[#1F5EFF] font-black text-sm flex items-center justify-center border border-blue-200">1</span>
                     Credit Report Audit &amp; Partner NBFC Identification
-                  </h3>
+                  </h4>
                   <p className="text-slate-600 text-sm md:text-base leading-relaxed">
                     Check your CIBIL and Experian reports. Find the underwriting NBFC. Note down the exact borrowed amount and overdue days.
                   </p>
@@ -832,10 +832,10 @@ export default function MobiKwikZipPayLaterSettlementPage() {
 
                 {/* Phase 2 */}
                 <div className="p-6 rounded-2xl bg-white border border-slate-200 shadow-sm">
-                  <h3 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
+                  <h4 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
                     <span className="w-7 h-7 rounded-lg bg-blue-50 text-[#1F5EFF] font-black text-sm flex items-center justify-center border border-blue-200">2</span>
                     Revoking Digital Mandates &amp; Centralizing Communications
-                  </h3>
+                  </h4>
                   <p className="text-slate-600 text-sm md:text-base leading-relaxed">
                     Cancel UPI autopay and e-mandates in your banking app. This stops bounce fees. Ask the lender in writing to use only email.
                   </p>
@@ -843,10 +843,10 @@ export default function MobiKwikZipPayLaterSettlementPage() {
 
                 {/* Phase 3 */}
                 <div className="p-6 rounded-2xl bg-white border border-slate-200 shadow-sm">
-                  <h3 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
+                  <h4 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
                     <span className="w-7 h-7 rounded-lg bg-blue-50 text-[#1F5EFF] font-black text-sm flex items-center justify-center border border-blue-200">3</span>
                     Compiling Hardship Dossier &amp; Submitting Formal OTS Proposal
-                  </h3>
+                  </h4>
                   <p className="text-slate-600 text-sm md:text-base leading-relaxed">
                     Collect proof of hardship, such as medical bills or job loss letters. Submit a compromise proposal under RBI Master Directions. Propose 25% to 35% of principal.
                   </p>
@@ -854,10 +854,10 @@ export default function MobiKwikZipPayLaterSettlementPage() {
 
                 {/* Phase 4 */}
                 <div className="p-6 rounded-2xl bg-white border border-slate-200 shadow-sm">
-                  <h3 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
+                  <h4 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
                     <span className="w-7 h-7 rounded-lg bg-blue-50 text-[#1F5EFF] font-black text-sm flex items-center justify-center border border-blue-200">4</span>
                     Managing Counter-Demands &amp; Eliminating Late Charges
-                  </h3>
+                  </h4>
                   <p className="text-slate-600 text-sm md:text-base leading-relaxed">
                     Reject unfair counter-demands by citing RBI Fair Lending norms. Demand a 100% waiver of late fees. Negotiate a 40% to 60% principal discount.
                   </p>
@@ -865,10 +865,10 @@ export default function MobiKwikZipPayLaterSettlementPage() {
 
                 {/* Phase 5 */}
                 <div className="p-6 rounded-2xl bg-white border border-slate-200 shadow-sm">
-                  <h3 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
+                  <h4 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
                     <span className="w-7 h-7 rounded-lg bg-blue-50 text-[#1F5EFF] font-black text-sm flex items-center justify-center border border-blue-200">5</span>
                     Forensic Verification of the OTS Sanction Letter
-                  </h3>
+                  </h4>
                   <p className="text-slate-600 text-sm md:text-base leading-relaxed">
                     Check that the settlement letter is on official NBFC letterhead. Verify the loan number and terms before paying anything.
                   </p>
@@ -876,10 +876,10 @@ export default function MobiKwikZipPayLaterSettlementPage() {
 
                 {/* Phase 6 */}
                 <div className="p-6 rounded-2xl bg-white border border-slate-200 shadow-sm">
-                  <h3 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
+                  <h4 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
                     <span className="w-7 h-7 rounded-lg bg-blue-50 text-[#1F5EFF] font-black text-sm flex items-center justify-center border border-blue-200">6</span>
                     Official Account Remittance &amp; Securing the ₹0 No Dues Certificate
-                  </h3>
+                  </h4>
                   <p className="text-slate-600 text-sm md:text-base leading-relaxed">
                     Pay the settlement directly to the official NBFC loan account using NEFT or RTGS. Under RBI Circular RBI/2023-24/60, obtain your No Dues Certificate within 30 days.
                   </p>
@@ -893,7 +893,7 @@ export default function MobiKwikZipPayLaterSettlementPage() {
                 <Gavel className="w-4 h-4" />
                 <span>7. Legal Notices, Section 25 &amp; Lok Adalat</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Navigating MobiKwik Sec 25 PSSA Demands &amp; Lok Adalat</h2>
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Navigating MobiKwik Sec 25 PSSA Demands &amp; Lok Adalat</h3>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Borrowers may get demand notices under Section 25 of the Payment and Settlement Systems Act, 2007 (PSSA) for failed mandates. These are legal notices meant for conciliation.
               </p>
@@ -953,7 +953,7 @@ export default function MobiKwikZipPayLaterSettlementPage() {
                 <FileCheck className="w-4 h-4" />
                 <span>8. Sanction Letter Audit &amp; ₹0 NDC Mandate</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Forensic Verification of NBFC Settlement Letters</h2>
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Forensic Verification of NBFC Settlement Letters</h3>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Never pay money to personal UPI accounts. Always ask for an official sanction letter from the lending NBFC. It must show company details, loan account numbers, settlement amounts, and full debt release terms.
               </p>
@@ -968,7 +968,7 @@ export default function MobiKwikZipPayLaterSettlementPage() {
                 <TrendingUp className="w-4 h-4" />
                 <span>9. CIBIL Resolution &amp; Credit Rehabilitation</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">MobiKwik ZIP Post-Settlement CIBIL Score Trajectory</h2>
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">MobiKwik ZIP Post-Settlement CIBIL Score Trajectory</h3>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Settling a MobiKwik ZIP loan updates your credit report to <strong>&apos;Settled&apos;</strong> with a balance of <strong>₹0</strong>. This stops monthly overdue flags and prevents further score drops.
               </p>
@@ -983,9 +983,9 @@ export default function MobiKwikZipPayLaterSettlementPage() {
                 <ShieldCheck className="w-4 h-4" />
                 <span>10. Legal Defense &amp; Representation</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 Why Distressed MobiKwik ZIP Borrowers Trust SettleLoans
-              </h2>
+              </h3>
               <p className="text-slate-700 leading-relaxed mb-6 text-base md:text-lg">
                 SettleLoans stops recovery calls with legal cease-and-desist notices. We remove 100% of unfair late fees under RBI rules. Our team negotiates 40% to 60% principal waivers and secures verified ₹0 No Dues Certificates.
               </p>
@@ -1002,7 +1002,7 @@ export default function MobiKwikZipPayLaterSettlementPage() {
                 <HelpCircle className="w-4 h-4" />
                 <span>11. Frequently Asked Questions</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">FAQs: MobiKwik ZIP Pay Later Settlement</h2>
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">FAQs: MobiKwik ZIP Pay Later Settlement</h3>
 
               <div className="space-y-4">
                 {faqs.map((faq, index) => (
@@ -1029,10 +1029,10 @@ export default function MobiKwikZipPayLaterSettlementPage() {
 
             {/* Regulatory References & Official Sources Strip */}
             <div className="bg-slate-50 border border-slate-200 rounded-2xl p-6 my-10">
-              <h3 className="text-base font-bold text-slate-900 mb-4 flex items-center gap-2">
+              <h4 className="text-base font-bold text-slate-900 mb-4 flex items-center gap-2">
                 <Landmark className="w-5 h-5 text-[#1F5EFF]" />
                 Official Regulatory References &amp; Statutory Circulars
-              </h3>
+              </h4>
               <ul className="space-y-3 text-xs text-slate-600">
                 <li className="flex items-start gap-2">
                   <ExternalLink className="w-4 h-4 text-[#1F5EFF] flex-shrink-0 mt-0.5" />
@@ -1094,10 +1094,10 @@ export default function MobiKwikZipPayLaterSettlementPage() {
 
             {/* Related Guides & Resources Strip (10 Topic Badges) */}
             <div className="bg-slate-50 border border-slate-200 rounded-2xl p-6 my-10">
-              <h3 className="text-base font-bold text-slate-900 mb-4 flex items-center gap-2">
+              <h4 className="text-base font-bold text-slate-900 mb-4 flex items-center gap-2">
                 <BookOpen className="w-5 h-5 text-[#1F5EFF]" />
                 Explore Related Digital Credit &amp; Debt Resolution Guides
-              </h3>
+              </h4>
               <div className="flex flex-wrap gap-2.5">
                 <Link
                   href="/app-loan-settlement"

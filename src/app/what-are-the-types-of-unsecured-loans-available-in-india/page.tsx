@@ -231,15 +231,15 @@ export default function TypesOfUnsecuredLoansPage() {
                         </section>
 
                         <section id="personal-loans" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                                 Personal Loans: The Flexible Choice
-                            </h2>
+                            </h3>
                             <p className="text-lg leading-relaxed mb-6 text-gray-700">
                                 A personal loan is the most straightforward and widely recognized type of unsecured loan. Lenders provide a lump sum amount that you repay over a fixed term in equated monthly installments (EMIs). 
                             </p>
                             
                             <div className="bg-blue-50 border-l-8 border-[#1F5EFF] p-8 rounded-r-2xl mb-8">
-                                <h3 className="text-xl font-black text-[#1F5EFF] mb-4">Key Features of Personal Loans</h3>
+                                <h4 className="text-xl font-black text-[#1F5EFF] mb-4">Key Features of Personal Loans</h4>
                                 <ul className="space-y-3">
                                     <li className="flex items-start">
                                         <div className="mt-1.5 w-2 h-2 rounded-full bg-[#1F5EFF] flex-shrink-0 mr-3"></div>
@@ -261,15 +261,15 @@ export default function TypesOfUnsecuredLoansPage() {
                         </section>
 
                         <section id="credit-cards" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                                 Credit Cards: The Revolving Credit Facility
-                            </h2>
+                            </h3>
                             <p className="text-lg leading-relaxed mb-6 text-gray-700">
                                 Credit cards act as a pre-approved revolving line of unsecured credit. You are given a credit limit, and you can borrow up to that limit as often as you like, provided you pay back the minimum due amount each month.
                             </p>
                             
                             <div className="bg-gray-50 p-8 rounded-2xl mb-8 border border-gray-200">
-                                <h3 className="text-xl font-bold text-gray-800 mb-4">How Credit Cards Work as Loans</h3>
+                                <h4 className="text-xl font-bold text-gray-800 mb-4">How Credit Cards Work as Loans</h4>
                                 <p className="text-gray-700 leading-relaxed mb-4">
                                     While primarily a payment tool, credit cards offer a 45-to-50 day interest-free period. If you clear the full balance by the due date, you pay zero interest. However, if you roll over the balance, credit cards become one of the most expensive types of unsecured debt, with annualized interest rates (APR) easily exceeding 36% to 42%.
                                 </p>
@@ -280,22 +280,22 @@ export default function TypesOfUnsecuredLoansPage() {
                         </section>
 
                         <section id="personal-loan-vs-credit-card" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                                 Personal Loan vs Credit Card: Which is Better?
-                            </h2>
+                            </h3>
                             <p className="text-lg leading-relaxed mb-6 text-gray-700">
                                 The debate of <span className="font-bold">personal loan vs credit card</span> is common among borrowers. Both serve unique purposes, and understanding their differences is vital to maintaining financial health.
                             </p>
                             
                             <div className="grid md:grid-cols-2 gap-6 my-8">
                                 <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
-                                    <h3 className="font-black text-[#1F5EFF] text-lg mb-3">When to Choose a Personal Loan</h3>
+                                    <h4 className="font-black text-[#1F5EFF] text-lg mb-3">When to Choose a Personal Loan</h4>
                                     <p className="text-gray-700 text-sm leading-relaxed">
                                         Ideal for large, one-time expenses (like a home renovation or medical bill). They offer structured repayment terms, a lump sum payout, and significantly lower interest rates (typically 10.5% - 18%) compared to credit card debt.
                                     </p>
                                 </div>
                                 <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
-                                    <h4 className="font-black text-[#1F5EFF] text-lg mb-3">When to Choose a Credit Card</h4>
+                                    <h5 className="font-black text-[#1F5EFF] text-lg mb-3">When to Choose a Credit Card</h5>
                                     <p className="text-gray-700 text-sm leading-relaxed">
                                         Best suited for everyday purchases, short-term cash flow gaps, and earning rewards. If you can pay off the balance within the billing cycle, a credit card is essentially a free short-term loan.
                                     </p>
@@ -303,7 +303,7 @@ export default function TypesOfUnsecuredLoansPage() {
                             </div>
                             
                             <div className="bg-red-50 p-6 rounded-xl border border-red-100 mb-8">
-                                <h4 className="text-lg font-black text-red-700 mb-2">The Debt Trap Warning</h4>
+                                <h5 className="text-lg font-black text-red-700 mb-2">The Debt Trap Warning</h5>
                                 <p className="text-red-900 leading-relaxed text-sm">
                                     Paying only the "Minimum Amount Due" on a credit card maximizes interest accumulation. If you are struggling with high revolving debt on a card, taking a lower-interest personal loan to consolidate and clear the card debt is often a smart financial move.
                                 </p>
@@ -311,9 +311,9 @@ export default function TypesOfUnsecuredLoansPage() {
                         </section>
 
                         <section id="education-loans" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                                 Education & Student Loans
-                            </h2>
+                            </h3>
                             <p className="text-lg leading-relaxed mb-6 text-gray-700">
                                 Investing in education is heavily supported by Indian banks. For smaller loan amounts (typically under ₹4 to ₹7.5 Lakhs, depending on the bank and the course), education loans are completely unsecured.
                             </p>
@@ -323,7 +323,7 @@ export default function TypesOfUnsecuredLoansPage() {
                                         1
                                     </div>
                                     <div>
-                                        <h3 className="text-xl font-bold text-[#2E2E2E] mb-2">No Collateral Required</h3>
+                                        <h4 className="text-xl font-bold text-[#2E2E2E] mb-2">No Collateral Required</h4>
                                         <p className="text-gray-700 leading-relaxed">For basic undergraduate or postgraduate loans, no tangible asset is required, though a parent usually needs to sign as a co-borrower.</p>
                                     </div>
                                 </div>
@@ -332,7 +332,7 @@ export default function TypesOfUnsecuredLoansPage() {
                                         2
                                     </div>
                                     <div>
-                                        <h4 className="text-xl font-bold text-[#2E2E2E] mb-2">Moratorium Period</h4>
+                                        <h5 className="text-xl font-bold text-[#2E2E2E] mb-2">Moratorium Period</h5>
                                         <p className="text-gray-700 leading-relaxed">Unlike regular personal loans, repayment doesn't start immediately. Students get a "moratorium" (usually course duration + 6 months to 1 year) before EMIs begin.</p>
                                     </div>
                                 </div>
@@ -340,9 +340,9 @@ export default function TypesOfUnsecuredLoansPage() {
                         </section>
 
                         <section id="unsecured-business-loans" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                                 Unsecured Business Loans
-                            </h2>
+                            </h3>
                             <p className="text-lg leading-relaxed mb-6 text-gray-700">
                                 Entrepreneurs often need capital for working capital, inventory, or expansion but may not have machinery or real estate to pledge. Unsecured business loans fill this critical gap.
                             </p>
@@ -360,37 +360,37 @@ export default function TypesOfUnsecuredLoansPage() {
                         </section>
 
                         <section id="eligibility-criteria" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                                 Eligibility Criteria for Collateral Free Loans
-                            </h2>
+                            </h3>
                             <p className="text-lg leading-relaxed mb-6 text-gray-700">
                                 Because there is no asset backing the loan, banks employ stringent eligibility checks:
                             </p>
                             
                             <div className="grid md:grid-cols-2 gap-6 my-8">
                                 <div className="bg-white p-6 rounded-xl border border-[#DEDEDE] shadow-sm">
-                                    <h3 className="font-black text-[#1F5EFF] text-lg mb-3">1. Credit Score</h3>
+                                    <h4 className="font-black text-[#1F5EFF] text-lg mb-3">1. Credit Score</h4>
                                     <p className="text-gray-700 text-sm leading-relaxed">A CIBIL score of 750 or higher is generally the gold standard. A strong repayment history indicates a low probability of default.</p>
                                 </div>
                                 <div className="bg-white p-6 rounded-xl border border-[#DEDEDE] shadow-sm">
-                                    <h4 className="font-black text-[#1F5EFF] text-lg mb-3">2. Income Stability</h4>
+                                    <h5 className="font-black text-[#1F5EFF] text-lg mb-3">2. Income Stability</h5>
                                     <p className="text-gray-700 text-sm leading-relaxed">For salaried individuals, lenders look at employer reputation and monthly take-home pay. For self-employed, ITR documents and bank statements are analyzed.</p>
                                 </div>
                                 <div className="bg-white p-6 rounded-xl border border-[#DEDEDE] shadow-sm">
-                                    <h4 className="font-black text-[#1F5EFF] text-lg mb-3">3. Debt-to-Income Ratio</h4>
+                                    <h5 className="font-black text-[#1F5EFF] text-lg mb-3">3. Debt-to-Income Ratio</h5>
                                     <p className="text-gray-700 text-sm leading-relaxed">Your total existing EMI obligations should ideally not exceed 40-50% of your monthly income.</p>
                                 </div>
                                 <div className="bg-white p-6 rounded-xl border border-[#DEDEDE] shadow-sm">
-                                    <h4 className="font-black text-[#1F5EFF] text-lg mb-3">4. Employment Vintage</h4>
+                                    <h5 className="font-black text-[#1F5EFF] text-lg mb-3">4. Employment Vintage</h5>
                                     <p className="text-gray-700 text-sm leading-relaxed">Lenders prefer borrowers who have been working for at least 1-2 years, with a minimum of 6 months at their current organization.</p>
                                 </div>
                             </div>
                         </section>
 
                         <section id="success-stories" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 text-center">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 text-center">
                                 Success Stories: Managing Unsecured Debt
-                            </h2>
+                            </h3>
                             <div className="grid md:grid-cols-2 gap-10">
                                 {[
                                     {
@@ -428,7 +428,7 @@ export default function TypesOfUnsecuredLoansPage() {
                                                 {review.name.charAt(0)}
                                             </div>
                                             <div>
-                                                <h3 className="font-bold text-[#2E2E2E] text-lg">{review.name}</h3>
+                                                <h4 className="font-bold text-[#2E2E2E] text-lg">{review.name}</h4>
                                                 <div className="text-yellow-400 flex text-sm">
                                                     <svg className="w-4 h-4 fill-current" viewBox="0 0 20 20"><path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z"/></svg>
                                                     <svg className="w-4 h-4 fill-current" viewBox="0 0 20 20"><path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z"/></svg>
@@ -453,7 +453,7 @@ export default function TypesOfUnsecuredLoansPage() {
                         </section>
 
                         <section id="faqs" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">Frequently Asked Questions</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">Frequently Asked Questions</h3>
                             <div className="space-y-4 not-prose">
                                 {[
                                     { q: "What is an unsecured loan?", a: "An unsecured loan is a type of loan that does not require you to pledge any collateral, such as property or gold, to borrow money. Approval is based primarily on your creditworthiness." },
@@ -483,7 +483,7 @@ export default function TypesOfUnsecuredLoansPage() {
                         <div className="bg-[#2E2E2E] text-white p-12 rounded-[40px] text-center mt-24 relative overflow-hidden group">
                             <div className="absolute inset-0 bg-[#1F5EFF] opacity-0 group-hover:opacity-5 transition-opacity duration-500"></div>
                             <div className="relative z-10">
-                                <h2 className="text-3xl md:text-5xl font-black mb-6 leading-tight">Overwhelmed by Unsecured Debt?</h2>
+                                <h3 className="text-3xl md:text-5xl font-black mb-6 leading-tight">Overwhelmed by Unsecured Debt?</h3>
                                 <p className="text-lg md:text-xl text-gray-300 mb-10 max-w-2xl mx-auto">
                                     If high interest rates and multiple EMI obligations are trapping you, our legal and financial experts can help you restructure or settle your unsecured loans legitimately.
                                 </p>

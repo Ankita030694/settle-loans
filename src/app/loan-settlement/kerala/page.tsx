@@ -286,70 +286,70 @@ export default function KeralaLoanSettlementPage() {
             </section>
 
             <section id="the-debt-crisis-kochi" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl font-black mb-6 leading-tight">The Growing Debt Trap in Kochi and Thiruvananthapuram</h2>
+              <h3 className="text-3xl font-black mb-6 leading-tight">The Growing Debt Trap in Kochi and Thiruvananthapuram</h3>
               <p>Kochi, the commercial capital, and Thiruvananthapuram, the administrative hub, are at the center of Kerala's modern debt crisis. In Kochi, the rise of the IT sector, shipping, and tourism has created a new class of young professionals and entrepreneurs. This group often relies heavily on multiple credit cards and personal loans to maintain a certain standard of living. The "Minimum Amount Due" trap is particularly prevalent here, where borrowers end up paying massive interest while the principal amount hardly decreases.</p>
               <p>Thiruvananthapuram, with its large population of government employees and healthcare professionals, sees a different kind of debt. Here, loans are often taken for large life events such as education, home construction, or weddings. While these are necessary expenses, any unexpected medical emergency or a temporary loss of income can turn these manageable loans into a toxic cycle of debt. The mental health toll of this pressure is immense, often leading to social isolation and extreme stress.</p>
               <p>Breaking this cycle requires more than just better financial planning; it requires a strategic legal intervention. By choosing a formal loan settlement, you are taking a proactive step to resolve your liabilities. It is not about running away from your responsibilities but about recognizing your current financial limitations and reaching a compromise that is fair to both you and the lender. Our team is dedicated to guiding the residents of these cities through this process with dignity and legal precision.</p>
             </section>
 
             <section id="why-settle-kerala" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl font-black mb-6 leading-tight">Why Consider Loan Settlement in the Kerala Context?</h2>
+              <h3 className="text-3xl font-black mb-6 leading-tight">Why Consider Loan Settlement in the Kerala Context?</h3>
               <p>Loan settlement is a viable and legally recognized solution for those who find themselves in an impossible financial situation. Banks and financial institutions in Kerala, including major public sector banks and private players, are often open to negotiation when they realize that a borrower is facing genuine hardship. For a bank, recovering a portion of the loan through a settlement is often more efficient than going through long, expensive legal battles that might end in a total loss.</p>
               <p>In Kerala, the legal and social environment is particularly conducive to mediation. The state has a tradition of community based resolution and a very active legal aid system. A structured "One Time Settlement" (OTS) provides you with a formal "No Dues Certificate," which officially clears you of the debt. This certificate is vital for your future financial health, as it stops the bank from taking any further legal action against you or your assets.</p>
               <p>Moreover, settling your debt allows you to take back control of your life. Instead of spending your days worrying about the next call or notice, you can focus on rebuilding your career and your family life. It is a chance to reset your finances and start fresh. Our role is to ensure that this negotiation is handled professionally, ensuring that your rights are protected every step of the way and that you get the maximum possible waiver on your total outstanding amount.</p>
             </section>
 
             <section id="money-lenders-act-kerala" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl font-black mb-6 leading-tight">The Kerala Money Lenders Act, 1958: A Powerful Legal Shield</h2>
+              <h3 className="text-3xl font-black mb-6 leading-tight">The Kerala Money Lenders Act, 1958: A Powerful Legal Shield</h3>
               <p>One of the most important pieces of legislation for borrowers in Kerala is the Kerala Money Lenders Act, 1958. This Act was designed to regulate the business of money lending in the state and to protect borrowers from the predatory practices of unlicensed lenders. In many parts of Kerala, people still rely on "private financiers" or "blade companies" for quick credit. These entities often charge interest rates that are far above the legal limits and use coercive recovery methods.</p>
               <p>Under the Act, every person or entity carrying out the business of money lending must have a valid license. They are required to maintain proper records and are strictly prohibited from charging interest rates higher than what is prescribed by the government. If a lender is found to be operating without a license or violating the terms of the Act, they face severe penalties. More importantly, any contract entered into with an unlicensed lender is often unenforceable in a court of law.</p>
               <p>If you have taken a loan from a private source and are being harassed with illegal interest demands, the Kerala Money Lenders Act is your first line of defense. Our legal team specializes in using the provisions of this Act to challenge illegal demands and protect our clients from the "blade" interest traps. We ensure that your case is handled within the legal framework of Kerala, providing you with the protection you deserve.</p>
             </section>
 
             <section id="operation-kubera-rights" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl font-black mb-6 leading-tight">Operation Kubera and Your Rights Against Illegal Harassment</h2>
+              <h3 className="text-3xl font-black mb-6 leading-tight">Operation Kubera and Your Rights Against Illegal Harassment</h3>
               <p>Kerala is one of the few states in India that has taken a very aggressive and public stance against illegal debt recovery. "Operation Kubera" is a state-wide police initiative that was launched to clamp down on illegal money lending and the harassment of borrowers. This initiative has led to thousands of cases being filed against lenders who use "muscle power" or social shaming as a means of recovery. The message from the Kerala government and the police is clear: debt recovery must follow the rule of law.</p>
               <p>You have the right to be treated with dignity, even if you have defaulted on a loan. The Kerala High Court has repeatedly ruled that banks and private lenders cannot use illegal methods to recover debts. This includes making calls to your relatives, visiting your workplace without permission, or using abusive language. If you are being harassed, you have the legal right to file a complaint at your local police station. In the context of "Operation Kubera," the police are empowered to take immediate action against such practices.</p>
               <p>When you partner with SettleLoans, we act as your legal buffer. We send formal notices to the banks and lenders, informing them that you are now legally represented and that all further communication must be directed to our legal office. This immediately stops the harassment and ensures that the recovery process moves from the streets to the negotiation table. We empower you with the knowledge of your rights and provide the legal muscle to defend them.</p>
             </section>
 
             <section id="kelsa-lok-adalats" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl font-black mb-6 leading-tight">The Role of KELSA and the Power of Lok Adalats in Kerala</h2>
+              <h3 className="text-3xl font-black mb-6 leading-tight">The Role of KELSA and the Power of Lok Adalats in Kerala</h3>
               <p>The Kerala State Legal Services Authority (KELSA) plays a pivotal role in the state's judicial system, particularly in the field of alternative dispute resolution. KELSA regularly organizes National and State-level Lok Adalats (People's Courts) across all districts, including major hubs like Thrissur, Kollam, and Alappuzha. These forums are designed to settle disputes, including bank loan defaults, through mutual agreement in a fast and cost-effective manner.</p>
               <p>Settling a debt through a Lok Adalat has several unique advantages in Kerala. Firstly, any agreement reached in a Lok Adalat is considered a decree of a civil court and is final and non-appealable. This gives you total legal closure. Secondly, the process is supervised by a judicial officer, ensuring that the bank remains reasonable and that the settlement is fair. We have seen cases where banks agree to significantly higher waivers in a Lok Adalat setting than they would during private negotiations. Thirdly, the atmosphere is one of reconciliation, not confrontation, which reduces the emotional burden on the borrower.</p>
               <p>Our legal team has extensive experience in representing clients before KELSA and at various Lok Adalats across Kerala. We assist you in preparing a strong "Hardship Profile" that explains your financial situation to the bench. This professional representation ensures that the judicial officers understand the reality of your distress, often leading to more favorable settlement terms. We handle the paperwork, the logistics, and the negotiation, ensuring that your walk towards a debt-free life is legally secure.</p>
             </section>
 
             <section id="drt-kochi-procedures" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl font-black mb-6 leading-tight">Navigating the Debt Recovery Tribunal (DRT) in Kochi</h2>
+              <h3 className="text-3xl font-black mb-6 leading-tight">Navigating the Debt Recovery Tribunal (DRT) in Kochi</h3>
               <p>For debts exceeding 20 lakhs, especially those involving secured assets or SARFAESI Act proceedings, the matter is typically handled by the Debt Recovery Tribunal (DRT). In Kerala, DRT Kochi is the primary forum for such cases. While the DRT is a specialized court designed for the rapid recovery of debts, it is also a place where many high-value compromise settlements are reached. The DRT process is highly technical and requires expert legal guidance to ensure that your property and rights are not compromised.</p>
               <p>If you receive a notice from DRT Kochi, it is critical not to panic but to act swiftly. Failing to respond can lead to ex-parte orders where the bank gets the right to seize and sell your property. However, the SARFAESI Act itself has built-in protections for the borrower. We help our clients identify procedural lapses in the bank's actions, which can be used to stay recovery proceedings. This delay often provides the necessary leverage to push the bank towards a One-Time Settlement (OTS) that is much more affordable for you.</p>
               <p>Our advocates are well-versed in the procedures of DRT Kochi. We draft comprehensive "Written Statements," challenge unfair calculations of interest, and present structured OTS proposals to the bank's zonal committees. We understand the strategic importance of various stages of a DRT case and use them to your advantage. Whether it's a hotel project in Munnar or a business in Palakkad, we provide the high-level legal expertise needed to navigate these complex waters.</p>
             </section>
 
             <section id="stopping-harassment-kerala" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl font-black mb-6 leading-tight">Stopping Illegal Debt Recovery Agents: A Kerala-Focused Approach</h2>
+              <h3 className="text-3xl font-black mb-6 leading-tight">Stopping Illegal Debt Recovery Agents: A Kerala-Focused Approach</h3>
               <p>Debt recovery is a legal process, not a license for intimidation. In many cases, recovery agents in Kerala use psychological pressure to force payments. They may call your workplace in the Infopark or Technopark, send messages to your friends on social media, or show up at your family home in a way that is designed to cause embarrassment. These actions are not only unethical but are also against the RBI's Fair Practice Code and the laws of the land.</p>
               <p>At SettleLoans, we provide an "Anti-Harassment Shield" that is specifically tailored for the Kerala environment. Once you sign up with us, we issue formal legal communications to the Nodal Officers and the recovery departments of the concerned banks. We demand that all future contact be made through our legal channels. We also guide our clients on how to document illegal actions using their mobile phones, which can then be used as evidence for police complaints or in consumer courts. By standing firm and using the legal system, we break the power of the recovery agents over your life.</p>
               <p>Remember, your peace of mind is your most valuable asset. No money owed is worth more than your health and your family's safety. By delegating the friction of debt recovery to us, you can reclaim your space. We handle the difficult conversations and the legal skirmishes, allowing you to focus on your professional recovery and personal well-being.</p>
             </section>
 
             <section id="step-by-step-process" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl font-black mb-6 leading-tight">Your 5-Step Roadmap to Debt Freedom in Kerala</h2>
+              <h3 className="text-3xl font-black mb-6 leading-tight">Your 5-Step Roadmap to Debt Freedom in Kerala</h3>
               <p>Our approach to loan settlement is systematic, transparent, and designed to minimize stress. The first step is **Hardship Assessment**. We work with you to understand exactly why the default happened. This could be due to a business loss, medical issues, or a change in NRI status. Documenting this hardship is the cornerstone of a successful negotiation. The second step is **Legal Representation**. We take over all communications with your lenders. This immediately stops the unwanted calls and the constant pressure.</p>
               <p>The third step is **The Negotiation Phase**. Using our deep understanding of bank behavior in the Kerala region, we propose a settlement that your budget can support. We use previous precedents and current OTS schemes to maximize your waiver. The fourth step is **Settlement Verification**. We ensure that any settlement offer is genuine and documented on the official letterhead of the bank. We verify every clause to ensure there are no hidden liabilities that could come back to haunt you later.</p>
               <p>The final step is **Execution and Closure**. Once the settlement amount is paid, we ensure the bank issues a "No Dues Certificate" (NDC). We then follow up to ensure that your credit records are updated to show the account as closed. This comprehensive process ensures that you are not just free from debt today, but that you are protected for the future. We walk with you through every single one of these steps, providing expert advice and empathetic support throughout the journey.</p>
             </section>
 
             <section id="success-stories-kerala" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl font-black mb-10 text-center">Kerala Success Stories: Real People, Real Debt Relief</h2>
+              <h3 className="text-3xl font-black mb-10 text-center">Kerala Success Stories: Real People, Real Debt Relief</h3>
               <p className="text-center mb-10 text-lg">We have successfully resolved over 1,600+ cases across Kerala, helping individuals and families move from a state of crisis to a state of peace. Here are some of their stories.</p>
               <div className="grid md:grid-cols-2 gap-8 not-prose">
                 <div className="bg-white p-8 rounded-3xl border border-[#DEDEDE] shadow-sm hover:shadow-xl transition-all duration-300">
                   <div className="flex items-center mb-6">
                     <div className="w-12 h-12 rounded-full bg-[#1F5EFF]/10 flex items-center justify-center font-black text-[#1F5EFF] mr-4 text-xl">S</div>
                     <div>
-                      <h3 className="font-black text-[#2E2E2E]">Sajith Menon</h3>
+                      <h4 className="font-black text-[#2E2E2E]">Sajith Menon</h4>
                       <p className="text-sm text-gray-500 font-bold">Kochi, Kerala</p>
                     </div>
                   </div>
@@ -363,7 +363,7 @@ export default function KeralaLoanSettlementPage() {
                   <div className="flex items-center mb-6">
                     <div className="w-12 h-12 rounded-full bg-[#1F5EFF]/10 flex items-center justify-center font-black text-[#1F5EFF] mr-4 text-xl">D</div>
                     <div>
-                      <h4 className="font-black text-[#2E2E2E]">Deepa Nair</h4>
+                      <h5 className="font-black text-[#2E2E2E]">Deepa Nair</h5>
                       <p className="text-sm text-gray-500 font-bold">Thiruvananthapuram, Kerala</p>
                     </div>
                   </div>
@@ -377,28 +377,28 @@ export default function KeralaLoanSettlementPage() {
             </section>
 
             <section id="credit-health-recovery" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl font-black mb-6 leading-tight">Rebuilding Your CIBIL Score and Credit Health After Settlement</h2>
+              <h3 className="text-3xl font-black mb-6 leading-tight">Rebuilding Your CIBIL Score and Credit Health After Settlement</h3>
               <p>One of the biggest concerns for our clients in Kerala is their future ability to take a loan. While it is true that a settlement mark on your CIBIL report initially lowers your score, it is not a permanent financial death sentence. A "Settled" status is infinitely better than an "Unpaid" or "Suit Filed" status. It signals to future lenders that you have cleared your past liabilities. In an economy as dynamic as Kerala's, where banks are constantly looking for new customers, your credit score can be rebuilt with a disciplined approach.</p>
               <p>We provide all our clients with a "Credit Restoration Roadmap." The first step is to ensure that the bank has correctly reported the settlement to all four major credit bureaus in India. Once the history shows the account is closed, you should wait for a period of six to twelve months for the data to stabilize. After this, you can start small with a "Secured Credit Card," which is a card issued against a fixed deposit. By using this card for small monthly expenses and paying the balance in full every single time, you slowly build a new, positive credit history.</p>
               <p>In various cities across Kerala, many regional rural banks and specialized lenders are more willing to look at your overall financial history rather than just a single past mistake. If you can show a two-year record of perfect repayment after your settlement, your chances of getting a home loan or a car loan increase significantly. Your past is a lesson, not a life sentence. We help you move past it correctly so that your future remains bright.</p>
             </section>
 
             <section id="cooperative-bank-insights" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl font-black mb-6 leading-tight">Special Insights into Cooperative Bank OTS Schemes in Kerala</h2>
+              <h3 className="text-3xl font-black mb-6 leading-tight">Special Insights into Cooperative Bank OTS Schemes in Kerala</h3>
               <p>Kerala has a very strong and deep-rooted network of cooperative banks and societies. These institutions provide a significant portion of rural and small business credit. Unlike nationalized or private banks, cooperative banks in Kerala often introduce state-sponsored "One-Time Settlement" (OTS) schemes during specific times of the year, especially after the harvest season or during festival periods. These schemes often come with significant interest waivers and flexible repayment terms for the principal amount.</p>
               <p>Negotiating with a cooperative bank requires a different approach. These banks are often more localized, and the decision-making process can be more personal. At the same time, they are governed by the registrar of cooperative societies, which has specific guidelines for debt relief. We help our clients stay informed about these seasonal schemes and prepare their applications in a way that maximizes the chances of approval. Our deep roots in the Kerala legal community allow us to navigate the bureaucracy of these institutions effectively.</p>
               <p>Whether it is a primary agricultural credit society (PACS) or a large district cooperative bank, we ensure that your settlement proposal is handled with the right balance of persistence and professionalism. These banks are an integral part of the Kerala economy, and resolving your debt with them correctly is essential for maintaining your standing in the local community. We guide you through the process, ensuring that the settlement is recorded correctly and all legal ties are severed upon payment.</p>
             </section>
 
             <section id="legal-ethics-commitment" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl font-black mb-6 leading-tight">Our Commitment: Legal Excellence, Transparency, and Empathy</h2>
+              <h3 className="text-3xl font-black mb-6 leading-tight">Our Commitment: Legal Excellence, Transparency, and Empathy</h3>
               <p>In the world of debt relief, trust is everything. We know that when you reach out to us, you are likely feeling vulnerable and overwhelmed. That is why SettleLoans is built on the pillars of absolute transparency and ethical practice. We do not make unrealistic promises and we do not have hidden charges. Our goal is not just to settle your debt, but to restore your peace of mind and your dignity. Every client in Kerala is assigned a dedicated case manager who understands the local context and can communicate in the language you are most comfortable with.</p>
               <p>We see ourselves as more than just legal consultants; we are your advocates in a system that can often feel stacked against the individual. We use technology to provide you with real-time updates on your case through a secure portal. This level of accountability is what has made us a leader in the debt settlement space. Your journey to financial freedom is a partnership. We bring the legal expertise and the negotiation power; you bring the resolve to change your situation. Together, we can build a future for you and your family that is free from the burden of debt.</p>
               <p>If you are ready to take that first step towards a new life, we are here to walk with you. A single consultation could be the turning point in your financial story. Let us help you navigate the legalities and the negotiations so that you can focus on what truly matters: your future.</p>
             </section>
 
             <section id="faqs" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl font-black mb-8 leading-tight">Frequently Asked Questions About Loan Settlement in Kerala</h2>
+              <h3 className="text-3xl font-black mb-8 leading-tight">Frequently Asked Questions About Loan Settlement in Kerala</h3>
               <div className="space-y-4 not-prose">
                 {[
                   { q: "Is loan settlement legal in Kerala?", a: "Yes, loan settlement is a 100% legal process in Kerala, supported by RBI guidelines and often facilitated by the Kerala State Legal Services Authority (KELSA) through Lok Adalats." },
@@ -433,7 +433,7 @@ export default function KeralaLoanSettlementPage() {
                <div className="absolute top-0 right-0 w-64 h-64 bg-white/5 rounded-full -mr-32 -mt-32 blur-3xl"></div>
                <div className="absolute bottom-0 left-0 w-64 h-64 bg-black/5 rounded-full -ml-32 -mb-32 blur-3xl"></div>
                <div className="relative z-10">
-                  <h2 className="text-3xl md:text-5xl font-black mb-6 leading-tight">Start Your Debt-Free Journey in Kerala Today</h2>
+                  <h3 className="text-3xl md:text-5xl font-black mb-6 leading-tight">Start Your Debt-Free Journey in Kerala Today</h3>
                   <p className="mb-10 text-xl opacity-90 max-w-2xl mx-auto leading-relaxed font-medium">Join over 1,600+ families across Kerala who have reclaimed their financial freedom with us. Your path to a stress-free life starts here.</p>
                   <div className="flex justify-center">
                     <Link href="/contact" className="inline-block bg-white text-[#1F5EFF] font-black py-5 px-14 rounded-2xl hover:scale-105 transition-all text-xl shadow-xl">

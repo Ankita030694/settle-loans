@@ -354,9 +354,9 @@ export default function CaseStudySbiLokAdalatClient() {
 
             {/* Section 2: Deconstructing Lok Adalat Fear */}
             <section id="psu-legal-fear-lok-adalat-reality" className="mb-10 scroll-mt-24">
-              <h2 className="text-xl md:text-2xl lg:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h3 className="text-xl md:text-2xl lg:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 2. Overcoming Legal Fear: Deconstructing the SBI Lok Adalat Summons
-              </h2>
+              </h3>
               <p className="text-slate-700 leading-relaxed mb-4">
                 In February 2026, Vikram received a formal registered notice bearing the official judicial seal of the District Legal Services Authority (DLSA), titled <em>&apos;Pre-Litigation Notice for National Lok Adalat Conciliation — State Bank of India vs. Vikram Verma&apos;</em>. The notice demanded his physical appearance before the Lok Adalat bench on an upcoming Saturday, warning that failure to attend would prompt SBI to initiate regular recovery litigation.
               </p>
@@ -373,9 +373,9 @@ export default function CaseStudySbiLokAdalatClient() {
 
             {/* Section 3: SBI SAMB & NPA Accounting */}
             <section id="sbi-accounting-sarb-provisioning" className="mb-10 scroll-mt-24">
-              <h2 className="text-xl md:text-2xl lg:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h3 className="text-xl md:text-2xl lg:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 3. Inside SBI&apos;s Ledger: Stressed Assets Management &amp; Provisioning Burden
-              </h2>
+              </h3>
               <p className="text-slate-700 leading-relaxed mb-4">
                 To understand why State Bank of India agreed to surrender ₹6.6 Lakhs of core principal and 100% of accumulated interest, one must examine the internal regulatory mechanics of SBI&apos;s <strong>Stressed Assets Resolution Centres (SARC)</strong> and <strong>Stressed Assets Management Branches (SAMB)</strong> under Reserve Bank of India prudential accounting mandates.
               </p>
@@ -430,9 +430,9 @@ export default function CaseStudySbiLokAdalatClient() {
 
             {/* Section 4: Hardship Dossier & NPV Model */}
             <section id="hardship-audit-npv-valuation" className="mb-10 scroll-mt-24">
-              <h2 className="text-xl md:text-2xl lg:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h3 className="text-xl md:text-2xl lg:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 4. The Hardship Resolution Dossier &amp; SBI Recovery Valuation (NPV)
-              </h2>
+              </h3>
               <p className="text-slate-700 leading-relaxed mb-4">
                 Public sector banks operate under stringent scrutiny from the Central Vigilance Commission (CVC) and statutory auditors. To grant a 55% haircut without inviting vigilance inquiries, SBI&apos;s Assistant General Manager (AGM) and Credit Committee must establish that the borrower suffers from genuine, verifiable financial distress and is not a &apos;willful defaulter&apos; hiding assets.
               </p>
@@ -467,9 +467,9 @@ export default function CaseStudySbiLokAdalatClient() {
 
             {/* Section 5: Pre-Adalat Legal Defense */}
             <section id="anti-harassment-legal-containment" className="mb-10 scroll-mt-24">
-              <h2 className="text-xl md:text-2xl lg:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h3 className="text-xl md:text-2xl lg:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 5. Cease-and-Desist Defense: Neutralizing Recovery Harassment &amp; Demand Notices
-              </h2>
+              </h3>
               <p className="text-slate-700 leading-relaxed mb-4">
                 Prior to the Lok Adalat session, SBI&apos;s empanelled collection agencies subjected Vikram to persistent harassment. Field recovery personnel visited his residential housing society, spoke to neighbors regarding his debt, and issued unauthorized WhatsApp messages threatening immediate police action under Section 420 (cheating) of the Indian Penal Code.
               </p>
@@ -498,9 +498,9 @@ export default function CaseStudySbiLokAdalatClient() {
                         <span className="text-[10px] font-black uppercase tracking-widest text-blue-300 block">
                           Legal Defense &amp; Action Blueprint
                         </span>
-                        <h3 className="text-sm md:text-base font-black text-white leading-tight">
+                        <h4 className="text-sm md:text-base font-black text-white leading-tight">
                           SBI Lok Adalat Debt Settlement: ₹12L to ₹5.4L Case Study
-                        </h3>
+                        </h4>
                       </div>
                     </div>
                     <a
@@ -544,9 +544,9 @@ export default function CaseStudySbiLokAdalatClient() {
 
             {/* Section 6: Bench Negotiation: 55% Haircut */}
             <section id="lok-adalat-hearing-haircut-negotiation" className="mb-10 scroll-mt-24">
-              <h2 className="text-xl md:text-2xl lg:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h3 className="text-xl md:text-2xl lg:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 6. The Lok Adalat Hearing: Negotiating the 55% Haircut Before the Judicial Bench
-              </h2>
+              </h3>
               <p className="text-slate-700 leading-relaxed mb-4">
                 On the designated National Lok Adalat date, SettleLoans senior advocates appeared alongside Vikram before the judicial conciliation bench at the District Court complex. The Lok Adalat bench was presided over by a sitting Senior Civil Judge accompanied by a seasoned advocate conciliator appointed by the DLSA. State Bank of India was represented by an Assistant General Manager (AGM) from the regional SARC division along with SBI&apos;s standing counsel.
               </p>
@@ -609,9 +609,9 @@ export default function CaseStudySbiLokAdalatClient() {
 
             {/* Section 7: Anatomy of the Consent Award */}
             <section id="consent-award-statutory-clauses" className="mb-10 scroll-mt-24">
-              <h2 className="text-xl md:text-2xl lg:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h3 className="text-xl md:text-2xl lg:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 7. Anatomy of a Lok Adalat Consent Award: 6 Essential Statutory Protections
-              </h2>
+              </h3>
               <p className="text-slate-700 leading-relaxed mb-4">
                 Before signing the formal settlement award (<em>Samjhauta Patra</em>), SettleLoans advocates conducted a meticulous clause-by-clause audit of the drafted document. A flawed settlement memo can leave borrowers vulnerable to residual recovery or future litigation if mandatory legal safeguards are omitted.
               </p>
@@ -625,9 +625,9 @@ export default function CaseStudySbiLokAdalatClient() {
 
             {/* Section 8: ₹0 NDC & Credit Rebuilding */}
             <section id="no-dues-certificate-cibil-recovery" className="mb-10 scroll-mt-24">
-              <h2 className="text-xl md:text-2xl lg:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h3 className="text-xl md:text-2xl lg:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 8. Securing the ₹0 No Dues Certificate &amp; 24-Month CIBIL Reconstruction
-              </h2>
+              </h3>
               <p className="text-slate-700 leading-relaxed mb-4">
                 Following the Lok Adalat session, Vikram remitted the sanctioned amount of ₹5,40,000 via a single RTGS transaction directly into his designated SBI loan account. SettleLoans advocates submitted the transaction confirmation alongside the certified Lok Adalat Award to SBI&apos;s SARC operations branch.
               </p>
@@ -647,9 +647,9 @@ export default function CaseStudySbiLokAdalatClient() {
 
             {/* Section 9: Lok Adalat vs OTS vs Courts */}
             <section id="comparative-resolution-matrix" className="mb-10 scroll-mt-24">
-              <h2 className="text-xl md:text-2xl lg:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h3 className="text-xl md:text-2xl lg:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 9. Comparative Resolution Analysis: Lok Adalat vs. Direct OTS vs. Civil Courts
-              </h2>
+              </h3>
               <p className="text-slate-700 leading-relaxed mb-4">
                 Distressed borrowers facing PSU bank loan defaults must evaluate the comparative advantages of available institutional resolution mechanisms in India:
               </p>
@@ -716,9 +716,9 @@ export default function CaseStudySbiLokAdalatClient() {
                   <HelpCircle className="w-3.5 h-3.5" />
                   <span>Frequently Asked Questions</span>
                 </div>
-                <h2 className="text-2xl sm:text-3xl font-black text-slate-900 leading-tight">
+                <h3 className="text-2xl sm:text-3xl font-black text-slate-900 leading-tight">
                   Everything You Need to Know About SBI Lok Adalat Settlements
-                </h2>
+                </h3>
                 <p className="text-sm text-slate-600 mt-2">
                   Clear, authoritative legal answers regarding State Bank of India debt settlements, Lok Adalat summons rights, haircuts, and credit score rehabilitation.
                 </p>
@@ -739,10 +739,10 @@ export default function CaseStudySbiLokAdalatClient() {
 
             {/* Regulatory & Institutional Sources Strip (5 Official Links) */}
             <div className="bg-slate-50 border border-slate-200 rounded-2xl p-6 my-10 text-xs text-slate-700">
-              <h3 className="text-sm font-bold text-slate-900 mb-3 flex items-center gap-2">
+              <h4 className="text-sm font-bold text-slate-900 mb-3 flex items-center gap-2">
                 <Landmark className="w-4 h-4 text-[#1F5EFF]" />
                 Official Statutory Authorities &amp; Regulatory Frameworks
-              </h3>
+              </h4>
               <ul className="space-y-2.5">
                 <li className="flex items-start gap-2">
                   <ExternalLink className="w-4 h-4 text-[#1F5EFF] flex-shrink-0 mt-0.5" />
@@ -804,10 +804,10 @@ export default function CaseStudySbiLokAdalatClient() {
 
             {/* Related Guides & Resources Strip (10 Topic Badges) */}
             <div className="bg-slate-50 border border-slate-200 rounded-2xl p-6 my-10">
-              <h3 className="text-base font-bold text-slate-900 mb-4 flex items-center gap-2">
+              <h4 className="text-base font-bold text-slate-900 mb-4 flex items-center gap-2">
                 <BookOpen className="w-5 h-5 text-[#1F5EFF]" />
                 Explore Related Banking &amp; Debt Resolution Guides
-              </h3>
+              </h4>
               <div className="flex flex-wrap gap-2.5">
                 <Link
                   href="/sbi-personal-loan-settlement"

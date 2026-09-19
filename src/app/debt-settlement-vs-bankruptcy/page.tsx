@@ -274,9 +274,9 @@ export default function DebtSettlementVsBankruptcyPage() {
             </section>
 
             <section id="how-settlement-works" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
                 What is Debt Settlement? The Negotiated Path
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 Debt settlement is essentially a commercial negotiation. It is a voluntary agreement between you and the bank or NBFC. You approach the lender and say: 'I cannot pay the full amount because of my financial hardship. I can, however, pay a one-time lump sum of 50% of the principal if you agree to close the account forever and stop all recovery actions.'
               </p>
@@ -284,7 +284,7 @@ export default function DebtSettlementVsBankruptcyPage() {
                 The bank accepts this because they realize that some money now is better than no money later. It is a private contract. No courts are involved, and no judge needs to sign off on the deal. This makes it faster and more discreet. However, because it is voluntary, the bank is not forced to say yes. They can choose to keep trying to recover the full amount if they believe you have the capacity to pay.
               </p>
               <div className="bg-gray-50 p-8 rounded-xl border border-gray-200 mb-8">
-                <h3 className="text-xl font-bold mb-6">Key Characteristics of Settlement</h3>
+                <h4 className="text-xl font-bold mb-6">Key Characteristics of Settlement</h4>
                 <ul className="grid md:grid-cols-2 gap-4 text-sm font-medium">
                   <li className="flex items-center gap-2">
                     <span className="w-2 h-2 bg-[#1F5EFF] rounded-full"></span>
@@ -315,9 +315,9 @@ export default function DebtSettlementVsBankruptcyPage() {
             </section>
 
             <section id="how-bankruptcy-works" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
                 What is Bankruptcy in India? The Legal Path
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 In India, the term 'bankruptcy' for individuals is legally referred to as 'Personal Insolvency' and is governed by the Insolvency and Bankruptcy Code (IBC) of 2016. This is not a negotiation; it is a court proceeding. You file a petition with the Debt Recovery Tribunal (DRT), declaring that you are insolvent and cannot pay your debts.
               </p>
@@ -325,7 +325,7 @@ export default function DebtSettlementVsBankruptcyPage() {
                 Once the petition is filed, a 'Resolution Professional' (RP) is appointed by the court. The RP takes control of your financial affairs, verifies your assets and liabilities, and creates a plan to pay off the creditors. This might involve selling your property, your car, or other non-essential assets. If your income is below a certain level and you have no assets, you might qualify for the 'Fresh Start Process', where small debts are discharged (erased) completely.
               </p>
               <div className="bg-blue-50 p-8 rounded-xl border border-blue-200 mb-8">
-                <h3 className="font-bold text-blue-900 mb-4">The Power of the Moratorium</h3>
+                <h4 className="font-bold text-blue-900 mb-4">The Power of the Moratorium</h4>
                 <p className="text-sm text-blue-800 leading-relaxed mb-4">
                   The most powerful feature of bankruptcy is the 'Automatic Stay' or Moratorium. The moment you file, all lenders are legally bared from calling you, suing you, or attempting to seize your property. This provides immediate, legal peace of mind. However, this peace comes at the cost of your financial autonomy. The court and the RP will now decide how you live and what you can spend until the process is finished.
                 </p>
@@ -333,9 +333,9 @@ export default function DebtSettlementVsBankruptcyPage() {
             </section>
 
             <section id="side-by-side" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight text-center">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight text-center">
                 Side-by-Side Comparison: 2025 Guide
-              </h2>
+              </h3>
               <div className="w-full bg-white p-6 rounded-2xl border border-[#DEDEDE] shadow-sm overflow-x-auto">
                 <table className="w-full text-left min-w-[600px]">
                   <thead>
@@ -382,9 +382,9 @@ export default function DebtSettlementVsBankruptcyPage() {
             </section>
 
             <section id="cibil-impact" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
                 CIBIL Score Consequences: The Long Road to Recovery
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 Let us be brutally honest about the credit score. Both paths will damage your CIBIL score. However, a debt settlement is viewed by CIBIL as a 'Settled' status. While your score will drop by 70 to 100 points, the debt is closed. You can begin rebuilding your credit almost immediately by using secured credit products like FD-backed credit cards. Within 2 to 3 years of perfect behavior after a settlement, you can often see your score return to a 'Fair' range of 650 to 700.
               </p>
@@ -397,7 +397,7 @@ export default function DebtSettlementVsBankruptcyPage() {
             {/* Continuing with detailed sections regarding legalities and practicalities */}
 
             <section id="legal-protection" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Legal Safety Nets: Who Protects You?</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Legal Safety Nets: Who Protects You?</h3>
               <p className="mb-6">
                 The biggest fear for any debtor is the harassment of recovery agents. In a debt settlement process, you do not have an 'automatic' legal shield from the government. You rely on the negotiation process itself and the RBI's Fair Practice Code. This is why having a professional shield is so important. When experts negotiate for you, they act as the buffer. They handle the calls and the legal notices, ensuring that the lender respects the rules of engagement.
               </p>
@@ -407,7 +407,7 @@ export default function DebtSettlementVsBankruptcyPage() {
             </section>
 
             <section id="asset-safety" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Asset Safety: Saving Your Home and Car</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Asset Safety: Saving Your Home and Car</h3>
               <p className="mb-6">
                 This is where the two paths diverge most sharply. In a debt settlement for unsecured debts (like credit cards or personal loans), your assets are not part of the deal. The bank has no claim on your house or your car because they didn't take them as collateral. You are simply negotiating the closure of a signature-based loan. As long as you can find the money for the settlement (perhaps from a relative or from savings), your home stays yours.
               </p>
@@ -417,16 +417,16 @@ export default function DebtSettlementVsBankruptcyPage() {
             </section>
 
             <section id="cost-comparison" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 text-center">Timeline and Cost of Resolution</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 text-center">Timeline and Cost of Resolution</h3>
               <div className="grid md:grid-cols-2 gap-8 my-10">
                 <div className="bg-white p-8 rounded-2xl border border-blue-100 shadow-sm">
-                  <h3 className="text-xl font-bold mb-4 text-[#1F5EFF]">Settlement Timeline</h3>
+                  <h4 className="text-xl font-bold mb-4 text-[#1F5EFF]">Settlement Timeline</h4>
                   <p className="text-sm text-gray-600 leading-relaxed mb-4">
                     Typically 4 to 12 months. Once you stop payment and save enough, the deal can be closed in a matter of weeks. It is efficient and moves at your pace.
                   </p>
                 </div>
                 <div className="bg-white p-8 rounded-2xl border border-red-100 shadow-sm">
-                  <h3 className="text-xl font-bold mb-4 text-red-600">Bankruptcy Timeline</h3>
+                  <h4 className="text-xl font-bold mb-4 text-red-600">Bankruptcy Timeline</h4>
                   <p className="text-sm text-gray-600 leading-relaxed mb-4">
                     Typically 2 to 5 years. The DRTs in India are heavily burdened. Between filing, appointment of an RP, asset verification, and final discharge, you can spend half a decade in a 'legal limbo'.
                   </p>
@@ -438,7 +438,7 @@ export default function DebtSettlementVsBankruptcyPage() {
             </section>
 
             <section id="eligibility-rules" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Strict Eligibility Rules: Can You Even Qualify?</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Strict Eligibility Rules: Can You Even Qualify?</h3>
               <p className="mb-6">
                 Not everyone can just 'choose' bankruptcy. To file for insolvency under the IBC, you must meet specific criteria. You must be able to prove that you are genuinely unable to pay your debts as they fall due. This involves a full disclosure of all your income sources. If the court finds you are hiding income or have gifted assets to relatives recently to avoid payment, your petition will be dismissed with heavy penalties.
               </p>
@@ -448,7 +448,7 @@ export default function DebtSettlementVsBankruptcyPage() {
             </section>
 
             <section id="stigma-and-privacy" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Privacy vs Public Record: Keeping Your Dignity</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Privacy vs Public Record: Keeping Your Dignity</h3>
               <p className="mb-6">
                 In India, the societal stigma associated with 'Dewaliya' (bankruptcy) remains very high. Because an insolvency proceeding is a court matter, it is part of the public record. Your name can be searched in court databases, and if you are a business owner, its impact on your professional credibility can be devastating. Many employment contracts also have clauses stating that an insolvent person cannot hold certain positions, especially in finance or senior management.
               </p>
@@ -458,12 +458,12 @@ export default function DebtSettlementVsBankruptcyPage() {
             </section>
 
             <section id="creditor-perspective" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 text-center">What Lenders Prefer: Why Settlement is Easier</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 text-center">What Lenders Prefer: Why Settlement is Easier</h3>
               <p className="mb-6 text-lg">
                 Understand that banks hate the court system as much as you do. For a bank, participating in your bankruptcy proceeding means hiring expensive lawyers and waiting years to recover a small percentage of the debt. They much prefer a settlement. A settlement is an 'off-book' resolution that helps them meet their quarterly NPA reduction targets with zero legal cost.
               </p>
               <div className="bg-emerald-50 p-8 rounded-2xl border border-emerald-100 mb-8">
-                <h3 className="text-xl font-bold text-emerald-800 mb-4">Leveraging the Bank's Motivation</h3>
+                <h4 className="text-xl font-bold text-emerald-800 mb-4">Leveraging the Bank's Motivation</h4>
                 <p className="mb-4 text-emerald-900/80">
                   Knowing that the bank wants to avoid court is your biggest piece of leverage. When you approach them with a professional settlement proposal, you are offering them a 'peaceful exit'. This is why settlement success rates are much higher than insolvency success rates in the current Indian banking climate.
                 </p>
@@ -471,7 +471,7 @@ export default function DebtSettlementVsBankruptcyPage() {
             </section>
 
             <section id="new-2025-laws" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">New 2025 IBC Amendments: What's Changing?</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">New 2025 IBC Amendments: What's Changing?</h3>
               <p className="mb-6">
                 As of early 2025, the Indian government has introduced several amendments to the IBC to make personal insolvency more efficient. One key change is the introduction of a more streamlined 'Fresh Start Process' for individuals with an annual income below ₹60,000 and total assets below ₹20,000. For the absolute poorest of the poor, this is a miracle that allows them to erase their debts for free.
               </p>
@@ -481,20 +481,20 @@ export default function DebtSettlementVsBankruptcyPage() {
             </section>
 
             <section id="making-the-choice" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Making the Final Choice: A Simple Decision Tree</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Making the Final Choice: A Simple Decision Tree</h3>
               <div className="bg-[#2E2E2E] text-white p-8 rounded-2xl mb-8">
                 <p className="mb-6 opacity-80">Ask yourself these three questions to find your path:</p>
                 <div className="space-y-6">
                   <div className="border-l-2 border-[#1F5EFF] pl-4">
-                    <h3 className="font-bold mb-2">1. Do you have assets you want to keep?</h3>
+                    <h4 className="font-bold mb-2">1. Do you have assets you want to keep?</h4>
                     <p className="text-sm opacity-70">If Yes, choose **Debt Settlement**. If No, Bankruptcy might be okay.</p>
                   </div>
                   <div className="border-l-2 border-[#1F5EFF] pl-4">
-                    <h4 className="font-bold mb-2">2. Do you need a resolution within 12 months?</h4>
+                    <h5 className="font-bold mb-2">2. Do you need a resolution within 12 months?</h5>
                     <p className="text-sm opacity-70">If Yes, choose **Debt Settlement**. Bankruptcy will take several years.</p>
                   </div>
                   <div className="border-l-2 border-[#1F5EFF] pl-4">
-                    <h4 className="font-bold mb-2">3. Is your debt mostly unsecured (Credit Cards/Personal)?</h4>
+                    <h5 className="font-bold mb-2">3. Is your debt mostly unsecured (Credit Cards/Personal)?</h5>
                     <p className="text-sm opacity-70">If Yes, **Debt Settlement** is faster and more effective.</p>
                   </div>
                 </div>
@@ -502,7 +502,7 @@ export default function DebtSettlementVsBankruptcyPage() {
             </section>
 
             <section id="professional-guidance" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">The Need for an Expert Shield: Why Professional Help Matters</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">The Need for an Expert Shield: Why Professional Help Matters</h3>
               <p className="mb-6">
                 Neither of these paths should be walked alone. In bankruptcy, you are required by law to have a licensed Resolution Professional. In debt settlement, while you 'could' go it alone, have you ever negotiated with a bank's legal department? It is a David vs Goliath battle. The bank has infinite time, infinite lawyers, and zero emotion.
               </p>
@@ -512,7 +512,7 @@ export default function DebtSettlementVsBankruptcyPage() {
             </section>
 
             <section id="success-stories" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 text-center">Real Comparison Stories: Success vs Stress</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 text-center">Real Comparison Stories: Success vs Stress</h3>
               <div className="grid md:grid-cols-2 gap-6 not-prose">
                 {[
                   {
@@ -550,7 +550,7 @@ export default function DebtSettlementVsBankruptcyPage() {
                         {review.name.charAt(0)}
                       </div>
                       <div>
-                        <h3 className="font-bold text-[#2E2E2E]">{review.name}</h3>
+                        <h4 className="font-bold text-[#2E2E2E]">{review.name}</h4>
                         <p className="text-xs text-gray-400">{review.loc}</p>
                       </div>
                       <div className="ml-auto text-yellow-400 text-sm">★★★★★</div>
@@ -565,7 +565,7 @@ export default function DebtSettlementVsBankruptcyPage() {
             </section>
 
             <section id="faqs" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Frequently Asked Questions</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Frequently Asked Questions</h3>
               <div className="space-y-4 not-prose">
                 {jsonLd["@graph"]?.[4] && "mainEntity" in jsonLd["@graph"][4] && (jsonLd["@graph"][4] as any)?.mainEntity?.map((faq: any, i: number) => (
                   <details key={i} className="group bg-white border border-[#DEDEDE] rounded-xl overflow-hidden hover:shadow-md transition-all border-b-4 border-b-[#1F5EFF]/20">
@@ -591,7 +591,7 @@ export default function DebtSettlementVsBankruptcyPage() {
             <div className="lg:hidden mt-16 mb-8">
               <div className="bg-[#2E2E2E] rounded-2xl shadow-xl overflow-hidden border border-[#1F5EFF]/20">
                 <div className="bg-[#1F5EFF] p-6 text-center text-white">
-                  <h3 className="text-2xl font-black mb-2">Confused About the Path?</h3>
+                  <h4 className="text-2xl font-black mb-2">Confused About the Path?</h4>
                   <p className="opacity-90 text-sm">Let us help you decide which option protects your family's future the best.</p>
                 </div>
                 <div className="p-8 text-center text-[#DEDEDE]">

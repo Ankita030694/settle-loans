@@ -144,10 +144,10 @@ export default function Page() {
 
             {/* RBI Guidelines */}
             <section id="rbi-guidelines" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">Strict RBI Guidelines for Repo Agents</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">Strict RBI Guidelines for Repo Agents</h3>
               
               <div className="bg-blue-50 border-l-8 border-[#1F5EFF] p-8 rounded-r-2xl mb-8">
-                <h3 className="text-xl font-black text-[#1F5EFF] mb-4">Mandatory Repossession Protocol</h3>
+                <h4 className="text-xl font-black text-[#1F5EFF] mb-4">Mandatory Repossession Protocol</h4>
                 <p className="text-lg leading-relaxed mb-4 text-blue-900">
                   Banks cannot wake up one day and decide to seize your vehicle. They must follow a strict legal trajectory designed to protect the borrower's dignity and rights.
                 </p>
@@ -175,28 +175,28 @@ export default function Page() {
                 <div className="flex gap-6">
                   <div className="flex-shrink-0 w-12 h-12 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center font-black text-xl shadow-lg">1</div>
                   <div>
-                    <h3 className="text-2xl font-bold text-[#2E2E2E] mb-2">Issuance of Loan Recall Notice</h3>
+                    <h4 className="text-2xl font-bold text-[#2E2E2E] mb-2">Issuance of Loan Recall Notice</h4>
                     <p className="text-lg text-gray-700">Before any action is taken, the bank will declare the account as an NPA (Non-Performing Asset) and issue a loan recall notice asking for complete payment.</p>
                   </div>
                 </div>
                 <div className="flex gap-6">
                   <div className="flex-shrink-0 w-12 h-12 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center font-black text-xl shadow-lg">2</div>
                   <div>
-                    <h3 className="text-2xl font-bold text-[#2E2E2E] mb-2">Pre-Seizure Intimation</h3>
+                    <h4 className="text-2xl font-bold text-[#2E2E2E] mb-2">Pre-Seizure Intimation</h4>
                     <p className="text-lg text-gray-700">The bank must notify the local police station about the intended repossession and serve a final notice to the borrower giving them a final window to clear the dues.</p>
                   </div>
                 </div>
                 <div className="flex gap-6">
                   <div className="flex-shrink-0 w-12 h-12 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center font-black text-xl shadow-lg">3</div>
                   <div>
-                    <h3 className="text-2xl font-bold text-[#2E2E2E] mb-2">Peaceful Repossession</h3>
+                    <h4 className="text-2xl font-bold text-[#2E2E2E] mb-2">Peaceful Repossession</h4>
                     <p className="text-lg text-gray-700">The physical possession must be done peacefully, typically from the borrower's residence, in a civilized manner, without creating a public scene.</p>
                   </div>
                 </div>
                 <div className="flex gap-6">
                   <div className="flex-shrink-0 w-12 h-12 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center font-black text-xl shadow-lg">4</div>
                   <div>
-                    <h3 className="text-2xl font-bold text-[#2E2E2E] mb-2">Inventory and Pre-Sale Notice</h3>
+                    <h4 className="text-2xl font-bold text-[#2E2E2E] mb-2">Inventory and Pre-Sale Notice</h4>
                     <p className="text-lg text-gray-700">After seizure, an inventory of items left in the car must be made. The bank will then issue a pre-sale notice giving 7-14 days for the borrower to settle before auctioning the car.</p>
                   </div>
                 </div>
@@ -205,10 +205,10 @@ export default function Page() {
 
             {/* What is Illegal? */}
             <section id="what-is-illegal" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">What is Considered Illegal Seizure?</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">What is Considered Illegal Seizure?</h3>
               
               <div className="bg-red-50 p-6 rounded-xl border border-red-100 mb-8">
-                <h3 className="text-xl font-black text-red-700 mb-4">Warning: Identify Illegal Actions</h3>
+                <h4 className="text-xl font-black text-red-700 mb-4">Warning: Identify Illegal Actions</h4>
                 <p className="text-lg leading-relaxed text-red-900 m-0">
                   If repo agents act like goons and violate the dignity and safety of a borrower, their actions cross the line into criminality. In such scenarios, the borrower can hold the bank directly liable for damages.
                 </p>
@@ -216,19 +216,19 @@ export default function Page() {
 
               <div className="grid md:grid-cols-2 gap-6 my-8">
                 <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
-                  <h4 className="font-black text-[#1F5EFF] text-lg mb-3">Public Interception</h4>
+                  <h5 className="font-black text-[#1F5EFF] text-lg mb-3">Public Interception</h5>
                   <p className="text-gray-700">Stopping you forcefully on the highway, blocking your path, or dragging you out of the vehicle in public view.</p>
                 </div>
                 <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
-                  <h4 className="font-black text-[#1F5EFF] text-lg mb-3">No Advance Notice</h4>
+                  <h5 className="font-black text-[#1F5EFF] text-lg mb-3">No Advance Notice</h5>
                   <p className="text-gray-700">Seizing the vehicle without having sent any prior written communication or legal notice.</p>
                 </div>
                 <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
-                  <h4 className="font-black text-[#1F5EFF] text-lg mb-3">Use of Musclemen</h4>
+                  <h5 className="font-black text-[#1F5EFF] text-lg mb-3">Use of Musclemen</h5>
                   <p className="text-gray-700">Hiring thugs or unregistered recovery agents to intimidate, threaten, or abuse you or your family members.</p>
                 </div>
                 <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
-                  <h4 className="font-black text-[#1F5EFF] text-lg mb-3">Odd Hours Harassment</h4>
+                  <h5 className="font-black text-[#1F5EFF] text-lg mb-3">Odd Hours Harassment</h5>
                   <p className="text-gray-700">Attempting to seize the vehicle or showing up at your residence before 7 AM or after 7 PM.</p>
                 </div>
               </div>
@@ -236,7 +236,7 @@ export default function Page() {
 
             {/* Role of Police */}
             <section id="role-of-police" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">The Role of Police in Repossession</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">The Role of Police in Repossession</h3>
               <div className="bg-white rounded-2xl p-8 border border-[#DEDEDE] shadow-sm relative overflow-hidden mb-8">
                 <p className="text-lg leading-relaxed mb-6 text-gray-700">
                   One of the most common misconceptions among borrowers is the extent of police authority during a vehicle seizure. Often, recovery agents will threaten borrowers by claiming they will bring the police to arrest them or forcibly take the vehicle. It is crucial to understand that a loan default is a civil dispute, not a criminal offense.
@@ -252,10 +252,10 @@ export default function Page() {
 
             {/* Surrendering Vehicle */}
             <section id="surrendering-vehicle" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">Voluntary Surrender vs. Forced Seizure</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">Voluntary Surrender vs. Forced Seizure</h3>
               <div className="grid md:grid-cols-2 gap-6 my-8">
                 <div className="bg-[#f8faff] p-8 rounded-xl border border-[#DEDEDE]">
-                  <h3 className="font-black text-[#1F5EFF] text-xl mb-4">Voluntary Surrender</h3>
+                  <h4 className="font-black text-[#1F5EFF] text-xl mb-4">Voluntary Surrender</h4>
                   <p className="text-gray-700 text-lg leading-relaxed mb-4">
                     If you realize you can no longer afford the EMIs, voluntarily surrendering the vehicle might be an option. This process allows you to peacefully hand over the car to the bank, avoiding the stress and public humiliation of a forced repossession. 
                   </p>
@@ -264,7 +264,7 @@ export default function Page() {
                   </p>
                 </div>
                 <div className="bg-red-50 p-8 rounded-xl border border-red-100">
-                  <h4 className="font-black text-red-700 text-xl mb-4">Forced Repossession</h4>
+                  <h5 className="font-black text-red-700 text-xl mb-4">Forced Repossession</h5>
                   <p className="text-gray-900 text-lg leading-relaxed mb-4">
                     Waiting for the bank to forcibly seize your car adds tremendous trauma. Furthermore, forced repossession adds significant recovery fees, towing charges, and legal expenses to your overall loan balance, sinking you further into debt.
                   </p>
@@ -277,7 +277,7 @@ export default function Page() {
 
             {/* Impact on CIBIL */}
             <section id="impact-on-cibil" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">Impact on Your CIBIL Score</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">Impact on Your CIBIL Score</h3>
               <div className="bg-gray-50 p-8 rounded-2xl mb-8 border border-gray-200">
                 <p className="text-lg leading-relaxed mb-6">
                   A vehicle seizure, whether forced or voluntary, is a massive blow to your credit health. When a car is repossessed, the lender marks your credit report with a "Repossession" or "Written-off" status. This derogatory mark will stay on your CIBIL report for up to seven years.
@@ -304,13 +304,13 @@ export default function Page() {
 
             {/* How to Stop Repossession */}
             <section id="stop-repossession" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">How to Stop Car Repossession</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">How to Stop Car Repossession</h3>
               <p className="text-lg leading-relaxed mb-6">
                 If you are facing threats of vehicle seizure, do not panic. The law provides you with legal remedies to defend yourself against predatory recovery tactics. 
               </p>
 
               <div className="bg-gray-50 p-8 rounded-2xl mb-8 border border-gray-200">
-                <h3 className="text-xl font-bold text-gray-900 mb-4">Immediate Steps You Should Take</h3>
+                <h4 className="text-xl font-bold text-gray-900 mb-4">Immediate Steps You Should Take</h4>
                 <ul className="space-y-4">
                   <li className="flex items-start gap-3">
                     <span className="font-black text-gray-500 mt-1">01.</span>
@@ -334,7 +334,7 @@ export default function Page() {
 
             {/* Success Stories */}
             <section id="success-stories" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">Success Stories</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">Success Stories</h3>
               <div className="grid md:grid-cols-2 gap-6">
                 
                 {/* Story 1 */}
@@ -380,7 +380,7 @@ export default function Page() {
 
             {/* FAQs */}
             <section id="faq" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">Frequently Asked Questions</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">Frequently Asked Questions</h3>
               <div className="space-y-4">
                 
                 <details name="faq-accordion" className="bg-white border border-[#DEDEDE] rounded-xl p-6 hover:shadow-md group cursor-pointer transition-shadow">
@@ -490,7 +490,7 @@ export default function Page() {
             <div className="bg-[#2E2E2E] text-white p-12 rounded-[40px] text-center mt-24 relative overflow-hidden group">
               <div className="absolute inset-0 bg-[#1F5EFF] opacity-0 group-hover:opacity-5 transition-opacity"></div>
               <div className="relative z-10">
-                <h3 className="text-3xl font-black mb-6">Stop Harassment Now</h3>
+                <h4 className="text-3xl font-black mb-6">Stop Harassment Now</h4>
                 <p className="text-lg text-gray-300 mb-8 max-w-2xl mx-auto">
                   Our legal experts can help you stop illegal vehicle seizures, file injunctions against abusive banks, and protect your dignity. Book a free consultation today.
                 </p>

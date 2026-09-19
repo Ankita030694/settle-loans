@@ -271,7 +271,7 @@ export default function LoanSettlementMedicalEmergencyPage() {
             </section>
 
             <section id="emergency-reality" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black mb-6">The Medical Debt Crisis in India</h2>
+              <h3 className="text-3xl md:text-4xl font-black mb-6">The Medical Debt Crisis in India</h3>
               <p className="text-lg leading-relaxed mb-6">
                 India has one of the highest out-of-pocket medical expenditures in the world. Despite the rise of insurance, many families find that their policies do not cover the full cost of specialized treatments or long-term care. A single medical emergency can lead to a debt trap that lasts for years. 
               </p>
@@ -279,7 +279,7 @@ export default function LoanSettlementMedicalEmergencyPage() {
                 In many cases, people take high-interest personal loans or use credit cards to pay for emergency surgeries. While this solves the immediate medical problem, it creates a long-term financial nightmare. The interest rates on these 'quick' loans can be as high as 40%, making repayment impossible if the primary earner cannot return to work immediately. This is where the cycle of default begins.
               </p>
               <div className="bg-gray-50 p-8 rounded-2xl border border-gray-200 mb-8">
-                <h3 className="text-xl font-bold mb-6">Why Medical Debt is Different</h3>
+                <h4 className="text-xl font-bold mb-6">Why Medical Debt is Different</h4>
                 <p className="mb-4 text-sm text-gray-600">
                   Unlike a loan taken for a luxury car or a vacation, medical debt is involuntary. No one chooses to be sick. The Indian legal system and the Reserve Bank of India recognize this distinction. They categorize medical defaults as 'hardship cases' rather than 'willful defaults'. This recognition is your greatest advantage when seeking a settlement.
                 </p>
@@ -295,19 +295,19 @@ export default function LoanSettlementMedicalEmergencyPage() {
             </section>
 
             <section id="legal-rights" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black mb-8">Your Legal Rights as a Distressed Borrower</h2>
+              <h3 className="text-3xl md:text-4xl font-black mb-8">Your Legal Rights as a Distressed Borrower</h3>
               <p className="text-lg leading-relaxed mb-6">
                 Knowledge is your best defense against intimidation. In India, the law protects the fundamental human rights of a borrower, even if they have failed to pay their EMIs. You must understand that a loan default is a civil matter, not a criminal one.
               </p>
               <div className="grid md:grid-cols-2 gap-8 mb-8">
                 <div className="bg-white p-6 rounded-xl border border-gray-100 shadow-sm">
-                  <h3 className="text-xl font-bold mb-4">Right to Privacy</h3>
+                  <h4 className="text-xl font-bold mb-4">Right to Privacy</h4>
                   <p className="text-sm text-gray-600 leading-relaxed">
                     Lenders cannot contact your friends, neighbors, or workplace to shame you. Your medical and financial situation is private. Sharing your photo or details on social media is a serious offense that can lead to legal action against the bank.
                   </p>
                 </div>
                 <div className="bg-white p-6 rounded-xl border border-gray-100 shadow-sm">
-                  <h3 className="text-xl font-bold mb-4">Right to Fair Treatment</h3>
+                  <h4 className="text-xl font-bold mb-4">Right to Fair Treatment</h4>
                   <p className="text-sm text-gray-600 leading-relaxed">
                     Recovery agents are strictly prohibited from using physical force or verbal abuse. They cannot enter your house without permission or stay there if you ask them to leave. During a medical crisis, their presence must be even more restrained.
                   </p>
@@ -319,12 +319,12 @@ export default function LoanSettlementMedicalEmergencyPage() {
             </section>
 
             <section id="rbi-guidelines" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black mb-8">RBI Guidelines: The Hardship Framework</h2>
+              <h3 className="text-3xl md:text-4xl font-black mb-8">RBI Guidelines: The Hardship Framework</h3>
               <p className="text-lg leading-relaxed mb-6">
                 The Reserve Bank of India (RBI) has issued several circulars regarding the Fair Practice Code for lenders. These guidelines explicitly state that banks and NBFCs must have a mechanism to handle genuine hardship cases. While the RBI does not force a bank to waive a loan, it creates an environment where banks are encouraged to offer a One-Time Settlement (OTS) or restructuring.
               </p>
               <div className="bg-[#2E2E2E] text-white p-8 rounded-2xl mb-8">
-                <h3 className="text-2xl font-bold mb-4 text-[#1F5EFF]">The 2024 Hardship Update</h3>
+                <h4 className="text-2xl font-bold mb-4 text-[#1F5EFF]">The 2024 Hardship Update</h4>
                 <p className="mb-4 opacity-80">
                   Lenders must have a board-approved policy to reach a compromise with borrowers who are in genuine distress. For a medical emergency, this means the bank must consider your hospital proofs and income disruption when deciding on the settlement amount.
                 </p>
@@ -338,7 +338,7 @@ export default function LoanSettlementMedicalEmergencyPage() {
             </section>
 
             <section id="effective-communication" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black mb-8">Talking to Your Bank: A Professional Strategy</h2>
+              <h3 className="text-3xl md:text-4xl font-black mb-8">Talking to Your Bank: A Professional Strategy</h3>
               <p className="text-lg leading-relaxed mb-6">
                 The biggest mistake people make during a medical emergency is going silent. While it is hard to talk to a bank when you are in pain, silence is often interpreted as an attempt to hide. The key is to communicate in writing, not just over the phone.
               </p>
@@ -348,11 +348,11 @@ export default function LoanSettlementMedicalEmergencyPage() {
             </section>
 
             <section id="essential-documents" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black mb-8">Your Checklist of Medical Proofs</h2>
+              <h3 className="text-3xl md:text-4xl font-black mb-8">Your Checklist of Medical Proofs</h3>
               <p className="text-lg leading-relaxed mb-10">To win a settlement case based on medical grounds, you need a solid paper trail. Prepare a folder with the following documents:</p>
               <div className="grid md:grid-cols-2 gap-4 mb-10">
                 <div className="p-6 bg-white border border-[#DEDEDE] rounded-xl shadow-sm">
-                  <h3 className="font-bold mb-4 text-[#1F5EFF]">The Paper Trail</h3>
+                  <h4 className="font-bold mb-4 text-[#1F5EFF]">The Paper Trail</h4>
                   <ul className="space-y-2 text-sm">
                     <li>• Hospital Discharge Summaries</li>
                     <li>• Consolidated Medical Bills</li>
@@ -361,7 +361,7 @@ export default function LoanSettlementMedicalEmergencyPage() {
                   </ul>
                 </div>
                 <div className="p-6 bg-white border border-[#DEDEDE] rounded-xl shadow-sm">
-                  <h4 className="font-bold mb-4 text-[#1F5EFF]">Income Evidence</h4>
+                  <h5 className="font-bold mb-4 text-[#1F5EFF]">Income Evidence</h5>
                   <ul className="space-y-2 text-sm">
                     <li>• Bank Statements (last 6 months)</li>
                     <li>• Salary Slips showing deduction for leave</li>
@@ -375,7 +375,7 @@ export default function LoanSettlementMedicalEmergencyPage() {
             {/* Adding more content sections here to increase word count and depth */}
 
             <section id="relief-options" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black mb-8">Settlement vs. Restructuring: Which is Right for You?</h2>
+              <h3 className="text-3xl md:text-4xl font-black mb-8">Settlement vs. Restructuring: Which is Right for You?</h3>
               <p className="text-lg leading-relaxed mb-6">
                 Depending on your recovery timeline, you can choose between two main options. If your medical condition is temporary and you expect to return to work within 6 months, you should ask for <strong>Loan Restructuring</strong>. This might involve an EMI holiday (moratorium) or an extension of the loan tenure to reduce the monthly burden. 
               </p>
@@ -385,7 +385,7 @@ export default function LoanSettlementMedicalEmergencyPage() {
             </section>
 
             <section id="stopping-harassment" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black mb-8">Stopping the Harassment: Your Legal Shield</h2>
+              <h3 className="text-3xl md:text-4xl font-black mb-8">Stopping the Harassment: Your Legal Shield</h3>
               <p className="text-lg leading-relaxed mb-6">
                 When a recovery agent calls you while you are in the hospital, it is more than just an annoyance; it is a violation of the RBI's guidance on ethical debt recovery. Our team at SettleLoans takes this very seriously. We act as your official legal representatives. Once you authorize us, the banks are legally required to talk to us, not you. 
               </p>
@@ -395,7 +395,7 @@ export default function LoanSettlementMedicalEmergencyPage() {
             </section>
 
             <section id="pf-withdrawal" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black mb-8">Using Your PF for Medical Debt Relief</h2>
+              <h3 className="text-3xl md:text-4xl font-black mb-8">Using Your PF for Medical Debt Relief</h3>
               <p className="text-lg leading-relaxed mb-6">
                 Many Indians are unaware that they can withdraw their Provident Fund (PF) for medical emergencies. Under PF rules, you can withdraw up to 6 months of basic salary or the employee's share with interest (whichever is less) for the treatment of self or family. 
               </p>
@@ -405,7 +405,7 @@ export default function LoanSettlementMedicalEmergencyPage() {
             </section>
 
             <section id="life-after-settlement" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black mb-8">Life After Settlement: Rebuilding Your Future</h2>
+              <h3 className="text-3xl md:text-4xl font-black mb-8">Life After Settlement: Rebuilding Your Future</h3>
               <p className="text-lg leading-relaxed mb-6">
                 Becoming debt-free is just the beginning of your new financial life. While a settlement affects your CIBIL score for some time, it is a temporary situation. Once your medical condition stabilizes and you start earning again, you can rebuild your score through disciplined financial behavior.
               </p>
@@ -413,13 +413,13 @@ export default function LoanSettlementMedicalEmergencyPage() {
                 Focus on small, secured credit cards and regular utility bill payments. Within 2 to 3 years, many of our clients are back to having healthy credit scores. The most important thing is that the crushing weight of unmanageable debt is gone.
               </p>
               <div className="bg-blue-50 p-8 rounded-2xl border border-blue-100 text-center">
-                <h3 className="text-2xl font-black mb-4">You Have a Second Chance</h3>
+                <h4 className="text-2xl font-black mb-4">You Have a Second Chance</h4>
                 <p className="text-lg">Life happens, and sometimes it hits hard. But with the right help and the right information, there is always a way out. We believe in you.</p>
               </div>
             </section>
 
             <section id="success-stories" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black mb-12 text-center">Real Stories of Financial Freedom</h2>
+              <h3 className="text-3xl md:text-4xl font-black mb-12 text-center">Real Stories of Financial Freedom</h3>
               <div className="grid md:grid-cols-1 gap-6">
                 {reviews.map((review, i) => (
                   <div key={i} className="bg-white p-8 rounded-2xl border border-[#DEDEDE] shadow-sm hover:shadow-md transition-all">
@@ -428,7 +428,7 @@ export default function LoanSettlementMedicalEmergencyPage() {
                         {review.name.charAt(0)}
                       </div>
                       <div>
-                        <h3 className="font-bold text-lg">{review.name}</h3>
+                        <h4 className="font-bold text-lg">{review.name}</h4>
                         <p className="text-sm text-gray-500">{review.loc}</p>
                       </div>
                       <div className="ml-auto text-yellow-400 text-sm">★★★★★</div>
@@ -443,7 +443,7 @@ export default function LoanSettlementMedicalEmergencyPage() {
             </section>
 
             <section id="faqs" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black mb-8">Frequently Asked Questions</h2>
+              <h3 className="text-3xl md:text-4xl font-black mb-8">Frequently Asked Questions</h3>
               <div className="space-y-4">
                 {(jsonLd["@graph"][4] as any)?.mainEntity?.map((faq: any, i: number) => (
                   <details key={i} className="group bg-white border border-[#DEDEDE] rounded-xl overflow-hidden hover:shadow-md transition-all border-b-4 border-b-[#1F5EFF]/20">
@@ -499,7 +499,7 @@ export default function LoanSettlementMedicalEmergencyPage() {
         {/* Final Bottom CTA */}
         <div className="w-full bg-[#2E2E2E] py-20 px-4 mt-20 text-center border-t border-[#1F5EFF]/20">
           <div className="max-w-4xl mx-auto">
-            <h2 className="text-3xl md:text-5xl font-black text-white mb-6">Stop Waiting. Start Healing.</h2>
+            <h3 className="text-3xl md:text-5xl font-black text-white mb-6">Stop Waiting. Start Healing.</h3>
             <p className="text-[#DEDEDE]/80 text-xl mb-10">Thousands of Indians have found their way back to financial health with our support. It is your turn now.</p>
             <Link href="/contact" className="inline-block bg-[#1F5EFF] text-white font-black py-5 px-12 rounded-xl hover:scale-105 transition-all shadow-xl text-xl">
               Book Your Free Call

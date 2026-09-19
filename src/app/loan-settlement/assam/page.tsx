@@ -283,7 +283,7 @@ export default function AssamLoanSettlementPage() {
               <p>We are seeing an alarming rise in harassment cases where recovery agents violate the sanctity of homes. This is illegal and unacceptable. Our presence in Assam is dedicated to upholding the rights of the borrower. We don't just negotiate financial terms; we restore your peace of mind by standing as a shield between you and the aggressive lenders.</p>
 
               <div className="bg-yellow-50 border-l-4 border-yellow-500 p-6 rounded-r-lg my-8">
-                <h3 className="text-xl font-bold text-yellow-800 mb-2">The Impact of Annual Floods on Repayment</h3>
+                <h4 className="text-xl font-bold text-yellow-800 mb-2">The Impact of Annual Floods on Repayment</h4>
                 <p className="text-yellow-900/80 mb-2">
                    Assam's economy is uniquely vulnerable to the Brahmaputra's annual floods. We understand that a missed payment in July or August is often due to displacement or crop loss, not willful default. Whether you are a business owner in Fancy Bazar whose stock was damaged or a farmer in Morigaon losing a harvest, we use "Force Majeure" and natural calamity clauses to argue for repayment holidays and interest waivers. Banks *must* consider local geographical realities, and we force them to acknowledge this context in your settlement application.
                 </p>
@@ -291,7 +291,7 @@ export default function AssamLoanSettlementPage() {
             </section>
 
             <section id="mfi-act-2020" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl font-black mb-6">Assam Micro Finance Institutions Regulation Act, 2020</h2>
+              <h3 className="text-3xl font-black mb-6">Assam Micro Finance Institutions Regulation Act, 2020</h3>
               <p>In response to the growing distress among borrowers, the Government of Assam enacted the landmark <strong>Assam Micro Finance Institutions (Regulation of Money Lending) Act, 2020</strong>. This legislation is a powerful tool for any borrower in Assam facing pressure from MFIs. It was designed to curb predatory lending practices and provide relief to economically vulnerable sections.</p>
               <p>Key provisions of this Act that SettleLoans leverages for your protection include:</p>
               <ul className="list-disc pl-6 space-y-2">
@@ -304,7 +304,7 @@ export default function AssamLoanSettlementPage() {
             </section>
 
             <section id="bandhan-bank-factor" className="scroll-mt-32 mb-16">
-               <h2 className="text-3xl font-black mb-6">The "Bandhan Bank" & MFI Dominance in Assam</h2>
+               <h3 className="text-3xl font-black mb-6">The "Bandhan Bank" & MFI Dominance in Assam</h3>
                <p>Assam has one of the highest penetrations of Microfinance Institutions (MFIs) in India, with major players like Bandhan Bank, Arohan, and North East Small Finance Bank having a massive footprint. While these institutions provide crucial credit, their recovery model relies heavily on "Group Liability" or the Joint Liability Group (JLG) model. This often leads to intense social pressure where group members are forced to pay for a defaulting member.</p>
                <p><strong>How We Handle Group Liability & MFI Loans:</strong></p>
                <ul className="list-disc pl-6 space-y-4 mt-4">
@@ -315,7 +315,7 @@ export default function AssamLoanSettlementPage() {
             </section>
 
             <section id="digital-lending-guwahati" className="scroll-mt-32 mb-16">
-               <h2 className="text-3xl font-black mb-6">Digital Loan Sharks: The New Threat in Guwahati</h2>
+               <h3 className="text-3xl font-black mb-6">Digital Loan Sharks: The New Threat in Guwahati</h3>
                <p>A disturbing trend in Assam's urban centers like Guwahati, Dibrugarh, and Jorhat is the explosion of "Instant Loan Apps." These apps promise quick money without paperwork but often charge interest rates of 300% to 500% annualized. Worse, they access your phone's contacts and gallery.</p>
                <p><strong>Our specialized "Cyber-Legal" approach for App Loans:</strong></p>
                <ol className="list-decimal pl-6 space-y-3 mt-4">
@@ -326,7 +326,7 @@ export default function AssamLoanSettlementPage() {
             </section>
 
             <section id="recovery-of-loans-act" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl font-black mb-6">The Assam Recovery of Loans Act, 1976</h2>
+              <h3 className="text-3xl font-black mb-6">The Assam Recovery of Loans Act, 1976</h3>
               <p>While the MFI Act is recent, Assam has a long history of legislative protection for borrowers. The <strong>Assam Recovery of Loans Act, 1976</strong> is another critical piece of legislation. Originally intended to facilitate recovery for banks, it also lays down due process that must be followed. It requires that recovery of dues be treated as public demands, which implies a structured, state-monitored process rather than the chaotic, private recovery methods often seen today.</p>
               <p>This Act ensures that there is a layer of administrative oversight in the recovery process. It prevents banks from bypassing the legal system to seize assets arbitrarily. When we handle your case, we ensure that every action taken by the lender is scrutinized against the provisions of this Act. If a bank or financial institution tries to shortcut the process, we intervene legally to stay their hands.</p>
               
@@ -334,7 +334,7 @@ export default function AssamLoanSettlementPage() {
             </section>
 
             <section id="arbitration-notice-handling" className="scroll-mt-32 mb-16">
-               <h2 className="text-3xl font-black mb-6">Received a "Notice of Arbitration"? Don't Panic.</h2>
+               <h3 className="text-3xl font-black mb-6">Received a "Notice of Arbitration"? Don't Panic.</h3>
                <p>It is becoming common for banks and NBFCs to send "Arbitration Notices" to borrowers in Assam, often citing proceedings in completely different states like Delhi or Chennai. This is a tactical move to scare you.</p>
                <p><strong>The Reality of Arbitration in Consumer Loans:</strong></p>
                <p>Arbitration is meant for commercial disputes, not for a salaried individual who missed an EMI. Courts have frequently frowned upon the unilateral appointment of arbitrators by banks.</p>
@@ -347,7 +347,7 @@ export default function AssamLoanSettlementPage() {
             </section>
 
             <section id="debt-recovery-tribunal" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl font-black mb-6">Navigating the DRT Guwahati</h2>
+              <h3 className="text-3xl font-black mb-6">Navigating the DRT Guwahati</h3>
               <p>For larger loans, typically above ₹20 Lakhs, banks in Assam approach the <strong>Debts Recovery Tribunal (DRT) in Guwahati</strong>. This tribunal has jurisdiction not just over Assam but the entire Northeastern region. Receiving a notice from the DRT can be intimidating, but it is also an opportunity for legal defense.</p>
               <p>The DRT process is governed by central laws, but the local bench in Guwahati has its own procedural nuances. At SettleLoans, we provide expert legal representation at the DRT. Our strategy involves:</p>
               <ul className="list-disc pl-6 space-y-2">
@@ -358,7 +358,7 @@ export default function AssamLoanSettlementPage() {
               <p>Our experience with the Guwahati bench ensures that your voice is heard. We transform the DRT proceedings from a one-sided recovery drive into a balanced legal discourse where your rights as a borrower are respected.</p>
 
                <div className="mt-8 bg-gray-50 border border-gray-200 p-6 rounded-xl">
-                  <h3 className="font-bold text-lg mb-2">The Importance of a "Hardship Letter"</h3>
+                  <h4 className="font-bold text-lg mb-2">The Importance of a "Hardship Letter"</h4>
                   <p className="text-sm mb-4">
                      Success in settlement often depends on how well you tell your story. A generic request is easily rejected. We help you draft a compelling "Hardship Letter" which is the heart of our application.
                   </p>
@@ -377,7 +377,7 @@ export default function AssamLoanSettlementPage() {
             </section>
 
             <section id="rbi-guidelines-northeast" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl font-black mb-6">RBI Guidelines: Specific Context for the Northeast</h2>
+              <h3 className="text-3xl font-black mb-6">RBI Guidelines: Specific Context for the Northeast</h3>
               <p>The Reserve Bank of India (RBI) has issued specific master directions regarding banking services in the Northeast, acknowledging the unique economic challenges of the region. These guidelines emphasize the need for sensitivity in handling borrowers from this region.</p>
               <p>Key protections include:</p>
               <div className="bg-blue-50 border-l-4 border-blue-500 p-6 rounded-r-lg my-6">
@@ -391,7 +391,7 @@ export default function AssamLoanSettlementPage() {
             </section>
 
             <section id="settlement-myths" className="scroll-mt-32 mb-16">
-               <h2 className="text-3xl font-black mb-6">Busting Myths: Settlement & CIBIL in Assam</h2>
+               <h3 className="text-3xl font-black mb-6">Busting Myths: Settlement & CIBIL in Assam</h3>
                <p>There is a lot of misinformation spreading in local WhatsApp groups about loan settlement. Let's clear the air for Assamese borrowers:</p>
                
                <div className="space-y-4">
@@ -413,7 +413,7 @@ export default function AssamLoanSettlementPage() {
             </section>
 
             <section id="harassment-protection" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl font-black mb-6">Stopping Harassment: Our Zero Tolerance Policy</h2>
+              <h3 className="text-3xl font-black mb-6">Stopping Harassment: Our Zero Tolerance Policy</h3>
               <p>Harassment by recovery agents is the most distressing part of being in debt. In Assam, we have seen agents cross all lines - shouting outside homes in residential colonies of Guwahati, calling relatives in remote villages, or threatening legal action they have no power to take.</p>
               <p><strong>This ends when you hire SettleLoans.</strong></p>
               <p>Our "Anti-Harassment" service is immediate and effective:</p>
@@ -425,30 +425,30 @@ export default function AssamLoanSettlementPage() {
             </section>
 
             <section id="district-insights" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl font-black mb-6">Regional Insights: Guwahati to Dibrugarh</h2>
+              <h3 className="text-3xl font-black mb-6">Regional Insights: Guwahati to Dibrugarh</h3>
               <p>Debt patterns vary across the state, and so does our approach.</p>
               <div className="grid md:grid-cols-2 gap-6 my-8">
                 <div className="bg-gray-50 p-6 rounded-xl border border-gray-200">
-                  <h3 className="font-bold text-xl mb-3 text-[#1F5EFF]">Guwahati & Kamrup</h3>
+                  <h4 className="font-bold text-xl mb-3 text-[#1F5EFF]">Guwahati & Kamrup</h4>
                   <p className="text-sm">High concentration of credit card and personal loan debt among salaried class. Aggressive recovery by private agencies. We focus on consumer court protection and corporate conflict resolution here.</p>
                 </div>
                 <div className="bg-gray-50 p-6 rounded-xl border border-gray-200">
-                  <h3 className="font-bold text-xl mb-3 text-[#1F5EFF]">Upper Assam (Dibrugarh, Tinsukia)</h3>
+                  <h4 className="font-bold text-xl mb-3 text-[#1F5EFF]">Upper Assam (Dibrugarh, Tinsukia)</h4>
                   <p className="text-sm">Mix of trade-related business loans and tea garden worker debt. High incidence of MFI overlap. Our strategy relies heavily on the MFI Act 2020 and community mediation.</p>
                 </div>
                 <div className="bg-gray-50 p-6 rounded-xl border border-gray-200">
-                  <h3 className="font-bold text-xl mb-3 text-[#1F5EFF]">Barak Valley (Silchar, Karimganj)</h3>
+                  <h4 className="font-bold text-xl mb-3 text-[#1F5EFF]">Barak Valley (Silchar, Karimganj)</h4>
                   <p className="text-sm">Significant cross-border trade debt and small business loans. We leverage local legal provisions and DRT representations to protect traders and small business owners.</p>
                 </div>
                 <div className="bg-gray-50 p-6 rounded-xl border border-gray-200">
-                  <h3 className="font-bold text-xl mb-3 text-[#1F5EFF]">Central Assam (Nagaon, Tezpur)</h3>
+                  <h4 className="font-bold text-xl mb-3 text-[#1F5EFF]">Central Assam (Nagaon, Tezpur)</h4>
                   <p className="text-sm">High agricultural and rural credit stress. We utilize agricultural debt relief norms and negotiate waivers based on crop cycles and flood impact.</p>
                 </div>
               </div>
             </section>
 
             <section id="settlement-process" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl font-black mb-6">Our Proven Settlement Process</h2>
+              <h3 className="text-3xl font-black mb-6">Our Proven Settlement Process</h3>
               <p>We follow a structured 5-step process tailored for Assam:</p>
               <div className="space-y-6 mt-6">
                 <div className="flex">
@@ -456,7 +456,7 @@ export default function AssamLoanSettlementPage() {
                     <div className="flex items-center justify-center w-8 h-8 rounded-full bg-[#1F5EFF] text-white font-bold">1</div>
                   </div>
                   <div>
-                    <h3 className="text-lg font-bold">Case Analysis</h3>
+                    <h4 className="text-lg font-bold">Case Analysis</h4>
                     <p className="text-gray-600">We analyze your loan portfolio to check for illegal interest charges and MFI Act violations.</p>
                   </div>
                 </div>
@@ -465,7 +465,7 @@ export default function AssamLoanSettlementPage() {
                     <div className="flex items-center justify-center w-8 h-8 rounded-full bg-[#1F5EFF] text-white font-bold">2</div>
                   </div>
                   <div>
-                    <h3 className="text-lg font-bold">Legal Shielding</h3>
+                    <h4 className="text-lg font-bold">Legal Shielding</h4>
                     <p className="text-gray-600">We send notices to stop harassment immediately, citing Assam-specific laws.</p>
                   </div>
                 </div>
@@ -474,7 +474,7 @@ export default function AssamLoanSettlementPage() {
                     <div className="flex items-center justify-center w-8 h-8 rounded-full bg-[#1F5EFF] text-white font-bold">3</div>
                   </div>
                   <div>
-                    <h3 className="text-lg font-bold">Strategic Negotiation</h3>
+                    <h4 className="text-lg font-bold">Strategic Negotiation</h4>
                     <p className="text-gray-600">We negotiate with bank managers in Guwahati or regional offices to waive interest and penalties.</p>
                   </div>
                 </div>
@@ -483,7 +483,7 @@ export default function AssamLoanSettlementPage() {
                     <div className="flex items-center justify-center w-8 h-8 rounded-full bg-[#1F5EFF] text-white font-bold">4</div>
                   </div>
                   <div>
-                    <h3 className="text-lg font-bold">Settlement Approval</h3>
+                    <h4 className="text-lg font-bold">Settlement Approval</h4>
                     <p className="text-gray-600">We secure a formal settlement letter. You pay only the agreed reduced amount.</p>
                   </div>
                 </div>
@@ -492,29 +492,29 @@ export default function AssamLoanSettlementPage() {
                     <div className="flex items-center justify-center w-8 h-8 rounded-full bg-[#1F5EFF] text-white font-bold">5</div>
                   </div>
                   <div>
-                    <h3 className="text-lg font-bold">No Dues Certificate</h3>
+                    <h4 className="text-lg font-bold">No Dues Certificate</h4>
                     <p className="text-gray-600">We ensure you receive the NDC and guide you on rebuilding your credit score.</p>
                   </div>
                 </div>
               </div>
 
                <div className="mt-12">
-                  <h3 className="text-2xl font-black text-[#2E2E2E] mb-6">Why SettleLoans is Different</h3>
+                  <h4 className="text-2xl font-black text-[#2E2E2E] mb-6">Why SettleLoans is Different</h4>
                   <div className="grid sm:grid-cols-2 gap-4">
                      <div className="bg-white border border-gray-200 p-4 rounded-lg shadow-sm">
-                        <h4 className="font-bold text-[#1F5EFF] mb-2">Hybrid Legal-Financial Team</h4>
+                        <h5 className="font-bold text-[#1F5EFF] mb-2">Hybrid Legal-Financial Team</h5>
                         <p className="text-sm text-gray-600">We don't just have financial advisors. We have practicing advocates who understand the Gauhati High Court precedents and DRT procedures.</p>
                      </div>
                      <div className="bg-white border border-gray-200 p-4 rounded-lg shadow-sm">
-                        <h4 className="font-bold text-[#1F5EFF] mb-2">Local Language Support</h4>
+                        <h5 className="font-bold text-[#1F5EFF] mb-2">Local Language Support</h5>
                         <p className="text-sm text-gray-600">We speak your language. Whether it is Assamese, Bengali, Hindi, or English, our case managers ensure you understand every step of the process clearly.</p>
                      </div>
                      <div className="bg-white border border-gray-200 p-4 rounded-lg shadow-sm">
-                        <h4 className="font-bold text-[#1F5EFF] mb-2">Transparent Fee Structure</h4>
+                        <h5 className="font-bold text-[#1F5EFF] mb-2">Transparent Fee Structure</h5>
                         <p className="text-sm text-gray-600">No hidden costs. We charge a service fee only for the work we do. All savings from the settlement go directly to your pocket.</p>
                      </div>
                      <div className="bg-white border border-gray-200 p-4 rounded-lg shadow-sm">
-                        <h4 className="font-bold text-[#1F5EFF] mb-2">Focus on Dignity</h4>
+                        <h5 className="font-bold text-[#1F5EFF] mb-2">Focus on Dignity</h5>
                         <p className="text-sm text-gray-600">We treat you with respect. We understand that debt can happen to anyone. Our job is to lift you up, not judge you.</p>
                      </div>
                   </div>
@@ -522,27 +522,27 @@ export default function AssamLoanSettlementPage() {
             </section>
 
             <section id="loan-waivers" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl font-black mb-6">Understanding Loan Waivers in Assam</h2>
+              <h3 className="text-3xl font-black mb-6">Understanding Loan Waivers in Assam</h3>
               <p>Borrowers often ask about government loan waivers. While the Assam government has actively provided relief for MFI loans under the <strong>Assam Micro Finance Incentive and Relief Scheme (AMFIRS), 2021</strong>, these are specific state initiatives. For credit cards, personal loans, and business loans from private banks, there are no automatic waivers.</p>
               <p>However, "Settlement" is a form of private waiver. When we negotiate a settlement, we effectively get the bank to "waive" the interest component and a part of the principal. This is an individual agreement between you and the bank, facilitated by our legal expertise. We ensure that you get the maximum possible benefit, similar to a waiver, by proving your financial hardship.</p>
               <p>For agricultural loans (KCC), we specifically check for eligibility under schemes like the Agricultural Debt Waiver and Debt Relief Scheme (ADWDRS) whenever applicable announcements are made by the Central or State government. We ensure no eligible farmer misses out on their entitlements.</p>
             </section>
 
             <section id="consumer-rights" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl font-black mb-6">Consumer Rights & Courts</h2>
+              <h3 className="text-3xl font-black mb-6">Consumer Rights & Courts</h3>
               <p>As a banking customer, you are a consumer falling under the Consumer Protection Act, 2019. If a bank provides "deficient service" - which includes harassment, failure to update CIBIL after payment, or losing your property documents - you can sue them.</p>
               <p>The District Consumer Disputes Redressal Commissions in Kamrup, Cachar, and other districts are empowered to award compensation. We often use the draft of a consumer complaint as a negotiation tool. Banks fear the reputational damage and fines from consumer courts, often engaging in a quick settlement to avoid litigation.</p>
               <p>Recently, the Supreme Court has also ruled that banks are liable for the actions of their recovery agents. This "Vicarious Liability" means the bank cannot wash its hands of the harassment you face. We hold the bank manager personally accountable for the threats issued by their third-party agencies.</p>
             </section>
 
             <section id="success-stories" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl font-black mb-8 text-center">Success Stories from Assam</h2>
+              <h3 className="text-3xl font-black mb-8 text-center">Success Stories from Assam</h3>
               <div className="grid md:grid-cols-2 gap-6 not-prose">
                 <div className="bg-white p-6 rounded-2xl border border-[#DEDEDE] shadow-sm hover:shadow-md transition-all">
                   <div className="flex items-center mb-4">
                     <div className="w-10 h-10 rounded-full bg-[#1F5EFF]/10 flex items-center justify-center font-bold text-[#1F5EFF] mr-3">B</div>
                     <div>
-                      <h3 className="font-bold">Bipul K.</h3>
+                      <h4 className="font-bold">Bipul K.</h4>
                       <p className="text-xs text-gray-500">Guwahati</p>
                     </div>
                   </div>
@@ -553,7 +553,7 @@ export default function AssamLoanSettlementPage() {
                   <div className="flex items-center mb-4">
                     <div className="w-10 h-10 rounded-full bg-[#1F5EFF]/10 flex items-center justify-center font-bold text-[#1F5EFF] mr-3">M</div>
                     <div>
-                      <h4 className="font-bold">Meena D.</h4>
+                      <h5 className="font-bold">Meena D.</h5>
                       <p className="text-xs text-gray-500">Tezpur</p>
                     </div>
                   </div>
@@ -564,7 +564,7 @@ export default function AssamLoanSettlementPage() {
             </section>
 
             <section id="faqs-assam" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl font-black mb-8">Frequently Asked Questions: Assam Edition</h2>
+              <h3 className="text-3xl font-black mb-8">Frequently Asked Questions: Assam Edition</h3>
               <div className="space-y-4 not-prose">
                 {[
                   { q: "Is SettleLoans active in Tinsukia and Jorhat?", a: "Yes, we serve every district in Assam. Our digital legal processes allow us to represent you remotely, effectiveness guaranteed." },
@@ -595,7 +595,7 @@ export default function AssamLoanSettlementPage() {
             </section>
 
             <section className="mt-16 bg-[#1F5EFF] rounded-3xl p-10 text-center text-white shadow-2xl">
-              <h2 className="text-3xl md:text-4xl font-black mb-4">Start Your New Life Today</h2>
+              <h3 className="text-3xl md:text-4xl font-black mb-4">Start Your New Life Today</h3>
               <p className="mb-8 text-lg opacity-90 max-w-2xl mx-auto">Don't let debt define your future. Join hundreds of satisfied clients in Assam who have reclaimed their financial freedom with SettleLoans.</p>
               <div className="flex justify-center">
                 <Link href="/contact" className="inline-block bg-white text-[#1F5EFF] font-black py-4 px-12 rounded-xl hover:scale-105 transition-all text-xl shadow-lg">

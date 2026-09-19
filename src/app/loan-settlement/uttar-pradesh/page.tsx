@@ -286,70 +286,70 @@ export default function UttarPradeshLoanSettlementPage() {
             </section>
 
             <section id="lucknow-noida-trap" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl font-black mb-6">The Debt Trap in Lucknow and Noida: A Modern Crisis</h2>
+              <h3 className="text-3xl font-black mb-6">The Debt Trap in Lucknow and Noida: A Modern Crisis</h3>
               <p>Lucknow, the capital city, and Noida, the industrial suburb of the NCR, represent two different kinds of debt scenarios. In Lucknow, many government and private sector employees often find themselves overleveraged through personal loans taken for home renovations or family social commitments. These "lifestyle" debts can become toxic when interest rates begin to compound.</p>
               <p>Noida, on the other hand, is home to a vast population of corporate employees and tech professionals who often rely heavily on multiple credit cards. The "Minimum Amount Due" feature on credit card bills is a common trap here. It gives a sense of temporary relief while the principal amount remains untouched and interest rates as high as 42% annually continue to eat into the borrower's future. For many young professionals in Sector 62 or Sectors 125 to 135, the cycle of debt becomes a major source of mental health stress.</p>
               <p>Breaking free from this cycle requires more than just better budgeting. It requires a strategic legal intervention. By choosing a structured loan settlement, you can stop the endless cycle of interest and settle your liabilities for a fraction of what is owed, allowing you to restart your financial life with dignity.</p>
             </section>
 
             <section id="why-settle-up" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl font-black mb-6">Why Choose Loan Settlement in Uttar Pradesh?</h2>
+              <h3 className="text-3xl font-black mb-6">Why Choose Loan Settlement in Uttar Pradesh?</h3>
               <p>Loan settlement is a practical solution for those whose financial situation has changed significantly since they took the debt. Banks and financial institutions in Uttar Pradesh are often willing to negotiate when they see that a borrower is genuinely struggling but willing to make a good faith effort to close the account. Especially in the competitive banking landscape of North India, lenders prefer recovering a portion of the principal through a settlement rather than classifying it as a complete loss.</p>
               <p>The state of Uttar Pradesh offers a robust legal framework that encourages mediation and settlement. With the presence of many public sector banks having their major zonal offices in Lucknow and Kanpur, reaching the right decision makers for a settlement proposal is often more effective than dealing with local branch officers. A settlement through official channels provides you with an "No Dues Certificate," which is your ticket to future financial freedom.</p>
               <p>Moreover, settling a debt allows you to reclaim your peace of mind. Instead of living in constant fear of the next recovery call or notice, you can proactively address the situation. It is a way to take responsibility for your debt while recognizing your current financial limitations. Our mission is to ensure that this process is handled legally and with respect for your rights.</p>
             </section>
 
             <section id="money-lending-act" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl font-black mb-6">Uttar Pradesh Regulation of Money Lending Act, 1976: Your Shield</h2>
+              <h3 className="text-3xl font-black mb-6">Uttar Pradesh Regulation of Money Lending Act, 1976: Your Shield</h3>
               <p>Many borrowers in Uttar Pradesh fall victim to unregulated lenders or "private financiers" who operate outside the formal banking system. This is where the Uttar Pradesh Regulation of Money Lending Act, 1976, becomes a vital piece of protection. This Act was designed specifically to prevent the exploitation of borrowers by unlicensed moneylenders who often charge exorbitant interest rates and use coercive recovery methods.</p>
               <p>Under this state law, every person carrying on the business of money lending must be registered. If a lender is not registered, they cannot approach a court for the recovery of a loan. Furthermore, the Act empowers the state government to fix the maximum rates of interest that can be charged. If you have taken a loan from a private source in Meerut or Ghaziabad and are being charged "weekly" or "daily" interest, you may have strong legal grounds to challenge the entire debt under this Act.</p>
               <p>At SettleLoans, we assist our clients in identifying if their lenders are operating within the law. If a lender is violating the UP Money Lending Act, we provide the necessary legal guidance to protect our clients from illegal demands and ensure their rights are upheld throughout the negotiation process.</p>
             </section>
 
             <section id="legal-recourse" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl font-black mb-6">Understanding Your Legal Recourse and Rights</h2>
+              <h3 className="text-3xl font-black mb-6">Understanding Your Legal Recourse and Rights</h3>
               <p>Every borrower in India, including those in Uttar Pradesh, is protected by the Constitution and various central laws. A debt default is a civil matter, not a criminal one. One of the most common fears among borrowers is that they will be arrested for not paying an EMI. This is a myth often perpetuated by unscrupulous recovery agents. Unless there is a proven case of fraud or a bounced cheque under Section 138 of the Negotiable Instruments Act, there is no provision for immediate arrest in a simple loan default case.</p>
               <p>You have the right to be treated with dignity. The RBI's Fair Practices Code for Lenders is very clear on how banks must behave. In Uttar Pradesh, if a recovery agent uses abusive language, threatens your family, or visits your home at odd hours, they are breaking the law. You have the right to file a complaint at your local police station in cities like Varanasi or Prayagraj. Our legal team helps you document these violations and use them as leverage during the settlement process.</p>
               <p>Furthermore, you have the right to represent your case through a legal professional. By appointing SettleLoans as your consultants, you ensure that all future communications from the bank are routed through us. This immediately reduces the daily stress of dealing with aggressive collectors and allows you to focus on your recovery.</p>
             </section>
 
             <section id="lok-adalat-up" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl font-black mb-6">The Power of UP State Legal Services Authority and Lok Adalats</h2>
+              <h3 className="text-3xl font-black mb-6">The Power of UP State Legal Services Authority and Lok Adalats</h3>
               <p>The Uttar Pradesh State Legal Services Authority (UPSLSA) is one of the most active in the country. They regularly organize National Lok Adalats across all 75 districts of Uttar Pradesh. A Lok Adalat is a "People's Court" where disputes, including bank loan defaults, can be resolved through mutual agreement with the assistance of a judicial officer.</p>
               <p>Settling your loan through a Lok Adalat in Lucknow or Kanpur has immense benefits. First, it is a judicial process, meaning the bank is under pressure to be reasonable. Second, the settlement reached here is final and legally binding. Third, if a case is already pending in an regular court, the court fee paid is refunded when the case is settled in a Lok Adalat. For credit card settlements, we have often seen waivers as high as 60-75% when cases are handled during these sessions.</p>
               <p>Our Lucknow based legal experts specialize in representing clients at these Lok Adalats. We help you prepare your financial hardship profile so that the Lok Adalat bench understands your situation. This judicial oversight ensures that the settlement you get is fair and that the bank cannot backtrack once the agreement is signed.</p>
             </section>
 
             <section id="drt-lucknow" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl font-black mb-6">Navigating DRT Lucknow and DRT Allahabad</h2>
+              <h3 className="text-3xl font-black mb-6">Navigating DRT Lucknow and DRT Allahabad</h3>
               <p>For high value debts over 20 lakhs, the case is usually referred to the Debt Recovery Tribunal (DRT). In Uttar Pradesh, there are three DRTs, two in Lucknow (DRT-1 and DRT-2) and one in Allahabad (DRT Allahabad). These are specialized courts for the recovery of debts due to banks and financial institutions. While the word "tribunal" sounds intimidating, the DRT is also a major forum for reaching compromise settlements.</p>
               <p>The DRT process involves strict timelines. If you receive a summons from DRT Lucknow, it is crucial not to ignore it. A "no show" can lead to an ex-parte order where the bank gets the right to attach your assets. However, at every stage of the DRT proceeding, from the initial "Written Statement" to the final arguments, there is an opportunity to propose a settlement. Banks often prefer a guaranteed recovery today through a compromise rather than waiting years for a tribunal order and subsequent execution.</p>
               <p>Our advocates have extensive experience in the UP DRT ecosystem. We help our clients file appropriate responses, challenge unfair bank calculations, and draft "One Time Settlement" (OTS) proposals that are acceptable to the bank's zonal committees. Whether it is a business loan in Bareilly or a commercial property loan in Jhansi, we provide the expertise needed to navigate these high stakes legal battles.</p>
             </section>
 
             <section id="anti-harassment-up" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl font-black mb-6">Your Anti-Harassment Shield: Dealing with UP Recovery Agents</h2>
+              <h3 className="text-3xl font-black mb-6">Your Anti-Harassment Shield: Dealing with UP Recovery Agents</h3>
               <p>The most distressful part of debt is not the money owed, but the loss of peace. Recovery agents often use psychological warfare to break a borrower's spirit. In Uttar Pradesh, we have seen agents calling neighbors, messaging WhatsApp groups, or showing up at workplaces in Noida. This is a blatant violation of privacy and human rights. The UP Police have been increasingly proactive in taking action against "recovery mafias" that operate outside the law.</p>
               <p>When you join SettleLoans, we activate your Anti-Harassment Shield. We send formal legal notices to the bank's Nodal Officers informing them that you are now legally represented. We provide you with a dedicated phone line or a redirection service that ensures collectors call our legal team instead of you. If agents still persist in harassment, we assist you in filing complaints with the Banking Ombudsman or the local S.P. office. Our goal is to ensure you can sleep peacefully while we handle the legal friction.</p>
               <p>Remember, the law is on your side when it comes to harassment. No bank has the right to socially shame you for a financial default. By standing firm and using the legal protections available in the state of UP, you can stop the bullying and focus on resolving the debt through proper channels.</p>
             </section>
 
             <section id="process-roadmap" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl font-black mb-6">The 5-Step Roadmap to Freedom in Uttar Pradesh</h2>
+              <h3 className="text-3xl font-black mb-6">The 5-Step Roadmap to Freedom in Uttar Pradesh</h3>
               <p>Our process is designed to be systematic and transparent, tailored for the unique banking environment of Uttar Pradesh. The first step is **Hardship Profiling**. We work with you to document the genuine reasons for your default, be it a medical file from SGPGI Lucknow or a business loss report from a chartered accountant in Kanpur. This documentation is central to our negotiation strategy.</p>
               <p>The second step is **Strategic Communication**. We take over all talk with your banks. This stops the harassment and sets a professional tone for the negotiation. The third step is **The Negotiation Phase**. Our experts use our extensive database of successful settlements in the North India region to push for the highest possible waiver. We aim for a "bottom price" that fits your current repayment capacity.</p>
               <p>The fourth step is **Settlement Verification**. We never ask you to pay the bank until we have a formal, authenticated settlement letter on the bank's letterhead. We check for clauses that might leave you liable in the future. The final step is **Execution and No Dues**. Once the payment is made, we ensure that the bank issues a final 'No Dues Certificate' and updates the credit bureaus. This completes your journey from a debt victim to a debt-free citizen.</p>
             </section>
 
             <section id="up-success-stories" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl font-black mb-8 text-center">Uttar Pradesh Success Stories: Real People, Real Freedom</h2>
+              <h3 className="text-3xl font-black mb-8 text-center">Uttar Pradesh Success Stories: Real People, Real Freedom</h3>
               <p className="text-center mb-8">We have helped over 1,800+ individuals and families across Uttar Pradesh reclaim their lives. Here are a few stories of resilience.</p>
               <div className="grid md:grid-cols-2 gap-6 not-prose">
                 <div className="bg-white p-6 rounded-2xl border border-[#DEDEDE] shadow-sm hover:shadow-md transition-all">
                   <div className="flex items-center mb-4">
                     <div className="w-10 h-10 rounded-full bg-[#1F5EFF]/10 flex items-center justify-center font-bold text-[#1F5EFF] mr-3">R</div>
                     <div>
-                      <h3 className="font-bold">Rajesh Kumar</h3>
+                      <h4 className="font-bold">Rajesh Kumar</h4>
                       <p className="text-xs text-gray-500">Lucknow, UP</p>
                     </div>
                   </div>
@@ -360,7 +360,7 @@ export default function UttarPradeshLoanSettlementPage() {
                   <div className="flex items-center mb-4">
                     <div className="w-10 h-10 rounded-full bg-[#1F5EFF]/10 flex items-center justify-center font-bold text-[#1F5EFF] mr-3">P</div>
                     <div>
-                      <h4 className="font-bold">Priyanka Singh</h4>
+                      <h5 className="font-bold">Priyanka Singh</h5>
                       <p className="text-xs text-gray-500">Noida, UP</p>
                     </div>
                   </div>
@@ -371,27 +371,27 @@ export default function UttarPradeshLoanSettlementPage() {
             </section>
 
             <section id="rebuilding-credit" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl font-black mb-6">CIBIL Score Recovery in Uttar Pradesh: Life After Settlement</h2>
+              <h3 className="text-3xl font-black mb-6">CIBIL Score Recovery in Uttar Pradesh: Life After Settlement</h3>
               <p>One of the most frequent questions we receive in our Lucknow office is, "Will I ever get a loan again?" It is true that a settlement mark on your credit report is not ideal. It temporarily lowers your score and signals that you paid less than what was owed. However, compared to a "Written Off" or "Suit Filed" status, a "Settled" status is much easier to recover from. It shows that you have cleared your liability and are no longer a risk to the financial system.</p>
               <p>Rebuilding your credit in a fast growing economy like Noida is entirely possible. We provide our clients with a dedicated "Credit Restoration Guide." The first step is patience. You must wait for at least six months for the settled remark to stabilize. Then, you can start with a secured credit card, a card backed by a small fixed deposit. By using this card for minor expenses and paying it off completely every month, you generate positive credit data. In Uttar Pradesh, where many banks are eager to lend to the rising middle class, a consistent 24 month track record of good behavior can bring your score back above 750.</p>
               <p>Remember, your current debt crisis is a temporary chapter, not the whole book. Settling allows you to close this chapter and start writing a new one. A decade from now, your ability to handle credit wisely will matter more than the mistakes of today.</p>
             </section>
 
             <section id="bank-office-insights" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl font-black mb-6">Strategic Bank Negotiation: Insights from North India Zonal Offices</h2>
+              <h3 className="text-3xl font-black mb-6">Strategic Bank Negotiation: Insights from North India Zonal Offices</h3>
               <p>Successful negotiation is an art based on data. Each bank has a different internal policy when it comes to waivers. For example, nationalized banks with strong roots in Uttar Pradesh, like Bank of Baroda or State Bank of India, have specific "One Time Settlement" (OTS) windows, often peaking around the end of the financial year in March. Private banks like HDFC or ICICI might be more flexible during quarterly closures in September or December.</p>
               <p>Our team understands these internal cycles. We know that a proposal sent to the Zonal Office in Kanpur is handled differently than one sent to a local branch in Aligarh. We leverage our relationships and professional standing to ensure your proposal doesn't get buried under paperwork. We use the precedents of thousands of previous cases in the UP region to argue for the highest possible waiver for you. This collective bargaining power is what gives our clients an edge that a single individual simply cannot match.</p>
               <p>We handle all parts of the negotiation, from the initial "Hardship Letter" to the final "Counter Offer." We ensure that every communication is documented and that there are no verbal promises that can be later denied. This professional approach is why banks take our proposals seriously and why our clients get results that exceed their expectations.</p>
             </section>
 
             <section id="our-commitment" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl font-black mb-6">Our Commitment: Transparency, Ethics, and Empathy</h2>
+              <h3 className="text-3xl font-black mb-6">Our Commitment: Transparency, Ethics, and Empathy</h3>
               <p>In the debt settlement industry, integrity is everything. We know that when people come to us, they are often at their lowest point, exhausted from the calls, worried about their families, and feeling hopeless. That is why SettleLoans is built on a foundation of absolute transparency. We do not make false promises of 90% waivers, and we do not have hidden fees. Our terms are clear, and our commitment to our clients is unwavering.</p>
               <p>We are not just a legal firm; we are a support system. Each client in Uttar Pradesh is assigned a dedicated case manager who understands the local context. Whether you prefer to communicate in Hindi or English, we are here to guide you. We provide a secure client portal where you can see the progress of your case in real time. This level of accountability has made us the highest rated debt relief service in Northern India. Your journey to financial freedom starts with a single honest conversation. We invite you to take that step today and let us help you build a future without the shadow of debt.</p>
             </section>
 
             <section id="faqs" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl font-black mb-8">Frequently Asked Questions</h2>
+              <h3 className="text-3xl font-black mb-8">Frequently Asked Questions</h3>
               <div className="space-y-4 not-prose">
                 {[
                   { q: "Is loan settlement legal in Uttar Pradesh?", a: "Yes, it is a 100% legal process governed by the Indian Contract Act and supported by RBI guidelines and the national Lok Adalat system." },
@@ -423,7 +423,7 @@ export default function UttarPradeshLoanSettlementPage() {
             </section>
 
             <section className="mt-16 bg-[#1F5EFF] rounded-3xl p-10 text-center text-white shadow-2xl">
-              <h2 className="text-3xl md:text-4xl font-black mb-4">Start Your Debt Free Life in Uttar Pradesh Today</h2>
+              <h3 className="text-3xl md:text-4xl font-black mb-4">Start Your Debt Free Life in Uttar Pradesh Today</h3>
               <p className="mb-8 text-lg opacity-90 max-w-2xl mx-auto">Join the thousands of families across Uttar Pradesh who have successfully settled their loans with us. Your journey to financial freedom is just one consultation away.</p>
               <div className="flex justify-center">
                 <Link href="/contact" className="inline-block bg-white text-[#1F5EFF] font-black py-4 px-12 rounded-xl hover:scale-105 transition-all text-xl shadow-lg">

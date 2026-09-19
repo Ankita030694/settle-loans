@@ -391,10 +391,10 @@ export default function AlternativesToSettlementPage() {
                                 Loan settlement is often viewed as the final destination for someone drowning in debt. However, while settlement provides immediate relief, it comes with a high price: a severely damaged credit score that can take years to rebuild. For many borrowers in India, the question is not "how to settle," but rather "what are the alternatives to settlement" that can save their financial reputation while still providing a path out of debt.
                             </p>
                             <div className="bg-blue-50 p-8 rounded-2xl border-l-4 border-[#1F5EFF] mb-8">
-                                <h3 className="text-lg font-bold text-blue-900 mb-4 flex items-center">
+                                <h4 className="text-lg font-bold text-blue-900 mb-4 flex items-center">
                                     <svg className="w-5 h-5 mr-3 text-[#1F5EFF]" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M13 16h-1v-4h-1m1-4h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z"></path></svg>
                                     Expert Insights
-                                </h3>
+                                </h4>
                                 <p className="text-blue-800">
                                     In the 2024-25 financial landscape, several sophisticated alternatives have emerged, ranging from debt consolidation to professional debt management plans. This guide explores these options to help you choose the path of most reward.
                                 </p>
@@ -402,50 +402,50 @@ export default function AlternativesToSettlementPage() {
                         </section>
 
                         <section id="cost-of-settlement" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                                 The Cost of Settlement: Beyond the Discount
-                            </h2>
+                            </h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 When you settle a loan, the bank marks it as "Settled" in your CIBIL report. This status acts as a red flag for any future lender. For the next 7 years, getting a home loan, a business loan, or even a premium credit card becomes a challenge. For those in sensitive career sectors, the impact can even be professional.
                             </p>
                         </section>
 
                         <section id="consolidation-loans" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                                 Alternative 1: Debt Consolidation Loans
-                            </h2>
+                            </h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 Debt consolidation is the process of taking a new, lower-interest loan to pay off multiple high-interest debts. Instead of juggling five EMIs, you manage one. This not only lowers your interest (from 40% on credit cards to maybe 15% on a personal loan) but also fixes your repayment schedule.
                             </p>
                         </section>
 
                         <section id="dmp-plans" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                                 Alternative 2: Professional Debt Management Plans (DMPs)
-                            </h2>
+                            </h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 A DMP is a structured program where a professional agency negotiates with your creditors to reduce your interest rates or extend your repayment tenure, without asking for a waiver of the principal. Unlike settlement, the goal is to pay 100% of the principal, preserving your 'Closed' status in credit reports.
                             </p>
                         </section>
 
                         <section id="asset-refinancing" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                                 Alternative 3: Asset Liquidation and Refinancing
-                            </h2>
+                            </h3>
                             <div className="grid md:grid-cols-2 gap-8 mb-8">
                                 <div className="p-6 bg-gray-50 rounded-2xl border border-gray-100 italic">
-                                    <h3 className="font-bold text-[#1F5EFF] mb-2">Gold Loans</h3>
+                                    <h4 className="font-bold text-[#1F5EFF] mb-2">Gold Loans</h4>
                                     <p className="text-sm">Replace 40% interest debt with 8-10% interest gold loans using your family's assets. No credit check required.</p>
                                 </div>
                                 <div className="p-6 bg-gray-50 rounded-2xl border border-gray-100 italic">
-                                    <h4 className="font-bold text-[#1F5EFF] mb-2">Home Loan Top-up</h4>
+                                    <h5 className="font-bold text-[#1F5EFF] mb-2">Home Loan Top-up</h5>
                                     <p className="text-sm">The cheapest way to clear unsecured debt. Rates are usually around 9-10% and tenure can be up to 15 years.</p>
                                 </div>
                             </div>
                         </section>
 
                         <section id="comparison-table" className="scroll-mt-32 mb-16 overflow-x-auto whitespace-nowrap scrollbar-hide">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">Alternative Comparison Matrix</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">Alternative Comparison Matrix</h3>
                             <table className="w-full text-left border-collapse bg-white rounded-2xl overflow-hidden shadow-sm">
                                 <thead className="bg-gray-900 text-white">
                                     <tr>
@@ -479,45 +479,45 @@ export default function AlternativesToSettlementPage() {
                         </section>
 
                         <section id="fintech-consolidation" className="scroll-mt-32 mb-16 text-justify">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                                 The Rise of Fintech Apps in Debt Consolidation
-                            </h2>
+                            </h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 In 2024, a new breed of Fintech companies has emerged specifically focused on debt consolidation. Platforms like KreditBee and Navi offer instant approval for those with moderately good scores, using 'Alternative Data' like utility bills to assess you. Always read the Key Fact Statement (KFS) as per RBI guidelines to avoid hidden costs.
                             </p>
                         </section>
 
                         <section id="balance-transfers" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                                 The Fine Print of Credit Card Balance Transfers
-                            </h2>
+                            </h3>
                             <p className="text-lg leading-relaxed mb-6 font-bold text-red-500 underline uppercase tracking-tighter">
                                 Beware the 'BT Trap': Missing the 90-day 0% interest window can result in 48% retroactive interest!
                             </p>
                         </section>
 
                         <section id="p2p-lending" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                                 Peer-to-Peer (P2P) Lending as a Tool
-                            </h2>
+                            </h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 Platforms like Faircent connect you directly with individual lenders. This is a powerful alternative if traditional bank criteria are too rigid for your current score.
                             </p>
                         </section>
 
                         <section id="final-outlook" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                                 2024-2025 Economic Outlook and Discipline
-                            </h2>
+                            </h3>
                             <p className="text-lg leading-relaxed mb-8 p-10 bg-blue-50 rounded-[40px] border-2 border-blue-200 font-bold italic text-blue-900 border-dashed">
                                 "Borrowers who explored alternatives within the first 60 days of financial stress had a 90% higher chance of preserving their credit score compared to those who waited until the NPA stage."
                             </p>
                         </section>
 
                         <section id="psychological-win" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                                 The Psychology of Debt: Refinancing vs. Settlement
-                            </h2>
+                            </h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 Choosing an alternative to settlement is not just a financial decision; it is a psychological one. Settlement often feels like a "failure" or a "shortcut" that leaves a lingering sense of financial insecurity. In contrast, successfully refinancing or consolidating your debt provides a massive psychological win. It reinforces your identity as a responsible borrower who honors their commitments, which in turn builds the confidence needed to grow your income and wealth.
                             </p>
@@ -527,9 +527,9 @@ export default function AlternativesToSettlementPage() {
                         </section>
 
                         <section id="global-trends" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                                 Global Trends in Debt Resolution: Lessons for India
-                            </h2>
+                            </h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 Countries like the UK and USA have highly developed 'Debt Relief Orders' and 'Individual Voluntary Arrangements' (IVAs). While India's IBC (Insolvency and Bankruptcy Code) is still evolving for individuals, the principles are similar. The global trend is moving away from aggressive recovery and toward 'Sustainable Resolution'.
                             </p>
@@ -539,9 +539,9 @@ export default function AlternativesToSettlementPage() {
                         </section>
 
                         <section id="interest-horror" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                                 The Compound Interest Horror: Why Quick Action is the Best Alternative
-                            </h2>
+                            </h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 Many borrowers wait too long to explore alternatives. At a 36% annual interest rate (common for credit cards), your debt doubles in just 2 years. If you have 5 lakhs in debt today, it will be 10 lakhs by 2026. No settlement discount can beat the benefit of preventing your debt from doubling.
                             </p>
@@ -551,16 +551,16 @@ export default function AlternativesToSettlementPage() {
                         </section>
 
                         <section id="corporate-help" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                                 Corporate Relief and Employer Loans
-                            </h2>
+                            </h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 Many Fortune 500 companies and large Indian conglomerates have 'Distress Loan' programs for employees. These are often interest-free or carry a nominal 4% rate. Before you settle and ruin your credit, check your HR policy. A 2-lakh loan from your employer could clear four high-interest credit cards, saving you 80,000 per year in interest alone. It is a private alternative that stays off your public credit report if managed correctly.
                             </p>
                         </section>
 
                         <section id="faqs" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-bold text-[#2E2E2E] mt-16 mb-8 text-center uppercase tracking-tighter font-sans">Alternatives & Debt Management FAQs</h2>
+                            <h3 className="text-3xl md:text-4xl font-bold text-[#2E2E2E] mt-16 mb-8 text-center uppercase tracking-tighter font-sans">Alternatives & Debt Management FAQs</h3>
                             <div className="space-y-4 not-prose">
                                 {[
                                     { q: "What is the difference between debt consolidation and debt settlement?", a: "Consolidation involves taking a new loan to pay the full amount of your old debts, preserving your credit score. Settlement involves paying only a part of what you owe, which negatively impacts your credit score." },
@@ -599,7 +599,7 @@ export default function AlternativesToSettlementPage() {
                             </div>
                         </section>
 
-                        <h2 id="reviews" className="scroll-mt-32 text-2xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 text-center uppercase tracking-tighter font-sans">Client Success Stories</h2>
+                        <h3 id="reviews" className="scroll-mt-32 text-2xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 text-center uppercase tracking-tighter font-sans">Client Success Stories</h3>
                         <div className="grid md:grid-cols-2 gap-4 md:gap-6 not-prose mb-16 text-left">
                             {[
                                 {
@@ -634,7 +634,7 @@ export default function AlternativesToSettlementPage() {
                                 <div key={i} className="bg-white p-5 md:p-6 rounded-2xl border border-[var(--color-border)] shadow-sm hover:shadow-md transition-all">
                                     <div className="flex items-center mb-4">
                                         <div className="w-10 h-10 rounded-full bg-[#1F5EFF]/10 flex items-center justify-center font-bold text-[#1F5EFF] mr-3">{review.name.charAt(0)}</div>
-                                        <div><h3 className="font-bold text-[#2E2E2E]">{review.name}</h3><p className="text-xs text-gray-400">{review.loc}</p></div>
+                                        <div><h4 className="font-bold text-[#2E2E2E]">{review.name}</h4><p className="text-xs text-gray-400">{review.loc}</p></div>
                                         <div className="ml-auto text-yellow-400 text-sm flex gap-0.5">
                                             <FontAwesomeIcon icon={faStar} className="w-3.5 h-3.5" />
                                             <FontAwesomeIcon icon={faStar} className="w-3.5 h-3.5" />
@@ -659,9 +659,9 @@ export default function AlternativesToSettlementPage() {
                         </div>
 
                         <section id="advanced-negotiation" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                                 Advanced Debt Negotiation Techniques: The Alternative to Passive Default
-                            </h2>
+                            </h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 Negotiation is not reserved for the final settlement stage. You can negotiate 'Alternatives' at any point. The most powerful technique is the 'Ability to Pay' demonstration. By providing the bank with a clear 12-month cash flow analysis showing that you can pay 70% of the EMI but not 100%, you force them into a logical corner. Banks are risk-averse; they would rather take 70% of a loan reliably than 0% through a default.
                             </p>
@@ -671,9 +671,9 @@ export default function AlternativesToSettlementPage() {
                         </section>
 
                         <section id="professional-vs-diy" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                                 Professional Debt Relief vs. DIY: Choosing Your Path
-                            </h2>
+                            </h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 Many borrowers wonder if they can manage these alternatives on their own. The 'DIY' path is free and gives you absolute control. However, it requires a high degree of financial literacy and the emotional resilience to deal with aggressive recovery calls. You must be prepared to cite RBI circulars, handle legal notices, and stay disciplined with your payments without any external accountability.
                             </p>
@@ -683,9 +683,9 @@ export default function AlternativesToSettlementPage() {
                         </section>
 
                         <section id="conclusion" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                                 Conclusion: The Architecture of Financial Freedom
-                            </h2>
+                            </h3>
                             <p className="text-lg leading-relaxed mb-6 italic">
                                 Finalizing your strategy to manage overwhelming debt is like building a house. Settlement is the emergency tent you use when the house has burned down. Consolidation and DMPs are the structural repairs that keep the house standing. By choosing an alternative, you are investing in the long-term stability of your financial architecture.
                             </p>
@@ -699,7 +699,7 @@ export default function AlternativesToSettlementPage() {
                         <section className="bg-[#1F5EFF] rounded-[10px] p-8 md:p-12 text-center text-white relative overflow-hidden shadow-2xl">
                             <div className="absolute bottom-0 left-0 w-64 h-64 bg-white/10 rounded-full -ml-32 -mb-32"></div>
                             <div className="relative z-10 text-justify">
-                                <h2 className="text-3xl md:text-5xl font-black mb-6 uppercase tracking-tighter text-center">Save Your CIBIL Score Now</h2>
+                                <h3 className="text-3xl md:text-5xl font-black mb-6 uppercase tracking-tighter text-center">Save Your CIBIL Score Now</h3>
                                 <p className="text-lg md:text-2xl opacity-90 max-w-2xl mx-auto mb-10 leading-tight font-normal">
                                     Don't settle for less. Our financial experts will help you find the best consolidation or management plan to clear your debt without a permanent black mark.
                                 </p>

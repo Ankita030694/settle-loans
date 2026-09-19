@@ -281,15 +281,15 @@ export default function JointAccountEmiDeductionPage() {
             </section>
 
             <section id="bankers-right-of-set-off" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 Understanding the Right of Set-Off Rules in India
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 To understand why a bank might attempt to seize your funds, we must look at the <strong>right of set-off rules in India</strong>. This legal principle allows a bank to merge two accounts belonging to the same customer to recover a debt. If you owe the bank money on a credit card, but have a surplus in your individual savings account, the bank can 'set off' the debit against the credit.
               </p>
               
               <div className="bg-blue-50 border-l-8 border-[#1F5EFF] p-8 rounded-r-2xl mb-8">
-                <h3 className="text-xl font-black text-[#1F5EFF] mb-4">Crucial Conditions for Right of Set-Off</h3>
+                <h4 className="text-xl font-black text-[#1F5EFF] mb-4">Crucial Conditions for Right of Set-Off</h4>
                 <p className="text-lg leading-relaxed mb-4 text-blue-900">
                   The bank cannot simply apply this right randomly. Very specific legal conditions must be met:
                 </p>
@@ -313,9 +313,9 @@ export default function JointAccountEmiDeductionPage() {
             </section>
 
             <section id="joint-accounts-legal-position" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 Joint Accounts: The Legal Position on Set-Off
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 The critical defense against unauthorized deductions lies in the "Same Right" rule. When an account is held jointly (e.g., Husband and Wife), the funds legally belong to both individuals collectively. A personal loan, however, is an individual contract signed by one person.
               </p>
@@ -325,13 +325,13 @@ export default function JointAccountEmiDeductionPage() {
 
               <div className="grid md:grid-cols-2 gap-6 my-8">
                 <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
-                  <h3 className="font-black text-[#1F5EFF] text-lg mb-3">Individual Loan vs. Joint Account</h3>
+                  <h4 className="font-black text-[#1F5EFF] text-lg mb-3">Individual Loan vs. Joint Account</h4>
                   <p className="text-gray-700 text-base">
                     If Mr. A defaults on a personal loan, the bank <strong>cannot</strong> legally freeze or deduct money from the joint account of Mr. A and Mrs. B. Doing so violates Mrs. B's independent right to those funds.
                   </p>
                 </div>
                 <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
-                  <h4 className="font-black text-[#1F5EFF] text-lg mb-3">Joint Loan vs. Individual Account</h4>
+                  <h5 className="font-black text-[#1F5EFF] text-lg mb-3">Joint Loan vs. Individual Account</h5>
                   <p className="text-gray-700 text-base">
                     Conversely, if Mr. A and Mrs. B default on a joint home loan, the bank <strong>can</strong> exercise the right of set-off against the individual savings account of either Mr. A or Mrs. B, as both are jointly and severally liable.
                   </p>
@@ -339,7 +339,7 @@ export default function JointAccountEmiDeductionPage() {
               </div>
 
               <div className="bg-gray-50 p-8 rounded-2xl mb-8 border border-gray-200">
-                <h4 className="text-xl font-black text-[#2E2E2E] mb-4">The "Either or Survivor" Loophole</h4>
+                <h5 className="text-xl font-black text-[#2E2E2E] mb-4">The "Either or Survivor" Loophole</h5>
                 <p className="text-lg leading-relaxed text-gray-700">
                   Many bank managers incorrectly argue that an "Either or Survivor" operational mandate gives them the right to drain the account. This is legally flawed. The mandate only authorizes either party to operate the account or withdraw funds. It does not automatically pledge the non-defaulter's share of the money as collateral for the defaulter's private liabilities. Courts have repeatedly struck down banks using this excuse to justify unauthorized deductions.
                 </p>
@@ -347,9 +347,9 @@ export default function JointAccountEmiDeductionPage() {
             </section>
 
             <section id="unauthorized-auto-debits" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 When is an Auto Debit from Joint Account Legal?
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 There is one major exception where an <strong>auto debit from joint account for personal loan</strong> is considered legal. This occurs if explicit written consent was provided.
               </p>
@@ -358,21 +358,21 @@ export default function JointAccountEmiDeductionPage() {
                 <div className="flex gap-6">
                   <div className="flex-shrink-0 w-12 h-12 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center font-black text-xl shadow-lg">1</div>
                   <div>
-                    <h3 className="text-xl font-bold text-[#2E2E2E] mb-2">Joint NACH/ECS Mandate Signed</h3>
+                    <h4 className="text-xl font-bold text-[#2E2E2E] mb-2">Joint NACH/ECS Mandate Signed</h4>
                     <p className="text-lg text-gray-700">If, during the loan application, the non-defaulting joint holder (e.g., the wife) co-signed the NACH mandate form explicitly authorizing the bank to deduct the husband's personal loan EMI from their shared joint account, the bank is within its rights to execute the auto-debit.</p>
                   </div>
                 </div>
                 <div className="flex gap-6">
                   <div className="flex-shrink-0 w-12 h-12 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center font-black text-xl shadow-lg">2</div>
                   <div>
-                    <h4 className="text-xl font-bold text-[#2E2E2E] mb-2">Co-Applicant or Guarantor Status</h4>
+                    <h5 className="text-xl font-bold text-[#2E2E2E] mb-2">Co-Applicant or Guarantor Status</h5>
                     <p className="text-lg text-gray-700">If the joint account holder also acted as a guarantor or co-applicant for the defaulted loan, they share equal liability. In this scenario, the bank can legally target the joint account to recover the dues.</p>
                   </div>
                 </div>
               </div>
 
               <div className="bg-red-50 p-6 rounded-xl border border-red-100 mb-8">
-                <h4 className="text-xl font-black text-red-700 mb-3">Warning: Forged Mandates</h4>
+                <h5 className="text-xl font-black text-red-700 mb-3">Warning: Forged Mandates</h5>
                 <p className="text-lg text-red-900 leading-relaxed">
                   In many dispute cases, we find that banks process auto-debits based on a mandate signed only by the primary borrower, without the secondary joint holder's signature. This is a severe deficiency in service and entirely illegal. You have the right to demand a copy of the physical mandate form.
                 </p>
@@ -380,9 +380,9 @@ export default function JointAccountEmiDeductionPage() {
             </section>
 
             <section id="spouse-account-frozen" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 Spouse Account Frozen for My Loan: The Bank's Strong-Arm Tactics
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 Often, a bank will realize they cannot legally deduct the funds, so they take a different approach: they freeze the account entirely. Having a <strong>spouse account frozen for my loan</strong> is a terrifying pressure tactic designed to force the defaulting borrower to pay up to release the family's essential funds.
               </p>
@@ -392,9 +392,9 @@ export default function JointAccountEmiDeductionPage() {
             </section>
 
             <section id="actionable-steps" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 Actionable Steps to Recover Unauthorized Deductions
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 If your bank has illegally deducted funds from a joint account or frozen it, you must act swiftly. Passive waiting will only result in further financial loss.
               </p>
@@ -410,9 +410,9 @@ export default function JointAccountEmiDeductionPage() {
             </section>
 
             <section id="success-stories" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 Real Client Success Stories
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-8">
                 We have successfully defended hundreds of clients against illegal bank deductions. Here are a few recent victories:
               </p>
@@ -460,56 +460,56 @@ export default function JointAccountEmiDeductionPage() {
             </section>
 
             <section id="faqs" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">Frequently Asked Questions</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">Frequently Asked Questions</h3>
               <div className="space-y-4">
                 
                 <div className="bg-white border border-[#DEDEDE] rounded-xl p-6 hover:shadow-md transition-shadow">
-                  <h3 className="font-bold text-[#2E2E2E] text-lg mb-2">Can a bank deduct money from a joint account for a personal loan?</h3>
+                  <h4 className="font-bold text-[#2E2E2E] text-lg mb-2">Can a bank deduct money from a joint account for a personal loan?</h4>
                   <p className="text-gray-700">Generally, no. A bank cannot arbitrarily deduct money from a joint account to recover a personal loan taken by only one of the account holders, unless specific consent (NACH) was provided by all holders.</p>
                 </div>
 
                 <div className="bg-white border border-[#DEDEDE] rounded-xl p-6 hover:shadow-md transition-shadow">
-                  <h3 className="font-bold text-[#2E2E2E] text-lg mb-2">What is the Banker's Right of Set-Off?</h3>
+                  <h4 className="font-bold text-[#2E2E2E] text-lg mb-2">What is the Banker's Right of Set-Off?</h4>
                   <p className="text-gray-700">It is a legal right allowing a bank to combine two accounts of the same customer to recover a debt. However, the accounts must be held in the exactly "same capacity and same right", which protects joint accounts from individual debts.</p>
                 </div>
 
                 <div className="bg-white border border-[#DEDEDE] rounded-xl p-6 hover:shadow-md transition-shadow">
-                  <h3 className="font-bold text-[#2E2E2E] text-lg mb-2">Can my spouse's account be frozen for my loan?</h3>
+                  <h4 className="font-bold text-[#2E2E2E] text-lg mb-2">Can my spouse's account be frozen for my loan?</h4>
                   <p className="text-gray-700">No, an individual account belonging to your spouse cannot be frozen for a loan solely in your name. For joint accounts, the bank cannot freeze the non-defaulter's share without a specific legal order.</p>
                 </div>
 
                 <div className="bg-white border border-[#DEDEDE] rounded-xl p-6 hover:shadow-md transition-shadow">
-                  <h3 className="font-bold text-[#2E2E2E] text-lg mb-2">Is auto debit from a joint account for a personal loan legal?</h3>
+                  <h4 className="font-bold text-[#2E2E2E] text-lg mb-2">Is auto debit from a joint account for a personal loan legal?</h4>
                   <p className="text-gray-700">It is only legal if the NACH/ECS mandate was explicitly signed by all joint account holders, authorizing the deduction for that specific individual personal loan.</p>
                 </div>
 
                 <div className="bg-white border border-[#DEDEDE] rounded-xl p-6 hover:shadow-md transition-shadow">
-                  <h3 className="font-bold text-[#2E2E2E] text-lg mb-2">What should I do if the bank deducted EMI without permission?</h3>
+                  <h4 className="font-bold text-[#2E2E2E] text-lg mb-2">What should I do if the bank deducted EMI without permission?</h4>
                   <p className="text-gray-700">You must immediately serve a formal legal notice challenging the deduction under the right of set-off rules. If the bank fails to reverse it, escalate the complaint to the RBI Banking Ombudsman.</p>
                 </div>
 
                 <div className="bg-white border border-[#DEDEDE] rounded-xl p-6 hover:shadow-md transition-shadow">
-                  <h3 className="font-bold text-[#2E2E2E] text-lg mb-2">Does the 'Either or Survivor' mandate grant the right of set-off?</h3>
+                  <h4 className="font-bold text-[#2E2E2E] text-lg mb-2">Does the 'Either or Survivor' mandate grant the right of set-off?</h4>
                   <p className="text-gray-700">No. 'Either or Survivor' is an operational mandate for withdrawals. It does not legally convert joint funds into collateral for a single individual's private debt.</p>
                 </div>
 
                 <div className="bg-white border border-[#DEDEDE] rounded-xl p-6 hover:shadow-md transition-shadow">
-                  <h3 className="font-bold text-[#2E2E2E] text-lg mb-2">Can the bank attach my business partner's funds?</h3>
+                  <h4 className="font-bold text-[#2E2E2E] text-lg mb-2">Can the bank attach my business partner's funds?</h4>
                   <p className="text-gray-700">No. If a joint account is held for business partnership purposes, a bank cannot exercise set-off to recover one partner's personal individual debt.</p>
                 </div>
 
                 <div className="bg-white border border-[#DEDEDE] rounded-xl p-6 hover:shadow-md transition-shadow">
-                  <h3 className="font-bold text-[#2E2E2E] text-lg mb-2">How do I prove the funds belong to the non-defaulting person?</h3>
+                  <h4 className="font-bold text-[#2E2E2E] text-lg mb-2">How do I prove the funds belong to the non-defaulting person?</h4>
                   <p className="text-gray-700">You can demonstrate ownership through salary slips, income tax returns, and bank statements showing that the deposits into the joint account came solely from the non-defaulting member.</p>
                 </div>
 
                 <div className="bg-white border border-[#DEDEDE] rounded-xl p-6 hover:shadow-md transition-shadow">
-                  <h3 className="font-bold text-[#2E2E2E] text-lg mb-2">Will the bank inform us before making a deduction?</h3>
+                  <h4 className="font-bold text-[#2E2E2E] text-lg mb-2">Will the bank inform us before making a deduction?</h4>
                   <p className="text-gray-700">Under standard RBI guidelines, banks should provide prior notice. However, many bypass this rule to prevent the customer from emptying the account, which gives you strong grounds for a legal dispute.</p>
                 </div>
 
                 <div className="bg-white border border-[#DEDEDE] rounded-xl p-6 hover:shadow-md transition-shadow">
-                  <h3 className="font-bold text-[#2E2E2E] text-lg mb-2">Can I sue the bank for unauthorized debiting?</h3>
+                  <h4 className="font-bold text-[#2E2E2E] text-lg mb-2">Can I sue the bank for unauthorized debiting?</h4>
                   <p className="text-gray-700">Yes. If a bank illegally drains your joint savings account, you can file a case in the Consumer Disputes Redressal Commission for deficiency in service and claim a full refund plus compensation for mental harassment.</p>
                 </div>
 
@@ -519,7 +519,7 @@ export default function JointAccountEmiDeductionPage() {
             {/* Lead Gen Hook */}
             <div className="bg-[#2E2E2E] text-white p-12 rounded-[40px] text-center mt-24 relative overflow-hidden group">
               <div className="absolute inset-0 bg-[#1F5EFF] opacity-0 group-hover:opacity-5 transition-opacity"></div>
-              <h3 className="text-3xl md:text-4xl font-black mb-6 relative z-10">Stop Unauthorized Deductions Now.</h3>
+              <h4 className="text-3xl md:text-4xl font-black mb-6 relative z-10">Stop Unauthorized Deductions Now.</h4>
               <p className="text-lg md:text-xl text-gray-300 mb-8 max-w-2xl mx-auto relative z-10">
                 Did the bank illegally drain your joint savings account for a loan your spouse took? You can challenge this. Speak to our banking lawyers to recover your unauthorized deductions.
               </p>

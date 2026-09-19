@@ -574,9 +574,9 @@ export default function Page() {
                 <Clock className="w-4 h-4" />
                 <span>2. Delinquency Timeline &amp; Kerala HC Norms</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 NPA Aging Architecture &amp; Kerala High Court Civil Protections
-              </h2>
+              </h3>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 To negotiate a substantial debt settlement in Kerala, a borrower must understand the regulatory mechanisms of the Reserve Bank of India&apos;s Prudential Norms on Income Recognition, Asset Classification and Provisioning (IRACP). Commercial banks and NBFCs do not negotiate meaningful compromise haircuts during the early stages of missed payments; substantial One-Time Settlements (OTS) become viable only as the loan progresses through statutory delinquency categories.
               </p>
@@ -641,9 +641,9 @@ export default function Page() {
                 <Gavel className="w-4 h-4" />
                 <span>3. Section 138 &amp; Section 25 PSSA Defense</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 Defending Legal Notices in Ernakulam CJM &amp; Kerala Magistrate Courts
-              </h2>
+              </h3>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 When monthly electronic National Automated Clearing House (NACH) auto-debits or post-dated cheques bounce due to insufficient funds, lending banks dispatch formal statutory legal notices. These notices are issued under <strong>Section 25 of the Payment and Settlement Systems Act, 2007 (PSSA)</strong> or <strong>Section 138 of the Negotiable Instruments Act, 1881</strong>, threatening criminal prosecution across Kerala&apos;s magistrate courts (predominantly before the Chief Judicial Magistrate Court Ernakulam, and JFCM Courts in Ernakulam, Aluva, Thiruvananthapuram, and Kozhikode).
               </p>
@@ -664,9 +664,9 @@ export default function Page() {
                 <ShieldAlert className="w-4 h-4" />
                 <span>4. Section 171 Lien &amp; Account Protection</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 Banker&apos;s General Lien (Section 171) &amp; Ring-Fencing Expat Liquidity
-              </h2>
+              </h3>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 A critical legal hazard that distressed borrowers in Kerala must safeguard against is the <strong>Banker&apos;s Right of General Lien and Set-Off</strong> under Section 171 of the Indian Contract Act, 1872. This statutory doctrine grants a lending institution the legal right to unilaterally appropriate funds, debit balances, or freeze accounts across any savings account, current account, fixed deposit, NRE account, or salary account maintained within that exact same banking entity under the same Customer Identification File (CIF) or PAN.
               </p>
@@ -684,9 +684,9 @@ export default function Page() {
                 <Sparkles className="w-4 h-4" />
                 <span>5. Visual Resolution Blueprint</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 Personal Loan Settlement Roadmap in Kochi &amp; Kerala
-              </h2>
+              </h3>
               <p className="text-slate-700 leading-relaxed mb-6 text-base md:text-lg">
                 The visual roadmap below illustrates the end-to-end debt resolution lifecycle in Kerala—from initial delinquency and court notice defense in Ernakulam to anti-harassment protections, NRI representation, MG Road SARB negotiations, and final ₹0 No Dues Certificate delivery.
               </p>
@@ -713,9 +713,9 @@ export default function Page() {
                 <Percent className="w-4 h-4" />
                 <span>6. OTS Haircut Mechanics &amp; NPV Formula</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 OTS Haircut Mechanics &amp; The Net Present Value (NPV) Recovery Benchmark
-              </h2>
+              </h3>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Under the Reserve Bank of India&apos;s Master Directions on Resolution of Stressed Assets and board-approved compromise settlement policies, banks evaluate One-Time Settlement proposals through structured financial economics rather than emotional pleas. While third-party tele-callers claim that banks never offer discounts, Zonal Credit Committees along MG Road in Kochi evaluate every delinquent account against an institutional <strong>Net Present Value (NPV) Recovery Valuation Benchmark</strong>.
               </p>
@@ -748,9 +748,9 @@ export default function Page() {
                 <ShieldCheck className="w-4 h-4" />
                 <span>7. Kerala Anti-Harassment &amp; Police Limits</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 Enforcing the RBI Fair Practices Code &amp; Kerala Anti-Harassment Protections
-              </h2>
+              </h3>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Borrowers facing aggressive debt recovery in Kerala are protected by a comprehensive framework of central banking regulations, state statutory protections, and High Court directives. The <strong>Reserve Bank of India Master Directions on Recovery Agents (2022)</strong> strictly define permissible collection conduct and impose severe regulatory sanctions on non-compliant financial institutions.
               </p>
@@ -771,9 +771,9 @@ export default function Page() {
                 <Globe className="w-4 h-4" />
                 <span>8. NRI &amp; Gulf Returnee Debt Protocol</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 Remote Debt Resolution for Gulf Returnees &amp; NRIs via Special Power of Attorney
-              </h2>
+              </h3>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 A uniquely significant proportion of distressed retail debt in Kerala involves Non-Resident Indians (NRIs) residing in the United Arab Emirates (Dubai, Abu Dhabi, Sharjah), Saudi Arabia (Riyadh, Jeddah), Qatar (Doha), Oman, Kuwait, and Bahrain, as well as expatriates who have recently returned to Kerala following job terminations or business closures. Many NRI borrowers maintain legacy personal loans, credit card balances, or business credit lines in Kerala while living abroad.
               </p>
@@ -794,9 +794,9 @@ export default function Page() {
                 <FileCheck className="w-4 h-4" />
                 <span>9. Sanction Letter Audit &amp; CIBIL Recovery</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 Sanction Letter Forensics, Mandatory ₹0 NDC &amp; 24-Month CIBIL Reconstruction
-              </h2>
+              </h3>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 One of the most dangerous hazards for distressed borrowers in Kerala is remitting funds based on verbal promises, SMS notifications, or informal WhatsApp settlement letters sent by third-party recovery callers. Fraudulent agents frequently persuade borrowers to deposit an ad-hoc token payment, only for the funds to be absorbed into accumulated penal interest while the loan remains active and compounding.
               </p>
@@ -817,9 +817,9 @@ export default function Page() {
                 <Scale className="w-4 h-4" />
                 <span>10. Comparative Resolution Matrix</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 Comparing Debt Resolution Pathways for Borrowers in Kerala
-              </h2>
+              </h3>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Evaluating all available legal and financial debt resolution avenues in Kerala helps borrowers select the optimal strategy based on debt quantum, financial capacity, and speed of execution:
               </p>
@@ -875,9 +875,9 @@ export default function Page() {
                 <Scale className="w-4 h-4" />
                 <span>11. SettleLoans Legal Defense &amp; Advisory</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 Premier Loan Settlement &amp; Legal Defense Services in Kochi &amp; Kerala
-              </h2>
+              </h3>
               <p className="text-slate-700 leading-relaxed mb-6 text-base md:text-lg">
                 Navigating unpayable unsecured debt across Kochi and Kerala requires assertive advocate representation to halt collection agency harassment, defend statutory notices in Ernakulam Magistrate Courts, protect overseas NRI interests, and negotiate directly with bank Zonal Credit Committees for maximum debt relief. SettleLoans provides end-to-end legal and financial advocacy to help borrowers across Kerala reclaim their financial sovereignty.
               </p>
@@ -890,9 +890,9 @@ export default function Page() {
                 <HelpCircle className="w-4 h-4" />
                 <span>12. Frequently Asked Questions</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
                 Frequently Asked Questions on Personal Loan Settlement in Kochi &amp; Kerala
-              </h2>
+              </h3>
 
               <div className="space-y-4">
                 {faqs.map((faq: any, index: number) => (
@@ -919,10 +919,10 @@ export default function Page() {
 
             {/* 5 Official Regulatory Links */}
             <section className="bg-slate-50 border border-slate-200 rounded-2xl p-6 mb-8">
-              <h3 className="text-sm font-bold text-slate-900 mb-3 uppercase tracking-wider flex items-center gap-2">
+              <h4 className="text-sm font-bold text-slate-900 mb-3 uppercase tracking-wider flex items-center gap-2">
                 <ExternalLink className="w-4 h-4 text-[#1F5EFF]" />
                 <span>Official Statutory &amp; Regulatory References</span>
-              </h3>
+              </h4>
               <div className="grid grid-cols-1 sm:grid-cols-2 gap-3 text-xs">
                 <a
                   href="https://www.rbi.org.in"
@@ -974,9 +974,9 @@ export default function Page() {
 
             {/* 10 Related Guide Badges */}
             <section className="border-t border-slate-200 pt-8 mb-8">
-              <h3 className="text-sm font-bold text-slate-900 mb-4 uppercase tracking-wider">
+              <h4 className="text-sm font-bold text-slate-900 mb-4 uppercase tracking-wider">
                 Related Loan Settlement &amp; Legal Defense Guides
-              </h3>
+              </h4>
               <div className="flex flex-wrap gap-2">
                 <Link
                   href="/hdfc-personal-loan-settlement"

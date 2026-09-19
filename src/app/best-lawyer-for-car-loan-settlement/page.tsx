@@ -195,7 +195,7 @@ export default function CarLoanSettlementPage() {
                                 The sight of recovery agents at your doorstep or office, the fear of losing your only means of transport, and the complex legal notices from banks can lead to severe anxiety. This is where a specialized lawyer for car loan settlement becomes indispensable. Navigating the intersection of contract law, the SARFAESI Act, and RBI guidelines requires more than just a request for more time; it requires a strategic legal defense designed to protect your dignity and your assets.
                             </p>
                             <div className="bg-blue-50 p-8 rounded-2xl border border-blue-100 mb-10">
-                                <h3 className="text-xl font-bold text-[#1F5EFF] mb-4 uppercase tracking-wider">The Economics of Automobile Debt</h3>
+                                <h4 className="text-xl font-bold text-[#1F5EFF] mb-4 uppercase tracking-wider">The Economics of Automobile Debt</h4>
                                 <p className="text-gray-700 leading-relaxed mb-4 font-medium">
                                     The Indian automobile market is one of the largest in the world, and a significant portion of it is fueled by credit. When a borrower defaults, they aren't just losing a car; they are often losing a significant portion of their net worth. Vehicle loans usually carry interest rates ranging from 8% to 14% for new cars, and even higher for used cars.
                                 </p>
@@ -206,9 +206,9 @@ export default function CarLoanSettlementPage() {
                         </section>
 
                         <section id="loan-mechanics" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">
                                 What is a Car Loan Settlement? Understanding the Mechanics
-                            </h2>
+                            </h3>
                             <p className="text-lg text-gray-700 leading-relaxed mb-6">
                                 A car loan settlement, often referred to as a "One-Time Settlement" (OTS), is a legal agreement between the borrower and the lender (bank or NBFC) where the lender agrees to accept a lump-sum payment that is less than the total outstanding amount to close the account permanently.
                             </p>
@@ -221,32 +221,32 @@ export default function CarLoanSettlementPage() {
                         </section>
 
                         <section id="legal-framework" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 uppercase tracking-tight">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 uppercase tracking-tight">
                                 Legal Framework: Hypothecation vs. Personal Liability
-                            </h2>
+                            </h3>
                             <p className="text-lg text-gray-700 leading-relaxed mb-6">
                                 In India, a car loan is typically a "Hypothecation" agreement. This means that while you have the possession and use of the vehicle, the bank remains the ultimate owner until the loan is fully repaid. This is reflected in the "HPA" entry on your vehicle's Registration Certificate (RC).
                             </p>
-                            <h3 className="text-2xl font-bold text-[#2E2E2E] mb-4">Technical Analysis: Hypothecation vs. Lease</h3>
+                            <h4 className="text-2xl font-bold text-[#2E2E2E] mb-4">Technical Analysis: Hypothecation vs. Lease</h4>
                             <p className="text-lg text-gray-700 leading-relaxed mb-6">
                                 Many borrowers confuse these terms. In a Hire Purchase, the lender is the owner until the last penny is paid. In Hypothecation, the borrower is the owner, but the asset is "pledged" to the bank. Most Indian car loans are hypothecation deals. This distinction is critical in court. If a bank tries to repossess a hypothecated vehicle without a court order or a SARFAESI notice, they are technically committing "trespass and theft" because the legal title (ownership) is with the borrower, albeit with a lien.
                             </p>
                             <div className="grid grid-cols-1 md:grid-cols-2 gap-8 mb-10">
                                 <div className="p-8 bg-gray-50 rounded-3xl border border-gray-100">
-                                    <h4 className="font-bold text-xl mb-4 text-[#1F5EFF]">Deficiency Liability</h4>
+                                    <h5 className="font-bold text-xl mb-4 text-[#1F5EFF]">Deficiency Liability</h5>
                                     <p className="text-gray-700 leading-relaxed">If the car is sold at auction for 4 Lakhs but the outstanding debt was 6 Lakhs, the bank can still sue you for the remaining 2 Lakhs. A specialized lawyer ensures that your settlement agreement specifically waives this deficiency claim.</p>
                                 </div>
                                 <div className="p-8 bg-gray-50 rounded-3xl border border-gray-100">
-                                    <h4 className="font-bold text-xl mb-4 text-[#1F5EFF]">The Limitation Act</h4>
+                                    <h5 className="font-bold text-xl mb-4 text-[#1F5EFF]">The Limitation Act</h5>
                                     <p className="text-gray-700 leading-relaxed">The Limitation Act, 1963, states that a lender has three years from the date of default to file a suit. If you haven't paid or signed an "Acknowledgement of Debt" for three years, the bank loses its right to sue you.</p>
                                 </div>
                             </div>
                         </section>
 
                         <section id="sarfaesi-repossession" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">
                                 The SARFAESI Act and Vehicle Repossession: The Law
-                            </h2>
+                            </h3>
                             <p className="text-lg text-gray-700 leading-relaxed mb-6">
                                 The Securitisation and Reconstruction of Financial Assets and Enforcement of Security Interest (SARFAESI) Act, 2002, is the primary tool used by banks to recover secured loans. Under Section 13(2), the bank must issue a 60-day demand notice once the account is an NPA.
                             </p>
@@ -254,48 +254,48 @@ export default function CarLoanSettlementPage() {
                                 <li className="flex items-start gap-4 p-6 bg-red-50 rounded-2xl outline outline-1 outline-red-200">
                                     <div className="text-red-600 mt-1"><FontAwesomeIcon icon={faExclamationCircle} size="lg" /></div>
                                     <div>
-                                        <h3 className="font-bold text-xl text-[#2E2E2E]">The 60-Day Window:</h3>
+                                        <h4 className="font-bold text-xl text-[#2E2E2E]">The 60-Day Window:</h4>
                                         <p className="text-gray-700">You have 60 days to respond. Under Section 13(3A), you can file an 'Objection'. If the bank fails to respond with a reasoned reply within 15 days, their subsequent possession can be challenged as illegal.</p>
                                     </div>
                                 </li>
                             </ul>
-                            <h3 className="text-2xl font-bold text-[#2E2E2E] mb-4">Legal Repo Checklist</h3>
+                            <h4 className="text-2xl font-bold text-[#2E2E2E] mb-4">Legal Repo Checklist</h4>
                             <p className="text-lg text-gray-700 leading-relaxed mb-6">
                                 Legal repossession requires: A demand notice under 13(2), a possession notice under 13(4), a list of inventory of items inside the car, and a "Panchnama" signed by witnesses. If these are missing, your lawyer can move the Magistrate's court to have the vehicle restored to you immediately.
                             </p>
                         </section>
 
                         <section id="rbi-guidelines" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 uppercase tracking-tight">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 uppercase tracking-tight">
                                 RBI Guidelines on Recovery Agents: Your Protection
-                            </h2>
+                            </h3>
                             <p className="text-lg text-gray-700 leading-relaxed mb-6">
                                 The Reserve Bank of India (RBI) is extremely strict about how banks and their outsourced recovery agencies behave. The RBI Master Circular on "Fair Practice Code" for lenders is your primary shield.
                             </p>
                             <div className="grid grid-cols-1 md:grid-cols-2 gap-6 mb-10">
                                 <div className="p-6 bg-white border border-[#DEDEDE] rounded-xl shadow-sm">
-                                    <h3 className="font-black text-lg mb-2 text-[#2E2E2E]">Contact Hours</h3>
+                                    <h4 className="font-black text-lg mb-2 text-[#2E2E2E]">Contact Hours</h4>
                                     <p className="text-gray-600 text-sm">Agents can only call between 7 AM and 7 PM. Any call outside this window is a direct violation of RBI norms.</p>
                                 </div>
                                 <div className="p-6 bg-white border border-[#DEDEDE] rounded-xl shadow-sm">
-                                    <h4 className="font-black text-lg mb-2 text-[#2E2E2E]">No Coercion</h4>
+                                    <h5 className="font-black text-lg mb-2 text-[#2E2E2E]">No Coercion</h5>
                                     <p className="text-gray-600 text-sm">Use of abusive language, physical threats, or "musclemen" is strictly prohibited and can lead to heavy fines on the bank.</p>
                                 </div>
                                 <div className="p-6 bg-white border border-[#DEDEDE] rounded-xl shadow-sm">
-                                    <h4 className="font-black text-lg mb-2 text-[#2E2E2E]">Privacy Rights</h4>
+                                    <h5 className="font-black text-lg mb-2 text-[#2E2E2E]">Privacy Rights</h5>
                                     <p className="text-gray-600 text-sm">Passover of loan details to neighbors or workplace colleagues is illegal under the Duty of Confidentiality.</p>
                                 </div>
                                 <div className="p-6 bg-white border border-[#DEDEDE] rounded-xl shadow-sm">
-                                    <h4 className="font-black text-lg mb-2 text-[#2E2E2E]">Authorized ID</h4>
+                                    <h5 className="font-black text-lg mb-2 text-[#2E2E2E]">Authorized ID</h5>
                                     <p className="text-gray-600 text-sm">Agents must carry valid ID cards and an authorization letter from the lending bank at all times.</p>
                                 </div>
                             </div>
                         </section>
 
                         <section id="step-by-step" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">
                                 The Step-by-Step Car Loan Settlement Process
-                            </h2>
+                            </h3>
                             <p className="text-lg text-gray-700 leading-relaxed mb-6">
                                 Successful negotiation requires a structured approach. We don't just "ask" for a discount; we present a legal and financial case that makes a settlement the most logical choice for the bank.
                             </p>
@@ -311,7 +311,7 @@ export default function CarLoanSettlementPage() {
                                     <div key={i} className="flex gap-4 p-6 bg-gray-50 rounded-2xl border border-gray-200">
                                         <div className="w-8 h-8 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center font-bold flex-shrink-0">{i + 1}</div>
                                         <div>
-                                            <h3 className="font-bold text-[#2E2E2E] mb-1">{item.step}</h3>
+                                            <h4 className="font-bold text-[#2E2E2E] mb-1">{item.step}</h4>
                                             <p className="text-gray-600 text-sm">{item.desc}</p>
                                         </div>
                                     </div>
@@ -320,9 +320,9 @@ export default function CarLoanSettlementPage() {
                         </section>
 
                         <section id="why-lawyer" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 uppercase tracking-tight">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 uppercase tracking-tight">
                                 Why Hire a Specialized Car Loan Settlement Lawyer?
-                            </h2>
+                            </h3>
                             <p className="text-lg text-gray-700 leading-relaxed mb-6">
                                 Banks are bureaucratic organizations with massive legal teams. Going against them alone is like bringing a knife to a gunfight. A lawyer changes the power dynamic from a 'helpless borrower' to a 'legally protected entity'.
                             </p>
@@ -337,28 +337,28 @@ export default function CarLoanSettlementPage() {
                         </section>
 
                         <section id="rebuilding-credit" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">
                                 Post-Settlement: CIBIL Repair and Rebuilding Credit
-                            </h2>
+                            </h3>
                             <p className="text-lg text-gray-700 leading-relaxed mb-6">
                                 Settling a loan will reflect as "Settled" on your CIBIL report, which is better than "Active Default" but still impacts your score for 3-5 years. However, there are proactive steps you can take to rebuild.
                             </p>
                             <div className="grid grid-cols-1 md:grid-cols-2 gap-8 mb-10">
                                 <div className="p-8 border border-gray-200 rounded-3xl bg-white">
-                                    <h3 className="font-bold text-xl mb-3 text-[#2E2E2E]">Zero Balance Reporting</h3>
+                                    <h4 className="font-bold text-xl mb-3 text-[#2E2E2E]">Zero Balance Reporting</h4>
                                     <p className="text-gray-600 mb-4">After settlement, the bank MUST update your CIBIL record to show an outstanding balance of zero. We file disputes if they fail to do so within 30 days.</p>
                                 </div>
                                 <div className="p-8 border border-gray-200 rounded-3xl bg-white">
-                                    <h4 className="font-bold text-xl mb-3 text-[#2E2E2E]">The 'Closed' Status Hack</h4>
+                                    <h5 className="font-bold text-xl mb-3 text-[#2E2E2E]">The 'Closed' Status Hack</h5>
                                     <p className="text-gray-600 mb-4">In some cases, we can negotiate a 'Full Closure' reporting if the settlement amount is high enough, which is much better for your credit history.</p>
                                 </div>
                             </div>
                         </section>
 
                         <section id="rto-procedure" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 uppercase tracking-tight">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 uppercase tracking-tight">
                                 RTO Procedure: Removing the Bank from Your RC
-                            </h2>
+                            </h3>
                             <p className="text-lg text-gray-700 leading-relaxed mb-6">
                                 A car loan isn't fully truly over until the bank's name is removed from the Registration Certificate. This is called "Termination of Hypothecation."
                             </p>
@@ -369,9 +369,9 @@ export default function CarLoanSettlementPage() {
                         </section>
 
                         <section id="negotiation-psychology" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 uppercase tracking-tight">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 uppercase tracking-tight">
                                 Negotiation Psychology: How Banks and ARCs Think
-                            </h2>
+                            </h3>
                             <p className="text-lg text-gray-700 leading-relaxed mb-6">
                                 To win at the settlement table, you must understand the psychology of the person sitting across from you. Banks are not monoliths; they are collections of departments with different targets. The collection team has a target for 'recoveries', while the legal team has a target for 'reducing litigation costs'.
                             </p>
@@ -379,7 +379,7 @@ export default function CarLoanSettlementPage() {
                                 When a lawyer negotiates, we exploit these misalignments. We point out to the collection team that if they don't settle now, the legal team will be tied up in the DRT for years, increasing their 'Provisioning' requirements under RBI rules. Provisioning is money the bank must set aside from its profits for bad loans. By settling, the bank 'frees up' this provisioned capital, which is a massive incentive for them that most individual borrowers don't even know exists.
                             </p>
                             <div className="bg-blue-50 p-8 rounded-2xl border border-blue-100 mb-10">
-                                <h3 className="text-xl font-bold text-[#1F5EFF] mb-4 uppercase tracking-wider">The Asset Reconstruction Company (ARC) Angle</h3>
+                                <h4 className="text-xl font-bold text-[#1F5EFF] mb-4 uppercase tracking-wider">The Asset Reconstruction Company (ARC) Angle</h4>
                                 <p className="text-gray-700 leading-relaxed mb-4 font-medium">
                                     If your car loan was sold by the bank to an ARC (like Edelweiss or ARCIL), the negotiation dynamic changes completely. ARCs buy bad loans at a deep discount—sometimes as low as 20% of the book value. This means they have huge margins for settlement.
                                 </p>
@@ -390,9 +390,9 @@ export default function CarLoanSettlementPage() {
                         </section>
 
                         <section id="commercial-vehicles" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">
                                 Commercial Vehicle Settlements: Trucks, Taxis, and Fleets
-                            </h2>
+                            </h3>
                             <p className="text-lg text-gray-700 leading-relaxed mb-6">
                                 Settling a loan for a commercial vehicle (CV) is more complex than a personal car. For many, the truck or taxi is the only source of income. If it's repossessed, the ability to pay the loan vanishses. This is a powerful legal argument for 'Livelihood Protection' under Article 21 of the Constitution of India.
                             </p>
@@ -400,34 +400,34 @@ export default function CarLoanSettlementPage() {
                                 Judges are generally more sympathetic to a driver losing his livelihood than a person losing a luxury car. We use this to obtain 'Restraint Orders' against repossession, giving the owner time to operate the vehicle and pay off a structured settlement. For fleet owners (owning 5-50 vehicles), we negotiate bulk settlements, treating the fleet as a business unit rather than individual car parts.
                             </p>
                             <div className="bg-[#1F5EFF] p-8 rounded-2xl text-white my-10 shadow-lg">
-                                <h3 className="text-xl font-bold mb-4">The 'Work-and-Pay' Model</h3>
+                                <h4 className="text-xl font-bold mb-4">The 'Work-and-Pay' Model</h4>
                                 <p className="italic">"We often propose a model where the bank allows the borrower to keep the vehicle to continue their business, with a legally binding commitment to pay a fixed higher amount for 6 to 12 months as an OTS installment. This 'earn-to-pay' strategy is highly successful with NBFCs."</p>
                             </div>
                         </section>
 
                         <section id="contract-act-deep-dive" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 uppercase tracking-tight">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 uppercase tracking-tight">
                                 The Indian Contract Act: Your Hidden Defences
-                            </h2>
+                            </h3>
                             <p className="text-lg text-gray-700 leading-relaxed mb-6">
                                 Every car loan is at its core a contract. Under the Indian Contract Act, 1872, several clauses in bank agreements can be challenged as 'unconscionable' or 'unfair'.
                             </p>
                             <div className="space-y-6 mb-10">
                                 <div className="p-6 bg-gray-50 rounded-2xl border border-gray-200">
-                                    <h3 className="font-bold text-xl text-[#2E2E2E] mb-2">Section 74: Penal Damages</h3>
+                                    <h4 className="font-bold text-xl text-[#2E2E2E] mb-2">Section 74: Penal Damages</h4>
                                     <p className="text-gray-700">The law says that penal interest must be 'reasonable' and a genuine pre-estimate of loss. Most banks charge 24-36% penal interest, which is usurious. We challenge these calculations in court, often getting the entire penal interest component waived by the judge before the settlement even begins.</p>
                                 </div>
                                 <div className="p-6 bg-gray-50 rounded-2xl border border-gray-200">
-                                    <h4 className="font-bold text-xl text-[#2E2E2E] mb-2">Non-Consensual Variations</h4>
+                                    <h5 className="font-bold text-xl text-[#2E2E2E] mb-2">Non-Consensual Variations</h5>
                                     <p className="text-gray-700">If the bank increased the interest rate or changed the loan tenure without your explicit written consent, the contract may be voidable at your option. This is a massive leverage point for settlement.</p>
                                 </div>
                             </div>
                         </section>
 
                         <section id="taxation-impact" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">
                                 The Impact of GST and Income Tax on Settlements
-                            </h2>
+                            </h3>
                             <p className="text-lg text-gray-700 leading-relaxed mb-6">
                                 This is the most ignored part of debt settlement in India. If a bank waives off 5 Lakhs of your debt, that amount is technically 'income' for you under Section 2(24) of the Income Tax Act. You might get a notice from the IT department later.
                             </p>
@@ -437,9 +437,9 @@ export default function CarLoanSettlementPage() {
                         </section>
 
                         <section id="glossary" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 uppercase tracking-tight">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 uppercase tracking-tight">
                                 Glossary of Car Loan Settlement Terms
-                            </h2>
+                            </h3>
                             <div className="grid grid-cols-1 md:grid-cols-2 gap-4 text-sm font-medium text-gray-700 italic">
                                 <div><strong>NPA:</strong> Non-Performing Asset (Default over 90 days)</div>
                                 <div><strong>OTS:</strong> One Time Settlement</div>
@@ -465,9 +465,9 @@ export default function CarLoanSettlementPage() {
                         </section>
 
                         <section id="securitization-deep-dive" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 uppercase tracking-tight">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 uppercase tracking-tight">
                                 The Securitization Pipeline: How Your Car Loan is Traded
-                            </h2>
+                            </h3>
                             <p className="text-lg text-gray-700 leading-relaxed mb-6">
                                 Most borrowers don't realize that their bank might not even 'own' their loan anymore. Through a process called 'Securitization', banks bundle thousands of car loans and sell them to 'Special Purpose Vehicles' (SPVs) or Mutual Funds to raise immediate cash.
                             </p>
@@ -475,7 +475,7 @@ export default function CarLoanSettlementPage() {
                                 When a lawyer requests the 'Chain of Title' for your loan, it often creates a panic in the bank's back office. If they have moved the loan to a securitized pool, their right to use the SARFAESI Act directly might be legally compromised. We use this technicality to force a settlement. If they cannot prove they have the original promissory note or that the hypothecation was correctly transferred to the new owner, their entire recovery claim can be struck down by a court.
                             </p>
                             <div className="bg-red-50 p-8 rounded-2xl border border-red-100 mb-10">
-                                <h3 className="text-xl font-bold text-red-700 mb-4">CRITICAL WARNING: The 'Full Duress' Clause</h3>
+                                <h4 className="text-xl font-bold text-red-700 mb-4">CRITICAL WARNING: The 'Full Duress' Clause</h4>
                                 <p className="text-gray-700 text-sm">
                                     Never sign a 'Voluntary Surrender' form if a recovery agent brings one. By signing that, you waive all your rights under the SARFAESI Act. Banks use this to avoid the 60-day notice period. If they take the car, let them take it under protest. This 'protest' is what allows your lawyer to later file a case for illegal possession.
                                 </p>
@@ -483,9 +483,9 @@ export default function CarLoanSettlementPage() {
                         </section>
 
                         <section id="conclusion-summary" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">
                                 Conclusion: Reclaiming Your Life from Automobile Debt
-                            </h2>
+                            </h3>
                             <p className="text-lg text-gray-700 leading-relaxed mb-6">
                                 Defaulting on a car loan is a challenge, but it is not a dead end. With the right legal support, you can stop the harassment, protect your assets, and reach a settlement that allows you to start over with a clean slate. Do not wait for the recovery agents to show up. Be proactive, know your rights, and let a professional lawyer handle the aggression of the banks. Your journey back to financial freedom starts with a single, legally-backed step.
                             </p>
@@ -495,9 +495,9 @@ export default function CarLoanSettlementPage() {
                         </section>
 
                         <section id="success-stories" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 uppercase tracking-tight text-center">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 uppercase tracking-tight text-center">
                                 Real Impact: Success Stories in Car Loan Settlement
-                            </h2>
+                            </h3>
                             <div className="grid grid-cols-1 md:grid-cols-2 gap-6 not-prose">
                                 {[
                                     {
@@ -535,7 +535,7 @@ export default function CarLoanSettlementPage() {
                                                 {review.name.charAt(0)}
                                             </div>
                                             <div>
-                                                <h3 className="font-bold text-[#2E2E2E]">{review.name}</h3>
+                                                <h4 className="font-bold text-[#2E2E2E]">{review.name}</h4>
                                                 <p className="text-xs text-gray-400">{review.loc}</p>
                                             </div>
                                             <div className="ml-auto text-yellow-400 text-sm">★★★★★</div>
@@ -550,9 +550,9 @@ export default function CarLoanSettlementPage() {
                         </section>
 
                         <section id="comprehensive-faq" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">
                                 Frequently Asked Questions: Car Loan Legal Defence
-                            </h2>
+                            </h3>
                             <div className="space-y-4 not-prose">
                                 {[
                                     { q: "Can the bank take my car from a public parking lot?", a: "Not legally without following the SARFAESI procedure and informing the local police station. If they do, it can be treated as theft." },

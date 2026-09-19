@@ -521,9 +521,9 @@ export default function BankSoldLoanToArcSettlementPage() {
 
             {/* Section 2: Statutory & Regulatory Framework */}
             <section id="statutory-framework-sarfaesi-section-5" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                 2. Statutory &amp; Regulatory Framework: SARFAESI Section 5, Debt Novation &amp; Legal Assignment
-              </h2>
+              </h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 The assignment of non-performing bank debt in India is strictly codified under federal statutes and RBI prudential directions. A bank cannot arbitrarily transfer loan contracts without adhering to precise statutory mechanisms established under the <strong>Securitisation and Reconstruction of Financial Assets and Enforcement of Security Interest (SARFAESI) Act, 2002</strong>, the <strong>Indian Contract Act, 1872</strong>, and the <strong>Transfer of Property Act, 1882</strong>.
               </p>
@@ -583,9 +583,9 @@ export default function BankSoldLoanToArcSettlementPage() {
 
             {/* Section 3: The ARC Business Model & Discounted Purchases */}
             <section id="arc-business-model-discounted-purchases" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                 3. The ARC Business Model: Discounted Portfolio Purchases (15%–25% Acquisition Cost) &amp; Security Receipts (SRs)
-              </h2>
+              </h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 To master the art of negotiating with an Asset Reconstruction Company, a borrower must understand how ARCs make money and how their balance sheets operate. ARCs are not conventional banking institutions that generate revenue from net interest margins on retail deposits. Rather, ARCs are specialized distressed debt funds whose sole objective is to buy non-performing loan pools at rock-bottom prices and resolve them within a defined statutory timeframe to generate high Internal Rates of Return (IRR).
               </p>
@@ -602,9 +602,9 @@ export default function BankSoldLoanToArcSettlementPage() {
 
             {/* Section 4: ARC Valuation Economics & NPV Formula */}
             <section id="arc-accounting-valuation-npv-formula" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                 4. ARC Balance Sheet Economics, Recovery Pressures &amp; The Net Present Value (NPV) Equation
-              </h2>
+              </h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Understanding the mathematical valuation models utilized by ARC resolution committees is the key to unlocking deep 70% to 80% principal haircut settlements. When evaluating a settlement proposal submitted by an advocate on behalf of a distressed borrower, the ARC does not compare the settlement offer to the original loan sanction amount; instead, the ARC benchmarks the offer against its <strong>actual acquisition cost basis</strong> and the <strong>Net Present Value (NPV)</strong> of pursuing coercive recovery.
               </p>
@@ -676,9 +676,9 @@ export default function BankSoldLoanToArcSettlementPage() {
 
             {/* Section 5: Infographic Banner */}
             <section id="arc-settlement-visual-roadmap" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                 5. Bank Sold Loan to ARC Settlement Visual Roadmap
-              </h2>
+              </h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 The visual roadmap below illustrates the structured 5-stage institutional journey from bank NPA classification and SARFAESI Section 5 debt assignment to forensic hardship auditing, advocate-led zonal negotiations, formal ARC OTS sanction issuance, and final RBI No Dues Certificate delivery with credit bureau restoration.
               </p>
@@ -713,9 +713,9 @@ export default function BankSoldLoanToArcSettlementPage() {
 
             {/* Section 6: Advocate-Led Negotiation Strategy */}
             <section id="advocate-led-negotiation-strategy-haircuts" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                 6. Strategic Legal Defense: How Advocates Leverage the ARC Cost Basis to Secure 70%–80% Haircuts
-              </h2>
+              </h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Attempting to negotiate directly with an Asset Reconstruction Company without specialized legal counsel is fraught with peril. While ARCs possess enormous pricing flexibility, their front-line recovery executives and contracted recovery agencies are incentivized through aggressive recovery targets. They frequently employ intimidation tactics, threaten immediate property attachment, and quote inflated figures to extract maximum capital from unrepresented borrowers.
               </p>
@@ -725,25 +725,25 @@ export default function BankSoldLoanToArcSettlementPage() {
 
               <div className="space-y-3 my-4">
                 <div className="p-4 rounded-xl border-l-4 border-blue-600 bg-slate-50 space-y-1">
-                  <h3 className="font-bold text-slate-900 text-xs sm:text-sm">Phase 1: Notice of Legal Representation &amp; Cease-and-Desist Injunction</h3>
+                  <h4 className="font-bold text-slate-900 text-xs sm:text-sm">Phase 1: Notice of Legal Representation &amp; Cease-and-Desist Injunction</h4>
                   <p className="text-xs text-slate-600 leading-relaxed">
                     Advocates issue a formal Notice of Representation to the ARC&apos;s Principal Officer and Legal Recovery Head. This statutory notice invokes the <strong>RBI Master Directions on ARC Fair Practices Code</strong>, halts all unauthorized recovery agency telephone harassment, forbids intrusive home or workplace visits, and establishes that all further communications must occur exclusively through registered legal counsel.
                   </p>
                 </div>
                 <div className="p-4 rounded-xl border-l-4 border-indigo-600 bg-slate-50 space-y-1">
-                  <h4 className="font-bold text-slate-900 text-xs sm:text-sm">Phase 2: Forensic Assignment Audit &amp; Legal Vulnerability Check</h4>
+                  <h5 className="font-bold text-slate-900 text-xs sm:text-sm">Phase 2: Forensic Assignment Audit &amp; Legal Vulnerability Check</h5>
                   <p className="text-xs text-slate-600 leading-relaxed">
                     Our banking lawyers demand and scrutinize the underlying Assignment Agreement, Deed of Assignment, and Schedule of Assets. We examine whether state stamp duty was fully discharged on the assignment instrument under local Stamp Acts, check registration compliance under Section 17 of the Registration Act, 1908, verify whether mandatory Section 5(1A) notices were validly served, and challenge inflated compound interest debits.
                   </p>
                 </div>
                 <div className="p-4 rounded-xl border-l-4 border-purple-600 bg-slate-50 space-y-1">
-                  <h4 className="font-bold text-slate-900 text-xs sm:text-sm">Phase 3: Financial Hardship Dossier Submission to ARC Resolution Committees</h4>
+                  <h5 className="font-bold text-slate-900 text-xs sm:text-sm">Phase 3: Financial Hardship Dossier Submission to ARC Resolution Committees</h5>
                   <p className="text-xs text-slate-600 leading-relaxed">
                     Bypassing collection agents, advocates engage directly with the ARC&apos;s <strong>Stressed Asset Resolution Committee</strong> located at their corporate headquarters (predominantly in Mumbai, Delhi, or Bangalore). We submit an unassailable financial hardship dossier—comprising audited business profit and loss declines, GST turnover drop proofs, medical disability records, or debt insolvency affidavits—substantiating a permanent incapacity to service the original debt.
                   </p>
                 </div>
                 <div className="p-4 rounded-xl border-l-4 border-amber-600 bg-slate-50 space-y-1">
-                  <h4 className="font-bold text-slate-900 text-xs sm:text-sm">Phase 4: Structuring the 70%–80% Haircut Settlement &amp; Lok Adalat Consent</h4>
+                  <h5 className="font-bold text-slate-900 text-xs sm:text-sm">Phase 4: Structuring the 70%–80% Haircut Settlement &amp; Lok Adalat Consent</h5>
                   <p className="text-xs text-slate-600 leading-relaxed">
                     Armed with the ARC&apos;s low acquisition cost benchmark, advocates structure a formal compromise settlement offering 20% to 30% of the ledger balance (a 70% to 80% haircut). Where pending litigation exists before DRTs or Civil Courts, we execute a formal <strong>Joint Memorandum of Compromise</strong> and obtain a consent decree before the <strong>National Lok Adalat</strong>, ensuring ironclad judicial finality with zero future legal recourse.
                   </p>
@@ -757,9 +757,9 @@ export default function BankSoldLoanToArcSettlementPage() {
 
             {/* Section 7: Forensic Verification of ARC Settlement Letters */}
             <section id="forensic-verification-arc-sanction-letters" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                 7. Forensic Checklist for Watertight ARC Settlement Letters: Ensuring Absolute Legal Finality
-              </h2>
+              </h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 A critical vulnerability in the ARC debt settlement process involves the authenticity and legal phrasing of the One-Time Settlement Sanction Letter. Because ARCs frequently outsource recovery operations to third-party agencies, rogue recovery agents sometimes issue fraudulent, unofficial &quot;settlement approval emails&quot; or verbal assurances to extract partial token payments. Depositing funds without an authentic, legally binding ARC sanction letter leaves your loan open, allowing the ARC to appropriate the money as a simple token credit while continuing recovery actions for the remaining balance.
               </p>
@@ -819,9 +819,9 @@ export default function BankSoldLoanToArcSettlementPage() {
 
             {/* Section 8: Remittance, NDC & CIBIL Recovery */}
             <section id="settlement-remittance-ndc-cibil-recovery" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                 8. Settlement Remittance, Debt Extinguishment, RBI No Dues Certificate &amp; CIBIL Bureau Clean-Up
-              </h2>
+              </h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Remitting the agreed settlement amount to the Asset Reconstruction Company marks the financial fulfillment of the compromise. However, the legal resolution process is truly complete only when the ARC delivers a formal No Dues Certificate (NDC) and updates credit bureau registries to reflect zero outstanding liability.
               </p>
@@ -839,9 +839,9 @@ export default function BankSoldLoanToArcSettlementPage() {
                 </p>
               </div>
 
-              <h3 className="text-base sm:text-lg font-bold text-slate-900 pt-2">
+              <h4 className="text-base sm:text-lg font-bold text-slate-900 pt-2">
                 Navigating Credit Bureau Reporting &amp; Credit Score Rehabilitation
-              </h3>
+              </h4>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Understanding how credit information companies reflect an ARC settlement is essential for strategic long-term financial recovery:
               </p>
@@ -867,9 +867,9 @@ export default function BankSoldLoanToArcSettlementPage() {
 
             {/* Section 9: Bank vs ARC Settlement Comparative Matrix */}
             <section id="bank-vs-arc-settlement-comparative-matrix" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                 9. Bank vs. ARC Debt Settlement Comparative Strategy Matrix
-              </h2>
+              </h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Comparing the key institutional differences between settling directly with an originating commercial bank versus settling with an Asset Reconstruction Company highlights why an ARC assignment creates superior settlement outcomes:
               </p>
@@ -922,9 +922,9 @@ export default function BankSoldLoanToArcSettlementPage() {
             {/* Section 10: SettleLoans Legal Defense & Advisory + CompanySection */}
             <section id="company-resolution-section" className="space-y-6">
               <div className="border-t border-slate-200 pt-8 space-y-4">
-                <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
+                <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                   10. SettleLoans Legal Defense &amp; ARC Resolution Advisory
-                </h2>
+                </h3>
                 <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                   Resolving a bad loan that has been assigned to an Asset Reconstruction Company requires seasoned debt defense advocates who understand SARFAESI jurisprudence, distressed debt valuation models, and ARC credit committee operations. SettleLoans represents business owners and individual borrowers across India: issuing formal representation notices, halting third-party recovery agency harassment, conducting forensic audits of assignment deeds, and negotiating directly with ARC senior executives in Mumbai and regional headquarters to secure the deepest lawful 70% to 80% principal haircut settlements backed by official, legally binding No Dues Certificates.
                 </p>
@@ -938,9 +938,9 @@ export default function BankSoldLoanToArcSettlementPage() {
             <section id="faqs" className="space-y-4 border-t border-slate-200 pt-8">
               <div className="flex items-center gap-2 mb-2">
                 <HelpCircle className="w-5 h-5 text-[#1F5EFF]" />
-                <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
+                <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                   11. Frequently Asked Questions: Bank Sold Loan to ARC Settlement
-                </h2>
+                </h3>
               </div>
               <p className="text-xs sm:text-sm text-slate-600 mb-6">
                 Direct, legally verified answers to essential questions regarding loans sold to Asset Reconstruction Companies, SARFAESI Section 5 debt assignments, and borrower settlement rights in India.
@@ -970,9 +970,9 @@ export default function BankSoldLoanToArcSettlementPage() {
 
             {/* 5 Official Regulatory Links */}
             <section className="border-t border-slate-200 pt-8 mb-4">
-              <h3 className="text-xs sm:text-sm font-bold text-slate-900 mb-3 uppercase tracking-wider">
+              <h4 className="text-xs sm:text-sm font-bold text-slate-900 mb-3 uppercase tracking-wider">
                 Official Statutory &amp; Regulatory References
-              </h3>
+              </h4>
               <div className="grid grid-cols-1 sm:grid-cols-2 gap-2.5 text-xs">
                 <a
                   href="https://indiacode.gov.in/handle/123456789/2006"
@@ -1024,9 +1024,9 @@ export default function BankSoldLoanToArcSettlementPage() {
 
             {/* 10 Related Guide Badges */}
             <section className="border-t border-slate-200 pt-8 mb-8">
-              <h3 className="text-xs sm:text-sm font-bold text-slate-900 mb-4 uppercase tracking-wider">
+              <h4 className="text-xs sm:text-sm font-bold text-slate-900 mb-4 uppercase tracking-wider">
                 Related Distressed Asset &amp; Loan Resolution Guides
-              </h3>
+              </h4>
               <div className="flex flex-wrap gap-2">
                 <Link
                   href="/bank-one-time-settlement-ots-policy"

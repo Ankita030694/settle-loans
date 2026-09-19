@@ -270,9 +270,9 @@ export default function DigitalLoanDisputePage() {
                         </section>
 
                         <section id="rbi-guidelines-2025" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
                                 RBI Guidelines 2025: The New Legal Framework
-                            </h2>
+                            </h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 In response to the growing menace of illegal lending apps, the Reserve Bank of India (RBI) has introduced the Digital Lending Directions, 2025. This comprehensive framework consolidates years of warnings and guidelines into a strict set of rules that every Regulated Entity (RE) and their Lending Service Provider (LSP) must follow. This is not just advice; these are mandatory requirements that have the force of law.
                             </p>
@@ -280,7 +280,7 @@ export default function DigitalLoanDisputePage() {
                                 The 2025 guidelines emphasize transparency and accountability. They mandate that all loan disbursements and repayments must happen directly between the borrower's bank account and the RE's bank account, effectively cutting out the 'dark money' pools used by predatory platforms. Furthermore, the guidelines introduce the concept of a Key Fact Statement (KFS), which must disclose the absolute total cost of the loan, including all interest and penal charges, in a simple language that you can understand.
                             </p>
                             <div className="bg-gray-50 p-8 rounded-xl border border-gray-200 mb-8">
-                                <h3 className="text-xl font-bold mb-6">Mastering the Digital Lending Rules</h3>
+                                <h4 className="text-xl font-bold mb-6">Mastering the Digital Lending Rules</h4>
                                 <ul className="grid md:grid-cols-2 gap-4 text-sm font-medium">
                                     <li className="flex items-center gap-2">
                                         <span className="w-2 h-2 bg-[#1F5EFF] rounded-full"></span>
@@ -311,9 +311,9 @@ export default function DigitalLoanDisputePage() {
                         </section>
 
                         <section id="identifying-fake-apps" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
                                 Identifying Fake Apps: The Technical Red Flags
-                            </h2>
+                            </h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 Not every app on the Play Store or App Store is legitimate. In fact, many predatory 'Chinese-linked' apps masquerade as Indian Fintech companies. Identifying these early is your first line of defense. Legitimate apps always clearly disclose their NBFC or Bank partner on their website, in the app's 'About' section, and on the app store listing. They never use generic Gmail or Outlook addresses for support.
                             </p>
@@ -323,27 +323,27 @@ export default function DigitalLoanDisputePage() {
 
                             <div className="grid sm:grid-cols-3 gap-4 my-8">
                                 <div className="bg-white p-5 rounded-xl border border-[#DEDEDE] shadow-sm text-center border-t-4 border-t-red-500">
-                                    <h3 className="font-bold text-[#2E2E2E] mb-2 uppercase text-xs tracking-widest text-red-600">Upfront Fees</h3>
+                                    <h4 className="font-bold text-[#2E2E2E] mb-2 uppercase text-xs tracking-widest text-red-600">Upfront Fees</h4>
                                     <p className="text-xs text-gray-500">Asking for a security deposit or processing fee before disbursement.</p>
                                 </div>
                                 <div className="bg-white p-5 rounded-xl border border-[#DEDEDE] shadow-sm text-center border-t-4 border-t-red-500">
-                                    <h4 className="font-bold text-[#2E2E2E] mb-2 uppercase text-xs tracking-widest text-red-600">Contact Access</h4>
+                                    <h5 className="font-bold text-[#2E2E2E] mb-2 uppercase text-xs tracking-widest text-red-600">Contact Access</h5>
                                     <p className="text-xs text-gray-500">Forcing permission to read your entire contact list and call logs.</p>
                                 </div>
                                 <div className="bg-white p-5 rounded-xl border border-[#DEDEDE] shadow-sm text-center border-t-4 border-t-red-500">
-                                    <h4 className="font-bold text-[#2E2E2E] mb-2 uppercase text-xs tracking-widest text-red-600">Short Duration</h4>
+                                    <h5 className="font-bold text-[#2E2E2E] mb-2 uppercase text-xs tracking-widest text-red-600">Short Duration</h5>
                                     <p className="text-xs text-gray-500">Offering '7 day' or '14 day' loans which are inherently predatory.</p>
                                 </div>
                             </div>
                         </section>
 
                         <section id="harassment-defense" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Cyber-Harassment Defense: Stopping the Threats</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Cyber-Harassment Defense: Stopping the Threats</h3>
                             <p className="mb-6 text-lg leading-relaxed">
                                 When a digital loan turns into a nightmare, the recovery agents don't just call you; they weaponize your digital identity. They might send abusive WhatsApp messages, create fake legal notices from the RBI, or even threaten to post your pictures on social media. This is criminal intimidation under Section 503 of the Indian Penal Code and extortion under Section 384. You must treat this as a crime, not just a debt dispute.
                             </p>
                             <div className="bg-emerald-50 p-8 rounded-2xl border border-emerald-100 mb-8">
-                                <h3 className="text-xl font-bold text-emerald-800 mb-4">The SOS Strategy for Victims</h3>
+                                <h4 className="text-xl font-bold text-emerald-800 mb-4">The SOS Strategy for Victims</h4>
                                 <p className="mb-4 text-emerald-900/80">
                                     <strong>Step 1: Stop All Contact.</strong> Do not argue with them. Every response you give is used to escalate the pressure. Block their numbers immediately.
                                 </p>
@@ -357,7 +357,7 @@ export default function DigitalLoanDisputePage() {
                         </section>
 
                         <section id="it-act-provisions" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">IT Act & Data Privacy: Your Digital Rights</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">IT Act & Data Privacy: Your Digital Rights</h3>
                             <p className="mb-6 text-lg leading-relaxed">
                                 The Information Technology (IT) Act, 2000, along with the recent Digital Personal Data Protection (DPDP) Act, 2023, provides a robust legal shield for your data. Section 66E of the IT Act explicitly deals with the violation of privacy, making it a punishable offense to capture, publish, or transmit images of a person's private area without consent. For digital loan victims, this means that the threat to use 'morphed' images is a serious cybercrime with heavy prison terms.
                             </p>
@@ -367,14 +367,14 @@ export default function DigitalLoanDisputePage() {
                         </section>
 
                         <section id="cooling-off-period" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">The Cool-off Period: Your Right to Think Again</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">The Cool-off Period: Your Right to Think Again</h3>
                             <p className="mb-6 text-lg leading-relaxed">
                                 One of the most pro-consumer features of the 2025 RBI guidelines is the mandatory 'Cooling-off' or 'Look-through' period. In the world of instant loans, people often sign up under pressure or without reading the fine print. The law now mandates that every digital loan must offer a window (at least one day) during which you can decide to repay only the principal and a proportionate processing fee to exit the loan completely. This effectively stops the phenomenon of being 'trapped' in a high-interest loan that you didn't fully understand at the time of clicking 'Accept'.
                             </p>
                         </section>
 
                         <section id="grievance-redressal" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Grievance Redressal: Beating the System</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Grievance Redressal: Beating the System</h3>
                             <p className="mb-6 text-lg leading-relaxed">
                                 If you have a dispute, you don't have to wait for the lender to act. Every registered digital lender must have a Nodal Grievance Redressal Officer. Their contact details must be prominently displayed on their website and app. If your complaint is not resolved within 30 days, or if you are unsatisfied with the resolution, you can escalate the matter to the RBI Ombudsman.
                             </p>
@@ -384,21 +384,21 @@ export default function DigitalLoanDisputePage() {
                         </section>
 
                         <section id="cleaning-scars" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Cleaning Digital Scars: Restoring Your Reputation</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Cleaning Digital Scars: Restoring Your Reputation</h3>
                             <p className="mb-6 text-lg leading-relaxed">
                                 A major fear for loan app victims is the damage to their CIBIL score or their professional reputation. Many illegal apps do not even report to credit bureaus, but they use the *threat* of doing so as leverage. For legitimate apps that have incorrectly reported a default because of a dispute, the CIBIL grievance mechanism allows for corrections. We help you gather the proof of harassment or fraud to ensure that your credit history correctly reflects the reality of the situation.
                             </p>
                         </section>
 
                         <section id="settleloans-methodology" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Our Strategic Shield: Your Digital Armor</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Our Strategic Shield: Your Digital Armor</h3>
                             <p className="mb-6">
                                 SettleLoans offers a specialized 'Cyber Defense Suite' for victims of digital lending disputes. We combine deep technical knowledge with aggressive legal advocacy to ensure that you are no longer a target.
                             </p>
                             <div className="bg-[#2E2E2E] text-white p-10 rounded-[40px] shadow-2xl relative overflow-hidden mb-12">
                                 <div className="absolute top-0 right-0 w-64 h-64 bg-[#1F5EFF]/20 rounded-full -mr-32 -mt-32 blur-3xl"></div>
                                 <div className="relative z-10">
-                                    <h3 className="text-3xl font-black mb-8">The Digital Defense Framework</h3>
+                                    <h4 className="text-3xl font-black mb-8">The Digital Defense Framework</h4>
                                     <ul className="space-y-6">
                                         <li className="flex items-start gap-4">
                                             <div className="w-8 h-8 rounded-full bg-[#1F5EFF] flex items-center justify-center flex-shrink-0 text-sm font-bold">1</div>
@@ -434,7 +434,7 @@ export default function DigitalLoanDisputePage() {
                         </section>
 
                         <section id="success-case-studies" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 text-center">Stories of Digital Victory</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 text-center">Stories of Digital Victory</h3>
                             <div className="grid md:grid-cols-2 gap-6 not-prose">
                                 {[
                                     {
@@ -472,7 +472,7 @@ export default function DigitalLoanDisputePage() {
                                                 {s.name.charAt(0)}
                                             </div>
                                             <div>
-                                                <h3 className="font-bold text-[#2E2E2E]">{s.name}</h3>
+                                                <h4 className="font-bold text-[#2E2E2E]">{s.name}</h4>
                                                 <p className="text-xs text-gray-400">{s.loc}</p>
                                             </div>
                                             <div className="ml-auto text-yellow-400 text-sm">★★★★★</div>
@@ -487,7 +487,7 @@ export default function DigitalLoanDisputePage() {
                         </section>
 
                         <section id="faqs" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Frequently Asked Questions</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Frequently Asked Questions</h3>
                             <div className="space-y-4 not-prose">
                                 {[
                                     { q: "Is it safe to pay a loan app via UPI?", a: "Only if the UPI ID belongs to a registered company. Never pay into personal accounts or generic IDs like 'agent123@upi'. Legitimate apps use secure payment gateways." },
@@ -526,7 +526,7 @@ export default function DigitalLoanDisputePage() {
                         <div className="lg:hidden mt-16 mb-8">
                             <div className="bg-[#1F5EFF] text-white p-10 rounded-[40px] shadow-2xl relative overflow-hidden">
                                 <div className="absolute top-0 left-0 w-full h-full bg-[radial-gradient(circle_at_top_right,_var(--tw-gradient-stops))] from-white/20 to-transparent"></div>
-                                <h3 className="text-2xl font-black mb-6 relative z-10">Reclaim Your Digital Freedom</h3>
+                                <h4 className="text-2xl font-black mb-6 relative z-10">Reclaim Your Digital Freedom</h4>
                                 <p className="text-lg mb-8 relative z-10 font-medium">
                                     Are loan apps threatening your reputation? Our cyber defense experts will help you shut down the threats and settle your debts legally.
                                 </p>

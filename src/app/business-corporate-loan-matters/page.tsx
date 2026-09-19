@@ -270,9 +270,9 @@ export default function BusinessCorporateLoanPage() {
                         </section>
 
                         <section id="ibc-nclt-mastery" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
                                 IBC & NCLT Mastery: The Core of Corporate Resolution
-                            </h2>
+                            </h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 The Insolvency and Bankruptcy Code, 2016 (IBC) is arguably the most transformative piece of economic legislation in India's history. It replaced a fragmented and inefficient system of debt recovery with a unified, time bound, and structured process. For corporate debtors, the IBC represents both a significant threat and a potential opportunity for a fresh start. The adjudicating authority for corporate insolvency is the National Company Law Tribunal (NCLT), which has benches across various major cities in India.
                             </p>
@@ -280,7 +280,7 @@ export default function BusinessCorporateLoanPage() {
                                 Mastery of the IBC involves understanding the delicate balance between the rights of financial creditors (banks/lenders) and operational creditors (suppliers/employees). Unlike the old regime where cases could linger in civil courts for decades, the IBC operates on a strict timeline. The primary goal is the 'resuscitation' of the corporate debtor through a resolution plan. Liquidation is envisioned only as a last resort, when no viable recovery path exists. This focus on value maximization and business continuity is the cornerstone of our corporate advisory practice.
                             </p>
                             <div className="bg-gray-50 p-8 rounded-xl border border-gray-200 mb-8">
-                                <h3 className="text-xl font-bold mb-6">Technical Pillars of IBC 2016</h3>
+                                <h4 className="text-xl font-bold mb-6">Technical Pillars of IBC 2016</h4>
                                 <ul className="grid md:grid-cols-2 gap-4 text-sm font-medium">
                                     <li className="flex items-center gap-2">
                                         <span className="w-2 h-2 bg-[#1F5EFF] rounded-full"></span>
@@ -311,9 +311,9 @@ export default function BusinessCorporateLoanPage() {
                         </section>
 
                         <section id="cirp-procedures" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
                                 CIRP Step-by-Step: Navigating the Resolution Process
-                            </h2>
+                            </h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 The Corporate Insolvency Resolution Process (CIRP) begins when the NCLT admits a petition for insolvency. Upon admission, a 'Moratorium' is immediately declared, which acts as a legal shield for the corporate debtor, stopping all other legal proceedings and debt recovery actions. The management of the company is then transferred from the board of directors to an Interim Resolution Professional (IRP), who is tasked with protecting and preserving the value of the assets.
                             </p>
@@ -324,34 +324,34 @@ export default function BusinessCorporateLoanPage() {
                             <div className="relative border-l-2 border-dashed border-[#1F5EFF]/30 pl-8 ml-4 space-y-12 mb-12">
                                 <div className="relative">
                                     <div className="absolute -left-11 top-0 w-6 h-6 bg-[#1F5EFF] rounded-full border-4 border-white shadow-sm flex items-center justify-center text-[10px] text-white font-bold">1</div>
-                                    <h3 className="font-bold text-xl mb-3">Admission & Moratorium</h3>
+                                    <h4 className="font-bold text-xl mb-3">Admission & Moratorium</h4>
                                     <p className="text-gray-600 leading-relaxed">The NCLT admits the petition. All existing lawsuits and recovery actions against the company are stayed. This provides breathing room for the business.</p>
                                 </div>
                                 <div className="relative">
                                     <div className="absolute -left-11 top-0 w-6 h-6 bg-[#1F5EFF] rounded-full border-4 border-white shadow-sm flex items-center justify-center text-[10px] text-white font-bold">2</div>
-                                    <h4 className="font-bold text-xl mb-3">Appointment of IRP</h4>
+                                    <h5 className="font-bold text-xl mb-3">Appointment of IRP</h5>
                                     <p className="text-gray-600 leading-relaxed">The management is temporarily handed over to an Interim Resolution Professional who takes charge of the bank accounts and daily operations.</p>
                                 </div>
                                 <div className="relative">
                                     <div className="absolute -left-11 top-0 w-6 h-6 bg-[#1F5EFF] rounded-full border-4 border-white shadow-sm flex items-center justify-center text-[10px] text-white font-bold">3</div>
-                                    <h4 className="font-bold text-xl mb-3">Public Announcement & Claims</h4>
+                                    <h5 className="font-bold text-xl mb-3">Public Announcement & Claims</h5>
                                     <p className="text-gray-600 leading-relaxed">A public notice is issued, inviting all creditors to submit their claims with evidence. This determines the voting power in the CoC.</p>
                                 </div>
                                 <div className="relative">
                                     <div className="absolute -left-11 top-0 w-6 h-6 bg-[#1F5EFF] rounded-full border-4 border-white shadow-sm flex items-center justify-center text-[10px] text-white font-bold">4</div>
-                                    <h4 className="font-bold text-xl mb-3">Formation of CoC</h4>
+                                    <h5 className="font-bold text-xl mb-3">Formation of CoC</h5>
                                     <p className="text-gray-600 leading-relaxed">The Committee of Creditors is formed. They meet to decide whether to continue with the IRP or appoint a new Resolution Professional (RP).</p>
                                 </div>
                                 <div className="relative">
                                     <div className="absolute -left-11 top-0 w-6 h-6 bg-[#1F5EFF] rounded-full border-4 border-white shadow-sm flex items-center justify-center text-[10px] text-white font-bold">5</div>
-                                    <h4 className="font-bold text-xl mb-3">Resolution Plan & Approval</h4>
+                                    <h5 className="font-bold text-xl mb-3">Resolution Plan & Approval</h5>
                                     <p className="text-gray-600 leading-relaxed">Prospective resolution applicants submit plans. The CoC votes, and if a plan gets 66% approval, it goes to NCLT for final sanction.</p>
                                 </div>
                             </div>
                         </section>
 
                         <section id="role-of-coc" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">The Role of CoC: Understanding Creditor Control</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">The Role of CoC: Understanding Creditor Control</h3>
                             <p className="mb-6 text-lg leading-relaxed">
                                 The Committee of Creditors (CoC) is the most powerful entity in the entire CIRP. It is where the 'democracy of creditors' functions. The Supreme Court has repeatedly affirmed that the 'commercial wisdom' of the CoC is supreme and cannot be interfered with by the NCLT or NCLAT unless there is a violation of law. Each financial creditor in the CoC has a voting share proportional to the debt owed to them.
                             </p>
@@ -361,12 +361,12 @@ export default function BusinessCorporateLoanPage() {
                         </section>
 
                         <section id="personal-guarantor" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Personal Guarantor Liability: The New Frontier</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Personal Guarantor Liability: The New Frontier</h3>
                             <div className="bg-red-50 p-8 rounded-2xl border border-red-100 mb-8 overflow-hidden relative">
                                 <div className="absolute top-0 right-0 p-4 opacity-10">
                                     <svg className="w-24 h-24" fill="currentColor" viewBox="0 0 20 20"><path fillRule="evenodd" d="M8.257 3.099c.765-1.36 2.722-1.36 3.486 0l5.58 9.92c.75 1.334-.213 2.98-1.742 2.98H4.42c-1.53 0-2.493-1.646-1.743-2.98l5.58-9.92zM11 13a1 1 0 11-2 0 1 1 0 012 0zm-1-8a1 1 0 00-1 1v3a1 1 0 002 0V6a1 1 0 00-1-1z" clipRule="evenodd"></path></svg>
                                 </div>
-                                <h3 className="text-2xl font-bold text-red-800 mb-4">Critical Warning for Directors & Promoters</h3>
+                                <h4 className="text-2xl font-bold text-red-800 mb-4">Critical Warning for Directors & Promoters</h4>
                                 <p className="text-red-900 leading-relaxed mb-4">
                                     A landmark ruling by the Supreme Court of India has confirmed that when a company enters insolvency, the lenders can simultaneously initiate insolvency proceedings against the Personal Guarantors (usually the promoters or directors). This is a game changer. The 'limited liability' of the company no longer protects your personal assets if you have signed a personal guarantee.
                                 </p>
@@ -380,7 +380,7 @@ export default function BusinessCorporateLoanPage() {
                         </section>
 
                         <section id="sarfaesi-business" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Commercial SARFAESI: Defending Business Assets</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Commercial SARFAESI: Defending Business Assets</h3>
                             <p className="mb-6 text-lg leading-relaxed">
                                 While the IBC focuses on resolution, the SARFAESI Act, 2002 remains the bank's most powerful tool for asset recovery. For businesses, this often means the seizure of factory premises, office buildings, or machinery. A 13(2) notice under SARFAESI is the first shot across the bow. If not replied to within 60 days with strong legal objections, the bank can proceed to take physical possession of the assets.
                             </p>
@@ -390,38 +390,38 @@ export default function BusinessCorporateLoanPage() {
                         </section>
 
                         <section id="debt-restructuring" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Corporate Restructuring: Modern Variants</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Corporate Restructuring: Modern Variants</h3>
                             <p className="mb-6 text-lg leading-relaxed">
                                 Beyond NCLT, there are several 'Out of Court' restructuring mechanisms that can save a company from the stigma of insolvency. Schemes like S4A (Scheme for Sustainable Structuring of Stressed Assets) or the ICA (Inter-Creditor Agreement) framework allow for a more collaborative approach. Restructuring usually involves converting a portion of the debt into equity, extending repayment periods, or obtaining a moratorium on interest.
                             </p>
                             <div className="grid md:grid-cols-2 gap-6 mb-8">
                                 <div className="bg-blue-50 p-6 rounded-xl border border-blue-100">
-                                    <h3 className="font-bold text-blue-800 mb-2">Debt-to-Equity Swap</h3>
+                                    <h4 className="font-bold text-blue-800 mb-2">Debt-to-Equity Swap</h4>
                                     <p className="text-sm text-blue-900/80">Converting part of the lender's debt into shares of the company, reducing the monthly interest burden and giving the lender a stake in future success.</p>
                                 </div>
                                 <div className="bg-green-50 p-6 rounded-xl border border-green-100">
-                                    <h4 className="font-bold text-green-800 mb-2">Sustainable Debt Split</h4>
+                                    <h5 className="font-bold text-green-800 mb-2">Sustainable Debt Split</h5>
                                     <p className="text-sm text-green-900/80">Dividing the total debt into 'Sustainable' (which the company can pay from current cash flow) and 'Unsustainable' (which is settled or deferred).</p>
                                 </div>
                             </div>
                         </section>
 
                         <section id="cross-border" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Cross-Border Insolvency: For Global Businesses</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Cross-Border Insolvency: For Global Businesses</h3>
                             <p className="mb-6 text-lg leading-relaxed">
                                 In an era of globalization, many Indian companies have assets and creditors located outside the country. Cross-border insolvency is a complex field that involves the coordination of multiple legal systems. While India is still in the process of adopting the UNCITRAL Model Law on Cross-Border Insolvency, recent NCLT rulings have begun to recognize the need for international cooperation. If your business has offshore debt or foreign currency convertible bonds (FCCBs), you need an advisor who understands private international law and treaty obligations.
                             </p>
                         </section>
 
                         <section id="settleloans-methodology" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Our Strategic Shield: The SettleLoans Advantage</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Our Strategic Shield: The SettleLoans Advantage</h3>
                             <p className="mb-6">
                                 SettleLoans provides a comprehensive ecosystem of legal and financial services designed specifically for corporate debt resolution. We are not just advisors; we are your tactical partners in the boardroom and the courtroom.
                             </p>
                             <div className="bg-[#2E2E2E] text-white p-10 rounded-[40px] shadow-2xl relative overflow-hidden mb-12">
                                 <div className="absolute top-0 right-0 w-64 h-64 bg-[#1F5EFF]/20 rounded-full -mr-32 -mt-32 blur-3xl"></div>
                                 <div className="relative z-10">
-                                    <h3 className="text-3xl font-black mb-8">The Corporate Shield Methodology</h3>
+                                    <h4 className="text-3xl font-black mb-8">The Corporate Shield Methodology</h4>
                                     <ul className="space-y-6">
                                         <li className="flex items-start gap-4">
                                             <div className="w-8 h-8 rounded-full bg-[#1F5EFF] flex items-center justify-center flex-shrink-0 text-sm font-bold">1</div>
@@ -457,7 +457,7 @@ export default function BusinessCorporateLoanPage() {
                         </section>
 
                         <section id="success-case-studies" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 text-center">Stories of Corporate Resolution</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 text-center">Stories of Corporate Resolution</h3>
                             <div className="grid md:grid-cols-2 gap-6 not-prose">
                                 {[
                                     {
@@ -495,7 +495,7 @@ export default function BusinessCorporateLoanPage() {
                                                 {s.name.charAt(0)}
                                             </div>
                                             <div>
-                                                <h3 className="font-bold text-[#2E2E2E]">{s.name}</h3>
+                                                <h4 className="font-bold text-[#2E2E2E]">{s.name}</h4>
                                                 <p className="text-xs text-gray-400">{s.loc}</p>
                                             </div>
                                             <div className="ml-auto text-yellow-400 text-sm">★★★★★</div>
@@ -510,7 +510,7 @@ export default function BusinessCorporateLoanPage() {
                         </section>
 
                         <section id="faqs" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Frequently Asked Questions</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Frequently Asked Questions</h3>
                             <div className="space-y-4 not-prose">
                                 {[
                                     { q: "What is the 'Fresh Start' process under IBC?", a: "The Fresh Start process allows low income individuals with debts up to 35,000 INR to have their debts discharged. While designed for individuals, it is part of the overall insolvency framework." },
@@ -549,7 +549,7 @@ export default function BusinessCorporateLoanPage() {
                         <div className="lg:hidden mt-16 mb-8">
                             <div className="bg-[#1F5EFF] text-white p-10 rounded-[40px] shadow-2xl relative overflow-hidden">
                                 <div className="absolute top-0 left-0 w-full h-full bg-[radial-gradient(circle_at_top_right,_var(--tw-gradient-stops))] from-white/20 to-transparent"></div>
-                                <h3 className="text-2xl font-black mb-6 relative z-10">Protect Your Business Legacy</h3>
+                                <h4 className="text-2xl font-black mb-6 relative z-10">Protect Your Business Legacy</h4>
                                 <p className="text-lg mb-8 relative z-10 font-medium">
                                     Facing an NCLT petition or high value recovery? Our corporate defense experts represent you with the strategic depth needed for a successful resolution.
                                 </p>

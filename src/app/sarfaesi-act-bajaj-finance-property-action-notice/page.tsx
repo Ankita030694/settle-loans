@@ -227,17 +227,17 @@ export default function Page() {
             </section>
 
             <section id="nbfc-vs-banks" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 Why NBFCs Act Faster Than Traditional Banks
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 Many borrowers assume they have months or years to resolve a defaulted loan based on stories of traditional PSU bank timelines. However, a <strong>home loan default NBFC</strong> situation is entirely different.
               </p>
               
               <div className="bg-blue-50 border-l-8 border-[#1F5EFF] p-8 rounded-r-2xl mb-8">
-                <h3 className="text-xl font-black text-[#1F5EFF] mb-4">
+                <h4 className="text-xl font-black text-[#1F5EFF] mb-4">
                   Key Differences in NBFC Recovery
-                </h3>
+                </h4>
                 <div className="space-y-4">
                   <div className="flex items-start gap-3">
                     <div className="mt-1.5 w-2 h-2 rounded-full bg-[#1F5EFF] flex-shrink-0"></div>
@@ -256,9 +256,9 @@ export default function Page() {
             </section>
 
             <section id="sarfaesi-timeline" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 The SARFAESI Action Timeline
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 Understanding the legal timeline is crucial for planning your defense. Once an account is classified as a Non-Performing Asset (NPA), the clock starts ticking rapidly.
               </p>
@@ -267,7 +267,7 @@ export default function Page() {
                 <div className="flex gap-6">
                   <div className="flex-shrink-0 w-12 h-12 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center font-black text-xl shadow-lg">1</div>
                   <div>
-                    <h3 className="text-2xl font-bold text-[#2E2E2E] mb-2">Section 13(2) Demand Notice</h3>
+                    <h4 className="text-2xl font-bold text-[#2E2E2E] mb-2">Section 13(2) Demand Notice</h4>
                     <p className="text-lg text-gray-700">The lender issues a demand notice giving you exactly 60 days to repay the entire outstanding principal and interest. <strong>You must file an objection under Section 13(3A) within this period.</strong></p>
                   </div>
                 </div>
@@ -275,7 +275,7 @@ export default function Page() {
                 <div className="flex gap-6">
                   <div className="flex-shrink-0 w-12 h-12 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center font-black text-xl shadow-lg">2</div>
                   <div>
-                    <h3 className="text-2xl font-bold text-[#2E2E2E] mb-2">Section 13(4) Possession Notice</h3>
+                    <h4 className="text-2xl font-bold text-[#2E2E2E] mb-2">Section 13(4) Possession Notice</h4>
                     <p className="text-lg text-gray-700">If the 60 days pass without full payment or an accepted settlement, the NBFC will issue a possession notice, marking the beginning of <strong>symbolic possession</strong> proceedings.</p>
                   </div>
                 </div>
@@ -283,7 +283,7 @@ export default function Page() {
                 <div className="flex gap-6">
                   <div className="flex-shrink-0 w-12 h-12 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center font-black text-xl shadow-lg">3</div>
                   <div>
-                    <h3 className="text-2xl font-bold text-[#2E2E2E] mb-2">Physical Possession via DM/CMM</h3>
+                    <h4 className="text-2xl font-bold text-[#2E2E2E] mb-2">Physical Possession via DM/CMM</h4>
                     <p className="text-lg text-gray-700">The lender applies to the District Magistrate (DM) or Chief Metropolitan Magistrate (CMM) under Section 14 to take physical control of the property using police assistance.</p>
                   </div>
                 </div>
@@ -291,9 +291,9 @@ export default function Page() {
             </section>
 
             <section id="symbolic-possession" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 Symbolic vs. Physical Possession
-              </h2>
+              </h3>
               
               <div className="bg-gray-50 p-8 rounded-2xl mb-8 border border-gray-200">
                 <p className="text-lg text-gray-800 leading-relaxed mb-4">
@@ -305,7 +305,7 @@ export default function Page() {
               </div>
 
               <div className="bg-red-50 p-6 rounded-xl border border-red-100 mb-8">
-                <h3 className="text-xl font-black text-red-700 mb-3">Critical Warning</h3>
+                <h4 className="text-xl font-black text-red-700 mb-3">Critical Warning</h4>
                 <p className="text-lg text-red-900">
                   Do not wait for physical possession proceedings to begin before taking legal action. Once the CMM/DM order is passed under Section 14, obtaining a stay order becomes significantly more difficult and expensive.
                 </p>
@@ -313,34 +313,34 @@ export default function Page() {
             </section>
 
             <section id="legal-remedies" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 How to Secure a Stay Order
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 The SARFAESI Act provides specific legal remedies for borrowers to protect their properties from unlawful or hasty auctions by NBFCs.
               </p>
 
               <div className="grid md:grid-cols-2 gap-6 my-8">
                 <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
-                  <h3 className="font-black text-[#1F5EFF] text-lg mb-3">Filing SA under Section 17</h3>
+                  <h4 className="font-black text-[#1F5EFF] text-lg mb-3">Filing SA under Section 17</h4>
                   <p className="text-gray-700">
                     You can file a Securitisation Application (SA) before the Debt Recovery Tribunal (DRT) challenging the actions taken by the NBFC under Section 13(4).
                   </p>
                 </div>
                 <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
-                  <h4 className="font-black text-[#1F5EFF] text-lg mb-3">Procedural Irregularities</h4>
+                  <h5 className="font-black text-[#1F5EFF] text-lg mb-3">Procedural Irregularities</h5>
                   <p className="text-gray-700">
                     The DRT often grants stay orders if the NBFC failed to follow strict procedures, such as improper NPA classification or flawed valuation reports.
                   </p>
                 </div>
                 <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
-                  <h4 className="font-black text-[#1F5EFF] text-lg mb-3">One Time Settlement (OTS)</h4>
+                  <h5 className="font-black text-[#1F5EFF] text-lg mb-3">One Time Settlement (OTS)</h5>
                   <p className="text-gray-700">
                     Concurrently negotiating an OTS can halt legal proceedings. Courts view proactive settlement efforts favorably when considering stay applications.
                   </p>
                 </div>
                 <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
-                  <h4 className="font-black text-[#1F5EFF] text-lg mb-3">High Court Writ Petitions</h4>
+                  <h5 className="font-black text-[#1F5EFF] text-lg mb-3">High Court Writ Petitions</h5>
                   <p className="text-gray-700">
                     In exceptional cases involving severe rights violations or lack of alternate remedies, a Writ Petition under Article 226 may be filed in the High Court.
                   </p>
@@ -349,9 +349,9 @@ export default function Page() {
             </section>
 
             <section id="success-stories" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 Recent Success Stories
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-8">
                 See how we've helped borrowers successfully navigate aggressive SARFAESI proceedings initiated by NBFCs.
               </p>
@@ -396,9 +396,9 @@ export default function Page() {
             </section>
 
             <section id="faqs" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 Frequently Asked Questions
-              </h2>
+              </h3>
               <div className="space-y-4">
                 {faqs.map((faq, index) => (
                   <details key={index} name="faq-accordion" className="bg-white border border-[#DEDEDE] rounded-xl p-6 hover:shadow-md group cursor-pointer transition-shadow">
@@ -418,7 +418,7 @@ export default function Page() {
             <div className="bg-[#2E2E2E] text-white p-12 rounded-[40px] text-center mt-24 relative overflow-hidden group">
               <div className="absolute inset-0 bg-[#1F5EFF] opacity-0 group-hover:opacity-5 transition-opacity"></div>
               <div className="relative z-10">
-                <h3 className="text-3xl md:text-4xl font-black mb-6">Protect Your Property from Auction</h3>
+                <h4 className="text-3xl md:text-4xl font-black mb-6">Protect Your Property from Auction</h4>
                 <p className="text-xl text-gray-300 mb-8 max-w-2xl mx-auto">
                   Has your NBFC initiated property action under the SARFAESI Act? NBFCs act faster than banks. Learn how to secure a stay order today.
                 </p>

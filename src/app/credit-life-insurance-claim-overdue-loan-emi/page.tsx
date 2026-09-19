@@ -264,13 +264,13 @@ export default function Page() {
             </section>
 
             <section id="what-is-credit-shield" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">What is a Credit Shield?</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">What is a Credit Shield?</h3>
               <p className="text-lg leading-relaxed mb-6">
                 A credit shield is a specialized insurance policy that protects the borrower and the lender in the event of specific financial hardships. If a borrower defaults on a personal loan due to circumstances beyond their control, the credit shield activates to cover the outstanding balance or pay upcoming EMIs, depending on the terms. These policies are generally single-premium plans funded right at the time of loan disbursement.
               </p>
 
               <div className="bg-blue-50 border-l-8 border-[#1F5EFF] p-8 rounded-r-2xl mb-8">
-                <h3 className="text-xl font-black text-[#1F5EFF] mb-4">Key Coverage Areas of Credit Shields:</h3>
+                <h4 className="text-xl font-black text-[#1F5EFF] mb-4">Key Coverage Areas of Credit Shields:</h4>
                 <div className="space-y-3">
                   <div className="flex items-start gap-3">
                     <div className="mt-1.5 w-2 h-2 rounded-full bg-[#1F5EFF] flex-shrink-0"></div>
@@ -293,32 +293,32 @@ export default function Page() {
             </section>
 
             <section id="when-to-claim" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">When Can You Claim Loan Insurance?</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">When Can You Claim Loan Insurance?</h3>
               <p className="text-lg leading-relaxed mb-6">
                 You cannot simply claim insurance because you don&apos;t want to pay your EMIs or if you quit your job voluntarily. The <span className="font-bold">loan insurance claim process</span> requires definitive proof of specific triggers. It is not an arbitrary safety net, but rather a contractual agreement with defined bounds.
               </p>
 
               <div className="grid md:grid-cols-2 gap-6 my-8">
                 <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
-                  <h3 className="font-black text-[#1F5EFF] text-lg mb-3">Involuntary Termination</h3>
+                  <h4 className="font-black text-[#1F5EFF] text-lg mb-3">Involuntary Termination</h4>
                   <p className="text-gray-700">Being laid off, retrenched, or fired without disciplinary cause. Resigning voluntarily is never covered.</p>
                 </div>
                 <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
-                  <h4 className="font-black text-[#1F5EFF] text-lg mb-3">Severe Medical Crisis</h4>
+                  <h5 className="font-black text-[#1F5EFF] text-lg mb-3">Severe Medical Crisis</h5>
                   <p className="text-gray-700">Diagnosis of a critical illness (cancer, heart attack) as defined strictly in your policy document schedule.</p>
                 </div>
                 <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
-                  <h4 className="font-black text-[#1F5EFF] text-lg mb-3">Accidental Disability</h4>
+                  <h5 className="font-black text-[#1F5EFF] text-lg mb-3">Accidental Disability</h5>
                   <p className="text-gray-700">Total or partial permanent disability preventing you from continuing your current occupation.</p>
                 </div>
                 <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
-                  <h4 className="font-black text-[#1F5EFF] text-lg mb-3">Demise of the Borrower</h4>
+                  <h5 className="font-black text-[#1F5EFF] text-lg mb-3">Demise of the Borrower</h5>
                   <p className="text-gray-700">In the unfortunate event of death, families can invoke the insurance so they don&apos;t inherit the debt burden.</p>
                 </div>
               </div>
 
               <div className="bg-red-50 p-6 rounded-xl border border-red-100 mb-8">
-                <h4 className="text-xl font-black text-red-700 mb-2">Important Warning</h4>
+                <h5 className="text-xl font-black text-red-700 mb-2">Important Warning</h5>
                 <p className="text-red-900 text-lg">
                   Insurance claims have strict time limits. You must typically notify the insurer within 30 to 60 days of the triggering event (e.g., the date on your termination letter). Delaying this intimation can lead to outright rejection of your claim. Keep a record of all your emails and phone calls for future reference.
                 </p>
@@ -326,7 +326,7 @@ export default function Page() {
             </section>
 
             <section id="common-riders" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">Common Insurance Riders Explained</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">Common Insurance Riders Explained</h3>
               <p className="text-lg leading-relaxed mb-6">
                 When signing loan documents, the insurance premium deducted is typically a combination of various policy riders. Understanding exactly what riders are attached to your master policy dictates the success of your <span className="font-bold">credit shield personal loan default</span> claims.
               </p>
@@ -342,7 +342,7 @@ export default function Page() {
             </section>
 
             <section id="claim-process" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">The Loan Insurance Claim Process</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">The Loan Insurance Claim Process</h3>
               <p className="text-lg leading-relaxed mb-8">
                 If you qualify, navigating the <span className="font-bold">loan insurance claim process</span> requires meticulous paperwork. Insurers will look for any discrepancy to minimize their payout liability. Follow these exact steps to ensure your claim is processed smoothly.
               </p>
@@ -351,7 +351,7 @@ export default function Page() {
                 <div className="flex gap-6">
                   <div className="flex-shrink-0 w-12 h-12 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center font-black text-xl shadow-lg">1</div>
                   <div>
-                    <h3 className="text-2xl font-bold text-[#2E2E2E] mb-3">Locate Your Policy Document</h3>
+                    <h4 className="text-2xl font-bold text-[#2E2E2E] mb-3">Locate Your Policy Document</h4>
                     <p className="text-lg text-gray-700">Check your loan welcome kit or email inbox. Look for a Certificate of Insurance (COI) from a partner insurance company (e.g., HDFC Life, ICICI Lombard, Kotak Life). This document contains your master policy number.</p>
                   </div>
                 </div>
@@ -359,7 +359,7 @@ export default function Page() {
                 <div className="flex gap-6">
                   <div className="flex-shrink-0 w-12 h-12 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center font-black text-xl shadow-lg">2</div>
                   <div>
-                    <h3 className="text-2xl font-bold text-[#2E2E2E] mb-3">Intimate the Insurer Immediately</h3>
+                    <h4 className="text-2xl font-bold text-[#2E2E2E] mb-3">Intimate the Insurer Immediately</h4>
                     <p className="text-lg text-gray-700">Call the insurance company&apos;s toll-free number or email their claims department immediately. Inform them of the event (job loss/illness) and get a Claim Intimation Number. Do this within 30 days of the event.</p>
                   </div>
                 </div>
@@ -367,7 +367,7 @@ export default function Page() {
                 <div className="flex gap-6">
                   <div className="flex-shrink-0 w-12 h-12 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center font-black text-xl shadow-lg">3</div>
                   <div>
-                    <h3 className="text-2xl font-bold text-[#2E2E2E] mb-3">Gather Necessary Documents</h3>
+                    <h4 className="text-2xl font-bold text-[#2E2E2E] mb-3">Gather Necessary Documents</h4>
                     <p className="text-lg text-gray-700">Collect your KYC, original loan sanction letter, loan account statement showing overdue amounts, and event-specific proofs (termination letter, medical reports, death certificate).</p>
                   </div>
                 </div>
@@ -375,7 +375,7 @@ export default function Page() {
                 <div className="flex gap-6">
                   <div className="flex-shrink-0 w-12 h-12 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center font-black text-xl shadow-lg">4</div>
                   <div>
-                    <h3 className="text-2xl font-bold text-[#2E2E2E] mb-3">Submit the Formal Claim Form</h3>
+                    <h4 className="text-2xl font-bold text-[#2E2E2E] mb-3">Submit the Formal Claim Form</h4>
                     <p className="text-lg text-gray-700">Download the specific claim form from the insurer&apos;s website. Fill it accurately, attach the self-attested documents, and submit it either via their portal or physically at their branch.</p>
                   </div>
                 </div>
@@ -383,7 +383,7 @@ export default function Page() {
                 <div className="flex gap-6">
                   <div className="flex-shrink-0 w-12 h-12 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center font-black text-xl shadow-lg">5</div>
                   <div>
-                    <h3 className="text-2xl font-bold text-[#2E2E2E] mb-3">Inform the Bank/Lender</h3>
+                    <h4 className="text-2xl font-bold text-[#2E2E2E] mb-3">Inform the Bank/Lender</h4>
                     <p className="text-lg text-gray-700">Write an email to your bank&apos;s grievance or customer care desk. Provide them with your Claim Intimation Number. Request them to hold any recovery or bounce charges while the claim is under process.</p>
                   </div>
                 </div>
@@ -391,13 +391,13 @@ export default function Page() {
             </section>
 
             <section id="job-loss-coverage" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">Navigating Job Loss & Medical Claims</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">Navigating Job Loss & Medical Claims</h3>
               <p className="text-lg leading-relaxed mb-6">
                 When you <span className="font-bold">claim insurance for a job loss loan</span>, insurers will scrutinize the reason for termination. The termination letter MUST clearly state that the company let you go due to restructuring, redundancy, or financial constraints.
               </p>
               
               <div className="bg-gray-50 p-8 rounded-2xl mb-8 border border-gray-200">
-                <h3 className="text-xl font-bold text-[#2E2E2E] mb-4">Crucial Documents for Job Loss Claims:</h3>
+                <h4 className="text-xl font-bold text-[#2E2E2E] mb-4">Crucial Documents for Job Loss Claims:</h4>
                 <ul className="list-disc pl-5 space-y-2 text-lg text-gray-700">
                   <li>Termination/Pink Slip letter from HR on company letterhead.</li>
                   <li>Full and Final (F&F) Settlement document.</li>
@@ -413,13 +413,13 @@ export default function Page() {
             </section>
 
             <section id="legal-rights" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">Your Rights During a Claim</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">Your Rights During a Claim</h3>
               <p className="text-lg leading-relaxed mb-6">
                 One of the most stressful parts of a loan default is dealing with relentless recovery agents. Many borrowers assume that once a claim is submitted, the bank will automatically stop collection activities. However, banks and their associated insurance companies often operate in silos.
               </p>
               
               <div className="bg-blue-50 border-l-8 border-[#1F5EFF] p-8 rounded-r-2xl mb-8">
-                <h3 className="text-xl font-black text-[#1F5EFF] mb-4">Handling Recovery Agents:</h3>
+                <h4 className="text-xl font-black text-[#1F5EFF] mb-4">Handling Recovery Agents:</h4>
                 <p className="text-lg text-blue-900 leading-relaxed mb-4">
                   If recovery agents contact you while your claim is under evaluation, you have the right to politely but firmly state that a formal insurance claim is active. Provide them with the claim reference number. 
                 </p>
@@ -430,13 +430,13 @@ export default function Page() {
             </section>
 
             <section id="tax-impact" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">Tax Impact of Insurance Payouts</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">Tax Impact of Insurance Payouts</h3>
               <p className="text-lg leading-relaxed mb-6">
                 A common question borrowers have is whether the payout from a credit life insurance claim is taxable. In general, payouts made directly to the bank to settle your outstanding loan do not count as taxable income for you.
               </p>
               
               <div className="bg-gray-50 p-8 rounded-2xl mb-8 border border-gray-200">
-                <h3 className="text-xl font-bold text-[#2E2E2E] mb-4">Tax Exemptions Explained:</h3>
+                <h4 className="text-xl font-bold text-[#2E2E2E] mb-4">Tax Exemptions Explained:</h4>
                 <p className="text-lg text-gray-700 leading-relaxed">
                   Under Section 10(10D) of the Income Tax Act, any sum received under a life insurance policy, including bonus sums, is entirely exempt from tax. Because a credit shield acts as a specialized life or general insurance policy, the amount disbursed to clear your debt is protected from taxation. The debt simply vanishes off your ledger without increasing your tax liability.
                 </p>
@@ -444,7 +444,7 @@ export default function Page() {
             </section>
 
             <section id="success-stories" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">Success Stories</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">Success Stories</h3>
               <p className="text-lg leading-relaxed mb-8">
                 See how other borrowers successfully navigated the claim process to protect their finances during the most challenging periods of their lives.
               </p>
@@ -462,7 +462,7 @@ export default function Page() {
                       ))}
                     </div>
                   </div>
-                  <h3 className="text-xl font-bold text-[#2E2E2E] mb-4">Rahul Verma</h3>
+                  <h4 className="text-xl font-bold text-[#2E2E2E] mb-4">Rahul Verma</h4>
                   <p className="text-gray-600 mb-6 italic">"I was laid off during company downsizing. I submitted my termination letter to HDFC Life. My credit shield kicked in and paid my personal loan EMIs for 3 months until I found a new job. My CIBIL stayed perfect."</p>
                   <div className="flex flex-wrap gap-2">
                     <span className="py-1 px-3 rounded-full bg-red-100 text-red-700 text-xs font-bold uppercase">EMI: ₹24,000/mo</span>
@@ -482,7 +482,7 @@ export default function Page() {
                       ))}
                     </div>
                   </div>
-                  <h4 className="text-xl font-bold text-[#2E2E2E] mb-4">Anita Desai</h4>
+                  <h5 className="text-xl font-bold text-[#2E2E2E] mb-4">Anita Desai</h5>
                   <p className="text-gray-600 mb-6 italic">"My husband suffered a severe heart attack and couldn't work. The critical illness rider on his loan insurance cleared the entire outstanding principal of ₹8.5 Lakhs within 25 days. It was an absolute lifesaver."</p>
                   <div className="flex flex-wrap gap-2">
                     <span className="py-1 px-3 rounded-full bg-red-100 text-red-700 text-xs font-bold uppercase">Loan: ₹8.5 Lakhs</span>
@@ -493,7 +493,7 @@ export default function Page() {
             </section>
 
             <section id="faqs" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">Frequently Asked Questions</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">Frequently Asked Questions</h3>
               <div className="space-y-4">
                 <details name="faq-accordion" className="bg-white border border-[#DEDEDE] rounded-xl p-6 hover:shadow-md group cursor-pointer transition-shadow">
                   <summary className="font-bold text-lg marker:text-[#1F5EFF] flex justify-between items-center outline-none">
@@ -601,7 +601,7 @@ export default function Page() {
             <div className="bg-[#2E2E2E] text-white p-12 rounded-[40px] text-center mt-24 relative overflow-hidden group">
               <div className="absolute inset-0 bg-[#1F5EFF] opacity-0 group-hover:opacity-5 transition-opacity"></div>
               <div className="relative z-10">
-                <h3 className="text-3xl md:text-4xl font-black mb-6">Need Help Processing Your Claim?</h3>
+                <h4 className="text-3xl md:text-4xl font-black mb-6">Need Help Processing Your Claim?</h4>
                 <p className="text-xl mb-8 text-gray-300">
                   Don&apos;t let complex paperwork block your insurance payout. Let our experts handle the bank and insurance company for you.
                 </p>

@@ -575,7 +575,7 @@ export default function IndifiBusinessLoanSettlementProcessPage() {
                 <Clock className="w-4 h-4" />
                 <span>2. Sales Drop &amp; EMI Bounces</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">When Revenue Contracts Sharply</h2>
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">When Revenue Contracts Sharply</h3>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Online sales can be volatile. Platform algorithms change. Orders dry up fast. Your daily cash flow takes a hit.
               </p>
@@ -646,7 +646,7 @@ export default function IndifiBusinessLoanSettlementProcessPage() {
                 <Banknote className="w-4 h-4" />
                 <span>3. Halting E-NACH &amp; Legal Threats</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Stop Bank Bounce Penalties</h2>
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Stop Bank Bounce Penalties</h3>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Every bounced EMI hurts. Banks deduct ₹250 to ₹590 per failure. It drains your working capital fast.
               </p>
@@ -661,7 +661,7 @@ export default function IndifiBusinessLoanSettlementProcessPage() {
                 <Calculator className="w-4 h-4" />
                 <span>4. OTS Slabs &amp; Haircut Metrics</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Indifi Settlement Slabs</h2>
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Indifi Settlement Slabs</h3>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Lenders hate long legal battles. They cost money. They lock up bank capital.
               </p>
@@ -681,7 +681,7 @@ export default function IndifiBusinessLoanSettlementProcessPage() {
               </div>
 
               {/* Settlement Haircut Slabs Table */}
-              <h3 className="text-lg font-bold text-slate-900 mb-3">Expected Haircut Slabs for MSMEs</h3>
+              <h4 className="text-lg font-bold text-slate-900 mb-3">Expected Haircut Slabs for MSMEs</h4>
               <div className="overflow-x-auto my-4">
                 <table className="min-w-full bg-white">
                   <thead>
@@ -739,9 +739,9 @@ export default function IndifiBusinessLoanSettlementProcessPage() {
                       <span className="text-[10px] font-black uppercase tracking-widest text-blue-300 block">
                         MSME Settlement Blueprint
                       </span>
-                      <h3 className="text-sm md:text-base font-black text-white leading-tight">
+                      <h4 className="text-sm md:text-base font-black text-white leading-tight">
                         Indifi Business Loan Resolution Framework
-                      </h3>
+                      </h4>
                     </div>
                   </div>
                   <a
@@ -788,7 +788,7 @@ export default function IndifiBusinessLoanSettlementProcessPage() {
                 <ShieldAlert className="w-4 h-4" />
                 <span>6. WhatsApp &amp; Agent Harassment</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Defending Against Recovery Abuse</h2>
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Defending Against Recovery Abuse</h3>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Agents may call you fifty times a day. They send fake police notices on WhatsApp. They threaten to visit your shop.
               </p>
@@ -803,7 +803,7 @@ export default function IndifiBusinessLoanSettlementProcessPage() {
                 <Layers className="w-4 h-4" />
                 <span>7. Step-by-Step Resolution Guide</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">How to Settle Your Indifi Loan</h2>
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">How to Settle Your Indifi Loan</h3>
               <p className="text-slate-700 leading-relaxed mb-6 text-base md:text-lg">
                 Follow these simple steps for a legally binding debt settlement:
               </p>
@@ -811,10 +811,10 @@ export default function IndifiBusinessLoanSettlementProcessPage() {
               <div className="space-y-6">
                 {/* Phase 1 */}
                 <div className="p-6 rounded-2xl bg-white border border-slate-200 shadow-sm">
-                  <h3 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
+                  <h4 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
                     <span className="w-7 h-7 rounded-lg bg-blue-50 text-[#1F5EFF] font-black text-sm flex items-center justify-center border border-blue-200">1</span>
                     Loan Document Audit
-                  </h3>
+                  </h4>
                   <p className="text-slate-600 text-sm md:text-base leading-relaxed">
                     Check your sanction letter. Find the exact principal amount. Strip away all illegal late fees.
                   </p>
@@ -822,10 +822,10 @@ export default function IndifiBusinessLoanSettlementProcessPage() {
 
                 {/* Phase 2 */}
                 <div className="p-6 rounded-2xl bg-white border border-slate-200 shadow-sm">
-                  <h3 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
+                  <h4 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
                     <span className="w-7 h-7 rounded-lg bg-blue-50 text-[#1F5EFF] font-black text-sm flex items-center justify-center border border-blue-200">2</span>
                     Block Mandates &amp; Harassment
-                  </h3>
+                  </h4>
                   <p className="text-slate-600 text-sm md:text-base leading-relaxed">
                     Cancel the e-NACH mandate at your bank. Send a Cease and Desist notice to stop agent calls.
                   </p>
@@ -833,10 +833,10 @@ export default function IndifiBusinessLoanSettlementProcessPage() {
 
                 {/* Phase 3 */}
                 <div className="p-6 rounded-2xl bg-white border border-slate-200 shadow-sm">
-                  <h3 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
+                  <h4 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
                     <span className="w-7 h-7 rounded-lg bg-blue-50 text-[#1F5EFF] font-black text-sm flex items-center justify-center border border-blue-200">3</span>
                     Submit Hardship Proof
-                  </h3>
+                  </h4>
                   <p className="text-slate-600 text-sm md:text-base leading-relaxed">
                     Show proof of business loss. Share dropping sales charts or medical bills. Request an official settlement.
                   </p>
@@ -844,10 +844,10 @@ export default function IndifiBusinessLoanSettlementProcessPage() {
 
                 {/* Phase 4 */}
                 <div className="p-6 rounded-2xl bg-white border border-slate-200 shadow-sm">
-                  <h3 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
+                  <h4 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
                     <span className="w-7 h-7 rounded-lg bg-blue-50 text-[#1F5EFF] font-black text-sm flex items-center justify-center border border-blue-200">4</span>
                     Negotiate The Haircut
-                  </h3>
+                  </h4>
                   <p className="text-slate-600 text-sm md:text-base leading-relaxed">
                     Our team talks to the bank. We push for a 40% to 60% principal waiver.
                   </p>
@@ -855,10 +855,10 @@ export default function IndifiBusinessLoanSettlementProcessPage() {
 
                 {/* Phase 5 */}
                 <div className="p-6 rounded-2xl bg-white border border-slate-200 shadow-sm">
-                  <h3 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
+                  <h4 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
                     <span className="w-7 h-7 rounded-lg bg-blue-50 text-[#1F5EFF] font-black text-sm flex items-center justify-center border border-blue-200">5</span>
                     Verify The Sanction Letter
-                  </h3>
+                  </h4>
                   <p className="text-slate-600 text-sm md:text-base leading-relaxed">
                     Review the official letterhead. Ensure all loan details are correct. Confirm the final discharge terms.
                   </p>
@@ -866,10 +866,10 @@ export default function IndifiBusinessLoanSettlementProcessPage() {
 
                 {/* Phase 6 */}
                 <div className="p-6 rounded-2xl bg-white border border-slate-200 shadow-sm">
-                  <h3 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
+                  <h4 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
                     <span className="w-7 h-7 rounded-lg bg-blue-50 text-[#1F5EFF] font-black text-sm flex items-center justify-center border border-blue-200">6</span>
                     Pay Directly &amp; Get NDC
-                  </h3>
+                  </h4>
                   <p className="text-slate-600 text-sm md:text-base leading-relaxed">
                     Pay the amount into the official bank account. Receive your No Dues Certificate within 30 days.
                   </p>
@@ -883,7 +883,7 @@ export default function IndifiBusinessLoanSettlementProcessPage() {
                 <Gavel className="w-4 h-4" />
                 <span>8. Lok Adalat &amp; Legal Notices</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Managing Indifi Legal Action</h2>
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Managing Indifi Legal Action</h3>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 After 90 days, lenders send Section 25 PSSA demand notices. These are warning letters, not arrest warrants. A lawyer can reply and defuse the situation.
               </p>
@@ -943,7 +943,7 @@ export default function IndifiBusinessLoanSettlementProcessPage() {
                 <FileCheck className="w-4 h-4" />
                 <span>9. Sanction Letter &amp; NDC Rules</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Verify the Letter &amp; Secure NDC</h2>
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Verify the Letter &amp; Secure NDC</h3>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Beware of fake letters made by agents. Always demand a settlement letter on the official letterhead. Check the loan ID and final payment dates.
               </p>
@@ -958,7 +958,7 @@ export default function IndifiBusinessLoanSettlementProcessPage() {
                 <TrendingUp className="w-4 h-4" />
                 <span>10. CIBIL Rebuilding For MSMEs</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Fixing Your Business Credit Score</h2>
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Fixing Your Business Credit Score</h3>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Settlement marks your CIBIL account as 'Settled'. The balance becomes ₹0. Your score drops at first. This is normal.
               </p>
@@ -973,7 +973,7 @@ export default function IndifiBusinessLoanSettlementProcessPage() {
                 <ShieldCheck className="w-4 h-4" />
                 <span>11. SettleLoans Legal Defense</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">How SettleLoans Defends MSMEs</h2>
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">How SettleLoans Defends MSMEs</h3>
               <p className="text-slate-700 leading-relaxed mb-6 text-base md:text-lg">
                 We protect small businesses from aggressive collections. We send strong legal notices. We cancel costly auto-debits. We negotiate deep discounts with the lenders.
               </p>
@@ -990,7 +990,7 @@ export default function IndifiBusinessLoanSettlementProcessPage() {
                 <HelpCircle className="w-4 h-4" />
                 <span>12. Frequently Asked Questions</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">FAQs: Indifi Business Loan Settlement</h2>
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">FAQs: Indifi Business Loan Settlement</h3>
 
               <div className="space-y-4">
                 {faqs.map((faq, index) => (
@@ -1017,10 +1017,10 @@ export default function IndifiBusinessLoanSettlementProcessPage() {
 
             {/* Regulatory References & Official Sources Strip */}
             <div className="bg-slate-50 border border-slate-200 rounded-2xl p-6 my-10">
-              <h3 className="text-base font-bold text-slate-900 mb-4 flex items-center gap-2">
+              <h4 className="text-base font-bold text-slate-900 mb-4 flex items-center gap-2">
                 <Landmark className="w-5 h-5 text-[#1F5EFF]" />
                 Official Regulatory References &amp; Statutory Circulars
-              </h3>
+              </h4>
               <ul className="space-y-3 text-xs text-slate-600">
                 <li className="flex items-start gap-2">
                   <ExternalLink className="w-4 h-4 text-[#1F5EFF] flex-shrink-0 mt-0.5" />
@@ -1082,10 +1082,10 @@ export default function IndifiBusinessLoanSettlementProcessPage() {
 
             {/* Related Guides & Resources Strip (10 Topic Badges) */}
             <div className="bg-slate-50 border border-slate-200 rounded-2xl p-6 my-10">
-              <h3 className="text-base font-bold text-slate-900 mb-4 flex items-center gap-2">
+              <h4 className="text-base font-bold text-slate-900 mb-4 flex items-center gap-2">
                 <BookOpen className="w-5 h-5 text-[#1F5EFF]" />
                 Explore Related Banking &amp; Debt Resolution Guides
-              </h3>
+              </h4>
               <div className="flex flex-wrap gap-2.5">
                 <Link
                   href="/bank-one-time-settlement-ots-policy"

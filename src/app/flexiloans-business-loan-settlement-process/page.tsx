@@ -624,9 +624,9 @@ export default function FlexiLoansBusinessLoanSettlementPage() {
                 <Clock className="w-4 h-4" />
                 <span>2. Delinquency Timeline &amp; NPA Lifecycle</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 FlexiLoans Delinquency Timeline: DPD Stages to Non-Performing Asset
-              </h2>
+              </h3>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Defaulted FlexiLoans facilities follow the RBI Prudential Norms on Asset Classification and Ind AS 109 Expected Credit Loss frameworks. Lenders group overdue accounts into Days Past Due (DPD) aging buckets, which directly determine settlement haircut thresholds.
               </p>
@@ -701,9 +701,9 @@ export default function FlexiLoansBusinessLoanSettlementPage() {
                 <Banknote className="w-4 h-4" />
                 <span>3. Halting NACH Bounce Fees &amp; Auto-Debits</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 Halting Repeated FlexiLoans NACH Bounce Charges &amp; Penalties
-              </h2>
+              </h3>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 FlexiLoans automated clearing systems frequently present electronic mandates multiple times per billing cycle. Each failed auto-debit triggers bank return charges of ₹295 to ₹590, while the lender adds internal dishonour penalties of ₹500 to ₹1,000 plus 24%–36% penal interest, compounding ledger arrears beyond feasible recovery.
               </p>
@@ -721,9 +721,9 @@ export default function FlexiLoansBusinessLoanSettlementPage() {
                 <Calculator className="w-4 h-4" />
                 <span>4. OTS Haircut Policies &amp; Recovery Math</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 FlexiLoans OTS Haircut Policies &amp; Recovery Valuation Math
-              </h2>
+              </h3>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Under the RBI Master Direction on Compromise Settlements (DOR.STR.REC.20/21.04.048/2023-24), NBFCs assess compromise offers using Net Present Value (NPV) recovery calculations. Because FlexiLoans facilities are unsecured without mortgages or inventory hypothecation, SARFAESI asset seizure laws are entirely inapplicable.
               </p>
@@ -746,9 +746,9 @@ export default function FlexiLoansBusinessLoanSettlementPage() {
               </div>
 
               {/* Haircut Slabs Table */}
-              <h3 className="text-lg font-bold text-slate-900 mb-3">
+              <h4 className="text-lg font-bold text-slate-900 mb-3">
                 Realistic FlexiLoans Settlement Haircut Slabs by Product &amp; Aging
-              </h3>
+              </h4>
               <div className="overflow-x-auto my-4">
                 <table className="min-w-full bg-white">
                   <thead>
@@ -806,9 +806,9 @@ export default function FlexiLoansBusinessLoanSettlementPage() {
                       <span className="text-[10px] font-black uppercase tracking-widest text-blue-300 block">
                         Legal Defense &amp; Action Blueprint
                       </span>
-                      <h3 className="text-sm md:text-base font-black text-white leading-tight">
+                      <h4 className="text-sm md:text-base font-black text-white leading-tight">
                         FlexiLoans Business Loan Settlement &amp; Legal Action Blueprint
-                      </h3>
+                      </h4>
                     </div>
                   </div>
                   <a
@@ -857,9 +857,9 @@ export default function FlexiLoansBusinessLoanSettlementPage() {
                 <ShieldAlert className="w-4 h-4" />
                 <span>5. Automated Call Defense &amp; Harassment Rules</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 Defending Against Automated Collection Calls &amp; Recovery Tactics
-              </h2>
+              </h3>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Defaulted accounts trigger automated predictive dialers, AI voice bots, and third-party recovery agencies contacting merchants repeatedly. In unlawful cases, recovery agents contact shop employees, commercial suppliers, or family members whose numbers were obtained during app-based onboarding.
               </p>
@@ -877,9 +877,9 @@ export default function FlexiLoansBusinessLoanSettlementPage() {
                 <Layers className="w-4 h-4" />
                 <span>6. Step-by-Step Merchant Settlement Roadmap</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 Step-by-Step Merchant Roadmap to Settle a FlexiLoans Default
-              </h2>
+              </h3>
               <p className="text-slate-700 leading-relaxed mb-6 text-base md:text-lg">
                 Navigating an institutional compromise settlement with a technology-driven NBFC like FlexiLoans requires a disciplined, evidence-based strategy designed to engage senior credit committees directly while insulating the merchant from unlawful recovery pressure:
               </p>
@@ -887,12 +887,12 @@ export default function FlexiLoansBusinessLoanSettlementPage() {
               <div className="space-y-6">
                 {/* Phase 1 */}
                 <div className="p-6 rounded-2xl bg-white border border-slate-200 shadow-sm">
-                  <h3 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
+                  <h4 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
                     <span className="w-7 h-7 rounded-lg bg-blue-50 text-[#1F5EFF] font-black text-sm flex items-center justify-center border border-blue-200">
                       1
                     </span>
                     Merchant Hardship Dossier Compilation &amp; Financial Forensics
-                  </h3>
+                  </h4>
                   <p className="text-slate-600 text-sm md:text-base leading-relaxed">
                     Assemble filed GST returns (GSTR-3B and GSTR-1), bank statements showing liquidity depletion, supplier debit notes, and medical records if health issues impacted store operations. This documentation proves the default is non-wilful and qualifies for compromise relief under RBI rules.
                   </p>
@@ -900,12 +900,12 @@ export default function FlexiLoansBusinessLoanSettlementPage() {
 
                 {/* Phase 2 */}
                 <div className="p-6 rounded-2xl bg-white border border-slate-200 shadow-sm">
-                  <h3 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
+                  <h4 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
                     <span className="w-7 h-7 rounded-lg bg-blue-50 text-[#1F5EFF] font-black text-sm flex items-center justify-center border border-blue-200">
                       2
                     </span>
                     Electronic Mandate Cancellation &amp; Communication Containment
-                  </h3>
+                  </h4>
                   <p className="text-slate-600 text-sm md:text-base leading-relaxed">
                     Submit written instructions to your destination bank revoking active e-NACH auto-debit mandates to stop recurring return penalties. Simultaneously issue a formal legal directive requiring FlexiLoans to channel all communications exclusively through registered email or designated legal counsel.
                   </p>
@@ -913,12 +913,12 @@ export default function FlexiLoansBusinessLoanSettlementPage() {
 
                 {/* Phase 3 */}
                 <div className="p-6 rounded-2xl bg-white border border-slate-200 shadow-sm">
-                  <h3 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
+                  <h4 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
                     <span className="w-7 h-7 rounded-lg bg-blue-50 text-[#1F5EFF] font-black text-sm flex items-center justify-center border border-blue-200">
                       3
                     </span>
                     Drafting &amp; Submitting the Formal Compromise Petition
-                  </h3>
+                  </h4>
                   <p className="text-slate-600 text-sm md:text-base leading-relaxed">
                     Legal advocates prepare a structured One-Time Settlement petition addressed directly to Epimoney Stressed Assets Committee, citing commercial distress and RBI compromise directives, with an opening proposal at 25% to 35% of total book dues.
                   </p>
@@ -926,12 +926,12 @@ export default function FlexiLoansBusinessLoanSettlementPage() {
 
                 {/* Phase 4 */}
                 <div className="p-6 rounded-2xl bg-white border border-slate-200 shadow-sm">
-                  <h3 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
+                  <h4 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
                     <span className="w-7 h-7 rounded-lg bg-blue-50 text-[#1F5EFF] font-black text-sm flex items-center justify-center border border-blue-200">
                       4
                     </span>
                     Navigating Counter-Demands &amp; Structuring Committee Approvals
-                  </h3>
+                  </h4>
                   <p className="text-slate-600 text-sm md:text-base leading-relaxed">
                     When the lender counters with token 10%–20% concessions, legal counsel demonstrates third-party family funding limitations and cash constraints, steering credit committee approvals toward the targeted 40% to 60% principal waiver band.
                   </p>
@@ -939,12 +939,12 @@ export default function FlexiLoansBusinessLoanSettlementPage() {
 
                 {/* Phase 5 */}
                 <div className="p-6 rounded-2xl bg-white border border-slate-200 shadow-sm">
-                  <h3 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
+                  <h4 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
                     <span className="w-7 h-7 rounded-lg bg-blue-50 text-[#1F5EFF] font-black text-sm flex items-center justify-center border border-blue-200">
                       5
                     </span>
                     Forensic Legal Audit of the OTS Sanction Letter
-                  </h3>
+                  </h4>
                   <p className="text-slate-600 text-sm md:text-base leading-relaxed">
                     Before releasing funds, advocates verify the official sanction letter issued on Epimoney Private Limited letterhead, confirming exact loan account numbers, settlement amount, payment deadlines, and covenants releasing the borrower from further liabilities.
                   </p>
@@ -952,12 +952,12 @@ export default function FlexiLoansBusinessLoanSettlementPage() {
 
                 {/* Phase 6 */}
                 <div className="p-6 rounded-2xl bg-white border border-slate-200 shadow-sm">
-                  <h3 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
+                  <h4 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
                     <span className="w-7 h-7 rounded-lg bg-blue-50 text-[#1F5EFF] font-black text-sm flex items-center justify-center border border-blue-200">
                       6
                     </span>
                     Direct Account Remittance &amp; Enforcing Zero Balance NDC Delivery
-                  </h3>
+                  </h4>
                   <p className="text-slate-600 text-sm md:text-base leading-relaxed">
                     Remit the agreed sum directly into the designated FlexiLoans account via RTGS/NEFT. Under RBI Circular RBI/2023-24/60, the NBFC must deliver a zero-balance No Dues Certificate and update credit bureaus within 30 calendar days.
                   </p>
@@ -971,9 +971,9 @@ export default function FlexiLoansBusinessLoanSettlementPage() {
                 <Gavel className="w-4 h-4" />
                 <span>7. Section 25 Notices, Arbitration &amp; Lok Adalat</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 Navigating Section 25 PSSA Summons, Arbitration &amp; Lok Adalat
-              </h2>
+              </h3>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Past 60 to 90 days default, FlexiLoans routinely issues demand notices under Section 25 of the Payment and Settlement Systems Act, 2007 (PSSA) for bounced NACH mandates, Section 138 NI Act notices if security cheques were collected, or notices invoking sole arbitration in Mumbai.
               </p>
@@ -1047,9 +1047,9 @@ export default function FlexiLoansBusinessLoanSettlementPage() {
                 <FileCheck className="w-4 h-4" />
                 <span>8. Sanction Letter Forensics &amp; Zero NDC</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 Sanction Letter Verification &amp; Enforcing the Zero Balance NDC
-              </h2>
+              </h3>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Merchants must avoid unverified settlement promises from collection agents. If funds are remitted against verbal or unverified communications, FlexiLoans credits the money entirely toward accrued penal charges and late fees, leaving the account active and defaulting.
               </p>
@@ -1067,9 +1067,9 @@ export default function FlexiLoansBusinessLoanSettlementPage() {
                 <TrendingUp className="w-4 h-4" />
                 <span>9. CIBIL Score Trajectory &amp; Rehabilitation</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 CIBIL Score Trajectory Post-Settlement &amp; Credit Rehabilitation
-              </h2>
+              </h3>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Following settlement payment, FlexiLoans reports the loan to TransUnion CIBIL, Experian, Equifax, and CRIF High Mark as <strong>&apos;Settled&apos;</strong> with an outstanding balance of <strong>₹0</strong>.
               </p>
@@ -1087,9 +1087,9 @@ export default function FlexiLoansBusinessLoanSettlementPage() {
                 <ShieldCheck className="w-4 h-4" />
                 <span>10. SettleLoans Legal Defense &amp; Representation</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 Why Distressed Retail Merchants Choose SettleLoans Defense
-              </h2>
+              </h3>
               <p className="text-slate-700 leading-relaxed mb-6 text-base md:text-lg">
                 Navigating an unsecured loan settlement with a fast-paced fintech lender like FlexiLoans requires experienced financial auditing and decisive legal advocacy. SettleLoans provides complete end-to-end merchant defense: halting automated IVR and tele-caller harassment through statutory cease-and-desist notices, defending against Section 25 PSSA and arbitration notices, revoking predatory NACH mandates, and negotiating directly with Epimoney Private Limited Credit Committees to secure authorized 40% to 60% debt haircuts and authentic ₹0 No Dues Certificates.
               </p>
@@ -1106,9 +1106,9 @@ export default function FlexiLoansBusinessLoanSettlementPage() {
                 <HelpCircle className="w-4 h-4" />
                 <span>11. Frequently Asked Questions</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
                 Frequently Asked Questions on FlexiLoans Business Loan Settlement
-              </h2>
+              </h3>
 
               <div className="space-y-4">
                 {faqs.map((faq, index) => (
@@ -1135,10 +1135,10 @@ export default function FlexiLoansBusinessLoanSettlementPage() {
 
             {/* Regulatory References & Official Sources Strip */}
             <div className="bg-slate-50 border border-slate-200 rounded-2xl p-6 my-10">
-              <h3 className="text-base font-bold text-slate-900 mb-4 flex items-center gap-2">
+              <h4 className="text-base font-bold text-slate-900 mb-4 flex items-center gap-2">
                 <Landmark className="w-5 h-5 text-[#1F5EFF]" />
                 Official Regulatory References &amp; Statutory Circulars
-              </h3>
+              </h4>
               <ul className="space-y-3 text-xs text-slate-600">
                 <li className="flex items-start gap-2">
                   <ExternalLink className="w-4 h-4 text-[#1F5EFF] flex-shrink-0 mt-0.5" />
@@ -1200,10 +1200,10 @@ export default function FlexiLoansBusinessLoanSettlementPage() {
 
             {/* Related Guides & Resources Strip (10 Topic Badges) */}
             <div className="bg-slate-50 border border-slate-200 rounded-2xl p-6 my-10">
-              <h3 className="text-base font-bold text-slate-900 mb-4 flex items-center gap-2">
+              <h4 className="text-base font-bold text-slate-900 mb-4 flex items-center gap-2">
                 <BookOpen className="w-5 h-5 text-[#1F5EFF]" />
                 Explore Related Banking &amp; Debt Resolution Guides
-              </h3>
+              </h4>
               <div className="flex flex-wrap gap-2.5">
                 <Link
                   href="/bank-one-time-settlement-ots-policy"

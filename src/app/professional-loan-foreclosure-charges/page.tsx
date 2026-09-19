@@ -176,13 +176,13 @@ export default function ProfessionalLoanForeclosurePage() {
 
             {/* Blue Important Box */}
             <section id="foreclosure-charges" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">Understanding Foreclosure Penalties</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">Understanding Foreclosure Penalties</h3>
               <p className="text-lg leading-relaxed mb-6 text-gray-700">
                 A foreclosure penalty is essentially a bank's way of recovering the interest they lose when you pay off your principal balance ahead of schedule.
               </p>
               
               <div className="bg-blue-50 border-l-8 border-[#1F5EFF] p-8 rounded-r-2xl mb-8">
-                <h3 className="text-xl font-black text-[#1F5EFF] mb-4">Why Penalties Exist for Professionals</h3>
+                <h4 className="text-xl font-black text-[#1F5EFF] mb-4">Why Penalties Exist for Professionals</h4>
                 <p className="text-lg leading-relaxed mb-6 text-gray-700">Banks structure professional loans differently than standard personal loans. Here is why you are seeing these charges:</p>
                 <ul className="space-y-3">
                   <li className="flex items-start gap-3">
@@ -203,19 +203,19 @@ export default function ProfessionalLoanForeclosurePage() {
               {/* 4-Grid Info Boxes */}
               <div className="grid md:grid-cols-2 gap-6 my-8">
                 <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
-                  <h3 className="font-black text-[#1F5EFF] text-lg mb-3">Foreclosure Charges</h3>
+                  <h4 className="font-black text-[#1F5EFF] text-lg mb-3">Foreclosure Charges</h4>
                   <p className="text-gray-700 text-lg leading-relaxed">Typically calculated as 2% to 5% of your outstanding principal balance, applied when closing the loan completely.</p>
                 </div>
                 <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
-                  <h3 className="font-black text-[#1F5EFF] text-lg mb-3">Part-Payment Penalties</h3>
+                  <h4 className="font-black text-[#1F5EFF] text-lg mb-3">Part-Payment Penalties</h4>
                   <p className="text-gray-700 text-lg leading-relaxed">Fees charged when you pay a lump sum that doesn't completely close the loan. Usually capped at 2%.</p>
                 </div>
                 <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
-                  <h3 className="font-black text-[#1F5EFF] text-lg mb-3">Interest Recovery</h3>
+                  <h4 className="font-black text-[#1F5EFF] text-lg mb-3">Interest Recovery</h4>
                   <p className="text-gray-700 text-lg leading-relaxed">Banks may calculate interest up to the exact date of closure or till the end of the current billing cycle.</p>
                 </div>
                 <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
-                  <h3 className="font-black text-[#1F5EFF] text-lg mb-3">GST Application</h3>
+                  <h4 className="font-black text-[#1F5EFF] text-lg mb-3">GST Application</h4>
                   <p className="text-gray-700 text-lg leading-relaxed">Remember, an 18% Goods and Services Tax (GST) will be added on top of whatever penalty amount the bank charges.</p>
                 </div>
               </div>
@@ -223,7 +223,7 @@ export default function ProfessionalLoanForeclosurePage() {
 
             {/* New Section: Impact on Practice */}
             <section id="impact-on-practice" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">How Foreclosure Affects Your Practice</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">How Foreclosure Affects Your Practice</h3>
               <p className="text-lg leading-relaxed mb-6 text-gray-700">
                 Many professionals hesitate to foreclose their loans because they are intimidated by the sudden outflow of cash and the daunting penalty fees. However, keeping a high-interest professional loan active can silently drain your clinic or firm's profitability over time. 
               </p>
@@ -237,7 +237,7 @@ export default function ProfessionalLoanForeclosurePage() {
 
             {/* Numbered Steps */}
             <section id="negotiation-process" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">How to Negotiate Closure Fees</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">How to Negotiate Closure Fees</h3>
               <p className="text-lg leading-relaxed mb-6 text-gray-700">
                 You do not have to accept the first number the bank gives you. Follow this proven framework to reduce or eliminate your professional loan closure fees.
               </p>
@@ -246,7 +246,7 @@ export default function ProfessionalLoanForeclosurePage() {
                 <div className="flex gap-6">
                   <div className="flex-shrink-0 w-12 h-12 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center font-black text-xl shadow-lg">1</div>
                   <div>
-                    <h3 className="text-2xl font-bold text-[#2E2E2E] mb-3">Check Your Master Agreement</h3>
+                    <h4 className="text-2xl font-bold text-[#2E2E2E] mb-3">Check Your Master Agreement</h4>
                     <p className="text-lg leading-relaxed text-gray-700">Review the exact terms you signed. Look specifically for the "Pre-payment" and "Foreclosure" clauses. If you were verbally promised zero foreclosure charges, find written proof.</p>
                   </div>
                 </div>
@@ -254,7 +254,7 @@ export default function ProfessionalLoanForeclosurePage() {
                 <div className="flex gap-6">
                   <div className="flex-shrink-0 w-12 h-12 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center font-black text-xl shadow-lg">2</div>
                   <div>
-                    <h3 className="text-2xl font-bold text-[#2E2E2E] mb-3">Draft a Formal Waiver Request</h3>
+                    <h4 className="text-2xl font-bold text-[#2E2E2E] mb-3">Draft a Formal Waiver Request</h4>
                     <p className="text-lg leading-relaxed text-gray-700">Submit a formal application to your branch manager requesting a waiver. Cite your excellent repayment history and your professional standing as leverage.</p>
                   </div>
                 </div>
@@ -262,7 +262,7 @@ export default function ProfessionalLoanForeclosurePage() {
                 <div className="flex gap-6">
                   <div className="flex-shrink-0 w-12 h-12 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center font-black text-xl shadow-lg">3</div>
                   <div>
-                    <h3 className="text-2xl font-bold text-[#2E2E2E] mb-3">Escalate to the Grievance Officer</h3>
+                    <h4 className="text-2xl font-bold text-[#2E2E2E] mb-3">Escalate to the Grievance Officer</h4>
                     <p className="text-lg leading-relaxed text-gray-700">If the branch denies your request, escalate the matter to the Principal Nodal Officer of the bank. Professional accounts are high-value, and senior management is often willing to authorize waivers to keep a good relationship.</p>
                   </div>
                 </div>
@@ -271,12 +271,12 @@ export default function ProfessionalLoanForeclosurePage() {
 
             {/* New Section: Balance Transfer Strategy */}
             <section id="balance-transfer" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">The Balance Transfer Strategy</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">The Balance Transfer Strategy</h3>
               <p className="text-lg leading-relaxed mb-6 text-gray-700">
                 If your current bank flatly refuses to waive the foreclosure charges, your most powerful counter-move is the Balance Transfer (BT) strategy. This involves moving your outstanding loan balance to a competing bank or NBFC that is hungry for your business.
               </p>
               <div className="bg-gray-50 p-8 rounded-2xl mb-8 border border-gray-200">
-                <h3 className="text-xl font-black text-[#2E2E2E] mb-4">How It Works</h3>
+                <h4 className="text-xl font-black text-[#2E2E2E] mb-4">How It Works</h4>
                 <p className="text-lg leading-relaxed text-gray-700">
                   Because doctors and CAs are considered low-risk, high-value clients, competing banks will bend over backward to acquire your loan portfolio. When you apply for a BT, the new bank will issue a cheque or demand draft directly to your old bank to clear the principal. But what about the 4% penalty your old bank is demanding?
                 </p>
@@ -288,7 +288,7 @@ export default function ProfessionalLoanForeclosurePage() {
 
             {/* New Section: Legal Recourse */}
             <section id="legal-recourse" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">Legal Recourse Against Unfair Fees</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">Legal Recourse Against Unfair Fees</h3>
               <p className="text-lg leading-relaxed mb-6 text-gray-700">
                 Unfortunately, some financial institutions rely on the fact that professionals are too busy to fight back. They may arbitrarily convert your floating rate loan to a fixed rate just to slap you with a penalty, or they might refuse to issue your No Objection Certificate (NOC) until you pay exorbitant, unjustified fees.
               </p>
@@ -302,19 +302,19 @@ export default function ProfessionalLoanForeclosurePage() {
 
             {/* Gray Insight Box */}
             <div className="bg-gray-50 p-8 rounded-2xl mb-8 border border-gray-200">
-              <h3 className="text-xl font-black text-[#2E2E2E] mb-4">Expert Insight</h3>
+              <h4 className="text-xl font-black text-[#2E2E2E] mb-4">Expert Insight</h4>
               <p className="text-lg leading-relaxed text-gray-700">If you are moving your loan to another bank (Balance Transfer), the new bank will often absorb the foreclosure charges of your old loan, or negotiate heavily on your behalf to win your business.</p>
             </div>
 
             {/* Red Warning Box */}
             <div className="bg-red-50 p-6 rounded-xl border border-red-100 mb-8">
-              <h4 className="text-xl font-black text-red-700 mb-4">Warning: Don't Stop EMIs Prematurely</h4>
+              <h5 className="text-xl font-black text-red-700 mb-4">Warning: Don't Stop EMIs Prematurely</h5>
               <p className="text-lg leading-relaxed text-red-900">Never stop your regular EMI payments while negotiating a foreclosure. A bounced EMI during this period will damage your CIBIL score and give the bank a reason to deny your penalty waiver request.</p>
             </div>
 
             {/* Review / Success Stories */}
             <section id="success-stories" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">Client Success Stories</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">Client Success Stories</h3>
               <p className="text-lg leading-relaxed mb-6 text-gray-700">See how we have helped other professionals like you save on their loan closure fees.</p>
 
               <div className="grid md:grid-cols-2 gap-8 my-8">
@@ -325,7 +325,7 @@ export default function ProfessionalLoanForeclosurePage() {
                       DR
                     </div>
                     <div>
-                      <h3 className="font-bold text-[#2E2E2E]">Dr. Sharma, Orthopedic</h3>
+                      <h4 className="font-bold text-[#2E2E2E]">Dr. Sharma, Orthopedic</h4>
                       <div className="flex gap-1 text-yellow-400 mt-1">
                         {[...Array(5)].map((_, i) => (
                           <svg key={i} className="w-4 h-4 fill-current" viewBox="0 0 20 20"><path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z" /></svg>
@@ -346,7 +346,7 @@ export default function ProfessionalLoanForeclosurePage() {
                       CA
                     </div>
                     <div>
-                      <h4 className="font-bold text-[#2E2E2E]">CA Rajesh M.</h4>
+                      <h5 className="font-bold text-[#2E2E2E]">CA Rajesh M.</h5>
                       <div className="flex gap-1 text-yellow-400 mt-1">
                         {[...Array(5)].map((_, i) => (
                           <svg key={i} className="w-4 h-4 fill-current" viewBox="0 0 20 20"><path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z" /></svg>
@@ -366,7 +366,7 @@ export default function ProfessionalLoanForeclosurePage() {
 
             {/* FAQs */}
             <section id="faqs" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">Frequently Asked Questions</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">Frequently Asked Questions</h3>
               <div className="space-y-4 my-8">
                 
                 {[
@@ -398,7 +398,7 @@ export default function ProfessionalLoanForeclosurePage() {
             <div id="lead-gen" className="bg-[#2E2E2E] text-white p-12 rounded-[40px] text-center mt-24 relative overflow-hidden group">
               <div className="absolute inset-0 bg-[#1F5EFF] opacity-0 group-hover:opacity-5 transition-opacity"></div>
               <div className="relative z-10">
-                <h3 className="text-3xl font-black mb-6">Ready to Negotiate Your Foreclosure Charges?</h3>
+                <h4 className="text-3xl font-black mb-6">Ready to Negotiate Your Foreclosure Charges?</h4>
                 <p className="text-xl text-gray-300 mb-8 max-w-2xl mx-auto">Don't let banks bully you into paying massive penalties. Our legal experts specialize in reducing professional loan closure fees.</p>
                 <Link href="/contact" className="inline-block bg-[#1F5EFF] text-white font-bold py-4 px-10 rounded-full hover:scale-105 transition-transform shadow-lg text-lg">
                   Get Free Legal Consultation

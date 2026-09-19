@@ -252,9 +252,9 @@ export default function SarfaesiReplyPage() {
 
             {/* Understanding Section */}
             <section id="understanding-13-2" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 What is a SARFAESI 13(2) Notice?
-              </h2>
+              </h3>
               <div className="bg-gray-50 p-8 rounded-2xl mb-8 border border-gray-200">
                 <p className="text-lg leading-relaxed mb-6 text-gray-800">
                   A Section 13(2) notice under the SARFAESI Act, 2002, is an official demand notice sent by a secured creditor (bank or NBFC) once your loan account becomes a Non-Performing Asset (NPA) (typically after 90 days of default). It gives the borrower 60 days to repay the entire outstanding liability in full.
@@ -264,9 +264,9 @@ export default function SarfaesiReplyPage() {
 
             {/* How to Reply (Numbered Steps) */}
             <section id="how-to-reply" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 How to Reply to a SARFAESI Notice (Section 13(3A))
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 Under Section 13(3A) of the Act, you have the statutory right to raise objections to the 13(2) notice. The bank is legally mandated to respond to your objections within 15 days. Here is how you do it effectively:
               </p>
@@ -277,7 +277,7 @@ export default function SarfaesiReplyPage() {
                     1
                   </div>
                   <div>
-                    <h3 className="text-xl font-bold text-[#2E2E2E] mb-2">Identify Procedural Flaws</h3>
+                    <h4 className="text-xl font-bold text-[#2E2E2E] mb-2">Identify Procedural Flaws</h4>
                     <p className="text-lg text-gray-600">Check if the NPA classification dates are correct according to RBI IRACP norms. Did they provide a proper statement of accounts? An incorrect demand amount renders the notice legally defective.</p>
                   </div>
                 </div>
@@ -287,7 +287,7 @@ export default function SarfaesiReplyPage() {
                     2
                   </div>
                   <div>
-                    <h3 className="text-xl font-bold text-[#2E2E2E] mb-2">Draft the 13(3A) Objection</h3>
+                    <h4 className="text-xl font-bold text-[#2E2E2E] mb-2">Draft the 13(3A) Objection</h4>
                     <p className="text-lg text-gray-600">Draft a legally watertight reply quoting the exact grounds of objection. This is not an emotional plea for time; it is a legal rebuttal that challenges the bank's right to invoke SARFAESI.</p>
                   </div>
                 </div>
@@ -297,7 +297,7 @@ export default function SarfaesiReplyPage() {
                     3
                   </div>
                   <div>
-                    <h3 className="text-xl font-bold text-[#2E2E2E] mb-2">Send via Registered Post</h3>
+                    <h4 className="text-xl font-bold text-[#2E2E2E] mb-2">Send via Registered Post</h4>
                     <p className="text-lg text-gray-600">Always send your reply via Registered Post with Acknowledgment Due (RPAD) before the 60 days expire. Keep the postal receipt—this is crucial evidence for the DRT later.</p>
                   </div>
                 </div>
@@ -306,17 +306,17 @@ export default function SarfaesiReplyPage() {
 
             {/* DRT Lawyer (Blue Box) */}
             <section id="drt-lawyer" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 Why You Need a DRT Lawyer for SARFAESI
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 SARFAESI is a draconian law favoring banks. General civil lawyers often struggle against well-funded bank panels.
               </p>
               
               <div className="bg-blue-50 border-l-8 border-[#1F5EFF] p-8 rounded-r-2xl mb-8">
-                <h3 className="text-xl font-black text-[#1F5EFF] mb-4">
+                <h4 className="text-xl font-black text-[#1F5EFF] mb-4">
                   A Specialized DRT Lawyer Will:
-                </h3>
+                </h4>
                 <ul className="space-y-3">
                   <li className="flex items-start gap-3">
                     <div className="mt-1.5 w-2 h-2 rounded-full bg-[#1F5EFF] flex-shrink-0"></div>
@@ -336,28 +336,28 @@ export default function SarfaesiReplyPage() {
 
             {/* Stall Auction (4 Grid Boxes) */}
             <section id="stall-auction" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 How to Stall Bank Auction
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 If the 60-day period expires and the bank issues a 13(4) notice or an e-auction notice, you still have powerful legal remedies to <strong>how to stall bank auction</strong>.
               </p>
 
               <div className="grid md:grid-cols-2 gap-6 my-8">
                 <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
-                  <h3 className="font-black text-[#1F5EFF] text-lg mb-3">File an SA in DRT</h3>
+                  <h4 className="font-black text-[#1F5EFF] text-lg mb-3">File an SA in DRT</h4>
                   <p className="text-gray-700">File a Securitisation Application under Sec 17 in the DRT within 45 days of the 13(4) symbolic possession notice.</p>
                 </div>
                 <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
-                  <h3 className="font-black text-[#1F5EFF] text-lg mb-3">Challenge Valuation</h3>
+                  <h4 className="font-black text-[#1F5EFF] text-lg mb-3">Challenge Valuation</h4>
                   <p className="text-gray-700">Banks frequently undervalue properties for quick sales. Challenging the reserve price can halt the auction process.</p>
                 </div>
                 <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
-                  <h3 className="font-black text-[#1F5EFF] text-lg mb-3">Propose One-Time Settlement</h3>
+                  <h4 className="font-black text-[#1F5EFF] text-lg mb-3">Propose One-Time Settlement</h4>
                   <p className="text-gray-700">Submit a formal OTS (One Time Settlement) proposal. If the bank refuses a reasonable OTS, the DRT often intervenes.</p>
                 </div>
                 <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
-                  <h3 className="font-black text-[#1F5EFF] text-lg mb-3">High Court Writ</h3>
+                  <h4 className="font-black text-[#1F5EFF] text-lg mb-3">High Court Writ</h4>
                   <p className="text-gray-700">If DRT courts are empty or non-functional, file a writ petition under Article 226 in the High Court for interim relief.</p>
                 </div>
               </div>
@@ -365,14 +365,14 @@ export default function SarfaesiReplyPage() {
 
             {/* Mistakes to Avoid (Red Box) */}
             <section id="mistakes" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 Critical Mistakes to Avoid
-              </h2>
+              </h3>
               
               <div className="bg-red-50 p-6 rounded-xl border border-red-100 mb-8">
-                <h3 className="text-xl font-black text-red-700 mb-4">
+                <h4 className="text-xl font-black text-red-700 mb-4">
                   Do Not Make These Errors
-                </h3>
+                </h4>
                 <ul className="space-y-4">
                   <li className="flex items-start gap-3">
                     <span className="font-black text-red-700">✗</span>
@@ -392,9 +392,9 @@ export default function SarfaesiReplyPage() {
 
             {/* Success Stories */}
             <section id="success-stories" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 Client Success Stories
-              </h2>
+              </h3>
               <div className="grid md:grid-cols-2 gap-6 my-8">
                 {/* Card 1 */}
                 <div className="bg-white p-8 rounded-[30px] border border-[#DEDEDE] shadow-sm hover:shadow-xl group transition-all">
@@ -403,7 +403,7 @@ export default function SarfaesiReplyPage() {
                       V
                     </div>
                     <div>
-                      <h3 className="font-bold text-[#2E2E2E]">Vikram S.</h3>
+                      <h4 className="font-bold text-[#2E2E2E]">Vikram S.</h4>
                       <div className="flex gap-1 text-yellow-400">
                         <svg className="w-4 h-4 fill-current" viewBox="0 0 20 20"><path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z"/></svg>
                         <svg className="w-4 h-4 fill-current" viewBox="0 0 20 20"><path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z"/></svg>
@@ -427,7 +427,7 @@ export default function SarfaesiReplyPage() {
                       A
                     </div>
                     <div>
-                      <h4 className="font-bold text-[#2E2E2E]">Anjali R.</h4>
+                      <h5 className="font-bold text-[#2E2E2E]">Anjali R.</h5>
                       <div className="flex gap-1 text-yellow-400">
                         <svg className="w-4 h-4 fill-current" viewBox="0 0 20 20"><path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z"/></svg>
                         <svg className="w-4 h-4 fill-current" viewBox="0 0 20 20"><path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z"/></svg>
@@ -448,9 +448,9 @@ export default function SarfaesiReplyPage() {
 
             {/* FAQs */}
             <section id="faqs" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">
                 Frequently Asked Questions
-              </h2>
+              </h3>
               <div className="space-y-4">
                 <details name="faq-accordion" className="bg-white border border-[#DEDEDE] rounded-xl p-6 hover:shadow-md group cursor-pointer transition-shadow">
                   <summary className="font-bold text-lg text-[#2E2E2E] outline-none">What is a SARFAESI 13(2) notice?</summary>
@@ -499,7 +499,7 @@ export default function SarfaesiReplyPage() {
             <div className="bg-[#2E2E2E] text-white p-12 rounded-[40px] text-center mt-24 relative overflow-hidden group">
               <div className="absolute inset-0 bg-[#1F5EFF] opacity-0 group-hover:opacity-5 transition-opacity"></div>
               <div className="relative z-10">
-                <h3 className="text-3xl md:text-5xl font-black mb-6">Don't Lose Your Property to Bank Auctions.</h3>
+                <h4 className="text-3xl md:text-5xl font-black mb-6">Don't Lose Your Property to Bank Auctions.</h4>
                 <p className="text-xl text-gray-300 mb-10 max-w-2xl mx-auto">
                   Our specialized DRT lawyers can draft your 13(3A) reply, raise legal objections, and get a stay order to protect your assets.
                 </p>

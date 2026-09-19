@@ -195,9 +195,9 @@ export default function SecuredLoanLitigationPage() {
                         </section>
 
                         <section id="sarfaesi-overview" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 uppercase tracking-tight">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 uppercase tracking-tight">
                                 The SARFAESI Act, 2002: Understanding the Lenders' Power
-                            </h2>
+                            </h3>
                             <p className="text-lg text-gray-700 leading-relaxed mb-6">
                                 Before 2002, banks had to file civil suits to recover secured loans, a process that took decades. The Securitisation and Reconstruction of Financial Assets and Enforcement of Security Interest Act (SARFAESI) changed everything. It allowed banks to enforce their 'security interest' (i.e., take and sell your property) without the intervention of a court.
                             </p>
@@ -216,13 +216,13 @@ export default function SecuredLoanLitigationPage() {
                         </section>
 
                         <section id="13-2-notice" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">
                                 The Section 13(2) Demand Notice: Your 60-Day Window
-                            </h2>
+                            </h3>
                             <p className="text-lg text-gray-700 leading-relaxed mb-6">
                                 This is the 'Warning Shot'. When a bank sends a 13(2) notice, they are telling you that you have 60 days to pay the ENTIRE outstanding amount, or they will take over your property. Many borrowers make the mistake of ignoring this notice or sending a simple plea for time.
                             </p>
-                            <h3 className="text-2xl font-bold text-[#2E2E2E] mb-4">The Power of the Statutory Representation</h3>
+                            <h4 className="text-2xl font-bold text-[#2E2E2E] mb-4">The Power of the Statutory Representation</h4>
                             <p className="text-lg text-gray-700 leading-relaxed mb-6">
                                 Under Section 13(3A) of the Act, a borrower has a legal right to file an 'Objection or Representation' to the 13(2) notice. This is a critical stage.
                             </p>
@@ -230,7 +230,7 @@ export default function SecuredLoanLitigationPage() {
                                 <li className="flex items-start gap-4 p-6 bg-red-50 rounded-2xl outline outline-1 outline-red-200">
                                     <div className="text-red-600 mt-1"><FontAwesomeIcon icon={faExclamationCircle} size="lg" /></div>
                                     <div>
-                                        <h4 className="font-bold text-xl text-[#2E2E2E]">Mandatory Reply:</h4>
+                                        <h5 className="font-bold text-xl text-[#2E2E2E]">Mandatory Reply:</h5>
                                         <p className="text-gray-700">The bank MUST reply to your representation within 15 days. If they fail to reply, or if their reply is 'non-reasoned' (i.e., they didn't actually address your points), the subsequent possession of your property can be challenged in the DRT as illegal.</p>
                                     </div>
                                 </li>
@@ -244,19 +244,19 @@ export default function SecuredLoanLitigationPage() {
                         </section>
 
                         <section id="13-4-possession" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 uppercase tracking-tight">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 uppercase tracking-tight">
                                 Section 13(4): When the Bank 'Takes' the Property
-                            </h2>
+                            </h3>
                             <p className="text-lg text-gray-700 leading-relaxed mb-6">
                                 If you don't pay or resolve the 13(2) notice within 60 days, the bank proceeds to Section 13(4), which allows them to take possession of the secured asset. It is vital to understand that there are two levels of possession: Symbolic and Physical.
                             </p>
                             <div className="grid grid-cols-1 md:grid-cols-2 gap-8 mb-10">
                                 <div className="p-8 bg-gray-50 rounded-3xl border border-gray-100">
-                                    <h3 className="font-bold text-xl mb-4 text-[#1F5EFF]">Symbolic Possession</h3>
+                                    <h4 className="font-bold text-xl mb-4 text-[#1F5EFF]">Symbolic Possession</h4>
                                     <p className="text-gray-700 leading-relaxed">The bank's officer visits the property, pastes a 'Possession Notice' on the door, and takes a photo. You are still living or working there, but legally, the bank has 'seized' the asset. This notice MUST be published in two leading newspapers (one in the local language) within 7 days of the visit. Failure to publish is a fatal procedural flaw.</p>
                                 </div>
                                 <div className="p-8 bg-gray-50 rounded-3xl border border-gray-100">
-                                    <h4 className="font-bold text-xl mb-4 text-[#1F5EFF]">Physical Possession</h4>
+                                    <h5 className="font-bold text-xl mb-4 text-[#1F5EFF]">Physical Possession</h5>
                                     <p className="text-gray-700 leading-relaxed">This is the 'eviction'. For this, the bank usually needs an order from the District Magistrate (DM) or Chief Metropolitan Magistrate (CMM) under Section 14. They will come with the police to remove you and lock the premises. This is the stage most borrowers fear the most, but it can often be stayed by a timely DRT application.</p>
                                 </div>
                             </div>
@@ -269,16 +269,16 @@ export default function SecuredLoanLitigationPage() {
                         </section>
 
                         <section id="drt-appeals" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">
                                 Section 17 Appeal: Reclaiming Justice in the DRT
-                            </h2>
+                            </h3>
                             <p className="text-lg text-gray-700 leading-relaxed mb-6">
                                 Once the bank takes a measure under Section 13(4), your 'Cause of Action' to move the Debt Recovery Tribunal (DRT) begins. You file what is called a 'Securitization Application' (SA) under Section 17 of the Act.
                             </p>
                             <p className="text-lg text-gray-700 leading-relaxed mb-6">
                                 <strong>The 45-Day Rule:</strong> You have exactly 45 days from the date of the possession notice to file your SA. If you miss this deadline, your right to challenge the possession is waived forever. Time is of the essence in secured loan litigation.
                             </p>
-                            <h3 className="text-2xl font-bold text-[#2E2E2E] mb-4">Grounds for Challenge in the DRT</h3>
+                            <h4 className="text-2xl font-bold text-[#2E2E2E] mb-4">Grounds for Challenge in the DRT</h4>
                             <ul className="list-disc ml-8 mb-8 space-y-4 text-gray-700 leading-relaxed">
                                 <li><strong>Pre-Action Defects:</strong> Challenging the validity of the 13(2) notice itself or the bank's failure to respond to your 13(3A) representation.</li>
                                 <li><strong>Publication Errors:</strong> Proving that the possession notice was not published in newspapers as required by Rule 8 of the Security Interest (Enforcement) Rules.</li>
@@ -291,14 +291,14 @@ export default function SecuredLoanLitigationPage() {
                         </section>
 
                         <section id="stopping-auctions" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 uppercase tracking-tight">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 uppercase tracking-tight">
                                 Stopping the Auction: The Final Stand
-                            </h2>
+                            </h3>
                             <p className="text-lg text-gray-700 leading-relaxed mb-6">
                                 When the bank issues an 'Auction Notice' or 'Sale Notice', it is the final countdown. Under the law, the bank must give you 30 days' notice before the first auction. For any subsequent auction, they must give 15 days' notice.
                             </p>
                             <div className="bg-yellow-50 p-8 rounded-2xl border-l-8 border-yellow-500 mb-10">
-                                <h3 className="text-xl font-bold text-yellow-900 mb-4 uppercase">Direct Challenge to Sale Notice:</h3>
+                                <h4 className="text-xl font-bold text-yellow-900 mb-4 uppercase">Direct Challenge to Sale Notice:</h4>
                                 <p className="text-yellow-800 font-medium">We challenge the Sale Notice on grounds of lack of 'Wide Publicity'. The bank cannot just post it on an obscure website. They must ensure that the maximum number of buyers know about it so that the property fetched the 'Fair Market Value'. If we can prove the 'Reserve Price' was based on an outdated valuation report, the High Court or DRT will often grant an 'Interim Stay' on the auction.</p>
                             </div>
                             <p className="text-lg text-gray-700 leading-relaxed mb-6">
@@ -310,13 +310,13 @@ export default function SecuredLoanLitigationPage() {
                         </section>
 
                         <section id="stay-orders" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">
                                 The Shield of Justice: Obtaining Stay Orders in DRT
-                            </h2>
+                            </h3>
                             <p className="text-lg text-gray-700 leading-relaxed mb-6">
                                 For most borrowers, the immediate goal of litigation is to get a 'Stay Order' that prevents the bank from taking possession or conducting an auction. In legal terms, this is an 'Interim Relief' granted while the main case (the SA) is pending.
                             </p>
-                            <h3 className="text-2xl font-bold text-[#2E2E2E] mb-4">The Three Golden Rules for a Stay</h3>
+                            <h4 className="text-2xl font-bold text-[#2E2E2E] mb-4">The Three Golden Rules for a Stay</h4>
                             <p className="text-lg text-gray-700 leading-relaxed mb-6">
                                 To grant a stay, the Presiding Officer (PO) of the Debt Recovery Tribunal looks for three things:
                             </p>
@@ -331,9 +331,9 @@ export default function SecuredLoanLitigationPage() {
                         </section>
 
                         <section id="dm-possession" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 uppercase tracking-tight">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 uppercase tracking-tight">
                                 Section 14: The District Magistrate and Physical Eviction
-                            </h2>
+                            </h3>
                             <p className="text-lg text-gray-700 leading-relaxed mb-6">
                                 Section 14 is the most critical juncture in the SARFAESI process. This is when the bank asks a government authority (the DM or CMM) to provide police assistance to take physical control of your property.
                             </p>
@@ -341,7 +341,7 @@ export default function SecuredLoanLitigationPage() {
                                 <strong>The 9-Point Affidavit:</strong> Under the latest law, the bank must file a 9-point affidavit with the DM, swearing that all SARFAESI rules have been followed. The DM's role is not just to be a 'rubber stamp'. They must verify that this affidavit is correct.
                             </p>
                             <div className="bg-red-50 p-8 rounded-2xl border-l-8 border-red-600 mb-10 shadow-sm">
-                                <h3 className="text-xl font-bold text-red-900 mb-4">Crucial Strategic Note:</h3>
+                                <h4 className="text-xl font-bold text-red-900 mb-4">Crucial Strategic Note:</h4>
                                 <p className="text-red-800 font-medium">Many borrowers think that because they have a stay on 'symbolic' possession, the Section 14 process stops automatically. IT DOES NOT. You must specifically bring the Section 14 order to the notice of the DRT and seek a stay on the 'Actual Physical Possession'. If the bank hides the Section 14 order from the DRT, it is a ground for 'Contempt of Court'.</p>
                             </div>
                             <p className="text-lg text-gray-700 leading-relaxed mb-6">
@@ -350,9 +350,9 @@ export default function SecuredLoanLitigationPage() {
                         </section>
 
                         <section id="ots-secured" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">
                                 One-Time Settlement (OTS) for Secured Loans
-                            </h2>
+                            </h3>
                             <p className="text-lg text-gray-700 leading-relaxed mb-6">
                                 Why would a bank settle if they have your property as security? The answer is: Time and Risk. A contested DRT case can take 5 years. An appeal to the DRAT (Appellate Tribunal) can take another 2 years. High Court challenges can take even longer. During this time, the property might deteriorate, or the market value might crash.
                             </p>
@@ -370,9 +370,9 @@ export default function SecuredLoanLitigationPage() {
                         </section>
 
                         <section id="constitutional-remedies" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 uppercase tracking-tight">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 uppercase tracking-tight">
                                 Constitutional Remedies: The Power of Article 226
-                            </h2>
+                            </h3>
                             <p className="text-lg text-gray-700 leading-relaxed mb-6">
                                 Sometimes, the DRT might not be enough. There are situations where the bank's action is so blatantly unconstitutional or where the DRT is not functioning (e.g., lack of a Presiding Officer). In such extreme cases, we move the High Court under Article 226 of the Constitution of India.
                             </p>
@@ -380,7 +380,7 @@ export default function SecuredLoanLitigationPage() {
                                 <strong>Writ Petitions:</strong> A Writ of Mandamus can be filed to force the bank to follow the law, or a Writ of Certiorari can be filed to quash an illegal order. The High Court has 'extraordinary jurisdiction' to protect the fundamental rights of a citizen, including the right to property and the right to dignity.
                             </p>
                             <div className="bg-[#2E2E2E] p-8 rounded-2xl text-white mb-10 shadow-lg border-l-8 border-[#1F5EFF]">
-                                <h3 className="text-xl font-bold mb-4">When to Move the High Court:</h3>
+                                <h4 className="text-xl font-bold mb-4">When to Move the High Court:</h4>
                                 <ul className="space-y-3 opacity-90">
                                     <li>1. If the DRT is vacant and no interim relief is possible.</li>
                                     <li>2. If the bank is a Public Sector Bank and has violated principles of Natural Justice.</li>
@@ -394,9 +394,9 @@ export default function SecuredLoanLitigationPage() {
                         </section>
 
                         <section id="case-studies" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 uppercase tracking-tight text-center">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 uppercase tracking-tight text-center">
                                 Asset Saviours: Landmark Victories in Secured Loan Defence
-                            </h2>
+                            </h3>
                             <p className="text-lg text-gray-700 leading-relaxed mb-8 text-center">
                                 These real-world cases demonstrate the power of a document-led legal strategy in challenging the bank's recovery process.
                             </p>
@@ -437,7 +437,7 @@ export default function SecuredLoanLitigationPage() {
                                                 {review.name.charAt(0)}
                                             </div>
                                             <div>
-                                                <h3 className="font-bold text-[#2E2E2E]">{review.name}</h3>
+                                                <h4 className="font-bold text-[#2E2E2E]">{review.name}</h4>
                                                 <p className="text-xs text-gray-400">{review.loc}</p>
                                             </div>
                                             <div className="ml-auto text-yellow-400 text-sm">
@@ -457,48 +457,48 @@ export default function SecuredLoanLitigationPage() {
                         </section>
 
                         <section id="secured-faq" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">
                                 Frequently Asked Questions: Secured Loan Litigation
-                            </h2>
+                            </h3>
                             <div className="space-y-8">
                                 <div className="bg-gray-50 p-8 rounded-2xl border border-gray-100">
-                                    <h3 className="text-xl font-bold text-[#2E2E2E] mb-3">1. Can the bank take my property without a court order?</h3>
+                                    <h4 className="text-xl font-bold text-[#2E2E2E] mb-3">1. Can the bank take my property without a court order?</h4>
                                     <p className="text-gray-700 leading-relaxed text-lg">Yes, under the SARFAESI Act, banks can take 'symbolic' possession without a court. However, for 'physical' possession (removing you from the house), they usually need an order from the District Magistrate under Section 14.</p>
                                 </div>
                                 <div className="bg-gray-50 p-8 rounded-2xl border border-gray-100">
-                                    <h4 className="text-xl font-bold text-[#2E2E2E] mb-3">2. What is the difference between a 13(2) and a 13(4) notice?</h4>
+                                    <h5 className="text-xl font-bold text-[#2E2E2E] mb-3">2. What is the difference between a 13(2) and a 13(4) notice?</h5>
                                     <p className="text-gray-700 leading-relaxed text-lg">13(2) is a demand notice giving you 60 days to pay. It is a warning. 13(4) is the possession notice, meaning the bank has legally taken control of the asset. You can only move the DRT after the 13(4) measure is taken.</p>
                                 </div>
                                 <div className="bg-gray-50 p-8 rounded-2xl border border-gray-100">
-                                    <h4 className="text-xl font-bold text-[#2E2E2E] mb-3">3. How much time do I get to file a case in the DRT?</h4>
+                                    <h5 className="text-xl font-bold text-[#2E2E2E] mb-3">3. How much time do I get to file a case in the DRT?</h5>
                                     <p className="text-gray-700 leading-relaxed text-lg">You have exactly 45 days from the date of the possession notice or any other measure taken under Section 13(4). If you miss this, you must file a condonation of delay, which is difficult to get.</p>
                                 </div>
                                 <div className="bg-gray-50 p-8 rounded-2xl border border-gray-100">
-                                    <h4 className="text-xl font-bold text-[#2E2E2E] mb-3">4. Can I sell the property myself after getting a SARFAESI notice?</h4>
+                                    <h5 className="text-xl font-bold text-[#2E2E2E] mb-3">4. Can I sell the property myself after getting a SARFAESI notice?</h5>
                                     <p className="text-gray-700 leading-relaxed text-lg">Technically, Section 13(13) prohibits you from selling the asset without the bank's consent. However, we often negotiate an 'arranged sale' where the bank allows you to find a buyer to get a better price than an auction, provided the proceeds go directly to the loan closure.</p>
                                 </div>
                                 <div className="bg-gray-50 p-8 rounded-2xl border border-gray-100">
-                                    <h4 className="text-xl font-bold text-[#2E2E2E] mb-3">5. Does the SARFAESI Act apply to agricultural land?</h4>
+                                    <h5 className="text-xl font-bold text-[#2E2E2E] mb-3">5. Does the SARFAESI Act apply to agricultural land?</h5>
                                     <p className="text-gray-700 leading-relaxed text-lg">No. Section 31(i) of the Act specifically exempts agricultural land from SARFAESI proceedings. If a bank tries to seize farmland, the entire process can be quashed by the High Court.</p>
                                 </div>
                                 <div className="bg-gray-50 p-8 rounded-2xl border border-gray-100">
-                                    <h4 className="text-xl font-bold text-[#2E2E2E] mb-3">6. What is a 'Caveat' and should I file one?</h4>
+                                    <h5 className="text-xl font-bold text-[#2E2E2E] mb-3">6. What is a 'Caveat' and should I file one?</h5>
                                     <p className="text-gray-700 leading-relaxed text-lg">A Caveat is a notice to the court/DRT that no order should be passed against you without a hearing. Filing a caveat in the DRT ensures the bank doesn't get an ex-parte order behind your back.</p>
                                 </div>
                                 <div className="bg-gray-50 p-8 rounded-2xl border border-gray-100">
-                                    <h4 className="text-xl font-bold text-[#2E2E2E] mb-3">7. Can I appeal a DRT order?</h4>
+                                    <h5 className="text-xl font-bold text-[#2E2E2E] mb-3">7. Can I appeal a DRT order?</h5>
                                     <p className="text-gray-700 leading-relaxed text-lg">Yes, you can appeal to the Debt Recovery Appellate Tribunal (DRAT) under Section 18. However, you must deposit 50% (can be reduced to 25%) of the debt amount with the DRAT to file the appeal.</p>
                                 </div>
                                 <div className="bg-gray-50 p-8 rounded-2xl border border-gray-100">
-                                    <h4 className="text-xl font-bold text-[#2E2E2E] mb-3">8. What happens to the excess money after an auction?</h4>
+                                    <h5 className="text-xl font-bold text-[#2E2E2E] mb-3">8. What happens to the excess money after an auction?</h5>
                                     <p className="text-gray-700 leading-relaxed text-lg">If the property is sold for more than your dues, the bank MUST return the surplus money to you. A lawyer ensures that the bank doesn't hide surplus funds under 'legal charges' or 'incidental expenses'.</p>
                                 </div>
                                 <div className="bg-gray-50 p-8 rounded-2xl border border-gray-100">
-                                    <h4 className="text-xl font-bold text-[#2E2E2E] mb-3">9. Can the bank freeze my other bank accounts in a secured loan default?</h4>
+                                    <h5 className="text-xl font-bold text-[#2E2E2E] mb-3">9. Can the bank freeze my other bank accounts in a secured loan default?</h5>
                                     <p className="text-gray-700 leading-relaxed text-lg">In a secured loan, the bank's first right is against the asset. However, they can use their 'Right of Set-off' if you have other accounts with the SAME bank. They cannot freeze accounts in other banks without a court order.</p>
                                 </div>
                                 <div className="bg-gray-50 p-8 rounded-2xl border border-gray-100">
-                                    <h4 className="text-xl font-bold text-[#2E2E2E] mb-3">10. Is an NBFC different from a Bank in SARFAESI?</h4>
+                                    <h5 className="text-xl font-bold text-[#2E2E2E] mb-3">10. Is an NBFC different from a Bank in SARFAESI?</h5>
                                     <p className="text-gray-700 leading-relaxed text-lg">Only 'Notified NBFCs' can use the SARFAESI Act. For others, they must go to the regular civil court or use arbitration. We always check if the NBFC is correctly notified by the government.</p>
                                 </div>
                             </div>

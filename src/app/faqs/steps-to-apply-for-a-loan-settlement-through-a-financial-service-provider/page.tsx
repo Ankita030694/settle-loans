@@ -287,7 +287,7 @@ export default function SettlementStepsPage() {
                                 A professional provider does more than just talk to the bank. They provide a structural framework for your exit from debt. From the initial financial audit to the final legal verification of your No Dues Certificate, every action is designed to maximize your discount while minimizing your legal and credit exposure. This comprehensive guide breaks down the five critical phases of a professional settlement journey, ensuring you know exactly what to expect at every turn.
                             </p>
                             <div className="bg-blue-50 p-8 rounded-2xl border-l-4 border-blue-500 mb-8">
-                                <h3 className="text-lg font-bold text-blue-900 mb-4 uppercase tracking-wide">The Core Philosophy</h3>
+                                <h4 className="text-lg font-bold text-blue-900 mb-4 uppercase tracking-wide">The Core Philosophy</h4>
                                 <p className="text-blue-800">
                                     Professionals do not seek "dodges" or "loopholes". They seek a "Compromise Settlement" where the bank realizes that accepting a certain percentage (say 40%) is a better business outcome than chasing a 0% recovery on a failed asset. Your provider's job is to make that business case undeniable.
                                 </p>
@@ -298,19 +298,19 @@ export default function SettlementStepsPage() {
                         </section>
 
                         <section id="phase-1-audit" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                                 Phase 1: The Comprehensive Financial Audit
-                            </h2>
+                            </h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 No professional negotiation can begin without a deep understanding of the numbers. The first step involves a detailed "Debt Consultation" where your service provider performs a 360 degree audit of your financial life.
                             </p>
                             <div className="grid md:grid-cols-2 gap-6 mb-8">
                                 <div className="bg-white p-6 rounded-xl border border-gray-200 shadow-sm">
-                                    <h3 className="font-bold text-lg mb-3 text-gray-900">Hardship Analysis</h3>
+                                    <h4 className="font-bold text-lg mb-3 text-gray-900">Hardship Analysis</h4>
                                     <p className="text-gray-700 text-sm">We document exactly why you cannot pay. Whether it is a documented medical crisis, a layoff, or a failed business venture, we build a "Hardship File" that the bank's audit team cannot ignore.</p>
                                 </div>
                                 <div className="bg-white p-6 rounded-xl border border-gray-200 shadow-sm">
-                                    <h4 className="font-bold text-xl mb-3 text-gray-900">Lender Profiling</h4>
+                                    <h5 className="font-bold text-xl mb-3 text-gray-900">Lender Profiling</h5>
                                     <p className="text-gray-700 text-sm">Not all banks are the same. A private bank like HDFC has different floor rates than a public bank like SBI or a digital lender like Kissht. We profile each lender based on their historical settlement data.</p>
                                 </div>
                             </div>
@@ -320,14 +320,14 @@ export default function SettlementStepsPage() {
                         </section>
 
                         <section id="phase-2-onboarding" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                                 Phase 2: Legal Onboarding & Representation
-                            </h2>
+                            </h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 Once the strategy is set, the legal machinery begins to move. This is where you formally appoint the service provider as your "Authorized Representative" for all debt related communications.
                             </p>
                             <div className="bg-gray-50 p-8 rounded-2xl mb-8">
-                                <h3 className="text-lg font-bold mb-4">The Power of Proxy:</h3>
+                                <h4 className="text-lg font-bold mb-4">The Power of Proxy:</h4>
                                 <ul className="space-y-4">
                                     <li className="flex items-start">
                                         <span className="text-[var(--color-primary)] font-bold mr-3">01.</span>
@@ -349,9 +349,9 @@ export default function SettlementStepsPage() {
                         </section>
 
                         <section id="phase-3-negotiation" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                                 Phase 3: The Active Negotiation Cycle
-                            </h2>
+                            </h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 This is the core engine of the process. Professional negotiators wait for the right "NPA Window" to strike. As noted in the steps to apply for a loan settlement through a financial service provider, timing is everything. We do not negotiate in the first month of default because the bank's discount potential is too low.
                             </p>
@@ -364,7 +364,7 @@ export default function SettlementStepsPage() {
                                         </div>
                                     </div>
                                     <div className="md:w-2/3 p-8">
-                                        <h3 className="text-xl font-bold text-gray-900 mb-4">Leveraging Floor Rates</h3>
+                                        <h4 className="text-xl font-bold text-gray-900 mb-4">Leveraging Floor Rates</h4>
                                         <p className="text-gray-700 leading-relaxed text-sm">
                                             Banks have internal "Floor Rates" - the minimum amount they are authorized to accept for a specific loan type. Professionals know these rates for every major bank in India, allowing them to push for the deepest possible waiver without causing a rejection by the bank's audit committee.
                                         </p>
@@ -377,14 +377,14 @@ export default function SettlementStepsPage() {
                         </section>
 
                         <section id="phase-4-letter" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                                 Phase 4: Obtaining the Sanctioned Settlement Letter
-                            </h2>
+                            </h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 Once an agreement is reached, the bank must issue a "Settlement Sanction Letter". This is the only document that truly matters. A professional service provider performs a "12-Point Audit" on this letter before you are allowed to pay.
                             </p>
                             <div className="bg-orange-50 p-8 rounded-2xl border border-orange-200 mb-8">
-                                <h3 className="text-lg font-bold text-orange-950 mb-4 italic">The Risk: Fake or Unauthorized Letters</h3>
+                                <h4 className="text-lg font-bold text-orange-950 mb-4 italic">The Risk: Fake or Unauthorized Letters</h4>
                                 <p className="text-orange-900 leading-relaxed font-medium">
                                     A common scam in India involves recovery agents issuing 'fake' settlement letters to meet their recovery targets. The borrower pays, and the bank never credits the account as a settlement. Professional providers verify the letter's authenticity with the bank's central system or its nodal officer before any payment is made.
                                 </p>
@@ -395,9 +395,9 @@ export default function SettlementStepsPage() {
                         </section>
 
                         <section id="phase-5-closure" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                                 Phase 5: Payment and NDC Verification
-                            </h2>
+                            </h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 The final step is the payment. You are advised to make the payment directly to the bank's authorized settlement account, never to an individual's account or a third party agency. Your provider monitors the transaction to ensure it is correctly tagged as 'Settlement Payment' in the bank's ledger.
                             </p>
@@ -407,9 +407,9 @@ export default function SettlementStepsPage() {
                         </section>
 
                         <section id="timeline" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                                 Settlement Timelines: What to Expect?
-                            </h2>
+                            </h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 A professional settlement is not an overnight process. It requires navigating the bank's internal quarterly cycles and NPA reporting timelines.
                             </p>
@@ -423,7 +423,7 @@ export default function SettlementStepsPage() {
                                     <div key={idx} className="flex gap-4 p-5 rounded-2xl bg-gray-50 border border-gray-100">
                                         <div className="flex-shrink-0 w-8 h-8 rounded-full bg-blue-100 text-blue-600 flex items-center justify-center font-bold">{idx + 1}</div>
                                         <div>
-                                            <h3 className="font-bold text-gray-900">{item.t}</h3>
+                                            <h4 className="font-bold text-gray-900">{item.t}</h4>
                                             <p className="text-sm text-gray-600">{item.d}</p>
                                         </div>
                                     </div>
@@ -432,69 +432,69 @@ export default function SettlementStepsPage() {
                         </section>
 
                         <section id="legal-protection" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                                 Legal Protection Layers
-                            </h2>
+                            </h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 One of the most significant reasons why borrowers look for steps to apply for a loan settlement through a financial service provider is legal protection. In India, a loan default can trigger several legal actions:
                             </p>
                             <div className="grid md:grid-cols-2 gap-6 mb-8">
                                 <div className="p-6 bg-white border border-gray-100 rounded-xl shadow-sm">
                                     <FontAwesomeIcon icon={faScaleBalanced} className="text-blue-600 mb-4 w-6 h-6" />
-                                    <h3 className="font-bold mb-2">Section 138 NI Act</h3>
+                                    <h4 className="font-bold mb-2">Section 138 NI Act</h4>
                                     <p className="text-xs text-gray-600">Criminal proceedings for cheque bounce. Professional lawyers ensure that the settlement includes a clause for the withdrawal of these cases.</p>
                                 </div>
                                 <div className="p-6 bg-white border border-gray-100 rounded-xl shadow-sm">
                                     <FontAwesomeIcon icon={faShieldHalved} className="text-purple-600 mb-4 w-6 h-6" />
-                                    <h4 className="font-bold mb-2">Section 25 PSA</h4>
+                                    <h5 className="font-bold mb-2">Section 25 PSA</h5>
                                     <p className="text-xs text-gray-600">The modern version for NACH/ECS failures. We manage the court appearances or responses to avoid arrest warrants.</p>
                                 </div>
                             </div>
                         </section>
 
                         <section id="harassment-prevention" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                                 Stopping Direct Harassment
-                            </h2>
+                            </h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 Professional firms use the "RBI Fair Practices Code" as a shield. When we notify a bank that you are under representation, we also warn them against visiting your workplace or calling your neighbors. If an agent violates these rules, our legal team files a formal complaint with the Banking Ombudsman and the local police, often leading to the bank's removal of that specific recovery agency from your case. This "zero-tolerance" policy is what stops the harassment that ruins lives.
                             </p>
                         </section>
 
                         <section id="npa-strategy" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                                 Strategic NPA Management
-                            </h2>
+                            </h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 For most banks, a loan becomes a Non-Performing Asset after 90 days. But did you know that banks have annual and quarterly targets to reduce their NPA percentage? A professional negotiator knows exactly when the bank's "financial year-end" (March) or "quarter-end" occurs. Strategic timing can often result in a 20% deeper discount simply because the bank manager needs to meet a recovery target before the portal closes for the month.
                             </p>
                         </section>
 
                         <section id="provider-vetting" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                                 Vetting Your Service Provider
-                            </h2>
+                            </h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 Not all providers are created equal. Before you follow the steps to apply for a loan settlement through a financial service provider, vet them with these 3 questions:
                             </p>
                             <div className="grid sm:grid-cols-3 gap-6 mb-8 text-center">
                                 <div className="p-6 bg-white border border-gray-100 rounded-2xl">
-                                    <h3 className="font-bold mb-2">Physical Office?</h3>
+                                    <h4 className="font-bold mb-2">Physical Office?</h4>
                                     <p className="text-xs text-gray-500">Never work with a 'virtual' firm. Ensure they have a registered physical office and a legitimate legal team you can meet.</p>
                                 </div>
                                 <div className="p-6 bg-white border border-gray-100 rounded-2xl">
-                                    <h4 className="font-bold mb-2">Legal Team?</h4>
+                                    <h5 className="font-bold mb-2">Legal Team?</h5>
                                     <p className="text-xs text-gray-500">Does the firm have in-house lawyers or do they just use call center agents to negotiate? You need legal protection.</p>
                                 </div>
                                 <div className="p-6 bg-white border border-gray-100 rounded-2xl">
-                                    <h4 className="font-bold mb-2">Track Record?</h4>
+                                    <h5 className="font-bold mb-2">Track Record?</h5>
                                     <p className="text-xs text-gray-500">Ask for recent settlement letters (redacted) from your specific bank. If they haven't settled with HDFC before, they might not know the rules.</p>
                                 </div>
                             </div>
                         </section>
 
                         <section id="faqs" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 text-center">Process Deep-Dive FAQs</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 text-center">Process Deep-Dive FAQs</h3>
                             <div className="space-y-4 not-prose">
                                 {
                                     [
@@ -554,7 +554,7 @@ export default function SettlementStepsPage() {
                             </div>
                         </section>
 
-                        <h2 id="success-stories" className="scroll-mt-32 text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 text-center">Settlement Journey Success</h2>
+                        <h3 id="success-stories" className="scroll-mt-32 text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 text-center">Settlement Journey Success</h3>
                         <div className="grid md:grid-cols-2 gap-6 not-prose mb-16">
                             {[
                                 {
@@ -589,7 +589,7 @@ export default function SettlementStepsPage() {
                                 <div key={i} className="bg-white p-6 rounded-2xl border border-[var(--color-border)] shadow-sm hover:shadow-md transition-all">
                                     <div className="flex items-center mb-4">
                                         <div className="w-10 h-10 rounded-full bg-[#1F5EFF]/10 flex items-center justify-center font-bold text-[#1F5EFF] mr-3">{review.name.charAt(0)}</div>
-                                        <div><h3 className="font-bold text-[#2E2E2E]">{review.name}</h3><p className="text-xs text-gray-400">{review.loc}</p></div>
+                                        <div><h4 className="font-bold text-[#2E2E2E]">{review.name}</h4><p className="text-xs text-gray-400">{review.loc}</p></div>
                                         <div className="ml-auto text-yellow-400 text-sm flex gap-0.5">
                                             <FontAwesomeIcon icon={faStar} className="w-3.5 h-3.5" />
                                             <FontAwesomeIcon icon={faStar} className="w-3.5 h-3.5" />
@@ -621,7 +621,7 @@ export default function SettlementStepsPage() {
                         <section className="bg-[#1F5EFF] rounded-[10px] p-8 md:p-12 text-center text-white relative overflow-hidden shadow-2xl">
                             <div className="absolute top-0 right-0 w-64 h-64 bg-white/10 rounded-full -mr-32 -mt-32"></div>
                             <div className="relative z-10">
-                                <h2 className="text-3xl md:text-5xl font-black mb-6 uppercase tracking-tighter text-[#DEDEDE]">Ready to Outsource Your Stress?</h2>
+                                <h3 className="text-3xl md:text-5xl font-black mb-6 uppercase tracking-tighter text-[#DEDEDE]">Ready to Outsource Your Stress?</h3>
                                 <p className="text-lg md:text-2xl opacity-90 max-w-2xl mx-auto mb-10 leading-tight font-normal text-[#DEDEDE]">
                                     Follow the professional steps used by 10,000+ Indians to settle debt for less. Start your audit now.
                                 </p>

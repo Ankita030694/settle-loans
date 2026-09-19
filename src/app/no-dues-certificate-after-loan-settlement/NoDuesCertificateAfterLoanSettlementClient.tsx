@@ -566,7 +566,7 @@ ENCLOSURES:
                     <div className="w-9 h-9 rounded-xl bg-blue-100 text-[#1F5EFF] flex items-center justify-center font-bold">
                       <Scale className="w-5 h-5" />
                     </div>
-                    <h3 className="text-base font-bold text-slate-900">Extinguishment of Claim in Personam</h3>
+                    <h4 className="text-base font-bold text-slate-900">Extinguishment of Claim in Personam</h4>
                   </div>
                   <p className="text-xs sm:text-sm text-slate-600 leading-relaxed">
                     The NDC conclusively establishes that all personal claims against the borrower arising out of the credit agreement are permanently discharged with zero remaining legal liability.
@@ -578,7 +578,7 @@ ENCLOSURES:
                     <div className="w-9 h-9 rounded-xl bg-emerald-100 text-emerald-600 flex items-center justify-center font-bold">
                       <ShieldCheck className="w-5 h-5" />
                     </div>
-                    <h3 className="text-base font-bold text-slate-900">Immunity from Third-Party Recovery</h3>
+                    <h4 className="text-base font-bold text-slate-900">Immunity from Third-Party Recovery</h4>
                   </div>
                   <p className="text-xs sm:text-sm text-slate-600 leading-relaxed">
                     Prevents rogue debt recovery agencies, outsourced call centers, or subsequent ARC assignees from resurrecting the settled debt or claiming residual interest.
@@ -590,7 +590,7 @@ ENCLOSURES:
                     <div className="w-9 h-9 rounded-xl bg-purple-100 text-purple-600 flex items-center justify-center font-bold">
                       <Landmark className="w-5 h-5" />
                     </div>
-                    <h3 className="text-base font-bold text-slate-900">Release of Statutory Charge &amp; Liens</h3>
+                    <h4 className="text-base font-bold text-slate-900">Release of Statutory Charge &amp; Liens</h4>
                   </div>
                   <p className="text-xs sm:text-sm text-slate-600 leading-relaxed">
                     Mandates the immediate cancellation of bank hypothecation, removal of Banker&apos;s Lien under Section 171 of the Contract Act, and clearance of property records on CERSAI.
@@ -602,7 +602,7 @@ ENCLOSURES:
                     <div className="w-9 h-9 rounded-xl bg-amber-100 text-amber-600 flex items-center justify-center font-bold">
                       <CheckCircle className="w-5 h-5" />
                     </div>
-                    <h3 className="text-base font-bold text-slate-900">Foundation for CIBIL Rectification</h3>
+                    <h4 className="text-base font-bold text-slate-900">Foundation for CIBIL Rectification</h4>
                   </div>
                   <p className="text-xs sm:text-sm text-slate-600 leading-relaxed">
                     Serves as the indispensable evidentiary document required by Credit Information Companies (CIBIL, Experian) to eliminate active default reporting and record ₹0 balance.
@@ -613,9 +613,9 @@ ENCLOSURES:
 
             {/* Section 2 */}
             <section id="noc-vs-ndc-vs-closure-certificate" className="scroll-mt-28 mb-14">
-              <h2 className="text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
+              <h3 className="text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
                 2. NOC vs NDC vs Loan Closure Certificate Differences
-              </h2>
+              </h3>
               <p className="text-base md:text-lg leading-relaxed mb-5 text-slate-700">
                 Borrowers frequently encounter overlapping terminology in banking communications. While terms like No Dues Certificate, No Objection Certificate, and Loan Closure Certificate are sometimes used interchangeably in colloquial conversation, they represent distinct legal concepts and operational states in banking ledgers:
               </p>
@@ -665,9 +665,9 @@ ENCLOSURES:
 
             {/* Section 3 */}
             <section id="rbi-30-day-statutory-mandate" className="scroll-mt-28 mb-14">
-              <h2 className="text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
+              <h3 className="text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
                 3. RBI 30-Day Mandate & ₹5,000/Day Delay Penalty Rule
-              </h2>
+              </h3>
               <p className="text-base md:text-lg leading-relaxed mb-5 text-slate-700">
                 Historically, borrowers faced harrowing delays after paying settlement amounts. Branch managers frequently took months to process internal system entries, during which recovery agents continued calling and original property deeds remained hostage in bank vaults.
               </p>
@@ -680,7 +680,7 @@ ENCLOSURES:
                 <div className="p-5 bg-slate-50 border border-slate-200 rounded-2xl">
                   <div className="flex items-center gap-3 mb-2">
                     <span className="w-7 h-7 rounded-lg bg-[#1F5EFF] text-white flex items-center justify-center text-xs font-bold">1</span>
-                    <h3 className="font-bold text-slate-900 text-sm md:text-base">Strict 30-Day Clock from Date of Payment</h3>
+                    <h4 className="font-bold text-slate-900 text-sm md:text-base">Strict 30-Day Clock from Date of Payment</h4>
                   </div>
                   <p className="text-xs sm:text-sm text-slate-600 leading-relaxed ml-10">
                     Regulated Entities (Scheduled Commercial Banks, Small Finance Banks, RRBs, Urban Co-operative Banks, and NBFCs) must issue the No Dues Certificate and release all original property documents within <strong>30 calendar days</strong> of receiving full repayment or settlement.
@@ -690,7 +690,7 @@ ENCLOSURES:
                 <div className="p-5 bg-slate-50 border border-slate-200 rounded-2xl">
                   <div className="flex items-center gap-3 mb-2">
                     <span className="w-7 h-7 rounded-lg bg-emerald-600 text-white flex items-center justify-center text-xs font-bold">2</span>
-                    <h3 className="font-bold text-slate-900 text-sm md:text-base">Mandatory ₹5,000 Per Day Compensation Penalty</h3>
+                    <h4 className="font-bold text-slate-900 text-sm md:text-base">Mandatory ₹5,000 Per Day Compensation Penalty</h4>
                   </div>
                   <p className="text-xs sm:text-sm text-slate-600 leading-relaxed ml-10">
                     If the bank delays issuing the NDC, releasing documents, or removing charge satisfaction beyond 30 days for reasons attributable to the lender, the bank <strong>must pay compensation of ₹5,000 for each day of delay</strong> directly to the borrower.
@@ -700,7 +700,7 @@ ENCLOSURES:
                 <div className="p-5 bg-slate-50 border border-slate-200 rounded-2xl">
                   <div className="flex items-center gap-3 mb-2">
                     <span className="w-7 h-7 rounded-lg bg-purple-600 text-white flex items-center justify-center text-xs font-bold">3</span>
-                    <h3 className="font-bold text-slate-900 text-sm md:text-base">Borrower Choice of Document Collection Branch</h3>
+                    <h4 className="font-bold text-slate-900 text-sm md:text-base">Borrower Choice of Document Collection Branch</h4>
                   </div>
                   <p className="text-xs sm:text-sm text-slate-600 leading-relaxed ml-10">
                     The borrower is granted the legal option to collect original title deeds and physical certificates either from the home loan branch where the facility was sanctioned or from any designated regional branch of their choice.
@@ -710,7 +710,7 @@ ENCLOSURES:
                 <div className="p-5 bg-slate-50 border border-slate-200 rounded-2xl">
                   <div className="flex items-center gap-3 mb-2">
                     <span className="w-7 h-7 rounded-lg bg-amber-600 text-white flex items-center justify-center text-xs font-bold">4</span>
-                    <h3 className="font-bold text-slate-900 text-sm md:text-base">Bank Liability for Lost Documents</h3>
+                    <h4 className="font-bold text-slate-900 text-sm md:text-base">Bank Liability for Lost Documents</h4>
                   </div>
                   <p className="text-xs sm:text-sm text-slate-600 leading-relaxed ml-10">
                     In the event that the lender misplaces or loses original documents during the custody period, the bank must obtain certified duplicate copies at its own expense, publish public notices in leading newspapers, and pay an additional 30-day delay compensation.
@@ -721,9 +721,9 @@ ENCLOSURES:
 
             {/* Section 4 */}
             <section id="forensic-verification-authentic-vs-fake" className="scroll-mt-28 mb-14">
-              <h2 className="text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
+              <h3 className="text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
                 4. Forensic Audit Checklist: How to Verify an Authentic NDC
-              </h2>
+              </h3>
               <p className="text-base md:text-lg leading-relaxed mb-5 text-slate-700">
                 In India&apos;s debt recovery ecosystem, unscrupulous third-party collection agencies sometimes generate fraudulent settlement letters or fake No Dues Certificates on duplicate letterheads, enticing borrowers to deposit funds into third-party accounts or temporary collection pools without updating the bank&apos;s core system.
               </p>
@@ -788,9 +788,9 @@ ENCLOSURES:
                     <span className="text-[10px] font-black uppercase tracking-widest text-blue-300 block">
                       Legal Defense &amp; Action Blueprint
                     </span>
-                    <h3 className="text-sm md:text-base font-black text-white leading-tight">
+                    <h4 className="text-sm md:text-base font-black text-white leading-tight">
                       No Dues Certificate (NDC) Post-Settlement Verification Blueprint
-                    </h3>
+                    </h4>
                   </div>
                 </div>
                 <a
@@ -832,9 +832,9 @@ ENCLOSURES:
 
             {/* Section 6 */}
             <section id="step-by-step-how-to-get-ndc" className="scroll-mt-28 mb-14">
-              <h2 className="text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
+              <h3 className="text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
                 6. How to Get Your No Dues Certificate Post-Settlement
-              </h2>
+              </h3>
               <p className="text-base md:text-lg leading-relaxed mb-5 text-slate-700">
                 To navigate the administrative maze of Indian commercial banks and ensure zero post-settlement complications, follow this systematic 5-stage procedural workflow:
               </p>
@@ -847,9 +847,9 @@ ENCLOSURES:
                       1
                     </div>
                     <div>
-                      <h3 className="text-base md:text-lg font-bold text-slate-900 mb-2">
+                      <h4 className="text-base md:text-lg font-bold text-slate-900 mb-2">
                         Stage 1: Remit Funds Strictly to the Loan Account Number via Direct Banking
-                      </h3>
+                      </h4>
                       <p className="text-xs sm:text-sm text-slate-600 leading-relaxed mb-3">
                         Never pay in cash or transfer funds to any third party. Always remit the exact sanctioned settlement amount via NEFT or RTGS directly into your specific loan account number. Retain the bank payment acknowledgement slip containing the 16-character UTR (Unique Transaction Reference) number.
                       </p>
@@ -867,9 +867,9 @@ ENCLOSURES:
                       2
                     </div>
                     <div>
-                      <h3 className="text-base md:text-lg font-bold text-slate-900 mb-2">
+                      <h4 className="text-base md:text-lg font-bold text-slate-900 mb-2">
                         Stage 2: Submit Formal Proof of Payment to the Branch &amp; Stressed Assets Desk
-                      </h3>
+                      </h4>
                       <p className="text-xs sm:text-sm text-slate-600 leading-relaxed mb-3">
                         Within 48 hours of payment, submit a formal written letter to the Branch Manager and Head of Stressed Assets Recovery Branch (SARB) attaching: (a) Copy of OTS Sanction Letter, (b) Bank payment receipt / UTR counterfoil, (c) Identity proof (PAN/Aadhaar). Obtain a physical receiving stamp with date and employee code on your duplicate copy.
                       </p>
@@ -884,9 +884,9 @@ ENCLOSURES:
                       3
                     </div>
                     <div>
-                      <h3 className="text-base md:text-lg font-bold text-slate-900 mb-2">
+                      <h4 className="text-base md:text-lg font-bold text-slate-900 mb-2">
                         Stage 3: Verify Core Banking System (CBS) Ledger Adjustment (Day 7 to Day 15)
-                      </h3>
+                      </h4>
                       <p className="text-xs sm:text-sm text-slate-600 leading-relaxed mb-3">
                         Log into your NetBanking or visit the branch between Day 7 and Day 15 to confirm that the bank&apos;s credit operations team has executed the internal write-off entry. The loan ledger must reflect Total Outstanding: ₹0.00 and Account Status: Closed/Settled.
                       </p>
@@ -901,9 +901,9 @@ ENCLOSURES:
                       4
                     </div>
                     <div>
-                      <h3 className="text-base md:text-lg font-bold text-slate-900 mb-2">
+                      <h4 className="text-base md:text-lg font-bold text-slate-900 mb-2">
                         Stage 4: Collect Stamped Physical &amp; Digital No Dues Certificate (Within 30 Days)
-                      </h3>
+                      </h4>
                       <p className="text-xs sm:text-sm text-slate-600 leading-relaxed mb-3">
                         Under RBI regulations, the bank must provide your official No Dues Certificate within 30 calendar days. Collect the original physical certificate bearing the branch seal and authorized signatory from your home branch, and simultaneously download the digital PDF from the bank&apos;s self-service portal.
                       </p>
@@ -918,9 +918,9 @@ ENCLOSURES:
                       5
                     </div>
                     <div>
-                      <h3 className="text-base md:text-lg font-bold text-slate-900 mb-2">
+                      <h4 className="text-base md:text-lg font-bold text-slate-900 mb-2">
                         Stage 5: Audit Credit Bureau Update &amp; Archive Legal Dossier (Day 45)
-                      </h3>
+                      </h4>
                       <p className="text-xs sm:text-sm text-slate-600 leading-relaxed mb-3">
                         Pull your latest credit reports from CIBIL, Experian, Equifax, and CRIF High Mark 45 days after payment. Confirm the loan reflects &apos;Settled&apos; status with ₹0 Current Balance. Secure all physical copies (OTS Sanction, Payment Slip, NDC, CIBIL Report) in a permanent legal archival dossier.
                       </p>
@@ -932,9 +932,9 @@ ENCLOSURES:
 
             {/* Section 7 */}
             <section id="online-portal-download-procedures" className="scroll-mt-28 mb-14">
-              <h2 className="text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
+              <h3 className="text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
                 7. Online NDC Download: SBI, HDFC, ICICI, Axis & NBFCs
-              </h2>
+              </h3>
               <p className="text-base md:text-lg leading-relaxed mb-5 text-slate-700">
                 Most top tier Indian banks provide automated self-service portals where settled borrowers can retrieve digital No Dues Certificates. Here are the specific online navigation steps across India&apos;s leading financial institutions:
               </p>
@@ -944,7 +944,7 @@ ENCLOSURES:
                 <div className="bg-slate-50 border border-slate-200 rounded-2xl p-5 shadow-sm">
                   <div className="flex items-center gap-3 mb-3">
                     <Building2 className="w-6 h-6 text-[#1F5EFF]" />
-                    <h3 className="text-base font-bold text-slate-900">State Bank of India (SBI / YONO)</h3>
+                    <h4 className="text-base font-bold text-slate-900">State Bank of India (SBI / YONO)</h4>
                   </div>
                   <ol className="text-xs sm:text-sm text-slate-600 space-y-2 list-decimal list-inside">
                     <li>Log into <strong>SBI Onlinesbi.sbi</strong> or SBI YONO App.</li>
@@ -958,7 +958,7 @@ ENCLOSURES:
                 <div className="bg-slate-50 border border-slate-200 rounded-2xl p-5 shadow-sm">
                   <div className="flex items-center gap-3 mb-3">
                     <Building2 className="w-6 h-6 text-[#1F5EFF]" />
-                    <h3 className="text-base font-bold text-slate-900">HDFC Bank</h3>
+                    <h4 className="text-base font-bold text-slate-900">HDFC Bank</h4>
                   </div>
                   <ol className="text-xs sm:text-sm text-slate-600 space-y-2 list-decimal list-inside">
                     <li>Visit <strong>HDFC Bank Service Portal &gt; Self Service</strong>.</li>
@@ -972,7 +972,7 @@ ENCLOSURES:
                 <div className="bg-slate-50 border border-slate-200 rounded-2xl p-5 shadow-sm">
                   <div className="flex items-center gap-3 mb-3">
                     <Building2 className="w-6 h-6 text-[#1F5EFF]" />
-                    <h3 className="text-base font-bold text-slate-900">ICICI Bank (iMobile)</h3>
+                    <h4 className="text-base font-bold text-slate-900">ICICI Bank (iMobile)</h4>
                   </div>
                   <ol className="text-xs sm:text-sm text-slate-600 space-y-2 list-decimal list-inside">
                     <li>Open <strong>iMobile Pay</strong> &gt; Navigate to <strong>Cards &amp; Loans</strong>.</li>
@@ -986,7 +986,7 @@ ENCLOSURES:
                 <div className="bg-slate-50 border border-slate-200 rounded-2xl p-5 shadow-sm">
                   <div className="flex items-center gap-3 mb-3">
                     <Building2 className="w-6 h-6 text-[#1F5EFF]" />
-                    <h3 className="text-base font-bold text-slate-900">Axis Bank &amp; NBFCs (Bajaj, Tata, Aditya Birla)</h3>
+                    <h4 className="text-base font-bold text-slate-900">Axis Bank &amp; NBFCs (Bajaj, Tata, Aditya Birla)</h4>
                   </div>
                   <ol className="text-xs sm:text-sm text-slate-600 space-y-2 list-decimal list-inside">
                     <li>Access the lender&apos;s customer service self-help portal.</li>
@@ -1000,9 +1000,9 @@ ENCLOSURES:
 
             {/* Section 8: Copyable Template */}
             <section id="copyable-ndc-escalation-template" className="scroll-mt-28 mb-14">
-              <h2 className="text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
+              <h3 className="text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
                 8. Legal Grievance Template for Delayed No Dues Certificate
-              </h2>
+              </h3>
               <p className="text-base md:text-lg leading-relaxed mb-5 text-slate-700">
                 If your bank or NBFC has exceeded the mandatory 30-day statutory window after accepting your settlement remittance, use this formal legal escalation notice. Formulated under <strong>RBI Circular RBI/2023-24/60</strong>, this template demands the immediate issuance of your NDC and initiates a formal statutory claim for <strong>₹5,000 per day in delay compensation</strong>:
               </p>
@@ -1017,9 +1017,9 @@ ENCLOSURES:
 
             {/* Section 9 */}
             <section id="recovery-harassment-post-settlement" className="scroll-mt-28 mb-14">
-              <h2 className="text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
+              <h3 className="text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
                 9. What to Do If Agents Harass You After Settlement Payment
-              </h2>
+              </h3>
               <p className="text-base md:text-lg leading-relaxed mb-5 text-slate-700">
                 One of the most distressing issues borrowers encounter is receiving aggressive collection calls or unannounced visits even after remitting their agreed OTS amount. This typically occurs because of an internal communication breakdown between the bank&apos;s legal credit desk and its outsourced recovery agencies.
               </p>
@@ -1029,28 +1029,28 @@ ENCLOSURES:
 
               <div className="space-y-4 my-8">
                 <div className="p-5 bg-red-50 border-l-4 border-red-500 rounded-r-2xl">
-                  <h3 className="font-bold text-red-900 text-base mb-1">1. Never Pay a Single Rupee Under Duress</h3>
+                  <h4 className="font-bold text-red-900 text-base mb-1">1. Never Pay a Single Rupee Under Duress</h4>
                   <p className="text-xs sm:text-sm text-red-800 leading-relaxed">
                     Recovery agents often claim that your previous payment was merely an &apos;interest adjustment&apos; or &apos;part payment&apos;. Do not fall for this trick. If you hold an official OTS Sanction Letter and payment receipt, your liability is strictly governed by the written contract.
                   </p>
                 </div>
 
                 <div className="p-5 bg-slate-50 border border-slate-200 rounded-2xl">
-                  <h3 className="font-bold text-slate-900 text-base mb-1">2. Issue a Cease-and-Desist Notice Citing RBI Fair Practices Code</h3>
+                  <h4 className="font-bold text-slate-900 text-base mb-1">2. Issue a Cease-and-Desist Notice Citing RBI Fair Practices Code</h4>
                   <p className="text-xs sm:text-sm text-slate-600 leading-relaxed">
                     Under the <strong>RBI Guidelines on Recovery Agents (Circular DBOD.No.Leg.BC.21/09.07.006/2008-09)</strong>, lenders are strictly prohibited from resorting to intimidation, contacting friends/relatives, or making calls before 8:00 AM or after 7:00 PM. Post-settlement collection constitutes an aggravated violation.
                   </p>
                 </div>
 
                 <div className="p-5 bg-slate-50 border border-slate-200 rounded-2xl">
-                  <h3 className="font-bold text-slate-900 text-base mb-1">3. File an Immediate Complaint on the RBI Integrated Ombudsman CMS Portal</h3>
+                  <h4 className="font-bold text-slate-900 text-base mb-1">3. File an Immediate Complaint on the RBI Integrated Ombudsman CMS Portal</h4>
                   <p className="text-xs sm:text-sm text-slate-600 leading-relaxed">
                     Log on to <strong>cms.rbi.org.in</strong>, select your bank, upload your OTS Sanction Letter and payment UTR, and lodge a complaint under the category &apos;Non-compliance with Compromise Settlement Terms / Recovery Harassment&apos;. The RBI Ombudsman has statutory powers to penalize the bank and award compensation for harassment.
                   </p>
                 </div>
 
                 <div className="p-5 bg-slate-50 border border-slate-200 rounded-2xl">
-                  <h3 className="font-bold text-slate-900 text-base mb-1">4. Initiate Police Action under Section 503 &amp; 506 IPC</h3>
+                  <h4 className="font-bold text-slate-900 text-base mb-1">4. Initiate Police Action under Section 503 &amp; 506 IPC</h4>
                   <p className="text-xs sm:text-sm text-slate-600 leading-relaxed">
                     If agents visit your residence or workplace and issue verbal threats after you have produced your settlement documents, you have the full legal right to lodge a Police Complaint / First Information Report (FIR) for criminal intimidation, wrongful restraint, and extortion under the Indian Penal Code.
                   </p>
@@ -1060,9 +1060,9 @@ ENCLOSURES:
 
             {/* Section 10 */}
             <section id="cibil-credit-bureau-post-settlement-audit" className="scroll-mt-28 mb-14">
-              <h2 className="text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
+              <h3 className="text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
                 10. CIBIL Audit Post-Settlement: Verifying ₹0 Balance
-              </h2>
+              </h3>
               <p className="text-base md:text-lg leading-relaxed mb-5 text-slate-700">
                 A critical responsibility post-settlement is ensuring that all four licensed Credit Information Companies in India—<strong>TransUnion CIBIL, Experian, Equifax, and CRIF High Mark</strong>—accurately update their credit information reports (CIR).
               </p>
@@ -1117,9 +1117,9 @@ ENCLOSURES:
 
             {/* Section 11 */}
             <section id="original-property-documents-release" className="scroll-mt-28 mb-14">
-              <h2 className="text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
+              <h3 className="text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
                 11. Return of Property Documents & Removal of Encumbrance
-              </h2>
+              </h3>
               <p className="text-base md:text-lg leading-relaxed mb-5 text-slate-700">
                 For settled secured loans—such as Home Loans, Loans Against Property (LAP), or Auto Loans—obtaining the physical No Dues Certificate is only the first part of asset liberation. Borrowers must actively ensure that all physical collaterals and legal liens are formally removed:
               </p>
@@ -1128,7 +1128,7 @@ ENCLOSURES:
                 <div className="bg-slate-50 border border-slate-200 rounded-2xl p-5 shadow-sm">
                   <div className="flex items-center gap-3 mb-3">
                     <Landmark className="w-5 h-5 text-[#1F5EFF]" />
-                    <h3 className="text-sm font-bold text-slate-900">Original Title Deeds Custody</h3>
+                    <h4 className="text-sm font-bold text-slate-900">Original Title Deeds Custody</h4>
                   </div>
                   <p className="text-xs text-slate-600 leading-relaxed">
                     Collect all original registered Sale Deeds, Mother Deeds, Mutation Sanction, and Encumbrance Certificates from the bank vault against a signed Document Handover Schedule.
@@ -1138,7 +1138,7 @@ ENCLOSURES:
                 <div className="bg-slate-50 border border-slate-200 rounded-2xl p-5 shadow-sm">
                   <div className="flex items-center gap-3 mb-3">
                     <Building2 className="w-5 h-5 text-emerald-600" />
-                    <h3 className="text-sm font-bold text-slate-900">CERSAI Charge Satisfaction</h3>
+                    <h4 className="text-sm font-bold text-slate-900">CERSAI Charge Satisfaction</h4>
                   </div>
                   <p className="text-xs text-slate-600 leading-relaxed">
                     Ensure the bank files Form Charge Satisfaction with the <strong>Central Registry of Securitisation Asset Reconstruction and Security Interest (CERSAI)</strong> to remove the mortgage encumbrance.
@@ -1148,7 +1148,7 @@ ENCLOSURES:
                 <div className="bg-slate-50 border border-slate-200 rounded-2xl p-5 shadow-sm">
                   <div className="flex items-center gap-3 mb-3">
                     <ShieldCheck className="w-5 h-5 text-purple-600" />
-                    <h3 className="text-sm font-bold text-slate-900">RTO Form 35 (Vehicle Loans)</h3>
+                    <h4 className="text-sm font-bold text-slate-900">RTO Form 35 (Vehicle Loans)</h4>
                   </div>
                   <p className="text-xs text-slate-600 leading-relaxed">
                     Obtain signed and stamped duplicate copies of <strong>RTO Form 35</strong> along with the NOC to cancel the bank hypothecation on your vehicle&apos;s Registration Certificate (RC).
@@ -1166,9 +1166,9 @@ ENCLOSURES:
             <section id="faqs" className="scroll-mt-28 mb-14">
               <div className="flex items-center gap-2 mb-6">
                 <HelpCircle className="w-6 h-6 text-[#1F5EFF]" />
-                <h2 className="text-2xl md:text-3xl font-black text-slate-900 leading-tight">
+                <h3 className="text-2xl md:text-3xl font-black text-slate-900 leading-tight">
                   13. Frequently Asked Questions (FAQs)
-                </h2>
+                </h3>
               </div>
               <p className="text-base text-slate-600 mb-8 leading-relaxed">
                 Clear, legally authoritative answers to the most urgent post-settlement questions faced by Indian borrowers regarding No Dues Certificates, bank delays, and credit rehabilitation.
@@ -1189,10 +1189,10 @@ ENCLOSURES:
 
             {/* Regulatory Sources & References Strip */}
             <div className="bg-slate-50 border border-slate-200 rounded-2xl p-6 my-10">
-              <h3 className="text-base font-bold text-slate-900 mb-4 flex items-center gap-2">
+              <h4 className="text-base font-bold text-slate-900 mb-4 flex items-center gap-2">
                 <Landmark className="w-5 h-5 text-[#1F5EFF]" />
                 Statutory Authorities &amp; Official Regulatory References
-              </h3>
+              </h4>
               <ul className="space-y-2.5 text-xs text-slate-600">
                 <li className="flex items-start gap-2">
                   <ExternalLink className="w-4 h-4 text-[#1F5EFF] flex-shrink-0 mt-0.5" />
@@ -1254,10 +1254,10 @@ ENCLOSURES:
 
             {/* Related Guides & Resources Strip */}
             <div className="bg-slate-50 border border-slate-200 rounded-2xl p-6 my-10">
-              <h3 className="text-base font-bold text-slate-900 mb-4 flex items-center gap-2">
+              <h4 className="text-base font-bold text-slate-900 mb-4 flex items-center gap-2">
                 <BookOpen className="w-5 h-5 text-[#1F5EFF]" />
                 Explore Related Banking &amp; Debt Resolution Guides
-              </h3>
+              </h4>
               <div className="flex flex-wrap gap-2.5">
                 <Link
                   href="/bank-one-time-settlement-ots-policy"

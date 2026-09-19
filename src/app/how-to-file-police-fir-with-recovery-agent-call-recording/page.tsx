@@ -552,10 +552,10 @@ export default function PoliceFirWithCallRecordingPage() {
 
             {/* Section 2: Section 63 BSA & 65B Electronic Certification */}
             <section id="electronic-certificate-drafting" className="scroll-mt-28 space-y-4">
-              <h2 className="text-xl sm:text-2xl font-black text-slate-900 flex items-center gap-2 border-b border-slate-200 pb-3">
+              <h3 className="text-xl sm:text-2xl font-black text-slate-900 flex items-center gap-2 border-b border-slate-200 pb-3">
                 <FileCheck className="w-6 h-6 text-[#1F5EFF]" />
                 <span>2. Section 63 BSA &amp; Section 65B Evidence Act</span>
-              </h2>
+              </h3>
 
               <p className="text-sm sm:text-base leading-relaxed text-slate-700">
                 The Bharatiya Sakshya Adhiniyam, 2023 (BSA) replaced the Evidence Act. Section 65B governed digital proof earlier. Today, Section 63 BSA governs call audio files. It sets clear rules for audio files. It applies to call logs too.
@@ -597,10 +597,10 @@ export default function PoliceFirWithCallRecordingPage() {
 
             {/* Section 3: BNS & IPC Substantive Criminal Offenses */}
             <section id="criminal-offenses-bns-ipc" className="scroll-mt-28 space-y-4">
-              <h2 className="text-xl sm:text-2xl font-black text-slate-900 flex items-center gap-2 border-b border-slate-200 pb-3">
+              <h3 className="text-xl sm:text-2xl font-black text-slate-900 flex items-center gap-2 border-b border-slate-200 pb-3">
                 <Gavel className="w-6 h-6 text-[#1F5EFF]" />
                 <span>3. Substantive Criminal Law</span>
-              </h2>
+              </h3>
 
               <p className="text-sm sm:text-base leading-relaxed text-slate-700">
                 Recovery agents claim loan default is only a civil dispute. But Indian law draws a clear line. Unpaid EMIs are a civil contract breach. Yet verbal abuse and physical threats are serious crimes. The Bharatiya Nyaya Sanhita, 2023 (BNS) and IPC punish these acts.
@@ -621,10 +621,10 @@ export default function PoliceFirWithCallRecordingPage() {
 
             {/* Section 4: Bank NPA Accounting & NPV Equation */}
             <section id="npa-accounting-npv-formula" className="scroll-mt-28 space-y-4">
-              <h2 className="text-xl sm:text-2xl font-black text-slate-900 flex items-center gap-2 border-b border-slate-200 pb-3">
+              <h3 className="text-xl sm:text-2xl font-black text-slate-900 flex items-center gap-2 border-b border-slate-200 pb-3">
                 <Calculator className="w-6 h-6 text-[#1F5EFF]" />
                 <span>4. NPA Accounting Realities, Bank Provisioning</span>
-              </h2>
+              </h3>
 
               <p className="text-sm sm:text-base leading-relaxed text-slate-700">
                 Filing a police complaint creates immense settlement leverage. Banks follow strict accounting rules. Under RBI IRACP norms, 90-day defaults become bad loans (NPAs).
@@ -655,10 +655,10 @@ export default function PoliceFirWithCallRecordingPage() {
 
             {/* Section 5: Visual Infographic Banner */}
             <section id="visual-roadmap-fir-action" className="scroll-mt-28 space-y-4">
-              <h2 className="text-xl sm:text-2xl font-black text-slate-900 flex items-center gap-2 border-b border-slate-200 pb-3">
+              <h3 className="text-xl sm:text-2xl font-black text-slate-900 flex items-center gap-2 border-b border-slate-200 pb-3">
                 <BookOpen className="w-6 h-6 text-[#1F5EFF]" />
                 <span>5. Process Roadmap</span>
-              </h2>
+              </h3>
               <p className="text-sm sm:text-base leading-relaxed text-slate-700">
                 The roadmap below shows our 4-stage plan. It turns recorded threat calls into an FIR. It helps you secure debt relief. Follow legal proof rules to stop harassment.
               </p>
@@ -681,10 +681,10 @@ export default function PoliceFirWithCallRecordingPage() {
 
             {/* Section 6: Drafting the Police Complaint Application */}
             <section id="drafting-police-complaint-step-by-step" className="scroll-mt-28 space-y-4">
-              <h2 className="text-xl sm:text-2xl font-black text-slate-900 flex items-center gap-2 border-b border-slate-200 pb-3">
+              <h3 className="text-xl sm:text-2xl font-black text-slate-900 flex items-center gap-2 border-b border-slate-200 pb-3">
                 <FileText className="w-6 h-6 text-[#1F5EFF]" />
                 <span>6. Step-by-Step Procedure</span>
-              </h2>
+              </h3>
 
               <p className="text-sm sm:text-base leading-relaxed text-slate-700">
                 A simple grievance letter rarely works. Station House Officers (SHOs) ignore casual complaints. You must draft a formal petition under Section 173 BNSS. Present chronological facts. Cite statutory laws. Attach certified electronic proof.
@@ -715,10 +715,10 @@ export default function PoliceFirWithCallRecordingPage() {
 
             {/* Section 7: Overcoming Police Inaction via Magistrate */}
             <section id="overcoming-police-inaction-magistrate" className="scroll-mt-28 space-y-4">
-              <h2 className="text-xl sm:text-2xl font-black text-slate-900 flex items-center gap-2 border-b border-slate-200 pb-3">
+              <h3 className="text-xl sm:text-2xl font-black text-slate-900 flex items-center gap-2 border-b border-slate-200 pb-3">
                 <Scale className="w-6 h-6 text-[#1F5EFF]" />
                 <span>7. Overcoming Police Inaction</span>
-              </h2>
+              </h3>
 
               <p className="text-sm sm:text-base leading-relaxed text-slate-700">
                 Police must register an FIR for cognizable crimes. The <em>Lalita Kumari v. Govt of UP</em> ruling mandates this. Yet police often give only a General Diary (GD) entry. Or they give a Non-Cognizable Report (NCR).
@@ -739,10 +739,10 @@ export default function PoliceFirWithCallRecordingPage() {
 
             {/* Section 8: Sanction Letter Forensics & RBI NDC Mandate */}
             <section id="sanction-letter-forensics-ndc" className="scroll-mt-28 space-y-4">
-              <h2 className="text-xl sm:text-2xl font-black text-slate-900 flex items-center gap-2 border-b border-slate-200 pb-3">
+              <h3 className="text-xl sm:text-2xl font-black text-slate-900 flex items-center gap-2 border-b border-slate-200 pb-3">
                 <Landmark className="w-6 h-6 text-[#1F5EFF]" />
                 <span>8. Sanction Letter Forensics</span>
-              </h2>
+              </h3>
 
               <p className="text-sm sm:text-base leading-relaxed text-slate-700">
                 Be careful when finalizing a debt settlement. Fraudulent agents issue fake settlement letters. They collect tokens and pocket cash. The debt remains open on bank records.
@@ -759,10 +759,10 @@ export default function PoliceFirWithCallRecordingPage() {
 
             {/* Section 9: Comparative Matrix Table */}
             <section id="comparative-legal-defense-matrix" className="scroll-mt-28 space-y-4">
-              <h2 className="text-xl sm:text-2xl font-black text-slate-900 flex items-center gap-2 border-b border-slate-200 pb-3">
+              <h3 className="text-xl sm:text-2xl font-black text-slate-900 flex items-center gap-2 border-b border-slate-200 pb-3">
                 <FileSpreadsheet className="w-6 h-6 text-[#1F5EFF]" />
                 <span>9. Illegal Recovery Violations vs Legal Remedies Matrix</span>
-              </h2>
+              </h3>
 
               <p className="text-sm sm:text-base leading-relaxed text-slate-700">
                 Compare illegal recovery threats against statutory protections under Indian law:
@@ -816,10 +816,10 @@ export default function PoliceFirWithCallRecordingPage() {
 
             {/* Section 10: SettleLoans Legal Defense & CompanySection */}
             <section id="company-resolution-section" className="scroll-mt-28 space-y-4">
-              <h2 className="text-xl sm:text-2xl font-black text-slate-900 flex items-center gap-2 border-b border-slate-200 pb-3">
+              <h3 className="text-xl sm:text-2xl font-black text-slate-900 flex items-center gap-2 border-b border-slate-200 pb-3">
                 <Building2 className="w-6 h-6 text-[#1F5EFF]" />
                 <span>10. SettleLoans Recovery FIR Legal Support</span>
-              </h2>
+              </h3>
 
               <p className="text-sm sm:text-base leading-relaxed text-slate-700">
                 SettleLoans is India&apos;s leading debt harassment defense platform. We protect professionals and families from abusive collection agencies. Our team includes banking advocates and defense attorneys.
@@ -838,7 +838,7 @@ export default function PoliceFirWithCallRecordingPage() {
             <section id="faqs" className="scroll-mt-28 space-y-6 pt-4 border-t border-slate-200">
               <div className="flex items-center gap-2">
                 <HelpCircle className="w-6 h-6 text-[#1F5EFF]" />
-                <h2 className="text-xl sm:text-2xl font-black text-slate-900">11. FAQs: Police FIRs &amp; Call Recording Admissibility</h2>
+                <h3 className="text-xl sm:text-2xl font-black text-slate-900">11. FAQs: Police FIRs &amp; Call Recording Admissibility</h3>
               </div>
 
               <div className="space-y-4">
@@ -946,9 +946,9 @@ export default function PoliceFirWithCallRecordingPage() {
 
             {/* 5 Official Regulatory Links */}
             <section className="border-t border-slate-200 pt-8 space-y-4">
-              <h3 className="text-xs sm:text-sm font-bold text-slate-900 uppercase tracking-wider">
+              <h4 className="text-xs sm:text-sm font-bold text-slate-900 uppercase tracking-wider">
                 Official Regulatory Directives &amp; Statutory Portals
-              </h3>
+              </h4>
               <div className="grid grid-cols-1 sm:grid-cols-2 gap-3 text-xs">
                 <a
                   href="https://www.rbi.org.in"
@@ -1004,9 +1004,9 @@ export default function PoliceFirWithCallRecordingPage() {
 
             {/* 10 Related Guide Badges */}
             <section className="border-t border-slate-200 pt-8 mb-8">
-              <h3 className="text-xs sm:text-sm font-bold text-slate-900 mb-4 uppercase tracking-wider">
+              <h4 className="text-xs sm:text-sm font-bold text-slate-900 mb-4 uppercase tracking-wider">
                 Related Legal Defense &amp; Loan Resolution Guides
-              </h3>
+              </h4>
               <div className="flex flex-wrap gap-2">
                 <Link
                   href="/recording-recovery-agent-calls-legal-evidence"

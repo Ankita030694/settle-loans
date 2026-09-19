@@ -557,7 +557,7 @@ export default function HdfcCredilaEducationLoanSettlementPage() {
                 <GraduationCap className="w-4 h-4" />
                 <span>2. The Moratorium Trap &amp; Grace Period Compound Interest</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">The Anatomy of Moratorium Interest Capitalization</h2>
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">The Anatomy of Moratorium Interest Capitalization</h3>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 The hardest part of student debt is compound interest during the study break. Standard terms include 24 to 36 months of college, plus a 6 to 12 month grace period. Floating interest rates range from 11.5% to 15.25% per year.
               </p>
@@ -578,7 +578,7 @@ export default function HdfcCredilaEducationLoanSettlementPage() {
                 <Clock className="w-4 h-4" />
                 <span>3. Delinquency Timeline &amp; Balance-Sheet Provisioning</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">HDFC Credila Delinquency Lifecycle</h2>
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">HDFC Credila Delinquency Lifecycle</h3>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Under RBI IRACP norms and Ind AS 109 rules, HDFC Credila groups unpaid loans by Days Past Due (DPD). Knowing these stages helps you time your settlement for top savings.
               </p>
@@ -649,7 +649,7 @@ export default function HdfcCredilaEducationLoanSettlementPage() {
                 <Calculator className="w-4 h-4" />
                 <span>4. OTS Haircut Policies &amp; Valuation Framework</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">HDFC Credila One-Time Settlement (OTS) Policies</h2>
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">HDFC Credila One-Time Settlement (OTS) Policies</h3>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Under RBI rules, HDFC Credila follows a board-approved debt settlement policy. Compromise decisions use Net Present Value (NPV) recovery models, not agent promises.
               </p>
@@ -672,7 +672,7 @@ export default function HdfcCredilaEducationLoanSettlementPage() {
               </div>
 
               {/* Settlement Haircut Slabs Table */}
-              <h3 className="text-lg font-bold text-slate-900 mb-3">Realistic HDFC Credila Settlement Haircut Slabs by Product &amp; Aging</h3>
+              <h4 className="text-lg font-bold text-slate-900 mb-3">Realistic HDFC Credila Settlement Haircut Slabs by Product &amp; Aging</h4>
               <div className="overflow-x-auto my-4">
                 <table className="min-w-full bg-white">
                   <thead>
@@ -737,9 +737,9 @@ export default function HdfcCredilaEducationLoanSettlementPage() {
                       <span className="text-[10px] font-black uppercase tracking-widest text-blue-300 block">
                         Legal Defense &amp; Action Blueprint
                       </span>
-                      <h3 className="text-sm md:text-base font-black text-white leading-tight">
+                      <h4 className="text-sm md:text-base font-black text-white leading-tight">
                         HDFC Credila Education Loan Settlement &amp; Co-Borrower Protection Blueprint
-                      </h3>
+                      </h4>
                     </div>
                   </div>
                   <a
@@ -786,7 +786,7 @@ export default function HdfcCredilaEducationLoanSettlementPage() {
                 <ShieldAlert className="w-4 h-4" />
                 <span>5. Co-Borrower Liability &amp; Anti-Harassment Protections</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Protecting Parent Co-Borrowers from Recovery Pressure</h2>
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Protecting Parent Co-Borrowers from Recovery Pressure</h3>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Most students have no past credit record. So Credila asks parents to sign as joint co-borrowers. Under Section 128 of the Indian Contract Act, 1872, guarantors share equal debt duty.
               </p>
@@ -807,7 +807,7 @@ export default function HdfcCredilaEducationLoanSettlementPage() {
                 <Layers className="w-4 h-4" />
                 <span>6. Step-by-Step NBFC Settlement Roadmap</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Step-by-Step HDFC Credila Settlement Roadmap</h2>
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Step-by-Step HDFC Credila Settlement Roadmap</h3>
               <p className="text-slate-700 leading-relaxed mb-6 text-base md:text-lg">
                 Settling an HDFC Credila loan safely requires a clear, step-by-step legal plan:
               </p>
@@ -815,10 +815,10 @@ export default function HdfcCredilaEducationLoanSettlementPage() {
               <div className="space-y-6">
                 {/* Phase 1 */}
                 <div className="p-6 rounded-2xl bg-white border border-slate-200 shadow-sm">
-                  <h3 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
+                  <h4 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
                     <span className="w-7 h-7 rounded-lg bg-blue-50 text-[#1F5EFF] font-black text-sm flex items-center justify-center border border-blue-200">1</span>
                     Forensic Financial Audit &amp; Hardship Dossier Compilation
-                  </h3>
+                  </h4>
                   <p className="text-slate-600 text-sm md:text-base leading-relaxed">
                     Show true money hardship. If abroad, gather visa papers, marks cards, layoff letters, and rent receipts. In India, gather tax slips, pay slips, hospital bills, or pension slips.
                   </p>
@@ -826,10 +826,10 @@ export default function HdfcCredilaEducationLoanSettlementPage() {
 
                 {/* Phase 2 */}
                 <div className="p-6 rounded-2xl bg-white border border-slate-200 shadow-sm">
-                  <h3 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
+                  <h4 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
                     <span className="w-7 h-7 rounded-lg bg-blue-50 text-[#1F5EFF] font-black text-sm flex items-center justify-center border border-blue-200">2</span>
                     Revoking e-NACH Mandates &amp; Establishing Legal Representation
-                  </h3>
+                  </h4>
                   <p className="text-slate-600 text-sm md:text-base leading-relaxed">
                     Tell your bank in writing under NPCI rules to stop e-NACH debits. This ends bounce fees. Send a legal notice so all calls go to your lawyer.
                   </p>
@@ -837,10 +837,10 @@ export default function HdfcCredilaEducationLoanSettlementPage() {
 
                 {/* Phase 3 */}
                 <div className="p-6 rounded-2xl bg-white border border-slate-200 shadow-sm">
-                  <h3 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
+                  <h4 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
                     <span className="w-7 h-7 rounded-lg bg-blue-50 text-[#1F5EFF] font-black text-sm flex items-center justify-center border border-blue-200">3</span>
                     Submitting Structured OTS Petition to Stressed Assets Desk
-                  </h3>
+                  </h4>
                   <p className="text-slate-600 text-sm md:text-base leading-relaxed">
                     Send an OTS letter to Credila&apos;s Stressed Assets team under RBI Master Directions. Ask to drop added grace period interest. Offer 25% to 35% of the base loan to start.
                   </p>
@@ -848,10 +848,10 @@ export default function HdfcCredilaEducationLoanSettlementPage() {
 
                 {/* Phase 4 */}
                 <div className="p-6 rounded-2xl bg-white border border-slate-200 shadow-sm">
-                  <h3 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
+                  <h4 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
                     <span className="w-7 h-7 rounded-lg bg-blue-50 text-[#1F5EFF] font-black text-sm flex items-center justify-center border border-blue-200">4</span>
                     Managing Counter-Demands &amp; Credit Committee Approval Matrix
-                  </h3>
+                  </h4>
                   <p className="text-slate-600 text-sm md:text-base leading-relaxed">
                     Credila may first offer only 10% to 20% off. Our lawyer replies that funds come from family aid. This moves the Credit Desk to a 40% to 60% waiver.
                   </p>
@@ -859,10 +859,10 @@ export default function HdfcCredilaEducationLoanSettlementPage() {
 
                 {/* Phase 5 */}
                 <div className="p-6 rounded-2xl bg-white border border-slate-200 shadow-sm">
-                  <h3 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
+                  <h4 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
                     <span className="w-7 h-7 rounded-lg bg-blue-50 text-[#1F5EFF] font-black text-sm flex items-center justify-center border border-blue-200">5</span>
                     Rigorous Forensic Audit of the Official OTS Sanction Letter
-                  </h3>
+                  </h4>
                   <p className="text-slate-600 text-sm md:text-base leading-relaxed">
                     Make sure Credila gives an OTS letter on official letterhead. It must list your loan number, settlement sum, and due dates. It must state that all claims are closed.
                   </p>
@@ -870,10 +870,10 @@ export default function HdfcCredilaEducationLoanSettlementPage() {
 
                 {/* Phase 6 */}
                 <div className="p-6 rounded-2xl bg-white border border-slate-200 shadow-sm">
-                  <h3 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
+                  <h4 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
                     <span className="w-7 h-7 rounded-lg bg-blue-50 text-[#1F5EFF] font-black text-sm flex items-center justify-center border border-blue-200">6</span>
                     Direct Account Remittance, Collateral Retrieval &amp; ₹0 NDC Mandate
-                  </h3>
+                  </h4>
                   <p className="text-slate-600 text-sm md:text-base leading-relaxed">
                     Pay the settlement sum directly to your Credila loan via RTGS or NEFT. Get your ₹0 No Dues Certificate. Get your property deeds back. Clear CERSAI records within 30 days.
                   </p>
@@ -887,7 +887,7 @@ export default function HdfcCredilaEducationLoanSettlementPage() {
                 <Gavel className="w-4 h-4" />
                 <span>7. Legal Proceedings: Section 138, Section 25, SARFAESI &amp; Lok Adalat</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Navigating Credila Sec 138, Sec 25 PSSA &amp; SARFAESI</h2>
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Navigating Credila Sec 138, Sec 25 PSSA &amp; SARFAESI</h3>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 When a study loan is unpaid past 60 to 90 days, Credila starts legal steps. The path depends on whether the loan is unsecured or backed by property.
               </p>
@@ -952,7 +952,7 @@ export default function HdfcCredilaEducationLoanSettlementPage() {
                 <FileCheck className="w-4 h-4" />
                 <span>8. Sanction Letter Audit &amp; Collateral Retrieval</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Authenticating HDFC Credila OTS Sanction Letters</h2>
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Authenticating HDFC Credila OTS Sanction Letters</h3>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Never pay money on verbal agent claims. If you pay without an official letter, Credila puts the cash toward late fees. Your default stays open on credit files.
               </p>
@@ -970,7 +970,7 @@ export default function HdfcCredilaEducationLoanSettlementPage() {
                 <TrendingUp className="w-4 h-4" />
                 <span>9. CIBIL Score Trajectory &amp; Dual Credit Rehabilitation</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">HDFC Credila Post-Settlement CIBIL Trajectory</h2>
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">HDFC Credila Post-Settlement CIBIL Trajectory</h3>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Since study loans have joint signers, settling updates files for both student and parent. Bureaus list the loan as <strong>&apos;Settled&apos;</strong> or <strong>&apos;Post-Write-off Settled&apos;</strong> with a <strong>₹0</strong> balance.
               </p>
@@ -994,9 +994,9 @@ export default function HdfcCredilaEducationLoanSettlementPage() {
                 <ShieldCheck className="w-4 h-4" />
                 <span>10. Legal Defense &amp; Representation</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 Why Distressed HDFC Credila Borrowers Trust SettleLoans
-              </h2>
+              </h3>
               <p className="text-slate-700 leading-relaxed mb-6 text-base md:text-lg">
                 Settling a Credila loan takes good math, legal skill, and firm talks. SettleLoans halts agent abuse against parents with legal notices. We defend Section 138 and Section 25 notices. We also pause SARFAESI claims. We talk directly with Credila Credit Desks to get top debt waivers and ₹0 No Dues Certificates.
               </p>
@@ -1013,7 +1013,7 @@ export default function HdfcCredilaEducationLoanSettlementPage() {
                 <HelpCircle className="w-4 h-4" />
                 <span>11. Frequently Asked Questions</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">FAQs: HDFC Credila Education Loan Settlement</h2>
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">FAQs: HDFC Credila Education Loan Settlement</h3>
 
               <div className="space-y-4">
                 {faqs.map((faq, index) => (
@@ -1039,10 +1039,10 @@ export default function HdfcCredilaEducationLoanSettlementPage() {
 
             {/* Regulatory References & Official Sources Strip */}
             <div className="bg-slate-50 border border-slate-200 rounded-2xl p-6 my-10">
-              <h3 className="text-base font-bold text-slate-900 mb-4 flex items-center gap-2">
+              <h4 className="text-base font-bold text-slate-900 mb-4 flex items-center gap-2">
                 <Landmark className="w-5 h-5 text-[#1F5EFF]" />
                 Official Regulatory References &amp; Statutory Circulars
-              </h3>
+              </h4>
               <ul className="space-y-3 text-xs text-slate-600">
                 <li className="flex items-start gap-2">
                   <ExternalLink className="w-4 h-4 text-[#1F5EFF] flex-shrink-0 mt-0.5" />
@@ -1104,10 +1104,10 @@ export default function HdfcCredilaEducationLoanSettlementPage() {
 
             {/* Related Guides & Resources Strip (10 Topic Badges) */}
             <div className="bg-slate-50 border border-slate-200 rounded-2xl p-6 my-10">
-              <h3 className="text-base font-bold text-slate-900 mb-4 flex items-center gap-2">
+              <h4 className="text-base font-bold text-slate-900 mb-4 flex items-center gap-2">
                 <BookOpen className="w-5 h-5 text-[#1F5EFF]" />
                 Explore Related Banking &amp; Debt Resolution Guides
-              </h3>
+              </h4>
               <div className="flex flex-wrap gap-2.5">
                 <Link
                   href="/are-there-specialized-programs-for-settling-student-loan-defaults-in-india"

@@ -281,21 +281,21 @@ export default function DigitalLendingSettlementPage() {
             </section>
 
             <section id="what-is-digital-lending" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">What Are Digital Lending Companies in India?</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">What Are Digital Lending Companies in India?</h3>
               <p className="text-lg leading-relaxed mb-6">Digital lending companies, often referred to as fintech lenders, are platforms that use technology to provide loans. In the Indian context, these companies usually operate as Digital Lending Apps (DLAs) or Lending Service Providers (LSPs). However, the actual money you receive comes from a Regulated Entity (RE), which is typically a bank or an NBFC.</p>
               <p className="text-lg leading-relaxed mb-6">These companies have filled a massive gap in the Indian market, providing credit to those who might be overlooked by traditional banks due to a lack of formal income proof or a thin credit file. They use alternative data points, such as your digital footprint and transaction history, to assess creditworthiness. This has led to an explosion of \"instant loans\" and \"Buy Now Pay Later\" (BNPL) schemes across the country.</p>
               <p className="text-lg leading-relaxed">While the user interface might be a sleek mobile app, the underlying logic is governed by RBI regulations. These platforms must be transparent about their lending partners and provide a Key Fact Statement (KFS) to every borrower. Understanding that your \"app loan\" is actually a formal agreement with a regulated NBFC is the first step toward handling a settlement request professionally.</p>
             </section>
 
             <section id="settlement-processing" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">How Fintech Lenders Process Loan Settlement Requests</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">How Fintech Lenders Process Loan Settlement Requests</h3>
               <p className="text-lg leading-relaxed mb-6">Fintech lenders process settlement requests differently than traditional institutions. Their decision making is often faster and driven by automated risk assessment models. When you submit a request for a loan settlement, the lender evaluates the \"Cost of Recovery\" versus the \"Settlement Offer.\"</p>
               <p className="text-lg leading-relaxed mb-6">Digital lenders are often more pragmatic. They know that chasing a small loan for years might cost them more in legal fees and collection agency commissions than what they would recover. Therefore, if a borrower can prove genuine financial hardship, fintech lenders are often willing to listen.</p>
               <p className="text-lg leading-relaxed">The processing usually follows a tiered approach. Initially, the automated system flags the account as delinquent. If the default continues for 90 days, the loan is classified as a Non-Performing Asset (NPA). At this stage, the \"Settlement Desk\" of the NBFC takes over. They look at your past behavior, the reason for default (such as job loss or medical emergency), and your current capacity to pay a lump sum.</p>
             </section>
 
             <section id="workflow" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">Step-by-Step Settlement Workflow (End-to-End)</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">Step-by-Step Settlement Workflow (End-to-End)</h3>
               <div className="space-y-6">
                 <div className="flex gap-4">
                   <div className="flex-shrink-0 w-8 h-8 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center font-bold">1</div>
@@ -329,13 +329,13 @@ export default function DigitalLendingSettlementPage() {
             </section>
 
             <section id="nbfc-role" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">Role of NBFCs and Lending Partners</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">Role of NBFCs and Lending Partners</h3>
               <p className="text-lg leading-relaxed mb-6">It is a common mistake to think that the app itself is the lender. In reality, most digital lending apps in India are front-end partners for established NBFCs. These NBFCs are the ones that hold the license from the RBI to lend money and report to credit bureaus.</p>
               <p className="text-lg leading-relaxed">The relationship between the app (LSP) and the NBFC (RE) is governed by strict RBI guidelines. The NBFC is legally responsible for the actions of the app and its recovery agents. This means if an app's recovery team is harassing you, the NBFC is the entity that will be held accountable by the regulator. When you are negotiating a settlement, you are essentially dealing with the NBFC's recovery department.</p>
             </section>
 
             <section id="rbi-guidelines" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">RBI Regulations and Compliance for Digital Lending</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">RBI Regulations and Compliance for Digital Lending</h3>
               <p className="text-lg leading-relaxed mb-6">The Reserve Bank of India has taken significant steps to protect borrowers in the digital era. The \"Digital Lending Guidelines\" issued in 2022 and updated in 2025 are the cornerstone of borrower protection.</p>
               <div className="bg-[#1F5EFF]/5 p-8 rounded-2xl border border-[#1F5EFF]/20 mb-8">
                 <ul className="space-y-4 text-lg">
@@ -349,13 +349,13 @@ export default function DigitalLendingSettlementPage() {
             </section>
 
             <section id="app-defaults" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">How Apps Like Instant Loan Apps Handle Defaults</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">How Apps Like Instant Loan Apps Handle Defaults</h3>
               <p className="text-lg leading-relaxed mb-6">The recovery process for instant loan apps is often aggressive and highly automated. These apps operate on thin margins and high volumes, meaning they cannot afford long-term defaults. When a borrower misses a payment on an instant loan app, the machine takes over immediately.</p>
               <p className="text-lg leading-relaxed">In the first few days, you will experience a barrage of automated calls and messages. High-risk borrowers are often handed over to external collection agencies much faster than they would be in a traditional bank setting. This is a major reason why borrowers seek the help of professional firms like **amalegalsolutions.com** to put a stop to such harassment.</p>
             </section>
 
             <section id="negotiation-strategies" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">Settlement Negotiation Strategies Used by Lenders</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">Settlement Negotiation Strategies Used by Lenders</h3>
               <p className="text-lg leading-relaxed mb-6">When it comes to negotiation, digital lenders have a \"playbook\" they follow. Understanding their strategies allows you to counter them effectively.</p>
               <ul className="list-disc pl-6 space-y-4 text-lg leading-relaxed mb-6">
                 <li><strong>The \"Final Offer\" Tactic:</strong> Lenders will often tell you that a certain offer is only valid for 24 hours. This is usually a pressure tactic.</li>
@@ -366,23 +366,23 @@ export default function DigitalLendingSettlementPage() {
             </section>
 
             <section id="cibil-impact" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">Impact on CIBIL Score and Credit Report</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">Impact on CIBIL Score and Credit Report</h3>
               <p className="text-lg leading-relaxed mb-6">Settling a loan is a serious financial decision because of its impact on your credit history. When you settle a loan, your credit report will not say \"Closed.\" Instead, it will be marked as \"Settled.\"</p>
               <p className="text-lg leading-relaxed mb-6">This \"Settled\" status tells future lenders that you did not pay back the full amount you borrowed. While it is better than a \"Suit Filed\" status, it still has a negative weight. Your CIBIL score will likely drop significantly, often by 75 to 100 points.</p>
               <p className="text-lg leading-relaxed">Furthermore, this status remains on your credit report for seven years. However, if your alternative is a lifetime of debt and harassment, a settlement followed by a disciplined credit rebuilding phase (with the help of **settleloans.in**) is often the best path forward.</p>
             </section>
 
             <section id="legal-implications" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">Legal Implications of Settling Digital Loans</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">Legal Implications of Settling Digital Loans</h3>
               <p className="text-lg leading-relaxed mb-6">Is settling a digital loan legal? Yes, it is a perfectly legal compromise between a lender and a borrower. Once an OTS letter is issued and the payment is made, the lender is legally barred from pursuing you further for that specific debt.</p>
               <p className="text-lg leading-relaxed text-red-600 font-bold italic">CAUTION: If you default on a settlement agreement by missing the payment deadline in the OTS letter, the agreement becomes null and void. The lender can then revert to the original outstanding amount.</p>
             </section>
 
             <section id="bank-vs-fintech" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">Bank Loans vs Fintech Loan Settlement: The Key Differences</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">Bank Loans vs Fintech Loan Settlement: The Key Differences</h3>
               <div className="grid grid-cols-1 md:grid-cols-2 gap-6 mb-8">
                 <div className="p-6 bg-gray-50 rounded-xl border border-gray-200">
-                  <h3 className="text-xl font-bold mb-4">Fintech Lenders</h3>
+                  <h4 className="text-xl font-bold mb-4">Fintech Lenders</h4>
                   <ul className="space-y-2 text-md">
                     <li>• Speed: Can be finalized in a week.</li>
                     <li>• Flexibility: More willing on unsecured loans.</li>
@@ -390,7 +390,7 @@ export default function DigitalLendingSettlementPage() {
                   </ul>
                 </div>
                 <div className="p-6 bg-gray-50 rounded-xl border border-gray-200">
-                  <h3 className="text-xl font-bold mb-4">Traditional Banks</h3>
+                  <h4 className="text-xl font-bold mb-4">Traditional Banks</h4>
                   <ul className="space-y-2 text-md">
                     <li>• Speed: Can take several months.</li>
                     <li>• Flexibility: More rigid, policy-driven.</li>
@@ -401,31 +401,31 @@ export default function DigitalLendingSettlementPage() {
             </section>
 
             <section id="recovery-mechanisms" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">Internal Recovery Mechanisms Used by Digital Lenders</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">Internal Recovery Mechanisms Used by Digital Lenders</h3>
               <p className="text-lg leading-relaxed mb-6">Digital lenders use sophisticated \"Collection Scoring\" models. These models predict which borrowers are likely to pay back if nudged and which ones will require a settlement offer.</p>
               <p className="text-lg leading-relaxed">They also use \"Auto-Dialers\" that can make hundreds of calls a day. If you stop picking up, the system automatically escalates your file. By engaging with a service like **amalegalsolutions.com**, you can ensure that these automated systems are managed professionally, reducing the stress on your family.</p>
             </section>
 
             <section id="collection-agencies" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">Use of Collection Agencies and Legal Notices</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">Use of Collection Agencies and Legal Notices</h3>
               <p className="text-lg leading-relaxed mb-6">When internal recovery fails, digital lenders outsource the file to third-party collection agencies. These agencies are paid on a commission basis, which sometimes leads them to use aggressive tactics.</p>
               <p className="text-lg leading-relaxed">According to RBI rules, you have the right to see the identity card of any recovery agent who visits you. Lenders will also send formal legal notices. If you receive a notice, it is the perfect time to involve a legal expert from **credsettle.com** to reply and initiate settlement talks.</p>
             </section>
 
             <section id="ai-automation" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">AI and Automation in Debt Recovery</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">AI and Automation in Debt Recovery</h3>
               <p className="text-lg leading-relaxed mb-6">The fintech world is heavily reliant on Artificial Intelligence. In debt recovery, AI is used for segmentation, chatbots, and predictive analytics. Knowing exactly when to offer a \"50% Waiver\" maximizes the chances of a borrower accepting.</p>
               <p className="text-lg leading-relaxed">While AI makes the process efficient, it can feel cold and robotic. Understanding that you are often dealing with an algorithm allows you to present your case in a way that the \"Machine\" recognizes as a \"High Hardship/Low Recovery\" scenario.</p>
             </section>
 
             <section id="decision-logic" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">When Settlement is Accepted or Rejected</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">When Settlement is Accepted or Rejected</h3>
               <p className="text-lg leading-relaxed mb-6">Lenders don't accept every settlement request. Rejection usually happens if the lender's investigation shows you have significant assets or a high-paying job. Lenders also rarely settle a loan that was taken just a few months ago.</p>
               <p className="text-lg leading-relaxed">Conversely, a settlement is usually accepted when the borrower is transparent, provides solid proof, and offers a realistic lump sum that is higher than what the lender would get after 3 years of legal battles.</p>
             </section>
 
             <section id="common-mistakes" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">Common Borrower Mistakes During Settlement</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">Common Borrower Mistakes During Settlement</h3>
               <div className="bg-red-50 p-8 rounded-xl border border-red-200 mb-8">
                 <ol className="space-y-4 text-lg">
                   <li><strong>Paying without an OTS Letter:</strong> Never pay a single rupee based on a verbal promise.</li>
@@ -437,26 +437,26 @@ export default function DigitalLendingSettlementPage() {
             </section>
 
             <section id="hidden-charges" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">Hidden Charges and Penalties</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">Hidden Charges and Penalties</h3>
               <p className="text-lg leading-relaxed mb-6">Digital loans are notorious for hidden charges. When you default, these can include bounce charges, penal interest, collection costs, and legal fees. During a settlement, a firm like **settleloans.in** will ensure that all these predatory charges are waived.</p>
             </section>
 
             <section id="case-examples" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">Case Examples of Digital Loan Settlement</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">Case Examples of Digital Loan Settlement</h3>
               <div className="space-y-8">
                 <div className="bg-gray-50 p-8 rounded-xl border border-gray-200 shadow-sm">
-                  <h3 className="text-2xl font-black mb-4 flex items-center gap-3">
+                  <h4 className="text-2xl font-black mb-4 flex items-center gap-3">
                     <span className="w-8 h-8 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center text-sm">1</span>
                     Small Loan App Default
-                  </h3>
+                  </h4>
                   <p className="text-lg leading-relaxed mb-4"><strong>The Scenario:</strong> Rajesh, a delivery partner in Bengaluru, took a ₹20,000 loan from an instant app for a family emergency. Due to an accident, he couldn't work for two months and missed his payments. Within 15 days, the app began calling his family, using contacts scraped from his phone.</p>
                   <p className="text-lg leading-relaxed"><strong>The Resolution:</strong> Rajesh contacted **amalegalsolutions.com**. They sent a formal notice to the NBFC backing the app, highlighting the RBI violation. The harassment stopped immediately. The lender agreed to settle the debt for ₹12,000 as a one-time payment. Rajesh paid the amount and received his NDC within 48 hours.</p>
                 </div>
                 <div className="bg-gray-50 p-8 rounded-xl border border-gray-200 shadow-sm">
-                  <h3 className="text-2xl font-black mb-4 flex items-center gap-3">
+                  <h4 className="text-2xl font-black mb-4 flex items-center gap-3">
                     <span className="w-8 h-8 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center text-sm">2</span>
                     Structured Fintech Loan Settlement
-                  </h3>
+                  </h4>
                   <p className="text-lg leading-relaxed mb-4"><strong>The Scenario:</strong> Sunita, a software engineer in Pune, had a ₹5 Lakh personal loan from a major fintech lender. She lost her job and her debt ballooned to ₹6.5 Lakh with interest and penalties. She had zero income for 8 months.</p>
                   <p className="text-lg leading-relaxed"><strong>The Resolution:</strong> Sunita worked with **credsettle.com**. They prepared a comprehensive hardship file with her termination letter. They negotiated for three months. Finally, the lender issued an OTS for ₹3 Lakh, a 40% waiver on the principal and a 100% waiver on interest. Sunita used her provident fund to pay and secured her financial future.</p>
                 </div>
@@ -464,7 +464,7 @@ export default function DigitalLendingSettlementPage() {
             </section>
 
             <section id="psychological-impact" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">The Psychological Impact of Digital Debt</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">The Psychological Impact of Digital Debt</h3>
               <p className="text-lg leading-relaxed mb-6">The burden of debt is not just financial; it is deeply psychological. In the Indian context, where family reputation is tied to financial stability, falling into a debt trap leads to severe stress. Digital lending, with its high-frequency notifications and aggressive tactics, can amplify this anxiety.</p>
               <div className="bg-[#1F5EFF]/5 p-8 rounded-2xl border border-[#1F5EFF]/20 mb-8">
                 <p className="text-lg leading-relaxed italics">Many borrowers report feeling a constant sense of dread every time their phone pings. The fear of an automated call or a message to a contact list creates an environment of persistent anxiety. This "digital harrassment" is why seeking professional help from firms like **amalegalsolutions.com** is vital for mental peace.</p>
@@ -472,38 +472,38 @@ export default function DigitalLendingSettlementPage() {
             </section>
 
             <section id="rebuilding-credit" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">Rebuilding Your Financial Life After Settlement</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">Rebuilding Your Financial Life After Settlement</h3>
               <p className="text-lg leading-relaxed mb-6">Once the settlement is finalized and you have your No Dues Certificate, the real work of financial reconstruction begins. A settlement is a fresh start, but it requires a change in habits and a strategic approach to credit rebuilding.</p>
               <div className="grid grid-cols-1 md:grid-cols-2 gap-6 mb-8">
                 <div className="p-6 bg-white border border-[#DEDEDE] rounded-xl hover:shadow-md transition-shadow">
-                  <h3 className="font-bold text-[#1F5EFF] mb-2 uppercase tracking-tighter">Step 1: Verification</h3>
+                  <h4 className="font-bold text-[#1F5EFF] mb-2 uppercase tracking-tighter">Step 1: Verification</h4>
                   <p className="text-sm">Within 60 days, check your CIBIL report. Ensure it is marked as "Settled." Use the CIBIL dispute portal if it still shows as "Overdue."</p>
                 </div>
                 <div className="p-6 bg-white border border-[#DEDEDE] rounded-xl hover:shadow-md transition-shadow">
-                  <h4 className="font-bold text-[#1F5EFF] mb-2 uppercase tracking-tighter">Step 2: Secured Credit</h4>
+                  <h5 className="font-bold text-[#1F5EFF] mb-2 uppercase tracking-tighter">Step 2: Secured Credit</h5>
                   <p className="text-sm">Apply for a Fixed Deposit backed Credit Card. This allows you to build a new history of timely payments without risk for the bank.</p>
                 </div>
                 <div className="p-6 bg-white border border-[#DEDEDE] rounded-xl hover:shadow-md transition-shadow">
-                  <h4 className="font-bold text-[#1F5EFF] mb-2 uppercase tracking-tighter">Step 3: Budgeting</h4>
+                  <h5 className="font-bold text-[#1F5EFF] mb-2 uppercase tracking-tighter">Step 3: Budgeting</h5>
                   <p className="text-sm">Adopt the 50-30-20 rule. Allocate 50% to needs, 30% to wants, and 20% to savings. Build an emergency fund of 3 months.</p>
                 </div>
                 <div className="p-6 bg-white border border-[#DEDEDE] rounded-xl hover:shadow-md transition-shadow">
-                  <h4 className="font-bold text-[#1F5EFF] mb-2 uppercase tracking-tighter">Step 4: Monitoring</h4>
+                  <h5 className="font-bold text-[#1F5EFF] mb-2 uppercase tracking-tighter">Step 4: Monitoring</h5>
                   <p className="text-sm">Use monitoring tools provided by **settleloans.in** to track your credit score quarterly and watch your rank improve.</p>
                 </div>
               </div>
             </section>
 
             <section id="technical-deep-dive" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">Data Privacy and the DPDP Act 2023</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">Data Privacy and the DPDP Act 2023</h3>
               <p className="text-lg leading-relaxed mb-6">The Digital Personal Data Protection (DPDP) Act of 2023 has fundamentally changed how digital lending companies handle your information. Every piece of data collected must have a clear "Business Purpose." Once a loan is settled, the lender no longer has a legal right to keep your sensitive data.</p>
               <p className="text-lg leading-relaxed mb-6">If an app uses your personal data to contact people not mentioned in your application, they are committing a significant legal breach. A lender would much rather settle a small debt than face a ₹250 Crore penalty for data misuse. Firms like **amalegalsolutions.com** specialize in using these violations as leverage.</p>
-              <h3 className="text-2xl font-bold mb-4">Digital Forensics in Recovery</h3>
+              <h4 className="text-2xl font-bold mb-4">Digital Forensics in Recovery</h4>
               <p className="text-lg leading-relaxed">Lenders use transaction pattern analysis and social media scraping to track your propensity to pay. Apps can also see the type of phone you use. A borrower using a flagship phone while claiming they cannot pay a small EMI will face tougher negotiations. Consistency in your digital footprint is key.</p>
             </section>
 
             <section id="comparison-table" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">Detailed Comparison: Fintech vs Traditional Banks</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">Detailed Comparison: Fintech vs Traditional Banks</h3>
               <div className="overflow-x-auto mb-8 border border-[#DEDEDE] rounded-xl shadow-sm">
                 <table className="w-full text-left border-collapse">
                   <thead>
@@ -540,7 +540,7 @@ export default function DigitalLendingSettlementPage() {
             </section>
 
             <section id="settlement-checklist" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">The Ultimate Settlement Checklist</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">The Ultimate Settlement Checklist</h3>
               <div className="space-y-4 text-lg">
                 {[
                   "Gather loan documents and the Key Fact Statement (KFS).",
@@ -563,7 +563,7 @@ export default function DigitalLendingSettlementPage() {
             </section>
 
             <section id="glossary" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">Glossary of Digital Lending Terms</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">Glossary of Digital Lending Terms</h3>
               <div className="grid grid-cols-1 md:grid-cols-2 gap-8">
                 <div>
                   <dt className="font-black text-[#1F5EFF] text-lg mb-1">APR (Annual Percentage Rate)</dt>
@@ -584,7 +584,7 @@ export default function DigitalLendingSettlementPage() {
               </div>
             </section>
             <section id="success-stories" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 text-center">Real Stories of Freedom</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 text-center">Real Stories of Freedom</h3>
               <div className="grid md:grid-cols-2 gap-6 not-prose">
                 {[
                   {
@@ -622,7 +622,7 @@ export default function DigitalLendingSettlementPage() {
                         {review.name.charAt(0)}
                       </div>
                       <div>
-                        <h3 className="font-bold text-[#2E2E2E]">{review.name}</h3>
+                        <h4 className="font-bold text-[#2E2E2E]">{review.name}</h4>
                         <p className="text-xs text-gray-400">{review.loc}</p>
                       </div>
                       <div className="ml-auto text-yellow-400 text-sm">★★★★★</div>
@@ -637,7 +637,7 @@ export default function DigitalLendingSettlementPage() {
             </section>
 
             <section id="faqs" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Frequently Asked Questions</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Frequently Asked Questions</h3>
               <div className="space-y-4">
                 {[
                   {
@@ -694,7 +694,7 @@ export default function DigitalLendingSettlementPage() {
 
         {/* Bottom CTA */}
         <section className="w-full bg-[#1F5EFF] py-16 px-4 text-center">
-          <h2 className="text-3xl md:text-5xl font-black text-white mb-8">Reclaim Your Financial Dignity Today</h2>
+          <h3 className="text-3xl md:text-5xl font-black text-white mb-8">Reclaim Your Financial Dignity Today</h3>
           <Link href="/contact" className="inline-block bg-white text-[#1F5EFF] font-black py-4 px-12 rounded-xl text-xl hover:scale-105 transition-all shadow-2xl">Contact SettleLoans Experts</Link>
         </section>
       </main>

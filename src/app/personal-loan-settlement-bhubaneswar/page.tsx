@@ -599,9 +599,9 @@ export default function PersonalLoanSettlementBhubaneswarPage() {
                 <Scale className="w-4 h-4" />
                 <span>2. Civil Law Rights &amp; RBI Anti-Harassment Protections</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 Statutory Civil Protections &amp; RBI Anti-Harassment Mandates
-              </h2>
+              </h3>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 When EMIs bounce, banks assign files to collection agencies. However, the RBI sets strict rules on collection conduct. Agents may only call between 8:00 AM and 7:00 PM. Calling coworkers, HR teams in Infocity, or non-guarantor relatives is illegal. Agents cannot use abusive words or make surprise home visits. They must carry official bank ID cards.
               </p>
@@ -616,7 +616,7 @@ export default function PersonalLoanSettlementBhubaneswarPage() {
                 <Clock className="w-4 h-4" />
                 <span>3. Delinquency Timeline &amp; Bank NPA Balance-Sheet Accounting</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Delinquency Lifecycle &amp; NPA Stages in Bhubaneswar</h2>
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Delinquency Lifecycle &amp; NPA Stages in Bhubaneswar</h3>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Overdue loans follow RBI asset classification rules (IRACP) and Ind AS 109. After 90 days past due, the bank marks the loan as a Non-Performing Asset (NPA). The bank stops adding interest to its books. It also sets aside capital reserves to cover the loss. The bank now focuses on recovering its core capital.
               </p>
@@ -684,7 +684,7 @@ export default function PersonalLoanSettlementBhubaneswarPage() {
                 <Calculator className="w-4 h-4" />
                 <span>4. Mathematical NPV Valuation &amp; Bank Haircut Matrix</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">NPV Valuation Logic &amp; Haircuts in Bhubaneswar</h2>
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">NPV Valuation Logic &amp; Haircuts in Bhubaneswar</h3>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Banks review settlement proposals using RBI Net Present Value (NPV) rules. Unsecured loans carry no collateral. Banks compare settlement cash against slow court lawsuits. Order 37 CPC suits take 3 to 5 years in court. They involve high legal costs and locked bad loan funds. An early settlement gives banks better net cash value.
               </p>
@@ -704,7 +704,7 @@ export default function PersonalLoanSettlementBhubaneswarPage() {
               </div>
 
               {/* Settlement Haircut Slabs Table */}
-              <h3 className="text-lg font-bold text-slate-900 mb-3">Realistic Settlement Haircut Slabs by Product &amp; Aging in Bhubaneswar</h3>
+              <h4 className="text-lg font-bold text-slate-900 mb-3">Realistic Settlement Haircut Slabs by Product &amp; Aging in Bhubaneswar</h4>
               <div className="overflow-x-auto my-4">
                 <table className="min-w-full bg-white">
                   <thead>
@@ -762,9 +762,9 @@ export default function PersonalLoanSettlementBhubaneswarPage() {
                       <span className="text-[10px] font-black uppercase tracking-widest text-blue-300 block">
                         Legal Defense &amp; Action Blueprint
                       </span>
-                      <h3 className="text-sm md:text-base font-black text-white leading-tight">
+                      <h4 className="text-sm md:text-base font-black text-white leading-tight">
                         Bhubaneswar Loan Settlement &amp; Legal Defense Roadmap
-                      </h3>
+                      </h4>
                     </div>
                   </div>
                   <a
@@ -811,7 +811,7 @@ export default function PersonalLoanSettlementBhubaneswarPage() {
                 <Gavel className="w-4 h-4" />
                 <span>6. Defending SARB Notices, Section 138 &amp; PSSA in Bhubaneswar</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Defending SARB Demands &amp; Sec 138 in Bhubaneswar</h2>
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Defending SARB Demands &amp; Sec 138 in Bhubaneswar</h3>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 When defaults pass 90 days, banks transfer cases to Stressed Assets Recovery Branches (SARB) in Bhubaneswar. These include SBI SARB in Ashok Nagar or PNB in Saheed Nagar. Lenders send 15-day demand notices. They file under Section 138 of the NI Act for cheques. They file under Section 25 of the PSSA for failed e-mandates.
               </p>
@@ -826,7 +826,7 @@ export default function PersonalLoanSettlementBhubaneswarPage() {
                 <Landmark className="w-4 h-4" />
                 <span>7. Lok Adalat Conciliation at DLSA Khordha &amp; Cuttack</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Settling via National Lok Adalat in Bhubaneswar</h2>
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Settling via National Lok Adalat in Bhubaneswar</h3>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 The DLSA Khordha hosts quarterly National Lok Adalats at Nyaya Seva Sadan in Bhubaneswar Court. DLSA Cuttack also offers this conciliation process. Bank officers attend with authority. They grant 40% to 60% principal waivers. They also waive 100% of penal fees.
               </p>
@@ -841,7 +841,7 @@ export default function PersonalLoanSettlementBhubaneswarPage() {
                 <Layers className="w-4 h-4" />
                 <span>8. Step-by-Step Advocate Negotiation Roadmap</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Step-by-Step Settlement Blueprint in Bhubaneswar</h2>
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Step-by-Step Settlement Blueprint in Bhubaneswar</h3>
               <p className="text-slate-700 leading-relaxed mb-6 text-base md:text-lg">
                 Achieving a binding One-Time Settlement requires a clear legal strategy across six phases:
               </p>
@@ -849,10 +849,10 @@ export default function PersonalLoanSettlementBhubaneswarPage() {
               <div className="space-y-6">
                 {/* Phase 1 */}
                 <div className="p-6 rounded-2xl bg-white border border-slate-200 shadow-sm">
-                  <h3 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
+                  <h4 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
                     <span className="w-7 h-7 rounded-lg bg-blue-50 text-[#1F5EFF] font-black text-sm flex items-center justify-center border border-blue-200">1</span>
                     Comprehensive Financial Hardship Dossier Compilation
-                  </h3>
+                  </h4>
                   <p className="text-slate-600 text-sm md:text-base leading-relaxed">
                     We gather proof of hardship. For example, job loss letters, medical bills, or mining contract payment delays. This proves the default was not willful.
                   </p>
@@ -860,10 +860,10 @@ export default function PersonalLoanSettlementBhubaneswarPage() {
 
                 {/* Phase 2 */}
                 <div className="p-6 rounded-2xl bg-white border border-slate-200 shadow-sm">
-                  <h3 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
+                  <h4 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
                     <span className="w-7 h-7 rounded-lg bg-blue-50 text-[#1F5EFF] font-black text-sm flex items-center justify-center border border-blue-200">2</span>
                     Suspending e-NACH Mandates &amp; Serving Anti-Harassment Cease-and-Desist Notices
-                  </h3>
+                  </h4>
                   <p className="text-slate-600 text-sm md:text-base leading-relaxed">
                     We help you cancel e-NACH mandates under NPCI rules. We also issue legal notices under RBI rules to stop agent visits.
                   </p>
@@ -871,10 +871,10 @@ export default function PersonalLoanSettlementBhubaneswarPage() {
 
                 {/* Phase 3 */}
                 <div className="p-6 rounded-2xl bg-white border border-slate-200 shadow-sm">
-                  <h3 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
+                  <h4 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
                     <span className="w-7 h-7 rounded-lg bg-blue-50 text-[#1F5EFF] font-black text-sm flex items-center justify-center border border-blue-200">3</span>
                     Submitting Institutional OTS Hardship Petition to Bank SARB Desks
-                  </h3>
+                  </h4>
                   <p className="text-slate-600 text-sm md:text-base leading-relaxed">
                     Our lawyers submit a compromise petition under RBI rules directly to the bank Zonal SARB in Bhubaneswar. We propose realistic terms.
                   </p>
@@ -882,10 +882,10 @@ export default function PersonalLoanSettlementBhubaneswarPage() {
 
                 {/* Phase 4 */}
                 <div className="p-6 rounded-2xl bg-white border border-slate-200 shadow-sm">
-                  <h3 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
+                  <h4 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
                     <span className="w-7 h-7 rounded-lg bg-blue-50 text-[#1F5EFF] font-black text-sm flex items-center justify-center border border-blue-200">4</span>
                     Managing Counter-Demands &amp; Securing Credit Committee Approval
-                  </h3>
+                  </h4>
                   <p className="text-slate-600 text-sm md:text-base leading-relaxed">
                     When lenders make counter-offers, we show your true payment capacity. We use NPV math to secure Credit Committee approval for 40% to 60% debt waivers.
                   </p>
@@ -893,10 +893,10 @@ export default function PersonalLoanSettlementBhubaneswarPage() {
 
                 {/* Phase 5 */}
                 <div className="p-6 rounded-2xl bg-white border border-slate-200 shadow-sm">
-                  <h3 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
+                  <h4 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
                     <span className="w-7 h-7 rounded-lg bg-blue-50 text-[#1F5EFF] font-black text-sm flex items-center justify-center border border-blue-200">5</span>
                     Forensic Audit of the OTS Sanction Letter
-                  </h3>
+                  </h4>
                   <p className="text-slate-600 text-sm md:text-base leading-relaxed">
                     We audit the OTS sanction letter on bank letterhead. We verify account numbers, payment schedules. And legal case withdrawal clauses.
                   </p>
@@ -904,10 +904,10 @@ export default function PersonalLoanSettlementBhubaneswarPage() {
 
                 {/* Phase 6 */}
                 <div className="p-6 rounded-2xl bg-white border border-slate-200 shadow-sm">
-                  <h3 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
+                  <h4 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
                     <span className="w-7 h-7 rounded-lg bg-blue-50 text-[#1F5EFF] font-black text-sm flex items-center justify-center border border-blue-200">6</span>
                     Direct Account Remittance &amp; Enforcing Statutory ₹0 NDC Delivery
-                  </h3>
+                  </h4>
                   <p className="text-slate-600 text-sm md:text-base leading-relaxed">
                     You pay the settlement amount directly into your loan account via RTGS/NEFT. Under RBI Circular RBI/2023-24/60, the bank must issue your NDC within 30 days.
                   </p>
@@ -921,7 +921,7 @@ export default function PersonalLoanSettlementBhubaneswarPage() {
                 <FileCheck className="w-4 h-4" />
                 <span>9. Sanction Letter Audit, ₹0 NDC &amp; CIBIL Rehabilitation</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Sanction Letter Audit &amp; NDC in Bhubaneswar</h2>
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Sanction Letter Audit &amp; NDC in Bhubaneswar</h3>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Borrowers in Bhubaneswar must avoid fake settlement letters from agents. Every real sanction letter comes on bank letterhead with reference numbers, official seals. And debt discharge clauses.
               </p>
@@ -936,7 +936,7 @@ export default function PersonalLoanSettlementBhubaneswarPage() {
                 <Briefcase className="w-4 h-4" />
                 <span>10. Comprehensive Debt Resolution Matrix</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Comparative Resolution Matrix in Bhubaneswar</h2>
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Comparative Resolution Matrix in Bhubaneswar</h3>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Reviewing legal debt resolution options helps borrowers in Bhubaneswar and Cuttack choose the best path:
               </p>
@@ -993,7 +993,7 @@ export default function PersonalLoanSettlementBhubaneswarPage() {
                 <ShieldCheck className="w-4 h-4" />
                 <span>11. SettleLoans Legal Advocacy in Bhubaneswar &amp; Odisha</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Why Borrowers in Bhubaneswar Choose SettleLoans</h2>
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Why Borrowers in Bhubaneswar Choose SettleLoans</h3>
               <p className="text-slate-700 leading-relaxed mb-6 text-base md:text-lg">
                 Disputes and court notices need skilled legal support. SettleLoans helps workers and business owners across Bhubaneswar and Cuttack. We stop harassment. We defend notices in local courts. We also appear at DLSA Lok Adalats to secure maximum debt waivers.
               </p>
@@ -1010,7 +1010,7 @@ export default function PersonalLoanSettlementBhubaneswarPage() {
                 <HelpCircle className="w-4 h-4" />
                 <span>12. Frequently Asked Questions</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">FAQs: Personal Loan Settlement in Bhubaneswar</h2>
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">FAQs: Personal Loan Settlement in Bhubaneswar</h3>
 
               <div className="space-y-4">
                 {faqs.map((faq, index) => (
@@ -1037,10 +1037,10 @@ export default function PersonalLoanSettlementBhubaneswarPage() {
 
             {/* Regulatory References & Official Sources Strip (5 Links) */}
             <div className="bg-slate-50 border border-slate-200 rounded-2xl p-6 my-10">
-              <h3 className="text-base font-bold text-slate-900 mb-4 flex items-center gap-2">
+              <h4 className="text-base font-bold text-slate-900 mb-4 flex items-center gap-2">
                 <Landmark className="w-5 h-5 text-[#1F5EFF]" />
                 Official Regulatory References &amp; Statutory Circulars
-              </h3>
+              </h4>
               <ul className="space-y-3 text-xs text-slate-600">
                 <li className="flex items-start gap-2">
                   <ExternalLink className="w-4 h-4 text-[#1F5EFF] flex-shrink-0 mt-0.5" />
@@ -1102,10 +1102,10 @@ export default function PersonalLoanSettlementBhubaneswarPage() {
 
             {/* Related Guides & Resources Strip (10 Topic Badges) */}
             <div className="bg-slate-50 border border-slate-200 rounded-2xl p-6 my-10">
-              <h3 className="text-base font-bold text-slate-900 mb-4 flex items-center gap-2">
+              <h4 className="text-base font-bold text-slate-900 mb-4 flex items-center gap-2">
                 <BookOpen className="w-5 h-5 text-[#1F5EFF]" />
                 Explore Related Banking &amp; Debt Resolution Guides
-              </h3>
+              </h4>
               <div className="flex flex-wrap gap-2.5">
                 <Link
                   href="/bank-one-time-settlement-ots-policy"

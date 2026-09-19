@@ -208,15 +208,15 @@ export default function PersonalLoanDebtSettlementClient() {
                 />
               </div>
 
-              <h2 id="debt-settlement-vs-consolidation" className="scroll-mt-32 mt-12 mb-6 text-[28px] font-bold text-slate-900 tracking-tight block w-fit border-b-[3px] border-[#2D68FF] pb-2">
+              <h3 id="debt-settlement-vs-consolidation" className="scroll-mt-32 mt-12 mb-6 text-[28px] font-bold text-slate-900 tracking-tight block w-fit border-b-[3px] border-[#2D68FF] pb-2">
                 Debt Settlement vs. Consolidation
-              </h2>
+              </h3>
               <p>
                 Many borrowers confuse settlement with consolidation, but they are fundamentally different approaches designed for entirely different financial situations. Knowing which one applies to you can save you time, money, and further damage to your credit profile.
               </p>
               
               <div className="bg-slate-50 rounded-2xl p-6 my-8 border border-slate-100">
-                <h3 className="font-bold text-slate-900 mb-4 text-xl">Key Differences at a Glance</h3>
+                <h4 className="font-bold text-slate-900 mb-4 text-xl">Key Differences at a Glance</h4>
                 <ul className="list-disc pl-5 space-y-3 text-slate-600 marker:text-[#2D68FF]">
                   <li><strong>Mechanism:</strong> Consolidation combines multiple loans into one. Settlement negotiates to pay only a fraction of the outstanding amount.</li>
                   <li><strong>Credit Score Impact:</strong> Consolidation protects or even improves your CIBIL score if paid on time. Settlement severely damages your CIBIL score, dropping it by 50-100 points, as the account is marked "Settled."</li>
@@ -229,9 +229,9 @@ export default function PersonalLoanDebtSettlementClient() {
                 If you have missed several EMIs and the bank is sending legal notices, consolidation is likely no longer an option because no new lender will approve a loan. At this stage, a well-negotiated debt settlement becomes the optimal strategy.
               </p>
 
-              <h2 id="cost-benefit-analysis" className="scroll-mt-32 mt-12 mb-6 text-[28px] font-bold text-slate-900 tracking-tight block w-fit border-b-[3px] border-[#2D68FF] pb-2">
+              <h3 id="cost-benefit-analysis" className="scroll-mt-32 mt-12 mb-6 text-[28px] font-bold text-slate-900 tracking-tight block w-fit border-b-[3px] border-[#2D68FF] pb-2">
                 Cost-Benefit Analysis
-              </h2>
+              </h3>
               <p>
                 To provide a clear picture of how these two strategies compare, we have outlined a comparative analysis below. This is highly useful when deciding the trajectory of your financial recovery.
               </p>
@@ -276,9 +276,9 @@ export default function PersonalLoanDebtSettlementClient() {
                 </table>
               </div>
 
-              <h2 id="legal-implications-india" className="scroll-mt-32 mt-12 mb-6 text-[28px] font-bold text-slate-900 tracking-tight block w-fit border-b-[3px] border-[#2D68FF] pb-2">
+              <h3 id="legal-implications-india" className="scroll-mt-32 mt-12 mb-6 text-[28px] font-bold text-slate-900 tracking-tight block w-fit border-b-[3px] border-[#2D68FF] pb-2">
                 Legal Implications in India (RBI Guidelines)
-              </h2>
+              </h3>
               <p>
                 In India, debt settlement is entirely legal. It is governed by the Indian Contract Act, 1872, where both parties agree to alter the terms of the original contract. Furthermore, the Reserve Bank of India (RBI) provides strict guidelines for banks regarding compromise settlements and the treatment of non-performing assets (NPAs).
               </p>
@@ -289,9 +289,9 @@ export default function PersonalLoanDebtSettlementClient() {
                 Additionally, RBI guidelines strictly prohibit the use of muscle power or harassment by recovery agents. Borrowers have the right to report abusive agents to the Banking Ombudsman or local police.
               </p>
 
-              <h2 id="step-by-step-process" className="scroll-mt-32 mt-12 mb-6 text-[28px] font-bold text-slate-900 tracking-tight block w-fit border-b-[3px] border-[#2D68FF] pb-2">
+              <h3 id="step-by-step-process" className="scroll-mt-32 mt-12 mb-6 text-[28px] font-bold text-slate-900 tracking-tight block w-fit border-b-[3px] border-[#2D68FF] pb-2">
                 Step-by-Step Settlement Process
-              </h2>
+              </h3>
               <p>
                 Approaching your lender for a settlement requires preparation and a clear strategy. Here is the recommended step-by-step approach to achieving a successful personal loan settlement:
               </p>
@@ -310,16 +310,16 @@ export default function PersonalLoanDebtSettlementClient() {
                       {index + 1}
                     </div>
                     <div>
-                      <h3 className="font-bold text-slate-900 text-lg mb-1">{step.title}</h3>
+                      <h4 className="font-bold text-slate-900 text-lg mb-1">{step.title}</h4>
                       <p className="text-slate-600 leading-relaxed text-sm">{step.desc}</p>
                     </div>
                   </div>
                 ))}
               </div>
 
-              <h2 id="impact-on-cibil" className="scroll-mt-32 mt-12 mb-6 text-[28px] font-bold text-slate-900 tracking-tight block w-fit border-b-[3px] border-[#2D68FF] pb-2">
+              <h3 id="impact-on-cibil" className="scroll-mt-32 mt-12 mb-6 text-[28px] font-bold text-slate-900 tracking-tight block w-fit border-b-[3px] border-[#2D68FF] pb-2">
                 Impact on Your CIBIL Score
-              </h2>
+              </h3>
               <p>
                 The most significant drawback of a debt settlement is its effect on your creditworthiness. When a bank writes off a portion of your debt, they report the account status to credit bureaus (like CIBIL, Experian, Equifax) as "Settled" rather than "Closed."
               </p>
@@ -334,7 +334,7 @@ export default function PersonalLoanDebtSettlementClient() {
 
             {/* FAQs Section */}
             <div className="mt-16 pt-12 border-t border-slate-200">
-              <h2 className="text-3xl font-bold text-slate-900 mb-8">Frequently Asked Questions</h2>
+              <h3 className="text-3xl font-bold text-slate-900 mb-8">Frequently Asked Questions</h3>
               <div className="flex flex-col gap-4">
                 {FAQS.map((faq, index) => (
                   <div key={index} className="border border-slate-200 rounded-xl overflow-hidden bg-white">
@@ -362,7 +362,7 @@ export default function PersonalLoanDebtSettlementClient() {
 
             {/* References Section */}
             <div className="mt-16 p-8 bg-slate-50 rounded-2xl border border-slate-200">
-              <h3 className="font-bold text-slate-900 text-xl mb-4">Official References & Legal Citations</h3>
+              <h4 className="font-bold text-slate-900 text-xl mb-4">Official References & Legal Citations</h4>
               <ul className="list-disc pl-5 space-y-2 text-sm text-slate-600">
                 <li><Link href="/top-10-rbi-rules-for-loan-defaulters-rights" className="text-[#2D68FF] hover:underline">Reserve Bank of India (RBI) Guidelines on Fair Practices Code for Lenders</Link></li>
                 <li><a href="https://www.indiacode.gov.in/bitstream/123456789/2187/1/A1872-09.pdf" target="_blank" rel="noopener noreferrer" className="text-[#2D68FF] hover:underline">The Indian Contract Act, 1872 (Section 63 regarding waiver of claims)</a></li>
@@ -423,24 +423,24 @@ export default function PersonalLoanDebtSettlementClient() {
       <div className="bg-slate-50 border-t border-slate-200 py-16">
         <div className="max-w-[1920px] mx-auto px-4 md:px-6 lg:px-8 xl:px-10">
           
-          <h3 className="text-2xl font-bold text-slate-900 mb-8 text-center">More Debt Relief Guides</h3>
+          <h4 className="text-2xl font-bold text-slate-900 mb-8 text-center">More Debt Relief Guides</h4>
           <div className="grid grid-cols-1 md:grid-cols-3 gap-6 mb-16 max-w-5xl mx-auto">
             <Link href="/services/credit-card-settlement" className="block bg-white p-6 rounded-2xl border border-slate-200 hover:border-[#2D68FF] hover:shadow-lg transition-all group">
-              <h4 className="font-bold text-slate-900 mb-2 group-hover:text-[#2D68FF] transition-colors">Credit Card Debt Settlement</h4>
+              <h5 className="font-bold text-slate-900 mb-2 group-hover:text-[#2D68FF] transition-colors">Credit Card Debt Settlement</h5>
               <p className="text-sm text-slate-600">Learn how to negotiate and close your outstanding credit card bills legally.</p>
             </Link>
             <Link href="/business-loan-settlement" className="block bg-white p-6 rounded-2xl border border-slate-200 hover:border-[#2D68FF] hover:shadow-lg transition-all group">
-              <h4 className="font-bold text-slate-900 mb-2 group-hover:text-[#2D68FF] transition-colors">Business Loan Relief</h4>
+              <h5 className="font-bold text-slate-900 mb-2 group-hover:text-[#2D68FF] transition-colors">Business Loan Relief</h5>
               <p className="text-sm text-slate-600">Strategies for MSMEs and business owners facing severe cash crunch and loan defaults.</p>
             </Link>
             <Link href="/recovery-agent-harassment-complaint" className="block bg-white p-6 rounded-2xl border border-slate-200 hover:border-[#2D68FF] hover:shadow-lg transition-all group">
-              <h4 className="font-bold text-slate-900 mb-2 group-hover:text-[#2D68FF] transition-colors">Stop Recovery Harassment</h4>
+              <h5 className="font-bold text-slate-900 mb-2 group-hover:text-[#2D68FF] transition-colors">Stop Recovery Harassment</h5>
               <p className="text-sm text-slate-600">Know your legal rights under RBI guidelines against abusive bank recovery agents.</p>
             </Link>
           </div>
 
           <div className="max-w-4xl mx-auto bg-[#30333A] text-white rounded-[32px] p-10 text-center shadow-2xl">
-            <h3 className="text-3xl font-bold mb-4">About SettleLoans</h3>
+            <h4 className="text-3xl font-bold mb-4">About SettleLoans</h4>
             <p className="text-slate-300 max-w-2xl mx-auto mb-8 leading-relaxed">
               SettleLoans is India's premier debt relief and legal advisory platform. We specialize in protecting borrowers from harassment and negotiating fair, legal, and mutually beneficial settlements with financial institutions. Regain your financial freedom today.
             </p>

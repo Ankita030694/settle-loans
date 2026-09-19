@@ -179,7 +179,7 @@ export default function HowToSettleLoanWithBankPage() {
                         </section>
 
                         <section id="eligibility" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">Who is Eligible for Loan Settlement?</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">Who is Eligible for Loan Settlement?</h3>
                             <p className="text-lg leading-relaxed mb-8">
                                 Not every default qualifies for a settlement. Banks strictly evaluate the "Genuineness of Hardship." To be eligible, you usually need to demonstrate one or more of the following:
                             </p>
@@ -191,7 +191,7 @@ export default function HowToSettleLoanWithBankPage() {
                                     { title: "Legal Deadlock", desc: "Cases tied up in long-term litigation where the bank prefers a quick recovery over time-consuming court battles." }
                                 ].map((item, i) => (
                                     <div key={i} className="p-8 bg-gray-50 rounded-3xl border border-gray-100 group hover:border-[#1F5EFF] transition-all">
-                                        <h3 className="text-xl font-black text-[#2E2E2E] mb-2 group-hover:text-[#1F5EFF]">{item.title}</h3>
+                                        <h4 className="text-xl font-black text-[#2E2E2E] mb-2 group-hover:text-[#1F5EFF]">{item.title}</h4>
                                         <p className="text-sm leading-relaxed text-[#747474]">{item.desc}</p>
                                     </div>
                                 ))}
@@ -199,47 +199,47 @@ export default function HowToSettleLoanWithBankPage() {
                         </section>
 
                         <section id="step-by-step" className="scroll-mt-32 mb-16 text-white bg-[#2E2E2E] p-12 rounded-[40px] border-l-[12px] border-[#1F5EFF]">
-                            <h2 className="text-3xl md:text-4xl font-black mb-8 leading-tight">The 6-Step Legal Process</h2>
+                            <h3 className="text-3xl md:text-4xl font-black mb-8 leading-tight">The 6-Step Legal Process</h3>
                             <div className="space-y-10">
                                 <div className="flex gap-8">
                                     <span className="text-5xl font-black text-[#1F5EFF]">01</span>
                                     <div>
-                                        <h3 className="text-2xl font-bold mb-2 text-[#DEDEDE]">Financial Assessment</h3>
+                                        <h4 className="text-2xl font-bold mb-2 text-[#DEDEDE]">Financial Assessment</h4>
                                         <p className="opacity-70 text-lg">Calculate your real debt. Separate the principal from the interest, penal charges, and processing fees. Determine the maximum lump-sum you can realistically pay.</p>
                                     </div>
                                 </div>
                                 <div className="flex gap-8">
                                     <span className="text-5xl font-black text-[#1F5EFF]">02</span>
                                     <div>
-                                        <h4 className="text-2xl font-bold mb-2 text-[#DEDEDE]">Formal Hardship Declaration</h4>
+                                        <h5 className="text-2xl font-bold mb-2 text-[#DEDEDE]">Formal Hardship Declaration</h5>
                                         <p className="opacity-70 text-lg">Send a formal legal notice or a hardship letter to the Branch Manager and Zonal Office. Clearly explain your situation and express your intent to resolve the debt.</p>
                                     </div>
                                 </div>
                                 <div className="flex gap-8">
                                     <span className="text-5xl font-black text-[#1F5EFF]">03</span>
                                     <div>
-                                        <h4 className="text-2xl font-bold mb-2 text-[#DEDEDE]">Entry into Negotiation</h4>
+                                        <h5 className="text-2xl font-bold mb-2 text-[#DEDEDE]">Entry into Negotiation</h5>
                                         <p className="opacity-70 text-lg">Once the loan is 90 days overdue (NPA), the bank's appetite for settlement increases. This is the 'Golden Window' to start negotiations.</p>
                                     </div>
                                 </div>
                                 <div className="flex gap-8">
                                     <span className="text-5xl font-black text-[#1F5EFF]">04</span>
                                     <div>
-                                        <h4 className="text-2xl font-bold mb-2 text-[#DEDEDE]">Validation of Offer</h4>
+                                        <h5 className="text-2xl font-bold mb-2 text-[#DEDEDE]">Validation of Offer</h5>
                                         <p className="opacity-70 text-lg">Wait for a formal written offer. Never make a payment based on verbal promises from recovery agents or branch staff.</p>
                                     </div>
                                 </div>
                                 <div className="flex gap-8">
                                     <span className="text-5xl font-black text-[#1F5EFF]">05</span>
                                     <div>
-                                        <h4 className="text-2xl font-bold mb-2 text-[#DEDEDE]">The One-Time Payment</h4>
+                                        <h5 className="text-2xl font-bold mb-2 text-[#DEDEDE]">The One-Time Payment</h5>
                                         <p className="opacity-70 text-lg">Pay the agreed amount through a traceable channel (Demand Draft, NEFT) directly into the bank's loan settlement account.</p>
                                     </div>
                                 </div>
                                 <div className="flex gap-8">
                                     <span className="text-5xl font-black text-[#1F5EFF]">06</span>
                                     <div>
-                                        <h4 className="text-2xl font-bold mb-2 text-[#DEDEDE]">NDC & Closure</h4>
+                                        <h5 className="text-2xl font-bold mb-2 text-[#DEDEDE]">NDC & Closure</h5>
                                         <p className="opacity-70 text-lg">Obtain your No-Dues Certificate (NDC). Ensure the bank updates the status as 'Settled' on CIBIL and returns any original documents.</p>
                                     </div>
                                 </div>
@@ -247,28 +247,28 @@ export default function HowToSettleLoanWithBankPage() {
                         </section>
 
                         <section id="rbi-guidelines" className="scroll-mt-32 mb-16 mt-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">Key RBI Guidelines for 2024-25</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">Key RBI Guidelines for 2024-25</h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 The RBI has tightened its oversight to protect borrowers from arbitrary treatment. Here are the pillars of the current regulatory framework:
                             </p>
                             <div className="space-y-6">
                                 <div className="p-6 border-l-4 border-green-500 bg-green-50">
-                                    <h3 className="font-black text-green-800 mb-2 underline tracking-tighter uppercase">Board-Approved Policies</h3>
+                                    <h4 className="font-black text-green-800 mb-2 underline tracking-tighter uppercase">Board-Approved Policies</h4>
                                     <p className="text-green-900 leading-relaxed">No bank can deny a settlement without a valid reason if the borrower meets the board-approved criteria. You have the right to ask for a summary of these criteria.</p>
                                 </div>
                                 <div className="p-6 border-l-4 border-blue-500 bg-blue-50">
-                                    <h4 className="font-black text-blue-800 mb-2 underline tracking-tighter uppercase">Document Release Mandate</h4>
+                                    <h5 className="font-black text-blue-800 mb-2 underline tracking-tighter uppercase">Document Release Mandate</h5>
                                     <p className="text-blue-900 leading-relaxed">Banks must release all original property documents within 30 days of full settlement. Failure to do so attracts a penalty of Rs. 5,000 per day payable to the borrower.</p>
                                 </div>
                                 <div className="p-6 border-l-4 border-yellow-500 bg-yellow-50">
-                                    <h4 className="font-black text-yellow-800 mb-2 underline tracking-tighter uppercase">Settlement for Wilful Defaulters</h4>
+                                    <h5 className="font-black text-yellow-800 mb-2 underline tracking-tighter uppercase">Settlement for Wilful Defaulters</h5>
                                     <p className="text-yellow-900 leading-relaxed">Banks are now allowed to enter into compromise settlements even with wilful defaulters and fraud accounts, provided it is in the bank's best commercial interest.</p>
                                 </div>
                             </div>
                         </section>
 
                         <section id="negotiation-tactics" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">Advanced Tactics for Maximum Discount</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">Advanced Tactics for Maximum Discount</h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 Negotiation is an art. To get a 50% to 70% haircut on your debt, you must approach the bank as a strategic partner, not a victim.
                             </p>
@@ -291,7 +291,7 @@ export default function HowToSettleLoanWithBankPage() {
                         </section>
 
                         <section id="harassment-legal" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight text-center underline decoration-[#1F5EFF] underline-offset-[10px]">Stopping Recovery Agent Harassment</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight text-center underline decoration-[#1F5EFF] underline-offset-[10px]">Stopping Recovery Agent Harassment</h3>
                             <p className="text-lg leading-relaxed mb-10 text-center italic">The moment you decide to settle, you must also decide to protect your dignity.</p>
                             <div className="grid gap-6">
                                 {[
@@ -301,7 +301,7 @@ export default function HowToSettleLoanWithBankPage() {
                                     { title: "Social Media Protection", desc: "If they tag you or your family on social media, it is a criminal offence. File a complaint under cyber law immediately." }
                                 ].map((step, i) => (
                                     <div key={i} className="group p-8 border border-[#DEDEDE] rounded-3xl hover:border-[#FFA500] hover:bg-orange-50 transition-all">
-                                        <h3 className="text-xl font-black text-[#2E2E2E] mb-2">{step.title}</h3>
+                                        <h4 className="text-xl font-black text-[#2E2E2E] mb-2">{step.title}</h4>
                                         <p className="text-[#747474] leading-relaxed">{step.desc}</p>
                                     </div>
                                 ))}
@@ -309,7 +309,7 @@ export default function HowToSettleLoanWithBankPage() {
                         </section>
 
                         <section id="settlement-letter" className="scroll-mt-32 mb-16 mt-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">Deciphering the 'Settlement Letter'</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">Deciphering the 'Settlement Letter'</h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 A verbal promise has zero value in banking. Your settlement is only valid if you have a written letter on the bank's official letterhead. Check for these 5 critical elements:
                             </p>
@@ -325,13 +325,13 @@ export default function HowToSettleLoanWithBankPage() {
                         </section>
 
                         <section id="cibil-recovery" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">Your 24-Month Credit Recovery Path</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">Your 24-Month Credit Recovery Path</h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 A settled loan is better for your credit score than a 'Written Off' or 'Wilful Default' status. While your score will take a hit initially, it is not permanent.
                             </p>
                             <div className="md:flex gap-12 items-center">
                                 <div className="flex-1">
-                                    <h3 className="text-xl font-black mb-4 border-b-2 border-[#1F5EFF] pb-2 inline-block">The Recovery Timeline</h3>
+                                    <h4 className="text-xl font-black mb-4 border-b-2 border-[#1F5EFF] pb-2 inline-block">The Recovery Timeline</h4>
                                     <ul className="space-y-4 opacity-70 mb-8 md:mb-0">
                                         <li>• **Months 1-6**: Score stabilizes. No new defaults.</li>
                                         <li>• **Months 7-12**: Start a Fixed Deposit (FD) backed credit card.</li>
@@ -348,7 +348,7 @@ export default function HowToSettleLoanWithBankPage() {
                         </section>
 
                         <section id="success-stories" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 text-center uppercase tracking-tighter decoration-[#1F5EFF] underline decoration-4">Real Settlement Stories</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 text-center uppercase tracking-tighter decoration-[#1F5EFF] underline decoration-4">Real Settlement Stories</h3>
                             <div className="grid md:grid-cols-2 gap-6 not-prose">
                                 {[
                                     {
@@ -385,7 +385,7 @@ export default function HowToSettleLoanWithBankPage() {
                                             <div className="w-10 h-10 rounded-full bg-blue-100 flex items-center justify-center font-bold text-blue-600 mr-3">
                                                 {review.name.charAt(0)}
                                             </div>
-                                            <h3 className="font-bold text-[#2E2E2E]">{review.name}</h3>
+                                            <h4 className="font-bold text-[#2E2E2E]">{review.name}</h4>
                                             <div className="ml-auto text-yellow-400 text-sm">★★★★★</div>
                                         </div>
                                         <div className="mb-4 flex gap-4 text-[10px] font-mono">
@@ -399,7 +399,7 @@ export default function HowToSettleLoanWithBankPage() {
                         </section>
 
                         <section id="checklist" className="scroll-mt-32 mb-16 mt-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">Mandatory Checklist Before You Pay</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">Mandatory Checklist Before You Pay</h3>
                             <div className="bg-white border-2 border-[#1F5EFF]/20 p-10 rounded-[40px] shadow-xl relative overflow-hidden">
                                 <div className="absolute top-0 right-0 w-32 h-32 bg-[#1F5EFF]/5 rounded-bl-full"></div>
                                 <ul className="space-y-6">
@@ -425,7 +425,7 @@ export default function HowToSettleLoanWithBankPage() {
                         </section>
 
                         <section id="faqs" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-12 text-center">Strategic Settlement FAQ's</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-12 text-center">Strategic Settlement FAQ's</h3>
                             <div className="space-y-6">
                                 {[
                                     { q: "How to settle a loan with a bank in India legally?", a: "The legal process is to initiate a hardship dialogue once you default, obtain a formal written settlement letter from the bank, pay the agreed lump sum, and secure a No-Dues Certificate." },
@@ -440,7 +440,7 @@ export default function HowToSettleLoanWithBankPage() {
                                     { q: "How do I ensure the settlement is final?", a: "Only the No-Dues Certificate (NDC) and a formal update from the bank to the credit bureaus like CIBIL confirm the finality of the settlement." }
                                 ].map((faq, i) => (
                                     <div key={i} className="p-8 bg-white border border-[#DEDEDE] rounded-3xl shadow-sm transition-all hover:shadow-lg">
-                                        <h3 className="font-black text-[#2E2E2E] mb-4 text-xl border-b pb-2 border-[#1F5EFF]/10">{faq.q}</h3>
+                                        <h4 className="font-black text-[#2E2E2E] mb-4 text-xl border-b pb-2 border-[#1F5EFF]/10">{faq.q}</h4>
                                         <p className="text-gray-600 leading-relaxed text-lg italic">"{faq.a}"</p>
                                     </div>
                                 ))}
@@ -448,7 +448,7 @@ export default function HowToSettleLoanWithBankPage() {
                         </section>
 
                         <section className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">Conclusion: A New Chapter Awaits</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">Conclusion: A New Chapter Awaits</h3>
                             <p className="text-lg leading-relaxed mb-6 italic font-bold">Settling your loan is not an end; it is a strategic restart. By following the legal process and protecting your rights, you can secure your future and rebuild your financial dignity.</p>
                             <div className="bg-[#1F5EFF] p-10 rounded-[40px] text-center text-white shadow-2xl">
                                 <p className="text-2xl font-black mb-8 tracking-tight">Stop the stress. Take the first step towards a debt-free life today.</p>
@@ -503,7 +503,7 @@ export default function HowToSettleLoanWithBankPage() {
                 {/* Localities Section - Full Width before Footer */}
                 <section className="w-full bg-gray-50 border-t border-[#DEDEDE] py-20 px-4 md:px-8 lg:px-16">
                     <div className="max-w-7xl mx-auto">
-                        <h2 className="text-3xl md:text-5xl font-black text-[#2E2E2E] mb-12 text-center tracking-tighter uppercase">Serving Borrowers Across India</h2>
+                        <h3 className="text-3xl md:text-5xl font-black text-[#2E2E2E] mb-12 text-center tracking-tighter uppercase">Serving Borrowers Across India</h3>
                         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-8">
                             {[
                                 { state: "Andhra Pradesh", cities: "Anantapur, Guntur, Kakinada, Nellore, Rajahmundry, Tirupati, Vijayawada, Visakhapatnam" },
@@ -538,10 +538,10 @@ export default function HowToSettleLoanWithBankPage() {
                                 { state: "Union Territories", cities: "Andaman & Nicobar Islands, Chandigarh, Dadra & Nagar Haveli and Daman & Diu, Jammu & Kashmir, Ladakh, Lakshadweep, Puducherry" }
                             ].map((item, idx) => (
                                 <div key={idx} className="bg-white p-6 rounded-3xl border border-[#DEDEDE] shadow-sm hover:shadow-md hover:border-[#1F5EFF] transition-all group">
-                                    <h3 className="text-lg font-black text-[#2E2E2E] mb-3 group-hover:text-[#1F5EFF] flex items-center">
+                                    <h4 className="text-lg font-black text-[#2E2E2E] mb-3 group-hover:text-[#1F5EFF] flex items-center">
                                         <span className="w-2 h-2 bg-[#1F5EFF] rounded-full mr-2 opacity-0 group-hover:opacity-100 transition-opacity"></span>
                                         {item.state}
-                                    </h3>
+                                    </h4>
                                     <p className="text-sm text-[#747474] leading-relaxed">
                                         {item.cities}
                                     </p>

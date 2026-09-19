@@ -525,7 +525,7 @@ export default function PermanentLoanAccountClosurePage() {
 
             {/* Section 2: Step 1 — Bank Ledger Zeroing & Core Banking Solution (CBS) System Reconciliation */}
             <section id="step-1-bank-ledger-zeroing-cbs-audit" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">2. Step 1: Bank Ledger Zeroing</h2>
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">2. Step 1: Bank Ledger Zeroing</h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 The first step is checking that your master ledger inside the Core Banking Solution shows ₹0. A loan account has separate ledgers for principal, interest, penal fees. And legal costs. In an OTS, the bank waives balance fees and a share of principal.
               </p>
@@ -539,7 +539,7 @@ export default function PermanentLoanAccountClosurePage() {
 
             {/* Section 3: Step 2 — Securing the Physical Branch No Dues Certificate (NDC) with Official Bank Seal */}
             <section id="step-2-physical-branch-ndc-seal" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">3. Step 2: Securing the Physical Branch No Dues Certificate</h2>
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">3. Step 2: Securing the Physical Branch No Dues Certificate</h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Borrowers often rely on an email or digital receipt as proof of loan closure. But in Indian courts, an email only proves you made a payment. It does not prove the bank gave up its right to claim the rest under the Indian Contract Act, 1872.
               </p>
@@ -564,7 +564,7 @@ export default function PermanentLoanAccountClosurePage() {
 
             {/* Section 4: Step 3 — NPCI NACH & e-Mandate Revocation to Eliminate Unauthorized Auto-Debits */}
             <section id="step-3-npci-nach-emandate-cancellation" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">4. Step 3: NPCI NACH</h2>
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">4. Step 3: NPCI NACH</h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 A frequent problem after settlement is recurring auto-debits on your salary account. When you took the loan, you set up a NACH mandate or e-Mandate through the NPCI clearing network.
               </p>
@@ -578,7 +578,7 @@ export default function PermanentLoanAccountClosurePage() {
 
             {/* Section 5: Infographic Banner */}
             <section id="end-to-end-closure-infographic" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">5. 5-Step End-to-End Loan Account Closure Protocol</h2>
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">5. 5-Step End-to-End Loan Account Closure Protocol</h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Getting full legal protection after loan settlement requires completing all 5 steps of the banking closure protocol:
               </p>
@@ -601,7 +601,7 @@ export default function PermanentLoanAccountClosurePage() {
 
             {/* Section 6: Step 4 — Canceling Electronic Clearing Service (ECS) & Standing Instructions (SI) */}
             <section id="step-4-ecs-standing-instructions-revocation" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">6. Step 4: Canceling Electronic Clearing Service (ECS)</h2>
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">6. Step 4: Canceling Electronic Clearing Service (ECS)</h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Older loans and internal accounts often use legacy ECS debits or internal Standing Instructions (SI). If your salary account is in the same bank, the bank may have automated recovery sweep rules on file.
               </p>
@@ -615,7 +615,7 @@ export default function PermanentLoanAccountClosurePage() {
 
             {/* Section 7: Step 5 — Credit Information Company (CIBIL/Experian/Equifax/CRIF) Zero Balance Update */}
             <section id="step-5-cibil-credit-bureau-clearance" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">7. Step 5: Credit Bureau Rectification (CIBIL, Experian,</h2>
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">7. Step 5: Credit Bureau Rectification (CIBIL, Experian,</h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 The final proof of loan closure happens in credit bureau records: CIBIL, Experian, Equifax, and CRIF High Mark. Under Section 19 of the CICRA Act 2005, banks must send accurate monthly updates within 30 days.
               </p>
@@ -629,7 +629,7 @@ export default function PermanentLoanAccountClosurePage() {
 
             {/* Section 8: Legal Protections Against Zombie Debt Revival, ARC Assignments & Criminal Notices */}
             <section id="zombie-debt-arc-legal-protections" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">8. Defending Against Zombie Debt Revival, ARC Assignments</h2>
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">8. Defending Against Zombie Debt Revival, ARC Assignments</h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Borrowers who skip proper closure face the risk of <strong>zombie debt</strong>. Banks often bundle old unpaid loans and sell them to Asset Reconstruction Companies (ARCs) under Section 5 of the SARFAESI Act, 2002. Settled accounts sometimes get included in these bulk sales by mistake.
               </p>
@@ -643,7 +643,7 @@ export default function PermanentLoanAccountClosurePage() {
 
             {/* Section 9: Institutional NPA Accounting, NPV Calculations & Provisioning Reversals */}
             <section id="npv-accounting-npa-derecognition" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">9. NPA Accounting, Net Present Value (NPV)</h2>
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">9. NPA Accounting, Net Present Value (NPV)</h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Banks agree to settlements because of RBI rules on Non-Performing Assets. When a loan turns into a loss asset, the bank must set aside 100% bad-debt provisions from its profits. This locks up capital and hurts bank returns.
               </p>
@@ -671,7 +671,7 @@ export default function PermanentLoanAccountClosurePage() {
 
             {/* Section 10: Comparative Matrix Table — Incomplete Settlement vs Flawless 5-Step Closure */}
             <section id="comparative-closure-matrix" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">10. Settlement vs Permanent Closure Matrix</h2>
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">10. Settlement vs Permanent Closure Matrix</h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Reviewing structural differences shows why retail borrowers must enforce the complete 5-step post-settlement closure protocol:
               </p>
@@ -725,7 +725,7 @@ export default function PermanentLoanAccountClosurePage() {
             {/* Section 11: SettleLoans Legal Defense & Closure Advisory + CompanySection */}
             <section id="company-resolution-section" className="space-y-6">
               <div className="border-t border-slate-200 pt-8 space-y-4">
-                <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">11. SettleLoans Permanent Closure Legal Support</h2>
+                <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">11. SettleLoans Permanent Closure Legal Support</h3>
                 <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                   Dealing with bank paperwork requires experienced legal guidance. SettleLoans provides complete legal support. We audit Core Banking ledgers. We secure physical branch No Dues Certificates within the 30-day RBI limit. We cancel NACH mandates and fix credit bureau records to close your loan permanently.
                 </p>
@@ -739,7 +739,7 @@ export default function PermanentLoanAccountClosurePage() {
             <section id="faqs" className="space-y-4 border-t border-slate-200 pt-8">
               <div className="flex items-center gap-2 mb-2">
                 <HelpCircle className="w-5 h-5 text-[#1F5EFF]" />
-                <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">12. FAQs: Permanent Loan Account Closure Protocol</h2>
+                <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">12. FAQs: Permanent Loan Account Closure Protocol</h3>
               </div>
               <p className="text-xs sm:text-sm text-slate-600 mb-6">
                 Direct legal answers to common questions on bank ledger reconciliation, branch No Dues Certificates, NPCI mandate cancellations. And credit bureau updates.
@@ -769,9 +769,9 @@ export default function PermanentLoanAccountClosurePage() {
 
             {/* 5 Official Regulatory Links */}
             <section className="border-t border-slate-200 pt-8 mb-4">
-              <h3 className="text-xs sm:text-sm font-bold text-slate-900 mb-3 uppercase tracking-wider">
+              <h4 className="text-xs sm:text-sm font-bold text-slate-900 mb-3 uppercase tracking-wider">
                 Official Statutory &amp; Regulatory References
-              </h3>
+              </h4>
               <div className="grid grid-cols-1 sm:grid-cols-2 gap-2.5 text-xs">
                 <a
                   href="https://www.rbi.org.in"
@@ -823,9 +823,9 @@ export default function PermanentLoanAccountClosurePage() {
 
             {/* 10 Related Guide Badges */}
             <section className="border-t border-slate-200 pt-8 mb-8">
-              <h3 className="text-xs sm:text-sm font-bold text-slate-900 mb-4 uppercase tracking-wider">
+              <h4 className="text-xs sm:text-sm font-bold text-slate-900 mb-4 uppercase tracking-wider">
                 Related Legal Defense &amp; Debt Resolution Guides
-              </h3>
+              </h4>
               <div className="flex flex-wrap gap-2">
                 <Link
                   href="/no-dues-certificate-after-loan-settlement"

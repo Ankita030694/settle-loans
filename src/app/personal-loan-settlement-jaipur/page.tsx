@@ -556,9 +556,9 @@ export default function Page() {
                   <Clock className="w-4 h-4" />
                   <span>2. Delinquency Timeline &amp; Rajasthan HC Norms</span>
                 </div>
-                <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+                <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                   NPA Classification Aging &amp; Rajasthan High Court Debt Protections
-                </h2>
+                </h3>
                 <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                   Successfully securing an optimal personal loan settlement in Jaipur requires an in-depth understanding of the Reserve Bank of India&apos;s Prudential Norms on Income Recognition, Asset Classification and Provisioning (IRACP). Commercial banks and NBFCs do not entertain deep compromise negotiations during the initial weeks of default. Substantive One-Time Settlement (OTS) opportunities materialize as the delinquent account progresses through standardized statutory aging brackets.
                 </p>
@@ -623,9 +623,9 @@ export default function Page() {
                   <Gavel className="w-4 h-4" />
                   <span>3. Bani Park Court &amp; Section 138/25 Defense</span>
                 </div>
-                <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+                <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                   Defending Statutory Notices in Jaipur District Courts (Bani Park) &amp; CJM Courts
-                </h2>
+                </h3>
                 <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                   When electronic National Automated Clearing House (NACH) mandates or physical cheques bounce due to insufficient funds, bank legal departments issue statutory legal notices. These notices are dispatched under <strong>Section 25 of the Payment and Settlement Systems Act, 2007 (PSSA)</strong> or <strong>Section 138 of the Negotiable Instruments Act, 1881</strong>, warning of criminal complaint proceedings across Jaipur&apos;s judicial magistrate courts seated at the District Court Complex in Bani Park, Jaipur Metro-I, and Jaipur Metro-II.
                 </p>
@@ -646,9 +646,9 @@ export default function Page() {
                   <ShieldAlert className="w-4 h-4" />
                   <span>4. Section 171 Lien &amp; Salary Shielding</span>
                 </div>
-                <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+                <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                   Banker&apos;s Right of General Lien (Section 171) &amp; Salary Account Protection
-                </h2>
+                </h3>
                 <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                   A critical operational risk for salaried professionals and government employees in Jaipur is the <strong>Banker&apos;s Right of General Lien and Set-Off</strong> under Section 171 of the Indian Contract Act, 1872. This statutory provision enables a lending bank to unilaterally debit funds, freeze balances, or appropriate credits from any savings account, fixed deposit, or salary account maintained within that exact same banking institution under the matching Customer Information File (CIF) or PAN.
                 </p>
@@ -669,9 +669,9 @@ export default function Page() {
                   <Sparkles className="w-4 h-4" />
                   <span>5. Visual Resolution Roadmap</span>
                 </div>
-                <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+                <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                   Personal Loan Settlement Roadmap in Jaipur &amp; Rajasthan
-                </h2>
+                </h3>
                 <p className="text-slate-700 leading-relaxed mb-6 text-base md:text-lg">
                   The visual roadmap below details the complete stage-by-stage debt resolution lifecycle in Jaipur—from financial distress audit and Bani Park court notice defense to RBI anti-harassment shielding, Zonal SARB negotiations, and final ₹0 No Dues Certificate delivery.
                 </p>
@@ -698,9 +698,9 @@ export default function Page() {
                   <Percent className="w-4 h-4" />
                   <span>6. OTS Haircut Mechanics &amp; NPV Formula</span>
                 </div>
-                <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+                <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                   OTS Haircut Mechanics &amp; The Net Present Value (NPV) Recovery Benchmark
-                </h2>
+                </h3>
                 <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                   Under the Reserve Bank of India&apos;s Master Directions on Resolution of Stressed Assets and board-approved compromise policies, financial institutions assess One-Time Settlement proposals through rigorous financial economics rather than discretionary sympathy. While outsourced recovery agents often claim that banks never reduce outstanding dues, Zonal Settlement Committees located in C-Scheme, MI Road, and Tonk Road evaluate every non-performing asset against an institutional <strong>Net Present Value (NPV) Recovery Valuation Benchmark</strong>.
                 </p>
@@ -733,9 +733,9 @@ export default function Page() {
                   <ShieldCheck className="w-4 h-4" />
                   <span>7. Anti-Harassment &amp; Police Limits in Jaipur</span>
                 </div>
-                <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+                <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                   Enforcing the RBI Fair Practices Code &amp; Restricting Police Interference in Jaipur
-                </h2>
+                </h3>
                 <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                   Borrowers facing coercive debt collection in Jaipur and Rajasthan are protected by comprehensive statutory regulations established by the central banking regulator. The <strong>Reserve Bank of India Master Directions on Recovery Agents (2022)</strong> strictly prescribe recovery conduct and impose substantial penalties on non-compliant institutions.
                 </p>
@@ -756,9 +756,9 @@ export default function Page() {
                   <Layers className="w-4 h-4" />
                   <span>8. 5-Step Zonal SARB Settlement Protocol</span>
                 </div>
-                <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+                <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                   5-Step Legal Protocol for Settling Personal Loans with Jaipur Zonal Desks
-                </h2>
+                </h3>
                 <p className="text-slate-700 leading-relaxed mb-6 text-base md:text-lg">
                   Achieving a legally binding One-Time Settlement with PSU and private commercial banks in Jaipur requires executing a structured, advocate-led five-stage roadmap that bypasses outsourced tele-callers and negotiates directly with authorized zonal credit desks:
                 </p>
@@ -769,7 +769,7 @@ export default function Page() {
                       1
                     </div>
                     <div>
-                      <h3 className="text-base font-bold text-slate-900 mb-1">Financial Hardship Dossier Compilation &amp; Liability Audit</h3>
+                      <h4 className="text-base font-bold text-slate-900 mb-1">Financial Hardship Dossier Compilation &amp; Liability Audit</h4>
                       <p className="text-sm text-slate-600 leading-relaxed">
                         Our legal advocates conduct an exhaustive forensic audit of your total loan liability across all lending institutions. We construct an unassailable financial hardship dossier—incorporating corporate termination letters, medical treatment records, bank statements demonstrating cash exhaustion, and GST returns showing business downturns—documenting genuine incapacity to sustain regular EMIs.
                       </p>
@@ -781,7 +781,7 @@ export default function Page() {
                       2
                     </div>
                     <div>
-                      <h3 className="text-base font-bold text-slate-900 mb-1">Cease-and-Desist Notice &amp; Harassment Shielding</h3>
+                      <h4 className="text-base font-bold text-slate-900 mb-1">Cease-and-Desist Notice &amp; Harassment Shielding</h4>
                       <p className="text-sm text-slate-600 leading-relaxed">
                         We serve formal legal notices invoking the RBI Master Directions on Recovery Agents to the bank&apos;s Principal Nodal Officer and collection departments. This immediately shields your government office or private workplace, family members, and residence from unauthorized visits and intimidatory phone calls.
                       </p>
@@ -793,7 +793,7 @@ export default function Page() {
                       3
                     </div>
                     <div>
-                      <h3 className="text-base font-bold text-slate-900 mb-1">Statutory Notice Reply in Bani Park &amp; CJM Courts</h3>
+                      <h4 className="text-base font-bold text-slate-900 mb-1">Statutory Notice Reply in Bani Park &amp; CJM Courts</h4>
                       <p className="text-sm text-slate-600 leading-relaxed">
                         If the lender dispatches Section 25 PSSA or Section 138 NI Act demand notices returnable to Jaipur magistrate courts, our advocates draft and serve comprehensive legal replies within the statutory 15-day window, preventing magistrate escalations and directing the lender toward compromise conciliation.
                       </p>
@@ -805,7 +805,7 @@ export default function Page() {
                       4
                     </div>
                     <div>
-                      <h3 className="text-base font-bold text-slate-900 mb-1">Direct Negotiations with C-Scheme &amp; Tonk Road Zonal SARB Desks</h3>
+                      <h4 className="text-base font-bold text-slate-900 mb-1">Direct Negotiations with C-Scheme &amp; Tonk Road Zonal SARB Desks</h4>
                       <p className="text-sm text-slate-600 leading-relaxed">
                         We bypass third-party collection agencies entirely and submit structured One-Time Settlement proposals directly to the bank&apos;s Stressed Assets Recovery Branch (SARB) and Zonal Settlement Committees located in C-Scheme, MI Road, and Tonk Road, securing maximum principal waivers (40% to 70%).
                       </p>
@@ -817,7 +817,7 @@ export default function Page() {
                       5
                     </div>
                     <div>
-                      <h3 className="text-base font-bold text-slate-900 mb-1">Sanction Letter Forensic Audit, Direct Payment &amp; NDC Issuance</h3>
+                      <h4 className="text-base font-bold text-slate-900 mb-1">Sanction Letter Forensic Audit, Direct Payment &amp; NDC Issuance</h4>
                       <p className="text-sm text-slate-600 leading-relaxed">
                         We audit the bank&apos;s official stamped OTS Sanction Letter to ensure unambiguous debt extinguishment clauses. You remit the agreed settlement amount strictly into your loan account via RTGS/NEFT, followed by our enforcement of the mandatory zero-balance No Dues Certificate under RBI directives.
                       </p>
@@ -832,9 +832,9 @@ export default function Page() {
                   <FileCheck className="w-4 h-4" />
                   <span>9. Sanction Letter Audit &amp; CIBIL Rebuilding</span>
                 </div>
-                <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+                <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                   Sanction Letter Forensics, Mandatory ₹0 NDC &amp; 24-Month CIBIL Repair
-                </h2>
+                </h3>
                 <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                   A critical danger for distressed borrowers in Jaipur is releasing money based on verbal assurances, unofficial SMS messages, or unauthorized WhatsApp letters shared by recovery agents. Unauthorized collection callers frequently persuade borrowers to deposit partial token amounts, only for those funds to be credited against accrued penal charges while the loan remains active and compounding.
                 </p>
@@ -855,9 +855,9 @@ export default function Page() {
                   <Scale className="w-4 h-4" />
                   <span>10. Comparative Resolution Matrix</span>
                 </div>
-                <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+                <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                   Comparing Debt Resolution Pathways for Borrowers in Rajasthan
-                </h2>
+                </h3>
                 <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                   Evaluating all available legal and financial debt resolution avenues in Rajasthan helps borrowers select the optimal strategy based on debt quantum, financial capacity, and speed of execution:
                 </p>
@@ -913,9 +913,9 @@ export default function Page() {
                   <Landmark className="w-4 h-4" />
                   <span>11. SettleLoans Legal Defense &amp; Advisory</span>
                 </div>
-                <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+                <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                   Premier Loan Settlement &amp; Legal Defense Services in Jaipur
-                </h2>
+                </h3>
                 <p className="text-slate-700 leading-relaxed mb-6 text-base md:text-lg">
                   Navigating unpayable unsecured debt across Jaipur, Mansarovar, and Vaishali Nagar requires decisive legal representation to stop collection agency harassment, defend statutory notices in Bani Park courts, and negotiate directly with bank Zonal Credit Committees for maximum debt relief. SettleLoans provides end-to-end legal and financial advocacy to help borrowers across Rajasthan reclaim their financial freedom.
                 </p>
@@ -928,9 +928,9 @@ export default function Page() {
                   <HelpCircle className="w-4 h-4" />
                   <span>12. Frequently Asked Questions</span>
                 </div>
-                <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
+                <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
                   Frequently Asked Questions on Debt Settlement in Jaipur
-                </h2>
+                </h3>
 
                 <div className="space-y-4">
                   {((jsonLdGraph["@graph"].find((item: any) => item["@type"] === "FAQPage") as any)?.mainEntity || []).map((faq: any, index: number) => (
@@ -957,10 +957,10 @@ export default function Page() {
 
               {/* 5 Official Regulatory Links */}
               <section className="bg-slate-50 border border-slate-200 rounded-2xl p-6 mb-8">
-                <h3 className="text-sm font-bold text-slate-900 mb-3 uppercase tracking-wider flex items-center gap-2">
+                <h4 className="text-sm font-bold text-slate-900 mb-3 uppercase tracking-wider flex items-center gap-2">
                   <ExternalLink className="w-4 h-4 text-[#1F5EFF]" />
                   <span>Official Statutory &amp; Regulatory References</span>
-                </h3>
+                </h4>
                 <div className="grid grid-cols-1 sm:grid-cols-2 gap-3 text-xs">
                   <a
                     href="https://www.rbi.org.in"
@@ -1012,9 +1012,9 @@ export default function Page() {
 
               {/* 10 Related Guide Badges */}
               <section className="border-t border-slate-200 pt-8 mb-8">
-                <h3 className="text-sm font-bold text-slate-900 mb-4 uppercase tracking-wider">
+                <h4 className="text-sm font-bold text-slate-900 mb-4 uppercase tracking-wider">
                   Related Loan Settlement &amp; Legal Defense Guides
-                </h3>
+                </h4>
                 <div className="flex flex-wrap gap-2">
                   <Link
                     href="/sbi-personal-loan-settlement"

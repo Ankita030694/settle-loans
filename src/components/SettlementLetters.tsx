@@ -25,7 +25,7 @@ export default function SettlementLetters() {
     <section className="relative bg-[#2E2E2E] py-12 md:py-[10vh] overflow-hidden flex flex-col items-center">
 
       <div className="relative z-10 mx-auto max-w-7xl px-4 sm:px-6 lg:px-8 w-full text-center mb-12 md:mb-[5vh]">
-        <h2
+        <h3
           className={`
             max-w-5xl mx-auto font-black leading-[1.1] tracking-tight text-[#DEDEDE]
             text-[clamp(35px,5vh,50px)] sm:text-[clamp(40px,6vh,60px)] md:text-[clamp(50px,7.5vh,75px)]
@@ -34,7 +34,7 @@ export default function SettlementLetters() {
           style={{ fontFamily: 'var(--font-satoshi), Satoshi, sans-serif' }}
         >
           Real Settlements. <br /> Real Results.
-        </h2>
+        </h3>
 
         <p
           className="max-w-3xl mx-auto font-normal leading-[1.07] text-[#DEDEDE] transition-opacity duration-700

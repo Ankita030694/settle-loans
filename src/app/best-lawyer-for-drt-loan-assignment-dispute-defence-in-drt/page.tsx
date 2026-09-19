@@ -276,7 +276,7 @@ export default function DRTLoanAssignmentPage() {
                         </section>
 
                         <section id="loan-assignment-basics" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl font-black mb-6">What is a Loan Assignment?</h2>
+                            <h3 className="text-3xl font-black mb-6">What is a Loan Assignment?</h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 A loan assignment occurs when a lender (the Assignor), such as a bank or NBFC, transfers its entire portfolio of rights, title, and interest in a loan account to a third party (the Assignee), typically an Asset Reconstruction Company (ARC). This transfer is governed by the principle of assignment of actionable claims.
                             </p>
@@ -288,18 +288,18 @@ export default function DRTLoanAssignmentPage() {
                             </p>
                             <div className="grid md:grid-cols-2 gap-6 my-10">
                                 <div className="bg-blue-50 p-6 rounded-xl border border-blue-100">
-                                    <h3 className="font-bold text-blue-900 mb-2">The Assignor</h3>
+                                    <h4 className="font-bold text-blue-900 mb-2">The Assignor</h4>
                                     <p className="text-sm text-blue-800 opacity-80">The original bank or NBFC that lent the money and now wishes to sell the debt account to a specialized recovery entity.</p>
                                 </div>
                                 <div className="bg-green-50 p-6 rounded-xl border border-green-100">
-                                    <h3 className="font-bold text-green-900 mb-2">The Assignee</h3>
+                                    <h4 className="font-bold text-green-900 mb-2">The Assignee</h4>
                                     <p className="text-sm text-green-800 opacity-80">The ARC or financial institution that buys the debt and acquires the legal right to enforce security interest and recover funds.</p>
                                 </div>
                             </div>
                         </section>
 
                         <section id="arc-mechanics" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl font-black mb-6">How Asset Reconstruction Companies Operate</h2>
+                            <h3 className="text-3xl font-black mb-6">How Asset Reconstruction Companies Operate</h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 Asset Reconstruction Companies are specialized entities regulated by the RBI under the SARFAESI Act. Their primary business is "reconstructing" bad assets. In practice, this means they acquire NPAs from banks and then use their expertise to recover the money. They have the power to take over the management of a business, sell its assets, or appoint a manager to run the security interest.
                             </p>
@@ -310,7 +310,7 @@ export default function DRTLoanAssignmentPage() {
                                 Because an ARC's entire focus is on recovery, they are often more persistent than traditional banks. They have dedicated legal teams and recovery specialists who monitor every development in the case. This is why a borrower must have equally sophisticated legal representation to level the playing field. Without a lawyer who understands ARC mechanics, a borrower can easily be overwhelmed by the sheer volume of legal notices and applications.
                             </p>
                             <div className="bg-gray-50 border border-gray-200 p-8 rounded-2xl mb-12">
-                                <h3 className="text-xl font-bold mb-6">Common ARCs in the Indian Market</h3>
+                                <h4 className="text-xl font-bold mb-6">Common ARCs in the Indian Market</h4>
                                 <ul className="grid sm:grid-cols-2 gap-4">
                                     <li className="flex items-center gap-2 font-medium"><FontAwesomeIcon icon={faShieldHalved} className="text-blue-500" /> Edelweiss ARC</li>
                                     <li className="flex items-center gap-2 font-medium"><FontAwesomeIcon icon={faShieldHalved} className="text-blue-500" /> Phoenix ARC</li>
@@ -323,7 +323,7 @@ export default function DRTLoanAssignmentPage() {
                         </section>
 
                         <section id="legal-framework-section5" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl font-black mb-6">The Legal Framework: SARFAESI Act Section 5</h2>
+                            <h3 className="text-3xl font-black mb-6">The Legal Framework: SARFAESI Act Section 5</h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 Section 5 of the Securitisation and Reconstruction of Financial Assets and Enforcement of Security Interest (SARFAESI) Act, 2002, is the central pillar of the loan assignment process. This section explicitly empowers ARCs to acquire financial assets from banks. It states that upon acquisition, the ARC shall be deemed to be the lender for all purposes.
                             </p>
@@ -334,7 +334,7 @@ export default function DRTLoanAssignmentPage() {
                                 However, Section 5 is not a blanket permission for banks to do whatever they please. It requires that the loan acquisition be carried out in a specific manner. The RBI sets out detailed guidelines for the Sale of Stressed Assets (SSA), which include requirements for valuation, transparency, and internal approvals. If these guidelines are breached, the validity of the acquisition itself can be called into question in the DRT.
                             </p>
                             <div className="bg-white border-2 border-dashed border-[#1F5EFF]/20 p-8 rounded-2xl mb-10">
-                                <h3 className="text-xl font-bold text-[#1F5EFF] mb-4 uppercase tracking-tighter">Section 5(2) Breakdown</h3>
+                                <h4 className="text-xl font-bold text-[#1F5EFF] mb-4 uppercase tracking-tighter">Section 5(2) Breakdown</h4>
                                 <p className="italic text-gray-600 mb-4">
                                     "If any financial asset of a bank or a financial institution is acquired by an asset reconstruction company, such asset reconstruction company shall, on such acquisition, be deemed to be the lender."
                                 </p>
@@ -343,7 +343,7 @@ export default function DRTLoanAssignmentPage() {
                         </section>
 
                         <section id="grounds-for-challenge" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl font-black mb-6 leading-tight">Grounds for Challenging Loan Assignment</h2>
+                            <h3 className="text-3xl font-black mb-6 leading-tight">Grounds for Challenging Loan Assignment</h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 Contrary to what debt collectors might tell you, a loan assignment is often full of procedural cracks. These cracks can be used as a powerful defense in the DRT to stay recovery proceedings or even force a favorable settlement. The burden of proof lies on the ARC to show that the assignment was perfect and followed every letter of the law.
                             </p>
@@ -355,26 +355,26 @@ export default function DRTLoanAssignmentPage() {
                             </p>
                             <div className="grid md:grid-cols-2 gap-4 my-8">
                                 <div className="p-6 bg-red-50 rounded-xl border-l-4 border-red-500">
-                                    <h3 className="font-bold mb-2">Notice Defects</h3>
+                                    <h4 className="font-bold mb-2">Notice Defects</h4>
                                     <p className="text-sm">Failure to provide valid 13(2) or 13(4) notices by the correctly substituted entity.</p>
                                 </div>
                                 <div className="p-6 bg-red-50 rounded-xl border-l-4 border-red-500">
-                                    <h4 className="font-bold mb-2">Valuation Errors</h4>
+                                    <h5 className="font-bold mb-2">Valuation Errors</h5>
                                     <p className="text-sm">Improper valuation of assets by the ARC before attempting an auction.</p>
                                 </div>
                                 <div className="p-6 bg-red-50 rounded-xl border-l-4 border-red-500">
-                                    <h4 className="font-bold mb-2">Unfair Interest</h4>
+                                    <h5 className="font-bold mb-2">Unfair Interest</h5>
                                     <p className="text-sm">Charging penal interest or compounding interest that violates RBI master circulars.</p>
                                 </div>
                                 <div className="p-6 bg-red-50 rounded-xl border-l-4 border-red-500">
-                                    <h4 className="font-bold mb-2">Missing Notice of Assignment</h4>
+                                    <h5 className="font-bold mb-2">Missing Notice of Assignment</h5>
                                     <p className="text-sm">Failure to formally notify the borrower under Section 131 of the Transfer of Property Act.</p>
                                 </div>
                             </div>
                         </section>
 
                         <section id="assignment-deed-flaws" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl font-black mb-6">Uncovering Flaws in the Assignment Deed</h2>
+                            <h3 className="text-3xl font-black mb-6">Uncovering Flaws in the Assignment Deed</h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 The Assignment Deed is the most critical document in the entire process. It is the deed that proves the ARC actually owns your debt. Frequently, these deeds are prepared in a rush and contain significant errors. They might have incorrect loan account numbers, missing schedules of property, or even mismatched dates.
                             </p>
@@ -387,7 +387,7 @@ export default function DRTLoanAssignmentPage() {
                         </section>
 
                         <section id="npa-classification-defense" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl font-black mb-6">The Power of the NPA Classification Defense</h2>
+                            <h3 className="text-3xl font-black mb-6">The Power of the NPA Classification Defense</h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 The SARFAESI process can only be initiated if your account has been correctly classified as a Non-Performing Asset (NPA). The RBI has set a strict "Master Circular on Prudential Norms on Income Recognition, Asset Classification and Provisioning." This circular follows a clear 90-day delinquency rule.
                             </p>
@@ -398,10 +398,10 @@ export default function DRTLoanAssignmentPage() {
                                 This is a particularly potent defense because it also invalidates the sale of the loan to the ARC. An ARC can generally only buy "stressed" assets. If the asset was not legally stressed (not a valid NPA), the ARC had no business buying it. We have seen cases where thousands of crores in recovery have been stayed because of a single error in the bank's NPA accounting.
                             </p>
                             <div className="bg-amber-50 p-8 rounded-2xl border border-amber-200 mb-10">
-                                <h3 className="text-xl font-bold text-amber-900 mb-4 flex items-center gap-2">
+                                <h4 className="text-xl font-bold text-amber-900 mb-4 flex items-center gap-2">
                                     <FontAwesomeIcon icon={faScaleBalanced} />
                                     Checklist for NPA Defense
-                                </h3>
+                                </h4>
                                 <ul className="space-y-3 text-sm text-amber-900/80">
                                     <li>• Was the 90-day period calculated correctly?</li>
                                     <li>• Were all interest and principal payments appropriately adjusted?</li>
@@ -413,7 +413,7 @@ export default function DRTLoanAssignmentPage() {
                         </section>
 
                         <section id="procedural-defects" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl font-black mb-6">Identifying Procedural Defects in Notices</h2>
+                            <h3 className="text-3xl font-black mb-6">Identifying Procedural Defects in Notices</h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 The SARFAESI Act is built on a sequence of notices. The Section 13(2) demand notice is the first, followed by the Section 13(4) possession notice. Each notice must satisfy several legal requirements. They must clearly state the amount due, the breakup of principal and interest, and the list of secured assets being targeted.
                             </p>
@@ -426,7 +426,7 @@ export default function DRTLoanAssignmentPage() {
                         </section>
 
                         <section id="rbi-guideline-breach" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl font-black mb-6">Challenging Breach of RBI SSA Guidelines</h2>
+                            <h3 className="text-3xl font-black mb-6">Challenging Breach of RBI SSA Guidelines</h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 The RBI's Sale of Stressed Assets (SSA) framework is a detailed set of regulations that banks must follow when selling a loan to an ARC. These guidelines ensure that the sale is transparent and that the borrower isn't unfairly targeted during the transfer. For instance, the bank must have a board approved policy for the sale of assets and must ensure that the price discovery process is objective.
                             </p>
@@ -439,7 +439,7 @@ export default function DRTLoanAssignmentPage() {
                         </section>
 
                         <section id="creditor-substitution" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl font-black mb-6 leading-tight">Creditor Substitution Rules in DRT/DRAT</h2>
+                            <h3 className="text-3xl font-black mb-6 leading-tight">Creditor Substitution Rules in DRT/DRAT</h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 When a loan is assigned while a recovery case (Original Application or O.A.) is already pending in the DRT, the ARC cannot simply take over. They must file a formal application for substitution under Section 5(5) of the SARFAESI Act. This application is a critical moment where the borrower can intervene.
                             </p>
@@ -450,10 +450,10 @@ export default function DRTLoanAssignmentPage() {
                                 Substitution is not an automatic right; it is a judicial decision. If we can successfully block the substitution of the ARC, the original bank (which no longer owns the debt) cannot proceed, and the ARC (which isn't yet recognized by the court) can't either. This creates a state of legal limbo that significantly increases the borrower's leverage for a settlement.
                             </p>
                             <div className="bg-slate-900 text-white p-8 rounded-2xl mb-12">
-                                <h3 className="text-xl font-bold mb-4 flex items-center gap-2">
+                                <h4 className="text-xl font-bold mb-4 flex items-center gap-2">
                                     <FontAwesomeIcon icon={faScaleBalanced} className="text-blue-500" />
                                     Understanding Substitution
-                                </h3>
+                                </h4>
                                 <p className="text-sm opacity-80 leading-relaxed">
                                     Substitution is the process of replacing the original bank with the ARC in ongoing litigation. It requires proof of a valid transfer of the "actionable claim." Without a formal court order for substitution, the ARC has no power to issue summons or participate in the DRT hearings.
                                 </p>
@@ -461,7 +461,7 @@ export default function DRTLoanAssignmentPage() {
                         </section>
 
                         <section id="stamp-duty-challenges" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl font-black mb-6">Stamp Duty and Registration Challenges</h2>
+                            <h3 className="text-3xl font-black mb-6">Stamp Duty and Registration Challenges</h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 India is a complex federation where stamp duty varies significantly from state to state. An Assignment Deed signed in Mumbai might require a different stamp duty than one signed in Delhi. If an ARC buys a whole portfolio of loans across India, they often try to save costs by using a generic stamp paper that might not be adequate for the value of the specific asset in your state.
                             </p>
@@ -474,7 +474,7 @@ export default function DRTLoanAssignmentPage() {
                         </section>
 
                         <section id="borrower-statutory-rights" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl font-black mb-6">Your Statutory Rights Post-Assignment</h2>
+                            <h3 className="text-3xl font-black mb-6">Your Statutory Rights Post-Assignment</h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 Many borrowers believe that once an ARC takes over, they lose all their rights. This is fundamentally false. You have statutory protections that are enshrined in both the SARFAESI Act and the Constitution of India. These rights are meant to prevent the "deprivation of property without the authority of law."
                             </p>
@@ -499,7 +499,7 @@ export default function DRTLoanAssignmentPage() {
                         </section>
 
                         <section id="lawyer-strategic-role" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl font-black mb-6">The Strategic Role of Your DRT Lawyer</h2>
+                            <h3 className="text-3xl font-black mb-6">The Strategic Role of Your DRT Lawyer</h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 Facing an ARC without a specialized lawyer is like going into a knife fight empty-handed. The ARC will have a team of senior advocates and recovery officers whose only job is to break your defense. At SettleLoans, we provide the counterweight. Our lawyers have spent decades inside Tribunals and know exactly where the ARCs hide their procedural mistakes.
                                 We don't just file papers; we build a narrative of why the borrower has been unfairly targeted.
@@ -513,7 +513,7 @@ export default function DRTLoanAssignmentPage() {
                         </section>
 
                         <section id="counterclaim-strategies" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl font-black mb-6">Using Strategic Counterclaims as Leverage</h2>
+                            <h3 className="text-3xl font-black mb-6">Using Strategic Counterclaims as Leverage</h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 The best defense is often a good offense. In many loan disputes, the bank themselves have committed errors that cost you money. This might include a failure to release funds on time, charging unauthorized service fees, or providing defective financial instruments. You have the right to file an independent suit or a counterclaim in the DRT for damages.
                             </p>
@@ -526,7 +526,7 @@ export default function DRTLoanAssignmentPage() {
                         </section>
 
                         <section id="stay-order-process" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl font-black mb-6">Seeking Interim Relief and Stay Orders</h2>
+                            <h3 className="text-3xl font-black mb-6">Seeking Interim Relief and Stay Orders</h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 The ultimate goal of most initial DRT applications is to obtain a stay order. A stay order is a temporary injunction that prevents the ARC from proceeding with an auction or a physical takeover of your property. To get a stay, we must prove three things: a prima facie case (a strong legal point), balance of convenience (it's better to stall than to auction), and irreparable injury (if the house is sold, you can never get it back).
                             </p>
@@ -537,7 +537,7 @@ export default function DRTLoanAssignmentPage() {
                                 A stay order is not a final victory, but it is a vital breather. It stops the clock and gives us time to either win the case on merits or negotiate a settlement on your terms. Without a stay, the ARC can auction your property in weeks, leaving you with very few remedies after the event.
                             </p>
                             <div className="bg-red-50 p-8 rounded-2xl border border-red-200 mb-10 text-center">
-                                <h3 className="text-2xl font-black text-red-700 mb-4">Emergency Auction?</h3>
+                                <h4 className="text-2xl font-black text-red-700 mb-4">Emergency Auction?</h4>
                                 <p className="text-red-900 mb-6">If you have received an auction notice, you must act within 48 hours to have any chance of a stay.</p>
                                 <Link href="/contact" className="inline-block bg-red-600 text-white font-bold py-3 px-8 rounded-full hover:bg-red-700 transition-colors shadow-lg">
                                     Get Immediate Legal Help
@@ -546,7 +546,7 @@ export default function DRTLoanAssignmentPage() {
                         </section>
 
                         <section id="ots-with-arcs" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl font-black mb-6">The Art of Negotiating OTS with ARCs</h2>
+                            <h3 className="text-3xl font-black mb-6">The Art of Negotiating OTS with ARCs</h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 A One-Time Settlement (OTS) is often the most practical outcome for many borrowers. Because ARCs buy portfolios at a discount, they have a "buffer" that allows them to settle for less than the full amount. For example, if they bought your 1 crore debt for 70 lakhs, they might be happy to settle with you for 80 lakhs. They make a quick profit, and you get a debt-free life.
                             </p>
@@ -559,7 +559,7 @@ export default function DRTLoanAssignmentPage() {
                         </section>
 
                         <section id="case-studies" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-5xl font-black text-center mb-16">Success Stories in Loan Assignment Defense</h2>
+                            <h3 className="text-3xl md:text-5xl font-black text-center mb-16">Success Stories in Loan Assignment Defense</h3>
                             <div className="grid md:grid-cols-2 gap-8">
                                 {[
                                     {
@@ -597,7 +597,7 @@ export default function DRTLoanAssignmentPage() {
                                                 {caseStudy.name.charAt(0)}
                                             </div>
                                             <div>
-                                                <h3 className="text-xl font-bold">{caseStudy.name}</h3>
+                                                <h4 className="text-xl font-bold">{caseStudy.name}</h4>
                                                 <p className="text-xs text-gray-400">{caseStudy.loc}</p>
                                             </div>
                                             <div className="ml-auto text-yellow-400 text-sm">★★★★★</div>
@@ -612,7 +612,7 @@ export default function DRTLoanAssignmentPage() {
                         </section>
 
                         <section id="conclusion" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl font-black mb-6">Reclaiming Your Financial Dignity</h2>
+                            <h3 className="text-3xl font-black mb-6">Reclaiming Your Financial Dignity</h3>
                             <p className="text-xl leading-relaxed mb-6">
                                 Debt is a financial challenge, not a personal failure. In the high-stakes world of DRT and ARC recovery, you need more than just hope; you need a solid legal fortress. At SettleLoans, we provide that fortress. We believe that every individual and business in India deserves a fair chance to resolve their debts without being crushed by predatory tactics.
                             </p>
@@ -621,7 +621,7 @@ export default function DRTLoanAssignmentPage() {
                             </p>
                             <div className="bg-[#1F5EFF] rounded-3xl p-12 text-center text-white shadow-2xl relative overflow-hidden">
                                 <div className="absolute top-0 right-0 w-64 h-64 bg-white/10 rounded-full -mr-32 -mt-32"></div>
-                                <h3 className="text-4xl font-black mb-6 relative z-10">Stop the ARC Today</h3>
+                                <h4 className="text-4xl font-black mb-6 relative z-10">Stop the ARC Today</h4>
                                 <p className="text-xl mb-10 opacity-90 relative z-10">Get a free digital review of your loan documents by India's top DRT lawyers.</p>
                                 <Link href="/contact" className="inline-block bg-white text-[#1F5EFF] font-black py-4 px-12 rounded-xl text-xl hover:scale-105 transition-all shadow-xl relative z-10">
                                     Book Free Consultation
@@ -630,7 +630,7 @@ export default function DRTLoanAssignmentPage() {
                         </section>
 
                         <section id="faqs" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 text-center">Expert DRT FAQ: Your Questions Answered</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 text-center">Expert DRT FAQ: Your Questions Answered</h3>
                             <div className="space-y-4">
                                 {[
                                     {
@@ -701,7 +701,7 @@ export default function DRTLoanAssignmentPage() {
                         <div className="lg:hidden mt-16 mb-8">
                             <div className="bg-[#2E2E2E] rounded-2xl shadow-xl overflow-hidden border border-[#1F5EFF]/20">
                                 <div className="bg-[#1F5EFF] p-6 text-center text-white">
-                                    <h3 className="text-2xl font-black mb-2">Facing ARC Action?</h3>
+                                    <h4 className="text-2xl font-black mb-2">Facing ARC Action?</h4>
                                     <p className="opacity-90 text-sm">Join the 10,000+ Indians we've helped find their way to financial freedom.</p>
                                 </div>
                                 <div className="p-8 text-center text-[#DEDEDE]">

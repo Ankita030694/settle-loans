@@ -211,26 +211,26 @@ export default function ArrearEMIPage() {
 
             {/* Overdue vs Arrear Section */}
             <section id="overdue-vs-arrear" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">Difference Between Overdue and Arrear</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">Difference Between Overdue and Arrear</h3>
               <p className="text-lg leading-relaxed mb-6">
                 While these terms are often used interchangeably in loan default terminology, they have distinct technical meanings within the banking system.
               </p>
 
               <div className="grid md:grid-cols-2 gap-6 my-8">
                 <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
-                  <h3 className="font-black text-[#1F5EFF] text-lg mb-3">The "Overdue" Status</h3>
+                  <h4 className="font-black text-[#1F5EFF] text-lg mb-3">The "Overdue" Status</h4>
                   <p className="text-gray-700">An account status. Your loan account becomes "overdue" the exact day following a missed payment deadline. It represents the condition of the loan.</p>
                 </div>
                 <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
-                  <h3 className="font-black text-[#1F5EFF] text-lg mb-3">The "Arrear" Amount</h3>
+                  <h4 className="font-black text-[#1F5EFF] text-lg mb-3">The "Arrear" Amount</h4>
                   <p className="text-gray-700">A financial value. Arrears refer to the actual cumulative monetary amount (Principal + Interest + Penalties) that is currently owed to the lender.</p>
                 </div>
                 <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
-                  <h3 className="font-black text-[#1F5EFF] text-lg mb-3">Reporting Timing</h3>
+                  <h4 className="font-black text-[#1F5EFF] text-lg mb-3">Reporting Timing</h4>
                   <p className="text-gray-700">Overdue days are tracked immediately (e.g., DPD - Days Past Due) and heavily influence SMA-0, SMA-1, and SMA-2 classifications.</p>
                 </div>
                 <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
-                  <h3 className="font-black text-[#1F5EFF] text-lg mb-3">Clearance Requirement</h3>
+                  <h4 className="font-black text-[#1F5EFF] text-lg mb-3">Clearance Requirement</h4>
                   <p className="text-gray-700">To remove the overdue status from your account, you must pay the total accumulated arrears in full.</p>
                 </div>
               </div>
@@ -244,17 +244,17 @@ export default function ArrearEMIPage() {
 
             {/* Consequences Section */}
             <section id="consequences" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">Consequences of Unpaid EMI Arrears</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">Consequences of Unpaid EMI Arrears</h3>
               
               <div className="bg-red-50 p-6 rounded-xl border border-red-100 mb-8">
-                <h3 className="text-lg font-black text-red-700 mb-2">The NPA Threat (90-Day Rule)</h3>
+                <h4 className="text-lg font-black text-red-700 mb-2">The NPA Threat (90-Day Rule)</h4>
                 <p className="text-red-900 leading-relaxed">
                   If your EMI arrears remain unpaid for 90 consecutive days, your account will legally be classified as a Non-Performing Asset (NPA). This triggers aggressive recovery actions, legal notices, and potential asset seizure under the SARFAESI Act.
                 </p>
               </div>
 
               <div className="bg-blue-50 border-l-8 border-[#1F5EFF] p-8 rounded-r-2xl mb-8">
-                <h4 className="text-xl font-black text-[#1F5EFF] mb-4">Immediate Impacts of Arrears</h4>
+                <h5 className="text-xl font-black text-[#1F5EFF] mb-4">Immediate Impacts of Arrears</h5>
                 <ul className="space-y-4">
                   <li className="flex items-start gap-3">
                     <div className="mt-1.5 w-2 h-2 rounded-full bg-[#1F5EFF] flex-shrink-0"></div>
@@ -278,13 +278,13 @@ export default function ArrearEMIPage() {
 
             {/* Legal Implications Section */}
             <section id="legal-implications" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">Legal Implications of Arrear EMIs</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">Legal Implications of Arrear EMIs</h3>
               <p className="text-lg leading-relaxed mb-6">
                 When arrear EMIs pile up, the situation quickly transitions from a simple financial oversight to a complex legal battle. Lenders in India have robust legal frameworks at their disposal to recover overdue amounts. It is crucial to understand that ignoring the bank will only accelerate these legal proceedings against you.
               </p>
               
               <div className="bg-gray-50 p-8 rounded-2xl mb-8 border border-gray-200">
-                <h3 className="text-xl font-bold text-[#2E2E2E] mb-4">Common Legal Actions for Default</h3>
+                <h4 className="text-xl font-bold text-[#2E2E2E] mb-4">Common Legal Actions for Default</h4>
                 <p className="text-lg leading-relaxed text-gray-800 mb-4">
                   If your arrears cross the 90-day mark (NPA), banks can invoke the <strong>SARFAESI Act, 2002</strong> for secured loans (like home or property loans), allowing them to auction your pledged property without court intervention. For unsecured loans, banks may send a legal demand notice under Section 138 of the Negotiable Instruments Act if a security cheque bounces, or initiate civil suits for recovery.
                 </p>
@@ -296,13 +296,13 @@ export default function ArrearEMIPage() {
 
             {/* Impact on Co-Borrowers and Guarantors */}
             <section id="co-borrower-impact" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">Impact on Co-Borrowers and Guarantors</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">Impact on Co-Borrowers and Guarantors</h3>
               <p className="text-lg leading-relaxed mb-6">
                 A common misconception among borrowers is that only the primary applicant faces the heat of an arrear EMI. However, banking regulations dictate that liability is equally shared among all parties tied to the loan agreement.
               </p>
               
               <div className="bg-blue-50 border-l-8 border-[#1F5EFF] p-8 rounded-r-2xl mb-8">
-                <h3 className="text-xl font-black text-[#1F5EFF] mb-4">Who Else is Held Liable?</h3>
+                <h4 className="text-xl font-black text-[#1F5EFF] mb-4">Who Else is Held Liable?</h4>
                 <ul className="space-y-4">
                   <li className="flex items-start gap-3">
                     <div className="mt-1.5 w-2 h-2 rounded-full bg-[#1F5EFF] flex-shrink-0"></div>
@@ -322,26 +322,26 @@ export default function ArrearEMIPage() {
 
             {/* How Banks Calculate Penalties on Arrears */}
             <section id="penalty-calculation" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">How Banks Calculate Penalties on Arrears</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">How Banks Calculate Penalties on Arrears</h3>
               <p className="text-lg leading-relaxed mb-6">
                 Arrear EMIs don't just sit idle; they aggressively multiply. When you miss a payment, a cascading series of charges is activated, transforming a manageable monthly installment into a massive financial burden. Understanding this math is vital for recognizing the urgency of clearing arrears.
               </p>
               
               <div className="grid md:grid-cols-2 gap-6 my-8">
                 <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
-                  <h3 className="font-black text-[#1F5EFF] text-lg mb-3">1. Bounce Charges</h3>
+                  <h4 className="font-black text-[#1F5EFF] text-lg mb-3">1. Bounce Charges</h4>
                   <p className="text-gray-700">Every time your auto-debit (ECS/NACH) mandate fails due to insufficient funds, banks levy a flat bounce fee ranging from ₹400 to ₹1,000 per instance. If they attempt to debit multiple times, this charge compounds.</p>
                 </div>
                 <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
-                  <h3 className="font-black text-[#1F5EFF] text-lg mb-3">2. Penal Interest</h3>
+                  <h4 className="font-black text-[#1F5EFF] text-lg mb-3">2. Penal Interest</h4>
                   <p className="text-gray-700">Banks charge penal interest on the overdue amount (usually 2% to 3% per month, equaling 24% to 36% annually). This is calculated on a daily basis from the due date until the arrear is fully cleared.</p>
                 </div>
                 <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
-                  <h3 className="font-black text-[#1F5EFF] text-lg mb-3">3. Overdue Charges</h3>
+                  <h4 className="font-black text-[#1F5EFF] text-lg mb-3">3. Overdue Charges</h4>
                   <p className="text-gray-700">Some lenders impose a flat late payment fee for every cycle you miss. For example, a ₹500 fee added to the statement for crossing the 5th of the month without payment.</p>
                 </div>
                 <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
-                  <h3 className="font-black text-[#1F5EFF] text-lg mb-3">4. GST and Taxes</h3>
+                  <h4 className="font-black text-[#1F5EFF] text-lg mb-3">4. GST and Taxes</h4>
                   <p className="text-gray-700">All penalty charges, bounce fees, and late payment fees are subject to 18% Goods and Services Tax (GST). This hidden tax further inflates the final arrear amount you owe the bank.</p>
                 </div>
               </div>
@@ -349,7 +349,7 @@ export default function ArrearEMIPage() {
 
             {/* How to Clear Section */}
             <section id="how-to-clear" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">How to Clear Loan Arrears Step-by-Step</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">How to Clear Loan Arrears Step-by-Step</h3>
               <p className="text-lg leading-relaxed mb-8">
                 Do not ignore communication from the bank. If you find yourself unable to pay your EMIs, taking proactive steps is the only way to avoid the disastrous NPA classification.
               </p>
@@ -358,7 +358,7 @@ export default function ArrearEMIPage() {
                 <div className="flex gap-6">
                   <div className="flex-shrink-0 w-12 h-12 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center font-black text-xl shadow-lg">1</div>
                   <div>
-                    <h3 className="text-2xl font-bold text-[#2E2E2E] mb-3">Request a Penalty Waiver</h3>
+                    <h4 className="text-2xl font-bold text-[#2E2E2E] mb-3">Request a Penalty Waiver</h4>
                     <p className="text-gray-700 leading-relaxed">
                       If this is your first arrear, approach your branch manager. Submit a formal penalty waiver request letter explaining your temporary financial hardship. Many banks will reverse late fees and bounce charges if you pay the principal EMI amount immediately.
                     </p>
@@ -368,7 +368,7 @@ export default function ArrearEMIPage() {
                 <div className="flex gap-6">
                   <div className="flex-shrink-0 w-12 h-12 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center font-black text-xl shadow-lg">2</div>
                   <div>
-                    <h3 className="text-2xl font-bold text-[#2E2E2E] mb-3">Apply for Loan Restructuring</h3>
+                    <h4 className="text-2xl font-bold text-[#2E2E2E] mb-3">Apply for Loan Restructuring</h4>
                     <p className="text-gray-700 leading-relaxed">
                       If you cannot afford the current EMI, ask the bank to restructure your loan. This can involve extending your loan tenure, which effectively reduces your monthly EMI amount to something you can comfortably afford, clearing the immediate arrear crisis.
                     </p>
@@ -378,7 +378,7 @@ export default function ArrearEMIPage() {
                 <div className="flex gap-6">
                   <div className="flex-shrink-0 w-12 h-12 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center font-black text-xl shadow-lg">3</div>
                   <div>
-                    <h3 className="text-2xl font-bold text-[#2E2E2E] mb-3">Consider a Balance Transfer</h3>
+                    <h4 className="text-2xl font-bold text-[#2E2E2E] mb-3">Consider a Balance Transfer</h4>
                     <p className="text-gray-700 leading-relaxed">
                       If another bank offers a lower interest rate, you can transfer your outstanding balance. However, this is only viable if your arrears are very recent (under 30 days) and your CIBIL score hasn't taken a massive hit yet.
                     </p>
@@ -388,7 +388,7 @@ export default function ArrearEMIPage() {
                 <div className="flex gap-6">
                   <div className="flex-shrink-0 w-12 h-12 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center font-black text-xl shadow-lg">4</div>
                   <div>
-                    <h3 className="text-2xl font-bold text-[#2E2E2E] mb-3">Explore One-Time Settlement (OTS)</h3>
+                    <h4 className="text-2xl font-bold text-[#2E2E2E] mb-3">Explore One-Time Settlement (OTS)</h4>
                     <p className="text-gray-700 leading-relaxed">
                       If you are in deep financial distress and the account is nearing NPA status (90 days), you can negotiate a One Time Settlement. You pay a lump sum that is significantly lower than the total outstanding, though this will reflect as "Settled" on your credit report.
                     </p>
@@ -399,7 +399,7 @@ export default function ArrearEMIPage() {
 
             {/* Reviews Section */}
             <section id="success-stories" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">Customer Success Stories</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">Customer Success Stories</h3>
               <div className="grid md:grid-cols-2 gap-6">
                 
                 {/* Card 1 */}
@@ -416,7 +416,7 @@ export default function ArrearEMIPage() {
                       <svg className="w-5 h-5 fill-current" viewBox="0 0 20 20"><path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z" /></svg>
                     </div>
                   </div>
-                  <h3 className="font-bold text-xl text-[#2E2E2E] mb-2">Rajiv Sharma</h3>
+                  <h4 className="font-bold text-xl text-[#2E2E2E] mb-2">Rajiv Sharma</h4>
                   <p className="text-gray-600 mb-6 italic">"I had 3 arrear EMIs and the bank was threatening NPA status. This guide helped me negotiate a waiver on my late fees and clear my arrears smoothly."</p>
                   <div className="flex gap-2">
                     <span className="inline-block py-1 px-3 rounded-full bg-red-100 text-red-700 text-xs font-bold">Personal Loan</span>
@@ -438,7 +438,7 @@ export default function ArrearEMIPage() {
                       <svg className="w-5 h-5 fill-current" viewBox="0 0 20 20"><path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z" /></svg>
                     </div>
                   </div>
-                  <h4 className="font-bold text-xl text-[#2E2E2E] mb-2">Sneha Verma</h4>
+                  <h5 className="font-bold text-xl text-[#2E2E2E] mb-2">Sneha Verma</h5>
                   <p className="text-gray-600 mb-6 italic">"My personal loan went into arrears after losing my job. Following these steps, I stopped the harassment and settled the account."</p>
                   <div className="flex gap-2">
                     <span className="inline-block py-1 px-3 rounded-full bg-red-100 text-red-700 text-xs font-bold">Credit Card Debt</span>
@@ -450,7 +450,7 @@ export default function ArrearEMIPage() {
 
             {/* FAQs Section */}
             <section id="faqs" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">Frequently Asked Questions</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">Frequently Asked Questions</h3>
               <div className="space-y-4">
                 {[
                   { q: "What does 'arrear EMI' mean on my bank statement?", a: "An arrear EMI refers to a monthly loan installment that you have failed to pay by its designated due date. It indicates that you have fallen behind on your repayment schedule." },
@@ -481,7 +481,7 @@ export default function ArrearEMIPage() {
             <div id="consultation" className="bg-[#2E2E2E] text-white p-12 rounded-[40px] text-center mt-24 relative overflow-hidden group">
               <div className="absolute inset-0 bg-[#1F5EFF] opacity-0 group-hover:opacity-5 transition-opacity duration-300"></div>
               <div className="relative z-10">
-                <h3 className="text-3xl md:text-4xl font-black mb-4">Struggling with Loan Arrears?</h3>
+                <h4 className="text-3xl md:text-4xl font-black mb-4">Struggling with Loan Arrears?</h4>
                 <p className="text-xl text-gray-300 mb-8 max-w-2xl mx-auto">
                   Stop the harassment and prevent NPA classification. Our legal experts can negotiate penalty waivers and help you restructure your debt today.
                 </p>

@@ -384,7 +384,7 @@ export default function HDFCBankSettlementPage() {
             </section>
 
             <section id="why-settle" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl font-black text-[#1a202c] mb-6">Why Should You Consider HDFC Bank Loan Settlement?</h2>
+              <h3 className="text-3xl font-black text-[#1a202c] mb-6">Why Should You Consider HDFC Bank Loan Settlement?</h3>
               <p className="mb-6">
                 The decision to settle a loan is never easy, but for many, it is the only viable path out of a permanent debt cycle. HDFC Bank, like any large financial institution, has a rigorous debt recovery mechanism. If you miss your payments, you are not just dealing with accumulating interest; you are dealing with a machine designed to maximize recovery.
               </p>
@@ -397,7 +397,7 @@ export default function HDFCBankSettlementPage() {
             </section>
 
             <section id="credit-card-trap" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl font-black text-[#1a202c] mb-6">The HDFC Credit Card Debt Trap: A Structural Reality</h2>
+              <h3 className="text-3xl font-black text-[#1a202c] mb-6">The HDFC Credit Card Debt Trap: A Structural Reality</h3>
               <p className="mb-6">
                 HDFC Bank credit cards like Regalia, Millennia, and Infinia are staples in the Indian middle class wallet. However, they come with a hidden danger: the "Minimum Amount Due" feature. This is the primary driver of the debt trap. By paying only the minimum (usually 5% of the bill), you are only covering a portion of the interest and a tiny fraction of the principal.
               </p>
@@ -421,7 +421,7 @@ export default function HDFCBankSettlementPage() {
             </section>
 
             <section id="ots-2026" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl font-black text-[#1a202c] mb-6">One Time Settlement (OTS) Scheme 2026: What's New?</h2>
+              <h3 className="text-3xl font-black text-[#1a202c] mb-6">One Time Settlement (OTS) Scheme 2026: What's New?</h3>
               <p className="mb-6">
                 The term "OTS" or One Time Settlement has gained significant traction in 2026. HDFC Bank, in alignment with broader financial trends in India, has refined its OTS parameters. In 2026, the focus is on resolving long pending Non-Performing Assets (NPAs) through technology driven assessment.
               </p>
@@ -434,7 +434,7 @@ export default function HDFCBankSettlementPage() {
             </section>
 
             <section id="personal-loan-steps" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl font-black text-[#1a202c] mb-6">HDFC Bank Personal Loan Settlement: The Step-by-Step Path</h2>
+              <h3 className="text-3xl font-black text-[#1a202c] mb-6">HDFC Bank Personal Loan Settlement: The Step-by-Step Path</h3>
               <p className="mb-6">
                 Settling a personal loan is different from a credit card because it is an amortized loan with a fixed tenure. HDFC Bank considers personal loan defaults more seriously because the principal amounts are often higher. Here is how the process works when managed by SettleLoans:
               </p>
@@ -442,28 +442,28 @@ export default function HDFCBankSettlementPage() {
                  <li className="flex items-start">
                     <div className="bg-[#004c94] text-white w-8 h-8 rounded-full flex-shrink-0 flex items-center justify-center font-bold mr-4 mt-1">1</div>
                     <div>
-                        <h3 className="font-bold text-xl mb-1">Portfolio Analysis</h3>
+                        <h4 className="font-bold text-xl mb-1">Portfolio Analysis</h4>
                         <p>We review your total outstanding, the duration of default, and your current financial capacity. We determine if settling now or waiting 3 more months will yield a better discount.</p>
                     </div>
                  </li>
                  <li className="flex items-start">
                     <div className="bg-[#004c94] text-white w-8 h-8 rounded-full flex-shrink-0 flex items-center justify-center font-bold mr-4 mt-1">2</div>
                     <div>
-                        <h4 className="font-bold text-xl mb-1">Communication Takeover</h4>
+                        <h5 className="font-bold text-xl mb-1">Communication Takeover</h5>
                         <p>Our legal team notifies HDFC Bank that they are representing you. We issue a formal legal notice requesting a suspension of recovery activity while negotiation is in progress.</p>
                     </div>
                  </li>
                  <li className="flex items-start">
                     <div className="bg-[#004c94] text-white w-8 h-8 rounded-full flex-shrink-0 flex items-center justify-center font-bold mr-4 mt-1">3</div>
                     <div>
-                        <h4 className="font-bold text-xl mb-1">Establishing Hardship</h4>
+                        <h5 className="font-bold text-xl mb-1">Establishing Hardship</h5>
                         <p>This is the most critical step. We compile your "Hardship File" including medical bills, termination letters, or business loss statements. We present this to the Regional Nodal Officer of HDFC Bank.</p>
                     </div>
                  </li>
                  <li className="flex items-start">
                     <div className="bg-[#004c94] text-white w-8 h-8 rounded-full flex-shrink-0 flex items-center justify-center font-bold mr-4 mt-1">4</div>
                     <div>
-                        <h4 className="font-bold text-xl mb-1">Negotiation Loops</h4>
+                        <h5 className="font-bold text-xl mb-1">Negotiation Loops</h5>
                         <p>Initial offers from the bank are usually poor (e.g., 10% discount). We engage in multiple rounds of negotiation, leveraging our industry relationships and knowledge of HDFC's internal "bottom price" thresholds.</p>
                     </div>
                  </li>
@@ -471,7 +471,7 @@ export default function HDFCBankSettlementPage() {
             </section>
 
              <section id="credit-card-process" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl font-black text-[#1a202c] mb-6">HDFC Bank Credit Card Settlement Process details</h2>
+              <h3 className="text-3xl font-black text-[#1a202c] mb-6">HDFC Bank Credit Card Settlement Process details</h3>
               <p className="mb-6">
                 HDFC credit card settlement is faster than personal loans but requires more precision. Since credit cards are "Revolving Credit," the interest calculation is complex. The first goal in HDFC card settlement is to get the interest waived entirely. In many cases, we have successfully managed to get HDFC Bank to accept just the principal amount as a final settlement.
               </p>
@@ -479,7 +479,7 @@ export default function HDFCBankSettlementPage() {
                 One unique aspect of HDFC card settlement is the multi agency recovery. HDFC often uses external agencies like IARC or Phoenix for very old debts. If your debt has been sold to an Asset Reconstruction Company (ARC), the negotiation strategy changes. ARCs bought your debt for pennies on the rupee, so they are often more flexible with deep discounts than the original bank.
               </p>
               <div className="bg-slate-50 p-6 rounded-xl border border-slate-200">
-                 <h3 className="font-black text-[#004c94] mb-4">Pro Tip for HDFC Card Holders:</h3>
+                 <h4 className="font-black text-[#004c94] mb-4">Pro Tip for HDFC Card Holders:</h4>
                  <p className="italic">
                    Never agree to a settlement over the phone. A verbal promise from a recovery agent holds zero weight in court. Always insist on a formal settlement letter on HDFC Bank letterhead or from their official email domain (@hdfcbank.com).
                  </p>
@@ -487,32 +487,32 @@ export default function HDFCBankSettlementPage() {
             </section>
 
             <section id="hardship-categories" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl font-black text-[#1a202c] mb-6">Hardship Categories: Does HDFC Bank Care?</h2>
+              <h3 className="text-3xl font-black text-[#1a202c] mb-6">Hardship Categories: Does HDFC Bank Care?</h3>
               <p className="mb-6">
                 While HDFC Bank is a corporate giant, their settlement guidelines (mandated by RBI) do account for human suffering. To get a "Best-In-Market" settlement offer, your case must fall into one of these categories:
               </p>
               <div className="space-y-4">
                  <div className="p-4 bg-white shadow-sm border rounded-lg">
-                    <h3 className="font-bold text-[#004c94]">Medical Emergency</h3>
+                    <h4 className="font-bold text-[#004c94]">Medical Emergency</h4>
                     <p>Chronic illness of the primary breadwinner or a dependent. HDFC usually accepts hospital discharge summaries and medical bills as valid proof.</p>
                  </div>
                  <div className="p-4 bg-white shadow-sm border rounded-lg">
-                    <h4 className="font-bold text-[#004c94]">Involuntary Unemployment</h4>
+                    <h5 className="font-bold text-[#004c94]">Involuntary Unemployment</h5>
                     <p>Layoffs, company shutdowns, or salary cuts. Resignations are viewed less favorably unless accompanied by other hardship factors.</p>
                  </div>
                  <div className="p-4 bg-white shadow-sm border rounded-lg">
-                    <h5 className="font-bold text-[#004c94]">Business Failure</h5>
+                    <h6 className="font-bold text-[#004c94]">Business Failure</h6>
                     <p>For entrepreneurs and self employed individuals, a collapse of the primary business venture is a strong case for settlement.</p>
                  </div>
                  <div className="p-4 bg-white shadow-sm border rounded-lg">
-                    <h5 className="font-bold text-[#004c94]">Death of the Primary Borrower</h5>
+                    <h6 className="font-bold text-[#004c94]">Death of the Primary Borrower</h6>
                     <p>In tragic cases where the borrower has passed away, the family can negotiate a very high waiver (sometimes 100% on interest and huge parts of principal).</p>
                  </div>
               </div>
             </section>
 
             <section id="cibil-impact" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl font-black text-[#1a202c] mb-6">Understanding the CIBIL Score Impact</h2>
+              <h3 className="text-3xl font-black text-[#1a202c] mb-6">Understanding the CIBIL Score Impact</h3>
               <p className="mb-6">
                 We will not sugarcoat it: Settling your HDFC Bank loan will negatively impact your CIBIL score. When you pay less than you owe, the bank reports the account status as "Settled" to TransUnion CIBIL, Experian, and other bureaus. This is different from "Closed" or "Post Sanction Credit."
               </p>
@@ -525,7 +525,7 @@ export default function HDFCBankSettlementPage() {
             </section>
 
             <section id="legal-notices" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl font-black text-[#1a202c] mb-6">Dealing with HDFC Bank Legal Notices</h2>
+              <h3 className="text-3xl font-black text-[#1a202c] mb-6">Dealing with HDFC Bank Legal Notices</h3>
               <p className="mb-6">
                 If you have missed 3 or more EMIs, you will likely start receiving legal notices from HDFC Bank. It is important to distinguish between "Scare Tactics" and "Serious Legal Action."
               </p>
@@ -542,32 +542,32 @@ export default function HDFCBankSettlementPage() {
             </section>
 
             <section id="why-hire-us" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl font-black text-[#1a202c] mb-6">Why Hire SettleLoans for Your HDFC Settlement?</h2>
+              <h3 className="text-3xl font-black text-[#1a202c] mb-6">Why Hire SettleLoans for Your HDFC Settlement?</h3>
               <p className="mb-6">
                 Can you settle your loan yourself? Yes, you can. But should you? Most borrowers who try to settle themselves fail for three reasons:
               </p>
               <div className="grid md:grid-cols-2 gap-6 mb-12">
                  <div className="p-6 bg-[#f8faff] rounded-xl border-t-4 border-[#004c94]">
-                    <h3 className="font-bold mb-2">Lack of Benchmarking</h3>
+                    <h4 className="font-bold mb-2">Lack of Benchmarking</h4>
                     <p className="text-sm">You don't know what the 'minimum' HDFC will accept. You might settle at 60% when 40% was possible.</p>
                  </div>
                  <div className="p-6 bg-[#f8faff] rounded-xl border-t-4 border-[#004c94]">
-                    <h4 className="font-bold mb-2">Emotional Pressure</h4>
+                    <h5 className="font-bold mb-2">Emotional Pressure</h5>
                     <p className="text-sm">Recovery agents use psychological tactics to make you panic. We provide a professional buffer.</p>
                  </div>
                  <div className="p-6 bg-[#f8faff] rounded-xl border-t-4 border-[#004c94]">
-                    <h5 className="font-bold mb-2">Documentation Errors</h5>
+                    <h6 className="font-bold mb-2">Documentation Errors</h6>
                     <p className="text-sm">Many 'DIY' settlements fail because the borrower didn't get a proper settlement letter, and the bank resumed collections later.</p>
                  </div>
                  <div className="p-6 bg-[#f8faff] rounded-xl border-t-4 border-[#004c94]">
-                    <h5 className="font-bold mb-2">Legal Shield</h5>
+                    <h6 className="font-bold mb-2">Legal Shield</h6>
                     <p className="text-sm">We handle the legal notices and talk to the bank's lawyers so you don't have to.</p>
                  </div>
               </div>
             </section>
 
             <section id="bank-policies" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl font-black text-[#1a202c] mb-6">HDFC Bank Internal Debt Recovery Policies: An Insider Perspective</h2>
+              <h3 className="text-3xl font-black text-[#1a202c] mb-6">HDFC Bank Internal Debt Recovery Policies: An Insider Perspective</h3>
               <p className="mb-6">
                 HDFC Bank follows a phased and highly structured recovery policy that is designed to minimize Non-Performing Assets (NPAs). Understanding this cycle is crucial for timing your settlement negotiation. Phase 1 typically lasts for 0 to 60 days of default, where the bank's internal call centers manage the accounts. During this stage, they are focused on "regularizing" the account by asking for the minimum amount due or full EMI. Settlement offers are rare at this stage.
               </p>
@@ -583,7 +583,7 @@ export default function HDFCBankSettlementPage() {
             </section>
 
              <section id="common-obstacles" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl font-black text-[#1a202c] mb-6">Common Obstacles in HDFC Settlement and How We Solve Them</h2>
+              <h3 className="text-3xl font-black text-[#1a202c] mb-6">Common Obstacles in HDFC Settlement and How We Solve Them</h3>
               <p className="mb-6">
                 Negotiating with a retail banking giant like HDFC is not without its hurdles. One of the most common obstacles is the "Multi-Product Relationship." Many borrowers have multiple products with HDFC: a credit card, a personal loan, and a savings account. HDFC Bank often uses "Cross-Product Pressure," where they might block your credit card usage because you missed a personal loan EMI, or vice versa. We help you navigate this by structuring a "Global Settlement" that covers all your liabilities with the bank under a single negotiation umbrella.
               </p>
@@ -599,7 +599,7 @@ export default function HDFCBankSettlementPage() {
             </section>
 
             <section id="documents" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl font-black text-[#1a202c] mb-6">Required Documentation for HDFC settlement</h2>
+              <h3 className="text-3xl font-black text-[#1a202c] mb-6">Required Documentation for HDFC settlement</h3>
               <p className="mb-6">
                 To build a bulletproof case, you must have your paperwork ready. HDFC Bank's nodal officers require:
               </p>
@@ -616,7 +616,7 @@ export default function HDFCBankSettlementPage() {
             </section>
 
             <section id="rbi-vs-hdfc" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl font-black text-[#1a202c] mb-6">RBI Guidelines: Your Protection Against Aggressive Recovery</h2>
+              <h3 className="text-3xl font-black text-[#1a202c] mb-6">RBI Guidelines: Your Protection Against Aggressive Recovery</h3>
               <p className="mb-6">
                 The Reserve Bank of India (RBI) has strict guidelines on debt recovery. If HDFC Bank's recovery agents are violating these, you have a powerful leverage during settlement negotiations.
               </p>
@@ -635,7 +635,7 @@ export default function HDFCBankSettlementPage() {
             </section>
 
             <section id="faqs" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-5xl font-black text-[#004c94] mb-12">Frequently Asked Questions about HDFC Settlement</h2>
+              <h3 className="text-3xl md:text-5xl font-black text-[#004c94] mb-12">Frequently Asked Questions about HDFC Settlement</h3>
               <div className="space-y-4">
                   {[
                     { q: "Is it worth settling my HDFC credit card?", a: "Yes, if the interest is growing faster than your ability to pay. A settlement stops the bleeding and gives you a chance to rebuild your life." },
@@ -660,7 +660,7 @@ export default function HDFCBankSettlementPage() {
                     { q: "What is the significance of the Lok Adalat in HDFC settlements?", a: "Lok Adalats are judicial platforms where HDFC settlements are formalised with a court decree, making the closure legally binding and final." }
                  ].map((faq, i) => (
                     <div key={i} className="border-b border-slate-200 pb-6">
-                        <h3 className="font-bold text-lg text-[#1a202c] mb-2">{faq.q}</h3>
+                        <h4 className="font-bold text-lg text-[#1a202c] mb-2">{faq.q}</h4>
                         <p className="text-[#4a5568]">{faq.a}</p>
                     </div>
                  ))}
@@ -668,7 +668,7 @@ export default function HDFCBankSettlementPage() {
             </section>
 
             <section id="reviews" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl font-black text-[#1a202c] mb-8">What Our HDFC Clients Say</h2>
+              <h3 className="text-3xl font-black text-[#1a202c] mb-8">What Our HDFC Clients Say</h3>
               <div className="grid gap-6">
                 {[
                   { name: "Rahul Verma", date: "Jan 10, 2024", text: "SettleLoans helped me settle my HDFC credit card debt of 5 lakhs for just 1.8 lakhs. The harassment stopped immediately and the entire process was handled professionally.", rating: 5 },
@@ -694,7 +694,7 @@ export default function HDFCBankSettlementPage() {
             </section>
 
             <section id="conclusion" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl font-black text-[#1a202c] mb-6">Final Thoughts: Reclaim Your Freedom Today</h2>
+              <h3 className="text-3xl font-black text-[#1a202c] mb-6">Final Thoughts: Reclaim Your Freedom Today</h3>
               <p className="text-lg mb-6">
                 HDFC Bank loan settlement is not about "escaping" your responsibilities; it is about "resolving" an impossible situation. Thousands of people thrive after a settlement. It is a period of temporary austerity for long term peace. If you are tired of the constant calls, the legal threats, and the sleepless nights, let SettleLoans be your partner.
               </p>
@@ -702,7 +702,7 @@ export default function HDFCBankSettlementPage() {
                 With our legal expertise and negotiation power, we ensure that your HDFC Bank journey ends with a clean break and a No Dues Certificate. Don't let debt define your future. Start the process today.
               </p>
               <div className="bg-[#004c94] text-white p-10 rounded-3xl text-center">
-                 <h3 className="text-3xl font-black mb-4">Start Your Debt Free Life</h3>
+                 <h4 className="text-3xl font-black mb-4">Start Your Debt Free Life</h4>
                  <p className="text-xl mb-8 opacity-90">Our experts are waiting to analyze your HDFC Bank portfolio for free.</p>
                  <Link href="/contact" className="inline-block bg-[#ed232a] text-white font-black py-4 px-12 rounded-xl text-xl hover:bg-white hover:text-[#ed232a] transition-all">
                     Consult Our Experts Now

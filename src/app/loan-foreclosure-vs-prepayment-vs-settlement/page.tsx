@@ -528,7 +528,7 @@ export default function LoanForeclosureVsPrepaymentVsSettlementPage() {
 
             {/* Section 2: Statutory & Regulatory Framework */}
             <section id="rbi-statutory-framework-and-foreclosure-rules" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">2. RBI Foreclosure Rules &amp; Fair Practices</h2>
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">2. RBI Foreclosure Rules &amp; Fair Practices</h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 The Reserve Bank of India (RBI) sets clear rules for early loan closure and debt resolution. Knowing these rules helps you protect your rights against illegal bank fees and unfair recovery tactics.
               </p>
@@ -565,7 +565,7 @@ export default function LoanForeclosureVsPrepaymentVsSettlementPage() {
 
             {/* Section 3: CIBIL & Credit Bureau Forensics */}
             <section id="cibil-credit-bureau-forensics" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">3. CIBIL Forensics: Settled vs Written Off</h2>
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">3. CIBIL Forensics: Settled vs Written Off</h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Under the Credit Information Companies (Regulation) Act, 2005 (CICRA), banks must send monthly repayment records to CIBIL, Experian, Equifax, and CRIF High Mark. Your chosen closure method determines your credit score for years.
               </p>
@@ -628,7 +628,7 @@ export default function LoanForeclosureVsPrepaymentVsSettlementPage() {
 
             {/* Section 4: Financial Economics, NPV & Taxation */}
             <section id="financial-economics-npv-and-taxation" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">4. Financial Economics &amp; NPV Formulas</h2>
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">4. Financial Economics &amp; NPV Formulas</h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 The choice to foreclose, prepay, or settle depends on recovery math. Banks review settlement offers using the <strong>Net Present Value of Legal Recovery</strong> formula:
               </p>
@@ -651,9 +651,9 @@ export default function LoanForeclosureVsPrepaymentVsSettlementPage() {
                 If your lump-sum settlement offer is higher than net court recovery, the bank committee will accept the deal.
               </p>
 
-              <h3 className="text-base sm:text-lg font-bold text-slate-900 pt-2">
+              <h4 className="text-base sm:text-lg font-bold text-slate-900 pt-2">
                 Income Tax Implications: Retail vs. Commercial Borrowers (Section 194R &amp; Section 41(1))
-              </h3>
+              </h4>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Under the Income Tax Act, 1961, the tax impact of a waived loan depends on your loan type:
               </p>
@@ -683,9 +683,9 @@ export default function LoanForeclosureVsPrepaymentVsSettlementPage() {
 
             {/* Section 5: Infographic Banner */}
             <section id="comparative-visual-roadmap" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                 5. Loan Exit Mechanisms Strategic Visual Roadmap
-              </h2>
+              </h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 This chart compares Foreclosure, Part-Prepayment, and Loan Settlement in India. It highlights how each route works, affects your CIBIL score. And saves interest:
               </p>
@@ -720,7 +720,7 @@ export default function LoanForeclosureVsPrepaymentVsSettlementPage() {
 
             {/* Section 6: Step-by-Step Execution Protocols */}
             <section id="step-by-step-execution-protocols" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">6. Step-by-Step Execution Protocols</h2>
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">6. Step-by-Step Execution Protocols</h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Follow standard banking steps to close your loan without surprise charges or active auto-debit issues:
               </p>
@@ -770,7 +770,7 @@ export default function LoanForeclosureVsPrepaymentVsSettlementPage() {
 
             {/* Section 7: Sanction Letter & Settlement Forensics */}
             <section id="sanction-letter-and-settlement-forensics" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">7. Sanction Letter &amp; Agreement Audit</h2>
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">7. Sanction Letter &amp; Agreement Audit</h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Never settle a loan based on verbal talks from recovery agents. Agents may take your money as overdue interest instead of closing the debt.
               </p>
@@ -823,14 +823,14 @@ export default function LoanForeclosureVsPrepaymentVsSettlementPage() {
 
             {/* Section 8: Post-Exit Documentation & CIBIL Rebuilding */}
             <section id="post-exit-documentation-ndc-and-credit-recovery" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">8. Post-Exit NDC &amp; CIBIL Rebuilding</h2>
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">8. Post-Exit NDC &amp; CIBIL Rebuilding</h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Closing a loan requires getting your discharge papers, releasing property deeds. And fixing your credit score.
               </p>
 
-              <h3 className="text-base sm:text-lg font-bold text-slate-900 pt-2">
+              <h4 className="text-base sm:text-lg font-bold text-slate-900 pt-2">
                 RBI 30-Day Mandatory Collateral Release Rule (Circular RBI/2023-24/60)
-              </h3>
+              </h4>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Under RBI directives on the <em>Release of Movable/Immovable Property Documents on Repayment/Settlement of Personal Loans</em>, all banks and NBFCs are required to:
               </p>
@@ -840,9 +840,9 @@ export default function LoanForeclosureVsPrepaymentVsSettlementPage() {
                 <li>Pay you <strong>₹5,000 per day</strong> for any delay in releasing your property papers beyond 30 days.</li>
               </ul>
 
-              <h3 className="text-base sm:text-lg font-bold text-slate-900 pt-2">
+              <h4 className="text-base sm:text-lg font-bold text-slate-900 pt-2">
                 Systematic Credit Rebuilding Roadmap Post-Settlement
-              </h3>
+              </h4>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 If you settled your loan, your CIBIL file will show a &quot;Settled&quot. tag. Follow these 4 steps to rebuild your credit score:
               </p>
@@ -880,9 +880,9 @@ export default function LoanForeclosureVsPrepaymentVsSettlementPage() {
 
             {/* Section 9: Comprehensive 3-Way Comparative Matrix */}
             <section id="three-way-comparative-decision-matrix" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                 9. Comprehensive 3-Way Comparative Decision Matrix Table
-              </h2>
+              </h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 The comparative matrix below outlines every legal, financial, legal. And operational parameter across all three exit options:
               </p>
@@ -966,9 +966,9 @@ export default function LoanForeclosureVsPrepaymentVsSettlementPage() {
             {/* Section 10: CompanySection Component */}
             <section id="company-resolution-section" className="space-y-6">
               <div className="border-t border-slate-200 pt-8 space-y-4">
-                <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
+                <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                   10. SettleLoans Strategic Debt Resolution &amp; Legal Advisory
-                </h2>
+                </h3>
                 <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                   Choosing between foreclosure, prepayment. And settlement depends on your budget and goals. SettleLoans helps you check bank fees under RBI rules. We build prepayment plans and negotiate One-Time Settlements (OTS) with major banks to secure maximum debt relief.
                 </p>
@@ -982,7 +982,7 @@ export default function LoanForeclosureVsPrepaymentVsSettlementPage() {
             <section id="faqs" className="space-y-4 border-t border-slate-200 pt-8">
               <div className="flex items-center gap-2 mb-2">
                 <HelpCircle className="w-5 h-5 text-[#1F5EFF]" />
-                <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">11. FAQs: Foreclosure vs. Prepayment vs. Settlement</h2>
+                <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">11. FAQs: Foreclosure vs. Prepayment vs. Settlement</h3>
               </div>
               <p className="text-xs sm:text-sm text-slate-600 mb-6">
                 Find clear answers below on RBI foreclosure rules, CIBIL credit tags. And debt settlement in India.
@@ -1012,9 +1012,9 @@ export default function LoanForeclosureVsPrepaymentVsSettlementPage() {
 
             {/* 5 Official Regulatory Links */}
             <section className="border-t border-slate-200 pt-8 mb-4">
-              <h3 className="text-xs sm:text-sm font-bold text-slate-900 mb-3 uppercase tracking-wider">
+              <h4 className="text-xs sm:text-sm font-bold text-slate-900 mb-3 uppercase tracking-wider">
                 Official Statutory &amp; Regulatory References
-              </h3>
+              </h4>
               <div className="grid grid-cols-1 sm:grid-cols-2 gap-2.5 text-xs">
                 <a
                   href="https://www.rbi.org.in"
@@ -1066,9 +1066,9 @@ export default function LoanForeclosureVsPrepaymentVsSettlementPage() {
 
             {/* 10 Related Guide Badges */}
             <section className="border-t border-slate-200 pt-8 mb-8">
-              <h3 className="text-xs sm:text-sm font-bold text-slate-900 mb-4 uppercase tracking-wider">
+              <h4 className="text-xs sm:text-sm font-bold text-slate-900 mb-4 uppercase tracking-wider">
                 Related Debt Resolution &amp; Banking Guides
-              </h3>
+              </h4>
               <div className="flex flex-wrap gap-2">
                 <Link
                   href="/bank-one-time-settlement-ots-policy"

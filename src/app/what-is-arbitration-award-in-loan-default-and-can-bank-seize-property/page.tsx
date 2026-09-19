@@ -259,14 +259,14 @@ export default function ArbitrationAwardDefensePage() {
             </section>
 
             <section id="understanding-arbitration" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 What is an Ex-Parte Arbitration Award?
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 Arbitration is a private dispute resolution mechanism. When you signed your loan agreement, it likely contained an arbitration clause, allowing the bank to bypass regular courts and appoint an arbitrator if you defaulted.
               </p>
               <div className="bg-blue-50 border-l-8 border-[#1F5EFF] p-8 rounded-r-2xl mb-8">
-                <h3 className="text-xl font-black text-[#1F5EFF] mb-4">The Ex-Parte Trap</h3>
+                <h4 className="text-xl font-black text-[#1F5EFF] mb-4">The Ex-Parte Trap</h4>
                 <p className="text-blue-900 text-lg leading-relaxed mb-4">
                   "Ex-parte" means proceeding without one party. Here is how banks manufacture these awards:
                 </p>
@@ -288,15 +288,15 @@ export default function ArbitrationAwardDefensePage() {
             </section>
 
             <section id="section-9-notice" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 The Danger of a Section 9 Arbitration Notice
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 Before or during the arbitration process, the bank may serve you with a <strong>section 9 arbitration notice</strong>. This is one of their most aggressive legal weapons.
               </p>
               
               <div className="bg-red-50 p-6 rounded-xl border border-red-100 mb-8">
-                <h3 className="text-xl font-black text-red-700 mb-3">Interim Relief for the Bank</h3>
+                <h4 className="text-xl font-black text-red-700 mb-3">Interim Relief for the Bank</h4>
                 <p className="text-red-900 leading-relaxed">
                   Under Section 9 of the Arbitration and Conciliation Act, the bank can petition a civil court for interim measures. They can request the court to freeze your bank accounts, issue a stay against selling your assets, or even appoint a receiver to take possession of your hypothecated vehicle or machinery—all before the final award is even passed!
                 </p>
@@ -307,22 +307,22 @@ export default function ArbitrationAwardDefensePage() {
             </section>
 
             <section id="execution-against-property" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 Executing the Arbitration Award Against Your Property
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 The most terrifying aspect of an arbitration award is its enforceability. Once the time limit to challenge the award expires, it becomes as powerful as a decree passed by a Civil Court judge.
               </p>
 
               <div className="grid md:grid-cols-2 gap-6 my-8">
                 <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
-                  <h3 className="font-black text-[#1F5EFF] text-lg mb-3">Execution Petition</h3>
+                  <h4 className="font-black text-[#1F5EFF] text-lg mb-3">Execution Petition</h4>
                   <p className="text-gray-700 leading-relaxed">
                     The bank will file an Execution Petition under Order 21 of the Civil Procedure Code (CPC) in the district court where your assets are located.
                   </p>
                 </div>
                 <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
-                  <h4 className="font-black text-[#1F5EFF] text-lg mb-3">Attachment of Property</h4>
+                  <h5 className="font-black text-[#1F5EFF] text-lg mb-3">Attachment of Property</h5>
                   <p className="text-gray-700 leading-relaxed">
                     The court can order the attachment (seizure) and auction of your movable assets (cars, jewelry) and immovable properties (house, land) to recover the awarded amount.
                   </p>
@@ -331,9 +331,9 @@ export default function ArbitrationAwardDefensePage() {
             </section>
 
             <section id="how-to-challenge" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 How to Challenge a Bank Arbitration Order
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 If you want to save your property, you must actively <strong>challenge bank arbitration order</strong>. You cannot merely send a letter or ignore it; you must file a formal legal petition.
               </p>
@@ -348,7 +348,7 @@ export default function ArbitrationAwardDefensePage() {
                 <div className="flex gap-6">
                   <div className="flex-shrink-0 w-12 h-12 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center font-black text-xl shadow-lg">1</div>
                   <div>
-                    <h3 className="text-2xl font-bold text-[#2E2E2E] mb-2">File a Section 34 Petition</h3>
+                    <h4 className="text-2xl font-bold text-[#2E2E2E] mb-2">File a Section 34 Petition</h4>
                     <p className="text-lg text-gray-700 leading-relaxed">
                       Your lawyer will file an application to set aside the arbitral award based on specific legal grounds defined in the Act.
                     </p>
@@ -358,7 +358,7 @@ export default function ArbitrationAwardDefensePage() {
                 <div className="flex gap-6">
                   <div className="flex-shrink-0 w-12 h-12 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center font-black text-xl shadow-lg">2</div>
                   <div>
-                    <h3 className="text-2xl font-bold text-[#2E2E2E] mb-2">Apply for a Stay Order (Section 36)</h3>
+                    <h4 className="text-2xl font-bold text-[#2E2E2E] mb-2">Apply for a Stay Order (Section 36)</h4>
                     <p className="text-lg text-gray-700 leading-relaxed">
                       Filing a challenge does not automatically stop the bank from seizing your property. You must file a separate application under Section 36 to stay the execution of the award. The court will likely ask you to deposit a percentage of the disputed amount.
                     </p>
@@ -368,34 +368,34 @@ export default function ArbitrationAwardDefensePage() {
             </section>
 
             <section id="grounds-for-challenge" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 Legal Grounds for a Section 34 Challenge
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 Courts do not simply review the merits of the case again. You must prove procedural or fundamental flaws in how the award was passed:
               </p>
 
               <div className="grid md:grid-cols-2 gap-6 my-8">
                 <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
-                  <h3 className="font-black text-[#1F5EFF] text-lg mb-3">Improper Notice</h3>
+                  <h4 className="font-black text-[#1F5EFF] text-lg mb-3">Improper Notice</h4>
                   <p className="text-gray-700 leading-relaxed">
                     If you can prove that you were not given proper notice of the appointment of the arbitrator or of the arbitral proceedings, the ex-parte award can be set aside.
                   </p>
                 </div>
                 <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
-                  <h4 className="font-black text-[#1F5EFF] text-lg mb-3">Unilateral Appointment</h4>
+                  <h5 className="font-black text-[#1F5EFF] text-lg mb-3">Unilateral Appointment</h5>
                   <p className="text-gray-700 leading-relaxed">
                     The Supreme Court (in the Perkins Eastman case) ruled that a bank cannot unilaterally appoint a sole arbitrator. If the arbitrator was biased or appointed illegally by the bank alone, the award is void.
                   </p>
                 </div>
                 <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
-                  <h4 className="font-black text-[#1F5EFF] text-lg mb-3">Against Public Policy</h4>
+                  <h5 className="font-black text-[#1F5EFF] text-lg mb-3">Against Public Policy</h5>
                   <p className="text-gray-700 leading-relaxed">
                     If the award includes grossly illegal penal charges or violates fundamental laws of India, it can be challenged as being in conflict with the public policy of India.
                   </p>
                 </div>
                 <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
-                  <h4 className="font-black text-[#1F5EFF] text-lg mb-3">Incapacity</h4>
+                  <h5 className="font-black text-[#1F5EFF] text-lg mb-3">Incapacity</h5>
                   <p className="text-gray-700 leading-relaxed">
                     If the borrower was under some incapacity (e.g., severe mental illness) during the proceedings, the award is invalid.
                   </p>
@@ -404,9 +404,9 @@ export default function ArbitrationAwardDefensePage() {
             </section>
 
             <section id="success-stories" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 Client Success Stories
-              </h2>
+              </h3>
               <div className="grid md:grid-cols-2 gap-6 my-8">
                 <div className="bg-white p-8 rounded-[30px] border border-[#DEDEDE] shadow-sm hover:shadow-xl group transition-all">
                   <div className="flex items-center gap-4 mb-6">
@@ -414,7 +414,7 @@ export default function ArbitrationAwardDefensePage() {
                       SK
                     </div>
                     <div>
-                      <h3 className="font-bold text-gray-900">Sanjay K.</h3>
+                      <h4 className="font-bold text-gray-900">Sanjay K.</h4>
                       <div className="flex text-yellow-400">
                         <svg className="w-4 h-4 fill-current" viewBox="0 0 20 20"><path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z"/></svg>
                         <svg className="w-4 h-4 fill-current" viewBox="0 0 20 20"><path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z"/></svg>
@@ -439,7 +439,7 @@ export default function ArbitrationAwardDefensePage() {
                       MR
                     </div>
                     <div>
-                      <h4 className="font-bold text-gray-900">Meera R.</h4>
+                      <h5 className="font-bold text-gray-900">Meera R.</h5>
                       <div className="flex text-yellow-400">
                         <svg className="w-4 h-4 fill-current" viewBox="0 0 20 20"><path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z"/></svg>
                         <svg className="w-4 h-4 fill-current" viewBox="0 0 20 20"><path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z"/></svg>
@@ -461,13 +461,13 @@ export default function ArbitrationAwardDefensePage() {
             </section>
 
             <section id="faqs" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 Frequently Asked Questions
-              </h2>
+              </h3>
               <div className="space-y-4">
                 {jsonLd["@graph"].find(g => g["@type"] === "FAQPage")?.mainEntity?.map((faq: any, index: number) => (
                   <div key={index} className="bg-white border border-[#DEDEDE] rounded-xl p-6 hover:shadow-md transition-shadow">
-                    <h3 className="text-lg font-bold text-[#2E2E2E] mb-3">{faq.name}</h3>
+                    <h4 className="text-lg font-bold text-[#2E2E2E] mb-3">{faq.name}</h4>
                     <p className="text-gray-700 leading-relaxed">{faq.acceptedAnswer.text}</p>
                   </div>
                 ))}
@@ -477,7 +477,7 @@ export default function ArbitrationAwardDefensePage() {
             {/* Lead Gen Hook */}
             <div className="bg-[#2E2E2E] text-white p-12 rounded-[40px] text-center mt-24 relative overflow-hidden group">
               <div className="absolute inset-0 bg-[#1F5EFF] opacity-0 group-hover:opacity-5 transition-opacity"></div>
-              <h3 className="text-3xl font-black mb-6 relative z-10">Protect Your Property from Seizure</h3>
+              <h4 className="text-3xl font-black mb-6 relative z-10">Protect Your Property from Seizure</h4>
               <p className="text-xl opacity-90 mb-8 relative z-10 max-w-2xl mx-auto">
                 Received an Ex-Parte Arbitration Award ordering you to pay the bank immediately? You have only 90 days to challenge it in court before the bank tries to attach your assets. Contact our litigation experts today.
               </p>

@@ -181,7 +181,7 @@ export default function EducationLoanSettlementPage() {
                                 Defaulting on a study loan creates a unique crisis because it often involves the student as the primary borrower and the parents as co-applicants or guarantors. This 'Double-Sided' pressure can lead to immense familial stress. Furthermore, if the loan was secured with property, the parents' home could be at risk. This is where a specialized lawyer for education loan settlement becomes a vital ally. Understanding the intersection of the SARFAESI Act, the Indian Contract Act, and RBI's 'Model Education Loan Scheme' is essential for finding a way out.
                             </p>
                             <div className="bg-blue-50 p-8 rounded-2xl border border-blue-100 mb-10">
-                                <h3 className="text-xl font-bold text-[#1F5EFF] mb-4 uppercase tracking-wider">The Socio-Economic Impact of Study Loans</h3>
+                                <h4 className="text-xl font-bold text-[#1F5EFF] mb-4 uppercase tracking-wider">The Socio-Economic Impact of Study Loans</h4>
                                 <p className="text-gray-700 leading-relaxed mb-4 font-medium">
                                     The Indian education loan sector has seen rapid growth, but also rising NPAs. Unlike a car or business loan, an education loan is funded against 'Future Earning Potential'. If that potential doesn't materialize immediately, the borrower is left with a liability and no asset to sell.
                                 </p>
@@ -192,13 +192,13 @@ export default function EducationLoanSettlementPage() {
                         </section>
 
                         <section id="rbi-guidelines" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 uppercase tracking-tight">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 uppercase tracking-tight">
                                 RBI and IBA Framework: Your Legal Foundation
-                            </h2>
+                            </h3>
                             <p className="text-lg text-gray-700 leading-relaxed mb-6">
                                 The Reserve Bank of India (RBI) and the Indian Banks' Association (IBA) have established the 'Model Education Loan Scheme'. This is not just a guideline; for many Public Sector Banks (PSBs), it is the mandatory standard they must follow.
                             </p>
-                            <h3 className="text-2xl font-bold text-[#2E2E2E] mb-4">Protective Clauses You Rarely Hear About</h3>
+                            <h4 className="text-2xl font-bold text-[#2E2E2E] mb-4">Protective Clauses You Rarely Hear About</h4>
                             <ul className="list-none space-y-6 mb-10">
                                 <li className="p-6 bg-gray-50 rounded-2xl border border-gray-200">
                                     <strong className="text-[#1F5EFF]">The Livelihood Protection:</strong> RBI guidelines suggest that banks should be flexible with education loans because they directly affect the borrower's life and career. Aggressive recovery is technically discouraged for this category.
@@ -213,9 +213,9 @@ export default function EducationLoanSettlementPage() {
                         </section>
 
                         <section id="moratorium-rules" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">
                                 Moratorium Mastery: Extending Your Repayment Holiday
-                            </h2>
+                            </h3>
                             <p className="text-lg text-gray-700 leading-relaxed mb-6">
                                 The moratorium period is a unique feature of education loans. It usually covers the course period plus one year. However, life doesn't always go as planned.
                             </p>
@@ -228,9 +228,9 @@ export default function EducationLoanSettlementPage() {
                         </section>
 
                         <section id="settlement-logic" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 uppercase tracking-tight">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 uppercase tracking-tight">
                                 Why Banks Settle Education Loans: The ROI of Compassion
-                            </h2>
+                            </h3>
                             <p className="text-lg text-gray-700 leading-relaxed mb-6">
                                 Why would a bank like SBI or Axis accept 40% of what you owe? The answer lies in the 'Cost of Recovery'. Litigation in India is slow and expensive. For an education loan, there is often no physical asset to repossess (unless it's a high-value secured loan).
                             </p>
@@ -239,20 +239,20 @@ export default function EducationLoanSettlementPage() {
                             </p>
                             <div className="grid grid-cols-1 md:grid-cols-2 gap-8 mb-10">
                                 <div className="p-8 bg-blue-50 rounded-3xl border border-blue-100 shadow-sm">
-                                    <h3 className="font-bold text-xl mb-3 text-[#1F5EFF]">Net Present Value (NPV)</h3>
+                                    <h4 className="font-bold text-xl mb-3 text-[#1F5EFF]">Net Present Value (NPV)</h4>
                                     <p className="text-gray-700 leading-relaxed text-sm">We prove to the bank that X amount today is worth more to them than X+Y after 7 years of court battles.</p>
                                 </div>
                                 <div className="p-8 bg-blue-50 rounded-3xl border border-blue-100 shadow-sm">
-                                    <h4 className="font-bold text-xl mb-3 text-[#1F5EFF]">Social Reputation</h4>
+                                    <h5 className="font-bold text-xl mb-3 text-[#1F5EFF]">Social Reputation</h5>
                                     <p className="text-gray-700 leading-relaxed text-sm">Banks are sensitive to news about 'Suing Students'. A lawyer ensures your case is handled with the appropriate level of public-facing sensitivity.</p>
                                 </div>
                             </div>
                         </section>
 
                         <section id="legal-harassment" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">
                                 Stopping Recovery Agent Harassment: Your Legal Shield
-                            </h2>
+                            </h3>
                             <p className="text-lg text-gray-700 leading-relaxed mb-6">
                                 Recovery agents often target students because they are young and unaware of their rights. Common tactics include calling college friends, messaging on LinkedIn, or visiting the parents' home in the evening.
                             </p>
@@ -273,9 +273,9 @@ export default function EducationLoanSettlementPage() {
                         </section>
 
                         <section id="ots-process" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 uppercase tracking-tight">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 uppercase tracking-tight">
                                 The Step-by-Step Education Loan OTS Process
-                            </h2>
+                            </h3>
                             <p className="text-lg text-gray-700 leading-relaxed mb-6">
                                 A One-Time Settlement (OTS) is a delicate dance of legal documentation and strategic silence. We don't just 'request' a settlement; we present a dossier that makes settlement the only logical choice for the bank.
                             </p>
@@ -290,7 +290,7 @@ export default function EducationLoanSettlementPage() {
                                     <div key={i} className="flex gap-4 p-6 bg-white border border-[#DEDEDE] rounded-2xl shadow-sm">
                                         <div className="w-10 h-10 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center font-bold flex-shrink-0">{i + 1}</div>
                                         <div>
-                                            <h3 className="font-bold text-[#2E2E2E] mb-1">{item.step}</h3>
+                                            <h4 className="font-bold text-[#2E2E2E] mb-1">{item.step}</h4>
                                             <p className="text-gray-600 text-sm">{item.desc}</p>
                                         </div>
                                     </div>
@@ -299,9 +299,9 @@ export default function EducationLoanSettlementPage() {
                         </section>
 
                         <section id="collateral-secured" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">
                                 Secured vs. Unsecured Education Loans: Legal Nuances
-                            </h2>
+                            </h3>
                             <p className="text-lg text-gray-700 leading-relaxed mb-6">
                                 High-value education loans (for IVY League or International MBA) usually involve property as collateral. This changes the legal dynamic completely.
                             </p>
@@ -309,15 +309,15 @@ export default function EducationLoanSettlementPage() {
                                 For secured loans, the bank can use the SARFAESI ACT to auction your home. However, our lawyers specialize in SARFAESI defense. We challenge the bank's valuation of the property and identify procedural flaws in their 13(2) and 13(4) notices. By creating a 'cloud over the title', we stop the auction and force a settlement that allows the family to keep their home while resolving the debt.
                             </p>
                             <div className="bg-yellow-50 p-8 rounded-2xl border border-yellow-200 mb-10">
-                                <h3 className="text-xl font-bold mb-4 text-[#2E2E2E]">The 'Excessive Security' Defense</h3>
+                                <h4 className="text-xl font-bold mb-4 text-[#2E2E2E]">The 'Excessive Security' Defense</h4>
                                 <p className="text-gray-700">If the property value is 2 Crores but the loan is only 50 Lakhs, the bank is 'Over-Secured'. Courts in India view 'Excessive Attachment' as a violation of the borrower's fundamental rights. We use this to obtain stay orders against auctions.</p>
                             </div>
                         </section>
 
                         <section id="cibil-recovery" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 uppercase tracking-tight">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 uppercase tracking-tight">
                                 Post-Settlement: CIBIL Rehabilitation for Students
-                            </h2>
+                            </h3>
                             <p className="text-lg text-gray-700 leading-relaxed mb-6">
                                 A major fear for young professionals is having a 'Settled' status on their CIBIL report. While it stops the litigation, it marks your credit for 7 years.
                             </p>
@@ -327,35 +327,35 @@ export default function EducationLoanSettlementPage() {
                         </section>
 
                         <section id="why-expert" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 uppercase tracking-tight">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 uppercase tracking-tight">
                                 Why You Need an Expert Lawyer (Not Just an Agent)
-                            </h2>
+                            </h3>
                             <p className="text-lg text-gray-700 leading-relaxed mb-6">
                                 Debt settlement agencies lack the power to represent you in court. A lawyer, however, provides 'Attorney-Client Privilege' and the ability to file a suit against the bank for illegal practices.
                             </p>
                             <div className="grid grid-cols-1 md:grid-cols-3 gap-6 mb-10">
                                 <div className="p-6 bg-gray-50 rounded-2xl border border-gray-200 text-center">
                                     <FontAwesomeIcon icon={faShieldAlt} size="2x" className="text-[#1F5EFF] mb-4" />
-                                    <h3 className="font-bold mb-2">Legal Immunity</h3>
+                                    <h4 className="font-bold mb-2">Legal Immunity</h4>
                                     <p className="text-xs text-gray-500">Stop harassing calls with a single formal Advocate's notice.</p>
                                 </div>
                                 <div className="p-6 bg-gray-50 rounded-2xl border border-gray-200 text-center">
                                     <FontAwesomeIcon icon={faGavel} size="2x" className="text-[#1F5EFF] mb-4" />
-                                    <h4 className="font-bold mb-2">DRT/Court Presence</h4>
+                                    <h5 className="font-bold mb-2">DRT/Court Presence</h5>
                                     <p className="text-xs text-gray-500">We file S.A. appeals to get stay orders on property and asset auctions.</p>
                                 </div>
                                 <div className="p-6 bg-gray-50 rounded-2xl border border-gray-200 text-center">
                                     <FontAwesomeIcon icon={faBalanceScale} size="2x" className="text-[#1F5EFF] mb-4" />
-                                    <h4 className="font-bold mb-2">Negotiation Power</h4>
+                                    <h5 className="font-bold mb-2">Negotiation Power</h5>
                                     <p className="text-xs text-gray-500">We use technical contract laws to force banks to waive penalties.</p>
                                 </div>
                             </div>
                         </section>
 
                         <section id="success-stories" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 uppercase tracking-tight text-center">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 uppercase tracking-tight text-center">
                                 Real Impact: Success Stories in Education Loan Settlement
-                            </h2>
+                            </h3>
                             <div className="grid grid-cols-1 md:grid-cols-2 gap-6 not-prose">
                                 {[
                                     {
@@ -393,7 +393,7 @@ export default function EducationLoanSettlementPage() {
                                                 {review.name.charAt(0)}
                                             </div>
                                             <div>
-                                                <h3 className="font-bold text-[#2E2E2E]">{review.name}</h3>
+                                                <h4 className="font-bold text-[#2E2E2E]">{review.name}</h4>
                                                 <p className="text-xs text-gray-400">{review.loc}</p>
                                             </div>
                                             <div className="ml-auto text-yellow-400 text-sm">★★★★★</div>
@@ -408,9 +408,9 @@ export default function EducationLoanSettlementPage() {
                         </section>
 
                         <section id="comprehensive-faq" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">
                                 Frequently Asked Questions: Student Debt Rights
-                            </h2>
+                            </h3>
                             <div className="space-y-4 not-prose">
                                 {[
                                     { q: "Can the bank block my degree if I don't pay?", a: "No. Under Indian law, the college cannot withhold your degree for a bank loan. This is a common threat used by recovery agents but has no legal basis." },
@@ -445,9 +445,9 @@ export default function EducationLoanSettlementPage() {
                         </section>
 
                         <section id="conclusion" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 uppercase tracking-tight">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 uppercase tracking-tight">
                                 Conclusion: Don't Let Debt Define Your Future
-                            </h2>
+                            </h3>
                             <p className="text-lg text-gray-700 leading-relaxed mb-6 font-bold">
                                 You took an education loan to build a career, not a prison. Defaulting is a setback, but it is not the end of your professional story.
                             </p>

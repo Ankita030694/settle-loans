@@ -88,7 +88,7 @@ export default function SbiPersonalLoanSettlementClient() {
     { id: 'legal-defense-sbi-notices', title: '7. Legal Defense & Summons' },
     { id: 'step-by-step-settlement-roadmap', title: '8. Step-by-Step OTS Protocol' },
     { id: 'sanction-letter-audit-ndc-verification', title: '9. Sanction Letter & ₹0 NDC Mandate' },
-    { id: 'cibil-impact-credit-rehabilitation', title: '10. CIBIL Trajectory & Repair' },
+    { id: 'cibil-impact-credit-recovery', title: '10. CIBIL Trajectory & Repair' },
     { id: 'company-resolution-section', title: '11. SettleLoans Legal Advisory' },
     { id: 'faqs', title: '12. Frequently Asked Questions' },
   ];
@@ -124,7 +124,7 @@ export default function SbiPersonalLoanSettlementClient() {
       question: "What is the SBI Rin Samadhan Scheme and who qualifies?",
       answer: (
         <p>
-          The <strong>SBI Rin Samadhan Scheme</strong> is State Bank of India&apos;s board-approved One-Time Settlement framework formulated under RBI compromise guidelines. It provides standardized, non-discretionary debt relief to borrowers whose loans are classified as Substandard, Doubtful (D1/D2/D3), or Loss Assets. To qualify, borrowers must demonstrate genuine involuntary hardship—such as job termination, critical illness, or business failure. Wilful defaulters and fraud accounts are strictly excluded under Central Vigilance Commission (CVC) rules. The scheme offers structured principal haircuts (40%–65%) and 100% waiver of unaccrued penal interest.
+          The <strong>SBI Rin Samadhan Scheme</strong> is State Bank of India&apos;s board-approved One-Time Settlement framework formulated under RBI compromise guidelines. It provides standardized, non-discretionary debt relief to borrowers whose loans are classified as Substandard, Doubtful (D1/D2/D3), or Loss Assets. To qualify, borrowers must show genuine involuntary hardship—such as job termination, critical illness, or business failure. Wilful defaulters and fraud accounts are strictly excluded under Central Vigilance Commission (CVC) rules. The scheme offers structured principal haircuts (40%–65%) and 100% waiver of unaccrued penal interest.
         </p>
       )
     },
@@ -148,7 +148,7 @@ export default function SbiPersonalLoanSettlementClient() {
       question: "Can SBI freeze your savings account or debit funds automatically?",
       answer: (
         <p>
-          Under the <strong>Banker&apos;s Right of General Lien and Set-Off (Section 171 of the Indian Contract Act, 1872)</strong>, SBI has specific powers. It can debit funds from any savings account, fixed deposit, or recurring deposit held within SBI under the same CIF/PAN. However, <strong>SBI cannot access or debit accounts held with other independent banks</strong> (such as HDFC, ICICI, or PNB) without an explicit Civil Court or DRT attachment order. Furthermore, statutory pensions and PPF balances enjoy absolute immunity under <em>Section 60 of the Code of Civil Procedure (CPC)</em>.
+          Under the <strong>Banker&apos;s Right of General Lien and Set-Off (Section 171 of the Indian Contract Act, 1872)</strong>, SBI has specific powers. It can debit funds from any savings account, fixed deposit, or recurring deposit held within SBI under the same CIF/PAN. However, <strong>SBI cannot access or debit accounts held with other independent banks</strong> (such as HDFC, ICICI, or PNB) without an explicit Civil Court or DRT attachment order. also, statutory pensions and PPF balances enjoy absolute immunity under <em>Section 60 of the Code of Civil Procedure (CPC)</em>.
         </p>
       )
     },
@@ -161,10 +161,10 @@ export default function SbiPersonalLoanSettlementClient() {
       )
     },
     {
-      question: "What legal actions can SBI initiate if you default on a personal loan?",
+      question: "What legal actions can SBI start if you default on a personal loan?",
       answer: (
         <p>
-          Defaulting on an unsecured personal loan is strictly a civil breach of contract and cannot result in police arrest or criminal FIRs. However, SBI can initiate statutory recovery actions: (1) <strong>Section 25 of the Payment and Settlement Systems Act, 2007</strong> for NACH/e-mandate dishonor. (2) <strong>Section 138 of the Negotiable Instruments Act, 1881</strong> for bounced cheques. (3) <strong>Summary Civil Suits under Order 37 CPC</strong>. And (4) <strong>Debt Recovery Tribunal (DRT)</strong> claims if total aggregate exposure exceeds ₹20 Lakhs. All these notices can be resolved through formal compromise negotiations.
+          Defaulting on an unsecured personal loan is strictly a civil breach of contract and cannot result in police arrest or criminal FIRs. However, SBI can start statutory recovery actions: (1) <strong>Section 25 of the Payment and Settlement Systems Act, 2007</strong> for NACH/e-mandate dishonor. (2) <strong>Section 138 of the Negotiable Instruments Act, 1881</strong> for bounced cheques. (3) <strong>Summary Civil Suits under Order 37 CPC</strong>. And (4) <strong>Debt Recovery Tribunal (DRT)</strong> claims if total aggregate exposure exceeds ₹20 Lakhs. All these notices can be resolved through formal compromise talks.
         </p>
       )
     },
@@ -188,7 +188,7 @@ export default function SbiPersonalLoanSettlementClient() {
       question: "How long does SBI take to issue the No Dues Certificate (NDC) after settlement?",
       answer: (
         <p>
-          Under <strong>RBI Circular RBI/2023-24/60</strong>, all regulated lenders including SBI must follow strict closure timelines. They are legally mandated to complete full account closure and issue an official <strong>No Dues Certificate (NDC)</strong> within <strong>30 calendar days</strong> of receiving the final payment. If SBI delays issuance beyond 30 days due to operational lapses, it faces penalties. The bank is legally required to pay statutory compensation of <strong>₹5,000 per day of delay</strong> directly to the borrower.
+          Under <strong>RBI Circular RBI/2023-24/60</strong>, all regulated lenders including SBI must follow strict closure timelines. They are legally mandated to complete full account closure and issue an official <strong>No Dues Certificate (NDC)</strong> within <strong>30 calendar days</strong> of receiving the final payment. If SBI delays issuance beyond 30 days due to operational lapses, it faces penalties. The bank is legally required to pay statutory relief of <strong>₹5,000 per day of delay</strong> directly to the borrower.
         </p>
       )
     }
@@ -354,7 +354,7 @@ export default function SbiPersonalLoanSettlementClient() {
                 State Bank of India (SBI) is India&apos;s largest public sector lender, managing over a quarter of domestic consumer credit. Its unsecured portfolio—spanning SBI Xpress Credit for salaried personnel, Quick Personal Loans, and Pension Loans—is underwritten against strict employment stability benchmarks. When economic hardship disrupts repayments, borrowers encounter a dispute resolution framework fundamentally distinct from private banking institutions.
               </p>
               <p className="text-slate-700 leading-relaxed mb-3 text-base">
-                As a statutory corporation governed by the <em>State Bank of India Act, 1955</em>, SBI manages public funds under constant scrutiny from the <strong>Central Vigilance Commission (CVC)</strong> and the <strong>Comptroller and Auditor General (CAG)</strong>. While private bank managers possess broad commercial latitude to grant arbitrary haircuts, SBI officers face personal disciplinary liability for unjustified debt write-offs. Consequently, SBI settlements must adhere strictly to board-approved compromise circulars like the <strong>Rin Samadhan Scheme</strong> or statutory conciliation before the <strong>National Lok Adalat</strong>.
+                As a statutory corporation governed by the <em>State Bank of India Act, 1955</em>, SBI manages public funds under constant scrutiny from the <strong>Central Vigilance Commission (CVC)</strong> and the <strong>Comptroller and Auditor General (CAG)</strong>. While private bank managers possess broad commercial latitude to grant arbitrary haircuts, SBI officers face personal disciplinary liability for unjustified debt write-offs. so, SBI settlements must adhere strictly to board-approved compromise circulars like the <strong>Rin Samadhan Scheme</strong> or statutory conciliation before the <strong>National Lok Adalat</strong>.
               </p>
               <div className="bg-amber-50 border-l-4 border-amber-500 p-4 rounded-r-xl my-4">
                 <div className="flex items-start gap-3">
@@ -372,9 +372,9 @@ export default function SbiPersonalLoanSettlementClient() {
                 <Clock className="w-4 h-4" />
                 <span>2. Delinquency Timeline &amp; Asset Classification</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-3 leading-tight">
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-3 leading-tight">
                 SBI Default Progression: From SMA-0 to SARB Branch Decentralization
-              </h2>
+              </h3>
               <p className="text-slate-700 leading-relaxed mb-3 text-base">
                 When an EMI bounces, SBI&apos;s core banking platform triggers automated delinquency tracking under RBI Income Recognition and Asset Classification (IRACP) norms. Unsecured retail loans progress through five regulatory tiers that govern provisioning allocations, administrative transfer to specialized recovery branches, and settlement viability.
               </p>
@@ -437,18 +437,18 @@ export default function SbiPersonalLoanSettlementClient() {
                 <Percent className="w-4 h-4" />
                 <span>3. OTS Haircut Policies &amp; Valuation Framework</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-3 leading-tight">
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-3 leading-tight">
                 The SBI Rin Samadhan Scheme &amp; NPA Haircut Calculation Formula
-              </h2>
+              </h3>
               <p className="text-slate-700 leading-relaxed mb-3 text-base">
                 The <strong>SBI Rin Samadhan Scheme</strong> is State Bank of India&apos;s institutional compromise framework designed to resolve stressed retail assets through non-discretionary mathematical formulas. The bank segregates the total debt into the <strong>Real Ledger Principal</strong> (unrecovered principal plus regular interest up to the NPA date) and <strong>Memorandum Dues</strong> (unaccrued penal interest and late fees accumulated post-NPA).
               </p>
 
               <div className="bg-slate-50 border border-slate-200 rounded-2xl p-5 my-4">
-                <h3 className="text-sm font-bold text-slate-900 mb-2 flex items-center gap-2">
+                <h4 className="text-sm font-bold text-slate-900 mb-2 flex items-center gap-2">
                   <Calculator className="w-4 h-4 text-[#1F5EFF]" />
                   SBI Rin Samadhan Haircut Formula
-                </h3>
+                </h4>
                 <div className="bg-white p-3 rounded-xl border border-slate-200 font-mono text-xs text-slate-800 mb-2 overflow-x-auto">
                   <strong>Sanctioned OTS = </strong> [Principal at NPA Date] - [Approved Policy Haircut (40%–65%)] + [Direct Legal Costs]
                   <br />
@@ -499,9 +499,9 @@ export default function SbiPersonalLoanSettlementClient() {
                 <Lock className="w-4 h-4" />
                 <span>4. Section 171 Lien &amp; Statutory Account Protections</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-3 leading-tight">
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-3 leading-tight">
                 Section 171 Banker&apos;s Lien &amp; Ringfencing Protected Assets
-              </h2>
+              </h3>
               <p className="text-slate-700 leading-relaxed mb-3 text-base">
                 Under <strong>Section 171 of the Indian Contract Act, 1872</strong> (Banker&apos;s Right of General Lien and Set-Off), SBI holds statutory recovery rights. The bank can unilaterally debit funds from any internal savings account, fixed deposit, or recurring deposit under the same CIF/PAN to adjust delinquent loan arrears without prior court approval.
               </p>
@@ -524,9 +524,9 @@ export default function SbiPersonalLoanSettlementClient() {
                 <FileText className="w-4 h-4" />
                 <span>5. Visual Resolution Blueprint</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-3 leading-tight">
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-3 leading-tight">
                 SBI Personal Loan Settlement: Visual Roadmap &amp; Milestones
-              </h2>
+              </h3>
               <p className="text-slate-700 leading-relaxed mb-4 text-base">
                 The visual framework below summarizes the end-to-end SBI settlement workflow, comparing resolution channels, key metrics, and resolution timelines from Day 0 default to credit repair.
               </p>
@@ -542,9 +542,9 @@ export default function SbiPersonalLoanSettlementClient() {
                       <span className="text-[10px] font-black uppercase tracking-widest text-blue-300 block">
                         Legal Defense &amp; Action Blueprint
                       </span>
-                      <h3 className="text-sm md:text-base font-black text-white leading-tight">
+                      <h4 className="text-sm md:text-base font-black text-white leading-tight">
                         SBI Personal Loan Settlement Summary &amp; Process Overview
-                      </h3>
+                      </h4>
                     </div>
                   </div>
                   <a
@@ -589,14 +589,14 @@ export default function SbiPersonalLoanSettlementClient() {
                 <Gavel className="w-4 h-4" />
                 <span>6. Statutory Conciliation &amp; Judicial Shielding</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-3 leading-tight">
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-3 leading-tight">
                 Why State Bank of India Heavily Favors the National Lok Adalat
-              </h2>
+              </h3>
               <p className="text-slate-700 leading-relaxed mb-3 text-base">
                 SBI is the largest institutional participant in the <strong>National Lok Adalat</strong>, organized quarterly across India by NALSA under the <em>Legal Services Authorities Act, 1987</em>. SBI prefers Lok Adalat because a compromise award passed by a Lok Adalat bench holds the status of a <strong>binding Civil Court Decree under Section 21</strong> with zero right of appeal.
               </p>
               <p className="text-slate-700 leading-relaxed mb-3 text-base">
-                This decree provides total immunity to SBI officials against CVC probes or CAG queries. SBI empowers Lok Adalat representatives with pre-approved 45%–65% discount mandates and disposes of pending Section 25 PSS / Section 138 NI cases upon settlement.
+                This decree provides total immunity to SBI officials against CVC probes or CAG queries. SBI empowers Lok Adalat agents with pre-approved 45%–65% discount mandates and disposes of pending Section 25 PSS / Section 138 NI cases upon settlement.
               </p>
 
               <div className="overflow-x-auto my-4">
@@ -643,14 +643,14 @@ export default function SbiPersonalLoanSettlementClient() {
                 <Scale className="w-4 h-4" />
                 <span>7. Legal Defense &amp; Statutory Notices</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-3 leading-tight">
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-3 leading-tight">
                 Defending Against SBI Legal Notices: Section 25 PSS Act &amp; DRT Claims
-              </h2>
+              </h3>
               <p className="text-slate-700 leading-relaxed mb-3 text-base">
-                When an unsecured loan defaults, SBI initiates legal recovery through statutory channels. When electronic NACH mandates fail, SBI issues demand notices under <strong>Section 25 of the Payment and Settlement Systems Act, 2007 (PSS Act)</strong>, followed by magistrate summons if unpaid. Similarly, bounced physical repayment cheques trigger <strong>Section 138 of the Negotiable Instruments Act, 1881</strong>.
+                When an unsecured loan defaults, SBI starts legal recovery through statutory channels. When electronic NACH mandates fail, SBI issues demand notices under <strong>Section 25 of the Payment and Settlement Systems Act, 2007 (PSS Act)</strong>, followed by magistrate summons if unpaid. Similarly, bounced physical repayment cheques trigger <strong>Section 138 of the Negotiable Instruments Act, 1881</strong>.
               </p>
               <p className="text-slate-700 leading-relaxed mb-3 text-base">
-                Both Section 25 PSS and Section 138 NI offenses are bailable, compoundable, and strictly financial in nature. An advocate can represent you, secure bail, and seek referral to Lok Adalat for conciliation. Furthermore, SBI cannot file before the Debt Recovery Tribunal (DRT) under the RDB Act unless total exposure exceeds <strong>₹20 Lakhs</strong>, and the SARFAESI Act cannot be applied to unsecured personal loans. Under RBI&apos;s 2022 Recovery Agent Directives, all agent harassment, abusive calls, or unauthorized workplace visits are strictly illegal.
+                Both Section 25 PSS and Section 138 NI offenses are bailable, compoundable, and strictly financial in nature. An advocate can represent you, secure bail, and seek referral to Lok Adalat for conciliation. also, SBI cannot file before the Debt Recovery Tribunal (DRT) under the RDB Act unless total exposure exceeds <strong>₹20 Lakhs</strong>, and the SARFAESI Act cannot be applied to unsecured personal loans. Under RBI&apos;s 2022 Recovery Agent Directives, all agent harassment, abusive calls, or unauthorized workplace visits are strictly illegal.
               </p>
             </section>
 
@@ -658,53 +658,53 @@ export default function SbiPersonalLoanSettlementClient() {
             <section id="step-by-step-settlement-roadmap" className="scroll-mt-24 mb-10">
               <div className="inline-flex items-center gap-2 text-xs font-bold text-[#1F5EFF] uppercase tracking-wider mb-2">
                 <Briefcase className="w-4 h-4" />
-                <span>8. Operational Negotiation Protocol</span>
+                <span>8. Operational talks Protocol</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-3 leading-tight">
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-3 leading-tight">
                 5-Stage Roadmap: Negotiating SBI Settlement Online &amp; In-Branch
-              </h2>
+              </h3>
               
               <div className="space-y-3 my-4">
                 <div className="p-4 rounded-xl border border-slate-200 bg-white shadow-sm">
-                  <h3 className="font-bold text-slate-900 text-sm md:text-base mb-1">
+                  <h4 className="font-bold text-slate-900 text-sm md:text-base mb-1">
                     1. Audit NPA Bucket &amp; Identify File Location (Home Branch vs SARB)
-                  </h3>
+                  </h4>
                   <p className="text-slate-600 text-xs sm:text-sm leading-relaxed">
                     Obtain a certified Statement of Account. Separate the actual principal outstanding from unaccrued memorandum penal charges and confirm whether your file is managed by the home branch or regional SARB recovery cell.
                   </p>
                 </div>
 
                 <div className="p-4 rounded-xl border border-slate-200 bg-white shadow-sm">
-                  <h3 className="font-bold text-slate-900 text-sm md:text-base mb-1">
+                  <h4 className="font-bold text-slate-900 text-sm md:text-base mb-1">
                     2. Assemble an Incontrovertible Hardship Dossier
-                  </h3>
+                  </h4>
                   <p className="text-slate-600 text-xs sm:text-sm leading-relaxed">
                     Document genuine insolvency through termination letters, medical summaries, salary reductions, and bank statements. Solid proof provides SBI committee officers the regulatory justification required to approve maximum haircuts.
                   </p>
                 </div>
 
                 <div className="p-4 rounded-xl border border-slate-200 bg-white shadow-sm">
-                  <h3 className="font-bold text-slate-900 text-sm md:text-base mb-1">
+                  <h4 className="font-bold text-slate-900 text-sm md:text-base mb-1">
                     3. Submit Formal OTS Petition via Rin Samadhan Portal or SARB
-                  </h3>
+                  </h4>
                   <p className="text-slate-600 text-xs sm:text-sm leading-relaxed">
                     Submit the One-Time Settlement application directly to the Assistant General Manager (AGM) at SARB or through SBI&apos;s online OTS portal. Propose an initial settlement between 35% and 50% of the principal balance, payable within 30 days.
                   </p>
                 </div>
 
                 <div className="p-4 rounded-xl border border-slate-200 bg-white shadow-sm">
-                  <h3 className="font-bold text-slate-900 text-sm md:text-base mb-1">
+                  <h4 className="font-bold text-slate-900 text-sm md:text-base mb-1">
                     4. Technical Audit of Official Stamped Sanction Letter
-                  </h3>
+                  </h4>
                   <p className="text-slate-600 text-xs sm:text-sm leading-relaxed">
                     Verify the sanction letter on official SBI stationery with the branch code, committee reference number, and authorized officer signature with HRMS ID before releasing any payment.
                   </p>
                 </div>
 
                 <div className="p-4 rounded-xl border border-slate-200 bg-white shadow-sm">
-                  <h3 className="font-bold text-slate-900 text-sm md:text-base mb-1">
+                  <h4 className="font-bold text-slate-900 text-sm md:text-base mb-1">
                     5. Direct Loan Account Remittance &amp; Securing ₹0 NDC
-                  </h3>
+                  </h4>
                   <p className="text-slate-600 text-xs sm:text-sm leading-relaxed">
                     Remit the compromise amount directly into your designated SBI Loan Account Number via RTGS/NEFT. Under RBI Circular RBI/2023-24/60, SBI must issue your formal No Dues Certificate within 30 calendar days.
                   </p>
@@ -718,9 +718,9 @@ export default function SbiPersonalLoanSettlementClient() {
                 <FileCheck className="w-4 h-4" />
                 <span>9. Sanction Letter Audit &amp; ₹0 NDC Verification</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-3 leading-tight">
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-3 leading-tight">
                 Sanction Letter Audit Checklist &amp; Statutory ₹0 NDC Mandate
-              </h2>
+              </h3>
               <p className="text-slate-700 leading-relaxed mb-3 text-base">
                 Never pay against verbal assurances or agent letters. Payments made without a validated sanction are treated as routine interest part-payments, leaving the default active.
               </p>
@@ -760,24 +760,24 @@ export default function SbiPersonalLoanSettlementClient() {
               </div>
 
               <p className="text-slate-700 leading-relaxed mb-3 text-base">
-                Pursuant to <strong>RBI Circular RBI/2023-24/60</strong>, SBI is legally required to complete full loan closure and issue an official <strong>No Dues Certificate (NDC)</strong> within <strong>30 calendar days</strong>. For every day of operational delay beyond 30 days, SBI must pay statutory compensation of <strong>₹5,00,000 / ₹5,000 per day</strong> directly to the borrower.
+                under <strong>RBI Circular RBI/2023-24/60</strong>, SBI is legally required to complete full loan closure and issue an official <strong>No Dues Certificate (NDC)</strong> within <strong>30 calendar days</strong>. For every day of operational delay beyond 30 days, SBI must pay statutory relief of <strong>₹5,00,000 / ₹5,000 per day</strong> directly to the borrower.
               </p>
             </section>
 
             {/* Section 10 */}
-            <section id="cibil-impact-credit-rehabilitation" className="scroll-mt-24 mb-10">
+            <section id="cibil-impact-credit-recovery" className="scroll-mt-24 mb-10">
               <div className="inline-flex items-center gap-2 text-xs font-bold text-[#1F5EFF] uppercase tracking-wider mb-2">
                 <TrendingUp className="w-4 h-4" />
-                <span>10. CIBIL Trajectory &amp; Score Rehabilitation</span>
+                <span>10. CIBIL Trajectory &amp; Score recovery</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-3 leading-tight">
-                CIBIL Score Trajectory &amp; Credit Rehabilitation Post-Settlement
-              </h2>
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-3 leading-tight">
+                CIBIL Score Trajectory &amp; Credit recovery Post-Settlement
+              </h3>
               <p className="text-slate-700 leading-relaxed mb-3 text-base">
                 Following full settlement payment, SBI updates credit bureaus (TransUnion CIBIL, Experian, Equifax, CRIF High Mark) to <strong>&apos;Settled&apos;</strong> or <strong>&apos;Post-Write-Off Settled&apos;</strong> with an outstanding balance of exactly <strong>₹0</strong>. This causes an initial credit score drop of 75 to 150 points, alongside a mandatory 12-month cooling period under RBI directives before fresh unsecured credit can be obtained.
               </p>
               <p className="text-slate-700 leading-relaxed mb-3 text-base">
-                However, a &apos;Settled&apos; status with ₹0 balance permanently arrests compounding default penalties. By obtaining a secured credit card backed by a fixed deposit, keeping credit utilization strictly below 25%, and maintaining punctual repayments, borrowers routinely rebuild their CIBIL score back above 750+ within 18 to 24 months.
+                However, a &apos;Settled&apos; status with ₹0 balance permanently arrests compounding default penalties. By obtaining a secured credit card backed by a fixed deposit, keeping credit use strictly below 25%, and maintaining punctual repayments, borrowers routinely rebuild their CIBIL score back above 750+ within 18 to 24 months.
               </p>
             </section>
 
@@ -787,9 +787,9 @@ export default function SbiPersonalLoanSettlementClient() {
                 <ShieldCheck className="w-4 h-4" />
                 <span>11. Legal Defense &amp; Representation</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 Why Distressed SBI Borrowers Choose SettleLoans
-              </h2>
+              </h3>
               <p className="text-slate-700 leading-relaxed mb-6 text-base">
                 Negotiating with State Bank of India requires seasoned banking advocates who understand CVC regulations, SARB committee powers, and Lok Adalat conciliation. SettleLoans halts recovery harassment, audits NPA provisioning, and negotiates directly with SBI decision-makers to achieve maximum legal debt waivers.
               </p>
@@ -805,9 +805,9 @@ export default function SbiPersonalLoanSettlementClient() {
                 <HelpCircle className="w-4 h-4" />
                 <span>12. Frequently Asked Questions</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-5 leading-tight">
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-5 leading-tight">
                 Frequently Asked Questions About SBI Personal Loan Settlement
-              </h2>
+              </h3>
 
               <div className="space-y-3">
                 {faqs.map((faq, index) => (
@@ -824,10 +824,10 @@ export default function SbiPersonalLoanSettlementClient() {
 
             {/* Official Regulatory References Strip */}
             <div className="bg-slate-50 border border-slate-200 rounded-2xl p-5 my-8">
-              <h3 className="text-sm font-bold text-slate-900 mb-3 flex items-center gap-2">
+              <h4 className="text-sm font-bold text-slate-900 mb-3 flex items-center gap-2">
                 <Landmark className="w-4 h-4 text-[#1F5EFF]" />
                 Official Regulatory References &amp; Statutory Circulars
-              </h3>
+              </h4>
               <ul className="space-y-2.5 text-xs text-slate-600">
                 <li className="flex items-start gap-2">
                   <ExternalLink className="w-3.5 h-3.5 text-[#1F5EFF] flex-shrink-0 mt-0.5" />
@@ -889,10 +889,10 @@ export default function SbiPersonalLoanSettlementClient() {
 
             {/* Related Topic Badges */}
             <div className="bg-slate-50 border border-slate-200 rounded-2xl p-5 my-8">
-              <h3 className="text-sm font-bold text-slate-900 mb-3 flex items-center gap-2">
+              <h4 className="text-sm font-bold text-slate-900 mb-3 flex items-center gap-2">
                 <BookOpen className="w-4 h-4 text-[#1F5EFF]" />
                 Explore Related Banking &amp; Debt Resolution Guides
-              </h3>
+              </h4>
               <div className="flex flex-wrap gap-2">
                 <Link
                   href="/bank-one-time-settlement-ots-policy"
@@ -981,7 +981,7 @@ export default function SbiPersonalLoanSettlementClient() {
                 </div>
               </div>
               <p className="text-xs text-slate-600 leading-relaxed mb-3">
-                Ashish has led over 1,200+ successful bank compromise negotiations across State Bank of India, HDFC Bank, and ICICI, specializing in PSU banking NPA haircuts, SARB conciliation, and borrower legal defense.
+                Ashish has led over 1,200+ successful bank compromise talks across State Bank of India, HDFC Bank, and ICICI, specializing in PSU banking NPA haircuts, SARB conciliation, and borrower legal defense.
               </p>
               <div className="pt-2.5 border-t border-slate-100 flex items-center justify-between text-xs font-semibold">
                 <Link

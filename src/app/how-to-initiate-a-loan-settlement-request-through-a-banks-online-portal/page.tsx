@@ -281,14 +281,14 @@ export default function InitiateSettlementPage() {
             </section>
 
             <section id="prerequisites" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
                 Prerequisites: What You Need Before Logging In
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 A common mistake is logging into the portal without being prepared. If you start a request and the session times out while you're looking for a PDF, you might have to start all over again. Before you sit down at your computer, ensure you have the following "Digital Kit" ready.
               </p>
               <div className="bg-gray-50 p-8 rounded-xl border border-gray-200 mb-8">
-                <h3 className="text-xl font-bold mb-6">Your Digital Settlement Kit</h3>
+                <h4 className="text-xl font-bold mb-6">Your Digital Settlement Kit</h4>
                 <ul className="space-y-4">
                   <li className="flex items-start">
                     <div className="w-1.5 h-1.5 bg-[#1F5EFF] rounded-full mt-2 mr-3 flex-shrink-0"></div>
@@ -307,14 +307,14 @@ export default function InitiateSettlementPage() {
             </section>
 
             <section id="sbi-guide" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
                 State Bank of India (SBI): Using the YONO & Net Banking
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 The State Bank of India, being the largest lender, has multiple digital touchpoints. During special one time settlement (OTS) drives, SBI usually creates a dedicated banner on its website.
               </p>
               <div className="border border-[#DEDEDE] rounded-xl p-8 mb-8">
-                <h3 className="text-xl font-black mb-4 uppercase tracking-wider text-[#1F5EFF]">SBI Step-by-Step</h3>
+                <h4 className="text-xl font-black mb-4 uppercase tracking-wider text-[#1F5EFF]">SBI Step-by-Step</h4>
                 <ol className="space-y-4">
                   <li>1. Log in to <strong>Personal Banking</strong> or the <strong>YONO App</strong>.</li>
                   <li>2. Navigate to <strong>Service Requests</strong> (found in the 'Quick Links' or bottom menu).</li>
@@ -328,14 +328,14 @@ export default function InitiateSettlementPage() {
             </section>
 
             <section id="hdfc-guide" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
                 HDFC Bank: The 'Query' and 'Request' Modules
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 HDFC Bank's portal is very streamlined but can be tricky because it doesn't always have a button labeled "Settle My Loan." You need to use the general request module.
               </p>
               <div className="border border-[#DEDEDE] rounded-xl p-8 mb-8">
-                <h3 className="text-xl font-black mb-4 uppercase tracking-wider text-[#1F5EFF]">HDFC Step-by-Step</h3>
+                <h4 className="text-xl font-black mb-4 uppercase tracking-wider text-[#1F5EFF]">HDFC Step-by-Step</h4>
                 <ol className="space-y-4">
                   <li>1. Log in to <strong>HDFC NetBanking</strong>.</li>
                   <li>2. Click on the <strong>Loans</strong> tab at the top.</li>
@@ -348,14 +348,14 @@ export default function InitiateSettlementPage() {
             </section>
 
             <section id="icici-guide" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
                 ICICI Bank: The 'Mobile-First' Strategy
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 ICICI's 'iMobile Pay' app is one of the most powerful in the country. You can initiate a tracking ticket very easily through the app.
               </p>
               <div className="bg-blue-50 p-8 rounded-xl border border-blue-200 mb-8">
-                <h3 className="text-xl font-bold mb-4 text-blue-900">Digital Initiation Tips</h3>
+                <h4 className="text-xl font-bold mb-4 text-blue-900">Digital Initiation Tips</h4>
                 <p className="text-sm text-blue-800 leading-relaxed mb-4">
                   When using ICICI, focus on the "Service Request" section. Do not use the "Complaint" section unless you have a specific issue with a recovery agent. Settlements are handled by the 'Credit Management' team, so address your request to them in the subject line.
                 </p>
@@ -363,9 +363,9 @@ export default function InitiateSettlementPage() {
             </section>
 
             <section id="axis-guide" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
                 Axis Bank: Using the 'Support' Center
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 Axis Bank has a comprehensive support center where you can raise tickets. They are very strict about NPA classification, so ensure your loan has crossed the 90 day mark before following these steps.
               </p>
@@ -386,12 +386,12 @@ export default function InitiateSettlementPage() {
             </section>
 
             <section id="document-upload" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">How to Upload Hardship Proofs Correctfully</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">How to Upload Hardship Proofs Correctfully</h3>
               <p className="mb-6">
                 The quality of your digital upload can determine the speed of your approval. If a credit manager can't read your medical bills because they are blurry, your request will be moved to the "Rejected/Incomplete" pile.
               </p>
               <div className="bg-red-50 border-l-4 border-red-500 p-8 rounded-r-xl mb-8">
-                <h3 className="text-xl font-bold text-red-800 mb-4">Common Digital Mistakes</h3>
+                <h4 className="text-xl font-bold text-red-800 mb-4">Common Digital Mistakes</h4>
                 <ul className="space-y-3 text-red-900/80">
                   <li>• <strong>Poor Lighting:</strong> Don't click photos in a dark room. Use a document scanner app (like Adobe Scan or vFlat) instead of the standard camera.</li>
                   <li>• <strong>Wrong Format:</strong> Most portals only accept .PDF or .JPG. Avoid .HEIC (iPhone format) or .TIFF.</li>
@@ -401,7 +401,7 @@ export default function InitiateSettlementPage() {
             </section>
 
             <section id="status-tracking" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Tracking Your Request Ticket</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Tracking Your Request Ticket</h3>
               <p className="mb-6">
                 After you hit 'Submit,' the most important piece of data you have is the <strong>Transaction Reference Number</strong> or the <strong>Service Ticket ID</strong>. Most banks have a "Track My Request" or "Track Application" section in their net banking portal.
               </p>
@@ -439,12 +439,12 @@ export default function InitiateSettlementPage() {
             />
 
             <section id="security" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Safe Digital Banking: Avoid the Scams</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Safe Digital Banking: Avoid the Scams</h3>
               <p className="mb-6 text-red-600 font-bold text-xl">
                 WARNING: Scammers create fake 'Loan Settlement' websites that look exactly like your bank's portal.
               </p>
               <div className="bg-red-50 p-8 rounded-2xl border border-red-100 mb-8">
-                <h3 className="text-xl font-bold text-red-800 mb-4">How to Stay Safe</h3>
+                <h4 className="text-xl font-bold text-red-800 mb-4">How to Stay Safe</h4>
                 <p className="mb-4 text-red-900/80">
                   1. <strong>Check the URL:</strong> It should always be something like <code>https://www.hdfcbank.com/...</code> or <code>https://onlinesbi.sbi/...</code>. Never log into a site that has a strange extension like .xyz, .top, or .biz.
                 </p>
@@ -458,7 +458,7 @@ export default function InitiateSettlementPage() {
             </section>
 
             <section id="professional-help" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">When Digital Steps Aren't Enough</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">When Digital Steps Aren't Enough</h3>
               <p className="mb-6">
                 Digital portals are great for starting the conversation, but they are limited. A computer algorithm cannot understand the nuance of your pain or the specific legal challenges you might be facing. For many, the "Service Request" is met with a robotic rejection or an offer that is way too high.
               </p>
@@ -466,7 +466,7 @@ export default function InitiateSettlementPage() {
                 This is where SettleLoans comes in. We use the platform you've built through your digital initiation to launch a professional, legal-backed negotiation. We take your ticket ID and move the conversation to the regional credit heads who have the actual authority to grant significant waivers of up to 70%.
               </p>
               <div className="bg-[#2E2E2E] text-white p-8 rounded-2xl mb-8">
-                <h3 className="text-2xl font-bold mb-4">The SettleLoans Digital Advantage</h3>
+                <h4 className="text-2xl font-bold mb-4">The SettleLoans Digital Advantage</h4>
                 <ul className="space-y-3 text-sm opacity-90">
                   <li className="flex items-center gap-2">✓ Tech-enabled tracking: We monitor bank portals on your behalf so you don't have to log in daily.</li>
                   <li>✓ Digital Guard: We ensure your contact details are updated so recovery agents can't bypass your legal shield.</li>
@@ -476,14 +476,14 @@ export default function InitiateSettlementPage() {
             </section>
 
             <section id="drafting-guide" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
                 Digital Hardship Letters: A Detailed Writing Guide
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 When you are faced with a small text box on a bank's portal labeled "Reason for Request" or "Comments," it is easy to feel overwhelmed. How do you condense months of financial pain into a few hundred characters? The key is not to be emotional, but to be evidence-based. A digital hardship letter should be a summary of your "Inability to Pay" rather than a "Plea for Mercy."
               </p>
               <div className="bg-white p-8 rounded-2xl border border-[#DEDEDE] mb-8">
-                <h3 className="font-bold text-xl mb-4 text-[#2E2E2E]">The Perfect Digital Hardship Template</h3>
+                <h4 className="font-bold text-xl mb-4 text-[#2E2E2E]">The Perfect Digital Hardship Template</h4>
                 <p className="text-sm text-gray-600 mb-6 italic">"Dear Credit Manager, I am writing to formally initiate a One-Time Settlement request for my loan [Account Number]. Due to a [Specific Reason: e.g., 40% salary cut since March / closure of my retail business], my debt-to-income ratio has become unsustainable. I have attached my [Bank Statements/Medical Bills/Salary Slips] as evidence. I am currently able to offer a lump-sum amount of [₹XX,XXX] for full and final closure. This is a one-time offer based on funds borrowed from family. I request you to review this on humanitarian grounds and provide a formal response via the portal or registered email."</p>
                 <div className="grid grid-cols-2 gap-4">
                   <div className="p-4 bg-green-50 rounded-lg text-xs font-bold text-green-800">DO: Mention specific dates and percentage drops in income.</div>
@@ -493,9 +493,9 @@ export default function InitiateSettlementPage() {
             </section>
 
             <section id="email-backup" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
                 The Role of Email in Online Initiation
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 While the portal is the fastest way to "trigger" a request, the official email is your legal shield. Every time you submit a request on the portal, take a screenshot of the "Success" or "Reference Number" page. Immediately send an email to the bank's regional or nodal officer attaching this screenshot.
               </p>
@@ -505,9 +505,9 @@ export default function InitiateSettlementPage() {
             </section>
 
             <section id="regional-differences" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
                 Regional Differences: Digital Maturity of Bank Branches
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 It's a surprising fact, but the "Online Portal" experience can vary depending on where your 'Home Branch' is located. While the head offices of HDFC or SBI are highly digitized in Mumbai, a rural branch in Bihar or a small town in Himachal might still rely on physical registers for NPA management.
               </p>
@@ -517,9 +517,9 @@ export default function InitiateSettlementPage() {
             </section>
 
             <section id="handling-rejection" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
                 Handling Rejection: What if the Portal says 'No'?
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 Do not be discouraged if your first online request is rejected with a generic message like "Policy does not allow settlement at this stage." This is often an automated response triggered by the age of the default. If your loan is only 60 days old, the system will automatically reject settlement.
               </p>
@@ -529,9 +529,9 @@ export default function InitiateSettlementPage() {
             </section>
 
             <section id="privacy-laws" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
                 Digital Privacy and the DPDP Act for Borrowers
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 With the passage of the Digital Personal Data Protection (DPDP) Act in India, your rights over your financial data have been significantly strengthened. When you upload your hardship documents to a bank portal, the bank is legally obligated to use that data "only for the purpose of loan resolution."
               </p>
@@ -541,7 +541,7 @@ export default function InitiateSettlementPage() {
             </section>
 
             <section id="faqs" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Frequently Asked Questions</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Frequently Asked Questions</h3>
               <div className="space-y-4 not-prose">
                 {[
                   { q: "Can I settle my loan entirely online in India?", a: "While you can 'initiate' the request and upload documents online, the actual negotiation often requires a dedicated follow-up from the bank's credit department. However, the online start ensures a formal record of your request." },
@@ -578,7 +578,7 @@ export default function InitiateSettlementPage() {
             <div className="lg:hidden mt-16 mb-8">
               <div className="bg-[#2E2E2E] rounded-2xl shadow-xl overflow-hidden border border-[#DEDEDE]/10">
                 <div className="bg-[#1F5EFF] p-6 text-center text-white">
-                  <h3 className="text-2xl font-black mb-2">Stuck in the Digital Loop?</h3>
+                  <h4 className="text-2xl font-black mb-2">Stuck in the Digital Loop?</h4>
                   <p className="opacity-90 text-sm">If the portal isn't giving you the results you need, let our experts take over.</p>
                 </div>
                 <div className="p-8 text-center text-[#DEDEDE]">

@@ -283,9 +283,9 @@ export default function HomeLoanAfterSettlementPage() {
             </section>
 
             <section id="what-is-settlement" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
                 Section 1: What Happens During a Loan Settlement?
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 A loan settlement occurs when a borrower is unable to repay the full outstanding amount of a loan. Perhaps due to job loss, medical emergencies, or a business failure, you reached out to the bank and they agreed to let you pay a lump sum (often 25% to 50% of the total amount) to close the file. From the bank's perspective, they recovered some of the principal instead of losing everything.
               </p>
@@ -294,7 +294,7 @@ export default function HomeLoanAfterSettlementPage() {
               </p>
               
               <div className="bg-gray-50 p-8 rounded-xl border border-gray-200 mb-8">
-                <h3 className="text-xl font-bold mb-6 italic">The Transactional Reality of OTS</h3>
+                <h4 className="text-xl font-bold mb-6 italic">The Transactional Reality of OTS</h4>
                 <div className="space-y-4 text-sm">
                   <p><strong>Step 1:</strong> You default for 90+ days (NPA status).</p>
                   <p><strong>Step 2:</strong> You negotiate a One Time Settlement (OTS).</p>
@@ -305,9 +305,9 @@ export default function HomeLoanAfterSettlementPage() {
             </section>
 
             <section id="cibil-status-impact" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
                 Section 2: How Settlement Impacts Your CIBIL Score
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 The immediate impact of a settlement on your credit score is drastic. Typically, you can expect a drop of 75 to 100 points the moment the "Settled" remark appears. If your score was 750, it could plummet to 650 or lower. More importantly than the number itself is the "character" of your report.
               </p>
@@ -316,20 +316,20 @@ export default function HomeLoanAfterSettlementPage() {
               </p>
               <div className="grid md:grid-cols-2 gap-6 my-8">
                 <div className="bg-red-50 p-6 rounded-xl border border-red-100">
-                  <h3 className="font-black text-red-900 mb-2 uppercase text-xs tracking-widest">Immediate Impact</h3>
+                  <h4 className="font-black text-red-900 mb-2 uppercase text-xs tracking-widest">Immediate Impact</h4>
                   <p className="text-sm text-red-800">Severe credit score drop and immediate rejection from all unsecured loans (Credit cards/Personal loans).</p>
                 </div>
                 <div className="bg-amber-50 p-6 rounded-xl border border-amber-200">
-                  <h4 className="font-black text-amber-900 mb-2 uppercase text-xs tracking-widest">Long Term Impact</h4>
+                  <h5 className="font-black text-amber-900 mb-2 uppercase text-xs tracking-widest">Long Term Impact</h5>
                   <p className="text-sm text-amber-800">High interest rates on home loans, requirement of 35% down payment, and mandatory co-applicant needs.</p>
                 </div>
               </div>
             </section>
 
             <section id="settled-vs-closed" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
                 Section 3: The Critical Distinction: Settled vs. Closed
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 In the world of credit reports, words have weight. "Settled" means the bank took a loss. "Closed" means the debt was finished in full. When you apply for a home loan, the credit manager looks at this status first. 
               </p>
@@ -339,9 +339,9 @@ export default function HomeLoanAfterSettlementPage() {
             </section>
 
             <section id="can-you-get-loan" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                 Section 4: Can You Actually Get a Home Loan After Settlement?
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 Let's be honest: your eligibility for a home loan from a bank like State Bank of India (SBI) or HDFC will be low for the first 24 to 36 months after a settlement. These institutions have very low risk tolerance. 
               </p>
@@ -351,7 +351,7 @@ export default function HomeLoanAfterSettlementPage() {
             </section>
 
             <section id="the-7-year-rule" className="scroll-mt-32 mb-16">
-              <h3 className="text-2xl md:text-3xl font-bold text-[#2E2E2E] mb-6 tracking-tight">Understanding the 7-Year CIBIL Rule</h3>
+              <h4 className="text-2xl md:text-3xl font-bold text-[#2E2E2E] mb-6 tracking-tight">Understanding the 7-Year CIBIL Rule</h4>
               <p className="text-lg leading-relaxed mb-6">
                 There is a common misconception that after 7 years, your CIBIL history is deleted. In reality, while individual default entries might roll off, the metadata of your credit history often remains. More importantly, most home loan applications require you to disclose any past defaults. 
               </p>
@@ -361,9 +361,9 @@ export default function HomeLoanAfterSettlementPage() {
             </section>
 
             <section id="lender-analysis" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                 Section 5: Lender Analysis: Banks vs. NBFCs
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 Where you apply is just as important as your credit score. Following a loan settlement, here is how different lenders will view your home loan application:
               </p>
@@ -372,7 +372,7 @@ export default function HomeLoanAfterSettlementPage() {
                 <div className="flex gap-6">
                   <div className="flex-shrink-0 w-12 h-12 bg-[#1F5EFF] text-white rounded-full flex items-center justify-center font-black text-xl">PSU</div>
                   <div>
-                    <h3 className="text-xl font-bold text-[#2E2E2E] mb-2">Public Sector Banks (SBI, BoB)</h3>
+                    <h4 className="text-xl font-bold text-[#2E2E2E] mb-2">Public Sector Banks (SBI, BoB)</h4>
                     <p className="text-gray-600 leading-relaxed">
                       Very low chance of approval. They require a clean CIBIL score of 750+ with no major defaults or settlements in the last 7 years. Only possible if the settlement was for a very small amount and you have high government-job level stability.
                     </p>
@@ -382,7 +382,7 @@ export default function HomeLoanAfterSettlementPage() {
                 <div className="flex gap-6">
                   <div className="flex-shrink-0 w-12 h-12 bg-[#1F5EFF] text-white rounded-full flex items-center justify-center font-black text-xl">PVT</div>
                   <div>
-                    <h4 className="text-xl font-bold text-[#2E2E2E] mb-2">Private Banks (HDFC, ICICI, Axis)</h4>
+                    <h5 className="text-xl font-bold text-[#2E2E2E] mb-2">Private Banks (HDFC, ICICI, Axis)</h5>
                     <p className="text-gray-600 leading-relaxed">
                       Medium chance if more than 3 years have passed. They may approve your home loan if you move your salary account to them and maintain a high balance. They might charge a "Risk Premium" of 0.5% higher interest.
                     </p>
@@ -392,7 +392,7 @@ export default function HomeLoanAfterSettlementPage() {
                 <div className="flex gap-6">
                   <div className="flex-shrink-0 w-12 h-12 bg-[#1F5EFF] text-white rounded-full flex items-center justify-center font-black text-xl">HFC</div>
                   <div>
-                    <h4 className="text-xl font-bold text-[#2E2E2E] mb-2">NBFCs & HFCs (PNB Housing, LIC HFL)</h4>
+                    <h5 className="text-xl font-bold text-[#2E2E2E] mb-2">NBFCs & HFCs (PNB Housing, LIC HFL)</h5>
                     <p className="text-gray-600 leading-relaxed">
                       Highest chance of approval. These lenders have specialized products for "Low CIBIL" or "Past Settlement" cases. They focus on your current "Ability to Repay" and the market value of the home you are buying.
                     </p>
@@ -402,9 +402,9 @@ export default function HomeLoanAfterSettlementPage() {
             </section>
 
             <section id="approval-strategies" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight uppercase">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight uppercase">
                 Section 6: Strategies to Secure Approval Post-Settlement
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 If you have a past settlement but want a home loan now, you need to "Sweeten the Deal" for the bank. Use these pro strategies to tilt the odds in your favor:
               </p>
@@ -426,15 +426,15 @@ export default function HomeLoanAfterSettlementPage() {
             </section>
 
             <section id="credit-rebuilding" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
                 Section 7: Step-by-Step CIBIL Rebuilding Guide
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 You cannot delete the past, but you can build a better future. To get your home loan eligibility back, you must follow this 12 month credit rebuilding roadmap:
               </p>
               
               <div className="bg-[#1F5EFF] text-white p-8 rounded-3xl mb-8 shadow-xl">
-                <h3 className="text-xl font-bold mb-4">The 12-Month Recovery Roadmap</h3>
+                <h4 className="text-xl font-bold mb-4">The 12-Month Recovery Roadmap</h4>
                 <ul className="space-y-4 text-sm opacity-90">
                   <li><strong>Month 1:</strong> Clear all remaining small dues. Ensure no current "Late Payment" exists on any active account.</li>
                   <li><strong>Month 2:</strong> Get a Secured Credit Card (FD-backed). Banks like IDFC or Kotak offer these without CIBIL checks.</li>
@@ -446,7 +446,7 @@ export default function HomeLoanAfterSettlementPage() {
             </section>
 
             <section id="converting-settled" className="scroll-mt-32 mb-16">
-              <h3 className="text-2xl md:text-3xl font-bold text-[#2E2E2E] mb-6 tracking-tight">How to Convert "Settled" to "Closed"</h3>
+              <h4 className="text-2xl md:text-3xl font-bold text-[#2E2E2E] mb-6 tracking-tight">How to Convert "Settled" to "Closed"</h4>
               <p className="text-lg leading-relaxed mb-6">
                 This is the most effective way to restore your home loan eligibility. You can write a letter to the original bank stating you wish to repay the "Waived Portion" of your settled loan. Once you pay this amount, the bank is legally obligated to issue a "No Dues Certificate" (NDC) and update your CIBIL status to "Closed".
               </p>
@@ -456,9 +456,9 @@ export default function HomeLoanAfterSettlementPage() {
             </section>
 
             <section id="co-applicant-role" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                 Section 8: The Power of Co-applicants and guarantors
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 If your individual profile is weak due to a past settlement, "Leveraging" someone else's profile is a smart move. A co-applicant is not just another name on the paper; they are a secondary guarantee to the bank. 
               </p>
@@ -468,10 +468,10 @@ export default function HomeLoanAfterSettlementPage() {
             </section>
 
             <section id="settleloans-expert" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-5xl font-black text-[#2E2E2E] mt-16 mb-8 text-center uppercase tracking-tighter">Your Guide to Home Loan Recovery: SettleLoans</h2>
+              <h3 className="text-3xl md:text-5xl font-black text-[#2E2E2E] mt-16 mb-8 text-center uppercase tracking-tighter">Your Guide to Home Loan Recovery: SettleLoans</h3>
               <div className="bg-[#2E2E2E] text-white p-10 rounded-3xl shadow-xl flex flex-col md:flex-row gap-10 items-center">
                 <div className="flex-1">
-                  <h3 className="text-2xl font-bold mb-4 text-[#1F5EFF]">Why Partner with SettleLoans?</h3>
+                  <h4 className="text-2xl font-bold mb-4 text-[#1F5EFF]">Why Partner with SettleLoans?</h4>
                   <p className="text-lg mb-6 opacity-80 leading-relaxed">
                     We transition you from a "Risky Defaulter" to a "Responsible Homeowner." Our team of ex-bankers and CIBIL experts understands the internal credit manuals of over 40+ Indian lenders.
                   </p>
@@ -492,7 +492,7 @@ export default function HomeLoanAfterSettlementPage() {
             </section>
 
             <section id="review-snippets-section" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 text-center uppercase tracking-tighter">Verified Recovery Stories</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 text-center uppercase tracking-tighter">Verified Recovery Stories</h3>
               <div className="grid md:grid-cols-2 gap-6">
                 {[
                   { name: "Karan M.", loc: "Bangalore", type: "Settled Credit Card", story: "I settled a card for 2 Lakhs back in 2021. When I applied for a home loan in 2024, SBI rejected me. SettleLoans helped me pay the balance and get it closed. HDFC finally approved my loan last month." },
@@ -506,7 +506,7 @@ export default function HomeLoanAfterSettlementPage() {
                         {review.name.charAt(0)}
                       </div>
                       <div>
-                        <h3 className="font-bold text-[#2E2E2E]">{review.name}</h3>
+                        <h4 className="font-bold text-[#2E2E2E]">{review.name}</h4>
                         <p className="text-xs text-gray-400">{review.loc}</p>
                       </div>
                       <div className="ml-auto text-yellow-500 text-sm">★★★★★</div>
@@ -519,7 +519,7 @@ export default function HomeLoanAfterSettlementPage() {
 
             {/* Conclusion */}
             <section className="mb-16">
-              <h2 className="text-3xl font-black text-[#2E2E2E] mb-6">Conclusion: Your Home is Waiting</h2>
+              <h3 className="text-3xl font-black text-[#2E2E2E] mb-6">Conclusion: Your Home is Waiting</h3>
               <p className="text-lg leading-relaxed mb-6">
                 A past financial crisis should not be a life sentence of living in a rented house. While a loan settlement is a significant hurdle on your credit report, it is one that can be overcome with patience, strategy, and professional guidance. 
               </p>
@@ -529,7 +529,7 @@ export default function HomeLoanAfterSettlementPage() {
             </section>
 
             <section id="faqs-section" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-5xl font-black text-[#2E2E2E] mt-16 mb-8 text-center uppercase">Frequently Asked Questions</h2>
+              <h3 className="text-3xl md:text-5xl font-black text-[#2E2E2E] mt-16 mb-8 text-center uppercase">Frequently Asked Questions</h3>
               <div className="space-y-4">
                 {[
                   { q: "Can I get an SBI home loan after settlement?", a: "Extremely difficult. SBI follows very strict CIBIL norms. They usually require a perfectly 'Closed' status and a score above 750. You might need to wait at least 5 to 7 years post-settlement for a PSU bank." },
@@ -567,7 +567,7 @@ export default function HomeLoanAfterSettlementPage() {
             <div className="lg:hidden mt-16 mb-8">
               <div className="bg-[#2E2E2E] rounded-2xl shadow-xl overflow-hidden border border-[#1F5EFF]/20">
                 <div className="bg-[#1F5EFF] p-6 text-center text-white">
-                  <h3 className="text-2xl font-black mb-2">Buy Your Dream Home</h3>
+                  <h4 className="text-2xl font-black mb-2">Buy Your Dream Home</h4>
                   <p className="opacity-90 text-sm">Don't let a past settlement stop you. Get expert help today.</p>
                 </div>
                 <div className="p-8 text-center">
@@ -623,7 +623,7 @@ export default function HomeLoanAfterSettlementPage() {
         {/* Bottom CTA Section */}
         <section className="w-full bg-[#1F5EFF] py-16 px-4">
           <div className="max-w-4xl mx-auto text-center text-white">
-            <h2 className="text-3xl md:text-5xl font-black mb-6 uppercase tracking-tighter">Transform Your Credit, Transform Your Life</h2>
+            <h3 className="text-3xl md:text-5xl font-black mb-6 uppercase tracking-tighter">Transform Your Credit, Transform Your Life</h3>
             <p className="text-xl opacity-90 mb-10">Thousands have successfully bought homes after a settled debt. It's time for you to do the same. Get the roadmap to your new home today.</p>
             <Link href="/contact" className="inline-block bg-white text-[#1F5EFF] font-black py-5 px-12 rounded-xl hover:scale-105 transition-all shadow-2xl text-xl">
               Start Your Application

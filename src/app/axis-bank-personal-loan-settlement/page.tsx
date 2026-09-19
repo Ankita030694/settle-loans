@@ -116,7 +116,7 @@ const jsonLdGraph = {
       "@type": "FinancialService",
       "@id": "https://www.settleloans.in/axis-bank-personal-loan-settlement#service",
       "name": "SettleLoans - Axis Bank Personal Loan Settlement & Legal Defense",
-      "description": "Specialized legal and financial negotiation advisory for settling defaulted Axis Bank personal loans, Burgundy credit cards, and instant digital credit lines under RBI compromise frameworks.",
+      "description": "Specialized legal and financial talks advisory for settling defaulted Axis Bank personal loans, Burgundy credit cards, and instant digital credit lines under RBI compromise frameworks.",
       "url": "https://www.settleloans.in/axis-bank-personal-loan-settlement",
       "image": "https://www.settleloans.in/images/infographics/axis-bank-personal-loan-settlement.jpg",
       "telephone": "+91-99999-99999",
@@ -150,7 +150,7 @@ const jsonLdGraph = {
             "name": "Vivek Somani"
           },
           "datePublished": "2026-06-12",
-          "reviewBody": "I had an outstanding Axis Bank personal loan and Burgundy credit card balance totaling ₹11.5 Lakhs after my startup operations halted. Collection agencies were relentlessly calling my family. SettleLoans took over communications, replied to the bank's Section 25 PSSA notice, and negotiated a structured one-time settlement of ₹4.8 Lakhs directly with the Axis Bank SARB zonal committee. I received the official stamped sanction letter and zero-balance NDC within four weeks.",
+          "reviewBody": "I had an outstanding Axis Bank personal loan and Burgundy credit card balance totaling ₹11.5 Lakhs after my startup operations halted. Collection agencies were relentlessly calling my family. SettleLoans took over notices, replied to the bank's Section 25 PSSA notice, and negotiated a structured one-time settlement of ₹4.8 Lakhs directly with the Axis Bank SARB zonal committee. I received the official stamped sanction letter and zero-balance NDC within four weeks.",
           "reviewRating": {
             "@type": "Rating",
             "ratingValue": "5",
@@ -214,7 +214,7 @@ const jsonLdGraph = {
           "name": "What is the Axis Bank loan settlement process and how does it work?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "The Axis Bank loan settlement process is a formal compromise resolution between Axis Bank Limited and an unsecured borrower facing verified financial distress. When an account defaults beyond 90 days and transitions into Non-Performing Asset (NPA) status, the file is escalated from local branch recovery desks to the Stressed Asset Resolution Branch (SARB) or Central Settlement Desk. The borrower submits a structured One-Time Settlement (OTS) proposal with hardship documentation (such as medical reports, termination letters, or business loss statements). Axis Bank's Competent Credit Committee evaluates the proposal against Net Present Value (NPV) recovery metrics. Upon approval, an official stamped OTS Sanction Letter is issued, and upon direct remittance into the loan account, the bank extinguishes residual debt and delivers a No Dues Certificate (NDC)."
+            "text": "The Axis Bank loan settlement process is a formal compromise resolution between Axis Bank Limited and an unsecured borrower facing verified financial distress. When an account defaults beyond 90 days and transitions into Non-Performing Asset (NPA) status, the file is escalated from local branch recovery desks to the Stressed Asset Resolution Branch (SARB) or Central Settlement Desk. The borrower submits a structured One-Time Settlement (OTS) proposal with hardship records (such as medical reports, termination letters, or business loss statements). Axis Bank's Competent Credit Committee evaluates the proposal against Net Present Value (NPV) recovery metrics. Upon approval, an official stamped OTS Sanction Letter is issued, and upon direct remittance into the loan account, the bank extinguishes residual debt and delivers a No Dues Certificate (NDC)."
           }
         },
         {
@@ -230,7 +230,7 @@ const jsonLdGraph = {
           "name": "What is the role of Axis Bank's SARB (Stressed Asset Resolution Branch)?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "The Stressed Asset Resolution Branch (SARB) is Axis Bank's specialized vertical dedicated to resolving non-performing retail and SME debt exposures. When a delinquent loan crosses 90 to 120 days past due, the retail branch loses discretionary authority to negotiate concessions, and the file transfers to SARB. SARB officers possess the delegated financial powers to approve substantial principal haircuts, evaluate Net Present Value (NPV) trade-offs against potential litigation costs, and issue legally binding OTS Sanction Letters."
+            "text": "The Stressed Asset Resolution Branch (SARB) is Axis Bank's specialized vertical dedicated to resolving non-performing retail and SME debt exposures. When a delinquent loan crosses 90 to 120 days past due, the retail branch loses discretionary authority to negotiate concessions, and the file transfers to SARB. SARB officers possess the delegated financial powers to approve large principal haircuts, evaluate Net Present Value (NPV) trade-offs against potential litigation costs, and issue legally binding OTS Sanction Letters."
           }
         },
         {
@@ -254,7 +254,7 @@ const jsonLdGraph = {
           "name": "How strict are Axis Bank recovery agents and what are borrower rights against harassment?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Axis Bank utilizes internal tele-calling teams for early delinquencies and empanelled third-party Debt Recovery Agencies (DRAs) for NPA accounts. Under the RBI Master Directions on Recovery Agents and the Fair Practices Code, borrowers have clear protections: agents may only call between 08:00 AM and 07:00 PM; agents are strictly prohibited from visiting workplaces uninvited, using abusive language, or contacting friends, relatives, or employers; and visiting agents must present an official bank authorization letter and identity card. Any harassment can be formally reported to Axis Bank's Principal Nodal Officer and the RBI Integrated Ombudsman."
+            "text": "Axis Bank uses internal tele-calling teams for early delinquencies and empanelled third-party Debt Recovery Agencies (DRAs) for NPA accounts. Under the RBI Master Directions on Recovery Agents and the Fair Practices Code, borrowers have clear protections: agents may only call between 08:00 AM and 07:00 PM; agents are strictly prohibited from visiting workplaces uninvited, using abusive language, or contacting friends, relatives, or employers; and visiting agents must present an official bank authorization letter and identity card. Any harassment can be formally reported to Axis Bank's Principal Nodal Officer and the RBI Integrated Ombudsman."
           }
         },
         {
@@ -286,7 +286,7 @@ const jsonLdGraph = {
           "name": "What is the timeline for Axis Bank to issue the No Dues Certificate (NDC) under RBI rules?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Under RBI Circular RBI/2023-24/60, all regulated lenders including Axis Bank are mandated to issue a formal No Dues Certificate (NDC) / Loan Closure Certificate and update credit bureau databases within 30 calendar days of receiving the full settlement amount. If the bank fails to issue the certificate within 30 days without lawful justification, it is statutorily liable to pay compensation of ₹5,000 per day of delay directly to the borrower."
+            "text": "Under RBI Circular RBI/2023-24/60, all regulated lenders including Axis Bank are mandated to issue a formal No Dues Certificate (NDC) / Loan Closure Certificate and update credit bureau databases within 30 calendar days of receiving the full settlement amount. If the bank fails to issue the certificate within 30 days without lawful justification, it is statutorily liable to pay relief of ₹5,000 per day of delay directly to the borrower."
           }
         }
       ]

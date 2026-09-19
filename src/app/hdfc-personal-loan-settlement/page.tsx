@@ -115,7 +115,7 @@ const jsonLdGraph = {
       "@type": "FinancialService",
       "@id": "https://www.settleloans.in/hdfc-personal-loan-settlement#service",
       "name": "SettleLoans - HDFC Bank Personal Loan Settlement & Legal Defense",
-      "description": "Specialized legal and financial negotiation advisory for settling defaulted HDFC Bank personal loans and credit cards under RBI compromise frameworks with maximum debt waivers.",
+      "description": "Specialized legal and financial talks advisory for settling defaulted HDFC Bank personal loans and credit cards under RBI compromise frameworks with maximum debt waivers.",
       "url": "https://www.settleloans.in/hdfc-personal-loan-settlement",
       "image": "https://www.settleloans.in/images/infographics/hdfc-personal-loan-settlement.jpg",
       "telephone": "+91-99999-99999",
@@ -164,7 +164,7 @@ const jsonLdGraph = {
             "name": "Sunita Agarwal"
           },
           "datePublished": "2026-07-22",
-          "reviewBody": "My HDFC Bank personal loan and credit card dues ballooned to ₹14.2 Lakhs due to high compounding interest following a medical emergency. SettleLoans audited my NPA classification bucket, structured our hardship documentation, and secured an official 55% haircut from HDFC Bank SARB. The entire process was fully transparent with payments made directly into the loan account.",
+          "reviewBody": "My HDFC Bank personal loan and credit card dues ballooned to ₹14.2 Lakhs due to high compounding interest following a medical emergency. SettleLoans audited my NPA classification bucket, structured our hardship records, and secured an official 55% haircut from HDFC Bank SARB. The entire process was fully transparent with payments made directly into the loan account.",
           "reviewRating": {
             "@type": "Rating",
             "ratingValue": "5",
@@ -194,7 +194,7 @@ const jsonLdGraph = {
             "name": "Meera Venkatesh"
           },
           "datePublished": "2026-08-02",
-          "reviewBody": "Outstanding support against aggressive collection calls. SettleLoans established communication with the HDFC Principal Nodal Officer, presented my income reduction proof, and helped me close my unsecured personal loan smoothly with an authentic bank sanction letter. Very grateful for their ethical approach.",
+          "reviewBody": "Outstanding support against aggressive collection calls. SettleLoans established notice with the HDFC Principal Nodal Officer, presented my income reduction proof, and helped me close my unsecured personal loan smoothly with an authentic bank sanction letter. Very grateful for their ethical approach.",
           "reviewRating": {
             "@type": "Rating",
             "ratingValue": "5",
@@ -213,7 +213,7 @@ const jsonLdGraph = {
           "name": "What is the HDFC Bank personal loan settlement process and how does it work?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "The HDFC Bank personal loan settlement process is a formal compromise resolution between HDFC Bank and a distressed borrower unable to service their unsecured loan dues. Once the account crosses 90 to 180 days of default and transitions into NPA (Non-Performing Asset) status, the borrower or their legal representative submits a formal One-Time Settlement (OTS) proposal with verifiable hardship documentation. HDFC's Competent Credit Committee evaluates the proposal against internal provisioning formulas and Net Present Value (NPV) recovery benchmarks. If approved, HDFC issues an official stamped OTS Sanction Letter on bank letterhead, and upon payment of the negotiated amount directly into the loan account, the bank closes the file and issues a No Dues Certificate (NDC)."
+            "text": "The HDFC Bank personal loan settlement process is a formal compromise resolution between HDFC Bank and a distressed borrower unable to service their unsecured loan dues. Once the account crosses 90 to 180 days of default and transitions into NPA (Non-Performing Asset) status, the borrower or their legal agent submits a formal One-Time Settlement (OTS) proposal with verifiable hardship records. HDFC's Competent Credit Committee evaluates the proposal against internal provisioning formulas and Net Present Value (NPV) recovery benchmarks. If approved, HDFC issues an official stamped OTS Sanction Letter on bank letterhead, and upon payment of the negotiated amount directly into the loan account, the bank closes the file and issues a No Dues Certificate (NDC)."
           }
         },
         {
@@ -237,7 +237,7 @@ const jsonLdGraph = {
           "name": "Can HDFC Bank file a criminal police case or arrest you for personal loan default?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "No, non-payment of an unsecured personal loan is strictly a civil dispute arising from breach of contract, not a criminal offence. The police cannot arrest you, lodge an FIR, or summon you to a police station for genuine financial default. However, if a repayment cheque bounces or an electronic NACH/ECS mandate is dishonoured due to insufficient funds, the bank can initiate statutory quasi-criminal proceedings under Section 138 of the Negotiable Instruments Act, 1881, or Section 25 of the Payment and Settlement Systems Act, 2007. These summons are served by a magistrate court and can be resolved through legal representation and settlement."
+            "text": "No, non-payment of an unsecured personal loan is strictly a civil dispute arising from breach of contract, not a criminal offence. The police cannot arrest you, lodge an FIR, or summon you to a police station for genuine financial default. However, if a repayment cheque bounces or an electronic NACH/ECS mandate is dishonoured due to insufficient funds, the bank can start statutory quasi-criminal cases under Section 138 of the Negotiable Instruments Act, 1881, or Section 25 of the Payment and Settlement Systems Act, 2007. These summons are served by a magistrate court and can be resolved through legal representation and settlement."
           }
         },
         {
@@ -269,7 +269,7 @@ const jsonLdGraph = {
           "name": "What precautions should a borrower take before making a settlement payment to HDFC Bank?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Borrowers must follow five non-negotiable rules: (1) Never make payments based on verbal, SMS, or WhatsApp commitments from collection agents; (2) Insist on a formal, physical or digitally verifiable OTS Sanction Letter printed on official HDFC Bank letterhead with bank seal and authorized officer employee code; (3) Verify that the sanction letter explicitly declares the agreed amount as full and final settlement with complete waiver of residual dues; (4) Deposit the settlement sum strictly into your specific HDFC Loan Account number via NEFT/RTGS or account payee cheque—never into an individual account; (5) Obtain a stamped acknowledgement receipt immediately upon payment."
+            "text": "Borrowers must follow five non-negotiable rules: (1) Never make payments based on verbal, SMS, or WhatsApp commitments from collection agents; (2) Insist on a formal, physical or digitally verifiable OTS Sanction Letter printed on official HDFC Bank letterhead with bank seal and authorized officer employee code; (3) Verify that the sanction letter explicitly declares the agreed amount as full and final settlement with complete waiver of residual dues; (4) Deposit the settlement sum strictly into your specific HDFC Loan Account number via NEFT/RTGS or account payee cheque—never into an person account; (5) Obtain a stamped acknowledgement receipt immediately upon payment."
           }
         },
         {
@@ -277,7 +277,7 @@ const jsonLdGraph = {
           "name": "Can an HDFC personal loan be settled in the National Lok Adalat?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Yes, HDFC Bank frequently refers delinquent personal loan and credit card accounts to the National Lok Adalat organized quarterly by the National Legal Services Authority (NALSA) across district and state courts. In Lok Adalat, bank representatives sit before a judicial conciliation panel with pre-approved settlement discount mandates (often 40% to 60% haircut). Any settlement arrived at Lok Adalat results in a legally binding Civil Court decree with finality, meaning neither party can challenge or appeal against it."
+            "text": "Yes, HDFC Bank frequently refers delinquent personal loan and credit card accounts to the National Lok Adalat organized quarterly by the National Legal Services Authority (NALSA) across district and state courts. In Lok Adalat, bank agents sit before a judicial conciliation panel with pre-approved settlement discount mandates (often 40% to 60% haircut). Any settlement arrived at Lok Adalat results in a legally binding Civil Court decree with finality, meaning neither party can challenge or appeal against it."
           }
         },
         {
@@ -285,7 +285,7 @@ const jsonLdGraph = {
           "name": "How long does HDFC Bank take to issue the No Dues Certificate (NDC) after settlement?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Under RBI Circular RBI/2023-24/60, all regulated lenders including HDFC Bank are legally required to issue a formal No Dues Certificate / Loan Closure Letter and update credit bureau records within 30 calendar days of receiving the final settlement tranche. If the bank fails to issue the certificate or release documents within 30 days due to operational lapses, it must pay mandatory statutory compensation of ₹5,000 per day of delay to the borrower."
+            "text": "Under RBI Circular RBI/2023-24/60, all regulated lenders including HDFC Bank are legally required to issue a formal No Dues Certificate / Loan Closure Letter and update credit bureau records within 30 calendar days of receiving the final settlement tranche. If the bank fails to issue the certificate or release documents within 30 days due to operational lapses, it must pay mandatory statutory relief of ₹5,000 per day of delay to the borrower."
           }
         }
       ]

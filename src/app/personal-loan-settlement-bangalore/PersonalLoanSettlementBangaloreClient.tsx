@@ -402,9 +402,9 @@ export default function PersonalLoanSettlementBangaloreClient() {
                 <Lock className="w-4 h-4" />
                 <span>2. Salary Account &amp; Banker&apos;s Lien Defense</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 Protecting Salary Accounts, NACH Mandates &amp; Banker&apos;s Lien Under Section 171
-              </h2>
+              </h3>
               <p className="text-base text-slate-700 leading-relaxed mb-4">
                 One of the most urgent threats confronting defaulting tech professionals in Bengaluru is the sudden interception of monthly salary credits. When a borrower maintains both an active personal loan or credit card and their corporate payroll account within the same banking entity (such as HDFC Bank, ICICI Bank, Axis Bank, or Kotak Mahindra Bank), the lender frequently invokes the <strong>Banker&apos;s Right of General Lien and Set-Off</strong> under Section 171 of the Indian Contract Act, 1872. Under this provision, the bank automatically sweeps incoming salary credits to liquidate overdue loan arrears, leaving the employee without funds for rent, food, or family maintenance.
               </p>
@@ -433,9 +433,9 @@ export default function PersonalLoanSettlementBangaloreClient() {
                 <Gavel className="w-4 h-4" />
                 <span>3. Judicial Summons &amp; Court Defense</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 Mayo Hall, City Civil Court &amp; ACMM Judicial Defense: Section 138 &amp; Section 25 Summons
-              </h2>
+              </h3>
               <p className="text-base text-slate-700 leading-relaxed mb-4">
                 When unsecured loan accounts cross 90 to 180 days past due (DPD), institutional lenders in Bangalore initiate formal legal recovery measures through panel advocate firms. Borrowers frequently receive statutory demand notices followed by judicial summons from the <strong>Chief Metropolitan Magistrate (CMM) and Additional Chief Metropolitan Magistrate (ACMM) Courts</strong> located at Nrupathunga Road or the <strong>Mayo Hall Court Complex</strong> on MG Road. The primary statutory provisions invoked include:
               </p>
@@ -464,9 +464,9 @@ export default function PersonalLoanSettlementBangaloreClient() {
                 <Scale className="w-4 h-4" />
                 <span>4. KSLSA Lok Adalat Mechanics</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 Karnataka State Legal Services Authority (KSLSA) Lok Adalat Settlement Dynamics
-              </h2>
+              </h3>
               <p className="text-base text-slate-700 leading-relaxed mb-4">
                 The <strong>Karnataka State Legal Services Authority (KSLSA)</strong>, headquartered at <em>Nyaya Degula</em> on Siddaiah Road near the High Court of Karnataka, organizes regular National and Mega Lok Adalats across all Bangalore judicial complexes. Lok Adalats serve as India&apos;s most powerful statutory alternative dispute resolution mechanism for resolving distressed commercial and banking liabilities.
               </p>
@@ -499,9 +499,9 @@ export default function PersonalLoanSettlementBangaloreClient() {
                   <Sparkles className="w-3.5 h-3.5" />
                   <span>Strategic Legal Roadmap</span>
                 </div>
-                <h3 className="text-lg sm:text-xl md:text-2xl font-black mb-2 text-white">
+                <h4 className="text-lg sm:text-xl md:text-2xl font-black mb-2 text-white">
                   Bangalore Tech Corridor Loan Settlement &amp; Legal Defense Blueprint
-                </h3>
+                </h4>
                 <p className="text-xs sm:text-sm text-slate-300 max-w-2xl mx-auto mb-6">
                   A structured four-pillar institutional defense framework: from forensic audit and salary shielding to KSLSA Lok Adalat compromise awards and 40%–70% OTS debt waivers.
                 </p>
@@ -530,9 +530,9 @@ export default function PersonalLoanSettlementBangaloreClient() {
                 <FileCheck className="w-4 h-4" />
                 <span>5. Confidential Online Protocol</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 The 5-Stage Confidential Online Settlement Protocol for Tech Executives
-              </h2>
+              </h3>
               <p className="text-base text-slate-700 leading-relaxed mb-4">
                 Corporate tech executives and salaried professionals require a settlement process that is 100% confidential, rapid, and legally airtight, avoiding workplace disruption or loss of productive work hours. SettleLoans executes a structured five-stage remote protocol:
               </p>
@@ -559,9 +559,9 @@ export default function PersonalLoanSettlementBangaloreClient() {
                 <Sparkles className="w-4 h-4" />
                 <span>6. Banking NPA Accounting &amp; NPV Calculations</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 Banking NPA Accounting Rules, NPV Calculations &amp; Securing 40%–70% Waivers
-              </h2>
+              </h3>
               <p className="text-base text-slate-700 leading-relaxed mb-4">
                 Achieving maximum debt waivers with scheduled commercial banks and NBFCs in Bangalore requires understanding institutional balance-sheet mechanics. Under the Reserve Bank of India&apos;s <strong>Prudential Norms on Income Recognition, Asset Classification and Provisioning (IRACP)</strong>, once an unsecured credit facility remains overdue beyond 90 days, it is classified as a Non-Performing Asset (Substandard). As delinquency extends past 12 months, it progresses to Doubtful and eventually Loss asset classifications.
               </p>
@@ -597,9 +597,9 @@ export default function PersonalLoanSettlementBangaloreClient() {
                 <ShieldAlert className="w-4 h-4" />
                 <span>7. Anti-Harassment &amp; Police Jurisdictions</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 Enforcing Anti-Harassment Protections &amp; Bengaluru City Police Boundaries
-              </h2>
+              </h3>
               <p className="text-base text-slate-700 leading-relaxed mb-4">
                 Distressed borrowers in Bangalore frequently encounter aggressive overreach from third-party recovery agencies acting on behalf of major private banks, NBFCs, and fintech lenders. Abusive tactics include incessant calling outside permissible hours, abusive language, sending recovery agents to residential gated societies in Bellandur, Sarjapur, Whitefield, or Electronic City, and attempting unauthorized visits to corporate IT parks.
               </p>
@@ -628,9 +628,9 @@ export default function PersonalLoanSettlementBangaloreClient() {
                 <FileText className="w-4 h-4" />
                 <span>8. Settlement Verification &amp; CIBIL Roadmap</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 Settlement Verification: Sanction Letters vs Final No Dues Certificates (NDC)
-              </h2>
+              </h3>
               <p className="text-base text-slate-700 leading-relaxed mb-4">
                 A serious risk for borrowers in Bangalore is falling prey to fraudulent settlement schemes orchestrated by rogue collection agencies who provide verbal discounts or falsified settlement letters on messaging apps. If money is transferred into unauthorized accounts or without institutional credit sanction, the bank absorbs the payment as overdue interest, keeping the full loan active and legal proceedings open.
               </p>
@@ -651,9 +651,9 @@ export default function PersonalLoanSettlementBangaloreClient() {
                 <MapPin className="w-4 h-4" />
                 <span>9. Bangalore Courts &amp; Resolution Matrix</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 Bangalore Urban &amp; Rural District Courts Directory &amp; Jurisdiction Matrix
-              </h2>
+              </h3>
               <p className="text-base text-slate-700 leading-relaxed mb-4">
                 Understanding which judicial forum holds territorial jurisdiction over your loan dispute is essential for timely legal intervention. Below is the directory and jurisdiction matrix for courts across Bengaluru where debt recovery litigation, Section 138 NI Act trials, and KSLSA Lok Adalats are conducted:
               </p>
@@ -704,9 +704,9 @@ export default function PersonalLoanSettlementBangaloreClient() {
                 </table>
               </div>
 
-              <h3 className="text-lg sm:text-xl font-black text-slate-900 mt-8 mb-4">
+              <h4 className="text-lg sm:text-xl font-black text-slate-900 mt-8 mb-4">
                 Comparative Resolution Channels: Lok Adalat vs Direct Settlement vs Court Litigation
-              </h3>
+              </h4>
               <p className="text-base text-slate-700 leading-relaxed mb-4">
                 Tech borrowers facing loan defaults must evaluate their strategic options across timeline, financial cost, legal finality, and potential debt haircut. The following table provides a comparative breakdown:
               </p>
@@ -759,9 +759,9 @@ export default function PersonalLoanSettlementBangaloreClient() {
                 <HelpCircle className="w-4 h-4" />
                 <span>10. Common Questions &amp; Legal Answers</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
                 Frequently Asked Questions: Personal Loan Settlement Company Bangalore
-              </h2>
+              </h3>
 
               <div className="space-y-4">
                 {faqs.map((faq, index) => (
@@ -833,9 +833,9 @@ export default function PersonalLoanSettlementBangaloreClient() {
 
             {/* 10 Internal Topic Badges */}
             <div className="bg-slate-50 border border-slate-200 rounded-2xl p-5 my-8">
-              <h3 className="text-xs font-bold uppercase tracking-wider text-slate-500 mb-3">
+              <h4 className="text-xs font-bold uppercase tracking-wider text-slate-500 mb-3">
                 Related Legal &amp; Debt Resolution Guides
-              </h3>
+              </h4>
               <div className="flex flex-wrap gap-2">
                 <Link
                   href="/personal-loan-settlement-hyderabad"

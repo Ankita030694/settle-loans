@@ -338,7 +338,7 @@ export default function RBLBankSettlementPage() {
             </section>
 
             <section id="rbl-history" className="scroll-mt-32 mb-16">
-              <h3 className="text-3xl font-black text-[#1a202c] mb-6">2. RBL Recovery: The Digital Pivot and Regional Silos</h3>
+              <h4 className="text-3xl font-black text-[#1a202c] mb-6">2. RBL Recovery: The Digital Pivot and Regional Silos</h4>
               <p className="mb-6">
                 RBL Bank's recovery department has moved away from the "boots on the ground" model of the early 2010s to a "Cloud-First" recovery strategy. Today, your case is likely being managed by an automated dialer system that uses psychological profiling to time calls for maximum impact. They track your responsiveness, your tone, and even your digital footprint to decide how much pressure to exert.
               </p>
@@ -351,7 +351,7 @@ export default function RBLBankSettlementPage() {
             </section>
 
             <section id="debt-trap" className="scroll-mt-32 mb-32">
-                <h3 className="text-4xl font-black text-[#1a202c] mb-12">3. The 46% Interest Monster: Killing the SuperCard Cycle</h3>
+                <h4 className="text-4xl font-black text-[#1a202c] mb-12">3. The 46% Interest Monster: Killing the SuperCard Cycle</h4>
                 <div className="space-y-10">
                     <p>
                         The RBL Bank SuperCard, offered in partnership with Bajaj Finserv, is a financial instrument that masks one of the highest interest structures in the Indian market. While the advertising focuses on interest-free ATM withdrawals for 50 days, the reality of the revolving credit cycle is brutal. Once you fail to pay the total amount due, the bank charges interest (approx 3.9% per month) not just on the new purchases, but on the entire outstanding balance, compounded daily.
@@ -366,7 +366,7 @@ export default function RBLBankSettlementPage() {
             </section>
 
             <section id="ots-2026" className="scroll-mt-32 mb-32">
-                <h3 className="text-4xl font-black text-[#1a202c] mb-12">4. The AI-Driven OTS Scheme: Breaking the Bank's Logic</h3>
+                <h4 className="text-4xl font-black text-[#1a202c] mb-12">4. The AI-Driven OTS Scheme: Breaking the Bank's Logic</h4>
                 <div className="space-y-10">
                     <p>
                         By 2026, RBL Bank has fully integrated machine learning into its One-Time Settlement (OTS) decision-making. The system assigns a "Probability of Recovery" score to every defaulted account. This score is influenced by several factors: your current CIBIL score (to see if you are paying other banks), your employment status as per EPFO data, and even your property ownership status if linked to your PAN.
@@ -381,7 +381,7 @@ export default function RBLBankSettlementPage() {
             </section>
 
             <section id="personal-loan" className="scroll-mt-32 mb-32">
-                <h3 className="text-4xl font-black text-[#1a202c] mb-12">5. RBL Bank Personal Loan Resolution: From EMI Stress to OTS Success</h3>
+                <h4 className="text-4xl font-black text-[#1a202c] mb-12">5. RBL Bank Personal Loan Resolution: From EMI Stress to OTS Success</h4>
                 <div className="space-y-10">
                     <p>
                         RBL Bank Personal Loans are typically unsecured, fixed-tenure products marketed to salaried professionals and small business owners. When a borrower defaults, RBL triggers a "Linear Recovery Path." This begins with automated SMS and IVR calls, followed by assignments to local recovery agencies. A unique tactic used by RBL is the "Salary Account Set-Off." If you have any other account or a salary credit in an RBL branch, the bank may exercise its legal right to set-off, deducting your entire balance to cover the loan overdue without prior notice.
@@ -396,7 +396,7 @@ export default function RBLBankSettlementPage() {
             </section>
 
             <section id="supercard" className="scroll-mt-32 mb-32">
-                <h3 className="text-4xl font-black text-[#1a202c] mb-12">6. SuperCard Settlement Nuances: Navigating the Tripartite Conflict</h3>
+                <h4 className="text-4xl font-black text-[#1a202c] mb-12">6. SuperCard Settlement Nuances: Navigating the Tripartite Conflict</h4>
                 <div className="space-y-10">
                     <p>
                         The Bajaj Finserv RBL Bank SuperCard is a "Co-Branded" product, which creates a complex tripartite relationship between the borrower, RBL Bank (the lender), and Bajaj Finserv (the marketing and sourcing partner). When a SuperCard account goes into default, the recovery pressure often comes from both sides. You might receive a legal notice from RBL's lawyers while simultaneously getting recovery visits from Bajaj Finserv's agency partners.
@@ -411,7 +411,7 @@ export default function RBLBankSettlementPage() {
             </section>
 
             <section id="hardship" className="scroll-mt-32 mb-32">
-                <h3 className="text-4xl font-black text-[#1a202c] mb-12">7. Defining Genuine Hardship: The Documentation of Distress</h3>
+                <h4 className="text-4xl font-black text-[#1a202c] mb-12">7. Defining Genuine Hardship: The Documentation of Distress</h4>
                 <div className="space-y-10">
                     <p>
                         RBL Bank's Regional Settlement Committee (RSC) does not grant waivers out of empathy; they grant them based on documentation. To move an account from a 20% discount to a 70% waiver, we must build a "Hardship File" that meets their internal compliance standards. In 2026, the criteria for "Genuine Hardship" have become more strictly defined.
@@ -429,7 +429,7 @@ export default function RBLBankSettlementPage() {
             </section>
 
             <section id="legal-shield" className="scroll-mt-32 mb-32">
-                <h3 className="text-4xl font-black text-[#1a202c] mb-12">8. Sec 138 & Legal Defense: Strategic Protection Against Litigation</h3>
+                <h4 className="text-4xl font-black text-[#1a202c] mb-12">8. Sec 138 & Legal Defense: Strategic Protection Against Litigation</h4>
                 <div className="space-y-10">
                     <p>
                         RBL Bank is historically aggressive in using the Indian legal system as a recovery tool. The most common weapon is Section 138 of the Negotiable Instruments (NI) Act, which is triggered when a repayment cheque or a NACH (National Automated Clearing House) mandate fails due to insufficient funds. While a simple loan default is a civil matter, a bounced cheque or NACH is a quasi-criminal offense. RBL often files these cases in "Centralized Legal Hubs" like New Delhi or Ahmedabad, forcing borrowers from other states to travel long distances for hearings. This is a tactic designed to exhaust you physically and financially.
@@ -444,7 +444,7 @@ export default function RBLBankSettlementPage() {
             </section>
 
             <section id="rbi-codes" className="scroll-mt-32 mb-32">
-                <h3 className="text-4xl font-black text-[#1a202c] mb-12">9. RBI Fair Practice Codes: Turning the Tables on the Bank</h3>
+                <h4 className="text-4xl font-black text-[#1a202c] mb-12">9. RBI Fair Practice Codes: Turning the Tables on the Bank</h4>
                 <div className="space-y-10">
                     <p>
                         Most RBL Bank customers do not realize that the RBI (Reserve Bank of India) has strict "Master Directions" on the conduct of recovery agents. Any violation of these codes is a powerful bargaining chip that we use to secure deeper discounts. Common violations by RBL's CSPs (Collection Service Providers) include calling at odd hours (before 8 AM or after 7 PM), using abusive language, or contacting friends and relatives who were not co-applicants.
@@ -459,7 +459,7 @@ export default function RBLBankSettlementPage() {
             </section>
 
             <section id="cibil-roadmap" className="scroll-mt-32 mb-32">
-                <h3 className="text-4xl font-black text-[#1a202c] mb-12">10. Post-Settlement CIBIL Fix: Rebuilding Your Financial Identity</h3>
+                <h4 className="text-4xl font-black text-[#1a202c] mb-12">10. Post-Settlement CIBIL Fix: Rebuilding Your Financial Identity</h4>
                 <div className="space-y-10">
                     <p>
                         The most frequent question RBL customers ask is: "Will settlement destroy my credit forever?" The answer is no. While a settlement results in a "Settled" or "Post-Write-off Settled" status on your report, which temporary lowers your score, it is a much better outcome than a "Default" or "Written Off" status that stays stagnant for years. A settlement provides a date of closure, which allows the "healing clock" of your CIBIL profile to start ticking.
@@ -476,7 +476,7 @@ export default function RBLBankSettlementPage() {
             </section>
 
             <section id="business-loan" className="scroll-mt-32 mb-32">
-                <h3 className="text-4xl font-black text-[#1a202c] mb-12">11. RBL SME & Business Debt Resolution: Protecting Your Enterprise</h3>
+                <h4 className="text-4xl font-black text-[#1a202c] mb-12">11. RBL SME & Business Debt Resolution: Protecting Your Enterprise</h4>
                 <div className="space-y-10">
                     <p>
                         For small and medium enterprises (SMEs), an RBL business loan default is not just a personal crisis; it is a threat to the livelihood of employees and the survival of the business entity. RBL Bank often secures these loans against business assets or personal guarantees. When defaults occur, the bank's first move is often to "Freeze Current Accounts" or initiate proceedings under the SARFAESI Act if the loan is secured.
@@ -491,7 +491,7 @@ export default function RBLBankSettlementPage() {
             </section>
 
             <section id="psychology" className="scroll-mt-32 mb-32">
-                <h3 className="text-4xl font-black text-[#1a202c] mb-12">12. Psychology of Recovery: Breaking the Fear Barrier</h3>
+                <h4 className="text-4xl font-black text-[#1a202c] mb-12">12. Psychology of Recovery: Breaking the Fear Barrier</h4>
                 <div className="space-y-10">
                     <p>
                         The most powerful tool in RBL's recovery arsenal is not the law: it is fear. Recovery agents are trained in "Pressure Tactics": using a specific tone of voice, creating a false sense of urgency (e.g., "The police are coming in two hours"), and exploiting social shame. They want you to make a "Panic Payment," which often doesn't even reduce the principal but just covers the agent's commission.
@@ -506,7 +506,7 @@ export default function RBLBankSettlementPage() {
             </section>
 
             <section id="lok-adalat" className="scroll-mt-32 mb-32">
-                <h3 className="text-4xl font-black text-[#1a202c] mb-12">13. Lok Adalat Procedures: The Judicial Peace Treaty</h3>
+                <h4 className="text-4xl font-black text-[#1a202c] mb-12">13. Lok Adalat Procedures: The Judicial Peace Treaty</h4>
                 <div className="space-y-10">
                     <p>
                         Lok Adalat (People's Court) is a unique Indian judicial forum where long-pending disputes are settled through conciliation. RBL Bank participates heavily in National Lok Adalats to clear their massive backlog of defaulted accounts. A Lok Adalat settlement is technically a "Judicial Compromise," and the decree passed by the Lok Adalat has the same legal force as a civil court decree.
@@ -521,7 +521,7 @@ export default function RBLBankSettlementPage() {
             </section>
 
             <section id="obstacles" className="scroll-mt-32 mb-32">
-                <h3 className="text-4xl font-black text-[#1a202c] mb-12">14. Common RBL Bank Obstacles: Identifying and Overcoming Traps</h3>
+                <h4 className="text-4xl font-black text-[#1a202c] mb-12">14. Common RBL Bank Obstacles: Identifying and Overcoming Traps</h4>
                 <div className="space-y-10">
                     <p>
                         The journey to an RBL settlement is filled with corporate red tape and agency traps. One common obstacle is the "Disappearing Settlement." An agent might agree to a figure over the phone, take your payment, and then their agency contract with the bank expires. The bank then claims they never authorized that amount and demands the rest.
@@ -535,7 +535,7 @@ export default function RBLBankSettlementPage() {
                 </div>
             </section>
             <section id="reviews" className="scroll-mt-32 mb-32">
-                <h3 className="text-4xl font-black text-[#1a202c] mb-12">15. RBL Client Success Stories & Review Snippets</h3>
+                <h4 className="text-4xl font-black text-[#1a202c] mb-12">15. RBL Client Success Stories & Review Snippets</h4>
                 <div className="grid grid-cols-1 md:grid-cols-2 gap-8">
                   {[
                     { 
@@ -579,7 +579,7 @@ export default function RBLBankSettlementPage() {
                       <p className="text-lg opacity-80 leading-relaxed mb-8 font-light italic">"{review.text}"</p>
                       <div className="flex justify-between items-end">
                         <div>
-                          <h4 className="font-black text-[#1a202c] leading-tight">{review.name}</h4>
+                          <h5 className="font-black text-[#1a202c] leading-tight">{review.name}</h5>
                           <p className="text-sm opacity-50 uppercase tracking-widest">{review.location}</p>
                         </div>
                         <div className="text-right">
@@ -593,7 +593,7 @@ export default function RBLBankSettlementPage() {
               </section>
 
             <section id="faqs" className="scroll-mt-32 mb-32">
-                <h3 className="text-4xl font-black text-[#004c94] mb-12">16. Technical FAQ Desk: Expert Answers for Complex Scenarios</h3>
+                <h4 className="text-4xl font-black text-[#004c94] mb-12">16. Technical FAQ Desk: Expert Answers for Complex Scenarios</h4>
                 <div className="space-y-12">
                   {[
                     { q: "Can RBL Bank sue me for a 50,000 credit card bill?", a: "Legally yes, but practically no. The cost of hiring a lawyer, paying court fees, and managing process servers usually exceeds 30,000 to 40,000. For small amounts, the bank's internal policy prefers 'Bulk Settlement' where they clear thousands of such accounts in one go. We help you get into one of these bulk batches for the lowest possible cost." },
@@ -608,7 +608,7 @@ export default function RBLBankSettlementPage() {
                     { q: "Can SettleLoans stop a home visit scheduled for tomorrow?", a: "While we don't physically block your door, our legal representation notice is shared with the bank's central recovery hub. Once the hub acknowledges our representation, they are internally required to withdraw the file from the ground squad. This usually stops visits within 24 to 48 hours. We also provide you with a 'Legal Script' to read to any agent who arrives, which usually makes them leave immediately." }
                   ].map((faq, i) => (
                     <div key={i} className="pb-10 border-b border-slate-100 group">
-                       <h4 className="text-2xl font-black text-[#1a202c] mb-4 group-hover:text-[#004c94] transition-colors">{faq.q}</h4>
+                       <h5 className="text-2xl font-black text-[#1a202c] mb-4 group-hover:text-[#004c94] transition-colors">{faq.q}</h5>
                        <p className="text-lg opacity-70 leading-relaxed font-light">{faq.a}</p>
                     </div>
                   ))}
@@ -616,9 +616,9 @@ export default function RBLBankSettlementPage() {
             </section>
 
             <section id="conclusion" className="scroll-mt-32 mb-16">
-               <h3 className="text-5xl md:text-[120px] font-black text-[#1a202c] mb-16 leading-[0.8] tracking-tighter">
+               <h4 className="text-5xl md:text-[120px] font-black text-[#1a202c] mb-16 leading-[0.8] tracking-tighter">
                   Freedom. <br className="hidden md:block"/> <span className="text-[#ed232a]">Finally.</span>
-               </h3>
+               </h4>
                <div className="space-y-12 text-3xl font-light leading-relaxed">
                   <p>
                      You have finished reading over 5,000 words of technical guidance. This knowledge is your first step toward financial recovery. In the world of RBL Bank debt, information is the only currency that matters. By understanding the math of the debt trap, the logic of the AI-driven OTS, and the protection of the RBI Fair Practice Code, you have already taken back 50% of the power.
@@ -631,7 +631,7 @@ export default function RBLBankSettlementPage() {
                   </p>
                   <div className="bg-[#004c94] text-white p-24 rounded-[80px] text-center shadow-[0_80px_150px_rgba(0,76,148,0.4)] relative overflow-hidden mt-10">
                      <div className="absolute top-0 left-0 w-full h-full bg-[#ed232a]/5 transform -rotate-12 translate-x-1/2"></div>
-                     <h2 className="text-7xl font-black mb-12 leading-none relative z-10">Start Your RBL <br/> Recovery Today</h2>
+                     <h3 className="text-7xl font-black mb-12 leading-none relative z-10">Start Your RBL <br/> Recovery Today</h3>
                      <Link href="/contact" className="inline-block bg-[#ed232a] text-white font-black py-10 px-32 rounded-3xl text-5xl hover:scale-110 active:scale-95 transition-all shadow-4xl relative z-10">
                         Free Legal Analysis
                      </Link>

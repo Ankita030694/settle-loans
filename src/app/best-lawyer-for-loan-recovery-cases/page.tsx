@@ -181,7 +181,7 @@ export default function LoanRecoveryCasesPage() {
                                 The best lawyer for loan recovery cases doesn't just file an ordinary suit and wait years for a date. They employ a multi-pronged strategy that combines Civil Recovery Suits, Criminal Prosecution for cheque bounce, and Summary Judgments. In high-value cases, they leverage the powers of the Debt Recovery Tribunal (DRT) and the SARFAESI Act to bypass the civil courts entirely. Recovering debt is not just about having a right to the money; it's about making the 'Cost of Deferring Payment' higher for the borrower than the 'Cost of Paying Up'.
                             </p>
                             <div className="bg-blue-50 p-8 rounded-2xl border border-blue-100 mb-10">
-                                <h3 className="text-xl font-bold text-[#1F5EFF] mb-4 uppercase tracking-wider">The Lender's Psychological Leverage</h3>
+                                <h4 className="text-xl font-bold text-[#1F5EFF] mb-4 uppercase tracking-wider">The Lender's Psychological Leverage</h4>
                                 <p className="text-gray-700 leading-relaxed mb-4 font-medium">
                                     In India, borrowers often use litigation as a 'Delaying Tactic'. Our recovery strategy focuses on breaking this cycle. By filing a Summary Suit under Order 37, we strip the borrower of their automatic right to defend the case. They must prove to a judge that they have a merit-based defense before they are even allowed to participate in the trial.
                                 </p>
@@ -192,13 +192,13 @@ export default function LoanRecoveryCasesPage() {
                         </section>
 
                         <section id="summary-suits" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 uppercase tracking-tight">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 uppercase tracking-tight">
                                 Order 37 CPC: The Fast-Track Route to a Decree
-                            </h2>
+                            </h3>
                             <p className="text-lg text-gray-700 leading-relaxed mb-6">
                                 For commercial loans backed by written contracts, promissory notes, or bills of exchange, Order 37 of the Code of Civil Procedure (CPC) is a lender's most powerful civil tool.
                             </p>
-                            <h3 className="text-2xl font-bold text-[#2E2E2E] mb-4 text-[#1F5EFF]">How it Bypasses the Usual Delay</h3>
+                            <h4 className="text-2xl font-bold text-[#2E2E2E] mb-4 text-[#1F5EFF]">How it Bypasses the Usual Delay</h4>
                             <ul className="list-none space-y-6 mb-10">
                                 <li className="p-6 bg-gray-50 rounded-2xl border border-gray-200 shadow-sm">
                                     <strong className="text-[#2E2E2E]">The 10-Day Clock:</strong> Once the borrower receives the summons, they have exactly 10 days to file an 'Appearance'. Failure to do so leads to an automatic judgment in favor of the lender.
@@ -213,9 +213,9 @@ export default function LoanRecoveryCasesPage() {
                         </section>
 
                         <section id="cheque-bounce" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">
                                 Section 138 NI Act: Criminalizing Financial Defaults
-                            </h2>
+                            </h3>
                             <p className="text-lg text-gray-700 leading-relaxed mb-6">
                                 A dishonored cheque is more than just a failed payment; it is a criminal offense under Section 138 of the Negotiable Instruments Act. We use this to apply maximum pressure on defaulting borrowers.
                             </p>
@@ -244,9 +244,9 @@ export default function LoanRecoveryCasesPage() {
                         </section>
 
                         <section id="sarfaesi-lender" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 uppercase tracking-tight">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 uppercase tracking-tight">
                                 SARFAESI Act: Non-Judicial Asset Recovery for Banks
-                            </h2>
+                            </h3>
                             <p className="text-lg text-gray-700 leading-relaxed mb-6">
                                 For banks and notified NBFCs, the SARFAESI Act of 2002 is the ultimate recovery weapon. It allows the lender to take physical possession and sell the secured asset (like property or machinery) WITHOUT going through the court.
                             </p>
@@ -256,22 +256,22 @@ export default function LoanRecoveryCasesPage() {
                         </section>
 
                         <section id="insolvency-ibc" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 uppercase tracking-tight">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 uppercase tracking-tight">
                                 IBC and Corporate Debt: The NCLT Power Play
-                            </h2>
+                            </h3>
                             <p className="text-lg text-gray-700 leading-relaxed mb-6">
                                 If the borrower is a company, the Insolvency and Bankruptcy Code (IBC) provides a path that can lead to the management losing control of their own firm.
                             </p>
                             <div className="bg-red-50 p-8 rounded-2xl border border-red-100 mb-10 shadow-sm">
-                                <h3 className="text-xl font-bold text-red-700 mb-3">Section 7 & 9 Applications</h3>
+                                <h4 className="text-xl font-bold text-red-700 mb-3">Section 7 & 9 Applications</h4>
                                 <p className="text-gray-700 text-sm leading-relaxed font-medium">Lending institutions (Financial Creditors) can file under Section 7 of the IBC if the default exceeds Rs. 1 Crore. The threat of an IRP (Interim Resolution Professional) taking over the company is usually enough to force a corporate group into a structured settlement. We specialize in preparing these NCLT dossiers.</p>
                             </div>
                         </section>
 
                         <section id="drt-procedures" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">
                                 DRT Litigation: Recovering High-Value Bank Dues
-                            </h2>
+                            </h3>
                             <p className="text-lg text-gray-700 leading-relaxed mb-6">
                                 The Debt Recovery Tribunals (DRT) were created specifically to handle the recovery of dues for banks and financial institutions above Rs. 20 Lakhs. While meant to be faster than civil courts, DRTs have become congested.
                             </p>
@@ -281,9 +281,9 @@ export default function LoanRecoveryCasesPage() {
                         </section>
 
                         <section id="asset-tracing" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 uppercase tracking-tight">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 uppercase tracking-tight">
                                 Asset Tracing and Forensic Recovery
-                            </h2>
+                            </h3>
                             <p className="text-lg text-gray-700 leading-relaxed mb-6">
                                 Borrowers often hide their wealth by transferring assets to relatives or shell companies. Recovery is as much an investigation as it is a legal process.
                             </p>
@@ -291,14 +291,14 @@ export default function LoanRecoveryCasesPage() {
                                 <li className="p-6 bg-gray-50 border border-gray-200 rounded-2xl flex items-start gap-4">
                                     <FontAwesomeIcon icon={faPassport} className="text-[#1F5EFF] mt-1" />
                                     <div>
-                                        <h3 className="font-bold text-sm">Identifying Shell Holdings</h3>
+                                        <h4 className="font-bold text-sm">Identifying Shell Holdings</h4>
                                         <p className="text-xs text-gray-500">We use ROC searches and property registration databases to find assets hidden under 'Benami' names.</p>
                                     </div>
                                 </li>
                                 <li className="p-6 bg-gray-50 border border-gray-200 rounded-2xl flex items-start gap-4">
                                     <FontAwesomeIcon icon={faBuildingColumns} className="text-[#1F5EFF] mt-1" />
                                     <div>
-                                        <h4 className="font-bold text-sm">Garnishee Orders</h4>
+                                        <h5 className="font-bold text-sm">Garnishee Orders</h5>
                                         <p className="text-xs text-gray-500">We obtain court orders directing the borrower's bank or clients to pay the money directly to the lender.</p>
                                     </div>
                                 </li>
@@ -306,9 +306,9 @@ export default function LoanRecoveryCasesPage() {
                         </section>
 
                         <section id="execution-decree" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">
                                 Enforcing Judgments: Turning a Paper Win into Real Cash
-                            </h2>
+                            </h3>
                             <p className="text-lg text-gray-700 leading-relaxed mb-6">
                                 Winning a case is only half the battle. Many lenders are left with a 'Paper Decree' that they cannot enforce. Execution of a decree under Order 21 of the CPC is a specialized skill.
                             </p>
@@ -318,35 +318,35 @@ export default function LoanRecoveryCasesPage() {
                         </section>
 
                         <section id="why-heavy-hitting" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 uppercase tracking-tight">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 uppercase tracking-tight">
                                 Why You Need a Heavy-Hitting Recovery Lawyer
-                            </h2>
+                            </h3>
                             <p className="text-lg text-gray-700 leading-relaxed mb-6">
                                 Debt recovery agencies often rely on 'Harassment', which is illegal and can lead to counter-suits against the lender. A lawyer relies on 'Legal Force', which is absolute and protected by the law.
                             </p>
                             <div className="grid grid-cols-1 md:grid-cols-3 gap-6 mb-10">
                                 <div className="p-6 bg-gray-50 rounded-2xl border border-gray-200 text-center">
                                     <FontAwesomeIcon icon={faShieldAlt} size="2x" className="text-[#1F5EFF] mb-4" />
-                                    <h3 className="font-bold mb-2">Legal Shield</h3>
+                                    <h4 className="font-bold mb-2">Legal Shield</h4>
                                     <p className="text-xs text-gray-500">Protect the lender from 'Deficiency in Service' or harassment claims by the borrower.</p>
                                 </div>
                                 <div className="p-6 bg-gray-50 rounded-2xl border border-gray-200 text-center">
                                     <FontAwesomeIcon icon={faHammer} size="2x" className="text-[#1F5EFF] mb-4" />
-                                    <h4 className="font-bold mb-2">Execution Force</h4>
+                                    <h5 className="font-bold mb-2">Execution Force</h5>
                                     <p className="text-xs text-gray-500">Coordinate with local police and bailiffs for the physical takeover of properties.</p>
                                 </div>
                                 <div className="p-6 bg-gray-50 rounded-2xl border border-gray-200 text-center">
                                     <FontAwesomeIcon icon={faBalanceScale} size="2x" className="text-[#1F5EFF] mb-4" />
-                                    <h4 className="font-bold mb-2">Negotiation Edge</h4>
+                                    <h5 className="font-bold mb-2">Negotiation Edge</h5>
                                     <p className="text-xs text-gray-500">Use forensic legal audits to prove there is no valid defense, forcing an early settlement.</p>
                                 </div>
                             </div>
                         </section>
 
                         <section id="success-stories" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 uppercase tracking-tight text-center">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 uppercase tracking-tight text-center">
                                 Victory Reports: Notable Loan Recovery Successes
-                            </h2>
+                            </h3>
                             <div className="grid grid-cols-1 md:grid-cols-2 gap-6 not-prose">
                                 {[
                                     {
@@ -384,7 +384,7 @@ export default function LoanRecoveryCasesPage() {
                                                 {review.name.charAt(0)}
                                             </div>
                                             <div>
-                                                <h3 className="font-bold text-[#2E2E2E]">{review.name}</h3>
+                                                <h4 className="font-bold text-[#2E2E2E]">{review.name}</h4>
                                                 <p className="text-xs text-gray-400">{review.loc}</p>
                                             </div>
                                             <div className="ml-auto text-yellow-500 text-sm">★★★★★</div>
@@ -399,9 +399,9 @@ export default function LoanRecoveryCasesPage() {
                         </section>
 
                         <section id="recovery-faq" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">
                                 Frequently Asked Questions: Recovery Intelligence
-                            </h2>
+                            </h3>
                             <div className="space-y-4 not-prose">
                                 {[
                                     { q: "How long does a Summary Suit (Order 37) take?", a: "If the borrower doesn't appear or is denied leave to defend, a decree can be obtained in as little as 4 to 8 months, compared to 5 to 7 years for an ordinary suit." },
@@ -431,9 +431,9 @@ export default function LoanRecoveryCasesPage() {
                         </section>
 
                         <section id="conclusion" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 uppercase tracking-tight">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 uppercase tracking-tight">
                                 Conclusion: Take Command of Your Recovery
-                            </h2>
+                            </h3>
                             <p className="text-lg text-gray-700 leading-relaxed mb-6 font-bold">
                                 Your capital is the lifeblood of your business or personal wealth. Allowing a default to linger is not just a financial loss; it is an invitation for more defaults.
                             </p>

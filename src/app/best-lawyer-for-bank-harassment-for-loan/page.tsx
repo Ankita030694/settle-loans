@@ -250,9 +250,9 @@ export default function BankHarassmentLawyerPage() {
                                 The Reserve Bank of India (RBI) has issued clear, non-negotiable guidelines that banks and NBFCs must follow. Furthermore, the Supreme Court of India has consistently held that 'musclemen' have no place in a civil society. When you are being harassed, you are not just a 'defaulter' in the eyes of the bank; you are a victim in the eyes of the law.
                             </p>
                             <div className="bg-[#1F5EFF]/5 p-8 rounded-2xl border-l-4 border-[#1F5EFF] my-10 shadow-sm">
-                                <h3 className="text-xl font-bold text-[#2E2E2E] mb-4 uppercase tracking-wider italic">
+                                <h4 className="text-xl font-bold text-[#2E2E2E] mb-4 uppercase tracking-wider italic">
                                     A Message of Hope:
-                                </h3>
+                                </h4>
                                 <p className="text-gray-700 leading-relaxed italic">
                                     "No bank, no matter how powerful, is above the law. The same legal system they use to recover money is the system we use to protect your dignity. A single well-drafted legal notice citing RBI Master Circulars is often enough to silence the loudest recovery agent."
                                 </p>
@@ -263,13 +263,13 @@ export default function BankHarassmentLawyerPage() {
                         </section>
 
                         <section id="defining-harassment" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 uppercase tracking-tight">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 uppercase tracking-tight">
                                 Defining the Boundaries: What Constitutes Bank Harassment?
-                            </h2>
+                            </h3>
                             <p className="text-lg text-gray-700 leading-relaxed mb-6">
                                 Harassment is not just 'asking for money'. Banks have a right to recover their dues, but they do not have a right to destroy your life. Harassment is defined by the *methods* used, not the *intent* of the recovery.
                             </p>
-                            <h3 className="text-2xl font-bold text-[#2E2E2E] mb-4">Common Illegal Tactics:</h3>
+                            <h4 className="text-2xl font-bold text-[#2E2E2E] mb-4">Common Illegal Tactics:</h4>
                             <ul className="list-disc ml-8 mb-10 space-y-4 text-gray-700">
                                 <li><strong>Persistent Calling:</strong> Calling 20, 30, or 50 times a day is considered 'harassment by frequency'. Even if the language is polite, the frequency is illegal.</li>
                                 <li><strong>Invasion of Privacy:</strong> Contacting your neighbors, your boss, or your relatives to tell them about your loan. This is a direct violation of the 'Duty of Confidentiality'.</li>
@@ -278,38 +278,38 @@ export default function BankHarassmentLawyerPage() {
                                 <li><strong>Abusive Language:</strong> The use of vulgar, derogatory, or insulting language by agents is a criminal offense under Section 509 of the IPC.</li>
                             </ul>
                             <div className="bg-red-50 p-8 rounded-3xl border border-red-100 my-10">
-                                <h4 className="text-xl font-bold text-red-900 mb-4">The 'Muscleman' Fallacy:</h4>
+                                <h5 className="text-xl font-bold text-red-900 mb-4">The 'Muscleman' Fallacy:</h5>
                                 <p className="text-red-800 leading-relaxed">Many NBFCs and digital loan apps hire third-party 'recovery agencies' who believe they are 'private police'. They have NO legal authority to enter your house, touch your belongings, or threaten you. If they do so, it is criminal trespass and extortion.</p>
                             </div>
                         </section>
 
                         <section id="rbi-fair-practices" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 uppercase tracking-tight">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 uppercase tracking-tight">
                                 The RBI Fair Practices Code: The Borrower's Bill of Rights
-                            </h2>
+                            </h3>
                             <p className="text-lg text-gray-700 leading-relaxed mb-6">
                                 The Reserve Bank of India (RBI) is the supreme regulatory authority. Their 'Master Circular on Fair Practices Code' is the absolute law for every bank and NBFC in India. If a bank violates these codes, they risk losing their license or facing multi-crore penalties.
                             </p>
-                            <h3 className="text-2xl font-bold text-[#2E2E2E] mb-4">Key Regulatory Protections:</h3>
+                            <h4 className="text-2xl font-bold text-[#2E2E2E] mb-4">Key Regulatory Protections:</h4>
                             <div className="grid grid-cols-1 md:grid-cols-2 gap-8 mb-10">
                                 <div className="p-8 bg-gray-50 rounded-2xl border border-gray-100 shadow-sm relative group overflow-hidden">
                                     <div className="absolute top-0 right-0 w-16 h-16 bg-[#1F5EFF]/5 rounded-bl-full group-hover:scale-110 transition-transform"></div>
-                                    <h4 className="font-bold text-lg mb-3 text-[#1F5EFF]">Allowed Hours</h4>
+                                    <h5 className="font-bold text-lg mb-3 text-[#1F5EFF]">Allowed Hours</h5>
                                     <p className="text-sm text-gray-600">Agents can only contact you between 8:00 AM and 7:00 PM. Calls at midnight or 6 AM are illegal and must be documented.</p>
                                 </div>
                                 <div className="p-8 bg-gray-50 rounded-2xl border border-gray-100 shadow-sm relative group overflow-hidden">
                                     <div className="absolute top-0 right-0 w-16 h-16 bg-[#1F5EFF]/5 rounded-bl-full group-hover:scale-110 transition-transform"></div>
-                                    <h4 className="font-bold text-lg mb-3 text-[#1F5EFF]">Identification</h4>
+                                    <h5 className="font-bold text-lg mb-3 text-[#1F5EFF]">Identification</h5>
                                     <p className="text-sm text-gray-600">Every agent must carry a valid ID card issued by the bank and an authorization letter for your specific loan. No ID, No Talk.</p>
                                 </div>
                                 <div className="p-8 bg-gray-50 rounded-2xl border border-gray-100 shadow-sm relative group overflow-hidden">
                                     <div className="absolute top-0 right-0 w-16 h-16 bg-[#1F5EFF]/5 rounded-bl-full group-hover:scale-110 transition-transform"></div>
-                                    <h4 className="font-bold text-lg mb-3 text-[#1F5EFF]">Privacy Guard</h4>
+                                    <h5 className="font-bold text-lg mb-3 text-[#1F5EFF]">Privacy Guard</h5>
                                     <p className="text-sm text-gray-600">Banks cannot share debtor data with third parties for harassment. This includes 'contact scraping' by digital loan apps.</p>
                                 </div>
                                 <div className="p-8 bg-gray-50 rounded-2xl border border-gray-100 shadow-sm relative group overflow-hidden">
                                     <div className="absolute top-0 right-0 w-16 h-16 bg-[#1F5EFF]/5 rounded-bl-full group-hover:scale-110 transition-transform"></div>
-                                    <h4 className="font-bold text-lg mb-3 text-[#1F5EFF]">Training & Certification</h4>
+                                    <h5 className="font-bold text-lg mb-3 text-[#1F5EFF]">Training & Certification</h5>
                                     <p className="text-sm text-gray-600">Recovery agents must undergo a mandatory training program by IIBF. Untrained agents are a sign of bank negligence.</p>
                                 </div>
                             </div>
@@ -319,9 +319,9 @@ export default function BankHarassmentLawyerPage() {
                         </section>
 
                         <section id="ombudsman-scheme" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 uppercase tracking-tight">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 uppercase tracking-tight">
                                 The Banking Ombudsman: Your Direct Hotline to Justice
-                            </h2>
+                            </h3>
                             <p className="text-lg text-gray-700 leading-relaxed mb-6">
                                 If the bank's internal grievance redressal team fails to act within 30 days, the law allows you to move the 'RBI Integrated Ombudsman Scheme'. This is a free, fast, and powerful mediation service.
                             </p>
@@ -336,42 +336,42 @@ export default function BankHarassmentLawyerPage() {
                             </ul>
                             <div className="bg-[#2E2E2E] p-8 rounded-[2rem] text-white my-12 shadow-2xl relative overflow-hidden">
                                 <div className="absolute -bottom-12 -right-12 w-48 h-48 bg-[#1F5EFF]/10 rounded-full"></div>
-                                <h3 className="text-2xl font-bold mb-4 relative z-10">Pro Tip: The CMS Portal</h3>
+                                <h4 className="text-2xl font-bold mb-4 relative z-10">Pro Tip: The CMS Portal</h4>
                                 <p className="opacity-90 leading-relaxed relative z-10">The RBI's 'Complaint Management System' (CMS) is a digital platform where we file your complaints. Every complaint filed here is tracked by the RBI, and the bank must respond on the portal. This 'paper trail' is your greatest asset in stopping harassment.</p>
                             </div>
                         </section>
 
                         <section id="ipc-protections" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">
                                 IPC & Criminal Remedies: Putting the Bullies Behind Bars
-                            </h2>
+                            </h3>
                             <p className="text-lg text-gray-700 leading-relaxed mb-6">
                                 While debt is civil, the *behavior* of agents can be criminal. If an agent crosses the line, they are no longer an 'employee'; they are an 'accused'. We help our clients file FIRs using the following sections of the Indian Penal Code:
                             </p>
                             <div className="space-y-6">
                                 <div className="p-6 bg-gray-50 rounded-xl border-l-4 border-red-500">
-                                    <h3 className="font-bold text-lg mb-2">Section 503 & 506: Criminal Intimidation</h3>
+                                    <h4 className="font-bold text-lg mb-2">Section 503 & 506: Criminal Intimidation</h4>
                                     <p className="text-gray-700 text-sm">Threatening to cause injury to the person, reputation, or property to alarm them. Punishment: Up to 2 years in jail.</p>
                                 </div>
                                 <div className="p-6 bg-gray-50 rounded-xl border-l-4 border-red-500">
-                                    <h4 className="font-bold text-lg mb-2">Section 383 & 384: Extortion</h4>
+                                    <h5 className="font-bold text-lg mb-2">Section 383 & 384: Extortion</h5>
                                     <p className="text-gray-700 text-sm">Putting a person in fear of injury to extract money. This applies when agents demand 'extra cash' or 'bribes' to stop the calls.</p>
                                 </div>
                                 <div className="p-6 bg-gray-50 rounded-xl border-l-4 border-red-500">
-                                    <h4 className="font-bold text-lg mb-2">Section 441: Criminal Trespass</h4>
+                                    <h5 className="font-bold text-lg mb-2">Section 441: Criminal Trespass</h5>
                                     <p className="text-gray-700 text-sm">Entering your home or property without permission. An agent has NO right to cross your threshold unless invited.</p>
                                 </div>
                                 <div className="p-6 bg-gray-50 rounded-xl border-l-4 border-red-500">
-                                    <h4 className="font-bold text-lg mb-2">Section 509: Insulting Modesty of a Woman</h4>
+                                    <h5 className="font-bold text-lg mb-2">Section 509: Insulting Modesty of a Woman</h5>
                                     <p className="text-gray-700 text-sm">Using vulgar language or gestures towards female borrowers or family members. This is a non-bailable offense in many jurisdictions.</p>
                                 </div>
                             </div>
                         </section>
 
                         <section id="prakash-kaur-judgment" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 uppercase tracking-tight">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 uppercase tracking-tight">
                                 ICICI Bank vs. Prakash Kaur: The Supreme Court's Final Word
-                            </h2>
+                            </h3>
                             <p className="text-lg text-gray-700 leading-relaxed mb-6">
                                 In 2007, the Supreme Court of India delivered a landmark judgment that changed the face of debt recovery forever. In the case of *ICICI Bank Ltd. vs. Prakash Kaur*, the court observed that banks cannot be allowed to use 'musclemen' or 'hooligans' to recover loans.
                             </p>
@@ -388,9 +388,9 @@ export default function BankHarassmentLawyerPage() {
                         </section>
 
                         <section id="documentation-strategy" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">
                                 Build Your Case: The Documentation Strategy
-                            </h2>
+                            </h3>
                             <p className="text-lg text-gray-700 leading-relaxed mb-6">
                                 In court, your word is good, but evidence is better. To stop harassment, you must move from being 'defensive' to 'documentative'. Follow this strategy:
                             </p>
@@ -401,15 +401,15 @@ export default function BankHarassmentLawyerPage() {
                                 <li><strong>The Formal Objection:</strong> Send an email to the bank's Nodal Officer daily, reporting the instances of harassment. This establishes that you tried to resolve the matter internally before moving the court.</li>
                             </ul>
                             <div className="bg-blue-50 p-8 rounded-2xl border border-blue-100 my-10 shadow-sm">
-                                <h3 className="font-bold text-[#1F5EFF] mb-2 uppercase text-xs tracking-widest">Expert Advice:</h3>
+                                <h4 className="font-bold text-[#1F5EFF] mb-2 uppercase text-xs tracking-widest">Expert Advice:</h4>
                                 <p className="text-[#2E2E2E] text-sm font-medium">Do not get angry or abusive with agents on the phone. They want you to lose your temper so they can record *you*. Stay calm, state that you are recording the call, and tell them your lawyer will contact them. This reversal of energy often unnerves them.</p>
                             </div>
                         </section>
 
                         <section id="consumer-protection" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 uppercase tracking-tight">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 uppercase tracking-tight">
                                 Consumer Court Remedies: Suing for Damanges
-                            </h2>
+                            </h3>
                             <p className="text-lg text-gray-700 leading-relaxed mb-6">
                                 Under the Consumer Protection Act 2019, banking is a 'service', and harassment is a 'deficiency in service' and an 'unfair trade practice'.
                             </p>
@@ -420,14 +420,14 @@ export default function BankHarassmentLawyerPage() {
                                 <div className="p-6 bg-white border border-[#DEDEDE] rounded-2xl flex gap-4 items-start translate-y-0 hover:-translate-y-2 transition-transform duration-300">
                                     <div className="w-12 h-12 bg-green-50 rounded-full flex items-center justify-center shrink-0 font-bold text-green-600">₹</div>
                                     <div>
-                                        <h3 className="font-bold text-[#2E2E2E] mb-1">Mental Agony</h3>
+                                        <h4 className="font-bold text-[#2E2E2E] mb-1">Mental Agony</h4>
                                         <p className="text-xs text-gray-500 italic">Compensation for the stress and trauma caused to you and your family.</p>
                                     </div>
                                 </div>
                                 <div className="p-6 bg-white border border-[#DEDEDE] rounded-2xl flex gap-4 items-start translate-y-0 hover:-translate-y-2 transition-transform duration-300">
                                     <div className="w-12 h-12 bg-blue-50 rounded-full flex items-center justify-center shrink-0 font-bold text-blue-600">⚖</div>
                                     <div>
-                                        <h4 className="font-bold text-[#2E2E2E] mb-1">Reputational Loss</h4>
+                                        <h5 className="font-bold text-[#2E2E2E] mb-1">Reputational Loss</h5>
                                         <p className="text-xs text-gray-500 italic">If they contacted your office or neighbors, you can claim for defamation.</p>
                                     </div>
                                 </div>
@@ -438,13 +438,13 @@ export default function BankHarassmentLawyerPage() {
                         </section>
 
                         <section id="legal-shielding" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">
                                 Legal Shielding: The Power of Appointing a Lawyer
-                            </h2>
+                            </h3>
                             <p className="text-lg text-gray-700 leading-relaxed mb-6">
                                 The most effective way to stop harassment is to place a 'Legal Shield' between you and the lender. When you hire SettleLoans, the first thing we do is authorize ourselves to speak on your behalf.
                             </p>
-                            <h3 className="text-2xl font-bold text-[#2E2E2E] mb-4">The 'Consult My Lawyer' Strategy</h3>
+                            <h4 className="text-2xl font-bold text-[#2E2E2E] mb-4">The 'Consult My Lawyer' Strategy</h4>
                             <p className="text-lg text-gray-700 leading-relaxed mb-6">
                                 Once you have a lawyer, you can simply tell any recovery agent: "I am represented by counsel. Please contact them for all recovery-related matters. Any further direct contact from you will be treated as harassment and reported to the court."
                             </p>
@@ -460,9 +460,9 @@ export default function BankHarassmentLawyerPage() {
                         </section>
 
                         <section id="success-stories" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 uppercase tracking-tight text-center">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 uppercase tracking-tight text-center">
                                 Real Impact: Success Stories in Harassment Defence
-                            </h2>
+                            </h3>
                             <p className="text-lg text-gray-700 leading-relaxed mb-8 text-center">
                                 These are real people who reclaimed their lives after facing extreme bank harassment.
                             </p>
@@ -503,7 +503,7 @@ export default function BankHarassmentLawyerPage() {
                                                 {review.name.charAt(0)}
                                             </div>
                                             <div>
-                                                <h3 className="font-bold text-[#2E2E2E]">{review.name}</h3>
+                                                <h4 className="font-bold text-[#2E2E2E]">{review.name}</h4>
                                                 <p className="text-xs text-gray-400">{review.loc}</p>
                                             </div>
                                             <div className="ml-auto text-yellow-400 text-sm">★★★★★</div>
@@ -518,48 +518,48 @@ export default function BankHarassmentLawyerPage() {
                         </section>
 
                         <section id="harassment-faq" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">
                                 Frequently Asked Questions: Bank Harassment Lawyer
-                            </h2>
+                            </h3>
                             <div className="space-y-8">
                                 <div className="border-b border-gray-100 pb-6">
-                                    <h3 className="text-xl font-bold text-[#2E2E2E] mb-3">1. Can a recovery agent call my friends or relatives?</h3>
+                                    <h4 className="text-xl font-bold text-[#2E2E2E] mb-3">1. Can a recovery agent call my friends or relatives?</h4>
                                     <p className="text-gray-700 leading-relaxed text-lg font-medium">No. Under RBI's 'Fair Practices Code' and the 'Right to Privacy', banks and their agents are strictly prohibited from disclosing your debt status to third parties, including neighbors, relatives, or office colleagues. This is a violation of the Duty of Confidentiality.</p>
                                 </div>
                                 <div className="border-b border-gray-100 pb-6">
-                                    <h4 className="text-xl font-bold text-[#2E2E2E] mb-3">2. What are the allowed calling hours for recovery agents?</h4>
+                                    <h5 className="text-xl font-bold text-[#2E2E2E] mb-3">2. What are the allowed calling hours for recovery agents?</h5>
                                     <p className="text-gray-700 leading-relaxed text-lg font-medium">According to RBI guidelines, recovery agents can only contact borrowers between 8:00 AM and 7:00 PM. Any call made before 8 AM or after 7 PM is a direct violation and can be reported to the Nodal Officer.</p>
                                 </div>
                                 <div className="border-b border-gray-100 pb-6">
-                                    <h4 className="text-xl font-bold text-[#2E2E2E] mb-3">3. Can I file an FIR against a recovery agent for threats?</h4>
+                                    <h5 className="text-xl font-bold text-[#2E2E2E] mb-3">3. Can I file an FIR against a recovery agent for threats?</h5>
                                     <p className="text-gray-700 leading-relaxed text-lg font-medium">Yes. If a recovery agent uses abusive language, physical threats, or enters your property without permission, you can file an FIR under Sections 503 and 506 (Criminal Intimidation) and Section 441 (Criminal Trespass) of the IPC.</p>
                                 </div>
                                 <div className="border-b border-gray-100 pb-6">
-                                    <h4 className="text-xl font-bold text-[#2E2E2E] mb-3">4. Does the Supreme Court protect borrowers from musclemen?</h4>
+                                    <h5 className="text-xl font-bold text-[#2E2E2E] mb-3">4. Does the Supreme Court protect borrowers from musclemen?</h5>
                                     <p className="text-gray-700 leading-relaxed text-lg font-medium">Absolutely. In the landmark judgment of ICICI Bank vs. Prakash Kaur (2007), the Supreme Court condemned the use of 'musclemen' for recovery and stated that banks must follow the 'procedure established by law' for debt recovery.</p>
                                 </div>
                                 <div className="border-b border-gray-100 pb-6">
-                                    <h4 className="text-xl font-bold text-[#2E2E2E] mb-3">5. How do I stop constant calls from the bank?</h4>
+                                    <h5 className="text-xl font-bold text-[#2E2E2E] mb-3">5. How do I stop constant calls from the bank?</h5>
                                     <p className="text-gray-700 leading-relaxed text-lg font-medium">The most effective way is to appoint a legal representative. Once you inform the bank that you have a lawyer, all communication must go through them. If they continue to harrass you, it constitutes a breach of the Fair Practice Code.</p>
                                 </div>
                                 <div className="border-b border-gray-100 pb-6">
-                                    <h4 className="text-xl font-bold text-[#2E2E2E] mb-3">6. Can I get compensation for mental agony caused by harassment?</h4>
+                                    <h5 className="text-xl font-bold text-[#2E2E2E] mb-3">6. Can I get compensation for mental agony caused by harassment?</h5>
                                     <p className="text-gray-700 leading-relaxed text-lg font-medium">Yes. You can file a complaint with the Banking Ombudsman or the Consumer Forum. The Ombudsman can award compensation up to ₹1 Lakh for mental agony, and Consumer Courts can award even higher amounts depending on the severity.</p>
                                 </div>
                                 <div className="border-b border-gray-100 pb-6">
-                                    <h4 className="text-xl font-bold text-[#2E2E2E] mb-3">7. Is it illegal for an agent to visit my workplace?</h4>
+                                    <h5 className="text-xl font-bold text-[#2E2E2E] mb-3">7. Is it illegal for an agent to visit my workplace?</h5>
                                     <p className="text-gray-700 leading-relaxed text-lg font-medium">While agents can visit for recovery, they cannot cause a scene, use muscle power, or shaming tactics at your workplace. Doing so violates privacy laws and can be used as grounds for an injunction suit.</p>
                                 </div>
                                 <div className="border-b border-gray-100 pb-6">
-                                    <h4 className="text-xl font-bold text-[#2E2E2E] mb-3">8. What is the role of the Banking Ombudsman in harassment cases?</h4>
+                                    <h5 className="text-xl font-bold text-[#2E2E2E] mb-3">8. What is the role of the Banking Ombudsman in harassment cases?</h5>
                                     <p className="text-gray-700 leading-relaxed text-lg font-medium">The Banking Ombudsman is a quasi-judicial authority that provides a free and speedy way to resolve complaints. They can penalize banks for violating RBI guidelines and order them to stop harassing activities immediately.</p>
                                 </div>
                                 <div className="border-b border-gray-100 pb-6">
-                                    <h4 className="text-xl font-bold text-[#2E2E2E] mb-3">9. Should I record the calls from recovery agents?</h4>
+                                    <h5 className="text-xl font-bold text-[#2E2E2E] mb-3">9. Should I record the calls from recovery agents?</h5>
                                     <p className="text-gray-700 leading-relaxed text-lg font-medium">Yes, documenting evidence is crucial. Record all calls, save SMS/WhatsApp messages, and keep a log of call timings. This evidence is vital for filing complaints with the RBI or the police.</p>
                                 </div>
                                 <div className="border-b border-gray-100 pb-6">
-                                    <h4 className="text-xl font-bold text-[#2E2E2E] mb-3">10. Can a bank agent legally seize my vehicle or property?</h4>
+                                    <h5 className="text-xl font-bold text-[#2E2E2E] mb-3">10. Can a bank agent legally seize my vehicle or property?</h5>
                                     <p className="text-gray-700 leading-relaxed text-lg font-medium">For secured loans, banks follow the SARFAESI Act, which requires specific notices (13(2) and 13(4)). For unsecured loans, they cannot seize property without a court decree. Forcible seizure without due process is a criminal offense.</p>
                                 </div>
                             </div>
@@ -613,7 +613,7 @@ export default function BankHarassmentLawyerPage() {
                 {/* Final CTA Section */}
                 <section className="w-full bg-[#F8F9FA] py-24 px-4">
                     <div className="max-w-4xl mx-auto text-center">
-                        <h2 className="text-3xl md:text-5xl font-black text-[#2E2E2E] mb-6">Don't Suffer in Silence</h2>
+                        <h3 className="text-3xl md:text-5xl font-black text-[#2E2E2E] mb-6">Don't Suffer in Silence</h3>
                         <p className="text-xl text-gray-600 mb-10">We have helped thousands of borrowers reclaim their dignity and peace of mind. Let us be your voice against bank harassment.</p>
                         <Link href="/contact" className="inline-flex items-center justify-center bg-[#1F5EFF] text-white font-bold py-5 px-12 rounded-2xl hover:scale-105 transition-all duration-300 text-xl shadow-2xl">
                             Request a Free Case Evaluation

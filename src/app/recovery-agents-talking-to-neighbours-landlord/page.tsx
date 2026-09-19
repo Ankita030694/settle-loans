@@ -531,7 +531,7 @@ export default function RecoveryAgentsTalkingToNeighboursLandlordPage() {
 
             {/* Section 2: Supreme Court Privacy Jurisprudence & RBI Directives */}
             <section id="supreme-court-privacy-rbi-mandates" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">2. Privacy &amp; Anti-Defamation Protections</h2>
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">2. Privacy &amp; Anti-Defamation Protections</h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">Indian law and Reserve Bank of India rules protect debtors. bank lenders cannot use public shaming, third-party calls. or home threats. A clear legal shield protects you from abusive tactics.</p>
 
               <div className="p-4 rounded-2xl bg-blue-50 border border-blue-200 text-xs sm:text-sm text-blue-900 space-y-2 my-4">
@@ -571,37 +571,37 @@ export default function RecoveryAgentsTalkingToNeighboursLandlordPage() {
 
             {/* Section 3: Criminal Defamation, Criminal Trespass & Society Injunctions */}
             <section id="criminal-defamation-trespass-laws" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">3. Criminal Defamation, Society Trespass</h2>
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">3. Criminal Defamation, Society Trespass</h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">Sharing loan defaults with neighbours, security guards. or landlords is a crime. It is also a civil wrong. Spreading private money data to shame someone is criminal slander and threats under Indian law.</p>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">Debtors facing home abuse can use strong legal protections under the Bharatiya Nyaya Sanhita (BNS), 2023. And the Indian Penal Code (IPC).</p>
 
               <div className="space-y-3 my-4">
                 <div className="p-4 rounded-xl border-l-4 border-red-500 bg-slate-50 space-y-1">
-                  <h3 className="font-bold text-slate-900 text-xs sm:text-sm flex items-center gap-1.5">
+                  <h4 className="font-bold text-slate-900 text-xs sm:text-sm flex items-center gap-1.5">
                     <AlertCircle className="w-4 h-4 text-red-600" />
                     <span>Criminal Defamation (Section 356 BNS 2023 / Section 499 &amp; 500 IPC)</span>
-                  </h3>
+                  </h4>
                   <p className="text-xs text-slate-600 leading-relaxed">Publishing statements to hurt someone&apos;s reputation is criminal slander. Telling neighbours or landlords about debt to harm social standing brings up to two years in jail, a fine. or both.</p>
                 </div>
                 <div className="p-4 rounded-xl border-l-4 border-amber-500 bg-slate-50 space-y-1">
-                  <h4 className="font-bold text-slate-900 text-xs sm:text-sm flex items-center gap-1.5">
+                  <h5 className="font-bold text-slate-900 text-xs sm:text-sm flex items-center gap-1.5">
                     <ShieldAlert className="w-4 h-4 text-amber-600" />
                     <span>Criminal Trespass (Section 329 BNS 2023 / Section 441 &amp; 447 IPC)</span>
-                  </h4>
+                  </h5>
                   <p className="text-xs text-slate-600 leading-relaxed">Entering apartment buildings without consent. or staying to insult residents, is criminal trespass punishable by jail.</p>
                 </div>
                 <div className="p-4 rounded-xl border-l-4 border-purple-500 bg-slate-50 space-y-1">
-                  <h4 className="font-bold text-slate-900 text-xs sm:text-sm flex items-center gap-1.5">
+                  <h5 className="font-bold text-slate-900 text-xs sm:text-sm flex items-center gap-1.5">
                     <Scale className="w-4 h-4 text-purple-600" />
                     <span>Criminal Intimidation &amp; Extortion (Section 351 &amp; 308 BNS / Sections 503, 506 &amp; 384 IPC)</span>
-                  </h4>
+                  </h5>
                   <p className="text-xs text-slate-600 leading-relaxed">Threatening a debtor with eviction or social shame to force payment is criminal threats and extortion under Indian law.</p>
                 </div>
                 <div className="p-4 rounded-xl border-l-4 border-blue-500 bg-slate-50 space-y-1">
-                  <h4 className="font-bold text-slate-900 text-xs sm:text-sm flex items-center gap-1.5">
+                  <h5 className="font-bold text-slate-900 text-xs sm:text-sm flex items-center gap-1.5">
                     <Building className="w-4 h-4 text-blue-600" />
                     <span>RWA Society Bye-Laws &amp; Civil Injunctions (Order 39 CPC)</span>
-                  </h4>
+                  </h5>
                   <p className="text-xs text-slate-600 leading-relaxed">Resident Welfare Associations can bar rogue recovery agents under society bye-laws. Advocates can also obtain civil court injunctions under Order 39 Rules 1 & 2 CPC to block visits.</p>
                 </div>
               </div>
@@ -611,7 +611,7 @@ export default function RecoveryAgentsTalkingToNeighboursLandlordPage() {
 
             {/* Section 4: Bank Balance Sheet Dynamics & The NPV Recovery Equation */}
             <section id="bank-accounting-npa-npv-formula" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">4. Bank Provisioning &amp; Social Shaming Risks</h2>
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">4. Bank Provisioning &amp; Social Shaming Risks</h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">To stop recovery abuse, debtors should understand bank incentives. Banks rarely send branch staff to homes. When a loan is 60 to 90 days overdue, banks hire Direct Recovery Agencies (DRAs). These agents work on commission.</p>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">Under RBI rules. When an account is past due for 90 days, it becomes a <strong>defaulted Asset (NPA)</strong>. The bank must lock up capital in reserve funds.</p>
 
@@ -673,7 +673,7 @@ export default function RecoveryAgentsTalkingToNeighboursLandlordPage() {
 
             {/* Section 5: Infographic Banner */}
             <section id="residential-harassment-defense-roadmap" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">5. Neighbour Harassment Defense Roadmap</h2>
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">5. Neighbour Harassment Defense Roadmap</h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">The roadmap below shows how banking defense advocates stop neighbour abuse, enforce privacy rights. And secure an official debt settlement.</p>
               
               <div className="relative w-full rounded-2xl overflow-hidden shadow-lg border border-slate-200 my-6 bg-slate-950 aspect-[16/9]">
@@ -706,24 +706,24 @@ export default function RecoveryAgentsTalkingToNeighboursLandlordPage() {
 
             {/* Section 6: Emergency 4-Stage Advocate Defense Protocol */}
             <section id="emergency-4-stage-advocate-protocol" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">6. The Emergency 4-Stage Advocate Protocol to Halt Harassment</h2>
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">6. The Emergency 4-Stage Advocate Protocol to Halt Harassment</h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">When an agent contacts your landlord or neighbours, arguing at the door will not help. Rogue collectors see panic as leverage. Banking defense advocates use a 4-stage legal plan to stop abuse.</p>
 
               <div className="space-y-3 my-4">
                 <div className="p-4 rounded-xl border-l-4 border-blue-600 bg-slate-50 space-y-1">
-                  <h3 className="font-bold text-slate-900 text-xs sm:text-sm">Stage 1: Evidence Preservation &amp; Landlord Legal Reassurance</h3>
+                  <h4 className="font-bold text-slate-900 text-xs sm:text-sm">Stage 1: Evidence Preservation &amp; Landlord Legal Reassurance</h4>
                   <p className="text-xs text-slate-600 leading-relaxed">Collect all evidence at once. Save CCTV clips, hallway audio, security logs. And phone chats. Give your landlord a legal letter explaining Privity of Contract to show the debt cannot touch the property.</p>
                 </div>
                 <div className="p-4 rounded-xl border-l-4 border-indigo-600 bg-slate-50 space-y-1">
-                  <h4 className="font-bold text-slate-900 text-xs sm:text-sm">Stage 2: Serving Advocate Legal Notice for Defamation &amp; Trespass</h4>
+                  <h5 className="font-bold text-slate-900 text-xs sm:text-sm">Stage 2: Serving Advocate Legal Notice for Defamation &amp; Trespass</h5>
                   <p className="text-xs text-slate-600 leading-relaxed">Your advocate serves a legal notice on the bank Nodal Officer and agency heads. The notice cites Section 356 BNS, Section 329 BNS, <em>Puttaswamy</em>. and RBI rules to halt visits within 48 hours.</p>
                 </div>
                 <div className="p-4 rounded-xl border-l-4 border-purple-600 bg-slate-50 space-y-1">
-                  <h4 className="font-bold text-slate-900 text-xs sm:text-sm">Stage 3: RWA Society Security Gate Ban &amp; RBI Ombudsman Filing</h4>
+                  <h5 className="font-bold text-slate-900 text-xs sm:text-sm">Stage 3: RWA Society Security Gate Ban &amp; RBI Ombudsman Filing</h5>
                   <p className="text-xs text-slate-600 leading-relaxed">Send a formal letter to your RWA requesting security guards to block agency staff. File an urgent complaint on the <strong>RBI CMS portal (cms.rbi.org.in)</strong> for fair practice violations.</p>
                 </div>
                 <div className="p-4 rounded-xl border-l-4 border-amber-600 bg-slate-50 space-y-1">
-                  <h4 className="font-bold text-slate-900 text-xs sm:text-sm">Stage 4: Strategic Transition to Structured Debt Settlement</h4>
+                  <h5 className="font-bold text-slate-900 text-xs sm:text-sm">Stage 4: Strategic Transition to Structured Debt Settlement</h5>
                   <p className="text-xs text-slate-600 leading-relaxed">With abuse stopped and the bank under scrutiny, advocates step in. We transfer the account for a discounted One-Time Settlement.</p>
                 </div>
               </div>
@@ -733,7 +733,7 @@ export default function RecoveryAgentsTalkingToNeighboursLandlordPage() {
 
             {/* Section 7: Negotiating Debt Resolution & OTS */}
             <section id="forcing-compromise-settlement-ots" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">7. Converting Residential Harassment into an Affordable OTS</h2>
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">7. Converting Residential Harassment into an Affordable OTS</h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">Home abuse shows that the bank faces pressure from rising NPA reserves. They use social shaming because they lack legal options to seize your assets. Documenting these violations turns an unfair situation into strong leverage for an official <strong>One-Time Settlement (OTS)</strong>.</p>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">Instead of paying heavy fines, our legal advocates settle fair settlement terms directly with bank committees.</p>
 
@@ -771,7 +771,7 @@ export default function RecoveryAgentsTalkingToNeighboursLandlordPage() {
 
             {/* Section 8: Sanction Letter Forensics & RBI NDC Mandate */}
             <section id="sanction-forensics-rbi-ndc-mandate" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">8. Sanction Letter Forensics &amp; NDC for Harassed Borrowers</h2>
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">8. Sanction Letter Forensics &amp; NDC for Harassed Borrowers</h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">Debtors facing harsh collection agencies must stay alert during settlement. Collectors sometimes share fake letters on WhatsApp or ask for cash. Never transfer money until an advocate reviews and confirms the sanction letter.</p>
               
               <div className="p-4 rounded-2xl bg-amber-50 border border-amber-200 text-xs sm:text-sm text-amber-900 space-y-2 my-4">
@@ -795,15 +795,15 @@ export default function RecoveryAgentsTalkingToNeighboursLandlordPage() {
                 <p className="leading-relaxed text-emerald-900">Under <strong>RBI Circular RBI/2023-24/60</strong>, all banks and NBFCs must deliver an official <strong>No Dues Certificate (NDC)</strong> within <strong>30 calendar days</strong>. They must also update credit bureaus to zero. Unjustified delays incur a penalty of <strong>₹5,000 per day</strong> paid to the debtor.</p>
               </div>
 
-              <h3 className="text-base sm:text-lg font-bold text-slate-900 pt-2">
+              <h4 className="text-base sm:text-lg font-bold text-slate-900 pt-2">
                 CIBIL Bureau Reporting Trajectory &amp; Credit Score Rehabilitation
-              </h3>
+              </h4>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">After settlement, the bank marks your credit bureau record as <strong>&quot;Settled&quot;</strong> with a balance of <strong>₹0</strong>. While this causes a temporary score dip, it stops default fines and ends abuse. Use a secured credit card. Keep card usage under 30%. This rebuilds credit scores above 750 within 18 to 24 months.</p>
             </section>
 
             {/* Section 9: Comparative Legal Defense Matrix */}
             <section id="comparative-legal-defense-matrix" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">9. Neighbour Defamation Legal Defense Matrix</h2>
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">9. Neighbour Defamation Legal Defense Matrix</h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">Review available legal options to protect your dignity, tenancy. And money future:</p>
 
               <div className="overflow-x-auto my-4">
@@ -854,7 +854,7 @@ export default function RecoveryAgentsTalkingToNeighboursLandlordPage() {
             {/* Section 10: SettleLoans Legal Defense & Advisory + CompanySection */}
             <section id="company-resolution-section" className="space-y-6">
               <div className="border-t border-slate-200 pt-8 space-y-4">
-                <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">10. SettleLoans Legal Defense for Privacy Violations</h2>
+                <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">10. SettleLoans Legal Defense for Privacy Violations</h3>
                 <p className="text-sm sm:text-base text-slate-700 leading-relaxed">Stopping illegal home collection requires expert banking advocates. We enforce RBI Master Directions and Supreme Court privacy rulings. SettleLoans provides complete legal defense. We send emergency notices to bank leadership. We file RBI Ombudsman complaints. We reassure landlords and settle 45% to 65% settlement waivers with official No Dues Certificates.</p>
               </div>
 
@@ -866,7 +866,7 @@ export default function RecoveryAgentsTalkingToNeighboursLandlordPage() {
             <section id="faqs" className="space-y-4 border-t border-slate-200 pt-8">
               <div className="flex items-center gap-2 mb-2">
                 <HelpCircle className="w-5 h-5 text-[#1F5EFF]" />
-                <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">11. FAQs: Recovery Agents Harassing Neighbours &amp; Landlords</h2>
+                <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">11. FAQs: Recovery Agents Harassing Neighbours &amp; Landlords</h3>
               </div>
               <p className="text-xs sm:text-sm text-slate-600 mb-6">Verified legal answers on home debt collection, neighbour disclosures. And loan settlements in India.</p>
 
@@ -894,9 +894,9 @@ export default function RecoveryAgentsTalkingToNeighboursLandlordPage() {
 
             {/* 5 Official Regulatory Links */}
             <section className="border-t border-slate-200 pt-8 mb-4">
-              <h3 className="text-xs sm:text-sm font-bold text-slate-900 mb-3 uppercase tracking-wider">
+              <h4 className="text-xs sm:text-sm font-bold text-slate-900 mb-3 uppercase tracking-wider">
                 Official Statutory &amp; Regulatory References
-              </h3>
+              </h4>
               <div className="grid grid-cols-1 sm:grid-cols-2 gap-2.5 text-xs">
                 <a
                   href="https://www.indiacode.gov.in/bitstream/123456789/2187/1/A1872-09.pdf"
@@ -948,9 +948,9 @@ export default function RecoveryAgentsTalkingToNeighboursLandlordPage() {
 
             {/* 10 Related Guide Badges */}
             <section className="border-t border-slate-200 pt-8 mb-8">
-              <h3 className="text-xs sm:text-sm font-bold text-slate-900 mb-4 uppercase tracking-wider">
+              <h4 className="text-xs sm:text-sm font-bold text-slate-900 mb-4 uppercase tracking-wider">
                 Related Legal Defense &amp; Loan Resolution Guides
-              </h3>
+              </h4>
               <div className="flex flex-wrap gap-2">
                 <Link
                   href="/bank-recovery-harassment-complaint"

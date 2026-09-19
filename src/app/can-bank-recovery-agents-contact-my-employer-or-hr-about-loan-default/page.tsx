@@ -188,7 +188,7 @@ export default function WorkplaceHarassmentPage() {
 
             {/* Blue Important Box */}
             <section id="rbi-rules" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">RBI Rules on Recovery Agents Calling Your Office</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">RBI Rules on Recovery Agents Calling Your Office</h3>
               <p className="text-lg leading-relaxed mb-6">
                 The Reserve Bank of India (RBI) has laid out explicit and stringent guidelines regarding the code of conduct for recovery agents. Harassment at the workplace is a direct violation of these rules, and importantly, banks are held vicariously liable for their agents' actions. This means a bank cannot simply wipe its hands clean and blame a third-party collection agency; the bank itself is legally accountable for the harassment you face.
               </p>
@@ -197,7 +197,7 @@ export default function WorkplaceHarassmentPage() {
               </p>
               
               <div className="bg-blue-50 border-l-8 border-[#1F5EFF] p-8 rounded-r-2xl mb-8">
-                <h3 className="text-xl font-black text-[#1F5EFF] mb-4">Key RBI Directives Protecting Your Employment</h3>
+                <h4 className="text-xl font-black text-[#1F5EFF] mb-4">Key RBI Directives Protecting Your Employment</h4>
                 <ul className="space-y-4">
                   <li className="flex gap-3 items-start">
                     <div className="mt-1.5 w-2 h-2 rounded-full bg-[#1F5EFF] flex-shrink-0"></div>
@@ -220,7 +220,7 @@ export default function WorkplaceHarassmentPage() {
 
             {/* Gray Insight Box & 4-Grid */}
             <section id="privacy-laws" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">Your Right to Privacy and Defamation Risks</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">Your Right to Privacy and Defamation Risks</h3>
               
               <div className="bg-gray-50 p-8 rounded-2xl mb-8 border border-gray-200">
                 <p className="text-lg leading-relaxed text-gray-700">
@@ -234,19 +234,19 @@ export default function WorkplaceHarassmentPage() {
 
               <div className="grid md:grid-cols-2 gap-6 my-8">
                 <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
-                  <h3 className="font-black text-[#1F5EFF] text-lg mb-3">Defamation Claims (IPC 499/500)</h3>
+                  <h4 className="font-black text-[#1F5EFF] text-lg mb-3">Defamation Claims (IPC 499/500)</h4>
                   <p className="text-gray-600 text-sm">Disclosing your financial status to your employer to intentionally lower your moral or professional standing qualifies as criminal defamation under IPC Section 499/500. It is a calculated attempt to harm your reputation.</p>
                 </div>
                 <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
-                  <h3 className="font-black text-[#1F5EFF] text-lg mb-3">Right to Privacy (Article 21)</h3>
+                  <h4 className="font-black text-[#1F5EFF] text-lg mb-3">Right to Privacy (Article 21)</h4>
                   <p className="text-gray-600 text-sm">Your financial dealings with a bank are a private contract. The Supreme Court of India upholds privacy as a fundamental, constitutionally protected right that cannot be breached by collection agencies.</p>
                 </div>
                 <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
-                  <h3 className="font-black text-[#1F5EFF] text-lg mb-3">Consumer Protection Act, 2019</h3>
+                  <h4 className="font-black text-[#1F5EFF] text-lg mb-3">Consumer Protection Act, 2019</h4>
                   <p className="text-gray-600 text-sm">Harassment, coercive tactics, and public shaming fall under unfair trade practices. This allows you to file complaints in consumer courts to seek substantial financial compensation for mental agony.</p>
                 </div>
                 <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
-                  <h3 className="font-black text-[#1F5EFF] text-lg mb-3">Banking Ombudsman Scheme</h3>
+                  <h4 className="font-black text-[#1F5EFF] text-lg mb-3">Banking Ombudsman Scheme</h4>
                   <p className="text-gray-600 text-sm">The RBI Ombudsman explicitly accepts, investigates, and penalizes banks for complaints regarding recovery agent misbehavior, ordering banks to cease harassment and compensate the victim.</p>
                 </div>
               </div>
@@ -254,7 +254,7 @@ export default function WorkplaceHarassmentPage() {
 
             {/* NEW SECTION: Can You Legally Lose Your Job Over a Default? */}
             <section id="job-security" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">Can You Legally Lose Your Job Over a Default?</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">Can You Legally Lose Your Job Over a Default?</h3>
               <p className="text-lg leading-relaxed mb-6">
                 One of the most common threats employed by rogue recovery agents is: <em>"We are going to tell your HR department, and they will fire you because you are a defaulter."</em> It is crucial to dissect this threat logically and legally to eliminate the fear it causes.
               </p>
@@ -271,7 +271,7 @@ export default function WorkplaceHarassmentPage() {
 
             {/* Numbered Steps */}
             <section id="actionable-steps" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">How to Stop Them: 4 Actionable Steps</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">How to Stop Them: 4 Actionable Steps</h3>
               <p className="text-lg leading-relaxed mb-8">
                 If you are facing the threat of recovery agents calling your workplace, you must act swiftly and decisively to shut them down and protect your career. Taking a passive approach will only embolden them. Here is a comprehensive step-by-step framework to handle workplace threats.
               </p>
@@ -280,7 +280,7 @@ export default function WorkplaceHarassmentPage() {
                 <div className="flex gap-6">
                   <div className="flex-shrink-0 w-12 h-12 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center font-black text-xl shadow-lg">1</div>
                   <div>
-                    <h3 className="text-2xl font-black text-[#2E2E2E] mb-3">Record Every Threat and Gather Evidence</h3>
+                    <h4 className="text-2xl font-black text-[#2E2E2E] mb-3">Record Every Threat and Gather Evidence</h4>
                     <p className="text-lg text-gray-600 mb-3">Evidence is your most powerful weapon. If an agent says they will call your boss, HR, or visit your office, record the phone call immediately. Most modern smartphones have call recording capabilities, or you can use a secondary device.</p>
                     <p className="text-lg text-gray-600">Do not engage in shouting matches. Simply state clearly: <em>"Are you threatening to call my employer and disclose my private financial details?"</em> Let them confirm it on tape. Save all WhatsApp messages, emails, Truecaller screenshots, and SMS as concrete hard evidence of their intent to violate RBI norms and defame you.</p>
                   </div>
@@ -288,7 +288,7 @@ export default function WorkplaceHarassmentPage() {
                 <div className="flex gap-6">
                   <div className="flex-shrink-0 w-12 h-12 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center font-black text-xl shadow-lg">2</div>
                   <div>
-                    <h3 className="text-2xl font-black text-[#2E2E2E] mb-3">Inform HR Preemptively (If Necessary)</h3>
+                    <h4 className="text-2xl font-black text-[#2E2E2E] mb-3">Inform HR Preemptively (If Necessary)</h4>
                     <p className="text-lg text-gray-600 mb-3">If you have a reasonable belief that the agents possess your HR's direct line or your company's board number, it may be strategic to preempt the strike. You do not need to confess your financial situation.</p>
                     <p className="text-lg text-gray-600">Consider informally warning your HR or reception that you are dealing with fraudulent scam callers, identity theft issues, or a highly contested legal dispute. Request them firmly not to entertain, transfer, or disclose any of your information to suspicious callers asking about your personal matters. Controlling the narrative protects your reputation.</p>
                   </div>
@@ -296,7 +296,7 @@ export default function WorkplaceHarassmentPage() {
                 <div className="flex gap-6">
                   <div className="flex-shrink-0 w-12 h-12 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center font-black text-xl shadow-lg">3</div>
                   <div>
-                    <h3 className="text-2xl font-black text-[#2E2E2E] mb-3">File an Official Complaint with the Nodal Officer</h3>
+                    <h4 className="text-2xl font-black text-[#2E2E2E] mb-3">File an Official Complaint with the Nodal Officer</h4>
                     <p className="text-lg text-gray-600 mb-3">Do not complain to the customer care team—they are often powerless or simply ignore such requests. You must email the Grievance Redressal Officer (GRO) or Principal Nodal Officer of the bank immediately.</p>
                     <p className="text-lg text-gray-600">State clearly that their authorized recovery agents are violating RBI guidelines by threatening your employment and committing criminal intimidation under IPC Section 503. Demand immediate intervention and state that you will hold the bank legally liable for any damages to your career.</p>
                   </div>
@@ -304,7 +304,7 @@ export default function WorkplaceHarassmentPage() {
                 <div className="flex gap-6">
                   <div className="flex-shrink-0 w-12 h-12 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center font-black text-xl shadow-lg">4</div>
                   <div>
-                    <h3 className="text-2xl font-black text-[#2E2E2E] mb-3">Send a Legal Cease-and-Desist Notice</h3>
+                    <h4 className="text-2xl font-black text-[#2E2E2E] mb-3">Send a Legal Cease-and-Desist Notice</h4>
                     <p className="text-lg text-gray-600">This is the absolute most powerful and effective tool available to a borrower. A formal legal notice drafted by a qualified lawyer instantly elevates the issue from a petty collection dispute to a serious legal liability for the bank. It forces the bank's legal and compliance departments to intervene and recall their rogue agents to avoid a costly, highly publicized lawsuit.</p>
                   </div>
                 </div>
@@ -313,10 +313,10 @@ export default function WorkplaceHarassmentPage() {
 
             {/* Red Warning Box */}
             <section id="cease-and-desist" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">Sending a Legal Cease-and-Desist Notice</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">Sending a Legal Cease-and-Desist Notice</h3>
               
               <div className="bg-red-50 p-6 rounded-xl border border-red-100 mb-8">
-                <h3 className="text-xl font-black text-red-700 mb-4">Warning: Do Not Ignore Workplace Threats</h3>
+                <h4 className="text-xl font-black text-red-700 mb-4">Warning: Do Not Ignore Workplace Threats</h4>
                 <p className="text-lg text-red-900">
                   Ignoring threats of workplace harassment often encourages aggressive agents to follow through. A single phone call to your HR department can jeopardize a career you've spent years building. You must draw a strict legal boundary immediately. Silence is treated as weakness by recovery agencies.
                 </p>
@@ -335,7 +335,7 @@ export default function WorkplaceHarassmentPage() {
 
             {/* Success Stories */}
             <section id="success-stories" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">Success Stories: Stopping the Calls</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">Success Stories: Stopping the Calls</h3>
               <div className="grid md:grid-cols-2 gap-6">
                 <div className="bg-white p-8 rounded-[30px] border border-[#DEDEDE] shadow-sm hover:shadow-xl group transition-all">
                   <div className="flex items-center justify-between mb-6">
@@ -376,11 +376,11 @@ export default function WorkplaceHarassmentPage() {
 
             {/* FAQs */}
             <section id="faqs" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">Frequently Asked Questions</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">Frequently Asked Questions</h3>
               <div className="space-y-4">
                 {faqs.map((faq, i) => (
                   <div key={i} className="bg-white border border-[#DEDEDE] rounded-xl p-6 hover:shadow-md transition-shadow">
-                    <h3 className="font-bold text-lg text-[#2E2E2E] mb-2">{faq.q}</h3>
+                    <h4 className="font-bold text-lg text-[#2E2E2E] mb-2">{faq.q}</h4>
                     <p className="text-gray-600">{faq.a}</p>
                   </div>
                 ))}
@@ -391,7 +391,7 @@ export default function WorkplaceHarassmentPage() {
             <div className="bg-[#2E2E2E] text-white p-12 rounded-[40px] text-center mt-24 relative overflow-hidden group">
               <div className="absolute inset-0 bg-[#1F5EFF] opacity-0 group-hover:opacity-5 transition-opacity"></div>
               <div className="relative z-10">
-                <h3 className="text-3xl md:text-5xl font-black mb-6 leading-tight">Stop Workplace Harassment Instantly</h3>
+                <h4 className="text-3xl md:text-5xl font-black mb-6 leading-tight">Stop Workplace Harassment Instantly</h4>
                 <p className="text-xl text-gray-300 mb-8 max-w-2xl mx-auto">
                   Are recovery agents calling your office and threatening your job? This is illegal extortion. Let our expert lawyers send a strict cease-and-desist notice to stop the workplace harassment immediately and permanently.
                 </p>

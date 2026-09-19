@@ -441,9 +441,9 @@ export default function CaseStudyCibilStatusSettledToClosedClient() {
                 <Scale className="w-3.5 h-3.5" />
                 <span>Section 3: Bureau Architecture</span>
               </div>
-              <h2 className="text-2xl md:text-3xl font-black text-slate-900 tracking-tight">
+              <h3 className="text-2xl md:text-3xl font-black text-slate-900 tracking-tight">
                 The CIBIL Status Taxonomy: &quot;Closed&quot; vs &quot;Settled&quot; vs &quot;Written-Off&quot;
-              </h2>
+              </h3>
               <p>
                 Credit bureaus operate as statutory data repositories under the Credit Information Companies (Regulation) Act, 2005 (CICRA). They do not independently determine account status; rather, they reflect the precise data codes transmitted by member credit institutions through standard monthly SFTP batch feeds. Understanding the technical taxonomy of these reporting codes is essential for diagnosing why a settled loan obstructs future borrowing.
               </p>
@@ -461,9 +461,9 @@ export default function CaseStudyCibilStatusSettledToClosedClient() {
                 <Briefcase className="w-3.5 h-3.5" />
                 <span>Section 4: Real-World Case Analysis</span>
               </div>
-              <h2 className="text-2xl md:text-3xl font-black text-slate-900 tracking-tight">
+              <h3 className="text-2xl md:text-3xl font-black text-slate-900 tracking-tight">
                 Client Profile &amp; Financial Breakdown: The ₹12L Personal Loan Case
-              </h2>
+              </h3>
               <p>
                 In July 2024, our client Anirudh Sharma applied for a ₹75 Lakh home loan through a leading public sector bank. He was a senior software architect earning ₹22 Lakhs annually. Despite zero active defaults, low debt-to-income ratio, and a 742 CIBIL score, his application was rejected during centralized credit processing.
               </p>
@@ -473,9 +473,9 @@ export default function CaseStudyCibilStatusSettledToClosedClient() {
 
               {/* 4-Sided Bordered Financial Forensics Table */}
               <div className="my-6">
-                <h3 className="text-sm font-bold text-slate-900 uppercase tracking-wider mb-2">
+                <h4 className="text-sm font-bold text-slate-900 uppercase tracking-wider mb-2">
                   Financial Ledger Forensics &amp; Status Upgrade Math
-                </h3>
+                </h4>
                 <div className="overflow-x-auto">
                   <table>
                     <thead>
@@ -533,9 +533,9 @@ export default function CaseStudyCibilStatusSettledToClosedClient() {
                 <Sparkles className="w-3.5 h-3.5" />
                 <span>Section 5: Visual Resolution Process</span>
               </div>
-              <h2 className="text-2xl md:text-3xl font-black text-slate-900 tracking-tight">
+              <h3 className="text-2xl md:text-3xl font-black text-slate-900 tracking-tight">
                 Visual Blueprint: The 5-Stage &quot;Settled to Closed&quot; Conversion Roadmap
-              </h2>
+              </h3>
               <p>
                 The infographic below illustrates the workflow deployed by SettleLoans. We audit historical loan ledgers and negotiate residual waiver payments with credit committees. We then obtain stamped conversion sanctions and enforce out-of-cycle credit bureau updates under RBI guidelines.
               </p>
@@ -551,9 +551,9 @@ export default function CaseStudyCibilStatusSettledToClosedClient() {
                       <span className="text-[10px] font-black uppercase tracking-widest text-blue-300 block">
                         Legal Defense &amp; Action Blueprint
                       </span>
-                      <h3 className="text-sm md:text-base font-black text-white leading-tight">
+                      <h4 className="text-sm md:text-base font-black text-white leading-tight">
                         CIBIL Status Settled to Closed Conversion Overview
-                      </h3>
+                      </h4>
                     </div>
                   </div>
                   <a
@@ -600,18 +600,18 @@ export default function CaseStudyCibilStatusSettledToClosedClient() {
                 <TrendingUp className="w-3.5 h-3.5" />
                 <span>Section 6: Strategy Comparison</span>
               </div>
-              <h2 className="text-2xl md:text-3xl font-black text-slate-900 tracking-tight">
+              <h3 className="text-2xl md:text-3xl font-black text-slate-900 tracking-tight">
                 Strategic Comparison: Status Upgrade vs Alternative Credit Repair Methods
-              </h2>
+              </h3>
               <p>
                 When facing a credit block due to a settled account, borrowers have several options. They can wait out the seven-year bureau purge cycle, use secured cards, or execute a structured residual conversion. The comparative analysis below shows why direct institutional conversion remains the only definitive solution for mortgage approvals.
               </p>
 
               {/* 4-Sided Bordered Comparison Table */}
               <div className="my-6">
-                <h3 className="text-sm font-bold text-slate-900 uppercase tracking-wider mb-2">
+                <h4 className="text-sm font-bold text-slate-900 uppercase tracking-wider mb-2">
                   Credit Repair Methodology Matrix
-                </h3>
+                </h4>
                 <div className="overflow-x-auto">
                   <table>
                     <thead>
@@ -668,9 +668,9 @@ export default function CaseStudyCibilStatusSettledToClosedClient() {
                 <Layers className="w-3.5 h-3.5" />
                 <span>Section 7: Standard Operating Procedure</span>
               </div>
-              <h2 className="text-2xl md:text-3xl font-black text-slate-900 tracking-tight">
+              <h3 className="text-2xl md:text-3xl font-black text-slate-900 tracking-tight">
                 The 5-Stage SOP: How SettleLoans Upgraded CIBIL Status to &quot;Closed&quot;
-              </h2>
+              </h3>
               <p>
                 Converting a settled loan record requires navigating bank credit committee hierarchies, stressed asset accounting protocols, and credit bureau data pipelines. SettleLoans executes this procedure through five disciplined stages.
               </p>
@@ -737,9 +737,9 @@ export default function CaseStudyCibilStatusSettledToClosedClient() {
                 <Landmark className="w-3.5 h-3.5" />
                 <span>Section 8: Technical Banking Infrastructure</span>
               </div>
-              <h2 className="text-2xl md:text-3xl font-black text-slate-900 tracking-tight">
+              <h3 className="text-2xl md:text-3xl font-black text-slate-900 tracking-tight">
                 Core Banking Accounting &amp; Out-of-Cycle SFTP Ingestion
-              </h2>
+              </h3>
               <p>
                 Post-settlement credit repair often fails without legal oversight due to disconnects between branch accounting and bureau reporting systems. When an OTS is approved, core banking systems (like Finacle or BaNCS) record the waived amount as an institutional loss under Master Circular guidelines.
               </p>
@@ -757,9 +757,9 @@ export default function CaseStudyCibilStatusSettledToClosedClient() {
                 <Users className="w-3.5 h-3.5" />
                 <span>Section 9: Scenario Analysis</span>
               </div>
-              <h2 className="text-2xl md:text-3xl font-black text-slate-900 tracking-tight">
+              <h3 className="text-2xl md:text-3xl font-black text-slate-900 tracking-tight">
                 Specialized Real-World Post-Settlement Scenarios
-              </h2>
+              </h3>
               <p>
                 Post-settlement credit repair varies significantly depending on the nature of the defaulted credit facility, the lending institution&apos;s institutional policy, and the specific underwriting requirements of the prospective loan.
               </p>
@@ -767,10 +767,10 @@ export default function CaseStudyCibilStatusSettledToClosedClient() {
               <div className="grid grid-cols-1 md:grid-cols-2 gap-4 my-6">
                 {/* Scenario 1 */}
                 <div className="p-5 rounded-2xl border border-slate-200 bg-white shadow-xs space-y-2">
-                  <h3 className="font-bold text-slate-900 text-sm flex items-center gap-2">
+                  <h4 className="font-bold text-slate-900 text-sm flex items-center gap-2">
                     <CreditCard className="w-4 h-4 text-[#1F5EFF]" />
                     <span>Settled Credit Card with 42% APR Penalties</span>
-                  </h3>
+                  </h4>
                   <p className="text-slate-600 text-xs leading-relaxed">
                     Credit card settlements frequently involve large write-offs of finance charges. SettleLoans isolates genuine transaction principal from compounding interest charges, enabling borrowers to upgrade the status at a fraction of the original claimed waiver.
                   </p>
@@ -778,10 +778,10 @@ export default function CaseStudyCibilStatusSettledToClosedClient() {
 
                 {/* Scenario 2 */}
                 <div className="p-5 rounded-2xl border border-slate-200 bg-white shadow-xs space-y-2">
-                  <h3 className="font-bold text-slate-900 text-sm flex items-center gap-2">
+                  <h4 className="font-bold text-slate-900 text-sm flex items-center gap-2">
                     <Home className="w-4 h-4 text-[#1F5EFF]" />
                     <span>Joint Home Loan Mortgage Applications</span>
-                  </h3>
+                  </h4>
                   <p className="text-slate-600 text-xs leading-relaxed">
                     When a co-applicant holds a settled personal loan, primary home loan sanctions are immediately declined. Executing an expedited 30-day status upgrade on the co-applicant&apos;s record restores joint borrowing eligibility.
                   </p>
@@ -789,10 +789,10 @@ export default function CaseStudyCibilStatusSettledToClosedClient() {
 
                 {/* Scenario 3 */}
                 <div className="p-5 rounded-2xl border border-slate-200 bg-white shadow-xs space-y-2">
-                  <h3 className="font-bold text-slate-900 text-sm flex items-center gap-2">
+                  <h4 className="font-bold text-slate-900 text-sm flex items-center gap-2">
                     <Building2 className="w-4 h-4 text-[#1F5EFF]" />
                     <span>Multiple Settled Accounts Across Lenders</span>
-                  </h3>
+                  </h4>
                   <p className="text-slate-600 text-xs leading-relaxed">
                     Borrowers with multiple settled accounts must sequence residual negotiations strategically, prioritizing private bank cards and high-exposure personal loans that trigger hard underwriting declines.
                   </p>
@@ -800,10 +800,10 @@ export default function CaseStudyCibilStatusSettledToClosedClient() {
 
                 {/* Scenario 4 */}
                 <div className="p-5 rounded-2xl border border-slate-200 bg-white shadow-xs space-y-2">
-                  <h3 className="font-bold text-slate-900 text-sm flex items-center gap-2">
+                  <h4 className="font-bold text-slate-900 text-sm flex items-center gap-2">
                     <Landmark className="w-4 h-4 text-[#1F5EFF]" />
                     <span>ARC Assigned Settled Accounts</span>
-                  </h3>
+                  </h4>
                   <p className="text-slate-600 text-xs leading-relaxed">
                     When written-off loans have been assigned to Asset Reconstruction Companies, SettleLoans coordinates bilateral closures between the originating bank and the ARC to ensure complete bureau record reconciliation.
                   </p>
@@ -822,9 +822,9 @@ export default function CaseStudyCibilStatusSettledToClosedClient() {
                 <HelpCircle className="w-3.5 h-3.5" />
                 <span>Section 11: Knowledge Base</span>
               </div>
-              <h2 className="text-2xl md:text-3xl font-black text-slate-900 tracking-tight">
+              <h3 className="text-2xl md:text-3xl font-black text-slate-900 tracking-tight">
                 Frequently Asked Questions on Converting CIBIL Status to Closed
-              </h2>
+              </h3>
               <p className="text-slate-600 text-sm leading-relaxed mb-6">
                 Below are authoritative legal and financial answers regarding the post-settlement residual payment process, CIBIL status conversions, and mortgage loan eligibility in India.
               </p>
@@ -848,9 +848,9 @@ export default function CaseStudyCibilStatusSettledToClosedClient() {
                 <Award className="w-3.5 h-3.5" />
                 <span>Section 12: Regulatory Citations</span>
               </div>
-              <h2 className="text-2xl md:text-3xl font-black text-slate-900 tracking-tight">
+              <h3 className="text-2xl md:text-3xl font-black text-slate-900 tracking-tight">
                 Statutory Citations &amp; Outbound Authority Grid
-              </h2>
+              </h3>
               <p className="text-slate-700 text-sm leading-relaxed">
                 The legal frameworks, credit bureau reconciliation protocols, and consumer protections referenced in this case study are established under statutory Indian financial laws and binding Reserve Bank of India directions.
               </p>

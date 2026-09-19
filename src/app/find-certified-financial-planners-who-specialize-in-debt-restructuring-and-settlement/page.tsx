@@ -248,17 +248,17 @@ export default function CFPDebtPlanningPage() {
             </section>
             
             <section id="cfp-mandate" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight uppercase">The Professional Mandate of a CFP</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight uppercase">The Professional Mandate of a CFP</h3>
               <p className="text-lg leading-relaxed mb-6">
                 A Certified Financial Planner (CFP) holds the gold standard in financial advisory. Unlike unregulated mortgage brokers or commission based bank agents, a CFP has a fiduciary duty to act in the borrower's best interest. In the context of debt restructuring, this means providing an objective analysis of whether a loan is sustainable or if a settlement is required to prevent total financial collapse.
               </p>
               <div className="grid md:grid-cols-2 gap-6 mb-8">
                 <div className="bg-gray-50 p-6 rounded-xl border border-gray-200">
-                  <h3 className="font-bold text-[#1F5EFF] mb-3 uppercase text-xs tracking-wider">Fiduciary Duty</h3>
+                  <h4 className="font-bold text-[#1F5EFF] mb-3 uppercase text-xs tracking-wider">Fiduciary Duty</h4>
                   <p className="text-sm opacity-80 leading-relaxed">Unlike recovery agents, a CFP is bound by an ethical code to prioritize your survival and financial health over the bank's collection targets.</p>
                 </div>
                 <div className="bg-gray-50 p-6 rounded-xl border border-gray-200">
-                  <h4 className="font-bold text-[#1F5EFF] mb-3 uppercase text-xs tracking-wider">Cross-Domain Expertise</h4>
+                  <h5 className="font-bold text-[#1F5EFF] mb-3 uppercase text-xs tracking-wider">Cross-Domain Expertise</h5>
                   <p className="text-sm opacity-80 leading-relaxed">They understand the intersection of taxation, legal liability, and cash flow management, offering a holistic path to freedom.</p>
                 </div>
               </div>
@@ -268,7 +268,7 @@ export default function CFPDebtPlanningPage() {
             </section>
 
             <section id="technical-audit" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight uppercase">The 50 Point Strategic Technical Audit</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight uppercase">The 50 Point Strategic Technical Audit</h3>
               <p className="text-lg leading-relaxed mb-6">
                 Before a single word is spoken to a lender, our CFPs conduct an exhaustive 50 point audit of your financial profile. This is the difference between an amateur "request" and a professional "restructuring proposal." We examine the velocity of your debt, the interest compounding rates, and the hidden clauses in your loan agreements.
               </p>
@@ -292,12 +292,12 @@ export default function CFPDebtPlanningPage() {
             </section>
 
             <section id="psychology-of-debt" className="scroll-mt-32 mb-12">
-               <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight uppercase">Restoring Psychological Resilience</h2>
+               <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight uppercase">Restoring Psychological Resilience</h3>
                <p className="text-lg leading-relaxed mb-6">
                  The most damaging aspect of debt is not the interest rate, but the mental paralysis it causes. When you are under constant attack from collection agents, your ability to make rational financial decisions diminishes. This is known as "Scarcity Brain," and it is a state that lenders often exploit to push you into even worse high interest digital loans.
                </p>
                <div className="bg-emerald-50 p-8 rounded-2xl border border-emerald-100 mb-8">
-                 <h3 className="text-xl font-bold text-emerald-800 mb-4">Mental Health First Aid</h3>
+                 <h4 className="text-xl font-bold text-emerald-800 mb-4">Mental Health First Aid</h4>
                  <p className="text-emerald-900/80 leading-relaxed mb-4">
                    Our CFP advisors are trained to provide financial trauma support. We begin by removing the immediate stressors. By becoming your official point of contact, we stop the calls to your neighbors, your workplace, and your family. Once the silence is restored, you can begin to think clearly again.
                  </p>
@@ -308,7 +308,7 @@ export default function CFPDebtPlanningPage() {
             </section>
 
             <section id="rbi-compliance" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight uppercase">Navigating the RBI Policy Framework</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight uppercase">Navigating the RBI Policy Framework</h3>
               <p className="text-lg leading-relaxed mb-6">
                 The Reserve Bank of India has published several master circulars regarding the "Resolution of Stress." From the Prudential Framework of 2019 to the modern Digital Lending Guidelines, the law is actually designed to protect human dignity. A professional CFP knows how to cite these circulars in every email sent to the bank's Nodal Officer.
               </p>
@@ -332,12 +332,12 @@ export default function CFPDebtPlanningPage() {
             </section>
 
             <section id="restructuring-mechanics" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight uppercase">The Mechanics of Loan Restructuring</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight uppercase">The Mechanics of Loan Restructuring</h3>
               <p className="text-lg leading-relaxed mb-6">
                 Restructuring is a surgical procedure. It involves altering the fundamental terms of the loan contract without declaring an immediate default. This is often the preferred path for borrowers with home loans or those who hold critical professional licenses that require a "standard" credit rating.
               </p>
               <div className="bg-white p-6 rounded-xl border border-[#DEDEDE] shadow-sm mb-8 overflow-hidden">
-                <h3 className="font-bold text-[#1F5EFF] mb-4 uppercase tracking-wider text-xs">Technical Comparison Analysis</h3>
+                <h4 className="font-bold text-[#1F5EFF] mb-4 uppercase tracking-wider text-xs">Technical Comparison Analysis</h4>
                 <div className="overflow-x-auto">
                    <table className="w-full text-left text-sm">
                      <thead className="border-b border-[#DEDEDE]">
@@ -373,17 +373,17 @@ export default function CFPDebtPlanningPage() {
             </section>
 
             <section id="ots-vs-emi" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight uppercase">One Time Settlement (OTS) vs EMI Adjustment</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight uppercase">One Time Settlement (OTS) vs EMI Adjustment</h3>
               <p className="text-lg leading-relaxed mb-8">
                 The choice between a lump sum settlement and an EMI adjustment is the most critical decision in your recovery journey. A CFP provides the foresight needed to make this choice. While an OTS can save you 60% of the principal, it requires immediate liquidity. An EMI adjustment is more forgiving on your monthly budget but might cost more over time.
               </p>
               <div className="grid md:grid-cols-2 gap-6 mb-8">
                 <div>
-                  <h3 className="text-lg font-bold mb-3 uppercase tracking-tight text-[#1F5EFF]">When to Choose OTS</h3>
+                  <h4 className="text-lg font-bold mb-3 uppercase tracking-tight text-[#1F5EFF]">When to Choose OTS</h4>
                   <p className="text-sm opacity-80 leading-relaxed mb-4">Choose OTS if you have access to a lump sum (such as from family or provident fund) and want to end all legal liability and collection activity within 30 days. This is the fastest route to peace of mind.</p>
                 </div>
                 <div>
-                  <h4 className="text-lg font-bold mb-3 uppercase tracking-tight text-[#1F5EFF]">When to Choose EMI</h4>
+                  <h5 className="text-lg font-bold mb-3 uppercase tracking-tight text-[#1F5EFF]">When to Choose EMI</h5>
                   <p className="text-sm opacity-80 leading-relaxed mb-4">Choose EMI adjustment if your income has reduced but not vanished. This allows you to protect your long term credit history and avoid the "Settled" remark, which can be useful if you plan to get a home loan in the future.</p>
                 </div>
               </div>
@@ -393,12 +393,12 @@ export default function CFPDebtPlanningPage() {
             </section>
 
             <section id="fintech-defense" className="scroll-mt-32 mb-12">
-               <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 uppercase">NBFC & Fintech Defense Protocols</h2>
+               <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 uppercase">NBFC & Fintech Defense Protocols</h3>
                <p className="text-lg leading-relaxed mb-6">
                  The rise of digital lending has created a new kind of debt crisis. Fintech apps often use aggressive automation and algorithmic pressure to force immediate payment. They might use your contact list to shame you or send threatening WhatsApp messages. This is highly illegal under the new RBI Digital Lending Guidelines.
                </p>
                <div className="bg-red-50 p-8 rounded-2xl border border-red-100 mb-8">
-                 <h3 className="text-xl font-bold text-red-800 mb-4 uppercase tracking-tighter">Stopping Digital Harassment</h3>
+                 <h4 className="text-xl font-bold text-red-800 mb-4 uppercase tracking-tighter">Stopping Digital Harassment</h4>
                  <p className="text-red-900/80 leading-relaxed mb-4">
                    Our CFPs and legal teams specialize in shutting down digital harassment. We file immediate complaints with the RBI and the Cyber Cell, informing the fintech lender that their digital collection tactics have crossed a legal line. We demand a formal settlement through official bank channels, stripping the fintech of its digital leverage.
                  </p>
@@ -409,7 +409,7 @@ export default function CFPDebtPlanningPage() {
             </section>
 
             <section id="legal-integration" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 uppercase">Direct Legal & Strategic Integration</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 uppercase">Direct Legal & Strategic Integration</h3>
               <p className="text-lg leading-relaxed mb-6">
                 A CFP provides the math, but a lawyer provides the muscle. At SettleLoans, we integrate these two worlds. When we present a restructuring plan, it is backed by a legal analysis that warns the bank of the consequences of violating your rights. This dual layer of protection is why we are trusted by high net worth individuals and common borrowers alike.
               </p>
@@ -419,35 +419,35 @@ export default function CFPDebtPlanningPage() {
             </section>
 
             <section id="choosing-planner" className="scroll-mt-32 mb-12 text-center">
-               <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-6 uppercase">Identifying Excellence in Advisory</h2>
+               <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-6 uppercase">Identifying Excellence in Advisory</h3>
                <p className="text-xl mb-10 opacity-70 max-w-2xl mx-auto">Not all advice is created equal. Use these metrics to evaluate your professional advisor.</p>
                <div className="grid sm:grid-cols-2 gap-6 mb-12 text-left">
                  <div className="p-6 border border-[#DEDEDE] rounded-2xl hover:bg-gray-50 transition-all shadow-sm">
-                   <h3 className="font-bold mb-3 uppercase text-[#1F5EFF] text-sm tracking-widest">Verify Certification</h3>
+                   <h4 className="font-bold mb-3 uppercase text-[#1F5EFF] text-sm tracking-widest">Verify Certification</h4>
                    <p className="text-sm opacity-70 leading-relaxed">Always verify the CFP credentials. A genuine advisor will have a valid registration number that can be tracked on official professional portals.</p>
                  </div>
                  <div className="p-6 border border-[#DEDEDE] rounded-2xl hover:bg-gray-50 transition-all shadow-sm">
-                   <h4 className="font-bold mb-3 uppercase text-[#1F5EFF] text-sm tracking-widest">Fee Transparency</h4>
+                   <h5 className="font-bold mb-3 uppercase text-[#1F5EFF] text-sm tracking-widest">Fee Transparency</h5>
                    <p className="text-sm opacity-70 leading-relaxed">A professional firm will have a clearly defined fee structure. Beware of firms that promise "zero fees" only to take huge percentages later.</p>
                  </div>
                  <div className="p-6 border border-[#DEDEDE] rounded-2xl hover:bg-gray-50 transition-all shadow-sm">
-                   <h5 className="font-bold mb-3 uppercase text-[#1F5EFF] text-sm tracking-widest">Legacy of Success</h5>
+                   <h6 className="font-bold mb-3 uppercase text-[#1F5EFF] text-sm tracking-widest">Legacy of Success</h6>
                    <p className="text-sm opacity-70 leading-relaxed">Look for established case histories. A firm that has settled thousands of crores of debt across multiple banks has the domain authority you need.</p>
                  </div>
                  <div className="p-6 border border-[#DEDEDE] rounded-2xl hover:bg-gray-50 transition-all shadow-sm">
-                   <h5 className="font-bold mb-3 uppercase text-[#1F5EFF] text-sm tracking-widest">In-house Legal</h5>
+                   <h6 className="font-bold mb-3 uppercase text-[#1F5EFF] text-sm tracking-widest">In-house Legal</h6>
                    <p className="text-sm opacity-70 leading-relaxed">Ensure the firm has an in-house legal department. Financial planning without legal defense is like a car without a bumper in a storm.</p>
                  </div>
                </div>
             </section>
 
             <section id="msme-support" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 uppercase">Special Support for MSMEs and Small Businesses</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 uppercase">Special Support for MSMEs and Small Businesses</h3>
               <p className="text-lg leading-relaxed mb-6">
                 Small business owners in India face unique challenges. Often, their personal and business finances are deeply intertwined. When the business suffers, the family suffers. Our CFPs are experts in MSME law, including the rights provided under the MSMED Act. We help business owners restructure their working capital loans and term loans to keep their operations alive.
               </p>
               <div className="bg-[#2E2E2E] text-white p-10 rounded-2xl mb-12 relative overflow-hidden">
-                <h3 className="text-xl font-bold mb-4 uppercase tracking-widest text-[#1F5EFF]">The MSME Safety Valve</h3>
+                <h4 className="text-xl font-bold mb-4 uppercase tracking-widest text-[#1F5EFF]">The MSME Safety Valve</h4>
                 <p className="text-base opacity-80 leading-relaxed mb-4">
                   We use the 2021 RBI Micro Stress framework to negotiate moratoriums and interest rate reductions for small businesses. We ensure that you don't have to sell your productive machinery to pay a short term debt. Our goal is to stabilize your cash flow so you can focus on growth, not recovery calls.
                 </p>
@@ -455,7 +455,7 @@ export default function CFPDebtPlanningPage() {
             </section>
 
             <section id="rebuilding-future" className="scroll-mt-32 mb-12">
-               <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 uppercase">The Post-Debt Rebuilding Roadmap</h2>
+               <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 uppercase">The Post-Debt Rebuilding Roadmap</h3>
                <p className="text-lg leading-relaxed mb-10">
                  Resolving the debt is only half the battle. The other half is ensuring you never return to that state of distress. Our CFPs provide a comprehensive post-settlement roadmap that focus on rebuilding your CIBIL score and creating a resilient emergency fund.
                </p>
@@ -463,21 +463,21 @@ export default function CFPDebtPlanningPage() {
                  <div className="flex gap-6 items-start">
                    <div className="w-12 h-12 shrink-0 bg-blue-50 rounded-lg flex items-center justify-center font-bold text-xl text-[#1F5EFF]">01</div>
                    <div>
-                     <h3 className="text-lg font-bold uppercase mb-2">Emergency Buffer Strategy</h3>
+                     <h4 className="text-lg font-bold uppercase mb-2">Emergency Buffer Strategy</h4>
                      <p className="text-sm opacity-70 leading-relaxed">We help you set up a liquid fund that can cover 6 months of living expenses. This is your ultimate protection against the next unforeseen crisis.</p>
                    </div>
                  </div>
                  <div className="flex gap-6 items-start">
                    <div className="w-12 h-12 shrink-0 bg-blue-50 rounded-lg flex items-center justify-center font-bold text-xl text-[#1F5EFF]">02</div>
                    <div>
-                     <h4 className="text-lg font-bold uppercase mb-2">Negative Remark Remediation</h4>
+                     <h5 className="text-lg font-bold uppercase mb-2">Negative Remark Remediation</h5>
                      <p className="text-sm opacity-70 leading-relaxed">We provide a step by step guide on how to report settlement closures to the credit bureaus and how to use secured credit cards to raise your score back.</p>
                    </div>
                  </div>
                  <div className="flex gap-6 items-start">
                    <div className="w-12 h-12 shrink-0 bg-blue-50 rounded-lg flex items-center justify-center font-bold text-xl text-[#1F5EFF]">03</div>
                    <div>
-                     <h5 className="text-lg font-bold uppercase mb-2">Generational Wealth Protection</h5>
+                     <h6 className="text-lg font-bold uppercase mb-2">Generational Wealth Protection</h6>
                      <p className="text-sm opacity-70 leading-relaxed">Finalizing your term insurance and health coverage ensures that a future medical emergency doesn't force your children into the same debt cycle.</p>
                    </div>
                  </div>
@@ -485,7 +485,7 @@ export default function CFPDebtPlanningPage() {
             </section>
 
             <div id="reviews" className="scroll-mt-32 mb-16">
-                 <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 text-center uppercase tracking-tight">Client Success Stories</h2>
+                 <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 text-center uppercase tracking-tight">Client Success Stories</h3>
                  <ReviewSnippets 
                   reviews={[
                     {
@@ -514,7 +514,7 @@ export default function CFPDebtPlanningPage() {
             </div>
 
             <section id="faqs" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Frequently Asked Questions</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Frequently Asked Questions</h3>
               <div className="space-y-4">
                 {[
                   { q: "What is the role of a Certified Financial Planner in debt restructuring?", a: "A Certified Financial Planner (CFP) analyzes your income, expenses, and liabilities to create a sustainable debt repayment or restructuring plan. They act as strategic advisors during bank negotiations to ensure terms are favorable and legally sound." },
@@ -553,7 +553,7 @@ export default function CFPDebtPlanningPage() {
             <div className="lg:hidden mt-16 mb-8">
               <div className="bg-[#2E2E2E] rounded-2xl shadow-xl overflow-hidden border border-[#1F5EFF]/20">
                 <div className="bg-[#1F5EFF] p-6 text-center text-white">
-                  <h3 className="text-2xl font-black mb-2 uppercase tracking-tighter">Your Shield is Ready</h3>
+                  <h4 className="text-2xl font-black mb-2 uppercase tracking-tighter">Your Shield is Ready</h4>
                   <p className="opacity-90 text-sm leading-snug">Empower your financial future with India's most trusted CFP led restructuring service.</p>
                 </div>
                 <div className="p-8 text-center">

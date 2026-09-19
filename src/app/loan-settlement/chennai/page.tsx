@@ -220,18 +220,18 @@ export default function ChennaiLoanSettlementPage() {
             </section>
 
             <section id="retail-business-debt" className="scroll-mt-32 mb-20 bg-gray-50/50 p-10 rounded-3xl border border-gray-100">
-              <h2 className="text-3xl font-black mb-8 text-black uppercase tracking-tighter">T. Nagar & George Town: The SME Debt Trap</h2>
+              <h3 className="text-3xl font-black mb-8 text-black uppercase tracking-tighter">T. Nagar & George Town: The SME Debt Trap</h3>
               <p className="mb-8">T. Nagar, the retail heart of Chennai, and George Town, its oldest commercial hub, operate on a high-velocity cash flow system. However, seasonal dips, GST complexities, and the rise of e-commerce have pushed many traditional business owners into a "Floating Debt" trap. We see a significant pattern of retailers in Pondy Bazaar or wholesalers in Sowcarpet using personal credit cards and 'business' loans with daily repayments (often from predatory private lenders) to manage inventory.</p>
               <p className="mb-8">When the inventory doesn't move as fast as the high-interest EMIs, the business owner is forced to take "Loan 2" to pay "Loan 1." By 'Loan 4,' the debt is no longer a business liability; it's a existential threat to the family. Our Chennai George Town desk specializes in <strong>Commercial Debt Restructuring</strong>. We help small business owners move away from these predatory cycles by negotiating with the larger banks and NBFCs, allowing for a structured settlement that saves the shop and the reputation in the community.</p>
               <p className="mb-0">We understand the "Merchant Heart" of Chennai. We know that for a T. Nagar businessman, pride is as important as profit. We ensure that your settlement is handled with absolute discretion, ensuring that your suppliers and competitors never find out about your financial restructuring, while giving you the breathing room to pivot your business.</p>
             </section>
 
             <section id="harassment-legal-shield" className="scroll-mt-32 mb-20 bg-red-50/20 p-10 rounded-3xl border border-red-100">
-              <h2 className="text-3xl font-black mb-8 text-red-600 uppercase tracking-tighter">Tamil Nadu Police & Your Shield Against Harassment</h2>
+              <h3 className="text-3xl font-black mb-8 text-red-600 uppercase tracking-tighter">Tamil Nadu Police & Your Shield Against Harassment</h3>
               <p className="mb-8">Chennai's recovery agents often use local social structures to intimidate borrowers. They might visit your "Agraharam" home, your office in a Taramani tech park, or even approach your parents in a suburban neighborhood. This is not just 'collections'; this is harassment. The Chennai City Police and the Tamil Nadu state police have strict guidelines against such behavior. Under Section 506 of the IPC (Criminal Intimidation), any agent who uses threats or abusive language can be reported.</p>
               <div className="grid gap-6 md:grid-cols-2 mb-10">
                 <div className="bg-white p-6 rounded-2xl shadow-sm border border-red-100">
-                  <h3 className="font-black text-red-600 mb-2 font-mono tracking-tighter text-xs uppercase">Violations of Conduct</h3>
+                  <h4 className="font-black text-red-600 mb-2 font-mono tracking-tighter text-xs uppercase">Violations of Conduct</h4>
                   <ul className="text-xs space-y-2 opacity-80 list-disc pl-4">
                     <li>Calls from masked or private numbers at odd hours.</li>
                     <li>Visits to your workplace or relatives' homes.</li>
@@ -241,7 +241,7 @@ export default function ChennaiLoanSettlementPage() {
                   </ul>
                 </div>
                 <div className="bg-white p-6 rounded-2xl shadow-sm border border-blue-100">
-                  <h4 className="font-black text-blue-600 mb-2 font-mono tracking-tighter text-xs uppercase">The SettleLoans Shield</h4>
+                  <h5 className="font-black text-blue-600 mb-2 font-mono tracking-tighter text-xs uppercase">The SettleLoans Shield</h5>
                   <ul className="text-xs space-y-2 opacity-80 list-disc pl-4">
                     <li>We issue an immediate "Notice of Representation."</li>
                     <li>We document all illegal calls and physical visits.</li>
@@ -255,7 +255,7 @@ export default function ChennaiLoanSettlementPage() {
             </section>
 
             <section id="settlement-mechanics" className="scroll-mt-32 mb-20">
-              <h2 className="text-3xl font-black mb-8 text-black leading-tight tracking-tighter uppercase">The Mechanics of a Successful Chennai Loan Settlement</h2>
+              <h3 className="text-3xl font-black mb-8 text-black leading-tight tracking-tighter uppercase">The Mechanics of a Successful Chennai Loan Settlement</h3>
               <p className="mb-8">A loan settlement in Chennai isn't just about paying "less." It's about a strategic exit that clears your name and stops future litigation. Many borrowers try to settle themselves and end up paying "Settlement Installments" that aren't reflected in the system, or they receive fake "No Dues Certificates" from rogue agents. A professional settlement through SettleLoans involves a high-level 5-Step Process:</p>
               <ol className="space-y-6 mb-10 list-decimal pl-6 font-medium">
                 <li><strong className="text-black">Pre-Audit & Verification:</strong> We analyze your total dues. Banks often add "Bounce Charges" and "Penal Interest" exponentially. We strip these away to calculate the actual principal owed - this is our starting point for negotiation.</li>
@@ -268,7 +268,7 @@ export default function ChennaiLoanSettlementPage() {
             </section>
 
             <section id="rbi-ots-chennai" className="scroll-mt-32 mb-20 bg-blue-900/5 p-10 rounded-3xl border border-blue-900/10">
-              <h2 className="text-3xl font-black mb-8 text-blue-900 uppercase tracking-tighter">The RBI OTS Framework: Your Legal Right in Chennai</h2>
+              <h3 className="text-3xl font-black mb-8 text-blue-900 uppercase tracking-tighter">The RBI OTS Framework: Your Legal Right in Chennai</h3>
               <p className="mb-8">Many banks in Chennai try to keep the One-Time Settlement (OTS) options hidden from the general public. However, the Reserve Bank of India (RBI) has issued several circulars, including the landmark "Prudential Framework for Resolution of Stressed Assets," which provides a clear path for "Compromise Settlements." For a Chennai borrower, this means that if you can prove genuine financial hardship (like a medical crisis in a Greames Road hospital or a job loss in an OMR tech park), the bank has the regulatory backing to offer you a massive discount on your dues.</p>
               <p className="mb-8">We leverage the RBI's <strong>Master Circular on Recovery and Settlement</strong> to protect our Chennai clients. We argue that for the bank, a 40% recovery today is better than a 0% recovery after 5 years of litigation in a crowded Chennai court. We use the bank's own internal "NPAs Policy" (which they are required to have by the RBI) to push for the absolute floor price of your debt. In Chennai's competitive banking environment, banks are often eager to clean up their balance sheets before the end of a financial quarter. We use this timing to your advantage, often securing settlements during the March or September banking cycles that would be impossible at other times of the year.</p>
               <p className="mb-0 font-bold">Key RBI Protections we enforce for you:</p>
@@ -289,7 +289,7 @@ export default function ChennaiLoanSettlementPage() {
             </section>
 
             <section id="omr-it-debt-crisis" className="scroll-mt-32 mb-20 bg-blue-50/20 p-10 rounded-3xl border border-blue-100">
-              <h2 className="text-3xl font-black mb-8 text-[#1F5EFF] uppercase tracking-tighter">The OMR & GST Road Crisis: IT Professionals Under Pressure</h2>
+              <h3 className="text-3xl font-black mb-8 text-[#1F5EFF] uppercase tracking-tighter">The OMR & GST Road Crisis: IT Professionals Under Pressure</h3>
               <p className="mb-8">Old Mahabalipuram Road (OMR) and Grand Southern Trunk (GST) Road are the lifelines of modern Chennai, housing thousands of tech companies and millions of dreams. However, the last few years have seen a surge in "lifestyle debt" among young IT professionals in these corridors. Lured by "easy credit" offered by app-based lenders and pre-approved cards, many find themselves in a cycle where 70% of their salary goes toward EMIs before they even pay for their rent in areas like Perungudi or Thoraipakkam.</p>
               <p className="mb-8 font-bold">The IT Sector Debt Patterns we see in Chennai:</p>
               <ul className="space-y-4 mb-8">
@@ -310,28 +310,28 @@ export default function ChennaiLoanSettlementPage() {
             </section>
 
             <section id="manufacturing-debt-oragadam" className="scroll-mt-32 mb-20">
-              <h2 className="text-3xl font-black mb-8 text-black border-l-8 border-orange-500 pl-6 uppercase tracking-tighter">Oragadam & Sriperumbudur: Protecting the Manufacturing Workforce</h2>
+              <h3 className="text-3xl font-black mb-8 text-black border-l-8 border-orange-500 pl-6 uppercase tracking-tighter">Oragadam & Sriperumbudur: Protecting the Manufacturing Workforce</h3>
               <p className="mb-8">Chennai's industrial backbone - stretching from Oragadam to Sriperumbudur and down to the GST road - is populated by a massive workforce that is highly vulnerable to "Over-leveraging." With salaries often dependent on overtime (OT) and shifting production schedules, many manufacturing employees find themselves unable to meet EMIs when the "OT" hours are slashed or a project is temporarily halted. This leads to a desperate scramble for app-based loans, which quickly spiral into unmanageable debts.</p>
               <p className="mb-8">We represent dozens of workers from Chennai's automotive and electronics giants. These employees often face unique harassment: recovery agents calling the HR department or waiting at the factory gates. SettleLoans provides a "Steel Shield" for the manufacturing workforce. We intervene legally, informing the banks about the fluctuating income of the industrial sector and negotiating settlements that match the borrower's actual repayment capacity, not their former 'full-OT' CTC.</p>
               <p className="mb-0 italic text-sm">Industrial Alert: If you work in an Oragadam factory and are being harassed at your workplace, remember that factory premises are private and controlled. You have the right to request your security to bar the entry of unauthorized recovery personnel. Contact SettleLoans for a formal notice to your HR to preempt any negative reports on your professional record.</p>
             </section>
 
             <section id="tnslsa-legal-aid" className="scroll-mt-32 mb-20">
-              <h2 className="text-3xl font-black mb-8 text-black border-l-8 border-[#1F5EFF] pl-6 uppercase tracking-tighter">Tamil Nadu Legal Aid: Justice for Every Income Bracket</h2>
+              <h3 className="text-3xl font-black mb-8 text-black border-l-8 border-[#1F5EFF] pl-6 uppercase tracking-tighter">Tamil Nadu Legal Aid: Justice for Every Income Bracket</h3>
               <p className="mb-6">A common misconception in Chennai is that "only the rich can afford legal defense against banks." The Tamil Nadu State Legal Services Authority (TNSLSA) shattered this myth decades ago. Under the Legal Services Authorities Act, 1987, any resident of Tamil Nadu whose <span className="text-[#1F5EFF] font-black">annual income is below ₹3,00,000</span> is entitled to free legal services. This includes free legal advice, representation by an advocate in any court, and payment of court fees.</p>
               <p className="mb-6">The TNSLSA operates out of the High Court premises in Chennai and has cells in every district court like George Town and Egmore. If you are struggling with a personal loan default, you don't have to face the bank's massive legal team alone. You can apply for legal aid, and a panel lawyer will be appointed to defend your case. At SettleLoans, we act as a bridge for those who might not qualify for government aid but still need affordable, expert representation. We leverage the same principles of "Equal Justice" to ensure that no bank can bully a Chennai borrower into an unfair repayment schedule.</p>
               <p className="mb-10 text-gray-600 italic">"The essence of the TNSLSA is to ensure that opportunities for securing justice are not denied to any citizen by reason of economic or other disabilities. Whether you use SettleLoans or the TNSLSA, silence is your worst enemy - speak up and seek legal help."</p>
             </section>
 
             <section id="anna-salai-banking" className="scroll-mt-32 mb-20 bg-emerald-50/20 p-10 rounded-3xl border border-emerald-100">
-              <h2 className="text-3xl font-black mb-8 text-emerald-800 uppercase tracking-tighter">Anna Salai & Nungambakkam: The Hubs of Power Negotiation</h2>
+              <h3 className="text-3xl font-black mb-8 text-emerald-800 uppercase tracking-tighter">Anna Salai & Nungambakkam: The Hubs of Power Negotiation</h3>
               <p className="mb-8">In Chennai, your local branch manager might say "I don't have the power to settle." They are technically right. The real settlement authority (the "Waiver Power") for most banks in South India resides in their Zonal or Regional Offices, primarily located in the Anna Salai (Mount Road) and Nungambakkam corridors. From the Indian Overseas Bank (IOB) Central Office to the SBI Local Head Office and the regional headquarters of private giants like AXIS and ICICI, this 5-kilometer radius is where your debt's fate is decided.</p>
               <p className="mb-8">Negotiating at this level requires a different language. It's not about making a "payment request"; it's about presenting a "Resolution Portfolio under RBI Prudential Guidelines." Banks in Chennai's corporate hubs are managed by experienced Zonal Managers who understand the cost of litigation and the burden of NPAs (Non-Performing Assets). When SettleLoans approaches these offices in Anna Salai, we bring the cumulative leverage of hundreds of cases. We speak the language of 'recovery cost vs. time value of money,' which often moves the needle from a 20% waiver to a massive 60% or 70% settlement.</p>
               <p className="mb-8">Our Chennai team physically visits these regional hubs to ensure your file is moving through the correct channels. We bypass the aggressive third-party collection agencies and speak directly to the Zonal Nodal Officers. This "Top-Down" negotiation is the secret to the deep waivers we secure for our Chennai clients. Proximity to power is leverage - and in Chennai, we are at the center of it.</p>
             </section>
 
             <section id="client-testimonials" className="scroll-mt-32 mb-20 bg-[#f8faff] p-10 rounded-[40px] border border-blue-50">
-              <h2 className="text-3xl font-black mb-12 text-center text-[#1F5EFF] uppercase tracking-tighter">Chennai Reclaimed: Reviews from Your Neighbors</h2>
+              <h3 className="text-3xl font-black mb-12 text-center text-[#1F5EFF] uppercase tracking-tighter">Chennai Reclaimed: Reviews from Your Neighbors</h3>
               <div className="grid gap-8 md:grid-cols-2">
                 {[
                   { name: "Karthik Subramanian", location: "Anna Nagar", stars: 5, text: "SettleLoans helped me close my mounting credit card debt of 15 Lakhs in Chennai. Their negotiation with the bank at Anna Salai was top-notch. I secured a 60% waiver and the harassment stopped instantly." },
@@ -363,14 +363,14 @@ export default function ChennaiLoanSettlementPage() {
             </section>
 
             <section id="court-defense-egmore" className="scroll-mt-32 mb-20">
-              <h2 className="text-3xl font-black mb-8 text-black border-l-8 border-[#1F5EFF] pl-6 uppercase tracking-tighter">George Town & Egmore: Defending Section 138 & Arbitration</h2>
+              <h3 className="text-3xl font-black mb-8 text-black border-l-8 border-[#1F5EFF] pl-6 uppercase tracking-tighter">George Town & Egmore: Defending Section 138 & Arbitration</h3>
               <p className="mb-8">If you have received a summons from the George Town Magistrate Court or the Egmore Court, do not panic. These are the primary venues where banks file Section 138 (Cheque Bounce) cases in Chennai. Increasingly, banks also use Section 25 of the Payment and Settlement Systems Act (ECS/NACH bounce). These are technical proceedings used as a pressure tactic to force a settlement. In Chennai's congested judicial system, these cases can drag on for years, adding immense stress to the borrower's life.</p>
               <p className="mb-8">Our legal defense strategy in Chennai courts is focused on "Procedural Leverage." We meticulously examine the statutory notice period, the authorization of the bank representative, and the specific nature of the debt. Often, the amount claimed by the bank includes illegal "compound interest over penalties" which we challenge successfully. Our goal in the Chennai Magistrate courts is to steer the matter toward a <strong>Compromise Decree</strong>. By proving the borrower's genuine financial hardship and the bank's own procedural lapses, we often force the lender to settle for just the principal amount, ending the criminal proceedings permanently.</p>
               <p className="mb-8">We also specialize in challenging <strong>Arbitration Awards</strong>. Many Chennail-based NBFCs (Non-Banking Financial Companies) conduct 'Ex-Parte' arbitration in small rooms, passing awards that are heavily biased. We help you challenge these under Section 34 of the Arbitration and Conciliation Act in the High Court or the City Civil Court, ensuring that the bank doesn't get to be the judge, jury, and executioner in your case.</p>
             </section>
 
             <section id="lok-adalat-chennai-2026" className="scroll-mt-32 mb-20">
-              <h2 className="text-3xl font-black mb-8 text-black uppercase tracking-tight">Chennai Lok Adalat 2026: Your Roadmap to Closure</h2>
+              <h3 className="text-3xl font-black mb-8 text-black uppercase tracking-tight">Chennai Lok Adalat 2026: Your Roadmap to Closure</h3>
               <p className="mb-8">The National Lok Adalat, organized by the Tamil Nadu State Legal Services Authority (TNSLSA), is the most effective forum for Chennai residents to settle bank disputes. In 2026, the schedule is set to provide four major opportunities for debt resolution. These sessions are perfect for cases pending in George Town, Egmore, or the City Civil Courts.</p>
               <div className="bg-white border-2 border-[#DEDEDE] rounded-2xl overflow-hidden mb-10 shadow-md">
                 <div className="bg-[#2E2E2E] text-white p-5 font-black text-center text-xl tracking-widest">2026 CHENNAI NATIONAL LOK ADALAT CALENDAR</div>
@@ -397,12 +397,12 @@ export default function ChennaiLoanSettlementPage() {
             </section>
 
             <section id="chennai-success-stories" className="scroll-mt-32 mb-20 bg-gray-50 p-12 rounded-[40px] border border-[#DEDEDE]">
-              <h2 className="text-4xl font-black mb-12 text-center text-[#1F5EFF] uppercase tracking-tighter">Chennai Success Stories: Real People, Real Freedom</h2>
+              <h3 className="text-4xl font-black mb-12 text-center text-[#1F5EFF] uppercase tracking-tighter">Chennai Success Stories: Real People, Real Freedom</h3>
               <div className="space-y-10">
                 <div className="bg-white p-8 rounded-2xl shadow-sm border border-[#DEDEDE]">
                   <div className="flex justify-between items-start mb-6">
                     <div>
-                      <h3 className="text-xl font-black text-black">IT Lead, Siruseri IT Park</h3>
+                      <h4 className="text-xl font-black text-black">IT Lead, Siruseri IT Park</h4>
                       <p className="text-sm text-gray-500 italic">Situation: Project layoff & health crisis in family</p>
                     </div>
                     <div className="bg-red-50 text-red-600 px-4 py-1 rounded-full text-xs font-black font-mono tracking-tighter">Debt: ₹18.5 Lakhs</div>
@@ -413,7 +413,7 @@ export default function ChennaiLoanSettlementPage() {
                 <div className="bg-white p-8 rounded-2xl shadow-sm border border-[#DEDEDE]">
                   <div className="flex justify-between items-start mb-6">
                     <div>
-                      <h4 className="text-xl font-black text-black">SME Owner, Chennai George Town</h4>
+                      <h5 className="text-xl font-black text-black">SME Owner, Chennai George Town</h5>
                       <p className="text-sm text-gray-500 italic">Industry: Textile Wholesale (GST Impact)</p>
                     </div>
                     <div className="bg-red-50 text-red-600 px-4 py-1 rounded-full text-xs font-black font-mono tracking-tighter">Debt: ₹34 Lakhs</div>
@@ -424,7 +424,7 @@ export default function ChennaiLoanSettlementPage() {
                 <div className="bg-white p-8 rounded-2xl shadow-sm border border-[#DEDEDE]">
                   <div className="flex justify-between items-start mb-6">
                     <div>
-                      <h4 className="text-xl font-black text-black">Manufacturing Lead, Oragadam</h4>
+                      <h5 className="text-xl font-black text-black">Manufacturing Lead, Oragadam</h5>
                       <p className="text-sm text-gray-500 italic">Situation: Reduced OT & Overleveraged with App Loans</p>
                     </div>
                     <div className="bg-red-50 text-red-600 px-4 py-1 rounded-full text-xs font-black font-mono tracking-tighter">Debt: ₹9.2 Lakhs</div>
@@ -436,7 +436,7 @@ export default function ChennaiLoanSettlementPage() {
             </section>
 
             <section id="chennai-faqs" className="scroll-mt-32 mb-20">
-              <h2 className="text-3xl font-black mb-12 uppercase tracking-tighter">Chennai Debt Relief: Frequently Asked Questions</h2>
+              <h3 className="text-3xl font-black mb-12 uppercase tracking-tighter">Chennai Debt Relief: Frequently Asked Questions</h3>
               <div className="space-y-6">
                 {[
                   { q: "Is a loan settlement legal under RBI rules in Tamil Nadu?", a: "Absolutely. The RBI's 'Prudential Framework for Resolution of Stressed Assets' explicitly allows banks and NBFCs to enter into compromise settlements with borrowers to maximize recovery. It is a standard, legal financial process." },
@@ -473,7 +473,7 @@ export default function ChennaiLoanSettlementPage() {
             <section id="get-started" className="scroll-mt-32 mt-24">
               <div className="bg-[#2E2E2E] rounded-[48px] p-12 text-center relative overflow-hidden shadow-2xl border border-white/10">
                  <div className="absolute bottom-0 left-0 w-64 h-64 bg-[#1F5EFF]/5 rounded-full -ml-32 -mb-32 blur-3xl"></div>
-                 <h2 className="text-3xl md:text-5xl font-black text-white mb-6 uppercase tracking-tighter">A New Financial Chapter in Chennai Awaits</h2>
+                 <h3 className="text-3xl md:text-5xl font-black text-white mb-6 uppercase tracking-tighter">A New Financial Chapter in Chennai Awaits</h3>
                  <p className="text-white/70 mb-10 text-xl max-w-2xl mx-auto leading-relaxed">Join 12,000+ Chennai residents who have reclaimed their peace of mind. Stop the harassment and start your journey toward a debt-free life today.</p>
                  <div className="flex flex-col sm:flex-row gap-6 justify-center">
                     <Link href="/contact" className="bg-[#1F5EFF] text-white font-black py-5 px-14 rounded-2xl hover:scale-110 transition-all text-xl shadow-xl uppercase tracking-widest leading-none">

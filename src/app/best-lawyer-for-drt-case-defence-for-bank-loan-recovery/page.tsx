@@ -274,21 +274,21 @@ export default function DRTCaseDefencePage() {
                         </section>
 
                         <section id="npa-audit" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                                 NPA Classification Audit: <span className="text-[#1F5EFF]">The First Line of Defence</span>
-                            </h2>
+                            </h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 The entire SARFAESI recovery process depends on one single event: the classification of the account as a Non-Performing Asset (NPA). If the NPA classification is illegal, every notice issued after that—the Section 13(2) demand, the 13(4) possession, and the auction notice—is legally void. Most banks use automated systems to tag accounts, and these systems often ignore crucial details.
                             </p>
                             <div className="grid md:grid-cols-2 gap-6 my-10">
                                 <div className="bg-gray-50 p-6 rounded-xl border border-gray-200">
-                                    <h3 className="text-xl font-bold text-[#2E2E2E] mb-4">The 90-Day Rule Breach</h3>
+                                    <h4 className="text-xl font-bold text-[#2E2E2E] mb-4">The 90-Day Rule Breach</h4>
                                     <p className="text-sm text-gray-600 leading-relaxed">
                                         An account can only be an NPA if the interest or principal is overdue for more than 90 days. We look for 'Partial Payments' that were made but credited to the wrong head, effectively resetting the 90-day clock. If the bank tagged you on day 89, the entire case is quashed.
                                     </p>
                                 </div>
                                 <div className="bg-gray-50 p-6 rounded-xl border border-gray-200">
-                                    <h3 className="text-xl font-bold text-[#2E2E2E] mb-4">MSME Restructuring Rights</h3>
+                                    <h4 className="text-xl font-bold text-[#2E2E2E] mb-4">MSME Restructuring Rights</h4>
                                     <p className="text-sm text-gray-600 leading-relaxed">
                                         Under RBI guidelines for MSMEs, banks must consider restructuring stressed accounts before tagging them as NPAs. If your bank didn't offer a 'Stress Rehabilitation' plan as per the MSME Framework 2016, we challenge the NPA status as a violation of mandatory social policy.
                                     </p>
@@ -303,14 +303,14 @@ export default function DRTCaseDefencePage() {
                         </section>
 
                         <section id="sarfaesi-defects" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                                 SARFAESI Defects: <span className="text-[#1F5EFF]">Turning Technicalities into Victories</span>
-                            </h2>
+                            </h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 The SARFAESI Act allows banks to take property without going to a regular court. This is a massive power, and because it is so extreme, the courts demand 'Punctilious Compliance'. Any deviation from the SARFAESI (Enforcement) Rules, 2002, is treated as a breach of 'Due Process'. We look for 'Lethal Defects' in three specific areas:
                             </p>
                             <div className="bg-blue-50 p-8 rounded-2xl border border-blue-100 my-8">
-                                <h3 className="font-bold text-blue-900 mb-4 text-xl">The 'Fatal Five' SARFAESI Errors:</h3>
+                                <h4 className="font-bold text-blue-900 mb-4 text-xl">The 'Fatal Five' SARFAESI Errors:</h4>
                                 <ul className="space-y-4">
                                     <li className="flex items-start gap-3 text-blue-800">
                                         <div className="w-6 h-6 rounded-full bg-blue-600 text-white flex items-center justify-center font-bold flex-shrink-0 mt-0.5 text-xs">1</div>
@@ -340,15 +340,15 @@ export default function DRTCaseDefencePage() {
                         </section>
 
                         <section id="section-13-3a" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                                 Section 13(3A): The <span className="text-[#1F5EFF]">Killer Objection Strategy</span>
-                            </h2>
+                            </h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 Many borrowers ignore the Section 13(2) demand notice, waiting for the tribunal case to start. This is a strategic error. The Law (specifically Section 13(3A)) gives you a right to file an 'Objection or Representation'. This is not just a letter; it is a legal trap for the bank.
                             </p>
                             <div className="bg-[#2E2E2E] text-white p-8 rounded-2xl shadow-lg my-10 relative overflow-hidden">
                                 <div className="absolute top-0 right-0 w-40 h-40 bg-white/5 rounded-bl-full -mr-20 -mt-20"></div>
-                                <h3 className="text-2xl font-bold mb-6 relative z-10">The Reasoned Reply Mandate</h3>
+                                <h4 className="text-2xl font-bold mb-6 relative z-10">The Reasoned Reply Mandate</h4>
                                 <p className="text-lg opacity-80 mb-6 relative z-10">
                                     Once we file our detailed objection (challenging interest, NPA status, and property details), the bank MUST send a 'Reasoned Reply' within 15 days. If the bank sends a 'Stereotype' or 'Mechanical' reply like "Your objections are denied", they have failed the law. If they don't reply at all, the entire proceeding is 'Abortive'.
                                 </p>
@@ -365,9 +365,9 @@ export default function DRTCaseDefencePage() {
                         </section>
 
                         <section id="auction-stays" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                                 Breaking the Auction: <span className="text-[#1F5EFF]">Interim Relief and Stay Orders</span>
-                            </h2>
+                            </h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 The most stressful part of a DRT case is the 'Sale Notice'. The sight of your property in a newspaper auction advertisement can be devastating. However, an auction notice is the most vulnerable document in the bank's entire recovery file. The 'SARFAESI Sale Rules' are incredibly rigid, and banks often cut corners to finish their quarterly recovery targets.
                             </p>
@@ -375,7 +375,7 @@ export default function DRTCaseDefencePage() {
                                 To stay an auction, we file a 'Securitisation Application' (SA) combined with an 'Interim Stay Application' (IA). We don't just ask for mercy; we point out specific rule violations. For example, Rule 8(6) requires a 30-day notice for the first sale, and Rule 9(1) requires a 15-day notice for subsequent sales. If the bank counted 29 days instead of 30, the auction cannot proceed.
                             </p>
                             <div className="bg-amber-50 p-8 rounded-xl border border-amber-200 my-8">
-                                <h3 className="text-xl font-bold text-amber-900 mb-4">The "Pre-Deposit" Myth at Stay Stage</h3>
+                                <h4 className="text-xl font-bold text-amber-900 mb-4">The "Pre-Deposit" Myth at Stay Stage</h4>
                                 <p className="text-sm text-amber-800 leading-relaxed mb-4">
                                     Many borrowers believe they must pay 50% of the debt to even get a hearing in DRT. This is NOT true for the initial stay. While an appeal to the DRAT (Appellate Tribunal) requires a 50% deposit, the DRT (Original Tribunal) can hear your case and even grant a stay with much smaller deposits, or sometimes no deposit if we prove a 'Prima Facie' illegality.
                                 </p>
@@ -389,9 +389,9 @@ export default function DRTCaseDefencePage() {
                         </section>
 
                         <section id="valuation-fraud" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                                 Valuation Fraud Defense: <span className="text-[#1F5EFF]">Protecting Your Equity</span>
-                            </h2>
+                            </h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 The most common 'Quiet Fraud' in bank recovery is the 'Reserve Price' manipulation. Banks often want to sell a property quickly to avoid carrying an NPA. To do this, they convince their 'Panel Valuer' to provide a low valuation report. If your Crore-worth property is being auctioned for 60 Lakhs, the bank gets its dues, but you lose your entire life's equity.
                             </p>
@@ -421,9 +421,9 @@ export default function DRTCaseDefencePage() {
                         </section>
 
                         <section id="msme-drt-rights" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                                 MSME Special Rights: <span className="text-[#1F5EFF]">The 2024-2025 Defence Landscape</span>
-                            </h2>
+                            </h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 For MSME borrowers, the DRT landscape is changing rapidly. The Finance Ministry and RBI have introduced 'Stressed Asset Frameworks' that banks must follow. A bank cannot simply initiate SARFAESI against an MSME without first exploring the 'MSME Committee' restructuring route if the loan is up to 25 Crores.
                             </p>
@@ -431,7 +431,7 @@ export default function DRTCaseDefencePage() {
                                 We help MSME owners use their 'Registration' as a shield. If the bank ignored your 'Restructuring Request' or didn't follow the 'Priority Sector Lending' (PSL) guidelines regarding collateral-free loans up to certain limits, we raise these as 'Violations of Mandatory Directions'. The DRT is increasingly sympathetic to genuine MSMEs facing systemic hurdles.
                             </p>
                             <div className="bg-gray-50 border border-gray-200 p-8 rounded-2xl mb-8">
-                                <h3 className="text-xl font-bold mb-4 text-[#1F5EFF]">Technical Leverage for Businesses:</h3>
+                                <h4 className="text-xl font-bold mb-4 text-[#1F5EFF]">Technical Leverage for Businesses:</h4>
                                 <p className="mb-4 text-gray-700 leading-relaxed text-sm">
                                     MSMEs can also transition their disputes to the MSME Facilitation Council (MSEFC) if the lender has committed breaches that involve 'Delayed Payments' or 'Counter-Claims' for losses. By creating a 'Concurrent Jurisdiction' scenario, we force the bank to think twice before proceeding with an aggressive property seizure.
                                 </p>
@@ -439,13 +439,13 @@ export default function DRTCaseDefencePage() {
                         </section>
 
                         <section id="success-stories" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 text-center">Real Case Victories</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 text-center">Real Case Victories</h3>
                             <div className="grid md:grid-cols-2 gap-6 not-prose">
                                 <div className="bg-white p-8 rounded-2xl border border-[#DEDEDE] shadow-sm">
                                     <div className="flex items-center mb-6">
                                         <div className="w-12 h-12 bg-blue-100 rounded-full flex items-center justify-center font-bold text-blue-600 mr-4">K</div>
                                         <div>
-                                            <h3 className="font-bold text-[#2E2E2E]">Homeowner, Ahmedabad</h3>
+                                            <h4 className="font-bold text-[#2E2E2E]">Homeowner, Ahmedabad</h4>
                                             <p className="text-xs text-gray-400 uppercase tracking-widest font-bold">Wrongful NPA Quashed</p>
                                         </div>
                                         <div className="ml-auto text-yellow-400 text-sm flex gap-0.5">
@@ -463,7 +463,7 @@ export default function DRTCaseDefencePage() {
                                     <div className="flex items-center mb-6">
                                         <div className="w-12 h-12 bg-blue-100 rounded-full flex items-center justify-center font-bold text-blue-600 mr-4">L</div>
                                         <div>
-                                            <h4 className="font-bold text-[#2E2E2E]">Logistics CEO, Chennai</h4>
+                                            <h5 className="font-bold text-[#2E2E2E]">Logistics CEO, Chennai</h5>
                                             <p className="text-xs text-gray-400 uppercase tracking-widest font-bold">Auction Defeat</p>
                                         </div>
                                         <div className="ml-auto text-yellow-400 text-sm flex gap-0.5">
@@ -481,7 +481,7 @@ export default function DRTCaseDefencePage() {
                         </section>
 
                         <section id="faqs" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Frequently Asked Questions</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Frequently Asked Questions</h3>
                             <div className="space-y-4 not-prose">
                                 {jsonLd["@graph"] && jsonLd["@graph"][4] && (jsonLd["@graph"][4] as any).mainEntity && (jsonLd["@graph"][4] as any)?.mainEntity?.map((faq: any, i: number) => (
                                     <details key={i} className="group bg-white border border-[#DEDEDE] rounded-xl overflow-hidden hover:shadow-md transition-all border-b-4 border-b-[#1F5EFF]/20">
@@ -501,7 +501,7 @@ export default function DRTCaseDefencePage() {
 
                         <div className="mt-24 p-12 bg-[#2E2E2E] rounded-[32px] text-center text-white shadow-2xl relative overflow-hidden">
                             <div className="absolute top-0 left-0 w-full h-1 bg-[#1F5EFF]"></div>
-                            <h2 className="text-3xl md:text-5xl font-black mb-6">Take Control of Your DRT Case</h2>
+                            <h3 className="text-3xl md:text-5xl font-black mb-6">Take Control of Your DRT Case</h3>
                             <p className="text-lg md:text-xl opacity-70 mb-10 max-w-2xl mx-auto leading-relaxed">
                                 Don't let a default define your future. Our technical DRT defense team identifies the bank's errors to protect your home, your business, and your dignity.
                             </p>

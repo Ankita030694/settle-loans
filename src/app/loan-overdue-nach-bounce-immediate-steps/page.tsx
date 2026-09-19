@@ -254,7 +254,7 @@ export default function NachBouncePage() {
             </section>
 
             <section id="immediate-steps" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">3 Immediate Steps to Take</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">3 Immediate Steps to Take</h3>
               <p className="text-lg leading-relaxed mb-6">
                 If your mandate has just bounced, every single day counts. Lenders may re-present the mandate within 48 hours, resulting in double penalties. Here are the immediate steps you must take to protect your finances.
               </p>
@@ -263,7 +263,7 @@ export default function NachBouncePage() {
                 <div className="flex gap-6">
                   <div className="flex-shrink-0 w-12 h-12 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center font-black text-xl shadow-lg">1</div>
                   <div>
-                    <h3 className="text-2xl font-bold text-[#2E2E2E] mb-3">Revoke or Stop the NACH Mandate</h3>
+                    <h4 className="text-2xl font-bold text-[#2E2E2E] mb-3">Revoke or Stop the NACH Mandate</h4>
                     <p className="text-lg text-gray-700 leading-relaxed">
                       Your first line of defense is to log into your internet banking portal or visit your home branch to formally revoke or pause the NACH mandate. Under RBI guidelines, a customer has the right to withdraw a mandate to stop auto-debits, even though the lender might still consider the EMI unpaid.
                     </p>
@@ -273,7 +273,7 @@ export default function NachBouncePage() {
                 <div className="flex gap-6">
                   <div className="flex-shrink-0 w-12 h-12 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center font-black text-xl shadow-lg">2</div>
                   <div>
-                    <h3 className="text-2xl font-bold text-[#2E2E2E] mb-3">Communicate in Writing</h3>
+                    <h4 className="text-2xl font-bold text-[#2E2E2E] mb-3">Communicate in Writing</h4>
                     <p className="text-lg text-gray-700 leading-relaxed">
                       Send a formal email to your lender stating your financial hardship. Clearly explicitly mention that you do not have sufficient funds and request them <strong className="font-bold text-black">not to re-present the NACH mandate</strong>. This creates a paper trail proving that any subsequent bounce charges were levied despite your prior intimation.
                     </p>
@@ -283,7 +283,7 @@ export default function NachBouncePage() {
                 <div className="flex gap-6">
                   <div className="flex-shrink-0 w-12 h-12 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center font-black text-xl shadow-lg">3</div>
                   <div>
-                    <h3 className="text-2xl font-bold text-[#2E2E2E] mb-3">Transfer Remaining Balances</h3>
+                    <h4 className="text-2xl font-bold text-[#2E2E2E] mb-3">Transfer Remaining Balances</h4>
                     <p className="text-lg text-gray-700 leading-relaxed">
                       If you have minimal funds in your account meant for survival or basic expenses, transfer them to a different account. Banks often automatically debit these funds to recover pending bounce fees, leaving you with absolutely zero liquidity.
                     </p>
@@ -293,9 +293,9 @@ export default function NachBouncePage() {
             </section>
 
             <section id="bounce-charges" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">Understanding NACH Bounce Charges</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">Understanding NACH Bounce Charges</h3>
               <div className="bg-blue-50 border-l-8 border-[#1F5EFF] p-8 rounded-r-2xl mb-8">
-                <h3 className="text-xl font-black text-[#1F5EFF] mb-4">The Dual-Penalty System</h3>
+                <h4 className="text-xl font-black text-[#1F5EFF] mb-4">The Dual-Penalty System</h4>
                 <p className="text-lg text-gray-800 leading-relaxed mb-4">
                   A common misconception is that you only pay a single fee for a bounced EMI. In reality, a NACH bounce triggers a dual-penalty system:
                 </p>
@@ -313,24 +313,24 @@ export default function NachBouncePage() {
 
               <div className="grid md:grid-cols-2 gap-6 my-8">
                 <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
-                  <h4 className="font-black text-[#1F5EFF] text-lg mb-3">Re-Presentation Cycle</h4>
+                  <h5 className="font-black text-[#1F5EFF] text-lg mb-3">Re-Presentation Cycle</h5>
                   <p className="text-base text-gray-700">Lenders may present the mandate 3-4 times a month. Each failure results in a fresh set of bounce charges from your bank, quickly putting your account in a negative balance.</p>
                 </div>
                 <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
-                  <h4 className="font-black text-[#1F5EFF] text-lg mb-3">Negative Balances</h4>
+                  <h5 className="font-black text-[#1F5EFF] text-lg mb-3">Negative Balances</h5>
                   <p className="text-base text-gray-700">If your account balance goes into the negative due to penalty fees, any future deposit (like your salary) will immediately be swallowed to clear the negative balance first.</p>
                 </div>
               </div>
             </section>
 
             <section id="ecs-return" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">ECS Return on Personal Loans</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">ECS Return on Personal Loans</h3>
               <p className="text-lg leading-relaxed mb-6">
                 An <strong className="font-bold">ECS return personal loan</strong> scenario is virtually identical to a NACH bounce. When the Electronic Clearing Service fails, the legal implications escalate. If you fail to repay an unsecured personal loan, lenders use the ECS mandate failure as grounds to initiate legal notices.
               </p>
               
               <div className="bg-red-50 p-6 rounded-xl border border-red-100 mb-8">
-                <h3 className="text-xl font-black text-red-700 mb-3">Section 25 of the PSS Act</h3>
+                <h4 className="text-xl font-black text-red-700 mb-3">Section 25 of the PSS Act</h4>
                 <p className="text-lg text-red-900 leading-relaxed">
                   Similar to a cheque bounce under Section 138 of the Negotiable Instruments Act, the dishonour of an electronic funds transfer can attract legal action under Section 25 of the Payment and Settlement Systems Act. Lenders use this to send threatening legal notices demanding immediate payment.
                 </p>
@@ -338,13 +338,13 @@ export default function NachBouncePage() {
             </section>
 
             <section id="stop-penalty" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">How to Stop NACH Bounce Penalty</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">How to Stop NACH Bounce Penalty</h3>
               <p className="text-lg leading-relaxed mb-6">
                 To definitively <strong className="font-bold">stop NACH bounce penalty</strong> charges, you need a proactive strategy. If you genuinely cannot pay the EMI, avoiding the issue will only compound your debt.
               </p>
 
               <div className="bg-gray-50 p-8 rounded-2xl mb-8 border border-gray-200">
-                <h3 className="text-xl font-black text-[#2E2E2E] mb-4">Effective Negotiation Strategies</h3>
+                <h4 className="text-xl font-black text-[#2E2E2E] mb-4">Effective Negotiation Strategies</h4>
                 <ul className="space-y-4">
                   <li className="flex items-start">
                     <div className="mt-1.5 w-2 h-2 rounded-full bg-gray-400 flex-shrink-0 mr-3"></div>
@@ -363,7 +363,7 @@ export default function NachBouncePage() {
             </section>
 
             <section id="success-stories" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">Success Stories</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">Success Stories</h3>
               <p className="text-lg leading-relaxed mb-8">
                 See how borrowers successfully stopped endless NACH bounces and legally settled their personal loans through expert intervention.
               </p>
@@ -384,7 +384,7 @@ export default function NachBouncePage() {
                       ))}
                     </div>
                   </div>
-                  <h3 className="text-xl font-bold text-[#2E2E2E] mb-2">Rahul V.</h3>
+                  <h4 className="text-xl font-bold text-[#2E2E2E] mb-2">Rahul V.</h4>
                   <p className="text-gray-600 mb-6 text-sm">Facing ₹15,000 in negative balance due to daily NACH re-presentations.</p>
                   <div className="flex flex-col gap-3">
                     <div className="flex justify-between items-center border-b border-gray-100 pb-2">
@@ -412,7 +412,7 @@ export default function NachBouncePage() {
                       ))}
                     </div>
                   </div>
-                  <h4 className="text-xl font-bold text-[#2E2E2E] mb-2">Neha K.</h4>
+                  <h5 className="text-xl font-bold text-[#2E2E2E] mb-2">Neha K.</h5>
                   <p className="text-gray-600 mb-6 text-sm">Threatened with Section 25 PSS Act notices for continuous ECS mandate returns.</p>
                   <div className="flex flex-col gap-3">
                     <div className="flex justify-between items-center border-b border-gray-100 pb-2">
@@ -430,7 +430,7 @@ export default function NachBouncePage() {
             </section>
 
             <section id="faq" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">Frequently Asked Questions</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">Frequently Asked Questions</h3>
               <div className="space-y-4">
                 {[
                   { q: "What is a NACH bounce?", a: "A NACH bounce happens when an auto-debit mandate fails due to insufficient funds in your bank account, resulting in penalty charges." },
@@ -461,9 +461,9 @@ export default function NachBouncePage() {
             <div className="bg-[#2E2E2E] text-white p-12 rounded-[40px] text-center mt-24 relative overflow-hidden group">
               <div className="absolute inset-0 bg-[#1F5EFF] opacity-0 group-hover:opacity-5 transition-opacity duration-500"></div>
               <div className="relative z-10">
-                <h3 className="text-3xl md:text-5xl font-black mb-6 leading-tight">
+                <h4 className="text-3xl md:text-5xl font-black mb-6 leading-tight">
                   Stop the Endless Cycle of NACH Bounce Penalties Today
-                </h3>
+                </h4>
                 <p className="text-xl md:text-2xl text-gray-300 mb-10 max-w-2xl mx-auto">
                   Did your auto-debit NACH mandate just bounce? Take these 3 immediate steps to stop the bank from charging you heavy penalty fees.
                 </p>

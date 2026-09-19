@@ -297,7 +297,7 @@ export default function CreditScoreDropPage() {
               </p>
               <div className="bg-[#f8faff] p-10 rounded-[30px] border border-blue-100 mb-12 relative overflow-hidden">
                 <div className="absolute top-0 right-0 w-40 h-40 bg-blue-100/50 rounded-full -mr-20 -mt-20"></div>
-                <h3 className="text-2xl font-bold mb-6 text-[#1F5EFF]">A Fundamental Truth to Remember</h3>
+                <h4 className="text-2xl font-bold mb-6 text-[#1F5EFF]">A Fundamental Truth to Remember</h4>
                 <p className="text-lg relative z-10 leading-relaxed text-gray-700 italic">
                   &quot;Your credit score is a reflection of how you might behave in the future, not just a certificate of what you did in the past. If your data suggests even a slight increase in potential risk, the algorithm will react with professional coldness, regardless of your perfect payment history. The system is designed to be predictive, often reacting to trends before you even notice them yourself.&quot;
                 </p>
@@ -305,9 +305,9 @@ export default function CreditScoreDropPage() {
             </section>
 
             <section id="cibil-logic-and-math" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 tracking-tighter">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 tracking-tighter">
                 Decoding the Math: How the Algorithm Actually Thinks
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 To understand why your score drops, you must first understand the weightage given to different factors by credit bureaus. While the exact formula is a closely guarded trade secret of TransUnion CIBIL, industry standards and historical analysis from thousands of reports allow us to build a very accurate model of how your score is constructed in the Indian financial ecosystem.
               </p>
@@ -315,28 +315,28 @@ export default function CreditScoreDropPage() {
                 <div className="bg-gray-50 p-6 rounded-2xl border border-gray-100 flex items-start gap-4 shadow-sm hover:shadow-md transition-shadow">
                   <div className="w-12 h-12 bg-[#1F5EFF] text-white rounded-xl flex items-center justify-center font-black flex-shrink-0">35%</div>
                   <div>
-                    <h3 className="font-bold text-[#2E2E2E]">Payment Discipline (Onboarding & Regularity)</h3>
+                    <h4 className="font-bold text-[#2E2E2E]">Payment Discipline (Onboarding & Regularity)</h4>
                     <p className="text-sm text-gray-500">The historical record of every single EMI and credit card bill. Even a one day delay can be fatal.</p>
                   </div>
                 </div>
                 <div className="bg-gray-50 p-6 rounded-2xl border border-gray-100 flex items-start gap-4 shadow-sm hover:shadow-md transition-shadow">
                   <div className="w-12 h-12 bg-[#2E2E2E] text-white rounded-xl flex items-center justify-center font-black flex-shrink-0">30%</div>
                   <div>
-                    <h4 className="font-bold text-[#2E2E2E]">Credit Exposure (Utilization Ratios)</h4>
+                    <h5 className="font-bold text-[#2E2E2E]">Credit Exposure (Utilization Ratios)</h5>
                     <p className="text-sm text-gray-500">The amount you currently owe relative to your limits. This is where most perfect payers fail.</p>
                   </div>
                 </div>
                 <div className="bg-gray-50 p-6 rounded-2xl border border-gray-100 flex items-start gap-4 shadow-sm hover:shadow-md transition-shadow">
                   <div className="w-12 h-12 bg-gray-400 text-white rounded-xl flex items-center justify-center font-black flex-shrink-0">15%</div>
                   <div>
-                    <h4 className="font-bold text-[#2E2E2E]">Credit Antiquity (History Length)</h4>
+                    <h5 className="font-bold text-[#2E2E2E]">Credit Antiquity (History Length)</h5>
                     <p className="text-sm text-gray-500">How long you have successfully managed credit. Experience is highly valued by bureaus.</p>
                   </div>
                 </div>
                 <div className="bg-gray-50 p-6 rounded-2xl border border-gray-100 flex items-start gap-4 shadow-sm hover:shadow-md transition-shadow">
                   <div className="w-12 h-12 bg-gray-300 text-white rounded-xl flex items-center justify-center font-black flex-shrink-0">20%</div>
                   <div>
-                    <h4 className="font-bold text-[#2E2E2E]">Inquiry Velocity & Portfolio Mix</h4>
+                    <h5 className="font-bold text-[#2E2E2E]">Inquiry Velocity & Portfolio Mix</h5>
                     <p className="text-sm text-gray-500">The balance between secure and unsecure debt and the frequency of your applications.</p>
                   </div>
                 </div>
@@ -350,9 +350,9 @@ export default function CreditScoreDropPage() {
             </section>
 
             <section id="utilization-trap" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 tracking-tighter">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 tracking-tighter">
                 1. The Credit Utilization Trap: Why Zero Balance Is Better Than Full Payment
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 This is the most frequent reason for score drops among high earners who pay in full. Credit utilization refers to the percentage of your total available credit limit that you use on a monthly basis. For example, if you have a premium credit card with a limit of 5,00,000 rupees and you spend 4,00,000 rupees on it for a family holiday, your utilization is 80%.
               </p>
@@ -366,7 +366,7 @@ export default function CreditScoreDropPage() {
                 Utilization is calculated both per card and across your entire credit profile. If you have three cards with 1 lakh limit each, and you max out one (100% utilization) while keeping the others at zero, your overall utilization might be 33%, but the 100% on the single card will still trigger a score drop. The algorithms are programmed to look for weakness in any single node of your financial network.
               </p>
               <div className="my-10 p-10 bg-[#1a1a1a] text-white rounded-[32px] border border-gray-800 shadow-2xl">
-                <h3 className="text-2xl font-black mb-6 text-red-500">The Math of Risk:</h3>
+                <h4 className="text-2xl font-black mb-6 text-red-500">The Math of Risk:</h4>
                 <div className="space-y-6">
                     <div>
                         <div className="flex justify-between mb-2">
@@ -395,9 +395,9 @@ export default function CreditScoreDropPage() {
             </section>
 
             <section id="the-snapshot-effect" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 tracking-tighter">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 tracking-tighter">
                 2. The Snapshot Date: The Secret War Between Your Calendar and Your Bank
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 Most people believe that as long as they pay before the 'Due Date', their record is clean. This is a dangerous half truth. To stop the drop, you must understand the 'Reporting Date' or 'Snapshot Date'.
               </p>
@@ -412,7 +412,7 @@ export default function CreditScoreDropPage() {
                     <FontAwesomeIcon icon={faExclamationTriangle} className="text-2xl" />
                 </div>
                 <div>
-                    <h3 className="font-black text-yellow-900 mb-1">Strategic Power Play:</h3>
+                    <h4 className="font-black text-yellow-900 mb-1">Strategic Power Play:</h4>
                     <p className="text-sm font-medium text-yellow-800 leading-relaxed text-left">
                         Identify your statement date for every card. Pay your balance down to below 10% exactly TWO DAYS BEFORE the statement is generated. This ensures the 'Snapshot' captures a low balance, skyrocketing your score while allowing you to use your credit freely for the rest of the month.
                     </p>
@@ -421,9 +421,9 @@ export default function CreditScoreDropPage() {
             </section>
 
             <section id="credit-hunger-inquiries" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 tracking-tighter">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 tracking-tighter">
                 3. Credit Hunger: How New Applications Bleed Your Score
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 When you apply for a new financial product, the lender initiates a 'Hard Inquiry' or a 'Hard Pull' on your credit report. This is a formal request to see your history for the purpose of lending. Each of these inquiries has a measurable negative impact on your score.
               </p>
@@ -441,9 +441,9 @@ export default function CreditScoreDropPage() {
             </section>
 
             <section id="closing-old-accounts" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 tracking-tighter">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 tracking-tighter">
                 4. Closing Old Accounts: The Price of Minimalism
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 In a quest to simplify life, many people close old, unused credit cards or pay off long term loans early. Paradoxically, this often leads to a score drop. This is because of two factors: Antiquity and Total Limit.
               </p>
@@ -456,9 +456,9 @@ export default function CreditScoreDropPage() {
             </section>
             
             <section id="bnpl-impact" className="scroll-mt-32 mb-16">
-               <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 tracking-tighter">
+               <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 tracking-tighter">
                 The Hidden Impact of BNPL Apps and 'Pay Later' Services
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 Services like Amazon Pay Later, Flipkart Pay Later, and smaller BNPL apps (Paytm Postpaid, LazyPay) are marketed as convenience tools. However, behind every 'Buy Now Pay Later' service is a real loan from a real NBFC (Non-Banking Financial Company).
               </p>
@@ -468,21 +468,21 @@ export default function CreditScoreDropPage() {
             </section>
 
             <section id="credit-mix-imbalance" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 tracking-tighter">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 tracking-tighter">
                 5. Portfolio Imbalance: Why Secured Bonds Matter
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 Not all debt is created equal in the eyes of the law or the bureaus. The system wants to see that you are capable of handling long term, asset-backed obligations.
               </p>
               <div className="grid md:grid-cols-2 gap-8 my-10">
                 <div className="p-8 rounded-[24px] bg-green-50 border border-green-100 flex flex-col items-center text-center shadow-sm">
                     <div className="w-16 h-16 bg-white rounded-2xl flex items-center justify-center text-green-600 mb-6 shadow-sm"><FontAwesomeIcon icon={faShieldHalved} className="text-2xl" /></div>
-                    <h3 className="text-xl font-black text-green-900 mb-3">Secured Debt</h3>
+                    <h4 className="text-xl font-black text-green-900 mb-3">Secured Debt</h4>
                     <p className="text-sm text-green-800">Home Loans, Gold Loans, Car Loans. These are backed by collateral and are viewed as 'High Quality' debt. They stabilize your score.</p>
                 </div>
                 <div className="p-8 rounded-[24px] bg-red-50 border border-red-100 flex flex-col items-center text-center shadow-sm">
                     <div className="w-16 h-16 bg-white rounded-2xl flex items-center justify-center text-red-600 mb-6 shadow-sm"><FontAwesomeIcon icon={faHandHoldingDollar} className="text-2xl" /></div>
-                    <h4 className="text-xl font-black text-red-900 mb-3">Unsecured Debt</h4>
+                    <h5 className="text-xl font-black text-red-900 mb-3">Unsecured Debt</h5>
                     <p className="text-sm text-red-800">Personal Loans, Credit Cards, BNPL. Since there is no collateral, these are 'High Risk'. Having too many of these will suppress your score.</p>
                 </div>
               </div>
@@ -492,9 +492,9 @@ export default function CreditScoreDropPage() {
             </section>
 
             <section id="reporting-errors-lenders" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 tracking-tighter">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 tracking-tighter">
                 6. The Reporting Nightmare: Financial Fog and Data Decay
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 Sometimes, you are a victim of a system too large to care. Indian banks handle billions of transactions, and the interface between a local bank branch and a central credit bureau is often manual or semi-automated. A data entry clerk in a small branch might forget to update your 'Full and Final' payment, or a software glitch might mark a holiday as a missed payment.
               </p>
@@ -502,9 +502,9 @@ export default function CreditScoreDropPage() {
                 One of the most common issues in the post-pandemic era is 'fragmented reports'. If you changed your address or got a new mobile number, CIBIL might create a second file for you instead of merging it with your old one. If this new file only has one new credit card and doesn't have your 10 year history, your score will appear significantly lower.
               </p>
               <div className="bg-[#2E2E2E] p-10 rounded-[30px] border border-gray-700 mb-12 shadow-2xl">
-                 <h3 className="text-2xl font-black text-[#1F5EFF] mb-6 flex items-center gap-3">
+                 <h4 className="text-2xl font-black text-[#1F5EFF] mb-6 flex items-center gap-3">
                     <FontAwesomeIcon icon={faShieldHalved} /> Reporting Error Checklist:
-                 </h3>
+                 </h4>
                  <div className="space-y-4">
                     {[
                         "Identity Matching: Check if another person's name appears on your report.",
@@ -526,9 +526,9 @@ export default function CreditScoreDropPage() {
             </section>
 
             <section id="co-signing-risks" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 tracking-tighter">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 tracking-tighter">
                 7. The Sins of the Other: Co-signing and Guarantors
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 In India, we are taught to help our brothers and friends. But the CIBIL algorithm has no concept of brotherhood. If you co-sign a loan for your cousin and they miss an EMI by just three days, that stain is reflected on your report exactly as if it were your own debt.
               </p>
@@ -541,9 +541,9 @@ export default function CreditScoreDropPage() {
             </section>
 
             <section id="settled-status-impact" className="scroll-mt-32 mb-16">
-               <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 tracking-tighter">
+               <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 tracking-tighter">
                 8. The 'Settled' Trap: Why Negotiating Can Hurt
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 If you ever went through a hard time and settled a loan for a lower amount than what was owed, the bank will mark that account as 'SETTLED'. This is the financial equivalent of a criminal record in the eyes of most prime lenders.
               </p>
@@ -553,9 +553,9 @@ export default function CreditScoreDropPage() {
             </section>
 
             <section id="identity-theft-alerts" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 tracking-tighter">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 tracking-tighter">
                 9. Identity Theft: The Invisible Score Killer
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 In the digital age, your PAN and Aadhaar numbers are your financial keys. If a hacker gets hold of them, they can take out 'Micro-loans' from unregulated apps. These loans are usually small—perhaps 5,000 or 10,000 rupees. They take the money, and since they have no intention of paying it back, the loan goes into default.
               </p>
@@ -565,9 +565,9 @@ export default function CreditScoreDropPage() {
             </section>
 
             <section id="ten-step-recovery" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-5xl font-black text-[#2E2E2E] mb-12 tracking-tighter">
+              <h3 className="text-3xl md:text-5xl font-black text-[#2E2E2E] mb-12 tracking-tighter">
                 The 10-Step Sovereign Plan to Restore Your Glory
-              </h2>
+              </h3>
               <div className="space-y-8">
                 {[
                   { t: "Deep Audit of All Four Bureaus", d: "Don't just check CIBIL. Check Experian, Equifax, and CRIF. Often, an error exists on only one, but lenders check different ones for different products." },
@@ -584,7 +584,7 @@ export default function CreditScoreDropPage() {
                   <div key={i} className="flex gap-8 items-start p-10 rounded-[32px] border border-gray-100 hover:bg-blue-50/30 transition-all duration-300 hover:scale-[1.01] shadow-sm hover:shadow-md">
                     <span className="text-5xl font-black text-[#1F5EFF] tabular-nums opacity-20">{i + 1}</span>
                     <div>
-                      <h3 className="text-2xl font-black text-[#2E2E2E] mb-3">{step.t}</h3>
+                      <h4 className="text-2xl font-black text-[#2E2E2E] mb-3">{step.t}</h4>
                       <p className="text-lg text-gray-600 leading-relaxed font-medium">{step.d}</p>
                     </div>
                   </div>
@@ -593,13 +593,13 @@ export default function CreditScoreDropPage() {
             </section>
 
             <section id="how-settleloans-helps" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-5xl font-black text-[#2E2E2E] mt-24 mb-10 tracking-tighter">Professional Credit Advocacy: Your Shield in the System</h2>
+              <h3 className="text-3xl md:text-5xl font-black text-[#2E2E2E] mt-24 mb-10 tracking-tighter">Professional Credit Advocacy: Your Shield in the System</h3>
               <p className="text-xl mb-10 leading-relaxed font-medium">
                 At SettleLoans, we believe that the financial system should work for you, not against you. We understand the deep frustration of being a 'perfect payer' and still being punished by an invisible algorithm. We have built our reputation on fighting for the rights of Indian borrowers who have been unfairly treated by credit reporting systems.
               </p>
               <div className="bg-[#1F5EFF] text-white p-12 md:p-16 rounded-[48px] shadow-2xl relative overflow-hidden">
                 <div className="absolute top-0 right-0 w-80 h-80 bg-white/10 rounded-full -mr-40 -mt-40 animate-pulse"></div>
-                <h3 className="text-4xl md:text-5xl font-black mb-10 leading-tight">We Are Your Voice and Your Vengeance</h3>
+                <h4 className="text-4xl md:text-5xl font-black mb-10 leading-tight">We Are Your Voice and Your Vengeance</h4>
                 <p className="mb-10 text-xl md:text-2xl opacity-90 leading-relaxed">
                   We don't just 'suggest' fixes; we execute them. Our combined legal and financial team has decades of experience in navigating the internal compliance engines of major Indian banks. We know how to force a correction when the system wants to ignore you.
                 </p>
@@ -607,28 +607,28 @@ export default function CreditScoreDropPage() {
                   <div className="flex items-start gap-4">
                     <div className="w-10 h-10 rounded-xl bg-white/20 flex items-center justify-center flex-shrink-0 mt-1"><FontAwesomeIcon icon={faCircleCheck} className="text-xl" /></div>
                     <div>
-                        <h4 className="font-black text-xl mb-1">Algorithmic Auditing</h4>
+                        <h5 className="font-black text-xl mb-1">Algorithmic Auditing</h5>
                         <p className="text-sm opacity-70 font-medium">We break down every point of your score to find the exact hidden lever that is causing the drop.</p>
                     </div>
                   </div>
                   <div className="flex items-start gap-4">
                     <div className="w-10 h-10 rounded-xl bg-white/20 flex items-center justify-center flex-shrink-0 mt-1"><FontAwesomeIcon icon={faCircleCheck} className="text-xl" /></div>
                     <div>
-                        <h5 className="font-black text-xl mb-1">Dispute Acceleration</h5>
+                        <h6 className="font-black text-xl mb-1">Dispute Acceleration</h6>
                         <p className="text-sm opacity-70 font-medium">We handle the endless paperwork and follow-ups required to get errors removed from bureau files.</p>
                     </div>
                   </div>
                   <div className="flex items-start gap-4">
                     <div className="w-10 h-10 rounded-xl bg-white/20 flex items-center justify-center flex-shrink-0 mt-1"><FontAwesomeIcon icon={faCircleCheck} className="text-xl" /></div>
                     <div>
-                        <h5 className="font-black text-xl mb-1">Lender Negotiations</h5>
+                        <h6 className="font-black text-xl mb-1">Lender Negotiations</h6>
                         <p className="text-sm opacity-70 font-medium">We represent you in discussions to change 'Settled' remarks into clean 'Closed' statuses.</p>
                     </div>
                   </div>
                   <div className="flex items-start gap-4">
                     <div className="w-10 h-10 rounded-xl bg-white/20 flex items-center justify-center flex-shrink-0 mt-1"><FontAwesomeIcon icon={faCircleCheck} className="text-xl" /></div>
                     <div>
-                        <h5 className="font-black text-xl mb-1">Strategic Architecture</h5>
+                        <h6 className="font-black text-xl mb-1">Strategic Architecture</h6>
                         <p className="text-sm opacity-70 font-medium">We design a custom 12 month roadmap for you to hit 800+ and stay there indefinitely.</p>
                     </div>
                   </div>
@@ -652,7 +652,7 @@ export default function CreditScoreDropPage() {
             <ReviewSnippets reviews={articleReviews} title="What Our Clients Say About Score Recovery" />
 
             <section id="faqs" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-5xl font-black text-[#2E2E2E] mb-12 text-center tracking-tighter">Common Questions</h2>
+              <h3 className="text-3xl md:text-5xl font-black text-[#2E2E2E] mb-12 text-center tracking-tighter">Common Questions</h3>
               <div className="space-y-4">
                 {[
                   { q: "Can I delete a hard inquiry from my report?", a: "Generally, no. Hard inquiries stay for two years. However, if an inquiry was made without your consent (identity theft), you can dispute it and have it removed." },
@@ -684,7 +684,7 @@ export default function CreditScoreDropPage() {
              {/* Bottom CTA */}
             <div className="mt-20 mb-20 bg-[#2E2E2E] rounded-[40px] shadow-2xl overflow-hidden border border-[#1F5EFF]/20">
                 <div className="bg-[#1F5EFF] p-12 text-center text-white">
-                  <h3 className="text-4xl md:text-5xl font-black mb-6">Take Control of Your Credit Today</h3>
+                  <h4 className="text-4xl md:text-5xl font-black mb-6">Take Control of Your Credit Today</h4>
                   <p className="opacity-90 text-xl max-w-2xl mx-auto mb-8">Stop guessing why your score is dropping. Get a professional audit and a clear roadmap to financial excellence.</p>
                   <Link href="/contact" className="inline-block bg-white text-[#1F5EFF] font-black py-5 px-14 rounded-2xl hover:scale-105 transition-all shadow-2xl text-xl">
                     Get Started for Free

@@ -279,12 +279,12 @@ export default function EffectiveNegotiationPage() {
             </section>
 
             <section id="why-negotiation" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">Why Negotiation is the Single Most Critical Factor</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">Why Negotiation is the Single Most Critical Factor</h3>
               <p className="text-lg mb-6 leading-relaxed">
                 Imagine walking into a bank branch alone and asking for a 50% waiver. In most cases, you will be met with a flat refusal or a very minor discount that does not solve your core problem. This is because banks operate on rigid internal logic. They see an individual borrower as a data point in their recovery bucket.
               </p>
               <div className="bg-slate-50 p-8 rounded-2xl border border-slate-100 shadow-sm mb-8">
-                 <h3 className="text-xl font-bold text-slate-800 mb-4">The Psychology of the Lender</h3>
+                 <h4 className="text-xl font-bold text-slate-800 mb-4">The Psychology of the Lender</h4>
                  <p className="text-lg mb-6 text-slate-600">
                     A lender has two main goals when a loan defaults: minimize the loss and close the file. Effective negotiation changes the narrative from "I cannot pay" to "This is a business proposal that is more profitable for the bank than a legal battle." Negotiation leverage is built on three pillars: legal knowledge, financial proof, and timing.
                  </p>
@@ -292,27 +292,27 @@ export default function EffectiveNegotiationPage() {
             </section>
 
             <section id="how-it-works" className="scroll-mt-32 mb-16">
-               <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 text-[#1F5EFF]">How Strategic Negotiation Works: The Pro Playbook</h2>
+               <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 text-[#1F5EFF]">How Strategic Negotiation Works: The Pro Playbook</h3>
                <p className="text-lg mb-8">Effective debt negotiation is not about being aggressive; it is about being strategic. Professional services use a tested playbook to drive down the debt amounts.</p>
                
                <div className="space-y-8">
                   <div className="p-6 bg-white border border-gray-100 rounded-xl shadow-sm">
-                    <h3 className="text-xl font-bold mb-3 text-blue-700 uppercase tracking-tighter">1. Hardship Profiling (The Data Shield)</h3>
+                    <h4 className="text-xl font-bold mb-3 text-blue-700 uppercase tracking-tighter">1. Hardship Profiling (The Data Shield)</h4>
                     <p className="text-md leading-relaxed text-gray-600">Professionals do not just tell the bank you have no money. They create a "Hardship Profile" using GST filings, medical reports, and termination letters. This proves to the bank's audit committee that a settlement is the most logical outcome, as the borrower has no assets to attach.</p>
                   </div>
                   <div className="p-6 bg-white border border-gray-100 rounded-xl shadow-sm">
-                    <h4 className="text-xl font-bold mb-3 text-blue-700 uppercase tracking-tighter">2. Lump Sum Leverage</h4>
+                    <h5 className="text-xl font-bold mb-3 text-blue-700 uppercase tracking-tighter">2. Lump Sum Leverage</h5>
                     <p className="text-md leading-relaxed text-gray-600">The promise of an immediate, one time payment is the strongest tool in negotiation. Lenders value certain cash today more than the uncertain possibility of full payment over five years. Professionals know exactly when to reveal the "final offer" to trigger the bank's maximum discount threshold.</p>
                   </div>
                   <div className="p-6 bg-white border border-gray-100 rounded-xl shadow-sm">
-                    <h4 className="text-xl font-bold mb-3 text-blue-700 uppercase tracking-tighter">3. Legal Pressure and Compliance</h4>
+                    <h5 className="text-xl font-bold mb-3 text-blue-700 uppercase tracking-tighter">3. Legal Pressure and Compliance</h5>
                     <p className="text-md leading-relaxed text-gray-600">By referencing RBI's Fair Practices Code and recent Digital Lending Guidelines, negotiators force banks to play by the rules. If a bank has used illegal harassment tactics, a professional negotiator uses this as leverage to demand a deeper waiver in exchange for not pursuing legal action against the recovery agency.</p>
                   </div>
                </div>
             </section>
 
             <section id="professional-role" className="scroll-mt-32 mb-16">
-               <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">The Role of Professional Negotiators</h2>
+               <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">The Role of Professional Negotiators</h3>
                <p className="text-lg mb-6 leading-relaxed">
                  A professional debt negotiation service provides three core functions that a DIY approach cannot match. First, they act as a **communication buffer**. They take over all calls and emails, protecting the borrower from the constant pressure of recovery agents. Second, they provide **expert valuation**, knowing exactly which bank is currently offering Lok Adalat waivers and which ones are aggressive in litigation.
                </p>
@@ -322,12 +322,12 @@ export default function EffectiveNegotiationPage() {
             </section>
 
             <section id="company-comparison" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 text-center uppercase tracking-widest italic">India Top Debt Negotiation Services Compared</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 text-center uppercase tracking-widest italic">India Top Debt Negotiation Services Compared</h3>
               <div className="grid md:grid-cols-3 gap-8">
                 {/* Company 1 */}
                 <div className="border-2 border-blue-600 p-8 rounded-3xl bg-blue-50/10 shadow-xl relative">
                   <div className="absolute top-0 right-10 bg-blue-600 text-white px-4 py-1 rounded-b-xl text-[10px] font-black uppercase">Top Choice</div>
-                  <h3 className="text-2xl font-black text-blue-800 mb-4">AMA Legal Solutions</h3>
+                  <h4 className="text-2xl font-black text-blue-800 mb-4">AMA Legal Solutions</h4>
                   <p className="text-sm font-bold text-gray-500 mb-6 uppercase tracking-widest italic">Legal-Backed Negotiation</p>
                   <ul className="space-y-4 text-sm text-gray-600 mb-8">
                     <li>• Expertise in high value and complex cases.</li>
@@ -339,7 +339,7 @@ export default function EffectiveNegotiationPage() {
 
                 {/* Company 2 */}
                 <div className="border border-gray-100 p-8 rounded-3xl bg-white shadow-lg">
-                  <h3 className="text-2xl font-black text-slate-800 mb-4">CredSettle</h3>
+                  <h4 className="text-2xl font-black text-slate-800 mb-4">CredSettle</h4>
                   <p className="text-sm font-bold text-gray-500 mb-6 uppercase tracking-widest italic">RBI-Compliant Structured Plans</p>
                   <ul className="space-y-4 text-sm text-gray-600 mb-8">
                     <li>• Focus on stopping harassment immediately.</li>
@@ -351,7 +351,7 @@ export default function EffectiveNegotiationPage() {
 
                 {/* Company 3 */}
                 <div className="border border-gray-100 p-8 rounded-3xl bg-white shadow-lg">
-                  <h3 className="text-2xl font-black text-slate-800 mb-4">SettleLoans</h3>
+                  <h4 className="text-2xl font-black text-slate-800 mb-4">SettleLoans</h4>
                   <p className="text-sm font-bold text-gray-500 mb-6 uppercase tracking-widest italic">Case-Based Data Strategy</p>
                   <ul className="space-y-4 text-sm text-gray-600 mb-8">
                     <li>• Proven examples of 70 percent plus waivers.</li>
@@ -363,7 +363,7 @@ export default function EffectiveNegotiationPage() {
               </div>
               
               <div className="mt-12 p-8 bg-gray-50 rounded-2xl border border-gray-200">
-                <h4 className="font-bold mb-4">Other Notable Players:</h4>
+                <h5 className="font-bold mb-4">Other Notable Players:</h5>
                 <p className="text-sm text-gray-600 leading-relaxed">
                   Companies like **Freed** are excellent for those looking for a technology first platform. **Debt Relief India (DRI)** is known for its empathetic customer service. **SingleDebt** brings international experience to the Indian market, helping consolidate various repayments. Each company has unique strengths, but for those facing legal threats, the high level negotiation of legal-first firms is often preferred.
                 </p>
@@ -371,12 +371,12 @@ export default function EffectiveNegotiationPage() {
             </section>
 
             <section id="forensic-audit" className="scroll-mt-32 mb-16">
-               <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">Part 12: The Forensic Audit of a Debt Portfolio</h2>
+               <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">Part 12: The Forensic Audit of a Debt Portfolio</h3>
                <p className="text-lg leading-relaxed mb-6">
                  Negotiation does not start at the bank's door; it starts with a Forensic Audit of your own numbers. Most borrowers do not realize that nearly 30 percent to 40 percent of their total outstanding balance is often composed of "ghost charges"—penal interest on penal interest, bounced check charges that have been capitalized, and insurance premiums that were added without consent.
                </p>
                <div className="bg-gray-50 p-8 rounded-2xl border border-gray-100 mb-8">
-                 <h3 className="text-xl font-bold mb-4">What a Forensic Audit Uncovers:</h3>
+                 <h4 className="text-xl font-bold mb-4">What a Forensic Audit Uncovers:</h4>
                  <ul className="space-y-4 text-sm font-medium">
                    <li className="flex items-center gap-2">
                      <span className="w-2 h-2 bg-blue-600 rounded-full"></span>
@@ -398,17 +398,17 @@ export default function EffectiveNegotiationPage() {
             </section>
 
             <section id="bank-benchmarks" className="scroll-mt-32 mb-16">
-               <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">Part 13: Negotiation Benchmarks for India's Major Banks</h2>
+               <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">Part 13: Negotiation Benchmarks for India's Major Banks</h3>
                <p className="text-lg leading-relaxed mb-6">
                  Every bank in India has a different "Settlement Appetite" based on its current NPA levels and quarter-end targets. Navigating these benchmarks is what separates a professional service from a generic agency.
                </p>
                <div className="grid md:grid-cols-2 gap-8 mb-8">
                   <div className="p-6 bg-white border border-gray-100 rounded-xl">
-                    <h3 className="font-black text-xs uppercase text-blue-600 mb-2">HDFC and ICICI Bank</h3>
+                    <h4 className="font-black text-xs uppercase text-blue-600 mb-2">HDFC and ICICI Bank</h4>
                     <p className="text-sm">These private giants are highly process-driven. They rarely settle in the first 90 days of default. Negotiation usually becomes effective only after the account is classified as D1 or D2 (Doubtful) category. Target waivers: 40 percent to 50 percent.</p>
                   </div>
                   <div className="p-6 bg-white border border-gray-100 rounded-xl">
-                    <h4 className="font-black text-xs uppercase text-blue-600 mb-2">SBI and Public Sector Banks</h4>
+                    <h5 className="font-black text-xs uppercase text-blue-600 mb-2">SBI and Public Sector Banks</h5>
                     <p className="text-sm">SBI is the king of Lok Adalats. They have massive settlement targets during these nationwide dispute resolution forums. A negotiator who knows the Lok Adalat schedule can often secure 60 percent plus waivers for genuine hardship cases.</p>
                   </div>
                </div>
@@ -418,12 +418,12 @@ export default function EffectiveNegotiationPage() {
             </section>
 
             <section id="dpdp-impact" className="scroll-mt-32 mb-16">
-               <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">Part 16: The Impact of the DPDP Act 2023 on Debt Negotiation</h2>
+               <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">Part 16: The Impact of the DPDP Act 2023 on Debt Negotiation</h3>
                <p className="text-lg leading-relaxed mb-6">
                  The Digital Personal Data Protection (DPDP) Act 2023 has fundamentally changed the leverage dynamic in debt negotiation. Banks and their third party recovery agents can no longer access your contact list or harass your family members without violating severe privacy laws.
                </p>
                <div className="bg-blue-900 text-white p-8 rounded-2xl mb-8">
-                 <h3 className="text-xl font-bold mb-4">Privacy as Leverage:</h3>
+                 <h4 className="text-xl font-bold mb-4">Privacy as Leverage:</h4>
                  <p className="text-sm leading-relaxed mb-4">
                    If a recovery agent calls your neighbor or posts about your debt on social media, they are in violation of the DPDP Act. A professional negotiator like **AMA Legal Solutions** can use these violations to file a complaint with the Data Protection Board, forcing the bank into a "Non-Adversarial Settlement."
                  </p>
@@ -431,7 +431,7 @@ export default function EffectiveNegotiationPage() {
             </section>
 
             <section id="msme-negotiation" className="scroll-mt-32 mb-16">
-               <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">Part 17: Negotiation for MSME and Small Business Loans</h2>
+               <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">Part 17: Negotiation for MSME and Small Business Loans</h3>
                <p className="text-lg leading-relaxed mb-6">
                  Negotiating a business loan is vastly different from a personal credit card. Businesses often have collateral (machinery, stock, property) which gives the bank more power. However, MSMEs have special protections under the MSMED Act.
                </p>
@@ -441,32 +441,32 @@ export default function EffectiveNegotiationPage() {
             </section>
 
             <section id="effectiveness-factors" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">What Makes a Negotiation "Effective"?</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">What Makes a Negotiation "Effective"?</h3>
               <p className="text-lg mb-8 leading-relaxed">
                 Effectiveness in debt settlement is measured by the delta between the bank's initial demand and the final settlement amount. Four critical factors determine this outcome.
               </p>
               <div className="grid md:grid-cols-2 gap-8">
                 <div className="bg-white p-6 rounded-xl border border-blue-50">
-                  <h3 className="font-black text-blue-600 mb-2 uppercase text-xs">A. Experience and Benchmarks</h3>
+                  <h4 className="font-black text-blue-600 mb-2 uppercase text-xs">A. Experience and Benchmarks</h4>
                   <p className="text-sm">Knowing that Bank A typically settles personal loans at 45 percent whereas Bank B rarely goes below 60 percent allows a negotiator to set realistic expectations and push the limits.</p>
                 </div>
                 <div className="bg-white p-6 rounded-xl border border-blue-50">
-                  <h4 className="font-black text-blue-600 mb-2 uppercase text-xs">B. Legal Leverage</h4>
+                  <h5 className="font-black text-blue-600 mb-2 uppercase text-xs">B. Legal Leverage</h5>
                   <p className="text-sm">A legal notice from a registered advocate carries more weight than a request from a third party agency. It signals to the bank that the borrower is aware of their rights.</p>
                 </div>
                 <div className="bg-white p-6 rounded-xl border border-blue-50">
-                  <h5 className="font-black text-blue-600 mb-2 uppercase text-xs">C. Lender Relationships</h5>
+                  <h6 className="font-black text-blue-600 mb-2 uppercase text-xs">C. Lender Relationships</h6>
                   <p className="text-sm">Effective services often have open channels with Nodal Officers. They can bypass ground level recovery agents who are often commission driven rather than resolution driven.</p>
                 </div>
                 <div className="bg-white p-6 rounded-xl border border-blue-50">
-                  <h5 className="font-black text-blue-600 mb-2 uppercase text-xs">D. Documentation Quality</h5>
+                  <h6 className="font-black text-blue-600 mb-2 uppercase text-xs">D. Documentation Quality</h6>
                   <p className="text-sm">A professionally drafted hardship letter is a legal document that enters the bank's official record. It must be error free and evidentiary in nature.</p>
                 </div>
               </div>
             </section>
 
             <section id="collection-psychology" className="scroll-mt-32 mb-16">
-               <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 uppercase tracking-widest text-[#1F5EFF]">Breaking the Collection Agent's Script</h2>
+               <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 uppercase tracking-widest text-[#1F5EFF]">Breaking the Collection Agent's Script</h3>
                <p className="text-lg leading-relaxed mb-6">
                  Recovery agents work on a "Fear Script." They are trained to make you believe that the police are on the way or that your house will be sealed in 24 hours. A professional negotiator knows that these are empty threats meant to bypass negotiation.
                </p>
@@ -479,12 +479,12 @@ export default function EffectiveNegotiationPage() {
             </section>
 
             <section id="legal-cycle" className="scroll-mt-32 mb-16">
-               <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">Part 14: The Legal Recovery Cycle vs Settlement Cycle</h2>
+               <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">Part 14: The Legal Recovery Cycle vs Settlement Cycle</h3>
                <p className="text-lg leading-relaxed mb-6">
                  One of the biggest mistakes borrowers make is assuming that the Legal and Settlement cycles are the same. In reality, they run on parallel tracks. A bank can send you a Section 138 notice (Check Bounce) while simultaneously discussing a settlement.
                </p>
                <div className="bg-red-50 p-8 rounded-2xl border border-red-100 mb-8">
-                  <h3 className="text-xl font-bold text-red-900 mb-4 tracking-tighter italic">Warning: The Legal Pressure Tactic</h3>
+                  <h4 className="text-xl font-bold text-red-900 mb-4 tracking-tighter italic">Warning: The Legal Pressure Tactic</h4>
                   <p className="text-sm text-red-800 leading-relaxed font-bold">
                     Banks often initiate legal action not to recover the money immediately, but to "Break the Borrower's Will." They know that a court summons will scare a genuine person into paying the full amount. This is where a legal backed negotiator like **AMA Legal Solutions** becomes essential. They can represent you in court, ensuring the legal process does not overshadow the negotiation process.
                   </p>
@@ -492,7 +492,7 @@ export default function EffectiveNegotiationPage() {
             </section>
 
             <section id="digital-evidence" className="scroll-mt-32 mb-16">
-               <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">Part 19: The Power of Digital Evidence in Negotiation</h2>
+               <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">Part 19: The Power of Digital Evidence in Negotiation</h3>
                <p className="text-lg leading-relaxed mb-6">
                  In today's digital age, every WhatsApp message from a recovery agent and every automated call is a piece of evidence. Professional services help you compile a "Digital Evidence Vault."
                </p>
@@ -505,7 +505,7 @@ export default function EffectiveNegotiationPage() {
             </section>
 
             <section id="future-trends" className="scroll-mt-32 mb-16">
-               <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">Part 20: The Future of Debt Resolution in India: AI and Mediation</h2>
+               <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">Part 20: The Future of Debt Resolution in India: AI and Mediation</h3>
                <p className="text-lg leading-relaxed mb-6">
                  We are entering an era of "Algorithmic Negotiation." Banks are starting to use AI to predict which borrowers are likely to settle and for how much. To counter this, professional services are using their own data sets to predict the bank's "Floor Price."
                </p>
@@ -515,7 +515,7 @@ export default function EffectiveNegotiationPage() {
             </section>
 
             <section id="bank-manager-psychology" className="scroll-mt-32 mb-16">
-               <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">Part 23: The Psychology of the Bank Manager: Who Approves Your Waiver?</h2>
+               <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">Part 23: The Psychology of the Bank Manager: Who Approves Your Waiver?</h3>
                <p className="text-lg leading-relaxed mb-6">
                  Negotiation is not just between you and the bank; it is between the negotiator and the Regional Manager (RM) or the Zonal Head. Understanding their KPIs (Key Performance Indicators) is vital. Most RMs are evaluated on their "Recovery Rate" and "Account Closure Velocity."
                </p>
@@ -528,24 +528,24 @@ export default function EffectiveNegotiationPage() {
             </section>
 
             <section id="negotiation-myths" className="scroll-mt-32 mb-16">
-               <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 text-[#1F5EFF]">Part 24: Common Negotiation Myths in the Indian Market</h2>
+               <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 text-[#1F5EFF]">Part 24: Common Negotiation Myths in the Indian Market</h3>
                <div className="space-y-6">
                  <div className="p-6 bg-white border border-blue-50 rounded-2xl">
-                   <h3 className="font-bold text-blue-700 mb-2">Myth 1: "I can just ignore the banks and they will settle eventually."</h3>
+                   <h4 className="font-bold text-blue-700 mb-2">Myth 1: "I can just ignore the banks and they will settle eventually."</h4>
                    <p className="text-sm text-gray-600 italic">Reality: Ignoring the bank leads to litigation and escalating penal interest. Effective negotiation requires proactive communication, not avoidance.</p>
                  </div>
                  <div className="p-6 bg-white border border-blue-50 rounded-2xl">
-                   <h4 className="font-bold text-blue-700 mb-2">Myth 2: "Every bank has a fixed 50 percent waiver policy."</h4>
+                   <h5 className="font-bold text-blue-700 mb-2">Myth 2: "Every bank has a fixed 50 percent waiver policy."</h5>
                    <p className="text-sm text-gray-600 italic">Reality: Waivers are dynamic. A bank might offer 70 percent in March but only 30 percent in April. Real-time data from firms like **SettleLoans** is essential to know the current 'Floor Price.'</p>
                  </div>
                  <div className="p-6 bg-white border border-blue-50 rounded-2xl">
-                   <h4 className="font-bold text-blue-700 mb-2">Myth 3: "A settlement will delete my default history."</h4>
+                   <h5 className="font-bold text-blue-700 mb-2">Myth 3: "A settlement will delete my default history."</h5>
                    <p className="text-sm text-gray-600 italic">Reality: Settlement is a compromise, not a deletion. Your record will show 'Settled.' Only a full payment deletes a default. However, 'Settled' is thousands of times better than an 'Active Default' for your long-term financial health.</p>
                  </div>
                </div>
             </section>
             <section id="case-study" className="scroll-mt-32 mb-16">
-               <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">Part 21: Case Study: 75% Waiver for a Medical Emergency</h2>
+               <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">Part 21: Case Study: 75% Waiver for a Medical Emergency</h3>
                <div className="bg-green-50 p-8 rounded-2xl border border-green-200 mb-8">
                  <p className="text-lg mb-6 leading-relaxed text-green-900">
                    A borrower in Pune faced a 15 Lakh debt on a Personal Loan after a sudden family medical crisis. The bank's initial offer was a 10 percent waiver on the total outstanding (including penal interest).
@@ -560,7 +560,7 @@ export default function EffectiveNegotiationPage() {
             </section>
 
             <section id="ethical-standards" className="scroll-mt-32 mb-16">
-               <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">Part 22: Ethical Standards in Debt Negotiation</h2>
+               <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">Part 22: Ethical Standards in Debt Negotiation</h3>
                <p className="text-lg leading-relaxed mb-6">
                  Ethics are the foundation of effective negotiation. A negotiator who lies to the bank or encourages the borrower to hide assets will eventually lose credibility. Banks maintain a "Whitelist" of professional firms they trust to provide accurate hardship data.
                </p>
@@ -570,7 +570,7 @@ export default function EffectiveNegotiationPage() {
             </section>
 
             <section id="realistic-outcomes" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 text-center bg-gray-900 text-white py-4 rounded-xl">Realistic Negotiation Outcomes (40% to 70%)</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 text-center bg-gray-900 text-white py-4 rounded-xl">Realistic Negotiation Outcomes (40% to 70%)</h3>
               <p className="text-lg mb-8 leading-relaxed">
                 It's important to keep expectations grounded in reality. While ads might promise a 90 percent waiver, the market standard in India typically ranges from 40 percent to 70 percent.
               </p>
@@ -608,11 +608,11 @@ export default function EffectiveNegotiationPage() {
             </section>
 
             <section id="post-settlement" className="scroll-mt-32 mb-16">
-               <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">Part 15: Post-Settlement Credit Rebuilding Strategy</h2>
+               <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">Part 15: Post-Settlement Credit Rebuilding Strategy</h3>
                <p className="text-lg leading-relaxed mb-6">
                  Settlement is the end of the debt, but it is the beginning of a long journey toward credit repair. Once your status is reported as "Settled" to TransUnion CIBIL or Experian, your score will likely stay stagnant or low for several years.
                </p>
-               <h3 className="text-xl font-bold mb-4">Steps to Rebuild Credit Post-Negotiation:</h3>
+               <h4 className="text-xl font-bold mb-4">Steps to Rebuild Credit Post-Negotiation:</h4>
                <ol className="list-decimal pl-6 space-y-4 text-gray-600 mb-8">
                  <li><strong>The Secured Credit Card Path:</strong> Get a card against a Fixed Deposit. Since there is no risk to the bank, they will issue it. Use only 10 percent of the limit and pay on time. This creates new, positive data points.</li>
                  <li><strong>Small Consumer Durable Loans:</strong> Buying a washing machine or phone via finance (and paying ON TIME) is a great way to show a "New Financial Identity."</li>
@@ -621,7 +621,7 @@ export default function EffectiveNegotiationPage() {
             </section>
 
             <section id="risk-assessment" className="scroll-mt-32 mb-16">
-               <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 text-red-600 uppercase tracking-tighter">The Risks: Misleading Guarantees and Program Failures</h2>
+               <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 text-red-600 uppercase tracking-tighter">The Risks: Misleading Guarantees and Program Failures</h3>
                <div className="bg-red-50 p-8 rounded-3xl border border-red-100">
                  <p className="text-red-900 font-bold mb-4 italic leading-relaxed">Not all debt settlement programs succeed. In fact, some programs may fail or not reach a settlement due to a lack of lender cooperation or borrower funds.</p>
                  <ul className="space-y-4 text-sm font-bold text-red-800 uppercase tracking-tight">
@@ -633,11 +633,11 @@ export default function EffectiveNegotiationPage() {
             </section>
 
             <section id="choosing-right" className="scroll-mt-32 mb-16">
-               <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">How to Choose the Right Negotiation Service</h2>
+               <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">How to Choose the Right Negotiation Service</h3>
                <p className="text-lg mb-8 leading-relaxed">
                  Before committing to a service, ask yourself these three critical questions. Does the company have a track record in the Indian market? Are their fees linked to their success (contingency model)? And do they provide legal protection against creditor harassment?
                </p>
-               <h3 className="text-xl font-bold mb-4">Red Flags to Avoid:</h3>
+               <h4 className="text-xl font-bold mb-4">Red Flags to Avoid:</h4>
                <ul className="list-disc pl-6 space-y-3 mb-8 text-gray-600">
                  <li>Avoid firms that tell you to stop communicating with your bank before they have issued a formal legal notice.</li>
                  <li>Avoid firms that promise to "fix" your CIBIL score during the settlement process (it is impossible).</li>
@@ -648,15 +648,15 @@ export default function EffectiveNegotiationPage() {
             <section id="diy-vs-pro" className="scroll-mt-32 mb-16">
               <div className="bg-slate-900 text-white p-12 rounded-[40px] shadow-2xl relative overflow-hidden">
                 <div className="absolute -top-12 -right-12 w-48 h-48 bg-blue-600/20 rounded-full blur-3xl"></div>
-                <h2 className="text-3xl md:text-4xl font-black mb-8 relative z-10">DIY Negotiation vs Professional Experts</h2>
+                <h3 className="text-3xl md:text-4xl font-black mb-8 relative z-10">DIY Negotiation vs Professional Experts</h3>
                 <div className="grid md:grid-cols-2 gap-12 relative z-10">
                   <div>
-                    <h3 className="font-bold text-blue-400 mb-4 uppercase tracking-widest text-xs">DIY Negotiation</h3>
+                    <h4 className="font-bold text-blue-400 mb-4 uppercase tracking-widest text-xs">DIY Negotiation</h4>
                     <p className="text-sm leading-relaxed mb-4 text-gray-300">Great for small debts or those with plenty of time. You control the process and save on fees. However, the emotional toll of recovery harassment is high, and you may miss out on deeper waivers due to lack of experience.</p>
                     <p className="text-xs font-bold text-red-400">Success Rate: ~20 percent to 30 percent</p>
                   </div>
                   <div>
-                    <h4 className="font-bold text-blue-400 mb-4 uppercase tracking-widest text-xs">Professional Service</h4>
+                    <h5 className="font-bold text-blue-400 mb-4 uppercase tracking-widest text-xs">Professional Service</h5>
                     <p className="text-sm leading-relaxed mb-4 text-gray-300">Recommended for debts over 2 Lakhs. You get legal shield, verified negotiation tactics, and a higher probability of deep waivers. The cost is offset by the thousands of rupees you save through the negotiation itself.</p>
                     <p className="text-xs font-bold text-green-400">Success Rate: ~80 percent to 95 percent</p>
                   </div>
@@ -664,7 +664,7 @@ export default function EffectiveNegotiationPage() {
               </div>
             </section>
             <section id="success-stories" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 text-center">Real Stories of Freedom</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 text-center">Real Stories of Freedom</h3>
               <div className="grid md:grid-cols-2 gap-6 not-prose">
                 {[
                   {
@@ -702,7 +702,7 @@ export default function EffectiveNegotiationPage() {
                         {review.name.charAt(0)}
                       </div>
                       <div>
-                        <h3 className="font-bold text-[#2E2E2E]">{review.name}</h3>
+                        <h4 className="font-bold text-[#2E2E2E]">{review.name}</h4>
                         <p className="text-xs text-gray-400">{review.loc}</p>
                       </div>
                       <div className="ml-auto text-yellow-400 text-sm">★★★★★</div>
@@ -717,7 +717,7 @@ export default function EffectiveNegotiationPage() {
             </section>
 
             <section id="faqs" className="scroll-mt-32 mb-16 pt-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">Specialized Debt Negotiation FAQs</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">Specialized Debt Negotiation FAQs</h3>
               <div className="space-y-4">
                 {jsonLd["@graph"][4]?.mainEntity?.map((faq: any, i: number) => (
                   <details key={i} className="group bg-white border border-gray-200 rounded-xl overflow-hidden hover:shadow-md transition-shadow">
@@ -736,7 +736,7 @@ export default function EffectiveNegotiationPage() {
             </section>
 
             <footer className="mt-16 pt-16 border-t border-gray-100 text-center">
-              <h3 className="text-2xl font-black mb-6 uppercase tracking-tighter italic">Regain Financial Control Today</h3>
+              <h4 className="text-2xl font-black mb-6 uppercase tracking-tighter italic">Regain Financial Control Today</h4>
               <p className="text-gray-500 mb-8 max-w-lg mx-auto">Don't navigate the complex world of debt negotiation alone. Let experts handle the stress while you focus on rebuilding.</p>
               <Link href="/contact" className="inline-block bg-[#1F5EFF] text-white font-black py-4 px-12 rounded-xl hover:scale-105 transition-all shadow-xl text-lg">
                 Contact Our Experts

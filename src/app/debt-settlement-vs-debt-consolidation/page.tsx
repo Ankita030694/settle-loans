@@ -289,9 +289,9 @@ export default function SettlementVsConsolidationPage() {
             </section>
 
             <section id="consolidation-deep-dive" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
                 Section 2: The Mechanics of Debt Consolidation - The Proactive Move
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6 font-bold">
                 Debt consolidation is the ultimate optimization tool for a disciplined borrower. Imagine you have four credit cards, each with an interest rate of 42% per annum, and a two-wheeler loan at 18%. Every month, you are managing five different due dates, five different minimum payments, and a mountain of interest. This is known as 'Debt Fragmentation', and it is the primary reason why people feel overwhelmed.
               </p>
@@ -302,7 +302,7 @@ export default function SettlementVsConsolidationPage() {
                 In 2025, the consolidation landscape has evolved with the entry of 'Fintech Consolidators' who look beyond just your CIBIL score. They analyze your banking data and employment stability to offer customized rates. However, the golden rule remains: consolidation only works if you stop using the credit cards you just cleared. If you clear 5 Lakhs of card debt with a loan and then spend another 2 Lakhs on those same cards, you are entering a 'Debt Spiral' that even consolidation cannot fix.
               </p>
               <div className="bg-gray-50 p-8 rounded-xl border border-gray-200 mb-8 shadow-sm">
-                <h3 className="text-xl font-black mb-6 uppercase tracking-tighter">Consolidation Winning Factors: Why it Works</h3>
+                <h4 className="text-xl font-black mb-6 uppercase tracking-tighter">Consolidation Winning Factors: Why it Works</h4>
                 <ul className="grid md:grid-cols-2 gap-4 text-sm font-bold">
                   <li className="flex items-center gap-2">
                     <span className="w-2 h-2 bg-[#1F5EFF] rounded-full"></span>
@@ -333,9 +333,9 @@ export default function SettlementVsConsolidationPage() {
             </section>
 
             <section id="balance-transfer-vs-loan" className="scroll-mt-32 mb-12">
-               <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
+               <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
                 Consolidation Methods: Balance Transfer vs Personal Loan
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6 font-bold">
                 When we talk about consolidation, there are two primary routes in the Indian market: the 'Credit Card Balance Transfer' (BT) and the 'Unsecured Personal Loan'. For a borrower with a 750+ score, a Balance Transfer is almost always superior. It allows you to move your debt from a 42% card to a new card with a 9% or 12% interest rate for a fixed period of 6 to 12 months. This is a 'Sprint' strategy to kill debt fast.
               </p>
@@ -348,9 +348,9 @@ export default function SettlementVsConsolidationPage() {
             </section>
 
             <section id="settlement-mechanics" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
                 Section 3: The Reality of Debt Settlement - The Last Resort
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6 font-bold">
                 Debt settlement is not a loan; it is a negotiation of failure. It is a process where you admit to the bank: "I cannot fulfill my original promise to pay you back in full." This usually happens after you have defaulted for several months (90 days plus) and the debt has been marked as a Non-Performing Asset (NPA). At this stage, the bank's goal shifts from 'earning interest' to 'minimizing loss'.
               </p>
@@ -363,9 +363,9 @@ export default function SettlementVsConsolidationPage() {
             </section>
 
              <section id="debt-management-plans" className="scroll-mt-32 mb-12">
-               <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
+               <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
                 The Third Path: Debt Management Plans (DMP)
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6 font-bold">
                 If consolidation is not possible and settlement feels too risky for your credit score, there is a middle ground called a 'Debt Management Plan'. In a DMP, a professional agency (like SettleLoans) negotiates with your creditors to 'Restructure' your debt. We don't ask for a discount on the principal; instead, we ask for a waiver of all future interest and an extension of the tenure.
               </p>
@@ -378,21 +378,21 @@ export default function SettlementVsConsolidationPage() {
             </section>
 
             <section id="cibil-impact-analysis" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight text-center">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight text-center">
                 CIBIL Impact Analysis: The Real 7-Year Cost
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6 text-center font-bold">
                 This is where the two paths diverge most dramatically. Let us look at the numeric impact on your credit report with a 7-year horizon.
               </p>
               <div className="grid md:grid-cols-2 gap-6 my-10 font-bold">
                 <div className="bg-green-50 p-6 rounded-xl border border-green-100 shadow-sm">
-                  <h3 className="text-xl font-bold text-green-800 mb-3 uppercase tracking-tighter">Consolidation Impact</h3>
+                  <h4 className="text-xl font-bold text-green-800 mb-3 uppercase tracking-tighter">Consolidation Impact</h4>
                   <p className="text-sm text-green-900/80 leading-relaxed font-bold">
                     Initially, your score might dip by 5-10 points due to a hard inquiry. But as you pay off high-utilization credit cards, your score often jumps by 40-70 points within 6 months. By year 2, you are in the 'Excellent' category (780+).
                   </p>
                 </div>
                 <div className="bg-red-50 p-6 rounded-xl border border-red-100 shadow-sm">
-                  <h3 className="text-xl font-bold text-red-800 mb-3 uppercase tracking-tighter">Settlement Impact</h3>
+                  <h4 className="text-xl font-bold text-red-800 mb-3 uppercase tracking-tighter">Settlement Impact</h4>
                   <p className="text-sm text-red-900/80 leading-relaxed font-bold">
                     Your score will likely crash by 100-150 points instantly. More importantly, your account status changes to 'Settled'. This tag stays in the CIBIL database for 7 years and acts as a barrier to any major credit for the first 3-5 years.
                   </p>
@@ -404,9 +404,9 @@ export default function SettlementVsConsolidationPage() {
             </section>
 
             <section id="interest-rate-war" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
                 Section 4: The Interest Rate War - Compounding vs Cancellation
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6 font-bold">
                 In the Indian lending market of 2025, interest rates have remained sticky despite global fluctuations. When you consolidate, you are locking in a fixed interest rate for a fixed period (usually 3 to 5 years). This protects you from future rate hikes by the RBI. You are choosing 'Controlled Compounding'.
               </p>
@@ -419,9 +419,9 @@ export default function SettlementVsConsolidationPage() {
             </section>
 
             <section id="the-psychology-of-relief" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
                 The Psychology of Relief: Win vs Survival Strategy
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6 font-bold">
                 Debt is not just a spreadsheet; it is a mental health issue. Consolidation feels like a 'Win'. You have taken control, you have a plan, and you are fulfilling your promises. This provides a massive boost to your self-esteem and productivity at work. Many of our clients report that after consolidating, they were able to focus more on their career and earn promotions that helped them pay off the loan even faster.
               </p>
@@ -434,7 +434,7 @@ export default function SettlementVsConsolidationPage() {
             </section>
 
             <section id="eligibility-showdown" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 text-center uppercase tracking-tighter border-y-2 border-gray-100 py-4">Eligibility Showdown: Who Qualifies in 2025?</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 text-center uppercase tracking-tighter border-y-2 border-gray-100 py-4">Eligibility Showdown: Who Qualifies in 2025?</h3>
               <p className="mb-6 text-xl font-bold">
                 The hurdle for consolidation is much higher. In 2025, banks are conservative due to rising unsecured defaults. To get a 5 Lakh consolidation loan, you typically need a salary of ₹30,000+, a CIBIL score of 720+, and no recent defaults in the last 6 months. If you have already skipped three EMIs, the bank's automated systems will likely reject your consolidation request.
               </p>
@@ -447,7 +447,7 @@ export default function SettlementVsConsolidationPage() {
             </section>
 
             <section id="tax-and-legal-implications" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 text-center uppercase">Tax and Legal Implications: The Fine Print of Freedom</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 text-center uppercase">Tax and Legal Implications: The Fine Print of Freedom</h3>
               <p className="mb-6 text-lg font-bold">
                 Many borrowers don't realize that a 'Settled' amount can have tax implications. Under certain interpretations of the Income Tax Act, the amount waived by the bank can be considered 'Cessation of Liability' which is taxable as income. While this is rare for small personal debts, it is a significant factor in large business settlements. You might receive a 1099-equivalent notice and be required to pay tax on the 'savings'.
               </p>
@@ -456,7 +456,7 @@ export default function SettlementVsConsolidationPage() {
               </p>
               <div className="bg-[#2E2E2E] text-white p-8 rounded-2xl mb-8 shadow-2xl overflow-hidden relative">
                 <div className="absolute top-0 right-0 w-32 h-32 bg-[#1F5EFF] opacity-10 rounded-full -mr-16 -mt-16"></div>
-                <h3 className="text-xl font-bold mb-4 uppercase tracking-[0.2em] text-[#1F5EFF]">Direct Comparison Matrix 2025</h3>
+                <h4 className="text-xl font-bold mb-4 uppercase tracking-[0.2em] text-[#1F5EFF]">Direct Comparison Matrix 2025</h4>
                 <div className="overflow-x-auto text-sm">
                   <table className="w-full text-left">
                     <thead>
@@ -499,7 +499,7 @@ export default function SettlementVsConsolidationPage() {
             </section>
 
             <section id="the-2025-lending-vibe" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 uppercase">The 2025 Market Vibe: Protecting Yourself</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 uppercase">The 2025 Market Vibe: Protecting Yourself</h3>
               <p className="mb-6 text-lg font-bold">
                 In 2025, the Indian market has seen a massive crackdown on 'unregulated' debt relief agencies. Any agency promising that they can 'clean your CIBIL score for a fee' after a settlement is likely a scam. The CIBIL database is extremely robust and the 'Settled' tag is virtually permanent until it naturally expires or you perform a 'Settlement to Closure' conversion by paying back the saved amount later.
               </p>
@@ -512,7 +512,7 @@ export default function SettlementVsConsolidationPage() {
             </section>
 
             <section id="choosing-the-right-path" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 text-center italic leading-relaxed">"Choose the path that leads to your 5-year goal, not just your 1-month relief. Financial freedom is a marathon, not a sprint."</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 text-center italic leading-relaxed">"Choose the path that leads to your 5-year goal, not just your 1-month relief. Financial freedom is a marathon, not a sprint."</h3>
               <p className="mb-6 text-2xl leading-relaxed text-center font-black text-gray-800">
                 Before deciding, ask yourself these 3 questions:
               </p>
@@ -533,7 +533,7 @@ export default function SettlementVsConsolidationPage() {
             </section>
 
              <section id="success-stories" className="scroll-mt-32 mb-12">
-               <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 text-center uppercase tracking-widest bg-gray-50 py-10 rounded-3xl border border-gray-100">Real Stories of Freedom</h2>
+               <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 text-center uppercase tracking-widest bg-gray-50 py-10 rounded-3xl border border-gray-100">Real Stories of Freedom</h3>
                <div className="grid md:grid-cols-2 gap-8 not-prose">
                  {[
                    {
@@ -576,7 +576,7 @@ export default function SettlementVsConsolidationPage() {
                          {item.name.charAt(0)}
                        </div>
                        <div>
-                         <h3 className="font-bold text-[#2E2E2E]">{item.name}</h3>
+                         <h4 className="font-bold text-[#2E2E2E]">{item.name}</h4>
                          <p className="text-xs text-gray-400">{item.loc}</p>
                        </div>
                        <div className="ml-auto text-yellow-400 text-sm">★★★★★</div>
@@ -591,7 +591,7 @@ export default function SettlementVsConsolidationPage() {
              </section>
 
             <section id="common-pitfalls" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 uppercase">Common Pitfalls: How Borrowers Self-Sabotage</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 uppercase">Common Pitfalls: How Borrowers Self-Sabotage</h3>
               <p className="mb-6 text-lg font-bold">
                 The biggest mistake in consolidation is 'Window Dressing'. This is when you take a loan to pay off cards but keep the card accounts open. In our experience, over 40% of people who don't close their cards end up running them up again within 18 months. If you consolidate, you 'must' cut up the physical cards and close the accounts officially. This might slightly lower your score due to reduced total credit limit, but it is necessary for your 'Financial Safety'.
               </p>
@@ -604,14 +604,14 @@ export default function SettlementVsConsolidationPage() {
             </section>
 
             <section id="beyond-relief" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 text-center uppercase tracking-tighter border-b-8 border-[#1F5EFF] pb-4 inline-block">Beyond Relief: Your Path to Wealth</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 text-center uppercase tracking-tighter border-b-8 border-[#1F5EFF] pb-4 inline-block">Beyond Relief: Your Path to Wealth</h3>
               <p className="mb-6 text-xl leading-relaxed text-center max-w-4xl mx-auto font-bold text-gray-700">
                 Once your debt is settled or consolidated, your journey has just begun. The goal isn't just to be 'not in debt'; it is to be 'wealthy'. We provide all our clients with a 12-month post-debt blueprint. This includes strategies for rebuilding CIBIL using 'Secured Credit Cards' (matching a dynamic FD) and automating your savings so you never have to borrow at 42% interest again.
               </p>
             </section>
 
             <section id="faqs" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 uppercase tracking-widest text-[#1F5EFF]">Comprehensive Financial FAQ</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 uppercase tracking-widest text-[#1F5EFF]">Comprehensive Financial FAQ</h3>
               <div className="space-y-6 not-prose">
                 {jsonLd["@graph"]?.[4] && "mainEntity" in jsonLd["@graph"][4] && (jsonLd["@graph"][4] as any)?.mainEntity?.map((faq: any, i: number) => (
                   <details key={i} className="group bg-white border border-[#DEDEDE] rounded-2xl overflow-hidden hover:shadow-xl transition-all border-b-8 border-b-[#1F5EFF]/10">
@@ -633,7 +633,7 @@ export default function SettlementVsConsolidationPage() {
               <div className="flex flex-col md:flex-row items-center gap-10 p-10 bg-[#2E2E2E] rounded-[40px] border border-white/10 shadow-2xl relative overflow-hidden group">
                  <div className="absolute top-0 right-0 w-64 h-64 bg-[#1F5EFF] opacity-5 rounded-full -mr-32 -mt-32 group-hover:scale-150 transition-transform duration-1000"></div>
                 <div className="flex-1 text-center md:text-left relative z-10">
-                  <h3 className="text-3xl font-black text-white mb-4">Still undecided? Let’s crunch the numbers.</h3>
+                  <h4 className="text-3xl font-black text-white mb-4">Still undecided? Let’s crunch the numbers.</h4>
                   <p className="text-[#DEDEDE] font-bold italic text-lg opacity-80 leading-relaxed">Our proprietary calculator can show you exactly how much you’ll save in consolidation versus the long-term cost of settlement. Knowledge is the only weapon against debt.</p>
                 </div>
                 <Link href="/contact" className="bg-[#1F5EFF] text-white font-black py-5 px-12 rounded-2xl hover:scale-110 transition-all shadow-[0_20px_50px_rgba(31,94,255,0.3)] text-xl relative z-10 border-b-4 border-white/20">
@@ -646,7 +646,7 @@ export default function SettlementVsConsolidationPage() {
             <div className="lg:hidden mt-8 space-y-8">
               <div className="bg-[#2E2E2E] rounded-3xl shadow-xl overflow-hidden border border-[#DEDEDE]/10 group">
                 <div className="bg-[#1F5EFF] p-8 text-center text-white">
-                  <h3 className="text-3xl font-black mb-4 uppercase tracking-[0.1em]">We are in This Together</h3>
+                  <h4 className="text-3xl font-black mb-4 uppercase tracking-[0.1em]">We are in This Together</h4>
                   <p className="opacity-90 text-sm font-black leading-relaxed">Don't guess with your future. Get a professional comparison of settlement vs consolidation today. Your future freedom starts with one click.</p>
                 </div>
                 <div className="p-10 text-center text-[#DEDEDE]">

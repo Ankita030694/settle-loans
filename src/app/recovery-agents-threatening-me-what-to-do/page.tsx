@@ -247,36 +247,36 @@ export default function RecoveryHarassmentPage() {
                         </section>
 
                         <section id="rbi-fair-practices-code" className="scroll-mt-32 mb-20">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 uppercase tracking-widest border-b-8 border-gray-100 pb-4">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 uppercase tracking-widest border-b-8 border-gray-100 pb-4">
                                 RBI Guidelines: The Invisible Shield
-                            </h2>
+                            </h3>
                             <p className="mb-8 font-medium">
                                 The <strong>RBI Master Circular on Recovery Agents</strong> is the most potent weapon in your arsenal. Any violation of these codes can lead to the bank being fined or even losing its license to use recovery agents.
                             </p>
                             <div className="grid md:grid-cols-2 gap-6 mb-12">
                                 <div className="p-10 bg-blue-50 border border-blue-100 rounded-[32px] hover:shadow-md transition-all">
-                                    <h3 className="text-xl font-black text-[#1F5EFF] mb-4 uppercase italic leading-none">The 7 to 7 Rule</h3>
+                                    <h4 className="text-xl font-black text-[#1F5EFF] mb-4 uppercase italic leading-none">The 7 to 7 Rule</h4>
                                     <p className="text-sm font-bold opacity-80 uppercase leading-snug">Effective July 1, 2026, no bank or agency can call you Before 7:00 AM or after 7:00 PM. Calls at 9 PM or 10 PM are illegal.</p>
                                 </div>
                                 <div className="p-10 bg-blue-50 border border-blue-100 rounded-[32px] hover:shadow-md transition-all">
-                                    <h4 className="text-xl font-black text-[#1F5EFF] mb-4 uppercase italic leading-none">No Anonymous Calls</h4>
+                                    <h5 className="text-xl font-black text-[#1F5EFF] mb-4 uppercase italic leading-none">No Anonymous Calls</h5>
                                     <p className="text-sm font-bold opacity-80 uppercase leading-snug">Agents must disclose their name, their agency's name, and the bank they represent immediately. Using burner numbers is a violation.</p>
                                 </div>
                                 <div className="p-10 bg-blue-50 border border-blue-100 rounded-[32px] hover:shadow-md transition-all">
-                                    <h4 className="text-xl font-black text-[#1F5EFF] mb-4 uppercase italic leading-none">Privacy is Absolute</h4>
+                                    <h5 className="text-xl font-black text-[#1F5EFF] mb-4 uppercase italic leading-none">Privacy is Absolute</h5>
                                     <p className="text-sm font-bold opacity-80 uppercase leading-snug">Contacting your neighbors, friends, or distant relatives to 'embarrass' you into paying is strictly prohibited and actionable.</p>
                                 </div>
                                 <div className="p-10 bg-blue-50 border border-blue-100 rounded-[32px] hover:shadow-md transition-all">
-                                    <h4 className="text-xl font-black text-[#1F5EFF] mb-4 uppercase italic leading-none">No Criminal Threats</h4>
+                                    <h5 className="text-xl font-black text-[#1F5EFF] mb-4 uppercase italic leading-none">No Criminal Threats</h5>
                                     <p className="text-sm font-bold opacity-80 uppercase leading-snug">Threatening with 'Police Arrest' or 'Jail Time' for a civil debt is professional misconduct and a criminal offense for the agent.</p>
                                 </div>
                             </div>
                         </section>
 
                         <section id="ipc-criminal-protections" className="scroll-mt-32 mb-20 p-12 bg-[#2E2E2E] rounded-[48px] shadow-2xl relative mt-20 text-white">
-                            <h2 className="text-3xl md:text-4xl font-black mb-8 border-l-8 border-[#1F5EFF] pl-6 uppercase tracking-tighter italic">
+                            <h3 className="text-3xl md:text-4xl font-black mb-8 border-l-8 border-[#1F5EFF] pl-6 uppercase tracking-tighter italic">
                                 The IPC Arsenal: Filing a Police Complaint
-                            </h2>
+                            </h3>
                             <p className="mb-8 leading-relaxed font-bold opacity-80">
                                 Harassment is not a "banking issue"; it is a criminal issue. The <strong>Indian Penal Code (IPC)</strong> provides specific sections that apply directly to abusive recovery agents.
                             </p>
@@ -284,35 +284,35 @@ export default function RecoveryHarassmentPage() {
                                 <div className="flex gap-6 items-start">
                                     <div className="w-24 h-24 shrink-0 bg-[#1F5EFF] rounded-2xl flex items-center justify-center font-black text-2xl">503</div>
                                     <div>
-                                        <h3 className="text-xl font-black uppercase text-[#1F5EFF] mb-2 leading-none">Criminal Intimidation</h3>
+                                        <h4 className="text-xl font-black uppercase text-[#1F5EFF] mb-2 leading-none">Criminal Intimidation</h4>
                                         <p className="text-sm opacity-70 font-bold italic leading-relaxed">Threatening you with injury to your person, reputation, or property to force you to perform an act (paying money) you're not legally bound to at that moment physically.</p>
                                     </div>
                                 </div>
                                 <div className="flex gap-6 items-start">
                                     <div className="w-24 h-24 shrink-0 bg-[#1F5EFF] rounded-2xl flex items-center justify-center font-black text-2xl">504</div>
                                     <div>
-                                        <h4 className="text-xl font-black uppercase text-[#1F5EFF] mb-2 leading-none">Intentional Insult</h4>
+                                        <h5 className="text-xl font-black uppercase text-[#1F5EFF] mb-2 leading-none">Intentional Insult</h5>
                                         <p className="text-sm opacity-70 font-bold italic leading-relaxed">Using abusive language or insults intended to provoke a breach of the peace. Perfect for recording agents who use profanity.</p>
                                     </div>
                                 </div>
                                 <div className="flex gap-6 items-start">
                                     <div className="w-24 h-24 shrink-0 bg-[#1F5EFF] rounded-2xl flex items-center justify-center font-black text-2xl">509</div>
                                     <div>
-                                        <h4 className="text-xl font-black uppercase text-[#1F5EFF] mb-2 leading-none">Insult to Modesty</h4>
+                                        <h5 className="text-xl font-black uppercase text-[#1F5EFF] mb-2 leading-none">Insult to Modesty</h5>
                                         <p className="text-sm opacity-70 font-bold italic leading-relaxed">If recovery agents use inappropriate language or gestures toward female family members, this section carries severe penalties including immediate arrest.</p>
                                     </div>
                                 </div>
                             </div>
                             <div className="mt-12 p-8 bg-red-900/30 border border-red-500/20 rounded-3xl">
-                                <h4 className="text-xl font-black text-red-400 mb-2 uppercase">Police Refusing FIR?</h4>
+                                <h5 className="text-xl font-black text-red-400 mb-2 uppercase">Police Refusing FIR?</h5>
                                 <p className="text-sm italic font-bold text-red-200">Demand a written refusal. You can then escalate to the Superintendent of Police (SP) or file a private complaint with a Judicial Magistrate under Section 156(3) of the CrPC.</p>
                             </div>
                         </section>
 
                         <section id="collecting-evidence-harassment" className="scroll-mt-32 mb-20 mt-20">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 uppercase tracking-widest leading-[0.9] decoration-[#1F5EFF] underline underline-offset-8">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 uppercase tracking-widest leading-[0.9] decoration-[#1F5EFF] underline underline-offset-8">
                                 The Evidence Kit: Building Your Case
-                            </h2>
+                            </h3>
                             <p className="mb-8 leading-relaxed text-lg font-medium italic opacity-70">
                                 "The law demands proof. The agent's mistake is your leverage."
                             </p>
@@ -321,7 +321,7 @@ export default function RecoveryHarassmentPage() {
                             </p>
                             <div className="grid md:grid-cols-2 gap-8 my-12">
                                 <div className="p-10 bg-gray-50 rounded-[48px] border border-gray-100 shadow-sm">
-                                    <h3 className="text-2xl font-black mb-4 uppercase italic leading-none text-[#1F5EFF]">Digital Evidence</h3>
+                                    <h4 className="text-2xl font-black mb-4 uppercase italic leading-none text-[#1F5EFF]">Digital Evidence</h4>
                                     <ul className="space-y-3 text-sm font-bold opacity-80 uppercase tracking-tighter">
                                         <li>-- Call Recordings (With timestamps)</li>
                                         <li>-- Screenshots of threatening WhatsApps</li>
@@ -330,7 +330,7 @@ export default function RecoveryHarassmentPage() {
                                     </ul>
                                 </div>
                                 <div className="p-10 bg-gray-50 rounded-[48px] border border-gray-100 shadow-sm">
-                                    <h4 className="text-2xl font-black mb-4 uppercase italic leading-none text-[#1F5EFF]">Documentary Evidence</h4>
+                                    <h5 className="text-2xl font-black mb-4 uppercase italic leading-none text-[#1F5EFF]">Documentary Evidence</h5>
                                     <ul className="space-y-3 text-sm font-bold opacity-80 uppercase tracking-tighter">
                                         <li>-- Photocopy of the Agent's ID (If shown)</li>
                                         <li>-- Photos of fake 'Court' notices</li>
@@ -342,41 +342,41 @@ export default function RecoveryHarassmentPage() {
                         </section>
 
                         <section id="legal-rights-of-defaulters" className="scroll-mt-32 mb-20 p-10 bg-blue-50 rounded-[40px] border-2 border-blue-100 relative shadow-sm overflow-hidden text-center">
-                            <h2 className="text-3xl font-black text-blue-900 mb-6 uppercase tracking-wider italic">Your Unalienable Rights</h2>
+                            <h3 className="text-3xl font-black text-blue-900 mb-6 uppercase tracking-wider italic">Your Unalienable Rights</h3>
                             <div className="grid grid-cols-1 md:grid-cols-3 gap-6 text-left">
                                 <div className="p-6 bg-white rounded-3xl border border-blue-100 shadow-sm">
-                                    <h3 className="text-xs font-black text-blue-500 mb-2 uppercase tracking-widest leading-none">Right to Notice</h3>
+                                    <h4 className="text-xs font-black text-blue-500 mb-2 uppercase tracking-widest leading-none">Right to Notice</h4>
                                     <p className="text-xs font-bold leading-relaxed opacity-80 uppercase uppercase">Lenders must provide 60-day notice for secured and sufficient notice for unsecured loans before recovery.</p>
                                 </div>
                                 <div className="p-6 bg-white rounded-3xl border border-blue-100 shadow-sm">
-                                    <h4 className="text-xs font-black text-blue-500 mb-2 uppercase tracking-widest leading-none">Right to Privacy</h4>
+                                    <h5 className="text-xs font-black text-blue-500 mb-2 uppercase tracking-widest leading-none">Right to Privacy</h5>
                                     <p className="text-xs font-bold leading-relaxed opacity-80 uppercase uppercase">Your employer and neighbors are not part of your debt. Contacting them is a deficiency in service.</p>
                                 </div>
                                 <div className="p-6 bg-white rounded-3xl border border-blue-100 shadow-sm">
-                                    <h4 className="text-xs font-black text-blue-500 mb-2 uppercase tracking-widest leading-none">Right to Settle</h4>
+                                    <h5 className="text-xs font-black text-blue-500 mb-2 uppercase tracking-widest leading-none">Right to Settle</h5>
                                     <p className="text-xs font-bold leading-relaxed opacity-80 uppercase uppercase">You have the right to request a One-Time Settlement (OTS) and be treated politely during the process.</p>
                                 </div>
                             </div>
                         </section>
 
                         <section id="grievance-ombudsman-protocol" className="scroll-mt-32 mb-20 mt-20">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 border-l-8 border-[#2E2E2E] pl-6 uppercase tracking-widest leading-none">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 border-l-8 border-[#2E2E2E] pl-6 uppercase tracking-widest leading-none">
                                 The Ombudsman Protocol: Reaching the RBI
-                            </h2>
+                            </h3>
                             <p className="mb-8 leading-relaxed font-bold">
                                 Banks are terrified of the <strong>Banking Ombudsman</strong>. It is a regulatory office that holds the CEO of the bank accountable for ground-level harassment.
                             </p>
                             <div className="bg-blue-900 p-10 rounded-[48px] text-white my-12 shadow-2xl">
-                                <h3 className="text-2xl font-black mb-4 uppercase italic text-[#1F5EFF] leading-none">How to File</h3>
+                                <h4 className="text-2xl font-black mb-4 uppercase italic text-[#1F5EFF] leading-none">How to File</h4>
                                 <p className="text-sm leading-relaxed opacity-80 font-bold mb-6">1. Log a formal complaint with the Bank's Principal Nodal Officer. <br /> 2. Wait 30 days. <br /> 3. If no resolution, visit <strong>cms.rbi.org.in</strong> and file Case. Attach your evidence recordings.</p>
                                 <p className="text-xs font-black uppercase tracking-[0.2em] font-bold italic text-blue-400">The mere threat of an Ombudsman filing often forces banks to pull back their recovery agents and offer a settlement.</p>
                             </div>
                         </section>
 
                         <section id="harassment-at-workplace" className="scroll-mt-32 mb-20">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 uppercase tracking-widest decoration-[#1F5EFF] underline underline-offset-8">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 uppercase tracking-widest decoration-[#1F5EFF] underline underline-offset-8">
                                 Workplace Shield: Protecting Your Career
-                            </h2>
+                            </h3>
                             <p className="mb-8 leading-relaxed">
                                 A common tactic is threatening to visit your office to "get you fired". <strong>This is explicitly banned by the RBI.</strong>
                             </p>
@@ -386,7 +386,7 @@ export default function RecoveryHarassmentPage() {
                         </section>
 
                         <section id="legal-notice-against-bank" className="scroll-mt-32 mb-20 p-12 bg-[#1F5EFF] rounded-[56px] text-white shadow-2xl relative">
-                            <h2 className="text-3xl md:text-4xl font-black mb-6 uppercase tracking-tighter italic leading-none">Go Offensive: The Injunction Suit</h2>
+                            <h3 className="text-3xl md:text-4xl font-black mb-6 uppercase tracking-tighter italic leading-none">Go Offensive: The Injunction Suit</h3>
                             <p className="text-xl leading-relaxed opacity-90 font-medium mb-8">
                                 Why wait for their move? You can file a <strong>Civil Suit for Permanent Injunction</strong> in your local court against the Bank and the Recovery Agency.
                             </p>
@@ -430,7 +430,7 @@ export default function RecoveryHarassmentPage() {
                         </section>
 
                         <section id="faqs" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 uppercase tracking-widest leading-none">Recovery Harassment FAQs</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 uppercase tracking-widest leading-none">Recovery Harassment FAQs</h3>
                             <div className="space-y-4 not-prose">
                                 {(jsonLd["@graph"] as any)[4]?.mainEntity?.map((faq: any, i: number) => (
                                     <details key={i} className="group bg-white border border-[#DEDEDE] rounded-xl overflow-hidden hover:shadow-md transition-all border-b-4 border-b-[#1F5EFF]/20 shadow-sm">
@@ -458,7 +458,7 @@ export default function RecoveryHarassmentPage() {
                         <div className="lg:hidden mt-16 mb-8">
                             <div className="bg-[#2E2E2E] rounded-2xl shadow-xl overflow-hidden border border-[#1F5EFF]/20">
                                 <div className="bg-[#1F5EFF] p-6 text-center text-white">
-                                    <h3 className="text-2xl font-black mb-2 uppercase tracking-tighter">Silence the Calls</h3>
+                                    <h4 className="text-2xl font-black mb-2 uppercase tracking-tighter">Silence the Calls</h4>
                                     <p className="opacity-90 text-sm italic font-medium">Protect your mental health and family's dignity. Let our experts help you navigate the legal path to a final settlement.</p>
                                 </div>
                                 <div className="p-8 text-center text-[#DEDEDE]">

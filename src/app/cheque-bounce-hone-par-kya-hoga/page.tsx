@@ -32,7 +32,7 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: 'Cheque Bounce Hone Par Kya Hoga: Legal Guide | SettleLoans',
+  title: 'Cheque Bounce Hone Par Kya Hoga: Legal Defense Guide',
   description: 'Cheque bounce hone par kya kare? Discover your rights against bank security cheque misuse, Section 138 notice timelines, bailable offense protections.',
   keywords: [
     'cheque bounce hone par kya kare',
@@ -50,7 +50,7 @@ export const metadata: Metadata = {
     canonical: 'https://www.settleloans.in/cheque-bounce-hone-par-kya-hoga',
   },
   openGraph: {
-    title: 'Cheque Bounce Hone Par Kya Hoga: Legal Guide | SettleLoans',
+    title: 'Cheque Bounce Hone Par Kya Hoga: Legal Defense Guide',
     description: 'Cheque bounce hone par kya kare? Discover your rights against bank security cheque misuse, Section 138 notice timelines, bailable offense protections.',
     url: 'https://www.settleloans.in/cheque-bounce-hone-par-kya-hoga',
     siteName: 'SettleLoans',
@@ -67,7 +67,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'Cheque Bounce Hone Par Kya Hoga: Legal Guide | SettleLoans',
+    title: 'Cheque Bounce Hone Par Kya Hoga: Legal Defense Guide',
     description: 'Cheque bounce hone par kya kare? Discover your rights against bank security cheque misuse, Section 138 notice timelines, bailable offense protections.',
     images: ['https://www.settleloans.in/images/infographics/cheque-bounce-hone-par-kya-hoga.jpg'],
   },
@@ -504,9 +504,9 @@ export default function ChequeBounceHoneParKyaHogaPage() {
                 </span>
                 <span className="text-xs font-black tracking-widest text-[#1F5EFF] uppercase">Section 02</span>
               </div>
-              <h2 className="text-2xl sm:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h3 className="text-2xl sm:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 2. Criminal Intimidation vs Bail Reality: Why Police Cannot Arrest You for Cheque Bounce
-              </h2>
+              </h3>
               <div className="space-y-4 text-slate-700 leading-relaxed text-base">
                 <p>
                   Cheque bounce hone ke baad banks aur NBFCs ke third-party recovery agents dwara borrowers ko sabse jyada daraane ke liye criminal intimidation ka sahara liya jata hai. Agents phone karke ya WhatsApp par aisi warning dete hain ki &quot;Local police station se sub-inspector aapke ghar arrest karne aa raha hai&quot; ya &quot;Aapke khilaf Section 420 aur 406 IPC ke tahat non-bailable FIR darj ho chuki hai.&quot; Yeh poori tarah se gair-kanooni aur misleading tactic hoti hai jo borrower ke psychological panic ka fayda uthane ke liye create ki jati hai.
@@ -534,9 +534,9 @@ export default function ChequeBounceHoneParKyaHogaPage() {
                 </span>
                 <span className="text-xs font-black tracking-widest text-[#1F5EFF] uppercase">Section 03</span>
               </div>
-              <h2 className="text-2xl sm:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h3 className="text-2xl sm:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 3. The 15-Day Statutory Notice Window &amp; Mandatory Limitation Timelines
-              </h2>
+              </h3>
               <div className="space-y-4 text-slate-700 leading-relaxed text-base">
                 <p>
                   Negotiable Instruments Act mein litigation initiate karne ke liye behad kade statutory time limits tay kiye gaye hain. Yadi bank inme se kisi bhi limitation deadline ko miss kar deta hai ya timeline ka ullekhit ullanghan karta hai, toh complaint technical grounds par dismiss hone yogya ho jati hai.
@@ -567,9 +567,9 @@ export default function ChequeBounceHoneParKyaHogaPage() {
                 </span>
                 <span className="text-xs font-black tracking-widest text-[#1F5EFF] uppercase">Section 04</span>
               </div>
-              <h2 className="text-2xl sm:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h3 className="text-2xl sm:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 4. Bank Accounting Dynamics: NPA Provisioning, Court Friction &amp; Net Present Value (NPV)
-              </h2>
+              </h3>
               <div className="space-y-4 text-slate-700 leading-relaxed text-base">
                 <p>
                   Commercial banks cheque bounce hone par criminal notice bhejte hain, lekin antatah wahi bank loan ko 40% se 60% ke bhari discount par settle karne ke liye raazi kyu ho jate hain? Iske peeche Reserve Bank of India (RBI) ke asset classification rules aur banking balance sheet ka financial mathematics hota hai. Jab koi borrower 90 din tak default rehta hai, toh RBI ke <strong>Income Recognition, Asset Classification and Provisioning (IRAC)</strong> norms ke antargat bank ko us loan ko Sub-Standard ya Doubtful NPA mark karna padta hai.
@@ -615,9 +615,9 @@ export default function ChequeBounceHoneParKyaHogaPage() {
                       <span className="text-[10px] font-black uppercase tracking-widest text-blue-300 block">
                         Statutory Defence Workflow
                       </span>
-                      <h3 className="text-sm md:text-base font-black text-white leading-tight">
+                      <h4 className="text-sm md:text-base font-black text-white leading-tight">
                         Cheque Bounce Hone Par Kya Hoga: 4-Stage Legal Defence &amp; OTS Blueprint
-                      </h3>
+                      </h4>
                     </div>
                   </div>
                   <a
@@ -664,9 +664,9 @@ export default function ChequeBounceHoneParKyaHogaPage() {
                 </span>
                 <span className="text-xs font-black tracking-widest text-[#1F5EFF] uppercase">Section 06</span>
               </div>
-              <h2 className="text-2xl sm:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h3 className="text-2xl sm:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 6. Advocate Reply Drafting Strategy: Challenging Security Cheque Misuse &amp; Penal Figures
-              </h2>
+              </h3>
               <div className="space-y-4 text-slate-700 leading-relaxed text-base">
                 <p>
                   Jab bank ka Section 138 demand notice aapke registered address par receive hota hai, toh sabse pehli aur sabse prabhavi legal action hoti hai 15 din ke bheetar ek formal <strong>Advocate Rejoinder</strong> dispatch karna. Ek seasoned banking advocate dwara draft kiya gaya rejoinder bank ki criminal complaint ko shuruat mein hi challenge kar deta hai aur future court proceedings ke liye borrower ke paksh mein certified documentary evidence create karta hai.
@@ -697,9 +697,9 @@ export default function ChequeBounceHoneParKyaHogaPage() {
                 </span>
                 <span className="text-xs font-black tracking-widest text-[#1F5EFF] uppercase">Section 07</span>
               </div>
-              <h2 className="text-2xl sm:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h3 className="text-2xl sm:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 7. Magistrate Court Summons, Furnishing Bail, and Personal Exemption Under Section 205 CrPC
-              </h2>
+              </h3>
               <div className="space-y-4 text-slate-700 leading-relaxed text-base">
                 <p>
                   Yadi notice ke baad bhi bank Judicial Magistrate Court mein Section 138 ke tahat Private Criminal Complaint file karta hai, toh court preliminary verification ke baad borrower ke naam par <strong>Court Summons</strong> dispatch karti hai. Summons aane ka matlab yeh bilkul nahi hota ki aapko jail bheja ja raha hai; summons ka matlab sirf yeh hai ki adalat aapko matter mein apna paksh rakhne ke liye nirdharit tareekh par bulawa bhej rahi hai.
@@ -727,9 +727,9 @@ export default function ChequeBounceHoneParKyaHogaPage() {
                 </span>
                 <span className="text-xs font-black tracking-widest text-[#1F5EFF] uppercase">Section 08</span>
               </div>
-              <h2 className="text-2xl sm:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h3 className="text-2xl sm:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 8. Compounding of Offence Under Section 147 NI Act: How Loan Settlement (OTS) Formally Withdraws Cases
-              </h2>
+              </h3>
               <div className="space-y-4 text-slate-700 leading-relaxed text-base">
                 <p>
                   Section 138 Negotiable Instruments Act ki sabse anokhi visheshta iska <strong>Section 147</strong> hai, jo is offense ko &quot;Compoundable&quot; banata hai. Indian criminal law mein compounding ka matlab hota hai dono pakshon ke beech samjhauta (compromise) hona, jiske baad criminal case permanently khatam ho jata hai aur borrower par acquittal (doshmukt) ka legal effect padta hai. Supreme Court of India ne <em>Damodar S. Prabhu v. Sayed Babalal H. (2010)</em> tatha <em>M/s Meters and Instruments Pvt Ltd v. Kanchan Mehta (2018)</em> ke landmark faislon mein spasht kiya hai ki Section 138 cases ka primary objective compensation aur recovery hai, na ki criminal punishment.
@@ -760,9 +760,9 @@ export default function ChequeBounceHoneParKyaHogaPage() {
                 </span>
                 <span className="text-xs font-black tracking-widest text-[#1F5EFF] uppercase">Section 09</span>
               </div>
-              <h2 className="text-2xl sm:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h3 className="text-2xl sm:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 9. Comparative Evaluation Matrix: Cheque Dishonour vs. Alternate Banking Recovery Mechanisms
-              </h2>
+              </h3>
               <div className="space-y-4 text-slate-700 leading-relaxed text-base">
                 <p>
                   Lenders borrower ke default par alag-alag kanooni dastavez aur statutes ka prayog karte hain. Niche di gayi comparative matrix table aapko Section 138 Cheque Bounce, Section 25 PSSA NACH Bounce, Order 37 CPC Summary Suit, aur Arbitration Act ke beech ke kanooni antar aur defensive remedies ko spasht roop se darshati hai:
@@ -835,9 +835,9 @@ export default function ChequeBounceHoneParKyaHogaPage() {
                 </span>
                 <span className="text-xs font-black tracking-widest text-[#1F5EFF] uppercase">Section 11</span>
               </div>
-              <h2 className="text-2xl sm:text-3xl font-black text-slate-900 mb-6 leading-tight">
+              <h3 className="text-2xl sm:text-3xl font-black text-slate-900 mb-6 leading-tight">
                 Frequently Asked Questions: Cheque Bounce Legal Defence &amp; Case Withdrawal
-              </h2>
+              </h3>
 
               <div className="space-y-4">
                 <details className="group border border-slate-200 rounded-2xl bg-white shadow-sm overflow-hidden transition-all duration-200 hover:border-slate-300" open>

@@ -526,7 +526,7 @@ export default function PersonalLoanSettlementMaduraiPage() {
 
             {/* Section 2: Regional Debt Landscape: SARB & Microfinance */}
             <section id="regional-debt-landscape-sarb-microfinance" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">2. Southern Tamil Nadu Debt Landscape &amp; Realities</h2>
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">2. Southern Tamil Nadu Debt Landscape &amp; Realities</h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Trade in Southern Tamil Nadu runs on seasonal cash flows. When banks set up automated NACH debits, missed payments trigger fast recovery action across four main areas:
               </p>
@@ -577,7 +577,7 @@ export default function PersonalLoanSettlementMaduraiPage() {
 
             {/* Section 3: Statutory Protections & Judicial Framework */}
             <section id="statutory-protections-madurai-bench-rbi" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">3. Statutory Protections in Madurai</h2>
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">3. Statutory Protections in Madurai</h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Borrowers in Southern Tamil Nadu enjoy strong legal rights. The Madurai Bench of the Madras High Court has ruled that banks cannot use private muscle men or police to collect loans. Pure loan default is strictly a civil matter.
               </p>
@@ -592,16 +592,16 @@ export default function PersonalLoanSettlementMaduraiPage() {
                 </p>
               </div>
 
-              <h3 className="text-base sm:text-lg font-bold text-slate-900 pt-2">
+              <h4 className="text-base sm:text-lg font-bold text-slate-900 pt-2">
                 Defending Section 138 NI Act &amp; Section 25 PSSA Summons
-              </h3>
+              </h4>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 When NACH auto-debits or cheques bounce, lenders file complaints under Section 138 of the Negotiable Instruments Act or Section 25 of the PSSA in Madurai courts. Defense advocates represent you, challenge false interest claims. And move the matter to the <strong>National Lok Adalat</strong>. Under Section 147 of the NI Act, all court cases are closed permanently once you settle.
               </p>
 
-              <h3 className="text-base sm:text-lg font-bold text-slate-900 pt-2">
+              <h4 className="text-base sm:text-lg font-bold text-slate-900 pt-2">
                 RBI Anti-Harassment Rules
-              </h3>
+              </h4>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Under RBI Fair Practice Codes, recovery agents can only call between 8:00 AM and 7:00 PM. They cannot call your relatives or friends. They cannot visit your workplace or use harsh words.
               </p>
@@ -609,7 +609,7 @@ export default function PersonalLoanSettlementMaduraiPage() {
 
             {/* Section 4: Bank Balance Sheet Accounting, NPA Provisioning & NPV Equation */}
             <section id="bank-balance-sheet-accounting-npv-madurai" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">4. NPA Accounting &amp; NPV Models in Madurai</h2>
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">4. NPA Accounting &amp; NPV Models in Madurai</h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Debt waivers are built on RBI accounting rules. When an unsecured personal loan stays unpaid past 90 days, it becomes a Non-Performing Asset (NPA). For doubtful loans, banks must set aside <strong>100% of the loan amount as capital provision</strong> from their profits.
               </p>
@@ -684,7 +684,7 @@ export default function PersonalLoanSettlementMaduraiPage() {
 
             {/* Section 5: Infographic Banner */}
             <section id="madurai-debt-settlement-visual-roadmap" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">5. Loan Settlement Roadmap in Madurai</h2>
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">5. Loan Settlement Roadmap in Madurai</h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 This simple roadmap explains the 5 key stages to settle delinquent personal loans, stop SARB notices. And get your No Dues Certificate across Southern Tamil Nadu.
               </p>
@@ -719,38 +719,38 @@ export default function PersonalLoanSettlementMaduraiPage() {
 
             {/* Section 6: Advocate Negotiation Protocol with Bank SARBs */}
             <section id="advocate-negotiation-protocol-sarb" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">6. Legal Settlement Protocol in Madurai</h2>
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">6. Legal Settlement Protocol in Madurai</h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Settling defaulted personal loans with major banks (HDFC, ICICI, Axis, Kotak, SBI) or NBFCs follows five proven steps:
               </p>
 
               <div className="space-y-3 my-4">
                 <div className="p-4 rounded-xl border-l-4 border-blue-600 bg-slate-50 space-y-1">
-                  <h3 className="font-bold text-slate-900 text-xs sm:text-sm">Phase 1: Loan Statement Audit</h3>
+                  <h4 className="font-bold text-slate-900 text-xs sm:text-sm">Phase 1: Loan Statement Audit</h4>
                   <p className="text-xs text-slate-600 leading-relaxed">
                     Advocates audit your loan statement. We remove unfair late fees, bounce charges. And penal interest that violate RBI guidelines.
                   </p>
                 </div>
                 <div className="p-4 rounded-xl border-l-4 border-indigo-600 bg-slate-50 space-y-1">
-                  <h4 className="font-bold text-slate-900 text-xs sm:text-sm">Phase 2: Legal Representation Notice</h4>
+                  <h5 className="font-bold text-slate-900 text-xs sm:text-sm">Phase 2: Legal Representation Notice</h5>
                   <p className="text-xs text-slate-600 leading-relaxed">
                     We serve formal legal notices on the bank nodal officer and SARB manager. This directs all calls to counsel and stops visits to your workplace.
                   </p>
                 </div>
                 <div className="p-4 rounded-xl border-l-4 border-purple-600 bg-slate-50 space-y-1">
-                  <h4 className="font-bold text-slate-900 text-xs sm:text-sm">Phase 3: Financial Hardship Dossier</h4>
+                  <h5 className="font-bold text-slate-900 text-xs sm:text-sm">Phase 3: Financial Hardship Dossier</h5>
                   <p className="text-xs text-slate-600 leading-relaxed">
                     We assemble verified proof of income loss, medical bills, or business setbacks. This proves your reduced capacity to pay under RBI rules.
                   </p>
                 </div>
                 <div className="p-4 rounded-xl border-l-4 border-amber-600 bg-slate-50 space-y-1">
-                  <h4 className="font-bold text-slate-900 text-xs sm:text-sm">Phase 4: Credit Committee Negotiations</h4>
+                  <h5 className="font-bold text-slate-900 text-xs sm:text-sm">Phase 4: Credit Committee Negotiations</h5>
                   <p className="text-xs text-slate-600 leading-relaxed">
                     Counsel negotiates directly with bank credit committees. We secure a 40% to 60% principal waiver paid in easy parts.
                   </p>
                 </div>
                 <div className="p-4 rounded-xl border-l-4 border-emerald-600 bg-slate-50 space-y-1">
-                  <h4 className="font-bold text-slate-900 text-xs sm:text-sm">Phase 5: Lok Adalat Case Closure</h4>
+                  <h5 className="font-bold text-slate-900 text-xs sm:text-sm">Phase 5: Lok Adalat Case Closure</h5>
                   <p className="text-xs text-slate-600 leading-relaxed">
                     If Section 138 or Section 25 court cases exist, counsel presents the settlement before the National Lok Adalat to dismiss all cases for good.
                   </p>
@@ -760,7 +760,7 @@ export default function PersonalLoanSettlementMaduraiPage() {
 
             {/* Section 7: Forensic Verification of Sanction Letters */}
             <section id="forensic-sanction-letter-verification" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">7. Sanction Letter Checklist in Madurai</h2>
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">7. Sanction Letter Checklist in Madurai</h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Borrowers must watch out for fake settlement letters issued by rogue recovery agents. Before paying any money, our advocates check four vital points on your OTS letter:
               </p>
@@ -817,7 +817,7 @@ export default function PersonalLoanSettlementMaduraiPage() {
 
             {/* Section 8: Remittance Protocols, RBI 30-Day NDC Mandate & CIBIL Bureau Rehabilitation */}
             <section id="remittance-rbi-ndc-cibil-restoration" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">8. Settlement Remittance &amp; NDC in Madurai</h2>
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">8. Settlement Remittance &amp; NDC in Madurai</h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Under <strong>RBI Circular RBI/2023-24/60</strong>, lenders must issue your official <strong>No Dues Certificate (NDC)</strong>, return security cheques. And update credit records within <strong>30 days</strong> of full payment. If the bank delays without reason, it must pay you a penalty of <strong>₹5,000 per day of delay</strong>.
               </p>
@@ -835,7 +835,7 @@ export default function PersonalLoanSettlementMaduraiPage() {
 
             {/* Section 9: Comparative Debt Resolution Strategy Matrix */}
             <section id="madurai-debt-resolution-strategy-matrix" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">9. Debt Resolution Matrix in Madurai</h2>
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">9. Debt Resolution Matrix in Madurai</h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Compare debt options for Madurai, Dindigul, and Virudhunagar borrowers to pick the best path forward:
               </p>
@@ -895,7 +895,7 @@ export default function PersonalLoanSettlementMaduraiPage() {
             {/* Section 10: SettleLoans Legal Defense & Advisory + CompanySection */}
             <section id="company-resolution-section" className="space-y-6">
               <div className="border-t border-slate-200 pt-8 space-y-4">
-                <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">10. SettleLoans Legal Relief in Southern Tamil Nadu</h2>
+                <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">10. SettleLoans Legal Relief in Southern Tamil Nadu</h3>
                 <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                   SettleLoans provides full debt defense across Madurai, Dindigul, and Virudhunagar. We issue legal cease-and-desist notices, defend Section 138 court summons, remove unfair penal fees. And negotiate directly with bank credit committees for maximum OTS waivers backed by stamped ₹0 No Dues Certificates.
                 </p>
@@ -912,9 +912,9 @@ export default function PersonalLoanSettlementMaduraiPage() {
                   <Gavel className="w-4 h-4" />
                   <span>Local Legal Jurisdiction &amp; Legal Aid Directory</span>
                 </div>
-                <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+                <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                   District Courts &amp; DLSA Helpdesk in Madurai
-                </h2>
+                </h3>
                 <p className="text-slate-700 leading-relaxed mb-6 text-base">
                   Distressed borrowers facing recovery pressure, arbitration summons, or Section 138 NI Act notices in Madurai can access statutory legal defense through the local District Court and District Legal Services Authority (DLSA):
                 </p>
@@ -949,7 +949,7 @@ export default function PersonalLoanSettlementMaduraiPage() {
 <section id="faqs" className="space-y-4 border-t border-slate-200 pt-8">
               <div className="flex items-center gap-2 mb-2">
                 <HelpCircle className="w-5 h-5 text-[#1F5EFF]" />
-                <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">11. FAQs: Loan Settlement in Madurai</h2>
+                <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">11. FAQs: Loan Settlement in Madurai</h3>
               </div>
               <p className="text-xs sm:text-sm text-slate-600 mb-6">
                 Clear answers to common questions about personal loan settlements, SARB notices, Lok Adalat hearings. And borrower rights across Southern Tamil Nadu.
@@ -979,9 +979,9 @@ export default function PersonalLoanSettlementMaduraiPage() {
 
             {/* 5 Official Regulatory Links */}
             <section className="border-t border-slate-200 pt-8 mb-4">
-              <h3 className="text-xs sm:text-sm font-bold text-slate-900 mb-3 uppercase tracking-wider">
+              <h4 className="text-xs sm:text-sm font-bold text-slate-900 mb-3 uppercase tracking-wider">
                 Official Statutory &amp; Regulatory References
-              </h3>
+              </h4>
               <div className="grid grid-cols-1 sm:grid-cols-2 gap-2.5 text-xs">
                 <a
                   href="https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=12513&Mode=0"
@@ -1033,9 +1033,9 @@ export default function PersonalLoanSettlementMaduraiPage() {
 
             {/* 10 Related Guide Badges */}
             <section className="border-t border-slate-200 pt-8 mb-8">
-              <h3 className="text-xs sm:text-sm font-bold text-slate-900 mb-4 uppercase tracking-wider">
+              <h4 className="text-xs sm:text-sm font-bold text-slate-900 mb-4 uppercase tracking-wider">
                 Related Banking &amp; Debt Resolution Guides
-              </h3>
+              </h4>
               <div className="flex flex-wrap gap-2">
                 <Link
                   href="/bank-one-time-settlement-ots-policy"

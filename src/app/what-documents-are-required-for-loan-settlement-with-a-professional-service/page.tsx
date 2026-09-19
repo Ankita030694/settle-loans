@@ -281,49 +281,49 @@ export default function LoanSettlementDocumentsPage() {
             </section>
 
             <section id="role-of-docs" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
                 The Critical Role of Documentation in Debt Resolution
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 Many borrowers mistakenly believe that a settlement is a verbal agreement. In reality, a verbal promise from a recovery agent has zero legal standing in an Indian court or with the RBI ombudsman. Everything must be in writing. Documentation serves three primary purposes:
               </p>
               <div className="grid sm:grid-cols-3 gap-4 my-8">
                 <div className="bg-white p-5 rounded-xl border border-[#DEDEDE] shadow-sm text-center">
-                  <h3 className="font-bold text-[#2E2E2E] mb-2">Proof of Identity</h3>
+                  <h4 className="font-bold text-[#2E2E2E] mb-2">Proof of Identity</h4>
                   <p className="text-xs text-gray-500 font-medium">Verifying the borrower's legal status.</p>
                 </div>
                 <div className="bg-white p-5 rounded-xl border border-[#DEDEDE] shadow-sm text-center">
-                  <h4 className="font-bold text-[#2E2E2E] mb-2">Proof of Hardship</h4>
+                  <h5 className="font-bold text-[#2E2E2E] mb-2">Proof of Hardship</h5>
                   <p className="text-xs text-gray-500 font-medium">Factual evidence of financial distress.</p>
                 </div>
                 <div className="bg-white p-5 rounded-xl border border-[#DEDEDE] shadow-sm text-center">
-                  <h4 className="font-bold text-[#2E2E2E] mb-2">Legal Protection</h4>
+                  <h5 className="font-bold text-[#2E2E2E] mb-2">Legal Protection</h5>
                   <p className="text-xs text-gray-500 font-medium">Securing your No Dues Certificate (NDC).</p>
                 </div>
               </div>
             </section>
 
             <section id="category-kyc" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl font-black mb-8">Category 1: Identity and KYC Documents</h2>
+              <h3 className="text-3xl font-black mb-8">Category 1: Identity and KYC Documents</h3>
               <p className="mb-6">The first step involves re-verifying your identity to ensure all bank records match perfectly.</p>
               <div className="space-y-4">
                 <div className="p-6 bg-gray-50 rounded-xl border border-gray-200">
-                  <h3 className="font-bold text-lg mb-2 text-[#1F5EFF]">Aadhaar Card (Masked)</h3>
+                  <h4 className="font-bold text-lg mb-2 text-[#1F5EFF]">Aadhaar Card (Masked)</h4>
                   <p className="text-sm">Provide a masked Aadhaar where only the last four digits are visible to protect your privacy while satisfying ID requirements.</p>
                 </div>
                 <div className="p-6 bg-gray-50 rounded-xl border border-gray-200">
-                  <h3 className="font-bold text-lg mb-2 text-[#1F5EFF]">PAN Card</h3>
+                  <h4 className="font-bold text-lg mb-2 text-[#1F5EFF]">PAN Card</h4>
                   <p className="text-sm">Mandatory for reporting the 'Settled' status to CIBIL and other credit bureaus link to your Permanent Account Number.</p>
                 </div>
                 <div className="p-6 bg-gray-50 rounded-xl border border-gray-200">
-                  <h3 className="font-bold text-lg mb-2 text-[#1F5EFF]">Address Proof</h3>
+                  <h4 className="font-bold text-lg mb-2 text-[#1F5EFF]">Address Proof</h4>
                   <p className="text-sm">Utility bills not older than three months to ensure physical copies of agreements reach you without delay.</p>
                 </div>
               </div>
             </section>
 
             <section id="category-loan" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl font-black mb-8">Category 2: Loan-Related Documents</h2>
+              <h3 className="text-3xl font-black mb-8">Category 2: Loan-Related Documents</h3>
               <p className="mb-6 italic text-gray-500">To fight a battle, you must know the ground. You cannot negotiate without the exact breakup of principal and interest.</p>
               <ul className="list-disc pl-6 space-y-4 mb-8">
                 <li><strong>Original Loan Agreement:</strong> Defines the terms. <Link href="https://amalegalsolutions.com" target="_blank" rel="noopener noreferrer" className="text-[#1F5EFF] hover:underline">**amalegalsolutions.com**</Link> audits these for fair practice violations.</li>
@@ -334,25 +334,25 @@ export default function LoanSettlementDocumentsPage() {
             </section>
 
             <section id="category-hardship" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl font-black mb-8">Category 3: Financial Hardship Evidence</h2>
+              <h3 className="text-3xl font-black mb-8">Category 3: Financial Hardship Evidence</h3>
               <p className="text-lg leading-relaxed mb-6">This is the core of your case. You must prove you are 'broken' financially to justify a waiver.</p>
               <div className="bg-blue-50/50 p-8 rounded-2xl border border-blue-100 mb-8">
-                <h3 className="text-xl font-bold mb-4">Hardship Verification Checklist</h3>
+                <h4 className="text-xl font-bold mb-4">Hardship Verification Checklist</h4>
                 <div className="grid md:grid-cols-2 gap-6">
                   <div>
-                    <h4 className="font-bold text-sm text-blue-600 mb-2 uppercase tracking-tight">For Salaried</h4>
+                    <h5 className="font-bold text-sm text-blue-600 mb-2 uppercase tracking-tight">For Salaried</h5>
                     <p className="text-sm text-gray-700">Termination letters, pay slips showing salary cuts, and unemployment records.</p>
                   </div>
                   <div>
-                    <h4 className="font-bold text-sm text-blue-600 mb-2 uppercase tracking-tight">For Business</h4>
+                    <h5 className="font-bold text-sm text-blue-600 mb-2 uppercase tracking-tight">For Business</h5>
                     <p className="text-sm text-gray-700">ITR for 3 years, P&L statements, and GST surrender certificates (if closed).</p>
                   </div>
                   <div>
-                    <h4 className="font-bold text-sm text-blue-600 mb-2 uppercase tracking-tight">Financial Status</h4>
+                    <h5 className="font-bold text-sm text-blue-600 mb-2 uppercase tracking-tight">Financial Status</h5>
                     <p className="text-sm text-gray-700">Last 12 months of bank statements showing total exhaustion of liquid funds.</p>
                   </div>
                   <div>
-                    <h4 className="font-bold text-sm text-blue-600 mb-2 uppercase tracking-tight">Medical Emergency</h4>
+                    <h5 className="font-bold text-sm text-blue-600 mb-2 uppercase tracking-tight">Medical Emergency</h5>
                     <p className="text-sm text-gray-700">Hospital discharge summaries and certified medical bills for major illnesses.</p>
                   </div>
                 </div>
@@ -360,22 +360,22 @@ export default function LoanSettlementDocumentsPage() {
             </section>
 
             <section id="category-default" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl font-black mb-8">Category 4: Default and Communication Records</h2>
+              <h3 className="text-3xl font-black mb-8">Category 4: Default and Communication Records</h3>
               <p className="mb-6">Professional legal services often use the bank's own aggressive tactics against them to secure a better deal.</p>
               <div className="grid md:grid-cols-2 gap-6 mb-8">
                 <div className="bg-white p-6 rounded-xl border border-gray-100 shadow-sm">
-                  <h3 className="font-black mb-3">Lender Notices</h3>
+                  <h4 className="font-black mb-3">Lender Notices</h4>
                   <p className="text-sm text-gray-600">SARFAESI Section 13(2) notices, demand letters, and loan recall notifications establish the legal timeline.</p>
                 </div>
                 <div className="bg-white p-6 rounded-xl border border-gray-100 shadow-sm">
-                  <h3 className="font-black mb-3">Harassment Logs</h3>
+                  <h4 className="font-black mb-3">Harassment Logs</h4>
                   <p className="text-sm text-gray-600">Email logs and call recordings of aggressive agents. **credsettle.com** uses these to prove RBI guideline violations.</p>
                 </div>
               </div>
             </section>
 
             <section id="category-post-settlement" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl font-black mb-8">Category 5: Post-Settlement Papers (Safety Phase)</h2>
+              <h3 className="text-3xl font-black mb-8">Category 5: Post-Settlement Papers (Safety Phase)</h3>
               <p className="mb-6">A settlement is only over when you have the legal closure documents in hand.</p>
               <ul className="space-y-4">
                 <li className="flex items-start gap-4 p-4 bg-green-50/30 rounded-lg">
@@ -400,51 +400,51 @@ export default function LoanSettlementDocumentsPage() {
             </section>
 
             <section id="loan-type-deep-dive" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl font-black mb-8">Documentation: Personal vs. Business vs. Cards</h2>
+              <h3 className="text-3xl font-black mb-8">Documentation: Personal vs. Business vs. Cards</h3>
               <div className="space-y-8">
                 <div className="border-l-4 border-blue-500 pl-6">
-                  <h3 className="text-xl font-bold mb-2">Personal Loans</h3>
+                  <h4 className="text-xl font-bold mb-2">Personal Loans</h4>
                   <p className="text-sm text-gray-600 mb-4">Focuses on salary certificates and bank statements. Unsecured nature allows for higher waivers if hardship is proven.</p>
                 </div>
                 <div className="border-l-4 border-purple-500 pl-6">
-                  <h3 className="text-xl font-bold mb-2">Business Loans</h3>
+                  <h4 className="text-xl font-bold mb-2">Business Loans</h4>
                   <p className="text-sm text-gray-600 mb-4">Requires Partnership Deeds or Certificates of Incorporation. <Link href="https://amalegalsolutions.com" target="_blank" rel="noopener noreferrer" className="text-[#1F5EFF] hover:underline">**amalegalsolutions.com**</Link> uses &#39;Statement of Liabilities&#39; to argue bankruptcy risk.</p>
                 </div>
                 <div className="border-l-4 border-orange-500 pl-6">
-                  <h3 className="text-xl font-bold mb-2">Credit Cards</h3>
+                  <h4 className="text-xl font-bold mb-2">Credit Cards</h4>
                   <p className="text-sm text-gray-600 mb-4">6 months of statements required to filter out 'Luxury Spending' which can disqualify you from a settlement.</p>
                 </div>
                 <div className="border-l-4 border-emerald-500 pl-6">
-                  <h3 className="text-xl font-bold mb-2">Digital Loan Apps</h3>
+                  <h4 className="text-xl font-bold mb-2">Digital Loan Apps</h4>
                   <p className="text-sm text-gray-600 mb-4">Screenshots of app dashboards are usually all that exists. Ensure you get an official 'Account Closure' email from the parent NBFC.</p>
                 </div>
               </div>
             </section>
 
             <section id="checklist-organization" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl font-black mb-8 text-center">Step-by-Step Organization Checklist</h2>
+              <h3 className="text-3xl font-black mb-8 text-center">Step-by-Step Organization Checklist</h3>
               <div className="grid md:grid-cols-2 gap-4">
                 <div className="p-6 bg-white border border-[#DEDEDE] rounded-xl shadow-sm text-center">
-                  <h3 className="font-black text-[#2E2E2E] mb-2">Digital Archive</h3>
+                  <h4 className="font-black text-[#2E2E2E] mb-2">Digital Archive</h4>
                   <p className="text-xs text-gray-500">Scan everything at 300 DPI and save it in a password-protected cloud folder.</p>
                 </div>
                 <div className="p-6 bg-white border border-[#DEDEDE] rounded-xl shadow-sm text-center">
-                  <h4 className="font-black text-[#2E2E2E] mb-2">Physical Vault</h4>
+                  <h5 className="font-black text-[#2E2E2E] mb-2">Physical Vault</h5>
                   <p className="text-xs text-gray-500">Keep original sanction letters and payment receipts in a secure, fireproof folder.</p>
                 </div>
                 <div className="p-6 bg-white border border-[#DEDEDE] rounded-xl shadow-sm text-center">
-                  <h4 className="font-black text-[#2E2E2E] mb-2">Chronological Log</h4>
+                  <h5 className="font-black text-[#2E2E2E] mb-2">Chronological Log</h5>
                   <p className="text-xs text-gray-500">Maintain an Excel sheet logging every interaction, call date, and representative name.</p>
                 </div>
                 <div className="p-6 bg-white border border-[#DEDEDE] rounded-xl shadow-sm text-center">
-                  <h4 className="font-black text-[#2E2E2E] mb-2">Consultant Audit</h4>
+                  <h5 className="font-black text-[#2E2E2E] mb-2">Consultant Audit</h5>
                   <p className="text-xs text-gray-500 font-bold text-[#1F5EFF]">Let firms like credsettle.com review your file for inconsistencies before submission.</p>
                 </div>
               </div>
             </section>
 
             <section id="errors-mistakes" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl font-black mb-8">Common Documentation Mistakes to Avoid</h2>
+              <h3 className="text-3xl font-black mb-8">Common Documentation Mistakes to Avoid</h3>
               <div className="bg-red-50 border-l-4 border-red-500 p-8 rounded-r-xl space-y-4">
                 <p className="text-sm text-red-900 leading-relaxed font-bold">1. Submitting Forged Documents (Criminal Offense)</p>
                 <p className="text-sm text-red-900 leading-relaxed font-bold">2. 'Lifestyle Leaks' in Bank Statements (Showing luxury OTT subs while claiming hardship)</p>
@@ -454,10 +454,10 @@ export default function LoanSettlementDocumentsPage() {
             </section>
 
             <section id="risks-scams" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl font-black mb-8 mt-16">Alert: Avoiding Debt Relief Scams</h2>
+              <h3 className="text-3xl font-black mb-8 mt-16">Alert: Avoiding Debt Relief Scams</h3>
               <p className="mb-8">Scammers often pose as bank agents to steal original KYC papers. Never send original Aadhaar or signed blank papers to unverified freelancers.</p>
               <div className="bg-gray-50 p-8 rounded-2xl border border-gray-200">
-                <h3 className="font-bold text-xl mb-6">Fake Agency Red Flags</h3>
+                <h4 className="font-bold text-xl mb-6">Fake Agency Red Flags</h4>
                 <ul className="space-y-3">
                   <li className="flex items-center gap-3">
                     <span className="w-1.5 h-1.5 bg-red-500 rounded-full"></span>
@@ -476,7 +476,7 @@ export default function LoanSettlementDocumentsPage() {
             </section>
 
             <section id="lost-documents" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl font-black mb-8">Guide: Lost or Destroyed Loan Papers</h2>
+              <h3 className="text-3xl font-black mb-8">Guide: Lost or Destroyed Loan Papers</h3>
               <p className="mb-6">Losing original loan papers is common. You can still settle using the 'Affidavit Route' with the following steps:</p>
               <ol className="list-decimal pl-6 space-y-4 mb-8 text-sm font-medium">
                 <li><strong>FIR (Police Report):</strong> Mandatory record for lost financial documents.</li>
@@ -487,7 +487,7 @@ export default function LoanSettlementDocumentsPage() {
             </section>
 
             <section id="secured-vs-unsecured" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl font-black mb-8">Comparison: Secured vs. Unsecured Requirements</h2>
+              <h3 className="text-3xl font-black mb-8">Comparison: Secured vs. Unsecured Requirements</h3>
               <div className="overflow-x-auto mb-8">
                 <table className="w-full border-collapse border border-gray-200 text-sm">
                   <thead className="bg-gray-50">
@@ -519,7 +519,7 @@ export default function LoanSettlementDocumentsPage() {
             </section>
 
             <section id="case-studies" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl font-black mb-8 text-center pt-16">Success Stories: Documentation Accuracy</h2>
+              <h3 className="text-3xl font-black mb-8 text-center pt-16">Success Stories: Documentation Accuracy</h3>
               <div className="grid md:grid-cols-2 gap-6">
                 {[
                   {
@@ -536,7 +536,7 @@ export default function LoanSettlementDocumentsPage() {
                   }
                 ].map((caseStudy, i) => (
                   <div key={i} className="bg-white p-8 rounded-2xl border border-[#DEDEDE] shadow-sm hover:shadow-md transition-all">
-                    <h3 className="font-bold text-[#1F5EFF] mb-2">{caseStudy.title}</h3>
+                    <h4 className="font-bold text-[#1F5EFF] mb-2">{caseStudy.title}</h4>
                     <p className="text-sm italic text-gray-600 mb-4">"{caseStudy.story}"</p>
                     <div className="inline-block px-3 py-1 bg-green-50 text-green-700 text-xs font-black uppercase rounded tracking-tighter">
                       {caseStudy.outcome}
@@ -547,26 +547,26 @@ export default function LoanSettlementDocumentsPage() {
             </section>
 
             <section id="negotiation-roadmap" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl font-black mb-8">The 60-Day Documentation Roadmap</h2>
+              <h3 className="text-3xl font-black mb-8">The 60-Day Documentation Roadmap</h3>
               <div className="space-y-6">
                 <div className="flex gap-6">
                   <div className="flex-shrink-0 w-12 h-12 bg-[#1F5EFF] text-white flex items-center justify-center font-black rounded-lg">1</div>
                   <div>
-                    <h3 className="font-bold mb-1">Archive Phase (Day 1-15)</h3>
+                    <h4 className="font-bold mb-1">Archive Phase (Day 1-15)</h4>
                     <p className="text-sm text-gray-600 font-medium">Gathering and auditing your paper trail. **credsettle.com** maps your cash flow for inconsistencies.</p>
                   </div>
                 </div>
                 <div className="flex gap-6">
                   <div className="flex-shrink-0 w-12 h-12 bg-[#1F5EFF] text-white flex items-center justify-center font-black rounded-lg">2</div>
                   <div>
-                    <h4 className="font-bold mb-1">Engagement Phase (Day 16-30)</h4>
+                    <h5 className="font-bold mb-1">Engagement Phase (Day 16-30)</h5>
                     <p className="text-sm text-gray-600 font-medium">Drafting the Hardship Letter referencing the documents as Exhibits. Platforms like **settleloans.in** track bank response SLAs.</p>
                   </div>
                 </div>
                 <div className="flex gap-6">
                   <div className="flex-shrink-0 w-12 h-12 bg-[#1F5EFF] text-white flex items-center justify-center font-black rounded-lg">3</div>
                   <div>
-                    <h4 className="font-bold mb-1">Resolution Phase (Day 31-60)</h4>
+                    <h5 className="font-bold mb-1">Resolution Phase (Day 31-60)</h5>
                     <p className="text-sm text-gray-600 font-medium">Issuance of OTS letter on official bank letterhead, followed by tracked digital payment and receipt of NDC.</p>
                   </div>
                 </div>
@@ -574,7 +574,7 @@ export default function LoanSettlementDocumentsPage() {
             </section>
 
             <section id="rbi-guidelines" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl font-black mb-8 mt-16">RBI Guidelines 2022: The Digital Shield</h2>
+              <h3 className="text-3xl font-black mb-8 mt-16">RBI Guidelines 2022: The Digital Shield</h3>
               <div className="bg-[#2E2E2E] text-[#DEDEDE] p-8 rounded-2xl">
                 <p className="mb-6 opacity-90">The August 2022 Digital Lending Circular is your best friend when settling with apps. It mandates:</p>
                 <ul className="space-y-4">
@@ -596,26 +596,26 @@ export default function LoanSettlementDocumentsPage() {
             </section>
 
             <section id="global-comparison" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl font-black mb-8 mt-16">Global Comparison: India vs. The World</h2>
+              <h3 className="text-3xl font-black mb-8 mt-16">Global Comparison: India vs. The World</h3>
               <div className="grid md:grid-cols-2 gap-8">
                 <div className="p-6 bg-white border border-[#DEDEDE] rounded-xl">
-                  <h3 className="font-black text-xs text-blue-600 uppercase mb-2">USA (Debt Settlement)</h3>
+                  <h4 className="font-black text-xs text-blue-600 uppercase mb-2">USA (Debt Settlement)</h4>
                   <p className="text-sm leading-relaxed text-gray-600 font-medium">Primarily electronic documentation focus on Proof of Enrollment in a commercial program. Highly systemic with credit bureaus.</p>
                 </div>
                 <div className="p-6 bg-white border border-[#DEDEDE] rounded-xl">
-                  <h4 className="font-black text-xs text-blue-600 uppercase mb-2">India (Settlement / OTS)</h4>
+                  <h5 className="font-black text-xs text-blue-600 uppercase mb-2">India (Settlement / OTS)</h5>
                   <p className="text-sm leading-relaxed text-gray-600 font-medium">Focus on KYC Integrity and physical/digital duality. Relies heavily on proxy proofs like Gold Loan receipts or regional certificates.</p>
                 </div>
               </div>
             </section>
 
             <section id="future-of-docs" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl font-black mb-8">Future Trends: Blockchain & Aggregators</h2>
+              <h3 className="text-3xl font-black mb-8">Future Trends: Blockchain & Aggregators</h3>
               <p className="mb-6">The future of documentation lies in the <strong>Account Aggregator (AA)</strong> framework. Soon, you will simply grant consent through an app for firms like **credsettle.com** to access your data directly from the source, eliminating the risk of fraud.</p>
               <p className="mb-6 font-bold text-[#1F5EFF]">Blockchain-Verified NDCs will eventually prevent the 'Lost Document' nightmare for billions of Indian borrowers.</p>
             </section>
             <section id="success-stories" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 text-center">Real Stories of Freedom</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 text-center">Real Stories of Freedom</h3>
               <div className="grid md:grid-cols-2 gap-6 not-prose">
                 {[
                   {
@@ -653,7 +653,7 @@ export default function LoanSettlementDocumentsPage() {
                         {review.name.charAt(0)}
                       </div>
                       <div>
-                        <h3 className="font-bold text-[#2E2E2E]">{review.name}</h3>
+                        <h4 className="font-bold text-[#2E2E2E]">{review.name}</h4>
                         <p className="text-xs text-gray-400">{review.loc}</p>
                       </div>
                       <div className="ml-auto text-yellow-400 text-sm">★★★★★</div>
@@ -668,7 +668,7 @@ export default function LoanSettlementDocumentsPage() {
             </section>
 
             <section id="faqs" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl font-black mb-8 pt-16 border-t border-gray-100">Frequently Asked Questions</h2>
+              <h3 className="text-3xl font-black mb-8 pt-16 border-t border-gray-100">Frequently Asked Questions</h3>
               <div className="space-y-4">
                 {[
                   { q: "Can I settle without showing income proof?", a: "Extremely difficult. A settlement is based on proven inability to pay. Without hardship proof, banks assume willful default. Professionals at <Link href=\"https://amalegalsolutions.com\" target=\"_blank\" className=\"text-[#1F5EFF] hover:underline\">amalegalsolutions.com</Link> help find alternative proxies for income proof." },

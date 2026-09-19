@@ -303,7 +303,7 @@ export default function NoidaLoanSettlementPage() {
             </section>
 
             <section id="legal-framework-gautam-buddh-nagar" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl font-black mb-6">The Legal Framework for Debt Settlement in Gautam Buddh Nagar</h2>
+              <h3 className="text-3xl font-black mb-6">The Legal Framework for Debt Settlement in Gautam Buddh Nagar</h3>
               <p>Understanding the legal landscape is crucial for anyone seeking a loan settlement in Noida. The district falls under the jurisdiction of the Gautam Buddh Nagar District Court, often referred to as the Surajpur Court. Unlike other regions, the legal proceedings here move at a pace that requires local expertise and constant follow up. Whether it is a notice under Section 138 of the Negotiable Instruments Act for a cheque bounce or a summons from the District Legal Services Authority (DLSA), knowing how to respond is half the battle won.</p>
               <p>One of the most effective tools for debt resolution in Noida is the Lok Adalat. These are organized periodically at the Surajpur court complex and provide a platform for borrowers and banks to reach an amicable settlement under a judicial officer's supervision. A settlement reached in a Lok Adalat has the same legal standing as a court decree and is final and binding. We have successfully represented hundreds of clients in these sessions, ensuring that they receive fair treatment and substantial waivers on their outstanding principal and interest.</p>
               <p>Furthermore, the legal framework in Uttar Pradesh includes safeguards against illegal recovery practices. While banks have a right to recover their dues, they must do so within the bounds of the Indian Contract Act and the guidelines set by the Reserve Bank of India. In Noida, where recovery agents can sometimes be particularly aggressive, it is essential to have a legal shield that redirected all communication to professionals. We provide the necessary documentation and representation to ensure that your case is handled with the dignity you deserve.</p>
@@ -311,7 +311,7 @@ export default function NoidaLoanSettlementPage() {
             </section>
 
             <section id="delhi-noida-comparison" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl font-black mb-6">How Noida Loan Settlement Compares to Delhi NCR</h2>
+              <h3 className="text-3xl font-black mb-6">How Noida Loan Settlement Compares to Delhi NCR</h3>
               <p>While Noida and Delhi are geographically adjacent, the landscape of loan settlement can be quite different. In Delhi, the volume of cases in district courts like Tis Hazari or Saket is massive, often leading to longer wait times for Lok Adalat dates. In contrast, the Gautam Buddh Nagar court system, while busy, often allows for more focused negotiation periods. However, the aggression level of recovery agents in the bordering areas of Noida, Ghaziabad, and East Delhi is notably high, requiring a more proactive anti harassment strategy.</p>
               <p>Another point of comparison is the presence of major bank regional offices. Many central processing units for banks like HDFC, ICICI, and SBI are located in the Delhi NCR belt, with significant operations in Noida's Sector 62 and Sector 125. This proximity allows our negotiators to engage more directly with the decision makers. While a borrower in a smaller city might only deal with a branch manager, we can often escalate cases to the regional level where larger waivers are approved during specific 'settlement windows' at the end of financial quarters.</p>
               <p>The demographics of debt also vary. Delhi has a higher concentration of old, legacy debts related to established businesses, whereas Noida's debt profile is heavily skewed toward young IT professionals and real estate investors. This means the approach to settlement must be different. For a young borrower in Noida, the primary concern is often the long term impact on their career and credit score, whereas for a business owner in Delhi, it might be the protection of commercial assets. We tailor our Noida strategies to these specific life stages, focusing on future financial recovery alongside immediate debt relief.</p>
@@ -319,7 +319,7 @@ export default function NoidaLoanSettlementPage() {
             </section>
 
             <section id="maharashtra-context" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl font-black mb-6">Learning from the Maharashtra Debt Settlement Model</h2>
+              <h3 className="text-3xl font-black mb-6">Learning from the Maharashtra Debt Settlement Model</h3>
               <p>When discussing loan settlement in Noida, it is insightful to look at the Maharashtra model, which is often considered a pioneer in organized debt relief in India. The Maharashtra Debt Relief Act and the proactive stance of the Bombay High Court have created a strong precedent for protecting borrowers from usury and harassment. While the specific state acts of Maharashtra do not apply to Noida, the legal principles established there are often cited in higher courts across the country, including the Allahabad High Court which has jurisdiction over Noida.</p>
               <p>For example, the Maharashtra model emphasizes the 'Ability to Pay' principle. This means that a court should not force a borrower to pay more than their documented income and essential living expenses allow. In Noida, we use these same principles to build our cases. We argue that forcing a borrower into absolute poverty to pay off a credit card interest is contrary to the spirit of Indian social justice. By bringing these national perspectives to a local context, we provide our Noida clients with a level of legal sophistication that is often missing from smaller, local agencies.</p>
               <p>In Maharashtra, there is also a very strong movement against illegal money lending and digital app harassment. The Maharashtra police have set up dedicated cells to deal with these issues. Taking inspiration from this, we help our Noida clients file similar complaints with the Uttar Pradesh Cyber Cell when they fall prey to predatory lending apps. The cross pollination of these legal strategies ensures that our clients in Gautam Buddh Nagar benefit from the best practices developed in the most legally advanced states of India.</p>
@@ -327,7 +327,7 @@ export default function NoidaLoanSettlementPage() {
             </section>
 
             <section id="rbi-rights-noida" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl font-black mb-6">Know Your Rights: RBI Guidelines for Noida Borrowers</h2>
+              <h3 className="text-3xl font-black mb-6">Know Your Rights: RBI Guidelines for Noida Borrowers</h3>
               <p>The Reserve Bank of India (RBI) is clear about one thing: Debt should not lead to the loss of dignity. As a borrower in Noida, you are protected by a comprehensive set of guidelines that lenders must follow, regardless of how much you owe. One of the most critical rights is the 'Right to Fair Treatment'. This means that a bank cannot use abusive language, shout at you, or call you during late hours or early mornings. Specifically, collection calls are prohibited before 8 AM and after 7 PM.</p>
               <p>Another vital guideline is the 'Privacy of Information'. Recovery agents are strictly forbidden from discussing your debt with your neighbors, your employer, or even your distant relatives. If an agent comes to your home in Noida and starts shouting in the corridor to embarrass you, they are in direct violation of RBI rules. At SettleLoans, we document these violations and use them as powerful leverage during negotiation. We have seen banks offer much higher waivers simply because their recovery partners crossed a legal line.</p>
               <p>The RBI also mandate that banks must have a 'Grievance Redressal Mechanism'. If you are facing harassment in Noida, you have the right to file a formal complaint with the bank's Nodal Officer. If they don't respond within 30 days, you can escalate the matter to the Banking Ombudsman. We handle this entire process for you, ensuring that every complaint is drafted with the correct legal terminology to get the attention it deserves. Many borrowers are intimidated by banks, but when we step in, the power dynamic shifts in your favor.</p>
@@ -335,34 +335,34 @@ export default function NoidaLoanSettlementPage() {
             </section>
 
             <section id="settlement-process" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl font-black mb-6">The 5 Step Professional Settlement Process</h2>
+              <h3 className="text-3xl font-black mb-6">The 5 Step Professional Settlement Process</h3>
               <p>At SettleLoans, we believe that a structured problem requires a structured solution. Our settlement process for Noida residents is refined over thousands of successful cases and is designed to take the burden off your shoulders from day one. It is a journey of five distinct steps that lead you from debt stress to financial freedom.</p>
               <ul className="list-none p-0 space-y-6">
                 <li className="bg-gray-50 p-6 rounded-xl border-l-4 border-[#1F5EFF]">
-                  <h3 className="font-black text-xl mb-2">1. The Financial Soul Searching (Analysis)</h3>
+                  <h4 className="font-black text-xl mb-2">1. The Financial Soul Searching (Analysis)</h4>
                   <p>We start with a deep dive into your finances. We don't just look at what you owe; we look at why you can't pay. We document your financial hardship, analyze your income vs expenses, and determine a realistic 'Settlement Budget'. This ensures that any offer we make to the bank is one you can actually afford to fulfill.</p>
                 </li>
                 <li className="bg-gray-50 p-6 rounded-xl border-l-4 border-[#1F5EFF]">
-                  <h4 className="font-black text-xl mb-2">2. Communication Redirection (The Shield)</h4>
+                  <h5 className="font-black text-xl mb-2">2. Communication Redirection (The Shield)</h5>
                   <p>Once you are on board, we issue formal legal notices to your lenders informing them of your representation. We set up an anti harassment shield where we take over the communication. This doesn't mean the calls stop instantly, but it means you now have a professional team handling them, giving you the mental space to focus on your work and family.</p>
                 </li>
                 <li className="bg-gray-50 p-6 rounded-xl border-l-4 border-[#1F5EFF]">
-                  <h4 className="font-black text-xl mb-2">3. The Strategic Wait (Delinquency Management)</h4>
+                  <h5 className="font-black text-xl mb-2">3. The Strategic Wait (Delinquency Management)</h5>
                   <p>Banks rarely settle an account that is only a few days overdue. Most settlements happen when an account has reached NPA (Non Performing Asset) status, usually after 90 days. We manage this period carefully, responding to legal notices and keeping the bank engaged while waiting for the optimal 'settlement window' where we can get the maximum waiver for you.</p>
                 </li>
                 <li className="bg-gray-50 p-6 rounded-xl border-l-4 border-[#1F5EFF]">
-                  <h4 className="font-black text-xl mb-2">4. Expert Negotiation (The Deal)</h4>
+                  <h5 className="font-black text-xl mb-2">4. Expert Negotiation (The Deal)</h5>
                   <p>This is where our experience shines. We negotiate with the bank's recovery department or the ARCs (Asset Reconstruction Companies). We use your financial hardship documentation and our knowledge of bank policies to push for the highest possible waiver. We won't settle until we believe we have the best possible deal on the table.</p>
                 </li>
                 <li className="bg-gray-50 p-6 rounded-xl border-l-4 border-[#1F5EFF]">
-                  <h4 className="font-black text-xl mb-2">5. Formal Closure (Freedom)</h4>
+                  <h5 className="font-black text-xl mb-2">5. Formal Closure (Freedom)</h5>
                   <p>Once a deal is agreed upon, we verify the Settlement Letter for any hidden clauses. You make the payment directly to the bank. We then follow up to ensure you receive the 'No Dues Certificate' (NDC) and that the account is correctly updated in the bank's records. Your journey ends with a piece of paper that signifies your freedom.</p>
                 </li>
               </ul>
             </section>
 
             <section id="harassment-prevention" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl font-black mb-6">Stopping Recovery Harassment in Noida and Greater Noida</h2>
+              <h3 className="text-3xl font-black mb-6">Stopping Recovery Harassment in Noida and Greater Noida</h3>
               <p>The harassment by recovery agents is often described as a form of social warfare. In residential sectors of Noida, where community reputation is highly valued, agents often use public shaming as a tactic. They might visit your housing society office, speak to the guard at your gate, or call your office landline. These tactics are designed to break your spirit. Our mission is to ensure they don't succeed. Our legal team in Noida is fast to act when these boundaries are crossed.</p>
               <p>We provide every client with a 'Rights Kit' that explains exactly what to say when an agent shows up at your door. The simple knowledge that you have a lawyer and that you are recording the conversation often makes agents back off immediately. We also help you use the technology at your disposal, such as call recording apps and visitor logs, to build a body of evidence against unethical agencies. In Noida's high rise complexes, we even go as far as informing society managements about the legal rights of residents to prevent agents from creating public disturbances.</p>
               <p>If you are receiving 50 to 100 calls a day, it is physically impossible to function. We help you use 'Call Redirection' to our office numbers. While we cannot legally stop a bank from trying to contact you, we can certainly dictate the terms of that contact. By professionalizing the communication, we remove the emotional trigger that agents rely on. They can shout at us, but it won't work, because we only speak the language of law and numbers. This immediate reduction in stress is what many of our Noida clients value most.</p>
@@ -371,7 +371,7 @@ export default function NoidaLoanSettlementPage() {
 
             {/* Testimonials Section - Strategic for Rich Results */}
             <section id="client-testimonials" className="scroll-mt-32 mb-16 bg-gray-50 p-8 rounded-3xl border border-[#DEDEDE]">
-              <h2 className="text-3xl font-black mb-8 text-center uppercase tracking-tight text-[#1F5EFF]">Verified Client Testimonials</h2>
+              <h3 className="text-3xl font-black mb-8 text-center uppercase tracking-tight text-[#1F5EFF]">Verified Client Testimonials</h3>
               <div className="grid md:grid-cols-2 gap-8">
                 <div className="bg-white p-6 rounded-2xl shadow-sm border border-[#DEDEDE]">
                   <div className="flex text-yellow-400 mb-2">★★★★★</div>
@@ -424,7 +424,7 @@ export default function NoidaLoanSettlementPage() {
             </section>
 
             <section id="credit-score-rebuilding" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl font-black mb-6">Rebuilding Your Credit Score After Settlement in Noida</h2>
+              <h3 className="text-3xl font-black mb-6">Rebuilding Your Credit Score After Settlement in Noida</h3>
               <p>A common fear among borrowers in Noida is that a loan settlement will ruin their credit rating forever. Let's be honest: a settlement will result in a 'Settled' remark on your CIBIL report, and your score will drop in the short term. However, this is not a life sentence. A credit score is a reflection of your current financial behavior, not a permanent record of past mistakes. In the fast paced economy of Noida, opportunities for credit building are plentiful if you follow a disciplined path.</p>
               <p>We guide our Noida clients through a '24 Month Credit Recovery Plan'. The first step is to wait for at least six months after your final settlement. Use this time to stabilize your finances. Next, we recommend getting a 'Secured Credit Card' from a bank where you have a fixed deposit. Since the card is backed by your own money, the risk for the bank is zero, but the positive repayment history you generate is reported directly to CIBIL. By using only 30% of the limit and paying the bill in full every month, you start overriding the old 'Settled' markers with new, positive data.</p>
               <p>Another strategy we use in Noida is 'Small Ticket Lending'. Taking a small consumer durable loan for an appliance or a phone and paying the EMIs perfectly is a great way to show lenders that your financial distress is in the past. After 18 to 24 months of perfect behavior, many of our clients find themselves back in the 700+ score range. At this point, while the 'Settled' remark might still be visible, lenders are often willing to overlook it in favor of your more recent, disciplined track record.</p>
@@ -432,7 +432,7 @@ export default function NoidaLoanSettlementPage() {
             </section>
 
             <section id="faqs" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl font-black mb-8">Frequently Asked Questions for Noida Borrowers</h2>
+              <h3 className="text-3xl font-black mb-8">Frequently Asked Questions for Noida Borrowers</h3>
               <div className="space-y-4 not-prose">
                 {[
                   { q: "Is loan settlement legal for residents of Noida?", a: "Yes, loan settlement is a 100% legal process governed by the Indian Contract Act. It is a mutual agreement where the lender accepts a reduced amount to close the debt. This is widely practiced in Noida district courts and Lok Adalats." },
@@ -462,7 +462,7 @@ export default function NoidaLoanSettlementPage() {
             </section>
 
             <section id="conclusion" className="mt-16 bg-[#1F5EFF] rounded-3xl p-10 text-center text-white shadow-2xl">
-              <h2 className="text-3xl md:text-4xl font-black mb-4">You Don't Have to Face This Alone</h2>
+              <h3 className="text-3xl md:text-4xl font-black mb-4">You Don't Have to Face This Alone</h3>
               <p className="mb-8 text-lg opacity-90 max-w-2xl mx-auto">Residents of Noida and Greater Noida have trusted us to resolve their financial burdens. Let us help you find the way back to financial freedom.</p>
               <Link href="/contact" className="inline-block bg-white text-[#1F5EFF] font-black py-4 px-12 rounded-xl hover:scale-105 transition-all text-xl shadow-lg">
                 Get Your Free Debt Analysis

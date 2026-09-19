@@ -243,7 +243,7 @@ export default function BankRecoveryCasePage() {
                                 For a borrower, this stage can feel daunting. However, the Indian judicial system is built on the principle of 'Audi Alteram Partem' (hear the other side). A court case is not an immediate judgment; it is a process of verification. Understanding this process allows you to stop being a passive recipient of notices and start being an active defender of your financial rights.
                             </p>
                             <div className="bg-gray-900 p-10 rounded-[40px] text-white my-12 shadow-2xl relative">
-                                <h3 className="text-2xl font-black mb-6 uppercase tracking-widest text-[#1F5EFF]">The Burden of Proof</h3>
+                                <h4 className="text-2xl font-black mb-6 uppercase tracking-widest text-[#1F5EFF]">The Burden of Proof</h4>
                                 <p className="text-lg opacity-80 leading-relaxed font-medium">
                                     In any recovery suit, the burden lies on the bank. They must prove the existence of the loan, the precise calculation of use, and the legality of the interest charged. Often, errors in statement reconciliation or missing documentation can provide a robust defense for the borrower.
                                 </p>
@@ -251,41 +251,41 @@ export default function BankRecoveryCasePage() {
                         </section>
 
                         <section id="civil-recovery-suit-process" className="scroll-mt-32 mb-20">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 uppercase tracking-widest border-b-8 border-gray-100 pb-4">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 uppercase tracking-widest border-b-8 border-gray-100 pb-4">
                                 Regular Civil Recovery Suit: The Timeline
-                            </h2>
+                            </h3>
                             <p className="mb-8 leading-relaxed font-medium">
                                 Filed under the Code of Civil Procedure (CPC), a regular suit is the standard path for recovering money based on a contract.
                             </p>
                             <div className="space-y-6">
                                 <div className="p-8 bg-blue-50 border border-blue-100 rounded-[32px] hover:shadow-md transition-shadow">
-                                    <h3 className="text-xl font-black text-[#1F5EFF] mb-2 uppercase italic leading-none">Stage 1: Filing the Plaint</h3>
+                                    <h4 className="text-xl font-black text-[#1F5EFF] mb-2 uppercase italic leading-none">Stage 1: Filing the Plaint</h4>
                                     <p className="text-sm leading-relaxed font-bold opacity-70">The bank's lawyer drafts a document detailings the facts, the amount due, and the legal grounds. This is filed in the court with jurisdiction based on your address or the branch location.</p>
                                 </div>
                                 <div className="p-8 bg-blue-50 border border-blue-100 rounded-[32px] hover:shadow-md transition-shadow">
-                                    <h4 className="text-xl font-black text-[#1F5EFF] mb-2 uppercase italic leading-none">Stage 2: Issuance of Summons</h4>
+                                    <h5 className="text-xl font-black text-[#1F5EFF] mb-2 uppercase italic leading-none">Stage 2: Issuance of Summons</h5>
                                     <p className="text-sm leading-relaxed font-bold opacity-70">The court reviews the plaint and issues a formal notice (summons) to the borrower, commanding them to appear and answer the claim.</p>
                                 </div>
                                 <div className="p-8 bg-blue-50 border border-blue-100 rounded-[32px] hover:shadow-md transition-shadow">
-                                    <h4 className="text-xl font-black text-[#1F5EFF] mb-2 uppercase italic leading-none">Stage 3: The Trial</h4>
+                                    <h5 className="text-xl font-black text-[#1F5EFF] mb-2 uppercase italic leading-none">Stage 3: The Trial</h5>
                                     <p className="text-sm leading-relaxed font-bold opacity-70">Evidence is lead, witnesses are cross-examined, and arguments are heard. This is where the bank's account statements are scrutinized.</p>
                                 </div>
                                 <div className="p-8 bg-[#1F5EFF] text-white rounded-[32px] shadow-lg">
-                                    <h4 className="text-xl font-black mb-2 uppercase italic leading-none">Stage 4: The Decree</h4>
+                                    <h5 className="text-xl font-black mb-2 uppercase italic leading-none">Stage 4: The Decree</h5>
                                     <p className="text-sm leading-relaxed font-medium opacity-90">The final judgment of the court. If passed in favor of the bank, it becomes a 'Decree-Holder', giving it the right to execute the order.</p>
                                 </div>
                             </div>
                         </section>
 
                         <section id="summary-suit-order-37" className="scroll-mt-32 mb-20 p-12 bg-white border-4 border-gray-100 rounded-[48px] shadow-inner relative mt-20">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 border-l-8 border-[#1F5EFF] pl-6 uppercase tracking-tighter italic">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 border-l-8 border-[#1F5EFF] pl-6 uppercase tracking-tighter italic">
                                 Summary Suits: The Fast-Track Trap
-                            </h2>
+                            </h3>
                             <p className="mb-8 leading-relaxed">
                                 Most credit card and personal loan suits are filed as <strong>Summary Suits under Order 37 CPC</strong>. In these cases, the law assumes you have no defense unless you prove otherwise.
                             </p>
                             <div className="p-8 bg-red-50 rounded-3xl border border-red-100 mb-8">
-                                <h3 className="text-xl font-black text-red-900 mb-2 uppercase">The 10-Day Rule</h3>
+                                <h4 className="text-xl font-black text-red-900 mb-2 uppercase">The 10-Day Rule</h4>
                                 <p className="text-sm italic font-bold text-red-700 leading-relaxed">Once you receive a summons in a summary suit, you have exactly <strong>10 days</strong> to file an "Appearance". If you miss this, the bank automatically wins the case without a trial.</p>
                             </div>
                             <p className="mb-0 leading-relaxed font-bold">
@@ -300,9 +300,9 @@ export default function BankRecoveryCasePage() {
                         </section>
 
                         <section id="debt-recovery-tribunal-drt" className="scroll-mt-32 mb-20 mt-20">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 uppercase tracking-widest leading-[0.9] decoration-[#1F5EFF] underline underline-offset-8">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 uppercase tracking-widest leading-[0.9] decoration-[#1F5EFF] underline underline-offset-8">
                                 Debt Recovery Tribunal (DRT): The Corporate Arena
-                            </h2>
+                            </h3>
                             <p className="mb-8 leading-relaxed text-lg font-medium italic opacity-70">
                                 "DRTs were created for speed, but they must still follow the law."
                             </p>
@@ -311,18 +311,18 @@ export default function BankRecoveryCasePage() {
                             </p>
                             <div className="grid md:grid-cols-2 gap-8 my-12">
                                 <div className="p-10 bg-[#2E2E2E] text-white rounded-[48px] shadow-xl border-l-8 border-[#1F5EFF]">
-                                    <h3 className="text-2xl font-black mb-4 uppercase italic leading-none">The DRT Process</h3>
+                                    <h4 className="text-2xl font-black mb-4 uppercase italic leading-none">The DRT Process</h4>
                                     <p className="text-sm leading-relaxed opacity-90 font-medium font-bold">The bank files an Original Application (OA). The Presiding Officer issues a notice. Unlike civil courts, DRTs follow 'Principles of Natural Justice' rather than the strict CPC rules, making it faster.</p>
                                 </div>
                                 <div className="p-10 bg-[#2E2E2E] text-white rounded-[48px] shadow-xl border-l-8 border-red-500">
-                                    <h4 className="text-2xl font-black mb-4 uppercase italic leading-none">The Recovery Certificate</h4>
+                                    <h5 className="text-2xl font-black mb-4 uppercase italic leading-none">The Recovery Certificate</h5>
                                     <p className="text-sm leading-relaxed opacity-90 font-medium font-bold">If the DRT decides against you, it issues a 'Recovery Certificate'. This acts as a blank check for the Recovery Officer to attach and sell your assets.</p>
                                 </div>
                             </div>
                         </section>
 
                         <section id="receiving-summons-checklist" className="scroll-mt-32 mb-20 p-10 bg-blue-50 rounded-[40px] border-2 border-blue-100 relative shadow-sm overflow-hidden">
-                            <h2 className="text-3xl font-black text-blue-900 mb-6 uppercase tracking-wider italic">Strategic Summons Checklist</h2>
+                            <h3 className="text-3xl font-black text-blue-900 mb-6 uppercase tracking-wider italic">Strategic Summons Checklist</h3>
                             <p className="text-lg text-blue-800 leading-relaxed font-medium mb-6">
                                 Receiving a summons is not the end; it is the beginning of your defense.
                             </p>
@@ -336,14 +336,14 @@ export default function BankRecoveryCasePage() {
                         </section>
 
                         <section id="statement-of-defense" className="scroll-mt-32 mb-20 mt-20">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 border-l-8 border-[#2E2E2E] pl-6 uppercase tracking-widest leading-none">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 border-l-8 border-[#2E2E2E] pl-6 uppercase tracking-widest leading-none">
                                 Crafting the Statement of Defense
-                            </h2>
+                            </h3>
                             <p className="mb-8 leading-relaxed">
                                 Your <strong>Statement of Defense</strong> or "Written Statement" is your story. It is not enough to say "I don't have the money." You must challenge the bank's arithmetic and procedural adherence.
                             </p>
                             <div className="bg-gray-50 p-10 rounded-[48px] border border-gray-100 shadow-sm mb-12">
-                                <h3 className="text-xl font-black mb-4 uppercase tracking-tighter text-[#1F5EFF]">Top Defensive Pleas</h3>
+                                <h4 className="text-xl font-black mb-4 uppercase tracking-tighter text-[#1F5EFF]">Top Defensive Pleas</h4>
                                 <ul className="space-y-3">
                                     <li className="text-sm font-bold opacity-80 italic italic">"The bank has failed to follow the RBI Fair Practices Code."</li>
                                     <li className="text-sm font-bold opacity-80 italic italic">"The interest charged exceeds the agreed cap or is usurious."</li>
@@ -354,40 +354,40 @@ export default function BankRecoveryCasePage() {
                         </section>
 
                         <section id="ex-parte-decree-protection" className="scroll-mt-32 mb-20">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 uppercase tracking-widest leading-none border-b-8 border-[#1F5EFF] pb-4">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 uppercase tracking-widest leading-none border-b-8 border-[#1F5EFF] pb-4">
                                 The Ex-Parte Decree: The Borrower's Nightmare
-                            </h2>
+                            </h3>
                             <p className="mb-8 leading-relaxed">
                                 An <strong>Ex-Parte Decree</strong> occurs if the bank proves they served you a notice, but you chose not to show up. In the court's eyes, silence is an admission of debt.
                             </p>
                             <div className="bg-red-900 p-10 rounded-[48px] text-white shadow-2xl">
-                                <h3 className="text-2xl font-black mb-4 uppercase italic text-red-500">The Power of "Setting Aside"</h3>
+                                <h4 className="text-2xl font-black mb-4 uppercase italic text-red-500">The Power of "Setting Aside"</h4>
                                 <p className="text-sm leading-relaxed opacity-80 font-bold mb-6">If an ex-parte decree is passed without you being properly served, you can file an application under <strong>Order 9 Rule 13 of the CPC</strong> to set aside the decree. You must prove "sufficient cause" for your absence.</p>
                                 <p className="text-xs font-black uppercase tracking-[0.2em] font-bold italic">This is an emergency legal procedure that can stop a recovery officer from entering your house.</p>
                             </div>
                         </section>
 
                         <section id="attachment-of-property" className="scroll-mt-32 mb-20 mt-20">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 uppercase tracking-widest decoration-[#1F5EFF] underline underline-offset-8">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 uppercase tracking-widest decoration-[#1F5EFF] underline underline-offset-8">
                                 Attachment of Property & Execution
-                            </h2>
+                            </h3>
                             <p className="mb-8 leading-relaxed">
                                 Once a decree is absolute, the court becomes an 'Execution Court'. The bank seeks an order to attach your movable (car, electronics) or immovable (house, land) property.
                             </p>
                             <div className="grid md:grid-cols-2 gap-8 my-12">
                                 <div className="p-10 bg-gray-50 rounded-[48px] border border-gray-100 shadow-sm relative overflow-hidden group">
-                                    <h3 className="text-xl font-black mb-4 uppercase tracking-tighter text-[#2E2E2E]">The Inventory Phase</h3>
+                                    <h4 className="text-xl font-black mb-4 uppercase tracking-tighter text-[#2E2E2E]">The Inventory Phase</h4>
                                     <p className="text-sm leading-relaxed opacity-70 font-medium italic">A court-appointed bailiff visits your premises to create an inventory. They cannot use physical force against your family.</p>
                                 </div>
                                 <div className="p-10 bg-gray-50 rounded-[48px] border border-gray-100 shadow-sm relative overflow-hidden group text-right">
-                                    <h4 className="text-xl font-black mb-4 uppercase tracking-tighter text-[#2E2E2E]">Public Auction</h4>
+                                    <h5 className="text-xl font-black mb-4 uppercase tracking-tighter text-[#2E2E2E]">Public Auction</h5>
                                     <p className="text-sm leading-relaxed opacity-70 font-medium italic">Attached property is sold via auction. You have the right to ensure the property is not sold at an 'undervalued' price.</p>
                                 </div>
                             </div>
                         </section>
 
                         <section id="negotiating-court-settlement" className="scroll-mt-32 mb-20 p-12 bg-[#1F5EFF] rounded-[56px] text-white shadow-2xl relative">
-                            <h2 className="text-3xl md:text-4xl font-black mb-6 uppercase tracking-tighter italic leading-none">Negotiation in the Shadow of Law</h2>
+                            <h3 className="text-3xl md:text-4xl font-black mb-6 uppercase tracking-tighter italic leading-none">Negotiation in the Shadow of Law</h3>
                             <p className="text-xl leading-relaxed opacity-90 font-medium mb-8">
                                 Banks don't want to fight for 5 years. They want their money. The best time to settle is often the moment you file a strong Written Statement.
                             </p>
@@ -395,9 +395,9 @@ export default function BankRecoveryCasePage() {
                         </section>
 
                         <section id="lok-adalat-mediation" className="scroll-mt-32 mb-20 mt-20">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 uppercase tracking-widest italic border-l-8 border-[#2E2E2E] pl-6 leading-none">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 uppercase tracking-widest italic border-l-8 border-[#2E2E2E] pl-6 leading-none">
                                 Lok Adalat & Mediation: The Peaceful Exit
-                            </h2>
+                            </h3>
                             <p className="mb-8 leading-relaxed">
                                 Most courts will refer the bank and borrower to <strong>Mediation</strong> or a <strong>Lok Adalat</strong> (People's Court). A settlement reached here has the finality of a decree but is arrived at amicably.
                             </p>
@@ -419,7 +419,7 @@ export default function BankRecoveryCasePage() {
                         </section>
 
                         <section id="success-stories" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 text-center uppercase">Real Stories of Litigation Defense</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 text-center uppercase">Real Stories of Litigation Defense</h3>
                             <div className="grid md:grid-cols-2 gap-6 not-prose">
                                 {[
                                     {
@@ -443,7 +443,7 @@ export default function BankRecoveryCasePage() {
                                                 {review.name.charAt(0)}
                                             </div>
                                             <div>
-                                                <h3 className="font-bold text-[#2E2E2E]">{review.name}</h3>
+                                                <h4 className="font-bold text-[#2E2E2E]">{review.name}</h4>
                                                 <p className="text-xs text-gray-400">{review.loc}</p>
                                             </div>
                                             <div className="ml-auto text-yellow-400 text-sm">★★★★★</div>
@@ -458,7 +458,7 @@ export default function BankRecoveryCasePage() {
                         </section>
 
                         <section id="faqs" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 uppercase tracking-widest leading-none">Bank Recovery Case FAQs</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 uppercase tracking-widest leading-none">Bank Recovery Case FAQs</h3>
                             <div className="space-y-4 not-prose">
                                 {(jsonLd["@graph"] as any)[4]?.mainEntity?.map((faq: any, i: number) => (
                                     <details key={i} className="group bg-white border border-[#DEDEDE] rounded-xl overflow-hidden hover:shadow-md transition-all border-b-4 border-b-[#1F5EFF]/20">
@@ -486,7 +486,7 @@ export default function BankRecoveryCasePage() {
                         <div className="lg:hidden mt-16 mb-8">
                             <div className="bg-[#2E2E2E] rounded-2xl shadow-xl overflow-hidden border border-[#1F5EFF]/20">
                                 <div className="bg-[#1F5EFF] p-6 text-center text-white">
-                                    <h3 className="text-2xl font-black mb-2 uppercase tracking-tighter">Fight the Case</h3>
+                                    <h4 className="text-2xl font-black mb-2 uppercase tracking-tighter">Fight the Case</h4>
                                     <p className="opacity-90 text-sm italic font-medium">Don't let the legal clock run out. Build a professional defense strategy and settle on your terms today.</p>
                                 </div>
                                 <div className="p-8 text-center text-[#DEDEDE]">

@@ -183,9 +183,9 @@ export default function FiveCroreLoanSettlementPage() {
                         </section>
 
                         <section id="forensic-audit" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">Forensic Audit Protocols: The First Hurdle</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">Forensic Audit Protocols: The First Hurdle</h3>
                             <div className="bg-[#1F5EFF]/5 p-8 rounded-3xl border border-[#1F5EFF]/10 mb-8">
-                                <h3 className="text-2xl font-bold text-[#2E2E2E] mb-4">Why the Bank Mandates a Forensic Audit</h3>
+                                <h4 className="text-2xl font-bold text-[#2E2E2E] mb-4">Why the Bank Mandates a Forensic Audit</h4>
                                 <p className="text-lg leading-relaxed mb-4">
                                     For any One-Time Settlement (OTS) proposal exceeding 5 Crores, Public Sector Banks (PSBs) and major private lenders mandate a forensic audit by an independent CA firm on the bank's approved panel. The goal is simple but critical: to prove that the default is "Genuine" and not a case of "Willful Default" or "Siphoning of Funds".
                                 </p>
@@ -202,17 +202,17 @@ export default function FiveCroreLoanSettlementPage() {
                         </section>
 
                         <section id="msme-framework" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">MSME Revival & Rehabilitation Framework</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">MSME Revival & Rehabilitation Framework</h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 If your business is registered under MSMED Act, you have access to the RBI's specialized framework for revival. This framework mandates that banks must follow a specific process before proceeding with harsh recovery actions for loans up to 25 Crores.
                             </p>
                             <div className="grid md:grid-cols-2 gap-6 mb-8">
                                 <div className="p-6 bg-white border border-[#DEDEDE] rounded-2xl shadow-sm">
-                                    <h3 className="font-bold text-[#1F5EFF] mb-3">Incipient Stress Detection</h3>
+                                    <h4 className="font-bold text-[#1F5EFF] mb-3">Incipient Stress Detection</h4>
                                     <p className="text-sm">Banks must categorize accounts showing stress as SMA-0, SMA-1, or SMA-2. This categorization triggers a proactive meeting between the bank and the borrower to discuss resolution.</p>
                                 </div>
                                 <div className="p-6 bg-white border border-[#DEDEDE] rounded-2xl shadow-sm">
-                                    <h4 className="font-bold text-[#1F5EFF] mb-3">Corrective Action Plan (CAP)</h4>
+                                    <h5 className="font-bold text-[#1F5EFF] mb-3">Corrective Action Plan (CAP)</h5>
                                     <p className="text-sm">If the business is viable, the bank must explore restructuring, additional funding, or a change in repayment terms before pushing for a total settlement or auction.</p>
                                 </div>
                             </div>
@@ -225,7 +225,7 @@ export default function FiveCroreLoanSettlementPage() {
                         </section>
 
                         <section id="negotiation-hierarchy" className="scroll-mt-32 mb-16 text-white bg-[#2E2E2E] p-12 rounded-[40px]">
-                            <h2 className="text-3xl md:text-4xl font-black mb-8 leading-tight">The Bank Approval Hierarchy</h2>
+                            <h3 className="text-3xl md:text-4xl font-black mb-8 leading-tight">The Bank Approval Hierarchy</h3>
                             <p className="text-xl opacity-90 mb-8 font-light italic">"Why does the branch manager say he has no power for my 5 Crore loan?"</p>
                             <div className="space-y-6">
                                 <p className="leading-relaxed">In most Public Sector Banks (PSBs), the powers for compromise settlement are delegated as follows:</p>
@@ -254,7 +254,7 @@ export default function FiveCroreLoanSettlementPage() {
                         </section>
 
                         <section id="sarfaesi-defense" className="scroll-mt-32 mb-16 mt-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">SARFAESI Legal Defense for High-Value Assets</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">SARFAESI Legal Defense for High-Value Assets</h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 When a 5 Crore loan defaults, the bank will move quickly to issue a Section 13(2) notice under the SARFAESI Act. This notice gives you 60 days to pay the entire dues. If you ignore this, the bank will issue a 13(4) notice to take symbolic possession of your property or factory.
                             </p>
@@ -270,19 +270,19 @@ export default function FiveCroreLoanSettlementPage() {
                         </section>
 
                         <section id="ibc-dynamics" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">IBC Dynamics: The Bankruptcy Shield</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">IBC Dynamics: The Bankruptcy Shield</h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 For corporate borrowers, the bank might threaten or initiate proceedings under the Insolvency and Bankruptcy Code (IBC) at the National Company Law Tribunal (NCLT). While this sounds terrifying, the reality of IBC for a 5 Crore debt is often nuanced.
                             </p>
                             <div className="bg-[#2E2E2E] text-white p-8 rounded-2xl mb-8">
-                                <h3 className="text-xl font-bold mb-4">Section 12A: The Hidden Exit</h3>
+                                <h4 className="text-xl font-bold mb-4">Section 12A: The Hidden Exit</h4>
                                 <p className="opacity-80 leading-relaxed mb-4">Even after an NCLT case is admitted, Section 12A of the IBC allows for the withdrawal of the case if 90% of the Committee of Creditors agrees to a settlement. Many 5 Crore settlements are finalized at the very footsteps of the NCLT.</p>
                                 <p className="opacity-80 leading-relaxed">The bank knows that NCLT is a "Zero-Sum Game" where they might lose control and receive very little after liquidation. They prefer an out-of-court settlement that guarantees them a certain amount today.</p>
                             </div>
                         </section>
 
                         <section id="hardship-portfolio" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">The 5 Crore Hardship Portfolio: What You Need</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">The 5 Crore Hardship Portfolio: What You Need</h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 At this debt level, a single-page letter won't work. You need to present a "Resolution Dossier" that includes:
                             </p>
@@ -296,7 +296,7 @@ export default function FiveCroreLoanSettlementPage() {
                                     <div key={i} className="flex gap-6 items-start border-b border-[#DEDEDE] pb-6">
                                         <div className="w-12 h-12 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center font-black shrink-0">{i + 1}</div>
                                         <div>
-                                            <h3 className="text-xl font-black text-[#2E2E2E] mb-2">{item.title}</h3>
+                                            <h4 className="text-xl font-black text-[#2E2E2E] mb-2">{item.title}</h4>
                                             <p className="text-[#747474]">{item.desc}</p>
                                         </div>
                                     </div>
@@ -305,12 +305,12 @@ export default function FiveCroreLoanSettlementPage() {
                         </section>
 
                         <section id="settlement-math" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight text-center">The NPV Calculation: Speaking the Bank's Language</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight text-center">The NPV Calculation: Speaking the Bank's Language</h3>
                             <p className="text-lg leading-relaxed mb-8">
                                 Net Present Value (NPV) is the formula banks use to compare a settlement offer today versus a full recovery through litigation in the future. Litigation costs, legal fees, and the "time value of money" are all factors.
                             </p>
                             <div className="bg-gray-50 p-10 rounded-[40px] border border-gray-200">
-                                <h3 className="text-2xl font-bold mb-6 text-center">Case: 5.5 Crore Debt</h3>
+                                <h4 className="text-2xl font-bold mb-6 text-center">Case: 5.5 Crore Debt</h4>
                                 <div className="space-y-4">
                                     <div className="flex justify-between border-b border-gray-200 pb-2 italic">
                                         <span>Expected Recovery via DRT (6 Years)</span>
@@ -336,7 +336,7 @@ export default function FiveCroreLoanSettlementPage() {
                         </section>
 
                         <section id="success-stories" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 text-center">Real Stories of Freedom</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 text-center">Real Stories of Freedom</h3>
                             <div className="grid md:grid-cols-2 gap-6 not-prose">
                                 {[
                                     {
@@ -374,7 +374,7 @@ export default function FiveCroreLoanSettlementPage() {
                                                 {review.name.charAt(0)}
                                             </div>
                                             <div>
-                                                <h3 className="font-bold text-[#2E2E2E]">{review.name}</h3>
+                                                <h4 className="font-bold text-[#2E2E2E]">{review.name}</h4>
                                                 <p className="text-xs text-gray-400">{review.loc}</p>
                                             </div>
                                             <div className="ml-auto text-yellow-400 text-sm">★★★★★</div>
@@ -389,26 +389,26 @@ export default function FiveCroreLoanSettlementPage() {
                         </section>
 
                         <section id="legal-rights" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">Your Legal Protections in High-Value Recovery</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">Your Legal Protections in High-Value Recovery</h3>
                             <p className="text-lg leading-relaxed mb-6">Even with a 5 Crore default, you have fundamental legal rights that the bank cannot ignore.</p>
                             <div className="space-y-6">
                                 <div className="p-8 bg-white border border-[#DEDEDE] rounded-3xl shadow-sm">
-                                    <h3 className="text-xl font-bold text-[#2E2E2E] mb-4">Right to Fair Valuation</h3>
+                                    <h4 className="text-xl font-bold text-[#2E2E2E] mb-4">Right to Fair Valuation</h4>
                                     <p className="leading-relaxed text-gray-600">The bank must obtain two independent valuation reports from approved valuers. You have the right to challenge these valuations in the DRT if they are unfairly low.</p>
                                 </div>
                                 <div className="p-8 bg-white border border-[#DEDEDE] rounded-3xl shadow-sm">
-                                    <h4 className="text-xl font-bold text-[#2E2E2E] mb-4">Protection Against Coercion</h4>
+                                    <h5 className="text-xl font-bold text-[#2E2E2E] mb-4">Protection Against Coercion</h5>
                                     <p className="leading-relaxed text-gray-600">No bank official or recovery agent can use threats of physical force. For 5 Crore cases, the "Sophisticated Harassment" (legal threats) is common, but muscle power is strictly prohibited by the RBI.</p>
                                 </div>
                                 <div className="p-8 bg-white border border-[#DEDEDE] rounded-3xl shadow-sm">
-                                    <h4 className="text-xl font-bold text-[#2E2E2E] mb-4">Right to Representation</h4>
+                                    <h5 className="text-xl font-bold text-[#2E2E2E] mb-4">Right to Representation</h5>
                                     <p className="leading-relaxed text-gray-600">You have the right to be represented by a legal or financial expert during all settlement meetings. You do not have to face the bank's Zonal committee alone.</p>
                                 </div>
                             </div>
                         </section>
 
                         <section id="checklist" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">The 5 Crore Settlement Audit Checklist</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">The 5 Crore Settlement Audit Checklist</h3>
                             <div className="bg-gray-50 p-10 rounded-[40px] border border-gray-200">
                                 <ul className="space-y-6">
                                     {[
@@ -433,7 +433,7 @@ export default function FiveCroreLoanSettlementPage() {
                         </section>
 
                         <section id="faqs" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-12 text-center">Frequently Asked Questions</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-12 text-center">Frequently Asked Questions</h3>
                             <div className="space-y-6">
                                 {[
                                     { q: "Can I settle a 5 Crore loan in one year?", a: "Yes, most 'OTS' agreements allow for staggered payments over 6 to 12 months, provided an upfront amount (usually 10-25%) is paid." },
@@ -448,7 +448,7 @@ export default function FiveCroreLoanSettlementPage() {
                                     { q: "How long is the validity of a bank's OTS offer?", a: "Typically, an OTS offer is valid for 15 to 30 days. You must accept and pay the initial upfront amount within this window." }
                                 ].map((faq, i) => (
                                     <div key={i} className="p-8 bg-white border border-[#DEDEDE] rounded-3xl shadow-sm">
-                                        <h3 className="font-black text-[#2E2E2E] mb-4 text-xl border-b pb-2 border-[#1F5EFF]/10">{i + 1}. {faq.q}</h3>
+                                        <h4 className="font-black text-[#2E2E2E] mb-4 text-xl border-b pb-2 border-[#1F5EFF]/10">{i + 1}. {faq.q}</h4>
                                         <p className="text-gray-600 leading-relaxed text-lg italic">"{faq.a}"</p>
                                     </div>
                                 ))}
@@ -456,7 +456,7 @@ export default function FiveCroreLoanSettlementPage() {
                         </section>
 
                         <section className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">Conclusion: Reclaiming Your Business Legacy</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">Conclusion: Reclaiming Your Business Legacy</h3>
                             <p className="text-lg leading-relaxed mb-6 italic font-bold">A 5 Crore debt is a storm, but with the right legal pilot, it is a storm you can navigate. The goal is not just to settle, but to settle in a way that allows you to restart your professional life without the weight of the past.</p>
                             <div className="bg-[#1F5EFF]/5 p-8 rounded-3xl border border-[#1F5EFF]/20 text-center">
                                 <p className="text-xl font-bold text-[#2E2E2E] mb-6 tracking-tight">Stop the litigation clock. Start the negotiation conversation today.</p>

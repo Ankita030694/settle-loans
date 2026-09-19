@@ -264,13 +264,13 @@ export default function NachBounceGuidePage() {
 
               {/* Who Pays Penalty */}
               <section id="liability" className="scroll-mt-32 mb-16">
-                <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+                <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                   Who Pays the Penalty for a Technical Bounce?
-                </h2>
+                </h3>
                 <div className="bg-blue-50 border-l-8 border-[#1F5EFF] p-8 rounded-r-2xl mb-8">
-                  <h3 className="text-xl font-black text-[#1F5EFF] mb-4">
+                  <h4 className="text-xl font-black text-[#1F5EFF] mb-4">
                     You Are Not Liable
-                  </h3>
+                  </h4>
                   <p className="text-lg leading-relaxed mb-6 text-blue-900">
                     If the EMI failure was caused by a technical glitch on the bank's side or an administrative error like a signature mismatch during mandate registration, <strong>you should not pay the penalty</strong>.
                   </p>
@@ -293,9 +293,9 @@ export default function NachBounceGuidePage() {
 
               {/* Signature Mismatch */}
               <section id="signature-mismatch" className="scroll-mt-32 mb-16">
-                <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+                <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                   NACH Signature Mismatch Explained
-                </h2>
+                </h3>
                 <p className="text-lg leading-relaxed mb-6">
                   When you set up an auto-debit for your loan, you sign a NACH (National Automated Clearing House) mandate form. This form is sent to your bank (the destination bank) for verification. A <strong>NACH signature mismatch</strong> happens when the signature on the physical form doesn't perfectly match the specimen signature the bank has on file.
                 </p>
@@ -308,26 +308,26 @@ export default function NachBounceGuidePage() {
 
               {/* Server Issues */}
               <section id="server-issues" className="scroll-mt-32 mb-16">
-                <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+                <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                   Bank Server Issue EMI Bounces
-                </h2>
+                </h3>
                 <p className="text-lg leading-relaxed mb-6">
                   A <strong>bank server issue EMI bounce</strong> occurs when the core banking system of either your bank (where funds are deducted) or the lender's bank is down or experiencing timeouts during the batch processing of NACH debits.
                 </p>
 
                 <div className="grid md:grid-cols-2 gap-6 my-8">
                   <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
-                    <h3 className="font-black text-[#1F5EFF] text-lg mb-3">Timeout Errors</h3>
+                    <h4 className="font-black text-[#1F5EFF] text-lg mb-3">Timeout Errors</h4>
                     <p className="text-gray-700">The request to debit your account takes too long and times out, resulting in a failed transaction despite you having sufficient balance.</p>
                   </div>
                   <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
-                    <h3 className="font-black text-[#1F5EFF] text-lg mb-3">Maintenance Downtime</h3>
+                    <h4 className="font-black text-[#1F5EFF] text-lg mb-3">Maintenance Downtime</h4>
                     <p className="text-gray-700">Scheduled or unscheduled server maintenance precisely when the NACH clearing batch is run.</p>
                   </div>
                 </div>
 
                 <div className="bg-red-50 p-6 rounded-xl border border-red-100 mb-8">
-                  <h4 className="text-xl font-black text-red-700 mb-4">Warning: Don't Pay the Penalty Blindly</h4>
+                  <h5 className="text-xl font-black text-red-700 mb-4">Warning: Don't Pay the Penalty Blindly</h5>
                   <p className="text-lg leading-relaxed text-red-900 mb-0">
                     Banks often automatically levy bounce charges regardless of the reason code. It is up to you to identify that it was a technical bounce and demand a reversal. Do not simply pay the extra ₹500-₹1000 without protesting.
                   </p>
@@ -336,9 +336,9 @@ export default function NachBounceGuidePage() {
 
               {/* Action Steps */}
               <section id="action-steps" className="scroll-mt-32 mb-16">
-                <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+                <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                   Steps to Fight Bounce Charges
-                </h2>
+                </h3>
                 <p className="text-lg leading-relaxed mb-6">
                   If you are facing a technical bounce, follow these steps immediately to protect your money and your credit score:
                 </p>
@@ -349,7 +349,7 @@ export default function NachBounceGuidePage() {
                       1
                     </div>
                     <div>
-                      <h3 className="text-2xl font-bold text-[#2E2E2E] mb-3">Get the Exact Reason Code</h3>
+                      <h4 className="text-2xl font-bold text-[#2E2E2E] mb-3">Get the Exact Reason Code</h4>
                       <p className="text-lg text-gray-700">Contact your bank's customer support or check your net banking statement to find the exact reason code for the bounce. Look for codes indicating "Technical Issue", "Server Timeout", or "Signature Mismatch".</p>
                     </div>
                   </div>
@@ -358,7 +358,7 @@ export default function NachBounceGuidePage() {
                       2
                     </div>
                     <div>
-                      <h3 className="text-2xl font-bold text-[#2E2E2E] mb-3">Pay the EMI Manually</h3>
+                      <h4 className="text-2xl font-bold text-[#2E2E2E] mb-3">Pay the EMI Manually</h4>
                       <p className="text-lg text-gray-700">Do not wait for the bank to figure it out. Immediately pay the principal EMI amount directly to the lender via NEFT, RTGS, or their payment portal to prevent further delays.</p>
                     </div>
                   </div>
@@ -367,7 +367,7 @@ export default function NachBounceGuidePage() {
                       3
                     </div>
                     <div>
-                      <h3 className="text-2xl font-bold text-[#2E2E2E] mb-3">Email a Formal Dispute</h3>
+                      <h4 className="text-2xl font-bold text-[#2E2E2E] mb-3">Email a Formal Dispute</h4>
                       <p className="text-lg text-gray-700">Write to both your bank and the lending institution. State clearly that the bounce was due to a technical error/signature mismatch (attach proof if available) and demand an immediate reversal of any bounce charges or late fees.</p>
                     </div>
                   </div>
@@ -376,7 +376,7 @@ export default function NachBounceGuidePage() {
                       4
                     </div>
                     <div>
-                      <h3 className="text-2xl font-bold text-[#2E2E2E] mb-3">Set Up E-NACH</h3>
+                      <h4 className="text-2xl font-bold text-[#2E2E2E] mb-3">Set Up E-NACH</h4>
                       <p className="text-lg text-gray-700">If dealing with a signature mismatch, abandon physical forms. Request an E-NACH setup link which uses NetBanking or Debit Card authentication, completely eliminating signature issues.</p>
                     </div>
                   </div>
@@ -385,9 +385,9 @@ export default function NachBounceGuidePage() {
 
               {/* Success Stories */}
               <section id="success-stories" className="scroll-mt-32 mb-16">
-                <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+                <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                   Success Stories
-                </h2>
+                </h3>
                 <div className="grid md:grid-cols-2 gap-6 mt-8">
                   {/* Card 1 */}
                   <div className="bg-white p-8 rounded-[30px] border border-[#DEDEDE] shadow-sm hover:shadow-xl group transition-all">
@@ -435,9 +435,9 @@ export default function NachBounceGuidePage() {
 
               {/* FAQs */}
               <section id="faqs" className="scroll-mt-32 mb-16">
-                <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">
+                <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">
                   Frequently Asked Questions
-                </h2>
+                </h3>
                 <div className="space-y-4">
                   {[
                     { q: "Who pays the penalty for a technical bounce?", a: "If the bounce is due to a technical error like a bank server issue, you are not liable for the bounce charges. The bank must waive them off upon a formal request." },
@@ -472,9 +472,9 @@ export default function NachBounceGuidePage() {
               <div id="contact" className="bg-[#2E2E2E] text-white p-12 rounded-[40px] text-center mt-24 relative overflow-hidden group">
                 <div className="absolute inset-0 bg-[#1F5EFF] opacity-0 group-hover:opacity-5 transition-opacity"></div>
                 <div className="relative z-10">
-                  <h3 className="text-3xl md:text-4xl font-black mb-6">
+                  <h4 className="text-3xl md:text-4xl font-black mb-6">
                     Stop Paying for Bank Errors!
-                  </h3>
+                  </h4>
                   <p className="text-xl mb-8 text-gray-300">
                     Did your EMI bounce because of the bank's server issue or a signature mismatch? You are NOT liable for the bounce charges. Learn how to fight it.
                   </p>

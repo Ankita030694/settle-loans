@@ -284,77 +284,77 @@ export default function HaryanaLoanSettlementPage() {
             </section>
 
             <section id="industrial-debt-gurgaon-faridabad" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl font-black mb-6">Industrial Debt and Credit Potential in NCR Hubs</h2>
+              <h3 className="text-3xl font-black mb-6">Industrial Debt and Credit Potential in NCR Hubs</h3>
               <p>The industrial hubs of Gurgaon and Faridabad are the lifelines of Haryana's economy. However, these areas have also become centers of significant industrial debt. MSME owners often find themselves caught between rising operational costs and the weight of high interest loans taken for machinery and expansion. National agencies like NABARD have projected a massive credit potential for Haryana's priority sectors, yet the struggle to maintain repayment schedules remains a daily reality for many entrepreneurs.</p>
               <p>In the 2024 industrial climate, we have witnessed a trend where temporary downturns lead to accounts being classified as Non-Performing Assets (NPAs). The stress is particularly high in the automobile supply chain and the textile sectors of Panipat. Borrowers frequently cite job loss or high EMI burdens as the primary reasons for default. When banks initiate recovery, the tactics can be aggressive, often ignoring the genuine financial hardships faced by the borrowers.</p>
               <p>Our approach in these industrial corridors is targeted. We understand that a factory owner in Sonipat faces different challenges than a service professional in DLF Cyber City. By tailoring our negotiation strategies to the specific sector and the lender's regional policies, we achieve waivers that allow businesses to survive and individuals to reclaim their lives. Debt should not mean the end of your enterprise or your peace of mind.</p>
             </section>
 
             <section id="why-settle-in-haryana" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl font-black mb-6">Strategic Loan Settlement: Reclaiming Your Fiscal Narrative</h2>
+              <h3 className="text-3xl font-black mb-6">Strategic Loan Settlement: Reclaiming Your Fiscal Narrative</h3>
               <p>Loan settlement is a powerful tool for those who find themselves in an unsustainable debt cycle. It is a formal, legal process where the lender agrees to accept a portion of the total outstanding amount as a final payment. This "One-Time Settlement" (OTS) allows you to close the account and stop the compounding of interest and penalties. In Haryana, where the banking penetration is deep, OTS schemes are a standard part of the debt resolution landscape for both retail and commercial loans.</p>
               <p>The strategic value of a settlement lies in its finality. Instead of paying minimal amounts that only cover the interest, a settlement allows you to address the core principal and walk away debt free. This is especially crucial for individuals in Gurgaon and Faridabad who are looking to clean up their financial records and focus on their careers or businesses. For the bank, it represents a certain recovery of funds without the uncertainty and cost of prolonged litigation in the Debt Recovery Tribunals (DRT).</p>
               <p>At SettleLoans, we handle the entire process of negotiation. We leverage the specific policies of the Zonal offices across Haryana to ensure you get the best possible terms. Our goal is to secure a waiver ranging from 40 to 70 percent, depending on the age of the debt and your documented hardship. We turn a stressful confrontation into a professional transaction, giving you the upper hand in your financial recovery.</p>
             </section>
 
             <section id="haryana-legal-framework" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl font-black mb-6">Haryana's State-Specific Legal Shield for Borrowers</h2>
+              <h3 className="text-3xl font-black mb-6">Haryana's State-Specific Legal Shield for Borrowers</h3>
               <p>Borrowers in Haryana are protected by a robust set of laws and judicial precedents that are unique to the state and the jurisdiction of the Punjab and Haryana High Court. These legal protections ensure that banks and Non-Banking Financial Companies (NBFCs) cannot act arbitrarily. Understanding these regional nuances is what sets SettleLoans apart as an authoritative voice in debt resolution in the state.</p>
               <p>The legal landscape here is shaped by proactive judicial intervention. The High Court has repeatedly emphasized that while recovery is important, it must be conducted within the strict boundaries of due process. This means that any attempt at forceful entry, harassment, or illegal possession can be challenged effectively. Our legal team in Haryana is well versed in these state-specific protections, ensuring that our clients are always shielded from unethical recovery tactics.</p>
               <p>Furthermore, the state has established various committees and ombudsman offices to address grievances related to banking and financial services. We utilize these platforms to protect our clients' interests. Whether it is a violation of the RBI's Fair Practices Code or a state-specific regulation, we ensure that the lender is held accountable. Knowing your rights is your first line of defense against financial bullying.</p>
             </section>
 
             <section id="sarfaesi-section-26e-haryana" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl font-black mb-6">SARFAESI Section 26E Authority: Recent High Court Rulings</h2>
+              <h3 className="text-3xl font-black mb-6">SARFAESI Section 26E Authority: Recent High Court Rulings</h3>
               <p>A critical development for secured borrowers in Haryana involves the interpretation of Section 26E of the SARFAESI Act by the Punjab and Haryana High Court. Recent rulings, including those in late 2024 and 2025, have clarified the "Priority of Secured Creditors." In the case of *AU Small Finance Bank Ltd. v. State of Haryana*, the High Court ruled that a prior registered security interest of a bank enjoys absolute statutory priority over subsequent revenue charges of the state government.</p>
               <p>This is a major victory for the integrity of the secured lending system, but it also means that banks are more motivated than ever to enforce their security interests. However, the ruling also places a burden on the state and the banks to follow precise registration procedures under the CERSAI system. If there is a lapse in these procedures, the bank's priority can be challenged. This is where our legal expertise becomes invaluable for property owners in Haryana facing SARFAESI proceedings.</p>
               <p>We analyze the bank's compliance with Section 26E and other procedural requirements of the Act. If the bank has failed to properly register the security interest or has not followed the notification process, we can use these lapses to secure a stay on recovery or negotiate a far more favorable compromise settlement. This high-level legal maneuvering is essential for protecting your assets in the NCR region.</p>
             </section>
 
             <section id="punjab-money-lenders-act" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl font-black mb-6">The Punjab Regulation of Money Lenders Act: Applicability in Haryana</h2>
+              <h3 className="text-3xl font-black mb-6">The Punjab Regulation of Money Lenders Act: Applicability in Haryana</h3>
               <p>Despite being a modern industrial state, Haryana still relies on the Punjab Regulation of Money Lenders Act, 1938, to regulate private lending. This Act is a vital shield for those who have taken loans from unlicensed financiers or local "finance companies" in areas like Rohtak, Ambala, or Hisar. The Act mandates that any person in the business of lending money must hold a valid license and must maintain transparent accounts.</p>
               <p>The power of this Act lies in its ability to invalidate the claims of unlicensed lenders in a court of law. If a lender is found to be operating without a license or charging usurious interest rates that exceed the government-mandated caps, they may lose their right to recover the debt through judicial means. This is a common situation we encounter with local financiers who prey on those unable to access formal banking channels. We use the 1938 Act to challenge these illegal demands and protect our clients from predatory interest.</p>
               <p>Moreover, the Act requires lenders to provide regular statements of accounts and clear receipts for all payments. Failure to do so is a legal violation that can be used as a defense in recovery proceedings. At SettleLoans, we ensure that the "small print" of these state laws is used to your maximum advantage, bringing equity to an often one-sided relationship between the lender and the borrower.</p>
             </section>
 
             <section id="halsa-and-lok-adalat" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl font-black mb-6">The Decisive Role of HALSA and National Lok Adalats</h2>
+              <h3 className="text-3xl font-black mb-6">The Decisive Role of HALSA and National Lok Adalats</h3>
               <p>The Haryana State Legal Services Authority (HALSA) is a primary institution for dispute resolution in the state. One of its most powerful tools is the National Lok Adalat, held quarterly across all districts of Haryana. For borrowers facing bank disputes, the Lok Adalat offers a unique opportunity for an amicable, legal, and final settlement that is presided over by judicial officers. It is a forum where the power dynamic between a massive bank and a single borrower is significantly balanced.</p>
               <p>Settlement through a Lok Adalat has exceptional benefits. Firstly, it provides a "Judicial Stamp" of approval on the settlement, making it final and binding on both parties with no further appeal possible. Secondly, judicial officers often actively encourage banks to offer deeper waivers, especially in cases of documented financial hardship. This makes it one of the most effective ways to secure 60-70 percent waivers on personal loans and credit cards in cities like Panipat or Karnal.</p>
               <p>Our team has a deep track record of representing clients at HALSA Lok Adalats. We handle all the prep work, from filing the necessary applications with the District Legal Services Authority (DLSA) to preparing your hardship brief. We ensure that the bank's representatives are presented with a clear and compelling case for settlement, leading to results that are often far better than what could be achieved through private negotiation alone.</p>
             </section>
 
             <section id="physical-possession-section-14" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl font-black mb-6">Physical Possession and Section 14 Orders: The DM's Role</h2>
+              <h3 className="text-3xl font-black mb-6">Physical Possession and Section 14 Orders: The DM's Role</h3>
               <p>A major point of conflict in secured loan recovery in Haryana is "Physical Possession." Under Section 14 of the SARFAESI Act, banks must obtain an order from the District Magistrate (DM) or the Chief Judicial Magistrate (CJM) to take actual possession of a property. Recent 2024-2025 directions from the Punjab and Haryana High Court have urged DMs to act swiftly on these orders, as NPAs burden the economy. However, this push for efficiency must not come at the cost of legal accuracy.</p>
               <p>We have seen cases where asset reconstruction companies and banks attempt to bypass these procedures or use force without a proper Section 14 order. The High Court has been critical of such "Forcible Possession," even recently denying relief to companies that acted in violation of due process. If you are a property owner in Haryana, it is vital to know that you cannot be evicted without a clear and legally obtained order from the DM's office.</p>
               <p>When SettleLoans intervenes, we verify every step of the Section 14 process. We check if the mandatory notice periods were honored and if the bank's application to the DM contains any factual inaccuracies. By identifying these issues, we can stall the possession process and create a window for a "Compromise Settlement." This protects your home or business premises while providing the bank with a legal and peaceful way to resolve the account.</p>
             </section>
 
             <section id="time-barred-debts-haryana" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl font-black mb-6">Time-Barred Debts and the Haryana Public Moneys Act</h2>
+              <h3 className="text-3xl font-black mb-6">Time-Barred Debts and the Haryana Public Moneys Act</h3>
               <p>An overlooked but potent defense in Haryana involves "Time-Barred Debts." Under the Limitation Act, 1963, a creditor has a specific timeframe (usually 3 years from the date of default) to initiate a lawsuit for recovery. In a significant 2024 ruling, the Supreme Court addressed how this applies to statutory mechanisms like the Haryana Public Moneys (Recovery of Dues) Act, 1979. This Act is often used by state bodies and some specified lenders for fast-track recovery as if the debt were land revenue.</p>
               <p>The critical takeaway is that if a debt is already time-barred under the general law of limitation, it cannot be revived using the fast-track procedures of the 1979 Act. This is a common scenario in Haryana where old debts, long forgotten, are suddenly brought back to life by recovery agencies. We analyze the timeline of your debt with clinical precision. If the limitation period has expired, we can challenge the legality of any recovery attempt, often resulting in the debt being completely unenforceable.</p>
               <p>This protection is essential for individuals and small business owners who are being pursued for old liabilities that they no longer have the records to contest. At SettleLoans, we ensure that you are not held responsible for debts that the law deems expired. We provide a legal shield that respects the passage of time and the finality of financial obligations.</p>
             </section>
 
             <section id="settlement-roadmap-haryana" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl font-black mb-6">A Structured Roadmap to Financial Freedom in Haryana</h2>
+              <h3 className="text-3xl font-black mb-6">A Structured Roadmap to Financial Freedom in Haryana</h3>
               <p>Achieving total freedom from debt requires more than just a desire to pay; it requires a professional roadmap. Our process at SettleLoans is designed to be transparent, legally robust, and focused on your long term financial health. We follow a 5-step strategic path tailored to the Haryana financial environment. The journey begins with the **Debt Diagnostic and Hardship Profiling**, where we map your liabilities and document the genuine reasons for your default, such as job loss or business downturn in the NCR hubs.</p>
               <p>The second stage is the **Implementation of the Anti-Harassment Shield**. We issue formal legal notices to the Zonal and Nodal offices of your creditors. This redirection significantly reduces the pressure on you and your family, as all communication must now be directed to our legal team. The third stage is the **Negotiation and Mediation Phase**, where we use our proprietary data and expertise to propose a settlement, often leveraging the quarterly HALSA Lok Adalat sessions for maximum impact.</p>
               <p>The fourth stage is the **Verification of the Settlement Terms**. We insist on a formal, authenticated settlement letter on the bank's official letterhead. Our legal team scrutinizes this document for any hidden clauses that could cause issues later. The final stage is the **Account Closure and NDC Procurement**. After the negotiated payment is made, we ensure that the bank symbols the account as closed in their records and issues a "No Dues Certificate." This is your certificate of freedom, allowing you to start your financial life anew.</p>
             </section>
 
             <section id="haryana-success-stories" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl font-black mb-8 text-center">Local Haryana Success Stories: Real People, Real Freedom</h2>
+              <h3 className="text-3xl font-black mb-8 text-center">Local Haryana Success Stories: Real People, Real Freedom</h3>
               <p className="text-center mb-8">We have empowered thousands of families across Gurgaon, Faridabad, and Panipat to reclaim their financial peace. Here are two examples of how we navigated complex cases in the state.</p>
               <div className="grid md:grid-cols-2 gap-6 not-prose">
                 <div className="bg-white p-6 rounded-2xl border border-[#DEDEDE] shadow-sm hover:shadow-md transition-all">
                   <div className="flex items-center mb-4">
                     <div className="w-10 h-10 rounded-full bg-[#1F5EFF]/10 flex items-center justify-center font-bold text-[#1F5EFF] mr-3">S</div>
                     <div>
-                      <h3 className="font-bold">Sandeep M.</h3>
+                      <h4 className="font-bold">Sandeep M.</h4>
                       <p className="text-xs text-gray-500">Gurgaon, Haryana</p>
                     </div>
                   </div>
@@ -365,7 +365,7 @@ export default function HaryanaLoanSettlementPage() {
                   <div className="flex items-center mb-4">
                     <div className="w-10 h-10 rounded-full bg-[#1F5EFF]/10 flex items-center justify-center font-bold text-[#1F5EFF] mr-3">V</div>
                     <div>
-                      <h4 className="font-bold">Vikram S.</h4>
+                      <h5 className="font-bold">Vikram S.</h5>
                       <p className="text-xs text-gray-500">Faridabad, Haryana</p>
                     </div>
                   </div>
@@ -376,21 +376,21 @@ export default function HaryanaLoanSettlementPage() {
             </section>
 
             <section id="rebuilding-credit-haryana" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl font-black mb-6">CIBIL Score Recovery in the NCR Financial Ecosystem</h2>
+              <h3 className="text-3xl font-black mb-6">CIBIL Score Recovery in the NCR Financial Ecosystem</h3>
               <p>A primary concern for many of our clients in Gurgaon and Faridabad is the impact of a settlement on their credit score. It is important to be realistic: a settlement is reported as a finalized discount, which causes a temporary dip in your CIBIL score. However, this is a vastly superior alternative to being in a permanent state of default, where your score continues to bleed as interest and penalties mount. A settlement allows you to "stop the bleeding" and start the healing process.</p>
               <p>In the high velocity financial markets of Haryana, a settled status signifies a responsible closure of past debt. More importantly, it improves your debt-to-income ratio, which is a key factor for future credit. We provide all our clients with a "CIBIL Rebuilding Roadmap." By clearing old defaults and then managing small credit instruments correctly, you can see a significant improvement in your creditworthiness within 18 to 24 months of completing your settlement.</p>
               <p>Being debt-free provides the mental clarity and financial flexibility needed to build a better future. The freedom from constant interest accumulation is the first step toward true wealth generation. Remember, your credit score is a dynamic reflection of your behavior, and by choosing to settle and move on, you are taking a proactive step toward a healthier financial life in Haryana.</p>
             </section>
 
             <section id="expert-negotiation-strategies" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl font-black mb-6">Expert High-Level Bank Negotiation: The SettleLoans Advantage</h2>
+              <h3 className="text-3xl font-black mb-6">Expert High-Level Bank Negotiation: The SettleLoans Advantage</h3>
               <p>Successful loan settlement is as much an art as it is a legal process. It requires deep insight into the internal hierarchies and "risk appetite" of each lender. Whether it is a private bank like HDFC or ICICI in Gurgaon, or a public sector giant like PNB or SBI with its Zonal office in Chandigarh, each has its own cycle for settlements. We understand these unwritten rules, such as the motivation for banks to clean up their balance sheets at the end of a financial quarter (such as March 2025).</p>
               <p>Our team includes former bank managers and legal experts who speak the "language of recovery." We time our proposals to coincide with National Lok Adalat sessions or internal bank settlement windows, maximizing the chances of a favorable outcome. We handle everything from the initial hardship communication to the final verification of the NDC, ensuring you are treated with the respect you deserve throughout the journey.</p>
               <p>Furthermore, our collective bargaining power is a unique asset. Representing thousands of clients across Haryana allows us to negotiate at scale, often securing standardized terms that would be impossible for an individual borrower to achieve. We provide you with the expertise and the leverage needed to settle your debts on your terms, allowing you to focus on your family and your future in this vibrant state.</p>
             </section>
 
             <section id="haryana-loan-faqs" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl font-black mb-8">Frequently Asked Questions: Haryana Edition</h2>
+              <h3 className="text-3xl font-black mb-8">Frequently Asked Questions: Haryana Edition</h3>
               <div className="space-y-4 not-prose">
                 {[
                   { q: "Is loan settlement legal in Haryana?", a: "Yes, it is a 100% legal process governed by the Indian Contract Act and supported by RBI guidelines and the state's Lok Adalat system." },
@@ -422,7 +422,7 @@ export default function HaryanaLoanSettlementPage() {
             </section>
 
             <section className="mt-16 bg-[#1F5EFF] rounded-3xl p-10 text-center text-white shadow-2xl">
-              <h2 className="text-3xl md:text-4xl font-black mb-4">Start Your Debt-Free Life in Haryana Today</h2>
+              <h3 className="text-3xl md:text-4xl font-black mb-4">Start Your Debt-Free Life in Haryana Today</h3>
               <p className="mb-8 text-lg opacity-90 max-w-2xl mx-auto">Join thousands of families across Gurgaon, Faridabad, and Sonipat who have already reclaimed their financial independence. Your journey to freedom is just one consultation away.</p>
               <div className="flex justify-center">
                 <Link href="/contact" className="inline-block bg-white text-[#1F5EFF] font-black py-4 px-12 rounded-xl hover:scale-105 transition-all text-xl shadow-lg">

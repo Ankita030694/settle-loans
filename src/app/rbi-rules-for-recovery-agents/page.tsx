@@ -267,9 +267,9 @@ export default function RBIRulesPage() {
             </section>
             
             <section id="evolution-of-rules" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
                 The Historical Evolution: From RBI Circulars to 2026 Directions
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 The "RBI Rules for Recovery Agents" have evolved significantly over the last two decades. Initially, these guidelines were part of broader "Master Circulars" on customer service in banks. However, due to a rising number of complaints regarding aggressive debt collection, the RBI has moved toward more specific and stringent directions.
               </p>
@@ -277,7 +277,7 @@ export default function RBIRulesPage() {
                 In earlier years, the primary circular was the RBI/2022-23/108 "Master Circular on Recovery Agents of Lending Institutions." This document established the fundamental principles: agents must be trained, banks are liable for their conduct, and harassment is strictly forbidden. While these rules were a solid start, they left some ambiguities that unethical recovery agencies tried to exploit.
               </p>
               <div className="bg-blue-50/50 p-10 rounded-3xl border border-blue-100 shadow-sm mb-12">
-                <h3 className="text-2xl font-black text-[#2E2E2E] mb-6">The Landmark 2026 Update</h3>
+                <h4 className="text-2xl font-black text-[#2E2E2E] mb-6">The Landmark 2026 Update</h4>
                 <p className="text-lg leading-relaxed text-[#2E2E2E]/80 mb-6">
                   To address the digital shift and the rise of fintech recovery harassment, the "Reserve Bank of India (Commercial Banks – Responsible Business Conduct) Second Amendment Directions, 2026" was introduced. Set to take full effect on July 1, 2026, these are the most powerful borrower protections India has ever seen.
                 </p>
@@ -288,9 +288,9 @@ export default function RBIRulesPage() {
             </section>
 
             <section id="core-guidelines-2026" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
                 Section-by-Section: The Core RBI Guidelines for 2026
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 The 2026 directives represent a fundamental shift in debt recovery power dynamics. Previously, the burden of proof was often on the borrower to show they were harassed. Under the new "Responsible Business Conduct" framework, the burden is now on the bank to prove that their recovery agents remained within the legal boundaries.
               </p>
@@ -303,9 +303,9 @@ export default function RBIRulesPage() {
             </section>
 
             <section id="contact-time-rules" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
                 The Strict Timing Rule: 8:00 AM to 7:00 PM Only
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 Privacy is a fundamental right. To protect this, the RBI has established a clear window for all recovery communications. Whether it is a phone call, a WhatsApp message, or a physical home visit, recovery agents can only contact you between 8:00 AM and 7:00 PM.
               </p>
@@ -324,13 +324,13 @@ export default function RBIRulesPage() {
             </section>
 
             <section id="privacy-and-conduct" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">Professionalism and Conduct: The Ban on Abusive Tactics</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">Professionalism and Conduct: The Ban on Abusive Tactics</h3>
               <p className="text-lg leading-relaxed mb-6">
                 Human dignity is at the heart of the RBI's Responsible Business Conduct directions. The regulator has explicitly defined what constitutes "prohibited conduct." If an agent uses abusive, threatening, or minatory language, they are in direct violation of the law. This applies even if the borrower is in default. Debt is a civil contractual matter; it is not a criminal offense that warrants verbal abuse.
               </p>
               <div className="grid md:grid-cols-2 gap-8 mb-12">
                 <div className="bg-gray-50 p-8 rounded-2xl border border-gray-200">
-                  <h3 className="text-xl font-black text-[#2E2E2E] mb-4 uppercase tracking-wider">Illegal Conduct</h3>
+                  <h4 className="text-xl font-black text-[#2E2E2E] mb-4 uppercase tracking-wider">Illegal Conduct</h4>
                   <ul className="space-y-4 text-[#2E2E2E]/80 font-bold">
                     <li className="flex items-start gap-2">
                         <span className="text-red-500 shrink-0">✘</span>
@@ -351,7 +351,7 @@ export default function RBIRulesPage() {
                   </ul>
                 </div>
                 <div className="bg-blue-50 p-8 rounded-2xl border border-blue-200">
-                   <h4 className="text-xl font-black text-blue-900 mb-4 uppercase tracking-wider">Mandatory Professionalism</h4>
+                   <h5 className="text-xl font-black text-blue-900 mb-4 uppercase tracking-wider">Mandatory Professionalism</h5>
                    <ul className="space-y-4 text-blue-800 font-bold">
                     <li className="flex items-start gap-2">
                         <span className="text-emerald-500 shrink-0">✓</span>
@@ -378,7 +378,7 @@ export default function RBIRulesPage() {
             </section>
             
             <section id="certification-requirements" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">The Professional Barrier: Mandatory IIBF Certification</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">The Professional Barrier: Mandatory IIBF Certification</h3>
               <p className="mb-6 text-lg leading-relaxed">
                 One of the most powerful rules in the RBI's arsenal against harassment is the mandatory certification requirement. Not just anyone can become a recovery agent. The regulator has decreed that all agents engaged by banks and NBFCs must undergo specific training and pass an examination conducted by the Indian Institute of Banking and Finance (IIBF).
               </p>
@@ -386,7 +386,7 @@ export default function RBIRulesPage() {
                 This training is not about "how to collect more money." Instead, it focuses heavily on the "Code of Conduct" and the legal rights of borrowers. The training program typically lasts for 100 hours. During this time, agents are taught the nuances of fair practice codes and the limits of their legal authority. If an agent does not have this certification, they are legally prohibited from contacting any borrower.
               </p>
               <div className="bg-emerald-50 border-l-4 border-emerald-500 p-8 rounded-r-xl mb-8">
-                <h3 className="text-xl font-bold text-emerald-800 mb-4">Why Certification Protects You</h3>
+                <h4 className="text-xl font-bold text-emerald-800 mb-4">Why Certification Protects You</h4>
                 <p className="text-emerald-900/80 mb-4">A certified agent is a registered agent. This means:</p>
                 <ul className="space-y-3 text-emerald-900/80 font-medium">
                   <li>• <strong>Accountability:</strong> Their professional future is tied to their conduct. Any serious complaint can lead to the cancellation of their IIBF certificate.</li>
@@ -400,7 +400,7 @@ export default function RBIRulesPage() {
             </section>
 
             <section id="training-and-id" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Identification and Documentation: The Agent's Burden</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Identification and Documentation: The Agent's Burden</h3>
               <p className="mb-6 text-lg leading-relaxed">
                 Transparency is a key requirement of the "RBI Rules for Recovery Agents." An agent cannot operate in the shadows. Every time an agent makes a physical visit to your home or office, they must carry a specific set of documents. If any of these are missing, the visit itself is considered a violation of the RBI Fair Practice Code.
               </p>
@@ -408,21 +408,21 @@ export default function RBIRulesPage() {
                  <div className="bg-white p-6 rounded-2xl border border-[#DEDEDE] shadow-sm flex items-start gap-4">
                     <div className="w-12 h-12 rounded-full bg-blue-100 flex items-center justify-center shrink-0 font-black text-blue-600">01</div>
                     <div>
-                        <h3 className="font-black text-[#2E2E2E] mb-1">Official ID Card</h3>
+                        <h4 className="font-black text-[#2E2E2E] mb-1">Official ID Card</h4>
                         <p className="text-sm text-[#2E2E2E]/70 font-bold leading-relaxed">The agent must carry a valid identity card issued by the bank or the recovery agency. This card must have a clear photo and the agent's full name.</p>
                     </div>
                  </div>
                  <div className="bg-white p-6 rounded-2xl border border-[#DEDEDE] shadow-sm flex items-start gap-4">
                     <div className="w-12 h-12 rounded-full bg-blue-100 flex items-center justify-center shrink-0 font-black text-blue-600">02</div>
                     <div>
-                        <h4 className="font-black text-[#2E2E2E] mb-1">Authorization Letter</h4>
+                        <h5 className="font-black text-[#2E2E2E] mb-1">Authorization Letter</h5>
                         <p className="text-sm text-[#2E2E2E]/70 font-bold leading-relaxed">The bank must provide a specific authorization letter that names the agent or agency permitted to recover the debt from your specific account.</p>
                     </div>
                  </div>
                  <div className="bg-white p-6 rounded-2xl border border-[#DEDEDE] shadow-sm flex items-start gap-4">
                     <div className="w-12 h-12 rounded-full bg-blue-100 flex items-center justify-center shrink-0 font-black text-blue-600">03</div>
                     <div>
-                        <h4 className="font-black text-[#2E2E2E] mb-1">Grievance Officer Contact</h4>
+                        <h5 className="font-black text-[#2E2E2E] mb-1">Grievance Officer Contact</h5>
                         <p className="text-sm text-[#2E2E2E]/70 font-bold leading-relaxed">The documentation must include the phone number and email address of the bank's designated grievance redressal officer.</p>
                     </div>
                  </div>
@@ -433,7 +433,7 @@ export default function RBIRulesPage() {
             </section>
 
             <section id="bank-liability" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Vicarious Liability: Why the Bank Cannot Hide</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Vicarious Liability: Why the Bank Cannot Hide</h3>
               <p className="mb-6 text-lg leading-relaxed">
                 In the past, lenders often attempted to wash their hands of any harassment by claiming it was the fault of an "independent" third party agency. The RBI has completely shut this loophole. The rule of "Vicarious Liability" is now a cornerstone of the recovery regulatory framework in India.
               </p>
@@ -446,26 +446,26 @@ export default function RBIRulesPage() {
             </section>
 
             <section id="grievance-escalation" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">The Escalation Ladder: Moving Beyond the Agent</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">The Escalation Ladder: Moving Beyond the Agent</h3>
               <p className="mb-6 text-lg leading-relaxed">
                 When an agent violates the RBI rules, your first step should not be to argue with the agent. Most recovery agents are trained to "power through" verbal protests. To stop the harassment, you must engage with the formal hierarchy that the RBI has mandated for every lending institution.
               </p>
               <div className="bg-[#2E2E2E] p-10 rounded-3xl mb-12 shadow-2xl border border-white/5">
-                <h3 className="text-2xl font-black text-white mb-8 border-b border-white/10 pb-4">Standard Complaint Procedure</h3>
+                <h4 className="text-2xl font-black text-white mb-8 border-b border-white/10 pb-4">Standard Complaint Procedure</h4>
                 <div className="grid md:grid-cols-3 gap-8">
                   <div className="space-y-4">
                     <div className="text-[#1F5EFF] font-black text-4xl">01</div>
-                    <h4 className="text-white font-bold text-lg">Internal Grievance</h4>
+                    <h5 className="text-white font-bold text-lg">Internal Grievance</h5>
                     <p className="text-white/60 text-sm leading-relaxed">Write a formal email to the bank's Nodal Officer documenting the violation. Use specific dates, times, and phone numbers.</p>
                   </div>
                   <div className="space-y-4">
                     <div className="text-[#1F5EFF] font-black text-4xl">02</div>
-                    <h5 className="text-white font-bold text-lg">30-Day Waiting</h5>
+                    <h6 className="text-white font-bold text-lg">30-Day Waiting</h6>
                     <p className="text-white/60 text-sm leading-relaxed">The bank has exactly 30 days to resolve your grievance and provide a formal response in writing.</p>
                   </div>
                   <div className="space-y-4">
                     <div className="text-[#1F5EFF] font-black text-4xl">03</div>
-                    <h5 className="text-white font-bold text-lg">Digital Evidence</h5>
+                    <h6 className="text-white font-bold text-lg">Digital Evidence</h6>
                     <p className="text-white/60 text-sm leading-relaxed">Always attach call logs, recordings, and screenshots of threatening messages to your complaint to make it undeniable.</p>
                   </div>
                 </div>
@@ -476,7 +476,7 @@ export default function RBIRulesPage() {
             </section>
             
             <section id="ombudsman-process" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Escalating to the RBI Ombudsman: The CMS Portal</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Escalating to the RBI Ombudsman: The CMS Portal</h3>
               <p className="mb-6 text-lg leading-relaxed">
                 If the lending institution fails to resolve your grievance within 30 days, or if you are dissatisfied with their response, the RBI provides a powerful independent platform for justice: the Integrated Ombudsman Scheme. This is accessible through the RBI's Complaint Management System (CMS) portal.
               </p>
@@ -485,7 +485,7 @@ export default function RBIRulesPage() {
               </p>
               <div className="grid md:grid-cols-2 gap-8 mb-12">
                 <div className="border-2 border-dashed border-[#DEDEDE] p-8 rounded-3xl">
-                   <h3 className="text-xl font-black text-[#2E2E2E] mb-4">When to Approach the Ombudsman</h3>
+                   <h4 className="text-xl font-black text-[#2E2E2E] mb-4">When to Approach the Ombudsman</h4>
                    <ul className="space-y-3 text-sm font-bold text-[#2E2E2E]/80">
                       <li>• The bank has rejected your complaint for no valid reason.</li>
                       <li>• 30 days have passed since your formal email to the Nodal Officer.</li>
@@ -494,7 +494,7 @@ export default function RBIRulesPage() {
                    </ul>
                 </div>
                 <div className="bg-blue-600 p-8 rounded-3xl text-white shadow-xl shadow-blue-500/20">
-                   <h4 className="text-xl font-black mb-4">The CMS Portal Advantage</h4>
+                   <h5 className="text-xl font-black mb-4">The CMS Portal Advantage</h5>
                    <p className="text-sm leading-relaxed opacity-90 font-bold">
                      The CMS portal allows you to track your complaint in real time. Banks are terrified of the Ombudsman because every complaint on CMS is monitored by the RBI's regional offices. A high number of recovery-related complaints can lead to the RBI debarring the bank from using recovery agents altogether.
                    </p>
@@ -506,7 +506,7 @@ export default function RBIRulesPage() {
             </section>
 
             <section id="police-and-ipc" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">The Criminal Shield: Police Protection and the IPC</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">The Criminal Shield: Police Protection and the IPC</h3>
               <p className="mb-6 text-lg leading-relaxed">
                 While the RBI rules provide a regulatory framework, the Indian Penal Code (IPC) provides criminal protection. If a recovery agent's conduct crosses into the territory of threats, physical force, or entering your property without permission, you should involve the local police.
               </p>
@@ -514,7 +514,7 @@ export default function RBIRulesPage() {
                 Many agents believe that they are immune to police action because "debt is a civil matter." This is a dangerous misconception. While the debt itself is civil, the method of collection can be criminal. If an agent threatens you with injury or tries to shame you in your community, they are committing a crime.
               </p>
               <div className="bg-gray-50 border border-gray-200 p-8 rounded-2xl mb-8">
-                 <h3 className="text-xl font-black text-[#2E2E2E] mb-6 tracking-tight italic">Essential IPC Sections for Your Defense</h3>
+                 <h4 className="text-xl font-black text-[#2E2E2E] mb-6 tracking-tight italic">Essential IPC Sections for Your Defense</h4>
                  <div className="space-y-6">
                     <div className="flex gap-4">
                         <div className="font-black text-2xl text-[#1F5EFF] underline">503</div>
@@ -536,7 +536,7 @@ export default function RBIRulesPage() {
             </section>
             
             <section id="success-stories" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 text-center">Regulatory Success Stories</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 text-center">Regulatory Success Stories</h3>
               <div className="grid md:grid-cols-2 gap-6 not-prose">
                 {[
                   {
@@ -574,7 +574,7 @@ export default function RBIRulesPage() {
                         {review.name.charAt(0)}
                       </div>
                       <div>
-                        <h3 className="font-bold text-[#2E2E2E]">{review.name}</h3>
+                        <h4 className="font-bold text-[#2E2E2E]">{review.name}</h4>
                         <p className="text-xs text-gray-400">{review.loc}</p>
                       </div>
                       <div className="ml-auto text-yellow-400 text-sm">★★★★★</div>
@@ -589,7 +589,7 @@ export default function RBIRulesPage() {
             </section>
 
             <section id="faqs" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Frequently Asked Questions</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Frequently Asked Questions</h3>
               <div className="space-y-4 not-prose">
                 {[
                   { q: "What are the new RBI rules for recovery agents in 2026?", a: "The 2026 RBI rules mandate a strict 8:00 AM to 7:00 PM window for all communications, require mandatory IIBF certification for all agents, and hold banks vicariously liable for any harassment by third party agencies." },
@@ -626,7 +626,7 @@ export default function RBIRulesPage() {
             <div className="lg:hidden mt-16 mb-8">
               <div className="bg-[#2E2E2E] rounded-2xl shadow-xl overflow-hidden border border-[#1F5EFF]/20">
                 <div className="bg-[#1F5EFF] p-6 text-center text-white">
-                  <h3 className="text-2xl font-black mb-2">Fight Back with Law</h3>
+                  <h4 className="text-2xl font-black mb-2">Fight Back with Law</h4>
                   <p className="opacity-90 text-sm">Our legal experts can help you stop illegal recovery tactics and settle your debt for good.</p>
                 </div>
                 <div className="p-8 text-center text-[#DEDEDE]">

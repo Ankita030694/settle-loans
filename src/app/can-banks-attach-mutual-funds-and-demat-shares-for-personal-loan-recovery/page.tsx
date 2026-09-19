@@ -4,7 +4,7 @@ import { Metadata } from 'next';
 import TableOfContents from '@/components/TableOfContents';
 
 export const metadata: Metadata = {
-  title: "Can Banks Attach Mutual Funds & Demat Shares? | SettleLoans",
+  title: "Can Banks Attach Mutual Funds & Demat Shares for Loan?",
   description: "Learn if banks can freeze your Demat account or attach mutual funds for an unsecured loan default. Understand the legal procedures, court orders.",
   alternates: {
     canonical: "https://www.settleloans.in/can-banks-attach-mutual-funds-and-demat-shares-for-personal-loan-recovery"
@@ -205,13 +205,13 @@ export default function AssetAttachmentPage() {
 
             {/* Blue Important Box Section */}
             <section id="can-banks-seize" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">Can Banks Freeze Demat Accounts for Loan Default?</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">Can Banks Freeze Demat Accounts for Loan Default?</h3>
               <p className="text-lg leading-relaxed mb-6">
                 The short answer is: <strong>No, not immediately, and not without a formal court decree.</strong> A bank cannot unilaterally log into NSDL or CDSL and request a freeze on your Demat account just because you missed a few EMIs on a personal credit card or unsecured loan.
               </p>
               
               <div className="bg-blue-50 border-l-8 border-[#1F5EFF] p-8 rounded-r-2xl mb-8">
-                <h3 className="text-xl font-black text-[#1F5EFF] mb-4">The Reality of the "Bank Freeze Demat Account Loan Default" Threat</h3>
+                <h4 className="text-xl font-black text-[#1F5EFF] mb-4">The Reality of the "Bank Freeze Demat Account Loan Default" Threat</h4>
                 <p className="text-lg leading-relaxed mb-6 text-[#1E3A8A]">
                   Recovery agents use this phrase to create panic. In reality, your shares and mutual funds are held by third-party depositories and Asset Management Companies (AMCs). To touch these assets, the bank must:
                 </p>
@@ -234,26 +234,26 @@ export default function AssetAttachmentPage() {
 
             {/* 4-Grid Info Boxes Section */}
             <section id="legal-procedure" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">The Legal Procedure for Asset Attachment</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">The Legal Procedure for Asset Attachment</h3>
               <p className="text-lg leading-relaxed mb-6">
                 Attaching third-party assets is a rigorous legal process. The law protects borrowers from summary confiscation of property for unsecured debts. Here is how the process actually works in the Indian legal system.
               </p>
               
               <div className="grid md:grid-cols-2 gap-6 my-8">
                 <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
-                  <h3 className="font-black text-[#1F5EFF] text-lg mb-4">1. Issuance of Legal Notices</h3>
+                  <h4 className="font-black text-[#1F5EFF] text-lg mb-4">1. Issuance of Legal Notices</h4>
                   <p className="text-lg leading-relaxed text-gray-700">The bank must first issue standard recall notices and legal demand notices under various civil laws, giving you an opportunity to respond.</p>
                 </div>
                 <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
-                  <h3 className="font-black text-[#1F5EFF] text-lg mb-4">2. Filing a Civil Suit or DRT</h3>
+                  <h4 className="font-black text-[#1F5EFF] text-lg mb-4">2. Filing a Civil Suit or DRT</h4>
                   <p className="text-lg leading-relaxed text-gray-700">If unresolved, the bank files a recovery suit. For amounts exceeding ₹20 Lakhs, they may approach the Debt Recovery Tribunal (DRT).</p>
                 </div>
                 <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
-                  <h3 className="font-black text-[#1F5EFF] text-lg mb-4">3. Obtaining the Decree</h3>
+                  <h4 className="font-black text-[#1F5EFF] text-lg mb-4">3. Obtaining the Decree</h4>
                   <p className="text-lg leading-relaxed text-gray-700">The court examines the evidence. If the bank proves the debt, the court passes a decree. This extensive process can take years.</p>
                 </div>
                 <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
-                  <h3 className="font-black text-[#1F5EFF] text-lg mb-4">4. Execution Petition</h3>
+                  <h4 className="font-black text-[#1F5EFF] text-lg mb-4">4. Execution Petition</h4>
                   <p className="text-lg leading-relaxed text-gray-700">Only after winning the decree can the bank file an execution petition to explicitly attach specific assets like Mutual Funds or Demat shares.</p>
                 </div>
               </div>
@@ -261,20 +261,20 @@ export default function AssetAttachmentPage() {
 
             {/* Red Warning Box Section */}
             <section id="court-order-necessity" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">Why a Court Order is Mandatory to Seize Shares</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">Why a Court Order is Mandatory to Seize Shares</h3>
               <p className="text-lg leading-relaxed mb-6">
                 There is a fundamental difference between a secured loan (like a home loan) and an unsecured loan (like a personal loan or credit card). 
               </p>
               
               <div className="bg-red-50 p-6 rounded-xl border border-red-100 mb-8">
-                <h3 className="text-xl font-black text-red-700 mb-4">Beware of Collection Agent Lies</h3>
+                <h4 className="text-xl font-black text-red-700 mb-4">Beware of Collection Agent Lies</h4>
                 <p className="text-lg leading-relaxed text-red-900">
                   Agents often claim they will "seize your shares tomorrow." This is legally impossible for unsecured loans. They need a <strong>court order to seize shares</strong> because these assets were never pledged as collateral. It is a severe violation of the SARFAESI Act to bypass civil court procedures for unsecured debt recovery.
                 </p>
               </div>
 
               <div className="bg-gray-50 p-8 rounded-2xl mb-8 border border-gray-200">
-                <h4 className="text-2xl font-black text-[#2E2E2E] mb-4">The Exception: Banker's Right of Set-Off</h4>
+                <h5 className="text-2xl font-black text-[#2E2E2E] mb-4">The Exception: Banker's Right of Set-Off</h5>
                 <p className="text-lg leading-relaxed text-gray-700">
                   If you hold a fixed deposit or savings account in the <strong>exact same bank</strong> where you defaulted, the bank might invoke their "Right of Lien and Set-Off" to debit funds without a court order. However, this does not apply to third-party assets like Demat shares (NSDL/CDSL) or Mutual Funds managed by external AMCs.
                 </p>
@@ -283,7 +283,7 @@ export default function AssetAttachmentPage() {
 
             {/* Numbered Steps Section */}
             <section id="how-to-protect" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">How to Protect Investments from Bank Recovery</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">How to Protect Investments from Bank Recovery</h3>
               <p className="text-lg leading-relaxed mb-8">
                 If you are facing financial hardship but want to safeguard your investment portfolio, taking proactive legal steps is crucial. Here is how you can legally <strong>protect investments from bank recovery</strong>.
               </p>
@@ -294,7 +294,7 @@ export default function AssetAttachmentPage() {
                     1
                   </div>
                   <div>
-                    <h3 className="text-2xl font-bold text-[#2E2E2E] mb-4">Respond to Legal Notices Promptly</h3>
+                    <h4 className="text-2xl font-bold text-[#2E2E2E] mb-4">Respond to Legal Notices Promptly</h4>
                     <p className="text-lg leading-relaxed text-gray-700">
                       Never ignore a legal notice. If you fail to appear in court, the judge may pass an ex-parte decree (an order in your absence), which fast-tracks the bank's ability to attach your assets. Always reply through a competent lawyer.
                     </p>
@@ -306,7 +306,7 @@ export default function AssetAttachmentPage() {
                     2
                   </div>
                   <div>
-                    <h3 className="text-2xl font-bold text-[#2E2E2E] mb-4">Challenge the Bank's Claims</h3>
+                    <h4 className="text-2xl font-bold text-[#2E2E2E] mb-4">Challenge the Bank's Claims</h4>
                     <p className="text-lg leading-relaxed text-gray-700">
                       Banks often inflate outstanding amounts with exorbitant penal interest and hidden charges. By contesting the exact amount owed in court, you can significantly delay the decree process, buying you time to stabilize your finances.
                     </p>
@@ -318,7 +318,7 @@ export default function AssetAttachmentPage() {
                     3
                   </div>
                   <div>
-                    <h3 className="text-2xl font-bold text-[#2E2E2E] mb-4">Negotiate a One-Time Settlement (OTS)</h3>
+                    <h4 className="text-2xl font-bold text-[#2E2E2E] mb-4">Negotiate a One-Time Settlement (OTS)</h4>
                     <p className="text-lg leading-relaxed text-gray-700">
                       Litigation is expensive for banks too. Before they obtain an execution petition to freeze your Demat account, engage expert negotiators to propose a One-Time Settlement. You can often settle the loan for a fraction of the outstanding amount, completely protecting your portfolio.
                     </p>
@@ -329,7 +329,7 @@ export default function AssetAttachmentPage() {
 
             {/* Review/Success Stories Grid */}
             <section id="success-stories" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">Client Success Stories</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">Client Success Stories</h3>
               <div className="grid md:grid-cols-2 gap-6">
                 
                 {/* Story 1 */}
@@ -379,7 +379,7 @@ export default function AssetAttachmentPage() {
 
             {/* FAQs */}
             <section id="faqs" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">Frequently Asked Questions</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">Frequently Asked Questions</h3>
               <div className="space-y-6">
                 {[
                   { q: "Can a bank freeze my Demat account for a loan default?", a: "A bank cannot directly freeze your Demat account for an unsecured loan default without a specific court decree or an order from the DRT (Debt Recovery Tribunal)." },
@@ -394,7 +394,7 @@ export default function AssetAttachmentPage() {
                   { q: "How long does the court process take before asset attachment?", a: "The civil court process in India is lengthy and can take several years, giving you ample time to build a defense or negotiate a settlement." }
                 ].map((faq, index) => (
                   <div key={index} className="bg-white border border-[#DEDEDE] rounded-xl p-6 hover:shadow-md transition-shadow">
-                    <h3 className="text-xl font-bold text-[#2E2E2E] mb-3">{faq.q}</h3>
+                    <h4 className="text-xl font-bold text-[#2E2E2E] mb-3">{faq.q}</h4>
                     <p className="text-lg leading-relaxed text-gray-700">{faq.a}</p>
                   </div>
                 ))}
@@ -405,7 +405,7 @@ export default function AssetAttachmentPage() {
             <div id="consultation" className="bg-[#2E2E2E] text-white p-12 rounded-[40px] text-center mt-24 relative overflow-hidden group">
               <div className="absolute inset-0 bg-[#1F5EFF] opacity-0 group-hover:opacity-5 transition-opacity duration-500"></div>
               <div className="relative z-10">
-                <h3 className="text-3xl md:text-5xl font-black mb-6">Secure Your Portfolio.</h3>
+                <h4 className="text-3xl md:text-5xl font-black mb-6">Secure Your Portfolio.</h4>
                 <p className="text-xl md:text-2xl text-gray-300 mb-10 max-w-2xl mx-auto leading-relaxed">
                   Worried the bank will confiscate your hard-earned Mutual Funds or Shares to recover a personal loan? Get specialized legal defense to protect your financial portfolio.
                 </p>

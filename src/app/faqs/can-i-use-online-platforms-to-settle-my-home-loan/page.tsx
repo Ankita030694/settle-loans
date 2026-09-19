@@ -312,14 +312,14 @@ export default function HomeLoanOnlineSettlementPage() {
                         </section>
 
                         <section id="secured-challenge" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                                 Understanding the Secured Debt Challenge
-                            </h2>
+                            </h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 Before exploring online platforms, it is crucial to understand why banks are hesitant to settle home loans. When you default on a personal loan, the bank has no asset to grab; they rely on recovery agents or lengthy civil suits. In a home loan, the bank knows that the property value is likely equal to or higher than the loan amount. Therefore, they have little incentive to offer a waiver. They see the property as a guaranteed recovery source, a tangible asset that can be auctioned to clear the outstanding balance including interest and penalties.
                             </p>
                             <div className="bg-blue-50 p-8 rounded-2xl border-l-4 border-blue-500 mb-8">
-                                <h3 className="text-lg font-bold text-blue-900 mb-4">When do banks settle?</h3>
+                                <h4 className="text-lg font-bold text-blue-900 mb-4">When do banks settle?</h4>
                                 <p className="text-blue-800">
                                     Banks usually only consider a settlement for a home loan when the cost of recovery (legal fees, auction delays, property maintenance) exceeds the potential gain from the auction. Online platforms use technical audits to find these vulnerabilities in the bank's case, such as documentation flaws or market valuation errors.
                                 </p>
@@ -336,19 +336,19 @@ export default function HomeLoanOnlineSettlementPage() {
                         </section>
 
                         <section id="sarfaesi-rights" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                                 The SARFAESI Act: Your Rights in the Digital Age
-                            </h2>
+                            </h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 The Securitization and Reconstruction of Financial Assets and Enforcement of Security Interest Act, 2002 (SARFAESI) is the primary weapon used by Indian banks to recover home loans. It allows them to bypass the traditional courts and take possession of properties. However, the law is not a one-way street. It provides stringent procedural safeguards that borrowers can leverage through online legal assistance platforms. Many borrowers are unaware that a single procedural error by the bank can render the entire recovery process void.
                             </p>
                             <div className="grid md:grid-cols-2 gap-6 mb-8">
                                 <div className="bg-white p-6 rounded-xl border border-gray-200 shadow-sm">
-                                    <h3 className="font-bold text-lg mb-3 text-gray-900">13(2) Notice Audit</h3>
+                                    <h4 className="font-bold text-lg mb-3 text-gray-900">13(2) Notice Audit</h4>
                                     <p className="text-gray-700 text-sm">Online platforms allow you to upload this demand notice and receive an AI-driven analysis of its validity. They check if the bank has accurately calculated the outstanding and given the mandatory 60-day window.</p>
                                 </div>
                                 <div className="bg-white p-6 rounded-xl border border-gray-200 shadow-sm">
-                                    <h4 className="font-bold text-lg mb-3 text-gray-900">13(4) Possession Defense</h4>
+                                    <h5 className="font-bold text-lg mb-3 text-gray-900">13(4) Possession Defense</h5>
                                     <p className="text-gray-700 text-sm">Before a bank takes symbolic possession, a digital legal team can help you file a formal objection. The law mandates that the bank must provide a reasoned response within 15 days.</p>
                                 </div>
                             </div>
@@ -364,9 +364,9 @@ export default function HomeLoanOnlineSettlementPage() {
                         </section>
 
                         <section id="pdt-role" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                                 Digital Defense in the Debt Recovery Tribunal (DRT)
-                            </h2>
+                            </h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 If you fail to respond to the initial notices, the bank will move toward taking possession of your home. This is the stage where the Debt Recovery Tribunal (DRT) comes in. Traditionally, filing a Securitization Application (S.A.) in the DRT was a slow, manual process involving physical presence, expensive lawyers, and heavy paperwork. It often felt like a David vs. Goliath battle where the borrower was at a massive disadvantage.
                             </p>
@@ -382,26 +382,26 @@ export default function HomeLoanOnlineSettlementPage() {
                         </section>
 
                         <section id="online-mediation" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                                 The E-Mediation Revolution in Home Loan Resolution
-                            </h2>
+                            </h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 One of the most exciting developments in the Indian legal landscape is the rise of Online Dispute Resolution (ODR). For home loans, this usually takes the form of E-mediation. Many banks are now participating in digital Lok Adalats and virtual conciliation sessions. This shift is driven by the RBI's focus on resolving bad debts through mutual consent rather than protracted litigation.
                             </p>
                             <div className="bg-[#2E2E2E] text-white p-10 rounded-3xl mb-12 shadow-2xl">
-                                <h3 className="text-2xl font-bold mb-6 text-[#1F5EFF]">Benefits of Digital Mediation</h3>
+                                <h4 className="text-2xl font-bold mb-6 text-[#1F5EFF]">Benefits of Digital Mediation</h4>
                                 <ul className="space-y-6">
                                     <li className="flex gap-4">
                                         <FontAwesomeIcon icon={faScaleBalanced} className="text-[#1F5EFF] w-6 h-6 mt-1" />
                                         <div>
-                                            <h4 className="font-bold text-lg">Neutral Territory</h4>
+                                            <h5 className="font-bold text-lg">Neutral Territory</h5>
                                             <p className="text-gray-400 text-sm">Online sessions remove the intimidation factor of bank offices or courtrooms, leading to more balanced and empathetic outcomes for the borrower.</p>
                                         </div>
                                     </li>
                                     <li className="flex gap-4">
                                         <FontAwesomeIcon icon={faStar} className="text-yellow-500 w-6 h-6 mt-1" />
                                         <div>
-                                            <h5 className="font-bold text-lg">Expert Transparency</h5>
+                                            <h6 className="font-bold text-lg">Expert Transparency</h6>
                                             <p className="text-gray-400 text-sm">Every interaction is recorded and logged, ensuring that the bank cannot use aggressive tactics or make verbal promises they won't keep.</p>
                                         </div>
                                     </li>
@@ -416,9 +416,9 @@ export default function HomeLoanOnlineSettlementPage() {
                         </section>
 
                         <section id="step-by-step" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                                 From Manual to Digital: The 2025 Settlement Process
-                            </h2>
+                            </h3>
                             <p className="text-lg leading-relaxed mb-10">
                                 How does an online platform actually achieve a result? It is a strategic journey that typically takes between three to six months. Understanding this timeline is essential for managing expectations and staying committed to the plan even when things feel slow.
                             </p>
@@ -451,9 +451,9 @@ export default function HomeLoanOnlineSettlementPage() {
                         </section>
 
                         <section id="bank-specific" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                                 Navigating Bank-Specific Recovery Portals
-                            </h2>
+                            </h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 Large banks like SBI (through YONO), HDFC, and ICICI have internal portals where borrowers can view their default status. However, it is a common mistake to think these portals are your friend. They are designed for recovery, not settlement. They will show you your Total Dues, often including exorbitant penal interest, and offer Restructuring Options that might look attractive but often involve extending the tenure while keeping the total repayment much higher than the original loan.
                             </p>
@@ -466,9 +466,9 @@ export default function HomeLoanOnlineSettlementPage() {
                         </section>
 
                         <section id="leveraging-tech" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                                 The Role of AI and Data in Home Loan Settlement
-                            </h2>
+                            </h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 In 2025, debt resolution is more about data than it is about talk. High-tier agencies maintain massive databases of historical auction results and settlement sanction letters. This allows them to predict the bank's floor rate for a specific property type in a specific pincode. By knowing the 'System Floor,' they prevent borrowers from accepting an offer that is too high.
                             </p>
@@ -486,9 +486,9 @@ export default function HomeLoanOnlineSettlementPage() {
                         </section>
 
                         <section id="psychological" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                                 The Psychological Impact of Facing Foreclosure
-                            </h2>
+                            </h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 Facing a home auction is one of the most stressful experiences a person can go through. It isn't just about the money; it is about the fear of homelessness and the social shame of default. This chronic stress affects health, career performance, and family dynamics. Online platforms provide a critical 'Digital Buffer.' By handling all the recovery calls and technical notices, they return a sense of control to the borrower.
                             </p>
@@ -501,19 +501,19 @@ export default function HomeLoanOnlineSettlementPage() {
                         </section>
 
                         <section id="avoiding-scams" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                                 Vetting Online Platforms: How to Avoid Scams
-                            </h2>
+                            </h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 With the rise of digital debt relief, many fraudulent apps and 'shadow' agencies have appeared. They take advantage of desperate borrowers by making impossible promises and then vanishing with their money. Here is how to spot them using a strict vetting protocol.
                             </p>
                             <div className="grid md:grid-cols-2 gap-4">
                                 <div className="p-6 rounded-2xl bg-red-50 border border-red-100">
-                                    <h3 className="font-bold text-red-900 mb-2">Red Flag: Upfront Settlement Funds</h3>
+                                    <h4 className="font-bold text-red-900 mb-2">Red Flag: Upfront Settlement Funds</h4>
                                     <p className="text-xs text-red-800">Never deposit the actual settlement amount into a third-party account. A legitimate agency will always guide you to pay the bank directly through official bank channels.</p>
                                 </div>
                                 <div className="p-6 rounded-2xl bg-red-50 border border-red-100">
-                                    <h4 className="font-bold text-red-900 mb-2">Red Flag: Guaranteed Percentages</h4>
+                                    <h5 className="font-bold text-red-900 mb-2">Red Flag: Guaranteed Percentages</h5>
                                     <p className="text-xs text-red-800">No one can guarantee a specific waiver on a home loan without talking to the bank head office. Be wary of anyone promising an 'Instant 50% Off' on secured debt.</p>
                                 </div>
                             </div>
@@ -523,9 +523,9 @@ export default function HomeLoanOnlineSettlementPage() {
                         </section>
 
                         <section id="legal-status" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                                 Legality of Digital Evidence under the IT Act
-                            </h2>
+                            </h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 Many borrowers fear that an email, a WhatsApp message, or a call recording from a recovery agent holds no value in court. Under Section 65B of the Indian Evidence Act (and newer provisions in the Bharatiya Sakshya Adhiniyam), digital communications are valid evidence if properly certified. A professional online platform helps you certify and present this evidence to stop harassment through the Banking Ombudsman.
                             </p>
@@ -538,7 +538,7 @@ export default function HomeLoanOnlineSettlementPage() {
                         </section>
 
                         <section id="faqs" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-bold text-[var(--color-primary)] mt-16 mb-8">Expert Home Loan FAQs</h2>
+                            <h3 className="text-3xl md:text-4xl font-bold text-[var(--color-primary)] mt-16 mb-8">Expert Home Loan FAQs</h3>
                             <div className="space-y-4 not-prose">
                                 {[
                                     { q: "Can I use online platforms to settle my home loan in India?", a: "Yes, platforms like SettleLoans provide digital interfaces for hardship assessment, SARFAESI defense, and official negotiation with banks for home loan settlements." },
@@ -575,7 +575,7 @@ export default function HomeLoanOnlineSettlementPage() {
                         <section className="bg-[#1F5EFF] rounded-[10px] p-8 md:p-12 text-center text-white relative overflow-hidden shadow-2xl">
                             <div className="absolute top-0 right-0 w-64 h-64 bg-white/10 rounded-full -mr-32 -mt-32"></div>
                             <div className="relative z-10">
-                                <h2 className="text-3xl md:text-5xl font-black mb-6 uppercase tracking-tighter">Save Your Home Today</h2>
+                                <h3 className="text-3xl md:text-5xl font-black mb-6 uppercase tracking-tighter">Save Your Home Today</h3>
                                 <p className="text-lg md:text-2xl opacity-90 max-w-2xl mx-auto mb-10 leading-tight font-normal">
                                     Join 1,840+ families who have successfully navigated home loan settlements with SettleLoans. Start your digital defense now.
                                 </p>

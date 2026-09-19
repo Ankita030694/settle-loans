@@ -3,7 +3,7 @@ import { Metadata } from "next";
 import TableOfContents from "@/components/TableOfContents";
 
 export const metadata: Metadata = {
-  title: "Loan Default Harassment During Maternity Leave | SettleLoans",
+  title: "Loan Harassment During Maternity Leave: Legal Relief",
   description: "Comprehensive legal guide targeting women who face drastic income drops during unpaid maternity leave or pregnancy complications.",
   alternates: {
     canonical: "https://www.settleloans.in/handling-loan-default-and-recovery-harassment-during-maternity-leave-or-pregnancy",
@@ -290,7 +290,7 @@ export default function HandlingLoanDefaultMaternityPage() {
           </section>
 
           <section id="the-crisis" className="scroll-mt-32 mb-16">
-            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">The Crisis of Unpaid Leave EMI Default</h2>
+            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">The Crisis of Unpaid Leave EMI Default</h3>
             <p className="text-lg leading-relaxed mb-6">
               A sudden loss of income due to an unpaid leave EMI default often triggers automated penalties, late fees, and immediate calls from recovery agencies. Unlike willful defaults, defaults during maternity leave are strictly situational and usually temporary.
             </p>
@@ -300,22 +300,22 @@ export default function HandlingLoanDefaultMaternityPage() {
           </section>
 
           <section id="psychological-impact" className="scroll-mt-32 mb-16">
-             <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">The Mental Health Toll</h2>
+             <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">The Mental Health Toll</h3>
              <div className="bg-gray-50 p-8 rounded-2xl mb-8 border border-gray-200">
-               <h3 className="font-black text-[#2E2E2E] mb-4">The Psychological Impact</h3>
+               <h4 className="font-black text-[#2E2E2E] mb-4">The Psychological Impact</h4>
                <p className="mb-4 text-gray-700 leading-relaxed">The psychological impact of aggressive recovery calls during a high-risk pregnancy can be devastating. The constant ringing of the phone can create a state of perpetual flight or fight, affecting both maternal health and fetal well-being.</p>
-               <h4 className="font-black text-[#2E2E2E] mb-4 mt-8">Separating Liability from Harassment</h4>
+               <h5 className="font-black text-[#2E2E2E] mb-4 mt-8">Separating Liability from Harassment</h5>
                <p className="text-gray-700 leading-relaxed">It is crucial to separate the financial liability from the emotional harassment. You still owe the bank, but the bank owes you a legally compliant and respectful recovery process. By hiring a professional firm like SettleLoans, you can redirect these stressors to our legal desk.</p>
              </div>
           </section>
 
           <section id="rbi-guidelines" className="scroll-mt-32 mb-16">
-            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">RBI Guidelines: Protection Against Harassment</h2>
+            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">RBI Guidelines: Protection Against Harassment</h3>
             <p className="text-lg leading-relaxed mb-6">
               The Reserve Bank of India (RBI) has laid down strict Fair Practices Codes that all banks and third-party recovery agents must follow. Vulnerable borrowers, especially pregnant women or those dealing with medical emergencies, have specific protections against harassment.
             </p>
             <div className="bg-blue-50 border-l-8 border-[#1F5EFF] p-8 rounded-r-2xl mb-8">
-              <h3 className="text-xl font-black text-[#1F5EFF] mb-4">Your Fundamental Rights Under RBI Code:</h3>
+              <h4 className="text-xl font-black text-[#1F5EFF] mb-4">Your Fundamental Rights Under RBI Code:</h4>
               <ul className="space-y-4 text-blue-900 font-medium">
                 <li className="flex items-start gap-3">
                    <div className="mt-1.5 w-2 h-2 rounded-full bg-[#1F5EFF] flex-shrink-0"></div>
@@ -334,32 +334,32 @@ export default function HandlingLoanDefaultMaternityPage() {
           </section>
 
           <section id="prohibited-tactics" className="scroll-mt-32 mb-16">
-            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">Prohibited Harassment Tactics</h3>
+            <h4 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">Prohibited Harassment Tactics</h4>
             <p className="text-lg leading-relaxed mb-6">
               Knowing what agents are legally not allowed to do is your strongest shield. Here are common practices that cross the legal line:
             </p>
             <div className="grid md:grid-cols-2 gap-6 my-8">
               <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
-                <h4 className="font-black text-[#1F5EFF] mb-3 text-lg">Workplace Harassment</h4>
+                <h5 className="font-black text-[#1F5EFF] mb-3 text-lg">Workplace Harassment</h5>
                 <p className="text-sm leading-relaxed text-gray-700">Calling your HR department or managers to shame you regarding your loan default during maternity leave.</p>
               </div>
               <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
-                <h4 className="font-black text-[#1F5EFF] mb-3 text-lg">Social Media Shaming</h4>
+                <h5 className="font-black text-[#1F5EFF] mb-3 text-lg">Social Media Shaming</h5>
                 <p className="text-sm leading-relaxed text-gray-700">Sending messages to your contacts or posting defamatory content on your social media profiles.</p>
               </div>
               <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
-                <h4 className="font-black text-[#1F5EFF] mb-3 text-lg">Fake Legal Notices</h4>
+                <h5 className="font-black text-[#1F5EFF] mb-3 text-lg">Fake Legal Notices</h5>
                 <p className="text-sm leading-relaxed text-gray-700">Sending WhatsApp messages disguised as police warrants or court orders without official stamps.</p>
               </div>
               <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
-                <h4 className="font-black text-[#1F5EFF] mb-3 text-lg">Unannounced Visits</h4>
+                <h5 className="font-black text-[#1F5EFF] mb-3 text-lg">Unannounced Visits</h5>
                 <p className="text-sm leading-relaxed text-gray-700">Showing up at your residence unannounced, refusing to show ID, or refusing to leave when asked.</p>
               </div>
             </div>
           </section>
 
           <section id="moratorium-steps" className="scroll-mt-32 mb-16">
-            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">How to Request a Moratorium</h2>
+            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">How to Request a Moratorium</h3>
             <p className="text-lg leading-relaxed mb-8">
               If you are facing a medical emergency loan settlement scenario or need a temporary pause on your EMIs, you must communicate with the bank formally. Silence is often treated as willful default. Here is the step by step process:
             </p>
@@ -367,21 +367,21 @@ export default function HandlingLoanDefaultMaternityPage() {
               <div className="flex gap-6">
                 <div className="flex-shrink-0 w-12 h-12 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center font-black text-xl shadow-lg">1</div>
                 <div>
-                  <h3 className="text-xl font-black text-[#2E2E2E] mb-2">Draft a Formal Representation</h3>
+                  <h4 className="text-xl font-black text-[#2E2E2E] mb-2">Draft a Formal Representation</h4>
                   <p className="text-gray-600 leading-relaxed">Write a detailed letter addressed to the Branch Manager and the Nodal Officer of your bank. Explain your pregnancy complications, the exact duration of your unpaid leave, and how it has severely impacted your cash flow.</p>
                 </div>
               </div>
               <div className="flex gap-6">
                 <div className="flex-shrink-0 w-12 h-12 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center font-black text-xl shadow-lg">2</div>
                 <div>
-                  <h3 className="text-xl font-black text-[#2E2E2E] mb-2">Attach Medical & Income Proof</h3>
+                  <h4 className="text-xl font-black text-[#2E2E2E] mb-2">Attach Medical & Income Proof</h4>
                   <p className="text-gray-600 leading-relaxed">Provide verifiable evidence. Attach doctor's certificates detailing your medical condition, hospital admission records (if any), and an official letter from your HR department confirming your unpaid leave status.</p>
                 </div>
               </div>
               <div className="flex gap-6">
                 <div className="flex-shrink-0 w-12 h-12 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center font-black text-xl shadow-lg">3</div>
                 <div>
-                  <h3 className="text-xl font-black text-[#2E2E2E] mb-2">Propose a Realistic Solution</h3>
+                  <h4 className="text-xl font-black text-[#2E2E2E] mb-2">Propose a Realistic Solution</h4>
                   <p className="text-gray-600 leading-relaxed">Do not simply ask them to stop calling. Legally request a specific solution: a 3 to 6 month EMI holiday (moratorium), restructuring of the loan to lower the EMI, or waiving off penal interest during your recovery period.</p>
                 </div>
               </div>
@@ -389,14 +389,14 @@ export default function HandlingLoanDefaultMaternityPage() {
           </section>
 
           <section id="documenting-hardship" className="scroll-mt-32 mb-16">
-             <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">Documenting Medical Hardships</h2>
+             <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">Documenting Medical Hardships</h3>
              <p className="text-lg leading-relaxed mb-6">
                Banks operate on paperwork, not empathy. To secure a moratorium or favorable settlement, you must document every aspect of your hardship. Keep copies of admission summaries, HR letters regarding unpaid leave, and pharmacy bills. A well-documented file makes it much easier for a bank manager to approve a restructuring request instead of classifying the account as a hard default.
              </p>
           </section>
 
           <section id="bank-policies" className="scroll-mt-32 mb-16">
-            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">Lender Specific Policies</h2>
+            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">Lender Specific Policies</h3>
             <p className="text-lg leading-relaxed mb-6">
               Not all banks respond to maternity leave defaults the same way. Private banks may be rigid, while fintech apps rely heavily on digital harassment. Understanding the type of lender you are dealing with sets the right expectations.
             </p>
@@ -431,12 +431,12 @@ export default function HandlingLoanDefaultMaternityPage() {
           </section>
 
           <section id="legal-recourse" className="scroll-mt-32 mb-16">
-            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">Legal Recourse Against Harassing Agents</h2>
+            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">Legal Recourse Against Harassing Agents</h3>
             <p className="text-lg leading-relaxed mb-6">
               If your formal requests are ignored and recovery agents continue harassing a pregnant woman, you have the right to take aggressive legal action to protect your health and privacy.
             </p>
             <div className="bg-red-50 p-6 rounded-xl border border-red-100 mb-8">
-               <h3 className="text-lg font-bold text-red-700 mb-3">Immediate Actions Against Harassment:</h3>
+               <h4 className="text-lg font-bold text-red-700 mb-3">Immediate Actions Against Harassment:</h4>
                <p className="text-sm text-red-900 leading-relaxed italic mb-4">
                  "Do not panic. You have legal rights. Agents operate on a script of fear. Once they realize you know the RBI guidelines, their behavior often changes."
                </p>
@@ -450,7 +450,7 @@ export default function HandlingLoanDefaultMaternityPage() {
           </section>
 
           <section id="cibil-impact" className="scroll-mt-32 mb-16">
-            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">Impact on CIBIL Score</h2>
+            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">Impact on CIBIL Score</h3>
             <p className="text-lg leading-relaxed mb-6">
               When you miss an EMI due to unpaid maternity leave, the system treats it like any other default. Your CIBIL score will drop by 30 to 50 points per missed EMI. Even if you get an official moratorium, the months where payments were paused might be reported neutrally. 
             </p>
@@ -460,14 +460,14 @@ export default function HandlingLoanDefaultMaternityPage() {
           </section>
 
           <section id="guarantors-impact" className="scroll-mt-32 mb-16">
-            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">Effect on Co-borrowers</h2>
+            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">Effect on Co-borrowers</h3>
             <p className="text-lg leading-relaxed mb-6">
               If your spouse or a family member is a co-applicant on the personal loan, the default will equally damage their credit profile. Recovery agents will quickly shift their focus to the co-borrower when they cannot reach you. It is crucial to legally represent both parties when filing a cease and desist notice to stop the harassment universally.
             </p>
           </section>
 
           <section id="rebuilding-credit" className="scroll-mt-32 mb-16">
-            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">Rebuilding Financial Health</h2>
+            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">Rebuilding Financial Health</h3>
             <p className="text-lg leading-relaxed mb-6">
               Once you return to work and stabilize your income, rebuilding your credit score is highly predictable. Don't let a temporary drop define your financial future forever.
             </p>
@@ -488,16 +488,16 @@ export default function HandlingLoanDefaultMaternityPage() {
           </section>
 
           <section id="alternatives" className="scroll-mt-32 mb-16">
-            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">Alternatives to Settle</h2>
+            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">Alternatives to Settle</h3>
             <p className="text-lg leading-relaxed mb-6">
               Before taking the hit of a "Settled" status on your credit report, consider restructuring the loan tenure. Some banks will allow you to extend the loan from 3 years to 5 years, drastically reducing the EMI to an amount you might be able to pay even on a reduced income. You could also consolidate the debt using a lower-interest secured loan if you have collateral like gold available.
             </p>
           </section>
 
           <section id="reviews" className="scroll-mt-32 mb-16">
-            <h2 className="text-3xl md:text-5xl font-black text-[#2E2E2E] mb-12 text-center">
+            <h3 className="text-3xl md:text-5xl font-black text-[#2E2E2E] mb-12 text-center">
               Stories of <span className="text-[#1F5EFF]">Hope & Relief</span>
-            </h2>
+            </h3>
             <div className="grid md:grid-cols-2 gap-8">
               {[
                 { 
@@ -535,7 +535,7 @@ export default function HandlingLoanDefaultMaternityPage() {
                       {review.name.charAt(0)}
                     </div>
                     <div>
-                      <h3 className="font-black text-[#2E2E2E]">{review.name}</h3>
+                      <h4 className="font-black text-[#2E2E2E]">{review.name}</h4>
                       <p className="text-xs text-[#747474] font-bold uppercase tracking-wider">{review.loc}</p>
                     </div>
                     <div className="ml-auto flex text-yellow-400">
@@ -561,7 +561,7 @@ export default function HandlingLoanDefaultMaternityPage() {
           </section>
 
           <section id="faqs" className="scroll-mt-32 mb-16">
-            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">Frequently Asked Questions</h2>
+            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">Frequently Asked Questions</h3>
             <div className="space-y-4">
               {[
                 { q: "Can a bank initiate recovery actions while I am on unpaid maternity leave?", a: "Yes, banks can ask for repayment, but they cannot use harassing tactics. You can legally request a moratorium or restructuring based on your temporary medical and financial condition." },
@@ -576,7 +576,7 @@ export default function HandlingLoanDefaultMaternityPage() {
                 { q: "Do I need a lawyer to deal with a medical emergency loan settlement?", a: "While not strictly required, a legal advocate can file an official moratorium request, send a cease-and-desist notice for harassment, and negotiate a settlement without you having to deal with the stress directly." }
               ].map((faq, i) => (
                 <div key={i} className="bg-white border border-[#DEDEDE] rounded-xl p-6 hover:shadow-md transition-shadow">
-                  <h3 className="font-black text-[#2E2E2E] text-lg mb-3">{i+1}. {faq.q}</h3>
+                  <h4 className="font-black text-[#2E2E2E] text-lg mb-3">{i+1}. {faq.q}</h4>
                   <p className="text-gray-600 leading-relaxed">{faq.a}</p>
                 </div>
               ))}
@@ -585,7 +585,7 @@ export default function HandlingLoanDefaultMaternityPage() {
 
           <div className="bg-[#2E2E2E] text-white p-12 rounded-[40px] text-center mt-24 relative overflow-hidden group">
              <div className="absolute inset-0 bg-[#1F5EFF] opacity-0 group-hover:opacity-5 transition-opacity"></div>
-             <h3 className="text-3xl md:text-5xl font-black mb-6">Stop the Harassment Now.</h3>
+             <h4 className="text-3xl md:text-5xl font-black mb-6">Stop the Harassment Now.</h4>
              <p className="text-xl opacity-80 mb-10 max-w-2xl mx-auto">
                Facing income loss during pregnancy and being harassed by loan recovery agents? Let our advocates file for an official moratorium so you can focus on your health in peace.
              </p>

@@ -185,17 +185,17 @@ export default function GoldLoanSettlementProcessPage() {
                         </section>
 
                         <section id="ltv-margin-calls" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight underline decoration-[#1F5EFF] underline-offset-[12px]">LTV & The Dreaded 'Margin Call'</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight underline decoration-[#1F5EFF] underline-offset-[12px]">LTV & The Dreaded 'Margin Call'</h3>
                             <p className="text-lg leading-relaxed mb-6 text-justify">
                                 The Loan-to-Value (LTV) ratio is the backbone of gold lending. The RBI historically caps this at 75% for regular gold loans. If the market price of gold drops suddenly, your LTV might shoot up to 85% or 90%, even if you haven't missed a payment.
                             </p>
                             <div className="grid md:grid-cols-2 gap-8 mb-10">
                                 <div className="p-8 bg-white border border-[#DEDEDE] rounded-3xl shadow-sm text-justify">
-                                    <h3 className="font-black text-[#1F5EFF] mb-4 uppercase tracking-tighter">The Margin Call</h3>
+                                    <h4 className="font-black text-[#1F5EFF] mb-4 uppercase tracking-tighter">The Margin Call</h4>
                                     <p className="text-sm">When LTV crosses the safety threshold, the bank issues a 'Margin Call'. You must either pay a part of the principal or pledge MORE gold to bring the LTV back to 75%.</p>
                                 </div>
                                 <div className="p-8 bg-white border border-[#DEDEDE] rounded-3xl shadow-sm text-justify">
-                                    <h4 className="font-black text-[#1F5EFF] mb-4 uppercase tracking-tighter">Immediate Default</h4>
+                                    <h5 className="font-black text-[#1F5EFF] mb-4 uppercase tracking-tighter">Immediate Default</h5>
                                     <p className="text-sm">Failure to address a margin call allows the bank to auction your gold even if the loan tenure hasn't expired. This is the only scenario where 'Early Auction' is legal.</p>
                                 </div>
                             </div>
@@ -206,7 +206,7 @@ export default function GoldLoanSettlementProcessPage() {
 
                         <section id="auction-notice-rights" className="scroll-mt-32 mb-16 bg-[#2E2E2E] text-white p-12 rounded-[40px] relative overflow-hidden">
                             <div className="absolute top-0 right-0 w-64 h-64 bg-[#1F5EFF]/10 rounded-full -translate-y-32 translate-x-32"></div>
-                            <h2 className="text-3xl md:text-4xl font-black mb-8 leading-tight relative z-10">The Statutory Auction Notice</h2>
+                            <h3 className="text-3xl md:text-4xl font-black mb-8 leading-tight relative z-10">The Statutory Auction Notice</h3>
                             <p className="text-lg opacity-80 mb-8 relative z-10 text-justify">
                                 A lender cannot sell your gold in secret. The RBI mandates a specific 'Notice Protocol' that must be followed before any public or private auction.
                             </p>
@@ -214,21 +214,21 @@ export default function GoldLoanSettlementProcessPage() {
                                 <div className="flex gap-6 items-center border-b border-white/10 pb-4">
                                     <span className="text-4xl font-black text-[#1F5EFF]">30D</span>
                                     <div>
-                                        <h3 className="font-bold text-xl mb-2">Notice Period</h3>
+                                        <h4 className="font-bold text-xl mb-2">Notice Period</h4>
                                         <p className="opacity-70 text-sm">A minimum 30-day registered notice must be sent to your primary address detailing the default and pending auction date.</p>
                                     </div>
                                 </div>
                                 <div className="flex gap-6 items-center border-b border-white/10 pb-4">
                                     <span className="text-4xl font-black text-[#1F5EFF]">PUB</span>
                                     <div>
-                                        <h4 className="font-bold text-xl mb-2">Public Notice</h4>
+                                        <h5 className="font-bold text-xl mb-2">Public Notice</h5>
                                         <p className="opacity-70 text-sm">The auction must be advertised in at least two newspapers (one national, one local language) listing the items and the reserve price.</p>
                                     </div>
                                 </div>
                                 <div className="flex gap-6 items-center">
                                     <span className="text-4xl font-black text-[#1F5EFF]">KYC</span>
                                     <div>
-                                        <h5 className="font-bold text-xl mb-2">KYC Bidders</h5>
+                                        <h6 className="font-bold text-xl mb-2">KYC Bidders</h6>
                                         <p className="opacity-70 text-sm">Auctions must be transparent. Only KYC-verified bidders can participate, and you have the right to attend the auction process physically or virtually.</p>
                                     </div>
                                 </div>
@@ -236,12 +236,12 @@ export default function GoldLoanSettlementProcessPage() {
                         </section>
 
                         <section id="reserve-price-math" className="scroll-mt-32 mb-16 mt-16 text-justify">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">The '85% Rule': Reserve Price Math</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">The '85% Rule': Reserve Price Math</h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 The most powerful rule protecting your equity is the Reserve Price. Lenders often try to sell gold quickly at low prices to recover just their dues. The RBI stops this with the '85% average' rule.
                             </p>
                             <div className="bg-[#F8FAFC] p-8 rounded-3xl border border-[#1F5EFF]/20 mb-8">
-                                <h3 className="text-xl font-black text-blue-900 mb-4">Calculation Formula</h3>
+                                <h4 className="text-xl font-black text-blue-900 mb-4">Calculation Formula</h4>
                                 <p className="text-blue-800 leading-relaxed font-bold italic mb-4">Reserve Price = Min 85% of (Avg Closing Price of 22K Gold for preceding 30 working days).</p>
                                 <p className="text-blue-700 text-sm">Coming Update: Starting April 1, 2026, the floor rises to 90% of the market value. If two auctions fail, it can be reduced back to 85% only with Board approval.</p>
                             </div>
@@ -251,7 +251,7 @@ export default function GoldLoanSettlementProcessPage() {
                         </section>
 
                         <section id="settlement-mechanics" className="scroll-mt-32 mb-16 mt-16 text-justify">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight text-center underline decoration-[#1F5EFF] decoration-8 underline-offset-8">Gold Loan Settlement Tactics</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight text-center underline decoration-[#1F5EFF] decoration-8 underline-offset-8">Gold Loan Settlement Tactics</h3>
                             <p className="text-lg leading-relaxed mb-10 text-center italic font-medium text-gray-400">Negotiating a gold loan settlement is different from a personal loan. Why? Because the bank already has the 'Money' (Gold).</p>
                             <div className="bg-white border-2 border-[#DEDEDE] p-10 rounded-[50px] shadow-sm">
                                 <ul className="space-y-6">
@@ -272,12 +272,12 @@ export default function GoldLoanSettlementProcessPage() {
                         </section>
 
                         <section id="surplus-reclamation" className="scroll-mt-32 mb-16 mt-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">Reclaiming the Auction Surplus</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">Reclaiming the Auction Surplus</h3>
                             <p className="text-lg leading-relaxed mb-6 text-justify">
                                 If the auction happens, and your gold is sold for ₹10 Lakhs while your total debt was only ₹7 Lakhs, where does the remaining ₹3 Lakhs go? legally, **it belongs to you**.
                             </p>
                             <div className="p-8 bg-[#2E2E2E] rounded-[40px] text-white shadow-2xl relative overflow-hidden text-justify">
-                                <h3 className="text-xl font-black mb-4 uppercase tracking-widest text-[#1F5EFF]">The 7-Day Refund Rule</h3>
+                                <h4 className="text-xl font-black mb-4 uppercase tracking-widest text-[#1F5EFF]">The 7-Day Refund Rule</h4>
                                 <p className="opacity-90 leading-relaxed font-bold mb-4">
                                     RBI guidelines mandate that any surplus from the gold auction must be returned to the borrower within 7 working days.
                                 </p>
@@ -288,7 +288,7 @@ export default function GoldLoanSettlementProcessPage() {
                         </section>
 
                         <section id="bullet-repayment-rules" className="scroll-mt-32 mb-16 mt-16 text-justify">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">Rule: Bullet Repayment Mechanics</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">Rule: Bullet Repayment Mechanics</h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 Many NBFCs offer 'Bullet Repayment' gold loans where you pay nothing for 12 months and then pay the full principal + interest in one go. The RBI has restricted the tenure of such loans to a maximum of 12 months.
                             </p>
@@ -301,7 +301,7 @@ export default function GoldLoanSettlementProcessPage() {
                         </section>
 
                         <section id="rbi-tier-ltv-2025" className="scroll-mt-32 mb-16 mt-16 bg-[#F8FAFC] p-12 rounded-[50px] border-l-8 border-[#1F5EFF] text-justify">
-                            <h2 className="text-3xl font-black mb-8 text-[#2E2E2E]">The 2025 Tiered LTV Rules</h2>
+                            <h3 className="text-3xl font-black mb-8 text-[#2E2E2E]">The 2025 Tiered LTV Rules</h3>
                             <p className="text-lg text-gray-600 mb-8 leading-relaxed">Starting June 2025, the RBI is moving to a 'Risk-Based' LTV structure. The more you borrow, the less gold-per-rupee you get. This is designed to prevent systemic defaults in the gold market.</p>
                             <div className="space-y-4 font-mono text-sm">
                                 <div className="flex justify-between border-b border-gray-100 pb-2"><span>UP TO ₹2.5 LAKH</span> <span className="font-bold text-green-600">85% LTV</span></div>
@@ -311,22 +311,22 @@ export default function GoldLoanSettlementProcessPage() {
                         </section>
 
                         <section id="legal-recourse" className="scroll-mt-32 mb-16 mt-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight text-center">Legal Recourse & Ombudsman</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight text-center">Legal Recourse & Ombudsman</h3>
                             <p className="text-lg leading-relaxed mb-10 text-justify">If a lender auctions your gold without a 30-day notice, or sells it below the reserve price, or refuses to return the surplus, you have significant legal leverage.</p>
                             <div className="grid md:grid-cols-2 gap-8 text-justify">
                                 <div className="p-8 bg-white border border-[#DEDEDE] rounded-3xl shadow-sm hover:border-[#1F5EFF] transition-colors">
-                                    <h3 className="font-black mb-3">Consumer Forum</h3>
+                                    <h4 className="font-black mb-3">Consumer Forum</h4>
                                     <p className="text-sm opacity-70 italic font-medium">Failing to inform the borrower of an auction is considered a 'Deficiency in Service'. Consumer courts have awarded compensation values up to 2x the market value of the gold for such violations.</p>
                                 </div>
                                 <div className="p-8 bg-white border border-[#DEDEDE] rounded-3xl shadow-sm hover:border-[#1F5EFF] transition-colors">
-                                    <h4 className="font-black mb-3">Banking Ombudsman</h4>
+                                    <h5 className="font-black mb-3">Banking Ombudsman</h5>
                                     <p className="text-sm opacity-70 italic font-medium">For NBFCs and Banks, the RBI Ombudsman can halt an auction if procedural irregularities (like lack of newspaper ads) are proven before the auction date.</p>
                                 </div>
                             </div>
                         </section>
 
                         <section id="gold-success-stories" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 text-center uppercase tracking-tighter decoration-[#1F5EFF] underline decoration-4">Pledge Rescue Studies</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 text-center uppercase tracking-tighter decoration-[#1F5EFF] underline decoration-4">Pledge Rescue Studies</h3>
                             <div className="grid md:grid-cols-2 gap-6 not-prose text-justify">
                                 {[
                                     {
@@ -349,7 +349,7 @@ export default function GoldLoanSettlementProcessPage() {
                                             <div className="w-10 h-10 rounded-full bg-blue-100 flex items-center justify-center font-bold text-blue-700 mr-3">
                                                 {review.name.charAt(0)}
                                             </div>
-                                            <h3 className="font-bold text-[#2E2E2E]">{review.name}</h3>
+                                            <h4 className="font-bold text-[#2E2E2E]">{review.name}</h4>
                                             <div className="ml-auto text-yellow-400 text-sm">★★★★★</div>
                                         </div>
                                         <div className="mb-4 flex flex-col gap-2 scale-90 origin-left font-bold text-[10px] uppercase">
@@ -363,7 +363,7 @@ export default function GoldLoanSettlementProcessPage() {
                         </section>
 
                         <section id="faqs" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-12 text-center underline decoration-[#1F5EFF] decoration-4">Gold Settlement FAQ's</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-12 text-center underline decoration-[#1F5EFF] decoration-4">Gold Settlement FAQ's</h3>
                             <div className="space-y-6">
                                 {[
                                     { q: "Is a 'No Dues Certificate' mandatory for gold loans?", a: "Yes. Upon settlement and physical return of gold, a written NDC must be issued. Always verify the purity and weight of the gold during the return process." },
@@ -380,7 +380,7 @@ export default function GoldLoanSettlementProcessPage() {
                                     { q: "Is there a rule for 'Internal Auctions'?", a: "RBI strictly prohibits 'Internal' or 'Private' auctions where only bank employees participate. All auctions must be public and advertised to ensure maximum realizable value." }
                                 ].map((faq, i) => (
                                     <div key={i} className="p-8 bg-white border border-[#DEDEDE] rounded-3xl shadow-sm transition-all hover:shadow-lg">
-                                        <h3 className="font-black text-[#2E2E2E] mb-4 text-xl border-b pb-2 border-[#1F5EFF]/10">{faq.q}</h3>
+                                        <h4 className="font-black text-[#2E2E2E] mb-4 text-xl border-b pb-2 border-[#1F5EFF]/10">{faq.q}</h4>
                                         <p className="text-gray-600 leading-relaxed text-lg italic">"{faq.a}"</p>
                                     </div>
                                 ))}
@@ -388,7 +388,7 @@ export default function GoldLoanSettlementProcessPage() {
                         </section>
 
                         <section className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight text-center">Secure Your Assets, Protect Your Heritage.</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight text-center">Secure Your Assets, Protect Your Heritage.</h3>
                             <p className="text-lg leading-relaxed mb-6 italic font-bold text-center">A gold loan is a temporary hurdle, not a permanent loss. Let's find your solution.</p>
                             <div className="bg-[#1F5EFF] p-10 rounded-[40px] text-center text-white shadow-2xl">
                                 <p className="text-2xl font-black mb-8 tracking-tight uppercase">Don't Wait for the 90th Day. Negotiate Today.</p>

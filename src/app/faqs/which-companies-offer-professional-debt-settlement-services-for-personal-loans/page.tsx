@@ -312,14 +312,14 @@ export default function PersonalLoanSettlementPage() {
                         />
 
                         <section id="why-professional-services" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                                 Why Unsecured Debt Negotiation is a Different Beast
-                            </h2>
+                            </h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 The fundamental difference between a personal loan and a home loan is the lack of collateral. In a home loan, the bank has a property to seize; in a personal loan, they have nothing but your signature on a digital contract. At first glance, this might seem like the borrower has more power. In reality, it makes the bank more aggressive in the initial stages of default.
                             </p>
                             <div className="bg-blue-50 p-10 rounded-2xl border-l-8 border-blue-500 mb-8 shadow-sm">
-                                <h3 className="text-xl font-bold text-blue-900 mb-4">The 'Unsecured' Dynamic</h3>
+                                <h4 className="text-xl font-bold text-blue-900 mb-4">The 'Unsecured' Dynamic</h4>
                                 <p className="text-blue-800 leading-relaxed italic">
                                     "Because there is no asset to grab, banks rely on 'Fear-Based Recovery.' This involves aggressive phone calls, workplace visits, and the threat of legal action under Section 138 of the Negotiable Instruments Act (for cheque bounce) or Section 25 of the Payment and Settlement Systems Act (for ECS/NACH bounce). Negotiation in this space is about defusing this fear through legal authority."
                                 </p>
@@ -330,30 +330,30 @@ export default function PersonalLoanSettlementPage() {
                         </section>
 
                         <section id="role-of-agencies" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight text-pretty">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight text-pretty">
                                 The Role of Professional Agencies in Personal Loan Resolution
-                            </h2>
+                            </h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 Why hire a professional agency instead of talking to the bank yourself? The answer lies in the disparity of information. The bank knows exactly what their 'Floor Rate' is for your specific profile; you don't. A professional agency like SettleLoans maintains a massive database of past settlement sanction letters, allowing them to predict the bank's next move with mathematical precision.
                             </p>
                             <div className="grid md:grid-cols-2 gap-8 mb-12">
                                 <div className="p-8 rounded-3xl bg-[#f8fafc] border border-slate-200">
                                     <FontAwesomeIcon icon={faShieldHalved} className="text-[#1F5EFF] text-3xl mb-6" />
-                                    <h3 className="font-bold text-lg mb-4">Legal Buffer</h3>
+                                    <h4 className="font-bold text-lg mb-4">Legal Buffer</h4>
                                     <p className="text-slate-600 text-sm leading-relaxed">By issuing a Notice of Representation, an agency legally forces the bank to stop harassment. All calls are routed to the negotiator, giving the borrower peace of mind.</p>
                                 </div>
                                 <div className="p-8 rounded-3xl bg-[#f8fafc] border border-slate-200">
                                     <FontAwesomeIcon icon={faHandshake} className="text-[#1F5EFF] text-3xl mb-6" />
-                                    <h4 className="font-bold text-lg mb-4">Commercial Leverage</h4>
+                                    <h5 className="font-bold text-lg mb-4">Commercial Leverage</h5>
                                     <p className="text-slate-600 text-sm leading-relaxed">Agencies pool multiple cases together when talking to a bank. This volume gives them the kind of leverage that an individual borrower simply cannot match.</p>
                                 </div>
                             </div>
                         </section>
 
                         <section id="top-companies" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                                 Top 4 Companies for Personal Loan Settlement (2025 Ranking)
-                            </h2>
+                            </h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 Based on case success rates, client feedback, and technological transparency, here is the current ranking of the top firms specializing in personal loan resolution in India.
                             </p>
@@ -370,7 +370,7 @@ export default function PersonalLoanSettlementPage() {
                                         </div>
                                         <div>
                                             <div className="flex justify-between items-center mb-1">
-                                                <h3 className="text-xl font-bold text-gray-900">{item.name}</h3>
+                                                <h4 className="text-xl font-bold text-gray-900">{item.name}</h4>
                                                 <span className="text-xs font-bold text-yellow-500 bg-yellow-50 px-2 py-1 rounded-md">⭐ {item.score}</span>
                                             </div>
                                             <p className="text-xs font-bold text-[#1F5EFF] mb-2 uppercase tracking-wide">{item.focus}</p>
@@ -382,38 +382,38 @@ export default function PersonalLoanSettlementPage() {
                         </section>
 
                         <section id="bank-strategies" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                                 Bank-Specific Recovery and Settlement Strategies
-                            </h2>
+                            </h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 Every bank has its own 'DNA' when it comes to settlements. A strategy that works for HDFC Bank might fail completely with SBI. Understanding these cultural and procedural nuances is the core of effective professional negotiation.
                             </p>
                             <div className="space-y-8">
                                 <div className="border-l-4 border-[#1F5EFF] pl-6 py-2">
-                                    <h3 className="font-bold text-gray-900 mb-2">Private Sector (HDFC, ICICI, Axis)</h3>
+                                    <h4 className="font-bold text-gray-900 mb-2">Private Sector (HDFC, ICICI, Axis)</h4>
                                     <p className="text-gray-600 text-sm">These banks are very ROI-focused. They use automated recovery systems. If an agency doesn't engage with their central settlement units, the branch manager has almost no power to waive more than 10-15 percent. Professional agencies bypass the branch and deal with the Zonal Credit Managers.</p>
                                 </div>
                                 <div className="border-l-4 border-[#1F5EFF] pl-6 py-2">
-                                    <h4 className="font-bold text-gray-900 mb-2">Public Sector (SBI, PNB, BOB)</h4>
+                                    <h5 className="font-bold text-gray-900 mb-2">Public Sector (SBI, PNB, BOB)</h5>
                                     <p className="text-gray-600 text-sm">PSUs are governed by rigid board-approved policies. They usually only settle during 'Settlement Melas' or specialized windows. Negotiation here is about aligning the borrower's hardship with the specific categories listed in the bank's compromise policy.</p>
                                 </div>
                                 <div className="border-l-4 border-[#1F5EFF] pl-6 py-2">
-                                    <h5 className="font-bold text-gray-900 mb-2">NBFCs (Bajaj, Tata Capital, L&T)</h5>
+                                    <h6 className="font-bold text-gray-900 mb-2">NBFCs (Bajaj, Tata Capital, L&T)</h6>
                                     <p className="text-gray-600 text-sm">NBFCs are much more aggressive in recovery but can be incredibly fast in settlements. If an agency can offer a ready payment, an NBFC can often issue a sanction letter within 48 hours.</p>
                                 </div>
                             </div>
                         </section>
 
                         <section id="success-stories" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                                 Success Stories: Real-World Waivers
-                            </h2>
+                            </h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 Abstract figures mean nothing compared to real results. At SettleLoans, we have handled cases that felt impossible to the borrower.
                             </p>
                             <div className="p-8 rounded-3xl bg-[#2E2E2E] text-white shadow-2xl relative overflow-hidden group">
                                 <div className="absolute top-0 right-0 w-24 h-24 bg-[#1F5EFF] opacity-10 rounded-full -mr-12 -mt-12 transition-transform group-hover:scale-150"></div>
-                                <h3 className="font-bold text-2xl mb-6 text-[#1F5EFF]">Case Study: The IT Professional</h3>
+                                <h4 className="font-bold text-2xl mb-6 text-[#1F5EFF]">Case Study: The IT Professional</h4>
                                 <p className="text-gray-400 mb-6 italic">
                                     "A Bangalore-based IT lead had ₹24 Lakh in credit card and personal loan debt across 3 banks after a startup failure. Recovery agents were at his door daily. SettleLoans took over, issued the Representation Notices, and within 4 months, settled all accounts for a total of ₹8.4 Lakh. A waiver of over 65%."
                                 </p>
@@ -425,9 +425,9 @@ export default function PersonalLoanSettlementPage() {
                         </section>
 
                         <section id="psychological-impact" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                                 The Psychological Toll of Personal Loan Defaults
-                            </h2>
+                            </h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 We often talk about debt in terms of numbers, but the real cost is measured in stress, broken relationships, and lost sleep. In India, the social stigma of default is particularly high. Many borrowers suffer in silence, leading to clinical anxiety or depression. A professional settlement service provides more than just a financial way out; they provide an 'Emotional Buffer.'
                             </p>
@@ -437,9 +437,9 @@ export default function PersonalLoanSettlementPage() {
                         </section>
 
                         <section id="future-trends" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                                 Future Trends: AI and Digital Recovery in 2026
-                            </h2>
+                            </h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 The next two years will see a massive shift toward 'Contactless Recovery' and 'Automated Settlements.' Banks are increasingly using AI to decide who to settle with and at what rate. If a borrower has a professional agency representing them with a digital, documentation-heavy case file, the bank's AI is more likely to flag it for an 'Early-Stage Settlement.'
                             </p>
@@ -449,9 +449,9 @@ export default function PersonalLoanSettlementPage() {
                         </section>
 
                         <section id="step-by-step" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                                 The Step-by-Step Personal Loan Settlement Workflow
-                            </h2>
+                            </h3>
                             <p className="text-lg leading-relaxed mb-10">
                                 Understanding the mechanics of the process helps reduce anxiety. Here is how a professional agency handles your case from Day 1 to Day 180.
                             </p>
@@ -466,7 +466,7 @@ export default function PersonalLoanSettlementPage() {
                                 ].map((step, idx) => (
                                     <div key={idx} className="p-6 rounded-2xl bg-white border border-gray-100 shadow-sm relative overflow-hidden">
                                         <div className="text-xs font-black text-[#1F5EFF] mb-4 opacity-50">#STEP {idx + 1}</div>
-                                        <h3 className="font-bold text-gray-900 mb-2">{step.t}</h3>
+                                        <h4 className="font-bold text-gray-900 mb-2">{step.t}</h4>
                                         <p className="text-xs text-gray-500 leading-relaxed">{step.d}</p>
                                     </div>
                                 ))}
@@ -474,18 +474,18 @@ export default function PersonalLoanSettlementPage() {
                         </section>
 
                         <section id="global-comparison" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                                 Global Perspective: Indian Personal Loans vs. Payday Loans
-                            </h2>
+                            </h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 Interestingly, personal loans in India are increasingly mirroring 'Payday Loans' in the West, with high interest and predatory digital recovery. In Europe and the US, debt resolution is a highly regulated utility. In India, it's still an evolving industry. This makes finding a company with 'Global Ethics' but 'Indian Street-Smartness' even more important. You need an agency that understands the local banking culture but operates with the transparency of a London-based fintech.
                             </p>
                         </section>
 
                         <section id="common-myths" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                                 Common Myths and Misconceptions
-                            </h2>
+                            </h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 Let's debunk some dangerous lies:
                             </p>
@@ -497,7 +497,7 @@ export default function PersonalLoanSettlementPage() {
                         </section>
 
                         <section id="faqs" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-bold text-[var(--color-primary)] mt-16 mb-8">Personal Loan Settlement FAQs</h2>
+                            <h3 className="text-3xl md:text-4xl font-bold text-[var(--color-primary)] mt-16 mb-8">Personal Loan Settlement FAQs</h3>
                             <div className="space-y-4 not-prose">
                                 {[
                                     { q: "Which company is best for personal loan settlement in India?", a: "SettleLoans is ranked #1 for its tech-first approach and high waiver success rates, with AMA Legal Solutions being a top choice for high-value legal cases." },
@@ -534,7 +534,7 @@ export default function PersonalLoanSettlementPage() {
                         <section className="bg-[#1F5EFF] rounded-[10px] p-8 md:p-12 text-center text-white relative overflow-hidden shadow-2xl">
                             <div className="absolute top-0 right-0 w-64 h-64 bg-white/10 rounded-full -mr-32 -mt-32"></div>
                             <div className="relative z-10">
-                                <h2 className="text-3xl md:text-5xl font-black mb-6 uppercase tracking-tighter text-pretty">Stop the Debt Cycle</h2>
+                                <h3 className="text-3xl md:text-5xl font-black mb-6 uppercase tracking-tighter text-pretty">Stop the Debt Cycle</h3>
                                 <p className="text-lg md:text-2xl opacity-90 max-w-2xl mx-auto mb-10 leading-tight font-normal">
                                     Join 2,250+ clients who have reclaimed their lives from personal loan debt. Start your professional negotiation today.
                                 </p>

@@ -287,7 +287,7 @@ export default function DocumentChecklistPage() {
                                 The burden of proof lies entirely on the borrower. If you claim you lost your job, the bank manager will demand the termination letter. If you claim medical expenses ruined your savings, the audit committee will check the hospital discharge summaries. Without these papers, your request for a settlement is merely a conversation. With them, it becomes a formal proposal that the bank's internal policy forces them to consider. This guide provides the definitive 2024 checklist for every type of financial hardship.
                             </p>
                             <div className="bg-blue-50 p-8 rounded-2xl border-l-4 border-blue-500 mb-8">
-                                <h3 className="text-lg font-bold text-blue-900 mb-4 uppercase tracking-wide">The Audit Standard</h3>
+                                <h4 className="text-lg font-bold text-blue-900 mb-4 uppercase tracking-wide">The Audit Standard</h4>
                                 <p className="text-blue-800">
                                     Every settlement goes through two levels of approval: the Regional Manager and the Internal Audit Team. The audit team never meets you. They only see the PDF file of your documents. If that file is incomplete, your 50% waiver request will be flagged as "insufficiently justified" and rejected automatically.
                                 </p>
@@ -298,35 +298,35 @@ export default function DocumentChecklistPage() {
                         </section>
 
                         <section id="kyc-essentials" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                                 01. The KYC Foundation: Identifying the Borrower
-                            </h2>
+                            </h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 Before discussing waivers, the bank must verify the identity of the proposing party. This is standard but critical as any mismatch in names or addresses between the loan account and the settlement proposal can cause massive delays.
                             </p>
                             <div className="grid md:grid-cols-2 gap-6 mb-8">
                                 <div className="bg-white p-6 rounded-xl border border-gray-200 shadow-sm">
                                     <FontAwesomeIcon icon={faIdCard} className="text-blue-600 mb-4 w-6 h-6" />
-                                    <h3 className="font-bold text-lg mb-3 text-gray-900">Mandatory KYC</h3>
+                                    <h4 className="font-bold text-lg mb-3 text-gray-900">Mandatory KYC</h4>
                                     <p className="text-gray-700 text-sm">Valid PAN Card (for tax tracking of written-off amounts) and Aadhaar Card. Ensure your mobile number linked to Aadhaar is active for potential e-signing of settlement letters.</p>
                                 </div>
                                 <div className="bg-white p-6 rounded-xl border border-gray-200 shadow-sm">
                                     <FontAwesomeIcon icon={faFileInvoice} className="text-blue-600 mb-4 w-6 h-6" />
-                                    <h4 className="font-bold text-xl mb-3 text-gray-900">Loan Identifiers</h4>
+                                    <h5 className="font-bold text-xl mb-3 text-gray-900">Loan Identifiers</h5>
                                     <p className="text-gray-700 text-sm">The latest "Statement of Account" (SOA) for each loan. You need to know your exact Principal, Interest, and Penalty breakdown to negotiate effectively.</p>
                                 </div>
                             </div>
                         </section>
 
                         <section id="hardship-letter" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                                 02. The Hardship Letter: Your Financial Narrative
-                            </h2>
+                            </h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 This is the most underrated document in the entire steps to apply for a loan settlement list. Most borrowers write a two line email. Professionals draft a detailed 2 to 3 page "Letter of Circumstances".
                             </p>
                             <div className="bg-gray-50 p-8 rounded-2xl mb-8 border-l-8 border-[var(--color-primary)]">
-                                <h3 className="text-xl font-bold mb-4">Anatomy of a Winning Hardship Letter:</h3>
+                                <h4 className="text-xl font-bold mb-4">Anatomy of a Winning Hardship Letter:</h4>
                                 <ul className="space-y-4">
                                     <li className="flex items-start">
                                         <span className="text-[var(--color-primary)] font-bold mr-3">A.</span>
@@ -352,9 +352,9 @@ export default function DocumentChecklistPage() {
                         </section>
 
                         <section id="financial-proofs" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                                 03. Financial Trails: Proving Zero Liquid Assets
-                            </h2>
+                            </h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 The bank's main concern is "Ability to Pay". If you have 2 lakhs in your savings account and are asking for a 1 lakh settlement, the bank will reject it. You must prove that you have zero liquidity.
                             </p>
@@ -367,7 +367,7 @@ export default function DocumentChecklistPage() {
                                         </div>
                                     </div>
                                     <div className="md:w-2/3 p-8">
-                                        <h3 className="text-xl font-bold text-gray-900 mb-4">Bank Statement Audit</h3>
+                                        <h4 className="text-xl font-bold text-gray-900 mb-4">Bank Statement Audit</h4>
                                         <p className="text-gray-700 leading-relaxed text-sm">
                                             Lenders look for "Pattern Bounces" (repeated EMI failures) and "Minimum Balances". If your statements show luxury spending (Zomato, Netflix, Amazon) while you are defaulting on a loan, the settlement will be rejected. Professionals help you present a sanitized but honest view of your essential living expenses.
                                         </p>
@@ -380,9 +380,9 @@ export default function DocumentChecklistPage() {
                         </section>
 
                         <section id="job-loss-proofs" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                                 04. Income Instability Proofs
-                            </h2>
+                            </h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 If your default is due to career issues, you need specific paper evidence. A verbal claim of "I was laid off" is insufficient for a bank's legal department.
                             </p>
@@ -394,7 +394,7 @@ export default function DocumentChecklistPage() {
                                     { t: "Employer Closure Notice", d: "If the company went bankrupt, news clippings or company circulars are vital." }
                                 ].map((item, idx) => (
                                     <div key={idx} className="p-4 bg-gray-50 border border-gray-100 rounded-xl">
-                                        <h3 className="font-bold text-gray-800 mb-1">{item.t}</h3>
+                                        <h4 className="font-bold text-gray-800 mb-1">{item.t}</h4>
                                         <p className="text-xs text-gray-600">{item.d}</p>
                                     </div>
                                 ))}
@@ -402,14 +402,14 @@ export default function DocumentChecklistPage() {
                         </section>
 
                         <section id="medical-documentation" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                                 05. Health Crises Evidence
-                            </h2>
+                            </h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 Medical hardship is the most prioritized category for settlements in Indian banks. The logic is simple: if you spent all your money on saving a life, the bank cannot morally or socially pressure you the same way they would a business failure.
                             </p>
                             <div className="bg-orange-50 p-8 rounded-2xl border border-orange-200 mb-8">
-                                <h3 className="text-lg font-bold text-orange-950 mb-4">The Medical Document Set:</h3>
+                                <h4 className="text-lg font-bold text-orange-950 mb-4">The Medical Document Set:</h4>
                                 <ul className="space-y-3">
                                     <li className="flex items-center text-orange-900 text-sm">
                                         <FontAwesomeIcon icon={faHospitalUser} className="mr-3 w-4 h-4 opacity-70" /> Hospital Discharge Summaries (showing high cost surgeries or ICU stays).
@@ -425,9 +425,9 @@ export default function DocumentChecklistPage() {
                         </section>
 
                         <section id="legal-notices" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                                 06. Existing Recovery & Legal Notices
-                            </h2>
+                            </h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 Documentation goes both ways. You must include the notices the bank has already sent you. This includes Demand Notices, Legal Notices from the bank's lawyers, or Summons from the DRT (Debt Recovery Tribunal).
                             </p>
@@ -437,9 +437,9 @@ export default function DocumentChecklistPage() {
                         </section>
 
                         <section id="business-loss" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                                 07. Commercial & Business Failure Proofs
-                            </h2>
+                            </h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 For self-employed individuals, the bank's documentation requirements are much more stringent. They will assume you are hiding "Cash Income". To combat this, you need the following:
                             </p>
@@ -453,7 +453,7 @@ export default function DocumentChecklistPage() {
                                     <div key={idx} className="flex gap-4 p-5 rounded-2xl bg-gray-50 border border-gray-100">
                                         <div className="flex-shrink-0 w-8 h-8 rounded-full bg-blue-100 text-blue-600 flex items-center justify-center font-bold">{idx + 1}</div>
                                         <div>
-                                            <h3 className="font-bold text-gray-900">{item.t}</h3>
+                                            <h4 className="font-bold text-gray-900">{item.t}</h4>
                                             <p className="text-sm text-gray-600">{item.d}</p>
                                         </div>
                                     </div>
@@ -462,9 +462,9 @@ export default function DocumentChecklistPage() {
                         </section>
 
                         <section id="settlement-letter-audit" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                                 08. The Sanction Letter: The Most Important document you will RECEIVE
-                            </h2>
+                            </h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 After you submit your proposal, the bank (if they agree) will provide a "Settlement letter". As noted in our guide on what documents do I need to prepare for a loan settlement proposal, this is a legal contract. It must contain:
                             </p>
@@ -482,9 +482,9 @@ export default function DocumentChecklistPage() {
                         </section>
 
                         <section id="closure-proofs" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                                 09. Post-Closure Documents: The Shield for the Future
-                            </h2>
+                            </h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 Once the money is paid, you are not done. You must demand the following two documents. Without these, the bank can technically restart recovery in 2 or 3 years if their audit finds a discrepancy.
                             </p>
@@ -492,14 +492,14 @@ export default function DocumentChecklistPage() {
                                 <div className="p-6 bg-emerald-50 rounded-2xl border border-emerald-100 flex gap-4">
                                     <div className="text-emerald-600 font-black text-2xl">A.</div>
                                     <div>
-                                        <h3 className="font-bold text-emerald-900">No Dues Certificate (NDC)</h3>
+                                        <h4 className="font-bold text-emerald-900">No Dues Certificate (NDC)</h4>
                                         <p className="text-sm text-emerald-800">The final legal declaration that the account is closed and the bank has no further claim against the borrower.</p>
                                     </div>
                                 </div>
                                 <div className="p-6 bg-emerald-50 rounded-2xl border border-emerald-100 flex gap-4">
                                     <div className="text-emerald-600 font-black text-2xl">B.</div>
                                     <div>
-                                        <h4 className="font-bold text-emerald-900">NOC for CIBIL Update</h4>
+                                        <h5 className="font-bold text-emerald-900">NOC for CIBIL Update</h5>
                                         <p className="text-sm text-emerald-800">A letter addressed to credit bureaus confirming the settlement, which you can use to file a dispute if the automated update fails.</p>
                                     </div>
                                 </div>
@@ -507,16 +507,16 @@ export default function DocumentChecklistPage() {
                         </section>
 
                         <section id="bank-specific-rules" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                                 Lender-Specific Nuances: SBI vs. HDFC vs. NBFCs
-                            </h2>
+                            </h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 Public sector banks like SBI often have a fixed "Annexure" or "Form" that you must fill out for an OTS. Private banks like HDFC or ICICI are more flexible and often negotiate purely via formal email exchanges. NBFCs like Bajaj Finance or EarlySalary often use digital portals for settlement letters. A professional provider knows exactly which borrower-template each bank prefers, ensuring your proposal doesn't get stuck due to "wrong formatting".
                             </p>
                         </section>
 
                         <section id="faqs" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 text-center">Documentation FAQs</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 text-center">Documentation FAQs</h3>
                             <div className="space-y-4 not-prose">
                                 {
                                     [
@@ -576,7 +576,7 @@ export default function DocumentChecklistPage() {
                             </div>
                         </section>
 
-                        <h2 id="success-stories" className="scroll-mt-32 text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 text-center">Documentation Success</h2>
+                        <h3 id="success-stories" className="scroll-mt-32 text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 text-center">Documentation Success</h3>
                         <div className="grid md:grid-cols-2 gap-6 not-prose mb-16">
                             {[
                                 {
@@ -611,7 +611,7 @@ export default function DocumentChecklistPage() {
                                 <div key={i} className="bg-white p-6 rounded-2xl border border-[var(--color-border)] shadow-sm hover:shadow-md transition-all">
                                     <div className="flex items-center mb-4">
                                         <div className="w-10 h-10 rounded-full bg-[#1F5EFF]/10 flex items-center justify-center font-bold text-[#1F5EFF] mr-3">{review.name.charAt(0)}</div>
-                                        <div><h3 className="font-bold text-[#2E2E2E]">{review.name}</h3><p className="text-xs text-gray-400">{review.loc}</p></div>
+                                        <div><h4 className="font-bold text-[#2E2E2E]">{review.name}</h4><p className="text-xs text-gray-400">{review.loc}</p></div>
                                         <div className="ml-auto text-yellow-400 text-sm flex gap-0.5">
                                             <FontAwesomeIcon icon={faStar} className="w-3.5 h-3.5" />
                                             <FontAwesomeIcon icon={faStar} className="w-3.5 h-3.5" />
@@ -643,7 +643,7 @@ export default function DocumentChecklistPage() {
                         <section className="bg-[#1F5EFF] rounded-[10px] p-8 md:p-12 text-center text-white relative overflow-hidden shadow-2xl">
                             <div className="absolute top-0 right-0 w-64 h-64 bg-white/10 rounded-full -mr-32 -mt-32"></div>
                             <div className="relative z-10">
-                                <h2 className="text-3xl md:text-5xl font-black mb-6 uppercase tracking-tighter text-[#DEDEDE]">Ready to Build Your Case?</h2>
+                                <h3 className="text-3xl md:text-5xl font-black mb-6 uppercase tracking-tighter text-[#DEDEDE]">Ready to Build Your Case?</h3>
                                 <p className="text-lg md:text-2xl opacity-90 max-w-2xl mx-auto mb-10 leading-tight font-normal text-[#DEDEDE]">
                                     Get the exact document checklist that banks can't ignore. Schedule your documentation audit now.
                                 </p>

@@ -549,7 +549,7 @@ export default function Page() {
                   <Clock className="w-4 h-4" />
                   <span>2. Delinquency Timeline &amp; Allahabad HC Norms</span>
                 </div>
-                <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">NPA Delinquency Aging in Agra</h2>
+                <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">NPA Delinquency Aging in Agra</h3>
                 <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                   Under RBI IRACP rules, an overdue loan moves from Special Mention Account (SMA) stages to Non-Performing Asset (NPA) status after 90 days. Unsecured bad loans force banks to set aside 15% to 100% in capital reserves from their profits. This rule encourages banks to agree to cash settlements.
                 </p>
@@ -611,7 +611,7 @@ export default function Page() {
                   <Gavel className="w-4 h-4" />
                   <span>3. Agra District Court &amp; Section 138/25 Defense</span>
                 </div>
-                <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Defending Legal Notices in Agra Courts</h2>
+                <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Defending Legal Notices in Agra Courts</h3>
                 <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                   When EMIs remain unpaid, lenders often send legal notices under <strong>Section 138 of the Negotiable Instruments Act, 1881</strong> or <strong>Section 25 of the Payment and Settlement Systems Act, 2007 (PSSA)</strong> for bounced cheques or NACH debits. They threaten court complaints in the Agra Civil Court Compound on M.G. Road.
                 </p>
@@ -626,7 +626,7 @@ export default function Page() {
                   <ShieldAlert className="w-4 h-4" />
                   <span>4. Section 171 Lien &amp; Account Protection</span>
                 </div>
-                <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Banker&apos;s General Lien Rules in Agra</h2>
+                <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Banker&apos;s General Lien Rules in Agra</h3>
                 <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                   Under Section 171 of the Indian Contract Act, 1872, banks have a general lien to deduct dues from accounts within their own branch network under the same CIF and PAN. For shoe makers in Sikandra or traders in Hing Ki Mandi, an unannounced debit sweep can stop business operations.
                 </p>
@@ -641,7 +641,7 @@ export default function Page() {
                   <Sparkles className="w-4 h-4" />
                   <span>5. Visual Resolution Roadmap</span>
                 </div>
-                <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Personal Loan Settlement Roadmap in Agra</h2>
+                <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Personal Loan Settlement Roadmap in Agra</h3>
                 <p className="text-slate-700 leading-relaxed mb-6 text-base md:text-lg">
                   This roadmap shows the step-by-step legal process in Agra. It covers court notice defense in the Agra Civil Court Compound, RBI anti-harassment shielding, SARB talks in Sanjay Place, and ₹0 No Dues Certificate delivery.
                 </p>
@@ -668,7 +668,7 @@ export default function Page() {
                   <Percent className="w-4 h-4" />
                   <span>6. OTS Haircut Mechanics &amp; NPV Formula</span>
                 </div>
-                <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">OTS Haircut Mechanics &amp; NPV in Agra</h2>
+                <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">OTS Haircut Mechanics &amp; NPV in Agra</h3>
                 <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                   Bank Settlement Committees in Sanjay Place evaluate compromise offers using a <strong>Net Present Value (NPV) formula</strong>. Fighting 4 to 7 years of court cases in Uttar Pradesh costs heavy lawyer fees and locks 100% of bad loan capital in bank reserves.
                 </p>
@@ -698,7 +698,7 @@ export default function Page() {
                   <ShieldCheck className="w-4 h-4" />
                   <span>7. RBI Anti-Harassment &amp; Police Limits</span>
                 </div>
-                <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Enforcing RBI Fair Practices in Agra</h2>
+                <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Enforcing RBI Fair Practices in Agra</h3>
                 <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                   The <strong>RBI Master Directions on Recovery Agents (2022)</strong> ban collection calls before 8:00 AM or after 7:00 PM. Agents cannot use abusive language or contact your friends and co-workers. Agents visiting Sikandra factories or Dayalbagh homes must carry official bank ID cards.
                 </p>
@@ -713,7 +713,7 @@ export default function Page() {
                   <Layers className="w-4 h-4" />
                   <span>8. 5-Step Zonal SARB Settlement Protocol</span>
                 </div>
-                <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">5-Step Settlement Protocol in Agra</h2>
+                <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">5-Step Settlement Protocol in Agra</h3>
                 <p className="text-slate-700 leading-relaxed mb-6 text-base md:text-lg">
                   Getting a legal One-Time Settlement with banks in Agra follows five clear steps:
                 </p>
@@ -724,7 +724,7 @@ export default function Page() {
                       1
                     </div>
                     <div>
-                      <h3 className="text-base font-bold text-slate-900 mb-1">Financial Hardship File</h3>
+                      <h4 className="text-base font-bold text-slate-900 mb-1">Financial Hardship File</h4>
                       <p className="text-sm text-slate-600 leading-relaxed">
                         We audit your loan statement and assemble proof of hardship. This includes cancelled buyer orders, GST returns. And medical bills.
                       </p>
@@ -736,7 +736,7 @@ export default function Page() {
                       2
                     </div>
                     <div>
-                      <h3 className="text-base font-bold text-slate-900 mb-1">Cease-and-Desist Notice</h3>
+                      <h4 className="text-base font-bold text-slate-900 mb-1">Cease-and-Desist Notice</h4>
                       <p className="text-sm text-slate-600 leading-relaxed">
                         We serve formal legal notices under RBI rules to bank nodal officers. This bars recovery agents from visiting your shop, factory, or home.
                       </p>
@@ -748,7 +748,7 @@ export default function Page() {
                       3
                     </div>
                     <div>
-                      <h3 className="text-base font-bold text-slate-900 mb-1">Agra District Court Notice Defense</h3>
+                      <h4 className="text-base font-bold text-slate-900 mb-1">Agra District Court Notice Defense</h4>
                       <p className="text-sm text-slate-600 leading-relaxed">
                         Our advocates draft replies to Section 138 NI Act and Section 25 PSSA notices within 15 days to prevent court warrants.
                       </p>
@@ -760,7 +760,7 @@ export default function Page() {
                       4
                     </div>
                     <div>
-                      <h3 className="text-base font-bold text-slate-900 mb-1">Direct Sanjay Place SARB Talks</h3>
+                      <h4 className="text-base font-bold text-slate-900 mb-1">Direct Sanjay Place SARB Talks</h4>
                       <p className="text-sm text-slate-600 leading-relaxed">
                         We skip third-party agents and negotiate directly with bank Zonal SARB teams in Sanjay Place for 40% to 70% principal cuts.
                       </p>
@@ -772,7 +772,7 @@ export default function Page() {
                       5
                     </div>
                     <div>
-                      <h3 className="text-base font-bold text-slate-900 mb-1">Sanction Letter Audit &amp; NDC Delivery</h3>
+                      <h4 className="text-base font-bold text-slate-900 mb-1">Sanction Letter Audit &amp; NDC Delivery</h4>
                       <p className="text-sm text-slate-600 leading-relaxed">
                         We verify the stamped OTS sanction letter before you pay via RTGS. Then we ensure your ₹0 No Dues Certificate arrives within 30 days.
                       </p>
@@ -787,7 +787,7 @@ export default function Page() {
                   <FileCheck className="w-4 h-4" />
                   <span>9. Sanction Letter Audit &amp; CIBIL Rebuilding</span>
                 </div>
-                <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Sanction Letter Audit &amp; NDC in Agra</h2>
+                <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Sanction Letter Audit &amp; NDC in Agra</h3>
                 <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                   Never pay money based on verbal deals. A legal settlement requires a stamped <strong>OTS Sanction Letter</strong> on official bank letterhead with exact waiver terms and case withdrawal promises.
                 </p>
@@ -802,7 +802,7 @@ export default function Page() {
                   <Scale className="w-4 h-4" />
                   <span>10. Comparative Resolution Matrix</span>
                 </div>
-                <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Debt Resolution Pathways in Agra &amp; Western UP</h2>
+                <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Debt Resolution Pathways in Agra &amp; Western UP</h3>
                 <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                   Compare debt options for borrowers in Agra, Mathura, and Firozabad:
                 </p>
@@ -858,9 +858,9 @@ export default function Page() {
                   <Landmark className="w-4 h-4" />
                   <span>11. SettleLoans Legal Defense &amp; Advisory</span>
                 </div>
-                <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+                <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                   SettleLoans Legal Defense in Agra
-                </h2>
+                </h3>
                 <p className="text-slate-700 leading-relaxed mb-6 text-base md:text-lg">
                   Resolving unmanageable debt in Agra, Mathura, and Firozabad requires strong legal defense. SettleLoans stops recovery harassment, defends court notices in the Civil Court Compound. And negotiates directly with bank credit committees for maximum debt waivers.
                 </p>
@@ -874,9 +874,9 @@ export default function Page() {
                   <Gavel className="w-4 h-4" />
                   <span>Local Legal Jurisdiction &amp; Legal Aid Directory</span>
                 </div>
-                <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+                <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                   District Courts &amp; DLSA Helpdesk in Agra
-                </h2>
+                </h3>
                 <p className="text-slate-700 leading-relaxed mb-6 text-base">
                   Distressed borrowers facing recovery pressure, arbitration summons, or Section 138 NI Act notices in Agra can access statutory legal defense through the local District Court and District Legal Services Authority (DLSA):
                 </p>
@@ -913,9 +913,9 @@ export default function Page() {
                   <HelpCircle className="w-4 h-4" />
                   <span>12. Frequently Asked Questions</span>
                 </div>
-                <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
+                <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
                   Frequently Asked Questions on Debt Settlement in Agra
-                </h2>
+                </h3>
 
                 <div className="space-y-4">
                   {(jsonLdGraph["@graph"][4] as any).mainEntity.map((faq: any, index: number) => (
@@ -942,10 +942,10 @@ export default function Page() {
 
               {/* 5 Official Regulatory Links */}
               <section className="bg-slate-50 border border-slate-200 rounded-2xl p-6 mb-8">
-                <h3 className="text-sm font-bold text-slate-900 mb-3 uppercase tracking-wider flex items-center gap-2">
+                <h4 className="text-sm font-bold text-slate-900 mb-3 uppercase tracking-wider flex items-center gap-2">
                   <ExternalLink className="w-4 h-4 text-[#1F5EFF]" />
                   <span>Official Statutory &amp; Regulatory References</span>
-                </h3>
+                </h4>
                 <div className="grid grid-cols-1 sm:grid-cols-2 gap-3 text-xs">
                   <a
                     href="https://www.rbi.org.in"
@@ -997,9 +997,9 @@ export default function Page() {
 
               {/* 10 Related Guide Badges */}
               <section className="border-t border-slate-200 pt-8 mb-8">
-                <h3 className="text-sm font-bold text-slate-900 mb-4 uppercase tracking-wider">
+                <h4 className="text-sm font-bold text-slate-900 mb-4 uppercase tracking-wider">
                   Related Loan Settlement &amp; Legal Defense Guides
-                </h3>
+                </h4>
                 <div className="flex flex-wrap gap-2">
                   <Link
                     href="/sbi-personal-loan-settlement"

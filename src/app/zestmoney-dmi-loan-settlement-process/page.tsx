@@ -589,9 +589,9 @@ export default function ZestmoneyDmiLoanSettlementProcessPage() {
                 <Clock className="w-4 h-4" />
                 <span>2. Delinquency Timeline &amp; NPA Stages</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 Delinquency Lifecycle and NPA Classification
-              </h2>
+              </h3>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Under the RBI Prudential Framework and Ind AS 109, overdue retail loans are categorized by Days Past Due (DPD). In the early SMA-0 to SMA-2 brackets (1 to 90 days), lenders rely on telecalling and payment reminders, generally offering only minor interest relief.
               </p>
@@ -662,9 +662,9 @@ export default function ZestmoneyDmiLoanSettlementProcessPage() {
                 <Banknote className="w-4 h-4" />
                 <span>3. Halting Automated NACH Bounces &amp; Penalties</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 Halting Automated NACH Bounces and Penalties
-              </h2>
+              </h3>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Repeated presentation of electronic NACH mandates during default causes severe financial drain. Every failed debit incurs dual penalties: the customer&apos;s bank levies an inward return charge of ₹295 to ₹590, while DMI Finance or Aditya Birla imposes an additional presentation bounce fee of ₹500 to ₹1,000. Over months, these penalties can inflate an overdue balance by 30% to 50% above original disbursements.
               </p>
@@ -687,9 +687,9 @@ export default function ZestmoneyDmiLoanSettlementProcessPage() {
                 <Calculator className="w-4 h-4" />
                 <span>4. DMI Finance OTS Policies &amp; NPV Valuation</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 DMI Finance OTS Haircut Policies and NPV Matrix
-              </h2>
+              </h3>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 The Stressed Asset Resolution Committees of DMI Finance and Aditya Birla Finance evaluate compromise proposals through Net Present Value (NPV) recovery benchmarking. Because consumer durable loans lack physical collateral under the SARFAESI Act, the lender must weigh immediate cash against years of expensive civil litigation.
               </p>
@@ -713,9 +713,9 @@ export default function ZestmoneyDmiLoanSettlementProcessPage() {
               </p>
 
               {/* Settlement Haircut Slabs Table */}
-              <h3 className="text-lg font-bold text-slate-900 mb-3">
+              <h4 className="text-lg font-bold text-slate-900 mb-3">
                 Realistic ZestMoney / DMI Finance Settlement Haircut Slabs Across Products and Aging
-              </h3>
+              </h4>
               <div className="overflow-x-auto my-4">
                 <table className="min-w-full bg-white">
                   <thead>
@@ -773,9 +773,9 @@ export default function ZestmoneyDmiLoanSettlementProcessPage() {
                       <span className="text-[10px] font-black uppercase tracking-widest text-blue-300 block">
                         Legal Defense &amp; Action Blueprint
                       </span>
-                      <h3 className="text-sm md:text-base font-black text-white leading-tight">
+                      <h4 className="text-sm md:text-base font-black text-white leading-tight">
                         ZestMoney &amp; DMI Finance Loan Default Settlement Process
-                      </h3>
+                      </h4>
                     </div>
                   </div>
                   <a
@@ -822,9 +822,9 @@ export default function ZestmoneyDmiLoanSettlementProcessPage() {
                 <ShieldAlert className="w-4 h-4" />
                 <span>5. Anti-Harassment Protections &amp; RBI Rules</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 Legal Anti-Harassment Shields Under RBI Rules
-              </h2>
+              </h3>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Under the RBI Guidelines on Digital Lending (RBI/2022-23/111) and NBFC Fair Practices Code, outsourced recovery agencies face strict statutory restrictions: recovery calling is barred outside 8:00 AM to 7:00 PM, accessing phone contacts or photo galleries is illegal, and calling non-guarantor relatives or colleagues constitutes an actionable breach of privacy.
               </p>
@@ -847,9 +847,9 @@ export default function ZestmoneyDmiLoanSettlementProcessPage() {
                 <Layers className="w-4 h-4" />
                 <span>6. Six-Stage NBFC Debt Settlement Roadmap</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 Six-Stage NBFC Debt Settlement Roadmap
-              </h2>
+              </h3>
               <p className="text-slate-700 leading-relaxed mb-6 text-base md:text-lg">
                 Achieving maximum debt relief from DMI Finance and partner NBFCs requires a disciplined, legally verified sequence:
               </p>
@@ -857,10 +857,10 @@ export default function ZestmoneyDmiLoanSettlementProcessPage() {
               <div className="space-y-6">
                 {/* Stage 1 */}
                 <div className="p-6 rounded-2xl bg-white border border-slate-200 shadow-sm">
-                  <h3 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
+                  <h4 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
                     <span className="w-7 h-7 rounded-lg bg-blue-50 text-[#1F5EFF] font-black text-sm flex items-center justify-center border border-blue-200">1</span>
                     Loan Portfolio Forensics &amp; Debt Bifurcation
-                  </h3>
+                  </h4>
                   <p className="text-slate-600 text-sm md:text-base leading-relaxed">
                     We audit original ZestMoney records against DMI Finance loan contracts, isolating true disbursed principal from inflated bounce fees and compounded interest.
                   </p>
@@ -868,10 +868,10 @@ export default function ZestmoneyDmiLoanSettlementProcessPage() {
 
                 {/* Stage 2 */}
                 <div className="p-6 rounded-2xl bg-white border border-slate-200 shadow-sm">
-                  <h3 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
+                  <h4 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
                     <span className="w-7 h-7 rounded-lg bg-blue-50 text-[#1F5EFF] font-black text-sm flex items-center justify-center border border-blue-200">2</span>
                     e-NACH Mandate Revocation &amp; Representation Notice
-                  </h3>
+                  </h4>
                   <p className="text-slate-600 text-sm md:text-base leading-relaxed">
                     We help you instruct your bank to cancel active e-mandates under NPCI rules to stop bounce fees, while issuing formal legal notices directing all communications to counsel.
                   </p>
@@ -879,10 +879,10 @@ export default function ZestmoneyDmiLoanSettlementProcessPage() {
 
                 {/* Stage 3 */}
                 <div className="p-6 rounded-2xl bg-white border border-slate-200 shadow-sm">
-                  <h3 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
+                  <h4 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
                     <span className="w-7 h-7 rounded-lg bg-blue-50 text-[#1F5EFF] font-black text-sm flex items-center justify-center border border-blue-200">3</span>
                     Hardship Dossier Compilation &amp; Stressed Assets Filing
-                  </h3>
+                  </h4>
                   <p className="text-slate-600 text-sm md:text-base leading-relaxed">
                     We compile documented proof of involuntary financial distress (layoffs, medical bills, business losses), submitting a formal petition establishing non-wilful default.
                   </p>
@@ -890,10 +890,10 @@ export default function ZestmoneyDmiLoanSettlementProcessPage() {
 
                 {/* Stage 4 */}
                 <div className="p-6 rounded-2xl bg-white border border-slate-200 shadow-sm">
-                  <h3 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
+                  <h4 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
                     <span className="w-7 h-7 rounded-lg bg-blue-50 text-[#1F5EFF] font-black text-sm flex items-center justify-center border border-blue-200">4</span>
                     Structured Counter-Negotiations &amp; Committee Approval
-                  </h3>
+                  </h4>
                   <p className="text-slate-600 text-sm md:text-base leading-relaxed">
                     Our team counters low opening offers with mathematical NPV benchmarks, steering the credit committee toward a 100% penal waiver and a 50% to 60% principal write-down.
                   </p>
@@ -901,10 +901,10 @@ export default function ZestmoneyDmiLoanSettlementProcessPage() {
 
                 {/* Stage 5 */}
                 <div className="p-6 rounded-2xl bg-white border border-slate-200 shadow-sm">
-                  <h3 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
+                  <h4 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
                     <span className="w-7 h-7 rounded-lg bg-blue-50 text-[#1F5EFF] font-black text-sm flex items-center justify-center border border-blue-200">5</span>
                     Forensic Verification of the Stamped OTS Sanction Letter
-                  </h3>
+                  </h4>
                   <p className="text-slate-600 text-sm md:text-base leading-relaxed">
                     We perform line-by-line scrutiny of the official compromise sanction letter on DMI Finance letterhead, confirming seal authenticity, loan numbers, and closure clauses.
                   </p>
@@ -912,10 +912,10 @@ export default function ZestmoneyDmiLoanSettlementProcessPage() {
 
                 {/* Stage 6 */}
                 <div className="p-6 rounded-2xl bg-white border border-slate-200 shadow-sm">
-                  <h3 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
+                  <h4 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
                     <span className="w-7 h-7 rounded-lg bg-blue-50 text-[#1F5EFF] font-black text-sm flex items-center justify-center border border-blue-200">6</span>
                     Direct Account Remittance &amp; ₹0 NDC Delivery
-                  </h3>
+                  </h4>
                   <p className="text-slate-600 text-sm md:text-base leading-relaxed">
                     You remit settlement funds directly to the NBFC&apos;s verified account via RTGS/NEFT. We enforce the 30-day statutory delivery of your stamped ₹0 No Dues Certificate under RBI rules.
                   </p>
@@ -929,9 +929,9 @@ export default function ZestmoneyDmiLoanSettlementProcessPage() {
                 <Gavel className="w-4 h-4" />
                 <span>7. Defending Section 25 Notices &amp; Arbitration</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 Defending Section 25 PSSA and Arbitration Notices
-              </h2>
+              </h3>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Section 25 of the Payment and Settlement Systems Act, 2007 (PSSA) penalizes dishonored electronic debits, operating similarly to Section 138 cheque bounce proceedings. However, a Section 25 notice is not an arrest warrant; it is a 15-day statutory demand. Because these offenses are compoundable, submitting an advocate-drafted reply highlighting bona fide hardship halts criminal prosecution and steers the file toward compromise settlement.
               </p>
@@ -991,9 +991,9 @@ export default function ZestmoneyDmiLoanSettlementProcessPage() {
                 <FileCheck className="w-4 h-4" />
                 <span>8. Sanction Letter Forensics &amp; Zero Dues Mandate</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 Sanction Letter Verification and Zero Dues Mandate
-              </h2>
+              </h3>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Borrowers must never remit funds based on oral promises or WhatsApp links from recovery callers. Unscrupulous agencies often credit such payments toward overdue interest, keeping the principal balance active. A valid compromise requires an official OTS Sanction Letter on DMI Finance or Aditya Birla corporate letterhead, bearing CIN registration, explicit loan IDs, fee waiver bifurcation, and payment deadlines.
               </p>
@@ -1001,10 +1001,10 @@ export default function ZestmoneyDmiLoanSettlementProcessPage() {
                 The sanction letter must confirm full account closure, withdrawal of all legal notices, and issuance of a ₹0 No Dues Certificate (NDC). Under RBI Circular RBI/2023-24/60, lenders are legally mandated to deliver the NDC within 30 days of payment, subject to a statutory compensation penalty of ₹5,000 per calendar day of delay paid directly to the borrower.
               </p>
               <div className="bg-slate-50 border border-slate-200 rounded-2xl p-5 my-6">
-                <h3 className="text-sm font-bold text-slate-900 mb-2 flex items-center gap-2">
+                <h4 className="text-sm font-bold text-slate-900 mb-2 flex items-center gap-2">
                   <ShieldCheck className="w-4 h-4 text-emerald-600" />
                   Mandatory Forensic Checklist for ZestMoney / DMI Finance OTS Letters
-                </h3>
+                </h4>
                 <ul className="space-y-2 text-xs sm:text-sm text-slate-700">
                   <li className="flex items-start gap-2">
                     <Check className="w-4 h-4 text-emerald-600 flex-shrink-0 mt-0.5" />
@@ -1036,9 +1036,9 @@ export default function ZestmoneyDmiLoanSettlementProcessPage() {
                 <TrendingUp className="w-4 h-4" />
                 <span>9. CIBIL Overdue Removal &amp; Credit Rebuilding</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 Resolving CIBIL Overdue Flags and Score Recovery
-              </h2>
+              </h3>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Following full remittance of the agreed settlement, the underwriting NBFC reports the account as <strong>&apos;Settled&apos;</strong> with a <strong>₹0 balance</strong> across all credit bureaus within the mandatory 30-day reporting cycle. While &apos;Settled&apos; status causes an initial score contraction of 60 to 120 points, it halts monthly compounding default marks that paralyze credit access.
               </p>
@@ -1053,9 +1053,9 @@ export default function ZestmoneyDmiLoanSettlementProcessPage() {
                 <ShieldCheck className="w-4 h-4" />
                 <span>10. SettleLoans Legal Defense &amp; Representation</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 Why Distressed Borrowers Choose SettleLoans
-              </h2>
+              </h3>
               <p className="text-slate-700 leading-relaxed mb-6 text-base md:text-lg">
                 Navigating the complex institutional hierarchy of DMI Finance and Aditya Birla Finance following the ZestMoney transition requires dedicated legal advocacy and deep domain expertise in fintech debt resolution. SettleLoans provides complete end-to-end representation: we dismantle aggressive third-party collection harassment under RBI rules, revoke punitive e-mandates, draft formal replies to Section 25 PSSA and arbitration notices, and negotiate directly with senior credit committees to achieve maximum principal write-downs alongside official ₹0 No Dues Certificates.
               </p>
@@ -1072,9 +1072,9 @@ export default function ZestmoneyDmiLoanSettlementProcessPage() {
                 <HelpCircle className="w-4 h-4" />
                 <span>11. Frequently Asked Questions</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
                 Frequently Asked Questions
-              </h2>
+              </h3>
 
               <div className="space-y-4">
                 {faqs.map((faq, index) => (
@@ -1101,10 +1101,10 @@ export default function ZestmoneyDmiLoanSettlementProcessPage() {
 
             {/* Regulatory References & Official Sources Strip */}
             <div className="bg-slate-50 border border-slate-200 rounded-2xl p-6 my-10">
-              <h3 className="text-base font-bold text-slate-900 mb-4 flex items-center gap-2">
+              <h4 className="text-base font-bold text-slate-900 mb-4 flex items-center gap-2">
                 <Landmark className="w-5 h-5 text-[#1F5EFF]" />
                 Official Regulatory References &amp; Statutory Circulars
-              </h3>
+              </h4>
               <ul className="space-y-3 text-xs text-slate-600">
                 <li className="flex items-start gap-2">
                   <ExternalLink className="w-4 h-4 text-[#1F5EFF] flex-shrink-0 mt-0.5" />
@@ -1166,10 +1166,10 @@ export default function ZestmoneyDmiLoanSettlementProcessPage() {
 
             {/* Related Guides & Resources Strip (10 Topic Badges) */}
             <div className="bg-slate-50 border border-slate-200 rounded-2xl p-6 my-10">
-              <h3 className="text-base font-bold text-slate-900 mb-4 flex items-center gap-2">
+              <h4 className="text-base font-bold text-slate-900 mb-4 flex items-center gap-2">
                 <BookOpen className="w-5 h-5 text-[#1F5EFF]" />
                 Explore Related Banking &amp; Debt Resolution Guides
-              </h3>
+              </h4>
               <div className="flex flex-wrap gap-2.5">
                 <Link
                   href="/dmi-finance-loan-settlement-process"

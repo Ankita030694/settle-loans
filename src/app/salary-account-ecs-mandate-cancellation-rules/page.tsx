@@ -554,7 +554,7 @@ export default function SalaryAccountEcsMandateCancellationPage() {
 
             {/* Section 2: Statutory Legal Grounding: RBI Directives & Wages Act */}
             <section id="statutory-legal-protections-rbi-wages-act" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">2. Statutory Legal Rights on Mandate Cancellation</h2>
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">2. Statutory Legal Rights on Mandate Cancellation</h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Recovery agents often say auto-debits cannot be stopped. This is false. Under RBI rules, mandates are conditional permissions. You can revoke them at any time.
               </p>
@@ -610,7 +610,7 @@ export default function SalaryAccountEcsMandateCancellationPage() {
 
             {/* Section 3: The Threat of Section 25 PSSA & Section 138 NI Act */}
             <section id="debunking-fraud-allegations-pssa-25" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">3. The Threat of Section 25 PSSA &amp; Section 138 NI Act</h2>
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">3. The Threat of Section 25 PSSA &amp; Section 138 NI Act</h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Recovery agents often threaten arrest or fraud cases when you cancel debits. These threats are baseless under statutory law.
               </p>
@@ -620,28 +620,28 @@ export default function SalaryAccountEcsMandateCancellationPage() {
 
               <div className="space-y-3 my-4">
                 <div className="p-4 rounded-xl border-l-4 border-amber-500 bg-slate-50 space-y-1">
-                  <h3 className="font-bold text-slate-900 text-xs sm:text-sm flex items-center gap-1.5">
+                  <h4 className="font-bold text-slate-900 text-xs sm:text-sm flex items-center gap-1.5">
                     <ShieldAlert className="w-4 h-4 text-amber-600" />
                     <span>Section 25 of the Payment and Settlement Systems Act, 2007 (PSSA)</span>
-                  </h3>
+                  </h4>
                   <p className="text-xs text-slate-600 leading-relaxed">
                     Section 25 PSSA covers failed electronic debits, similar to <strong>Section 138 of the Negotiable Instruments Act, 1881</strong>. If a debit fails, the lender sends a 30-day notice. However, Section 25 cases are bailable civil debt matters. Police cannot arrest you at the summons stage. Courts grant bail as a matter of right.
                   </p>
                 </div>
                 <div className="p-4 rounded-xl border-l-4 border-blue-500 bg-slate-50 space-y-1">
-                  <h4 className="font-bold text-slate-900 text-xs sm:text-sm flex items-center gap-1.5">
+                  <h5 className="font-bold text-slate-900 text-xs sm:text-sm flex items-center gap-1.5">
                     <Scale className="w-4 h-4 text-blue-600" />
                     <span>Debunking Criminal Fraud &amp; Section 420 IPC / Section 318 BNS Allegations</span>
-                  </h4>
+                  </h5>
                   <p className="text-xs text-slate-600 leading-relaxed">
                     The Supreme Court ruled that loan default due to hardship is a civil breach, not criminal cheating. Cheating requires proving bad intent from the start. If you paid early EMIs, police have no power to file an FIR or arrest you.
                   </p>
                 </div>
                 <div className="p-4 rounded-xl border-l-4 border-emerald-500 bg-slate-50 space-y-1">
-                  <h4 className="font-bold text-slate-900 text-xs sm:text-sm flex items-center gap-1.5">
+                  <h5 className="font-bold text-slate-900 text-xs sm:text-sm flex items-center gap-1.5">
                     <FileCheck className="w-4 h-4 text-emerald-600" />
                     <span>Formal Prior Revocation as Legal Shield</span>
-                  </h4>
+                  </h5>
                   <p className="text-xs text-slate-600 leading-relaxed">
                     A formal cancel notice proves you acted in good faith with no guilty mind (mens rea). If the lender still files a Section 25 case, your lawyer can move the court to refer the case to Lok Adalat for an instant settlement.
                   </p>
@@ -655,7 +655,7 @@ export default function SalaryAccountEcsMandateCancellationPage() {
 
             {/* Section 4: Bank Accounting, NPA Provisioning & NPV Recovery Formula */}
             <section id="bank-accounting-npv-recovery-formula" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">4. NPA Balance Sheet Accounting &amp; NPV Models</h2>
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">4. NPA Balance Sheet Accounting &amp; NPV Models</h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Stopping an ECS mandate helps you get a better settlement. Under Reserve Bank of India (RBI) Prudential Norms on Income Recognition, Asset Classification and Provisioning (IRACP), overdue loans move through set stages.
               </p>
@@ -733,7 +733,7 @@ export default function SalaryAccountEcsMandateCancellationPage() {
 
             {/* Section 5: Infographic Banner */}
             <section id="ecs-cancellation-roadmap" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">5. Salary Account ECS Mandate Cancellation</h2>
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">5. Salary Account ECS Mandate Cancellation</h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 The roadmap below explains the 5-stage process: diagnosing salary cash drain, revoking the mandate legally, invoking Section 7 Wages Act protections, escalating bank delays. And securing an official 55% settlement.
               </p>
@@ -768,32 +768,32 @@ export default function SalaryAccountEcsMandateCancellationPage() {
 
             {/* Section 6: Emergency 4-Stage Legal Revocation Protocol */}
             <section id="emergency-4-stage-revocation-protocol" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">6. The Emergency 4-Stage Legal Protocol to Revoke ECS / NACH</h2>
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">6. The Emergency 4-Stage Legal Protocol to Revoke ECS / NACH</h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Stopping loan auto-debits requires a formal, written process. Never rely on verbal talks with branch clerks. Follow our proven 4-stage revocation protocol:
               </p>
 
               <div className="space-y-3 my-4">
                 <div className="p-4 rounded-xl border-l-4 border-blue-600 bg-slate-50 space-y-1">
-                  <h3 className="font-bold text-slate-900 text-xs sm:text-sm">Stage 1: Digital Mandate Revocation via Destination Net Banking</h3>
+                  <h4 className="font-bold text-slate-900 text-xs sm:text-sm">Stage 1: Digital Mandate Revocation via Destination Net Banking</h4>
                   <p className="text-xs text-slate-600 leading-relaxed">
                     Log in to net banking (such as HDFC, ICICI, SBI, or Axis). Go to <strong>&quot;Accounts / Requests &gt. e-Mandates / NACH Mandates &gt. View / Cancel Mandate&quot;</strong>. Find the lender UMRN and cancel it. Download the receipt.
                   </p>
                 </div>
                 <div className="p-4 rounded-xl border-l-4 border-indigo-600 bg-slate-50 space-y-1">
-                  <h4 className="font-bold text-slate-900 text-xs sm:text-sm">Stage 2: Physical Branch Stop-Payment Requisition with Stamped Acknowledgment</h4>
+                  <h5 className="font-bold text-slate-900 text-xs sm:text-sm">Stage 2: Physical Branch Stop-Payment Requisition with Stamped Acknowledgment</h5>
                   <p className="text-xs text-slate-600 leading-relaxed">
                     Submit a written letter to your branch manager citing <strong>RBI Circular RBI/2019-20/200</strong>. List the UMRN and loan number. Demand a physical receiving stamp with date.
                   </p>
                 </div>
                 <div className="p-4 rounded-xl border-l-4 border-purple-600 bg-slate-50 space-y-1">
-                  <h4 className="font-bold text-slate-900 text-xs sm:text-sm">Stage 3: Written Financial Hardship Intimation to Lending Institution</h4>
+                  <h5 className="font-bold text-slate-900 text-xs sm:text-sm">Stage 3: Written Financial Hardship Intimation to Lending Institution</h5>
                   <p className="text-xs text-slate-600 leading-relaxed">
                     Send a letter to the lender grievance desk. Cite Section 7 of the Payment of Wages Act. Ask them to pause debit batches while you explore restructuring.
                   </p>
                 </div>
                 <div className="p-4 rounded-xl border-l-4 border-amber-600 bg-slate-50 space-y-1">
-                  <h4 className="font-bold text-slate-900 text-xs sm:text-sm">Stage 4: Escalation to Principal Nodal Officer &amp; RBI Integrated Ombudsman</h4>
+                  <h5 className="font-bold text-slate-900 text-xs sm:text-sm">Stage 4: Escalation to Principal Nodal Officer &amp; RBI Integrated Ombudsman</h5>
                   <p className="text-xs text-slate-600 leading-relaxed">
                     If the bank delays cancel, file a complaint on the <strong>RBI CMS portal (cms.rbi.org.in)</strong> for service delay and non-compliance.
                   </p>
@@ -807,7 +807,7 @@ export default function SalaryAccountEcsMandateCancellationPage() {
 
             {/* Section 7: Negotiating Debt Resolution & 55% OTS */}
             <section id="forcing-compromise-settlement-ots" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">7. Converting Stopped Auto-Debits into an Institutional</h2>
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">7. Converting Stopped Auto-Debits into an Institutional</h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Stopping auto-debits gives you breathing room. But the goal is to close the debt permanently. You need a legally binding <strong>One-Time Settlement (OTS)</strong> with a deep waiver.
               </p>
@@ -857,7 +857,7 @@ export default function SalaryAccountEcsMandateCancellationPage() {
 
             {/* Section 8: Sanction Letter Forensics & RBI NDC Mandate */}
             <section id="sanction-forensics-rbi-ndc-mandate" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">8. Sanction Letter Forensics &amp; NDC for Mandate Debt</h2>
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">8. Sanction Letter Forensics &amp; NDC for Mandate Debt</h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Watch out for fake settlement letters from rogue recovery agents. Agents often make fake letters on WhatsApp to hit targets. Paying without checking can lead to your money being treated as regular interest, leaving the loan active.
               </p>
@@ -885,9 +885,9 @@ export default function SalaryAccountEcsMandateCancellationPage() {
                 </p>
               </div>
 
-              <h3 className="text-base sm:text-lg font-bold text-slate-900 pt-2">
+              <h4 className="text-base sm:text-lg font-bold text-slate-900 pt-2">
                 Understanding CIBIL Bureau Reporting &amp; Credit Score Rehabilitation
-              </h3>
+              </h4>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 After settlement, the lender updates credit bureaus (CIBIL, Experian, Equifax, CRIF) to <strong>&quot;Settled&quot;</strong> with a <strong>₹0</strong> balance. This stops monthly default flags. You can get a secured card against a fixed deposit, keep usage under 30%. And pay on time. This rebuilds your CIBIL score to 750+ within 18 to 24 months.
               </p>
@@ -895,7 +895,7 @@ export default function SalaryAccountEcsMandateCancellationPage() {
 
             {/* Section 9: Dispute Resolution Comparative Matrix */}
             <section id="comparative-mandate-revocation-matrix" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">9. ECS Stop-Payment vs Legal Revocation Matrix</h2>
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">9. ECS Stop-Payment vs Legal Revocation Matrix</h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Review the different ways to handle recurring ECS loan mandates:
               </p>
@@ -948,7 +948,7 @@ export default function SalaryAccountEcsMandateCancellationPage() {
             {/* Section 10: SettleLoans Legal Defense & Advisory + CompanySection */}
             <section id="company-resolution-section" className="space-y-6">
               <div className="border-t border-slate-200 pt-8 space-y-4">
-                <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">10. SettleLoans Legal Defense for ECS Mandates</h2>
+                <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">10. SettleLoans Legal Defense for ECS Mandates</h3>
                 <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                   Handling RBI circulars, Section 25 PSSA. And recovery agents requires expert legal help. SettleLoans protects salaried borrowers across India. We cancel ECS and NACH mandates legally, shield salary accounts from wage draining, defend against Section 25 PSSA notices. And negotiate 45% to 65% principal waivers with official No Dues Certificates.
                 </p>
@@ -962,7 +962,7 @@ export default function SalaryAccountEcsMandateCancellationPage() {
             <section id="faqs" className="space-y-4 border-t border-slate-200 pt-8">
               <div className="flex items-center gap-2 mb-2">
                 <HelpCircle className="w-5 h-5 text-[#1F5EFF]" />
-                <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">11. FAQs: Salary Account ECS Mandates &amp; Legal Remedies</h2>
+                <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">11. FAQs: Salary Account ECS Mandates &amp; Legal Remedies</h3>
               </div>
               <p className="text-xs sm:text-sm text-slate-600 mb-6">
                 Clear, authoritative. And legally verified answers to critical questions regarding ECS mandate cancellations, auto-debit revocation rules. And loan settlement in India.
@@ -992,9 +992,9 @@ export default function SalaryAccountEcsMandateCancellationPage() {
 
             {/* 5 Official Regulatory Links */}
             <section className="border-t border-slate-200 pt-8 mb-4">
-              <h3 className="text-xs sm:text-sm font-bold text-slate-900 mb-3 uppercase tracking-wider">
+              <h4 className="text-xs sm:text-sm font-bold text-slate-900 mb-3 uppercase tracking-wider">
                 Official Statutory &amp; Regulatory References
-              </h3>
+              </h4>
               <div className="grid grid-cols-1 sm:grid-cols-2 gap-2.5 text-xs">
                 <a
                   href="https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=11666&amp;Mode=0"
@@ -1046,9 +1046,9 @@ export default function SalaryAccountEcsMandateCancellationPage() {
 
             {/* 10 Related Guide Badges */}
             <section className="border-t border-slate-200 pt-8 mb-8">
-              <h3 className="text-xs sm:text-sm font-bold text-slate-900 mb-4 uppercase tracking-wider">
+              <h4 className="text-xs sm:text-sm font-bold text-slate-900 mb-4 uppercase tracking-wider">
                 Related Legal Defense &amp; Loan Resolution Guides
-              </h3>
+              </h4>
               <div className="flex flex-wrap gap-2">
                 <Link
                   href="/bank-freeze-salary-account-loan-default"

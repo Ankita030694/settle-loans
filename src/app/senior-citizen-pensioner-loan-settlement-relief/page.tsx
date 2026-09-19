@@ -557,9 +557,9 @@ export default function SeniorCitizenPensionerLoanSettlementPage() {
 
             {/* Section 2: Unlawful Banker's Lien & Account Freezes */}
             <section id="unlawful-lien-auto-debit" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                 2. Unlawful Banker&apos;s Lien, Direct Mandate Debits &amp; Account Freezes on Pension Accounts
-              </h2>
+              </h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 While commercial banks are well aware that civil courts cannot attach a pension, aggressive collection departments often resort to extra-judicial coercion by manipulating internal banking software. The most prevalent predatory practice involves applying a purported &quot;General Banker&apos;s Lien&quot; under Section 171 of the Indian Contract Act, 1872 or executing unauthorized internal ledger transfers to sweep monthly pension credits from a savings account to service defaulted credit cards or unsecured personal loans held within the same banking institution.
               </p>
@@ -610,9 +610,9 @@ export default function SeniorCitizenPensionerLoanSettlementPage() {
 
             {/* Section 3: Senior Citizens Act & Anti-Harassment Protections */}
             <section id="senior-citizens-act-welfare" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                 3. The Senior Citizens Act, 2007, Constitutional Dignity &amp; Anti-Harassment Protections
-              </h2>
+              </h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Beyond civil execution exemptions, elderly borrowers in India are endowed with special human rights protections under social welfare legislation and constitutional mandates. The <strong>Maintenance and Welfare of Parents and Senior Citizens Act, 2007</strong> was enacted by Parliament to guarantee that senior citizens (individuals aged 60 years and above) can live with security, peace, and dignity. The coercive deployment of collection agents who intimidate elderly borrowers at their residential doorstep directly infringes upon these statutory rights.
               </p>
@@ -654,9 +654,9 @@ export default function SeniorCitizenPensionerLoanSettlementPage() {
 
             {/* Section 4: Bank NPA Accounting & Senior Citizen NPV Formula */}
             <section id="bank-accounting-npv-formula" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                 4. Bank NPA Accounting, Provisioning Realities &amp; The NPV Recovery Formula for Superannuated Borrowers
-              </h2>
+              </h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 To negotiate a favorable debt settlement, one must understand how commercial banks evaluate defaulted loans on their balance sheets. Under the <strong>RBI Master Circular on Prudential Norms on Income Recognition, Asset Classification and Provisioning (IRACP)</strong>, once an unsecured personal loan or credit card overdue crosses 90 days, the account is categorized as a Non-Performing Asset (NPA). Over subsequent quarters, the account migrates from Sub-Standard (15% provisioning) to Doubtful-1 (25%), Doubtful-2 (40%), Doubtful-3 (100%), and eventually Loss Asset status.
               </p>
@@ -685,9 +685,9 @@ export default function SeniorCitizenPensionerLoanSettlementPage() {
 
             {/* Section 5: Infographic Banner */}
             <section id="infographic-visual-guide" className="my-8 space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                 5. Visual Pension Protection &amp; Compassionate OTS Roadmap
-              </h2>
+              </h3>
               <div className="rounded-2xl overflow-hidden border border-slate-200 shadow-md bg-slate-50">
                 <div className="relative aspect-[16/9] w-full">
                   <Image
@@ -709,9 +709,9 @@ export default function SeniorCitizenPensionerLoanSettlementPage() {
 
             {/* Section 6: Compassionate OTS Schemes */}
             <section id="compassionate-ots-schemes" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                 6. Compassionate One-Time Settlement (OTS): Medical Hardship, Superannuation &amp; Deep Waivers
-              </h2>
+              </h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 A <strong>Compassionate One-Time Settlement (OTS)</strong> is an institutional compromise agreement authorized under a bank&apos;s board-approved recovery policy and RBI compromise settlement frameworks. Unlike commercial settlements negotiated for active business enterprises, a senior citizen settlement evaluates bona fide human factors: the borrower&apos;s superannuation status, fixed monthly pension, lack of secondary income streams, and catastrophic medical expenditures.
               </p>
@@ -756,9 +756,9 @@ export default function SeniorCitizenPensionerLoanSettlementPage() {
 
             {/* Section 7: Advocate Defense Protocol */}
             <section id="advocate-defense-protocol" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                 7. Step-by-Step Senior Citizen Legal Defense Protocol: From Cease-and-Desist to Final Closure
-              </h2>
+              </h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Resolving debt distress for senior citizens requires a methodical, multi-stage legal protocol that protects the pensioner&apos;s immediate mental health while engineering a legally binding, discounted final compromise. SettleLoans employs a 4-stage institutional defense model designed specifically for elderly borrowers:
               </p>
@@ -820,9 +820,9 @@ export default function SeniorCitizenPensionerLoanSettlementPage() {
 
             {/* Section 8: Sanction Letter Forensics, NDC & CIBIL */}
             <section id="sanction-letter-ndc-cibil" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                 8. Sanction Letter Forensics, RBI No Dues Certificate (NDC) Mandate &amp; CIBIL Resolution
-              </h2>
+              </h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 A debt settlement is only as good as the legal validity of the sanction letter issued by the lender. Many senior citizens fall prey to fraudulent verbal promises made by field collection agents who issue forged receipt slips or fake settlement letters on unauthorized letterheads, only for the bank to demand the remaining balance months later.
               </p>
@@ -861,9 +861,9 @@ export default function SeniorCitizenPensionerLoanSettlementPage() {
 
             {/* Section 9: Comparative Matrix */}
             <section id="comparative-legal-matrix" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                 9. Comparative Legal Matrix: Illegal Banker Actions vs. Actual Civil Law Rights vs. SettleLoans OTS Shield
-              </h2>
+              </h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 The table below provides a side-by-side comparative analysis of the common illegal threats made by bank recovery agents, the actual governing statutory provisions under Indian law, and the institutional defense provided by SettleLoans advocates.
               </p>
@@ -916,9 +916,9 @@ export default function SeniorCitizenPensionerLoanSettlementPage() {
 
             {/* Section 10: Company Section */}
             <section id="company-resolution-section" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                 10. SettleLoans: Compassionate Legal Defense &amp; Debt Resolution for Senior Citizens
-              </h2>
+              </h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 At SettleLoans, we believe that senior citizens and pensioners who have dedicated decades of their lives to their families and country deserve to live their golden years with absolute tranquility, dignity, and freedom from financial harassment. Our specialized senior citizen debt defense practice combines deep civil litigation expertise with compassionate negotiation strategies to deliver total debt relief.
               </p>
@@ -933,7 +933,7 @@ export default function SeniorCitizenPensionerLoanSettlementPage() {
             <section id="faqs" className="space-y-6 pt-4">
               <div className="flex items-center gap-2 text-slate-900 font-bold text-lg sm:text-xl">
                 <HelpCircle className="w-5 h-5 text-[#1F5EFF]" />
-                <h2>11. Frequently Asked Questions: Senior Citizen &amp; Pensioner Debt Relief</h2>
+                <h3>11. Frequently Asked Questions: Senior Citizen &amp; Pensioner Debt Relief</h3>
               </div>
               <div className="space-y-3">
                 {((jsonLdGraph['@graph'][3] as any)?.mainEntity || []).map((faq: any, index: number) => (
@@ -959,9 +959,9 @@ export default function SeniorCitizenPensionerLoanSettlementPage() {
 
             {/* 5 Official Regulatory Links */}
             <section className="border-t border-slate-200 pt-8 mb-4">
-              <h3 className="text-xs sm:text-sm font-bold text-slate-900 mb-3 uppercase tracking-wider">
+              <h4 className="text-xs sm:text-sm font-bold text-slate-900 mb-3 uppercase tracking-wider">
                 Official Statutory &amp; Regulatory References
-              </h3>
+              </h4>
               <div className="grid grid-cols-1 sm:grid-cols-2 gap-2.5 text-xs">
                 <a
                   href="https://indiacode.gov.in/handle/123456789/2191"
@@ -1013,9 +1013,9 @@ export default function SeniorCitizenPensionerLoanSettlementPage() {
 
             {/* 10 Related Guide Badges */}
             <section className="border-t border-slate-200 pt-8 mb-8">
-              <h3 className="text-xs sm:text-sm font-bold text-slate-900 mb-4 uppercase tracking-wider">
+              <h4 className="text-xs sm:text-sm font-bold text-slate-900 mb-4 uppercase tracking-wider">
                 Related Legal Defense &amp; Loan Resolution Guides
-              </h3>
+              </h4>
               <div className="flex flex-wrap gap-2">
                 <Link
                   href="/government-employee-loan-default-salary-attachment"

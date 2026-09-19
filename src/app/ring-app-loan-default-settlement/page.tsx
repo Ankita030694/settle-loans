@@ -253,7 +253,7 @@ const jsonLdGraph = {
           name: 'What is the Ring App (PayWithRing) loan settlement process and how does it work?',
           acceptedAnswer: {
             '@type': 'Answer',
-            text: 'The Ring App loan settlement process is a formal compromise mechanism governed by RBI Master Directions on Compromise Settlements. When a borrower defaults on a Ring digital credit line and the account crosses 90 days past due (NPA status), the lending NBFC (primarily Si Creva Capital Services Pvt Ltd or partner institutions) evaluates the unrecoverable debt. Through structured legal negotiations, the borrower and lender agree on a discounted lump-sum payment (typically 40% to 60% haircut on outstanding dues). Once remitted directly to the NBFC account, an authentic stamped No Dues Certificate is issued, closing the liability permanently.',
+            text: 'The Ring App loan settlement process is a formal compromise mechanism governed by RBI Master Directions on Compromise Settlements. When a borrower defaults on a Ring digital credit line and the account crosses 90 days past due (NPA status), the lending NBFC (primarily Si Creva Capital Services Pvt Ltd or partner institutions) evaluates the unrecoverable debt. Through structured legal talks, the borrower and lender agree on a discounted lump-sum payment (typically 40% to 60% haircut on outstanding dues). Once remitted directly to the NBFC account, an authentic stamped No Dues Certificate is issued, closing the liability permanently.',
           },
         },
         {
@@ -269,7 +269,7 @@ const jsonLdGraph = {
           name: 'Who is the underlying RBI-registered NBFC behind the Ring App?',
           acceptedAnswer: {
             '@type': 'Answer',
-            text: 'The primary regulated entity underwriting credit lines on the Ring App (PayWithRing) and its sister brand Kissht is Si Creva Capital Services Private Limited, an RBI-registered Non-Banking Financial Company (NBFC-ND-SI). Certain credit lines may also be co-funded by partner institutional lenders like Poonawalla Fincorp or MAS Financial. All formal settlement negotiations, legal notices, and No Dues Certificates must be executed directly with the registered NBFC, not third-party recovery vendors.',
+            text: 'The primary regulated entity underwriting credit lines on the Ring App (PayWithRing) and its sister brand Kissht is Si Creva Capital Services Private Limited, an RBI-registered Non-Banking Financial Company (NBFC-ND-SI). Certain credit lines may also be co-funded by partner institutional lenders like Poonawalla Fincorp or MAS Financial. All formal settlement talks, legal notices, and No Dues Certificates must be executed directly with the registered NBFC, not third-party recovery vendors.',
           },
         },
         {
@@ -277,7 +277,7 @@ const jsonLdGraph = {
           name: 'How can I stop repeated NACH auto-debit bounce fees from Ring app?',
           acceptedAnswer: {
             '@type': 'Answer',
-            text: 'Borrowers can stop recurring NACH bounce penalties by exercising their statutory right under NPCI procedural guidelines to revoke or suspend the e-mandate directly through their destination bank branch or internet banking portal. Concurrently, during compromise settlement negotiations, legal counsel demands a 100% complete waiver of all accumulated bounce fees and penal interest under RBI Fair Lending Practice rules.',
+            text: 'Borrowers can stop recurring NACH bounce penalties by exercising their statutory right under NPCI procedural guidelines to revoke or suspend the e-mandate directly through their destination bank branch or internet banking portal. Concurrently, during compromise settlement talks, legal counsel demands a 100% complete waiver of all accumulated bounce fees and penal interest under RBI Fair Lending Practice rules.',
           },
         },
         {
@@ -325,7 +325,7 @@ const jsonLdGraph = {
           name: 'Within how many days must Ring App provide the No Dues Certificate after settlement?',
           acceptedAnswer: {
             '@type': 'Answer',
-            text: 'Under RBI Circular RBI/2023-24/60, regulated financial entities are legally obligated to release the formal No Dues Certificate (NDC) and update credit bureau records within 30 calendar days of receiving the full settlement amount. Failure to comply makes the lender liable to pay compensation of ₹5,000 per day of delay directly to the borrower.',
+            text: 'Under RBI Circular RBI/2023-24/60, regulated financial entities are legally obligated to release the formal No Dues Certificate (NDC) and update credit bureau records within 30 calendar days of receiving the full settlement amount. Failure to comply makes the lender liable to pay relief of ₹5,000 per day of delay directly to the borrower.',
           },
         },
       ],
@@ -359,7 +359,7 @@ export default function RingAppLoanDefaultSettlementPage() {
     { id: 'step-by-step-settlement-roadmap', title: '7. Step-by-Step Fintech Settlement Roadmap' },
     { id: 'section-25-pssa-lok-adalat-strategy', title: '8. Section 25 PSSA, Arbitration & Lok Adalat' },
     { id: 'sanction-letter-forensics-ndc-guarantee', title: '9. Sanction Letter Forensics & ₹0 NDC Mandate' },
-    { id: 'cibil-score-rehabilitation-strategy', title: '10. CIBIL Score Trajectory & 18-Month Recovery' },
+    { id: 'cibil-score-recovery-strategy', title: '10. CIBIL Score Trajectory & 18-Month Recovery' },
     { id: 'company-defense-section', title: '11. SettleLoans Legal Defense & Representation' },
     { id: 'faqs', title: '12. Frequently Asked Questions' },
   ];
@@ -368,7 +368,7 @@ export default function RingAppLoanDefaultSettlementPage() {
     {
       question: 'What is the Ring App (PayWithRing) loan settlement process and how does it work?',
       answer:
-        'The Ring App loan settlement process is a formal compromise mechanism governed by RBI Master Directions on Compromise Settlements. When a borrower defaults on a Ring digital credit line and the account crosses 90 days past due (NPA status), the lending NBFC (primarily Si Creva Capital Services Pvt Ltd or partner institutions) evaluates the unrecoverable debt. Through structured legal negotiations, the borrower and lender agree on a discounted lump-sum payment (typically 40% to 60% haircut on outstanding dues). Once remitted directly to the NBFC account, an authentic stamped No Dues Certificate is issued, closing the liability permanently.',
+        'The Ring App loan settlement process is a formal compromise mechanism governed by RBI Master Directions on Compromise Settlements. When a borrower defaults on a Ring digital credit line and the account crosses 90 days past due (NPA status), the lending NBFC (primarily Si Creva Capital Services Pvt Ltd or partner institutions) evaluates the unrecoverable debt. Through structured legal talks, the borrower and lender agree on a discounted lump-sum payment (typically 40% to 60% haircut on outstanding dues). Once remitted directly to the NBFC account, an authentic stamped No Dues Certificate is issued, closing the liability permanently.',
     },
     {
       question: 'How can I stop Ring app automated calling bots and recovery agent harassment?',
@@ -378,12 +378,12 @@ export default function RingAppLoanDefaultSettlementPage() {
     {
       question: 'Who is the underlying RBI-registered NBFC behind the Ring App?',
       answer:
-        'The primary regulated entity underwriting credit lines on the Ring App (PayWithRing) and its sister brand Kissht is Si Creva Capital Services Private Limited, an RBI-registered Non-Banking Financial Company (NBFC-ND-SI). Certain credit lines may also be co-funded by partner institutional lenders like Poonawalla Fincorp or MAS Financial. All formal settlement negotiations, legal notices, and No Dues Certificates must be executed directly with the registered NBFC, not third-party recovery vendors.',
+        'The primary regulated entity underwriting credit lines on the Ring App (PayWithRing) and its sister brand Kissht is Si Creva Capital Services Private Limited, an RBI-registered Non-Banking Financial Company (NBFC-ND-SI). Certain credit lines may also be co-funded by partner institutional lenders like Poonawalla Fincorp or MAS Financial. All formal settlement talks, legal notices, and No Dues Certificates must be executed directly with the registered NBFC, not third-party recovery vendors.',
     },
     {
       question: 'How can I stop repeated NACH auto-debit bounce fees from Ring app?',
       answer:
-        'Borrowers can stop recurring NACH bounce penalties by exercising their statutory right under NPCI procedural guidelines to revoke or suspend the e-mandate directly through their destination bank branch or internet banking portal. Concurrently, during compromise settlement negotiations, legal counsel demands a 100% complete waiver of all accumulated bounce fees and penal interest under RBI Fair Lending Practice rules.',
+        'Borrowers can stop recurring NACH bounce penalties by exercising their statutory right under NPCI procedural guidelines to revoke or suspend the e-mandate directly through their destination bank branch or internet banking portal. Concurrently, during compromise settlement talks, legal counsel demands a 100% complete waiver of all accumulated bounce fees and penal interest under RBI Fair Lending Practice rules.',
     },
     {
       question: 'What percentage of debt discount or haircut can you negotiate on a defaulted Ring loan?',
@@ -413,7 +413,7 @@ export default function RingAppLoanDefaultSettlementPage() {
     {
       question: 'Within how many days must Ring App provide the No Dues Certificate after settlement?',
       answer:
-        'Under RBI Circular RBI/2023-24/60, regulated financial entities are legally obligated to release the formal No Dues Certificate (NDC) and update credit bureau records within 30 calendar days of receiving the full settlement amount. Failure to comply makes the lender liable to pay compensation of ₹5,000 per day of delay directly to the borrower.',
+        'Under RBI Circular RBI/2023-24/60, regulated financial entities are legally obligated to release the formal No Dues Certificate (NDC) and update credit bureau records within 30 calendar days of receiving the full settlement amount. Failure to comply makes the lender liable to pay relief of ₹5,000 per day of delay directly to the borrower.',
     },
   ];
 
@@ -574,13 +574,13 @@ export default function RingAppLoanDefaultSettlementPage() {
                 <li className="flex items-start gap-2.5">
                   <CheckCircle2 className="w-4 h-4 text-[#1F5EFF] flex-shrink-0 mt-0.5" />
                   <span>
-                    <strong>Revoke NACH Mandates:</strong> Exercising your statutory right to cancel e-NACH mandates through your bank prevents repeated debit presentation penalties while debt negotiations are underway.
+                    <strong>Revoke NACH Mandates:</strong> Exercising your statutory right to cancel e-NACH mandates through your bank prevents repeated debit presentation penalties while debt talks are underway.
                   </span>
                 </li>
                 <li className="flex items-start gap-2.5">
                   <CheckCircle2 className="w-4 h-4 text-[#1F5EFF] flex-shrink-0 mt-0.5" />
                   <span>
-                    <strong>Realistic 40%–60% Haircut:</strong> Unsecured digital credit lines reaching Non-Performing Asset (NPA) status qualify for substantial principal debt waivers alongside complete cancellation of all penal interest and bounce charges.
+                    <strong>Realistic 40%–60% Haircut:</strong> Unsecured digital credit lines reaching Non-Performing Asset (NPA) status qualify for large principal debt waivers alongside complete cancellation of all penal interest and bounce charges.
                   </span>
                 </li>
                 <li className="flex items-start gap-2.5">
@@ -626,14 +626,14 @@ export default function RingAppLoanDefaultSettlementPage() {
                 <Clock className="w-4 h-4" />
                 <span>2. Delinquency Lifecycle &amp; DPD Milestones</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 Ring App Delinquency Lifecycle: DPD 1-30 to NPA Stage
-              </h2>
+              </h3>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
-                Si Creva Capital categorizes defaulted credit lines into progressive Days Past Due (DPD) stages. It operates under RBI IRACP norms and Ind AS 109 Expected Credit Loss frameworks. Understanding this aging process allows borrowers to time settlement negotiations for maximum financial relief.
+                Si Creva Capital categorizes defaulted credit lines into progressive Days Past Due (DPD) stages. It operates under RBI IRACP norms and Ind AS 109 Expected Credit Loss frameworks. Understanding this aging process allows borrowers to time settlement talks for maximum financial relief.
               </p>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
-                During the early delinquency window (DPD 1 to 60), the fintech platform utilizes aggressive digital follow-ups, interactive voice response (IVR) auto-dialers, and outsourced recovery calling. However, once the default crosses 90 consecutive days, the account is classified as a Non-Performing Asset (NPA). At this stage, Si Creva Capital is legally mandated to create balance-sheet capital provisioning. The economic incentive shifts from routine collection to capital recovery via structured compromise settlements.
+                During the early delinquency window (DPD 1 to 60), the fintech platform uses aggressive digital follow-ups, interactive voice response (IVR) auto-dialers, and outsourced recovery calling. However, once the default crosses 90 consecutive days, the account is classified as a Non-Performing Asset (NPA). At this stage, Si Creva Capital is legally mandated to create balance-sheet capital provisioning. The economic incentive shifts from routine collection to capital recovery via structured compromise settlements.
               </p>
 
               {/* Delinquency Stage Table */}
@@ -699,11 +699,11 @@ export default function RingAppLoanDefaultSettlementPage() {
                 <MessageSquareOff className="w-4 h-4" />
                 <span>3. Halting Harassment, Auto-Dialers &amp; NACH Penalties</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 How to Stop Ring App Calling Bots & NACH Bounces
-              </h2>
+              </h3>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
-                One of the most distressing aspects of defaulting on Ring App is the relentless barrage of automated communications. Digital lending platforms frequently deploy automated predictive dialers that trigger phone calls every 20 to 30 minutes from rotating virtual numbers. In many instances, outsourced agency personnel threaten to contact employer HR desks, message friends on social media, or circulate shaming notices to family members.
+                One of the most distressing aspects of defaulting on Ring App is the relentless barrage of automated notices. Digital lending platforms frequently deploy automated predictive dialers that trigger phone calls every 20 to 30 minutes from rotating virtual numbers. In many instances, outsourced agency personnel threaten to contact employer HR desks, message friends on social media, or circulate shaming notices to family members.
               </p>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 These aggressive tactics directly violate the <strong>RBI Digital Lending Guidelines (2022)</strong> and the <strong>RBI Master Directions on Recovery Agents</strong>. Regulated entities and their agents are strictly prohibited from accessing mobile contact lists, making persistent harassing calls, using abusive or threatening language, and contacting borrowers outside the statutory window of 08:00 AM to 07:00 PM.
@@ -716,19 +716,19 @@ export default function RingAppLoanDefaultSettlementPage() {
               </p>
               <div className="space-y-4 my-6">
                 <div className="p-4 bg-slate-50 border border-slate-200 rounded-xl">
-                  <h3 className="font-bold text-slate-900 text-sm mb-1">1. Cancel NACH Auto-Debits via Destination Bank</h3>
+                  <h4 className="font-bold text-slate-900 text-sm mb-1">1. Cancel NACH Auto-Debits via Destination Bank</h4>
                   <p className="text-xs text-slate-600 leading-relaxed">
                     Under NPCI circulars, every account holder possesses clear statutory rights. You have the right to instruct your bank in writing or via net banking to cancel or suspend the e-mandate registered to Si Creva Capital. This halts future bank bounce fees immediately.
                   </p>
                 </div>
                 <div className="p-4 bg-slate-50 border border-slate-200 rounded-xl">
-                  <h4 className="font-bold text-slate-900 text-sm mb-1">2. Issue a Formal Legal Cease-and-Desist Notice</h4>
+                  <h5 className="font-bold text-slate-900 text-sm mb-1">2. Issue a Formal Legal Cease-and-Desist Notice</h5>
                   <p className="text-xs text-slate-600 leading-relaxed">
-                    Serving a formal advocate notice to Si Creva Capital&apos;s Principal Nodal Officer mandates the immediate cessation of third-party calling bots and directs all communications exclusively to formal written email channels.
+                    Serving a formal advocate notice to Si Creva Capital&apos;s Principal Nodal Officer mandates the immediate cessation of third-party calling bots and directs all notices exclusively to formal written email channels.
                   </p>
                 </div>
                 <div className="p-4 bg-slate-50 border border-slate-200 rounded-xl">
-                  <h4 className="font-bold text-slate-900 text-sm mb-1">3. Escalate Violations to the RBI Ombudsman (CMS Portal)</h4>
+                  <h5 className="font-bold text-slate-900 text-sm mb-1">3. Escalate Violations to the RBI Ombudsman (CMS Portal)</h5>
                   <p className="text-xs text-slate-600 leading-relaxed">
                     Documenting call frequency, WhatsApp screenshots, and unauthorized contact attempts, and submitting them through the RBI Integrated Ombudsman portal (cms.rbi.org.in), compels the NBFC to enforce immediate compliance under threat of regulatory penalties.
                   </p>
@@ -742,14 +742,14 @@ export default function RingAppLoanDefaultSettlementPage() {
                 <Calculator className="w-4 h-4" />
                 <span>4. NPV Recovery Valuation &amp; Haircut Slabs</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 Si Creva Capital One-Time Settlement Valuation Matrix
-              </h2>
+              </h3>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Under the RBI Master Direction on Compromise Settlements and Technical Write-offs (DOR.STR.REC.20/21.04.048/2023-24), NBFCs must maintain transparent, board-approved compromise settlement frameworks. When evaluating settlement proposals for defaulted Ring app credit lines, Si Creva Capital applies an analytical Net Present Value (NPV) recovery formula.
               </p>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
-                Digital micro-credit lines carry zero collateral. Consequently, the NBFC evaluates an immediate lump-sum settlement offer against the uncertain present value of judicial recovery. After factoring in advocate retainers, court fees, and collection overhead, an OTS is often financially superior for the lender.
+                Digital micro-credit lines carry zero collateral. so, the NBFC evaluates an immediate lump-sum settlement offer against the uncertain present value of judicial recovery. After factoring in advocate retainers, court fees, and collection overhead, an OTS is often financially superior for the lender.
               </p>
 
               {/* NPV Formula Box */}
@@ -767,7 +767,7 @@ export default function RingAppLoanDefaultSettlementPage() {
               </div>
 
               {/* Haircut Slabs Table */}
-              <h3 className="text-lg font-bold text-slate-900 mb-3">Realistic Ring App Settlement Haircut Slabs by Delinquency Aging</h3>
+              <h4 className="text-lg font-bold text-slate-900 mb-3">Realistic Ring App Settlement Haircut Slabs by Delinquency Aging</h4>
               <div className="overflow-x-auto my-4">
                 <table className="min-w-full bg-white">
                   <thead>
@@ -785,14 +785,14 @@ export default function RingAppLoanDefaultSettlementPage() {
                       <td>90 – 180 Days (NPA)</td>
                       <td>100% Full Cancellation</td>
                       <td>30% – 45% Principal Waiver</td>
-                      <td>Offer 40%–50% of Utilized Principal</td>
+                      <td>Offer 40%–50% of used Principal</td>
                     </tr>
                     <tr>
                       <td className="font-bold text-slate-900">Ring Merchant Line / UPI Credit</td>
                       <td>181 – 365+ Days (Doubtful)</td>
                       <td>100% Full Cancellation</td>
                       <td>45% – 60% Principal Waiver</td>
-                      <td>Offer 35%–40% of Utilized Principal</td>
+                      <td>Offer 35%–40% of used Principal</td>
                     </tr>
                     <tr>
                       <td className="font-bold text-slate-900">Ring Personal Term Credit</td>
@@ -825,9 +825,9 @@ export default function RingAppLoanDefaultSettlementPage() {
                       <span className="text-[10px] font-black uppercase tracking-widest text-blue-300 block">
                         Legal Defense &amp; Action Blueprint
                       </span>
-                      <h3 className="text-sm md:text-base font-black text-white leading-tight">
+                      <h4 className="text-sm md:text-base font-black text-white leading-tight">
                         Ring App (PayWithRing) Loan Default &amp; Settlement Blueprint
-                      </h3>
+                      </h4>
                     </div>
                   </div>
                   <a
@@ -876,9 +876,9 @@ export default function RingAppLoanDefaultSettlementPage() {
                 <ShieldAlert className="w-4 h-4" />
                 <span>5. Statutory Protections &amp; Anti-Harassment Laws</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 Defending Against Aggressive Recovery Under RBI Law
-              </h2>
+              </h3>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Borrowers facing default often encounter unlawful recovery tactics from third-party collection agencies assigned by fintech platforms. Recovery agents may attempt to misrepresent civil default as a criminal offence, threatening arrest, police complaints, or visits by recovery squads. Under Indian law, genuine financial inability to service an unsecured loan cannot be converted into a criminal prosecution.
               </p>
@@ -886,7 +886,7 @@ export default function RingAppLoanDefaultSettlementPage() {
                 The Supreme Court of India in landmark precedents (including <em>ICICI Bank Ltd. v. Prakash Kaur</em> and <em>Anita Suresh v. Union of India</em>) has established that financial institutions and NBFCs cannot employ musclemen or extra-judicial intimidation for debt recovery. Under Section 354D, 503, and 506 of the Indian Penal Code (and corresponding provisions of the Bharatiya Nyaya Sanhita), criminal intimidation, cyber-stalking, and unauthorized harassment of family members constitute punishable criminal offences.
               </p>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
-                Furthermore, the Reserve Bank of India&apos;s Fair Practices Code mandates that: (a) Agents cannot contact borrowers outside the 08:00 AM to 07:00 PM window. (b) Access to contacts, photos, or media stored on borrower smartphones is strictly prohibited. (c) Any physical visit must be preceded by formal written notice and conducted strictly by IIBF-certified DRA personnel carrying valid authorization badges. (d) Shaming borrowers in front of family, neighbors, or workplace colleagues is an actionable regulatory violation.
+                also, the Reserve Bank of India&apos;s Fair Practices Code mandates that: (a) Agents cannot contact borrowers outside the 08:00 AM to 07:00 PM window. (b) Access to contacts, photos, or media stored on borrower smartphones is strictly prohibited. (c) Any physical visit must be preceded by formal written notice and conducted strictly by IIBF-certified DRA personnel carrying valid authorization badges. (d) Shaming borrowers in front of family, neighbors, or workplace colleagues is an actionable regulatory violation.
               </p>
             </section>
 
@@ -896,9 +896,9 @@ export default function RingAppLoanDefaultSettlementPage() {
                 <Layers className="w-4 h-4" />
                 <span>6. Step-by-Step Fintech Settlement Roadmap</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 Step-by-Step Guide: Settlement with Ring App &amp; Si Creva
-              </h2>
+              </h3>
               <p className="text-slate-700 leading-relaxed mb-6 text-base md:text-lg">
                 Executing a legally secure and cost-effective One-Time Settlement with Ring App requires a structured, evidence-backed strategy:
               </p>
@@ -906,77 +906,77 @@ export default function RingAppLoanDefaultSettlementPage() {
               <div className="space-y-6">
                 {/* Phase 1 */}
                 <div className="p-6 rounded-2xl bg-white border border-slate-200 shadow-sm">
-                  <h3 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
+                  <h4 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
                     <span className="w-7 h-7 rounded-lg bg-blue-50 text-[#1F5EFF] font-black text-sm flex items-center justify-center border border-blue-200">
                       1
                     </span>
                     Financial Hardship Audit &amp; Evidentiary Dossier Preparation
-                  </h3>
+                  </h4>
                   <p className="text-slate-600 text-sm md:text-base leading-relaxed">
-                    Compile comprehensive documentary evidence demonstrating bona fide financial incapacity. Relevant documents include pink slips or layoff notices, medical discharge summaries, business GST filings showing revenue declines, or bank statements showing depleted liquidity. This establishes that the default is non-wilful and qualifies for compromise relief under RBI rules.
+                    Compile comprehensive documentary evidence showing bona fide financial incapacity. Relevant documents include pink slips or layoff notices, medical discharge summaries, business GST filings showing revenue declines, or bank statements showing depleted liquidity. This establishes that the default is non-wilful and qualifies for compromise relief under RBI rules.
                   </p>
                 </div>
 
                 {/* Phase 2 */}
                 <div className="p-6 rounded-2xl bg-white border border-slate-200 shadow-sm">
-                  <h3 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
+                  <h4 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
                     <span className="w-7 h-7 rounded-lg bg-blue-50 text-[#1F5EFF] font-black text-sm flex items-center justify-center border border-blue-200">
                       2
                     </span>
-                    Revoking NACH Mandates &amp; Directing Communication Channels
-                  </h3>
+                    Revoking NACH Mandates &amp; Directing notice Channels
+                  </h4>
                   <p className="text-slate-600 text-sm md:text-base leading-relaxed">
-                    Submit an e-mandate cancellation request to your bank to stop automated debit presentation fees. Issue a formal notice to Si Creva Capital directing all communication to official written email channels or designated legal counsel, establishing an auditable paper trail.
+                    Submit an e-mandate cancellation request to your bank to stop automated debit presentation fees. Issue a formal notice to Si Creva Capital directing all notice to official written email channels or designated legal counsel, establishing an auditable paper trail.
                   </p>
                 </div>
 
                 {/* Phase 3 */}
                 <div className="p-6 rounded-2xl bg-white border border-slate-200 shadow-sm">
-                  <h3 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
+                  <h4 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
                     <span className="w-7 h-7 rounded-lg bg-blue-50 text-[#1F5EFF] font-black text-sm flex items-center justify-center border border-blue-200">
                       3
                     </span>
                     Submitting Formal Hardship Petition to NBFC Nodal Desk
-                  </h3>
+                  </h4>
                   <p className="text-slate-600 text-sm md:text-base leading-relaxed">
-                    Submit a structured compromise petition addressed to Si Creva Capital&apos;s Stressed Asset Settlement Committee. Cite RBI Master Directions and propose an opening settlement offer at 25% to 35% of total outstanding ledger dues to establish room for negotiation.
+                    Submit a structured compromise petition addressed to Si Creva Capital&apos;s Stressed Asset Settlement Committee. Cite RBI Master Directions and propose an opening settlement offer at 25% to 35% of total outstanding ledger dues to establish room for talks.
                   </p>
                 </div>
 
                 {/* Phase 4 */}
                 <div className="p-6 rounded-2xl bg-white border border-slate-200 shadow-sm">
-                  <h3 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
+                  <h4 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
                     <span className="w-7 h-7 rounded-lg bg-blue-50 text-[#1F5EFF] font-black text-sm flex items-center justify-center border border-blue-200">
                       4
                     </span>
-                    Counter-Negotiations &amp; Credit Committee Approval
-                  </h3>
+                    Counter-talks &amp; Credit Committee Approval
+                  </h4>
                   <p className="text-slate-600 text-sm md:text-base leading-relaxed">
-                    The NBFC will initially reject low offers and propose minor discounts. Experienced legal counsel counters by demonstrating that settlement funds are being pooled from third-party relatives or asset liquidation, steering the committee toward the target 40% to 60% principal waiver band.
+                    The NBFC will initially reject low offers and propose minor discounts. Experienced legal counsel counters by showing that settlement funds are being pooled from third-party relatives or asset liquidation, steering the committee toward the target 40% to 60% principal waiver band.
                   </p>
                 </div>
 
                 {/* Phase 5 */}
                 <div className="p-6 rounded-2xl bg-white border border-slate-200 shadow-sm">
-                  <h3 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
+                  <h4 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
                     <span className="w-7 h-7 rounded-lg bg-blue-50 text-[#1F5EFF] font-black text-sm flex items-center justify-center border border-blue-200">
                       5
                     </span>
                     Forensic Audit of the Stamped OTS Sanction Letter
-                  </h3>
+                  </h4>
                   <p className="text-slate-600 text-sm md:text-base leading-relaxed">
-                    Before making any payment, verify the settlement documentation carefully. Ensure the NBFC issues an official OTS Sanction Letter on Si Creva Capital letterhead. The letter must state your loan account numbers, sanctioned amount, payment deadlines, and covenants confirming full debt discharge and legal withdrawal.
+                    Before making any payment, verify the settlement records carefully. Ensure the NBFC issues an official OTS Sanction Letter on Si Creva Capital letterhead. The letter must state your loan account numbers, sanctioned amount, payment deadlines, and covenants confirming full debt discharge and legal withdrawal.
                   </p>
                 </div>
 
                 {/* Phase 6 */}
                 <div className="p-6 rounded-2xl bg-white border border-slate-200 shadow-sm">
-                  <h3 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
+                  <h4 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
                     <span className="w-7 h-7 rounded-lg bg-blue-50 text-[#1F5EFF] font-black text-sm flex items-center justify-center border border-blue-200">
                       6
                     </span>
                     Direct Account Remittance &amp; Enforcing ₹0 NDC Delivery
-                  </h3>
+                  </h4>
                   <p className="text-slate-600 text-sm md:text-base leading-relaxed">
                     Remit the agreed settlement funds directly into your designated loan account via RTGS/NEFT. Under RBI Circular RBI/2023-24/60, the NBFC is legally bound to deliver your No Dues Certificate and update credit bureaus within 30 calendar days.
                   </p>
@@ -990,20 +990,20 @@ export default function RingAppLoanDefaultSettlementPage() {
                 <Gavel className="w-4 h-4" />
                 <span>7. Section 25 PSSA, Arbitration &amp; Lok Adalat</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 Section 25 PSSA, Digital Arbitration & Lok Adalat
-              </h2>
+              </h3>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 When a Ring app credit line crosses 60 to 90 days of non-payment, the lending NBFC issues statutory notices. These notices fall under <strong>Section 25 of the Payment and Settlement Systems Act, 2007 (PSSA)</strong> for dishonoured NACH mandates. The lender may also issue notices invoking private digital arbitration in Mumbai or Delhi.
               </p>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
-                A Section 25 PSSA notice is a statutory precursor to a Magistrate Court complaint, not an arrest warrant. Responding through counsel within the 15-day statutory window detailing bona fide commercial hardship, challenging excessive penal fees, and opening compromise negotiations protects your legal standing while halting litigation escalation.
+                A Section 25 PSSA notice is a statutory precursor to a Magistrate Court complaint, not an arrest warrant. Responding through counsel within the 15-day statutory window detailing bona fide commercial hardship, challenging excessive penal fees, and opening compromise talks protects your legal standing while halting litigation escalation.
               </p>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
-                Regarding unilateral digital arbitration notices, landmark Supreme Court rulings (including <em>Perkins Eastman Architects DVM v. HSCC (India) Ltd.</em> and <em>TRF Ltd. v. Energo Engineering Projects Ltd.</em>) affirm that unilateral arbitrator appointments by lenders without mutual consent are legally invalid. Legal counsel can challenge arbitrator jurisdiction under Section 12 and Section 14 of the Arbitration and Conciliation Act, 1996, effectively halting ex-parte proceedings.
+                Regarding unilateral digital arbitration notices, landmark Supreme Court rulings (including <em>Perkins Eastman Architects DVM v. HSCC (India) Ltd.</em> and <em>TRF Ltd. v. Energo Engineering Projects Ltd.</em>) affirm that unilateral arbitrator appointments by lenders without mutual consent are legally invalid. Legal counsel can challenge arbitrator jurisdiction under Section 12 and Section 14 of the Arbitration and Conciliation Act, 1996, effectively halting ex-parte cases.
               </p>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
-                Additionally, Si Creva Capital regularly participates in quarterly National Lok Adalats organized by District Legal Services Authorities (DLSA) under the Legal Services Authorities Act, 1987. In Lok Adalat sessions, NBFC representatives carry pre-approved settlement mandates (often offering 45% to 60% debt waivers). The resulting settlement award holds the legal force of a binding Civil Court Decree with non-appealable finality, permanently dismissing all pending claims.
+                also, Si Creva Capital regularly participates in quarterly National Lok Adalats organized by District Legal Services Authorities (DLSA) under the Legal Services Authorities Act, 1987. In Lok Adalat sessions, NBFC agents carry pre-approved settlement mandates (often offering 45% to 60% debt waivers). The resulting settlement award holds the legal force of a binding Civil Court Decree with non-appealable finality, permanently dismissing all pending claims.
               </p>
 
               {/* Comparative Matrix Table */}
@@ -1042,7 +1042,7 @@ export default function RingAppLoanDefaultSettlementPage() {
                     </tr>
                     <tr>
                       <td className="font-bold text-slate-900">Section 25 / 138 Defense</td>
-                      <td>Magistrate court compoundable proceedings defense.</td>
+                      <td>Magistrate court compoundable cases defense.</td>
                       <td><strong>35% – 50% Debt Haircut</strong></td>
                       <td>2 to 6 Months</td>
                       <td>Formal withdrawal and case disposal.</td>
@@ -1058,9 +1058,9 @@ export default function RingAppLoanDefaultSettlementPage() {
                 <FileCheck className="w-4 h-4" />
                 <span>8. Sanction Letter Forensics &amp; ₹0 NDC Mandate</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 Authenticating Ring App Settlement Letters & ₹0 NDC
-              </h2>
+              </h3>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 A serious risk in digital debt recovery involves rogue collection agents issuing fake settlement letters or demanding cash / personal UPI transfers. If a borrower transfers funds against an unverified or verbal offer, the NBFC credits the money toward outstanding penal charges, leaving the default open and compounding.
               </p>
@@ -1068,19 +1068,19 @@ export default function RingAppLoanDefaultSettlementPage() {
                 Borrowers must verify that the OTS letter is printed on official Si Creva Capital Services letterhead. It must show the Corporate Identification Number (CIN: U65923MH2017PTC292497) and Mumbai office address. It must also include a unique proposal reference number, authorized signatory designation, employee code, and corporate seal.
               </p>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
-                The sanction letter must confirm that payment of the agreed sum discharges the account with zero further liability. Under RBI Circular RBI/2023-24/60, Si Creva Capital must deliver the No Dues Certificate (NDC) within 30 calendar days. It must also cancel all security mandates or pay statutory compensation of ₹5,000 per day of delay directly to the borrower.
+                The sanction letter must confirm that payment of the agreed sum discharges the account with zero further liability. Under RBI Circular RBI/2023-24/60, Si Creva Capital must deliver the No Dues Certificate (NDC) within 30 calendar days. It must also cancel all security mandates or pay statutory relief of ₹5,000 per day of delay directly to the borrower.
               </p>
             </section>
 
             {/* Section 10: CIBIL Score Trajectory & 18-Month Recovery */}
-            <section id="cibil-score-rehabilitation-strategy" className="scroll-mt-24 mb-12">
+            <section id="cibil-score-recovery-strategy" className="scroll-mt-24 mb-12">
               <div className="inline-flex items-center gap-2 text-xs font-bold text-[#1F5EFF] uppercase tracking-wider mb-2">
                 <TrendingUp className="w-4 h-4" />
-                <span>9. CIBIL Score Trajectory &amp; Rehabilitation</span>
+                <span>9. CIBIL Score Trajectory &amp; recovery</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 CIBIL Score Trajectory & 18-Month Recovery Plan
-              </h2>
+              </h3>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Settling with Ring App updates your status across all four credit bureaus (CIBIL, Experian, Equifax, CRIF High Mark). The account is marked <strong>&apos;Settled&apos;</strong> or <strong>&apos;Post-Write-off Settled&apos;</strong> with an outstanding balance of exactly <strong>₹0</strong>. While this causes an initial drop of 70 to 120 points, it halts compounding default charges.
               </p>
@@ -1088,7 +1088,7 @@ export default function RingAppLoanDefaultSettlementPage() {
                 Under RBI compromise directives, a mandatory 12-month cooling-off window applies before fresh unsecured credit lines can be approved. However, a &apos;Settled&apos; record with ₹0 balance is vastly superior to an active, compounding &apos;Default&apos; status that degrades credit scores every month and invites ongoing legal action.
               </p>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
-                Borrowers can systematically restore their credit score to 750+ within 18 to 24 months. You can secure a fixed-deposit-backed credit card (FD card) and maintain credit utilization below 25%. In addition, ensure on-time payment records on all living utilities and surviving financial obligations.
+                Borrowers can systematically restore their credit score to 750+ within 18 to 24 months. You can secure a fixed-deposit-backed credit card (FD card) and maintain credit use below 25%. In addition, ensure on-time payment records on all living utilities and surviving financial debts.
               </p>
             </section>
 
@@ -1098,11 +1098,11 @@ export default function RingAppLoanDefaultSettlementPage() {
                 <ShieldCheck className="w-4 h-4" />
                 <span>10. Legal Defense &amp; Representation</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 Why Distressed Ring App Borrowers Trust SettleLoans
-              </h2>
+              </h3>
               <p className="text-slate-700 leading-relaxed mb-6 text-base md:text-lg">
-                Resolving defaulted digital credit lines requires skilled advocacy. SettleLoans halts third-party harassment through immediate cease-and-desist notices. We defend against Section 25 PSSA summons and challenge unilateral arbitration notices. Furthermore, we negotiate directly with Si Creva Capital&apos;s Stressed Assets Desks to secure maximum lawful waivers and authentic ₹0 No Dues Certificates.
+                Resolving defaulted digital credit lines requires skilled advocacy. SettleLoans halts third-party harassment through immediate cease-and-desist notices. We defend against Section 25 PSSA summons and challenge unilateral arbitration notices. also, we negotiate directly with Si Creva Capital&apos;s Stressed Assets Desks to secure maximum lawful waivers and authentic ₹0 No Dues Certificates.
               </p>
 
               {/* Placement of Reusable CompanySection */}
@@ -1117,9 +1117,9 @@ export default function RingAppLoanDefaultSettlementPage() {
                 <HelpCircle className="w-4 h-4" />
                 <span>11. Frequently Asked Questions</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
                 FAQs: Ring App (PayWithRing) Loan Settlement
-              </h2>
+              </h3>
 
               <div className="space-y-4">
                 {faqs.map((faq, index) => (
@@ -1145,10 +1145,10 @@ export default function RingAppLoanDefaultSettlementPage() {
 
             {/* Regulatory References & Official Sources Strip */}
             <div className="bg-slate-50 border border-slate-200 rounded-2xl p-6 my-10">
-              <h3 className="text-base font-bold text-slate-900 mb-4 flex items-center gap-2">
+              <h4 className="text-base font-bold text-slate-900 mb-4 flex items-center gap-2">
                 <Landmark className="w-5 h-5 text-[#1F5EFF]" />
                 Official Regulatory References &amp; Statutory Circulars
-              </h3>
+              </h4>
               <ul className="space-y-3 text-xs text-slate-600">
                 <li className="flex items-start gap-2">
                   <ExternalLink className="w-4 h-4 text-[#1F5EFF] flex-shrink-0 mt-0.5" />
@@ -1210,10 +1210,10 @@ export default function RingAppLoanDefaultSettlementPage() {
 
             {/* Related Guides & Resources Strip (10 Topic Badges) */}
             <div className="bg-slate-50 border border-slate-200 rounded-2xl p-6 my-10">
-              <h3 className="text-base font-bold text-slate-900 mb-4 flex items-center gap-2">
+              <h4 className="text-base font-bold text-slate-900 mb-4 flex items-center gap-2">
                 <BookOpen className="w-5 h-5 text-[#1F5EFF]" />
                 Explore Related Banking &amp; Debt Resolution Guides
-              </h3>
+              </h4>
               <div className="flex flex-wrap gap-2.5">
                 <Link
                   href="/app-loan-settlement"
@@ -1302,7 +1302,7 @@ export default function RingAppLoanDefaultSettlementPage() {
                 </div>
               </div>
               <p className="text-xs text-slate-600 leading-relaxed mb-4">
-                Ashish has led over 1,200+ successful debt compromise negotiations across Ring App, Kissht, KreditBee, Bajaj Finance, and major NBFCs. He specializes in digital lending dispute resolution, Section 25 PSSA legal defense, and borrower advocacy under RBI Master Directions.
+                Ashish has led over 1,200+ successful debt compromise talks across Ring App, Kissht, KreditBee, Bajaj Finance, and major NBFCs. He specializes in digital lending dispute resolution, Section 25 PSSA legal defense, and borrower advocacy under RBI Master Directions.
               </p>
               <div className="pt-3 border-t border-slate-100 flex items-center justify-between text-xs font-semibold">
                 <Link href="/authors/ashish-jhangra" className="text-[#1F5EFF] hover:underline">
@@ -1319,7 +1319,7 @@ export default function RingAppLoanDefaultSettlementPage() {
               </div>
             </div>
 
-            {/* Card 2: Emergency Advocate Assistance CTA */}
+            {/* Card 2: Emergency Advocate help CTA */}
             <div className="bg-gradient-to-br from-[#1F5EFF] to-blue-700 text-white rounded-2xl p-6 shadow-lg">
               <div className="flex items-center gap-2 text-blue-100 text-xs font-bold uppercase tracking-wider mb-2">
                 <PhoneCall className="w-4 h-4" />

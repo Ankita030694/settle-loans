@@ -277,9 +277,9 @@ export default function FakeRecoveryAgentsPage() {
             </section>
 
             <section id="defining-agents" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
                 Who Are Recovery Agents? The Legal Definition
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 A recovery agent, also known as a collection agent, is an individual or an agency appointed by a bank or a Non-Banking Financial Company (NBFC) to assist in the recovery of dues from borrowers who have defaulted on their loan or credit card payments. These agents act as representatives of the financial institution.
               </p>
@@ -290,7 +290,7 @@ export default function FakeRecoveryAgentsPage() {
                 However, the reality on the ground is often different. Many small lending apps and unregulated entities hire 'tele-callers' who have no formal training and use aggressive scripts to intimidate borrowers. It is critical to understand that a genuine recovery agent is a professional who must follow a code of conduct. If they are not acting professionally, they are either a fake agent or a genuine agent violating the law.
               </p>
               <div className="bg-gray-50 p-8 rounded-xl border border-gray-200 mb-8">
-                <h3 className="text-xl font-bold mb-6 italic">Key Responsibilities of a Legal Agent:</h3>
+                <h4 className="text-xl font-bold mb-6 italic">Key Responsibilities of a Legal Agent:</h4>
                 <ul className="grid md:grid-cols-1 gap-4 text-sm font-medium">
                   <li className="flex items-start gap-4">
                     <span className="w-6 h-6 bg-[#1F5EFF] rounded-full flex items-center justify-center text-white shrink-0 text-xs">1</span>
@@ -313,33 +313,33 @@ export default function FakeRecoveryAgentsPage() {
             </section>
 
             <section id="rbi-guidelines" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
                 Mandatory RBI Guidelines: The Golden Rules for 2024-2025
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 The Reserve Bank of India has updated its "Master Circular on Outsource of Financial Services" to include very strict rules for recovery agents. These rules are designed to prevent the harassment and humiliation of borrowers. If an agent is breaking these rules, you can immediately conclude that they are either fraudulent or acting illegally.
               </p>
               <div className="space-y-6 mb-8">
                 <div className="p-6 bg-blue-50 rounded-xl border border-blue-100">
-                  <h3 className="font-bold text-blue-900 mb-2">Rule 1: Permissible Calling Hours</h3>
+                  <h4 className="font-bold text-blue-900 mb-2">Rule 1: Permissible Calling Hours</h4>
                   <p className="text-sm text-blue-800">
                     Agents are strictly allowed to call or visit only between 8:00 AM and 7:00 PM. Calls at midnight, early morning, or late at night are a serious violation of the RBI Fair Practice Code.
                   </p>
                 </div>
                 <div className="p-6 bg-blue-50 rounded-xl border border-blue-100">
-                  <h4 className="font-bold text-blue-900 mb-2">Rule 2: No Harassment or Intimidation</h4>
+                  <h5 className="font-bold text-blue-900 mb-2">Rule 2: No Harassment or Intimidation</h5>
                   <p className="text-sm text-blue-800">
                     Agents are prohibited from using foul or abusive language, making threats of violence, or engaging in any form of physical harm. They cannot use persistent calling that amounts to harassment.
                   </p>
                 </div>
                 <div className="p-6 bg-blue-50 rounded-xl border border-blue-100">
-                  <h4 className="font-bold text-blue-900 mb-2">Rule 3: Privacy and Third Party Contact</h4>
+                  <h5 className="font-bold text-blue-900 mb-2">Rule 3: Privacy and Third Party Contact</h5>
                   <p className="text-sm text-blue-800">
                     The RBI has made it clear that lenders cannot contact your colleagues, neighbors, or workplace to shaming you. Your financial distress is a private matter. They are not permitted to disclose your loan details to anyone other than the borrower and co-borrower.
                   </p>
                 </div>
                 <div className="p-6 bg-blue-50 rounded-xl border border-blue-100">
-                  <h4 className="font-bold text-blue-900 mb-2">Rule 4: Mandatory Notice of Assignment</h4>
+                  <h5 className="font-bold text-blue-900 mb-2">Rule 4: Mandatory Notice of Assignment</h5>
                   <p className="text-sm text-blue-800">
                     Before a recovery agent is allowed to contact you, the bank must send you a formal notice (via letter, SMS, or email) informing you that your case has been assigned to a specific recovery agency.
                   </p>
@@ -351,9 +351,9 @@ export default function FakeRecoveryAgentsPage() {
             </section>
 
             <section id="identify-genuine" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
                 How to Identify a Genuine Recovery Agent
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 When an agent visits your home or calls you, there are specific pieces of information they are legally required to provide. A genuine agent will never hesitate to show these documents, as they are part of their official duty.
               </p>
@@ -362,7 +362,7 @@ export default function FakeRecoveryAgentsPage() {
                   <div className="w-12 h-12 bg-green-100 rounded-lg flex items-center justify-center mb-4">
                     <svg className="w-6 h-6 text-green-600" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M9 12l2 2 4-4m5.618-4.016A11.955 11.955 0 0112 2.944a11.955 11.955 0 01-8.618 3.04A12.02 12.02 0 003 9c0 5.591 3.824 10.29 9 11.622 5.176-1.332 9-6.03 9-11.622 0-1.042-.133-2.052-.382-3.016z"></path></svg>
                   </div>
-                  <h3 className="text-xl font-bold mb-4">Official ID Card</h3>
+                  <h4 className="text-xl font-bold mb-4">Official ID Card</h4>
                   <p className="text-sm text-gray-600 leading-relaxed">
                     A real agent must carry an identity card issued by the agency and authorized by the bank. This ID card should have their photo, name, employee code, and the name of the agency they represent.
                   </p>
@@ -371,7 +371,7 @@ export default function FakeRecoveryAgentsPage() {
                   <div className="w-12 h-12 bg-green-100 rounded-lg flex items-center justify-center mb-4">
                     <svg className="w-6 h-6 text-green-600" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M11 5H6a2 2 0 00-2 2v11a2 2 0 002 2h11a2 2 0 002-2v-5m-1.414-9.414a2 2 0 112.828 2.828L11.828 15H9v-2.828l8.586-8.586z"></path></svg>
                   </div>
-                  <h3 className="text-xl font-bold mb-4">Authorization Letter</h3>
+                  <h4 className="text-xl font-bold mb-4">Authorization Letter</h4>
                   <p className="text-sm text-gray-600 leading-relaxed">
                     This is a formal letter from the bank addressed to the recovery agency, authorizing them to collect dues for your specific loan account. Without this letter, they have no legal right to talk to you.
                   </p>
@@ -383,9 +383,9 @@ export default function FakeRecoveryAgentsPage() {
             </section>
 
             <section id="fake-agent-flags" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
                 Red Flags: Spotting a Fake Agent Instantly
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 Scammers are becoming increasingly clever, but they always leave clues. If you notice any of these red flags, stop all communication and block the number immediately.
               </p>
@@ -426,29 +426,29 @@ export default function FakeRecoveryAgentsPage() {
             </section>
 
             <section id="common-scams" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
                 Common Recovery Scams in India
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 In recent years, several specific scams have emerged that target vulnerable borrowers. Being aware of these can save you from a major financial loss.
               </p>
               <div className="space-y-8">
                 <div className="bg-white p-8 rounded-2xl border border-[#DEDEDE] shadow-sm">
-                  <h3 className="text-2xl font-bold text-[#1F5EFF] mb-4">The "Discount" Scam</h3>
+                  <h4 className="text-2xl font-bold text-[#1F5EFF] mb-4">The "Discount" Scam</h4>
                   <p className="mb-4">
                     The scammer calls you and claims that your bank has offered a "one time settlement" at a massive discount, say 90% off. They ask you to pay a "processing fee" or the first installment into a "temporary collection account" to secure the deal. Once you pay, they disappear, and your actual bank has no record of any such offer.
                   </p>
                   <p className="text-sm text-gray-500 italic">Protect yourself: Always verify any settlement offer by visiting the bank branch or checking your official mobile app.</p>
                 </div>
                 <div className="bg-white p-8 rounded-2xl border border-[#DEDEDE] shadow-sm">
-                  <h3 className="text-2xl font-bold text-[#1F5EFF] mb-4">The Fake Lawyer Prank</h3>
+                  <h4 className="text-2xl font-bold text-[#1F5EFF] mb-4">The Fake Lawyer Prank</h4>
                   <p className="mb-4">
                     Someone calls claiming to be a "Senior Advocate" from the High Court. They use complex legal jargon and threaten you with "property attachment" if you don't pay immediately. In reality, lawyers do not call people to collect money; they send written legal notices.
                   </p>
                   <p className="text-sm text-gray-500 italic">Protect yourself: Ask for their Bar Council ID number and their law firm's address. Most scammers will hang up at this point.</p>
                 </div>
                 <div className="bg-white p-8 rounded-2xl border border-[#DEDEDE] shadow-sm">
-                  <h3 className="text-2xl font-bold text-[#1F5EFF] mb-4">The Loan App Extortion</h3>
+                  <h4 className="text-2xl font-bold text-[#1F5EFF] mb-4">The Loan App Extortion</h4>
                   <p className="mb-4">
                     Illegal Chinese-backed loan apps are famous for this. They access your contact list and threaten to send "morphed" photos to your family if you don't pay exorbitant interest. This is a criminal offense.
                   </p>
@@ -458,31 +458,31 @@ export default function FakeRecoveryAgentsPage() {
             </section>
 
             <section id="what-to-do-when-called" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
                 What to Do When a Recovery Agent Calls You
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6 font-bold text-center p-4 bg-blue-100 rounded-lg">
                 Follow this simple 4-step protocol to stay in control of the situation.
               </p>
               <div className="grid sm:grid-cols-2 md:grid-cols-4 gap-4 my-8">
                 <div className="bg-white p-5 rounded-xl border border-[#DEDEDE] shadow-sm text-center">
                   <div className="w-10 h-10 bg-blue-100 rounded-full flex items-center justify-center mx-auto mb-4 font-bold text-blue-600">1</div>
-                  <h3 className="font-bold text-[#2E2E2E] mb-2">Stay Calm</h3>
+                  <h4 className="font-bold text-[#2E2E2E] mb-2">Stay Calm</h4>
                   <p className="text-xs text-gray-500">Do not panic or get aggressive. Keep your voice steady.</p>
                 </div>
                 <div className="bg-white p-5 rounded-xl border border-[#DEDEDE] shadow-sm text-center">
                   <div className="w-10 h-10 bg-blue-100 rounded-full flex items-center justify-center mx-auto mb-4 font-bold text-blue-600">2</div>
-                  <h4 className="font-bold text-[#2E2E2E] mb-2">Record</h4>
+                  <h5 className="font-bold text-[#2E2E2E] mb-2">Record</h5>
                   <p className="text-xs text-gray-500">Turn on your call recorder. This is your best evidence.</p>
                 </div>
                 <div className="bg-white p-5 rounded-xl border border-[#DEDEDE] shadow-sm text-center">
                   <div className="w-10 h-10 bg-blue-100 rounded-full flex items-center justify-center mx-auto mb-4 font-bold text-blue-600">3</div>
-                  <h4 className="font-bold text-[#2E2E2E] mb-2">Identify</h4>
+                  <h5 className="font-bold text-[#2E2E2E] mb-2">Identify</h5>
                   <p className="text-xs text-gray-500">Ask for their name, employee ID, and agency details.</p>
                 </div>
                 <div className="bg-white p-5 rounded-xl border border-[#DEDEDE] shadow-sm text-center">
                   <div className="w-10 h-10 bg-blue-100 rounded-full flex items-center justify-center mx-auto mb-4 font-bold text-blue-600">4</div>
-                  <h4 className="font-bold text-[#2E2E2E] mb-2">Verify</h4>
+                  <h5 className="font-bold text-[#2E2E2E] mb-2">Verify</h5>
                   <p className="text-xs text-gray-500">Call the bank to confirm if the agent is authorized.</p>
                 </div>
               </div>
@@ -492,12 +492,12 @@ export default function FakeRecoveryAgentsPage() {
             </section>
 
             <section id="digital-shaming" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Illegal Digital Shaming: The New Threat</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Illegal Digital Shaming: The New Threat</h3>
               <p className="mb-6">
                 The rise of instant loan apps has brought a dark practice known as "digital shaming." This involves agents creating WhatsApp groups with your contacts, including your parents, spouse, or boss, and posting details of your debt along with your photo. Some even threaten to use "morphed" or inappropriate photos to embarrass you.
               </p>
               <div className="bg-[#2E2E2E] text-white p-8 rounded-2xl mb-8">
-                <h3 className="text-2xl font-bold mb-4">Crucial Fact: This is a Criminal Offense</h3>
+                <h4 className="text-2xl font-bold mb-4">Crucial Fact: This is a Criminal Offense</h4>
                 <p className="opacity-90 leading-relaxed mb-4">
                   Using your personal data to shame you is a violation of the Information Technology Act and the Indian Penal Code (IPC). The RBI has explicitly banned any form of social shaming. If this happens to you:
                 </p>
@@ -514,31 +514,31 @@ export default function FakeRecoveryAgentsPage() {
             </section>
 
             <section id="legal-shield" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Your Legal Shield: Rights Every Borrower Has</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Your Legal Shield: Rights Every Borrower Has</h3>
               <p className="mb-6 text-lg">
                 Even if you have defaulted on multiple payments, you have fundamental human and legal rights that are protected under Indian law. Understanding these rights is your best defense against harassment.
               </p>
               <div className="grid md:grid-cols-2 gap-8 mb-8">
                 <div className="bg-white p-6 rounded-xl border border-gray-100 shadow-sm hover:border-[#1F5EFF] transition-colors">
-                  <h3 className="text-xl font-bold mb-4">Right to Privacy</h3>
+                  <h4 className="text-xl font-bold mb-4">Right to Privacy</h4>
                   <p className="text-sm text-gray-600 leading-relaxed">
                     The bank cannot disclose your debt status to your neighbors, employers, or friends. They can only communicate with you or your legal representative.
                   </p>
                 </div>
                 <div className="bg-white p-6 rounded-xl border border-gray-100 shadow-sm hover:border-[#1F5EFF] transition-colors">
-                  <h3 className="text-xl font-bold mb-4">Right to Dignity</h3>
+                  <h4 className="text-xl font-bold mb-4">Right to Dignity</h4>
                   <p className="text-sm text-gray-600 leading-relaxed">
                     No recovery agent can use physical force or verbal abuse. You have the right to be treated with respect, regardless of your financial situation.
                   </p>
                 </div>
                 <div className="bg-white p-6 rounded-xl border border-gray-100 shadow-sm hover:border-[#1F5EFF] transition-colors">
-                  <h3 className="text-xl font-bold mb-4">Right to Proper Notice</h3>
+                  <h4 className="text-xl font-bold mb-4">Right to Proper Notice</h4>
                   <p className="text-sm text-gray-600 leading-relaxed">
                     A lender must provide you with a 60-day notice for secured loans and a reasonable notice period for unsecured loans before they can start the recovery process.
                   </p>
                 </div>
                 <div className="bg-white p-6 rounded-xl border border-gray-100 shadow-sm hover:border-[#1F5EFF] transition-colors">
-                  <h3 className="text-xl font-bold mb-4">Right to Complain</h3>
+                  <h4 className="text-xl font-bold mb-4">Right to Complain</h4>
                   <p className="text-sm text-gray-600 leading-relaxed">
                     You have an absolute right to file a formal grievance against any unfair practice. The bank is legally mandated to address your complaint within a set timeframe.
                   </p>
@@ -547,12 +547,12 @@ export default function FakeRecoveryAgentsPage() {
             </section>
 
             <section id="verify-credentials" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">How to Verify Recovery Agent Credentials</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">How to Verify Recovery Agent Credentials</h3>
               <p className="mb-6">
                 If you are unsure whether the agent is genuine, follow this verification checklist before you engage in any further discussion.
               </p>
               <div className="bg-blue-50 p-8 rounded-2xl border border-blue-100 mb-8">
-                <h3 className="text-2xl font-black text-[#2E2E2E] mb-6">Verification Checklist</h3>
+                <h4 className="text-2xl font-black text-[#2E2E2E] mb-6">Verification Checklist</h4>
                 <div className="space-y-4">
                   <div className="bg-white p-4 rounded-lg flex items-center justify-between">
                     <span className="font-bold">1. Check the SMS Header</span>
@@ -578,7 +578,7 @@ export default function FakeRecoveryAgentsPage() {
             </section>
 
             <section id="complaint-guide" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">How to File a Complaint Against Misconduct</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">How to File a Complaint Against Misconduct</h3>
               <p className="mb-6">
                 If you have been a victim of harassment or a fake agent, don't just stay silent. Taking action helps you and protects other innocent borrowers.
               </p>
@@ -605,12 +605,12 @@ export default function FakeRecoveryAgentsPage() {
             </section>
 
             <section id="rbi-ombudsman" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">The Role of the RBI Ombudsman</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">The Role of the RBI Ombudsman</h3>
               <p className="mb-6 text-lg">
                 The RBI Ombudsman is an independent person appointed by the Reserve Bank of India to resolve complaints against banks and NBFCs. This is a very powerful tool for the common citizen.
               </p>
               <div className="bg-emerald-50 p-8 rounded-2xl border border-emerald-100 mb-8">
-                <h3 className="text-xl font-bold text-emerald-800 mb-4 italic">When can you go to the Ombudsman?</h3>
+                <h4 className="text-xl font-bold text-emerald-800 mb-4 italic">When can you go to the Ombudsman?</h4>
                 <p className="mb-4 text-emerald-900/80">
                   You can approach the Ombudsman if you have filed a complaint with the bank and:
                 </p>
@@ -626,7 +626,7 @@ export default function FakeRecoveryAgentsPage() {
             </section>
 
             <section id="protecting-family" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Protecting Your Family and Workplace</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Protecting Your Family and Workplace</h3>
               <p className="mb-6">
                 The biggest fear most borrowers have is that the agent will show up at their office or talk to their elderly parents. This fear is exactly what scammers use as leverage.
               </p>
@@ -639,7 +639,7 @@ export default function FakeRecoveryAgentsPage() {
             </section>
 
             <section id="loan-settlement-safety" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Loan Settlement: A Safer Path Than Avoiding Debt</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Loan Settlement: A Safer Path Than Avoiding Debt</h3>
               <p className="mb-6">
                 Many people find themselves hounded by recovery agents because they have stopped communicating with the bank. While it feels easier to ignore the calls, it actually makes the situation worse. The bank assumes you have no intention of paying and hands over the file to aggressive agencies.
               </p>
@@ -647,7 +647,7 @@ export default function FakeRecoveryAgentsPage() {
                 The safer and more responsible path is <strong>Loan Settlement</strong>. This is a legal agreement where you pay the bank a reduced amount (often 30% to 50% of the total dues) and the bank closes the loan forever. This stops all recovery calls immediately and gives you a legal document (NOC) that proves you are no longer in debt.
               </p>
               <div className="bg-[#1F5EFF] text-white p-8 rounded-2xl mb-8 shadow-xl">
-                <h3 className="text-2xl font-bold mb-4 italic">Why Settlement Stops Harassment:</h3>
+                <h4 className="text-2xl font-bold mb-4 italic">Why Settlement Stops Harassment:</h4>
                 <ul className="space-y-3 opacity-90">
                   <li>✔ Once a settlement is agreed upon, the recovery mandate is withdrawn from the agency.</li>
                   <li>✔ You get a formal letter from the bank, which you can show to any agent who calls later by mistake.</li>
@@ -658,12 +658,12 @@ export default function FakeRecoveryAgentsPage() {
             </section>
 
             <section id="settleloans-role" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">How SettleLoans Protects You</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">How SettleLoans Protects You</h3>
               <p className="mb-6">
                 Dealing with banks and recovery agents is exhausting. Our mission at SettleLoans is to take that burden off your shoulders. We act as your legal shield and professional negotiator.
               </p>
               <div className="bg-white p-8 rounded-2xl border border-[var(--color-border)] shadow-sm">
-                <h3 className="text-2xl font-bold mb-6 text-[#2E2E2E]">What We Do for Our Clients:</h3>
+                <h4 className="text-2xl font-bold mb-6 text-[#2E2E2E]">What We Do for Our Clients:</h4>
                 <div className="space-y-6">
                   <div className="flex gap-4">
                     <div className="w-8 h-8 rounded-full bg-blue-100 flex items-center justify-center shrink-0">✔</div>
@@ -689,7 +689,7 @@ export default function FakeRecoveryAgentsPage() {
             </section>
 
             <section id="case-studies" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 text-center">Real Stories: Beating the Scammers</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 text-center">Real Stories: Beating the Scammers</h3>
               <div className="grid md:grid-cols-2 gap-6">
                 {[
                   {
@@ -719,7 +719,7 @@ export default function FakeRecoveryAgentsPage() {
                         {testimonial.name.charAt(0)}
                       </div>
                       <div>
-                        <h3 className="font-bold text-[#2E2E2E]">{testimonial.name}</h3>
+                        <h4 className="font-bold text-[#2E2E2E]">{testimonial.name}</h4>
                         <p className="text-xs text-gray-400">{testimonial.loc}</p>
                       </div>
                       <div className="ml-auto text-yellow-400 text-sm">★★★★★</div>
@@ -731,7 +731,7 @@ export default function FakeRecoveryAgentsPage() {
             </section>
 
             <section id="future-of-recovery" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">The Future of Safety in Debt Recovery</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">The Future of Safety in Debt Recovery</h3>
               <p className="mb-6">
                 The landscape of debt is changing. With AI and better digital tracking, the RBI is making it easier for citizens to report bad actors. The 'Chakshu' portal and the unified ombudsman scheme are huge steps toward a safer financial India.
               </p>
@@ -741,7 +741,7 @@ export default function FakeRecoveryAgentsPage() {
             </section>
 
             <section id="faqs" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Frequently Asked Questions</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Frequently Asked Questions</h3>
               <div className="space-y-4">
                 {[
                   { q: "Is it a crime to default on a loan in India?", a: "No. Defaulting on a loan is a civil matter, not a criminal one. However, if you have submitted fake documents or have a clear intent to defraud the bank (wilful default), it can become a criminal case. Regular default due to financial hardship is not a crime." },
@@ -778,7 +778,7 @@ export default function FakeRecoveryAgentsPage() {
             <div className="lg:hidden mt-16 mb-8">
               <div className="bg-[#2E2E2E] rounded-2xl shadow-xl overflow-hidden border border-[#1F5EFF]/20">
                 <div className="bg-[#1F5EFF] p-6 text-center text-white">
-                  <h3 className="text-2xl font-black mb-2 italic">Had Enough of the Calls?</h3>
+                  <h4 className="text-2xl font-black mb-2 italic">Had Enough of the Calls?</h4>
                   <p className="opacity-90 text-sm">Join thousands of Indians who have reclaimed their peace with SettleLoans.</p>
                 </div>
                 <div className="p-8 text-center text-[#DEDEDE]">

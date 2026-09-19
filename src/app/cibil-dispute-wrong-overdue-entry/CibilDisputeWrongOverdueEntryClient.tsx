@@ -377,9 +377,9 @@ export default function CibilDisputeWrongOverdueEntryClient() {
 
             {/* Section 2: The 4 Major Dispute Categories */}
             <section id="dispute-categories-breakdown" className="scroll-mt-28 mb-12">
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 2. The Four Major CIBIL Dispute Categories
-              </h2>
+              </h3>
               <p className="text-base leading-relaxed mb-4 text-slate-700">
                 Before initiating a formal dispute with TransUnion CIBIL, you must accurately categorize the nature of the reporting defect. Classifying the error correctly within CIBIL&apos;s automated intake portal determines whether the inquiry is routed to the originating lender&apos;s reconciliation team or flagged for specialized identity fraud investigation. In practice, retail reporting inaccuracies fall into four distinct operational classifications.
               </p>
@@ -392,9 +392,9 @@ export default function CibilDisputeWrongOverdueEntryClient() {
 
               {/* 4-Sided Bordered Comparison Table */}
               <div className="my-6">
-                <h3 className="text-sm font-bold text-slate-900 uppercase tracking-wider mb-2">
+                <h4 className="text-sm font-bold text-slate-900 uppercase tracking-wider mb-2">
                   CIBIL Error Classification &amp; Evidence Matrix
-                </h3>
+                </h4>
                 <div className="overflow-x-auto">
                   <table>
                     <thead>
@@ -438,9 +438,9 @@ export default function CibilDisputeWrongOverdueEntryClient() {
 
             {/* Section 3: CICRA 2005 & ₹100/Day RBI Compensation */}
             <section id="cicra-2005-rbi-regulations" className="scroll-mt-28 mb-12">
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 3. Statutory Framework: CICRA 2005 &amp; Mandatory ₹100/Day RBI Delay Compensation
-              </h2>
+              </h3>
               <p className="text-base leading-relaxed mb-4 text-slate-700">
                 For years, retail borrowers faced immense frustration when attempting to correct erroneous credit records, often encountering endless administrative finger-pointing between unresponsive bank grievance desks and credit bureaus. To eliminate this operational deadlock, the Reserve Bank of India enacted strict regulatory reforms through comprehensive Master Directions and circular <strong>RBI/2023-24/72</strong>, fundamentally shifting the balance of power in favor of the consumer.
               </p>
@@ -465,9 +465,9 @@ export default function CibilDisputeWrongOverdueEntryClient() {
 
             {/* Section 4: Step-by-Step Online Dispute Walkthrough */}
             <section id="online-cibil-dispute-process" className="scroll-mt-28 mb-12">
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 4. Step-by-Step Procedural Guide: Filing an Official Online CIBIL Dispute
-              </h2>
+              </h3>
               <p className="text-base leading-relaxed mb-4 text-slate-700">
                 Executing a formal dispute through TransUnion CIBIL requires meticulous adherence to standard procedural protocols. Initiating an informal customer support phone call or sending an unformatted email to generic support desks will not trigger the statutory 30-day CICRA clock. You must execute the dispute through CIBIL&apos;s regulated dispute intake portal using a verified report timestamp.
               </p>
@@ -490,9 +490,9 @@ export default function CibilDisputeWrongOverdueEntryClient() {
                     <span className="text-[10px] font-black uppercase tracking-widest text-blue-300 block">
                       Legal Defense &amp; Action Blueprint
                     </span>
-                    <h3 className="text-sm md:text-base font-black text-white leading-tight">
+                    <h4 className="text-sm md:text-base font-black text-white leading-tight">
                       CIBIL Dispute Resolution Summary &amp; Process Overview
-                    </h3>
+                    </h4>
                   </div>
                 </div>
                 <a
@@ -534,9 +534,9 @@ export default function CibilDisputeWrongOverdueEntryClient() {
 
             {/* Section 5: Rectifying Paid Loans with NDC Protocol */}
             <section id="paid-loans-marked-overdue" className="scroll-mt-28 mb-12">
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 5. Resolving Paid Loans Marked Overdue: The No Dues Certificate (NDC) Protocol
-              </h2>
+              </h3>
               <p className="text-base leading-relaxed mb-4 text-slate-700">
                 Among the most damaging clerical errors on a credit file is a fully cleared loan that remains marked as active, delinquent, or overdue. When a borrower completes their loan tenure or repays their outstanding dues in full, the lending bank&apos;s operations department is required to update its internal Core Banking System ledger to zero and generate a formal <strong>No Dues Certificate (NDC)</strong> or No Objection Certificate (NOC).
               </p>
@@ -550,9 +550,9 @@ export default function CibilDisputeWrongOverdueEntryClient() {
 
             {/* Section 6: Delinking Fraudulent PAN Loan Accounts */}
             <section id="fraudulent-loans-pan-theft" className="scroll-mt-28 mb-12">
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 6. Handling Fraudulent Loans &amp; Identity Theft on Your PAN
-              </h2>
+              </h3>
               <p className="text-base leading-relaxed mb-4 text-slate-700">
                 The rapid expansion of instant personal loan mobile applications and digital point-of-sale financing has triggered an alarming surge in synthetic identity theft across India. Cybercriminals frequently exploit leaked PAN card copies and forged Aadhaar documents to secure instant unsecured credit from digital NBFCs. Because the real victim is unaware of the transaction, no repayments are made, and the fraudulent loan eventually descends into sub-standard asset status, severely harming the victim&apos;s credit score.
               </p>
@@ -566,9 +566,9 @@ export default function CibilDisputeWrongOverdueEntryClient() {
 
             {/* Section 7: Settled vs. Written-Off Tagging Fixes */}
             <section id="settled-vs-written-off-status" className="scroll-mt-28 mb-12">
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 7. Settled vs. Written-Off vs. Closed: Correcting Status Code Mismatches
-              </h2>
+              </h3>
               <p className="text-base leading-relaxed mb-4 text-slate-700">
                 A critical area of credit confusion occurs when borrowers resolve an overdue credit facility through a formal <strong>One-Time Settlement (OTS)</strong>. When an OTS agreement is executed, the borrower and bank mutually agree on a compromised settlement figure that clears the debt in full. Upon payment of the agreed settlement sum, the borrower is legally discharged from all further financial liabilities, and the lender issues a final No Dues Certificate.
               </p>
@@ -582,9 +582,9 @@ export default function CibilDisputeWrongOverdueEntryClient() {
 
             {/* Section 8: Multi-Bureau Cross-Synchronization */}
             <section id="multi-bureau-synchronization" className="scroll-mt-28 mb-12">
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 8. Turnaround Times &amp; Multi-Bureau Synchronization Across India
-              </h2>
+              </h3>
               <p className="text-base leading-relaxed mb-4 text-slate-700">
                 A common misconception among borrowers is assuming that successfully rectifying an error on TransUnion CIBIL automatically updates their credit profile across all other credit rating agencies. In India, four separate credit information companies operate under independent RBI licenses: <strong>TransUnion CIBIL, Experian India, Equifax, and CRIF High Mark</strong>.
               </p>
@@ -598,18 +598,18 @@ export default function CibilDisputeWrongOverdueEntryClient() {
 
             {/* Section 9: Escalation Matrix: PNO to RBI CMS */}
             <section id="bank-nodal-rbi-ombudsman" className="scroll-mt-28 mb-12">
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 9. Three-Tier Escalation Matrix: Bank Nodal Officers to RBI Ombudsman
-              </h2>
+              </h3>
               <p className="text-base leading-relaxed mb-4 text-slate-700">
                 When frontline customer support channels fail to resolve an obvious reporting discrepancy within the mandatory 30-day statutory window, borrowers must activate the formal regulatory escalation matrix established by the Reserve Bank of India. Proceeding systematically through these administrative tiers ensures that your grievance receives senior executive oversight and creates a legally enforceable paper trail.
               </p>
 
               {/* 4-Sided Bordered Comparison Table: Escalation Matrix */}
               <div className="my-6">
-                <h3 className="text-sm font-bold text-slate-900 uppercase tracking-wider mb-2">
+                <h4 className="text-sm font-bold text-slate-900 uppercase tracking-wider mb-2">
                   Regulatory Escalation Hierarchy &amp; Enforcement Authority
-                </h3>
+                </h4>
                 <div className="overflow-x-auto">
                   <table>
                     <thead>
@@ -651,9 +651,9 @@ export default function CibilDisputeWrongOverdueEntryClient() {
 
             {/* Section 10: Post-Rectification Score Rebuilding Blueprint */}
             <section id="rebuilding-cibil-score" className="scroll-mt-28 mb-12">
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 10. Post-Rectification Credit Score Reconstruction Blueprint
-              </h2>
+              </h3>
               <p className="text-base leading-relaxed mb-4 text-slate-700">
                 Once TransUnion CIBIL concludes the dispute investigation and updates the erroneous overdue entry to &quot;Closed&quot; or &quot;Zero Overdue,&quot; your credit score will begin an immediate upward trajectory. However, fully restoring your score to prime territory (750+) requires deliberate financial management over the subsequent 6 to 12 months.
               </p>
@@ -670,9 +670,9 @@ export default function CibilDisputeWrongOverdueEntryClient() {
 
             {/* Section 11: Frequently Asked Questions */}
             <section id="faqs" className="scroll-mt-28 mb-12">
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 11. Frequently Asked Questions (FAQ)
-              </h2>
+              </h3>
               <p className="text-sm md:text-base leading-relaxed mb-6 text-slate-600">
                 Authoritative answers to the most common procedural, technical, and regulatory questions regarding CIBIL dispute resolution in India.
               </p>
@@ -692,10 +692,10 @@ export default function CibilDisputeWrongOverdueEntryClient() {
 
             {/* Regulatory Sources & References (Exactly 5 Links) */}
             <div className="bg-slate-50 border border-slate-200 rounded-2xl p-5 my-8">
-              <h3 className="text-xs md:text-sm font-bold uppercase tracking-wider text-slate-900 mb-3 flex items-center gap-2">
+              <h4 className="text-xs md:text-sm font-bold uppercase tracking-wider text-slate-900 mb-3 flex items-center gap-2">
                 <Landmark className="w-4 h-4 text-[#1F5EFF]" />
                 <span>Official Regulatory Sources &amp; Legal Authorities</span>
-              </h3>
+              </h4>
               <ul className="space-y-2 text-xs md:text-sm text-slate-600">
                 <li className="flex items-center gap-2">
                   <ExternalLink className="w-3.5 h-3.5 text-[#1F5EFF] flex-shrink-0" />
@@ -757,9 +757,9 @@ export default function CibilDisputeWrongOverdueEntryClient() {
 
             {/* Internal Topic Badges (10 Links) */}
             <div className="my-8 pt-6 border-t border-slate-200">
-              <h4 className="text-xs md:text-sm font-bold uppercase tracking-wider text-slate-900 mb-3">
+              <h5 className="text-xs md:text-sm font-bold uppercase tracking-wider text-slate-900 mb-3">
                 Related Debt Settlement &amp; Credit Protection Guides
-              </h4>
+              </h5>
               <div className="flex flex-wrap gap-2">
                 <Link
                   href="/check-cibil-defaulter-list"

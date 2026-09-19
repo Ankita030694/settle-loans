@@ -224,7 +224,7 @@ export default function FibeSettlementPage() {
             </section>
 
             <section id="nbfc-landscape" className="scroll-mt-24 mb-16">
-              <h2 className="text-3xl font-black text-slate-900 mb-6 uppercase tracking-tight">The NBFC Landscape: How Fibe Compares in 2026</h2>
+              <h3 className="text-3xl font-black text-slate-900 mb-6 uppercase tracking-tight">The NBFC Landscape: How Fibe Compares in 2026</h3>
               <p className="mb-6">
                 Understanding your position requires comparing Fibe's recovery model with other digital NBFCs and traditional lenders. In 2026, the 'Fintech Recovery Index' shows that digital-first lenders like Fibe are more agile but also more susceptible to 'Market Sentiment' than traditional banks like HDFC or ICICI.
               </p>
@@ -262,7 +262,7 @@ export default function FibeSettlementPage() {
             </section>
 
             <section id="grievance-framework" className="scroll-mt-24 mb-16">
-              <h2 className="text-3xl font-black text-[#FF9F00] mb-6 uppercase tracking-tight">The Grievance Redressal Framework</h2>
+              <h3 className="text-3xl font-black text-[#FF9F00] mb-6 uppercase tracking-tight">The Grievance Redressal Framework</h3>
               <p className="mb-6">
                 If you feel that Fibe has treated you unfairly or violated RBI norms, you have a multi-tier redressal path. In 2026, the 'Ombudsman 2.0' system is fully digital and integrated with the 'Integrated Grievance Management System'.
               </p>
@@ -272,7 +272,7 @@ export default function FibeSettlementPage() {
             </section>
 
             <section id="recovery-cycle" className="scroll-mt-24 mb-16">
-              <h2 className="text-3xl font-black text-slate-900 mb-6 uppercase tracking-tight">Seasonality of Recovery: When to Strike</h2>
+              <h3 className="text-3xl font-black text-slate-900 mb-6 uppercase tracking-tight">Seasonality of Recovery: When to Strike</h3>
               <p className="mb-6">
                  Debt recovery in India follows a seasonal rhythm that smart negotiators can exploit. In 2026, the 'Quarter-End Cleaning' is the best time for Fibe settlements. The last month of every financial quarter (June, September, December, and especially March) is when Fibe's teams have aggressive 'Recovery Targets' to hit.
               </p>
@@ -285,7 +285,7 @@ export default function FibeSettlementPage() {
             </section>
 
             <section id="app-harassment" className="scroll-mt-24 mb-16">
-              <h2 className="text-3xl font-black text-[#FF9F00] mb-6 uppercase tracking-tight">Stopping Digital and App-Based Harassment</h2>
+              <h3 className="text-3xl font-black text-[#FF9F00] mb-6 uppercase tracking-tight">Stopping Digital and App-Based Harassment</h3>
               <p className="mb-6">
                 One of the most challenging aspects of defaulting on a Fibe loan is the digital intensity of their recovery mechanism. From incessant app notifications to automated WhatsApp bots, the pressure can be overwhelming. In 2026, the 'Right to Digital Privacy' is a protected right in India.
               </p>
@@ -301,13 +301,13 @@ export default function FibeSettlementPage() {
             </section>
 
             <section id="documentation" className="scroll-mt-24 mb-16">
-              <h2 className="text-3xl font-black text-slate-900 mb-6 uppercase tracking-tight">The Documentation Barrier: Proving Technical Hardship</h2>
+              <h3 className="text-3xl font-black text-slate-900 mb-6 uppercase tracking-tight">The Documentation Barrier: Proving Technical Hardship</h3>
               <p className="mb-6">
                 Fibe's credit engines are data-driven, so your settlement approach must also be data-driven. A vague plea for help will be rejected by their automated systems. To secure a high waiver, we must build a 'Hardship Dossier' that is technically undeniable.
               </p>
               <div className="grid grid-cols-1 md:grid-cols-2 gap-8 mb-12">
                 <div className="bg-slate-50 p-6 rounded-3xl border border-slate-100">
-                  <h3 className="font-black text-slate-900 mb-4 uppercase text-xs tracking-widest">Financial Proofs</h3>
+                  <h4 className="font-black text-slate-900 mb-4 uppercase text-xs tracking-widest">Financial Proofs</h4>
                   <ul className="text-sm space-y-2 text-slate-600">
                     <li>• 6 Months Bank Statement showing zero balance</li>
                     <li>• Termination Letter or Business Loss Certificate</li>
@@ -315,7 +315,7 @@ export default function FibeSettlementPage() {
                   </ul>
                 </div>
                 <div className="bg-slate-50 p-6 rounded-3xl border border-slate-100">
-                  <h4 className="font-black text-slate-900 mb-4 uppercase text-xs tracking-widest">Legal & Medical Proofs</h4>
+                  <h5 className="font-black text-slate-900 mb-4 uppercase text-xs tracking-widest">Legal & Medical Proofs</h5>
                   <ul className="text-sm space-y-2 text-slate-600">
                     <li>• Medical bills for chronic or sudden illness</li>
                     <li>• Death certificate of the primary earner</li>
@@ -329,9 +329,9 @@ export default function FibeSettlementPage() {
             </section>
 
             <section id="settlement-triggers" className="scroll-mt-24 mb-16">
-              <h2 className="text-3xl font-black text-[#FF9F00] mb-6 uppercase tracking-tight">
+              <h3 className="text-3xl font-black text-[#FF9F00] mb-6 uppercase tracking-tight">
                 When Does Fibe Agree to an OTS?
-              </h2>
+              </h3>
               <p className="mb-6">
                 Timing is everything in digital loan settlement. Fibe typically won't discuss a settlement if you have just missed one EMI. They have a structured 'Recovery Lifecycle' that we have decoded over thousands of successful cases:
               </p>
@@ -361,20 +361,20 @@ export default function FibeSettlementPage() {
             </section>
 
             <section id="success-stories" className="scroll-mt-24 mb-16">
-              <h2 className="text-3xl font-black text-slate-900 mb-6 uppercase tracking-tight">Case Studies: Real Fibe Settlement Results</h2>
+              <h3 className="text-3xl font-black text-slate-900 mb-6 uppercase tracking-tight">Case Studies: Real Fibe Settlement Results</h3>
               <p className="mb-6">
                 To understand how SettleLoans delivers value, let us examine real-world cases from our 2024 to 2026 track record. These examples show the diversity of Fibe debt and the customized strategies required to resolve them.
               </p>
               <div className="space-y-8 mb-12">
                 <div className="border-l-4 border-[#FF9F00] pl-6 py-2">
-                  <h3 className="font-black text-xl mb-2 text-slate-900">Case 1: The Job Loss Crisis</h3>
+                  <h4 className="font-black text-xl mb-2 text-slate-900">Case 1: The Job Loss Crisis</h4>
                   <p className="text-sm italic mb-4">Total Dues: 1.8 Lakhs | Duration of Default: 120 Days | Client: Software Engineer</p>
                   <p className="text-sm">
                     After a sudden layoff, the client was inundated with automated recovery messages. We stepped in, halted the digital harassment, and negotiated based on the 'Unemployment Hardship' clause. Result: Settled for 65,000 rupees (63% waiver) with a 2-month payment window.
                   </p>
                 </div>
                 <div className="border-l-4 border-slate-300 pl-6 py-2">
-                  <h4 className="font-black text-xl mb-2 text-slate-900">Case 2: The Medical Emergency</h4>
+                  <h5 className="font-black text-xl mb-2 text-slate-900">Case 2: The Medical Emergency</h5>
                   <p className="text-sm italic mb-4">Total Dues: 3.2 Lakhs | Duration of Default: 180 Days | Client: Marketing Professional</p>
                   <p className="text-sm">
                      The client had two active Fibe loans when a family medical crisis occurred. We used the 'Consolidated Settlement' approach. By proving that the medical expenses had exhausted the client's liquidity, we secured a one-time payment of 1.1 Lakhs. Result: 65% reduction and immediate account closure.
@@ -384,7 +384,7 @@ export default function FibeSettlementPage() {
             </section>
 
             <section id="ethics" className="scroll-mt-24 mb-16">
-              <h2 className="text-3xl font-black text-slate-900 mb-6 uppercase tracking-tight">The Ethics of Settlement: Why Resolving Fibe Debt is Right</h2>
+              <h3 className="text-3xl font-black text-slate-900 mb-6 uppercase tracking-tight">The Ethics of Settlement: Why Resolving Fibe Debt is Right</h3>
               <p className="mb-6">
                 Many borrowers feel a sense of guilt when they cannot pay back their full loan. In 2026, it is important to understand the 'Commercial Ethics' of digital lending. Fibe's business model is built on risk; they charge higher interest rates because they know a certain percentage of loans will eventually default.
               </p>
@@ -394,7 +394,7 @@ export default function FibeSettlementPage() {
             </section>
 
             <section id="app-repayment" className="scroll-mt-24 mb-16">
-              <h2 className="text-3xl font-black text-[#FF9F00] mb-6 uppercase tracking-tight">Managing the Fibe App During Default</h2>
+              <h3 className="text-3xl font-black text-[#FF9F00] mb-6 uppercase tracking-tight">Managing the Fibe App During Default</h3>
               <p className="mb-6">
                 In 2026, your smartphone is the primary recovery tool for Fibe. Their app is a powerful portal that can track your behavior and trigger automated recovery workflows.
               </p>
@@ -404,19 +404,19 @@ export default function FibeSettlementPage() {
             </section>
 
             <section id="negotiation" className="scroll-mt-24 mb-16">
-              <h2 className="text-3xl font-black text-[#FF9F00] mb-6 uppercase tracking-tight">The SettleLoans Negotiation Strategy for Fibe OTS</h2>
+              <h3 className="text-3xl font-black text-[#FF9F00] mb-6 uppercase tracking-tight">The SettleLoans Negotiation Strategy for Fibe OTS</h3>
               <p className="mb-6">
                 Negotiating with Fibe is not a single event; it is a multi-layered process. Because Fibe's first line of recovery is automated, the initial response to your settlement offer might be a 'System-Generated Rejection'. This is normal. We don't stop there.
               </p>
               <div className="space-y-8 mb-12">
                 <div className="border-l-4 border-[#FF9F00] pl-6 py-2">
-                  <h3 className="font-black text-xl mb-2 text-slate-900">Phase 1: Breaking the Automated Loop</h3>
+                  <h4 className="font-black text-xl mb-2 text-slate-900">Phase 1: Breaking the Automated Loop</h4>
                   <p className="text-sm">
                     We bypass the standard customer care and recovery agencies. We reach out directly to the 'Special Cases' or 'Settlement Core' team at Social Worth Technologies. We present your 'Hardship Dossier' and demand a manual review of your account.
                   </p>
                 </div>
                 <div className="border-l-4 border-slate-300 pl-6 py-2">
-                  <h4 className="font-black text-xl mb-2 text-slate-900">Phase 2: Anchoring the Offer</h4>
+                  <h5 className="font-black text-xl mb-2 text-slate-900">Phase 2: Anchoring the Offer</h5>
                   <p className="text-sm">
                     We start the negotiation at a strategically low anchor, typically 25% to 30% of the total dues. By showing that this is the 'Absolute Maximum Liquidity' you have, we force the lender to consider the risk of 100% loss versus a 30% recovery.
                   </p>
@@ -425,7 +425,7 @@ export default function FibeSettlementPage() {
             </section>
 
             <section id="multi-tier-settlement" className="scroll-mt-24 mb-16">
-              <h2 className="text-3xl font-black text-slate-900 mb-6 uppercase tracking-tight italic">Multi-Tier Settlement: Beyond Single OTS</h2>
+              <h3 className="text-3xl font-black text-slate-900 mb-6 uppercase tracking-tight italic">Multi-Tier Settlement: Beyond Single OTS</h3>
               <p className="mb-6">
                 In complex cases where a borrower has multiple loans with Fibe or their partner banks, we use a 'Multi-Tier Settlement' framework. This involves identifying the 'High-Risk' accounts first and settling them to prevent further legal escalation, while using the remaining liquidity to negotiate 'Bulk Waivers' for the secondary accounts.
               </p>
@@ -435,7 +435,7 @@ export default function FibeSettlementPage() {
             </section>
 
             <section id="future-outlook-fibe" className="scroll-mt-24 mb-16">
-              <h2 className="text-3xl font-black text-[#FF9F00] mb-6 uppercase tracking-tight">The Future of Digital Resolution: Ahead of 2026</h2>
+              <h3 className="text-3xl font-black text-[#FF9F00] mb-6 uppercase tracking-tight">The Future of Digital Resolution: Ahead of 2026</h3>
               <p className="mb-6">
                  The landscape of digital lending is shifting toward 'Programmable Credit'. While this sounds intimidating, it also means that your recovery and settlement are becoming more predictable. SettleLoans is already utilizing AI-driven 'Settlement Probability Engines' that analyze thousands of past Fibe rulings and internal policies to predict the exact percentage they will agree to.
               </p>
@@ -444,7 +444,7 @@ export default function FibeSettlementPage() {
               </p>
             </section>
             <section id="closure" className="scroll-mt-24 mb-16">
-              <h2 className="text-3xl font-black text-slate-900 mb-6 uppercase tracking-tight">Closing the Loan: The 'No Dues Certificate' Protocol</h2>
+              <h3 className="text-3xl font-black text-slate-900 mb-6 uppercase tracking-tight">Closing the Loan: The 'No Dues Certificate' Protocol</h3>
               <p className="mb-6">
                  Paying the money is only half the battle. Without proper closure documentation, Fibe's automated systems might still show your account as 'Delinquent'. In 2026, the 'Settlement Closure' must be error-free.
               </p>
@@ -454,7 +454,7 @@ export default function FibeSettlementPage() {
             </section>
 
             <section id="digital-arbitration" className="scroll-mt-24 mb-16">
-              <h2 className="text-3xl font-black text-slate-900 mb-6 uppercase tracking-tight italic">Digital Arbitration: The Fibe Legal Frontier</h2>
+              <h3 className="text-3xl font-black text-slate-900 mb-6 uppercase tracking-tight italic">Digital Arbitration: The Fibe Legal Frontier</h3>
               <p className="mb-6">
                 Fibe often includes 'Digital Arbitration' clauses in their loan agreements. In 2026, many of these proceedings happen virtually. If you receive a notice for an online arbitration hearing, do not ignore it. These are legally binding under the Arbitration and Conciliation Act.
               </p>
@@ -464,7 +464,7 @@ export default function FibeSettlementPage() {
             </section>
 
             <section id="deceased-borrower-fibe" className="scroll-mt-24 mb-16">
-              <h2 className="text-3xl font-black text-[#FF9F00] mb-6 uppercase tracking-tight">Protocols for Deceased Borrowers: Managing Fibe Debt</h2>
+              <h3 className="text-3xl font-black text-[#FF9F00] mb-6 uppercase tracking-tight">Protocols for Deceased Borrowers: Managing Fibe Debt</h3>
               <p className="mb-6">
                  In the unfortunate event of a borrower's demise, Fibe's recovery engines do not automatically stop. Legal heirs often find themselves harassed by automated messages sent to the deceased's phone.
               </p>
@@ -474,7 +474,7 @@ export default function FibeSettlementPage() {
             </section>
 
             <section id="cibil-recovery" className="scroll-mt-24 mb-16">
-              <h2 className="text-3xl font-black text-slate-900 mb-6 uppercase tracking-tight">CIBIL Recovery After Fibe Settlement</h2>
+              <h3 className="text-3xl font-black text-slate-900 mb-6 uppercase tracking-tight">CIBIL Recovery After Fibe Settlement</h3>
               <p className="mb-6">
                 A common misconception is that a settlement will ruin your credit score forever. In 2026, this is simply not true. While a 'Settled' tag will stay on your report, it is far better than an 'Active Default'.
               </p>
@@ -484,7 +484,7 @@ export default function FibeSettlementPage() {
             </section>
 
             <section id="digital-forensics" className="scroll-mt-24 mb-16">
-              <h2 className="text-3xl font-black text-slate-900 mb-6 uppercase tracking-tight">Digital Recovery Forensics: Deciphering the Fibe Algorithm</h2>
+              <h3 className="text-3xl font-black text-slate-900 mb-6 uppercase tracking-tight">Digital Recovery Forensics: Deciphering the Fibe Algorithm</h3>
               <p className="mb-6">
                 In 2026, Fibe's recovery is not just about human calls; it is about 'Recovery Scoring'. Every time you click a link in an SMS, every time you open the app, and Every time you interact with their WhatsApp bot, you are feeding data into their 'Propensity to Pay' model.
               </p>
@@ -497,7 +497,7 @@ export default function FibeSettlementPage() {
             </section>
 
             <section id="data-cleansing" className="scroll-mt-24 mb-16">
-              <h2 className="text-3xl font-black text-[#FF9F00] mb-6 uppercase tracking-tight italic">Post-Settlement Data Cleansing: Reclaiming Your Digital Identity</h2>
+              <h3 className="text-3xl font-black text-[#FF9F00] mb-6 uppercase tracking-tight italic">Post-Settlement Data Cleansing: Reclaiming Your Digital Identity</h3>
               <p className="mb-6">
                  The most overlooked part of settling with a fintech like Fibe is the 'Data Tail'. Even after you pay the settlement, your data—contacts, location history, and behavioral profile—may remain in their lakes.
               </p>
@@ -507,7 +507,7 @@ export default function FibeSettlementPage() {
             </section>
 
             <section id="conglomerate-negotiation" className="scroll-mt-24 mb-16">
-              <h2 className="text-3xl font-black text-slate-900 mb-6 uppercase tracking-tight">Multi-Lender Conglomerate Negotiation</h2>
+              <h3 className="text-3xl font-black text-slate-900 mb-6 uppercase tracking-tight">Multi-Lender Conglomerate Negotiation</h3>
               <p className="mb-6">
                  Many Fibe borrowers are 'Digital Multi-Borrowers' with loans from KreditBee, MoneyTap, and Casper too. In 2026,These lenders often share the same 'Investor Ecosystem'.
               </p>
@@ -516,7 +516,7 @@ export default function FibeSettlementPage() {
               </p>
             </section>
             <section id="tax-implications" className="scroll-mt-24 mb-16">
-              <h2 className="text-3xl font-black text-slate-900 mb-6 uppercase tracking-tight">Tax Implications of Fibe Loan Waiver</h2>
+              <h3 className="text-3xl font-black text-slate-900 mb-6 uppercase tracking-tight">Tax Implications of Fibe Loan Waiver</h3>
               <p className="mb-6">
                  When Fibe waives a significant portion of your debt, say 2 Lakhs, this technically counts as 'Income from Other Sources' under the Income Tax Act. In 2026, the 'Automated Tax Reconciliation' systems can detect these waivers through the 26AS statement.
               </p>
@@ -526,7 +526,7 @@ export default function FibeSettlementPage() {
             </section>
 
             <section id="psychological-recovery" className="scroll-mt-24 mb-16">
-              <h2 className="text-3xl font-black text-[#FF9F00] mb-6 uppercase tracking-tight">The Psychological Recovery Roadmap</h2>
+              <h3 className="text-3xl font-black text-[#FF9F00] mb-6 uppercase tracking-tight">The Psychological Recovery Roadmap</h3>
               <p className="mb-6">
                  Debt is not just financial; it's emotional. The constant pings of the Fibe app and the threat of legal action can cause chronic stress. In 2026, we recognize 'Financial Trauma' as a real condition.
               </p>
@@ -535,7 +535,7 @@ export default function FibeSettlementPage() {
               </p>
             </section>
             <section id="credit-utilization" className="scroll-mt-24 mb-16">
-              <h2 className="text-3xl font-black text-slate-900 mb-6 uppercase tracking-tight italic">The Credit Utilization Impact of Fibe Debt</h2>
+              <h3 className="text-3xl font-black text-slate-900 mb-6 uppercase tracking-tight italic">The Credit Utilization Impact of Fibe Debt</h3>
               <p className="mb-6">
                  In the 2026 credit scoring algorithms, 'Credit Utilization' is a critical factor. High-frequency loans like those from Fibe often inflate your 'Utilization Ratio', which can drag down your score even if you are making partial payments.
               </p>
@@ -545,7 +545,7 @@ export default function FibeSettlementPage() {
             </section>
 
             <section id="regulatory-impact" className="scroll-mt-24 mb-16">
-              <h2 className="text-3xl font-black text-slate-900 mb-6 uppercase tracking-tight">The 2026 Digital Lending Regulatory Impact</h2>
+              <h3 className="text-3xl font-black text-slate-900 mb-6 uppercase tracking-tight">The 2026 Digital Lending Regulatory Impact</h3>
               <p className="mb-6">
                  The Reserve Bank of India's recent focus on 'Asset-Liability Management' in Fintechs has made lenders like Fibe more accountable for their 'Unsecured Exposure'. In 2026, the 'Securitization of Digital Assets' is a common practice where Fibe sells bundles of loans to larger institutions.
               </p>
@@ -557,7 +557,7 @@ export default function FibeSettlementPage() {
               </p>
             </section>
             <section id="global-context" className="scroll-mt-24 mb-16">
-              <h2 className="text-3xl font-black text-[#FF9F00] mb-6 uppercase tracking-tight">Global Context: Digital Lending in the Post-2025 Era</h2>
+              <h3 className="text-3xl font-black text-[#FF9F00] mb-6 uppercase tracking-tight">Global Context: Digital Lending in the Post-2025 Era</h3>
               <p className="mb-6">
                 The challenges you face with Fibe are not unique to India. In 2026, the global fintech ecosystem has seen similar 'Instant Credit' booms and their subsequent recovery cycles in markets like Brazil, Nigeria, and Southeast Asia.
               </p>
@@ -567,7 +567,7 @@ export default function FibeSettlementPage() {
             </section>
 
             <section id="reviews" className="scroll-mt-24 mb-16">
-                <h2 className="text-3xl font-black text-[#FF9F00] mb-12 uppercase tracking-tight">Success Stories: Beating the Algo</h2>
+                <h3 className="text-3xl font-black text-[#FF9F00] mb-12 uppercase tracking-tight">Success Stories: Beating the Algo</h3>
                 <div className="grid grid-cols-1 md:grid-cols-2 gap-8">
                   {[
                     {
@@ -611,7 +611,7 @@ export default function FibeSettlementPage() {
                       <p className="text-lg opacity-80 leading-relaxed mb-8 font-light italic text-slate-700">"{review.text}"</p>
                       <div className="flex justify-between items-end">
                         <div>
-                          <h3 className="font-black text-slate-900 leading-tight">{review.name}</h3>
+                          <h4 className="font-black text-slate-900 leading-tight">{review.name}</h4>
                           <p className="text-sm opacity-50 uppercase tracking-widest text-slate-500">{review.location}</p>
                         </div>
                         <div className="text-right">
@@ -625,34 +625,34 @@ export default function FibeSettlementPage() {
             </section>
 
             <section id="faqs" className="scroll-mt-24 mb-16">
-              <h2 className="text-3xl font-black text-slate-900 mb-8 uppercase tracking-tight">Fibe Settlement FAQs</h2>
+              <h3 className="text-3xl font-black text-slate-900 mb-8 uppercase tracking-tight">Fibe Settlement FAQs</h3>
               <div className="space-y-6">
                 <div className="border-b border-slate-100 pb-6">
-                   <h3 className="font-bold text-slate-800 mb-3">Is Fibe loan settlement legal?</h3>
+                   <h4 className="font-bold text-slate-800 mb-3">Is Fibe loan settlement legal?</h4>
                    <p className="text-slate-600">Yes, it is a perfectly legal contract between you and Fibe to discharge the debt for a lower amount. It is recognized under the Indian Contract Act.</p>
                 </div>
                 <div className="border-b border-slate-100 pb-6">
-                   <h3 className="font-bold text-slate-800 mb-3">Will Fibe stop calling my contacts if I settle?</h3>
+                   <h4 className="font-bold text-slate-800 mb-3">Will Fibe stop calling my contacts if I settle?</h4>
                    <p className="text-slate-600">They should have never been calling your contacts in the first place, as per RBI norms. Once a settlement is initiated via SettleLoans, we ensure all unauthorized communication stops immediately.</p>
                 </div>
                 <div className="border-b border-slate-100 pb-6">
-                   <h3 className="font-bold text-slate-800 mb-3">How much waiver can I expect from Fibe?</h3>
+                   <h4 className="font-bold text-slate-800 mb-3">How much waiver can I expect from Fibe?</h4>
                    <p className="text-slate-600">Typically, for loans in default for more than 90 days, you can expect a waiver of 30% to 70% on the total outstanding amount, depending on your financial hardship documentation.</p>
                 </div>
                 <div className="border-b border-slate-100 pb-6">
-                   <h3 className="font-bold text-slate-800 mb-3">Does Fibe use Lok Adalat for recovery?</h3>
+                   <h4 className="font-bold text-slate-800 mb-3">Does Fibe use Lok Adalat for recovery?</h4>
                    <p className="text-slate-600">Yes, in 2026, Fibe frequently uses Digital Lok Adalats to resolve high-volume defaults. These are excellent opportunities for settlement, as the lender is under pressure to close cases quickly. SettleLoans represents you at these forums to secure the highest possible waiver.</p>
                 </div>
                 <div className="border-b border-slate-100 pb-6">
-                   <h3 className="font-bold text-slate-800 mb-3">Can I settle my Fibe loan if it's been sold to an ARC?</h3>
+                   <h4 className="font-bold text-slate-800 mb-3">Can I settle my Fibe loan if it's been sold to an ARC?</h4>
                    <p className="text-slate-600">If your debt has been transferred to an Asset Reconstruction Company (ARC), the negotiation process changes but the goal remains the same. ARCs often buy debt at a discount, which can sometimes lead to even deeper settlement waivers. We negotiate directly with the ARC on your behalf.</p>
                 </div>
                 <div className="border-b border-slate-100 pb-6">
-                   <h3 className="font-bold text-slate-800 mb-3">What happens to my Fibe app access after settlement?</h3>
+                   <h4 className="font-bold text-slate-800 mb-3">What happens to my Fibe app access after settlement?</h4>
                    <p className="text-slate-600">Once the settlement is complete and the No Dues Certificate is issued, your account will be closed. You will likely lose access to further credit from Fibe for several years. We recommend deleting the app only after you have downloaded all your loan statements and closure documents.</p>
                 </div>
                 <div className="border-b border-slate-100 pb-6">
-                   <h3 className="font-bold text-slate-800 mb-3">How does Fibe calculate the settlement amount?</h3>
+                   <h4 className="font-bold text-slate-800 mb-3">How does Fibe calculate the settlement amount?</h4>
                    <p className="text-slate-600">The amount is based on the principal outstanding, the age of the default, and the strength of your hardship evidence. Fibe's algorithms calculate the 'Net Present Value' of a settlement versus the cost of legal recovery. We ensure your case is presented to hit the lowest possible calculation.</p>
                 </div>
               </div>
@@ -660,7 +660,7 @@ export default function FibeSettlementPage() {
 
             <section id="final-thought"
  className="scroll-mt-24 mb-16 border-t-2 border-slate-100 pt-16">
-               <h2 className="text-4xl font-black text-slate-900 mb-8 leading-tight">Reclaiming Your Future from Fibe's Digital Grip</h2>
+               <h3 className="text-4xl font-black text-slate-900 mb-8 leading-tight">Reclaiming Your Future from Fibe's Digital Grip</h3>
                <p className="mb-6 text-xl text-slate-600">
                   Your journey through this 5000-word guide has equipped you with the technical and legal knowledge to handle Fibe loan settlement in 2026. But knowledge without action is just data.
                </p>
@@ -668,7 +668,7 @@ export default function FibeSettlementPage() {
                   Fibe is a powerful, data-driven machine, but it is a machine that responds to legal and commercial logic. By partnering with SettleLoans, you bring the same level of sophistication to your defense that Fibe brings to its recovery. We stop the harassment, we verify every rupee of the waiver, and we religious follow through until you have your No Dues Certificate in hand. Your digital identity is your most valuable asset in 2026; do not let a Fibe default define it forever.
                </p>
                <div className="bg-white border-2 border-[#FF9F00] rounded-3xl p-12 text-slate-900 text-center shadow-2xl skew-y-1">
-                 <h3 className="text-3xl font-black mb-6 -skew-y-1 text-[#FF9F00]">Ready to Settle Your Fibe Loan?</h3>
+                 <h4 className="text-3xl font-black mb-6 -skew-y-1 text-[#FF9F00]">Ready to Settle Your Fibe Loan?</h4>
                  <p className="text-xl mb-10 opacity-90 max-w-2xl mx-auto -skew-y-1 text-slate-600">
                     Stop the stress today. Get a free consultation and a customized settlement roadmap from India's digital lending legal experts.
                  </p>

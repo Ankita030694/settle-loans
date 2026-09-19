@@ -134,11 +134,11 @@ export default function ForgotEMIPaymentPage() {
               </section>
 
               <section id="grace-period" className="scroll-mt-32 mb-16">
-                <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+                <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                   What is an EMI Grace Period?
-                </h2>
+                </h3>
                 <div className="bg-blue-50 border-l-8 border-[#1F5EFF] p-8 rounded-r-2xl mb-8">
-                  <h3 className="text-xl font-black text-[#1F5EFF] mb-4">Understanding the Hidden Buffer</h3>
+                  <h4 className="text-xl font-black text-[#1F5EFF] mb-4">Understanding the Hidden Buffer</h4>
                   <p className="text-lg leading-relaxed mb-4 text-blue-900">
                     While there is no legal mandate for a <strong className="text-[#1F5EFF]">grace period for EMI payment in India</strong>, banks use a reporting buffer before they alert CIBIL and other credit bureaus.
                   </p>
@@ -156,20 +156,20 @@ export default function ForgotEMIPaymentPage() {
 
                 <div className="grid md:grid-cols-2 gap-6 my-8">
                   <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
-                    <h3 className="font-black text-[#1F5EFF] text-lg mb-3">Bank Holidays</h3>
+                    <h4 className="font-black text-[#1F5EFF] text-lg mb-3">Bank Holidays</h4>
                     <p className="text-gray-700">If your EMI date falls on a Sunday or a national festival, the deduction is automatically processed on the next working day without penalty.</p>
                   </div>
                   <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
-                    <h3 className="font-black text-[#1F5EFF] text-lg mb-3">Technical Glitches</h3>
+                    <h4 className="font-black text-[#1F5EFF] text-lg mb-3">Technical Glitches</h4>
                     <p className="text-gray-700">If the banking network is down during a major festival and your mandate fails, you are not liable for late fees.</p>
                   </div>
                 </div>
               </section>
 
               <section id="requesting-delay" className="scroll-mt-32 mb-16">
-                <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+                <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                   How to Request Bank for EMI Delay
-                </h2>
+                </h3>
                 <p className="text-lg leading-relaxed mb-6">
                   If you realize you missed the payment, or if you know in advance that your account won't have funds because you're traveling, you can proactively <strong className="text-[#2E2E2E]">request bank for EMI delay</strong> or late fee waivers.
                 </p>
@@ -178,21 +178,21 @@ export default function ForgotEMIPaymentPage() {
                   <div className="flex gap-6">
                     <div className="flex-shrink-0 w-12 h-12 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center font-black text-xl shadow-lg">1</div>
                     <div>
-                      <h3 className="text-xl font-bold text-[#2E2E2E] mb-2">Fund the Account ASAP</h3>
+                      <h4 className="text-xl font-bold text-[#2E2E2E] mb-2">Fund the Account ASAP</h4>
                       <p className="text-lg text-gray-700">Before contacting the bank, ensure the required funds are deposited into your EMI debit account.</p>
                     </div>
                   </div>
                   <div className="flex gap-6">
                     <div className="flex-shrink-0 w-12 h-12 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center font-black text-xl shadow-lg">2</div>
                     <div>
-                      <h4 className="text-xl font-bold text-[#2E2E2E] mb-2">Call Customer Care</h4>
+                      <h5 className="text-xl font-bold text-[#2E2E2E] mb-2">Call Customer Care</h5>
                       <p className="text-lg text-gray-700">Inform them that the miss was accidental due to travel/festivities and request them to manually process the payment.</p>
                     </div>
                   </div>
                   <div className="flex gap-6">
                     <div className="flex-shrink-0 w-12 h-12 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center font-black text-xl shadow-lg">3</div>
                     <div>
-                      <h4 className="text-xl font-bold text-[#2E2E2E] mb-2">Request Fee Waiver</h4>
+                      <h5 className="text-xl font-bold text-[#2E2E2E] mb-2">Request Fee Waiver</h5>
                       <p className="text-lg text-gray-700">Ask the executive to raise a service request to waive the bounce charges as a one-time courtesy for an otherwise clean repayment track record.</p>
                     </div>
                   </div>
@@ -200,9 +200,9 @@ export default function ForgotEMIPaymentPage() {
               </section>
 
               <section id="cibil-impact" className="scroll-mt-32 mb-16">
-                <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+                <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                   Will This Affect My CIBIL Score?
-                </h2>
+                </h3>
                 
                 <div className="bg-gray-50 p-8 rounded-2xl mb-8 border border-gray-200">
                   <p className="text-lg leading-relaxed text-gray-800">
@@ -211,13 +211,13 @@ export default function ForgotEMIPaymentPage() {
                 </div>
 
                 <div className="bg-red-50 p-6 rounded-xl border border-red-100 mb-8">
-                  <h3 className="text-xl font-black text-red-700 mb-2">Warning: Avoid the 30-Day Mark</h3>
+                  <h4 className="text-xl font-black text-red-700 mb-2">Warning: Avoid the 30-Day Mark</h4>
                   <p className="text-lg text-red-900">
                     If you return from your travels and ignore the bounced EMI, once the default crosses 30 days, your credit score will take a severe hit, dropping by 50 points or more.
                   </p>
                 </div>
 
-                <h3 className="text-2xl font-bold text-[#2E2E2E] mb-6 mt-12">Client Success Stories</h3>
+                <h4 className="text-2xl font-bold text-[#2E2E2E] mb-6 mt-12">Client Success Stories</h4>
                 <div className="grid md:grid-cols-2 gap-6 mb-8">
                   <div className="bg-white p-8 rounded-[30px] border border-[#DEDEDE] shadow-sm hover:shadow-xl group transition-all">
                     <div className="flex items-center gap-4 mb-4">
@@ -242,9 +242,9 @@ export default function ForgotEMIPaymentPage() {
               </section>
 
               <section id="legal-consequences" className="scroll-mt-32 mb-16">
-                <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+                <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                   Legal Consequences of Unpaid EMIs
-                </h2>
+                </h3>
                 <div className="bg-white rounded-2xl p-8 border border-[#DEDEDE] shadow-sm mb-8">
                   <p className="text-lg leading-relaxed mb-6 text-gray-700">
                     When an EMI is missed repeatedly, the implications extend beyond late fees and a temporary dip in your CIBIL score. If your account remains unfunded and you ignore notices for 90 days, the loan may be classified as a Non-Performing Asset (NPA). Once this happens, the bank can initiate legal proceedings under the SARFAESI Act for secured loans, or file a civil suit for recovery in the case of unsecured personal loans.
@@ -256,30 +256,30 @@ export default function ForgotEMIPaymentPage() {
               </section>
 
               <section id="negotiation-tips" className="scroll-mt-32 mb-16">
-                <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+                <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                   Tips to Negotiate with Your Lender
-                </h2>
+                </h3>
                 <p className="text-lg leading-relaxed mb-6">
                   If you foresee a continued inability to pay your EMI after returning from your travels—perhaps due to unexpected expenses or job issues—it is crucial to open a dialogue with your bank. Banks prefer recovering their money over engaging in costly legal battles, meaning they are often open to negotiation if you demonstrate genuine intent to pay.
                 </p>
                 <div className="grid md:grid-cols-2 gap-6 my-8">
                   <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
-                    <h3 className="font-black text-[#1F5EFF] text-lg mb-3">Request Loan Restructuring</h3>
+                    <h4 className="font-black text-[#1F5EFF] text-lg mb-3">Request Loan Restructuring</h4>
                     <p className="text-gray-700">You can formally request the bank to restructure your loan. This might involve extending the tenure of the loan, which reduces your monthly EMI burden and makes it easier for you to manage your cash flow without defaulting.</p>
                   </div>
                   <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
-                    <h3 className="font-black text-[#1F5EFF] text-lg mb-3">Ask for a Moratorium</h3>
+                    <h4 className="font-black text-[#1F5EFF] text-lg mb-3">Ask for a Moratorium</h4>
                     <p className="text-gray-700">In cases of temporary financial hardship, such as sudden medical emergencies during travel, some banks may grant a short moratorium period. This gives you a brief holiday from EMI payments, though interest continues to accrue.</p>
                   </div>
                 </div>
               </section>
 
               <section id="preventing-future-misses" className="scroll-mt-32 mb-16">
-                <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+                <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                   How to Prevent Future Misses
-                </h2>
+                </h3>
                 <div className="bg-gray-50 p-8 rounded-2xl mb-8 border border-gray-200">
-                  <h3 className="text-xl font-black text-[#2E2E2E] mb-4">Automate and Organize</h3>
+                  <h4 className="text-xl font-black text-[#2E2E2E] mb-4">Automate and Organize</h4>
                   <p className="text-lg leading-relaxed mb-4 text-gray-800">
                     Traveling and celebrating festivals should be stress-free. To ensure your loan obligations don't disrupt your peace of mind, you need a foolproof system to manage your EMIs. Here are effective strategies to guarantee you never miss a payment, no matter where you are in the world.
                   </p>
@@ -301,9 +301,9 @@ export default function ForgotEMIPaymentPage() {
               </section>
 
               <section id="faqs" className="scroll-mt-32 mb-16">
-                <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+                <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                   Frequently Asked Questions
-                </h2>
+                </h3>
                 <div className="space-y-4">
                   {[
                     { q: "What happens if I forgot to pay EMI on time?", a: "If you forgot to pay your EMI on time, banks typically charge a late payment fee. If paid within a few days, it might not hit your CIBIL score." },
@@ -336,7 +336,7 @@ export default function ForgotEMIPaymentPage() {
               <div className="bg-[#2E2E2E] text-white p-12 rounded-[40px] text-center mt-24 relative overflow-hidden group">
                 <div className="absolute inset-0 bg-[#1F5EFF] opacity-0 group-hover:opacity-5 transition-opacity"></div>
                 <div className="relative z-10">
-                  <h3 className="text-3xl font-black mb-6">Panicking About a Missed EMI?</h3>
+                  <h4 className="text-3xl font-black mb-6">Panicking About a Missed EMI?</h4>
                   <p className="text-xl text-gray-300 mb-8 max-w-2xl mx-auto">
                     Forgot your EMI date because you were traveling or busy with festivals? See if your bank offers a hidden 'Grace Period' to avoid CIBIL damage.
                   </p>

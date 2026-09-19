@@ -281,7 +281,7 @@ export default function TopLoanAppsIndiaPage() {
                         </section>
 
                         <section id="digital-revolution" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">How Digital Credit is Revolutionizing the Indian Economy</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">How Digital Credit is Revolutionizing the Indian Economy</h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 India is currently home to one of the fastest-growing FinTech ecosystems in the world. This growth is driven by several factors, including the widespread adoption of smartphones, affordable data plans, and the government's push for a digital-first economy through initiatives like India Stack and UPI.
                             </p>
@@ -292,7 +292,7 @@ export default function TopLoanAppsIndiaPage() {
                                 By analyzing things like utility bill payments, social media behavior, and transaction patterns, these apps can provide loans to individuals who might have been rejected by traditional institutions. This approach has opened up credit opportunities for students, young professionals, and micro-entrepreneurs across the country.
                             </p>
                             <div className="bg-gray-50 p-8 rounded-xl border border-gray-200 my-8">
-                                <h3 className="font-bold text-2xl mb-4 text-[#2E2E2E]">Key Drivers of the Revolution</h3>
+                                <h4 className="font-bold text-2xl mb-4 text-[#2E2E2E]">Key Drivers of the Revolution</h4>
                                 <ul className="space-y-4">
                                     <li className="flex items-start">
                                         <span className="text-[#1F5EFF] mr-2 font-bold">1. Data Explosion:</span>
@@ -318,25 +318,25 @@ export default function TopLoanAppsIndiaPage() {
                         </section>
 
                         <section id="selection-criteria" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">Our Criteria for Selecting the Best Instant Loan Apps</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">Our Criteria for Selecting the Best Instant Loan Apps</h3>
                             <p className="text-lg leading-relaxed mb-8">
                                 With hundreds of loan apps available on the Play Store and App Store, choosing the right one can be a daunting task. Not all apps are created equal, and some can even be dangerous. We have used a rigorous set of criteria to select the top 10 apps listed in this guide.
                             </p>
                             <div className="grid md:grid-cols-2 gap-8 mb-10">
                                 <div className="p-6 bg-white border border-[#DEDEDE] rounded-xl">
-                                    <h3 className="font-bold text-[#1F5EFF] mb-3">RBI Regulation & Safety</h3>
+                                    <h4 className="font-bold text-[#1F5EFF] mb-3">RBI Regulation & Safety</h4>
                                     <p className="text-sm">We only include apps that are either RBI-registered NBFCs themselves or have clear partnerships with regulated banks and NBFCs. Safety and data privacy are non-negotiable.</p>
                                 </div>
                                 <div className="p-6 bg-white border border-[#DEDEDE] rounded-xl">
-                                    <h4 className="font-bold text-[#1F5EFF] mb-3">Interest Rates & Fees</h4>
+                                    <h5 className="font-bold text-[#1F5EFF] mb-3">Interest Rates & Fees</h5>
                                     <p className="text-sm">We analyze the transparency and competitiveness of interest rates, processing fees, and other charges. We look for apps that provide a clear Key Fact Statement to the borrower.</p>
                                 </div>
                                 <div className="p-6 bg-white border border-[#DEDEDE] rounded-xl">
-                                    <h4 className="font-bold text-[#1F5EFF] mb-3">User Experience & Speed</h4>
+                                    <h5 className="font-bold text-[#1F5EFF] mb-3">User Experience & Speed</h5>
                                     <p className="text-sm">The whole point of an instant loan is speed. We evaluate the ease of the application process, the time taken for approval, and the speed of fund disbursal.</p>
                                 </div>
                                 <div className="p-6 bg-white border border-[#DEDEDE] rounded-xl">
-                                    <h4 className="font-bold text-[#1F5EFF] mb-3">Customer Support</h4>
+                                    <h5 className="font-bold text-[#1F5EFF] mb-3">Customer Support</h5>
                                     <p className="text-sm">Reliable customer support is crucial, especially when dealing with financial transactions. We consider the availability of multiple support channels and the quality of grievance redressal.</p>
                                 </div>
                             </div>
@@ -346,7 +346,7 @@ export default function TopLoanAppsIndiaPage() {
                         </section>
 
                         <section id="top-10-list" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">Detailed Look at the Top 10 Instant Loan Apps in India</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">Detailed Look at the Top 10 Instant Loan Apps in India</h3>
                             <p className="text-lg leading-relaxed mb-8">
                                 Here is our curated list of the top 10 instant loan apps that are currently leading the market in India. Each of these platforms has its own unique strengths and target audience.
                             </p>
@@ -354,7 +354,7 @@ export default function TopLoanAppsIndiaPage() {
                             <div className="space-y-12">
                                 {/* App 1: Bajaj Finserv */}
                                 <div className="p-8 bg-gray-50 border-l-8 border-[#1F5EFF] rounded-r-2xl shadow-sm">
-                                    <h3 className="font-bold text-3xl mb-4 text-[#2E2E2E]">1. Bajaj Finserv: The Giant of Digital Credit</h3>
+                                    <h4 className="font-bold text-3xl mb-4 text-[#2E2E2E]">1. Bajaj Finserv: The Giant of Digital Credit</h4>
                                     <p className="text-lg text-gray-700 leading-relaxed mb-4">
                                         Bajaj Finserv is one of the most established names in the Indian lending space. Their 'Insta Personal Loan' product is designed for those who need high-value loans with minimal fuss. They offer loans of up to 40 Lakhs with disbursals often happening within hours.
                                     </p>
@@ -368,7 +368,7 @@ export default function TopLoanAppsIndiaPage() {
 
                                 {/* App 2: Navi */}
                                 <div className="p-8 bg-gray-50 border-l-8 border-[#1F5EFF] rounded-r-2xl shadow-sm">
-                                    <h3 className="font-bold text-3xl mb-4 text-[#2E2E2E]">2. Navi: Seamless and Modern</h3>
+                                    <h4 className="font-bold text-3xl mb-4 text-[#2E2E2E]">2. Navi: Seamless and Modern</h4>
                                     <p className="text-lg text-gray-700 leading-relaxed mb-4">
                                         Founded by Sachin Bansal, Navi has quickly become a favorite among tech-savvy borrowers. The app offers a completely paperless journey with a focus on simplicity. You can get loans of up to 20 Lakhs with interest rates that are often quite competitive for those with good credit scores.
                                     </p>
@@ -382,7 +382,7 @@ export default function TopLoanAppsIndiaPage() {
 
                                 {/* App 3: Moneyview */}
                                 <div className="p-8 bg-gray-50 border-l-8 border-[#1F5EFF] rounded-r-2xl shadow-sm">
-                                    <h3 className="font-bold text-3xl mb-4 text-[#2E2E2E]">3. Moneyview: Personalized Credit Models</h3>
+                                    <h4 className="font-bold text-3xl mb-4 text-[#2E2E2E]">3. Moneyview: Personalized Credit Models</h4>
                                     <p className="text-lg text-gray-700 leading-relaxed mb-4">
                                         Moneyview is known for its advanced credit assessment models that go beyond just the CIBIL score. This makes it an excellent choice for individuals who might have a thin credit file but a stable income. They offer loans from 5,000 to 10 Lakhs.
                                     </p>
@@ -396,7 +396,7 @@ export default function TopLoanAppsIndiaPage() {
 
                                 {/* App 4: KreditBee */}
                                 <div className="p-8 bg-gray-50 border-l-8 border-[#1F5EFF] rounded-r-2xl shadow-sm">
-                                    <h3 className="font-bold text-3xl mb-4 text-[#2E2E2E]">4. KreditBee: Tailored for Young India</h3>
+                                    <h4 className="font-bold text-3xl mb-4 text-[#2E2E2E]">4. KreditBee: Tailored for Young India</h4>
                                     <p className="text-lg text-gray-700 leading-relaxed mb-4">
                                         KreditBee focuses heavily on young professionals and those looking for smaller, short-term loans. Their products include 'Flexi Personal Loans' and 'Purchase on EMI' options. They are particularly popular for their fast processing and user-friendly mobile app.
                                     </p>
@@ -410,7 +410,7 @@ export default function TopLoanAppsIndiaPage() {
 
                                 {/* App 5: Fibe (formerly EarlySalary) */}
                                 <div className="p-8 bg-gray-50 border-l-8 border-[#1F5EFF] rounded-r-2xl shadow-sm">
-                                    <h3 className="font-bold text-3xl mb-4 text-[#2E2E2E]">5. Fibe: Solving the Salary Gap</h3>
+                                    <h4 className="font-bold text-3xl mb-4 text-[#2E2E2E]">5. Fibe: Solving the Salary Gap</h4>
                                     <p className="text-lg text-gray-700 leading-relaxed mb-4">
                                         Fibe (formerly known as EarlySalary) pioneered the concept of salary advances in India. They cater primarily to salaried employees who need funds before their next paycheck arrives. They offer loans of up to 5 Lakhs with flexible repayment options.
                                     </p>
@@ -424,7 +424,7 @@ export default function TopLoanAppsIndiaPage() {
 
                                 {/* App 6: mPokket */}
                                 <div className="p-8 bg-gray-50 border-l-8 border-[#1F5EFF] rounded-r-2xl shadow-sm">
-                                    <h3 className="font-bold text-3xl mb-4 text-[#2E2E2E]">6. mPokket: Empowering Students and Freshers</h3>
+                                    <h4 className="font-bold text-3xl mb-4 text-[#2E2E2E]">6. mPokket: Empowering Students and Freshers</h4>
                                     <p className="text-lg text-gray-700 leading-relaxed mb-4">
                                         mPokket is unique in its focus on college students and recent graduates. They understand that these individuals often lack a traditional credit history and stable income but still need funds for books, courses, or travel.
                                     </p>
@@ -438,7 +438,7 @@ export default function TopLoanAppsIndiaPage() {
 
                                 {/* App 7: LazyPay */}
                                 <div className="p-8 bg-gray-50 border-l-8 border-[#1F5EFF] rounded-r-2xl shadow-sm">
-                                    <h3 className="font-bold text-3xl mb-4 text-[#2E2E2E]">7. LazyPay: The BNPL Specialist</h3>
+                                    <h4 className="font-bold text-3xl mb-4 text-[#2E2E2E]">7. LazyPay: The BNPL Specialist</h4>
                                     <p className="text-lg text-gray-700 leading-relaxed mb-4">
                                         LazyPay, part of the PayU group, is a major player in the 'Buy Now Pay Later' segment. While they offer personal loans of up to 5 Lakhs, their primary focus is on providing a seamless checkout experience across thousands of apps and websites.
                                     </p>
@@ -452,7 +452,7 @@ export default function TopLoanAppsIndiaPage() {
 
                                 {/* App 8: PaySense */}
                                 <div className="p-8 bg-gray-50 border-l-8 border-[#1F5EFF] rounded-r-2xl shadow-sm">
-                                    <h3 className="font-bold text-3xl mb-4 text-[#2E2E2E]">8. PaySense: Transparent and Fast</h3>
+                                    <h4 className="font-bold text-3xl mb-4 text-[#2E2E2E]">8. PaySense: Transparent and Fast</h4>
                                     <p className="text-lg text-gray-700 leading-relaxed mb-4">
                                         PaySense, now part of the LazyPay/PayU family, focuses on providing personal loans to salaried and self-employed individuals. They offer loans from 5,000 to 5 Lakhs with a very straightforward application process.
                                     </p>
@@ -466,7 +466,7 @@ export default function TopLoanAppsIndiaPage() {
 
                                 {/* App 9: SmartCoin */}
                                 <div className="p-8 bg-gray-50 border-l-8 border-[#1F5EFF] rounded-r-2xl shadow-sm">
-                                    <h3 className="font-bold text-3xl mb-4 text-[#2E2E2E]">9. SmartCoin: Serving the Underbanked</h3>
+                                    <h4 className="font-bold text-3xl mb-4 text-[#2E2E2E]">9. SmartCoin: Serving the Underbanked</h4>
                                     <p className="text-lg text-gray-700 leading-relaxed mb-4">
                                         SmartCoin focuses on the lower-income segments and small business owners who are often ignored by traditional banks. They use a highly sophisticated AI engine to assess the risk of these unconventional borrowers.
                                     </p>
@@ -480,7 +480,7 @@ export default function TopLoanAppsIndiaPage() {
 
                                 {/* App 10: CASHe */}
                                 <div className="p-8 bg-gray-50 border-l-8 border-[#1F5EFF] rounded-r-2xl shadow-sm">
-                                    <h3 className="font-bold text-3xl mb-4 text-[#2E2E2E]">10. CASHe: Social Credit Score Pioneers</h3>
+                                    <h4 className="font-bold text-3xl mb-4 text-[#2E2E2E]">10. CASHe: Social Credit Score Pioneers</h4>
                                     <p className="text-lg text-gray-700 leading-relaxed mb-4">
                                         CASHe uses a unique 'Social Loan Quotient' (SLQ) to assess creditworthiness. This score incorporates social media data and other alternative points, providing a more modern perspective on a borrower's financial reliability.
                                     </p>
@@ -495,7 +495,7 @@ export default function TopLoanAppsIndiaPage() {
                         </section>
 
                         <section id="safety-and-regulations" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">Safety First: Navigating the Regulatory Landscape</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">Safety First: Navigating the Regulatory Landscape</h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 While the rise of instant loan apps has been a boon, it has also attracted unscrupulous actors. The Reserve Bank of India (RBI) has been proactive in introducing guidelines to protect borrowers from predatory practices.
                             </p>
@@ -503,7 +503,7 @@ export default function TopLoanAppsIndiaPage() {
                                 As a borrower, your first line of defense is awareness. You must always ensure that the app you are using is linked to a regulated entity.
                             </p>
                             <div className="bg-blue-50 p-8 rounded-xl border border-blue-200 my-8">
-                                <h3 className="font-bold text-blue-900 mb-4 text-xl">The RBI's Digital Lending Guidelines</h3>
+                                <h4 className="font-bold text-blue-900 mb-4 text-xl">The RBI's Digital Lending Guidelines</h4>
                                 <p className="text-base text-blue-800 leading-relaxed mb-4">
                                     The RBI mandates that all digital loans must be disbursed directly into the borrower's bank account and not through any third-party pool accounts. Furthermore, all fees and charges must be disclosed in a standardized Key Fact Statement (KFS).
                                 </p>
@@ -517,7 +517,7 @@ export default function TopLoanAppsIndiaPage() {
                         </section>
 
                         <section id="impact-banking" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">How Instant Loan Apps are Impacting Traditional Banking</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">How Instant Loan Apps are Impacting Traditional Banking</h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 The success of instant loan apps has sent ripples through the traditional banking sector. Banks are no longer just competing with each other; they are competing with agile FinTech firms that have much lower overheads and a faster pace of innovation.
                             </p>
@@ -547,7 +547,7 @@ export default function TopLoanAppsIndiaPage() {
                         </section>
 
                         <section id="future-trends" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">The Future of Digital Lending in India</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">The Future of Digital Lending in India</h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 The future of digital lending in India looks incredibly promising. We are likely to see even more sophisticated uses of AI and data analytics to provide hyper-personalized credit products.
                             </p>
@@ -563,7 +563,7 @@ export default function TopLoanAppsIndiaPage() {
                         </section>
 
                         <section id="success-stories" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 text-center">User Success Stories & Reviews</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 text-center">User Success Stories & Reviews</h3>
                             <div className="grid md:grid-cols-2 gap-10 not-prose">
                                 {[
                                     {
@@ -601,7 +601,7 @@ export default function TopLoanAppsIndiaPage() {
                                         <div className="flex items-center mb-4">
                                             <div className="w-10 h-10 rounded-full bg-blue-100 flex items-center justify-center font-bold text-blue-600 mr-3">{review.name.split(' ')[0][0]}</div>
                                             <div>
-                                                <h3 className="font-bold text-[#2E2E2E]">{review.name}</h3>
+                                                <h4 className="font-bold text-[#2E2E2E]">{review.name}</h4>
                                                 <p className="text-xs text-gray-400">{review.loc}</p>
                                             </div>
                                             <div className="ml-auto text-yellow-400 text-sm">★★★★★</div>
@@ -616,7 +616,7 @@ export default function TopLoanAppsIndiaPage() {
                         </section>
 
                         <section id="faqs" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Instant Loan Apps: Frequently Asked Questions</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Instant Loan Apps: Frequently Asked Questions</h3>
                             <div className="space-y-6 not-prose">
                                 {[
                                     { q: "Are instant loan apps safe to use in India?", a: "Most apps are safe if they are RBI-regulated or partnered with regulated banks/NBFCs. Always check for the lending partner's name and verify it on the RBI website. Avoid apps that ask for permissions like contact access." },
@@ -646,7 +646,7 @@ export default function TopLoanAppsIndiaPage() {
                         </section>
 
                         <div className="mt-16 p-8 bg-[#1F5EFF] rounded-3xl text-white text-center">
-                            <h2 className="text-3xl font-black mb-6">Need Expert Financial Guidance?</h2>
+                            <h3 className="text-3xl font-black mb-6">Need Expert Financial Guidance?</h3>
                             <p className="text-xl mb-8 opacity-90">
                                 Navigating the world of digital credit can be complex. Our experts are here to help you make informed and safe financial decisions.
                             </p>

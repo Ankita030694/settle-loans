@@ -260,22 +260,22 @@ export default function DelayedPropertyDocumentsPage() {
             </section>
 
             <section id="rbi-30-day-mandate" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 The RBI 30-Day Mandate for Document Release
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 The RBI issued a watershed circular regarding the <strong>"Release of Movable/Immovable Property Documents on Repayment/Settlement of Personal Loans"</strong>. This directive leaves no room for ambiguity.
               </p>
 
               <div className="grid md:grid-cols-2 gap-6 my-8">
                 <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
-                  <h3 className="font-black text-[#1F5EFF] text-lg mb-3">The Core Rule</h3>
+                  <h4 className="font-black text-[#1F5EFF] text-lg mb-3">The Core Rule</h4>
                   <p className="text-gray-700 leading-relaxed">
                     All Regulated Entities (Banks, NBFCs, and HFCs) are mandated to release all original movable or immovable property documents within <strong>30 days</strong> of full repayment or settlement of the loan account.
                   </p>
                 </div>
                 <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
-                  <h4 className="font-black text-[#1F5EFF] text-lg mb-3">Borrower's Choice of Location</h4>
+                  <h5 className="font-black text-[#1F5EFF] text-lg mb-3">Borrower's Choice of Location</h5>
                   <p className="text-gray-700 leading-relaxed">
                     The borrower gets to choose where to collect the papers. You can collect them from the branch where you serviced the loan, or request the bank to send them to another branch closer to you.
                   </p>
@@ -290,15 +290,15 @@ export default function DelayedPropertyDocumentsPage() {
             </section>
 
             <section id="the-penalty" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 The ₹5,000 Per Day RBI Penalty
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 To give the mandate teeth, the RBI introduced a severe financial penalty for banks that act carelessly with borrower documents. 
               </p>
 
               <div className="bg-blue-50 border-l-8 border-[#1F5EFF] p-8 rounded-r-2xl mb-8">
-                <h3 className="text-xl font-black text-[#1F5EFF] mb-4">Mandatory Compensation</h3>
+                <h4 className="text-xl font-black text-[#1F5EFF] mb-4">Mandatory Compensation</h4>
                 <p className="text-blue-900 text-lg leading-relaxed mb-4">
                   If there is a delay in releasing the original property documents beyond the 30-day window, the bank is legally obligated to compensate the borrower.
                 </p>
@@ -320,9 +320,9 @@ export default function DelayedPropertyDocumentsPage() {
             </section>
 
             <section id="lost-documents" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 What if the Bank Lost Your Property Papers?
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 One of the most terrifying scenarios for a property owner is the bank admitting they have lost the original title deed. If the bank has lost your documents, their liability increases significantly under the RBI rules.
               </p>
@@ -331,7 +331,7 @@ export default function DelayedPropertyDocumentsPage() {
                 <div className="flex gap-6">
                   <div className="flex-shrink-0 w-12 h-12 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center font-black text-xl shadow-lg">1</div>
                   <div>
-                    <h3 className="text-2xl font-bold text-[#2E2E2E] mb-2">Extended Timeline</h3>
+                    <h4 className="text-2xl font-bold text-[#2E2E2E] mb-2">Extended Timeline</h4>
                     <p className="text-lg text-gray-700 leading-relaxed">
                       In case of loss or damage, the bank gets an additional 30 days (total 60 days) to resolve the issue before the ₹5,000/day penalty kicks in.
                     </p>
@@ -341,7 +341,7 @@ export default function DelayedPropertyDocumentsPage() {
                 <div className="flex gap-6">
                   <div className="flex-shrink-0 w-12 h-12 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center font-black text-xl shadow-lg">2</div>
                   <div>
-                    <h3 className="text-2xl font-bold text-[#2E2E2E] mb-2">Bank's Liability for Re-creation</h3>
+                    <h4 className="text-2xl font-bold text-[#2E2E2E] mb-2">Bank's Liability for Re-creation</h4>
                     <p className="text-lg text-gray-700 leading-relaxed">
                       The bank cannot just apologize. They are legally mandated to assist you in obtaining duplicate or certified copies of the lost property documents from the registrar's office.
                     </p>
@@ -351,7 +351,7 @@ export default function DelayedPropertyDocumentsPage() {
                 <div className="flex gap-6">
                   <div className="flex-shrink-0 w-12 h-12 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center font-black text-xl shadow-lg">3</div>
                   <div>
-                    <h3 className="text-2xl font-bold text-[#2E2E2E] mb-2">Bank Bears All Costs</h3>
+                    <h4 className="text-2xl font-bold text-[#2E2E2E] mb-2">Bank Bears All Costs</h4>
                     <p className="text-lg text-gray-700 leading-relaxed">
                       The bank must bear all associated costs for recreating these documents, including legal fees, publication of public notices in newspapers, and stamp duty.
                     </p>
@@ -361,15 +361,15 @@ export default function DelayedPropertyDocumentsPage() {
             </section>
             
             <section id="general-lien-myth" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 The "General Lien" Myth: Holding Papers for Unsecured Loans
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 A frequent, aggressive tactic used by banks is refusing to release property papers of a settled home loan because the borrower has an outstanding credit card or personal loan with the same bank. They claim the "Right of General Lien" under Section 171 of the Indian Contract Act.
               </p>
               
               <div className="bg-red-50 p-6 rounded-xl border border-red-100 mb-8">
-                <h3 className="text-xl font-black text-red-700 mb-3">Why This is Often Illegal</h3>
+                <h4 className="text-xl font-black text-red-700 mb-3">Why This is Often Illegal</h4>
                 <p className="text-red-900 leading-relaxed">
                   Courts have repeatedly ruled that a bank cannot arbitrarily retain title deeds given specifically as security for a housing loan to cover an unrelated, unsecured loan. Unless there is a specific, signed "Letter of Continuity" or cross-collateralization agreement explicitly linking the property to the credit card, the bank's retention of documents is illegal and amounts to a deficiency in service.
                 </p>
@@ -377,15 +377,15 @@ export default function DelayedPropertyDocumentsPage() {
             </section>
 
             <section id="actionable-steps" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 Legal Steps to Recover Your Documents
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 Verbal arguments with the branch manager will rarely solve this. You must establish a legal paper trail to enforce the RBI penalty.
               </p>
               
               <div className="bg-white p-8 border border-[#DEDEDE] rounded-2xl shadow-sm mb-8">
-                <h3 className="text-xl font-bold mb-4 text-[#2E2E2E] underline">The Escalation Matrix</h3>
+                <h4 className="text-xl font-bold mb-4 text-[#2E2E2E] underline">The Escalation Matrix</h4>
                 <ul className="text-sm space-y-3 font-medium list-none text-gray-700">
                   <li className="flex items-start gap-2"><span className="w-1.5 h-1.5 bg-[#1F5EFF] rounded-full mt-2"></span> <strong>1. Formal Legal Notice:</strong> Have an advocate send a legal notice to the bank's Nodal Officer referencing the exact RBI Circular (RBI/2023-24/60) and demanding immediate document release and calculation of the ₹5,000/day penalty.</li>
                   <li className="flex items-start gap-2"><span className="w-1.5 h-1.5 bg-[#1F5EFF] rounded-full mt-2"></span> <strong>2. RBI Ombudsman:</strong> If the bank does not comply within 30 days of your notice, file a complaint on the RBI CMS portal attaching the legal notice and proof of loan closure.</li>
@@ -395,9 +395,9 @@ export default function DelayedPropertyDocumentsPage() {
             </section>
 
             <section id="success-stories" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 Client Success Stories
-              </h2>
+              </h3>
               <div className="grid md:grid-cols-2 gap-6 my-8">
                 <div className="bg-white p-8 rounded-[30px] border border-[#DEDEDE] shadow-sm hover:shadow-xl group transition-all">
                   <div className="flex items-center gap-4 mb-6">
@@ -405,7 +405,7 @@ export default function DelayedPropertyDocumentsPage() {
                       MK
                     </div>
                     <div>
-                      <h3 className="font-bold text-gray-900">Manoj K.</h3>
+                      <h4 className="font-bold text-gray-900">Manoj K.</h4>
                       <div className="flex text-yellow-400">
                         <svg className="w-4 h-4 fill-current" viewBox="0 0 20 20"><path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z"/></svg>
                         <svg className="w-4 h-4 fill-current" viewBox="0 0 20 20"><path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z"/></svg>
@@ -430,7 +430,7 @@ export default function DelayedPropertyDocumentsPage() {
                       SD
                     </div>
                     <div>
-                      <h4 className="font-bold text-gray-900">Sunita D.</h4>
+                      <h5 className="font-bold text-gray-900">Sunita D.</h5>
                       <div className="flex text-yellow-400">
                         <svg className="w-4 h-4 fill-current" viewBox="0 0 20 20"><path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z"/></svg>
                         <svg className="w-4 h-4 fill-current" viewBox="0 0 20 20"><path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z"/></svg>
@@ -452,13 +452,13 @@ export default function DelayedPropertyDocumentsPage() {
             </section>
 
             <section id="faqs" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 Frequently Asked Questions
-              </h2>
+              </h3>
               <div className="space-y-4">
                 {jsonLd["@graph"].find(item => item["@type"] === "FAQPage")?.mainEntity?.map((faq: any, index: number) => (
                   <div key={index} className="bg-white border border-[#DEDEDE] rounded-xl p-6 hover:shadow-md transition-shadow">
-                    <h3 className="text-xl font-bold text-[#2E2E2E] mb-3">{faq.name}</h3>
+                    <h4 className="text-xl font-bold text-[#2E2E2E] mb-3">{faq.name}</h4>
                     <p className="text-gray-700 leading-relaxed">{faq.acceptedAnswer.text}</p>
                   </div>
                 ))}
@@ -467,7 +467,7 @@ export default function DelayedPropertyDocumentsPage() {
 
             <div className="bg-[#2E2E2E] text-white p-12 rounded-[40px] text-center mt-24 relative overflow-hidden group">
               <div className="absolute inset-0 bg-[#1F5EFF] opacity-0 group-hover:opacity-5 transition-opacity"></div>
-              <h3 className="text-3xl font-black mb-6 relative z-10">Don't Let Them Hold Your Property Hostage</h3>
+              <h4 className="text-3xl font-black mb-6 relative z-10">Don't Let Them Hold Your Property Hostage</h4>
               <p className="text-xl opacity-90 mb-8 relative z-10 max-w-2xl mx-auto">
                 Did you settle your home loan but the bank is holding your original property documents hostage? Use the latest RBI guidelines to force them to return your papers and claim ₹5,000 per day in compensation.
               </p>

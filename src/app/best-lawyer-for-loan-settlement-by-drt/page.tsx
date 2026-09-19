@@ -275,17 +275,17 @@ export default function DRTLoanSettlementPage() {
                         </section>
 
                         <section id="what-is-drt" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
                                 Understanding the Debt Recovery Tribunal (DRT)
-                            </h2>
+                            </h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 The DRT was established under the Recovery of Debts Due to Banks and Financial Institutions (RDDBFI) Act, 1993. Its purpose is to provide a streamlined process for banks to recover bad loans without the delays typical of regular civil courts. The tribunal is headed by a Presiding Officer (PO), who has the power to pass orders for the attachment and sale of properties.
                             </p>
                             <div className="bg-gray-50 p-8 rounded-xl border border-gray-200 mb-8">
-                                <h3 className="text-xl font-bold mb-6 flex items-center gap-3">
+                                <h4 className="text-xl font-bold mb-6 flex items-center gap-3">
                                     <FontAwesomeIcon icon={faLandmark} className="text-[#1F5EFF]" />
                                     Key Components of the DRT Process
-                                </h3>
+                                </h4>
                                 <ul className="space-y-4 text-sm font-medium">
                                     <li className="flex items-start gap-2">
                                         <span className="w-2 h-2 bg-[#1F5EFF] rounded-full mt-1.5 flex-shrink-0"></span>
@@ -308,17 +308,17 @@ export default function DRTLoanSettlementPage() {
                         </section>
 
                         <section id="sarfaesi-defense" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
                                 Defending Against SARFAESI Actions in DRT
-                            </h2>
+                            </h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 Most DRT cases today involve the SARFAESI Act. Under this act, banks can take possession of your home, office, or factory without going to court, provided they follow the rules. But they rarely follow the rules perfectly. Our defense strategy in the DRT is often built on identifying these procedural lapses.
                             </p>
                             <div className="bg-red-50 p-8 rounded-xl border border-red-200 mb-8">
-                                <h3 className="text-xl font-bold text-red-900 mb-4 flex items-center gap-3">
+                                <h4 className="text-xl font-bold text-red-900 mb-4 flex items-center gap-3">
                                     <FontAwesomeIcon icon={faShieldHalved} />
                                     Tactical Defense Against Bank Possession
-                                </h3>
+                                </h4>
                                 <p className="text-sm text-red-800 leading-relaxed mb-4">
                                     Did the bank provide a full response to your Section 13(3A) representation? Did they properly valuate your property? Did they serve the possession notice (13(4)) correctly by publishing it in two leading newspapers? In many cases, the answer is no. Each of these 'no's is a ground for your lawyer to challenge the bank's action and get it quashed in the DRT.
                                 </p>
@@ -329,9 +329,9 @@ export default function DRTLoanSettlementPage() {
                         </section>
 
                         <section id="filing-sa" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
                                 The Critical Importance of the Securitization Application (SA)
-                            </h2>
+                            </h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 The Securitization Application (SA) is your primary weapon under Section 17 of the SARFAESI Act. This application must be filed within 45 days of the bank taking a 'recourse measure' like physical or symbolic possession. Missing this 45 day deadline can be fatal to your case.
                             </p>
@@ -341,9 +341,9 @@ export default function DRTLoanSettlementPage() {
                         </section>
 
                         <section id="stay-orders" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
                                 Securing Stay Orders Against Property Auctions
-                            </h2>
+                            </h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 The most urgent task for a DRT lawyer is often getting a 'Stay Order'. When a bank schedules an auction of your property, an expert lawyer files an urgent application to stay the auction. The Presiding Officer of the DRT will look for three things: a prima facie case, the balance of convenience, and the risk of irreparable injury.
                             </p>
@@ -352,21 +352,21 @@ export default function DRTLoanSettlementPage() {
                                     <div className="text-[#1F5EFF] mb-4">
                                         <FontAwesomeIcon icon={faGavel} className="w-8 h-8" />
                                     </div>
-                                    <h3 className="font-bold text-[#2E2E2E] mb-2">Auction Stays</h3>
+                                    <h4 className="font-bold text-[#2E2E2E] mb-2">Auction Stays</h4>
                                     <p className="text-xs text-gray-500">Halting the sale of properties when the bank has failed to follow fair valuation and notice procedures.</p>
                                 </div>
                                 <div className="bg-white p-6 rounded-xl border border-[#DEDEDE] shadow-sm">
                                     <div className="text-emerald-500 mb-4">
                                         <FontAwesomeIcon icon={faBalanceScaleLeft} className="w-8 h-8" />
                                     </div>
-                                    <h4 className="font-bold text-[#2E2E2E] mb-2">Possession Stays</h4>
+                                    <h5 className="font-bold text-[#2E2E2E] mb-2">Possession Stays</h5>
                                     <p className="text-xs text-gray-500">Preventing the bank from taking over your factory or home through a court-appointed Receiver.</p>
                                 </div>
                             </div>
                         </section>
 
                         <section id="challenging-bank-claims" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 underline decoration-[#1F5EFF] underline-offset-8">Challenging Inflated Bank Claims</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 underline decoration-[#1F5EFF] underline-offset-8">Challenging Inflated Bank Claims</h3>
                             <p className="mb-6">
                                 Banks often file their claims in the DRT with highly inflated figures. They include penal interest, additional charges, and capitalize the interest in ways that violate RBI master circulars. An expert DRT defense involves a meticulous 'forensic' examination of the bank's account statement.
                             </p>
@@ -376,7 +376,7 @@ export default function DRTLoanSettlementPage() {
                         </section>
 
                         <section id="ots-through-drt" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Achieving OTS Through the Tribunal</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Achieving OTS Through the Tribunal</h3>
                             <p className="mb-6">
                                 Most cases in the DRT end in a One-Time Settlement (OTS). However, the settlement you get while being defended by a high caliber lawyer is very different from the settlement you get on your own. When the bank sees that their recovery will be stuck in the DRT and potential appeals for the next 5 years, they become much more practical.
                             </p>
@@ -389,28 +389,28 @@ export default function DRTLoanSettlementPage() {
                         </section>
 
                         <section id="valuation-disputes" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 text-[#2E2E2E]">Disputing Property Price and Reserve Price</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 text-[#2E2E2E]">Disputing Property Price and Reserve Price</h3>
                             <p className="mb-8 text-lg">
                                 One of the common tactics used by banks to settle a debt quickly is to sell the property at a very low 'Reserve Price'. This is a massive loss to the borrower. In the DRT, we challenge these valuations by providing independent reports from government-approved valuers. We ensure that your property is not undervalued and that every attempt is made to get its true market value if a sale is unavoidable.
                             </p>
                         </section>
 
                         <section id="drat-appeals" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Appeals to the Debt Recovery Appellate Tribunal (DRAT)</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Appeals to the Debt Recovery Appellate Tribunal (DRAT)</h3>
                             <p className="mb-6 leading-relaxed">
                                 If the DRT passes an unfavorable order, there is an option to appeal to the Debt Recovery Appellate Tribunal (DRAT). While this requires a 'pre-deposit' (usually 25% to 50% of the debt), an appeal can be a vital step in complex cases. Our legal team is experienced in arguing before the Appellate Tribunals across India, including Delhi, Mumbai, Chennai, and Kolkata.
                             </p>
                         </section>
 
                         <section id="strategic-litigation" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">High Performance Litigation Strategy</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">High Performance Litigation Strategy</h3>
                             <p className="mb-6">
                                 At SettleLoans, we believe that litigation is a means to an end. Our strategy in the DRT is high intensity and focused on results. We don't just file papers; we actively look for the bank's weak spots. Whether it is an missing original document, a faulty affidavit, or an illegal interest hike, we use every available legal tool to protect your interests.
                             </p>
                         </section>
 
                         <section id="case-studies-drt" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 text-center">DRT Case Victories</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 text-center">DRT Case Victories</h3>
                             <div className="grid md:grid-cols-2 gap-6 not-prose">
                                 {[
                                     {
@@ -448,7 +448,7 @@ export default function DRTLoanSettlementPage() {
                                                 {review.name.charAt(0)}
                                             </div>
                                             <div>
-                                                <h3 className="font-bold text-[#2E2E2E]">{review.name}</h3>
+                                                <h4 className="font-bold text-[#2E2E2E]">{review.name}</h4>
                                                 <p className="text-xs text-gray-400">{review.loc}</p>
                                             </div>
                                             <div className="ml-auto text-yellow-400 text-sm flex gap-0.5">
@@ -469,7 +469,7 @@ export default function DRTLoanSettlementPage() {
                         </section>
 
                         <section id="lawyer-selection" className="scroll-mt-32 mb-12">
-                            <h2 className="text-2xl md:text-3xl font-black text-[#2E2E2E] mt-16 mb-8">What to Look for in a DRT Lawyer</h2>
+                            <h3 className="text-2xl md:text-3xl font-black text-[#2E2E2E] mt-16 mb-8">What to Look for in a DRT Lawyer</h3>
                             <p className="mb-6">Selecting the right defense council can make or break your case. In the tribunal environment, where proceedings move fast, you need someone who is agile and detail-oriented.</p>
                             <div className="bg-gray-100 p-8 rounded-2xl">
                                 <ul className="space-y-4 font-bold text-[#2E2E2E]">
@@ -482,7 +482,7 @@ export default function DRTLoanSettlementPage() {
                         </section>
 
                         <section id="faqs-drt" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Expert Insights (FAQs)</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Expert Insights (FAQs)</h3>
                             <div className="space-y-4 not-prose">
                                 {[
                                     { q: "Is it possible to settle a case in the DRT without a lawyer?", a: "While possible, it is extremely risky. Banks have seasoned legal teams in the DRT who know every loophole. Without a lawyer, you might agree to an OTS that is legally unfair or miss critical deadlines like the 45-day window for an SA application." },
@@ -514,7 +514,7 @@ export default function DRTLoanSettlementPage() {
                         <section id="final-call-to-action-drt" className="scroll-mt-32 mt-20">
                             <div className="bg-[#1F5EFF] rounded-3xl p-10 text-white text-center relative overflow-hidden shadow-2xl">
                                 <div className="absolute top-0 left-0 w-full h-full bg-[url('https://www.transparenttextures.com/patterns/cubes.png')] opacity-10"></div>
-                                <h2 className="text-3xl md:text-5xl font-black mb-6 relative z-10 text-white">Fight Back with Professional Help</h2>
+                                <h3 className="text-3xl md:text-5xl font-black mb-6 relative z-10 text-white">Fight Back with Professional Help</h3>
                                 <p className="text-xl mb-10 opacity-90 max-w-2xl mx-auto relative z-10 text-white">
                                     The DRT is not a dead end; it is a legal battlefield. Our expert lawyers and negotiators are ready to fight for your rights and your assets.
                                 </p>
@@ -535,7 +535,7 @@ export default function DRTLoanSettlementPage() {
                         <div className="lg:hidden mt-16 mb-8">
                             <div className="bg-[#2E2E2E] rounded-2xl shadow-xl overflow-hidden border border-[#DEDEDE]/10">
                                 <div className="bg-[#1F5EFF] p-4 text-center">
-                                    <h3 className="text-lg font-black text-white">Expert DRT Defense</h3>
+                                    <h4 className="text-lg font-black text-white">Expert DRT Defense</h4>
                                 </div>
                                 <div className="p-6 text-center">
                                     <p className="mb-6 text-sm text-[#DEDEDE] opacity-80 leading-relaxed font-bold">

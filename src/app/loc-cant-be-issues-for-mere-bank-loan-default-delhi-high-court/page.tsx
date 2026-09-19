@@ -224,7 +224,7 @@ export default function LOCDelhiHighCourtPage() {
                         </section>
 
                         <section id="understanding-loc" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">What is a Lookout Circular (LOC)?</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">What is a Lookout Circular (LOC)?</h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 A Lookout Circular is an internal communication used by law enforcement agencies and financial institutions to keep track of individuals who are wanted by the police or are suspected of having committed a crime. The primary objective is to prevent such individuals from leaving the country.
                             </p>
@@ -237,7 +237,7 @@ export default function LOCDelhiHighCourtPage() {
                         </section>
 
                         <section id="mere-default-myth" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">The "Mere Bank Loan Default" Myth</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">The "Mere Bank Loan Default" Myth</h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 Many borrowers live in fear that defaulting on an EMI or a business loan will automatically lead to their name being added to a "no-fly list." This is a myth that banks often use as a threat during the recovery process.
                             </p>
@@ -253,13 +253,13 @@ export default function LOCDelhiHighCourtPage() {
                         </section>
 
                         <section id="delhi-hc-judgments" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">Landmark Judgments: The Legal Shield for Borrowers</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">Landmark Judgments: The Legal Shield for Borrowers</h3>
                             <p className="text-lg leading-relaxed mb-8">
                                 The evolution of LOC law in Delhi has been marked by several key rulings that have progressively narrowed the scope of executive power. These judgments serve as a shield for borrowers who find themselves unfairly targeted.
                             </p>
                             <div className="space-y-6 mb-10">
                                 <div className="p-8 bg-gray-50 border-l-8 border-[#1F5EFF] rounded-r-2xl shadow-sm">
-                                    <h3 className="font-bold text-2xl mb-4 text-[#2E2E2E]">Sumer Singh Salkan vs. Asstt. Director</h3>
+                                    <h4 className="font-bold text-2xl mb-4 text-[#2E2E2E]">Sumer Singh Salkan vs. Asstt. Director</h4>
                                     <p className="text-base text-gray-700 leading-relaxed mb-4">
                                         This foundational judgment laid down the criteria for issuing an LOC. It established that an LOC can only be issued when there is a pending criminal case or when the individual is deliberately avoiding appearance before a court.
                                     </p>
@@ -268,7 +268,7 @@ export default function LOCDelhiHighCourtPage() {
                                     </p>
                                 </div>
                                 <div className="p-8 bg-gray-50 border-l-8 border-[#1F5EFF] rounded-r-2xl shadow-sm">
-                                    <h4 className="font-bold text-2xl mb-4 text-[#2E2E2E]">Prashant Shellar vs. Managing Director</h4>
+                                    <h5 className="font-bold text-2xl mb-4 text-[#2E2E2E]">Prashant Shellar vs. Managing Director</h5>
                                     <p className="text-base text-gray-700 leading-relaxed mb-4">
                                         In this case, the Delhi High Court quashed an LOC issued by a bank against a borrower who was regularly appearing before the DRT. The Court noted that the bank was using the LOC as an "arm-twisting tactic" to force a settlement.
                                     </p>
@@ -277,7 +277,7 @@ export default function LOCDelhiHighCourtPage() {
                                     </p>
                                 </div>
                                 <div className="p-8 bg-gray-50 border-l-8 border-[#1F5EFF] rounded-r-2xl shadow-sm">
-                                    <h4 className="font-bold text-2xl mb-4 text-[#2E2E2E]">Deepak Singhal vs. Union of India (2024)</h4>
+                                    <h5 className="font-bold text-2xl mb-4 text-[#2E2E2E]">Deepak Singhal vs. Union of India (2024)</h5>
                                     <p className="text-base text-gray-700 leading-relaxed mb-4">
                                         A more recent ruling where the Court quashed an LOC against a director of a company in liquidation. The Court held that liquidation is a civil process and the director's presence in India is not required at all times unless specific criminal charges are framed.
                                     </p>
@@ -289,7 +289,7 @@ export default function LOCDelhiHighCourtPage() {
                         </section>
 
                         <section id="article-21-rights" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">Article 21 and the Inalienable Right to Travel</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">Article 21 and the Inalienable Right to Travel</h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 The Supreme Court of India, in the landmark case of Maneka Gandhi vs. Union of India, established that the right to travel abroad is an integral part of "personal liberty" under Article 21. Any procedure that seeks to deprive a person of this liberty must be "fair, just, and reasonable."
                             </p>
@@ -298,18 +298,18 @@ export default function LOCDelhiHighCourtPage() {
                             </p>
                             <div className="grid md:grid-cols-2 gap-8 mb-10">
                                 <div className="p-6 bg-white border border-[#DEDEDE] rounded-xl">
-                                    <h3 className="font-bold text-[#1F5EFF] mb-3">Violation of Liberty</h3>
+                                    <h4 className="font-bold text-[#1F5EFF] mb-3">Violation of Liberty</h4>
                                     <p className="text-sm">Stopping someone at the airport without a court order or a criminal charge is a direct violation of their personal liberty. The Court views this as an extreme measure that can only be justified by national security or grave criminal acts.</p>
                                 </div>
                                 <div className="p-6 bg-white border border-[#DEDEDE] rounded-xl">
-                                    <h4 className="font-bold text-[#1F5EFF] mb-3">Lack of Proportionality</h4>
+                                    <h5 className="font-bold text-[#1F5EFF] mb-3">Lack of Proportionality</h5>
                                     <p className="text-sm">The legal principle of 'proportionality' means the punishment must fit the 'crime'. Restricting travel for a loan default is considered disproportionate because the loss is financial, while the restriction is on a fundamental human right.</p>
                                 </div>
                             </div>
                         </section>
 
                         <section id="economic-interest" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">Defining the "Economic Interest of India"</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">Defining the "Economic Interest of India"</h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 One of the most debated phrases in LOC law is "economic interest of India." Banks often argue that since the default is large, it affects the bank's health, and by extension, the national economy.
                             </p>
@@ -322,7 +322,7 @@ export default function LOCDelhiHighCourtPage() {
                         </section>
 
                         <section id="vicarious-liability" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">No Vicarious Liability: Protecting Directors and Guarantors</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">No Vicarious Liability: Protecting Directors and Guarantors</h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 A common tactic used by banks is to issue LOCs against every director on the board of a defaulting company, including independent and non-executive directors. They also target family members who might have signed as personal guarantors.
                             </p>
@@ -349,12 +349,12 @@ export default function LOCDelhiHighCourtPage() {
                         </section>
 
                         <section id="challenging-loc" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">How to Challenge an Illegal LOC: A Step-by-Step Guide</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">How to Challenge an Illegal LOC: A Step-by-Step Guide</h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 If you discover an LOC against your name—often only when you are stopped at the Immigration counter—you must act quickly. The Delhi High Court is the primary forum for challenging LOCs issued by central agencies or banks with headquarters in Delhi.
                             </p>
                             <div className="bg-[#1F5EFF]/5 p-8 rounded-3xl border border-[#1F5EFF]/20 mb-10">
-                                <h3 className="text-2xl font-black text-[#2E2E2E] mb-6">The Legal Strategy</h3>
+                                <h4 className="text-2xl font-black text-[#2E2E2E] mb-6">The Legal Strategy</h4>
                                 <ol className="space-y-4 text-base font-medium">
                                     <li className="flex items-start gap-3">
                                         <span className="w-6 h-6 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center text-xs flex-shrink-0 mt-1">1</span>
@@ -377,7 +377,7 @@ export default function LOCDelhiHighCourtPage() {
                         </section>
 
                         <section id="settleloans-support" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">SettleLoans: Your Partner in Debt Resolution and Legal Defense</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">SettleLoans: Your Partner in Debt Resolution and Legal Defense</h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 At SettleLoans, we understand that an LOC is often the "final straw" for a borrower already struggling with financial stress. Our team of legal experts and debt resolution consultants works tirelessly to protect your rights.
                             </p>
@@ -390,36 +390,36 @@ export default function LOCDelhiHighCourtPage() {
                         </section>
 
                         <section id="helpful-resources" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">Helpful Resources</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">Helpful Resources</h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 If you are dealing with loan defaults or bank harassment, the following resources from our site might be helpful:
                             </p>
                             <div className="grid md:grid-cols-2 gap-4">
                                 <Link href="/loan-settlement-lawyers" className="p-4 bg-gray-50 rounded-xl border border-gray-200 hover:border-[#1F5EFF] transition-colors">
-                                    <h3 className="font-bold text-[#1F5EFF]">Loan Settlement Lawyers</h3>
+                                    <h4 className="font-bold text-[#1F5EFF]">Loan Settlement Lawyers</h4>
                                     <p className="text-sm text-gray-600">Expert legal advice for settling outstanding debts.</p>
                                 </Link>
                                 <Link href="/punishment-for-non-payment-of-personal-loan-in-india" className="p-4 bg-gray-50 rounded-xl border border-gray-200 hover:border-[#1F5EFF] transition-colors">
-                                    <h4 className="font-bold text-[#1F5EFF]">Punishment for Default</h4>
+                                    <h5 className="font-bold text-[#1F5EFF]">Punishment for Default</h5>
                                     <p className="text-sm text-gray-600">Understand the legal consequences of loan non-payment.</p>
                                 </Link>
                                 <Link href="/rbi-rules-for-recovery-agents" className="p-4 bg-gray-50 rounded-xl border border-gray-200 hover:border-[#1F5EFF] transition-colors">
-                                    <h5 className="font-bold text-[#1F5EFF]">RBI Recovery Rules</h5>
+                                    <h6 className="font-bold text-[#1F5EFF]">RBI Recovery Rules</h6>
                                     <p className="text-sm text-gray-600">Know your rights against recovery agent harassment.</p>
                                 </Link>
                                 <Link href="/how-to-stop-loan-recovery-harassment" className="p-4 bg-gray-50 rounded-xl border border-gray-200 hover:border-[#1F5EFF] transition-colors">
-                                    <h5 className="font-bold text-[#1F5EFF]">Stop Harassment</h5>
+                                    <h6 className="font-bold text-[#1F5EFF]">Stop Harassment</h6>
                                     <p className="text-sm text-gray-600">Practical steps to handle aggressive recovery agents.</p>
                                 </Link>
                                 <Link href="/debt-settlement-company-in-india" className="p-4 bg-gray-50 rounded-xl border border-gray-200 hover:border-[#1F5EFF] transition-colors">
-                                    <h5 className="font-bold text-[#1F5EFF]">Debt Settlement in India</h5>
+                                    <h6 className="font-bold text-[#1F5EFF]">Debt Settlement in India</h6>
                                     <p className="text-sm text-gray-600">How professional firms help you settle for less.</p>
                                 </Link>
                             </div>
                         </section>
 
                         <section id="success-stories" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 text-center">LOC Case Success History</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 text-center">LOC Case Success History</h3>
                             <div className="grid md:grid-cols-2 gap-10 not-prose">
                                 {[
                                     {
@@ -457,7 +457,7 @@ export default function LOCDelhiHighCourtPage() {
                                         <div className="flex items-center mb-4">
                                             <div className="w-10 h-10 rounded-full bg-blue-100 flex items-center justify-center font-bold text-blue-600 mr-3">{review.name.split(' ')[0][0]}</div>
                                             <div>
-                                                <h3 className="font-bold text-[#2E2E2E]">{review.name}</h3>
+                                                <h4 className="font-bold text-[#2E2E2E]">{review.name}</h4>
                                                 <p className="text-xs text-gray-400">{review.loc}</p>
                                             </div>
                                             <div className="ml-auto text-yellow-400 text-sm">★★★★★</div>
@@ -472,7 +472,7 @@ export default function LOCDelhiHighCourtPage() {
                         </section>
 
                         <section id="faqs" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">LOC & Travel Rights FAQs</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">LOC & Travel Rights FAQs</h3>
                             <div className="space-y-6 not-prose">
                                 {[
                                     { q: "Can a bank issue an LOC for a simple loan default?", a: "No, the Delhi High Court has ruled that a Lookout Circular (LOC) cannot be issued merely for a bank loan default or inability to pay. It is considered a violation of the fundamental right to travel under Article 21." },
@@ -502,7 +502,7 @@ export default function LOCDelhiHighCourtPage() {
                         </section>
 
                         <div className="mt-16 p-8 bg-[#1F5EFF] rounded-3xl text-white text-center">
-                            <h2 className="text-3xl font-black mb-6">Challenge Your Illegal LOC Today</h2>
+                            <h3 className="text-3xl font-black mb-6">Challenge Your Illegal LOC Today</h3>
                             <p className="text-xl mb-8 opacity-90">
                                 Don't let banks restrict your freedom of movement. Our legal team specializes in Delhi High Court writ petitions to quash illegal Lookout Circulars.
                             </p>

@@ -283,7 +283,7 @@ export default function ChandigarhLoanSettlementPage() {
             </section>
 
             <section id="tricity-debt-challenge" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl font-black mb-6">The Tricity Debt Challenge: Mohali, Panchkula, and Zirakpur</h2>
+              <h3 className="text-3xl font-black mb-6">The Tricity Debt Challenge: Mohali, Panchkula, and Zirakpur</h3>
               <p>The debt issues in Chandigarh are inextricably linked to its satellite cities - Mohali (SAS Nagar) and Panchkula. Together, the "Tricity" forms a continuous urban sprawl with integrated economies but distinct legal jurisdictions. A borrower might live in Mohali, work in Chandigarh, and have a business registered in Panchkula. This cross border dynamic creates unique challenges and opportunities in debt settlement.</p>
               <p>In Mohali, the rapid real estate expansion has led to a high volume of home loans and Loans Against Property (LAP). When property prices stagnate or construction projects delay, borrowers face immense stress. In Panchkula, the service sector workforce often grapples with high interest unsecured debt. Zirakpur, as a booming residential hub, sees a mix of all these issues, with a particularly high density of young professionals struggling with credit card debt.</p>
               <p>Navigating this requires a nuanced approach. For instance, a legal notice for a resident in Mohali might need to reference Punjab state amendments to financial laws, while one for Panchkula would fall under Haryana's jurisdiction. Chandigarh itself is governed by central laws applicable to Union Territories. SettleLoans is uniquely positioned to handle this complexity. Our legal team is well versed in the jurisdictional nuances of the Tricity region. We ensure that no matter where you live or where your bank branch is located, you receive the most effective legal protection available.</p>
@@ -291,7 +291,7 @@ export default function ChandigarhLoanSettlementPage() {
             </section>
 
             <section id="drt-chandigarh-role" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl font-black mb-6">The Critical Role of DRT Sector 17 in Debt Resolution</h2>
+              <h3 className="text-3xl font-black mb-6">The Critical Role of DRT Sector 17 in Debt Resolution</h3>
               <p>For debts exceeding ₹20 lakhs, the Debt Recovery Tribunal (DRT) located in Sector 17, Chandigarh, is the primary judicial battleground. The Chandigarh DRT has a vast jurisdiction, covering not just the UT but also designated districts of Punjab and Haryana. Receiving a summons from the DRT can be a terrifying experience for a borrower, signalling that the bank has initiated formal legal recovery proceedings.</p>
               <p>However, the DRT is also a forum for justice. It is not merely a tool for banks to recover money; it is a tribunal where you have the right to defend yourself against unfair claims. Many borrowers ignore DRT notices out of fear, which is a grave mistake leading to ex parte orders against them. At SettleLoans, we ensure you never face the DRT alone. Our experienced panel of lawyers specializes in DRT matters. We file robust "Written Statements" challenging the bank's calculations, highlighting hidden charges, and exposing procedural lapses.</p>
               <p>One effective strategy we employ is the filing of a Securitization Application (SA) under the SARFAESI Act. If a bank threatens to auction your residential or commercial property, filing an SA is often the only way to obtain a legal stay. We have successfully protected numerous homes in sectors like 40, 44, and Manimajra from aggressive bank takeovers by proving that the bank failed to follow the due process of law.</p>
@@ -299,7 +299,7 @@ export default function ChandigarhLoanSettlementPage() {
             </section>
 
             <section id="legal-framework-chandigarh" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl font-black mb-6">Legal Framework and Borrower Protections in Chandigarh</h2>
+              <h3 className="text-3xl font-black mb-6">Legal Framework and Borrower Protections in Chandigarh</h3>
               <p>Debt settlement is not a favor; it is a legal process grounded in the laws of the land. In Chandigarh, several legal frameworks come into play to protect borrowers. The foremost is the **Reserve Bank of India (RBI) Guidelines** on Fair Practices Code. These guidelines explicitly prohibit harassment and mandate that banks must treat borrowers with dignity. Violations of these guidelines are taken seriously by the Banking Ombudsman, an avenue we frequently use to seek redressal for our clients.</p>
               <p>The **SARFAESI Act, 2002**, while empowering banks to seize assets, also lays down strict procedures they must follow. For instance, they cannot simply walk in and lock your house. They must issue notices under Section 13(2) and Section 13(4), and they must apply to the District Magistrate (DM) for physical possession. In Chandigarh, the Deputy Commissioner exercises these powers. We scrutinize every step of this process. If the bank misses a deadline or fails to reply to your representation, the entire action can be challenged and stalled.</p>
               <p>For unsecured loans, the **Indian Contract Act, 1872** provides the basis for renegotiating terms. A loan agreement is a contract, and like any contract, it can be altered by mutual consent. This is the legal basis for settlement. We also utilize provisions of the **Consumer Protection Act, 2019**. If a bank or its agents engage in "unfair trade practices" - such as shaming you publicly or using abusive language - we help you file a complaint in the District Consumer Disputes Redressal Commission, Chandigarh. The threat of consumer court penalties is a potent deterrent against harassment.</p>
@@ -307,7 +307,7 @@ export default function ChandigarhLoanSettlementPage() {
             </section>
 
             <section id="stopping-harassment" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl font-black mb-6">Stopping Recovery Harassment: Reclaiming Your Peace of Mind</h2>
+              <h3 className="text-3xl font-black mb-6">Stopping Recovery Harassment: Reclaiming Your Peace of Mind</h3>
               <p>The most immediate and painful aspect of a debt crisis is the harassment from recovery agents. In Chandigarh, despite its orderly exterior, the underbelly of debt recovery can be ugly. Agents often resort to calling relatives, visiting workplaces in IT Park or Industrial Area, and using abusive language. This is illegal. The Supreme Court of India has ruled that the right to privacy is a fundamental right, and debt default does not strip you of your human rights.</p>
               <p>SettleLoans acts as a shield between you and these agents. The moment you sign up with us, we issue a formal **Legal Notice of Representation** to your creditors. This document informs them that you have appointed legal counsel and directs them to route all future communication through us. For most banks and agencies, this is a red line they dare not cross. They know that continuing to harass a legally represented client can lead to severe regulatory consequences.</p>
               <p>If harassment persists, we take escalation seriously. We help you file formal complaints with the **Senior Superintendent of Police (SSP), Chandigarh**, and the Cyber Cell if the harassment is digital. We also leverage the RBI's Sachet portal and the Internal Ombudsman mechanisms of the banks. Our objective is to create a "harassment free zone" for you. When the phone stops ringing constantly, your anxiety levels drop, and you can think clearly again. This mental space is crucial for making the right financial decisions towards settlement.</p>
@@ -315,7 +315,7 @@ export default function ChandigarhLoanSettlementPage() {
             </section>
 
             <section id="settlement-process" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl font-black mb-6">The SettleLoans Roadmap: From Stress to Settlement</h2>
+              <h3 className="text-3xl font-black mb-6">The SettleLoans Roadmap: From Stress to Settlement</h3>
               <p>Navigating out of debt requires a structured approach. Our "Roadmap to Freedom" is designed to be transparent, effective, and tailored to the Chandigarh market. It begins with a deep dive **Financial Assessment**. We analyze your entire debt portfolio - credit cards, personal loans, EMI cards - and assess your current income and disposable assets. This helps us determine a realistic "Settlement Budget."</p>
               <p>Next is the **Protection & Delinquency Management** phase. We explain that to get a settlement, accounts often need to slip into delinquency (NPA) to be classified as "distressed assets" by the bank. This is a stressful period, but it is necessary. During this time, our legal notices protect you from harassment, and we prepare you for the bank's escalation tactics. We handle the notices they send, ensuring you don't accidentally acknowledge something that hurts your case.</p>
               <p>Then comes the **Negotiation Phase**. This is where our expertise shines. We engage with the bank's settlement officers, not the call center juniors. We present your hardship case - be it job loss, medical issues, or business failure - supported by documentation. We reject their initial high offers. We negotiate hard, knowing the bank's provision norms and quarter end targets. Our goal is to bring the settlement amount down to 25% 40% of the outstanding, or even less in cases of extreme hardship.</p>
@@ -323,7 +323,7 @@ export default function ChandigarhLoanSettlementPage() {
             </section>
 
             <section id="credit-card-settlement" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl font-black mb-6">Settling Credit Card Debt in Chandigarh</h2>
+              <h3 className="text-3xl font-black mb-6">Settling Credit Card Debt in Chandigarh</h3>
               <p>Credit card debt is particularly insidious due to the astronomical interest rates, often ranging from 36% to 48% annually. In a consumption driven city like Chandigarh, it is easy to accumulate multiple cards. A limit of ₹5 lakhs can balloon to ₹8 lakhs in just a year of minimum payments. Breaking this cycle via minimum payments is mathematically impossible for most. Settlement is often the only logical exit.</p>
               <p>We specialize in credit card settlements. Banks treat unsecured credit card debt as high risk, which essentially means they are more willing to settle for a lower amount to recover *something*. We leverage this. We pool your credit card debts and prioritize them. Often, we find that a significant portion of your outstanding balance is just interest, late fees, and over limit charges. We fight to strip these away.</p>
               <p>Our strategy involves proving that the principal has already been paid multiple times over through years of minimum payments. We use this data to shame the bank into a fair deal. Whether you hold cards from HDFC, ICICI, SBI, or Amex, we know their specific settlement policies. We have achieved waivers as high as 80% for clients in Chandigarh who had been paying minimums for years without seeing the principal drop.</p>
@@ -331,7 +331,7 @@ export default function ChandigarhLoanSettlementPage() {
             </section>
 
             <section id="personal-loan-solutions" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl font-black mb-6">Strategic Solutions for Personal Loans</h2>
+              <h3 className="text-3xl font-black mb-6">Strategic Solutions for Personal Loans</h3>
               <p>Personal loans are the other major component of the Chandigarh debt crisis. Unlike credit cards, these have a fixed tenure, but the sheer size of the EMIs can be overwhelming. When you default on a personal loan, the bank often triggers the "recall notice," demanding the entire loan amount at once. This is impossible for someone struggling to pay even one EMI.</p>
               <p>Our approach to personal loans is one of "strategic restructuring" leading to settlement. We first stop the automatic ECS/NACH deductions to prevent bounce charges from eating up your bank balance. We then engage the bank to explain the "Genuine Reason for Default." Banks distinguish between "willful defaulters" (who have money but won't pay) and "circumstantial defaulters" (who want to pay but can't). We firmly establish you in the second category.</p>
               <p>For larger personal loans, banks may threaten arbitration or civil suits. We represent you in these proceedings. We often use the **Pre-Litigation Mediation** route, inviting the bank to sit across the table and find a solution. This saves the bank legal costs and gets you a deal. We have successfully settled personal loans of ₹10 lakhs+ for as low as ₹3-4 lakhs for clients across sectors in Chandigarh.</p>
@@ -339,34 +339,34 @@ export default function ChandigarhLoanSettlementPage() {
             </section>
 
             <section id="government-employee-debt" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl font-black mb-6">Debt Challenges for Government Employees</h2>
+              <h3 className="text-3xl font-black mb-6">Debt Challenges for Government Employees</h3>
               <p>Chandigarh has a very high density of government employees working for the Punjab, Haryana, or Central governments. For this demographic, debt carries a unique risk: the fear of departmental action. Conduct rules often state that an employee should not fall into "habitual indebtedness" or face insolvency proceedings. Banks know this and often subtly threaten to complain to the department to coerce payment.</p>
               <p>We provide specialized counsel for government employees. We clarify that **loan settlement is not insolvency**. It is a private contract renegotiation. It does not automatically trigger departmental inquiries. We ensure that the settlement is handled discreetly. We act as a firewall, ensuring that no recovery agent ever steps foot in your office at the Secretariat or other government buildings.</p>
               <p>We also advise on how to manage salary accounts. often, the loan is linked to the salary account, and the bank deducts the EMI the moment the salary hits, leaving the family with nothing. We guide you on legally unlinking these or managing your funds so that you retain control over your livelihood. Our goal is to protect your career while you resolve your financial mess.</p>
             </section>
 
             <section id="rebuilding-credit" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl font-black mb-6">Life After Settlement: Rebuilding Your CIBIL Score</h2>
+              <h3 className="text-3xl font-black mb-6">Life After Settlement: Rebuilding Your CIBIL Score</h3>
               <p>A common myth is that settlement destroys your financial life forever. This is false. Yes, settlement will lower your CIBIL score initially, and the account status will reflect as "Settled." But this is a temporary state, far better than "Written Off" or "Suit Filed." Settlement stops the bleeding. It puts a full stop to the negative reporting history.</p>
               <p>Once the settlement is done, the rebuilding phase begins. We at SettleLoans don't just leave you there. We provide a **Credit Rebuilding Guide**. The strategy involves checking your CIBIL report 45 days after settlement to ensure the status is updated correctly. We then advise you to take a "Credit Builder Loan" or a secured credit card (backed by a Fixed Deposit). Using this card for small expenses like fuel or groceries and paying it back in full on day 1 generates positive payment history.</p>
               <p>Over a period of 12 to 24 months, this positive behavior outweighs the past negative settlement. We have seen clients in Chandigarh bounce back to scores of 750+, becoming eligible for car loans and even home loans again. Financial freedom is a journey, and settlement is the turn in the road that leads you back to the highway of stability.</p>
             </section>
 
             <section id="why-choose-us" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl font-black mb-6">Why Chandigarh Trusts SettleLoans</h2>
+              <h3 className="text-3xl font-black mb-6">Why Chandigarh Trusts SettleLoans</h3>
               <p>In a market flooded with generic debt advisors, SettleLoans stands apart as a professional, legal centric service. We are not just negotiators; we are debt relief experts with a strong legal backbone. Our presence in the NCR and our deep understanding of the Chandigarh Tricity market make us the preferred choice for informed borrowers.</p>
               <p>We pride ourselves on **transparency**. We don't make false promises of "debt vanishing." We give you a realistic assessment of what is possible. Our **client first approach** means we are always on your side, never the bank's. We measure our success not just by the amount of money saved, but by the peace of mind restored.</p>
               <p>With a track record of thousands of successful settlements and a specific focus on the legal nuances of the region, SettleLoans is your strongest ally in the fight against debt. Don't let debt dictate your life in this beautiful city. Take control today.</p>
             </section>
 
             <section id="chandigarh-success-stories" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl font-black mb-8 text-center">Success Stories from Chandigarh</h2>
+              <h3 className="text-3xl font-black mb-8 text-center">Success Stories from Chandigarh</h3>
               <div className="grid md:grid-cols-2 gap-6 not-prose">
                 <div className="bg-white p-6 rounded-2xl border border-[#DEDEDE] shadow-sm hover:shadow-md transition-all">
                   <div className="flex items-center mb-4">
                     <div className="w-10 h-10 rounded-full bg-[#1F5EFF]/10 flex items-center justify-center font-bold text-[#1F5EFF] mr-3">A</div>
                     <div>
-                      <h3 className="font-bold">Amit Sharma</h3>
+                      <h4 className="font-bold">Amit Sharma</h4>
                       <p className="text-xs text-gray-500">Sector 35, Chandigarh</p>
                     </div>
                   </div>
@@ -377,7 +377,7 @@ export default function ChandigarhLoanSettlementPage() {
                   <div className="flex items-center mb-4">
                     <div className="w-10 h-10 rounded-full bg-[#1F5EFF]/10 flex items-center justify-center font-bold text-[#1F5EFF] mr-3">G</div>
                     <div>
-                      <h4 className="font-bold">Gurpreet Singh</h4>
+                      <h5 className="font-bold">Gurpreet Singh</h5>
                       <p className="text-xs text-gray-500">Mohali</p>
                     </div>
                   </div>
@@ -388,7 +388,7 @@ export default function ChandigarhLoanSettlementPage() {
             </section>
 
             <section id="faqs-chandigarh" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl font-black mb-8">Frequently Asked Questions: Chandigarh</h2>
+              <h3 className="text-3xl font-black mb-8">Frequently Asked Questions: Chandigarh</h3>
               <div className="space-y-4 not-prose">
                 {[
                   { q: "Is loan settlement legal in Chandigarh?", a: "Yes, absolutely. It is a legal process governed by contract law and banking guidelines. It is a legitimate way to exit a debt trap." },
@@ -418,7 +418,7 @@ export default function ChandigarhLoanSettlementPage() {
             </section>
 
             <section className="mt-16 bg-[#1F5EFF] rounded-3xl p-10 text-center text-white shadow-2xl">
-              <h2 className="text-3xl md:text-4xl font-black mb-4">Start Your Debt Free Life in Chandigarh Today</h2>
+              <h3 className="text-3xl md:text-4xl font-black mb-4">Start Your Debt Free Life in Chandigarh Today</h3>
               <p className="mb-8 text-lg opacity-90 max-w-2xl mx-auto">Don't let debt steal your peace in the City Beautiful. Get expert legal help and settle for less.</p>
               <div className="flex justify-center">
                 <Link href="/contact" className="inline-block bg-white text-[#1F5EFF] font-black py-4 px-12 rounded-xl hover:scale-105 transition-all text-xl shadow-lg">

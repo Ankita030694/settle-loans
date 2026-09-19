@@ -3,7 +3,7 @@ import { Metadata } from "next";
 import TableOfContents from "@/components/TableOfContents";
 
 export const metadata: Metadata = {
-  title: "Compare Debt Management & Settlement Programs India 2025",
+  title: "Compare Debt Relief Programs in India | SettleLoans",
   description: "Compare debt settlement, consolidation, and restructuring options in India to choose the right financial relief solution.",
   alternates: {
     canonical: "https://www.settleloans.in/compare-different-debt-management-and-settlement-programs-available-to-indian-consumers",
@@ -190,7 +190,7 @@ export default function DebtProgramComparisonPage() {
             </section>
 
             <section id="psychological-impact" className="scroll-mt-32 mb-12 p-8 bg-blue-50/50 rounded-2xl border border-blue-100 relative overflow-hidden">
-                <h2 className="text-3xl md:text-4xl font-black mb-8 leading-tight text-[#2E2E2E]">The Psychological Impact: <span className="text-black">Managing Your Mindset</span></h2>
+                <h3 className="text-3xl md:text-4xl font-black mb-8 leading-tight text-[#2E2E2E]">The Psychological Impact: <span className="text-black">Managing Your Mindset</span></h3>
                 <div className="space-y-6 text-lg text-[var(--color-text-body)] leading-relaxed">
                     <p>Debt is often treated as a financial problem, but for those living it, it is a psychological one. The 'Stress of the Default' can lead to severe mental health challenges, impacting family relationships, professional performance, and physical well-being.</p>
                     <p>Understand this: The bank sees you as a number on a spreadsheet. You must see the bank as a business partner in a failed venture. The emotional weight you carry is a burden only you can put down. Recovery agents are trained in psychological warfare; their goal is to shame you into submission.</p>
@@ -199,13 +199,13 @@ export default function DebtProgramComparisonPage() {
             </section>
 
             <section id="debt-settlement-deep-dive" className="scroll-mt-32 mb-12">
-                <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">01. Debt Settlement: <span className="text-black">The Surgical Exit</span></h2>
+                <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">01. Debt Settlement: <span className="text-black">The Surgical Exit</span></h3>
                 <div className="prose-xl text-gray-700 leading-relaxed font-medium mb-10">
                     <p>Debt settlement, or One-Time Settlement (OTS), is the strongest tool in the debt relief arsenal. It is the process where a lender agrees to accept a lump-sum payment that is lower than the total outstanding balance, effectively 'writing off' a portion of your debt. This is usually pursued when an account has been in NPA status for 90+ days and the bank believes the recovery risk is high.</p>
                 </div>
                 <div className="grid md:grid-cols-2 gap-10">
                     <div className="p-10 bg-white border-t-8 border-t-[#1F5EFF] rounded-3xl shadow-xl">
-                        <h3 className="font-black uppercase text-[#1F5EFF] text-sm mb-6 pb-2 border-b border-gray-100">Why Settle?</h3>
+                        <h4 className="font-black uppercase text-[#1F5EFF] text-sm mb-6 pb-2 border-b border-gray-100">Why Settle?</h4>
                         <ul className="space-y-4 text-sm font-bold opacity-75">
                             <li className="flex gap-2"><span>-</span> Massive discount (up to 70% off principal)</li>
                             <li className="flex gap-2"><span>-</span> Immediate cessation of legal threats</li>
@@ -214,7 +214,7 @@ export default function DebtProgramComparisonPage() {
                         </ul>
                     </div>
                     <div className="p-10 bg-white border-t-8 border-t-red-500 rounded-3xl shadow-xl">
-                        <h4 className="font-black uppercase text-red-500 text-sm mb-6 pb-2 border-b border-gray-100">The Trade-off</h4>
+                        <h5 className="font-black uppercase text-red-500 text-sm mb-6 pb-2 border-b border-gray-100">The Trade-off</h5>
                         <ul className="space-y-4 text-sm font-bold opacity-75">
                             <li className="flex gap-2"><span>-</span> CIBIL score drops significantly</li>
                             <li className="flex gap-2"><span>-</span> 'Settled' tag sticks for 7 years</li>
@@ -229,13 +229,13 @@ export default function DebtProgramComparisonPage() {
             </section>
 
             <section id="debt-consolidation-deep-dive" className="scroll-mt-32 mb-12">
-                <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">02. Debt Consolidation: <span className="text-black">The Management Path</span></h2>
+                <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">02. Debt Consolidation: <span className="text-black">The Management Path</span></h3>
                 <div className="prose-xl text-gray-700 leading-relaxed font-medium mb-10">
                     <p>Debt consolidation is for the 'Functioning Borrower'. It involves taking one large loan at a lower interest rate to pay off several smaller, high-interest loans. This is particularly effective for people with multiple credit card dues (36% to 42% interest) who can qualify for a personal loan or loan against property (10.5% to 15% interest).</p>
                 </div>
                 <div className="bg-blue-600 text-white p-12 rounded-[60px] shadow-2xl relative overflow-hidden group">
                     <div className="absolute bottom-0 right-0 w-64 h-64 bg-white/10 rounded-full translate-x-1/2 translate-y-1/2 group-hover:scale-125 transition-transform duration-1000"></div>
-                    <h3 className="text-2xl font-black mb-8 uppercase italic">Consolidation Math (A Real World Look)</h3>
+                    <h4 className="text-2xl font-black mb-8 uppercase italic">Consolidation Math (A Real World Look)</h4>
                     <div className="grid sm:grid-cols-2 gap-12 relative z-10">
                         <div>
                             <p className="text-xs font-black uppercase tracking-widest opacity-60 mb-2">Before Consolidation</p>
@@ -260,7 +260,7 @@ export default function DebtProgramComparisonPage() {
             </section>
 
             <section id="credit-counseling-deep-dive" className="scroll-mt-32 mb-12">
-                <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">03. Credit Counseling: <span className="text-black">Educational Safety Net</span></h2>
+                <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">03. Credit Counseling: <span className="text-black">Educational Safety Net</span></h3>
                 <div className="prose-xl text-gray-700 leading-relaxed font-medium mb-10">
                     <p>Credit counseling in India is often the most neglected but most useful tool for early-stage debt. It is a professional service where experts help you build a 'Debt Survival Budget'. They act as a buffer between you and your lenders, often communicating with banks to request interest rate reductions or penalty waivers without going through the formal 'Settlement' route.</p>
                 </div>
@@ -272,27 +272,27 @@ export default function DebtProgramComparisonPage() {
             </section>
 
             <section id="loan-restructuring-deep-dive" className="scroll-mt-32 mb-12">
-                <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">04. Loan Restructuring: <span className="text-black">The Partnership Model</span></h2>
+                <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">04. Loan Restructuring: <span className="text-black">The Partnership Model</span></h3>
                 <div className="prose-xl text-gray-700 leading-relaxed font-medium mb-10">
                     <p>Restructuring is a formal mechanism where the bank modifies your existing loan's terms. Unlike a settlement, where the bank takes a loss, restructuring assumes you will pay back the full amount, but over a longer time or with different conditions. It is ideal for people who have a temporary income shock (like a 3-month medical leave) but whose long-term earning potential is intact.</p>
                 </div>
                 <div className="bg-white p-12 rounded-[50px] border-4 border-green-100 shadow-sm">
-                    <h3 className="text-xl font-black mb-8 underline decoration-green-400 decoration-4">Common Restructuring Moves</h3>
+                    <h4 className="text-xl font-black mb-8 underline decoration-green-400 decoration-4">Common Restructuring Moves</h4>
                     <div className="grid md:grid-cols-2 gap-10">
                         <div className="space-y-4">
-                            <h4 className="font-black text-green-700">1. Tenure Extension</h4>
+                            <h5 className="font-black text-green-700">1. Tenure Extension</h5>
                             <p className="text-sm font-bold text-gray-500 italic">Converting your 3-year loan into a 5-year loan to drop the EMI immediately.</p>
                         </div>
                         <div className="space-y-4">
-                            <h5 className="font-black text-green-700">2. Moratorium Period</h5>
+                            <h6 className="font-black text-green-700">2. Moratorium Period</h6>
                             <p className="text-sm font-bold text-gray-500 italic">Pausing EMI for 3-6 months while you find a new job. Interest continues to accrue.</p>
                         </div>
                         <div className="space-y-4">
-                            <h5 className="font-black text-green-700">3. Interest Capitalization</h5>
+                            <h6 className="font-black text-green-700">3. Interest Capitalization</h6>
                             <p className="text-sm font-bold text-gray-500 italic">Adding unpaid interest back to the principal to 're-start' the loan fresh.</p>
                         </div>
                         <div className="space-y-4">
-                            <h5 className="font-black text-green-700">4. Conversion of CC to Term Loan</h5>
+                            <h6 className="font-black text-green-700">4. Conversion of CC to Term Loan</h6>
                             <p className="text-sm font-bold text-gray-500 italic">Converting a business Cash Credit limit into a fixed monthly EMI loan.</p>
                         </div>
                     </div>
@@ -300,19 +300,19 @@ export default function DebtProgramComparisonPage() {
             </section>
 
             <section id="state-specific-realities" className="scroll-mt-32 mb-12">
-                <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">State-Specific Debt Realities in India</h2>
+                <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">State-Specific Debt Realities in India</h3>
                 <p className="text-xl leading-relaxed mb-10 text-gray-700 font-medium">Debt recovery is theoretically governed by central RBI laws, but the ground reality differs significantly based on which state you reside in. The 'Culture of Credit' and the 'Aggression of Recovery' vary by geography.</p>
                 <div className="space-y-8">
                     <div className="p-8 bg-gray-50 rounded-3xl border-l-8 border-l-black group hover:bg-black hover:text-white transition-all duration-500">
-                        <h3 className="font-black text-lg mb-4 uppercase tracking-widest">The "Metro Hubs" (Mumbai, Delhi, Bangalore)</h3>
+                        <h4 className="font-black text-lg mb-4 uppercase tracking-widest">The "Metro Hubs" (Mumbai, Delhi, Bangalore)</h4>
                         <p className="text-sm font-bold opacity-75">Recovery here is highly organized and often handled by large third-party call centers. While physical harassment is less common than in rural areas, the digital and legal pressure is peak. Banks are more likely to offer settlement in these hubs due to the sheer volume of cases.</p>
                     </div>
                     <div className="p-8 bg-gray-50 rounded-3xl border-l-8 border-l-black group hover:bg-black hover:text-white transition-all duration-500">
-                        <h4 className="font-black text-lg mb-4 uppercase tracking-widest">The "Industrial Belts" (Gujarat, Tamil Nadu, Punjab)</h4>
+                        <h5 className="font-black text-lg mb-4 uppercase tracking-widest">The "Industrial Belts" (Gujarat, Tamil Nadu, Punjab)</h5>
                         <p className="text-sm font-bold opacity-75">Business debt is the primary concern here. Recovery involves more focus on the SARFAESI Act and asset seizure. Borrowers here often use local trade associations for 'Collective Bargaining' with local co-operative banks.</p>
                     </div>
                     <div className="p-8 bg-gray-50 rounded-3xl border-l-8 border-l-black group hover:bg-black hover:text-white transition-all duration-500">
-                        <h4 className="font-black text-lg mb-4 uppercase tracking-widest">The "App-Debt Hubs" (Andhra Pradesh, Telangana, Rajasthan)</h4>
+                        <h5 className="font-black text-lg mb-4 uppercase tracking-widest">The "App-Debt Hubs" (Andhra Pradesh, Telangana, Rajasthan)</h5>
                         <p className="text-sm font-bold opacity-75">These states have seen the highest impact of aggressive fintech lending. The 'Recovery via Contact List Shaming' was primarily concentrated here, leading to several state-specific police actions and harsher local regulations against illegal lending apps.</p>
                     </div>
                 </div>
@@ -320,7 +320,7 @@ export default function DebtProgramComparisonPage() {
 
             <section id="digital-lending-impact" className="scroll-mt-32 mb-12 relative">
                  <div className="bg-[#2E2E2E] text-white p-8 md:p-12 rounded-2xl shadow-xl text-center">
-                    <h2 className="text-2xl md:text-3xl font-black mb-6 text-[#1F5EFF]">Digital App Debt: The 2025 Epidemic</h2>
+                    <h3 className="text-2xl md:text-3xl font-black mb-6 text-[#1F5EFF]">Digital App Debt: The 2025 Epidemic</h3>
                     <p className="text-lg font-bold mb-12 opacity-80 leading-[1.6]">App-based lending has created a new type of debt trap. Because these loans are small (₹10k to ₹50k) and have extremely high interest (often 60%+ APR), they are hard to consolidate via traditional banks. However, because they have zero security, they are often the easiest to settle for as low as 20% of the principal if you have a professional representing you against their automated harassment systems.</p>
                     <div className="flex flex-wrap justify-center gap-6">
                         <span className="px-6 py-3 bg-white/10 rounded-full border border-white/20 text-xs font-black uppercase tracking-widest">Zero Collateral</span>
@@ -332,7 +332,7 @@ export default function DebtProgramComparisonPage() {
             </section>
 
             <section id="comparison-tables" className="scroll-mt-32 mb-12">
-                <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">The Ultimate Comparison Matrix</h2>
+                <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">The Ultimate Comparison Matrix</h3>
                 <div className="overflow-x-auto rounded-[40px] shadow-2xl">
                     <table className="w-full border-collapse border border-gray-100 bg-white min-w-[800px]">
                         <thead>
@@ -386,7 +386,7 @@ export default function DebtProgramComparisonPage() {
             </section>
 
             <section id="tax-implications-relief" className="scroll-mt-32 mb-12 p-8 bg-yellow-50 rounded-2xl border border-yellow-200">
-                <h2 className="text-2xl font-black mb-6 text-yellow-900 uppercase">Tax Implications of Debt Relief</h2>
+                <h3 className="text-2xl font-black mb-6 text-yellow-900 uppercase">Tax Implications of Debt Relief</h3>
                 <div className="space-y-6 text-lg text-yellow-900/80 font-bold leading-relaxed">
                     <p>In India, when a bank 'writes off' your debt in a settlement, it is technically considered 'income' in some contexts. Under Section 194R of the Income Tax Act, which was introduced in 2022, any benefit or perquisite arising from a business or profession must have TDS deducted at 10%. While the RBI has clarified that One-Time Settlements for distressed assets are exempted from 194R TDS for the borrower, it is vital to have the correct document, known as the 'Waiver Certificate', to ensure your CA can defend your tax filings.</p>
                     <p>For individuals, a settlement on a personal loan or credit card is generally not taxed as income, provided you can prove you were in a 'Negative Net Worth' state at the time of settlement. However, if the bank issues a 1099-C equivalent in the Indian context, you must be prepared to show that the forgiven debt was a result of genuine hardship. Professional consultants help ensure that the settlement letter specifies the nature of the waiver to minimize your future tax liability.</p>
@@ -394,42 +394,42 @@ export default function DebtProgramComparisonPage() {
             </section>
 
             <section id="life-after-debt-timeline" className="scroll-mt-32 mb-12 bg-white border border-gray-100 p-8 rounded-2xl shadow-sm">
-                <h2 className="text-2xl md:text-3xl font-black mb-8 text-[#2E2E2E] uppercase tracking-tighter">The Life After Debt Roadmap</h2>
+                <h3 className="text-2xl md:text-3xl font-black mb-8 text-[#2E2E2E] uppercase tracking-tighter">The Life After Debt Roadmap</h3>
                 <div className="grid md:grid-cols-3 gap-10">
                     <div className="space-y-4">
-                        <h3 className="font-black text-[#1F5EFF] uppercase text-xs tracking-widest">Phase 1: Months 1-12</h3>
+                        <h4 className="font-black text-[#1F5EFF] uppercase text-xs tracking-widest">Phase 1: Months 1-12</h4>
                         <p className="text-sm font-bold opacity-75 leading-relaxed">Focus on 'Credit Silence'. Do not apply for any new loans. Ensure all utilities are in your name and paid on time. Receive your No Dues Certificate and verify it with CIBIL. If the tag is 'Written-off', use your sanction letter to dispute and change it to 'Settled'.</p>
                     </div>
                     <div className="space-y-4">
-                        <h4 className="font-black text-[#1F5EFF] uppercase text-xs tracking-widest">Phase 2: Months 13-24</h4>
+                        <h5 className="font-black text-[#1F5EFF] uppercase text-xs tracking-widest">Phase 2: Months 13-24</h5>
                         <p className="text-sm font-bold opacity-75 leading-relaxed">The 'Secured Entry'. Take a small credit card against a Fixed Deposit (FD). Spend only for fuel or groceries. Pay it back 5 days before the due date. This builds a fresh, positive repayment history on top of the old settlement scar.</p>
                     </div>
                     <div className="space-y-4">
-                        <h4 className="font-black text-[#1F5EFF] uppercase text-xs tracking-widest">Phase 3: Months 25-36</h4>
+                        <h5 className="font-black text-[#1F5EFF] uppercase text-xs tracking-widest">Phase 3: Months 25-36</h5>
                         <p className="text-sm font-bold opacity-75 leading-relaxed">The 'New Normal'. Apply for a small consumer durable loan (like a laptop or fridge) through a retail financier. Successful repayment of this will jump your score significantly. By Month 36, you should be eligible for a standard unsecured loan again, albeit at slightly higher rates.</p>
                     </div>
                 </div>
             </section>
 
             <section id="asset-specific-management" className="scroll-mt-32 mb-12">
-                 <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">Asset-Specific Debt Relief</h2>
+                 <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">Asset-Specific Debt Relief</h3>
                  <div className="prose-xl text-gray-700 leading-relaxed font-medium mb-12">
                     <p>While credit cards and personal loans are easy to settle, what happens when you owe money against an asset? The strategy changes completely when the bank has leverage over your property, gold, or vehicle.</p>
                  </div>
                  <div className="grid lg:grid-cols-2 gap-10">
                     <div className="p-10 bg-gray-50 rounded-[40px] border border-gray-100">
-                        <h3 className="font-black text-lg mb-4 text-[#1F5EFF] uppercase">1. Gold Loan Management</h3>
+                        <h4 className="font-black text-lg mb-4 text-[#1F5EFF] uppercase">1. Gold Loan Management</h4>
                         <p className="text-sm font-bold opacity-70 leading-relaxed mb-6">Gold loans are 'Asset-Rich'. Banks will almost never offer a settlement because they can simply auction your gold. In this case, 'Consolidation' or 'Refinancing' is the only option. We help you move your gold to a lower-interest lender before the auction date to save your family's assets.</p>
                     </div>
                     <div className="p-10 bg-gray-50 rounded-[40px] border border-gray-100">
-                        <h4 className="font-black text-lg mb-4 text-[#1F5EFF] uppercase">2. Loan Against Property (LAP)</h4>
+                        <h5 className="font-black text-lg mb-4 text-[#1F5EFF] uppercase">2. Loan Against Property (LAP)</h5>
                         <p className="text-sm font-bold opacity-70 leading-relaxed mb-6">LAP falls under the SARFAESI Act. If you default, the bank will try to seize the property. A settlement is only possible if the property value has dropped significantly or if there are legal disputes regarding the title. Professional advocates are essential here to stall the auction through DRT and force a settlement.</p>
                     </div>
                  </div>
             </section>
 
             <section id="glossary-debt-terms" className="scroll-mt-32 mb-12 bg-[#2E2E2E] text-white p-8 md:p-12 rounded-2xl">
-                <h2 className="text-2xl md:text-3xl font-black mb-8 uppercase tracking-wider text-[#1F5EFF]">Debt Relief Glossary</h2>
+                <h3 className="text-2xl md:text-3xl font-black mb-8 uppercase tracking-wider text-[#1F5EFF]">Debt Relief Glossary</h3>
                 <div className="grid md:grid-cols-2 gap-x-16 gap-y-12 h-[600px] overflow-y-auto scrollbar-hide pr-6">
                     {[
                       { t: "Haircut", d: "The percentage of the loan principal that the bank agrees to waive off during a settlement. A 60% haircut means you only pay 40%." },
@@ -446,7 +446,7 @@ export default function DebtProgramComparisonPage() {
                       { t: "Credit Utilization Ratio", d: "The percentage of your total available credit that you are currently using. Keeping this below 30% is vital for score repair." }
                     ].map((term, i) => (
                       <div key={i} className="border-b border-white/10 pb-6 group">
-                         <h3 className="text-[#1F5EFF] font-black text-xl mb-2 group-hover:scale-110 origin-left transition-transform uppercase">{term.t}</h3>
+                         <h4 className="text-[#1F5EFF] font-black text-xl mb-2 group-hover:scale-110 origin-left transition-transform uppercase">{term.t}</h4>
                          <p className="text-sm font-bold text-white/50 leading-relaxed italic">{term.d}</p>
                       </div>
                     ))}
@@ -454,7 +454,7 @@ export default function DebtProgramComparisonPage() {
             </section>
 
             <section id="cibil-impact-analysis" className="scroll-mt-32 mb-12">
-                <h2 className="text-2xl font-black mb-8 uppercase tracking-widest text-[#1F5EFF] italic">CIBIL Analysis</h2>
+                <h3 className="text-2xl font-black mb-8 uppercase tracking-widest text-[#1F5EFF] italic">CIBIL Analysis</h3>
                 <div className="grid md:grid-cols-2 lg:grid-cols-4 gap-4">
                     {[
                       { tag: "Settled", desc: "Bank took a loss. Negative for 7 years. Immediate recovery exit.", color: "bg-orange-500" },
@@ -464,7 +464,7 @@ export default function DebtProgramComparisonPage() {
                     ].map((item, i) => (
                       <div key={i} className="bg-white p-6 rounded-3xl border border-gray-100 shadow-sm flex flex-col items-center text-center">
                         <div className={`w-3 h-3 rounded-full mb-4 ${item.color} animate-pulse`}></div>
-                        <h3 className="font-black text-lg mb-2">{item.tag}</h3>
+                        <h4 className="font-black text-lg mb-2">{item.tag}</h4>
                         <p className="text-[10px] font-bold text-gray-400 leading-relaxed italic">{item.desc}</p>
                       </div>
                     ))}
@@ -472,12 +472,12 @@ export default function DebtProgramComparisonPage() {
             </section>
 
             <section id="selection-strategy" className="scroll-mt-32 mb-12">
-                <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">The Exit Path Selection Engine</h2>
+                <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">The Exit Path Selection Engine</h3>
                 <div className="space-y-10">
                     <div className="flex gap-10 items-start p-10 bg-white border border-gray-100 rounded-[50px] shadow-sm hover:shadow-2xl transition-all border-b-[16px] border-b-[#1F5EFF]/10">
                         <div className="w-16 h-16 bg-[#1F5EFF] text-white rounded-full flex-shrink-0 flex items-center justify-center font-black text-2xl">A</div>
                         <div>
-                            <h3 className="text-2xl font-black mb-4">The 'Liquidity' Path (Consolidation)</h3>
+                            <h4 className="text-2xl font-black mb-4">The 'Liquidity' Path (Consolidation)</h4>
                             <p className="text-lg font-bold text-gray-600 mb-4">You have a job. You can pay. But You are exhausted by 10 different EMI dates and high card interest.</p>
                             <span className="text-xs font-black uppercase text-[#1F5EFF] tracking-[0.2em] bg-blue-50 px-4 py-2 rounded-full">Score Focus: High</span>
                         </div>
@@ -485,7 +485,7 @@ export default function DebtProgramComparisonPage() {
                     <div className="flex gap-10 items-start p-10 bg-white border border-gray-100 rounded-[50px] shadow-sm hover:shadow-2xl transition-all border-b-[16px] border-b-red-500/10">
                         <div className="w-16 h-16 bg-red-500 text-white rounded-full flex-shrink-0 flex items-center justify-center font-black text-2xl">B</div>
                         <div>
-                            <h4 className="text-2xl font-black mb-4">The 'Hardship' Path (Settlement)</h4>
+                            <h5 className="text-2xl font-black mb-4">The 'Hardship' Path (Settlement)</h5>
                             <p className="text-lg font-bold text-gray-600 mb-4">You lost your income source. The calls have started. You have some gold or land you can sell, but not enough to pay the whole debt.</p>
                             <span className="text-xs font-black uppercase text-red-500 tracking-[0.2em] bg-red-50 px-4 py-2 rounded-full">Survival Focus: High</span>
                         </div>
@@ -493,7 +493,7 @@ export default function DebtProgramComparisonPage() {
                     <div className="flex gap-10 items-start p-10 bg-white border border-gray-100 rounded-[50px] shadow-sm hover:shadow-2xl transition-all border-b-[16px] border-b-green-500/10">
                         <div className="w-16 h-16 bg-green-500 text-white rounded-full flex-shrink-0 flex items-center justify-center font-black text-2xl">C</div>
                         <div>
-                            <h4 className="text-2xl font-black mb-4">The 'Bridge' Path (Restructuring)</h4>
+                            <h5 className="text-2xl font-black mb-4">The 'Bridge' Path (Restructuring)</h5>
                             <p className="text-lg font-bold text-gray-600 mb-4">You have a new job starting in 4 months. You just need the bank to pause everything until your first salary slip arrives.</p>
                             <span className="text-xs font-black uppercase text-green-500 tracking-[0.2em] bg-green-50 px-4 py-2 rounded-full">Integrity Focus: High</span>
                         </div>
@@ -502,7 +502,7 @@ export default function DebtProgramComparisonPage() {
             </section>
 
             <section id="gender-debt-challenges" className="scroll-mt-32 mb-12 p-8 md:p-12 bg-[#2E2E2E] text-white rounded-2xl relative shadow-xl overflow-hidden group">
-                 <h2 className="text-2xl md:text-3xl font-black mb-8 uppercase tracking-tight">Women and Debt Relief</h2>
+                 <h3 className="text-2xl md:text-3xl font-black mb-8 uppercase tracking-tight">Women and Debt Relief</h3>
                  <p className="text-xl font-bold leading-relaxed mb-10 opacity-90">In India, women borrowers are the fastest-growing segment in the micro-loan and gold-loan space. However, women often face unique challenges: Negotiating with aggressive male recovery agents, managing joint-liability group debts, and the cultural shame associated with financial 'failure'. Our programs offer specialized 'Women-to-Women' counseling and advocacy, ensuring that female entrepreneurs and homemakers are protected and their voices are heard in the boardroom of the bank.</p>
                  <div className="grid sm:grid-cols-2 gap-8 text-xs font-black uppercase tracking-[0.3em]">
                     <div className="bg-white/10 p-4 rounded-xl border border-white/20">Female Counselor Access</div>
@@ -513,7 +513,7 @@ export default function DebtProgramComparisonPage() {
             </section>
 
             <section id="advanced-cibil-repair" className="scroll-mt-32 mb-28">
-                <h2 className="text-3xl md:text-5xl font-black mb-14 leading-tight uppercase tracking-widest text-[#1F5EFF]">Advanced CIBIL Repair: The 12-Month Blueprint</h2>
+                <h3 className="text-3xl md:text-5xl font-black mb-14 leading-tight uppercase tracking-widest text-[#1F5EFF]">Advanced CIBIL Repair: The 12-Month Blueprint</h3>
                 <div className="relative">
                     <div className="absolute left-8 top-0 bottom-0 w-2 bg-gray-100 rounded-full"></div>
                     <div className="space-y-16 relative z-10">
@@ -527,7 +527,7 @@ export default function DebtProgramComparisonPage() {
                                <div className="w-16 h-16 bg-white border-4 border-[#1F5EFF] rounded-full flex-shrink-0 flex items-center justify-center font-black group-hover:bg-[#1F5EFF] group-hover:text-white transition-all transform group-hover:scale-125">{i+1}</div>
                                <div>
                                    <p className="text-[#1F5EFF] font-black uppercase text-xs tracking-widest mb-2">{item.m}</p>
-                                   <h3 className="text-2xl font-black mb-4 group-hover:text-[#1F5EFF] transition-colors">{item.t}</h3>
+                                   <h4 className="text-2xl font-black mb-4 group-hover:text-[#1F5EFF] transition-colors">{item.t}</h4>
                                    <p className="text-gray-500 font-bold leading-relaxed">{item.d}</p>
                                </div>
                            </div>
@@ -537,10 +537,10 @@ export default function DebtProgramComparisonPage() {
             </section>
 
             <section id="legal-framework" className="scroll-mt-32 mb-12">
-                <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">Legal Frameworks & Scam Prevention</h2>
+                <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">Legal Frameworks & Scam Prevention</h3>
                 <div className="grid md:grid-cols-2 gap-10 mb-16">
                     <div className="p-10 bg-red-50 rounded-[40px] border border-red-100">
-                        <h3 className="text-red-700 font-black mb-6 uppercase tracking-widest text-sm">Legal Armor</h3>
+                        <h4 className="text-red-700 font-black mb-6 uppercase tracking-widest text-sm">Legal Armor</h4>
                         <div className="space-y-4 text-xs font-bold leading-relaxed text-red-900/70">
                             <p><strong>Section 138 (Cheque Bounce):</strong> A criminal case, but settle-able. Professional firms prioritize these to clear your name from the courts.</p>
                             <p><strong>SARFAESI Section 13(2):</strong> The '60-day notice'. Your crucial window to negotiate settlement before the bank takes 'Constructive Possession'.</p>
@@ -548,7 +548,7 @@ export default function DebtProgramComparisonPage() {
                         </div>
                     </div>
                     <div className="p-10 bg-gray-900 text-white rounded-[40px] shadow-2xl">
-                         <h4 className="text-[#1F5EFF] font-black mb-6 uppercase tracking-widest text-sm italic">Scam Reality Check</h4>
+                         <h5 className="text-[#1F5EFF] font-black mb-6 uppercase tracking-widest text-sm italic">Scam Reality Check</h5>
                          <ul className="space-y-4 text-xs font-black italic opacity-60 uppercase">
                             <li>✘ No upfront 'Security Deposit' needed for settlement.</li>
                             <li>✘ No RBI 'Settlement Department' exists for public use.</li>
@@ -561,7 +561,7 @@ export default function DebtProgramComparisonPage() {
             </section>
 
             <section id="success-stories" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 text-center">Real Stories of Freedom</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 text-center">Real Stories of Freedom</h3>
               <div className="grid md:grid-cols-2 gap-6 not-prose">
                 {[
                   {
@@ -599,7 +599,7 @@ export default function DebtProgramComparisonPage() {
                         {review.name.charAt(0)}
                       </div>
                       <div>
-                        <h3 className="font-bold text-[#2E2E2E]">{review.name}</h3>
+                        <h4 className="font-bold text-[#2E2E2E]">{review.name}</h4>
                         <p className="text-xs text-gray-400">{review.loc}</p>
                       </div>
                       <div className="ml-auto text-yellow-400 text-sm">★★★★★</div>
@@ -614,7 +614,7 @@ export default function DebtProgramComparisonPage() {
             </section>
 
             <section id="faqs" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-12 uppercase tracking-tighter text-center">Frequently Asked Questions</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-12 uppercase tracking-tighter text-center">Frequently Asked Questions</h3>
               <div className="space-y-8">
                 {jsonLd["@graph"][3] && "mainEntity" in jsonLd["@graph"][3] && (jsonLd["@graph"][3] as any)?.mainEntity?.map((faq: any, i: number) => (
                   <details key={i} className="group bg-white border border-gray-100 rounded-[40px] overflow-hidden hover:shadow-2xl transition-all border-b-8 border-b-gray-100 hover:border-b-[#1F5EFF]">

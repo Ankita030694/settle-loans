@@ -189,7 +189,7 @@ export default function RbiJuly2026GuidelinesPage() {
                         </section>
 
                         <section id="evolution-of-recovery" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">The Evolution of Recovery Practices in India</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">The Evolution of Recovery Practices in India</h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 To understand the significance of the July 2026 guidelines, one must look at the history of debt recovery in India. In the early 2000s, recovery was often synonymous with "recovery agents" who used muscle power to secure payments. Following several high-profile legal cases and public outcry, the RBI began tightening the screws.
                             </p>
@@ -205,12 +205,12 @@ export default function RbiJuly2026GuidelinesPage() {
                         </section>
 
                         <section id="time-constraints" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">Strict Contact Hours: The 8 AM to 7 PM Rule</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">Strict Contact Hours: The 8 AM to 7 PM Rule</h3>
                             <p className="text-lg leading-relaxed mb-8">
                                 One of the most significant changes in the 2026 guidelines is the strict restriction on when a recovery agent can contact a borrower. For too long, borrowers lived in fear of the "midnight call" or the "early morning knock."
                             </p>
                             <div className="p-8 bg-gray-50 border-l-8 border-[#1F5EFF] rounded-r-2xl shadow-sm mb-10">
-                                <h3 className="font-bold text-2xl mb-4 text-[#2E2E2E]">What the Law Says</h3>
+                                <h4 className="font-bold text-2xl mb-4 text-[#2E2E2E]">What the Law Says</h4>
                                 <p className="text-base text-gray-700 leading-relaxed mb-4">
                                     Agents are strictly prohibited from calling or visiting a borrower before 8:00 AM and after 7:00 PM. This window is absolute. Even if a borrower is a habitual defaulter, the agent cannot violate these "quiet hours."
                                 </p>
@@ -227,25 +227,25 @@ export default function RbiJuly2026GuidelinesPage() {
                         </section>
 
                         <section id="harassment-prohibition" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">Zero Tolerance for Harassment and Intimidation</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">Zero Tolerance for Harassment and Intimidation</h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 The July 2026 guidelines provide a comprehensive definition of what constitutes "harassment." This is a major win for borrowers, as it leaves little room for ambiguity. Harassment is no longer just physical; it includes psychological and social pressure.
                             </p>
                             <div className="grid md:grid-cols-2 gap-8 mb-10">
                                 <div className="p-6 bg-white border border-[#DEDEDE] rounded-xl">
-                                    <h3 className="font-bold text-[#1F5EFF] mb-3">Verbal Abuse & Language</h3>
+                                    <h4 className="font-bold text-[#1F5EFF] mb-3">Verbal Abuse & Language</h4>
                                     <p className="text-sm">The use of uncivilized, abusive, or threatening language is strictly prohibited. This includes threats to use physical force or to take legal action that the lender does not actually intend to take. Agents must maintain a professional and courteous tone at all times.</p>
                                 </div>
                                 <div className="p-6 bg-white border border-[#DEDEDE] rounded-xl">
-                                    <h4 className="font-bold text-[#1F5EFF] mb-3">Psychological Intimidation</h4>
+                                    <h5 className="font-bold text-[#1F5EFF] mb-3">Psychological Intimidation</h5>
                                     <p className="text-sm">Creating an atmosphere of fear is a violation. This includes sending fake legal notices, threatening to involve the police without a court order, or claiming that the borrower will be barred from leaving the country (unless a lookout notice actually exists).</p>
                                 </div>
                                 <div className="p-6 bg-white border border-[#DEDEDE] rounded-xl">
-                                    <h4 className="font-bold text-[#1F5EFF] mb-3">Public Shaming</h4>
+                                    <h5 className="font-bold text-[#1F5EFF] mb-3">Public Shaming</h5>
                                     <p className="text-sm">Social shaming is now a punishable offense. Agents cannot post about the borrower's default on social media, nor can they put up posters in the borrower's neighborhood or office. Any action intended to lower the borrower's reputation in society is illegal.</p>
                                 </div>
                                 <div className="p-6 bg-white border border-[#DEDEDE] rounded-xl">
-                                    <h4 className="font-bold text-[#1F5EFF] mb-3">Physical Intrusion</h4>
+                                    <h5 className="font-bold text-[#1F5EFF] mb-3">Physical Intrusion</h5>
                                     <p className="text-sm">While physical visits are allowed within hours, agents cannot refuse to leave the borrower's premises when asked. They cannot block the entrance, sit in the house for hours, or engage in any behavior that restricts the borrower's movement.</p>
                                 </div>
                             </div>
@@ -255,12 +255,12 @@ export default function RbiJuly2026GuidelinesPage() {
                         </section>
 
                         <section id="privacy-protections" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">Strict Privacy Protections: No Third-Party Contact</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">Strict Privacy Protections: No Third-Party Contact</h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 Perhaps the most abused tactic in modern recovery was the "contact spamming" method. Recovery agents would call a borrower's boss, their children's school, or their distant relatives to "shame" them into paying. The July 2026 guidelines put a permanent end to this.
                             </p>
                             <div className="bg-blue-50 p-8 rounded-xl border border-blue-200 my-8">
-                                <h3 className="font-bold text-blue-900 mb-4 text-xl">The "Borrower-Only" Interaction Rule</h3>
+                                <h4 className="font-bold text-blue-900 mb-4 text-xl">The "Borrower-Only" Interaction Rule</h4>
                                 <p className="text-base text-blue-800 leading-relaxed mb-4">
                                     Agents are strictly prohibited from contacting any third party regarding the borrower's debt. This includes friends, family, neighbors, and colleagues. They can only interact with the borrower or the guarantor mentioned in the loan agreement.
                                 </p>
@@ -274,7 +274,7 @@ export default function RbiJuly2026GuidelinesPage() {
                         </section>
 
                         <section id="digital-lending-norms" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">Norms for Digital Lending and Fintech Apps</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">Norms for Digital Lending and Fintech Apps</h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 The "Wild West" of digital lending is being tamed. The July 2026 guidelines have specific provisions for Fintechs and Digital Lending Apps (DLAs). These entities often outsourced recovery to aggressive call centers that operated outside the traditional banking norms.
                             </p>
@@ -290,7 +290,7 @@ export default function RbiJuly2026GuidelinesPage() {
                         </section>
 
                         <section id="vicarious-liability" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">The Doctrine of Vicarious Liability in Recovery</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">The Doctrine of Vicarious Liability in Recovery</h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 One of the most powerful legal concepts reinforced by the July 2026 guidelines is "Vicarious Liability." This doctrine ensures that Regulated Entities (REs) cannot outsource their responsibility along with their recovery tasks. If a third-party agent violates any RBI norm, the bank is legally deemed to have committed the violation itself.
                             </p>
@@ -306,7 +306,7 @@ export default function RbiJuly2026GuidelinesPage() {
                         </section>
 
                         <section id="global-comparison" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">Global Comparison: How India's 2026 Norms Compare</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">Global Comparison: How India's 2026 Norms Compare</h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 The July 2026 guidelines bring India in line with global best practices in consumer protection. In the United Kingdom, the Financial Conduct Authority (FCA) has long enforced the "Treating Customers Fairly" (TCF) principle. Similarly, in the United States, the Fair Debt Collection Practices Act (FDCPA) provides stringent protections against harassment and third-party disclosures.
                             </p>
@@ -322,7 +322,7 @@ export default function RbiJuly2026GuidelinesPage() {
                         </section>
 
                         <section id="legal-precedents" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">Legal Precedents: The Road to July 2026</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">Legal Precedents: The Road to July 2026</h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 The 2026 guidelines did not appear in a vacuum. They are the result of decades of judicial activism by the Supreme Court of India and various High Courts. In the landmark case of <i>ICICI Bank vs. Shanti Devi Sharma (2008)</i>, the Supreme Court famously observed that "recovery of loans should be through process of law and not through muscle power."
                             </p>
@@ -338,7 +338,7 @@ export default function RbiJuly2026GuidelinesPage() {
                         </section>
 
                         <section id="transparency-requirements" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">Transparency and Identification Requirements</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">Transparency and Identification Requirements</h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 Identification is the first step in accountability. In the past, recovery agents often refused to identify themselves, making it impossible for borrowers to file accurate complaints. The 2026 guidelines make identification a mandatory prerequisite for any recovery action.
                             </p>
@@ -369,7 +369,7 @@ export default function RbiJuly2026GuidelinesPage() {
                         </section>
 
                         <section id="forensic-audit" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">Forensic Audit: The Borrower's Counter-Weapon</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">Forensic Audit: The Borrower's Counter-Weapon</h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 While the July 2026 guidelines protect you from harassment, you also need a strategy to address the underlying debt. This is where a "Forensic Loan Audit" comes in. Many banks, in their rush to recover, make significant errors in interest calculation, penal charges, and compound interest application.
                             </p>
@@ -385,7 +385,7 @@ export default function RbiJuly2026GuidelinesPage() {
                         </section>
 
                         <section id="grievance-redressal" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">Grievance Redressal: Your Path to Justice</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">Grievance Redressal: Your Path to Justice</h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 A rule without an enforcement mechanism is useless. The RBI July 2026 guidelines mandate a robust, three-tier grievance redressal system.
                             </p>
@@ -401,7 +401,7 @@ export default function RbiJuly2026GuidelinesPage() {
                         </section>
 
                         <section id="enforcement-penalties" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">Enforcement and Penalties for Non-Compliance</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">Enforcement and Penalties for Non-Compliance</h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 The RBI has given itself the power to take "supervisory action" against banks that violate these norms. This is not just a slap on the wrist. Non-compliance can lead to the RBI prohibiting a bank from using external recovery agents altogether for a specified period.
                             </p>
@@ -409,7 +409,7 @@ export default function RbiJuly2026GuidelinesPage() {
                                 In 2024 and 2025, we saw the RBI taking action against several NBFCs by stopping their "loan sanction and disbursement" activities due to recovery abuses. Under the 2026 guidelines, these penalties will become even more severe. The RBI will also publicly name and shame habitual violators through its annual reports and press releases.
                             </p>
                             <div className="bg-[#1F5EFF]/5 p-8 rounded-3xl border border-[#1F5EFF]/20 mb-10">
-                                <h3 className="text-2xl font-black text-[#2E2E2E] mb-6">Key Penalties under the 2026 Norms</h3>
+                                <h4 className="text-2xl font-black text-[#2E2E2E] mb-6">Key Penalties under the 2026 Norms</h4>
                                 <ul className="space-y-4 text-base font-medium">
                                     <li className="flex items-start gap-3">
                                         <span className="w-6 h-6 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center text-xs flex-shrink-0 mt-1">1</span>
@@ -428,7 +428,7 @@ export default function RbiJuly2026GuidelinesPage() {
                         </section>
 
                         <section id="calamity-relief" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">Calamity Relief Measures: A Humanitarian Approach</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">Calamity Relief Measures: A Humanitarian Approach</h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 Alongside recovery conduct, the July 2026 guidelines also introduce a "Calamity Relief" framework. The RBI has recognized that borrowers often default due to circumstances beyond their control, such as floods, earthquakes, or health pandemics.
                             </p>
@@ -438,7 +438,7 @@ export default function RbiJuly2026GuidelinesPage() {
                         </section>
 
                         <section id="msme-protections" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">Specific Protections for MSME Borrowers</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">Specific Protections for MSME Borrowers</h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 Micro, Small, and Medium Enterprises (MSMEs) are the backbone of the Indian economy but are often the most vulnerable to recovery abuses. The 2026 guidelines require banks to follow the "MSME Debt Restructuring" norms before initiating aggressive recovery.
                             </p>
@@ -448,7 +448,7 @@ export default function RbiJuly2026GuidelinesPage() {
                         </section>
 
                         <section id="how-to-file-complaint" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">How to File a Complaint: Step-by-Step Guide</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">How to File a Complaint: Step-by-Step Guide</h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 If you are a victim of recovery harassment, do not stay silent. Follow this step-by-step process to secure your rights under the July 2026 guidelines:
                             </p>
@@ -483,7 +483,7 @@ export default function RbiJuly2026GuidelinesPage() {
                         </section>
 
                         <section id="success-stories" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 text-center">RBI Guideline Victory History</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 text-center">RBI Guideline Victory History</h3>
                             <div className="grid md:grid-cols-2 gap-10 not-prose">
                                 {[
                                     {
@@ -521,7 +521,7 @@ export default function RbiJuly2026GuidelinesPage() {
                                         <div className="flex items-center mb-4">
                                             <div className="w-10 h-10 rounded-full bg-blue-100 flex items-center justify-center font-bold text-blue-600 mr-3">{review.name.split(' ')[0][0]}</div>
                                             <div>
-                                                <h3 className="font-bold text-[#2E2E2E]">{review.name}</h3>
+                                                <h4 className="font-bold text-[#2E2E2E]">{review.name}</h4>
                                                 <p className="text-xs text-gray-400">{review.loc}</p>
                                             </div>
                                             <div className="ml-auto text-yellow-400 text-sm">★★★★★</div>
@@ -536,7 +536,7 @@ export default function RbiJuly2026GuidelinesPage() {
                         </section>
 
                         <section id="faqs" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">RBI July 2026 Guidelines FAQs</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">RBI July 2026 Guidelines FAQs</h3>
                             <div className="space-y-6 not-prose">
                                 {[
                                     { q: "When exactly do the new RBI recovery guidelines come into effect?", a: "The guidelines are fully enforceable starting July 1, 2026. However, many banks have already started aligning their internal policies with these norms in anticipation of the deadline." },
@@ -570,7 +570,7 @@ export default function RbiJuly2026GuidelinesPage() {
                         </section>
 
                         <div className="mt-16 p-8 bg-[#1F5EFF] rounded-3xl text-white text-center">
-                            <h2 className="text-3xl font-black mb-6">Stop Recovery Harassment Today</h2>
+                            <h3 className="text-3xl font-black mb-6">Stop Recovery Harassment Today</h3>
                             <p className="text-xl mb-8 opacity-90">
                                 Our legal experts specialize in RBI compliance and borrower protection. Don't let illegal recovery tactics ruin your peace.
                             </p>

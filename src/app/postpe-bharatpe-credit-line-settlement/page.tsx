@@ -590,7 +590,7 @@ export default function PostPeBharatPeCreditLineSettlementPage() {
                 <Clock className="w-4 h-4" />
                 <span>2. Delinquency Lifecycle &amp; Daily QR Traps</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">FinTech Credit Trap &amp; Daily Deductions</h2>
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">FinTech Credit Trap &amp; Daily Deductions</h3>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 BharatPe takes daily repayments by deducting 20% to 50% of customer QR payments. When shop sales drop, these daily deductions hurt working cash. If a merchant switches QR codes, automated systems trigger multiple bank auto-debits.
               </p>
@@ -661,7 +661,7 @@ export default function PostPeBharatPeCreditLineSettlementPage() {
                 <Banknote className="w-4 h-4" />
                 <span>3. Halting Auto-Debits &amp; Penal Compounding</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Stopping Daily QR Deductions &amp; Auto-Debits</h2>
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Stopping Daily QR Deductions &amp; Auto-Debits</h3>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Multiple auto-debit attempts worsen debt distress. When your account has low funds, repeated e-NACH runs cause bank bounce fees of ₹250 to ₹590. Lenders also add penal interest and internal dishonour charges.
               </p>
@@ -676,7 +676,7 @@ export default function PostPeBharatPeCreditLineSettlementPage() {
                 <Calculator className="w-4 h-4" />
                 <span>4. OTS Haircut Policies &amp; Valuation Framework</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">PostPe &amp; BharatPe OTS Slabs &amp; Policies</h2>
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">PostPe &amp; BharatPe OTS Slabs &amp; Policies</h3>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Under RBI settlement rules, partner lenders evaluate settlement offers using recovery math. Digital loans have no pledged collateral. Lenders compare a quick cash payment against high legal costs and court delays.
               </p>
@@ -696,7 +696,7 @@ export default function PostPeBharatPeCreditLineSettlementPage() {
               </div>
 
               {/* Settlement Haircut Slabs Table */}
-              <h3 className="text-lg font-bold text-slate-900 mb-3">Realistic Settlement Haircut Slabs by Digital Product &amp; Aging</h3>
+              <h4 className="text-lg font-bold text-slate-900 mb-3">Realistic Settlement Haircut Slabs by Digital Product &amp; Aging</h4>
               <div className="overflow-x-auto my-4">
                 <table className="min-w-full bg-white">
                   <thead>
@@ -754,9 +754,9 @@ export default function PostPeBharatPeCreditLineSettlementPage() {
                       <span className="text-[10px] font-black uppercase tracking-widest text-blue-300 block">
                         Legal Defense &amp; Action Blueprint
                       </span>
-                      <h3 className="text-sm md:text-base font-black text-white leading-tight">
+                      <h4 className="text-sm md:text-base font-black text-white leading-tight">
                         PostPe &amp; BharatPe Loan Settlement &amp; Legal Defense Blueprint
-                      </h3>
+                      </h4>
                     </div>
                   </div>
                   <a
@@ -803,7 +803,7 @@ export default function PostPeBharatPeCreditLineSettlementPage() {
                 <ShieldAlert className="w-4 h-4" />
                 <span>5. Anti-Harassment Defense &amp; Statutory Directives</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Defending Against Recovery Threats &amp; Coercion</h2>
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Defending Against Recovery Threats &amp; Coercion</h3>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Borrowers facing default often receive dozens of automated calls every day. Unruly agents may send fake court notices on WhatsApp. They may also threaten to call your contacts or visit your shop.
               </p>
@@ -818,7 +818,7 @@ export default function PostPeBharatPeCreditLineSettlementPage() {
                 <Layers className="w-4 h-4" />
                 <span>6. Step-by-Step FinTech Settlement Roadmap</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Step-by-Step Guide to a Legally Binding Settlement with</h2>
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Step-by-Step Guide to a Legally Binding Settlement with</h3>
               <p className="text-slate-700 leading-relaxed mb-6 text-base md:text-lg">
                 Follow these steps to settle your debt directly with the licensed lender:
               </p>
@@ -826,10 +826,10 @@ export default function PostPeBharatPeCreditLineSettlementPage() {
               <div className="space-y-6">
                 {/* Phase 1 */}
                 <div className="p-6 rounded-2xl bg-white border border-slate-200 shadow-sm">
-                  <h3 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
+                  <h4 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
                     <span className="w-7 h-7 rounded-lg bg-blue-50 text-[#1F5EFF] font-black text-sm flex items-center justify-center border border-blue-200">1</span>
                     Forensic Loan Audit &amp; Partner NBFC Identification
-                  </h3>
+                  </h4>
                   <p className="text-slate-600 text-sm md:text-base leading-relaxed">
                     Check your loan sanction letter and CIBIL report. Identify your true lender, such as Unity SFB or Liquiloans. Separate your core loan amount from bounce fees.
                   </p>
@@ -837,10 +837,10 @@ export default function PostPeBharatPeCreditLineSettlementPage() {
 
                 {/* Phase 2 */}
                 <div className="p-6 rounded-2xl bg-white border border-slate-200 shadow-sm">
-                  <h3 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
+                  <h4 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
                     <span className="w-7 h-7 rounded-lg bg-blue-50 text-[#1F5EFF] font-black text-sm flex items-center justify-center border border-blue-200">2</span>
                     Revoking e-NACH Mandates &amp; Directing Communication
-                  </h3>
+                  </h4>
                   <p className="text-slate-600 text-sm md:text-base leading-relaxed">
                     Ask your bank to cancel the e-NACH mandate under NPCI rules. Send a notice asking the lender to communicate only via formal email.
                   </p>
@@ -848,10 +848,10 @@ export default function PostPeBharatPeCreditLineSettlementPage() {
 
                 {/* Phase 3 */}
                 <div className="p-6 rounded-2xl bg-white border border-slate-200 shadow-sm">
-                  <h3 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
+                  <h4 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
                     <span className="w-7 h-7 rounded-lg bg-blue-50 text-[#1F5EFF] font-black text-sm flex items-center justify-center border border-blue-200">3</span>
                     Submitting Hardship Compromise Petition
-                  </h3>
+                  </h4>
                   <p className="text-slate-600 text-sm md:text-base leading-relaxed">
                     Gather proof of income loss, business slowdown, or medical bills. Submit a formal hardship petition to the partner lender&apos;s stressed assets team.
                   </p>
@@ -859,10 +859,10 @@ export default function PostPeBharatPeCreditLineSettlementPage() {
 
                 {/* Phase 4 */}
                 <div className="p-6 rounded-2xl bg-white border border-slate-200 shadow-sm">
-                  <h3 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
+                  <h4 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
                     <span className="w-7 h-7 rounded-lg bg-blue-50 text-[#1F5EFF] font-black text-sm flex items-center justify-center border border-blue-200">4</span>
                     Navigating Negotiations &amp; Credit Committee Approval
-                  </h3>
+                  </h4>
                   <p className="text-slate-600 text-sm md:text-base leading-relaxed">
                     Our legal team counters initial small discounts. We show genuine financial distress to secure an authorized 45% to 65% debt waiver.
                   </p>
@@ -870,10 +870,10 @@ export default function PostPeBharatPeCreditLineSettlementPage() {
 
                 {/* Phase 5 */}
                 <div className="p-6 rounded-2xl bg-white border border-slate-200 shadow-sm">
-                  <h3 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
+                  <h4 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
                     <span className="w-7 h-7 rounded-lg bg-blue-50 text-[#1F5EFF] font-black text-sm flex items-center justify-center border border-blue-200">5</span>
                     Forensic Verification of the OTS Sanction Letter
-                  </h3>
+                  </h4>
                   <p className="text-slate-600 text-sm md:text-base leading-relaxed">
                     Review the official settlement letter on the partner NBFC&apos;s letterhead. Verify the CIN, loan number, authorized signature. And full debt discharge terms.
                   </p>
@@ -881,10 +881,10 @@ export default function PostPeBharatPeCreditLineSettlementPage() {
 
                 {/* Phase 6 */}
                 <div className="p-6 rounded-2xl bg-white border border-slate-200 shadow-sm">
-                  <h3 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
+                  <h4 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
                     <span className="w-7 h-7 rounded-lg bg-blue-50 text-[#1F5EFF] font-black text-sm flex items-center justify-center border border-blue-200">6</span>
                     Direct Account Remittance &amp; Enforcing ₹0 NDC Delivery
-                  </h3>
+                  </h4>
                   <p className="text-slate-600 text-sm md:text-base leading-relaxed">
                     Pay the settlement amount directly into the official partner NBFC loan account. Under RBI rules, the lender must deliver your No Dues Certificate within 30 days.
                   </p>
@@ -898,7 +898,7 @@ export default function PostPeBharatPeCreditLineSettlementPage() {
                 <Gavel className="w-4 h-4" />
                 <span>7. Legal Notice Forensics, Arbitration &amp; Lok Adalat</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Navigating PostPe Sec 25 PSSA &amp; Lok Adalat</h2>
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Navigating PostPe Sec 25 PSSA &amp; Lok Adalat</h3>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 When a digital loan remains unpaid past 60 to 90 days, lenders may issue legal notices. These include Section 25 PSSA notices for bounced auto-debits and Section 138 NI Act notices for cheques. A Section 25 notice is a 15-day demand letter, not an arrest warrant. A timely legal reply explaining your financial hardship prevents court escalation.
               </p>
@@ -958,7 +958,7 @@ export default function PostPeBharatPeCreditLineSettlementPage() {
                 <FileCheck className="w-4 h-4" />
                 <span>8. Sanction Letter Audit &amp; ₹0 NDC Mandate</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Sanction Letter Audit &amp; ₹0 NDC Delivery</h2>
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Sanction Letter Audit &amp; ₹0 NDC Delivery</h3>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Avoid fake collection letters. Always confirm that your settlement letter is on the corporate letterhead of the licensed partner lender. It must include registered office details, loan numbers. And a clear debt discharge clause.
               </p>
@@ -973,7 +973,7 @@ export default function PostPeBharatPeCreditLineSettlementPage() {
                 <TrendingUp className="w-4 h-4" />
                 <span>9. CIBIL Score Trajectory &amp; Credit Rehabilitation</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">PostPe Post-Settlement CIBIL Recovery</h2>
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">PostPe Post-Settlement CIBIL Recovery</h3>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Settling a loan marks the account as <strong>&apos;Settled&apos;</strong> with a <strong>₹0</strong> balance in credit bureaus. Your score may drop by 70 to 120 points initially. However, settlement eliminates active default tags and removes legal risk.
               </p>
@@ -988,7 +988,7 @@ export default function PostPeBharatPeCreditLineSettlementPage() {
                 <ShieldCheck className="w-4 h-4" />
                 <span>10. Legal Defense &amp; Representation</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Why Borrowers in PostPe</h2>
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Why Borrowers in PostPe</h3>
               <p className="text-slate-700 leading-relaxed mb-6 text-base md:text-lg">
                 SettleLoans stops unlawful recovery harassment through formal legal notices. We cancel predatory auto-debits, defend legal notices. And negotiate directly with partner NBFC teams for maximum debt waivers and official No Dues Certificates.
               </p>
@@ -1005,7 +1005,7 @@ export default function PostPeBharatPeCreditLineSettlementPage() {
                 <HelpCircle className="w-4 h-4" />
                 <span>11. Frequently Asked Questions</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">FAQs: PostPe &amp; BharatPe Loan Settlement</h2>
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">FAQs: PostPe &amp; BharatPe Loan Settlement</h3>
 
               <div className="space-y-4">
                 {faqs.map((faq, index) => (
@@ -1032,10 +1032,10 @@ export default function PostPeBharatPeCreditLineSettlementPage() {
 
             {/* Regulatory References & Official Sources Strip */}
             <div className="bg-slate-50 border border-slate-200 rounded-2xl p-6 my-10">
-              <h3 className="text-base font-bold text-slate-900 mb-4 flex items-center gap-2">
+              <h4 className="text-base font-bold text-slate-900 mb-4 flex items-center gap-2">
                 <Landmark className="w-5 h-5 text-[#1F5EFF]" />
                 Official Regulatory References &amp; Statutory Circulars
-              </h3>
+              </h4>
               <ul className="space-y-3 text-xs text-slate-600">
                 <li className="flex items-start gap-2">
                   <ExternalLink className="w-4 h-4 text-[#1F5EFF] flex-shrink-0 mt-0.5" />
@@ -1097,10 +1097,10 @@ export default function PostPeBharatPeCreditLineSettlementPage() {
 
             {/* Related Guides & Resources Strip (10 Topic Badges) */}
             <div className="bg-slate-50 border border-slate-200 rounded-2xl p-6 my-10">
-              <h3 className="text-base font-bold text-slate-900 mb-4 flex items-center gap-2">
+              <h4 className="text-base font-bold text-slate-900 mb-4 flex items-center gap-2">
                 <BookOpen className="w-5 h-5 text-[#1F5EFF]" />
                 Explore Related Banking &amp; Debt Resolution Guides
-              </h3>
+              </h4>
               <div className="flex flex-wrap gap-2.5">
                 <Link
                   href="/bank-one-time-settlement-ots-policy"

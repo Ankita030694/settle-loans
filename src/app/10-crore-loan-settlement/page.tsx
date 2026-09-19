@@ -175,9 +175,9 @@ export default function TenCroreLoanSettlementPage() {
                         </section>
 
                         <section id="ibc-nclt" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">NCLT & IBC Dynamics: The Ultimate Pressure Cooker</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">NCLT & IBC Dynamics: The Ultimate Pressure Cooker</h3>
                             <div className="bg-[#1F5EFF]/5 p-8 rounded-3xl border border-[#1F5EFF]/10 mb-8">
-                                <h3 className="text-2xl font-bold text-[#2E2E2E] mb-4 text-center underline italic">The Threat of CIRP</h3>
+                                <h4 className="text-2xl font-bold text-[#2E2E2E] mb-4 text-center underline italic">The Threat of CIRP</h4>
                                 <p className="text-lg leading-relaxed mb-4">
                                     The Insolvency and Bankruptcy Code (IBC) has changed the power dynamic in India. For a 10 Crore default, any creditor (bank or operational creditor) can file a petition at the National Company Law Tribunal (NCLT) to initiate a Corporate Insolvency Resolution Process (CIRP).
                                 </p>
@@ -191,21 +191,21 @@ export default function TenCroreLoanSettlementPage() {
                         </section>
 
                         <section id="consortium-banking" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">Consortium Debt Strategy: Harmonizing Multiple Lenders</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">Consortium Debt Strategy: Harmonizing Multiple Lenders</h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 Most 10 Crore+ loans are spread across 2 to 5 banks. This is a Consortium. Negotiating here is a game of "Consensus Building."
                             </p>
                             <div className="grid md:grid-cols-3 gap-6 mb-8">
                                 <div className="p-6 bg-white border border-[#DEDEDE] rounded-2xl shadow-sm">
-                                    <h3 className="font-bold text-[#1F5EFF] mb-3 uppercase text-xs">The Lead Bank</h3>
+                                    <h4 className="font-bold text-[#1F5EFF] mb-3 uppercase text-xs">The Lead Bank</h4>
                                     <p className="text-xs">The bank with the largest share usually heads the consortium. You must win their approval first, as other banks typically follow the lead bank's recommendation.</p>
                                 </div>
                                 <div className="p-6 bg-white border border-[#DEDEDE] rounded-2xl shadow-sm">
-                                    <h4 className="font-bold text-[#1F5EFF] mb-3 uppercase text-xs">The Inter-Creditor Agreement</h4>
+                                    <h5 className="font-bold text-[#1F5EFF] mb-3 uppercase text-xs">The Inter-Creditor Agreement</h5>
                                     <p className="text-xs">Lenders are bound by ICAs. A settlement offer must satisfy the majority of creditors (usually 75% by value) to be binding on everyone.</p>
                                 </div>
                                 <div className="p-6 bg-white border border-[#DEDEDE] rounded-2xl shadow-sm">
-                                    <h4 className="font-bold text-[#1F5EFF] mb-3 uppercase text-xs">The Global Settlement</h4>
+                                    <h5 className="font-bold text-[#1F5EFF] mb-3 uppercase text-xs">The Global Settlement</h5>
                                     <p className="text-xs">Avoid piecemeal settlements. A "Global Settlement" ensures that all securities are released simultaneously, allowing you to breathe again.</p>
                                 </div>
                             </div>
@@ -215,7 +215,7 @@ export default function TenCroreLoanSettlementPage() {
                         </section>
 
                         <section id="lce-protocols" className="scroll-mt-32 mb-16 text-white bg-[#2E2E2E] p-12 rounded-[40px] border-4 border-[#1F5EFF]">
-                            <h2 className="text-3xl md:text-4xl font-black mb-8 leading-tight">LCE & SARB Recovery Wings</h2>
+                            <h3 className="text-3xl md:text-4xl font-black mb-8 leading-tight">LCE & SARB Recovery Wings</h3>
                             <p className="text-xl opacity-90 mb-8 font-extrabold italic">Your 10 Crore file is now at the Zonal/Head Office level.</p>
                             <div className="space-y-6">
                                 <p className="leading-relaxed">The Stressed Asset Resolution Branch (SARB) has one single KPI: Recovery. They are incentivized to close files, but they are also under high audit pressure from the RBI and the CVC (Central Vigilance Commission).</p>
@@ -238,7 +238,7 @@ export default function TenCroreLoanSettlementPage() {
                         </section>
 
                         <section id="forensic-scrutiny" className="scroll-mt-32 mb-16 mt-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight underline decoration-red-600 underline-offset-8">Forensic Scrutiny: The Audit of Truth</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight underline decoration-red-600 underline-offset-8">Forensic Scrutiny: The Audit of Truth</h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 At the 10 Crore mark, the forensic audit is not a formality; it is a forensic deep-dive. Investigators will look for "Look-back Transactions," "Preferential Payments," and "Undervalued Asset Transfers."
                             </p>
@@ -251,7 +251,7 @@ export default function TenCroreLoanSettlementPage() {
                         </section>
 
                         <section id="section-12a" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">The Section 12A Exit: Settling Inside the Courtroom</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">The Section 12A Exit: Settling Inside the Courtroom</h3>
                             <p className="text-lg leading-relaxed mb-6 text-center italic">"The NCLT is not the end; it is a new negotiation table."</p>
                             <p className="text-lg leading-relaxed mb-6">
                                 Section 12A of the IBC allows an application to be withdrawn after admission if 90% of the creditors vote for it. This is usually the result of a settlement reached with the Financial Creditors (Banks) during the CIRP period.
@@ -262,12 +262,12 @@ export default function TenCroreLoanSettlementPage() {
                         </section>
 
                         <section id="hni-liability" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">Personal Guarantee Shield: Protecting the HNI</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">Personal Guarantee Shield: Protecting the HNI</h3>
                             <p className="text-base md:text-xl leading-relaxed mb-6">
                                 10 Crore loans almost always involve a personal guarantee from the High-Net-Worth Individual (HNI) behind the company. The Supreme Court has ruled that personal guarantors can be sued independently of the company's insolvency.
                             </p>
                             <div className="bg-gray-100 p-8 rounded-3xl border border-gray-300">
-                                <h3 className="text-xl font-black mb-4">Shielding Strategies</h3>
+                                <h4 className="text-xl font-black mb-4">Shielding Strategies</h4>
                                 <ul className="space-y-4 italic text-sm">
                                     <li>• "Separation of Assets": Identifying un-pledged personal assets from company assets.</li>
                                     <li>• "Co-Borrower Defense": Strategic defense for family members who signed as co-guarantors without being directors.</li>
@@ -277,7 +277,7 @@ export default function TenCroreLoanSettlementPage() {
                         </section>
 
                         <section id="success-stories" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 text-center text-blue-600">Corporate Failures to Success</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 text-center text-blue-600">Corporate Failures to Success</h3>
                             <div className="grid md:grid-cols-2 gap-6 not-prose">
                                 {[
                                     {
@@ -315,7 +315,7 @@ export default function TenCroreLoanSettlementPage() {
                                                 {review.name.charAt(0)}
                                             </div>
                                             <div>
-                                                <h3 className="font-bold text-[#2E2E2E]">{review.name}</h3>
+                                                <h4 className="font-bold text-[#2E2E2E]">{review.name}</h4>
                                                 <p className="text-xs text-gray-400">{review.loc}</p>
                                             </div>
                                             <div className="ml-auto text-yellow-400 text-sm">★★★★★</div>
@@ -330,7 +330,7 @@ export default function TenCroreLoanSettlementPage() {
                         </section>
 
                         <section id="checklist" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">The 10 Crore Corporate Audit Checklist</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">The 10 Crore Corporate Audit Checklist</h3>
                             <div className="bg-[#2E2E2E] p-10 rounded-[40px] border border-[#1F5EFF] text-white">
                                 <ul className="space-y-6">
                                     {[
@@ -355,7 +355,7 @@ export default function TenCroreLoanSettlementPage() {
                         </section>
 
                         <section id="faqs" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-12 text-center">Corporate Settlement FAQs</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-12 text-center">Corporate Settlement FAQs</h3>
                             <div className="space-y-6">
                                 {[
                                     { q: "Can NCLT be stopped once a 10 Crore case is filed?", a: "Yes, you can settle with the creditor before the NCLT 'Admits' the case. Even after admission, Section 12A allows for a withdrawal based on a successful settlement." },
@@ -370,7 +370,7 @@ export default function TenCroreLoanSettlementPage() {
                                     { q: "Can I pay a 10 Crore settlement in installments?", a: "Yes, banks often allow a 6 to 12 month payment plan, but they charge interest for the period after the OTS approval." }
                                 ].map((faq, i) => (
                                     <div key={i} className="p-8 bg-white border border-[#DEDEDE] rounded-3xl shadow-sm">
-                                        <h3 className="font-black text-[#2E2E2E] mb-4 text-xl border-b pb-2 border-[#1F5EFF]/20">{i + 1}. {faq.q}</h3>
+                                        <h4 className="font-black text-[#2E2E2E] mb-4 text-xl border-b pb-2 border-[#1F5EFF]/20">{i + 1}. {faq.q}</h4>
                                         <p className="text-gray-600 leading-relaxed text-lg italic">"{faq.a}"</p>
                                     </div>
                                 ))}
@@ -378,7 +378,7 @@ export default function TenCroreLoanSettlementPage() {
                         </section>
 
                         <section className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">Conclusion: The Strategic Corporate Exit</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">Conclusion: The Strategic Corporate Exit</h3>
                             <p className="text-lg leading-relaxed mb-6 italic font-bold">A 10 Crore debt is a strategic challenge. It requires a calm legal mind, a data-driven approach, and the ability to navigate the complex corridors of bank head offices and NCLT courtrooms.</p>
                             <div className="bg-[#1F5EFF]/5 p-8 rounded-3xl border border-[#1F5EFF]/20 text-center">
                                 <p className="text-xl font-bold text-[#2E2E2E] mb-6 tracking-tight">protect your legacy. Negociate from a position of power.</p>

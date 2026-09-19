@@ -272,9 +272,9 @@ export default function LoanSettlementSalariedPage() {
             </section>
 
             <section id="why-debt-trap" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
                 Why Salaried People Fall into the Debt Trap
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 The path to overwhelming debt for a salaried person is rarely paved with reckless spending. Often, it begins with an 'easy' personal loan to cover a family wedding, a child's school fees, or a sudden medical emergency. In a country where social safety nets are limited, personal credit often serves as the only buffer against life's unpredictable turns.
               </p>
@@ -282,7 +282,7 @@ export default function LoanSettlementSalariedPage() {
                 The proliferation of digital lending apps has added a new layer of complexity. With 'instant' approvals and minimal documentation, these apps target salaried individuals who need quick liquidity. However, the astronomical interest rates and the predatory repayment structures of some of these apps can turn a small temporary need into a permanent financial nightmare.
               </p>
               <div className="bg-gray-50 p-8 rounded-xl border border-gray-200 mb-8">
-                <h3 className="text-xl font-bold mb-6">The Anatomy of a Salaried Debt Crisis</h3>
+                <h4 className="text-xl font-bold mb-6">The Anatomy of a Salaried Debt Crisis</h4>
                 <ul className="grid md:grid-cols-2 gap-4 text-sm font-medium">
                   <li className="flex items-start gap-4 p-4 bg-white rounded-lg border border-gray-100">
                     <span className="w-8 h-8 flex items-center justify-center bg-blue-100 text-blue-600 rounded-full shrink-0 font-bold">1</span>
@@ -320,9 +320,9 @@ export default function LoanSettlementSalariedPage() {
             </section>
 
             <section id="what-is-settlement" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
                 What is Loan Settlement? The Dual Edged Sword
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 In simple terms, loan settlement is an agreement between you and your lender to close a debt account by paying a lump sum amount that is significantly less than what you actually owe. This is also known as a One-Time Settlement or OTS. From the bank's perspective, it is a way to recover at least some part of a loan that has been classified as a Non-Performing Asset or NPA.
               </p>
@@ -330,7 +330,7 @@ export default function LoanSettlementSalariedPage() {
                 For a salaried person, settlement offers an immediate release from the crushing weight of high interest and aggressive recovery calls. It allows you to wipe your financial slate clean and start again. However, it is important to understand that this comes with a cost. Your credit report will carry the status of 'Settled' rather than 'Closed', which indicates that you did not pay the full amount as agreed.
               </p>
               <div className="bg-blue-50 p-8 rounded-xl border border-blue-200 mb-8">
-                <h3 className="text-xl font-bold mb-4 text-blue-900">Settled vs. Closed: Know the Difference</h3>
+                <h4 className="text-xl font-bold mb-4 text-blue-900">Settled vs. Closed: Know the Difference</h4>
                 <p className="text-base text-blue-800 leading-relaxed mb-4">
                   A <strong>Closed</strong> status means you paid every single rupee of the principal, interest, and charges. This is the ideal status for your credit health.
                 </p>
@@ -341,9 +341,9 @@ export default function LoanSettlementSalariedPage() {
             </section>
 
             <section id="when-to-settle" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
                 When to Opt for Settlement: The Signs of No Return
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 Loan settlement should not be your first choice. It is a powerful tool, but one that should be reserved for genuine crisis situations. If you are a salaried individual, you should consider settlement only when you have exhausted all other options like restructuring or consolidating your debt.
               </p>
@@ -352,23 +352,23 @@ export default function LoanSettlementSalariedPage() {
               </p>
               <div className="grid sm:grid-cols-2 gap-4 my-8">
                 <div className="bg-white p-6 rounded-xl border border-red-100 shadow-sm border-l-4 border-l-red-500">
-                  <h3 className="font-bold text-[#2E2E2E] mb-2">The Critical Point</h3>
+                  <h4 className="font-bold text-[#2E2E2E] mb-2">The Critical Point</h4>
                   <p className="text-sm text-gray-500">When basic living expenses are being compromised to pay bank interest.</p>
                 </div>
                 <div className="bg-white p-6 rounded-xl border border-orange-100 shadow-sm border-l-4 border-l-orange-500">
-                  <h4 className="font-bold text-[#2E2E2E] mb-2">The Harassment Point</h4>
+                  <h5 className="font-bold text-[#2E2E2E] mb-2">The Harassment Point</h5>
                   <p className="text-sm text-gray-500">When recovery agents start invading your personal and professional space.</p>
                 </div>
               </div>
             </section>
 
             <section id="step-by-step" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">The Step-by-Step Settlement Journey</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">The Step-by-Step Settlement Journey</h3>
               <div className="space-y-8">
                 <div className="flex gap-6 items-start">
                   <div className="flex-shrink-0 w-12 h-12 rounded-2xl bg-[#1F5EFF] text-white flex items-center justify-center font-black text-xl shadow-lg">1</div>
                   <div className="flex-1">
-                    <h3 className="text-xl font-bold text-[#2E2E2E] mb-2 font-mono uppercase">Financial Audit & Documentation</h3>
+                    <h4 className="text-xl font-bold text-[#2E2E2E] mb-2 font-mono uppercase">Financial Audit & Documentation</h4>
                     <p className="text-gray-600 leading-relaxed">
                       Begin by listing every single debt. Note down the principal, the interest, and the status of each loan. Collect your latest 6 months' salary slips and bank statements. If you have a specific hardship (like a medical bill or a job termination letter), keep those ready. You need to prove to the bank that you are physically unable to pay the full amount, not just unwilling.
                     </p>
@@ -377,7 +377,7 @@ export default function LoanSettlementSalariedPage() {
                 <div className="flex gap-6 items-start">
                   <div className="flex-shrink-0 w-12 h-12 rounded-2xl bg-[#1F5EFF] text-white flex items-center justify-center font-black text-xl shadow-lg">2</div>
                   <div className="flex-1">
-                    <h3 className="text-xl font-bold text-[#2E2E2E] mb-2 font-mono uppercase">Initiating Communication</h3>
+                    <h4 className="text-xl font-bold text-[#2E2E2E] mb-2 font-mono uppercase">Initiating Communication</h4>
                     <p className="text-gray-600 leading-relaxed">
                       Do not ignore the bank's calls. Instead, proactively reach out to their debt recovery or nodal officer. Explain your situation clearly and express your intent to settle the account. This shows that you are a responsible borrower facing a difficult time, rather than a deliberate defaulter. It is often better to do this in writing via a recorded email or a registered letter.
                     </p>
@@ -386,7 +386,7 @@ export default function LoanSettlementSalariedPage() {
                 <div className="flex gap-6 items-start">
                   <div className="flex-shrink-0 w-12 h-12 rounded-2xl bg-[#1F5EFF] text-white flex items-center justify-center font-black text-xl shadow-lg">3</div>
                   <div className="flex-1">
-                    <h3 className="text-xl font-bold text-[#2E2E2E] mb-2 font-mono uppercase">The Negotiation Phase</h3>
+                    <h4 className="text-xl font-bold text-[#2E2E2E] mb-2 font-mono uppercase">The Negotiation Phase</h4>
                     <p className="text-gray-600 leading-relaxed">
                       This is where the real work happens. The bank will start with a high offer. You must counter with a realistic lump sum that you can actually afford. Professional negotiators like SettleLoans can be invaluable here, as we know the internal thresholds that different banks use. The goal is to reach a number that satisfies the bank's recovery target while giving you a 50% to 70% relief on the total outstanding.
                     </p>
@@ -395,7 +395,7 @@ export default function LoanSettlementSalariedPage() {
                 <div className="flex gap-6 items-start">
                   <div className="flex-shrink-0 w-12 h-12 rounded-2xl bg-[#1F5EFF] text-white flex items-center justify-center font-black text-xl shadow-lg">4</div>
                   <div className="flex-1">
-                    <h3 className="text-xl font-bold text-[#2E2E2E] mb-2 font-mono uppercase">The OTS Letter & Payment</h3>
+                    <h4 className="text-xl font-bold text-[#2E2E2E] mb-2 font-mono uppercase">The OTS Letter & Payment</h4>
                     <p className="text-gray-600 leading-relaxed">
                       Never pay a single rupee based on a verbal promise. Wait for the official One-Time Settlement (OTS) letter on the bank's letterhead. Verify the amount and the deadline. Once you have the letter, make the payment through official bank channels (NEFT or DD). Always keep the receipt of this transaction as your most important document.
                     </p>
@@ -404,7 +404,7 @@ export default function LoanSettlementSalariedPage() {
                 <div className="flex gap-6 items-start">
                   <div className="flex-shrink-0 w-12 h-12 rounded-2xl bg-[#1F5EFF] text-white flex items-center justify-center font-black text-xl shadow-lg">5</div>
                   <div className="flex-1">
-                    <h3 className="text-xl font-bold text-[#2E2E2E] mb-2 font-mono uppercase">Obtaining the No Dues Certificate</h3>
+                    <h4 className="text-xl font-bold text-[#2E2E2E] mb-2 font-mono uppercase">Obtaining the No Dues Certificate</h4>
                     <p className="text-gray-600 leading-relaxed">
                       After the payment is processed, request the final No Dues Certificate (NDC). This is your certificate of freedom. Ensure that the bank promises to update the status with credit bureaus like CIBIL. It takes about 45 to 60 days for this reflect on your report. Monitor it closely to ensure the nightmare is finally over.
                     </p>
@@ -414,19 +414,19 @@ export default function LoanSettlementSalariedPage() {
             </section>
 
             <section id="legal-rights" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 uppercase tracking-widest text-sm bg-gray-100 py-3 px-6 rounded-lg inline-block">Your Legal Rights as a Borrower</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 uppercase tracking-widest text-sm bg-gray-100 py-3 px-6 rounded-lg inline-block">Your Legal Rights as a Borrower</h3>
               <p className="mb-6 text-lg">
                 Debt is a civil matter, not a criminal one. In India, the law protects your human dignity even if you have defaulted on a loan. Knowledge of these rights is your best defense against intimidation.
               </p>
               <div className="grid md:grid-cols-2 gap-6 mb-8">
                 <div className="bg-emerald-50/50 p-8 rounded-xl border border-emerald-100">
-                  <h3 className="text-xl font-bold text-emerald-800 mb-3 font-mono">The Right to Dignity</h3>
+                  <h4 className="text-xl font-bold text-emerald-800 mb-3 font-mono">The Right to Dignity</h4>
                   <p className="text-sm text-emerald-900/80 leading-relaxed">
                     Under the RBI Fair Practice Code, recovery agents are strictly prohibited from using physical force, verbal abuse, or any form of public shaming. They cannot call you before 8 AM or after 7 PM. If they violate these timing rules or use offensive language, it is a serious breach of RBI guidelines.
                   </p>
                 </div>
                 <div className="bg-blue-50/50 p-8 rounded-xl border border-blue-100">
-                  <h3 className="text-xl font-bold text-blue-800 mb-3 font-mono">The Right to Privacy</h3>
+                  <h4 className="text-xl font-bold text-blue-800 mb-3 font-mono">The Right to Privacy</h4>
                   <p className="text-sm text-blue-900/80 leading-relaxed">
                     A lender cannot disclose your debt to your neighbors, your friends, or your workplace with the intent to shame you. Your financial situation is a confidential contract. Circulating your photo or details on WhatsApp groups is an illegal act that can be met with strong legal action.
                   </p>
@@ -438,12 +438,12 @@ export default function LoanSettlementSalariedPage() {
             </section>
 
             <section id="cibil-impact" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">The Truth About CIBIL and Settlement</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">The Truth About CIBIL and Settlement</h3>
               <p className="mb-6">
                 Let's be honest: settlement is not good for your CIBIL score. When you settle, your score will drop, and the entry will stay on your report for up to 7 years. For a salaried person who might need a home loan or a car loan in the future, this is a significant drawback.
               </p>
               <div className="bg-red-50 p-8 rounded-2xl border border-red-100 mb-8">
-                <h3 className="text-2xl font-black text-[#2E2E2E] mb-6">Reality Check: The Cost of Default</h3>
+                <h4 className="text-2xl font-black text-[#2E2E2E] mb-6">Reality Check: The Cost of Default</h4>
                 <p className="mb-6 italic text-red-900">"While settlement hurts your CIBIL score, staying in a permanent state of default is much worse. A settled account stops the bleeding and allows you to start the recovery process."</p>
                 <div className="space-y-4">
                   <div className="bg-white p-4 rounded-lg flex items-center justify-between border border-red-200">
@@ -466,25 +466,25 @@ export default function LoanSettlementSalariedPage() {
             </section>
 
             <section id="negotiating-banks" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Negotiating with Major Indian Banks</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Negotiating with Major Indian Banks</h3>
               <p className="mb-6">
                 Every bank has its own recovery culture. Dealing with SBI is very different from dealing with a new-age NBFC like Bajaj Finance or a digital lender. Understanding the mindset of your lender is half the battle in successful negotiation.
               </p>
               <div className="space-y-8">
                 <div className="bg-white p-8 rounded-2xl border border-blue-100 shadow-sm">
-                  <h3 className="text-2xl font-bold text-blue-600 mb-4 font-mono">Public Sector Banks (SBI, PNB, BoB)</h3>
+                  <h4 className="text-2xl font-bold text-blue-600 mb-4 font-mono">Public Sector Banks (SBI, PNB, BoB)</h4>
                   <p className="mb-4">
                     PSUs usually have very structured OTS schemes, especially during 'Lokayukta' or 'Special Recovery Weeks'. They are generally more willing to follow the rules and are less likely to use aggressive recovery agents compared to private players. However, their internal approval process is slow. You need to be patient and keep all your documentation in perfect order.
                   </p>
                 </div>
                 <div className="bg-white p-8 rounded-2xl border border-purple-100 shadow-sm">
-                  <h3 className="text-2xl font-bold text-purple-600 mb-4 font-mono">Large Private Banks (HDFC, ICICI, Axis)</h3>
+                  <h4 className="text-2xl font-bold text-purple-600 mb-4 font-mono">Large Private Banks (HDFC, ICICI, Axis)</h4>
                   <p className="mb-4">
                     Private banks have very efficient recovery systems. They will be very aggressive in the first 90 days. However, once an account moves to NPA, they are often quite pragmatic. They value quick closure over endless litigation. If you can offer a lump sum that meets their 'net present value' calculation, you can get a very good deal.
                   </p>
                 </div>
                 <div className="bg-white p-8 rounded-2xl border border-orange-100 shadow-sm">
-                  <h3 className="text-2xl font-bold text-orange-600 mb-4 font-mono">NBFCs and Digital Apps</h3>
+                  <h4 className="text-2xl font-bold text-orange-600 mb-4 font-mono">NBFCs and Digital Apps</h4>
                   <p className="mb-4">
                     This is often the most difficult sector. Some digital apps use extreme tactics, including accessing your contacts. Settlement here requires a firm legal hand. You must insist on formal communications and never yield to threats. Many of these apps have very high margins, meaning they can actually afford to settle for much less if they realize the borrower is legally well-informed.
                   </p>
@@ -493,7 +493,7 @@ export default function LoanSettlementSalariedPage() {
             </section>
 
             <section id="alternatives" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Better Alternatives to Settlement</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Better Alternatives to Settlement</h3>
               <p className="mb-6">
                 Before you decide to settle, ask yourself if you can actually pay the debt through other means. A settlement stays on your record for a long time, so it's always worth exploring these alternatives first.
               </p>
@@ -501,21 +501,21 @@ export default function LoanSettlementSalariedPage() {
                 <li className="flex items-start gap-4">
                   <div className="w-10 h-10 bg-blue-100 rounded-full flex items-center justify-center shrink-0 text-blue-600 font-black">A</div>
                   <div>
-                    <h3 className="font-bold text-lg mb-1">Loan Restructuring</h3>
+                    <h4 className="font-bold text-lg mb-1">Loan Restructuring</h4>
                     <p className="text-sm text-gray-600">The bank might extend your tenure to reduce the monthly EMI. This makes the loan more affordable without affecting your CIBIL as severely as a settlement. It's often the best choice for those with a temporary salary cut.</p>
                   </div>
                 </li>
                 <li className="flex items-start gap-4">
                   <div className="w-10 h-10 bg-blue-100 rounded-full flex items-center justify-center shrink-0 text-blue-600 font-black">B</div>
                   <div>
-                    <h4 className="font-bold text-lg mb-1">Debt Consolidation</h4>
+                    <h5 className="font-bold text-lg mb-1">Debt Consolidation</h5>
                     <p className="text-sm text-gray-600">Taking one large loan at a lower interest rate (like a top-up on a home loan) to pay off multiple small, high-interest loans. This simplifies your life and reduces the total interest burden.</p>
                   </div>
                 </li>
                 <li className="flex items-start gap-4">
                   <div className="w-10 h-10 bg-blue-100 rounded-full flex items-center justify-center shrink-0 text-blue-600 font-black">C</div>
                   <div>
-                    <h4 className="font-bold text-lg mb-1">Balance Transfer</h4>
+                    <h5 className="font-bold text-lg mb-1">Balance Transfer</h5>
                     <p className="text-sm text-gray-600">If your credit score is still decent, you can move your outstanding balance to a different bank that offers a lower interest rate or a longer repayment period.</p>
                   </div>
                 </li>
@@ -523,13 +523,13 @@ export default function LoanSettlementSalariedPage() {
             </section>
 
             <section id="settleloans-role" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">The SettleLoans Shield: Your Partner in Crisis</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">The SettleLoans Shield: Your Partner in Crisis</h3>
               <p className="mb-6">
                 Negotiating with a bank while you are already under the stress of a financial crisis is like trying to fight a battle without a shield. Banks have teams of lawyers and professional negotiators on their side. Who is on yours?
               </p>
               <div className="bg-[#2E2E2E] text-white p-10 rounded-3xl mb-8 border border-white/10 shadow-2xl overflow-hidden relative">
                 <div className="absolute -bottom-10 -right-10 w-40 h-40 bg-[#1F5EFF] rounded-full blur-[100px] opacity-20"></div>
-                <h3 className="text-3xl font-black mb-8 leading-tight">Why Professional Negotiation Matters</h3>
+                <h4 className="text-3xl font-black mb-8 leading-tight">Why Professional Negotiation Matters</h4>
                 <div className="grid md:grid-cols-2 gap-8 text-sm leading-relaxed opacity-90">
                   <div className="space-y-4">
                     <p>When you represent yourself, the bank sees a desperate individual. When SettleLoans represents you, they see a legally protected client who knows their rights. We change the power dynamic immediately.</p>
@@ -561,31 +561,31 @@ export default function LoanSettlementSalariedPage() {
             </section>
 
             <section id="life-after-debt" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 text-center uppercase tracking-tighter">Life After Debt: The Financial Reset</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 text-center uppercase tracking-tighter">Life After Debt: The Financial Reset</h3>
               <p className="mb-6 text-center text-lg max-w-2xl mx-auto italic">
                 Becoming debt free is not the end of the journey; it is the beginning of a new, disciplined chapter in your life. Here is how you can ensure you never have to face this stress again.
               </p>
               <div className="grid sm:grid-cols-2 gap-8 my-10">
                 <div className="p-8 bg-white rounded-2xl border border-gray-100 shadow-sm hover:shadow-md transition-all">
-                  <h3 className="text-xl font-bold mb-4 text-[#1F5EFF]">1. Psychological Healing</h3>
+                  <h4 className="text-xl font-bold mb-4 text-[#1F5EFF]">1. Psychological Healing</h4>
                   <p className="text-sm text-gray-600 leading-relaxed">
                     Debt carrying is a trauma. Forgive yourself for the past. Whether it was a medical bill that wiped your savings or a series of bad luck, the past is now behind you. Use the wisdom you've gained to build a stronger emotional foundation.
                   </p>
                 </div>
                 <div className="p-8 bg-white rounded-2xl border border-gray-100 shadow-sm hover:shadow-md transition-all">
-                  <h3 className="text-xl font-bold mb-4 text-[#1F5EFF]">2. The Golden Rule of 20%</h3>
+                  <h4 className="text-xl font-bold mb-4 text-[#1F5EFF]">2. The Golden Rule of 20%</h4>
                   <p className="text-sm text-gray-600 leading-relaxed">
                     From your next salary, commit to saving at least 20% no matter what. Treat this as an emergency fund that is strictly untouchable. This fund is your ultimate protection against needing a personal loan ever again.
                   </p>
                 </div>
                 <div className="p-8 bg-white rounded-2xl border border-gray-100 shadow-sm hover:shadow-md transition-all">
-                  <h3 className="text-xl font-bold mb-4 text-[#1F5EFF]">3. Conscious Spending</h3>
+                  <h4 className="text-xl font-bold mb-4 text-[#1F5EFF]">3. Conscious Spending</h4>
                   <p className="text-sm text-gray-600 leading-relaxed">
                     Be ruthless with your expenses for the first year after settlement. Avoid all luxury purchases. Use a simple app to track every rupee. When you see where your money goes, you gain the power to control it.
                   </p>
                 </div>
                 <div className="p-8 bg-white rounded-2xl border border-gray-100 shadow-sm hover:shadow-md transition-all">
-                  <h3 className="text-xl font-bold mb-4 text-[#1F5EFF]">4. Education and Growth</h3>
+                  <h4 className="text-xl font-bold mb-4 text-[#1F5EFF]">4. Education and Growth</h4>
                   <p className="text-sm text-gray-600 leading-relaxed">
                     Invest in your own skills. For a salaried person, the best way to beat debt is to increase your earning capacity. One certificate or one new skill could lead to a salary hike that solves all your future financial needs.
                   </p>
@@ -597,7 +597,7 @@ export default function LoanSettlementSalariedPage() {
             </section>
 
             <section id="faqs" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Expert Answers to Your Concerns</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Expert Answers to Your Concerns</h3>
               <div className="space-y-4 not-prose">
                 {[
                   { q: "Will I lose my current job if I settle my loans?", a: "No. Loan settlement is a private financial matter. Banks do not notify employers unless there is a specific legal requirement or you have used your employer as a co-applicant. In fact, settling your debt reduces your stress at work and makes you a better professional." },
@@ -628,7 +628,7 @@ export default function LoanSettlementSalariedPage() {
 
             {/* Review Snippets Section */}
             <section id="reviews" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 text-center bg-gray-50 py-4 rounded-xl">What Our Clients Say</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 text-center bg-gray-50 py-4 rounded-xl">What Our Clients Say</h3>
               <div className="grid md:grid-cols-2 gap-6">
                 {[
                   {
@@ -681,7 +681,7 @@ export default function LoanSettlementSalariedPage() {
               </div>
               
               <div className="mt-12 bg-[#1F5EFF] rounded-3xl p-8 text-center text-white shadow-xl">
-                <h3 className="text-2xl font-black mb-4">Be Our Next Success Story</h3>
+                <h4 className="text-2xl font-black mb-4">Be Our Next Success Story</h4>
                 <p className="text-white/80 mb-8 max-w-xl mx-auto">
                   Don't let debt dictate your life. Join the thousands of professionals who have found their way back to financial dignity with us.
                 </p>

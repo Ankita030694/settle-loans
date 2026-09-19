@@ -149,7 +149,7 @@ const jsonLdGraph = {
       "@type": "FinancialService",
       "@id": "https://www.settleloans.in/medical-emergency-loan-default-settlement#service",
       "name": "SettleLoans - Medical Emergency & Compassionate Hardship Loan Settlement Advisory",
-      "description": "Specialized legal and financial negotiation advisory for settling defaulted unsecured personal loans and credit cards caused by catastrophic medical expenses, critical illness, or severe accidents under RBI compromise settlement frameworks.",
+      "description": "Specialized legal and financial talks advisory for settling defaulted unsecured personal loans and credit cards caused by catastrophic medical expenses, critical illness, or severe accidents under RBI compromise settlement frameworks.",
       "url": "https://www.settleloans.in/medical-emergency-loan-default-settlement",
       "image": "https://www.settleloans.in/images/infographics/medical-emergency-loan-default-settlement.jpg",
       "telephone": "+91-99999-99999",
@@ -198,7 +198,7 @@ const jsonLdGraph = {
             "name": "Pooja Deshmukh",
           },
           "datePublished": "2026-07-12",
-          "reviewBody": "My father's stage-3 cancer treatments in Mumbai drained ₹22 Lakhs in out-of-pocket medical expenditures after health insurance rejected key chemotherapy riders. I defaulted on two credit cards and an ₹8.5 Lakh personal loan. When NACH debits bounced, the bank issued aggressive Section 25 PSSA legal notices threatening court prosecution. SettleLoans replied to the statutory notices within the 15-day window, demonstrating absolute bona fide medical hardship with oncological treatment records. They negotiated directly with the head office credit committee, achieving a 70% debt waiver across my entire portfolio. An absolute lifesaver for families struck by severe illness.",
+          "reviewBody": "My father's stage-3 cancer treatments in Mumbai drained ₹22 Lakhs in out-of-pocket medical expenditures after health insurance rejected key chemotherapy riders. I defaulted on two credit cards and an ₹8.5 Lakh personal loan. When NACH debits bounced, the bank issued aggressive Section 25 PSSA legal notices threatening court prosecution. SettleLoans replied to the statutory notices within the 15-day window, showing absolute bona fide medical hardship with oncological treatment records. They negotiated directly with the head office credit committee, achieving a 70% debt waiver across my entire portfolio. An absolute lifesaver for families struck by severe illness.",
           "reviewRating": {
             "@type": "Rating",
             "ratingValue": "5",
@@ -213,7 +213,7 @@ const jsonLdGraph = {
             "name": "Amitabh Sengupta",
           },
           "datePublished": "2026-05-29",
-          "reviewBody": "A severe multi-trauma road accident left me bedridden for 9 months in Kolkata, destroying my consultancy income and leaving me with ₹11.2 Lakhs in unserviceable bank debt. The bank's recovery agents threatened to visit my home daily. SettleLoans stepped in, took complete control of creditor communications, and invoked RBI Master Directions on Compassionate Compromise Settlements. The bank authorized an OTS of ₹3.9 Lakhs in two structured installments. Their advocate team ensured I received the stamped No Dues Certificate within 20 days of payment.",
+          "reviewBody": "A severe multi-trauma road accident left me bedridden for 9 months in Kolkata, destroying my consultancy income and leaving me with ₹11.2 Lakhs in unserviceable bank debt. The bank's recovery agents threatened to visit my home daily. SettleLoans stepped in, took complete control of creditor notices, and invoked RBI Master Directions on Compassionate Compromise Settlements. The bank authorized an OTS of ₹3.9 Lakhs in two structured installments. Their advocate team ensured I received the stamped No Dues Certificate within 20 days of payment.",
           "reviewRating": {
             "@type": "Rating",
             "ratingValue": "5",
@@ -279,7 +279,7 @@ const jsonLdGraph = {
           "name": "How can you stop recovery agents from harassing a patient or family during hospitalization?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Under the RBI Master Directions on Recovery Agents (2022), debt collectors are strictly prohibited from using abusive language, visiting hospitals, contacting recovering patients, or calling non-guarantor family members. Borrowers or their legal representatives can serve an immediate Legal Cease-and-Desist Notice attaching hospital admission proofs, submit a complaint to the bank's Principal Nodal Officer (PNO), and escalate violations to the RBI Integrated Ombudsman portal (cms.rbi.org.in).",
+            "text": "Under the RBI Master Directions on Recovery Agents (2022), debt collectors are strictly prohibited from using abusive language, visiting hospitals, contacting recovering patients, or calling non-guarantor family members. Borrowers or their legal agents can serve an immediate Legal Cease-and-Desist Notice attaching hospital admission proofs, submit a complaint to the bank's Principal Nodal Officer (PNO), and escalate violations to the RBI Integrated Ombudsman portal (cms.rbi.org.in).",
           },
         },
         {
@@ -319,7 +319,7 @@ const jsonLdGraph = {
           "name": "How does settling a loan due to medical emergency affect your CIBIL score and how can you rebuild it?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Executing an OTS updates the credit bureau status to 'Settled' with an outstanding balance of ₹0. While this produces a temporary credit score reduction and triggers an initial 12-month cooling period, it permanently eliminates active default marks and legal liabilities. Once health and income stabilize, borrowers can rebuild their credit score back to 750+ within 18 to 24 months by utilizing a secured credit card backed by a fixed deposit and maintaining spotless repayment discipline.",
+            "text": "Executing an OTS updates the credit bureau status to 'Settled' with an outstanding balance of ₹0. While this produces a temporary credit score reduction and triggers an initial 12-month cooling period, it permanently eliminates active default marks and legal liabilities. Once health and income stabilize, borrowers can rebuild their credit score back to 750+ within 18 to 24 months by using a secured credit card backed by a fixed deposit and maintaining spotless repayment discipline.",
           },
         },
       ],
@@ -353,7 +353,7 @@ export default function MedicalEmergencyLoanDefaultSettlementPage() {
     { id: "statutory-notice-defense-pssa-138", title: "7. Section 25 PSSA & Section 138 Defense" },
     { id: "step-by-step-medical-settlement-protocol", title: "8. Step-by-Step Settlement Protocol" },
     { id: "sanction-letter-audit-ndc-mandate", title: "9. Sanction Letter Forensics & ₹0 NDC" },
-    { id: "comparative-matrix-credit-rehabilitation", title: "10. Comparative Matrix & CIBIL Rebuilding" },
+    { id: "comparative-matrix-credit-recovery", title: "10. Comparative Matrix & CIBIL Rebuilding" },
     { id: "company-resolution-section", title: "11. SettleLoans Legal Defense & Advisory" },
     { id: "faqs", title: "12. Frequently Asked Questions" },
   ];
@@ -377,7 +377,7 @@ export default function MedicalEmergencyLoanDefaultSettlementPage() {
     },
     {
       question: "How can you stop recovery agents from harassing a patient or family during hospitalization?",
-      answer: "Under the RBI Master Directions on Recovery Agents (2022), debt collectors are strictly prohibited from using abusive language, visiting hospitals, contacting recovering patients, or calling non-guarantor family members. Borrowers or their legal representatives can serve an immediate Legal Cease-and-Desist Notice attaching hospital admission proofs, submit a complaint to the bank's Principal Nodal Officer (PNO), and escalate violations to the RBI Integrated Ombudsman portal (cms.rbi.org.in).",
+      answer: "Under the RBI Master Directions on Recovery Agents (2022), debt collectors are strictly prohibited from using abusive language, visiting hospitals, contacting recovering patients, or calling non-guarantor family members. Borrowers or their legal agents can serve an immediate Legal Cease-and-Desist Notice attaching hospital admission proofs, submit a complaint to the bank's Principal Nodal Officer (PNO), and escalate violations to the RBI Integrated Ombudsman portal (cms.rbi.org.in).",
     },
     {
       question: "What should you do if a bank sends a Section 25 PSSA or Section 138 notice during medical treatment?",
@@ -397,7 +397,7 @@ export default function MedicalEmergencyLoanDefaultSettlementPage() {
     },
     {
       question: "How does settling a loan due to medical emergency affect your CIBIL score and how can you rebuild it?",
-      answer: "Executing an OTS updates the credit bureau status to 'Settled' with an outstanding balance of ₹0. While this produces a temporary credit score reduction and triggers an initial 12-month cooling period, it permanently eliminates active default marks and legal liabilities. Once health and income stabilize, borrowers can rebuild their credit score back to 750+ within 18 to 24 months by utilizing a secured credit card backed by a fixed deposit and maintaining spotless repayment discipline.",
+      answer: "Executing an OTS updates the credit bureau status to 'Settled' with an outstanding balance of ₹0. While this produces a temporary credit score reduction and triggers an initial 12-month cooling period, it permanently eliminates active default marks and legal liabilities. Once health and income stabilize, borrowers can rebuild their credit score back to 750+ within 18 to 24 months by using a secured credit card backed by a fixed deposit and maintaining spotless repayment discipline.",
     },
   ];
 
@@ -579,13 +579,13 @@ export default function MedicalEmergencyLoanDefaultSettlementPage() {
                 When cash flows are diverted toward medical bills, personal loan EMIs and credit card balances inevitably default. In Indian banking law, this scenario represents an <strong>involuntary default</strong>. Under the RBI Master Circular on Wilful Defaulters, a borrower is categorized as wilful only if they possess liquid funds but refuse repayment, siphon money, or fraudulently dispose of assets.
               </p>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
-                A salaried professional or self-employed borrower who maintained an unblemished repayment track record for years and defaulted solely due to verified critical illness or prolonged inpatient hospitalization stands completely protected against wilful default classifications. Unsecured retail loans represent civil contractual obligations governed by the Indian Contract Act, 1872. Under the doctrine of objective financial frustration and the RBI Master Directions on Compromise Settlements (DOR.STR.REC.20/21.04.048/2023-24), regulated banking entities are legally mandated to entertain compassionate grounds compromise petitions and negotiate realistic debt closures.
+                A salaried professional or self-employed borrower who maintained an unblemished repayment track record for years and defaulted solely due to verified critical illness or prolonged inpatient hospitalization stands completely protected against wilful default classifications. Unsecured retail loans represent civil contractual debts governed by the Indian Contract Act, 1872. Under the doctrine of objective financial frustration and the RBI Master Directions on Compromise Settlements (DOR.STR.REC.20/21.04.048/2023-24), regulated banking entities are legally mandated to entertain compassionate grounds compromise petitions and negotiate realistic debt closures.
               </p>
               <div className="bg-amber-50 border-l-4 border-amber-500 p-5 rounded-r-xl my-6">
                 <div className="flex items-start gap-3">
                   <AlertCircle className="w-5 h-5 text-amber-600 flex-shrink-0 mt-0.5" />
                   <div className="text-xs sm:text-sm text-amber-900 leading-relaxed">
-                    <strong>Statutory Civil Protection:</strong> Inability to service personal loans or credit cards due to catastrophic medical expenditures is strictly a civil contractual breach. It does not constitute cheating under Section 318 of the Bharatiya Nyaya Sanhita (BNS) or criminal breach of trust. Banks possess zero legal power to involve police personnel, initiate criminal arrests, or seize residential premises for unsecured loans defaulted due to healthcare emergencies.
+                    <strong>Statutory Civil Protection:</strong> Inability to service personal loans or credit cards due to catastrophic medical expenditures is strictly a civil contractual breach. It does not constitute cheating under Section 318 of the Bharatiya Nyaya Sanhita (BNS) or criminal breach of trust. Banks possess zero legal power to involve police personnel, start criminal arrests, or seize residential premises for unsecured loans defaulted due to healthcare emergencies.
                   </div>
                 </div>
               </div>
@@ -597,9 +597,9 @@ export default function MedicalEmergencyLoanDefaultSettlementPage() {
                 <FileText className="w-4 h-4" />
                 <span>2. Compiling the Medical Hardship Dossier</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 Compiling Medical Records as Irrefutable Evidence
-              </h2>
+              </h3>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Bank Zonal Stressed Assets Committees and Chief Risk Officers do not grant multi-lakh debt waivers based on verbal emotional appeals or casual medical prescriptions. Internal bank auditors, statutory credit controllers, and RBI inspection teams require comprehensive, verifiable documentary trails to justify every single rupee written off under a compromise settlement. Submitting an airtight <strong>Medical Hardship Dossier</strong> transforms a subjective personal crisis into an indisputable legal reality, compelling bank credit committees to authorize maximum compromise concessions.
               </p>
@@ -645,8 +645,8 @@ export default function MedicalEmergencyLoanDefaultSettlementPage() {
                     </tr>
                     <tr>
                       <td className="font-bold text-slate-900">5. Medical Prognosis &amp; Incapacity Letters</td>
-                      <td>Treating physician / Medical Superintendent certificate detailing ongoing rehabilitation, bed rest, or permanent disability.</td>
-                      <td>Demonstrates severe temporary or permanent loss of professional earning capacity, destroying future EMI servicing ability.</td>
+                      <td>Treating physician / Medical Superintendent certificate detailing ongoing recovery, bed rest, or permanent disability.</td>
+                      <td>shows severe temporary or permanent loss of professional earning capacity, destroying future EMI servicing ability.</td>
                       <td><span className="text-blue-700 font-bold">High Supporting Value</span></td>
                     </tr>
                   </tbody>
@@ -664,9 +664,9 @@ export default function MedicalEmergencyLoanDefaultSettlementPage() {
                 <Clock className="w-4 h-4" />
                 <span>3. NPA Lifecycle &amp; Zonal Committee Timing</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 NPA Provisioning Timeline for Medical Debt Waivers
-              </h2>
+              </h3>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Achieving a favorable loan settlement requires an in-depth understanding of bank accounting cycles and the regulatory lifecycle of delinquent assets. In commercial banking, default resolution is governed by strict provisioning mandates imposed by the Reserve Bank of India. The internal authority of bank credit managers to sanction significant debt write-offs changes drastically across the delinquency timeline:
               </p>
@@ -737,9 +737,9 @@ export default function MedicalEmergencyLoanDefaultSettlementPage() {
                 <Calculator className="w-4 h-4" />
                 <span>4. NPV Recovery Valuation &amp; Debt Waiver Mathematics</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 NPV Modeling: Why Banks Accept 50%–75% Medical Haircuts
-              </h2>
+              </h3>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Borrowers often wonder why commercial banks voluntarily waive 50% to 75% of an outstanding loan balance. The decision is rooted in institutional economics and <strong>Net Present Value (NPV) Recovery Modeling</strong>. Under RBI Master Directions, credit committees must determine whether an immediate cash settlement yields higher net returns than litigating against a medically incapacitated borrower.
               </p>
@@ -762,8 +762,8 @@ export default function MedicalEmergencyLoanDefaultSettlementPage() {
                 Consider an unsecured personal loan with an outstanding ledger balance of ₹12,00,000 defaulted due to critical surgery and prolonged recovery:
               </p>
               <ul className="list-disc pl-6 space-y-2 text-slate-700 mb-4 text-base">
-                <li><strong>Litigation Path (High Friction &amp; Uncertainty):</strong> The bank files a civil summary suit under Order 37 CPC or initiates commercial arbitration. The bank spends ₹75,000 in court fees, ₹90,000 in advocate fees, and waits 4 to 7 years in Indian civil courts. Because the borrower has depleted all liquid savings on hospital bills and owns no unencumbered commercial real estate, executing a money decree yields negligible cash. Meanwhile, the bank must freeze ₹12,00,000 in mandatory capital reserves. The discounted NPV of this route yields barely ₹2.5 Lakhs to ₹3.2 Lakhs.</li>
-                <li><strong>Compassionate Hardship OTS (Immediate Certainty):</strong> The borrower, represented by experienced debt settlement advocates, submits the complete medical dossier and offers an immediate lump-sum settlement of ₹3.6 Lakhs to ₹4.5 Lakhs (a 62% to 70% haircut) mobilized with assistance from extended family members. The bank receives immediate liquid cash, completely releases ₹12,00,000 from frozen capital reserves, eliminates all legal costs, and closes the delinquent ledger permanently.</li>
+                <li><strong>Litigation Path (High Friction &amp; Uncertainty):</strong> The bank files a civil summary suit under Order 37 CPC or starts commercial arbitration. The bank spends ₹75,000 in court fees, ₹90,000 in advocate fees, and waits 4 to 7 years in Indian civil courts. Because the borrower has depleted all liquid savings on hospital bills and owns no unencumbered commercial real estate, executing a money decree yields negligible cash. Meanwhile, the bank must freeze ₹12,00,000 in mandatory capital reserves. The discounted NPV of this route yields barely ₹2.5 Lakhs to ₹3.2 Lakhs.</li>
+                <li><strong>Compassionate Hardship OTS (Immediate Certainty):</strong> The borrower, represented by experienced debt settlement advocates, submits the complete medical dossier and offers an immediate lump-sum settlement of ₹3.6 Lakhs to ₹4.5 Lakhs (a 62% to 70% haircut) mobilized with help from extended family members. The bank receives immediate liquid cash, completely releases ₹12,00,000 from frozen capital reserves, eliminates all legal costs, and closes the delinquent ledger permanently.</li>
               </ul>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Because the compassionate settlement delivers superior NPV and eliminates balance-sheet risk, the bank&apos;s Zonal Stressed Assets Committee has a fiduciary and economic obligation to approve the settlement.
@@ -776,9 +776,9 @@ export default function MedicalEmergencyLoanDefaultSettlementPage() {
                 <Layers className="w-4 h-4" />
                 <span>5. Visual Resolution Blueprint</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 Resolution Blueprint: Medical Default to ₹0 NDC
-              </h2>
+              </h3>
               <p className="text-slate-700 leading-relaxed mb-6 text-base md:text-lg">
                 The comprehensive infographic below illustrates the 4-stage institutional lifecycle of resolving defaulted retail loans following catastrophic medical emergencies. It outlines how verified hospital records and statutory protections transform unmanageable debt into an authorized 50% to 75% compromise waiver under Reserve Bank of India frameworks.
               </p>
@@ -805,9 +805,9 @@ export default function MedicalEmergencyLoanDefaultSettlementPage() {
                 <ShieldAlert className="w-4 h-4" />
                 <span>6. Stopping Harassment &amp; Patient Protection</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 Halting Recovery Harassment for Medical Patients
-              </h2>
+              </h3>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 The most distressing aspect of defaulting during illness is aggressive recovery agent harassment. Lenders often outsource delinquent accounts to commission-driven third-party agencies. In violation of statutory regulations, agents sometimes call patients in hospitals or visit during strict bed rest. They intimidate family members and issue unlawful threats of police action.
               </p>
@@ -815,19 +815,19 @@ export default function MedicalEmergencyLoanDefaultSettlementPage() {
                 Such coercive tactics represent severe violations of the <strong>RBI Master Directions on Recovery Agents (2022)</strong> and the statutory <em>Charter of Customer Rights</em>. Under binding directives issued to all scheduled commercial banks, non-banking financial companies (NBFCs), and digital lending apps, borrowers enjoy comprehensive statutory protections:
               </p>
               <ul className="list-disc pl-6 space-y-2.5 text-slate-700 mb-6 text-base">
-                <li><strong>Absolute Prohibition of Hospital / Sickbed Contact:</strong> Recovery agents are legally prohibited from calling patients undergoing active medical treatment or visiting hospitals, nursing homes, or rehabilitation centers.</li>
+                <li><strong>Absolute Prohibition of Hospital / Sickbed Contact:</strong> Recovery agents are legally prohibited from calling patients undergoing active medical treatment or visiting hospitals, nursing homes, or recovery centers.</li>
                 <li><strong>Strict Calling Windows:</strong> Debt collectors can only contact borrowers between 08:00 AM and 07:00 PM. Calls at night or early morning constitute illegal harassment.</li>
                 <li><strong>Zero Contact with Non-Guarantor Family Members:</strong> Contacting spouses, elderly parents, children, or attending doctors to demand debt repayment is explicitly prohibited under RBI privacy mandates.</li>
-                <li><strong>Mandatory Identification Credentials:</strong> Any field representative visiting a residence must present an official bank authorization letter, photo identity card, and an Indian Institute of Banking &amp; Finance (IIBF) Debt Recovery Agent (DRA) certificate.</li>
+                <li><strong>Mandatory Identification Credentials:</strong> Any field agent visiting a residence must present an official bank authorization letter, photo identity card, and an Indian Institute of Banking &amp; Finance (IIBF) Debt Recovery Agent (DRA) certificate.</li>
                 <li><strong>Zero Tolerance for Coercion &amp; Threats:</strong> Using abusive language, threatening physical harm, or falsely claiming that police officers will arrest the patient constitutes punishable criminal intimidation under the Bharatiya Nyaya Sanhita.</li>
               </ul>
               <div className="bg-slate-50 border border-slate-200 rounded-xl p-5 my-6">
-                <h3 className="font-bold text-slate-900 text-sm uppercase tracking-wider mb-2 flex items-center gap-2">
+                <h4 className="font-bold text-slate-900 text-sm uppercase tracking-wider mb-2 flex items-center gap-2">
                   <Gavel className="w-4 h-4 text-[#1F5EFF]" />
                   <span>Enforcement &amp; Ombudsman Escalation Mechanism</span>
-                </h3>
+                </h4>
                 <p className="text-xs text-slate-600 leading-relaxed">
-                  When collection agencies violate these statutory safeguards, specialized legal advocates issue a formal <strong>Legal Cease-and-Desist Notice</strong> to the bank&apos;s Managing Director and Principal Nodal Officer (PNO), attaching hospital admission records. If the harassment continues, a formal complaint is escalated to the <strong>RBI Integrated Ombudsman Portal (<a href="https://cms.rbi.org.in" target="_blank" rel="noopener noreferrer" className="text-[#1F5EFF] underline font-semibold">cms.rbi.org.in</a>)</strong>. Under the Ombudsman scheme, banks face mandatory regulatory reprimands, institutional fines, and monetary compensation orders awarded directly to the distressed borrower.
+                  When collection agencies violate these statutory safeguards, specialized legal advocates issue a formal <strong>Legal Cease-and-Desist Notice</strong> to the bank&apos;s Managing Director and Principal Nodal Officer (PNO), attaching hospital admission records. If the harassment continues, a formal complaint is escalated to the <strong>RBI Integrated Ombudsman Portal (<a href="https://cms.rbi.org.in" target="_blank" rel="noopener noreferrer" className="text-[#1F5EFF] underline font-semibold">cms.rbi.org.in</a>)</strong>. Under the Ombudsman scheme, banks face mandatory regulatory reprimands, institutional fines, and monetary relief orders awarded directly to the distressed borrower.
                 </p>
               </div>
             </section>
@@ -838,14 +838,14 @@ export default function MedicalEmergencyLoanDefaultSettlementPage() {
                 <Scale className="w-4 h-4" />
                 <span>7. Section 25 PSSA &amp; Section 138 Defense</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 Defending Notices: Section 25 PSSA & Section 138 NI Act
-              </h2>
+              </h3>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
-                As medical expenditures exhaust bank balances, automated electronic National Automated Clearing House (e-NACH) mandates and post-dated cheques bounce due to insufficient funds. Lenders utilize these automated bounce events to issue intimidating statutory legal notices under <strong>Section 25 of the Payment and Settlement Systems Act (PSSA), 2007</strong> or <strong>Section 138 of the Negotiable Instruments (NI) Act, 1881</strong>.
+                As medical expenditures exhaust bank balances, automated electronic National Automated Clearing House (e-NACH) mandates and post-dated cheques bounce due to insufficient funds. Lenders use these automated bounce events to issue intimidating statutory legal notices under <strong>Section 25 of the Payment and Settlement Systems Act (PSSA), 2007</strong> or <strong>Section 138 of the Negotiable Instruments (NI) Act, 1881</strong>.
               </p>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
-                Receiving a 15-day statutory demand notice while dealing with serious illness causes immense psychological stress. However, borrowers must understand that a statutory notice is merely a formal demand letter, not an arrest warrant or court judgment. Both Section 25 PSSA and Section 138 NI Act represent quasi-criminal, bailable, and compoundable legal mechanisms designed to facilitate debt conciliation rather than penalize genuine medical emergencies.
+                Receiving a 15-day statutory demand notice while dealing with serious illness causes immense psychological stress. However, borrowers must understand that a statutory notice is merely a formal demand letter, not an arrest warrant or court judgment. Both Section 25 PSSA and Section 138 NI Act represent quasi-criminal, bailable, and compoundable legal mechanisms designed to help debt conciliation rather than penalize genuine medical emergencies.
               </p>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 To build an unassailable legal defense, legal counsel drafts a comprehensive formal reply within the statutory 15-day window establishing the following core legal arguments:
@@ -857,7 +857,7 @@ export default function MedicalEmergencyLoanDefaultSettlementPage() {
                 <li><strong>Formal Invitation for Pre-Litigation Conciliation:</strong> Submitting a formal offer for compromise conciliation through National Lok Adalat benches or bank settlement committees under the Legal Services Authorities Act, 1987.</li>
               </ul>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
-                Filing an authoritative legal reply through an advocate completely prevents the bank from securing an ex-parte court summons and firmly shifts the entire dispute into structured compromise settlement negotiations.
+                Filing an authoritative legal reply through an advocate completely prevents the bank from securing an ex-parte court summons and firmly shifts the entire dispute into structured compromise settlement talks.
               </p>
             </section>
 
@@ -867,59 +867,59 @@ export default function MedicalEmergencyLoanDefaultSettlementPage() {
                 <FileCheck className="w-4 h-4" />
                 <span>8. Step-by-Step Settlement Protocol</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 5-Step Compassionate Settlement Protocol for Zonal Approval
-              </h2>
+              </h3>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Executing a legally binding, heavily discounted loan settlement requires bypassing frontline collection tele-callers and engaging directly with authorized bank decision-makers. The following five-stage roadmap governs professional medical debt resolution:
               </p>
 
               <div className="space-y-4 my-6">
                 <div className="bg-slate-50 border border-slate-200 rounded-xl p-5">
-                  <h3 className="font-bold text-slate-900 text-base mb-1 flex items-center gap-2">
+                  <h4 className="font-bold text-slate-900 text-base mb-1 flex items-center gap-2">
                     <span className="w-6 h-6 rounded-full bg-[#1F5EFF] text-white text-xs flex items-center justify-center font-bold">1</span>
                     <span>Audit &amp; Medical Dossier Assembly</span>
-                  </h3>
+                  </h4>
                   <p className="text-xs sm:text-sm text-slate-600 leading-relaxed">
                     Collate all hospital discharge summaries, inpatient invoices, TPA claim vouchers, treating physician prognosis certificates, and 12-month stamped bank account statements establishing total savings exhaustion.
                   </p>
                 </div>
 
                 <div className="bg-slate-50 border border-slate-200 rounded-xl p-5">
-                  <h4 className="font-bold text-slate-900 text-base mb-1 flex items-center gap-2">
+                  <h5 className="font-bold text-slate-900 text-base mb-1 flex items-center gap-2">
                     <span className="w-6 h-6 rounded-full bg-[#1F5EFF] text-white text-xs flex items-center justify-center font-bold">2</span>
                     <span>Legal Representation &amp; Harassment Injunction</span>
-                  </h4>
+                  </h5>
                   <p className="text-xs sm:text-sm text-slate-600 leading-relaxed">
                     Formal Letters of Authority (LoA) are served on the lender&apos;s Nodal Officers. Legal cease-and-desist notices immediately halt collection agent harassment at home, office, and hospital premises under RBI directives.
                   </p>
                 </div>
 
                 <div className="bg-slate-50 border border-slate-200 rounded-xl p-5">
-                  <h4 className="font-bold text-slate-900 text-base mb-1 flex items-center gap-2">
+                  <h5 className="font-bold text-slate-900 text-base mb-1 flex items-center gap-2">
                     <span className="w-6 h-6 rounded-full bg-[#1F5EFF] text-white text-xs flex items-center justify-center font-bold">3</span>
                     <span>Direct Submission to Zonal Stressed Assets Cell</span>
-                  </h4>
+                  </h5>
                   <p className="text-xs sm:text-sm text-slate-600 leading-relaxed">
                     The structured compassionate hardship petition is submitted directly to the bank&apos;s Zonal Settlement Committee, bypassing retail branch personnel and presenting detailed NPV recovery mathematics.
                   </p>
                 </div>
 
                 <div className="bg-slate-50 border border-slate-200 rounded-xl p-5">
-                  <h4 className="font-bold text-slate-900 text-base mb-1 flex items-center gap-2">
+                  <h5 className="font-bold text-slate-900 text-base mb-1 flex items-center gap-2">
                     <span className="w-6 h-6 rounded-full bg-[#1F5EFF] text-white text-xs flex items-center justify-center font-bold">4</span>
-                    <span>Multi-Round Haircut Negotiation</span>
-                  </h4>
+                    <span>Multi-Round Haircut talks</span>
+                  </h5>
                   <p className="text-xs sm:text-sm text-slate-600 leading-relaxed">
                     Advocates negotiate aggressively to eliminate 100% of accumulated penal interest and bounce charges, securing a 50% to 75% haircut on the core principal balance based on verified healthcare costs.
                   </p>
                 </div>
 
                 <div className="bg-slate-50 border border-slate-200 rounded-xl p-5">
-                  <h4 className="font-bold text-slate-900 text-base mb-1 flex items-center gap-2">
+                  <h5 className="font-bold text-slate-900 text-base mb-1 flex items-center gap-2">
                     <span className="w-6 h-6 rounded-full bg-[#1F5EFF] text-white text-xs flex items-center justify-center font-bold">5</span>
                     <span>Sanction Letter Audit &amp; Stamped ₹0 NDC Closure</span>
-                  </h4>
+                  </h5>
                   <p className="text-xs sm:text-sm text-slate-600 leading-relaxed">
                     The official OTS Sanction Letter is forensically audited for mandatory legal clauses before payment is disbursed. Stamped No Dues Certificates (NDC) and credit bureau updates are tracked until final delivery.
                   </p>
@@ -933,9 +933,9 @@ export default function MedicalEmergencyLoanDefaultSettlementPage() {
                 <FileCheck className="w-4 h-4" />
                 <span>9. Sanction Letter Forensics &amp; ₹0 NDC Mandate</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 OTS Sanction Letters: 5 Key Clauses & ₹0 NDC Mandate
-              </h2>
+              </h3>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 A dangerous trap facing medically distressed borrowers is relying on verbal settlement promises or WhatsApp messages. Tele-callers trick borrowers into depositing token payments of ₹25,000 to ₹50,000, promising account closure. The bank then credits this token against penal interest, leaving the principal balance active and compounding.
               </p>
@@ -953,21 +953,21 @@ export default function MedicalEmergencyLoanDefaultSettlementPage() {
                 <div className="flex items-start gap-3">
                   <ShieldCheck className="w-5 h-5 text-emerald-600 flex-shrink-0 mt-0.5" />
                   <div className="text-xs sm:text-sm text-emerald-900 leading-relaxed">
-                    <strong>RBI Statutory Penalty for Delayed NDC:</strong> Under Reserve Bank of India Circular <em>RBI/2023-24/60 (Responsible Lending Conduct - Release of Movable / Immovable Property Documents / NDC on Repayment)</em>, regulated entities are legally mandated to issue the No Dues Certificate and update all credit information companies (CIBIL, Experian, Equifax, CRIF) within <strong>30 calendar days</strong> of settlement payment. If the bank fails to deliver the NDC within 30 days without lawful justification, it is statutorily liable to pay compensation of <strong>₹5,000 per day of delay</strong> directly to the borrower.
+                    <strong>RBI Statutory Penalty for Delayed NDC:</strong> Under Reserve Bank of India Circular <em>RBI/2023-24/60 (Responsible Lending Conduct - Release of Movable / Immovable Property Documents / NDC on Repayment)</em>, regulated entities are legally mandated to issue the No Dues Certificate and update all credit information companies (CIBIL, Experian, Equifax, CRIF) within <strong>30 calendar days</strong> of settlement payment. If the bank fails to deliver the NDC within 30 days without lawful justification, it is statutorily liable to pay relief of <strong>₹5,000 per day of delay</strong> directly to the borrower.
                   </div>
                 </div>
               </div>
             </section>
 
             {/* Section 10: Comparative Matrix & CIBIL Recovery */}
-            <section id="comparative-matrix-credit-rehabilitation" className="scroll-mt-24 mb-12">
+            <section id="comparative-matrix-credit-recovery" className="scroll-mt-24 mb-12">
               <div className="inline-flex items-center gap-2 text-xs font-bold text-[#1F5EFF] uppercase tracking-wider mb-2">
                 <TrendingUp className="w-4 h-4" />
                 <span>10. Comparative Matrix &amp; CIBIL Recovery</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 Comparative Debt Resolution Matrix & Credit Repair
-              </h2>
+              </h3>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Distressed borrowers often evaluate whether a One-Time Settlement (OTS) is superior to alternative relief mechanisms such as loan tenure restructuring, medical moratoriums, or conciliation through National Lok Adalat. The comparative matrix below details the strategic trade-offs of each avenue following a healthcare crisis:
               </p>
@@ -1017,9 +1017,9 @@ export default function MedicalEmergencyLoanDefaultSettlementPage() {
                 </table>
               </div>
 
-              <h3 className="text-lg md:text-xl font-bold text-slate-900 mt-8 mb-3">
+              <h4 className="text-lg md:text-xl font-bold text-slate-900 mt-8 mb-3">
                 Rebuilding Your CIBIL Score from &apos;Settled&apos; to 750+ Post-Recovery
-              </h3>
+              </h4>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Executing a loan settlement updates your credit bureau status to <strong>&apos;Settled&apos;</strong> with an outstanding balance of <strong>₹0</strong>. While this causes an initial score dip of 75 to 150 points and a 12-month cooling period, it permanently stops compounding default marks, halts legal notices, and eliminates harassment.
               </p>
@@ -1028,7 +1028,7 @@ export default function MedicalEmergencyLoanDefaultSettlementPage() {
               </p>
               <ol className="list-decimal pl-6 space-y-2 text-slate-700 mb-6 text-base">
                 <li><strong>Secured Credit Card Foundation:</strong> Open a Fixed Deposit (FD) of ₹30,000 to ₹50,000 with a scheduled commercial bank and obtain an instant secured credit card backed by the deposit (80%–90% credit limit).</li>
-                <li><strong>Strict Credit Utilization Discipline:</strong> Utilize no more than 20% to 30% of the card limit for regular household expenditures and ensure 100% automated full payment on or before the due date every month.</li>
+                <li><strong>Strict Credit use Discipline:</strong> use no more than 20% to 30% of the card limit for regular household expenditures and ensure 100% automated full payment on or before the due date every month.</li>
                 <li><strong>Bureau Score Re-indexing:</strong> As 12 to 18 months of spotless, on-time repayments are reported to CIBIL, Experian, Equifax, and CRIF, the credit scoring algorithm re-indexes your financial reliability, unlocking prime commercial credit eligibility.</li>
               </ol>
             </section>
@@ -1042,9 +1042,9 @@ export default function MedicalEmergencyLoanDefaultSettlementPage() {
                 <HelpCircle className="w-4 h-4" />
                 <span>11. Frequently Asked Questions</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
                 FAQs: Loan Settlement Due to Medical Emergency
-              </h2>
+              </h3>
 
               <div className="space-y-4">
                 {faqs.map((faq, index) => (
@@ -1070,10 +1070,10 @@ export default function MedicalEmergencyLoanDefaultSettlementPage() {
 
             {/* Regulatory References & Official Sources Strip */}
             <div className="bg-slate-50 border border-slate-200 rounded-2xl p-6 my-10">
-              <h3 className="text-base font-bold text-slate-900 mb-4 flex items-center gap-2">
+              <h4 className="text-base font-bold text-slate-900 mb-4 flex items-center gap-2">
                 <Landmark className="w-5 h-5 text-[#1F5EFF]" />
                 Official Regulatory References &amp; Statutory Circulars
-              </h3>
+              </h4>
               <ul className="space-y-3 text-xs text-slate-600">
                 <li className="flex items-start gap-2">
                   <ExternalLink className="w-4 h-4 text-[#1F5EFF] flex-shrink-0 mt-0.5" />
@@ -1135,10 +1135,10 @@ export default function MedicalEmergencyLoanDefaultSettlementPage() {
 
             {/* Related Guides & Resources Strip (10 Topic Badges) */}
             <div className="bg-slate-50 border border-slate-200 rounded-2xl p-6 my-10">
-              <h3 className="text-base font-bold text-slate-900 mb-4 flex items-center gap-2">
+              <h4 className="text-base font-bold text-slate-900 mb-4 flex items-center gap-2">
                 <BookOpen className="w-5 h-5 text-[#1F5EFF]" />
                 Explore Related Banking &amp; Debt Resolution Guides
-              </h3>
+              </h4>
               <div className="flex flex-wrap gap-2.5">
                 <Link
                   href="/bank-one-time-settlement-ots-policy"
@@ -1229,7 +1229,7 @@ export default function MedicalEmergencyLoanDefaultSettlementPage() {
                 </div>
               </div>
               <p className="text-xs text-slate-600 leading-relaxed mb-4">
-                Ashish has led over 1,400+ successful debt compromise negotiations across SBI, HDFC Bank, ICICI Bank, Axis Bank, and leading NBFCs. He specializes in medical emergency debt resolution, compassionate grounds OTS petitions, Section 25 PSSA notice defense, and borrower advocacy under RBI Master Directions.
+                Ashish has led over 1,400+ successful debt compromise talks across SBI, HDFC Bank, ICICI Bank, Axis Bank, and leading NBFCs. He specializes in medical emergency debt resolution, compassionate grounds OTS petitions, Section 25 PSSA notice defense, and borrower advocacy under RBI Master Directions.
               </p>
               <div className="pt-3 border-t border-slate-100 flex items-center justify-between text-xs font-semibold">
                 <Link
@@ -1249,7 +1249,7 @@ export default function MedicalEmergencyLoanDefaultSettlementPage() {
               </div>
             </div>
 
-            {/* Card 2: Emergency Advocate Assistance CTA */}
+            {/* Card 2: Emergency Advocate help CTA */}
             <div className="bg-gradient-to-br from-[#1F5EFF] to-blue-700 text-white rounded-2xl p-6 shadow-lg">
               <div className="flex items-center gap-2 text-blue-100 text-xs font-bold uppercase tracking-wider mb-2">
                 <PhoneCall className="w-4 h-4" />

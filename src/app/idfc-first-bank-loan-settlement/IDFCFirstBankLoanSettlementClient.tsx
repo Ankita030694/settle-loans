@@ -329,9 +329,9 @@ export default function IDFCFirstBankLoanSettlementClient() {
 
             {/* Section 2: Digital Settlement Portal vs Advocate Defense */}
             <section id="digital-portal-vs-advocate-negotiation" className="scroll-mt-24 md:scroll-mt-28 space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                 2. IDFC First Bank&apos;s Digital Settlement Portal vs. Legal Advocate Representation
-              </h2>
+              </h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 A unique feature of IDFC First Bank&apos;s recovery architecture is its proprietary digital settlement portal. When an account enters SMA-2 or early NPA status, the bank frequently transmits SMS links and automated emails prompting borrowers to &quot;Resolve Your Account Online with a Single Click.&quot; While presented as an effortless and compassionate solution, understanding the algorithmic mechanics behind this portal reveals why self-service digital settlement severely disadvantages the borrower.
               </p>
@@ -376,9 +376,9 @@ export default function IDFCFirstBankLoanSettlementClient() {
 
             {/* Section 3: Legal Summons, Section 171 Lien & Harassment Shield */}
             <section id="statutory-notices-pssa-harassment-defense" className="scroll-mt-24 md:scroll-mt-28 space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                 3. Statutory Summons, Section 25 PSSA, Section 171 Banker&apos;s Lien &amp; Harassment Shield
-              </h2>
+              </h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 As loan delinquencies advance past 60 to 90 days, IDFC First Bank deploys statutory legal notices to establish formal judicial records and exert psychological pressure on the borrower. Distinguishing between statutory court notices and standard collection intimidation is essential to safeguard your legal rights.
               </p>
@@ -428,9 +428,9 @@ export default function IDFCFirstBankLoanSettlementClient() {
                 </div>
               </div>
 
-              <h3 className="text-base sm:text-lg font-bold text-slate-900 pt-2">
+              <h4 className="text-base sm:text-lg font-bold text-slate-900 pt-2">
                 Section 171 Banker&apos;s Right of General Lien and Account Freezes
-              </h3>
+              </h4>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Under Section 171 of the Indian Contract Act, 1872, banking institutions possess the statutory <em>Right of General Lien and Set-Off</em>. This empowers IDFC First Bank to unilaterally freeze or debit money from any savings account, current account, or fixed deposit registered under the same Customer Identification File (CIF) or PAN to offset personal loan arrears.
               </p>
@@ -445,9 +445,9 @@ export default function IDFCFirstBankLoanSettlementClient() {
                 </p>
               </div>
 
-              <h3 className="text-base sm:text-lg font-bold text-slate-900 pt-2">
+              <h4 className="text-base sm:text-lg font-bold text-slate-900 pt-2">
                 Statutory Defense Against Third-Party Recovery Harassment
-              </h3>
+              </h4>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 When consumer loans cross 60 days overdue, IDFC First Bank assigns field recovery tasks to empanelled Debt Recovery Agencies (DRAs). All collection activities are strictly governed by the <strong>RBI Master Directions on Recovery Agents and Conduct (2022)</strong> and the Fair Practices Code. Borrowers possess enforceable legal protections:
               </p>
@@ -473,9 +473,9 @@ export default function IDFCFirstBankLoanSettlementClient() {
 
             {/* Section 4: NPA Accounting & Net Present Value (NPV) Equation */}
             <section id="idfc-npa-accounting-npv-formula" className="scroll-mt-24 md:scroll-mt-28 space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                 4. IDFC First Bank NPA Accounting Mechanics, Provisioning Burden &amp; NPV Recovery Equation
-              </h2>
+              </h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 To negotiate maximum settlement haircuts with IDFC First Bank, one must analyze how bad debts impact the bank&apos;s statutory balance sheet. Under RBI prudential norms, banks cannot hold defaulted loans indefinitely without setting aside substantial risk capital. As an unsecured personal or consumer durable loan ages past default, IDFC First must make mandatory provisioning from its quarterly operating profits:
               </p>
@@ -544,9 +544,9 @@ export default function IDFCFirstBankLoanSettlementClient() {
 
             {/* Section 5: Infographic Banner */}
             <section id="idfc-settlement-visual-roadmap" className="scroll-mt-24 md:scroll-mt-28 space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                 5. IDFC First Bank Loan Settlement Visual Roadmap
-              </h2>
+              </h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 The visual roadmap below details the complete 5-stage institutional progression from initial delinquency and digital notice receipt to advocate-led negotiation, sanction letter audit, and final ₹0 No Dues Certificate delivery.
               </p>
@@ -581,9 +581,9 @@ export default function IDFCFirstBankLoanSettlementClient() {
 
             {/* Section 6: Step-by-Step Strategic Negotiation Framework */}
             <section id="step-by-step-negotiation-framework" className="scroll-mt-24 md:scroll-mt-28 space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                 6. Step-by-Step Strategic Negotiation Framework with IDFC First Bank SAMG
-              </h2>
+              </h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Securing an optimal One-Time Settlement (OTS) from IDFC First Bank requires a structured, multi-phase legal and financial approach. Bypassing automated digital interfaces and directly engaging senior resolution authorities ensures maximum haircut realization.
               </p>
@@ -633,9 +633,9 @@ export default function IDFCFirstBankLoanSettlementClient() {
 
             {/* Section 7: Sanction Letter Forensics & Trap Avoidance */}
             <section id="sanction-letter-forensics-authenticity" className="scroll-mt-24 md:scroll-mt-28 space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                 7. Sanction Letter Forensics: Verifying Authenticity &amp; Eliminating Traps
-              </h2>
+              </h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Before remitting a single rupee toward an agreed settlement amount, borrowers must conduct a meticulous forensic audit of the One-Time Settlement (OTS) Sanction Letter. Unscrupulous recovery agents frequently generate forged letters or informal &quot;token receipts&quot; to satisfy monthly collection quotas, leaving borrowers with active outstanding debt and compounding interest.
               </p>
@@ -695,9 +695,9 @@ export default function IDFCFirstBankLoanSettlementClient() {
 
             {/* Section 8: Loan Remittance, RBI ₹0 NDC & Credit Recovery */}
             <section id="remittance-rbi-ndc-mandate-cibil-recovery" className="scroll-mt-24 md:scroll-mt-28 space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                 8. Loan Remittance, RBI ₹0 No Dues Certificate Mandate &amp; CIBIL Trajectory
-              </h2>
+              </h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Following the successful deposit of the agreed settlement amount, the debt resolution process enters its final statutory phase. Under <strong>RBI Circular RBI/2023-24/60</strong> (Responsible Lending Conduct – Release of Movable / Immovable Property Documents and Issuance of NDC), all regulated banking institutions including IDFC First Bank are statutorily required to issue an official <strong>No Dues Certificate (NDC) / Loan Closure Certificate</strong> and update credit information bureaus within <strong>30 calendar days</strong> of receiving the full settlement amount.
               </p>
@@ -712,9 +712,9 @@ export default function IDFCFirstBankLoanSettlementClient() {
                 </p>
               </div>
               
-              <h3 className="text-base sm:text-lg font-bold text-slate-900 pt-2">
+              <h4 className="text-base sm:text-lg font-bold text-slate-900 pt-2">
                 CIBIL Credit Bureau Trajectory &amp; Systematic Financial Rehabilitation
-              </h3>
+              </h4>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Borrowers must understand the precise credit reporting implications of an executed compromise settlement:
               </p>
@@ -740,9 +740,9 @@ export default function IDFCFirstBankLoanSettlementClient() {
 
             {/* Section 9: Comprehensive Resolution Matrix */}
             <section id="idfc-settlement-comparative-matrix" className="scroll-mt-24 md:scroll-mt-28 space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                 9. Comprehensive Resolution Matrix: Advocate OTS vs Digital Portal vs Restructuring vs Litigation
-              </h2>
+              </h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Evaluating different debt resolution pathways enables borrowers to make informed financial and legal choices when managing overdue IDFC First personal and consumer durable loans:
               </p>
@@ -795,9 +795,9 @@ export default function IDFCFirstBankLoanSettlementClient() {
             {/* Section 10: SettleLoans Legal Defense & Advisory + CompanySection */}
             <section id="company-resolution-section" className="scroll-mt-24 md:scroll-mt-28 space-y-6">
               <div className="border-t border-slate-200 pt-8 space-y-4">
-                <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
+                <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                   10. SettleLoans Legal Defense &amp; IDFC First Debt Advisory Framework
-                </h2>
+                </h3>
                 <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                   Navigating an institutional dispute against IDFC First Bank requires specialized legal representation and seasoned financial negotiation capability. SettleLoans represents distressed borrowers across India, offering an end-to-end legal shield against unlawful recovery harassment, drafting formal replies to Section 25 PSSA and Section 138 notices, and negotiating directly with IDFC First&apos;s Zonal Stressed Asset Management verticals to secure the deepest possible settlement haircuts with official, bank-stamped No Dues Certificates.
                 </p>
@@ -811,9 +811,9 @@ export default function IDFCFirstBankLoanSettlementClient() {
             <section id="faqs" className="scroll-mt-24 md:scroll-mt-28 space-y-4 border-t border-slate-200 pt-8">
               <div className="flex items-center gap-2 mb-2">
                 <HelpCircle className="w-5 h-5 text-[#1F5EFF]" />
-                <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
+                <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                   11. Frequently Asked Questions: IDFC First Bank Loan Settlement
-                </h2>
+                </h3>
               </div>
               <p className="text-xs sm:text-sm text-slate-600 mb-6">
                 Clear, legally verified answers to common questions regarding IDFC First Bank personal loan settlement, digital portal offers, recovery rules, and credit rehabilitation.
@@ -843,9 +843,9 @@ export default function IDFCFirstBankLoanSettlementClient() {
 
             {/* 5 Official Regulatory Links */}
             <section className="border-t border-slate-200 pt-8 mb-4">
-              <h3 className="text-xs sm:text-sm font-bold text-slate-900 mb-3 uppercase tracking-wider">
+              <h4 className="text-xs sm:text-sm font-bold text-slate-900 mb-3 uppercase tracking-wider">
                 Official Statutory &amp; Regulatory References
-              </h3>
+              </h4>
               <div className="grid grid-cols-1 sm:grid-cols-2 gap-2.5 text-xs">
                 <a
                   href="https://www.rbi.org.in"
@@ -897,9 +897,9 @@ export default function IDFCFirstBankLoanSettlementClient() {
 
             {/* 10 Related Guide Badges */}
             <section className="border-t border-slate-200 pt-8 mb-8">
-              <h3 className="text-xs sm:text-sm font-bold text-slate-900 mb-4 uppercase tracking-wider">
+              <h4 className="text-xs sm:text-sm font-bold text-slate-900 mb-4 uppercase tracking-wider">
                 Related Loan Settlement &amp; Legal Defense Guides
-              </h3>
+              </h4>
               <div className="flex flex-wrap gap-2">
                 <Link
                   href="/axis-bank-personal-loan-settlement"

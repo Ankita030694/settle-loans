@@ -275,17 +275,17 @@ export default function GoldLoanNearMePage() {
                         </section>
 
                         <section id="doorstep-evolution" className="scroll-mt-32 mb-16 text-justify">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight underline decoration-[#1F5EFF] underline-offset-[12px]">The Doorstep Revolution: Zero Travel Lending</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight underline decoration-[#1F5EFF] underline-offset-[12px]">The Doorstep Revolution: Zero Travel Lending</h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 The biggest shift in the Indian gold loan industry is the move towards 'Gold Loan @ Home'. Platforms like Muthoot Finance, Manappuram, and newer fintechs like Rupeek have normalized the idea of valuing gold and disbursing loans without the customer ever leaving their house.
                             </p>
                             <div className="grid md:grid-cols-2 gap-8 mb-10">
                                 <div className="p-8 bg-white border border-[#DEDEDE] rounded-3xl shadow-sm">
-                                    <h3 className="font-black text-[#1F5EFF] mb-4 uppercase tracking-tighter">Instant Valuation</h3>
+                                    <h4 className="font-black text-[#1F5EFF] mb-4 uppercase tracking-tighter">Instant Valuation</h4>
                                     <p className="text-sm italic">Lenders send certified 'Gold Valuators' with digital XRF machines or nitric acid kits to verify purity and weight in your presence. This eliminates the risk of gold being switched or tampered with at a black-box branch.</p>
                                 </div>
                                 <div className="p-8 bg-white border border-[#DEDEDE] rounded-3xl shadow-sm">
-                                    <h4 className="font-black text-[#1F5EFF] mb-4 uppercase tracking-tighter">Digital Disbursal</h4>
+                                    <h5 className="font-black text-[#1F5EFF] mb-4 uppercase tracking-tighter">Digital Disbursal</h5>
                                     <p className="text-sm italic">Once you sign the digital contract, the money is transferred to your bank account via IMPS/NEFT within 30 minutes. You don't have to carry large amounts of cash back from a physical branch.</p>
                                 </div>
                             </div>
@@ -296,7 +296,7 @@ export default function GoldLoanNearMePage() {
 
                         <section id="bank-vs-pawnbroker" className="scroll-mt-32 mb-16 bg-[#2E2E2E] text-white p-12 rounded-[40px] relative overflow-hidden text-justify">
                             <div className="absolute top-0 right-0 w-64 h-64 bg-[#1F5EFF]/10 rounded-full -translate-y-32 translate-x-32"></div>
-                            <h2 className="text-3xl md:text-4xl font-black mb-8 leading-tight relative z-10">Banks vs Local Pawnbrokers: The Hidden Risks</h2>
+                            <h3 className="text-3xl md:text-4xl font-black mb-8 leading-tight relative z-10">Banks vs Local Pawnbrokers: The Hidden Risks</h3>
                             <p className="text-lg opacity-80 mb-8 relative z-10 leading-relaxed font-bold">
                                 Local jewelers and pawnbrokers often tempt borrowers with 'Instant Cash' and 'No Documentation'. However, this unorganized sector poses significant risks that organized banks do not.
                             </p>
@@ -304,21 +304,21 @@ export default function GoldLoanNearMePage() {
                                 <div className="flex gap-6 items-center border-b border-white/10 pb-4">
                                     <span className="text-4xl font-black text-[#1F5EFF]">INS</span>
                                     <div>
-                                        <h3 className="font-bold text-xl mb-2">Insurance Coverage</h3>
+                                        <h4 className="font-bold text-xl mb-2">Insurance Coverage</h4>
                                         <p className="opacity-70 text-sm">Banks are mandated by law to insure your gold at 100% of its value. Local pawnbrokers rarely have adequate insurance, meaning if their shop is robbed, you might lose your assets forever.</p>
                                     </div>
                                 </div>
                                 <div className="flex gap-6 items-center border-b border-white/10 pb-4">
                                     <span className="text-4xl font-black text-[#1F5EFF]">CON</span>
                                     <div>
-                                        <h4 className="font-bold text-xl mb-2">Legal Contracts</h4>
+                                        <h5 className="font-bold text-xl mb-2">Legal Contracts</h5>
                                         <p className="opacity-70 text-sm">Organized lenders provide a detailed 'Sanction Letter' and 'Pledge Card'. Local lenders often use informal slips of paper that have no legal standing, making it hard to reclaim your gold if they refuse to release it.</p>
                                     </div>
                                 </div>
                                 <div className="flex gap-6 items-center">
                                     <span className="text-4xl font-black text-[#1F5EFF]">RAT</span>
                                     <div>
-                                        <h5 className="font-bold text-xl mb-2">Interest Computation</h5>
+                                        <h6 className="font-bold text-xl mb-2">Interest Computation</h6>
                                         <p className="opacity-70 text-sm">NBFCs use daily reducing balance or monthly simple interest. Local lenders often use 'Kandhu Vatti' or predatory compounding math that can triple your debt in a year.</p>
                                     </div>
                                 </div>
@@ -326,12 +326,12 @@ export default function GoldLoanNearMePage() {
                         </section>
 
                         <section id="security-audits" className="scroll-mt-32 mb-16 mt-16 text-justify">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">How to Perform a <span className="text-[#1F5EFF]">Lender Security Audit.</span></h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">How to Perform a <span className="text-[#1F5EFF]">Lender Security Audit.</span></h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 Before you hand over your family gold to any lender, whether they are across the street or in your home, follow these four non-negotiable safety steps:
                             </p>
                             <div className="bg-[#F8FAFC] p-8 rounded-3xl border border-[#1F5EFF]/20 mb-8">
-                                <h3 className="text-xl font-black text-blue-900 mb-4">The 4-Point Safety Checklist</h3>
+                                <h4 className="text-xl font-black text-blue-900 mb-4">The 4-Point Safety Checklist</h4>
                                 <ul className="space-y-4 text-blue-800 leading-relaxed font-bold">
                                     <li className="flex items-center gap-3"><span className="w-2 h-2 bg-[#1F5EFF] rounded-full"></span> Check for the RBI Registration Certificate (for NBFCs).</li>
                                     <li className="flex items-center gap-3"><span className="w-2 h-2 bg-[#1F5EFF] rounded-full"></span> Verify the 'Strong Room' or Vault security protocols at the branch.</li>
@@ -342,7 +342,7 @@ export default function GoldLoanNearMePage() {
                         </section>
 
                         <section id="geo-pricing" className="scroll-mt-32 mb-16 mt-16 text-justify">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight text-center underline decoration-[#1F5EFF] decoration-8 underline-offset-8">Geographical Pricing: Does Location Affect Rate?</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight text-center underline decoration-[#1F5EFF] decoration-8 underline-offset-8">Geographical Pricing: Does Location Affect Rate?</h3>
                             <p className="text-lg leading-relaxed mb-10 text-center italic font-medium text-gray-400">Surprisingly, the 'same' bank might offer different deals depending on the zip code.</p>
                             <div className="bg-white border-2 border-[#DEDEDE] p-10 rounded-[50px] shadow-sm">
                                 <p className="text-sm mb-6 font-bold">In high-competition areas like 'Pawn Shop Rows' in Chennai or Hyderabad, national banks often launch local 'catchment area' schemes where they waive processing fees or reduce the margin by 0.5% to win over the local clientele. Conversely, in remote areas with limited banking, rates might stay at the peak levels allowed by the FPC.</p>
@@ -351,7 +351,7 @@ export default function GoldLoanNearMePage() {
                         </section>
 
                         <section id="doorstep-safety" className="scroll-mt-32 mb-16 mt-16 text-justify">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">Doorstep Safety: <span className="text-[#1F5EFF]">Protecting Your Family and Assets.</span></h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">Doorstep Safety: <span className="text-[#1F5EFF]">Protecting Your Family and Assets.</span></h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 Inviting someone into your home to handle gold requires high trust. Organized doorstep lenders follow a 'Lock-and-Key' protocol to ensure 100% security during the transaction.
                             </p>
@@ -370,35 +370,35 @@ export default function GoldLoanNearMePage() {
                         </section>
 
                         <section id="license-audit" className="scroll-mt-32 mb-16 mt-16 text-justify bg-[#2E2E2E] text-white p-12 rounded-[40px] relative overflow-hidden">
-                            <h2 className="text-3xl md:text-4xl font-black mb-8 leading-tight relative z-10">License & Legal Audit: <br />Vet Your Local Lender</h2>
+                            <h3 className="text-3xl md:text-4xl font-black mb-8 leading-tight relative z-10">License & Legal Audit: <br />Vet Your Local Lender</h3>
                             <p className="text-lg opacity-80 mb-8 relative z-10">
                                 If you are going to a local jeweler instead of a bank, perform these two quick checks to avoid scams.
                             </p>
                             <div className="space-y-6 relative z-10">
                                 <div className="border-l-4 border-[#1F5EFF] pl-6 py-2">
-                                    <h3 className="font-bold text-xl mb-2">Money Lending License No.</h3>
+                                    <h4 className="font-bold text-xl mb-2">Money Lending License No.</h4>
                                     <p className="opacity-70 text-sm italic">Every state in India (e.g., Delhi Money Lenders Act) requires a shop to display its license. No license means no legal protection for you.</p>
                                 </div>
                                 <div className="border-l-4 border-[#1F5EFF] pl-6 py-2">
-                                    <h4 className="font-bold text-xl mb-2">GST Invoicing</h4>
+                                    <h5 className="font-bold text-xl mb-2">GST Invoicing</h5>
                                     <p className="opacity-70 text-sm italic">A legal lender will always provide a GST invoice for the processing fee and valuation. If they ask for 'Cash Only' fees, it's a major red flag.</p>
                                 </div>
                             </div>
                         </section>
 
                         <section id="mobile-convenience" className="scroll-mt-32 mb-16 mt-16 text-justify">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">Mobile Convenience: The Digital Branch</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">Mobile Convenience: The Digital Branch</h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 Modern gold loan apps have replaced the physical branch for many. These apps allow you to:
                             </p>
                             <div className="p-8 bg-[#2E2E2E] rounded-[40px] text-white shadow-2xl relative overflow-hidden">
                                 <div className="grid md:grid-cols-2 gap-6">
                                     <div>
-                                        <h3 className="font-black text-[#1F5EFF] mb-2 uppercase">Online Interest Payment</h3>
+                                        <h4 className="font-black text-[#1F5EFF] mb-2 uppercase">Online Interest Payment</h4>
                                         <p className="text-xs opacity-70 italic font-medium leading-relaxed">Avoid the travel and the queue. Pay your monthly interest via UPI directly through the app to prevent compounding and maintain a healthy loan account.</p>
                                     </div>
                                     <div>
-                                        <h4 className="font-black text-[#1F5EFF] mb-2 uppercase">Partial Withdrawal</h4>
+                                        <h5 className="font-black text-[#1F5EFF] mb-2 uppercase">Partial Withdrawal</h5>
                                         <p className="text-xs opacity-70 italic font-medium leading-relaxed">Need your favorite necklace back for a wedding? Pay the proportional amount on the app and book an appointment for a quick release of specific items.</p>
                                     </div>
                                 </div>
@@ -406,7 +406,7 @@ export default function GoldLoanNearMePage() {
                         </section>
 
                         <section id="local-negotiation" className="scroll-mt-32 mb-16 mt-16 text-justify">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">Negotiating with Local Lenders</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">Negotiating with Local Lenders</h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 If you must deal with a local jeweler or a small-scale finance company, negotiation is your best friend. They have more flexibility than a rigid bank system.
                             </p>
@@ -429,7 +429,7 @@ export default function GoldLoanNearMePage() {
                         </section>
 
                         <section id="document-checklist" className="scroll-mt-32 mb-16 mt-16 bg-[#F8FAFC] p-12 rounded-[50px] border-l-8 border-[#1F5EFF] text-justify">
-                            <h2 className="text-3xl font-black mb-8 text-[#2E2E2E]">Universal Document Checklist</h2>
+                            <h3 className="text-3xl font-black mb-8 text-[#2E2E2E]">Universal Document Checklist</h3>
                             <p className="text-lg text-gray-600 mb-8 leading-relaxed font-bold italic">Regardless of where your search leads you, keep these digital copies ready on your phone for instant processing:</p>
                             <div className="space-y-4 font-mono text-xs uppercase">
                                 <div className="flex justify-between border-b border-gray-100 pb-2"><span>KYC ID</span> <span className="font-bold text-blue-600">AADHAAR CARD (LINKED TO MOBILE)</span></div>
@@ -440,22 +440,22 @@ export default function GoldLoanNearMePage() {
                         </section>
 
                         <section id="legal-protection" className="scroll-mt-32 mb-16 mt-16 text-justify">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight text-center">Avoiding Predatory Lenders</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight text-center">Avoiding Predatory Lenders</h3>
                             <p className="text-lg leading-relaxed mb-10">Searching 'near me' can sometimes surface unverified lenders with malicious intent. Look out for these Red Flags:</p>
                             <div className="grid md:grid-cols-2 gap-8">
                                 <div className="p-8 bg-white border border-[#DEDEDE] rounded-3xl shadow-sm hover:border-red-200 transition-colors">
-                                    <h3 className="font-black mb-3 text-red-600 uppercase tracking-tighter italic">The 'No Notice' Clause</h3>
+                                    <h4 className="font-black mb-3 text-red-600 uppercase tracking-tighter italic">The 'No Notice' Clause</h4>
                                     <p className="text-sm opacity-70 font-medium">If the lender says they can sell your gold immediately upon a single missed payment, walk away. This is illegal under RBI's Fair Practice Code.</p>
                                 </div>
                                 <div className="p-8 bg-white border border-[#DEDEDE] rounded-3xl shadow-sm hover:border-red-200 transition-colors">
-                                    <h4 className="font-black mb-3 text-red-600 uppercase tracking-tighter italic">Stone Weight Abuse</h4>
+                                    <h5 className="font-black mb-3 text-red-600 uppercase tracking-tighter italic">Stone Weight Abuse</h5>
                                     <p className="text-sm opacity-70 font-medium">Predatory lenders often over-deduct for stones, reducing your loan amount unfairly. Ensure the machine weight is logged clearly on the pledge card.</p>
                                 </div>
                             </div>
                         </section>
 
                         <section id="customer-feedback" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 text-center uppercase tracking-tighter decoration-[#1F5EFF] underline decoration-4">Local Success Stories</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 text-center uppercase tracking-tighter decoration-[#1F5EFF] underline decoration-4">Local Success Stories</h3>
                             <div className="grid md:grid-cols-2 gap-6 not-prose text-justify">
                                 {[
                                     {
@@ -477,7 +477,7 @@ export default function GoldLoanNearMePage() {
                                                 {review.name.charAt(0)}
                                             </div>
                                             <div>
-                                                <h3 className="font-bold text-[#2E2E2E]">{review.name}</h3>
+                                                <h4 className="font-bold text-[#2E2E2E]">{review.name}</h4>
                                                 <p className="text-[10px] text-gray-400 font-bold uppercase">{review.loc}</p>
                                             </div>
                                             <div className="ml-auto text-yellow-400 text-sm">★★★★★</div>
@@ -492,7 +492,7 @@ export default function GoldLoanNearMePage() {
                         </section>
 
                         <section id="faqs" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-12 text-center underline decoration-[#1F5EFF] decoration-4">Proximity Loan FAQ's</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-12 text-center underline decoration-[#1F5EFF] decoration-4">Proximity Loan FAQ's</h3>
                             <div className="space-y-6">
                                 {[
                                     { q: "How long does a 'near me' gold loan take?", a: "With doorstep services, the entire process takes about 30 to 45 minutes. Physical branches can be as fast as 15 minutes if your documentation is pre-verified." },
@@ -510,7 +510,7 @@ export default function GoldLoanNearMePage() {
                                     { q: "Is the doorstep valuation free?", a: "Most NBFCs offer a 'Free Home Visit' for the first time. However, if you don't take the loan after valuation, some may charge a nominal visit fee (₹200-500)." }
                                 ].map((faq, i) => (
                                     <div key={i} className="p-8 bg-white border border-[#DEDEDE] rounded-3xl shadow-sm transition-all hover:shadow-lg text-justify">
-                                        <h3 className="font-black text-[#2E2E2E] mb-4 text-xl border-b pb-2 border-[#1F5EFF]/10 uppercase tracking-tighter">{faq.q}</h3>
+                                        <h4 className="font-black text-[#2E2E2E] mb-4 text-xl border-b pb-2 border-[#1F5EFF]/10 uppercase tracking-tighter">{faq.q}</h4>
                                         <p className="text-gray-600 leading-relaxed text-lg italic">"{faq.a}"</p>
                                     </div>
                                 ))}
@@ -518,7 +518,7 @@ export default function GoldLoanNearMePage() {
                         </section>
 
                         <section className="scroll-mt-32 mb-16 text-center">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">Your Gold, Our Guidance.</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">Your Gold, Our Guidance.</h3>
                             <p className="text-lg leading-relaxed mb-6 italic font-bold text-gray-500">Don't settle for the nearest lender. Settle for the safest one. Let's find your perfect financial match today.</p>
                             <div className="bg-[#1F5EFF] p-10 rounded-[40px] text-white shadow-2xl">
                                 <p className="text-2xl font-black mb-8 tracking-tight uppercase">Ready to Book a Home Valuation?</p>

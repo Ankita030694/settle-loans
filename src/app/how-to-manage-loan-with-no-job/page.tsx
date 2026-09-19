@@ -220,7 +220,7 @@ export default function HowToManageLoanNoJobPage() {
             </section>
 
             <section id="psychology" className="scroll-mt-32 mb-24">
-              <h2 className="text-3xl font-black text-[#2E2E2E] mb-8 uppercase tracking-widest text-[#1F5EFF]">The Psychology of Debt Survival</h2>
+              <h3 className="text-3xl font-black text-[#2E2E2E] mb-8 uppercase tracking-widest text-[#1F5EFF]">The Psychology of Debt Survival</h3>
               <p className="text-lg leading-relaxed mb-8">
                 Before we talk about RBI rules or legal notices, we must address the psychological warfare of the recovery process. Banks use 'pressure points' to make you pay. They call early in the morning, they send intimidating SMS messages, and they hint at legal consequences.
               </p>
@@ -238,33 +238,33 @@ export default function HowToManageLoanNoJobPage() {
             </section>
 
             <section id="rights-deep-dive" className="scroll-mt-32 mb-24">
-              <h2 className="text-4xl font-black text-[#2E2E2E] mb-12">Legal Rights Deep Dive: Your Shield</h2>
+              <h3 className="text-4xl font-black text-[#2E2E2E] mb-12">Legal Rights Deep Dive: Your Shield</h3>
               <p className="text-xl leading-relaxed mb-10 text-gray-600">
                 As a borrower in India, you are protected by a web of laws that ensure you are treated as a human being, not a criminal. Even if you owe crores of rupees, you have fundamental rights that cannot be bypassed.
               </p>
               
               <div className="space-y-12">
                 <div className="border-l-8 border-l-[#1F5EFF] pl-8">
-                  <h3 className="text-2xl font-black mb-4">Right to Fair Treatment (RBI Fair Practices Code)</h3>
+                  <h4 className="text-2xl font-black mb-4">Right to Fair Treatment (RBI Fair Practices Code)</h4>
                   <p className="text-lg leading-relaxed text-gray-700">Every bank is bound by the Fair Practices Code. This means they cannot use muscle power, they cannot use abusive language, and they cannot threaten you with arrest. The moment a bank representative uses a 'slur' or a 'threat', they have violated a regulatory mandate. You should immediately note the time, the caller ID, and the exact words used.</p>
                 </div>
                 <div className="border-l-8 border-l-[#2E2E2E] pl-8">
-                  <h3 className="text-2xl font-black mb-4">Right to Privacy (Supreme Court Mandate)</h3>
+                  <h4 className="text-2xl font-black mb-4">Right to Privacy (Supreme Court Mandate)</h4>
                   <p className="text-lg leading-relaxed text-gray-700">Your debt is a private contract between you and the bank. The recovery agent has NO right to inform your neighbors, your former office HR, or your friends on social media. 'Naming and Shaming' is a direct violation of your Right to Privacy as upheld by the Supreme Court of India.</p>
                 </div>
                 <div className="border-l-8 border-l-[#1F5EFF] pl-8">
-                  <h3 className="text-2xl font-black mb-4">Right to Time and Place</h3>
+                  <h4 className="text-2xl font-black mb-4">Right to Time and Place</h4>
                   <p className="text-lg leading-relaxed text-gray-700">The RBI specifies that recovery agents can only visit your residence between 8:00 AM and 7:00 PM. They cannot barge into your house. They must wait at the door and obtain your permission to enter. If they visit at 11:00 PM or 5:00 AM, it is a criminal trespass, and you can call the police immediately.</p>
                 </div>
                 <div className="border-l-8 border-l-[#2E2E2E] pl-8">
-                  <h3 className="text-2xl font-black mb-4">Right to Legal Representation</h3>
+                  <h4 className="text-2xl font-black mb-4">Right to Legal Representation</h4>
                   <p className="text-lg leading-relaxed text-gray-700">You have the right to appoint professional consultants like SettleLoans to act as your buffer. Once you formally inform the bank that all communication should be routed through your legal advisor, any further direct calls to you can be seen as targeted harassment.</p>
                 </div>
               </div>
             </section>
 
             <section id="rbi-2025" className="scroll-mt-32 mb-24">
-              <h2 className="text-3xl font-black text-[#2E2E2E] mb-8">RBI Guidelines 2025: New Protections for the Jobless</h2>
+              <h3 className="text-3xl font-black text-[#2E2E2E] mb-8">RBI Guidelines 2025: New Protections for the Jobless</h3>
               <p className="text-lg leading-relaxed mb-8">
                 The Reserve Bank of India has recognized the gig economy and the volatility of the modern job market. In 2025, new circulars have been released that force lenders to be more empathetic towards 'genuine' default cases.
               </p>
@@ -273,21 +273,21 @@ export default function HowToManageLoanNoJobPage() {
                   <li className="flex gap-6">
                     <span className="flex-shrink-0 w-10 h-10 bg-[#1F5EFF] rounded-full flex items-center justify-center text-white font-bold text-sm">01</span>
                     <div>
-                      <h3 className="text-xl font-bold mb-2">Extended Moratorium Rights</h3>
+                      <h4 className="text-xl font-bold mb-2">Extended Moratorium Rights</h4>
                       <p className="text-gray-600">Borrowers who have lost their jobs at no fault of their own (e.g., company closure or mass layoffs) now have a clearer path to request a 6-month moratorium. During this time, the bank should ideally freeze 'overdue charges', though interest may still accrue.</p>
                     </div>
                   </li>
                   <li className="flex gap-6">
                     <span className="flex-shrink-0 w-10 h-10 bg-[#1F5EFF] rounded-full flex items-center justify-center text-white font-bold text-sm">02</span>
                     <div>
-                      <h4 className="text-xl font-bold mb-2">Agent Accountability</h4>
+                      <h5 className="text-xl font-bold mb-2">Agent Accountability</h5>
                       <p className="text-gray-600">Banks are now strictly liable for the actions of their third-party recovery agencies. If an agent harasses you, you don't just sue the agency; you can file a case against the bank's CEO and the Nodal Officer. This has made banks much more careful.</p>
                     </div>
                   </li>
                   <li className="flex gap-6">
                     <span className="flex-shrink-0 w-10 h-10 bg-[#1F5EFF] rounded-full flex items-center justify-center text-white font-bold text-sm">03</span>
                     <div>
-                      <h4 className="text-xl font-bold mb-2">Mandatory Settlement Disclosure</h4>
+                      <h5 className="text-xl font-bold mb-2">Mandatory Settlement Disclosure</h5>
                       <p className="text-xl leading-relaxed text-gray-600">The RBI has instructed banks to have a clear 'One-Time Settlement' policy visible on their websites. They cannot pretend that settlement is not an option. They must disclose the criteria under which they will accept a loss-making settlement.</p>
                     </div>
                   </li>
@@ -296,26 +296,26 @@ export default function HowToManageLoanNoJobPage() {
             </section>
 
             <section id="harassment-scripts" className="scroll-mt-32 mb-24">
-              <h2 className="text-3xl font-black text-[#2E2E2E] mb-8 text-[#1F5EFF]">Scripts for Handling Recovery Agents Like a Pro</h2>
+              <h3 className="text-3xl font-black text-[#2E2E2E] mb-8 text-[#1F5EFF]">Scripts for Handling Recovery Agents Like a Pro</h3>
               <p className="text-lg leading-relaxed mb-8">
                 When the phone rings, don't ignore it. That makes you look like a 'willful' defaulter. Instead, use these professional scripts to set boundaries.
               </p>
               
               <div className="space-y-10">
                 <div className="bg-white p-8 rounded-3xl border border-gray-200 shadow-xl border-t-8 border-t-[#1F5EFF]">
-                  <h3 className="text-xl font-black mb-4 uppercase text-[#1F5EFF] text-xs">The Identity Script</h3>
+                  <h4 className="text-xl font-black mb-4 uppercase text-[#1F5EFF] text-xs">The Identity Script</h4>
                   <p className="italic text-gray-600 mb-4">"Before we proceed, please state your full name, the agency you are calling from, and your employee ID. I am recording this call for my legal records as per the RBI Master Circular 2025. One moment while I start the recording..."</p>
                   <p className="text-xs text-gray-400 font-bold">Why it works: Agents often use fake names to avoid accountability. Forcing them to identify themselves on record immediately reduces their aggressiveness.</p>
                 </div>
 
                 <div className="bg-white p-8 rounded-3xl border border-gray-200 shadow-xl border-t-8 border-t-[#2E2E2E]">
-                  <h4 className="text-xl font-black mb-4 uppercase text-xs">The Hardship Script</h4>
+                  <h5 className="text-xl font-black mb-4 uppercase text-xs">The Hardship Script</h5>
                   <p className="italic text-gray-600 mb-4">"I am currently facing genuine financial hardship due to my job loss on [Date]. I do not have the funds to pay the EMI today. I am in touch with a debt settlement consultancy to resolve this. I request you to mark my account as 'Genuine Hardship' and wait for or my proposal via email."</p>
                   <p className="text-xs text-gray-400 font-bold">Why it works: It establishes that you are not running away, but rather that you have a specific, documented reason for non-payment.</p>
                 </div>
 
                 <div className="bg-white p-8 rounded-3xl border border-gray-200 shadow-xl border-t-8 border-t-[#1F5EFF]">
-                  <h4 className="text-xl font-black mb-4 uppercase text-xs">The Anti-Harassment Script</h4>
+                  <h5 className="text-xl font-black mb-4 uppercase text-xs">The Anti-Harassment Script</h5>
                   <p className="italic text-gray-600 mb-4">"You have called me three times today already. This is beyond the reasonable limit for recovery calls. If you call again today, it will be documented as targeted harassment and I will escalate this to the RBI Ombudsman and the Bank Nodal Officer immediately. Goodbye."</p>
                   <p className="text-xs text-gray-400 font-bold">Why it works: It shows you know the limits of the law. Banks are terrified of RBI Ombudsman complaints as they carry heavy penalties.</p>
                 </div>
@@ -323,19 +323,19 @@ export default function HowToManageLoanNoJobPage() {
             </section>
 
             <section id="settlement-blueprint" className="scroll-mt-32 mb-24">
-              <h2 className="text-4xl font-black text-[#2E2E2E] mb-12">The Ultimate Loan Settlement Blueprint</h2>
+              <h3 className="text-4xl font-black text-[#2E2E2E] mb-12">The Ultimate Loan Settlement Blueprint</h3>
               <p className="text-xl leading-relaxed mb-10">
                 If your job loss is expected to be prolonged, you need a permanent solution. That solution is the One-Time Settlement (OTS). Here is the master roadmap to getting a 50% to 70% waiver.
               </p>
               
               <div className="space-y-16">
                 <div>
-                  <h3 className="text-3xl font-black mb-4 text-[#1F5EFF]">Phase 1: The 'Strategic Wait'</h3>
+                  <h4 className="text-3xl font-black mb-4 text-[#1F5EFF]">Phase 1: The 'Strategic Wait'</h4>
                   <p className="text-lg leading-relaxed text-gray-700">Banks will rarely negotiate while the loan is current. They only start considering deep waivers once the loan is an NPA (90+ days overdue) and has moved into 'Loss Asset' category. Use this time to save every rupee possible for the eventual lump sum payment.</p>
                 </div>
 
                 <div className="bg-gray-50 p-12 rounded-[56px] border border-gray-100">
-                  <h3 className="text-3xl font-black mb-6">Phase 2: The Hardship Portfolio</h3>
+                  <h4 className="text-3xl font-black mb-6">Phase 2: The Hardship Portfolio</h4>
                   <p className="text-lg leading-relaxed text-gray-700 mb-8">You cannot just say 'I lost my job'. You must prove it. Create a professional binder containing:</p>
                   <ul className="grid grid-cols-1 md:grid-cols-2 gap-4">
                     <li className="flex gap-3 text-sm font-bold opacity-80"><span className="text-green-500">✓</span> Termination Letter</li>
@@ -348,24 +348,24 @@ export default function HowToManageLoanNoJobPage() {
                 </div>
 
                 <div>
-                  <h3 className="text-3xl font-black mb-4 text-[#1F5EFF]">Phase 3: The First Offer</h3>
+                  <h4 className="text-3xl font-black mb-4 text-[#1F5EFF]">Phase 3: The First Offer</h4>
                   <p className="text-lg leading-relaxed text-gray-700 font-medium italic">"We always recommend starting the offer at 25% of the total outstanding principal. The bank will likely reject this first offer, but it sets the anchor point for the negotiation."</p>
                 </div>
 
                 <div>
-                  <h3 className="text-3xl font-black mb-4 text-[#2E2E2E]">Phase 4: The Settlement Letter</h3>
+                  <h4 className="text-3xl font-black mb-4 text-[#2E2E2E]">Phase 4: The Settlement Letter</h4>
                   <p className="text-lg leading-relaxed text-gray-700">Once an amount is agreed upon, NEVER pay a single rupee without receiving a formal 'Settlement Letter' on the bank's official letterhead. The letter must contain: The account number, the total dues, the agreed settlement amount, the payment deadline, and the words 'Upon payment, the account will be closed and no further dues will remain'.</p>
                 </div>
 
                 <div>
-                  <h3 className="text-3xl font-black mb-4 text-[#1F5EFF]">Phase 5: The No Dues Certificate</h3>
+                  <h4 className="text-3xl font-black mb-4 text-[#1F5EFF]">Phase 5: The No Dues Certificate</h4>
                   <p className="text-lg leading-relaxed text-gray-700">Within 30 days of your payment, the bank is legally required to issue a No Dues Certificate. This is your ticket back to financial freedom. Ensure you keep copies of this permanently in both physical and digital formats.</p>
                 </div>
               </div>
             </section>
 
             <section id="case-studies" className="scroll-mt-32 mb-24">
-              <h2 className="text-3xl md:text-5xl font-black text-[#2E2E2E] mb-12 text-center uppercase">Debt-Free Survivors: <br/> Real Success Case Studies</h2>
+              <h3 className="text-3xl md:text-5xl font-black text-[#2E2E2E] mb-12 text-center uppercase">Debt-Free Survivors: <br/> Real Success Case Studies</h3>
               <div className="grid grid-cols-1 md:grid-cols-2 gap-10">
                 {[
                   { name: "Vikram R.", job: "Tech Lead (Layoff)", debt: "₹18 Lakhs", settled: "₹6 Lakhs", time: "8 Months" },
@@ -374,7 +374,7 @@ export default function HowToManageLoanNoJobPage() {
                   { name: "Pooja V.", job: "Operations Head", debt: "₹12 Lakhs", settled: "₹5 Lakhs", time: "7 Months" }
                 ].map((caseStudy, i) => (
                   <div key={i} className="bg-white p-10 rounded-[48px] border border-[#DEDEDE] shadow-xl hover:shadow-2xl transition-all duration-500 border-b-8 border-b-[#1F5EFF]">
-                    <h3 className="font-black text-2xl mb-2 text-[#2E2E2E]">{caseStudy.name}</h3>
+                    <h4 className="font-black text-2xl mb-2 text-[#2E2E2E]">{caseStudy.name}</h4>
                     <p className="text-[#1F5EFF] font-black uppercase text-xs tracking-widest mb-6">{caseStudy.job}</p>
                     <div className="space-y-3 mb-[15px]">
                       <div className="flex justify-between text-sm">
@@ -397,12 +397,12 @@ export default function HowToManageLoanNoJobPage() {
             </section>
 
             <section id="hardship-proof" className="scroll-mt-32 mb-24">
-              <h2 className="text-3xl font-black text-[#2E2E2E] mb-8">Special Guide: Documenting Your Financial Hardship</h2>
+              <h3 className="text-3xl font-black text-[#2E2E2E] mb-8">Special Guide: Documenting Your Financial Hardship</h3>
               <p className="text-lg leading-relaxed mb-6">
                 When you are jobless, your lack of income is your biggest piece of leverage. But banks don't take your word for it. You need a 'Hardship Dossier'.
               </p>
               <div className="bg-[#2E2E2E] text-white p-12 rounded-[56px] shadow-2xl">
-                <h3 className="text-2xl font-black mb-8 text-[#1F5EFF]">The Dossier Components:</h3>
+                <h4 className="text-2xl font-black mb-8 text-[#1F5EFF]">The Dossier Components:</h4>
                 <div className="space-y-6">
                   <div className="p-6 bg-white/5 rounded-3xl border border-white/10">
                     <p className="font-black text-lg mb-2">Category 1: Primary Evidence</p>
@@ -421,28 +421,28 @@ export default function HowToManageLoanNoJobPage() {
             </section>
 
             <section id="legal-defenses" className="scroll-mt-32 mb-24">
-              <h2 className="text-3xl font-black text-[#2E2E2E] mb-8 text-[#1F5EFF] underline underline-offset-8">Common Legal Defenses for the Defaulter</h2>
+              <h3 className="text-3xl font-black text-[#2E2E2E] mb-8 text-[#1F5EFF] underline underline-offset-8">Common Legal Defenses for the Defaulter</h3>
               <p className="text-lg leading-relaxed mb-8">
                 If the bank goes to court, you must be ready. In India, a loan default is a civil matter. It only becomes criminal if you committed fraud or if you ignore court process.
               </p>
               <div className="space-y-8">
                 <div className="p-8 bg-blue-50 rounded-[40px] border border-blue-100">
-                  <h3 className="text-xl font-bold mb-3 text-blue-900">Defense A: The Hardship defense</h3>
+                  <h4 className="text-xl font-bold mb-3 text-blue-900">Defense A: The Hardship defense</h4>
                   <p className="text-sm text-blue-800 leading-relaxed">In many judicial proceedings, the judge has the power to look at 'Force Majeure' type situations. While job loss isn't a total force majeure, judges often take a lenient view and suggest a fair settlement, especially if there are no assets involved.</p>
                 </div>
                 <div className="p-8 bg-amber-50 rounded-[40px] border border-amber-100">
-                  <h4 className="text-xl font-bold mb-3 text-amber-900">Defense B: The Incorrect Calculation defense</h4>
+                  <h5 className="text-xl font-bold mb-3 text-amber-900">Defense B: The Incorrect Calculation defense</h5>
                   <p className="text-sm text-amber-800 leading-relaxed">Banks often add massive 'penal interest' and 'overdue charges' which are actually illegal under several RBI circulars. By challenging the exact math of the debt, you often force the bank to settle for just the principal amount.</p>
                 </div>
                 <div className="p-8 bg-red-50 rounded-[40px] border border-red-100">
-                  <h4 className="text-xl font-bold mb-3 text-red-900">Defense C: The Harassment defense</h4>
+                  <h5 className="text-xl font-bold mb-3 text-red-900">Defense C: The Harassment defense</h5>
                   <p className="text-sm text-red-800 leading-relaxed">If you have recordings of abuse by recovery agents, you can file a 'Counter-Claim'. This often makes the bank so legally vulnerable that they settle on your terms just to make the harassment case go away.</p>
                 </div>
               </div>
             </section>
 
             <section id="cibil-long-game" className="scroll-mt-32 mb-24">
-              <h2 className="text-3xl font-black text-[#2E2E2E] mb-8">The CIBIL Long Game: Rebuilding Post-Settlement</h2>
+              <h3 className="text-3xl font-black text-[#2E2E2E] mb-8">The CIBIL Long Game: Rebuilding Post-Settlement</h3>
               <p className="text-lg leading-relaxed mb-6">
                 Let's be 100% honest: A settlement will hit your CIBIL score. You might drop from a 750 to a 600. But a 600 is better than a 300, and a 600 is something you can build upon.
               </p>
@@ -466,7 +466,7 @@ export default function HowToManageLoanNoJobPage() {
             </section>
 
             <section id="alt-income" className="scroll-mt-32 mb-24">
-              <h2 className="text-3xl font-black text-[#2E2E2E] mb-8">Interim Survival: Generating Bridge Income</h2>
+              <h3 className="text-3xl font-black text-[#2E2E2E] mb-8">Interim Survival: Generating Bridge Income</h3>
               <p className="text-lg leading-relaxed mb-8">
                 While you are in the middle of a job loss, you don't necessarily have to be 'income-less'. The gig economy in India offers several 'stop-gap' options that can help you cover the basic survival costs (food, rent) while you wait for a settlement to happen.
               </p>
@@ -488,7 +488,7 @@ export default function HowToManageLoanNoJobPage() {
             </section>
 
             <section id="checklist" className="scroll-mt-32 mb-24">
-              <h2 className="text-4xl font-black text-[#2E2E2E] mb-12 text-center">The 50-Step Ultimate Debt Survival Checklist</h2>
+              <h3 className="text-4xl font-black text-[#2E2E2E] mb-12 text-center">The 50-Step Ultimate Debt Survival Checklist</h3>
               <p className="text-lg leading-relaxed mb-10 text-center">Follow these steps carefully to ensure you stay legally protected and financially resilient.</p>
               
               <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
@@ -553,7 +553,7 @@ export default function HowToManageLoanNoJobPage() {
             </section>
 
             <section id="faqs" className="scroll-mt-32 mb-24">
-              <h2 className="text-3xl md:text-5xl font-black text-[#2E2E2E] mb-12">Universal Truths: Job Loss & Loan FAQs</h2>
+              <h3 className="text-3xl md:text-5xl font-black text-[#2E2E2E] mb-12">Universal Truths: Job Loss & Loan FAQs</h3>
               <div className="space-y-6 not-prose">
                 {jsonLd["@graph"][2]?.mainEntity?.map((faq: any, i: number) => (
                   <details key={i} className="group bg-white border border-gray-200 rounded-[32px] overflow-hidden transition-all duration-300 open:shadow-xl open:border-[#1F5EFF]/30">
@@ -578,7 +578,7 @@ export default function HowToManageLoanNoJobPage() {
             {/* Bottom CTA */}
             <div className="mt-24 p-16 bg-[#1F5EFF] rounded-[64px] text-center text-white relative overflow-hidden shadow-2xl">
               <div className="relative z-10">
-                <h3 className="text-4xl md:text-5xl font-black mb-6">Reclaim Your Freedom Today</h3>
+                <h4 className="text-4xl md:text-5xl font-black mb-6">Reclaim Your Freedom Today</h4>
                 <p className="text-white/80 mb-12 max-w-2xl mx-auto text-xl font-medium">Don't let debt define your life. Join thousands who have successfully navigated job loss with our legal expertise.</p>
                 <Link href="/contact" className="inline-block bg-white text-[#1F5EFF] font-black py-6 px-16 rounded-3xl hover:bg-[#DEDEDE] transition-all text-2xl shadow-xl shadow-black/10">
                   Book a Legal Shield Call

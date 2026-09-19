@@ -274,7 +274,7 @@ export default function LoanForeclosureCibilPage() {
                         </section>
 
                         <section id="what-is-foreclosure" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">What Exactly is Loan Foreclosure in India?</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">What Exactly is Loan Foreclosure in India?</h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 Loan foreclosure is a facility provided by banks and NBFCs that allows borrowers to pay back their outstanding loan amount in one single payment before the end of the agreed term. Most people opt for this when they receive a bonus, an inheritance, or a profit from a business venture.
                             </p>
@@ -287,13 +287,13 @@ export default function LoanForeclosureCibilPage() {
                         </section>
 
                         <section id="prepayment-vs-default" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">The Critical Difference: Prepayment vs. Default Foreclosure</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">The Critical Difference: Prepayment vs. Default Foreclosure</h3>
                             <p className="text-lg leading-relaxed mb-8">
                                 To understand the impact on CIBIL, we must first clarify which type of "foreclosure" we are discussing. The confusion between these two terms often leads to unnecessary fear among borrowers.
                             </p>
                             <div className="space-y-6 mb-10">
                                 <div className="p-8 bg-gray-50 border-l-8 border-[#1F5EFF] rounded-r-2xl shadow-sm">
-                                    <h3 className="font-bold text-2xl mb-4 text-[#2E2E2E]">1. Voluntary Prepayment (The Indian Context)</h3>
+                                    <h4 className="font-bold text-2xl mb-4 text-[#2E2E2E]">1. Voluntary Prepayment (The Indian Context)</h4>
                                     <p className="text-base text-gray-700 leading-relaxed mb-4">
                                         This is when you initiate the closure of the loan. You pay the full principal and interest, and the bank marks the account as "Closed" or "Paid in Full."
                                     </p>
@@ -302,7 +302,7 @@ export default function LoanForeclosureCibilPage() {
                                     </p>
                                 </div>
                                 <div className="p-8 bg-gray-50 border-l-8 border-red-500 rounded-r-2xl shadow-sm">
-                                    <h4 className="font-bold text-2xl mb-4 text-[#2E2E2E]">2. Forced Foreclosure (The Default Context)</h4>
+                                    <h5 className="font-bold text-2xl mb-4 text-[#2E2E2E]">2. Forced Foreclosure (The Default Context)</h5>
                                     <p className="text-base text-gray-700 leading-relaxed mb-4">
                                         This occurs when a lender repossesses an asset (like a car or a house) because you missed several EMIs. The lender "forecloses" on the collateral to recover their dues.
                                     </p>
@@ -317,37 +317,37 @@ export default function LoanForeclosureCibilPage() {
                         </section>
 
                         <section id="impact-on-cibil" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">The Direct Impact of Foreclosure on Your CIBIL Score</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">The Direct Impact of Foreclosure on Your CIBIL Score</h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 Your CIBIL score is calculated based on several factors, including your repayment history, credit utilization, credit mix, and the age of your credit history. Foreclosing a loan affects almost all of these categories in different ways.
                             </p>
                             <div className="grid md:grid-cols-2 gap-8 mb-10">
                                 <div className="p-6 bg-white border border-[#DEDEDE] rounded-xl">
-                                    <h3 className="font-bold text-[#1F5EFF] mb-3">Reduction in Debt Burden</h3>
+                                    <h4 className="font-bold text-[#1F5EFF] mb-3">Reduction in Debt Burden</h4>
                                     <p className="text-sm">When you close a loan, your total outstanding debt decreases. This improves your Debt-to-Income (DTI) ratio. Lenders love seeing a low DTI because it means you have more disposable income to service any new debt in the future.</p>
                                 </div>
                                 <div className="p-6 bg-white border border-[#DEDEDE] rounded-xl">
-                                    <h4 className="font-bold text-[#1F5EFF] mb-3">Positive Repayment History</h4>
+                                    <h5 className="font-bold text-[#1F5EFF] mb-3">Positive Repayment History</h5>
                                     <p className="text-sm">Successful foreclosure is recorded as a series of on-time payments followed by a full closure. This adds a "Closed" account with a perfect track record to your report, which is one of the most significant contributors to a high score.</p>
                                 </div>
                                 <div className="p-6 bg-white border border-[#DEDEDE] rounded-xl">
-                                    <h4 className="font-bold text-[#1F5EFF] mb-3">Credit Mix Changes</h4>
+                                    <h5 className="font-bold text-[#1F5EFF] mb-3">Credit Mix Changes</h5>
                                     <p className="text-sm">If the loan you are foreclosing was your only "secured" loan (like a car or home loan) and you only have "unsecured" credit (like credit cards), your credit mix might become less balanced. This can lead to a very minor, temporary score adjustment.</p>
                                 </div>
                                 <div className="p-6 bg-white border border-[#DEDEDE] rounded-xl">
-                                    <h4 className="font-bold text-[#1F5EFF] mb-3">Credit History Age</h4>
+                                    <h5 className="font-bold text-[#1F5EFF] mb-3">Credit History Age</h5>
                                     <p className="text-sm">If the loan you are closing is your oldest credit account, the "average age" of your credit history will decrease. Since a longer history is generally better, this might cause a small dip in your score.</p>
                                 </div>
                             </div>
                         </section>
 
                         <section id="foreclosure-vs-settlement" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">Foreclosure vs. Loan Settlement: A World of Difference</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">Foreclosure vs. Loan Settlement: A World of Difference</h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 Many borrowers confuse foreclosure with settlement. This is a dangerous misunderstanding. While both result in the loan being closed, the impact on your future ability to borrow is completely different.
                             </p>
                             <div className="bg-blue-50 p-8 rounded-xl border border-blue-200 my-8">
-                                <h3 className="font-bold text-blue-900 mb-4 text-xl">The Difference in Reporting</h3>
+                                <h4 className="font-bold text-blue-900 mb-4 text-xl">The Difference in Reporting</h4>
                                 <p className="text-base text-blue-800 leading-relaxed mb-4">
                                     In a **foreclosure**, the bank reports the status as "Closed" or "Post-Sanction Closed." This is a clean status.
                                 </p>
@@ -358,7 +358,7 @@ export default function LoanForeclosureCibilPage() {
                         </section>
 
                         <section id="why-score-dips" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">Why Does the CIBIL Score Dip After Foreclosure?</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">Why Does the CIBIL Score Dip After Foreclosure?</h3>
                             <p className="text-lg leading-relaxed mb-6 font-bold">
                                 Do not panic if you see a 10 to 20 point drop in your score right after closing a loan.
                             </p>
@@ -371,7 +371,7 @@ export default function LoanForeclosureCibilPage() {
                         </section>
 
                         <section id="legal-procedure" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">The Legal Procedure of Loan Foreclosure in India</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">The Legal Procedure of Loan Foreclosure in India</h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 Foreclosing a loan is a structured process governed by RBI guidelines and individual bank policies. Here is the typical legal flow you should expect:
                             </p>
@@ -402,12 +402,12 @@ export default function LoanForeclosureCibilPage() {
                         </section>
 
                         <section id="benefits" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">Top Benefits of Foreclosing Your Loan Early</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">Top Benefits of Foreclosing Your Loan Early</h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 Beyond the impact on your CIBIL score, foreclosing a loan offers several massive financial advantages that far outweigh any temporary dip in your credit rating.
                             </p>
                             <div className="bg-[#1F5EFF]/5 p-8 rounded-3xl border border-[#1F5EFF]/20 mb-10">
-                                <h3 className="text-2xl font-black text-[#2E2E2E] mb-6">Why It's a Smart Move</h3>
+                                <h4 className="text-2xl font-black text-[#2E2E2E] mb-6">Why It's a Smart Move</h4>
                                 <ol className="space-y-4 text-base font-medium">
                                     <li className="flex items-start gap-3">
                                         <span className="w-6 h-6 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center text-xs flex-shrink-0 mt-1">1</span>
@@ -426,7 +426,7 @@ export default function LoanForeclosureCibilPage() {
                         </section>
 
                         <section id="noc-importance" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">The Role of the No Objection Certificate (NOC)</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">The Role of the No Objection Certificate (NOC)</h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 The most common mistake borrowers make is forgetting to collect and verify their NOC. The NOC is the only document that can save you if the bank's automated system fails to report the closure to CIBIL.
                             </p>
@@ -436,7 +436,7 @@ export default function LoanForeclosureCibilPage() {
                         </section>
 
                         <section id="steps-to-foreclose" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">How to Foreclose Your Loan: A Step-by-Step Guide</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">How to Foreclose Your Loan: A Step-by-Step Guide</h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 If you are ready to take the plunge, follow these steps to ensure a smooth transition to a debt-free life without hurting your credit score.
                             </p>
@@ -475,7 +475,7 @@ export default function LoanForeclosureCibilPage() {
                         </section>
 
                         <section id="success-stories" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 text-center">Success Stories: Life After Loan Foreclosure</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 text-center">Success Stories: Life After Loan Foreclosure</h3>
                             <div className="grid md:grid-cols-2 gap-10 not-prose">
                                 {[
                                     {
@@ -513,7 +513,7 @@ export default function LoanForeclosureCibilPage() {
                                         <div className="flex items-center mb-4">
                                             <div className="w-10 h-10 rounded-full bg-blue-100 flex items-center justify-center font-bold text-blue-600 mr-3">{review.name.split(' ')[0][0]}</div>
                                             <div>
-                                                <h3 className="font-bold text-[#2E2E2E]">{review.name}</h3>
+                                                <h4 className="font-bold text-[#2E2E2E]">{review.name}</h4>
                                                 <p className="text-xs text-gray-400">{review.loc}</p>
                                             </div>
                                             <div className="ml-auto text-yellow-400 text-sm">★★★★★</div>
@@ -528,7 +528,7 @@ export default function LoanForeclosureCibilPage() {
                         </section>
 
                         <section id="faqs" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Frequently Asked Questions</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Frequently Asked Questions</h3>
                             <div className="space-y-6 not-prose">
                                 {[
                                     { q: "Is it better to foreclose or pay EMIs?", a: "Foreclosure is better if you want to save on interest and reduce your debt load. EMIs are better if you need to maintain liquidity for other expenses." },
@@ -556,7 +556,7 @@ export default function LoanForeclosureCibilPage() {
                         </section>
 
                         <div className="mt-16 p-8 bg-[#1F5EFF] rounded-3xl text-white text-center">
-                            <h2 className="text-3xl font-black mb-6">Take Control of Your Credit Journey</h2>
+                            <h3 className="text-3xl font-black mb-6">Take Control of Your Credit Journey</h3>
                             <p className="text-xl mb-8 opacity-90">
                                 Whether you're looking to foreclose or struggling with debt, our experts are here to help you navigate the complex world of CIBIL and banking.
                             </p>

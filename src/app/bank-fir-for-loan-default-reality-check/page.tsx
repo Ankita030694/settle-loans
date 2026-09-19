@@ -147,7 +147,7 @@ const jsonLdGraph = {
       "@type": "FinancialService",
       "@id": "https://www.settleloans.in/bank-fir-for-loan-default-reality-check#service",
       "name": "SettleLoans - Legal Defense & Loan Default Resolution Advisory",
-      "description": "Expert legal protection against illegal criminal intimidation, fraudulent Section 420 police complaints, and recovery agent harassment, paired with structured One-Time Settlement (OTS) negotiation across India.",
+      "description": "Expert legal protection against illegal criminal intimidation, fraudulent Section 420 police complaints, and recovery agent harassment, paired with structured One-Time Settlement (OTS) talks across India.",
       "url": "https://www.settleloans.in/bank-fir-for-loan-default-reality-check",
       "image": "https://www.settleloans.in/images/infographics/bank-fir-for-loan-default-reality-check.jpg",
       "telephone": "+91-99999-99999",
@@ -261,7 +261,7 @@ const jsonLdGraph = {
           "name": "What is the difference between Section 420 cheating and genuine financial default?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "To establish an offense under Section 420 IPC, the prosecution must demonstrate mens rea (fraudulent and dishonest intention) at the very inception of the loan transaction. If a borrower applied with genuine KYC documents, made several regular EMI payments, and later defaulted due to job loss, illness, or business failure, it is a bona fide commercial default where Section 420 is legally inapplicable."
+            "text": "To establish an offense under Section 420 IPC, the prosecution must show mens rea (fraudulent and dishonest intention) at the very inception of the loan transaction. If a borrower applied with genuine KYC documents, made several regular EMI payments, and later defaulted due to job loss, illness, or business failure, it is a bona fide commercial default where Section 420 is legally inapplicable."
           }
         },
         {
@@ -269,7 +269,7 @@ const jsonLdGraph = {
           "name": "What landmark Supreme Court rulings prohibit criminal cases on civil loan defaults?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Landmark Supreme Court judgments including Hridaya Ranjan Prasad Verma v. State of Bihar, Dalip Kaur v. Jagnar Singh, and Prof. R.K. Vijayasarathy v. Sudha Seetharam explicitly establish that every breach of contract does not constitute cheating. The apex court held that converting purely civil disputes into criminal proceedings is an abuse of judicial process liable to be quashed under Section 482 of the CrPC."
+            "text": "Landmark Supreme Court judgments including Hridaya Ranjan Prasad Verma v. State of Bihar, Dalip Kaur v. Jagnar Singh, and Prof. R.K. Vijayasarathy v. Sudha Seetharam explicitly establish that every breach of contract does not constitute cheating. The apex court held that converting purely civil disputes into criminal cases is an abuse of judicial process liable to be quashed under Section 482 of the CrPC."
           }
         },
         {
@@ -293,7 +293,7 @@ const jsonLdGraph = {
           "name": "What legal remedies do banks actually have for loan default?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Banks have strictly civil and statutory remedies: filing a summary recovery suit under Order 37 of the Civil Procedure Code (CPC), initiating civil arbitration under the Arbitration and Conciliation Act 1996, approaching the Debt Recovery Tribunal (DRT) for claims exceeding ₹20 Lakhs, referring to Lok Adalat for conciliation, or negotiating a mutually agreed One-Time Settlement (OTS)."
+            "text": "Banks have strictly civil and statutory remedies: filing a summary recovery suit under Order 37 of the Civil Procedure Code (CPC), starting civil arbitration under the Arbitration and Conciliation Act 1996, approaching the Debt Recovery Tribunal (DRT) for claims exceeding ₹20 Lakhs, referring to Lok Adalat for conciliation, or negotiating a mutually agreed One-Time Settlement (OTS)."
           }
         },
         {
@@ -309,7 +309,7 @@ const jsonLdGraph = {
           "name": "How does advocate representation stop criminal threats and secure an OTS?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "When a specialized debt settlement advocate issues a formal response citing Supreme Court precedents and RBI Master Directions, the bank recovery department immediately pulls the file from abusive third-party agencies. The bank legal officers transition the account from hostile coercion to structured commercial negotiations, enabling a 45% to 65% principal waiver and an official No Dues Certificate."
+            "text": "When a specialized debt settlement advocate issues a formal response citing Supreme Court precedents and RBI Master Directions, the bank recovery department immediately pulls the file from abusive third-party agencies. The bank legal officers transition the account from hostile coercion to structured commercial talks, enabling a 45% to 65% principal waiver and an official No Dues Certificate."
           }
         }
       ]
@@ -516,7 +516,7 @@ export default function BankFirForLoanDefaultRealityCheckPage() {
                 When a borrower faces financial hardship—such as job loss, medical emergencies, or business insolvency—missing EMIs often triggers aggressive recovery maneuvers. Within weeks of an account slipping past the 90-day mark into Non-Performing Asset (NPA) classification, collection callers send alarming messages. They often falsely claim that a First Information Report (FIR) has been lodged at a local police station.
               </p>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
-                To understand the legal reality, one must distinguish between civil and criminal jurisprudence in India. A personal loan agreement is a bilateral commercial contract governed by the Indian Contract Act, 1872. Missing repayments represents a civil breach of contract, entitling the lender to civil recovery suits, Order 37 CPC proceedings, or arbitration. Under no provision of Indian commercial law does an honest financial default transform into a crime.
+                To understand the legal reality, one must distinguish between civil and criminal jurisprudence in India. A personal loan agreement is a bilateral commercial contract governed by the Indian Contract Act, 1872. Missing repayments represents a civil breach of contract, entitling the lender to civil recovery suits, Order 37 CPC cases, or arbitration. Under no provision of Indian commercial law does an honest financial default transform into a crime.
               </p>
               <div className="bg-amber-50 border-l-4 border-amber-500 p-4 rounded-r-xl my-4">
                 <div className="flex items-center gap-2 text-amber-900 font-bold text-xs uppercase tracking-wider mb-1">
@@ -531,24 +531,24 @@ export default function BankFirForLoanDefaultRealityCheckPage() {
 
             {/* Section 2: Statutory Protections: Section 420 & 406 IPC Debunked */}
             <section id="statutory-protections-section-420-406" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                 2. Statutory Legal Protections: Section 420 &amp; 406 IPC Debunked
-              </h2>
+              </h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Collection agencies frequently invoke Section 420 (Cheating) and Section 406 (Criminal breach of trust) of the IPC, now under the Bharatiya Nyaya Sanhita (BNS). Understanding why these sections do not apply to genuine loan defaults requires examining their essential legal ingredients.
               </p>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
-                For an offense under Section 420 IPC to stand, the complainant must prove dishonest intention (<em>mens rea</em>) at the very inception of the transaction. In a standard personal loan, the borrower provides legitimate KYC documentation and services the loan faithfully for months before defaulting. Subsequent failure to repay due to adverse circumstances is a commercial inability, entirely devoid of initial deceit.
+                For an offense under Section 420 IPC to stand, the complainant must prove dishonest intention (<em>mens rea</em>) at the very inception of the transaction. In a standard personal loan, the borrower provides legitimate KYC records and services the loan faithfully for months before defaulting. Subsequent failure to repay due to adverse situations is a commercial inability, entirely devoid of initial deceit.
               </p>
               <div className="bg-slate-50 border border-slate-200 rounded-2xl p-5 my-4 space-y-3">
-                <h3 className="text-xs sm:text-sm font-bold text-slate-900 uppercase tracking-wider flex items-center gap-2">
+                <h4 className="text-xs sm:text-sm font-bold text-slate-900 uppercase tracking-wider flex items-center gap-2">
                   <Scale className="w-4 h-4 text-[#1F5EFF]" />
                   <span>Landmark Supreme Court Jurisprudence</span>
-                </h3>
+                </h4>
                 <div className="space-y-2.5 text-xs sm:text-sm text-slate-700">
                   <div className="p-3 bg-white rounded-xl border border-slate-200">
                     <p className="font-bold text-slate-900">Hridaya Ranjan Prasad Verma v. State of Bihar (2000) 4 SCC 168</p>
-                    <p className="text-slate-600 mt-1">The Supreme Court drew a clear boundary: mere failure to keep a promise cannot give rise to criminal liability for cheating unless fraudulent intention is demonstrated from the inception of the contract.</p>
+                    <p className="text-slate-600 mt-1">The Supreme Court drew a clear boundary: mere failure to keep a promise cannot give rise to criminal liability for cheating unless fraudulent intention is showed from the inception of the contract.</p>
                   </div>
                   <div className="p-3 bg-white rounded-xl border border-slate-200">
                     <p className="font-bold text-slate-900">Dalip Kaur &amp; Ors. v. Jagnar Singh &amp; Anr. (2009) 14 SCC 696</p>
@@ -561,15 +561,15 @@ export default function BankFirForLoanDefaultRealityCheckPage() {
                 </div>
               </div>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
-                Similarly, Section 406 IPC requires the entrustment of property in a fiduciary capacity. When a bank disburses a personal loan, the legal ownership of the money passes unconditionally to the borrower, creating a creditor-debtor relationship rather than a trustee-beneficiary arrangement. Consequently, criminal breach of trust cannot legally arise from the non-repayment of a personal loan.
+                Similarly, Section 406 IPC requires the entrustment of property in a fiduciary capacity. When a bank disburses a personal loan, the legal ownership of the money passes unconditionally to the borrower, creating a creditor-debtor relationship rather than a trustee-beneficiary arrangement. so, criminal breach of trust cannot legally arise from the non-repayment of a personal loan.
               </p>
             </section>
 
             {/* Section 3: Fake Police Notices & Recovery Agent Tactics */}
             <section id="fake-police-notices-recovery-tactics" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                 3. Intimidation Dangers: Fake Summons & Agent Extortion
-              </h2>
+              </h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Because institutional civil recovery in Indian courts is time-consuming and expensive, third-party recovery agencies frequently deploy psychological pressure to extract immediate payments. Unregulated agents routinely forge formal-looking police summons, craft digital documents bearing fictitious crime branch seals, and issue fabricated "Warrant Notice" alerts through messaging applications like WhatsApp.
               </p>
@@ -578,19 +578,19 @@ export default function BankFirForLoanDefaultRealityCheckPage() {
               </p>
               <div className="grid grid-cols-1 sm:grid-cols-2 gap-3 my-4">
                 <div className="p-4 bg-slate-50 border border-slate-200 rounded-xl">
-                  <h3 className="font-bold text-slate-900 text-xs sm:text-sm mb-1">Section 383 &amp; 384 IPC (Extortion)</h3>
+                  <h4 className="font-bold text-slate-900 text-xs sm:text-sm mb-1">Section 383 &amp; 384 IPC (Extortion)</h4>
                   <p className="text-xs text-slate-600">Intentionally putting any person in fear of injury or social disgrace to dishonestly induce payment of money constitutes criminal extortion.</p>
                 </div>
                 <div className="p-4 bg-slate-50 border border-slate-200 rounded-xl">
-                  <h4 className="font-bold text-slate-900 text-xs sm:text-sm mb-1">Section 503 &amp; 506 IPC (Intimidation)</h4>
+                  <h5 className="font-bold text-slate-900 text-xs sm:text-sm mb-1">Section 503 &amp; 506 IPC (Intimidation)</h5>
                   <p className="text-xs text-slate-600">Threatening bodily harm, reputation destruction, or illegal police detention constitutes criminal intimidation punishable by imprisonment.</p>
                 </div>
                 <div className="p-4 bg-slate-50 border border-slate-200 rounded-xl">
-                  <h4 className="font-bold text-slate-900 text-xs sm:text-sm mb-1">Section 465 &amp; 468 IPC (Forgery)</h4>
+                  <h5 className="font-bold text-slate-900 text-xs sm:text-sm mb-1">Section 465 &amp; 468 IPC (Forgery)</h5>
                   <p className="text-xs text-slate-600">Fabricating fake court seals, simulated police summons, or counterfeit magistrate notices amounts to non-bailable criminal forgery.</p>
                 </div>
                 <div className="p-4 bg-slate-50 border border-slate-200 rounded-xl">
-                  <h4 className="font-bold text-slate-900 text-xs sm:text-sm mb-1">RBI Fair Practices Code</h4>
+                  <h5 className="font-bold text-slate-900 text-xs sm:text-sm mb-1">RBI Fair Practices Code</h5>
                   <p className="text-xs text-slate-600">RBI Master Directions strictly forbid contacting borrowers before 8:00 AM or after 7:00 PM, contacting workplace HR, or issuing false legal claims.</p>
                 </div>
               </div>
@@ -598,11 +598,11 @@ export default function BankFirForLoanDefaultRealityCheckPage() {
 
             {/* Section 4: Bank Accounting & NPV Recovery Formula */}
             <section id="bank-accounting-npv-recovery-formula" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                 4. Bank Accounting Realities: NPA Provisioning & NPV
-              </h2>
+              </h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
-                To understand why banks permit recovery agencies to utilize aggressive bluffs rather than filing legitimate court cases, one must examine commercial banking balance sheet mechanics. When a borrower misses three consecutive monthly installments (90 days), the Reserve Bank of India mandates that the loan be classified as a Non-Performing Asset (NPA). Under RBI Master Directions on Prudential Norms on Income Recognition, Asset Classification and Provisioning, the bank must set aside substantial capital reserves:
+                To understand why banks permit recovery agencies to use aggressive bluffs rather than filing legitimate court cases, one must examine commercial banking balance sheet mechanics. When a borrower misses three consecutive monthly installments (90 days), the Reserve Bank of India mandates that the loan be classified as a Non-Performing Asset (NPA). Under RBI Master Directions on Prudential Norms on Income Recognition, Asset Classification and Provisioning, the bank must set aside large capital reserves:
               </p>
               <ul className="list-disc pl-5 space-y-1.5 text-xs sm:text-sm text-slate-700">
                 <li><strong>Substandard NPA (Up to 12 months):</strong> Mandatory 15% provisioning on total outstanding exposure.</li>
@@ -610,7 +610,7 @@ export default function BankFirForLoanDefaultRealityCheckPage() {
                 <li><strong>Doubtful-2 &amp; Loss Assets:</strong> 100% full provisioning write-down against quarterly bank profits.</li>
               </ul>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed mt-3">
-                When a bank initiates a civil lawsuit, it must pay 1% to 3% upfront court fees and retain external counsel. It also faces a 36 to 60-month courtroom trajectory with low probability of recovery on unsecured debt. Consequently, institutional risk committees evaluate recovery using a Net Present Value (NPV) model:
+                When a bank starts a civil lawsuit, it must pay 1% to 3% upfront court fees and retain external counsel. It also faces a 36 to 60-month courtroom trajectory with low probability of recovery on unsecured debt. so, institutional risk committees evaluate recovery using a Net Present Value (NPV) model:
               </p>
 
               {/* NPV Formula Box */}
@@ -652,11 +652,11 @@ export default function BankFirForLoanDefaultRealityCheckPage() {
 
             {/* Section 6: How Advocates Defang Criminal Threats & Force OTS */}
             <section id="advocate-intervention-stopping-harassment" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                 6. How Legal Representation Defangs Criminal Threats &amp; Forces OTS
-              </h2>
+              </h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
-                When an individual borrower attempts to explain financial hardship directly to recovery representatives, the agency often doubles down on aggressive psychological intimidation. However, the operational dynamic changes entirely when a specialized debt defense advocate steps in with formal legal representation.
+                When an person borrower attempts to explain financial hardship directly to recovery agents, the agency often doubles down on aggressive psychological intimidation. However, the operational dynamic changes entirely when a specialized debt defense advocate steps in with formal legal representation.
               </p>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Upon being retained, our legal team executes a multi-pronged intervention protocol:
@@ -665,28 +665,28 @@ export default function BankFirForLoanDefaultRealityCheckPage() {
                 <div className="p-4 bg-white border border-slate-200 rounded-xl shadow-sm flex items-start gap-3">
                   <ShieldCheck className="w-5 h-5 text-[#1F5EFF] flex-shrink-0 mt-0.5" />
                   <div>
-                    <h3 className="font-bold text-slate-900 text-xs sm:text-sm">Formal Cease-and-Desist &amp; Vakalatnama Service</h3>
-                    <p className="text-xs text-slate-600 mt-1">Advocates serve formal notices to the bank collection head and nodal grievance officer, establishing that all communications must occur through legal counsel. Third-party calling stops immediately.</p>
+                    <h4 className="font-bold text-slate-900 text-xs sm:text-sm">Formal Cease-and-Desist &amp; Vakalatnama Service</h4>
+                    <p className="text-xs text-slate-600 mt-1">Advocates serve formal notices to the bank collection head and nodal grievance officer, establishing that all notices must occur through legal counsel. Third-party calling stops immediately.</p>
                   </div>
                 </div>
                 <div className="p-4 bg-white border border-slate-200 rounded-xl shadow-sm flex items-start gap-3">
                   <AlertTriangle className="w-5 h-5 text-amber-600 flex-shrink-0 mt-0.5" />
                   <div>
-                    <h4 className="font-bold text-slate-900 text-xs sm:text-sm">Criminal Counter-Notices for Coercion (Sections 506 &amp; 383 IPC)</h4>
+                    <h5 className="font-bold text-slate-900 text-xs sm:text-sm">Criminal Counter-Notices for Coercion (Sections 506 &amp; 383 IPC)</h5>
                     <p className="text-xs text-slate-600 mt-1">If agents sent forged summons or issued threats of arrest, our advocates document the electronic evidence and file formal complaints with the State Cyber Crime Police and local District Magistrate.</p>
                   </div>
                 </div>
                 <div className="p-4 bg-white border border-slate-200 rounded-xl shadow-sm flex items-start gap-3">
                   <Landmark className="w-5 h-5 text-indigo-600 flex-shrink-0 mt-0.5" />
                   <div>
-                    <h4 className="font-bold text-slate-900 text-xs sm:text-sm">Escalation to RBI Integrated Ombudsman</h4>
-                    <p className="text-xs text-slate-600 mt-1">Under the Reserve Bank - Integrated Ombudsman Scheme, 2021, banks face severe institutional penalties and compensation liabilities up to ₹20 Lakhs for recovery agent violations.</p>
+                    <h5 className="font-bold text-slate-900 text-xs sm:text-sm">Escalation to RBI Integrated Ombudsman</h5>
+                    <p className="text-xs text-slate-600 mt-1">Under the Reserve Bank - Integrated Ombudsman Scheme, 2021, banks face severe institutional penalties and relief liabilities up to ₹20 Lakhs for recovery agent violations.</p>
                   </div>
                 </div>
                 <div className="p-4 bg-white border border-slate-200 rounded-xl shadow-sm flex items-start gap-3">
                   <BadgePercent className="w-5 h-5 text-emerald-600 flex-shrink-0 mt-0.5" />
                   <div>
-                    <h4 className="font-bold text-slate-900 text-xs sm:text-sm">Direct Institutional Compromise Negotiation</h4>
+                    <h5 className="font-bold text-slate-900 text-xs sm:text-sm">Direct Institutional Compromise talks</h5>
                     <p className="text-xs text-slate-600 mt-1">With harassment neutralized, advocates submit a documented financial hardship dossier directly to bank zonal settlement committees, negotiating a 50% to 70% principal waiver.</p>
                   </div>
                 </div>
@@ -695,17 +695,17 @@ export default function BankFirForLoanDefaultRealityCheckPage() {
 
             {/* Section 7: Sanction Letter Forensics & Section 482 CrPC Quashing */}
             <section id="section-482-crpc-quashing-precedents" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                 7. Sanction Letter Forensics & Section 482 CrPC Quashing
-              </h2>
+              </h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 In rare cases where a lender attempts a private criminal complaint under Section 156(3) or 200 CrPC alleging cheating, defense advocates act swiftly. They file High Court quashing petitions under Section 482 CrPC (now Section 528 BNSS) to dismiss groundless claims.
               </p>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
-                High Courts across Indian jurisdictions routinely quash such malicious proceedings at the admission stage itself by performing forensic examination of the original sanction documents:
+                High Courts across Indian jurisdictions routinely quash such malicious cases at the admission stage itself by performing forensic examination of the original sanction documents:
               </p>
               <ul className="list-disc pl-5 space-y-2 text-xs sm:text-sm text-slate-700">
-                <li><strong>Absence of Deceptive Inducement:</strong> Demonstrating that the borrower identity, income proof, and residential verification were vetted and approved through the bank own credit underwriting algorithms.</li>
+                <li><strong>Absence of Deceptive Inducement:</strong> showing that the borrower identity, income proof, and residential verification were vetted and approved through the bank own credit underwriting algorithms.</li>
                 <li><strong>History of Genuine Part-Performance:</strong> Proving that the borrower serviced initial EMIs, conclusively negating any fraudulent intent at inception.</li>
                 <li><strong>Standard Commercial Dispute Character:</strong> Establishing that the dispute revolves solely around unsettled balances, compound interest accruals, or unfair penal charges.</li>
                 <li><strong>Abuse of Criminal Process:</strong> Citing Supreme Court directives in <em>State of Haryana v. Bhajan Lal</em> to establish that the criminal complaint was instituted with an ulterior motive for wreaking vengeance or exerting extra-judicial pressure.</li>
@@ -714,9 +714,9 @@ export default function BankFirForLoanDefaultRealityCheckPage() {
 
             {/* Section 8: Remittance, RBI Mandated Zero-Dues Certificate & Credit Reconstruction */}
             <section id="remittance-rbi-ndc-credit-reconstruction" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                 8. Remittance Protocols, Zero-Dues Mandate & Credit Repair
-              </h2>
+              </h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 A critical danger for unrepresented borrowers is making informal cash or transfer payments to recovery agents based on verbal settlement assurances. Such payments are invariably credited as partial interest installments, leaving the loan account active, compounding penalties, and subjecting the borrower to continued legal exposure.
               </p>
@@ -747,9 +747,9 @@ export default function BankFirForLoanDefaultRealityCheckPage() {
 
             {/* Section 9: Dispute Resolution Comparative Matrix Table */}
             <section id="recovery-mechanism-comparative-matrix" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                 9. Dispute Resolution Comparative Matrix: Recovery Mechanisms in India
-              </h2>
+              </h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 The following comparative table illustrates the jurisdictional boundaries, procedural timelines, and realistic borrower exposure across various dispute resolution avenues in Indian banking practice:
               </p>
@@ -809,11 +809,11 @@ export default function BankFirForLoanDefaultRealityCheckPage() {
             {/* Section 10: SettleLoans Legal Defense & Advisory + CompanySection */}
             <section id="settleloans-legal-defense-framework" className="space-y-6">
               <div className="border-t border-slate-200 pt-8 space-y-4">
-                <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
+                <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                   10. SettleLoans Defense Framework Across India
-                </h2>
+                </h3>
                 <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
-                  Navigating recovery intimidation, false police summons, and collection harassment requires experienced legal counsel. SettleLoans provides comprehensive legal defense for borrowers nationwide. We serve cease-and-desist notices to halt unlawful harassment and hold abusive agencies accountable. Furthermore, we negotiate directly with bank zonal authorities to secure maximum principal haircuts backed by official, bank-stamped No Dues Certificates.
+                  Navigating recovery intimidation, false police summons, and collection harassment requires experienced legal counsel. SettleLoans provides comprehensive legal defense for borrowers nationwide. We serve cease-and-desist notices to halt unlawful harassment and hold abusive agencies accountable. also, we negotiate directly with bank zonal authorities to secure maximum principal haircuts backed by official, bank-stamped No Dues Certificates.
                 </p>
               </div>
 
@@ -825,9 +825,9 @@ export default function BankFirForLoanDefaultRealityCheckPage() {
             <section id="faqs" className="space-y-4 border-t border-slate-200 pt-8">
               <div className="flex items-center gap-2 mb-2">
                 <HelpCircle className="w-5 h-5 text-[#1F5EFF]" />
-                <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
+                <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                   11. FAQs: Bank FIR for Loan Default Reality Check
-                </h2>
+                </h3>
               </div>
               <p className="text-xs sm:text-sm text-slate-600 mb-6">
                 Clear, legally verified answers to common questions regarding bank FIR threats, Section 420 IPC allegations, and borrower protections in India.
@@ -857,9 +857,9 @@ export default function BankFirForLoanDefaultRealityCheckPage() {
 
             {/* 5 Official Regulatory Links */}
             <section className="border-t border-slate-200 pt-8 mb-4">
-              <h3 className="text-xs sm:text-sm font-bold text-slate-900 mb-3 uppercase tracking-wider">
+              <h4 className="text-xs sm:text-sm font-bold text-slate-900 mb-3 uppercase tracking-wider">
                 Official Statutory &amp; Regulatory References
-              </h3>
+              </h4>
               <div className="grid grid-cols-1 sm:grid-cols-2 gap-2.5 text-xs">
                 <a
                   href="https://www.sci.gov.in"
@@ -911,9 +911,9 @@ export default function BankFirForLoanDefaultRealityCheckPage() {
 
             {/* 10 Related Guide Badges */}
             <section className="border-t border-slate-200 pt-8 mb-8">
-              <h3 className="text-xs sm:text-sm font-bold text-slate-900 mb-4 uppercase tracking-wider">
+              <h4 className="text-xs sm:text-sm font-bold text-slate-900 mb-4 uppercase tracking-wider">
                 Related Legal Defense &amp; Loan Resolution Guides
-              </h3>
+              </h4>
               <div className="flex flex-wrap gap-2">
                 <Link
                   href="/bank-sent-legal-notice-for-loan-what-to-do"

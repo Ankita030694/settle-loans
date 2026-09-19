@@ -305,9 +305,9 @@ export default function DebtAlternativesPage() {
             </section>
 
             <section id="cost-of-settlement" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight text-red-600">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight text-red-600">
                 The Real Cost of Loan Settlement: Hidden Consequences
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 Before diving into alternatives, it is crucial to understand why they are so valuable compared to the "easy out" of a settlement. A loan settlement is essentially a compromise where you pay less than the total dues (principal plus interest and penalties). For the bank, this represents a write-off of potential earnings. For the credit bureau (CIBIL, Experian, Equifax), this is flagged as a "negative credit event," signaling that you did not fulfill your original contract.
               </p>
@@ -315,7 +315,7 @@ export default function DebtAlternativesPage() {
                 Most borrowers focus purely on the immediate relief of the "NOC" or "Closure Letter." However, the label "Settled" in your credit history acts like a digital stain. It tells every future lender that you are a high-risk individual who might not pay back what they owe if things get difficult again. This section breaks down the multi-layered impact of this decision on your career, your family's housing needs, and your overall financial mobility.
               </p>
               <div className="bg-red-50 p-8 rounded-xl border border-red-200 mb-8">
-                <h3 className="text-xl font-bold mb-4 text-red-900 italic">The "Settled" Status Impact in Depth</h3>
+                <h4 className="text-xl font-bold mb-4 text-red-900 italic">The "Settled" Status Impact in Depth</h4>
                 <ul className="space-y-4">
                   <li className="flex items-start gap-3">
                     <span className="shrink-0 w-6 h-6 bg-red-500 text-white rounded-full flex items-center justify-center font-bold text-sm">1</span>
@@ -346,9 +346,9 @@ export default function DebtAlternativesPage() {
             </section>
 
             <section id="consolidation" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
                 Alternative 1: Proactive Debt Consolidation
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 Debt consolidation is the strategic process of taking a single, large loan (typically a Personal Loan or a Loan Against Property) to pay off several smaller, high-interest debts. This is one of the most proactive ways to manage debt because it replaces multiple complex repayments, staggered due dates, and varying interest rates with one simple, manageable EMI.
               </p>
@@ -357,7 +357,7 @@ export default function DebtAlternativesPage() {
               </p>
               <div className="grid md:grid-cols-2 gap-6 mb-8">
                 <div className="bg-white p-6 rounded-xl border border-gray-100 shadow-sm">
-                  <h3 className="font-bold text-[#1F5EFF] mb-2 uppercase text-xs tracking-widest">Advanced Mechanics</h3>
+                  <h4 className="font-bold text-[#1F5EFF] mb-2 uppercase text-xs tracking-widest">Advanced Mechanics</h4>
                   <p className="text-sm text-gray-600 leading-relaxed font-bold">
                     You apply for a personal loan or a loan against property (LAP). The funds are disbursed directly to clear credit card dues and small unsecured loans. You then focus on paying back this single loan at a likely 50% lower interest rate.
                   </p>
@@ -366,7 +366,7 @@ export default function DebtAlternativesPage() {
                   </p>
                 </div>
                 <div className="bg-white p-6 rounded-xl border border-gray-100 shadow-sm">
-                  <h3 className="font-bold text-[#1F5EFF] mb-2 uppercase text-xs tracking-widest">The CIBIL Flywheel Effect</h3>
+                  <h4 className="font-bold text-[#1F5EFF] mb-2 uppercase text-xs tracking-widest">The CIBIL Flywheel Effect</h4>
                   <p className="text-sm text-gray-600 leading-relaxed">
                     It improves your credit utility ratio. By closing multiple credit card accounts (which often show 90%+ utilization) and maintaining one healthy term loan, your CIBIL score can actually see a significant boost within 6 to 12 months. This is because "Installment Loans" are viewed more favorably than "Revolving Credit" by bureau algorithms.
                   </p>
@@ -381,9 +381,9 @@ export default function DebtAlternativesPage() {
             </section>
 
             <section id="restructuring" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
                 Alternative 2: Professional Loan Restructuring
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 Loan restructuring is a formal, legally binding agreement with your existing lender to change the fundamental terms of your original contract. This is a powerful tool under the Reserve Bank of India (RBI) framework for borrowers who have a "disruption in income" but maintain a "genuine intent to pay." Unlike settlement, restructuring assumes the borrower will eventually repay the full principal, protecting the bank's bottom line while giving the borrower breathing room.
               </p>
@@ -391,7 +391,7 @@ export default function DebtAlternativesPage() {
                 Why banks prefer restructuring over NPAs (Non-Performing Assets): When a loan becomes an NPA, banks have to set aside "provisions" (idle cash) for it. By restructuring your loan, the bank keeps the asset "Standard" on their books (with some exceptions), which is much healthier for their balance sheets. Your goal is to help them help you.
               </p>
               <div className="bg-blue-50 p-8 rounded-xl border border-blue-200 mb-8 font-medium">
-                <h3 className="text-xl font-bold mb-4 text-blue-900 uppercase tracking-tight">The Restructuring Toolkit</h3>
+                <h4 className="text-xl font-bold mb-4 text-blue-900 uppercase tracking-tight">The Restructuring Toolkit</h4>
                 <ul className="grid md:grid-cols-2 gap-6">
                   <li className="flex items-start gap-2 text-blue-800">
                     <span className="w-2.5 h-2.5 bg-blue-500 rounded-full mt-1.5"></span>
@@ -428,9 +428,9 @@ export default function DebtAlternativesPage() {
             </section>
 
             <section id="moratorium" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
                 Alternative 3: Strategic Moratorium Period
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 A moratorium is a temporary suspension of loan repayments for a specific duration. In common parlance, this is often called a "loan holiday." While it was widely popularized and mandated during the COVID-19 pandemic, many banks still offer moratoriums on a case-by-case basis for borrowers who are in "Standard" accounts but facing extreme, short-term distress (like a 3-month medical leave or a startup pivot).
               </p>
@@ -438,7 +438,7 @@ export default function DebtAlternativesPage() {
                 The objective of a moratorium is "cash flow preservation." It allows you to use your limited cash for survival (food, rent, medicine) without the bank marking you as a "Defaulter" on day 1 of the crisis. However, it is a surgical tool, not a lifestyle fix.
               </p>
               <div className="bg-gray-50 p-8 rounded-xl border border-gray-200 mb-8">
-                <h3 className="text-xl font-bold mb-4 italic text-gray-800 uppercase tracking-tighter">The Mathematical Reality Checklist</h3>
+                <h4 className="text-xl font-bold mb-4 italic text-gray-800 uppercase tracking-tighter">The Mathematical Reality Checklist</h4>
                 <p className="text-sm text-gray-600 leading-relaxed mb-6">
                   A moratorium is absolutely not a "waiver." Interest continues to accrue on the outstanding principal balance during the suspension period. Furthermore, this accrual is often "Capitalized," meaning that for the next month, you are paying interest on interest (compounding). This is why a 6-month moratorium can sometimes extend your loan tenure by 12 to 18 months.
                 </p>
@@ -457,9 +457,9 @@ export default function DebtAlternativesPage() {
             </section>
 
             <section id="counseling" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
                 Alternative 4: High-Impact Credit Counseling & DMPs
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 Credit counseling is a professional service where a third-party expert audits your entire financial life your income, your expenses, your debt-to-income ratio, and your asset base. The ultimate outcome of this audit is often a <strong>Debt Management Plan (DMP)</strong>. A DMP is a structured program where you commit to paying your full principal balance over a longer window (3 to 5 years), usually with a massive reduction or even a total waiver of future interest, late fees, and bounce charges.
               </p>
@@ -468,12 +468,12 @@ export default function DebtAlternativesPage() {
               </p>
               <div className="space-y-8 my-10">
                 <div className="border-l-4 border-[#1F5EFF] pl-6 py-4 bg-gray-50 rounded-r-xl shadow-sm">
-                  <h3 className="font-black text-xl mb-2 uppercase text-[#1F5EFF]">CIBIL Neutral Reputation</h3>
+                  <h4 className="font-black text-xl mb-2 uppercase text-[#1F5EFF]">CIBIL Neutral Reputation</h4>
                   <p className="text-sm text-gray-700 leading-relaxed mb-2 font-bold italic">DMPs are reported to credit bureaus as "Regular Payments under Agreement" or "Payment Plan Active," which is significantly better than reaching the "Settled" status.</p>
                   <p className="text-sm text-gray-500">Bureau algorithms view this as a proactive effort to pay back every rupee of the principal, which preserves your integrity as a borrower and allows your score to recover as the debt balance decreases.</p>
                 </div>
                 <div className="border-l-4 border-[#1F5EFF] pl-6 py-4 bg-gray-50 rounded-r-xl shadow-sm">
-                  <h4 className="font-black text-xl mb-2 uppercase text-[#1F5EFF]">The Single Point of Payment (SPP)</h4>
+                  <h5 className="font-black text-xl mb-2 uppercase text-[#1F5EFF]">The Single Point of Payment (SPP)</h5>
                   <p className="text-sm text-gray-700 leading-relaxed mb-2">In a DMP, you no longer have to manage 10 different payment dates. You make a single monthly payment to the counseling firm's secure escrow or managed account, and they distribute the funds to multiple banks according to the legally negotiated settlement plan.</p>
                   <p className="text-sm text-gray-500 italic">This eliminates the risk of missing a payment on "Card A" while focusing on "Loan B," ensuring a uniform recovery across all your accounts.</p>
                 </div>
@@ -484,9 +484,9 @@ export default function DebtAlternativesPage() {
             </section>
 
             <section id="balance-transfer" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
                 Alternative 5: High-Performance Balance Transfers
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 Balance transfers are arguably the most effective weapon for credit card debt management. If you possess a high-interest credit card balance (ranging from 36% to a staggering 48% APR), you can move that balance to a new card from a different bank that offers a dedicated "Balance Transfer" facility.
               </p>
@@ -502,9 +502,9 @@ export default function DebtAlternativesPage() {
             </section>
 
             <section id="top-up-loans" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
                 Alternative 6: Asset-Backed Top-up Loan Options
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 If you are a homeowner with an existing home loan that has been active for at least 3 to 5 years, you may be eligible for a "Top-up Loan." This is fundamentally different from a personal loan because the security (collateral) is already with the bank. Because the loan is secured against property, the interest rate is significantly lower typically ranging from 8% to 11% compared to the ruinous rates of personal loans (12% to 24%) or credit cards (40%+).
               </p>
@@ -521,7 +521,7 @@ export default function DebtAlternativesPage() {
             </section>
 
             <section id="comparison-table" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 text-center">Direct Comparison: Settlement vs. Alternatives</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 text-center">Direct Comparison: Settlement vs. Alternatives</h3>
               <div className="overflow-x-auto">
                 <table className="w-full text-left border-collapse border border-gray-200 bg-white shadow-sm">
                   <thead className="bg-[#2E2E2E] text-white">
@@ -565,20 +565,20 @@ export default function DebtAlternativesPage() {
             <ReviewSnippets reviews={reviews} title="Real Stories of Debt Recovery" />
 
             <section id="choosing-right" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Data-Driven: How to Choose the Right Alternative?</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Data-Driven: How to Choose the Right Alternative?</h3>
               <p className="mb-6 text-lg leading-relaxed">
                 The best choice for your debt resolution strategy depends entirely on your specific financial "DNA" the combination of your current income stability, the total amount of debt relative to that income, and the value of your assets. Our senior counselors at SettleLoans use a data-driven approach to map your situation to the right solution. No two profiles are the same, but most fall into these two high-performing categories:
               </p>
               <div className="grid sm:grid-cols-2 gap-8 my-10">
                 <div className="bg-white border border-[#DEDEDE] p-10 rounded-2xl relative overflow-hidden group hover:bg-[#2E2E2E] transition-all duration-500 shadow-sm hover:shadow-xl">
                   <div className="absolute top-0 right-0 w-24 h-24 bg-[#1F5EFF]/10 rounded-bl-full group-hover:bg-white/10 transition-colors"></div>
-                  <h3 className="text-2xl font-black mb-6 group-hover:text-[#1F5EFF] transition-colors uppercase leading-none">Scenario A: The High-Earner Trap</h3>
+                  <h4 className="text-2xl font-black mb-6 group-hover:text-[#1F5EFF] transition-colors uppercase leading-none">Scenario A: The High-Earner Trap</h4>
                   <p className="text-base leading-relaxed text-gray-600 group-hover:text-[#DEDEDE]/80 transition-colors font-bold mb-4">If you have a steady, high income but have over-leveraged yourself with 5 to 10 different credit accounts, <strong>Debt Consolidation</strong> or a <strong>Balance Transfer</strong> is your primary weapon.</p>
                   <p className="text-sm text-gray-400 group-hover:text-white/60 transition-colors">Goal: Interest Arbitrage. You are essentially shifting high-cost debt to low-cost debt, and your income will handle the rest. This preserves your CIBIL score for future high-ticket home loans.</p>
                 </div>
                 <div className="bg-white border border-[#DEDEDE] p-10 rounded-2xl relative overflow-hidden group hover:bg-[#1F5EFF] transition-all duration-500 shadow-sm hover:shadow-xl">
                   <div className="absolute top-0 right-0 w-24 h-24 bg-[#1F5EFF]/5 rounded-bl-full group-hover:bg-white/5 transition-colors"></div>
-                  <h3 className="text-2xl font-black mb-6 group-hover:text-white transition-colors uppercase leading-none">Scenario B: The Critical Hardship Hit</h3>
+                  <h4 className="text-2xl font-black mb-6 group-hover:text-white transition-colors uppercase leading-none">Scenario B: The Critical Hardship Hit</h4>
                   <p className="text-base leading-relaxed text-gray-600 group-hover:text-white/90 transition-colors font-bold mb-4">If you have lost your income temporarily, suffered a business closure, or faced a medical disaster, <strong>Loan Restructuring</strong> or a <strong>Debt Management Plan (DMP)</strong> is your legal shield.</p>
                   <p className="text-sm text-gray-400 group-hover:text-white/70 transition-colors">Goal: Survival & Protection. You need to stop the harassment and reduce the repayment pressure to a level that your current (or future) cash flow can actually support, without default.</p>
                 </div>
@@ -589,7 +589,7 @@ export default function DebtAlternativesPage() {
             </section>
 
             <section id="faqs" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Frequently Asked Questions</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Frequently Asked Questions</h3>
               <div className="space-y-4 not-prose">
                 {(jsonLd["@graph"][3] as any)?.mainEntity?.map((faq: any, i: number) => (
                   <details key={i} className="group bg-white border border-[#DEDEDE] rounded-xl overflow-hidden hover:shadow-md transition-all border-b-4 border-b-[#1F5EFF]/20">
@@ -615,7 +615,7 @@ export default function DebtAlternativesPage() {
             <div className="lg:hidden mt-16 mb-8">
               <div className="bg-[#2E2E2E] rounded-2xl shadow-xl overflow-hidden border border-[#1F5EFF]/20">
                 <div className="bg-[#1F5EFF] p-6 text-center text-white">
-                  <h3 className="text-2xl font-black mb-2">Save Your Credit Score Today!</h3>
+                  <h4 className="text-2xl font-black mb-2">Save Your Credit Score Today!</h4>
                   <p className="opacity-90 text-sm">Speak with an expert from SettleLoans to find the best alternative for your debt.</p>
                 </div>
                 <div className="p-8 text-center text-[#DEDEDE]">

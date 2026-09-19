@@ -291,7 +291,7 @@ export default function Section25NoticePage() {
             </section>
 
             <section id="understanding-section-25" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">Understanding Section 25 of the PSS Act</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">Understanding Section 25 of the PSS Act</h3>
               
               <div className="bg-gray-50 p-8 rounded-2xl mb-8 border border-gray-200">
                 <p className="text-lg leading-relaxed text-gray-700 mb-0">
@@ -302,35 +302,35 @@ export default function Section25NoticePage() {
             </section>
 
             <section id="statutory-timeline" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">The Legal Timeline: When Can They Sue?</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">The Legal Timeline: When Can They Sue?</h3>
               <p className="text-lg leading-relaxed mb-8">For a lender to successfully prosecute you under Section 25, they must strictly adhere to a statutory timeline. If they miss these deadlines, their legal case becomes invalid.</p>
               
               <div className="space-y-12">
                 <div className="flex gap-6">
                   <div className="flex-shrink-0 w-12 h-12 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center font-black text-xl shadow-lg">1</div>
                   <div>
-                    <h3 className="text-xl font-black text-[#2E2E2E] mb-2">The Bounce Event</h3>
+                    <h4 className="text-xl font-black text-[#2E2E2E] mb-2">The Bounce Event</h4>
                     <p className="text-gray-700 text-lg">The bank returns the ECS/NACH mandate unpaid and informs the lender.</p>
                   </div>
                 </div>
                 <div className="flex gap-6">
                   <div className="flex-shrink-0 w-12 h-12 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center font-black text-xl shadow-lg">2</div>
                   <div>
-                    <h4 className="text-xl font-black text-[#2E2E2E] mb-2">30-Day Window for Notice</h4>
+                    <h5 className="text-xl font-black text-[#2E2E2E] mb-2">30-Day Window for Notice</h5>
                     <p className="text-gray-700 text-lg">The lender must send a formal legal notice demanding payment within 30 days of receiving information about the bounce from the bank.</p>
                   </div>
                 </div>
                 <div className="flex gap-6">
                   <div className="flex-shrink-0 w-12 h-12 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center font-black text-xl shadow-lg">3</div>
                   <div>
-                    <h4 className="text-xl font-black text-[#2E2E2E] mb-2">15-Day Cure Period</h4>
+                    <h5 className="text-xl font-black text-[#2E2E2E] mb-2">15-Day Cure Period</h5>
                     <p className="text-gray-700 text-lg">After you receive the notice, you have exactly 15 days to pay the demanded amount or send a formal legal reply.</p>
                   </div>
                 </div>
                 <div className="flex gap-6">
                   <div className="flex-shrink-0 w-12 h-12 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center font-black text-xl shadow-lg">4</div>
                   <div>
-                    <h4 className="text-xl font-black text-[#2E2E2E] mb-2">Filing of Criminal Complaint</h4>
+                    <h5 className="text-xl font-black text-[#2E2E2E] mb-2">Filing of Criminal Complaint</h5>
                     <p className="text-gray-700 text-lg">If you fail to pay within those 15 days, the lender has 30 days to file a criminal complaint in a magistrate court.</p>
                   </div>
                 </div>
@@ -338,10 +338,10 @@ export default function Section25NoticePage() {
             </section>
 
             <section id="criminal-implications" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">Criminal Implications & Punishments</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">Criminal Implications & Punishments</h3>
               
               <div className="bg-red-50 p-6 rounded-xl border border-red-100 mb-8">
-                <h3 className="text-xl font-black text-red-700 mb-4">Can You Go to Jail?</h3>
+                <h4 className="text-xl font-black text-red-700 mb-4">Can You Go to Jail?</h4>
                 <p className="text-lg leading-relaxed mb-4 text-red-900">
                   Many borrowers search for "<strong className="text-red-950">jail for auto debit bounce India</strong>". The harsh reality is yes. If convicted under Section 25, the <strong className="text-red-950">NACH mandate bounce punishment</strong> can include:
                 </p>
@@ -357,12 +357,12 @@ export default function Section25NoticePage() {
             </section>
 
             <section id="section-138-vs-25" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">Section 138 vs. Section 25</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">Section 138 vs. Section 25</h3>
               <p className="text-lg leading-relaxed mb-6">While they deal with similar concepts, they apply to different financial instruments.</p>
               
               <div className="grid md:grid-cols-2 gap-6 my-8">
                 <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
-                  <h3 className="font-black text-[#1F5EFF] text-lg mb-3">Section 138 (NI Act)</h3>
+                  <h4 className="font-black text-[#1F5EFF] text-lg mb-3">Section 138 (NI Act)</h4>
                   <ul className="space-y-2 text-gray-700">
                     <li>• Applies to physical paper cheques</li>
                     <li>• Older law, highly established case precedents</li>
@@ -371,7 +371,7 @@ export default function Section25NoticePage() {
                   </ul>
                 </div>
                 <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
-                  <h4 className="font-black text-[#1F5EFF] text-lg mb-3">Section 25 (PSS Act)</h4>
+                  <h5 className="font-black text-[#1F5EFF] text-lg mb-3">Section 25 (PSS Act)</h5>
                   <ul className="space-y-2 text-gray-700">
                     <li>• Applies to ECS, NACH, and e-Mandates</li>
                     <li>• Modern law used by fintechs and digital lenders</li>
@@ -383,10 +383,10 @@ export default function Section25NoticePage() {
             </section>
 
             <section id="how-to-defend" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">How to Defend Yourself</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">How to Defend Yourself</h3>
               
               <div className="bg-blue-50 border-l-8 border-[#1F5EFF] p-8 rounded-r-2xl mb-8">
-                <h3 className="text-xl font-black text-[#1F5EFF] mb-4">Drafting a Strong Legal Reply</h3>
+                <h4 className="text-xl font-black text-[#1F5EFF] mb-4">Drafting a Strong Legal Reply</h4>
                 <p className="text-lg leading-relaxed mb-4 text-gray-800">
                   Ignoring the notice is the worst thing you can do. You must send a legal reply drafted by an advocate within the 15-day period. Potential defenses include:
                 </p>
@@ -412,7 +412,7 @@ export default function Section25NoticePage() {
             </section>
 
             <section id="success-stories" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">Client Success Stories</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">Client Success Stories</h3>
               <div className="grid md:grid-cols-2 gap-6">
                 
                 {/* Story Card 1 */}
@@ -422,7 +422,7 @@ export default function Section25NoticePage() {
                       A
                     </div>
                     <div>
-                      <h3 className="font-bold text-[#2E2E2E]">Amit K.</h3>
+                      <h4 className="font-bold text-[#2E2E2E]">Amit K.</h4>
                       <div className="flex text-yellow-400">
                         <svg className="w-4 h-4 fill-current" viewBox="0 0 20 20"><path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z"/></svg>
                         <svg className="w-4 h-4 fill-current" viewBox="0 0 20 20"><path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z"/></svg>
@@ -446,7 +446,7 @@ export default function Section25NoticePage() {
                       P
                     </div>
                     <div>
-                      <h4 className="font-bold text-[#2E2E2E]">Priya S.</h4>
+                      <h5 className="font-bold text-[#2E2E2E]">Priya S.</h5>
                       <div className="flex text-yellow-400">
                         <svg className="w-4 h-4 fill-current" viewBox="0 0 20 20"><path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z"/></svg>
                         <svg className="w-4 h-4 fill-current" viewBox="0 0 20 20"><path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z"/></svg>
@@ -466,7 +466,7 @@ export default function Section25NoticePage() {
             </section>
 
             <section id="faqs" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">Frequently Asked Questions</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">Frequently Asked Questions</h3>
               <div className="space-y-4">
                 {[
                   { q: "What is Section 25 of the Payment and Settlement Systems Act?", a: "Section 25 criminalizes the dishonour of an electronic funds transfer (like ECS or NACH) due to insufficient funds, similar to Section 138 for cheque bounces." },
@@ -481,7 +481,7 @@ export default function Section25NoticePage() {
                   { q: "Can I cancel a NACH mandate to stop the bounce?", a: "You can cancel a mandate with your bank. If the lender presents a cancelled mandate, it weakens their case for a Section 25 offense if properly documented." }
                 ].map((faq, index) => (
                   <div key={index} className="bg-white border border-[#DEDEDE] rounded-xl p-6 hover:shadow-md transition-shadow">
-                    <h3 className="font-bold text-lg text-[#2E2E2E] mb-2">{faq.q}</h3>
+                    <h4 className="font-bold text-lg text-[#2E2E2E] mb-2">{faq.q}</h4>
                     <p className="text-gray-700">{faq.a}</p>
                   </div>
                 ))}
@@ -492,7 +492,7 @@ export default function Section25NoticePage() {
             <div id="contact-advocates" className="bg-[#2E2E2E] text-white p-12 rounded-[40px] text-center mt-24 relative overflow-hidden group">
               <div className="absolute inset-0 bg-[#1F5EFF] opacity-0 group-hover:opacity-5 transition-opacity"></div>
               <div className="relative z-10">
-                <h3 className="text-3xl font-black mb-4">Received a legal notice under Section 25 for an ECS or NACH bounce?</h3>
+                <h4 className="text-3xl font-black mb-4">Received a legal notice under Section 25 for an ECS or NACH bounce?</h4>
                 <p className="text-xl text-gray-300 mb-8 max-w-2xl mx-auto">
                   Our advocates can draft a strong legal reply to protect you from criminal proceedings and help you settle the loan.
                 </p>

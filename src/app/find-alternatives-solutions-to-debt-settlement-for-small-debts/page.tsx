@@ -265,9 +265,9 @@ export default function SmallDebtAlternativesPage() {
             </section>
 
             <section id="consolidation-strategy" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
                 Section 1: The Smart Consolidation Strategy
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 Debt consolidation is the process of taking one large, low-interest loan to pay off multiple small, high-interest debts. If you have three credit cards with interest rates of 42% per annum, and you take a personal loan at 14% to pay them off, you have just saved yourself 28% in interest costs instantly.
               </p>
@@ -275,7 +275,7 @@ export default function SmallDebtAlternativesPage() {
                 In India, banks like HDFC, ICICI, and SBI frequently offer 'Personal Loans for Debt Consolidation'. The beauty of this method is that your credit cards are shown as 'Closed' and the new loan is shown as 'Active'. As long as you pay the new EMI on time, your CIBIL score will actually 'increase' because your credit utilization ratio drops to zero. For a total debt of 1.5 Lakhs, this is almost always the superior choice compared to a risky settlement.
               </p>
               <div className="bg-gray-50 p-8 rounded-xl border border-gray-200 mb-8">
-                <h3 className="text-xl font-bold mb-6">Consolidation Checklist for 2025</h3>
+                <h4 className="text-xl font-bold mb-6">Consolidation Checklist for 2025</h4>
                 <ul className="grid md:grid-cols-2 gap-4 text-sm font-medium">
                   <li className="flex items-center gap-2">
                     <span className="w-2 h-2 bg-[#1F5EFF] rounded-full"></span>
@@ -302,9 +302,9 @@ export default function SmallDebtAlternativesPage() {
             </section>
 
             <section id="snowball-vs-avalanche" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight text-center">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight text-center">
                 Snowball vs Avalanche: The Psychological War
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 If you don't qualify for a new loan, you must fight your way out using your existing income. This is where the two most famous debt strategies come into play: the Snowball and the Avalanche.
               </p>
@@ -317,9 +317,9 @@ export default function SmallDebtAlternativesPage() {
             </section>
 
             <section id="balance-transfer-magic" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
                 Section 2: The Balance Transfer Magic
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 If you have a 1 lakh balance on an SBI card and you are being choked by the interest, consider a Balance Transfer to another bank like ICICI or Standard Chartered. Many banks offer 0.5% interest or even 0% interest for the first 3 to 6 months on transferred balances.
               </p>
@@ -329,9 +329,9 @@ export default function SmallDebtAlternativesPage() {
             </section>
 
             <section id="credit-counseling" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
                 Section 3: Professional Credit Counseling
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 Sometimes you don't need a settlement; you just need a better plan. Credit counseling in India has evolved significantly. Organizations like SettleLoans offer 'Debt Management Plans' (DMPs) specifically for smaller amounts.
               </p>
@@ -341,9 +341,9 @@ export default function SmallDebtAlternativesPage() {
             </section>
 
             <section id="self-negotiation" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
                 The Art of Self-Negotiation: DIY Relief
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 If your debt is only 50,000, you have more power than you think. Banks often lose more money trying to recover 50,000 than the profit they would make from it. You can initiate your own 'One Time Settlement' by contacting the bank during 'Lok Adalats' or towards the end of the financial year in March.
               </p>
@@ -353,9 +353,9 @@ export default function SmallDebtAlternativesPage() {
             </section>
 
             <section id="budgeting-frameworks" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
                 Internal Engines: Budgeting Frameworks for 2025
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 No debt strategy works without a budget. In the Indian middle-class context, we recommend the 50/30/20 rule, but adjusted for debt 'Firefighting'. During your debt repayment phase, your budget should look like this: 50% for Needs, 10% for Wants, and 40% for Debt Repayment.
               </p>
@@ -365,7 +365,7 @@ export default function SmallDebtAlternativesPage() {
             </section>
 
             <section id="top-up-loan-relief" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 text-center uppercase tracking-tighter">Top-up Loan Relief: Using Existing Assets</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 text-center uppercase tracking-tighter">Top-up Loan Relief: Using Existing Assets</h3>
               <p className="mb-6">
                 If you have an existing home loan, you might be eligible for a 'Top-up Loan'. These are among the cheapest forms of credit in India, with interest rates often under 10%. By taking 2 Lakhs as a top-up on your home loan, you can clear all your high-interest cards and personal loans instantly.
               </p>
@@ -375,7 +375,7 @@ export default function SmallDebtAlternativesPage() {
             </section>
 
             <section id="cibil-score-protection" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 text-center">CIBIL Score Protection: The Long Game</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 text-center">CIBIL Score Protection: The Long Game</h3>
               <p className="mb-6">
                 Why go through all this trouble instead of just settling? Because in 2025, your CIBIL score is your 'Second ID'. It determines your ability to rent a premium apartment, get a high-limit credit card, or even pass background checks at top tech companies.
               </p>
@@ -383,7 +383,7 @@ export default function SmallDebtAlternativesPage() {
                 A 'Settled' status tells future lenders that you are a person who didn't fulfill their promise. A 'Closed' status via consolidation or gradual repayment tells lenders that you are a disciplined borrower who faced trouble but didn't quit. This difference can save you lakhs of rupees in interest costs over your lifetime.
               </p>
               <div className="bg-[#2E2E2E] text-white p-8 rounded-2xl mb-8">
-                <h3 className="text-xl font-bold mb-4">CIBIL Impact Table</h3>
+                <h4 className="text-xl font-bold mb-4">CIBIL Impact Table</h4>
                 <div className="overflow-x-auto text-sm">
                   <table className="w-full text-left">
                     <thead>
@@ -416,7 +416,7 @@ export default function SmallDebtAlternativesPage() {
             </section>
 
             <section id="common-mistakes" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">What NOT to Do: The Trap of New Credit</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">What NOT to Do: The Trap of New Credit</h3>
               <p className="mb-6">
                 The biggest mistake borrowers make when dealing with small debts is 'Loan App Hopping'. When you have a 50,000 debt you can't pay, you download a 14-day loan app to pay the minimum. Then you download another to pay the first one. Within three months, your 50,000 debt has doubled to 1 Lakh and you now have multiple aggressive agents calling you.
               </p>
@@ -426,14 +426,14 @@ export default function SmallDebtAlternativesPage() {
             </section>
 
             <section id="psychological-win" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 text-center italic">"Debt is not just a math problem; it's a mental one."</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 text-center italic">"Debt is not just a math problem; it's a mental one."</h3>
               <p className="mb-6 text-lg leading-relaxed text-center">
                 The moment you choose an alternative and start a plan, the 'Sense of Control' returns. This is often the most important part of the process. When you feel like you are finally moving 'forward' rather than 'down', your productivity at work improves, your relationships stabilize, and you start making better financial decisions instinctively.
               </p>
             </section>
 
             <section id="long-term-planning" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Beyond the Debt: Building an Emergency Fund</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Beyond the Debt: Building an Emergency Fund</h3>
               <p className="mb-6">
                 Once your small debts are cleared, the final step is to ensure it never happens again. Most people fall into debt because they don't have an 'Emergency Fund'. As you pay off your debts, start saving just ₹500 or ₹1000 a month into a separate liquid fund.
               </p>
@@ -443,7 +443,7 @@ export default function SmallDebtAlternativesPage() {
             </section>
 
             <section id="success-stories" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 text-center uppercase tracking-widest">Real Success Stories</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 text-center uppercase tracking-widest">Real Success Stories</h3>
               <div className="grid md:grid-cols-2 gap-6 not-prose">
                 {[
                   {
@@ -481,7 +481,7 @@ export default function SmallDebtAlternativesPage() {
                         {story.name.charAt(0)}
                       </div>
                       <div>
-                        <h3 className="font-bold text-[#2E2E2E]">{story.name}</h3>
+                        <h4 className="font-bold text-[#2E2E2E]">{story.name}</h4>
                         <p className="text-xs text-gray-400">{story.loc}</p>
                       </div>
                       <div className="ml-auto text-yellow-400 text-sm">★★★★★</div>
@@ -496,7 +496,7 @@ export default function SmallDebtAlternativesPage() {
             </section>
 
             <section id="faqs" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Frequently Asked Questions</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Frequently Asked Questions</h3>
               <div className="space-y-4 not-prose">
                 {jsonLd["@graph"]?.[4] && "mainEntity" in jsonLd["@graph"][4] && (jsonLd["@graph"][4] as any)?.mainEntity?.map((faq: any, i: number) => (
                   <details key={i} className="group bg-white border border-[#DEDEDE] rounded-xl overflow-hidden hover:shadow-md transition-all border-b-4 border-b-[#1F5EFF]/20">
@@ -517,7 +517,7 @@ export default function SmallDebtAlternativesPage() {
             <div className="mt-16 pt-8 border-t border-gray-200">
               <div className="flex flex-col md:flex-row items-center gap-6 p-8 bg-blue-50 rounded-2xl border border-blue-100">
                 <div className="flex-1">
-                  <h3 className="text-2xl font-black text-[#1F5EFF] mb-2">Unsure which method is right for you?</h3>
+                  <h4 className="text-2xl font-black text-[#1F5EFF] mb-2">Unsure which method is right for you?</h4>
                   <p className="text-gray-600 font-bold">Every debt situation is unique. Speak to a professional advisor today to get a custom roadmap for your debt recovery.</p>
                 </div>
                 <Link href="/contact" className="bg-[#1F5EFF] text-white font-black py-4 px-8 rounded-xl hover:scale-105 transition-all shadow-xl">
@@ -530,7 +530,7 @@ export default function SmallDebtAlternativesPage() {
             <div className="lg:hidden mt-8 space-y-8">
               <div className="bg-[#2E2E2E] rounded-2xl shadow-xl overflow-hidden border border-[#DEDEDE]/10 group">
                 <div className="bg-[#1F5EFF] p-6 text-center text-white">
-                  <h3 className="text-2xl font-black mb-2">We are in This Together</h3>
+                  <h4 className="text-2xl font-black mb-2">We are in This Together</h4>
                   <p className="opacity-90 text-sm">Don't settle if you don't have to. Explore restoration options first.</p>
                 </div>
                 <div className="p-8 text-center text-[#DEDEDE]">

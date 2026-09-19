@@ -284,14 +284,14 @@ export default function FiveLakhsLoanSettlementPage() {
                         </section>
 
                         <section id="legal-rights" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
                                 Your Legal Protections: Knowing the Shield in Depth
-                            </h2>
+                            </h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 The first thing every borrower must understand is that defaulting on a loan is not a criminal offense in India, provided there was no fraudulent intent. It is a civil matter. The Reserve Bank of India has established a Fair Practice Code that all lenders must follow when dealing with defaults of any size, including yours. This 5 lakh threshold often triggers specific recovery behaviors from banks, making your knowledge of the law even more critical.
                             </p>
                             <div className="bg-gray-50 p-8 rounded-xl border border-gray-200 mb-8">
-                                <h3 className="text-xl font-bold mb-6">The Borrower Bill of Rights: A Practical Breakdown</h3>
+                                <h4 className="text-xl font-bold mb-6">The Borrower Bill of Rights: A Practical Breakdown</h4>
                                 <p className="mb-6 text-sm text-gray-600">
                                     When you are in the 5 lakh debt bracket, you are likely dealing with high-pressure collection departments. Understanding these rights isn't just academic; it's your daily defense strategy.
                                 </p>
@@ -331,30 +331,30 @@ export default function FiveLakhsLoanSettlementPage() {
                         </section>
 
                         <section id="process" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
                                 The Detailed Step-by-Step Guide to Settling Your 5 Lakh Loan
-                            </h2>
+                            </h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 Settling a loan of this size is not an overnight event. It is a strategic process that requires patience, documentation, and a calm approach. Here is the blueprint for moving from default to closure, ensuring you don't miss a single legal safeguard along the way.
                             </p>
                             <div className="space-y-8 mb-12">
                                 <div className="bg-white p-6 rounded-xl border border-[#DEDEDE] shadow-sm">
-                                    <h3 className="text-xl font-bold text-[#2E2E2E] mb-4">Phase 1: Intellectual and Financial Audit</h3>
+                                    <h4 className="text-xl font-bold text-[#2E2E2E] mb-4">Phase 1: Intellectual and Financial Audit</h4>
                                     <p className="text-gray-600 mb-4">Before you even speak to the bank, you must know your numbers better than they do. Calculate the exact principal you borrowed, the total interest paid to date, and the current 'Settlement Capacity' you have. Settlement capacity is the absolute maximum lump sum you can gather from savings, family, or asset liquidation.</p>
                                     <p className="text-gray-600">Simultaneously, stop all EMI payments if you are already in default. This preserves your liquidity and signals to the bank's system that the account is moving toward 'Non Performing Asset' status, which is a prerequisite for settlement consideration.</p>
                                 </div>
                                 <div className="bg-white p-6 rounded-xl border border-[#DEDEDE] shadow-sm">
-                                    <h3 className="text-xl font-bold text-[#2E2E2E] mb-4">Phase 2: Formal Hardship Communication</h3>
+                                    <h4 className="text-xl font-bold text-[#2E2E2E] mb-4">Phase 2: Formal Hardship Communication</h4>
                                     <p className="text-gray-600 mb-4">Draft a formal letter (or email) to the bank's Nodal Officer. This shouldn't be a plea for mercy; it should be a professional statement of facts. State clearly that due to specific reasons (loss of job, medical crisis, business failure), you are unable to continue the EMIs but are interested in a 'One Time Settlement' to close the account fairly.</p>
                                     <p className="text-gray-600">Attached should be your 'Hardship Portfolio' including salary slips from before and after the crisis, medical reports, or a termination letter. This creates a paper trail that the bank's committee can use to justify your case.</p>
                                 </div>
                                 <div className="bg-white p-6 rounded-xl border border-[#DEDEDE] shadow-sm">
-                                    <h3 className="text-xl font-bold text-[#2E2E2E] mb-4">Phase 3: The Negotiation Dance</h3>
+                                    <h4 className="text-xl font-bold text-[#2E2E2E] mb-4">Phase 3: The Negotiation Dance</h4>
                                     <p className="text-gray-600 mb-4">Expect the bank to say 'No' initially. This is standard procedure. They will try to push you into 'Restructuring' or 'Top up' loans. Stay firm. Repeat that your financial situation only allows for a final settlement. Once they come to the table, start your offer low (around 25% of the principal).</p>
                                     <p className="text-gray-600">During this phase, keep a log of every person you speak to. If an agent tries to push you, refer them to your pending settlement request with the Nodal Officer. This often silences the aggressive recovery branch.</p>
                                 </div>
                                 <div className="bg-white p-6 rounded-xl border border-[#DEDEDE] shadow-sm">
-                                    <h3 className="text-xl font-bold text-[#2E2E2E] mb-4">Phase 4: Sanction and Secure Closure</h3>
+                                    <h4 className="text-xl font-bold text-[#2E2E2E] mb-4">Phase 4: Sanction and Secure Closure</h4>
                                     <p className="text-gray-600 mb-4">Once you reach an agreement (ideally between 40 to 55% of the principal), demand the 'Settlement Sanction Letter'. This is the most crucial document. It must be on official letterhead, contain your loan account number, the exact agreed amount, the payment date, and a clause stating that no further dues will remain.</p>
                                     <p className="text-gray-600 font-bold">Never pay a single rupee until you have this letter in your hand (or email inbox from a verified bank domain). After payment, follow up for the 'No Dues Certificate' (NDC), which should arrive within 15 to 30 days.</p>
                                 </div>
@@ -362,11 +362,11 @@ export default function FiveLakhsLoanSettlementPage() {
                         </section>
 
                         <section id="negotiation" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">Expert Negotiation Tactics for Higher Success</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">Expert Negotiation Tactics for Higher Success</h3>
                             <p className="text-lg leading-relaxed mb-6">Negotiating 5 lakhs is different from negotiating 50,000. For the bank, this is a significant loss, but for you, it's a life-changing amount. You must use every professional lever at your disposal.</p>
                             <div className="space-y-8">
                                 <div className="bg-white p-8 rounded-2xl border border-[#DEDEDE] shadow-sm">
-                                    <h3 className="text-2xl font-bold text-[#1F5EFF] mb-4">The 'Principal-Only' Anchor</h3>
+                                    <h4 className="text-2xl font-bold text-[#1F5EFF] mb-4">The 'Principal-Only' Anchor</h4>
                                     <p className="mb-4">
                                         In any negotiation for 5 lakhs, the bank will start with a high figure based on the 'Total Outstanding', which includes massive penalties and interest. Your negotiation should always 'Anchor' to the Principal borrowed. For example, if you borrowed 5 lakhs and the bank says you owe 7 lakhs with penalties, your offer of 2 lakhs is 40% of the principal, which sounds much more reasonable to a committee than 28% of the total dues.
                                     </p>
@@ -376,7 +376,7 @@ export default function FiveLakhsLoanSettlementPage() {
                                 </div>
 
                                 <div className="bg-white p-8 rounded-2xl border border-[#DEDEDE] shadow-sm">
-                                    <h3 className="text-2xl font-bold text-[#1F5EFF] mb-4">The 'Third-Party Fund' Strategy</h3>
+                                    <h4 className="text-2xl font-bold text-[#1F5EFF] mb-4">The 'Third-Party Fund' Strategy</h4>
                                     <p className="mb-4">
                                         A very effective tactic is to mention that the settlement money is not yours. Tell the bank, "I have no money, but my sister (or a friend) is willing to lend me exactly 2.5 lakhs strictly for a final settlement of this debt. If the bank doesn't accept, she will keep the money to help me with my daily expenses."
                                     </p>
@@ -386,7 +386,7 @@ export default function FiveLakhsLoanSettlementPage() {
                                 </div>
 
                                 <div className="bg-white p-8 rounded-2xl border border-[#DEDEDE] shadow-sm">
-                                    <h3 className="text-2xl font-bold text-[#1F5EFF] mb-4">Leveraging the 'Write-Off' Threshold</h3>
+                                    <h4 className="text-2xl font-bold text-[#1F5EFF] mb-4">Leveraging the 'Write-Off' Threshold</h4>
                                     <p className="mb-4">
                                         Banks have internal thresholds for when a loan is considered a 'write-off' or 'loss'. For a 5 lakh personal loan, this often happens after 180-360 days of continuous default. Once a loan is classified as a loss, the bank has already accounted for it in their books. At this point, any recovery, even a partial one, is seen as a bonus.
                                     </p>
@@ -398,14 +398,14 @@ export default function FiveLakhsLoanSettlementPage() {
                         </section>
 
                         <section id="emi-vs-settlement" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">EMI Restructuring vs. Loan Settlement: Which Path for 5 Lakhs?</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">EMI Restructuring vs. Loan Settlement: Which Path for 5 Lakhs?</h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 When facing difficulty with a 5 lakh loan, banks will often first offer EMI restructuring. It's crucial to understand the fundamental differences between restructuring and settlement to make an informed decision that aligns with your long-term financial health.
                             </p>
 
                             <div className="space-y-8">
                                 <div className="bg-white p-8 rounded-2xl border border-[#DEDEDE] shadow-sm">
-                                    <h3 className="text-2xl font-bold text-[#1F5EFF] mb-4">EMI Restructuring: A Temporary Reprieve</h3>
+                                    <h4 className="text-2xl font-bold text-[#1F5EFF] mb-4">EMI Restructuring: A Temporary Reprieve</h4>
                                     <p className="mb-4">
                                         EMI restructuring involves changing the terms of your existing loan. This could mean extending the loan tenure to reduce your monthly EMI, offering a moratorium period (a temporary pause in payments), or even reducing the interest rate for a short period.
                                     </p>
@@ -419,7 +419,7 @@ export default function FiveLakhsLoanSettlementPage() {
                                 </div>
 
                                 <div className="bg-white p-8 rounded-2xl border border-[#DEDEDE] shadow-sm">
-                                    <h3 className="text-2xl font-bold text-[#1F5EFF] mb-4">Loan Settlement: A Clean Break</h3>
+                                    <h4 className="text-2xl font-bold text-[#1F5EFF] mb-4">Loan Settlement: A Clean Break</h4>
                                     <p className="mb-4">
                                         Loan settlement, as discussed, involves paying a lump sum amount that is less than the total outstanding, in exchange for the bank closing the account and waiving the remaining debt.
                                     </p>
@@ -438,19 +438,19 @@ export default function FiveLakhsLoanSettlementPage() {
                         </section>
 
                         <section id="cibil-impact" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Analyzing the CIBIL Impact of Settlement</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Analyzing the CIBIL Impact of Settlement</h3>
                             <p className="mb-6">
                                 A common worry is the 'black mark' on your credit report. It is true that a settlement of 5 lakhs will have a significant impact, but it is important to put this into perspective. A settled loan is far better than a loan that remains open in default for years.
                             </p>
                             <div className="grid md:grid-cols-2 gap-6 mb-8">
                                 <div className="bg-blue-50/50 p-6 rounded-xl border border-blue-100">
-                                    <h3 className="text-xl font-bold text-blue-800 mb-3">Immediate vs Long Term</h3>
+                                    <h4 className="text-xl font-bold text-blue-800 mb-3">Immediate vs Long Term</h4>
                                     <p className="text-sm text-blue-900/80 leading-relaxed">
                                         Immediately after settlement, your score might drop by up to 150 points. However, this is the floor. From this point, you can begin the journey of rebuilding. If you do not settle, your score will continue to bleed indefinitely.
                                     </p>
                                 </div>
                                 <div className="bg-green-50/50 p-6 rounded-xl border border-green-100">
-                                    <h3 className="text-xl font-bold text-green-800 mb-3">The Power of Closure</h3>
+                                    <h4 className="text-xl font-bold text-green-800 mb-3">The Power of Closure</h4>
                                     <p className="text-sm text-green-900/80 leading-relaxed">
                                         Once the account is closed, the 'Debt to Income' ratio improves significantly. While the 'Settled' status remains for 7 years, many future lenders (especially for smaller or secured credit) will see that you eventually took responsibility and closed your old dues.
                                     </p>
@@ -459,12 +459,12 @@ export default function FiveLakhsLoanSettlementPage() {
                         </section>
 
                         <section id="documentation" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Essential Paperwork: Building Your Case</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Essential Paperwork: Building Your Case</h3>
                             <p className="mb-6">
                                 Banks deal with thousands of defaults. To get your 5 lakh settlement approved, your file needs to stand out as a genuine case of hardship. This is achieved through solid documentation.
                             </p>
                             <div className="bg-blue-50 p-8 rounded-2xl border border-blue-100 mb-8">
-                                <h3 className="text-2xl font-black text-[#2E2E2E] mb-6">The Hardship Portfolio</h3>
+                                <h4 className="text-2xl font-black text-[#2E2E2E] mb-6">The Hardship Portfolio</h4>
                                 <ul className="space-y-4">
                                     <li className="flex items-center gap-4 bg-white p-4 rounded-lg">
                                         <span className="font-bold text-[#1F5EFF]">1. Proof of Income Drop:</span>
@@ -483,12 +483,12 @@ export default function FiveLakhsLoanSettlementPage() {
                         </section>
 
                         <section id="pitfalls" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Common Pitfalls: What to Avoid</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Common Pitfalls: What to Avoid</h3>
                             <p className="mb-6 text-red-600 font-bold">
                                 Desperation can lead to mistakes that cost you more than the original debt. Stay vigilant against these common traps.
                             </p>
                             <div className="bg-red-50 border-l-4 border-red-500 p-8 rounded-r-xl mb-8">
-                                <h3 className="text-xl font-bold text-red-800 mb-4">Never Do These Things</h3>
+                                <h4 className="text-xl font-bold text-red-800 mb-4">Never Do These Things</h4>
                                 <ul className="space-y-3 text-red-900/80">
                                     <li>• <strong>Paying without a Letter:</strong> Verbal promises are meaningless. No letter means no payment.</li>
                                     <li>• <strong>Sharing OTPs:</strong> No bank or legitimate agency will ask for your OTP or login details.</li>
@@ -499,7 +499,7 @@ export default function FiveLakhsLoanSettlementPage() {
                         </section>
 
                         <section id="case-studies" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 text-center">Real Stories of 5 Lakh Freedom</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 text-center">Real Stories of 5 Lakh Freedom</h3>
                             <div className="grid md:grid-cols-2 gap-6 not-prose">
                                 {[
                                     {
@@ -523,7 +523,7 @@ export default function FiveLakhsLoanSettlementPage() {
                                                 {review.name.charAt(0)}
                                             </div>
                                             <div>
-                                                <h3 className="font-bold text-[#2E2E2E]">{review.name}</h3>
+                                                <h4 className="font-bold text-[#2E2E2E]">{review.name}</h4>
                                                 <p className="text-xs text-gray-400">{review.loc}</p>
                                             </div>
                                             <div className="ml-auto text-yellow-400 text-sm">★★★★★</div>
@@ -538,7 +538,7 @@ export default function FiveLakhsLoanSettlementPage() {
                         </section>
 
                         <section id="faqs" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Frequently Asked Questions</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Frequently Asked Questions</h3>
                             <div className="space-y-4 not-prose">
                                 {[
                                     { q: "Is 40% a good settlement for 5 lakhs?", a: "Generally, yes. For a 5 lakh personal loan, a settlement between 35% and 50% is considered a very successful outcome. It covers a significant portion of the principal while giving you substantial relief." },

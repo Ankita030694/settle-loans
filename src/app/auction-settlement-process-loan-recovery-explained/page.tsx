@@ -282,9 +282,9 @@ export default function AuctionSettlementProcessPage() {
             </section>
 
             <section id="sarfaesi-process" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 The Legal Auction Process Explained
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 Under the SARFAESI Act, banks have the authority to recover bad loans by auctioning the mortgaged property without dragging the matter through civil courts. However, they must follow a specific sequence of actions.
               </p>
@@ -293,7 +293,7 @@ export default function AuctionSettlementProcessPage() {
                 <div className="flex gap-6">
                   <div className="flex-shrink-0 w-12 h-12 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center font-black text-xl shadow-lg">1</div>
                   <div>
-                    <h3 className="text-2xl font-bold text-[#2E2E2E] mb-3">NPA Classification</h3>
+                    <h4 className="text-2xl font-bold text-[#2E2E2E] mb-3">NPA Classification</h4>
                     <p className="text-lg leading-relaxed text-gray-700">
                       Your loan account is classified as a Non-Performing Asset (NPA) if you fail to pay your EMI for 90 consecutive days. This triggers the beginning of the legal recovery process.
                     </p>
@@ -303,7 +303,7 @@ export default function AuctionSettlementProcessPage() {
                 <div className="flex gap-6">
                   <div className="flex-shrink-0 w-12 h-12 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center font-black text-xl shadow-lg">2</div>
                   <div>
-                    <h3 className="text-2xl font-bold text-[#2E2E2E] mb-3">60-Day Demand Notice (Section 13(2))</h3>
+                    <h4 className="text-2xl font-bold text-[#2E2E2E] mb-3">60-Day Demand Notice (Section 13(2))</h4>
                     <p className="text-lg leading-relaxed text-gray-700">
                       The bank issues a legal demand notice under Section 13(2) of the SARFAESI Act, giving you 60 days to clear the outstanding dues. You have the right to file an objection to this notice within 15 days, which the bank must officially reply to.
                     </p>
@@ -313,7 +313,7 @@ export default function AuctionSettlementProcessPage() {
                 <div className="flex gap-6">
                   <div className="flex-shrink-0 w-12 h-12 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center font-black text-xl shadow-lg">3</div>
                   <div>
-                    <h3 className="text-2xl font-bold text-[#2E2E2E] mb-3">Symbolic Possession (Section 13(4))</h3>
+                    <h4 className="text-2xl font-bold text-[#2E2E2E] mb-3">Symbolic Possession (Section 13(4))</h4>
                     <p className="text-lg leading-relaxed text-gray-700">
                       If the dues are not paid after 60 days, the bank issues a possession notice under Section 13(4). This is usually "symbolic possession," meaning they legally control the property, but you still physically reside there. They will publish this notice in two leading newspapers.
                     </p>
@@ -323,7 +323,7 @@ export default function AuctionSettlementProcessPage() {
                 <div className="flex gap-6">
                   <div className="flex-shrink-0 w-12 h-12 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center font-black text-xl shadow-lg">4</div>
                   <div>
-                    <h3 className="text-2xl font-bold text-[#2E2E2E] mb-3">30-Day Sale Notice</h3>
+                    <h4 className="text-2xl font-bold text-[#2E2E2E] mb-3">30-Day Sale Notice</h4>
                     <p className="text-lg leading-relaxed text-gray-700">
                       Before auctioning the property, the bank must provide a mandatory 30-day (or 15-day in some subsequent auctions) sale notice. This notice details the reserve price, earnest money deposit, and the date of the auction.
                     </p>
@@ -333,12 +333,12 @@ export default function AuctionSettlementProcessPage() {
             </section>
 
             <section id="stop-auction" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 How to Stop a Bank Auction
-              </h2>
+              </h3>
               
               <div className="bg-blue-50 border-l-8 border-[#1F5EFF] p-8 rounded-r-2xl mb-8">
-                <h3 className="text-xl font-black text-[#1F5EFF] mb-4">Your Legal Right of Redemption</h3>
+                <h4 className="text-xl font-black text-[#1F5EFF] mb-4">Your Legal Right of Redemption</h4>
                 <p className="text-lg leading-relaxed text-blue-900 mb-4">
                   Indian law provides a "Right of Redemption" which means a borrower can save their property by paying the dues or negotiating a settlement right up to the moment the bank issues the final sale certificate to a buyer.
                 </p>
@@ -359,7 +359,7 @@ export default function AuctionSettlementProcessPage() {
               </div>
 
               <div className="bg-gray-50 p-8 rounded-2xl mb-8 border border-gray-200">
-                <h3 className="text-2xl font-bold text-[#2E2E2E] mb-4">Common Procedural Flaws by Banks</h3>
+                <h4 className="text-2xl font-bold text-[#2E2E2E] mb-4">Common Procedural Flaws by Banks</h4>
                 <p className="text-lg leading-relaxed text-gray-700 mb-4">
                   Banks often rush the process and make procedural errors. If your legal counsel identifies these, you can get the auction stayed in the DRT:
                 </p>
@@ -374,34 +374,34 @@ export default function AuctionSettlementProcessPage() {
             </section>
 
             <section id="drt-role" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 The Role of the DRT
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 The Debt Recovery Tribunal (DRT) is a specialized quasi-judicial body created to handle debt recovery cases. If a bank violates SARFAESI guidelines, civil courts generally cannot intervene. The DRT is your legal battleground.
               </p>
 
               <div className="grid md:grid-cols-2 gap-6 my-8">
                 <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
-                  <h3 className="font-black text-[#1F5EFF] text-lg mb-3">Securitization Application (SA)</h3>
+                  <h4 className="font-black text-[#1F5EFF] text-lg mb-3">Securitization Application (SA)</h4>
                   <p className="text-gray-700 text-sm leading-relaxed">
                     Under Section 17 of SARFAESI, you can file an SA in the DRT challenging the bank's actions. This is your primary weapon to halt an illegal auction.
                   </p>
                 </div>
                 <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
-                  <h3 className="font-black text-[#1F5EFF] text-lg mb-3">Obtaining a Stay Order</h3>
+                  <h4 className="font-black text-[#1F5EFF] text-lg mb-3">Obtaining a Stay Order</h4>
                   <p className="text-gray-700 text-sm leading-relaxed">
                     If the DRT finds prima facie evidence that the bank erred in its procedure, it will issue a stay order, immediately freezing the auction process.
                   </p>
                 </div>
                 <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
-                  <h3 className="font-black text-[#1F5EFF] text-lg mb-3">Condition of Pre-Deposit</h3>
+                  <h4 className="font-black text-[#1F5EFF] text-lg mb-3">Condition of Pre-Deposit</h4>
                   <p className="text-gray-700 text-sm leading-relaxed">
                     To show bona fide intent, the DRT may ask the borrower to deposit a percentage of the dues (often 10% to 25%) to grant the stay order.
                   </p>
                 </div>
                 <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
-                  <h3 className="font-black text-[#1F5EFF] text-lg mb-3">Challenging Valuation</h3>
+                  <h4 className="font-black text-[#1F5EFF] text-lg mb-3">Challenging Valuation</h4>
                   <p className="text-gray-700 text-sm leading-relaxed">
                     The DRT can order a fresh valuation if it is proven that the bank intentionally suppressed the property's market value to sell it cheaply.
                   </p>
@@ -409,7 +409,7 @@ export default function AuctionSettlementProcessPage() {
               </div>
 
               <div className="bg-red-50 p-6 rounded-xl border border-red-100 mb-8">
-                <h4 className="text-xl font-bold text-red-700 mb-3">Time is Critical (45 Days)</h4>
+                <h5 className="text-xl font-bold text-red-700 mb-3">Time is Critical (45 Days)</h5>
                 <p className="text-lg leading-relaxed text-red-900">
                   You only have exactly 45 days from the date the bank takes action (such as issuing a possession notice) to file your Securitization Application in the DRT. Do not wait for the auction date to approach before consulting a lawyer.
                 </p>
@@ -417,9 +417,9 @@ export default function AuctionSettlementProcessPage() {
             </section>
 
             <section id="settlement" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 Negotiating a Settlement
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 Banks generally prefer settlements over auctions because auctions are tedious, legally risky, and often fail to find buyers. An auction notice is frequently used as a pressure tactic to force borrowers to the table.
               </p>
@@ -429,9 +429,9 @@ export default function AuctionSettlementProcessPage() {
             </section>
 
             <section id="success-stories" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 Success Stories: Homes Saved
-              </h2>
+              </h3>
               <div className="grid md:grid-cols-2 gap-6">
                 
                 {/* Story 1 */}
@@ -441,7 +441,7 @@ export default function AuctionSettlementProcessPage() {
                       RM
                     </div>
                     <div>
-                      <h3 className="font-bold text-gray-900">Rajesh M.</h3>
+                      <h4 className="font-bold text-gray-900">Rajesh M.</h4>
                       <div className="flex text-yellow-400">
                         <svg className="w-4 h-4 fill-current" viewBox="0 0 20 20"><path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z"/></svg>
                         <svg className="w-4 h-4 fill-current" viewBox="0 0 20 20"><path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z"/></svg>
@@ -467,7 +467,7 @@ export default function AuctionSettlementProcessPage() {
                       MS
                     </div>
                     <div>
-                      <h4 className="font-bold text-gray-900">Meera S.</h4>
+                      <h5 className="font-bold text-gray-900">Meera S.</h5>
                       <div className="flex text-yellow-400">
                         <svg className="w-4 h-4 fill-current" viewBox="0 0 20 20"><path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z"/></svg>
                         <svg className="w-4 h-4 fill-current" viewBox="0 0 20 20"><path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z"/></svg>
@@ -489,13 +489,13 @@ export default function AuctionSettlementProcessPage() {
             </section>
 
             <section id="faqs" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 Frequently Asked Questions
-              </h2>
+              </h3>
               <div className="space-y-4">
                 {jsonLd["@graph"].find(item => item["@type"] === "FAQPage")?.mainEntity?.map((faq: any, index: number) => (
                   <div key={index} className="bg-white border border-[#DEDEDE] rounded-xl p-6 hover:shadow-md transition-shadow">
-                    <h3 className="text-xl font-bold text-[#2E2E2E] mb-3">{faq.name}</h3>
+                    <h4 className="text-xl font-bold text-[#2E2E2E] mb-3">{faq.name}</h4>
                     <p className="text-gray-700 leading-relaxed">{faq.acceptedAnswer.text}</p>
                   </div>
                 ))}
@@ -504,7 +504,7 @@ export default function AuctionSettlementProcessPage() {
 
             <div className="bg-[#2E2E2E] text-white p-12 rounded-[40px] text-center mt-24 relative overflow-hidden group">
               <div className="absolute inset-0 bg-[#1F5EFF] opacity-0 group-hover:opacity-5 transition-opacity"></div>
-              <h3 className="text-3xl font-black mb-6 relative z-10">Stop the Auction Before It's Too Late</h3>
+              <h4 className="text-3xl font-black mb-6 relative z-10">Stop the Auction Before It's Too Late</h4>
               <p className="text-xl opacity-90 mb-8 relative z-10 max-w-2xl mx-auto">
                 Is the bank threatening to auction your property? Understand the strict legal auction process and how you can stop it with expert DRT intervention.
               </p>

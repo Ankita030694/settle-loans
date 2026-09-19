@@ -270,9 +270,9 @@ export default function NonClosureSettledLoanPage() {
                         </section>
 
                         <section id="impact-cibil-score" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
                                 The Devastating Impact on Your CIBIL Score
-                            </h2>
+                            </h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 Your credit score is not just a number; it is your passport to financial freedom. When a bank fails to update your status, they are effectively telling the entire financial ecosystem that you are still a defaulter. This leads to a persistent 'Days Past Due' (DPD) record that grows with every month of non-closure.
                             </p>
@@ -282,14 +282,14 @@ export default function NonClosureSettledLoanPage() {
                         </section>
 
                         <section id="noc-legal-requirement" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
                                 NOC: The Legal Requirement for Every Bank in India
-                            </h2>
+                            </h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 A No Objection Certificate (NOC) or No Dues Certificate (NDC) is a legally binding document that the bank is obligated to provide once a loan is liquidated. Under the RBI's Fair Practices Code, banks are mandated to return all original securities/documents and issue a closure certificate within a reasonable period.
                             </p>
                             <div className="bg-red-50 p-8 rounded-xl border border-red-200 mb-8">
-                                <h3 className="text-xl font-bold mb-4 text-red-900">Why an Email is Not Enough</h3>
+                                <h4 className="text-xl font-bold mb-4 text-red-900">Why an Email is Not Enough</h4>
                                 <p className="text-sm text-red-800 leading-relaxed mb-4">
                                     An informal email from a collection manager saying 'your loan is settled' has limited legal weight. You required a formal document on the bank's official letterhead, bearing the seal and signature of a branch manager or an authorized Nodal Officer. This document is your only shield against future claims by a debt collection agency or a third party asset reconstruction company (ARC).
                                 </p>
@@ -300,9 +300,9 @@ export default function NonClosureSettledLoanPage() {
                         </section>
 
                         <section id="rbi-guidelines-updates" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
                                 New RBI Reporting Guidelines: 2024 Update
-                            </h2>
+                            </h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 Starting in 2024, the Reserve Bank of India has massively tightened the rules for credit reporting. Lenders are now required to report credit information to bureaus like CIBIL, Experian, and High Mark at least once every fortnight, or even more frequently as agreed. This means the excuse of 'it will take 3 months to update' is no longer legally valid.
                             </p>
@@ -312,7 +312,7 @@ export default function NonClosureSettledLoanPage() {
                         </section>
 
                         <section id="common-bank-delays" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Common Causes of Delay: From Laziness to System Errors</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Common Causes of Delay: From Laziness to System Errors</h3>
                             <p className="mb-6">
                                 Why do banks delay? Often, it's a breakdown between the 'Settlement Team' (who wants your money) and the 'Operations Team' (who has to update the system). In other cases, a small residue of 'unpaid charges' or 'penalty interest' remains in the system because the settlement officer didn't properly waive them in the software.
                             </p>
@@ -322,19 +322,19 @@ export default function NonClosureSettledLoanPage() {
                         </section>
 
                         <section id="initial-reconciliation" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Steps for Self-Resolution: Your Initial Response</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Steps for Self-Resolution: Your Initial Response</h3>
                             <p className="mb-6 text-lg">
                                 Before seeking aggressive legal help, it's wise to create a documented effort to resolve the issue directly with the bank. This 'paper trail' is essential if the case eventually goes to the Ombudsman or Court.
                             </p>
                             <div className="grid md:grid-cols-2 gap-6 mb-8">
                                 <div className="bg-blue-50/50 p-6 rounded-xl border border-blue-100">
-                                    <h3 className="text-xl font-bold text-blue-800 mb-3">Email the Grievance Officer</h3>
+                                    <h4 className="text-xl font-bold text-blue-800 mb-3">Email the Grievance Officer</h4>
                                     <p className="text-sm text-blue-900/80 leading-relaxed">
                                         Don't just talk to the branch clerk. Find the email of the bank's 'Principal Nodal Officer' (PNO). Clearly state the date of settlement, the amount paid, and attach the proof of payment. Ask for the NOC and CIBIL update within 15 days.
                                     </p>
                                 </div>
                                 <div className="bg-green-50/50 p-6 rounded-xl border border-green-100">
-                                    <h3 className="text-xl font-bold text-green-800 mb-3">Visit the Nodal Branch</h3>
+                                    <h4 className="text-xl font-bold text-green-800 mb-3">Visit the Nodal Branch</h4>
                                     <p className="text-sm text-green-900/80 leading-relaxed">
                                         Sometimes a physical visit with a printed copy of the payment receipt is necessary. Get any verbal promises in writing or recorded. Always get an 'Acknowledgement' stamp on a copy of your complaint letter.
                                     </p>
@@ -343,12 +343,12 @@ export default function NonClosureSettledLoanPage() {
                         </section>
 
                         <section id="legal-notice-strategy" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">The Power of a Strategic Legal Notice</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">The Power of a Strategic Legal Notice</h3>
                             <p className="mb-6">
                                 When friendly emails are ignored, a Legal Notice changes the tone of the conversation. A formal notice drafted by SettleLoans' lawyers isn't just a request; it's a warning. It outlines the specific statutes the bank is violating (including the Credit Information Companies Act) and the potential damages we will seek in court.
                             </p>
                             <div className="bg-white p-8 rounded-2xl border border-[#DEDEDE] shadow-sm mb-8">
-                                <h3 className="text-2xl font-bold text-[#1F5EFF] mb-4">What a Legal Notice Accomplishes</h3>
+                                <h4 className="text-2xl font-bold text-[#1F5EFF] mb-4">What a Legal Notice Accomplishes</h4>
                                 <ul className="space-y-4">
                                     <li className="flex items-start gap-3">
                                         <span className="text-[#1F5EFF] font-bold">01.</span>
@@ -367,7 +367,7 @@ export default function NonClosureSettledLoanPage() {
                         </section>
 
                         <section id="rbi-ombudsman-process" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Navigating the RBI Ombudsman Process</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Navigating the RBI Ombudsman Process</h3>
                             <p className="mb-6">
                                 The RBI's Integrated Ombudsman Scheme is a powerful, cost free mechanism for borrowers. However, filing a complaint successfully requires precision. You must prove that you followed the bank's internal grievance process first. We help you draft the 'Statement of Facts' and the 'Prayer for Relief' to ensure your complaint is not rejected on technical grounds.
                             </p>
@@ -377,7 +377,7 @@ export default function NonClosureSettledLoanPage() {
                         </section>
 
                         <section id="consumer-court-recourse" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Consumer Court: When the Damage is Severe</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Consumer Court: When the Damage is Severe</h3>
                             <p className="mb-6">
                                 If the bank's failure to close your loan has led to the denial of a crucial business loan or a home purchase, the damages can run into lakhs. In such cases, we advise filing a complaint in the District Consumer Disputes Redressal Forum. A bank's failure to update credit records is a classic case of 'Deficiency in Service.'
                             </p>
@@ -387,7 +387,7 @@ export default function NonClosureSettledLoanPage() {
                         </section>
 
                         <section id="compensation-framework" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">The RBI Penalty Framework for Delays</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">The RBI Penalty Framework for Delays</h3>
                             <p className="mb-6">
                                 Did you know that RBI rules now impose a daily penalty on banks for certain delays? For example, if a bank fails to return original property documents within 30 days of loan repayment, they must pay the borrower ₹5,000 for every day of delay. While NOC issuance has a slightly different framework, the principle is the same: time is money.
                             </p>
@@ -397,12 +397,12 @@ export default function NonClosureSettledLoanPage() {
                         </section>
 
                         <section id="cibil-dispute-resolution" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Direct CIBIL Dispute Resolution</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Direct CIBIL Dispute Resolution</h3>
                             <p className="mb-6 text-lg">
                                 While the bank is the primary source of the error, you can also take direct action with the credit bureaus. CIBIL has a robust 'Dispute Resolution' portal where you can challenge specific entries.
                             </p>
                             <div className="bg-emerald-50 p-8 rounded-2xl border border-emerald-100 mb-8">
-                                <h3 className="text-xl font-bold text-emerald-800 mb-4">How to Win a CIBIL Dispute</h3>
+                                <h4 className="text-xl font-bold text-emerald-800 mb-4">How to Win a CIBIL Dispute</h4>
                                 <ul className="space-y-4">
                                     <li className="flex items-start gap-2 text-emerald-900/80">
                                         <span className="font-bold">1. Upload Evidence:</span> Don't just claim the loan is settled. Upload the NOC, the settlement letter, and the payment bank statement.
@@ -418,19 +418,19 @@ export default function NonClosureSettledLoanPage() {
                         </section>
 
                         <section id="documenting-everything" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Creating an Irrefutable Paper Trail</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Creating an Irrefutable Paper Trail</h3>
                             <p className="mb-6">
                                 In legal disputes, the one with the better folder wins. We guide our clients to maintain a 'Settlement Ledger.' This includes every email, every SMS, and every call log related to the loan closure. We also advise sending physical letters via Registered Post with Acknowledgement Due (RPAD) for critical complaints, as these provide proof of delivery that a court of law cannot ignore.
                             </p>
                         </section>
 
                         <section id="professional-audit" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">The SettleLoans Credit Integrity Audit</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">The SettleLoans Credit Integrity Audit</h3>
                             <p className="mb-6">
                                 Our approach is systematic. When you come to us for help with non-closure, we conduct a 'Credit Integrity Audit.' We review your credit reports from all four bureaus, analyze your settlement documents for potential legal loopholes, and map out the specific regulatory violations made by each lender. We don't just solve one loan; we ensure your entire credit profile is accurate and clean.
                             </p>
                             <div className="bg-[#2E2E2E] text-white p-8 rounded-2xl mb-8">
-                                <h3 className="text-2xl font-bold mb-4">Our Resolution Toolkit</h3>
+                                <h4 className="text-2xl font-bold mb-4">Our Resolution Toolkit</h4>
                                 <ul className="space-y-3 text-sm opacity-90">
                                     <li className="flex items-center gap-2">✓ Advanced deep-research into RBI Fair Practices.</li>
                                     <li className="flex items-center gap-2">✓ Forensic auditing of settlement letters and bank receipts.</li>
@@ -442,7 +442,7 @@ export default function NonClosureSettledLoanPage() {
                         </section>
 
                         <section id="success-stories" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 text-center">Justice Delivered: Real Client Wins</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 text-center">Justice Delivered: Real Client Wins</h3>
                             <div className="grid md:grid-cols-2 gap-6 not-prose">
                                 {[
                                     {
@@ -480,7 +480,7 @@ export default function NonClosureSettledLoanPage() {
                                                 {review.name.charAt(0)}
                                             </div>
                                             <div>
-                                                <h3 className="font-bold text-[#2E2E2E]">{review.name}</h3>
+                                                <h4 className="font-bold text-[#2E2E2E]">{review.name}</h4>
                                                 <p className="text-xs text-gray-400">{review.loc}</p>
                                             </div>
                                             <div className="ml-auto text-yellow-400 text-sm">★★★★★</div>
@@ -495,7 +495,7 @@ export default function NonClosureSettledLoanPage() {
                         </section>
 
                         <section id="future-protections" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Preventing Future Non-Closure Issues</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Preventing Future Non-Closure Issues</h3>
                             <p className="mb-6">
                                 The best way to handle non-closure is to prevent it during the settlement itself. Always demand a 'Settlement Approval Letter' from the bank's official email domain before making payment. Within the letter, ensure there is a clause stating that 'upon payment, the bank will issue the NOC and update credit bureaus within 15 days.' Having this in the contract gives you direct legal leverage.
                             </p>
@@ -505,7 +505,7 @@ export default function NonClosureSettledLoanPage() {
                         </section>
 
                         <section id="faqs" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Frequently Asked Questions</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Frequently Asked Questions</h3>
                             <div className="space-y-4 not-prose">
                                 {[
                                     { q: "Can a bank reopen a settled loan after several years?", a: "If you have a valid NOC and settlement letter, they cannot legally reopen the case. However, ARCs (Asset Reconstruction Companies) sometimes buy old debt and try to recover it. This is why preserving your NOC forever is critical." },
@@ -542,7 +542,7 @@ export default function NonClosureSettledLoanPage() {
                         <div className="lg:hidden mt-16 mb-8">
                             <div className="bg-[#2E2E2E] rounded-2xl shadow-xl overflow-hidden border border-[#1F5EFF]/20">
                                 <div className="bg-[#1F5EFF] p-6 text-center text-white">
-                                    <h3 className="text-2xl font-black mb-2">Claim Your NOC Now</h3>
+                                    <h4 className="text-2xl font-black mb-2">Claim Your NOC Now</h4>
                                     <p className="opacity-90 text-sm">Join the 10,000+ Indians we've helped reclaim their financial dignity.</p>
                                 </div>
                                 <div className="p-8 text-center text-[#DEDEDE]">

@@ -256,12 +256,12 @@ export default function WhatIsLineOfCredit() {
             </section>
 
             <section id="how-it-works" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 How Does This Revolving Credit Facility Work?
-              </h2>
+              </h3>
               
               <div className="bg-blue-50 border-l-8 border-[#1F5EFF] p-8 rounded-r-2xl mb-8">
-                <h3 className="text-xl font-black text-[#1F5EFF] mb-4">The Mechanics of an LOC</h3>
+                <h4 className="text-xl font-black text-[#1F5EFF] mb-4">The Mechanics of an LOC</h4>
                 <p className="text-lg leading-relaxed mb-4 text-blue-900">
                   Understanding how it works is key to maximizing its benefits. Here is the step-by-step process:
                 </p>
@@ -287,21 +287,21 @@ export default function WhatIsLineOfCredit() {
             </section>
 
             <section id="personal-loan-vs-line-of-credit" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 Personal Loan vs Line of Credit: Which is Better?
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6 text-gray-700">
                 People often get confused between a personal loan and a line of credit. Let's break down the core differences so you can make an informed decision.
               </p>
 
               <div className="grid md:grid-cols-2 gap-6 my-8">
                 <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
-                  <h3 className="font-black text-[#1F5EFF] text-lg mb-3">Line of Credit</h3>
+                  <h4 className="font-black text-[#1F5EFF] text-lg mb-3">Line of Credit</h4>
                   <p className="text-base text-gray-700">Flexible withdrawals up to an approved limit. Best for ongoing, unpredictable expenses or emergencies.</p>
                   <p className="text-base text-gray-700 mt-2 font-bold">Interest charged only on used amount.</p>
                 </div>
                 <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
-                  <h3 className="font-black text-[#1F5EFF] text-lg mb-3">Personal Loan</h3>
+                  <h4 className="font-black text-[#1F5EFF] text-lg mb-3">Personal Loan</h4>
                   <p className="text-base text-gray-700">A fixed lump sum disbursed at once. Ideal for a single, large, planned expense like a wedding or renovation.</p>
                   <p className="text-base text-gray-700 mt-2 font-bold">Interest charged on the entire loan amount.</p>
                 </div>
@@ -309,29 +309,29 @@ export default function WhatIsLineOfCredit() {
             </section>
 
             <section id="benefits" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 Key Benefits of a Line of Credit
-              </h2>
+              </h3>
               
               <div className="space-y-12">
                 <div className="flex gap-6">
                   <div className="flex-shrink-0 w-12 h-12 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center font-black text-xl shadow-lg">1</div>
                   <div>
-                    <h3 className="text-2xl font-bold text-[#2E2E2E] mb-3">Cost-Effective Borrowing</h3>
+                    <h4 className="text-2xl font-bold text-[#2E2E2E] mb-3">Cost-Effective Borrowing</h4>
                     <p className="text-lg text-gray-700">Because you only pay interest on what you use, an LOC can be vastly cheaper than a traditional loan if you don't need all the funds at once.</p>
                   </div>
                 </div>
                 <div className="flex gap-6">
                   <div className="flex-shrink-0 w-12 h-12 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center font-black text-xl shadow-lg">2</div>
                   <div>
-                    <h3 className="text-2xl font-bold text-[#2E2E2E] mb-3">Readily Available Funds</h3>
+                    <h4 className="text-2xl font-bold text-[#2E2E2E] mb-3">Readily Available Funds</h4>
                     <p className="text-lg text-gray-700">It acts as a financial safety net. Once approved, the funds are sitting there, ready to be transferred to your account instantly with zero paperwork.</p>
                   </div>
                 </div>
                 <div className="flex gap-6">
                   <div className="flex-shrink-0 w-12 h-12 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center font-black text-xl shadow-lg">3</div>
                   <div>
-                    <h3 className="text-2xl font-bold text-[#2E2E2E] mb-3">Flexible Repayment</h3>
+                    <h4 className="text-2xl font-bold text-[#2E2E2E] mb-3">Flexible Repayment</h4>
                     <p className="text-lg text-gray-700">Unlike fixed EMIs of personal loans, an LOC usually requires you to pay a minimum amount each month (mostly interest), giving you breathing room when cash is tight.</p>
                   </div>
                 </div>
@@ -339,9 +339,9 @@ export default function WhatIsLineOfCredit() {
             </section>
 
             <section id="things-to-keep-in-mind" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 Things to Keep in Mind
-              </h2>
+              </h3>
               
               <div className="bg-gray-50 p-8 rounded-2xl mb-8 border border-gray-200">
                 <p className="text-lg leading-relaxed text-gray-800">
@@ -350,7 +350,7 @@ export default function WhatIsLineOfCredit() {
               </div>
 
               <div className="bg-red-50 p-6 rounded-xl border border-red-100 mb-8">
-                <h3 className="text-xl font-black text-red-700 mb-4">Warning: Hidden Fees</h3>
+                <h4 className="text-xl font-black text-red-700 mb-4">Warning: Hidden Fees</h4>
                 <p className="text-lg leading-relaxed text-red-900 mb-2">
                   Always check the fine print for:
                 </p>
@@ -363,9 +363,9 @@ export default function WhatIsLineOfCredit() {
             </section>
 
             <section id="success-stories" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 User Experiences
-              </h2>
+              </h3>
               <div className="grid md:grid-cols-2 gap-6 my-8">
                 {/* Review 1 */}
                 <div className="bg-white p-8 rounded-[30px] border border-[#DEDEDE] shadow-sm hover:shadow-xl group transition-all">
@@ -374,7 +374,7 @@ export default function WhatIsLineOfCredit() {
                       R
                     </div>
                     <div>
-                      <h3 className="font-bold text-[#2E2E2E]">Rahul V.</h3>
+                      <h4 className="font-bold text-[#2E2E2E]">Rahul V.</h4>
                       <div className="flex text-yellow-400">
                         <svg className="w-5 h-5 fill-current" viewBox="0 0 20 20"><path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z"/></svg>
                         <svg className="w-5 h-5 fill-current" viewBox="0 0 20 20"><path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z"/></svg>
@@ -398,7 +398,7 @@ export default function WhatIsLineOfCredit() {
                       P
                     </div>
                     <div>
-                      <h4 className="font-bold text-[#2E2E2E]">Priya S.</h4>
+                      <h5 className="font-bold text-[#2E2E2E]">Priya S.</h5>
                       <div className="flex text-yellow-400">
                         <svg className="w-5 h-5 fill-current" viewBox="0 0 20 20"><path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z"/></svg>
                         <svg className="w-5 h-5 fill-current" viewBox="0 0 20 20"><path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z"/></svg>
@@ -418,13 +418,13 @@ export default function WhatIsLineOfCredit() {
             </section>
 
             <section id="faq" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 Frequently Asked Questions
-              </h2>
+              </h3>
               <div className="space-y-4">
                 {(jsonLd.find(schema => schema['@type'] === 'FAQPage') as any)?.mainEntity?.map((faq: any, index: number) => (
                   <div key={index} className="bg-white border border-[#DEDEDE] rounded-xl p-6 hover:shadow-md transition-shadow">
-                    <h3 className="text-lg font-bold text-[#2E2E2E] mb-2">{faq.name}</h3>
+                    <h4 className="text-lg font-bold text-[#2E2E2E] mb-2">{faq.name}</h4>
                     <p className="text-gray-700">{faq.acceptedAnswer.text}</p>
                   </div>
                 ))}
@@ -434,7 +434,7 @@ export default function WhatIsLineOfCredit() {
             {/* Lead Gen Hook */}
             <div className="bg-[#2E2E2E] text-white p-12 rounded-[40px] text-center mt-24 relative overflow-hidden group">
               <div className="absolute inset-0 bg-[#1F5EFF] opacity-0 group-hover:opacity-5 transition-opacity duration-300"></div>
-              <h3 className="text-3xl font-black mb-4 relative z-10">Stuck with high-interest loans?</h3>
+              <h4 className="text-3xl font-black mb-4 relative z-10">Stuck with high-interest loans?</h4>
               <p className="text-xl mb-8 relative z-10 max-w-2xl mx-auto">
                 Is a 'Line of Credit' better than a Personal Loan? Understand how revolving credit can save you thousands in interest.
               </p>

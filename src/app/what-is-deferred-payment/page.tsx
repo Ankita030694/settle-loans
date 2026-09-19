@@ -252,10 +252,10 @@ export default function WhatIsDeferredPayment() {
             </section>
 
             <section id="how-it-works" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">How Does a Moratorium on Loan Work?</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">How Does a Moratorium on Loan Work?</h3>
               
               <div className="bg-blue-50 border-l-8 border-[#1F5EFF] p-8 rounded-r-2xl mb-8">
-                <h3 className="text-xl font-black text-[#1F5EFF] mb-4">The Mechanics of a Moratorium</h3>
+                <h4 className="text-xl font-black text-[#1F5EFF] mb-4">The Mechanics of a Moratorium</h4>
                 <p className="text-lg leading-relaxed mb-4 text-[#2E2E2E]">
                   A <strong>moratorium on loan</strong> is the formal term used by banks and the RBI for a deferred payment period. Here is how it functions:
                 </p>
@@ -277,26 +277,26 @@ export default function WhatIsDeferredPayment() {
 
               <div className="grid md:grid-cols-2 gap-6 my-8">
                 <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
-                  <h3 className="font-black text-[#1F5EFF] text-lg mb-2">Short-Term Relief</h3>
+                  <h4 className="font-black text-[#1F5EFF] text-lg mb-2">Short-Term Relief</h4>
                   <p className="text-[#4A4A4A]">Instantly stops the cash outflow, preserving your liquidity for essential survival needs like rent, food, and medical bills.</p>
                 </div>
                 <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
-                  <h3 className="font-black text-[#1F5EFF] text-lg mb-2">Credit Protection</h3>
+                  <h4 className="font-black text-[#1F5EFF] text-lg mb-2">Credit Protection</h4>
                   <p className="text-[#4A4A4A]">Because it is mutually agreed upon, a moratorium prevents your account from being flagged as an NPA, protecting your CIBIL score.</p>
                 </div>
                 <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
-                  <h3 className="font-black text-[#1F5EFF] text-lg mb-2">Long-Term Cost</h3>
+                  <h4 className="font-black text-[#1F5EFF] text-lg mb-2">Long-Term Cost</h4>
                   <p className="text-[#4A4A4A]">The accrued interest compounds. Over a 10-20 year home loan, a 6-month moratorium can significantly increase the total interest paid.</p>
                 </div>
                 <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
-                  <h3 className="font-black text-[#1F5EFF] text-lg mb-2">Requires Approval</h3>
+                  <h4 className="font-black text-[#1F5EFF] text-lg mb-2">Requires Approval</h4>
                   <p className="text-[#4A4A4A]">You cannot just stop paying. You must apply, prove hardship, and receive official documentation approving the deferment.</p>
                 </div>
               </div>
             </section>
 
             <section id="bnpl-vs-deferred" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">BNPL vs Deferred Payment</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">BNPL vs Deferred Payment</h3>
               <p className="text-lg leading-relaxed mb-6">
                 Consumers often confuse modern financing tools. Understanding <strong>BNPL vs deferred payment</strong> is essential for managing your personal finances correctly.
               </p>
@@ -304,14 +304,14 @@ export default function WhatIsDeferredPayment() {
               <div className="bg-gray-50 p-8 rounded-2xl mb-8 border border-gray-200">
                 <div className="space-y-6">
                   <div>
-                    <h3 className="text-xl font-bold text-[#2E2E2E] mb-2">Buy Now, Pay Later (BNPL)</h3>
+                    <h4 className="text-xl font-bold text-[#2E2E2E] mb-2">Buy Now, Pay Later (BNPL)</h4>
                     <p className="text-lg text-[#4A4A4A]">
                       BNPL is a short-term credit facility offered at the point of sale (e.g., online shopping). It allows you to split a purchase into interest-free installments over a few weeks or months. It is a <em>new credit line</em> created specifically to fund consumption.
                     </p>
                   </div>
                   <div className="w-full h-px bg-[#DEDEDE]"></div>
                   <div>
-                    <h3 className="text-xl font-bold text-[#2E2E2E] mb-2">Deferred Payment (Moratorium)</h3>
+                    <h4 className="text-xl font-bold text-[#2E2E2E] mb-2">Deferred Payment (Moratorium)</h4>
                     <p className="text-lg text-[#4A4A4A]">
                       A deferred payment applies to an <em>existing loan</em> (like a personal loan, car loan, or home loan). It is a modification of your existing repayment contract triggered by financial distress, not a tool for new purchases.
                     </p>
@@ -321,7 +321,7 @@ export default function WhatIsDeferredPayment() {
             </section>
 
             <section id="benefits" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">Benefits During a Financial Crisis</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">Benefits During a Financial Crisis</h3>
               <p className="text-lg leading-relaxed mb-8">
                 How can this save you from defaulting? When you secure a deferment, you trigger several powerful legal and financial protections.
               </p>
@@ -330,7 +330,7 @@ export default function WhatIsDeferredPayment() {
                 <div className="flex gap-6">
                   <div className="flex-shrink-0 w-12 h-12 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center font-black text-xl shadow-lg">1</div>
                   <div>
-                    <h3 className="text-2xl font-bold text-[#2E2E2E] mb-2">Stops Recovery Agent Harassment</h3>
+                    <h4 className="text-2xl font-bold text-[#2E2E2E] mb-2">Stops Recovery Agent Harassment</h4>
                     <p className="text-lg text-[#4A4A4A]">Once a moratorium is granted, your account is considered in 'good standing' during that period. Banks cannot legally send recovery agents or make harassment calls to collect EMIs.</p>
                   </div>
                 </div>
@@ -338,7 +338,7 @@ export default function WhatIsDeferredPayment() {
                 <div className="flex gap-6">
                   <div className="flex-shrink-0 w-12 h-12 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center font-black text-xl shadow-lg">2</div>
                   <div>
-                    <h3 className="text-2xl font-bold text-[#2E2E2E] mb-2">Prevents NPA Classification</h3>
+                    <h4 className="text-2xl font-bold text-[#2E2E2E] mb-2">Prevents NPA Classification</h4>
                     <p className="text-lg text-[#4A4A4A]">Normally, missing 3 EMIs turns your loan into a Non-Performing Asset (NPA), triggering legal notices like Sarfaesi. A deferment pauses this 90-day countdown entirely.</p>
                   </div>
                 </div>
@@ -346,7 +346,7 @@ export default function WhatIsDeferredPayment() {
                 <div className="flex gap-6">
                   <div className="flex-shrink-0 w-12 h-12 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center font-black text-xl shadow-lg">3</div>
                   <div>
-                    <h3 className="text-2xl font-bold text-[#2E2E2E] mb-2">Gives You Time to Restructure</h3>
+                    <h4 className="text-2xl font-bold text-[#2E2E2E] mb-2">Gives You Time to Restructure</h4>
                     <p className="text-lg text-[#4A4A4A]">A 3 to 6-month window allows you to find a new job, sell an asset, or consult with a loan settlement agency to figure out a permanent exit strategy without a gun to your head.</p>
                   </div>
                 </div>
@@ -354,10 +354,10 @@ export default function WhatIsDeferredPayment() {
             </section>
 
             <section id="risks-warnings" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">Risks & Warnings to Consider</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">Risks & Warnings to Consider</h3>
               
               <div className="bg-red-50 p-6 rounded-xl border border-red-100 mb-8">
-                <h3 className="text-xl font-black text-red-700 mb-4">Warning: It Is Not a Waiver!</h3>
+                <h4 className="text-xl font-black text-red-700 mb-4">Warning: It Is Not a Waiver!</h4>
                 <p className="text-lg leading-relaxed text-red-900 mb-4">
                   The biggest mistake borrowers make is assuming a deferred payment means the bank has forgiven the EMIs for those months. <strong>They have not.</strong>
                 </p>
@@ -370,7 +370,7 @@ export default function WhatIsDeferredPayment() {
             </section>
 
             <section id="success-stories" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">Success Stories</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">Success Stories</h3>
               <p className="text-lg leading-relaxed mb-8">
                 See how understanding the deferred payment loan meaning helped others navigate their financial crisis.
               </p>
@@ -382,7 +382,7 @@ export default function WhatIsDeferredPayment() {
                       RK
                     </div>
                     <div>
-                      <h3 className="font-bold text-[#2E2E2E] text-lg">Rajesh K.</h3>
+                      <h4 className="font-bold text-[#2E2E2E] text-lg">Rajesh K.</h4>
                       <div className="flex gap-1 text-yellow-400">
                         ★★★★★
                       </div>
@@ -403,7 +403,7 @@ export default function WhatIsDeferredPayment() {
                       SP
                     </div>
                     <div>
-                      <h4 className="font-bold text-[#2E2E2E] text-lg">Sneha Patel</h4>
+                      <h5 className="font-bold text-[#2E2E2E] text-lg">Sneha Patel</h5>
                       <div className="flex gap-1 text-yellow-400">
                         ★★★★★
                       </div>
@@ -421,7 +421,7 @@ export default function WhatIsDeferredPayment() {
             </section>
 
             <section id="faqs" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">Frequently Asked Questions</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">Frequently Asked Questions</h3>
               <div className="space-y-4">
                 {[
                   { q: "What is the meaning of a deferred payment loan?", a: "A deferred payment loan allows you to pause or delay your EMI payments for a specific period, usually offered during financial hardship." },
@@ -436,7 +436,7 @@ export default function WhatIsDeferredPayment() {
                   { q: "Can a deferred payment save me from loan default?", a: "Yes, it is the best legal way to pause a loan without triggering a default, saving you from recovery agents, legal notices, and asset seizure." }
                 ].map((faq, i) => (
                   <div key={i} className="bg-white border border-[#DEDEDE] rounded-xl p-6 hover:shadow-md transition-shadow">
-                    <h3 className="text-xl font-bold text-[#2E2E2E] mb-3">{faq.q}</h3>
+                    <h4 className="text-xl font-bold text-[#2E2E2E] mb-3">{faq.q}</h4>
                     <p className="text-lg text-[#4A4A4A]">{faq.a}</p>
                   </div>
                 ))}
@@ -447,9 +447,9 @@ export default function WhatIsDeferredPayment() {
             <div className="bg-[#2E2E2E] text-white p-12 rounded-[40px] text-center mt-24 relative overflow-hidden group">
               <div className="absolute inset-0 bg-[#1F5EFF] opacity-0 group-hover:opacity-5 transition-opacity duration-500"></div>
               <div className="relative z-10">
-                <h3 className="text-3xl md:text-5xl font-black mb-6 leading-tight">
+                <h4 className="text-3xl md:text-5xl font-black mb-6 leading-tight">
                   Struggling to Secure a <span className="text-[#1F5EFF]">Deferred Payment</span>?
-                </h3>
+                </h4>
                 <p className="text-xl text-white/80 mb-10 max-w-2xl mx-auto">
                   Don't wait for your account to turn into an NPA. Let our legal experts negotiate a moratorium or a highly discounted one-time settlement on your behalf.
                 </p>

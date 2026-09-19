@@ -260,22 +260,22 @@ export default function CibilDefaulterListPage() {
             </section>
 
             <section id="what-is-cibil-report" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 Understanding Your CIBIL Report (Not a List)
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 Instead of a public list, what actually exists is your individual <strong>Credit Information Report (CIR)</strong>. This report is highly confidential. Only you and authorized financial institutions (when you apply for a loan) can access it legally.
               </p>
 
               <div className="grid md:grid-cols-2 gap-6 my-8">
                 <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
-                  <h3 className="font-black text-[#1F5EFF] text-lg mb-3">DPD (Days Past Due)</h3>
+                  <h4 className="font-black text-[#1F5EFF] text-lg mb-3">DPD (Days Past Due)</h4>
                   <p className="text-gray-700 leading-relaxed">
                     If you miss a payment, the bank updates your CIBIL report with the number of days you are late (e.g., 30, 60, 90). If it crosses 90 days, the account is classified as a Non-Performing Asset (NPA).
                   </p>
                 </div>
                 <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
-                  <h4 className="font-black text-[#1F5EFF] text-lg mb-3">Account Status</h4>
+                  <h5 className="font-black text-[#1F5EFF] text-lg mb-3">Account Status</h5>
                   <p className="text-gray-700 leading-relaxed">
                     Instead of putting you on a "list", the specific loan account in your report is tagged with statuses like <strong>'Written Off'</strong> (bank gave up on collection) or <strong>'Settled'</strong> (you paid a negotiated amount).
                   </p>
@@ -290,15 +290,15 @@ export default function CibilDefaulterListPage() {
             </section>
 
             <section id="rbi-wilful-defaulter" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 The Actual RBI Wilful Defaulter Database
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 There <em>is</em> one type of defaulter list in India, but it almost certainly does not apply to regular retail loan or credit card borrowers. It is the <strong>RBI Wilful Defaulters List</strong>.
               </p>
 
               <div className="bg-blue-50 border-l-8 border-[#1F5EFF] p-8 rounded-r-2xl mb-8">
-                <h3 className="text-xl font-black text-[#1F5EFF] mb-4">Who goes on this database?</h3>
+                <h4 className="text-xl font-black text-[#1F5EFF] mb-4">Who goes on this database?</h4>
                 <p className="text-blue-900 text-lg leading-relaxed mb-4">
                   This list is maintained by credit information companies (CICs) as per RBI guidelines, specifically for large corporate fraud and deliberate defaults. You can only be placed on this list if:
                 </p>
@@ -324,9 +324,9 @@ export default function CibilDefaulterListPage() {
             </section>
 
             <section id="fake-agent-threats" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 Spotting Fake Recovery Agent Threats
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 Because most borrowers do not know the banking laws, recovery agencies exploit this fear. If you receive any of the following, they are illegal extortion attempts:
               </p>
@@ -335,7 +335,7 @@ export default function CibilDefaulterListPage() {
                 <div className="flex gap-6">
                   <div className="flex-shrink-0 w-12 h-12 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center font-black text-xl shadow-lg">1</div>
                   <div>
-                    <h3 className="text-2xl font-bold text-[#2E2E2E] mb-2">WhatsApp "Defaulter Notices"</h3>
+                    <h4 className="text-2xl font-bold text-[#2E2E2E] mb-2">WhatsApp "Defaulter Notices"</h4>
                     <p className="text-lg text-gray-700 leading-relaxed">
                       Fake PDF documents with RBI or Supreme Court logos claiming a "Non-Bailable Warrant" has been issued and your name is being added to a national blacklist.
                     </p>
@@ -345,7 +345,7 @@ export default function CibilDefaulterListPage() {
                 <div className="flex gap-6">
                   <div className="flex-shrink-0 w-12 h-12 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center font-black text-xl shadow-lg">2</div>
                   <div>
-                    <h3 className="text-2xl font-bold text-[#2E2E2E] mb-2">Threats to Contact Employer</h3>
+                    <h4 className="text-2xl font-bold text-[#2E2E2E] mb-2">Threats to Contact Employer</h4>
                     <p className="text-lg text-gray-700 leading-relaxed">
                       Agents claiming they will send your "Defaulter Status" to your HR department to get you fired. This is a severe violation of RBI fair practice codes.
                     </p>
@@ -355,7 +355,7 @@ export default function CibilDefaulterListPage() {
                 <div className="flex gap-6">
                   <div className="flex-shrink-0 w-12 h-12 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center font-black text-xl shadow-lg">3</div>
                   <div>
-                    <h3 className="text-2xl font-bold text-[#2E2E2E] mb-2">Claims of Jail Time</h3>
+                    <h4 className="text-2xl font-bold text-[#2E2E2E] mb-2">Claims of Jail Time</h4>
                     <p className="text-lg text-gray-700 leading-relaxed">
                       Defaulting on a personal loan or credit card is a civil dispute. No one can be sent to jail simply for not having the money to repay an unsecured loan in India.
                     </p>
@@ -365,15 +365,15 @@ export default function CibilDefaulterListPage() {
             </section>
             
             <section id="how-to-check" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 How to Actually Check Your CIBIL Status
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 If you want to know exactly what banks are seeing regarding your default, you need to pull your official credit report. Do not trust third-party apps offering free scores in exchange for your data. Go to the source.
               </p>
               
               <div className="bg-white p-8 border border-[#DEDEDE] rounded-2xl shadow-sm mb-8">
-                <h3 className="text-xl font-bold mb-4 text-[#2E2E2E] underline">Step-by-Step CIBIL Check online</h3>
+                <h4 className="text-xl font-bold mb-4 text-[#2E2E2E] underline">Step-by-Step CIBIL Check online</h4>
                 <ul className="text-sm space-y-3 font-medium list-none text-gray-700">
                   <li className="flex items-start gap-2"><span className="w-1.5 h-1.5 bg-[#1F5EFF] rounded-full mt-2"></span> <strong>1. Visit the Official Website:</strong> Go to cibil.com. By RBI mandate, you are entitled to one free detailed credit report per year.</li>
                   <li className="flex items-start gap-2"><span className="w-1.5 h-1.5 bg-[#1F5EFF] rounded-full mt-2"></span> <strong>2. Create an Account:</strong> You will need to provide your PAN card details, email, and phone number for authentication.</li>
@@ -384,15 +384,15 @@ export default function CibilDefaulterListPage() {
             </section>
             
             <section id="legal-action" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 Taking Legal Action Against Agent Harassment
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 If recovery agents are illegally threatening you with fake defaulter lists, you have strong legal remedies available under Indian law.
               </p>
               
               <div className="bg-red-50 p-6 rounded-xl border border-red-100 mb-8">
-                <h3 className="text-xl font-black text-red-700 mb-3">How to Stop the Abuse</h3>
+                <h4 className="text-xl font-black text-red-700 mb-3">How to Stop the Abuse</h4>
                 <p className="text-red-900 leading-relaxed mb-4">
                   Banks are strictly responsible for the actions of their recovery agents. You do not have to endure threats.
                 </p>
@@ -405,9 +405,9 @@ export default function CibilDefaulterListPage() {
             </section>
 
             <section id="success-stories" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 Client Success Stories
-              </h2>
+              </h3>
               <div className="grid md:grid-cols-2 gap-6 my-8">
                 <div className="bg-white p-8 rounded-[30px] border border-[#DEDEDE] shadow-sm hover:shadow-xl group transition-all">
                   <div className="flex items-center gap-4 mb-6">
@@ -415,7 +415,7 @@ export default function CibilDefaulterListPage() {
                       RT
                     </div>
                     <div>
-                      <h3 className="font-bold text-gray-900">Rajesh T.</h3>
+                      <h4 className="font-bold text-gray-900">Rajesh T.</h4>
                       <div className="flex text-yellow-400">
                         <svg className="w-4 h-4 fill-current" viewBox="0 0 20 20"><path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z"/></svg>
                         <svg className="w-4 h-4 fill-current" viewBox="0 0 20 20"><path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z"/></svg>
@@ -440,7 +440,7 @@ export default function CibilDefaulterListPage() {
                       PM
                     </div>
                     <div>
-                      <h4 className="font-bold text-gray-900">Priya M.</h4>
+                      <h5 className="font-bold text-gray-900">Priya M.</h5>
                       <div className="flex text-yellow-400">
                         <svg className="w-4 h-4 fill-current" viewBox="0 0 20 20"><path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z"/></svg>
                         <svg className="w-4 h-4 fill-current" viewBox="0 0 20 20"><path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z"/></svg>
@@ -462,13 +462,13 @@ export default function CibilDefaulterListPage() {
             </section>
 
             <section id="faqs" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 Frequently Asked Questions
-              </h2>
+              </h3>
               <div className="space-y-4">
                 {jsonLd["@graph"].find(item => item["@type"] === "FAQPage")?.mainEntity?.map((faq: any, index: number) => (
                   <div key={index} className="bg-white border border-[#DEDEDE] rounded-xl p-6 hover:shadow-md transition-shadow">
-                    <h3 className="text-xl font-bold text-[#2E2E2E] mb-3">{faq.name}</h3>
+                    <h4 className="text-xl font-bold text-[#2E2E2E] mb-3">{faq.name}</h4>
                     <p className="text-gray-700 leading-relaxed">{faq.acceptedAnswer.text}</p>
                   </div>
                 ))}
@@ -477,7 +477,7 @@ export default function CibilDefaulterListPage() {
 
             <div className="bg-[#2E2E2E] text-white p-12 rounded-[40px] text-center mt-24 relative overflow-hidden group">
               <div className="absolute inset-0 bg-[#1F5EFF] opacity-0 group-hover:opacity-5 transition-opacity"></div>
-              <h3 className="text-3xl font-black mb-6 relative z-10">Stop the Defaulter Threats</h3>
+              <h4 className="text-3xl font-black mb-6 relative z-10">Stop the Defaulter Threats</h4>
               <p className="text-xl opacity-90 mb-8 relative z-10 max-w-2xl mx-auto">
                 Are recovery agents threatening to ruin your reputation by placing you on a fake CIBIL Defaulter List? Send a legal notice today and force them to operate within RBI boundaries.
               </p>

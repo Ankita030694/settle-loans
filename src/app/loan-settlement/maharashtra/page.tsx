@@ -282,70 +282,70 @@ export default function MaharashtraLoanSettlementPage() {
             </section>
 
             <section id="mumbai-financial-pressure" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl font-black mb-6 leading-tight">Mumbai's Debt Landscape: Beyond the High Rents</h2>
+              <h3 className="text-3xl font-black mb-6 leading-tight">Mumbai's Debt Landscape: Beyond the High Rents</h3>
               <p>Mumbai often bears the crown of the world's most expensive real estate market, but behind the glittering skyline lies a complex web of financial stress. For the average Mumbaikar, the monthly EMI for a home loan is often just the beginning. To keep up with the city's pace, many rely on a combination of personal loans and high-interest credit cards to manage lifestyle expenses or bridge the gap in their monthly budgets. The "Debt-to-Income" ratio in Mumbai is among the highest in the country, with many individuals spending over 50% of their salary on debt repayments.</p>
               <p>The psychological toll of this financial burden is amplified by the city's unforgiving nature. A job loss or a medical emergency can quickly turn a manageable debt into a life-altering crisis. In neighborhoods from Colaba to Dahisar, families are increasingly finding themselves in a situation where they are paying interest on interest, with no clear end to the cycle. This is where the concept of a legal loan settlement becomes critical. It is a strategic tool designed to stop the compounding of debt and reach a final, affordable compromise with the lenders.</p>
               <p>Our Mumbai division focuses on the nuances of the metropolitan banking sector. We negotiate with headquarters and zonal offices of major banks located right here in the city. By leveraging our proximity and professional relationships with bank legal teams, we ensure that our Mumbai-based clients receive the most favorable settlement terms, often achieving waivers that allow them to restart their financial lives with a clean slate.</p>
             </section>
 
             <section id="pune-it-corridor-debt" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl font-black mb-6 leading-tight">Pune's IT Corridor: The Cost of Aspirational Living</h2>
+              <h3 className="text-3xl font-black mb-6 leading-tight">Pune's IT Corridor: The Cost of Aspirational Living</h3>
               <p>Pune has transformed from a quiet pensioner's paradise into a bustling IT and manufacturing hub. The corridors of Hinjewadi, Magarpatta, and Kharadi are filled with young professionals who are the backbones of the modern Indian economy. However, with high salaries comes the lure of aspirational living. Many young tech workers find themselves overleveraged by taking large loans for high-end apartments, luxury cars, and international vacations. The "lifestyle debt" in Pune is a growing concern, as it is often unsecured and carries high interest rates.</p>
               <p>When the global tech market experiences volatility, as it has in recent cycles, the impact on Pune's workforce is immediate. Notice of layoffs or delays in bonuses can shatter the delicate balance of a high-leverage lifestyle. The pressure from banks and NBFCs, who are aggressive in their recovery efforts in this region, can be overwhelming. We have seen many cases where a single missed payment leads to a flurry of calls and legal notices, causing immense distress to young professionals and their families.</p>
               <p>Our approach in Pune is one of empathy and legal precision. We understand the specific concerns of the IT and manufacturing sectors. We work with our clients to document their financial hardship clearly, presenting a case to the banks that highlights their genuine intent to pay while acknowledging their current limitations. By using the legal frameworks available in Maharashtra, we help the professionals of Pune protect their futures while resolving their past debts.</p>
             </section>
 
             <section id="legal-protection-act-2014" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl font-black mb-6 leading-tight">Legislative Protection: Deep Dive into Sections 39 and 45 of the 2014 Act</h2>
+              <h3 className="text-3xl font-black mb-6 leading-tight">Legislative Protection: Deep Dive into Sections 39 and 45 of the 2014 Act</h3>
               <p>The Maharashtra Money-Lending (Regulation) Act, 2014, is one of the most robust state-level legislations in India for debtor protection. While many think it only applies to rural "moneylenders," its provisions are increasingly relevant to urban debt as well. Section 39 of the Act is particularly powerful; it mandates that any person carrying on the business of money lending without a valid license is committing an offense. More importantly, it can make the recovery of the principal and interest from such unlicensed sources legally impossible in a court of law.</p>
               <p>Equally critical is Section 45, which deals with the "molestation" of a debtor. This section provides a broad definition of harassment, including any action that causes nuisance or alarm to the debtor or their family. In Maharashtra, it is a punishable offense for a lender to visit a debtor's workplace or residence in a way that causes undue distress. This state-specific law gives us a much stronger handle than general central guidelines when dealing with aggressive private lenders or the third-party agencies often used by smaller NBFCs.</p>
               <p>At SettleLoans, we use these sections as a foundation for our anti-harassment shield. We don't just rely on RBI circulars; we cite specific Maharashtra statutes when sending notices to lenders. We ensure that our clients across the state, from the busy streets of Nagpur to the industrial hubs of Nashik, are fully aware of these protections. If you are being harassed, the 2014 Act is your primary legal weapon, and we are the experts who know how to wield it effectively on your behalf.</p>
             </section>
 
             <section id="bombay-high-court-precedents" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl font-black mb-6 leading-tight">Bombay High Court: Recent Rulings on Borrower Rights and Recovery</h2>
+              <h3 className="text-3xl font-black mb-6 leading-tight">Bombay High Court: Recent Rulings on Borrower Rights and Recovery</h3>
               <p>The Bombay High Court has consistently stood as a guardian of borrower rights, especially in cases involving coercive recovery practices. Recent judicial trends in Maharashtra highlight a zero-tolerance policy towards banks that use "muscle power" or social shaming as a means of recovery. The court has repeatedly held that banks and financial institutions are vicariously liable for the actions of their recovery agents. This means that if an outsourced agent harasses you, the bank cannot simply wash its hands of the responsibility.</p>
               <p>Furthermore, the court has emphasized the importance of procedural fairness in high-value recovery cases, particularly those under the SARFAESI Act. In many instances, the Bombay High Court has stayed auction proceedings where banks failed to strictly follow the notice requirements or skipped the mandatory step of considering a borrower's representation. These rulings provide a critical "legal cushion" for our clients. They allow us to challenge the bank's aggression in court, which in turn creates the necessary environment for a reasonable One-Time Settlement (OTS).</p>
               <p>We keep a close eye on every new ruling from the principal bench in Mumbai and the benches in Nagpur and Aurangabad. This up-to-the-minute legal knowledge allows us to advise our clients with a level of specificity that is rare in the industry. We use these judicial precedents to frame our negotiations, ensuring that the lenders know we are prepared to take the matter to court if the borrower's rights are violated. This legal standing is what gives us the edge in securing top-tier waivers for our clients.</p>
             </section>
 
             <section id="state-welfare-schemes-context" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl font-black mb-6 leading-tight">State Welfare and Debt: Contextualizing Majhi Ladki Bahin and Baliraja Schemes</h2>
+              <h3 className="text-3xl font-black mb-6 leading-tight">State Welfare and Debt: Contextualizing Majhi Ladki Bahin and Baliraja Schemes</h3>
               <p>The Maharashtra state government has recently launched significant welfare initiatives that provide a context for debt relief. The "Majhi Ladki Bahin Yojana," providing financial support to millions of women, and the "Mukhya Mantri Baliraja Vij Savlat Yojana," which offers free electricity for agriculture, are signs of a state that recognizes the financial fragility of its citizens. While these are not directly "debt waiver" schemes for urban personal loans, they reflect the state's intent to reduce the cost of living and the burden of expenses on households.</p>
               <p>Understanding these schemes is important for debt settlement because they help us paint a picture of a borrower's overall financial environment. For instance, if a borrower is eligible for certain state assistance, it reinforces the "hardship case" we present to the bank. It shows that even with state support, the burden of debt remains unmanageable. In rural areas, the interaction between agricultural debt relief and private loan settlement is even more direct, allowing us to build a comprehensive resolution strategy that accounts for both formal and informal credit.</p>
               <p>At SettleLoans, we take a holistic view of your finances. We don't just look at your bank statement; we look at the state-level opportunities and challenges you face. This comprehensive perspective is what allows us to create a settlement proposal that is culturally and economically resonant with the decision-makers in the banking system. We represent you as a citizen of Maharashtra, leveraging every available data point to secure your financial freedom.</p>
             </section>
 
             <section id="drt-mumbai-strategy" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl font-black mb-6 leading-tight">Navigating the DRT Mumbai: The SARFAESI Challenge</h2>
+              <h3 className="text-3xl font-black mb-6 leading-tight">Navigating the DRT Mumbai: The SARFAESI Challenge</h3>
               <p>The Debt Recovery Tribunal in Mumbai is the crucible where high-value financial disputes are settled. For debts above 20 lakhs, especially those involving commercial property or home loans where the bank has moved under the SARFAESI Act, the DRT is the primary legal arena. The process here is fast-paced and highly technical. Banks often move aggressively to get "recovery certificates" or orders for possession. Navigating this without expert legal guidance is like walking through a minefield.</p>
               <p>Our strategy at DRT Mumbai is built on "Defensive Litigation for Offensive Settlement." We identify every procedural error the bank has made in its SARFAESI notices. Has the bank provided a clear 60-day notice? Have they correctly valued the property? Have they considered your objections under Section 13(3A)? By challenging these points in the tribunal, we slow down the bank's recovery process. This delay is expensive for the bank, making them much more willing to sit at the table and discuss a compromise settlement that saves your property and settles your debt for a fraction of the total demand.</p>
               <p>Our advocates are regulars at the DRT benches in Mumbai. We understand the temperament of the tribunal and the strategies of various bank counsels. We provide our clients with a clear-eyed assessment of their legal position, ensuring they don't lose their assets to ex-parte orders. Whether it's a factory in Amravati or a flat in Powai, we provide the high-level legal representation necessary to survive the DRT process and emerge debt-free.</p>
             </section>
 
             <section id="lok-adalat-mslsa-role" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl font-black mb-6 leading-tight">Lok Adalats: Your Path to Judicial Closure in Maharashtra</h2>
+              <h3 className="text-3xl font-black mb-6 leading-tight">Lok Adalats: Your Path to Judicial Closure in Maharashtra</h3>
               <p>The Maharashtra State Legal Services Authority (MSLSA) has pioneered the use of Lok Adalats as a primary tool for debt resolution. These "People's Courts" are held periodically and have become the most successful forum for settling personal loan and credit card disputes in the state. The beauty of a Lok Adalat is that it offers "Finality." Once a settlement is reached and an award is passed, it has the force of a civil court decree. It cannot be appealed in any other court, meaning the bank can never come back to you for that specific debt.</p>
               <p>Preparing for a Lok Adalat requires more than just showing up. You need a well-drafted "Proposal of Compromise" and a clear explanation of your financial hardship. At SettleLoans, we handle the entire process for you. We coordinate with the legal cells of the banks, ensure your case is listed in the upcoming session, and represent you before the panel of judges and social workers. Our presence ensures that the bank doesn't overreach and that the settlement is fair and achievable for you.</p>
               <p>We have handled thousands of cases in Lok Adalats across Maharashtra, from the mega-sessions in Mumbai to smaller setups in district courts. We know what works in these forums and how to present your case to get the maximum sympathetic view from the bench. A Lok Adalat award is the "gold standard" of debt resolution, and we are your expert guides to achieving it.</p>
             </section>
 
             <section id="the-settleloans-roadmap" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl font-black mb-6 leading-tight">The 5-Step Roadmap to Debt Freedom: Tailored for Maharashtra</h2>
+              <h3 className="text-3xl font-black mb-6 leading-tight">The 5-Step Roadmap to Debt Freedom: Tailored for Maharashtra</h3>
               <p>Our methodology is a transparent, five-step journey designed to take you from a state of crisis to a state of peace. Step one is the **Initial Debt Diagnosis**. We review every one of your loan accounts and legal notices to understand the full scope of your liabilities. Step two is **Legal Protection Onboarding**. This is where we issue our formal notices to the banks, informing them that you are now legally represented. This step is designed to immediately reduce the pressure and the constant calls.</p>
               <p>Step three is the **Strategic Negotiation Phase**. Our team of experts, well-versed in Maharashtra's banking culture, engages with your lenders. We use every legal leverage point, ranging from the 2014 Act to recent High Court rulings, to push for a waiver. Step four is the **Settlement Verification**. We never allow our clients to pay a single rupee until we have a formal, written settlement letter on the bank's official letterhead, which we have verified for legal correctness.</p>
               <p>The final step is **Official Closure and NDC**. After the payment is made, we ensure the bank issues the No Dues Certificate and updates the credit bureaus correctly. This roadmap is used by our teams in Mumbai, Pune, and Nagpur to deliver consistent, life-changing results. We don't just "talk" to banks; we negotiate from a position of legal strength to ensure your future is protected.</p>
             </section>
 
             <section id="maharashtra-case-studies" className="scroll-mt-32 mb-16">
-               <h2 className="text-3xl font-black mb-10 text-center">Maharashtra Success Stories: Real People, Real Debt Relief</h2>
+               <h3 className="text-3xl font-black mb-10 text-center">Maharashtra Success Stories: Real People, Real Debt Relief</h3>
                <p className="text-center mb-10 text-lg">We have successfully resolved over 2,200+ cases in Maharashtra, helping people from all walks of life reclaim their financial dignity.</p>
                <div className="grid md:grid-cols-2 gap-8 not-prose">
                  <div className="bg-white p-8 rounded-3xl border border-[#DEDEDE] shadow-sm hover:shadow-xl transition-all duration-300">
                    <div className="flex items-center mb-6">
                      <div className="w-12 h-12 rounded-full bg-[#1F5EFF]/10 flex items-center justify-center font-black text-[#1F5EFF] mr-4 text-xl">R</div>
                      <div>
-                       <h3 className="font-black text-[#2E2E2E]">Rajesh Gaikwad</h3>
+                       <h4 className="font-black text-[#2E2E2E]">Rajesh Gaikwad</h4>
                        <p className="text-sm text-gray-500 font-bold">Navi Mumbai, Maharashtra</p>
                      </div>
                    </div>
@@ -359,7 +359,7 @@ export default function MaharashtraLoanSettlementPage() {
                    <div className="flex items-center mb-6">
                      <div className="w-12 h-12 rounded-full bg-[#1F5EFF]/10 flex items-center justify-center font-black text-[#1F5EFF] mr-4 text-xl">S</div>
                      <div>
-                       <h4 className="font-black text-[#2E2E2E]">Sneha Patil</h4>
+                       <h5 className="font-black text-[#2E2E2E]">Sneha Patil</h5>
                        <p className="text-sm text-gray-500 font-bold">Pune, Maharashtra</p>
                      </div>
                    </div>
@@ -373,14 +373,14 @@ export default function MaharashtraLoanSettlementPage() {
             </section>
 
             <section id="credit-rehabilitation-path" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl font-black mb-6 leading-tight">Your Path to Credit Rehabilitation After Settlement</h2>
+              <h3 className="text-3xl font-black mb-6 leading-tight">Your Path to Credit Rehabilitation After Settlement</h3>
               <p>One of the biggest concerns for our clients is their future financial health. While a "settled" status on a CIBIL report is not as clean as "closed," it is a significant improvement over an "active default" or a "suit filed" status. It shows that you have legally and formally resolved your past liabilities. In the dynamic economic landscape of Maharashtra, where banks are constantly competing for market share, your credit history is not a permanent barrier to future loans.</p>
               <p>We provide all our clients with a "CIBIL Recovery Roadmap." This starts with ensuring that the bank correctly reports the settlement to all four major credit bureaus in India. We then guide you on how to monitor your report for errors. After a stabilization period of 6 to 12 months, you can start rebuilding your score using small, secure credit products. By being disciplined with these small amounts, you demonstrate to the financial system that you have learned from your past and are now a low-risk borrower.</p>
               <p>Remember, your credit score is a reflection of your recent financial behavior. By settling your debt today, you are creating the foundation for a better score tomorrow. We help you navigate this transition, providing the advice and the follow-up necessary to ensure that your path to a home loan or a car loan remains open in the future. Your journey with us doesn't end with a settlement; it ends with your total financial recovery.</p>
             </section>
 
             <section id="frequently-asked-questions" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl font-black mb-8 leading-tight">Maharashtra Debt Settlement: Frequently Asked Questions</h2>
+              <h3 className="text-3xl font-black mb-8 leading-tight">Maharashtra Debt Settlement: Frequently Asked Questions</h3>
               <div className="space-y-4 not-prose">
                 {[
                   { q: "Is debt settlement recognized by courts in Maharashtra?", a: "Yes, debt settlement is a recognized civil resolution in Maharashtra. Courts and tribunals, including the Bombay High Court, encourage amicable settlements, especially through Lok Adalats organized by MSLSA." },
@@ -415,7 +415,7 @@ export default function MaharashtraLoanSettlementPage() {
                <div className="absolute top-0 right-0 w-64 h-64 bg-white/5 rounded-full -mr-32 -mt-32 blur-3xl"></div>
                <div className="absolute bottom-0 left-0 w-64 h-64 bg-black/5 rounded-full -ml-32 -mb-32 blur-3xl"></div>
                <div className="relative z-10">
-                  <h2 className="text-3xl md:text-5xl font-black mb-6 leading-tight">Start Your Debt-Free Life in Maharashtra Today</h2>
+                  <h3 className="text-3xl md:text-5xl font-black mb-6 leading-tight">Start Your Debt-Free Life in Maharashtra Today</h3>
                   <p className="mb-10 text-xl opacity-90 max-w-3xl mx-auto leading-relaxed font-medium">Join over 2,200+ families across Maharashtra who have reclaimed their peace of mind with our legal support. Your journey beyond debt starts now.</p>
                   <div className="flex justify-center">
                     <Link href="/contact" className="inline-block bg-white text-[#1F5EFF] font-black py-5 px-14 rounded-2xl hover:scale-105 transition-all text-xl shadow-xl">

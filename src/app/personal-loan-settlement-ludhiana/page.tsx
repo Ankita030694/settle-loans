@@ -490,7 +490,7 @@ export default function PersonalLoanSettlementLudhianaPage() {
 
             {/* Section 2: Statutory Protections & Legal Defences against Bank Harassment in Punjab */}
             <section id="statutory-protections-punjab-relief-rbi" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">2. Statutory Protections &amp; Punjab Indebtedness Laws</h2>
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">2. Statutory Protections &amp; Punjab Indebtedness Laws</h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Borrowers in Punjab have legal protections under state and central laws. The <em>Punjab Relief of Indebtedness Act, 1934</em> limits high interest rates. It stops lenders from adding arbitrary fines.
               </p>
@@ -499,10 +499,10 @@ export default function PersonalLoanSettlementLudhianaPage() {
               </p>
               
               <div className="bg-slate-50 border border-slate-200 rounded-2xl p-5 my-4 space-y-3">
-                <h3 className="text-xs sm:text-sm font-bold text-slate-900 uppercase tracking-wider flex items-center gap-2">
+                <h4 className="text-xs sm:text-sm font-bold text-slate-900 uppercase tracking-wider flex items-center gap-2">
                   <Gavel className="w-4 h-4 text-[#1F5EFF]" />
                   <span>Key Statutory Safeguards Enforceable in Punjab</span>
-                </h3>
+                </h4>
                 <div className="space-y-2.5 text-xs sm:text-sm text-slate-700">
                   <div className="p-3 bg-white rounded-xl border border-slate-200">
                     <p className="font-bold text-slate-900">1. Doorstep Visit Restrictions</p>
@@ -538,7 +538,7 @@ export default function PersonalLoanSettlementLudhianaPage() {
 
             {/* Section 3: Civil Court & DRT Jurisdictions in Punjab */}
             <section id="civil-court-drt-jurisdiction-ludhiana" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">3. Judicial Architecture in Ludhiana</h2>
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">3. Judicial Architecture in Ludhiana</h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Lenders in Punjab must choose courts based on debt amount.
               </p>
@@ -563,7 +563,7 @@ export default function PersonalLoanSettlementLudhianaPage() {
 
             {/* Section 4: Bank NPA Accounting Realities & The NPV Recovery Valuation Formula */}
             <section id="bank-npa-accounting-npv-recovery-formula" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">4. Bank NPA Accounting in Ludhiana</h2>
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">4. Bank NPA Accounting in Ludhiana</h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Banks agree to OTS waivers due to mandatory RBI reserves rules. Under RBI rules, loans become NPAs after 90 days of non-payment.
               </p>
@@ -618,7 +618,7 @@ export default function PersonalLoanSettlementLudhianaPage() {
 
             {/* Section 6: Tactical Step-by-Step Defense & Advocate-Led Settlement Protocol */}
             <section id="advocate-defense-negotiation-protocol" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">6. Tactical Settlement Protocol in Ludhiana</h2>
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">6. Tactical Settlement Protocol in Ludhiana</h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Direct agent payments often go to penal fees instead of principal. SettleLoans follows a 5-step legal process:
               </p>
@@ -655,7 +655,7 @@ export default function PersonalLoanSettlementLudhianaPage() {
 
             {/* Section 7: Sanction Letter Forensics & Verification */}
             <section id="sanction-letter-forensics-waivers" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">7. Sanction Letter Forensics in Ludhiana</h2>
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">7. Sanction Letter Forensics in Ludhiana</h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Some recovery agents make fake settlement letters. Paying on fake receipts leaves your loan active.
               </p>
@@ -664,10 +664,10 @@ export default function PersonalLoanSettlementLudhianaPage() {
               </p>
               
               <div className="bg-slate-50 border border-slate-200 rounded-2xl p-5 my-4">
-                <h3 className="font-bold text-slate-900 text-sm mb-3 flex items-center gap-2">
+                <h4 className="font-bold text-slate-900 text-sm mb-3 flex items-center gap-2">
                   <FileCheck className="w-4 h-4 text-[#1F5EFF]" />
                   <span>Checklist for Authentic Bank OTS Sanction Letters</span>
-                </h3>
+                </h4>
                 <div className="grid grid-cols-1 sm:grid-cols-2 gap-3 text-xs text-slate-700">
                   <div className="p-3 bg-white rounded-xl border border-slate-200">
                     <p className="font-bold text-slate-900 mb-1">1. Official Bank Letterhead</p>
@@ -695,7 +695,7 @@ export default function PersonalLoanSettlementLudhianaPage() {
 
             {/* Section 8: Post-Settlement No Dues Certificate (NDC) & CIBIL Commercial / Retail Credit Rectification */}
             <section id="ndc-cibil-commercial-credit-repair" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">8. ₹0 NDC &amp; Credit Rebuilding in Ludhiana</h2>
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">8. ₹0 NDC &amp; Credit Rebuilding in Ludhiana</h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Under RBI Circular <em>RBI/2023-24/60</em>, lenders must issue an NDC within 30 days of payment.
               </p>
@@ -714,9 +714,9 @@ export default function PersonalLoanSettlementLudhianaPage() {
 
             {/* Section 9: Comparative Matrix Table */}
             <section id="comparative-ludhiana-debt-matrix" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                 9. Comparative Protection Matrix for Punjab Borrowers
-              </h2>
+              </h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Here is a comparison of legal rights and settlement options in Punjab:
               </p>
@@ -776,7 +776,7 @@ export default function PersonalLoanSettlementLudhianaPage() {
             {/* Section 10: SettleLoans Legal Defense Framework */}
             <section id="settleloans-punjab-legal-framework" className="space-y-6">
               <div className="border-t border-slate-200 pt-8 space-y-4">
-                <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">10. SettleLoans Legal Defense in Ludhiana</h2>
+                <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">10. SettleLoans Legal Defense in Ludhiana</h3>
                 <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                   Running a factory with high debt needs legal help. SettleLoans provides full debt defense in Punjab. We stop recovery harassment with legal notices. We defend court cases in Ludhiana. We represent you in DRT Chandigarh. We negotiate 40% to 65% OTS waivers with bank desks. We secure authentic NDCs for every client.
                 </p>
@@ -793,9 +793,9 @@ export default function PersonalLoanSettlementLudhianaPage() {
                   <Gavel className="w-4 h-4" />
                   <span>Local Legal Jurisdiction &amp; Legal Aid Directory</span>
                 </div>
-                <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+                <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                   District Courts &amp; DLSA Helpdesk in Ludhiana
-                </h2>
+                </h3>
                 <p className="text-slate-700 leading-relaxed mb-6 text-base">
                   Distressed borrowers facing recovery pressure, arbitration summons, or Section 138 NI Act notices in Ludhiana can access statutory legal defense through the local District Court and District Legal Services Authority (DLSA):
                 </p>
@@ -830,7 +830,7 @@ export default function PersonalLoanSettlementLudhianaPage() {
 <section id="faqs" className="space-y-4 border-t border-slate-200 pt-8">
               <div className="flex items-center gap-2 mb-2">
                 <HelpCircle className="w-5 h-5 text-[#1F5EFF]" />
-                <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">11. FAQs: Ludhiana &amp; Punjab</h2>
+                <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">11. FAQs: Ludhiana &amp; Punjab</h3>
               </div>
               <p className="text-xs sm:text-sm text-slate-600 mb-6">
                 Clear answers on loan settlement, borrower rights. And court rules across Punjab.
@@ -860,9 +860,9 @@ export default function PersonalLoanSettlementLudhianaPage() {
 
             {/* 5 Official Regulatory Links */}
             <section className="border-t border-slate-200 pt-8 mb-4">
-              <h3 className="text-xs sm:text-sm font-bold text-slate-900 mb-3 uppercase tracking-wider">
+              <h4 className="text-xs sm:text-sm font-bold text-slate-900 mb-3 uppercase tracking-wider">
                 Official Statutory &amp; Regulatory References
-              </h3>
+              </h4>
               <div className="grid grid-cols-1 sm:grid-cols-2 gap-2.5 text-xs">
                 <a
                   href="https://www.rbi.org.in"
@@ -914,9 +914,9 @@ export default function PersonalLoanSettlementLudhianaPage() {
 
             {/* 10 Related Guide Badges */}
             <section className="border-t border-slate-200 pt-8 mb-8">
-              <h3 className="text-xs sm:text-sm font-bold text-slate-900 mb-4 uppercase tracking-wider">
+              <h4 className="text-xs sm:text-sm font-bold text-slate-900 mb-4 uppercase tracking-wider">
                 Related Legal Defense &amp; Loan Settlement Guides
-              </h3>
+              </h4>
               <div className="flex flex-wrap gap-2">
                 <Link
                   href="/best-lawyer-for-msme-loan-recovery-defence"

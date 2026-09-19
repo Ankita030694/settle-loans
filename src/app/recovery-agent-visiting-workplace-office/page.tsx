@@ -135,7 +135,7 @@ const jsonLdGraph = {
             "name": "Siddharth Malhotra"
           },
           "datePublished": "2026-07-11",
-          "reviewBody": "A private bank recovery agent showed up at my IT company reception in Bengaluru threatening to speak to my manager. I contacted SettleLoans immediately. Their advocates issued an urgent legal notice to the bank's Principal Nodal Officer quoting the RBI Fair Practices Code. The bank formally apologized within 48 hours, removed the agency, and we subsequently settled my unsecured loan at a 55% waiver.",
+          "reviewBody": "A private bank recovery agent showed up at my IT company reception in Bengaluru threatening to speak to my manager. I contacted SettleLoans immediately. Their advocates issued an urgent legal notice to the bank's Principal Nodal Officer quoting the RBI Fair Practices Code. The bank formally apologized within 48 hours, removed the agency, and we then settled my unsecured loan at a 55% waiver.",
           "reviewRating": {
             "@type": "Rating",
             "ratingValue": "5",
@@ -165,7 +165,7 @@ const jsonLdGraph = {
             "name": "Manish K. Varma"
           },
           "datePublished": "2026-05-15",
-          "reviewBody": "The fear of recovery agents coming to my corporate office was giving me panic attacks. SettleLoans took over all bank communications, placed me under their legal defense umbrella, and negotiated a structured OTS. Professional, rapid, and deeply knowledgeable about debtor rights.",
+          "reviewBody": "The fear of recovery agents coming to my corporate office was giving me panic attacks. SettleLoans took over all bank notices, placed me under their legal defense umbrella, and negotiated a structured OTS. Professional, rapid, and deeply knowledgeable about debtor rights.",
           "reviewRating": {
             "@type": "Rating",
             "ratingValue": "5",
@@ -231,7 +231,7 @@ const jsonLdGraph = {
           "name": "Can my employer fire me if a recovery agent creates a scene at my office?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Loan default is a civil contractual dispute, not a criminal offense or employment misconduct. Your employer cannot terminate you simply because of a personal loan default. However, to preemptively protect your professional standing, you should submit a formal written memo to HR clarifying that you are undergoing a structured legal dispute resolution with the bank through legal counsel and that the third-party agency is acting unlawfully."
+            "text": "Loan default is a civil contractual dispute, not a criminal offense or employment misconduct. Your employer cannot end you simply because of a personal loan default. However, to preemptively protect your professional standing, you should submit a formal written memo to HR clarifying that you are undergoing a structured legal dispute resolution with the bank through legal counsel and that the third-party agency is acting unlawfully."
           }
         },
         {
@@ -239,7 +239,7 @@ const jsonLdGraph = {
           "name": "Which IPC / BNS sections apply if a recovery agent threatens or trespasses at my workplace?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Legal actions can be initiated under Criminal Trespass (Section 441/447 IPC / Section 329 BNS), Criminal Intimidation (Section 503/506 IPC / Section 351 BNS), Defamation (Section 499/500 IPC / Section 356 BNS), and Extortion (Section 383/384 IPC / Section 308 BNS)."
+            "text": "Legal actions can be started under Criminal Trespass (Section 441/447 IPC / Section 329 BNS), Criminal Intimidation (Section 503/506 IPC / Section 351 BNS), Defamation (Section 499/500 IPC / Section 356 BNS), and Extortion (Section 383/384 IPC / Section 308 BNS)."
           }
         },
         {

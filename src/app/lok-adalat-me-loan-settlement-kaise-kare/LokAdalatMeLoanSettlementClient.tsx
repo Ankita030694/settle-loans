@@ -52,7 +52,7 @@ export default function LokAdalatMeLoanSettlementClient() {
     { id: 'attendance-rules-arrest-myths-debunked', title: '3. Voluntary Attendance & Arrest Myths Debunked' },
     { id: 'zero-court-fee-financial-advantages', title: '4. Zero Court Fees & Full Refund Mechanics' },
     { id: 'infographic-resolution-blueprint', title: '5. Visual Resolution Blueprint' },
-    { id: 'on-the-spot-negotiation-npv-haircut', title: '6. Spot Negotiation Strategy & NPV Formula' },
+    { id: 'on-the-spot-talks-npv-haircut', title: '6. Spot talks Strategy & NPV Formula' },
     { id: 'step-by-step-hearing-day-playbook', title: '7. Step-by-Step Hearing Day Playbook' },
     { id: 'lok-adalat-award-decree-finality', title: '8. Section 21 Award: Finality & Non-Appealability' },
     { id: 'sanction-letter-audit-ndc-cibil-recovery', title: '9. Sanction Letter Audit & ₹0 NDC Mandate' },
@@ -93,11 +93,11 @@ export default function LokAdalatMeLoanSettlementClient() {
     },
     {
       question: "Lok Adalat me personal loan ya credit card par kitna discount ya haircut mil sakta hai?",
-      answer: "In National Lok Adalat sessions, banks and NBFCs typically approve discounts ranging between 40% and 75% of the total outstanding demand for unsecured personal loans and credit cards. In virtually every approved compromise, 100% of accumulated penal interest, late payment penalties, bounce charges, and administrative costs are completely waived off. Furthermore, for seasoned Non-Performing Assets (NPAs past 180 to 360+ days), banks regularly agree to a 20% to 50% write-off on the core principal amount, depending on the borrower's documented financial distress."
+      answer: "In National Lok Adalat sessions, banks and NBFCs typically approve discounts ranging between 40% and 75% of the total outstanding demand for unsecured personal loans and credit cards. In virtually every approved compromise, 100% of accumulated penal interest, late payment penalties, bounce charges, and administrative costs are completely waived off. also, for seasoned Non-Performing Assets (NPAs past 180 to 360+ days), banks regularly agree to a 20% to 50% write-off on the core principal amount, depending on the borrower's documented financial distress."
     },
     {
       question: "Kya Lok Adalat me settlement hone par court fees lagti hai?",
-      answer: "No. One of the greatest statutory advantages of Lok Adalat is that there is zero court fee payable by either party. Furthermore, under Section 21(1) of the Legal Services Authorities Act, 1987, read with Section 16 of the Court Fees Act, 1870, if a formal civil suit was already pending in a regular court and the parties resolve the dispute in Lok Adalat, the entire court fee previously deposited by the plaintiff is fully refunded. This zero-fee structure significantly reduces resolution costs for both borrowers and financial institutions."
+      answer: "No. One of the greatest statutory advantages of Lok Adalat is that there is zero court fee payable by either party. also, under Section 21(1) of the Legal Services Authorities Act, 1987, read with Section 16 of the Court Fees Act, 1870, if a formal civil suit was already pending in a regular court and the parties resolve the dispute in Lok Adalat, the entire court fee previously deposited by the plaintiff is fully refunded. This zero-fee structure significantly reduces resolution costs for both borrowers and financial institutions."
     },
     {
       question: "Kya Lok Adalat ka settlement order binding hota hai aur kya bank dobara court ja sakta hai?",
@@ -109,7 +109,7 @@ export default function LokAdalatMeLoanSettlementClient() {
     },
     {
       question: "Lok Adalat settlement ke baad CIBIL score par kya asar padta hai aur No Dues Certificate kab milta hai?",
-      answer: "Following full payment of the agreed settlement sum, the lending institution updates the loan account status with credit bureaus (CIBIL, Experian, Equifax, CRIF) as 'Settled' or 'Post-Lok Adalat Settled' with a ₹0 balance. While a 'Settled' remark causes an initial credit score drop of 50 to 100 points, it halts continuous negative overdue compounding (DPD). Under RBI Circular RBI/2023-24/60, the bank is legally obligated to deliver an official stamped No Dues Certificate within 30 days of payment, subject to a ₹5,000 per day compensation penalty for unjustified delays."
+      answer: "Following full payment of the agreed settlement sum, the lending institution updates the loan account status with credit bureaus (CIBIL, Experian, Equifax, CRIF) as 'Settled' or 'Post-Lok Adalat Settled' with a ₹0 balance. While a 'Settled' remark causes an initial credit score drop of 50 to 100 points, it halts continuous negative overdue compounding (DPD). Under RBI Circular RBI/2023-24/60, the bank is legally obligated to deliver an official stamped No Dues Certificate within 30 days of payment, subject to a ₹5,000 per day relief penalty for unjustified delays."
     },
     {
       question: "WhatsApp par aaya hua Lok Adalat notice real hai ya recovery agent ka fake notice?",
@@ -281,7 +281,7 @@ export default function LokAdalatMeLoanSettlementClient() {
                 </li>
                 <li className="flex items-start gap-2.5">
                   <CheckCircle2 className="w-4 h-4 text-emerald-600 flex-shrink-0 mt-0.5" />
-                  <span><strong>Substantial OTS Discounts (40% to 75%):</strong> Because senior bank recovery managers and Stressed Asset Resolution Branch (SARB) officers have on-the-spot sanctioning powers during Lok Adalat sessions, borrowers routinely obtain 100% penal fee waivers and deep principal haircuts.</span>
+                  <span><strong>large OTS Discounts (40% to 75%):</strong> Because senior bank recovery managers and Stressed Asset Resolution Branch (SARB) officers have on-the-spot sanctioning powers during Lok Adalat sessions, borrowers routinely obtain 100% penal fee waivers and deep principal haircuts.</span>
                 </li>
                 <li className="flex items-start gap-2.5">
                   <CheckCircle2 className="w-4 h-4 text-emerald-600 flex-shrink-0 mt-0.5" />
@@ -304,13 +304,13 @@ export default function LokAdalatMeLoanSettlementClient() {
                 Demystifying Lok Adalat: An ADR Conciliation Forum
               </h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-sm sm:text-base">
-                Receiving an official-looking postal envelope or an urgent WhatsApp message carrying the heading &quot;Notice for National Lok Adalat&quot; often triggers severe panic among Indian retail borrowers. Distressed individuals struggling with overdue personal loan EMIs, credit card balances, or micro-enterprise credit lines frequently misinterpret this document as a criminal court summons, an imminent arrest warrant, or an immediate police attachment proceeding. In reality, the institutional architecture of Lok Adalat represents the complete opposite: it is India&apos;s premier, borrower-friendly Alternative Dispute Resolution (ADR) mechanism designed specifically to bypass adversarial court trials and facilitate voluntary, discounted debt compromises.
+                Receiving an official-looking postal envelope or an urgent WhatsApp message carrying the heading &quot;Notice for National Lok Adalat&quot; often triggers severe panic among Indian retail borrowers. Distressed people struggling with overdue personal loan EMIs, credit card balances, or micro-enterprise credit lines frequently misinterpret this document as a criminal court summons, an imminent arrest warrant, or an immediate police attachment case. In reality, the institutional architecture of Lok Adalat represents the complete opposite: it is India&apos;s premier, borrower-friendly Alternative Dispute Resolution (ADR) mechanism designed specifically to bypass adversarial court trials and help voluntary, discounted debt compromises.
               </p>
               <p className="text-slate-700 leading-relaxed mb-4 text-sm sm:text-base">
                 Lok Adalat, literally translating to &quot;People&apos;s Court,&quot; was granted statutory recognition under the <strong>Legal Services Authorities Act, 1987 (Act No. 39 of 1987)</strong>. Lok Adalats function to reduce judicial backlog across Indian courts. They are organized periodically by NALSA, SLSAs, DLSAs, and Taluk Committees at national, state, and district levels. A typical Lok Adalat bench comprises a Presiding Judicial Officer (either a sitting or retired District Judge or Civil Judge) sitting alongside a co-member, who is usually an experienced legal advocate, academician, or social worker.
               </p>
               <p className="text-slate-700 leading-relaxed mb-4 text-sm sm:text-base">
-                Crucially, Lok Adalat does not function as an adjudicatory court. The presiding bench has no statutory authority to conduct witness cross-examinations, examine evidence under the Indian Evidence Act, declare a borrower guilty of financial default, impose punitive monetary fines, or issue search warrants. Under <strong>Section 19(5) and Section 20(3) of the Legal Services Authorities Act</strong>, the sole legal jurisdiction of a Lok Adalat bench is to act as a neutral conciliator. The bench exists exclusively to persuade, guide, and facilitate a voluntary compromise between the creditor bank and the borrower. If both parties do not arrive at a consensual agreement of their own free will, the bench cannot impose any decision or unilateral order on either party.
+                Crucially, Lok Adalat does not function as an adjudicatory court. The presiding bench has no statutory authority to conduct witness cross-examinations, examine evidence under the Indian Evidence Act, declare a borrower guilty of financial default, impose punitive monetary fines, or issue search warrants. Under <strong>Section 19(5) and Section 20(3) of the Legal Services Authorities Act</strong>, the sole legal jurisdiction of a Lok Adalat bench is to act as a neutral conciliator. The bench exists exclusively to persuade, guide, and help a voluntary compromise between the creditor bank and the borrower. If both parties do not arrive at a consensual agreement of their own free will, the bench cannot impose any decision or unilateral order on either party.
               </p>
             </section>
 
@@ -320,29 +320,29 @@ export default function LokAdalatMeLoanSettlementClient() {
                 <FileText className="w-4 h-4" />
                 <span>2. Notice Forensics: Pre-Litigation vs. Pending Court Summons</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 Lok Adalat Notices: Decoding DLSA Pre-Litigation Summons
-              </h2>
+              </h3>
               <p className="text-slate-700 leading-relaxed mb-4 text-sm sm:text-base">
-                To respond strategically to a Lok Adalat communication, a borrower must first determine whether the notice represents a <strong>Pre-Litigation Conciliation Notice</strong> or a <strong>Post-Litigation Court Referral</strong>. Lending institutions utilize both channels depending on the recovery lifecycle of the NPA. These lenders include public sector banks, private lenders like HDFC, ICICI, and Axis Bank, and major NBFCs like Bajaj Finance.
+                To respond strategically to a Lok Adalat notice, a borrower must first determine whether the notice represents a <strong>Pre-Litigation Conciliation Notice</strong> or a <strong>Post-Litigation Court Referral</strong>. Lending institutions use both channels depending on the recovery lifecycle of the NPA. These lenders include public sector banks, private lenders like HDFC, ICICI, and Axis Bank, and major NBFCs like Bajaj Finance.
               </p>
               
               <div className="space-y-4 my-6">
                 <div className="border border-slate-200 rounded-xl p-5 bg-white shadow-sm">
-                  <h3 className="font-bold text-slate-900 text-sm sm:text-base mb-2 flex items-center gap-2">
+                  <h4 className="font-bold text-slate-900 text-sm sm:text-base mb-2 flex items-center gap-2">
                     <FileCheck className="w-4 h-4 text-[#1F5EFF]" />
                     <span>Category 1: Pre-Litigation Lok Adalat Notice (PLC Notice)</span>
-                  </h3>
+                  </h4>
                   <p className="text-xs sm:text-sm text-slate-600 leading-relaxed">
                     Issued under Section 19(5)(ii) of the Legal Services Authorities Act, a Pre-Litigation Case notice is generated before formal litigation begins. It precedes any civil suit, Section 138 NI Act cheque bounce complaint, or Section 25 PSSA NACH bounce petition. The bank submits a bulk list of delinquent loan accounts to the DLSA, which then issues an administrative invitation to explore an out-of-court One-Time Settlement (OTS). This notice carries zero judicial liability; it is purely an invitation to negotiate.
                   </p>
                 </div>
 
                 <div className="border border-slate-200 rounded-xl p-5 bg-white shadow-sm">
-                  <h3 className="font-bold text-slate-900 text-sm sm:text-base mb-2 flex items-center gap-2">
+                  <h4 className="font-bold text-slate-900 text-sm sm:text-base mb-2 flex items-center gap-2">
                     <Scale className="w-4 h-4 text-indigo-600" />
                     <span>Category 2: Post-Litigation Pending Matter Referral</span>
-                  </h3>
+                  </h4>
                   <p className="text-xs sm:text-sm text-slate-600 leading-relaxed">
                     If a formal civil recovery suit or Section 138/PSSA complaint is pending, the trial judge can refer the dispute to a National Lok Adalat under Section 20(1) of the LSA Act. This occurs whenever there is a reasonable possibility of an amicable compromise. In this scenario, attending the Lok Adalat session allows the borrower to close the ongoing court case permanently without facing a prolonged, stressful trial.
                   </p>
@@ -360,9 +360,9 @@ export default function LokAdalatMeLoanSettlementClient() {
                 <ShieldX className="w-4 h-4 text-rose-600" />
                 <span>3. Voluntary Attendance, Zero Coercion &amp; Arrest Myths Debunked</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 Is Lok Adalat Attendance Mandatory? Debunking Arrest Myths
-              </h2>
+              </h3>
               <p className="text-slate-700 leading-relaxed mb-4 text-sm sm:text-base">
                 The most pervasive myth spread by aggressive recovery tele-callers is that ignoring a Lok Adalat notice constitutes contempt of court, which will trigger immediate non-bailable arrest warrants (NBWs) or police visits to the borrower&apos;s residence. This threat is completely baseless and legally impossible under Indian jurisprudence.
               </p>
@@ -370,7 +370,7 @@ export default function LokAdalatMeLoanSettlementClient() {
                 Under the <strong>Legal Services Authorities Act, 1987</strong>, attendance at a pre-litigation Lok Adalat is <strong>100% voluntary</strong>. Section 20(3) explicitly mandates that the Lok Adalat bench shall proceed to dispose of any reference only with the consent and willing participation of both parties. If a borrower chooses not to appear on the scheduled date, the Presiding Officer has zero statutory authority to issue bailable warrants, non-bailable warrants, police summons, or property attachment directives. The bench simply marks the pre-litigation case record with the standard administrative notation: <em>&quot;Matter Disposed of as Unsettled / Returned to Originating Institution.&quot;</em>
               </p>
               <p className="text-slate-700 leading-relaxed mb-4 text-sm sm:text-base">
-                Following non-appearance at a pre-litigation Lok Adalat, the legal status of the debt reverts entirely to the status quo ante. The bank retains its standard civil remedies—such as issuing statutory legal notices or filing civil suits—but suffers no advantage, while the borrower suffers no legal disadvantage or judicial censure. Attending Lok Adalat is highly beneficial for borrowers. It shifts negotiation away from abusive recovery call centers into a regulated judicial forum. There, senior bank decision-makers hold authority to grant substantial settlement discounts.
+                Following non-appearance at a pre-litigation Lok Adalat, the legal status of the debt reverts entirely to the status quo ante. The bank retains its standard civil remedies—such as issuing statutory legal notices or filing civil suits—but suffers no advantage, while the borrower suffers no legal disadvantage or judicial censure. Attending Lok Adalat is highly beneficial for borrowers. It shifts talks away from abusive recovery call centers into a regulated judicial forum. There, senior bank decision-makers hold authority to grant large settlement discounts.
               </p>
             </section>
 
@@ -380,17 +380,17 @@ export default function LokAdalatMeLoanSettlementClient() {
                 <Percent className="w-4 h-4 text-emerald-600" />
                 <span>4. Zero Court Fees, Cost Efficiency &amp; Full Refund Mechanics</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 Zero Court Fees & Fee Refund Protections in Lok Adalat
-              </h2>
+              </h3>
               <p className="text-slate-700 leading-relaxed mb-4 text-sm sm:text-base">
                 Traditional civil litigation in India is notorious for prohibitive legal costs, mandatory ad-valorem court fees (often ranging between 5% and 10% of the disputed claim amount), process fees, and advocate retainers that compound over years. Lok Adalat eliminates these financial barriers completely through an extraordinary statutory cost framework.
               </p>
               <p className="text-slate-700 leading-relaxed mb-4 text-sm sm:text-base">
-                Under the regulations governing National Lok Adalats, <strong>zero court fees</strong> are payable by either the borrower or the financial institution for initiating, presenting, or concluding a pre-litigation conciliation. There are no stamp duty levies, registry charges, or procedural application costs. Both parties enter the forum completely free of administrative friction, ensuring that every rupee committed goes directly toward reducing the core debt rather than paying judicial taxes.
+                Under the regulations governing National Lok Adalats, <strong>zero court fees</strong> are payable by either the borrower or the financial institution for starting, presenting, or concluding a pre-litigation conciliation. There are no stamp duty levies, registry charges, or procedural application costs. Both parties enter the forum completely free of administrative friction, ensuring that every rupee committed goes directly toward reducing the core debt rather than paying judicial taxes.
               </p>
               <p className="text-slate-700 leading-relaxed mb-4 text-sm sm:text-base">
-                When a lawsuit is already pending before a regular Civil Court, <strong>Section 21(1) of the Legal Services Authorities Act, 1987</strong> provides an incentive. Read with <strong>Section 16 of the Court Fees Act, 1870</strong>, it allows substantial savings:
+                When a lawsuit is already pending before a regular Civil Court, <strong>Section 21(1) of the Legal Services Authorities Act, 1987</strong> provides an incentive. Read with <strong>Section 16 of the Court Fees Act, 1870</strong>, it allows large savings:
               </p>
 
               <div className="border border-emerald-200 rounded-xl p-5 bg-emerald-50/60 my-5 text-xs sm:text-sm text-emerald-950 leading-relaxed">
@@ -410,9 +410,9 @@ export default function LokAdalatMeLoanSettlementClient() {
                 <Layers className="w-4 h-4" />
                 <span>5. Visual Resolution Blueprint</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 National Lok Adalat Loan Settlement Workflow &amp; Conciliation Flow
-              </h2>
+              </h3>
               
               <div className="my-6 rounded-2xl overflow-hidden border border-slate-200 shadow-md bg-slate-50">
                 <img
@@ -424,20 +424,20 @@ export default function LokAdalatMeLoanSettlementClient() {
                 />
                 <div className="p-4 bg-slate-900 text-white text-xs leading-relaxed">
                   <span className="font-bold text-blue-400">Figure 1.1: </span>
-                  Comprehensive statutory roadmap of the National Lok Adalat debt settlement process in India: from DLSA pre-litigation notice receipt, conciliation hearing before the judicial bench, on-the-spot OTS negotiation with senior bank managers, to the pronouncement of an unappealable Section 21 Civil Court Decree and ₹0 No Dues Certificate.
+                  Comprehensive statutory roadmap of the National Lok Adalat debt settlement process in India: from DLSA pre-litigation notice receipt, conciliation hearing before the judicial bench, on-the-spot OTS talks with senior bank managers, to the pronouncement of an unappealable Section 21 Civil Court Decree and ₹0 No Dues Certificate.
                 </div>
               </div>
             </section>
 
-            {/* Section 6: Spot Negotiation Strategy & NPV Formula */}
-            <section id="on-the-spot-negotiation-npv-haircut" className="scroll-mt-24 mb-10">
+            {/* Section 6: Spot talks Strategy & NPV Formula */}
+            <section id="on-the-spot-talks-npv-haircut" className="scroll-mt-24 mb-10">
               <div className="inline-flex items-center gap-2 text-xs font-bold text-[#1F5EFF] uppercase tracking-wider mb-2">
                 <Calculator className="w-4 h-4" />
-                <span>6. On-the-Spot Negotiation Strategy &amp; Net Present Value (NPV) Formula</span>
+                <span>6. On-the-Spot talks Strategy &amp; Net Present Value (NPV) Formula</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 How to Secure Highest Haircut on the Spot at Lok Adalat
-              </h2>
+              </h3>
               <p className="text-slate-700 leading-relaxed mb-4 text-sm sm:text-base">
                 Securing an aggressive 40% to 75% debt haircut at Lok Adalat is not a matter of emotional pleading. It is an analytical exercise rooted in banking regulations and asset classification rules established by the Reserve Bank of India. To negotiate effectively before the Lok Adalat bench, borrowers must understand how commercial banks evaluate non-performing assets on their balance sheets.
               </p>
@@ -445,7 +445,7 @@ export default function LokAdalatMeLoanSettlementClient() {
                 Under the <strong>RBI Master Directions on Prudential Norms on Income Recognition, Asset Classification and Provisioning (IRACP)</strong>, once an unsecured loan defaults past 90 days, it is classified as a Non-Performing Asset (Sub-Standard). If default extends past 12 months, the loan deteriorates into a Doubtful Asset (D1, D2, D3). Banks must then lock 25% to 100% of the loan amount in capital provisioning from operating profits. For unsecured credit, banks must maintain 100% provisioning against Loss Assets.
               </p>
               <p className="text-slate-700 leading-relaxed mb-4 text-sm sm:text-base">
-                During National Lok Adalat sessions, bank credit committees and SARB officers face pressure to liquidate legacy NPAs. Settling enables them to reverse costly provisioning reserves and recover capital without spending lakhs on litigation advocates. To justify a deep settlement haircut to their internal audit teams and the Central Vigilance Commission (CVC), bank officers utilize the <strong>Net Present Value (NPV) Recovery Valuation Formula</strong>:
+                During National Lok Adalat sessions, bank credit committees and SARB officers face pressure to liquidate legacy NPAs. Settling enables them to reverse costly provisioning reserves and recover capital without spending lakhs on litigation advocates. To justify a deep settlement haircut to their internal audit teams and the Central Vigilance Commission (CVC), bank officers use the <strong>Net Present Value (NPV) Recovery Valuation Formula</strong>:
               </p>
 
               {/* Formula Box */}
@@ -463,7 +463,7 @@ export default function LokAdalatMeLoanSettlementClient() {
               </div>
 
               <p className="text-slate-700 leading-relaxed mb-4 text-sm sm:text-base">
-                Presenting a documented hardship dossier proves genuine financial distress. When borrowers provide medical invoices, job termination letters, or business closure filings, recovery officers recognize that prolonged litigation will yield far less than an immediate cash compromise. Consequently, banks systematically agree to:
+                Presenting a documented hardship dossier proves genuine financial distress. When borrowers provide medical invoices, job termination letters, or business closure filings, recovery officers recognize that prolonged litigation will yield far less than an immediate cash compromise. so, banks systematically agree to:
               </p>
               <ul className="space-y-2 mb-4 text-sm sm:text-base text-slate-700 list-disc list-inside">
                 <li><strong>100% Complete Waiver:</strong> Total elimination of accumulated penal interest, compounding overdue interest, late payment fines, cheque bounce fees, and legal notice levies.</li>
@@ -478,59 +478,59 @@ export default function LokAdalatMeLoanSettlementClient() {
                 <CheckCircle2 className="w-4 h-4" />
                 <span>7. Step-by-Step Lok Adalat Hearing Day Playbook</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 The Lok Adalat Hearing Day Playbook: From Court Entry to Final Decree
-              </h2>
+              </h3>
               <p className="text-slate-700 leading-relaxed mb-4 text-sm sm:text-base">
                 Navigating the physical District Court complex on the day of a National Lok Adalat requires a clear, methodical action plan. The conciliation process follows five distinct procedural phases:
               </p>
 
               <div className="space-y-4 my-6">
                 <div className="border border-slate-200 rounded-xl p-5 bg-white shadow-sm">
-                  <h3 className="font-bold text-slate-900 text-sm sm:text-base mb-1 flex items-center gap-2">
+                  <h4 className="font-bold text-slate-900 text-sm sm:text-base mb-1 flex items-center gap-2">
                     <span className="w-6 h-6 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center text-xs font-bold">1</span>
                     <span>Registry Verification &amp; Bench Allocation</span>
-                  </h3>
+                  </h4>
                   <p className="text-xs sm:text-sm text-slate-600 leading-relaxed">
                     Arrive at the designated District Court Complex by 9:30 AM. Check the master display board or DLSA help desk to locate the specific Lok Adalat Bench assigned to your lending bank (e.g., Bench No. 4 for SBI, Bench No. 7 for HDFC Bank/ICICI Bank). Present your notice and obtain the daily cause list serial number.
                   </p>
                 </div>
 
                 <div className="border border-slate-200 rounded-xl p-5 bg-white shadow-sm">
-                  <h3 className="font-bold text-slate-900 text-sm sm:text-base mb-1 flex items-center gap-2">
+                  <h4 className="font-bold text-slate-900 text-sm sm:text-base mb-1 flex items-center gap-2">
                     <span className="w-6 h-6 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center text-xs font-bold">2</span>
                     <span>Direct Conciliation with Senior Bank Officers</span>
-                  </h3>
+                  </h4>
                   <p className="text-xs sm:text-sm text-slate-600 leading-relaxed">
-                    Prior to formally presenting before the Judicial Bench, meet directly with the bank&apos;s authorized Stressed Asset Manager or Chief Manager seated at the dedicated bank resolution desk. Present your financial hardship dossier, demonstrate your current genuine repayment capacity, and propose a concrete OTS settlement figure (e.g., 30%–45% of total ledger demand).
+                    before formally presenting before the Judicial Bench, meet directly with the bank&apos;s authorized Stressed Asset Manager or Chief Manager seated at the dedicated bank resolution desk. Present your financial hardship dossier, show your current genuine repayment capacity, and propose a concrete OTS settlement figure (e.g., 30%–45% of total ledger demand).
                   </p>
                 </div>
 
                 <div className="border border-slate-200 rounded-xl p-5 bg-white shadow-sm">
-                  <h3 className="font-bold text-slate-900 text-sm sm:text-base mb-1 flex items-center gap-2">
+                  <h4 className="font-bold text-slate-900 text-sm sm:text-base mb-1 flex items-center gap-2">
                     <span className="w-6 h-6 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center text-xs font-bold">3</span>
                     <span>Judicial Conciliation Before the Lok Adalat Bench</span>
-                  </h3>
+                  </h4>
                   <p className="text-xs sm:text-sm text-slate-600 leading-relaxed">
-                    Once an initial agreement or negotiation gap is established, the matter is called before the Presiding Judge. The judge reviews the loan ledger and questions excessive penal interest charges. After evaluating the borrower&apos;s hardship, the bench persuades the bank manager to approve a fair, realistic settlement amount.
+                    Once an initial agreement or talks gap is established, the matter is called before the Presiding Judge. The judge reviews the loan ledger and questions excessive penal interest charges. After evaluating the borrower&apos;s hardship, the bench persuades the bank manager to approve a fair, realistic settlement amount.
                   </p>
                 </div>
 
                 <div className="border border-slate-200 rounded-xl p-5 bg-white shadow-sm">
-                  <h3 className="font-bold text-slate-900 text-sm sm:text-base mb-1 flex items-center gap-2">
+                  <h4 className="font-bold text-slate-900 text-sm sm:text-base mb-1 flex items-center gap-2">
                     <span className="w-6 h-6 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center text-xs font-bold">4</span>
                     <span>Drafting and Signing the Joint Settlement Memo</span>
-                  </h3>
+                  </h4>
                   <p className="text-xs sm:text-sm text-slate-600 leading-relaxed">
                     When terms are finalized, a formal Joint Statement of Compromise (Settlement Memo) is drafted. Ensure that the settlement award explicitly records all key terms. It must state the exact compromise sum, full waiver of balance dues, specific payment deadlines, account details, and a binding covenant to withdraw all court complaints.
                   </p>
                 </div>
 
                 <div className="border border-slate-200 rounded-xl p-5 bg-white shadow-sm">
-                  <h3 className="font-bold text-slate-900 text-sm sm:text-base mb-1 flex items-center gap-2">
+                  <h4 className="font-bold text-slate-900 text-sm sm:text-base mb-1 flex items-center gap-2">
                     <span className="w-6 h-6 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center text-xs font-bold">5</span>
                     <span>Pronouncement of the Statutory Lok Adalat Award</span>
-                  </h3>
+                  </h4>
                   <p className="text-xs sm:text-sm text-slate-600 leading-relaxed">
                     The Presiding Judicial Officer and co-member sign and seal the formal Lok Adalat Award. Certified copies of the Award are handed over to both the borrower and the bank on the spot, providing permanent, unassailable legal closure.
                   </p>
@@ -544,9 +544,9 @@ export default function LokAdalatMeLoanSettlementClient() {
                 <Gavel className="w-4 h-4 text-[#1F5EFF]" />
                 <span>8. Section 21 Award Decree: Statutory Finality &amp; Non-Appealability</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 Section 21 Legal Force: Finality of Lok Adalat Awards
-              </h2>
+              </h3>
               <p className="text-slate-700 leading-relaxed mb-4 text-sm sm:text-base">
                 One of the most powerful legal safeguards of settling a loan through Lok Adalat is the absolute statutory finality conferred upon the compromise agreement. Unlike informal bank settlement letters that can occasionally be disputed or mismanaged by changing branch staff, a Lok Adalat settlement carries the full weight of a judicial decree.
               </p>
@@ -558,27 +558,27 @@ export default function LokAdalatMeLoanSettlementClient() {
               </p>
             </section>
 
-            {/* Section 9: Sanction Letter Audit, ₹0 NDC & Credit Score Rehabilitation */}
+            {/* Section 9: Sanction Letter Audit, ₹0 NDC & Credit Score recovery */}
             <section id="sanction-letter-audit-ndc-cibil-recovery" className="scroll-mt-24 mb-10">
               <div className="inline-flex items-center gap-2 text-xs font-bold text-[#1F5EFF] uppercase tracking-wider mb-2">
                 <ShieldCheck className="w-4 h-4 text-emerald-600" />
-                <span>9. Sanction Letter Audit, ₹0 NDC &amp; Credit Score Rehabilitation</span>
+                <span>9. Sanction Letter Audit, ₹0 NDC &amp; Credit Score recovery</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 Post-Settlement Protocols: RBI 30-Day NDC Mandate and CIBIL Trajectory
-              </h2>
+              </h3>
               <p className="text-slate-700 leading-relaxed mb-4 text-sm sm:text-base">
                 Concluding the Lok Adalat hearing is only the first part of complete debt freedom; executing flawless post-settlement compliance is equally vital. Borrowers must follow strict verification protocols when remitting the agreed settlement funds:
               </p>
               
               <div className="bg-slate-50 border border-slate-200 rounded-2xl p-5 my-6 space-y-3">
-                <h3 className="font-bold text-slate-900 text-sm sm:text-base">
+                <h4 className="font-bold text-slate-900 text-sm sm:text-base">
                   Essential Post-Settlement Execution Checklist:
-                </h3>
+                </h4>
                 <ul className="space-y-2 text-xs sm:text-sm text-slate-700">
                   <li className="flex items-start gap-2">
                     <Check className="w-4 h-4 text-emerald-600 flex-shrink-0 mt-0.5" />
-                    <span><strong>Direct Loan Account Remittance:</strong> Never pay settlement funds in cash to individual recovery agents or transfer to personal UPI IDs. Remit funds directly into your specific loan account number via RTGS/NEFT/IMPS or via a crossed Account Payee Demand Draft drawn in favour of the bank.</span>
+                    <span><strong>Direct Loan Account Remittance:</strong> Never pay settlement funds in cash to person recovery agents or transfer to personal UPI IDs. Remit funds directly into your specific loan account number via RTGS/NEFT/IMPS or via a crossed Account Payee Demand Draft drawn in favour of the bank.</span>
                   </li>
                   <li className="flex items-start gap-2">
                     <Check className="w-4 h-4 text-emerald-600 flex-shrink-0 mt-0.5" />
@@ -586,13 +586,13 @@ export default function LokAdalatMeLoanSettlementClient() {
                   </li>
                   <li className="flex items-start gap-2">
                     <Check className="w-4 h-4 text-emerald-600 flex-shrink-0 mt-0.5" />
-                    <span><strong>Mandatory 30-Day NDC Delivery:</strong> Under <strong>RBI Circular RBI/2023-24/60 (Responsible Lending Conduct)</strong>, all regulated commercial banks and NBFCs are statutorily mandated to issue a formal <strong>No Dues Certificate (NDC) / Loan Closure Certificate</strong> within <strong>30 calendar days</strong> of settlement clearance. Delays beyond 30 days obligate the lender to pay mandatory compensation of <strong>₹5,000 per day</strong> directly to the borrower.</span>
+                    <span><strong>Mandatory 30-Day NDC Delivery:</strong> Under <strong>RBI Circular RBI/2023-24/60 (Responsible Lending Conduct)</strong>, all regulated commercial banks and NBFCs are statutorily mandated to issue a formal <strong>No Dues Certificate (NDC) / Loan Closure Certificate</strong> within <strong>30 calendar days</strong> of settlement clearance. Delays beyond 30 days obligate the lender to pay mandatory relief of <strong>₹5,000 per day</strong> directly to the borrower.</span>
                   </li>
                 </ul>
               </div>
 
               <p className="text-slate-700 leading-relaxed mb-4 text-sm sm:text-base">
-                Settling a loan for less than the total balance causes the bank to report the account as &apos;Settled&apos; or &apos;Post-Lok Adalat Settled&apos;. This updates CIBIL, Experian, Equifax, and CRIF High Mark to reflect an outstanding balance of ₹0. While a &apos;Settled&apos; status results in an immediate credit score adjustment of 50 to 100 points, it instantly halts destructive Days Past Due (DPD) compounding. By obtaining a secured credit card against a small fixed deposit, maintaining credit utilization below 30%, and ensuring flawless on-time repayments, borrowers systematically rebuild their credit score back to 750+ within 12 to 24 months.
+                Settling a loan for less than the total balance causes the bank to report the account as &apos;Settled&apos; or &apos;Post-Lok Adalat Settled&apos;. This updates CIBIL, Experian, Equifax, and CRIF High Mark to reflect an outstanding balance of ₹0. While a &apos;Settled&apos; status results in an immediate credit score adjustment of 50 to 100 points, it instantly halts destructive Days Past Due (DPD) compounding. By obtaining a secured credit card against a small fixed deposit, maintaining credit use below 30%, and ensuring flawless on-time repayments, borrowers systematically rebuild their credit score back to 750+ within 12 to 24 months.
               </p>
             </section>
 
@@ -602,9 +602,9 @@ export default function LokAdalatMeLoanSettlementClient() {
                 <Scale className="w-4 h-4" />
                 <span>10. Comparative Resolution Matrix &amp; Professional Legal Advocacy</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 Comparing Resolution Channels: Solo vs Agency vs SettleLoans
-              </h2>
+              </h3>
               <p className="text-slate-700 leading-relaxed mb-4 text-sm sm:text-base">
                 Understanding how different approaches impact settlement outcomes at National Lok Adalat is critical for achieving optimal financial relief. The comparative matrix below highlights key structural differences:
               </p>
@@ -661,9 +661,9 @@ export default function LokAdalatMeLoanSettlementClient() {
                 </table>
               </div>
 
-              <h3 className="text-lg sm:text-xl font-bold text-slate-900 mb-3">
+              <h4 className="text-lg sm:text-xl font-bold text-slate-900 mb-3">
                 Expert Legal Representation for National Lok Adalat Debt Resolution
-              </h3>
+              </h4>
               <p className="text-slate-700 leading-relaxed mb-6 text-sm sm:text-base">
                 While hiring a lawyer to attend Lok Adalat is not mandatory by statute, navigating aggressive bank recovery committees, complex NPV valuation calculations, and judicial decree drafting requires specialized expertise. SettleLoans provides complete advocate-led representation, preparing your legal defense, stopping recovery harassment, and securing maximum settlement haircuts with unassailable court decrees.
               </p>
@@ -678,9 +678,9 @@ export default function LokAdalatMeLoanSettlementClient() {
                 <HelpCircle className="w-4 h-4" />
                 <span>11. Frequently Asked Questions</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
                 Frequently Asked Questions on Lok Adalat Loan Settlement in India
-              </h2>
+              </h3>
 
               <div className="space-y-4">
                 {faqs.map((faq, index: number) => {
@@ -723,10 +723,10 @@ export default function LokAdalatMeLoanSettlementClient() {
 
             {/* 5 Official Regulatory Links */}
             <section className="bg-slate-50 border border-slate-200 rounded-2xl p-6 mb-8">
-              <h3 className="text-sm font-bold text-slate-900 mb-3 uppercase tracking-wider flex items-center gap-2">
+              <h4 className="text-sm font-bold text-slate-900 mb-3 uppercase tracking-wider flex items-center gap-2">
                 <ExternalLink className="w-4 h-4 text-[#1F5EFF]" />
                 <span>Official Statutory &amp; Regulatory References</span>
-              </h3>
+              </h4>
               <div className="grid grid-cols-1 sm:grid-cols-2 gap-3 text-xs">
                 <a
                   href="https://nalsa.gov.in"
@@ -778,9 +778,9 @@ export default function LokAdalatMeLoanSettlementClient() {
 
             {/* 10 Related Guide Badges */}
             <section className="border-t border-slate-200 pt-8 mb-8">
-              <h3 className="text-sm font-bold text-slate-900 mb-4 uppercase tracking-wider">
+              <h4 className="text-sm font-bold text-slate-900 mb-4 uppercase tracking-wider">
                 Related Loan Settlement &amp; Legal Defense Guides
-              </h3>
+              </h4>
               <div className="flex flex-wrap gap-2">
                 <Link
                   href="/lok-adalat-notice-for-personal-loan"

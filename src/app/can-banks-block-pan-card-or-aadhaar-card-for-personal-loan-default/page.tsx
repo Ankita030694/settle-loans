@@ -255,22 +255,22 @@ export default function PANCardAadhaarBlockDefensePage() {
             </section>
 
             <section id="the-legal-truth" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 The Legal Truth: PAN & Aadhaar Governance
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 To understand why these threats are empty, you need to look at who actually controls these identification documents. Private banks and recovery agencies have no jurisdiction over government databases.
               </p>
 
               <div className="grid md:grid-cols-2 gap-6 my-8">
                 <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
-                  <h3 className="font-black text-[#1F5EFF] text-lg mb-3">PAN Card (Income Tax Act)</h3>
+                  <h4 className="font-black text-[#1F5EFF] text-lg mb-3">PAN Card (Income Tax Act)</h4>
                   <p className="text-gray-700 leading-relaxed">
                     Permanent Account Numbers (PAN) are issued and governed exclusively by the Income Tax Department of India under the Income Tax Act, 1961. A PAN card can only be deactivated or cancelled by an Assessing Officer for specific tax-related frauds or duplicate PAN issuances. A private civil loan default gives a bank zero authority to instruct the IT Department to block your PAN.
                   </p>
                 </div>
                 <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
-                  <h4 className="font-black text-[#1F5EFF] text-lg mb-3">Aadhaar Card (UIDAI)</h4>
+                  <h5 className="font-black text-[#1F5EFF] text-lg mb-3">Aadhaar Card (UIDAI)</h5>
                   <p className="text-gray-700 leading-relaxed">
                     Aadhaar is managed by the Unique Identification Authority of India (UIDAI). Deactivation of an Aadhaar number is governed by the Aadhaar Act, 2016, and only occurs in extreme cases like establishing a false identity, mixing biometrics, or national security threats. Financial institutions merely use Aadhaar for e-KYC; they cannot revoke it.
                   </p>
@@ -285,15 +285,15 @@ export default function PANCardAadhaarBlockDefensePage() {
             </section>
 
             <section id="why-they-lie" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 Why Do Recovery Agents Use This Scam?
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 If they know it's illegal, why do recovery agencies use the "PAN Block" threat so frequently? The answer lies in the psychology of debt collection.
               </p>
 
               <div className="bg-blue-50 border-l-8 border-[#1F5EFF] p-8 rounded-r-2xl mb-8">
-                <h3 className="text-xl font-black text-[#1F5EFF] mb-4">The Mechanics of Fear</h3>
+                <h4 className="text-xl font-black text-[#1F5EFF] mb-4">The Mechanics of Fear</h4>
                 <p className="text-blue-900 text-lg leading-relaxed mb-4">
                   Third-party agencies work on high commission margins. The faster they extract money, the more they earn. They know that standard legal notices take months, so they resort to instant psychological terror.
                 </p>
@@ -314,7 +314,7 @@ export default function PANCardAadhaarBlockDefensePage() {
               </div>
 
               <div className="bg-red-50 p-6 rounded-xl border border-red-100 mb-8">
-                <h4 className="text-xl font-black text-red-700 mb-3">The Fake Notice Tactics</h4>
+                <h5 className="text-xl font-black text-red-700 mb-3">The Fake Notice Tactics</h5>
                 <p className="text-red-900 leading-relaxed">
                   Agents frequently use cheap PDF editors to stick the RBI logo, the Ministry of Finance emblem, and a fake signature onto a document titled "URGENT NOTICE FOR PAN DEACTIVATION." Sending such forged documents is a serious criminal offense.
                 </p>
@@ -322,9 +322,9 @@ export default function PANCardAadhaarBlockDefensePage() {
             </section>
 
             <section id="criminal-offenses" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 Agents Are Committing Serious Crimes
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 When a recovery agent threatens to block your government ID, they cross the line from civil debt collection into criminal behavior punishable by imprisonment.
               </p>
@@ -333,7 +333,7 @@ export default function PANCardAadhaarBlockDefensePage() {
                 <div className="flex gap-6">
                   <div className="flex-shrink-0 w-12 h-12 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center font-black text-xl shadow-lg">1</div>
                   <div>
-                    <h3 className="text-2xl font-bold text-[#2E2E2E] mb-2">Criminal Intimidation (Section 351 BNS)</h3>
+                    <h4 className="text-2xl font-bold text-[#2E2E2E] mb-2">Criminal Intimidation (Section 351 BNS)</h4>
                     <p className="text-lg text-gray-700 leading-relaxed">
                       Threatening a person with injury to their property or reputation with the intent to cause alarm, or to force them to do something they are not legally bound to do (like paying an arbitrary inflated amount immediately), constitutes criminal intimidation.
                     </p>
@@ -343,7 +343,7 @@ export default function PANCardAadhaarBlockDefensePage() {
                 <div className="flex gap-6">
                   <div className="flex-shrink-0 w-12 h-12 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center font-black text-xl shadow-lg">2</div>
                   <div>
-                    <h3 className="text-2xl font-bold text-[#2E2E2E] mb-2">Forgery & Using Forged Documents (Sections 336 & 340 BNS)</h3>
+                    <h4 className="text-2xl font-bold text-[#2E2E2E] mb-2">Forgery & Using Forged Documents (Sections 336 & 340 BNS)</h4>
                     <p className="text-lg text-gray-700 leading-relaxed">
                       Creating a fake "PAN Deactivation Notice" using unauthorized government logos, and sending it via WhatsApp or email to extort money, is forgery. Using this forged document as genuine carries severe penalties.
                     </p>
@@ -353,7 +353,7 @@ export default function PANCardAadhaarBlockDefensePage() {
                 <div className="flex gap-6">
                   <div className="flex-shrink-0 w-12 h-12 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center font-black text-xl shadow-lg">3</div>
                   <div>
-                    <h3 className="text-2xl font-bold text-[#2E2E2E] mb-2">Impersonation of a Public Servant (Section 204 BNS)</h3>
+                    <h4 className="text-2xl font-bold text-[#2E2E2E] mb-2">Impersonation of a Public Servant (Section 204 BNS)</h4>
                     <p className="text-lg text-gray-700 leading-relaxed">
                       Agents often call claiming to be "Inspector Sharma from the RBI" or "Officer from the Income Tax Department." Impersonating a public servant to enforce a private debt is a distinct criminal act.
                     </p>
@@ -363,14 +363,14 @@ export default function PANCardAadhaarBlockDefensePage() {
             </section>
 
             <section id="cibil-vs-government-id" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 CIBIL Impact vs Government IDs
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 One of the most profound points of confusion for borrowers is distinguishing between private credit bureaus and sovereign government identity frameworks. Recovery agents aggressively blur these lines to maximize your anxiety. It is essential to understand exactly what a bank can and cannot report when you default on a personal loan.
               </p>
               <div className="bg-[#f8faff] p-8 rounded-2xl mb-8 border border-[#DEDEDE]">
-                <h3 className="text-xl font-black text-[#1F5EFF] mb-4">The Extent of Bank Authority</h3>
+                <h4 className="text-xl font-black text-[#1F5EFF] mb-4">The Extent of Bank Authority</h4>
                 <p className="text-gray-800 text-lg leading-relaxed mb-4">
                   When you default, the bank is legally obligated to report your delayed payments to credit information companies (CICs) like CIBIL, Experian, Equifax, or CRIF High Mark. This will severely negatively impact your credit score, making it exceedingly difficult to obtain new credit cards, personal loans, or home loans in the foreseeable future. This is the absolute limit of their reporting power.
                 </p>
@@ -381,21 +381,21 @@ export default function PANCardAadhaarBlockDefensePage() {
             </section>
 
             <section id="salary-processing-myth" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 The Salary Processing Myth
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 Perhaps the most vicious threat deployed by these agents is the claim that they will "block your PAN so your employer cannot process your salary." This strikes directly at a borrower's livelihood and often forces them to borrow from illegal loan apps just to pay the agent off. This threat is a complete fabrication based on zero legal standing.
               </p>
               <div className="grid md:grid-cols-2 gap-6 my-8">
                 <div className="bg-white p-6 rounded-xl border border-[#DEDEDE] shadow-sm">
-                  <h3 className="font-black text-[#1F5EFF] text-lg mb-3">How Salary Actually Works</h3>
+                  <h4 className="font-black text-[#1F5EFF] text-lg mb-3">How Salary Actually Works</h4>
                   <p className="text-gray-700 leading-relaxed">
                     Employers require your PAN solely for the purpose of deducting Tax Deducted at Source (TDS) under the Income Tax Act. The HR or finance department of your company does not check with your creditors or credit bureaus before processing payroll. As long as your PAN is active on the Income Tax portal (which a bank cannot alter), your salary processing remains entirely uninterrupted.
                   </p>
                 </div>
                 <div className="bg-white p-6 rounded-xl border border-[#DEDEDE] shadow-sm">
-                  <h4 className="font-black text-[#1F5EFF] text-lg mb-3">Employer Communications</h4>
+                  <h5 className="font-black text-[#1F5EFF] text-lg mb-3">Employer Communications</h5>
                   <p className="text-gray-700 leading-relaxed">
                     Agents sometimes threaten to call your HR department to get you fired. Under the RBI's Fair Practices Code and privacy laws, banks and their agents are strictly prohibited from discussing your debt with third parties, including your employer. If an agent calls your workplace, the bank is liable for severe regulatory penalties and defamation claims.
                   </p>
@@ -404,34 +404,34 @@ export default function PANCardAadhaarBlockDefensePage() {
             </section>
 
             <section id="how-to-respond" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 Step-by-Step Guide to Responding
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 Do not let them smell your fear. The moment you expose their lies, they usually back down. Here is exactly what you should do:
               </p>
 
               <div className="grid md:grid-cols-2 gap-6 my-8">
                 <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
-                  <h3 className="font-black text-[#1F5EFF] text-lg mb-3">Step 1: Collect Evidence</h3>
+                  <h4 className="font-black text-[#1F5EFF] text-lg mb-3">Step 1: Collect Evidence</h4>
                   <p className="text-gray-700 leading-relaxed">
                     Install a call recorder app on your phone. Whenever they call, record the conversation. Take screenshots of all WhatsApp messages, fake notices, and abusive texts. Do NOT block them immediately—you need the evidence.
                   </p>
                 </div>
                 <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
-                  <h4 className="font-black text-[#1F5EFF] text-lg mb-3">Step 2: Challenge Them Directly</h4>
+                  <h5 className="font-black text-[#1F5EFF] text-lg mb-3">Step 2: Challenge Them Directly</h5>
                   <p className="text-gray-700 leading-relaxed">
                     When they threaten your PAN, calmly say: "I know my rights. A bank cannot block a PAN card. Send me the notice from the Income Tax Department via India Post, or I am filing an FIR for extortion right now." Watch how fast they hang up.
                   </p>
                 </div>
                 <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
-                  <h4 className="font-black text-[#1F5EFF] text-lg mb-3">Step 3: Register a Police Complaint</h4>
+                  <h5 className="font-black text-[#1F5EFF] text-lg mb-3">Step 3: Register a Police Complaint</h5>
                   <p className="text-gray-700 leading-relaxed">
                     Visit your local police station or use the National Cyber Crime portal (cybercrime.gov.in) if they used WhatsApp. File a complaint for harassment, extortion, and forgery against the phone numbers used.
                   </p>
                 </div>
                 <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
-                  <h4 className="font-black text-[#1F5EFF] text-lg mb-3">Step 4: Escalate to the RBI</h4>
+                  <h5 className="font-black text-[#1F5EFF] text-lg mb-3">Step 4: Escalate to the RBI</h5>
                   <p className="text-gray-700 leading-relaxed">
                     The RBI takes a very strict view of banks using thuggish recovery tactics. File a detailed complaint on the RBI Integrated Ombudsman portal attaching the fake notices and call recordings.
                   </p>
@@ -440,9 +440,9 @@ export default function PANCardAadhaarBlockDefensePage() {
             </section>
 
             <section id="bank-liability" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 Holding the Bank Liable
-              </h2>
+              </h3>
               <div className="bg-gray-50 p-8 rounded-2xl mb-8 border border-gray-200">
                 <p className="text-lg leading-relaxed mb-6 text-gray-800">
                   Banks will often try to wash their hands of the situation by claiming the agent was a "third-party contractor" and they had no idea about the threats. This defense does not hold up in court.
@@ -465,14 +465,14 @@ export default function PANCardAadhaarBlockDefensePage() {
             </section>
 
             <section id="consumer-protection-act" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 Consumer Court Recourse
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 Many borrowers believe that because they owe money, they have surrendered all their rights. This is fundamentally incorrect. In the eyes of the law, you remain a "consumer" of the bank's services. The Consumer Protection Act provides robust mechanisms to penalize banks for the abusive behavior of their hired recovery agencies.
               </p>
               <div className="bg-blue-50 border-l-8 border-[#1F5EFF] p-8 rounded-r-2xl mb-8">
-                <h3 className="text-xl font-black text-[#1F5EFF] mb-4">Deficiency in Service & Unfair Trade Practices</h3>
+                <h4 className="text-xl font-black text-[#1F5EFF] mb-4">Deficiency in Service & Unfair Trade Practices</h4>
                 <p className="text-blue-900 text-lg leading-relaxed mb-4">
                   Using illegal threats, sending forged government documents, and employing intimidation tactics qualify as "deficiency in service" and "unfair trade practices." 
                 </p>
@@ -494,9 +494,9 @@ export default function PANCardAadhaarBlockDefensePage() {
             </section>
 
             <section id="success-stories" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 Client Success Stories
-              </h2>
+              </h3>
               <div className="grid md:grid-cols-2 gap-6 my-8">
                 <div className="bg-white p-8 rounded-[30px] border border-[#DEDEDE] shadow-sm hover:shadow-xl group transition-all">
                   <div className="flex items-center gap-4 mb-6">
@@ -504,7 +504,7 @@ export default function PANCardAadhaarBlockDefensePage() {
                       AK
                     </div>
                     <div>
-                      <h3 className="font-bold text-gray-900">Amit K.</h3>
+                      <h4 className="font-bold text-gray-900">Amit K.</h4>
                       <div className="flex text-yellow-400">
                         <svg className="w-4 h-4 fill-current" viewBox="0 0 20 20"><path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z"/></svg>
                         <svg className="w-4 h-4 fill-current" viewBox="0 0 20 20"><path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z"/></svg>
@@ -529,7 +529,7 @@ export default function PANCardAadhaarBlockDefensePage() {
                       RP
                     </div>
                     <div>
-                      <h4 className="font-bold text-gray-900">Ravi P.</h4>
+                      <h5 className="font-bold text-gray-900">Ravi P.</h5>
                       <div className="flex text-yellow-400">
                         <svg className="w-4 h-4 fill-current" viewBox="0 0 20 20"><path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z"/></svg>
                         <svg className="w-4 h-4 fill-current" viewBox="0 0 20 20"><path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z"/></svg>
@@ -551,13 +551,13 @@ export default function PANCardAadhaarBlockDefensePage() {
             </section>
 
             <section id="faqs" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 Frequently Asked Questions
-              </h2>
+              </h3>
               <div className="space-y-4">
                 {(jsonLd["@graph"][4] as any)?.mainEntity?.map((faq: any, idx: number) => (
                   <div key={idx} className="bg-white border border-[#DEDEDE] rounded-xl p-6 hover:shadow-md transition-shadow">
-                    <h3 className="font-bold text-[#2E2E2E] text-lg mb-2">{faq.name}</h3>
+                    <h4 className="font-bold text-[#2E2E2E] text-lg mb-2">{faq.name}</h4>
                     <p className="text-gray-600 leading-relaxed">{faq.acceptedAnswer.text}</p>
                   </div>
                 ))}
@@ -566,7 +566,7 @@ export default function PANCardAadhaarBlockDefensePage() {
 
             <div className="bg-[#2E2E2E] text-white p-12 rounded-[40px] text-center mt-24 relative overflow-hidden group">
               <div className="absolute inset-0 bg-[#1F5EFF] opacity-0 group-hover:opacity-5 transition-opacity"></div>
-              <h3 className="text-3xl font-black mb-6 relative z-10">Stop the Fake Notices & Threats</h3>
+              <h4 className="text-3xl font-black mb-6 relative z-10">Stop the Fake Notices & Threats</h4>
               <p className="text-xl opacity-90 mb-8 relative z-10 max-w-2xl mx-auto">
                 Are recovery agents threatening to block your PAN card or Aadhaar card if you don't pay? This is a blatant scam. Speak to our lawyers to file a harassment complaint and stop their empty threats.
               </p>

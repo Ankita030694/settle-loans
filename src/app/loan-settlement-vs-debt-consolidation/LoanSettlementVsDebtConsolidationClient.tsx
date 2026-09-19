@@ -431,9 +431,9 @@ export default function LoanSettlementVsDebtConsolidationClient() {
 
               {/* Comprehensive 10-Parameter Comparison Table */}
               <div className="my-8">
-                <h3 className="text-lg md:text-xl font-bold text-slate-900 mb-3">
+                <h4 className="text-lg md:text-xl font-bold text-slate-900 mb-3">
                   In-Depth Architectural Matrix: Debt Consolidation vs. Loan Settlement
-                </h3>
+                </h4>
                 <div className="overflow-x-auto">
                   <table>
                     <thead>
@@ -502,9 +502,9 @@ export default function LoanSettlementVsDebtConsolidationClient() {
 
             {/* Section 2: Comprehensive Financial Math & Simulation (15L Portfolio) */}
             <section id="financial-cost-simulation-math" className="scroll-mt-28 mb-12">
-              <h2 className="text-2xl md:text-3xl font-black text-slate-900 mb-5 leading-tight">
+              <h3 className="text-2xl md:text-3xl font-black text-slate-900 mb-5 leading-tight">
                 2. Financial Math: Cost Comparison & Loan Simulation
-              </h2>
+              </h3>
               <p className="text-base leading-relaxed mb-4 text-slate-700">
                 To understand why debt consolidation often fails stressed borrowers while debt settlement creates immediate solvency, let us analyze a real-world multi-debt scenario in India.
               </p>
@@ -516,25 +516,25 @@ export default function LoanSettlementVsDebtConsolidationClient() {
               <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-4 my-6">
                 <div className="bg-slate-50 border border-slate-200 p-4 rounded-xl">
                   <span className="text-[11px] font-bold text-slate-500 uppercase block">Creditor 1</span>
-                  <h3 className="font-black text-slate-900 text-sm">HDFC Personal Loan</h3>
+                  <h4 className="font-black text-slate-900 text-sm">HDFC Personal Loan</h4>
                   <p className="text-xs text-slate-600 mt-1">Outstanding: <strong>₹6,00,000</strong></p>
                   <p className="text-xs text-slate-600">Rate: 15% p.a. | EMI: <strong>₹16,650</strong></p>
                 </div>
                 <div className="bg-slate-50 border border-slate-200 p-4 rounded-xl">
                   <span className="text-[11px] font-bold text-slate-500 uppercase block">Creditor 2</span>
-                  <h4 className="font-black text-slate-900 text-sm">ICICI Personal Loan</h4>
+                  <h5 className="font-black text-slate-900 text-sm">ICICI Personal Loan</h5>
                   <p className="text-xs text-slate-600 mt-1">Outstanding: <strong>₹4,00,000</strong></p>
                   <p className="text-xs text-slate-600">Rate: 16% p.a. | EMI: <strong>₹11,350</strong></p>
                 </div>
                 <div className="bg-slate-50 border border-slate-200 p-4 rounded-xl">
                   <span className="text-[11px] font-bold text-slate-500 uppercase block">Creditor 3</span>
-                  <h4 className="font-black text-slate-900 text-sm">SBI Credit Card</h4>
+                  <h5 className="font-black text-slate-900 text-sm">SBI Credit Card</h5>
                   <p className="text-xs text-slate-600 mt-1">Outstanding: <strong>₹3,00,000</strong></p>
                   <p className="text-xs text-slate-600">Rate: 42% p.a. | Min Due: <strong>₹15,000</strong></p>
                 </div>
                 <div className="bg-slate-50 border border-slate-200 p-4 rounded-xl">
                   <span className="text-[11px] font-bold text-slate-500 uppercase block">Creditor 4</span>
-                  <h4 className="font-black text-slate-900 text-sm">Fintech NBFC Credit Line</h4>
+                  <h5 className="font-black text-slate-900 text-sm">Fintech NBFC Credit Line</h5>
                   <p className="text-xs text-slate-600 mt-1">Outstanding: <strong>₹2,00,000</strong></p>
                   <p className="text-xs text-slate-600">Rate: 24% p.a. | EMI: <strong>₹8,800</strong></p>
                 </div>
@@ -546,9 +546,9 @@ export default function LoanSettlementVsDebtConsolidationClient() {
 
               {/* Multi-Strategy Mathematical Comparison Table */}
               <div className="my-8">
-                <h3 className="text-lg md:text-xl font-bold text-slate-900 mb-3">
+                <h4 className="text-lg md:text-xl font-bold text-slate-900 mb-3">
                   3-Way Strategy Simulation: Minimum Dues vs. Consolidation vs. OTS Settlement
-                </h3>
+                </h4>
                 <div className="overflow-x-auto">
                   <table>
                     <thead>
@@ -609,10 +609,10 @@ export default function LoanSettlementVsDebtConsolidationClient() {
 
               {/* Financial Takeaway Alert Box */}
               <div className="bg-amber-50 border-l-4 border-amber-500 p-5 rounded-r-xl my-6">
-                <h4 className="text-amber-900 font-bold text-base flex items-center gap-2 mb-1.5">
+                <h5 className="text-amber-900 font-bold text-base flex items-center gap-2 mb-1.5">
                   <AlertCircle className="w-5 h-5 text-amber-600" />
                   The Financial Planner&apos;s Core Insight
-                </h4>
+                </h5>
                 <p className="text-sm text-amber-800 leading-relaxed">
                   While a consolidation loan lowers your monthly cash burden from ₹51,800 to ₹34,500, it commits you to paying <strong>₹20,70,000 in total outgo</strong> over 5 years. If your income has shrunk or is unstable, servicing ₹34,500 every single month for 60 consecutive months carries an enormous risk of secondary default. In contrast, an OTS settlement locks in <strong>₹13.95 Lakhs in hard capital savings</strong> and permanently eliminates the debt in 45–60 days.
                 </p>
@@ -621,9 +621,9 @@ export default function LoanSettlementVsDebtConsolidationClient() {
 
             {/* Section 3: CIBIL Score & Underwriting Impact */}
             <section id="cibil-score-underwriting-impact" className="scroll-mt-28 mb-12">
-              <h2 className="text-2xl md:text-3xl font-black text-slate-900 mb-5 leading-tight">
+              <h3 className="text-2xl md:text-3xl font-black text-slate-900 mb-5 leading-tight">
                 3. CIBIL Mechanics: Status Codes & Score Trajectory
-              </h2>
+              </h3>
               <p className="text-base leading-relaxed mb-4 text-slate-700">
                 In India&apos;s regulated credit ecosystem, licensed credit information companies (CIBIL, Experian, Equifax, and CRIF High Mark) operate under the <strong>Credit Information Companies (Regulation) Act, 2005 (CICRA)</strong>. Lenders update loan records on the 10th of every month using standardized bureau reporting tags.
               </p>
@@ -634,10 +634,10 @@ export default function LoanSettlementVsDebtConsolidationClient() {
               {/* Status Code Cards */}
               <div className="space-y-4 my-6">
                 <div className="p-5 rounded-xl border border-blue-200 bg-blue-50/50">
-                  <h3 className="text-base font-bold text-blue-900 flex items-center gap-2 mb-1">
+                  <h4 className="text-base font-bold text-blue-900 flex items-center gap-2 mb-1">
                     <CheckCircle2 className="w-5 h-5 text-[#1F5EFF]" />
                     1. &quot;Closed - Regular / Fully Paid&quot; (Consolidation Outcome)
-                  </h3>
+                  </h4>
                   <p className="text-sm text-blue-800 leading-relaxed mb-2">
                     When you consolidate debts, the new loan disburses funds directly to old lenders. Each old credit card and personal loan account is marked as <strong>&quot;Closed - Regular&quot;</strong> with zero overdue history.
                   </p>
@@ -647,10 +647,10 @@ export default function LoanSettlementVsDebtConsolidationClient() {
                 </div>
 
                 <div className="p-5 rounded-xl border border-amber-200 bg-amber-50/50">
-                  <h3 className="text-base font-bold text-amber-900 flex items-center gap-2 mb-1">
+                  <h4 className="text-base font-bold text-amber-900 flex items-center gap-2 mb-1">
                     <Scale className="w-5 h-5 text-amber-600" />
                     2. &quot;Settled&quot; Status Tag (One-Time Settlement Outcome)
-                  </h3>
+                  </h4>
                   <p className="text-sm text-amber-800 leading-relaxed mb-2">
                     In a One-Time Settlement, the account is permanently terminated with a <strong>₹0 active balance</strong>. The credit bureau records the compromised haircut in the settlement column and flags the account as <strong>&quot;Settled&quot;</strong>.
                   </p>
@@ -660,10 +660,10 @@ export default function LoanSettlementVsDebtConsolidationClient() {
                 </div>
 
                 <div className="p-5 rounded-xl border border-rose-200 bg-rose-50/50">
-                  <h3 className="text-base font-bold text-rose-900 flex items-center gap-2 mb-1">
+                  <h4 className="text-base font-bold text-rose-900 flex items-center gap-2 mb-1">
                     <AlertTriangle className="w-5 h-5 text-rose-600" />
                     3. &quot;Written Off&quot; / &quot;Suit Filed&quot; (The Danger of Indecision)
-                  </h3>
+                  </h4>
                   <p className="text-sm text-rose-800 leading-relaxed mb-2">
                     Occurs when a borrower ignores unpaid debts without choosing consolidation or settlement. The bank flags the accounts as <strong>&quot;Written Off - Wilful Default / Suit Filed&quot;</strong> and initiates legal recovery under Section 138 / DRT.
                   </p>
@@ -675,10 +675,10 @@ export default function LoanSettlementVsDebtConsolidationClient() {
 
               {/* 36-Month Score Trajectory Table */}
               <div className="bg-slate-50 border border-slate-200 rounded-2xl p-6 my-6">
-                <h4 className="text-base font-bold text-slate-900 flex items-center gap-2 mb-3">
+                <h5 className="text-base font-bold text-slate-900 flex items-center gap-2 mb-3">
                   <TrendingUp className="w-5 h-5 text-[#1F5EFF]" />
                   36-Month CIBIL Score Trajectory Comparison
-                </h4>
+                </h5>
                 <div className="overflow-x-auto">
                   <table>
                     <thead>
@@ -728,9 +728,9 @@ export default function LoanSettlementVsDebtConsolidationClient() {
 
             {/* Section 4: Bank Eligibility, FOIR Limits & Underwriting Hurdles */}
             <section id="eligibility-foir-underwriting" className="scroll-mt-28 mb-12">
-              <h2 className="text-2xl md:text-3xl font-black text-slate-900 mb-5 leading-tight">
+              <h3 className="text-2xl md:text-3xl font-black text-slate-900 mb-5 leading-tight">
                 4. Bank Eligibility, FOIR Calculations &amp; Underwriting Barriers
-              </h2>
+              </h3>
               <p className="text-base leading-relaxed mb-4 text-slate-700">
                 While debt consolidation sounds attractive in theory, the vast majority of financially distressed borrowers in India are <strong>legally and mathematically disqualified from obtaining a consolidation loan</strong>.
               </p>
@@ -755,10 +755,10 @@ export default function LoanSettlementVsDebtConsolidationClient() {
               {/* Eligibility Comparison Grid */}
               <div className="grid grid-cols-1 md:grid-cols-2 gap-5 my-6">
                 <div className="bg-white border border-slate-200 rounded-xl p-5 shadow-sm">
-                  <h3 className="font-bold text-slate-900 text-sm uppercase tracking-wider mb-3 flex items-center gap-2">
+                  <h4 className="font-bold text-slate-900 text-sm uppercase tracking-wider mb-3 flex items-center gap-2">
                     <RefreshCw className="w-4 h-4 text-[#1F5EFF]" />
                     <span>Consolidation Loan Underwriting Rules</span>
-                  </h3>
+                  </h4>
                   <ul className="text-xs text-slate-600 space-y-2">
                     <li className="flex items-start gap-1.5">
                       <Check className="w-3.5 h-3.5 text-blue-600 flex-shrink-0 mt-0.5" />
@@ -780,10 +780,10 @@ export default function LoanSettlementVsDebtConsolidationClient() {
                 </div>
 
                 <div className="bg-white border border-slate-200 rounded-xl p-5 shadow-sm">
-                  <h4 className="font-bold text-slate-900 text-sm uppercase tracking-wider mb-3 flex items-center gap-2">
+                  <h5 className="font-bold text-slate-900 text-sm uppercase tracking-wider mb-3 flex items-center gap-2">
                     <Scale className="w-4 h-4 text-amber-600" />
                     <span>Loan Settlement (OTS) Eligibility Rules</span>
-                  </h4>
+                  </h5>
                   <ul className="text-xs text-slate-600 space-y-2">
                     <li className="flex items-start gap-1.5">
                       <Check className="w-3.5 h-3.5 text-emerald-600 flex-shrink-0 mt-0.5" />
@@ -817,9 +817,9 @@ export default function LoanSettlementVsDebtConsolidationClient() {
                     <span className="text-[10px] font-black uppercase tracking-widest text-blue-300 block">
                       Legal Defense &amp; Action Blueprint
                     </span>
-                    <h3 className="text-sm md:text-base font-black text-white leading-tight">
+                    <h4 className="text-sm md:text-base font-black text-white leading-tight">
                       Personal Loan Settlement vs Debt Consolidation: Strategic Process Overview
-                    </h3>
+                    </h4>
                   </div>
                 </div>
                 <a
@@ -863,9 +863,9 @@ export default function LoanSettlementVsDebtConsolidationClient() {
 
             {/* Section 5: The "Consolidation Trap" vs. Strategic Settlement Execution */}
             <section id="consolidation-trap-vs-settlement" className="scroll-mt-28 mb-12">
-              <h2 className="text-2xl md:text-3xl font-black text-slate-900 mb-5 leading-tight">
+              <h3 className="text-2xl md:text-3xl font-black text-slate-900 mb-5 leading-tight">
                 5. The Consolidation Trap vs Strategic Debt Settlement
-              </h2>
+              </h3>
               <p className="text-base leading-relaxed mb-4 text-slate-700">
                 A critical behavioral finance trap that destroys thousands of Indian middle-class households every year is the <strong>Consolidation Trap</strong> (also known as <em>Double-Debt Overleveraging</em>).
               </p>
@@ -873,10 +873,10 @@ export default function LoanSettlementVsDebtConsolidationClient() {
               {/* The Trap Mechanism Breakdown */}
               <div className="space-y-4 my-6">
                 <div className="p-5 rounded-2xl bg-rose-50 border border-rose-200">
-                  <h3 className="font-bold text-rose-900 text-base mb-2 flex items-center gap-2">
+                  <h4 className="font-bold text-rose-900 text-base mb-2 flex items-center gap-2">
                     <AlertTriangle className="w-5 h-5 text-rose-600" />
                     How the Consolidation Trap Works
-                  </h3>
+                  </h4>
                   <p className="text-sm text-rose-800 leading-relaxed mb-3">
                     A borrower takes a ₹10 Lakh consolidation loan to clear credit cards and smaller personal loans. Because the old credit card lines now show zero balances, the borrower feels a false sense of financial liquidity. When an unexpected emergency strikes, the borrower begins swiping the credit cards again while still burdened with the ₹25,000 monthly consolidation EMI.
                   </p>
@@ -886,10 +886,10 @@ export default function LoanSettlementVsDebtConsolidationClient() {
                 </div>
 
                 <div className="p-5 rounded-2xl bg-emerald-50 border border-emerald-200">
-                  <h4 className="font-bold text-emerald-900 text-base mb-2 flex items-center gap-2">
+                  <h5 className="font-bold text-emerald-900 text-base mb-2 flex items-center gap-2">
                     <ShieldCheck className="w-5 h-5 text-emerald-600" />
                     How Strategic Debt Settlement Solves the Root Problem
-                  </h4>
+                  </h5>
                   <p className="text-sm text-emerald-800 leading-relaxed mb-3">
                     Personal loan settlement permanently severs the cycle of borrowing. Under an OTS agreement, credit lines are canceled, the lender waives 40% to 70% of the dues, and the debt is extinguished permanently with an official ₹0 No Dues Certificate. The borrower enters a clean-slate financial environment with zero recurring monthly EMI liabilities.
                   </p>
@@ -902,39 +902,39 @@ export default function LoanSettlementVsDebtConsolidationClient() {
 
             {/* Section 6: RBI Regulatory Framework & Legal Protections */}
             <section id="rbi-framework-legal-protections" className="scroll-mt-28 mb-12">
-              <h2 className="text-2xl md:text-3xl font-black text-slate-900 mb-5 leading-tight">
+              <h3 className="text-2xl md:text-3xl font-black text-slate-900 mb-5 leading-tight">
                 6. RBI Regulatory Framework &amp; Legal Protection Under Indian Law
-              </h2>
+              </h3>
               <p className="text-base leading-relaxed mb-4 text-slate-700">
                 Both debt consolidation and compromise settlements operate within the formal statutory framework established by the Reserve Bank of India. Knowing your rights ensures you cannot be coerced by unauthorized collection agents or predatory lenders.
               </p>
 
               <div className="space-y-4 my-6">
                 <div className="bg-slate-50 border border-slate-200 p-5 rounded-xl">
-                  <h3 className="font-bold text-slate-900 text-base mb-1.5 flex items-center gap-2">
+                  <h4 className="font-bold text-slate-900 text-base mb-1.5 flex items-center gap-2">
                     <Landmark className="w-5 h-5 text-[#1F5EFF]" />
                     RBI Framework for Compromise Settlements and Technical Write-offs (June 8, 2023)
-                  </h3>
+                  </h4>
                   <p className="text-sm text-slate-600 leading-relaxed">
                     Directs all regulated commercial banks, NBFCs, and urban cooperative banks to establish transparent, board-approved policies for executing One-Time Settlements (OTS) with distressed borrowers. It removes arbitrary branch discretion and legitimizes compromise settlements with principal haircuts for genuine hardship cases.
                   </p>
                 </div>
 
                 <div className="bg-slate-50 border border-slate-200 p-5 rounded-xl">
-                  <h4 className="font-bold text-slate-900 text-base mb-1.5 flex items-center gap-2">
+                  <h5 className="font-bold text-slate-900 text-base mb-1.5 flex items-center gap-2">
                     <ShieldAlert className="w-5 h-5 text-emerald-600" />
                     RBI Master Direction on Recovery Agents &amp; Anti-Harassment Safeguards
-                  </h4>
+                  </h5>
                   <p className="text-sm text-slate-600 leading-relaxed">
                     Strictly bars lenders and third-party recovery agencies from using abusive language, threatening physical intimidation, calling before 8:00 AM or after 7:00 PM, calling friends, relatives, or employers, or visiting workplaces without authorization. SettleLoans advocates issue formal cease-and-desist notices to bank nodal officers to halt unlawful harassment immediately.
                   </p>
                 </div>
 
                 <div className="bg-slate-50 border border-slate-200 p-5 rounded-xl">
-                  <h4 className="font-bold text-slate-900 text-base mb-1.5 flex items-center gap-2">
+                  <h5 className="font-bold text-slate-900 text-base mb-1.5 flex items-center gap-2">
                     <Scale className="w-5 h-5 text-amber-600" />
                     Legal Finality: Section 138 NI Act &amp; Lok Adalat Decrees
-                  </h4>
+                  </h5>
                   <p className="text-sm text-slate-600 leading-relaxed">
                     When personal loan EMIs or NACH mandates bounce, banks may issue legal notices under Section 138 of the Negotiable Instruments Act or Section 25 of the PSS Act. Executing a formal OTS agreement legally compels the lender to withdraw all pending criminal complaints. Furthermore, settlements ratified in <strong>Lok Adalats</strong> hold the force of a final Civil Court decree with zero right of subsequent appeal.
                   </p>
@@ -944,9 +944,9 @@ export default function LoanSettlementVsDebtConsolidationClient() {
 
             {/* Section 7: 7-Point Diagnostic Decision Framework */}
             <section id="decision-framework-matrix" className="scroll-mt-28 mb-12">
-              <h2 className="text-2xl md:text-3xl font-black text-slate-900 mb-5 leading-tight">
+              <h3 className="text-2xl md:text-3xl font-black text-slate-900 mb-5 leading-tight">
                 7. 7-Point Framework: Consolidation vs Settlement
-              </h2>
+              </h3>
               <p className="text-base leading-relaxed mb-4 text-slate-700">
                 To determine which path is mathematically and legally optimal for your debt profile, evaluate your situation against our 7 diagnostic stress indicators:
               </p>
@@ -1006,9 +1006,9 @@ export default function LoanSettlementVsDebtConsolidationClient() {
 
             {/* Section 8: Step-by-Step Action Blueprints for Both Routes */}
             <section id="step-by-step-execution-blueprints" className="scroll-mt-28 mb-12">
-              <h2 className="text-2xl md:text-3xl font-black text-slate-900 mb-5 leading-tight">
+              <h3 className="text-2xl md:text-3xl font-black text-slate-900 mb-5 leading-tight">
                 8. Action Blueprints: Executing Either Strategy Safely
-              </h2>
+              </h3>
               <p className="text-base leading-relaxed mb-6 text-slate-700">
                 Regardless of which pathway matches your diagnostic evaluation, proper legal and administrative execution is critical to avoid costly mistakes.
               </p>
@@ -1017,10 +1017,10 @@ export default function LoanSettlementVsDebtConsolidationClient() {
               <div className="grid grid-cols-1 md:grid-cols-2 gap-6 my-6">
                 {/* Blueprint A: Consolidation */}
                 <div className="bg-slate-50 border border-slate-200 rounded-2xl p-6">
-                  <h3 className="text-base font-black text-slate-900 flex items-center gap-2 mb-4">
+                  <h4 className="text-base font-black text-slate-900 flex items-center gap-2 mb-4">
                     <RefreshCw className="w-5 h-5 text-[#1F5EFF]" />
                     <span>Consolidation Execution Blueprint</span>
-                  </h3>
+                  </h4>
                   <ol className="text-xs text-slate-600 space-y-3.5">
                     <li className="flex items-start gap-2">
                       <span className="w-5 h-5 rounded-full bg-blue-100 text-[#1F5EFF] font-bold flex items-center justify-center flex-shrink-0 mt-0.5">1</span>
@@ -1051,10 +1051,10 @@ export default function LoanSettlementVsDebtConsolidationClient() {
 
                 {/* Blueprint B: Settlement */}
                 <div className="bg-slate-50 border border-slate-200 rounded-2xl p-6">
-                  <h3 className="text-base font-black text-slate-900 flex items-center gap-2 mb-4">
+                  <h4 className="text-base font-black text-slate-900 flex items-center gap-2 mb-4">
                     <Scale className="w-5 h-5 text-amber-600" />
                     <span>Legal Settlement (OTS) Blueprint</span>
-                  </h3>
+                  </h4>
                   <ol className="text-xs text-slate-600 space-y-3.5">
                     <li className="flex items-start gap-2">
                       <span className="w-5 h-5 rounded-full bg-amber-100 text-amber-600 font-bold flex items-center justify-center flex-shrink-0 mt-0.5">1</span>
@@ -1090,9 +1090,9 @@ export default function LoanSettlementVsDebtConsolidationClient() {
 
             {/* Section 9: Frequently Asked Questions Accordion */}
             <section id="faqs" className="scroll-mt-28 mb-12">
-              <h2 className="text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
+              <h3 className="text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
                 9. Frequently Asked Questions: Loan Settlement vs Debt Consolidation
-              </h2>
+              </h3>
               <div className="space-y-3">
                 {faqs.map((faq, index) => (
                   <FAQItem
@@ -1108,10 +1108,10 @@ export default function LoanSettlementVsDebtConsolidationClient() {
 
             {/* Section 10: Official Regulatory Sources & Legal Citations */}
             <div className="my-10 p-6 bg-slate-50 border border-slate-200 rounded-2xl">
-              <h3 className="text-sm font-bold uppercase tracking-wider text-slate-900 mb-3 flex items-center gap-2">
+              <h4 className="text-sm font-bold uppercase tracking-wider text-slate-900 mb-3 flex items-center gap-2">
                 <Landmark className="w-4 h-4 text-[#1F5EFF]" />
                 <span>Statutory References &amp; Official Regulatory Sources</span>
-              </h3>
+              </h4>
               <ul className="text-xs text-slate-600 space-y-2">
                 <li className="flex items-start gap-2">
                   <ExternalLink className="w-3.5 h-3.5 text-slate-400 flex-shrink-0 mt-0.5" />
@@ -1148,9 +1148,9 @@ export default function LoanSettlementVsDebtConsolidationClient() {
 
             {/* Section 11: Internal Topic Badges (10 Links) */}
             <div className="my-10 pt-6 border-t border-slate-200">
-              <h4 className="text-sm font-bold uppercase tracking-wider text-slate-900 mb-4">
+              <h5 className="text-sm font-bold uppercase tracking-wider text-slate-900 mb-4">
                 Related Debt Resolution &amp; Financial Planning Guides
-              </h4>
+              </h5>
               <div className="flex flex-wrap gap-2">
                 <Link
                   href="/personal-loan-settlement-vs-restructuring"

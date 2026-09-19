@@ -215,13 +215,13 @@ export default function LoanDefaultJailPage() {
                         </section>
 
                         <section id="civil-vs-criminal" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">Understanding Civil vs Criminal Default</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">Understanding Civil vs Criminal Default</h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 To understand your risk, you must understand the distinction between a civil dispute and a criminal offense. A civil dispute arises when there is a disagreement over money, property, or contracts. A criminal offense occurs when there is a violation of a public law, usually involving harm, fraud, or intent to deceive.
                             </p>
                             <div className="grid md:grid-cols-2 gap-6 my-8">
                                 <div className="bg-gray-50 p-6 rounded-xl border border-gray-200">
-                                    <h3 className="text-xl font-bold mb-4 text-gray-800">Civil Default</h3>
+                                    <h4 className="text-xl font-bold mb-4 text-gray-800">Civil Default</h4>
                                     <ul className="space-y-3 text-sm text-gray-600">
                                         <li>• Inability to pay due to job loss or business failure.</li>
                                         <li>• Honest intention to repay but no financial means.</li>
@@ -230,7 +230,7 @@ export default function LoanDefaultJailPage() {
                                     </ul>
                                 </div>
                                 <div className="bg-red-50 p-6 rounded-xl border border-red-100">
-                                    <h3 className="text-xl font-bold mb-4 text-red-800">Criminal Default</h3>
+                                    <h4 className="text-xl font-bold mb-4 text-red-800">Criminal Default</h4>
                                     <ul className="space-y-3 text-sm text-red-700">
                                         <li>• Providing fake salary slips or property documents.</li>
                                         <li>• Cheque bounce (Section 138 of NI Act).</li>
@@ -245,12 +245,12 @@ export default function LoanDefaultJailPage() {
                         </section>
 
                         <section id="section-138" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">The Risk of Section 138: Cheque Bounce Laws</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">The Risk of Section 138: Cheque Bounce Laws</h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 While simple default is civil, there is one major exception that many borrowers fall into: <strong>Section 138 of the Negotiable Instruments Act, 1881</strong>. This section deals with the dishonour of a cheque for insufficiency of funds. If you gave a post-dated cheque (PDC) to the bank and it bounces, the bank can initiate criminal proceedings.
                             </p>
                             <div className="bg-blue-50 p-8 rounded-xl border border-blue-200 mb-8">
-                                <h3 className="text-xl font-bold mb-4 text-blue-900">How the NI Act Works</h3>
+                                <h4 className="text-xl font-bold mb-4 text-blue-900">How the NI Act Works</h4>
                                 <ol className="space-y-4 text-sm text-blue-800">
                                     <li><strong>1. Cheque Bounce:</strong> The bank presents your cheque and it is returned with the memo 'Insufficient Funds'.</li>
                                     <li><strong>2. Legal Notice:</strong> Within 30 days of receiving the memo, the bank must send you a formal demand notice giving you 15 days to pay.</li>
@@ -263,7 +263,7 @@ export default function LoanDefaultJailPage() {
                         </section>
 
                         <section id="pss-act" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">NACH/ECS Bounce: Section 25 of the PSS Act</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">NACH/ECS Bounce: Section 25 of the PSS Act</h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 Many modern loans don't use physical cheques; they use <strong>NACH (National Automated Clearing House)</strong> or <strong>ECS (Electronic Clearing Service)</strong> mandates. A common question is: "Can I go to jail if my auto-debit fails?"
                             </p>
@@ -278,31 +278,31 @@ export default function LoanDefaultJailPage() {
                         </section>
 
                         <section id="rbi-guidelines" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">RBI Guidelines: Your Shield Against Aggression</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">RBI Guidelines: Your Shield Against Aggression</h3>
                             <p className="mb-6 text-lg leading-relaxed">The Reserve Bank of India has very specific rules about how banks and NBFCs must handle defaults. These are not 'suggestions'; they are mandatory directives. If a bank violates these, they can face heavy penalties and even lose their license.</p>
                             <div className="space-y-4">
                                 <div className="p-6 bg-gray-50 rounded-xl border border-gray-200 hover:border-[#1F5EFF] transition-colors">
-                                    <h3 className="font-bold text-[#1F5EFF] mb-2">Restricted Timing (7 AM - 7 PM)</h3>
+                                    <h4 className="font-bold text-[#1F5EFF] mb-2">Restricted Timing (7 AM - 7 PM)</h4>
                                     <p className="text-sm">Agents can only call or visit between 7 AM and 7 PM. Any call at 11 PM or 5 AM is a direct violation of RBI's Fair Practices Code.</p>
                                 </div>
                                 <div className="p-6 bg-gray-50 rounded-xl border border-gray-200 hover:border-[#1F5EFF] transition-colors">
-                                    <h4 className="font-bold text-[#1F5EFF] mb-2">Privacy & Social Shaming</h4>
+                                    <h5 className="font-bold text-[#1F5EFF] mb-2">Privacy & Social Shaming</h5>
                                     <p className="text-sm">Banks are strictly prohibited from calling your neighbors, friends, or relatives to discuss your debt. They cannot "shame" you on social media or in your apartment complex.</p>
                                 </div>
                                 <div className="p-6 bg-gray-50 rounded-xl border border-gray-200 hover:border-[#1F5EFF] transition-colors">
-                                    <h4 className="font-bold text-[#1F5EFF] mb-2">Identify & Authorize</h4>
+                                    <h5 className="font-bold text-[#1F5EFF] mb-2">Identify & Authorize</h5>
                                     <p className="text-sm">Every agent must carry a valid identity card and a copy of the bank's authorization letter. You have the right to record the interaction and demand these documents.</p>
                                 </div>
                             </div>
                         </section>
 
                         <section id="willful-default" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">What is a Willful Default?</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">What is a Willful Default?</h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 The tag of a <strong>"Willful Defaulter"</strong> is serious. According to the RBI, a willful default occurs when a borrower has the capacity to pay but chooses not to, or redirects the funds for other purposes.
                             </p>
                             <div className="bg-red-50 p-8 rounded-2xl border border-red-100 mb-8">
-                                <h3 className="text-xl font-bold text-red-800 mb-4">Consequences of Willful Default</h3>
+                                <h4 className="text-xl font-bold text-red-800 mb-4">Consequences of Willful Default</h4>
                                 <ul className="space-y-3 text-sm text-red-700">
                                     <li>• <strong>No Further Credit:</strong> You are barred from taking any loan or starting a business for 5 years.</li>
                                     <li>• <strong>Management Bar:</strong> You cannot be a director in any company.</li>
@@ -315,7 +315,7 @@ export default function LoanDefaultJailPage() {
                         </section>
 
                         <section id="mental-health" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">The Psychological Toll: You Are Not Alone</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">The Psychological Toll: You Are Not Alone</h3>
                             <div className="bg-[#1F5EFF]/5 p-8 rounded-3xl border border-[#1F5EFF]/20 relative overflow-hidden">
                                 <div className="absolute -bottom-10 -right-10 w-40 h-40 bg-[#1F5EFF]/10 rounded-full blur-3xl"></div>
                                 <p className="text-lg leading-relaxed mb-6 relative z-10">
@@ -325,7 +325,7 @@ export default function LoanDefaultJailPage() {
                                     Financial failure is a setback, not a character flaw. Your life is worth more than any bank balance.
                                 </p>
                                 <div className="bg-white p-6 rounded-xl border border-[#1F5EFF]/10 shadow-sm">
-                                    <h3 className="font-bold mb-4 text-[#2E2E2E]">Resources for Support:</h3>
+                                    <h4 className="font-bold mb-4 text-[#2E2E2E]">Resources for Support:</h4>
                                     <ul className="space-y-2 text-sm text-gray-600">
                                         <li>• <strong>Tele-MANAS:</strong> 24/7 free mental health support (Government of India)</li>
                                         <li>• <strong>Vandrevala Foundation:</strong> 9999 666 555 (Confidential Support)</li>
@@ -336,7 +336,7 @@ export default function LoanDefaultJailPage() {
                         </section>
 
                         <section id="success-stories" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 text-center uppercase">Real Stories of Legal Protection</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 text-center uppercase">Real Stories of Legal Protection</h3>
                             <div className="grid md:grid-cols-2 gap-6 not-prose">
                                 {[
                                     {
@@ -360,7 +360,7 @@ export default function LoanDefaultJailPage() {
                                                 {review.name.charAt(0)}
                                             </div>
                                             <div>
-                                                <h3 className="font-bold text-[#2E2E2E]">{review.name}</h3>
+                                                <h4 className="font-bold text-[#2E2E2E]">{review.name}</h4>
                                                 <p className="text-xs text-gray-400">{review.loc}</p>
                                             </div>
                                             <div className="ml-auto text-yellow-400 text-sm">★★★★★</div>
@@ -375,7 +375,7 @@ export default function LoanDefaultJailPage() {
                         </section>
 
                         <section id="faqs" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 uppercase text-center">Frequently Asked Questions</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 uppercase text-center">Frequently Asked Questions</h3>
                             <div className="space-y-4 not-prose">
                                 {[
                                     { q: "Can the police come to my house for personal loan default?", a: "No. The police have no jurisdiction in civil debt recovery. If they do come, it is likely they have been misled by the bank or are being used informally. You should ask for a warrant; without one, they cannot enter or arrest you for simple debt." },

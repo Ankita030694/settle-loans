@@ -260,22 +260,22 @@ export default function WhatsAppLegalNoticePage() {
             </section>
 
             <section id="validity-of-digital-notice" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 Validity of a Digital Legal Notice
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 Under the Information Technology (IT) Act of 2000, digital communications hold legal weight. But does that mean every WhatsApp message is a binding legal document?
               </p>
 
               <div className="grid md:grid-cols-2 gap-6 my-8">
                 <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
-                  <h3 className="font-black text-[#1F5EFF] text-lg mb-3">When It Is Valid</h3>
+                  <h4 className="font-black text-[#1F5EFF] text-lg mb-3">When It Is Valid</h4>
                   <p className="text-gray-700 leading-relaxed">
                     A digital notice is valid if it originates from a verifiable source—such as a registered advocate representing the bank—and clearly states the legal grounds (e.g., Section 138 of the NI Act). The "blue tick" can serve as proof of delivery (service of notice) in a court of law.
                   </p>
                 </div>
                 <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
-                  <h4 className="font-black text-[#1F5EFF] text-lg mb-3">When It Is Invalid</h4>
+                  <h5 className="font-black text-[#1F5EFF] text-lg mb-3">When It Is Invalid</h5>
                   <p className="text-gray-700 leading-relaxed">
                     A notice is entirely invalid if it is sent by a recovery agent without legal authority, lacks a lawyer's enrollment number, or threatens non-existent criminal actions (like immediate arrest for an unsecured personal loan).
                   </p>
@@ -290,15 +290,15 @@ export default function WhatsAppLegalNoticePage() {
             </section>
 
             <section id="fake-fir-copy" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 Spotting a Fake FIR Copy on WhatsApp
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 Receiving an FIR copy on WhatsApp is terrifying, but it is one of the most common bluffs used by recovery agents. Here is why you shouldn't panic:
               </p>
 
               <div className="bg-red-50 p-6 rounded-xl border border-red-100 mb-8">
-                <h3 className="text-xl font-black text-red-700 mb-3">Loan Default is a Civil Issue</h3>
+                <h4 className="text-xl font-black text-red-700 mb-3">Loan Default is a Civil Issue</h4>
                 <p className="text-red-900 leading-relaxed">
                   Defaulting on a loan (personal loan, credit card) is a civil breach of contract, not a criminal offense. The police cannot register an FIR against you simply for failing to pay an EMI. Therefore, any FIR claiming you are wanted for loan default is mathematically a forgery.
                 </p>
@@ -308,7 +308,7 @@ export default function WhatsAppLegalNoticePage() {
                 <div className="flex gap-6">
                   <div className="flex-shrink-0 w-12 h-12 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center font-black text-xl shadow-lg">1</div>
                   <div>
-                    <h3 className="text-2xl font-bold text-[#2E2E2E] mb-2">Check the Seals and Stamps</h3>
+                    <h4 className="text-2xl font-bold text-[#2E2E2E] mb-2">Check the Seals and Stamps</h4>
                     <p className="text-lg text-gray-700 leading-relaxed">
                       Fake FIRs often use pixelated, copy-pasted government logos. Genuine FIRs have specific formats, station house officer (SHO) signatures, and official seals that are clearly legible.
                     </p>
@@ -318,7 +318,7 @@ export default function WhatsAppLegalNoticePage() {
                 <div className="flex gap-6">
                   <div className="flex-shrink-0 w-12 h-12 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center font-black text-xl shadow-lg">2</div>
                   <div>
-                    <h3 className="text-2xl font-bold text-[#2E2E2E] mb-2">Absurd Criminal Charges</h3>
+                    <h4 className="text-2xl font-bold text-[#2E2E2E] mb-2">Absurd Criminal Charges</h4>
                     <p className="text-lg text-gray-700 leading-relaxed">
                       Recovery agents often list sections like 420 (Cheating) on the fake FIR. Mere inability to pay does not constitute cheating unless you took the loan with a pre-planned intent to defraud, which requires a complex trial to prove.
                     </p>
@@ -328,15 +328,15 @@ export default function WhatsAppLegalNoticePage() {
             </section>
 
             <section id="whatsapp-summons" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 WhatsApp Summons for Loan Default
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 During the COVID-19 pandemic, the Supreme Court allowed the service of summons and notices through email and instant messaging apps like WhatsApp. However, recovery agents have severely misused this ruling.
               </p>
 
               <div className="bg-blue-50 border-l-8 border-[#1F5EFF] p-8 rounded-r-2xl mb-8">
-                <h3 className="text-xl font-black text-[#1F5EFF] mb-4">How Real Summons Work</h3>
+                <h4 className="text-xl font-black text-[#1F5EFF] mb-4">How Real Summons Work</h4>
                 <ul className="space-y-3">
                   <li className="flex items-start gap-3">
                     <div className="mt-1.5 w-2 h-2 rounded-full bg-[#1F5EFF] flex-shrink-0"></div>
@@ -355,14 +355,14 @@ export default function WhatsAppLegalNoticePage() {
             </section>
 
             <section id="rbi-guidelines" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 RBI Guidelines on Digital Harassment
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 The Reserve Bank of India has strict Fair Practices Codes regarding debt recovery. Using WhatsApp to send forged documents, fake legal notices, or threatening messages is a severe violation of these guidelines.
               </p>
               <div className="bg-white p-8 border border-[#DEDEDE] rounded-2xl shadow-sm mb-8">
-                <h3 className="text-xl font-bold mb-4 text-[#2E2E2E] underline">Prohibited Recovery Tactics</h3>
+                <h4 className="text-xl font-bold mb-4 text-[#2E2E2E] underline">Prohibited Recovery Tactics</h4>
                 <p className="text-gray-700 leading-relaxed mb-4">
                   Banks and NBFCs are strictly prohibited from resorting to intimidation or harassment. Sending a fake FIR copy on WhatsApp from a recovery agent falls squarely under illegal harassment.
                 </p>
@@ -373,34 +373,34 @@ export default function WhatsAppLegalNoticePage() {
             </section>
 
             <section id="how-to-verify" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 How to Verify a Genuine Notice
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 Before you panic, take these steps to verify the validity of a digital legal notice:
               </p>
               
               <div className="grid md:grid-cols-2 gap-6 my-8">
                 <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
-                  <h3 className="font-black text-[#1F5EFF] text-lg mb-3">1. Check the Lawyer's Credentials</h3>
+                  <h4 className="font-black text-[#1F5EFF] text-lg mb-3">1. Check the Lawyer's Credentials</h4>
                   <p className="text-gray-700 leading-relaxed">
                     A real notice will have the lawyer's name and Bar Council Enrollment Number. You can verify this number online or by calling the respective state Bar Council.
                   </p>
                 </div>
                 <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
-                  <h4 className="font-black text-[#1F5EFF] text-lg mb-3">2. Call the Advocate's Office</h4>
+                  <h5 className="font-black text-[#1F5EFF] text-lg mb-3">2. Call the Advocate's Office</h5>
                   <p className="text-gray-700 leading-relaxed">
                     Search for the lawyer's office on Google and call their listed landline number. Ask them to confirm if they dispatched the notice bearing your name.
                   </p>
                 </div>
                 <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
-                  <h4 className="font-black text-[#1F5EFF] text-lg mb-3">3. Verify Court Case Numbers</h4>
+                  <h5 className="font-black text-[#1F5EFF] text-lg mb-3">3. Verify Court Case Numbers</h5>
                   <p className="text-gray-700 leading-relaxed">
                     If the message claims to be a summons, ask for the case number and court details. Check the official eCourts Services app to see if a case actually exists against you.
                   </p>
                 </div>
                 <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
-                  <h4 className="font-black text-[#1F5EFF] text-lg mb-3">4. Look for Language Errors</h4>
+                  <h5 className="font-black text-[#1F5EFF] text-lg mb-3">4. Look for Language Errors</h5>
                   <p className="text-gray-700 leading-relaxed">
                     Fake notices sent by recovery agents are often riddled with grammatical errors, unprofessional language, and exaggerated threats.
                   </p>
@@ -409,9 +409,9 @@ export default function WhatsAppLegalNoticePage() {
             </section>
 
             <section id="legal-action" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 Taking Legal Action Against Forgery
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 Sending a fake FIR or a forged court summons is a serious crime under the Indian Penal Code (IPC).
               </p>
@@ -425,9 +425,9 @@ export default function WhatsAppLegalNoticePage() {
             </section>
 
             <section id="success-stories" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 Client Success Stories
-              </h2>
+              </h3>
               <div className="grid md:grid-cols-2 gap-6 my-8">
                 <div className="bg-white p-8 rounded-[30px] border border-[#DEDEDE] shadow-sm hover:shadow-xl group transition-all">
                   <div className="flex items-center gap-4 mb-6">
@@ -435,7 +435,7 @@ export default function WhatsAppLegalNoticePage() {
                       RP
                     </div>
                     <div>
-                      <h3 className="font-bold text-gray-900">Rahul P.</h3>
+                      <h4 className="font-bold text-gray-900">Rahul P.</h4>
                       <div className="flex text-yellow-400">
                         <svg className="w-4 h-4 fill-current" viewBox="0 0 20 20"><path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z"/></svg>
                         <svg className="w-4 h-4 fill-current" viewBox="0 0 20 20"><path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z"/></svg>
@@ -460,7 +460,7 @@ export default function WhatsAppLegalNoticePage() {
                       SK
                     </div>
                     <div>
-                      <h4 className="font-bold text-gray-900">Sneha K.</h4>
+                      <h5 className="font-bold text-gray-900">Sneha K.</h5>
                       <div className="flex text-yellow-400">
                         <svg className="w-4 h-4 fill-current" viewBox="0 0 20 20"><path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z"/></svg>
                         <svg className="w-4 h-4 fill-current" viewBox="0 0 20 20"><path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z"/></svg>
@@ -482,13 +482,13 @@ export default function WhatsAppLegalNoticePage() {
             </section>
 
             <section id="faqs" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 Frequently Asked Questions
-              </h2>
+              </h3>
               <div className="space-y-4">
                 {(jsonLd["@graph"][4] as any)?.mainEntity?.map((faq: any, index: number) => (
                   <div key={index} className="bg-white border border-[#DEDEDE] rounded-xl p-6 hover:shadow-md transition-shadow">
-                    <h3 className="text-lg font-bold text-[#2E2E2E] mb-2">{faq.name}</h3>
+                    <h4 className="text-lg font-bold text-[#2E2E2E] mb-2">{faq.name}</h4>
                     <p className="text-gray-700 leading-relaxed">{faq.acceptedAnswer.text}</p>
                   </div>
                 ))}
@@ -499,7 +499,7 @@ export default function WhatsAppLegalNoticePage() {
             <div className="bg-[#2E2E2E] text-white p-12 rounded-[40px] text-center mt-24 relative overflow-hidden group">
               <div className="absolute inset-0 bg-[#1F5EFF] opacity-0 group-hover:opacity-5 transition-opacity"></div>
               <div className="relative z-10">
-                <h3 className="text-3xl md:text-4xl font-black mb-6">Received a Suspicious WhatsApp Notice?</h3>
+                <h4 className="text-3xl md:text-4xl font-black mb-6">Received a Suspicious WhatsApp Notice?</h4>
                 <p className="text-lg text-gray-300 mb-8 max-w-2xl mx-auto">
                   Did a recovery agent just WhatsApp you an "Arrest Warrant" or a "Police FIR" for your loan default? 99% of these are fake and illegal. Let our legal team analyze the document and take action against the harassment.
                 </p>

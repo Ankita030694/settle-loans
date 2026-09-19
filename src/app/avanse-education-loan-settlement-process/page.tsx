@@ -537,7 +537,7 @@ export default function AvanseEducationLoanSettlementPage() {
                 <Scale className="w-4 h-4" />
                 <span>2. Co-Borrower Parent Defense &amp; Statutory Immunity</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Shielding Co-Borrower Parents</h2>
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Shielding Co-Borrower Parents</h3>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">Parents sign as co-signers on most Avanse loans. Under Section 128 of the Indian Contract Act, 1872, they share debt duty. If a student loses a job abroad, recovery agents often target parents in India with pressure calls.
 
 Civil law gives strong legal protection to parent co-signers. Section 60(1) of the Code of Civil Procedure, 1908 (CPC) shields family income and retirement funds:
@@ -553,47 +553,47 @@ RBI rules ban calls before 8:00 AM or after 7:00 PM. Agents cannot visit offices
                 <Clock className="w-4 h-4" />
                 <span>3. Delinquency Timeline &amp; NPA Accounting</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Avanse Loan Delinquency Lifecycle</h2>
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Avanse Loan Delinquency Lifecycle</h3>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">Under Ind AS 109 rules and RBI norms, student loan defaults move through distinct stages. Each stage changes how Avanse manages the debt:</p>
 
               <div className="space-y-3 my-6">
                 <div className="p-4 rounded-xl bg-white border border-slate-200 shadow-sm">
-                  <h3 className="font-bold text-slate-900 text-sm mb-1 flex items-center gap-2">
+                  <h4 className="font-bold text-slate-900 text-sm mb-1 flex items-center gap-2">
                     <span className="w-2.5 h-2.5 rounded-full bg-yellow-400"></span>
                     SMA-0 (1–30 DPD): Initial Dishonour
-                  </h3>
+                  </h4>
                   <p className="text-slate-600 text-xs sm:text-sm leading-relaxed">Automated reminders and return fees begin. The loan is standard. No settlement discounts apply yet.</p>
                 </div>
 
                 <div className="p-4 rounded-xl bg-white border border-slate-200 shadow-sm">
-                  <h3 className="font-bold text-slate-900 text-sm mb-1 flex items-center gap-2">
+                  <h4 className="font-bold text-slate-900 text-sm mb-1 flex items-center gap-2">
                     <span className="w-2.5 h-2.5 rounded-full bg-amber-500"></span>
                     SMA-1 (31–60 DPD): Escalated Collections
-                  </h3>
+                  </h4>
                   <p className="text-slate-600 text-xs sm:text-sm leading-relaxed">Collections teams call co-signer parents in India to demand payment and income proof.</p>
                 </div>
 
                 <div className="p-4 rounded-xl bg-white border border-slate-200 shadow-sm">
-                  <h3 className="font-bold text-slate-900 text-sm mb-1 flex items-center gap-2">
+                  <h4 className="font-bold text-slate-900 text-sm mb-1 flex items-center gap-2">
                     <span className="w-2.5 h-2.5 rounded-full bg-orange-500"></span>
                     SMA-2 (61–90 DPD): Pre-NPA Warning
-                  </h3>
+                  </h4>
                   <p className="text-slate-600 text-xs sm:text-sm leading-relaxed">Recovery agents get assigned. Field visits begin. Section 25 PSSA legal notices are sent.</p>
                 </div>
 
                 <div className="p-4 rounded-xl bg-white border border-slate-200 shadow-sm">
-                  <h3 className="font-bold text-slate-900 text-sm mb-1 flex items-center gap-2">
+                  <h4 className="font-bold text-slate-900 text-sm mb-1 flex items-center gap-2">
                     <span className="w-2.5 h-2.5 rounded-full bg-red-600"></span>
                     NPA (90+ DPD): Non-Performing Asset
-                  </h3>
+                  </h4>
                   <p className="text-slate-600 text-xs sm:text-sm leading-relaxed">Interest stops adding to books. Avanse sets aside 15% to 25% cash reserves under ECL rules.</p>
                 </div>
 
                 <div className="p-4 rounded-xl bg-white border border-slate-200 shadow-sm">
-                  <h3 className="font-bold text-slate-900 text-sm mb-1 flex items-center gap-2">
+                  <h4 className="font-bold text-slate-900 text-sm mb-1 flex items-center gap-2">
                     <span className="w-2.5 h-2.5 rounded-full bg-purple-700"></span>
                     Doubtful / Loss Asset (180–365+ DPD)
-                  </h3>
+                  </h4>
                   <p className="text-slate-600 text-xs sm:text-sm leading-relaxed">Avanse sets aside up to 100% loss reserves. Stressed Asset teams now hold power to grant 40% to 60% debt cuts.</p>
                 </div>
               </div>
@@ -607,7 +607,7 @@ RBI rules ban calls before 8:00 AM or after 7:00 PM. Agents cannot visit offices
                 <Percent className="w-4 h-4" />
                 <span>4. OTS Haircut Policies &amp; Financial Math</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Avanse OTS Haircut Policy</h2>
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Avanse OTS Haircut Policy</h3>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">Settlements with Avanse follow cash recovery models. Under RBI rules, Credit Committees evaluate settlement offers. They compare cash recovery against long court cases.
 
 To win a good settlement, remove all bounce charges and penal interest first. Then reverse added study interest. Calculate discounts on the original loan amount.</p>
@@ -669,9 +669,9 @@ To win a good settlement, remove all bounce charges and penal interest first. Th
                       <span className="text-[10px] font-black uppercase tracking-widest text-blue-300 block">
                         Institutional Debt Resolution Roadmap
                       </span>
-                      <h3 className="text-sm md:text-base font-black text-white leading-tight">
+                      <h4 className="text-sm md:text-base font-black text-white leading-tight">
                         Avanse Education Loan Settlement &amp; Legal Defense Blueprint
-                      </h3>
+                      </h4>
                     </div>
                   </div>
                   <a
@@ -718,7 +718,7 @@ To win a good settlement, remove all bounce charges and penal interest first. Th
                 <Gavel className="w-4 h-4" />
                 <span>6. Legal Notice Defense &amp; Statutory Counter-Measures</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Defending Legal Action</h2>
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Defending Legal Action</h3>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">If defaults continue, Avanse may issue legal notices. Knowing your rights helps you build a strong defense.
 
 Section 25 PSSA Notices (NACH Bounces): This is a 15-day notice for failed auto-debits. Your lawyer sends a legal reply showing financial hardship. This stops police claims and starts OTS talks.
@@ -729,26 +729,26 @@ SARFAESI Act Property Defense: If you get a Section 13(2) notice, your lawyer fi
 
               <div className="space-y-4 my-6">
                 <div className="p-5 rounded-2xl bg-white border border-slate-200 shadow-sm">
-                  <h3 className="text-base font-bold text-slate-900 mb-1 flex items-center gap-2">
+                  <h4 className="text-base font-bold text-slate-900 mb-1 flex items-center gap-2">
                     <span className="w-6 h-6 rounded-lg bg-blue-50 text-[#1F5EFF] font-black text-xs flex items-center justify-center border border-blue-200">A</span>
                     Section 25 PSSA Demand Notices (NACH Bounces)
-                  </h3>
+                  </h4>
                   <p className="text-slate-600 text-xs sm:text-sm leading-relaxed">This is a 15-day notice for failed auto-debits. Your lawyer sends a legal reply showing money hardship. This stops police claims and starts OTS talks.</p>
                 </div>
 
                 <div className="p-5 rounded-2xl bg-white border border-slate-200 shadow-sm">
-                  <h3 className="text-base font-bold text-slate-900 mb-1 flex items-center gap-2">
+                  <h4 className="text-base font-bold text-slate-900 mb-1 flex items-center gap-2">
                     <span className="w-6 h-6 rounded-lg bg-blue-50 text-[#1F5EFF] font-black text-xs flex items-center justify-center border border-blue-200">B</span>
                     Unilateral Sole Arbitration Defense
-                  </h3>
+                  </h4>
                   <p className="text-slate-600 text-xs sm:text-sm leading-relaxed">Under Supreme Court rulings in <em>Perkins Eastman</em> and <em>TRF Ltd.</em>, one-sided arbitrator choices are invalid. Your lawyer files Section 12(5) objections to halt actions.</p>
                 </div>
 
                 <div className="p-5 rounded-2xl bg-white border border-slate-200 shadow-sm">
-                  <h3 className="text-base font-bold text-slate-900 mb-1 flex items-center gap-2">
+                  <h4 className="text-base font-bold text-slate-900 mb-1 flex items-center gap-2">
                     <span className="w-6 h-6 rounded-lg bg-blue-50 text-[#1F5EFF] font-black text-xs flex items-center justify-center border border-blue-200">C</span>
                     SARFAESI Act Property Defense (Secured Loans)
-                  </h3>
+                  </h4>
                   <p className="text-slate-600 text-xs sm:text-sm leading-relaxed">If you get a Section 13(2) notice, your lawyer files a Section 13(3A) objection. This pauses property auctions . This allows time to settle.</p>
                 </div>
               </div>
@@ -804,54 +804,54 @@ SARFAESI Act Property Defense: If you get a Section 13(2) notice, your lawyer fi
                 <Layers className="w-4 h-4" />
                 <span>7. Step-by-Step NBFC Settlement Roadmap</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Step-by-Step Guide to an Institutional One-Time Settlement</h2>
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Step-by-Step Guide to an Institutional One-Time Settlement</h3>
 
               <div className="space-y-4 my-6">
                 <div className="p-4 rounded-xl bg-white border border-slate-200 shadow-sm">
-                  <h3 className="text-base font-bold text-slate-900 mb-1 flex items-center gap-2">
+                  <h4 className="text-base font-bold text-slate-900 mb-1 flex items-center gap-2">
                     <span className="w-6 h-6 rounded-lg bg-blue-50 text-[#1F5EFF] font-black text-xs flex items-center justify-center border border-blue-200">1</span>
                     Ledger Forensic Audit &amp; De-Capitalization
-                  </h3>
+                  </h4>
                   <p className="text-slate-600 text-xs sm:text-sm leading-relaxed">Get your full loan statement. Separate actual principal received from added study interest and late fines to set a clear baseline.</p>
                 </div>
 
                 <div className="p-4 rounded-xl bg-white border border-slate-200 shadow-sm">
-                  <h3 className="text-base font-bold text-slate-900 mb-1 flex items-center gap-2">
+                  <h4 className="text-base font-bold text-slate-900 mb-1 flex items-center gap-2">
                     <span className="w-6 h-6 rounded-lg bg-blue-50 text-[#1F5EFF] font-black text-xs flex items-center justify-center border border-blue-200">2</span>
                     Mandate Revocation &amp; Parent Insulation
-                  </h3>
+                  </h4>
                   <p className="text-slate-600 text-xs sm:text-sm leading-relaxed">Cancel auto-debit payments at your bank under NPCI rules. Send a legal notice to Avanse to direct all calls only to your lawyer.</p>
                 </div>
 
                 <div className="p-4 rounded-xl bg-white border border-slate-200 shadow-sm">
-                  <h3 className="text-base font-bold text-slate-900 mb-1 flex items-center gap-2">
+                  <h4 className="text-base font-bold text-slate-900 mb-1 flex items-center gap-2">
                     <span className="w-6 h-6 rounded-lg bg-blue-50 text-[#1F5EFF] font-black text-xs flex items-center justify-center border border-blue-200">3</span>
                     Hardship Dossier Compilation
-                  </h3>
+                  </h4>
                   <p className="text-slate-600 text-xs sm:text-sm leading-relaxed">Collect job loss letters, visa papers, medical bills. And bank statements. Send a formal OTS request to Avanse&apos;s Stressed Assets team.</p>
                 </div>
 
                 <div className="p-4 rounded-xl bg-white border border-slate-200 shadow-sm">
-                  <h3 className="text-base font-bold text-slate-900 mb-1 flex items-center gap-2">
+                  <h4 className="text-base font-bold text-slate-900 mb-1 flex items-center gap-2">
                     <span className="w-6 h-6 rounded-lg bg-blue-50 text-[#1F5EFF] font-black text-xs flex items-center justify-center border border-blue-200">4</span>
                     Bilateral Credit Committee Negotiations
-                  </h3>
+                  </h4>
                   <p className="text-slate-600 text-xs sm:text-sm leading-relaxed">Your lawyers settle directly with credit managers. They show family money limits to win a 40% to 60% principal waiver.</p>
                 </div>
 
                 <div className="p-4 rounded-xl bg-white border border-slate-200 shadow-sm">
-                  <h3 className="text-base font-bold text-slate-900 mb-1 flex items-center gap-2">
+                  <h4 className="text-base font-bold text-slate-900 mb-1 flex items-center gap-2">
                     <span className="w-6 h-6 rounded-lg bg-blue-50 text-[#1F5EFF] font-black text-xs flex items-center justify-center border border-blue-200">5</span>
                     OTS Sanction Letter Forensic Verification
-                  </h3>
+                  </h4>
                   <p className="text-slate-600 text-xs sm:text-sm leading-relaxed">Review the settlement letter. Ensure it is on official Avanse letterhead confirming full balance waiver and closure of all legal actions.</p>
                 </div>
 
                 <div className="p-4 rounded-xl bg-white border border-slate-200 shadow-sm">
-                  <h3 className="text-base font-bold text-slate-900 mb-1 flex items-center gap-2">
+                  <h4 className="text-base font-bold text-slate-900 mb-1 flex items-center gap-2">
                     <span className="w-6 h-6 rounded-lg bg-blue-50 text-[#1F5EFF] font-black text-xs flex items-center justify-center border border-blue-200">6</span>
                     Direct Account Remittance &amp; ₹0 NDC Delivery
-                  </h3>
+                  </h4>
                   <p className="text-slate-600 text-xs sm:text-sm leading-relaxed">Pay the agreed amount directly into the Avanse loan account. Avanse must deliver your No Dues Certificate and return property papers within 30 days.</p>
                 </div>
               </div>
@@ -863,39 +863,39 @@ SARFAESI Act Property Defense: If you get a Section 13(2) notice, your lawyer fi
                 <FileCheck className="w-4 h-4" />
                 <span>8. Sanction Letter Forensics &amp; NDC Mandate</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">OTS Sanction Letter Forensic Checklist</h2>
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">OTS Sanction Letter Forensic Checklist</h3>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">Always check your Avanse OTS Sanction Letter against four key points to avoid fraud:</p>
 
               <div className="grid grid-cols-1 md:grid-cols-2 gap-4 my-6">
                 <div className="bg-slate-50 border border-slate-200 rounded-2xl p-5 shadow-sm">
-                  <h3 className="font-bold text-slate-900 text-sm mb-2 flex items-center gap-2">
+                  <h4 className="font-bold text-slate-900 text-sm mb-2 flex items-center gap-2">
                     <CheckCircle2 className="w-4 h-4 text-blue-600" />
                     Corporate Letterhead &amp; CIN
-                  </h3>
+                  </h4>
                   <p className="text-xs text-slate-600 leading-relaxed">Must be on official Avanse Money Services Limited letterhead with CIN and Mumbai registered office address.</p>
                 </div>
 
                 <div className="bg-slate-50 border border-slate-200 rounded-2xl p-5 shadow-sm">
-                  <h3 className="font-bold text-slate-900 text-sm mb-2 flex items-center gap-2">
+                  <h4 className="font-bold text-slate-900 text-sm mb-2 flex items-center gap-2">
                     <CheckCircle2 className="w-4 h-4 text-blue-600" />
                     Authorized Signatory &amp; POA
-                  </h3>
+                  </h4>
                   <p className="text-xs text-slate-600 leading-relaxed">Must be signed and stamped by an authorized Credit Committee officer holding Power of Attorney.</p>
                 </div>
 
                 <div className="bg-slate-50 border border-slate-200 rounded-2xl p-5 shadow-sm">
-                  <h3 className="font-bold text-slate-900 text-sm mb-2 flex items-center gap-2">
+                  <h4 className="font-bold text-slate-900 text-sm mb-2 flex items-center gap-2">
                     <CheckCircle2 className="w-4 h-4 text-blue-600" />
                     Full Balance Waiver Clause
-                  </h3>
+                  </h4>
                   <p className="text-xs text-slate-600 leading-relaxed">Must clearly state that upon payment, all remaining balance, interest. And charges are completely closed.</p>
                 </div>
 
                 <div className="bg-slate-50 border border-slate-200 rounded-2xl p-5 shadow-sm">
-                  <h3 className="font-bold text-slate-900 text-sm mb-2 flex items-center gap-2">
+                  <h4 className="font-bold text-slate-900 text-sm mb-2 flex items-center gap-2">
                     <CheckCircle2 className="w-4 h-4 text-blue-600" />
                     Legal Proceedings Withdrawal
-                  </h3>
+                  </h4>
                   <p className="text-xs text-slate-600 leading-relaxed">Must contain a clear term to withdraw all Section 25 PSSA notices, arbitration. And court filings unconditionally.</p>
                 </div>
               </div>
@@ -916,7 +916,7 @@ SARFAESI Act Property Defense: If you get a Section 13(2) notice, your lawyer fi
                 <TrendingUp className="w-4 h-4" />
                 <span>9. CIBIL Trajectory &amp; Overseas Credit Implications</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">CIBIL Score Trajectory, Overseas Credit Isolation</h2>
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">CIBIL Score Trajectory, Overseas Credit Isolation</h3>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">Indian credit bureaus are separate from foreign bureaus. Under CICRA 2005, CIBIL defaults do not show on US, UK, or Canadian credit reports. A student loan default is a civil matter. It does not affect your student visa, OPT, or H-1B status.
 
 In India, the settlement marks the loan as "Settled" with a ₹0 balance. This stops further score damage. Get a secured credit card. Keep card spending under 25%. You can rebuild your score back above 750 in 18 to 24 months.</p>
@@ -928,7 +928,7 @@ In India, the settlement marks the loan as "Settled" with a ₹0 balance. This s
                 <Award className="w-4 h-4" />
                 <span>10. SettleLoans Legal Defense &amp; Institutional Advisory</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Institutional Debt Defense</h2>
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Institutional Debt Defense</h3>
               <p className="text-slate-700 leading-relaxed mb-6 text-base md:text-lg">SettleLoans represents student debtors and their parents in India. Our lawyers stop agent abuse and reply to legal notices. We negotiate 40% to 60% debt waivers under RBI rules.</p>
 
               <CompanySection />
@@ -940,7 +940,7 @@ In India, the settlement marks the loan as "Settled" with a ₹0 balance. This s
                 <HelpCircle className="w-4 h-4" />
                 <span>11. Frequently Asked Questions</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">FAQs: Avanse Education Loan Settlement &amp; Legal Defense</h2>
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">FAQs: Avanse Education Loan Settlement &amp; Legal Defense</h3>
 
               <div className="space-y-4">
                 {faqs.map((faq, idx) => (
@@ -962,10 +962,10 @@ In India, the settlement marks the loan as "Settled" with a ₹0 balance. This s
 
             {/* 5 Official Regulatory Links */}
             <div className="bg-slate-50 border border-slate-200 rounded-2xl p-6 my-10">
-              <h3 className="text-base font-bold text-slate-900 mb-4 flex items-center gap-2">
+              <h4 className="text-base font-bold text-slate-900 mb-4 flex items-center gap-2">
                 <Scale className="w-5 h-5 text-[#1F5EFF]" />
                 Official Statutory &amp; Regulatory References
-              </h3>
+              </h4>
               <ul className="space-y-3 text-xs md:text-sm text-slate-700">
                 <li className="flex items-start gap-2"><ExternalLink className="w-4 h-4 text-[#1F5EFF] flex-shrink-0 mt-0.5" /> <a href="https://www.rbi.org.in" target="_blank" rel="noopener noreferrer" className="hover:text-[#1F5EFF] underline decoration-slate-300 hover:decoration-[#1F5EFF] transition-colors" > <strong>Reserve Bank of India (RBI):</strong> Master Direction – Settlement Settlements and Technical Write-offs Framework (RBI/2023-24/40). </a></li>
                 <li className="flex items-start gap-2"><ExternalLink className="w-4 h-4 text-[#1F5EFF] flex-shrink-0 mt-0.5" /> <a href="https://www.rbi.org.in" target="_blank" rel="noopener noreferrer" className="hover:text-[#1F5EFF] underline decoration-slate-300 hover:decoration-[#1F5EFF] transition-colors" > <strong>RBI Master Circular:</strong> Responsible Lending Conduct – Release of Movable/Immovable Property Documents on Repayment of Loans (RBI/2023-24/60). </a></li>
@@ -977,10 +977,10 @@ In India, the settlement marks the loan as "Settled" with a ₹0 balance. This s
 
             {/* Related Guides & Resources Strip (10 Topic Badges) */}
             <div className="bg-slate-50 border border-slate-200 rounded-2xl p-6 my-10">
-              <h3 className="text-base font-bold text-slate-900 mb-4 flex items-center gap-2">
+              <h4 className="text-base font-bold text-slate-900 mb-4 flex items-center gap-2">
                 <BookOpen className="w-5 h-5 text-[#1F5EFF]" />
                 Explore Related Banking &amp; Debt Resolution Guides
-              </h3>
+              </h4>
               <div className="flex flex-wrap gap-2.5">
                 <Link
                   href="/hdfc-credila-education-loan-settlement"

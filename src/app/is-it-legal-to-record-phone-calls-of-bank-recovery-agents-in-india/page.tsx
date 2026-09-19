@@ -263,15 +263,15 @@ export default function RecordRecoveryAgentsPage() {
             </section>
 
             <section id="is-it-legal-in-india" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 Is It Legal to Record Calls Without Permission?
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 One of the most common fears borrowers have is whether they are breaking the law by recording the conversation, especially if they do not tell the recovery agent they are doing so. Recovery agents often weaponize this fear, threatening borrowers with counter-suits if they sense they are being recorded.
               </p>
 
               <div className="bg-blue-50 border-l-8 border-[#1F5EFF] p-8 rounded-r-2xl mb-8">
-                <h3 className="text-xl font-black text-[#1F5EFF] mb-4">One-Party Consent in India</h3>
+                <h4 className="text-xl font-black text-[#1F5EFF] mb-4">One-Party Consent in India</h4>
                 <p className="text-blue-900 text-lg leading-relaxed mb-4">
                   Unlike some states in the US that require "two-party consent," India operates fundamentally on a principle that allows you to record a conversation <strong>if you are an active participant in it</strong>.
                 </p>
@@ -293,22 +293,22 @@ export default function RecordRecoveryAgentsPage() {
             </section>
 
             <section id="indian-evidence-act" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 Call Recordings as Proof in DRT (Section 65B)
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 Courts in India, including the Debt Recovery Tribunal (DRT) and Magistrate Courts, heavily rely on electronic evidence. However, you cannot simply play a recording from your phone in the courtroom. It must be submitted according to the strict procedures laid out in the <strong>Indian Evidence Act, 1872</strong>.
               </p>
 
               <div className="grid md:grid-cols-2 gap-6 my-8">
                 <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
-                  <h3 className="font-black text-[#1F5EFF] text-lg mb-3">Admissibility</h3>
+                  <h4 className="font-black text-[#1F5EFF] text-lg mb-3">Admissibility</h4>
                   <p className="text-gray-700 leading-relaxed">
                     Audio recordings are classified as electronic records. The Supreme Court of India has repeatedly held (e.g., in R.M. Malkani vs State Of Maharashtra) that such recordings are admissible as primary evidence to prove verbal abuse, extortion, or admission of facts, provided the conversation is relevant to the matter at hand.
                   </p>
                 </div>
                 <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
-                  <h4 className="font-black text-[#1F5EFF] text-lg mb-3">Section 65B Certificate</h4>
+                  <h5 className="font-black text-[#1F5EFF] text-lg mb-3">Section 65B Certificate</h5>
                   <p className="text-gray-700 leading-relaxed">
                     To submit your phone recording in a formal court like the DRT, you must accompany it with a certificate under Section 65B. This is a sworn affidavit confirming that the recording device was yours, it was operating properly, the file was not tampered with, and it is a true reproduction of the original call.
                   </p>
@@ -317,9 +317,9 @@ export default function RecordRecoveryAgentsPage() {
             </section>
 
             <section id="what-to-record" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 What Specific Behaviors Should You Record?
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 Not every rude tone or demanding voice constitutes a crime. Banks have a legitimate right to demand repayment. However, many common recovery tactics blatantly cross the line into illegality, violating RBI guidelines and the Indian Penal Code (IPC). Your goal is to capture undeniable proof of the following actions:
               </p>
@@ -328,7 +328,7 @@ export default function RecordRecoveryAgentsPage() {
                 <div className="flex gap-6">
                   <div className="flex-shrink-0 w-12 h-12 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center font-black text-xl shadow-lg">1</div>
                   <div>
-                    <h3 className="text-2xl font-bold text-[#2E2E2E] mb-2">Use of Abusive or Profane Language</h3>
+                    <h4 className="text-2xl font-bold text-[#2E2E2E] mb-2">Use of Abusive or Profane Language</h4>
                     <p className="text-lg text-gray-700 leading-relaxed">
                       Capture any swearing, derogatory remarks about your family, character assassination, or extreme verbal humiliation. This is a direct violation of the RBI Fair Practices Code, which mandates that recovery agents must not resort to intimidation or verbal abuse.
                     </p>
@@ -338,7 +338,7 @@ export default function RecordRecoveryAgentsPage() {
                 <div className="flex gap-6">
                   <div className="flex-shrink-0 w-12 h-12 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center font-black text-xl shadow-lg">2</div>
                   <div>
-                    <h3 className="text-2xl font-bold text-[#2E2E2E] mb-2">Threats of Defamation</h3>
+                    <h4 className="text-2xl font-bold text-[#2E2E2E] mb-2">Threats of Defamation</h4>
                     <p className="text-lg text-gray-700 leading-relaxed">
                       Record agents threatening to call your employer to get you fired, threatening to contact your relatives to humiliate you, or threatening to visit your neighborhood to loudly proclaim you as a defaulter. This borders on criminal extortion under IPC Section 383, as they are threatening your reputation to induce payment.
                     </p>
@@ -348,7 +348,7 @@ export default function RecordRecoveryAgentsPage() {
                 <div className="flex gap-6">
                   <div className="flex-shrink-0 w-12 h-12 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center font-black text-xl shadow-lg">3</div>
                   <div>
-                    <h3 className="text-2xl font-bold text-[#2E2E2E] mb-2">Impersonation of Officials</h3>
+                    <h4 className="text-2xl font-bold text-[#2E2E2E] mb-2">Impersonation of Officials</h4>
                     <p className="text-lg text-gray-700 leading-relaxed">
                       It is a severe crime for a recovery agent to claim over the phone that they are a police officer, a court bailiff, a lawyer, or an RBI official coming to arrest you. Get this claim on tape, as impersonating a public servant is a serious offense under IPC Section 170.
                     </p>
@@ -358,22 +358,22 @@ export default function RecordRecoveryAgentsPage() {
             </section>
 
             <section id="truecaller-whatsapp-evidence" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 WhatsApp & Truecaller Proof: Strengthening Your Case
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 Agents are getting smarter. Knowing that regular GSM calls can be recorded by most Android phones, many abusive agents have shifted to WhatsApp calls, which are harder to record natively. Furthermore, they often use unregistered, rotating SIM cards.
               </p>
               
               <div className="grid md:grid-cols-2 gap-6 my-8">
                 <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
-                  <h3 className="font-black text-[#1F5EFF] text-lg mb-3">Recording WhatsApp Calls</h3>
+                  <h4 className="font-black text-[#1F5EFF] text-lg mb-3">Recording WhatsApp Calls</h4>
                   <p className="text-gray-700 leading-relaxed">
                     If an agent insists on calling via WhatsApp to avoid being recorded, use a secondary device (like another phone or a dictaphone) to record the audio while you keep the call on speakerphone. This is perfectly valid evidence. Additionally, take screenshots of their WhatsApp profile, number, and any abusive text messages they send.
                   </p>
                 </div>
                 <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
-                  <h4 className="font-black text-[#1F5EFF] text-lg mb-3">Utilizing Truecaller Data</h4>
+                  <h5 className="font-black text-[#1F5EFF] text-lg mb-3">Utilizing Truecaller Data</h5>
                   <p className="text-gray-700 leading-relaxed">
                     Even if the number is unregistered, Truecaller data can help establish a pattern. Take screenshots showing the number identified as 'Spam' or tagged by other users as 'Bank Recovery'. When combined with the audio recording where the caller mentions your specific bank and loan account, the identity of the harassing agency is easily established in court.
                   </p>
@@ -382,9 +382,9 @@ export default function RecordRecoveryAgentsPage() {
             </section>
 
             <section id="how-to-use-recordings" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 Where to Use This Evidence Effectively
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 Once you have captured the abuse on audio, you hold all the leverage. However, simply having the recording is not enough; you must deploy it strategically. Here is how expert lawyers weaponize this evidence against the bank:
               </p>
@@ -403,15 +403,15 @@ export default function RecordRecoveryAgentsPage() {
             </section>
 
             <section id="police-inaction-what-next" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 Dealing with Police Inaction
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 What happens if you take your clear audio recordings to the local police station, and the inspector still refuses to file an FIR, claiming they don't interfere in "bank matters"? This is a common hurdle, but your evidence remains powerful.
               </p>
 
               <div className="bg-blue-50 border-l-8 border-[#1F5EFF] p-8 rounded-r-2xl mb-8">
-                <h3 className="text-xl font-black text-[#1F5EFF] mb-4">Escalating the Complaint</h3>
+                <h4 className="text-xl font-black text-[#1F5EFF] mb-4">Escalating the Complaint</h4>
                 <ul className="space-y-3">
                   <li className="flex items-start gap-3">
                     <div className="mt-1.5 w-2 h-2 rounded-full bg-[#1F5EFF] flex-shrink-0"></div>
@@ -426,9 +426,9 @@ export default function RecordRecoveryAgentsPage() {
             </section>
 
             <section id="bank-liability-vicarious" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 The Bank's Vicarious Liability
-              </h2>
+              </h3>
               <div className="bg-gray-50 p-8 rounded-2xl mb-8 border border-gray-200">
                 <p className="text-lg leading-relaxed mb-6 text-gray-800">
                   A classic defense mechanism employed by banks is to claim ignorance. When confronted with your recordings, bank officials will often state, <em>"These are independent third-party agencies. We did not authorize them to abuse you. We are not responsible."</em>
@@ -443,14 +443,14 @@ export default function RecordRecoveryAgentsPage() {
             </section>
 
             <section id="psychological-impact" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 Stopping the Mental Trauma
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 The toll of daily harassment goes beyond legal and financial disputes; it deeply impacts the mental health of borrowers and their families. Constant phone ringing, abusive language, and the fear of social humiliation can lead to severe anxiety, depression, and a feeling of complete helplessness.
               </p>
               <div className="bg-red-50 p-6 rounded-xl border border-red-100 mb-8">
-                <h3 className="text-xl font-black text-red-700 mb-3">Take Back Control</h3>
+                <h4 className="text-xl font-black text-red-700 mb-3">Take Back Control</h4>
                 <p className="text-red-900 leading-relaxed">
                   Deciding to record these calls is the first step in taking back control. It shifts you from being a passive victim of abuse to an active gatherer of evidence. Knowing that every abusive word they speak is being documented to be used against them provides immense psychological relief. Do not suffer in silence—let the recorder do the heavy lifting while you build your legal defense.
                 </p>
@@ -458,11 +458,11 @@ export default function RecordRecoveryAgentsPage() {
             </section>
 
             <section id="bank-privacy-myth" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 The "Privacy Violation" Myth
-              </h2>
+              </h3>
               <div className="bg-red-50 p-6 rounded-xl border border-red-100 mb-8">
-                <h3 className="text-xl font-black text-red-700 mb-3">Don't Be Fooled by Their Threats</h3>
+                <h4 className="text-xl font-black text-red-700 mb-3">Don't Be Fooled by Their Threats</h4>
                 <p className="text-red-900 leading-relaxed mb-4">
                   Sometimes, if a recovery agent hears the 'beep' of a call recorder or if you confidently tell them you are recording the call, they will aggressively shout that you are "violating their privacy" and threaten to sue you for illegal recording.
                 </p>
@@ -476,9 +476,9 @@ export default function RecordRecoveryAgentsPage() {
             </section>
 
             <section id="success-stories" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 Borrower Success Stories
-              </h2>
+              </h3>
               <div className="grid md:grid-cols-2 gap-6 my-8">
                 <div className="bg-white p-8 rounded-[30px] border border-[#DEDEDE] shadow-sm hover:shadow-xl group transition-all">
                   <div className="flex items-center gap-4 mb-6">
@@ -486,7 +486,7 @@ export default function RecordRecoveryAgentsPage() {
                       VK
                     </div>
                     <div>
-                      <h3 className="font-bold text-gray-900">Vikas K.</h3>
+                      <h4 className="font-bold text-gray-900">Vikas K.</h4>
                       <div className="flex text-yellow-400">
                         <svg className="w-4 h-4 fill-current" viewBox="0 0 20 20"><path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z"/></svg>
                         <svg className="w-4 h-4 fill-current" viewBox="0 0 20 20"><path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z"/></svg>
@@ -511,7 +511,7 @@ export default function RecordRecoveryAgentsPage() {
                       RP
                     </div>
                     <div>
-                      <h4 className="font-bold text-gray-900">Ravi P.</h4>
+                      <h5 className="font-bold text-gray-900">Ravi P.</h5>
                       <div className="flex text-yellow-400">
                         <svg className="w-4 h-4 fill-current" viewBox="0 0 20 20"><path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z"/></svg>
                         <svg className="w-4 h-4 fill-current" viewBox="0 0 20 20"><path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z"/></svg>
@@ -533,13 +533,13 @@ export default function RecordRecoveryAgentsPage() {
             </section>
 
             <section id="faqs" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 Frequently Asked Questions
-              </h2>
+              </h3>
               <div className="space-y-4">
                 {(jsonLd["@graph"][4] as any)?.mainEntity?.map((faq: any, idx: number) => (
                   <div key={idx} className="bg-white border border-[#DEDEDE] rounded-xl p-6 hover:shadow-md transition-shadow">
-                    <h3 className="font-bold text-[#2E2E2E] text-lg mb-2">{faq.name}</h3>
+                    <h4 className="font-bold text-[#2E2E2E] text-lg mb-2">{faq.name}</h4>
                     <p className="text-gray-600 leading-relaxed">{faq.acceptedAnswer.text}</p>
                   </div>
                 ))}
@@ -548,7 +548,7 @@ export default function RecordRecoveryAgentsPage() {
 
             <div className="bg-[#2E2E2E] text-white p-12 rounded-[40px] text-center mt-24 relative overflow-hidden group">
               <div className="absolute inset-0 bg-[#1F5EFF] opacity-0 group-hover:opacity-5 transition-opacity"></div>
-              <h3 className="text-3xl font-black mb-6 relative z-10">Stop the Agent Harassment Today</h3>
+              <h4 className="text-3xl font-black mb-6 relative z-10">Stop the Agent Harassment Today</h4>
               <p className="text-xl opacity-90 mb-8 relative z-10 max-w-2xl mx-auto">
                 Are you facing daily verbal abuse from recovery agents? Start recording them immediately. Submit the recordings to our legal team and we will use them to file a severe harassment case against the bank.
               </p>

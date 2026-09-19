@@ -220,7 +220,7 @@ export default function MumbaiLoanSettlementPage() {
             </section>
 
             <section id="bkc-banking-hub" className="scroll-mt-32 mb-20 bg-blue-50/30 p-10 rounded-3xl border border-blue-100">
-              <h2 className="text-3xl font-black mb-8 text-[#1F5EFF] uppercase tracking-tighter">Bandra-Kurla Complex: The epicenter of Debt Negotiation</h2>
+              <h3 className="text-3xl font-black mb-8 text-[#1F5EFF] uppercase tracking-tighter">Bandra-Kurla Complex: The epicenter of Debt Negotiation</h3>
               <p className="mb-6">If you live or work in Mumbai, you know BKC as the gleaming heart of corporate India. But for an overleveraged borrower, BKC represents something else: access. Most of India's major banks - ICICI, Kotak, SBI, Bank of India, and countless international lenders like Citi or Deutsche Bank - have their regional or national headquarters in the BKC-Bandra belt. This is where the decisions that affect your life are made.</p>
               <p className="mb-6 font-bold">Why BKC matters for your settlement:</p>
               <ul className="space-y-4 mb-8">
@@ -242,7 +242,7 @@ export default function MumbaiLoanSettlementPage() {
             </section>
 
             <section id="lok-adalat-roadmap" className="scroll-mt-32 mb-20">
-              <h2 className="text-3xl font-black mb-8 text-black uppercase tracking-tight">Mumbai Lok Adalat 2026: Your Roadmap to Closure</h2>
+              <h3 className="text-3xl font-black mb-8 text-black uppercase tracking-tight">Mumbai Lok Adalat 2026: Your Roadmap to Closure</h3>
               <p className="mb-8">The National Lok Adalat is the single most powerful tool in a Mumbai borrower's arsenal. Organized by the MSLSA (Maharashtra State Legal Services Authority) and the District Legal Services Authority (DLSA), these are "People's Courts" that prioritize amicable settlement over litigation. In 2026, the stakes are higher than ever as banks focus on aggressive NPA cleanup before the end of the financial cycles.</p>
               <div className="bg-white border-2 border-[#DEDEDE] rounded-2xl overflow-hidden mb-10 shadow-sm">
                 <div className="bg-[#2E2E2E] text-white p-5 font-black text-center text-xl">2026 Mumbai National Lok Adalat Schedule</div>
@@ -270,7 +270,7 @@ export default function MumbaiLoanSettlementPage() {
             </section>
 
             <section id="maharashtra-legal-aid" className="scroll-mt-32 mb-20">
-              <h2 className="text-3xl font-black mb-8 text-black border-l-8 border-[#1F5EFF] pl-6">Maharashtra Legal Aid: Justice For Every Income Bracket</h2>
+              <h3 className="text-3xl font-black mb-8 text-black border-l-8 border-[#1F5EFF] pl-6">Maharashtra Legal Aid: Justice For Every Income Bracket</h3>
               <p className="mb-6">Many Mumbaikars believe that hiring a lawyer to fight a bank is a luxury they cannot afford. This is a dangerous myth. The Maharashtra State Legal Services Authority (MSLSA) exists to provide "Access to Justice for All." If you are a resident of Maharashtra and your <span className="text-[#1F5EFF] font-black">annual income is below ₹3,00,000</span>, you are eligible for free legal aid. This includes representation by an advocate in civil courts and Lok Adalats.</p>
               <p className="mb-6">Even if you are above this income bracket, SettleLoans serves as your affordable bridge to professional legal defense. We understand that in a city like Mumbai, legal fees shouldn't be another debt. We focus on "Results-Based-Consultancy." Our legal team in Mumbai helps you navigate the Small Causes Court and District Courts by preparing your defense, documenting your hardship, and ensuring that the bank doesn't steamroll you with their massive legal teams.</p>
               <p className="mb-6">Legal aid is not just about court cases; it's about counseling. Many of our Mumbai clients come to us in a state of deep emotional distress. We provide a legal and financial counseling session that helps you understand that debt is a commercial contract, not a lifelong shackle. Under the Legal Services Authorities Act, 1987, you have the right to be heard and the right to an amicable resolution. We ensure these rights are more than just words on a page.</p>
@@ -278,7 +278,7 @@ export default function MumbaiLoanSettlementPage() {
             </section>
 
             <section id="rbi-circulars-ots" className="scroll-mt-32 mb-20 bg-emerald-50/20 p-10 rounded-3xl border border-emerald-100">
-              <h2 className="text-3xl font-black mb-8 text-emerald-800 uppercase tracking-tighter">Mastering the RBI's One-Time Settlement (OTS) Framework</h2>
+              <h3 className="text-3xl font-black mb-8 text-emerald-800 uppercase tracking-tighter">Mastering the RBI's One-Time Settlement (OTS) Framework</h3>
               <p className="mb-8">A loan settlement in Mumbai isn't just an informal deal; it is governed by a strict regulatory framework set by the Reserve Bank of India (RBI). Specifically, the RBI's "Prudential Framework for Resolution of Stressed Assets" allows banks to settle with borrowers to stop further loss. For Mumbai's banking corporate offices in BKC and South Mumbai, an OTS is a pragmatic accounting decision. When a loan turns into a Non-Performing Asset (NPA) after 90 days of non-payment, the bank is forced to set aside "provisions" - essentially locking away their own capital.</p>
               <p className="mb-8">By offering a settlement, you are helping the bank free up this locked capital. This is why banks have specific "Settlement Windows," especially during the final quarter of the financial year (January to March) or before major National Lok Adalats. We help you align your application with these RBI-approved windows. We frame your request not as a "plea for mercy" but as a "formal resolution under RBI guidelines." This shift in perspective is crucial for success.</p>
               <p className="mb-8">Our team at SettleLoans audits your loan history to check for any violations of the Fair Practices Code by the lender. If a bank has added illegal "Late Payment Charges on Interest" or failed to provide a mandatory 30-day notice before declaring an NPA, we use these regulatory lapses as massive leverage. In several Mumbai cases, we have seen banks waive all interest and a significant portion of the principal simply because we pointed out their non-compliance with RBI circulars. Your debt might be smaller than you think if we strip away the illegal penalties.</p>
@@ -286,11 +286,11 @@ export default function MumbaiLoanSettlementPage() {
             </section>
 
             <section id="harassment-police-recourse" className="scroll-mt-32 mb-20 bg-red-50/20 p-10 rounded-3xl border border-red-100">
-              <h2 className="text-3xl font-black mb-8 text-red-600 uppercase tracking-tighter">Mumbai Police & IPC 506: Your Shield Against Harassment</h2>
+              <h3 className="text-3xl font-black mb-8 text-red-600 uppercase tracking-tighter">Mumbai Police & IPC 506: Your Shield Against Harassment</h3>
               <p className="mb-8">In Mumbai, the "Recovery Agent" is often a figure of dread. They use the city's complex logistics - your housing society's security gate, your workplace in an IT park, or even your commute - to intimidate you. This is criminal behavior. The Mumbai Police, under various commissioners, have consistently advised citizens to report harassment. Specifically, <span className="font-bold">Section 506 of the Indian Penal Code (Criminal Intimidation)</span> is a powerful tool against agents who threaten you or your family.</p>
               <div className="grid gap-6 md:grid-cols-2 mb-10">
                 <div className="bg-white p-6 rounded-2xl shadow-sm border border-red-100">
-                  <h3 className="font-black text-red-600 mb-2">What Counts as Harassment?</h3>
+                  <h4 className="font-black text-red-600 mb-2">What Counts as Harassment?</h4>
                   <ul className="text-sm space-y-2 opacity-80">
                     <li>• Calls before 8 AM or after 7 PM.</li>
                     <li>• Abusive or threatening language.</li>
@@ -300,7 +300,7 @@ export default function MumbaiLoanSettlementPage() {
                   </ul>
                 </div>
                 <div className="bg-white p-6 rounded-2xl shadow-sm border border-red-100">
-                  <h4 className="font-black text-blue-600 mb-2">The SettleLoans Strategy</h4>
+                  <h5 className="font-black text-blue-600 mb-2">The SettleLoans Strategy</h5>
                   <ul className="text-sm space-y-2 opacity-80">
                     <li>• We issue a formal "Notice of Legal Representation."</li>
                     <li>• We record and document every single violation.</li>
@@ -314,7 +314,7 @@ export default function MumbaiLoanSettlementPage() {
             </section>
 
             <section id="mazgaon-court-defense" className="scroll-mt-32 mb-20">
-              <h2 className="text-3xl font-black mb-8 text-black border-l-8 border-[#1F5EFF] pl-6 uppercase tracking-tighter">Defending Section 138 & Arbitration in Mazgaon & Esplanade Courts</h2>
+              <h3 className="text-3xl font-black mb-8 text-black border-l-8 border-[#1F5EFF] pl-6 uppercase tracking-tighter">Defending Section 138 & Arbitration in Mazgaon & Esplanade Courts</h3>
               <p className="mb-8">If you have received a summons from the Metropolitan Magistrate's Court at Mazgaon, Esplanade, or Borivali, don't panic. These are often related to Section 138 of the Negotiable Instruments Act (Cheque Bounce) or Section 25 of the Payment and Settlement Systems Act (ECS bounce). In Mumbai, thousands of such cases are filed daily. Most are pre-litigation attempts by banks to force a borrower into a payment they cannot afford by using the threat of a 'criminal' warrant.</p>
               <p className="mb-8">Our defense strategy in these Mumbai courts is multi-layered. First, we check if the mandatory statutory notice was served correctly. Second, we examine if the "Debt" being claimed is legally enforceable or if the bank has padded it with illegal interest. In many instances, we have successfully defended clients by proving that the cheque was taken as 'Security' rather than for a specific debt repayment at the time of the bounce. This nuanced legal understanding of Mumbai's local court procedures is what sets SettleLoans apart.</p>
               <p className="mb-8">We also handle <strong>Arbitration Proceedings</strong> which are increasingly common among Mumbai's NBFCs (Non-Banking Financial Companies). Often, banks appoint a 'Private Arbitrator' who might be biased. We challenge these appointments in the High Court if necessary, or represent you during the arbitration to ensure the award is fair. In most cases, we aim for a "Compromise Decree." We use the ongoing court case as a catalyst to jump-start a settlement. Banks hate long trials in Mumbai's congested courts; they prefer a guaranteed 40% payment today over a long possibility after five years of litigation.</p>
@@ -322,7 +322,7 @@ export default function MumbaiLoanSettlementPage() {
             </section>
 
             <section id="settlement-mechanics-pro" className="scroll-mt-32 mb-20">
-              <h2 className="text-3xl font-black mb-8 text-black uppercase tracking-tight">The Pro-Level Mechanics of a Mumbai Settlement</h2>
+              <h3 className="text-3xl font-black mb-8 text-black uppercase tracking-tight">The Pro-Level Mechanics of a Mumbai Settlement</h3>
               <p className="mb-8">How does a professional settlement differ from a 'self-attempt'? The difference is in the <strong>Audit and Leverage</strong>. Most Mumbai borrowers approach a bank in a state of desperation, often saying "I have no money." To a banker, this is a weak argument. At SettleLoans, we approach a bank with a "Hardship Portfolio." This is a curated file that proves why you cannot pay the full amount, backed by legal precedents and current RBI norms.</p>
               <p className="mb-8 font-bold">The SettleLoans 5-Step Execution:</p>
               <ol className="space-y-6 mb-10 list-decimal pl-6">
@@ -336,14 +336,14 @@ export default function MumbaiLoanSettlementPage() {
             </section>
 
             <section id="navi-mumbai-thane-focus" className="scroll-mt-32 mb-20">
-              <h2 className="text-3xl font-black mb-10 text-black uppercase tracking-tight">Navi Mumbai & Thane: The Heart of the MMR Debt Frontier</h2>
+              <h3 className="text-3xl font-black mb-10 text-black uppercase tracking-tight">Navi Mumbai & Thane: The Heart of the MMR Debt Frontier</h3>
               <p className="mb-8">The Mumbai Metropolitan Region (MMR) is no longer just the island city or the western suburbs. Families in Vashi, Belapur, Kalyan, and the booming Ghodbunder Road face their own set of unique financial challenges. These areas are the hubs of Mumbai's burgeoning middle class, many of whom have invested everything in large, modern housing projects. The "Real Estate Debt" in Navi Mumbai and Thane is often tied to personal loans taken to cover interiors, club memberships, and parking slots - costs that aren't usually covered by a standard home loan.</p>
               <p className="mb-8">Our services extend deeply into the MMR. Whether you are dealing with a local cooperative bank in Thane or a large NBFC operating out of a tech park in CBD Belapur, our "Regional Shield" approach remains the same. We understand that residents of these areas often commute to Mumbai for work, making them susceptible to harassment at two different locations. We provide a unified defense that covers your home in Thane and your office in Worli, Lower Parel, or BKC.</p>
               <p className="mb-8">For residents of Navi Mumbai, we utilize the <strong>District Legal Services Authority at CBD Belapur</strong>. For Thane residents, we work with the <strong>Thane District Court's Legal Aid cell</strong>. This local expertise is vital because the 'working culture' of recovery agents in Thane or Kalyan often differs from those in the Mumbai suburbs. We know the local police stations and the local banking channels, ensuring that your protection is truly 360-degrees. For us, every suburb of the MMR matters, and every borrower deserves the same elite level of negotiation.</p>
             </section>
 
             <section id="lifestyle-debt-traps" className="scroll-mt-32 mb-20 bg-gray-50/50 p-10 rounded-3xl border border-dashed border-gray-200">
-              <h2 className="text-3xl font-black mb-8 text-gray-800 uppercase tracking-tight">The Mumbai Lifestyle Trap: When Consumption Outpaces Cash Flow</h2>
+              <h3 className="text-3xl font-black mb-8 text-gray-800 uppercase tracking-tight">The Mumbai Lifestyle Trap: When Consumption Outpaces Cash Flow</h3>
               <p className="mb-6">The city of Mumbai thrives on aspirations. From the latest iPhone to the newest SUV parked in a BKC basement, consumption is often equated with status. Thousands of young professionals in the BFSI (Banking, Financial Services, and Insurance) and IT sectors find themselves in a unique trap: the "Income-Aspiration Mismatch." You earn 1.5 Lakhs a month, but your lifestyle in a city like Mumbai actually costs 1.8 Lakhs. The 30,000 difference is funded by credit cards and 'Buy Now Pay Later' (BNPL) schemes.</p>
               <p className="mb-6">Over two years, this 30,000 monthly deficit balloons into a 10 Lakh debt mountain due to 48% annual interest on credit cards. Suddenly, the "Minimum Amount Due" is no longer affordable. This is where the panic sets in. We see this story from Malad to Mulund every day. The guilt of "overspending" stops people from seeking help until they are at the brink. At SettleLoans, we tell our Mumbai clients: <span className="text-black font-bold">Debt is a mathematical error, not a moral failure.</span></p>
               <p className="mb-6">We provide a "Lifestyle Audit" as part of our consultation. We help you identify the leaks in your cash flow and prioritize which loans to settle first. Often, settling one high-interest credit card can free up enough cash to start paying off your smaller EMIs on time. Our goal is to stabilize your 'financial ship' in the choppy waters of the Mumbai economy. We don't just settle your loans; we teach you how to never fall into the same trap again in this high-pressure city. Breaking the debt cycle requires changing your relationship with credit, and we are here to guide you through that transformation.</p>
@@ -351,7 +351,7 @@ export default function MumbaiLoanSettlementPage() {
             </section>
 
             <section id="client-testimonials" className="scroll-mt-32 mb-20 bg-[#f8faff] p-10 rounded-[40px] border border-blue-50">
-              <h2 className="text-3xl font-black mb-12 text-center text-[#1F5EFF] uppercase tracking-tighter">Mumbaikars Reclaiming Their Lives: Real Reviews</h2>
+              <h3 className="text-3xl font-black mb-12 text-center text-[#1F5EFF] uppercase tracking-tighter">Mumbaikars Reclaiming Their Lives: Real Reviews</h3>
               <div className="grid gap-8 md:grid-cols-2">
                 {[
                   { name: "Sameer Prabhu", location: "Andheri East", stars: 5, text: "SettleLoans helped me close my mounting credit card debt of 12 Lakhs in Mumbai. Their negotiation with the bank at BKC was top-notch. I got a 65% waiver and the harassment stopped instantly." },
@@ -383,12 +383,12 @@ export default function MumbaiLoanSettlementPage() {
             </section>
 
             <section id="mumbai-case-studies" className="scroll-mt-32 mb-20 bg-gray-50 p-12 rounded-[40px] border border-[#DEDEDE]">
-              <h2 className="text-4xl font-black mb-12 text-center text-[#1F5EFF]">More Mumbai Success Stories: Lives Transformed</h2>
+              <h3 className="text-4xl font-black mb-12 text-center text-[#1F5EFF]">More Mumbai Success Stories: Lives Transformed</h3>
               <div className="space-y-10">
                 <div className="bg-white p-8 rounded-2xl shadow-sm border border-[#DEDEDE]">
                   <div className="flex justify-between items-start mb-6">
                     <div>
-                      <h3 className="text-xl font-black">Media Professional, Goregaon</h3>
+                      <h4 className="text-xl font-black">Media Professional, Goregaon</h4>
                       <p className="text-sm text-gray-500 italic">Industry: TV Production (Job Loss during Sitcom cancellation)</p>
                     </div>
                     <div className="bg-red-50 text-red-600 px-4 py-1 rounded-full text-xs font-bold font-mono">Debt: ₹18.5 Lakhs</div>
@@ -399,7 +399,7 @@ export default function MumbaiLoanSettlementPage() {
                 <div className="bg-white p-8 rounded-2xl shadow-sm border border-[#DEDEDE]">
                   <div className="flex justify-between items-start mb-6">
                     <div>
-                      <h4 className="text-xl font-black">Young Couple, Kandivali West</h4>
+                      <h5 className="text-xl font-black">Young Couple, Kandivali West</h5>
                       <p className="text-sm text-gray-500 italic">Situation: Multiple Personal Loans for a Dream Wedding</p>
                     </div>
                     <div className="bg-red-50 text-red-600 px-4 py-1 rounded-full text-xs font-bold font-mono">Debt: ₹14 Lakhs</div>
@@ -410,7 +410,7 @@ export default function MumbaiLoanSettlementPage() {
                 <div className="bg-white p-8 rounded-2xl shadow-sm border border-[#DEDEDE]">
                   <div className="flex justify-between items-start mb-6">
                     <div>
-                      <h4 className="text-xl font-black">SME Owner, Bhiwandi/Thane</h4>
+                      <h5 className="text-xl font-black">SME Owner, Bhiwandi/Thane</h5>
                       <p className="text-sm text-gray-500 italic">Industry: Logistics & Warehousing (Business Slowdown)</p>
                     </div>
                     <div className="bg-red-50 text-red-600 px-4 py-1 rounded-full text-xs font-bold font-mono">Debt: ₹42 Lakhs</div>
@@ -421,7 +421,7 @@ export default function MumbaiLoanSettlementPage() {
                 <div className="bg-white p-8 rounded-2xl shadow-sm border border-[#DEDEDE]">
                   <div className="flex justify-between items-start mb-6">
                     <div>
-                      <h4 className="text-xl font-black">Marketing Lead, Malad (Orlem)</h4>
+                      <h5 className="text-xl font-black">Marketing Lead, Malad (Orlem)</h5>
                       <p className="text-sm text-gray-500 italic">Industry: Ed-Tech (Sudden Layoff)</p>
                     </div>
                     <div className="bg-red-50 text-red-600 px-4 py-1 rounded-full text-xs font-bold font-mono">Debt: ₹9.5 Lakhs</div>
@@ -432,7 +432,7 @@ export default function MumbaiLoanSettlementPage() {
                 <div className="bg-white p-8 rounded-2xl shadow-sm border border-[#DEDEDE]">
                   <div className="flex justify-between items-start mb-6">
                     <div>
-                      <h4 className="text-xl font-black">Retired Professional, South Mumbai</h4>
+                      <h5 className="text-xl font-black">Retired Professional, South Mumbai</h5>
                       <p className="text-sm text-gray-500 italic">Industry: Government Service (Retired)</p>
                     </div>
                     <div className="bg-red-50 text-red-600 px-4 py-1 rounded-full text-xs font-bold font-mono">Debt: ₹11 Lakhs</div>
@@ -444,7 +444,7 @@ export default function MumbaiLoanSettlementPage() {
             </section>
 
             <section id="comprehensive-faqs" className="scroll-mt-32 mb-20">
-              <h2 className="text-3xl font-black mb-12">The Ultimate Mumbai Debt FAQ</h2>
+              <h3 className="text-3xl font-black mb-12">The Ultimate Mumbai Debt FAQ</h3>
               <div className="space-y-6">
                 {[
                   { q: "Is debt a criminal offense in Mumbai?", a: "No. Defaulting on a personal loan or credit card is a civil matter. Arrests only happen in cases of fraud, willful default (money laundering), or non-compliance with court orders, not for being unable to pay your EMIs due to financial hardship." },
@@ -481,7 +481,7 @@ export default function MumbaiLoanSettlementPage() {
             <section id="take-action" className="scroll-mt-32 mt-24">
               <div className="bg-[#2E2E2E] rounded-[48px] p-12 text-center relative overflow-hidden shadow-2xl">
                  <div className="absolute top-0 right-0 w-64 h-64 bg-[#1F5EFF]/10 rounded-full -mr-32 -mt-32 blur-3xl"></div>
-                 <h2 className="text-3xl md:text-5xl font-black text-white mb-6 leading-tight uppercase tracking-tighter">Your Debt-Free Mumbai Life Starts Here</h2>
+                 <h3 className="text-3xl md:text-5xl font-black text-white mb-6 leading-tight uppercase tracking-tighter">Your Debt-Free Mumbai Life Starts Here</h3>
                  <p className="text-white/70 mb-10 text-xl max-w-2xl mx-auto leading-relaxed">Join 15,000+ families who have used SettleLoans to regain their dignity. Don't let another recovery call ruin your career or your peace of mind in the Maximum City.</p>
                  <div className="flex flex-col sm:flex-row gap-6 justify-center">
                     <Link href="/contact" className="bg-[#1F5EFF] text-white font-black py-5 px-14 rounded-2xl hover:scale-105 transition-all text-xl shadow-xl uppercase tracking-widest">

@@ -241,9 +241,9 @@ export default function CibilDisputePage() {
 
             {/* Impact on Loans */}
             <section id="impact-on-loans" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 Impact on Your Loan Approvals
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6 text-gray-700">
                 A single false entry showing delayed payment affects every aspect of your financial life. Banks use strict algorithmic screening before human review even begins. Let us look at what happens when a wrongful overdue remains uncorrected:
               </p>
@@ -268,28 +268,28 @@ export default function CibilDisputePage() {
 
             {/* Gray Insight Box */}
             <section id="why-it-happens" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 Why Do Banks Update Wrong CIBIL Data?
-              </h2>
+              </h3>
               <div className="bg-gray-50 p-8 rounded-2xl mb-8 border border-gray-200">
                 <p className="text-lg leading-relaxed mb-6 text-gray-800">
                   You paid on time, so why is the system showing a default? These errors are incredibly common and usually stem from administrative blunders rather than malicious intent.
                 </p>
                 <div className="grid md:grid-cols-2 gap-6 my-8">
                   <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
-                    <h3 className="font-black text-[#1F5EFF] text-lg mb-3">System Lags</h3>
+                    <h4 className="font-black text-[#1F5EFF] text-lg mb-3">System Lags</h4>
                     <p className="text-base text-gray-600">Banks update credit bureaus every 30-45 days. If you paid on the 31st and the report ran on the 30th, you will incorrectly appear overdue.</p>
                   </div>
                   <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
-                    <h4 className="font-black text-[#1F5EFF] text-lg mb-3">Human Error</h4>
+                    <h5 className="font-black text-[#1F5EFF] text-lg mb-3">Human Error</h5>
                     <p className="text-base text-gray-600">Manual data entry mistakes. An employee accidentally links someone else's default to your PAN card details.</p>
                   </div>
                   <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
-                    <h4 className="font-black text-[#1F5EFF] text-lg mb-3">Settlement Glitches</h4>
+                    <h5 className="font-black text-[#1F5EFF] text-lg mb-3">Settlement Glitches</h5>
                     <p className="text-base text-gray-600">You legally settled a loan and received an NOC, but the bank's backend failed to switch the status from 'Written-Off' to 'Settled'.</p>
                   </div>
                   <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
-                    <h4 className="font-black text-[#1F5EFF] text-lg mb-3">Identity Theft</h4>
+                    <h5 className="font-black text-[#1F5EFF] text-lg mb-3">Identity Theft</h5>
                     <p className="text-base text-gray-600">Fraudsters take out loans using your credentials, and you only find out when the overdue notification hits your CIBIL.</p>
                   </div>
                 </div>
@@ -298,9 +298,9 @@ export default function CibilDisputePage() {
 
             {/* Bureau Process */}
             <section id="bureau-process" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 How the CIBIL Investigation Works
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6 text-gray-700">
                 A common misconception is that CIBIL has the power to just edit your score if you show them an NOC or payment receipt. This is legally false. Credit Bureaus act purely as data custodians, not data creators.
               </p>
@@ -315,7 +315,7 @@ export default function CibilDisputePage() {
             {/* Common Mistakes */}
             <section id="common-mistakes" className="scroll-mt-32 mb-16">
               <div className="bg-red-50 p-6 rounded-xl border border-red-100 mb-8">
-                <h3 className="text-2xl font-black text-red-700 mb-3">Mistakes to Avoid When Disputing</h3>
+                <h4 className="text-2xl font-black text-red-700 mb-3">Mistakes to Avoid When Disputing</h4>
                 <p className="text-lg text-red-900 leading-relaxed mb-4">
                   Do not compromise your own dispute. People often get their legitimate disputes rejected because of procedural errors:
                 </p>
@@ -338,7 +338,7 @@ export default function CibilDisputePage() {
 
             {/* Blue Important Box */}
             <div className="bg-blue-50 border-l-8 border-[#1F5EFF] p-8 rounded-r-2xl mb-8">
-              <h4 className="text-xl font-black text-[#1F5EFF] mb-4">Crucial First Step: Gather Your Evidence</h4>
+              <h5 className="text-xl font-black text-[#1F5EFF] mb-4">Crucial First Step: Gather Your Evidence</h5>
               <p className="text-lg leading-relaxed mb-4 text-blue-900">
                 Before you initiate the dispute, you must compile ironclad proof that the overdue entry is false. CIBIL is just a reporting agency; they will ask the bank to verify your claim.
               </p>
@@ -360,9 +360,9 @@ export default function CibilDisputePage() {
 
             {/* Numbered Steps */}
             <section id="step-by-step" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 Step-by-Step: File CIBIL Dispute Online
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-10 text-gray-700">
                 Ready to <strong>remove a false overdue from CIBIL</strong>? Follow these precise steps on the official consumer portal.
               </p>
@@ -373,7 +373,7 @@ export default function CibilDisputePage() {
                     1
                   </div>
                   <div>
-                    <h3 className="text-2xl font-bold text-[#2E2E2E] mb-3">Log in to myCIBIL</h3>
+                    <h4 className="text-2xl font-bold text-[#2E2E2E] mb-3">Log in to myCIBIL</h4>
                     <p className="text-lg text-gray-600 leading-relaxed">
                       Go to the official CIBIL website and log into your myCIBIL portal. If you do not have an account, you will need to register and pull your latest credit report.
                     </p>
@@ -385,7 +385,7 @@ export default function CibilDisputePage() {
                     2
                   </div>
                   <div>
-                    <h3 className="text-2xl font-bold text-[#2E2E2E] mb-3">Navigate to the Dispute Center</h3>
+                    <h4 className="text-2xl font-bold text-[#2E2E2E] mb-3">Navigate to the Dispute Center</h4>
                     <p className="text-lg text-gray-600 leading-relaxed">
                       Click on the "Dispute Center" tab from the dashboard menu, then select "Dispute an Item".
                     </p>
@@ -397,7 +397,7 @@ export default function CibilDisputePage() {
                     3
                   </div>
                   <div>
-                    <h3 className="text-2xl font-bold text-[#2E2E2E] mb-3">Select the Inaccurate Entry</h3>
+                    <h4 className="text-2xl font-bold text-[#2E2E2E] mb-3">Select the Inaccurate Entry</h4>
                     <p className="text-lg text-gray-600 leading-relaxed">
                       Scroll to the 'Account Information' section. Locate the specific loan or credit card that is showing the false overdue. Click on the 'Dispute' checkbox next to it.
                     </p>
@@ -409,7 +409,7 @@ export default function CibilDisputePage() {
                     4
                   </div>
                   <div>
-                    <h3 className="text-2xl font-bold text-[#2E2E2E] mb-3">Specify the Error</h3>
+                    <h4 className="text-2xl font-bold text-[#2E2E2E] mb-3">Specify the Error</h4>
                     <p className="text-lg text-gray-600 leading-relaxed">
                       A dropdown will appear. Select the exact nature of the error—such as "Days Past Due (DPD) Incorrect" or "Asset Classification Incorrect". Add a clear, concise comment explaining that you have paid the dues and possess the NOC.
                     </p>
@@ -421,7 +421,7 @@ export default function CibilDisputePage() {
                     5
                   </div>
                   <div>
-                    <h3 className="text-2xl font-bold text-[#2E2E2E] mb-3">Submit and Save the Dispute ID</h3>
+                    <h4 className="text-2xl font-bold text-[#2E2E2E] mb-3">Submit and Save the Dispute ID</h4>
                     <p className="text-lg text-gray-600 leading-relaxed">
                       Once submitted, the system will generate a unique Dispute ID. Save this ID safely; you will need it to track your resolution status.
                     </p>
@@ -433,7 +433,7 @@ export default function CibilDisputePage() {
             {/* Red Warning Box */}
             <section id="dispute-timeline" className="scroll-mt-32 mb-16">
               <div className="bg-red-50 p-6 rounded-xl border border-red-100 mb-8">
-                <h3 className="text-2xl font-black text-red-700 mb-3">WARNING: Do Not Pay "Credit Repair" Scammers</h3>
+                <h4 className="text-2xl font-black text-red-700 mb-3">WARNING: Do Not Pay "Credit Repair" Scammers</h4>
                 <p className="text-lg text-red-900 leading-relaxed mb-4">
                   Many fraudulent agencies claim they can "hack" CIBIL to erase overdues for a massive fee. This is impossible. CIBIL cannot alter data without the explicit authorization of the lending bank. Your only legal route is the official dispute process.
                 </p>
@@ -442,9 +442,9 @@ export default function CibilDisputePage() {
 
             {/* Escalation Process */}
             <section id="escalation" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 What if the Bank Rejects the Dispute?
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6 text-gray-700">
                 Sometimes, a bank's automated systems will automatically reject your dispute, stubbornly upholding the <strong>wrong CIBIL data</strong>. Do not panic. You have higher authorities to appeal to.
               </p>
@@ -455,9 +455,9 @@ export default function CibilDisputePage() {
 
             {/* Review Cards Grid */}
             <section id="success-stories" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">
                 Dispute Success Stories
-              </h2>
+              </h3>
               <div className="grid md:grid-cols-2 gap-8">
                 <div className="bg-white p-8 rounded-[30px] border border-[#DEDEDE] shadow-sm hover:shadow-xl group transition-all">
                   <div className="flex justify-between items-start mb-6">
@@ -472,7 +472,7 @@ export default function CibilDisputePage() {
                       ))}
                     </div>
                   </div>
-                  <h3 className="font-bold text-[#2E2E2E] text-xl mb-3">Score Jumped 60 Points!</h3>
+                  <h4 className="font-bold text-[#2E2E2E] text-xl mb-3">Score Jumped 60 Points!</h4>
                   <p className="text-gray-600 mb-6 line-clamp-3">
                     "The bank falsely reported an active overdue on my closed auto loan. Followed this process and got it removed in 28 days. Life saver!"
                   </p>
@@ -499,7 +499,7 @@ export default function CibilDisputePage() {
                       ))}
                     </div>
                   </div>
-                  <h4 className="font-bold text-[#2E2E2E] text-xl mb-3">RBI Escalation Worked</h4>
+                  <h5 className="font-bold text-[#2E2E2E] text-xl mb-3">RBI Escalation Worked</h5>
                   <p className="text-gray-600 mb-6 line-clamp-3">
                     "My bank ignored my initial CIBIL dispute. Taking it to the RBI Ombudsman using this guide forced them to rectify the wrong data instantly."
                   </p>
@@ -517,9 +517,9 @@ export default function CibilDisputePage() {
 
             {/* FAQs */}
             <section id="faqs" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">
                 Frequently Asked Questions
-              </h2>
+              </h3>
               <div className="space-y-4">
                 <details name="faq-accordion" className="bg-white border border-[#DEDEDE] rounded-xl p-6 hover:shadow-md group cursor-pointer transition-shadow">
                   <summary className="text-xl font-bold text-[#2E2E2E] list-none flex justify-between items-center">
@@ -577,7 +577,7 @@ export default function CibilDisputePage() {
             <div className="bg-[#2E2E2E] text-white p-12 rounded-[40px] text-center mt-24 relative overflow-hidden group">
               <div className="absolute inset-0 bg-[#1F5EFF] opacity-0 group-hover:opacity-5 transition-opacity"></div>
               <div className="relative z-10">
-                <h3 className="text-3xl md:text-5xl font-black mb-6">Bank Refusing to Fix Your CIBIL?</h3>
+                <h4 className="text-3xl md:text-5xl font-black mb-6">Bank Refusing to Fix Your CIBIL?</h4>
                 <p className="text-lg md:text-xl text-gray-300 mb-8 max-w-2xl mx-auto">
                   If you have filed a CIBIL dispute and the bank keeps rejecting it, you need legal escalation. Let our experts handle the RBI Ombudsman filing to force a correction.
                 </p>

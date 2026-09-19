@@ -195,7 +195,7 @@ export default function BusinessLoanSettlementPage() {
                                 This guide is for the business owners who are facing recovery notices, DRT summons, or SARFAESI actions. Business loan settlement is not about 'running away' from debt; it is about reaching a realistic conclusion to a financial contract that is no longer sustainable. With the right legal expert, you can protect your assets and your legal rights while resolving your liabilities.
                             </p>
                             <div className="bg-blue-50 p-8 rounded-2xl border border-blue-100 mb-10">
-                                <h3 className="text-xl font-bold text-[#1F5EFF] mb-4 uppercase tracking-wider">The Complexity of Commercial Debt</h3>
+                                <h4 className="text-xl font-bold text-[#1F5EFF] mb-4 uppercase tracking-wider">The Complexity of Commercial Debt</h4>
                                 <p className="text-gray-700 leading-relaxed mb-4 font-medium">
                                     Unlike personal loans, business loans often involve multiple layers of complexity: CC limits, term loans, LCs, and bank guarantees. Most business owners have also provided 'Personal Guarantees', which means the bank can go after your private savings and home even if the business is a Limited Company.
                                 </p>
@@ -206,9 +206,9 @@ export default function BusinessLoanSettlementPage() {
                         </section>
 
                         <section id="msme-protections" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">
                                 The MSME Act Shield: Your Forbidden Defence
-                            </h2>
+                            </h3>
                             <p className="text-lg text-gray-700 leading-relaxed mb-6">
                                 If your business is registered as an MSME (Micro, Small, or Medium Enterprise), you have specific legal protections that most bankers will never tell you about. The most powerful of these is the 'Mandatory Restructuring Mechanism' established by the RBI circulars under the MSMED Act.
                             </p>
@@ -221,32 +221,32 @@ export default function BusinessLoanSettlementPage() {
                         </section>
 
                         <section id="drt-vs-civil" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 uppercase tracking-tight">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 uppercase tracking-tight">
                                 Navigating the Debt Recovery Tribunal (DRT) Process
-                            </h2>
+                            </h3>
                             <p className="text-lg text-gray-700 leading-relaxed mb-6">
                                 If your debt exceeds 20 Lakhs, the bank will likely file an 'Original Application' (OA) in the Debt Recovery Tribunal (DRT). The DRT is a specialized court designed for fast recovery, but it is also a place where a strong defense can stop a bank in its tracks.
                             </p>
                             <div className="grid grid-cols-1 md:grid-cols-2 gap-8 mb-10">
                                 <div className="p-8 bg-gray-50 rounded-3xl border border-gray-100">
-                                    <h3 className="font-bold text-xl mb-4 text-[#1F5EFF]">The OA Defence</h3>
+                                    <h4 className="font-bold text-xl mb-4 text-[#1F5EFF]">The OA Defence</h4>
                                     <p className="text-gray-700 leading-relaxed">We challenge the bank's OA on grounds of incorrect interest capitalization, missing documents, or violation of the 'Fair Practice Code'. A well-defended OA can drag on for 3 to 5 years, making the bank desperate for a settlement.</p>
                                 </div>
                                 <div className="p-8 bg-gray-50 rounded-3xl border border-gray-100">
-                                    <h4 className="font-bold text-xl mb-4 text-[#1F5EFF]">The S.A. Appeal</h4>
+                                    <h5 className="font-bold text-xl mb-4 text-[#1F5EFF]">The S.A. Appeal</h5>
                                     <p className="text-gray-700 leading-relaxed">If the bank issues a 13(4) possession notice, we file a 'Securitization Application' (S.A.) in the DRT. This is the primary tool to get a 'Stay' on the auction of your factory or office premises.</p>
                                 </div>
                             </div>
                         </section>
 
                         <section id="ots-policies" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">
                                 One-Time Settlement (OTS) Strategies for Businesses
-                            </h2>
+                            </h3>
                             <p className="text-lg text-gray-700 leading-relaxed mb-6">
                                 Most PSBs (Public Sector Banks like SBI, PNB, BOB) have annual 'OTS Schemes' where they offer massive discounts to clear their books of NPAs. However, these schemes have strict eligibility criteria and deadlines. Our legal team tracks every major bank's OTS policy in real-time.
                             </p>
-                            <h3 className="text-2xl font-bold text-[#2E2E2E] mb-4">The Art of the 'Haircut' in Business Loans</h3>
+                            <h4 className="text-2xl font-bold text-[#2E2E2E] mb-4">The Art of the 'Haircut' in Business Loans</h4>
                             <p className="text-lg text-gray-700 leading-relaxed mb-6">
                                 Negotiating a 'haircut' (discount) on a business loan requires a deep dive into the 'Net Present Value' (NPV) of the bank's recovery. If the bank repossesses your factory equipment, they might only get 10% of its value at auction. We prove to them that our settlement offer of 40% is actually a 'profit' compared to the alternative.
                             </p>
@@ -254,7 +254,7 @@ export default function BusinessLoanSettlementPage() {
                                 <li className="flex items-start gap-4 p-6 bg-green-50 rounded-2xl outline outline-1 outline-green-200">
                                     <div className="text-green-600 mt-1"><FontAwesomeIcon icon={faHandshake} size="lg" /></div>
                                     <div>
-                                        <h4 className="font-bold text-xl text-[#2E2E2E]">The 'Book Value' Leverage</h4>
+                                        <h5 className="font-bold text-xl text-[#2E2E2E]">The 'Book Value' Leverage</h5>
                                         <p className="text-gray-700">Banks have to 'write-off' loans after a certain period. Once a loan is fully written off, any recovery is seen as pure profit by the bank's board. We identify when a loan reaches this 'sweet spot' for maximum settlement discount.</p>
                                     </div>
                                 </li>
@@ -262,9 +262,9 @@ export default function BusinessLoanSettlementPage() {
                         </section>
 
                         <section id="personal-guarantees" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 uppercase tracking-tight">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 uppercase tracking-tight">
                                 Personal Guarantees: Protecting the Director's Assets
-                            </h2>
+                            </h3>
                             <p className="text-lg text-gray-700 leading-relaxed mb-6">
                                 The biggest fear for any business owner is the personal guarantee. "If my company fails, will I lose my house?" This is a real risk under the current IBC and SARFAESI laws. However, a personal guarantee is still a contract, and it has specific legal requirements.
                             </p>
@@ -274,14 +274,14 @@ export default function BusinessLoanSettlementPage() {
                         </section>
 
                         <section id="sarfaesi-defense" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">
                                 SARFAESI Defense for Commercial Properties
-                            </h2>
+                            </h3>
                             <p className="text-lg text-gray-700 leading-relaxed mb-6">
                                 When a bank issues a Section 13(2) notice, it is a declaration of war on your business premises. You have 60 days to respond. This is the most critical window in the entire debt cycle.
                             </p>
                             <div className="bg-yellow-50 p-8 rounded-2xl border-l-8 border-[#2E2E2E] mb-10">
-                                <h3 className="text-xl font-bold mb-4">Procedural Errors We Look For:</h3>
+                                <h4 className="text-xl font-bold mb-4">Procedural Errors We Look For:</h4>
                                 <ul className="space-y-2 text-gray-700">
                                     <li>- Faulty description of the property in the notice.</li>
                                     <li>- Failure to credit 'Partial Payments' made during the 60-day period.</li>
@@ -292,9 +292,9 @@ export default function BusinessLoanSettlementPage() {
                         </section>
 
                         <section id="wilful-defaulter" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 uppercase tracking-tight">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 uppercase tracking-tight">
                                 Defending the 'Wilful Defaulter' Tag
-                            </h2>
+                            </h3>
                             <p className="text-lg text-gray-700 leading-relaxed mb-6">
                                 Being tagged as a 'Wilful Defaulter' is a death sentence for your future business career. It means the bank believes you have diverted funds or have the money to pay but are choosing not to. This tag allows them to bar you from any future credit and even initiate criminal proceedings.
                             </p>
@@ -304,9 +304,9 @@ export default function BusinessLoanSettlementPage() {
                         </section>
 
                         <section id="tax-gst" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">
                                 Taxation and GST Nuances of Business Settlements
-                            </h2>
+                            </h3>
                             <p className="text-lg text-gray-700 leading-relaxed mb-6">
                                 A loan waiver is seen as 'cessation of liability' and can be taxed as business income under Section 41(1) of the Income Tax Act. If you settle for 2 Crore when you owed 10 Crore, you might face a massive tax bill on the 8 Crore 'earned'.
                             </p>
@@ -316,9 +316,9 @@ export default function BusinessLoanSettlementPage() {
                         </section>
 
                         <section id="lender-perspective" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 uppercase tracking-tight">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 uppercase tracking-tight">
                                 The Lenders' Internal Approval: How Committees Decide
-                            </h2>
+                            </h3>
                             <p className="text-lg text-gray-700 leading-relaxed mb-6">
                                 To settle a business loan, you aren't just convincing your bank manager; you are convincing a 'Settlement Advisory Committee' (SAC). In Public Sector Banks (PSBs), these committees follow strict 'Vigilance Guidelines'. They are terrified of being accused of 'favoritism' toward a borrower.
                             </p>
@@ -326,7 +326,7 @@ export default function BusinessLoanSettlementPage() {
                                 A lawyer's role is to provide the committee with a 'Vigilance-Proof' rationale for the settlement. We draft the proposal in a way that shows the committee that the settlement is the 'Highest Recovery Path' available to the bank. We compare the immediate cash flow with the 'Discounted Cash Flow' (DCF) of a 5-year litigation battle. When the math shows that the bank will lose money by waiting, the SAC is legally protected in approving your haircut.
                             </p>
                             <div className="bg-blue-50 p-8 rounded-2xl border border-blue-100 mb-10">
-                                <h3 className="text-xl font-bold text-[#1F5EFF] mb-4 uppercase tracking-wider">The 'Compromise Settlement' Policy</h3>
+                                <h4 className="text-xl font-bold text-[#1F5EFF] mb-4 uppercase tracking-wider">The 'Compromise Settlement' Policy</h4>
                                 <p className="text-gray-700 leading-relaxed mb-4 font-medium">
                                     Every bank has a Board-Approved 'Compromise Settlement Policy'. Under the RBI's 'Prudential Framework for Resolution of Stressed Assets', banks are encouraged to settle rather than litigate.
                                 </p>
@@ -337,9 +337,9 @@ export default function BusinessLoanSettlementPage() {
                         </section>
 
                         <section id="director-liability" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">
                                 Legal Liability: Directors, KMPs, and Independent Directors
-                            </h2>
+                            </h3>
                             <p className="text-lg text-gray-700 leading-relaxed mb-6">
                                 In a business default, the bank often tries to 'pierce the corporate veil' and hold directors personally liable for company debts. While the Companies Act, 2013, provides some protection, the 'Personal Guarantee' and 'SARFAESI' laws often override it.
                             </p>
@@ -349,22 +349,22 @@ export default function BusinessLoanSettlementPage() {
                         </section>
 
                         <section id="nclt-ibc" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 uppercase tracking-tight">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 uppercase tracking-tight">
                                 IBC vs. Settlement: The NCLT Pressure Point
-                            </h2>
+                            </h3>
                             <p className="text-lg text-gray-700 leading-relaxed mb-6">
                                 Since the introduction of the Insolvency and Bankruptcy Code (IBC) in 2016, banks have a new weapon: filing for Corporate Insolvency Resolution Process (CIRP) in the NCLT. If the NCLT admits the case, you lose control of your company to an 'Insolvency Professional' (IP).
                             </p>
                             <div className="bg-[#1F5EFF] p-8 rounded-2xl text-white my-10 shadow-lg">
-                                <h3 className="text-xl font-bold mb-4">The Pre-Admission Settlement (Section 12A)</h3>
+                                <h4 className="text-xl font-bold mb-4">The Pre-Admission Settlement (Section 12A)</h4>
                                 <p className="italic">"We use the threat of IBC to initiate what we call 'Shadow Settlements'. Even after an IBC application is filed, we can settle under Section 12A of the code if 90% of the creditors agree. Often, a well-timed settlement offer for one major bank is enough to prevent other creditors from joining the IBC petition."</p>
                             </div>
                         </section>
 
                         <section id="business-glossary" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 uppercase tracking-tight">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 uppercase tracking-tight">
                                 Glossary of Business Loan Settlement Terms
-                            </h2>
+                            </h3>
                             <div className="grid grid-cols-1 md:grid-cols-2 gap-4 text-sm font-medium text-gray-700 italic">
                                 <div><strong>NPA:</strong> Non-Performing Asset (90 days overdue)</div>
                                 <div><strong>SMA:</strong> Special Mention Account (0-90 days overdue)</div>
@@ -390,9 +390,9 @@ export default function BusinessLoanSettlementPage() {
                         </section>
 
                         <section id="state-nuances" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 uppercase tracking-tight">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 uppercase tracking-tight">
                                 State-Wise DRT Nuances: From Mumbai to Delhi
-                            </h2>
+                            </h3>
                             <p className="text-lg text-gray-700 leading-relaxed mb-6">
                                 The experience of a business loan default varies significantly depending on where your DRT (Debt Recovery Tribunal) is located. For example, DRT-I and DRT-II in Mumbai are known for their high volume and focus on 'Interim Relief' for large corporate cases. In contrast, the DRTs in Delhi are often more focused on 'Technical Compliance' with the SARFAESI Act.
                             </p>
@@ -402,14 +402,14 @@ export default function BusinessLoanSettlementPage() {
                         </section>
 
                         <section id="debt-settlement-companies" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">
                                 Debt Settlement Companies vs. Specialized Lawyers
-                            </h2>
+                            </h3>
                             <p className="text-lg text-gray-700 leading-relaxed mb-6">
                                 Many businesses are tempted to hire 'Debt Settlement Agencies' that promised 70% discounts for a flat fee. Be careful: many of these agencies are not law firms. They do not have 'Standing' to represent you in the DRT or the High Court.
                             </p>
                             <div className="bg-gray-50 p-8 rounded-2xl border border-gray-200 mb-10">
-                                <h3 className="font-bold text-xl mb-4 text-[#1F5EFF]">The Lawyer Advantage:</h3>
+                                <h4 className="font-bold text-xl mb-4 text-[#1F5EFF]">The Lawyer Advantage:</h4>
                                 <ul className="space-y-4 text-gray-700">
                                     <li>- <strong>Attorney-Client Privilege:</strong> Your financial secrets are legally protected with a lawyer, unlike an agency.</li>
                                     <li>- <strong>Litigation as Leverage:</strong> An agency can only 'ask' the bank to settle. A lawyer can 'sue' the bank for illegal recovery, creating the fear that forces an OTS.</li>
@@ -419,9 +419,9 @@ export default function BusinessLoanSettlementPage() {
                         </section>
 
                         <section id="future-proofing" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 uppercase tracking-tight">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 uppercase tracking-tight">
                                 Future-Proofing Your Business After Settlement
-                            </h2>
+                            </h3>
                             <p className="text-lg text-gray-700 leading-relaxed mb-6">
                                 Once the settlement is signed and the money is paid, the battle is only half won. You must ensure that the bank files the 'Satisfaction of Charge' with the Registrar of Companies (ROC) within 30 days. If they fail to do so, your company's 'Public Search' will still show a 'subsisting charge', preventing you from taking even a small credit from a supplier.
                             </p>
@@ -431,9 +431,9 @@ export default function BusinessLoanSettlementPage() {
                         </section>
 
                         <section id="conclusion-business" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">
                                 Conclusion: Rescuing Your Legacy from Stressed Debt
-                            </h2>
+                            </h3>
                             <p className="text-lg text-gray-700 leading-relaxed mb-6 font-bold">
                                 Your business is your legacy. Protecting it from the systemic aggression of banks requires more than just entrepreneurial grit; it requires a sophisticated legal defense.
                             </p>
@@ -443,9 +443,9 @@ export default function BusinessLoanSettlementPage() {
                         </section>
 
                         <section id="success-stories" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 uppercase tracking-tight text-center">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 uppercase tracking-tight text-center">
                                 Real Impact: Success Stories in Business Loan Settlement
-                            </h2>
+                            </h3>
                             <div className="grid grid-cols-1 md:grid-cols-2 gap-6 not-prose">
                                 {[
                                     {
@@ -483,7 +483,7 @@ export default function BusinessLoanSettlementPage() {
                                                 {review.name.charAt(0)}
                                             </div>
                                             <div>
-                                                <h3 className="font-bold text-[#2E2E2E]">{review.name}</h3>
+                                                <h4 className="font-bold text-[#2E2E2E]">{review.name}</h4>
                                                 <p className="text-xs text-gray-400">{review.loc}</p>
                                             </div>
                                             <div className="ml-auto text-yellow-400 text-sm">★★★★★</div>
@@ -498,9 +498,9 @@ export default function BusinessLoanSettlementPage() {
                         </section>
 
                         <section id="comprehensive-faq" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">
                                 Frequently Asked Questions: Business Debt Resolution
-                            </h2>
+                            </h3>
                             <div className="space-y-4 not-prose">
                                 {[
                                     { q: "Can a bank take my business machinery while settlement is ongoing?", a: "Unless there is a stay order from a court or DRT, the bank has the legal right to continue recovery actions. This is why we prioritize getting a restaint order as the first step." },

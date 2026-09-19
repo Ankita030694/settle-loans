@@ -547,7 +547,7 @@ export default function RecoveryAgentsContactingPreviousEmployerOrCollegePage() 
 
             {/* Section 2: DPDP Act 2023 & IT Act Liabilities */}
             <section id="dpdp-act-2023-statutory-violations" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">2. Statutory Data Protection Violations</h2>
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">2. Statutory Data Protection Violations</h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 The <strong>Digital Personal Data Protection Act (DPDP Act), 2023</strong> sets strict data rules. Banks and NBFCs act as <em>Data Fiduciaries</em>. Collection agencies act as <em>Data Processors</em>. The law limits how personal data is collected and used.
               </p>
@@ -596,7 +596,7 @@ export default function RecoveryAgentsContactingPreviousEmployerOrCollegePage() 
 
             {/* Section 3: RBI Fair Practices Code & Criminal Stalking Laws */}
             <section id="rbi-fair-practices-bns-stalking" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">3. RBI Fair Practices Code Bans, Criminal Stalking (BNS/IPC)</h2>
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">3. RBI Fair Practices Code Bans, Criminal Stalking (BNS/IPC)</h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 The Reserve Bank of India bans abusive collection tactics. Under the <strong>RBI Master Direction on Fair Practices Code for Lenders</strong> and the <strong>Circular on Outsourcing of Financial Services</strong>, lenders cannot contact third parties, past employers, or friends who did not sign the loan.
               </p>
@@ -606,28 +606,28 @@ export default function RecoveryAgentsContactingPreviousEmployerOrCollegePage() 
 
               <div className="space-y-3 my-4">
                 <div className="p-4 rounded-xl border-l-4 border-red-500 bg-slate-50 space-y-1">
-                  <h3 className="font-bold text-slate-900 text-xs sm:text-sm flex items-center gap-1.5">
+                  <h4 className="font-bold text-slate-900 text-xs sm:text-sm flex items-center gap-1.5">
                     <AlertCircle className="w-4 h-4 text-red-600" />
                     <span>Cyber Stalking (Section 354D IPC / Section 78 BNS 2023)</span>
-                  </h3>
+                  </h4>
                   <p className="text-xs text-slate-600 leading-relaxed">
                     Tracking online profiles or calling peers to force contact is stalking. Section 78 BNS punishes this with up to 3 years in prison.
                   </p>
                 </div>
                 <div className="p-4 rounded-xl border-l-4 border-amber-500 bg-slate-50 space-y-1">
-                  <h4 className="font-bold text-slate-900 text-xs sm:text-sm flex items-center gap-1.5">
+                  <h5 className="font-bold text-slate-900 text-xs sm:text-sm flex items-center gap-1.5">
                     <ShieldAlert className="w-4 h-4 text-amber-600" />
                     <span>Criminal Defamation (Section 499 &amp; 500 IPC / Section 356 BNS 2023)</span>
-                  </h4>
+                  </h5>
                   <p className="text-xs text-slate-600 leading-relaxed">
                     Telling ex-bosses or professors about a debt harms reputation. It is punishable with up to 2 years in prison.
                   </p>
                 </div>
                 <div className="p-4 rounded-xl border-l-4 border-purple-500 bg-slate-50 space-y-1">
-                  <h4 className="font-bold text-slate-900 text-xs sm:text-sm flex items-center gap-1.5">
+                  <h5 className="font-bold text-slate-900 text-xs sm:text-sm flex items-center gap-1.5">
                     <Scale className="w-4 h-4 text-purple-600" />
                     <span>Doctrine of Privity of Contract (Indian Contract Act, 1872)</span>
-                  </h4>
+                  </h5>
                   <p className="text-xs text-slate-600 leading-relaxed">
                     Under Section 2(h), a loan binds only the lender and borrower. Past employers have zero legal duty for your debt.
                   </p>
@@ -641,7 +641,7 @@ export default function RecoveryAgentsContactingPreviousEmployerOrCollegePage() 
 
             {/* Section 4: Bank Accounting Dynamics & NPV Recovery Formula */}
             <section id="bank-accounting-npa-npv-formula" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">4. Bank Accounting &amp; Workplace Harassment Risks</h2>
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">4. Bank Accounting &amp; Workplace Harassment Risks</h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 To see why agents scrape data, check bank accounting rules. After 90 days of non-payment, RBI rules label a loan as a <strong>Non-Performing Asset (NPA)</strong>. The bank must then set aside funds from profits to cover the loss:
               </p>
@@ -710,7 +710,7 @@ export default function RecoveryAgentsContactingPreviousEmployerOrCollegePage() 
 
             {/* Section 5: Infographic Banner */}
             <section id="data-privacy-defense-roadmap" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">5. Employer Contact Defense Strategic Roadmap</h2>
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">5. Employer Contact Defense Strategic Roadmap</h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 The roadmap below outlines our 4-step process. It stops predatory scraping and secures a formal loan settlement.
               </p>
@@ -745,38 +745,38 @@ export default function RecoveryAgentsContactingPreviousEmployerOrCollegePage() 
 
             {/* Section 6: The 5-Step Legal Counter-Offensive */}
             <section id="emergency-5-step-legal-counter-offensive" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">6. The 5-Step Legal Counter-Offensive</h2>
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">6. The 5-Step Legal Counter-Offensive</h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 When agents call past employers or teachers, panicking will not help. Rogue agents use fear to get fast cash. Follow this 5-step legal plan instead:
               </p>
 
               <div className="space-y-3 my-4">
                 <div className="p-4 rounded-xl border-l-4 border-blue-600 bg-slate-50 space-y-1">
-                  <h3 className="font-bold text-slate-900 text-xs sm:text-sm">Step 1: Forensic Documentation &amp; Third-Party Evidence Collection</h3>
+                  <h4 className="font-bold text-slate-900 text-xs sm:text-sm">Step 1: Forensic Documentation &amp; Third-Party Evidence Collection</h4>
                   <p className="text-xs text-slate-600 leading-relaxed">
                     Ask your former boss or HR team for call details. Collect phone numbers, names, timestamps. And audio clips. Build a solid evidence file.
                   </p>
                 </div>
                 <div className="p-4 rounded-xl border-l-4 border-indigo-600 bg-slate-50 space-y-1">
-                  <h4 className="font-bold text-slate-900 text-xs sm:text-sm">Step 2: Issuing Protective Written Advisories to Third Parties</h4>
+                  <h5 className="font-bold text-slate-900 text-xs sm:text-sm">Step 2: Issuing Protective Written Advisories to Third Parties</h5>
                   <p className="text-xs text-slate-600 leading-relaxed">
                     Send a polite note to your past workplace or college. Clarify that an illegal agency is scraping data in breach of RBI rules. State that your lawyer is acting on it.
                   </p>
                 </div>
                 <div className="p-4 rounded-xl border-l-4 border-purple-600 bg-slate-50 space-y-1">
-                  <h4 className="font-bold text-slate-900 text-xs sm:text-sm">Step 3: Serving Formal Advocate Cease-and-Desist &amp; Defamation Notice</h4>
+                  <h5 className="font-bold text-slate-900 text-xs sm:text-sm">Step 3: Serving Formal Advocate Cease-and-Desist &amp; Defamation Notice</h5>
                   <p className="text-xs text-slate-600 leading-relaxed">
                     Your lawyer sends a legal notice to the bank MD, Nodal Officer, and Data Protection Officer. The notice cites the DPDP Act 2023, Section 78 and 356 BNS, and RBI rules.
                   </p>
                 </div>
                 <div className="p-4 rounded-xl border-l-4 border-amber-600 bg-slate-50 space-y-1">
-                  <h4 className="font-bold text-slate-900 text-xs sm:text-sm">Step 4: Escalation to RBI Ombudsman &amp; Data Protection Board of India</h4>
+                  <h5 className="font-bold text-slate-900 text-xs sm:text-sm">Step 4: Escalation to RBI Ombudsman &amp; Data Protection Board of India</h5>
                   <p className="text-xs text-slate-600 leading-relaxed">
                     File an urgent complaint on the <strong>RBI CMS portal (cms.rbi.org.in)</strong>. Alert the Data Protection Board of India about unlawful data use.
                   </p>
                 </div>
                 <div className="p-4 rounded-xl border-l-4 border-emerald-600 bg-slate-50 space-y-1">
-                  <h4 className="font-bold text-slate-900 text-xs sm:text-sm">Step 5: Filing Cyber Crime Portal &amp; Police Stalking Complaints</h4>
+                  <h5 className="font-bold text-slate-900 text-xs sm:text-sm">Step 5: Filing Cyber Crime Portal &amp; Police Stalking Complaints</h5>
                   <p className="text-xs text-slate-600 leading-relaxed">
                     If online stalking or threats continue, report it on the Cyber Crime Portal (cybercrime.gov.in). File an FIR under Section 78 BNS with cyber police.
                   </p>
@@ -790,7 +790,7 @@ export default function RecoveryAgentsContactingPreviousEmployerOrCollegePage() 
 
             {/* Section 7: Converting Privacy Breaches into OTS Leverage */}
             <section id="leveraging-privacy-breach-55-ots" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">7. Converting Data Privacy Breaches into Leverage</h2>
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">7. Converting Data Privacy Breaches into Leverage</h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Workplace stalking is stressful. But it gives you strong legal leverage. Banks must follow strict privacy laws. When a bank faces clear proof of DPDP Act and RBI breaches, regulatory risks far exceed the loan amount.
               </p>
@@ -840,7 +840,7 @@ export default function RecoveryAgentsContactingPreviousEmployerOrCollegePage() 
 
             {/* Section 8: Sanction Letter Forensics & RBI NDC Mandate */}
             <section id="sanction-forensics-rbi-ndc-mandate" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">8. Sanction Letter Forensics, Direct Bank Remittance</h2>
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">8. Sanction Letter Forensics, Direct Bank Remittance</h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 A debt settlement needs close legal checks. Rogue agents often send fake letters on chat apps or make false verbal promises. Never pay money until your lawyer reviews the official sanction letter.
               </p>
@@ -868,9 +868,9 @@ export default function RecoveryAgentsContactingPreviousEmployerOrCollegePage() 
                 </p>
               </div>
 
-              <h3 className="text-base sm:text-lg font-bold text-slate-900 pt-2">
+              <h4 className="text-base sm:text-lg font-bold text-slate-900 pt-2">
                 Credit Bureau Trajectory &amp; CIBIL Score Rehabilitation
-              </h3>
+              </h4>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 After settlement, the bank marks your credit report as <strong>&quot;Settled&quot;</strong> or <strong>&quot;Post-Write-off Settled&quot;</strong> with a ₹0 balance. Your score may drop by 70 to 120 points at first. However, it ends calls and stops fines. Using a secured card and paying on time will rebuild your score above 750 in 18 to 24 months.
               </p>
@@ -878,7 +878,7 @@ export default function RecoveryAgentsContactingPreviousEmployerOrCollegePage() 
 
             {/* Section 9: Comparative Legal Defense Matrix */}
             <section id="comparative-data-privacy-matrix" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">9. Comparative Legal Defense Matrix</h2>
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">9. Comparative Legal Defense Matrix</h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Compare your legal choices to find the best way to stop harassment and settle debt safely:
               </p>
@@ -931,7 +931,7 @@ export default function RecoveryAgentsContactingPreviousEmployerOrCollegePage() 
             {/* Section 10: SettleLoans Legal Defense & Advisory + CompanySection */}
             <section id="settleloans-data-defense-advisory" className="space-y-6">
               <div className="border-t border-slate-200 pt-8 space-y-4">
-                <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">10. SettleLoans Workplace Privacy Legal Defense</h2>
+                <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">10. SettleLoans Workplace Privacy Legal Defense</h3>
                 <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                   Stopping recovery agencies from scraping your networks requires skilled banking lawyers. Our team enforces the DPDP Act 2023 and sends strong legal notices. SettleLoans protects borrowers across India. We serve notices on bank Data Protection Officers, file RBI Ombudsman cases, protect your career. And negotiate directly with bank zonal heads to secure 45% to 65% principal waivers with official No Dues Certificates.
                 </p>
@@ -945,7 +945,7 @@ export default function RecoveryAgentsContactingPreviousEmployerOrCollegePage() 
             <section id="faqs" className="space-y-4 border-t border-slate-200 pt-8">
               <div className="flex items-center gap-2 mb-2">
                 <HelpCircle className="w-5 h-5 text-[#1F5EFF]" />
-                <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">11. FAQs: Recovery Agents Contacting Previous Employers</h2>
+                <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">11. FAQs: Recovery Agents Contacting Previous Employers</h3>
               </div>
               <p className="text-xs sm:text-sm text-slate-600 mb-6">
                 Direct answers to common questions about data scraping, third-party debt harassment, DPDP Act protections. And loan settlement in India.
@@ -975,9 +975,9 @@ export default function RecoveryAgentsContactingPreviousEmployerOrCollegePage() 
 
             {/* 5 Official Regulatory Links */}
             <section className="border-t border-slate-200 pt-8 mb-4">
-              <h3 className="text-xs sm:text-sm font-bold text-slate-900 mb-3 uppercase tracking-wider">
+              <h4 className="text-xs sm:text-sm font-bold text-slate-900 mb-3 uppercase tracking-wider">
                 Official Statutory &amp; Regulatory References
-              </h3>
+              </h4>
               <div className="grid grid-cols-1 sm:grid-cols-2 gap-2.5 text-xs">
                 <a
                   href="https://indiacode.gov.in/handle/123456789/19448"
@@ -1029,9 +1029,9 @@ export default function RecoveryAgentsContactingPreviousEmployerOrCollegePage() 
 
             {/* 10 Related Guide Badges */}
             <section className="border-t border-slate-200 pt-8 mb-8">
-              <h3 className="text-xs sm:text-sm font-bold text-slate-900 mb-4 uppercase tracking-wider">
+              <h4 className="text-xs sm:text-sm font-bold text-slate-900 mb-4 uppercase tracking-wider">
                 Related Legal Defense &amp; Loan Resolution Guides
-              </h3>
+              </h4>
               <div className="flex flex-wrap gap-2">
                 <Link
                   href="/bank-sending-legal-notice-to-employer-illegal-recovery"

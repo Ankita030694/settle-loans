@@ -307,9 +307,9 @@ export default function CanBanksFreezeUPIAccountPage() {
 
             {/* Right of Set-Off */}
             <section id="right-of-set-off" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 Understanding the Bank's "Right of Set-Off"
-              </h2>
+              </h3>
               <div className="bg-gray-50 p-8 rounded-2xl mb-8 border border-gray-200">
                 <p className="text-lg leading-relaxed mb-6 text-gray-800">
                   While banks cannot randomly block your UPI apps, they do possess a powerful tool called the "Right of Set-Off." If you maintain a savings or current account with the <em>same bank</em> that issued your personal loan, the bank has the contractual right to debit funds from that account to adjust against your overdue loan EMI.
@@ -322,15 +322,15 @@ export default function CanBanksFreezeUPIAccountPage() {
 
             {/* NPCI Guidelines */}
             <section id="npci-guidelines" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 NPCI Guidelines on Loan Defaults
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6 text-gray-700">
                 The National Payments Corporation of India (NPCI) oversees the UPI infrastructure. It is crucial to understand the <strong>NPCI guidelines on loan default</strong>:
               </p>
               
               <div className="bg-blue-50 border-l-8 border-[#1F5EFF] p-8 rounded-r-2xl mb-8">
-                <h3 className="text-xl font-black text-[#1F5EFF] mb-4">What You Need to Know About UPI Access</h3>
+                <h4 className="text-xl font-black text-[#1F5EFF] mb-4">What You Need to Know About UPI Access</h4>
                 <ul className="space-y-4">
                   <li className="flex items-start">
                     <div className="mt-1.5 w-2 h-2 rounded-full bg-[#1F5EFF] flex-shrink-0 mr-3"></div>
@@ -350,9 +350,9 @@ export default function CanBanksFreezeUPIAccountPage() {
 
             {/* Civil Court & DRT Interventions */}
             <section id="civil-court-orders" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 Cyber Cell & Civil Court Interventions
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6 text-gray-700">
                 The only way an external bank account (and consequently, its linked UPI access) can be frozen is through a direct legal mandate. This usually occurs under two circumstances:
               </p>
@@ -361,7 +361,7 @@ export default function CanBanksFreezeUPIAccountPage() {
                 <div className="flex gap-6">
                   <div className="flex-shrink-0 w-12 h-12 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center font-black text-xl shadow-lg">1</div>
                   <div>
-                    <h3 className="text-2xl font-bold text-[#2E2E2E] mb-3">Civil Court Orders (Attachment)</h3>
+                    <h4 className="text-2xl font-bold text-[#2E2E2E] mb-3">Civil Court Orders (Attachment)</h4>
                     <p className="text-lg text-gray-700 leading-relaxed">
                       If the lending bank files a civil suit and secures a judgment against you, the court may issue an attachment order. This order directs other banks to freeze your accounts to satisfy the debt.
                     </p>
@@ -371,7 +371,7 @@ export default function CanBanksFreezeUPIAccountPage() {
                 <div className="flex gap-6">
                   <div className="flex-shrink-0 w-12 h-12 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center font-black text-xl shadow-lg">2</div>
                   <div>
-                    <h3 className="text-2xl font-bold text-[#2E2E2E] mb-3">Cyber Cell or Police Action</h3>
+                    <h4 className="text-2xl font-bold text-[#2E2E2E] mb-3">Cyber Cell or Police Action</h4>
                     <p className="text-lg text-gray-700 leading-relaxed">
                       If the lender alleges fraud (e.g., submitting fake documents to obtain the loan), they may file an FIR. In such criminal investigations, the Cyber Cell or local police can direct banks to freeze the suspected accounts.
                     </p>
@@ -380,7 +380,7 @@ export default function CanBanksFreezeUPIAccountPage() {
               </div>
 
               <div className="bg-red-50 p-6 rounded-xl border border-red-100 mb-8">
-                <h4 className="text-xl font-black text-red-700 mb-3">WARNING: Fake Recovery Threats</h4>
+                <h5 className="text-xl font-black text-red-700 mb-3">WARNING: Fake Recovery Threats</h5>
                 <p className="text-lg text-red-900">
                   Recovery agents often send fake WhatsApp messages claiming your "UPI will be blocked by Cyber Cell in 2 hours." This is an illegal intimidation tactic. Cyber cells do not operate on behalf of civil recovery agencies for standard loan defaults.
                 </p>
@@ -389,28 +389,28 @@ export default function CanBanksFreezeUPIAccountPage() {
 
             {/* Unfreeze Account DRT */}
             <section id="unfreeze-account" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 How to Unfreeze Bank Account via DRT
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6 text-gray-700">
                 If your account was frozen pursuant to an order from the Debt Recovery Tribunal (DRT), you cannot resolve it by simply calling customer care. You need a structured legal approach to <strong>unfreeze bank account DRT</strong>.
               </p>
 
               <div className="grid md:grid-cols-2 gap-6 my-8">
                 <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
-                  <h3 className="font-black text-[#1F5EFF] text-lg mb-3">1. Obtain the Order</h3>
+                  <h4 className="font-black text-[#1F5EFF] text-lg mb-3">1. Obtain the Order</h4>
                   <p className="text-gray-700 text-base">Request your bank manager to provide the official DRT or court order that mandated the freeze. They are legally required to furnish this document.</p>
                 </div>
                 <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
-                  <h4 className="font-black text-[#1F5EFF] text-lg mb-3">2. File an Objection</h4>
+                  <h5 className="font-black text-[#1F5EFF] text-lg mb-3">2. File an Objection</h5>
                   <p className="text-gray-700 text-base">Hire a specialized banking advocate to file an interlocutory application (IA) or an objection in the DRT to recall the freeze order.</p>
                 </div>
                 <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
-                  <h4 className="font-black text-[#1F5EFF] text-lg mb-3">3. Present Grounds</h4>
+                  <h5 className="font-black text-[#1F5EFF] text-lg mb-3">3. Present Grounds</h5>
                   <p className="text-gray-700 text-base">Demonstrate that the frozen funds are essential for survival (e.g., salary account) or that the freeze was executed without proper prior notice.</p>
                 </div>
                 <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
-                  <h4 className="font-black text-[#1F5EFF] text-lg mb-3">4. Negotiate Settlement</h4>
+                  <h5 className="font-black text-[#1F5EFF] text-lg mb-3">4. Negotiate Settlement</h5>
                   <p className="text-gray-700 text-base">Simultaneously propose a restructuring or one-time settlement (OTS) offer to the lender to permanently close the dispute.</p>
                 </div>
               </div>
@@ -418,7 +418,7 @@ export default function CanBanksFreezeUPIAccountPage() {
 
             {/* Success Stories */}
             <section id="success-stories" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">Client Success Stories</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">Client Success Stories</h3>
               <div className="grid md:grid-cols-2 gap-8">
                 
                 <div className="bg-white p-8 rounded-[30px] border border-[#DEDEDE] shadow-sm hover:shadow-xl group transition-all duration-300">
@@ -466,7 +466,7 @@ export default function CanBanksFreezeUPIAccountPage() {
 
             {/* FAQs */}
             <section id="faqs" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">Frequently Asked Questions</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">Frequently Asked Questions</h3>
               <div className="space-y-4">
                 {[
                   { q: "Can recovery agents block Paytm or GPay accounts?", a: "No, recovery agents do not have the legal authority to arbitrarily block third-party UPI apps like Paytm, GPay, or PhonePe. Only a court order or cyber cell directive can enforce such a freeze." },
@@ -481,7 +481,7 @@ export default function CanBanksFreezeUPIAccountPage() {
                   { q: "How can SettleLoan help if my account is frozen?", a: "Our legal experts investigate the legality of the freeze, represent you in courts to challenge unlawful blocking, and negotiate a viable loan settlement." }
                 ].map((faq, i) => (
                   <div key={i} className="bg-white border border-[#DEDEDE] rounded-xl p-6 hover:shadow-md transition-shadow">
-                    <h3 className="text-xl font-bold text-[#2E2E2E] mb-3">{faq.q}</h3>
+                    <h4 className="text-xl font-bold text-[#2E2E2E] mb-3">{faq.q}</h4>
                     <p className="text-gray-700">{faq.a}</p>
                   </div>
                 ))}
@@ -493,7 +493,7 @@ export default function CanBanksFreezeUPIAccountPage() {
               <div className="bg-[#2E2E2E] text-white p-12 rounded-[40px] text-center mt-24 relative overflow-hidden group">
                 <div className="absolute inset-0 bg-[#1F5EFF] opacity-0 group-hover:opacity-5 transition-opacity duration-500"></div>
                 <div className="relative z-10">
-                  <h3 className="text-3xl md:text-5xl font-black mb-6">Did your bank illegally freeze your account or block your UPI access over a missed EMI?</h3>
+                  <h4 className="text-3xl md:text-5xl font-black mb-6">Did your bank illegally freeze your account or block your UPI access over a missed EMI?</h4>
                   <p className="text-xl text-gray-300 mb-8 max-w-2xl mx-auto">
                     Don't let unlawful recovery tactics disrupt your life. Speak to our banking advocates to legally restore your financial access and settle your loans safely.
                   </p>

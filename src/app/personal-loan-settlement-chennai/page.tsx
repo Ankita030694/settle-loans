@@ -584,9 +584,9 @@ export default function Page() {
                   <Clock className="w-4 h-4" />
                   <span>2. Delinquency Timeline &amp; Madras HC Norms</span>
                 </div>
-                <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+                <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                   NPA Aging Architecture &amp; Madras High Court Civil Protections
-                </h2>
+                </h3>
                 <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                   To successfully navigate a personal loan settlement in Chennai, a borrower must master the regulatory mechanics of the Reserve Bank of India&apos;s Prudential Norms on Income Recognition, Asset Classification and Provisioning (IRACP). Lenders do not negotiate substantial debt waivers during the initial weeks of default; compromise settlements become commercially viable only as the loan progresses through standardized regulatory delinquency buckets.
                 </p>
@@ -651,9 +651,9 @@ export default function Page() {
                   <Gavel className="w-4 h-4" />
                   <span>3. Section 25 PSSA &amp; 138 NI Act Defense</span>
                 </div>
-                <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+                <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                   Defending Legal Notices in George Town, Egmore &amp; Saidapet Magistrate Courts
-                </h2>
+                </h3>
                 <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                   When monthly electronic National Automated Clearing House (NACH) mandates or physical post-dated repayment cheques bounce due to insufficient funds, banks and NBFCs dispatch formal statutory legal notices. These notices are issued under <strong>Section 25 of the Payment and Settlement Systems Act, 2007 (PSSA)</strong> or <strong>Section 138 of the Negotiable Instruments Act, 1881</strong>, threatening criminal prosecution across Chennai&apos;s Metropolitan Magistrate Courts (predominantly in George Town, Egmore, and Saidapet court complexes).
                 </p>
@@ -674,9 +674,9 @@ export default function Page() {
                   <ShieldAlert className="w-4 h-4" />
                   <span>4. Section 171 Lien &amp; Account Protection</span>
                 </div>
-                <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+                <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                   Banker&apos;s Right of General Lien (Section 171) &amp; Ring-Fencing Subsistence
-                </h2>
+                </h3>
                 <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                   A critical legal risk that distressed borrowers in Chennai must navigate is the <strong>Banker&apos;s Right of General Lien and Set-Off</strong> under Section 171 of the Indian Contract Act, 1872. This statutory doctrine grants a lending bank the legal right to unilaterally appropriate funds, freeze balances, or set off monies from any savings account, current account, fixed deposit, or salary account maintained within that exact same banking institution under the same Customer Identification File (CIF) or PAN.
                 </p>
@@ -694,9 +694,9 @@ export default function Page() {
                   <Sparkles className="w-4 h-4" />
                   <span>5. Visual Resolution Blueprint</span>
                 </div>
-                <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+                <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                   Personal Loan Settlement Roadmap in Chennai &amp; Tamil Nadu
-                </h2>
+                </h3>
                 <p className="text-slate-700 leading-relaxed mb-6 text-base md:text-lg">
                   The visual roadmap below details the complete stage-by-stage debt resolution lifecycle in Chennai—from initial collection notices and court defense in Egmore/George Town to RBI anti-harassment protections, Mount Road SARB negotiations, and final ₹0 No Dues Certificate delivery.
                 </p>
@@ -723,9 +723,9 @@ export default function Page() {
                   <Percent className="w-4 h-4" />
                   <span>6. OTS Haircut Mechanics &amp; NPV Formula</span>
                 </div>
-                <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+                <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                   OTS Haircut Mechanics &amp; The Net Present Value (NPV) Recovery Benchmark
-                </h2>
+                </h3>
                 <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                   Under the Reserve Bank of India&apos;s Master Directions on Resolution of Stressed Assets and board-approved compromise settlement policies, banks evaluate One-Time Settlement proposals through structured financial economics rather than emotional appeals. While outsourced collection tele-callers assert that banks never offer discounts, Zonal Credit Committees along Anna Salai evaluate every defaulted account against an institutional <strong>Net Present Value (NPV) Recovery Valuation Benchmark</strong>.
                 </p>
@@ -758,9 +758,9 @@ export default function Page() {
                   <ShieldCheck className="w-4 h-4" />
                   <span>7. Anti-Harassment &amp; TN Legal Protections</span>
                 </div>
-                <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+                <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                   Enforcing the RBI Fair Practices Code &amp; Tamil Nadu Anti-Harassment Laws
-                </h2>
+                </h3>
                 <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                   Borrowers facing aggressive debt collection in Tamil Nadu are protected by a robust framework of central banking regulations and state statutory protections. The <strong>Reserve Bank of India Master Directions on Recovery Agents (2022)</strong> strictly define permissible collection conduct and impose severe penalties on non-compliant financial institutions.
                 </p>
@@ -781,9 +781,9 @@ export default function Page() {
                   <Layers className="w-4 h-4" />
                   <span>8. 5-Step Mount Road SARB Roadmap</span>
                 </div>
-                <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+                <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                   5-Step Legal Protocol for Settling Personal Loans with Chennai Zonal Desks
-                </h2>
+                </h3>
                 <p className="text-slate-700 leading-relaxed mb-6 text-base md:text-lg">
                   Securing a favorable One-Time Settlement with major commercial banks in Chennai requires executing a disciplined, advocate-led five-stage roadmap that bypasses commission-driven tele-callers and deals directly with authorized zonal credit committees:
                 </p>
@@ -794,7 +794,7 @@ export default function Page() {
                       1
                     </div>
                     <div>
-                      <h3 className="text-base font-bold text-slate-900 mb-1">Financial Insolvency Audit &amp; Hardship Dossier Compilation</h3>
+                      <h4 className="text-base font-bold text-slate-900 mb-1">Financial Insolvency Audit &amp; Hardship Dossier Compilation</h4>
                       <p className="text-sm text-slate-600 leading-relaxed">
                         Our legal team conducts a forensic review of your total loan liability across all banks. We assemble an unassailable financial hardship dossier—including corporate termination letters, medical treatment records, bank statements showing dried-up liquidity, and GST returns demonstrating business loss—proving involuntary incapacity to pay full EMIs.
                       </p>
@@ -806,7 +806,7 @@ export default function Page() {
                       2
                     </div>
                     <div>
-                      <h3 className="text-base font-bold text-slate-900 mb-1">Cease-and-Desist Notice &amp; Harassment Insulation</h3>
+                      <h4 className="text-base font-bold text-slate-900 mb-1">Cease-and-Desist Notice &amp; Harassment Insulation</h4>
                       <p className="text-sm text-slate-600 leading-relaxed">
                         We dispatch formal legal notices invoking the RBI Master Directions on Recovery Agents to the bank&apos;s Principal Nodal Officer and collection verticals. This immediately insulates your workplace, relatives, and residence from unauthorized visits and intimidatory phone calls.
                       </p>
@@ -818,7 +818,7 @@ export default function Page() {
                       3
                     </div>
                     <div>
-                      <h3 className="text-base font-bold text-slate-900 mb-1">Statutory Notice Reply in Chennai Magistrate Courts</h3>
+                      <h4 className="text-base font-bold text-slate-900 mb-1">Statutory Notice Reply in Chennai Magistrate Courts</h4>
                       <p className="text-sm text-slate-600 leading-relaxed">
                         If the bank has issued Section 25 PSSA or Section 138 NI Act notices returnable to George Town, Egmore, or Saidapet courts, our advocates draft and serve comprehensive legal replies within the statutory 15-day window, eliminating criminal exposure and proposing compromise resolution.
                       </p>
@@ -830,7 +830,7 @@ export default function Page() {
                       4
                     </div>
                     <div>
-                      <h3 className="text-base font-bold text-slate-900 mb-1">Direct Representation at Mount Road / Anna Salai SARB Desks</h3>
+                      <h4 className="text-base font-bold text-slate-900 mb-1">Direct Representation at Mount Road / Anna Salai SARB Desks</h4>
                       <p className="text-sm text-slate-600 leading-relaxed">
                         We bypass third-party collection agencies entirely and submit structured One-Time Settlement proposals directly to the bank&apos;s Stressed Asset Resolution Branch (SARB) and Zonal Settlement Committees located along Anna Salai (Mount Road), negotiating maximum principal haircuts (40% to 65%).
                       </p>
@@ -842,7 +842,7 @@ export default function Page() {
                       5
                     </div>
                     <div>
-                      <h3 className="text-base font-bold text-slate-900 mb-1">Sanction Letter Forensic Audit, Direct Payment &amp; NDC Delivery</h3>
+                      <h4 className="text-base font-bold text-slate-900 mb-1">Sanction Letter Forensic Audit, Direct Payment &amp; NDC Delivery</h4>
                       <p className="text-sm text-slate-600 leading-relaxed">
                         We audit the bank&apos;s official stamped OTS Sanction Letter to ensure complete debt extinguishment clauses. You remit the agreed settlement amount strictly into your loan account via RTGS/NEFT, followed by our enforcement of the mandatory zero-balance No Dues Certificate under RBI directives.
                       </p>
@@ -857,9 +857,9 @@ export default function Page() {
                   <FileCheck className="w-4 h-4" />
                   <span>9. Sanction Letter Audit &amp; CIBIL Recovery</span>
                 </div>
-                <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+                <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                   Sanction Letter Forensics, Mandatory ₹0 NDC &amp; 24-Month CIBIL Repair
-                </h2>
+                </h3>
                 <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                   One of the most dangerous traps for distressed borrowers in Chennai is remitting funds based on verbal assurances, SMS messages, or informal WhatsApp settlement letters sent by collection agents. Fraudulent or unauthorized agents frequently convince borrowers to deposit an ad-hoc token payment, only for the money to be credited against accrued penal charges while the loan remains active and compounding.
                 </p>
@@ -880,9 +880,9 @@ export default function Page() {
                   <Scale className="w-4 h-4" />
                   <span>10. Comparative Resolution Matrix</span>
                 </div>
-                <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+                <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                   Comparing Debt Resolution Pathways for Borrowers in Chennai
-                </h2>
+                </h3>
                 <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                   Evaluating all available legal and financial debt resolution avenues in Tamil Nadu helps borrowers select the optimal strategy based on debt quantum, financial capacity, and speed of execution:
                 </p>
@@ -938,9 +938,9 @@ export default function Page() {
                   <Scale className="w-4 h-4" />
                   <span>11. SettleLoans Legal Defense &amp; Advisory</span>
                 </div>
-                <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+                <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                   Premier Loan Settlement &amp; Legal Defense Services in Chennai
-                </h2>
+                </h3>
                 <p className="text-slate-700 leading-relaxed mb-6 text-base md:text-lg">
                   Navigating unpayable unsecured debt across Chennai requires assertive legal representation to halt collection agency harassment, defend statutory notices in Metropolitan Magistrate Courts, and negotiate directly with bank Zonal Credit Committees for maximum debt relief. SettleLoans provides end-to-end legal and financial advocacy to help borrowers across Tamil Nadu reclaim their financial sovereignty.
                 </p>
@@ -953,9 +953,9 @@ export default function Page() {
                   <HelpCircle className="w-4 h-4" />
                   <span>12. Frequently Asked Questions</span>
                 </div>
-                <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
+                <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
                   Frequently Asked Questions on Personal Loan Settlement in Chennai
-                </h2>
+                </h3>
 
                 <div className="space-y-4">
                   {((jsonLdGraph["@graph"].find((item: any) => item["@type"] === "FAQPage") as any)?.mainEntity || []).map((faq: any, index: number) => (
@@ -982,10 +982,10 @@ export default function Page() {
 
               {/* 5 Official Regulatory Links */}
               <section className="bg-slate-50 border border-slate-200 rounded-2xl p-6 mb-8">
-                <h3 className="text-sm font-bold text-slate-900 mb-3 uppercase tracking-wider flex items-center gap-2">
+                <h4 className="text-sm font-bold text-slate-900 mb-3 uppercase tracking-wider flex items-center gap-2">
                   <ExternalLink className="w-4 h-4 text-[#1F5EFF]" />
                   <span>Official Statutory &amp; Regulatory References</span>
-                </h3>
+                </h4>
                 <div className="grid grid-cols-1 sm:grid-cols-2 gap-3 text-xs">
                   <a
                     href="https://www.rbi.org.in"
@@ -1037,9 +1037,9 @@ export default function Page() {
 
               {/* 10 Related Guide Badges */}
               <section className="border-t border-slate-200 pt-8 mb-8">
-                <h3 className="text-sm font-bold text-slate-900 mb-4 uppercase tracking-wider">
+                <h4 className="text-sm font-bold text-slate-900 mb-4 uppercase tracking-wider">
                   Related Loan Settlement &amp; Legal Defense Guides
-                </h3>
+                </h4>
                 <div className="flex flex-wrap gap-2">
                   <Link
                     href="/hdfc-personal-loan-settlement"

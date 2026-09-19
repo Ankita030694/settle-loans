@@ -526,7 +526,7 @@ export default function PersonalLoanSettlementRanchiPage() {
 
             {/* Section 2: PSU Bank SARB Architecture, Zonal SASTRA Wings & Legal Notice Mechanics in Ranchi */}
             <section id="psu-sarb-sastra-notices-ranchi" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">2. PSU Bank SARB Structure in Ranchi</h2>
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">2. PSU Bank SARB Structure in Ranchi</h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Public sector banks in Jharkhand handle bad loans through centralized recovery hubs. When an unsecured personal loan defaults past 90 days, the branch transfers the file to a specialized stressed asset recovery wing.
               </p>
@@ -589,7 +589,7 @@ export default function PersonalLoanSettlementRanchiPage() {
 
             {/* Section 3: Statutory Borrower Protections: RBI Fair Practices Code, High Court Precedents & Anti-Harassment Law in Jharkhand */}
             <section id="statutory-borrower-protections-jharkhand" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">3. Borrower Legal Protections in Ranchi</h2>
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">3. Borrower Legal Protections in Ranchi</h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Loan default is a civil matter, not a crime. The RBI, the Supreme Court of India. And the High Court of Jharkhand at Ranchi hold that banks cannot use force against borrowers.
               </p>
@@ -633,7 +633,7 @@ export default function PersonalLoanSettlementRanchiPage() {
 
             {/* Section 4: Bank Balance Sheet Accounting, Unsecured NPA Provisioning & The Net Present Value (NPV) Equation */}
             <section id="npa-accounting-npv-settlement-formula" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">4. NPA Balance Sheet Accounting in Ranchi</h2>
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">4. NPA Balance Sheet Accounting in Ranchi</h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Securing a 40% to 60% principal waiver in Ranchi is not about emotional appeals. It rests on bank accounting rules, RBI provisioning rules, and Net Present Value (NPV) recovery math.
               </p>
@@ -717,7 +717,7 @@ export default function PersonalLoanSettlementRanchiPage() {
 
             {/* Section 5: Visual Roadmap Infographic Banner */}
             <section id="ranchi-settlement-visual-roadmap" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">5. Loan Settlement Roadmap in Ranchi</h2>
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">5. Loan Settlement Roadmap in Ranchi</h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 The roadmap below shows the 5-step legal process to settle bank loans in Ranchi, Jamshedpur, Dhanbad, and Jharkhand. It covers notice defense, Lok Adalat talks, No Dues Certificate delivery, and CIBIL score repair.
               </p>
@@ -752,38 +752,38 @@ export default function PersonalLoanSettlementRanchiPage() {
 
             {/* Section 6: The Step-by-Step Advocate-Led Negotiation Framework in Ranchi & Jharkhand */}
             <section id="advocate-negotiation-framework-jharkhand" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">6. Advocate-Led Settlement Framework in Ranchi &amp; Jharkhand</h2>
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">6. Advocate-Led Settlement Framework in Ranchi &amp; Jharkhand</h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 A good loan settlement requires a clear legal strategy. Dealing with banks without a lawyer leaves borrowers open to agent pressure and broken verbal deals. Our legal team follows a proven 5-phase debt settlement process in Ranchi and Jharkhand:
               </p>
 
               <div className="space-y-3 my-4">
                 <div className="p-4 rounded-xl border-l-4 border-blue-600 bg-slate-50 space-y-1">
-                  <h3 className="font-bold text-slate-900 text-xs sm:text-sm">Phase 1: Forensic Loan Ledger &amp; Legal Audit</h3>
+                  <h4 className="font-bold text-slate-900 text-xs sm:text-sm">Phase 1: Forensic Loan Ledger &amp; Legal Audit</h4>
                   <p className="text-xs text-slate-600 leading-relaxed">
                     We obtain complete account statements from the bank&apos;s Ranchi branch or SARB cell. We audit the ledger to strip away illegal penal interest and extra fees to find the real baseline principal.
                   </p>
                 </div>
                 <div className="p-4 rounded-xl border-l-4 border-indigo-600 bg-slate-50 space-y-1">
-                  <h4 className="font-bold text-slate-900 text-xs sm:text-sm">Phase 2: Formal Legal Representation &amp; Anti-Harassment Notice</h4>
+                  <h5 className="font-bold text-slate-900 text-xs sm:text-sm">Phase 2: Formal Legal Representation &amp; Anti-Harassment Notice</h5>
                   <p className="text-xs text-slate-600 leading-relaxed">
                     We serve a formal Vakalatnama and legal notice to the bank&apos;s Zonal Head and Nodal Officer. This directs all future calls to our legal team and stops recovery agent visits.
                   </p>
                 </div>
                 <div className="p-4 rounded-xl border-l-4 border-purple-600 bg-slate-50 space-y-1">
-                  <h4 className="font-bold text-slate-900 text-xs sm:text-sm">Phase 3: Hardship Dossier Submission Under RBI June 2023 Policy</h4>
+                  <h5 className="font-bold text-slate-900 text-xs sm:text-sm">Phase 3: Hardship Dossier Submission Under RBI June 2023 Policy</h5>
                   <p className="text-xs text-slate-600 leading-relaxed">
                     We draft an OTS petition under the bank&apos;s board policy and RBI rules. We attach strong proof like income tax returns, medical bills, business losses, or bank statements.
                   </p>
                 </div>
                 <div className="p-4 rounded-xl border-l-4 border-amber-600 bg-slate-50 space-y-1">
-                  <h4 className="font-bold text-slate-900 text-xs sm:text-sm">Phase 4: Bilateral Zonal Negotiation &amp; Discretionary Approval</h4>
+                  <h5 className="font-bold text-slate-900 text-xs sm:text-sm">Phase 4: Bilateral Zonal Negotiation &amp; Discretionary Approval</h5>
                   <p className="text-xs text-slate-600 leading-relaxed">
                     Our lawyers meet directly with the bank&apos;s Zonal Stressed Assets Management Committee (SAMC) in Ranchi. Using NPA aging rules, we seek a 40% to 60% principal waiver with easy installments.
                   </p>
                 </div>
                 <div className="p-4 rounded-xl border-l-4 border-emerald-600 bg-slate-50 space-y-1">
-                  <h4 className="font-bold text-slate-900 text-xs sm:text-sm">Phase 5: Execution of Consent Decree &amp; Legal Closure</h4>
+                  <h5 className="font-bold text-slate-900 text-xs sm:text-sm">Phase 5: Execution of Consent Decree &amp; Legal Closure</h5>
                   <p className="text-xs text-slate-600 leading-relaxed">
                     For active Section 138 NI Act or Section 25 PASA cases, we file consent terms in Ranchi Civil Court or Lok Adalat. This closes all court cases.
                   </p>
@@ -797,7 +797,7 @@ export default function PersonalLoanSettlementRanchiPage() {
 
             {/* Section 7: National Lok Adalat Representation & Ranchi Debt Recovery Tribunal (DRT) Protocols */}
             <section id="jhalsa-lok-adalat-drt-ranchi-protocols" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">7. Lok Adalat Settlements in Ranchi</h2>
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">7. Lok Adalat Settlements in Ranchi</h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Lok Adalat is a helpful legal forum for debt resolution in Jharkhand. The <strong>Jharkhand State Legal Services Authority (JHALSA)</strong> holds quarterly National Lok Adalats in all 24 districts. These include Ranchi Civil Court, Jamshedpur, Dhanbad, and Bokaro.
               </p>
@@ -836,7 +836,7 @@ export default function PersonalLoanSettlementRanchiPage() {
 
             {/* Section 8: Forensic Sanction Letter Verification, Direct Bank Remittance & The RBI 30-Day NDC Mandate */}
             <section id="sanction-letter-forensics-rbi-ndc" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">8. Sanction Letter Audit &amp; NDC in Ranchi</h2>
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">8. Sanction Letter Audit &amp; NDC in Ranchi</h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 A major risk in debt settlement across Jharkhand is fake settlement letters. Rogue recovery agents often share fake letters on duplicate bank letterheads or make false verbal promises to collect money for themselves.
               </p>
@@ -893,9 +893,9 @@ export default function PersonalLoanSettlementRanchiPage() {
                 </p>
               </div>
 
-              <h3 className="text-base sm:text-lg font-bold text-slate-900 pt-2">
+              <h4 className="text-base sm:text-lg font-bold text-slate-900 pt-2">
                 RBI Statutory Mandate on 30-Day NDC Delivery &amp; Credit Bureau Updates
-              </h3>
+              </h4>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Under <strong>RBI Circular RBI/2023-24/60</strong>, all commercial banks and NBFCs in Jharkhand must issue an official <strong>No Dues Certificate (NDC)</strong>. They must also return original papers within <strong>30 calendar days</strong> of receiving full settlement payment. If the lender delays without valid cause, it must pay the borrower payout of <strong>₹5,000 per day of delay</strong>.
               </p>
@@ -906,7 +906,7 @@ export default function PersonalLoanSettlementRanchiPage() {
 
             {/* Section 9: Comparative Matrix: Debt Resolution Mechanisms Across Jharkhand */}
             <section id="jharkhand-debt-resolution-matrix" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">9. Debt Resolution Matrix in Ranchi</h2>
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">9. Debt Resolution Matrix in Ranchi</h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Borrowers in Ranchi should compare their debt relief choices to find the best balance of cost savings and legal protection:
               </p>
@@ -966,7 +966,7 @@ export default function PersonalLoanSettlementRanchiPage() {
             {/* Section 10: SettleLoans Legal Defense & Debt Resolution in Ranchi & Jharkhand + CompanySection */}
             <section id="company-resolution-section" className="space-y-6">
               <div className="border-t border-slate-200 pt-8 space-y-4">
-                <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">10. SettleLoans Legal Relief in Ranchi &amp; Jharkhand</h2>
+                <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">10. SettleLoans Legal Relief in Ranchi &amp; Jharkhand</h3>
                 <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                   Resolving heavy bank debt in Ranchi, Jamshedpur, Dhanbad, and Bokaro needs skilled legal support. SettleLoans is a top debt relief advisory in Jharkhand. We defend borrowers against aggressive PSU recovery teams and private collection agents.
                 </p>
@@ -986,9 +986,9 @@ export default function PersonalLoanSettlementRanchiPage() {
                   <Gavel className="w-4 h-4" />
                   <span>Local Legal Jurisdiction &amp; Legal Aid Directory</span>
                 </div>
-                <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+                <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                   District Courts &amp; DLSA Helpdesk in Ranchi
-                </h2>
+                </h3>
                 <p className="text-slate-700 leading-relaxed mb-6 text-base">
                   Distressed borrowers facing recovery pressure, arbitration summons, or Section 138 NI Act notices in Ranchi can access statutory legal defense through the local District Court and District Legal Services Authority (DLSA):
                 </p>
@@ -1023,7 +1023,7 @@ export default function PersonalLoanSettlementRanchiPage() {
 <section id="faqs" className="space-y-4 border-t border-slate-200 pt-8">
               <div className="flex items-center gap-2 mb-2">
                 <HelpCircle className="w-5 h-5 text-[#1F5EFF]" />
-                <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">11. FAQs: Loan Settlement in Ranchi</h2>
+                <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">11. FAQs: Loan Settlement in Ranchi</h3>
               </div>
               <p className="text-xs sm:text-sm text-slate-600 mb-6">
                 Here are clear answers about loan settlement, SARB notices, JHALSA Lok Adalat. And borrower rights in Jharkhand.
@@ -1053,9 +1053,9 @@ export default function PersonalLoanSettlementRanchiPage() {
 
             {/* 5 Official Regulatory Links */}
             <section className="border-t border-slate-200 pt-8 mb-4">
-              <h3 className="text-xs sm:text-sm font-bold text-slate-900 mb-3 uppercase tracking-wider">
+              <h4 className="text-xs sm:text-sm font-bold text-slate-900 mb-3 uppercase tracking-wider">
                 Official Statutory &amp; Regulatory References
-              </h3>
+              </h4>
               <div className="grid grid-cols-1 sm:grid-cols-2 gap-2.5 text-xs">
                 <a
                   href="https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=12513&Mode=0"
@@ -1107,9 +1107,9 @@ export default function PersonalLoanSettlementRanchiPage() {
 
             {/* 10 Related Guide Badges */}
             <section className="border-t border-slate-200 pt-8 mb-8">
-              <h3 className="text-xs sm:text-sm font-bold text-slate-900 mb-4 uppercase tracking-wider">
+              <h4 className="text-xs sm:text-sm font-bold text-slate-900 mb-4 uppercase tracking-wider">
                 Related Banking &amp; Debt Resolution Guides
-              </h3>
+              </h4>
               <div className="flex flex-wrap gap-2">
                 <Link
                   href="/bank-one-time-settlement-ots-policy"

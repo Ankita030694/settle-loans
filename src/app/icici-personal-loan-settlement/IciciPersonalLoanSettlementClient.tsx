@@ -83,7 +83,7 @@ export default function IciciPersonalLoanSettlementClient() {
     { id: 'step-by-step-settlement-process', title: '7. Step-by-Step Settlement Roadmap' },
     { id: 'ots-vs-restructuring-vs-lok-adalat', title: '8. Comparative Resolution Avenues' },
     { id: 'sanction-letter-audit-ndc-verification', title: '9. Sanction Letter Audit & ₹0 NDC Mandate' },
-    { id: 'cibil-impact-credit-rehabilitation', title: '10. CIBIL Score Trajectory & Rehabilitation' },
+    { id: 'cibil-impact-credit-recovery', title: '10. CIBIL Score Trajectory & recovery' },
     { id: 'company-resolution-section', title: '11. SettleLoans Legal Defense & Advisory' },
     { id: 'faqs', title: '12. Frequently Asked Questions' },
   ];
@@ -183,7 +183,7 @@ export default function IciciPersonalLoanSettlementClient() {
       question: "How long does ICICI Bank take to issue the No Dues Certificate?",
       answer: (
         <p>
-          Under <strong>RBI Circular RBI/2023-24/60</strong>, ICICI Bank must issue the ₹0 No Dues Certificate within <strong>30 calendar days</strong> of settlement payment. Delays mandate statutory compensation of <strong>₹5,000 per day</strong> to the borrower.
+          Under <strong>RBI Circular RBI/2023-24/60</strong>, ICICI Bank must issue the ₹0 No Dues Certificate within <strong>30 calendar days</strong> of settlement payment. Delays mandate statutory relief of <strong>₹5,000 per day</strong> to the borrower.
         </p>
       )
     }
@@ -364,9 +364,9 @@ export default function IciciPersonalLoanSettlementClient() {
                 <Clock className="w-4 h-4" />
                 <span>2. Delinquency Timeline &amp; Asset Classification</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-3 leading-tight">
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-3 leading-tight">
                 ICICI&apos;s Default Timeline: From SMA-0 to NPA Classification
-              </h2>
+              </h3>
               <p className="text-slate-700 leading-relaxed mb-3 text-sm md:text-base">
                 Under the RBI&apos;s Prudential Norms on Income Recognition and Asset Classification (IRACP), ICICI Bank classifies delinquent loans across defined regulatory tiers. Timing an OTS proposal according to this timeline is critical for securing maximum debt waivers.
               </p>
@@ -423,7 +423,7 @@ export default function IciciPersonalLoanSettlementClient() {
               </div>
 
               <p className="text-slate-700 leading-relaxed mb-3 text-sm md:text-base">
-                When an overdue loan breaches 90 days, ICICI Bank allocates capital provisioning against its balance sheet. When a loan reaches Doubtful status (over 180 days past due), the bank absorbs 100% provisioning. An upfront cash settlement allows the bank to write back these provisions into profits. This creates a strong financial incentive for the bank to approve substantial debt haircuts.
+                When an overdue loan breaches 90 days, ICICI Bank allocates capital provisioning against its balance sheet. When a loan reaches Doubtful status (over 180 days past due), the bank absorbs 100% provisioning. An upfront cash settlement allows the bank to write back these provisions into profits. This creates a strong financial incentive for the bank to approve large debt haircuts.
               </p>
             </section>
 
@@ -433,23 +433,23 @@ export default function IciciPersonalLoanSettlementClient() {
                 <Calculator className="w-4 h-4" />
                 <span>3. OTS Haircut Policies &amp; Valuation Framework</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-3 leading-tight">
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-3 leading-tight">
                 ICICI&apos;s Internal One-Time Settlement (OTS) &amp; Haircut Policy
-              </h2>
+              </h3>
               <p className="text-slate-700 leading-relaxed mb-3 text-sm md:text-base">
-                Pursuant to the <strong>RBI Master Direction on Compromise Settlements (2023-24)</strong>, ICICI Bank operates under a board-approved Compromise Settlement Policy. The bank evaluates settlement proposals through a Net Present Value (NPV) recovery methodology.
+                under the <strong>RBI Master Direction on Compromise Settlements (2023-24)</strong>, ICICI Bank operates under a board-approved Compromise Settlement Policy. The bank evaluates settlement proposals through a Net Present Value (NPV) recovery methodology.
               </p>
 
               <div className="bg-slate-900 text-white p-4 rounded-2xl my-3 shadow-md border border-slate-800">
-                <h3 className="text-xs font-bold text-blue-400 mb-1 flex items-center gap-1.5">
+                <h4 className="text-xs font-bold text-blue-400 mb-1 flex items-center gap-1.5">
                   <Calculator className="w-4 h-4 text-[#1F5EFF]" />
                   <span>The Banking Net Present Value (NPV) Equation</span>
-                </h3>
+                </h4>
                 <div className="p-2 bg-slate-800 rounded-xl font-mono text-xs text-emerald-400 border border-slate-700 mb-1">
                   NPV = (Estimated Realization - Legal Fees - Overhead) / (1 + Cost of Funds)^Years
                 </div>
                 <p className="text-xs text-slate-400 leading-relaxed">
-                  For an unsecured loan in Doubtful status, an immediate 40% to 55% compromise payment delivers higher net realization than uncertain legal proceedings over 4 to 7 years.
+                  For an unsecured loan in Doubtful status, an immediate 40% to 55% compromise payment delivers higher net realization than uncertain legal cases over 4 to 7 years.
                 </p>
               </div>
 
@@ -504,9 +504,9 @@ export default function IciciPersonalLoanSettlementClient() {
                 <Landmark className="w-4 h-4" />
                 <span>4. Central Settlement Desk &amp; SARB Hierarchy</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-3 leading-tight">
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-3 leading-tight">
                 ICICI Bank&apos;s Central Settlement Desk &amp; SARB Escalation Matrix
-              </h2>
+              </h3>
               <p className="text-slate-700 leading-relaxed mb-3 text-sm md:text-base">
                 Under ICICI Bank&apos;s Delegation of Financial Powers, branch staff and external recovery tele-callers have zero authority to approve debt reductions. All retail non-performing assets are centrally managed by ICICI&apos;s Special Operations Group and regional <strong>Stressed Assets Recovery Branch (SARB)</strong> desks.
               </p>
@@ -521,11 +521,11 @@ export default function IciciPersonalLoanSettlementClient() {
                 <ShieldAlert className="w-4 h-4" />
                 <span>5. Recovery Practices &amp; RBI Anti-Harassment Law</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-3 leading-tight">
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-3 leading-tight">
                 ICICI Recovery Agent Practices & Harassment Defense
-              </h2>
+              </h3>
               <p className="text-slate-700 leading-relaxed mb-3 text-sm md:text-base">
-                When an ICICI retail loan enters NPA status (90+ DPD), recovery operations are assigned to external Debt Recovery Agencies (DRAs). Because agency compensation depends on collected sums, recovery personnel frequently resort to persistent calling and workplace visits.
+                When an ICICI retail loan enters NPA status (90+ DPD), recovery operations are assigned to external Debt Recovery Agencies (DRAs). Because agency relief depends on collected sums, recovery personnel frequently resort to persistent calling and workplace visits.
               </p>
               <p className="text-slate-700 leading-relaxed mb-3 text-sm md:text-base">
                 The Reserve Bank of India enforces strict protections under the Master Direction on Recovery Agents. Agents cannot contact borrowers outside 08:00 AM to 07:00 PM, visit offices to cause disruption, disclose debts to third parties, or use intimidating language. Borrowers can demand the agent&apos;s IIBF DRA certification and issue formal cease-and-desist notices to ICICI&apos;s Principal Nodal Officer and the RBI Ombudsman.
@@ -544,9 +544,9 @@ export default function IciciPersonalLoanSettlementClient() {
                       <span className="text-[10px] font-black uppercase tracking-widest text-blue-300 block">
                         Legal Defense &amp; Action Blueprint
                       </span>
-                      <h3 className="text-sm md:text-base font-black text-white leading-tight">
+                      <h4 className="text-sm md:text-base font-black text-white leading-tight">
                         ICICI Bank Personal Loan Settlement Process &amp; Haircut Blueprint
-                      </h3>
+                      </h4>
                     </div>
                   </div>
                   <a
@@ -591,69 +591,69 @@ export default function IciciPersonalLoanSettlementClient() {
                 <Layers className="w-4 h-4" />
                 <span>6. Step-by-Step Settlement Roadmap</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-3 leading-tight">
-                Step-by-Step Guide: Initiating Settlement with ICICI Bank
-              </h2>
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-3 leading-tight">
+                Step-by-Step Guide: starting Settlement with ICICI Bank
+              </h3>
               <p className="text-slate-700 leading-relaxed mb-3 text-sm md:text-base">
                 Executing a compromise settlement with ICICI Bank requires disciplined preparation across six essential phases:
               </p>
 
               <div className="space-y-2.5">
                 <div className="p-3 rounded-2xl bg-white border border-slate-200 shadow-sm">
-                  <h3 className="text-xs font-bold text-slate-900 mb-1 flex items-center gap-1.5">
+                  <h4 className="text-xs font-bold text-slate-900 mb-1 flex items-center gap-1.5">
                     <span className="w-4 h-4 rounded-md bg-blue-50 text-[#1F5EFF] font-black text-[10px] flex items-center justify-center border border-blue-200">1</span>
                     Hardship Dossier Compilation
-                  </h3>
+                  </h4>
                   <p className="text-slate-600 text-xs leading-relaxed">
                     Assemble documentary proof of insolvency, including severance letters, medical records, and bank statements illustrating nominal balances to prove default is involuntary.
                   </p>
                 </div>
 
                 <div className="p-3 rounded-2xl bg-white border border-slate-200 shadow-sm">
-                  <h3 className="text-xs font-bold text-slate-900 mb-1 flex items-center gap-1.5">
+                  <h4 className="text-xs font-bold text-slate-900 mb-1 flex items-center gap-1.5">
                     <span className="w-4 h-4 rounded-md bg-blue-50 text-[#1F5EFF] font-black text-[10px] flex items-center justify-center border border-blue-200">2</span>
                     Cease-and-Desist Notice
-                  </h3>
+                  </h4>
                   <p className="text-slate-600 text-xs leading-relaxed">
                     Issue formal legal notices routing discussions to ICICI&apos;s SARB and Principal Nodal Officer, neutralizing collection agencies and eliminating unauthorized markups.
                   </p>
                 </div>
 
                 <div className="p-3 rounded-2xl bg-white border border-slate-200 shadow-sm">
-                  <h3 className="text-xs font-bold text-slate-900 mb-1 flex items-center gap-1.5">
+                  <h4 className="text-xs font-bold text-slate-900 mb-1 flex items-center gap-1.5">
                     <span className="w-4 h-4 rounded-md bg-blue-50 text-[#1F5EFF] font-black text-[10px] flex items-center justify-center border border-blue-200">3</span>
                     Submitting the Formal Proposal
-                  </h3>
+                  </h4>
                   <p className="text-slate-600 text-xs leading-relaxed">
                     Submit a formal OTS petition citing RBI directives, detailing hardship events, and anchoring an opening offer at 25%–35% of ledger dues to secure 40%–55% final approvals.
                   </p>
                 </div>
 
                 <div className="p-3 rounded-2xl bg-white border border-slate-200 shadow-sm">
-                  <h3 className="text-xs font-bold text-slate-900 mb-1 flex items-center gap-1.5">
+                  <h4 className="text-xs font-bold text-slate-900 mb-1 flex items-center gap-1.5">
                     <span className="w-4 h-4 rounded-md bg-blue-50 text-[#1F5EFF] font-black text-[10px] flex items-center justify-center border border-blue-200">4</span>
                     Managing Counter-Demands
-                  </h3>
+                  </h4>
                   <p className="text-slate-600 text-xs leading-relaxed">
                     Counter initial high bank demands by reaffirming strict income limitations and establishing that settlement funds are third-party contributions for final closure.
                   </p>
                 </div>
 
                 <div className="p-3 rounded-2xl bg-white border border-slate-200 shadow-sm">
-                  <h3 className="text-xs font-bold text-slate-900 mb-1 flex items-center gap-1.5">
+                  <h4 className="text-xs font-bold text-slate-900 mb-1 flex items-center gap-1.5">
                     <span className="w-4 h-4 rounded-md bg-blue-50 text-[#1F5EFF] font-black text-[10px] flex items-center justify-center border border-blue-200">5</span>
                     Sanction Letter Audit
-                  </h3>
+                  </h4>
                   <p className="text-slate-600 text-xs leading-relaxed">
                     Verify the sanction letter is printed on official ICICI Bank letterhead with branch seal, confirming compromise figures, payment dates, and legal notice withdrawals.
                   </p>
                 </div>
 
                 <div className="p-3 rounded-2xl bg-white border border-slate-200 shadow-sm">
-                  <h3 className="text-xs font-bold text-slate-900 mb-1 flex items-center gap-1.5">
+                  <h4 className="text-xs font-bold text-slate-900 mb-1 flex items-center gap-1.5">
                     <span className="w-4 h-4 rounded-md bg-blue-50 text-[#1F5EFF] font-black text-[10px] flex items-center justify-center border border-blue-200">6</span>
                     Remittance &amp; ₹0 NDC Delivery
-                  </h3>
+                  </h4>
                   <p className="text-slate-600 text-xs leading-relaxed">
                     Remit funds directly into your ICICI loan account. Under RBI Circular RBI/2023-24/60, the bank must deliver your ₹0 No Dues Certificate and update bureaus within 30 days.
                   </p>
@@ -667,9 +667,9 @@ export default function IciciPersonalLoanSettlementClient() {
                 <Scale className="w-4 h-4" />
                 <span>7. Comparative Resolution Avenues</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-3 leading-tight">
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-3 leading-tight">
                 ICICI OTS vs Loan Restructuring vs National Lok Adalat
-              </h2>
+              </h3>
               <p className="text-slate-700 leading-relaxed mb-3 text-sm md:text-base">
                 Distressed borrowers often evaluate whether to pursue an OTS, apply for loan restructuring, or settle dues at the National Lok Adalat. Each avenue carries distinct legal outcomes, cash flow requirements, and credit reporting impacts.
               </p>
@@ -732,9 +732,9 @@ export default function IciciPersonalLoanSettlementClient() {
                 <FileCheck className="w-4 h-4" />
                 <span>8. Sanction Letter Audit &amp; ₹0 NDC Mandate</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-3 leading-tight">
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-3 leading-tight">
                 ICICI Settlement Sanction Letters & ₹0 NDC Checklist
-              </h2>
+              </h3>
               <p className="text-slate-700 leading-relaxed mb-3 text-sm md:text-base">
                 A serious risk in retail debt recovery involves rogue intermediaries issuing unauthorized settlement letters to induce token payments. If money is paid against an invalid letter, ICICI Bank credits funds toward penal interest, leaving default active.
               </p>
@@ -742,19 +742,19 @@ export default function IciciPersonalLoanSettlementClient() {
                 To guarantee legal validity, verify that the sanction letter is printed on official ICICI Bank stationery featuring corporate watermarks, retail asset branch details, and the signature and employee code of an authorized officer.
               </p>
               <p className="text-slate-700 leading-relaxed mb-3 text-sm md:text-base">
-                The letter must explicitly stipulate that the agreed sum constitutes full and final satisfaction of all claims, permanently extinguishing residual dues. Under <strong>RBI Circular RBI/2023-24/60</strong>, ICICI Bank must issue the ₹0 No Dues Certificate within 30 calendar days, with statutory compensation of ₹5,000 per day payable for operational delays.
+                The letter must explicitly stipulate that the agreed sum constitutes full and final satisfaction of all claims, permanently extinguishing residual dues. Under <strong>RBI Circular RBI/2023-24/60</strong>, ICICI Bank must issue the ₹0 No Dues Certificate within 30 calendar days, with statutory relief of ₹5,000 per day payable for operational delays.
               </p>
             </section>
 
             {/* Section 10 */}
-            <section id="cibil-impact-credit-rehabilitation" className="scroll-mt-24 mb-10">
+            <section id="cibil-impact-credit-recovery" className="scroll-mt-24 mb-10">
               <div className="inline-flex items-center gap-2 text-xs font-bold text-[#1F5EFF] uppercase tracking-wider mb-2">
                 <TrendingUp className="w-4 h-4" />
-                <span>9. CIBIL Score Trajectory &amp; Rehabilitation</span>
+                <span>9. CIBIL Score Trajectory &amp; recovery</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-3 leading-tight">
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-3 leading-tight">
                 CIBIL Score Impact & Credit Repair Post-ICICI OTS
-              </h2>
+              </h3>
               <p className="text-slate-700 leading-relaxed mb-3 text-sm md:text-base">
                 After full remittance of the agreed OTS amount, ICICI Bank must update all four credit bureaus. It reports to CIBIL, Experian, Equifax, and CRIF High Mark. The bank modifies the account status from &apos;Default&apos; to <strong>&apos;Settled&apos;</strong> with an outstanding balance of exactly <strong>₹0</strong>.
               </p>
@@ -762,7 +762,7 @@ export default function IciciPersonalLoanSettlementClient() {
                 A &apos;Settled&apos; tag lowers your credit score by 75 to 150 points. It also triggers a 12-month cooling period under RBI directives before you can obtain fresh credit. However, it permanently halts month-on-month default degradation caused by compounding Days Past Due counters.
               </p>
               <p className="text-slate-700 leading-relaxed mb-3 text-sm md:text-base">
-                Rebuilding credit post-settlement is systematic. Borrowers can secure a fixed-deposit backed credit card and maintain credit utilization below 25%. By servicing utility bills promptly, you steadily build positive credit history. This restores your CIBIL score to 750+ within 18 to 24 months.
+                Rebuilding credit post-settlement is systematic. Borrowers can secure a fixed-deposit backed credit card and maintain credit use below 25%. By servicing utility bills promptly, you steadily build positive credit history. This restores your CIBIL score to 750+ within 18 to 24 months.
               </p>
             </section>
 
@@ -772,9 +772,9 @@ export default function IciciPersonalLoanSettlementClient() {
                 <ShieldCheck className="w-4 h-4" />
                 <span>10. Legal Defense &amp; Representation</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 Why Distressed ICICI Borrowers Choose SettleLoans
-              </h2>
+              </h3>
               <p className="text-slate-700 leading-relaxed mb-4 text-sm md:text-base">
                 Negotiating an equitable compromise settlement with ICICI Bank requires seasoned banking litigation counsel. The advocates at SettleLoans provide comprehensive protection, stopping collection harassment, auditing NPA provisioning allocations, and engaging ICICI&apos;s Zonal Settlement Committees to secure maximum permissible debt waivers.
               </p>
@@ -812,9 +812,9 @@ export default function IciciPersonalLoanSettlementClient() {
                 <HelpCircle className="w-4 h-4" />
                 <span>11. Frequently Asked Questions</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 Frequently Asked Questions About ICICI Personal Loan Settlement
-              </h2>
+              </h3>
 
               <div className="space-y-3">
                 {faqs.map((faq, index) => (
@@ -831,10 +831,10 @@ export default function IciciPersonalLoanSettlementClient() {
 
             {/* Regulatory References */}
             <div className="bg-slate-50 border border-slate-200 rounded-2xl p-4 my-6">
-              <h3 className="text-xs font-bold text-slate-900 mb-2 flex items-center gap-2">
+              <h4 className="text-xs font-bold text-slate-900 mb-2 flex items-center gap-2">
                 <Landmark className="w-3.5 h-3.5 text-[#1F5EFF]" />
                 Official Regulatory References &amp; Statutory Circulars
-              </h3>
+              </h4>
               <ul className="space-y-1.5 text-[11px] text-slate-600">
                 <li className="flex items-start gap-1.5">
                   <ExternalLink className="w-3 h-3 text-[#1F5EFF] flex-shrink-0 mt-0.5" />
@@ -896,10 +896,10 @@ export default function IciciPersonalLoanSettlementClient() {
 
             {/* Related Guides */}
             <div className="bg-slate-50 border border-slate-200 rounded-2xl p-4 my-6">
-              <h3 className="text-xs font-bold text-slate-900 mb-2 flex items-center gap-2">
+              <h4 className="text-xs font-bold text-slate-900 mb-2 flex items-center gap-2">
                 <BookOpen className="w-3.5 h-3.5 text-[#1F5EFF]" />
                 Explore Related Banking &amp; Debt Resolution Guides
-              </h3>
+              </h4>
               <div className="flex flex-wrap gap-1.5">
                 <Link
                   href="/bank-one-time-settlement-ots-policy"
@@ -987,7 +987,7 @@ export default function IciciPersonalLoanSettlementClient() {
                 </div>
               </div>
               <p className="text-[11px] text-slate-600 leading-relaxed mb-2.5">
-                Ashish has led 1,200+ bank compromise negotiations across ICICI, HDFC, and SBI under RBI Master Directions.
+                Ashish has led 1,200+ bank compromise talks across ICICI, HDFC, and SBI under RBI Master Directions.
               </p>
               <div className="pt-2 border-t border-slate-100 flex items-center justify-between text-[11px] font-semibold">
                 <Link

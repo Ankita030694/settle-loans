@@ -270,7 +270,7 @@ export default function BanksBlacklistAfterSettlementPage() {
                                 <strong>Is this true? The short answer is NO.</strong> There is no official, government-mandated central 'blacklist' that permanently bans you from the banking system. However, the <em>functional reality</em> is more complex. While you aren't legally 'banned', your ability to access credit becomes extremely restricted due to two factors: Internal Negative Lists and Credit Bureau Reporting.
                             </p>
                             <div className="p-8 bg-blue-50 rounded-2xl border border-blue-100 mb-8">
-                                <h3 className="text-xl font-bold mb-4 text-blue-900">Summary of the 'Blacklist' Concept:</h3>
+                                <h4 className="text-xl font-bold mb-4 text-blue-900">Summary of the 'Blacklist' Concept:</h4>
                                 <ul className="space-y-4">
                                     <li className="flex items-start gap-3">
                                         <div className="mt-1 text-blue-600 font-bold">•</div>
@@ -289,18 +289,18 @@ export default function BanksBlacklistAfterSettlementPage() {
                         </section>
 
                         <section id="cibil-reporting" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">CIBIL Status: 'Settled' vs. 'Written-off'</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">CIBIL Status: 'Settled' vs. 'Written-off'</h3>
                             <p className="mb-6 leading-relaxed">
                                 Most borrowers look at their credit score, but banks look at the <em>Account Status</em>. When you settle a loan, your credit report (CIBIL) doesn't just show a lower score; it marks that specific account with a permanent tag.
                             </p>
                             <div className="grid md:grid-cols-2 gap-8 mb-8">
                                 <div className="p-6 bg-white border border-[#DEDEDE] rounded-xl shadow-sm">
-                                    <h3 className="font-bold text-[#1F5EFF] mb-2 uppercase">The 'Settled' Status</h3>
+                                    <h4 className="font-bold text-[#1F5EFF] mb-2 uppercase">The 'Settled' Status</h4>
                                     <p className="text-sm text-gray-600 mb-4">You and the bank agreed on a lower amount. You paid that amount. The account is closed, but with a loss to the bank.</p>
                                     <p className="text-xs text-gray-500 font-bold italic">Bank's view: "This person is a risk, but they are communicative and tried to pay something."</p>
                                 </div>
                                 <div className="p-6 bg-white border border-[#DEDEDE] rounded-xl shadow-sm">
-                                    <h4 className="font-bold text-red-600 mb-2 uppercase">The 'Written-off' Status</h4>
+                                    <h5 className="font-bold text-red-600 mb-2 uppercase">The 'Written-off' Status</h5>
                                     <p className="text-sm text-gray-600 mb-4">You didn't pay anything for a long time. The bank gave up and moved the debt to their 'bad books' or sold it to an ARC.</p>
                                     <p className="text-xs text-gray-500 font-bold italic">Bank's view: "This person is a high-risk defaulter. Blacklist them immediately."</p>
                                 </div>
@@ -311,12 +311,12 @@ export default function BanksBlacklistAfterSettlementPage() {
                         </section>
 
                         <section id="blacklist-duration" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">Is the Blacklist Permanent? The 7-Year Rule</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">Is the Blacklist Permanent? The 7-Year Rule</h3>
                             <p className="mb-6 leading-relaxed">
                                 In the world of credit bureaus, negative information doesn't stay forever. In India, most derogatory marks (including 'Settled' status) stay on your CIBIL report for **7 years**.
                             </p>
                             <div className="relative border-l-4 border-l-[#1F5EFF] pl-8 py-4 mb-8 bg-gray-50 rounded-r-2xl">
-                                <h3 className="text-xl font-bold mb-4">The Lifecycle of a Settlement Mark:</h3>
+                                <h4 className="text-xl font-bold mb-4">The Lifecycle of a Settlement Mark:</h4>
                                 <div className="space-y-4">
                                     <div className="flex gap-4">
                                         <span className="font-black text-[#1F5EFF] min-w-[80px]">Year 1-2:</span>
@@ -342,19 +342,19 @@ export default function BanksBlacklistAfterSettlementPage() {
                         </section>
 
                         <section id="impact-assessment" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">Does the 'Blacklist' Affect My Family?</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">Does the 'Blacklist' Affect My Family?</h3>
                             <p className="mb-6 leading-relaxed">
                                 This is a major source of anxiety. "Will my settlement stop my daughter from getting an education loan?" or "Can my wife still get a home loan?"
                             </p>
                             <div className="grid md:grid-cols-2 gap-8">
                                 <div className="p-8 bg-white border border-[#DEDEDE] rounded-2xl shadow-md">
-                                    <h3 className="text-xl font-bold mb-4 text-[#1F5EFF] uppercase border-b-2 border-blue-50 pb-2">Individual Credit Identity</h3>
+                                    <h4 className="text-xl font-bold mb-4 text-[#1F5EFF] uppercase border-b-2 border-blue-50 pb-2">Individual Credit Identity</h4>
                                     <p className="text-sm leading-relaxed text-gray-700">
                                         In India, credit scores are tied to individual PAN and Aadhaar cards. Your wife's credit score is independent of yours. If she has a clean history and her own income, your settlement has <strong>zero direct impact</strong> on her creditworthiness.
                                     </p>
                                 </div>
                                 <div className="p-8 bg-white border border-[#DEDEDE] rounded-2xl shadow-md">
-                                    <h4 className="text-xl font-bold mb-4 text-red-600 uppercase border-b-2 border-red-50 pb-2">The 'Joint Loan' Exception</h4>
+                                    <h5 className="text-xl font-bold mb-4 text-red-600 uppercase border-b-2 border-red-50 pb-2">The 'Joint Loan' Exception</h5>
                                     <p className="text-sm leading-relaxed text-gray-700">
                                         The only time your 'blacklist' status affects family is if you are a **Co-applicant** or a **Guarantor**. If your family member applies for a loan and lists you as a co-applicant, the bank will check your CIBIL, see the 'Settled' status, and likely reject the entire application.
                                     </p>
@@ -365,12 +365,12 @@ export default function BanksBlacklistAfterSettlementPage() {
                             </p>
                         </section>
                         <section id="employment-checks" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">Can a 'Blacklist' Affect My Employment?</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">Can a 'Blacklist' Affect My Employment?</h3>
                             <p className="mb-6 leading-relaxed">
                                 In recent years, Background Verification (BGV) in India has become more sophisticated. Large MNCs, especially in the FinTech, Banking, and IT sectors, often include a "Financial Integrity Check" as part of their hiring process.
                             </p>
                             <div className="bg-orange-50 p-8 rounded-2xl border border-orange-200 mb-8 border-r-8 border-r-orange-500">
-                                <h3 className="text-xl font-bold mb-4 uppercase text-orange-900">The Reality of BGV:</h3>
+                                <h4 className="text-xl font-bold mb-4 uppercase text-orange-900">The Reality of BGV:</h4>
                                 <ul className="space-y-4 text-orange-900/90">
                                     <li className="flex items-start gap-3">
                                         <div className="w-6 h-6 bg-orange-100 text-orange-600 rounded-full flex items-center justify-center font-bold text-xs mt-1">!</div>
@@ -392,13 +392,13 @@ export default function BanksBlacklistAfterSettlementPage() {
                         </section>
 
                         <section id="same-bank-policy" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">Same Bank vs. Other Bank Policies</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">Same Bank vs. Other Bank Policies</h3>
                             <p className="mb-6 leading-relaxed">
                                 This is where the distinction between a 'CIBIL report' and a 'Blacklist' becomes clearest.
                             </p>
                             <div className="space-y-8">
                                 <div className="p-8 bg-white border border-[#DEDEDE] rounded-2xl shadow-sm">
-                                    <h3 className="text-2xl font-bold mb-4 text-[#2E2E2E]">The 'Source' Bank (Lifetime Ban)</h3>
+                                    <h4 className="text-2xl font-bold mb-4 text-[#2E2E2E]">The 'Source' Bank (Lifetime Ban)</h4>
                                     <p className="text-sm leading-relaxed mb-4">
                                         If you settled with ICICI Bank, they will record the loss in their internal "Negative Customer Database". Even if your CIBIL score becomes 850, if you apply for a credit card at ICICI ten years later, their system will find your old record. For the source bank, you are essentially blacklisted for life.
                                     </p>
@@ -406,7 +406,7 @@ export default function BanksBlacklistAfterSettlementPage() {
                                 </div>
 
                                 <div className="p-8 bg-white border border-[#DEDEDE] rounded-2xl shadow-sm">
-                                    <h3 className="text-2xl font-bold mb-4 text-[#2E2E2E]">The 'Other' Banks (Case-by-Case)</h3>
+                                    <h4 className="text-2xl font-bold mb-4 text-[#2E2E2E]">The 'Other' Banks (Case-by-Case)</h4>
                                     <p className="text-sm leading-relaxed mb-4">
                                         Other banks do not have access to your old bank's private notes. They only see what's on the CIBIL report. If the 'Settled' status is old (3+ years) and your current income is high, many banks (especially smaller ones or NBFCs like Bajaj Finance or HDFC) might still consider you for a loan. They see you as a "recovering risk" rather than a "permanent ban".
                                     </p>
@@ -415,35 +415,35 @@ export default function BanksBlacklistAfterSettlementPage() {
                         </section>
 
                         <section id="recovery-roadmap" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">The 24-Month Recovery Roadmap</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">The 24-Month Recovery Roadmap</h3>
                             <p className="mb-6 leading-relaxed">
                                 You are not banned from the banking system; you are just in a 'Credit Coma'. Here is how to wake up your credit profile and prove to the world that you are a reliable borrower once again.
                             </p>
                             <div className="grid md:grid-cols-4 gap-4 mb-8">
                                 <div className="p-6 bg-[#2E2E2E] text-white rounded-xl text-center">
                                     <span className="text-2xl font-black block mb-2 text-[#1F5EFF]">01</span>
-                                    <h3 className="font-bold text-xs uppercase mb-2">Month 0-6</h3>
+                                    <h4 className="font-bold text-xs uppercase mb-2">Month 0-6</h4>
                                     <p className="text-[10px] opacity-70 italic">NO NEW LOANS. Let the settlement settle on your report. Open a high-balance savings account in a NEW bank.</p>
                                 </div>
                                 <div className="p-6 bg-[#2E2E2E] text-white rounded-xl text-center">
                                     <span className="text-2xl font-black block mb-2 text-[#1F5EFF]">02</span>
-                                    <h4 className="font-bold text-xs uppercase mb-2">Month 7-12</h4>
+                                    <h5 className="font-bold text-xs uppercase mb-2">Month 7-12</h5>
                                     <p className="text-[10px] opacity-70 italic">Get a Secured Credit Card. Pay a fixed deposit of ₹50,000 and get a card with a ₹40,000 limit. Use it for small bills only.</p>
                                 </div>
                                 <div className="p-6 bg-[#2E2E2E] text-white rounded-xl text-center">
                                     <span className="text-2xl font-black block mb-2 text-[#1F5EFF]">03</span>
-                                    <h5 className="font-bold text-xs uppercase mb-2">Month 13-18</h5>
+                                    <h6 className="font-bold text-xs uppercase mb-2">Month 13-18</h6>
                                     <p className="text-[10px] opacity-70 italic">Perfect Repayment. Ensure every single bill for that secured card is paid in FULL before the due date. No exceptions.</p>
                                 </div>
                                 <div className="p-6 bg-[#2E2E2E] text-white rounded-xl text-center">
                                     <span className="text-2xl font-black block mb-2 text-[#1F5EFF]">04</span>
-                                    <h5 className="font-bold text-xs uppercase mb-2">Month 19-24</h5>
+                                    <h6 className="font-bold text-xs uppercase mb-2">Month 19-24</h6>
                                     <p className="text-[10px] opacity-70 italic">The Graduation. Apply for a small unsured loan or a consumer durable loan. If approved, the 'Blacklist' is officially broken.</p>
                                 </div>
                             </div>
                         </section>
                         <section id="success-stories" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 text-center uppercase tracking-tight">Real Stories of Freedom</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 text-center uppercase tracking-tight">Real Stories of Freedom</h3>
                             <div className="grid md:grid-cols-2 gap-6 pb-2">
                                 {[
                                     {
@@ -477,7 +477,7 @@ export default function BanksBlacklistAfterSettlementPage() {
                                                 {review.name.charAt(0)}
                                             </div>
                                             <div>
-                                                <h3 className="font-bold text-[#2E2E2E]">{review.name}</h3>
+                                                <h4 className="font-bold text-[#2E2E2E]">{review.name}</h4>
                                                 <p className="text-xs text-gray-400">{review.loc}</p>
                                             </div>
                                             <div className="ml-auto text-yellow-400 text-sm">★★★★★</div>
@@ -491,21 +491,21 @@ export default function BanksBlacklistAfterSettlementPage() {
                             </div>
 
                             <div className="bg-[#F8F9FA] p-12 rounded-[40px] border border-[#DEDEDE] my-16">
-                                <h3 className="text-3xl font-black mb-6 text-[#2E2E2E]">The Role of ARCs: When Your Debt is Sold</h3>
+                                <h4 className="text-3xl font-black mb-6 text-[#2E2E2E]">The Role of ARCs: When Your Debt is Sold</h4>
                                 <p className="mb-6 leading-relaxed text-gray-700">
                                     Sometimes, your bank stops chasing you and sells your debt to an Asset Reconstruction Company (ARC) like Phoenix ARC, ARCIL, or Edelweiss. This is a critical moment in the 'blacklist' story.
                                 </p>
                                 <div className="grid md:grid-cols-3 gap-6 mb-8">
                                     <div className="p-6 bg-white rounded-2xl shadow-sm border border-[#DEDEDE]">
-                                        <h4 className="font-bold mb-3 text-[#1F5EFF]">Bureau Reporting</h4>
+                                        <h5 className="font-bold mb-3 text-[#1F5EFF]">Bureau Reporting</h5>
                                         <p className="text-sm text-gray-600">The ARC will now be the one reporting to CIBIL. The original bank account will show as 'Transferred/Sold'.</p>
                                     </div>
                                     <div className="p-6 bg-white rounded-2xl shadow-sm border border-[#DEDEDE]">
-                                        <h4 className="font-bold mb-3 text-[#1F5EFF]">Negotiation Power</h4>
+                                        <h5 className="font-bold mb-3 text-[#1F5EFF]">Negotiation Power</h5>
                                         <p className="text-sm text-gray-600">ARCs buy debt at a deep discount. This often means they are more willing to settle for a lower amount than the original bank.</p>
                                     </div>
                                     <div className="p-6 bg-white rounded-2xl shadow-sm border border-[#DEDEDE]">
-                                        <h4 className="font-bold mb-3 text-[#1F5EFF]">Closure Certificate</h4>
+                                        <h5 className="font-bold mb-3 text-[#1F5EFF]">Closure Certificate</h5>
                                         <p className="text-sm text-gray-600">Ensure the ARC provides a proper No Dues Certificate. Without this, the 'blacklist' tag on CIBIL will never update.</p>
                                     </div>
                                 </div>
@@ -515,63 +515,63 @@ export default function BanksBlacklistAfterSettlementPage() {
                             </div>
                         </section>
                         <section id="faqs" className="scroll-mt-32 mb-12 border-t border-[#DEDEDE] pt-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight uppercase">Frequently Asked Questions</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight uppercase">Frequently Asked Questions</h3>
                             <div className="space-y-6">
                                 <div className="p-6 bg-white border border-[#DEDEDE] rounded-xl shadow-sm">
-                                    <h3 className="font-bold text-[#1F5EFF] mb-2 text-lg">Is there a common blacklist shared by all banks?</h3>
+                                    <h4 className="font-bold text-[#1F5EFF] mb-2 text-lg">Is there a common blacklist shared by all banks?</h4>
                                     <p className="text-sm leading-relaxed text-gray-700">There is no single 'blacklist' shared by all banks in India. However, all retail banks report to credit bureaus like CIBIL, Equifax, and Experian. If you settle with one bank, other banks will see the 'Settled' tag on your report, which acts as a universal red flag for automated lending systems.</p>
                                 </div>
                                 <div className="p-6 bg-white border border-[#DEDEDE] rounded-xl shadow-sm">
-                                    <h3 className="font-bold text-[#1F5EFF] mb-2 text-lg">Can I get a credit card from the same bank I settled with?</h3>
+                                    <h4 className="font-bold text-[#1F5EFF] mb-2 text-lg">Can I get a credit card from the same bank I settled with?</h4>
                                     <p className="text-sm leading-relaxed text-gray-700">It is highly unlikely. Most banks maintain 'internal negative lists' or 'customer delinquency logs' that never expire. If you settle with Bank A, they will likely never issue you another unsecured product, even if your score reaches 850 a decade later.</p>
                                 </div>
                                 <div className="p-6 bg-white border border-[#DEDEDE] rounded-xl shadow-sm">
-                                    <h3 className="font-bold text-[#1F5EFF] mb-2 text-lg">Can I settle a loan and then immediately get a loan from a different bank?</h3>
+                                    <h4 className="font-bold text-[#1F5EFF] mb-2 text-lg">Can I settle a loan and then immediately get a loan from a different bank?</h4>
                                     <p className="text-sm leading-relaxed text-gray-600">No. All banks check CIBIL. It takes time (usually 12-24 months) to rebuild trust through small repayment behaviors before a new bank will take a risk on you. Even if your income is very high, the presence of a 'Settled' tag in the last 12 months is an automatic rejection for most automated lending systems.</p>
                                 </div>
                                 <div className="p-6 bg-white border border-[#DEDEDE] rounded-xl shadow-sm">
-                                    <h3 className="font-bold text-[#1F5EFF] mb-2 text-lg">When does the 'Settled' status disappear from CIBIL?</h3>
+                                    <h4 className="font-bold text-[#1F5EFF] mb-2 text-lg">When does the 'Settled' status disappear from CIBIL?</h4>
                                     <p className="text-sm leading-relaxed text-gray-700">In India, most credit bureaus keep account history for 7 years. After this, if the debt is reported as closed/settled, it may be removed or weighted significantly less. Some bureaus may retain it longer if the account was never fully resolved.</p>
                                 </div>
                                 <div className="p-6 bg-white border border-[#DEDEDE] rounded-xl shadow-sm">
-                                    <h3 className="font-bold text-[#1F5EFF] mb-2 text-lg">If I pay the remaining 'waived' amount later, will the blacklist be removed?</h3>
+                                    <h4 className="font-bold text-[#1F5EFF] mb-2 text-lg">If I pay the remaining 'waived' amount later, will the blacklist be removed?</h4>
                                     <p className="text-sm leading-relaxed text-gray-700">Yes. This is called 'Settlement to Closure'. If you pay the waived amount, the bank will update your status to 'Closed' or 'Post-Settlement No Dues'. This is the best way to clear your name permanently and is highly recommended if you plan to take a home loan in the future.</p>
                                 </div>
                                 <div className="p-6 bg-white border border-[#DEDEDE] rounded-xl shadow-sm">
-                                    <h3 className="font-bold text-[#1F5EFF] mb-2 text-lg">Can a bank freeze my savings account if I settled another loan with them?</h3>
+                                    <h4 className="font-bold text-[#1F5EFF] mb-2 text-lg">Can a bank freeze my savings account if I settled another loan with them?</h4>
                                     <p className="text-sm leading-relaxed text-gray-700">Usually no. Once the settlement is finalized and a No Dues Certificate is issued, the legal dispute is considered resolved. The bank cannot arbitrarily freeze your new funds unless they have a specific court order for a separate matter.</p>
                                 </div>
                                 <div className="p-6 bg-white border border-[#DEDEDE] rounded-xl shadow-sm">
-                                    <h3 className="font-bold text-[#1F5EFF] mb-2 text-lg">Will my credit card limit ever increase after settlement?</h3>
+                                    <h4 className="font-bold text-[#1F5EFF] mb-2 text-lg">Will my credit card limit ever increase after settlement?</h4>
                                     <p className="text-sm leading-relaxed text-gray-700">Not on the same card, as settlement requires the card to be cancelled. On new credit cards (likely secured ones), the limit will start very low (often ₹10,000 to ₹50,000) and will only increase after 12-18 months of disciplined usage.</p>
                                 </div>
                                 <div className="p-6 bg-white border border-[#DEDEDE] rounded-xl shadow-sm">
-                                    <h3 className="font-bold text-[#1F5EFF] mb-2 text-lg">How do I know if I am on an internal blacklist?</h3>
+                                    <h4 className="font-bold text-[#1F5EFF] mb-2 text-lg">How do I know if I am on an internal blacklist?</h4>
                                     <p className="text-sm leading-relaxed text-gray-700">If your CIBIL score is high (&gt;750) but a specific bank rejects you with a reason like "Internal Policy" or "Past Relationship", it means you are on their negative list. You can also check if you have a pre-approved offer; if you don't even after years of having an account, you might be flagged.</p>
                                 </div>
                                 <div className="p-6 bg-white border border-[#DEDEDE] rounded-xl shadow-sm">
-                                    <h3 className="font-bold text-[#1F5EFF] mb-2 text-lg">Can SettleLoans help me get off a blacklist?</h3>
+                                    <h4 className="font-bold text-[#1F5EFF] mb-2 text-lg">Can SettleLoans help me get off a blacklist?</h4>
                                     <p className="text-sm leading-relaxed text-gray-700">We help you negotiate a 'Settlement to Closure' deal or ensure your CIBIL is updated correctly. While we can't 'delete' bank records, we provide the legal and financial roadmap to becoming creditworthy again by ensuring banks follow RBI reporting guidelines.</p>
                                 </div>
                                 <div className="p-6 bg-white border border-[#DEDEDE] rounded-xl shadow-sm">
-                                    <h3 className="font-bold text-[#1F5EFF] mb-2 text-lg">Does settling a gold loan lead to blacklisting?</h3>
+                                    <h4 className="font-bold text-[#1F5EFF] mb-2 text-lg">Does settling a gold loan lead to blacklisting?</h4>
                                     <p className="text-sm leading-relaxed text-gray-700">Settling a secured loan is rare since the bank already has your gold. If you settle, it's still reported, but since it's secured, the impact is slightly less severe than an unsecured credit card settlement. However, the bank you settled with will still likely blacklist you internally.</p>
                                 </div>
                                 <div className="p-6 bg-white border border-[#DEDEDE] rounded-xl shadow-sm">
-                                    <h3 className="font-bold text-[#1F5EFF] mb-2 text-lg">Will my NRI status be affected by loan settlement?</h3>
+                                    <h4 className="font-bold text-[#1F5EFF] mb-2 text-lg">Will my NRI status be affected by loan settlement?</h4>
                                     <p className="text-sm leading-relaxed text-gray-700">No, settlement is a civil matter. It does not affect your passport, visa status, or ability to travel, unless there is a specific 'Look-Out Circular' for multi-crore fraud or wilful default. For 99% of personal loan borrowers, there is no impact on international travel.</p>
                                 </div>
                             </div>
                         </section>
 
                         <section id="legal-recourse" className="scroll-mt-32 mb-12 border-t border-[#DEDEDE] pt-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight uppercase">Legal Recourse: Fighting Back Against 'Permanent Blacklisting' Threats</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight uppercase">Legal Recourse: Fighting Back Against 'Permanent Blacklisting' Threats</h3>
                             <p className="mb-6 leading-relaxed">
                                 Banks and recovery agents often use the word "Blacklist" as a weapon to induce fear. They want you to believe that your life is over if you don't pay the full amount immediately. This is not just misleading; it can sometimes border on illegal harassment.
                             </p>
                             
                             <div className="bg-[#2E2E2E] text-white p-10 rounded-[30px] mb-12 shadow-xl">
-                                <h3 className="text-2xl font-bold mb-6 text-[#1F5EFF]">The RBI Master Circular on Recovery Agents (2022)</h3>
+                                <h4 className="text-2xl font-bold mb-6 text-[#1F5EFF]">The RBI Master Circular on Recovery Agents (2022)</h4>
                                 <p className="mb-6 text-sm opacity-80 leading-relaxed">
                                     According to the latest RBI guidelines, banks and their outsourced recovery agents are strictly prohibited from:
                                 </p>
@@ -589,13 +589,13 @@ export default function BanksBlacklistAfterSettlementPage() {
 
                             <div className="space-y-6 mb-12">
                                 <div className="p-8 bg-white border border-[#DEDEDE] rounded-2xl shadow-sm">
-                                    <h4 className="text-xl font-bold mb-4 text-[#2E2E2E]">1. The Banking Ombudsman</h4>
+                                    <h5 className="text-xl font-bold mb-4 text-[#2E2E2E]">1. The Banking Ombudsman</h5>
                                     <p className="text-sm text-gray-600 leading-relaxed">
                                         The Banking Ombudsman is a senior official appointed by the RBI to redress customer complaints. If a bank refuses to issue a No Dues Certificate after a successful settlement, or if they continue to report you as 'Defaulted' instead of 'Settled', the Ombudsman can force them to correct the record and potentially award compensation for your "loss of credit opportunity."
                                     </p>
                                 </div>
                                 <div className="p-8 bg-white border border-[#DEDEDE] rounded-2xl shadow-sm">
-                                    <h4 className="text-xl font-bold mb-4 text-[#2E2E2E]">2. Consumer Courts</h4>
+                                    <h5 className="text-xl font-bold mb-4 text-[#2E2E2E]">2. Consumer Courts</h5>
                                     <p className="text-sm text-gray-600 leading-relaxed">
                                         Under the Consumer Protection Act, credit reporting is considered a service. If a bank's internal 'blacklist' prevents you from accessing services you should otherwise qualify for (after a reasonable recovery period), and this is due to technical errors or malicious reporting, you can sue the bank in a District Consumer Forum.
                                     </p>
@@ -604,13 +604,13 @@ export default function BanksBlacklistAfterSettlementPage() {
                         </section>
 
                         <section id="settlement-to-closure" className="scroll-mt-32 mb-12 border-t border-[#DEDEDE] pt-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight uppercase underline decoration-[#1F5EFF] decoration-8 underline-offset-8">Settlement to Closure: The Ultimate Reset Button</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight uppercase underline decoration-[#1F5EFF] decoration-8 underline-offset-8">Settlement to Closure: The Ultimate Reset Button</h3>
                             <p className="mb-6 leading-relaxed text-lg">
                                 If you have already settled and are feeling the pain of being 'blacklisted' by major lenders, there is a technical procedure to 'clean' your record. This is not "CIBIL Repair"—which is often a scam—but a legitimate banking process called **Settlement to Closure**.
                             </p>
                             
                             <div className="p-8 bg-blue-50 rounded-[40px] border border-blue-100 mb-12">
-                                <h3 className="text-2xl font-black mb-6 text-blue-900">How the 'Reset' Works:</h3>
+                                <h4 className="text-2xl font-black mb-6 text-blue-900">How the 'Reset' Works:</h4>
                                 <div className="space-y-4">
                                     <p className="text-gray-700">
                                         <b>Step 1: The Request for Difference.</b> You write a formal letter to the bank's Nodal Officer expressing your desire to pay the 'balance principal' that was waived during your settlement.
@@ -633,14 +633,14 @@ export default function BanksBlacklistAfterSettlementPage() {
                         </section>
 
                         <section id="future-credit" className="scroll-mt-32 mb-12 border-t border-[#DEDEDE] pt-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight uppercase">The Future of Credit: Beyond the CIBIL 'Blacklist'</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight uppercase">The Future of Credit: Beyond the CIBIL 'Blacklist'</h3>
                             <p className="mb-6 leading-relaxed">
                                 The Indian lending landscape is undergoing a massive transformation. The days when a single 'Settled' tag on a CIBIL report could permanently end your financial life are slowly coming to an end. This is due to two major technological shifts: **Account Aggregators (AA)** and **AI-Based Underwriting**.
                             </p>
                             
                             <div className="grid md:grid-cols-2 gap-10 mb-12">
                                 <div className="space-y-4">
-                                    <h3 className="text-xl font-bold text-[#1F5EFF]">1. Account Aggregators (AA)</h3>
+                                    <h4 className="text-xl font-bold text-[#1F5EFF]">1. Account Aggregators (AA)</h4>
                                     <p className="text-sm text-gray-600 leading-relaxed">
                                         The AA framework allows you to share your real-time bank statements digitally with a new lender. Instead of relying on a 5-year-old settlement record, lenders can now see that you have a steady salary or business income <em>today</em>. 
                                     </p>
@@ -649,7 +649,7 @@ export default function BanksBlacklistAfterSettlementPage() {
                                     </p>
                                 </div>
                                 <div className="space-y-4">
-                                    <h3 className="text-xl font-bold text-[#1F5EFF]">2. AI-Based Underwriting</h3>
+                                    <h4 className="text-xl font-bold text-[#1F5EFF]">2. AI-Based Underwriting</h4>
                                     <p className="text-sm text-gray-600 leading-relaxed">
                                         Modern FinTechs use Artificial Intelligence to analyze thousands of data points—not just your CIBIL score. They look at your utility bill payments, your travel patterns, and even your professional stability on platforms like LinkedIn.
                                     </p>
@@ -663,7 +663,7 @@ export default function BanksBlacklistAfterSettlementPage() {
                                 <div className="absolute top-0 right-0 p-6 opacity-10">
                                     <svg width="120" height="120" viewBox="0 0 24 24" fill="currentColor"><path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm-1 17.93c-3.95-.49-7-3.85-7-7.93 0-.62.08-1.21.21-1.79L9 15v1c0 1.1.9 2 2 2v1.93zm6.9-2.54c-.26-.81-1-1.39-1.9-1.39h-1v-3c0-.55-.45-1-1-1H8v-2h2c.55 0 1-.45 1-1V7h2c1.1 0 2-.9 2-2v-.41c2.93 1.19 5 4.06 5 7.41 0 2.08-.8 3.97-2.1 5.39z"/></svg>
                                 </div>
-                                <h3 className="text-2xl font-black mb-4 text-[#2E2E2E]">Final Verdict: Your Credit is a Garden</h3>
+                                <h4 className="text-2xl font-black mb-4 text-[#2E2E2E]">Final Verdict: Your Credit is a Garden</h4>
                                 <p className="text-gray-700 leading-relaxed mb-6">
                                     Think of your credit profile not as a static record, but as a garden. A loan settlement is like a sudden drought that kills the plants. It looks terrible today, and passers-by might call it "dead" or "blacklisted."
                                 </p>
@@ -677,34 +677,34 @@ export default function BanksBlacklistAfterSettlementPage() {
                         </section>
 
                         <section id="human-impact" className="scroll-mt-32 mb-12 border-t border-[#DEDEDE] pt-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight uppercase">The Human Impact: Why SettleLoans Cares</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight uppercase">The Human Impact: Why SettleLoans Cares</h3>
                             <p className="mb-6 leading-relaxed">
                                 At SettleLoans, we have seen thousands of people walk through our doors with the weight of the world on their shoulders. They aren't just worried about a number on a screen; they are worried about their ability to provide for their children, their standing in their community, and their own sense of self-worth.
                             </p>
                             <div className="bg-gray-900 text-white p-12 rounded-[50px] mb-12 shadow-2xl relative overflow-hidden">
                                 <div className="absolute bottom-0 right-0 w-96 h-96 bg-[#1F5EFF] opacity-10 rounded-full -mb-48 -mr-48 blur-3xl"></div>
-                                <h3 className="text-3xl font-black mb-8 relative z-10">Our Mission Beyond Settlements</h3>
+                                <h4 className="text-3xl font-black mb-8 relative z-10">Our Mission Beyond Settlements</h4>
                                 <div className="grid md:grid-cols-2 gap-12 relative z-10">
                                     <div className="space-y-4">
-                                        <h4 className="text-[#1F5EFF] font-bold text-xl uppercase tracking-widest">Dignity First</h4>
+                                        <h5 className="text-[#1F5EFF] font-bold text-xl uppercase tracking-widest">Dignity First</h5>
                                         <p className="text-sm opacity-80 leading-relaxed">
                                             We believe that every borrower deserves to be treated with dignity, regardless of their financial situation. The term 'blacklist' is designed to strip away that dignity. We are here to help you reclaim it.
                                         </p>
                                     </div>
                                     <div className="space-y-4">
-                                        <h4 className="text-[#1F5EFF] font-bold text-xl uppercase tracking-widest">Financial Literacy</h4>
+                                        <h5 className="text-[#1F5EFF] font-bold text-xl uppercase tracking-widest">Financial Literacy</h5>
                                         <p className="text-sm opacity-80 leading-relaxed">
                                             A settlement is a second chance. Our goal is to ensure you never need a third one. We provide the tools and knowledge to manage your finances so that credit becomes a tool for growth, not a trap for survival.
                                         </p>
                                     </div>
                                     <div className="space-y-4">
-                                        <h4 className="text-[#1F5EFF] font-bold text-xl uppercase tracking-widest">Systemic Advocacy</h4>
+                                        <h5 className="text-[#1F5EFF] font-bold text-xl uppercase tracking-widest">Systemic Advocacy</h5>
                                         <p className="text-sm opacity-80 leading-relaxed">
                                             We advocate for fairer credit reporting standards in India. We believe that a single mistake shouldn't follow a person for seven years, and we work toward a future where "rehabilitation" is a formal part of the banking system.
                                         </p>
                                     </div>
                                     <div className="space-y-4">
-                                        <h4 className="text-[#1F5EFF] font-bold text-xl uppercase tracking-widest">Peace of Mind</h4>
+                                        <h5 className="text-[#1F5EFF] font-bold text-xl uppercase tracking-widest">Peace of Mind</h5>
                                         <p className="text-sm opacity-80 leading-relaxed">
                                             The greatest 'blacklist' is the one that exists in your mind—the fear that you can never move forward. Our job is to clear that blacklist by providing a clear, legal, and actionable path to financial freedom.
                                         </p>

@@ -271,17 +271,17 @@ export default function IARCPage() {
             </section>
 
             <section id="arc-role" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl font-black text-[#2E2E2E] mb-8">The Role of ARCs in India's Financial Ecosystem</h2>
+              <h3 className="text-3xl font-black text-[#2E2E2E] mb-8">The Role of ARCs in India's Financial Ecosystem</h3>
               <p className="text-lg leading-relaxed mb-8">
                 Asset Reconstruction Companies play a vital role in cleaning up the balance sheets of Indian banks. By offloading bad loans to ARCs, banks can focus on their core business of lending to productive sectors. IARC, backed by strong institutional investors, brings professional debt management practices to the table. This systemic cleanup is essential for the health of the Indian economy, as it prevents banks from becoming stagnant with unrecoverable debt.
               </p>
               <div className="grid md:grid-cols-2 gap-6 mb-12">
                 <div className="p-6 bg-white border border-gray-200 rounded-2xl shadow-sm hover:shadow-md transition-all">
-                  <h3 className="text-xl font-bold text-[#1F5EFF] mb-4">Debt Acquisition</h3>
+                  <h4 className="text-xl font-bold text-[#1F5EFF] mb-4">Debt Acquisition</h4>
                   <p className="text-gray-600">IARC buys pools of loans from banks that have been unpaid for more than ninety days, taking over the entire recovery process. They use sophisticated algorithms and historical data to determine which loans are worth purchasing.</p>
                 </div>
                 <div className="p-6 bg-white border border-gray-200 rounded-2xl shadow-sm hover:shadow-md transition-all">
-                  <h3 className="text-xl font-bold text-[#1F5EFF] mb-4">Account Resolution</h3>
+                  <h4 className="text-xl font-bold text-[#1F5EFF] mb-4">Account Resolution</h4>
                   <p className="text-gray-600">Unlike collection agencies that only chase payments, ARCs like IARC have the legal authority to settle or restructure the entire loan amount. They are empowered by the RBI to make decisions that best resolve the asset.</p>
                 </div>
               </div>
@@ -294,32 +294,32 @@ export default function IARCPage() {
             </section>
 
             <section id="settlement-guide" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl font-black text-[#2E2E2E] mb-8">Detailed Guide to IARC Loan Settlement Process</h2>
+              <h3 className="text-3xl font-black text-[#2E2E2E] mb-8">Detailed Guide to IARC Loan Settlement Process</h3>
               <p className="text-lg leading-relaxed mb-8">
                 Settling with IARC requires a methodical approach. Because they are a specialized firm, their internal processes for settlement are well defined. It is not just about paying less money; it is about following a legal protocol that ensures your debt is wiped clean from the system. Here is the step by step breakdown of how to navigate this journey:
               </p>
               <div className="space-y-10">
                 <div className="relative pl-10 border-l-2 border-[#1F5EFF]/20">
                   <div className="absolute -left-[11px] top-0 w-5 h-5 rounded-full bg-[#1F5EFF] border-4 border-white"></div>
-                  <h3 className="text-2xl font-black mb-2">1. Verification and Access</h3>
+                  <h4 className="text-2xl font-black mb-2">1. Verification and Access</h4>
                   <p className="text-gray-600 leading-relaxed mb-4">The first step is always verification. You must ensure that IARC is the actual owner of your debt. This is done by checking the notice of assignment sent by your bank. You can also log into the IARC Resolution Portal. This portal is a central hub where you can see your current outstanding amount, including any interest or penalties that have been added.</p>
                   <p className="text-gray-600 leading-relaxed">Checking your status on the portal gives you the numbers you need for negotiation. Do not rely on what an agent tells you over the phone; always verify the numbers on the official dashboard first.</p>
                 </div>
                 <div className="relative pl-10 border-l-2 border-[#1F5EFF]/20">
                   <div className="absolute -left-[11px] top-0 w-5 h-5 rounded-full bg-[#1F5EFF] border-4 border-white"></div>
-                  <h4 className="text-2xl font-black mb-2">2. Documentation of Financial Hardship</h4>
+                  <h5 className="text-2xl font-black mb-2">2. Documentation of Financial Hardship</h5>
                   <p className="text-gray-600 leading-relaxed mb-4">IARC will not grant a settlement just because you asked. They need proof. This is where you prepare your Hardship File. If you have no job, you need your termination letter or salary slips showing a ninety percent pay cut. If you have medical bills or other crisis documentation, include it.</p>
                   <p className="text-gray-600 leading-relaxed">The goal is to prove that you are insolvent, meaning your liabilities far exceed your assets. When IARC sees that you have no property, no high income, and no luxury assets, they realize that a settlement is the only way they will ever recover any money at all.</p>
                 </div>
                 <div className="relative pl-10 border-l-2 border-[#1F5EFF]/20">
                   <div className="absolute -left-[11px] top-0 w-5 h-5 rounded-full bg-[#1F5EFF] border-4 border-white"></div>
-                  <h4 className="text-2xl font-black mb-2">3. The Strategic Negotiation</h4>
+                  <h5 className="text-2xl font-black mb-2">3. The Strategic Negotiation</h5>
                   <p className="text-gray-600 leading-relaxed mb-4">This is where most people fail. Negotiation is a psychological game. You should start with an offer that is lower than what you can actually afford, usually around thirty percent of the principal amount. IARC will counter with seventy percent. The middle ground is usually where the deal happens.</p>
                   <p className="text-gray-600 leading-relaxed">During this phase, keep all communication professional. Do not get emotional or angry. State the facts: you have a limited lump sum available, and you want to close the case today. Professional negotiators like SettleLoans handle this daily and know the exact pressure points that make IARC agree to a lower amount.</p>
                 </div>
                 <div className="relative pl-10 border-l-2 border-[#1F5EFF]/20">
                   <div className="absolute -left-[11px] top-0 w-5 h-5 rounded-full bg-[#1F5EFF] border-4 border-white"></div>
-                  <h4 className="text-2xl font-black mb-2">4. Obtaining the Settlement Letter</h4>
+                  <h5 className="text-2xl font-black mb-2">4. Obtaining the Settlement Letter</h5>
                   <p className="text-gray-600 leading-relaxed mb-4">Once an agreement is reached, DO NOT PAY yet. You must receive a formal Settlement Letter on IARC letterhead. This letter is your legal contract. It must state clearly: the total outstanding amount, the agreed settlement amount, the payment schedule, and a clause stating that all legal cases will be withdrawn upon payment.</p>
                   <p className="text-gray-600 leading-relaxed">Always cross verify the letter by calling IARC customer support or visiting their office. There are many fake settlement letters circulated by unscrupulous agencies, so verification is critical.</p>
                 </div>
@@ -327,12 +327,12 @@ export default function IARCPage() {
             </section>
 
             <section id="no-job-strategy" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl font-black text-[#2E2E2E] mb-8">How to Manage Loan with No Job: Survival Strategies</h2>
+              <h3 className="text-3xl font-black text-[#2E2E2E] mb-8">How to Manage Loan with No Job: Survival Strategies</h3>
               <p className="text-lg leading-relaxed mb-8">
                 Losing your job is a major life transition, and having a pending loan with IARC adds immense pressure. However, panic is your worst enemy. Use these strategies to manage the situation:
               </p>
               <div className="bg-gray-50 p-8 rounded-3xl mb-12 border border-gray-200">
-                <h3 className="text-xl font-bold mb-6">Practical Financial Survival Steps:</h3>
+                <h4 className="text-xl font-bold mb-6">Practical Financial Survival Steps:</h4>
                 <ul className="space-y-4">
                   <li className="flex gap-4">
                     <span className="flex-shrink-0 w-6 h-6 rounded-full bg-blue-100 text-blue-600 flex items-center justify-center font-bold">1</span>
@@ -354,17 +354,17 @@ export default function IARCPage() {
             </section>
 
             <section id="legal-rights" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl font-black text-[#2E2E2E] mb-8">Your Legal Rights Against Harassment</h2>
+              <h3 className="text-3xl font-black text-[#2E2E2E] mb-8">Your Legal Rights Against Harassment</h3>
               <p className="text-lg leading-relaxed mb-8">
                 Regardless of how much you owe, you have fundamental legal rights protected by the Reserve Bank of India. IARC and its agents are bound by a Fair Practice Code.
               </p>
               <div className="grid md:grid-cols-2 gap-6 mb-12">
                 <div className="p-6 bg-red-50 border border-red-100 rounded-2xl shadow-sm">
-                  <h3 className="text-xl font-bold text-red-600 mb-4">No Abusive Behavior</h3>
+                  <h4 className="text-xl font-bold text-red-600 mb-4">No Abusive Behavior</h4>
                   <p className="text-gray-700">Agents cannot use foul language, shout, or threaten you physically. Any such behavior is a violation of RBI guidelines.</p>
                 </div>
                 <div className="p-6 bg-blue-50 border border-blue-100 rounded-2xl shadow-sm">
-                  <h3 className="text-xl font-bold text-blue-600 mb-4">Privacy Protection</h3>
+                  <h4 className="text-xl font-bold text-blue-600 mb-4">Privacy Protection</h4>
                   <p className="text-gray-700">They cannot talk to your neighbors, relatives, or friends about your loan without your explicit consent.</p>
                 </div>
               </div>
@@ -374,24 +374,24 @@ export default function IARCPage() {
             </section>
 
             <section id="gov-schemes" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl font-black text-[#2E2E2E] mb-8">Government Schemes for Debt Relief and Employment</h2>
+              <h3 className="text-3xl font-black text-[#2E2E2E] mb-8">Government Schemes for Debt Relief and Employment</h3>
               <p className="text-lg leading-relaxed mb-8">
                 While the Indian government does not typically pay off private loan debts for individuals, there are schemes designed to help you regain financial footing:
               </p>
               <div className="space-y-6 mb-10">
                 <div className="p-6 bg-emerald-50 rounded-2xl border border-emerald-100">
-                  <h3 className="font-bold text-emerald-900 mb-2 text-xl">Prime Minister Rozgar Yojana (PMRY)</h3>
+                  <h4 className="font-bold text-emerald-900 mb-2 text-xl">Prime Minister Rozgar Yojana (PMRY)</h4>
                   <p className="text-gray-700">Aimed at providing self employment opportunities to educated unemployed youth. This can be a path to generate income to settle your existing debts.</p>
                 </div>
                 <div className="p-6 bg-amber-50 rounded-2xl border border-amber-100">
-                  <h4 className="font-bold text-amber-900 mb-2 text-xl">Pradhan Mantri Mudra Yojana (PMMY)</h4>
+                  <h5 className="font-bold text-amber-900 mb-2 text-xl">Pradhan Mantri Mudra Yojana (PMMY)</h5>
                   <p className="text-gray-700">Offers small business loans up to ten lakh rupees for income generating activities. This is useful if you are moving from a job to a small enterprise.</p>
                 </div>
               </div>
             </section>
 
             <section id="professional-help" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl font-black text-[#2E2E2E] mb-8">Why Professional Debt Settlement Help is Essential</h2>
+              <h3 className="text-3xl font-black text-[#2E2E2E] mb-8">Why Professional Debt Settlement Help is Essential</h3>
               <p className="text-lg leading-relaxed mb-6">
                 Negotiating with International Asset Reconstruction Company requires knowledge of banking laws and negotiation tactics. Most individuals are already under high stress and may not be able to present their case effectively. When you are dealing with a professional entity like IARC, having a professional on your side balances the scales.
               </p>
@@ -445,7 +445,7 @@ export default function IARCPage() {
             </section>
 
             <section id="mental-health" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl font-black text-[#2E2E2E] mb-8">Debt and Mental Health: Staying Strong During the Process</h2>
+              <h3 className="text-3xl font-black text-[#2E2E2E] mb-8">Debt and Mental Health: Staying Strong During the Process</h3>
               <p className="text-lg leading-relaxed mb-6">
                 Being unemployed and in debt is not just a financial crisis; it is a mental health challenge. The constant fear of legal action or the shame of not being able to provide for your family can take a heavy toll. It is important to remember that debt is a commercial failure, not a moral one.
               </p>
@@ -461,13 +461,13 @@ export default function IARCPage() {
             </section>
 
             <section id="success-stories" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-12 text-center">IARC Settlement Success Stories</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-12 text-center">IARC Settlement Success Stories</h3>
               <div className="grid md:grid-cols-2 gap-8 not-prose mb-12">
                 <div className="bg-white p-8 rounded-[24px] border border-[#DEDEDE] shadow-sm hover:shadow-xl transition-all duration-300">
                   <div className="flex items-center mb-6">
                     <div className="w-12 h-12 rounded-full bg-blue-50 flex items-center justify-center font-bold text-[#1F5EFF] mr-4">R</div>
                     <div>
-                      <h3 className="font-extrabold text-[#2E2E2E]">Rohan Mehta</h3>
+                      <h4 className="font-extrabold text-[#2E2E2E]">Rohan Mehta</h4>
                       <p className="text-xs text-gray-500 font-bold uppercase tracking-widest">Chennai</p>
                     </div>
                   </div>
@@ -477,7 +477,7 @@ export default function IARCPage() {
                   <div className="flex items-center mb-6">
                     <div className="w-12 h-12 rounded-full bg-blue-50 flex items-center justify-center font-bold text-[#1F5EFF] mr-4">S</div>
                     <div>
-                      <h4 className="font-extrabold text-[#2E2E2E]">Sneha Gupta</h4>
+                      <h5 className="font-extrabold text-[#2E2E2E]">Sneha Gupta</h5>
                       <p className="text-xs text-gray-500 font-bold uppercase tracking-widest">Kolkata</p>
                     </div>
                   </div>
@@ -490,7 +490,7 @@ export default function IARCPage() {
             </section>
 
             <section id="faqs" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-12">Important FAQs on IARC Loan Settlement</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-12">Important FAQs on IARC Loan Settlement</h3>
               <div className="space-y-4 not-prose">
                 {jsonLd["@graph"][3]?.mainEntity?.map((faq: any, i: number) => (
                   <details key={i} className="group bg-white border border-[#DEDEDE] rounded-2xl overflow-hidden hover:shadow-md transition-all duration-300">
@@ -517,7 +517,7 @@ export default function IARCPage() {
             {/* Bottom CTA */}
             <div className="mt-16 p-10 bg-[#2E2E2E] rounded-[32px] text-center text-white relative overflow-hidden">
                <div className="relative z-10">
-                  <h3 className="text-3xl font-black mb-4">Ready to Settle with IARC?</h3>
+                  <h4 className="text-3xl font-black mb-4">Ready to Settle with IARC?</h4>
                   <p className="text-[#DEDEDE]/80 mb-8 max-w-lg mx-auto">Let our legal experts handle the International Asset Reconstruction Company for you. Get a free consultation today.</p>
                   <Link href="/contact" className="inline-block bg-[#1F5EFF] text-white font-black py-4 px-10 rounded-[12px] hover:scale-105 transition-all shadow-xl">
                     Get My Free Analysis

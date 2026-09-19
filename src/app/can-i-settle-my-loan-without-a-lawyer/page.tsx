@@ -238,41 +238,41 @@ export default function SettleWithoutLawyerPage() {
             </section>
 
             <section id="rbi-2025" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 uppercase tracking-tighter">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 uppercase tracking-tighter">
                 RBI Guidelines 2025: New Protections
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-8">
                 The Reserve Bank of India has introduced several critical updates to the recovery framework for 2025. These rules change the power dynamic between you and the bank.
               </p>
               <div className="grid md:grid-cols-2 gap-6 mb-8 text-left">
                 <div className="p-6 bg-white border border-[#DEDEDE] rounded-xl shadow-sm">
-                  <h3 className="font-bold mb-2 text-[#1F5EFF]">30-Day Pre-Action Notice</h3>
+                  <h4 className="font-bold mb-2 text-[#1F5EFF]">30-Day Pre-Action Notice</h4>
                   <p className="text-sm">Banks are now mandated to issue a formal 30 day pre notice before starting any legal or SARFAESI action. This is your "Golden Window" for negotiation.</p>
                 </div>
                 <div className="p-6 bg-white border border-[#DEDEDE] rounded-xl shadow-sm">
-                  <h4 className="font-bold mb-2 text-[#1F5EFF]">Digital Communication Logs</h4>
+                  <h5 className="font-bold mb-2 text-[#1F5EFF]">Digital Communication Logs</h5>
                   <p className="text-sm">Lenders must now maintain digital records of all recovery calls and messages. This prevents agents from making anonymous threats or usando abusive language.</p>
                 </div>
                 <div className="p-6 bg-white border border-[#DEDEDE] rounded-xl shadow-sm">
-                  <h4 className="font-bold mb-2 text-[#1F5EFF]">30-Day Reporting Grace</h4>
+                  <h5 className="font-bold mb-2 text-[#1F5EFF]">30-Day Reporting Grace</h5>
                   <p className="text-sm">New 2025 rules encourage a 30 day grace period before reporting a missed payment to CIBIL, giving you a small window to reach a temporary relief deal.</p>
                 </div>
                 <div className="p-6 bg-white border border-[#DEDEDE] rounded-xl shadow-sm">
-                  <h4 className="font-bold mb-2 text-[#1F5EFF]">Mediation Mandate</h4>
+                  <h5 className="font-bold mb-2 text-[#1F5EFF]">Mediation Mandate</h5>
                   <p className="text-sm">Lenders are encouraged to offer mediation through RBI empanelled centers before filing criminal complaints in magistrate courts.</p>
                 </div>
               </div>
             </section>
 
             <section id="nodal-officer-strategy" className="scroll-mt-32 mb-12">
-                <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+                <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                     The Nodal Officer Strategy: <span className="text-[#1F5EFF]">Bypassing the Gatekeepers</span>
-                </h2>
+                </h3>
                 <p className="text-lg leading-relaxed mb-6 italic italic">
                     "Recovery agents have targets to collect, but Nodal Officers have targets to close disputes."
                 </p>
                 <div className="bg-[#2E2E2E] text-white p-8 rounded-2xl mb-8">
-                    <h3 className="text-[#1F5EFF] font-bold mb-4 uppercase tracking-widest">How to use this lever:</h3>
+                    <h4 className="text-[#1F5EFF] font-bold mb-4 uppercase tracking-widest">How to use this lever:</h4>
                     <ol className="space-y-4 text-sm font-medium">
                         <li className="flex gap-4"><span className="text-[#1F5EFF] font-black">01.</span> <span>Find your bank's **Principal Nodal Officer (PNO)** contact info from the bank website or RBI's list.</span></li>
                         <li className="flex gap-4"><span className="text-[#1F5EFF] font-black">02.</span> <span>Send a formal dispute email, not a request. Mention that the collection agency is violating RBI's 2025 Fair Practice Code.</span></li>
@@ -282,9 +282,9 @@ export default function SettleWithoutLawyerPage() {
             </section>
 
             <section id="legal-deep-dive" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight uppercase tracking-tighter">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight uppercase tracking-tighter">
                 Legal Deep-Dive: Section 138 vs Section 25
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 Most borrowers are terrified of legal notices. Understanding the difference between these two sections will give you the confidence to negotiate as an equal. 
               </p>
@@ -329,14 +329,14 @@ export default function SettleWithoutLawyerPage() {
             </section>
 
             <section id="lok-adalat-2025" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                 National Lok Adalat 2025 Schedule
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 National Lok Adalats are the single most effective platform for DIY loan settlement. Judgments here are final, non appealable, and often come with 50% to 80% waivers.
               </p>
               <div className="bg-[#2E2E2E] text-white p-8 rounded-2xl mb-8">
-                <h3 className="text-[#1F5EFF] font-bold mb-4 uppercase tracking-widest">Mark Your Calendar 2025:</h3>
+                <h4 className="text-[#1F5EFF] font-bold mb-4 uppercase tracking-widest">Mark Your Calendar 2025:</h4>
                 <ul className="space-y-4 font-black text-xl italic">
                   <li className="flex justify-between border-b border-white/10 pb-2"><span>March 8, 2025</span> <span className="text-xs font-normal">Saturday</span></li>
                   <li className="flex justify-between border-b border-white/10 pb-2"><span>May 10, 2025</span> <span className="text-xs font-normal">Saturday</span></li>
@@ -350,15 +350,15 @@ export default function SettleWithoutLawyerPage() {
             </section>
 
             <section id="debt-dynamics" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight uppercase tracking-tighter">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight uppercase tracking-tighter">
                 Credit Card vs Personal Loan Settlements
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-8">
                 Not all debts are equal. You must adjust your negotiation strategy based on the type of loan you are settling.
               </p>
               <div className="grid md:grid-cols-2 gap-8 mb-8">
                 <div className="bg-white p-6 rounded-xl border border-[#DEDEDE] shadow-sm">
-                  <h3 className="font-bold border-b pb-2 mb-4">Credit Card Debt</h3>
+                  <h4 className="font-bold border-b pb-2 mb-4">Credit Card Debt</h4>
                   <p className="text-sm leading-relaxed">
                     <strong>The Dynamic:</strong> High compounding interest (36–45%) means your balance is mostly "air".
                     <br /><br />
@@ -366,7 +366,7 @@ export default function SettleWithoutLawyerPage() {
                   </p>
                 </div>
                 <div className="bg-white p-6 rounded-xl border border-[#DEDEDE] shadow-sm">
-                  <h4 className="font-bold border-b pb-2 mb-4">Personal Loans</h4>
+                  <h5 className="font-bold border-b pb-2 mb-4">Personal Loans</h5>
                   <p className="text-sm leading-relaxed">
                     <strong>The Dynamic:</strong> Fixed tenure, simpler principal. Lenders (especially NBFCs) are tighter on these.
                     <br /><br />
@@ -377,24 +377,24 @@ export default function SettleWithoutLawyerPage() {
             </section>
 
             <section id="negotiation-pro" className="scroll-mt-32 mb-12">
-                <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 uppercase tracking-tighter decoration-[#1F5EFF] underline">Advanced Negotiation Tactics</h2>
+                <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 uppercase tracking-tighter decoration-[#1F5EFF] underline">Advanced Negotiation Tactics</h3>
                 <p className="text-lg leading-relaxed mb-6">
                     Beyond the basics, you must use psychological levers to win a DIY negotiation.
                 </p>
                 <div className="space-y-6">
                     <div className="p-6 bg-white border border-[#DEDEDE] rounded-xl shadow-sm">
-                        <h3 className="font-bold mb-2">The "Anchor Pricing" Technique</h3>
+                        <h4 className="font-bold mb-2">The "Anchor Pricing" Technique</h4>
                         <p className="text-sm">Always start your offer at 20% of the total outstanding. Even if you are willing to pay 40%, the 20% "anchor" pulls the bank's counter-offer lower.</p>
                     </div>
                     <div className="p-6 bg-white border border-[#DEDEDE] rounded-xl shadow-sm">
-                        <h4 className="font-bold mb-2">The "Deadline" Pressure</h4>
+                        <h5 className="font-bold mb-2">The "Deadline" Pressure</h5>
                         <p className="text-sm">"This lump sum is available from a relative only until the 15th of this month. If we don't settle by then, the funds will be used for my medical treatment instead." This forces a decision.</p>
                     </div>
                 </div>
             </section>
 
             <section id="mock-negotiation-script" className="scroll-mt-32 mb-12">
-                <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Mock Negotiation Script</h2>
+                <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Mock Negotiation Script</h3>
                 <div className="bg-gray-900 text-gray-300 p-8 rounded-2xl font-mono text-xs leading-relaxed">
                     <p className="mb-4 text-[#1F5EFF] font-bold">// SCENE: CALL WITH SETTLEMENT MANAGER</p>
                     <p className="mb-2"><span className="text-white font-bold">Bank:</span> Mr. Sharma, your due is 8 Lakhs. We can offer you 6 Lakhs as a final deal.</p>
@@ -407,9 +407,9 @@ export default function SettleWithoutLawyerPage() {
             </section>
 
             <section id="cibil-recovery" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                 Month-by-Month CIBIL Recovery Plan
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 Settling a loan creates a temporary dip in your score. Here is how you spend the next 12 months rebuilding your financial reputation.
               </p>
@@ -430,12 +430,12 @@ export default function SettleWithoutLawyerPage() {
             </section>
 
             <section id="ombudsman-guide" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 uppercase tracking-tighter">Your Nuclear Option: The RBI Ombudsman</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 uppercase tracking-tighter">Your Nuclear Option: The RBI Ombudsman</h3>
               <p className="mb-6 leading-relaxed">
                 If you follow all DIY steps and the bank still acts in bad faith—refusing to settle despite valid hardship or continuing harassment—you must use the <strong>RBI Integrated Ombudsman Scheme</strong>.
               </p>
               <div className="bg-red-50 p-8 rounded-xl border border-red-200 mb-8">
-                <h3 className="font-bold text-red-900 mb-4">Step-by-Step Ombudsman Filing:</h3>
+                <h4 className="font-bold text-red-900 mb-4">Step-by-Step Ombudsman Filing:</h4>
                 <ol className="space-y-3 text-sm text-red-800">
                   <li><strong>1. Written Complaint to Bank:</strong> You must first have a written complaint to the bank that is older than 30 days.</li>
                   <li><strong>2. Visit CMS Portal:</strong> Go to <code>cms.rbi.org.in</code>.</li>
@@ -446,7 +446,7 @@ export default function SettleWithoutLawyerPage() {
             </section>
 
             <section id="hardship-template" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">DIY Template: The Hardship Letter</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">DIY Template: The Hardship Letter</h3>
               <div className="bg-white p-8 rounded-2xl border-2 border-dashed border-gray-300 mb-8 font-mono text-xs">
                 <p className="mb-4">To: The Nodal Officer, [Bank Name]</p>
                 <p className="mb-4">Subject: Request for One-Time Settlement (OTS) - A/c [Your Number]</p>
@@ -458,14 +458,14 @@ export default function SettleWithoutLawyerPage() {
             </section>
 
             <section id="nbfc-settlement-hacks" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 uppercase tracking-tighter">NBFC vs. Bank: Different Hacks</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 uppercase tracking-tighter">NBFC vs. Bank: Different Hacks</h3>
               <p className="mb-6 leading-relaxed">
                 NBFCs (like Bajaj, Dhani, or KrazyBee) have different internal targets than banks. Their 'Recoveries' team is often outsourced. <strong>Hack:</strong> Ask to speak directly with an 'In-house Collection Manager' rather than the external agency caller. They have the higher authority to approve deep discounts that agency telecallers cannot.
               </p>
             </section>
 
             <section id="success-stories" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 text-center uppercase tracking-widest underline">Real Stories of Freedom</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 text-center uppercase tracking-widest underline">Real Stories of Freedom</h3>
               <div className="grid md:grid-cols-2 gap-6 not-prose text-left">
                 {[
                   {
@@ -501,7 +501,7 @@ export default function SettleWithoutLawyerPage() {
                     <div className="flex items-center mb-4">
                       <div className="w-10 h-10 rounded-full bg-blue-100 flex items-center justify-center font-bold text-blue-600 mr-3">{review.name.charAt(0)}</div>
                       <div>
-                        <h3 className="font-bold text-[#2E2E2E]">{review.name}</h3>
+                        <h4 className="font-bold text-[#2E2E2E]">{review.name}</h4>
                         <p className="text-xs text-gray-400">{review.loc}</p>
                       </div>
                       <div className="ml-auto text-yellow-400 text-sm">★★★★★</div>
@@ -516,7 +516,7 @@ export default function SettleWithoutLawyerPage() {
             </section>
 
             <section id="faqs" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Frequently Asked Questions</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Frequently Asked Questions</h3>
               <div className="space-y-4 not-prose text-left">
                 {[
                   { q: "Is it really possible to settle a loan without a lawyer?", a: "Yes, it is 100% legal. Loan settlement is a civil contract negotiation. Most borrowers can handle it themselves by following RBI guidelines and documenting their financial hardship properly." },
@@ -562,7 +562,7 @@ export default function SettleWithoutLawyerPage() {
             <div className="lg:hidden mt-16 mb-8">
               <div className="bg-[#2E2E2E] rounded-2xl shadow-xl overflow-hidden border border-[#1F5EFF]/20">
                 <div className="bg-[#1F5EFF] p-6 text-center text-white">
-                  <h3 className="text-2xl font-black mb-2">Ready to Start Over?</h3>
+                  <h4 className="text-2xl font-black mb-2">Ready to Start Over?</h4>
                   <p className="opacity-90 text-sm">Join the thousands of Indians we've helped find their way to financial freedom.</p>
                 </div>
                 <div className="p-8 text-center text-[#DEDEDE]">

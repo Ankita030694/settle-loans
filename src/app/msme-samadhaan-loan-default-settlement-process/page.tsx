@@ -484,7 +484,7 @@ export default function MSMESamadhaanLoanDefaultSettlementPage() {
 
             {/* Section 2: Statutory Interlock */}
             <section id="statutory-interlock-msmed-act-samadhaan" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">2. Statutory Interlock</h2>
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">2. Statutory Interlock</h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">Small business owners must understand how the MSMED Act, 2006, the SARFAESI Act, 2002. And the MSME Samadhaan portal work together. Knowing your legal rights prevents costly formal mistakes.</p>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">Filing on the MSME Samadhaan portal does not grant an automatic stay against bank loan recovery. MSME Samadhaan operates under Section 18 of the MSMED Act. It helps small suppliers recover unpaid dues from buyers through settlement and arbitration with compound interest.</p>
               
@@ -524,7 +524,7 @@ export default function MSMESamadhaanLoanDefaultSettlementPage() {
 
             {/* Section 3: RBI Prudential Framework */}
             <section id="rbi-prudential-framework-msme-restructuring" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">3. RBI&apos;s Prudential Framework for MSME Revival</h2>
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">3. RBI&apos;s Prudential Framework for MSME Revival</h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">The Reserve Bank of India requires bank banks to follow a structured revival plan for stressed small firms. Key rules include the <strong>RBI Framework for Revival and recovery of Micro, Small and Medium Firms</strong> and the <strong>Prudential Framework for Solution of Stressed Assets</strong>.</p>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">Under these RBI rules, banks cannot jump straight to harsh recovery steps. Lenders must set up a dedicated <strong>Committee for Stressed Micro, Small and Medium Firms</strong> at zonal offices. Banks must track early stress across three mandatory stages:</p>
 
@@ -555,7 +555,7 @@ export default function MSMESamadhaanLoanDefaultSettlementPage() {
 
             {/* Section 4: Bank Accounting Economics */}
             <section id="bank-accounting-economics-npa-provisioning" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">4. Bank NPA Accounting &amp; MSME Samadhaan Economics</h2>
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">4. Bank NPA Accounting &amp; MSME Samadhaan Economics</h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">To settle business debt, owners must understand bank accounting. An unresolved bad loan is not just unpaid money. It drains bank capital. mandatory RBI reserves rules.</p>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">Under RBI IRAC norms. When a loan turns into an NPA, the bank must set aside reserves. Over three years, this reaches up to <strong>100% reserves</strong> against bad debt. The bank locks its own cash reserves in reserves accounts. This hurts the bank&apos. s profits and capital ratios.</p>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">Banks face strong pressure to clean up bad loans before quarter ends. Contested court cases in DRTs cost banks heavy lawyer retainers, court fees. And security expenses. These costs push bank recovery committees to accept upfront cash settlements.</p>
@@ -577,9 +577,9 @@ export default function MSMESamadhaanLoanDefaultSettlementPage() {
                   />
                 </div>
                 <div className="pt-3 px-2 text-center">
-                  <h3 className="text-xs sm:text-sm font-bold text-slate-900">
+                  <h4 className="text-xs sm:text-sm font-bold text-slate-900">
                     Figure 1: 5-Step MSME Loan Resolution &amp; Asset Protection Roadmap
-                  </h3>
+                  </h4>
                   <p className="text-[11px] sm:text-xs text-slate-500 mt-1 max-w-2xl mx-auto">A clear roadmap showing the transition from Udyam hardship filing to RBI recast, system protection. And final bank OTS execution.</p>
                 </div>
               </div>
@@ -587,7 +587,7 @@ export default function MSMESamadhaanLoanDefaultSettlementPage() {
 
             {/* Section 6: Shielding Plant & Machinery */}
             <section id="shielding-plant-machinery-hypothecated-assets" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">6. Shielding Operational Plant, Machinery</h2>
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">6. Shielding Operational Plant, Machinery</h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">Factory machines, tooling. And plant sheds are vital for business operations. If a bank seizes system, work stops and bank contracts fail. Preserving machine hold is key for MSME debt defense.</p>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">When a bank issues Section 13(4) notices or approaches the magistrate under Section 14 to seize assets, owners have clear legal shields:</p>
 
@@ -595,7 +595,7 @@ export default function MSMESamadhaanLoanDefaultSettlementPage() {
                 <div className="p-4 rounded-xl border border-slate-200 bg-slate-50 flex items-start gap-3">
                   <Wrench className="w-5 h-5 text-[#1F5EFF] flex-shrink-0 mt-0.5" />
                   <div className="space-y-1">
-                    <h3 className="font-bold text-xs sm:text-sm text-slate-900">Section 31(j) SARFAESI &amp; Section 60 CPC Protections for Tools of Trade</h3>
+                    <h4 className="font-bold text-xs sm:text-sm text-slate-900">Section 31(j) SARFAESI &amp; Section 60 CPC Protections for Tools of Trade</h4>
                     <p className="text-xs text-slate-600 leading-relaxed">Under Section 31(j) of SARFAESI read with Section 60(1)(b) of the CPC, tools of trade and livelihood instruments cannot be seized. For small business owners, customized work machines qualify for protection against summary attachment.</p>
                   </div>
                 </div>
@@ -603,7 +603,7 @@ export default function MSMESamadhaanLoanDefaultSettlementPage() {
                 <div className="p-4 rounded-xl border border-slate-200 bg-slate-50 flex items-start gap-3">
                   <Factory className="w-5 h-5 text-emerald-600 flex-shrink-0 mt-0.5" />
                   <div className="space-y-1">
-                    <h4 className="font-bold text-xs sm:text-sm text-slate-900">Disproportionate Asset Value vs. Outstanding Claim Challenge</h4>
+                    <h5 className="font-bold text-xs sm:text-sm text-slate-900">Disproportionate Asset Value vs. Outstanding Claim Challenge</h5>
                     <p className="text-xs text-slate-600 leading-relaxed">A bank cannot seize a ₹5 Crore factory to recover a ₹60 Lakhs loan. Debt defense lawyers challenge this over-attachment in the DRT. Banks must limit action to proportionate security.</p>
                   </div>
                 </div>
@@ -611,7 +611,7 @@ export default function MSMESamadhaanLoanDefaultSettlementPage() {
                 <div className="p-4 rounded-xl border border-slate-200 bg-slate-50 flex items-start gap-3">
                   <ShieldCheck className="w-4 h-4 text-purple-600 flex-shrink-0 mt-0.5" />
                   <div className="space-y-1">
-                    <h4 className="font-bold text-xs sm:text-sm text-slate-900">Hypothecated Movable Stock Valuation &amp; Section 13(3A) Procedural Vices</h4>
+                    <h5 className="font-bold text-xs sm:text-sm text-slate-900">Hypothecated Movable Stock Valuation &amp; Section 13(3A) Procedural Vices</h5>
                     <p className="text-xs text-slate-600 leading-relaxed">Banks often skip proper physical stock audits before issuing demand notices. Filing formal Section 13(3A) objections highlights these formal errors and stops one-sided physical hold.</p>
                   </div>
                 </div>
@@ -622,7 +622,7 @@ export default function MSMESamadhaanLoanDefaultSettlementPage() {
 
             {/* Section 7: Strategic Bank OTS Negotiation & NPV Models */}
             <section id="strategic-bank-ots-negotiation-npv" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">7. Strategic Bank OTS Negotiation</h2>
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">7. Strategic Bank OTS Negotiation</h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">Securing a One-Time Settlement requires clear money justification. Bank committees approve settlement settlements only when an OTS offer yields higher Net Present Value (NPV) than forced auctions.</p>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">Banks compare an upfront cash offer against the slow outcome of SARFAESI auctions. Plant auctions often fail for lack of buyers. Reserve prices must be cut by 10% to 20%. and DRT court case can last 3 to 7 years.</p>
 
@@ -643,15 +643,15 @@ export default function MSMESamadhaanLoanDefaultSettlementPage() {
 
             {/* Section 8: Forensic Audit of Sanctions */}
             <section id="forensic-audit-sanctions-penal-interest" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">8. Forensic Audit of Business Loan Sanctions, Penal Interest</h2>
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">8. Forensic Audit of Business Loan Sanctions, Penal Interest</h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">Our legal team conducts a forensic audit of your loan statements and sanction letters. Banks often add illegal ledger charges and excessive risk premiums that inflate debt balances by 25% to 40%.</p>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">Under the landmark <strong>RBI Circular on Fair Lending Practice – Penal Charges in Loan Accounts</strong>, banks cannot capitalize penal charges into principal debt. adding penal interest is strictly prohibited.</p>
 
               <div className="p-4 rounded-xl border border-slate-200 bg-slate-50 space-y-2 my-4">
-                <h3 className="font-bold text-xs sm:text-sm text-slate-900 flex items-center gap-2">
+                <h4 className="font-bold text-xs sm:text-sm text-slate-900 flex items-center gap-2">
                   <FileCheck className="w-4 h-4 text-[#1F5EFF]" />
                   <span>Essential Forensic Audit Checkpoints for Stressed MSME Facilities</span>
-                </h3>
+                </h4>
                 <ul className="space-y-1.5 text-xs text-slate-600">
                   <li className="flex items-start gap-2"><span className="text-[#1F5EFF] font-bold">•</span> <span><strong>Unnotified Rate Markups:</strong> unfair hikes in lending rates without contractual notice.</span></li>
                   <li className="flex items-start gap-2"><span className="text-[#1F5EFF] font-bold">•</span> <span><strong>Unapplied Interest Stacking:</strong> adding of unapplied interest accrued after the NPA status date.</span></li>
@@ -665,7 +665,7 @@ export default function MSMESamadhaanLoanDefaultSettlementPage() {
 
             {/* Section 9: Securing Clean No Dues Certificates & CIBIL */}
             <section id="no-dues-certificate-cibil-commercial-recovery" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">9. Securing Clean No Dues Certificates (NDC)</h2>
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">9. Securing Clean No Dues Certificates (NDC)</h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">Paying the settlement sum is not the final step. Complete solution requires getting a stamped <strong>No Dues Certificate (NDC)</strong>, releasing company asset charges with the ROC. And repairing credit bureau records.</p>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">The settlement agreement must mandate four steps: . (1) Full discharge of debtor and backers, . (2) Return of original property title deeds within 30 days, . (3) Filing Form CHG-4 with the ROC to remove charges. and . (4) Updating CIBIL bank to reflect a ₹0 balance.</p>
 
@@ -727,7 +727,7 @@ export default function MSMESamadhaanLoanDefaultSettlementPage() {
             {/* Section 10: SettleLoans Legal Defense & Advisory + CompanySection */}
             <section id="company-resolution-section" className="space-y-6">
               <div className="border-t border-slate-200 pt-8 space-y-4">
-                <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">10. SettleLoans MSME Legal Defense</h2>
+                <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">10. SettleLoans MSME Legal Defense</h3>
                 <p className="text-sm sm:text-base text-slate-700 leading-relaxed">Resolving business debt against harsh banks requires legal and money expertise. SettleLoans halts recovery abuse and asserts Section 31 SARFAESI exemptions. We audit loan ledgers to remove compound penal interest. Our lawyers represent you before bank Stressed Asset branches (SAMB) to secure binding 40% to 60% settlements with clean No Dues Certificates.</p>
               </div>
 
@@ -739,7 +739,7 @@ export default function MSMESamadhaanLoanDefaultSettlementPage() {
             <section id="faqs" className="space-y-4 border-t border-slate-200 pt-8">
               <div className="flex items-center gap-2 mb-2">
                 <HelpCircle className="w-5 h-5 text-[#1F5EFF]" />
-                <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">11. FAQs: MSME Loan Default &amp; Settlement Process</h2>
+                <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">11. FAQs: MSME Loan Default &amp; Settlement Process</h3>
               </div>
               <p className="text-xs sm:text-sm text-slate-600 mb-6">Clear answers to key questions regarding MSME working capital defaults, MSMED Act protections, system defense. And bank OTS schemes in India.</p>
 
@@ -767,9 +767,9 @@ export default function MSMESamadhaanLoanDefaultSettlementPage() {
 
             {/* 5 Official Regulatory Links */}
             <section className="border-t border-slate-200 pt-8 mb-4">
-              <h3 className="text-xs sm:text-sm font-bold text-slate-900 mb-3 uppercase tracking-wider">
+              <h4 className="text-xs sm:text-sm font-bold text-slate-900 mb-3 uppercase tracking-wider">
                 Official Statutory &amp; Regulatory References
-              </h3>
+              </h4>
               <div className="grid grid-cols-1 sm:grid-cols-2 gap-2.5 text-xs">
                 <a
                   href="https://samadhaan.msme.gov.in"
@@ -821,9 +821,9 @@ export default function MSMESamadhaanLoanDefaultSettlementPage() {
 
             {/* 10 Related Guide Badges */}
             <section className="border-t border-slate-200 pt-8 mb-8">
-              <h3 className="text-xs sm:text-sm font-bold text-slate-900 mb-4 uppercase tracking-wider">
+              <h4 className="text-xs sm:text-sm font-bold text-slate-900 mb-4 uppercase tracking-wider">
                 Related MSME &amp; Stressed Asset Resolution Guides
-              </h3>
+              </h4>
               <div className="flex flex-wrap gap-2">
                 <Link
                   href="/bank-one-time-settlement-ots-policy"

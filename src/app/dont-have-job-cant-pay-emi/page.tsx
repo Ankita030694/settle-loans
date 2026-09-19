@@ -287,32 +287,32 @@ export default function JobLossLoanPage() {
             </section>
 
             <section id="rights" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl font-black text-[#2E2E2E] mb-8">Your Legal Rights as a "Restricted" Borrower</h2>
+              <h3 className="text-3xl font-black text-[#2E2E2E] mb-8">Your Legal Rights as a "Restricted" Borrower</h3>
               <p className="text-lg leading-relaxed mb-8">
                 Most borrowers think that because they owe money, they have lost all their rights. This is a myth propagated by aggressive recovery agencies. In reality, the Supreme Court of India and the Reserve Bank of India (RBI) have established a powerful framework of rights that protect you even in default.
               </p>
               <div className="grid md:grid-cols-2 gap-6 mb-12">
                 <div className="p-6 bg-white border border-gray-200 rounded-2xl shadow-sm">
-                  <h3 className="text-xl font-bold text-[#1F5EFF] mb-4">Right to Privacy</h3>
+                  <h4 className="text-xl font-bold text-[#1F5EFF] mb-4">Right to Privacy</h4>
                   <p className="text-gray-600">The bank or its agents cannot inform your neighbors, friends, or even your former colleagues about your debt. Your financial status is private.</p>
                 </div>
                 <div className="p-6 bg-white border border-gray-200 rounded-2xl shadow-sm">
-                  <h3 className="text-xl font-bold text-[#1F5EFF] mb-4">Right to Civil Treatment</h3>
+                  <h4 className="text-xl font-bold text-[#1F5EFF] mb-4">Right to Civil Treatment</h4>
                   <p className="text-gray-600">Default is not a crime. Abusive language, shouting, or physical intimidation is a punishable offense for the recovery agent.</p>
                 </div>
                 <div className="p-6 bg-white border border-gray-200 rounded-2xl shadow-sm">
-                  <h3 className="text-xl font-bold text-[#1F5EFF] mb-4">Right to Time</h3>
+                  <h4 className="text-xl font-bold text-[#1F5EFF] mb-4">Right to Time</h4>
                   <p className="text-gray-600">Agents can only contact you between 8:00 AM and 7:00 PM. Any call outside this window is a direct violation of RBI norms.</p>
                 </div>
                 <div className="p-6 bg-white border border-gray-200 rounded-2xl shadow-sm">
-                  <h3 className="text-xl font-bold text-[#1F5EFF] mb-4">Right to Representation</h3>
+                  <h4 className="text-xl font-bold text-[#1F5EFF] mb-4">Right to Representation</h4>
                   <p className="text-gray-600">You have the right to hire a lawyer or a professional debt consultant to handle all communications on your behalf.</p>
                 </div>
               </div>
             </section>
 
             <section id="job-loss-impact" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl font-black text-[#2E2E2E] mb-8">Why Job Loss is a "Genuine Hardship"</h2>
+              <h3 className="text-3xl font-black text-[#2E2E2E] mb-8">Why Job Loss is a "Genuine Hardship"</h3>
               <p className="text-lg leading-relaxed mb-6">
                 Lenders categorize defaulters into two groups: <strong>Willful Defaulters</strong> (those who have money but won't pay) and <strong>Genuine Hardship Cases</strong> (those who want to pay but can't). Job loss is the ultimate proof of genuine hardship.
               </p>
@@ -320,7 +320,7 @@ export default function JobLossLoanPage() {
                 When you go to a bank and say, "I don't have a job and can't pay my EMI," you must back it up with documentation. This changes the conversation from "Why are you hiding?" to "How can we resolve this asset?" Banks would rather have 50% of the money now than 0% of the money over 10 years of court cases.
               </p>
               <div className="bg-red-50 p-6 rounded-2xl border-l-8 border-red-500 mb-8">
-                <h3 className="font-black text-red-900 mb-2 uppercase text-sm">Critical Warning</h3>
+                <h4 className="font-black text-red-900 mb-2 uppercase text-sm">Critical Warning</h4>
                 <p className="text-red-800">
                   Do not lie about your employment status. If you are working and claim you are jobless, you could be flagged for fraud. Honesty is your biggest legal weapon in debt negotiation.
                 </p>
@@ -328,7 +328,7 @@ export default function JobLossLoanPage() {
             </section>
 
             <section id="rbi-guidelines" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl font-black text-[#2E2E2E] mb-8">RBI Guidelines 2025: Protection for the Unemployed</h2>
+              <h3 className="text-3xl font-black text-[#2E2E2E] mb-8">RBI Guidelines 2025: Protection for the Unemployed</h3>
               <p className="text-lg leading-relaxed mb-6">
                 The RBI Master Circular of 2024 and 2025 has tightened the leash on recovery practices. For someone who is unemployed, the RBI suggests that banks should be empathetic and explore options like restructuring or One-Time Settlements before escalating to litigation.
               </p>
@@ -349,12 +349,12 @@ export default function JobLossLoanPage() {
             </section>
 
             <section id="handling-agents" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl font-black text-[#2E2E2E] mb-8">The Professional Way to Handle Recovery Agents</h2>
+              <h3 className="text-3xl font-black text-[#2E2E2E] mb-8">The Professional Way to Handle Recovery Agents</h3>
               <p className="text-lg leading-relaxed mb-6 text-gray-700">
                 When the recovery agent calls, your pulse rises. But remember, they are just employees following a script. You need a better script.
               </p>
               <div className="bg-gray-50 border border-gray-200 rounded-3xl p-8 mb-10">
-                <h3 className="text-xl font-bold mb-6 text-[#2E2E2E]">The "Hardship Protocol" Response:</h3>
+                <h4 className="text-xl font-bold mb-6 text-[#2E2E2E]">The "Hardship Protocol" Response:</h4>
                 <ol className="space-y-6">
                   <li className="flex gap-4">
                     <span className="flex-shrink-0 w-8 h-8 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center font-bold">1</span>
@@ -382,41 +382,41 @@ export default function JobLossLoanPage() {
             </section>
 
             <section id="settlement-process" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl font-black text-[#2E2E2E] mb-8 text-[#1F5EFF]">The 5-Step Path to Loan Settlement</h2>
+              <h3 className="text-3xl font-black text-[#2E2E2E] mb-8 text-[#1F5EFF]">The 5-Step Path to Loan Settlement</h3>
               <p className="text-lg leading-relaxed mb-8">
                 If you have no job, your goal should be to close the debt for as little as possible so you don't carry the burden into your next job. This process is called One-Time Settlement (OTS).
               </p>
               <div className="space-y-10">
                 <div className="relative pl-10 border-l-2 border-[#1F5EFF]/20">
                   <div className="absolute -left-[11px] top-0 w-5 h-5 rounded-full bg-[#1F5EFF] border-4 border-white"></div>
-                  <h3 className="text-2xl font-black mb-2">Step 1: The NPA Phase</h3>
+                  <h4 className="text-2xl font-black mb-2">Step 1: The NPA Phase</h4>
                   <p className="text-gray-600 leading-relaxed">Most banks won't settle until the loan is 90 days overdue. This is when it becomes an NPA. It sounds scary, but this is your leverage. This is where the bank's internal pressure to resolve the account peaks.</p>
                 </div>
                 <div className="relative pl-10 border-l-2 border-[#1F5EFF]/20">
                   <div className="absolute -left-[11px] top-0 w-5 h-5 rounded-full bg-[#1F5EFF] border-4 border-white"></div>
-                  <h4 className="text-2xl font-black mb-2">Step 2: Analysis & Budget</h4>
+                  <h5 className="text-2xl font-black mb-2">Step 2: Analysis & Budget</h5>
                   <p className="text-gray-600 leading-relaxed">Calculate what you can realistically afford. Can you gather 30% of the principal from a relative? Can you sell an old asset? You need a "bullet" amount to fire at the bank during negotiation.</p>
                 </div>
                 <div className="relative pl-10 border-l-2 border-[#1F5EFF]/20">
                   <div className="absolute -left-[11px] top-0 w-5 h-5 rounded-full bg-[#1F5EFF] border-4 border-white"></div>
-                  <h4 className="text-2xl font-black mb-2">Step 3: The Offer Letter</h4>
+                  <h5 className="text-2xl font-black mb-2">Step 3: The Offer Letter</h5>
                   <p className="text-gray-600 leading-relaxed">We help you draft a professional hardship letter that outlines why you can't pay and why this specific amount is the ONLY way the bank will get any money. We attach your termination letter as proof.</p>
                 </div>
                 <div className="relative pl-10 border-l-2 border-[#1F5EFF]/20">
                   <div className="absolute -left-[11px] top-0 w-5 h-5 rounded-full bg-[#1F5EFF] border-4 border-white"></div>
-                  <h4 className="text-2xl font-black mb-2">Step 4: Negotiation</h4>
+                  <h5 className="text-2xl font-black mb-2">Step 4: Negotiation</h5>
                   <p className="text-gray-600 leading-relaxed">The bank will counter-offer. They might say 70%, we say 40%. This back-and-forth requires patience. We handle this for you so you don't get emotional or cave into pressure.</p>
                 </div>
                 <div className="relative pl-10 border-l-2 border-[#1F5EFF]/20">
                   <div className="absolute -left-[11px] top-0 w-5 h-5 rounded-full bg-[#1F5EFF] border-4 border-white"></div>
-                  <h4 className="text-2xl font-black mb-2">Step 5: Settlement Letter & NDC</h4>
+                  <h5 className="text-2xl font-black mb-2">Step 5: Settlement Letter & NDC</h5>
                   <p className="text-gray-600 leading-relaxed"><strong>MOST IMPORTANT STEP:</strong> Never pay a single rupee until you have a formal 'Settlement Letter' on the bank's official letterhead. Once paid, get your 'No Dues Certificate'. Now, you are free.</p>
                 </div>
               </div>
             </section>
 
             <section id="legal-timeline" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl font-black text-[#2E2E2E] mb-8">Legal Escalation: What Really Happens?</h2>
+              <h3 className="text-3xl font-black text-[#2E2E2E] mb-8">Legal Escalation: What Really Happens?</h3>
               <p className="text-lg leading-relaxed mb-8">
                 Fear of the police is common, so let's clarify. If you don't have a job and can't pay your personal loan or credit card, here is the real legal timeline:
               </p>
@@ -457,7 +457,7 @@ export default function JobLossLoanPage() {
             </section>
 
             <section id="documenting-hardship" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl font-black text-[#2E2E2E] mb-8">How to Document Your Financial Hardship</h2>
+              <h3 className="text-3xl font-black text-[#2E2E2E] mb-8">How to Document Your Financial Hardship</h3>
               <p className="text-lg leading-relaxed mb-6">
                 To win a settlement, you need a "Hardship File". This is a collection of documents that make it impossible for the bank to demand the full amount.
               </p>
@@ -482,12 +482,12 @@ export default function JobLossLoanPage() {
             </section>
 
             <section id="credit-score" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl font-black text-[#2E2E2E] mb-8">The Truth About Your CIBIL Score</h2>
+              <h3 className="text-3xl font-black text-[#2E2E2E] mb-8">The Truth About Your CIBIL Score</h3>
               <p className="text-lg leading-relaxed mb-6 text-gray-700">
                 You might be worried that settlement will "ruin" your credit score. Let's be honest: <strong>If you haven't paid your EMI for 2 months, your score is already dropping.</strong>
               </p>
               <div className="bg-white border border-gray-100 shadow-xl rounded-3xl p-8 mb-10">
-                <h3 className="text-xl font-bold mb-4">Settlement vs. Default</h3>
+                <h4 className="text-xl font-bold mb-4">Settlement vs. Default</h4>
                 <p className="mb-6">An 'Open Default' (unpaid loan) is like an active wound. It keeps bleeding your score every month. A 'Settlement' is like a bandage. It leaves a scar, but the bleeding stops.</p>
                 <div className="flex flex-col md:flex-row gap-8">
                   <div className="flex-1 text-center">
@@ -507,28 +507,28 @@ export default function JobLossLoanPage() {
             </section>
 
             <section id="alternatives" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl font-black text-[#2E2E2E] mb-8">Better Alternatives Before Settling</h2>
+              <h3 className="text-3xl font-black text-[#2E2E2E] mb-8">Better Alternatives Before Settling</h3>
               <p className="text-lg leading-relaxed mb-8">
                 Always try these three options before settling. We guide our clients through this checklist first:
               </p>
               <div className="space-y-6">
                 <div className="p-6 bg-emerald-50 rounded-2xl">
-                  <h3 className="font-bold text-emerald-900 mb-2">Option A: EMI Moratorium</h3>
+                  <h4 className="font-bold text-emerald-900 mb-2">Option A: EMI Moratorium</h4>
                   <p className="text-sm text-emerald-800">Ask the bank for a 3 to 6-month pause. If you have a clean record and just lost your job, many private banks will agree to help you till you find a new role.</p>
                 </div>
                 <div className="p-6 bg-amber-50 rounded-2xl">
-                  <h4 className="font-bold text-amber-900 mb-2">Option B: Loan Restructuring</h4>
+                  <h5 className="font-bold text-amber-900 mb-2">Option B: Loan Restructuring</h5>
                   <p className="text-sm text-amber-800">Increase the loan tenure from 3 to 5 years. This will reduce the monthly EMI amount, making it easier to manage with small freelance income or savings.</p>
                 </div>
                 <div className="p-6 bg-blue-50 rounded-2xl">
-                  <h4 className="font-bold text-blue-900 mb-2">Option C: Asset Liquidation</h4>
+                  <h5 className="font-bold text-blue-900 mb-2">Option C: Asset Liquidation</h5>
                   <p className="text-sm text-blue-800">Gold loans are a common way to pay off high-interest credit cards. Selling an unused asset (old car, gadgets) can sometimes bridge the gap to full closure.</p>
                 </div>
               </div>
             </section>
 
             <section id="why-settle" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl font-black text-[#2E2E2E] mb-8">Why Professional Debt Settlement is the Best Choice</h2>
+              <h3 className="text-3xl font-black text-[#2E2E2E] mb-8">Why Professional Debt Settlement is the Best Choice</h3>
               <p className="text-lg leading-relaxed mb-6">
                 Negotiating with a multi-billion dollar bank while you are unemployed and stressed is a losing battle. They have thousands of agents; you only have yourself. This is where SettleLoans comes in.
               </p>
@@ -553,7 +553,7 @@ export default function JobLossLoanPage() {
             </section>
 
             <section id="rebuilding" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl font-black text-[#2E2E2E] mb-8">Life After Debt: Rebuilding Your Credit</h2>
+              <h3 className="text-3xl font-black text-[#2E2E2E] mb-8">Life After Debt: Rebuilding Your Credit</h3>
               <p className="text-lg leading-relaxed mb-6 text-gray-700">
                 Once you find a new job and your debt is settled, you must start the 'Repair Phase'.
               </p>
@@ -568,7 +568,7 @@ export default function JobLossLoanPage() {
 
             {/* Reviews Section */}
             <section id="reviews" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-12 text-center">Real Stories from Borrowers Who Lost Their Jobs</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-12 text-center">Real Stories from Borrowers Who Lost Their Jobs</h3>
               <div className="grid md:grid-cols-2 gap-8 not-prose">
                 {[
                   { 
@@ -606,7 +606,7 @@ export default function JobLossLoanPage() {
                         {review.name.charAt(0)}
                       </div>
                       <div>
-                        <h3 className="font-extrabold text-[#2E2E2E]">{review.name}</h3>
+                        <h4 className="font-extrabold text-[#2E2E2E]">{review.name}</h4>
                         <p className="text-xs text-gray-500 font-bold uppercase tracking-widest">{review.loc}</p>
                       </div>
                       <div className="ml-auto flex text-yellow-400">
@@ -625,7 +625,7 @@ export default function JobLossLoanPage() {
 
             {/* FAQs Section */}
             <section id="faqs" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-12">General Queries on Job Loss & EMI</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-12">General Queries on Job Loss & EMI</h3>
               <div className="space-y-4 not-prose">
                 {jsonLd["@graph"][4]?.mainEntity?.map((faq: any, i: number) => (
                   <details key={i} className="group bg-white border border-[#DEDEDE] rounded-2xl overflow-hidden hover:shadow-md transition-all duration-300">
@@ -652,7 +652,7 @@ export default function JobLossLoanPage() {
             {/* Final CTA in Middle Container */}
             <div className="mt-16 p-10 bg-[#2E2E2E] rounded-[32px] text-center text-white relative overflow-hidden">
                <div className="relative z-10">
-                  <h3 className="text-3xl font-black mb-4">Don't Suffer in Silence</h3>
+                  <h4 className="text-3xl font-black mb-4">Don't Suffer in Silence</h4>
                   <p className="text-[#DEDEDE]/80 mb-8 max-w-lg mx-auto">Our consultation is 100% confidential. Let us build your legal shield today.</p>
                   <Link href="/contact" className="inline-block bg-[#1F5EFF] text-white font-black py-4 px-10 rounded-[12px] hover:scale-105 transition-all shadow-xl">
                     Get a Free Debt Analysis

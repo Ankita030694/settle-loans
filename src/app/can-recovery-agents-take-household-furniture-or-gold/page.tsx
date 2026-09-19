@@ -508,7 +508,7 @@ export default function CanRecoveryAgentsTakeHouseholdFurnitureOrGoldPage() {
 
             {/* Section 2: Statutory Framework & Section 60 CPC */}
             <section id="statutory-framework-cpc-section-60" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">2. Section 60 CPC Property Protections</h2>
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">2. Section 60 CPC Property Protections</h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Even if a bank wins a court lawsuit, Indian law protects families. The key shield is Section 60 of the Code of Civil Procedure, 1908 (CPC). This section governs property attachment during court execution.
               </p>
@@ -517,10 +517,10 @@ export default function CanRecoveryAgentsTakeHouseholdFurnitureOrGoldPage() {
               </p>
               
               <div className="bg-slate-50 border border-slate-200 rounded-2xl p-5 my-4 space-y-4">
-                <h3 className="text-xs sm:text-sm font-bold text-slate-900 uppercase tracking-wider flex items-center gap-2">
+                <h4 className="text-xs sm:text-sm font-bold text-slate-900 uppercase tracking-wider flex items-center gap-2">
                   <Scale className="w-4 h-4 text-[#1F5EFF]" />
                   <span>Statutory Exemptions Under Section 60(1) Provisos (Code of Civil Procedure, 1908)</span>
-                </h3>
+                </h4>
                 <div className="space-y-3 text-xs sm:text-sm text-slate-700">
                   <div className="p-3.5 bg-white rounded-xl border border-slate-200">
                     <p className="font-bold text-slate-900">Proviso (a): Wearing Apparel, Cooking Utensils &amp; Bedding</p>
@@ -556,7 +556,7 @@ export default function CanRecoveryAgentsTakeHouseholdFurnitureOrGoldPage() {
 
             {/* Section 3: SARFAESI Act vs Unsecured Debt Limits */}
             <section id="sarfaesi-act-unsecured-debt-limits" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">3. The SARFAESI Act vs. Unsecured Debt</h2>
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">3. The SARFAESI Act vs. Unsecured Debt</h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Recovery agents often use confusing terms to scare borrowers. They show letters quoting the SARFAESI Act, 2002. Agents claim that under SARFAESI rules, the bank can take your home and auction furniture without a court order.
               </p>
@@ -567,10 +567,10 @@ export default function CanRecoveryAgentsTakeHouseholdFurnitureOrGoldPage() {
                 Personal loans and cards are unsecured. The bank holds no charge over household items. Using SARFAESI notices for unsecured debt is illegal. Agents making such threats break banking rules.
               </p>
               <div className="bg-slate-50 border border-slate-200 rounded-2xl p-5 my-4">
-                <h3 className="font-bold text-slate-900 text-sm mb-2 flex items-center gap-2">
+                <h4 className="font-bold text-slate-900 text-sm mb-2 flex items-center gap-2">
                   <ShieldX className="w-4 h-4 text-red-500" />
                   <span>Key Distinctions: Secured Repossession vs. Unsecured Recovery</span>
-                </h3>
+                </h4>
                 <div className="grid grid-cols-1 sm:grid-cols-2 gap-3 text-xs text-slate-700 mt-3">
                   <div className="p-3 bg-white rounded-xl border border-slate-200">
                     <p className="font-bold text-slate-900 mb-1">Secured Loans (Home / Auto Loans)</p>
@@ -586,7 +586,7 @@ export default function CanRecoveryAgentsTakeHouseholdFurnitureOrGoldPage() {
 
             {/* Section 4: Bank Balance Sheet Accounting & The NPV Recovery Formula */}
             <section id="bank-npa-accounting-npv-formula" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">4. Bank NPA Accounting &amp; Seizure Economics</h2>
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">4. Bank NPA Accounting &amp; Seizure Economics</h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Why do recovery agencies make false threats instead of going to court? The answer lies in bank balance sheets. Under RBI rules, unpaid loans turn into Non-Performing Assets (NPAs) after 90 days.
               </p>
@@ -641,26 +641,26 @@ export default function CanRecoveryAgentsTakeHouseholdFurnitureOrGoldPage() {
 
             {/* Section 6: Criminal Penalties for Illegal Recovery Agent Actions */}
             <section id="criminal-countermeasures-illegal-threats" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">6. Criminal Countermeasures &amp; Penal Remedies</h2>
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">6. Criminal Countermeasures &amp; Penal Remedies</h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Entering a home without consent or threatening to take goods is a crime. Under the Bharatiya Nyaya Sanhita (BNS) and IPC, such acts trigger criminal charges:
               </p>
               
               <div className="grid grid-cols-1 sm:grid-cols-2 gap-3 my-4">
                 <div className="p-4 bg-slate-50 border border-slate-200 rounded-xl">
-                  <h3 className="font-bold text-slate-900 text-xs sm:text-sm mb-1">Section 329 BNS (Section 441 IPC: Trespass)</h3>
+                  <h4 className="font-bold text-slate-900 text-xs sm:text-sm mb-1">Section 329 BNS (Section 441 IPC: Trespass)</h4>
                   <p className="text-xs text-slate-600">Entering without consent to threaten or insult is criminal trespass. It carries jail time.</p>
                 </div>
                 <div className="p-4 bg-slate-50 border border-slate-200 rounded-xl">
-                  <h4 className="font-bold text-slate-900 text-xs sm:text-sm mb-1">Section 308 BNS (Section 383 IPC: Extortion)</h4>
+                  <h5 className="font-bold text-slate-900 text-xs sm:text-sm mb-1">Section 308 BNS (Section 383 IPC: Extortion)</h5>
                   <p className="text-xs text-slate-600">Using fear of public shame or loss of goods to force payment is extortion.</p>
                 </div>
                 <div className="p-4 bg-slate-50 border border-slate-200 rounded-xl">
-                  <h4 className="font-bold text-slate-900 text-xs sm:text-sm mb-1">Section 351 BNS (Section 503 IPC: Intimidation)</h4>
+                  <h5 className="font-bold text-slate-900 text-xs sm:text-sm mb-1">Section 351 BNS (Section 503 IPC: Intimidation)</h5>
                   <p className="text-xs text-slate-600">Threats to your person, name, or home to force payment constitute intimidation.</p>
                 </div>
                 <div className="p-4 bg-slate-50 border border-slate-200 rounded-xl">
-                  <h4 className="font-bold text-slate-900 text-xs sm:text-sm mb-1">RBI Master Directions on Outsourcing</h4>
+                  <h5 className="font-bold text-slate-900 text-xs sm:text-sm mb-1">RBI Master Directions on Outsourcing</h5>
                   <p className="text-xs text-slate-600">The RBI holds banks liable for agent actions. The Ombudsman can order compensation up to ₹20 Lakhs.</p>
                 </div>
               </div>
@@ -675,7 +675,7 @@ export default function CanRecoveryAgentsTakeHouseholdFurnitureOrGoldPage() {
 
             {/* Section 7: Civil Court Execution Realities */}
             <section id="civil-court-execution-reality" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">7. Civil Court Execution Realities for Assets</h2>
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">7. Civil Court Execution Realities for Assets</h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 How does a real court attachment work in India? A bank cannot get a property attachment order overnight. The process under the Code of Civil Procedure, 1908 involves 5 slow stages:
               </p>
@@ -716,7 +716,7 @@ export default function CanRecoveryAgentsTakeHouseholdFurnitureOrGoldPage() {
 
             {/* Section 8: Direct OTS Settlement Protocols */}
             <section id="settlement-negotiation-ndc-cibil" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">8. OTS Settlement &amp; NDC for Unsecured Debt</h2>
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">8. OTS Settlement &amp; NDC for Unsecured Debt</h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Never make cash or UPI payments to agents. Agents may say, &quot;Pay ₹30,000 today and we will not bring the truck.&quot; But cash is often lost. The bank marks it as penal interest. Harassment resumes next month.
               </p>
@@ -752,7 +752,7 @@ export default function CanRecoveryAgentsTakeHouseholdFurnitureOrGoldPage() {
 
             {/* Section 9: Comparative Legal Matrix */}
             <section id="asset-protection-comparative-matrix" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">9. Asset Seizure &amp; Property Protection Matrix</h2>
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">9. Asset Seizure &amp; Property Protection Matrix</h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 The comparative matrix below details legal limits, authority, and borrower protections across recovery channels in India:
               </p>
@@ -812,7 +812,7 @@ export default function CanRecoveryAgentsTakeHouseholdFurnitureOrGoldPage() {
             {/* Section 10: SettleLoans Legal Defense Framework */}
             <section id="settleloans-legal-defense-framework" className="space-y-6">
               <div className="border-t border-slate-200 pt-8 space-y-4">
-                <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">10. SettleLoans Asset Seizure Defense</h2>
+                <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">10. SettleLoans Asset Seizure Defense</h3>
                 <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                   Living in fear of debt agents is stressful. At SettleLoans, our team defends borrowers across India. We enforce rights under Section 60 CPC and RBI rules. We send Cease-and-Desist notices to stop harassment. We then negotiate 40% to 65% OTS waivers and No Dues Certificates.
                 </p>
@@ -826,7 +826,7 @@ export default function CanRecoveryAgentsTakeHouseholdFurnitureOrGoldPage() {
             <section id="faqs" className="space-y-4 border-t border-slate-200 pt-8">
               <div className="flex items-center gap-2 mb-2">
                 <HelpCircle className="w-5 h-5 text-[#1F5EFF]" />
-                <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">11. FAQs: Can Agents Take Household Goods or Gold?</h2>
+                <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">11. FAQs: Can Agents Take Household Goods or Gold?</h3>
               </div>
               <p className="text-xs sm:text-sm text-slate-600 mb-6">
                 Clear answers on recovery agent limits, property attachment rules, Section 60 CPC exemptions, and borrower defense.
@@ -856,9 +856,9 @@ export default function CanRecoveryAgentsTakeHouseholdFurnitureOrGoldPage() {
 
             {/* 5 Official Regulatory Links */}
             <section className="border-t border-slate-200 pt-8 mb-4">
-              <h3 className="text-xs sm:text-sm font-bold text-slate-900 mb-3 uppercase tracking-wider">
+              <h4 className="text-xs sm:text-sm font-bold text-slate-900 mb-3 uppercase tracking-wider">
                 Official Statutory &amp; Regulatory References
-              </h3>
+              </h4>
               <div className="grid grid-cols-1 sm:grid-cols-2 gap-2.5 text-xs">
                 <a
                   href="https://indiacode.gov.in/handle/123456789/2191"
@@ -910,9 +910,9 @@ export default function CanRecoveryAgentsTakeHouseholdFurnitureOrGoldPage() {
 
             {/* 10 Related Guide Badges */}
             <section className="border-t border-slate-200 pt-8 mb-8">
-              <h3 className="text-xs sm:text-sm font-bold text-slate-900 mb-4 uppercase tracking-wider">
+              <h4 className="text-xs sm:text-sm font-bold text-slate-900 mb-4 uppercase tracking-wider">
                 Related Legal Defense &amp; Loan Settlement Guides
-              </h3>
+              </h4>
               <div className="flex flex-wrap gap-2">
                 <Link
                   href="/bank-recovery-agent-threatening-me"

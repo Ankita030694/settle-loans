@@ -609,10 +609,10 @@ export default function PersonalLoanSettlementNagpurPage() {
 
             {/* Section 2 */}
             <section id="delinquency-timeline-npa-nagpur" className="scroll-mt-24 space-y-4">
-              <h2 className="text-xl sm:text-2xl font-black text-slate-900 tracking-tight flex items-center gap-2.5">
+              <h3 className="text-xl sm:text-2xl font-black text-slate-900 tracking-tight flex items-center gap-2.5">
                 <TrendingUp className="w-6 h-6 text-[#1F5EFF]" />
                 <span>2. Delinquency Timeline &amp; NPA Mechanics</span>
-              </h2>
+              </h3>
               <p>
                 Knowing how banks classify overdue loans helps you time settlement talks. Under RBI rules, unpaid loans move through SMA stages. At 90 days, they turn into NPAs.
               </p>
@@ -643,10 +643,10 @@ export default function PersonalLoanSettlementNagpurPage() {
 
             {/* Section 3 */}
             <section id="anti-harassment-nach-protection" className="scroll-mt-24 space-y-4">
-              <h2 className="text-xl sm:text-2xl font-black text-slate-900 tracking-tight flex items-center gap-2.5">
+              <h3 className="text-xl sm:text-2xl font-black text-slate-900 tracking-tight flex items-center gap-2.5">
                 <ShieldAlert className="w-6 h-6 text-[#1F5EFF]" />
                 <span>3. Borrower Legal Protections in Nagpur</span>
-              </h2>
+              </h3>
               <p>
                 Many borrowers in Nagpur face aggressive recovery tactics. Agents visit MIHAN offices or Sitabuldi shops. They visit homes in Dharampeth. Loan default is a civil matter under the Indian Contract Act, 1872. It is not a crime.
               </p>
@@ -677,10 +677,10 @@ export default function PersonalLoanSettlementNagpurPage() {
 
             {/* Section 4 */}
             <section id="rbi-ots-npv-valuation" className="scroll-mt-24 space-y-4">
-              <h2 className="text-xl sm:text-2xl font-black text-slate-900 tracking-tight flex items-center gap-2.5">
+              <h3 className="text-xl sm:text-2xl font-black text-slate-900 tracking-tight flex items-center gap-2.5">
                 <Calculator className="w-6 h-6 text-[#1F5EFF]" />
                 <span>4. NPV Valuation &amp; OTS Haircuts in Nagpur</span>
-              </h2>
+              </h3>
               <p>
                 One-Time Settlements follow the RBI Master Direction of June 2023. Bank credit committees do not act on emotion. They use Net Present Value (NPV) financial recovery models.
               </p>
@@ -712,10 +712,10 @@ export default function PersonalLoanSettlementNagpurPage() {
 
             {/* Section 5: Infographic Banner */}
             <section id="infographic-resolution-blueprint" className="scroll-mt-24 space-y-4">
-              <h2 className="text-xl sm:text-2xl font-black text-slate-900 tracking-tight flex items-center gap-2.5">
+              <h3 className="text-xl sm:text-2xl font-black text-slate-900 tracking-tight flex items-center gap-2.5">
                 <Layers className="w-6 h-6 text-[#1F5EFF]" />
                 <span>5. Visual Resolution Roadmap in Nagpur</span>
-              </h2>
+              </h3>
               <p>
                 The roadmap below shows 5 settlement steps. Learn how to settle debt in Nagpur. Learn how to handle notices, negotiate with SARB desks, and secure an NDC:
               </p>
@@ -743,10 +743,10 @@ export default function PersonalLoanSettlementNagpurPage() {
 
             {/* Section 6 */}
             <section id="nagpur-court-defense-jmfc" className="scroll-mt-24 space-y-4">
-              <h2 className="text-xl sm:text-2xl font-black text-slate-900 tracking-tight flex items-center gap-2.5">
+              <h3 className="text-xl sm:text-2xl font-black text-slate-900 tracking-tight flex items-center gap-2.5">
                 <Gavel className="w-6 h-6 text-[#1F5EFF]" />
                 <span>6. Judicial Defense in Nagpur District Courts</span>
-              </h2>
+              </h3>
               <p>
                 When defaults exceed 120 days, lenders take legal steps. In Nagpur, banks file cases before the JMFC at Nyay Mandir.
               </p>
@@ -755,19 +755,19 @@ export default function PersonalLoanSettlementNagpurPage() {
               </p>
               <div className="space-y-3 my-4">
                 <div className="border border-slate-200 rounded-xl p-4 bg-slate-50">
-                  <h3 className="font-bold text-slate-900 text-sm flex items-center gap-2">
+                  <h4 className="font-bold text-slate-900 text-sm flex items-center gap-2">
                     <Scale className="w-4 h-4 text-[#1F5EFF]" />
                     <span>Section 138 of the Negotiable Instruments Act, 1881 (Cheque Dishonour)</span>
-                  </h3>
+                  </h4>
                   <p className="text-xs sm:text-sm text-slate-600 mt-1">
                     If a cheque bounces, the lender sends a 15-day notice. Then, they file a criminal complaint. Our advocates file a Vakalatnama and secure bail. We challenge court jurisdiction. We apply for Lok Adalat transfer under Section 147.
                   </p>
                 </div>
                 <div className="border border-slate-200 rounded-xl p-4 bg-slate-50">
-                  <h4 className="font-bold text-slate-900 text-sm flex items-center gap-2">
+                  <h5 className="font-bold text-slate-900 text-sm flex items-center gap-2">
                     <FileText className="w-4 h-4 text-[#1F5EFF]" />
                     <span>Section 25 of the Payment and Settlement Systems Act, 2007 (Electronic Mandate Dishonour)</span>
-                  </h4>
+                  </h5>
                   <p className="text-xs sm:text-sm text-slate-600 mt-1">
                     When NACH auto-debits bounce, lenders file Section 25 PSSA complaints. We prove lack of criminal intent. We document financial distress. We guide your case to a compromise settlement.
                   </p>
@@ -783,10 +783,10 @@ export default function PersonalLoanSettlementNagpurPage() {
 
             {/* Section 7 */}
             <section id="nagpur-lok-adalat-representation" className="scroll-mt-24 space-y-4">
-              <h2 className="text-xl sm:text-2xl font-black text-slate-900 tracking-tight flex items-center gap-2.5">
+              <h3 className="text-xl sm:text-2xl font-black text-slate-900 tracking-tight flex items-center gap-2.5">
                 <Landmark className="w-6 h-6 text-[#1F5EFF]" />
                 <span>7. Nagpur District Legal Services Authority DLSA Lok Adalat</span>
-              </h2>
+              </h3>
               <p>
                 Nagpur DLSA holds regular Lok Adalats. Benches sit at Nyay Mandir in Civil Lines. Under MSLSA and NALSA rules, Lok Adalat is the safest settlement path.
               </p>
@@ -809,10 +809,10 @@ export default function PersonalLoanSettlementNagpurPage() {
 
             {/* Section 8 */}
             <section id="step-by-step-settlement-roadmap" className="scroll-mt-24 space-y-4">
-              <h2 className="text-xl sm:text-2xl font-black text-slate-900 tracking-tight flex items-center gap-2.5">
+              <h3 className="text-xl sm:text-2xl font-black text-slate-900 tracking-tight flex items-center gap-2.5">
                 <Clock className="w-6 h-6 text-[#1F5EFF]" />
                 <span>8. 5-Stage Settlement Protocol in Nagpur</span>
-              </h2>
+              </h3>
               <p>
                 Settling bank loans requires a structured 5-stage legal protocol:
               </p>
@@ -820,35 +820,35 @@ export default function PersonalLoanSettlementNagpurPage() {
                 <div className="flex gap-4 items-start">
                   <div className="w-8 h-8 rounded-full bg-[#1F5EFF] text-white font-bold flex items-center justify-center text-sm flex-shrink-0 mt-0.5">1</div>
                   <div>
-                    <h3 className="font-bold text-slate-900 text-base">Stage 1: Forensic Financial &amp; Debt Audit</h3>
+                    <h4 className="font-bold text-slate-900 text-base">Stage 1: Forensic Financial &amp; Debt Audit</h4>
                     <p className="text-sm text-slate-600 mt-1">We audit loan statements and penal charges. We check NACH bounce fees to find true baseline debt.</p>
                   </div>
                 </div>
                 <div className="flex gap-4 items-start">
                   <div className="w-8 h-8 rounded-full bg-[#1F5EFF] text-white font-bold flex items-center justify-center text-sm flex-shrink-0 mt-0.5">2</div>
                   <div>
-                    <h4 className="font-bold text-slate-900 text-base">Stage 2: Cease-and-Desist Notice &amp; Legal Insulation</h4>
+                    <h5 className="font-bold text-slate-900 text-base">Stage 2: Cease-and-Desist Notice &amp; Legal Insulation</h5>
                     <p className="text-sm text-slate-600 mt-1">We issue formal legal notices to bank nodal officers. This halts recovery calls and routes all talks through our office.</p>
                   </div>
                 </div>
                 <div className="flex gap-4 items-start">
                   <div className="w-8 h-8 rounded-full bg-[#1F5EFF] text-white font-bold flex items-center justify-center text-sm flex-shrink-0 mt-0.5">3</div>
                   <div>
-                    <h4 className="font-bold text-slate-900 text-base">Stage 3: Direct SARB &amp; Credit Committee Negotiations</h4>
+                    <h5 className="font-bold text-slate-900 text-base">Stage 3: Direct SARB &amp; Credit Committee Negotiations</h5>
                     <p className="text-sm text-slate-600 mt-1">Our advocates negotiate directly with bank SARB wings in Nagpur. We use hardship evidence to secure 40% to 70% principal waivers.</p>
                   </div>
                 </div>
                 <div className="flex gap-4 items-start">
                   <div className="w-8 h-8 rounded-full bg-[#1F5EFF] text-white font-bold flex items-center justify-center text-sm flex-shrink-0 mt-0.5">4</div>
                   <div>
-                    <h4 className="font-bold text-slate-900 text-base">Stage 4: Stamped Sanction Letter Audit &amp; Direct Remittance</h4>
+                    <h5 className="font-bold text-slate-900 text-base">Stage 4: Stamped Sanction Letter Audit &amp; Direct Remittance</h5>
                     <p className="text-sm text-slate-600 mt-1">We audit the OTS sanction letter for complete legal validity. You pay directly into your official loan account via RTGS/NEFT.</p>
                   </div>
                 </div>
                 <div className="flex gap-4 items-start">
                   <div className="w-8 h-8 rounded-full bg-[#1F5EFF] text-white font-bold flex items-center justify-center text-sm flex-shrink-0 mt-0.5">5</div>
                   <div>
-                    <h4 className="font-bold text-slate-900 text-base">Stage 5: ₹0 No Dues Certificate &amp; Credit Bureau Updation</h4>
+                    <h5 className="font-bold text-slate-900 text-base">Stage 5: ₹0 No Dues Certificate &amp; Credit Bureau Updation</h5>
                     <p className="text-sm text-slate-600 mt-1">We secure your ₹0 NDC in 30 days. This follows RBI rules. We verify credit bureau zero-balance updates.</p>
                   </div>
                 </div>
@@ -860,10 +860,10 @@ export default function PersonalLoanSettlementNagpurPage() {
 
             {/* Section 9 */}
             <section id="sanction-letter-audit-ndc" className="scroll-mt-24 space-y-4">
-              <h2 className="text-xl sm:text-2xl font-black text-slate-900 tracking-tight flex items-center gap-2.5">
+              <h3 className="text-xl sm:text-2xl font-black text-slate-900 tracking-tight flex items-center gap-2.5">
                 <FileCheck className="w-6 h-6 text-[#1F5EFF]" />
                 <span>9. Forensic Audit of OTS Letters in Nagpur</span>
-              </h2>
+              </h3>
               <p>
                 Never pay recovery agents on verbal promises. Fake settlement letters are common. SettleLoans audits every document before you pay.
               </p>
@@ -897,10 +897,10 @@ export default function PersonalLoanSettlementNagpurPage() {
 
             {/* Section 10 */}
             <section id="cibil-score-rehabilitation-nagpur" className="scroll-mt-24 space-y-4">
-              <h2 className="text-xl sm:text-2xl font-black text-slate-900 tracking-tight flex items-center gap-2.5">
+              <h3 className="text-xl sm:text-2xl font-black text-slate-900 tracking-tight flex items-center gap-2.5">
                 <TrendingUp className="w-6 h-6 text-[#1F5EFF]" />
                 <span>10. CIBIL Score Rehabilitation in Nagpur</span>
-              </h2>
+              </h3>
               <p>
                 Credit bureaus record settled accounts as &quot;Settled&quot; with ₹0 balance. This stops monthly default marks.
               </p>
@@ -928,10 +928,10 @@ export default function PersonalLoanSettlementNagpurPage() {
 
             {/* Section 11: Comparative Matrix Table */}
             <section id="nagpur-debt-matrix" className="scroll-mt-24 space-y-4">
-              <h2 className="text-xl sm:text-2xl font-black text-slate-900 tracking-tight flex items-center gap-2.5">
+              <h3 className="text-xl sm:text-2xl font-black text-slate-900 tracking-tight flex items-center gap-2.5">
                 <Scale className="w-6 h-6 text-[#1F5EFF]" />
                 <span>11. Nagpur Debt Resolution Matrix</span>
-              </h2>
+              </h3>
               <p>
                 Compare debt categories, legal forums, and expected OTS waiver ranges in Nagpur:
               </p>
@@ -989,10 +989,10 @@ export default function PersonalLoanSettlementNagpurPage() {
 
             {/* Section 12: Company Resolution Section */}
             <section id="company-resolution-section" className="scroll-mt-24 space-y-4">
-              <h2 className="text-xl sm:text-2xl font-black text-slate-900 tracking-tight flex items-center gap-2.5">
+              <h3 className="text-xl sm:text-2xl font-black text-slate-900 tracking-tight flex items-center gap-2.5">
                 <Shield className="w-6 h-6 text-[#1F5EFF]" />
                 <span>12. SettleLoans Legal Defense in Nagpur</span>
-              </h2>
+              </h3>
               <p>
                 SettleLoans is India's premier debt defense advisory. Our Nagpur team brings deep SARB and Nyay Mandir court defense experience. We helped 1,200+ borrowers stop harassment. We secured major OTS savings.
               </p>
@@ -1006,9 +1006,9 @@ export default function PersonalLoanSettlementNagpurPage() {
                   <Gavel className="w-4 h-4" />
                   <span>Local Legal Jurisdiction &amp; Legal Aid Directory</span>
                 </div>
-                <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+                <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                   District Courts &amp; DLSA Helpdesk in Nagpur
-                </h2>
+                </h3>
                 <p className="text-slate-700 leading-relaxed mb-6 text-base">
                   Distressed borrowers facing recovery pressure, arbitration summons, or Section 138 NI Act notices in Nagpur can access statutory legal defense through the local District Court and District Legal Services Authority (DLSA):
                 </p>
@@ -1043,9 +1043,9 @@ export default function PersonalLoanSettlementNagpurPage() {
 <section id="faqs" className="scroll-mt-24 space-y-6">
               <div className="flex items-center gap-3 border-b border-slate-200 pb-3">
                 <HelpCircle className="w-6 h-6 text-[#1F5EFF]" />
-                <h2 className="text-xl sm:text-2xl font-black text-slate-900 tracking-tight">
+                <h3 className="text-xl sm:text-2xl font-black text-slate-900 tracking-tight">
                   13. Frequently Asked Questions on Nagpur Loan Settlement
-                </h2>
+                </h3>
               </div>
               <div className="space-y-4">
                 {faqs.map((faq, index) => (
@@ -1069,10 +1069,10 @@ export default function PersonalLoanSettlementNagpurPage() {
 
             {/* 5 Official Regulatory & Statutory Links */}
             <div className="bg-slate-50 border border-slate-200 rounded-2xl p-6 my-8 space-y-3">
-              <h3 className="text-base font-bold text-slate-900 flex items-center gap-2">
+              <h4 className="text-base font-bold text-slate-900 flex items-center gap-2">
                 <Landmark className="w-5 h-5 text-[#1F5EFF]" />
                 <span>Official Statutory &amp; Regulatory References</span>
-              </h3>
+              </h4>
               <ul className="space-y-2.5 text-xs sm:text-sm text-slate-600">
                 <li className="flex items-start gap-2">
                   <ExternalLink className="w-4 h-4 text-[#1F5EFF] flex-shrink-0 mt-0.5" />
@@ -1134,10 +1134,10 @@ export default function PersonalLoanSettlementNagpurPage() {
 
             {/* 10 Related Guide Badges */}
             <div className="bg-slate-50 border border-slate-200 rounded-2xl p-6 my-8">
-              <h3 className="text-base font-bold text-slate-900 mb-4 flex items-center gap-2">
+              <h4 className="text-base font-bold text-slate-900 mb-4 flex items-center gap-2">
                 <BookOpen className="w-5 h-5 text-[#1F5EFF]" />
                 <span>Explore Related Banking &amp; Debt Resolution Guides</span>
-              </h3>
+              </h4>
               <div className="flex flex-wrap gap-2.5">
                 <Link
                   href="/bank-one-time-settlement-ots-policy"

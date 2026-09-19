@@ -559,7 +559,7 @@ export default function Page() {
                   <Clock className="w-4 h-4" />
                   <span>2. Delinquency Timeline &amp; High Court Norms</span>
                 </div>
-                <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">NPA Delinquency Aging in Trivandrum</h2>
+                <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">NPA Delinquency Aging in Trivandrum</h3>
                 <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                   Under RBI IRACP norms, unpaid loans move through SMA stages. After 90 days of default, the loan becomes an NPA. Banks must then set aside reserve funds. This rule pushes bank managers to approve OTS waivers.
                 </p>
@@ -621,7 +621,7 @@ export default function Page() {
                   <Gavel className="w-4 h-4" />
                   <span>3. Vanchiyoor Court &amp; Section 138/25 Defense</span>
                 </div>
-                <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Defending Legal Notices in Vanchiyoor Courts</h2>
+                <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Defending Legal Notices in Vanchiyoor Courts</h3>
                 <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                   Bounced NACH debits or cheques trigger legal demand notices. Banks issue these under <strong>Section 138 of the Negotiable Instruments Act, 1881</strong>. They also issue them under <strong>Section 25 of the Payment and Settlement Systems Act, 2007 (PSSA)</strong>. Notices cite CJM or JFCM Magistrate Courts. These sit at Vanchiyoor Court in Trivandrum.
                 </p>
@@ -639,7 +639,7 @@ export default function Page() {
                   <ShieldAlert className="w-4 h-4" />
                   <span>4. Section 171 Lien &amp; Salary Shielding</span>
                 </div>
-                <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Banker&apos;s General Lien Rules in Trivandrum</h2>
+                <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Banker&apos;s General Lien Rules in Trivandrum</h3>
                 <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                   Under Section 171 of the Indian Contract Act, 1872, banks have a general lien. This applies to funds within the same bank under matching CIF or PAN data. If a loan defaults, that bank may try to freeze linked savings or salary accounts.
                 </p>
@@ -657,9 +657,9 @@ export default function Page() {
                   <Sparkles className="w-4 h-4" />
                   <span>5. Visual Resolution Roadmap</span>
                 </div>
-                <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+                <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                   Personal Loan Settlement Roadmap in Trivandrum &amp; Kerala
-                </h2>
+                </h3>
                 <p className="text-slate-700 leading-relaxed mb-6 text-base md:text-lg">
                   The chart below outlines each step of the debt settlement process in Thiruvananthapuram. It covers workplace privacy protection, Vanchiyoor court defense, SARB talks. And final ₹0 No Dues Certificate issuance.
                 </p>
@@ -686,7 +686,7 @@ export default function Page() {
                   <Percent className="w-4 h-4" />
                   <span>6. OTS Haircut Mechanics &amp; NPV Formula</span>
                 </div>
-                <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">OTS Haircut Mechanics &amp; NPV in Trivandrum</h2>
+                <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">OTS Haircut Mechanics &amp; NPV in Trivandrum</h3>
                 <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                   Bank committees on MG Road assess OTS offers. They use the <strong>Net Present Value (NPV) formula</strong>. They weigh quick cash against years of slow court recovery.
                 </p>
@@ -716,7 +716,7 @@ export default function Page() {
                   <ShieldCheck className="w-4 h-4" />
                   <span>7. RBI Anti-Harassment &amp; Police Limits</span>
                 </div>
-                <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Enforcing RBI Fair Practices in Trivandrum</h2>
+                <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Enforcing RBI Fair Practices in Trivandrum</h3>
                 <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                   Under <strong>RBI Master Directions (2022)</strong>, recovery agents must follow strict rules. They cannot call before 8:00 AM or after 7:00 PM. They cannot use threats or abuse. Agents cannot visit Technopark or govt desks without prior consent. Visiting agents must show official ID and bank letters.
                 </p>
@@ -731,7 +731,7 @@ export default function Page() {
                   <Layers className="w-4 h-4" />
                   <span>8. 5-Step Zonal SARB Settlement Protocol</span>
                 </div>
-                <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">5-Step Settlement Protocol in Trivandrum</h2>
+                <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">5-Step Settlement Protocol in Trivandrum</h3>
                 <p className="text-slate-700 leading-relaxed mb-6 text-base md:text-lg">
                   Settling debt with banks in Trivandrum follows a 5-step roadmap:
                 </p>
@@ -742,7 +742,7 @@ export default function Page() {
                       1
                     </div>
                     <div>
-                      <h3 className="text-base font-bold text-slate-900 mb-1">Financial Hardship Dossier Compilation</h3>
+                      <h4 className="text-base font-bold text-slate-900 mb-1">Financial Hardship Dossier Compilation</h4>
                       <p className="text-sm text-slate-600 leading-relaxed">
                         We audit total debt and collect hardship proofs. Proofs include layoff memos, pay cuts, medical bills. And bank distress statements.
                       </p>
@@ -754,7 +754,7 @@ export default function Page() {
                       2
                     </div>
                     <div>
-                      <h3 className="text-base font-bold text-slate-900 mb-1">Cease-and-Desist Notice &amp; Workplace Privacy Shield</h3>
+                      <h4 className="text-base font-bold text-slate-900 mb-1">Cease-and-Desist Notice &amp; Workplace Privacy Shield</h4>
                       <p className="text-sm text-slate-600 leading-relaxed">
                         Our advocates send formal notices to bank nodal officers. This bars recovery visits to Technopark desks, govt offices, or homes.
                       </p>
@@ -766,7 +766,7 @@ export default function Page() {
                       3
                     </div>
                     <div>
-                      <h3 className="text-base font-bold text-slate-900 mb-1">Statutory Notice Defense in Vanchiyoor Courts</h3>
+                      <h4 className="text-base font-bold text-slate-900 mb-1">Statutory Notice Defense in Vanchiyoor Courts</h4>
                       <p className="text-sm text-slate-600 leading-relaxed">
                         We reply to Section 138 NI Act and Section 25 PSSA notices in 15 days. This refutes criminal claims and seeks Lok Adalat settlement.
                       </p>
@@ -778,7 +778,7 @@ export default function Page() {
                       4
                     </div>
                     <div>
-                      <h3 className="text-base font-bold text-slate-900 mb-1">Direct Negotiations with MG Road Zonal SARB Desks</h3>
+                      <h4 className="text-base font-bold text-slate-900 mb-1">Direct Negotiations with MG Road Zonal SARB Desks</h4>
                       <p className="text-sm text-slate-600 leading-relaxed">
                         We talk directly with SARB desks on MG Road. We secure 40% to 70% principal waivers using NPV formulas.
                       </p>
@@ -790,7 +790,7 @@ export default function Page() {
                       5
                     </div>
                     <div>
-                      <h3 className="text-base font-bold text-slate-900 mb-1">Sanction Letter Audit &amp; Mandatory NDC Delivery</h3>
+                      <h4 className="text-base font-bold text-slate-900 mb-1">Sanction Letter Audit &amp; Mandatory NDC Delivery</h4>
                       <p className="text-sm text-slate-600 leading-relaxed">
                         We verify stamped OTS letters before direct RTGS payment. We also ensure fast delivery of your ₹0 No Dues Certificate under RBI rules.
                       </p>
@@ -805,7 +805,7 @@ export default function Page() {
                   <FileCheck className="w-4 h-4" />
                   <span>9. Sanction Letter Audit &amp; CIBIL Rebuilding</span>
                 </div>
-                <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Sanction Letter Audit &amp; NDC in Trivandrum</h2>
+                <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Sanction Letter Audit &amp; NDC in Trivandrum</h3>
                 <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                   Never pay money on verbal promises or WhatsApp chats. A valid <strong>OTS Sanction Letter</strong> comes on bank letterhead. It bears the manager&apos;s sign, bank seal, exact waiver sum. And full closure terms.
                 </p>
@@ -820,7 +820,7 @@ export default function Page() {
                   <Scale className="w-4 h-4" />
                   <span>10. Comparative Resolution Matrix</span>
                 </div>
-                <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Debt Resolution Pathways in Trivandrum</h2>
+                <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Debt Resolution Pathways in Trivandrum</h3>
                 <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                   Comparing debt resolution paths helps Trivandrum borrowers choose the right strategy:
                 </p>
@@ -876,7 +876,7 @@ export default function Page() {
                   <Landmark className="w-4 h-4" />
                   <span>11. SettleLoans Legal Defense &amp; Advisory</span>
                 </div>
-                <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">SettleLoans Legal Defense in Trivandrum</h2>
+                <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">SettleLoans Legal Defense in Trivandrum</h3>
                 <p className="text-slate-700 leading-relaxed mb-6 text-base md:text-lg">
                   Resolving loans in Trivandrum needs legal skill. We protect your reputation and defend court notices. We negotiate with bank Zonal Committees. SettleLoans helps professionals achieve debt relief.
                 </p>
@@ -890,9 +890,9 @@ export default function Page() {
                   <Gavel className="w-4 h-4" />
                   <span>Local Legal Jurisdiction &amp; Legal Aid Directory</span>
                 </div>
-                <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+                <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                   District Courts &amp; DLSA Helpdesk in Thiruvananthapuram
-                </h2>
+                </h3>
                 <p className="text-slate-700 leading-relaxed mb-6 text-base">
                   Distressed borrowers facing recovery pressure, arbitration summons, or Section 138 NI Act notices in Thiruvananthapuram can access statutory legal defense through the local District Court and District Legal Services Authority (DLSA):
                 </p>
@@ -929,7 +929,7 @@ export default function Page() {
                   <HelpCircle className="w-4 h-4" />
                   <span>12. Frequently Asked Questions</span>
                 </div>
-                <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">FAQs: Personal Loan Settlement in Trivandrum</h2>
+                <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">FAQs: Personal Loan Settlement in Trivandrum</h3>
 
                 <div className="space-y-4">
                   {(jsonLdGraph["@graph"][4] as any).mainEntity.map((faq: any, index: number) => (
@@ -956,10 +956,10 @@ export default function Page() {
 
               {/* 5 Official Regulatory Links */}
               <section className="bg-slate-50 border border-slate-200 rounded-2xl p-6 mb-8">
-                <h3 className="text-sm font-bold text-slate-900 mb-3 uppercase tracking-wider flex items-center gap-2">
+                <h4 className="text-sm font-bold text-slate-900 mb-3 uppercase tracking-wider flex items-center gap-2">
                   <ExternalLink className="w-4 h-4 text-[#1F5EFF]" />
                   <span>Official Statutory &amp; Regulatory References</span>
-                </h3>
+                </h4>
                 <div className="grid grid-cols-1 sm:grid-cols-2 gap-3 text-xs">
                   <a
                     href="https://www.rbi.org.in"
@@ -1011,9 +1011,9 @@ export default function Page() {
 
               {/* 10 Related Guide Badges */}
               <section className="border-t border-slate-200 pt-8 mb-8">
-                <h3 className="text-sm font-bold text-slate-900 mb-4 uppercase tracking-wider">
+                <h4 className="text-sm font-bold text-slate-900 mb-4 uppercase tracking-wider">
                   Related Loan Settlement &amp; Legal Defense Guides
-                </h3>
+                </h4>
                 <div className="flex flex-wrap gap-2">
                   <Link
                     href="/sbi-personal-loan-settlement"

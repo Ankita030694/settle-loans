@@ -281,15 +281,15 @@ export default function PoliceArrestForLoanDefaultPage() {
             </section>
 
             <section id="civil-vs-criminal" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 Civil Liability vs. Criminal Offence
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 To understand why you cannot be arrested, you must understand the distinction between a civil dispute and a criminal offence in the eyes of Indian law.
               </p>
               
               <div className="bg-blue-50 border-l-8 border-[#1F5EFF] p-8 rounded-r-2xl mb-8">
-                <h3 className="text-xl font-black text-[#1F5EFF] mb-4">The Civil Nature of Loans</h3>
+                <h4 className="text-xl font-black text-[#1F5EFF] mb-4">The Civil Nature of Loans</h4>
                 <p className="text-lg leading-relaxed mb-6 text-blue-900">
                   When you take a personal loan or use a credit card, you enter into a contract with the bank. If you fail to repay, it is considered a "breach of contract." Under Indian law, a breach of contract is a <strong>civil dispute</strong>. 
                 </p>
@@ -307,15 +307,15 @@ export default function PoliceArrestForLoanDefaultPage() {
             </section>
 
             <section id="section-420" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 Section 420 IPC: The Cheating Myth
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 Recovery agents love to throw around "Section 420" to terrify borrowers. Section 420 of the Indian Penal Code (IPC) deals with cheating and dishonestly inducing delivery of property. For a loan default to be considered criminal cheating, the bank must prove criminal intent.
               </p>
 
               <div className="bg-gray-50 p-8 rounded-2xl mb-8 border border-gray-200">
-                <h3 className="text-xl font-bold mb-4 text-[#2E2E2E]">What Constitutes Fraud?</h3>
+                <h4 className="text-xl font-bold mb-4 text-[#2E2E2E]">What Constitutes Fraud?</h4>
                 <p className="text-lg leading-relaxed mb-6 text-gray-700">
                   A default only becomes a criminal offence (fraud/cheating) if you had the intention to deceive the bank <em>at the very moment</em> you took the loan. 
                 </p>
@@ -326,34 +326,34 @@ export default function PoliceArrestForLoanDefaultPage() {
             </section>
 
             <section id="recovery-tactics" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 Illegal Recovery Tactics Exposed
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 Because banks cannot legally arrest you, they often outsource collection to third-party agencies whose agents use illegal psychological warfare.
               </p>
 
               <div className="grid md:grid-cols-2 gap-6 my-8">
                 <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
-                  <h3 className="font-black text-[#1F5EFF] text-lg mb-3">Fake Police Notices</h3>
+                  <h4 className="font-black text-[#1F5EFF] text-lg mb-3">Fake Police Notices</h4>
                   <p className="text-sm text-gray-700 leading-relaxed">
                     Agents frequently send forged documents via WhatsApp designed to look like official police summons or FIR copies, complete with fake stamps. Real police notices are delivered physically or officially, not as a blurry WhatsApp forward from an unknown number.
                   </p>
                 </div>
                 <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
-                  <h4 className="font-black text-[#1F5EFF] text-lg mb-3">Impersonating Officers</h4>
+                  <h5 className="font-black text-[#1F5EFF] text-lg mb-3">Impersonating Officers</h5>
                   <p className="text-sm text-gray-700 leading-relaxed">
                     It is common for an agent to call pretending to be an Inspector from a local police station. They will speak aggressively and demand immediate payment to "close the FIR." This impersonation is a severe crime under the IPC.
                   </p>
                 </div>
                 <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
-                  <h4 className="font-black text-[#1F5EFF] text-lg mb-3">Threatening Family</h4>
+                  <h5 className="font-black text-[#1F5EFF] text-lg mb-3">Threatening Family</h5>
                   <p className="text-sm text-gray-700 leading-relaxed">
                     Agents may tell you they are coming with the police to arrest your spouse or parents. Unless your family member is a co-signer or legal guarantor on the loan, they bear zero legal responsibility for your debt.
                   </p>
                 </div>
                 <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
-                  <h4 className="font-black text-[#1F5EFF] text-lg mb-3">Public Shaming</h4>
+                  <h5 className="font-black text-[#1F5EFF] text-lg mb-3">Public Shaming</h5>
                   <p className="text-sm text-gray-700 leading-relaxed">
                     Threatening to bring a police jeep to your office or housing society to publicly humiliate you is a tactic strictly forbidden by the Reserve Bank of India (RBI) guidelines on fair practices.
                   </p>
@@ -362,12 +362,12 @@ export default function PoliceArrestForLoanDefaultPage() {
             </section>
 
             <section id="bounced-cheques" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 The Exception: Section 138 (Bounced Cheques)
-              </h2>
+              </h3>
               
               <div className="bg-red-50 p-6 rounded-xl border border-red-100 mb-8">
-                <h3 className="text-xl font-bold mb-4 text-red-700">Important Legal Nuance</h3>
+                <h4 className="text-xl font-bold mb-4 text-red-700">Important Legal Nuance</h4>
                 <p className="text-lg leading-relaxed mb-6 text-red-900">
                   While you cannot be jailed for the loan default itself, if you gave the bank a post-dated cheque (PDC) for your EMI and it bounces due to insufficient funds, the bank can initiate proceedings under <strong>Section 138 of the Negotiable Instruments Act</strong>.
                 </p>
@@ -378,9 +378,9 @@ export default function PoliceArrestForLoanDefaultPage() {
             </section>
 
             <section id="cibil-impact" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 The Real Consequence: CIBIL Score Impact
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 While you do not have to fear police action, defaulting on a personal loan or credit card does carry serious financial consequences. The primary weapon a bank has against you is your credit history.
               </p>
@@ -395,14 +395,14 @@ export default function PoliceArrestForLoanDefaultPage() {
             </section>
 
             <section id="rbi-guidelines" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 RBI Fair Practice Code: Strict Rules for Recovery
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 The Reserve Bank of India (RBI) has laid down a comprehensive Fair Practice Code to prevent borrower harassment. Banks and their third-party agents are legally bound by these rules.
               </p>
               <div className="bg-gray-50 p-8 rounded-2xl mb-8 border border-gray-200">
-                <h3 className="text-xl font-bold mb-4 text-[#2E2E2E]">What Agents CANNOT Do</h3>
+                <h4 className="text-xl font-bold mb-4 text-[#2E2E2E]">What Agents CANNOT Do</h4>
                 <ul className="space-y-4">
                   <li className="flex items-start gap-3">
                     <div className="mt-1.5 w-2 h-2 rounded-full bg-[#1F5EFF] flex-shrink-0"></div>
@@ -428,14 +428,14 @@ export default function PoliceArrestForLoanDefaultPage() {
             </section>
 
             <section id="mental-health" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 Managing the Psychological Stress
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 The most damaging aspect of aggressive debt recovery is the psychological toll it takes on the borrower. Constant threats, fake police notices, and public shaming are designed to induce panic and irrational decision-making.
               </p>
               <div className="bg-blue-50 border-l-8 border-[#1F5EFF] p-8 rounded-r-2xl mb-8">
-                <h3 className="text-xl font-black text-[#1F5EFF] mb-4">Protecting Your Peace of Mind</h3>
+                <h4 className="text-xl font-black text-[#1F5EFF] mb-4">Protecting Your Peace of Mind</h4>
                 <p className="text-lg leading-relaxed mb-6 text-blue-900">
                   Many borrowers, out of fear, take high-interest loans from unregulated loan apps just to pay off aggressive agents, falling deeper into a debt trap. It is crucial to remember that your mental health and family's well-being are more important than an unsecured loan.
                 </p>
@@ -446,9 +446,9 @@ export default function PoliceArrestForLoanDefaultPage() {
             </section>
 
             <section id="your-rights" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 Your Legal Rights as a Borrower
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 The RBI has laid down strict guidelines to protect borrowers from harassment. Knowing your rights is your strongest shield against abusive agents.
               </p>
@@ -457,21 +457,21 @@ export default function PoliceArrestForLoanDefaultPage() {
                 <div className="flex gap-6">
                   <div className="flex-shrink-0 w-12 h-12 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center font-black text-xl shadow-lg">1</div>
                   <div>
-                    <h3 className="text-xl font-bold text-[#2E2E2E] mb-2">Right to Privacy and Dignity</h3>
+                    <h4 className="text-xl font-bold text-[#2E2E2E] mb-2">Right to Privacy and Dignity</h4>
                     <p className="text-lg text-gray-600">Recovery agents cannot call you at odd hours (before 8 AM or after 7 PM), use abusive language, or contact your neighbors, relatives, or employer to discuss your debt.</p>
                   </div>
                 </div>
                 <div className="flex gap-6">
                   <div className="flex-shrink-0 w-12 h-12 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center font-black text-xl shadow-lg">2</div>
                   <div>
-                    <h4 className="text-xl font-bold text-[#2E2E2E] mb-2">Right to Due Process</h4>
+                    <h5 className="text-xl font-bold text-[#2E2E2E] mb-2">Right to Due Process</h5>
                     <p className="text-lg text-gray-600">You have the right to receive proper written notices before any legal action is taken. You cannot be ambushed by legal proceedings.</p>
                   </div>
                 </div>
                 <div className="flex gap-6">
                   <div className="flex-shrink-0 w-12 h-12 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center font-black text-xl shadow-lg">3</div>
                   <div>
-                    <h4 className="text-xl font-bold text-[#2E2E2E] mb-2">Right to Legal Representation</h4>
+                    <h5 className="text-xl font-bold text-[#2E2E2E] mb-2">Right to Legal Representation</h5>
                     <p className="text-lg text-gray-600">You are entirely within your rights to hire a lawyer or a debt settlement agency to handle all communication and negotiations with the bank on your behalf.</p>
                   </div>
                 </div>
@@ -479,9 +479,9 @@ export default function PoliceArrestForLoanDefaultPage() {
             </section>
 
             <section id="actionable-steps" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 Steps to Take Now
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 If an agent threatens you with police arrest, do not panic. Take back control with these precise steps.
               </p>
@@ -509,9 +509,9 @@ export default function PoliceArrestForLoanDefaultPage() {
             </section>
 
             <section id="success-stories" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 Real Stories of Freedom
-              </h2>
+              </h3>
               <div className="grid md:grid-cols-2 gap-6 my-8">
                 
                 <div className="bg-white p-8 rounded-[30px] border border-[#DEDEDE] shadow-sm hover:shadow-xl group transition-all">
@@ -520,7 +520,7 @@ export default function PoliceArrestForLoanDefaultPage() {
                       R
                     </div>
                     <div>
-                      <h3 className="font-bold text-[#2E2E2E]">Rahul M.</h3>
+                      <h4 className="font-bold text-[#2E2E2E]">Rahul M.</h4>
                       <div className="flex text-yellow-400 text-sm">
                         <svg className="w-4 h-4" fill="currentColor" viewBox="0 0 20 20"><path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z"></path></svg>
                         <svg className="w-4 h-4" fill="currentColor" viewBox="0 0 20 20"><path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z"></path></svg>
@@ -543,7 +543,7 @@ export default function PoliceArrestForLoanDefaultPage() {
                       S
                     </div>
                     <div>
-                      <h4 className="font-bold text-[#2E2E2E]">Sneha V.</h4>
+                      <h5 className="font-bold text-[#2E2E2E]">Sneha V.</h5>
                       <div className="flex text-yellow-400 text-sm">
                         <svg className="w-4 h-4" fill="currentColor" viewBox="0 0 20 20"><path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z"></path></svg>
                         <svg className="w-4 h-4" fill="currentColor" viewBox="0 0 20 20"><path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z"></path></svg>
@@ -564,9 +564,9 @@ export default function PoliceArrestForLoanDefaultPage() {
             </section>
 
             <section id="faqs" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 Frequently Asked Questions
-              </h2>
+              </h3>
               <div className="space-y-4">
                 {[
                   { q: "Can bank send police for credit card recovery?", a: "No. A bank cannot send police for credit card recovery. Unpaid credit card debt is a civil matter, and police have no jurisdiction to recover civil debts." },
@@ -598,7 +598,7 @@ export default function PoliceArrestForLoanDefaultPage() {
             {/* Lead Gen Hook */}
             <div className="bg-[#2E2E2E] text-white p-12 rounded-[40px] text-center mt-24 relative overflow-hidden group">
               <div className="absolute inset-0 bg-[#1F5EFF] opacity-0 group-hover:opacity-5 transition-opacity duration-300"></div>
-              <h3 className="text-3xl font-black mb-6 relative z-10">Stop the Harassment Now</h3>
+              <h4 className="text-3xl font-black mb-6 relative z-10">Stop the Harassment Now</h4>
               <p className="text-lg text-[#DEDEDE] mb-8 relative z-10">
                 Are recovery agents threatening you with police arrest or FIRs? Don't fall for illegal intimidation. Speak to our lawyers immediately to stop the harassment and understand your legal rights.
               </p>

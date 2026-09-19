@@ -159,10 +159,10 @@ export default function JointLoanSettlementPage() {
                                 Can you settle a joint loan? Yes. But doing so in a vacuum, without considering the legal rights and credit future of your co-borrower, is a recipe for internal conflict and long-term financial paralysis. This guide deconstructs the technical, legal, and operational frameworks of joint debt resolution in India.
                             </p>
                             <div className="bg-red-50 p-8 rounded-2xl border-l-4 border-red-500 mb-8">
-                                <h3 className="text-lg font-bold text-red-900 mb-4 flex items-center gap-2">
+                                <h4 className="text-lg font-bold text-red-900 mb-4 flex items-center gap-2">
                                     <FontAwesomeIcon icon={faTriangleExclamation} />
                                     The "Shared Ruin" Warning
-                                </h3>
+                                </h4>
                                 <p className="text-red-800">
                                     In a joint loan, there is no such thing as "my half" and "your half". In the bank's eyes, you are both 100% liable for the 100% amount. If you settle your "portion" but your co-borrower defaults on the rest, you are still legally trapped.
                                 </p>
@@ -170,9 +170,9 @@ export default function JointLoanSettlementPage() {
                         </section>
 
                         <section id="joint-and-several" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                                 Joint and Several Liability: The Bank's Greatest Weapon
-                            </h2>
+                            </h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 The core legal principle governing joint loans in India is **"Joint and Several Liability"**. This means that the lender has the right to recover the *entire* outstanding amount from *any* one of the borrowers, regardless of who actually used the money or what the internal arrangement between the co-borrowers is.
                             </p>
@@ -185,9 +185,9 @@ export default function JointLoanSettlementPage() {
                         </section>
 
                         <section id="cibil-impact" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                                 The Dual-CIBIL Crisis: How Settlement Echoes Across Reports
-                            </h2>
+                            </h3>
                             <p className="text-lg leading-relaxed mb-6 font-medium">
                                 One of the most heartbreaking aspects of joint loan defaults is the "Innocent Bystander" effect. Often, one co-borrower is the active payer, and the other is just a "Paper Signee" (e.g., a housewife co-signing her husband's business loan).
                             </p>
@@ -195,7 +195,7 @@ export default function JointLoanSettlementPage() {
                                 Regardless of your role, a default is reported against **both** PAN numbers. If the loan is settled, both credit reports will show the "Settled" status. There is no way to settle for one borrower while keeping the other borrower's report as "Closed" or "Standard". The credit destiny of both parties is welded together.
                             </p>
                             <div className="bg-gray-50 p-8 rounded-2xl mb-8">
-                                <h3 className="font-bold text-[#1F5EFF] mb-4 uppercase tracking-wider">The Systematic Credit Damage:</h3>
+                                <h4 className="font-bold text-[#1F5EFF] mb-4 uppercase tracking-wider">The Systematic Credit Damage:</h4>
                                 <ul className="space-y-6">
                                     <li className="flex gap-4">
                                         <div className="w-10 h-10 rounded-full bg-blue-100 flex-shrink-0 flex items-center justify-center text-blue-600 font-bold">1</div>
@@ -214,15 +214,15 @@ export default function JointLoanSettlementPage() {
                         </section>
 
                         <section id="divorce-separation" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight uppercase tracking-tighter">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight uppercase tracking-tighter">
                                 Divorce, Separation, and the Joint Loan Night-mare
-                            </h2>
+                            </h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 Civil courts in India are filled with cases where a separating couple is fighting over a joint home loan. A common divorce decree might state that the "Husband will pay the EMI". However, this decree is a contract between the husband and wife; **the bank is not a party to this decree.**
                             </p>
                             <div className="bg-blue-900 text-white p-10 rounded-[30px] mb-8 relative overflow-hidden">
                                 <div className="absolute top-0 right-0 w-32 h-32 bg-white/5 rounded-full -mr-16 -mt-16"></div>
-                                <h3 className="text-2xl font-black mb-6 flex items-center gap-3"><FontAwesomeIcon icon={faScaleUnbalanced} className="text-[#1F5EFF]" /> The Legal Reality Check</h3>
+                                <h4 className="text-2xl font-black mb-6 flex items-center gap-3"><FontAwesomeIcon icon={faScaleUnbalanced} className="text-[#1F5EFF]" /> The Legal Reality Check</h4>
                                 <p className="leading-relaxed text-blue-100 italic">
                                     Even if your divorce paper says you aren't responsible, the bank can still sue you for recovery if your ex-spouse stops paying. The bank's contract with you overrides your divorce settlement. To truly exit the liability, you must either **Refinance** the loan into a single name or reach a **Composite Settlement** with the bank to close the account entirely.
                                 </p>
@@ -230,14 +230,14 @@ export default function JointLoanSettlementPage() {
                         </section>
 
                         <section id="conflict-resolution" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                                 Conflict Resolution: What to do if Your Partner Refuses to Settle
-                            </h2>
+                            </h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 This is the most common operational bottleneck in joint debt resolution. Borrower A wants to settle and move on, but Borrower B (often the one who spent the money) refuses to acknowledge the debt or contribute.
                             </p>
                             <div className="bg-gray-50 p-8 rounded-3xl mb-8 border border-gray-100">
-                                <h3 className="font-bold mb-4 uppercase text-[#1F5EFF] tracking-wider">The "Stall-Mate" Survival Guide:</h3>
+                                <h4 className="font-bold mb-4 uppercase text-[#1F5EFF] tracking-wider">The "Stall-Mate" Survival Guide:</h4>
                                 <div className="space-y-6 text-sm">
                                     <p>**Strategy A: The Third-Party Mediator.** Banks are often willing to act as a catalyst here. If we show the bank that one borrower is cooperative and the other is not, the bank might agree to a 'Split Settlement' (though rare) or prioritize recovery actions specifically against the non-cooperative party's personal assets.</p>
                                     <p>**Strategy B: The Indemnity Bond.** If you are paying the full settlement yourself, you must make your partner sign an **Indemnity Bond** or a **Promissory Note**. This ensures that while you satisfy the bank today, you retain a legal claim against your partner's future income or assets for their share.</p>
@@ -247,9 +247,9 @@ export default function JointLoanSettlementPage() {
                         </section>
 
                         <section id="tax-sharing" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                                 Tax Implications: Losing the Section 24 Benefit
-                            </h2>
+                            </h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 One often overlooked consequence of home loan settlement is the loss of tax benefits. Under **Section 24(b)** and **Section 80C**, co-borrowers can claim deductions for interest and principal.
                             </p>
@@ -259,9 +259,9 @@ export default function JointLoanSettlementPage() {
                         </section>
 
                         <section id="education-loan-depth" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                                 The Parental Shield: Education Loan Joint Liability
-                            </h2>
+                            </h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 In India, almost all education loans are joint loans where the parent is the **Co-applicant**. If the student (primary borrower) fails to find a job or refuses to pay, the burden falls entirely on the parent's retirement savings and CIBIL score.
                             </p>
@@ -269,15 +269,15 @@ export default function JointLoanSettlementPage() {
                                 SettleLoans frequently assists parents in these situations. The strategy here often involves demonstrating the "End of Earning Capacity" for the parent to the bank. If the parent is a retiree with limited pension, banks are highly likely to accept a massive settlement because they know the 'Ability to Pay' has vanished.
                             </p>
                             <div className="bg-blue-50 p-8 rounded-2xl border-l-4 border-blue-500 mb-8">
-                                <h3 className="font-bold text-blue-900 mb-2 italic">Professional Tip:</h3>
+                                <h4 className="font-bold text-blue-900 mb-2 italic">Professional Tip:</h4>
                                 <p className="text-blue-800 text-sm">For education loans, always emphasize the 'Bonafide Hardship' of the student's career trajectory. Banks are more sympathetic to a student who 'Tried but Failed' than a business owner who 'Speculated and Lost'.</p>
                             </div>
                         </section>
 
                         <section id="successor-liability" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                                 Successor Liability: The Complexity of a Co-borrower's Death
-                            </h2>
+                            </h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 What happens if one co-borrower passes away during the default period? This is a sensitive and legally complex territory. Under Indian law, the debt does not "Die" with the person. Instead, it passes to their **Legal Heirs** to the extent of the assets they inherit.
                             </p>
@@ -285,7 +285,7 @@ export default function JointLoanSettlementPage() {
                                 However, for the surviving co-borrower, the bank still holds them 100% liable for the 100% amount.
                             </p>
                             <div className="bg-red-50 p-8 rounded-2xl border-2 border-red-100 mb-8">
-                                <h3 className="text-red-900 font-bold mb-4">The "Death-Node" Settlement Strategy:</h3>
+                                <h4 className="text-red-900 font-bold mb-4">The "Death-Node" Settlement Strategy:</h4>
                                 <ul className="space-y-4 text-red-800 text-sm">
                                     <li>**Proof of Legal Heirship:** The bank will require a Death Certificate and a Succession Certificate (or Legal Heir Certificate) to process a settlement in this scenario.</li>
                                     <li>**The Humanitarian Lever:** We often use this situation to negotiate a deeper waiver. Banks are generally more willing to offer a generous compromise when faced with the passing of a borrower, as the recovery process against legal heirs is long and arduous.</li>
@@ -295,9 +295,9 @@ export default function JointLoanSettlementPage() {
                         </section>
 
                         <section id="insurance-audit" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                                 Forensic Audit: The "Double Insurance" Overcharge
-                            </h2>
+                            </h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 In many joint home loans, banks push for "Joint Life Insurance" (where both borrowers are covered). In our forensic audits at SettleLoans, we often find that borrowers have been charged excessive premiums for insurance products they didn't fully understand.
                             </p>
@@ -307,9 +307,9 @@ export default function JointLoanSettlementPage() {
                         </section>
 
                         <section id="doc-checklist" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                                 Mandatory Documentation for Joint Settlements
-                            </h2>
+                            </h3>
                             <p className="text-lg leading-relaxed mb-8">
                                 A joint settlement fails 90% of the time because of missing paperwork from one of the parties. Before approaching the bank, gather this **"Unified Dossier"**:
                             </p>
@@ -324,20 +324,20 @@ export default function JointLoanSettlementPage() {
                         </section>
 
                         <section id="guarantor-trap" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                                 The Master Trap: Differences Between a Co-borrower and a Guarantor
-                            </h2>
+                            </h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 In the world of debt recovery, many people confuse being a "Co-borrower" with being a "Guarantor". While both are signatures on a piece of paper, their legal vulnerability exists on different timelines.
                             </p>
                             <div className="grid md:grid-cols-2 gap-8 mb-10">
                                 <div className="p-8 bg-white border border-gray-200 rounded-3xl shadow-sm">
-                                    <h3 className="font-bold text-[#1F5EFF] mb-4">The Co-borrower</h3>
+                                    <h4 className="font-bold text-[#1F5EFF] mb-4">The Co-borrower</h4>
                                     <p className="text-sm leading-relaxed mb-4">You are "Primarily Liable". This means the bank can come after you on the very first day of default. They don't need to exhaust their options against the other person first. You are, for all intents and purposes, the same as the main borrower.</p>
                                     <p className="text-xs font-bold text-red-600">Legal Risk: 10/10</p>
                                 </div>
                                 <div className="p-8 bg-white border border-gray-200 rounded-3xl shadow-sm">
-                                    <h4 className="font-bold text-[#1F5EFF] mb-4">The Guarantor</h4>
+                                    <h5 className="font-bold text-[#1F5EFF] mb-4">The Guarantor</h5>
                                     <p className="text-sm leading-relaxed mb-4">You are "Collaterally Liable". Traditionally, the bank should first try to recover from the borrower. However, post the **SBI vs. Ramakrishnan** judgement, banks can now often proceed against the guarantor simultaneously. Your liability is 'Co-extensive' with the borrower.</p>
                                     <p className="text-xs font-bold text-red-600">Legal Risk: 9/10</p>
                                 </div>
@@ -348,14 +348,14 @@ export default function JointLoanSettlementPage() {
                         </section>
 
                         <section id="property-auction" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                                 Joint Property & SARFAESI: The Nightmare of Shared Titles
-                            </h2>
+                            </h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 If your joint loan is a Home Loan, the stakes are elevated from "Credit Score" to "Physical Survival". Under the **SARFAESI Act**, the bank does not care that you own 50% of the property and your defaulting partner owns the other 50%.
                             </p>
                             <div className="bg-red-50 p-10 rounded-3xl border-2 border-red-100 mb-8">
-                                <h3 className="text-red-900 font-bold mb-6 flex items-center gap-3"><FontAwesomeIcon icon={faTriangleExclamation} /> The Auction Protocol</h3>
+                                <h4 className="text-red-900 font-bold mb-6 flex items-center gap-3"><FontAwesomeIcon icon={faTriangleExclamation} /> The Auction Protocol</h4>
                                 <p className="text-red-800 mb-4 leading-relaxed">
                                     The bank will issue a **Notice under Section 13(2)** to ALL co-borrowers. If the dues aren't cleared, they will take symbolic possession. When they auction the property, they sell the *entire* asset. They do not sell "Half a House".
                                 </p>
@@ -371,9 +371,9 @@ export default function JointLoanSettlementPage() {
                         </section>
 
                         <section id="composite-negotiation" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                                 The Composite Settlement Strategy: A Step-by-Step Blueprint
-                            </h2>
+                            </h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 When we at SettleLoans handle joint accounts, we never negotiate for one person. We negotiate for the **"Account Closure"**. Here is the professional roadmap for a multi-party settlement:
                             </p>
@@ -391,9 +391,9 @@ export default function JointLoanSettlementPage() {
                         </section>
 
                         <section id="contract-law-appendix" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                                 Legal Appendix: Section 44 of the Indian Contract Act
-                            </h2>
+                            </h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 For those who want the pure legal skeleton, **Section 44 of the Indian Contract Act, 1872** is the definitive word on joint liability. It states:
                             </p>
@@ -409,9 +409,9 @@ export default function JointLoanSettlementPage() {
                         </section>
 
                         <section id="golden-rules" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                                 The 5 Golden Rules of Joint Debt Resolution
-                            </h2>
+                            </h3>
                             <p className="text-lg leading-relaxed mb-8">
                                 If you remember nothing else from this 5000-word guide, remember these five non-negotiable rules.
                             </p>
@@ -440,9 +440,9 @@ export default function JointLoanSettlementPage() {
                         </section>
 
                         <section id="guarantor-shield" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                                 The Guarantor's Shield: Protective Clauses for Your Future
-                            </h2>
+                            </h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 If you have been called upon as a guarantor for a joint loan settlement, you have a specific set of risks that the borrowers do not. Because you didn't receive the money, your 'Moral Right' to a total waiver is higher.
                             </p>
@@ -450,7 +450,7 @@ export default function JointLoanSettlementPage() {
                                 When signing off on a settlement as a guarantor, you must insist on a **"Non-Recourse Clause"**. This clause ensures that the bank cannot come back to you if the primary borrower defaults on their settlement installments (if it's not a lump sum). By insulating yourself from the borrower's future behavior, you create a hard firewall around your financial life.
                             </p>
                             <div className="bg-gray-100 p-8 rounded-2xl mb-8">
-                                <h3 className="font-bold mb-4 uppercase text-[#2E2E2E] tracking-tight">The Guarantor's Post-Settlement Rights:</h3>
+                                <h4 className="font-bold mb-4 uppercase text-[#2E2E2E] tracking-tight">The Guarantor's Post-Settlement Rights:</h4>
                                 <ul className="space-y-4 text-sm text-gray-800">
                                     <li>1. **Subrogation:** You technically step into the bank's shoes. If you pay the settlement, the borrower now owes *you* that money legally.</li>
                                     <li>2. **Release of Securities:** If you provided a property guarantee, the bank must return your title deeds immediately upon account closure.</li>
@@ -460,9 +460,9 @@ export default function JointLoanSettlementPage() {
                         </section>
 
                         <section id="conflict-protocol" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                                 The Universal Conflict Resolution Protocol
-                            </h2>
+                            </h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 To avoid the messy "he said, she said" during a joint settlement, we provide our clients with a **Conflict Protocol Template**. This internal memorandum between co-borrowers should cover:
                             </p>
@@ -474,9 +474,9 @@ export default function JointLoanSettlementPage() {
                         </section>
 
                         <section id="technical-hierarchy" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight uppercase tracking-widest">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight uppercase tracking-widest">
                                 The Hierarchy of Joint Debt Recovery
-                            </h2>
+                            </h3>
                             <p className="text-lg leading-relaxed mb-8">
                                 Banks follow a specific 'Path of Least Resistance' when recovering joint debts. Understanding where you sit in this hierarchy helps you time your settlement offer.
                             </p>
@@ -509,9 +509,9 @@ export default function JointLoanSettlementPage() {
                         </section>
 
                         <section id="inter-se-agreement" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                                 The Inter-se Agreement: Protecting Yourself from Your Partner
-                            </h2>
+                            </h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 If you are paying for a joint settlement, a bank's No Dues Certificate only protects you from the bank. It does *not* protect you if your co-borrower later claims you "stole" their share of the property or mismanaged the funds.
                             </p>
@@ -521,9 +521,9 @@ export default function JointLoanSettlementPage() {
                         </section>
 
                         <section id="internal-memory" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                                 Internal Bank Memory: The Ghost in the Machine
-                            </h2>
+                            </h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 Even after a joint settlement is closed and CIBIL is updated, the bank's internal database (The 'Blacklist') will forever link both borrowers. If you apply for a credit card with the same bank group 15 years later, their internal search will find this old settled account.
                             </p>
@@ -533,9 +533,9 @@ export default function JointLoanSettlementPage() {
                         </section>
 
                         <section id="final-checklist" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                                 The 10-Point Joint Settlement Checklist
-                            </h2>
+                            </h3>
                             <p className="text-lg leading-relaxed mb-8">
                                 Ensure every item here is checked before the first rupee is transferred.
                             </p>
@@ -550,9 +550,9 @@ export default function JointLoanSettlementPage() {
                         </section>
 
                         <section id="faqs" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                                 Frequently Asked Questions: Joint Loan Settlements
-                            </h2>
+                            </h3>
                             <div className="space-y-4 not-prose">
                                 {[
                                     { q: "Can one co-borrower settle without the other's consent?", a: "Legally, yes. However, the bank is unlikely to offer a full account closure if one party is missing. You will likely only get a 'Partial Settlement' which doesn't protect your CIBIL score from further damage by the other party's default." },
@@ -588,7 +588,7 @@ export default function JointLoanSettlementPage() {
                         <section className="bg-[#2E2E2E] rounded-[40px] p-10 md:p-16 text-center text-[#DEDEDE] relative overflow-hidden shadow-2xl">
                             <div className="absolute top-0 left-0 w-full h-full bg-[#1F5EFF]/5 pointer-events-none"></div>
                             <div className="relative z-10">
-                                <h2 className="text-3xl md:text-5xl font-black mb-6 uppercase tracking-tight">Resolve Shared Debt Together</h2>
+                                <h3 className="text-3xl md:text-5xl font-black mb-6 uppercase tracking-tight">Resolve Shared Debt Together</h3>
                                 <p className="text-lg md:text-xl opacity-80 max-w-2xl mx-auto mb-10 leading-relaxed font-normal italic">
                                     Our expert negotiators specialize in resolving the interpersonal and legal complexities of joint loan defaults. Don't let a shared debt sink your entire family's future.
                                 </p>

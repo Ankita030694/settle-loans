@@ -493,9 +493,9 @@ export default function RemovePostWriteOffSettledRemarkPage() {
 
             {/* Section 2: Bank Accounting Mechanics */}
             <section id="bank-accounting-technical-write-offs" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                 2. Bank Accounting Mechanics: Technical vs Prudential Write-Offs
-              </h2>
+              </h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Understanding this classification requires analyzing bad debt accounting under RBI Master Directions on Prudential Norms on IRACP. When an account remains delinquent past ninety days, it is classified as a Non-Performing Asset. If delinquency extends past 180 days, banks face mandatory capital provisioning burdens between 25 and 100 percent, directly depressing profitability.
               </p>
@@ -506,9 +506,9 @@ export default function RemovePostWriteOffSettledRemarkPage() {
 
             {/* Section 3: Statutory Framework */}
             <section id="statutory-framework-cicra-rbi-directions" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                 3. Statutory Framework: CICRA 2005 and RBI Master Directions
-              </h2>
+              </h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Credit reporting in India is governed by strict statutory mandates designed to maintain financial transparency. The Credit Information Companies (Regulation) Act, 2005 (CICRA) establishes enforceable consumer protections. Under Section 21 of CICRA, credit institutions must collect, process, and furnish accurate, complete, and current credit data. Reporting an active unmitigated loss post lawful settlement constitutes an actionable violation of credit reporting regulations.
               </p>
@@ -568,9 +568,9 @@ export default function RemovePostWriteOffSettledRemarkPage() {
 
             {/* Section 4: Residual Ledger Economics and NPV Formula */}
             <section id="residual-ledger-npv-recovery-model" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                 4. Residual Ledger Economics and the NPV Balance Recovery Model
-              </h2>
+              </h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Branch managers cannot rectify a Post-Write-Off Settled remark because they lack system permissions to adjust centralized AUCA registers. Any modification to a written-off asset requires formal authorization from zonal credit committees and centralized credit operations.
               </p>
@@ -633,9 +633,9 @@ export default function RemovePostWriteOffSettledRemarkPage() {
 
             {/* Section 5: Infographic Banner */}
             <section id="bureau-status-rectification-roadmap" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                 5. Step-by-Step Bureau Status Rectification Roadmap
-              </h2>
+              </h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Upgrading a Post-Write-Off Settled remark to a Closed classification requires a disciplined multi-stage protocol that synchronizes internal banking ledgers with regulatory bureau reporting systems.
               </p>
@@ -673,9 +673,9 @@ export default function RemovePostWriteOffSettledRemarkPage() {
 
             {/* Section 6: Escalation Protocol via Nodal Officers */}
             <section id="escalation-protocol-nodal-officers" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                 6. Escalation Protocol: Approving Upgrades via Nodal Officers
-              </h2>
+              </h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Because local branch staff cannot modify centralized registers, attempting resolution at the retail branch yields circular delays. The only viable pathway is an advocate-led escalation to the bank&apos;s Principal Nodal Officer (PNO) designated under the RBI Internal Grievance Redressal framework.
               </p>
@@ -705,9 +705,9 @@ export default function RemovePostWriteOffSettledRemarkPage() {
 
             {/* Section 7: Forensic Audit of Sanction Letters */}
             <section id="forensic-audit-sanction-letters-ndc" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                 7. Forensic Audit of Sanction Letters and NDC Rectification
-              </h2>
+              </h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 The viability of a credit bureau upgrade rests upon the contractual phrasing in the settlement sanction letter and No Dues Certificate. Agreements drafted by collection agencies often contain ambiguous clauses or loss reservations that compromise borrower rights.
               </p>
@@ -767,9 +767,9 @@ export default function RemovePostWriteOffSettledRemarkPage() {
 
             {/* Section 8: CIBIL Data Discrepancy Dispute */}
             <section id="cibil-data-discrepancy-dispute-zero-balance" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                 8. CIBIL Data Discrepancy Dispute and ₹0 Balance Updating
-              </h2>
+              </h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Filing an online dispute directly on the TransUnion CIBIL portal without prior bank clearance leads to automatic rejection. Credit bureaus are passive repositories that verify disputes against the lender&apos;s monthly reporting feed; an unreconciled internal ledger causes the bank system to confirm the adverse remark.
               </p>
@@ -799,9 +799,9 @@ export default function RemovePostWriteOffSettledRemarkPage() {
 
             {/* Section 9: Comparative Matrix */}
             <section id="comparative-matrix-settled-vs-closed" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                 9. Comparative Matrix: Post-Write-Off Settled vs Closed Status
-              </h2>
+              </h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Comparing operational differences between compromised entries and closed accounts demonstrates why securing a bureau upgrade is vital for financial recovery:
               </p>
@@ -855,9 +855,9 @@ export default function RemovePostWriteOffSettledRemarkPage() {
             {/* Section 10: SettleLoans Legal Defense + CompanySection */}
             <section id="company-resolution-section" className="space-y-6">
               <div className="border-t border-slate-200 pt-8 space-y-4">
-                <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
+                <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                   10. SettleLoans Forensic Legal Defense and Bureau Restoration
-                </h2>
+                </h3>
                 <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                   Navigating core banking systems and credit bureau regulations requires experienced legal advocacy. SettleLoans provides complete forensic representation to resolve credit reporting disputes across India. Our advocates audit documentation, petition Principal Nodal Officers under Section 21 of CICRA, reconcile memorandum registers, and escalate disputes to the RBI Ombudsman to secure authentic No Dues Certificates and verified bureau upgrades to Closed.
                 </p>
@@ -871,9 +871,9 @@ export default function RemovePostWriteOffSettledRemarkPage() {
             <section id="faqs" className="space-y-4 border-t border-slate-200 pt-8">
               <div className="flex items-center gap-2 mb-2">
                 <HelpCircle className="w-5 h-5 text-[#1F5EFF]" />
-                <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
+                <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                   11. Frequently Asked Questions: CIBIL Bureau Status Repair
-                </h2>
+                </h3>
               </div>
               <p className="text-xs sm:text-sm text-slate-600 mb-6">
                 Direct, legally verified answers to common questions regarding post-write-off settled remarks, technical write-offs, bank Nodal Officer escalations, and CIBIL status upgrades in India.

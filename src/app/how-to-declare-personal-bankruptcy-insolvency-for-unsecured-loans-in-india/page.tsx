@@ -206,13 +206,13 @@ export default function PersonalBankruptcyIndia() {
             </div>
 
             <div id="understanding-ibc" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">Understanding Personal Insolvency under IBC</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">Understanding Personal Insolvency under IBC</h3>
               <p className="text-lg leading-relaxed mb-6">
                 The Insolvency and Bankruptcy Code (IBC), 2016 fundamentally changed how India deals with bad debt. For individuals facing insurmountable financial trouble, the Code outlines a clear statutory path to negotiate with creditors, restructure debts, or ultimately declare bankruptcy. 
               </p>
               
               <div className="bg-blue-50 border-l-8 border-[#1F5EFF] p-8 rounded-r-2xl mb-8">
-                <h3 className="text-xl font-black text-[#1F5EFF] mb-4">The Moratorium Effect</h3>
+                <h4 className="text-xl font-black text-[#1F5EFF] mb-4">The Moratorium Effect</h4>
                 <p className="text-lg text-gray-700 mb-4">
                   The most powerful aspect of filing under the IBC is the immediate <span className="font-bold">Interim Moratorium</span>. 
                 </p>
@@ -234,34 +234,34 @@ export default function PersonalBankruptcyIndia() {
             </div>
 
             <div id="fresh-start-process" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">The "Fresh Start" Process</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">The "Fresh Start" Process</h3>
               <p className="text-lg leading-relaxed mb-6">
                 For the lowest income bracket, the IBC introduced a mechanism called the "Fresh Start Process". This is designed to completely discharge minor debts without dragging individuals through a massive legal proceeding.
               </p>
               
               <div className="grid md:grid-cols-2 gap-6 my-8">
                 <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
-                  <h3 className="font-black text-[#1F5EFF] text-lg mb-3 flex items-center gap-2">
+                  <h4 className="font-black text-[#1F5EFF] text-lg mb-3 flex items-center gap-2">
                     <IndianRupee className="w-5 h-5" /> Qualifying Debts
-                  </h3>
+                  </h4>
                   <p className="text-gray-700">Your total qualifying debts cannot exceed ₹35,000.</p>
                 </div>
                 <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
-                  <h4 className="font-black text-[#1F5EFF] text-lg mb-3 flex items-center gap-2">
+                  <h5 className="font-black text-[#1F5EFF] text-lg mb-3 flex items-center gap-2">
                     <FileText className="w-5 h-5" /> Gross Income Limit
-                  </h4>
+                  </h5>
                   <p className="text-gray-700">Your gross annual income cannot exceed ₹60,000.</p>
                 </div>
                 <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
-                  <h4 className="font-black text-[#1F5EFF] text-lg mb-3 flex items-center gap-2">
+                  <h5 className="font-black text-[#1F5EFF] text-lg mb-3 flex items-center gap-2">
                     <ShieldCheck className="w-5 h-5" /> Asset Valuation
-                  </h4>
+                  </h5>
                   <p className="text-gray-700">The total value of your qualifying assets must not exceed ₹20,000.</p>
                 </div>
                 <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
-                  <h4 className="font-black text-[#1F5EFF] text-lg mb-3 flex items-center gap-2">
+                  <h5 className="font-black text-[#1F5EFF] text-lg mb-3 flex items-center gap-2">
                     <CheckCircle2 className="w-5 h-5" /> Property Exclusions
-                  </h4>
+                  </h5>
                   <p className="text-gray-700">You must not own a dwelling unit (irrespective of its value).</p>
                 </div>
               </div>
@@ -271,7 +271,7 @@ export default function PersonalBankruptcyIndia() {
             </div>
 
             <div id="individual-insolvency-process" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">Step-by-Step Individual Insolvency Process</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">Step-by-Step Individual Insolvency Process</h3>
               <p className="text-lg leading-relaxed mb-6">
                 If you do not qualify for a Fresh Start, you must go through the standard Insolvency Resolution Process (IRP). This process can be initiated by either the debtor (you) or a creditor.
               </p>
@@ -280,7 +280,7 @@ export default function PersonalBankruptcyIndia() {
                 <div className="flex gap-6">
                   <div className="flex-shrink-0 w-12 h-12 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center font-black text-xl shadow-lg">1</div>
                   <div>
-                    <h3 className="text-2xl font-bold text-[#2E2E2E] mb-3">Filing the Application</h3>
+                    <h4 className="text-2xl font-bold text-[#2E2E2E] mb-3">Filing the Application</h4>
                     <p className="text-lg text-gray-700">You file an application with the Debt Recovery Tribunal (DRT). At this moment, an interim moratorium kicks in automatically, freezing all debt recovery actions against you.</p>
                   </div>
                 </div>
@@ -288,7 +288,7 @@ export default function PersonalBankruptcyIndia() {
                 <div className="flex gap-6">
                   <div className="flex-shrink-0 w-12 h-12 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center font-black text-xl shadow-lg">2</div>
                   <div>
-                    <h3 className="text-2xl font-bold text-[#2E2E2E] mb-3">Appointment of Resolution Professional (RP)</h3>
+                    <h4 className="text-2xl font-bold text-[#2E2E2E] mb-3">Appointment of Resolution Professional (RP)</h4>
                     <p className="text-lg text-gray-700">The Adjudicating Authority appoints a Resolution Professional. The RP takes control of your financial affairs, investigates your income, assets, and liabilities, and submits a comprehensive report.</p>
                   </div>
                 </div>
@@ -296,7 +296,7 @@ export default function PersonalBankruptcyIndia() {
                 <div className="flex gap-6">
                   <div className="flex-shrink-0 w-12 h-12 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center font-black text-xl shadow-lg">3</div>
                   <div>
-                    <h3 className="text-2xl font-bold text-[#2E2E2E] mb-3">Submission of the Repayment Plan</h3>
+                    <h4 className="text-2xl font-bold text-[#2E2E2E] mb-3">Submission of the Repayment Plan</h4>
                     <p className="text-lg text-gray-700">In consultation with the RP, you must draft a "Repayment Plan". This plan proposes how you intend to satisfy your creditors, perhaps via restructured payments or asset liquidation.</p>
                   </div>
                 </div>
@@ -304,7 +304,7 @@ export default function PersonalBankruptcyIndia() {
                 <div className="flex gap-6">
                   <div className="flex-shrink-0 w-12 h-12 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center font-black text-xl shadow-lg">4</div>
                   <div>
-                    <h3 className="text-2xl font-bold text-[#2E2E2E] mb-3">Meeting of Creditors</h3>
+                    <h4 className="text-2xl font-bold text-[#2E2E2E] mb-3">Meeting of Creditors</h4>
                     <p className="text-lg text-gray-700">Your creditors will convene to vote on the repayment plan. If a 75% majority approves, the DRT will pass an order binding all parties to the plan.</p>
                   </div>
                 </div>
@@ -312,7 +312,7 @@ export default function PersonalBankruptcyIndia() {
                 <div className="flex gap-6">
                   <div className="flex-shrink-0 w-12 h-12 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center font-black text-xl shadow-lg">5</div>
                   <div>
-                    <h3 className="text-2xl font-bold text-[#2E2E2E] mb-3">Bankruptcy Order</h3>
+                    <h4 className="text-2xl font-bold text-[#2E2E2E] mb-3">Bankruptcy Order</h4>
                     <p className="text-lg text-gray-700">If the creditors reject the plan, or if you fail to execute the approved plan, the DRT will pass a formal Bankruptcy Order. A Bankruptcy Trustee will be appointed to liquidate all your non-exempt assets and distribute the proceeds.</p>
                   </div>
                 </div>
@@ -320,15 +320,15 @@ export default function PersonalBankruptcyIndia() {
             </div>
 
             <div id="stigma-and-consequences" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">The Severe Stigma & Consequences of Bankruptcy</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">The Severe Stigma & Consequences of Bankruptcy</h3>
               <p className="text-lg leading-relaxed mb-6">
                 While you get legal protection from all creditors in India, the price you pay for declaring bankruptcy is astronomically high. It is not merely a financial reset; it is a profound social and legal demotion.
               </p>
               
               <div className="bg-red-50 p-6 rounded-xl border border-red-100 mb-8">
-                <h3 className="text-xl font-black text-red-700 mb-4 flex items-center gap-2">
+                <h4 className="text-xl font-black text-red-700 mb-4 flex items-center gap-2">
                   <AlertTriangle className="w-6 h-6" /> The Brutal Reality of Bankruptcy in India
-                </h3>
+                </h4>
                 <ul className="space-y-4 text-red-900 text-lg">
                   <li className="flex items-start gap-3">
                     <Check className="w-6 h-6 text-red-500 flex-shrink-0 mt-0.5" />
@@ -357,7 +357,7 @@ export default function PersonalBankruptcyIndia() {
             </div>
 
             <div id="settlement-vs-bankruptcy" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">Why Settlement is Often Better Than Bankruptcy</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">Why Settlement is Often Better Than Bankruptcy</h3>
               <p className="text-lg leading-relaxed mb-6">
                 Because of the drastic consequences of the individual bankruptcy process, legal experts and financial advisors strongly recommend <span className="font-bold text-[#1F5EFF]">Debt Settlement</span> as the superior alternative for unsecured loans (like personal loans, credit cards, and app loans).
               </p>
@@ -382,7 +382,7 @@ export default function PersonalBankruptcyIndia() {
             </div>
 
             <div id="success-stories" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">Real Success Stories: Settlement Instead of Bankruptcy</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">Real Success Stories: Settlement Instead of Bankruptcy</h3>
               <div className="grid md:grid-cols-2 gap-6">
                 {[
                   { name: "Rakesh M.", amount: "₹15 Lakhs", settled: "₹4.2 Lakhs", review: "I was about to file for bankruptcy due to massive unsecured app loans. SettleLoan stepped in and negotiated a settlement instead. I saved my dignity and avoided court." },
@@ -410,7 +410,7 @@ export default function PersonalBankruptcyIndia() {
             </div>
 
             <div id="faq" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">Frequently Asked Questions</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">Frequently Asked Questions</h3>
               <div className="space-y-4">
                 {[
                   { q: "Can an individual file for bankruptcy in India?", a: "Yes, under the Insolvency and Bankruptcy Code (IBC) 2016, individuals can file for insolvency and bankruptcy." },
@@ -425,7 +425,7 @@ export default function PersonalBankruptcyIndia() {
                   { q: "How do I start the IBC personal insolvency process?", a: "You must apply to the Debt Recovery Tribunal (DRT), and pay the requisite fees. It is highly advised to consult a legal expert before filing." }
                 ].map((faq, i) => (
                   <div key={i} className="bg-white border border-[#DEDEDE] rounded-xl p-6 hover:shadow-md transition-shadow">
-                    <h3 className="text-lg font-bold text-[#2E2E2E] mb-2">{faq.q}</h3>
+                    <h4 className="text-lg font-bold text-[#2E2E2E] mb-2">{faq.q}</h4>
                     <p className="text-gray-700">{faq.a}</p>
                   </div>
                 ))}
@@ -435,7 +435,7 @@ export default function PersonalBankruptcyIndia() {
             {/* Lead Gen Hook */}
             <div className="bg-[#2E2E2E] text-white p-12 rounded-[40px] text-center mt-24 relative overflow-hidden group">
               <div className="absolute inset-0 bg-[#1F5EFF] opacity-0 group-hover:opacity-5 transition-opacity"></div>
-              <h3 className="text-3xl md:text-4xl font-black mb-6 relative z-10">Drowning in debt from multiple apps and banks?</h3>
+              <h4 className="text-3xl md:text-4xl font-black mb-6 relative z-10">Drowning in debt from multiple apps and banks?</h4>
               <p className="text-lg md:text-xl text-gray-300 mb-8 max-w-2xl mx-auto relative z-10">
                 Before taking the extreme step of declaring bankruptcy, let our experts negotiate a massive consolidated settlement. Protect your dignity, stop harassment, and save money.
               </p>

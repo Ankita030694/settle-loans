@@ -186,17 +186,17 @@ export default function LoanSettlementProcessPage() {
                         </section>
 
                         <section id="hardship-disclosure" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight underline decoration-[#1F5EFF] underline-offset-[12px]">Step 1: The Tactical Hardship Disclosure</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight underline decoration-[#1F5EFF] underline-offset-[12px]">Step 1: The Tactical Hardship Disclosure</h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 You cannot just tell the bank you don't have money. You must prove that you **cannot** have the money. Banks categorize borrowers into 'Willing but Unable' and 'Unwilling but Able' (Wilful Defaulters). Your entire disclosure strategy must lean heavily into the former.
                             </p>
                             <div className="grid md:grid-cols-2 gap-8 mb-10">
                                 <div className="p-8 bg-white border border-[#DEDEDE] rounded-3xl shadow-sm">
-                                    <h3 className="font-black text-[#1F5EFF] mb-4 uppercase tracking-tighter">The Income Audit</h3>
+                                    <h4 className="font-black text-[#1F5EFF] mb-4 uppercase tracking-tighter">The Income Audit</h4>
                                     <p className="text-sm">Present your primary bank statements showing the exact date your income stopped or dipped. Use ITR filings to prove a year-on-year decline in business revenue or salary.</p>
                                 </div>
                                 <div className="p-8 bg-white border border-[#DEDEDE] rounded-3xl shadow-sm">
-                                    <h4 className="font-black text-[#1F5EFF] mb-4 uppercase tracking-tighter">The Liability Map</h4>
+                                    <h5 className="font-black text-[#1F5EFF] mb-4 uppercase tracking-tighter">The Liability Map</h5>
                                     <p className="text-sm">Show the bank your total debt ecosystem. If you owe 5 banks, telling Bank A that you only have 2 Lakhs for everyone creates a competitive pressure for them to settle first.</p>
                                 </div>
                             </div>
@@ -207,7 +207,7 @@ export default function LoanSettlementProcessPage() {
 
                         <section id="negotiation-stages" className="scroll-mt-32 mb-16 bg-[#2E2E2E] text-white p-12 rounded-[40px] relative overflow-hidden">
                             <div className="absolute top-0 right-0 w-64 h-64 bg-[#1F5EFF]/10 rounded-full -translate-y-32 translate-x-32"></div>
-                            <h2 className="text-3xl md:text-4xl font-black mb-8 leading-tight relative z-10">Step 2: The Three Stages of Negotiation</h2>
+                            <h3 className="text-3xl md:text-4xl font-black mb-8 leading-tight relative z-10">Step 2: The Three Stages of Negotiation</h3>
                             <p className="text-lg opacity-80 mb-8 relative z-10">
                                 A successful settlement is never achieved in one meeting. It is a slow dance between your limited capacity and the bank's recovery target.
                             </p>
@@ -215,21 +215,21 @@ export default function LoanSettlementProcessPage() {
                                 <div className="flex gap-6 items-center border-b border-white/10 pb-4">
                                     <span className="text-4xl font-black text-[#1F5EFF]">01</span>
                                     <div>
-                                        <h3 className="font-bold text-xl mb-2">The Anchor Stage</h3>
+                                        <h4 className="font-bold text-xl mb-2">The Anchor Stage</h4>
                                         <p className="opacity-70 text-sm">The bank will offer a 10-20% waiver on interest. You respond with a 25% Principal-only 'Counter-Anchor'. This establishes the negotiation floor.</p>
                                     </div>
                                 </div>
                                 <div className="flex gap-6 items-center border-b border-white/10 pb-4">
                                     <span className="text-4xl font-black text-[#1F5EFF]">02</span>
                                     <div>
-                                        <h4 className="font-bold text-xl mb-2">The Impasse Stage</h4>
+                                        <h5 className="font-bold text-xl mb-2">The Impasse Stage</h5>
                                         <p className="opacity-70 text-sm">The bank will stop calling for a few weeks to pressure you. Do not panic. This 'Silence Window' is where their provisioning costs rise and their resolve softens.</p>
                                     </div>
                                 </div>
                                 <div className="flex gap-6 items-center">
                                     <span className="text-4xl font-black text-[#1F5EFF]">03</span>
                                     <div>
-                                        <h5 className="font-bold text-xl mb-2">The Quarter-End Stage</h5>
+                                        <h6 className="font-bold text-xl mb-2">The Quarter-End Stage</h6>
                                         <p className="opacity-70 text-sm">Most deep-discount settlements happen in the last 15 days of March, June, September, or December when banks need to clean their NPA books for quarterly reporting.</p>
                                     </div>
                                 </div>
@@ -237,12 +237,12 @@ export default function LoanSettlementProcessPage() {
                         </section>
 
                         <section id="rbi-legal-framework" className="scroll-mt-32 mb-16 mt-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">Step 3: Weaponizing the RBI Framework 2024</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">Step 3: Weaponizing the RBI Framework 2024</h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 The Reserve Bank of India (RBI) circular on 'Compromise Settlements and Technical Write-offs' (revised in 2023-24) is your bible. It mandates that lenders must have transparent, board-approved policies for settlement. You have the right to request the bank's settlement 'Framework' if you are in a formal negotiation.
                             </p>
                             <div className="bg-orange-50 p-8 rounded-3xl border border-orange-100 mb-8">
-                                <h3 className="text-xl font-black text-orange-900 mb-4">The Lok Adalat Shortcut</h3>
+                                <h4 className="text-xl font-black text-orange-900 mb-4">The Lok Adalat Shortcut</h4>
                                 <p className="text-orange-800 leading-relaxed font-medium">If your case is sent to a Lok Adalat, it is a massive opportunity. Settlements in Lok Adalats are considered 'Decrees' and are very hard to contest later. These platforms are designed for high-volume, high-discount settlements with minimal legal cost for both parties.</p>
                             </div>
                             <p className="text-lg leading-relaxed">
@@ -251,7 +251,7 @@ export default function LoanSettlementProcessPage() {
                         </section>
 
                         <section id="settlement-letter-audit" className="scroll-mt-32 mb-16 mt-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight text-center">Step 4: The 7-Point Settlement Letter Audit</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight text-center">Step 4: The 7-Point Settlement Letter Audit</h3>
                             <p className="text-lg leading-relaxed mb-10 text-center">Never pay a single rupee until you have a formal letter in hand. But having a letter is not enough; the **content** of the letter must be airtight.</p>
                             <div className="bg-white border-2 border-gray-100 p-10 rounded-[50px] shadow-sm">
                                 <ul className="space-y-6">
@@ -276,12 +276,12 @@ export default function LoanSettlementProcessPage() {
                         </section>
 
                         <section id="payment-protocols" className="scroll-mt-32 mb-16 mt-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">Step 5: Settlement Payment Protocols</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">Step 5: Settlement Payment Protocols</h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 The most dangerous part of the process is the actual payment. Borrowers often pay recovery agents directly in cash, hope for the best, and never hear back.
                             </p>
                             <div className="p-8 bg-[#1F5EFF] rounded-[40px] text-white shadow-2xl relative overflow-hidden">
-                                <h3 className="text-xl font-black mb-4 uppercase tracking-widest">The "Digital Trail" Rule</h3>
+                                <h4 className="text-xl font-black mb-4 uppercase tracking-widest">The "Digital Trail" Rule</h4>
                                 <p className="opacity-90 leading-relaxed font-bold">
                                     Always pay through NEFT/RTGS directly into your loan account number or a Demand Draft (DD) favoring the bank only. If an agent asks for a payment in his name or 'Company Name', it is a 100% scam. Document the transaction ID and save the bank acknowledgment receipt as if it were your life.
                                 </p>
@@ -289,7 +289,7 @@ export default function LoanSettlementProcessPage() {
                         </section>
 
                         <section id="noc-issuance" className="scroll-mt-32 mb-16 mt-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight underline decoration-[#1F5EFF] underline-offset-[10px]">Step 6: NOC & Account Closure</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight underline decoration-[#1F5EFF] underline-offset-[10px]">Step 6: NOC & Account Closure</h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 Payment is not closure. Closure is the No Dues Certificate (NDC) or No Objection Certificate (NOC). Under 2024 RBI Consumer Protection guidelines, banks must issue this within 30 days of the final payment. If they don't, you can claim a penalty of Rs. 5000 per day of delay.
                             </p>
@@ -299,28 +299,28 @@ export default function LoanSettlementProcessPage() {
                         </section>
 
                         <section id="credit-rehab" className="scroll-mt-32 mb-16 text-center">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">Step 7: Credit Score Rehabilitation</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">Step 7: Credit Score Rehabilitation</h3>
                             <p className="text-lg leading-relaxed mb-10 max-w-2xl mx-auto italic font-medium">
                                 A settlement will mark your credit report as 'Settled'. This will prevent you from getting a loan from top-tier banks for 5-7 years. But it isn't a life sentence.
                             </p>
                             <div className="grid md:grid-cols-3 gap-6">
                                 <div className="p-6 bg-white border-2 border-gray-100 rounded-3xl">
-                                    <h3 className="font-black mb-3 uppercase text-xs tracking-widest text-[#1F5EFF]">Verify Status</h3>
+                                    <h4 className="font-black mb-3 uppercase text-xs tracking-widest text-[#1F5EFF]">Verify Status</h4>
                                     <p className="text-xs opacity-70">Ensure CIBIL updates your status to 'Settled' with zero balance within 60 days. If it still shows 'Outstanding', file a dispute.</p>
                                 </div>
                                 <div className="p-6 bg-white border-2 border-gray-100 rounded-3xl">
-                                    <h4 className="font-black mb-3 uppercase text-xs tracking-widest text-green-600">Secure Card</h4>
+                                    <h5 className="font-black mb-3 uppercase text-xs tracking-widest text-green-600">Secure Card</h5>
                                     <p className="text-xs opacity-70">Get a Credit Card against an FD (Fixed Deposit). This starts reporting 'On-Time' payments to bureaus, slowly diluting the 'Settled' tag.</p>
                                 </div>
                                 <div className="p-6 bg-white border-2 border-gray-100 rounded-3xl">
-                                    <h5 className="font-black mb-3 uppercase text-xs tracking-widest">Clear Records</h5>
+                                    <h6 className="font-black mb-3 uppercase text-xs tracking-widest">Clear Records</h6>
                                     <p className="text-xs opacity-70">Keep all your utility and phone bill payments automated. Bureaus are increasingly using non-loan data to rebuild 'Default-Adjusted' scores.</p>
                                 </div>
                             </div>
                         </section>
 
                         <section id="common-traps" className="scroll-mt-32 mb-16 mt-16 bg-[#2E2E2E] p-12 rounded-[50px] text-white">
-                            <h2 className="text-3xl font-black mb-8">Dangerous Agent Traps to Avoid</h2>
+                            <h3 className="text-3xl font-black mb-8">Dangerous Agent Traps to Avoid</h3>
                             <div className="space-y-6">
                                 <div className="flex gap-4">
                                     <div className="w-8 h-8 rounded-full bg-red-500 flex-shrink-0 flex items-center justify-center font-bold">!</div>
@@ -338,7 +338,7 @@ export default function LoanSettlementProcessPage() {
                         </section>
 
                         <section id="success-stories" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 text-center uppercase tracking-tighter decoration-[#1F5EFF] underline decoration-4">Settlement Success Stories</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 text-center uppercase tracking-tighter decoration-[#1F5EFF] underline decoration-4">Settlement Success Stories</h3>
                             <div className="grid md:grid-cols-2 gap-6 not-prose">
                                 {[
                                     {
@@ -361,7 +361,7 @@ export default function LoanSettlementProcessPage() {
                                             <div className="w-10 h-10 rounded-full bg-blue-100 flex items-center justify-center font-bold text-blue-600 mr-3">
                                                 {review.name.charAt(0)}
                                             </div>
-                                            <h3 className="font-bold text-[#2E2E2E]">{review.name}</h3>
+                                            <h4 className="font-bold text-[#2E2E2E]">{review.name}</h4>
                                             <div className="ml-auto text-yellow-400 text-sm">★★★★★</div>
                                         </div>
                                         <div className="mb-4 flex gap-4 text-[10px] font-mono">
@@ -375,7 +375,7 @@ export default function LoanSettlementProcessPage() {
                         </section>
 
                         <section id="faqs" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-12 text-center underline decoration-[#1F5EFF] decoration-4">Settlement Process FAQ's</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-12 text-center underline decoration-[#1F5EFF] decoration-4">Settlement Process FAQ's</h3>
                             <div className="space-y-6">
                                 {[
                                     { q: "Can I settle my loan while it is still 'Standard'?", a: "Extremely difficult. Banks only settle when recovery seems uncertain. However, the new 2024 RBI guidelines allow for 'Pre-Default' restructuring in specific hardship cases." },
@@ -392,7 +392,7 @@ export default function LoanSettlementProcessPage() {
                                     { q: "What is a 'Technical Write-off' in settlement?", a: "It's an internal bank accounting process where they remove the loan from the active ledger but keep the right to recover. A settlement effectively ends this recovery right." }
                                 ].map((faq, i) => (
                                     <div key={i} className="p-8 bg-white border border-[#DEDEDE] rounded-3xl shadow-sm transition-all hover:shadow-lg">
-                                        <h3 className="font-black text-[#2E2E2E] mb-4 text-xl border-b pb-2 border-[#1F5EFF]/10">{faq.q}</h3>
+                                        <h4 className="font-black text-[#2E2E2E] mb-4 text-xl border-b pb-2 border-[#1F5EFF]/10">{faq.q}</h4>
                                         <p className="text-gray-600 leading-relaxed text-lg italic">"{faq.a}"</p>
                                     </div>
                                 ))}
@@ -400,7 +400,7 @@ export default function LoanSettlementProcessPage() {
                         </section>
 
                         <section className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight text-center">Your Journey to Financial Freedom Starts Here.</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight text-center">Your Journey to Financial Freedom Starts Here.</h3>
                             <p className="text-lg leading-relaxed mb-6 italic font-bold text-center">Process is the pathway, strategy is the vehicle. Let's drive you to safety.</p>
                             <div className="bg-[#1F5EFF] p-10 rounded-[40px] text-center text-white shadow-2xl">
                                 <p className="text-2xl font-black mb-8 tracking-tight">The difference between a 'Defaulter' and a 'Debt-Free Citizen' is one well-negotiated letter.</p>

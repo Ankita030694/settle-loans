@@ -188,7 +188,7 @@ export default function YesBankSettlementPage() {
             </section>
 
             <section id="arc-shift" className="scroll-mt-32 mb-32">
-                <h3 className="text-4xl font-black text-[#1a202c] mb-12">2. The J.C. Flowers ARC Paradigm: A New Window for Settlement</h3>
+                <h4 className="text-4xl font-black text-[#1a202c] mb-12">2. The J.C. Flowers ARC Paradigm: A New Window for Settlement</h4>
                 <div className="space-y-10">
                     <p>
                         In a historic move, YES Bank offloaded approximately 48,000 crores of stressed loans to J.C. Flowers Asset Reconstruction Company (ARC). If you are reading this, there is a high probability that your "Owner of Debt" has changed. Most borrowers treat this as a negative development, fearing "private collectors," but SettleLoans views it as a strategic opportunity. This transfer is not just a change of name on a letterhead; it is a fundamental shift in the legal and financial incentives governing your debt.
@@ -206,7 +206,7 @@ export default function YesBankSettlementPage() {
             </section>
 
             <section id="credit-trap" className="scroll-mt-32 mb-32">
-                <h3 className="text-4xl font-black text-[#1a202c] mb-12">3. YES First & YES Prosperity: The Math of the Credit Trap</h3>
+                <h4 className="text-4xl font-black text-[#1a202c] mb-12">3. YES First & YES Prosperity: The Math of the Credit Trap</h4>
                 <div className="space-y-10">
                     <p>
                         YES Bank's credit card portfolio, especially the YES First and YES Prosperity series, was marketed as premium "Life-Style" products. However, beneath the airport lounge access and reward points lies a mathematical engine designed to keep you in perpetual debt. With revolving interest rates reaching 3.99% per month (nearly 48% APR), a missed payment of 1 lakh can balloon to 3 lakhs in less than 24 months. The compounding frequency at YES Bank is often daily, meaning your interest is calculated on the previous day's interest, creating a vertical curve of debt that is almost impossible to escape using standard repayment methods.
@@ -224,7 +224,7 @@ export default function YesBankSettlementPage() {
             </section>
 
             <section id="yes-robot" className="scroll-mt-32 mb-32">
-                <h3 className="text-4xl font-black text-[#1a202c] mb-12">4. YES Robot Recovery: Defeating the AI Collector</h3>
+                <h4 className="text-4xl font-black text-[#1a202c] mb-12">4. YES Robot Recovery: Defeating the AI Collector</h4>
                 <div className="space-y-10">
                     <p>
                         YES Bank was one of the first in India to deploy "YES Robot": an AI-driven communication system. In 2026, this system has evolved into a predictive recovery engine. It analyzes your social media activity, your digital footprints, and your spending patterns to determine the "Psychological Pressure Point" at which you are most likely to pay. If the system detects you are booking a flight or shopping online while in default, it immediately triggers a series of high-intensity recovery notifications.
@@ -242,7 +242,7 @@ export default function YesBankSettlementPage() {
             </section>
 
             <section id="personal-loan" className="scroll-mt-32 mb-32">
-                <h3 className="text-4xl font-black text-[#1a202c] mb-12">5. YES Bank Personal Loan Resolution: The Linear Recovery Path</h3>
+                <h4 className="text-4xl font-black text-[#1a202c] mb-12">5. YES Bank Personal Loan Resolution: The Linear Recovery Path</h4>
                 <div className="space-y-10">
                     <p>
                         Personal loans at YES Bank are typically unsecured and follow a strict "Linear Recovery Path." This path starts with internal reminders, moves to third-party tele-calling, progresses to field visits, and eventually leads to a "Write-off" followed by transfer to an ARC or legal action. The speed of this transition has increased in 2026, with accounts moving to the "Stressed Assets" category faster than ever before.
@@ -257,7 +257,7 @@ export default function YesBankSettlementPage() {
             </section>
 
             <section id="hardship" className="scroll-mt-32 mb-32">
-                <h3 className="text-4xl font-black text-[#1a202c] mb-12">6. Genuine Hardship Proof: The Technical Barrier to Entry</h3>
+                <h4 className="text-4xl font-black text-[#1a202c] mb-12">6. Genuine Hardship Proof: The Technical Barrier to Entry</h4>
                 <div className="space-y-10">
                     <p>
                         YES Bank's Regional Settlement Committee (RSC) operates on a "Zero-Trust" model. In 2026, simply claiming financial distress is insufficient to trigger a large waiver. To qualify for a deep settlement (60% to 75% waiver), your profile must meet specific, documented "Insolvency Tiers." These tiers are evaluated by a combination of manual oversight and algorithmic asset-scoping.
@@ -275,7 +275,7 @@ export default function YesBankSettlementPage() {
             </section>
 
             <section id="legal-shield" className="scroll-mt-32 mb-32">
-                <h3 className="text-4xl font-black text-[#1a202c] mb-12">7. Sec 138 & Legal Defense: Strategic Protection Against Litigation</h3>
+                <h4 className="text-4xl font-black text-[#1a202c] mb-12">7. Sec 138 & Legal Defense: Strategic Protection Against Litigation</h4>
                 <div className="space-y-10">
                     <p>
                         YES Bank is historically aggressive in using the Indian legal system as a recovery tool. The most common weapon is Section 138 of the Negotiable Instruments (NI) Act, which is triggered when a repayment cheque or a NACH (National Automated Clearing House) mandate fails due to insufficient funds. While a simple loan default is a civil matter, a bounced cheque or NACH is a quasi-criminal offense. YES Bank often files these cases in "Centralized Legal Hubs" like Delhi or Mumbai, forcing borrowers from other states to travel long distances for hearings. This is a tactic designed to exhaust you physically and financially.
@@ -290,7 +290,7 @@ export default function YesBankSettlementPage() {
             </section>
 
             <section id="rbi-codes" className="scroll-mt-32 mb-32">
-                <h3 className="text-4xl font-black text-[#1a202c] mb-12">8. RBI Recovery Codes: Turning the Tables on Aggressive Agents</h3>
+                <h4 className="text-4xl font-black text-[#1a202c] mb-12">8. RBI Recovery Codes: Turning the Tables on Aggressive Agents</h4>
                 <div className="space-y-10">
                     <p>
                         Most YES Bank customers do not realize that the RBI (Reserve Bank of India) has strict "Master Directions" on the conduct of recovery agents (2022-2026). Any violation of these codes is a powerful bargaining chip that we use to secure deeper discounts. Common violations by YES Bank's CSPs (Collection Service Providers) include calling at odd hours (before 8 AM or after 7 PM), using abusive language, or contacting friends and relatives who were not co-applicants. The RBI's "Master Directions on Recovery Agent Conduct" are your most effective weapon. To maximize their commissions, these agents often cross the legal red lines by calling relatives, visiting your workplace without a 7-day notice, or using threatening language that borders on criminal intimidation.
@@ -305,7 +305,7 @@ export default function YesBankSettlementPage() {
             </section>
 
             <section id="cibil" className="scroll-mt-32 mb-32">
-                <h3 className="text-4xl font-black text-[#1a202c] mb-12">9. Post-Settlement CIBIL Roadmap: Rebuilding Your Financial Reputation</h3>
+                <h4 className="text-4xl font-black text-[#1a202c] mb-12">9. Post-Settlement CIBIL Roadmap: Rebuilding Your Financial Reputation</h4>
                 <div className="space-y-10">
                     <p>
                         A settlement remark on your CIBIL report is not a "Financial Death Sentence." It is a managed exit. While your score will take an immediate dip, a "Settled" status is infinitely better than an "Active Default" or a "Written-Off" status. An active default tells other banks you have no intention to pay; a settled status tells them you hit a rough patch but took responsibility to close your obligations. In 2026, many fintech lenders and even private banks are beginning to look at the "Recency of Settlement" rather than just the existence of the remark.
@@ -323,7 +323,7 @@ export default function YesBankSettlementPage() {
             </section>
 
             <section id="business" className="scroll-mt-32 mb-32">
-                <h3 className="text-4xl font-black text-[#1a202c] mb-12">10. YES Bank SME & Business Debt Resolution: Collision of Collateral and Cash Flow</h3>
+                <h4 className="text-4xl font-black text-[#1a202c] mb-12">10. YES Bank SME & Business Debt Resolution: Collision of Collateral and Cash Flow</h4>
                 <div className="space-y-10">
                     <p>
                         Business loans and SME credit at YES Bank often involve collateral (residential or commercial property) or personal guarantees from the directors. In 2026, the bank's approach to business debt is to move quickly toward SARFAESI (Securitization and Reconstruction of Financial Assets and Enforcement of Security Interest) Act procedures if a property is involved. This involves a 60-day notice followed by a 30-day notice for possession.
@@ -338,7 +338,7 @@ export default function YesBankSettlementPage() {
             </section>
 
             <section id="psychology" className="scroll-mt-32 mb-32">
-                <h3 className="text-4xl font-black text-[#1a202c] mb-12">11. Psychology of Recovery: Reclaiming Your Mental Space</h3>
+                <h4 className="text-4xl font-black text-[#1a202c] mb-12">11. Psychology of Recovery: Reclaiming Your Mental Space</h4>
                 <div className="space-y-10">
                     <p>
                         The most damaging part of the YES Bank recovery process is not the financial loss: it is the psychological toll. The "Social Shame" tactic: sending agents to your house and office: is designed to make you act out of fear rather than logic. When you are in a state of high cortisol (stress), you cannot make rational financial decisions. The bank's recovery agencies are trained in "Pressure-Induced Compliance," hoping you will borrow from friends or family at even higher interest rates just to stop the immediate harassment.
@@ -350,7 +350,7 @@ export default function YesBankSettlementPage() {
             </section>
 
             <section id="lok-adalat" className="scroll-mt-32 mb-32">
-                <h3 className="text-4xl font-black text-[#1a202c] mb-12">12. Lok Adalat Procedures: The Judicial Peace Treaty</h3>
+                <h4 className="text-4xl font-black text-[#1a202c] mb-12">12. Lok Adalat Procedures: The Judicial Peace Treaty</h4>
                 <div className="space-y-10">
                     <p>
                         YES Bank participates heavily in National and State Lok Adalats (People's Courts). This is often the best venue for a final "Judicial Settlement." A Lok Adalat decree has the same legal force as a regular court decree, but it is reached through conciliation and cannot be appealed. It provides a formal, court-recognized closure that is immune to future corporate disputes or data errors at the bank.
@@ -362,7 +362,7 @@ export default function YesBankSettlementPage() {
             </section>
 
             <section id="obstacles" className="scroll-mt-32 mb-32">
-                <h3 className="text-4xl font-black text-[#1a202c] mb-12">13. Common Success Traps: Avoiding the ARC Miscommunication</h3>
+                <h4 className="text-4xl font-black text-[#1a202c] mb-12">13. Common Success Traps: Avoiding the ARC Miscommunication</h4>
                 <div className="space-y-10">
                     <p>
                         The biggest obstacle in a YES Bank settlement today is the "Data Mismatch" between the bank and J.C. Flowers ARC. You might reach an agreement with an agent appearing to represent the bank, only to find out later that the ARC does not recognize the deal because the "Cut-off Date" for the transfer had already passed. This can lead to a situation where you pay the bank but your CIBIL still shows a default with the ARC.
@@ -374,7 +374,7 @@ export default function YesBankSettlementPage() {
             </section>
 
             <section id="reviews" className="scroll-mt-32 mb-32">
-                <h3 className="text-4xl font-black text-[#1a202c] mb-12">14. YES Bank Client Success Stories & Review Snippets</h3>
+                <h4 className="text-4xl font-black text-[#1a202c] mb-12">14. YES Bank Client Success Stories & Review Snippets</h4>
                 <div className="grid grid-cols-1 md:grid-cols-2 gap-8">
                   {[
                     {
@@ -418,7 +418,7 @@ export default function YesBankSettlementPage() {
                       <p className="text-lg opacity-80 leading-relaxed mb-8 font-light italic">"{review.text}"</p>
                       <div className="flex justify-between items-end">
                         <div>
-                          <h4 className="font-black text-[#1a202c] leading-tight">{review.name}</h4>
+                          <h5 className="font-black text-[#1a202c] leading-tight">{review.name}</h5>
                           <p className="text-sm opacity-50 uppercase tracking-widest">{review.location}</p>
                         </div>
                         <div className="text-right">
@@ -432,7 +432,7 @@ export default function YesBankSettlementPage() {
             </section>
 
             <section id="faqs" className="scroll-mt-32 mb-32">
-                <h3 className="text-4xl font-black text-[#00518F] mb-12">15. Technical FAQ Desk: Expert Answers for YES Bank Customers</h3>
+                <h4 className="text-4xl font-black text-[#00518F] mb-12">15. Technical FAQ Desk: Expert Answers for YES Bank Customers</h4>
                 <div className="space-y-12">
                   {[
                     { q: "Is J.C. Flowers ARC different from YES Bank?", a: "Yes. J.C. Flowers is a private Asset Reconstruction Company that purchased stressed loans from YES Bank. If your loan is transferred, they are your new legal creditor. They usually offer better settlement discounts than the bank because they bought the debt at a massive discount (often 75% or 80% below the book value). This allows for deep OTS possibilities that internal bank committees seldom approve. We negotiate with their specialized resolution managers who are authorized to offer aggressive waivers for quick closures." },
@@ -452,7 +452,7 @@ export default function YesBankSettlementPage() {
                     { q: "Will the bank still sue me if I am in the process of settlement?", a: "If the settlement is being negotiated professionally, banks typically put legal actions on 'Hold' or 'Abeyance.' However, we monitor the court registers to ensure no 'Ex-Parte' orders are passed while we are talking to the settlement managers. This dual-track approach keeps your legal interests protected while we work on the financial resolution." }
                   ].map((faq, i) => (
                     <div key={i} className="pb-10 border-b border-slate-100 group">
-                       <h4 className="text-2xl font-black text-[#1a202c] mb-4 group-hover:text-[#00518F] transition-colors">{faq.q}</h4>
+                       <h5 className="text-2xl font-black text-[#1a202c] mb-4 group-hover:text-[#00518F] transition-colors">{faq.q}</h5>
                        <p className="text-lg opacity-70 leading-relaxed font-light">{faq.a}</p>
                     </div>
                   ))}
@@ -460,9 +460,9 @@ export default function YesBankSettlementPage() {
             </section>
 
             <section id="conclusion" className="scroll-mt-32 mb-16">
-               <h3 className="text-5xl md:text-[120px] font-black text-[#1a202c] mb-16 leading-[0.8] tracking-tighter uppercase">
+               <h4 className="text-5xl md:text-[120px] font-black text-[#1a202c] mb-16 leading-[0.8] tracking-tighter uppercase">
                   Debt. <br className="hidden md:block"/> <span className="text-[#C4261D]">Deleted.</span>
-               </h3>
+               </h4>
                <div className="space-y-12 text-3xl font-light leading-relaxed">
                   <p>
                     You have just finished an extensive technical guide of over 6,000 words. This knowledge is your foundation for freedom. Navigating the complexities of YES Bank and J.C. Flowers ARC is a technical challenge, but with the right strategy, it is entirely possible to reclaim your financial life. The path to debt-freedom is paved with technical precision and legal resilience.
@@ -472,7 +472,7 @@ export default function YesBankSettlementPage() {
                   </p>
                   <div className="bg-[#00518F] text-white p-24 rounded-[80px] text-center shadow-[0_80px_150px_rgba(0,81,143,0.4)] relative overflow-hidden mt-10">
                      <div className="absolute top-0 left-0 w-full h-full bg-[#C4261D]/5 transform -rotate-12 translate-x-1/2"></div>
-                     <h2 className="text-7xl font-black mb-12 leading-none relative z-10 uppercase italic">Start Your YES <br/> Recovery Today</h2>
+                     <h3 className="text-7xl font-black mb-12 leading-none relative z-10 uppercase italic">Start Your YES <br/> Recovery Today</h3>
                      <Link href="/contact" className="inline-block bg-[#C4261D] text-white font-black py-10 px-32 rounded-3xl text-5xl hover:scale-110 active:scale-95 transition-all shadow-4xl relative z-10 uppercase tracking-tighter">
                         Free Legal Consultation
                      </Link>

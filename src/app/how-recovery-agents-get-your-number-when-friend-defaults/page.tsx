@@ -301,25 +301,25 @@ export default function RecoveryAgentHarassmentGuide() {
             </section>
 
             <section id="how-they-find-you" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">How Recovery Agents Get Your Details</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">How Recovery Agents Get Your Details</h3>
               <p className="text-lg leading-relaxed mb-6">
                 Recovery agents in India use a combination of digital footprints and traditional tracing methods to find anyone connected to a defaulting borrower. While the methods vary, the goal is always the same: social pressure.
               </p>
               <div className="space-y-6">
                 <div className="p-6 bg-gray-50 rounded-xl border border-gray-200">
-                  <h3 className="text-xl font-bold mb-3 text-[#1F5EFF]">1. Provided as a Reference</h3>
+                  <h4 className="text-xl font-bold mb-3 text-[#1F5EFF]">1. Provided as a Reference</h4>
                   <p className="text-gray-700 leading-relaxed">
                     The most common way is that the borrower provided your name and number as a personal reference during the loan application. Banks usually require 2 or 3 references for personal loans and credit cards. Agents use these names as the first point of contact when the borrower stops answering calls.
                   </p>
                 </div>
                 <div className="p-6 bg-gray-50 rounded-xl border border-gray-200">
-                  <h3 className="text-xl font-bold mb-3 text-[#1F5EFF]">2. Digital Footprinting and Social Media</h3>
+                  <h4 className="text-xl font-bold mb-3 text-[#1F5EFF]">2. Digital Footprinting and Social Media</h4>
                   <p className="text-gray-700 leading-relaxed">
                     In the age of Instagram, Facebook, and LinkedIn, tracing connections is trivial. Agents often search for the borrower's profile and see who they interact with most. If you have commented on their photos or are listed as a family member, you become a target.
                   </p>
                 </div>
                 <div className="p-6 bg-gray-50 rounded-xl border border-gray-200">
-                  <h3 className="text-xl font-bold mb-3 text-[#1F5EFF]">3. Public and Professional Directories</h3>
+                  <h4 className="text-xl font-bold mb-3 text-[#1F5EFF]">3. Public and Professional Directories</h4>
                   <p className="text-gray-700 leading-relaxed">
                     Apps like Truecaller or professional portals like Naukri and Monster provide a wealth of data. Agents often look for mutual connections or people working in the same organization as the borrower.
                   </p>
@@ -328,14 +328,14 @@ export default function RecoveryAgentHarassmentGuide() {
             </section>
 
             <section id="scraping-permission" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">The Shadow of Contact Scraping</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">The Shadow of Contact Scraping</h3>
               <p className="text-lg leading-relaxed mb-6">
                 This is perhaps the most invasive method. Many digital lending apps, especially unregulated ones, require the borrower to grant 'Contact List' permissions before the loan is disbursed.
               </p>
               <div className="bg-red-50 p-8 rounded-2xl border-l-4 border-red-500 mb-8">
-                <h3 className="font-black text-red-900 mb-4 text-xl flex items-center">
+                <h4 className="font-black text-red-900 mb-4 text-xl flex items-center">
                    <span className="mr-2">🚨</span> The Tech Behind the Harassment
-                </h3>
+                </h4>
                 <p className="text-red-800 leading-relaxed mb-4">
                   When a borrower clicks 'Allow' on a contact permission prompt, the app uploads their entire phonebook to a central server. The algorithm then identifies the most frequently called or messaged contacts. These people are tagged as 'High-Intensity References.'
                 </p>
@@ -346,12 +346,12 @@ export default function RecoveryAgentHarassmentGuide() {
             </section>
 
             <section id="psychology" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">The Psychology of Harassment: Why They Target You</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">The Psychology of Harassment: Why They Target You</h3>
               <p className="text-lg leading-relaxed mb-6">
                 Recovery agents are not just looking for money; they are weaponizing your relationships. The psychological core of their strategy is 'Social Shaming.' They know that if they call your boss or your mother-in-law, you will be so embarrassed that you will borrow money from somewhere else just to make the calls stop.
               </p>
               <div className="bg-gray-900 text-white p-10 rounded-3xl mb-8">
-                <h3 className="text-2xl font-black mb-6 text-[#1F5EFF]">The 'Third-Party Pressure' Cycle</h3>
+                <h4 className="text-2xl font-black mb-6 text-[#1F5EFF]">The 'Third-Party Pressure' Cycle</h4>
                 <div className="space-y-6">
                   <div className="border-l-2 border-[#1F5EFF] pl-6">
                     <p className="font-bold mb-2">Phase 1: The Soft Trace</p>
@@ -373,10 +373,10 @@ export default function RecoveryAgentHarassmentGuide() {
             </section>
 
             <section id="legal-status" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">Are You Legally Liable?</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">Are You Legally Liable?</h3>
               <div className="flex flex-col gap-6">
                 <div className="bg-white border-2 border-[#1F5EFF] p-8 rounded-2xl shadow-lg">
-                  <h3 className="text-2xl font-black text-[#1F5EFF] mb-4">The Short Answer: NO.</h3>
+                  <h4 className="text-2xl font-black text-[#1F5EFF] mb-4">The Short Answer: NO.</h4>
                   <p className="text-lg leading-relaxed text-gray-800">
                     Unless you have specifically signed a document as a <strong>Guarantor</strong> or a <strong>Co-Borrower</strong>, you have zero legal liability for the loan. Being a "Reference" is not a legal commitment to pay. You are essentially a stranger to the contract between the bank and the borrower.
                   </p>
@@ -388,7 +388,7 @@ export default function RecoveryAgentHarassmentGuide() {
             </section>
 
             <section id="helping-friend" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">Helping Your Friend Ethically: A Guide for You</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">Helping Your Friend Ethically: A Guide for You</h3>
               <p className="text-lg leading-relaxed mb-6">
                 Oftentimes, you want to help your friend but don't want to get pulled into the fire yourself. If your friend has defaulted, they are likely in a state of high stress. Here is how you can support them without becoming a victim of harassment:
               </p>
@@ -397,7 +397,7 @@ export default function RecoveryAgentHarassmentGuide() {
                   "Don't provide your number as a guarantor for their next loan. Helping with advice is better than helping with your credit score."
                 </div>
                 <div className="p-6 bg-blue-50 rounded-2xl border border-blue-100">
-                  <h3 className="font-bold mb-2">The 'Settle' Advice</h3>
+                  <h4 className="font-bold mb-2">The 'Settle' Advice</h4>
                   <p className="text-sm">Tell your friend about SettleLoans. Instead of running from calls, they can close the loan legally for a fraction of the cost.</p>
                 </div>
               </div>
@@ -407,7 +407,7 @@ export default function RecoveryAgentHarassmentGuide() {
             </section>
 
             <section id="rbi-guidelines" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">RBI Guidelines (2024-2025): Your Shield</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">RBI Guidelines (2024-2025): Your Shield</h3>
               <p className="mb-8 text-lg">
                 The Reserve Bank of India (RBI) has issued strict Master Circulars to curb the menace of recovery harassment. Understanding these rules is the first step to fighting back.
               </p>
@@ -422,7 +422,7 @@ export default function RecoveryAgentHarassmentGuide() {
                   <div key={idx} className="flex gap-4 p-6 bg-blue-50/30 rounded-xl border border-blue-100">
                     <span className="text-2xl">✅</span>
                     <div>
-                      <h3 className="font-bold text-gray-900 mb-1">{item.title}</h3>
+                      <h4 className="font-bold text-gray-900 mb-1">{item.title}</h4>
                       <p className="text-sm text-gray-600">{item.desc}</p>
                     </div>
                   </div>
@@ -431,7 +431,7 @@ export default function RecoveryAgentHarassmentGuide() {
             </section>
 
             <section id="dark-tactics" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">Dark Recovery Tactics: Identifying the Abuse</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">Dark Recovery Tactics: Identifying the Abuse</h3>
               <p className="mb-6">Agents often use psychological triggers to force you to pressure your friend. Recognize these common (and often illegal) tactics:</p>
               <ul className="space-y-4">
                 <li className="p-5 bg-white border border-red-100 rounded-xl">
@@ -445,9 +445,9 @@ export default function RecoveryAgentHarassmentGuide() {
                 </li>
               </ul>
               <div className="mt-8 bg-[#FFF9E5] p-10 rounded-[40px] border border-[#F5C71A]/30">
-                <h3 className="text-2xl font-black mb-6 flex items-center">
+                <h4 className="text-2xl font-black mb-6 flex items-center">
                   <span className="mr-3 text-3xl">💡</span> Pro Tip: Identifying Spoofing
-                </h3>
+                </h4>
                 <p className="leading-relaxed mb-4 text-gray-800">
                   Many illegal apps use 'VoIP Spoofing' to make it look like they are calling from a local landline or even a police station. If you suspect a call is spoofed, ask the caller to wait and call the number back from a different phone. Usually, it will show as 'invalid' or connect to a completely different person.
                 </p>
@@ -458,17 +458,17 @@ export default function RecoveryAgentHarassmentGuide() {
             </section>
 
             <section id="dpdp-act" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">The DPDP Act 2023 Shield: A New Era for Privacy</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">The DPDP Act 2023 Shield: A New Era for Privacy</h3>
               <p className="text-lg leading-relaxed mb-6 font-medium">
                 The Digital Personal Data Protection (DPDP) Act of 2023 has fundamentally changed how banks handle your data. Here is why it matters to you:
               </p>
               <div className="grid md:grid-cols-2 gap-6 mb-8 text-white">
                 <div className="bg-[#2E2E2E] p-8 rounded-3xl">
-                  <h3 className="text-xl font-bold mb-4 text-[#1F5EFF]">Explicit Consent</h3>
+                  <h4 className="text-xl font-bold mb-4 text-[#1F5EFF]">Explicit Consent</h4>
                   <p className="text-sm opacity-80 leading-relaxed">Lenders must have specific, informed, and unambiguous consent to use <strong>your</strong> number. If your friend gave your number, the bank still needs <strong>your</strong> permission to call you for recovery.</p>
                 </div>
                 <div className="bg-[#2E2E2E] p-8 rounded-3xl">
-                  <h4 className="text-xl font-bold mb-4 text-[#1F5EFF]">Right to Erasure</h4>
+                  <h5 className="text-xl font-bold mb-4 text-[#1F5EFF]">Right to Erasure</h5>
                   <p className="text-sm opacity-80 leading-relaxed">You have the legal right to ask the bank to delete your personal data (number) from their recovery servers if you are not a party to the loan contract.</p>
                 </div>
               </div>
@@ -478,38 +478,38 @@ export default function RecoveryAgentHarassmentGuide() {
             </section>
 
              <section id="how-to-stop" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">The 5-Step Guide to Stop the Harassment</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">The 5-Step Guide to Stop the Harassment</h3>
               <div className="relative pl-8 border-l-4 border-[#1F5EFF] space-y-12">
                 <div className="relative">
                   <span className="absolute -left-[28px] top-0 w-12 h-12 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center font-black text-xl border-4 border-white shadow-md">1</span>
-                  <h3 className="font-black text-2xl mb-2">Record Everything</h3>
+                  <h4 className="font-black text-2xl mb-2">Record Everything</h4>
                   <p className="text-gray-600">Start recording every incoming call. Use a call recorder app or another phone. If the agent uses abusive language, tell them directly: 'This call is being recorded for legal evidence.'</p>
                 </div>
                 <div className="relative">
                   <span className="absolute -left-[28px] top-0 w-12 h-12 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center font-black text-xl border-4 border-white shadow-md">2</span>
-                  <h4 className="font-black text-2xl mb-2">Demand ID & Authorization</h4>
+                  <h5 className="font-black text-2xl mb-2">Demand ID & Authorization</h5>
                   <p className="text-gray-600">Ask for the agent's full name, their employee ID, and the name of the recovery agency. Ask for the formal authorization letter from the bank. Legit agents will provide this; harassers will hang up.</p>
                 </div>
                 <div className="relative">
                   <span className="absolute -left-[28px] top-0 w-12 h-12 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center font-black text-xl border-4 border-white shadow-md">3</span>
-                  <h4 className="font-black text-2xl mb-2">The 'Reference Only' Statement</h4>
+                  <h5 className="font-black text-2xl mb-2">The 'Reference Only' Statement</h5>
                   <p className="text-gray-600">Clearly state: 'I am not the borrower or guarantor. I do not authorize you to call me. Remove my number from your list immediately as per RBI privacy guidelines.'</p>
                 </div>
                 <div className="relative">
                   <span className="absolute -left-[28px] top-0 w-12 h-12 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center font-black text-xl border-4 border-white shadow-md">4</span>
-                  <h4 className="font-black text-2xl mb-2">Block and Report</h4>
+                  <h5 className="font-black text-2xl mb-2">Block and Report</h5>
                   <p className="text-gray-600">After the first warning, block the number. Use Truecaller's 'Report Spam' feature. If they call from a new number, repeat the process. The goal is to build a digital trail of harassment.</p>
                 </div>
                 <div className="relative">
                   <span className="absolute -left-[28px] top-0 w-12 h-12 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center font-black text-xl border-4 border-white shadow-md">5</span>
-                  <h4 className="font-black text-2xl mb-2">Legal Warning</h4>
+                  <h5 className="font-black text-2xl mb-2">Legal Warning</h5>
                   <p className="text-gray-600">Mention that you are consulting with SettleLoans and will be filing a complaint with the Banking Ombudsman. Usually, the fear of RBI penalties is enough to stop them.</p>
                 </div>
               </div>
             </section>
 
             <section id="digital-sanitization" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">Digital Privacy Sanitization Guideline</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">Digital Privacy Sanitization Guideline</h3>
               <p className="text-lg leading-relaxed mb-6">
                 Stopping the calls is phase one. Securing your digital identity is phase two. Follow this checklist:
               </p>
@@ -544,7 +544,7 @@ export default function RecoveryAgentHarassmentGuide() {
             </section>
 
             <section id="future-recovery" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">Future of Recovery: The 2026 RBI Rules</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">Future of Recovery: The 2026 RBI Rules</h3>
               <p className="text-lg leading-relaxed mb-6">
                 The RBI has proposed even stricter rules starting July 1, 2026. These include:
               </p>
@@ -568,34 +568,34 @@ export default function RecoveryAgentHarassmentGuide() {
             </section>
 
             <section id="filing-complaints" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">Filing Legal Complaints: The Heavy Artillery</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">Filing Legal Complaints: The Heavy Artillery</h3>
               <div className="grid sm:grid-cols-2 gap-6">
                 <div className="p-8 bg-black text-white rounded-3xl">
-                  <h3 className="text-xl font-bold mb-4 text-[#1F5EFF]">Level 1: The Bank's Nodal Officer</h3>
+                  <h4 className="text-xl font-bold mb-4 text-[#1F5EFF]">Level 1: The Bank's Nodal Officer</h4>
                   <p className="text-sm opacity-80 leading-relaxed">Every bank has a Principal Nodal Officer. Send an email with call recordings and screenshots. State that their agents are violating RBI circular RBI/2022-23/108.</p>
                 </div>
                 <div className="p-8 bg-black text-white rounded-3xl">
-                  <h3 className="text-xl font-bold mb-4 text-[#1F5EFF]">Level 2: RBI Ombudsman</h3>
+                  <h4 className="text-xl font-bold mb-4 text-[#1F5EFF]">Level 2: RBI Ombudsman</h4>
                   <p className="text-sm opacity-80 leading-relaxed">If the bank doesn't resolve it in 30 days, file a complaint on the RBI CMS portal. This is a powerful move that gets the bank's attention immediately.</p>
                 </div>
                 <div className="p-8 bg-black text-white rounded-3xl">
-                  <h3 className="text-xl font-bold mb-4 text-[#1F5EFF]">Level 3: Cyber Cell</h3>
+                  <h4 className="text-xl font-bold mb-4 text-[#1F5EFF]">Level 3: Cyber Cell</h4>
                   <p className="text-sm opacity-80 leading-relaxed">If they have morphed your photos or made abusive WhatsApp groups, file a complaint at cybercrime.gov.in. This is a criminal offense.</p>
                 </div>
                 <div className="p-8 bg-black text-white rounded-3xl">
-                  <h3 className="text-xl font-bold mb-4 text-[#1F5EFF]">Level 4: Police FIR</h3>
+                  <h4 className="text-xl font-bold mb-4 text-[#1F5EFF]">Level 4: Police FIR</h4>
                   <p className="text-sm opacity-80 leading-relaxed">For threats of violence or trespass, go to the local police station and file an FIR under IPC Section 506 (Criminal Intimidation).</p>
                 </div>
               </div>
             </section>
 
              <section id="professional-help" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">When to Seek Professional Help</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">When to Seek Professional Help</h3>
               <p className="text-lg leading-relaxed mb-6">
                 While you can handle a few calls yourself, professional intervention is needed when the harassment becomes systematic or when you want to help your friend close the loan.
               </p>
               <div className="bg-[#E3EDFF] p-8 rounded-3xl border border-[#1F5EFF]/20">
-                <h3 className="text-2xl font-black text-[#1F5EFF] mb-4">How SettleLoans Protects You</h3>
+                <h4 className="text-2xl font-black text-[#1F5EFF] mb-4">How SettleLoans Protects You</h4>
                 <ul className="space-y-4">
                   <li className="flex items-start">
                     <span className="text-[#1F5EFF] mr-3 font-bold text-xl">🛡</span>
@@ -614,31 +614,31 @@ export default function RecoveryAgentHarassmentGuide() {
             </section>
 
             <section id="evolution-of-law" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">The Evolution of Debt Recovery Law in India (1993-2025)</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">The Evolution of Debt Recovery Law in India (1993-2025)</h3>
               <p className="text-lg leading-relaxed mb-6">
                 To truly understand your rights, you must understand the history of how India has fought against predatory recovery practices. The legal landscape has shifted from the 'Wild West' of the 90s to a highly regulated environment today.
               </p>
               <div className="space-y-8">
                 <div>
-                  <h3 className="text-xl font-bold mb-3">1. The RDDBFI Act, 1993</h3>
+                  <h4 className="text-xl font-bold mb-3">1. The RDDBFI Act, 1993</h4>
                   <p className="text-gray-700 leading-relaxed">
                     The Recovery of Debts Due to Banks and Financial Institutions Act was the first major step. It established Debt Recovery Tribunals (DRTs). However, these were designed for large corporate defaults, leaving individual consumers vulnerable to local goons hired by banks.
                   </p>
                 </div>
                 <div>
-                  <h4 className="text-xl font-bold mb-3">2. The SARFAESI Act, 2002</h4>
+                  <h5 className="text-xl font-bold mb-3">2. The SARFAESI Act, 2002</h5>
                   <p className="text-gray-700 leading-relaxed">
                     This gave banks the power to seize assets without court intervention for secured loans (like homes or cars). While it improved bank balance sheets, it also led to an increase in aggressive recovery tactics as banks felt emboldened to act quickly.
                   </p>
                 </div>
                 <div>
-                  <h4 className="text-xl font-bold mb-3">3. The 2008 Landmark Supreme Court Judgment</h4>
+                  <h5 className="text-xl font-bold mb-3">3. The 2008 Landmark Supreme Court Judgment</h5>
                   <p className="text-gray-700 leading-relaxed">
                     In the case of <em>ICICI Bank vs. Shanti Devi Sharma</em>, the Supreme Court of India took a very dim view of recovery agents. The court stated that 'banks cannot use musclemen' to recover loans. This judgment forms the bedrock of every harassment complaint today. If an agent threatens you, they are essentially violating the orders of the highest court in the land.
                   </p>
                 </div>
                 <div>
-                  <h4 className="text-xl font-bold mb-3">4. The RBI Fair Practices Code (2015)</h4>
+                  <h5 className="text-xl font-bold mb-3">4. The RBI Fair Practices Code (2015)</h5>
                   <p className="text-gray-700 leading-relaxed">
                     The RBI introduced the Fair Practices Code, which for the first time explicitly mentioned 'harassment' of third parties. It mandated that the customer's privacy must be respected.
                   </p>
@@ -650,31 +650,31 @@ export default function RecoveryAgentHarassmentGuide() {
             </section>
 
             <section id="rbi-2026-deep-dive" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">The 2026 RBI Master Circular: A Deep Dive</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">The 2026 RBI Master Circular: A Deep Dive</h3>
               <p className="text-lg leading-relaxed mb-6 font-medium">
                 The upcoming Reserve Bank of India (RBI) Master Circular, set to be fully implemented by early 2026, is the most radical shift in consumer protection since the inception of the Banking Ombudsman scheme.
               </p>
               <div className="bg-amber-50 rounded-[40px] p-12 border border-amber-200">
-                <h3 className="text-2xl font-black mb-6">Key Directives of the 2026 Circular</h3>
+                <h4 className="text-2xl font-black mb-6">Key Directives of the 2026 Circular</h4>
                 <div className="space-y-6">
                   <div className="flex gap-6">
                     <span className="text-3xl mt-1">📌</span>
                     <div>
-                      <h4 className="font-bold text-xl mb-2 text-gray-900">Zero-Tolerance for Third-Party Calls</h4>
+                      <h5 className="font-bold text-xl mb-2 text-gray-900">Zero-Tolerance for Third-Party Calls</h5>
                       <p className="text-gray-700 leading-relaxed text-sm">The 2026 rules declare any call made to a non-guarantor third party (friends, relatives, colleagues) without their prior written consent as a <strong>systemic breach</strong>. This means the bank could lose its license to conduct recovery activities through agents if caught multiple times.</p>
                     </div>
                   </div>
                   <div className="flex gap-6">
                     <span className="text-3xl mt-1">📌</span>
                     <div>
-                      <h4 className="font-bold text-xl mb-2 text-gray-900">Mandatory Digital Call Logging</h4>
+                      <h5 className="font-bold text-xl mb-2 text-gray-900">Mandatory Digital Call Logging</h5>
                       <p className="text-gray-700 leading-relaxed text-sm">Every single call made by a recovery agent must be logged on a centralized digital portal accessible by the RBI. This includes the duration of the call, the location of the agent, and the tone of the conversation analyzed via AI for 'harassment markers.'</p>
                     </div>
                   </div>
                   <div className="flex gap-6">
                     <span className="text-3xl mt-1">📌</span>
                     <div>
-                      <h4 className="font-bold text-xl mb-2 text-gray-900">Strict Professional Hours (8 AM - 7 PM)</h4>
+                      <h5 className="font-bold text-xl mb-2 text-gray-900">Strict Professional Hours (8 AM - 7 PM)</h5>
                       <p className="text-gray-700 leading-relaxed text-sm">While these hours exist in theoretical guidelines today, the 2026 rules mandate that any automated calling software (dialers) must be hard-coded to shut down outside these hours. Transgressions will be automatically flagged by the RBI's IT supervisors.</p>
                     </div>
                   </div>
@@ -686,28 +686,28 @@ export default function RecoveryAgentHarassmentGuide() {
             </section>
 
             <section id="legal-remedies" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">Legal Remedies Against NBFC Harassment</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">Legal Remedies Against NBFC Harassment</h3>
               <p className="text-lg leading-relaxed mb-6">
                 Most harassment today comes from unregulated or aggressive Non-Banking Financial Companies (NBFCs) and Digital Lending Apps (DLAs). These entities often believe they are outside the jurisdiction of traditional banking rules. They are wrong.
               </p>
               <div className="grid md:grid-cols-2 gap-8 my-10">
                 <div className="bg-white p-8 rounded-3xl border border-gray-100 shadow-sm hover:border-[#1F5EFF] transition-colors">
-                  <h3 className="text-xl font-bold mb-4 flex items-center">
+                  <h4 className="text-xl font-bold mb-4 flex items-center">
                     <span className="w-8 h-8 rounded-full bg-blue-100 text-[#1F5EFF] flex items-center justify-center mr-3 text-xs">A</span>
                     Civil Injunction
-                  </h3>
+                  </h4>
                   <p className="text-sm text-gray-600 leading-relaxed">You can file for a permanent injunction in a civil court against the bank/NBFC. This is a court order that stops them from calling you or visiting your premises. Violating this is considered Contempt of Court.</p>
                 </div>
                 <div className="bg-white p-8 rounded-3xl border border-gray-100 shadow-sm hover:border-[#1F5EFF] transition-colors">
-                  <h4 className="text-xl font-bold mb-4 flex items-center">
+                  <h5 className="text-xl font-bold mb-4 flex items-center">
                     <span className="w-8 h-8 rounded-full bg-blue-100 text-[#1F5EFF] flex items-center justify-center mr-3 text-xs">B</span>
                     Consumer Forum Complaint
-                  </h4>
+                  </h5>
                   <p className="text-sm text-gray-600 leading-relaxed">If the harassment has caused you mental agony or loss of reputation, you can sue for damages in the District Consumer Disputes Redressal Forum. Many Indians have successfully won compensation of ₹50,000 to ₹5,00,000 in such cases.</p>
                 </div>
               </div>
               <div className="bg-[#EFFFFA] p-10 rounded-[40px] border border-[#10B981]/20">
-                <h4 className="font-bold text-xl mb-4 text-[#065F46]">The Power of the 'Cease and Desist' Notice</h4>
+                <h5 className="font-bold text-xl mb-4 text-[#065F46]">The Power of the 'Cease and Desist' Notice</h5>
                 <p className="leading-relaxed text-gray-800 italic">
                   "A formally drafted Cease and Desist notice from a specialized legal firm like SettleLoans carries immense weight. It shows the bank that the harassment is no longer a private annoyance but a documented legal dispute. 95% of our clients see an immediate stop to harassment within 24 hours of serving this notice."
                 </p>
@@ -715,25 +715,25 @@ export default function RecoveryAgentHarassmentGuide() {
             </section>
 
             <section id="fir-guide" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">The FIR Guide: Taking Criminal Action</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">The FIR Guide: Taking Criminal Action</h3>
               <p className="text-lg leading-relaxed mb-6">
                 When harassment crosses the line into threats of physical violence, trespassing at your home or office, or character assassination (morphing photos), it is no longer a civil matter. It is a crime under the Indian Penal Code (IPC).
               </p>
               <div className="bg-red-900 text-white rounded-[40px] p-12 shadow-2xl">
-                <h3 className="text-2xl font-black mb-6 text-red-500 flex items-center">
+                <h4 className="text-2xl font-black mb-6 text-red-500 flex items-center">
                   <span className="mr-3">🚔</span> Step-by-Step Police Action
-                </h3>
+                </h4>
                 <div className="grid gap-8">
                   <div className="border-b border-white/10 pb-6">
-                    <h4 className="font-bold text-lg mb-2 underline decoration-red-500">Step 1: The Formal Complaint</h4>
+                    <h5 className="font-bold text-lg mb-2 underline decoration-red-500">Step 1: The Formal Complaint</h5>
                     <p className="text-sm opacity-80 leading-relaxed">Write a formal letter to the Senior Inspector of your local Police Station. Detail the phone numbers, the names used by agents, and the specific threats made. Attach call recordings on a pen drive or CD.</p>
                   </div>
                   <div className="border-b border-white/10 pb-6">
-                    <h4 className="font-bold text-lg mb-2 underline decoration-red-500">Step 2: Relevant IPC Sections</h4>
+                    <h5 className="font-bold text-lg mb-2 underline decoration-red-500">Step 2: Relevant IPC Sections</h5>
                     <p className="text-sm opacity-80 leading-relaxed">Ensure your complaint mentions <strong>Section 503/506</strong> (Criminal Intimidation), <strong>Section 509</strong> (Outraging Modesty, if applicable), and <strong>Section 354C/66E IT Act</strong> (Voyeurism/Privacy violation).</p>
                   </div>
                   <div className="border-b border-white/10 pb-6">
-                    <h4 className="font-bold text-lg mb-2 underline decoration-red-500">Step 3: Demand a CSR or FIR</h4>
+                    <h5 className="font-bold text-lg mb-2 underline decoration-red-500">Step 3: Demand a CSR or FIR</h5>
                     <p className="text-sm opacity-80 leading-relaxed">If the police are hesitant, ask for a 'Complaint Summary Report' (CSR). If the threat is serious, insist on a First Information Report (FIR). An FIR forces the bank to officially respond to the police investigation.</p>
                   </div>
                 </div>
@@ -744,7 +744,7 @@ export default function RecoveryAgentHarassmentGuide() {
             </section>
 
             <section id="success-stories" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 text-center">Reviews & Testimonials</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 text-center">Reviews & Testimonials</h3>
               <div className="grid gap-8">
                 {[
                   { 
@@ -766,7 +766,7 @@ export default function RecoveryAgentHarassmentGuide() {
                         {testimonial.name.charAt(0)}
                       </div>
                       <div>
-                        <h3 className="font-black text-xl text-gray-900">{testimonial.name}</h3>
+                        <h4 className="font-black text-xl text-gray-900">{testimonial.name}</h4>
                         <p className="text-gray-500 text-sm">{testimonial.role}</p>
                       </div>
                       <div className="ml-auto flex text-yellow-400">
@@ -780,7 +780,7 @@ export default function RecoveryAgentHarassmentGuide() {
             </section>
 
             <section id="faqs" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">Frequently Asked Questions</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">Frequently Asked Questions</h3>
               <div className="space-y-4">
                 {jsonLd["@graph"]?.map((item: any, idx: number) => {
                   if (item["@type"] === "FAQPage" && item.mainEntity) {
@@ -804,7 +804,7 @@ export default function RecoveryAgentHarassmentGuide() {
             </section>
 
             <div className="mt-20 p-10 bg-black rounded-3xl text-center">
-               <h3 className="text-3xl font-black text-white mb-6">End the Harassment Today</h3>
+               <h4 className="text-3xl font-black text-white mb-6">End the Harassment Today</h4>
                <p className="text-[#DEDEDE] mb-8 max-w-xl mx-auto opacity-80">Join 50,000+ Indians who have reclaimed their peace of mind with SettleLoans. No more calls, no more threats. Just legal freedom.</p>
                <Link href="/contact" className="inline-block bg-[#1F5EFF] text-white font-black py-5 px-12 rounded-2xl hover:scale-105 transition-all shadow-xl text-xl">
                  Get a Free Consultation

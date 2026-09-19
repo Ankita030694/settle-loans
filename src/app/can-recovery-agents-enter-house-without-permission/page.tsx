@@ -485,7 +485,7 @@ export default function CanRecoveryAgentsEnterHouseWithoutPermissionPage() {
 
             {/* Section 2: Statutory Protections & Criminal Trespass */}
             <section id="statutory-framework-criminal-trespass" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">2. Statutory Protections &amp; Criminal Trespass</h2>
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">2. Statutory Protections &amp; Criminal Trespass</h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Indian law gives strong protection to private homes. The Bharatiya Nyaya Sanhita, 2023 (BNS) replaced the Indian Penal Code, 1860 (IPC). It sets strict jail terms for unlawful entry and trespass.
               </p>
@@ -494,10 +494,10 @@ export default function CanRecoveryAgentsEnterHouseWithoutPermissionPage() {
               </p>
               
               <div className="bg-slate-50 border border-slate-200 rounded-2xl p-5 my-4 space-y-4">
-                <h3 className="text-xs sm:text-sm font-bold text-slate-900 uppercase tracking-wider flex items-center gap-2">
+                <h4 className="text-xs sm:text-sm font-bold text-slate-900 uppercase tracking-wider flex items-center gap-2">
                   <Gavel className="w-4 h-4 text-[#1F5EFF]" />
                   <span>Statutory Penal Provisions Governing Unlawful Recovery Intrusions</span>
-                </h3>
+                </h4>
                 <div className="space-y-3 text-xs sm:text-sm text-slate-700">
                   <div className="p-3.5 bg-white rounded-xl border border-slate-200">
                     <p className="font-bold text-slate-900">Section 329 BNS / Section 441 &amp. 442 IPC: Criminal House-Trespass</p>
@@ -533,7 +533,7 @@ export default function CanRecoveryAgentsEnterHouseWithoutPermissionPage() {
 
             {/* Section 3: Constitutional Right to Privacy & Landmark Supreme Court Precedents */}
             <section id="constitutional-privacy-puttaswamy" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">3. Right to Privacy &amp; Supreme Court Precedents</h2>
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">3. Right to Privacy &amp; Supreme Court Precedents</h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Indian borrowers have strong constitutional rights. In <em>Justice K.S. Puttaswamy (Retd.) v. Union of India (2017) 10 SCC 1</em>, a 9-judge bench of the Supreme Court gave a historic ruling. It held that the Right to Privacy is a fundamental right under Article 21.
               </p>
@@ -550,7 +550,7 @@ export default function CanRecoveryAgentsEnterHouseWithoutPermissionPage() {
 
             {/* Section 4: RBI Master Directions & Fair Practices Code */}
             <section id="rbi-master-directions-fair-practices" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">4. RBI Fair Practice Code on Doorstep Recovery</h2>
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">4. RBI Fair Practice Code on Doorstep Recovery</h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 The Reserve Bank of India sets strict rules for banks, NBFCs. And recovery agents. These rules come under the RBI Master Direction on Outsourcing and the Fair Practices Code.
               </p>
@@ -559,10 +559,10 @@ export default function CanRecoveryAgentsEnterHouseWithoutPermissionPage() {
               </p>
               
               <div className="bg-slate-50 border border-slate-200 rounded-2xl p-5 my-4">
-                <h3 className="font-bold text-slate-900 text-sm mb-3 flex items-center gap-2">
+                <h4 className="font-bold text-slate-900 text-sm mb-3 flex items-center gap-2">
                   <ShieldCheck className="w-4 h-4 text-[#1F5EFF]" />
                   <span>Mandatory RBI Recovery Code of Conduct Standards</span>
-                </h3>
+                </h4>
                 <div className="grid grid-cols-1 sm:grid-cols-2 gap-3 text-xs text-slate-700">
                   <div className="p-3 bg-white rounded-xl border border-slate-200">
                     <p className="font-bold text-slate-900 mb-1">Permissible Contact Hours (8 AM to 7 PM)</p>
@@ -608,7 +608,7 @@ export default function CanRecoveryAgentsEnterHouseWithoutPermissionPage() {
 
             {/* Section 6: Tactical Protocol: How to Lawfully Shut the Door */}
             <section id="lawful-door-shutting-protocol" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">6. How to Lawfully Shut the Door</h2>
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">6. How to Lawfully Shut the Door</h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 When agents show up at your door, stay calm. You do not need to shout or argue. Follow this simple 5-step legal protocol to protect your rights:
               </p>
@@ -649,7 +649,7 @@ export default function CanRecoveryAgentsEnterHouseWithoutPermissionPage() {
 
             {/* Section 7: Bank NPA Accounting, Provisioning Burden & The NPV Recovery Model */}
             <section id="bank-npa-accounting-npv-recovery" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">7. Bank NPA Accounting &amp; Doorstep Economics</h2>
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">7. Bank NPA Accounting &amp; Doorstep Economics</h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Why do agencies use aggressive doorstep visits instead of going to court? The answer lies in bad debt economics. Under RBI Prudential Norms on Income Recognition, Asset Classification and Provisioning (IRACP), an unpaid loan becomes a Non-Performing Asset (NPA) after 90 days.
               </p>
@@ -686,7 +686,7 @@ export default function CanRecoveryAgentsEnterHouseWithoutPermissionPage() {
 
             {/* Section 8: Direct OTS Negotiation, Cease-and-Desist Notices & NDC */}
             <section id="cease-and-desist-ots-negotiation" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">8. Direct OTS Settlement Protocol for Borrowers</h2>
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">8. Direct OTS Settlement Protocol for Borrowers</h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 A common mistake is paying token cash or UPI to agents on verbal promises. These informal payments go toward late fees and fines. They do not clear the loan. And visits resume soon.
               </p>
@@ -722,7 +722,7 @@ export default function CanRecoveryAgentsEnterHouseWithoutPermissionPage() {
 
             {/* Section 9: Comparative Legal Matrix */}
             <section id="comparative-enforcement-matrix" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">9. Doorstep Recovery &amp; Defense Matrix</h2>
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">9. Doorstep Recovery &amp; Defense Matrix</h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 The comparative matrix below details the statutory boundaries, entry authority. And borrower legal protections across various debt recovery mechanisms operating in India:
               </p>
@@ -782,7 +782,7 @@ export default function CanRecoveryAgentsEnterHouseWithoutPermissionPage() {
             {/* Section 10: SettleLoans Legal Defense Framework */}
             <section id="settleloans-legal-defense-framework" className="space-y-6">
               <div className="border-t border-slate-200 pt-8 space-y-4">
-                <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">10. SettleLoans Doorstep Harassment Defense</h2>
+                <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">10. SettleLoans Doorstep Harassment Defense</h3>
                 <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                   No family should live in fear of collection agents banging on doors or shouting in hallways. At SettleLoans, our banking lawyers protect your privacy and dignity under Section 329 BNS and RBI rules. We send Cease-and-Desist notices to stop doorstep visits. We then negotiate directly with senior bank managers to get a 40% to 65% One-Time Settlement with a stamped No Dues Certificate.
                 </p>
@@ -796,7 +796,7 @@ export default function CanRecoveryAgentsEnterHouseWithoutPermissionPage() {
             <section id="faqs" className="space-y-4 border-t border-slate-200 pt-8">
               <div className="flex items-center gap-2 mb-2">
                 <HelpCircle className="w-5 h-5 text-[#1F5EFF]" />
-                <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">11. FAQs: Recovery Agent Doorstep Rules &amp; Legal Rights</h2>
+                <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">11. FAQs: Recovery Agent Doorstep Rules &amp; Legal Rights</h3>
               </div>
               <p className="text-xs sm:text-sm text-slate-600 mb-6">
                 Clear, verified legal answers regarding recovery agent limitations, criminal trespass laws, privacy rights. And debt settlement in India.
@@ -826,9 +826,9 @@ export default function CanRecoveryAgentsEnterHouseWithoutPermissionPage() {
 
             {/* 5 Official Regulatory Links */}
             <section className="border-t border-slate-200 pt-8 mb-4">
-              <h3 className="text-xs sm:text-sm font-bold text-slate-900 mb-3 uppercase tracking-wider">
+              <h4 className="text-xs sm:text-sm font-bold text-slate-900 mb-3 uppercase tracking-wider">
                 Official Statutory &amp; Regulatory References
-              </h3>
+              </h4>
               <div className="grid grid-cols-1 sm:grid-cols-2 gap-2.5 text-xs">
                 <a
                   href="https://www.mha.gov.in"
@@ -880,9 +880,9 @@ export default function CanRecoveryAgentsEnterHouseWithoutPermissionPage() {
 
             {/* 10 Related Guide Badges */}
             <section className="border-t border-slate-200 pt-8 mb-8">
-              <h3 className="text-xs sm:text-sm font-bold text-slate-900 mb-4 uppercase tracking-wider">
+              <h4 className="text-xs sm:text-sm font-bold text-slate-900 mb-4 uppercase tracking-wider">
                 Related Legal Defense &amp; Loan Settlement Guides
-              </h3>
+              </h4>
               <div className="flex flex-wrap gap-2">
                 <Link
                   href="/can-recovery-agents-take-household-furniture-or-gold"

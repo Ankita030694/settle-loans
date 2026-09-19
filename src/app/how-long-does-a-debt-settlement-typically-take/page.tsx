@@ -207,7 +207,7 @@ export default function SettlementTimelinePage() {
                 In this 5000+ word comprehensive roadmap, we will walk you through every stage of the journey. From the very first consultation to the moment your CIBIL report reflects a 'Settled' status, we break down what happens in which month, so you are never left guessing.
               </p>
 
-              <h3 className="text-2xl font-bold mt-12 mb-6 text-[#1A1A1A]">The Math Behind the Timeline: Savings vs. Debt</h3>
+              <h4 className="text-2xl font-bold mt-12 mb-6 text-[#1A1A1A]">The Math Behind the Timeline: Savings vs. Debt</h4>
               <p className="text-lg leading-relaxed mb-6">
                 Your specific timeline is governed by two numbers: Your Total Debt and your Monthly Savings Capacity. If you owe ₹10 Lakhs and can save ₹20,000 per month, it will take you 25 months just to save the ₹5 Lakhs needed for a 50% settlement. Adding negotiation time, your roadmap is naturally 30+ months. Rushing this math only leads to broken settlement agreements, which further damages your credibility with the bank.
               </p>
@@ -215,7 +215,7 @@ export default function SettlementTimelinePage() {
                 This is why consultants at <strong>AMA Legal Solutions</strong> or <strong>SettleLoans</strong> spend the first month building a 'Savings Waterfall' chart for you. This chart predicts exactly which month you will have enough 'Gas in the Tank' to pull the trigger on each specific debt.
               </p>
 
-              <h3 className="text-2xl font-bold mt-12 mb-6 text-[#1A1A1A]">Week-by-Week: The First 90 Days</h3>
+              <h4 className="text-2xl font-bold mt-12 mb-6 text-[#1A1A1A]">Week-by-Week: The First 90 Days</h4>
               <p className="text-lg leading-relaxed mb-6">
                 The "Default" phase is the most intense. Here is the typical progression:
               </p>
@@ -226,20 +226,20 @@ export default function SettlementTimelinePage() {
                 <li>Week 10-12: Final notices for NPA classification are issued. This is the moment to finalize your settlement strategy before the status changes.</li>
               </ul>
 
-              <h3 className="text-2xl font-bold mt-12 mb-6 text-[#1A1A1A]">Lender-Specific Speed Tiers</h3>
+              <h4 className="text-2xl font-bold mt-12 mb-6 text-[#1A1A1A]">Lender-Specific Speed Tiers</h4>
               <p className="text-lg leading-relaxed mb-6">
                 Not all collectors move at the same speed. Fintech apps (Tier 1 Speed) are the fastest, often offering 60% waivers within just 4 months of default because they need to keep their books clean. Large private banks (Tier 2 Speed) like ICICI or HDFC usually take 6 to 12 months for a good OTS. Public Sector Banks (Tier 3 Speed) like SBI are the slowest, often requiring 18 to 24 months and multiple visits to the regional manager's office.
               </p>
             </section>
 
             <section id="phase-1-financial-assessment" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#1A1A1A] mb-8 leading-tight">
+              <h3 className="text-3xl md:text-4xl font-black text-[#1A1A1A] mb-8 leading-tight">
                 Phase 1: Financial Assessment (Month 1)
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 The first 30 days are about preparation, not action. During this time, a debt consultant reviews your total outstanding, interest rates, and creditor types. This is where the strategy is born. You need to identify which creditors are likely to settle fast (usually NBFCs) and which will require more time and judicial pressure (usually large Public Sector Banks).
               </p>
-              <h3 className="text-2xl font-bold mt-12 mb-6 text-[#1A1A1A]">Inventory of Creditors</h3>
+              <h4 className="text-2xl font-bold mt-12 mb-6 text-[#1A1A1A]">Inventory of Creditors</h4>
               <p className="text-lg leading-relaxed mb-6">
                 Most borrowers who enter a settlement program have a mix of Credit Cards, Personal Loans, and maybe a few "Payday" apps. We categorize these into Speed Tiers. Rank these helps us decide where your savings should go first. This "First Month Audit" is the foundation of your 18-48 month journey.
               </p>
@@ -249,13 +249,13 @@ export default function SettlementTimelinePage() {
             </section>
 
             <section id="phase-2-stopping-payments" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#1A1A1A] mb-8 leading-tight">
+              <h3 className="text-3xl md:text-4xl font-black text-[#1A1A1A] mb-8 leading-tight">
                 Phase 2: Stopping Payments & "Transition" (Months 2-3)
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 To settle, you must stop paying EMIs. This is the hardest psychological phase. Instead of paying the bank, you redirect those funds into a dedicated savings pool. This pool will eventually fund your lump-sum settlements. During these two months, you will experience the first wave of recovery calls. It takes about 60 days for a bank to move from 'Reminder' calls to 'Warning' calls.
               </p>
-              <h3 className="text-2xl font-bold mt-12 mb-6 text-[#1A1A1A]">Navigating the "Gray Zone" of Calls</h3>
+              <h4 className="text-2xl font-bold mt-12 mb-6 text-[#1A1A1A]">Navigating the "Gray Zone" of Calls</h4>
               <p className="text-lg leading-relaxed mb-6">
                 In Month 2, the calls change tone. They move from "Sir, have you forgotten?" to "Sir, your credit score will be ruined." This is a critical time to hire a consultant who can help manage these communications. At <strong>SettleLoans</strong>, we provide scripts and call-handling strategies so you can focus on building your savings rather than arguing with telecallers.
               </p>
@@ -263,7 +263,7 @@ export default function SettlementTimelinePage() {
                 By the end of Month 3, you should have your first meaningful "Savings Block." This block is your ammunition for later negotiations. It is also the point where you might receive the first legal notices, which are usually just "Pre-Litigation" warnings.
               </p>
 
-              <h3 className="text-2xl font-bold mt-12 mb-6 text-[#1A1A1A]">Documentation: The "Evidence" Months</h3>
+              <h4 className="text-2xl font-bold mt-12 mb-6 text-[#1A1A1A]">Documentation: The "Evidence" Months</h4>
               <p className="text-lg leading-relaxed mb-6">
                 During the first six months, while you are saving, you must also be "Collecting Evidence." In India, a settlement is not just based on your poverty, but on the *proof* of your poverty. Banks require:
               </p>
@@ -279,14 +279,14 @@ export default function SettlementTimelinePage() {
             </section>
 
             <section id="the-npa-90-day-wait" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#1A1A1A] mb-8 leading-tight">
+              <h3 className="text-3xl md:text-4xl font-black text-[#1A1A1A] mb-8 leading-tight">
                 The NPA 90-Day Wait: The Legal Trigger
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 An account in India is officially declared a Non-Performing Asset (NPA) after 90 days of non-payment. This is a crucial milestone. Most bank systems are hardcoded to block settlement offers until this 90-day mark is hit. Why? Because until then, they still hold hope that you will resume regular payments. The "Wait for NPA" is the first test of a borrower's patience.
               </p>
 
-              <h3 className="text-2xl font-bold mt-12 mb-6 text-[#1A1A1A]">Internal Bank Logic During NPA</h3>
+              <h4 className="text-2xl font-bold mt-12 mb-6 text-[#1A1A1A]">Internal Bank Logic During NPA</h4>
               <p className="text-lg leading-relaxed mb-6">
                 When your account hits 90 days, it moves from the "Standard Asset" bucket to the "Sub-Standard" bucket. This triggers a provision requirement for the bank under RBI norms. The bank must set aside a portion of their profits to cover your potential loss. This "Profit Hit" is what finally motivates the bank's management to look for an exit strategy like settlement.
               </p>
@@ -296,14 +296,14 @@ export default function SettlementTimelinePage() {
             </section>
 
             <section id="phase-3-the-charge-off" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#1A1A1A] mb-8 leading-tight">
+              <h3 className="text-3xl md:text-4xl font-black text-[#1A1A1A] mb-8 leading-tight">
                 Phase 3: The "Charge-Off" Sweet Spot (Months 4-12)
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 Once an account has been an NPA for a few months, the bank realizes it is a loss. They "Charge Off" the account in their books. This is the 'Sweet Spot' for negotiation. The bank's internal collections target shifts from "Total Recovery" to "Any Recovery." This phase is where the most aggressive negotiations happen. Depending on the bank, this can take anywhere from 4 to 12 months from the start of the program.
               </p>
 
-              <h3 className="text-2xl font-bold mt-12 mb-6 text-[#1A1A1A]">Why Banks "Write Off" Debts</h3>
+              <h4 className="text-2xl font-bold mt-12 mb-6 text-[#1A1A1A]">Why Banks "Write Off" Debts</h4>
               <p className="text-lg leading-relaxed mb-6">
                 By Month 12, if no payment is received, most private banks (like ICICI, Axis, or Kotak) will "Write Off" the debt. This doesn't mean the debt is forgiven; it means it is moved to a separate ledger designed for recovery. At this stage, the bank is often willing to settle for 20-30% of the total outstanding because they have already accounted for the loss.
               </p>
@@ -313,14 +313,14 @@ export default function SettlementTimelinePage() {
             </section>
 
             <section id="negotiation-the-climax" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#1A1A1A] mb-8 leading-tight">
+              <h3 className="text-3xl md:text-4xl font-black text-[#1A1A1A] mb-8 leading-tight">
                 Negotiation: The Climax of the Process
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 The actual negotiation is a dance. It starts with a low-ball offer from the bank, followed by a hardship-based offer from you. This back-and-forth usually takes 3 to 6 weeks per creditor. If you have 5 Different credit cards, this phase is staggered over many months as your savings pool grows large enough to pay off one creditor at a time.
               </p>
 
-              <h3 className="text-2xl font-bold mt-12 mb-6 text-[#1A1A1A]">Seasonal Settlement Vital Windows</h3>
+              <h4 className="text-2xl font-bold mt-12 mb-6 text-[#1A1A1A]">Seasonal Settlement Vital Windows</h4>
               <p className="text-lg leading-relaxed mb-6">
                 Timing your offer can save you lakhs. In India, there are two key "Harvesting" seasons for bank settlements:
               </p>
@@ -334,92 +334,92 @@ export default function SettlementTimelinePage() {
             </section>
 
             <section id="bank-vs-nbfc-durations" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#1A1A1A] mb-8 leading-tight">
+              <h3 className="text-3xl md:text-4xl font-black text-[#1A1A1A] mb-8 leading-tight">
                 Bank vs NBFC Speeds: Agility vs. Bureaucracy
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 NBFCs (like Bajaj, Muthoot, or Tata Capital) are agile. They can often approve a settlement in 7 days after the offer is finalized. Large banks (like SBI or PNB) follow a committee system where settlements are approved in batches every month or quarter. If you miss a committee meeting by one day, you might have to wait another 30 days for your approval.
               </p>
 
-              <h3 className="text-2xl font-bold mt-12 mb-6 text-[#1A1A1A]">The "Lull Period" (Months 12-18)</h3>
+              <h4 className="text-2xl font-bold mt-12 mb-6 text-[#1A1A1A]">The "Lull Period" (Months 12-18)</h4>
               <p className="text-lg leading-relaxed mb-6">
                 There is often a period in the second year where communication from the bank drops significantly. Many borrowers panic, thinking the bank is preparing a massive legal attack. In reality, this is usually because the account has been shifted to a "Secondary Collections Agency" or a "Legal Pool" where it sits in a queue. This Lull Period is actually an advantage. It allows you to build your savings pool without the daily bombardment of calls.
               </p>
             </section>
 
             <section id="ots-letter-issuance" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#1A1A1A] mb-8 leading-tight">
+              <h3 className="text-3xl md:text-4xl font-black text-[#1A1A1A] mb-8 leading-tight">
                 OTS Letter Issuance: The 15-Day Window
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 After the 'Deal' is made, the bank's backend system must generate a formal OTS Letter. In the Indian banking sector, this typically takes 7 to 15 working days. This letter is the only legal document that protects you. It must contain the settled amount, the deadline for payment, and a confirmation of debt satisfaction.
               </p>
             </section>
 
             <section id="payment-and-processing" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#1A1A1A] mb-8 leading-tight">
+              <h3 className="text-3xl md:text-4xl font-black text-[#1A1A1A] mb-8 leading-tight">
                 Payment and Processing: The "No-Man's Land"
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 Once you pay, there is a period of silence. Your money has left your account, but the bank's system still shows 'Overdue' for a few days until the payment is reconciled. This "No-Man's Land" usually lasts 3 to 7 working days. Ensure you have the bank's stamped receipt or an electronic payment confirmation during this time.
               </p>
             </section>
 
             <section id="securing-the-ndc" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#1A1A1A] mb-8 leading-tight">
+              <h3 className="text-3xl md:text-4xl font-black text-[#1A1A1A] mb-8 leading-tight">
                 Securing the NDC: The Ultimate Milestone
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 The 'No Dues Certificate' (NDC) is your freedom paper. Lenders are notorious for delaying the issuance of this document. While RBI mandates a quick release, it often takes 30 to 45 days of persistent follow-ups with the branch manager and the loan service center. Without the NDC, your settlement journey is incomplete.
               </p>
             </section>
 
             <section id="post-settlement-followups" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#1A1A1A] mb-8 leading-tight">
+              <h3 className="text-3xl md:text-4xl font-black text-[#1A1A1A] mb-8 leading-tight">
                 Post-Settlement Followups: Months 49+
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 Even after the debt is 'Gone', its shadow remains. You must periodically check if the bank has notified CIBIL and other credit bureaus. If they haven't updated the status within 60 days of the NDC issuance, you must file a dispute on the CIBIL portal, which takes another 30 days to resolve.
               </p>
             </section>
 
             <section id="cibil-update-delay" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#1A1A1A] mb-8 leading-tight">
+              <h3 className="text-3xl md:text-4xl font-black text-[#1A1A1A] mb-8 leading-tight">
                 CIBIL Update Delay: The Hidden Timeline
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 Credit bureaus update their data once a month, usually in the first week. If your settlement is finalized on the 10th of a month, the bank might not report it until the end of that month, and the bureau might not reflect it until the following month. This results in a persistent 45 to 60-day lag between 'Payment' and 'Reporting'.
               </p>
             </section>
 
             <section id="factors-that-slow-you-down" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#1A1A1A] mb-8 leading-tight">
+              <h3 className="text-3xl md:text-4xl font-black text-[#1A1A1A] mb-8 leading-tight">
                 Factors that Slow You Down: What Can Increase Your Wait?
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 Several variables can stretch an 18-month plan into a 36-month plan:
               </p>
               <ul className="grid grid-cols-1 md:grid-cols-2 gap-4 mb-8">
                 <li className="p-4 bg-gray-50 border border-gray-100 rounded-xl">
-                  <h3 className="font-bold mb-2">Portfolio Size</h3>
+                  <h4 className="font-bold mb-2">Portfolio Size</h4>
                   <p className="text-sm">More creditors mean more negotiation rounds and a longer time to save enough for each lump sum.</p>
                 </li>
                 <li className="p-4 bg-gray-50 border border-gray-100 rounded-xl">
-                  <h4 className="font-bold mb-2">Legal Friction</h4>
+                  <h5 className="font-bold mb-2">Legal Friction</h5>
                   <p className="text-sm">If a lender files a 138 case, the focus shifts to legal defense, which can delay the commercial negotiation.</p>
                 </li>
               </ul>
             </section>
 
             <section id="the-rebuilding-phase" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#1A1A1A] mb-8 leading-tight">
+              <h3 className="text-3xl md:text-4xl font-black text-[#1A1A1A] mb-8 leading-tight">
                 The Rebuilding Phase: Life After Settlement
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 Settling is the end of the debt, but the beginning of credit rebuilding. This phase lasts 2 to 4 years. You must use secured credit cards or small goldfish loans to show the credit bureaus that you are now a responsible borrower. This "Shadow Phase" is often ignored in timeline projections but is vital for long-term financial health.
               </p>
 
-              <h3 className="text-2xl font-bold mt-12 mb-6 text-[#1A1A1A]">Credit Score Resurrection Timeline</h3>
+              <h4 className="text-2xl font-bold mt-12 mb-6 text-[#1A1A1A]">Credit Score Resurrection Timeline</h4>
               <ul className="space-y-4 text-lg">
                 <li className="flex gap-4 border-l-4 border-[#1F5EFF] pl-4">
                   <strong>Year 1:</strong> The score is at its lowest point. Focus on clearing all NDCs and ensuring no 'Active' defaults are left.
@@ -434,13 +434,13 @@ export default function SettlementTimelinePage() {
             </section>
 
             <section id="why-patience-is-profit" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#1A1A1A] mb-8 leading-tight">
+              <h3 className="text-3xl md:text-4xl font-black text-[#1A1A1A] mb-8 leading-tight">
                 Why Patience is Profit: The Cost of Rushing
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 In debt settlement, the one who is more desperate loses. If you try to settle in month 4, the bank will only give you a 10% waiver. If you wait until month 12, that waiver can jump to 50%. The "Cost of Rushing" is literally thousands of rupees in lost savings. Trusting the timeline is the most profitable decision a distressed borrower can make.
               </p>
-              <h3 className="text-2xl font-bold mt-12 mb-6 text-[#1A1A1A]">The Multi-Lender Coordination Challenge</h3>
+              <h4 className="text-2xl font-bold mt-12 mb-6 text-[#1A1A1A]">The Multi-Lender Coordination Challenge</h4>
               <p className="text-lg leading-relaxed mb-6">
                 The hardest part of the timeline is dealing with multiple banks simultaneously. If you have three banks calling you for ₹3 Lakhs each, you can't pay them all at once. You have to "Stagger" the settlements. Usually, we settle the most aggressive lender first (The "Squeaky Wheel") and the lender with the highest interest second.
               </p>
@@ -448,12 +448,12 @@ export default function SettlementTimelinePage() {
                 This staggering adds about 6-12 months to the total timeline. However, it ensures that your savings are used most efficiently. This is why a 10-lender portfolio often takes the full 48 months, whereas a single-lender default might be closed in 12-18 months.
               </p>
 
-              <h3 className="text-2xl font-bold mt-12 mb-6 text-[#1A1A1A]">The Final Closure Phase (Months 24-48)</h3>
+              <h4 className="text-2xl font-bold mt-12 mb-6 text-[#1A1A1A]">The Final Closure Phase (Months 24-48)</h4>
               <p className="text-lg leading-relaxed mb-6">
                 By Month 24, most of your "Small" debts are settled. The final half of the roadmap is focused on your "Big" debts. Because these amounts are larger, your savings pool takes longer to fill. This is the "Endurance Phase." It is the time when most borrowers feel like quitting, but those who stay the course receive the most substantial financial relief at the end.
               </p>
 
-              <h3 className="text-2xl font-bold mt-12 mb-6 text-[#1A1A1A]">Psychological Resilience: The Secret Factor</h3>
+              <h4 className="text-2xl font-bold mt-12 mb-6 text-[#1A1A1A]">Psychological Resilience: The Secret Factor</h4>
               <p className="text-lg leading-relaxed mb-6">
                 The length of the timeline is often dictated more by your mental state than your bank balance. Borrowers who check their CIBIL score every day often burn out by Month 12. Borrowers who accept that the score will be low for a few years and focus solely on their "Savings Waterfall" are the ones who cross the finish line. 
               </p>
@@ -461,7 +461,7 @@ export default function SettlementTimelinePage() {
                 Understanding that the recovery agent's calls are a "System Process" and not a "Personal Attack" is vital. When you stop taking the calls personally, the 48-month timeline feels much shorter. At AMA Legal Solutions, we provide monthly support calls to help you maintain this psychological focus.
               </p>
 
-              <h3 className="text-2xl font-bold mt-12 mb-6 text-[#1A1A1A]">The "Complete Freedom" Checklist</h3>
+              <h4 className="text-2xl font-bold mt-12 mb-6 text-[#1A1A1A]">The "Complete Freedom" Checklist</h4>
               <p className="text-lg leading-relaxed mb-6">
                 To ensure your timeline doesn't restart, follow this month-by-month housekeeping checklist throughout the program:
               </p>
@@ -475,12 +475,12 @@ export default function SettlementTimelinePage() {
                 Summary: A timeline is a tool, not a cage. By understanding the phases of the Indian credit system, you move from being a victim of debt to a manager of your financial resurrection.
               </p>
 
-              <h3 className="text-2xl font-bold mt-12 mb-6 text-[#1A1A1A]">Macro-Economic Impacts on Your Timeline</h3>
+              <h4 className="text-2xl font-bold mt-12 mb-6 text-[#1A1A1A]">Macro-Economic Impacts on Your Timeline</h4>
               <p className="text-lg leading-relaxed mb-6">
                 External factors like RBI repo rate hikes can actually shorten your settlement timeline. When interest rates go up, banks face higher costs for their "Non-Performing Assets." This often leads to a "Clean Up Drive" where they become more willing to offer deep discounts just to get the cash back into their systems. Keeping an eye on the financial news can help you time your final offer to perfection.
               </p>
 
-              <h3 className="text-2xl font-bold mt-12 mb-6 text-[#1A1A1A]">Case Study: The 3-Year Freedom Roadmap</h3>
+              <h4 className="text-2xl font-bold mt-12 mb-6 text-[#1A1A1A]">Case Study: The 3-Year Freedom Roadmap</h4>
               <p className="text-lg leading-relaxed mb-6">
                 Consider Sunita, a software professional who lost her job in early 2021. She had 4 credit cards and 2 personal loans totaling ₹18 Lakhs. 
               </p>
@@ -493,14 +493,14 @@ export default function SettlementTimelinePage() {
                 Today, Sunita is debt-free. Her timeline was 34 months. It required grit, a steady savings plan, and the guidance of a professional consultant. Her story is the reality for thousands of Indians who choose the path of settlement over the cycle of interest.
               </p>
 
-              <h3 className="text-2xl font-bold mt-12 mb-6 text-[#1A1A1A]">Digital India & The Timeline</h3>
+              <h4 className="text-2xl font-bold mt-12 mb-6 text-[#1A1A1A]">Digital India & The Timeline</h4>
               <p className="text-lg leading-relaxed mb-6">
                 In the era of UPI and account aggregators, "hiding" a default is impossible. Banks now know your spending patterns in real-time. Paradoxically, this transparency can speed up your timeline. When a bank sees (via your aggregators) that you truly have zero surplus income, they stop wasting money on recovery agents and move straight to the settlement phase. Honesty in your financial disclosure, backed by digital proof, is the fastest way to a deep waiver.
               </p>
             </section>
 
             <section id="success-stories" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 text-center uppercase tracking-wider">Real Stories of Freedom</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 text-center uppercase tracking-wider">Real Stories of Freedom</h3>
               <div className="grid md:grid-cols-2 gap-6 not-prose">
                 {[
                   {
@@ -538,7 +538,7 @@ export default function SettlementTimelinePage() {
                         {review.name.charAt(0)}
                       </div>
                       <div>
-                        <h3 className="font-bold text-[#1A1A1A]">{review.name}</h3>
+                        <h4 className="font-bold text-[#1A1A1A]">{review.name}</h4>
                         <p className="text-xs text-gray-400">{review.loc}</p>
                       </div>
                       <div className="ml-auto text-yellow-400 text-sm">★★★★★</div>
@@ -553,7 +553,7 @@ export default function SettlementTimelinePage() {
             </section>
 
             <section id="faqs" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 uppercase tracking-wider border-b-4 border-[#1F5EFF] inline-block">FAQ: Timeline Realities</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 uppercase tracking-wider border-b-4 border-[#1F5EFF] inline-block">FAQ: Timeline Realities</h3>
               <div className="space-y-4 not-prose">
                 {faqs.map((faq, i) => (
                   <details key={i} className="group bg-[#F9F9F9] border border-[#DEDEDE] rounded-xl overflow-hidden hover:border-[#FFD700] transition-all">
@@ -572,7 +572,7 @@ export default function SettlementTimelinePage() {
             </section>
 
             <div className="mt-16 p-8 bg-gray-900 rounded-3xl text-white">
-              <h3 className="text-2xl font-bold mb-4">Ready to start your roadmap?</h3>
+              <h4 className="text-2xl font-bold mb-4">Ready to start your roadmap?</h4>
               <p className="text-white/70 mb-6">Our experts can build a custom settlement timeline for your specific debt situation. Don't navigate the complex Indian banking system alone.</p>
               <Link href="/contact" className="inline-block bg-[#1F5EFF] text-white font-black py-4 px-8 rounded-xl hover:scale-105 transition-all">
                 Get Your Custom Strategy
@@ -583,7 +583,7 @@ export default function SettlementTimelinePage() {
             <div className="lg:hidden mt-16 mb-8">
               <div className="bg-[#2E2E2E] rounded-2xl shadow-xl overflow-hidden border border-[#1F5EFF]/20">
                 <div className="bg-[#1F5EFF] p-6 text-center text-white">
-                  <h3 className="text-2xl font-black mb-2">Ready to Start Over?</h3>
+                  <h4 className="text-2xl font-black mb-2">Ready to Start Over?</h4>
                   <p className="opacity-90 text-sm">Join the 10,000+ Indians we've helped find their way to financial freedom.</p>
                 </div>
                 <div className="p-8 text-center text-[#DEDEDE]">

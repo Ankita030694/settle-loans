@@ -252,28 +252,28 @@ export default function PuneLoanSettlementPage() {
             </section>
 
             <section id="lok-adalat-pune" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl font-black mb-6 uppercase tracking-tighter text-black">Leveraging Pune Lok Adalat for Debt Resolution</h2>
+              <h3 className="text-3xl font-black mb-6 uppercase tracking-tighter text-black">Leveraging Pune Lok Adalat for Debt Resolution</h3>
               <p>One of the most powerful tools available to borrowers in Maharashtra is the Lok Adalat. The Pune District Legal Services Authority (DLSA) regularly organizes National Lok Adalats at the District Court in Shivajinagar. These forums are designed for the "amicable settlement" of disputes, particularly bank recovery cases and pre-litigation matters. For a borrower in Pune, the Lok Adalat offers a chance to settle their debt in a formal, court-monitored environment.</p>
               <p>The beauty of a Lok Adalat settlement is its finality. The award passed by the Lok Adalat has the same status as a decree of a civil court. It is binding on both the bank and the borrower, and there is no provision for an appeal. This means once you reach an agreement on a waiver and a payment plan in Lok Adalat, the bank cannot suddenly demand more money later. It provides a clean, legal break from the past.</p>
               <p>We guide our Pune clients through the Lok Adalat process, ensuring they are prepared for the negotiations. Banks are often more willing to offer deep waivers in this forum because it saves them the time and expense of prolonged litigation. Whether your case is pending in the Pune District Court or is still at the pre-litigation stage, we help you use the Lok Adalat system to secure a settlement that fits your current financial capacity.</p>
             </section>
 
             <section id="maharashtra-money-lending-act" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl font-black mb-6 uppercase tracking-tighter text-black">The Maharashtra Money Lending (Regulation) Act, 2014</h2>
+              <h3 className="text-3xl font-black mb-6 uppercase tracking-tighter text-black">The Maharashtra Money Lending (Regulation) Act, 2014</h3>
               <p>For borrowers in Pune who have dealt with private financiers or smaller NBFCs, the Maharashtra Money Lending (Regulation) Act, 2014, is a crucial piece of legislation. This act provides strict guidelines on who can lend money and at what interest rates. It was designed to protect individuals from predatory lending practices that have historically plagued parts of the state. If you are being harassed by an unlicensed lender in Pune, this act provides us with the legal grounds to challenge a debt.</p>
               <p>The act mandates that all moneylenders must hold a valid license and must maintain proper records of all transactions. It also limits the maximum interest that can be charged. Many "digital lending apps" and private financiers operating in the Pune-Mumbai belt often violate these provisions. When we represent a client, we investigate whether the lender has complied with Maharashtra law. If they haven't, their legal standing to recover the debt is significantly weakened.</p>
               <p>Furthermore, the act has specific provisions against harassment. It is illegal for a lender to use force, intimidation, or public shaming to recover money. In cases where our clients in Pune are facing such threats, we assist them in filing formal complaints with the Registrar of Moneylenders or the local police station. Knowing your rights under the Maharashtra Money Lending Act can be life changing when dealing with aggressive lenders.</p>
             </section>
 
             <section id="settlement-mechanics" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl font-black mb-6 uppercase tracking-tighter text-black">The Mechanics of Loan Settlement in Pune</h2>
+              <h3 className="text-3xl font-black mb-6 uppercase tracking-tighter text-black">The Mechanics of Loan Settlement in Pune</h3>
               <p>How does a loan settlement actually work in the Pune context? The process begins with a cooling-off period. Typically, banks only consider a settlement once a loan has been in default for at least 90 to 180 days, moving into the Non-Performing Asset (NPA) category. During this time, the bank realizes that full recovery is unlikely. This is the moment of maximum leverage for the borrower. We step in during this window to initiate formal negotiations.</p>
               <p>The settlement amount is usually a percentage of the total outstanding amount, which includes the principal, interest, and various penalties. In Pune, we have successfully negotiated settlements where the borrower paid as little as 30% to 50% of the total claim. The specific amount depends on several factors: the bank's current NPA targets, the age of the debt, and most importantly, the evidence of your financial hardship. We help you build a "Hardship File" that clearly demonstrates why you cannot pay the full amount.</p>
               <p>Once an agreement is reached in principle, the bank issues a formal "Sanction Letter" or "Settlement Letter." This is a critical document. It must clearly state the agreed amount, the payment schedule (whether a one-time payment or a few installments), and a commitment from the bank to issue a "No Dues Certificate" (NDC) upon completion. We review every letter for our Pune clients to ensure there are no hidden clauses that could cause trouble later. Only after the NDC is received is the debt truly settled.</p>
             </section>
 
             <section id="harassment-protection-pune" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl font-black mb-6 uppercase tracking-tighter text-black">Stopping Recovery Agent Harassment in Pune</h2>
+              <h3 className="text-3xl font-black mb-6 uppercase tracking-tighter text-black">Stopping Recovery Agent Harassment in Pune</h3>
               <p>The most painful part of the debt journey is often the harassment. In Pune's residential areas, from Aundh to Hadapsar, recovery agents often use tactics designed to shame and intimidate. They might call your neighbors, contact your employer at the IT park, or create a scene at your doorstep. This is a blatant violation of the RBI's Fair Practices Code and your fundamental Right to Privacy. You do not have to endure this in silence.</p>
               <p>Our strategy for stopping harassment in Pune is two-fold: legal and technological. First, we send a formal "Notice of Representation" to the bank, informing them that you are now legally represented by SettleLoans. This notice demands that all further communication regarding the debt be directed to us. This immediately shifts the burden away from you. Second, we educate you on how to handle agents who violate guidelines. The moment an agent uses foul language or shows up outside the 8 AM to 7 PM window, it becomes a legal liability for the bank.</p>
               <p>The Pune Police have been proactive in addressing complaints against unethical recovery agencies. If an agent threatens you or your family, we assist in filing a formal police complaint. In many cases, the mere presence of a legal professional and a recorded log of violations makes agents back off. Use technology - record every call and every visit. In Pune's modern societies, visitor logs and CCTV footage are excellent tools for building a case against harassment. We empower you to stand your ground with the full backing of the law.</p>
@@ -281,7 +281,7 @@ export default function PuneLoanSettlementPage() {
 
             {/* Testimonials Section - Strategic for Rich Results */}
             <section id="client-testimonials" className="scroll-mt-32 mb-16 bg-gray-50 p-8 rounded-3xl border border-[#DEDEDE]">
-              <h2 className="text-3xl font-black mb-8 text-center uppercase tracking-tight text-[#1F5EFF]">Verified Client Testimonials</h2>
+              <h3 className="text-3xl font-black mb-8 text-center uppercase tracking-tight text-[#1F5EFF]">Verified Client Testimonials</h3>
               <div className="grid md:grid-cols-2 gap-8">
                 <div className="bg-white p-6 rounded-2xl shadow-sm border border-[#DEDEDE]">
                   <div className="flex text-yellow-400 mb-2">★★★★★</div>
@@ -334,14 +334,14 @@ export default function PuneLoanSettlementPage() {
             </section>
 
             <section id="rebuilding-pune-credit" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl font-black mb-6 uppercase tracking-tighter text-black">Rebuilding Life and Credit After Settlement</h2>
+              <h3 className="text-3xl font-black mb-6 uppercase tracking-tighter text-black">Rebuilding Life and Credit After Settlement</h3>
               <p>One of the biggest concerns for Pune's young professionals is the impact of settlement on their CIBIL score. It is true that a settlement will lead to a 'Settled' remark and a temporary dip in your score. However, being debt free with a 'Settled' remark is infinitely better than being under a mountain of debt with a 'Defaulter' remark. A settled status means the legal liability is closed. You can now start the journey of rebuilding.</p>
               <p>Rebuilding your credit in a city like Pune is entirely possible with a disciplined approach. We guide our clients on small steps: obtaining a secured credit card against a fixed deposit, ensuring timely payments of utility bills, and avoiding new high interest loans. Within 12 to 24 months of a settlement, most of our clients see their scores return to a healthy range. The goal is to move from a state of financial crisis to one of financial sustainability.</p>
               <p>Beyond the numbers, the mental health benefits of being debt free are immeasurable. The stress of debt affects your work performance, your relationships, and your physical well being. By choosing a legal settlement path, you are choosing to hit the reset button. Pune is a city of second chances - many entrepreneurs and professionals here have overcome financial setbacks to build successful lives. Your current debt is a chapter, not the whole book.</p>
             </section>
 
             <section id="faqs" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl font-black mb-8">Frequently Asked Questions for Pune Residents</h2>
+              <h3 className="text-3xl font-black mb-8">Frequently Asked Questions for Pune Residents</h3>
               <div className="space-y-4 not-prose">
                 {[
                   { q: "Is loan settlement legal in Pune, Maharashtra?", a: "Yes, loan settlement is a fully legal process recognized by the Reserve Bank of India (RBI) and the Maharashtra state legal framework. It is an agreement between the borrower and the lender to close the debt for a reduced amount." },
@@ -366,7 +366,7 @@ export default function PuneLoanSettlementPage() {
             </section>
 
             <section className="mt-16 bg-[#1F5EFF] rounded-3xl p-10 text-center text-white shadow-2xl" id="conclusion">
-              <h2 className="text-3xl md:text-4xl font-black mb-4 uppercase tracking-tighter">Ready to Settle Your Debt in Pune?</h2>
+              <h3 className="text-3xl md:text-4xl font-black mb-4 uppercase tracking-tighter">Ready to Settle Your Debt in Pune?</h3>
               <p className="mb-8 text-lg opacity-90 max-w-2xl mx-auto">Residents of Pune choose SettleLoans because we combine local legal expertise with a results-driven negotiation approach. Your journey to being debt-free starts here.</p>
               <Link href="/contact" className="inline-block bg-white text-[#1F5EFF] font-black py-4 px-12 rounded-xl hover:scale-105 transition-all text-xl shadow-lg uppercase tracking-tight">
                 Start My Settlement

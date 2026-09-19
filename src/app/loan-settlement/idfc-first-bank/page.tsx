@@ -233,7 +233,7 @@ export default function IDFCFirstBankSettlementPage() {
             </section>
 
             <section id="why-settle" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl font-black text-[#1a202c] mb-6">Why Should You Settle Your IDFC First Bank Debt?</h2>
+              <h3 className="text-3xl font-black text-[#1a202c] mb-6">Why Should You Settle Your IDFC First Bank Debt?</h3>
               <p className="mb-6">
                 The decision to settle is a strategic one. While paying in full is always the goal: life often brings unexpected shifts like medical emergencies or job losses. In such cases: your IDFC First Bank loan can become a 'Debt Trap.' Interest on unsecured loans and credit cards can range from 18% to 45% annually when you factor in late fees and penalties.
               </p>
@@ -246,7 +246,7 @@ export default function IDFCFirstBankSettlementPage() {
             </section>
 
             <section id="credit-card-trap" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl font-black text-[#1a202c] mb-6">The IDFC First Credit Card Debt Trap: Understanding the Math</h2>
+              <h3 className="text-3xl font-black text-[#1a202c] mb-6">The IDFC First Credit Card Debt Trap: Understanding the Math</h3>
               <p className="mb-6">
                 IDFC First Bank offers attractive credit cards with rewards: but the 'Minimum Amount Due' feature is where many get stuck. By paying only the minimum: you are primarily covering the interest and GST: while the principal remains virtually untouched. The interest rates on IDFC cards: though often lower than other private banks for prime customers: can still climb significantly if you default.
               </p>
@@ -270,7 +270,7 @@ export default function IDFCFirstBankSettlementPage() {
             </section>
 
             <section id="ots-2026" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl font-black text-[#1a202c] mb-6">IDFC First Bank OTS Scheme 2026: Trends and Policies</h2>
+              <h3 className="text-3xl font-black text-[#1a202c] mb-6">IDFC First Bank OTS Scheme 2026: Trends and Policies</h3>
               <p className="mb-6">
                 The term 'OTS' or One Time Settlement has evolved in 2026. IDFC First Bank is leveraging technical data to identify hardship cases more accurately. Their 2026 scheme focuses on resolving Special Mention Accounts (SMA) before they become irreversible losses. If you are in the SMA-2 stage (61-90 days overdue): you are in the prime window for starting a professional negotiation.
               </p>
@@ -283,7 +283,7 @@ export default function IDFCFirstBankSettlementPage() {
             </section>
 
             <section id="personal-loan-steps" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl font-black text-[#1a202c] mb-6">Steps to Settle IDFC First Personal Loans</h2>
+              <h3 className="text-3xl font-black text-[#1a202c] mb-6">Steps to Settle IDFC First Personal Loans</h3>
               <p className="mb-6">
                 Settleing a personal loan is more formal than a card because it is a fixed term liability. IDFC First Bank is known for its efficient recovery calls: so the first step in our process is always 'Communication Shielding.' Here is our technical roadmap:
               </p>
@@ -291,28 +291,28 @@ export default function IDFCFirstBankSettlementPage() {
                  <li className="flex items-start">
                     <div className="bg-[#9C1D26] text-white w-8 h-8 rounded-full flex-shrink-0 flex items-center justify-center font-bold mr-4 mt-1">1</div>
                     <div>
-                        <h3 className="font-bold text-xl mb-1">Portfolio Audit</h3>
+                        <h4 className="font-bold text-xl mb-1">Portfolio Audit</h4>
                         <p>We analyze all your IDFC products. Often: one loan is an EMI and another is a card. we determine if a 'Composite Settlement' is possible for a better overall discount.</p>
                     </div>
                  </li>
                  <li className="flex items-start">
                     <div className="bg-[#9C1D26] text-white w-8 h-8 rounded-full flex-shrink-0 flex items-center justify-center font-bold mr-4 mt-1">2</div>
                     <div>
-                        <h4 className="font-bold text-xl mb-1">Legal Representation</h4>
+                        <h5 className="font-bold text-xl mb-1">Legal Representation</h5>
                         <p>Our lawyers issue a notice to IDFC First Bank notifying them of our representation. This immediately stops the ground recovery agents from visiting your home or office.</p>
                     </div>
                  </li>
                  <li className="flex items-start">
                     <div className="bg-[#9C1D26] text-white w-8 h-8 rounded-full flex-shrink-0 flex items-center justify-center font-bold mr-4 mt-1">3</div>
                     <div>
-                        <h4 className="font-bold text-xl mb-1">Hardship Presentation</h4>
+                        <h5 className="font-bold text-xl mb-1">Hardship Presentation</h5>
                         <p>We present your case to the Regional Nodal Officer. we emphasize the 'Ability to Pay' versus the 'Willingness to Pay': highlighting that a 40% recovery is better for the bank than a 0% loss.</p>
                     </div>
                  </li>
                  <li className="flex items-start">
                     <div className="bg-[#9C1D26] text-white w-8 h-8 rounded-full flex-shrink-0 flex items-center justify-center font-bold mr-4 mt-1">4</div>
                     <div>
-                        <h4 className="font-bold text-xl mb-1">Offer Finalization</h4>
+                        <h5 className="font-bold text-xl mb-1">Offer Finalization</h5>
                         <p>Once an offer is received: we verify the 'Settlement Letter' for loopholes. we ensure it contains the 'Full and Final' clause that protects you from any future claims by the bank.</p>
                     </div>
                  </li>
@@ -320,7 +320,7 @@ export default function IDFCFirstBankSettlementPage() {
             </section>
 
              <section id="credit-card-process" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl font-black text-[#1a202c] mb-6">Navigating IDFC First Credit Card Settlement Nuances</h2>
+              <h3 className="text-3xl font-black text-[#1a202c] mb-6">Navigating IDFC First Credit Card Settlement Nuances</h3>
               <p className="mb-6">
                 IDFC First credit card settlement requires a 'Strategic Silence' followed by an 'Aggressive Negotiation.' The bank's credit card department is separate from its loan department. Their goal is to recover as much interest as possible. our goal is to waive 100% of it.
               </p>
@@ -328,7 +328,7 @@ export default function IDFCFirstBankSettlementPage() {
                 One significant factor in IDFC card settlement is the 'Default Duration.' Generally: cards defaulted for more than 120 days yield the best settlement offers. At this stage: the account is usually 'Written Off' in the bank's books: giving the recovery managers more flexibility to accept lower amounts to meet their monthly recovery targets.
               </p>
               <div className="bg-slate-50 p-6 rounded-xl border border-slate-200">
-                 <h3 className="font-black text-[#9C1D26] mb-4">Pro Insight for IDFC Customers:</h3>
+                 <h4 className="font-black text-[#9C1D26] mb-4">Pro Insight for IDFC Customers:</h4>
                  <p className="italic">
                    Never agree to a settlement offer via WhatsApp or a third party link. Always insist on a formal letter from the @idfcfirstbank.com domain. we verify every digital offer to protect you from fraudulent collection scams.
                  </p>
@@ -336,32 +336,32 @@ export default function IDFCFirstBankSettlementPage() {
             </section>
 
             <section id="hardship-categories" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl font-black text-[#1a202c] mb-6">Hardship Categories: What IDFC First Bank Accepts</h2>
+              <h3 className="text-3xl font-black text-[#1a202c] mb-6">Hardship Categories: What IDFC First Bank Accepts</h3>
               <p className="mb-6">
                 To approve a steep waiver (e.g., 60-70% discount): IDFC First Bank requires proof that the borrower is in a situation of 'Permanent or Long Term Hardship.' The main categories are:
               </p>
               <div className="space-y-4">
                  <div className="p-4 bg-white shadow-sm border rounded-lg">
-                    <h3 className="font-bold text-[#9C1D26]">Job Loss / Business Failure</h3>
+                    <h4 className="font-bold text-[#9C1D26]">Job Loss / Business Failure</h4>
                     <p>Documented proof of unemployment for over 6 months or business closure notices. Bank statements showing zero income for several months are highly effective.</p>
                  </div>
                  <div className="p-4 bg-white shadow-sm border rounded-lg">
-                    <h4 className="font-bold text-[#9C1D26]">Major Medical Emergency</h4>
+                    <h5 className="font-bold text-[#9C1D26]">Major Medical Emergency</h5>
                     <p>Chronic illness or accidents involving the primary borrower or immediate family. Hospital bills and discharge summaries are required for this category.</p>
                  </div>
                  <div className="p-4 bg-white shadow-sm border rounded-lg">
-                    <h5 className="font-bold text-[#9C1D26]">Death of Primary Breadwinner</h5>
+                    <h6 className="font-bold text-[#9C1D26]">Death of Primary Breadwinner</h6>
                     <p>In tragic cases where the borrower has passed away: the family can settle the debt for a minimal amount by presenting death certificates and showing lack of assets.</p>
                  </div>
                  <div className="p-4 bg-white shadow-sm border rounded-lg">
-                    <h5 className="font-bold text-[#9C1D26]">Severe Salary Cut</h5>
+                    <h6 className="font-bold text-[#9C1D26]">Severe Salary Cut</h6>
                     <p>For salaried individuals: a reduction of more than 50% in salary or a shift from a regular role to a contract role can be used as a basis for settlement.</p>
                  </div>
               </div>
             </section>
 
             <section id="cibil-impact" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl font-black text-[#1a202c] mb-6">Analyzing the CIBIL Impact of Settleing with IDFC</h2>
+              <h3 className="text-3xl font-black text-[#1a202c] mb-6">Analyzing the CIBIL Impact of Settleing with IDFC</h3>
               <p className="mb-6">
                 We must be honest: Settleing your IDFC First Bank debt will have a negative impact on your CIBIL score. The bank will report the account status as 'Settled' to TransUnion CIBIL and other bureaus. This typically results in a drop of 50 to 100 points in your credit score.
               </p>
@@ -374,7 +374,7 @@ export default function IDFCFirstBankSettlementPage() {
             </section>
 
             <section id="legal-notices" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl font-black text-[#1a202c] mb-6">Handling IDFC First Bank Legal Notices</h2>
+              <h3 className="text-3xl font-black text-[#1a202c] mb-6">Handling IDFC First Bank Legal Notices</h3>
               <p className="mb-6">
                 If you have missed 3+ EMIs: you will receive legal notices from IDFC First Bank. our role is to differentiate between 'Generic Reminders' and 'Critical Legal Actions.'
               </p>
@@ -390,32 +390,32 @@ export default function IDFCFirstBankSettlementPage() {
             </section>
 
             <section id="why-hire-us" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl font-black text-[#1a202c] mb-6">Why Choose SettleLoans for your IDFC Settlement?</h2>
+              <h3 className="text-3xl font-black text-[#1a202c] mb-6">Why Choose SettleLoans for your IDFC Settlement?</h3>
               <p className="mb-6">
                 Settleing with a technocratic bank like IDFC First requires technical and legal leverage. SettleLoans provides:
               </p>
               <div className="grid md:grid-cols-2 gap-6 mb-12">
                  <div className="p-6 bg-[#fff1f2] rounded-xl border-t-4 border-[#9C1D26]">
-                    <h3 className="font-bold mb-2">Nodal Officer Access</h3>
+                    <h4 className="font-bold mb-2">Nodal Officer Access</h4>
                     <p className="text-sm">We maintain direct channels with the core recovery committees: bypassing the entry level collection agents who have no waiver power.</p>
                  </div>
                  <div className="p-6 bg-[#fff1f2] rounded-xl border-t-4 border-[#9C1D26]">
-                    <h4 className="font-bold mb-2">Immediate Legal Buffer</h4>
+                    <h5 className="font-bold mb-2">Immediate Legal Buffer</h5>
                     <p className="text-sm">From the day you sign up: we become your shield. we handle the calls and the notices so you can focus on your recovery.</p>
                  </div>
                  <div className="p-6 bg-[#fff1f2] rounded-xl border-t-4 border-[#9C1D26]">
-                    <h5 className="font-bold mb-2">Optimal Waiver Data</h5>
+                    <h6 className="font-bold mb-2">Optimal Waiver Data</h6>
                     <p className="text-sm">We know the 'Low Point' IDFC First is willing to accept based on thousands of past cases. we ensure you don't overpay.</p>
                  </div>
                  <div className="p-6 bg-[#fff1f2] rounded-xl border-t-4 border-[#9C1D26]">
-                    <h5 className="font-bold mb-2">Technical NDC Check</h5>
+                    <h6 className="font-bold mb-2">Technical NDC Check</h6>
                     <p className="text-sm">We verify the core banking entry of your closure to ensure your CIBIL report reflects the settlement accurately.</p>
                  </div>
               </div>
             </section>
 
              <section id="bank-policies" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl font-black text-[#1a202c] mb-6">Inside IDFC First Bank's Recovery Ecosystem</h2>
+              <h3 className="text-3xl font-black text-[#1a202c] mb-6">Inside IDFC First Bank's Recovery Ecosystem</h3>
               <p className="mb-6">
                 IDFC First Bank uses a highly automated recovery system. In the first 30 days: you will receive 'Soft Touches': SMS and automated calls. Between 31 to 90 days: the account moves to SMA-1 and SMA-2. This is when human agents start calling. the bank's internal target is to prevent accounts from becoming NPA at 90 days.
               </p>
@@ -434,7 +434,7 @@ export default function IDFCFirstBankSettlementPage() {
             </section>
 
              <section id="multi-product" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl font-black text-[#1a202c] mb-6">Strategic Multi-Product Settlement (Composite OTS)</h2>
+              <h3 className="text-3xl font-black text-[#1a202c] mb-6">Strategic Multi-Product Settlement (Composite OTS)</h3>
               <p className="mb-6">
                 Many IDFC First customers have a 'First Personal Loan' along with a credit card or a consumer durable loan (taken for electronics or home appliances). The bank's internal systems often see these as separate liabilities: leading to multiple sets of recovery agents calling you simultaneously. This is where SettleLoans' 'Composite OTS' strategy comes into play.
               </p>
@@ -450,7 +450,7 @@ export default function IDFCFirstBankSettlementPage() {
             </section>
 
              <section id="common-obstacles" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl font-black text-[#1a202c] mb-6">Common Obstacles in IDFC Settlement Processes</h2>
+              <h3 className="text-3xl font-black text-[#1a202c] mb-6">Common Obstacles in IDFC Settlement Processes</h3>
               <p className="mb-6">
                 A common issue in IDFC First settlement is the 'Cross Holding' problem. If you have a salary account and a loan with IDFC: the bank can legally 'Set Off' your salary to pay the loan. we advise clients on how to move their banking to a non lending bank before starting our process.
               </p>
@@ -466,7 +466,7 @@ export default function IDFCFirstBankSettlementPage() {
             </section>
 
             <section id="documents" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl font-black text-[#1a202c] mb-6">Required Documentation for IDFC Settlement</h2>
+              <h3 className="text-3xl font-black text-[#1a202c] mb-6">Required Documentation for IDFC Settlement</h3>
               <p className="mb-6">
                 To move your settlement file to the approval stage: IDFC Nodal Officers require:
               </p>
@@ -483,7 +483,7 @@ export default function IDFCFirstBankSettlementPage() {
             </section>
 
             <section id="rbi-vs-idfc" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl font-black text-[#1a202c] mb-6">RBI Guidelines: Your Legal Protection against Harassment</h2>
+              <h3 className="text-3xl font-black text-[#1a202c] mb-6">RBI Guidelines: Your Legal Protection against Harassment</h3>
               <p className="mb-6">
                 IDFC First Bank must follow the Reserve Bank of India's rules on debt recovery. our negotiation is often backed by these legal safeguards.
               </p>
@@ -502,7 +502,7 @@ export default function IDFCFirstBankSettlementPage() {
             </section>
 
             <section id="faqs" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-5xl font-black text-[#9C1D26] mb-12">Frequently Asked Questions for IDFC settlement</h2>
+              <h3 className="text-3xl md:text-5xl font-black text-[#9C1D26] mb-12">Frequently Asked Questions for IDFC settlement</h3>
               <div className="space-y-4">
                   {[
                     { q: "Is it possible to settle an IDFC First business loan?", a: "Yes: business loans can be settled but they require more extensive financial documentation like P&L statements and balance sheets." },
@@ -519,7 +519,7 @@ export default function IDFCFirstBankSettlementPage() {
                     { q: "How do I check if my account is settled in CIBIL?", a: "You can check your CIBIL report 45 days after payment. it should show the status as 'Settled.' we follow up with the bank if it doesn't." }
                   ].map((faq, i) => (
                     <div key={i} className="border-b border-slate-200 pb-6">
-                        <h3 className="font-bold text-lg text-[#1a202c] mb-2">{faq.q}</h3>
+                        <h4 className="font-bold text-lg text-[#1a202c] mb-2">{faq.q}</h4>
                         <p className="text-[#4a5568]">{faq.a}</p>
                     </div>
                   ))}
@@ -527,7 +527,7 @@ export default function IDFCFirstBankSettlementPage() {
             </section>
 
             <section id="reviews" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl font-black text-[#1a202c] mb-8">What Our IDFC First Clients Say</h2>
+              <h3 className="text-3xl font-black text-[#1a202c] mb-8">What Our IDFC First Clients Say</h3>
               <div className="grid gap-6">
                 {[
                   { name: "Karan Malhotra", date: "Jan 20, 2024", text: "SettleLoans helped me settle my IDFC First Bank credit card debt of 3.5 lakhs for just 1.2 lakhs. The harassment stopped and the closure was smooth. Truly life saving.", rating: 5 },
@@ -553,7 +553,7 @@ export default function IDFCFirstBankSettlementPage() {
             </section>
 
             <section id="conclusion" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl font-black text-[#1a202c] mb-6">Final Thoughts: Step into a Debt Free Future</h2>
+              <h3 className="text-3xl font-black text-[#1a202c] mb-6">Final Thoughts: Step into a Debt Free Future</h3>
               <p className="text-lg mb-6">
                 IDFC First Bank loan settlement is a legitimate legal path to resolve unmanageable debt. thousands of Indians have used this route to reset their finances and start anew. the key is not to ignore the problem but to face it with professional legal support.
               </p>
@@ -564,7 +564,7 @@ export default function IDFCFirstBankSettlementPage() {
                 As your partner: SettleLoans ensures that your IDFC First journey ends with a clean break and a No Dues Certificate. don't let debt dictate your future any longer. the first step is to seek expert advice. our team is ready to provide you with the technical and legal clarity you need to move forward with confidence and peace of mind.
               </p>
               <div className="bg-[#9C1D26] text-white p-10 rounded-3xl text-center">
-                 <h3 className="text-3xl font-black mb-4">Reclaim Your Financial Freedom</h3>
+                 <h4 className="text-3xl font-black mb-4">Reclaim Your Financial Freedom</h4>
                  <p className="text-xl mb-8 opacity-90">Let our experts analyze your IDFC First Bank portfolio for free.</p>
                  <Link href="/contact" className="inline-block bg-white text-[#9C1D26] font-black py-4 px-12 rounded-xl text-xl hover:bg-[#fff1f2] transition-all">
                     Consult our Lawyers Now

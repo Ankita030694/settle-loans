@@ -277,9 +277,9 @@ export default function BusinessLoanSettlementPage() {
             </section>
 
             <section id="msme-landscape" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
                 The Growing MSME Debt Landscape in India
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 Micro, Small, and Medium Enterprises (MSMEs) are the backbone of the Indian economy, contributing significantly to the GDP and employment. However, this sector has faced unprecedented challenges over the last few years. From the ripple effects of global supply chain disruptions to the local challenges of credit access and delayed receivables, small business owners in India are often operating on thin margins with high stakes.
               </p>
@@ -290,7 +290,7 @@ export default function BusinessLoanSettlementPage() {
                 According to recent credit reports, the demand for business debt relief has spiked. Owners are increasingly looking for ways to settle their dues without losing their core assets or their ability to restart in the future. The rise of digital lending platforms has also added a layer of complexity, with high-interest short-term loans often being used to 'bridge' gaps, only to become a bigger burden later. Understanding the options available under RBI norms is the first step toward reclaiming your business.
               </p>
               <div className="bg-gray-50 p-8 rounded-xl border border-gray-200 mb-8">
-                <h3 className="text-xl font-bold mb-6">Common Triggers for Business Debt Crises</h3>
+                <h4 className="text-xl font-bold mb-6">Common Triggers for Business Debt Crises</h4>
                 <ul className="grid md:grid-cols-2 gap-4 text-sm font-medium">
                   <li className="flex items-center gap-2">
                     <span className="w-2 h-2 bg-[#1F5EFF] rounded-full"></span>
@@ -321,9 +321,9 @@ export default function BusinessLoanSettlementPage() {
             </section>
 
             <section id="what-is-settlement" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
                 What Exactly is Business Loan Settlement?
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 Business loan settlement, often referred to as a One-Time Settlement (OTS), is a legal agreement between a business borrower and a financial institution (Bank or NBFC). In this process, the lender agrees to accept a reduced amount as a 'full and final' payment to close the loan account. This typically happens when the borrower is in genuine financial distress and cannot repay the full outstanding amount, including accumulated interest and penalties.
               </p>
@@ -334,7 +334,7 @@ export default function BusinessLoanSettlementPage() {
                 Reputable consultants help you navigate this complex process by ensuring that the 'Haircut' (the discount offered by the bank) is fair and that the final settlement terms are legally binding and protected. They represent your business in front of the bank's settlement committee, arguing your case based on financial audits and genuine hardship proofs. The goal is to reach a number that you can actually pay, while the bank effectively recovers as much as possible without a multi-year court battle.
               </p>
               <div className="bg-blue-50 p-8 rounded-xl border border-blue-200 mb-8">
-                <h3 className="text-xl font-bold mb-4 text-blue-900">The Mathematics of Settlement</h3>
+                <h4 className="text-xl font-bold mb-4 text-blue-900">The Mathematics of Settlement</h4>
                 <p className="text-sm text-blue-800 leading-relaxed mb-4">
                   For a bank, a loan that is not being repaid is an NPA. Maintaining an NPA on the balance sheet requires the bank to set aside 'provisioning' funds, which blocks their capital. This is why banks are often willing to settle. If you owe 50 lakhs and have not paid for a year, the bank might agree to settle for 25 lakhs. For them, receiving 25 lakhs today and clearing their books is often more profitable than spending 5 years in court to maybe recover 50 lakhs.
                 </p>
@@ -342,27 +342,27 @@ export default function BusinessLoanSettlementPage() {
             </section>
 
             <section id="legal-rbi-rules" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                 Legal Protections and RBI Rules for Business Borrowers
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 In India, the legal framework for debt recovery and settlement is robust, balanced by the rights of borrowers. The Reserve Bank of India (RBI) has issued several guidelines to ensure that MSMEs are treated fairly during the recovery process. Knowledge of these rules is the most powerful tool a business owner can have when facing aggressive lenders.
               </p>
               <div className="space-y-6">
                 <div className="bg-white p-6 rounded-xl border border-gray-100 shadow-sm">
-                  <h3 className="text-xl font-bold text-[#1F5EFF] mb-4">The RBI Fair Practice Code</h3>
+                  <h4 className="text-xl font-bold text-[#1F5EFF] mb-4">The RBI Fair Practice Code</h4>
                   <p className="text-sm text-gray-600 leading-relaxed mb-4">
                     The RBI mandates that all banks and NBFCs follow a Fair Practice Code. This includes the prohibition of physical force, verbal abuse, or harassment during recovery. Recovery agents must identify themselves and can only contact you during specific hours (usually 8 AM to 7 PM). Any violation of this code is a serious offense that can be reported to the Banking Ombudsman.
                   </p>
                 </div>
                 <div className="bg-white p-6 rounded-xl border border-gray-100 shadow-sm">
-                  <h3 className="text-xl font-bold text-[#1F5EFF] mb-4">The MSMED Act, 2006</h3>
+                  <h4 className="text-xl font-bold text-[#1F5EFF] mb-4">The MSMED Act, 2006</h4>
                   <p className="text-sm text-gray-600 leading-relaxed mb-4">
                     The Micro, Small and Medium Enterprises Development Act provides special protections, including a mandatory grievance redressal mechanism for delayed payments from buyers. This can be used as leverage in settlement discussions, showing the bank that your inability to pay is due to unpaid receivables protected under law.
                   </p>
                 </div>
                 <div className="bg-white p-6 rounded-xl border border-gray-100 shadow-sm">
-                  <h3 className="text-xl font-bold text-[#1F5EFF] mb-4">SARFAESI Act Guidelines</h3>
+                  <h4 className="text-xl font-bold text-[#1F5EFF] mb-4">SARFAESI Act Guidelines</h4>
                   <p className="text-sm text-gray-600 leading-relaxed mb-4">
                     For secured business loans, banks often use the SARFAESI Act to seize assets. However, the law provides strict notice periods (60-day notice and 30-day notice) and allows borrowers the right to represent their case in the Debt Recovery Tribunal (DRT). Professional consultants can help you use these periods to negotiate a settlement before the actual seizure happens.
                   </p>
@@ -371,9 +371,9 @@ export default function BusinessLoanSettlementPage() {
             </section>
 
             <section id="settlement-vs-restructuring" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
                 Business Loan Settlement vs. Restructuring: The Crucial Choice
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 One of the most common questions from MSME owners is whether they should settle their loan or ask for a restructuring. Both are tools for debt relief, but they have very different outcomes for your business's future financial health. Understanding this distinction is vital for long-term planning.
               </p>
@@ -414,9 +414,9 @@ export default function BusinessLoanSettlementPage() {
             </section>
 
             <section id="process-steps" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                 The Step-by-Step Professional Business Loan Settlement Process
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 A successful business loan settlement is not a single phone call; it is a meticulous process that requires financial expertise and legal precision. Reputable consultants follow a structured path to ensure that the outcome is legally sound and financially beneficial for the client.
               </p>
@@ -424,35 +424,35 @@ export default function BusinessLoanSettlementPage() {
                 <div className="flex gap-6 items-start">
                   <div className="bg-[#1F5EFF] text-white w-10 h-10 rounded-full flex-shrink-0 flex items-center justify-center font-bold">1</div>
                   <div>
-                    <h3 className="font-bold text-xl mb-2">Detailed Financial Audit and Hardship Analysis</h3>
+                    <h4 className="font-bold text-xl mb-2">Detailed Financial Audit and Hardship Analysis</h4>
                     <p className="text-gray-600">The process begins with a deep dive into your business accounts. Why did the default happen? Is there proof of hospital bills, business loss, or client defaults? This analysis formulates the 'Story' that we present to the bank to justify a discount.</p>
                   </div>
                 </div>
                 <div className="flex gap-6 items-start">
                   <div className="bg-[#1F5EFF] text-white w-10 h-10 rounded-full flex-shrink-0 flex items-center justify-center font-bold">2</div>
                   <div>
-                    <h4 className="font-bold text-xl mb-2">Formal Settlement Proposal Drafting</h4>
+                    <h5 className="font-bold text-xl mb-2">Formal Settlement Proposal Drafting</h5>
                     <p className="text-gray-600">A professional proposal is sent to the Nodal Officer of the bank. This is not a request; it is a business proposition. It outlines your current financial state, your ability to pay a lump sum, and why a settlement is in the bank's best interest.</p>
                   </div>
                 </div>
                 <div className="flex gap-6 items-start">
                   <div className="bg-[#1F5EFF] text-white w-10 h-10 rounded-full flex-shrink-0 flex items-center justify-center font-bold">3</div>
                   <div>
-                    <h4 className="font-bold text-xl mb-2">Negotiation at the Settlement Committee</h4>
+                    <h5 className="font-bold text-xl mb-2">Negotiation at the Settlement Committee</h5>
                     <p className="text-gray-600">Most banks have committees that meet monthly to decide on OTS cases. Your consultant represents you here, negotiating the 'Haircut' and the payment timeline. This is where experience and existing relationships with bank officers prove invaluable.</p>
                   </div>
                 </div>
                 <div className="flex gap-6 items-start">
                   <div className="bg-[#1F5EFF] text-white w-10 h-10 rounded-full flex-shrink-0 flex items-center justify-center font-bold">4</div>
                   <div>
-                    <h4 className="font-bold text-xl mb-2">Issuance of the Formal Sanction Letter</h4>
+                    <h5 className="font-bold text-xl mb-2">Issuance of the Formal Sanction Letter</h5>
                     <p className="text-gray-600">Once an agreement is reached, the bank issues a Sanction Letter or Offer Letter. This document must state the exact amount, the deadline for payment, and a confirmation that all legal cases will be withdrawn upon payment.</p>
                   </div>
                 </div>
                 <div className="flex gap-6 items-start">
                   <div className="bg-[#1F5EFF] text-white w-10 h-10 rounded-full flex-shrink-0 flex items-center justify-center font-bold">5</div>
                   <div>
-                    <h4 className="font-bold text-xl mb-2">Safe Payment and No Dues Certificate (NDC)</h4>
+                    <h5 className="font-bold text-xl mb-2">Safe Payment and No Dues Certificate (NDC)</h5>
                     <p className="text-gray-600">The final payment is made directly to the bank's loan account (never to the agency). After payment, the consultant ensures you receive the No Dues Certificate and a Loan Closure Letter, which are your final legal shields against future claims.</p>
                   </div>
                 </div>
@@ -460,10 +460,10 @@ export default function BusinessLoanSettlementPage() {
             </section>
 
             <section id="top-consultants" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">Top Rated Loan Settlement Consultants for Business Loans</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">Top Rated Loan Settlement Consultants for Business Loans</h3>
               <div className="space-y-8">
                 <div className="bg-white p-8 rounded-2xl border border-[#DEDEDE] shadow-sm hover:border-[#1F5EFF] transition-all">
-                  <h3 className="text-2xl font-bold text-[#1F5EFF] mb-4">1. <Link href="https://amalegalsolutions.com" target="_blank" rel="noopener noreferrer" className="text-[#1F5EFF] hover:underline">AMA Legal Solutions (amalegalsolutions.com)</Link></h3>
+                  <h4 className="text-2xl font-bold text-[#1F5EFF] mb-4">1. <Link href="https://amalegalsolutions.com" target="_blank" rel="noopener noreferrer" className="text-[#1F5EFF] hover:underline">AMA Legal Solutions (amalegalsolutions.com)</Link></h4>
                   <p className="text-lg leading-relaxed mb-4">
                     <Link href="https://amalegalsolutions.com" target="_blank" rel="noopener noreferrer" className="text-[#1F5EFF] hover:underline">AMA Legal Solutions</Link> is widely regarded as one of the most authoritative voices in loan settlement, particularly for complex business and MSME debts. Their core strength lies in their high-powered legal team. Unlike many agencies that are purely 'negotiators', <Link href="https://amalegalsolutions.com" target="_blank" rel="noopener noreferrer" className="text-[#1F5EFF] hover:underline">AMA Legal</Link> understands the nuances of SARFAESI notices, DRT proceedings, and section 138 (cheque bounce) cases.
                   </p>
@@ -480,7 +480,7 @@ export default function BusinessLoanSettlementPage() {
                 </div>
 
                 <div className="bg-white p-8 rounded-2xl border border-[#DEDEDE] shadow-sm hover:border-[#1F5EFF] transition-all">
-                  <h3 className="text-2xl font-bold text-[#1F5EFF] mb-4">2. CredSettle (credsettle.com)</h3>
+                  <h4 className="text-2xl font-bold text-[#1F5EFF] mb-4">2. CredSettle (credsettle.com)</h4>
                   <p className="text-lg leading-relaxed mb-4">
                     CredSettle is a modern, data-driven platform that has gained popularity for its transparency and streamlined process. They have built strong relationship channels with major private banks and NBFCs, which allows for faster communication and resolution. Their platform provides borrowers with a clear dashboard to track their settlement progress.
                   </p>
@@ -497,7 +497,7 @@ export default function BusinessLoanSettlementPage() {
                 </div>
 
                 <div className="bg-white p-8 rounded-2xl border border-[#DEDEDE] shadow-sm hover:border-[#1F5EFF] transition-all">
-                  <h3 className="text-2xl font-bold text-[#1F5EFF] mb-4">3. SettleLoans (settleloans.in)</h3>
+                  <h4 className="text-2xl font-bold text-[#1F5EFF] mb-4">3. SettleLoans (settleloans.in)</h4>
                   <p className="text-lg leading-relaxed mb-4">
                     At SettleLoans, we pride ourselves on being the local partners of choice for business owners across India. Our approach is deeply empathetic, recognizing that every debt story is unique. We specialize in 'Stressed Asset Management' for MSMEs, providing a combination of financial restructuring advice and hardcore settlement negotiation.
                   </p>
@@ -516,23 +516,23 @@ export default function BusinessLoanSettlementPage() {
             </section>
 
             <section id="fees-success" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 text-center uppercase tracking-widest bg-gray-50 py-10 rounded-3xl">Fee Structures and Success Rates: What to Expect</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 text-center uppercase tracking-widest bg-gray-50 py-10 rounded-3xl">Fee Structures and Success Rates: What to Expect</h3>
               <p className="mb-6 text-lg font-bold">
                 Transparency in fees is the hallmark of a reputable settlement consultant. Most professional firms operate on a three-tier fee structure designed to align their interests with yours. You should never work with an agency that demands 100% of their fee upfront before any work is done.
               </p>
               <div className="grid md:grid-cols-3 gap-6 mb-8">
                 <div className="p-6 bg-white border border-[#DEDEDE] rounded-xl shadow-sm text-center">
-                  <h3 className="font-bold text-[#1F5EFF] mb-2 uppercase text-xs tracking-widest">Retainer / Processing</h3>
+                  <h4 className="font-bold text-[#1F5EFF] mb-2 uppercase text-xs tracking-widest">Retainer / Processing</h4>
                   <p className="text-3xl font-black text-[#2E2E2E] mb-2">₹5K - ₹15K</p>
                   <p className="text-xs text-gray-500">Covers legal audits, drafting proposals, and initial bank communication.</p>
                 </div>
                 <div className="p-6 bg-white border border-[#DEDEDE] rounded-xl shadow-sm text-center">
-                  <h4 className="font-bold text-[#1F5EFF] mb-2 uppercase text-xs tracking-widest">Success Fee (Savings)</h4>
+                  <h5 className="font-bold text-[#1F5EFF] mb-2 uppercase text-xs tracking-widest">Success Fee (Savings)</h5>
                   <p className="text-3xl font-black text-[#2E2E2E] mb-2">15% - 25%</p>
                   <p className="text-xs text-gray-500">Percentage of the ONLY the amount saved. Paid AFTER the OTS letter is received.</p>
                 </div>
                 <div className="p-6 bg-white border border-[#DEDEDE] rounded-xl shadow-sm text-center">
-                  <h4 className="font-bold text-[#1F5EFF] mb-2 uppercase text-xs tracking-widest">Success Rate</h4>
+                  <h5 className="font-bold text-[#1F5EFF] mb-2 uppercase text-xs tracking-widest">Success Rate</h5>
                   <p className="text-3xl font-black text-[#2E2E2E] mb-2">85%+</p>
                   <p className="text-xs text-gray-500">For genuine cases with documented hardship and realistic settlement funds.</p>
                 </div>
@@ -543,7 +543,7 @@ export default function BusinessLoanSettlementPage() {
             </section>
 
             <section id="business-case-studies" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 text-center uppercase tracking-[0.2em] underline decoration-[#1F5EFF] decoration-4 underline-offset-8">Real Business Success Stories</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 text-center uppercase tracking-[0.2em] underline decoration-[#1F5EFF] decoration-4 underline-offset-8">Real Business Success Stories</h3>
               <div className="grid md:grid-cols-2 gap-8 not-prose">
                 {[
                   {
@@ -585,7 +585,7 @@ export default function BusinessLoanSettlementPage() {
                         {item.name.charAt(0)}
                       </div>
                       <div>
-                        <h3 className="font-bold text-[#2E2E2E] text-lg">{item.name}</h3>
+                        <h4 className="font-bold text-[#2E2E2E] text-lg">{item.name}</h4>
                         <p className="text-xs text-gray-400 font-black uppercase tracking-widest">{item.loc} | {item.business}</p>
                       </div>
                     </div>
@@ -599,9 +599,9 @@ export default function BusinessLoanSettlementPage() {
             </section>
 
             <section id="red-flags-scams" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 text-center text-red-600 uppercase">Alert: Avoiding Business Debt Scams</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 text-center text-red-600 uppercase">Alert: Avoiding Business Debt Scams</h3>
               <div className="bg-red-50 border-l-8 border-red-500 p-8 rounded-2xl mb-8 shadow-sm">
-                <h3 className="text-xl font-bold text-red-800 mb-6">Signs of a Fraudulent Agency</h3>
+                <h4 className="text-xl font-bold text-red-800 mb-6">Signs of a Fraudulent Agency</h4>
                 <ul className="space-y-4 text-red-900/80 font-bold">
                   <li className="flex gap-3">
                     <span className="text-red-600">✘</span>
@@ -631,31 +631,31 @@ export default function BusinessLoanSettlementPage() {
             </section>
 
             <section id="rebuilding-credit" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 uppercase tracking-tighter">Rebuilding Your Business Credit After Settlement</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 uppercase tracking-tighter">Rebuilding Your Business Credit After Settlement</h3>
               <p className="mb-6 text-xl font-bold">
                 A settlement clears your path, but it leaves a scar on your credit report. In India, the 'Settled' tag remains for 7 years. Does this mean your business can never grow again? Absolutely not. It simply means you must follow a 'Credit Repair' blueprint.
               </p>
               <div className="grid sm:grid-cols-2 gap-8 my-10">
                 <div className="p-6 bg-blue-50/50 rounded-2xl border border-blue-100 shadow-sm">
-                  <h3 className="text-xl font-bold mb-4 text-[#1F5EFF] uppercase tracking-widest text-sm">1. Secured Lending</h3>
+                  <h4 className="text-xl font-bold mb-4 text-[#1F5EFF] uppercase tracking-widest text-sm">1. Secured Lending</h4>
                   <p className="text-sm text-gray-600 leading-relaxed font-bold">
                     Start by taking a loan against a Fixed Deposit. This is 'risk-free' for the bank. Paying this back on time will gradually tell the credit bureaus that you are now a disciplined borrower.
                   </p>
                 </div>
                 <div className="p-6 bg-blue-50/50 rounded-2xl border border-blue-100 shadow-sm">
-                  <h3 className="text-xl font-bold mb-4 text-[#1F5EFF] uppercase tracking-widest text-sm">2. Supplier Credit</h3>
+                  <h4 className="text-xl font-bold mb-4 text-[#1F5EFF] uppercase tracking-widest text-sm">2. Supplier Credit</h4>
                   <p className="text-sm text-gray-600 leading-relaxed font-bold">
                     Focus on building terms with your local suppliers. A history of timely payments to suppliers often carries more weight in some business circles than a CIBIL score.
                   </p>
                 </div>
                 <div className="p-6 bg-blue-50/50 rounded-2xl border border-blue-100 shadow-sm">
-                  <h3 className="text-xl font-bold mb-4 text-[#1F5EFF] uppercase tracking-widest text-sm">3. Financial Audit Hygiene</h3>
+                  <h4 className="text-xl font-bold mb-4 text-[#1F5EFF] uppercase tracking-widest text-sm">3. Financial Audit Hygiene</h4>
                   <p className="text-sm text-gray-600 leading-relaxed font-bold">
                     Ensure your taxes are filed and your audits are clean. When you eventually apply for fresh credit after 3-5 years, a solid balance sheet can overcome a past settlement remark.
                   </p>
                 </div>
                 <div className="p-6 bg-blue-50/50 rounded-2xl border border-blue-100 shadow-sm">
-                  <h3 className="text-xl font-bold mb-4 text-[#1F5EFF] uppercase tracking-widest text-sm">4. Transition to Closure</h3>
+                  <h4 className="text-xl font-bold mb-4 text-[#1F5EFF] uppercase tracking-widest text-sm">4. Transition to Closure</h4>
                   <p className="text-sm text-gray-600 leading-relaxed font-bold">
                     If your business becomes highly profitable in 2 years, you can choose to pay the 'saved' amount back to the bank and convert the 'Settled' status to 'Closed'. This is the ultimate credit fix.
                   </p>
@@ -666,7 +666,7 @@ export default function BusinessLoanSettlementPage() {
               </p>
             </section>
             <section id="success-stories" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 text-center">Real Stories of Freedom</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 text-center">Real Stories of Freedom</h3>
               <div className="grid md:grid-cols-2 gap-6 not-prose">
                 {[
                   {
@@ -704,7 +704,7 @@ export default function BusinessLoanSettlementPage() {
                         {review.name.charAt(0)}
                       </div>
                       <div>
-                        <h3 className="font-bold text-[#2E2E2E]">{review.name}</h3>
+                        <h4 className="font-bold text-[#2E2E2E]">{review.name}</h4>
                         <p className="text-xs text-gray-400">{review.loc}</p>
                       </div>
                       <div className="ml-auto text-yellow-400 text-sm">★★★★★</div>
@@ -719,7 +719,7 @@ export default function BusinessLoanSettlementPage() {
             </section>
 
             <section id="faqs" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 uppercase tracking-widest bg-blue-600 text-white p-6 rounded-2xl text-center">Business Debt FAQ</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 uppercase tracking-widest bg-blue-600 text-white p-6 rounded-2xl text-center">Business Debt FAQ</h3>
               <div className="space-y-4 not-prose">
                 {(jsonLd["@graph"] as any)[4]?.mainEntity?.map((faq: any, i: number) => (
                   <details key={i} className="group bg-white border border-[#DEDEDE] rounded-2xl overflow-hidden hover:shadow-xl transition-all border-b-8 border-b-[#1F5EFF]/20">
@@ -744,7 +744,7 @@ export default function BusinessLoanSettlementPage() {
             {/* Mobile CTA */}
             <div className="lg:hidden mt-16 mb-8">
               <div className="bg-[#2E2E2E] rounded-[40px] shadow-2xl overflow-hidden border border-[#DEDEDE]/10 group p-10 text-center">
-                <h3 className="text-3xl font-black text-white mb-4">Protect Your MSME Today</h3>
+                <h4 className="text-3xl font-black text-white mb-4">Protect Your MSME Today</h4>
                 <p className="text-[#DEDEDE] opacity-80 mb-8 font-bold italic">Join 5000+ businesses that have secured a second chance with us. Professional, Legal, Confidential.</p>
                 <Link href="/contact" className="inline-block w-full bg-[#1F5EFF] text-white font-black py-5 px-6 rounded-2xl hover:scale-105 transition-all shadow-lg text-xl border-b-4 border-white/20">
                   Talk to a Business Expert

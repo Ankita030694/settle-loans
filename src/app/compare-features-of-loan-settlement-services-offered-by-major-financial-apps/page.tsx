@@ -211,7 +211,7 @@ export default function CompareLoanAppsPage() {
                   As we move into an era of hyper connectivity, the integration of debt relief into the broader fintech ecosystem is inevitable. We are seeing partnerships between credit bureaus and resolution apps, ensuring that every step toward settlement is accurately reflected and rewarded in the borrower's credit history. This level of synchronization was unthinkable just five years ago.
                 </p>
                 <div className="bg-blue-50 p-8 rounded-2xl border border-blue-100 my-10">
-                  <h3 className="text-xl font-bold text-blue-900 mb-4 italic">The 2025 Landscape of Digital Debt Relief</h3>
+                  <h4 className="text-xl font-bold text-blue-900 mb-4 italic">The 2025 Landscape of Digital Debt Relief</h4>
                   <p className="text-blue-800 text-sm leading-6">
                     As we navigate 2025, the role of these apps has been further solidified by the RBI Digital Lending Directions. These regulations mandate that all digital lending and resolution activities must be transparent, unauthorized data access must be eliminated, and the rights of the borrower must be protected at every touchpoint. Modern platforms like **AMA App** and **CredSettle** are at the forefront of this regulatory compliance, ensuring that your financial recovery is not just effective but also legally bulletproof.
                   </p>
@@ -220,15 +220,15 @@ export default function CompareLoanAppsPage() {
             </section>
 
             <section id="market-landscape" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                 Fintech Platform Landscape: Understanding Your Options
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 The Indian fintech debt relief market is remarkably diverse, catering to different types of borrowers and varying levels of financial distress. Understanding who the major players are and the specific models they employ is crucial for making an informed decision.
               </p>
               <div className="space-y-8 my-10">
                 <div className="p-8 bg-white border border-[#DEDEDE] rounded-2xl shadow-sm hover:shadow-md transition-all">
-                  <h3 className="text-2xl font-black text-[#1F5EFF] mb-4 underline">1. Direct Legal Authority: AMA App (AMA Connect)</h3>
+                  <h4 className="text-2xl font-black text-[#1F5EFF] mb-4 underline">1. Direct Legal Authority: AMA App (AMA Connect)</h4>
                   <p className="mb-4">
                     Managed by **AMA Legal Solutions (amalegalsolutions.com)**, the **AMA App** represents the convergence of high end legal expertise and digital efficiency. Unlike many tech only platforms, it is backed by a full service law firm specializing in debt resolution.
                   </p>
@@ -246,7 +246,7 @@ export default function CompareLoanAppsPage() {
                 </div>
 
                 <div className="p-8 bg-white border border-[#DEDEDE] rounded-2xl shadow-sm hover:shadow-md transition-all">
-                  <h3 className="text-2xl font-black text-[#2E2E2E] mb-4 italic">2. Structured Savings Model: FREED</h3>
+                  <h4 className="text-2xl font-black text-[#2E2E2E] mb-4 italic">2. Structured Savings Model: FREED</h4>
                   <p className="mb-4 text-[var(--color-text-body)]">
                     **FREED (freed.care)** functions primarily as a tech enabled debt relief platform. Their approach is centered on a Debt Settlement Program (DSP) where the borrower saves a predetermined amount into a dedicated account each month.
                   </p>
@@ -259,7 +259,7 @@ export default function CompareLoanAppsPage() {
                 </div>
 
                 <div className="p-8 bg-white border border-[#DEDEDE] rounded-2xl shadow-sm hover:shadow-md transition-all">
-                  <h3 className="text-2xl font-black text-[#2E2E2E] mb-4">3. Professional Negotiation: CredSettle & SettleLoans</h3>
+                  <h4 className="text-2xl font-black text-[#2E2E2E] mb-4">3. Professional Negotiation: CredSettle & SettleLoans</h4>
                   <p className="mb-4 text-[var(--color-text-body)]">
                     Services like **CredSettle (credsettle.com)** and **SettleLoans (settleloans.in)** focus on the art and science of professional negotiation. They act as high performance intermediaries between the borrower and the lender's recovery department.
                   </p>
@@ -274,9 +274,9 @@ export default function CompareLoanAppsPage() {
             </section>
 
             <section id="comparison-matrix" className="scroll-mt-32 mb-16 overflow-x-auto">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight text-center">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight text-center">
                 The Master Comparison Table: <span className="text-[#1F5EFF]">Apps vs. Services</span>
-              </h2>
+              </h3>
               <div className="min-w-[800px]">
                 <table className="w-full border-collapse bg-white shadow-xl rounded-2xl overflow-hidden border border-[#DEDEDE]">
                   <thead>
@@ -333,15 +333,15 @@ export default function CompareLoanAppsPage() {
             </section>
 
             <section id="core-app-features" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                 Analysis of Core Features: <span className="text-black">What Makes a Debt Relief App Effective?</span>
-              </h2>
+              </h3>
               <div className="prose prose-lg max-w-none text-[var(--color-text-body)]">
                 <p className="mb-6 leading-relaxed">
                   When evaluating a loan settlement app, it is important to look beyond the user interface. The true effectiveness of a platform lies in its backend capabilities and its ability to exert pressure on financial institutions. Here is a detailed breakdown of the critical features that distinguish a premium service from a basic tool.
                 </p>
 
-                <h3 className="text-2xl font-black mt-10 mb-6 text-[#2E2E2E]">1. AI-Powered Negotiation Engines</h3>
+                <h4 className="text-2xl font-black mt-10 mb-6 text-[#2E2E2E]">1. AI-Powered Negotiation Engines</h4>
                 <p className="mb-6 leading-relaxed">
                   Modern platforms utilize machine learning algorithms to analyze historical settlement data. By examining thousands of past cases, the AI can identify patterns in how specific banks like SBI, Axis, or Kotak Mahindra respond to settlement offers. For example, some banks might be more willing to offer deep waivers at the end of a financial quarter (March or September) to clean up their books. Advanced apps predict these 'High Waiver Windows' and advise borrowers to time their offers accordingly.
                 </p>
@@ -349,7 +349,7 @@ export default function CompareLoanAppsPage() {
                   These AI tools also analyze the borrower's spending and income patterns through the Account Aggregator framework. By presenting a mathematically sound hardship case, the app makes it easier for the bank's credit officer to approve a waiver, as the risk of zero recovery is clearly demonstrated.
                 </p>
 
-                <h3 className="text-2xl font-black mt-10 mb-6 text-[#2E2E2E]">2. Harassment Shield and Communication Redirection</h3>
+                <h4 className="text-2xl font-black mt-10 mb-6 text-[#2E2E2E]">2. Harassment Shield and Communication Redirection</h4>
                 <p className="mb-6 leading-relaxed">
                   One of the most psychologically draining aspects of debt default is the constant barrage of calls from recovery agents. Premium apps like **AMA Connect** provide a feature where all creditor communication is redirected to their professional team. This is not just a 'call blocker' feature; it is a formal legal redirect. By informing the bank that the matter is under professional resolution, the platform mandates that agents follow the RBI Fair Practice Code, significantly reducing or even halting unannounced visits or late night calls.
                 </p>
@@ -357,12 +357,12 @@ export default function CompareLoanAppsPage() {
                   The redirection also includes the management of digital communication such as WhatsApp and emails. By centralizing all correspondence, the app creates a verifiable audit trail that can be used as evidence in case of any regulatory violations by the recovery agents.
                 </p>
 
-                <h3 className="text-2xl font-black mt-10 mb-6 text-[#2E2E2E]">3. Credit Score Rebuilding Roadmap</h3>
+                <h4 className="text-2xl font-black mt-10 mb-6 text-[#2E2E2E]">3. Credit Score Rebuilding Roadmap</h4>
                 <p className="mb-6 leading-relaxed">
                   While every settlement negatively impacts your CIBIL score in the short term, a high quality app doesn't leave you stranded after the deal is done. They provide long term credit monitoring and personalized advice on how to rebuild your score. This might include recommending secured credit cards (Credit Card against Fixed Deposit) or small, manageable gold loans. The goal is to help you move from a 'Settled' status back into the 'Good Credit' category within 24 to 36 months.
                 </p>
 
-                <h3 className="text-2xl font-black mt-10 mb-6 text-[#2E2E2E]">4. Livelihood and Budgeting Tools</h3>
+                <h4 className="text-2xl font-black mt-10 mb-6 text-[#2E2E2E]">4. Livelihood and Budgeting Tools</h4>
                 <p className="mb-6 leading-relaxed">
                   Some apps integrate with your bank accounts to analyze your spending habits. They help you identify 'leakages' where small, unnecessary expenses can be redirected toward your settlement savings. By helping you earn and save more, the app ensures that the settlement is sustainable and that you do not fall into another debt trap immediately after clearing the previous one.
                 </p>
@@ -370,15 +370,15 @@ export default function CompareLoanAppsPage() {
             </section>
 
             <section id="tech-vs-legal" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                 Tech-First vs. Legal-First: <span className="text-[#1F5EFF]">Which Model Suits You?</span>
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 The choice between a tech first and a legal first model often depends on the current stage of your debt delinquency. If you are just starting to miss payments, a tech platform might be sufficient. However, if legal action is imminent, the legal model is essential.
               </p>
               <div className="grid md:grid-cols-2 gap-10 my-12">
                 <div className="bg-gray-50 p-8 rounded-2xl border border-[#DEDEDE]">
-                  <h3 className="text-xl font-bold mb-4 text-[#2E2E2E] underline">The Tech-First Paradigm</h3>
+                  <h4 className="text-xl font-bold mb-4 text-[#2E2E2E] underline">The Tech-First Paradigm</h4>
                   <p className="text-sm leading-6 mb-6">
                     Tech-first platforms like **FREED** are built for efficiency and scale. They are ideal for individuals with multiple small unsecured loans or credit card dues who want a systematic, automated way to save and settle.
                   </p>
@@ -391,7 +391,7 @@ export default function CompareLoanAppsPage() {
                 </div>
 
                 <div className="bg-blue-50 p-8 rounded-2xl border border-blue-100">
-                  <h4 className="text-xl font-bold mb-4 text-[#2E2E2E] italic underline">The Legal-First Paradigm</h4>
+                  <h5 className="text-xl font-bold mb-4 text-[#2E2E2E] italic underline">The Legal-First Paradigm</h5>
                   <p className="text-sm leading-6 mb-6">
                     Legal-first platforms like **AMA Legal Solutions** prioritize consumer defense. They are essential for borrowers facing aggressive litigation, SARFAESI notices, or harassment from recovery agents.
                   </p>
@@ -409,15 +409,15 @@ export default function CompareLoanAppsPage() {
             </section>
 
             <section id="instant-loan-analysis" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                 Settling Instant Loan Apps: <span className="text-black">KreditBee, MoneyView, and Others</span>
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 Instant loan apps operate differently from traditional banks. They rely on high volume lending and automated recovery systems. Settling with these entities requires a specialized strategy that accounts for their digital agility.
               </p>
               <div className="bg-white p-8 border border-[#DEDEDE] rounded-2xl shadow-sm mb-10 overflow-hidden relative">
                 <div className="absolute top-0 right-0 w-32 h-32 bg-gray-50 rounded-bl-full -mr-16 -mt-16 z-0"></div>
-                <h3 className="text-xl font-bold mb-6 relative z-10 italic">Common Instant Loan Apps in India</h3>
+                <h4 className="text-xl font-bold mb-6 relative z-10 italic">Common Instant Loan Apps in India</h4>
                 <div className="grid grid-cols-2 md:grid-cols-4 gap-6 relative z-10">
                   <div className="p-4 bg-gray-50 rounded-xl text-center font-black text-xs uppercase tracking-widest border-b-2 border-[#1F5EFF]/30">KreditBee</div>
                   <div className="p-4 bg-gray-50 rounded-xl text-center font-black text-xs uppercase tracking-widest border-b-2 border-[#1F5EFF]/30">MoneyView</div>
@@ -443,30 +443,30 @@ export default function CompareLoanAppsPage() {
             </section>
 
             <section id="processing-mechanics" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                 Deep-Dive: <span className="text-[#1F5EFF]">How Fintech Apps Process Your Settlement Request</span>
-              </h2>
+              </h3>
               <div className="prose prose-lg max-w-none text-[var(--color-text-body)]">
                 <p className="mb-6 leading-relaxed">
                   Understanding what happens behind the screen of a debt relief app is essential for building trust in the process. When you click 'Initiate Settlement,' a series of high stakes backend operations are triggered.
                 </p>
 
-                <h3 className="text-2xl font-black mt-10 mb-6 text-[#2E2E2E]">The Forensic Portfolio Audit</h3>
+                <h4 className="text-2xl font-black mt-10 mb-6 text-[#2E2E2E]">The Forensic Portfolio Audit</h4>
                 <p className="mb-6 leading-relaxed">
                   The first step is for the platform to analyze your debt. Using the **Account Aggregator** framework (an RBI backed data sharing system), the app pulls your bank statements and loan records. It looks for 'Over-leveraging Indicators' and identifies any unfair charges or penal interests that violate current regulations. This audit forms the basis of the 'Hardship Profile' that will be used during negotiation.
                 </p>
 
-                <h3 className="text-2xl font-black mt-10 mb-6 text-[#2E2E2E]">Establishing the 'Settlement Corridor'</h3>
+                <h4 className="text-2xl font-black mt-10 mb-6 text-[#2E2E2E]">Establishing the 'Settlement Corridor'</h4>
                 <p className="mb-6 leading-relaxed">
                   Every lender has an internal 'corridor'—the range within which they are authorized to settle a loan. For instance, a private bank might be authorized to settle a three-year-old defaulted credit card for 30 percent of the outstanding amount, whereas a newer NBFC might not go below 60 percent. The app's database calculates these corridors in real-time based on the most recent secondary market data and successful settlements.
                 </p>
 
-                <h3 className="text-2xl font-black mt-10 mb-6 text-[#2E2E2E]">The Multi-Creditor Negotiation Cycle</h3>
+                <h4 className="text-2xl font-black mt-10 mb-6 text-[#2E2E2E]">The Multi-Creditor Negotiation Cycle</h4>
                 <p className="mb-6 leading-relaxed">
                   Most borrowers have multiple debts. The app prioritizes these based on interest rates and the aggressiveness of the lender. A platform like **CredSettle** or **SettleLoans** will often bundle multiple settlement requests from different users to gain leverage. When a negotiator contacts a bank with 50 settlement proposals at once, the bank is much more likely to offer a bulk waiver.
                 </p>
 
-                <h3 className="text-2xl font-black mt-10 mb-6 text-[#2E2E2E]">Generating the 'No Dues Certificate' (NDC)</h3>
+                <h4 className="text-2xl font-black mt-10 mb-6 text-[#2E2E2E]">Generating the 'No Dues Certificate' (NDC)</h4>
                 <p className="mb-6 leading-relaxed">
                   The most critical step is the final documentation. A digital resolution platform ensures that the settlement letter is legitimate and that the final **No Dues Certificate (NDC)** is generated by the bank's core banking system. They also ensure the status is updated correctly in the CIBIL / Experian records as 'Settled.'
                 </p>
@@ -477,12 +477,12 @@ export default function CompareLoanAppsPage() {
             </section>
 
             <section id="pros-cons" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight text-center">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight text-center">
                 Pros and Cons: <span className="text-black">Digital vs. Traditional Settlement</span>
-              </h2>
+              </h3>
               <div className="grid md:grid-cols-2 gap-10 my-12">
                 <div className="bg-emerald-50 p-8 rounded-2xl border border-emerald-100">
-                  <h3 className="text-xl font-bold mb-4 text-emerald-900 leading-tight italic underline">Advantages of App-Based Settlement</h3>
+                  <h4 className="text-xl font-bold mb-4 text-emerald-900 leading-tight italic underline">Advantages of App-Based Settlement</h4>
                   <ul className="text-sm space-y-4 text-emerald-900/80 font-medium list-none">
                     <li className="flex items-start gap-3 underline italic"><span className="flex-shrink-0 w-5 h-5 bg-emerald-200 rounded-full flex items-center justify-center text-emerald-700 text-xs font-black">✓</span> Data-driven negotiation leading to deeper waivers.</li>
                     <li className="flex items-start gap-3 italic"><span className="flex-shrink-0 w-5 h-5 bg-emerald-200 rounded-full flex items-center justify-center text-emerald-700 text-xs font-black">✓</span> Centralized dashboard to track multiple settlements.</li>
@@ -492,7 +492,7 @@ export default function CompareLoanAppsPage() {
                   </ul>
                 </div>
                 <div className="bg-red-50 p-8 rounded-2xl border border-red-100">
-                  <h4 className="text-xl font-bold mb-4 text-red-900 leading-tight italic underline">Cons and Considerations</h4>
+                  <h5 className="text-xl font-bold mb-4 text-red-900 leading-tight italic underline">Cons and Considerations</h5>
                   <ul className="text-sm space-y-4 text-red-900/80 font-medium list-none">
                     <li className="flex items-start gap-3 italic"><span className="flex-shrink-0 w-5 h-5 bg-red-200 rounded-full flex items-center justify-center text-red-700 text-xs font-black">✕</span> Settlement always impacts your credit score.</li>
                     <li className="flex items-start gap-3 font-black"><span className="flex-shrink-0 w-5 h-5 bg-red-200 rounded-full flex items-center justify-center text-red-700 text-xs font-black">✕</span> Platform fees add to your overall cost.</li>
@@ -505,9 +505,9 @@ export default function CompareLoanAppsPage() {
             </section>
 
             <section id="rbi-compliance" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                 The RBI 2025 Framework: <span className="text-[#1F5EFF]">Ensuring Regulatory Compliance</span>
-              </h2>
+              </h3>
               <div className="prose prose-lg max-w-none text-[var(--color-text-body)]">
                 <p className="mb-6 leading-relaxed">
                   The importance of choosing an RBI compliant app cannot be overstated. Under the new Digital Lending Directions, the regulator has placed strict mandates on how apps must operate. A compliant platform like **AMA Connect** ensures that all your data is stored within servers located in India, that no unauthorized individuals have access to your private information, and that the settlement process adheres to the Banking Ombudsman's guidelines.
@@ -517,7 +517,7 @@ export default function CompareLoanAppsPage() {
                 </p>
                 <div className="p-8 bg-[#2E2E2E] text-white rounded-2xl my-10 relative overflow-hidden">
                   <div className="absolute top-0 left-0 w-full h-1 bg-gradient-to-r from-blue-500 to-green-500"></div>
-                  <h3 className="text-xl font-bold mb-6 underline italic tracking-widest">RBI Compliance Checklist for Borrowers</h3>
+                  <h4 className="text-xl font-bold mb-6 underline italic tracking-widest">RBI Compliance Checklist for Borrowers</h4>
                   <ul className="space-y-4 text-sm opacity-90 font-black list-none italic">
                     <li className="flex gap-4"><span className="text-blue-400 font-black">Rule 1:</span> Does the app clearly list the NBFCs and Banks they are partnered with?</li>
                     <li className="flex gap-4"><span className="text-blue-400 font-black underline">Rule 2:</span> Is there a clear Key Fact Statement (KFS) for any resolution fees or restructured loans?</li>
@@ -530,9 +530,9 @@ export default function CompareLoanAppsPage() {
             </section>
 
             <section id="choosing-right-app" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                 How to Choose Your App: <span className="text-black">The Practical Path Forward</span>
-              </h2>
+              </h3>
               <div className="prose prose-lg max-w-none text-[var(--color-text-body)]">
                 <p className="mb-6 leading-relaxed font-normal">
                   Selecting the right platform is the single most important decision on your journey to financial freedom. We recommend a systematic approach based on the type and severity of your debt. If you are facing harassment, prioritize legal apps. If you are looking for long term savings, structured programs are better.
@@ -546,7 +546,7 @@ export default function CompareLoanAppsPage() {
               </div>
             </section>
             <section id="success-stories" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 text-center">Real Stories of Freedom</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 text-center">Real Stories of Freedom</h3>
               <div className="grid md:grid-cols-2 gap-6 not-prose">
                 {[
                   {
@@ -584,7 +584,7 @@ export default function CompareLoanAppsPage() {
                         {review.name.charAt(0)}
                       </div>
                       <div>
-                        <h3 className="font-bold text-[#2E2E2E]">{review.name}</h3>
+                        <h4 className="font-bold text-[#2E2E2E]">{review.name}</h4>
                         <p className="text-xs text-gray-400">{review.loc}</p>
                       </div>
                       <div className="ml-auto text-yellow-400 text-sm">★★★★★</div>
@@ -599,7 +599,7 @@ export default function CompareLoanAppsPage() {
             </section>
 
             <section id="faqs" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 text-center underline italic">Frequently Asked Questions</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 text-center underline italic">Frequently Asked Questions</h3>
               <div className="space-y-4 not-prose">
                 {[
                   { q: "Can I settle my loan through a mobile app in India?", a: "Yes, several fintech platforms now facilitate loan settlement through their apps. They act as intermediaries between you and the bank, handling the negotiation process and documentation." },

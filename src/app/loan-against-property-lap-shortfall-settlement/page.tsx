@@ -530,7 +530,7 @@ export default function LoanAgainstPropertyShortfallSettlementPage() {
 
             {/* Section 2: Secured Mortgage to Unsecured Residual Claim */}
             <section id="statutory-conversion-unsecured-debt" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">2. Statutory Conversion</h2>
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">2. Statutory Conversion</h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 To defend against a shortfall demand, you must understand how the debt changes under Indian law. Under the Transfer of Property Act, 1882, a mortgage ties debt to specific property. When the bank sells the asset under SARFAESI and issues a Sale Certificate under Rule 9(6), the buyer gets full ownership.
               </p>
@@ -544,7 +544,7 @@ export default function LoanAgainstPropertyShortfallSettlementPage() {
 
             {/* Section 3: Law of Limitation: 3-Year DRT Deadline */}
             <section id="law-of-limitation-3-year-window" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">3. The Law of Limitation</h2>
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">3. The Law of Limitation</h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 The <strong>Limitation Act, 1963</strong> is your strongest defense against an auction shortfall claim. Banks often wait years before taking legal action. But Indian law gives lenders a strict time limit to recover shortfall balances.
               </p>
@@ -580,7 +580,7 @@ export default function LoanAgainstPropertyShortfallSettlementPage() {
 
             {/* Section 4: Rigged Distress Auctions & SARFAESI Flaws */}
             <section id="rigged-auctions-undervaluation-defenses" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">4. Rigged Distress Auctions, Rule 8(6)</h2>
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">4. Rigged Distress Auctions, Rule 8(6)</h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Shortfalls usually happen because lenders fail to run fair, open auctions. Under the SARFAESI Act, banks must protect the borrower&apos;s asset value. In <em>Mathew Varghese v. M. Amritha Kumar (2014)</em> and <em>J. Rajiv Subramaniyan v. Pandiyas (2014)</em>, the Supreme Court ruled that banks cannot sell mortgaged assets below market value.
               </p>
@@ -592,7 +592,7 @@ export default function LoanAgainstPropertyShortfallSettlementPage() {
                 <div className="p-4 rounded-xl border border-slate-200 bg-slate-50 flex gap-3">
                   <div className="w-8 h-8 rounded-full bg-blue-100 text-[#1F5EFF] flex items-center justify-center font-bold text-sm flex-shrink-0">1</div>
                   <div className="space-y-1 text-xs sm:text-sm">
-                    <h3 className="font-bold text-slate-900">Breach of Mandatory 30-Day Individual Sale Notice (Rule 8(6))</h3>
+                    <h4 className="font-bold text-slate-900">Breach of Mandatory 30-Day Individual Sale Notice (Rule 8(6))</h4>
                     <p className="text-slate-600 leading-relaxed">
                       The bank must give you 30 days of individual notice before advertising the sale. The Supreme Court ruled that skipping this 30-day window makes the entire auction invalid.
                     </p>
@@ -601,7 +601,7 @@ export default function LoanAgainstPropertyShortfallSettlementPage() {
                 <div className="p-4 rounded-xl border border-slate-200 bg-slate-50 flex gap-3">
                   <div className="w-8 h-8 rounded-full bg-blue-100 text-[#1F5EFF] flex items-center justify-center font-bold text-sm flex-shrink-0">2</div>
                   <div className="space-y-1 text-xs sm:text-sm">
-                    <h4 className="font-bold text-slate-900">Arbitrary Reserve Price Fixing &amp; Lack of IBBI Valuer Assessment</h4>
+                    <h5 className="font-bold text-slate-900">Arbitrary Reserve Price Fixing &amp; Lack of IBBI Valuer Assessment</h5>
                     <p className="text-slate-600 leading-relaxed">
                       Under Rule 8(5), banks must get a valuation from an approved IBBI valuer before fixing reserve prices. Lenders often rely on low estimates that undervalue properties.
                     </p>
@@ -610,7 +610,7 @@ export default function LoanAgainstPropertyShortfallSettlementPage() {
                 <div className="p-4 rounded-xl border border-slate-200 bg-slate-50 flex gap-3">
                   <div className="w-8 h-8 rounded-full bg-blue-100 text-[#1F5EFF] flex items-center justify-center font-bold text-sm flex-shrink-0">3</div>
                   <div className="space-y-1 text-xs sm:text-sm">
-                    <h4 className="font-bold text-slate-900">Defective Auction Publication in Obscure Newspapers (Rule 9(1))</h4>
+                    <h5 className="font-bold text-slate-900">Defective Auction Publication in Obscure Newspapers (Rule 9(1))</h5>
                     <p className="text-slate-600 leading-relaxed">
                       The law requires auction ads in two major local newspapers. Banks sometimes pick obscure papers. This prevents genuine buyers from bidding.
                     </p>
@@ -625,7 +625,7 @@ export default function LoanAgainstPropertyShortfallSettlementPage() {
 
             {/* Section 5: Step-by-Step LAP Shortfall Resolution Roadmap (Infographic Banner) */}
             <section id="lap-shortfall-resolution-roadmap" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">5. LAP Post-Auction Shortfall Settlement Process</h2>
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">5. LAP Post-Auction Shortfall Settlement Process</h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 This roadmap shows the step-by-step path from auction shortfall to a full ₹0 settlement:
               </p>
@@ -648,7 +648,7 @@ export default function LoanAgainstPropertyShortfallSettlementPage() {
 
             {/* Section 6: Bank NPA Accounting, Loss Asset Provisioning & NPV Settlement Formula */}
             <section id="npa-accounting-npv-recovery-formula" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">6. Bank NPA Accounting, Loss Asset Provisioning</h2>
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">6. Bank NPA Accounting, Loss Asset Provisioning</h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Banks agree to settle LAP shortfalls because of RBI rules under the <em>IRACP Norms</em>.
               </p>
@@ -679,7 +679,7 @@ export default function LoanAgainstPropertyShortfallSettlementPage() {
 
             {/* Section 7: Strategic Legal Defenses for ₹0 Settlement */}
             <section id="strategic-legal-defenses-zero-settlement" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">7. Strategic Legal Defenses</h2>
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">7. Strategic Legal Defenses</h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 If you receive a shortfall legal notice, you have strong legal remedies. Experienced banking advocates use these defenses to secure <strong>₹0 full compromise settlements</strong>:
               </p>
@@ -729,16 +729,16 @@ export default function LoanAgainstPropertyShortfallSettlementPage() {
 
             {/* Section 8: Sanction Letter Forensics, NDC & CIBIL */}
             <section id="sanction-letter-forensics-ndc-cibil" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">8. LAP Shortfall Sanction Letter Forensics &amp; NDC</h2>
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">8. LAP Shortfall Sanction Letter Forensics &amp; NDC</h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Always get a formal <strong>One-Time Settlement (OTS) Sanction Letter</strong> on bank letterhead before paying any funds.
               </p>
 
               <div className="p-5 rounded-2xl border border-blue-200 bg-blue-50/70 space-y-3 my-4">
-                <h3 className="font-bold text-blue-950 text-sm flex items-center gap-2">
+                <h4 className="font-bold text-blue-950 text-sm flex items-center gap-2">
                   <FileCheck className="w-4 h-4 text-[#1F5EFF]" />
                   <span>Mandatory Clauses in a LAP Shortfall Settlement Sanction Letter</span>
-                </h3>
+                </h4>
                 <ul className="space-y-2 text-xs sm:text-sm text-blue-900">
                   <li className="flex items-start gap-2">
                     <Check className="w-4 h-4 text-emerald-600 flex-shrink-0 mt-0.5" />
@@ -769,7 +769,7 @@ export default function LoanAgainstPropertyShortfallSettlementPage() {
 
             {/* Section 9: LAP Default Resolution Matrix */}
             <section id="lap-shortfall-comparative-matrix" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">9. LAP Default Resolution Matrix</h2>
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">9. LAP Default Resolution Matrix</h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Evaluating the strategic trade-offs across different resolution pathways highlights the profound advantage of advocate-led compromise talks:
               </p>
@@ -822,7 +822,7 @@ export default function LoanAgainstPropertyShortfallSettlementPage() {
             {/* Section 10: SettleLoans Legal Defense Advisory + CompanySection */}
             <section id="company-resolution-section" className="space-y-6">
               <div className="border-t border-slate-200 pt-8 space-y-4">
-                <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">10. SettleLoans LAP Shortfall Legal Defense</h2>
+                <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">10. SettleLoans LAP Shortfall Legal Defense</h3>
                 <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                   Resolving post-auction shortfall demands requires expert knowledge of the SARFAESI Act, the RDBFI Act. And the Limitation Act, 1963. SettleLoans provides complete defense across India. We audit auction records, challenge flaws in the DRT, stop recovery calls. And negotiate ₹0 or low shortfall settlements with official No Dues Certificates.
                 </p>
@@ -836,7 +836,7 @@ export default function LoanAgainstPropertyShortfallSettlementPage() {
             <section id="faqs" className="space-y-4 border-t border-slate-200 pt-8">
               <div className="flex items-center gap-2 mb-2">
                 <HelpCircle className="w-5 h-5 text-[#1F5EFF]" />
-                <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">11. FAQs: Loan Against Property (LAP) Shortfall Settlement</h2>
+                <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">11. FAQs: Loan Against Property (LAP) Shortfall Settlement</h3>
               </div>
               <p className="text-xs sm:text-sm text-slate-600 mb-6">
                 Clear, legally verified answers to critical questions regarding SARFAESI property auctions, post-mortgage unsecured debt conversion, DRT limitation periods. And residual shortfall debt settlement in India.
@@ -866,9 +866,9 @@ export default function LoanAgainstPropertyShortfallSettlementPage() {
 
             {/* 5 Official Regulatory Links */}
             <section className="border-t border-slate-200 pt-8 mb-4">
-              <h3 className="text-xs sm:text-sm font-bold text-slate-900 mb-3 uppercase tracking-wider">
+              <h4 className="text-xs sm:text-sm font-bold text-slate-900 mb-3 uppercase tracking-wider">
                 Official Statutory &amp; Regulatory References
-              </h3>
+              </h4>
               <div className="grid grid-cols-1 sm:grid-cols-2 gap-2.5 text-xs">
                 <a
                   href="https://drt.gov.in"
@@ -920,9 +920,9 @@ export default function LoanAgainstPropertyShortfallSettlementPage() {
 
             {/* 10 Related Guide Badges */}
             <section className="border-t border-slate-200 pt-8 mb-8">
-              <h3 className="text-xs sm:text-sm font-bold text-slate-900 mb-4 uppercase tracking-wider">
+              <h4 className="text-xs sm:text-sm font-bold text-slate-900 mb-4 uppercase tracking-wider">
                 Related Legal Defense &amp; Loan Resolution Guides
-              </h3>
+              </h4>
               <div className="flex flex-wrap gap-2">
                 <Link
                   href="/auction-notice-challenge"

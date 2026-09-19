@@ -285,28 +285,28 @@ export default function PenaltyWaiverPage() {
 
             {/* 4-Grid Info Boxes */}
             <section id="valid-reasons" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 When Will a Bank Actually Waive Your Fees?
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 Banks won't waive penalties just because you asked. Your application to waive bounce charges must clearly state a genuine reason. Here are the most universally accepted reasons for granting a waiver:
               </p>
 
               <div className="grid md:grid-cols-2 gap-6 my-8">
                 <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
-                  <h3 className="font-black text-[#1F5EFF] text-lg mb-3">Medical Emergencies</h3>
+                  <h4 className="font-black text-[#1F5EFF] text-lg mb-3">Medical Emergencies</h4>
                   <p className="text-gray-700">Unexpected hospitalization or severe illness that drained your immediate liquid funds. Attaching a hospital bill significantly increases approval chances.</p>
                 </div>
                 <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
-                  <h3 className="font-black text-[#1F5EFF] text-lg mb-3">Sudden Job Loss</h3>
+                  <h4 className="font-black text-[#1F5EFF] text-lg mb-3">Sudden Job Loss</h4>
                   <p className="text-gray-700">If you were recently laid off or your salary was severely delayed. Be prepared to show a termination letter or bank statement showing lack of salary credit.</p>
                 </div>
                 <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
-                  <h3 className="font-black text-[#1F5EFF] text-lg mb-3">Technical Bank Glitch</h3>
+                  <h4 className="font-black text-[#1F5EFF] text-lg mb-3">Technical Bank Glitch</h4>
                   <p className="text-gray-700">Sometimes the mandate fails due to the bank's own server issues, even though you had sufficient funds. This is guaranteed to get reversed.</p>
                 </div>
                 <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
-                  <h3 className="font-black text-[#1F5EFF] text-lg mb-3">First-Time Offense</h3>
+                  <h4 className="font-black text-[#1F5EFF] text-lg mb-3">First-Time Offense</h4>
                   <p className="text-gray-700">If you have paid your EMIs flawlessly for years and this is your very first bounce, managers will often waive it as a gesture of goodwill.</p>
                 </div>
               </div>
@@ -314,15 +314,15 @@ export default function PenaltyWaiverPage() {
 
             {/* Numbered Steps */}
             <section id="step-by-step" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 How to Submit Your Loan Penalty Refund Letter
-              </h2>
+              </h3>
               
               <div className="space-y-12">
                 <div className="flex gap-6">
                   <div className="flex-shrink-0 w-12 h-12 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center font-black text-xl shadow-lg">1</div>
                   <div>
-                    <h3 className="text-xl font-bold text-[#2E2E2E] mb-2">Clear the Arrears First (Crucial)</h3>
+                    <h4 className="text-xl font-bold text-[#2E2E2E] mb-2">Clear the Arrears First (Crucial)</h4>
                     <p className="text-lg leading-relaxed text-gray-700">Banks will rarely waive a penalty if your EMI is still pending. Pay the core EMI amount immediately so your account becomes standard again before you ask for a waiver of the extra charges.</p>
                   </div>
                 </div>
@@ -330,7 +330,7 @@ export default function PenaltyWaiverPage() {
                 <div className="flex gap-6">
                   <div className="flex-shrink-0 w-12 h-12 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center font-black text-xl shadow-lg">2</div>
                   <div>
-                    <h3 className="text-xl font-bold text-[#2E2E2E] mb-2">Draft the Application</h3>
+                    <h4 className="text-xl font-bold text-[#2E2E2E] mb-2">Draft the Application</h4>
                     <p className="text-lg leading-relaxed text-gray-700">Use our template below. Keep the tone professional, polite, and firmly state your reason without getting overly emotional. Be concise.</p>
                   </div>
                 </div>
@@ -338,7 +338,7 @@ export default function PenaltyWaiverPage() {
                 <div className="flex gap-6">
                   <div className="flex-shrink-0 w-12 h-12 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center font-black text-xl shadow-lg">3</div>
                   <div>
-                    <h3 className="text-xl font-bold text-[#2E2E2E] mb-2">Attach Supporting Proof</h3>
+                    <h4 className="text-xl font-bold text-[#2E2E2E] mb-2">Attach Supporting Proof</h4>
                     <p className="text-lg leading-relaxed text-gray-700">Your letter to the branch manager for a fee waiver is much stronger with evidence. Attach copies of medical bills, severance letters, or screenshots of bank server errors.</p>
                   </div>
                 </div>
@@ -346,7 +346,7 @@ export default function PenaltyWaiverPage() {
                 <div className="flex gap-6">
                   <div className="flex-shrink-0 w-12 h-12 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center font-black text-xl shadow-lg">4</div>
                   <div>
-                    <h3 className="text-xl font-bold text-[#2E2E2E] mb-2">Submit and Follow Up</h3>
+                    <h4 className="text-xl font-bold text-[#2E2E2E] mb-2">Submit and Follow Up</h4>
                     <p className="text-lg leading-relaxed text-gray-700">While you can email customer support, handing a physical copy to your home branch manager and getting an "Acknowledged" stamp on a duplicate copy is the most effective method.</p>
                   </div>
                 </div>
@@ -355,12 +355,12 @@ export default function PenaltyWaiverPage() {
 
             {/* Blue Important Box & Gray Insight Box (Template) */}
             <section id="letter-format" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 The Proven Penalty Waiver Request Letter Format
-              </h2>
+              </h3>
 
               <div className="bg-blue-50 border-l-8 border-[#1F5EFF] p-8 rounded-r-2xl mb-8">
-                <h3 className="text-xl font-black text-[#1F5EFF] mb-4">Pro-Tip for Maximum Success</h3>
+                <h4 className="text-xl font-black text-[#1F5EFF] mb-4">Pro-Tip for Maximum Success</h4>
                 <p className="text-lg text-blue-900 leading-relaxed mb-4">
                   Always ensure you mention your clean past record. Banks want to retain good customers. By framing this as a rare exception, the manager is much more likely to use their discretionary power to help you out.
                 </p>
@@ -417,9 +417,9 @@ Email ID: [Your Email Address]`}
 
             {/* Review/Success Stories */}
             <section id="success-stories" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 Borrowers Who Successfully Reversed Penalties
-              </h2>
+              </h3>
               
               <div className="grid md:grid-cols-2 gap-6 mt-8">
                 {/* Card 1 */}
@@ -429,7 +429,7 @@ Email ID: [Your Email Address]`}
                       R
                     </div>
                     <div>
-                      <h3 className="font-bold text-gray-900">Rahul Sharma</h3>
+                      <h4 className="font-bold text-gray-900">Rahul Sharma</h4>
                       <div className="flex gap-1 text-yellow-400">
                         <svg className="w-4 h-4 fill-current" viewBox="0 0 20 20"><path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z"/></svg>
                         <svg className="w-4 h-4 fill-current" viewBox="0 0 20 20"><path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z"/></svg>
@@ -453,7 +453,7 @@ Email ID: [Your Email Address]`}
                       P
                     </div>
                     <div>
-                      <h4 className="font-bold text-gray-900">Priya Desai</h4>
+                      <h5 className="font-bold text-gray-900">Priya Desai</h5>
                       <div className="flex gap-1 text-yellow-400">
                         <svg className="w-4 h-4 fill-current" viewBox="0 0 20 20"><path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z"/></svg>
                         <svg className="w-4 h-4 fill-current" viewBox="0 0 20 20"><path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z"/></svg>
@@ -475,7 +475,7 @@ Email ID: [Your Email Address]`}
             {/* Red Warning Box */}
             <section id="crucial-warnings" className="scroll-mt-32 mb-16">
               <div className="bg-red-50 p-6 rounded-xl border border-red-100 mb-8">
-                <h3 className="font-black text-red-700 text-xl mb-4">Important Limitations to Keep in Mind</h3>
+                <h4 className="font-black text-red-700 text-xl mb-4">Important Limitations to Keep in Mind</h4>
                 <p className="text-red-900 leading-relaxed mb-4">
                   While a well-drafted letter works wonders, it is not a magic wand. Please be aware of the following:
                 </p>
@@ -489,9 +489,9 @@ Email ID: [Your Email Address]`}
 
             {/* FAQs */}
             <section id="faqs" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">
                 Frequently Asked Questions
-              </h2>
+              </h3>
               
               <div className="space-y-4">
                 <details name="faq-accordion" className="bg-white border border-[#DEDEDE] rounded-xl p-6 hover:shadow-md group cursor-pointer transition-shadow">
@@ -600,7 +600,7 @@ Email ID: [Your Email Address]`}
             <div className="bg-[#2E2E2E] text-white p-12 rounded-[40px] text-center mt-24 relative overflow-hidden group">
               <div className="absolute inset-0 bg-[#1F5EFF] opacity-0 group-hover:opacity-5 transition-opacity"></div>
               <div className="relative z-10">
-                <h3 className="text-3xl md:text-4xl font-black mb-6">Are Multiple Penalties Piling Up?</h3>
+                <h4 className="text-3xl md:text-4xl font-black mb-6">Are Multiple Penalties Piling Up?</h4>
                 <p className="text-xl text-gray-300 mb-8 max-w-2xl mx-auto">
                   If you're facing ongoing financial hardship and penalties are compounding, a simple waiver letter won't solve the root issue. Let our experts negotiate a permanent settlement or restructuring on your behalf.
                 </p>

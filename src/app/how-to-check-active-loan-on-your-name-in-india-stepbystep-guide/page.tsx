@@ -331,27 +331,27 @@ export default function CheckActiveLoansGuidePage() {
             </section>
 
             <section id="why-check" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
                 Why You Must Check Your Active Loans Regularly
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 Waiting for the bank to tell you that something is wrong with your credit is a strategy destined for failure. Proactive monitoring is the cornerstone of modern personal finance. In India, where credit data is shared across multiple platforms, a single error can trigger a domino effect of negative consequences.
               </p>
               <div className="grid md:grid-cols-2 gap-6 mb-8">
                 <div className="bg-gray-50 p-6 rounded-xl border border-gray-200">
-                  <h3 className="font-bold text-lg mb-3">1. Prevention of Identity Theft</h3>
+                  <h4 className="font-bold text-lg mb-3">1. Prevention of Identity Theft</h4>
                   <p className="text-sm text-gray-600">catching a fraudulent loan within the first 30 days can prevent it from escalating into a default. Once a loan is marked as 'Written Off' or 'Defaulted', removing it from your record becomes significantly more complicated and time consuming.</p>
                 </div>
                 <div className="bg-gray-50 p-6 rounded-xl border border-gray-200">
-                  <h3 className="font-bold text-lg mb-3">2. Accuracy of Reported Data</h3>
+                  <h4 className="font-bold text-lg mb-3">2. Accuracy of Reported Data</h4>
                   <p className="text-sm text-gray-600">Banks frequently have reporting lags. You might have settled a loan six months ago, but the bank staff might have forgotten to update the bureau. By checking regularly, you can push the bank to issue a 'No Objection Certificate' (NOC) and update the records.</p>
                 </div>
                 <div className="bg-gray-50 p-6 rounded-xl border border-gray-200">
-                  <h3 className="font-bold text-lg mb-3">3. Maintaining Loan Eligibility</h3>
+                  <h4 className="font-bold text-lg mb-3">3. Maintaining Loan Eligibility</h4>
                   <p className="text-sm text-gray-600">When you apply for a job in a high level financial role or apply for a visa to certain countries, a clean credit history is often a prerequisite. A silent, unauthorized loan can block these life opportunities without you even knowing why.</p>
                 </div>
                 <div className="bg-gray-50 p-6 rounded-xl border border-gray-200">
-                  <h3 className="font-bold text-lg mb-3">4. Monitoring Debt Exposure</h3>
+                  <h4 className="font-bold text-lg mb-3">4. Monitoring Debt Exposure</h4>
                   <p className="text-sm text-gray-600">Seeing all your liabilities, including credit card limits, helps you understand your Credit Utilization Ratio (CUR). Keeping your CUR below 30% is essential for a high CIBIL score, and you can only do this if you know all your active limits.</p>
                 </div>
               </div>
@@ -361,12 +361,12 @@ export default function CheckActiveLoansGuidePage() {
             </section>
 
             <section id="data-flow" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">How Credit Data Flows in India</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">How Credit Data Flows in India</h3>
               <p className="mb-6 text-lg">
                 To truly understand how to check your loans, you must understand the journey of a single piece of data. When you sign a loan agreement, you are also signing a consent form that allows the bank to share your data with credit bureaus.
               </p>
               <div className="bg-blue-50 p-8 rounded-2xl border border-blue-100 mb-8">
-                <h3 className="text-xl font-black text-[#2E2E2E] mb-6">The Data Cycle:</h3>
+                <h4 className="text-xl font-black text-[#2E2E2E] mb-6">The Data Cycle:</h4>
                 <div className="space-y-6">
                   <div className="flex items-start gap-4">
                     <div className="w-8 h-8 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center font-bold flex-shrink-0">1</div>
@@ -392,16 +392,16 @@ export default function CheckActiveLoansGuidePage() {
             </section>
 
             <section id="bureau-methods" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
                 Method 1: Checking Loans via Credit Bureaus
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 In India, the most traditional and reliable way to check your loans is through the authorized credit bureaus. Each of these bureaus has a slightly different data source and internal scoring algorithm, but they all serve the same purpose: providing a detailed transcript of your financial life.
               </p>
               
               <div className="space-y-8">
                 <div className="bg-white p-8 rounded-2xl border border-[#DEDEDE] shadow-sm">
-                  <h3 className="text-2xl font-bold text-[#1F5EFF] mb-4">TransUnion CIBIL (The Gold Standard)</h3>
+                  <h4 className="text-2xl font-bold text-[#1F5EFF] mb-4">TransUnion CIBIL (The Gold Standard)</h4>
                   <p className="mb-4 text-base leading-relaxed">
                     CIBIL was India's first credit bureau and remains the most influential. Most major public and private sector banks prioritize a CIBIL score over others. To get a free report, go to the official CIBIL website and look for the 'Consumer' section. You will be asked to create an account. Choose the 'Basic' option which is free. 
                   </p>
@@ -411,14 +411,14 @@ export default function CheckActiveLoansGuidePage() {
                 </div>
 
                 <div className="bg-white p-8 rounded-2xl border border-[#DEDEDE] shadow-sm">
-                  <h3 className="text-2xl font-bold text-[#1F5EFF] mb-4">Experian India (Detail Oriented)</h3>
+                  <h4 className="text-2xl font-bold text-[#1F5EFF] mb-4">Experian India (Detail Oriented)</h4>
                   <p className="mb-4 text-base leading-relaxed">
                     Experian is often favored by fintech lenders and foreign banks operating in India. One of the best features of an Experian report is the 'Previous Enquiries' section. Many times, identity thieves will try ten different apps in one night. Experian will show all ten attempts. This allows you to call those ten banks and tell them to cancel any applications in your name before the loan is even disbursed.
                   </p>
                 </div>
 
                 <div className="bg-white p-8 rounded-2xl border border-[#DEDEDE] shadow-sm">
-                  <h3 className="text-2xl font-bold text-[#1F5EFF] mb-4">CRIF High Mark and Equifax</h3>
+                  <h4 className="text-2xl font-bold text-[#1F5EFF] mb-4">CRIF High Mark and Equifax</h4>
                   <p className="mb-4 text-base leading-relaxed">
                     CRIF High Mark has a strong foothold in the microfinance and rural banking sectors. If you have ever taken a loan from a local cooperative bank or a small microfinance institution, CRIF is the most likely place to find it. Equifax, on the other hand, provides a very clean 'Credit Mix' chart, showing you the percentage of secured vs unsecured loans. This balance is critical for long term score growth.
                   </p>
@@ -427,7 +427,7 @@ export default function CheckActiveLoansGuidePage() {
             </section>
 
             <section id="bureau-comparison" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Comparison of the Four Major Bureaus</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Comparison of the Four Major Bureaus</h3>
               <div className="overflow-x-auto">
                 <table className="w-full text-left border-collapse bg-white rounded-xl overflow-hidden border border-gray-200">
                   <thead className="bg-[#2E2E2E] text-white">
@@ -468,14 +468,14 @@ export default function CheckActiveLoansGuidePage() {
             </section>
 
             <section id="ais-portal" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 leading-tight">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 leading-tight">
                 Method 2: Using the Income Tax AIS Portal
-              </h2>
+              </h3>
               <p className="mb-6 text-lg">
                 The Annual Information Statement (AIS) provided by the Income Tax Department is a powerful government tool that many people overlook. It is often more up to date than credit bureau reports because it tracks the actual movement of money into your bank accounts.
               </p>
               <div className="bg-blue-50 p-8 rounded-xl border border-blue-200 mb-8">
-                <h3 className="text-xl font-bold mb-4 text-blue-900">Step by Step Guide to Access AIS:</h3>
+                <h4 className="text-xl font-bold mb-4 text-blue-900">Step by Step Guide to Access AIS:</h4>
                 <ul className="space-y-4 text-blue-800">
                   <li className="flex gap-3">
                     <span className="font-bold">Step 1:</span>
@@ -499,7 +499,7 @@ export default function CheckActiveLoansGuidePage() {
             </section>
 
             <section id="fintech-apps" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Method 3: Fintech Apps for Instant Monitoring</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Method 3: Fintech Apps for Instant Monitoring</h3>
               <p className="mb-6 text-lg">
                 In recent years, several fintech applications have made credit monitoring as easy as checking your WhatsApp. Apps like OneScore, Cred, and BankBazaar fetch your details from bureaus and provide them in an easy to understand format.
               </p>
@@ -508,21 +508,21 @@ export default function CheckActiveLoansGuidePage() {
                   <div className="w-12 h-12 bg-blue-100 rounded-full flex items-center justify-center mx-auto mb-4">
                     <svg className="w-6 h-6 text-blue-600" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M12 18h.01M8 21h8a2 2 0 002-2V5a2 2 0 00-2-2H8a2 2 0 00-2 2v14a2 2 0 002 2z"></path></svg>
                   </div>
-                  <h3 className="font-bold text-[#2E2E2E] mb-2">Real Time Alerts</h3>
+                  <h4 className="font-bold text-[#2E2E2E] mb-2">Real Time Alerts</h4>
                   <p className="text-xs text-gray-500">Get notified the moment a new loan inquiry is made.</p>
                 </div>
                 <div className="bg-white p-5 rounded-xl border border-[#DEDEDE] shadow-sm text-center">
                   <div className="w-12 h-12 bg-green-100 rounded-full flex items-center justify-center mx-auto mb-4">
                     <svg className="w-6 h-6 text-green-600" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M9 12l2 2 4-4m5.618-4.016A11.955 11.955 0 0112 2.944a11.955 11.955 0 01-8.618 3.04A12.02 12.02 0 003 9c0 5.591 3.824 10.29 9 11.622 5.176-1.332 9-6.03 9-11.622 0-1.042-.133-2.052-.382-3.016z"></path></svg>
                   </div>
-                  <h4 className="font-bold text-[#2E2E2E] mb-2">Detailed Analysis</h4>
+                  <h5 className="font-bold text-[#2E2E2E] mb-2">Detailed Analysis</h5>
                   <p className="text-xs text-gray-500">See your credit utilization and age of credit history.</p>
                 </div>
                 <div className="bg-white p-5 rounded-xl border border-[#DEDEDE] shadow-sm text-center">
                   <div className="w-12 h-12 bg-purple-100 rounded-full flex items-center justify-center mx-auto mb-4">
                     <svg className="w-6 h-6 text-purple-600" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M13 7h8m0 0v8m0-8l-8 8-4-4-6 6"></path></svg>
                   </div>
-                  <h4 className="font-bold text-[#2E2E2E] mb-2">Score Improvement</h4>
+                  <h5 className="font-bold text-[#2E2E2E] mb-2">Score Improvement</h5>
                   <p className="text-xs text-gray-500">Personalized tips to increase your credit score over time.</p>
                 </div>
               </div>
@@ -532,12 +532,12 @@ export default function CheckActiveLoansGuidePage() {
             </section>
 
             <section id="fraud-trends" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Digital Lending Trends (2025-2026)</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Digital Lending Trends (2025-2026)</h3>
               <p className="mb-6">
                 The year 2025 saw a massive surge in unauthorized loan activities in India. According to recent whitepapers, total bank fraud losses jumped by 194% in the last fiscal year, reaching over ₹36,000 crore. A significant portion of this is driven by illegal lending apps that use stolen data to create accounts.
               </p>
               <div className="bg-red-50 p-8 rounded-2xl border border-red-100 mb-8">
-                <h3 className="text-xl font-bold text-red-800 mb-4">Key Statistics to Remember:</h3>
+                <h4 className="text-xl font-bold text-red-800 mb-4">Key Statistics to Remember:</h4>
                 <ul className="space-y-3 text-red-900">
                   <li>• Over 1.45 lakh cases of cyber financial fraud were reported to the RBI in FY 2024-25.</li>
                   <li>• Total losses across all cybercrime categories in early 2025 exceeded ₹22,000 crore.</li>
@@ -551,31 +551,31 @@ export default function CheckActiveLoansGuidePage() {
             </section>
 
             <section id="identity-theft" className="scroll-mt-32 mb-12">
-               <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Detecting Identity Theft Early</h2>
+               <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Detecting Identity Theft Early</h3>
                <p className="mb-6 text-lg">
                  Identity theft in the financial world is often quiet. You might not realize your data has been stolen until the collection calls start or you see a sudden drop in your credit score. Here is how you can detect it before it is too late.
                </p>
                <div className="bg-white p-8 rounded-2xl border border-gray-200 shadow-sm mb-8">
-                 <h3 className="text-xl font-black mb-4 uppercase text-[#747474] tracking-widest">The Red Flags List</h3>
+                 <h4 className="text-xl font-black mb-4 uppercase text-[#747474] tracking-widest">The Red Flags List</h4>
                  <ul className="space-y-6">
                    <li className="flex gap-4">
                      <span className="w-6 h-6 bg-red-100 text-red-600 rounded-full flex items-center justify-center flex-shrink-0 font-bold">!</span>
                      <div>
-                       <h4 className="font-bold">Unknown Enquiries</h4>
+                       <h5 className="font-bold">Unknown Enquiries</h5>
                        <p className="text-sm text-gray-500">Seeing inquiries from banks or NBFCs you have never spoken to. Each inquiry represents someone trying to get a loan in your name.</p>
                      </div>
                    </li>
                    <li className="flex gap-4">
                      <span className="w-6 h-6 bg-red-100 text-red-600 rounded-full flex items-center justify-center flex-shrink-0 font-bold">!</span>
                      <div>
-                       <h4 className="font-bold">Incorrect Mobile Number</h4>
+                       <h5 className="font-bold">Incorrect Mobile Number</h5>
                        <p className="text-sm text-gray-500">Finding a loan account where the linked mobile number or email address is not yours. This is a clear attempt by fraudsters to reroute OTPs.</p>
                      </div>
                    </li>
                    <li className="flex gap-4">
                      <span className="w-6 h-6 bg-red-100 text-red-600 rounded-full flex items-center justify-center flex-shrink-0 font-bold">!</span>
                      <div>
-                       <h4 className="font-bold">Small Ticket Personal Loans</h4>
+                       <h5 className="font-bold">Small Ticket Personal Loans</h5>
                        <p className="text-sm text-gray-600">Many fake loans are for small amounts like ₹2,000 to ₹10,000. Fraudsters take thousands of such loans across multiple identities.</p>
                      </div>
                    </li>
@@ -584,20 +584,20 @@ export default function CheckActiveLoansGuidePage() {
             </section>
 
             <section id="msme-loans" className="scroll-mt-32 mb-12">
-               <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 uppercase text-center border-y border-gray-100 py-6">Specialized Tracking for MSME & Business Loans</h2>
+               <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 uppercase text-center border-y border-gray-100 py-6">Specialized Tracking for MSME & Business Loans</h3>
                <p className="mb-6 text-lg">
                  Many small business owners in India struggle with a unique problem: mixed reporting. Sometimes their professional business loans show up on their personal CIBIL report because they stood as a personal guarantor.
                </p>
                <div className="bg-white p-8 rounded-2xl border border-gray-200 mb-8">
-                 <h3 className="text-xl font-bold mb-4">The Commercial Credit Report</h3>
+                 <h4 className="text-xl font-bold mb-4">The Commercial Credit Report</h4>
                  <p className="text-sm text-gray-600 mb-6">If you own a registered company (Proprietorship, Partnership, or Pvt Ltd), you must check your 'Commercial Credit Report' alongside your personal one. Lenders like SIDBI and various PSU banks report primarily to commercial databases.</p>
                  <div className="grid md:grid-cols-2 gap-4">
                    <div className="p-4 bg-gray-50 rounded-lg">
-                     <h4 className="font-bold text-xs uppercase text-[#1F5EFF] mb-2 tracking-widest">Personal Credit</h4>
+                     <h5 className="font-bold text-xs uppercase text-[#1F5EFF] mb-2 tracking-widest">Personal Credit</h5>
                      <p className="text-xs text-gray-500">Linked to your PAN. Covers housing loans, credit cards, and personal loans.</p>
                    </div>
                    <div className="p-4 bg-gray-50 rounded-lg">
-                     <h4 className="font-bold text-xs uppercase text-[#1F5EFF] mb-2 tracking-widest">Commercial Credit</h4>
+                     <h5 className="font-bold text-xs uppercase text-[#1F5EFF] mb-2 tracking-widest">Commercial Credit</h5>
                      <p className="text-xs text-gray-500">Linked to your Company PAN or GSTIN. Covers working capital, term loans, and LCs.</p>
                    </div>
                  </div>
@@ -606,36 +606,36 @@ export default function CheckActiveLoansGuidePage() {
             </section>
 
             <section id="dispute-process" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">How to Dispute an Unauthorized Loan</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">How to Dispute an Unauthorized Loan</h3>
               <p className="mb-6 text-lg">
                 Finding a fake loan is a shock, but your prompt action is what dictates the outcome. The dispute process is a coordinated effort between you, the lender, and the credit bureau. Do not expect one to talk to the other automatically; you must be the bridge that connects the entire process.
               </p>
               <div className="space-y-6 mb-8">
                 <div className="bg-white p-8 rounded-2xl border border-[#DEDEDE] shadow-sm relative overflow-hidden">
                   <div className="absolute top-0 left-0 w-2 h-full bg-[#1F5EFF]"></div>
-                  <h3 className="font-bold text-xl mb-3">Phase 1: Direct Denial with Lender</h3>
+                  <h4 className="font-bold text-xl mb-3">Phase 1: Direct Denial with Lender</h4>
                   <p className="text-sm leading-relaxed mb-4">Lenders are the source of the error. Find the bank or NBFC name. Look for their 'Grievance Redressal Officer' on their official website. Send a formal email. Clearly state that you have never applied for this loan and you believe your identity is being misused. Demand that they reverse the entry and notify the bureaus immediately. Wait for their 'Acknowledgment Number'.</p>
                 </div>
                 <div className="bg-white p-8 rounded-2xl border border-[#DEDEDE] shadow-sm relative overflow-hidden">
                   <div className="absolute top-0 left-0 w-2 h-full bg-green-500"></div>
-                  <h4 className="font-bold text-xl mb-3">Phase 2: The Bureau Dispute</h4>
+                  <h5 className="font-bold text-xl mb-3">Phase 2: The Bureau Dispute</h5>
                   <p className="text-sm leading-relaxed mb-4">Go to the CIBIL or Experian website. Use your report Control Number to log a dispute. Select the 'Account Dispute' option. The bureau will then send an electronic request to the bank. The bank is legally obligated to reply within 15 days. If the bank confirms it is an error, the bureau will update your report within 48 hours of receiving the confirmation.</p>
                 </div>
                 <div className="bg-white p-8 rounded-2xl border border-[#DEDEDE] shadow-sm relative overflow-hidden">
                   <div className="absolute top-0 left-0 w-2 h-full bg-red-500"></div>
-                  <h4 className="font-bold text-xl mb-3">Phase 3: The Cyber Complaint</h4>
+                  <h5 className="font-bold text-xl mb-3">Phase 3: The Cyber Complaint</h5>
                   <p className="text-sm leading-relaxed mb-4">In cases of clear identity theft, a bank might sometimes claim that 'KYC was provided' and refuse to remove the loan. This is when you need a stronger legal hand. File a complaint at cybercrime.gov.in. This complaint becomes a legal document that bureaus and even the RBI will respect as proof that you are a victim of crime, not a defaulter.</p>
                 </div>
               </div>
             </section>
 
             <section id="psychological-impact" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">The Emotional Toll of Financial Fraud</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">The Emotional Toll of Financial Fraud</h3>
               <p className="mb-6 text-lg">
                 Financial fraud is not just a loss of money; it is a violation of trust and privacy. We have seen people lose sleep, experience chronic anxiety, and even withdraw from social life because of the shame associated with being called a 'defaulter' by bank recovery agents, even when it wasn't their fault.
               </p>
               <div className="bg-teal-50 p-8 rounded-2xl border border-teal-100 mb-8">
-                <h3 className="text-xl font-bold text-teal-800 mb-4">Your Health is Priority Number One</h3>
+                <h4 className="text-xl font-bold text-teal-800 mb-4">Your Health is Priority Number One</h4>
                 <p className="text-sm text-teal-900 leading-relaxed mb-6">
                   If you are being harassed by recovery agents for a loan you never took, do not let their words get to you. They are trained to use pressure as a tool. Remember, the law is on your side. If you feel overwhelmed, talk to a mental health professional or join a support group of victims of financial fraud. You are not defined by a clerical error or a criminal act committed against you.
                 </p>
@@ -648,12 +648,12 @@ export default function CheckActiveLoansGuidePage() {
             </div>
 
             <section id="legal-rights" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Borrower Rights & RBI Guidelines</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Borrower Rights & RBI Guidelines</h3>
               <p className="mb-6">
                 The Reserve Bank of India is your greatest ally in the fight against financial fraud. They have mandated that every credit dispute must be resolved within 30 days. If a bank or bureau takes longer, they are liable for penalties.
               </p>
               <div className="bg-[#2E2E2E] text-white p-8 rounded-2xl mb-8">
-                <h3 className="text-2xl font-bold mb-4 text-[#1F5EFF]">The RBI Ombudsman Process</h3>
+                <h4 className="text-2xl font-bold mb-4 text-[#1F5EFF]">The RBI Ombudsman Process</h4>
                 <p className="mb-4 opacity-80 leading-relaxed font-bold">
                   If your dispute is not resolved in one month, do not wait. Escalate to the RBI Banking Ombudsman (cms.rbi.org.in). They have the power to force the bank to correct your data and can even award compensation for the mental agony and damage to your creditworthiness.
                 </p>
@@ -661,7 +661,7 @@ export default function CheckActiveLoansGuidePage() {
             </section>
 
             <section id="cyber-reporting" className="scroll-mt-32 mb-12">
-               <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 text-center">Reporting to Cyber Crime</h2>
+               <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 text-center">Reporting to Cyber Crime</h3>
                <p className="mb-6 text-lg text-center">
                  Financial identity theft is a crime. Do not treat it as just a clerical error. Reporting it ensures that the police can track the organized gangs behind these scams.
                </p>
@@ -680,7 +680,7 @@ export default function CheckActiveLoansGuidePage() {
             </section>
 
             <section id="securing-id" className="scroll-mt-32 mb-12">
-               <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Securing Your PAN & Aadhaar</h2>
+               <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Securing Your PAN & Aadhaar</h3>
                <p className="mb-6">
                  Prevention is always better than cure. While you cannot hide your ID proofs entirely, you can make them much harder to exploit.
                </p>
@@ -707,24 +707,24 @@ export default function CheckActiveLoansGuidePage() {
             </section>
 
             <section id="credit-errors" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Common Errors in Credit Reports</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Common Errors in Credit Reports</h3>
               <p className="mb-6 text-lg">
                 Not every unknown loan is fraud. Sometimes, it is just bad data. Here are the most common non-fraudulent errors you might find on your 2026 credit report.
               </p>
               <div className="grid md:grid-cols-2 gap-8 mb-8">
                 <div className="bg-white p-6 rounded-xl border border-gray-100 shadow-sm">
-                  <h3 className="text-xl font-bold mb-4">Duplicate Records</h3>
+                  <h4 className="text-xl font-bold mb-4">Duplicate Records</h4>
                   <p className="text-sm text-gray-600 leading-relaxed">Sometimes a lender reports the same loan twice—once under the main bank and once under its NBFC arm. This makes your total debt look twice as large as it actually is.</p>
                 </div>
                 <div className="bg-white p-6 rounded-xl border border-gray-100 shadow-sm">
-                  <h3 className="text-xl font-bold mb-4">Status Lag</h3>
+                  <h4 className="text-xl font-bold mb-4">Status Lag</h4>
                   <p className="text-sm text-gray-600 leading-relaxed">It takes 30 to 45 days for banks to update the bureau. If you paid off a loan last week, it might still show as 'Active'. This is normal, but if it remains 'Active' after 60 days, you must intervene.</p>
                 </div>
               </div>
             </section>
 
             <section id="future-of-credit" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">The Future of Credit Monitoring in India</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">The Future of Credit Monitoring in India</h3>
               <p className="mb-6 text-lg">
                 As we move further into 2026, the technology behind credit monitoring is becoming more proactive. We expect the RBI to mandate 'Real Time Credit Freezes' soon, allowing users to lock their credit profiles via a central portal, preventing any new loans from being opened until the user manually unlocks it.
               </p>
@@ -737,7 +737,7 @@ export default function CheckActiveLoansGuidePage() {
             </section>
 
             <section id="faqs" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Frequently Asked Questions</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Frequently Asked Questions</h3>
               <div className="space-y-4 not-prose">
                 {[
                   { q: "How can I check all loans on my PAN card for free?", a: "You can check all loans linked to your PAN card for free by visiting official credit bureau websites like CIBIL, Experian, CRIF, or Equifax. Each bureau provides one free full report per year by law. Additionally, fintech apps like OneScore or Cred offer free credit score checks using soft pulls." },
@@ -767,7 +767,7 @@ export default function CheckActiveLoansGuidePage() {
             </section>
 
             <section id="conclusion" className="scroll-mt-32 mb-12">
-               <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Conclusion: Taking Control of Your Financial Future</h2>
+               <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Conclusion: Taking Control of Your Financial Future</h3>
                <p className="mb-6 text-lg">
                  Building a great credit score takes years of discipline, but it can be ruined in a matter of days by unauthorized loans and identity theft. By following the methods outlined in this guide—checking credit bureaus quarterly, using the government AIS portal regularly, and monitoring through fintech apps—you can build a wall of protection around your financial identity.
                </p>
@@ -791,7 +791,7 @@ export default function CheckActiveLoansGuidePage() {
             <div className="lg:hidden mt-16 mb-8">
               <div className="bg-[#2E2E2E] rounded-2xl shadow-xl overflow-hidden border border-[#1F5EFF]/20">
                 <div className="bg-[#1F5EFF] p-6 text-center text-white">
-                  <h3 className="text-2xl font-black mb-2">Secure Your Identity</h3>
+                  <h4 className="text-2xl font-black mb-2">Secure Your Identity</h4>
                   <p className="opacity-90 text-sm">Join the 10,000+ Indians we've helped secure their financial lives.</p>
                 </div>
                 <div className="p-8 text-center text-[#DEDEDE]">

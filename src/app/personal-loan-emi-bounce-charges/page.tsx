@@ -261,15 +261,15 @@ export default function PersonalLoanEmiBounceChargesPage() {
 
             {/* Bank Penalties Section */}
             <section id="bank-penalties" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 The Heavy Burden: Bank Penalty for Missed EMI
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 A single missed EMI doesn't just attract one charge; it often triggers a domino effect of fees that can quickly spiral out of control. It's crucial to understand what you're actually being charged for.
               </p>
 
               <div className="bg-blue-50 border-l-8 border-[#1F5EFF] p-8 rounded-r-2xl mb-8">
-                <h3 className="text-xl font-black text-[#1F5EFF] mb-4">Common Charges for a Bounced EMI:</h3>
+                <h4 className="text-xl font-black text-[#1F5EFF] mb-4">Common Charges for a Bounced EMI:</h4>
                 <ul className="space-y-3">
                   <li className="flex items-start gap-3">
                     <div className="mt-1.5 w-2 h-2 rounded-full bg-[#1F5EFF] flex-shrink-0"></div>
@@ -291,7 +291,7 @@ export default function PersonalLoanEmiBounceChargesPage() {
               </div>
 
               <div className="bg-red-50 p-6 rounded-xl border border-red-100 mb-8">
-                <h4 className="text-xl font-black text-red-700 mb-2">Warning: The Multiple Presentment Trap</h4>
+                <h5 className="text-xl font-black text-red-700 mb-2">Warning: The Multiple Presentment Trap</h5>
                 <p className="text-lg text-red-900">
                   Some banks re-present the NACH mandate multiple times in the same month if it fails. If they present it 3 times and it fails all 3 times, you might be hit with 3 separate bounce charges, wiping out whatever little balance you had!
                 </p>
@@ -300,34 +300,34 @@ export default function PersonalLoanEmiBounceChargesPage() {
 
             {/* RBI Guidelines Section */}
             <section id="rbi-guidelines" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 Maximum Bounce Charge Limit by RBI
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 The Reserve Bank of India (RBI) has laid down specific guidelines to protect borrowers from predatory pricing and unfair penal charges. If your bank is treating bounce charges as a revenue stream, they are violating RBI norms.
               </p>
 
               <div className="grid md:grid-cols-2 gap-6 my-8">
                 <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
-                  <h3 className="font-black text-[#1F5EFF] text-lg mb-3">Reasonableness of Charges</h3>
+                  <h4 className="font-black text-[#1F5EFF] text-lg mb-3">Reasonableness of Charges</h4>
                   <p className="text-gray-700">RBI mandates that penal charges must be "reasonable" and commensurate with the non-compliance. They cannot be arbitrary or punitive.</p>
                 </div>
                 <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
-                  <h4 className="font-black text-[#1F5EFF] text-lg mb-3">No Capitalization</h4>
+                  <h5 className="font-black text-[#1F5EFF] text-lg mb-3">No Capitalization</h5>
                   <p className="text-gray-700">Penal charges cannot be capitalized. This means banks cannot add the unpaid bounce charges to your principal amount and charge interest on it.</p>
                 </div>
                 <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
-                  <h4 className="font-black text-[#1F5EFF] text-lg mb-3">Disclosure Requirements</h4>
+                  <h5 className="font-black text-[#1F5EFF] text-lg mb-3">Disclosure Requirements</h5>
                   <p className="text-gray-700">All bounce and penal charges must be explicitly mentioned in the loan agreement and the Key Fact Statement (KFS) provided to you.</p>
                 </div>
                 <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
-                  <h4 className="font-black text-[#1F5EFF] text-lg mb-3">Board Approved Policy</h4>
+                  <h5 className="font-black text-[#1F5EFF] text-lg mb-3">Board Approved Policy</h5>
                   <p className="text-gray-700">Banks must have a clear, board-approved policy regarding penal charges, ensuring they are not used as a tool for revenue enhancement.</p>
                 </div>
               </div>
 
               <div className="bg-gray-50 p-8 rounded-2xl mb-8 border border-gray-200">
-                <h4 className="text-xl font-bold text-gray-800 mb-3">Recent RBI Circular Impact</h4>
+                <h5 className="text-xl font-bold text-gray-800 mb-3">Recent RBI Circular Impact</h5>
                 <p className="text-lg text-gray-700">
                   In a recent directive, the RBI replaced the term 'penal interest' with 'penal charges'. This shift means banks can no longer charge a higher interest rate for defaults; they can only levy a fixed charge, which brings transparency and prevents the loan burden from compounding uncontrollably.
                 </p>
@@ -336,9 +336,9 @@ export default function PersonalLoanEmiBounceChargesPage() {
 
             {/* How to Claim Refund Section */}
             <section id="how-to-claim-refund" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 How to Claim a Refund for Overcharging
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 If you have been subjected to multiple bounce charges in a single month due to aggressive re-presentment, or if the charges seem disproportionate, you have the right to demand a waiver or refund.
               </p>
@@ -347,7 +347,7 @@ export default function PersonalLoanEmiBounceChargesPage() {
                 <div className="flex flex-col sm:flex-row gap-6">
                   <div className="flex-shrink-0 w-12 h-12 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center font-black text-xl shadow-lg">1</div>
                   <div>
-                    <h3 className="text-2xl font-bold text-[#2E2E2E] mb-3">Analyze Your Statement</h3>
+                    <h4 className="text-2xl font-bold text-[#2E2E2E] mb-3">Analyze Your Statement</h4>
                     <p className="text-lg text-gray-700">Carefully review your bank statement. Count how many times the NACH was presented and how many bounce charges were applied in a single month.</p>
                   </div>
                 </div>
@@ -355,7 +355,7 @@ export default function PersonalLoanEmiBounceChargesPage() {
                 <div className="flex flex-col sm:flex-row gap-6">
                   <div className="flex-shrink-0 w-12 h-12 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center font-black text-xl shadow-lg">2</div>
                   <div>
-                    <h3 className="text-2xl font-bold text-[#2E2E2E] mb-3">Write to the Nodal Officer</h3>
+                    <h4 className="text-2xl font-bold text-[#2E2E2E] mb-3">Write to the Nodal Officer</h4>
                     <p className="text-lg text-gray-700">Send a formal email to the bank's Nodal or Grievance Redressal Officer. Cite the specific dates of multiple presentments and request a reversal, referencing RBI's fair practices code.</p>
                   </div>
                 </div>
@@ -363,7 +363,7 @@ export default function PersonalLoanEmiBounceChargesPage() {
                 <div className="flex flex-col sm:flex-row gap-6">
                   <div className="flex-shrink-0 w-12 h-12 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center font-black text-xl shadow-lg">3</div>
                   <div>
-                    <h3 className="text-2xl font-bold text-[#2E2E2E] mb-3">Escalate to RBI Ombudsman</h3>
+                    <h4 className="text-2xl font-bold text-[#2E2E2E] mb-3">Escalate to RBI Ombudsman</h4>
                     <p className="text-lg text-gray-700">If the bank rejects your request or fails to respond within 30 days, file a complaint on the RBI CMS (Complaint Management System) portal regarding unfair penal charges.</p>
                   </div>
                 </div>
@@ -372,9 +372,9 @@ export default function PersonalLoanEmiBounceChargesPage() {
 
             {/* Impact on Co-Borrowers Section */}
             <section id="impact-on-co-borrowers" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 The Hidden Impact on Co-Borrowers & Guarantors
-              </h2>
+              </h3>
               <div className="bg-white rounded-2xl p-8 border border-[#DEDEDE] shadow-sm relative overflow-hidden mb-8">
                 <p className="text-lg leading-relaxed mb-6 text-gray-700">
                   When a personal loan is taken jointly with a co-borrower or backed by a guarantor, an EMI bounce does not just affect the primary applicant. The financial shockwaves are felt by everyone associated with the loan agreement. Banks hold co-borrowers and guarantors equally liable for the repayment of the loan, which means the consequences of a bounce are shared.
@@ -387,22 +387,22 @@ export default function PersonalLoanEmiBounceChargesPage() {
 
             {/* Legal Action Section */}
             <section id="legal-action-drt" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 Legal Action & DRT Proceedings for Repeated Bounces
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 A single bounce might just attract a financial penalty, but repeated EMI bounces signal to the bank that your account is at high risk of becoming a Non-Performing Asset (NPA). Once an account is classified as an NPA (typically after 90 days of non-payment), the bank's strategy shifts from penalty collection to aggressive recovery.
               </p>
 
               <div className="bg-red-50 p-6 rounded-xl border border-red-100 mb-8">
-                <h3 className="text-xl font-black text-red-700 mb-2">Section 138 & Section 25 Notices</h3>
+                <h4 className="text-xl font-black text-red-700 mb-2">Section 138 & Section 25 Notices</h4>
                 <p className="text-lg text-red-900 mb-4">
                   If you submitted post-dated cheques (PDCs) that bounce, banks will issue a legal notice under Section 138 of the Negotiable Instruments Act. This is a criminal offense. If your loan was auto-debited via ECS or NACH, they will invoke Section 25 of the Payment and Settlement Systems Act, which carries similar criminal liabilities including potential imprisonment and heavy fines.
                 </p>
               </div>
 
               <div className="bg-gray-50 p-8 rounded-2xl mb-8 border border-gray-200">
-                <h4 className="text-xl font-bold text-gray-800 mb-3">The Role of the DRT (Debt Recovery Tribunal)</h4>
+                <h5 className="text-xl font-bold text-gray-800 mb-3">The Role of the DRT (Debt Recovery Tribunal)</h5>
                 <p className="text-lg text-gray-700">
                   For loan amounts exceeding ₹20 Lakhs, banks have the authority to approach the Debt Recovery Tribunal (DRT) for expedited recovery. The DRT was established specifically to fast-track the recovery of bad loans. Once a DRT summons is issued, you must respond with a strong legal defense. Ignoring DRT notices can lead to ex-parte orders where the tribunal rules in the bank's favor in your absence, allowing them to attach your bank accounts, garnish your salary, or seize other assets to recover the dues along with all accumulated bounce charges and legal fees.
                 </p>
@@ -411,20 +411,20 @@ export default function PersonalLoanEmiBounceChargesPage() {
 
             {/* Negotiating Waiver Section */}
             <section id="negotiating-waiver" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 Negotiating a Penalty Waiver Before It Escalates
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 Before the situation escalates to legal notices and tribunal summons, there is a window of opportunity to negotiate with your bank. Banks are fully aware of RBI guidelines regarding penal charges, and they know that aggressive charging practices can be challenged in the Banking Ombudsman.
               </p>
 
               <div className="grid md:grid-cols-2 gap-6 my-8">
                 <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
-                  <h3 className="font-black text-[#1F5EFF] text-lg mb-3">The "Hardship" Application</h3>
+                  <h4 className="font-black text-[#1F5EFF] text-lg mb-3">The "Hardship" Application</h4>
                   <p className="text-gray-700">Draft a formal hardship letter explaining the exact reason for the bounce (e.g., job loss, medical emergency). Attach proof. If it's a genuine issue, managers have the discretionary power to waive 50% to 100% of the bounce charges for first-time offenders.</p>
                 </div>
                 <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
-                  <h4 className="font-black text-[#1F5EFF] text-lg mb-3">Leveraging the Ombudsman</h4>
+                  <h5 className="font-black text-[#1F5EFF] text-lg mb-3">Leveraging the Ombudsman</h5>
                   <p className="text-gray-700">If the bank refuses a waiver despite multiple unreasonable presentments of the NACH mandate, inform them that you are preparing an RBI Ombudsman complaint for predatory charging. This often forces the grievance desk to reconsider the waiver request immediately.</p>
                 </div>
               </div>
@@ -432,9 +432,9 @@ export default function PersonalLoanEmiBounceChargesPage() {
 
             {/* Success Stories Section */}
             <section id="success-stories" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 Borrowers Who Beat the Bounce Trap
-              </h2>
+              </h3>
               <div className="grid md:grid-cols-2 gap-6 my-8">
                 
                 <div className="bg-white p-8 rounded-[30px] border border-[#DEDEDE] shadow-sm hover:shadow-xl group transition-all">
@@ -443,7 +443,7 @@ export default function PersonalLoanEmiBounceChargesPage() {
                       M
                     </div>
                     <div>
-                      <h3 className="font-black text-lg text-[#2E2E2E]">Manish Verma</h3>
+                      <h4 className="font-black text-lg text-[#2E2E2E]">Manish Verma</h4>
                       <div className="flex text-yellow-400">
                         <svg className="w-4 h-4 fill-current" viewBox="0 0 20 20"><path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z" /></svg>
                         <svg className="w-4 h-4 fill-current" viewBox="0 0 20 20"><path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z" /></svg>
@@ -466,7 +466,7 @@ export default function PersonalLoanEmiBounceChargesPage() {
                       S
                     </div>
                     <div>
-                      <h4 className="font-black text-lg text-[#2E2E2E]">Sonia K.</h4>
+                      <h5 className="font-black text-lg text-[#2E2E2E]">Sonia K.</h5>
                       <div className="flex text-yellow-400">
                         <svg className="w-4 h-4 fill-current" viewBox="0 0 20 20"><path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z" /></svg>
                         <svg className="w-4 h-4 fill-current" viewBox="0 0 20 20"><path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z" /></svg>
@@ -488,7 +488,7 @@ export default function PersonalLoanEmiBounceChargesPage() {
 
             {/* FAQs Section */}
             <section id="faqs" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">Frequently Asked Questions</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">Frequently Asked Questions</h3>
               <div className="space-y-4">
                 
                 <details name="faq-accordion" className="bg-white border border-[#DEDEDE] rounded-xl p-6 hover:shadow-md group cursor-pointer transition-shadow">
@@ -618,7 +618,7 @@ export default function PersonalLoanEmiBounceChargesPage() {
             <div id="consultation" className="bg-[#2E2E2E] text-white p-12 rounded-[40px] text-center mt-24 relative overflow-hidden group">
               <div className="absolute inset-0 bg-[#1F5EFF] opacity-0 group-hover:opacity-5 transition-opacity duration-500"></div>
               <div className="relative z-10">
-                <h3 className="text-3xl md:text-5xl font-black mb-6">Stop Unfair Bank Penalties Now</h3>
+                <h4 className="text-3xl md:text-5xl font-black mb-6">Stop Unfair Bank Penalties Now</h4>
                 <p className="text-xl mb-8 text-gray-300 max-w-2xl mx-auto">
                   Are bounce charges eating up your savings? Don't let banks overcharge you. Get expert legal help to dispute penalties, claim refunds, and restructure your loan.
                 </p>

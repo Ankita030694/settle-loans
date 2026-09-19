@@ -72,7 +72,7 @@ export default function PrivacyPolicyPage() {
 
             {/* Use of Technical Data */}
             <section className="mb-12">
-              <h2 className="text-2xl md:text-3xl font-black mb-6">Use of Technical Data</h2>
+              <h3 className="text-2xl md:text-3xl font-black mb-6">Use of Technical Data</h3>
               <p className="mb-6">
                 We may collect basic technical data to improve your experience on our site. Typical details include:
               </p>
@@ -94,7 +94,7 @@ export default function PrivacyPolicyPage() {
 
             {/* Cookies & Tracking Tools */}
             <section className="mb-12">
-              <h2 className="text-2xl md:text-3xl font-black mb-6">Cookies & Tracking Tools</h2>
+              <h3 className="text-2xl md:text-3xl font-black mb-6">Cookies & Tracking Tools</h3>
               <p className="mb-6">
                 We use first-party cookies and secure site tools. These tools keep your session active and save your preferences. You maintain complete control over cookies:
               </p>
@@ -116,7 +116,7 @@ export default function PrivacyPolicyPage() {
 
             {/* Sharing of Personal Information */}
             <section className="mb-12">
-              <h2 className="text-2xl md:text-3xl font-black mb-6">Sharing Your Information</h2>
+              <h3 className="text-2xl md:text-3xl font-black mb-6">Sharing Your Information</h3>
               <p className="mb-6">
                 We share your details only when needed to resolve your debt. We never sell your personal details to third parties. We may share data in these cases:
               </p>
@@ -136,7 +136,7 @@ export default function PrivacyPolicyPage() {
 
             {/* Information Security */}
             <section className="mb-12">
-              <h2 className="text-2xl md:text-3xl font-black mb-6">Information Security</h2>
+              <h3 className="text-2xl md:text-3xl font-black mb-6">Information Security</h3>
               <p className="mb-6">
                 We use strong safeguards to keep your data safe. These include SSL encryption, strict access controls, and regular security audits. We constantly upgrade our defenses against online threats.
               </p>
@@ -144,7 +144,7 @@ export default function PrivacyPolicyPage() {
 
             {/* Testimonials & Case Studies */}
             <section className="mb-12">
-              <h2 className="text-2xl md:text-3xl font-black mb-6">Testimonials & Case Studies</h2>
+              <h3 className="text-2xl md:text-3xl font-black mb-6">Testimonials & Case Studies</h3>
               <p className="mb-6">
                 We may share anonymized client success stories with your permission. We remove all names and private details. You can request edits or removal at any time.
               </p>
@@ -152,7 +152,7 @@ export default function PrivacyPolicyPage() {
 
             {/* Data Usage & Deletion (Right to be Forgotten) */}
             <section className="mb-12">
-              <h2 className="text-2xl md:text-3xl font-black mb-6">Data Usage & Right to Deletion</h2>
+              <h3 className="text-2xl md:text-3xl font-black mb-6">Data Usage & Right to Deletion</h3>
               <p className="mb-6">
                 We use your details only to run your debt relief plan. We use this data to prepare legal replies and negotiate with banks. We never sell your personal data to third parties.
               </p>
@@ -165,7 +165,7 @@ export default function PrivacyPolicyPage() {
 
             {/* Contacting SettleLoans */}
             <section className="mb-12 bg-[#1F5EFF]/5 border border-[#1F5EFF]/20 rounded-3xl p-8 text-center">
-              <h2 className="text-3xl font-black mb-4">Contact Our Privacy Team</h2>
+              <h3 className="text-3xl font-black mb-4">Contact Our Privacy Team</h3>
               <p className="mb-6 text-lg">
                 Do you have questions about your privacy or data rights? You can reach our team directly at:
               </p>
@@ -173,7 +173,7 @@ export default function PrivacyPolicyPage() {
                 info@settleloans.in
               </a>
               <div className="pt-8 border-t border-[#1F5EFF]/10">
-                <h3 className="text-xl font-bold mb-4 italic">Learn More About Our Safeguards</h3>
+                <h4 className="text-xl font-bold mb-4 italic">Learn More About Our Safeguards</h4>
                 <p className="mb-8 opacity-80">
                   Our compliance team is ready to help. We can walk you through our safety protocols and data rules. We explain how we work with banks to protect your privacy.
                 </p>

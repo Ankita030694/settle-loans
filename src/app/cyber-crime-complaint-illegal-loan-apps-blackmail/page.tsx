@@ -527,7 +527,7 @@ export default function CyberCrimeComplaintIllegalLoanAppsPage() {
 
             {/* Section 2: Statutory Legal Framework */}
             <section id="statutory-framework-bns-it-act-rbi-digital-lending" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">2. Statutory Cyber Crime &amp; BNS Legal Framework</h2>
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">2. Statutory Cyber Crime &amp; BNS Legal Framework</h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Illegal loan apps violate multiple criminal laws and RBI directives. Indian law provides strong protections to victims while punishing scammers with non-bailable prison terms.
               </p>
@@ -587,7 +587,7 @@ export default function CyberCrimeComplaintIllegalLoanAppsPage() {
 
             {/* Section 3: Deconstructing Blackmail Playbook */}
             <section id="contact-list-scraping-and-morphed-photo-blackmail" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">3. Deconstructing the Blackmail Playbook</h2>
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">3. Deconstructing the Blackmail Playbook</h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Predatory loan apps use fear and shame to force quick payments. Understanding their playbook helps you stop their threats:
               </p>
@@ -597,31 +597,31 @@ export default function CyberCrimeComplaintIllegalLoanAppsPage() {
 
               <div className="space-y-3 my-4">
                 <div className="p-4 rounded-xl border-l-4 border-red-600 bg-slate-50 space-y-1">
-                  <h3 className="font-bold text-slate-900 text-xs sm:text-sm">Stage 1: Invasive Spyware Infiltration via Sideloaded APKs</h3>
+                  <h4 className="font-bold text-slate-900 text-xs sm:text-sm">Stage 1: Invasive Spyware Infiltration via Sideloaded APKs</h4>
                   <p className="text-xs text-slate-600 leading-relaxed">
                     When users install sideloaded APKs, the app asks for contact, storage, and camera access. A hidden script steals phone contacts and photos to remote servers.
                   </p>
                 </div>
                 <div className="p-4 rounded-xl border-l-4 border-amber-600 bg-slate-50 space-y-1">
-                  <h4 className="font-bold text-slate-900 text-xs sm:text-sm">Stage 2: Synthetic Default &amp; Automated Harassment Blitz</h4>
+                  <h5 className="font-bold text-slate-900 text-xs sm:text-sm">Stage 2: Synthetic Default &amp; Automated Harassment Blitz</h5>
                   <p className="text-xs text-slate-600 leading-relaxed">
                     On day 5 or 6, automated systems send abusive SMS and VoIP calls. Scammers pretend to be police or court officers to threaten fake home raids.
                   </p>
                 </div>
                 <div className="p-4 rounded-xl border-l-4 border-purple-600 bg-slate-50 space-y-1">
-                  <h4 className="font-bold text-slate-900 text-xs sm:text-sm">Stage 3: AI-Facial Morphing &amp; Obscene Defamation Collateral</h4>
+                  <h5 className="font-bold text-slate-900 text-xs sm:text-sm">Stage 3: AI-Facial Morphing &amp; Obscene Defamation Collateral</h5>
                   <p className="text-xs text-slate-600 leading-relaxed">
                     Scammers take the borrower&apos;s selfie and create morphed vulgar photos using AI tools. They create graphic posters labeling the borrower a fraud.
                   </p>
                 </div>
                 <div className="p-4 rounded-xl border-l-4 border-indigo-600 bg-slate-50 space-y-1">
-                  <h4 className="font-bold text-slate-900 text-xs sm:text-sm">Stage 4: WhatsApp Group Creation &amp; Direct Relative Intimidation</h4>
+                  <h5 className="font-bold text-slate-900 text-xs sm:text-sm">Stage 4: WhatsApp Group Creation &amp; Direct Relative Intimidation</h5>
                   <p className="text-xs text-slate-600 leading-relaxed">
                     Scammers create temporary WhatsApp groups with the victim&apos;s family, friends, and coworkers. They share morphed photos and demand immediate payment.
                   </p>
                 </div>
                 <div className="p-4 rounded-xl border-l-4 border-blue-600 bg-slate-50 space-y-1">
-                  <h4 className="font-bold text-slate-900 text-xs sm:text-sm">Stage 5: Hawala Laundering Through Layered Mule Accounts</h4>
+                  <h5 className="font-bold text-slate-900 text-xs sm:text-sm">Stage 5: Hawala Laundering Through Layered Mule Accounts</h5>
                   <p className="text-xs text-slate-600 leading-relaxed">
                     Extorted funds move through stolen bank accounts (mule accounts). Funds are converted to cryptocurrency and sent offshore.
                   </p>
@@ -635,7 +635,7 @@ export default function CyberCrimeComplaintIllegalLoanAppsPage() {
 
             {/* Section 4: Extortion Trap Economics & Zero Liability */}
             <section id="extortion-trap-economics-and-infinite-recovery-loop" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">4. The Extortion Trap Economics</h2>
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">4. The Extortion Trap Economics</h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Many victims make the mistake of paying blackmail money. But in cyber extortion, paying money only proves that threats work.
               </p>
@@ -707,9 +707,9 @@ export default function CyberCrimeComplaintIllegalLoanAppsPage() {
 
             {/* Section 5: Infographic Banner */}
             <section id="cyber-crime-complaint-visual-roadmap" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                 5. Emergency Cyber Crime Redressal &amp; FIR Visual Roadmap
-              </h2>
+              </h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 This 5-step roadmap shows how to stop loan app blackmail fast. Save your chat evidence. File a complaint on cybercrime.gov.in. Block scam numbers on the Chakshu portal. Convert your complaint to a police FIR. Use RBI rules to stop harassment.
               </p>
@@ -744,7 +744,7 @@ export default function CyberCrimeComplaintIllegalLoanAppsPage() {
 
             {/* Section 6: Step-by-Step Cybercrime Portal Reporting */}
             <section id="step-by-step-cybercrime-portal-and-1930-reporting" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">6. Step-by-Step Guide</h2>
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">6. Step-by-Step Guide</h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 The Ministry of Home Affairs runs the <strong>National Cyber Crime Reporting Portal (NCRP)</strong> at <a href="https://cybercrime.gov.in" target="_blank" rel="noopener noreferrer" className="text-[#1F5EFF] underline font-semibold">cybercrime.gov.in</a>. You can also dial the 24x7 <strong>Financial Fraud Helpline 1930</strong>. Filing a complaint creates an official police record. It alerts cyber crime teams across India to track the scammers.
               </p>
@@ -817,7 +817,7 @@ export default function CyberCrimeComplaintIllegalLoanAppsPage() {
 
             {/* Section 7: Chakshu Portal Reporting */}
             <section id="chakshu-portal-reporting-and-telecom-blocking" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">7. Chakshu Portal Reporting</h2>
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">7. Chakshu Portal Reporting</h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 The Department of Telecommunications (DoT) runs the <strong>Chakshu facility</strong> on the <strong>Sanchar Saathi</strong> portal (<a href="https://sancharsaathi.gov.in/sfc" target="_blank" rel="noopener noreferrer" className="text-[#1F5EFF] underline font-semibold">sancharsaathi.gov.in/sfc</a>). Chakshu lets citizens report fake calls, threat SMS, and WhatsApp messages fast.
               </p>
@@ -864,9 +864,9 @@ export default function CyberCrimeComplaintIllegalLoanAppsPage() {
                 </div>
               </div>
 
-              <h3 className="text-base sm:text-lg font-bold text-slate-900 pt-2">
+              <h4 className="text-base sm:text-lg font-bold text-slate-900 pt-2">
                 How to Submit a Chakshu Report in 3 Minutes
-              </h3>
+              </h4>
               <ol className="list-decimal pl-5 space-y-1.5 text-xs sm:text-sm text-slate-700">
                 <li>Open <strong>sancharsaathi.gov.in</strong> and click the <strong>Chakshu</strong> tab.</li>
                 <li>Under <em>Medium</em>, choose &quot;Call&quot;, &quot;SMS&quot;, or &quot;WhatsApp&quot;.</li>
@@ -878,7 +878,7 @@ export default function CyberCrimeComplaintIllegalLoanAppsPage() {
 
             {/* Section 8: Legal Immunity Protocols */}
             <section id="legal-immunity-and-stopping-third-party-harassment" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">8. Legal Immunity Protocols</h2>
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">8. Legal Immunity Protocols</h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Scammers often threaten to call your family, friends, and employer. Taking fast action removes the fear of blackmail before scammers cause harm.
               </p>
@@ -931,7 +931,7 @@ export default function CyberCrimeComplaintIllegalLoanAppsPage() {
 
             {/* Section 9: Comparative Matrix */}
             <section id="legal-vs-illegal-lending-apps-comparative-matrix" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">9. Legitimate NBFC Digital Lenders vs. Illegal Extortion</h2>
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">9. Legitimate NBFC Digital Lenders vs. Illegal Extortion</h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Knowing the difference between legal digital lenders and illegal loan scams helps you take the right legal steps:
               </p>
@@ -984,7 +984,7 @@ export default function CyberCrimeComplaintIllegalLoanAppsPage() {
             {/* Section 10: CompanySection Component */}
             <section id="company-resolution-section" className="space-y-6">
               <div className="border-t border-slate-200 pt-8 space-y-4">
-                <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">10. SettleLoans Emergency Cyber Defense</h2>
+                <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">10. SettleLoans Emergency Cyber Defense</h3>
                 <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                   Dealing with loan app blackmail is stressful. SettleLoans provides fast legal help. Our team files cyber complaints on cybercrime.gov.in and helps register police FIRs under BNS and IT Act laws. We report scam numbers on Chakshu to block phone lines. We serve legal cease-and-desist notices to recovery agencies to stop all harassment and protect your family.
                 </p>
@@ -998,7 +998,7 @@ export default function CyberCrimeComplaintIllegalLoanAppsPage() {
             <section id="faqs" className="space-y-4 border-t border-slate-200 pt-8">
               <div className="flex items-center gap-2 mb-2">
                 <HelpCircle className="w-5 h-5 text-[#1F5EFF]" />
-                <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">11. FAQs: Cyber Crime Complaints Against Loan Apps</h2>
+                <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">11. FAQs: Cyber Crime Complaints Against Loan Apps</h3>
               </div>
               <p className="text-xs sm:text-sm text-slate-600 mb-6">
                 Here are clear answers to common questions about illegal loan app blackmail, filing cyber FIRs, and borrower rights in India.
@@ -1028,9 +1028,9 @@ export default function CyberCrimeComplaintIllegalLoanAppsPage() {
 
             {/* 5 Official Regulatory Links */}
             <section className="border-t border-slate-200 pt-8 mb-4">
-              <h3 className="text-xs sm:text-sm font-bold text-slate-900 mb-3 uppercase tracking-wider">
+              <h4 className="text-xs sm:text-sm font-bold text-slate-900 mb-3 uppercase tracking-wider">
                 Official Statutory &amp; Regulatory References
-              </h3>
+              </h4>
               <div className="grid grid-cols-1 sm:grid-cols-2 gap-2.5 text-xs">
                 <a
                   href="https://cybercrime.gov.in"
@@ -1082,9 +1082,9 @@ export default function CyberCrimeComplaintIllegalLoanAppsPage() {
 
             {/* 10 Related Guide Badges */}
             <section className="border-t border-slate-200 pt-8 mb-8">
-              <h3 className="text-xs sm:text-sm font-bold text-slate-900 mb-4 uppercase tracking-wider">
+              <h4 className="text-xs sm:text-sm font-bold text-slate-900 mb-4 uppercase tracking-wider">
                 Related Cyber Defense &amp; Debt Resolution Guides
-              </h3>
+              </h4>
               <div className="flex flex-wrap gap-2">
                 <Link
                   href="/bank-recovery-harassment-complaint"

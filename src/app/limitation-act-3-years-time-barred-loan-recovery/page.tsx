@@ -518,7 +518,7 @@ export default function LimitationActThreeYearsLoanRecoveryPage() {
 
             {/* Section 2: Articles 19, 55, and CPC Framework */}
             <section id="articles-19-55-and-cpc-civil-court-jurisdiction" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">2. Articles 19, 55 &amp; CPC Recovery</h2>
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">2. Articles 19, 55 &amp; CPC Recovery</h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Under the Limitation Act, 1963, bank defaults fall under Article 19 (loans disbursed) and Article 55 (breach of contract). Once an EMI default happens, the 3-year countdown begins right away.
               </p>
@@ -575,7 +575,7 @@ export default function LimitationActThreeYearsLoanRecoveryPage() {
 
             {/* Section 3: The Traps - Section 18 and Section 19 */}
             <section id="debt-revival-traps-section-18-and-section-19" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">3. The Critical Debt Revival Traps</h2>
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">3. The Critical Debt Revival Traps</h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Lenders and collection agencies use simple tricks to reset the legal clock. Borrowers must watch out for three common debt traps.
               </p>
@@ -592,7 +592,7 @@ export default function LimitationActThreeYearsLoanRecoveryPage() {
 
             {/* Section 4: Bank Accounting and NPV Formula */}
             <section id="bank-npa-accounting-write-offs-and-npv-economics" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">4. Bank NPA Accounting, AUCA Technical Write-Offs</h2>
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">4. Bank NPA Accounting, AUCA Technical Write-Offs</h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Under RBI IRAC rules, unpaid loans turn into NPAs and doubtful assets. After 3 to 4 years of default, banks must set aside 100% loss provisions against unsecured bad loans.
               </p>
@@ -621,9 +621,9 @@ export default function LimitationActThreeYearsLoanRecoveryPage() {
 
             {/* Section 5: Infographic Banner */}
             <section id="limitation-act-visual-roadmap" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                 5. Statutory Limitation &amp; Time-Barred Debt Visual Roadmap
-              </h2>
+              </h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 The visual guide below shows the full timeline from first default and the active suit window to limitation protection, traps, and OTS closure.
               </p>
@@ -658,7 +658,7 @@ export default function LimitationActThreeYearsLoanRecoveryPage() {
 
             {/* Section 6: Handling Harassment & Calls on 4-5 Year Old Loans */}
             <section id="handling-recovery-calls-on-old-defaulted-loans" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">6. Handling Harassment</h2>
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">6. Handling Harassment</h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Collection agencies chase 4-to-5-year-old debts because they earn 20% to 40% commissions on recoveries. Since they cannot sue in court, they use phone calls, home visits. And fake legal notices to scare borrowers.
               </p>
@@ -672,7 +672,7 @@ export default function LimitationActThreeYearsLoanRecoveryPage() {
 
             {/* Section 7: Responding to Belated Notices, Lok Adalat & Summary Summons */}
             <section id="forensic-audit-of-legal-notices-and-summary-suits" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">7. Responding to Belated Legal Notices, Lok Adalat</h2>
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">7. Responding to Belated Legal Notices, Lok Adalat</h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 When you get a legal notice for an old loan, check the default date. Many notices skip dates to trick you into a written reply that revives the debt under Section 25(3). An advocate reply must assert that the claim is time-barred and deny liability.
               </p>
@@ -686,7 +686,7 @@ export default function LimitationActThreeYearsLoanRecoveryPage() {
 
             {/* Section 8: Banker's Lien, NDC and CIBIL */}
             <section id="debt-extinguishment-ndc-and-cibil-rehabilitation" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">8. Banker&apos;s Lien, Official No Dues Certificate</h2>
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">8. Banker&apos;s Lien, Official No Dues Certificate</h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Even though the Limitation Act stops court suits, unresolved loans carry two problems: banker&apos;s lien and bad credit records.
               </p>
@@ -700,7 +700,7 @@ export default function LimitationActThreeYearsLoanRecoveryPage() {
 
             {/* Section 9: Comparative Strategy Matrix Table */}
             <section id="active-debt-vs-time-barred-debt-comparative-matrix" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">9. Active Debt vs. Time-Barred Debt Comparative Strategy</h2>
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">9. Active Debt vs. Time-Barred Debt Comparative Strategy</h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Here is how active defaults compare to time-barred debts in legal power and settlement leverage:
               </p>
@@ -763,9 +763,9 @@ export default function LimitationActThreeYearsLoanRecoveryPage() {
             {/* Section 10: SettleLoans Legal Defense & Advisory + CompanySection */}
             <section id="company-resolution-section" className="space-y-6">
               <div className="border-t border-slate-200 pt-8 space-y-4">
-                <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
+                <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                   10. SettleLoans Legal Defense &amp; Time-Barred Debt Advisory
-                </h2>
+                </h3>
                 <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                   Resolving old defaulted loans requires experienced legal help. SettleLoans checks default dates and sends legal notices to stop recovery calls under RBI rules. We file Leave to Defend forms in court and negotiate deep-waiver settlements with official No Dues Certificates.
                 </p>
@@ -779,7 +779,7 @@ export default function LimitationActThreeYearsLoanRecoveryPage() {
             <section id="faqs" className="space-y-4 border-t border-slate-200 pt-8">
               <div className="flex items-center gap-2 mb-2">
                 <HelpCircle className="w-5 h-5 text-[#1F5EFF]" />
-                <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">11. FAQs: Limitation Act 3 Years for Bank Loan Recovery</h2>
+                <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">11. FAQs: Limitation Act 3 Years for Bank Loan Recovery</h3>
               </div>
               <p className="text-xs sm:text-sm text-slate-600 mb-6">
                 Direct answers to essential questions on statutory limitation, court dismissal rules, debt revival traps. And borrower rights in India.
@@ -810,9 +810,9 @@ export default function LimitationActThreeYearsLoanRecoveryPage() {
 
             {/* 5 Official Regulatory Links */}
             <section className="border-t border-slate-200 pt-8 mb-4">
-              <h3 className="text-xs sm:text-sm font-bold text-slate-900 mb-3 uppercase tracking-wider">
+              <h4 className="text-xs sm:text-sm font-bold text-slate-900 mb-3 uppercase tracking-wider">
                 Official Statutory &amp; Regulatory References
-              </h3>
+              </h4>
               <div className="grid grid-cols-1 sm:grid-cols-2 gap-2.5 text-xs">
                 <a
                   href="https://indiacode.gov.in/handle/123456789/1566"
@@ -864,9 +864,9 @@ export default function LimitationActThreeYearsLoanRecoveryPage() {
 
             {/* 10 Related Guide Badges */}
             <section className="border-t border-slate-200 pt-8 mb-8">
-              <h3 className="text-xs sm:text-sm font-bold text-slate-900 mb-4 uppercase tracking-wider">
+              <h4 className="text-xs sm:text-sm font-bold text-slate-900 mb-4 uppercase tracking-wider">
                 Related Distressed Asset &amp; Loan Resolution Guides
-              </h3>
+              </h4>
               <div className="flex flex-wrap gap-2">
                 <Link
                   href="/bank-filed-civil-suit-for-loan-recovery-order-37-cpc-summons"

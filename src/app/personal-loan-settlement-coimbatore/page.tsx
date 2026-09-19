@@ -567,7 +567,7 @@ export default function CoimbatoreLoanSettlementPage() {
                 <Scale className="w-4 h-4" />
                 <span>2. Statutory Legal Classifications</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Unsecured vs Secured Debt in Coimbatore</h2>
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Unsecured vs Secured Debt in Coimbatore</h3>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Secured loans fall under the SARFAESI Act, 2002. Lenders can auction mortgaged assets. In contrast, unsecured loans carry no claim on machines or homes. Lenders cannot seize assets without a court trial.
               </p>
@@ -628,7 +628,7 @@ export default function CoimbatoreLoanSettlementPage() {
                 <ShieldAlert className="w-4 h-4" />
                 <span>3. Anti-Harassment Legal Shield</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Halting Recovery Harassment in Coimbatore</h2>
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Halting Recovery Harassment in Coimbatore</h3>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Recovery agents often use harsh methods. They may visit factories in Peelamedu or Kurichi. Such actions violate RBI rules and court orders:
               </p>
@@ -661,7 +661,7 @@ export default function CoimbatoreLoanSettlementPage() {
                 <Gavel className="w-4 h-4" />
                 <span>4. Judicial Summons &amp; Arbitration Defense</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Defending Sec 138 &amp; 25 PSSA in Coimbatore</h2>
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Defending Sec 138 &amp; 25 PSSA in Coimbatore</h3>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Banks send notices when cheques or auto-debits bounce. They cite Section 138 NI Act or Section 25 PSSA. Our advocates file replies proving genuine hardship. We guide disputes toward out-of-court settlements.
               </p>
@@ -682,9 +682,9 @@ export default function CoimbatoreLoanSettlementPage() {
                       <span className="text-[10px] font-black uppercase tracking-widest text-blue-300 block">
                         Coimbatore &amp; Western TN Resolution Blueprint
                       </span>
-                      <h3 className="text-sm md:text-base font-black text-white leading-tight">
+                      <h4 className="text-sm md:text-base font-black text-white leading-tight">
                         5-Step Loan Settlement &amp; Debt Compromise Framework
-                      </h3>
+                      </h4>
                     </div>
                   </div>
                   <a
@@ -731,7 +731,7 @@ export default function CoimbatoreLoanSettlementPage() {
                 <Calculator className="w-4 h-4" />
                 <span>5. Bank Accounting &amp; Valuation Math</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">NPV Valuation &amp; Bank Math in Coimbatore</h2>
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">NPV Valuation &amp; Bank Math in Coimbatore</h3>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Under the RBI Compromise Framework (2023), banks evaluate offers using Net Present Value (NPV). When a loan passes 90 days overdue, Ind AS 109 forces banks to set aside cash reserves.
               </p>
@@ -761,7 +761,7 @@ export default function CoimbatoreLoanSettlementPage() {
                 <Layers className="w-4 h-4" />
                 <span>6. Step-by-Step OTS Negotiation Process</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Step-by-Step OTS Protocol in Coimbatore</h2>
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Step-by-Step OTS Protocol in Coimbatore</h3>
               <p className="text-slate-700 leading-relaxed mb-6 text-base md:text-lg">
                 Settling an unsecured loan follows five clear stages:
               </p>
@@ -769,10 +769,10 @@ export default function CoimbatoreLoanSettlementPage() {
               <div className="space-y-6">
                 {/* Step 1 */}
                 <div className="p-6 rounded-2xl bg-white border border-slate-200 shadow-sm">
-                  <h3 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
+                  <h4 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
                     <span className="w-7 h-7 rounded-lg bg-blue-50 text-[#1F5EFF] font-black text-sm flex items-center justify-center border border-blue-200">1</span>
                     Hardship Dossier Compilation
-                  </h3>
+                  </h4>
                   <p className="text-slate-600 text-sm md:text-base leading-relaxed">
                     We gather financial records, GST returns. And loss accounts. These prove genuine business hardship.
                   </p>
@@ -780,10 +780,10 @@ export default function CoimbatoreLoanSettlementPage() {
 
                 {/* Step 2 */}
                 <div className="p-6 rounded-2xl bg-white border border-slate-200 shadow-sm">
-                  <h3 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
+                  <h4 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
                     <span className="w-7 h-7 rounded-lg bg-blue-50 text-[#1F5EFF] font-black text-sm flex items-center justify-center border border-blue-200">2</span>
                     e-NACH Revocation &amp; Legal Shield Activation
-                  </h3>
+                  </h4>
                   <p className="text-slate-600 text-sm md:text-base leading-relaxed">
                     We stop NACH auto-debits under NPCI rules to stop bounce fees. We also send formal legal notices to lenders.
                   </p>
@@ -791,10 +791,10 @@ export default function CoimbatoreLoanSettlementPage() {
 
                 {/* Step 3 */}
                 <div className="p-6 rounded-2xl bg-white border border-slate-200 shadow-sm">
-                  <h3 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
+                  <h4 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
                     <span className="w-7 h-7 rounded-lg bg-blue-50 text-[#1F5EFF] font-black text-sm flex items-center justify-center border border-blue-200">3</span>
                     Submitting Settlement Proposal to Stressed Asset Desks
-                  </h3>
+                  </h4>
                   <p className="text-slate-600 text-sm md:text-base leading-relaxed">
                     We submit settlement files directly to Zonal SARB desks.
                   </p>
@@ -802,10 +802,10 @@ export default function CoimbatoreLoanSettlementPage() {
 
                 {/* Step 4 */}
                 <div className="p-6 rounded-2xl bg-white border border-slate-200 shadow-sm">
-                  <h3 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
+                  <h4 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
                     <span className="w-7 h-7 rounded-lg bg-blue-50 text-[#1F5EFF] font-black text-sm flex items-center justify-center border border-blue-200">4</span>
                     Principal Haircut Negotiation &amp; 100% Fee Waiver
-                  </h3>
+                  </h4>
                   <p className="text-slate-600 text-sm md:text-base leading-relaxed">
                     We waive 100% of penal fees under RBI fair lending codes. We negotiate a 40% to 60% principal cut.
                   </p>
@@ -813,10 +813,10 @@ export default function CoimbatoreLoanSettlementPage() {
 
                 {/* Step 5 */}
                 <div className="p-6 rounded-2xl bg-white border border-slate-200 shadow-sm">
-                  <h3 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
+                  <h4 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
                     <span className="w-7 h-7 rounded-lg bg-blue-50 text-[#1F5EFF] font-black text-sm flex items-center justify-center border border-blue-200">5</span>
                     Sanction Letter Forensic Audit &amp; ₹0 NDC Delivery
-                  </h3>
+                  </h4>
                   <p className="text-slate-600 text-sm md:text-base leading-relaxed">
                     We check the bank&apos;s stamped sanction letter before payment. We ensure NDC delivery within 30 days.
                   </p>
@@ -830,7 +830,7 @@ export default function CoimbatoreLoanSettlementPage() {
                 <FileCheck className="w-4 h-4" />
                 <span>7. Settlement Letter Verification</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Sanction Letter Audit &amp; NDC in Coimbatore</h2>
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Sanction Letter Audit &amp; NDC in Coimbatore</h3>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Some recovery agents issue fake settlement letters to take cash. SettleLoans audits every sanction letter. We confirm official bank letterheads, authorized signatures. And complete waiver clauses.
               </p>
@@ -845,7 +845,7 @@ export default function CoimbatoreLoanSettlementPage() {
                 <TrendingUp className="w-4 h-4" />
                 <span>8. Credit Score Rehabilitation</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">CIBIL Rehabilitation in Coimbatore</h2>
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">CIBIL Rehabilitation in Coimbatore</h3>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 After settlement, the bank marks the account as &apos;Settled&apos. with ₹0 dues across CIBIL, Experian, and CRIF. This stops interest adding and ends legal risks.
               </p>
@@ -860,7 +860,7 @@ export default function CoimbatoreLoanSettlementPage() {
                 <Scale className="w-4 h-4" />
                 <span>9. Resolution Strategy Comparison</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Debt Resolution Matrix in Coimbatore</h2>
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Debt Resolution Matrix in Coimbatore</h3>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Compare legal options for resolving overdue loans in Coimbatore:
               </p>
@@ -916,7 +916,7 @@ export default function CoimbatoreLoanSettlementPage() {
                 <ShieldCheck className="w-4 h-4" />
                 <span>10. Specialized Coimbatore Debt Advocacy</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Why Borrowers in Coimbatore &amp; Kongu Region Trust SettleLoans</h2>
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Why Borrowers in Coimbatore &amp; Kongu Region Trust SettleLoans</h3>
               <p className="text-slate-700 leading-relaxed mb-6 text-base md:text-lg">
                 SettleLoans gives you legal debt resolution across Coimbatore, Tirupur, and Salem. We stop agent harassment. We defend court summons. We protect assets under CPC Section 60(1)(c). We negotiate 40% to 60% debt waivers under RBI rules.
               </p>
@@ -934,9 +934,9 @@ export default function CoimbatoreLoanSettlementPage() {
                   <Gavel className="w-4 h-4" />
                   <span>Local Legal Jurisdiction &amp; Legal Aid Directory</span>
                 </div>
-                <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+                <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                   District Courts &amp; DLSA Helpdesk in Coimbatore
-                </h2>
+                </h3>
                 <p className="text-slate-700 leading-relaxed mb-6 text-base">
                   Distressed borrowers facing recovery pressure, arbitration summons, or Section 138 NI Act notices in Coimbatore can access statutory legal defense through the local District Court and District Legal Services Authority (DLSA):
                 </p>
@@ -973,7 +973,7 @@ export default function CoimbatoreLoanSettlementPage() {
                 <HelpCircle className="w-4 h-4" />
                 <span>11. Frequently Asked Questions</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">FAQs: Coimbatore &amp; Tamil Nadu</h2>
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">FAQs: Coimbatore &amp; Tamil Nadu</h3>
 
               <div className="space-y-4">
                 {faqs.map((faq, index) => (
@@ -999,10 +999,10 @@ export default function CoimbatoreLoanSettlementPage() {
 
             {/* Regulatory References & Official Sources Strip */}
             <div className="bg-slate-50 border border-slate-200 rounded-2xl p-6 my-10">
-              <h3 className="text-base font-bold text-slate-900 mb-4 flex items-center gap-2">
+              <h4 className="text-base font-bold text-slate-900 mb-4 flex items-center gap-2">
                 <Landmark className="w-5 h-5 text-[#1F5EFF]" />
                 Official Statutory &amp; Regulatory References
-              </h3>
+              </h4>
               <ul className="space-y-3 text-xs text-slate-600">
                 <li className="flex items-start gap-2">
                   <ExternalLink className="w-4 h-4 text-[#1F5EFF] flex-shrink-0 mt-0.5" />
@@ -1064,10 +1064,10 @@ export default function CoimbatoreLoanSettlementPage() {
 
             {/* Related Guides & Resources Strip (10 Topic Badges) */}
             <div className="bg-slate-50 border border-slate-200 rounded-2xl p-6 my-10">
-              <h3 className="text-base font-bold text-slate-900 mb-4 flex items-center gap-2">
+              <h4 className="text-base font-bold text-slate-900 mb-4 flex items-center gap-2">
                 <BookOpen className="w-5 h-5 text-[#1F5EFF]" />
                 Explore Related Personal &amp; Business Debt Guides
-              </h3>
+              </h4>
               <div className="flex flex-wrap gap-2.5">
                 <Link
                   href="/unsecured-business-loan-settlement"

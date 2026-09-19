@@ -533,9 +533,9 @@ export default function SarfaesiActRulesPersonalLoanExemptionPage() {
 
             {/* Section 2: Statutory Exemption: Section 13(2), Security Interest & Statutory Limits */}
             <section id="statutory-exemption-sections" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                 2. Statutory Architecture: Section 13(2) &amp; Security Interest Defined
-              </h2>
+              </h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 To understand why personal loans are exempt from SARFAESI proceedings, one must review Section 2 and Section 13 of the SARFAESI Act, 2002. Extra-judicial enforcement under the Act requires the existence of a valid Security Interest.
               </p>
@@ -569,9 +569,9 @@ export default function SarfaesiActRulesPersonalLoanExemptionPage() {
 
             {/* Section 3: Recovery Harassment Forensics: Fake Notices & Criminal Intimidation */}
             <section id="recovery-harassment-forensics" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                 3. Recovery Agent Harassment Forensics &amp; Criminal Intimidation
-              </h2>
+              </h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Despite clear statutory law, recovery agencies frequently send notices titled Final Notice under Section 13(2) SARFAESI Act for personal loans.
               </p>
@@ -596,9 +596,9 @@ export default function SarfaesiActRulesPersonalLoanExemptionPage() {
 
             {/* Section 4: Bank Accounting & Provisioning: NPA Timelines & NPV Settlement Formula */}
             <section id="npa-accounting-npv-recovery-formula" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                 4. Bank NPA Accounting &amp; Net Present Value Settlement Formula
-              </h2>
+              </h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Banks manage delinquent personal loans under RBI Prudential Norms on Income Recognition, Asset Classification and Provisioning (IRACP). Defaulted unsecured loans progress through standard delinquency buckets:
               </p>
@@ -676,39 +676,39 @@ export default function SarfaesiActRulesPersonalLoanExemptionPage() {
 
             {/* Section 6: How Lenders Actually Recover Unsecured Debts: Civil Suits & Section 60 CPC */}
             <section id="actual-legal-recovery-channels" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                 6. Actual Legal Recovery Channels: Summary Suits &amp; Section 60 CPC
-              </h2>
+              </h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Since SARFAESI is inapplicable, banks and NBFCs must rely on regular civil and statutory recovery channels for personal loans:
               </p>
 
               <div className="space-y-4 my-4">
                 <div className="p-4 rounded-xl border border-slate-200 bg-white shadow-sm space-y-2">
-                  <h3 className="font-bold text-sm text-slate-900 flex items-center gap-2">
+                  <h4 className="font-bold text-sm text-slate-900 flex items-center gap-2">
                     <Building2 className="w-4 h-4 text-[#1F5EFF]" />
                     <span>Order 37 CPC Summary Civil Suit</span>
-                  </h3>
+                  </h4>
                   <p className="text-xs sm:text-sm text-slate-600 leading-relaxed">
                     Lenders can file a summary suit in Civil Court. However, banks must pay court fees (3% to 7%) and serve summons. Borrowers can apply for Leave to Defend. When advocates show triable issues like improper interest compounding, courts grant leave to defend, converting the case into a regular trial.
                   </p>
                 </div>
 
                 <div className="p-4 rounded-xl border border-slate-200 bg-white shadow-sm space-y-2">
-                  <h3 className="font-bold text-sm text-slate-900 flex items-center gap-2">
+                  <h4 className="font-bold text-sm text-slate-900 flex items-center gap-2">
                     <Landmark className="w-4 h-4 text-[#1F5EFF]" />
                     <span>Section 138 NI Act &amp; Section 25 PASSA</span>
-                  </h3>
+                  </h4>
                   <p className="text-xs sm:text-sm text-slate-600 leading-relaxed">
                     If NACH or ECS auto-debits bounce, lenders may issue notices under Section 25 of the Payment and Settlement Systems Act or Section 138 NI Act. These bailable proceedings require strict 30-day notice compliance and are routinely resolved through Lok Adalat or compromise settlement.
                   </p>
                 </div>
 
                 <div className="p-4 rounded-xl border border-slate-200 bg-white shadow-sm space-y-2">
-                  <h3 className="font-bold text-sm text-slate-900 flex items-center gap-2">
+                  <h4 className="font-bold text-sm text-slate-900 flex items-center gap-2">
                     <Gavel className="w-4 h-4 text-[#1F5EFF]" />
                     <span>Institutional Arbitration Proceedings</span>
-                  </h3>
+                  </h4>
                   <p className="text-xs sm:text-sm text-slate-600 leading-relaxed">
                     Lenders may invoke loan arbitration clauses. However, under Supreme Court rulings in TRF Ltd and Perkins Eastman, unilateral sole arbitrator appointments by banks are void under Section 12(5) of the Arbitration Act. Legal challenges routinely redirect banks toward settlement.
                   </p>
@@ -728,9 +728,9 @@ export default function SarfaesiActRulesPersonalLoanExemptionPage() {
 
             {/* Section 7: Converting Unlawful Recovery Pressure into a Favorable OTS */}
             <section id="strategic-ots-negotiation-framework" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                 7. Converting Recovery Pressure into a Bank-Sanctioned OTS
-              </h2>
+              </h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Recognizing that lending institutions lack SARFAESI enforcement powers and confront extensive procedural barriers in civil recovery rebalances negotiating leverage in favor of the distressed borrower. An advocate-managed One-Time Settlement (OTS) converts high-pressure collection tactics into an institutional compromise through four disciplined milestones:
               </p>
@@ -790,9 +790,9 @@ export default function SarfaesiActRulesPersonalLoanExemptionPage() {
 
             {/* Section 8: Loan Closure Protocols: RBI ₹0 NDC Mandate & CIBIL Bureau Restoration */}
             <section id="rbi-ndc-mandate-cibil-recovery" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                 8. Loan Closure Protocols: RBI NDC Mandate &amp; CIBIL Rehabilitation
-              </h2>
+              </h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Settlement completion requires formal legal closure. Under <strong>RBI Circular RBI/2023-24/60</strong>, banks and NBFCs must issue a formal <strong>No Dues Certificate (NDC) / Loan Closure Letter</strong> and update credit bureaus within <strong>30 calendar days</strong> of final payment.
               </p>
@@ -807,9 +807,9 @@ export default function SarfaesiActRulesPersonalLoanExemptionPage() {
                 </p>
               </div>
 
-              <h3 className="text-base sm:text-lg font-bold text-slate-900 pt-2">
+              <h4 className="text-base sm:text-lg font-bold text-slate-900 pt-2">
                 Understanding CIBIL Bureau Trajectory &amp; Credit Rehabilitation
-              </h3>
+              </h4>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Borrowers must understand credit reporting following compromise settlement:
               </p>
@@ -835,9 +835,9 @@ export default function SarfaesiActRulesPersonalLoanExemptionPage() {
 
             {/* Section 9: Dispute Resolution Comparative Matrix */}
             <section id="comparative-recovery-matrix" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                 9. Dispute Resolution Comparative Matrix: SARFAESI vs Civil Suit vs OTS
-              </h2>
+              </h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Evaluating resolution channels clarifies borrower protections:
               </p>
@@ -897,9 +897,9 @@ export default function SarfaesiActRulesPersonalLoanExemptionPage() {
             {/* Section 10: SettleLoans Legal Defense & Advisory + CompanySection */}
             <section id="settleloans-debt-defense-services" className="space-y-6">
               <div className="border-t border-slate-200 pt-8 space-y-4">
-                <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
+                <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                   10. SettleLoans Legal Defense &amp; Professional Advisory
-                </h2>
+                </h3>
                 <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                   Navigating recovery harassment, fake SARFAESI notices, and unmanageable debt requires specialized advocacy. SettleLoans provides comprehensive defense. We issue legal notices to halt harassment and challenge defective claims in civil forums. Furthermore, we negotiate directly with bank authorities to secure verified One-Time Settlements with deep principal waivers and authentic No Dues Certificates.
                 </p>
@@ -913,9 +913,9 @@ export default function SarfaesiActRulesPersonalLoanExemptionPage() {
             <section id="faqs" className="space-y-4 border-t border-slate-200 pt-8">
               <div className="flex items-center gap-2 mb-2">
                 <HelpCircle className="w-5 h-5 text-[#1F5EFF]" />
-                <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
+                <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                   11. Frequently Asked Questions: SARFAESI Act Rules &amp; Personal Loan Rights
-                </h2>
+                </h3>
               </div>
               <p className="text-xs sm:text-sm text-slate-600 mb-6">
                 Direct, legally verified answers to common questions regarding the SARFAESI Act, property attachment myths, and unsecured debt settlement in India.
@@ -945,9 +945,9 @@ export default function SarfaesiActRulesPersonalLoanExemptionPage() {
 
             {/* 5 Official Regulatory Links */}
             <section className="border-t border-slate-200 pt-8 mb-4">
-              <h3 className="text-xs sm:text-sm font-bold text-slate-900 mb-3 uppercase tracking-wider">
+              <h4 className="text-xs sm:text-sm font-bold text-slate-900 mb-3 uppercase tracking-wider">
                 Official Statutory References
-              </h3>
+              </h4>
               <div className="grid grid-cols-1 sm:grid-cols-2 gap-2.5 text-xs">
                 <a
                   href="https://indiacode.gov.in/handle/123456789/2006"
@@ -999,9 +999,9 @@ export default function SarfaesiActRulesPersonalLoanExemptionPage() {
 
             {/* 10 Related Guide Badges */}
             <section className="border-t border-slate-200 pt-8 mb-8">
-              <h3 className="text-xs sm:text-sm font-bold text-slate-900 mb-4 uppercase tracking-wider">
+              <h4 className="text-xs sm:text-sm font-bold text-slate-900 mb-4 uppercase tracking-wider">
                 Related Legal Defense Guides
-              </h3>
+              </h4>
               <div className="flex flex-wrap gap-2">
                 <Link
                   href="/can-bank-seize-property-for-personal-loan"

@@ -219,11 +219,11 @@ export default function CheckFreeCibilScorePage() {
 
             {/* Blue Important Box */}
             <section id="official-free-report" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 Official CIBIL Report for Free
-              </h2>
+              </h3>
               <div className="bg-blue-50 border-l-8 border-[#1F5EFF] p-8 rounded-r-2xl mb-8">
-                <h3 className="text-xl font-black text-[#1F5EFF] mb-4">RBI Mandate on Free Reports</h3>
+                <h4 className="text-xl font-black text-[#1F5EFF] mb-4">RBI Mandate on Free Reports</h4>
                 <p className="text-lg leading-relaxed mb-6 text-blue-900">
                   According to the Reserve Bank of India (RBI) guidelines, every credit information company (CIC) operating in India is mandated to provide one full free credit report (FFCR) per calendar year to individuals upon request.
                 </p>
@@ -246,19 +246,19 @@ export default function CheckFreeCibilScorePage() {
               {/* 4-Grid Info Boxes */}
               <div className="grid md:grid-cols-2 gap-6 my-8">
                 <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
-                  <h3 className="font-black text-[#1F5EFF] text-lg mb-2">TransUnion CIBIL</h3>
+                  <h4 className="font-black text-[#1F5EFF] text-lg mb-2">TransUnion CIBIL</h4>
                   <p className="text-gray-700">The most widely used credit bureau in India by top banks and NBFCs.</p>
                 </div>
                 <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
-                  <h3 className="font-black text-[#1F5EFF] text-lg mb-2">Experian</h3>
+                  <h4 className="font-black text-[#1F5EFF] text-lg mb-2">Experian</h4>
                   <p className="text-gray-700">Known for fast updates and highly detailed alternative scoring algorithms.</p>
                 </div>
                 <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
-                  <h3 className="font-black text-[#1F5EFF] text-lg mb-2">Equifax</h3>
+                  <h4 className="font-black text-[#1F5EFF] text-lg mb-2">Equifax</h4>
                   <p className="text-gray-700">Offers comprehensive consumer insights and robust dispute resolution mechanisms.</p>
                 </div>
                 <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
-                  <h3 className="font-black text-[#1F5EFF] text-lg mb-2">CRIF High Mark</h3>
+                  <h4 className="font-black text-[#1F5EFF] text-lg mb-2">CRIF High Mark</h4>
                   <p className="text-gray-700">Extensively used in micro-finance and rural banking sectors.</p>
                 </div>
               </div>
@@ -266,9 +266,9 @@ export default function CheckFreeCibilScorePage() {
 
             {/* Numbered Steps */}
             <section id="step-by-step" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 Step-by-Step Guide to Download
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-8">
                 Follow these exact steps to generate your free official TransUnion CIBIL score directly from their website without getting tricked into a paid plan.
               </p>
@@ -279,7 +279,7 @@ export default function CheckFreeCibilScorePage() {
                     1
                   </div>
                   <div>
-                    <h3 className="text-2xl font-bold text-[#2E2E2E] mb-3">Visit Official Website</h3>
+                    <h4 className="text-2xl font-bold text-[#2E2E2E] mb-3">Visit Official Website</h4>
                     <p className="text-lg text-gray-700">
                       Go to the official TransUnion CIBIL website and navigate to the "Free CIBIL Score & Report" section. Avoid third-party domains pretending to be CIBIL.
                     </p>
@@ -291,7 +291,7 @@ export default function CheckFreeCibilScorePage() {
                     2
                   </div>
                   <div>
-                    <h3 className="text-2xl font-bold text-[#2E2E2E] mb-3">Create an Account</h3>
+                    <h4 className="text-2xl font-bold text-[#2E2E2E] mb-3">Create an Account</h4>
                     <p className="text-lg text-gray-700">
                       Enter your basic details including Email ID, Name, Phone Number, and choose an ID type (PAN Card is highly recommended for accurate fetching).
                     </p>
@@ -303,7 +303,7 @@ export default function CheckFreeCibilScorePage() {
                     3
                   </div>
                   <div>
-                    <h3 className="text-2xl font-bold text-[#2E2E2E] mb-3">Verify Identity</h3>
+                    <h4 className="text-2xl font-bold text-[#2E2E2E] mb-3">Verify Identity</h4>
                     <p className="text-lg text-gray-700">
                       You will receive an OTP on your registered mobile number and email. Enter the OTP to securely authenticate your identity.
                     </p>
@@ -315,7 +315,7 @@ export default function CheckFreeCibilScorePage() {
                     4
                   </div>
                   <div>
-                    <h3 className="text-2xl font-bold text-[#2E2E2E] mb-3">Access Dashboard</h3>
+                    <h4 className="text-2xl font-bold text-[#2E2E2E] mb-3">Access Dashboard</h4>
                     <p className="text-lg text-gray-700">
                       Skip any upsell pages asking for premium subscriptions. Proceed to your free dashboard to view your 3-digit score and download the PDF report.
                     </p>
@@ -326,19 +326,19 @@ export default function CheckFreeCibilScorePage() {
 
             {/* Red Warning Box & Gray Insight Box */}
             <section id="no-impact-check" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 Checking Credit Score Without Impact
-              </h2>
+              </h3>
               
               <div className="bg-red-50 p-6 rounded-xl border border-red-100 mb-8">
-                <h3 className="text-xl font-black text-red-700 mb-2">Myth Buster</h3>
+                <h4 className="text-xl font-black text-red-700 mb-2">Myth Buster</h4>
                 <p className="text-lg text-red-900">
                   Many people falsely believe that checking their own credit score lowers it. This is completely false. Checking your own score is considered a 'Soft Inquiry'.
                 </p>
               </div>
 
               <div className="bg-gray-50 p-8 rounded-2xl mb-8 border border-gray-200">
-                <h4 className="text-xl font-black text-gray-800 mb-4">Hard Inquiry vs. Soft Inquiry</h4>
+                <h5 className="text-xl font-black text-gray-800 mb-4">Hard Inquiry vs. Soft Inquiry</h5>
                 <p className="text-lg leading-relaxed text-gray-700 mb-4">
                   <strong>Hard Inquiry:</strong> When a bank or lender checks your score because you applied for a loan or credit card. Multiple hard inquiries in a short time can lower your score.
                 </p>
@@ -350,9 +350,9 @@ export default function CheckFreeCibilScorePage() {
 
             {/* Success Stories */}
             <section id="success-stories" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 Real User Experiences
-              </h2>
+              </h3>
               <div className="grid md:grid-cols-2 gap-6">
                 <div className="bg-white p-8 rounded-[30px] border border-[#DEDEDE] shadow-sm hover:shadow-xl group transition-all">
                   <div className="flex items-center gap-4 mb-6">
@@ -360,7 +360,7 @@ export default function CheckFreeCibilScorePage() {
                       RK
                     </div>
                     <div>
-                      <h3 className="font-bold text-gray-900">Rahul K.</h3>
+                      <h4 className="font-bold text-gray-900">Rahul K.</h4>
                       <div className="flex text-yellow-400">
                         <svg className="w-4 h-4 fill-current" viewBox="0 0 20 20"><path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z"/></svg>
                         <svg className="w-4 h-4 fill-current" viewBox="0 0 20 20"><path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z"/></svg>
@@ -383,7 +383,7 @@ export default function CheckFreeCibilScorePage() {
                       SM
                     </div>
                     <div>
-                      <h4 className="font-bold text-gray-900">Sneha M.</h4>
+                      <h5 className="font-bold text-gray-900">Sneha M.</h5>
                       <div className="flex text-yellow-400">
                         <svg className="w-4 h-4 fill-current" viewBox="0 0 20 20"><path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z"/></svg>
                         <svg className="w-4 h-4 fill-current" viewBox="0 0 20 20"><path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z"/></svg>
@@ -404,9 +404,9 @@ export default function CheckFreeCibilScorePage() {
 
             {/* FAQs */}
             <section id="faqs" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 Frequently Asked Questions
-              </h2>
+              </h3>
               <div className="space-y-4">
                 {[
                   { q: "Is it really free to check my CIBIL score?", a: "Yes, by law, you are entitled to one free detailed credit report from CIBIL every year. Several third-party platforms also offer free checks using a soft inquiry." },
@@ -416,7 +416,7 @@ export default function CheckFreeCibilScorePage() {
                   { q: "Can I check my CIBIL score using my PAN card?", a: "Yes, a PAN card is typically required by credit bureaus to uniquely identify you and fetch your credit history." }
                 ].map((faq, i) => (
                   <div key={i} className="bg-white border border-[#DEDEDE] rounded-xl p-6 hover:shadow-md transition-shadow">
-                    <h3 className="text-lg font-bold text-[#2E2E2E] mb-3">{faq.q}</h3>
+                    <h4 className="text-lg font-bold text-[#2E2E2E] mb-3">{faq.q}</h4>
                     <p className="text-gray-700">{faq.a}</p>
                   </div>
                 ))}
@@ -427,7 +427,7 @@ export default function CheckFreeCibilScorePage() {
             <div className="bg-[#2E2E2E] text-white p-12 rounded-[40px] text-center mt-24 relative overflow-hidden group">
               <div className="absolute inset-0 bg-[#1F5EFF] opacity-0 group-hover:opacity-5 transition-opacity duration-500"></div>
               <div className="relative z-10">
-                <h3 className="text-3xl md:text-5xl font-black mb-6 text-white">Need Help Fixing Your Credit?</h3>
+                <h4 className="text-3xl md:text-5xl font-black mb-6 text-white">Need Help Fixing Your Credit?</h4>
                 <p className="text-xl text-gray-300 mb-8 max-w-2xl mx-auto leading-relaxed">
                   Have defaults, late payments, or settlement remarks ruining your CIBIL score? Let our legal experts help you remove negative marks legally.
                 </p>

@@ -6,7 +6,7 @@ import React from 'react';
 const processItems = [
   {
     icon: "/handshake.png",
-    title: "Direct Lender Negotiation",
+    title: "Direct Lender talks",
     description: "We engage directly with banks and recovery teams to craft settlement terms tailored to your case."
   },
   {
@@ -40,12 +40,12 @@ export default function ProcessSection() {
           {/* Left Column */}
           <div className="flex flex-col space-y-8 md:sticky md:top-24">
             <div className="space-y-6">
-              <h2 
+              <h3 
                 className="font-black leading-[1.1] tracking-tight text-[#DEDEDE] text-[clamp(35px,5vh,50px)] sm:text-[clamp(40px,6vh,60px)] md:text-[clamp(50px,7.5vh,75px)] transition-all duration-700 ease-in-out"
                 style={{ fontFamily: 'var(--font-satoshi), Satoshi, sans-serif' }}
               >
                 Settlement, <br /> Backed by Process
-              </h2>
+              </h3>
               <p 
                 className="font-normal leading-[1.07] text-[#DEDEDE] text-[clamp(18px,2.5vh,22px)] md:text-[clamp(22px,3vh,27px)] transition-opacity duration-700"
                 style={{ fontFamily: 'var(--font-satoshi), Satoshi, sans-serif' }}

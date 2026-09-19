@@ -275,7 +275,7 @@ export default function LoanDefaultNoticePage() {
                         </section>
 
                         <section id="understanding-default" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl font-black mb-6">What is a Notice for Loan Default?</h2>
+                            <h3 className="text-3xl font-black mb-6">What is a Notice for Loan Default?</h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 In the context of Indian banking and the SARFAESI (Securitisation and Reconstruction of Financial Assets and Enforcement of Security Interest) Act, 2002, a default notice is a formal legal demand issued by a secured creditor (a bank or NBFC). It is only issued once an account has officially been classified as a Non-Performing Asset (NPA).
                             </p>
@@ -291,7 +291,7 @@ export default function LoanDefaultNoticePage() {
                                         <FontAwesomeIcon icon={faFileLines} className="text-blue-600" />
                                     </div>
                                     <div>
-                                        <h3 className="font-black text-blue-900 mb-1">13(2) Demand</h3>
+                                        <h4 className="font-black text-blue-900 mb-1">13(2) Demand</h4>
                                         <p className="text-sm text-blue-800/80">The 60-day final warning. This is your chance to raise legal objections and stop the clock.</p>
                                     </div>
                                 </div>
@@ -300,7 +300,7 @@ export default function LoanDefaultNoticePage() {
                                         <FontAwesomeIcon icon={faGavel} className="text-red-600" />
                                     </div>
                                     <div>
-                                        <h3 className="font-black text-red-900 mb-1">13(4) Possession</h3>
+                                        <h4 className="font-black text-red-900 mb-1">13(4) Possession</h4>
                                         <p className="text-sm text-red-800/80">The bank takes control. The next step is usually an auction notice for your property.</p>
                                     </div>
                                 </div>
@@ -308,36 +308,36 @@ export default function LoanDefaultNoticePage() {
                         </section>
 
                         <section id="sarfaesi-timeline" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl font-black mb-6">The SARFAESI Legal Timeline: Know Your Windows</h2>
+                            <h3 className="text-3xl font-black mb-6">The SARFAESI Legal Timeline: Know Your Windows</h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 The SARFAESI Act is a fast-track recovery law. Unlike civil suits which can take a decade, SARFAESI actions move with lightning speed. Understanding the windows of opportunity is the difference between a successful defense and losing your property. The timeline starts the moment your account is marked as an NPA (usually after 90 days of non-payment).
                             </p>
                             <ul className="space-y-6 mb-12">
                                 <li className="relative pl-8 before:content-[''] before:absolute before:left-0 before:top-4 before:w-4 before:h-4 before:bg-[#1F5EFF] before:rounded-full">
-                                    <h3 className="font-black text-xl mb-1">Day 0: NPA Classification</h3>
+                                    <h4 className="font-black text-xl mb-1">Day 0: NPA Classification</h4>
                                     <p className="text-lg text-gray-600">The bank marks your account as an NPA. All further legal actions stem from this date.</p>
                                 </li>
                                 <li className="relative pl-8 before:content-[''] before:absolute before:left-0 before:top-4 before:w-4 before:h-4 before:bg-[#1F5EFF] before:rounded-full">
-                                    <h4 className="font-black text-xl mb-1">Day 1+: Section 13(2) Notice</h4>
+                                    <h5 className="font-black text-xl mb-1">Day 1+: Section 13(2) Notice</h5>
                                     <p className="text-lg text-gray-600">The bank issues the 60-day demand notice. You now have two months to act.</p>
                                 </li>
                                 <li className="relative pl-8 before:content-[''] before:absolute before:left-0 before:top-4 before:w-4 before:h-4 before:bg-[#1F5EFF] before:rounded-full">
-                                    <h4 className="font-black text-xl mb-1">Day 1-60: Objections & Representation</h4>
+                                    <h5 className="font-black text-xl mb-1">Day 1-60: Objections & Representation</h5>
                                     <p className="text-lg text-gray-600">You must file your 13(3A) representation. The bank has 15 days to reply to you after receiving it.</p>
                                 </li>
                                 <li className="relative pl-8 before:content-[''] before:absolute before:left-0 before:top-4 before:w-4 before:h-4 before:bg-[#1F5EFF] before:rounded-full">
-                                    <h4 className="font-black text-xl mb-1">Day 61+: Section 13(4) Measures</h4>
+                                    <h5 className="font-black text-xl mb-1">Day 61+: Section 13(4) Measures</h5>
                                     <p className="text-lg text-gray-600">If you haven't paid or obtained a stay, the bank takes possession. You have 45 days from this date to file an S.A. in the DRT.</p>
                                 </li>
                                 <li className="relative pl-8 before:content-[''] before:absolute before:left-0 before:top-4 before:w-4 before:h-4 before:bg-[#1F5EFF] before:rounded-full">
-                                    <h4 className="font-black text-xl mb-1">Possession to Auction: Sale Notice</h4>
+                                    <h5 className="font-black text-xl mb-1">Possession to Auction: Sale Notice</h5>
                                     <p className="text-lg text-gray-600">The bank must give a 30-day notice before the first auction (15 days for subsequent auctions).</p>
                                 </li>
                             </ul>
                         </section>
 
                         <section id="13-2-demand-notice" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl font-black mb-6">Deep Dive: The Section 13(2) Demand Notice</h2>
+                            <h3 className="text-3xl font-black mb-6">Deep Dive: The Section 13(2) Demand Notice</h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 Section 13(2) is the bank's way of saying "pay up or else." It is a statutory demand that must contain specific information to be valid. It must detail the exact amount of debt, the rate of interest, and a clear description of the secured assets. Most importantly, it must inform the borrower that the bank intends to enforce its security interest under Section 13(4) if the payment isn't made.
                             </p>
@@ -350,7 +350,7 @@ export default function LoanDefaultNoticePage() {
                         </section>
 
                         <section id="13-3a-representation" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl font-black mb-6 leading-tight">Your Right of Representation: Section 13(3A)</h2>
+                            <h3 className="text-3xl font-black mb-6 leading-tight">Your Right of Representation: Section 13(3A)</h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 Section 13(3A) is a powerful borrower protection that many banks try to downplay. It gives you the right to submit a formal letter of objections to the bank after receiving the 13(2) notice. This is not just a plea for more time; it is a legal challenge where you can point out errors in their accounting, the illegality of the NPA classification, or the failure of the initial bank to follow RBI guidelines.
                             </p>
@@ -361,7 +361,7 @@ export default function LoanDefaultNoticePage() {
                                 In the DRT, we use the bank's failure to provide a proper 13(3A) reply as a primary ground to set aside their subsequent possession notice. The Supreme Court has repeatedly held that this internal "restraint" by the bank is a vital part of natural justice. Without a proper reply, the bank hasn't earned the right to proceed with recovery.
                             </p>
                             <div className="bg-slate-50 border-l-4 border-[#1F5EFF] p-8 my-8 font-sans">
-                                <h3 className="text-xl font-bold mb-4">What to include in your 13(3A) Letter:</h3>
+                                <h4 className="text-xl font-bold mb-4">What to include in your 13(3A) Letter:</h4>
                                 <ul className="space-y-4">
                                     <li className="flex items-start gap-2"><span className="text-[#1F5EFF] font-bold">✓</span> Disputing the NPA Date (Did they classify too early?)</li>
                                     <li className="flex items-start gap-2"><span className="text-[#1F5EFF] font-bold">✓</span> Challenging Interest Compounding (Penal interest issues)</li>
@@ -372,7 +372,7 @@ export default function LoanDefaultNoticePage() {
                         </section>
 
                         <section id="13-4-possession-notice" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl font-black mb-6">The 13(4) Possession Notice: Taking Control</h2>
+                            <h3 className="text-3xl font-black mb-6">The 13(4) Possession Notice: Taking Control</h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 If the 60-day period expires and the bank isn't satisfied with your reply (or if you didn't send one), they will issue a notice under Section 13(4). This is the "taking possession" notice. It is usually published in two newspapers and pinned to the property itself. At this stage, the bank takes "symbolic possession."
                             </p>
@@ -385,7 +385,7 @@ export default function LoanDefaultNoticePage() {
                         </section>
 
                         <section id="property-auction-defense" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl font-black mb-6">Defending Against Property Auction</h2>
+                            <h3 className="text-3xl font-black mb-6">Defending Against Property Auction</h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 The ultimate goal of a default notice is to sell your property via auction to recover the loan. But the bank cannot just hold an auction whenever they want. They must follow the Security Interest (Enforcement) Rules, 2002, to the letter. This includes getting a proper valuation from a government registered valuer and giving you a mandatory 30-day "Sale Notice."
                             </p>
@@ -398,7 +398,7 @@ export default function LoanDefaultNoticePage() {
                         </section>
 
                         <section id="section-14-magistrate" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl font-black mb-6 leading-tight">Section 14: The Magistrate's Order</h2>
+                            <h3 className="text-3xl font-black mb-6 leading-tight">Section 14: The Magistrate's Order</h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 While the bank can take symbolic possession themselves, they cannot physically throw you out without help. For "physical possession," they must apply to the District Magistrate (DM) or Chief Metropolitan Magistrate (CMM) under Section 14 of the SARFAESI Act. The Magistrate then orders a subordinate officer to take possession of the property and hand it over to the bank.
                             </p>
@@ -411,7 +411,7 @@ export default function LoanDefaultNoticePage() {
                         </section>
 
                         <section id="right-of-redemption" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl font-black mb-6">The Right of Redemption: Your Last Hope</h2>
+                            <h3 className="text-3xl font-black mb-6">The Right of Redemption: Your Last Hope</h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 One of the most important concepts in mortgage law is the "Equity of Redemption." This is incorporated into Section 13(8) of the SARFAESI Act. It basically states that you have an absolute right to get your property back by paying the full outstanding amount, interest, and costs at any point before the auction sale is finalized.
                             </p>
@@ -424,7 +424,7 @@ export default function LoanDefaultNoticePage() {
                         </section>
 
                         <section id="drt-section-17-appeal" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl font-black mb-6 leading-tight">Navigating Section 17 Appeal in DRT</h2>
+                            <h3 className="text-3xl font-black mb-6 leading-tight">Navigating Section 17 Appeal in DRT</h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 Section 17 is the primary legal remedy for a borrower under the SARFAESI Act. It is technically an "application" but functions like an appeal against the bank's recovery measures. You can file this after the 13(4) notice. The DRT has the power to restore your possession and even award damages if it finds the bank acted illegally.
                             </p>
@@ -435,7 +435,7 @@ export default function LoanDefaultNoticePage() {
                                 A common tactic we use is to highlight the "failure to consider representation" or "improper publication of notices." These are objective, factual errors that the Tribunal cannot ignore. If we can prove even one such error, the bank's entire recovery measure is set aside, and they have to start the whole process again from zero. This reset is your greatest leverage.
                             </p>
                             <div className="bg-[#1F5EFF] p-10 rounded-3xl text-white mb-10 shadow-xl">
-                                <h3 className="text-2xl font-black mb-4">DRT S.A. Checklist</h3>
+                                <h4 className="text-2xl font-black mb-4">DRT S.A. Checklist</h4>
                                 <div className="grid md:grid-cols-2 gap-y-3 gap-x-8 text-sm opacity-90">
                                     <li>• File within 45 days of 13(4)</li>
                                     <li>• Include all 13(2) and 13(4) copies</li>
@@ -448,7 +448,7 @@ export default function LoanDefaultNoticePage() {
                         </section>
 
                         <section id="procedural-irregularities" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl font-black mb-6">Common Procedural Irregularities by Banks</h2>
+                            <h3 className="text-3xl font-black mb-6">Common Procedural Irregularities by Banks</h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 Banks are large machines, and sometimes the cogs don't turn right. In their rush to meet recovery targets, bank officers often cut corners. These shortcuts are procedural irregularities that a skilled defense lawyer will exploit. If a bank doesn't follow its own internal credit policy, it can be a ground for challenging the notice.
                             </p>
@@ -456,28 +456,28 @@ export default function LoanDefaultNoticePage() {
                                 <li className="p-5 bg-gray-50 rounded-xl flex gap-3">
                                     <span className="text-[#1F5EFF] text-xl font-bold">01.</span>
                                     <div>
-                                        <h3 className="font-bold">Missing Newspaper Pubs</h3>
+                                        <h4 className="font-bold">Missing Newspaper Pubs</h4>
                                         <p className="text-sm opacity-70">Failure to publish notices in two leading newspapers (one in vernacular language).</p>
                                     </div>
                                 </li>
                                 <li className="p-5 bg-gray-50 rounded-xl flex gap-3">
                                     <span className="text-[#1F5EFF] text-xl font-bold">02.</span>
                                     <div>
-                                        <h4 className="font-bold">Incorrect Description</h4>
+                                        <h5 className="font-bold">Incorrect Description</h5>
                                         <p className="text-sm opacity-70">Describing the wrong property or missing significant portions of the mortgage.</p>
                                     </div>
                                 </li>
                                 <li className="p-5 bg-gray-50 rounded-xl flex gap-3">
                                     <span className="text-[#1F5EFF] text-xl font-bold">03.</span>
                                     <div>
-                                        <h5 className="font-bold">Unsigned Notices</h5>
+                                        <h6 className="font-bold">Unsigned Notices</h6>
                                         <p className="text-sm opacity-70">Notices not signed by an "Authorized Officer" as defined by the rules.</p>
                                     </div>
                                 </li>
                                 <li className="p-5 bg-gray-50 rounded-xl flex gap-3">
                                     <span className="text-[#1F5EFF] text-xl font-bold">04.</span>
                                     <div>
-                                        <h5 className="font-bold">Premature 13(4)</h5>
+                                        <h6 className="font-bold">Premature 13(4)</h6>
                                         <p className="text-sm opacity-70">Issuing a possession notice before the 60 days of the demand notice are over.</p>
                                     </div>
                                 </li>
@@ -485,7 +485,7 @@ export default function LoanDefaultNoticePage() {
                         </section>
 
                         <section id="stay-order-strategies" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl font-black mb-6">Strategies for Obtaining a DRT Stay Order</h2>
+                            <h3 className="text-3xl font-black mb-6">Strategies for Obtaining a DRT Stay Order</h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 A stay order is our primary goal. It is an interim injunction that freezes the bank's action while the case is being heard. To get a stay in the DRT, we must convince the Judge that there is a "prima facie case" of illegality. We focus on objective errors like missing notices or wrong NPA classification.
                             </p>
@@ -498,7 +498,7 @@ export default function LoanDefaultNoticePage() {
                         </section>
 
                         <section id="lawyer-defense-role" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl font-black mb-6 leading-tight">The Role of an Expert Default Defense Lawyer</h2>
+                            <h3 className="text-3xl font-black mb-6 leading-tight">The Role of an Expert Default Defense Lawyer</h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 Facing a bank's legal team alone is a recipe for disaster. Banks hire specialized firms who know every trick in the book. You need a defender who not only knows the law but also knows the local DRT's working practices. At SettleLoans, we bring a level of expertise that turns "hopeless" cases into strategic victories.
                             </p>
@@ -511,7 +511,7 @@ export default function LoanDefaultNoticePage() {
                         </section>
 
                         <section id="negotiating-ots" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl font-black mb-6">Negotiating One-Time Settlements (OTS)</h2>
+                            <h3 className="text-3xl font-black mb-6">Negotiating One-Time Settlements (OTS)</h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 A One-Time Settlement is often the best exit strategy. It allows you to pay a lump sum that is less than the total dues and have the loan account closed. Banks are often happy to take an OTS because it gives them immediate cash and eliminates the risk and expense of a long DRT battle.
                             </p>
@@ -524,7 +524,7 @@ export default function LoanDefaultNoticePage() {
                         </section>
 
                         <section id="success-stories" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-5xl font-black text-center mb-16">Real Relief: Success Stories</h2>
+                            <h3 className="text-3xl md:text-5xl font-black text-center mb-16">Real Relief: Success Stories</h3>
                             <div className="grid md:grid-cols-2 gap-8">
                                 {[
                                     {
@@ -562,7 +562,7 @@ export default function LoanDefaultNoticePage() {
                                                 {story.name.charAt(0)}
                                             </div>
                                             <div>
-                                                <h3 className="text-xl font-bold">{story.name}</h3>
+                                                <h4 className="text-xl font-bold">{story.name}</h4>
                                                 <p className="text-xs text-gray-400">{story.loc}</p>
                                             </div>
                                             <div className="ml-auto text-yellow-400 text-sm">★★★★★</div>
@@ -576,7 +576,7 @@ export default function LoanDefaultNoticePage() {
                         </section>
 
                         <section id="conclusion" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl font-black mb-6">Take Action Today: Your Home, Your Business, Your Future.</h2>
+                            <h3 className="text-3xl font-black mb-6">Take Action Today: Your Home, Your Business, Your Future.</h3>
                             <p className="text-xl leading-relaxed mb-6">
                                 A notice for loan default is a legal battle, not a moral judgment. You have the right to fight for your property, and you have the right to a fair legal process. The worst thing you can do is wait. Every day of delay gives the bank more power over your life.
                             </p>
@@ -585,7 +585,7 @@ export default function LoanDefaultNoticePage() {
                             </p>
                             <div className="bg-[#1F5EFF] rounded-3xl p-12 text-center text-white shadow-2xl relative overflow-hidden">
                                 <div className="absolute top-0 right-0 w-64 h-64 bg-white/10 rounded-full -mr-32 -mt-32"></div>
-                                <h3 className="text-4xl font-black mb-6 relative z-10">Don't Let the Bank Win</h3>
+                                <h4 className="text-4xl font-black mb-6 relative z-10">Don't Let the Bank Win</h4>
                                 <p className="text-xl mb-10 opacity-90 relative z-10">Thousands of borrowers have saved their properties. You can too.</p>
                                 <Link href="/contact" className="inline-block bg-white text-[#1F5EFF] font-black py-4 px-12 rounded-xl text-xl hover:scale-105 transition-all shadow-xl relative z-10">
                                     Book Free Notice Review
@@ -594,7 +594,7 @@ export default function LoanDefaultNoticePage() {
                         </section>
 
                         <section id="faqs" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 text-center">Notice for Loan Default: Frequently Asked Questions</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 text-center">Notice for Loan Default: Frequently Asked Questions</h3>
                             <div className="space-y-4">
                                 {[
                                     {
@@ -665,7 +665,7 @@ export default function LoanDefaultNoticePage() {
                         <div className="lg:hidden mt-16 mb-8">
                             <div className="bg-[#2E2E2E] rounded-2xl shadow-xl overflow-hidden border border-[#1F5EFF]/20">
                                 <div className="bg-[#1F5EFF] p-6 text-center text-white">
-                                    <h3 className="text-2xl font-black mb-2">Notice Deadline?</h3>
+                                    <h4 className="text-2xl font-black mb-2">Notice Deadline?</h4>
                                     <p className="opacity-90 text-sm">Every minute matters. Speak with a SARFAESI defense expert within the next hour.</p>
                                 </div>
                                 <div className="p-8 text-center text-[#DEDEDE]">

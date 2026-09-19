@@ -372,9 +372,9 @@ export default function CaseStudyHdfcClient() {
 
             {/* Section 2: HDFC Bank NPA Provisioning Rules */}
             <section id="banking-accounting-npa-provisioning" className="mb-10 scroll-mt-24">
-              <h2 className="text-xl md:text-2xl lg:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h3 className="text-xl md:text-2xl lg:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 2. Behind HDFC Bank&apos;s Ledger: NPA Provisioning &amp; Balance Sheet Mechanics
-              </h2>
+              </h3>
               <p className="text-slate-700 leading-relaxed mb-4">
                 To understand why India&apos;s largest private sector lender agreed to forgive ₹4.8 Lakhs of principal and 100% of accumulated penal charges, one must analyze HDFC Bank&apos;s regulatory accounting obligations under the <em>Reserve Bank of India (Prudential Norms on Income Recognition, Asset Classification and Provisioning pertaining to Advances) Directions</em>.
               </p>
@@ -432,9 +432,9 @@ export default function CaseStudyHdfcClient() {
 
             {/* Section 3: Hardship Dossier & NPV Valuation */}
             <section id="hardship-audit-npv-valuation" className="mb-10 scroll-mt-24">
-              <h2 className="text-xl md:text-2xl lg:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h3 className="text-xl md:text-2xl lg:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 3. The Financial Dossier: Hardship Documentation &amp; NPV Recovery Formula
-              </h2>
+              </h3>
               <p className="text-slate-700 leading-relaxed mb-4">
                 Banks do not grant massive loan waivers out of benevolence. Under HDFC Bank&apos;s internal Board-approved Compromise Settlement Policy, debt haircuts are strictly conditional upon empirical proof of financial distress and rigorous mathematical evaluation. The bank must establish that the borrower is not a &apos;willful defaulter&apos; possessing hidden liquid resources or unencumbered assets.
               </p>
@@ -469,9 +469,9 @@ export default function CaseStudyHdfcClient() {
 
             {/* Section 4: Anti-Harassment & Legal Notices */}
             <section id="recovery-containment-legal-defense" className="mb-10 scroll-mt-24">
-              <h2 className="text-xl md:text-2xl lg:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h3 className="text-xl md:text-2xl lg:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 4. Cease-and-Desist Defense: Countering Aggressive Recovery &amp; Legal Notices
-              </h2>
+              </h3>
               <p className="text-slate-700 leading-relaxed mb-4">
                 Prior to engaging professional representation, Rahul endured acute psychological distress caused by aggressive third-party collection agencies empaneled by HDFC Bank. Field agents made unannounced visits to his residential apartment complex, contacted former colleagues listed as alternate references, and placed dozens of harassing phone calls daily outside statutory calling hours.
               </p>
@@ -500,9 +500,9 @@ export default function CaseStudyHdfcClient() {
                         <span className="text-[10px] font-black uppercase tracking-widest text-blue-300 block">
                           Legal Defense &amp; Action Blueprint
                         </span>
-                        <h3 className="text-sm md:text-base font-black text-white leading-tight">
+                        <h4 className="text-sm md:text-base font-black text-white leading-tight">
                           HDFC Personal Loan Settlement: ₹8L to ₹3.2L Case Study
-                        </h3>
+                        </h4>
                       </div>
                     </div>
                     <a
@@ -546,9 +546,9 @@ export default function CaseStudyHdfcClient() {
 
             {/* Section 6: Negotiating the 60% Haircut with SARB */}
             <section id="sarb-negotiation-haircut-breakdown" className="mb-10 scroll-mt-24">
-              <h2 className="text-xl md:text-2xl lg:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h3 className="text-xl md:text-2xl lg:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 6. The Settlement Table: Negotiating the 60% Haircut with HDFC SARB Committee
-              </h2>
+              </h3>
               <p className="text-slate-700 leading-relaxed mb-4">
                 Negotiating an authentic debt settlement with HDFC Bank requires direct engagement with authorized decision-makers. Front-line branch managers and collection agency tele-callers possess zero statutory power under HDFC&apos;s <em>Delegation of Financial Powers (DoFP)</em> matrix to sanction principal waivers.
               </p>
@@ -611,9 +611,9 @@ export default function CaseStudyHdfcClient() {
 
             {/* Section 7: Sanction Letter Forensics & Safe Payment */}
             <section id="sanction-letter-forensics-payment" className="mb-10 scroll-mt-24">
-              <h2 className="text-xl md:text-2xl lg:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h3 className="text-xl md:text-2xl lg:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 7. Sanction Letter Forensics: 5 Critical Clauses &amp; Safe Payment Protocol
-              </h2>
+              </h3>
               <p className="text-slate-700 leading-relaxed mb-4">
                 Before remitting a single rupee, SettleLoans conducted a stringent forensic legal audit of the compromise document provided by HDFC Bank. Over 30% of self-negotiated settlements collapse or lead to fraud because borrowers make payments based on verbal promises or unofficial letters issued by unauthorized collection agency personnel.
               </p>
@@ -630,9 +630,9 @@ export default function CaseStudyHdfcClient() {
 
             {/* Section 8: ₹0 NDC & CIBIL Rehabilitation */}
             <section id="no-dues-certificate-cibil-trajectory" className="mb-10 scroll-mt-24">
-              <h2 className="text-xl md:text-2xl lg:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h3 className="text-xl md:text-2xl lg:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 8. The ₹0 No Dues Certificate &amp; 24-Month CIBIL Score Reconstruction
-              </h2>
+              </h3>
               <p className="text-slate-700 leading-relaxed mb-4">
                 Under <strong>RBI Circular RBI/2023-24/60</strong> (<em>Release of Movable/Immovable Property Documents and Issue of No Dues Certificate on Repayment/Settlement of Personal Loans</em>), regulated lenders must issue a formal No Dues Certificate (NDC) and update credit information companies (CICs) within 30 calendar days of final settlement payment.
               </p>
@@ -652,9 +652,9 @@ export default function CaseStudyHdfcClient() {
 
             {/* Section 9: Comparative Resolution Matrix */}
             <section id="ots-vs-litigation-comparative-matrix" className="mb-10 scroll-mt-24">
-              <h2 className="text-xl md:text-2xl lg:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h3 className="text-xl md:text-2xl lg:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 9. Comparative Resolution Avenues: OTS Settlement vs. Litigation vs. Lok Adalat
-              </h2>
+              </h3>
               <p className="text-slate-700 leading-relaxed mb-4">
                 When faced with insurmountable personal loan debt, borrowers must evaluate the strategic trade-offs across available institutional resolution mechanisms in India:
               </p>
@@ -721,9 +721,9 @@ export default function CaseStudyHdfcClient() {
                   <HelpCircle className="w-3.5 h-3.5" />
                   <span>Frequently Asked Questions</span>
                 </div>
-                <h2 className="text-2xl sm:text-3xl font-black text-slate-900 leading-tight">
+                <h3 className="text-2xl sm:text-3xl font-black text-slate-900 leading-tight">
                   Everything You Need to Know About HDFC Loan Settlements
-                </h2>
+                </h3>
                 <p className="text-sm text-slate-600 mt-2">
                   Clear, authoritative legal answers regarding HDFC Bank personal loan settlements, debt haircuts, recovery rights, and credit repair.
                 </p>
@@ -744,10 +744,10 @@ export default function CaseStudyHdfcClient() {
 
             {/* Regulatory & Institutional Sources Strip (5 Official Links) */}
             <div className="bg-slate-50 border border-slate-200 rounded-2xl p-6 my-10 text-xs text-slate-700">
-              <h3 className="text-sm font-bold text-slate-900 mb-3 flex items-center gap-2">
+              <h4 className="text-sm font-bold text-slate-900 mb-3 flex items-center gap-2">
                 <Landmark className="w-4 h-4 text-[#1F5EFF]" />
                 Official Statutory Authorities &amp; Regulatory Frameworks
-              </h3>
+              </h4>
               <ul className="space-y-2.5">
                 <li className="flex items-start gap-2">
                   <ExternalLink className="w-4 h-4 text-[#1F5EFF] flex-shrink-0 mt-0.5" />
@@ -809,10 +809,10 @@ export default function CaseStudyHdfcClient() {
 
             {/* Related Guides & Resources Strip (10 Topic Badges) */}
             <div className="bg-slate-50 border border-slate-200 rounded-2xl p-6 my-10">
-              <h3 className="text-base font-bold text-slate-900 mb-4 flex items-center gap-2">
+              <h4 className="text-base font-bold text-slate-900 mb-4 flex items-center gap-2">
                 <BookOpen className="w-5 h-5 text-[#1F5EFF]" />
                 Explore Related Banking &amp; Debt Resolution Guides
-              </h3>
+              </h4>
               <div className="flex flex-wrap gap-2.5">
                 <Link
                   href="/hdfc-personal-loan-settlement"

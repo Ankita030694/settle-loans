@@ -275,9 +275,9 @@ export default function StartupLoanLegalAdvisoryPage() {
                         </section>
 
                         <section id="startup-funding-india" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
                                 The Startup Funding Landscape in India
-                            </h2>
+                            </h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 India has emerged as the third largest startup ecosystem in the world, and with this growth has come a diverse array of funding options. While traditional bank loans were once the only choice, today's founders can access venture capital, angel investors, family offices, venture debt, and various government initiatives. Each source of capital comes with its own set of legal rules, expectations, and risk profiles.
                             </p>
@@ -288,7 +288,7 @@ export default function StartupLoanLegalAdvisoryPage() {
                                 Our legal advisory services involve a deep dive into your startup's business model to identify the most suitable funding avenues. we ensure that you are not just getting capital, but 'smart capital' that aligns with your long term vision. We assist in evaluating different term sheets and loan proposals, highlighting the hidden legal risks that could impact your future exit strategy or follow-on funding rounds.
                             </p>
                             <div className="bg-gray-50 p-8 rounded-xl border border-gray-200 mb-8">
-                                <h3 className="text-xl font-bold mb-6">Navigating Different Stages of Startup Funding</h3>
+                                <h4 className="text-xl font-bold mb-6">Navigating Different Stages of Startup Funding</h4>
                                 <p className="mb-4 text-sm text-gray-600">
                                     Each stage of a startup's life requires a different legal approach to funding. What works for a pre-seed ideation phase will not suffice for a Series B growth phase.
                                 </p>
@@ -325,9 +325,9 @@ export default function StartupLoanLegalAdvisoryPage() {
                         </section>
 
                         <section id="legal-compliance-funding" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
                                 Crucial Legal Compliance for Startup Funding
-                            </h2>
+                            </h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 Compliance is not a one-time event; it is a continuous process that safeguards your startup's legal standing. For Indian startups, the primary regulatory bodies include the Registrar of Companies (ROC), the Reserve Bank of India (RBI), and the Securities and Exchange Board of India (SEBI). Failing to meet the compliance standards of any of these bodies can lead to heavy penalties, legal notices, and roadblocks during due diligence by future investors.
                             </p>
@@ -338,7 +338,7 @@ export default function StartupLoanLegalAdvisoryPage() {
                                 Our role is to act as your shield against compliance failures. We conduct regular internal audits of your legal documents to ensure that everything is in order. We believe that 'an ounce of prevention is worth a pound of cure'. By maintaining a high standard of compliance from day one, you build a reputation for transparency and reliability that makes you highly attractive to top-tier lenders and investors.
                             </p>
                             <div className="bg-blue-50 p-8 rounded-xl border border-blue-200 mb-8">
-                                <h3 className="text-xl font-bold mb-4 text-blue-900">The Power of Clean Due Diligence</h3>
+                                <h4 className="text-xl font-bold mb-4 text-blue-900">The Power of Clean Due Diligence</h4>
                                 <p className="text-sm text-blue-800 leading-relaxed mb-4">
                                     Every serious lender or investor will perform a 'Due Diligence' (DD) on your startup before releasing funds. This is a rigorous check of your corporate history, IP ownership, labor law compliance, and tax filings.
                                 </p>
@@ -351,28 +351,28 @@ export default function StartupLoanLegalAdvisoryPage() {
                                     <div className="w-12 h-12 bg-blue-100 rounded-full flex items-center justify-center mx-auto mb-4">
                                         <svg className="w-6 h-6 text-blue-600" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M12 8c-1.657 0-3 .895-3 2s1.343 2 3 2 3 .895 3 2-1.343 2-3 2m0-8c1.11 0 2.08.402 2.599 1M12 8V7m0 1v8m0 0v1m0-1c-1.11 0-2.08-.402-2.599-1M21 12a9 9 0 11-18 0 9 9 0 0118 0z"></path></svg>
                                     </div>
-                                    <h4 className="font-bold text-[#2E2E2E] mb-2">ROC Filings</h4>
+                                    <h5 className="font-bold text-[#2E2E2E] mb-2">ROC Filings</h5>
                                     <p className="text-xs text-gray-500">Ensuring timely and accurate reporting of all corporate changes.</p>
                                 </div>
                                 <div className="bg-white p-5 rounded-xl border border-[#DEDEDE] shadow-sm text-center">
                                     <div className="w-12 h-12 bg-green-100 rounded-full flex items-center justify-center mx-auto mb-4">
                                         <svg className="w-6 h-6 text-green-600" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M9 12l2 2 4-4m5.618-4.016A11.955 11.955 0 0112 2.944a11.955 11.955 0 01-8.618 3.04A12.02 12.02 0 003 9c0 5.591 3.824 10.29 9 11.622 5.176-1.332 9-6.03 9-11.622 0-1.042-.133-2.052-.382-3.016z"></path></svg>
                                     </div>
-                                    <h4 className="font-bold text-[#2E2E2E] mb-2">Tax Compliance</h4>
+                                    <h5 className="font-bold text-[#2E2E2E] mb-2">Tax Compliance</h5>
                                     <p className="text-xs text-gray-500">Managing GST, TDS, and corporate income tax requirements.</p>
                                 </div>
                                 <div className="bg-white p-5 rounded-xl border border-[#DEDEDE] shadow-sm text-center">
                                     <div className="w-12 h-12 bg-purple-100 rounded-full flex items-center justify-center mx-auto mb-4">
                                         <svg className="w-6 h-6 text-purple-600" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M13 10V3L4 14h7v7l9-11h-7z"></path></svg>
                                     </div>
-                                    <h4 className="font-bold text-[#2E2E2E] mb-2">Labor Law Compliance</h4>
+                                    <h5 className="font-bold text-[#2E2E2E] mb-2">Labor Law Compliance</h5>
                                     <p className="text-xs text-gray-500">Protecting your startup from employee related legal issues.</p>
                                 </div>
                             </div>
                         </section>
 
                         <section id="equity-vs-debt" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">Equity vs Debt: Strategic Legal Advisory</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">Equity vs Debt: Strategic Legal Advisory</h3>
                             <div className="bg-white p-8 rounded-2xl border border-[#DEDEDE] shadow-sm">
                                 <p className="mb-4">
                                     The choice between equity and debt is one of the most critical decisions a founder will ever make. Equity financing is the traditional startup route. It brings in capital without an immediate repayment obligation, which is great for cash-heavy R&D. However, equity is the most expensive form of capital in the long run, as it costs you a percentage of your future multibillion-dollar company. Debt financing, through loans or venture debt, is 'cheaper' capital but puts immediate pressure on your monthly cash flow.
@@ -391,19 +391,19 @@ export default function StartupLoanLegalAdvisoryPage() {
                         </section>
 
                         <section id="startup-india-initiative" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Unlocking the Startup India Initiative</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Unlocking the Startup India Initiative</h3>
                             <p className="mb-6">
                                 The Startup India Initiative is a flagship program by the Government of India designed to foster a culture of innovation and provide a support system for startups. Recognition by the DPIIT is the golden key that unlocks a world of benefits, including tax holidays for three years, easier compliance through self-certification, and access to the Fund of Funds (FFS) and the Startup India Seed Fund Scheme (SISFS).
                             </p>
                             <div className="grid md:grid-cols-2 gap-6 mb-8">
                                 <div className="bg-orange-50/50 p-6 rounded-xl border border-orange-100">
-                                    <h3 className="text-xl font-bold text-orange-800 mb-3">Self-Certification Benefits</h3>
+                                    <h4 className="text-xl font-bold text-orange-800 mb-3">Self-Certification Benefits</h4>
                                     <p className="text-sm text-orange-900/80 leading-relaxed">
                                         Startups are allowed to self-certify their compliance with 6 labor laws and 3 environmental laws. No inspections will be conducted for three to five years unless a credible complaint is received. This significantly reduces the administrative burden on young companies.
                                     </p>
                                 </div>
                                 <div className="bg-blue-50/50 p-6 rounded-xl border border-blue-100">
-                                    <h3 className="text-xl font-bold text-blue-800 mb-3">IP Support & Fast Tracking</h3>
+                                    <h4 className="text-xl font-bold text-blue-800 mb-3">IP Support & Fast Tracking</h4>
                                     <p className="text-sm text-blue-900/80 leading-relaxed">
                                         Recognized startups are eligible for up to 80% rebate in patent filing fees and 50% rebate in trademark filing fees. They also get access to specialized facilitators who help them navigate the complex patent process at no cost.
                                     </p>
@@ -415,7 +415,7 @@ export default function StartupLoanLegalAdvisoryPage() {
                         </section>
 
                         <section id="cgss-explained" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">CGSS: Collateral Free Funding for Startups</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">CGSS: Collateral Free Funding for Startups</h3>
                             <p className="mb-6">
                                 For many founders, the lack of personal collateral (like a home or property) is the biggest hurdle in getting a bank loan. The Credit Guarantee Scheme for Startups (CGSS) was launched specifically to solve this problem. It provides credit guarantees of up to 20 crore rupees for loans sanctioned to DPIIT recognized startups by Scheduled Commercial Banks, NBFCs, and SEBI registered Alternative Investment Funds (AIFs).
                             </p>
@@ -428,7 +428,7 @@ export default function StartupLoanLegalAdvisoryPage() {
                         </section>
 
                         <section id="mudra-loans-startups" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Mudra Loans: Supporting Micro-Enterprises</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Mudra Loans: Supporting Micro-Enterprises</h3>
                             <p className="mb-6">
                                 For early stage or micro-startups, particularly those in the service or retail sectors, Mudra loans under the PMMY are an excellent funding source. Categorized as Shishu (up to 50,000), Kishor (up to 5 lakh), and Tarun (up to 10 lakh), these loans are collateral free and have very low interest rates compared to private microfinance.
                             </p>
@@ -455,12 +455,12 @@ export default function StartupLoanLegalAdvisoryPage() {
                         </section>
 
                         <section id="managing-founder-risk" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Founder Risks: Protecting Your Personal Future</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Founder Risks: Protecting Your Personal Future</h3>
                             <p className="mb-6 text-red-600 font-bold">
                                 As a founder, your personal liability is your greatest risk. Lenders often ask founders to sign 'Personal Guarantees', which can make you personally liable for millions in business debt.
                             </p>
                             <div className="bg-red-50 border-l-4 border-red-500 p-8 rounded-r-xl mb-8">
-                                <h3 className="text-xl font-bold text-red-800 mb-4">How to Mitigate Personal Risk</h3>
+                                <h4 className="text-xl font-bold text-red-800 mb-4">How to Mitigate Personal Risk</h4>
                                 <ul className="space-y-3 text-red-900/80">
                                     <li>• <strong>Avoid Personal Guarantees:</strong> Always push for 'entity-based' loans. Use CGSS or other guarantee schemes instead of your own signature.</li>
                                     <li>• <strong>Director's Liability Insurance (D&O):</strong> This is a must for any growing startup. It protects you from personal legal costs arising from board decisions or inadvertent compliance failures.</li>
@@ -474,19 +474,19 @@ export default function StartupLoanLegalAdvisoryPage() {
                         </section>
 
                         <section id="intellectual-property" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">The Role of Intellectual Property (IP) in Startup Loans</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">The Role of Intellectual Property (IP) in Startup Loans</h3>
                             <p className="mb-6">
                                 For a tech startup, the IP (source code, algorithms, patterns) is the most valuable asset. Banks are increasingly moving toward 'IP-backed lending' where the IP itself serves as collateral. However, this is a legally complex area where you must ensure that the IP is properly registered and assigned to the company, not held in the founder's personal name.
                             </p>
                             <div className="space-y-8">
                                 <div className="bg-white p-8 rounded-2xl border border-blue-100 shadow-sm">
-                                    <h3 className="text-2xl font-bold text-blue-600 mb-4">IP Assignment Agreements</h3>
+                                    <h4 className="text-2xl font-bold text-blue-600 mb-4">IP Assignment Agreements</h4>
                                     <p className="mb-4">
                                         Investors and lenders will always check if all the code and designs created by founders and employees have been legally 'assigned' to the startup. Without these agreements, you don't actually own your product, making it impossible to use as a legal basis for a loan.
                                     </p>
                                 </div>
                                 <div className="bg-white p-8 rounded-2xl border border-purple-100 shadow-sm">
-                                    <h3 className="text-2xl font-bold text-purple-600 mb-4">Trademarking and Branding</h3>
+                                    <h4 className="text-2xl font-bold text-purple-600 mb-4">Trademarking and Branding</h4>
                                     <p className="mb-4">
                                         A registered trademark increases your brand's value and can be an 'incorporeal asset' on your balance sheet. This improves your financial ratios, making it easier to get sanctioned for higher loan limits from NBFCs and banks.
                                     </p>
@@ -495,12 +495,12 @@ export default function StartupLoanLegalAdvisoryPage() {
                         </section>
 
                         <section id="foreign-funding-compliance" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Foreign Funding & FEMA: Navigating Global Capital</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Foreign Funding & FEMA: Navigating Global Capital</h3>
                             <p className="mb-6 text-lg">
                                 Many modern startups are registered in India but receive funding from global VCs or international banks. This brings your company under the purview of the Foreign Exchange Management Act (FEMA). FEMA compliance is notoriously complex and involves reporting every inward remittance to the RBI within 30 days.
                             </p>
                             <div className="bg-blue-50 p-8 rounded-2xl border border-blue-100 mb-8">
-                                <h3 className="text-2xl font-black text-[#2E2E2E] mb-6">Key FEMA Considerations</h3>
+                                <h4 className="text-2xl font-black text-[#2E2E2E] mb-6">Key FEMA Considerations</h4>
                                 <div className="space-y-4">
                                     <div className="bg-white p-4 rounded-lg flex items-center justify-between">
                                         <span className="font-bold">Form FC-GPR</span>
@@ -522,7 +522,7 @@ export default function StartupLoanLegalAdvisoryPage() {
                         </section>
 
                         <section id="debt-recovery-startups" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Debt Recovery Laws for Startups: Being Prepared</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Debt Recovery Laws for Startups: Being Prepared</h3>
                             <p className="mb-6">
                                 While every founder hopes for success, the reality of business involves the risk of failure. If your startup is unable to service its debt, you will enter the world of debt recovery. Banks will attempt to use the SARFAESI Act or file civil suits. However, as a startup, you have unique legal defenses that traditional businesses might not have.
                             </p>
@@ -532,12 +532,12 @@ export default function StartupLoanLegalAdvisoryPage() {
                         </section>
 
                         <section id="fast-track-insolvency" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Fast Track Insolvency: A Clean Exit Strategy</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Fast Track Insolvency: A Clean Exit Strategy</h3>
                             <p className="mb-6">
                                 If a startup must close down, the law provides a 'Fast Track' insolvency process under the IBC. This is only available to companies that meet certain criteria (usually based on turnover and asset size). It allows for the entire liquidation process to be completed within 90 days, compared to the years it used to take under old laws.
                             </p>
                             <div className="bg-emerald-50 p-8 rounded-2xl border border-emerald-100 mb-8">
-                                <h3 className="text-xl font-bold text-emerald-800 mb-4">Why the 90-Day Exit Matters</h3>
+                                <h4 className="text-xl font-bold text-emerald-800 mb-4">Why the 90-Day Exit Matters</h4>
                                 <p className="mb-4 text-emerald-900/80">
                                     The goal of modern Indian insolvency law is 'Freedom to Fail'. By allowing entrepreneurs to close an unsuccessful venture quickly and legally, the law ensures that their capital and talent can be reallocated to a new, better idea. This is the hallmark of a healthy startup ecosystem.
                                 </p>
@@ -548,7 +548,7 @@ export default function StartupLoanLegalAdvisoryPage() {
                         </section>
 
                         <section id="re-pivoting-strategy" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">The Legal Side of Re-pivoting: Managing Debt During Change</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">The Legal Side of Re-pivoting: Managing Debt During Change</h3>
                             <p className="mb-6">
                                 Many famous startups succeeded only after a major 'pivot' that changed their business model. However, a pivot often changes the 'risk profile' that was agreed upon with your bank. If you change your business model without informing your lender, they could technically declare a 'default' based on your loan covenants.
                             </p>
@@ -558,12 +558,12 @@ export default function StartupLoanLegalAdvisoryPage() {
                         </section>
 
                         <section id="settleloans-for-startups" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 text-center">Our Startup Legal Advisory Approach</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 text-center">Our Startup Legal Advisory Approach</h3>
                             <p className="mb-6">
                                 At SettleLoans, we think like founders. We understand the speed, the passion, and the pressure of the startup world. Our legal advisory is designed to be lean, agile, and practically oriented. We don't just quote the law; we provide solutions that help you grow. We become your 'External General Counsel', providing the expert support you need at a fraction of the cost of a full time legal team.
                             </p>
                             <div className="bg-[#2E2E2E] text-white p-8 rounded-2xl mb-8">
-                                <h3 className="text-2xl font-bold mb-4">Our Commitment to Founders</h3>
+                                <h4 className="text-2xl font-bold mb-4">Our Commitment to Founders</h4>
                                 <ul className="space-y-3 text-sm opacity-90">
                                     <li className="flex items-center gap-2">✓ Expert drafting and review of all funding related agreements (Term Sheets, SHA, SSA).</li>
                                     <li className="flex items-center gap-2">✓ Comprehensive compliance management for ROC, RBI, and FEMA requirements.</li>
@@ -575,7 +575,7 @@ export default function StartupLoanLegalAdvisoryPage() {
                         </section>
 
                         <section id="founder-testimonials" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 text-center">Founders Who Scaled with Us</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 text-center">Founders Who Scaled with Us</h3>
                             <div className="grid md:grid-cols-2 gap-6 not-prose">
                                 {[
                                     {
@@ -613,7 +613,7 @@ export default function StartupLoanLegalAdvisoryPage() {
                                                 {review.name.charAt(0)}
                                             </div>
                                             <div>
-                                                <h3 className="font-bold text-[#2E2E2E]">{review.name}</h3>
+                                                <h4 className="font-bold text-[#2E2E2E]">{review.name}</h4>
                                                 <p className="text-xs text-gray-400">{review.loc}</p>
                                             </div>
                                             <div className="ml-auto text-yellow-400 text-sm">★★★★★</div>
@@ -628,7 +628,7 @@ export default function StartupLoanLegalAdvisoryPage() {
                         </section>
 
                         <section id="faqs" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Frequently Asked Questions</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Frequently Asked Questions</h3>
                             <div className="space-y-4 not-prose">
                                 {[
                                     { q: "Can a startup with no revenue get a government loan?", a: "Yes, schemes like the Startup India Seed Fund (SISFS) are designed specifically for very early stage startups that are at the proof-of-concept or prototype stage." },
@@ -667,7 +667,7 @@ export default function StartupLoanLegalAdvisoryPage() {
                         <div className="lg:hidden mt-16 mb-8">
                             <div className="bg-[#2E2E2E] rounded-2xl shadow-xl overflow-hidden border border-[#1F5EFF]/20">
                                 <div className="bg-[#1F5EFF] p-6 text-center text-white">
-                                    <h3 className="text-2xl font-black mb-2">Scale Safely Today</h3>
+                                    <h4 className="text-2xl font-black mb-2">Scale Safely Today</h4>
                                     <p className="opacity-90 text-sm">Expert legal advisory for startup funding, compliance, and growth strategies in India.</p>
                                 </div>
                                 <div className="p-8 text-center text-[#DEDEDE]">

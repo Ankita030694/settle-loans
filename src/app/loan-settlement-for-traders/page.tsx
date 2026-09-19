@@ -274,20 +274,20 @@ export default function LoanSettlementForTradersPage() {
 
               <div className="bg-[#1F5EFF]/5 rounded-3xl p-8 border border-[#1F5EFF]/10 relative overflow-hidden mb-12">
                 <div className="absolute top-0 right-0 w-40 h-40 bg-[#1F5EFF]/10 rounded-full blur-3xl -mr-20 -mt-20"></div>
-                <h3 className="text-2xl font-bold text-[#1F5EFF] mb-6">Why Traders Face Unique Debt Struggles</h3>
+                <h4 className="text-2xl font-bold text-[#1F5EFF] mb-6">Why Traders Face Unique Debt Struggles</h4>
                 <div className="grid md:grid-cols-2 gap-8">
                     <div className="space-y-6">
                         <div className="flex gap-3">
                             <span className="flex-shrink-0 w-6 h-6 bg-[#1F5EFF] text-white rounded-full flex items-center justify-center text-xs font-bold">1</span>
                             <div>
-                                <h4 className="font-bold text-gray-900 mb-1">Inventory Glut</h4>
+                                <h5 className="font-bold text-gray-900 mb-1">Inventory Glut</h5>
                                 <p className="text-gray-600 text-sm">Capital gets locked in unsold goods during market downturns, leaving no liquid cash for bank EMIs or interest payments.</p>
                             </div>
                         </div>
                         <div className="flex gap-3">
                             <span className="flex-shrink-0 w-6 h-6 bg-[#1F5EFF] text-white rounded-full flex items-center justify-center text-xs font-bold">2</span>
                             <div>
-                                <h4 className="font-bold text-gray-900 mb-1">The Credit Chain</h4>
+                                <h5 className="font-bold text-gray-900 mb-1">The Credit Chain</h5>
                                 <p className="text-gray-600 text-sm">If your clients do not pay you on time, you cannot pay your suppliers or your bank. You are often the victim of someone else's default cycle.</p>
                             </div>
                         </div>
@@ -296,14 +296,14 @@ export default function LoanSettlementForTradersPage() {
                         <div className="flex gap-3">
                             <span className="flex-shrink-0 w-6 h-6 bg-[#1F5EFF] text-white rounded-full flex items-center justify-center text-xs font-bold">3</span>
                             <div>
-                                <h4 className="font-bold text-gray-900 mb-1">High Interest CC Limits</h4>
+                                <h5 className="font-bold text-gray-900 mb-1">High Interest CC Limits</h5>
                                 <p className="text-gray-600 text-sm">While CC limits are flexible, the compound interest can be devastating if the principal amount is not rotated regularly every month.</p>
                             </div>
                         </div>
                         <div className="flex gap-3">
                             <span className="flex-shrink-0 w-6 h-6 bg-[#1F5EFF] text-white rounded-full flex items-center justify-center text-xs font-bold">4</span>
                             <div>
-                                <h4 className="font-bold text-gray-900 mb-1">Seasonal Revenue Gaps</h4>
+                                <h5 className="font-bold text-gray-900 mb-1">Seasonal Revenue Gaps</h5>
                                 <p className="text-gray-600 text-sm">The mismatch between fixed bank obligations and variable seasonal sales often leads to technical defaults during off-seasons.</p>
                             </div>
                         </div>
@@ -311,7 +311,7 @@ export default function LoanSettlementForTradersPage() {
                 </div>
               </div>
 
-              <h3 className="text-2xl font-bold text-[#2E2E2E] mb-6">Sector-Specific Insights: Challenges for Modern Traders</h3>
+              <h4 className="text-2xl font-bold text-[#2E2E2E] mb-6">Sector-Specific Insights: Challenges for Modern Traders</h4>
               <p className="text-lg leading-relaxed mb-6">
                 Different trading sectors face different types of debt pressures. For instance, textile traders in hubs like Surat and Ludhiana often deal with long credit cycles, sometimes extending up to 180 days. This means they must fund their operations and bank interest for six months before seeing any cash from their sales. When the market price of yarn or fabric drops suddenly, their entire inventory value depreciates, making their bank collateral insufficient.
               </p>
@@ -324,9 +324,9 @@ export default function LoanSettlementForTradersPage() {
             </section>
 
             <section id="common-debt-traps" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                 Common Debt Traps: <span className="text-gray-400">Where Trading Goes Wrong</span>
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 Most traders do not set out to default on their loans. It usually starts with a minor adjustment where a portion of the CC limit is used to cover a personal emergency, a child's wedding, or an unexpected medical bill. However, the nature of compounding interest means that if that hole is not filled promptly, it grows at an alarming rate. Before you know it, your entire limit is exhausted, and you have reached what we call the Death of Rotation. At this stage, you are no longer using the bank's money to buy goods; you are merely feeding an insatiable interest beast.
               </p>
@@ -342,19 +342,19 @@ export default function LoanSettlementForTradersPage() {
             </section>
 
             <section id="legal-realities" className="scroll-mt-32 mb-16 px-4 md:px-0">
-               <h2 className="text-3xl md:text-5xl font-black text-[#2E2E2E] mb-8 leading-tight">
+               <h3 className="text-3xl md:text-5xl font-black text-[#2E2E2E] mb-8 leading-tight">
                 Legal Realities: <span className="text-[#1F5EFF]">Knowing Your Protections</span>
-              </h2>
+              </h3>
               <div className="grid md:grid-cols-2 gap-8 mb-12">
                   <div className="p-8 rounded-[2rem] bg-white border border-gray-100 shadow-xl shadow-gray-200/50">
-                      <h3 className="text-xl font-bold mb-4 text-[#2E2E2E]">The SARFAESI Act</h3>
+                      <h4 className="text-xl font-bold mb-4 text-[#2E2E2E]">The SARFAESI Act</h4>
                       <p className="text-gray-600 mb-4 italic">The Big Bank Shield</p>
                       <p className="text-gray-600 leading-relaxed text-sm">
                           For secured business loans, banks often invoke the Securitisation and Reconstruction of Financial Assets and Enforcement of Security Interest (SARFAESI) Act. This allows them to take possession of the collateral without going to a regular court. However, the law provides you with a 60-day notice period under Section 13(2) and another 30-day period under Section 13(4) before any auction. This time is your window of opportunity to negotiate a settlement.
                       </p>
                   </div>
                    <div className="p-8 rounded-[2rem] bg-[#2E2E2E] text-white">
-                      <h3 className="text-xl font-bold mb-4">DRT (Debt Recovery Tribunal)</h3>
+                      <h4 className="text-xl font-bold mb-4">DRT (Debt Recovery Tribunal)</h4>
                       <p className="text-gray-400 mb-4 italic">The Legal Battlefield</p>
                       <p className="text-gray-300 leading-relaxed text-sm">
                           If your loan amount is high, the bank may file a recovery suit in the Debt Recovery Tribunal. While this sounds scary, it is a formal legal process where you can present your side. Many cases in the DRT are eventually settled through Consent Terms, which is essentially a structured loan settlement approved by the tribunal. This process can often give you more time to arrange funds than the SARFAESI route.
@@ -373,7 +373,7 @@ export default function LoanSettlementForTradersPage() {
             </section>
 
             <section id="what-is-loan-settlement" className="scroll-mt-32 mb-16">
-               <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">What is Loan Settlement? <span className="text-[#1F5EFF]">The Strategic Exit</span></h2>
+               <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">What is Loan Settlement? <span className="text-[#1F5EFF]">The Strategic Exit</span></h3>
                <p className="text-lg leading-relaxed mb-6">
                 Loan settlement, often referred to as a One-Time Settlement (OTS), is a legal agreement between a borrower and a lender where the lender agrees to accept a lump sum payment that represents a portion of the total outstanding amount. In return, the lender considers the account fully closed and releases the borrower from any further liability. This is an exit strategy that provides a definitive end to the nightmare of compounding interest and legal threats.
                </p>
@@ -388,7 +388,7 @@ export default function LoanSettlementForTradersPage() {
                    <p className="text-gray-600 mb-4">A settlement is only possible when you show a genuine 'Ability to Pay' a reduced amount and a genuine 'Inability to Pay' the full amount due to unforeseen circumstances. We help you build this case with hard numbers and documentary evidence.</p>
                    <p className="text-gray-600 italic text-sm">Remember: A bank will never settle if they think you are hiding money or if you are still running a highly profitable business from the same credit line. Honesty and transparency in the negotiation process are key.</p>
                </div>
-               <h3 className="text-2xl font-bold text-[#2E2E2E] mb-6">Banks vs. NBFCs: Different Settlement Styles</h3>
+               <h4 className="text-2xl font-bold text-[#2E2E2E] mb-6">Banks vs. NBFCs: Different Settlement Styles</h4>
                <p className="text-lg leading-relaxed mb-6">
                  Negotiating with a Public Sector Bank (PSB) like SBI or PNB is very different from negotiating with a private bank like HDFC or an NBFC like Bajaj Finance. PSBs follow rigid, transparent schemes that are often announced during Lok Adalats. They have massive committees and the process is slower, but once an amount is sanctioned, it is very secure.
                </p>
@@ -398,44 +398,44 @@ export default function LoanSettlementForTradersPage() {
             </section>
 
             <section id="settlement-guide" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">The Trader's Step-by-Step Guide to Settlement</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">The Trader's Step-by-Step Guide to Settlement</h3>
               <p className="text-lg leading-relaxed mb-10">
                 A successful settlement is not a one-day event. It is a calculated process that requires patience and precision. Following these steps ensures that you don't just get a low amount, but also a legally sound closure that protects you from future claims.
               </p>
               <div className="space-y-12">
                   <div className="relative pl-12">
                       <div className="absolute left-0 top-0 w-8 h-8 bg-[#1F5EFF] text-white rounded-full flex items-center justify-center font-bold">1</div>
-                      <h3 className="text-xl font-bold mb-3">Financial Audit & Internal Assessment</h3>
+                      <h4 className="text-xl font-bold mb-3">Financial Audit & Internal Assessment</h4>
                       <p className="text-gray-600 mb-3">Before approaching the bank, you need a crystal clear picture of your total debt across all lenders. We perform a deep dive into your business and personal finances to determine exactly how much you can realistically pay as a lump sum. This is your 'Settlement Budget'. We also identify which loans should be settled first based on interest rates and the level of legal risk.</p>
                        <p className="text-xs text-[#1F5EFF] font-bold">Tip: Never tell the bank your full budget in the first meeting. Always leave room for negotiation.</p>
                   </div>
                   <div className="relative pl-12">
                       <div className="absolute left-0 top-0 w-8 h-8 bg-[#1F5EFF] text-white rounded-full flex items-center justify-center font-bold">2</div>
-                      <h4 className="text-xl font-bold mb-3">Professional Communication Strategy</h4>
+                      <h5 className="text-xl font-bold mb-3">Professional Communication Strategy</h5>
                       <p className="text-gray-600">The first letter to the bank is your most powerful weapon. It must be written on a professional letterhead (preferably by a legal firm), clearly stating that the business is facing genuine distress. You should include high-level reasons for the default, such as market shifts or health issues, without providing too much personal detail that could be used against you. This letter officially starts the OTS clock.</p>
                   </div>
                   <div className="relative pl-12">
                       <div className="absolute left-0 top-0 w-8 h-8 bg-[#1F5EFF] text-white rounded-full flex items-center justify-center font-bold">3</div>
-                      <h4 className="text-xl font-bold mb-3">The Negotiation Phase (The Art of the Deal)</h4>
+                      <h5 className="text-xl font-bold mb-3">The Negotiation Phase (The Art of the Deal)</h5>
                       <p className="text-gray-600">Banks will usually counter-offer with an amount that is 100% of the principal plus some interest. We counter this by showing them the current market value of your assets (which is usually lower than their records) and the high cost of recovery they would face. We use RBI settlement benchmarks and recent precedents from similar trading cases to push them toward your budget. This phase can take two to three rounds of back-and-forth.</p>
                   </div>
                   <div className="relative pl-12">
                       <div className="absolute left-0 top-0 w-8 h-8 bg-[#1F5EFF] text-white rounded-full flex items-center justify-center font-bold">4</div>
-                      <h4 className="text-xl font-bold mb-3">Validation of the Sanction Letter</h4>
+                      <h5 className="text-xl font-bold mb-3">Validation of the Sanction Letter</h5>
                       <p className="text-gray-600">When the bank agrees, they issue a formal OTS Sanction Letter. This is a legally binding document. We review it word-for-word to ensure that there are no traps, like high 'Delayed Payment Interest' or clauses that allow the bank to reopen the case later. We also ensure that the letter specifies the release of all hypothecated stock and mortgaged property papers.</p>
                   </div>
                   <div className="relative pl-12">
                       <div className="absolute left-0 top-0 w-8 h-8 bg-[#1F5EFF] text-white rounded-full flex items-center justify-center font-bold">5</div>
-                      <h4 className="text-xl font-bold mb-3">Payment and Obtaining the NOC</h4>
+                      <h5 className="text-xl font-bold mb-3">Payment and Obtaining the NOC</h5>
                       <p className="text-gray-600">You pay the agreed amount within the stipulated time frame. Once the final payment is cleared, we ensure the bank issues a No Dues Certificate. This is your final shield, proving to the world (and future lenders) that you owe nothing more to that institution.</p>
                   </div>
               </div>
             </section>
 
             <section id="government-protection" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                 Government Protection: <span className="text-[#1F5EFF]">MSME & Beyond</span>
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 The Indian government recognizes the vital role traders play in the economy. Therefore, several schemes have been launched to protect them during financial crises. If your shop is registered under the MSME (Udyam Registration), you have access to specialized forums like the MSME Samadhaan. This is a critical asset for any trader who is facing a liquidity crunch because of late payments from their own corporate or government clients.
               </p>
@@ -443,14 +443,14 @@ export default function LoanSettlementForTradersPage() {
                 Often, a trader defaults not because they want to, but because their own clients (sometimes large corporations) have not paid them for months. In such cases, you can use the MSME Samadhaan portal to file a case against your debtors. The council can order your debtors to pay you the principal plus a high rate of interest. This recovered liquidity can then be used to settle your own bank debts or negotiated a much better One Time Settlement. We have seen cases where a trader recovered fifty lakhs from a defaulting client and used thirty lakhs of it to settle their entire bank liability, leaving them with a clean slate and twenty lakhs of working capital.
               </p>
               <div className="bg-[#2E2E2E] text-white p-8 rounded-3xl mb-10">
-                  <h3 className="text-2xl font-bold mb-4">The Fresh Start Provision (IBC)</h3>
+                  <h4 className="text-2xl font-bold mb-4">The Fresh Start Provision (IBC)</h4>
                   <p className="opacity-80 leading-relaxed mb-4">
                       Under the Insolvency and Bankruptcy Code (IBC), there is a provision called Fresh Start for individuals with very low income and total assets. While it is a rigorous legal process, it can essentially wipe out certain debts entirely for those who meet the eligibility criteria. For a small scale trader who has lost their entire inventory and means of living, this can be the ultimate legal lifeline to restart their life without the shadow of the past.
                   </p>
                   <p className="opacity-60 text-xs italic">Important: This process requires a formal application to the Adjudicating Authority and is usually reserved for the most extreme cases of financial hardship.</p>
               </div>
 
-              <h3 className="text-2xl font-bold text-[#2E2E2E] mb-6">The Journey from SMA to NPA: Understanding the Clock</h3>
+              <h4 className="text-2xl font-bold text-[#2E2E2E] mb-6">The Journey from SMA to NPA: Understanding the Clock</h4>
               <p className="text-lg leading-relaxed mb-6">
                 Every trader must understand the clock that starts ticking the moment a payment is missed. Banks categorize stressed accounts into three stages of SMA (Special Mention Account). SMA 0 is when the payment is delayed by 1 to 30 days. SMA 1 is for 31 to 60 days. SMA 2 is for 61 to 90 days. Once you cross the 90-day mark, the account is classified as an NPA.
               </p>
@@ -458,7 +458,7 @@ export default function LoanSettlementForTradersPage() {
                 Your best chance for a favorable settlement is either just before the account becomes an NPA or once it has been an NPA for more than six months. Banks have different sets of rules and 'haircut' permissions for each stage. Our legal team monitors these statuses for you, ensuring that we submit the settlement proposal at the exact psychological moment when the bank manager is most empowered to give you a deep discount. Understanding this internal banking clock is the difference between a 20% discount and a 60% discount.
               </p>
 
-              <h3 className="text-2xl font-bold text-[#2E2E2E] mb-6">Banking Negotiation Tactics: A Deep Dive</h3>
+              <h4 className="text-2xl font-bold text-[#2E2E2E] mb-6">Banking Negotiation Tactics: A Deep Dive</h4>
               <p className="text-lg leading-relaxed mb-6">
                  Negotiating with a bank is like a high-stakes chess game. You must know when to be aggressive and when to be humble. Public Sector Banks (PSBs) like SBI or Bank of Baroda are driven by rigid policy guidelines. They need a 'Non-Discrimination' clause, meaning they need to show that they offered you the same deal they would offer any other trader in your situation. We help you draft your proposal to fit these specific PSB templates.
               </p>
@@ -468,7 +468,7 @@ export default function LoanSettlementForTradersPage() {
             </section>
 
             <section id="recovery-harassment" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">Handling Harassment: <span className="text-red-500">Know Your Shield</span></h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">Handling Harassment: <span className="text-red-500">Know Your Shield</span></h3>
               <p className="text-lg leading-relaxed mb-6">
                 Harassment from recovery agents is one of the most painful aspects of a loan default. Many agents use illegal tactics like calling your neighbors, visiting your home at odd hours, or using abusive language. You must remember that the RBI has issued very strict guidelines against such behavior.
               </p>
@@ -481,7 +481,7 @@ export default function LoanSettlementForTradersPage() {
             </section>
 
             <section id="cibil-impact" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">Impact on CIBIL Score: <span className="text-gray-400">The Hard Truth</span></h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">Impact on CIBIL Score: <span className="text-gray-400">The Hard Truth</span></h3>
               <p className="text-lg leading-relaxed mb-6">
                 We believe in total transparency. A loan settlement will have an impact on your CIBIL score. When an account is settled, it is reported as 'Settled' rather than 'Closed'. This indicates to future lenders that you did not pay the full amount. Your credit score will likely drop significantly immediately after the settlement.
               </p>
@@ -494,7 +494,7 @@ export default function LoanSettlementForTradersPage() {
             </section>
 
             <section id="success-stories" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-12 text-center">Real Stories: Traders Who Reclaimed Freedom</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-12 text-center">Real Stories: Traders Who Reclaimed Freedom</h3>
               <div className="grid md:grid-cols-2 gap-8">
                   {[
                       {
@@ -542,7 +542,7 @@ export default function LoanSettlementForTradersPage() {
             </section>
 
             <section id="rebuilding-business" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">Rebuilding Your Business: <span className="text-[#1F5EFF]">The New Chapter</span></h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">Rebuilding Your Business: <span className="text-[#1F5EFF]">The New Chapter</span></h3>
               <p className="text-lg leading-relaxed mb-6">
                 Settling your loan is not the end; it is a new beginning. The most important lesson every trader learns from a debt crisis is the value of liquid cash. As you move forward, your goal should be to run your business with minimal dependency on high interest bank lines.
               </p>
@@ -555,7 +555,7 @@ export default function LoanSettlementForTradersPage() {
             </section>
 
             <section id="golden-rules" className="scroll-mt-32 mb-16">
-                <h2 className="text-4xl font-black text-[#2E2E2E] mb-12 text-center">The <span className="text-[#1F5EFF]">10 Golden Rules</span> of Trader Loan Settlement</h2>
+                <h3 className="text-4xl font-black text-[#2E2E2E] mb-12 text-center">The <span className="text-[#1F5EFF]">10 Golden Rules</span> of Trader Loan Settlement</h3>
                 <div className="grid md:grid-cols-2 gap-8">
                     {[
                         { r: "Stop New Borrowing", d: "One of the most common mistakes is taking a new loan to settle an old one. This only deepens the hole. Stop all new borrowing immediately." },
@@ -570,7 +570,7 @@ export default function LoanSettlementForTradersPage() {
                         { RuleID: 10, r: "Ask for Professional Help", d: "Banks have full time lawyers and negotiators. You should have them too. Don't go into a gunfight with a knife." }
                     ].map((rule, idx) => (
                         <div key={idx} className="p-6 bg-white rounded-3xl border border-gray-100 shadow-sm transition-all hover:border-[#1F5EFF]/20">
-                            <h3 className="font-bold text-[#2E2E2E] mb-2">{idx + 1}. {rule.r}</h3>
+                            <h4 className="font-bold text-[#2E2E2E] mb-2">{idx + 1}. {rule.r}</h4>
                             <p className="text-sm text-gray-600 leading-relaxed">{rule.d}</p>
                         </div>
                     ))}
@@ -578,36 +578,36 @@ export default function LoanSettlementForTradersPage() {
             </section>
 
             <section id="legal-notice-defense" className="scroll-mt-32 mb-16 px-4 md:px-0">
-                <h2 className="text-3xl md:text-5xl font-black text-[#2E2E2E] mb-8 leading-tight">
+                <h3 className="text-3xl md:text-5xl font-black text-[#2E2E2E] mb-8 leading-tight">
                     Legal Notice Defense: Managing the <span className="text-[#1F5EFF]">Paper War</span>
-                </h2>
+                </h3>
                 <p className="text-lg leading-relaxed text-gray-700 mb-8 font-medium">
                     When you are in default, the bank will send you a constant stream of legal notices. Each of these notices has a different legal weight. Understanding how to respond to them is your primary defense strategy. We review every notice you receive and draft precise, legal replies.
                 </p>
                 <div className="space-y-8">
                     <div className="border-l-4 border-yellow-500 pl-6 py-4 bg-yellow-50/30">
-                        <h3 className="text-xl font-bold mb-3">The Recall Notice</h3>
+                        <h4 className="text-xl font-bold mb-3">The Recall Notice</h4>
                         <p className="text-gray-600 leading-relaxed">This is the first formal notice where the bank cancels your loan facility and asks for the full amount. This is the best time to start settlement talks. A proactive response here can often prevent the case from moving to more aggressive stages.</p>
                     </div>
                     <div className="border-l-4 border-orange-500 pl-6 py-4 bg-orange-50/30">
-                        <h4 className="text-xl font-bold mb-3">The Section 13(2) Notice (SARFAESI)</h4>
+                        <h5 className="text-xl font-bold mb-3">The Section 13(2) Notice (SARFAESI)</h5>
                         <p className="text-gray-600 leading-relaxed">This is the most critical notice for secured loans. You have sixty days to respond. we help you draft a detailed reply questioning the bank's calculations, which can buy you enough time to finalize your settlement funds.</p>
                     </div>
                     <div className="border-l-4 border-red-500 pl-6 py-4 bg-red-50/30">
-                        <h4 className="text-xl font-bold mb-3">The Section 138 (Cheque Bounce) Notice</h4>
+                        <h5 className="text-xl font-bold mb-3">The Section 138 (Cheque Bounce) Notice</h5>
                         <p className="text-gray-600 leading-relaxed">This notice is potentially of a criminal nature. You have fifteen days to pay. We ensure that your response clearly shows that there was no criminal intent, only a genuine business failure, which is a vital defense.</p>
                     </div>
                     <div className="border-l-4 border-[#1F5EFF] pl-6 py-4 bg-blue-50/30">
-                        <h4 className="text-xl font-bold mb-3">The Lok Adalat Notice</h4>
+                        <h5 className="text-xl font-bold mb-3">The Lok Adalat Notice</h5>
                         <p className="text-gray-600 leading-relaxed">This is actually a highly positive notice. It means the bank is willing to settle in a court monitored setting. Settlements in Lok Adalats have the least amount of future legal risk for the trader.</p>
                     </div>
                 </div>
             </section>
 
             <section id="tax-implications" className="scroll-mt-32 mb-16">
-                <h2 className="text-3xl md:text-5xl font-black text-[#2E2E2E] mb-8 leading-tight">
+                <h3 className="text-3xl md:text-5xl font-black text-[#2E2E2E] mb-8 leading-tight">
                     Tax Implications of Settlement: <span className="text-[#1F5EFF]">The Fine Print</span>
-                </h2>
+                </h3>
                 <p className="text-lg leading-relaxed text-gray-700 mb-6">
                     Many traders are surprised to find that a loan settlement can have tax consequences. Under the Income Tax Act, a waiver of a loan amount can sometimes be treated as 'Other Income'. This means that if the bank waives twenty lakhs of your debt, you might technically be liable to pay income tax on that amount.
                 </p>
@@ -620,17 +620,17 @@ export default function LoanSettlementForTradersPage() {
             </section>
 
             <section id="additional-case-studies" className="scroll-mt-32 mb-16 px-4 md:px-0">
-                <h2 className="text-4xl font-black text-[#2E2E2E] mb-12 text-center">Success Stories: Reclaiming the Market</h2>
+                <h3 className="text-4xl font-black text-[#2E2E2E] mb-12 text-center">Success Stories: Reclaiming the Market</h3>
                 <div className="space-y-8">
                     <div className="p-8 bg-white border border-gray-100 rounded-[2.5rem] shadow-sm hover:shadow-xl transition-all">
-                        <h3 className="text-xl font-bold mb-4 text-[#1F5EFF]">Cloth Merchant in Kanpur vs. PSU Bank</h3>
+                        <h4 className="text-xl font-bold mb-4 text-[#1F5EFF]">Cloth Merchant in Kanpur vs. PSU Bank</h4>
                         <p className="text-gray-600 leading-relaxed mb-4">
                             Mr. Singh had an OD limit of ₹85 Lakhs for his grocery wholesale business. Due to a major client's default, he fell into distress. The bank threatened to seize his warehouse. SettleLoans performed a forensic audit and found interest errors of ₹4 Lakhs. After four months of negotiation, the total dues were settled for ₹42 Lakhs, payable in three installments. This saved his business and his family home.
                         </p>
                         <p className="text-sm font-bold text-gray-400 uppercase tracking-widest">Savings: ₹43 Lakhs | Payback Period: 90 Days</p>
                     </div>
                     <div className="p-8 bg-white border border-gray-100 rounded-[2.5rem] shadow-sm hover:shadow-xl transition-all">
-                        <h4 className="text-xl font-bold mb-4 text-[#1F5EFF]">Mobile Retailer in Kochi vs. Multiple Fintech Apps</h4>
+                        <h5 className="text-xl font-bold mb-4 text-[#1F5EFF]">Mobile Retailer in Kochi vs. Multiple Fintech Apps</h5>
                         <p className="text-gray-600 leading-relaxed mb-4">
                             A small mobile shop owner had taken twelve different small loans from fintech apps, totaling ₹18 Lakhs. The daily collection pressure was immense. We consolidated all communication and sent formal notices to each lender. We negotiated settlements ranging from 30% to 50% for each loan. All twelve debts were closed within six months.
                         </p>
@@ -640,7 +640,7 @@ export default function LoanSettlementForTradersPage() {
             </section>
 
             <section id="faqs" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-5xl font-black text-[#2E2E2E] mb-12">Expert Answers for Traders</h2>
+              <h3 className="text-3xl md:text-5xl font-black text-[#2E2E2E] mb-12">Expert Answers for Traders</h3>
               <div className="space-y-6">
                 {[
                   { q: "Can SettleLoans stop the bank from sealing my shop?", a: "While we cannot stop a legal court order, we can often intervene during the notice period to start settlement negotiations. Banks usually prefer to wait if they see a credible settlement offer on the table. We work fast to provide that buffer." },
@@ -676,7 +676,7 @@ export default function LoanSettlementForTradersPage() {
             {/* Bottom CTA for Mobile */}
             <div className="lg:hidden mt-16 px-4">
               <div className="bg-[#1F5EFF] rounded-[2.5rem] p-10 text-center text-white shadow-2xl shadow-[#1F5EFF]/30">
-                  <h3 className="text-3xl font-black mb-4">Start Your New Chapter</h3>
+                  <h4 className="text-3xl font-black mb-4">Start Your New Chapter</h4>
                   <p className="text-white/80 mb-8 text-lg">Join thousands of traders who have reclaimed their peace of mind. Free consultation for a limited time.</p>
                   <Link href="/contact" className="inline-block bg-white text-[#1F5EFF] font-black py-5 px-10 rounded-2xl hover:scale-105 transition-all text-xl shadow-lg">
                       Talk to an Expert
@@ -744,7 +744,7 @@ export default function LoanSettlementForTradersPage() {
              <div className="max-w-5xl mx-auto bg-[#1F5EFF] rounded-[3rem] p-12 md:p-20 text-center text-white relative overflow-hidden shadow-2xl">
                 <div className="absolute top-0 left-0 w-64 h-64 bg-white/10 rounded-full blur-3xl -ml-32 -mt-32"></div>
                 <div className="relative z-10">
-                    <h2 className="text-3xl md:text-5xl font-black mb-6">Ready to Reclaim Your Peace of Mind?</h2>
+                    <h3 className="text-3xl md:text-5xl font-black mb-6">Ready to Reclaim Your Peace of Mind?</h3>
                     <p className="text-xl text-white/80 mb-10 max-w-2xl mx-auto">Our specialized legal team has helped thousands of traders navigate the complex world of bank negotiations and emerge debt free. Your initial consultation is completely free and confidential.</p>
                     <div className="flex flex-col sm:flex-row gap-6 justify-center">
                         <Link href="/contact" className="bg-white text-[#1F5EFF] font-black py-5 px-12 rounded-2xl hover:scale-105 transition-all text-xl shadow-xl">
@@ -761,32 +761,32 @@ export default function LoanSettlementForTradersPage() {
         <section className="w-full bg-white py-16 px-4">
             <div className="max-w-4xl mx-auto space-y-12">
                 <div>
-                    <h3 className="text-3xl font-black text-[#2E2E2E] mb-6">The Trader's Survival Kit for Financial Hardship</h3>
+                    <h4 className="text-3xl font-black text-[#2E2E2E] mb-6">The Trader's Survival Kit for Financial Hardship</h4>
                     <p className="text-lg leading-relaxed text-gray-600 mb-6">
                         When you are in the middle of a debt crisis, it is easy to feel paralyzed. Here are five practical things every trader should do immediately to protect their business and family during the negotiation period.
                     </p>
                     <div className="grid sm:grid-cols-2 gap-6">
                         <div className="p-6 bg-gray-50 rounded-2xl border border-gray-100">
-                             <h4 className="font-bold text-[#1F5EFF] mb-2 text-lg">1. Separate Business & Personal Cash</h4>
+                             <h5 className="font-bold text-[#1F5EFF] mb-2 text-lg">1. Separate Business & Personal Cash</h5>
                              <p className="text-sm text-gray-600">Ensure that your family's daily survival money is kept in a bank account that has no link to your business loans. This prevents the bank from using their 'Right to Set-Off' to freeze your grocery money.</p>
                         </div>
                         <div className="p-6 bg-gray-50 rounded-2xl border border-gray-100">
-                             <h4 className="font-bold text-[#1F5EFF] mb-2 text-lg">2. Document Every Call</h4>
+                             <h5 className="font-bold text-[#1F5EFF] mb-2 text-lg">2. Document Every Call</h5>
                              <p className="text-sm text-gray-600">Maintain a log of every call from a recovery agent or bank official. Record the time, the name of the person, and what was said. This log is vital evidence if we need to file a harassment complaint.</p>
                         </div>
                         <div className="p-6 bg-gray-50 rounded-2xl border border-gray-100">
-                             <h4 className="font-bold text-[#1F5EFF] mb-2 text-lg">3. Prioritize Your Suppliers</h4>
+                             <h5 className="font-bold text-[#1F5EFF] mb-2 text-lg">3. Prioritize Your Suppliers</h5>
                              <p className="text-sm text-gray-600">If you want to restart your business post-settlement, your reputation with suppliers is more important than your bank CIBIL score. Use your limited cash to maintain key supplier relationships.</p>
                         </div>
                         <div className="p-6 bg-gray-50 rounded-2xl border border-gray-100">
-                             <h4 className="font-bold text-[#1F5EFF] mb-2 text-lg">4. Communicate with Your Family</h4>
+                             <h5 className="font-bold text-[#1F5EFF] mb-2 text-lg">4. Communicate with Your Family</h5>
                              <p className="text-sm text-gray-600">Do not hide the debt from your spouse or adult children. The stress of secrecy is often worse than the stress of the debt itself. A united family is your strongest asset during this time.</p>
                         </div>
                     </div>
                 </div>
 
                 <div>
-                    <h3 className="text-3xl font-black text-[#2E2E2E] mb-6">The Psychological Cost of Trading Debt</h3>
+                    <h4 className="text-3xl font-black text-[#2E2E2E] mb-6">The Psychological Cost of Trading Debt</h4>
                     <p className="text-lg leading-relaxed text-gray-600 mb-6">
                         Trading is a profession of high highs and low lows. When a trader falls into a debt trap, it often hits their self-esteem harder than it would hit anyone else. You might feel like you have failed your ancestors or your children. We want you to know that business failure is a tactical error, not a character flaw.
                     </p>

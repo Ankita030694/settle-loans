@@ -375,9 +375,9 @@ export default function CaseStudyIciciCreditCardSettlementClient() {
 
             {/* Section 2: Compounding Mathematics: APR & GST */}
             <section id="compounding-mathematics-apr-gst" className="mb-10 scroll-mt-24">
-              <h2 className="text-xl md:text-2xl lg:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h3 className="text-xl md:text-2xl lg:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 2. The Mathematics of Ruin: 42% APR, Monthly Capitalization &amp; 18% GST Cascades
-              </h2>
+              </h3>
               <p className="text-slate-700 leading-relaxed mb-4">
                 To appreciate how a modest ₹1.8 Lakh principal inflated into a crippling ₹5 Lakh institutional claim, one must examine the specific compounding mathematics embedded in Indian retail credit card contracts. Unlike standard personal loans that calculate simple reducing balance interest, credit card agreements utilize daily or monthly compound interest models under annualized percentage rates ranging from 42% to 45% (3.50% to 3.75% per month).
               </p>
@@ -450,9 +450,9 @@ export default function CaseStudyIciciCreditCardSettlementClient() {
 
             {/* Section 3: ICICI Retail NPA Mechanics */}
             <section id="banking-accounting-npa-provisioning" className="mb-10 scroll-mt-24">
-              <h2 className="text-xl md:text-2xl lg:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h3 className="text-xl md:text-2xl lg:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 3. Behind ICICI Bank&apos;s Retail Book: NPA Provisioning &amp; Balance Sheet Dynamics
-              </h2>
+              </h3>
               <p className="text-slate-700 leading-relaxed mb-4">
                 To achieve an authentic 70% debt settlement discount, one must look beyond the collection agent&apos;s aggressive rhetoric and understand ICICI Bank&apos;s institutional accounting pressures under the <em>Reserve Bank of India (Prudential Norms on Income Recognition, Asset Classification and Provisioning) Directions</em>.
               </p>
@@ -507,9 +507,9 @@ export default function CaseStudyIciciCreditCardSettlementClient() {
 
             {/* Section 4: Hardship Audit & NPV Formula */}
             <section id="hardship-audit-npv-valuation" className="mb-10 scroll-mt-24">
-              <h2 className="text-xl md:text-2xl lg:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h3 className="text-xl md:text-2xl lg:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 4. The Hardship Resolution Dossier &amp; Net Present Value (NPV) Valuation Model
-              </h2>
+              </h3>
               <p className="text-slate-700 leading-relaxed mb-4">
                 Commercial banks do not approve substantial debt haircuts on arbitrary appeals. Under ICICI Bank&apos;s Board-approved Compromise Settlement Policy, discounts are sanctioned solely when empirical evidence demonstrates genuine insolvency rather than willful default.
               </p>
@@ -554,9 +554,9 @@ export default function CaseStudyIciciCreditCardSettlementClient() {
                       <span className="text-[10px] font-black uppercase tracking-widest text-blue-300 block">
                         Legal Defense &amp; Action Blueprint
                       </span>
-                      <h3 className="text-sm md:text-base font-black text-white leading-tight">
+                      <h4 className="text-sm md:text-base font-black text-white leading-tight">
                         ICICI Credit Card Settlement: ₹5L to ₹1.5L Case Study
-                      </h3>
+                      </h4>
                     </div>
                   </div>
                   <a
@@ -599,9 +599,9 @@ export default function CaseStudyIciciCreditCardSettlementClient() {
 
             {/* Section 6: Anti-Harassment & Legal Shield */}
             <section id="recovery-containment-legal-defense" className="mb-10 scroll-mt-24">
-              <h2 className="text-xl md:text-2xl lg:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h3 className="text-xl md:text-2xl lg:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 6. Cease-and-Desist Defense: Neutralizing Collection Harassment &amp; Legal Notices
-              </h2>
+              </h3>
               <p className="text-slate-700 leading-relaxed mb-4">
                 Prior to seeking legal counsel, Siddharth faced unrelenting coercion from third-party recovery agencies outsourced by ICICI Bank. Tele-callers placed up to thirty threatening calls daily, contacted his aged parents, and threatened workplace confrontations. In addition, ICICI Bank&apos;s legal panel issued a statutory demand notice under <strong>Section 25 of the Payment and Settlement Systems Act, 2007 (PSSA)</strong> alleging quasi-criminal liability for an electronic mandate dishonour, alongside a notice under <strong>Section 138 of the Negotiable Instruments Act, 1881</strong>.
               </p>
@@ -618,9 +618,9 @@ export default function CaseStudyIciciCreditCardSettlementClient() {
 
             {/* Section 7: Negotiating the ₹1.5L Settlement */}
             <section id="sarb-negotiation-haircut-breakdown" className="mb-10 scroll-mt-24">
-              <h2 className="text-xl md:text-2xl lg:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h3 className="text-xl md:text-2xl lg:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 7. The Settlement Table: Negotiating the ₹1.5 Lakhs (70% Haircut) with ICICI SARB
-              </h2>
+              </h3>
               <p className="text-slate-700 leading-relaxed mb-4">
                 Negotiating an effective credit card settlement requires direct interaction with authorized institutional officers. Third-party collection agents and branch personnel lack the delegated financial authority under ICICI Bank&apos;s <em>Delegation of Financial Powers (DoFP)</em> matrix to waive core principal or compound finance charges.
               </p>
@@ -680,9 +680,9 @@ export default function CaseStudyIciciCreditCardSettlementClient() {
 
             {/* Section 8: Sanction Letter Audit Protocols */}
             <section id="sanction-letter-forensics-payment" className="mb-10 scroll-mt-24">
-              <h2 className="text-xl md:text-2xl lg:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h3 className="text-xl md:text-2xl lg:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 8. Sanction Letter Forensics: 5 Mandatory Verification Checkpoints
-              </h2>
+              </h3>
               <p className="text-slate-700 leading-relaxed mb-4">
                 Before remitting any settlement funds, SettleLoans conducted a stringent forensic audit of the compromise letter issued by ICICI Bank. Making unverified payments based on verbal representations by collection agencies is the single largest cause of settlement disputes in India.
               </p>
@@ -699,9 +699,9 @@ export default function CaseStudyIciciCreditCardSettlementClient() {
 
             {/* Section 9: ₹0 NDC & Credit Rehabilitation */}
             <section id="no-dues-certificate-cibil-trajectory" className="mb-10 scroll-mt-24">
-              <h2 className="text-xl md:text-2xl lg:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h3 className="text-xl md:text-2xl lg:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 9. The ₹0 No Dues Certificate &amp; 24-Month CIBIL Score Reconstruction
-              </h2>
+              </h3>
               <p className="text-slate-700 leading-relaxed mb-4">
                 Under <strong>RBI Circular RBI/2023-24/60</strong> (<em>Release of Movable/Immovable Property Documents and Issue of No Dues Certificate on Repayment/Settlement of Personal Loans</em>), commercial banks must issue a formal No Dues Certificate (NDC) and update credit bureau records within 30 calendar days of settlement receipt.
               </p>
@@ -721,9 +721,9 @@ export default function CaseStudyIciciCreditCardSettlementClient() {
 
             {/* Section 10: Comparative Resolution Matrix */}
             <section id="ots-vs-restructuring-matrix" className="mb-10 scroll-mt-24">
-              <h2 className="text-xl md:text-2xl lg:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h3 className="text-xl md:text-2xl lg:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 10. Comparative Resolution Matrix: Direct OTS vs. Restructuring vs. MAD Servicing
-              </h2>
+              </h3>
               <p className="text-slate-700 leading-relaxed mb-4">
                 When confronting credit card debt distress, borrowers must evaluate the mathematical and legal realities of available resolution pathways in India:
               </p>
@@ -790,9 +790,9 @@ export default function CaseStudyIciciCreditCardSettlementClient() {
                   <HelpCircle className="w-3.5 h-3.5" />
                   <span>Frequently Asked Questions</span>
                 </div>
-                <h2 className="text-2xl sm:text-3xl font-black text-slate-900 leading-tight">
+                <h3 className="text-2xl sm:text-3xl font-black text-slate-900 leading-tight">
                   Everything You Need to Know About ICICI Card Settlements
-                </h2>
+                </h3>
                 <p className="text-sm text-slate-600 mt-2">
                   Clear, authoritative legal answers regarding ICICI Bank credit card settlements, compound interest waivers, recovery defense, and credit rehabilitation.
                 </p>
@@ -813,10 +813,10 @@ export default function CaseStudyIciciCreditCardSettlementClient() {
 
             {/* Regulatory & Institutional Sources Strip (5 Official Links) */}
             <div className="bg-slate-50 border border-slate-200 rounded-2xl p-6 my-10 text-xs text-slate-700">
-              <h3 className="text-sm font-bold text-slate-900 mb-3 flex items-center gap-2">
+              <h4 className="text-sm font-bold text-slate-900 mb-3 flex items-center gap-2">
                 <Landmark className="w-4 h-4 text-[#1F5EFF]" />
                 Official Statutory Authorities &amp; Regulatory Frameworks
-              </h3>
+              </h4>
               <ul className="space-y-2.5">
                 <li className="flex items-start gap-2">
                   <ExternalLink className="w-4 h-4 text-[#1F5EFF] flex-shrink-0 mt-0.5" />
@@ -878,10 +878,10 @@ export default function CaseStudyIciciCreditCardSettlementClient() {
 
             {/* Related Guides & Resources Strip (10 Topic Badges) */}
             <div className="bg-slate-50 border border-slate-200 rounded-2xl p-6 my-10">
-              <h3 className="text-base font-bold text-slate-900 mb-4 flex items-center gap-2">
+              <h4 className="text-base font-bold text-slate-900 mb-4 flex items-center gap-2">
                 <BookOpen className="w-5 h-5 text-[#1F5EFF]" />
                 Explore Related Credit Card &amp; Debt Resolution Guides
-              </h3>
+              </h4>
               <div className="flex flex-wrap gap-2.5">
                 <Link
                   href="/how-to-settle-credit-card-debt"

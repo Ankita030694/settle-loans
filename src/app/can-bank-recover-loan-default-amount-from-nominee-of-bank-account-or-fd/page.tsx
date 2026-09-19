@@ -253,22 +253,22 @@ export default function NomineeLiabilityDefensePage() {
             </section>
 
             <section id="can-bank-attach-nominee-fd" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 Can Bank Attach Nominee FD for a Loan Default?
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 Banks frequently attempt to illegally attach or liquidate a Fixed Deposit where the deceased borrower was the primary holder and you were the nominee, claiming they are recovering loan dues. Here is the legal reality:
               </p>
 
               <div className="grid md:grid-cols-2 gap-6 my-8">
                 <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
-                  <h3 className="font-black text-[#1F5EFF] text-lg mb-3">FDs Pledged as Collateral</h3>
+                  <h4 className="font-black text-[#1F5EFF] text-lg mb-3">FDs Pledged as Collateral</h4>
                   <p className="text-gray-700 leading-relaxed">
                     If the specific FD was officially pledged or marked with a lien as collateral for that specific loan (like an overdraft against FD), the bank has the first right to liquidate it to recover dues, regardless of who the nominee is.
                   </p>
                 </div>
                 <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
-                  <h4 className="font-black text-[#1F5EFF] text-lg mb-3">Unpledged Independent FDs</h4>
+                  <h5 className="font-black text-[#1F5EFF] text-lg mb-3">Unpledged Independent FDs</h5>
                   <p className="text-gray-700 leading-relaxed">
                     If the FD was independent and not linked to the defaulted personal loan or credit card, the bank <strong>cannot automatically attach it</strong>. They must hand the funds over to the nominee, who holds it for the legal heirs. The bank must file a civil claim against the estate to recover the money.
                   </p>
@@ -277,15 +277,15 @@ export default function NomineeLiabilityDefensePage() {
             </section>
 
             <section id="rbi-rules-nominee" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 RBI Rules on Nominee vs Legal Heir
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 The Reserve Bank of India (RBI) has issued clear Master Circulars to prevent banks from harassing nominees and heirs during traumatic times.
               </p>
 
               <div className="bg-blue-50 border-l-8 border-[#1F5EFF] p-8 rounded-r-2xl mb-8">
-                <h3 className="text-xl font-black text-[#1F5EFF] mb-4">Key RBI Mandates for Banks</h3>
+                <h4 className="text-xl font-black text-[#1F5EFF] mb-4">Key RBI Mandates for Banks</h4>
                 <p className="text-blue-900 text-lg leading-relaxed mb-4">
                   Banks are bound by strict protocols regarding deceased depositors' accounts:
                 </p>
@@ -307,15 +307,15 @@ export default function NomineeLiabilityDefensePage() {
             </section>
 
             <section id="right-of-set-off" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 The Banker's Right of Set-Off Explained
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 Banks often justify seizing funds by quoting the <em>"Banker's Right of Set-Off"</em>. This is a common law right allowing a bank to combine two accounts of a customer—taking money from a credit balance to pay off a debit balance.
               </p>
               
               <div className="bg-red-50 p-6 rounded-xl border border-red-100 mb-8">
-                <h3 className="text-xl font-black text-red-700 mb-3">Why Set-Off Fails Against Nominees</h3>
+                <h4 className="text-xl font-black text-red-700 mb-3">Why Set-Off Fails Against Nominees</h4>
                 <p className="text-red-900 leading-relaxed">
                   The Right of Set-Off requires <strong>Mutuality</strong>. This means the funds and the debt must belong to the exact same person, in the exact same capacity. Once a borrower dies, their capacity changes. A nominee holds funds in a fiduciary capacity (as a trustee). The bank cannot set off a deceased man's personal debt against funds held in trust by a nominee. Doing so is an illegal misappropriation of funds.
                 </p>
@@ -323,9 +323,9 @@ export default function NomineeLiabilityDefensePage() {
             </section>
 
             <section id="unsecured-loans" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 What Happens to Unsecured Loans After Death?
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 Personal loans, credit card debts, and app-based loans are generally unsecured. When the borrower dies, the liability does not magically jump to the nominee or even the legal heirs personally.
               </p>
@@ -334,7 +334,7 @@ export default function NomineeLiabilityDefensePage() {
                 <div className="flex gap-6">
                   <div className="flex-shrink-0 w-12 h-12 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center font-black text-xl shadow-lg">1</div>
                   <div>
-                    <h3 className="text-2xl font-bold text-[#2E2E2E] mb-2">Claim Against the Estate</h3>
+                    <h4 className="text-2xl font-bold text-[#2E2E2E] mb-2">Claim Against the Estate</h4>
                     <p className="text-lg text-gray-700 leading-relaxed">
                       The bank can only recover the outstanding amount from the "estate" (property, assets, bank balances) left behind by the deceased.
                     </p>
@@ -344,7 +344,7 @@ export default function NomineeLiabilityDefensePage() {
                 <div className="flex gap-6">
                   <div className="flex-shrink-0 w-12 h-12 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center font-black text-xl shadow-lg">2</div>
                   <div>
-                    <h3 className="text-2xl font-bold text-[#2E2E2E] mb-2">Limited Heir Liability</h3>
+                    <h4 className="text-2xl font-bold text-[#2E2E2E] mb-2">Limited Heir Liability</h4>
                     <p className="text-lg text-gray-700 leading-relaxed">
                       If you are a legal heir, you are only liable to pay the bank up to the extent of the value of the assets you inherited from the deceased. If the deceased left no assets, you do not have to pay a single rupee from your own pocket.
                     </p>
@@ -354,7 +354,7 @@ export default function NomineeLiabilityDefensePage() {
                 <div className="flex gap-6">
                   <div className="flex-shrink-0 w-12 h-12 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center font-black text-xl shadow-lg">3</div>
                   <div>
-                    <h3 className="text-2xl font-bold text-[#2E2E2E] mb-2">Write-Offs and Insurance</h3>
+                    <h4 className="text-2xl font-bold text-[#2E2E2E] mb-2">Write-Offs and Insurance</h4>
                     <p className="text-lg text-gray-700 leading-relaxed">
                       Many personal loans have built-in insurance cover that pays off the debt upon the borrower's death. If no insurance and no estate exists, the bank must write off the loan. They cannot harass the nominee.
                     </p>
@@ -364,9 +364,9 @@ export default function NomineeLiabilityDefensePage() {
             </section>
 
             <section id="bank-freezing-nominee-account" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 Bank Freezing Nominee Account for Dead Borrower
-              </h2>
+              </h3>
               <div className="bg-gray-50 p-8 rounded-2xl mb-8 border border-gray-200">
                 <p className="text-lg leading-relaxed mb-6 text-gray-800">
                   A highly aggressive, illegal tactic used by banks is to freeze the <em>personal savings account</em> of the nominee just because they share the same bank branch as the deceased borrower. This is entirely unlawful.
@@ -378,22 +378,22 @@ export default function NomineeLiabilityDefensePage() {
             </section>
 
             <section id="strategic-defense" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 How to Protect Your Funds
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 Do not succumb to emotional blackmail or illegal threats by recovery agents. Take immediate legal steps to protect your funds.
               </p>
 
               <div className="grid md:grid-cols-2 gap-6 my-8">
                 <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
-                  <h3 className="font-black text-[#1F5EFF] text-lg mb-3">1. Send a Strong Legal Notice</h3>
+                  <h4 className="font-black text-[#1F5EFF] text-lg mb-3">1. Send a Strong Legal Notice</h4>
                   <p className="text-gray-700 leading-relaxed">
                     Have an expert banking lawyer send a cease-and-desist notice citing RBI Master Circulars on Customer Service, proving the bank's actions are ultra vires (beyond their legal power).
                   </p>
                 </div>
                 <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
-                  <h4 className="font-black text-[#1F5EFF] text-lg mb-3">2. Banking Ombudsman Complaint</h4>
+                  <h5 className="font-black text-[#1F5EFF] text-lg mb-3">2. Banking Ombudsman Complaint</h5>
                   <p className="text-gray-700 leading-relaxed">
                     If the bank branch refuses to unfreeze your account or release the FD funds to you as a nominee, file a grievance with the RBI Banking Ombudsman for deficiency of service.
                   </p>
@@ -402,9 +402,9 @@ export default function NomineeLiabilityDefensePage() {
             </section>
 
             <section id="success-stories" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 Success Stories
-              </h2>
+              </h3>
               <div className="grid md:grid-cols-2 gap-6 my-8">
                 <div className="bg-white p-8 rounded-[30px] border border-[#DEDEDE] shadow-sm hover:shadow-xl group transition-all">
                   <div className="flex items-center gap-4 mb-6">
@@ -412,7 +412,7 @@ export default function NomineeLiabilityDefensePage() {
                       MK
                     </div>
                     <div>
-                      <h3 className="font-bold text-gray-900">Meera K.</h3>
+                      <h4 className="font-bold text-gray-900">Meera K.</h4>
                       <div className="flex text-yellow-400">
                         <svg className="w-4 h-4 fill-current" viewBox="0 0 20 20"><path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z"/></svg>
                         <svg className="w-4 h-4 fill-current" viewBox="0 0 20 20"><path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z"/></svg>
@@ -437,7 +437,7 @@ export default function NomineeLiabilityDefensePage() {
                       RJ
                     </div>
                     <div>
-                      <h4 className="font-bold text-gray-900">Rohan J.</h4>
+                      <h5 className="font-bold text-gray-900">Rohan J.</h5>
                       <div className="flex text-yellow-400">
                         <svg className="w-4 h-4 fill-current" viewBox="0 0 20 20"><path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z"/></svg>
                         <svg className="w-4 h-4 fill-current" viewBox="0 0 20 20"><path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z"/></svg>
@@ -459,13 +459,13 @@ export default function NomineeLiabilityDefensePage() {
             </section>
 
             <section id="faqs" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 Frequently Asked Questions
-              </h2>
+              </h3>
               <div className="space-y-4">
                 {((jsonLd["@graph"].find((item: any) => item["@type"] === "FAQPage") as any)?.mainEntity || []).map((faq: any, index: number) => (
                   <div key={index} className="bg-white border border-[#DEDEDE] rounded-xl p-6 hover:shadow-md transition-shadow">
-                    <h3 className="text-xl font-bold text-[#2E2E2E] mb-3">{faq.name}</h3>
+                    <h4 className="text-xl font-bold text-[#2E2E2E] mb-3">{faq.name}</h4>
                     <p className="text-gray-700 leading-relaxed">{faq.acceptedAnswer.text}</p>
                   </div>
                 ))}
@@ -476,9 +476,9 @@ export default function NomineeLiabilityDefensePage() {
             <div className="bg-[#2E2E2E] text-white p-12 rounded-[40px] text-center mt-24 relative overflow-hidden group">
               <div className="absolute inset-0 bg-[#1F5EFF] opacity-0 group-hover:opacity-5 transition-opacity duration-300"></div>
               <div className="relative z-10">
-                <h3 className="text-3xl md:text-5xl font-black mb-6 leading-tight">
+                <h4 className="text-3xl md:text-5xl font-black mb-6 leading-tight">
                   Is the Bank Illegally Seizing Your Money?
-                </h3>
+                </h4>
                 <p className="text-lg md:text-xl text-gray-300 mb-8 max-w-2xl mx-auto">
                   Is the bank trying to illegally seize your money just because you were the nominee on a deceased relative's account? Protect your funds with our expert banking lawyers.
                 </p>

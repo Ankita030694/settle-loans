@@ -287,7 +287,7 @@ export default function OdishaLoanSettlementPage() {
             </section>
 
             <section id="odisha-money-lenders-act" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl font-black mb-6">The Odisha Money Lenders Act, 1939: A Shield Against Exploitation</h2>
+              <h3 className="text-3xl font-black mb-6">The Odisha Money Lenders Act, 1939: A Shield Against Exploitation</h3>
               <p>The Odisha Money Lenders Act, 1939, remains one of the most powerful legislative tools for borrower protection in the state. Enacted to curb the exploitative practices of private money lenders, this Act has provisions that are highly relevant even in the modern context of non institutional lending. The Act makes it mandatory for any person or entity engaged in the business of money lending to be registered. A loan advanced by an unregistered money lender is often legally unenforceable in a court of law.</p>
               <p>One of the key features of this Act is the regulation of interest rates. It empowers the state government to fix the maximum rate of interest that can be charged on secured and unsecured loans. Any interest charged above this limit is considered usurious and is not recoverable. For borrowers in Odisha facing harassment from local financiers or unorganized lenders who demand exorbitant interest rates, this Act provides a solid legal ground to challenge the debt. We have successfully used these provisions to negotiate settlements where the lender is forced to waive off the illegal interest component entirely.</p>
               <p>The Act also mandates that lenders must maintain clear accounts and provide receipts for every payment made by the borrower. In many cases in rural and semi urban Odisha, lenders fail to provide these basic documents. highlighting these procedural lapses gives us significant leverage during negotiations. We demand a full reconciliation of accounts based on the legal interest rates, often finding that the borrower has already paid back more than the principal amount plus legal interest.</p>
@@ -295,7 +295,7 @@ export default function OdishaLoanSettlementPage() {
             </section>
 
             <section id="debt-relief-act" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl font-black mb-6">The Odisha Debt Relief Act, 1980 & Scheduled Areas Regulation</h2>
+              <h3 className="text-3xl font-black mb-6">The Odisha Debt Relief Act, 1980 & Scheduled Areas Regulation</h3>
               <p>Odisha has a significant population living in rural and scheduled areas, and the state has enacted specific laws to protect them. The Odisha Debt Relief Act, 1980, and The Odisha (Scheduled Areas) Debt Relief Regulation, 1967, are landmark legislations aimed at relieving the debt burden of small farmers, rural artisans, and agricultural laborers. These laws are particularly potent because they can lead to the "discharge" of debt, meaning the debt is legally wiped out under certain conditions.</p>
               <p>The core principle of these regulations is the "Damdupat" rule, which effectively states that the total interest recovered cannot exceed the principal amount. If a borrower has already paid an amount equal to twice the principal, the debt is deemed to be fully discharged. This is a massive relief for borrowers who have been paying interest for years without seeing the principal reduce. We help eligible clients in districts like Koraput, Mayurbhanj, and Sundargarh to invoke these provisions.</p>
               <p>These Acts also establish special tribunals or relief courts to handle debt disputes, bypassing the lengthy civil court process. For our clients in scheduled areas, we prioritize filing applications before these competent authorities. This not only stops the recovery process but often results in a favorable order that declares the debt settled or discharged. It is a specialized area of law that requires deep local knowledge, which our team possesses.</p>
@@ -303,7 +303,7 @@ export default function OdishaLoanSettlementPage() {
             </section>
 
             <section id="lok-adalat-settlement" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl font-black mb-6">Settling Debts through Lok Adalat in Odisha</h2>
+              <h3 className="text-3xl font-black mb-6">Settling Debts through Lok Adalat in Odisha</h3>
               <p>The Lok Adalat (People's Court) system is one of the most effective mechanisms for reconciling loan disputes in Odisha. Organized under the aegis of the Odisha State Legal Services Authority (OSLSA), Lok Adalats are held regularly across all 30 districts of the state. They provide a forum where disputes can be settled amicably, quickly, and cost effectively. The decision or "award" passed by a Lok Adalat is final and binding on all parties, and no appeal lies against it in any court.</p>
               <p>For bank loans and credit card dues, Lok Adalats are a goldmine for settlement opportunities. Banks are eager to reduce their Non Performing Assets (NPAs) and often come to these Adalats with pre approved mandates to offer substantial discounts. We have seen waivers ranging from 40% to 70% in National Lok Adalats held in Cuttack and Bhubaneswar. This is especially true for old accounts where the bank has exhausted other recovery means.</p>
               <p>However, entering a Lok Adalat negotiation without preparation can be risky. Unrepresented borrowers might be pressured into agreeing to terms they cannot fulfill. At SettleLoans, we manage the entire pre Lok Adalat process. We engage with the bank managers weeks before the scheduled date to agree on a settlement figure. We ensure that the terms are fair and documented. When the day of the Lok Adalat arrives, it is merely a formality to stamp the agreement we have already secured.</p>
@@ -311,7 +311,7 @@ export default function OdishaLoanSettlementPage() {
             </section>
 
             <section id="drt-cuttack" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl font-black mb-6">Navigating the Debts Recovery Tribunal (DRT) Cuttack</h2>
+              <h3 className="text-3xl font-black mb-6">Navigating the Debts Recovery Tribunal (DRT) Cuttack</h3>
               <p>For loan amounts exceeding ₹20 Lakhs, the jurisdiction lies with the Debts Recovery Tribunal (DRT). In Odisha, the DRT is located in Cuttack. Receiving a summons from the DRT can be intimidating, but it is a legal process that guarantees you a right to be heard. The DRT Cuttack covers the entire state, handling cases filed by banks and financial institutions for recovery of debts.</p>
               <p>When a case is filed against you in the DRT, time is of the essence. You must file a "Written Statement" in your defense within the stipulated period (usually 30 days). This is where our legal expertise becomes crucial. We scrutinize the bank's application for errors in interest calculation, non compliance with RBI circulars, or failure to follow NPA classification norms. Raising these technical objections often forces the bank to reconsider its stance and come to the negotiating table.</p>
               <p>It is important to understand that the DRT is not just a recovery agent for the bank; it is a judicial body. We have successfully represented clients in DRT Cuttack, arguing for their right to a fair settlement. We often file counter claims or interlocutory applications to stay coercive measures while a settlement proposal is being discussed. The goal is to move the dispute from a confrontational legal battle to a constructive settlement dialogue.</p>
@@ -319,7 +319,7 @@ export default function OdishaLoanSettlementPage() {
             </section>
 
             <section id="microfinance-issues" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl font-black mb-6">Microfinance and SHG Loans: Rights and Remedies</h2>
+              <h3 className="text-3xl font-black mb-6">Microfinance and SHG Loans: Rights and Remedies</h3>
               <p>Odisha has a very high penetration of Microfinance Institutions (MFIs) and Self Help Group (SHG) lending. While these institutions empower rural women and small entrepreneurs, the pressure to repay can sometimes lead to severe coercion. The "joint liability" model often results in peer pressure and social shaming, which is a significant source of distress in rural communities across the state.</p>
               <p>It is crucial to know that the RBI has issued specific fair practice codes for MFIs. They are prohibited from using coercive recovery methods, visiting borrowers at odd hours, or using abusive language. Furthermore, the Odisha government monitors MFI activities closely through the District adminstration. If you are a victim of unethical MFI practices, you have strong grounds for complaint. We help clients draft complaints to the MFI grievance redressal officers and the RBI Ombudsman.</p>
               <p>For SHG loans, the pressure often comes from within the group. We counsel our clients on how to communicate with group leaders and bank officials. We advocate for the restructuring of individual loans within the group if a member is facing genuine hardship, ensuring that one person's default does not destroy the credit linkage for the entire group. We also verify if the MFI is charging interest within the regulatory caps, which are frequently flouted.</p>
@@ -327,7 +327,7 @@ export default function OdishaLoanSettlementPage() {
             </section>
 
             <section id="consumer-protection" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl font-black mb-6">Consumer Protection Forums: Fighting Service Deficiencies</h2>
+              <h3 className="text-3xl font-black mb-6">Consumer Protection Forums: Fighting Service Deficiencies</h3>
               <p>Borrowers in Odisha typically forget that they are "consumers" of banking services. If a bank or NBFC provides a deficient service, you have the right to approach the District Consumer Disputes Redressal Commissions. Odisha has active consumer commissions in districts like Khurda, Cuttack, Ganjam, and Rourkela. Deficient service can include harassment by recovery agents, failure to update CIBIL records after payment, or losing property documents.</p>
               <p>We use the Consumer Protection Act as a strategic tool. If a recovery agent has harassed you, we help you document the evidence—call recordings, messages, or witness statements—and file a consumer complaint seeking compensation for mental agony and harassment. The prospect of a consumer court judgment, which often includes paying compensation and legal costs, is a strong deterrent for banks. They often prefer to settle the loan amicably rather than face an adverse ruling.</p>
               <p>Recent judgments by the Odisha State Consumer Dispute Redressal Commission have reinforced borrower rights, stating that banks cannot use musclemen for recovery. We cite these precedents in our representations. This shifts the power dynamic. You are no longer just a "defaulter" pleading for mercy; you are an aggrieved consumer demanding your rights. This legal posture significantly improves the terms of settlement we can secure for you.</p>
@@ -335,7 +335,7 @@ export default function OdishaLoanSettlementPage() {
             </section>
 
             <section id="sarfaesi-odisha" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl font-black mb-6">SARFAESI Act in Odisha: Protecting Your Property</h2>
+              <h3 className="text-3xl font-black mb-6">SARFAESI Act in Odisha: Protecting Your Property</h3>
               <p>The SARFAESI Act gives banks swift powers to seize secured assets (like your home or shop) without court intervention if the loan becomes an NPA. In Odisha, this is aggressively used for housing loans and Loans Against Property (LAP). The process starts with a Section 13(2) demand notice, followed by a Section 13(4) possession notice. If you receive these, you must act specifically and quickly.</p>
               <p>However, to take physical possession of the property, the bank must apply to the District Magistrate (DM) or Collector of the district. In Odisha, we closely monitor proceedings at the DM's office. We file objections pointing out any procedural irregularities by the bank—such as incorrect account classification, undervaluation of the property, or failure to consider your representation. Often, the DM's office in districts like Puri or Khurda acts as a check, ensuring that natural justice is followed before ordering possession.</p>
               <p>Even if the process advances, you have the "Right of Redemption." You can pay the dues and reclaim your property anytime before the sale is confirmed. We assist clients in arranging emergency funding or bridge finance to exercise this right. Alternatively, we use the threat of a prolonged legal battle in the DRT to bring the bank to the negotiating table for a One Time Settlement (OTS) that saves your property.</p>
@@ -343,7 +343,7 @@ export default function OdishaLoanSettlementPage() {
             </section>
 
             <section id="regional-insights" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl font-black mb-6">Regional Debt Insights: From Coastal to Western Odisha</h2>
+              <h3 className="text-3xl font-black mb-6">Regional Debt Insights: From Coastal to Western Odisha</h3>
               <p>Odisha is a diverse state, and debt patterns vary significantly by region. In **Coastal Odisha** (Bhubaneswar, Cuttack, Puri, Balasore), we see a high concentration of urban debt—personal loans, credit cards, and home loans. The borrower base here is largely salaried or engaged in trade. The recovery pressure is intense due to the physical presence of bank branches and agencies. Our strategy here focuses on legal notices to stop harassment and professional negotiation for OTS.</p>
               <p>In **Western Odisha** (Sambalpur, Rourkela, Jharsuguda), the economy is driven by industry and mining. We see debts related to small businesses, transport (vehicle loans), and fluctuating industrial employment. Here, cyclical income is a major factor. We structure settlements that align with cash flow cycles, often negotiating for longer repayment windows within the settlement agreement.</p>
               <p>In **Southern and Interior Odisha** (Berhampur, Koraput, Rayagada), the debt profile is often linked to agriculture, SHGs, and microfinance. The challenges here are often lack of awareness and exploitation by informal lenders. We focus heavily on education and using the protective legislations like the Debt Relief Acts and MFI regulations. We also work with local administrative bodies to seek relief for our clients.</p>
@@ -351,7 +351,7 @@ export default function OdishaLoanSettlementPage() {
             </section>
 
             <section id="settlement-process" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl font-black mb-6">The SettleLoans Roadmap to Financial Freedom</h2>
+              <h3 className="text-3xl font-black mb-6">The SettleLoans Roadmap to Financial Freedom</h3>
               <p>Our settlement process is a disciplined, step by step journey designed to take you from stress to stability. It begins with **Financial Triage**, where we assess your immediate liquidity and prioritize which fires to fight first. We analyze your loan agreements to identify any clauses that violate Odisha state laws.</p>
               <p>Next comes **Legal Fortification**. We immediately issue legal notices to all your creditors. This notice informs them that you are legally represented and that all future communication must be directed to SettleLoans. This single step often stops 90% of the harassment, as recovery agents are wary of interfering with legal counsel.</p>
               <p>We then enter the **Strategic Delinquency & Negotiation** phase. This is a controlled process where we manage your accounts to force the bank to categorize them as "distressed assets" eligible for settlement. We engage in rounds of negotiation, using the offers from Lok Adalats as a benchmark. We don't accept the first offer; we push until we reach the "floor price"—the absolute minimum the bank is willing to accept.</p>
@@ -359,20 +359,20 @@ export default function OdishaLoanSettlementPage() {
             </section>
 
             <section id="stop-harassment" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl font-black mb-6">Stopping Recovery Harassment in Odisha</h2>
+              <h3 className="text-3xl font-black mb-6">Stopping Recovery Harassment in Odisha</h3>
               <p>Harassment is the ugliest face of debt, and in Odisha, we have zero tolerance for it. Whether it is incessant calling, visiting your workplace, or contacting your relatives, these actions are illegal. The Supreme Court and the RBI have laid down that "Right to Privacy" is fundamental. A defaulter does not lose their civil rights.</p>
               <p>If you are being harassed, we help you take immediate action. We draft complaints to the **Inspector in Charge (IIC)** of your local police station, citing provisions of the IPC and the Odisha Money Lenders Act. We also escalate the matter to the bank's Nodal Officer and the RBI Ombudsman. In severe cases, we are prepared to file writ petitions in the Odisha High Court to seek protection orders.</p>
               <p>Our clients in Odisha often tell us that the relief from harassment is the biggest value we provide. The silence from recovery agents allows them to think clearly, work productively, and save money for the eventual settlement. We act as a blast wall, absorbing the pressure so you can focus on rebuilding your life.</p>
             </section>
 
             <section id="success-stories" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl font-black mb-8 text-center">Success Stories from Odisha</h2>
+              <h3 className="text-3xl font-black mb-8 text-center">Success Stories from Odisha</h3>
               <div className="grid md:grid-cols-2 gap-6 not-prose">
                 <div className="bg-white p-6 rounded-2xl border border-[#DEDEDE] shadow-sm hover:shadow-md transition-all">
                   <div className="flex items-center mb-4">
                     <div className="w-10 h-10 rounded-full bg-[#1F5EFF]/10 flex items-center justify-center font-bold text-[#1F5EFF] mr-3">R</div>
                     <div>
-                      <h3 className="font-bold">Rajesh M.</h3>
+                      <h4 className="font-bold">Rajesh M.</h4>
                       <p className="text-xs text-gray-500">Bhubaneswar</p>
                     </div>
                   </div>
@@ -383,7 +383,7 @@ export default function OdishaLoanSettlementPage() {
                   <div className="flex items-center mb-4">
                     <div className="w-10 h-10 rounded-full bg-[#1F5EFF]/10 flex items-center justify-center font-bold text-[#1F5EFF] mr-3">S</div>
                     <div>
-                      <h4 className="font-bold">Suman D.</h4>
+                      <h5 className="font-bold">Suman D.</h5>
                       <p className="text-xs text-gray-500">Cuttack</p>
                     </div>
                   </div>
@@ -394,14 +394,14 @@ export default function OdishaLoanSettlementPage() {
             </section>
 
             <section id="rebuilding-credit" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl font-black mb-6">Rebuilding Your Credit Score</h2>
+              <h3 className="text-3xl font-black mb-6">Rebuilding Your Credit Score</h3>
               <p>Settlement is a restart button, not the end of the road. While your score dips initially, it can be rebuilt. We recommend a localized strategy. Start by clearing all "Written Off" statuses. Ensure the settlement is reported as "Settled" or "Closed" and not "Suit Filed."</p>
               <p>We guide you to open a fixed deposit backed secure credit card with a reliable bank. Using this card for small utility payments and paying it back in full every month is the fastest way to boost your score. We also help you check for discrepancies in your CIBIL report—a common issue where banks fail to update records.</p>
               <p>Within 18 to 24 months of disciplined financial behavior, our clients often see their scores cross 750 again, making them eligible for new home loans or business loans. We stick with you through this rebuilding phase, ensuring your financial health is restored permanently.</p>
             </section>
 
             <section id="faqs" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl font-black mb-8">Frequently Asked Questions: Odisha</h2>
+              <h3 className="text-3xl font-black mb-8">Frequently Asked Questions: Odisha</h3>
               <div className="space-y-4 not-prose">
                 {[
                   { q: "Is loan settlement legal in Odisha?", a: "Yes, it is 100% legal, governed by the Indian Contract Act and facilitated by the Odisha State Legal Services Authority (OSLSA) and RBI guidelines." },
@@ -431,7 +431,7 @@ export default function OdishaLoanSettlementPage() {
             </section>
 
             <section className="mt-16 bg-[#1F5EFF] rounded-3xl p-10 text-center text-white shadow-2xl">
-              <h2 className="text-3xl md:text-4xl font-black mb-4">Reclaim Your Financial Freedom in Odisha</h2>
+              <h3 className="text-3xl md:text-4xl font-black mb-4">Reclaim Your Financial Freedom in Odisha</h3>
               <p className="mb-8 text-lg opacity-90 max-w-2xl mx-auto">From Bhubaneswar to Rourkela, we have helped thousands of families settle their debts with dignity. Your fresh start is just a call away.</p>
               <div className="flex justify-center">
                 <Link href="/contact" className="inline-block bg-white text-[#1F5EFF] font-black py-4 px-12 rounded-xl hover:scale-105 transition-all text-xl shadow-lg">

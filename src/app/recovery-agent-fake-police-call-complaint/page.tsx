@@ -559,44 +559,44 @@ export default function RecoveryAgentFakePoliceCallComplaintPage() {
 
             {/* Section 2: Statutory Offenses & Criminal Sanctions: BNS, IPC & IT Act */}
             <section id="criminal-sanctions-bns-ipc-it-act" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">2. Statutory Criminal Offenses</h2>
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">2. Statutory Criminal Offenses</h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Posing as police is strictly illegal. The <strong>Bharatiya Nyaya Sanhita (BNS), 2023</strong> applies. The IPC punishes offenders too:
               </p>
 
               <div className="space-y-3 my-4">
                 <div className="p-4 rounded-xl border-l-4 border-red-500 bg-slate-50 space-y-1">
-                  <h3 className="font-bold text-slate-900 text-xs sm:text-sm flex items-center gap-1.5">
+                  <h4 className="font-bold text-slate-900 text-xs sm:text-sm flex items-center gap-1.5">
                     <ShieldAlert className="w-4 h-4 text-red-600" />
                     <span>Impersonating a Public Servant (Section 204 BNS / Section 170 IPC).</span>
-                  </h3>
+                  </h4>
                   <p className="text-xs text-slate-600 leading-relaxed">
                     Posing as police is a crime under Section 204 BNS. It violates Section 170 IPC. It brings 3 years in jail.
                   </p>
                 </div>
                 <div className="p-4 rounded-xl border-l-4 border-amber-500 bg-slate-50 space-y-1">
-                  <h4 className="font-bold text-slate-900 text-xs sm:text-sm flex items-center gap-1.5">
+                  <h5 className="font-bold text-slate-900 text-xs sm:text-sm flex items-center gap-1.5">
                     <FileWarning className="w-4 h-4 text-amber-600" />
                     <span>Cheating by Personation &amp; Cyber Fraud (Section 66D IT Act, 2000).</span>
-                  </h4>
+                  </h5>
                   <p className="text-xs text-slate-600 leading-relaxed">
                     Calling as fake police is cyber fraud. Section 66D IT Act applies. It orders 3 years in jail and heavy fines.
                   </p>
                 </div>
                 <div className="p-4 rounded-xl border-l-4 border-indigo-500 bg-slate-50 space-y-1">
-                  <h4 className="font-bold text-slate-900 text-xs sm:text-sm flex items-center gap-1.5">
+                  <h5 className="font-bold text-slate-900 text-xs sm:text-sm flex items-center gap-1.5">
                     <Gavel className="w-4 h-4 text-indigo-600" />
                     <span>Criminal Intimidation &amp; Extortion (Section 351 &amp; 308 BNS / Sections 506 &amp; 384 IPC).</span>
-                  </h4>
+                  </h5>
                   <p className="text-xs text-slate-600 leading-relaxed">
                     Threatening arrest to extort money is illegal. Section 351 BNS and Section 308 BNS apply. Section 506 IPC and Section 384 IPC apply too. It brings up to 7 years in jail.
                   </p>
                 </div>
                 <div className="p-4 rounded-xl border-l-4 border-purple-500 bg-slate-50 space-y-1">
-                  <h4 className="font-bold text-slate-900 text-xs sm:text-sm flex items-center gap-1.5">
+                  <h5 className="font-bold text-slate-900 text-xs sm:text-sm flex items-center gap-1.5">
                     <AlertCircle className="w-4 h-4 text-purple-600" />
                     <span>Forgery of Government Seals &amp; Insignia (Section 336 BNS / Section 468 &amp; 471 IPC).</span>
-                  </h4>
+                  </h5>
                   <p className="text-xs text-slate-600 leading-relaxed">
                     Forging police seals on notices is a crime. Section 336 BNS applies. Section 468 IPC and Section 471 IPC apply. It is a non-bailable offense.
                   </p>
@@ -610,7 +610,7 @@ export default function RecoveryAgentFakePoliceCallComplaintPage() {
 
             {/* Section 3: RBI Master Directions & Supreme Court Precedents */}
             <section id="rbi-master-directions-supreme-court" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">3. RBI Master Directions</h2>
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">3. RBI Master Directions</h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 The RBI protects loan borrowers. Banks face direct blame for agent abuse.
               </p>
@@ -662,7 +662,7 @@ export default function RecoveryAgentFakePoliceCallComplaintPage() {
 
             {/* Section 4: Bank Accounting Dynamics, NPA Provisioning & NPV Recovery Formula */}
             <section id="bank-npa-accounting-npv-recovery" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">4. Bank Accounting &amp; Fake Police Threat Risks</h2>
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">4. Bank Accounting &amp; Fake Police Threat Risks</h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Why do recovery agents use illegal threats? They face heavy financial pressure. Third-party agencies work on commission. They earn 10% to 25% of collected funds. After 90 days of default, loans become <strong>Non-Performing Assets (NPAs)</strong>. This triggers mandatory RBI provisioning rules:
               </p>
@@ -731,7 +731,7 @@ export default function RecoveryAgentFakePoliceCallComplaintPage() {
 
             {/* Section 5: Infographic Banner */}
             <section id="police-impersonation-defense-roadmap" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">5. Fake Police Call Defense Roadmap</h2>
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">5. Fake Police Call Defense Roadmap</h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 The visual roadmap below shows our 5-step defense plan. Experienced banking litigation advocates use this plan. It helps spot fake officers, record audio proof, lodge FIRs, and secure debt relief.
               </p>
@@ -766,38 +766,38 @@ export default function RecoveryAgentFakePoliceCallComplaintPage() {
 
             {/* Section 6: Emergency 5-Step FIR Protocol */}
             <section id="emergency-5-step-fir-protocol" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">6. The Emergency 5-Step Protocol</h2>
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">6. The Emergency 5-Step Protocol</h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Fake police calls cause fear. Do not panic. Never pay money in fear. That invites more calls. Follow this clear 5-step plan:
               </p>
 
               <div className="space-y-3 my-4">
                 <div className="p-4 rounded-xl border-l-4 border-blue-600 bg-slate-50 space-y-1">
-                  <h3 className="font-bold text-slate-900 text-xs sm:text-sm">Step 1: Activate Call Recording &amp; Preserve Digital Evidence.</h3>
+                  <h4 className="font-bold text-slate-900 text-xs sm:text-sm">Step 1: Activate Call Recording &amp; Preserve Digital Evidence.</h4>
                   <p className="text-xs text-slate-600 leading-relaxed">
                     Turn on auto call recording. Let the caller speak. Note the phone number, date, and time. Save all WhatsApp chats and fake notices.
                   </p>
                 </div>
                 <div className="p-4 rounded-xl border-l-4 border-indigo-600 bg-slate-50 space-y-1">
-                  <h4 className="font-bold text-slate-900 text-xs sm:text-sm">Step 2: Cross-Examine &amp; Demand Official Verification Details.</h4>
+                  <h5 className="font-bold text-slate-900 text-xs sm:text-sm">Step 2: Cross-Examine &amp; Demand Official Verification Details.</h5>
                   <p className="text-xs text-slate-600 leading-relaxed">
                     Ask for the caller&apos;s full name. Ask for their belt number and rank. Request the police station address. Demand the General Diary (GD) entry number. Warn them the call is being recorded.
                   </p>
                 </div>
                 <div className="p-4 rounded-xl border-l-4 border-purple-600 bg-slate-50 space-y-1">
-                  <h4 className="font-bold text-slate-900 text-xs sm:text-sm">Step 3: Verify with the Local Police Station Landline.</h4>
+                  <h5 className="font-bold text-slate-900 text-xs sm:text-sm">Step 3: Verify with the Local Police Station Landline.</h5>
                   <p className="text-xs text-slate-600 leading-relaxed">
                     Find the police station landline online. Call the station directly. Ask the Duty Officer if such a notice exists. Police always confirm it is fake.
                   </p>
                 </div>
                 <div className="p-4 rounded-xl border-l-4 border-amber-600 bg-slate-50 space-y-1">
-                  <h4 className="font-bold text-slate-900 text-xs sm:text-sm">Step 4: Lodge a Complaint on the National Cyber Crime Portal (cybercrime.gov.in / 1930).</h4>
+                  <h5 className="font-bold text-slate-900 text-xs sm:text-sm">Step 4: Lodge a Complaint on the National Cyber Crime Portal (cybercrime.gov.in / 1930).</h5>
                   <p className="text-xs text-slate-600 leading-relaxed">
                     Lodge a complaint at cybercrime.gov.in. Or dial helpline 1930. Pick &quot;Cyber Extortion / Cheating by Personation&quot;. Attach audio files and forged notices.
                   </p>
                 </div>
                 <div className="p-4 rounded-xl border-l-4 border-emerald-600 bg-slate-50 space-y-1">
-                  <h4 className="font-bold text-slate-900 text-xs sm:text-sm">Step 5: Retain an Advocate to Serve a Criminal Legal Notice on the Bank.</h4>
+                  <h5 className="font-bold text-slate-900 text-xs sm:text-sm">Step 5: Retain an Advocate to Serve a Criminal Legal Notice on the Bank.</h5>
                   <p className="text-xs text-slate-600 leading-relaxed">
                     Hire a debt defense lawyer. Send a legal notice to the bank MD. Send a copy to the Principal Nodal Officer. Warn them of Section 204 BNS action. File an RBI Ombudsman complaint.
                   </p>
@@ -811,7 +811,7 @@ export default function RecoveryAgentFakePoliceCallComplaintPage() {
 
             {/* Section 7: Negotiating Debt Resolution & OTS */}
             <section id="leveraging-harassment-for-ots" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">7. Converting Criminal Recovery Harassment into an</h2>
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">7. Converting Criminal Recovery Harassment into an</h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Fake police calls show agency panic. Agencies know civil suits take years. They know unsecured debts lack assets to seize. Exposing fake calls gives you immense leverage. You can win a strong <strong>One-Time Settlement (OTS)</strong>.
               </p>
@@ -861,7 +861,7 @@ export default function RecoveryAgentFakePoliceCallComplaintPage() {
 
             {/* Section 8: Sanction Letter Forensics & RBI NDC Mandate */}
             <section id="sanction-forensics-rbi-ndc-mandate" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">8. Sanction Letter Forensics, Direct Remittance, RBI ₹0 NDC</h2>
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">8. Sanction Letter Forensics, Direct Remittance, RBI ₹0 NDC</h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Be careful when closing a debt settlement. Fraudulent agents often make fake settlement letters. They make verbal promises to pocket cash tokens. Never transfer money without legal verification of the sanction letter.
               </p>
@@ -889,9 +889,9 @@ export default function RecoveryAgentFakePoliceCallComplaintPage() {
                 </p>
               </div>
 
-              <h3 className="text-base sm:text-lg font-bold text-slate-900 pt-2">
+              <h4 className="text-base sm:text-lg font-bold text-slate-900 pt-2">
                 Credit Bureau Reporting &amp; Score Rehabilitation After Settlement
-              </h3>
+              </h4>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 After settlement, lenders report the loan as <strong>&quot;Settled&quot;</strong> or <strong>&quot;Post-Write-off Settled&quot;</strong>. The overdue balance becomes <strong>₹0</strong>. Your credit score may drop at first. But default interest stops immediately. Collection calls end for good. Use a secured credit card. Keep credit usage below 30%. Pay bills on time. Your score can cross 750 in 18 to 24 months.
               </p>
@@ -899,7 +899,7 @@ export default function RecoveryAgentFakePoliceCallComplaintPage() {
 
             {/* Section 9: Comparative Legal Defense Matrix */}
             <section id="comparative-legal-defense-matrix" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">9. Coercive Threats vs Legal Resolution Matrix</h2>
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">9. Coercive Threats vs Legal Resolution Matrix</h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Compare coercive recovery threats against genuine judicial channels and advocate settlements:
               </p>
@@ -952,9 +952,9 @@ export default function RecoveryAgentFakePoliceCallComplaintPage() {
             {/* Section 10: SettleLoans Legal Defense & Advisory + CompanySection */}
             <section id="company-resolution-section" className="space-y-6">
               <div className="border-t border-slate-200 pt-8 space-y-4">
-                <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
+                <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                   10. SettleLoans Legal Defense &amp; Anti-Harassment Advisory
-                </h2>
+                </h3>
                 <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                   Handling fake police threats needs skilled banking lawyers. We enforce RBI rules and BNS laws. SettleLoans gives complete legal defense across India. We send cease-and-desist notices to bank leaders. We file reports with Cyber Police and the RBI Ombudsman. We talk directly to bank credit heads. Our lawyers win 45% to 65% principal waivers with official No Dues Certificates.
                 </p>
@@ -968,7 +968,7 @@ export default function RecoveryAgentFakePoliceCallComplaintPage() {
             <section id="faqs" className="space-y-4 border-t border-slate-200 pt-8">
               <div className="flex items-center gap-2 mb-2">
                 <HelpCircle className="w-5 h-5 text-[#1F5EFF]" />
-                <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">11. FAQs: Fake Police Calls &amp; Recovery Agent Harassment</h2>
+                <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">11. FAQs: Fake Police Calls &amp; Recovery Agent Harassment</h3>
               </div>
               <p className="text-xs sm:text-sm text-slate-600 mb-6">
                 Read clear answers about fake police calls, recovery agent impersonation, and debt settlement in India.
@@ -998,9 +998,9 @@ export default function RecoveryAgentFakePoliceCallComplaintPage() {
 
             {/* 5 Official Regulatory Links */}
             <section className="border-t border-slate-200 pt-8 mb-4">
-              <h3 className="text-xs sm:text-sm font-bold text-slate-900 mb-3 uppercase tracking-wider">
+              <h4 className="text-xs sm:text-sm font-bold text-slate-900 mb-3 uppercase tracking-wider">
                 Official Statutory &amp; Regulatory References
-              </h3>
+              </h4>
               <div className="grid grid-cols-1 sm:grid-cols-2 gap-2.5 text-xs">
                 <a
                   href="https://cybercrime.gov.in"
@@ -1052,9 +1052,9 @@ export default function RecoveryAgentFakePoliceCallComplaintPage() {
 
             {/* 10 Related Guide Badges */}
             <section className="border-t border-slate-200 pt-8 mb-8">
-              <h3 className="text-xs sm:text-sm font-bold text-slate-900 mb-4 uppercase tracking-wider">
+              <h4 className="text-xs sm:text-sm font-bold text-slate-900 mb-4 uppercase tracking-wider">
                 Related Legal Defense &amp; Loan Resolution Guides
-              </h3>
+              </h4>
               <div className="flex flex-wrap gap-2">
                 <Link
                   href="/bank-recovery-agent-threatening-me"

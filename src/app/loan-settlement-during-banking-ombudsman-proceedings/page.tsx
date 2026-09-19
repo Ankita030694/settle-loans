@@ -494,9 +494,9 @@ export default function LoanSettlementBankingOmbudsmanPage() {
 
             {/* Section 2: Statutory Grounding: RB-IOS 2021 & Conciliation Rules */}
             <section id="statutory-framework-rb-ios-2021" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                 2. Statutory Grounding: RB-IOS 2021 &amp; Conciliation Rules
-              </h2>
+              </h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Navigating an institutional loan settlement requires grounding in Reserve Bank of India statutory frameworks. Notified on November 12, 2021, the <strong>Reserve Bank - Integrated Ombudsman Scheme, 2021</strong> consolidated earlier disparate banking, NBFC, and digital transaction ombudsman frameworks into a single quasi-judicial mechanism covering commercial banks, regional rural banks, scheduled cooperative banks, and systemically important NBFCs. Four critical clauses govern the debt settlement process:
               </p>
@@ -553,9 +553,9 @@ export default function LoanSettlementBankingOmbudsmanPage() {
 
             {/* Section 3: CMS Portal Pressure & Bank Compliance Escalation */}
             <section id="cms-portal-pressure-compliance-escalation" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                 3. CMS Portal Pressure &amp; Bank Compliance Escalation
-              </h2>
+              </h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 To understand why lenders concede significant principal write-offs during Ombudsman proceedings, one must consider internal bank governance. When a borrower complains only to collection executives, the complaint is routinely ignored. Conversely, registering a dispute on the RBI CMS portal creates an immutable electronic docket that cannot be bypassed, suppressed, or arbitrarily deleted by operational staff.
               </p>
@@ -576,9 +576,9 @@ export default function LoanSettlementBankingOmbudsmanPage() {
 
             {/* Section 4: Bank Provisioning Burden & NPV Recovery Calculus */}
             <section id="bank-accounting-provisioning-npv-calculus" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                 4. Bank Provisioning Burden &amp; NPV Recovery Calculus
-              </h2>
+              </h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Bank settlement committees evaluate debt compromises through strict accounting mathematics governed by the <strong>RBI Master Direction on Prudential Norms on Income Recognition, Asset Classification and Provisioning (IRACP)</strong>. When unsecured retail debt defaults beyond 90 days, lenders must allocate scarce capital reserves against the delinquent advance:
               </p>
@@ -647,9 +647,9 @@ export default function LoanSettlementBankingOmbudsmanPage() {
 
             {/* Section 5: Infographic Banner */}
             <section id="ombudsman-settlement-visual-roadmap" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                 5. Banking Ombudsman Loan Settlement Visual Roadmap
-              </h2>
+              </h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 The visual roadmap below details the five-stage institutional progression of settling a delinquent loan under the Reserve Bank - Integrated Ombudsman Scheme, from initial grievance logging to final credit score restoration:
               </p>
@@ -684,9 +684,9 @@ export default function LoanSettlementBankingOmbudsmanPage() {
 
             {/* Section 6: Step-by-Step Conciliation & 60%–70% Haircut Talks */}
             <section id="step-by-step-conciliation-haircut-negotiation" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                 6. Step-by-Step Conciliation &amp; 60%–70% Haircut Talks
-              </h2>
+              </h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Achieving a 60% to 70% debt haircut requires structured negotiation rather than informal appeals. Professional debt resolution advocates guide borrowers through a disciplined four-phase conciliation roadmap:
               </p>
@@ -725,9 +725,9 @@ export default function LoanSettlementBankingOmbudsmanPage() {
 
             {/* Section 7: Forensic Checklist for Ombudsman OTS Sanction Letters */}
             <section id="sanction-letter-forensics-legal-finality" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                 7. Forensic Checklist for Ombudsman OTS Sanction Letters
-              </h2>
+              </h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Before disbursing settlement funds, borrowers must verify the One-Time Settlement sanction letter with forensic precision. Handing over money against informal emails or verbal assurances leaves the loan active and accumulating interest.
               </p>
@@ -784,9 +784,9 @@ export default function LoanSettlementBankingOmbudsmanPage() {
 
             {/* Section 8: Settlement Remittance, ₹0 NDC & CIBIL Bureau Update */}
             <section id="remittance-ndc-mandate-cibil-recovery" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                 8. Settlement Remittance, ₹0 NDC &amp; CIBIL Bureau Update
-              </h2>
+              </h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Remitting the settlement sum satisfies the compromised financial obligation, but full legal rehabilitation requires obtaining official closure documentation and updating credit information bureaus.
               </p>
@@ -827,9 +827,9 @@ export default function LoanSettlementBankingOmbudsmanPage() {
 
             {/* Section 9: Ombudsman Conciliation vs Other Resolution Pathways */}
             <section id="resolution-pathways-comparative-matrix" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                 9. Ombudsman Conciliation vs Other Resolution Pathways
-              </h2>
+              </h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Comparing Ombudsman conciliation with conventional debt resolution avenues highlights why regulatory proceedings provide unmatched leverage for severely distressed borrowers:
               </p>
@@ -886,9 +886,9 @@ export default function LoanSettlementBankingOmbudsmanPage() {
             {/* Section 10: SettleLoans Legal Defense & Ombudsman Representation */}
             <section id="settleloans-advocate-representation" className="space-y-6">
               <div className="border-t border-slate-200 pt-8 space-y-4">
-                <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
+                <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                   10. SettleLoans Legal Defense &amp; Ombudsman Representation
-                </h2>
+                </h3>
                 <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                   Navigating Banking Ombudsman loan settlement requires experienced banking advocates who understand RBI CMS workflows, Principal Nodal Officer accountability, and credit committee compromise guidelines. SettleLoans represents stressed borrowers across India: serving formal statutory notices, assembling unassailable hardship dossiers, halting illegal recovery harassment, and securing 60% to 70% debt haircuts backed by authentic, bank-stamped No Dues Certificates.
                 </p>
@@ -902,9 +902,9 @@ export default function LoanSettlementBankingOmbudsmanPage() {
             <section id="faqs" className="space-y-4 border-t border-slate-200 pt-8">
               <div className="flex items-center gap-2 mb-2">
                 <HelpCircle className="w-5 h-5 text-[#1F5EFF]" />
-                <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
+                <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                   11. Frequently Asked Questions: RBI Ombudsman Settlement
-                </h2>
+                </h3>
               </div>
               <p className="text-xs sm:text-sm text-slate-600 mb-6">
                 Direct, legally verified answers to essential questions regarding loan settlement negotiations, regulatory conciliation, and borrower protections under the RBI Integrated Ombudsman Scheme.

@@ -269,7 +269,7 @@ export default function LoanSettlementJobLossPage() {
             </section>
 
             <section id="impact-of-unemployment" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black mb-6">The Sudden Reality of Unemployment in Today's Economy</h2>
+              <h3 className="text-3xl md:text-4xl font-black mb-6">The Sudden Reality of Unemployment in Today's Economy</h3>
               <p className="text-lg leading-relaxed mb-6">
                 The global economy is undergoing a massive shift. From tech layoffs to company mergers and complete business closures, the risk of sudden unemployment is higher than it was a decade ago. In India, where many middle class families live on a single income or have high monthly commitments, even a two month break in salary can lead to a financial crisis.
               </p>
@@ -277,7 +277,7 @@ export default function LoanSettlementJobLossPage() {
                 When you lose your job, your first instinct is to cut costs and save every rupee for essential needs like food and rent. This is the correct survival instinct. However, the interest on your loans does not stop. Credit card companies, in particular, can be very aggressive, adding massive late fees and interest that compound daily. If you do not address the situation professionally, a 5 lakh loan can grow to 8 lakhs in very little time.
               </p>
               <div className="bg-gray-50 p-8 rounded-2xl border border-gray-200 mb-8">
-                <h3 className="text-xl font-bold mb-6">Why Layoffs Trigger Debt Traps</h3>
+                <h4 className="text-xl font-bold mb-6">Why Layoffs Trigger Debt Traps</h4>
                 <p className="mb-4 text-sm text-gray-600">
                   Most people fall into a debt trap not because they want to, but because they try to 'manage' by taking one more small loan to pay an old one. This is a fatal mistake when you do not have a steady income. 
                 </p>
@@ -293,19 +293,19 @@ export default function LoanSettlementJobLossPage() {
             </section>
 
             <section id="your-legal-shield" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black mb-8">Your Legal Shield: Knowing Your Rights</h2>
+              <h3 className="text-3xl md:text-4xl font-black mb-8">Your Legal Shield: Knowing Your Rights</h3>
               <p className="text-lg leading-relaxed mb-6">
                 In India, a borrower has robust legal protections that remain in place even during default. It is essential to remember that being unable to pay a loan is a civil matter. It is not an act of fraud. You cannot be arrested just because you lost your job and cannot pay your EMIs.
               </p>
               <div className="grid md:grid-cols-2 gap-8 mb-8">
                 <div className="bg-white p-6 rounded-xl border border-gray-100 shadow-sm">
-                  <h3 className="text-xl font-bold mb-4">Right against Intimidation</h3>
+                  <h4 className="text-xl font-bold mb-4">Right against Intimidation</h4>
                   <p className="text-sm text-gray-600 leading-relaxed">
                     Banks and their agents cannot use abusive language or make threats. They cannot threaten you with a 'police case' for a simple personal loan or credit card debt. Any such behavior is a violation of the RBI Fair Practice Code.
                   </p>
                 </div>
                 <div className="bg-white p-6 rounded-xl border border-gray-100 shadow-sm">
-                  <h3 className="text-xl font-bold mb-4">Right to Privacy</h3>
+                  <h4 className="text-xl font-bold mb-4">Right to Privacy</h4>
                   <p className="text-sm text-gray-600 leading-relaxed">
                     A bank cannot call your friends, former boss, or current coworkers to shame you about your debt. Your financial situation is a private contract between you and the institution. Any breach of this privacy is legally actionable.
                   </p>
@@ -317,12 +317,12 @@ export default function LoanSettlementJobLossPage() {
             </section>
 
             <section id="rbi-fair-practices" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black mb-8">RBI Guidelines: Fairness in Financial Distress</h2>
+              <h3 className="text-3xl md:text-4xl font-black mb-8">RBI Guidelines: Fairness in Financial Distress</h3>
               <p className="text-lg leading-relaxed mb-6">
                 The Reserve Bank of India (RBI) is clear: lenders must follow a strict ethical code when dealing with stressed assets. They have issued several circulars over the years that require banks to have a proper board-approved policy for one-time settlements and restructuring. 
               </p>
               <div className="bg-[#2E2E2E] text-white p-8 rounded-2xl mb-8">
-                <h3 className="text-2xl font-bold mb-4 text-[#1F5EFF]">Consumer Protection Standards</h3>
+                <h4 className="text-2xl font-bold mb-4 text-[#1F5EFF]">Consumer Protection Standards</h4>
                 <p className="mb-4 opacity-80">
                   When a borrower faces a genuine crisis like job loss, the bank is encouraged to work towards a resolution rather than a confrontation. This logic is simple: a settled loan is better for the bank than a total loss.
                 </p>
@@ -336,17 +336,17 @@ export default function LoanSettlementJobLossPage() {
             </section>
 
             <section id="restructuring-options" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black mb-8">EMI Restructuring: A Bridge to Your Next Job</h2>
+              <h3 className="text-3xl md:text-4xl font-black mb-8">EMI Restructuring: A Bridge to Your Next Job</h3>
               <p className="text-lg leading-relaxed mb-6">
                 If you are confident that you will find a new job within the next 3 to 6 months, you should consider <strong>Loan Restructuring</strong>. This is essentially a renegotiation of your loan agreement. Instead of a settlement, you are asking for a temporary change in terms to survive the gap in income.
               </p>
               <div className="grid sm:grid-cols-2 gap-4 mb-8">
                 <div className="p-6 border border-[#DEDEDE] rounded-xl bg-white shadow-sm">
-                  <h3 className="font-bold mb-2">Tenure Extension</h3>
+                  <h4 className="font-bold mb-2">Tenure Extension</h4>
                   <p className="text-sm text-gray-500">Increasing the loan period to drop your monthly EMI to a level you can afford with your savings.</p>
                 </div>
                 <div className="p-6 border border-[#DEDEDE] rounded-xl bg-white shadow-sm">
-                  <h4 className="font-bold mb-2">Temporary Moratorium</h4>
+                  <h5 className="font-bold mb-2">Temporary Moratorium</h5>
                   <p className="text-sm text-gray-500">Requesting a 3 to 6 month window where you only pay the interest or nothing at all while you job hunt.</p>
                 </div>
               </div>
@@ -356,19 +356,19 @@ export default function LoanSettlementJobLossPage() {
             </section>
 
             <section id="settlement-guide" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black mb-8">One-Time Settlement (OTS): A Final Resolution</h2>
+              <h3 className="text-3xl md:text-4xl font-black mb-8">One-Time Settlement (OTS): A Final Resolution</h3>
               <p className="text-lg leading-relaxed mb-6">
                 If you have several loans or your career field is facing a long term slump, a <strong>One-Time Settlement</strong> is often the most practical choice. This allows you to pay a single, significantly reduced amount to close the loan permanently. 
               </p>
               <div className="bg-blue-50 p-8 rounded-2xl border border-blue-100 flex flex-col gap-4 mb-8">
-                <h3 className="text-xl font-bold">The Settlement Math</h3>
+                <h4 className="text-xl font-bold">The Settlement Math</h4>
                 <p className="text-sm opacity-80">In a job loss scenario, if you can prove you have no income and no immediate prospects, banks are often willing to settle for 30% to 50% of the total outstanding amount. This means if you owe 10 lakhs, you could potentially close the account for 3 to 4 lakhs.</p>
                 <p className="text-sm font-bold text-[#1F5EFF]">This stops the interest, stops the calls, and provides you with the mental freedom to restart your professional life from a clean slate.</p>
               </div>
             </section>
 
             <section id="harassment-prevention" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black mb-8">Stopping the Harassment: Why Professionals Matter</h2>
+              <h3 className="text-3xl md:text-4xl font-black mb-8">Stopping the Harassment: Why Professionals Matter</h3>
               <p className="text-lg leading-relaxed mb-6">
                 The biggest fear during unemployment isn't the bank; it is the bank's recovery agents. These agents are often paid on a commission basis, leading them to use aggressive and sometimes illegal tactics to force you to pay. They might use fear, shame, or constant calling to break your mental health.
               </p>
@@ -381,10 +381,10 @@ export default function LoanSettlementJobLossPage() {
             </section>
 
             <section id="essential-documentation" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black mb-10">Essential Documentation: Proving Your Hardship</h2>
+              <h3 className="text-3xl md:text-4xl font-black mb-10">Essential Documentation: Proving Your Hardship</h3>
               <div className="grid sm:grid-cols-2 gap-6 mb-10">
                 <div className="p-8 bg-gray-50 rounded-2xl border border-gray-200">
-                  <h3 className="font-bold mb-4 text-[#1F5EFF]">Employment Proofs</h3>
+                  <h4 className="font-bold mb-4 text-[#1F5EFF]">Employment Proofs</h4>
                   <ul className="space-y-3 text-sm">
                     <li>• Termination or Relieving Letter</li>
                     <li>• Layoff Notice or Company Closure Proof</li>
@@ -393,7 +393,7 @@ export default function LoanSettlementJobLossPage() {
                   </ul>
                 </div>
                 <div className="p-8 bg-gray-50 rounded-2xl border border-gray-200">
-                  <h4 className="font-bold mb-4 text-[#1F5EFF]">Financial Proofs</h4>
+                  <h5 className="font-bold mb-4 text-[#1F5EFF]">Financial Proofs</h5>
                   <ul className="space-y-3 text-sm">
                     <li>• 6 to 12 months Bank Statements</li>
                     <li>• Income Tax Returns (ITR)</li>
@@ -408,25 +408,25 @@ export default function LoanSettlementJobLossPage() {
             </section>
 
             <section id="negotiation-strategy" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black mb-8">The Professional Negotiation Strategy</h2>
+              <h3 className="text-3xl md:text-4xl font-black mb-8">The Professional Negotiation Strategy</h3>
               <p className="text-lg leading-relaxed mb-6">
                 Negotiation is not just about asking for a discount; it is about providing the bank with a logical reason to accept your offer. When we talk to banks, we use financial data and legal precedents. We show them that their best chance of recovering any money is by accepting a one-time settlement now, especially when your income is zero.
               </p>
               <div className="bg-white border-2 border-[#DEDEDE] rounded-2xl p-10 mb-10 shadow-lg">
-                <h3 className="text-2xl font-bold mb-6">Industry Specific Relief Guides</h3>
+                <h4 className="text-2xl font-bold mb-6">Industry Specific Relief Guides</h4>
                 <div className="space-y-8">
                   <div>
-                    <h4 className="text-xl font-bold text-[#1F5EFF] mb-2">1. IT and Tech Sector Layoffs</h4>
+                    <h5 className="text-xl font-bold text-[#1F5EFF] mb-2">1. IT and Tech Sector Layoffs</h5>
                     <p className="text-sm text-gray-600 leading-relaxed mb-4">If you were part of a mass layoff in a tech firm, highlight the market condition. Banks are aware of industry trends. If your company gave you a severance package, do not use it to pay full EMIs. Use part of it to offer a bulk settlement. This is the most efficient way to close debts during a tech career gap.</p>
                   </div>
                   <hr className="border-[#DEDEDE]" />
                   <div>
-                    <h4 className="text-xl font-bold text-[#1F5EFF] mb-2">2. BPO and Services Sector</h4>
+                    <h5 className="text-xl font-bold text-[#1F5EFF] mb-2">2. BPO and Services Sector</h5>
                     <p className="text-sm text-gray-600 leading-relaxed mb-4">For the services sector, where churn is high, focus on the 'reduction of earning capacity' argument. If you've been jobless for over 60 days, the bank categorized your loan as a 'Special Mention Account' (SMA). This is the perfect window to initiate a deep discount settlement before it becomes a 'Non-Performing Asset' (NPA).</p>
                   </div>
                   <hr className="border-[#DEDEDE]" />
                   <div>
-                    <h4 className="text-xl font-bold text-[#1F5EFF] mb-2">3. MSME and Small Business Owners</h4>
+                    <h5 className="text-xl font-bold text-[#1F5EFF] mb-2">3. MSME and Small Business Owners</h5>
                     <p className="text-sm text-gray-600 leading-relaxed mb-4">If your business shut down, your personal loans should be settled alongside your business debts. We help you create a 'Unified Settlement Strategy' so that no single creditor can drain your remaining assets while others are still negotiating.</p>
                   </div>
                 </div>
@@ -437,7 +437,7 @@ export default function LoanSettlementJobLossPage() {
             </section>
 
             <section id="mental-health-focus" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black mb-8">The Mental Cost of Debt: Protecting Your Peace</h2>
+              <h3 className="text-3xl md:text-4xl font-black mb-8">The Mental Cost of Debt: Protecting Your Peace</h3>
               <p className="text-lg leading-relaxed mb-6">
                 Unemployment combined with debt can lead to severe anxiety and depression. It is important to realize that your mental health is your most valuable asset during a job search. If you are distracted by collection calls, you cannot prepare effectively for interviews.
               </p>
@@ -447,28 +447,28 @@ export default function LoanSettlementJobLossPage() {
             </section>
 
             <section id="credit-rebuild-deep" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black mb-8">Deep Dive: Rebuilding CIBIL After Job Loss Settlement</h2>
+              <h3 className="text-3xl md:text-4xl font-black mb-8">Deep Dive: Rebuilding CIBIL After Job Loss Settlement</h3>
               <p className="text-lg leading-relaxed mb-6">
                 A common myth is that a 'Settled' status means you will never get a loan again. This is false. While your score will drop to the 500-600 range initially, it is a clean slate. Once you are employed again, follow these steps:
               </p>
               <div className="grid md:grid-cols-3 gap-6 mb-10">
                 <div className="p-6 bg-white border border-[#DEDEDE] rounded-xl">
-                  <h3 className="font-bold mb-2">Step 1: The Secured Card</h3>
+                  <h4 className="font-bold mb-2">Step 1: The Secured Card</h4>
                   <p className="text-xs text-gray-500 italic">Apply for a credit card against a small fixed deposit of 20,000 rupees. Use it for 5% of its limit and pay back in full every month. This shows consistency.</p>
                 </div>
                 <div className="p-6 bg-white border border-[#DEDEDE] rounded-xl">
-                  <h4 className="font-bold mb-2">Step 2: Utility Bills</h4>
+                  <h5 className="font-bold mb-2">Step 2: Utility Bills</h5>
                   <p className="text-xs text-gray-500 italic">Ensure every postpaid bill and gas bill is in your name and paid on time. While not directly in CIBIL, it builds a history of bill payment discipline.</p>
                 </div>
                 <div className="p-6 bg-white border border-[#DEDEDE] rounded-xl">
-                  <h5 className="font-bold mb-2">Step 3: Wait and Watch</h5>
+                  <h6 className="font-bold mb-2">Step 3: Wait and Watch</h6>
                   <p className="text-xs text-gray-500 italic">After 18 months of employment and small product use, apply for a small personal loan (50k) to show you can handle unsecured debt again.</p>
                 </div>
               </div>
             </section>
 
             <section id="credit-score-impact" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black mb-8">Managing Your CIBIL Score After Job Loss</h2>
+              <h3 className="text-3xl md:text-4xl font-black mb-8">Managing Your CIBIL Score After Job Loss</h3>
               <p className="text-lg leading-relaxed mb-6">
                 A common worry is that settlement will 'destroy' your credit score. While it is true that your score will drop, it is a temporary situation that can be fixed. A settled status on your credit report is much better than having a 'defaulted' or 'written off' status. 
               </p>
@@ -478,7 +478,7 @@ export default function LoanSettlementJobLossPage() {
             </section>
 
             <section id="success-stories" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black mb-12 text-center">Real Stories of Recovery</h2>
+              <h3 className="text-3xl md:text-4xl font-black mb-12 text-center">Real Stories of Recovery</h3>
               <div className="grid md:grid-cols-1 gap-8">
                 {[
                   { name: "Rahul M.", loc: "Bangalore", outcome: "Settled for 60% discount", story: "My tech startup shut down overnight. I had three credit cards with high limits. SettleLoans took over the calls and negotiated a settlement that I could pay from my PF. I am now at a new company and debt free." },
@@ -491,7 +491,7 @@ export default function LoanSettlementJobLossPage() {
                         {review.name.charAt(0)}
                       </div>
                       <div>
-                        <h3 className="font-bold text-xl">{review.name}</h3>
+                        <h4 className="font-bold text-xl">{review.name}</h4>
                         <p className="text-sm text-gray-500">{review.loc}</p>
                       </div>
                       <div className="ml-auto text-yellow-400 text-lg">★★★★★</div>
@@ -506,7 +506,7 @@ export default function LoanSettlementJobLossPage() {
             </section>
 
             <section id="faqs" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black mb-10">Frequently Asked Questions</h2>
+              <h3 className="text-3xl md:text-4xl font-black mb-10">Frequently Asked Questions</h3>
               <div className="space-y-4">
                 {(jsonLd["@graph"][4] as any)?.mainEntity?.map((faq: any, i: number) => (
                   <details key={i} className="group bg-white border border-[#DEDEDE] rounded-xl overflow-hidden hover:shadow-md transition-all border-b-4 border-b-[#1F5EFF]/20">
@@ -562,7 +562,7 @@ export default function LoanSettlementJobLossPage() {
         {/* bottom CTA */}
         <div className="w-full bg-[#2E2E2E] py-24 px-4 mt-20 text-center border-t border-[#1F5EFF]/20">
           <div className="max-w-4xl mx-auto">
-            <h2 className="text-3xl md:text-5xl font-black text-white mb-8">This is the Time for Strength.</h2>
+            <h3 className="text-3xl md:text-5xl font-black text-white mb-8">This is the Time for Strength.</h3>
             <p className="text-[#DEDEDE]/80 text-xl mb-12">Take the first step toward a debt-free future. Our experts are ready to stand with you.</p>
             <Link href="/contact" className="inline-block bg-[#1F5EFF] text-white font-black py-6 px-16 rounded-xl hover:scale-105 transition-all shadow-xl text-2xl">
               Talk to an Expert Now

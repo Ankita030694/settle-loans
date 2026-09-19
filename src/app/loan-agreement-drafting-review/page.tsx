@@ -259,7 +259,7 @@ export default function LoanAgreementDraftingPage() {
                                 Governed by the <strong>Indian Contract Act, 1872</strong>, a valid loan agreement must satisfy the core elements of a contract: offer, acceptance, consideration, and the lawful intent of both parties. For financial institutions, this framework is further layered with <strong>RBI Master Directions</strong>, which mandate transparency and standardized conduct. A poorly drafted agreement is an invitation to harassment; a well-vetted one is a guarantee of peace of mind.
                             </p>
                             <div className="bg-blue-50 p-10 rounded-[32px] border-2 border-blue-100 my-12 shadow-sm">
-                                <h3 className="text-2xl font-black text-blue-900 mb-6 uppercase tracking-wider">The "Non-Negotiable" Rule</h3>
+                                <h4 className="text-2xl font-black text-blue-900 mb-6 uppercase tracking-wider">The "Non-Negotiable" Rule</h4>
                                 <p className="text-lg text-blue-800 leading-relaxed font-medium">
                                     In Indian law, once you sign a loan agreement, you are presumed to have read and understood every single word. The plea of "I didn't know this was in the contract" rarely holds water in a court of law. This is why the 'Drafting' and 'Review' stages are significantly more important than the 'Execution' stage.
                                 </p>
@@ -267,40 +267,40 @@ export default function LoanAgreementDraftingPage() {
                         </section>
 
                         <section id="essential-clauses-checklist" className="scroll-mt-32 mb-20">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 uppercase tracking-widest border-b-8 border-gray-100 pb-4">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 uppercase tracking-widest border-b-8 border-gray-100 pb-4">
                                 The Checklist: 15 Essential Clauses Every Borrower Must Know
-                            </h2>
+                            </h3>
                             <p className="mb-8 font-medium">
                                 A professional loan agreement should be as granular as possible. If a term is vague, it will almost certainly be interpreted in favor of the lender during a dispute. Here are the 15 critical clauses that form the skeleton of a robust loan contract:
                             </p>
                             <div className="space-y-6">
                                 <div className="p-8 bg-gray-50 rounded-2xl border border-gray-100 hover:shadow-md transition-all">
-                                    <h3 className="text-xl font-black text-[#1F5EFF] mb-3 uppercase tracking-tight">1. Precise Definition of Parties</h3>
+                                    <h4 className="text-xl font-black text-[#1F5EFF] mb-3 uppercase tracking-tight">1. Precise Definition of Parties</h4>
                                     <p className="leading-relaxed">Correct legal names, registered addresses, and identification numbers (PAN/CIN) for both the lender and borrower to ensure the agreement is enforceable against the right legal entities.</p>
                                 </div>
                                 <div className="p-8 bg-gray-50 rounded-2xl border border-gray-100 hover:shadow-md transition-all">
-                                    <h4 className="text-xl font-black text-[#1F5EFF] mb-3 uppercase tracking-tight">2. Disbursement Conditions</h4>
+                                    <h5 className="text-xl font-black text-[#1F5EFF] mb-3 uppercase tracking-tight">2. Disbursement Conditions</h5>
                                     <p className="leading-relaxed">Specifying exactly when and how the money will be released. This often includes 'Conditions Precedent' like the submission of title deeds or the execution of guarantees.</p>
                                 </div>
                                 <div className="p-8 bg-gray-50 rounded-2xl border border-gray-100 hover:shadow-md transition-all">
-                                    <h4 className="text-xl font-black text-[#1F5EFF] mb-3 uppercase tracking-tight">3. Interest and Amortization</h4>
+                                    <h5 className="text-xl font-black text-[#1F5EFF] mb-3 uppercase tracking-tight">3. Interest and Amortization</h5>
                                     <p className="leading-relaxed">Clear notation of the interest rate, whether it is fixed or floating (linked to MCLR or Repo Rate), and the exact amortization schedule (EMI breakdown).</p>
                                 </div>
                                 <div className="p-8 bg-gray-50 rounded-2xl border border-gray-100 hover:shadow-md transition-all">
-                                    <h4 className="text-xl font-black text-[#1F5EFF] mb-3 uppercase tracking-tight">4. Prepayment and Foreclosure</h4>
+                                    <h5 className="text-xl font-black text-[#1F5EFF] mb-3 uppercase tracking-tight">4. Prepayment and Foreclosure</h5>
                                     <p className="leading-relaxed">Defining your right to pay off the loan early and the specific charges or lack thereof (based on RBI guidelines) for doing so.</p>
                                 </div>
                                 <div className="p-8 bg-gray-50 rounded-2xl border border-gray-100 hover:shadow-md transition-all">
-                                    <h4 className="text-xl font-black text-[#1F5EFF] mb-3 uppercase tracking-tight">5. Events of Default</h4>
+                                    <h5 className="text-xl font-black text-[#1F5EFF] mb-3 uppercase tracking-tight">5. Events of Default</h5>
                                     <p className="leading-relaxed">A comprehensive list of situations that allow the lender to trigger recovery. This includes non-repayment, bankruptcy, and 'Material Adverse Change'.</p>
                                 </div>
                             </div>
                         </section>
 
                         <section id="interest-calculation-methods" className="scroll-mt-32 mb-20">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 uppercase italic border-l-8 border-[#1F5EFF] pl-6">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 uppercase italic border-l-8 border-[#1F5EFF] pl-6">
                                 The Interest Trap: Reducing Balance vs Flat Rate
-                            </h2>
+                            </h3>
                             <p className="mb-8 leading-relaxed">
                                 One of the most common points of failure in loan agreement reviews is the method of interest calculation. In India, lenders can use various mathematical models that look similar on surface but differ vastly in actual cost.
                             </p>
@@ -309,7 +309,7 @@ export default function LoanAgreementDraftingPage() {
                             </p>
                             <div className="bg-[#2E2E2E] p-10 rounded-[40px] text-white shadow-2xl relative overflow-hidden my-12">
                                 <div className="absolute top-0 right-0 w-64 h-64 bg-[#1F5EFF]/20 rounded-full -mr-32 -mt-32 blur-[80px]"></div>
-                                <h3 className="text-2xl font-black mb-6 relative z-10 text-blue-400 uppercase italic">Financial Intelligence Alert</h3>
+                                <h4 className="text-2xl font-black mb-6 relative z-10 text-blue-400 uppercase italic">Financial Intelligence Alert</h4>
                                 <p className="text-lg opacity-80 leading-relaxed relative z-10 font-medium">
                                     Always insist on the 'Annual Percentage Rate' (APR) being listed in the agreement. The APR includes the interest rate plus all fees (processing, documentation, etc.). It is the only true way to compare the cost of two different loan offers. If a lender refuses to provide an APR breakdown, their agreement is likely hiding significant costs.
                                 </p>
@@ -317,9 +317,9 @@ export default function LoanAgreementDraftingPage() {
                         </section>
 
                         <section id="default-clauses-protection" className="scroll-mt-32 mb-20">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">
                                 Default Protocols: Building a Grace Period Buffer
-                            </h2>
+                            </h3>
                             <p className="mb-8 text-lg">
                                 Life is unpredictable. A business cycle can falter, or a health emergency can arise. A well-vetted loan agreement accounts for these realities through 'Grace Period' and 'Notice' clauses.
                             </p>
@@ -327,7 +327,7 @@ export default function LoanAgreementDraftingPage() {
                                 Most standardized bank agreements contain an 'Automatic Default' clause that triggers legal action the second a payment is missed. During a professional review, we advocate for a <strong>7 to 15-day cure period</strong>. This allows the borrower to rectify a genuine oversight without triggering penalties, CIBIL reporting, or aggressive recovery. Furthermore, we ensure that the 'Cross-Default' clause - which says one missed payment elsewhere makes you a defaulter for this loan too - is either removed or significantly limited in scope.
                             </p>
                             <div className="bg-red-50 p-10 rounded-[40px] border-2 border-red-100 my-12">
-                                <h3 className="text-2xl font-black text-red-900 mb-6 uppercase">The 'Acceleration' Clause Danger</h3>
+                                <h4 className="text-2xl font-black text-red-900 mb-6 uppercase">The 'Acceleration' Clause Danger</h4>
                                 <p className="text-lg text-red-800 leading-relaxed font-bold italic">
                                     An 'Acceleration' clause allows the lender to demand the FULL repayment of the entire loan immediately upon a single default. This can be financially devastating. We ensure these clauses are conditional upon significant, documented breaches, rather than minor technical errors.
                                 </p>
@@ -335,9 +335,9 @@ export default function LoanAgreementDraftingPage() {
                         </section>
 
                         <section id="collateral-security-veting" className="scroll-mt-32 mb-20">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 uppercase tracking-tighter decoration-[#1F5EFF] underline underline-offset-8">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 uppercase tracking-tighter decoration-[#1F5EFF] underline underline-offset-8">
                                 Security & Collateral: Defining the Boundary of Risk
-                            </h2>
+                            </h3>
                             <p className="mb-8 leading-relaxed">
                                 If you are pledging property, jewelry, or business assets, the 'Security' clause is the most important part of the agreement. It defines the 'Lien' the bank has over your life's work. It is crucial that the agreement specifies <strong>Security Release Protocols</strong>.
                             </p>
@@ -350,9 +350,9 @@ export default function LoanAgreementDraftingPage() {
                         </section>
 
                         <section id="rbi-guidelines-transparency" className="scroll-mt-32 mb-20">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 uppercase italic border-l-8 border-gray-900 pl-6">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 uppercase italic border-l-8 border-gray-900 pl-6">
                                 RBI Guidelines on Transparency: Your Regulatory Shield
-                            </h2>
+                            </h3>
                             <p className="mb-8 text-lg">
                                 The Reserve Bank of India (RBI) has issued several Master Directions for NBFCs and Banks regarding 'Fair Practices Code'. Your loan agreement MUST comply with these, or it is legally vulnerable.
                             </p>
@@ -361,20 +361,20 @@ export default function LoanAgreementDraftingPage() {
                             </p>
                             <div className="grid md:grid-cols-2 gap-8 my-12">
                                 <div className="p-8 bg-blue-900 text-white rounded-[40px] shadow-xl">
-                                    <h3 className="text-xl font-black mb-4 uppercase text-blue-300">Mandatory Disclosure</h3>
+                                    <h4 className="text-xl font-black mb-4 uppercase text-blue-300">Mandatory Disclosure</h4>
                                     <p className="opacity-80 leading-relaxed font-medium">Lenders must provide the borrower with a copy of the loan agreement and all its enclosures at the time of sanction. Refusal to provide these documents is a serious regulatory violation.</p>
                                 </div>
                                 <div className="p-8 bg-gray-50 border-2 border-gray-100 rounded-[40px] shadow-sm">
-                                    <h4 className="text-xl font-black mb-4 uppercase text-[#1F5EFF]">Standard Clauses</h4>
+                                    <h5 className="text-xl font-black mb-4 uppercase text-[#1F5EFF]">Standard Clauses</h5>
                                     <p className="text-gray-600 leading-relaxed font-bold italic">Standardization prevents abuse. RBI mandates that any change in terms and conditions (like interest rate hikes) must be communicated in writing with a minimum notice period.</p>
                                 </div>
                             </div>
                         </section>
 
                         <section id="review-checklist-borrowers" className="scroll-mt-32 mb-20">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">
                                 The Review Masterclass: How to Spot a "Toxic" Clause
-                            </h2>
+                            </h3>
                             <p className="mb-8">
                                 Professional legal vetting isn't just about reading; it's about anticipating failure. When our team reviews a loan agreement, we look for 'Toxic Clauses' that act as time bombs. Here are the red flags we look for:
                             </p>
@@ -382,21 +382,21 @@ export default function LoanAgreementDraftingPage() {
                                 <li className="flex items-start gap-4">
                                     <span className="w-8 h-8 rounded-full bg-red-100 flex items-center justify-center shrink-0 mt-1"><svg className="w-4 h-4 text-red-600" fill="currentColor" viewBox="0 0 20 20"><path fillRule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clipRule="evenodd"></path></svg></span>
                                     <div>
-                                        <h3 className="font-black text-lg">The 'Unilateral Modification' Clause</h3>
+                                        <h4 className="font-black text-lg">The 'Unilateral Modification' Clause</h4>
                                         <p className="leading-relaxed">This allows the bank to change interest rates or fees at any time without your consent. We struggle to remove this or at least link it to a transparent benchmark like the RBI Repo Rate.</p>
                                     </div>
                                 </li>
                                 <li className="flex items-start gap-4">
                                     <span className="w-8 h-8 rounded-full bg-red-100 flex items-center justify-center shrink-0 mt-1"><svg className="w-4 h-4 text-red-600" fill="currentColor" viewBox="0 0 20 20"><path fillRule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clipRule="evenodd"></path></svg></span>
                                     <div>
-                                        <h4 className="font-black text-lg">The 'Arbitrary Foreclosure' Clause</h4>
+                                        <h5 className="font-black text-lg">The 'Arbitrary Foreclosure' Clause</h5>
                                         <p className="leading-relaxed">A clause that allows the lender to recall the loan for no reason ('Recall at Will'). This can lead to liquidity crises for businesses. We mandate that any recall must be preceded by a specific, defined default.</p>
                                     </div>
                                 </li>
                                 <li className="flex items-start gap-4">
                                     <span className="w-8 h-8 rounded-full bg-red-100 flex items-center justify-center shrink-0 mt-1"><svg className="w-4 h-4 text-red-600" fill="currentColor" viewBox="0 0 20 20"><path fillRule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clipRule="evenodd"></path></svg></span>
                                     <div>
-                                        <h5 className="font-black text-lg">The 'CIBIL Immunity' Clause</h5>
+                                        <h6 className="font-black text-lg">The 'CIBIL Immunity' Clause</h6>
                                         <p className="leading-relaxed">Some agreements try to shield the bank from liability for 'Erroneous Reporting' to credit bureaus. This is illegal. Banks are legally liable for the accuracy of data they send to CIBIL.</p>
                                     </div>
                                 </li>
@@ -404,9 +404,9 @@ export default function LoanAgreementDraftingPage() {
                         </section>
 
                         <section id="hidden-charges-alert" className="scroll-mt-32 mb-20 p-12 bg-yellow-50 rounded-[48px] border-4 border-dashed border-yellow-200">
-                            <h2 className="text-3xl md:text-4xl font-black text-yellow-900 mb-8 uppercase tracking-tighter italic">
+                            <h3 className="text-3xl md:text-4xl font-black text-yellow-900 mb-8 uppercase tracking-tighter italic">
                                 Hidden Charges Alert: Beyond the Interest Rate
-                            </h2>
+                            </h3>
                             <p className="mb-8 text-lg font-medium text-yellow-800 leading-relaxed">
                                 Most borrowers look only at the 'Interest Rate'. Professional reviewers look at the 'Total Cost of Credit'. Here is where the real money is lost:
                             </p>
@@ -421,9 +421,9 @@ export default function LoanAgreementDraftingPage() {
                         </section>
 
                         <section id="dispute-resolution-mechanisms" className="scroll-mt-32 mb-20">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 uppercase tracking-tight underline transform -rotate-1">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 uppercase tracking-tight underline transform -rotate-1">
                                 Disputes & Arbitration: Choosing the Battlefield
-                            </h2>
+                            </h3>
                             <p className="mb-8 text-xl leading-relaxed">
                                 If things go wrong, where will you fight? The <strong>Jurisdiction and Dispute Resolution</strong> clause decides this. Many NBFCs and digital lenders include 'Arbitration' clauses that specify a distant city (like Chennai or Mumbai) as the venue, making it expensive and impossible for a local borrower to defend themselves.
                             </p>
@@ -465,7 +465,7 @@ export default function LoanAgreementDraftingPage() {
                         </section>
 
                         <section id="faqs" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 uppercase tracking-widest">Drafting Masterclass FAQs</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 uppercase tracking-widest">Drafting Masterclass FAQs</h3>
                             <div className="space-y-4 not-prose">
                                 {(jsonLd["@graph"] as any)[4]?.mainEntity?.map((faq: any, i: number) => (
                                     <details key={i} className="group bg-white border border-[#DEDEDE] rounded-xl overflow-hidden hover:shadow-md transition-all border-b-4 border-b-[#1F5EFF]/20 shadow-sm">
@@ -493,7 +493,7 @@ export default function LoanAgreementDraftingPage() {
                         <div className="lg:hidden mt-16 mb-8">
                             <div className="bg-[#2E2E2E] rounded-2xl shadow-xl overflow-hidden border border-[#1F5EFF]/20">
                                 <div className="bg-[#1F5EFF] p-6 text-center text-white">
-                                    <h3 className="text-2xl font-black mb-2 uppercase tracking-tighter">Secure Your Future?</h3>
+                                    <h4 className="text-2xl font-black mb-2 uppercase tracking-tighter">Secure Your Future?</h4>
                                     <p className="opacity-90 text-sm italic font-medium">Join 10,000+ Indians who've protected their financial rights with our expert review.</p>
                                 </div>
                                 <div className="p-8 text-center text-[#DEDEDE]">

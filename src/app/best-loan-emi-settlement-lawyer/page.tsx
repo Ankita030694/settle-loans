@@ -270,9 +270,9 @@ export default function LoanEMISettlementLawyerPage() {
                         </section>
 
                         <section id="why-hire-lawyer" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
                                 Why Hire a Specialized EMI Settlement Lawyer?
-                            </h2>
+                            </h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 Many borrowers try to negotiate with banks on their own. While possible, it is often a frustrating and unfair battle. Banks employ large teams of recovery professionals and legal experts who do this every day. By hiring a specialized lawyer from SettleLoans, you level the playing field.
                             </p>
@@ -280,7 +280,7 @@ export default function LoanEMISettlementLawyerPage() {
                                 A lawyer brings three critical things to the table: <strong>Legal Protection</strong>, <strong>Strategic Leverage</strong>, and <strong>Professional Negotiation</strong>. We understand the 'Prudential Framework for Resolution of Stressed Assets' better than the branch manager. We know when to cite Supreme Court precedents to stop harassment and when to use RBI ombudsman rules to force a fair settlement. Most importantly, we provide an 'Attorney-Client Privilege' that protects your sensitive financial information from being misused by lenders.
                             </p>
                             <div className="bg-gray-50 p-8 rounded-xl border border-gray-200 mb-8">
-                                <h3 className="text-xl font-bold mb-6">Core Functions of Your Debt Lawyer</h3>
+                                <h4 className="text-xl font-bold mb-6">Core Functions of Your Debt Lawyer</h4>
                                 <ul className="grid md:grid-cols-2 gap-4 text-sm font-medium">
                                     <li className="flex items-center gap-2">
                                         <span className="w-2 h-2 bg-[#1F5EFF] rounded-full"></span>
@@ -311,14 +311,14 @@ export default function LoanEMISettlementLawyerPage() {
                         </section>
 
                         <section id="negotiation-framework" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
                                 Our Strategic Negotiation Framework
-                            </h2>
+                            </h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 At SettleLoans, we don't believe in ad-hoc requests. We use a data-driven negotiation framework that has been perfected over thousands of successful settlements. The first step is a 'Hardship Assessment,' where we document exactly why your income has dropped. We then create a 'Repayment Probability Report' for the bank, showing them that a settlement today is more profitable for them than a long legal battle.
                             </p>
                             <div className="bg-blue-50 p-8 rounded-xl border border-blue-200 mb-8">
-                                <h3 className="text-xl font-bold mb-4 text-blue-900">The 3-Pillar Leverage Strategy</h3>
+                                <h4 className="text-xl font-bold mb-4 text-blue-900">The 3-Pillar Leverage Strategy</h4>
                                 <p className="text-sm text-blue-800 leading-relaxed mb-4">
                                     We use three pillars to win your case: <strong>Pillar 1: Financial Hardship</strong> (Genuine inability to pay). <strong>Pillar 2: Procedural Errors</strong> (Identifying bank violations in notices). <strong>Pillar 3: The Lump Sum Offer</strong> (The ultimate incentive for any bank).
                                 </p>
@@ -329,9 +329,9 @@ export default function LoanEMISettlementLawyerPage() {
                         </section>
 
                         <section id="stopping-harassment" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
                                 Stopping Bank Harassment: Your Legal Right to Peace
-                            </h2>
+                            </h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 The most painful part of an EMI default is not the money-it's the harassment. Recovery agents calling every 30 minutes, visiting your workplace, or shaming you in front of your family is a gross violation of your human rights. The RBI's 'Fair Practices Code' for lenders and the 'Customer Protection' guidelines are very clear: banks cannot use threats, verbal abuse, or harassment to recover debt.
                             </p>
@@ -341,7 +341,7 @@ export default function LoanEMISettlementLawyerPage() {
                         </section>
 
                         <section id="personal-loan-settlement" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Personal Loan EMI Settlement: The Unsecured Debt Solution</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Personal Loan EMI Settlement: The Unsecured Debt Solution</h3>
                             <p className="mb-6">
                                 Personal loans are 'unsecured,' meaning there is no property or gold as collateral. This gives the borrower significant leverage during settlement. If you default, the bank's main recourse is legal action, which can take years. This is why banks are often willing to waive a large portion of the interest and penalties to get a lump sum settlement.
                             </p>
@@ -351,33 +351,33 @@ export default function LoanEMISettlementLawyerPage() {
                         </section>
 
                         <section id="business-debt-relief" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Business Loan and MSME Debt Relief</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Business Loan and MSME Debt Relief</h3>
                             <p className="mb-6">
                                 For business owners, an EMI default can mean the end of their livelihood. We understand the complexities of business cycles and MSME regulations. We use government schemes like the 'Resolution Framework' and 'Pre-packaged Insolvency' (for larger corporate debts) to protect your company from liquidation while negotiating a manageable exit from high-interest debt.
                             </p>
                         </section>
 
                         <section id="nbfc-specific-tactics" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">NBFC and App Loan Settlement Tactics</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">NBFC and App Loan Settlement Tactics</h3>
                             <p className="mb-6">
                                 NBFCs (Non-Banking Financial Companies) and Digital Lending Apps are often more aggressive than traditional banks. They use digital harassment and shaming through contact lists. Our digital debt defense team uses IT Act provisions and RBI's 'Digital Lending Guidelines' to stop these predatory practices. We ensure these high-interest lenders follow the law and accept reasonable settlement terms.
                             </p>
                         </section>
 
                         <section id="legal-defenses-emi" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Common Legal Defenses for Overdue EMIs</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Common Legal Defenses for Overdue EMIs</h3>
                             <p className="mb-6">
                                 Is your loan agreement validly stamped? Did the bank follow the 'Limitation Act'? Were the interest rates changed without proper notice? Our legal team performs a microscopic audit of your loan documents to find these errors. A single procedural flaw can be the difference between losing a case and forcing the bank to the settlement table.
                             </p>
                         </section>
 
                         <section id="rbi-fair-practices" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">RBI Fair Practice Code: Your Sovereign Protection</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">RBI Fair Practice Code: Your Sovereign Protection</h3>
                             <p className="mb-6 text-lg">
                                 The Reserve Bank of India has issued strict mandates on how lenders must behave. These 'Fair Practice Codes' are not suggestions—they are law.
                             </p>
                             <div className="bg-white p-8 rounded-2xl border border-[#DEDEDE] shadow-sm mb-8">
-                                <h3 className="text-2xl font-bold text-[#1F5EFF] mb-4">Your Rights Under RBI Rules</h3>
+                                <h4 className="text-2xl font-bold text-[#1F5EFF] mb-4">Your Rights Under RBI Rules</h4>
                                 <ul className="space-y-4">
                                     <li className="flex items-start gap-3">
                                         <span className="text-[#1F5EFF] font-bold">01. Right to Transparency:</span> Lenders must clearly state all fees, including penal interest, upfront.
@@ -393,26 +393,26 @@ export default function LoanEMISettlementLawyerPage() {
                         </section>
 
                         <section id="settlement-timelines" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Loan Settlement Timelines: What to Expect</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Loan Settlement Timelines: What to Expect</h3>
                             <p className="mb-6">
                                 A typical EMI settlement is a process, not an event. It usually takes 60 to 90 days from the time we start representation to receive a formal settlement letter. This includes 30 days of stopping the initial harassment and another 30 to 60 days of intense negotiation. Once the letter is received, you typically have 15 to 30 days to make the payment and close the account.
                             </p>
                         </section>
 
                         <section id="asset-protection" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Protecting Your Home and Cars (Secured Assets)</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Protecting Your Home and Cars (Secured Assets)</h3>
                             <p className="mb-6">
                                 For Home Loans and Car Loans, the bank holds 'Security Interest.' But the SARFAESI Act, which banks use to seize assets, has strict procedural requirements. Our lawyers specialize in finding flaws in Section 13(2) and 13(4) notices. We have successfully stayed hundreds of house auctions, giving the borrower the time needed to negotiate a settlement or restructure the loan to keep their home.
                             </p>
                         </section>
 
                         <section id="credit-rehabilitation" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Rebuilding Your Financial Life After Settlement</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Rebuilding Your Financial Life After Settlement</h3>
                             <p className="mb-6 text-lg">
                                 Many fear that a settlement will 'ruin' their CIBIL score forever. While a settlement does have a negative impact initially, it is much better than a persistent 'Active Default.'
                             </p>
                             <div className="bg-emerald-50 p-8 rounded-2xl border border-emerald-100 mb-8">
-                                <h3 className="text-xl font-bold text-emerald-800 mb-4">Steps to Reclaim Your Credit</h3>
+                                <h4 className="text-xl font-bold text-emerald-800 mb-4">Steps to Reclaim Your Credit</h4>
                                 <ul className="space-y-4">
                                     <li className="flex items-start gap-2 text-emerald-900/80">
                                         <span className="font-bold">1. Obtain NOC:</span> We ensure the bank issues a No Dues Certificate, which is your proof that the debt is gone.
@@ -428,12 +428,12 @@ export default function LoanEMISettlementLawyerPage() {
                         </section>
 
                         <section id="settleloans-advantage" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">The SettleLoans Advantage: Why We are Different</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">The SettleLoans Advantage: Why We are Different</h3>
                             <p className="mb-6">
                                 We are not just a debt consultancy; we are a specialized legal service provider for people in distress. We don't make false promises of 'wiping away' your debt for free. Instead, we offer a realistic, legally protected path to an honorable exit from debt.
                             </p>
                             <div className="bg-[#2E2E2E] text-white p-8 rounded-2xl mb-8">
-                                <h3 className="text-2xl font-bold mb-4">Why Clients Trust SettleLoans</h3>
+                                <h4 className="text-2xl font-bold mb-4">Why Clients Trust SettleLoans</h4>
                                 <ul className="space-y-3 text-sm opacity-90">
                                     <li className="flex items-center gap-2">✓ Team of Senior Banking Lawyers and Negotiators.</li>
                                     <li className="flex items-center gap-2">✓ Proven track record with 10,000+ successful settlements.</li>
@@ -445,7 +445,7 @@ export default function LoanEMISettlementLawyerPage() {
                         </section>
 
                         <section id="case-studies" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 text-center">Real Stories of Financial Freedom</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 text-center">Real Stories of Financial Freedom</h3>
                             <div className="grid md:grid-cols-2 gap-6 not-prose">
                                 {[
                                     {
@@ -483,7 +483,7 @@ export default function LoanEMISettlementLawyerPage() {
                                                 {review.name.charAt(0)}
                                             </div>
                                             <div>
-                                                <h3 className="font-bold text-[#2E2E2E]">{review.name}</h3>
+                                                <h4 className="font-bold text-[#2E2E2E]">{review.name}</h4>
                                                 <p className="text-xs text-gray-400">{review.loc}</p>
                                             </div>
                                             <div className="ml-auto text-yellow-400 text-sm">★★★★★</div>
@@ -498,7 +498,7 @@ export default function LoanEMISettlementLawyerPage() {
                         </section>
 
                         <section id="starting-process" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Beginning Your Path to Freedom</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Beginning Your Path to Freedom</h3>
                             <p className="mb-6">
                                 The hardest part of debt resolution is taking the first step. The longer you wait, the more the interest piles up and the more aggressive the bank becomes. Contact SettleLoans today for a 100% confidential consultation. We will analyze your debt, listen to your situation, and provide a clear, legal path to closing your loans for good.
                             </p>
@@ -508,7 +508,7 @@ export default function LoanEMISettlementLawyerPage() {
                         </section>
 
                         <section id="faqs" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Frequently Asked Questions</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Frequently Asked Questions</h3>
                             <div className="space-y-4 not-prose">
                                 {[
                                     { q: "Can a bank refuse my request for a settlement?", a: "Yes, banks are not legally required to offer a settlement. However, they are commercial entities. If a lawyer can prove that a settlement is more profitable than a long legal battle, most banks will eventually agree. We know how to speak their language." },
@@ -545,7 +545,7 @@ export default function LoanEMISettlementLawyerPage() {
                         <div className="lg:hidden mt-16 mb-8">
                             <div className="bg-[#2E2E2E] rounded-2xl shadow-xl overflow-hidden border border-[#1F5EFF]/20">
                                 <div className="bg-[#1F5EFF] p-6 text-center text-white">
-                                    <h3 className="text-2xl font-black mb-2">Claim Your Freedom</h3>
+                                    <h4 className="text-2xl font-black mb-2">Claim Your Freedom</h4>
                                     <p className="opacity-90 text-sm">Join the thousands of Indians who have escaped the debt trap with our legal help.</p>
                                 </div>
                                 <div className="p-8 text-center text-[#DEDEDE]">

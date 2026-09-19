@@ -586,7 +586,7 @@ export default function GettingHomeLoanAfterPersonalLoanSettlementPage() {
                 <FileCheck className="w-4 h-4" />
                 <span>2. Credit Bureau Mechanics &amp; Taxonomy Forensics</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">How Credit Information Companies Record Compromise</h2>
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">How Credit Information Companies Record Compromise</h3>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Under the Credit Information Companies (Regulation) Act, 2005 (CICRA), banks must report loan statuses accurately. A loan is marked as &apos;Closed&apos. only if you pay the full dues. In a One-Time Settlement (OTS), the lender reports it as &apos;Settled&apos. or &apos;Post-Write-off Settled&apos;. A &apos;Closed&apos. tag means zero loss for the bank. A &apos;Settled&apos. tag shows that the lender took a loss on unpaid dues.
               </p>
@@ -601,7 +601,7 @@ export default function GettingHomeLoanAfterPersonalLoanSettlementPage() {
                 <Scale className="w-4 h-4" />
                 <span>3. Statutory Protections &amp; Secured Collateral Dynamics</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Why Secured Residential Mortgages Present Lower Risk</h2>
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Why Secured Residential Mortgages Present Lower Risk</h3>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Post-settlement buyers have one big advantage: home loans are secured by property. Personal loans and credit cards have no collateral. If a borrower defaults, banks must file civil suits to recover money. In contrast, home loans fall under the SARFAESI Act, 2002. Under Section 13, lenders can take possession and auction the mortgaged home without slow civil court trials.
               </p>
@@ -616,7 +616,7 @@ export default function GettingHomeLoanAfterPersonalLoanSettlementPage() {
                 <TrendingUp className="w-4 h-4" />
                 <span>4. 24–36 Month Credit Rehabilitation Protocol</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">The Rigorous Two-Year Discipline Roadmap to Rebuild Your</h2>
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">The Rigorous Two-Year Discipline Roadmap to Rebuild Your</h3>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 After a settlement, CIBIL scores often drop to 550–650. Applying for fresh loans right away causes hard inquiries and hurts your score. Instead, follow a 24-to-36-month rebuilding plan. Open a fixed deposit of ₹50,000 to ₹1,00,000 to get a secured credit card. Keep your card usage under 25% of the limit. Pay off all bills in full on time to rebuild your score.
               </p>
@@ -632,9 +632,9 @@ export default function GettingHomeLoanAfterPersonalLoanSettlementPage() {
                   <Layers className="w-4 h-4" />
                   <span>5. Comprehensive Mortgage Transition Framework</span>
                 </div>
-                <h3 className="text-lg sm:text-xl md:text-2xl font-black mb-4 leading-snug">
+                <h4 className="text-lg sm:text-xl md:text-2xl font-black mb-4 leading-snug">
                   Visual Roadmap: From Unsecured Loan Settlement to Residential Mortgage Sanction
-                </h3>
+                </h4>
                 <div className="relative w-full overflow-hidden rounded-2xl border border-slate-700/80 shadow-2xl bg-slate-950">
                   <Image
                     src="/images/infographics/getting-home-loan-after-personal-loan-settlement.jpg"
@@ -657,7 +657,7 @@ export default function GettingHomeLoanAfterPersonalLoanSettlementPage() {
                 <FileCheck className="w-4 h-4" />
                 <span>6. Legal &amp; Commercial Status Conversion</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Converting CIBIL Status to Closed</h2>
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Converting CIBIL Status to Closed</h3>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 You can get prime bank home loans at lower repo-linked rates (8.35%–8.75%). To do this, convert your &apos;Settled&apos. status to &apos;Closed&apos;. Banking rules allow you to pay back the waived balance amount.
               </p>
@@ -672,7 +672,7 @@ export default function GettingHomeLoanAfterPersonalLoanSettlementPage() {
                 <Landmark className="w-4 h-4" />
                 <span>7. Specialized Housing Finance Underwriting</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Navigating NBFC and Housing Finance Company (HFC) Manual</h2>
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Navigating NBFC and Housing Finance Company (HFC) Manual</h3>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 If you cannot repay the waived balance, look at specialized NBFCs and Housing Finance Companies. Lenders like Piramal, PNB Housing, Aadhar, Tata Capital, Home First, and Shriram Housing offer good options. Their loan managers review each case manually. They check your recent bank statements, stable cash flow. And property titles.
               </p>
@@ -687,7 +687,7 @@ export default function GettingHomeLoanAfterPersonalLoanSettlementPage() {
                 <Calculator className="w-4 h-4" />
                 <span>8. Underwriting Solvency &amp; Mortgage Math</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Forensic Solvency Math</h2>
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Forensic Solvency Math</h3>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 HFC credit teams check your debt-to-income balance closely. They usually cap your Fixed Obligation to Income Ratio (FOIR) at 40% to 45% of your net monthly income.
               </p>
@@ -716,7 +716,7 @@ export default function GettingHomeLoanAfterPersonalLoanSettlementPage() {
                 <Scale className="w-4 h-4" />
                 <span>9. Comparative Institutional Matrix</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Comparative Analysis</h2>
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Comparative Analysis</h3>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Here is how different lenders assess home loan applications after a settlement:
               </p>
@@ -781,7 +781,7 @@ export default function GettingHomeLoanAfterPersonalLoanSettlementPage() {
                 <CheckCircle2 className="w-4 h-4" />
                 <span>10. Execution Plan &amp; Application Checklist</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Step-by-Step Settlement Blueprint</h2>
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Step-by-Step Settlement Blueprint</h3>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Prepare your documents before you apply. Gather your Settlement Letter, No Dues Certificate, and 24 months of bank statements. Keep 3 years of ITR or Form 16 ready. Do not apply on multiple loan websites. Too many credit checks hurt your score. Work with loan experts who connect directly with manual credit desks.
               </p>
@@ -796,7 +796,7 @@ export default function GettingHomeLoanAfterPersonalLoanSettlementPage() {
                 <HelpCircle className="w-4 h-4" />
                 <span>11. Frequently Asked Questions</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">FAQs: Getting a Home Loan After Loan Settlement</h2>
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">FAQs: Getting a Home Loan After Loan Settlement</h3>
 
               <div className="space-y-4">
                 {faqs.map((faq, index) => (
@@ -822,10 +822,10 @@ export default function GettingHomeLoanAfterPersonalLoanSettlementPage() {
 
             {/* Regulatory References & Official Sources Strip */}
             <div className="bg-slate-50 border border-slate-200 rounded-2xl p-6 my-10">
-              <h3 className="text-base font-bold text-slate-900 mb-4 flex items-center gap-2">
+              <h4 className="text-base font-bold text-slate-900 mb-4 flex items-center gap-2">
                 <Landmark className="w-5 h-5 text-[#1F5EFF]" />
                 Official Regulatory References &amp; Statutory Circulars
-              </h3>
+              </h4>
               <ul className="space-y-3 text-xs text-slate-600">
                 <li className="flex items-start gap-2">
                   <ExternalLink className="w-4 h-4 text-[#1F5EFF] flex-shrink-0 mt-0.5" />
@@ -887,10 +887,10 @@ export default function GettingHomeLoanAfterPersonalLoanSettlementPage() {
 
             {/* Related Guides & Resources Strip (10 Topic Badges) */}
             <div className="bg-slate-50 border border-slate-200 rounded-2xl p-6 my-10">
-              <h3 className="text-base font-bold text-slate-900 mb-4 flex items-center gap-2">
+              <h4 className="text-base font-bold text-slate-900 mb-4 flex items-center gap-2">
                 <BookOpen className="w-5 h-5 text-[#1F5EFF]" />
                 Explore Related Banking &amp; Debt Resolution Guides
-              </h3>
+              </h4>
               <div className="flex flex-wrap gap-2.5">
                 <Link
                   href="/personal-loan-settlement-cibil-impact"

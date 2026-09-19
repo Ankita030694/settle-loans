@@ -182,10 +182,10 @@ export default function LoanSettlementNearMePage() {
                         </section>
 
                         <section id="metros-hubs" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight text-center">Serving India's Major Hubs</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight text-center">Serving India's Major Hubs</h3>
                             <div className="grid md:grid-cols-2 gap-8">
                                 <div className="p-8 bg-gray-50 rounded-3xl border border-gray-100">
-                                    <h3 className="text-xl font-black text-[#2E2E2E] mb-4">North India Hubs</h3>
+                                    <h4 className="text-xl font-black text-[#2E2E2E] mb-4">North India Hubs</h4>
                                     <p className="text-sm leading-relaxed mb-4">In **Delhi NCR**, **Chandigarh**, and **Lucknow**, we handle high volumes of personal and business loan settlements. We understand the aggressive recovery tactics used in these areas and provide immediate legal shields to stop home visits.</p>
                                     <ul className="text-xs space-y-2 opacity-70">
                                         <li>• Connaught Place, South Delhi, Dwarka</li>
@@ -194,7 +194,7 @@ export default function LoanSettlementNearMePage() {
                                     </ul>
                                 </div>
                                 <div className="p-8 bg-gray-50 rounded-3xl border border-gray-100">
-                                    <h3 className="text-xl font-black text-[#2E2E2E] mb-4">South India Hubs</h3>
+                                    <h4 className="text-xl font-black text-[#2E2E2E] mb-4">South India Hubs</h4>
                                     <p className="text-sm leading-relaxed mb-4">Our teams in **Bengaluru**, **Chennai**, **Hyderabad**, and **Kochi** specialize in tech-professional debt and SME credit card resolution. We have deep experience with private banks and NBFCs headquartered in these regions.</p>
                                     <ul className="text-xs space-y-2 opacity-70">
                                         <li>• Whitefield Bengaluru, HSR Layout</li>
@@ -203,7 +203,7 @@ export default function LoanSettlementNearMePage() {
                                     </ul>
                                 </div>
                                 <div className="p-8 bg-gray-50 rounded-3xl border border-gray-100">
-                                    <h3 className="text-xl font-black text-[#2E2E2E] mb-4">West India Hubs</h3>
+                                    <h4 className="text-xl font-black text-[#2E2E2E] mb-4">West India Hubs</h4>
                                     <p className="text-sm leading-relaxed mb-4">In **Mumbai**, **Pune**, **Ahmedabad**, and **Surat**, we deal with complex corporate debt and high-value personal loans. Our proximity to bank head offices in Mumbai allows us to escalate negotiations directly when needed.</p>
                                     <ul className="text-xs space-y-2 opacity-70">
                                         <li>• BKC Mumbai, Andheri East, Colaba</li>
@@ -212,7 +212,7 @@ export default function LoanSettlementNearMePage() {
                                     </ul>
                                 </div>
                                 <div className="p-8 bg-gray-50 rounded-3xl border border-gray-100">
-                                    <h3 className="text-xl font-black text-[#2E2E2E] mb-4">East India Hubs</h3>
+                                    <h4 className="text-xl font-black text-[#2E2E2E] mb-4">East India Hubs</h4>
                                     <p className="text-sm leading-relaxed mb-4">Serving **Kolkata**, **Bhubaneswar**, **Guwahati**, and **Patna**, we focus on providing relief to small business owners and public sector employees. We navigate the unique legal pace of these regional DRTs with precision.</p>
                                     <ul className="text-xs space-y-2 opacity-70">
                                         <li>• Salt Lake Kolkata, Park Street</li>
@@ -224,59 +224,59 @@ export default function LoanSettlementNearMePage() {
                         </section>
 
                         <section id="state-wise-guide" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">State-Wise Loan Settlement Dynamics</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">State-Wise Loan Settlement Dynamics</h3>
                             <p className="text-lg leading-relaxed mb-8">
                                 India's diverse legal landscape means that your location significantly impacts your settlement strategy. Below is a deep dive into the dynamics of various states:
                             </p>
 
                             <div className="space-y-12">
                                 <div>
-                                    <h3 className="text-2xl font-black text-[#1F5EFF] mb-4">Maharashtra & Goa</h3>
+                                    <h4 className="text-2xl font-black text-[#1F5EFF] mb-4">Maharashtra & Goa</h4>
                                     <p className="leading-relaxed mb-4">With Mumbai as the financial capital, Maharashtra sees the highest volume of settlements. The presence of Head Offices (HO) makes "Global Settlements" easier here. In Goa, tourism-related business debt is a major focus, where we negotiate based on seasonal cash flow hardships.</p>
                                 </div>
                                 <div>
-                                    <h3 className="text-2xl font-black text-[#1F5EFF] mb-4">Karnataka, Tamil Nadu & Kerala</h3>
+                                    <h4 className="text-2xl font-black text-[#1F5EFF] mb-4">Karnataka, Tamil Nadu & Kerala</h4>
                                     <p className="leading-relaxed mb-4">The "Silicon Valley" of India (Bengaluru) has a unique trend of "Lifestyle Debt" among IT professionals. Our local teams focus on high-interest credit card settlements. In Kerala, we handle a high volume of NRIs who have defaulted on local loans, using our digital-legal bridge to settle remotely.</p>
                                 </div>
                                 <div>
-                                    <h3 className="text-2xl font-black text-[#1F5EFF] mb-4">Uttar Pradesh & Bihar</h3>
+                                    <h4 className="text-2xl font-black text-[#1F5EFF] mb-4">Uttar Pradesh & Bihar</h4>
                                     <p className="leading-relaxed mb-4">In these states, aggressive recovery tactics are common. Our local "Stop Harassment" wing is most active here, ensuring that lenders follow RBI's Code of Conduct. We often negotiate for lower lump-sum settlements for agricultural and small business loans.</p>
                                 </div>
                                 <div>
-                                    <h3 className="text-2xl font-black text-[#1F5EFF] mb-4">Gujarat & Rajasthan</h3>
+                                    <h4 className="text-2xl font-black text-[#1F5EFF] mb-4">Gujarat & Rajasthan</h4>
                                     <p className="leading-relaxed mb-4">These are entrepreneurial states where business loan settlements are the priority. We use the MSME framework heavily here, helping textile units and handicraft businesses resolve defaults without losing their family properties.</p>
                                 </div>
                             </div>
                         </section>
 
                         <section id="process" className="scroll-mt-32 mb-16 text-white bg-[#2E2E2E] p-12 rounded-[40px] border-l-[12px] border-[#1F5EFF]">
-                            <h2 className="text-3xl md:text-4xl font-black mb-8 leading-tight">Our 4-Step Localized Process</h2>
+                            <h3 className="text-3xl md:text-4xl font-black mb-8 leading-tight">Our 4-Step Localized Process</h3>
                             <div className="space-y-8">
                                 <div className="flex gap-6">
                                     <span className="text-4xl font-black text-[#1F5EFF]">01</span>
                                     <div>
-                                        <h3 className="text-xl font-bold mb-2">Financial Diagnosis</h3>
+                                        <h4 className="text-xl font-bold mb-2">Financial Diagnosis</h4>
                                         <p className="opacity-70">We analyze your debt at a local branch level. How much have you paid? What is the current 'Real Debt' excluding hidden penalties?</p>
                                     </div>
                                 </div>
                                 <div className="flex gap-6">
                                     <span className="text-4xl font-black text-[#1F5EFF]">02</span>
                                     <div>
-                                        <h4 className="text-xl font-bold mb-2">Legal Shield Activation</h4>
+                                        <h5 className="text-xl font-bold mb-2">Legal Shield Activation</h5>
                                         <p className="opacity-70">Within 24 hours of onboarding, we issue legal notices to your regional bank managers and recovery agencies, establishing your right to privacy.</p>
                                     </div>
                                 </div>
                                 <div className="flex gap-6">
                                     <span className="text-4xl font-black text-[#1F5EFF]">03</span>
                                     <div>
-                                        <h4 className="text-xl font-bold mb-2">Omni-Channel Negotiation</h4>
+                                        <h5 className="text-xl font-bold mb-2">Omni-Channel Negotiation</h5>
                                         <p className="opacity-70">We leverage our network of local negotiators and Head Office advocates to present your hardship case and secure the maximum write-off.</p>
                                     </div>
                                 </div>
                                 <div className="flex gap-6">
                                     <span className="text-4xl font-black text-[#1F5EFF]">04</span>
                                     <div>
-                                        <h4 className="text-xl font-bold mb-2">Validation & No-Dues</h4>
+                                        <h5 className="text-xl font-bold mb-2">Validation & No-Dues</h5>
                                         <p className="opacity-70">We ensure the settlement letter is legitimate and oversee the final payment to get your 'No-Dues Certificate' (NDC) from the local branch.</p>
                                     </div>
                                 </div>
@@ -284,7 +284,7 @@ export default function LoanSettlementNearMePage() {
                         </section>
 
                         <section id="legal-buffering" className="scroll-mt-32 mb-16 mt-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">The Importance of a "Local Legal Buffer"</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">The Importance of a "Local Legal Buffer"</h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 Recovery agents rely on your lack of immediate legal access to intimidate you. A "loan settlement lawyer near me" provides the necessary shield. When an agent visits your home, you have the legal right to ask for their ID card, the bank's authorization letter, and their registration with the Indian Institute of Banking and Finance (IIBF).
                             </p>
@@ -297,7 +297,7 @@ export default function LoanSettlementNearMePage() {
                         </section>
 
                         <section id="rights" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight text-center underline decoration-[#1F5EFF] underline-offset-[10px]">Your Rights Defined by Your Territory</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight text-center underline decoration-[#1F5EFF] underline-offset-[10px]">Your Rights Defined by Your Territory</h3>
                             <p className="text-lg leading-relaxed mb-10 text-center">Whether you are in a metro or a rural district, your rights under RBI's Fair Practices Code remain absolute.</p>
                             <div className="grid gap-6">
                                 {[
@@ -307,7 +307,7 @@ export default function LoanSettlementNearMePage() {
                                     { title: "Right to Knowledge", desc: "You are entitled to a full statement of account and a breakdown of all interest and penal charges applied to your loan." }
                                 ].map((right, i) => (
                                     <div key={i} className="group p-8 border border-[#DEDEDE] rounded-3xl hover:border-[#1F5EFF] transition-all">
-                                        <h3 className="text-xl font-black text-[#2E2E2E] mb-2 group-hover:text-[#1F5EFF]">{right.title}</h3>
+                                        <h4 className="text-xl font-black text-[#2E2E2E] mb-2 group-hover:text-[#1F5EFF]">{right.title}</h4>
                                         <p className="text-[#747474] leading-relaxed">{right.desc}</p>
                                     </div>
                                 ))}
@@ -315,7 +315,7 @@ export default function LoanSettlementNearMePage() {
                         </section>
 
                         <section id="cibil-impact" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">Will My CIBIL Score Recover in My City?</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">Will My CIBIL Score Recover in My City?</h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 One of the most common fears about loan settlement is the impact on the credit score. Yes, settling a loan will lead to a 'Settled' remark on your CIBIL report, and your score will temporarily drop. However, the drop is regional in its impact.
                             </p>
@@ -323,13 +323,13 @@ export default function LoanSettlementNearMePage() {
                                 In cities with high credit participation like Mumbai or Bangalore, a 'Settled' remark is scrutinized heavily. In smaller towns, local lenders might be more flexible if you can prove that the settlement was followed by consistent financial discipline.
                             </p>
                             <div className="bg-gray-100 p-8 rounded-[40px] text-center">
-                                <h3 className="text-2xl font-black mb-4">The 24-Month Recovery Path</h3>
+                                <h4 className="text-2xl font-black mb-4">The 24-Month Recovery Path</h4>
                                 <p className="text-lg text-[#747474] italic">"Most borrowers who settle their debt can rebuild their credit score to 750+ within 18 to 24 months by using secured credit cards and timely payments of small utilities."</p>
                             </div>
                         </section>
 
                         <section id="success-stories" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 text-center uppercase tracking-tighter">Locally Sourced Success</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 text-center uppercase tracking-tighter">Locally Sourced Success</h3>
                             <div className="grid md:grid-cols-2 gap-6 not-prose">
                                 {[
                                     {
@@ -367,7 +367,7 @@ export default function LoanSettlementNearMePage() {
                                                 {review.name.charAt(0)}
                                             </div>
                                             <div>
-                                                <h3 className="font-bold text-[#2E2E2E]">{review.name}</h3>
+                                                <h4 className="font-bold text-[#2E2E2E]">{review.name}</h4>
                                                 <p className="text-xs text-gray-400">{review.loc}</p>
                                             </div>
                                             <div className="ml-auto text-yellow-400 text-sm">★★★★★</div>
@@ -382,7 +382,7 @@ export default function LoanSettlementNearMePage() {
                         </section>
 
                         <section id="state-links" className="scroll-mt-32 mb-16 mt-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 text-center">Serving Every Corner of India</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 text-center">Serving Every Corner of India</h3>
                             <p className="text-center mb-10 opacity-70">Select your state to find customized debt resolution guides and local support contacts.</p>
                             <div className="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 gap-4">
                                 {[
@@ -399,7 +399,7 @@ export default function LoanSettlementNearMePage() {
                         </section>
 
                         <section id="checklist" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">Checklist for Choosing a Settlement Firm Near You</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">Checklist for Choosing a Settlement Firm Near You</h3>
                             <div className="bg-white border-2 border-[#DEDEDE] p-10 rounded-[40px] shadow-xl">
                                 <ul className="space-y-6">
                                     {[
@@ -424,7 +424,7 @@ export default function LoanSettlementNearMePage() {
                         </section>
 
                         <section id="faqs" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-12 text-center">Local Search FAQs</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-12 text-center">Local Search FAQs</h3>
                             <div className="space-y-6">
                                 {[
                                     { q: "How can I find a loan settlement service near me in India?", a: "You can find local services by searching online for proximity-based debt relief. Look for firms like SettleLoans that combine a national digital bridge with local branch-level negotiation expertise." },
@@ -439,7 +439,7 @@ export default function LoanSettlementNearMePage() {
                                     { q: "Can a settlement avoid a court case in my district?", a: "Yes, reaching an out-of-court settlement is the bank's preferred way to avoid the time and cost of district court or DRT litigation." }
                                 ].map((faq, i) => (
                                     <div key={i} className="p-8 bg-white border border-[#DEDEDE] rounded-3xl shadow-sm transition-all hover:shadow-lg">
-                                        <h3 className="font-black text-[#2E2E2E] mb-4 text-xl border-b pb-2 border-[#1F5EFF]/10">{faq.q}</h3>
+                                        <h4 className="font-black text-[#2E2E2E] mb-4 text-xl border-b pb-2 border-[#1F5EFF]/10">{faq.q}</h4>
                                         <p className="text-gray-600 leading-relaxed text-lg italic">"{faq.a}"</p>
                                     </div>
                                 ))}
@@ -447,7 +447,7 @@ export default function LoanSettlementNearMePage() {
                         </section>
 
                         <section className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">Conclusion: Your Freedom starts at Home</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">Conclusion: Your Freedom starts at Home</h3>
                             <p className="text-lg leading-relaxed mb-6 italic font-bold">The weight of debt is heavy, but you don't have to carry it alone. Whether you are in a bustling metro or a quiet district, the path to a debt-free life is just a conversation away.</p>
                             <div className="bg-[#1F5EFF] p-10 rounded-[40px] text-center text-white shadow-2xl">
                                 <p className="text-2xl font-black mb-8 tracking-tight">Stop the harassment. Start the settlement. Get local support today.</p>
@@ -499,7 +499,7 @@ export default function LoanSettlementNearMePage() {
                 {/* Localities Section - Full Width before Footer */}
                 <section className="w-full bg-gray-50 border-t border-[#DEDEDE] py-20 px-4 md:px-8 lg:px-16">
                     <div className="max-w-7xl mx-auto">
-                        <h2 className="text-3xl md:text-5xl font-black text-[#2E2E2E] mb-12 text-center tracking-tighter uppercase">Localities We Serve Across India</h2>
+                        <h3 className="text-3xl md:text-5xl font-black text-[#2E2E2E] mb-12 text-center tracking-tighter uppercase">Localities We Serve Across India</h3>
                         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-8">
                             {[
                                 { state: "Andhra Pradesh", href: "/loan-settlement/andhra-pradesh", cities: "Anantapur, Guntur, Kakinada, Nellore, Rajahmundry, Tirupati, Vijayawada, Visakhapatnam", review: { name: "Ramesh B.", text: "Settled my 5 Lakh loan in Vijayawada with a 65% discount. Legal team was very professional." } },
@@ -534,14 +534,14 @@ export default function LoanSettlementNearMePage() {
                                 { state: "Union Territories", href: null, cities: "Andaman & Nicobar Islands, Chandigarh, Dadra & Nagar Haveli and Daman & Diu, Jammu & Kashmir, Ladakh, Lakshadweep, Puducherry", review: { name: "Shivani M.", text: "Resolved my debt issues in Chandigarh. The legal support was invaluable." } }
                             ].map((item, idx) => (
                                 <div key={idx} className="bg-white p-6 rounded-3xl border border-[#DEDEDE] shadow-sm hover:shadow-md hover:border-[#1F5EFF] transition-all group flex flex-col">
-                                    <h3 className="text-lg font-black text-[#2E2E2E] mb-3 group-hover:text-[#1F5EFF] flex items-center">
+                                    <h4 className="text-lg font-black text-[#2E2E2E] mb-3 group-hover:text-[#1F5EFF] flex items-center">
                                         <span className="w-2 h-2 bg-[#1F5EFF] rounded-full mr-2 opacity-0 group-hover:opacity-100 transition-opacity"></span>
                                         {item.href ? (
                                             <Link href={item.href} className="hover:underline">{item.state}</Link>
                                         ) : (
                                             item.state
                                         )}
-                                    </h3>
+                                    </h4>
                                     <p className="text-sm text-[#747474] leading-relaxed mb-6">
                                         {item.cities}
                                     </p>

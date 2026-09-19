@@ -146,15 +146,15 @@ export default function ForeclosureChargesPage() {
             </section>
             
             <section id="rbi-rules-on-foreclosure-charges" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 RBI Rules on Foreclosure Charges Explained
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6 text-gray-700">
                 The RBI has consistently intervened to ensure fair practices in the lending sector. The rules surrounding pre-closure (foreclosure) penalties are designed to prevent banks from unfairly penalizing borrowers who wish to clear their debt early.
               </p>
               
               <div className="bg-blue-50 border-l-8 border-[#1F5EFF] p-8 rounded-r-2xl mb-8">
-                <h3 className="text-xl font-black text-[#1F5EFF] mb-4">Crucial RBI Mandate on Floating Rates</h3>
+                <h4 className="text-xl font-black text-[#1F5EFF] mb-4">Crucial RBI Mandate on Floating Rates</h4>
                 <p className="text-lg text-blue-900 mb-4">
                   According to circulars issued by the RBI (such as DBR.Dir.BC.No.08/13.03.00/2019-20), banks and NBFCs are strictly <strong>prohibited</strong> from charging any foreclosure charges or pre-payment penalties on any <strong>floating rate term loan</strong> sanctioned to individual borrowers for purposes other than business.
                 </p>
@@ -176,16 +176,16 @@ export default function ForeclosureChargesPage() {
             </section>
 
             <section id="fixed-vs-floating-rates" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 Fixed vs. Floating Rate Loans: The Big Difference
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6 text-gray-700">
                 The legality of your bank's foreclosure charges entirely depends on the type of interest rate your loan carries. Understanding this is step one in protecting your rights.
               </p>
 
               <div className="grid md:grid-cols-2 gap-6 my-8">
                 <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
-                  <h3 className="font-black text-[#1F5EFF] text-lg mb-3">Floating Rate Loans</h3>
+                  <h4 className="font-black text-[#1F5EFF] text-lg mb-3">Floating Rate Loans</h4>
                   <p className="text-gray-700 mb-4">
                     The interest rate fluctuates with market conditions (usually tied to the Repo Rate).
                   </p>
@@ -194,7 +194,7 @@ export default function ForeclosureChargesPage() {
                   </div>
                 </div>
                 <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
-                  <h3 className="font-black text-[#1F5EFF] text-lg mb-3">Fixed Rate Loans</h3>
+                  <h4 className="font-black text-[#1F5EFF] text-lg mb-3">Fixed Rate Loans</h4>
                   <p className="text-gray-700 mb-4">
                     The interest rate remains constant throughout the entire tenure of the personal loan.
                   </p>
@@ -212,15 +212,15 @@ export default function ForeclosureChargesPage() {
             </section>
 
             <section id="illegal-bank-charges" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 How Banks Illegally Charge Penalties
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6 text-gray-700">
                 Despite clear RBI guidelines prohibiting fees on floating rate loans, some financial institutions employ loopholes and deceptive practices to extract money from borrowers closing their loans early.
               </p>
               
               <div className="bg-red-50 p-6 rounded-xl border border-red-100 mb-8">
-                <h3 className="text-xl font-black text-red-700 mb-4">Common Deceptive Tactics by Banks</h3>
+                <h4 className="text-xl font-black text-red-700 mb-4">Common Deceptive Tactics by Banks</h4>
                 <ul className="space-y-4 text-red-900">
                   <li className="flex gap-3">
                     <span className="font-bold">•</span>
@@ -239,9 +239,9 @@ export default function ForeclosureChargesPage() {
             </section>
 
             <section id="calculate-true-cost" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 How to Calculate the True Cost of Foreclosure
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6 text-gray-700">
                 If you have a fixed-rate personal loan where foreclosure charges are legally applicable, it's essential to understand how the final payout amount is calculated so you aren't overcharged by the lender.
               </p>
@@ -250,21 +250,21 @@ export default function ForeclosureChargesPage() {
                 <div className="flex gap-6">
                   <div className="flex-shrink-0 w-12 h-12 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center font-black text-xl shadow-lg">1</div>
                   <div>
-                    <h3 className="text-xl font-bold text-[#2E2E2E] mb-2">Identify Outstanding Principal</h3>
+                    <h4 className="text-xl font-bold text-[#2E2E2E] mb-2">Identify Outstanding Principal</h4>
                     <p className="text-gray-700">Check your latest loan statement to find the exact principal amount remaining before your next EMI is due.</p>
                   </div>
                 </div>
                 <div className="flex gap-6">
                   <div className="flex-shrink-0 w-12 h-12 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center font-black text-xl shadow-lg">2</div>
                   <div>
-                    <h3 className="text-xl font-bold text-[#2E2E2E] mb-2">Apply the Foreclosure Percentage</h3>
+                    <h4 className="text-xl font-bold text-[#2E2E2E] mb-2">Apply the Foreclosure Percentage</h4>
                     <p className="text-gray-700">Multiply the outstanding principal by the foreclosure rate mentioned in your agreement (e.g., 4%). For a ₹5,00,000 outstanding balance, the fee is ₹20,000.</p>
                   </div>
                 </div>
                 <div className="flex gap-6">
                   <div className="flex-shrink-0 w-12 h-12 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center font-black text-xl shadow-lg">3</div>
                   <div>
-                    <h3 className="text-xl font-bold text-[#2E2E2E] mb-2">Add 18% GST</h3>
+                    <h4 className="text-xl font-bold text-[#2E2E2E] mb-2">Add 18% GST</h4>
                     <p className="text-gray-700">GST is applicable on the fee, not the principal. 18% of ₹20,000 is ₹3,600. Total fee: ₹23,600. Total payout: ₹5,23,600 plus any accrued interest for the current month.</p>
                   </div>
                 </div>
@@ -272,27 +272,27 @@ export default function ForeclosureChargesPage() {
             </section>
 
             <section id="file-ombudsman-complaint" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 Challenging Illegal Fees: Filing an RBI Ombudsman Complaint
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6 text-gray-700">
                 If your bank insists on charging illegal pre-closure penalties or part payment fees on a floating rate loan, do not succumb. You have legal recourse through the Reserve Bank of India's grievance redressal mechanisms.
               </p>
 
               <div className="bg-white rounded-2xl p-8 border border-[#DEDEDE] shadow-sm relative overflow-hidden mb-8">
-                <h3 className="text-2xl font-bold text-[#2E2E2E] mb-6">Step-by-Step Escalation Process</h3>
+                <h4 className="text-2xl font-bold text-[#2E2E2E] mb-6">Step-by-Step Escalation Process</h4>
                 
                 <div className="space-y-6">
                   <div className="p-4 bg-gray-50 rounded-xl border border-gray-200">
-                    <h4 className="font-bold text-[#1F5EFF] mb-2">Step 1: Formal Written Complaint to the Bank</h4>
+                    <h5 className="font-bold text-[#1F5EFF] mb-2">Step 1: Formal Written Complaint to the Bank</h5>
                     <p className="text-gray-700">Email the bank's Nodal Officer citing the specific RBI circular banning floating rate foreclosure charges. Demand an immediate waiver of the fees.</p>
                   </div>
                   <div className="p-4 bg-gray-50 rounded-xl border border-gray-200">
-                    <h4 className="font-bold text-[#1F5EFF] mb-2">Step 2: Wait 30 Days</h4>
+                    <h5 className="font-bold text-[#1F5EFF] mb-2">Step 2: Wait 30 Days</h5>
                     <p className="text-gray-700">The bank is legally mandated to resolve your grievance within 30 days. If they reject your claim or fail to reply satisfactorily, proceed to the next step.</p>
                   </div>
                   <div className="p-4 bg-gray-50 rounded-xl border border-gray-200">
-                    <h4 className="font-bold text-[#1F5EFF] mb-2">Step 3: RBI Complaint Management System (CMS)</h4>
+                    <h5 className="font-bold text-[#1F5EFF] mb-2">Step 3: RBI Complaint Management System (CMS)</h5>
                     <p className="text-gray-700">Visit the official RBI CMS portal. File a complaint against the regulated entity under "Deficiency in Service" and attach your loan agreement and the bank's rejection email.</p>
                   </div>
                 </div>
@@ -300,9 +300,9 @@ export default function ForeclosureChargesPage() {
             </section>
 
             <section id="success-stories" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 Success Stories: Fighting Back Against Illegal Fees
-              </h2>
+              </h3>
               <div className="grid md:grid-cols-2 gap-6 my-8">
                 
                 <div className="bg-white p-8 rounded-[30px] border border-[#DEDEDE] shadow-sm hover:shadow-xl group transition-all duration-300">
@@ -345,9 +345,9 @@ export default function ForeclosureChargesPage() {
             </section>
 
             <section id="faqs" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">
                 Frequently Asked Questions
-              </h2>
+              </h3>
               <div className="space-y-4">
                 {[
                   { q: "What are foreclosure charges on a personal loan?", a: "Foreclosure charges are fees levied by a bank or NBFC when you pay off your loan entirely before the end of the loan tenure." },
@@ -362,7 +362,7 @@ export default function ForeclosureChargesPage() {
                   { q: "Should I foreclose my personal loan early?", a: "If you have surplus funds and are on a high-interest loan (especially fixed rate), foreclosing can save you significant interest costs. However, check for penalties and do a cost-benefit analysis first." }
                 ].map((faq, index) => (
                   <div key={index} className="bg-white border border-[#DEDEDE] rounded-xl p-6 hover:shadow-md transition-shadow">
-                    <h3 className="text-lg font-bold text-[#2E2E2E] mb-3">{faq.q}</h3>
+                    <h4 className="text-lg font-bold text-[#2E2E2E] mb-3">{faq.q}</h4>
                     <p className="text-gray-700">{faq.a}</p>
                   </div>
                 ))}
@@ -373,9 +373,9 @@ export default function ForeclosureChargesPage() {
             <div className="bg-[#2E2E2E] text-white p-12 rounded-[40px] text-center mt-24 relative overflow-hidden group">
               <div className="absolute inset-0 bg-[#1F5EFF] opacity-0 group-hover:opacity-5 transition-opacity duration-500"></div>
               <div className="relative z-10">
-                <h3 className="text-3xl md:text-4xl font-black mb-6">
+                <h4 className="text-3xl md:text-4xl font-black mb-6">
                   Is your bank illegally charging you massive 'foreclosure penalties' to close your personal loan early?
-                </h3>
+                </h4>
                 <p className="text-xl text-gray-300 mb-8 max-w-2xl mx-auto">
                   Know the exact RBI rules and let our experts help you challenge their fees today. Don't pay a single rupee more than you legally owe.
                 </p>

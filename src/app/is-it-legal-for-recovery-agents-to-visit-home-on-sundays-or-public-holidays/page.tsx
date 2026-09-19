@@ -235,15 +235,15 @@ export default function SundayRecoveryRulesPage() {
 
             {/* RBI Timings Section */}
             <section id="rbi-timings" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 RBI Guidelines on Recovery Timings
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 The RBI's Fair Practices Code is the rulebook that all banks and Non-Banking Financial Companies (NBFCs) must follow. It explicitly dictates the operational boundaries for debt collection to ensure borrowers are treated with dignity.
               </p>
               
               <div className="bg-blue-50 border-l-8 border-[#1F5EFF] p-8 rounded-r-2xl mb-8">
-                <h3 className="text-xl font-black text-[#1F5EFF] mb-4">The 7 AM to 7 PM Rule</h3>
+                <h4 className="text-xl font-black text-[#1F5EFF] mb-4">The 7 AM to 7 PM Rule</h4>
                 <p className="text-lg leading-relaxed text-blue-900 mb-4">
                   The central tenet of the RBI's timing regulation is clear and uncompromising:
                 </p>
@@ -266,15 +266,15 @@ export default function SundayRecoveryRulesPage() {
 
             {/* Sunday and Holiday Rules */}
             <section id="holiday-rules" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 Can Banks Visit on Sundays & Public Holidays?
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 Recovery agencies often use weekends as a pressure tactic, knowing that you are likely to be home with family, thereby increasing the psychological pressure and potential for public embarrassment.
               </p>
 
               <div className="bg-red-50 p-6 rounded-xl border border-red-100 mb-8">
-                <h3 className="text-xl font-black text-red-700 mb-4">The Verdict on Sundays and Holidays</h3>
+                <h4 className="text-xl font-black text-red-700 mb-4">The Verdict on Sundays and Holidays</h4>
                 <p className="text-lg leading-relaxed text-red-900 font-medium">
                   According to the RBI's strict directives on customer protection and grievance redressal, banks and their outsourced agencies should ordinarily contact borrowers only during standard business hours.
                 </p>
@@ -289,9 +289,9 @@ export default function SundayRecoveryRulesPage() {
 
             {/* What to Do Section */}
             <section id="what-to-do" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 Step-by-Step: What to Do If They Show Up
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-8">
                 Knowing your rights is only half the battle. Executing them calmly in a stressful situation is crucial. Here is a step-by-step guide on how to handle unauthorized weekend visits.
               </p>
@@ -300,7 +300,7 @@ export default function SundayRecoveryRulesPage() {
                 <div className="flex gap-6">
                   <div className="flex-shrink-0 w-12 h-12 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center font-black text-xl shadow-lg">1</div>
                   <div>
-                    <h3 className="text-2xl font-bold text-[#2E2E2E] mb-3">Do Not Let Them Inside</h3>
+                    <h4 className="text-2xl font-bold text-[#2E2E2E] mb-3">Do Not Let Them Inside</h4>
                     <p className="text-lg leading-relaxed text-gray-600">Recovery agents are not law enforcement officers. They do not have search warrants. You are under no obligation to let them cross the threshold of your door. Speak to them from the doorway or ask them to wait outside.</p>
                   </div>
                 </div>
@@ -308,7 +308,7 @@ export default function SundayRecoveryRulesPage() {
                 <div className="flex gap-6">
                   <div className="flex-shrink-0 w-12 h-12 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center font-black text-xl shadow-lg">2</div>
                   <div>
-                    <h3 className="text-2xl font-bold text-[#2E2E2E] mb-3">Start Recording (Video/Audio)</h3>
+                    <h4 className="text-2xl font-bold text-[#2E2E2E] mb-3">Start Recording (Video/Audio)</h4>
                     <p className="text-lg leading-relaxed text-gray-600">Take out your smartphone and start recording the interaction. State clearly: <em>"I am recording this interaction for my safety and regulatory compliance."</em> Often, the mere presence of a camera will force rogue agents to behave properly or leave immediately.</p>
                   </div>
                 </div>
@@ -316,7 +316,7 @@ export default function SundayRecoveryRulesPage() {
                 <div className="flex gap-6">
                   <div className="flex-shrink-0 w-12 h-12 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center font-black text-xl shadow-lg">3</div>
                   <div>
-                    <h3 className="text-2xl font-bold text-[#2E2E2E] mb-3">Demand Identification</h3>
+                    <h4 className="text-2xl font-bold text-[#2E2E2E] mb-3">Demand Identification</h4>
                     <p className="text-lg leading-relaxed text-gray-600">Ask for their ID card and the official authorization letter from the bank. The RBI mandates that agents must carry proper identification and the authorization letter upon which the bank has assigned them your case.</p>
                   </div>
                 </div>
@@ -324,7 +324,7 @@ export default function SundayRecoveryRulesPage() {
                 <div className="flex gap-6">
                   <div className="flex-shrink-0 w-12 h-12 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center font-black text-xl shadow-lg">4</div>
                   <div>
-                    <h3 className="text-2xl font-bold text-[#2E2E2E] mb-3">State the RBI Guidelines</h3>
+                    <h4 className="text-2xl font-bold text-[#2E2E2E] mb-3">State the RBI Guidelines</h4>
                     <p className="text-lg leading-relaxed text-gray-600">Calmly inform them: <em>"It is a Sunday/Public Holiday. Under RBI guidelines, you are not authorized to visit my home today without my prior consent. Please leave and contact me during business hours."</em> Refuse to discuss the debt further.</p>
                   </div>
                 </div>
@@ -333,28 +333,28 @@ export default function SundayRecoveryRulesPage() {
 
             {/* Core Rights Section */}
             <section id="your-rights" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 Understanding Your Core Rights
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 The RBI has explicitly outlined what constitutes "harassment." Make sure you are aware of these core protections.
               </p>
 
               <div className="grid md:grid-cols-2 gap-6 my-8">
                 <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
-                  <h3 className="font-black text-[#1F5EFF] text-lg mb-3">Right to Privacy</h3>
+                  <h4 className="font-black text-[#1F5EFF] text-lg mb-3">Right to Privacy</h4>
                   <p className="text-gray-700 leading-relaxed">Agents cannot discuss your debt with your neighbors, relatives, or employer. Shaming tactics are strictly illegal.</p>
                 </div>
                 <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
-                  <h3 className="font-black text-[#1F5EFF] text-lg mb-3">Right Against Intimidation</h3>
+                  <h4 className="font-black text-[#1F5EFF] text-lg mb-3">Right Against Intimidation</h4>
                   <p className="text-gray-700 leading-relaxed">Use of foul language, physical threats, or aggressive posturing is a criminal offense under the IPC.</p>
                 </div>
                 <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
-                  <h3 className="font-black text-[#1F5EFF] text-lg mb-3">Right to Fair Notice</h3>
+                  <h4 className="font-black text-[#1F5EFF] text-lg mb-3">Right to Fair Notice</h4>
                   <p className="text-gray-700 leading-relaxed">Banks must inform you regarding the details of the recovery agency assigned to your case before they attempt contact.</p>
                 </div>
                 <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
-                  <h3 className="font-black text-[#1F5EFF] text-lg mb-3">Right to Lodge Complaints</h3>
+                  <h4 className="font-black text-[#1F5EFF] text-lg mb-3">Right to Lodge Complaints</h4>
                   <p className="text-gray-700 leading-relaxed">You have the absolute right to complain against rogue agents without fear of retaliation from the bank.</p>
                 </div>
               </div>
@@ -362,15 +362,15 @@ export default function SundayRecoveryRulesPage() {
 
             {/* Ombudsman Section */}
             <section id="ombudsman" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 Filing a Grievance with the Banking Ombudsman
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 If the bank fails to rein in their agents, you must escalate the matter to regulatory authorities. The RBI provides a robust mechanism for this.
               </p>
 
               <div className="bg-gray-50 p-8 rounded-2xl mb-8 border border-gray-200">
-                <h3 className="text-xl font-bold text-gray-800 mb-4">The Escalation Process</h3>
+                <h4 className="text-xl font-bold text-gray-800 mb-4">The Escalation Process</h4>
                 <ol className="list-decimal list-inside space-y-4 text-gray-700 text-lg leading-relaxed">
                   <li><strong>Step 1: Write to the Nodal Officer.</strong> Draft a formal email detailing the harassment (mentioning dates, times, and Sunday visits). Attach any video or audio recordings.</li>
                   <li><strong>Step 2: Wait 30 Days.</strong> The bank is legally required to resolve the grievance within 30 days of receiving your complaint.</li>
@@ -382,9 +382,9 @@ export default function SundayRecoveryRulesPage() {
 
             {/* Success Stories */}
             <section id="success-stories" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 Real Success Stories of Stopping Harassment
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-8">
                 You are not alone in this fight. Here is how professional intervention has helped others reclaim their peace.
               </p>
@@ -404,7 +404,7 @@ export default function SundayRecoveryRulesPage() {
                       <svg className="w-5 h-5 fill-current" viewBox="0 0 20 20"><path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z" /></svg>
                     </div>
                   </div>
-                  <h3 className="font-bold text-[#2E2E2E] text-lg mb-2">Rahul V.</h3>
+                  <h4 className="font-bold text-[#2E2E2E] text-lg mb-2">Rahul V.</h4>
                   <p className="text-gray-600 text-sm italic mb-6">"Agents kept showing up on Sundays. SettleLoans stepped in, sent a legal notice to the bank citing RBI rules, and the weekend visits stopped instantly."</p>
                   <div className="flex gap-2">
                     <span className="bg-red-100 text-red-700 px-3 py-1 rounded-full text-xs font-bold">Loan: ₹8L</span>
@@ -426,7 +426,7 @@ export default function SundayRecoveryRulesPage() {
                       <svg className="w-5 h-5 fill-current" viewBox="0 0 20 20"><path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z" /></svg>
                     </div>
                   </div>
-                  <h4 className="font-bold text-[#2E2E2E] text-lg mb-2">Meera S.</h4>
+                  <h5 className="font-bold text-[#2E2E2E] text-lg mb-2">Meera S.</h5>
                   <p className="text-gray-600 text-sm italic mb-6">"I didn't know 7 AM to 7 PM was the rule until I read their guide. Hired them and they settled my personal loan without any more harassment at my home."</p>
                   <div className="flex gap-2">
                     <span className="bg-red-100 text-red-700 px-3 py-1 rounded-full text-xs font-bold">Loan: ₹12L</span>
@@ -438,48 +438,48 @@ export default function SundayRecoveryRulesPage() {
 
             {/* FAQs Section */}
             <section id="faqs" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">
                 Frequently Asked Questions
-              </h2>
+              </h3>
               <div className="space-y-4">
                 <div className="bg-white border border-[#DEDEDE] rounded-xl p-6 hover:shadow-md transition-shadow">
-                  <h3 className="text-lg font-bold text-[#2E2E2E] mb-2">Can recovery agents visit my home on a Sunday?</h3>
+                  <h4 className="text-lg font-bold text-[#2E2E2E] mb-2">Can recovery agents visit my home on a Sunday?</h4>
                   <p className="text-gray-700">No, under standard RBI guidelines and the Fair Practices Code, recovery agents are generally restricted from visiting your home or calling you on Sundays and designated public holidays.</p>
                 </div>
                 <div className="bg-white border border-[#DEDEDE] rounded-xl p-6 hover:shadow-md transition-shadow">
-                  <h3 className="text-lg font-bold text-[#2E2E2E] mb-2">What are the legal timings for recovery agents to visit?</h3>
+                  <h4 className="text-lg font-bold text-[#2E2E2E] mb-2">What are the legal timings for recovery agents to visit?</h4>
                   <p className="text-gray-700">According to the RBI, recovery agents can only contact you or visit your home between 7:00 AM and 7:00 PM on standard working days.</p>
                 </div>
                 <div className="bg-white border border-[#DEDEDE] rounded-xl p-6 hover:shadow-md transition-shadow">
-                  <h3 className="text-lg font-bold text-[#2E2E2E] mb-2">Can agents visit on public holidays like Diwali or Republic Day?</h3>
+                  <h4 className="text-lg font-bold text-[#2E2E2E] mb-2">Can agents visit on public holidays like Diwali or Republic Day?</h4>
                   <p className="text-gray-700">No. Visits and calls on gazetted public holidays are strictly prohibited and constitute harassment under RBI rules.</p>
                 </div>
                 <div className="bg-white border border-[#DEDEDE] rounded-xl p-6 hover:shadow-md transition-shadow">
-                  <h3 className="text-lg font-bold text-[#2E2E2E] mb-2">What should I do if an agent visits outside allowed hours?</h3>
+                  <h4 className="text-lg font-bold text-[#2E2E2E] mb-2">What should I do if an agent visits outside allowed hours?</h4>
                   <p className="text-gray-700">You should calmly record the interaction, refuse to engage in financial discussions, ask for their ID, and inform them they are violating RBI guidelines. You can then file a complaint.</p>
                 </div>
                 <div className="bg-white border border-[#DEDEDE] rounded-xl p-6 hover:shadow-md transition-shadow">
-                  <h3 className="text-lg font-bold text-[#2E2E2E] mb-2">Do I have the right to deny entry to a recovery agent?</h3>
+                  <h4 className="text-lg font-bold text-[#2E2E2E] mb-2">Do I have the right to deny entry to a recovery agent?</h4>
                   <p className="text-gray-700">Yes. Recovery agents have no legal authority to forcefully enter your home. They are not police officers or court officials.</p>
                 </div>
                 <div className="bg-white border border-[#DEDEDE] rounded-xl p-6 hover:shadow-md transition-shadow">
-                  <h3 className="text-lg font-bold text-[#2E2E2E] mb-2">Can recovery agents humiliate me in front of my neighbors?</h3>
+                  <h4 className="text-lg font-bold text-[#2E2E2E] mb-2">Can recovery agents humiliate me in front of my neighbors?</h4>
                   <p className="text-gray-700">Absolutely not. The RBI explicitly prohibits the use of intimidation, humiliation, or any behavior that breaches your privacy and dignity.</p>
                 </div>
                 <div className="bg-white border border-[#DEDEDE] rounded-xl p-6 hover:shadow-md transition-shadow">
-                  <h3 className="text-lg font-bold text-[#2E2E2E] mb-2">How do I complain to the Banking Ombudsman about harassment?</h3>
+                  <h4 className="text-lg font-bold text-[#2E2E2E] mb-2">How do I complain to the Banking Ombudsman about harassment?</h4>
                   <p className="text-gray-700">You must first complain to the bank's grievance officer. If they do not resolve the issue within 30 days, you can escalate it to the RBI Banking Ombudsman via the CMS portal.</p>
                 </div>
                 <div className="bg-white border border-[#DEDEDE] rounded-xl p-6 hover:shadow-md transition-shadow">
-                  <h3 className="text-lg font-bold text-[#2E2E2E] mb-2">Can police help if an agent shows up on a Sunday?</h3>
+                  <h4 className="text-lg font-bold text-[#2E2E2E] mb-2">Can police help if an agent shows up on a Sunday?</h4>
                   <p className="text-gray-700">If the agent is trespassing, acting violently, or threatening you, you can and should call 112 to file a police complaint for criminal intimidation and trespass.</p>
                 </div>
                 <div className="bg-white border border-[#DEDEDE] rounded-xl p-6 hover:shadow-md transition-shadow">
-                  <h3 className="text-lg font-bold text-[#2E2E2E] mb-2">Will filing a complaint against an agent stop the recovery process?</h3>
+                  <h4 className="text-lg font-bold text-[#2E2E2E] mb-2">Will filing a complaint against an agent stop the recovery process?</h4>
                   <p className="text-gray-700">Filing a complaint will stop illegal harassment, but it does not erase your debt. You still need to negotiate a settlement or repayment plan with the bank.</p>
                 </div>
                 <div className="bg-white border border-[#DEDEDE] rounded-xl p-6 hover:shadow-md transition-shadow">
-                  <h3 className="text-lg font-bold text-[#2E2E2E] mb-2">Can a legal service stop agents from coming to my house?</h3>
+                  <h4 className="text-lg font-bold text-[#2E2E2E] mb-2">Can a legal service stop agents from coming to my house?</h4>
                   <p className="text-gray-700">Yes, hiring a legal firm like SettleLoans allows you to issue a formal Cease and Desist notice to the bank, redirecting all communication to your legal representative.</p>
                 </div>
               </div>
@@ -488,7 +488,7 @@ export default function SundayRecoveryRulesPage() {
             {/* Lead Gen Hook */}
             <div className="bg-[#2E2E2E] text-white p-12 rounded-[40px] text-center mt-24 relative overflow-hidden group">
               <div className="absolute inset-0 bg-[#1F5EFF] opacity-0 group-hover:opacity-5 transition-opacity"></div>
-              <h2 className="text-3xl md:text-5xl font-black mb-6 relative z-10">Stop the Sunday Harassment</h2>
+              <h3 className="text-3xl md:text-5xl font-black mb-6 relative z-10">Stop the Sunday Harassment</h3>
               <p className="text-xl text-gray-300 mb-10 max-w-2xl mx-auto relative z-10 leading-relaxed">
                 Did recovery agents ruin your Sunday by showing up unannounced and causing a scene? You have rights. Hire us to file a formal harassment complaint with the RBI and protect your family's peace.
               </p>

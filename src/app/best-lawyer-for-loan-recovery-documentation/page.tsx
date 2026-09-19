@@ -199,7 +199,7 @@ export default function LoanRecoveryDocumentationPage() {
                         </section>
 
                         <section id="legal-framework" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">The Indian Legal Landscape for Debt Recovery</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">The Indian Legal Landscape for Debt Recovery</h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 India has shifted from being a 'borrower-friendly' jurisdiction to a 'creditor-protected' one through a series of powerful legislative updates over the last two decades. However, these laws—namely the SARFAESI Act, the RDB Act, and the IBC—all carry a high burden of procedural proof that must be established at the very first hearing.
                             </p>
@@ -208,22 +208,22 @@ export default function LoanRecoveryDocumentationPage() {
                             </p>
                             <div className="grid grid-cols-1 md:grid-cols-3 gap-8 mb-12">
                                 <div className="bg-blue-50 p-8 rounded-2xl border-b-4 border-blue-500 shadow-sm">
-                                    <h3 className="font-black mb-4 text-[#0B3954] text-xl">RDB Act, 1993</h3>
+                                    <h4 className="font-black mb-4 text-[#0B3954] text-xl">RDB Act, 1993</h4>
                                     <p className="text-sm leading-relaxed opacity-80">Handles recovery of debts exceeding ₹20 Lakhs through Debt Recovery Tribunals (DRT). Requires a full 'Original Application' (OA) with exhaustive evidence annexures that comply with the Civil Procedure Code.</p>
                                 </div>
                                 <div className="bg-green-50 p-8 rounded-2xl border-b-4 border-green-500 shadow-sm">
-                                    <h4 className="font-black mb-4 text-[#0B3954] text-xl">SARFAESI Act</h4>
+                                    <h5 className="font-black mb-4 text-[#0B3954] text-xl">SARFAESI Act</h5>
                                     <p className="text-sm leading-relaxed opacity-80">The fastest route for secured creditors. Allows possession of assets without court orders, provided procedures (Section 13) are followed with forensic precision and absolute transparency.</p>
                                 </div>
                                 <div className="bg-purple-50 p-8 rounded-2xl border-b-4 border-purple-500 shadow-sm">
-                                    <h4 className="font-black mb-4 text-[#0B3954] text-xl">IBC, 2016</h4>
+                                    <h5 className="font-black mb-4 text-[#0B3954] text-xl">IBC, 2016</h5>
                                     <p className="text-sm leading-relaxed opacity-80">The Insolvency route for corporate recovery. High stakes with a ₹1 Crore minimum. Documentation must prove 'existence of debt' and 'occurrence of default' beyond doubt to trigger CIRP.</p>
                                 </div>
                             </div>
                         </section>
 
                         <section id="essential-docs" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">Forensic Audit of Essential Recovery Documents</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">Forensic Audit of Essential Recovery Documents</h3>
                             <p className="text-lg leading-relaxed mb-8">
                                 A successful recovery case is built on a foundation of core documents. Our team audits these for 'legal cracks' like insufficient stamping, lack of registration, or expired limitation periods. We look for every technicality that a defense lawyer might use to derail your case.
                             </p>
@@ -262,7 +262,7 @@ export default function LoanRecoveryDocumentationPage() {
                         </section>
 
                         <section id="paper-trail" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">The Mechanics of a Perfect Paper Trail</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">The Mechanics of a Perfect Paper Trail</h3>
                             <p className="text-lg leading-relaxed mb-8">
                                 In litigation, 'what isn't written, didn't happen.' A perfect paper trail proves that the borrower was fully aware of the debt, was given multiple fair chances to pay, and persistently defaulted despite reminders.
                             </p>
@@ -302,12 +302,12 @@ export default function LoanRecoveryDocumentationPage() {
                         </section>
 
                         <section id="sarfaesi-docs" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">Advanced SARFAESI Documentation Strategy</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">Advanced SARFAESI Documentation Strategy</h3>
                             <p className="text-lg leading-relaxed mb-8">
                                 SARFAESI is a powerful but sensitive tool. It allows for fast recovery without court intervention, but it is under massive scrutiny by High Courts and the Supreme Court. A single procedural error—even a minor one—makes the entire action 'void ab initio'.
                             </p>
                             <div className="bg-red-50 p-10 rounded-3xl border border-red-100 mb-12">
-                                <h3 className="text-2xl font-black text-red-900 mb-6 underline decoration-red-300">The 13(2) and 13(4) Redlines</h3>
+                                <h4 className="text-2xl font-black text-red-900 mb-6 underline decoration-red-300">The 13(2) and 13(4) Redlines</h4>
                                 <ul className="space-y-6 text-base text-red-800">
                                     <li><strong>The 13(2) Demand Notice:</strong> Must contain the detailed break-up of principal and interest. It must explicitly identify the secured assets. Failure to mention a single property detail here means that specific property cannot be seized later. It also must grant exactly 60 days to pay.</li>
                                     <li><strong>Proof of Service & Publication:</strong> Sending a notice via post is not enough. You must have the Acknowledgment Due (AD) card or proof of refusal. If the borrower is untraceable, you must publish the notice in two leading newspapers (one in English and one in the regional language).</li>
@@ -317,7 +317,7 @@ export default function LoanRecoveryDocumentationPage() {
                         </section>
 
                         <section id="drt-procedures" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-10 leading-tight">Mastering DRT and DRAT Procedures</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-10 leading-tight">Mastering DRT and DRAT Procedures</h3>
                             <p className="text-lg leading-relaxed mb-8 font-extrabold">
                                 The Debt Recovery Tribunal follows the 'Summary Procedure' but with the full evidentiary weight of a formal civil trial. The 'Original Application' (OA) is the master document of your case.
                             </p>
@@ -326,7 +326,7 @@ export default function LoanRecoveryDocumentationPage() {
                             </p>
                             <div className="bg-gray-900 text-white p-10 rounded-3xl shadow-2xl relative overflow-hidden">
                                 <div className="absolute top-0 right-0 p-4 bg-blue-600 font-black text-[10px] uppercase tracking-tighter rounded-bl-xl">DRT Evidence Checklist</div>
-                                <h3 className="text-xl font-black mb-6 text-blue-400">Winning At the Tribunal</h3>
+                                <h4 className="text-xl font-black mb-6 text-blue-400">Winning At the Tribunal</h4>
                                 <ul className="grid md:grid-cols-2 gap-6 text-sm">
                                     <li className="flex items-center gap-3">
                                         <span className="text-blue-500 font-black">»</span> Certified Ledger Statements (3 Years)
@@ -351,7 +351,7 @@ export default function LoanRecoveryDocumentationPage() {
                         </section>
 
                         <section id="financial-statements" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">Financial Evidence & Account Admissibility</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">Financial Evidence & Account Admissibility</h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 In India, banks and financial institutions are protected by the 'Bankers' Books Evidence Act, 1891.' This law allows a certified copy of a bank ledger to be accepted as primary evidence in court without producing the actual giant physical ledger books.
                             </p>
@@ -361,7 +361,7 @@ export default function LoanRecoveryDocumentationPage() {
                         </section>
 
                         <section id="ibc-documentation" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">IBC & Insolvency: The Corporate Recovery Tool</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">IBC & Insolvency: The Corporate Recovery Tool</h3>
                             <p className="text-lg leading-relaxed mb-8">
                                 For corporate debtors, the Insolvency and Bankruptcy Code (IBC) is the ultimate 'fear factor.' Initiating the Corporate Insolvency Resolution Process (CIRP) can force a company into liquidation, making it an extremely effective recovery tool for major creditors.
                             </p>
@@ -371,12 +371,12 @@ export default function LoanRecoveryDocumentationPage() {
                         </section>
 
                         <section id="settlement-docs" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">The Documentation of Out-of-Court Settlements</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">The Documentation of Out-of-Court Settlements</h3>
                             <p className="text-lg leading-relaxed mb-8">
                                 Many recovery cases end in a settlement (OTS - One Time Settlement). However, if the settlement documentation is not structured correctly, the borrower can default on the settlement too, leaving the bank in a worse position.
                             </p>
                             <div className="bg-blue-900 text-white p-10 rounded-3xl shadow-xl">
-                                <h3 className="text-2xl font-black mb-6 border-b border-blue-700 pb-4">Safe Settlement Paperwork</h3>
+                                <h4 className="text-2xl font-black mb-6 border-b border-blue-700 pb-4">Safe Settlement Paperwork</h4>
                                 <ul className="space-y-4 text-sm opacity-90">
                                     <li><strong className="text-blue-300">The OTS Letter:</strong> Must have a 'Time is Essence' clause. If even one payment is late, the settlement is canceled and the original full debt is revived.</li>
                                     <li><strong className="text-blue-300">Consent Decree:</strong> If a case is already in court, the settlement must be filed as a 'Consent Terms' and a decree must be obtained. This makes the settlement as powerful as a judgment.</li>
@@ -386,7 +386,7 @@ export default function LoanRecoveryDocumentationPage() {
                         </section>
 
                         <section id="limitation-period" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">The Limitation Trap: Keeping Your Case Alive</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">The Limitation Trap: Keeping Your Case Alive</h3>
                             <p className="text-lg leading-relaxed mb-8">
                                 The Limitation Act, 1963, gives you exactly 3 years to file a money recovery suit from the date of the last default. If you miss this window by even one day, the debt becomes 'Time Barred' and you can never recover it through any court of law in India.
                             </p>
@@ -399,7 +399,7 @@ export default function LoanRecoveryDocumentationPage() {
                         </section>
 
                         <section id="recovery-lawyer" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">The Role of a Specialized Recovery Lawyer</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">The Role of a Specialized Recovery Lawyer</h3>
                             <p className="text-lg leading-relaxed mb-8">
                                 A specialized recovery lawyer is part private detective, part financial auditor, and part litigator. They look for the 'hidden money'. Our team doesn't just look at the documents provided in the head office files; we perform 'Digital Asset Tracing' and 'CERSAI Multi-Property Searches' to find the borrower's other undisclosed properties that can be attached under Order 38 Rule 5.
                             </p>
@@ -409,7 +409,7 @@ export default function LoanRecoveryDocumentationPage() {
                         </section>
 
                         <section id="success-stories" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 text-center">Real Success Stories in Recovery</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 text-center">Real Success Stories in Recovery</h3>
                             <div className="grid md:grid-cols-2 gap-10 not-prose">
                                 {[
                                     {
@@ -447,7 +447,7 @@ export default function LoanRecoveryDocumentationPage() {
                                                 {review.name.charAt(0)}
                                             </div>
                                             <div>
-                                                <h3 className="font-bold text-[#2E2E2E]">{review.name}</h3>
+                                                <h4 className="font-bold text-[#2E2E2E]">{review.name}</h4>
                                                 <p className="text-xs text-gray-400">{review.loc}</p>
                                             </div>
                                             <div className="ml-auto text-yellow-400 text-sm">★★★★★</div>
@@ -462,36 +462,36 @@ export default function LoanRecoveryDocumentationPage() {
                         </section>
 
                         <section id="how-we-help" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-10">The SettleLoans Forensic Documentation Audit</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-10">The SettleLoans Forensic Documentation Audit</h3>
                             <p className="text-lg leading-relaxed mb-10">
                                 We provide a subscription-grade documentation management service for high-value recovery matters. Our proprietary 4-stage process ensures no detail is ever lost across the lifespan of a loan:
                             </p>
                             <div className="grid md:grid-cols-2 lg:grid-cols-4 gap-6 mb-16">
                                 <div className="bg-white p-8 rounded-3xl border border-gray-100 shadow-xl text-center group hover:bg-[#1F5EFF] transition-all hover:-translate-y-2">
                                     <div className="text-3xl mb-4 group-hover:scale-125 transition-transform">📁</div>
-                                    <h3 className="font-black mb-2 group-hover:text-white transition-colors">Digital Vault</h3>
+                                    <h4 className="font-black mb-2 group-hover:text-white transition-colors">Digital Vault</h4>
                                     <p className="text-[10px] opacity-70 group-hover:text-white/80 transition-colors">Secure, indexed digitization of all loan files with OCR and metadata tagging for instant legal retrieval.</p>
                                 </div>
                                 <div className="bg-white p-8 rounded-3xl border border-gray-100 shadow-xl text-center group hover:bg-[#1F5EFF] transition-all hover:-translate-y-2">
                                     <div className="text-3xl mb-4 group-hover:scale-125 transition-transform">⚖️</div>
-                                    <h4 className="font-black mb-2 group-hover:text-white transition-colors">Gap Analysis</h4>
+                                    <h5 className="font-black mb-2 group-hover:text-white transition-colors">Gap Analysis</h5>
                                     <p className="text-[10px] opacity-70 group-hover:text-white/80 transition-colors">Identifying missing signatures, expired deeds, or unstamped documents before action is initiated.</p>
                                 </div>
                                 <div className="bg-white p-8 rounded-3xl border border-gray-100 shadow-xl text-center group hover:bg-[#1F5EFF] transition-all hover:-translate-y-2">
                                     <div className="text-3xl mb-4 group-hover:scale-125 transition-transform">📬</div>
-                                    <h5 className="font-black mb-2 group-hover:text-white transition-colors">Notice Desk</h5>
+                                    <h6 className="font-black mb-2 group-hover:text-white transition-colors">Notice Desk</h6>
                                     <p className="text-[10px] opacity-70 group-hover:text-white/80 transition-colors">Automated, legally-vetted issuance of demand and default notices with tamper-proof delivery logs.</p>
                                 </div>
                                 <div className="bg-white p-8 rounded-3xl border border-gray-100 shadow-xl text-center group hover:bg-[#1F5EFF] transition-all hover:-translate-y-2">
                                     <div className="text-3xl mb-4 group-hover:scale-125 transition-transform">🏛️</div>
-                                    <h5 className="font-black mb-2 group-hover:text-white transition-colors">Tribunal Filing</h5>
+                                    <h6 className="font-black mb-2 group-hover:text-white transition-colors">Tribunal Filing</h6>
                                     <p className="text-[10px] opacity-70 group-hover:text-white/80 transition-colors">Preparation of OAs and IBC Petitions with total error-free numbering and indexing for fast admission.</p>
                                 </div>
                             </div>
                         </section>
 
                         <section id="faqs" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Comprehensive Recovery Documentation FAQs</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Comprehensive Recovery Documentation FAQs</h3>
                             <div className="space-y-6 not-prose">
                                 {[
                                     { q: "What is a 'Continuing Guarantee' and why is it dangerous?", a: "A continuing guarantee covers not just the current loan amount but all future limit renewals, enhancements, and overdrafts without requiring a fresh signature. It is a 'blank check' from the guarantor. We recommend limiting personal guarantees to specific amounts and fixed time periods to protect personal assets." },

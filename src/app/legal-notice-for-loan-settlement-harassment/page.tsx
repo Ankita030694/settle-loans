@@ -273,16 +273,16 @@ export default function LoanHarassmentLegalNoticePage() {
             </section>
 
             <section id="what-is-harassment" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
                 Section 1: What Exactly Qualifies as Loan Settlement Harassment?
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 To fight harassment, you must first define it clearly. The Reserve Bank of India has very specific standards for what recovery agents can and cannot do. When an agent crosses these lines, they are no longer just collecting money: they are committing a punishable offence.
               </p>
               
               <div className="grid md:grid-cols-2 gap-8 my-10">
                 <div className="bg-gray-50 p-6 rounded-xl border border-gray-200">
-                  <h3 className="font-bold text-[#E63946] mb-3">Psychological Harassment</h3>
+                  <h4 className="font-bold text-[#E63946] mb-3">Psychological Harassment</h4>
                   <ul className="text-sm space-y-2 text-gray-700">
                     <li>Calling 30 to 50 times in a single day.</li>
                     <li>Threatening to leak your photos to contacts.</li>
@@ -290,7 +290,7 @@ export default function LoanHarassmentLegalNoticePage() {
                   </ul>
                 </div>
                 <div className="bg-gray-50 p-6 rounded-xl border border-gray-200">
-                  <h4 className="font-bold text-[#E63946] mb-3">Social Harassment</h4>
+                  <h5 className="font-bold text-[#E63946] mb-3">Social Harassment</h5>
                   <ul className="text-sm space-y-2 text-gray-700">
                     <li>Calling relatives, friends, or neighbors.</li>
                     <li>Messaging your boss or HR department.</li>
@@ -305,15 +305,15 @@ export default function LoanHarassmentLegalNoticePage() {
             </section>
 
             <section id="rbi-fair-practice-code" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
                 Section 2: The RBI Fair Practice Code and Guidelines
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 The RBI Master Circular on "Fair Practices Code" is the bible for borrower protection. It holds the bank vicariously liable for the actions of its third-party agents. This means if an agent hired by HDFC or ICICI harasses you, the bank itself is liable for penal action by the RBI.
               </p>
               
               <div className="bg-teal-50 p-8 rounded-2xl border border-teal-100 mb-8">
-                <h3 className="text-xl font-bold mb-6 text-teal-900">Key RBI Rules You Must Memorize</h3>
+                <h4 className="text-xl font-bold mb-6 text-teal-900">Key RBI Rules You Must Memorize</h4>
                 <div className="space-y-4 text-gray-800">
                   <p><strong>1. Respect for Privacy:</strong> Agents shall not reveal the customer's identity or debt details to anyone other than the borrower or their guarantor.</p>
                   <p><strong>2. Reasonable Hours:</strong> Agents can only contact you between 7 AM and 7 PM. Any call at 9 PM or 6 AM is a direct violation.</p>
@@ -328,37 +328,37 @@ export default function LoanHarassmentLegalNoticePage() {
             </section>
 
             <section id="ipc-sections-protection" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
                 Section 3: Legal Sections (IPC) That Protect You
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 While RBI guidelines are administrative, the Indian Penal Code (IPC) provides criminal teeth to your defense. When you send a legal notice, you must mention these IPC sections to show the bank that you are prepared for a battle in the criminal courts.
               </p>
               
               <ul className="space-y-6 mb-10">
                 <li className="bg-white p-6 rounded-xl border-l-4 border-[#1F5EFF] shadow-sm">
-                  <h3 className="font-black text-lg mb-2">Section 506: Criminal Intimidation</h3>
+                  <h4 className="font-black text-lg mb-2">Section 506: Criminal Intimidation</h4>
                   <p className="text-gray-600">This is used when agents threaten to kill you, hit you, or destroy your property. It carries a punishment of up to 2 years in jail.</p>
                 </li>
                 <li className="bg-white p-6 rounded-xl border-l-4 border-[#1F5EFF] shadow-sm">
-                  <h4 className="font-black text-lg mb-2">Section 384: Extortion</h4>
+                  <h5 className="font-black text-lg mb-2">Section 384: Extortion</h5>
                   <p className="text-gray-600">If agents force you to part with jewelry, vehicles, or cash under threat of exposing your debt, it is extortion. This is a non-bailable offence.</p>
                 </li>
                 <li className="bg-white p-6 rounded-xl border-l-4 border-[#1F5EFF] shadow-sm">
-                  <h4 className="font-black text-lg mb-2">Section 509: Insulting Modesty of a Woman</h4>
+                  <h5 className="font-black text-lg mb-2">Section 509: Insulting Modesty of a Woman</h5>
                   <p className="text-gray-600">Incredibly effective for female borrowers. If an agent uses sexist remarks or calls a woman’s family to shame her, this section is invoked.</p>
                 </li>
                 <li className="bg-white p-6 rounded-xl border-l-4 border-[#1F5EFF] shadow-sm">
-                  <h4 className="font-black text-lg mb-2">Section 441: Criminal Trespass</h4>
+                  <h5 className="font-black text-lg mb-2">Section 441: Criminal Trespass</h5>
                   <p className="text-gray-600">Entering your private property without permission or refusing to leave when asked is trespass. Agents do not have a magical right to enter your living room.</p>
                 </li>
               </ul>
             </section>
 
             <section id="why-send-legal-notice" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                 Section 4: Why Sending a Legal Notice is the First Step
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 Many people wait until they are broken before visiting a lawyer. That is a mistake. A legal notice is not just a letter: it is a "Notice of Intent". It formally puts the bank on record that their activities are being documented.
               </p>
@@ -366,7 +366,7 @@ export default function LoanHarassmentLegalNoticePage() {
                 <div className="absolute top-0 right-0 p-4 opacity-10">
                   <svg className="w-24 h-24" fill="currentColor" viewBox="0 0 24 24"><path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm1 15h-2v-6h2v6zm0-8h-2V7h2v2z"/></svg>
                 </div>
-                <h3 className="text-2xl font-bold mb-6">The Strategic Impact of a Legal Notice</h3>
+                <h4 className="text-2xl font-bold mb-6">The Strategic Impact of a Legal Notice</h4>
                 <div className="space-y-4">
                   <p className="flex items-start gap-4">
                     <span className="w-6 h-6 rounded-full bg-[#1F5EFF] flex-shrink-0 flex items-center justify-center text-xs font-bold">1</span>
@@ -385,7 +385,7 @@ export default function LoanHarassmentLegalNoticePage() {
             </section>
 
             <section id="legal-notice-format" className="scroll-mt-32 mb-16">
-              <h3 className="text-2xl md:text-3xl font-bold text-[#2E2E2E] mb-6 tracking-tight">Essential Elements of a Loan Harassment Notice</h3>
+              <h4 className="text-2xl md:text-3xl font-bold text-[#2E2E2E] mb-6 tracking-tight">Essential Elements of a Loan Harassment Notice</h4>
               <p className="text-lg leading-relaxed mb-6">
                 Your legal notice shouldn't be a generic complaint. It needs to be precise. It must include the following details to be taken seriously by the bank's legal department:
               </p>
@@ -400,35 +400,35 @@ export default function LoanHarassmentLegalNoticePage() {
             </section>
 
             <section id="evidence-collection" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight uppercase">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight uppercase">
                 Section 5: The Power of Documentation
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 In a legal battle, "he said, she said" rarely works. You need cold, hard proof. Before you send the legal notice, spend 48 hours collecting the following:
               </p>
               <div className="grid md:grid-cols-3 gap-6 my-10">
                 <div className="bg-white p-6 rounded-xl border border-gray-200 shadow-sm text-center">
                   <div className="w-12 h-12 bg-blue-100 rounded-full flex items-center justify-center mx-auto mb-4 text-[#1F5EFF] font-bold">1</div>
-                  <h3 className="font-bold text-sm mb-2">Call Recording</h3>
+                  <h4 className="font-bold text-sm mb-2">Call Recording</h4>
                   <p className="text-xs text-gray-500">Record every call. Let the agent speak. Do not provoke them, but let them disclose their abusive nature.</p>
                 </div>
                 <div className="bg-white p-6 rounded-xl border border-gray-200 shadow-sm text-center">
                   <div className="w-12 h-12 bg-blue-100 rounded-full flex items-center justify-center mx-auto mb-4 text-[#1F5EFF] font-bold">2</div>
-                  <h4 className="font-bold text-sm mb-2">Screenshot Logs</h4>
+                  <h5 className="font-bold text-sm mb-2">Screenshot Logs</h5>
                   <p className="text-xs text-gray-500">Take screenshots of the number of calls received on a single day. Save WhatsApp threats before they are deleted.</p>
                 </div>
                 <div className="bg-white p-6 rounded-xl border border-gray-200 shadow-sm text-center">
                   <div className="w-12 h-12 bg-blue-100 rounded-full flex items-center justify-center mx-auto mb-4 text-[#1F5EFF] font-bold">3</div>
-                  <h5 className="font-bold text-sm mb-2">Witness Diary</h5>
+                  <h6 className="font-bold text-sm mb-2">Witness Diary</h6>
                   <p className="text-xs text-gray-500">Write down names of neighbors or colleagues who were contacted by the agents. Their testimony is gold in court.</p>
                 </div>
               </div>
             </section>
 
             <section id="banking-ombudsman-step" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
                 Section 6: The Banking Ombudsman Route
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 If the bank responds poorly to your legal notice, your next destination is the Banking Ombudsman. Under the RBI's "Integrated Ombudsman Scheme", you can file a complaint online in under 10 minutes.
               </p>
@@ -441,9 +441,9 @@ export default function LoanHarassmentLegalNoticePage() {
             </section>
 
             <section id="police-compliant-fir" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
                 Section 7: Filing an FIR for Recovery Harassment
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 When harassment involves physical threats or invasion of residential premises, it's a matter for the police. You can walk into your local police station or use the online Cyber Cell portal to file a complaint. Ask the police to register an FIR under IPC Section 506 and 384.
               </p>
@@ -453,21 +453,21 @@ export default function LoanHarassmentLegalNoticePage() {
             </section>
 
             <section id="civil-remedies-injunction" className="scroll-mt-32 mb-16">
-              <h3 className="text-2xl font-black text-[#2E2E2E] mb-6">Civil Remedies: The Injunction Suit</h3>
+              <h4 className="text-2xl font-black text-[#2E2E2E] mb-6">Civil Remedies: The Injunction Suit</h4>
               <p className="text-lg leading-relaxed mb-6">
                 A highly effective tool that few know about is the "Suit for Mandatory Injunction." You can ask a Civil Court to pass an order restraining the bank from contacting anyone other than yourself. A court order is the ultimate silence for a recovery agent. No agent will risk a "Contempt of Court" charge over a small loan amount.
               </p>
             </section>
 
             <section id="settleloans-role" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-5xl font-black text-[#2E2E2E] mt-16 mb-8 text-center uppercase tracking-tighter">Your Shield Against Harassment: SettleLoans</h2>
+              <h3 className="text-3xl md:text-5xl font-black text-[#2E2E2E] mt-16 mb-8 text-center uppercase tracking-tighter">Your Shield Against Harassment: SettleLoans</h3>
               <div className="bg-[#1F5EFF] text-white p-10 rounded-3xl shadow-xl">
                 <p className="text-lg mb-8 leading-relaxed">
                   You don't have to fight this alone. At SettleLoans, we act as the barrier between you and the aggressive recovery machine. We specialize in converting high-conflict harassment scenarios into low-stress legal negotiations.
                 </p>
                 <div className="grid md:grid-cols-2 gap-8">
                   <div className="space-y-4">
-                    <h3 className="font-bold text-xl border-b border-white/20 pb-2">What We Do</h3>
+                    <h4 className="font-bold text-xl border-b border-white/20 pb-2">What We Do</h4>
                     <ul className="text-sm space-y-2 opacity-90">
                       <li>✓ Professional Drafting of Legal Notices.</li>
                       <li>✓ Handling calls from Bank Nodal Officers.</li>
@@ -476,7 +476,7 @@ export default function LoanHarassmentLegalNoticePage() {
                     </ul>
                   </div>
                   <div className="space-y-4">
-                    <h4 className="font-bold text-xl border-b border-white/20 pb-2">The Result</h4>
+                    <h5 className="font-bold text-xl border-b border-white/20 pb-2">The Result</h5>
                     <ul className="text-sm space-y-2 opacity-90">
                       <li>✓ Immediate reduction in daily calls.</li>
                       <li>✓ Restoration of social dignity.</li>
@@ -489,9 +489,9 @@ export default function LoanHarassmentLegalNoticePage() {
             </section>
 
             <section id="future-of-debt-recovery" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
                 Recovery in 2026/27: The Era of Digital Protection
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 The landscape of debt recovery is changing. With the Digital India initiative, the government is cracking down on unregulated agents. Newer regulations are making it mandatory for every recovery call to be made from a registered bank landline, making personal number harassment completely illegal.
               </p>
@@ -501,7 +501,7 @@ export default function LoanHarassmentLegalNoticePage() {
             </section>
 
             <section id="review-snippets-section" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 text-center uppercase tracking-tighter">Victories Against Harassment</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 text-center uppercase tracking-tighter">Victories Against Harassment</h3>
               <div className="grid md:grid-cols-2 gap-6">
                 {[
                   { name: "Rajesh V.", loc: "Chennai", type: "Credit Card Debt", story: "My bank's agents were calling my child's school. I was devastated. SettleLoans stepped in, sent the legal notice, and the calls stopped in 4 hours. We settled the 5 Lakh debt for 1.2 Lakh eventually." },
@@ -515,7 +515,7 @@ export default function LoanHarassmentLegalNoticePage() {
                         {review.name.charAt(0)}
                       </div>
                       <div>
-                        <h3 className="font-bold text-[#2E2E2E]">{review.name}</h3>
+                        <h4 className="font-bold text-[#2E2E2E]">{review.name}</h4>
                         <p className="text-xs text-gray-400">{review.loc}</p>
                       </div>
                       <div className="ml-auto text-yellow-500 text-sm">★★★★★</div>
@@ -528,7 +528,7 @@ export default function LoanHarassmentLegalNoticePage() {
 
             {/* Conclusion */}
             <section className="mb-16">
-              <h2 className="text-3xl font-black text-[#2E2E2E] mb-6">Conclusion: Your Dignity is Non-Negotiable</h2>
+              <h3 className="text-3xl font-black text-[#2E2E2E] mb-6">Conclusion: Your Dignity is Non-Negotiable</h3>
               <p className="text-lg leading-relaxed mb-6">
                 The journey to financial recovery can be long, but it should never be humiliating. A legal notice for loan settlement harassment is more than a document: it is your statement that you will not be bullied. By using the RBI guidelines and IPC sections documented in this guide, you can reset the power balance and focus on what truly matters: getting back on your feet financially.
               </p>
@@ -538,7 +538,7 @@ export default function LoanHarassmentLegalNoticePage() {
             </section>
 
             <section id="faqs-section" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-5xl font-black text-[#2E2E2E] mt-16 mb-8 text-center uppercase">Common Legal Questions</h2>
+              <h3 className="text-3xl md:text-5xl font-black text-[#2E2E2E] mt-16 mb-8 text-center uppercase">Common Legal Questions</h3>
               <div className="space-y-4">
                 {[
                   { q: "Can a bank file a criminal case against me for not paying a loan?", a: "Generally, no. Default is a civil matter. Criminal cases are only filed in cases of fraud, forgery, or cheque bounce (under Section 138 of the NI Act). Regular default does not lead to jail time." },
@@ -576,7 +576,7 @@ export default function LoanHarassmentLegalNoticePage() {
             <div className="lg:hidden mt-16 mb-8">
               <div className="bg-[#2E2E2E] rounded-2xl shadow-xl overflow-hidden border border-[#1F5EFF]/20">
                 <div className="bg-[#1F5EFF] p-6 text-center text-white">
-                  <h3 className="text-2xl font-black mb-2">Stop Harassment Now</h3>
+                  <h4 className="text-2xl font-black mb-2">Stop Harassment Now</h4>
                   <p className="opacity-90 text-sm">Get protected by India's leading debt settlement experts.</p>
                 </div>
                 <div className="p-8 text-center">
@@ -632,7 +632,7 @@ export default function LoanHarassmentLegalNoticePage() {
         {/* Bottom CTA Section */}
         <section className="w-full bg-[#1F5EFF] py-16 px-4">
           <div className="max-w-4xl mx-auto text-center text-white">
-            <h2 className="text-3xl md:text-5xl font-black mb-6 uppercase tracking-tighter">Ready to End the Harassment?</h2>
+            <h3 className="text-3xl md:text-5xl font-black mb-6 uppercase tracking-tighter">Ready to End the Harassment?</h3>
             <p className="text-xl opacity-90 mb-10">Don't suffer in silence. Join 50,000+ Indians who have used SettleLoans to reclaim their financial freedom and live without fear.</p>
             <Link href="/contact" className="inline-block bg-white text-[#1F5EFF] font-black py-5 px-12 rounded-xl hover:scale-105 transition-all shadow-2xl text-xl">
               Get Your Case Evaluated

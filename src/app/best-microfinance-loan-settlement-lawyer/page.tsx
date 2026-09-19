@@ -270,9 +270,9 @@ export default function MicrofinanceLoanSettlementLawyerPage() {
                         </section>
 
                         <section id="why-specialized-lawyer" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
                                 Why Do You Need a Specialized Microfinance Lawyer?
-                            </h2>
+                            </h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 Most general practitioners are well versed in criminal or civil law, but the niche field of microfinance regulation is often foreign to them. A specialized lawyer understands the 'Regulatory Framework for Microfinance Loans' issued by the RBI in 2022. They know the difference between 'qualified' and 'non qualified' assets. They know how to challenge a lender who has exceeded the household income limits or the maximum number of lenders allowed for a single household.
                             </p>
@@ -280,7 +280,7 @@ export default function MicrofinanceLoanSettlementLawyerPage() {
                                 More importantly, a specialized lawyer understands the psychology of MFI recovery. They know that MFIs often use 'Field Officers' who may not have formal training in debt recovery ethics. A lawyer acts as a professional bridge, moving the conversation from the street corner to the conference room. This professionalization of the dispute is the first step toward a fair and quiet settlement.
                             </p>
                             <div className="bg-gray-50 p-8 rounded-xl border border-gray-200 mb-8">
-                                <h3 className="text-xl font-bold mb-6">Key Roles of Your MFI Lawyer</h3>
+                                <h4 className="text-xl font-bold mb-6">Key Roles of Your MFI Lawyer</h4>
                                 <ul className="grid md:grid-cols-2 gap-4 text-sm font-medium">
                                     <li className="flex items-center gap-2">
                                         <span className="w-2 h-2 bg-[#1F5EFF] rounded-full"></span>
@@ -311,9 +311,9 @@ export default function MicrofinanceLoanSettlementLawyerPage() {
                         </section>
 
                         <section id="rbi-guidelines-mfi" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
                                 Deep Dive: RBI Guidelines for Microfinance Loans
-                            </h2>
+                            </h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 In March 2022, the Reserve Bank of India issued a comprehensive Master Direction for microfinance loans. These guidelines are the 'Bible' for any MFI settlement lawyer. One of the most critical aspects of these rules is the focus on borrower protection and responsible lending. The RBI has mandated that lenders must have a board approved policy on pricing, which must be transparent and non usurious.
                             </p>
@@ -321,7 +321,7 @@ export default function MicrofinanceLoanSettlementLawyerPage() {
                                 Furthermore, the guidelines prohibit any form of 'prepayment penalty' for microfinance loans. They also mandate a 'standardized simplified fact sheet' that must be given to every borrower, explaining the total cost of the loan in a clear way. If a lender has failed to follow these disclosure norms, a lawyer can use this as a strong point of leverage during settlement negotiations.
                             </p>
                             <div className="bg-blue-50 p-8 rounded-xl border border-blue-200 mb-8">
-                                <h3 className="text-xl font-bold mb-4 text-blue-900">Maximum Indebtedness Rule</h3>
+                                <h4 className="text-xl font-bold mb-4 text-blue-900">Maximum Indebtedness Rule</h4>
                                 <p className="text-sm text-blue-800 leading-relaxed mb-4">
                                     The current RBI framework focuses on the 'household income' and the 'debt to income ratio.' A lender must ensure that the total monthly loan repayment obligations of a household do not exceed 50% of the monthly household income.
                                 </p>
@@ -332,9 +332,9 @@ export default function MicrofinanceLoanSettlementLawyerPage() {
                         </section>
 
                         <section id="stopping-harassment" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
                                 Stopping Agent Harassment: The Legal Way
-                            </h2>
+                            </h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 In the microfinance sector, 'harassment' often takes many forms: frequent unannounced visits to the home, loud shaming in the neighborhood, and constant calls to family members. These are not just unethical; they are illegal under the RBI's Fair Practice Code. A specialized lawyer knows how to document these instances and use them to put the lender on the defensive.
                             </p>
@@ -344,7 +344,7 @@ export default function MicrofinanceLoanSettlementLawyerPage() {
                         </section>
 
                         <section id="negotiation-process" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">The Professional Negotiation Process</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">The Professional Negotiation Process</h3>
                             <p className="mb-6">
                                 Negotiating a microfinance loan settlement is different from a large corporate debt. It is a more human process. A lawyer doesn't just talk numbers; they tell the story of the borrower. They highlight the genuine reasons for the default—be it a failed small shop, a medical emergency in the family, or a community wide economic shock.
                             </p>
@@ -352,7 +352,7 @@ export default function MicrofinanceLoanSettlementLawyerPage() {
                                 The goal of the negotiation is to reach a 'Compromise Settlement.' This typically involves the lender agreeing to waive the accumulated interest and penalties, and sometimes even a part of the principal, in exchange for a lump sum payment. MFIs are often willing to settle because the cost of recovery (legal fees, staff time) for a small loan can quickly exceed the value of the loan itself. A professional lawyer knows how to make this 'cost benefit' clear to the lender.
                             </p>
                             <div className="bg-white p-8 rounded-2xl border border-[#DEDEDE] shadow-sm mb-8">
-                                <h3 className="text-2xl font-bold text-[#1F5EFF] mb-4">Steps in MFI Negotiation</h3>
+                                <h4 className="text-2xl font-bold text-[#1F5EFF] mb-4">Steps in MFI Negotiation</h4>
                                 <ul className="space-y-4">
                                     <li className="flex items-start gap-3">
                                         <span className="text-[#1F5EFF] font-bold">01.</span>
@@ -375,7 +375,7 @@ export default function MicrofinanceLoanSettlementLawyerPage() {
                         </section>
 
                         <section id="joint-liability-groups" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">JLG and Individual Liability: Know the Difference</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">JLG and Individual Liability: Know the Difference</h3>
                             <p className="mb-6">
                                 Many microfinance loans are given under the Joint Liability Group (JLG) model, where a group of 5 to 10 borrowers is collectively responsible for each other's loans. This is often where the most severe social pressure comes from, as other group members may harass the defaulting borrower.
                             </p>
@@ -385,40 +385,40 @@ export default function MicrofinanceLoanSettlementLawyerPage() {
                         </section>
 
                         <section id="settlement-vs-writeoff" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Settlement vs Write-off: Understanding Technicalities</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Settlement vs Write-off: Understanding Technicalities</h3>
                             <p className="mb-6">
                                 In the lender's books, a loan can be 'Written off' or 'Settled.' For a borrower, these have very different implications. A write off is internal to the bank and doesn't end your liability. A settlement, however, is a legal agreement that ends the debt forever. A lawyer ensures that you get a clear 'No Dues Certificate' that specifically mentions the closure of the account, preventing future claims by the lender or a third party debt collector.
                             </p>
                         </section>
 
                         <section id="legal-recourse" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Legal Recourse for Distressed Borrowers</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Legal Recourse for Distressed Borrowers</h3>
                             <p className="mb-6">
                                 If the MFI refuses to settle and continues illegal recovery tactics, a lawyer can help you take the offensive. You can file a complaint with the Banking Ombudsman or the RBI's Integrated Ombudsman Scheme. These are high level forums that the MFI fears, as a negative ruling can impact their license and reputation. In extreme cases, a lawyer can also file a civil suit for 'Injunction' to stop agents from entering your property.
                             </p>
                         </section>
 
                         <section id="mfin-grievance" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Leveraging MFIN Grievance Redressal</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Leveraging MFIN Grievance Redressal</h3>
                             <p className="mb-6">
                                 The Microfinance Institutions Network (MFIN) operates a sophisticated grievance redressal system. A professional lawyer knows how to craft a complaint to MFIN that highlights the specific violations of the MFI's 'Code of Responsible Lending.' This institutional pressure is often far more effective than an individual's plea, as MFIs are required to report their grievance handling to the RBI.
                             </p>
                         </section>
 
                         <section id="overindebtedness" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Dealing with Over-indebtedness (Multiple Loans)</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Dealing with Over-indebtedness (Multiple Loans)</h3>
                             <p className="mb-6">
                                 A common trap in the microfinance world is having loans from 3, 4, or even 5 different lenders simultaneously. This is often a result of 'ghost over borrowing' where lenders fail to check credit bureau records correctly. Dealing with multiple lenders requires a coordinated strategy. A lawyer can help you prioritize which loans to settle first and which ones can be defended on grounds of regulatory violation by the lender.
                             </p>
                         </section>
 
                         <section id="credit-bureau-impact" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Impact on Credit Bureaus: Reclaiming Your Future</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Impact on Credit Bureaus: Reclaiming Your Future</h3>
                             <p className="mb-6 text-lg">
                                 Your credit history is your financial identity. A microfinance default is reported to bureaus like CIBIL, Equifax, and Experian. A specialized lawyer works to ensure that once a settlement is reached, the status is correctly updated in the bureau records.
                             </p>
                             <div className="bg-emerald-50 p-8 rounded-2xl border border-emerald-100 mb-8">
-                                <h3 className="text-xl font-bold text-emerald-800 mb-4">Your Credit Pathway</h3>
+                                <h4 className="text-xl font-bold text-emerald-800 mb-4">Your Credit Pathway</h4>
                                 <ul className="space-y-4">
                                     <li className="flex items-start gap-2 text-emerald-900/80">
                                         <span className="font-bold">1. Accurate Reporting:</span> We ensure the MFI reports the 'Settled' status to the bureau within 30 days of the payment.
@@ -434,19 +434,19 @@ export default function MicrofinanceLoanSettlementLawyerPage() {
                         </section>
 
                         <section id="financial-rehabilitation" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">The Path to Financial Rehabilitation</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">The Path to Financial Rehabilitation</h3>
                             <p className="mb-6">
                                 Settling a loan is the first step; rehabilitation is the final goal. A good lawyer doesn't just look at the debt; they look at the person. We believe that everyone deserves a second chance. Our rehabilitation advice includes building an emergency fund, understanding the trap of 'easy credit,' and learning how to use financial tools for growth rather than consumption.
                             </p>
                         </section>
 
                         <section id="settleloans-expertise" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Why SettleLoans is the Best Choice for You?</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Why SettleLoans is the Best Choice for You?</h3>
                             <p className="mb-6">
                                 At SettleLoans, we have a dedicated vertical for microfinance loan settlement. We have represented thousands of small borrowers across India. Our team includes both seasoned lawyers and former banking professionals who know the 'inside out' of MFI operations. We are not just advisors; we are your advocates.
                             </p>
                             <div className="bg-[#2E2E2E] text-white p-8 rounded-2xl mb-8">
-                                <h3 className="text-2xl font-bold mb-4">Our Commitment to Small Borrowers</h3>
+                                <h4 className="text-2xl font-bold mb-4">Our Commitment to Small Borrowers</h4>
                                 <ul className="space-y-3 text-sm opacity-90">
                                     <li className="flex items-center gap-2">✓ Deep understanding of 2022 RBI Microfinance Framework.</li>
                                     <li className="flex items-center gap-2">✓ Experts in stopping ground level recovery agent harassment.</li>
@@ -458,7 +458,7 @@ export default function MicrofinanceLoanSettlementLawyerPage() {
                         </section>
 
                         <section id="client-testimonials" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 text-center">Real Stories of Legal Triumph</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 text-center">Real Stories of Legal Triumph</h3>
                             <div className="grid md:grid-cols-2 gap-6 not-prose">
                                 {[
                                     {
@@ -496,7 +496,7 @@ export default function MicrofinanceLoanSettlementLawyerPage() {
                                                 {review.name.charAt(0)}
                                             </div>
                                             <div>
-                                                <h3 className="font-bold text-[#2E2E2E]">{review.name}</h3>
+                                                <h4 className="font-bold text-[#2E2E2E]">{review.name}</h4>
                                                 <p className="text-xs text-gray-400">{review.loc}</p>
                                             </div>
                                             <div className="ml-auto text-yellow-400 text-sm">★★★★★</div>
@@ -511,7 +511,7 @@ export default function MicrofinanceLoanSettlementLawyerPage() {
                         </section>
 
                         <section id="how-to-start" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">How to Begin Your Journey to Freedom</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">How to Begin Your Journey to Freedom</h3>
                             <p className="mb-6">
                                 The first step is often the hardest. But you don't have to walk this path alone. Contact us for a free initial consultation. We will review your loan documents, listen to your concerns, and provide a clear legal roadmap to your resolution. Your information is 100% confidential.
                             </p>
@@ -521,7 +521,7 @@ export default function MicrofinanceLoanSettlementLawyerPage() {
                         </section>
 
                         <section id="faqs" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Frequently Asked Questions</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Frequently Asked Questions</h3>
                             <div className="space-y-4 not-prose">
                                 {[
                                     { q: "Is a microfinance loan settlement possible for very small amounts like 15,000 rupees?", a: "Yes, settlement is possible for any amount. While the savings in absolute rupees might be smaller, the impact on your mental peace and credit score is just as profound. We represent borrowers regardless of the loan size." },
@@ -558,7 +558,7 @@ export default function MicrofinanceLoanSettlementLawyerPage() {
                         <div className="lg:hidden mt-16 mb-8">
                             <div className="bg-[#2E2E2E] rounded-2xl shadow-xl overflow-hidden border border-[#1F5EFF]/20">
                                 <div className="bg-[#1F5EFF] p-6 text-center text-white">
-                                    <h3 className="text-2xl font-black mb-2">Reclaim Your Dignity</h3>
+                                    <h4 className="text-2xl font-black mb-2">Reclaim Your Dignity</h4>
                                     <p className="opacity-90 text-sm">Join the 10,000+ Indians we've helped find their way to financial freedom.</p>
                                 </div>
                                 <div className="p-8 text-center text-[#DEDEDE]">

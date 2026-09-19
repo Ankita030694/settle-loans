@@ -222,9 +222,9 @@ export default function SeniorCitizenLoanSettlementPage() {
             </section>
 
             <section id="landscape" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
                 The Financial Landscape for Indian Seniors
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 The economic environment for retired individuals in India has become increasingly complex. In the past, a pension or a solid set of fixed deposits might have been enough to cover all expenses. But with rising inflation, especially in the healthcare sector, the traditional safety nets are being stretched thin. Many seniors find that their monthly income barely covers the basics, leaving little room for loan repayments.
               </p>
@@ -237,9 +237,9 @@ export default function SeniorCitizenLoanSettlementPage() {
             </section>
 
             <section id="causes" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
                 Common Causes of Debt in Later Life
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 Debt doesn't happen in a vacuum. For seniors, the triggers are often very specific and deeply personal. One of the primary drivers is medical expenses. As we age, health challenges become more frequent and more expensive. Even with insurance, the out-of-pocket costs for chronic conditions, surgeries, or prolonged hospitalizations can be massive.
               </p>
@@ -247,7 +247,7 @@ export default function SeniorCitizenLoanSettlementPage() {
                 Another significant factor is the 'Altruism Trap'. Many Indian parents are willing to sacrifice their entire life's savings and even take on debt to ensure their children have the best opportunities. Whether it's funding a grand wedding or a master's degree abroad, these emotional decisions can lead to financial instability in retirement.
               </p>
               <div className="bg-gray-50 p-8 rounded-xl border border-gray-200 mb-8">
-                <h3 className="text-xl font-bold mb-6">Analysis: Why Retirement Debt is Different</h3>
+                <h4 className="text-xl font-bold mb-6">Analysis: Why Retirement Debt is Different</h4>
                 <ul className="grid md:grid-cols-2 gap-4 text-sm font-medium">
                   <li className="flex items-center gap-2">
                     <span className="w-2 h-2 bg-[#1F5EFF] rounded-full"></span>
@@ -281,9 +281,9 @@ export default function SeniorCitizenLoanSettlementPage() {
             </section>
 
             <section id="loan-types" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
                 Types of Loans Seniors Carry
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 Seniors are often targeted by banks for various credit products because of their perceived stability and physical assets. Personal loans are the most common, often sold over the phone as 'Pensioner Loans'. These are tempting when a quick cash infusion is needed but can become a burden if the EMI consumes too much of the monthly pension.
               </p>
@@ -296,14 +296,14 @@ export default function SeniorCitizenLoanSettlementPage() {
             </section>
 
             <section id="rbi-guidelines" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
                 RBI Guidelines: Your Legal Shield
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                  Knowledge of your rights is the most powerful tool you have. The Reserve Bank of India (RBI) has laid down very clear 'Fair Practice Codes' that every lender must follow. These guidelines specifically mention that borrowers must be treated with dignity and that any form of harassment is strictly prohibited.
               </p>
               <div className="bg-blue-50 p-8 rounded-xl border border-blue-200 mb-8">
-                <h3 className="text-xl font-bold mb-4 text-blue-900">Protections Specifically for Seniors</h3>
+                <h4 className="text-xl font-bold mb-4 text-blue-900">Protections Specifically for Seniors</h4>
                 <p className="text-sm text-blue-800 leading-relaxed mb-4">
                   The RBI takes the harassment of senior citizens very seriously. Banks are instructed to ensure that their recovery agents are sensitive to the physical and mental health of elderly borrowers. You have the right to demand that all communication happens through official channels and that you are not disturbed at odd hours.
                 </p>
@@ -314,9 +314,9 @@ export default function SeniorCitizenLoanSettlementPage() {
             </section>
 
             <section id="recovery-agents" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
                 Dealing with Recovery Agents Professionally
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 The most traumatic part of debt is often the behavior of recovery agents. We want to be very clear: no agent has the right to enter your home without your permission, nor do they have the right to use abusive language or make threats. They are legally bound to identify themselves and provide proof of their authorization from the bank.
               </p>
@@ -328,30 +328,30 @@ export default function SeniorCitizenLoanSettlementPage() {
                   <div className="w-12 h-12 bg-blue-100 rounded-full flex items-center justify-center mx-auto mb-4">
                     <svg className="w-6 h-6 text-blue-600" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M12 18h.01M8 21h8a2 2 0 002-2V5a2 2 0 00-2-2H8a2 2 0 00-2 2v14a2 2 0 002 2z"></path></svg>
                   </div>
-                  <h3 className="font-bold text-[#2E2E2E] mb-2">Restricted Hours</h3>
+                  <h4 className="font-bold text-[#2E2E2E] mb-2">Restricted Hours</h4>
                   <p className="text-xs text-gray-500">Calls are only permitted between 8 AM and 7 PM.</p>
                 </div>
                 <div className="bg-white p-5 rounded-xl border border-[#DEDEDE] shadow-sm text-center">
                   <div className="w-12 h-12 bg-green-100 rounded-full flex items-center justify-center mx-auto mb-4">
                     <svg className="w-6 h-6 text-green-600" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M16 7a4 4 0 11-8 0 4 4 0 018 0zM12 14a7 7 0 00-7 7h14a7 7 0 00-7-7z"></path></svg>
                   </div>
-                  <h4 className="font-bold text-[#2E2E2E] mb-2">Identification</h4>
+                  <h5 className="font-bold text-[#2E2E2E] mb-2">Identification</h5>
                   <p className="text-xs text-gray-500">Agents must show valid ID and bank authorization.</p>
                 </div>
                 <div className="bg-white p-5 rounded-xl border border-[#DEDEDE] shadow-sm text-center">
                   <div className="w-12 h-12 bg-purple-100 rounded-full flex items-center justify-center mx-auto mb-4">
                     <svg className="w-6 h-6 text-purple-600" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M20.618 5.984A11.955 11.955 0 0112 2.944a11.955 11.955 0 01-8.618 3.04A12.02 12.02 0 003 9c0 5.591 3.824 10.29 9 11.622 5.176-1.332 9-6.03 9-11.622 0-1.042-.133-2.052-.382-3.016z"></path></svg>
                   </div>
-                  <h4 className="font-bold text-[#2E2E2E] mb-2">No Shaming</h4>
+                  <h5 className="font-bold text-[#2E2E2E] mb-2">No Shaming</h5>
                   <p className="text-xs text-gray-500">Public shaming or calling neighbors is illegal.</p>
                 </div>
               </div>
             </section>
 
             <section id="ots-roadmap" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
                 The Road to One-Time Settlement (OTS)
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 One-Time Settlement (OTS) is a formal agreement where the bank agrees to accept a portion of the outstanding amount as a final payment and close the account. This is often the most practical solution for seniors whose income can no longer support full repayments. While it does impact your credit score, it provides immediate relief and a fresh start.
               </p>
@@ -364,19 +364,19 @@ export default function SeniorCitizenLoanSettlementPage() {
             </section>
 
             <section id="medical-debt" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Medical Emergencies and Financial Relief</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Medical Emergencies and Financial Relief</h3>
               <p className="mb-6">
                 In India, the cost of medical care is one of the biggest reasons for debt among the elderly. Even with the best planning, a single major surgery or a long stay in a private hospital can cost several lakhs of rupees. If you have been forced to take loans to cover these costs, there are specific schemes and relief measures that you should be aware of.
               </p>
               <div className="grid md:grid-cols-2 gap-6 mb-8">
                 <div className="bg-orange-50/50 p-6 rounded-xl border border-orange-100">
-                  <h3 className="text-xl font-bold text-orange-800 mb-3">Ayushman Bharat Coverage</h3>
+                  <h4 className="text-xl font-bold text-orange-800 mb-3">Ayushman Bharat Coverage</h4>
                   <p className="text-sm text-orange-900/80 leading-relaxed">
                     The government has recently expanded the Ayushman Bharat scheme to cover all senior citizens aged 70 and above. This provides a health cover of five lakh rupees per year. If you are already in debt because of medical bills, using this scheme for future treatments can prevent your debt from growing further.
                   </p>
                 </div>
                 <div className="bg-blue-50/50 p-6 rounded-xl border border-blue-100">
-                  <h3 className="text-xl font-bold text-blue-800 mb-3">Tax Deductions for Medical costs</h3>
+                  <h4 className="text-xl font-bold text-blue-800 mb-3">Tax Deductions for Medical costs</h4>
                   <p className="text-sm text-blue-900/80 leading-relaxed">
                     Under Section 80D and 80DDB of the Income Tax Act, senior citizens can claim significant deductions for medical insurance premiums and specific treatments. This can reduce your tax liability, freeing up more cash to manage your existing debt obligations.
                   </p>
@@ -388,7 +388,7 @@ export default function SeniorCitizenLoanSettlementPage() {
             </section>
 
             <section id="reverse-mortgages" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">The Complexity of Reverse Mortgages</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">The Complexity of Reverse Mortgages</h3>
               <p className="mb-6">
                 Reverse mortgages are often marketed as the perfect solution for 'asset rich but cash poor' seniors. In this arrangement, the bank pays you every month against the value of your home, and the loan is only settled after the borrower passes away or moves out. While this sounds ideal, it can be a double edged sword.
               </p>
@@ -401,12 +401,12 @@ export default function SeniorCitizenLoanSettlementPage() {
             </section>
 
             <section id="psychological-burden" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 text-center">Mental Health and the Elderly</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 text-center">Mental Health and the Elderly</h3>
               <p className="mb-6 text-lg">
                 The emotional toll of debt is often more damaging than the financial cost. For a senior citizen who has spent a lifetime building a reputation and a stable home, the feeling of 'failure' associated with debt can be devastating. This can lead to isolation, severe anxiety, and even physical decline due to stress.
               </p>
               <div className="bg-emerald-50 p-8 rounded-2xl border border-emerald-100 mb-8">
-                <h3 className="text-xl font-bold text-emerald-800 mb-4">You Are More Than Your Balance</h3>
+                <h4 className="text-xl font-bold text-emerald-800 mb-4">You Are More Than Your Balance</h4>
                 <p className="mb-4 text-emerald-900/80">
                   We want to remind every senior reading this that your value is not determined by your bank account. Financial cycles are a part of life, and having debt at 70 is not a sign of a failed life. It is simply a practical problem that has a practical solution.
                 </p>
@@ -417,7 +417,7 @@ export default function SeniorCitizenLoanSettlementPage() {
             </section>
 
             <section id="step-by-step" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Step-by-Step Settlement Guide</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Step-by-Step Settlement Guide</h3>
               <p className="mb-6 text-lg">
                 If you have decided to pursue a settlement, here is the basic roadmap. Following these steps carefully will ensure that your settlement is legal and final.
               </p>
@@ -456,13 +456,13 @@ export default function SeniorCitizenLoanSettlementPage() {
             </section>
 
             <section id="legal-protections" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Legal Rights and Maintenance Acts</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Legal Rights and Maintenance Acts</h3>
               <p className="mb-6 text-lg">
                 The Maintenance and Welfare of Parents and Senior Citizens Act, 2007, is a landmark legislation in India. While it is primarily about the responsibility of children to care for their parents, it provides a strong legal backdrop for your financial dignity.
               </p>
               <div className="grid md:grid-cols-2 gap-8 mb-8">
                 <div className="bg-white p-6 rounded-xl border border-gray-100 shadow-sm">
-                  <h3 className="text-xl font-bold mb-4">Obligation of Children</h3>
+                  <h4 className="text-xl font-bold mb-4">Obligation of Children</h4>
                   <p className="text-sm text-gray-600 leading-relaxed mb-4">
                     The Act makes it a legal requirement for children and heirs to provide for their parents. If you are struggling with debt because your family has neglected you, you have the right to seek maintenance through a simple tribunal process.
                   </p>
@@ -471,7 +471,7 @@ export default function SeniorCitizenLoanSettlementPage() {
                   </p>
                 </div>
                 <div className="bg-white p-6 rounded-xl border border-gray-100 shadow-sm">
-                  <h3 className="text-xl font-bold mb-4">Protection of Assets</h3>
+                  <h4 className="text-xl font-bold mb-4">Protection of Assets</h4>
                   <p className="text-sm text-gray-600 leading-relaxed mb-4">
                     The Act also has provisions to protect your property from being snatched away by family members who don't care for you. If you have gifted a property in exchange for care, and that care is not provided, the transfer can be declared void.
                   </p>
@@ -483,7 +483,7 @@ export default function SeniorCitizenLoanSettlementPage() {
             </section>
 
             <section id="cibil-impact" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Credit Scores in Retirement</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Credit Scores in Retirement</h3>
               <p className="mb-6 text-lg">
                 Many seniors worry excessively about their CIBIL score. We want to put this in perspective. If you are in your 70s and have no plans to take a large home loan or a business loan in the future, your CIBIL score is less important than your current liquidity and peace of mind.
               </p>
@@ -493,12 +493,12 @@ export default function SeniorCitizenLoanSettlementPage() {
             </section>
 
             <section id="pension-management" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Managing Fixed Incomes and Pensions</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Managing Fixed Incomes and Pensions</h3>
               <p className="mb-6 text-lg">
                  Living on a pension requires a strict discipline that can be hard to maintain when unexpected costs arise. We recommend a simple 'Three Bucket' approach to managing your fixed income once your debt is settled.
               </p>
               <div className="bg-blue-50 p-8 rounded-2xl border border-blue-100 mb-8">
-                <h3 className="text-2xl font-black text-[#2E2E2E] mb-6">The Three Bucket Strategy</h3>
+                <h4 className="text-2xl font-black text-[#2E2E2E] mb-6">The Three Bucket Strategy</h4>
                 <div className="space-y-4">
                   <div className="bg-white p-4 rounded-lg flex items-center justify-between">
                     <span className="font-bold">Bucket 1: Essentials</span>
@@ -520,12 +520,12 @@ export default function SeniorCitizenLoanSettlementPage() {
             </section>
 
             <section id="scam-awareness" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Avoiding Scams and Fraud</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Avoiding Scams and Fraud</h3>
               <p className="mb-6 text-red-600 font-bold">
                  Senior citizens are often the primary targets for financial scammers. You must be extremely cautious when anyone calls you claiming to be from a bank or a government agency.
               </p>
               <div className="bg-red-50 border-l-4 border-red-500 p-8 rounded-r-xl mb-8">
-                <h3 className="text-xl font-bold text-red-800 mb-4">Scam Alert Signs</h3>
+                <h4 className="text-xl font-bold text-red-800 mb-4">Scam Alert Signs</h4>
                 <ul className="space-y-3 text-red-900/80">
                   <li>• <strong>OTP Requests:</strong> No legitimate bank will EVER ask for your OTP or password over the phone.</li>
                   <li>• <strong>Urgency and Fear:</strong> If they say your electricity will be cut or your account blocked in the next hour, it's likely a scam.</li>
@@ -539,7 +539,7 @@ export default function SeniorCitizenLoanSettlementPage() {
             </section>
 
             <section id="family-inheritance" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Family Participation and Inheritance</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Family Participation and Inheritance</h3>
               <p className="mb-6">
                 Debt is often a family matter. If you have an outstanding loan when you pass away, the debt doesn't simply vanish. In the case of secured loans, the bank can recover the amount from the asset. In the case of unsecured loans, the legal heirs are not usually personally liable, but the debt can be recovered from the estate you leave behind.
               </p>
@@ -549,12 +549,12 @@ export default function SeniorCitizenLoanSettlementPage() {
             </section>
 
             <section id="dignity" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Reclaiming Your Financial Dignity</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Reclaiming Your Financial Dignity</h3>
               <p className="mb-6 text-lg">
                 The final goal of loan settlement is dignity. It's about being able to answer the phone without fear and being able to look forward to the future. At SettleLoans, we have helped thousands of seniors achieve this. We don't just handle the numbers; we handle the anxiety, the legal complexities, and the bank negotiations so you don't have to.
               </p>
               <div className="bg-[#2E2E2E] text-white p-8 rounded-2xl mb-8">
-                <h3 className="text-2xl font-bold mb-4">Our Promise to Every Senior</h3>
+                <h4 className="text-2xl font-bold mb-4">Our Promise to Every Senior</h4>
                 <ul className="space-y-3 text-sm opacity-90">
                   <li className="flex items-center gap-2">✓ Absolute respect for your privacy and your life's journey.</li>
                   <li className="flex items-center gap-2">✓ Professional defense against recovery agent harassment.</li>
@@ -566,7 +566,7 @@ export default function SeniorCitizenLoanSettlementPage() {
             </section>
 
             <section id="success-stories" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 text-center">Inspiring Success Stories</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 text-center">Inspiring Success Stories</h3>
               <div className="grid md:grid-cols-2 gap-6 not-prose">
                 {[
                   {
@@ -604,7 +604,7 @@ export default function SeniorCitizenLoanSettlementPage() {
                         {review.name.charAt(0)}
                       </div>
                       <div>
-                        <h3 className="font-bold text-[#2E2E2E]">{review.name}</h3>
+                        <h4 className="font-bold text-[#2E2E2E]">{review.name}</h4>
                         <p className="text-xs text-gray-400">{review.loc}</p>
                       </div>
                       <div className="ml-auto text-yellow-400 text-sm">★★★★★</div>
@@ -619,7 +619,7 @@ export default function SeniorCitizenLoanSettlementPage() {
             </section>
 
             <section id="faqs" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Frequently Asked Questions</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Frequently Asked Questions</h3>
               <div className="space-y-4 not-prose">
                 {[
                   { q: "Can a bank take my pension to pay off a loan?", a: "Banks cannot directly seize your minimum pension for loan repayment without your consent. However, if you have given a standing instruction or if the pension is credited to the same bank where you have a debt, they may exercise a right of set-off. This is why it's important to have a legal defense." },
@@ -656,7 +656,7 @@ export default function SeniorCitizenLoanSettlementPage() {
             <div className="lg:hidden mt-16 mb-8">
               <div className="bg-[#2E2E2E] rounded-2xl shadow-xl overflow-hidden border border-[#1F5EFF]/20">
                 <div className="bg-[#1F5EFF] p-6 text-center text-white">
-                  <h3 className="text-2xl font-black mb-2">Ready to Live Stress-Free?</h3>
+                  <h4 className="text-2xl font-black mb-2">Ready to Live Stress-Free?</h4>
                   <p className="opacity-90 text-sm">Join thousands of seniors who have reclaimed their retirement with SettleLoans.</p>
                 </div>
                 <div className="p-8 text-center text-[#DEDEDE]">

@@ -508,7 +508,7 @@ export default function RbiOmbudsmanComplaintRecoveryHarassmentPage() {
 
             {/* Section 2: Mandatory Prerequisite: 30-Day GRO Escalation Rule */}
             <section id="mandatory-30-day-gro-escalation" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">2. Mandatory Prerequisite</h2>
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">2. Mandatory Prerequisite</h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Every borrower must follow one key rule before filing an RBI complaint. Under Clause 10 of the Integrated Ombudsman Scheme, you must write to the bank first. You must give the bank a fair chance to fix the issue. Skipping this step leads to case dismissal.
               </p>
@@ -517,10 +517,10 @@ export default function RbiOmbudsmanComplaintRecoveryHarassmentPage() {
               </p>
               
               <div className="bg-slate-50 border border-slate-200 rounded-2xl p-5 my-4 space-y-3">
-                <h3 className="text-xs sm:text-sm font-bold text-slate-900 uppercase tracking-wider flex items-center gap-2">
+                <h4 className="text-xs sm:text-sm font-bold text-slate-900 uppercase tracking-wider flex items-center gap-2">
                   <Clock className="w-4 h-4 text-[#1F5EFF]" />
                   <span>The Statutory 30-Day Timeline &amp; Escalation Windows</span>
-                </h3>
+                </h4>
                 <div className="space-y-3 text-xs sm:text-sm text-slate-700">
                   <p className="leading-relaxed">
                     Once you send your complaint, the lender gets exactly <strong>30 calendar days</strong> to reply. You can escalate to the RBI Ombudsman in three clear situations:
@@ -547,7 +547,7 @@ export default function RbiOmbudsmanComplaintRecoveryHarassmentPage() {
 
             {/* Section 3: Statutory Grounds for Harassment Complaints */}
             <section id="statutory-grounds-under-integrated-scheme" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">3. Statutory Grounds</h2>
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">3. Statutory Grounds</h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Your complaint must state exact rules that the lender broke. The Reserve Bank of India sets clear standards across key rules. These include the <em>Master Direction – Reserve Bank of India (Managing Risks and Code of Conduct in Outsourcing of Financial Services by Regulated Entities) Directions</em>. They include the <em>Master Circular on Fair Practices Code</em>. The <em>Guidelines on Digital Lending (2022)</em> also protect borrowers.
               </p>
@@ -591,7 +591,7 @@ export default function RbiOmbudsmanComplaintRecoveryHarassmentPage() {
 
             {/* Section 4: Step-by-Step CMS Portal (cms.rbi.org.in) Filing Guide */}
             <section id="step-by-step-cms-portal-walkthrough" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">4. Step-by-Step Guide</h2>
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">4. Step-by-Step Guide</h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 The Reserve Bank of India Complaint Management System (CMS) is an easy online portal. It lets you register and track complaints quickly. Follow this six-stage guide to file your complaint without errors:
               </p>
@@ -672,7 +672,7 @@ export default function RbiOmbudsmanComplaintRecoveryHarassmentPage() {
 
             {/* Section 6: Evidentiary Forensics: Audio, WhatsApp & Section 63 BSA */}
             <section id="evidentiary-forensics-audio-whatsapp-cdr" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">6. Evidentiary Forensics</h2>
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">6. Evidentiary Forensics</h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Your RBI Ombudsman case depends on solid proof. Banks often deny that recovery agents acted abusively. Clear digital evidence proves your claims beyond dispute.
               </p>
@@ -681,10 +681,10 @@ export default function RbiOmbudsmanComplaintRecoveryHarassmentPage() {
               </p>
 
               <div className="bg-slate-50 border border-slate-200 rounded-2xl p-5 my-4 space-y-3">
-                <h3 className="font-bold text-slate-900 text-xs sm:text-sm uppercase tracking-wider flex items-center gap-2">
+                <h4 className="font-bold text-slate-900 text-xs sm:text-sm uppercase tracking-wider flex items-center gap-2">
                   <FileCheck className="w-4 h-4 text-[#1F5EFF]" />
                   <span>Mandatory Evidentiary Compilation Checklist</span>
-                </h3>
+                </h4>
                 <div className="space-y-2.5 text-xs sm:text-sm text-slate-700">
                   <div className="p-3 bg-white rounded-xl border border-slate-200">
                     <p className="font-bold text-slate-900">1. Raw Audio Files with Unaltered Hash &amp. Timestamps</p>
@@ -712,7 +712,7 @@ export default function RbiOmbudsmanComplaintRecoveryHarassmentPage() {
 
             {/* Section 7: Claiming ₹20 Lakh Compensation & Bank NPV Economics */}
             <section id="compensation-claim-20-lakh-npv-model" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">7. Claiming Statutory Compensation Up to ₹20 Lakhs</h2>
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">7. Claiming Statutory Compensation Up to ₹20 Lakhs</h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 The Reserve Bank - Integrated Ombudsman Scheme, 2021 gives the Ombudsman power to award money to borrowers. Under Clause 15(3), the Ombudsman can award up to <strong>₹20 Lakhs</strong> for direct financial loss caused by bank service issues. The Ombudsman can also award up to <strong>₹1 Lakh</strong> for mental agony, lost time. And legal expenses.
               </p>
@@ -744,7 +744,7 @@ export default function RbiOmbudsmanComplaintRecoveryHarassmentPage() {
 
             {/* Section 8: Post-Ombudsman OTS Resolution & CIBIL Rectification */}
             <section id="post-complaint-ots-settlement-cibil-fix" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">8. Post-Ombudsman OTS &amp; Sanction Letter</h2>
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">8. Post-Ombudsman OTS &amp; Sanction Letter</h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 A strong RBI complaint does more than stop calls. It helps you settle your debt on fair terms. Once the Ombudsman steps in, the bank moves your file to its settlement desk.
               </p>
@@ -780,7 +780,7 @@ export default function RbiOmbudsmanComplaintRecoveryHarassmentPage() {
 
             {/* Section 9: Comparative Legal Redressal Matrix */}
             <section id="comparative-redressal-matrix" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">9. Grievance Redressal Forums Comparison Matrix</h2>
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">9. Grievance Redressal Forums Comparison Matrix</h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Borrowers facing recovery harassment have multiple legal paths under Indian law. The table below compares the speed, cost. And powers of each option:
               </p>
@@ -840,7 +840,7 @@ export default function RbiOmbudsmanComplaintRecoveryHarassmentPage() {
             {/* Section 10: SettleLoans Legal Defense & Representation */}
             <section id="settleloans-regulatory-defense" className="space-y-6">
               <div className="border-t border-slate-200 pt-8 space-y-4">
-                <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">10. SettleLoans RBI Ombudsman Representation</h2>
+                <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">10. SettleLoans RBI Ombudsman Representation</h3>
                 <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                   Filing an RBI Ombudsman case needs legal care. Our legal team at SettleLoans helps borrowers resolve debt disputes and stop harassment nationwide.
                 </p>
@@ -857,7 +857,7 @@ export default function RbiOmbudsmanComplaintRecoveryHarassmentPage() {
             <section id="faqs" className="space-y-4 border-t border-slate-200 pt-8">
               <div className="flex items-center gap-2 mb-2">
                 <HelpCircle className="w-5 h-5 text-[#1F5EFF]" />
-                <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">11. FAQs: RBI Ombudsman Complaints &amp; Recovery Rules</h2>
+                <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">11. FAQs: RBI Ombudsman Complaints &amp; Recovery Rules</h3>
               </div>
               <p className="text-xs sm:text-sm text-slate-600 mb-6">
                 Clear answers regarding the RBI Complaint Management System, recovery agent restrictions, evidence submission. And payout claims.
@@ -887,9 +887,9 @@ export default function RbiOmbudsmanComplaintRecoveryHarassmentPage() {
 
             {/* 5 Official Regulatory Links */}
             <section className="border-t border-slate-200 pt-8 mb-4">
-              <h3 className="text-xs sm:text-sm font-bold text-slate-900 mb-3 uppercase tracking-wider">
+              <h4 className="text-xs sm:text-sm font-bold text-slate-900 mb-3 uppercase tracking-wider">
                 Official Statutory &amp; Regulatory References
-              </h3>
+              </h4>
               <div className="grid grid-cols-1 sm:grid-cols-2 gap-2.5 text-xs">
                 <a
                   href="https://cms.rbi.org.in"
@@ -941,9 +941,9 @@ export default function RbiOmbudsmanComplaintRecoveryHarassmentPage() {
 
             {/* 10 Related Guide Badges */}
             <section className="border-t border-slate-200 pt-8 mb-8">
-              <h3 className="text-xs sm:text-sm font-bold text-slate-900 mb-4 uppercase tracking-wider">
+              <h4 className="text-xs sm:text-sm font-bold text-slate-900 mb-4 uppercase tracking-wider">
                 Related Legal Defense &amp; Loan Settlement Guides
-              </h3>
+              </h4>
               <div className="flex flex-wrap gap-2">
                 <Link
                   href="/can-recovery-agents-enter-house-without-permission"

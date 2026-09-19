@@ -376,9 +376,9 @@ export default function InstantAppLoanSettlementClient() {
                 <ShieldAlert className="w-4 h-4" />
                 <span>2. Cyber Extortion &amp; Harassment Mechanisms</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 Anatomy of Blackmail: Scraping & Fabricated Threats
-              </h2>
+              </h3>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 When a borrower downloads an unauthorized instant loan APK, the application covertly exploits device access permissions to scrape the entire contact address book, SMS repository, call history, media gallery, and device identifiers. If the borrower defaults or resists exorbitant 7-day renewal penalties, the operating syndicate deploys weaponized psychological harassment and cyber extortion tactics designed to induce panic and social humiliation.
               </p>
@@ -396,9 +396,9 @@ export default function InstantAppLoanSettlementClient() {
                 <Scale className="w-4 h-4" />
                 <span>3. Statutory Protections &amp; Legal Framework</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 Enforcing Legal Rights: IT Act & RBI Master Directions
-              </h2>
+              </h3>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Victims of predatory digital lending apps enjoy robust legal protections under Indian penal statutes, cyber law, and central banking directives. When recovery agents resort to photo morphing, abusive tele-calling, or contact harassment, their actions cross from commercial default into cognizable criminal offenses that carry severe imprisonment terms for the perpetrators.
               </p>
@@ -462,9 +462,9 @@ export default function InstantAppLoanSettlementClient() {
                 <PhoneCall className="w-4 h-4" />
                 <span>4. Emergency Cyber Crime Reporting Protocol</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 Filing Complaints on Cyber Crime Portal (1930)
-              </h2>
+              </h3>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 When facing active cyber blackmail or contact harassment, prompt reporting creates an evidentiary shield. The Ministry of Home Affairs, through the I4C, manages the National Cyber Crime Reporting Portal. Victims can call the emergency helpline <strong>1930</strong>, which is equipped to handle digital lending fraud and financial extortion.
               </p>
@@ -489,9 +489,9 @@ export default function InstantAppLoanSettlementClient() {
                       <span className="text-[10px] font-black uppercase tracking-widest text-blue-300 block">
                         Legal Defense &amp; Action Blueprint
                       </span>
-                      <h3 className="text-sm md:text-base font-black text-white leading-tight">
+                      <h4 className="text-sm md:text-base font-black text-white leading-tight">
                         Instant App Loan Settlement &amp; Cyber Fraud Defense Blueprint
-                      </h3>
+                      </h4>
                     </div>
                   </div>
                   <a
@@ -538,9 +538,9 @@ export default function InstantAppLoanSettlementClient() {
                 <Lock className="w-4 h-4" />
                 <span>5. Social Shielding &amp; Narrative Control</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 Neutralizing Blackmail: Emergency Contact Shielding
-              </h2>
+              </h3>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Extortion syndicates rely entirely on isolation, shame, and social panic. The moment a victim capitulates to fear and transfers money to stop a photo leak, the syndicate flags the profile as &quot;paying&quot; and escalates extortion demands through secondary and tertiary rogue numbers. Neutralizing their leverage requires executing an immediate, proactive narrative takeover before the extortionists initiate mass calling.
               </p>
@@ -558,9 +558,9 @@ export default function InstantAppLoanSettlementClient() {
                 <Calculator className="w-4 h-4" />
                 <span>6. Dual-Track Debt Resolution Strategy</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 Resolving Digital Debt: Illegal APKs vs NBFC Apps
-              </h2>
+              </h3>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Resolving digital lending debt requires applying a strict dual-track methodology based on the institutional legitimacy of the underlying lender. Attempting to negotiate a compromise settlement with an illegal extortion ring is futile and counterproductive, whereas failing to formally settle with an RBI-regulated NBFC will lead to compounding default penalties and credit score destruction.
               </p>
@@ -572,7 +572,7 @@ export default function InstantAppLoanSettlementClient() {
               </p>
 
               {/* Settlement Strategy Matrix Table */}
-              <h3 className="text-lg font-bold text-slate-900 mb-3">Settlement Strategy Matrix: Regulated NBFCs vs Rogue APK Syndicates</h3>
+              <h4 className="text-lg font-bold text-slate-900 mb-3">Settlement Strategy Matrix: Regulated NBFCs vs Rogue APK Syndicates</h4>
               <div className="overflow-x-auto my-4">
                 <table className="min-w-full bg-white">
                   <thead>
@@ -619,9 +619,9 @@ export default function InstantAppLoanSettlementClient() {
                 <TrendingUp className="w-4 h-4" />
                 <span>7. Credit Bureau Trajectory &amp; Score Scrubbing</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 CIBIL Realities: Debunking Threats & Removing Inquiries
-              </h2>
+              </h3>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 A widespread tactic employed by rogue collection agents is threatening to &quot;permanently ruin your CIBIL score&quot; or place you on a &quot;national defaulter blacklist&quot;. Under the Credit Information Companies (Regulation) Act, 2005 (CICRA), access to credit reporting bureaus (TransUnion CIBIL, Experian, Equifax, and CRIF High Mark) is strictly restricted to RBI-licensed credit institutions. Illegal, unregistered loan apps possess zero technical or legal capability to report defaults, submit payment history, or alter your credit score.
               </p>
@@ -639,9 +639,9 @@ export default function InstantAppLoanSettlementClient() {
                 <FileCheck className="w-4 h-4" />
                 <span>8. 5-Stage Action Roadmap</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 The 5-Stage Legal Action Roadmap to Eliminate Digital Loan Harassment
-              </h2>
+              </h3>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Navigating digital lending distress requires executing a disciplined, multi-stage protocol that seals digital vulnerabilities, builds an ironclad legal defense, and permanently extinguishes outstanding debt obligations without exposing your family to cyber extortion.
               </p>
@@ -668,9 +668,9 @@ export default function InstantAppLoanSettlementClient() {
                 <ShieldCheck className="w-4 h-4" />
                 <span>9. Legal Defense &amp; Representation</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 Why Distressed Digital Borrowers Trust SettleLoans
-              </h2>
+              </h3>
               <p className="text-slate-700 leading-relaxed mb-6 text-base md:text-lg">
                 Overcoming digital loan harassment and navigating complex fintech debt structures requires seasoned legal defense and cyber expertise. SettleLoans provides complete anti-harassment protection, assists victims with emergency cyber crime filings, and negotiates directly with the senior credit committees of RBI-regulated NBFCs to achieve lawful compromise settlements with maximum debt waivers.
               </p>
@@ -687,9 +687,9 @@ export default function InstantAppLoanSettlementClient() {
                 <HelpCircle className="w-4 h-4" />
                 <span>10. Frequently Asked Questions</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
                 FAQs: Instant App Loan Settlement & Harassment Defense
-              </h2>
+              </h3>
 
               <div className="space-y-3">
                 {faqs.map((faq, index) => (
@@ -706,10 +706,10 @@ export default function InstantAppLoanSettlementClient() {
 
             {/* Regulatory References & Official Sources Strip */}
             <div className="bg-slate-50 border border-slate-200 rounded-2xl p-6 my-10">
-              <h3 className="text-base font-bold text-slate-900 mb-4 flex items-center gap-2">
+              <h4 className="text-base font-bold text-slate-900 mb-4 flex items-center gap-2">
                 <Landmark className="w-5 h-5 text-[#1F5EFF]" />
                 Official Regulatory References &amp; Statutory Circulars
-              </h3>
+              </h4>
               <ul className="space-y-3 text-xs text-slate-600">
                 <li className="flex items-start gap-2">
                   <ExternalLink className="w-4 h-4 text-[#1F5EFF] flex-shrink-0 mt-0.5" />
@@ -771,10 +771,10 @@ export default function InstantAppLoanSettlementClient() {
 
             {/* Related Guides & Resources Strip (10 Topic Badges) */}
             <div className="bg-slate-50 border border-slate-200 rounded-2xl p-6 my-10">
-              <h3 className="text-base font-bold text-slate-900 mb-4 flex items-center gap-2">
+              <h4 className="text-base font-bold text-slate-900 mb-4 flex items-center gap-2">
                 <BookOpen className="w-5 h-5 text-[#1F5EFF]" />
                 Explore Related Banking &amp; Debt Resolution Guides
-              </h3>
+              </h4>
               <div className="flex flex-wrap gap-2.5">
                 <Link
                   href="/bank-one-time-settlement-ots-policy"

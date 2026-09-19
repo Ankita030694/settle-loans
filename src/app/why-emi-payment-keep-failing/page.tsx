@@ -4,7 +4,7 @@ import { Metadata } from 'next';
 import TableOfContents from '@/components/TableOfContents';
 
 export const metadata: Metadata = {
-  title: "Why EMI Payment Keeps Failing: NACH Bounces | SettleLoans",
+  title: "Why EMI Payments Keep Failing: NACH Bounces Explained",
   description: "Are your EMI auto-debits failing despite having balance? Learn the top NACH failure reasons and how to stop repeated bounce charges.",
   alternates: {
     canonical: "https://www.settleloans.in/why-emi-payment-keep-failing",
@@ -266,7 +266,7 @@ export default function WhyEmiFailsPage() {
 
             {/* Blue Important Box */}
             <div className="bg-blue-50 border-l-8 border-[#1F5EFF] p-8 rounded-r-2xl mb-8">
-              <h3 className="text-xl font-black text-[#1F5EFF] mb-4">Did You Know?</h3>
+              <h4 className="text-xl font-black text-[#1F5EFF] mb-4">Did You Know?</h4>
               <p className="text-lg text-blue-900 mb-4">
                 According to banking ombudsman guidelines, if an EMI fails due to a technical glitch on the bank's server and you had adequate balance on the due date, the bank is legally obligated to reverse the bounce charges and late fees.
               </p>
@@ -284,28 +284,28 @@ export default function WhyEmiFailsPage() {
 
             {/* 4-Grid Info Boxes */}
             <div id="nach-mandate-failure" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 Top NACH Mandate Failure Reasons
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 A National Automated Clearing House (NACH) mandate is what allows lenders to pull money directly from your account. When it fails, it's categorized by specific return codes. Here are the most common reasons:
               </p>
               
               <div className="grid md:grid-cols-2 gap-6 my-8">
                 <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
-                  <h3 className="font-black text-[#1F5EFF] text-lg mb-2">1. Signature Mismatch</h3>
+                  <h4 className="font-black text-[#1F5EFF] text-lg mb-2">1. Signature Mismatch</h4>
                   <p className="text-gray-700">The most common reason for physical NACH forms. If your signature on the mandate doesn't perfectly match the bank's records, it gets rejected.</p>
                 </div>
                 <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
-                  <h3 className="font-black text-[#1F5EFF] text-lg mb-2">2. Mandate Expired</h3>
+                  <h4 className="font-black text-[#1F5EFF] text-lg mb-2">2. Mandate Expired</h4>
                   <p className="text-gray-700">NACH mandates have validity dates. If your loan tenure gets extended (e.g., due to floating interest rates), the mandate might expire before the loan is closed.</p>
                 </div>
                 <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
-                  <h3 className="font-black text-[#1F5EFF] text-lg mb-2">3. Account Frozen / Dormant</h3>
+                  <h4 className="font-black text-[#1F5EFF] text-lg mb-2">3. Account Frozen / Dormant</h4>
                   <p className="text-gray-700">If you haven't transacted in your bank account for a long time, it may become dormant, automatically rejecting any incoming debit requests.</p>
                 </div>
                 <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
-                  <h3 className="font-black text-[#1F5EFF] text-lg mb-2">4. Technical Server Glitches</h3>
+                  <h4 className="font-black text-[#1F5EFF] text-lg mb-2">4. Technical Server Glitches</h4>
                   <p className="text-gray-700">Sometimes NPCI or the bank's core banking system experiences downtime, causing valid presentations to bounce despite sufficient funds.</p>
                 </div>
               </div>
@@ -313,11 +313,11 @@ export default function WhyEmiFailsPage() {
 
             {/* Red Warning Box */}
             <div id="ecs-bounce-charges" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 Beware of Illegal ECS Bounce Charges
-              </h2>
+              </h3>
               <div className="bg-red-50 p-6 rounded-xl border border-red-100 mb-8">
-                <h3 className="text-xl font-black text-red-700 mb-4">Warning: Compounding Fees</h3>
+                <h4 className="text-xl font-black text-red-700 mb-4">Warning: Compounding Fees</h4>
                 <p className="text-lg text-red-900 mb-4">
                   If an auto-debit fails, your bank charges an ECS bounce fee (typically ₹250 to ₹600). Simultaneously, the lending NBFC or bank will also charge a bounce fee (another ₹500). If they attempt to present it multiple times a month, you could be billed thousands in just fees!
                 </p>
@@ -329,9 +329,9 @@ export default function WhyEmiFailsPage() {
 
             {/* Numbered Steps */}
             <div id="how-to-fix" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 How to Fix Auto Debit EMI Failing
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-8">
                 If your EMI payments keep failing, you must take immediate action to prevent credit score damage and financial penalties. Follow these steps:
               </p>
@@ -340,7 +340,7 @@ export default function WhyEmiFailsPage() {
                 <div className="flex gap-6">
                   <div className="flex-shrink-0 w-12 h-12 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center font-black text-xl shadow-lg">1</div>
                   <div>
-                    <h3 className="text-2xl font-black text-[#2E2E2E] mb-3">Identify the Return Code</h3>
+                    <h4 className="text-2xl font-black text-[#2E2E2E] mb-3">Identify the Return Code</h4>
                     <p className="text-lg text-gray-700">Request your bank statement and look for the specific return reason. Is it "Insufficient Funds", "Mandate Cancelled", or something else? This dictates your next step.</p>
                   </div>
                 </div>
@@ -348,7 +348,7 @@ export default function WhyEmiFailsPage() {
                 <div className="flex gap-6">
                   <div className="flex-shrink-0 w-12 h-12 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center font-black text-xl shadow-lg">2</div>
                   <div>
-                    <h3 className="text-2xl font-black text-[#2E2E2E] mb-3">Demand a Refund (If Not Your Fault)</h3>
+                    <h4 className="text-2xl font-black text-[#2E2E2E] mb-3">Demand a Refund (If Not Your Fault)</h4>
                     <p className="text-lg text-gray-700">Write an email to the Nodal Officer of your bank attaching proof of balance on the EMI date. Demand a complete <strong>ECS bounce charges refund</strong> within 7 days.</p>
                   </div>
                 </div>
@@ -356,7 +356,7 @@ export default function WhyEmiFailsPage() {
                 <div className="flex gap-6">
                   <div className="flex-shrink-0 w-12 h-12 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center font-black text-xl shadow-lg">3</div>
                   <div>
-                    <h3 className="text-2xl font-black text-[#2E2E2E] mb-3">Register an e-NACH Mandate</h3>
+                    <h4 className="text-2xl font-black text-[#2E2E2E] mb-3">Register an e-NACH Mandate</h4>
                     <p className="text-lg text-gray-700">Instead of physical forms, log into your lender's portal and setup an e-NACH using your debit card or net banking to bypass signature mismatch issues entirely.</p>
                   </div>
                 </div>
@@ -365,7 +365,7 @@ export default function WhyEmiFailsPage() {
 
             {/* Gray Insight Box */}
             <div className="bg-gray-50 p-8 rounded-2xl mb-8 border border-gray-200">
-              <h4 className="text-xl font-black text-[#2E2E2E] mb-4">Pro Tip: Pay Manually While Waiting</h4>
+              <h5 className="text-xl font-black text-[#2E2E2E] mb-4">Pro Tip: Pay Manually While Waiting</h5>
               <p className="text-lg text-gray-700">
                 While you are fixing the NACH mandate issue, pay your EMI manually via the lender's app, website, or UPI. Do not let the EMI go unpaid, as late reporting to CIBIL can severely damage your credit score.
               </p>
@@ -373,9 +373,9 @@ export default function WhyEmiFailsPage() {
 
             {/* Success Stories / Reviews */}
             <div id="success-stories" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">
                 Success Stories: Stopping Unfair Charges
-              </h2>
+              </h3>
               
               <div className="grid md:grid-cols-2 gap-6">
                 <div className="bg-white p-8 rounded-[30px] border border-[#DEDEDE] shadow-sm hover:shadow-xl group transition-all">
@@ -384,7 +384,7 @@ export default function WhyEmiFailsPage() {
                       VS
                     </div>
                     <div>
-                      <h3 className="font-black text-[#2E2E2E]">Vikram Singh</h3>
+                      <h4 className="font-black text-[#2E2E2E]">Vikram Singh</h4>
                       <div className="flex text-yellow-400">
                         <svg className="w-4 h-4 fill-current" viewBox="0 0 20 20"><path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z"/></svg>
                         <svg className="w-4 h-4 fill-current" viewBox="0 0 20 20"><path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z"/></svg>
@@ -407,7 +407,7 @@ export default function WhyEmiFailsPage() {
                       SR
                     </div>
                     <div>
-                      <h4 className="font-black text-[#2E2E2E]">Sneha R.</h4>
+                      <h5 className="font-black text-[#2E2E2E]">Sneha R.</h5>
                       <div className="flex text-yellow-400">
                         <svg className="w-4 h-4 fill-current" viewBox="0 0 20 20"><path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z"/></svg>
                         <svg className="w-4 h-4 fill-current" viewBox="0 0 20 20"><path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z"/></svg>
@@ -428,58 +428,58 @@ export default function WhyEmiFailsPage() {
 
             {/* FAQs */}
             <div id="faq" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">
                 Frequently Asked Questions
-              </h2>
+              </h3>
               
               <div className="space-y-4">
                 <div className="bg-white border border-[#DEDEDE] rounded-xl p-6 hover:shadow-md transition-shadow">
-                  <h3 className="font-bold text-[#2E2E2E] text-lg mb-2">Why did my EMI auto-debit fail when I had enough balance?</h3>
+                  <h4 className="font-bold text-[#2E2E2E] text-lg mb-2">Why did my EMI auto-debit fail when I had enough balance?</h4>
                   <p className="text-gray-600">This usually happens due to a technical glitch at the bank's end, an expired NACH mandate, a mismatched signature, or a blocked account. You can dispute any bounce charges levied.</p>
                 </div>
                 
                 <div className="bg-white border border-[#DEDEDE] rounded-xl p-6 hover:shadow-md transition-shadow">
-                  <h3 className="font-bold text-[#2E2E2E] text-lg mb-2">What are common NACH mandate failure reasons?</h3>
+                  <h4 className="font-bold text-[#2E2E2E] text-lg mb-2">What are common NACH mandate failure reasons?</h4>
                   <p className="text-gray-600">Common reasons include insufficient funds, signature mismatch, invalid bank account details, mandate expiry, or a frozen bank account.</p>
                 </div>
 
                 <div className="bg-white border border-[#DEDEDE] rounded-xl p-6 hover:shadow-md transition-shadow">
-                  <h3 className="font-bold text-[#2E2E2E] text-lg mb-2">Can banks charge ECS bounce fees if the failure wasn't my fault?</h3>
+                  <h4 className="font-bold text-[#2E2E2E] text-lg mb-2">Can banks charge ECS bounce fees if the failure wasn't my fault?</h4>
                   <p className="text-gray-600">No. If the failure is due to a technical error on the bank's side or incorrect presentation, you are entitled to an ECS bounce charges refund.</p>
                 </div>
 
                 <div className="bg-white border border-[#DEDEDE] rounded-xl p-6 hover:shadow-md transition-shadow">
-                  <h3 className="font-bold text-[#2E2E2E] text-lg mb-2">How do I claim a refund for illegal bounce charges?</h3>
+                  <h4 className="font-bold text-[#2E2E2E] text-lg mb-2">How do I claim a refund for illegal bounce charges?</h4>
                   <p className="text-gray-600">Write a formal email to your bank's grievance officer explaining the failure was due to a technical glitch despite having sufficient balance, and demand an immediate reversal.</p>
                 </div>
 
                 <div className="bg-white border border-[#DEDEDE] rounded-xl p-6 hover:shadow-md transition-shadow">
-                  <h3 className="font-bold text-[#2E2E2E] text-lg mb-2">Will an auto debit EMI failure affect my CIBIL score?</h3>
+                  <h4 className="font-bold text-[#2E2E2E] text-lg mb-2">Will an auto debit EMI failure affect my CIBIL score?</h4>
                   <p className="text-gray-600">Yes, if the EMI remains unpaid. However, if the failure was a technical issue and you pay immediately, you can request the bank not to report it as a default.</p>
                 </div>
 
                 <div className="bg-white border border-[#DEDEDE] rounded-xl p-6 hover:shadow-md transition-shadow">
-                  <h3 className="font-bold text-[#2E2E2E] text-lg mb-2">How to fix a cancelled NACH mandate?</h3>
+                  <h4 className="font-bold text-[#2E2E2E] text-lg mb-2">How to fix a cancelled NACH mandate?</h4>
                   <p className="text-gray-600">You will need to register a new e-mandate through net banking or submit a physical NACH form to your lender.</p>
                 </div>
 
                 <div className="bg-white border border-[#DEDEDE] rounded-xl p-6 hover:shadow-md transition-shadow">
-                  <h3 className="font-bold text-[#2E2E2E] text-lg mb-2">Can I stop an auto-debit if I am negotiating a settlement?</h3>
+                  <h4 className="font-bold text-[#2E2E2E] text-lg mb-2">Can I stop an auto-debit if I am negotiating a settlement?</h4>
                   <p className="text-gray-600">Yes, you can instruct your bank to stop the NACH mandate or close the specific account to prevent further unauthorized debits while negotiating.</p>
                 </div>
 
                 <div className="bg-white border border-[#DEDEDE] rounded-xl p-6 hover:shadow-md transition-shadow">
-                  <h3 className="font-bold text-[#2E2E2E] text-lg mb-2">What happens if a presentation fails multiple times?</h3>
+                  <h4 className="font-bold text-[#2E2E2E] text-lg mb-2">What happens if a presentation fails multiple times?</h4>
                   <p className="text-gray-600">Multiple failed presentations will result in compounding bounce charges and late fees, significantly inflating your outstanding debt.</p>
                 </div>
 
                 <div className="bg-white border border-[#DEDEDE] rounded-xl p-6 hover:shadow-md transition-shadow">
-                  <h3 className="font-bold text-[#2E2E2E] text-lg mb-2">Is a physical signature required for NACH?</h3>
+                  <h4 className="font-bold text-[#2E2E2E] text-lg mb-2">Is a physical signature required for NACH?</h4>
                   <p className="text-gray-600">Not always. e-NACH mandates use Aadhaar OTP or Net Banking authentication, avoiding signature mismatch issues.</p>
                 </div>
 
                 <div className="bg-white border border-[#DEDEDE] rounded-xl p-6 hover:shadow-md transition-shadow">
-                  <h3 className="font-bold text-[#2E2E2E] text-lg mb-2">Can a lender present an ECS mandate after a loan is closed?</h3>
+                  <h4 className="font-bold text-[#2E2E2E] text-lg mb-2">Can a lender present an ECS mandate after a loan is closed?</h4>
                   <p className="text-gray-600">No, it is illegal. If a lender deducts money after loan closure, you can file a complaint with the Banking Ombudsman and claim a refund with compensation.</p>
                 </div>
               </div>
@@ -488,7 +488,7 @@ export default function WhyEmiFailsPage() {
             {/* Lead Gen Hook */}
             <div className="bg-[#2E2E2E] text-white p-12 rounded-[40px] text-center mt-24 relative overflow-hidden group">
               <div className="absolute inset-0 bg-[#1F5EFF] opacity-0 group-hover:opacity-5 transition-opacity"></div>
-              <h2 className="text-3xl md:text-5xl font-black mb-6 relative z-10">Stop Paying Illegal Bounce Fees</h2>
+              <h3 className="text-3xl md:text-5xl font-black mb-6 relative z-10">Stop Paying Illegal Bounce Fees</h3>
               <p className="text-xl mb-10 text-gray-300 max-w-2xl mx-auto relative z-10">
                 Are your EMI auto-debits constantly failing despite having balance? Stop the bank from illegally charging you bounce fees. Speak with our experts to resolve your NACH issues immediately.
               </p>

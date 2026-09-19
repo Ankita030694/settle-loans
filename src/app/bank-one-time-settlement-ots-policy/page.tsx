@@ -194,7 +194,7 @@ const jsonLdGraph = {
             "name": "Kavita Nair"
           },
           "datePublished": "2026-08-04",
-          "reviewBody": "Outstanding legal support. They audited my medical hardship documentation, ensured my settlement amount was directly credited to the core bank account, and prevented any recovery scam. Highly recommended for distressed borrowers.",
+          "reviewBody": "Outstanding legal support. They audited my medical hardship records, ensured my settlement amount was directly credited to the core bank account, and prevented any recovery scam. Highly recommended for distressed borrowers.",
           "reviewRating": {
             "@type": "Rating",
             "ratingValue": "5",
@@ -213,7 +213,7 @@ const jsonLdGraph = {
           "name": "What is a Bank One-Time Settlement (OTS) and how does it legally work in India?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "A Bank One-Time Settlement (OTS) is a formal contractual agreement between a lending institution and a distressed borrower where the lender agrees to accept a negotiated lump-sum amount (or structured tranches) that is less than the total outstanding balance, writing off the remaining principal, penal interest, and charges, and issuing a full debt discharge (No Dues Certificate) under board-approved Compromise Settlement Policies framed pursuant to RBI Master Directions."
+            "text": "A Bank One-Time Settlement (OTS) is a formal contractual agreement between a lending institution and a distressed borrower where the lender agrees to accept a negotiated lump-sum amount (or structured tranches) that is less than the total outstanding balance, writing off the remaining principal, penal interest, and charges, and issuing a full debt discharge (No Dues Certificate) under board-approved Compromise Settlement Policies framed under RBI Master Directions."
           }
         },
         {
@@ -221,7 +221,7 @@ const jsonLdGraph = {
           "name": "How do banks calculate the OTS settlement amount and haircut for Non-Performing Assets (NPAs)?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Banks determine the OTS amount using a Net Present Value (NPV) recovery formula. The Credit Committee compares the immediate cash settlement offer against the discounted estimated recovery achievable through legal proceedings (DRT, SARFAESI, Civil Suits) minus litigation expenses, asset depreciation, time value of money, and existing loan-loss provisioning. For unsecured loans classified as Doubtful or Loss Assets with 100% provisioning, banks are empowered to offer significantly higher haircuts (typically 40% to 70%)."
+            "text": "Banks determine the OTS amount using a Net Present Value (NPV) recovery formula. The Credit Committee compares the immediate cash settlement offer against the discounted estimated recovery achievable through legal cases (DRT, SARFAESI, Civil Suits) minus litigation expenses, asset depreciation, time value of money, and existing loan-loss provisioning. For unsecured loans classified as Doubtful or Loss Assets with 100% provisioning, banks are empowered to offer significantly higher haircuts (typically 40% to 70%)."
           }
         },
         {
@@ -242,10 +242,10 @@ const jsonLdGraph = {
         },
         {
           "@type": "Question",
-          "name": "How should a borrower initiate and negotiate an OTS to achieve maximum debt waiver?",
+          "name": "How should a borrower start and negotiate an OTS to achieve maximum debt waiver?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "To negotiate an OTS effectively: (1) Prepare verifiable hardship evidence (medical summaries, job termination slips, audited financial losses), (2) Calculate the bank's provisioning bucket, (3) Submit a formal written OTS proposal to the Branch Manager and Head of Stressed Assets Recovery Branch (SARB) anchored at 25%–35% of total dues, (4) Direct negotiations toward the authorized Credit Committee rather than recovery agents, and (5) Insist on an official bank sanction letter before making payment."
+            "text": "To negotiate an OTS effectively: (1) Prepare verifiable hardship evidence (medical summaries, job termination slips, audited financial losses), (2) Calculate the bank's provisioning bucket, (3) Submit a formal written OTS proposal to the Branch Manager and Head of Stressed Assets Recovery Branch (SARB) anchored at 25%–35% of total dues, (4) Direct talks toward the authorized Credit Committee rather than recovery agents, and (5) Insist on an official bank sanction letter before making payment."
           }
         },
         {
@@ -253,7 +253,7 @@ const jsonLdGraph = {
           "name": "Can a borrower settle a secured loan (like a home loan or LAP) under an OTS policy?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Yes, secured loans can be settled under OTS, but banks offer substantially smaller haircuts (typically 10% to 25% waiver of penal interest and legal costs) because the bank holds mortgage rights under the SARFAESI Act, 2002 to auction the underlying immovable property. Higher haircuts on secured loans are only approved if the title is defective, property valuation has crashed, or litigation is heavily delayed in DRT."
+            "text": "Yes, secured loans can be settled under OTS, but banks offer greatly smaller haircuts (typically 10% to 25% waiver of penal interest and legal costs) because the bank holds mortgage rights under the SARFAESI Act, 2002 to auction the underlying immovable property. Higher haircuts on secured loans are only approved if the title is defective, property valuation has crashed, or litigation is heavily delayed in DRT."
           }
         },
         {
@@ -285,7 +285,7 @@ const jsonLdGraph = {
           "name": "How long does a bank have to issue the No Dues Certificate and return property papers post-settlement?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Under RBI Circular RBI/2023-24/60, banks and NBFCs are legally mandated to release all original movable/immovable property documents and issue full closure certificates within 30 days of receiving the final settlement payment. For every day of delay beyond 30 days attributable to the lender, the bank must pay compensation of ₹5,000 per day to the borrower."
+            "text": "Under RBI Circular RBI/2023-24/60, banks and NBFCs are legally mandated to release all original movable/immovable property documents and issue full closure certificates within 30 days of receiving the final settlement payment. For every day of delay beyond 30 days attributable to the lender, the bank must pay relief of ₹5,000 per day to the borrower."
           }
         }
       ]

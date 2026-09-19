@@ -148,7 +148,7 @@ const jsonLdGraph = {
       "@type": "FinancialService",
       "@id": "https://www.settleloans.in/guarantor-liability-personal-loan-settlement#service",
       "name": "SettleLoans - Guarantor Legal Protection & Loan Settlement Advisory",
-      "description": "Comprehensive legal shielding for guarantors and co-applicants facing debt recovery coercion, paired with direct institutional negotiation to secure simultaneous dual-party One-Time Settlements (OTS) with bank-stamped No Dues Certificates.",
+      "description": "Comprehensive legal shielding for guarantors and co-applicants facing debt recovery coercion, paired with direct institutional talks to secure simultaneous dual-party One-Time Settlements (OTS) with bank-stamped No Dues Certificates.",
       "url": "https://www.settleloans.in/guarantor-liability-personal-loan-settlement",
       "image": "https://www.settleloans.in/images/infographics/guarantor-liability-personal-loan-settlement.jpg",
       "telephone": "+91-99999-99999",
@@ -251,10 +251,10 @@ const jsonLdGraph = {
         },
         {
           "@type": "Question",
-          "name": "Can a bank legally initiate recovery directly against the guarantor before exhausting remedies against the primary borrower?",
+          "name": "Can a bank legally start recovery directly against the guarantor before exhausting remedies against the primary borrower?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Yes. Under Section 128 of the Indian Contract Act, 1872, the liability of the guarantor is co-extensive with that of the principal debtor. The Supreme Court of India in State Bank of India v. Indexport (1992) and Bank of Bihar v. Damodar Prasad (1969) established that a creditor is not bound to exhaust remedies against the principal debtor before suing or proceeding against the guarantor, unless specifically restricted in the loan contract."
+            "text": "Yes. Under Section 128 of the Indian Contract Act, 1872, the liability of the guarantor is co-extensive with that of the principal debtor. The Supreme Court of India in State Bank of India v. Indexport (1992) and Bank of Bihar v. Damodar Prasad (1969) established that a creditor is not bound to exhaust remedies against the principal debtor before suing or case against the guarantor, unless specifically restricted in the loan contract."
           }
         },
         {
@@ -294,7 +294,7 @@ const jsonLdGraph = {
           "name": "Can the bank seize the guarantor's personal property or freeze their salary account for an unsecured loan?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "For an unsecured personal loan, a bank cannot arbitrarily seize movable or immovable assets without obtaining a formal decree from a Civil Court (or DRT for claims exceeding ₹20 Lakhs) and filing execution proceedings under Order 21 CPC. However, if the guarantor holds deposit accounts in the same lending bank, the institution may attempt to exercise a general banker's lien under Section 171 of the Contract Act, which can be legally contested."
+            "text": "For an unsecured personal loan, a bank cannot arbitrarily seize movable or immovable assets without obtaining a formal decree from a Civil Court (or DRT for claims exceeding ₹20 Lakhs) and filing execution cases under Order 21 CPC. However, if the guarantor holds deposit accounts in the same lending bank, the institution may attempt to exercise a general banker's lien under Section 171 of the Contract Act, which can be legally contested."
           }
         },
         {
@@ -310,7 +310,7 @@ const jsonLdGraph = {
           "name": "What essential terms must be included in an OTS sanction letter to protect the co-applicant and guarantor?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "The OTS sanction letter must contain: (1) explicit naming and PAN numbers of both primary borrower and co-applicants/guarantors, (2) unambiguous confirmation that the agreed settlement sum represents full and final satisfaction of all institutional claims, (3) withdrawal of all pending civil, arbitration, or Section 138 proceedings, and (4) commitment to issue a bank-stamped No Dues Certificate and update credit bureaus within 30 days."
+            "text": "The OTS sanction letter must contain: (1) explicit naming and PAN numbers of both primary borrower and co-applicants/guarantors, (2) unambiguous confirmation that the agreed settlement sum represents full and final satisfaction of all institutional claims, (3) withdrawal of all pending civil, arbitration, or Section 138 cases, and (4) commitment to issue a bank-stamped No Dues Certificate and update credit bureaus within 30 days."
           }
         }
       ]
@@ -538,15 +538,15 @@ export default function GuarantorLiabilityPersonalLoanSettlementPage() {
                 </div>
               </div>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
-                Regardless of whether an individual executed the agreement as a joint borrower or as an independent surety, Indian commercial law binds both parties to rigorous statutory obligations. Understanding these boundaries is the first step toward neutralizing unlawful collection harassment and executing an airtight resolution.
+                Regardless of whether an person executed the agreement as a joint borrower or as an independent surety, Indian commercial law binds both parties to rigorous legal rules. Understanding these boundaries is the first step toward neutralizing unlawful collection harassment and executing an airtight resolution.
               </p>
             </section>
 
             {/* Section 2: Section 128 of the Indian Contract Act */}
             <section id="section-128-coextensive-liability" className="space-y-4">
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-bold text-slate-900 tracking-tight">
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-bold text-slate-900 tracking-tight">
                 2. Section 128 of the Indian Contract Act
-              </h2>
+              </h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Guarantor liability in India is codified in Section 128 of the Indian Contract Act, 1872. It sets a firm statutory rule: <em>&ldquo;The liability of the surety is co-extensive with that of the principal debtor.&rdquo;</em> This applies unless otherwise provided by the contract. This provision carries profound legal consequences for family members who signed loan documents.
               </p>
@@ -555,14 +555,14 @@ export default function GuarantorLiabilityPersonalLoanSettlementPage() {
               </p>
               
               <div className="bg-slate-50 border border-slate-200 rounded-2xl p-5 my-4 space-y-3">
-                <h3 className="text-xs sm:text-sm font-bold text-slate-900 uppercase tracking-wider flex items-center gap-2">
+                <h4 className="text-xs sm:text-sm font-bold text-slate-900 uppercase tracking-wider flex items-center gap-2">
                   <Scale className="w-4 h-4 text-[#1F5EFF]" />
                   <span>Landmark Supreme Court Rulings on Co-Extensive Liability</span>
-                </h3>
+                </h4>
                 <div className="space-y-2.5 text-xs sm:text-sm text-slate-700">
                   <div className="p-3 bg-white rounded-xl border border-slate-200">
                     <p className="font-bold text-slate-900">State Bank of India v. Indexport &amp; Ors. (1992) 3 SCC 159</p>
-                    <p className="text-slate-600 mt-1">A landmark three-judge bench of the Supreme Court held that the creditor is not required to exhaust its legal remedies against the principal debtor or execute against mortgaged assets before proceeding against the guarantor. The decree is enforceable against the guarantor simultaneously or independently.</p>
+                    <p className="text-slate-600 mt-1">A landmark three-judge bench of the Supreme Court held that the creditor is not required to exhaust its legal remedies against the principal debtor or execute against mortgaged assets before case against the guarantor. The decree is enforceable against the guarantor simultaneously or independently.</p>
                   </div>
                   <div className="p-3 bg-white rounded-xl border border-slate-200">
                     <p className="font-bold text-slate-900">Bank of Bihar Ltd. v. Dr. Damodar Prasad &amp; Anr. (1969) 1 SCR 620</p>
@@ -581,16 +581,16 @@ export default function GuarantorLiabilityPersonalLoanSettlementPage() {
                   <span>Critical Civil Law Reality</span>
                 </div>
                 <p className="text-xs sm:text-sm text-amber-800 leading-relaxed">
-                  While the bank possesses the legal liberty to initiate civil proceedings or arbitration against the guarantor directly, this liability is strictly commercial and monetary. It does not grant lenders or their recovery agents the legal authority to deploy criminal intimidation, physical harassment, or arbitrary asset confiscation.
+                  While the bank possesses the legal liberty to start civil cases or arbitration against the guarantor directly, this liability is strictly commercial and monetary. It does not grant lenders or their recovery agents the legal authority to deploy criminal intimidation, physical harassment, or arbitrary asset confiscation.
                 </p>
               </div>
             </section>
 
             {/* Section 3: Recovery Agent Harassment Against Family */}
             <section id="family-harassment-rbi-protections" className="space-y-4">
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-bold text-slate-900 tracking-tight">
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-bold text-slate-900 tracking-tight">
                 3. Recovery Agent Harassment Against Family
-              </h2>
+              </h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Because civil recovery in Indian courts entails significant procedural friction and delays, unregulated third-party collection agencies routinely exploit the psychological vulnerability of family co-signers. Agents frequently target elderly parents or spouses with fabricated claims, alleging that failure to pay will result in immediate police detention, home attachment, public shaming in residential colonies, or disqualification from government pensions.
               </p>
@@ -600,29 +600,29 @@ export default function GuarantorLiabilityPersonalLoanSettlementPage() {
               
               <div className="grid grid-cols-1 sm:grid-cols-2 gap-3 my-4">
                 <div className="p-4 bg-slate-50 border border-slate-200 rounded-xl">
-                  <h3 className="font-bold text-slate-900 text-xs sm:text-sm mb-1">RBI Fair Practices Code (FPC)</h3>
+                  <h4 className="font-bold text-slate-900 text-xs sm:text-sm mb-1">RBI Fair Practices Code (FPC)</h4>
                   <p className="text-xs text-slate-600">RBI Master Directions strictly prohibit lenders and their outsourced agents from contacting debtors or guarantors before 8:00 AM or after 7:00 PM, calling workplace colleagues, using profane language, or making misleading legal threats.</p>
                 </div>
                 <div className="p-4 bg-slate-50 border border-slate-200 rounded-xl">
-                  <h4 className="font-bold text-slate-900 text-xs sm:text-sm mb-1">Section 503 &amp; 506 IPC (Criminal Intimidation)</h4>
+                  <h5 className="font-bold text-slate-900 text-xs sm:text-sm mb-1">Section 503 &amp; 506 IPC (Criminal Intimidation)</h5>
                   <p className="text-xs text-slate-600">Threatening bodily injury, reputation damage, or illegal arrest to force an aging parent or spouse to pay a defaulted debt constitutes criminal intimidation punishable by up to two years of imprisonment.</p>
                 </div>
                 <div className="p-4 bg-slate-50 border border-slate-200 rounded-xl">
-                  <h4 className="font-bold text-slate-900 text-xs sm:text-sm mb-1">Section 383 &amp; 384 IPC (Extortion)</h4>
+                  <h5 className="font-bold text-slate-900 text-xs sm:text-sm mb-1">Section 383 &amp; 384 IPC (Extortion)</h5>
                   <p className="text-xs text-slate-600">Intentionally inducing severe mental terror or fear of injury to extract money under duress satisfies the essential penal ingredients of extortion under Indian law.</p>
                 </div>
                 <div className="p-4 bg-slate-50 border border-slate-200 rounded-xl">
-                  <h4 className="font-bold text-slate-900 text-xs sm:text-sm mb-1">Section 138 NI Act Immunity for Non-Signers</h4>
-                  <p className="text-xs text-slate-600">Criminal proceedings under Section 138 of the Negotiable Instruments Act or Section 25 of the PSSA for cheque/NACH bounce apply solely to the specific individual who signed the instrument, not to non-signing guarantors.</p>
+                  <h5 className="font-bold text-slate-900 text-xs sm:text-sm mb-1">Section 138 NI Act Immunity for Non-Signers</h5>
+                  <p className="text-xs text-slate-600">Criminal cases under Section 138 of the Negotiable Instruments Act or Section 25 of the PSSA for cheque/NACH bounce apply solely to the specific person who signed the instrument, not to non-signing guarantors.</p>
                 </div>
               </div>
             </section>
 
             {/* Section 4: Bank NPA Accounting Mechanics & NPV Formula */}
             <section id="bank-npa-accounting-npv-formula" className="space-y-4">
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-bold text-slate-900 tracking-tight">
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-bold text-slate-900 tracking-tight">
                 4. Bank Accounting: NPA Provisioning &amp; NPV Recovery Formula
-              </h2>
+              </h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 To negotiate effectively from strength, borrowers must understand how lenders evaluate bad debts. Under RBI Prudential Norms on Advances, overdue credit lines face strict classification. Once an unsecured loan remains overdue for 90 days, it is formally classified as a Non-Performing Asset (NPA).
               </p>
@@ -635,7 +635,7 @@ export default function GuarantorLiabilityPersonalLoanSettlementPage() {
                 <li><strong>Doubtful Assets-2 &amp; Loss Assets:</strong> Complete 100% write-off from the bank active asset portfolio, absorbing precious shareholder capital.</li>
               </ul>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed mt-3">
-                When a bank contemplates filing a civil suit under Order 37 CPC or initiating institutional arbitration against both the borrower and guarantor, its risk officers conduct a Net Present Value (NPV) recovery valuation. Initiating formal litigation requires depositing 1% to 3% upfront court fees, retaining external legal counsel, and enduring 3 to 5 years of procedural backlog in district courts, with minimal recovery prospects against distressed retail borrowers.
+                When a bank contemplates filing a civil suit under Order 37 CPC or starting institutional arbitration against both the borrower and guarantor, its risk officers conduct a Net Present Value (NPV) recovery valuation. starting formal litigation requires depositing 1% to 3% upfront court fees, retaining external legal counsel, and enduring 3 to 5 years of procedural backlog in district courts, with minimal recovery prospects against distressed retail borrowers.
               </p>
 
               {/* NPV Formula Box */}
@@ -677,42 +677,42 @@ export default function GuarantorLiabilityPersonalLoanSettlementPage() {
 
             {/* Section 6: How Advocate Intervention Protects Co-Signers */}
             <section id="advocate-intervention-family-shield" className="space-y-4">
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-bold text-slate-900 tracking-tight">
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-bold text-slate-900 tracking-tight">
                 6. Legal Representation Shielding Co-Signers from Coercion
-              </h2>
+              </h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
-                When an individual borrower or an anxious family guarantor attempts to reason with collection agents, third-party agencies frequently intensify their pressure, perceiving family emotional distress as leverage to force urgent liquidations. In contrast, formal legal representation by experienced banking advocates fundamentally transforms the operational dynamic.
+                When an person borrower or an anxious family guarantor attempts to reason with collection agents, third-party agencies frequently intensify their pressure, perceiving family emotional distress as leverage to force urgent liquidations. In contrast, formal legal representation by experienced banking advocates fundamentally transforms the operational dynamic.
               </p>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
-                Upon engagement, our legal defense team implements a structured multi-tiered intervention:
+                Upon engagement, our legal defense team applies a structured multi-tiered intervention:
               </p>
 
               <div className="space-y-3 my-4">
                 <div className="p-4 bg-white border border-slate-200 rounded-xl shadow-sm flex items-start gap-3">
                   <ShieldCheck className="w-5 h-5 text-[#1F5EFF] flex-shrink-0 mt-0.5" />
                   <div>
-                    <h3 className="font-bold text-slate-900 text-xs sm:text-sm">Formal Representation &amp; Cease-and-Desist Service</h3>
-                    <p className="text-xs text-slate-600 mt-1">Advocates serve formal legal notices and Vakalatnama on the bank zonal collection head and Principal Nodal Officer, mandating that all future communication must occur solely through legal counsel. Third-party calling to family members ceases immediately.</p>
+                    <h4 className="font-bold text-slate-900 text-xs sm:text-sm">Formal Representation &amp; Cease-and-Desist Service</h4>
+                    <p className="text-xs text-slate-600 mt-1">Advocates serve formal legal notices and Vakalatnama on the bank zonal collection head and Principal Nodal Officer, mandating that all future notice must occur solely through legal counsel. Third-party calling to family members ceases immediately.</p>
                   </div>
                 </div>
                 <div className="p-4 bg-white border border-slate-200 rounded-xl shadow-sm flex items-start gap-3">
                   <AlertTriangle className="w-5 h-5 text-amber-600 flex-shrink-0 mt-0.5" />
                   <div>
-                    <h4 className="font-bold text-slate-900 text-xs sm:text-sm">Criminal Counter-Notices for Harassment (Section 506 IPC)</h4>
+                    <h5 className="font-bold text-slate-900 text-xs sm:text-sm">Criminal Counter-Notices for Harassment (Section 506 IPC)</h5>
                     <p className="text-xs text-slate-600 mt-1">Collection agents sometimes visit elderly relatives, use abusive language, or issue false arrest threats. When this occurs, our advocates compile call logs and messages. We lodge formal complaints with the State Cyber Crime Police and local District Magistrate to halt illegal harassment.</p>
                   </div>
                 </div>
                 <div className="p-4 bg-white border border-slate-200 rounded-xl shadow-sm flex items-start gap-3">
                   <Landmark className="w-5 h-5 text-indigo-600 flex-shrink-0 mt-0.5" />
                   <div>
-                    <h4 className="font-bold text-slate-900 text-xs sm:text-sm">Escalation to RBI Integrated Ombudsman</h4>
-                    <p className="text-xs text-slate-600 mt-1">Under the Reserve Bank - Integrated Ombudsman Scheme, 2021, regulated entities face severe institutional penalties and compensation orders up to ₹20 Lakhs for recovery agent misconduct against family co-signers.</p>
+                    <h5 className="font-bold text-slate-900 text-xs sm:text-sm">Escalation to RBI Integrated Ombudsman</h5>
+                    <p className="text-xs text-slate-600 mt-1">Under the Reserve Bank - Integrated Ombudsman Scheme, 2021, regulated entities face severe institutional penalties and relief orders up to ₹20 Lakhs for recovery agent misconduct against family co-signers.</p>
                   </div>
                 </div>
                 <div className="p-4 bg-white border border-slate-200 rounded-xl shadow-sm flex items-start gap-3">
                   <BadgePercent className="w-5 h-5 text-emerald-600 flex-shrink-0 mt-0.5" />
                   <div>
-                    <h4 className="font-bold text-slate-900 text-xs sm:text-sm">Comprehensive Dual-Party OTS Dossier Submission</h4>
+                    <h5 className="font-bold text-slate-900 text-xs sm:text-sm">Comprehensive Dual-Party OTS Dossier Submission</h5>
                     <p className="text-xs text-slate-600 mt-1">Advocates submit an exhaustive financial distress dossier directly to the bank competent settlement authority, securing significant principal haircuts while ensuring absolute legal immunity for both parties.</p>
                   </div>
                 </div>
@@ -721,32 +721,32 @@ export default function GuarantorLiabilityPersonalLoanSettlementPage() {
 
             {/* Section 7: Sections 133–141 Indian Contract Act: Discharge of Surety */}
             <section id="sections-133-141-surety-discharge" className="space-y-4">
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-bold text-slate-900 tracking-tight">
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-bold text-slate-900 tracking-tight">
                 7. Sections 133–141 Indian Contract Act
-              </h2>
+              </h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 A critical area of legal defense that unrepresented borrowers frequently overlook is the statutory framework governing the discharge and release of sureties under Chapter VIII of the Indian Contract Act, 1872. Indian law provides extensive protections where a guarantor is automatically released from liability due to the unilateral actions of the creditor bank:
               </p>
 
               <div className="space-y-3 my-4">
                 <div className="p-3.5 bg-slate-50 border border-slate-200 rounded-xl">
-                  <h3 className="font-bold text-slate-900 text-xs sm:text-sm mb-1">Section 133: Discharge of Surety by Variance in Terms of Contract</h3>
+                  <h4 className="font-bold text-slate-900 text-xs sm:text-sm mb-1">Section 133: Discharge of Surety by Variance in Terms of Contract</h4>
                   <p className="text-xs text-slate-600">Under Section 133, any contract variance made without the surety&apos;s consent discharges the guarantor. This applies to subsequent transactions, including unilateral credit limit increases, restructuring terms, or revised loan tenure.</p>
                 </div>
                 <div className="p-3.5 bg-slate-50 border border-slate-200 rounded-xl">
-                  <h4 className="font-bold text-slate-900 text-xs sm:text-sm mb-1">Section 134: Discharge of Surety by Release or Discharge of Principal Debtor</h4>
+                  <h5 className="font-bold text-slate-900 text-xs sm:text-sm mb-1">Section 134: Discharge of Surety by Release or Discharge of Principal Debtor</h5>
                   <p className="text-xs text-slate-600">Under Section 134, the surety is discharged if the creditor releases the principal debtor. Any act or omission by the creditor that legally discharges the debtor also releases the guarantor completely.</p>
                 </div>
                 <div className="p-3.5 bg-slate-50 border border-slate-200 rounded-xl">
-                  <h4 className="font-bold text-slate-900 text-xs sm:text-sm mb-1">Section 135: Discharge by Composition, Extension of Time, or Agreement Not to Sue</h4>
+                  <h5 className="font-bold text-slate-900 text-xs sm:text-sm mb-1">Section 135: Discharge by Composition, Extension of Time, or Agreement Not to Sue</h5>
                   <p className="text-xs text-slate-600">Under Section 135, a composition contract between the creditor and debtor discharges the surety. If the bank promises extra time or agrees not to sue the debtor, the guarantor is discharged unless they expressly assent.</p>
                 </div>
                 <div className="p-3.5 bg-slate-50 border border-slate-200 rounded-xl">
-                  <h4 className="font-bold text-slate-900 text-xs sm:text-sm mb-1">Section 139: Discharge of Surety by Creditor Act or Omission Impairing Surety Remedy</h4>
-                  <p className="text-xs text-slate-600">If the creditor does any act which is inconsistent with the rights of the surety, or omits to do any act which his duty to the surety requires him to do. Additionally, the eventual remedy of the surety himself against the principal debtor is thereby impaired, the surety is discharged.</p>
+                  <h5 className="font-bold text-slate-900 text-xs sm:text-sm mb-1">Section 139: Discharge of Surety by Creditor Act or Omission Impairing Surety Remedy</h5>
+                  <p className="text-xs text-slate-600">If the creditor does any act which is inconsistent with the rights of the surety, or omits to do any act which his duty to the surety requires him to do. also, the eventual remedy of the surety himself against the principal debtor is thereby impaired, the surety is discharged.</p>
                 </div>
                 <div className="p-3.5 bg-slate-50 border border-slate-200 rounded-xl">
-                  <h4 className="font-bold text-slate-900 text-xs sm:text-sm mb-1">Section 140 &amp; 145: Right of Subrogation &amp; Implied Promise to Indemnify</h4>
+                  <h5 className="font-bold text-slate-900 text-xs sm:text-sm mb-1">Section 140 &amp; 145: Right of Subrogation &amp; Implied Promise to Indemnify</h5>
                   <p className="text-xs text-slate-600">Under Section 140, subrogation rights protect the guarantor. When a surety pays the guaranteed debt, they inherit all legal rights of the creditor. The guarantor can then recover that full payment from the principal debtor.</p>
                 </div>
               </div>
@@ -754,9 +754,9 @@ export default function GuarantorLiabilityPersonalLoanSettlementPage() {
 
             {/* Section 8: Sanction Letter Forensics, Dual NDC & CIBIL Care */}
             <section id="sanction-letter-forensics-dual-ndc" className="space-y-4">
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-bold text-slate-900 tracking-tight">
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-bold text-slate-900 tracking-tight">
                 8. Sanction Letter Forensics: Dual NDC &amp; CIBIL Rectification
-              </h2>
+              </h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Unrepresented settlements often lead to serious errors. A borrower settles an account, only for the bank to pursue the guarantor for residual balances or waived interest. Lenders rely on reservation clauses in boilerplate letters to preserve recovery avenues against co-signers. Professional legal drafting prevents this risk.
               </p>
@@ -788,9 +788,9 @@ export default function GuarantorLiabilityPersonalLoanSettlementPage() {
 
             {/* Section 9: Comparative Liability Matrix */}
             <section id="comparative-liability-matrix" className="space-y-4">
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-bold text-slate-900 tracking-tight">
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-bold text-slate-900 tracking-tight">
                 9. Legal Matrix: Borrower vs Co-Applicant vs Personal Guarantor
-              </h2>
+              </h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 The following comparative matrix outlines the jurisdictional liabilities, statutory exposure, and settlement protections across different borrower classifications in Indian retail lending:
               </p>
@@ -862,11 +862,11 @@ export default function GuarantorLiabilityPersonalLoanSettlementPage() {
             {/* Section 10: SettleLoans Family Legal Defense Framework + CompanySection */}
             <section id="settleloans-family-defense-framework" className="space-y-6">
               <div className="border-t border-slate-200 pt-8 space-y-4">
-                <h2 className="text-xl sm:text-2xl md:text-3xl font-bold text-slate-900 tracking-tight">
+                <h3 className="text-xl sm:text-2xl md:text-3xl font-bold text-slate-900 tracking-tight">
                   10. SettleLoans Family Defense Framework
-                </h2>
+                </h3>
                 <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
-                  Navigating institutional recovery aggressive outreach against aging parents, spouses, and family co-signers requires seasoned legal counsel who specialize in banking laws, the Indian Contract Act, and RBI fair practice guidelines. SettleLoans provides comprehensive legal defense for borrowers and guarantors across India. We halt recovery harassment through formal cease-and-desist notices and enforce protections under Sections 128 to 141. Furthermore, we negotiate directly with bank zonal committees. This secures maximum principal waivers and authentic No Dues Certificates that safeguard both PAN records.
+                  Navigating institutional recovery aggressive outreach against aging parents, spouses, and family co-signers requires seasoned legal counsel who specialize in banking laws, the Indian Contract Act, and RBI fair practice guidelines. SettleLoans provides comprehensive legal defense for borrowers and guarantors across India. We halt recovery harassment through formal cease-and-desist notices and enforce protections under Sections 128 to 141. also, we negotiate directly with bank zonal committees. This secures maximum principal waivers and authentic No Dues Certificates that safeguard both PAN records.
                 </p>
               </div>
 
@@ -878,9 +878,9 @@ export default function GuarantorLiabilityPersonalLoanSettlementPage() {
             <section id="faqs" className="space-y-4 border-t border-slate-200 pt-8">
               <div className="flex items-center gap-2 mb-2">
                 <HelpCircle className="w-5 h-5 text-[#1F5EFF]" />
-                <h2 className="text-xl sm:text-2xl md:text-3xl font-bold text-slate-900 tracking-tight">
+                <h3 className="text-xl sm:text-2xl md:text-3xl font-bold text-slate-900 tracking-tight">
                   11. FAQs: Guarantor &amp; Co-Applicant Loan Default Liability
-                </h2>
+                </h3>
               </div>
               <p className="text-xs sm:text-sm text-slate-600 mb-6">
                 Legally verified answers to essential questions regarding guarantor liability, Section 128 protections, recovery harassment of family members, and dual OTS settlements.
@@ -910,9 +910,9 @@ export default function GuarantorLiabilityPersonalLoanSettlementPage() {
 
             {/* 5 Official Regulatory Links */}
             <section className="border-t border-slate-200 pt-8 mb-4">
-              <h3 className="text-xs sm:text-sm font-bold text-slate-900 mb-3 uppercase tracking-wider">
+              <h4 className="text-xs sm:text-sm font-bold text-slate-900 mb-3 uppercase tracking-wider">
                 Official Statutory &amp; Regulatory References
-              </h3>
+              </h4>
               <div className="grid grid-cols-1 sm:grid-cols-2 gap-2.5 text-xs">
                 <a
                   href="https://www.sci.gov.in"
@@ -964,9 +964,9 @@ export default function GuarantorLiabilityPersonalLoanSettlementPage() {
 
             {/* 10 Related Guide Badges */}
             <section className="border-t border-slate-200 pt-8 mb-8">
-              <h3 className="text-xs sm:text-sm font-bold text-slate-900 mb-4 uppercase tracking-wider">
+              <h4 className="text-xs sm:text-sm font-bold text-slate-900 mb-4 uppercase tracking-wider">
                 Related Legal Defense &amp; Loan Resolution Guides
-              </h3>
+              </h4>
               <div className="flex flex-wrap gap-2">
                 <Link
                   href="/bank-recovery-harassment-complaint"

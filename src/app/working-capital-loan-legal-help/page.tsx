@@ -275,9 +275,9 @@ export default function WorkingCapitalLoanLegalHelpPage() {
                         </section>
 
                         <section id="legal-framework" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
                                 The Legal Framework of Working Capital Loans
-                            </h2>
+                            </h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 In the Indian legal landscape, working capital loans are governed by a combination of banking regulations, contract laws, and specialized recovery statutes. Understanding this framework is the first step toward effective defense. Unlike a simple personal loan, a working capital facility is often complex, involving hypothecation of stocks, book debts, and sometimes collective guarantees from directors.
                             </p>
@@ -288,7 +288,7 @@ export default function WorkingCapitalLoanLegalHelpPage() {
                                 Furthermore, the Reserve Bank of India (RBI) issues regular circulars and master directions that further refine how banks should handle stressed accounts. These directions are not just suggestions; they are binding rules that banks must follow. If a bank violates these prudential norms or fails to follow the prescribed procedure for recovery, it can provide significant legal leverage to the borrower. Expert legal help ensures that these nuances are identified and used to your advantage during negotiations or court proceedings.
                             </p>
                             <div className="bg-gray-50 p-8 rounded-xl border border-gray-200 mb-8">
-                                <h3 className="text-xl font-bold mb-6">Key Components of a Business Loan Agreement</h3>
+                                <h4 className="text-xl font-bold mb-6">Key Components of a Business Loan Agreement</h4>
                                 <p className="mb-4 text-sm text-gray-600">
                                     Your loan agreement is the bedrock of your legal relationship with the bank. Most business owners sign these voluminous documents without a thorough legal review, only to realize the implications when a dispute arises.
                                 </p>
@@ -325,9 +325,9 @@ export default function WorkingCapitalLoanLegalHelpPage() {
                         </section>
 
                         <section id="common-disputes" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
                                 Common Business Loan Disputes and How to Handle Them
-                            </h2>
+                            </h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 Disputes between a business and its bank often start over technical issues rather than outright defaults. For example, a bank might suddenly reduce your drawing power based on an updated stock audit that you find unfair. Or there might be a disagreement over the valuation of your immovable property that serves as collateral. These technical disputes, if left unaddressed, can escalate into full scale legal battles.
                             </p>
@@ -338,7 +338,7 @@ export default function WorkingCapitalLoanLegalHelpPage() {
                                 When you are in a dispute, document everything. Keep records of all emails, letters, and even summaries of phone conversations with your bank manager. These records form the evidence that your legal team will use to build your case. Remember, in legal matters, what you can prove is just as important as the truth. A proactive approach to documentation can often settle a dispute before it ever reaches a tribunal.
                             </p>
                             <div className="bg-blue-50 p-8 rounded-xl border border-blue-200 mb-8">
-                                <h3 className="text-xl font-bold mb-4 text-blue-900">Understanding 'Drawing Power' Disputes</h3>
+                                <h4 className="text-xl font-bold mb-4 text-blue-900">Understanding 'Drawing Power' Disputes</h4>
                                 <p className="text-sm text-blue-800 leading-relaxed mb-4">
                                     Drawing Power (DP) is the actual amount you can withdraw from your sanctioned limit, based on the value of your current assets (stocks and debtors). Banks often use third party auditors to verify these values.
                                 </p>
@@ -351,28 +351,28 @@ export default function WorkingCapitalLoanLegalHelpPage() {
                                     <div className="w-12 h-12 bg-blue-100 rounded-full flex items-center justify-center mx-auto mb-4">
                                         <svg className="w-6 h-6 text-blue-600" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M12 8c-1.657 0-3 .895-3 2s1.343 2 3 2 3 .895 3 2-1.343 2-3 2m0-8c1.11 0 2.08.402 2.599 1M12 8V7m0 1v8m0 0v1m0-1c-1.11 0-2.08-.402-2.599-1M21 12a9 9 0 11-18 0 9 9 0 0118 0z"></path></svg>
                                     </div>
-                                    <h4 className="font-bold text-[#2E2E2E] mb-2">Interest Rate Variances</h4>
+                                    <h5 className="font-bold text-[#2E2E2E] mb-2">Interest Rate Variances</h5>
                                     <p className="text-xs text-gray-500">Challenging unfair interest hikes that violate the original contract.</p>
                                 </div>
                                 <div className="bg-white p-5 rounded-xl border border-[#DEDEDE] shadow-sm text-center">
                                     <div className="w-12 h-12 bg-green-100 rounded-full flex items-center justify-center mx-auto mb-4">
                                         <svg className="w-6 h-6 text-green-600" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M9 12l2 2 4-4m5.618-4.016A11.955 11.955 0 0112 2.944a11.955 11.955 0 01-8.618 3.04A12.02 12.02 0 003 9c0 5.591 3.824 10.29 9 11.622 5.176-1.332 9-6.03 9-11.622 0-1.042-.133-2.052-.382-3.016z"></path></svg>
                                     </div>
-                                    <h4 className="font-bold text-[#2E2E2E] mb-2">Collateral Valuation</h4>
+                                    <h5 className="font-bold text-[#2E2E2E] mb-2">Collateral Valuation</h5>
                                     <p className="text-xs text-gray-500">Defending against undervalued property assessments by bank auditors.</p>
                                 </div>
                                 <div className="bg-white p-5 rounded-xl border border-[#DEDEDE] shadow-sm text-center">
                                     <div className="w-12 h-12 bg-purple-100 rounded-full flex items-center justify-center mx-auto mb-4">
                                         <svg className="w-6 h-6 text-purple-600" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M13 10V3L4 14h7v7l9-11h-7z"></path></svg>
                                     </div>
-                                    <h4 className="font-bold text-[#2E2E2E] mb-2">Personal Liabilities</h4>
+                                    <h5 className="font-bold text-[#2E2E2E] mb-2">Personal Liabilities</h5>
                                     <p className="text-xs text-gray-500">Separating business entity debts from individual assets of directors.</p>
                                 </div>
                             </div>
                         </section>
 
                         <section id="recovery-guidelines" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">RBI Guidelines: Your Protection Against Harassment</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">RBI Guidelines: Your Protection Against Harassment</h3>
                             <div className="bg-white p-8 rounded-2xl border border-[#DEDEDE] shadow-sm">
                                 <p className="mb-4">
                                     The Reserve Bank of India has clear and strict guidelines regarding the conduct of recovery agents. These guidelines are designed to ensure that even a defaulting borrower is treated with dignity and fairness. For a business owner, these rules are a critical line of defense. Harassment can disrupt your family life and your ability to focus on reviving your business, and the law does not permit it.
@@ -391,19 +391,19 @@ export default function WorkingCapitalLoanLegalHelpPage() {
                         </section>
 
                         <section id="sarfaesi-act" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">SARFAESI Act: Understanding the Bank's Power</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">SARFAESI Act: Understanding the Bank's Power</h3>
                             <p className="mb-6">
                                 The SARFAESI Act, 2002, is the most common legal route for banks to recover secured working capital loans. It allows banks to take possession of and sell collateral assets without the direct intervention of a court. This is why it is often feared by business owners. However, the Act also provides specific procedural safeguards for the borrower that must be strictly followed by the bank.
                             </p>
                             <div className="grid md:grid-cols-2 gap-6 mb-8">
                                 <div className="bg-orange-50/50 p-6 rounded-xl border border-orange-100">
-                                    <h3 className="text-xl font-bold text-orange-800 mb-3">The 13(2) Notice</h3>
+                                    <h4 className="text-xl font-bold text-orange-800 mb-3">The 13(2) Notice</h4>
                                     <p className="text-sm text-orange-900/80 leading-relaxed">
                                         This is the first formal step. The bank must give you 60 days to clear your dues. You have the legal right to send a 'Representation or Objection' to this notice. The bank is legally bound to reply to your objections within 15 days, explaining why they are accepting or rejecting your points.
                                     </p>
                                 </div>
                                 <div className="bg-blue-50/50 p-6 rounded-xl border border-blue-100">
-                                    <h3 className="text-xl font-bold text-blue-800 mb-3">The 13(4) Notice</h3>
+                                    <h4 className="text-xl font-bold text-blue-800 mb-3">The 13(4) Notice</h4>
                                     <p className="text-sm text-blue-900/80 leading-relaxed">
                                         If you do not pay within the 60 day period, the bank can issue a possession notice. At this stage, you have the right to file a Securitization Application (SA) before the Debt Recovery Tribunal (DRT) to challenge the bank's action and seek a stay on the possession.
                                     </p>
@@ -415,7 +415,7 @@ export default function WorkingCapitalLoanLegalHelpPage() {
                         </section>
 
                         <section id="defending-machinery" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Protecting Your Machinery and Business Assets</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Protecting Your Machinery and Business Assets</h3>
                             <p className="mb-6">
                                 For a manufacturing unit, machinery is the most vital asset. If a bank takes possession of your machines, the business effectively stops, making it impossible for you to earn and repay the debt. This is why defending your manufacturing assets is our highest priority. The law recognizes that a business must be given a fair chance to survive.
                             </p>
@@ -428,7 +428,7 @@ export default function WorkingCapitalLoanLegalHelpPage() {
                         </section>
 
                         <section id="bank-negotiations" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Strategies for Successful Bank Negotiations</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Strategies for Successful Bank Negotiations</h3>
                             <p className="mb-6">
                                 Negotiating with a bank is not just about pleading for mercy; it is about presenting a solid business and legal case. Banks are commercial institutions, and their primary goal is to recover as much money as possible in the shortest amount of time. If you can show them that a settlement or a restructuring is more profitable for them than a long legal battle, they will be much more willing to listen.
                             </p>
@@ -461,12 +461,12 @@ export default function WorkingCapitalLoanLegalHelpPage() {
                         </section>
 
                         <section id="ots-process" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">One Time Settlement (OTS): The Final Solution</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">One Time Settlement (OTS): The Final Solution</h3>
                             <p className="mb-6 text-red-600 font-bold">
                                 An OTS is a final compromise where the bank agrees to accept a lump sum payment that is less than the total outstanding amount to close the account permanently.
                             </p>
                             <div className="bg-red-50 border-l-4 border-red-500 p-8 rounded-r-xl mb-8">
-                                <h3 className="text-xl font-bold text-red-800 mb-4">Steps to a Successful OTS</h3>
+                                <h4 className="text-xl font-bold text-red-800 mb-4">Steps to a Successful OTS</h4>
                                 <ul className="space-y-3 text-red-900/80">
                                     <li>• <strong>Assessment:</strong> Determine the maximum lump sum you can realistically arrange. This might come from selling non-essential assets or from family funds.</li>
                                     <li>• <strong>Formal Proposal:</strong> Draft a detailed OTS proposal letter explaining the reasons for your financial hardship and offering the lump sum.</li>
@@ -480,19 +480,19 @@ export default function WorkingCapitalLoanLegalHelpPage() {
                         </section>
 
                         <section id="restructuring-options" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Restructuring vs Settlement: Which is Right for You?</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Restructuring vs Settlement: Which is Right for You?</h3>
                             <p className="mb-6">
                                 For a business that has solid future potential but is currently facing a liquidity crunch, restructuring is often a better option than a full settlement. Restructuring allows you to keep your credit line open and maintain your relationship with the bank, whereas a settlement usually ends the relationship and impacts your credit score.
                             </p>
                             <div className="space-y-8">
                                 <div className="bg-white p-8 rounded-2xl border border-blue-100 shadow-sm">
-                                    <h3 className="text-2xl font-bold text-blue-600 mb-4">Loan Tenure Extension</h3>
+                                    <h4 className="text-2xl font-bold text-blue-600 mb-4">Loan Tenure Extension</h4>
                                     <p className="mb-4">
                                         Extending the period over which the loan must be repaid can significantly reduce your monthly EMI burden, improving your daily cash flow. This is a common strategy for term loans used in business expansion.
                                     </p>
                                 </div>
                                 <div className="bg-white p-8 rounded-2xl border border-purple-100 shadow-sm">
-                                    <h3 className="text-2xl font-bold text-purple-600 mb-4">FITL (Funding Interest Term Loan)</h3>
+                                    <h4 className="text-2xl font-bold text-purple-600 mb-4">FITL (Funding Interest Term Loan)</h4>
                                     <p className="mb-4">
                                         If you are unable to pay the interest on your working capital limits, the bank can sometimes 'capitalize' this interest by turning it into a separate term loan (FITL). This gives you a moratorium period during which you don't have to pay the interest, allowing you to focus on reviving your operations.
                                     </p>
@@ -501,12 +501,12 @@ export default function WorkingCapitalLoanLegalHelpPage() {
                         </section>
 
                         <section id="drt-procedures" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">DRT Procedures: The Battleground for Large Loans</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">DRT Procedures: The Battleground for Large Loans</h3>
                             <p className="mb-6 text-lg">
                                 The Debt Recovery Tribunal (DRT) is where the most significant legal battles for business loans take place. If your loan is above 20 lakh rupees, the bank will likely file an Original Application (OA) in the DRT for recovery. Conversely, you can file a Securitization Application (SA) to challenge their SARFAESI actions.
                             </p>
                             <div className="bg-emerald-50 p-8 rounded-2xl border border-emerald-100 mb-8">
-                                <h3 className="text-xl font-bold text-emerald-800 mb-4">Winning in the DRT</h3>
+                                <h4 className="text-xl font-bold text-emerald-800 mb-4">Winning in the DRT</h4>
                                 <p className="mb-4 text-emerald-900/80">
                                     The DRT is a specialized court, and the procedures are fast paced. Success in the DRT requires a combination of strong legal arguments and accurate financial data. Our legal team specializes in finding the technical errors in bank petitions that can lead to stays or even the dismissal of recovery attempts.
                                 </p>
@@ -517,19 +517,19 @@ export default function WorkingCapitalLoanLegalHelpPage() {
                         </section>
 
                         <section id="msme-protections" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Special Legal Protections for MSMEs</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Special Legal Protections for MSMEs</h3>
                             <p className="mb-6 text-lg">
                                 The Government of India and the RBI have introduced several special protections for Micro, Small, and Medium Enterprises (MSMEs). These businesses are the backbone of our economy, and the laws are designed to prevent their unnecessary closure due to temporary financial distress.
                             </p>
                             <div className="grid md:grid-cols-2 gap-8 mb-8">
                                 <div className="bg-white p-6 rounded-xl border border-gray-100 shadow-sm">
-                                    <h3 className="text-xl font-bold mb-4">MSME Development Act, 2006</h3>
+                                    <h4 className="text-xl font-bold mb-4">MSME Development Act, 2006</h4>
                                     <p className="text-sm text-gray-600 leading-relaxed mb-4">
                                         One of the biggest issues for MSMEs is delayed payments from large buyers. The MSME Act provides a mechanism for receiving interest on delayed payments. This 'MSME Samadhaan' portal can be used to recover funds from your debtors, which can then be used to pay off your working capital loans.
                                     </p>
                                 </div>
                                 <div className="bg-white p-6 rounded-xl border border-gray-100 shadow-sm">
-                                    <h3 className="text-xl font-bold mb-4">Restructuring Framework for MSMEs</h3>
+                                    <h4 className="text-xl font-bold mb-4">Restructuring Framework for MSMEs</h4>
                                     <p className="text-sm text-gray-600 leading-relaxed mb-4">
                                         The RBI has a special framework that allows banks to restructure MSME loans without classifying them as NPAs, provided the business is viable. This is a massive legal advantage that is often underutilized by business owners who are unaware of these provisions.
                                     </p>
@@ -538,12 +538,12 @@ export default function WorkingCapitalLoanLegalHelpPage() {
                         </section>
 
                         <section id="legal-notice-reply" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">How to Reply to a Bank Legal Notice</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">How to Reply to a Bank Legal Notice</h3>
                             <p className="mb-6 text-lg">
                                 Receiving a legal notice can be intimidating, but it is actually your first real opportunity to present your side of the story. A well-drafted reply can set the stage for a settlement and can even discourage the bank from taking further legal action.
                             </p>
                             <div className="bg-blue-50 p-8 rounded-2xl border border-blue-100 mb-8">
-                                <h3 className="text-2xl font-black text-[#2E2E2E] mb-6">Dos and Don'ts of Replying</h3>
+                                <h4 className="text-2xl font-black text-[#2E2E2E] mb-6">Dos and Don'ts of Replying</h4>
                                 <div className="space-y-4">
                                     <div className="bg-white p-4 rounded-lg flex items-center justify-between">
                                         <span className="font-bold">Always Reply on Time</span>
@@ -565,12 +565,12 @@ export default function WorkingCapitalLoanLegalHelpPage() {
                         </section>
 
                         <section id="avoiding-insolvency" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Avoiding Corporate Insolvency (NCLT)</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Avoiding Corporate Insolvency (NCLT)</h3>
                             <p className="mb-6">
                                 For Private Limited companies, the threat of an Insolvency petition in the NCLT is the ultimate legal challenge. If a creditor (like a bank or even a supplier) files for insolvency and it is admitted, you could lose control of your company to a Resolution Professional (RP). This is a situation that must be avoided at all costs.
                             </p>
                             <div className="bg-[#2E2E2E] text-white p-8 rounded-2xl mb-8">
-                                <h3 className="text-2xl font-bold mb-4">Strategic Defense Against Insolvency</h3>
+                                <h4 className="text-2xl font-bold mb-4">Strategic Defense Against Insolvency</h4>
                                 <p className="mb-4 opacity-80">
                                     The law provides several defenses against insolvency petitions. For example, if there is a 'pre-existing dispute' regarding the debt, the NCLT can dismiss the petition. Similarly, for MSMEs, there are higher thresholds for filing insolvency. Our legal experts are well-versed in NCLT procedures and act quickly to file objections and seek mediations that protect your corporate identity.
                                 </p>
@@ -578,12 +578,12 @@ export default function WorkingCapitalLoanLegalHelpPage() {
                         </section>
 
                         <section id="settleloans-expertise" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">How SettleLoans Protects Your Business</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">How SettleLoans Protects Your Business</h3>
                             <p className="mb-6">
                                 SettleLoans is not just a consultancy; we are your strategic partners in crisis management. We understand that as a business owner, your time is best spent on reviving your operations, not on fighting with bank managers or recovery agents. When you engage us, we become your professional shield. We handle the technicalities, the negotiations, and the legal defense, allowing you to focus on what you do best: running your business.
                             </p>
                             <div className="bg-[#2E2E2E] text-white p-8 rounded-2xl mb-8">
-                                <h3 className="text-2xl font-bold mb-4">Our Comprehensive Support System</h3>
+                                <h4 className="text-2xl font-bold mb-4">Our Comprehensive Support System</h4>
                                 <ul className="space-y-3 text-sm opacity-90">
                                     <li className="flex items-center gap-2">✓ Stop recovery agent harassment immediately through formal legal intervention.</li>
                                     <li className="flex items-center gap-2">✓ Professional replies to all bank notices, including Section 13(2) and Section 13(4) notices.</li>
@@ -595,7 +595,7 @@ export default function WorkingCapitalLoanLegalHelpPage() {
                         </section>
 
                         <section id="client-testimonials" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 text-center">Business Owners Who Found Freedom</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 text-center">Business Owners Who Found Freedom</h3>
                             <div className="grid md:grid-cols-2 gap-6 not-prose">
                                 {[
                                     {
@@ -633,7 +633,7 @@ export default function WorkingCapitalLoanLegalHelpPage() {
                                                 {review.name.charAt(0)}
                                             </div>
                                             <div>
-                                                <h3 className="font-bold text-[#2E2E2E]">{review.name}</h3>
+                                                <h4 className="font-bold text-[#2E2E2E]">{review.name}</h4>
                                                 <p className="text-xs text-gray-400">{review.loc}</p>
                                             </div>
                                             <div className="ml-auto text-yellow-400 text-sm">★★★★★</div>
@@ -648,7 +648,7 @@ export default function WorkingCapitalLoanLegalHelpPage() {
                         </section>
 
                         <section id="faqs" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Frequently Asked Questions</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Frequently Asked Questions</h3>
                             <div className="space-y-4 not-prose">
                                 {[
                                     { q: "What is an overdrawn working capital account?", a: "An account is overdrawn when the balance exceeds the sanctioned limit or the drawing power. This usually happens when your stock levels fall or when interest is debited but not serviced." },
@@ -687,7 +687,7 @@ export default function WorkingCapitalLoanLegalHelpPage() {
                         <div className="lg:hidden mt-16 mb-8">
                             <div className="bg-[#2E2E2E] rounded-2xl shadow-xl overflow-hidden border border-[#1F5EFF]/20">
                                 <div className="bg-[#1F5EFF] p-6 text-center text-white">
-                                    <h3 className="text-2xl font-black mb-2">Save Your Business Today</h3>
+                                    <h4 className="text-2xl font-black mb-2">Save Your Business Today</h4>
                                     <p className="opacity-90 text-sm">Expert legal representation to stop recovery harassment and settle your business loans.</p>
                                 </div>
                                 <div className="p-8 text-center text-[#DEDEDE]">

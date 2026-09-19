@@ -280,7 +280,7 @@ export default function BankLoanSettlementGuidelinesPage() {
                         </section>
 
                         <section id="rbi-guidelines" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">RBI Rules for Loan Settlement: The 2024 Framework</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">RBI Rules for Loan Settlement: The 2024 Framework</h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 The Reserve Bank of India (RBI) has always emphasized the need for a fair and transparent debt resolution mechanism that balances the interests of both the lender and the borrower. In 2023 and early 2024, the RBI introduced several landmark circulars that have fundamentally reshaped how banks and Non-Banking Financial Companies (NBFCs) handle loan defaults and compromise settlements.
                             </p>
@@ -289,7 +289,7 @@ export default function BankLoanSettlementGuidelinesPage() {
                             </p>
                             <div className="space-y-6 mb-10">
                                 <div className="p-8 bg-gray-50 border-l-8 border-[#1F5EFF] rounded-r-2xl shadow-sm">
-                                    <h3 className="font-bold text-2xl mb-4 text-[#2E2E2E]">Transparency and Disclosure Requirements</h3>
+                                    <h4 className="font-bold text-2xl mb-4 text-[#2E2E2E]">Transparency and Disclosure Requirements</h4>
                                     <p className="text-base text-gray-700 leading-relaxed mb-4">
                                         Banks are now strictly required to be more transparent about the settlement process. They cannot simply offer a deal and hide the long-term consequences. Under the new rules, banks must inform the borrower in writing about the consequences of settlement, particularly the impact on their credit report. 
                                     </p>
@@ -298,7 +298,7 @@ export default function BankLoanSettlementGuidelinesPage() {
                                     </p>
                                 </div>
                                 <div className="p-8 bg-gray-50 border-l-8 border-[#1F5EFF] rounded-r-2xl shadow-sm">
-                                    <h4 className="font-bold text-2xl mb-4 text-[#2E2E2E]">Fair Recovery Practices and Agent Conduct</h4>
+                                    <h5 className="font-bold text-2xl mb-4 text-[#2E2E2E]">Fair Recovery Practices and Agent Conduct</h5>
                                     <p className="text-base text-gray-700 leading-relaxed mb-4">
                                         The RBI has intensified its crackdown on illegal recovery tactics. The August 2022 and later 2023 circulars on "Outsourcing of Financial Services" and "Recovery Agents" mandate that banks are responsible for the actions of their third-party agents. 
                                     </p>
@@ -307,7 +307,7 @@ export default function BankLoanSettlementGuidelinesPage() {
                                     </p>
                                 </div>
                                 <div className="p-8 bg-gray-50 border-l-8 border-[#1F5EFF] rounded-r-2xl shadow-sm">
-                                    <h4 className="font-bold text-2xl mb-4 text-[#2E2E2E]">One-Time Settlement (OTS) Schemes for MSMEs</h4>
+                                    <h5 className="font-bold text-2xl mb-4 text-[#2E2E2E]">One-Time Settlement (OTS) Schemes for MSMEs</h5>
                                     <p className="text-base text-gray-700 leading-relaxed mb-4">
                                         For small businesses and individual borrowers, the RBI has encouraged banks to launch periodic OTS schemes. These schemes are designed to clean up the bank's non-performing asset (NPA) portfolio while providing a "clean break" for the borrower. 
                                     </p>
@@ -322,17 +322,17 @@ export default function BankLoanSettlementGuidelinesPage() {
                         </section>
 
                         <section id="settlement-process" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">The Bank Loan Settlement Process: A Detailed Step-by-Step Guide</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">The Bank Loan Settlement Process: A Detailed Step-by-Step Guide</h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 Successfully navigating a settlement requires a high degree of patience, documentation, and a strategic mindset. It is not a quick fix but a process that can take several months. Here is a granular breakdown of how the process typically unfolds in the Indian banking system in 2024.
                             </p>
                             <div className="bg-[#1F5EFF]/5 p-8 rounded-3xl border border-[#1F5EFF]/20 mb-10">
-                                <h3 className="text-2xl font-black text-[#2E2E2E] mb-6 text-center">The Professional Path to Debt Resolution</h3>
+                                <h4 className="text-2xl font-black text-[#2E2E2E] mb-6 text-center">The Professional Path to Debt Resolution</h4>
                                 <ol className="space-y-8 text-base font-medium">
                                     <li className="flex items-start gap-4">
                                         <span className="w-12 h-12 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center text-xl font-bold flex-shrink-0 mt-1 shadow-lg">1</span>
                                         <div>
-                                            <h4 className="text-xl font-bold mb-2">Account Classification (NPA Status)</h4>
+                                            <h5 className="text-xl font-bold mb-2">Account Classification (NPA Status)</h5>
                                             <p className="text-gray-600 mb-2">The process technically begins when you miss three consecutive EMIs (90 days past due). At this point, the account is classified as a Non-Performing Asset (NPA) according to RBI norms. </p>
                                             <p className="text-sm text-gray-500 italic">Pro Tip: Banks rarely entertain settlement requests for "Standard" accounts. They wait for the account to become "Sub-standard" or "Doubtful" before the recovery department takes over from the collections department.</p>
                                         </div>
@@ -340,7 +340,7 @@ export default function BankLoanSettlementGuidelinesPage() {
                                     <li className="flex items-start gap-4">
                                         <span className="w-12 h-12 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center text-xl font-bold flex-shrink-0 mt-1 shadow-lg">2</span>
                                         <div>
-                                            <h5 className="text-xl font-bold mb-2">Drafting the Hardship Letter</h5>
+                                            <h6 className="text-xl font-bold mb-2">Drafting the Hardship Letter</h6>
                                             <p className="text-gray-600 mb-2">You must proactively reach out to the bank's Nodal Officer or the Branch Manager with a formal "Hardship Letter." This letter should clearly state the reasons for your financial distress, be it a layoff, medical emergency, or business failure. </p>
                                             <p className="text-sm text-gray-500">Crucially, you must attach supporting documents like termination letters, hospital bills, or audited balance sheets showing losses. This establishes your *bona fide* intention to resolve the debt despite your lack of capacity to pay in full.</p>
                                         </div>
@@ -348,7 +348,7 @@ export default function BankLoanSettlementGuidelinesPage() {
                                     <li className="flex items-start gap-4">
                                         <span className="w-12 h-12 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center text-xl font-bold flex-shrink-0 mt-1 shadow-lg">3</span>
                                         <div>
-                                            <h5 className="text-xl font-bold mb-2">The Negotiation Phase</h5>
+                                            <h6 className="text-xl font-bold mb-2">The Negotiation Phase</h6>
                                             <p className="text-gray-600 mb-2">The bank will initially demand the full outstanding amount, including accrued interest and hefty penalties. You must counter-offer with a lump sum amount that you can realistically raise. </p>
                                             <p className="text-sm text-gray-500">Expect multiple rounds of back-and-forth. The bank will look at your bank statements for the last six months to see if you have hidden funds. A professional negotiator can help you highlight the "uncollectability" of the debt to push for a higher discount.</p>
                                         </div>
@@ -356,7 +356,7 @@ export default function BankLoanSettlementGuidelinesPage() {
                                     <li className="flex items-start gap-4">
                                         <span className="w-12 h-12 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center text-xl font-bold flex-shrink-0 mt-1 shadow-lg">4</span>
                                         <div>
-                                            <h5 className="text-xl font-bold mb-2">The Final Settlement Letter (The Holy Grail)</h5>
+                                            <h6 className="text-xl font-bold mb-2">The Final Settlement Letter (The Holy Grail)</h6>
                                             <p className="text-gray-600 mb-2">Once an agreement is reached, the bank must issue a formal "Settlement Sanction Letter." This document is your only legal protection. </p>
                                             <p className="text-sm text-gray-500">It must be on the bank's official letterhead, signed by an authorized officer, and must clearly state the settled amount, the payment schedule (lump sum or installments), and a specific clause stating that "upon payment, the account will be closed and all legal proceedings withdrawn."</p>
                                         </div>
@@ -364,7 +364,7 @@ export default function BankLoanSettlementGuidelinesPage() {
                                     <li className="flex items-start gap-4">
                                         <span className="w-12 h-12 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center text-xl font-bold flex-shrink-0 mt-1 shadow-lg">5</span>
                                         <div>
-                                            <h5 className="text-xl font-bold mb-2">Execution and No Dues Certificate</h5>
+                                            <h6 className="text-xl font-bold mb-2">Execution and No Dues Certificate</h6>
                                             <p className="text-gray-600 mb-2">Make the payment exactly as per the letter's instructions. Use traceable methods like NEFT or Demand Draft. Once the payment is cleared, the bank is obligated to issue a 'No Dues Certificate' (NDC) within 15 to 30 days. </p>
                                             <p className="text-sm text-gray-500">You must also ensure the bank updates the credit bureaus (CIBIL) with the "Settled" status within the next 45 days. This is the final step in your debt resolution journey.</p>
                                         </div>
@@ -377,14 +377,14 @@ export default function BankLoanSettlementGuidelinesPage() {
                         </section>
 
                         <section id="ots-vs-structured" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">One-Time Settlement (OTS) vs Structured Installment Plans</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">One-Time Settlement (OTS) vs Structured Installment Plans</h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 Not all settlements are created equal. The strategy you choose depends on your immediate liquidity, your long-term financial goals, and the bank's willingness to wait. In 2024, banks are increasingly flexible but remain driven by their quarterly NPA targets.
                             </p>
                             <div className="grid md:grid-cols-2 gap-8 mb-10">
                                 <div className="p-8 bg-white border border-[#DEDEDE] rounded-2xl shadow-sm hover:shadow-md transition-all relative overflow-hidden group">
                                     <div className="absolute top-0 right-0 p-4 bg-[#1F5EFF] text-white text-xs font-bold uppercase tracking-widest rounded-bl-xl opacity-0 group-hover:opacity-100 transition-opacity">Best Discount</div>
-                                    <h3 className="font-bold text-2xl mb-4 text-[#1F5EFF]">One-Time Settlement (OTS)</h3>
+                                    <h4 className="font-bold text-2xl mb-4 text-[#1F5EFF]">One-Time Settlement (OTS)</h4>
                                     <p className="text-base text-gray-700 leading-relaxed mb-6">
                                         This is the gold standard for debt resolution. You pay the entire agreed-upon amount in a single payment, usually within 15 to 30 days of the sanction letter. 
                                     </p>
@@ -398,7 +398,7 @@ export default function BankLoanSettlementGuidelinesPage() {
                                     </ul>
                                 </div>
                                 <div className="p-8 bg-white border border-[#DEDEDE] rounded-2xl shadow-sm hover:shadow-md transition-all group">
-                                    <h4 className="font-bold text-2xl mb-4 text-[#1F5EFF]">Structured Settlement Plans</h4>
+                                    <h5 className="font-bold text-2xl mb-4 text-[#1F5EFF]">Structured Settlement Plans</h5>
                                     <p className="text-base text-gray-700 leading-relaxed mb-6">
                                         If you cannot raise a large sum of money instantly, you can negotiate a plan where the settled amount is paid over 3 to 6 installments. This is common for business loans where cash flow is tight.
                                     </p>
@@ -418,7 +418,7 @@ export default function BankLoanSettlementGuidelinesPage() {
                         </section>
 
                         <section id="cibil-impact" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">The Impact of Settlement on Your CIBIL Score and Credit Future</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">The Impact of Settlement on Your CIBIL Score and Credit Future</h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 This is perhaps the most misunderstood aspect of loan settlement. While the immediate stress of debt disappears, the footprints on your credit report remain for a long time. It is crucial to understand exactly what happens to your data after the "No Dues Certificate" is issued.
                             </p>
@@ -426,7 +426,7 @@ export default function BankLoanSettlementGuidelinesPage() {
                                 When a loan is settled, the lender reports the status as "Settled" to all four credit bureaus in India (CIBIL, Experian, Equifax, and CRIF High Mark). In credit terminology, this is vastly different from "Closed." A "Closed" status means you paid the debt as per the contract. A "Settled" status means the lender had to take a loss to close the account.
                             </p>
                             <div className="bg-yellow-50 p-10 rounded-3xl border-2 border-yellow-200 my-8 shadow-inner">
-                                <h3 className="font-bold text-yellow-900 mb-6 text-2xl text-center uppercase tracking-wider">The "Settled" Status Anatomy</h3>
+                                <h4 className="font-bold text-yellow-900 mb-6 text-2xl text-center uppercase tracking-wider">The "Settled" Status Anatomy</h4>
                                 <ul className="space-y-6 text-base text-yellow-800 font-medium">
                                     <li className="flex items-start gap-4">
                                         <div className="w-8 h-8 rounded-full bg-yellow-200 flex items-center justify-center flex-shrink-0 mt-1">📉</div>
@@ -455,29 +455,29 @@ export default function BankLoanSettlementGuidelinesPage() {
                         </section>
 
                         <section id="borrower-rights" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">Knowing Your Legal Rights: The Borrower's Bill of Rights</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">Knowing Your Legal Rights: The Borrower's Bill of Rights</h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 Being in financial distress does not mean you are a criminal. The Indian legal system, through the RBI Fair Practices Code and the Banking Ombudsman Scheme, provides robust protections for borrowers. Knowing these rights is your best defense against bullying by banks and recovery agencies.
                             </p>
                             <div className="grid md:grid-cols-2 gap-6 mb-10">
                                 <div className="p-8 bg-white border border-[#DEDEDE] rounded-2xl shadow-sm flex flex-col gap-4 hover:border-[#1F5EFF] transition-colors">
                                     <div className="w-12 h-12 bg-blue-50 text-[#1F5EFF] rounded-xl flex items-center justify-center text-2xl">🛡️</div>
-                                    <h3 className="font-bold text-xl mb-1">Right to Privacy and Dignity</h3>
+                                    <h4 className="font-bold text-xl mb-1">Right to Privacy and Dignity</h4>
                                     <p className="text-sm text-gray-600 leading-relaxed">Banks cannot disclose your debt status to your neighbors, friends, or employer. They cannot shame you on social media. They can only contact the "References" provided in the loan application for the purpose of locating you, not for recovery purposes.</p>
                                 </div>
                                 <div className="p-8 bg-white border border-[#DEDEDE] rounded-2xl shadow-sm flex flex-col gap-4 hover:border-[#1F5EFF] transition-colors">
                                     <div className="w-12 h-12 bg-blue-50 text-[#1F5EFF] rounded-xl flex items-center justify-center text-2xl">📝</div>
-                                    <h4 className="font-bold text-xl mb-1">Right to Clear Documentation</h4>
+                                    <h5 className="font-bold text-xl mb-1">Right to Clear Documentation</h5>
                                     <p className="text-sm text-gray-600 leading-relaxed">You are entitled to a detailed "Statement of Account" at any time. This statement should clearly break down the principal, the interest, the penal interest, and any other charges. If you find hidden or "interest on interest" charges, you can challenge them legally.</p>
                                 </div>
                                 <div className="p-8 bg-white border border-[#DEDEDE] rounded-2xl shadow-sm flex flex-col gap-4 hover:border-[#1F5EFF] transition-colors">
                                     <div className="w-12 h-12 bg-blue-50 text-[#1F5EFF] rounded-xl flex items-center justify-center text-2xl">⚖️</div>
-                                    <h5 className="font-bold text-xl mb-1">Right to Appeal (Ombudsman)</h5>
+                                    <h6 className="font-bold text-xl mb-1">Right to Appeal (Ombudsman)</h6>
                                     <p className="text-sm text-gray-600 leading-relaxed">If you feel the bank is acting unfairly, such as refusing to issue an NDC after payment or using illegal recovery agents, you can file a complaint on the RBI's CMS (Complaint Management System) portal. This is a free and effective way to get justice.</p>
                                 </div>
                                 <div className="p-8 bg-white border border-[#DEDEDE] rounded-2xl shadow-sm flex flex-col gap-4 hover:border-[#1F5EFF] transition-colors">
                                     <div className="w-12 h-12 bg-blue-50 text-[#1F5EFF] rounded-xl flex items-center justify-center text-2xl">🛑</div>
-                                    <h5 className="font-bold text-xl mb-1">Right to Stop Harassment</h5>
+                                    <h6 className="font-bold text-xl mb-1">Right to Stop Harassment</h6>
                                     <p className="text-sm text-gray-600 leading-relaxed">You have the right to request the bank to stop calling you if you have already provided a response or if you are in a negotiation process. If the harassment continues despite your cooperation, it is a direct violation of RBI guidelines.</p>
                                 </div>
                             </div>
@@ -487,7 +487,7 @@ export default function BankLoanSettlementGuidelinesPage() {
                         </section>
 
                         <section id="secured-vs-unsecured" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">Secured vs Unsecured Loan Settlement: Strategy Differences</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">Secured vs Unsecured Loan Settlement: Strategy Differences</h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 The dynamics of negotiation change drastically depending on whether the bank holds collateral. While unsecured loans are purely about the bank's ability to "scare" you, secured loans are about their ability to "seize" your assets.
                             </p>
@@ -533,12 +533,12 @@ export default function BankLoanSettlementGuidelinesPage() {
                         </section>
 
                         <section id="professional-help" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">The Role of Professional Debt Resolution Experts</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">The Role of Professional Debt Resolution Experts</h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 Negotiating with a multi-billion dollar bank when you are at your lowest point can feel like David vs. Goliath. Professional debt resolution firms like SettleLoans act as your "Legal and Strategic Shield." We don't just talk to the bank; we analyze the situation from a forensic and legal perspective.
                             </p>
                             <div className="bg-blue-50 p-10 rounded-3xl border border-blue-100 my-8">
-                                <h3 className="text-2xl font-black text-[#2E2E2E] mb-6">What SettleLoans Does for You:</h3>
+                                <h4 className="text-2xl font-black text-[#2E2E2E] mb-6">What SettleLoans Does for You:</h4>
                                 <ul className="space-y-6">
                                     <li className="flex items-start gap-4">
                                         <div className="w-10 h-10 bg-[#1F5EFF] text-white rounded-full flex items-center justify-center flex-shrink-0 mt-1 font-bold">1</div>
@@ -573,39 +573,39 @@ export default function BankLoanSettlementGuidelinesPage() {
                         </section>
 
                         <section id="common-mistakes" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">Common Mistakes to Avoid: The Debtor's Pitfall Guide</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">Common Mistakes to Avoid: The Debtor's Pitfall Guide</h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 In the panic of debt recovery, many borrowers make mistakes that haunt them for years. Avoiding these can save you lakhs of rupees and prevent criminal cases.
                             </p>
                             <div className="space-y-4 mb-10">
                                 <div className="p-8 bg-red-50 border-2 border-red-100 rounded-3xl hover:bg-red-100 transition-colors">
-                                    <h3 className="font-bold text-xl text-red-700 mb-3 flex items-center gap-2">
+                                    <h4 className="font-bold text-xl text-red-700 mb-3 flex items-center gap-2">
                                         <span className="text-2xl">🚫</span> 1. The "Token Payment" Trap
-                                    </h3>
+                                    </h4>
                                     <p className="text-base text-red-600 leading-relaxed">
                                         Recovery agents often say, "Just pay 5,000 rupees today to stop the calls, and we will talk about settlement later." **Never do this.** This payment is an "acknowledgment of debt" in legal terms. It extends the bank's three-year window to sue you and shows that you have some liquidity, which actually *reduces* your chances of a high-discount settlement.
                                     </p>
                                 </div>
                                 <div className="p-8 bg-red-50 border-2 border-red-100 rounded-3xl hover:bg-red-100 transition-colors">
-                                    <h4 className="font-bold text-xl text-red-700 mb-3 flex items-center gap-2">
+                                    <h5 className="font-bold text-xl text-red-700 mb-3 flex items-center gap-2">
                                         <span className="text-2xl">🚫</span> 2. Ignoring Legal Notices (Especially Section 138)
-                                    </h4>
+                                    </h5>
                                     <p className="text-base text-red-600 leading-relaxed">
                                         If you receive a notice for a Cheque Bounce (Section 138) or Payment & Settlement Act (Section 25), **you must appear in court.** These are criminal matters. Ignoring them leads to non-bailable warrants (NBW). Banks use these cases as leverage during settlement. Always have a lawyer respond to these promptly.
                                     </p>
                                 </div>
                                 <div className="p-8 bg-red-50 border-2 border-red-100 rounded-3xl hover:bg-red-100 transition-colors">
-                                    <h5 className="font-bold text-xl text-red-700 mb-3 flex items-center gap-2">
+                                    <h6 className="font-bold text-xl text-red-700 mb-3 flex items-center gap-2">
                                         <span className="text-2xl">🚫</span> 3. Forgetting About Loan Insurance
-                                    </h5>
+                                    </h6>
                                     <p className="text-base text-red-600 leading-relaxed">
                                         Many personal and home loans have a built-in "Credit Life Insurance" policy. If the default happened due to critical illness or permanent disability, the insurance might cover the principal. Always check your original loan kit for insurance certificates before opting for a settlement.
                                     </p>
                                 </div>
                                 <div className="p-8 bg-red-50 border-2 border-red-100 rounded-3xl hover:bg-red-100 transition-colors">
-                                    <h5 className="font-bold text-xl text-red-700 mb-3 flex items-center gap-2">
+                                    <h6 className="font-bold text-xl text-red-700 mb-3 flex items-center gap-2">
                                         <span className="text-2xl">🚫</span> 4. Settling Too Early
-                                    </h5>
+                                    </h6>
                                     <p className="text-base text-red-600 leading-relaxed">
                                         Settlement should only happen when you are absolutely sure you cannot repay the loan. If you settle when you could have restructured, you are unnecessarily damaging your credit for a decade. Analyze your future income prospects before signing the settlement letter.
                                     </p>
@@ -614,7 +614,7 @@ export default function BankLoanSettlementGuidelinesPage() {
                         </section>
 
                         <section id="helpful-resources" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">Helpful Resources for In-Depth Reading</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">Helpful Resources for In-Depth Reading</h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 We have developed specialized guides for every specific scenario you might be facing. We highly recommend reading these to build your technical knowledge:
                             </p>
@@ -655,7 +655,7 @@ export default function BankLoanSettlementGuidelinesPage() {
                         </section>
 
                         <section id="success-history" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 text-center">National Settlement Success History</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 text-center">National Settlement Success History</h3>
                             <div className="grid md:grid-cols-2 gap-10 not-prose">
                                 {[
                                     {
@@ -693,7 +693,7 @@ export default function BankLoanSettlementGuidelinesPage() {
                                         <div className="flex items-center mb-6">
                                             <div className="w-12 h-12 rounded-full bg-[#1F5EFF]/10 flex items-center justify-center font-bold text-[#1F5EFF] mr-4 text-lg">{review.name.split(' ')[0][0]}</div>
                                             <div>
-                                                <h3 className="font-black text-[#2E2E2E]">{review.name}</h3>
+                                                <h4 className="font-black text-[#2E2E2E]">{review.name}</h4>
                                                 <p className="text-xs text-gray-400 font-bold uppercase tracking-widest">{review.loc}</p>
                                             </div>
                                             <div className="ml-auto text-yellow-400 text-sm">★★★★★</div>
@@ -708,7 +708,7 @@ export default function BankLoanSettlementGuidelinesPage() {
                         </section>
 
                         <section id="faqs" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Detailed Loan Settlement FAQs (2024 Edition)</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Detailed Loan Settlement FAQs (2024 Edition)</h3>
                             <div className="space-y-6 not-prose">
                                 {[
                                     { q: "Is it possible to settle a loan without a lawyer?", a: "Yes, you can negotiate directly with the bank. However, most individuals lack the technical knowledge of interest calculations and RBI rules to get the best deal. Professional resolution firms often pay for themselves by securing much higher discounts and ensuring all legal loops are closed." },
@@ -739,7 +739,7 @@ export default function BankLoanSettlementGuidelinesPage() {
 
                         <div className="mt-20 p-12 bg-gradient-to-br from-[#1F5EFF] to-[#123999] rounded-[40px] text-white text-center shadow-2xl relative overflow-hidden">
                             <div className="relative z-10">
-                                <h2 className="text-4xl md:text-5xl font-black mb-8">Ready to Reclaim Your Financial Freedom?</h2>
+                                <h3 className="text-4xl md:text-5xl font-black mb-8">Ready to Reclaim Your Financial Freedom?</h3>
                                 <p className="text-xl md:text-2xl mb-12 opacity-90 max-w-3xl mx-auto leading-relaxed">
                                     Don't spend another night worrying about debt. Our senior consultants have helped thousands of Indians resolve their loan disputes legally and professionally.
                                 </p>

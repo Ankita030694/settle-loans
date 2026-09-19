@@ -515,9 +515,9 @@ export default function Order37SummarySuitDefensePage() {
 
             {/* Section 2: Statutory Mechanics, Rules & SC Precedents */}
             <section id="statutory-framework-rule-mechanics-sc-precedents" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                 2. Statutory Architecture: Order XXXVII Rules 1–3 &amp; The Landmark Supreme Court Hubtown Precedent
-              </h2>
+              </h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 To mount an impenetrable legal defense against a summary recovery suit, a borrower must understand the bifurcated, two-tier procedural structure codified under Order XXXVII of the Civil Procedure Code:
               </p>
@@ -582,9 +582,9 @@ export default function Order37SummarySuitDefensePage() {
 
             {/* Section 3: The Hazard of Inaction */}
             <section id="consequences-of-default-ex-parte-decrees-execution" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                 3. The Hazard of Inaction: Automatic Ex-Parte Decrees, Asset Execution &amp; Salary Attachments
-              </h2>
+              </h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Ignoring an Order 37 summons or procrastinating past the 10-day limitation window under the mistaken impression that civil suits drag on for decades is the single most catastrophic error a borrower can make. Under Order XXXVII Rule 2(3) CPC, the statute explicitly commands that upon failure to enter appearance, <strong>&quot;the allegations in the plaint shall be deemed to be admitted and the plaintiff shall be entitled to a decree for any sum not exceeding the sum mentioned in the summons.&quot;</strong>
               </p>
@@ -624,9 +624,9 @@ export default function Order37SummarySuitDefensePage() {
 
             {/* Section 4: Bank Accounting, NPA Provisioning & NPV Recovery Formula */}
             <section id="bank-accounting-npa-provisioning-npv-formula" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                 4. Bank Balance Sheet Accounting, NPA Provisioning &amp; The Net Present Value (NPV) Equation
-              </h2>
+              </h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Why do commercial banks file summary suits instead of waiting for out-of-court collections, and how do advocates leverage bank balance sheet rules to negotiate massive 45% to 65% settlement discounts? The answer lies in the Reserve Bank of India&apos;s <strong>Prudential Norms on Income Recognition, Asset Classification and Provisioning (IRACP)</strong>.
               </p>
@@ -698,9 +698,9 @@ export default function Order37SummarySuitDefensePage() {
 
             {/* Section 5: Infographic Banner */}
             <section id="summary-suit-defense-visual-roadmap" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                 5. Order 37 CPC Summary Suit Defense &amp; Settlement Visual Roadmap
-              </h2>
+              </h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 The visual roadmap below outlines the 5-stage institutional progression from the initial Form No. 4 court summons to entering an appearance within 10 days, formulating triable issues in the Leave to Defend affidavit, navigating court-annexed mediation under Section 89 CPC, and formalizing a binding compromise decree with full debt extinguishment.
               </p>
@@ -735,34 +735,34 @@ export default function Order37SummarySuitDefensePage() {
 
             {/* Section 6: Advocate-Led Strategic Defense */}
             <section id="advocate-strategy-triable-issues-leave-to-defend" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                 6. Advocate-Led Strategic Defense: Formulating Triable Issues &amp; Drafting Watertight Leave to Defend
-              </h2>
+              </h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 The battle in an Order 37 summary suit is won or lost entirely on the quality of the <strong>Leave to Defend counter-affidavit</strong>. A generic reply claiming financial hardship or personal misfortune is classified by courts as a &quot;moonshine defense&quot; and rejected immediately. To secure unconditional leave under the <em>Hubtown</em> doctrine, our litigation team formulates concrete, legally substantiated <strong>triable issues</strong>:
               </p>
 
               <div className="space-y-3 my-4">
                 <div className="p-4 rounded-xl border-l-4 border-blue-600 bg-slate-50 space-y-1">
-                  <h3 className="font-bold text-slate-900 text-xs sm:text-sm">Triable Issue 1: Illegal Penal Interest Compounding &amp; RBI Fair Lending Breaches</h3>
+                  <h4 className="font-bold text-slate-900 text-xs sm:text-sm">Triable Issue 1: Illegal Penal Interest Compounding &amp; RBI Fair Lending Breaches</h4>
                   <p className="text-xs text-slate-600 leading-relaxed">
                     Under the <strong>RBI Master Circular on Fair Practices Code and RBI Directives on Fair Lending Conduct (effective 2024)</strong>, lenders are strictly prohibited from compounding penal interest or capitalizing penalties into the principal debt. We audit the bank&apos;s statement of account and prove that significant portions of the claimed sum represent unauthorized compounding penal debits, rendering the debt unliquidated.
                   </p>
                 </div>
                 <div className="p-4 rounded-xl border-l-4 border-indigo-600 bg-slate-50 space-y-1">
-                  <h4 className="font-bold text-slate-900 text-xs sm:text-sm">Triable Issue 2: Inadmissibility of Electronic Evidence &amp; Section 65B Violations</h4>
+                  <h5 className="font-bold text-slate-900 text-xs sm:text-sm">Triable Issue 2: Inadmissibility of Electronic Evidence &amp; Section 65B Violations</h5>
                   <p className="text-xs text-slate-600 leading-relaxed">
                     Summary suits rely on computer-generated loan account statements. Under Section 65B of the Indian Evidence Act, 1872 (and Section 63 of Bharatiya Sakshya Adhiniyam, 2023) along with the <strong>Bankers&apos; Books Evidence Act, 1891</strong>, electronic records are legally inadmissible without a contemporaneous certificate signed by the principal officer. Failure to attach this statutory certificate destroys summary entitlement.
                   </p>
                 </div>
                 <div className="p-4 rounded-xl border-l-4 border-purple-600 bg-slate-50 space-y-1">
-                  <h4 className="font-bold text-slate-900 text-xs sm:text-sm">Triable Issue 3: Limitation Bar Under Articles 19 &amp; 21 of the Limitation Act, 1963</h4>
+                  <h5 className="font-bold text-slate-900 text-xs sm:text-sm">Triable Issue 3: Limitation Bar Under Articles 19 &amp; 21 of the Limitation Act, 1963</h5>
                   <p className="text-xs text-slate-600 leading-relaxed">
                     Banks often institute summary suits after sitting on non-performing accounts for over 3 years. We demonstrate that the suit was filed beyond the prescribed 3-year limitation window, and that purported &apos;balance confirmation letters&apos; or automated NACH debit attempts do not constitute valid acknowledgments of liability under Section 18 of the Limitation Act.
                   </p>
                 </div>
                 <div className="p-4 rounded-xl border-l-4 border-amber-600 bg-slate-50 space-y-1">
-                  <h4 className="font-bold text-slate-900 text-xs sm:text-sm">Triable Issue 4: Lack of Territorial or Pecuniary Jurisdiction</h4>
+                  <h5 className="font-bold text-slate-900 text-xs sm:text-sm">Triable Issue 4: Lack of Territorial or Pecuniary Jurisdiction</h5>
                   <p className="text-xs text-slate-600 leading-relaxed">
                     Many banks file summary suits in centralized metro courts where their processing hubs reside, despite the loan contract being executed and the borrower residing in another state. We challenge territorial jurisdiction under Section 20 CPC and pecuniary jurisdiction, demanding return of the plaint under Order VII Rule 10 CPC.
                   </p>
@@ -776,9 +776,9 @@ export default function Order37SummarySuitDefensePage() {
 
             {/* Section 7: Forensic Sanction Letter Verification & Section 89 CPC Settlement Conversion */}
             <section id="forensic-sanction-letter-section-89-ots-conversion" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                 7. Converting Summary Suits to One-Time Settlements: Section 89 CPC &amp; Sanction Forensics
-              </h2>
+              </h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Once Leave to Defend is granted, the balance of power shifts decisively in favor of the borrower. The bank can no longer secure a summary judgment within weeks; it must now face years of contested civil trial. At this exact juncture, our advocates activate <strong>Section 89 of the Code of Civil Procedure</strong> (Settlement of disputes outside the Court) to transition the litigation into a structured One-Time Settlement (OTS).
               </p>
@@ -838,9 +838,9 @@ export default function Order37SummarySuitDefensePage() {
 
             {/* Section 8: Remittance, Order 23 Rule 3 Decree & RBI NDC */}
             <section id="remittance-order-23-rule-3-decree-rbi-ndc" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                 8. Settlement Remittance, Order 23 Rule 3 Compromise Decree &amp; RBI ₹0 NDC Mandate
-              </h2>
+              </h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Remitting the negotiated settlement funds completes the financial transaction, but absolute legal finality requires closing the judicial record in the Civil Court and updating credit bureaus.
               </p>
@@ -858,9 +858,9 @@ export default function Order37SummarySuitDefensePage() {
                 </p>
               </div>
 
-              <h3 className="text-base sm:text-lg font-bold text-slate-900 pt-2">
+              <h4 className="text-base sm:text-lg font-bold text-slate-900 pt-2">
                 Credit Bureau Status &amp; Post-Litigation Credit Rebuilding
-              </h3>
+              </h4>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Following the compromise disposal of the summary suit, the bank updates the credit bureau record:
               </p>
@@ -882,9 +882,9 @@ export default function Order37SummarySuitDefensePage() {
 
             {/* Section 9: Summary Suit Resolution Comparative Matrix */}
             <section id="summary-suit-resolution-comparative-matrix" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                 9. Order 37 Summary Suit Defense vs Alternate Resolution Matrix
-              </h2>
+              </h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Evaluating the legal pathways available upon receiving an Order 37 summary recovery summons allows borrowers to make an informed, risk-adjusted decision:
               </p>
@@ -937,9 +937,9 @@ export default function Order37SummarySuitDefensePage() {
             {/* Section 10: SettleLoans Legal Defense & Advisory + CompanySection */}
             <section id="company-resolution-section" className="space-y-6">
               <div className="border-t border-slate-200 pt-8 space-y-4">
-                <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
+                <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                   10. SettleLoans Legal Defense &amp; Summary Suit Representation
-                </h2>
+                </h3>
                 <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                   Facing an Order 37 summary recovery suit requires immediate, specialized civil litigation counsel. SettleLoans represents borrowers across India: drafting and filing formal Memorandums of Appearance within the strict 10-day statutory window, formulating comprehensive Leave to Defend affidavits establishing triable issues under the Supreme Court <em>Hubtown</em> framework, and negotiating directly with bank Zonal Stressed Asset committees to secure binding 45%–65% One-Time Settlements backed by Order 23 Rule 3 compromise decrees and official No Dues Certificates.
                 </p>
@@ -953,9 +953,9 @@ export default function Order37SummarySuitDefensePage() {
             <section id="faqs" className="space-y-4 border-t border-slate-200 pt-8">
               <div className="flex items-center gap-2 mb-2">
                 <HelpCircle className="w-5 h-5 text-[#1F5EFF]" />
-                <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
+                <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                   11. Frequently Asked Questions: Order 37 CPC Summary Suit Defense
-                </h2>
+                </h3>
               </div>
               <p className="text-xs sm:text-sm text-slate-600 mb-6">
                 Direct, legally verified answers to critical questions regarding Order XXXVII summary suits, 10-day court appearance rules, Leave to Defend affidavits, and loan settlement in India.
@@ -985,9 +985,9 @@ export default function Order37SummarySuitDefensePage() {
 
             {/* 5 Official Regulatory Links */}
             <section className="border-t border-slate-200 pt-8 mb-4">
-              <h3 className="text-xs sm:text-sm font-bold text-slate-900 mb-3 uppercase tracking-wider">
+              <h4 className="text-xs sm:text-sm font-bold text-slate-900 mb-3 uppercase tracking-wider">
                 Official Statutory &amp; Regulatory References
-              </h3>
+              </h4>
               <div className="grid grid-cols-1 sm:grid-cols-2 gap-2.5 text-xs">
                 <a
                   href="https://indiacode.gov.in/handle/123456789/2191"
@@ -1039,9 +1039,9 @@ export default function Order37SummarySuitDefensePage() {
 
             {/* 10 Related Guide Badges */}
             <section className="border-t border-slate-200 pt-8 mb-8">
-              <h3 className="text-xs sm:text-sm font-bold text-slate-900 mb-4 uppercase tracking-wider">
+              <h4 className="text-xs sm:text-sm font-bold text-slate-900 mb-4 uppercase tracking-wider">
                 Related Civil Court Defense &amp; Debt Resolution Guides
-              </h3>
+              </h4>
               <div className="flex flex-wrap gap-2">
                 <Link
                   href="/bank-recovery-case-in-court"

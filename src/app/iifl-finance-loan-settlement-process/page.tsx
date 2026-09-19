@@ -588,7 +588,7 @@ export default function IIFLFinanceLoanSettlementPage() {
                 <Clock className="w-4 h-4" />
                 <span>2. Delinquency Timeline &amp; NPA Stages</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">IIFL Finance Delinquency Lifecycle</h2>
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">IIFL Finance Delinquency Lifecycle</h3>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 IIFL Finance tracks overdue loans using RBI IRACP norms and Ind AS 109 rules. When a loan is unpaid for 90 days, it turns into an NPA. IIFL must then set aside funds for bad debt. The lender then shifts focus from routine EMI calls to one-time debt settlements.
               </p>
@@ -656,7 +656,7 @@ export default function IIFLFinanceLoanSettlementPage() {
                 <Banknote className="w-4 h-4" />
                 <span>3. Stopping NACH Bounce Charges &amp; Penal Fees</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">How to Stop IIFL Finance Bounce Charges</h2>
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">How to Stop IIFL Finance Bounce Charges</h3>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Borrowers face heavy bank fees when IIFL presents NACH debits again and again. Each bounce causes bank charges and penalty fees. Under RBI Fair Lending Practice rules (2023), lenders cannot add extra charges to your principal debt.
               </p>
@@ -671,7 +671,7 @@ export default function IIFLFinanceLoanSettlementPage() {
                 <Coins className="w-4 h-4" />
                 <span>4. Gold Loan Auction Shortfall &amp; Residual Dues Defense</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Resolving IIFL Gold Loan Auction Shortfall Notices</h2>
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Resolving IIFL Gold Loan Auction Shortfall Notices</h3>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 If you miss gold loan EMIs, IIFL sells the pledged gold in an auction. If the sale does not clear the full debt, IIFL sends demand letters. They claim this unpaid gap as an <strong>unsecured shortfall</strong>.
               </p>
@@ -689,7 +689,7 @@ export default function IIFLFinanceLoanSettlementPage() {
                 <Calculator className="w-4 h-4" />
                 <span>5. OTS Haircut Policies &amp; Valuation Framework</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">IIFL Finance One-Time Settlement (OTS)</h2>
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">IIFL Finance One-Time Settlement (OTS)</h3>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Under RBI Master Directions on Compromise Settlements (2023), IIFL tests OTS offers using Net Present Value (NPV). They compare fast cash today against slow, costly court cases.
               </p>
@@ -709,7 +709,7 @@ export default function IIFLFinanceLoanSettlementPage() {
               </div>
 
               {/* Settlement Haircut Slabs Table */}
-              <h3 className="text-lg font-bold text-slate-900 mb-3">Realistic IIFL Finance Settlement Haircut Slabs by Product &amp; Aging</h3>
+              <h4 className="text-lg font-bold text-slate-900 mb-3">Realistic IIFL Finance Settlement Haircut Slabs by Product &amp; Aging</h4>
               <div className="overflow-x-auto my-4">
                 <table className="min-w-full bg-white">
                   <thead>
@@ -774,9 +774,9 @@ export default function IIFLFinanceLoanSettlementPage() {
                       <span className="text-[10px] font-black uppercase tracking-widest text-blue-300 block">
                         Legal Defense &amp; Action Blueprint
                       </span>
-                      <h3 className="text-sm md:text-base font-black text-white leading-tight">
+                      <h4 className="text-sm md:text-base font-black text-white leading-tight">
                         IIFL Finance Loan Settlement &amp; Legal Defense Blueprint
-                      </h3>
+                      </h4>
                     </div>
                   </div>
                   <a
@@ -823,7 +823,7 @@ export default function IIFLFinanceLoanSettlementPage() {
                 <ShieldAlert className="w-4 h-4" />
                 <span>6. Recovery Practices &amp; RBI Harassment Defense</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Defending Against Aggressive IIFL Recovery Tactics Under RBI</h2>
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Defending Against Aggressive IIFL Recovery Tactics Under RBI</h3>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 IIFL Finance hires third-party recovery agencies. These agents often push hard to meet monthly targets. But RBI Master Directions and Fair Practice Codes set clear rules. Agents can only call between 8:00 AM and 7:00 PM. They cannot call your family, boss, or friends. Workplace visits and threats are illegal.
               </p>
@@ -838,67 +838,67 @@ export default function IIFLFinanceLoanSettlementPage() {
                 <Layers className="w-4 h-4" />
                 <span>7. Step-by-Step NBFC Settlement Roadmap</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Step-by-Step IIFL Finance Settlement Roadmap</h2>
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Step-by-Step IIFL Finance Settlement Roadmap</h3>
               <p className="text-slate-700 leading-relaxed mb-6 text-base md:text-lg">
                 Follow these 6 simple steps to settle your IIFL loan:
               </p>
 
               <div className="space-y-4">
                 <div className="p-5 rounded-2xl bg-white border border-slate-200 shadow-sm">
-                  <h3 className="text-base font-bold text-slate-900 mb-1 flex items-center gap-2">
+                  <h4 className="text-base font-bold text-slate-900 mb-1 flex items-center gap-2">
                     <span className="w-6 h-6 rounded-lg bg-blue-50 text-[#1F5EFF] font-black text-xs flex items-center justify-center border border-blue-200">1</span>
                     Hardship Dossier Compilation &amp; Ledger Audit
-                  </h3>
+                  </h4>
                   <p className="text-slate-600 text-sm leading-relaxed">
                     Collect proof of your financial crisis. Gather salary cut letters, medical bills, or business loss statements. This proves non-wilful default under RBI rules.
                   </p>
                 </div>
 
                 <div className="p-5 rounded-2xl bg-white border border-slate-200 shadow-sm">
-                  <h3 className="text-base font-bold text-slate-900 mb-1 flex items-center gap-2">
+                  <h4 className="text-base font-bold text-slate-900 mb-1 flex items-center gap-2">
                     <span className="w-6 h-6 rounded-lg bg-blue-50 text-[#1F5EFF] font-black text-xs flex items-center justify-center border border-blue-200">2</span>
                     Revoking NACH Mandates &amp; Formalizing Communication
-                  </h3>
+                  </h4>
                   <p className="text-slate-600 text-sm leading-relaxed">
                     Cancel the e-NACH auto-debit with your bank to stop bounce charges. Shift all loan talks to written emails or your lawyer.
                   </p>
                 </div>
 
                 <div className="p-5 rounded-2xl bg-white border border-slate-200 shadow-sm">
-                  <h3 className="text-base font-bold text-slate-900 mb-1 flex items-center gap-2">
+                  <h4 className="text-base font-bold text-slate-900 mb-1 flex items-center gap-2">
                     <span className="w-6 h-6 rounded-lg bg-blue-50 text-[#1F5EFF] font-black text-xs flex items-center justify-center border border-blue-200">3</span>
                     Submitting Hardship Proposal to Stressed Assets Desk
-                  </h3>
+                  </h4>
                   <p className="text-slate-600 text-sm leading-relaxed">
                     Send a formal OTS letter to the IIFL Zonal Stressed Assets Desk. Cite RBI Master Directions and start with an offer of 25% to 35% of dues.
                   </p>
                 </div>
 
                 <div className="p-5 rounded-2xl bg-white border border-slate-200 shadow-sm">
-                  <h3 className="text-base font-bold text-slate-900 mb-1 flex items-center gap-2">
+                  <h4 className="text-base font-bold text-slate-900 mb-1 flex items-center gap-2">
                     <span className="w-6 h-6 rounded-lg bg-blue-50 text-[#1F5EFF] font-black text-xs flex items-center justify-center border border-blue-200">4</span>
                     Managing Counter-Offers &amp; Credit Committee Approval
-                  </h3>
+                  </h4>
                   <p className="text-slate-600 text-sm leading-relaxed">
                     Handle counter-offers by showing limited family funds. Guide the Credit Committee to agree to a 40% to 60% principal waiver.
                   </p>
                 </div>
 
                 <div className="p-5 rounded-2xl bg-white border border-slate-200 shadow-sm">
-                  <h3 className="text-base font-bold text-slate-900 mb-1 flex items-center gap-2">
+                  <h4 className="text-base font-bold text-slate-900 mb-1 flex items-center gap-2">
                     <span className="w-6 h-6 rounded-lg bg-blue-50 text-[#1F5EFF] font-black text-xs flex items-center justify-center border border-blue-200">5</span>
                     Forensic Audit of the Official Sanction Letter
-                  </h3>
+                  </h4>
                   <p className="text-slate-600 text-sm leading-relaxed">
                     Check the settlement letter carefully. It must be on official IIFL letterhead with full loan details, agreed amount, and legal closure terms.
                   </p>
                 </div>
 
                 <div className="p-5 rounded-2xl bg-white border border-slate-200 shadow-sm">
-                  <h3 className="text-base font-bold text-slate-900 mb-1 flex items-center gap-2">
+                  <h4 className="text-base font-bold text-slate-900 mb-1 flex items-center gap-2">
                     <span className="w-6 h-6 rounded-lg bg-blue-50 text-[#1F5EFF] font-black text-xs flex items-center justify-center border border-blue-200">6</span>
                     Account Remittance &amp; ₹0 NDC Enforcement
-                  </h3>
+                  </h4>
                   <p className="text-slate-600 text-sm leading-relaxed">
                     Pay the agreed amount directly to your IIFL loan account. Collect your official ₹0 No Dues Certificate within 30 days under RBI rules.
                   </p>
@@ -912,7 +912,7 @@ export default function IIFLFinanceLoanSettlementPage() {
                 <Gavel className="w-4 h-4" />
                 <span>8. Section 25 Notices, Arbitration &amp; Lok Adalat</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Navigating IIFL Sec 25 PSSA, Arbitration &amp; Lok Adalat</h2>
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Navigating IIFL Sec 25 PSSA, Arbitration &amp; Lok Adalat</h3>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 After 60 to 90 days of default, IIFL may send legal notices under Section 25 of the Payment and Settlement Systems Act (PSSA). They may also send arbitration notices in Mumbai. Section 25 cases are compoundable matters. Your lawyer can reply by explaining your real financial hardship.
               </p>
@@ -971,7 +971,7 @@ export default function IIFLFinanceLoanSettlementPage() {
                 <FileCheck className="w-4 h-4" />
                 <span>9. Sanction Letter Audit &amp; ₹0 NDC Mandate</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Authenticating IIFL Finance OTS Sanction Letters</h2>
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Authenticating IIFL Finance OTS Sanction Letters</h3>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Always check your settlement letter carefully. It must come on official IIFL Finance Limited letterhead. It should show the Corporate Identification Number (CIN: L67100MH1995PLC093797), registered office address, unique reference number, and official seal. Never pay money on verbal promises or unverified links.
               </p>
@@ -986,7 +986,7 @@ export default function IIFLFinanceLoanSettlementPage() {
                 <TrendingUp className="w-4 h-4" />
                 <span>10. CIBIL Score Trajectory &amp; Rehabilitation</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">IIFL Post-Settlement CIBIL Score Trajectory</h2>
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">IIFL Post-Settlement CIBIL Score Trajectory</h3>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 After settlement, IIFL marks your loan across credit bureaus (CIBIL, Experian, Equifax, CRIF High Mark) as <strong>&apos;Settled&apos;</strong> with an outstanding balance of <strong>₹0</strong>. Your score may drop by 75 to 150 points initially. But all default interest and daily penalties stop permanently.
               </p>
@@ -1001,9 +1001,9 @@ export default function IIFLFinanceLoanSettlementPage() {
                 <ShieldCheck className="w-4 h-4" />
                 <span>11. Legal Defense &amp; Representation</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 Why Distressed IIFL Finance Borrowers Trust SettleLoans
-              </h2>
+              </h3>
               <p className="text-slate-700 leading-relaxed mb-6 text-base md:text-lg">
                 SettleLoans stops recovery agent harassment with legal cease-and-desist notices. We audit gold loan auction shortfalls under Section 176. We defend Section 25 PSSA court notices and contest sole arbitration claims. Our team works directly with IIFL Zonal Stressed Assets teams to secure maximum debt waivers and genuine ₹0 No Dues Certificates.
               </p>
@@ -1020,7 +1020,7 @@ export default function IIFLFinanceLoanSettlementPage() {
                 <HelpCircle className="w-4 h-4" />
                 <span>12. Frequently Asked Questions</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">FAQs: IIFL Finance Loan Settlement</h2>
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">FAQs: IIFL Finance Loan Settlement</h3>
 
               <div className="space-y-4">
                 {faqs.map((faq, index) => (
@@ -1046,10 +1046,10 @@ export default function IIFLFinanceLoanSettlementPage() {
 
             {/* Regulatory References & Official Sources Strip */}
             <div className="bg-slate-50 border border-slate-200 rounded-2xl p-6 my-10">
-              <h3 className="text-base font-bold text-slate-900 mb-4 flex items-center gap-2">
+              <h4 className="text-base font-bold text-slate-900 mb-4 flex items-center gap-2">
                 <Landmark className="w-5 h-5 text-[#1F5EFF]" />
                 Official Regulatory References &amp; Statutory Circulars
-              </h3>
+              </h4>
               <ul className="space-y-3 text-xs text-slate-600">
                 <li className="flex items-start gap-2">
                   <ExternalLink className="w-4 h-4 text-[#1F5EFF] flex-shrink-0 mt-0.5" />
@@ -1111,10 +1111,10 @@ export default function IIFLFinanceLoanSettlementPage() {
 
             {/* Related Guides & Resources Strip (10 Topic Badges) */}
             <div className="bg-slate-50 border border-slate-200 rounded-2xl p-6 my-10">
-              <h3 className="text-base font-bold text-slate-900 mb-4 flex items-center gap-2">
+              <h4 className="text-base font-bold text-slate-900 mb-4 flex items-center gap-2">
                 <BookOpen className="w-5 h-5 text-[#1F5EFF]" />
                 Explore Related Banking &amp; Debt Resolution Guides
-              </h3>
+              </h4>
               <div className="flex flex-wrap gap-2.5">
                 <Link
                   href="/gold-loan-auction-process-after-default"

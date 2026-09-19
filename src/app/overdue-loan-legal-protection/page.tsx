@@ -261,7 +261,7 @@ export default function OverdueLoanProtectionPage() {
                                 </p>
                                 <div className="bg-[#1A1A1A] text-white rounded-[40px] p-12 my-12 shadow-2xl relative overflow-hidden group">
                                     <div className="absolute top-0 right-0 w-32 h-32 bg-blue-50 rounded-bl-full -mr-16 -mt-16 z-0"></div>
-                                    <h3 className="text-2xl font-bold mb-8 text-[#1F5EFF]">The 4 Pillars of Borrower Protection</h3>
+                                    <h4 className="text-2xl font-bold mb-8 text-[#1F5EFF]">The 4 Pillars of Borrower Protection</h4>
                                     <ul className="grid md:grid-cols-2 gap-8 text-xl font-bold relative z-10">
                                         <li className="flex gap-4 items-start">
                                             <span className="flex-shrink-0 w-10 h-10 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center font-black">1</span>
@@ -285,7 +285,7 @@ export default function OverdueLoanProtectionPage() {
                         </section>
 
                         <section id="rbi-recovery-code" className="scroll-mt-32 mb-20">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#1A1A1A] mb-8 uppercase tracking-tighter">The RBI Fair Practices Code: Your Primary Shield</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#1A1A1A] mb-8 uppercase tracking-tighter">The RBI Fair Practices Code: Your Primary Shield</h3>
                             <p className="text-xl leading-relaxed mb-6 font-medium">
                                 The Reserve Bank of India (RBI) has issued a 'Master Circular' regarding recovery agents and debt collection. This code is mandatory for all regulated entities. Any violation of this code makes the recovery process itself illegal, providing you with a significant defense in court.
                             </p>
@@ -294,21 +294,21 @@ export default function OverdueLoanProtectionPage() {
                                     <div className="w-12 h-12 bg-blue-100 rounded-full flex items-center justify-center mx-auto mb-4">
                                         <svg className="w-6 h-6 text-blue-600" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M12 8c-1.657 0-3 .895-3 2s1.343 2 3 2 3 .895 3 2-1.343 2-3 2m0-8c1.11 0 2.08.402 2.599 1M12 8V7m0 1v8m0 0v1m0-1c-1.11 0-2.08-.402-2.599-1M21 12a9 9 0 11-18 0 9 9 0 0118 0z"></path></svg>
                                     </div>
-                                    <h3 className="font-bold text-[#2E2E2E] mb-2 uppercase tracking-tight">8 AM - 7 PM</h3>
+                                    <h4 className="font-bold text-[#2E2E2E] mb-2 uppercase tracking-tight">8 AM - 7 PM</h4>
                                     <p className="text-xs text-gray-500">Legal Contact Window</p>
                                 </div>
                                 <div className="p-8 bg-white border border-[#DEDEDE] rounded-xl shadow-sm text-center">
                                     <div className="w-12 h-12 bg-blue-100 rounded-full flex items-center justify-center mx-auto mb-4">
                                         <svg className="w-6 h-6 text-blue-600" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M18.364 18.364A9 9 0 005.636 5.636m12.728 12.728A9 9 0 015.636 5.636m12.728 12.728L5.636 5.636"></path></svg>
                                     </div>
-                                    <h4 className="font-bold text-[#2E2E2E] mb-2 uppercase tracking-tight">No Harassment</h4>
+                                    <h5 className="font-bold text-[#2E2E2E] mb-2 uppercase tracking-tight">No Harassment</h5>
                                     <p className="text-xs text-gray-500">Verbal or Physical</p>
                                 </div>
                                 <div className="p-8 bg-white border border-[#DEDEDE] rounded-xl shadow-sm text-center">
                                     <div className="w-12 h-12 bg-green-100 rounded-full flex items-center justify-center mx-auto mb-4">
                                         <svg className="w-6 h-6 text-green-600" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M9 12l2 2 4-4m5.618-4.016A11.955 11.955 0 0112 2.944a11.955 11.955 0 01-8.618 3.04A12.02 12.02 0 003 9c0 5.591 3.824 10.29 9 11.622 5.176-1.332 9-6.03 9-11.622 0-1.042-.133-2.052-.382-3.016z"></path></svg>
                                     </div>
-                                    <h4 className="font-bold text-[#2E2E2E] mb-2 uppercase tracking-tight">Certified Agents</h4>
+                                    <h5 className="font-bold text-[#2E2E2E] mb-2 uppercase tracking-tight">Certified Agents</h5>
                                     <p className="text-xs text-gray-500">Must carry ID cards</p>
                                 </div>
                             </div>
@@ -318,7 +318,7 @@ export default function OverdueLoanProtectionPage() {
                         </section>
 
                         <section id="limitation-act-protection" className="scroll-mt-32 mb-20">
-                            <h2 className="text-3xl md:text-5xl font-black mb-8 leading-tight">The Limitation Act Protection: <br /><span className="text-black">The 3-Year Time Bar</span></h2>
+                            <h3 className="text-3xl md:text-5xl font-black mb-8 leading-tight">The Limitation Act Protection: <br /><span className="text-black">The 3-Year Time Bar</span></h3>
                             <p className="text-xl leading-relaxed mb-6">
                                 One of the most powerful—and least understood—defenses in Indian law is the 'Law of Limitation.' According to the Limitation Act 1963, a creditor has a specific time period to initiate legal action for recovery. For most unsecured loans and credit card debts, this period is **3 years** from the date of default.
                             </p>
@@ -331,7 +331,7 @@ export default function OverdueLoanProtectionPage() {
                         </section>
 
                         <section id="sarfaesi-defenses" className="scroll-mt-32 mb-20">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">Challenging the SARFAESI Act</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">Challenging the SARFAESI Act</h3>
                             <p className="text-xl leading-relaxed mb-6">
                                 For secured loans (home loans, property loans), banks use the Securitisation and Reconstruction of Financial Assets and Enforcement of Security Interest (SARFAESI) Act, 2002. While this act is designed for fast recovery, it is riddled with procedural safeguards that banks often overlook in their haste.
                             </p>
@@ -339,21 +339,21 @@ export default function OverdueLoanProtectionPage() {
                                 <div className="flex gap-6 items-start">
                                     <div className="text-4xl font-black text-[#1F5EFF]">01</div>
                                     <div>
-                                        <h3 className="text-xl font-black mb-2 uppercase tracking-wide">Invalid NPA Classification</h3>
+                                        <h4 className="text-xl font-black mb-2 uppercase tracking-wide">Invalid NPA Classification</h4>
                                         <p className="text-gray-600">Many banks classify accounts as NPA before the mandatory 90-day period or without following RBI's prudential norms. This voids the entire SARFAESI process.</p>
                                     </div>
                                 </div>
                                 <div className="flex gap-6 items-start border-t border-gray-100 pt-6">
                                     <div className="text-4xl font-black text-[#1F5EFF]">02</div>
                                     <div>
-                                        <h4 className="text-xl font-black mb-2 uppercase tracking-wide">The 60-Day Notice Rule</h4>
+                                        <h5 className="text-xl font-black mb-2 uppercase tracking-wide">The 60-Day Notice Rule</h5>
                                         <p className="text-gray-600">Under Section 13(2), you must be given 60 days to respond. If the bank moves to take possession before this, it's a criminal trespass.</p>
                                     </div>
                                 </div>
                                 <div className="flex gap-6 items-start border-t border-gray-100 pt-6">
                                     <div className="text-4xl font-black text-[#1F5EFF]">03</div>
                                     <div>
-                                        <h4 className="text-xl font-black mb-2 uppercase tracking-wide">Objection Rights</h4>
+                                        <h5 className="text-xl font-black mb-2 uppercase tracking-wide">Objection Rights</h5>
                                         <p className="text-gray-600">Under Section 13(3A), you have the right to file an objection. The bank MUST reply to this within 15 days. Failure to reply makes their next steps illegal.</p>
                                     </div>
                                 </div>
@@ -361,14 +361,14 @@ export default function OverdueLoanProtectionPage() {
                         </section>
 
                         <section id="drt-procedures" className="scroll-mt-32 mb-20">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#1A1A1A] mb-8">Victory in the Debt Recovery Tribunal (DRT)</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#1A1A1A] mb-8">Victory in the Debt Recovery Tribunal (DRT)</h3>
                             <p className="text-xl leading-relaxed mb-6">
                                 If your loan exceeds ₹20 Lakh, the bank will likely approach the Debt Recovery Tribunal (DRT). The DRT is not just for banks; it is where you fight for your assets. Our legal team specializes in filing 'Securitisation Applications' (S.A.) in the DRT to obtain 'Stay Orders' against auctions. We challenge the bank on technical grounds, audit trail errors, and valuation discrepancies to save your property.
                             </p>
                         </section>
 
                         <section id="harassment-legal-recourse" className="scroll-mt-32 mt-20 mb-20 text-center bg-blue-50 p-12 rounded-[50px] border border-blue-100">
-                            <h2 className="text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">Zero Tolerance for Harassment</h2>
+                            <h3 className="text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">Zero Tolerance for Harassment</h3>
                             <p className="text-xl leading-relaxed mb-10 max-w-2xl mx-auto font-medium">
                                 If you are being threatened, don't wait for a miracle. Use the Law. We help you file FIRs and criminal petitions to stop harassment instantly.
                             </p>
@@ -380,7 +380,7 @@ export default function OverdueLoanProtectionPage() {
                         </section>
 
                         <section id="inflated-interest-claims" className="scroll-mt-32 mt-20 mb-20">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#1A1A1A] mb-8">The Inflated Interest Trap: Auditing Your Debt</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#1A1A1A] mb-8">The Inflated Interest Trap: Auditing Your Debt</h3>
                             <p className="text-xl leading-relaxed mb-6">
                                 Borrowers often default because the interest rates are simply too high. Compounding interest on penalties, 'bouncing charges,' and 'legal fees' can double a loan amount in months.
                             </p>
@@ -390,21 +390,21 @@ export default function OverdueLoanProtectionPage() {
                         </section>
 
                         <section id="banking-ombudsman" className="scroll-mt-32 mb-20">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#1A1A1A] mb-8 border-l-4 border-[#1A1A1A] pl-6 uppercase tracking-tight">The Banking Ombudsman: Your Free Legal Recourse</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#1A1A1A] mb-8 border-l-4 border-[#1A1A1A] pl-6 uppercase tracking-tight">The Banking Ombudsman: Your Free Legal Recourse</h3>
                             <p className="text-xl leading-relaxed mb-6">
                                 For grievances against RBI-regulated banks, the RB-IOS (Reserve Bank - Integrated Ombudsman Scheme) is a powerful tool. You don't need to pay court fees. If the bank has failed to follow fair practices or has harassed you, our lawyers help you draft a 'Water-Tight Complaint' that the Ombudsman cannot ignore.
                             </p>
                         </section>
 
                         <section id="civil-suit-strategy" className="scroll-mt-32 mb-20">
-                            <h2 className="text-3xl md:text-5xl font-black mb-8 italic">The Civil Court Defense Strategy</h2>
+                            <h3 className="text-3xl md:text-5xl font-black mb-8 italic">The Civil Court Defense Strategy</h3>
                             <p className="text-xl leading-relaxed mb-6 font-medium">
                                 When a bank files a 'Summary Suit' (Order 37) or a simple recovery suit, they expect you to give up. We don't. We file a 'Leave to Defend,' highlighting the triable issues in your case—errors in documentation, wrongful calculations, or predatory lending practices. In many cases, once the bank realizes they are in for a 5-year legal battle, they become much more willing to settle for a reasonable amount.
                             </p>
                         </section>
 
                         <section id="ots-mechanics" className="scroll-mt-32 mb-20">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 bg-[#2E2E2E] text-[#DEDEDE] p-4 inline-block">The Mechanics of One-Time Settlement (OTS)</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 bg-[#2E2E2E] text-[#DEDEDE] p-4 inline-block">The Mechanics of One-Time Settlement (OTS)</h3>
                             <p className="text-xl leading-relaxed mb-6">
                                 A 'One-Time Settlement' is the gold standard of debt resolution. It's a win-win: you pay a fraction of the debt, and the bank gets a 'bad loan' off its books. However, negotiating an OTS is an art. We use your 'Ability to Pay' and the 'Recoverability of Assets' as leverage.
                             </p>
@@ -414,14 +414,14 @@ export default function OverdueLoanProtectionPage() {
                         </section>
 
                         <section id="asset-val-rights" className="scroll-mt-32 mb-20">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#1A1A1A] mb-8">Your Right to Fair Asset Valuation</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#1A1A1A] mb-8">Your Right to Fair Asset Valuation</h3>
                             <p className="text-xl leading-relaxed mb-6">
                                 If a bank is selling your asset (car, home, machinery), they cannot sell it at 'junk value.' You are entitled to a copy of the valuation report. You have the right to bring in a higher bidder. If the bank sells the asset for less than its market value due to collusive bidding, we can set aside the auction in the High Court.
                             </p>
                         </section>
 
                         <section id="case-studies" className="scroll-mt-32 mb-20">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 text-center uppercase">Victory Stories: Real People, Real Rights</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 text-center uppercase">Victory Stories: Real People, Real Rights</h3>
                             <div className="grid md:grid-cols-2 gap-6 not-prose">
                                 {[
                                     { name: "Amitav S.", loc: "Kolkata", type: "Home Loan Defense", outcome: "Property Saved", story: "Bank issued a 13(4) possession notice. SettleLoans found 3 procedural errors in their service of notice. We filed in DRT and got a Stay. Eventually settled for a 20% waiver." },
@@ -435,7 +435,7 @@ export default function OverdueLoanProtectionPage() {
                                                 {review.name.charAt(0)}
                                             </div>
                                             <div>
-                                                <h3 className="font-bold text-[#2E2E2E]">{review.name}</h3>
+                                                <h4 className="font-bold text-[#2E2E2E]">{review.name}</h4>
                                                 <p className="text-xs text-gray-400">{review.loc}</p>
                                             </div>
                                             <div className="ml-auto text-yellow-400 text-sm">★★★★★</div>
@@ -450,7 +450,7 @@ export default function OverdueLoanProtectionPage() {
                         </section>
 
                         <section id="faqs" className="scroll-mt-32 mb-20">
-                            <h2 className="text-4xl font-black text-[#1A1A1A] mb-12">Overdue Loan Legal Shield: Expert FAQ</h2>
+                            <h3 className="text-4xl font-black text-[#1A1A1A] mb-12">Overdue Loan Legal Shield: Expert FAQ</h3>
                             <div className="space-y-6 not-prose">
                                 {[
                                     { q: "Can a bank file an FIR for loan default?", a: "Generally, no. Default is a civil matter. If they file an FIR for 'Cheating' (420 IPC), we can move the High Court to quash it if the intention to cheat was not present at the time of taking the loan." },
@@ -487,7 +487,7 @@ export default function OverdueLoanProtectionPage() {
                         <div className="lg:hidden mt-16 mb-8">
                             <div className="bg-[#2E2E2E] rounded-2xl shadow-xl overflow-hidden border border-[#1F5EFF]/20">
                                 <div className="bg-[#1F5EFF] p-6 text-center text-white">
-                                    <h3 className="text-2xl font-black mb-2">Facing Debt Default?</h3>
+                                    <h4 className="text-2xl font-black mb-2">Facing Debt Default?</h4>
                                     <p className="opacity-90 text-sm">Join 50,000+ Indians we've helped find their legal safety net.</p>
                                 </div>
                                 <div className="p-8 text-center text-[#DEDEDE]">

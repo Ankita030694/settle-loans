@@ -260,22 +260,22 @@ export default function ReceiveDocumentsPreClosurePage() {
             </section>
 
             <section id="rbi-return-time" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 RBI Property Documents Return Time
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 The RBI is crystal clear on the maximum time a bank can take to release your documents. 
               </p>
 
               <div className="grid md:grid-cols-2 gap-6 my-8">
                 <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
-                  <h3 className="font-black text-[#1F5EFF] text-lg mb-3">The 30-Day Limit</h3>
+                  <h4 className="font-black text-[#1F5EFF] text-lg mb-3">The 30-Day Limit</h4>
                   <p className="text-gray-700 leading-relaxed">
                     Banks, HFCs, and NBFCs must hand over the original property documents within <strong>30 days</strong> of the full loan repayment or pre-closure.
                   </p>
                 </div>
                 <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
-                  <h4 className="font-black text-[#1F5EFF] text-lg mb-3">Choice of Branch</h4>
+                  <h5 className="font-black text-[#1F5EFF] text-lg mb-3">Choice of Branch</h5>
                   <p className="text-gray-700 leading-relaxed">
                     You have the right to collect your original papers at any branch that is convenient for you, not just the branch that originally disbursed the loan.
                   </p>
@@ -290,15 +290,15 @@ export default function ReceiveDocumentsPreClosurePage() {
             </section>
 
             <section id="penalty-claim" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 Claiming the ₹5,000/Day Penalty
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 If the bank fails to adhere to the property documents return time, the RBI has mandated a strict financial penalty that they must pay directly to the borrower.
               </p>
 
               <div className="bg-blue-50 border-l-8 border-[#1F5EFF] p-8 rounded-r-2xl mb-8">
-                <h3 className="text-xl font-black text-[#1F5EFF] mb-4">How the Penalty Works</h3>
+                <h4 className="text-xl font-black text-[#1F5EFF] mb-4">How the Penalty Works</h4>
                 <p className="text-blue-900 text-lg leading-relaxed mb-4">
                   Banks are obligated to automatically compensate the borrower without the need for a court order.
                 </p>
@@ -320,9 +320,9 @@ export default function ReceiveDocumentsPreClosurePage() {
             </section>
 
             <section id="bank-lost-documents" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 What Happens if the Bank Lost Property Documents?
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 Sometimes the delay is because the <strong>bank lost property documents</strong> entirely. This is a severe lapse in their service, and the RBI has specific rules for this scenario.
               </p>
@@ -331,7 +331,7 @@ export default function ReceiveDocumentsPreClosurePage() {
                 <div className="flex gap-6">
                   <div className="flex-shrink-0 w-12 h-12 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center font-black text-xl shadow-lg">1</div>
                   <div>
-                    <h3 className="text-2xl font-bold text-[#2E2E2E] mb-2">Grace Period for Re-creation</h3>
+                    <h4 className="text-2xl font-bold text-[#2E2E2E] mb-2">Grace Period for Re-creation</h4>
                     <p className="text-lg text-gray-700 leading-relaxed">
                       The bank gets an additional 30 days (60 days total from pre-closure) to resolve the issue before the ₹5,000/day penalty begins.
                     </p>
@@ -341,7 +341,7 @@ export default function ReceiveDocumentsPreClosurePage() {
                 <div className="flex gap-6">
                   <div className="flex-shrink-0 w-12 h-12 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center font-black text-xl shadow-lg">2</div>
                   <div>
-                    <h3 className="text-2xl font-bold text-[#2E2E2E] mb-2">Full Assistance Required</h3>
+                    <h4 className="text-2xl font-bold text-[#2E2E2E] mb-2">Full Assistance Required</h4>
                     <p className="text-lg text-gray-700 leading-relaxed">
                       The bank cannot simply tell you to go to the registrar. They must actively assist in obtaining duplicate or certified copies.
                     </p>
@@ -351,7 +351,7 @@ export default function ReceiveDocumentsPreClosurePage() {
                 <div className="flex gap-6">
                   <div className="flex-shrink-0 w-12 h-12 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center font-black text-xl shadow-lg">3</div>
                   <div>
-                    <h3 className="text-2xl font-bold text-[#2E2E2E] mb-2">Financial Liability</h3>
+                    <h4 className="text-2xl font-bold text-[#2E2E2E] mb-2">Financial Liability</h4>
                     <p className="text-lg text-gray-700 leading-relaxed">
                       The bank must bear all costs associated with recreating the documents, including newspaper notices and legal fees, alongside paying the daily penalty.
                     </p>
@@ -361,15 +361,15 @@ export default function ReceiveDocumentsPreClosurePage() {
             </section>
             
             <section id="myth-of-general-lien" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 The "General Lien" Myth
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 Banks often try to use the property papers of a closed home loan as leverage to force you to pay off a separate unsecured loan, citing the "Right of General Lien".
               </p>
               
               <div className="bg-red-50 p-6 rounded-xl border border-red-100 mb-8">
-                <h3 className="text-xl font-black text-red-700 mb-3">Why This is Illegal</h3>
+                <h4 className="text-xl font-black text-red-700 mb-3">Why This is Illegal</h4>
                 <p className="text-red-900 leading-relaxed">
                   The courts have established that a bank cannot arbitrarily retain title deeds given specifically as security for a housing loan to cover an unrelated, unsecured loan like a credit card, unless there is a specific cross-collateralization agreement in place.
                 </p>
@@ -377,15 +377,15 @@ export default function ReceiveDocumentsPreClosurePage() {
             </section>
 
             <section id="how-to-recover" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 Steps to Recover Original Papers After Pre Closure
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 Don't waste time arguing with customer service. Follow a strict legal escalation path to get your documents and claim your compensation.
               </p>
               
               <div className="bg-white p-8 border border-[#DEDEDE] rounded-2xl shadow-sm mb-8">
-                <h3 className="text-xl font-bold mb-4 text-[#2E2E2E] underline">Action Plan</h3>
+                <h4 className="text-xl font-bold mb-4 text-[#2E2E2E] underline">Action Plan</h4>
                 <ul className="text-sm space-y-3 font-medium list-none text-gray-700">
                   <li className="flex items-start gap-2"><span className="w-1.5 h-1.5 bg-[#1F5EFF] rounded-full mt-2"></span> <strong>1. Send a Legal Notice:</strong> Hire a lawyer to send a formal demand notice to the Grievance Redressal Officer citing the RBI penalty guidelines.</li>
                   <li className="flex items-start gap-2"><span className="w-1.5 h-1.5 bg-[#1F5EFF] rounded-full mt-2"></span> <strong>2. RBI Ombudsman:</strong> If 30 days pass with no resolution, file a complaint on the RBI CMS portal attaching the legal notice and proof of pre-closure.</li>
@@ -395,9 +395,9 @@ export default function ReceiveDocumentsPreClosurePage() {
             </section>
 
             <section id="success-stories" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 Success Stories
-              </h2>
+              </h3>
               <div className="grid md:grid-cols-2 gap-6 my-8">
                 <div className="bg-white p-8 rounded-[30px] border border-[#DEDEDE] shadow-sm hover:shadow-xl group transition-all">
                   <div className="flex items-center gap-4 mb-6">
@@ -405,7 +405,7 @@ export default function ReceiveDocumentsPreClosurePage() {
                       RM
                     </div>
                     <div>
-                      <h3 className="font-bold text-gray-900">Rajesh M.</h3>
+                      <h4 className="font-bold text-gray-900">Rajesh M.</h4>
                       <div className="flex text-yellow-400">
                         <svg className="w-4 h-4 fill-current" viewBox="0 0 20 20"><path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z"/></svg>
                         <svg className="w-4 h-4 fill-current" viewBox="0 0 20 20"><path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z"/></svg>
@@ -430,7 +430,7 @@ export default function ReceiveDocumentsPreClosurePage() {
                       AS
                     </div>
                     <div>
-                      <h4 className="font-bold text-gray-900">Anita S.</h4>
+                      <h5 className="font-bold text-gray-900">Anita S.</h5>
                       <div className="flex text-yellow-400">
                         <svg className="w-4 h-4 fill-current" viewBox="0 0 20 20"><path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z"/></svg>
                         <svg className="w-4 h-4 fill-current" viewBox="0 0 20 20"><path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z"/></svg>
@@ -452,13 +452,13 @@ export default function ReceiveDocumentsPreClosurePage() {
             </section>
 
             <section id="faqs" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 Frequently Asked Questions
-              </h2>
+              </h3>
               <div className="space-y-4">
                 {jsonLd["@graph"].find((item: any) => item["@type"] === "FAQPage")?.mainEntity?.map((faq: any, index: number) => (
                   <div key={index} className="bg-white border border-[#DEDEDE] rounded-xl p-6 hover:shadow-md transition-shadow">
-                    <h3 className="text-xl font-bold text-[#2E2E2E] mb-3">{faq.name}</h3>
+                    <h4 className="text-xl font-bold text-[#2E2E2E] mb-3">{faq.name}</h4>
                     <p className="text-gray-700 leading-relaxed">{faq.acceptedAnswer.text}</p>
                   </div>
                 ))}
@@ -467,7 +467,7 @@ export default function ReceiveDocumentsPreClosurePage() {
 
             <div className="bg-[#2E2E2E] text-white p-12 rounded-[40px] text-center mt-24 relative overflow-hidden group">
               <div className="absolute inset-0 bg-[#1F5EFF] opacity-0 group-hover:opacity-5 transition-opacity"></div>
-              <h3 className="text-3xl font-black mb-6 relative z-10">Don't Let Them Hold Your Property Hostage</h3>
+              <h4 className="text-3xl font-black mb-6 relative z-10">Don't Let Them Hold Your Property Hostage</h4>
               <p className="text-xl opacity-90 mb-8 relative z-10 max-w-2xl mx-auto">
                 Pre-closed your home loan but the bank is holding your original property documents hostage? Use the latest RBI guidelines to force them to return your papers and claim ₹5,000 per day in compensation.
               </p>

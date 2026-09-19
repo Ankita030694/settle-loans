@@ -258,7 +258,7 @@ export default function BestAppsLoanSettlementPage() {
                     In this comprehensive guide, we have analyzed the current market to identify the most effective digital tools available. These are not just standard banking apps; they are specialized platforms designed to give you back control over your financial destiny. Whether you are looking to track your current liabilities or seeking a way to settle overwhelming debt, the following applications represent the gold standard in Indian fintech for 2026.
                 </p>
                 <div className="bg-[#1F5EFF]/5 border-l-4 border-[#1F5EFF] p-8 my-10 rounded-r-2xl">
-                    <h3 className="text-xl font-bold text-[#2E2E2E] mb-3">Why Digital Tools are Non-Negotiable Today</h3>
+                    <h4 className="text-xl font-bold text-[#2E2E2E] mb-3">Why Digital Tools are Non-Negotiable Today</h4>
                     <p className="text-base italic">
                         "The rise of the Account Aggregator framework has made financial transparency a reality. Borrowers who do not use these tools are essentially flying blind in a storm of high-interest credit and automated collection systems."
                     </p>
@@ -267,7 +267,7 @@ export default function BestAppsLoanSettlementPage() {
             </section>
 
             <section id="tracking-apps" className="scroll-mt-32 mb-20">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-10">1. Top Tracking and EMI Management Apps</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-10">1. Top Tracking and EMI Management Apps</h3>
               <p className="text-lg leading-relaxed mb-10">
                 The first step to debt freedom is 100% visibility. You cannot fix what you cannot see. The following apps excel at aggregating your debt profile into a single, actionable dashboard.
               </p>
@@ -278,7 +278,7 @@ export default function BestAppsLoanSettlementPage() {
                     <div className="absolute top-0 right-0 w-32 h-32 bg-[#1F5EFF]/5 rounded-bl-full -mr-10 -mt-10 group-hover:scale-110 transition-transform"></div>
                     <div className="flex items-center gap-4 mb-6">
                         <div className="w-12 h-12 bg-[#1F5EFF] text-white flex items-center justify-center rounded-xl font-black text-xl shadow-lg">01</div>
-                        <h3 className="text-2xl md:text-3xl font-black text-[#2E2E2E]">INDmoney: The Holistic Wealth Dashboard</h3>
+                        <h4 className="text-2xl md:text-3xl font-black text-[#2E2E2E]">INDmoney: The Holistic Wealth Dashboard</h4>
                     </div>
                     <p className="text-lg text-[#4A4A4A] leading-relaxed mb-6">
                         INDmoney has evolved into more than just an investment tracker. Use it to pull your entire credit profile via the Account Aggregator framework. This is vital because it shows you your 'debt-to-income' ratio in real time.
@@ -304,7 +304,7 @@ export default function BestAppsLoanSettlementPage() {
                     <div className="absolute top-0 right-0 w-32 h-32 bg-[#1F5EFF]/5 rounded-bl-full -mr-10 -mt-10 group-hover:scale-110 transition-transform"></div>
                     <div className="flex items-center gap-4 mb-6">
                         <div className="w-12 h-12 bg-[#1F5EFF] text-white flex items-center justify-center rounded-xl font-black text-xl shadow-lg">02</div>
-                        <h3 className="text-2xl md:text-3xl font-black text-[#2E2E2E]">Money View: Expense and Loan Control</h3>
+                        <h4 className="text-2xl md:text-3xl font-black text-[#2E2E2E]">Money View: Expense and Loan Control</h4>
                     </div>
                     <p className="text-lg text-[#4A4A4A] leading-relaxed mb-6">
                         Money View stands out for its localized categorization. It reads your SMS alerts (with permission) to categorize your spending, helping you find the funds needed to close out small debts early.
@@ -319,7 +319,7 @@ export default function BestAppsLoanSettlementPage() {
                     <div className="absolute top-0 right-0 w-32 h-32 bg-[#1F5EFF]/5 rounded-bl-full -mr-10 -mt-10 group-hover:scale-110 transition-transform"></div>
                     <div className="flex items-center gap-4 mb-6">
                         <div className="w-12 h-12 bg-[#1F5EFF] text-white flex items-center justify-center rounded-xl font-black text-xl shadow-lg">03</div>
-                        <h3 className="text-2xl md:text-3xl font-black text-[#2E2E2E]">Walnut: Real Time Budgeting</h3>
+                        <h4 className="text-2xl md:text-3xl font-black text-[#2E2E2E]">Walnut: Real Time Budgeting</h4>
                     </div>
                     <p className="text-lg text-[#4A4A4A] leading-relaxed mb-6">
                         Walnut is particularly useful for people managing multiple small 'instant' loans from various NBFC apps. It detects the recurring EMI patterns and reminds you 48 hours in advance to ensure your bank balance is sufficient, thus avoiding heavy bounce charges.
@@ -329,7 +329,7 @@ export default function BestAppsLoanSettlementPage() {
             </section>
 
             <section id="settlement-apps" className="scroll-mt-32 mb-20">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-10">2. Dedicated Settlement Platforms</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-10">2. Dedicated Settlement Platforms</h3>
               <p className="text-lg leading-relaxed mb-10 text-[#4A4A4A]">
                 When tracking your debt and budgeting are no longer enough to keep your head above water, it is time to look at professional settlement platforms. These apps are designed for borrowers who have experienced significant financial hardship—such as job loss, medical emergencies, or business failure—and can no longer afford their full EMIs.
               </p>
@@ -337,9 +337,9 @@ export default function BestAppsLoanSettlementPage() {
               <div className="space-y-12">
                 {/* Amalegal Solutions Card */}
                 <div className="bg-blue-50 p-10 rounded-[30px] border border-blue-100">
-                    <h3 className="text-2xl font-black text-blue-900 mb-6 capsule inline-block py-2 px-6 bg-white rounded-full shadow-sm">
+                    <h4 className="text-2xl font-black text-blue-900 mb-6 capsule inline-block py-2 px-6 bg-white rounded-full shadow-sm">
                         <a href="https://amalegalsolutions.com" target="_blank" rel="noopener noreferrer">Amalegal Solutions</a>
-                    </h3>
+                    </h4>
                     <p className="text-lg leading-relaxed text-[#2E2E2E] mb-6 font-medium">
                         Highly respected firm specializing in complex legal resolutions for distressed borrowers. Known for meticulous legal documentation that ensures borrowers face no future legal complications.
                     </p>
@@ -351,9 +351,9 @@ export default function BestAppsLoanSettlementPage() {
 
                 {/* CredSettle Card */}
                 <div className="bg-emerald-50 p-10 rounded-[30px] border border-emerald-100">
-                    <h3 className="text-2xl font-black text-emerald-900 mb-6 capsule inline-block py-2 px-6 bg-white rounded-full shadow-sm">
+                    <h4 className="text-2xl font-black text-emerald-900 mb-6 capsule inline-block py-2 px-6 bg-white rounded-full shadow-sm">
                         <a href="https://credsettle.com" target="_blank" rel="noopener noreferrer">CredSettle</a>
-                    </h3>
+                    </h4>
                     <p className="text-lg leading-relaxed text-[#2E2E2E] mb-6 font-medium">
                         Provides structured settlement programs with affordable installments, making it easier to accumulate the necessary funds while negotiating reasonable discounts with banking institutions.
                     </p>
@@ -365,9 +365,9 @@ export default function BestAppsLoanSettlementPage() {
 
                 {/* SettleLoans Card */}
                 <div className="bg-[#1F5EFF]/5 p-10 rounded-[30px] border border-[#1F5EFF]/10">
-                    <h3 className="text-2xl font-black text-[#1F5EFF] mb-6 capsule inline-block py-2 px-6 bg-white rounded-full shadow-sm">
+                    <h4 className="text-2xl font-black text-[#1F5EFF] mb-6 capsule inline-block py-2 px-6 bg-white rounded-full shadow-sm">
                         <a href="https://www.settleloans.in" target="_blank" rel="noopener noreferrer">SettleLoans</a>
-                    </h3>
+                    </h4>
                     <p className="text-lg leading-relaxed text-[#2E2E2E] mb-6 font-medium">
                         The gold standard in comprehensive debt settlement in India. Offers unparalleled legal protection against harassment and maximum waivers through a massive in-house legal team.
                     </p>
@@ -378,7 +378,7 @@ export default function BestAppsLoanSettlementPage() {
                 </div>
 
                 <div className="bg-orange-50 p-10 rounded-[30px] border border-orange-100">
-                    <h3 className="text-2xl font-black text-orange-900 mb-6 capsule inline-block py-2 px-6 bg-white rounded-full shadow-sm">FREED</h3>
+                    <h4 className="text-2xl font-black text-orange-900 mb-6 capsule inline-block py-2 px-6 bg-white rounded-full shadow-sm">FREED</h4>
                     <p className="text-lg leading-relaxed text-[#2E2E2E] mb-6 font-medium">
                         FREED is India’s first comprehensive debt relief platform. They provide a structured program known as a Debt Settlement Program (DSP). The app acts as a central hub where you can see your progress as you save towards a settlement goal.
                     </p>
@@ -395,7 +395,7 @@ export default function BestAppsLoanSettlementPage() {
                 </div>
 
                 <div className="bg-purple-50 p-10 rounded-[30px] border border-purple-100">
-                    <h3 className="text-2xl font-black text-purple-900 mb-6 capsule inline-block py-2 px-6 bg-white rounded-full shadow-sm">SingleDebt</h3>
+                    <h4 className="text-2xl font-black text-purple-900 mb-6 capsule inline-block py-2 px-6 bg-white rounded-full shadow-sm">SingleDebt</h4>
                     <p className="text-lg leading-relaxed text-[#2E2E2E] mb-6 font-medium">
                         SingleDebt follows the UK model of Debt Management Plans (DMP). Their app focuses on legal representation and harassment protection, making it a favorite for those dealing with aggressive recovery agents.
                     </p>
@@ -424,26 +424,26 @@ export default function BestAppsLoanSettlementPage() {
             <section id="rbi-safety" className="scroll-mt-32 mb-20">
                 <div className="bg-[#2E2E2E] text-[#DEDEDE] p-12 rounded-[40px] relative overflow-hidden">
                     <div className="absolute top-0 left-0 w-full h-2 bg-gradient-to-r from-[#1F5EFF] via-purple-500 to-blue-400"></div>
-                    <h2 className="text-3xl md:text-5xl font-black mb-8 leading-tight">Safety First: <span className="text-[#1F5EFF]">RBI Digital Lending Guidelines (2025 Updates)</span></h2>
+                    <h3 className="text-3xl md:text-5xl font-black mb-8 leading-tight">Safety First: <span className="text-[#1F5EFF]">RBI Digital Lending Guidelines (2025 Updates)</span></h3>
                     <p className="text-xl opacity-80 mb-10 leading-relaxed max-w-3xl">
                         The Reserve Bank of India has taken a strong stance against predatory fintech practices. In 2026, every legitimate app must comply with the following safety protocols. If an app does not follow these, you should uninstall it immediately.
                     </p>
                     
                     <div className="grid md:grid-cols-2 gap-8">
                         <div className="p-8 border border-[#DEDEDE]/10 rounded-3xl bg-white/5">
-                            <h3 className="text-[#1F5EFF] font-black text-xl mb-4 uppercase tracking-wider">Data Sovereignty</h3>
+                            <h4 className="text-[#1F5EFF] font-black text-xl mb-4 uppercase tracking-wider">Data Sovereignty</h4>
                             <p className="text-base opacity-70">Apps are strictly prohibited from accessing your entire contact list, gallery, or camera. They can only request permissions that are absolutely essential for the loan or management process.</p>
                         </div>
                         <div className="p-8 border border-[#DEDEDE]/10 rounded-3xl bg-white/5">
-                            <h4 className="text-[#1F5EFF] font-black text-xl mb-4 uppercase tracking-wider">NBFC Transparency</h4>
+                            <h5 className="text-[#1F5EFF] font-black text-xl mb-4 uppercase tracking-wider">NBFC Transparency</h5>
                             <p className="text-base opacity-70">A management app must clearly state which RBI-registered NBFC it is partnered with. Check the footer or 'About' page for a direct link to the partner's registration certificate.</p>
                         </div>
                         <div className="p-8 border border-[#DEDEDE]/10 rounded-3xl bg-white/5">
-                            <h4 className="text-[#1F5EFF] font-black text-xl mb-4 uppercase tracking-wider">Cooling-off Period</h4>
+                            <h5 className="text-[#1F5EFF] font-black text-xl mb-4 uppercase tracking-wider">Cooling-off Period</h5>
                             <p className="text-base opacity-70">As per new 2026 norms, if you take a loan via a digital app, you have a 3-day 'look-up' period to return the principal without any prepayment penalty if you decide you do not need it.</p>
                         </div>
                         <div className="p-8 border border-[#DEDEDE]/10 rounded-3xl bg-white/5">
-                            <h4 className="text-[#1F5EFF] font-black text-xl mb-4 uppercase tracking-wider">Nodal Officer Access</h4>
+                            <h5 className="text-[#1F5EFF] font-black text-xl mb-4 uppercase tracking-wider">Nodal Officer Access</h5>
                             <p className="text-base opacity-70">The app must provide a direct contact for a Grievance Redressal Officer. Your complaints cannot be handled solely by an AI chatbot; human intervention is a regulatory right.</p>
                         </div>
                     </div>
@@ -451,14 +451,14 @@ export default function BestAppsLoanSettlementPage() {
             </section>
 
             <section id="credit-card-tools" className="scroll-mt-32 mb-20">
-                <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-10">4. Credit Card Debt Management Tools</h2>
+                <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-10">4. Credit Card Debt Management Tools</h3>
                 <p className="text-lg leading-relaxed mb-10 text-[#4A4A4A]">
                     Credit card debt is the most dangerous form of unsecured liability because of its compounding nature. With interest rates often exceeding 40% per annum, these apps are essential for avoiding a debt spiral.
                 </p>
 
                 <div className="grid md:grid-cols-2 gap-8">
                     <div className="p-8 border border-[#DEDEDE] rounded-[30px] hover:border-[#1F5EFF] transition-colors">
-                        <h3 className="text-2xl font-black mb-4">CRED: The Payment Powerhouse</h3>
+                        <h4 className="text-2xl font-black mb-4">CRED: The Payment Powerhouse</h4>
                         <p className="text-base text-[#4A4A4A] mb-6">CRED provides a unified view of all your cards. It detects 'hidden' charges and helps you pay on time to avoid the 3.5% monthly late fees that banks charge.</p>
                         <div className="flex flex-wrap gap-2">
                             <span className="px-3 py-1 bg-gray-100 rounded-full text-xs font-bold uppercase">Statement Analysis</span>
@@ -466,7 +466,7 @@ export default function BestAppsLoanSettlementPage() {
                         </div>
                     </div>
                     <div className="p-8 border border-[#DEDEDE] rounded-[30px] hover:border-[#1F5EFF] transition-colors">
-                        <h3 className="text-2xl font-black mb-4">OneScore: Credit Tracking</h3>
+                        <h4 className="text-2xl font-black mb-4">OneScore: Credit Tracking</h4>
                         <p className="text-base text-[#4A4A4A] mb-6">OneScore pulls both your Experian and CIBIL reports for free. Use the 'Score Planner' feature to see how paying off specific cards will boost your score the fastest.</p>
                         <div className="flex flex-wrap gap-2">
                             <span className="px-3 py-1 bg-gray-100 rounded-full text-xs font-bold uppercase">Dual Bureau Score</span>
@@ -477,18 +477,18 @@ export default function BestAppsLoanSettlementPage() {
             </section>
 
             <section id="legal-protection" className="scroll-mt-32 mb-20">
-                <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-10">5. Apps for Legal Protection and Harassment Prevention</h2>
+                <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-10">5. Apps for Legal Protection and Harassment Prevention</h3>
                 <div className="space-y-8 text-lg leading-relaxed text-[#4A4A4A]">
                     <p>
                         One of the most distressing aspects of being in debt is the constant pressure from recovery agents. In 2026, several applications have integrated legal support specifically to counter aggressive collection tactics that violate RBI guidelines. These apps act as a buffer between you and the lender's recovery department.
                     </p>
                     <div className="grid md:grid-cols-2 gap-10">
                         <div className="bg-white border-2 border-[#1F5EFF]/10 p-8 rounded-[30px] shadow-sm relative group hover:border-[#1F5EFF] transition-all">
-                            <h3 className="text-xl font-bold mb-4 text-[#2E2E2E]">Automatic Legal Notifications</h3>
+                            <h4 className="text-xl font-bold mb-4 text-[#2E2E2E]">Automatic Legal Notifications</h4>
                             <p className="text-base">When you enroll in specialized debt management apps, the platform can automatically generate and send legal notices to the nodal officers of your banks. This puts the bank on notice that you are seeking professional resolution, which often triggers a shift from aggressive recovery to a more formal negotiation track.</p>
                         </div>
                         <div className="bg-white border-2 border-[#1F5EFF]/10 p-8 rounded-[30px] shadow-sm relative group hover:border-[#1F5EFF] transition-all">
-                            <h3 className="text-xl font-bold mb-4 text-[#2E2E2E]">Call Redirection and Logging</h3>
+                            <h4 className="text-xl font-bold mb-4 text-[#2E2E2E]">Call Redirection and Logging</h4>
                             <p className="text-base">Modern tools allow you to log and record every interaction with recovery agents. This documentation is vital for filing complaints with the RBI Ombudsman. Some apps even offer call redirection services where agents are asked to contact your designated legal representative instead of calling you at your workplace.</p>
                         </div>
                     </div>
@@ -497,10 +497,10 @@ export default function BestAppsLoanSettlementPage() {
 
             <section id="scam-prevention" className="scroll-mt-32 mb-20">
                 <div className="bg-red-50 border-2 border-red-100 p-10 md:p-16 rounded-[40px]">
-                    <h2 className="text-3xl md:text-4xl font-black text-red-900 mb-8 flex items-center gap-3">
+                    <h3 className="text-3xl md:text-4xl font-black text-red-900 mb-8 flex items-center gap-3">
                         <svg className="w-10 h-10 text-red-600" fill="currentColor" viewBox="0 0 20 20"><path fillRule="evenodd" d="M8.257 3.099c.765-1.36 2.722-1.36 3.486 0l5.58 9.92c.75 1.334-.213 2.98-1.742 2.98H4.42c-1.53 0-2.493-1.646-1.743-2.98l5.58-9.92zM11 13a1 1 0 11-2 0 1 1 0 012 0zm-1-8a1 1 0 00-1 1v3a1 1 0 002 0V6a1 1 0 00-1-1z" clipRule="evenodd"/></svg>
                         6. Avoiding Digital Loan Scams: Red Flags
-                    </h2>
+                    </h3>
                     <p className="text-lg text-red-800 mb-10 leading-relaxed font-medium">
                         For every legitimate debt management app, there are a dozen 'predatory' loan apps that aim to trap you in a cycle of high interest and extortion. Protect yourself by identifying these critical red flags before you ever download an app.
                     </p>
@@ -538,13 +538,13 @@ export default function BestAppsLoanSettlementPage() {
             </section>
 
             <section id="bnpl-management" className="scroll-mt-32 mb-20">
-                <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-10">7. Managing BNPL (Buy Now Pay Later) Debt</h2>
+                <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-10">7. Managing BNPL (Buy Now Pay Later) Debt</h3>
                 <div className="space-y-6 text-lg leading-relaxed text-[#4A4A4A]">
                     <p>
                         Buy Now Pay Later (BNPL) services like Simpl, ZestMoney, and Amazon Pay Later have become ubiquitous in 2026. While they appear harmless for small purchases, they are technically unsecured loans that are reported to credit bureaus. Defaulting on a ₹1000 BNPL bill can damage your CIBIL score just as much as missing a ₹1 lakh EMI.
                     </p>
                     <div className="bg-white p-10 rounded-[40px] border border-[#DEDEDE] shadow-inner">
-                        <h3 className="text-2xl font-black text-[#1F5EFF] mb-6">Strategic BNPL Control</h3>
+                        <h4 className="text-2xl font-black text-[#1F5EFF] mb-6">Strategic BNPL Control</h4>
                         <p className="mb-8">Tools like <strong>Jupiter</strong> and <strong>Fi Money</strong> offer advanced categorization that flags BNPL spending separately. Use these apps to set automated 'hard caps' on your deferred payments to ensure you never over-leveraged your future income for today's convenience.</p>
                         <div className="flex flex-col md:flex-row gap-6">
                             <div className="flex-1 p-6 bg-gray-50 rounded-2xl">
@@ -559,14 +559,14 @@ export default function BestAppsLoanSettlementPage() {
             </section>
 
             <section id="human-negotiation" className="scroll-mt-32 mb-20">
-                <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-10">8. Why Humans Still Beat Algorithms in Debt Negotiation</h2>
+                <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-10">8. Why Humans Still Beat Algorithms in Debt Negotiation</h3>
                 <div className="space-y-6 text-lg leading-relaxed text-[#4A4A4A]">
                     <p>
                         In an era where AI can draft legal notices and track every paise of your spending, you might wonder why professional human negotiators are still necessary. While apps provide the consistency and data tracking needed for the long haul, the final 'handshake' with a bank often requires a human touch that no algorithm can replicate in 2026.
                     </p>
                     <div className="bg-white p-10 rounded-[40px] border border-[#DEDEDE] relative overflow-hidden group">
                         <div className="absolute top-0 right-0 w-2 h-full bg-[#1F5EFF]"></div>
-                        <h3 className="text-2xl font-black text-[#2E2E2E] mb-6">The Power of Contextual Hardship</h3>
+                        <h4 className="text-2xl font-black text-[#2E2E2E] mb-6">The Power of Contextual Hardship</h4>
                         <p className="mb-8 font-medium">Lending algorithms are binary—they look at your income, your delay in days, and your settlement offer. However, bank managers have the discretionary power to grant deeper waivers based on human factors.</p>
                         <ul className="grid md:grid-cols-3 gap-6">
                             <li className="p-6 bg-gray-50 rounded-2xl border border-gray-100 shadow-sm">
@@ -587,19 +587,19 @@ export default function BestAppsLoanSettlementPage() {
             </section>
 
             <section id="credit-rehabilitation" className="scroll-mt-32 mb-20">
-                <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-10">9. Post-Settlement Recovery: Rebuilding Your Digital Profile</h2>
+                <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-10">9. Post-Settlement Recovery: Rebuilding Your Digital Profile</h3>
                 <div className="space-y-8 text-lg leading-relaxed text-[#4A4A4A]">
                     <p>
                         Once your settlement is complete and you have your 'No Dues Certificate' in hand, the next phase begins: Credit Rehabilitation. In the digital age, your credit score is your passport to financial products. A settlement will initially drag your score down, but you can use apps to climb back up systematically.
                     </p>
                     <div className="grid md:grid-cols-2 gap-10">
                         <div className="p-8 bg-[#1F5EFF] text-white rounded-[30px] shadow-xl">
-                            <h3 className="text-2xl font-black mb-4 uppercase tracking-wider">The FD-Backed Card Strategy</h3>
+                            <h4 className="text-2xl font-black mb-4 uppercase tracking-wider">The FD-Backed Card Strategy</h4>
                             <p className="opacity-90 mb-6">The fastest way to post positive payment history after a settlement is a Credit Card against a Fixed Deposit. Use apps like <strong>OneCode</strong> or <strong>IDFC First bank's app</strong> to apply for 'Step-up' cards. Since these are secured, the bank will issue them regardless of your past 'Settled' status.</p>
                             <div className="py-3 px-6 bg-white/10 rounded-full inline-block font-black text-sm uppercase">Recommended for 2026</div>
                         </div>
                         <div className="p-8 bg-white border-2 border-[#DEDEDE] rounded-[30px] shadow-sm">
-                            <h3 className="text-2xl font-black mb-4 text-[#2E2E2E]">Score Monitoring Algorithms</h3>
+                            <h4 className="text-2xl font-black mb-4 text-[#2E2E2E]">Score Monitoring Algorithms</h4>
                             <p className="text-base text-[#747474] mb-6">Apps like <strong>OneScore</strong> provide a 'simulator' that shows you exactly how much your score will increase if you maintain perfect repayment on your new small bills. Consistency over 12 months can often bring a score from 600 back to 750 even after a settlement.</p>
                             <span className="text-[#1F5EFF] font-black text-sm uppercase tracking-widest">Consistency is Key</span>
                         </div>
@@ -608,7 +608,7 @@ export default function BestAppsLoanSettlementPage() {
             </section>
 
             <section id="case-studies" className="scroll-mt-32 mb-20">
-                <h2 className="text-3xl md:text-5xl font-black text-[#2E2E2E] mt-16 mb-8 text-center">Real Stories of Freedom</h2>
+                <h3 className="text-3xl md:text-5xl font-black text-[#2E2E2E] mt-16 mb-8 text-center">Real Stories of Freedom</h3>
                 <div className="grid md:grid-cols-2 gap-6 not-prose">
                     {[
                         {
@@ -646,7 +646,7 @@ export default function BestAppsLoanSettlementPage() {
                                     {review.name.charAt(0)}
                                 </div>
                                 <div className="text-left">
-                                    <h3 className="font-bold text-[#2E2E2E]">{review.name}</h3>
+                                    <h4 className="font-bold text-[#2E2E2E]">{review.name}</h4>
                                     <p className="text-xs text-gray-400">{review.loc}</p>
                                 </div>
                                 <div className="ml-auto text-yellow-500 text-sm">★★★★★</div>
@@ -661,7 +661,7 @@ export default function BestAppsLoanSettlementPage() {
             </section>
 
             <section id="faqs" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Frequently Asked Questions</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Frequently Asked Questions</h3>
               <div className="space-y-4">
                 {faqData.map((faq, i) => (
                   <details key={i} className="group bg-white border border-[#DEDEDE] rounded-xl overflow-hidden hover:shadow-md transition-all border-b-4 border-b-[#1F5EFF]/20">
@@ -682,7 +682,7 @@ export default function BestAppsLoanSettlementPage() {
             {/* Bottom CTA */}
             <div className="mt-16 pt-8 border-t border-gray-200 text-center">
               <div className="bg-[#2E2E2E] rounded-2xl p-8 text-white">
-                <h3 className="text-3xl font-black mb-4">Don't Let an Algorithm Decide Your Fate</h3>
+                <h4 className="text-3xl font-black mb-4">Don't Let an Algorithm Decide Your Fate</h4>
                 <p className="mb-8 opacity-80">Apps are tools, but our legal team is your voice. Get a personalized settlement strategy today.</p>
                 <Link href="/contact" className="inline-block bg-[#1F5EFF] text-white font-bold py-4 px-10 rounded-xl hover:scale-105 transition-all text-lg shadow-xl">
                   Connect with a Settlement Specialist

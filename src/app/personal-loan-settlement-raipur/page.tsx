@@ -577,7 +577,7 @@ export default function PersonalLoanSettlementRaipurPage() {
                 <Clock className="w-4 h-4" />
                 <span>2. Delinquency Timeline &amp; NPA Accounting</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Delinquency Timeline &amp; NPA Rules in Raipur</h2>
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Delinquency Timeline &amp; NPA Rules in Raipur</h3>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Overdue loans follow strict RBI (IRACP) rules and Ind AS 109. Lenders track loans in Special Mention Account tiers. These tiers are SMA-0 (1–30 days), SMA-1 (31–60 days), and SMA-2 (61–90 days). After 90 days, the loan turns into a Non-Performing Asset (NPA).
               </p>
@@ -641,7 +641,7 @@ export default function PersonalLoanSettlementRaipurPage() {
                 <ShieldAlert className="w-4 h-4" />
                 <span>3. Halting Harassment &amp; Stopping NACH Charges</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Defending Against Recovery Harassment in Raipur</h2>
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Defending Against Recovery Harassment in Raipur</h3>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Recovery agents in Raipur often use harsh tactics. Borrowers face unannounced visits and false threats. Under RBI rules on recovery agents, collectors must follow strict rules:
               </p>
@@ -662,7 +662,7 @@ export default function PersonalLoanSettlementRaipurPage() {
                 <Calculator className="w-4 h-4" />
                 <span>4. RBI Compromise Guidelines &amp; NPV Math</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">RBI Compromise Rules &amp; NPV in Raipur</h2>
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">RBI Compromise Rules &amp; NPV in Raipur</h3>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Under RBI Master Direction DOR.STR.REC.20/21.04.048/2023-24, banks set compromise policies. Unsecured loans have no collateral under SARFAESI. Banks compare settlement offers to the Net Present Value (NPV) of court recovery.
               </p>
@@ -686,7 +686,7 @@ export default function PersonalLoanSettlementRaipurPage() {
               </p>
 
               {/* Settlement Haircut Slabs Table */}
-              <h3 className="text-lg font-bold text-slate-900 mb-3">Realistic Loan Settlement Haircut Slabs for Raipur &amp; Chhattisgarh Borrowers</h3>
+              <h4 className="text-lg font-bold text-slate-900 mb-3">Realistic Loan Settlement Haircut Slabs for Raipur &amp; Chhattisgarh Borrowers</h4>
               <div className="overflow-x-auto my-4">
                 <table className="min-w-full bg-white">
                   <thead>
@@ -751,9 +751,9 @@ export default function PersonalLoanSettlementRaipurPage() {
                       <span className="text-[10px] font-black uppercase tracking-widest text-blue-300 block">
                         Legal Defense &amp; Action Blueprint
                       </span>
-                      <h3 className="text-sm md:text-base font-black text-white leading-tight">
+                      <h4 className="text-sm md:text-base font-black text-white leading-tight">
                         Raipur Personal Loan Settlement &amp; Lok Adalat Legal Defense Blueprint
-                      </h3>
+                      </h4>
                     </div>
                   </div>
                   <a
@@ -800,7 +800,7 @@ export default function PersonalLoanSettlementRaipurPage() {
                 <Gavel className="w-4 h-4" />
                 <span>6. Raipur District Court &amp; JMFC Defense</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Sec 138 NI Act &amp; Sec 25 Defense in Raipur Courts</h2>
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Sec 138 NI Act &amp; Sec 25 Defense in Raipur Courts</h3>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 During long defaults, lenders file cases in the District Court Complex near Kalibadi. These go before the Judicial Magistrate First Class (JMFC) in Raipur. Lenders file under Section 138 of the NI Act for cheques. They file under Section 25 of the PSSA for failed NACH debits.
               </p>
@@ -818,7 +818,7 @@ export default function PersonalLoanSettlementRaipurPage() {
                 <Scale className="w-4 h-4" />
                 <span>7. DLSA Raipur Lok Adalat Representation</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Settling via National Lok Adalat</h2>
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Settling via National Lok Adalat</h3>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 The DLSA Raipur holds National Lok Adalats each quarter at the District Court. Under the Legal Services Authorities Act, 1987, Lok Adalat offers a legal platform to compromise.
               </p>
@@ -833,67 +833,67 @@ export default function PersonalLoanSettlementRaipurPage() {
                 <Layers className="w-4 h-4" />
                 <span>8. Step-by-Step Settlement Roadmap</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">6-Phase Debt Settlement Protocol in Raipur</h2>
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">6-Phase Debt Settlement Protocol in Raipur</h3>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 SettleLoans executes a disciplined 6-phase resolution strategy tailored to Chhattisgarh&apos;s legal and commercial landscape:
               </p>
 
               <div className="space-y-4 my-6">
                 <div className="p-6 rounded-2xl bg-white border border-slate-200 shadow-sm">
-                  <h3 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
+                  <h4 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
                     <span className="w-7 h-7 rounded-lg bg-blue-50 text-[#1F5EFF] font-black text-sm flex items-center justify-center border border-blue-200">1</span>
                     Financial Forensic Audit
-                  </h3>
+                  </h4>
                   <p className="text-slate-600 text-sm md:text-base leading-relaxed">
                     We audit your loan agreements and statements. We separate the true principal from unfair penal charges and illegal fees.
                   </p>
                 </div>
 
                 <div className="p-6 rounded-2xl bg-white border border-slate-200 shadow-sm">
-                  <h3 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
+                  <h4 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
                     <span className="w-7 h-7 rounded-lg bg-blue-50 text-[#1F5EFF] font-black text-sm flex items-center justify-center border border-blue-200">2</span>
                     Anti-Harassment Legal Shield
-                  </h3>
+                  </h4>
                   <p className="text-slate-600 text-sm md:text-base leading-relaxed">
                     We issue formal legal notices under the RBI Fair Practices Code. This redirects all collection calls to your appointed lawyer.
                   </p>
                 </div>
 
                 <div className="p-6 rounded-2xl bg-white border border-slate-200 shadow-sm">
-                  <h3 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
+                  <h4 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
                     <span className="w-7 h-7 rounded-lg bg-blue-50 text-[#1F5EFF] font-black text-sm flex items-center justify-center border border-blue-200">3</span>
                     Halting NACH Auto-Debits
-                  </h3>
+                  </h4>
                   <p className="text-slate-600 text-sm md:text-base leading-relaxed">
                     We help you cancel e-NACH mandates at your bank under NPCI rules. This stops ongoing bounce fees and protects your funds.
                   </p>
                 </div>
 
                 <div className="p-6 rounded-2xl bg-white border border-slate-200 shadow-sm">
-                  <h3 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
+                  <h4 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
                     <span className="w-7 h-7 rounded-lg bg-blue-50 text-[#1F5EFF] font-black text-sm flex items-center justify-center border border-blue-200">4</span>
                     Zonal Committee Negotiations
-                  </h3>
+                  </h4>
                   <p className="text-slate-600 text-sm md:text-base leading-relaxed">
                     We bypass recovery agents and negotiate directly with bank Zonal Committees using documented hardship files under RBI rules.
                   </p>
                 </div>
 
                 <div className="p-6 rounded-2xl bg-white border border-slate-200 shadow-sm">
-                  <h3 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
+                  <h4 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
                     <span className="w-7 h-7 rounded-lg bg-blue-50 text-[#1F5EFF] font-black text-sm flex items-center justify-center border border-blue-200">5</span>
                     Sanction Letter Verification
-                  </h3>
+                  </h4>
                   <p className="text-slate-600 text-sm md:text-base leading-relaxed">
                     Our banking lawyers audit the OTS sanction letter. We check official letterheads, correct loan details. And legal case withdrawal clauses.
                   </p>
                 </div>
 
                 <div className="p-6 rounded-2xl bg-white border border-slate-200 shadow-sm">
-                  <h3 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
+                  <h4 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
                     <span className="w-7 h-7 rounded-lg bg-blue-50 text-[#1F5EFF] font-black text-sm flex items-center justify-center border border-blue-200">6</span>
                     Direct Remittance &amp; ₹0 NDC Enforcement
-                  </h3>
+                  </h4>
                   <p className="text-slate-600 text-sm md:text-base leading-relaxed">
                     You pay the settlement sum directly to your loan account via RTGS/NEFT. We secure your zero-balance No Dues Certificate within 30 days.
                   </p>
@@ -907,7 +907,7 @@ export default function PersonalLoanSettlementRaipurPage() {
                 <FileCheck className="w-4 h-4" />
                 <span>9. Sanction Letter Forensics &amp; NDC Mandate</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Sanction Letter Audit &amp; NDC in Raipur</h2>
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Sanction Letter Audit &amp; NDC in Raipur</h3>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Borrowers must avoid fake settlement letters from recovery agents. Your lawyer verifies key terms before you pay:
               </p>
@@ -928,7 +928,7 @@ export default function PersonalLoanSettlementRaipurPage() {
                 <TrendingUp className="w-4 h-4" />
                 <span>10. Credit Rehabilitation &amp; Score Recovery</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Post-Settlement CIBIL Recovery in Raipur</h2>
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Post-Settlement CIBIL Recovery in Raipur</h3>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Settling a loan updates your credit bureaus to <strong>&apos;Settled&apos;</strong> with a <strong>₹0</strong> balance. This causes an initial drop of 75 to 150 points. However, monthly default marks and legal risks stop immediately.
               </p>
@@ -949,9 +949,9 @@ export default function PersonalLoanSettlementRaipurPage() {
                 <ShieldCheck className="w-4 h-4" />
                 <span>11. Legal Representation &amp; Defense</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 Why Borrowers in Raipur &amp; Chhattisgarh Choose SettleLoans
-              </h2>
+              </h3>
               <p className="text-slate-700 leading-relaxed mb-6 text-base md:text-lg">
                 Disputes and court notices need skilled legal support. SettleLoans helps workers and business owners across Raipur, Bhilai, Durg, and Bilaspur. We stop harassment. We defend court notices in JMFC court. We also attend DLSA Lok Adalat to secure maximum loan waivers.
               </p>
@@ -969,9 +969,9 @@ export default function PersonalLoanSettlementRaipurPage() {
                   <Gavel className="w-4 h-4" />
                   <span>Local Legal Jurisdiction &amp; Legal Aid Directory</span>
                 </div>
-                <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+                <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                   District Courts &amp; DLSA Helpdesk in Raipur
-                </h2>
+                </h3>
                 <p className="text-slate-700 leading-relaxed mb-6 text-base">
                   Distressed borrowers facing recovery pressure, arbitration summons, or Section 138 NI Act notices in Raipur can access statutory legal defense through the local District Court and District Legal Services Authority (DLSA):
                 </p>
@@ -1008,7 +1008,7 @@ export default function PersonalLoanSettlementRaipurPage() {
                 <HelpCircle className="w-4 h-4" />
                 <span>12. Frequently Asked Questions</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">FAQs: Personal Loan Settlement in Raipur</h2>
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">FAQs: Personal Loan Settlement in Raipur</h3>
 
               <div className="space-y-4">
                 {faqs.map((faq, index) => (
@@ -1035,10 +1035,10 @@ export default function PersonalLoanSettlementRaipurPage() {
 
             {/* Regulatory References & Official Sources Strip */}
             <div className="bg-slate-50 border border-slate-200 rounded-2xl p-6 my-10">
-              <h3 className="text-base font-bold text-slate-900 mb-4 flex items-center gap-2">
+              <h4 className="text-base font-bold text-slate-900 mb-4 flex items-center gap-2">
                 <Landmark className="w-5 h-5 text-[#1F5EFF]" />
                 Official Regulatory References &amp; Statutory Circulars
-              </h3>
+              </h4>
               <ul className="space-y-3 text-xs text-slate-600">
                 <li className="flex items-start gap-2">
                   <ExternalLink className="w-4 h-4 text-[#1F5EFF] flex-shrink-0 mt-0.5" />
@@ -1100,10 +1100,10 @@ export default function PersonalLoanSettlementRaipurPage() {
 
             {/* Related Guides & Resources Strip (10 Topic Badges) */}
             <div className="bg-slate-50 border border-slate-200 rounded-2xl p-6 my-10">
-              <h3 className="text-base font-bold text-slate-900 mb-4 flex items-center gap-2">
+              <h4 className="text-base font-bold text-slate-900 mb-4 flex items-center gap-2">
                 <BookOpen className="w-5 h-5 text-[#1F5EFF]" />
                 Explore Related Banking &amp; Debt Resolution Guides
-              </h3>
+              </h4>
               <div className="flex flex-wrap gap-2.5">
                 <Link
                   href="/bank-one-time-settlement-ots-policy"

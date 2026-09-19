@@ -196,7 +196,7 @@ export default function PersonalLoanSettlementLawyerClient() {
               </p>
               
               <div className="bg-slate-50 rounded-2xl p-6 my-8 border border-slate-100">
-                <h3 className="text-lg font-bold text-slate-900 mb-4 mt-0">A dedicated advocate will immediately provide:</h3>
+                <h4 className="text-lg font-bold text-slate-900 mb-4 mt-0">A dedicated advocate will immediately provide:</h4>
                 <ul className="space-y-3 m-0 pl-0 list-none">
                   <li className="flex items-start">
                     <svg className="w-5 h-5 text-[#2D68FF] mt-1 mr-3 flex-shrink-0" fill="currentColor" viewBox="0 0 20 20"><path fillRule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-9.293a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z" clipRule="evenodd" /></svg>
@@ -226,9 +226,9 @@ export default function PersonalLoanSettlementLawyerClient() {
                 </div>
               </div>
 
-              <h2 id="stop-harassment" className="scroll-mt-32 mt-12 mb-6 text-[28px] font-bold text-slate-900 tracking-tight block w-fit border-b-[3px] border-[#2D68FF] pb-2">
+              <h3 id="stop-harassment" className="scroll-mt-32 mt-12 mb-6 text-[28px] font-bold text-slate-900 tracking-tight block w-fit border-b-[3px] border-[#2D68FF] pb-2">
                 How Can an Advocate Stop Bank Recovery Harassment?
-              </h2>
+              </h3>
               <p>
                 One of the most terrifying aspects of defaulting on a personal loan in India is dealing with third-party recovery agents. These agents are often incentivized based on the amount they collect, leading to severe behavioral breaches, including verbal abuse, calling at odd hours, visiting workplaces, and harassing family members.
               </p>
@@ -240,29 +240,29 @@ export default function PersonalLoanSettlementLawyerClient() {
                 <div className="flex">
                   <div className="w-10 h-10 bg-[#2D68FF] rounded-full flex items-center justify-center text-white font-bold text-lg flex-shrink-0 mr-4 shadow-md shadow-blue-500/20">1</div>
                   <div>
-                    <h3 className="text-lg font-bold text-slate-900 mt-1 mb-2">Sending a Formal Cease & Desist Notice</h3>
+                    <h4 className="text-lg font-bold text-slate-900 mt-1 mb-2">Sending a Formal Cease & Desist Notice</h4>
                     <p className="text-slate-600 m-0">The lawyer drafts a robust legal notice addressed to the bank's grievance redressal officer and the branch manager, officially documenting the harassment and demanding an immediate cessation of all illegal recovery activities, citing specific RBI regulations.</p>
                   </div>
                 </div>
                 <div className="flex">
                   <div className="w-10 h-10 bg-[#2D68FF] rounded-full flex items-center justify-center text-white font-bold text-lg flex-shrink-0 mr-4 shadow-md shadow-blue-500/20">2</div>
                   <div>
-                    <h4 className="text-lg font-bold text-slate-900 mt-1 mb-2">Filing a Police Complaint for Criminal Intimidation</h4>
+                    <h5 className="text-lg font-bold text-slate-900 mt-1 mb-2">Filing a Police Complaint for Criminal Intimidation</h5>
                     <p className="text-slate-600 m-0">If recovery agents cross the line into physical threats, defamation, or severe mental harassment, the lawyer can help you file an FIR under Sections 503 (Criminal Intimidation) and 506 of the Indian Penal Code against the agents and the bank officials.</p>
                   </div>
                 </div>
                 <div className="flex">
                   <div className="w-10 h-10 bg-[#2D68FF] rounded-full flex items-center justify-center text-white font-bold text-lg flex-shrink-0 mr-4 shadow-md shadow-blue-500/20">3</div>
                   <div>
-                    <h4 className="text-lg font-bold text-slate-900 mt-1 mb-2">Approaching the Banking Ombudsman</h4>
+                    <h5 className="text-lg font-bold text-slate-900 mt-1 mb-2">Approaching the Banking Ombudsman</h5>
                     <p className="text-slate-600 m-0">If the bank fails to respond to the legal notice within 30 days, your advocate will escalate the matter to the RBI Banking Ombudsman, providing evidence of the harassment. The RBI takes a very strict view of banks that violate their fair recovery guidelines.</p>
                   </div>
                 </div>
               </div>
 
-              <h2 id="fake-notices" className="scroll-mt-32 mt-12 mb-6 text-[28px] font-bold text-slate-900 tracking-tight block w-fit border-b-[3px] border-[#2D68FF] pb-2">
+              <h3 id="fake-notices" className="scroll-mt-32 mt-12 mb-6 text-[28px] font-bold text-slate-900 tracking-tight block w-fit border-b-[3px] border-[#2D68FF] pb-2">
                 Legal Protection Against Fake Arbitration and Lok Adalat Notices
-              </h2>
+              </h3>
               <p>
                 A very common, yet highly illegal, tactic used by rogue collection agencies is sending forged legal documents. Borrowers often receive documents titled <em>"Warrant of Arrest,"</em> <em>"Final Arbitration Summons,"</em> or <em>"Lok Adalat Notice"</em> formatted with fake seals and stamps that look like official court documents.
               </p>
@@ -274,15 +274,15 @@ export default function PersonalLoanSettlementLawyerClient() {
                 <li><strong>Lok Adalat Summons:</strong> Lok Adalats are meant for amicable, voluntary settlement. You cannot be forced or arrested for not attending a Lok Adalat. Your advocate can either represent you at the Lok Adalat to negotiate a fair deal or legally decline the summons if the terms are not favorable.</li>
               </ul>
 
-              <h2 id="negotiation-process" className="scroll-mt-32 mt-12 mb-6 text-[28px] font-bold text-slate-900 tracking-tight block w-fit border-b-[3px] border-[#2D68FF] pb-2">
+              <h3 id="negotiation-process" className="scroll-mt-32 mt-12 mb-6 text-[28px] font-bold text-slate-900 tracking-tight block w-fit border-b-[3px] border-[#2D68FF] pb-2">
                 The Process of Negotiating a Settlement Through a Lawyer
-              </h2>
+              </h3>
               <p>
                 Negotiating a loan settlement is not about simply asking the bank for a discount. It requires establishing genuine financial hardship and presenting a compelling legal and financial argument as to why the bank should accept a lesser amount rather than pursue expensive and prolonged litigation.
               </p>
               
               <div className="bg-slate-50 rounded-2xl p-6 border border-slate-100 my-8">
-                <h3 className="font-bold text-slate-900 text-lg mb-4 mt-0">The 4-Step Legal Settlement Workflow:</h3>
+                <h4 className="font-bold text-slate-900 text-lg mb-4 mt-0">The 4-Step Legal Settlement Workflow:</h4>
                 <ol className="space-y-4 m-0 pl-4 text-slate-700">
                   <li><strong>Financial Evaluation & Hardship Profiling:</strong> The lawyer analyzes your outstanding statements, income loss proofs, medical bills, or business failure documents to build a solid "hardship profile".</li>
                   <li><strong>The Hardship Proposal Letter:</strong> A legally drafted letter is sent to the bank's recovery head, proposing a One Time Settlement (OTS). This letter highlights that pursuing legal action against you would yield nothing as you are practically insolvent, making a settlement the most pragmatic choice for the bank.</li>
@@ -291,9 +291,9 @@ export default function PersonalLoanSettlementLawyerClient() {
                 </ol>
               </div>
 
-              <h2 id="rbi-guidelines" className="scroll-mt-32 mt-12 mb-6 text-[28px] font-bold text-slate-900 tracking-tight block w-fit border-b-[3px] border-[#2D68FF] pb-2">
+              <h3 id="rbi-guidelines" className="scroll-mt-32 mt-12 mb-6 text-[28px] font-bold text-slate-900 tracking-tight block w-fit border-b-[3px] border-[#2D68FF] pb-2">
                 Understanding Your Rights Under RBI Guidelines
-              </h2>
+              </h3>
               <p>
                 The Reserve Bank of India (RBI) has laid down strict guidelines for banks and NBFCs regarding the recovery of dues. A knowledgeable lawyer uses these guidelines as the foundation of your defense:
               </p>
@@ -304,18 +304,18 @@ export default function PersonalLoanSettlementLawyerClient() {
                 <li><strong>The SARFAESI Act Does NOT Apply to Personal Loans:</strong> Often, agents threaten borrowers with the SARFAESI Act, claiming they will seize property. Your lawyer will remind you (and the bank) that the SARFAESI Act 2002 applies <em>only</em> to secured loans, not unsecured personal loans or credit cards.</li>
               </ul>
 
-              <h2 id="legal-notice-response" className="scroll-mt-32 mt-12 mb-6 text-[28px] font-bold text-slate-900 tracking-tight block w-fit border-b-[3px] border-[#2D68FF] pb-2">
+              <h3 id="legal-notice-response" className="scroll-mt-32 mt-12 mb-6 text-[28px] font-bold text-slate-900 tracking-tight block w-fit border-b-[3px] border-[#2D68FF] pb-2">
                 Steps to Take if You Receive a Legal Notice for Loan Default
-              </h2>
+              </h3>
               <p>
                 If a bank serves you with a legitimate legal notice for defaulting on a personal loan, time is of the essence.
               </p>
               <div className="grid grid-cols-1 md:grid-cols-2 gap-4 my-6">
                 <div className="bg-white border-2 border-red-100 rounded-xl p-5">
-                  <h3 className="text-red-600 font-bold mb-2 flex items-center">
+                  <h4 className="text-red-600 font-bold mb-2 flex items-center">
                     <svg className="w-5 h-5 mr-2" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M10 14l2-2m0 0l2-2m-2 2l-2-2m2 2l2 2m7-2a9 9 0 11-18 0 9 9 0 0118 0z"></path></svg>
                     What NOT to do
-                  </h3>
+                  </h4>
                   <ul className="text-sm m-0 pl-4 space-y-2 text-slate-600">
                     <li>Do not ignore the notice hoping it goes away.</li>
                     <li>Do not panic and make partial payments without a written settlement agreement.</li>
@@ -323,10 +323,10 @@ export default function PersonalLoanSettlementLawyerClient() {
                   </ul>
                 </div>
                 <div className="bg-white border-2 border-green-100 rounded-xl p-5">
-                  <h4 className="text-green-600 font-bold mb-2 flex items-center">
+                  <h5 className="text-green-600 font-bold mb-2 flex items-center">
                     <svg className="w-5 h-5 mr-2" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z"></path></svg>
                     What YOU SHOULD do
-                  </h4>
+                  </h5>
                   <ul className="text-sm m-0 pl-4 space-y-2 text-slate-600">
                     <li>Contact a loan settlement lawyer immediately.</li>
                     <li>Gather all loan documents, statements, and evidence of financial hardship.</li>
@@ -335,9 +335,9 @@ export default function PersonalLoanSettlementLawyerClient() {
                 </div>
               </div>
 
-              <h2 id="cost-benefit" className="scroll-mt-32 mt-12 mb-6 text-[28px] font-bold text-slate-900 tracking-tight block w-fit border-b-[3px] border-[#2D68FF] pb-2">
+              <h3 id="cost-benefit" className="scroll-mt-32 mt-12 mb-6 text-[28px] font-bold text-slate-900 tracking-tight block w-fit border-b-[3px] border-[#2D68FF] pb-2">
                 Cost-Benefit Analysis: Hiring a Lawyer vs. Dealing with Banks Directly
-              </h2>
+              </h3>
               <p>
                 Many borrowers hesitate to hire legal counsel because they fear the fees. However, when dealing with a massive financial burden, navigating the system without a professional often proves vastly more expensive.
               </p>
@@ -379,9 +379,9 @@ export default function PersonalLoanSettlementLawyerClient() {
                 </table>
               </div>
 
-              <h2 id="choosing-lawyer" className="scroll-mt-32 mt-12 mb-6 text-[28px] font-bold text-slate-900 tracking-tight block w-fit border-b-[3px] border-[#2D68FF] pb-2">
+              <h3 id="choosing-lawyer" className="scroll-mt-32 mt-12 mb-6 text-[28px] font-bold text-slate-900 tracking-tight block w-fit border-b-[3px] border-[#2D68FF] pb-2">
                 What to Look for When Choosing a Loan Settlement Advocate
-              </h2>
+              </h3>
               <p>
                 Not all lawyers specialize in banking and debt resolution. When selecting an advocate to represent you in a personal loan dispute, look for the following criteria:
               </p>
@@ -400,7 +400,7 @@ export default function PersonalLoanSettlementLawyerClient() {
 
             {/* FAQs Section */}
             <div className="mt-16 pt-12 border-t border-slate-200">
-              <h2 className="text-3xl font-extrabold text-slate-900 mb-8">Frequently Asked Questions</h2>
+              <h3 className="text-3xl font-extrabold text-slate-900 mb-8">Frequently Asked Questions</h3>
               <div className="space-y-4">
                 {faqs.map((faq, index) => (
                   <div key={index} className="border border-slate-200 rounded-xl overflow-hidden bg-white hover:border-slate-300 transition-colors">
@@ -428,10 +428,10 @@ export default function PersonalLoanSettlementLawyerClient() {
 
             {/* References Section */}
             <div className="mt-16 bg-slate-50 rounded-2xl p-8 border border-slate-200">
-              <h3 className="text-lg font-bold text-slate-900 mb-4 flex items-center">
+              <h4 className="text-lg font-bold text-slate-900 mb-4 flex items-center">
                 <svg className="w-5 h-5 mr-2 text-slate-400" fill="currentColor" viewBox="0 0 20 20"><path d="M9 4.804A7.968 7.968 0 005.5 4c-1.255 0-2.443.29-3.5.804v10A7.969 7.969 0 015.5 14c1.669 0 3.218.51 4.5 1.385A7.962 7.962 0 0114.5 14c1.255 0 2.443.29 3.5.804v-10A7.968 7.968 0 0014.5 4c-1.255 0-2.443.29-3.5.804V12a1 1 0 11-2 0V4.804z"/></svg>
                 Legal References & Citations
-              </h3>
+              </h4>
               <ul className="space-y-2 text-sm text-slate-500">
                 <li>1. Reserve Bank of India (RBI) - <a href="https://m.rbi.org.in/Scripts/FAQView.aspx?Id=86" target="_blank" rel="noopener noreferrer" className="hover:text-[#2D68FF] hover:underline">Guidelines on Fair Practices Code for NBFCs</a></li>
                 <li>2. RBI Circular on Recovery Agents - <a href="https://rbi.org.in/scripts/NotificationUser.aspx?Id=4124&Mode=0" target="_blank" rel="noopener noreferrer" className="hover:text-[#2D68FF] hover:underline">Engagement of Recovery Agents by Banks</a></li>
@@ -498,21 +498,21 @@ export default function PersonalLoanSettlementLawyerClient() {
         <div className="max-w-6xl mx-auto px-4 md:px-6">
           
           <div className="mb-16">
-            <h2 className="text-2xl font-bold text-slate-900 mb-8 border-b-2 border-slate-200 pb-4">More Debt Relief Guides</h2>
+            <h3 className="text-2xl font-bold text-slate-900 mb-8 border-b-2 border-slate-200 pb-4">More Debt Relief Guides</h3>
             <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
               
               <Link href="/credit-card-partial-payment" className="group bg-white rounded-2xl border border-slate-200 p-6 shadow-sm hover:shadow-md hover:border-[#2D68FF]/30 transition-all">
-                <h3 className="font-bold text-slate-900 group-hover:text-[#2D68FF] transition-colors mb-2 text-lg">Credit Card Partial Payments</h3>
+                <h4 className="font-bold text-slate-900 group-hover:text-[#2D68FF] transition-colors mb-2 text-lg">Credit Card Partial Payments</h4>
                 <p className="text-sm text-slate-500 line-clamp-2">Understand the hidden traps of making partial payments on credit card debt and how it affects your overall liability.</p>
               </Link>
               
               <Link href="/bank-recovery-harassment-complaint" className="group bg-white rounded-2xl border border-slate-200 p-6 shadow-sm hover:shadow-md hover:border-[#2D68FF]/30 transition-all">
-                <h3 className="font-bold text-slate-900 group-hover:text-[#2D68FF] transition-colors mb-2 text-lg">Bank Recovery Harassment Complaint</h3>
+                <h4 className="font-bold text-slate-900 group-hover:text-[#2D68FF] transition-colors mb-2 text-lg">Bank Recovery Harassment Complaint</h4>
                 <p className="text-sm text-slate-500 line-clamp-2">Step-by-step guide on how to file an official complaint against abusive loan recovery agents with the RBI and Police.</p>
               </Link>
               
               <Link href="/legal-notice-for-loan-recovery" className="group bg-white rounded-2xl border border-slate-200 p-6 shadow-sm hover:shadow-md hover:border-[#2D68FF]/30 transition-all">
-                <h3 className="font-bold text-slate-900 group-hover:text-[#2D68FF] transition-colors mb-2 text-lg">Reply to Legal Notice</h3>
+                <h4 className="font-bold text-slate-900 group-hover:text-[#2D68FF] transition-colors mb-2 text-lg">Reply to Legal Notice</h4>
                 <p className="text-sm text-slate-500 line-clamp-2">Received a legal notice from the bank? Learn how a lawyer drafts a strong legal rebuttal to protect your rights.</p>
               </Link>
 
@@ -521,7 +521,7 @@ export default function PersonalLoanSettlementLawyerClient() {
 
           <div className="bg-[#30333A] rounded-[32px] p-8 md:p-12 text-center md:text-left flex flex-col md:flex-row items-center justify-between shadow-xl">
             <div className="md:w-2/3 mb-8 md:mb-0 md:pr-12">
-              <h3 className="text-2xl font-bold text-white mb-4">About SettleLoans</h3>
+              <h4 className="text-2xl font-bold text-white mb-4">About SettleLoans</h4>
               <p className="text-slate-300 text-sm leading-relaxed mb-6">
                 SettleLoans is India's premier debt relief and legal advisory platform. We connect distressed borrowers with top-tier financial advocates who specialize in negotiating loan settlements, stopping recovery harassment, and defending against unfair banking practices under RBI guidelines. Don't fight the banks alone; let our legal experts protect you.
               </p>

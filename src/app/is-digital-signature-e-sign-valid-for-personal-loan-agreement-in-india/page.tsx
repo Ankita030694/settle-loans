@@ -258,22 +258,22 @@ export default function DigitalSignatureValidityPage() {
             </section>
 
             <section id="it-act-stance" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 The IT Act: Aadhaar E-Signs vs. "I Agree" Checkboxes
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 Indian law recognizes electronic contracts, but it distinguishes heavily between different types of digital consent. If you want to <strong>challenge digital signature loan app</strong> cases, you must understand these differences.
               </p>
 
               <div className="grid md:grid-cols-2 gap-6 my-8">
                 <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
-                  <h3 className="font-black text-[#1F5EFF] text-lg mb-3">Aadhaar-Based E-Sign</h3>
+                  <h4 className="font-black text-[#1F5EFF] text-lg mb-3">Aadhaar-Based E-Sign</h4>
                   <p className="text-gray-700 leading-relaxed">
                     This is cryptographically secure and legally robust. The borrower enters their Aadhaar number, receives an OTP from UIDAI, and the document is signed via a certified digital token. This carries a strong presumption of validity in court.
                   </p>
                 </div>
                 <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
-                  <h4 className="font-black text-[#1F5EFF] text-lg mb-3">Click-Wrap (The "I Agree" Box)</h4>
+                  <h5 className="font-black text-[#1F5EFF] text-lg mb-3">Click-Wrap (The "I Agree" Box)</h5>
                   <p className="text-gray-700 leading-relaxed">
                     Most instant loan apps rely on this. You simply check a box or click "Accept." While technically valid as a contract, its evidentiary value is weak. The NBFC must prove beyond doubt that it was *you*, using your IP address and device, who clicked that specific button at that exact second.
                   </p>
@@ -281,7 +281,7 @@ export default function DigitalSignatureValidityPage() {
               </div>
 
               <div className="bg-blue-50 border-l-8 border-[#1F5EFF] p-8 rounded-r-2xl mb-8">
-                <h4 className="text-xl font-black text-[#1F5EFF] mb-4">The IT Act (2000) Mandates</h4>
+                <h5 className="text-xl font-black text-[#1F5EFF] mb-4">The IT Act (2000) Mandates</h5>
                 <p className="text-blue-900 text-lg leading-relaxed mb-4">
                   Under the Information Technology Act, an electronic signature must satisfy several conditions to be deemed reliable:
                 </p>
@@ -303,9 +303,9 @@ export default function DigitalSignatureValidityPage() {
             </section>
 
             <section id="section-65b" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 The Section 65B Evidence Act Shield
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 This is the ultimate weapon against digital NBFCs. When an NBFC submits a printed copy of your "digital agreement" to a court or arbitrator, it is treated merely as secondary evidence. 
               </p>
@@ -320,7 +320,7 @@ export default function DigitalSignatureValidityPage() {
                 <div className="flex gap-6">
                   <div className="flex-shrink-0 w-12 h-12 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center font-black text-xl shadow-lg">1</div>
                   <div>
-                    <h3 className="text-2xl font-bold text-[#2E2E2E] mb-2">Demand the 65B Certificate</h3>
+                    <h4 className="text-2xl font-bold text-[#2E2E2E] mb-2">Demand the 65B Certificate</h4>
                     <p className="text-lg text-gray-700 leading-relaxed">
                       Your lawyer will file an application objecting to the admission of the loan agreement on the grounds of a missing or defective <strong>section 65B evidence act loan default</strong> certificate.
                     </p>
@@ -330,7 +330,7 @@ export default function DigitalSignatureValidityPage() {
                 <div className="flex gap-6">
                   <div className="flex-shrink-0 w-12 h-12 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center font-black text-xl shadow-lg">2</div>
                   <div>
-                    <h3 className="text-2xl font-bold text-[#2E2E2E] mb-2">Scrutinize the Server Authenticity</h3>
+                    <h4 className="text-2xl font-bold text-[#2E2E2E] mb-2">Scrutinize the Server Authenticity</h4>
                     <p className="text-lg text-gray-700 leading-relaxed">
                       The certificate must be signed by the technical person managing the NBFC's servers. It must swear under oath that the computer was operating properly and the data was not tampered with. Most predatory loan apps operate via cloud servers in foreign jurisdictions and fail to produce a legally valid certificate.
                     </p>
@@ -340,15 +340,15 @@ export default function DigitalSignatureValidityPage() {
             </section>
 
             <section id="forged-e-signs" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 Forged E-Signs and Instant Loan Apps
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 There is a dark underbelly to instant loan apps. To speed up disbursements, many apps bypass legal compliance entirely.
               </p>
               
               <div className="bg-red-50 p-6 rounded-xl border border-red-100 mb-8">
-                <h3 className="text-xl font-black text-red-700 mb-3">The Fake Watermark Trick</h3>
+                <h4 className="text-xl font-black text-red-700 mb-3">The Fake Watermark Trick</h4>
                 <p className="text-red-900 leading-relaxed">
                   We frequently encounter cases where loan apps attempt to <strong>forge e-sign personal loan</strong> documents. They take the borrower's basic KYC data, auto-generate a PDF agreement containing exorbitant penal clauses, and simply paste a digital stamp saying "Digitally Signed by System" or paste an image of a generic signature. 
                 </p>
@@ -359,22 +359,22 @@ export default function DigitalSignatureValidityPage() {
             </section>
 
             <section id="how-to-challenge" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 How Lawyers Challenge Validity in Court
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 When a borrower is hit with a legal notice based on a digital agreement they don't recognize, expert DRT lawyers deploy aggressive technical discovery tactics:
               </p>
 
               <div className="grid md:grid-cols-2 gap-6 my-8">
                 <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
-                  <h3 className="font-black text-[#1F5EFF] text-lg mb-3">Demanding IP Logs</h3>
+                  <h4 className="font-black text-[#1F5EFF] text-lg mb-3">Demanding IP Logs</h4>
                   <p className="text-gray-700 leading-relaxed">
                     Lawyers demand the NBFC produce the exact IP address and device MAC address used when the "I Agree" button was clicked. If the NBFC can't provide it, the contract falls apart.
                   </p>
                 </div>
                 <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
-                  <h4 className="font-black text-[#1F5EFF] text-lg mb-3">OTP Delivery Reports</h4>
+                  <h5 className="font-black text-[#1F5EFF] text-lg mb-3">OTP Delivery Reports</h5>
                   <p className="text-gray-700 leading-relaxed">
                     If the NBFC claims an OTP-based e-sign, we demand the telecom delivery reports. Often, the NBFC's systems fail to prove the OTP was actually delivered to the borrower's phone at that specific timestamp.
                   </p>
@@ -387,9 +387,9 @@ export default function DigitalSignatureValidityPage() {
             </section>
 
             <section id="success-stories" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 Client Success Stories
-              </h2>
+              </h3>
               <div className="grid md:grid-cols-2 gap-6 my-8">
                 <div className="bg-white p-8 rounded-[30px] border border-[#DEDEDE] shadow-sm hover:shadow-xl group transition-all">
                   <div className="flex items-center gap-4 mb-6">
@@ -397,7 +397,7 @@ export default function DigitalSignatureValidityPage() {
                       VS
                     </div>
                     <div>
-                      <h3 className="font-bold text-gray-900">Vikram S.</h3>
+                      <h4 className="font-bold text-gray-900">Vikram S.</h4>
                       <div className="flex text-yellow-400">
                         <svg className="w-4 h-4 fill-current" viewBox="0 0 20 20"><path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z"/></svg>
                         <svg className="w-4 h-4 fill-current" viewBox="0 0 20 20"><path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z"/></svg>
@@ -422,7 +422,7 @@ export default function DigitalSignatureValidityPage() {
                       NP
                     </div>
                     <div>
-                      <h4 className="font-bold text-gray-900">Neha P.</h4>
+                      <h5 className="font-bold text-gray-900">Neha P.</h5>
                       <div className="flex text-yellow-400">
                         <svg className="w-4 h-4 fill-current" viewBox="0 0 20 20"><path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z"/></svg>
                         <svg className="w-4 h-4 fill-current" viewBox="0 0 20 20"><path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z"/></svg>
@@ -444,13 +444,13 @@ export default function DigitalSignatureValidityPage() {
             </section>
 
             <section id="faqs" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 Frequently Asked Questions
-              </h2>
+              </h3>
               <div className="space-y-4">
                 {jsonLd["@graph"].find(g => g["@type"] === "FAQPage")?.mainEntity?.map((faq: any, index: number) => (
                   <div key={index} className="bg-white border border-[#DEDEDE] rounded-xl p-6 hover:shadow-md transition-shadow">
-                    <h3 className="text-lg font-bold text-[#2E2E2E] mb-3">{faq.name}</h3>
+                    <h4 className="text-lg font-bold text-[#2E2E2E] mb-3">{faq.name}</h4>
                     <p className="text-gray-700 leading-relaxed">{faq.acceptedAnswer.text}</p>
                   </div>
                 ))}
@@ -460,7 +460,7 @@ export default function DigitalSignatureValidityPage() {
             {/* Lead Gen Hook */}
             <div className="bg-[#2E2E2E] text-white p-12 rounded-[40px] text-center mt-24 relative overflow-hidden group">
               <div className="absolute inset-0 bg-[#1F5EFF] opacity-0 group-hover:opacity-5 transition-opacity"></div>
-              <h3 className="text-3xl font-black mb-6 relative z-10">Stop Predatory Digital Enforcement</h3>
+              <h4 className="text-3xl font-black mb-6 relative z-10">Stop Predatory Digital Enforcement</h4>
               <p className="text-xl opacity-90 mb-8 relative z-10 max-w-2xl mx-auto">
                 Is an NBFC suing you based on a "digital agreement" you don't even remember signing? Challenge the fake e-sign in court with our expert DRT lawyers.
               </p>

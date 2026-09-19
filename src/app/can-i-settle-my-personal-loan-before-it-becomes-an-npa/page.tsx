@@ -294,7 +294,7 @@ export default function PreNPASettlementPage() {
 
           {/* Section 2: definition */}
           <section id="definition" className="scroll-mt-32 mb-16">
-            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">Understanding Pre-NPA Settlement</h2>
+            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">Understanding Pre-NPA Settlement</h3>
             <p className="text-lg leading-relaxed mb-6">
               Pre-NPA settlement theoretically involves negotiating with the lender to accept a reduced payment as full satisfaction of the debt before 90 days of default. This is often pursued when you are struggling to make your monthly payments due to sudden hardships. However, achieving this is highly unusual in the Indian banking system.
             </p>
@@ -314,25 +314,25 @@ export default function PreNPASettlementPage() {
 
           {/* Section 3: why-settle */}
           <section id="why-settle" className="scroll-mt-32 mb-16">
-            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">Why Banks Reject Early Settlements</h2>
+            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">Why Banks Reject Early Settlements</h3>
             <p className="text-lg leading-relaxed mb-6">
               Banks and Non Banking Financial Companies (NBFCs) operate on rigid software systems. They do not agree to settlements early because of strict internal compliance. Here are the primary reasons why a lender rejects a pre-NPA settlement:
             </p>
             <div className="grid md:grid-cols-2 gap-6 my-8">
               <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
-                <h3 className="font-black text-[#1F5EFF] mb-3 text-lg">System Constraints</h3>
+                <h4 className="font-black text-[#1F5EFF] mb-3 text-lg">System Constraints</h4>
                 <p className="text-sm leading-relaxed">Standard core banking systems do not have a button for "Write-Off/Settlement" for standard or SMA accounts. The RBI requires provisioning (setting aside capital) which is tied to the 90-day NPA cycle.</p>
               </div>
               <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
-                <h4 className="font-black text-[#1F5EFF] mb-3 text-lg">Suspicion of Wealth</h4>
+                <h5 className="font-black text-[#1F5EFF] mb-3 text-lg">Suspicion of Wealth</h5>
                 <p className="text-sm leading-relaxed">If you approach a bank on day 40 offering ₹2 Lakhs to settle a ₹4 Lakh loan, the bank assumes: "If they have ₹2 Lakhs lying around, why aren't they paying the ₹15,000 EMI?"</p>
               </div>
               <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
-                <h4 className="font-black text-[#1F5EFF] mb-3 text-lg">Full Recovery Focus</h4>
+                <h5 className="font-black text-[#1F5EFF] mb-3 text-lg">Full Recovery Focus</h5>
                 <p className="text-sm leading-relaxed">Until an account hits 90 days, the bank believes they can recover 100% of the principal, interest, and late fees through pressure. A settlement is only viewed as a last resort.</p>
               </div>
               <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
-                <h4 className="font-black text-[#1F5EFF] mb-3 text-lg">Compliance Hurdles</h4>
+                <h5 className="font-black text-[#1F5EFF] mb-3 text-lg">Compliance Hurdles</h5>
                 <p className="text-sm leading-relaxed">Branch managers lack the authority to approve a principal waiver on an active standard loan. Sending it to the regional office usually results in automatic rejection.</p>
               </div>
             </div>
@@ -346,7 +346,7 @@ export default function PreNPASettlementPage() {
 
           {/* Section 4: the-process */}
           <section id="the-process" className="scroll-mt-32 mb-16">
-            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">The Pre-NPA Timeline (SMA-0 to NPA)</h2>
+            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">The Pre-NPA Timeline (SMA-0 to NPA)</h3>
             <p className="text-lg leading-relaxed mb-8">
               Navigating a potential default requires a disciplined approach. You must understand how the bank categorizes your loan day by day:
             </p>
@@ -354,35 +354,35 @@ export default function PreNPASettlementPage() {
               <div className="flex gap-6">
                 <div className="flex-shrink-0 w-12 h-12 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center font-black text-xl shadow-lg">1</div>
                 <div>
-                  <h3 className="text-xl font-black text-[#2E2E2E] mb-2">SMA-0 (0-30 Days Overdue)</h3>
+                  <h4 className="text-xl font-black text-[#2E2E2E] mb-2">SMA-0 (0-30 Days Overdue)</h4>
                   <p className="text-gray-600 leading-relaxed">The account is showing initial signs of stress. Late fees apply, and a minor CIBIL hit occurs. The bank will send reminder SMS and automated calls.</p>
                 </div>
               </div>
               <div className="flex gap-6">
                 <div className="flex-shrink-0 w-12 h-12 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center font-black text-xl shadow-lg">2</div>
                 <div>
-                  <h3 className="text-xl font-black text-[#2E2E2E] mb-2">SMA-1 (31-60 Days Overdue)</h3>
+                  <h4 className="text-xl font-black text-[#2E2E2E] mb-2">SMA-1 (31-60 Days Overdue)</h4>
                   <p className="text-gray-600 leading-relaxed">Intense follow-ups begin. Your CIBIL score takes a noticeable drop. The bank may assign a third-party telecalling agency to demand payment.</p>
                 </div>
               </div>
               <div className="flex gap-6">
                 <div className="flex-shrink-0 w-12 h-12 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center font-black text-xl shadow-lg">3</div>
                 <div>
-                  <h3 className="text-xl font-black text-[#2E2E2E] mb-2">SMA-2 (61-90 Days Overdue)</h3>
+                  <h4 className="text-xl font-black text-[#2E2E2E] mb-2">SMA-2 (61-90 Days Overdue)</h4>
                   <p className="text-gray-600 leading-relaxed">Pre-NPA stage. Recovery agents may visit your home or office. Legal notices might be prepared as the bank issues a final warning.</p>
                 </div>
               </div>
               <div className="flex gap-6">
                 <div className="flex-shrink-0 w-12 h-12 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center font-black text-xl shadow-lg">4</div>
                 <div>
-                  <h3 className="text-xl font-black text-[#2E2E2E] mb-2">NPA (90+ Days Overdue)</h3>
+                  <h4 className="text-xl font-black text-[#2E2E2E] mb-2">NPA (90+ Days Overdue)</h4>
                   <p className="text-gray-600 leading-relaxed">The account officially defaults. Massive hit to credit score. The bank moves to aggressive recovery or eventually, settlement mode.</p>
                 </div>
               </div>
               <div className="flex gap-6">
                 <div className="flex-shrink-0 w-12 h-12 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center font-black text-xl shadow-lg">5</div>
                 <div>
-                  <h3 className="text-xl font-black text-[#2E2E2E] mb-2">Post-NPA Phase</h3>
+                  <h4 className="text-xl font-black text-[#2E2E2E] mb-2">Post-NPA Phase</h4>
                   <p className="text-gray-600 leading-relaxed">This is when real settlement negotiations can finally begin, but it comes at the cost of a ruined credit history for the next seven years.</p>
                 </div>
               </div>
@@ -397,12 +397,12 @@ export default function PreNPASettlementPage() {
 
           {/* Section 5: legal-framework */}
           <section id="legal-framework" className="scroll-mt-32 mb-16">
-            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">Legal & RBI Guidelines</h2>
+            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">Legal & RBI Guidelines</h3>
             <p className="text-lg leading-relaxed mb-6">
               The Reserve Bank of India (RBI) has laid down a clear Fair Practice Code for lenders. While the bank has the right to recover its money, it does not have the right to violate your basic human dignity during the SMA phases.
             </p>
             <div className="bg-blue-50 border-l-8 border-[#1F5EFF] p-8 rounded-r-2xl mb-8">
-              <h3 className="text-xl font-black text-[#1F5EFF] mb-4">Key RBI Protections for Borrowers:</h3>
+              <h4 className="text-xl font-black text-[#1F5EFF] mb-4">Key RBI Protections for Borrowers:</h4>
               <ul className="space-y-4 text-blue-900 font-medium">
                 <li className="flex items-start gap-3">
                    <div className="mt-1.5 w-2 h-2 rounded-full bg-[#1F5EFF] flex-shrink-0"></div>
@@ -435,16 +435,16 @@ export default function PreNPASettlementPage() {
 
           {/* Section 6: negotiation-scripts */}
           <section id="negotiation-scripts" className="scroll-mt-32 mb-16">
-            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">Mastering Negotiation Strategies</h2>
+            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">Mastering Negotiation Strategies</h3>
             <p className="text-lg leading-relaxed mb-6">
                Negotiation is an art. When you enter a bank, you are a customer who has faced an unfortunate turn of events. You are not a criminal. Here are some strategies for pre-NPA talks:
             </p>
             <div className="bg-gray-50 p-8 rounded-2xl mb-8 border border-gray-200">
-               <h3 className="font-black text-[#2E2E2E] mb-4">The "Hardship" Strategy</h3>
+               <h4 className="font-black text-[#2E2E2E] mb-4">The "Hardship" Strategy</h4>
                <p className="mb-4">Always emphasize that your current situation is temporary but severe. Provide documents like a termination letter or medical bills to prove you genuinely cannot pay the current EMI.</p>
-               <h4 className="font-black text-[#2E2E2E] mb-4">The "Restructuring Request" Clause</h4>
+               <h5 className="font-black text-[#2E2E2E] mb-4">The "Restructuring Request" Clause</h5>
                <p className="mb-4">Instead of asking for a settlement, ask for a tenure extension. Lowering the EMI by extending the loan from 3 years to 5 years is something branch managers can actually approve.</p>
-               <h4 className="font-black text-[#2E2E2E] mb-4">The Documentation Shield</h4>
+               <h5 className="font-black text-[#2E2E2E] mb-4">The Documentation Shield</h5>
                <p>Provide evidence for every claim. In the face of cold hard facts, bank managers find it easier to justify an EMI holiday or penalty waiver to their superiors.</p>
             </div>
             <p className="text-lg leading-relaxed mb-6">
@@ -454,7 +454,7 @@ export default function PreNPASettlementPage() {
 
           {/* Section 7: bank-policies */}
           <section id="bank-policies" className="scroll-mt-32 mb-16">
-            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">Bank vs NBFC Policies</h2>
+            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">Bank vs NBFC Policies</h3>
             <p className="text-lg leading-relaxed mb-6">
               Different lenders have different "appetites" for pre-NPA relief. Major private banks have structured systems but are often tougher to crack.
             </p>
@@ -496,7 +496,7 @@ export default function PreNPASettlementPage() {
 
           {/* Section 8: lok-adalat (mapped to Moratoriums) */}
           <section id="lok-adalat" className="scroll-mt-32 mb-16">
-            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">Moratoriums & Relief</h2>
+            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">Moratoriums & Relief</h3>
             <p className="text-lg leading-relaxed mb-6">
                A loan moratorium is a temporary pause on EMI payments. This is the holy grail of pre-NPA relief, allowing you breathing room to find a new job or recover from an illness.
             </p>
@@ -510,12 +510,12 @@ export default function PreNPASettlementPage() {
 
           {/* Section 9: cibil-impact */}
           <section id="cibil-impact" className="scroll-mt-32 mb-16">
-            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">Impact on Credit Score (CIBIL)</h2>
+            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">Impact on Credit Score (CIBIL)</h3>
             <p className="text-lg leading-relaxed mb-6">
               This is the most significant aspect of pre-NPA negotiations. If you restructure your loan, the lender reports the status as "Restructured" to the credit bureaus.
             </p>
             <div className="bg-red-50 p-6 rounded-xl border border-red-100 mb-8">
-               <h3 className="text-lg font-bold text-red-700 mb-3">What "Restructured" Means to Future Lenders:</h3>
+               <h4 className="text-lg font-bold text-red-700 mb-3">What "Restructured" Means to Future Lenders:</h4>
                <p className="text-sm text-red-900 leading-relaxed italic">
                  "This borrower faced financial stress and needed their loan terms modified. While they didn't default, lending to them in the near future is slightly risky."
                </p>
@@ -533,7 +533,7 @@ export default function PreNPASettlementPage() {
 
           {/* Section 10: recovery-agents */}
           <section id="recovery-agents" className="scroll-mt-32 mb-16">
-            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">Dealing with Recovery Agents</h2>
+            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">Dealing with Recovery Agents</h3>
             <p className="text-lg leading-relaxed mb-6">
               The mere mention of recovery agents causes stress for most borrowers. These agents are third party contractors who work on a commission basis. Their goal is to get you to pay as much as possible as quickly as possible.
             </p>
@@ -542,11 +542,11 @@ export default function PreNPASettlementPage() {
             </p>
             <div className="grid sm:grid-cols-2 gap-4 my-8">
                <div className="bg-white p-5 rounded-lg border border-[#DEDEDE] shadow-sm">
-                  <h3 className="font-black text-[#2E2E2E] mb-2">Record Everything</h3>
+                  <h4 className="font-black text-[#2E2E2E] mb-2">Record Everything</h4>
                   <p className="text-sm">Always record your calls with agents. If they use abusive language, this recording is your evidence for an RBI complaint. Most modern smartphones have this feature; use it.</p>
                </div>
                <div className="bg-white p-5 rounded-lg border border-[#DEDEDE] shadow-sm">
-                  <h4 className="font-black text-[#2E2E2E] mb-2">Verification</h4>
+                  <h5 className="font-black text-[#2E2E2E] mb-2">Verification</h5>
                   <p className="text-sm">Never give money to an agent. Only pay through the bank's official app or branch. Insist on seeing their ID card and the bank's authorization letter.</p>
                </div>
             </div>
@@ -560,7 +560,7 @@ export default function PreNPASettlementPage() {
 
           {/* Section 11: rebuilding-credit */}
           <section id="rebuilding-credit" className="scroll-mt-32 mb-16">
-            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">Rebuilding Your Credit Score</h2>
+            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">Rebuilding Your Credit Score</h3>
             <p className="text-lg leading-relaxed mb-6">
               If you went through a restructuring or early settlement, you can rebuild your credit score from scratch. It takes patience and discipline.
             </p>
@@ -592,7 +592,7 @@ export default function PreNPASettlementPage() {
 
           {/* Section 12: alternatives */}
           <section id="alternatives" className="scroll-mt-32 mb-16">
-            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">Alternatives to Consider</h2>
+            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">Alternatives to Consider</h3>
             <p className="text-lg leading-relaxed mb-6">
               Before allowing an account to slip into NPA status, explore these options:
             </p>
@@ -609,7 +609,7 @@ export default function PreNPASettlementPage() {
 
           {/* Section 13: psychology */}
           <section id="psychology" className="scroll-mt-32 mb-16">
-             <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">The Psychology of Debt: Staying Strong</h2>
+             <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">The Psychology of Debt: Staying Strong</h3>
              <p className="text-lg leading-relaxed mb-6">
                 The constant ringing of the phone can create a state of perpetual flight or fight. This affects your performance at work and your relationships at home. By hiring a professional firm like SettleLoans, you are taking back control.
              </p>
@@ -620,7 +620,7 @@ export default function PreNPASettlementPage() {
 
           {/* Section 14: arc-settlements */}
           <section id="arc-settlements" className="scroll-mt-32 mb-16">
-            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">Balance Transfers Pre-Default</h2>
+            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">Balance Transfers Pre-Default</h3>
             <p className="text-lg leading-relaxed mb-6">
                If your loan is in the early days of stress (SMA-0), you might still qualify for a balance transfer to another institution offering lower rates.
             </p>
@@ -634,7 +634,7 @@ export default function PreNPASettlementPage() {
 
           {/* Section 15: guarantors-impact */}
           <section id="guarantors-impact" className="scroll-mt-32 mb-16">
-            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">Impact on Co-borrowers and Guarantors</h2>
+            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">Impact on Co-borrowers and Guarantors</h3>
             <p className="text-lg leading-relaxed mb-6">
                When you take a personal loan, you might have a co-applicant or a guarantor. It is a common misconception that a default only affects the primary borrower.
             </p>
@@ -648,17 +648,17 @@ export default function PreNPASettlementPage() {
 
           {/* Section 16: more-case-studies */}
           <section id="more-case-studies" className="scroll-mt-32 mb-16">
-             <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-12">More Stories of Financial Recovery</h2>
+             <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-12">More Stories of Financial Recovery</h3>
              <div className="grid md:grid-cols-2 gap-8 text-left">
                 <div className="bg-white p-8 rounded-2xl border border-[#DEDEDE] shadow-xl">
-                   <h3 className="font-black text-lg mb-4">Suresh, Hyderabad</h3>
+                   <h4 className="font-black text-lg mb-4">Suresh, Hyderabad</h4>
                    <p className="text-gray-600 mb-6 italic leading-relaxed">
                      "I was in SMA-2 and panicking. SettleLoans consolidated the negotiation. They secured a tenure extension, dropping my EMI from 45k to 22k."
                    </p>
                    <div className="text-xs font-bold text-[#1F5EFF]">Outcome: Restructured successfully</div>
                 </div>
                 <div className="bg-white p-8 rounded-2xl border border-[#DEDEDE] shadow-xl">
-                   <h4 className="font-black text-lg mb-4">Anjali, Pune</h4>
+                   <h5 className="font-black text-lg mb-4">Anjali, Pune</h5>
                    <p className="text-gray-600 mb-6 italic leading-relaxed">
                      "I lost my job and missed 2 EMIs. The bank was very aggressive. SettleLoans spoke to the regional manager and got a 3-month moratorium."
                    </p>
@@ -669,9 +669,9 @@ export default function PreNPASettlementPage() {
 
           {/* Section 17: reviews */}
           <section id="reviews" className="scroll-mt-32 mb-16">
-            <h2 className="text-3xl md:text-5xl font-black text-[#2E2E2E] mb-12 text-center">
+            <h3 className="text-3xl md:text-5xl font-black text-[#2E2E2E] mb-12 text-center">
               Stories of <span className="text-[#1F5EFF]">Hope</span>
-            </h2>
+            </h3>
             <div className="grid md:grid-cols-2 gap-8">
               {[
                 { 
@@ -709,7 +709,7 @@ export default function PreNPASettlementPage() {
                       {review.name.charAt(0)}
                     </div>
                     <div>
-                      <h3 className="font-black text-[#2E2E2E]">{review.name}</h3>
+                      <h4 className="font-black text-[#2E2E2E]">{review.name}</h4>
                       <p className="text-xs text-[#747474] font-bold uppercase tracking-wider">{review.loc}</p>
                     </div>
                     <div className="ml-auto flex text-yellow-400">
@@ -736,7 +736,7 @@ export default function PreNPASettlementPage() {
 
           {/* Section 18: faqs */}
           <section id="faqs" className="scroll-mt-32 mb-16">
-            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">Frequently Asked Questions</h2>
+            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">Frequently Asked Questions</h3>
             <div className="space-y-4">
               {[
                 { q: "Can I settle my personal loan before it becomes an NPA?", a: "Technically yes, but practically banks rarely accept a discounted 'haircut' settlement before the 90-day mark. They prefer restructuring." },
@@ -756,7 +756,7 @@ export default function PreNPASettlementPage() {
                 { q: "How do I verify the authenticity of a settlement letter?", a: "Always check the letter for a valid reference number and call the bank's official customer care or visit the branch manager to confirm the offer before making any payment." }
               ].map((faq, i) => (
                 <div key={i} className="bg-white border border-[#DEDEDE] rounded-xl p-6 hover:shadow-md transition-shadow">
-                  <h3 className="font-black text-[#2E2E2E] text-lg mb-3">{i+1}. {faq.q}</h3>
+                  <h4 className="font-black text-[#2E2E2E] text-lg mb-3">{i+1}. {faq.q}</h4>
                   <p className="text-gray-600 leading-relaxed">{faq.a}</p>
                 </div>
               ))}
@@ -765,7 +765,7 @@ export default function PreNPASettlementPage() {
 
           <div className="bg-[#2E2E2E] text-white p-12 rounded-[40px] text-center mt-24 relative overflow-hidden group">
              <div className="absolute inset-0 bg-[#1F5EFF] opacity-0 group-hover:opacity-5 transition-opacity"></div>
-             <h3 className="text-3xl md:text-5xl font-black mb-6">Ready to Take Control?</h3>
+             <h4 className="text-3xl md:text-5xl font-black mb-6">Ready to Take Control?</h4>
              <p className="text-xl opacity-80 mb-10 max-w-2xl mx-auto">
                Stop the cycle of debt today. Talk to our legal experts and get a free analysis of your loan portfolio. We have helped thousands of families regain their peace.
              </p>

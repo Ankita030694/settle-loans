@@ -519,9 +519,9 @@ export default function LoanSettlementHousewivesCoBorrowersPage() {
 
             {/* Section 2: Joint & Several Liability vs. Execution Reality */}
             <section id="joint-several-liability-limits" className="space-y-3">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                 2. Joint &amp; Several Liability Legal Limits
-              </h2>
+              </h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Under Section 128 of the Indian Contract Act, 1872, co-borrowers share the same debt liability. But there is a clear limit on how banks can collect. Under Order 21 CPC, a court can only attach assets you actually own.
               </p>
@@ -532,9 +532,9 @@ export default function LoanSettlementHousewivesCoBorrowersPage() {
 
             {/* Section 3: Statutory Protections: Stridhan Rights & Section 60(1)(a) CPC Exemptions */}
             <section id="stridhan-section-60-cpc-protections" className="space-y-3">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                 3. Stridhan Rights &amp; Section 60 CPC Shield
-              </h2>
+              </h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Recovery agents often threaten to seize gold jewelry and wedding gifts. But the law protects you. Under Section 60(1) proviso (a) of the Code of Civil Procedure, 1908, personal items are safe. A court cannot take your clothes, cooking pots, beds, or sacred jewelry like your Mangalsutra.
               </p>
@@ -545,9 +545,9 @@ export default function LoanSettlementHousewivesCoBorrowersPage() {
 
             {/* Section 4: The Zero-Asset Legal Defense & Bank NPA Accounting Economics */}
             <section id="zero-asset-defense-npa-accounting" className="space-y-3">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                 4. Zero-Asset Defense &amp; NPA Accounting Economics
-              </h2>
+              </h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Under Order 21 Rule 37 CPC, civil courts cannot jail a debtor who has no money to pay. You can submit certified bank records and zero-income affidavits. This builds a clear <strong>Zero-Asset Defense</strong>. It shows the court that you face real financial hardship rather than wilful default.
               </p>
@@ -569,9 +569,9 @@ export default function LoanSettlementHousewivesCoBorrowersPage() {
 
             {/* Section 5: Visual Infographic Banner */}
             <section id="infographic-visual-roadmap" className="space-y-3">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                 5. Visual Legal Defense &amp; Settlement Map
-              </h2>
+              </h3>
               <p className="text-xs sm:text-sm text-slate-700 leading-relaxed">
                 This chart outlines the 5 key pillars of co-borrower defense. It covers Stridhan rights, the Zero-Asset rule, RBI safeguards, and the steps to get an OTS waiver:
               </p>
@@ -591,9 +591,9 @@ export default function LoanSettlementHousewivesCoBorrowersPage() {
 
             {/* Section 6: RBI Anti-Harassment Mandates for Women */}
             <section id="rbi-anti-harassment-female-protections" className="space-y-3">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                 6. RBI Anti-Harassment Mandates for Women &amp; Families
-              </h2>
+              </h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 The RBI Master Direction on Fair Practices Code sets strict rules for debt recovery:
               </p>
@@ -616,9 +616,9 @@ export default function LoanSettlementHousewivesCoBorrowersPage() {
 
             {/* Section 7: Step-by-Step Advocate Strategy to Negotiate a 45%–65% OTS */}
             <section id="advocate-ots-negotiation-strategy" className="space-y-3">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                 7. 4-Stage Advocate OTS Strategy (45%–65% Haircut)
-              </h2>
+              </h3>
               <div className="space-y-2.5 my-3">
                 <div className="p-3 bg-slate-50 rounded-xl border border-slate-200 text-xs sm:text-sm">
                   <strong>1. Legal Notice:</strong> Send a formal notice to stop calls. Direct all bank talks to your lawyer.
@@ -637,9 +637,9 @@ export default function LoanSettlementHousewivesCoBorrowersPage() {
 
             {/* Section 8: Sanction Letter Forensics, RBI NDC Mandate & CIBIL Recovery */}
             <section id="sanction-forensics-ndc-cibil-recovery" className="space-y-3">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                 8. Sanction Forensics &amp; RBI ₹0 NDC Mandate
-              </h2>
+              </h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 An authentic settlement letter must come on official bank letterhead. It must list both borrowers and their PAN numbers. It should state the exact settlement amount and confirm full debt closure. Always pay directly into the official bank loan account.
               </p>
@@ -650,7 +650,7 @@ export default function LoanSettlementHousewivesCoBorrowersPage() {
 
             {/* Section 9: Comparative Matrix: Myth vs Law */}
             <section id="comparative-defense-matrix" className="space-y-3">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">9. Co-Borrower Legal Rights vs Threats Matrix</h2>
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">9. Co-Borrower Legal Rights vs Threats Matrix</h3>
               <div className="overflow-x-auto my-4">
                 <table>
                   <thead>
@@ -694,7 +694,7 @@ export default function LoanSettlementHousewivesCoBorrowersPage() {
             {/* Section 10: SettleLoans Legal Defense & Advisory + CompanySection */}
             <section id="company-resolution-section" className="space-y-4">
               <div className="border-t border-slate-200 pt-6 space-y-3">
-                <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">10. SettleLoans Homemaker Defense &amp; Advisory</h2>
+                <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">10. SettleLoans Homemaker Defense &amp; Advisory</h3>
                 <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                   SettleLoans helps non-earning co-borrowers and homemakers across India. Our legal team stops recovery harassment and protects your Stridhan rights. We file complaints with the RBI Ombudsman when agents break rules. We also negotiate directly with bank heads to secure 45% to 65% waivers and official No Dues Certificates.
                 </p>
@@ -708,9 +708,9 @@ export default function LoanSettlementHousewivesCoBorrowersPage() {
             <section id="faqs" className="space-y-4 border-t border-slate-200 pt-6">
               <div className="flex items-center gap-2 mb-2">
                 <HelpCircle className="w-5 h-5 text-[#1F5EFF]" />
-                <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
+                <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                   11. Frequently Asked Questions
-                </h2>
+                </h3>
               </div>
 
               <div className="space-y-3">
@@ -737,9 +737,9 @@ export default function LoanSettlementHousewivesCoBorrowersPage() {
 
             {/* 5 Official Regulatory Links */}
             <section className="border-t border-slate-200 pt-6 mb-4">
-              <h3 className="text-xs sm:text-sm font-bold text-slate-900 mb-3 uppercase tracking-wider">
+              <h4 className="text-xs sm:text-sm font-bold text-slate-900 mb-3 uppercase tracking-wider">
                 Official Statutory &amp; Regulatory References
-              </h3>
+              </h4>
               <div className="grid grid-cols-1 sm:grid-cols-2 gap-2.5 text-xs">
                 <a
                   href="https://www.indiacode.gov.in/bitstream/123456789/2187/1/A1872-09.pdf"
@@ -791,9 +791,9 @@ export default function LoanSettlementHousewivesCoBorrowersPage() {
 
             {/* 10 Related Guide Badges */}
             <section className="border-t border-slate-200 pt-6 mb-8">
-              <h3 className="text-xs sm:text-sm font-bold text-slate-900 mb-4 uppercase tracking-wider">
+              <h4 className="text-xs sm:text-sm font-bold text-slate-900 mb-4 uppercase tracking-wider">
                 Related Legal Defense &amp; Loan Resolution Guides
-              </h3>
+              </h4>
               <div className="flex flex-wrap gap-2">
                 <Link
                   href="/bank-recovery-harassment-complaint"

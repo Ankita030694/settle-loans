@@ -295,11 +295,11 @@ export default function LoanRestructuringVsSettlement() {
             </section>
 
             <section id="what-is-loan-restructuring" className="scroll-mt-24">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">What is Loan Restructuring?</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">What is Loan Restructuring?</h3>
               <p className="text-lg leading-relaxed text-gray-700 mb-6">
                 Loan restructuring is essentially a renegotiation of your original loan contract. When you approach your bank and prove that your income has dropped, the bank may agree to modify the terms of the loan so that the monthly burden becomes manageable. This is not a waiver of debt; it is a mathematical adjustment.
               </p>
-              <h3 className="text-2xl font-bold text-[#2E2E2E] mb-4 mt-8">How it Works</h3>
+              <h4 className="text-2xl font-bold text-[#2E2E2E] mb-4 mt-8">How it Works</h4>
               <ul className="list-disc list-inside text-lg leading-relaxed text-gray-700 space-y-3 mb-6">
                 <li><strong>Extending the Tenure:</strong> The most common method. If you had 3 years left on your loan, the bank might extend it to 5 years. This automatically reduces the EMI amount.</li>
                 <li><strong>Interest Rate Reduction:</strong> In rare cases, banks may lower the applicable interest rate temporarily.</li>
@@ -312,12 +312,12 @@ export default function LoanRestructuringVsSettlement() {
             </section>
 
             <section id="what-is-loan-settlement" className="scroll-mt-24">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">What is Loan Settlement?</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">What is Loan Settlement?</h3>
               <p className="text-lg leading-relaxed text-gray-700 mb-6">
                 Loan settlement (or One-Time Settlement - OTS) is a drastic measure. When a borrower has not paid EMIs for over 6 months and the bank realizes that recovering the full amount is impossible, they may offer a settlement. In this scenario, the bank agrees to waive off a significant portion of the principal, penalties, and interest, accepting a lump sum payment to close the account.
               </p>
               <div className="bg-yellow-50 p-6 rounded-lg border border-yellow-200 my-8">
-                <h3 className="font-bold text-yellow-800 text-xl mb-3">⚠️ The Settlement Trap</h3>
+                <h4 className="font-bold text-yellow-800 text-xl mb-3">⚠️ The Settlement Trap</h4>
                 <p className="text-gray-700 leading-relaxed text-lg">
                   Settlement is not a magical escape hatch. While you may only pay 40% to 50% of your outstanding balance, the bank reports this to CIBIL as "Settled" rather than "Closed." This status acts as a massive red flag to future lenders, effectively blocking you from securing home loans, car loans, or credit cards for several years.
                 </p>
@@ -328,7 +328,7 @@ export default function LoanRestructuringVsSettlement() {
             </section>
 
             <section id="mathematical-breakdown" className="scroll-mt-24">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">The Math: Restructuring vs Settlement</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">The Math: Restructuring vs Settlement</h3>
               <p className="text-lg leading-relaxed text-gray-700 mb-6">
                 To truly understand <strong className="text-[#1F5EFF]">loan restructuring vs settlement</strong>, we must look at the math. Let’s assume you have an outstanding personal loan of ₹5,000,000 at 14% interest with 3 years (36 months) left. Your current EMI is roughly ₹17,000.
               </p>
@@ -371,7 +371,7 @@ export default function LoanRestructuringVsSettlement() {
             </section>
 
             <section id="decision-matrix" className="scroll-mt-24">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">Decision Matrix: Which is Better?</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">Decision Matrix: Which is Better?</h3>
               <p className="text-lg leading-relaxed text-gray-700 mb-6">
                 So, <strong className="text-[#1F5EFF]">which is better settlement or restructuring?</strong> The answer depends entirely on your specific circumstances. Use the matrix below to guide your decision.
               </p>
@@ -428,7 +428,7 @@ export default function LoanRestructuringVsSettlement() {
             </section>
 
             <section id="rbi-guidelines" className="scroll-mt-24">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">RBI Loan Restructuring Guidelines in India</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">RBI Loan Restructuring Guidelines in India</h3>
               <p className="text-lg leading-relaxed text-gray-700 mb-6">
                 The Reserve Bank of India closely monitors how banks handle stressed assets. According to the <strong className="text-[#1F5EFF]">RBI loan restructuring guidelines</strong>, a borrower has the right to approach the bank for a resolution framework before the loan becomes a Non-Performing Asset (NPA). 
               </p>
@@ -438,7 +438,7 @@ export default function LoanRestructuringVsSettlement() {
             </section>
 
             <section id="success-stories" className="scroll-mt-24">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">Real Success Stories</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">Real Success Stories</h3>
               <p className="text-lg leading-relaxed text-gray-700 mb-8">
                 Thousands of Indians have navigated the confusing path of <strong className="text-[#1F5EFF]">loan restructuring vs settlement</strong> with the help of SettleLoans. Here is what they have to say:
               </p>
@@ -478,7 +478,7 @@ export default function LoanRestructuringVsSettlement() {
             </section>
 
             <section id="faqs" className="scroll-mt-24">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">Frequently Asked Questions</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">Frequently Asked Questions</h3>
               <div className="space-y-4">
                 {/* FAQ 1 */}
                 <details className="group border border-[#DEDEDE] rounded-lg bg-white overflow-hidden transition-all duration-300">
@@ -614,7 +614,7 @@ export default function LoanRestructuringVsSettlement() {
 
             {/* Bottom CTA */}
             <section className="bg-[#1F5EFF] rounded-2xl p-8 md:p-12 text-center text-white mt-8 shadow-xl">
-              <h2 className="text-3xl md:text-4xl font-black mb-4">Make the Right Choice Today</h2>
+              <h3 className="text-3xl md:text-4xl font-black mb-4">Make the Right Choice Today</h3>
               <p className="text-lg md:text-xl text-white/90 mb-8 max-w-2xl mx-auto">
                 Not sure whether to restructure or settle your debt? Let our experts analyze your financial situation and negotiate the best terms with your bank.
               </p>

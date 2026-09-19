@@ -115,7 +115,7 @@ const jsonLdGraph = {
       "@type": "FinancialService",
       "@id": "https://www.settleloans.in/sbi-personal-loan-settlement#service",
       "name": "SettleLoans - SBI Personal Loan Settlement & Legal Defense",
-      "description": "Specialized legal and financial negotiation advisory for settling defaulted State Bank of India (SBI) personal loans, Xpress Credit, and credit cards under PSU compromise frameworks with maximum debt waivers.",
+      "description": "Specialized legal and financial talks advisory for settling defaulted State Bank of India (SBI) personal loans, Xpress Credit, and credit cards under PSU compromise frameworks with maximum debt waivers.",
       "url": "https://www.settleloans.in/sbi-personal-loan-settlement",
       "image": "https://www.settleloans.in/images/infographics/sbi-personal-loan-settlement.jpg",
       "telephone": "+91-99999-99999",
@@ -179,7 +179,7 @@ const jsonLdGraph = {
             "name": "Prashant Bhattacharya"
           },
           "datePublished": "2026-05-28",
-          "reviewBody": "SBI had initiated automatic lien sweeps on my savings account under Section 171 of the Contract Act. SettleLoans immediately protected my statutory rights, guided me through the separation of operational accounts, and negotiated directly with the SBI Regional Settlement Committee. We settled my ₹6.8 Lakhs loan for ₹2.9 Lakhs paid in two structured tranches directly into the loan account.",
+          "reviewBody": "SBI had started automatic lien sweeps on my savings account under Section 171 of the Contract Act. SettleLoans immediately protected my statutory rights, guided me through the separation of operational accounts, and negotiated directly with the SBI Regional Settlement Committee. We settled my ₹6.8 Lakhs loan for ₹2.9 Lakhs paid in two structured tranches directly into the loan account.",
           "reviewRating": {
             "@type": "Rating",
             "ratingValue": "5",
@@ -213,7 +213,7 @@ const jsonLdGraph = {
           "name": "What is the SBI personal loan settlement process and how does it work online?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "The State Bank of India (SBI) personal loan settlement process is a formal compromise resolution between SBI and a distressed borrower unable to service unsecured loan obligations such as SBI Xpress Credit or Quick Personal Loans. Once an account becomes a Non-Performing Asset (NPA) beyond 90 to 180 days, the borrower or their legal counsel can apply through SBI's dedicated online OTS portal (SBI Rin Samadhan portal or YONO OTS module when active) or submit a physical hardship proposal directly to the Stressed Assets Recovery Branch (SARB) or Retail Assets Central Processing Centre (RACC). SBI evaluates the proposal using board-approved OTS formulas and Net Present Value (NPV) recovery benchmarks. Once sanctioned by the Competent Credit Committee, an official stamped OTS Sanction Letter is issued, and upon direct remittance into the loan account, the bank issues a No Dues Certificate (NDC)."
+            "text": "The State Bank of India (SBI) personal loan settlement process is a formal compromise resolution between SBI and a distressed borrower unable to service unsecured loan debts such as SBI Xpress Credit or Quick Personal Loans. Once an account becomes a Non-Performing Asset (NPA) beyond 90 to 180 days, the borrower or their legal counsel can apply through SBI's dedicated online OTS portal (SBI Rin Samadhan portal or YONO OTS module when active) or submit a physical hardship proposal directly to the Stressed Assets Recovery Branch (SARB) or Retail Assets Central Processing Centre (RACC). SBI evaluates the proposal using board-approved OTS formulas and Net Present Value (NPV) recovery benchmarks. Once sanctioned by the Competent Credit Committee, an official stamped OTS Sanction Letter is issued, and upon direct remittance into the loan account, the bank issues a No Dues Certificate (NDC)."
           }
         },
         {
@@ -245,7 +245,7 @@ const jsonLdGraph = {
           "name": "Can SBI freeze your savings account or automatically deduct money for an unpaid personal loan?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Yes, under Section 171 of the Indian Contract Act, 1872 (Banker's Right of General Lien and Set-Off), SBI has the statutory authority to debit funds from any savings account, fixed deposit, or recurring deposit held within SBI under the same Customer Identification File (CIF) or PAN to offset delinquent loan dues. However, SBI cannot legally debit funds from accounts held with other independent financial institutions (such as HDFC, ICICI, or PNB) without a formal attachment order from a competent Civil Court or Debt Recovery Tribunal (DRT). Furthermore, statutory pensions and gratuities enjoy protection under Section 60 of the Code of Civil Procedure (CPC)."
+            "text": "Yes, under Section 171 of the Indian Contract Act, 1872 (Banker's Right of General Lien and Set-Off), SBI has the statutory authority to debit funds from any savings account, fixed deposit, or recurring deposit held within SBI under the same Customer Identification File (CIF) or PAN to offset delinquent loan dues. However, SBI cannot legally debit funds from accounts held with other independent financial institutions (such as HDFC, ICICI, or PNB) without a formal attachment order from a competent Civil Court or Debt Recovery Tribunal (DRT). also, statutory pensions and gratuities enjoy protection under Section 60 of the Code of Civil Procedure (CPC)."
           }
         },
         {
@@ -253,7 +253,7 @@ const jsonLdGraph = {
           "name": "Why does SBI prefer settling personal loans through the National Lok Adalat?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "SBI heavily favors the National Lok Adalat organized under the Legal Services Authorities Act, 1987, because a Lok Adalat compromise award carries the status of a binding Civil Court decree with absolute finality under Section 21 of the Act. No appeal lies against a Lok Adalat award in any court of law. This legal finality provides complete protection to SBI bank officials against future audit objections and vigilance probes by the CVC, enabling faster approvals and substantial pre-approved discount slabs (often 45% to 65% haircut) for borrowers."
+            "text": "SBI heavily favors the National Lok Adalat organized under the Legal Services Authorities Act, 1987, because a Lok Adalat compromise award carries the status of a binding Civil Court decree with absolute finality under Section 21 of the Act. No appeal lies against a Lok Adalat award in any court of law. This legal finality provides complete protection to SBI bank officials against future audit objections and vigilance probes by the CVC, enabling faster approvals and large pre-approved discount slabs (often 45% to 65% haircut) for borrowers."
           }
         },
         {
@@ -261,7 +261,7 @@ const jsonLdGraph = {
           "name": "What legal actions can SBI take if you default on a personal loan?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "While default on an unsecured personal loan is strictly a civil dispute and cannot lead to arrest or police FIRs, SBI can initiate statutory quasi-criminal and civil proceedings: (1) Section 25 of the Payment and Settlement Systems Act, 2007, for dishonor of electronic NACH/e-mandates; (2) Section 138 of the Negotiable Instruments Act, 1881, if physical repayment cheques bounce; (3) Summary Civil Suits under Order 37 of the CPC for recovery of dues; and (4) Original Applications before the Debt Recovery Tribunal (DRT) under the RDB Act, 1993, if aggregate exposure exceeds ₹20 Lakhs. All these notices can be defended and resolved through formal compromise negotiations."
+            "text": "While default on an unsecured personal loan is strictly a civil dispute and cannot lead to arrest or police FIRs, SBI can start statutory quasi-criminal and civil cases: (1) Section 25 of the Payment and Settlement Systems Act, 2007, for dishonor of electronic NACH/e-mandates; (2) Section 138 of the Negotiable Instruments Act, 1881, if physical repayment cheques bounce; (3) Summary Civil Suits under Order 37 of the CPC for recovery of dues; and (4) Original Applications before the Debt Recovery Tribunal (DRT) under the RDB Act, 1993, if aggregate exposure exceeds ₹20 Lakhs. All these notices can be defended and resolved through formal compromise talks."
           }
         },
         {
@@ -277,7 +277,7 @@ const jsonLdGraph = {
           "name": "What should you check in an official SBI OTS Sanction Letter before paying?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Borrowers must verify five non-negotiable elements: (1) The letter must be printed on official SBI letterhead with branch code, seal, and signature of an authorized officer (Branch Manager, AGM, or DGM) along with their HRMS employee code; (2) The letter must clearly state the exact negotiated settlement amount and installment schedule; (3) It must contain an explicit full and final extinguishment clause confirming no further dues or claims remain; (4) Payments must be made directly into your designated SBI Loan Account number—never into individual accounts; (5) An immediate stamped acknowledgment receipt must be secured upon payment."
+            "text": "Borrowers must verify five non-negotiable elements: (1) The letter must be printed on official SBI letterhead with branch code, seal, and signature of an authorized officer (Branch Manager, AGM, or DGM) along with their HRMS employee code; (2) The letter must clearly state the exact negotiated settlement amount and installment schedule; (3) It must contain an explicit full and final extinguishment clause confirming no further dues or claims remain; (4) Payments must be made directly into your designated SBI Loan Account number—never into person accounts; (5) An immediate stamped acknowledgment receipt must be secured upon payment."
           }
         },
         {
@@ -285,7 +285,7 @@ const jsonLdGraph = {
           "name": "How long does SBI take to issue the No Dues Certificate (NDC) after settlement?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Pursuant to RBI Circular RBI/2023-24/60, all regulated lenders including State Bank of India are legally mandated to complete full account closure and issue an official No Dues Certificate (NDC) / Loan Closure Certificate within 30 calendar days of receiving the final settlement tranche. If SBI fails to issue the certificate or update credit bureau records within 30 days due to internal operational lapses, the bank is legally liable to pay statutory compensation of ₹5,000 per day of delay directly to the borrower."
+            "text": "under RBI Circular RBI/2023-24/60, all regulated lenders including State Bank of India are legally mandated to complete full account closure and issue an official No Dues Certificate (NDC) / Loan Closure Certificate within 30 calendar days of receiving the final settlement tranche. If SBI fails to issue the certificate or update credit bureau records within 30 days due to internal operational lapses, the bank is legally liable to pay statutory relief of ₹5,000 per day of delay directly to the borrower."
           }
         }
       ]

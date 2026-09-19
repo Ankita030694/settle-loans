@@ -276,28 +276,28 @@ export default function EducationLoanDefaultPage() {
 
             {/* Key Consequences */}
             <section id="consequences" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 What Actually Happens When You Don't Pay?
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 When you default on a student loan (usually after 90 days of non-payment), a domino effect of financial and legal actions begins. Here are the core consequences you will face:
               </p>
 
               <div className="grid md:grid-cols-2 gap-6 my-8">
                 <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
-                  <h3 className="font-black text-[#1F5EFF] text-lg mb-3">1. Severe CIBIL Score Damage</h3>
+                  <h4 className="font-black text-[#1F5EFF] text-lg mb-3">1. Severe CIBIL Score Damage</h4>
                   <p className="text-[#2E2E2E]">Both your and your co-signer's credit scores will plummet. The account will be marked as an NPA (Non-Performing Asset), making future borrowing nearly impossible for 7 years.</p>
                 </div>
                 <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
-                  <h3 className="font-black text-[#1F5EFF] text-lg mb-3">2. Aggressive Recovery Agents</h3>
+                  <h4 className="font-black text-[#1F5EFF] text-lg mb-3">2. Aggressive Recovery Agents</h4>
                   <p className="text-[#2E2E2E]">Banks will deploy third-party recovery agencies. While RBI rules prohibit harassment, these agents often resort to calling your relatives, employers, and visiting your home.</p>
                 </div>
                 <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
-                  <h3 className="font-black text-[#1F5EFF] text-lg mb-3">3. SARFAESI Act Enforcement</h3>
+                  <h4 className="font-black text-[#1F5EFF] text-lg mb-3">3. SARFAESI Act Enforcement</h4>
                   <p className="text-[#2E2E2E]">If your loan amount exceeds ₹4 Lakhs, it is likely backed by collateral (property). The bank can legally auction this property under the SARFAESI Act without court intervention.</p>
                 </div>
                 <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
-                  <h3 className="font-black text-[#1F5EFF] text-lg mb-3">4. Employment Background Checks</h3>
+                  <h4 className="font-black text-[#1F5EFF] text-lg mb-3">4. Employment Background Checks</h4>
                   <p className="text-[#2E2E2E]">Many top-tier IT companies and MNCs in India now run background credit checks before hiring. A defaulted education loan can lead to job offer revocations.</p>
                 </div>
               </div>
@@ -305,15 +305,15 @@ export default function EducationLoanDefaultPage() {
 
             {/* Co-Signer Risks */}
             <section id="cosigner-risks" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 The Hidden Danger: Co-Signer Liability
-              </h2>
+              </h3>
               
               <div className="bg-red-50 p-6 rounded-xl border border-red-100 mb-8">
-                <h3 className="text-xl font-black text-red-700 mb-4 flex items-center gap-2">
+                <h4 className="text-xl font-black text-red-700 mb-4 flex items-center gap-2">
                   <svg className="w-6 h-6" fill="currentColor" viewBox="0 0 20 20"><path fillRule="evenodd" d="M8.257 3.099c.765-1.36 2.722-1.36 3.486 0l5.58 9.92c.75 1.334-.213 2.98-1.742 2.98H4.42c-1.53 0-2.493-1.646-1.743-2.98l5.58-9.92zM11 13a1 1 0 11-2 0 1 1 0 012 0zm-1-8a1 1 0 00-1 1v3a1 1 0 002 0V6a1 1 0 00-1-1z" clipRule="evenodd" /></svg>
                   Critical Warning for Parents
-                </h3>
+                </h4>
                 <p className="text-red-900 font-medium mb-4">
                   In Indian banking law, a co-borrower or guarantor bears the exact same legal liability as the primary borrower. If the student defaults, the bank has the complete legal right to pursue the parents for the full amount.
                 </p>
@@ -336,15 +336,15 @@ export default function EducationLoanDefaultPage() {
 
             {/* Legal Actions */}
             <section id="legal-actions" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 Understanding Bank Legal Actions
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 Banks do not immediately seize property. There is a rigid legal process they must follow, giving you windows of opportunity to respond and protect yourself.
               </p>
 
               <div className="bg-gray-50 p-8 rounded-2xl mb-8 border border-gray-200">
-                <h3 className="text-xl font-black text-[#2E2E2E] mb-4">The Standard Timeline of Notices:</h3>
+                <h4 className="text-xl font-black text-[#2E2E2E] mb-4">The Standard Timeline of Notices:</h4>
                 <ol className="list-decimal pl-5 space-y-4 text-lg text-[#555]">
                   <li><strong>Notice of Demand:</strong> Sent after the account becomes an NPA (90 days).</li>
                   <li><strong>Section 13(2) Notice (SARFAESI):</strong> Gives you 60 days to repay the full amount if collateral is involved.</li>
@@ -356,9 +356,9 @@ export default function EducationLoanDefaultPage() {
 
             {/* Steps to Protect */}
             <section id="protection-steps" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 How to Protect Yourself and Settle the Loan
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-8">
                 If you are facing a genuine financial hardship, you have legal rights and options. Here is how you should proceed:
               </p>
@@ -367,7 +367,7 @@ export default function EducationLoanDefaultPage() {
                 <div className="flex gap-6">
                   <div className="flex-shrink-0 w-12 h-12 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center font-black text-xl shadow-lg">1</div>
                   <div>
-                    <h3 className="text-xl font-black text-[#2E2E2E] mb-2">Request a Moratorium Extension</h3>
+                    <h4 className="text-xl font-black text-[#2E2E2E] mb-2">Request a Moratorium Extension</h4>
                     <p className="text-lg text-[#555] leading-relaxed">
                       If you haven't secured a job yet, submit a formal written request to the branch manager asking for a moratorium extension. Provide proof of unemployment or lower-than-expected salary.
                     </p>
@@ -377,7 +377,7 @@ export default function EducationLoanDefaultPage() {
                 <div className="flex gap-6">
                   <div className="flex-shrink-0 w-12 h-12 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center font-black text-xl shadow-lg">2</div>
                   <div>
-                    <h3 className="text-xl font-black text-[#2E2E2E] mb-2">Propose Loan Restructuring</h3>
+                    <h4 className="text-xl font-black text-[#2E2E2E] mb-2">Propose Loan Restructuring</h4>
                     <p className="text-lg text-[#555] leading-relaxed">
                       Ask the bank to restructure the loan by extending the tenure (e.g., from 7 years to 12 years). This will drastically reduce your monthly EMI burden, making it manageable on a starter salary.
                     </p>
@@ -387,7 +387,7 @@ export default function EducationLoanDefaultPage() {
                 <div className="flex gap-6">
                   <div className="flex-shrink-0 w-12 h-12 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center font-black text-xl shadow-lg">3</div>
                   <div>
-                    <h3 className="text-xl font-black text-[#2E2E2E] mb-2">One Time Settlement (OTS)</h3>
+                    <h4 className="text-xl font-black text-[#2E2E2E] mb-2">One Time Settlement (OTS)</h4>
                     <p className="text-lg text-[#555] leading-relaxed">
                       If the loan has already become an NPA and you have no way to pay the massive accrued interest, you can negotiate an OTS. Banks often waive off penalties and significant portions of interest if paid in a lump sum.
                     </p>
@@ -396,7 +396,7 @@ export default function EducationLoanDefaultPage() {
               </div>
 
               <div className="bg-blue-50 border-l-8 border-[#1F5EFF] p-8 rounded-r-2xl my-8 mt-12">
-                <h4 className="text-xl font-black text-[#1F5EFF] mb-4">Why You Must Act Before the Legal Notice</h4>
+                <h5 className="text-xl font-black text-[#1F5EFF] mb-4">Why You Must Act Before the Legal Notice</h5>
                 <p className="text-lg text-[#2E2E2E] mb-4">
                   Once a SARFAESI notice is issued, your negotiation power drops significantly. Engaging an expert negotiator early on ensures:
                 </p>
@@ -419,9 +419,9 @@ export default function EducationLoanDefaultPage() {
 
             {/* Success Stories */}
             <section id="success-stories" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">
                 Recent Education Loan Settlements
-              </h2>
+              </h3>
               <div className="grid md:grid-cols-2 gap-6">
                 {/* Review Card 1 */}
                 <div className="bg-white p-8 rounded-[30px] border border-[#DEDEDE] shadow-sm hover:shadow-xl group transition-all">
@@ -431,7 +431,7 @@ export default function EducationLoanDefaultPage() {
                         R
                       </div>
                       <div>
-                        <h3 className="font-bold text-[#2E2E2E]">Rahul M.</h3>
+                        <h4 className="font-bold text-[#2E2E2E]">Rahul M.</h4>
                         <div className="flex gap-1">
                           {[...Array(5)].map((_, i) => (
                             <svg key={i} className="w-4 h-4 text-yellow-400" fill="currentColor" viewBox="0 0 20 20"><path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z" /></svg>
@@ -457,7 +457,7 @@ export default function EducationLoanDefaultPage() {
                         S
                       </div>
                       <div>
-                        <h4 className="font-bold text-[#2E2E2E]">Sneha K.</h4>
+                        <h5 className="font-bold text-[#2E2E2E]">Sneha K.</h5>
                         <div className="flex gap-1">
                           {[...Array(5)].map((_, i) => (
                             <svg key={i} className="w-4 h-4 text-yellow-400" fill="currentColor" viewBox="0 0 20 20"><path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z" /></svg>
@@ -483,7 +483,7 @@ export default function EducationLoanDefaultPage() {
                         A
                       </div>
                       <div>
-                        <h4 className="font-bold text-[#2E2E2E]">Amit D.</h4>
+                        <h5 className="font-bold text-[#2E2E2E]">Amit D.</h5>
                         <div className="flex gap-1">
                           {[...Array(5)].map((_, i) => (
                             <svg key={i} className="w-4 h-4 text-yellow-400" fill="currentColor" viewBox="0 0 20 20"><path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z" /></svg>
@@ -509,7 +509,7 @@ export default function EducationLoanDefaultPage() {
                         P
                       </div>
                       <div>
-                        <h4 className="font-bold text-[#2E2E2E]">Priya V.</h4>
+                        <h5 className="font-bold text-[#2E2E2E]">Priya V.</h5>
                         <div className="flex gap-1">
                           {[...Array(5)].map((_, i) => (
                             <svg key={i} className="w-4 h-4 text-yellow-400" fill="currentColor" viewBox="0 0 20 20"><path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z" /></svg>
@@ -531,9 +531,9 @@ export default function EducationLoanDefaultPage() {
 
             {/* FAQs */}
             <section id="faq" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">
                 Frequently Asked Questions
-              </h2>
+              </h3>
               <div className="space-y-4">
                 {[
                   { q: "What happens if I stop paying my education loan?", a: "If you stop paying, your loan will be classified as a Non-Performing Asset (NPA) after 90 days. This will crash your CIBIL score, and the bank will initiate recovery proceedings against you and your co-signers." },
@@ -548,7 +548,7 @@ export default function EducationLoanDefaultPage() {
                   { q: "How can I legally stop recovery agents from harassing me?", a: "RBI strictly prohibits harassment by recovery agents. You can file a formal complaint with the bank's grievance officer, the Banking Ombudsman, or file a police complaint if agents use abuse or physical threats." }
                 ].map((faq, idx) => (
                   <div key={idx} className="bg-white border border-[#DEDEDE] rounded-xl p-6 hover:shadow-md transition-shadow">
-                    <h3 className="text-xl font-bold text-[#2E2E2E] mb-3">{faq.q}</h3>
+                    <h4 className="text-xl font-bold text-[#2E2E2E] mb-3">{faq.q}</h4>
                     <p className="text-lg text-[#555]">{faq.a}</p>
                   </div>
                 ))}
@@ -558,9 +558,9 @@ export default function EducationLoanDefaultPage() {
             {/* Lead Gen Hook */}
             <div id="consultation" className="bg-[#2E2E2E] text-white p-12 rounded-[40px] text-center mt-24 relative overflow-hidden group">
               <div className="absolute inset-0 bg-[#1F5EFF] opacity-0 group-hover:opacity-5 transition-opacity duration-500"></div>
-              <h3 className="text-3xl md:text-5xl font-black mb-6 relative z-10">
+              <h4 className="text-3xl md:text-5xl font-black mb-6 relative z-10">
                 Protect Your Parents. Stop Harassment Today.
-              </h3>
+              </h4>
               <p className="text-xl text-gray-300 mb-10 max-w-2xl mx-auto relative z-10">
                 Don't let an education loan default ruin your family's peace of mind. Our legal experts can stop recovery agents and negotiate a fair settlement directly with the bank.
               </p>

@@ -173,7 +173,7 @@ export default function MumbaiDrtLawyerPage() {
                         </section>
 
                         <section id="mumbai-drt-landscape" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">The Unique Landscape of Mumbai Debt Recovery</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">The Unique Landscape of Mumbai Debt Recovery</h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 Mumbai is the heartbeat of Indian banking. Consequently, the legal machinery for debt recovery here is highly evolved and extremely fast. Banks in Mumbai often have specialized SARFAESI cells that work in tandem with empanelled advocates to secure possession orders and auction notices within record timeframes.
                             </p>
@@ -186,13 +186,13 @@ export default function MumbaiDrtLawyerPage() {
                         </section>
 
                         <section id="jurisdiction-details" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">Understanding Mumbai DRT Jurisdictions (DRT 1, 2 & 3)</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">Understanding Mumbai DRT Jurisdictions (DRT 1, 2 & 3)</h3>
                             <p className="text-lg leading-relaxed mb-8">
                                 Identifying the correct tribunal is the first step in any DRT defense. In Mumbai, the jurisdiction is divided based on pecuniary (debt amount) and territorial factors. This division is critical because filing in the wrong tribunal can lead to 'Return of Plaint,' causing you to lose precious time during which a bank might take physical possession.
                             </p>
                             <div className="space-y-6 mb-10">
                                 <div className="p-8 bg-gray-50 border-l-8 border-[#1F5EFF] rounded-r-2xl shadow-sm">
-                                    <h3 className="font-bold text-2xl mb-4 text-[#2E2E2E]">DRT 1 Mumbai (Colaba)</h3>
+                                    <h4 className="font-bold text-2xl mb-4 text-[#2E2E2E]">DRT 1 Mumbai (Colaba)</h4>
                                     <p className="text-base text-gray-700 leading-relaxed mb-4">
                                         Located at Telephone Bhavan, Colaba, DRT 1 is the high-stakes forum. It primary deals with debt amounts exceeding ₹100 Crores. This includes large corporate loans, stressed asset portfolios, and cases involving nationalized banks with large Mumbai exposures.
                                     </p>
@@ -201,7 +201,7 @@ export default function MumbaiDrtLawyerPage() {
                                     </p>
                                 </div>
                                 <div className="p-8 bg-gray-50 border-l-8 border-[#1F5EFF] rounded-r-2xl shadow-sm">
-                                    <h4 className="font-bold text-2xl mb-4 text-[#2E2E2E]">DRT 2 Mumbai (Colaba)</h4>
+                                    <h5 className="font-bold text-2xl mb-4 text-[#2E2E2E]">DRT 2 Mumbai (Colaba)</h5>
                                     <p className="text-base text-gray-700 leading-relaxed mb-4">
                                         DRT 2 covers the core city area (Wards A to H). This includes premium areas like Nariman Point, Cuffe Parade, Malabar Hill, and the business hubs of Lower Parel and Worli. It handles recovery applications for debts below ₹100 Crores.
                                     </p>
@@ -210,7 +210,7 @@ export default function MumbaiDrtLawyerPage() {
                                     </p>
                                 </div>
                                 <div className="p-8 bg-gray-50 border-l-8 border-[#1F5EFF] rounded-r-2xl shadow-sm">
-                                    <h4 className="font-bold text-2xl mb-4 text-[#2E2E2E]">DRT 3 Mumbai (Vashi)</h4>
+                                    <h5 className="font-bold text-2xl mb-4 text-[#2E2E2E]">DRT 3 Mumbai (Vashi)</h5>
                                     <p className="text-base text-gray-700 leading-relaxed mb-4">
                                         The Navi Mumbai tribunal (DRT 3) handles the suburban sprawl (Wards K to T) and the industrial belts of Thane, Palghar, Vapi (territorial), and Nashik. This portal is the main battleground for MSMEs and SME borrowers.
                                     </p>
@@ -225,37 +225,37 @@ export default function MumbaiDrtLawyerPage() {
                         </section>
 
                         <section id="sarfaesi-defense-mumbai" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">Technical SARFAESI Defense: The "Rule 8" Checklist</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">Technical SARFAESI Defense: The "Rule 8" Checklist</h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 The SARFAESI Act is a draconian law, but its enforcement is governed by strict rules. Any deviation by the bank from the Security Interest (Enforcement) Rules, 2002, is a ground for quashing the recovery action. In Mumbai, where property values are astronomical, even a single procedural slip can save a borrower millions.
                             </p>
                             <div className="grid md:grid-cols-2 gap-8 mb-10">
                                 <div className="p-6 bg-white border border-[#DEDEDE] rounded-xl">
-                                    <h3 className="font-bold text-[#1F5EFF] mb-3">Notice of Possession (Rule 8(1))</h3>
+                                    <h4 className="font-bold text-[#1F5EFF] mb-3">Notice of Possession (Rule 8(1))</h4>
                                     <p className="text-sm">Banks often fail to serve the possession notice to the borrower and the guarantor simultaneously. In a recent case at DRT 3 Mumbai, we set aside a symbolic possession notice because it wasn't published in two leading newspapers (one in vernacular Marathi) within 7 days. Proof of publication is a mandatory exhibit in any DRT trial.</p>
                                 </div>
                                 <div className="p-6 bg-white border border-[#DEDEDE] rounded-xl">
-                                    <h4 className="font-bold text-[#1F5EFF] mb-3">Valuation Integrity (Rule 8(5))</h4>
+                                    <h5 className="font-bold text-[#1F5EFF] mb-3">Valuation Integrity (Rule 8(5))</h5>
                                     <p className="text-sm">PSU banks in Mumbai frequently rely on outdated valuation reports to set the 'Reserve Price'. If the price for a Dadar or Bandra property is based on a valuation older than 6 months, we challenge it as a 'fraud on the power of sale' under Rule 8(5), often resulting in a re-valuation and cancellation of the auction.</p>
                                 </div>
                                 <div className="p-6 bg-white border border-[#DEDEDE] rounded-xl">
-                                    <h4 className="font-bold text-[#1F5EFF] mb-3">Sale Notice Period (Rule 8(6))</h4>
+                                    <h5 className="font-bold text-[#1F5EFF] mb-3">Sale Notice Period (Rule 8(6))</h5>
                                     <p className="text-sm">The 30-day notice for the first auction and 15-day notice for subsequent auctions is non-negotiable. We verify the "proof of service" of these notices. If the courier receipt doesn't match the address in the loan deed or if the notice was served on a Sunday/Public Holiday, it can be quashed.</p>
                                 </div>
                                 <div className="p-6 bg-white border border-[#DEDEDE] rounded-xl">
-                                    <h4 className="font-bold text-[#1F5EFF] mb-3">Authorised Officer's Identity</h4>
+                                    <h5 className="font-bold text-[#1F5EFF] mb-3">Authorised Officer's Identity</h5>
                                     <p className="text-sm">Many private banks hire external agencies to sign as 'Authorised Officers.' Under Bombay High Court precedents, only a permanent employee of the bank (typically Scale IV or above) can act as an AO. External signatures make the entire 13(2) and 13(4) chain of notices legally void.</p>
                                 </div>
                             </div>
                         </section>
 
                         <section id="drat-mumbai-appeals" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">DRAT Mumbai: The High-Stakes Appeal Process</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">DRAT Mumbai: The High-Stakes Appeal Process</h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 The Debt Recovery Appellate Tribunal (DRAT) in Mumbai, located at Scindia House, is the final authority for appeals against DRT orders in Maharashtra, Goa, and Gujarat. Appealing here is a technical minefield due to the mandatory "Pre-deposit" requirement.
                             </p>
                             <div className="bg-blue-50 p-8 rounded-xl border border-blue-200 my-8">
-                                <h3 className="font-bold text-blue-900 mb-4 text-xl">The Pre-Deposit Technicality</h3>
+                                <h4 className="font-bold text-blue-900 mb-4 text-xl">The Pre-Deposit Technicality</h4>
                                 <p className="text-base text-blue-800 leading-relaxed mb-4">
                                     Under Section 18 of the SARFAESI Act, you must deposit 50% of the bank's claim to file an appeal. However, a skilled lawyer can argue for a reduction to 25% based on specific financial hardship or legal merits of the case.
                                 </p>
@@ -266,7 +266,7 @@ export default function MumbaiDrtLawyerPage() {
                         </section>
 
                         <section id="bmc-cidco-nuances" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">Mumbai Specialty: BMC, CIDCO & SRA Property Disputes</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">Mumbai Specialty: BMC, CIDCO & SRA Property Disputes</h3>
                             <p className="text-lg leading-relaxed mb-6 font-bold">
                                 You cannot apply general property law to Mumbai real estate.
                             </p>
@@ -279,7 +279,7 @@ export default function MumbaiDrtLawyerPage() {
                         </section>
 
                         <section id="property-valuation-disputes" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">Challenging Undervalued Auctions in Mumbai</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">Challenging Undervalued Auctions in Mumbai</h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 Real estate in Mumbai is incredibly profitable for recovery agents. We often find banks setting 'Reserve Prices' for properties that are 30% to 40% below the actual market rate of South Mumbai or the Western Suburbs.
                             </p>
@@ -303,7 +303,7 @@ export default function MumbaiDrtLawyerPage() {
                         </section>
 
                         <section id="stay-order-strategies" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">Winning Strategies for Interim Stay Orders</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">Winning Strategies for Interim Stay Orders</h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 Getting a stay order in the Mumbai DRT is a race against time. The DRT usually follows the principle of "Prima Facie Case, Balance of Convenience, and Irreparable Injury."
                             </p>
@@ -313,12 +313,12 @@ export default function MumbaiDrtLawyerPage() {
                         </section>
 
                         <section id="ots-negotiation" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">One-Time Settlement (OTS) Strategies for Mumbai Businesses</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">One-Time Settlement (OTS) Strategies for Mumbai Businesses</h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 For most Mumbai-based entrepreneurs, the DRT case is a means to an end, the end being a fair settlement. Banks in Mumbai are driven by 'Quarterly NPA Targets.' This makes them more prone to settle during the months of March, June, September, and December.
                             </p>
                             <div className="bg-[#1F5EFF]/5 p-8 rounded-3xl border border-[#1F5EFF]/20 mb-10">
-                                <h3 className="text-2xl font-black text-[#2E2E2E] mb-6">The "Legal Gridlock" Method for OTS</h3>
+                                <h4 className="text-2xl font-black text-[#2E2E2E] mb-6">The "Legal Gridlock" Method for OTS</h4>
                                 <p className="text-lg leading-relaxed mb-4">
                                     A bank will never offer a deep hair-cut (discount) if they believe they can successfully auction your property. We create a legal gridlock by:
                                 </p>
@@ -343,7 +343,7 @@ export default function MumbaiDrtLawyerPage() {
                         </section>
 
                         <section id="mumbai-drt-fees" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">Court Fees and Costs in Mumbai DRT</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">Court Fees and Costs in Mumbai DRT</h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 Filing a case in the DRT is not free. The court fees are calculated based on the 'Amount of Debt' claimed by the bank or the value of the action being challenged.
                             </p>
@@ -377,7 +377,7 @@ export default function MumbaiDrtLawyerPage() {
                         </section>
 
                         <section id="success-stories" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 text-center">Mumbai Case Success History</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 text-center">Mumbai Case Success History</h3>
                             <div className="grid md:grid-cols-2 gap-10 not-prose">
                                 {[
                                     {
@@ -409,7 +409,7 @@ export default function MumbaiDrtLawyerPage() {
                                         <div className="flex items-center mb-4">
                                             <div className="w-10 h-10 rounded-full bg-blue-100 flex items-center justify-center font-bold text-blue-600 mr-3">{review.name.split(' ')[0][0]}</div>
                                             <div>
-                                                <h3 className="font-bold text-[#2E2E2E]">{review.name}</h3>
+                                                <h4 className="font-bold text-[#2E2E2E]">{review.name}</h4>
                                                 <p className="text-xs text-gray-400">{review.loc}</p>
                                             </div>
                                             <div className="ml-auto text-yellow-400 text-sm">★★★★★</div>
@@ -424,7 +424,7 @@ export default function MumbaiDrtLawyerPage() {
                         </section>
 
                         <section id="faqs" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">DRT Mumbai & Loan Recovery FAQs</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">DRT Mumbai & Loan Recovery FAQs</h3>
                             <div className="space-y-6 not-prose">
                                 {[
                                     { q: "Where is DRT 1 Mumbai located?", a: "DRT 1 is located on the 2nd Floor, Telephone Bhavan, Colaba, Mumbai. It handles cases with debt amounts of Rs. 100 Crore and above." },
@@ -458,7 +458,7 @@ export default function MumbaiDrtLawyerPage() {
                         </section>
 
                         <div className="mt-16 p-8 bg-[#1F5EFF] rounded-3xl text-white text-center">
-                            <h2 className="text-3xl font-black mb-6">Stop Mumbai DRT Auctions Today</h2>
+                            <h3 className="text-3xl font-black mb-6">Stop Mumbai DRT Auctions Today</h3>
                             <p className="text-xl mb-8 opacity-90">
                                 Don't wait for the bank to take your keys. Our senior Mumbai advocates are ready to defend your property rights.
                             </p>

@@ -346,9 +346,9 @@ export default function ProfessionalServicesPage() {
             </section>
 
             <section id="negotiation-anatomy" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight text-[#1F5EFF]">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight text-[#1F5EFF]">
                 The Anatomy of a Professional Loan Settlement Negotiation
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 Most borrowers think negotiation is just a series of calls where they beg for mercy. A professional negotiator knows that mercy is not a bank policy; 'Recovery Efficiency' is. The anatomy of a professional negotiation involves a multi-staged approach that uses data and law as leverage. 
               </p>
@@ -356,7 +356,7 @@ export default function ProfessionalServicesPage() {
                 A skilled firm follows a process that turns your 'Default' into a 'Case Dispute.' This shifts the bank's internal classification of your file, moving it from the hands of aggressive recovery agents to the 'Compromise Settlement Committee.' This committee has the power to waive interest, penalties, and even a significant portion of the principal.
               </p>
               <div className="bg-indigo-50 p-8 rounded-xl border border-indigo-200 mb-8 shadow-sm">
-                <h3 className="text-xl font-bold mb-4 text-indigo-900 italic uppercase tracking-widest">The Professional Negotiation Stack</h3>
+                <h4 className="text-xl font-bold mb-4 text-indigo-900 italic uppercase tracking-widest">The Professional Negotiation Stack</h4>
                 <ul className="space-y-4">
                   <li className="flex items-start gap-3">
                     <span className="shrink-0 w-6 h-6 bg-[#1F5EFF] text-white rounded-full flex items-center justify-center font-bold text-sm">1</span>
@@ -387,9 +387,9 @@ export default function ProfessionalServicesPage() {
             </section>
 
             <section id="why-professional" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight uppercase tracking-tighter">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight uppercase tracking-tighter">
                 Why Do You Need Professional Services? The 'DIY' Trap
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 Many borrowers believe they can negotiate their own settlement. While this is theoretically possible, the 'DIY' route is fraught with legal and financial traps. Without a professional buffing your case, you are often ignored or, worse, pressured into a 'Token Payment' that resets the clock on your debt and destroys your chances of a future settlement.
               </p>
@@ -398,13 +398,13 @@ export default function ProfessionalServicesPage() {
               </p>
               <div className="grid md:grid-cols-2 gap-6 mb-8">
                 <div className="bg-gray-50 p-6 rounded-xl border border-gray-100 shadow-inner">
-                  <h3 className="font-bold text-stone-800 mb-2 uppercase text-xs tracking-widest">The Authority Gap</h3>
+                  <h4 className="font-bold text-stone-800 mb-2 uppercase text-xs tracking-widest">The Authority Gap</h4>
                   <p className="text-sm text-gray-600 leading-relaxed font-bold">
                     A bank manager is more likely to entertain a request if it comes on a professional law firm's letterhead or from a registered counselor. It signals that the borrower is serious and has the resources to fight back if laws are violated.
                   </p>
                 </div>
                 <div className="bg-gray-50 p-6 rounded-xl border border-gray-100 shadow-inner">
-                  <h3 className="font-bold text-stone-800 mb-2 uppercase text-xs tracking-widest">The Trap Door</h3>
+                  <h4 className="font-bold text-stone-800 mb-2 uppercase text-xs tracking-widest">The Trap Door</h4>
                   <p className="text-sm text-gray-600 leading-relaxed">
                     DIY negotiators often accept a 'verbal' settlement offer or pay into a personal account of a recovery agent. Professional firms ensure all payments go through official bank portals and only *after* a formal settlement letter is issued.
                   </p>
@@ -416,9 +416,9 @@ export default function ProfessionalServicesPage() {
             </section>
 
             <section id="amalegal-deepdive" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
                 Section 1: <Link href="https://amalegalsolutions.com" target="_blank" rel="noopener noreferrer" className="text-[#1F5EFF] hover:underline">Amalegal Solutions</Link> : The Legal Powerhouses
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 <Link href="https://amalegalsolutions.com" target="_blank" rel="noopener noreferrer" className="text-[#1F5EFF] hover:underline">Amalegal Solutions (amalegalsolutions.com)</Link> is the first port of call for borrowers facing complex, high-ticket, or legally volatile debt situations. While many firms act as financial consultants, <Link href="https://amalegalsolutions.com" target="_blank" rel="noopener noreferrer" className="text-[#1F5EFF] hover:underline">Amalegal</Link> operates with the weight of a full-scale law firm. Their approach is defined by 'Legal Aggression' using the law as a sword and a shield.
               </p>
@@ -426,7 +426,7 @@ export default function ProfessionalServicesPage() {
                 In India, many settlement situations involve legal notices like Section 138 (Cheque Bounce) or SARFAESI Act (Property Seizure) notices. <Link href="https://amalegalsolutions.com" target="_blank" rel="noopener noreferrer" className="text-[#1F5EFF] hover:underline">Amalegal's</Link> specialized team of litigation experts handles these directly. They don't just negotiate; they represent you in High Courts, NCLT (for corporate debt), and Debt Recovery Tribunals (DRT). 
               </p>
               <div className="bg-stone-50 p-8 rounded-xl border border-stone-200 mb-8 font-medium">
-                <h3 className="text-xl font-bold mb-4 text-stone-900 uppercase">The <Link href="https://amalegalsolutions.com" target="_blank" rel="noopener noreferrer" className="text-[#1F5EFF] hover:underline">Amalegal</Link> Legal Arsenal</h3>
+                <h4 className="text-xl font-bold mb-4 text-stone-900 uppercase">The <Link href="https://amalegalsolutions.com" target="_blank" rel="noopener noreferrer" className="text-[#1F5EFF] hover:underline">Amalegal</Link> Legal Arsenal</h4>
                 <ul className="grid md:grid-cols-2 gap-6">
                   <li className="flex items-start gap-2 text-stone-800">
                     <span className="w-2.5 h-2.5 bg-[#1F5EFF] rounded-full mt-1.5"></span>
@@ -460,9 +460,9 @@ export default function ProfessionalServicesPage() {
             </section>
 
             <section id="credsettle-innovation" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
                 Section 2: CredSettle : The Tech-Driven Transparency Pioneers
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 <strong>CredSettle (credsettle.com)</strong> has revolutionized the loan settlement industry by introducing 'Radical Transparency' through technology. For many borrowers, the biggest frustration is being in the dark: "What did the bank say?" "Did you send the email?" "What is the status of my file?" CredSettle solves this with their proprietary tech dashboard.
               </p>
@@ -470,7 +470,7 @@ export default function ProfessionalServicesPage() {
                 The CredSettle approach is built for the digital age. They use AI and data analytics to aggregate high volumes of defaults particularly from Fintech apps and Credit Card issuers. This 'Bulk Negotiation' power allows them to group dozens of clients of a single bank together, forcing the bank to offer universal settlement schemes that an individual borrower could never access. 
               </p>
               <div className="bg-indigo-50/50 p-8 rounded-xl border border-indigo-200 mb-8 shadow-sm">
-                <h3 className="text-xl font-bold mb-4 italic text-indigo-900 uppercase">The CredSettle Tech Advantage</h3>
+                <h4 className="text-xl font-bold mb-4 italic text-indigo-900 uppercase">The CredSettle Tech Advantage</h4>
                 <div className="space-y-4">
                   <div className="flex gap-4">
                     <span className="font-black text-[#1F5EFF]">AI-Audit:</span>
@@ -492,9 +492,9 @@ export default function ProfessionalServicesPage() {
             </section>
 
             <section id="settleloans-advocacy" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
                 Section 3: SettleLoans.in : The High-Empathy Advocacy Model
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 <strong>SettleLoans (settleloans.in)</strong> represents the 'Compassionate Counselor' model of debt negotiation. They understand that debt is not just a financial problem; it is a human crisis that affects families, careers, and mental health. Their approach is defined by personalized advocacy and long-term financial rehabilitation.
               </p>
@@ -503,12 +503,12 @@ export default function ProfessionalServicesPage() {
               </p>
               <div className="space-y-8 my-10">
                 <div className="border-l-4 border-[#1F5EFF] pl-6 py-4 bg-gray-50 rounded-r-xl shadow-sm">
-                  <h3 className="font-black text-xl mb-2 uppercase text-indigo-800">The Family Shield Program</h3>
+                  <h4 className="font-black text-xl mb-2 uppercase text-indigo-800">The Family Shield Program</h4>
                   <p className="text-sm text-gray-700 leading-relaxed mb-2 font-bold italic">SettleLoans focuses on protecting the borrower's social standing. They provide training on how to handle calls from friends and family members who might be contacted by unethical recovery agents.</p>
                   <p className="text-sm text-gray-500">They provide a 'Privacy Shield' that minimizes the social impact of your financial struggle, ensuring that your parents or neighbors aren't dragged into your personal debt battle.</p>
                 </div>
                 <div className="border-l-4 border-[#1F5EFF] pl-6 py-4 bg-gray-50 rounded-r-xl shadow-sm">
-                  <h4 className="font-black text-xl mb-2 uppercase text-indigo-800">Closure Audit & CIBIL Rebuilding</h4>
+                  <h5 className="font-black text-xl mb-2 uppercase text-indigo-800">Closure Audit & CIBIL Rebuilding</h5>
                   <p className="text-sm text-gray-700 leading-relaxed mb-2">SettleLoans doesn't stop at the settlement letter. They perform a 'Post-Closure Audit' to ensure the bank has correctly reported the status to credit bureaus, preventing future hurdles when you apply for a loan 5 years later.</p>
                 </div>
               </div>
@@ -518,9 +518,9 @@ export default function ProfessionalServicesPage() {
             </section>
 
             <section id="rbi-leverage" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight uppercase">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight uppercase">
                 How Professional Negotiators Leverage RBI Guidelines
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 The secret weapon of a professional service is their deep knowledge of the <strong>Reserve Bank of India (RBI)</strong> circulars. Most borrowers don't know their rights; professional negotiators live by them. For example, the RBI's 'Compromise Settlement and Technical Write-offs' circular of June 2023 changed the game for Indian borrowers. 
               </p>
@@ -535,9 +535,9 @@ export default function ProfessionalServicesPage() {
             </section>
 
             <section id="closure-audit" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
                 The 'Closure Audit': Why a Settlement Isn't Over Until It's Verified
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 One of the most dangerous myths in loan settlement is that it's over once you make the payment. In the fragmented and error-prone systems of large Indian banks, payments are often misallocated, or closure status is never updated in the core banking system. This can lead to 'Zombie Debt' where a settled account reappears as an active default a year later.
               </p>
@@ -564,7 +564,7 @@ export default function ProfessionalServicesPage() {
             </section>
 
             <section id="fee-structures" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 text-center uppercase">Understanding Professional Fee Structures</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 text-center uppercase">Understanding Professional Fee Structures</h3>
               <div className="overflow-x-auto">
                 <table className="w-full text-left border-collapse border border-gray-200 bg-white shadow-sm">
                   <thead className="bg-[#2E2E2E] text-white">
@@ -601,20 +601,20 @@ export default function ProfessionalServicesPage() {
             </section>
 
             <section id="choosing-ally" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 text-[#1F5EFF] uppercase tracking-widest">How to Choose Your Negotiation Ally?</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 text-[#1F5EFF] uppercase tracking-widest">How to Choose Your Negotiation Ally?</h3>
               <p className="mb-6 text-lg leading-relaxed">
                 Choosing a debt settlement partner is a high-stakes decision. Your choice should be based on your 'Debt Type' and your 'Urgency Level.' Here is a data-backed guide to making the right choice:
               </p>
               <div className="grid sm:grid-cols-2 gap-8 my-10">
                 <div className="bg-white border border-[#DEDEDE] p-10 rounded-2xl relative overflow-hidden group hover:shadow-2xl transition-all duration-300">
                   <span className="absolute top-4 left-4 text-xs font-black text-[#1F5EFF] uppercase tracking-widest">High Urgency</span>
-                  <h3 className="text-2xl font-black mb-6 uppercase leading-none">Choose <Link href="https://amalegalsolutions.com" target="_blank" rel="noopener noreferrer" className="text-[#1F5EFF] hover:underline">Amalegal Solutions</Link> if:</h3>
+                  <h4 className="text-2xl font-black mb-6 uppercase leading-none">Choose <Link href="https://amalegalsolutions.com" target="_blank" rel="noopener noreferrer" className="text-[#1F5EFF] hover:underline">Amalegal Solutions</Link> if:</h4>
                   <p className="text-base leading-relaxed text-gray-600 font-bold mb-4">You have received a SARFAESI Section 13 notice, a Cheque Bounce summons, or if physical recovery agents are visiting your home/office daily.</p>
                   <p className="text-sm text-gray-400">Focus: Legal protection and stopping immediate harassment.</p>
                 </div>
                 <div className="bg-white border border-[#DEDEDE] p-10 rounded-2xl relative overflow-hidden group hover:shadow-2xl transition-all duration-300">
                   <span className="absolute top-4 left-4 text-xs font-black text-[#1F5EFF] uppercase tracking-widest">High Volume</span>
-                  <h3 className="text-2xl font-black mb-6 uppercase leading-none">Choose CredSettle or SettleLoans if:</h3>
+                  <h4 className="text-2xl font-black mb-6 uppercase leading-none">Choose CredSettle or SettleLoans if:</h4>
                   <p className="text-base leading-relaxed text-gray-600 font-bold mb-4">You have multiple credit cards or app loans, are in the 'Pre-Legal' stage (60-120 days default), and want a structured way to settle for the lowest possible amount.</p>
                   <p className="text-sm text-gray-400">Focus: Interest saving, transparency, and CIBIL rehabilitation.</p>
                 </div>
@@ -627,7 +627,7 @@ export default function ProfessionalServicesPage() {
             <ReviewSnippets reviews={reviews} title="Real Results from Professional Alliances" />
 
             <section id="faqs" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 uppercase tracking-widest text-[#1F5EFF]">Frequently Asked Questions</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 uppercase tracking-widest text-[#1F5EFF]">Frequently Asked Questions</h3>
               <div className="space-y-4 not-prose">
                 {(jsonLd["@graph"][3] as any)?.mainEntity?.map((faq: any, i: number) => (
                   <details key={i} className="group bg-white border border-[#DEDEDE] rounded-xl overflow-hidden hover:shadow-md transition-all border-b-4 border-b-[#1F5EFF]/20">
@@ -653,7 +653,7 @@ export default function ProfessionalServicesPage() {
             <div className="lg:hidden mt-16 mb-8">
               <div className="bg-[#2E2E2E] rounded-2xl shadow-xl overflow-hidden border border-[#1F5EFF]/20">
                 <div className="bg-[#1F5EFF] p-6 text-center text-white">
-                  <h3 className="text-2xl font-black mb-2">Speak to a Professional Now!</h3>
+                  <h4 className="text-2xl font-black mb-2">Speak to a Professional Now!</h4>
                   <p className="opacity-90 text-sm">Don't negotiate alone. Get the legal and financial firepower you deserve.</p>
                 </div>
                 <div className="p-8 text-center text-[#DEDEDE]">

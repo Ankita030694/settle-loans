@@ -189,17 +189,17 @@ export default function MSMELoanLawyerPage() {
                         </section>
 
                         <section id="msmed-act" className="scroll-mt-32 mb-20 text-[var(--color-text-body)]">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">The Power of MSMED Act 2006</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">The Power of MSMED Act 2006</h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 The MSMED Act is one of the most powerful 'Special Laws' in India, designed to protect small suppliers from the bullying of large corporate buyers. It mandates that no buyer can delay payment beyond 45 days.
                             </p>
                             <div className="grid grid-cols-1 md:grid-cols-2 gap-6 my-10">
                                 <div className="bg-blue-50 p-6 rounded-2xl border-l-4 border-[#1F5EFF]">
-                                    <h3 className="font-black text-[#2E2E2E] mb-2">Section 15: Duty to Pay</h3>
+                                    <h4 className="font-black text-[#2E2E2E] mb-2">Section 15: Duty to Pay</h4>
                                     <p className="text-xs opacity-70 font-bold">Mandates payment within the agreed timeframe, never exceeding 45 days.</p>
                                 </div>
                                 <div className="bg-green-50 p-6 rounded-2xl border-l-4 border-green-500">
-                                    <h4 className="font-black text-[#2E2E2E] mb-2">Section 16: Penal Interest</h4>
+                                    <h5 className="font-black text-[#2E2E2E] mb-2">Section 16: Penal Interest</h5>
                                     <p className="text-xs opacity-70 font-bold">Automatic liability for 3x the bank interest rate for delayed payments.</p>
                                 </div>
                             </div>
@@ -209,7 +209,7 @@ export default function MSMELoanLawyerPage() {
                         </section>
 
                         <section id="payment-recovery" className="scroll-mt-32 mb-20">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 tracking-tighter">Strategic Payment Recovery System</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 tracking-tighter">Strategic Payment Recovery System</h3>
                             <p className="text-lg leading-relaxed mb-8">
                                 Recovery for an MSME is not about filing a 10-year civil suit. It is about using the "Summary Mechanisms" provided by the state. We follow a 3-step surgical strike process:
                             </p>
@@ -217,21 +217,21 @@ export default function MSMELoanLawyerPage() {
                                 <div className="bg-white p-6 rounded-3xl border border-[#DEDEDE] flex items-center gap-6 group hover:border-[#1F5EFF] transition-colors">
                                     <div className="w-12 h-12 bg-gray-100 rounded-full flex items-center justify-center font-black group-hover:bg-[#1F5EFF] group-hover:text-white transition-all italic text-xl">01</div>
                                     <div>
-                                        <h3 className="font-black text-lg">Legal Notice on Steroids</h3>
+                                        <h4 className="font-black text-lg">Legal Notice on Steroids</h4>
                                         <p className="text-sm opacity-70">A notice that cites the 3x interest liability usually forces the buyer's CFO to release payments immediately.</p>
                                     </div>
                                 </div>
                                 <div className="bg-white p-6 rounded-3xl border border-[#DEDEDE] flex items-center gap-6 group hover:border-[#1F5EFF] transition-colors">
                                     <div className="w-12 h-12 bg-gray-100 rounded-full flex items-center justify-center font-black group-hover:bg-[#1F5EFF] group-hover:text-white transition-all italic text-xl">02</div>
                                     <div>
-                                        <h4 className="font-black text-lg">MSEFC Filing</h4>
+                                        <h5 className="font-black text-lg">MSEFC Filing</h5>
                                         <p className="text-sm opacity-70">Filing with the Micro and Small Enterprise Facilitation Council, which overrides any other court jurisdiction.</p>
                                     </div>
                                 </div>
                                 <div className="bg-white p-6 rounded-3xl border border-[#DEDEDE] flex items-center gap-6 group hover:border-[#1F5EFF] transition-colors">
                                     <div className="w-12 h-12 bg-gray-100 rounded-full flex items-center justify-center font-black group-hover:bg-[#1F5EFF] group-hover:text-white transition-all italic text-xl">03</div>
                                     <div>
-                                        <h5 className="font-black text-lg">Conciliation & Arbitration</h5>
+                                        <h6 className="font-black text-lg">Conciliation & Arbitration</h6>
                                         <p className="text-sm opacity-70">A time-bound legal proceeding that ends in a 'Money Award' which is as powerful as a High Court decree.</p>
                                     </div>
                                 </div>
@@ -239,7 +239,7 @@ export default function MSMELoanLawyerPage() {
                         </section>
 
                         <section id="facilitation-councils" className="scroll-mt-32 mb-20">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">Navigating MSME Facilitation Councils (MSEFC)</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">Navigating MSME Facilitation Councils (MSEFC)</h3>
                             <p className="text-lg leading-relaxed mb-6 font-medium">
                                 The MSEFC is a quasi-judicial body specifically for MSMEs. It is much faster than a Civil Court because it follows a "No-Postponement" philosophy.
                             </p>
@@ -249,13 +249,13 @@ export default function MSMELoanLawyerPage() {
                         </section>
 
                         <section id="interest-rules" className="scroll-mt-32 mb-20">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 tracking-tight uppercase">The 3X Interest Weapon</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 tracking-tight uppercase">The 3X Interest Weapon</h3>
                             <p className="text-lg leading-relaxed mb-8">
                                 If a buyer delays a ₹1 Crore payment for 2 years, the penal interest under MSMED Act can often reach ₹40-50 Lakhs. This is calculated as compound interest with monthly rests at 3 times the RBI Bank Rate. This isn't just a penalty; it's a statutory right that cannot be negotiated away in a contract.
                             </p>
                             <div className="bg-[#2E2E2E] text-white p-10 rounded-3xl shadow-2xl relative overflow-hidden mb-12">
                                 <FontAwesomeIcon icon={faChartLine} className="absolute bottom-[-20px] right-[-20px] text-9xl opacity-10" />
-                                <h3 className="text-2xl font-black mb-6 text-[#1F5EFF] uppercase italic tracking-[0.2em]">Interest Calculation Example</h3>
+                                <h4 className="text-2xl font-black mb-6 text-[#1F5EFF] uppercase italic tracking-[0.2em]">Interest Calculation Example</h4>
                                 <div className="text-base leading-relaxed opacity-80 mb-6 space-y-4 font-medium">
                                     <p>Principal Amount: ₹10,00,000</p>
                                     <p>RBI Bank Rate (Reference): 6.75%</p>
@@ -272,7 +272,7 @@ export default function MSMELoanLawyerPage() {
                         </section>
 
                         <section id="ibc-msme" className="scroll-mt-32 mb-20">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 tracking-tight">MSME Protection under IBC (Insolvency)</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 tracking-tight">MSME Protection under IBC (Insolvency)</h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 The Insolvency and Bankruptcy Code (IBC) provides a special window for MSMEs through the "Pre-packaged Insolvency Resolution Process" (PPIRP). Unlike regular IBC, where the promoter often loses control of the company, PPIRP allows the MSME promoter to retain management while negotiating a resolution plan with creditors.
                             </p>
@@ -282,14 +282,14 @@ export default function MSMELoanLawyerPage() {
                             <div className="bg-yellow-50 p-8 rounded-3xl border border-yellow-100 flex items-start gap-4">
                                 <FontAwesomeIcon icon={faBriefcase} className="text-yellow-600 text-2xl mt-1" />
                                 <div>
-                                    <h3 className="font-black mb-2 text-yellow-900 uppercase">Debtor-in-Possession Model</h3>
+                                    <h4 className="font-black mb-2 text-yellow-900 uppercase">Debtor-in-Possession Model</h4>
                                     <p className="text-sm text-yellow-800 font-medium">The PPIRP process is unique because it keeps the existing management 'in the driver's seat' while the legal resolution happens. This ensures your operations aren't disrupted while the debts are being restructured.</p>
                                 </div>
                             </div>
                         </section>
 
                         <section id="sarfaesi-defense" className="scroll-mt-32 mb-20">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 tracking-tighter underline decoration-[#1F5EFF] decoration-4 underline-offset-8">SARFAESI Defense for MSMEs</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 tracking-tighter underline decoration-[#1F5EFF] decoration-4 underline-offset-8">SARFAESI Defense for MSMEs</h3>
                             <p className="text-lg leading-relaxed mb-8">
                                 If your business loan or personal loan (used for business) is secured by a factory, warehouse, or residence, the bank will try to use the SARFAESI Act to seize it within 60 days of a default notice.
                             </p>
@@ -302,7 +302,7 @@ export default function MSMELoanLawyerPage() {
                         </section>
 
                         <section id="samadhaan-portal" className="scroll-mt-32 mb-20 text-[var(--color-text-body)]">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">Leveraging MSME Samadhaan</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">Leveraging MSME Samadhaan</h3>
                             <p className="text-lg leading-relaxed mb-8">
                                 MSME Samadhaan is the Digital India answer to delayed payments. Our team assists you in the portal filing process, ensuring your evidence (Udyam Registration, Invoices, Delivery Proofs) is indexed perfectly to prevent rejection by the Council. A digital trail is harder to ignore than a physical file.
                             </p>
@@ -313,7 +313,7 @@ export default function MSMELoanLawyerPage() {
                         </section>
 
                         <section id="restructuring" className="scroll-mt-32 mb-20">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-10 tracking-tight">2026 Restructuring Guidelines</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-10 tracking-tight">2026 Restructuring Guidelines</h3>
                             <p className="text-lg leading-relaxed mb-8 font-medium">
                                 The RBI has allowed a specialized 'Restructuring Without NPA' status for MSMEs facing genuine stress. This prevents your CIBIL from tanking and keeps your credit limits intact.
                             </p>
@@ -323,7 +323,7 @@ export default function MSMELoanLawyerPage() {
                         </section>
 
                         <section id="treds-factoring" className="scroll-mt-32 mb-20">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-10 tracking-tight">TReDS: Solving the Liquidity Crisis</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-10 tracking-tight">TReDS: Solving the Liquidity Crisis</h3>
                             <p className="text-lg leading-relaxed mb-8">
                                 The Trade Receivables Discounting System (TReDS) is an institutional mechanism set up by the RBI to facilitate the discounting of invoices of MSMEs from corporate and other buyers. This allows MSMEs to get their money immediately from banks at a small discount, while the bank waits for the buyer to pay.
                             </p>
@@ -333,7 +333,7 @@ export default function MSMELoanLawyerPage() {
                         </section>
 
                         <section id="director-liability" className="scroll-mt-32 mb-20 text-[var(--color-text-body)]">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">Liability of Directors in MSME Loans</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">Liability of Directors in MSME Loans</h3>
                             <p className="text-lg leading-relaxed mb-6 font-medium">
                                 Often, directors of an MSME give personal guarantees for business loans. Banks try to use this to attach the personal assets of the directors even if the business is a 'Limited Liability' entity.
                             </p>
@@ -343,12 +343,12 @@ export default function MSMELoanLawyerPage() {
                         </section>
 
                         <section id="budget-2025" className="scroll-mt-32 mb-20">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 tracking-tighter">Budget 2025: New Horizons for MSME Credit</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 tracking-tighter">Budget 2025: New Horizons for MSME Credit</h3>
                             <p className="text-lg leading-relaxed mb-8">
                                 The 2024-25 Union Budget has introduced a new 'Credit Guarantee Scheme' for MSMEs in the manufacturing sector. This scheme allows for the continuation of bank credit even during a period of stress, without the need for additional collateral.
                             </p>
                             <div className="bg-blue-950 text-white p-12 rounded-[40px] shadow-2xl relative overflow-hidden group">
-                                <h3 className="text-2xl font-black mb-6 text-[#1F5EFF]">The 2025 Credit Shield</h3>
+                                <h4 className="text-2xl font-black mb-6 text-[#1F5EFF]">The 2025 Credit Shield</h4>
                                 <p className="text-base leading-relaxed opacity-70 mb-8">
                                     We assist businesses in applying for these new government-backed guarantees to 'Refinance' their expensive old debts. By moving from a 18% personal loan to a 9% government-backed business loan, your EMI drops by 50% instantly. This is the most effective form of long-term debt settlement.
                                 </p>
@@ -360,7 +360,7 @@ export default function MSMELoanLawyerPage() {
                         </section>
 
                         <section id="success-stories" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 text-center">Real Stories of Freedom</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 text-center">Real Stories of Freedom</h3>
                             <div className="grid md:grid-cols-2 gap-6 not-prose">
                                 {[
                                     {
@@ -382,7 +382,7 @@ export default function MSMELoanLawyerPage() {
                                                 {review.name.charAt(0)}
                                             </div>
                                             <div>
-                                                <h3 className="font-bold text-[#2E2E2E]">{review.name}</h3>
+                                                <h4 className="font-bold text-[#2E2E2E]">{review.name}</h4>
                                                 <p className="text-xs text-gray-400">{review.loc}</p>
                                             </div>
                                             <div className="ml-auto text-yellow-400 text-sm">★★★★★</div>
@@ -397,7 +397,7 @@ export default function MSMELoanLawyerPage() {
                         </section>
 
                         <section id="faqs" className="scroll-mt-32 mb-20">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-12">Expert MSME Legal FAQ</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-12">Expert MSME Legal FAQ</h3>
                             <div className="space-y-6 not-prose">
                                 {[
                                     { q: "Is registration on Udyam necessary for MSME protection?", a: "Yes. To avail the benefits of the MSMED Act 2006, including MSEFC filing and the 45-day payment rule, holding a valid Udyam Registration is mandatory. We help clients with back-dated status arguments if needed." },
@@ -437,7 +437,7 @@ export default function MSMELoanLawyerPage() {
                         <div className="lg:hidden mt-16 mb-8">
                             <div className="bg-[#2E2E2E] rounded-2xl shadow-xl overflow-hidden border border-[#1F5EFF]/20">
                                 <div className="bg-[#1F5EFF] p-6 text-center text-white">
-                                    <h3 className="text-2xl font-black mb-2">Ready to Start Over?</h3>
+                                    <h4 className="text-2xl font-black mb-2">Ready to Start Over?</h4>
                                     <p className="opacity-90 text-sm">Join the 10,000+ Indians we've helped find their way to financial freedom.</p>
                                 </div>
                                 <div className="p-8 text-center text-[#DEDEDE]">

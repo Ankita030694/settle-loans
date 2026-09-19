@@ -71,7 +71,7 @@ export default function TermsAndConditionsPage() {
 
             {/* Limitation of Liability */}
             <section className="mb-12">
-              <h2 className="text-2xl md:text-3xl font-black mb-6">Limitation of Liability</h2>
+              <h3 className="text-2xl md:text-3xl font-black mb-6">Limitation of Liability</h3>
               <p className="mb-6">
                 SettleLoans operates with the highest level of diligence, yet certain risks remain outside our control. To the fullest extent permitted by law, we are not liable for damages or losses arising from:
               </p>
@@ -91,7 +91,7 @@ export default function TermsAndConditionsPage() {
 
             {/* Indemnification */}
             <section className="mb-12">
-              <h2 className="text-2xl md:text-3xl font-black mb-6">Indemnification</h2>
+              <h3 className="text-2xl md:text-3xl font-black mb-6">Indemnification</h3>
               <p className="mb-6">
                 You agree to protect SettleLoans, its directors, employees, partners, and affiliates from claims that arise because of your actions. This includes covering reasonable legal fees when those claims stem from:
               </p>
@@ -111,7 +111,7 @@ export default function TermsAndConditionsPage() {
 
             {/* Fees */}
             <section className="mb-12">
-              <h2 className="text-2xl md:text-3xl font-black mb-6">Fees</h2>
+              <h3 className="text-2xl md:text-3xl font-black mb-6">Fees</h3>
               <p className="mb-6">
                 SettleLoans provides premium, RBI-compliant debt resolution expertise. Before you authorise any service, we will clearly communicate:
               </p>
@@ -136,7 +136,7 @@ export default function TermsAndConditionsPage() {
 
             {/* Refunds */}
             <section className="mb-12">
-              <h2 className="text-2xl md:text-3xl font-black mb-6">Refunds</h2>
+              <h3 className="text-2xl md:text-3xl font-black mb-6">Refunds</h3>
               <p className="mb-6">
                 Our refund commitments are governed by the service agreement and statement of work signed during onboarding. Please note:
               </p>
@@ -149,7 +149,7 @@ export default function TermsAndConditionsPage() {
 
             {/* Contact Us */}
             <section className="mb-12 bg-[#1F5EFF]/5 border border-[#1F5EFF]/20 rounded-3xl p-8 text-center">
-              <h2 className="text-3xl font-black mb-4">Contact Us</h2>
+              <h3 className="text-3xl font-black mb-4">Contact Us</h3>
               <p className="mb-6 text-lg">
                 We are here to help you understand and navigate these Terms. Reach out for clarification, escalation, or compliance queries at
               </p>
@@ -157,7 +157,7 @@ export default function TermsAndConditionsPage() {
                 info@settleloans.in
               </a>
               <div className="pt-8 border-t border-[#1F5EFF]/10">
-                <h3 className="text-xl font-bold mb-4 italic">Need clarity on how these Terms apply to your situation?</h3>
+                <h4 className="text-xl font-bold mb-4 italic">Need clarity on how these Terms apply to your situation?</h4>
                 <p className="mb-8 opacity-80">
                   Schedule a call with SettleLoans's compliance team. We will walk you through the engagement process, documentation, and RBI-compliant settlement roadmap.
                 </p>

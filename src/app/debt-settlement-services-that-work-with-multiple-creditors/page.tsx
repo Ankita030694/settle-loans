@@ -217,15 +217,15 @@ export default function MultiCreditorPage() {
             </section>
 
             <section id="consolidation-vs-settlement" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                 Debt Consolidation vs. Debt Settlement: Which is for You?
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 Before seeking a service, you must understand your choices. Many borrowers confuse consolidation with settlement.
               </p>
               <div className="grid md:grid-cols-2 gap-8 mb-8">
                 <div className="p-6 bg-blue-50 rounded-2xl border border-blue-100">
-                  <h3 className="text-xl font-bold text-blue-800 mb-4">Debt Consolidation</h3>
+                  <h4 className="text-xl font-bold text-blue-800 mb-4">Debt Consolidation</h4>
                   <p className="text-sm text-blue-900/80 mb-4">You take a new, larger loan at a lower interest rate to pay off all your smaller, high-interest loans. This leaves you with one EMI instead of many.</p>
                   <ul className="text-xs text-blue-800 space-y-2">
                     <li>✓ One monthly payment.</li>
@@ -235,7 +235,7 @@ export default function MultiCreditorPage() {
                   </ul>
                 </div>
                 <div className="p-6 bg-green-50 rounded-2xl border border-green-100">
-                  <h3 className="text-xl font-bold text-green-800 mb-4">Debt Settlement</h3>
+                  <h4 className="text-xl font-bold text-green-800 mb-4">Debt Settlement</h4>
                   <p className="text-sm text-green-900/80 mb-4">You negotiate with each of your lenders to pay a significantly reduced amount (often 40-70% less) to close the accounts forever.</p>
                   <ul className="text-xs text-green-800 space-y-2">
                     <li>✓ Drastically reduces total debt.</li>
@@ -251,9 +251,9 @@ export default function MultiCreditorPage() {
             </section>
 
             <section id="how-services-work" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                 How Multi-Creditor Services Work: The Orchestration
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 A common question is: "Why can't I just call the banks myself?" While you can, the advantage of a service like <strong>SettleLoans</strong> lies in their aggregate data and professional presence. When a bank sees a borrower represented by a legal-backed firm, they know the borrower is serious about finding a resolution and understands their rights.
               </p>
@@ -261,21 +261,21 @@ export default function MultiCreditorPage() {
                 <div className="flex gap-4 p-6 bg-white border border-gray-200 rounded-2xl shadow-sm">
                   <div className="w-12 h-12 bg-blue-100 rounded-full flex items-center justify-center shrink-0 font-bold text-blue-600">1</div>
                   <div>
-                    <h3 className="font-bold text-xl mb-2">Comprehensive Debt Analysis</h3>
+                    <h4 className="font-bold text-xl mb-2">Comprehensive Debt Analysis</h4>
                     <p className="text-sm text-gray-600">The service pulls your latest credit reports (CIBIL, Experian, etc.) to identify every single active loan and credit card. They then classify them by lender type (PSB, Private Bank, NBFC, Digital App).</p>
                   </div>
                 </div>
                 <div className="flex gap-4 p-6 bg-white border border-gray-200 rounded-2xl shadow-sm">
                   <div className="w-12 h-12 bg-blue-100 rounded-full flex items-center justify-center shrink-0 font-bold text-blue-600">2</div>
                   <div>
-                    <h4 className="font-bold text-xl mb-2">Parallel Negotiation Desk</h4>
+                    <h5 className="font-bold text-xl mb-2">Parallel Negotiation Desk</h5>
                     <p className="text-sm text-gray-600">Instead of waiting for one bank to finish, the service launches parallel negotiation tracks. They send formal outreach letters to all creditors, establishing a channel for 'settlement discussion' based on your financial hardship.</p>
                   </div>
                 </div>
                 <div className="flex gap-4 p-6 bg-white border border-gray-200 rounded-2xl shadow-sm">
                   <div className="w-12 h-12 bg-blue-100 rounded-full flex items-center justify-center shrink-0 font-bold text-blue-600">3</div>
                   <div>
-                    <h4 className="font-bold text-xl mb-2">Liquidity Management</h4>
+                    <h5 className="font-bold text-xl mb-2">Liquidity Management</h5>
                     <p className="text-sm text-gray-600">The service helps you decide how to use your available cash. If you have 50,000 rupees, should you settle two small 25k debts or use it as a downpayment for a 5 lakh settlement? They optimize for the maximum debt reduction.</p>
                   </div>
                 </div>
@@ -283,18 +283,18 @@ export default function MultiCreditorPage() {
             </section>
 
             <section id="legal-framework" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                 The Legal Framework for Multi-Creditor Settlement in India
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 India does not have a formal 'personal bankruptcy' system like Chapter 7 in the USA, but we have several robust legal mechanisms that handle multiple debts.
               </p>
               <div className="bg-gray-50 p-8 rounded-2xl border border-gray-200 mb-8">
-                <h3 className="text-xl font-bold mb-4">IBC 2016: The Fresh Start Process</h3>
+                <h4 className="text-xl font-bold mb-4">IBC 2016: The Fresh Start Process</h4>
                 <p className="text-sm text-gray-600 leading-relaxed mb-4">
                   Under the Insolvency and Bankruptcy Code (IBC) 2016, there is a provision for a 'Fresh Start'. This is specifically for individuals with a gross annual income below ₹60,000 and total debts below ₹35,000. While the limits are currently low, it establishes the legal precedent that people have the right to a fresh start from unmanageable debt.
                 </p>
-                <h3 className="text-xl font-bold mb-4">Lok Adalat and Mediation</h3>
+                <h4 className="text-xl font-bold mb-4">Lok Adalat and Mediation</h4>
                 <p className="text-sm text-gray-600 leading-relaxed">
                   For larger debts, the Legal Services Authorities Act allows for mediation in Lok Adalats. Professional settlement services often use Lok Adalats as a venue to settle multiple bank loans at once. A settlement reached in a Lok Adalat carries the same weight as a court decree and cannot be challenged by the bank later.
                 </p>
@@ -302,32 +302,32 @@ export default function MultiCreditorPage() {
             </section>
 
             <section id="creditor-prioritization" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                 Prioritizing Your Creditors: The "Target List"
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 When you have multiple debts, you cannot fight on all fronts with equal intensity. A professional service will help you prioritize based on the 'Aggression Index'.
               </p>
               <div className="grid grid-cols-1 md:grid-cols-3 gap-4 mb-8">
                 <div className="p-4 border border-red-200 bg-red-50 rounded-xl">
-                  <h3 className="font-bold text-red-800 mb-2">Tier 1: High Risk</h3>
+                  <h4 className="font-bold text-red-800 mb-2">Tier 1: High Risk</h4>
                   <p className="text-xs text-red-700">Digital Lending Apps, Small Finance Banks, Informal Lenders. These use aggressive phone harassment and shaming.</p>
                 </div>
                 <div className="p-4 border border-yellow-200 bg-yellow-50 rounded-xl">
-                  <h4 className="font-bold text-yellow-800 mb-2">Tier 2: Medium Risk</h4>
+                  <h5 className="font-bold text-yellow-800 mb-2">Tier 2: Medium Risk</h5>
                   <p className="text-xs text-yellow-700">Large NBFCs, Credit Card departments of Private Banks. Likely to use legal notices and field agents.</p>
                 </div>
                 <div className="p-4 border border-green-200 bg-green-50 rounded-xl">
-                  <h4 className="font-bold text-green-800 mb-2">Tier 3: Procedural</h4>
+                  <h5 className="font-bold text-green-800 mb-2">Tier 3: Procedural</h5>
                   <p className="text-xs text-green-700">Public Sector Banks (SBI, PNB). Slower to act, highly procedural, unlikely to use aggressive harassment but will file court cases for large amounts.</p>
                 </div>
               </div>
             </section>
 
             <section id="harassment-protection" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                 Multi-Lender Harassment Protection: Stopping the Chaos
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 The biggest drain on a borrower's energy is the constant ringing of the phone from 10 different recovery agencies. If you miss 10 EMIs, you might get 50-100 calls a day.
               </p>
@@ -335,7 +335,7 @@ export default function MultiCreditorPage() {
                 Professional services provide a "Legal Desk" where all these calls are redirected. They communicate to the banks that the borrower is now represented by counsel. Under the RBI's Fair Practice Code, once a borrower has appointed a representative, the banks should primarily communicate with that representative regarding the settlement.
               </p>
               <div className="p-6 bg-[#2E2E2E] text-white rounded-2xl mb-8">
-                <h3 className="font-bold mb-4">Your Rights Under RBI Circular DBR.No.BP.BC.45/21.04.048/2018-19:</h3>
+                <h4 className="font-bold mb-4">Your Rights Under RBI Circular DBR.No.BP.BC.45/21.04.048/2018-19:</h4>
                 <ul className="space-y-2 text-sm opacity-80">
                   <li>• No recovery calls before 7 AM or after 7 PM.</li>
                   <li>• No verbal abuse or physical threats.</li>
@@ -346,9 +346,9 @@ export default function MultiCreditorPage() {
             </section>
 
             <section id="success-negotiation" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                 Negotiation Strategies for Multiple Banks: The "Batch" Approach
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 Experienced negotiators don't just ask for a discount. They use the 'Other Creditor' card. They tell Bank A: "My client has 5 lakhs total debt and only 2 lakhs in savings. If you don't accept this settlement offer for your 1 lakh loan, the money will go to Bank B who is already offering a 50% waiver." This creates a sense of urgency for the bank to settle before the borrower's limited funds are exhausted by other creditors.
               </p>
@@ -358,37 +358,37 @@ export default function MultiCreditorPage() {
             </section>
 
             <section id="cibil-recovery" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                 CIBIL Recovery Post-Multi-Settlement: Rebuilding from Ground Zero
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 When you settle multiple accounts, your credit report will show multiple 'Settled' flags. This will drop your score initially. However, having a 'Settled' flag is better than having multiple 'Open Default' or 'Written Off' flags.
               </p>
               <div className="flex flex-col md:flex-row gap-8 mb-8">
                 <div className="flex-1 p-6 border rounded-2xl bg-white">
-                  <h3 className="font-bold text-blue-600 mb-2 italic">Phase 1: Stabilization (0-6 Months)</h3>
+                  <h4 className="font-bold text-blue-600 mb-2 italic">Phase 1: Stabilization (0-6 Months)</h4>
                   <p className="text-xs text-gray-500">Ensure all settled accounts reflect the correct 'zero' outstanding balance. Secure No Dues Certificates (NDCs).</p>
                 </div>
                 <div className="flex-1 p-6 border rounded-2xl bg-white">
-                  <h4 className="font-bold text-green-600 mb-2 italic">Phase 2: Rebuilding (6-18 Months)</h4>
+                  <h5 className="font-bold text-green-600 mb-2 italic">Phase 2: Rebuilding (6-18 Months)</h5>
                   <p className="text-xs text-gray-500">Get a 'Secured Credit Card' against a Fixed Deposit. Use it for small amounts and pay back in full monthly. This starts generating fresh, positive credit history.</p>
                 </div>
               </div>
             </section>
 
             <section id="role-of-escrow" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                 The Role of Escrow Accounts in Multi-Creditor Settlement
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 Some advanced debt settlement programs in India (like <strong>FREED</strong>) use a model where you save a monthly amount into a dedicated account. Once this account has enough funds, the service uses it as 'proof of liquidity' to negotiate settlements with your creditors. This protects the money from being 'accidentally spent' and shows banks that you have a committed plan to resolve your debts.
               </p>
             </section>
 
             <section id="common-pitfalls" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                 Common Pitfalls of DIY (Do-It-Yourself) Settlement
-              </h2>
+              </h3>
               <ul className="space-y-4 mb-8">
                 <li className="flex gap-4">
                   <span className="text-red-500 font-bold shrink-0">1.</span>
@@ -406,29 +406,29 @@ export default function MultiCreditorPage() {
             </section>
 
             <section id="top-services-india" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                 Top Debt Settlement Services in India for Multi-Creditor Support
-              </h2>
+              </h3>
               <div className="space-y-6">
                 <div className="p-6 border rounded-2xl bg-white shadow-sm">
-                  <h3 className="font-bold text-xl text-[#1F5EFF] mb-2">SettleLoans</h3>
+                  <h4 className="font-bold text-xl text-[#1F5EFF] mb-2">SettleLoans</h4>
                   <p className="text-sm text-gray-600">Specializes in legal-backed negotiation for high-value unsecured debt and multiple credit card portfolios. Known for strong anti-harassment protocols and transparent fee structures.</p>
                 </div>
                 <div className="p-6 border rounded-2xl bg-white shadow-sm">
-                  <h4 className="font-bold text-xl text-[#1F5EFF] mb-2">FREED</h4>
+                  <h5 className="font-bold text-xl text-[#1F5EFF] mb-2">FREED</h5>
                   <p className="text-sm text-gray-600">A tech-driven platform that uses the 'savings first' model to help individuals with multiple credit card debts. Excellent for those who need a structured monthly savings plan.</p>
                 </div>
                 <div className="p-6 border rounded-2xl bg-white shadow-sm">
-                  <h4 className="font-bold text-xl text-[#1F5EFF] mb-2">CredSettle</h4>
+                  <h5 className="font-bold text-xl text-[#1F5EFF] mb-2">CredSettle</h5>
                   <p className="text-sm text-gray-600">Focuses on rapid response and stopping agent harassment. Good for borrowers facing immediate pressure from digital lending apps.</p>
                 </div>
               </div>
             </section>
 
             <section id="choosing-service" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                 Choosing the Right Service: Your 5-Step Due Diligence
-              </h2>
+              </h3>
               <div className="space-y-4">
                 <div className="p-4 bg-blue-50/50 rounded-xl border border-blue-100 flex items-center gap-4">
                   <span className="font-black text-blue-600">01</span>
@@ -454,12 +454,12 @@ export default function MultiCreditorPage() {
             </section>
 
             <section id="document-checklist" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                 Master Document Checklist for Multi-Creditor Settlement
-              </h2>
+              </h3>
               <div className="grid md:grid-cols-2 gap-4 text-xs">
                 <div className="p-4 bg-gray-50 rounded-xl">
-                  <h3 className="font-black mb-2 text-gray-800 uppercase tracking-tighter">Financial Proof</h3>
+                  <h4 className="font-black mb-2 text-gray-800 uppercase tracking-tighter">Financial Proof</h4>
                   <ul className="space-y-1">
                     <li>• Last 6 months bank statements (all accounts)</li>
                     <li>• Salary slips / Profit and Loss statement</li>
@@ -467,7 +467,7 @@ export default function MultiCreditorPage() {
                   </ul>
                 </div>
                 <div className="p-4 bg-gray-50 rounded-xl">
-                  <h4 className="font-black mb-2 text-gray-800 uppercase tracking-tighter">Hardship Proof</h4>
+                  <h5 className="font-black mb-2 text-gray-800 uppercase tracking-tighter">Hardship Proof</h5>
                   <ul className="space-y-1">
                     <li>• Medical records (if illness caused default)</li>
                     <li>• Job termination letter / Resignation proof</li>
@@ -478,25 +478,25 @@ export default function MultiCreditorPage() {
             </section>
 
             <section id="psychology-of-multiple-debt" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                 The Psychology of Multiple Debts: Combatting "Debt Shame"
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 Managing multiple debts isn't just a financial burden; it's a social and psychological one. The fear of "what will people say?" or "how did I let it get this far?" is pervasive. professional services acts as your therapist by removing the shame. They remind you that you are one of millions and that a financial mistake is not a moral character flaw. By taking the proactive step of hiring a service, you are moving from 'Victim' to 'Manager' of your situation.
               </p>
             </section>
 
             <section id="long-term-literacy" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                 Long-Term Financial Literacy: Breaking the Multi-Loan Cycle
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 The final goal of any multi-creditor debt service should be to ensure you never need them again. This involves learning to live without credit cards until you have a 3-month emergency fund, understanding the true cost of 'zero cost EMI', and prioritizing savings over lifestyle signals.
               </p>
             </section>
 
             <section id="success-stories" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 text-center uppercase tracking-wider">Real Stories of Freedom</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 text-center uppercase tracking-wider">Real Stories of Freedom</h3>
               <div className="grid md:grid-cols-2 gap-6 not-prose">
                 {[
                   {
@@ -534,7 +534,7 @@ export default function MultiCreditorPage() {
                         {review.name.charAt(0)}
                       </div>
                       <div>
-                        <h3 className="font-bold text-[#2E2E2E]">{review.name}</h3>
+                        <h4 className="font-bold text-[#2E2E2E]">{review.name}</h4>
                         <p className="text-xs text-gray-400">{review.loc}</p>
                       </div>
                       <div className="ml-auto text-yellow-400 text-sm">★★★★★</div>
@@ -549,7 +549,7 @@ export default function MultiCreditorPage() {
             </section>
 
             <section id="faqs" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 uppercase tracking-wider">Frequently Asked Questions</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 uppercase tracking-wider">Frequently Asked Questions</h3>
               <div className="space-y-4 not-prose">
                 {faqs.map((faq, i) => (
                   <details key={i} className="group bg-white border border-[#DEDEDE] rounded-xl overflow-hidden hover:shadow-md transition-all border-b-4 border-b-[#1F5EFF]/20">

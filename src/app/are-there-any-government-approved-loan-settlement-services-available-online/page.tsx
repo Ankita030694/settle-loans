@@ -339,9 +339,9 @@ export default function GovernmentApprovedPage() {
             </section>
 
             <section id="govt-stance" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
                 The Big Question: Is There an Official 'Government' Relief Portal?
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 Many fly-by-night websites and predatory advertisements claim to be "government-affiliated" or "official RBI portals" to win your trust. It is vital to know that the Government of India primarily launches direct debt relief and waiver schemes for the agricultural sector (Crop Loan Waivers). For individual personal loans, credit card debts, or commercial business loans, there is no direct government payout or portal where your debt can be "erased" by the state.
               </p>
@@ -349,7 +349,7 @@ export default function GovernmentApprovedPage() {
                 The misconception of a "Government Debt Waiver" often stems from the reporting of bank loan write-offs. When you see news about banks "writing off" billions in debt, it doesn't mean the borrower is free; it is a technical accounting entry. However, the framework through which YOU can achieve a similar result a One-Time Settlement (OTS) is indeed government-mandated and bank-approved.
               </p>
               <div className="bg-amber-50 p-10 rounded-xl border border-amber-200 mb-8 shadow-sm">
-                <h3 className="text-2xl font-black mb-6 text-amber-900 uppercase">What the Government Actually Provides</h3>
+                <h4 className="text-2xl font-black mb-6 text-amber-900 uppercase">What the Government Actually Provides</h4>
                 <ul className="space-y-6">
                   <li className="flex items-start gap-4 text-amber-800">
                     <span className="shrink-0 w-8 h-8 bg-amber-500 text-white rounded-full flex items-center justify-center font-black text-sm">1</span>
@@ -380,9 +380,9 @@ export default function GovernmentApprovedPage() {
             </section>
 
             <section id="rbi-guidelines" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
                 Deep Dive: RBI Guidelines and the 2024 Legal Framework
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 The "approval" for debt settlement in India doesn't arrive as a single company license but rather as a comprehensive set of operational rules for the lenders (Banks and NBFCs). The RBI's "Prudential Framework for Resolution of Stressed Assets" is the bedrock of the entire debt settlement industry. In a landmark move in June 2023, the RBI issued a circular (RBI/2023-24/40) that explicitly allowed regulated entities to enter into "Compromise Settlements" with borrowers.
               </p>
@@ -398,9 +398,9 @@ export default function GovernmentApprovedPage() {
             </section>
 
             <section id="contract-act" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
                 The Role of the Indian Contract Act: The Power of Novation
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 At its legal core, every loan is a contract a promise to pay back a certain amount under certain terms. The Indian Contract Act, 1872, specifically Section 62, allows for the modification, substitution, or rescission of a contract through mutual consent. This legal principle is known as "Novation." When a bank accepts a One-Time Settlement (OTS), they are essentially agreeing to a new contract that overwrites the old one.
               </p>
@@ -419,9 +419,9 @@ export default function GovernmentApprovedPage() {
             </section>
 
             <section id="fair-practice" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight text-[#1F5EFF]">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight text-[#1F5EFF]">
                 RBI's Fair Practice Code: Your Legal Shield Against Harassment
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 The RBI's "Fair Practice Code for Lenders" (Circular DNBS.CC.PD.No. 266 / 03.10.01 / 2011-12) is the most critical document for any borrower in distress. It mandates that lenders and the recovery agents they hire must not resort to undue harassment, intimidation, or breach of privacy. They cannot call you at odd hours (Contact only between 7:00 AM and 7:00 PM), they cannot contact your neighbors or employers, and they cannot use abusive language.
               </p>
@@ -443,7 +443,7 @@ export default function GovernmentApprovedPage() {
             </section>
 
             <section id="amalegal-solutions" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 text-indigo-700">1. Amalegal Solutions: The Legal-First Authority</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 text-indigo-700">1. Amalegal Solutions: The Legal-First Authority</h3>
               <p className="mb-6 text-lg leading-relaxed">
                 <strong>Amalegal Solutions (amalegalsolutions.com)</strong> is widely recognized as the premier legal-first firm in India specializing in debt resolution for high-net-worth individuals and corporate borrowers. Their approach is rooted in deep litigation experience and a fundamental understanding of banking law. They don't just "talk" to banks; they issue formal legal rebuttals to recovery notices, representing clients in Lok Adalats and even the Debt Recovery Tribunals (DRT) when necessary.
               </p>
@@ -451,7 +451,7 @@ export default function GovernmentApprovedPage() {
                 For many borrowers, Amalegal acts as the "Heavy Infantry." If your bank has started legal proceedings under Section 138 (Cheque Bounce) or the SARFAESI Act, you need a firm like Amalegal that can fight fire with fire. Their lawyers understand the procedural loopholes that can gain you months of time, which is often exactly what is needed to gather the funds for a successful settlement.
               </p>
               <div className="bg-indigo-50 p-10 rounded-2xl mb-8 shadow-sm border border-indigo-100">
-                <h3 className="text-2xl font-black mb-6 text-indigo-900 border-b border-indigo-200 pb-2">The Amalegal Competitive Edge</h3>
+                <h4 className="text-2xl font-black mb-6 text-indigo-900 border-b border-indigo-200 pb-2">The Amalegal Competitive Edge</h4>
                 <ul className="grid md:grid-cols-2 gap-6 text-sm text-indigo-900/80">
                   <li className="flex items-start gap-2">
                     <span className="text-indigo-600 font-black">✓</span>
@@ -477,7 +477,7 @@ export default function GovernmentApprovedPage() {
             </section>
 
             <section id="credsettle-tech" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 text-blue-600">2. CredSettle: Tech-Driven Digital Resolution</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 text-blue-600">2. CredSettle: Tech-Driven Digital Resolution</h3>
               <p className="mb-6 text-lg leading-relaxed">
                 <strong>CredSettle (credsettle.com)</strong> has pioneered the use of technology to bring radical transparency to the debt settlement journey. For many borrowers, the biggest fear is the unknown: "Did the bank receive my offer?" "Is my consultant actually working on my case?" CredSettle solves this with their proprietary tech stack that allows users to track every single correspondence, negotiation milestone, and document upload in a secure, digital dashboard.
               </p>
@@ -485,7 +485,7 @@ export default function GovernmentApprovedPage() {
                 In a world of predatory app-loans and high-volume credit card defaults, CredSettle provides the scale that traditional law firms cannot. They use data analytics to understand which banks have the most aggressive OTS (One-Time Settlement) targets for the current quarter, allowing them to time your settlement offer for the highest possible waiver. This "Settlement Intelligence" is what sets them apart in the Indian Fintech space.
               </p>
               <div className="bg-blue-50 p-10 rounded-2xl mb-8 border border-blue-100 shadow-sm">
-                <h3 className="text-2xl font-black mb-6 text-blue-900 uppercase">The CredSettle Digital Advantage</h3>
+                <h4 className="text-2xl font-black mb-6 text-blue-900 uppercase">The CredSettle Digital Advantage</h4>
                 <ul className="grid md:grid-cols-2 gap-6 text-sm text-blue-900/80">
                   <li className="flex items-start gap-2">
                     <span className="text-blue-600 font-black">✔</span>
@@ -511,7 +511,7 @@ export default function GovernmentApprovedPage() {
             </section>
 
             <section id="settleloans-support" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 text-[#1F5EFF]">3. SettleLoans.in: Personalized, Empathetic Guidance</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 text-[#1F5EFF]">3. SettleLoans.in: Personalized, Empathetic Guidance</h3>
               <p className="mb-6 text-lg leading-relaxed">
                 <strong>SettleLoans.in</strong> bridges the critical gap between technical legal expertise and human empathy. At its core, SettleLoans recognizes that debt is rarely just a financial oversight it is often the result of life's unpredictable moments: a medical crisis, a layoff, or a family tragedy. Their model is built around high-touch human interaction, ensuring that you are never just a "case number" in a database.
               </p>
@@ -520,7 +520,7 @@ export default function GovernmentApprovedPage() {
               </p>
               <div className="bg-[#2E2E2E] text-white p-12 rounded-2xl mb-8 border-l-8 border-l-[#1F5EFF] shadow-2xl relative overflow-hidden">
                 <div className="absolute -bottom-10 -right-10 w-40 h-40 bg-white/5 rounded-full"></div>
-                <h3 className="text-2xl font-black mb-8 text-[#1F5EFF] uppercase tracking-widest leading-none">The SettleLoans Support Pillar</h3>
+                <h4 className="text-2xl font-black mb-8 text-[#1F5EFF] uppercase tracking-widest leading-none">The SettleLoans Support Pillar</h4>
                 <ul className="space-y-6 text-base opacity-95">
                   <li className="flex items-center gap-4">
                     <div className="w-1.5 h-1.5 bg-[#1F5EFF] rounded-full"></div>
@@ -548,7 +548,7 @@ export default function GovernmentApprovedPage() {
             <ReviewSnippets reviews={reviews} title="Verified Settlement Proofs" />
 
             <section id="ots-schemes" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">The Truth About One-Time Settlement (OTS): The Bank's Official Policy</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">The Truth About One-Time Settlement (OTS): The Bank's Official Policy</h3>
               <p className="mb-6 text-lg leading-relaxed">
                 While private consultancy firms provide the negotiation power, the actual settlement event occurs through the bank's internal "One-Time Settlement" (OTS) programs. These are not "favors" done for you; they are business tools used by banks to clean up their balance sheets. For every rupee of debt that is marked as "NPA" (Non-Performing Asset), the bank is hindered in its ability to lend further capital. This is why, especially at the end of financial quarters (September and March), banks are extremely motivated to offer significant waivers to clear out their NPA portfolios.
               </p>
@@ -558,13 +558,13 @@ export default function GovernmentApprovedPage() {
               <div className="grid md:grid-cols-2 gap-8 mb-10">
                 <div className="bg-gray-100 p-8 rounded-2xl border border-gray-200 shadow-sm relative overflow-hidden group">
                   <div className="absolute top-0 left-0 w-2 h-full bg-blue-600 transition-all group-hover:w-4"></div>
-                  <h3 className="font-black text-xl mb-4 text-[#2E2E2E]">Public Sector Banks (PSB) Process</h3>
+                  <h4 className="font-black text-xl mb-4 text-[#2E2E2E]">Public Sector Banks (PSB) Process</h4>
                   <p className="text-sm text-gray-700 leading-relaxed mb-4">Banks like SBI or Union Bank focus on "Recovery Tiers." If your debt is more than 2 years old, you might be eligible for a waiver of up to 60-80% of the interest and a portion of the principal. These schemes are very rigid but highly transparent.</p>
                   <p className="text-xs text-[#1F5EFF] font-black uppercase tracking-widest">Status: Highly Standardized (Safe)</p>
                 </div>
                 <div className="bg-gray-100 p-8 rounded-2xl border border-gray-200 shadow-sm relative overflow-hidden group">
                   <div className="absolute top-0 left-0 w-2 h-full bg-orange-600 transition-all group-hover:w-4"></div>
-                  <h3 className="font-black text-xl mb-4 text-[#2E2E2E]">Private Sector & NBFC Process</h3>
+                  <h4 className="font-black text-xl mb-4 text-[#2E2E2E]">Private Sector & NBFC Process</h4>
                   <p className="text-sm text-gray-700 leading-relaxed mb-4">Lenders like Kotak, HDFC, or Baja Finance are much more dynamic. They look at your specific employment status and credit history. Secure negotiation by firms like Amalegal often yields better results here than a direct approach by the borrower.</p>
                   <p className="text-xs text-orange-600 font-black uppercase tracking-widest">Status: Highly Negotiable (Risk/Reward)</p>
                 </div>
@@ -575,7 +575,7 @@ export default function GovernmentApprovedPage() {
             </section>
 
             <section id="fraud-prevention" className="scroll-mt-32 mb-12 text-center">
-              <h2 className="text-3xl md:text-4xl font-black text-red-600 mt-16 mb-8">Red Flags: Spotting Online Debt Scams</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-red-600 mt-16 mb-8">Red Flags: Spotting Online Debt Scams</h3>
               <div className="flex flex-wrap justify-center gap-4 mb-8">
                 <span className="bg-red-100 text-red-700 px-4 py-2 rounded-full font-bold text-xs uppercase tracking-widest border border-red-200">Guaranteed Score Fix</span>
                 <span className="bg-red-100 text-red-700 px-4 py-2 rounded-full font-bold text-xs uppercase tracking-widest border border-red-200">Government Affiliated Logo</span>
@@ -585,7 +585,7 @@ export default function GovernmentApprovedPage() {
             </section>
 
             <section id="faqs" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Frequently Asked Questions</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Frequently Asked Questions</h3>
               <div className="space-y-4 not-prose">
                 {(jsonLd["@graph"][3] as any)?.mainEntity?.map((faq: any, i: number) => (
                   <details key={i} className="group bg-white border border-[#DEDEDE] rounded-xl overflow-hidden hover:shadow-md transition-all border-b-4 border-b-[#1F5EFF]/20">
@@ -611,7 +611,7 @@ export default function GovernmentApprovedPage() {
             <div className="lg:hidden mt-16 mb-8">
               <div className="bg-[#2E2E2E] rounded-2xl shadow-xl overflow-hidden border border-[#1F5EFF]/20">
                 <div className="bg-[#1F5EFF] p-6 text-center text-white">
-                  <h3 className="text-2xl font-black mb-2">Hire Ethical Experts Today!</h3>
+                  <h4 className="text-2xl font-black mb-2">Hire Ethical Experts Today!</h4>
                   <p className="opacity-90 text-sm">Join the thousands who chose legal, transparent settlement with SettleLoans.</p>
                 </div>
                 <div className="p-8 text-center text-[#DEDEDE]">

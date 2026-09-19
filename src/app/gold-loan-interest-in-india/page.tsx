@@ -275,18 +275,18 @@ export default function GoldLoanInterestPage() {
                         </section>
 
                         <section id="bank-vs-nbfc" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight underline decoration-[#1F5EFF] underline-offset-[12px]">Banks vs NBFCs: The Great Rate Divide</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight underline decoration-[#1F5EFF] underline-offset-[12px]">Banks vs NBFCs: The Great Rate Divide</h3>
                             <p className="text-lg leading-relaxed mb-6 text-justify">
                                 The choice between a bank (like HDFC or SBI) and an NBFC (like Muthoot or Manappuram) is the most significant decision you will make regarding your gold loan interest. Banks are generally cheaper but slower; NBFCs are more expensive but incredibly fast.
                             </p>
                             <div className="grid md:grid-cols-2 gap-8 mb-10">
                                 <div className="p-8 bg-white border border-[#DEDEDE] rounded-3xl shadow-sm text-justify">
-                                    <h3 className="font-black text-[#1F5EFF] mb-4 uppercase tracking-tighter">Public & Private Banks</h3>
+                                    <h4 className="font-black text-[#1F5EFF] mb-4 uppercase tracking-tighter">Public & Private Banks</h4>
                                     <p className="text-sm mb-4">Rates: 8.5% to 15.0%</p>
                                     <p className="text-sm">Banks treat gold loans as a secure asset class. They often use these to meet their priority sector lending targets, allowing them to offer very competitive rates to farmers and small businesses.</p>
                                 </div>
                                 <div className="p-8 bg-white border border-[#DEDEDE] rounded-3xl shadow-sm text-justify">
-                                    <h4 className="font-black text-[#1F5EFF] mb-4 uppercase tracking-tighter">Gold Loan NBFCs</h4>
+                                    <h5 className="font-black text-[#1F5EFF] mb-4 uppercase tracking-tighter">Gold Loan NBFCs</h5>
                                     <p className="text-sm mb-4">Rates: 12.0% to 27.0%</p>
                                     <p className="text-sm">NBFCs focus on the 'unbanked' population. They offer 5-minute approval and disbursed cash, often working beyond bank hours. This convenience comes at a premium interest cost.</p>
                                 </div>
@@ -298,7 +298,7 @@ export default function GoldLoanInterestPage() {
 
                         <section id="rate-determinants" className="scroll-mt-32 mb-16 bg-[#2E2E2E] text-white p-12 rounded-[40px] relative overflow-hidden text-justify">
                             <div className="absolute top-0 right-0 w-64 h-64 bg-[#1F5EFF]/10 rounded-full -translate-y-32 translate-x-32"></div>
-                            <h2 className="text-3xl md:text-4xl font-black mb-8 leading-tight relative z-10">What Determines Your Interest Rate?</h2>
+                            <h3 className="text-3xl md:text-4xl font-black mb-8 leading-tight relative z-10">What Determines Your Interest Rate?</h3>
                             <p className="text-lg opacity-80 mb-8 relative z-10">
                                 Lenders calculate their risk based on several variables. Understanding these can help you negotiate a better deal next time you visit a branch.
                             </p>
@@ -306,21 +306,21 @@ export default function GoldLoanInterestPage() {
                                 <div className="flex gap-6 items-center border-b border-white/10 pb-4">
                                     <span className="text-4xl font-black text-[#1F5EFF]">LTV</span>
                                     <div>
-                                        <h3 className="font-bold text-xl mb-2">Loan to Value Ratio</h3>
+                                        <h4 className="font-bold text-xl mb-2">Loan to Value Ratio</h4>
                                         <p className="opacity-70 text-sm">A lower LTV (borrowing 50% of gold value) often qualifies you for a 'low-risk' rate bucket, usually 1% to 2% lower than the standard rate.</p>
                                     </div>
                                 </div>
                                 <div className="flex gap-6 items-center border-b border-white/10 pb-4">
                                     <span className="text-4xl font-black text-[#1F5EFF]">PUR</span>
                                     <div>
-                                        <h4 className="font-bold text-xl mb-2">Gold Purity</h4>
+                                        <h5 className="font-bold text-xl mb-2">Gold Purity</h5>
                                         <p className="opacity-70 text-sm">22-carat gold is the benchmark. If your gold is 18-carat or lower, the 'haircut' taken by the bank increases, which might push you into a higher interest scheme.</p>
                                     </div>
                                 </div>
                                 <div className="flex gap-6 items-center">
                                     <span className="text-4xl font-black text-[#1F5EFF]">TEN</span>
                                     <div>
-                                        <h5 className="font-bold text-xl mb-2">Loan Tenure</h5>
+                                        <h6 className="font-bold text-xl mb-2">Loan Tenure</h6>
                                         <p className="opacity-70 text-sm">Short-term loans (3 months) sometimes carry lower rates, but be careful of 'teaser rates' that jump significantly after the first quarter.</p>
                                     </div>
                                 </div>
@@ -328,12 +328,12 @@ export default function GoldLoanInterestPage() {
                         </section>
 
                         <section id="per-gram-math" className="scroll-mt-32 mb-16 mt-16 text-justify">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">The Per Gram Value: <span className="text-[#1F5EFF]">The Silent Profit Killer.</span></h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">The Per Gram Value: <span className="text-[#1F5EFF]">The Silent Profit Killer.</span></h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 Many borrowers confuse the 'Per Gram Rate' with the 'Interest Rate'. The per gram rate is how much the bank will lend you for every gram of 22K gold. The RBI restricts this to 75% of the market value. However, the catch is in how the bank calculates the market value.
                             </p>
                             <div className="bg-[#F8FAFC] p-8 rounded-3xl border border-[#1F5EFF]/20 mb-8">
-                                <h3 className="text-xl font-black text-blue-900 mb-4 text-justify">The Calculation Trap</h3>
+                                <h4 className="text-xl font-black text-blue-900 mb-4 text-justify">The Calculation Trap</h4>
                                 <p className="text-blue-800 leading-relaxed font-bold italic mb-4">Lendable Amount = (Market Price of Gold × Purity Factor) × LTV%.</p>
                                 <p className="text-blue-700 text-sm">If a bank uses a price from 30 days ago while gold is currently soaring, you get less money. Conversely, if they give you a high per-gram rate, they might recoup that by charging a higher interest rate to cover the increased risk of a price drop.</p>
                             </div>
@@ -343,7 +343,7 @@ export default function GoldLoanInterestPage() {
                         </section>
 
                         <section id="repayment-models" className="scroll-mt-32 mb-16 mt-16 text-justify">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight text-center underline decoration-[#1F5EFF] decoration-8 underline-offset-8">Repayment Models & Your Interest</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight text-center underline decoration-[#1F5EFF] decoration-8 underline-offset-8">Repayment Models & Your Interest</h3>
                             <p className="text-lg leading-relaxed mb-10 text-center italic font-medium text-gray-400">How you pay back the loan determines how the interest is calculated. Choose wisely.</p>
                             <div className="bg-white border-2 border-[#DEDEDE] p-10 rounded-[50px] shadow-sm">
                                 <ul className="space-y-6">
@@ -364,12 +364,12 @@ export default function GoldLoanInterestPage() {
                         </section>
 
                         <section id="ltv-impact" className="scroll-mt-32 mb-16 mt-16 text-justify">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">The LTV Impact on Interest</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">The LTV Impact on Interest</h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 The Reserve Bank of India (RBI) mandates a maximum Loan-to-Value (LTV) of 75% for gold loans. This means if you have 1 lakh worth of gold, you can borrow a maximum of 75,000. However, the interest rates linked to LTV are a tier-based system.
                             </p>
                             <div className="p-8 bg-[#2E2E2E] rounded-[40px] text-white shadow-2xl relative overflow-hidden">
-                                <h3 className="text-xl font-black mb-4 uppercase tracking-widest text-[#1F5EFF]">The Tier Logic</h3>
+                                <h4 className="text-xl font-black mb-4 uppercase tracking-widest text-[#1F5EFF]">The Tier Logic</h4>
                                 <p className="opacity-90 leading-relaxed font-bold mb-4">
                                     Standard Rate: Applied for LTV up to 60%.
                                     Premium Rate: Applied for LTV between 60% and 75%.
@@ -381,24 +381,24 @@ export default function GoldLoanInterestPage() {
                         </section>
 
                         <section id="tax-benefits" className="scroll-mt-32 mb-16 mt-16 text-justify">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">Tax Benefits: <span className="text-[#1F5EFF]">The Hidden Interest Offset.</span></h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">Tax Benefits: <span className="text-[#1F5EFF]">The Hidden Interest Offset.</span></h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 Most borrowers assume gold loan interest is a pure expense. However, depending on the 'End Use' of the funds, the Indian Income Tax Act allows you to deduct the interest paid from your taxable income, effectively reducing your real interest rate by up to 30%.
                             </p>
                             <div className="grid md:grid-cols-2 gap-6 mb-8">
                                 <div className="p-6 bg-[#F8FAFC] border border-[#DEDEDE] rounded-2xl">
-                                    <h3 className="font-black text-[#1F5EFF] mb-2 uppercase text-xs">For Business Use (Sec 37)</h3>
+                                    <h4 className="font-black text-[#1F5EFF] mb-2 uppercase text-xs">For Business Use (Sec 37)</h4>
                                     <p className="text-sm">If used for working capital or business expansion, the entire interest is treated as a business expense, deductible from your business profits.</p>
                                 </div>
                                 <div className="p-6 bg-[#F8FAFC] border border-[#DEDEDE] rounded-2xl">
-                                    <h4 className="font-black text-[#1F5EFF] mb-2 uppercase text-xs">For Home Improvement (Sec 24)</h4>
+                                    <h5 className="font-black text-[#1F5EFF] mb-2 uppercase text-xs">For Home Improvement (Sec 24)</h5>
                                     <p className="text-sm">If used for renovating or repairing your house, you can claim an interest deduction of up to ₹30,000 per year under 'Income from House Property'.</p>
                                 </div>
                             </div>
                         </section>
 
                         <section id="hidden-math" className="scroll-mt-32 mb-16 mt-16 text-justify bg-[#2E2E2E] text-white p-12 rounded-[40px] relative overflow-hidden">
-                            <h2 className="text-3xl md:text-4xl font-black mb-8 leading-tight relative z-10">Bank vs NBFC: <br />The Hidden Interest Math</h2>
+                            <h3 className="text-3xl md:text-4xl font-black mb-8 leading-tight relative z-10">Bank vs NBFC: <br />The Hidden Interest Math</h3>
                             <p className="text-lg opacity-80 mb-8 relative z-10">
                                 While a bank might advertise 10% and an NBFC 18%, the way they calculate interest can change the 'In-Hand Cost' drastically.
                             </p>
@@ -411,7 +411,7 @@ export default function GoldLoanInterestPage() {
                         </section>
 
                         <section id="hidden-costs" className="scroll-mt-32 mb-16 mt-16 text-justify">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">Beyond the Percentage: Avoiding Hidden Costs</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">Beyond the Percentage: Avoiding Hidden Costs</h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 The advertised interest rate is often just the tip of the iceberg. To find the real 'Effective Interest Rate', you must audit the following itemized charges:
                             </p>
@@ -438,7 +438,7 @@ export default function GoldLoanInterestPage() {
                         </section>
 
                         <section id="refinance-strategies" className="scroll-mt-32 mb-16 mt-16 bg-[#F8FAFC] p-12 rounded-[50px] border-l-8 border-[#1F5EFF] text-justify">
-                            <h2 className="text-3xl font-black mb-8 text-[#2E2E2E]">Refinance Strategies: Moving Your Gold</h2>
+                            <h3 className="text-3xl font-black mb-8 text-[#2E2E2E]">Refinance Strategies: Moving Your Gold</h3>
                             <p className="text-lg text-gray-600 mb-8 leading-relaxed">If you took a gold loan at 24% from a local pawnbroker or a high-interest NBFC, you are not stuck. The gold loan takeover market is booming in 2024. Here is how it works:</p>
                             <div className="space-y-4 font-mono text-sm uppercase">
                                 <div className="flex justify-between border-b border-gray-100 pb-2"><span>STEP 1: GET SANCTION</span> <span className="font-bold text-blue-600">NEW BANK ISSUES LETTER</span></div>
@@ -449,22 +449,22 @@ export default function GoldLoanInterestPage() {
                         </section>
 
                         <section id="legal-rights" className="scroll-mt-32 mb-16 mt-16 text-justify">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight text-center">Your Legal Rights: Interest and Repayment</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight text-center">Your Legal Rights: Interest and Repayment</h3>
                             <p className="text-lg leading-relaxed mb-10">The Fair Practice Code (FPC) mandated by the RBI provides significant protections against predatory interest practices.</p>
                             <div className="grid md:grid-cols-2 gap-8">
                                 <div className="p-8 bg-white border border-[#DEDEDE] rounded-3xl shadow-sm hover:border-[#1F5EFF] transition-colors">
-                                    <h3 className="font-black mb-3">Notice of Rate Change</h3>
+                                    <h4 className="font-black mb-3">Notice of Rate Change</h4>
                                     <p className="text-sm opacity-70 italic font-medium">Lenders cannot change your interest rate mid-way without a written notice. If your loan is on a 'Floating' basis, the benchmark (like MCLR) must be clearly stated in your sanction letter.</p>
                                 </div>
                                 <div className="p-8 bg-white border border-[#DEDEDE] rounded-3xl shadow-sm hover:border-[#1F5EFF] transition-colors">
-                                    <h4 className="font-black mb-3">Pre-payment Penalties</h4>
+                                    <h5 className="font-black mb-3">Pre-payment Penalties</h5>
                                     <p className="text-sm opacity-70 italic font-medium">For individual borrowers on floating rates, lenders are prohibited from charging pre-payment or foreclosure fees. You can close your loan anytime without extra costs.</p>
                                 </div>
                             </div>
                         </section>
 
                         <section id="success-stories" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 text-center uppercase tracking-tighter decoration-[#1F5EFF] underline decoration-4">Rate Optimization Stories</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 text-center uppercase tracking-tighter decoration-[#1F5EFF] underline decoration-4">Rate Optimization Stories</h3>
                             <div className="grid md:grid-cols-2 gap-6 not-prose">
                                 {[
                                     {
@@ -487,7 +487,7 @@ export default function GoldLoanInterestPage() {
                                             <div className="w-10 h-10 rounded-full bg-blue-100 flex items-center justify-center font-bold text-blue-700 mr-3">
                                                 {review.name.charAt(0)}
                                             </div>
-                                            <h3 className="font-bold text-[#2E2E2E]">{review.name}</h3>
+                                            <h4 className="font-bold text-[#2E2E2E]">{review.name}</h4>
                                             <div className="ml-auto text-yellow-400 text-sm">★★★★★</div>
                                         </div>
                                         <div className="mb-4 flex flex-col gap-2 scale-90 origin-left font-bold text-[10px] uppercase">
@@ -501,7 +501,7 @@ export default function GoldLoanInterestPage() {
                         </section>
 
                         <section id="faqs" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-12 text-center underline decoration-[#1F5EFF] decoration-4">Gold Interest FAQ's</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-12 text-center underline decoration-[#1F5EFF] decoration-4">Gold Interest FAQ's</h3>
                             <div className="space-y-6">
                                 {[
                                     { q: "Is a processing fee mandatory?", a: "No. Many banks waive it for premium customers or during festive seasons. Always negotiate to have it waived if you are borrowing a significant amount." },
@@ -519,7 +519,7 @@ export default function GoldLoanInterestPage() {
                                     { q: "Does a high value loan (50L+) get a lower rate?", a: "Yes. Most banks have 'HNW' (High Net Worth) slabs where loans above ₹20 Lakhs or ₹50 Lakhs get a 0.5% to 1.5% discount on the standard interest rate." }
                                 ].map((faq, i) => (
                                     <div key={i} className="p-8 bg-white border border-[#DEDEDE] rounded-3xl shadow-sm transition-all hover:shadow-lg text-justify">
-                                        <h3 className="font-black text-[#2E2E2E] mb-4 text-xl border-b pb-2 border-[#1F5EFF]/10">{faq.q}</h3>
+                                        <h4 className="font-black text-[#2E2E2E] mb-4 text-xl border-b pb-2 border-[#1F5EFF]/10">{faq.q}</h4>
                                         <p className="text-gray-600 leading-relaxed text-lg italic">"{faq.a}"</p>
                                     </div>
                                 ))}
@@ -527,7 +527,7 @@ export default function GoldLoanInterestPage() {
                         </section>
 
                         <section className="scroll-mt-32 mb-16 text-center">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">Your Wealth, Your Terms.</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">Your Wealth, Your Terms.</h3>
                             <p className="text-lg leading-relaxed mb-6 italic font-bold text-gray-500">Don't let high interest bury your assets. Let's find a smarter way to manage your gold.</p>
                             <div className="bg-[#1F5EFF] p-10 rounded-[40px] text-white shadow-2xl">
                                 <p className="text-2xl font-black mb-8 tracking-tight uppercase">Ready to Lower Your Interest Rate?</p>

@@ -289,13 +289,13 @@ export default function TimeBarredDebtPage() {
 
             {/* What is a Time Barred Debt */}
             <section id="what-is-time-barred-debt" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 What Does "Time-Barred Debt" Actually Mean?
-              </h2>
+              </h3>
               <div id="the-3-year-rule" className="bg-blue-50 border-l-8 border-[#1F5EFF] p-8 rounded-r-2xl mb-8 scroll-mt-32">
-                <h3 className="text-xl font-black text-[#1F5EFF] mb-4">
+                <h4 className="text-xl font-black text-[#1F5EFF] mb-4">
                   The 3-Year Rule
-                </h3>
+                </h4>
                 <p className="text-lg leading-relaxed mb-6 text-blue-900">
                   A time-barred debt is simply a loan or credit card outstanding that has crossed the statutory limitation period for legal recovery. For unsecured personal loans and credit cards, this period is <strong>3 years</strong>.
                 </p>
@@ -318,28 +318,28 @@ export default function TimeBarredDebtPage() {
 
             {/* The Limitation Act */}
             <section id="limitation-act-1963" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 The Limitation Act of 1963 & Bank Loans
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 The Limitation Act exists to ensure that disputes are settled within a reasonable timeframe. The courts don't want to deal with stale claims where evidence and memories have faded. Here is how it applies to different types of loans:
               </p>
 
               <div id="unsecured-vs-secured" className="grid md:grid-cols-2 gap-6 my-8 scroll-mt-32">
                 <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
-                  <h3 className="font-black text-[#1F5EFF] text-lg mb-3">Unsecured Loans</h3>
+                  <h4 className="font-black text-[#1F5EFF] text-lg mb-3">Unsecured Loans</h4>
                   <p className="text-gray-700">Personal loans, credit card debts, and student loans have a strict limitation period of <strong>3 years</strong> from the date of default.</p>
                 </div>
                 <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
-                  <h3 className="font-black text-[#1F5EFF] text-lg mb-3">Secured Loans</h3>
+                  <h4 className="font-black text-[#1F5EFF] text-lg mb-3">Secured Loans</h4>
                   <p className="text-gray-700">For home loans or loans against property (mortgages), the limitation period to enforce payment is typically <strong>12 years</strong>.</p>
                 </div>
                 <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
-                  <h3 className="font-black text-[#1F5EFF] text-lg mb-3">Promissory Notes</h3>
+                  <h4 className="font-black text-[#1F5EFF] text-lg mb-3">Promissory Notes</h4>
                   <p className="text-gray-700">If a loan is backed by a simple promissory note payable on demand, the period is <strong>3 years</strong> from the date of the note.</p>
                 </div>
                 <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
-                  <h3 className="font-black text-[#1F5EFF] text-lg mb-3">Cheque Bounce (138 NI Act)</h3>
+                  <h4 className="font-black text-[#1F5EFF] text-lg mb-3">Cheque Bounce (138 NI Act)</h4>
                   <p className="text-gray-700">If you gave a security cheque that bounced, the bank has <strong>30 days</strong> to issue a legal notice, and then 15 days to file a criminal complaint.</p>
                 </div>
               </div>
@@ -347,9 +347,9 @@ export default function TimeBarredDebtPage() {
 
             {/* Can a Bank Recover a 5 Year Old Loan */}
             <section id="can-bank-recover-5-year-old-loan" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 Can a Bank Recover a 5-Year-Old Loan?
-              </h2>
+              </h3>
               
               <div className="bg-gray-50 p-8 rounded-2xl mb-8 border border-gray-200">
                 <p className="text-lg leading-relaxed mb-6 text-gray-800">
@@ -362,9 +362,9 @@ export default function TimeBarredDebtPage() {
               </div>
 
               <div id="fake-legal-notices" className="bg-red-50 p-6 rounded-xl border border-red-100 mb-8 scroll-mt-32">
-                <h3 className="text-xl font-black text-red-700 mb-4">
+                <h4 className="text-xl font-black text-red-700 mb-4">
                   ⚠️ The Trap: Sending Fake Legal Notices
-                </h3>
+                </h4>
                 <p className="text-lg leading-relaxed text-red-900">
                   Agents often send WhatsApp messages containing fake "court notices" or "FIR warrants" for 5 to 10-year-old personal loans. This is completely illegal. An FIR cannot be filed for a simple loan default, and a court will throw out a civil suit for a time-barred debt immediately.
                 </p>
@@ -373,9 +373,9 @@ export default function TimeBarredDebtPage() {
 
             {/* How to Reset the Clock */}
             <section id="how-the-clock-resets" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 How Borrowers Accidentally Reset the 3-Year Clock
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-8">
                 The biggest mistake borrowers make is unknowingly resetting the limitation period. Under Sections 18 and 19 of the Limitation Act, the 3-year clock resets from zero if you do any of the following before the original 3 years expire (and sometimes even after, depending on the wording):
               </p>
@@ -384,7 +384,7 @@ export default function TimeBarredDebtPage() {
                 <div id="token-payments" className="flex gap-6 scroll-mt-32">
                   <div className="flex-shrink-0 w-12 h-12 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center font-black text-xl shadow-lg">1</div>
                   <div>
-                    <h3 className="text-2xl font-bold text-[#2E2E2E] mb-3">Making a Token Payment</h3>
+                    <h4 className="text-2xl font-bold text-[#2E2E2E] mb-3">Making a Token Payment</h4>
                     <p className="text-lg text-gray-700">
                       Agents will beg you: <em>"Sir, just pay ₹500 today to show intent, and we will stop the calls."</em> If you pay even ₹1 on a 2.5-year-old default, the limitation period resets for another 3 years starting from the date of that ₹1 payment.
                     </p>
@@ -394,7 +394,7 @@ export default function TimeBarredDebtPage() {
                 <div id="written-acknowledgment" className="flex gap-6 scroll-mt-32">
                   <div className="flex-shrink-0 w-12 h-12 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center font-black text-xl shadow-lg">2</div>
                   <div>
-                    <h3 className="text-2xl font-bold text-[#2E2E2E] mb-3">Written Acknowledgment</h3>
+                    <h4 className="text-2xl font-bold text-[#2E2E2E] mb-3">Written Acknowledgment</h4>
                     <p className="text-lg text-gray-700">
                       If you reply to the bank's email saying, <em>"I know I owe you ₹2 Lakhs, but I have no money right now. Please give me time,"</em> you have legally acknowledged the debt. The 3-year clock resets from the date of that email.
                     </p>
@@ -404,7 +404,7 @@ export default function TimeBarredDebtPage() {
                 <div className="flex gap-6">
                   <div className="flex-shrink-0 w-12 h-12 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center font-black text-xl shadow-lg">3</div>
                   <div>
-                    <h3 className="text-2xl font-bold text-[#2E2E2E] mb-3">Signing a Restructuring Offer</h3>
+                    <h4 className="text-2xl font-bold text-[#2E2E2E] mb-3">Signing a Restructuring Offer</h4>
                     <p className="text-lg text-gray-700">
                       If you sign a new settlement letter or restructuring agreement and fail to honor it, the terms of the new contract apply, and the limitation period resets.
                     </p>
@@ -415,9 +415,9 @@ export default function TimeBarredDebtPage() {
 
             {/* Success Stories */}
             <section id="success-stories" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">
                 Success Stories: Stopping Harassment on Time-Barred Debts
-              </h2>
+              </h3>
               
               <div className="grid sm:grid-cols-2 gap-6">
                 <div className="bg-white p-8 rounded-[30px] border border-[#DEDEDE] shadow-sm hover:shadow-xl group transition-all">
@@ -456,9 +456,9 @@ export default function TimeBarredDebtPage() {
 
             {/* FAQs */}
             <section id="faqs" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">
                 Frequently Asked Questions
-              </h2>
+              </h3>
               <div className="space-y-4">
                 {[
                   { q: "What is a time-barred debt in India?", a: "Under the Limitation Act of 1963, a time-barred debt is a debt that is beyond the legal limitation period for recovery through the courts. For unsecured loans, this period is generally 3 years from the date of the last payment or written acknowledgment." },
@@ -473,7 +473,7 @@ export default function TimeBarredDebtPage() {
                   { q: "Does the limitation period apply to secured loans like home loans?", a: "For secured loans backed by a mortgage of immovable property, the limitation period to enforce payment is 12 years under the Limitation Act." }
                 ].map((faq, i) => (
                   <div key={i} className="bg-white border border-[#DEDEDE] rounded-xl p-6 hover:shadow-md transition-shadow">
-                    <h3 className="font-bold text-[#2E2E2E] text-lg mb-2">{faq.q}</h3>
+                    <h4 className="font-bold text-[#2E2E2E] text-lg mb-2">{faq.q}</h4>
                     <p className="text-gray-700">{faq.a}</p>
                   </div>
                 ))}
@@ -483,7 +483,7 @@ export default function TimeBarredDebtPage() {
             {/* Lead Gen Hook */}
             <div className="bg-[#2E2E2E] text-white p-12 rounded-[40px] text-center mt-24 relative overflow-hidden group">
               <div className="absolute inset-0 bg-[#1F5EFF] opacity-0 group-hover:opacity-5 transition-opacity"></div>
-              <h3 className="text-3xl md:text-4xl font-black mb-6 relative z-10">Is a Bank Harassing You for an Old Loan?</h3>
+              <h4 className="text-3xl md:text-4xl font-black mb-6 relative z-10">Is a Bank Harassing You for an Old Loan?</h4>
               <p className="text-xl text-gray-300 mb-8 max-w-2xl mx-auto relative z-10">
                 Is a bank harassing you for a loan that is over 3 years old? Contact our advocates to see if your debt is legally 'Time-Barred' and unenforceable in court.
               </p>

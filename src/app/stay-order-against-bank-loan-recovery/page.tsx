@@ -152,7 +152,7 @@ const jsonLdGraph = {
       "@type": "FinancialService",
       "@id": "https://www.settleloans.in/stay-order-against-bank-loan-recovery#service",
       "name": "SettleLoans - Civil Injunction & Coercive Recovery Defense Advisory",
-      "description": "Specialized legal representation for borrowers facing unlawful recovery agent harassment, providing civil court stay order assistance, Order 39 CPC applications, and institutional debt settlement.",
+      "description": "Specialized legal representation for borrowers facing unlawful recovery agent harassment, providing civil court stay order help, Order 39 CPC applications, and institutional debt settlement.",
       "url": "https://www.settleloans.in/stay-order-against-bank-loan-recovery",
       "image": "https://www.settleloans.in/images/infographics/stay-order-against-bank-loan-recovery.jpg",
       "telephone": "+91-99999-99999",
@@ -231,7 +231,7 @@ const jsonLdGraph = {
             "name": "Sunil Chawla"
           },
           "datePublished": "2026-08-01",
-          "reviewBody": "When an NBFC attempted to seize my commercial equipment illegally without following due process of law, SettleLoans moved the court under Order 39 Rules 1 and 2 CPC. The judge passed an unconditional status quo order preventing forceful asset possession. We subsequently negotiated a 55% principal waiver One-Time Settlement with full closure.",
+          "reviewBody": "When an NBFC attempted to seize my commercial equipment illegally without following due process of law, SettleLoans moved the court under Order 39 Rules 1 and 2 CPC. The judge passed an unconditional status quo order preventing forceful asset possession. We then negotiated a 55% principal waiver One-Time Settlement with full closure.",
           "reviewRating": {
             "@type": "Rating",
             "ratingValue": "5",
@@ -258,7 +258,7 @@ const jsonLdGraph = {
           "name": "Can a civil court stop a bank from recovering a genuine loan debt?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "A civil court does not permanently cancel or extinguish a lawful debt; however, it has full judicial authority to grant an injunction restraining illegal, coercive, or tortious methods of recovery. Under settled Supreme Court jurisprudence, banks must recover outstanding dues strictly through due process of law (such as filing civil summary suits or DRT proceedings) and cannot resort to physical intimidation, trespassing, or public shaming."
+            "text": "A civil court does not permanently cancel or extinguish a lawful debt; however, it has full judicial authority to grant an injunction restraining illegal, coercive, or tortious methods of recovery. Under settled Supreme Court jurisprudence, banks must recover outstanding dues strictly through due process of law (such as filing civil summary suits or DRT cases) and cannot resort to physical intimidation, trespassing, or public shaming."
           }
         },
         {
@@ -266,7 +266,7 @@ const jsonLdGraph = {
           "name": "What are the three legal pillars required to obtain an Order 39 CPC stay order?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "To obtain an ad-interim stay or temporary injunction, the applicant must establish three mandatory legal prerequisites before the civil court: (1) A Prima Facie Case demonstrating a valid legal dispute or unlawful harassment; (2) Balance of Convenience tilting in favor of the borrower whose life, liberty, or business reputation is at stake; and (3) Irreparable Injury that cannot be adequately compensated in monetary terms if coercive recovery continues."
+            "text": "To obtain an ad-interim stay or temporary injunction, the applicant must establish three mandatory legal prerequisites before the civil court: (1) A Prima Facie Case showing a valid legal dispute or unlawful harassment; (2) Balance of Convenience tilting in favor of the borrower whose life, liberty, or business reputation is at stake; and (3) Irreparable Injury that cannot be adequately compensated in monetary terms if coercive recovery continues."
           }
         },
         {
@@ -282,7 +282,7 @@ const jsonLdGraph = {
           "name": "What happens if a bank or recovery agency violates a court stay order?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Violating a civil court injunction constitutes civil contempt under Order 39 Rule 2A of the CPC and criminal contempt under the Contempt of Courts Act, 1971. The court has the power to attach the bank's property, issue bailable or non-bailable arrest warrants against recovery agency directors and bank officials, and commit violating individuals to civil imprisonment for up to three months."
+            "text": "Violating a civil court injunction constitutes civil contempt under Order 39 Rule 2A of the CPC and criminal contempt under the Contempt of Courts Act, 1971. The court has the power to attach the bank's property, issue bailable or non-bailable arrest warrants against recovery agency directors and bank officials, and commit violating people to civil imprisonment for up to three months."
           }
         },
         {
@@ -306,7 +306,7 @@ const jsonLdGraph = {
           "name": "How does obtaining a stay order help in negotiating a One-Time Settlement (OTS)?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Securing a civil court stay order strips the bank of its primary coercive weapon—harassment. Facing active court litigation, advocate fees, potential contempt proceedings, and mandatory NPA provisioning requirements, the bank's credit committee becomes highly motivated to conclude an amicable One-Time Settlement (OTS) with 45% to 65% principal waivers rather than fighting a protracted 3-to-5 year legal battle."
+            "text": "Securing a civil court stay order strips the bank of its primary coercive weapon—harassment. Facing active court litigation, advocate fees, potential contempt cases, and mandatory NPA provisioning requirements, the bank's credit committee becomes highly motivated to conclude an amicable One-Time Settlement (OTS) with 45% to 65% principal waivers rather than fighting a protracted 3-to-5 year legal battle."
           }
         },
         {
@@ -505,15 +505,15 @@ export default function StayOrderAgainstBankLoanRecoveryPage() {
                 </li>
                 <li className="flex items-start gap-2">
                   <CheckCircle2 className="w-4 h-4 text-emerald-600 flex-shrink-0 mt-0.5" />
-                  <span><strong>The 3 Pillars of Injunction:</strong> To obtain an immediate ex-parte stay, applicants must demonstrate a Prima Facie Case, Balance of Convenience, and Irreparable Injury to reputation and bodily safety.</span>
+                  <span><strong>The 3 Pillars of Injunction:</strong> To obtain an immediate ex-parte stay, applicants must show a Prima Facie Case, Balance of Convenience, and Irreparable Injury to reputation and bodily safety.</span>
                 </li>
                 <li className="flex items-start gap-2">
                   <CheckCircle2 className="w-4 h-4 text-emerald-600 flex-shrink-0 mt-0.5" />
-                  <span><strong>Contempt of Court Consequences:</strong> Violating a civil court stay order triggers Order 39 Rule 2A CPC proceedings, civil imprisonment up to 3 months, and punitive prosecution under the Contempt of Courts Act, 1971.</span>
+                  <span><strong>Contempt of Court Consequences:</strong> Violating a civil court stay order triggers Order 39 Rule 2A CPC cases, civil imprisonment up to 3 months, and punitive prosecution under the Contempt of Courts Act, 1971.</span>
                 </li>
                 <li className="flex items-start gap-2">
                   <CheckCircle2 className="w-4 h-4 text-emerald-600 flex-shrink-0 mt-0.5" />
-                  <span><strong>Transition to 45%–65% OTS:</strong> Securing a judicial stay neutralizes collection intimidation, creating compelling leverage to negotiate an institutional One-Time Settlement with substantial principal waivers.</span>
+                  <span><strong>Transition to 45%–65% OTS:</strong> Securing a judicial stay neutralizes collection intimidation, creating compelling leverage to negotiate an institutional One-Time Settlement with large principal waivers.</span>
                 </li>
               </ul>
             </div>
@@ -555,15 +555,15 @@ export default function StayOrderAgainstBankLoanRecoveryPage() {
               </div>
 
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
-                It is vital to understand what a stay order achieves. It does not erase underlying debt or prevent lawful judicial actions, such as Order 37 suits, DRT proceedings for debts over ₹20 Lakhs, or arbitration. However, an injunction erects a solid legal barrier against physical harassment, intimidation, unlawful home entries, public defamation, and telephone threats.
+                It is vital to understand what a stay order achieves. It does not erase underlying debt or prevent lawful judicial actions, such as Order 37 suits, DRT cases for debts over ₹20 Lakhs, or arbitration. However, an injunction erects a solid legal barrier against physical harassment, intimidation, unlawful home entries, public defamation, and telephone threats.
               </p>
             </section>
 
             {/* Section 2: Statutory Protections & Constitutional Safeguards */}
             <section id="statutory-protections-rbi-constitutional-rights" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                 2. Statutory Protections, RBI Rules & Safeguards
-              </h2>
+              </h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 The Indian legal system provides robust statutory, regulatory, and constitutional protections against coercive debt recovery. When petitioning a civil court for an interim stay order, advocates anchor the plaint upon three pillars: constitutional rights, binding RBI regulations, and landmark Supreme Court jurisprudence.
               </p>
@@ -578,9 +578,9 @@ export default function StayOrderAgainstBankLoanRecoveryPage() {
                 </p>
               </div>
 
-              <h3 className="text-base sm:text-lg font-bold text-slate-900 pt-2">
+              <h4 className="text-base sm:text-lg font-bold text-slate-900 pt-2">
                 RBI Master Directions: Fair Practices Code for Lenders &amp; Recovery Agents
-              </h3>
+              </h4>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 The RBI has established strict regulatory standards governing debt collection. These are codified in the <strong>Master Direction – Fair Practices Code</strong> and Circular on <strong>Recovery Agents (RBI/2022-23/108)</strong>. Commercial banks and NBFCs must follow these rules strictly. Any deviation constitutes an actionable regulatory offense:
               </p>
@@ -612,9 +612,9 @@ export default function StayOrderAgainstBankLoanRecoveryPage() {
                 </div>
               </div>
 
-              <h3 className="text-base sm:text-lg font-bold text-slate-900 pt-2">
+              <h4 className="text-base sm:text-lg font-bold text-slate-900 pt-2">
                 Landmark Supreme Court Precedents on Recovery Harassment
-              </h3>
+              </h4>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 In <strong>ICICI Bank Ltd. v. Shanti Devi Sharma &amp; Ors. (2008) 7 SCC 532</strong>, the Supreme Court delivered a decisive condemnation of bank recovery practices, declaring: <em>&quot;We are governed by a rule of law in this country. The recovery of loans or the seizure of vehicles could be done only through legal means. The banks cannot employ goondas to take possession by force.&quot;</em> The court held bank managing directors and executives vicariously responsible for the tortious actions of outsourced recovery agents.
               </p>
@@ -625,9 +625,9 @@ export default function StayOrderAgainstBankLoanRecoveryPage() {
 
             {/* Section 3: Documenting Coercive Harassment */}
             <section id="documenting-coercive-harassment-legal-breach" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                 3. Documenting Agent Harassment into Actionable Breach
-              </h2>
+              </h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Securing an emergency stay order from a civil judge requires incontrovertible documentary and electronic evidence. Judges do not grant restraining orders based on generalized claims or unsubstantiated allegations. To establish an ironclad case of actionable harassment, borrowers must systematically preserve and catalog every interaction with collection agents.
               </p>
@@ -684,11 +684,11 @@ export default function StayOrderAgainstBankLoanRecoveryPage() {
 
             {/* Section 4: Bank NPA Accounting & NPV Settlement Formula */}
             <section id="bank-npa-accounting-npv-recovery-formula" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                 4. Bank NPA Accounting, Provisioning & NPV Valuation
-              </h2>
+              </h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
-                To understand why a court stay order gives borrowers immense strategic leverage, one must examine the internal financial and accounting mechanics of commercial banks. When a borrower misses three consecutive monthly EMIs (90 days past due), the loan account is classified as a <strong>Non-Performing Asset (NPA)</strong> in accordance with RBI Prudential Norms.
+                To understand why a court stay order gives borrowers immense strategic leverage, one must examine the internal financial and accounting mechanics of commercial banks. When a borrower misses three consecutive monthly EMIs (90 days past due), the loan account is classified as a <strong>Non-Performing Asset (NPA)</strong> under RBI Prudential Norms.
               </p>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Under RBI Income Recognition and Asset Classification (IRAC) guidelines, banks are legally mandated to lock away their own operating capital as loan loss provisions against NPAs:
@@ -755,15 +755,15 @@ export default function StayOrderAgainstBankLoanRecoveryPage() {
               </div>
 
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
-                Defending a civil injunction suit and litigating recovery costs banks lakhs in legal expenses. In addition, it locks substantial balance sheet capital in NPA reserves. Consequently, bank credit committees overwhelmingly prefer an upfront 35% to 55% lump-sum settlement rather than fighting a borrower protected by a court stay order.
+                Defending a civil injunction suit and litigating recovery costs banks lakhs in legal expenses. In addition, it locks large balance sheet capital in NPA reserves. so, bank credit committees overwhelmingly prefer an upfront 35% to 55% lump-sum settlement rather than fighting a borrower protected by a court stay order.
               </p>
             </section>
 
             {/* Section 5: Visual Roadmap Infographic Banner */}
             <section id="stay-order-visual-roadmap-infographic" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                 5. 5-Stage Legal Injunction &amp; Protection Visual Roadmap
-              </h2>
+              </h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 The roadmap below illustrates the structured 5-stage institutional progression. It guides you from documenting recovery harassment to securing an urgent civil court stay order under Order 39 CPC. It also covers enforcing police protection and concluding an official compromise settlement with full debt discharge.
               </p>
@@ -798,44 +798,44 @@ export default function StayOrderAgainstBankLoanRecoveryPage() {
 
             {/* Section 6: Step-by-Step Legal Procedure */}
             <section id="step-by-step-legal-procedure-stay-order" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                 6. Blueprint: Obtaining Urgent Court Stay Orders
-              </h2>
+              </h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Navigating civil court procedure requires precise legal drafting and swift strategic execution. Experienced debt defense advocates execute an established 5-stage protocol to petition the court and obtain immediate interim relief:
               </p>
 
               <div className="space-y-3 my-4">
                 <div className="p-4 rounded-xl border-l-4 border-blue-600 bg-slate-50 space-y-1">
-                  <h3 className="font-bold text-slate-900 text-xs sm:text-sm">Stage 1: Statutory Demand Notice &amp; Pre-Litigation Notice</h3>
+                  <h4 className="font-bold text-slate-900 text-xs sm:text-sm">Stage 1: Statutory Demand Notice &amp; Pre-Litigation Notice</h4>
                   <p className="text-xs text-slate-600 leading-relaxed">
-                    Your advocate serves a formal legal notice upon the bank&apos;s Managing Director, Principal Nodal Officer, and recovery agency head. The notice catalogs specific harassment incidents and cites RBI Fair Practices Code violations. It demands the immediate withdrawal of recovery agents and warns of civil and criminal proceedings within 48 hours.
+                    Your advocate serves a formal legal notice upon the bank&apos;s Managing Director, Principal Nodal Officer, and recovery agency head. The notice catalogs specific harassment incidents and cites RBI Fair Practices Code violations. It demands the immediate withdrawal of recovery agents and warns of civil and criminal cases within 48 hours.
                   </p>
                 </div>
 
                 <div className="p-4 rounded-xl border-l-4 border-indigo-600 bg-slate-50 space-y-1">
-                  <h4 className="font-bold text-slate-900 text-xs sm:text-sm">Stage 2: Drafting the Civil Plaint &amp; Order 39 Interlocutory Application</h4>
+                  <h5 className="font-bold text-slate-900 text-xs sm:text-sm">Stage 2: Drafting the Civil Plaint &amp; Order 39 Interlocutory Application</h5>
                   <p className="text-xs text-slate-600 leading-relaxed">
                     Advocates draft a comprehensive Plaint for Permanent Injunction and Damages under Section 38 of the Specific Relief Act before the City Civil Court or Senior Civil Judge having territorial jurisdiction over the borrower&apos;s residence. Accompanying the plaint is an Interlocutory Application (IA) under <strong>Order 39, Rules 1 and 2 read with Section 151 CPC</strong> praying for urgent ad-interim restraining orders.
                   </p>
                 </div>
 
                 <div className="p-4 rounded-xl border-l-4 border-purple-600 bg-slate-50 space-y-1">
-                  <h4 className="font-bold text-slate-900 text-xs sm:text-sm">Stage 3: Establishing the Three Pillars of Civil Injunction</h4>
+                  <h5 className="font-bold text-slate-900 text-xs sm:text-sm">Stage 3: Establishing the Three Pillars of Civil Injunction</h5>
                   <p className="text-xs text-slate-600 leading-relaxed">
-                    During the initial motion hearing, your counsel demonstrates the mandatory tripartite test established by Indian courts: (1) <strong>Prima Facie Case:</strong> Demonstrating genuine financial hardship, willingness to resolve debt lawfully, and clear evidence of tortious harassment. (2) <strong>Balance of Convenience:</strong> Proving that the lender will suffer no irreparable injury if required to follow due process, whereas the borrower faces acute personal peril. And (3) <strong>Irreparable Injury:</strong> Establishing that damage to bodily security, mental health, and social reputation cannot be compensated by monetary damages alone.
+                    During the initial motion hearing, your counsel shows the mandatory tripartite test established by Indian courts: (1) <strong>Prima Facie Case:</strong> showing genuine financial hardship, willingness to resolve debt lawfully, and clear evidence of tortious harassment. (2) <strong>Balance of Convenience:</strong> Proving that the lender will suffer no irreparable injury if required to follow due process, whereas the borrower faces acute personal peril. And (3) <strong>Irreparable Injury:</strong> Establishing that damage to bodily security, mental health, and social reputation cannot be compensated by monetary damages alone.
                   </p>
                 </div>
 
                 <div className="p-4 rounded-xl border-l-4 border-amber-600 bg-slate-50 space-y-1">
-                  <h4 className="font-bold text-slate-900 text-xs sm:text-sm">Stage 4: Securing the Ad-Interim Ex-Parte Restraining Order</h4>
+                  <h5 className="font-bold text-slate-900 text-xs sm:text-sm">Stage 4: Securing the Ad-Interim Ex-Parte Restraining Order</h5>
                   <p className="text-xs text-slate-600 leading-relaxed">
                     Recognizing the urgent threat of intimidation or workplace defamation, the civil judge issues an ad-interim injunction order. The order restrains the bank, its officers, servants, and agents from entering your premises. It also bars them from contacting third parties or attempting forcible recovery pending further orders.
                   </p>
                 </div>
 
                 <div className="p-4 rounded-xl border-l-4 border-emerald-600 bg-slate-50 space-y-1">
-                  <h4 className="font-bold text-slate-900 text-xs sm:text-sm">Stage 5: Police Intimation &amp; Contempt of Court Enforcement</h4>
+                  <h5 className="font-bold text-slate-900 text-xs sm:text-sm">Stage 5: Police Intimation &amp; Contempt of Court Enforcement</h5>
                   <p className="text-xs text-slate-600 leading-relaxed">
                     Certified copies of the court stay order are formally served on the local Station House Officer (SHO) of the jurisdictional police station and the bank&apos;s Zonal Office. If any recovery agent breaches the restraining order, advocates immediately file an application under <strong>Order 39 Rule 2A CPC</strong> for civil imprisonment and contempt, prompting immediate police intervention and criminal detention of violating agents.
                   </p>
@@ -849,9 +849,9 @@ export default function StayOrderAgainstBankLoanRecoveryPage() {
 
             {/* Section 7: Converting Stay Order into 55% OTS */}
             <section id="converting-stay-order-into-45-65-ots" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                 7. Injunction Leverage for 45%–65% One-Time Settlement
-              </h2>
+              </h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 A civil stay order is not meant to foster endless court litigation; rather, it provides the safe, protected environment required to negotiate a comprehensive financial resolution. Once the threat of recovery harassment is eliminated by court order, borrowers can negotiate directly with senior bank authorities on equitable terms.
               </p>
@@ -901,9 +901,9 @@ export default function StayOrderAgainstBankLoanRecoveryPage() {
 
             {/* Section 8: Sanction Forensics & RBI NDC Mandate */}
             <section id="sanction-forensics-rbi-ndc-cibil-trajectory" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                 8. Sanction Letter Forensics, Direct Remittance & ₹0 NDC
-              </h2>
+              </h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 A critical danger during debt resolution is falling victim to unauthorized settlement promises made by unauthorized tele-callers or rogue collection agencies. Unscrupulous intermediaries often fabricate fake settlement letters on forged bank letterheads or instruct borrowers to transfer funds to personal UPI handles or agency accounts. A borrower must never disburse settlement money without thorough forensic verification.
               </p>
@@ -927,23 +927,23 @@ export default function StayOrderAgainstBankLoanRecoveryPage() {
                   <span>RBI Circular RBI/2023-24/60: Mandatory ₹0 NDC Delivery &amp; ₹5,000/Day Penalty</span>
                 </div>
                 <p className="leading-relaxed text-emerald-900">
-                  Under <strong>RBI Circular RBI/2023-24/60</strong>, lenders must adhere to strict post-settlement timelines. They are legally mandated to issue an official <strong>No Dues Certificate (NDC) / Loan Closure Letter</strong> within <strong>30 calendar days</strong>. They must also update credit bureaus (CIBIL, Experian, Equifax, CRIF High Mark). Any unjustified delay beyond 30 days makes the bank liable to pay compensation of <strong>₹5,000 for each day of delay</strong> directly to the borrower.
+                  Under <strong>RBI Circular RBI/2023-24/60</strong>, lenders must adhere to strict post-settlement timelines. They are legally mandated to issue an official <strong>No Dues Certificate (NDC) / Loan Closure Letter</strong> within <strong>30 calendar days</strong>. They must also update credit bureaus (CIBIL, Experian, Equifax, CRIF High Mark). Any unjustified delay beyond 30 days makes the bank liable to pay relief of <strong>₹5,000 for each day of delay</strong> directly to the borrower.
                 </p>
               </div>
 
-              <h3 className="text-base sm:text-lg font-bold text-slate-900 pt-2">
-                Understanding CIBIL Bureau Reporting &amp; Credit Score Rehabilitation
-              </h3>
+              <h4 className="text-base sm:text-lg font-bold text-slate-900 pt-2">
+                Understanding CIBIL Bureau Reporting &amp; Credit Score recovery
+              </h4>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
-                Following settlement, the bank updates credit bureau records with the status remark <strong>&quot;Settled&quot;</strong> or <strong>&quot;Post-Write-off Settled&quot;</strong> with a current outstanding balance of <strong>₹0</strong>. While this causes a temporary credit score dip of 70 to 120 points, it halts compounding default accumulation and eliminates collection harassment forever. By securing a secured fixed-deposit credit card, keeping credit utilization below 30%, and ensuring timely utility payments, settled borrowers systematically rebuild their credit score back above 750 within 18 to 24 months.
+                Following settlement, the bank updates credit bureau records with the status remark <strong>&quot;Settled&quot;</strong> or <strong>&quot;Post-Write-off Settled&quot;</strong> with a current outstanding balance of <strong>₹0</strong>. While this causes a temporary credit score dip of 70 to 120 points, it halts compounding default accumulation and eliminates collection harassment forever. By securing a secured fixed-deposit credit card, keeping credit use below 30%, and ensuring timely utility payments, settled borrowers systematically rebuild their credit score back above 750 within 18 to 24 months.
               </p>
             </section>
 
             {/* Section 9: Comparative Legal Matrix */}
             <section id="comparative-legal-matrix-injunction-vs-remedies" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                 9. Legal Matrix: Injunction vs FIR vs Ombudsman vs OTS
-              </h2>
+              </h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Evaluating the different legal mechanisms available to borrowers facing coercive recovery clarifies why a civil court injunction provides the fastest, most potent protective shield:
               </p>
@@ -964,14 +964,14 @@ export default function StayOrderAgainstBankLoanRecoveryPage() {
                       <td className="font-semibold text-slate-900">Civil Injunction (Order 39 CPC)</td>
                       <td>Code of Civil Procedure, 1908 &amp; Specific Relief Act</td>
                       <td>24 to 72 Hours (Ad-interim ex-parte stay)</td>
-                      <td>High: Order 39 Rule 2A civil jail &amp; contempt proceedings</td>
+                      <td>High: Order 39 Rule 2A civil jail &amp; contempt cases</td>
                       <td>Immediate physical shield; forces 45%–65% OTS dialogue</td>
                     </tr>
                     <tr>
                       <td className="font-semibold text-slate-900">Police FIR / Complaint</td>
                       <td>Sections 351/329 BNS &amp; Sections 506/447 IPC</td>
                       <td>3 to 15 Days (Varies by local police discretion)</td>
-                      <td>Moderate: Criminal investigation against individual agents</td>
+                      <td>Moderate: Criminal inquiry against person agents</td>
                       <td>Deters physical visits; requires active follow-up</td>
                     </tr>
                     <tr>
@@ -1003,11 +1003,11 @@ export default function StayOrderAgainstBankLoanRecoveryPage() {
             {/* Section 10: SettleLoans Legal Defense & Advisory + CompanySection */}
             <section id="company-resolution-section" className="space-y-6">
               <div className="border-t border-slate-200 pt-8 space-y-4">
-                <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
+                <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                   10. SettleLoans Legal Defense &amp; Civil Injunction Advisory
-                </h2>
+                </h3>
                 <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
-                  Confronting coercive bank recovery requires seasoned debt litigation advocates. Counsel must understand how to navigate civil courts, invoke Order 39 CPC, and stop agent intimidation. SettleLoans provides end-to-end representation across India. We compile electronic evidence, serve statutory notices, and secure urgent stay orders. Furthermore, we negotiate directly with zonal authorities to achieve 45% to 65% principal haircuts backed by bank-stamped No Dues Certificates.
+                  Confronting coercive bank recovery requires seasoned debt litigation advocates. Counsel must understand how to navigate civil courts, invoke Order 39 CPC, and stop agent intimidation. SettleLoans provides end-to-end representation across India. We compile electronic evidence, serve statutory notices, and secure urgent stay orders. also, we negotiate directly with zonal authorities to achieve 45% to 65% principal haircuts backed by bank-stamped No Dues Certificates.
                 </p>
               </div>
 
@@ -1019,9 +1019,9 @@ export default function StayOrderAgainstBankLoanRecoveryPage() {
             <section id="faqs" className="space-y-4 border-t border-slate-200 pt-8">
               <div className="flex items-center gap-2 mb-2">
                 <HelpCircle className="w-5 h-5 text-[#1F5EFF]" />
-                <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
+                <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                   11. FAQs: Court Stay Orders & Loan Recovery Defense
-                </h2>
+                </h3>
               </div>
               <p className="text-xs sm:text-sm text-slate-600 mb-6">
                 Direct, legally verified answers to critical questions regarding civil court injunctions, Order 39 CPC stay orders, recovery agent restrictions, and debt resolution procedures in India.
@@ -1051,9 +1051,9 @@ export default function StayOrderAgainstBankLoanRecoveryPage() {
 
             {/* 5 Official Regulatory Links */}
             <section className="border-t border-slate-200 pt-8 mb-4">
-              <h3 className="text-xs sm:text-sm font-bold text-slate-900 mb-3 uppercase tracking-wider">
+              <h4 className="text-xs sm:text-sm font-bold text-slate-900 mb-3 uppercase tracking-wider">
                 Official Statutory &amp; Regulatory References
-              </h3>
+              </h4>
               <div className="grid grid-cols-1 sm:grid-cols-2 gap-2.5 text-xs">
                 <a
                   href="https://indiacode.gov.in/handle/123456789/2191"
@@ -1105,9 +1105,9 @@ export default function StayOrderAgainstBankLoanRecoveryPage() {
 
             {/* 10 Related Guide Badges */}
             <section className="border-t border-slate-200 pt-8 mb-8">
-              <h3 className="text-xs sm:text-sm font-bold text-slate-900 mb-4 uppercase tracking-wider">
+              <h4 className="text-xs sm:text-sm font-bold text-slate-900 mb-4 uppercase tracking-wider">
                 Related Legal Defense &amp; Loan Resolution Guides
-              </h3>
+              </h4>
               <div className="flex flex-wrap gap-2">
                 <Link
                   href="/bank-recovery-harassment-complaint"

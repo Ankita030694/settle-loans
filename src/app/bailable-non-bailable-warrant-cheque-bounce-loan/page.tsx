@@ -519,9 +519,9 @@ export default function BailableNonBailableWarrantChequeBounceLoanPage() {
 
             {/* Section 2: Bailable vs Non-Bailable Warrant Statutory Distinction */}
             <section id="bailable-vs-non-bailable-warrant-statutory-distinction" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                 2. Bailable (BW) vs. Non-Bailable Warrant (NBW): Statutory Distinction Under CrPC &amp; Bharatiya Nagarik Suraksha Sanhita (BNSS)
-              </h2>
+              </h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 The issuance and execution of arrest warrants in Section 138 proceedings are governed by procedural criminal law codified under the <strong>Code of Criminal Procedure, 1973 (CrPC)</strong> and the newly enacted <strong>Bharatiya Nagarik Suraksha Sanhita, 2023 (BNSS)</strong>. Understanding the legal difference between a Bailable Warrant and a Non-Bailable Warrant is vital to determining the urgency and nature of the required advocate intervention.
               </p>
@@ -578,9 +578,9 @@ export default function BailableNonBailableWarrantChequeBounceLoanPage() {
 
             {/* Section 3: Supreme Court Guidelines */}
             <section id="supreme-court-guidelines-cheque-bounce-warrants" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                 3. Judicial Protocols &amp; Supreme Court Precedents on 138 Warrants: Curbing Arbitrary Arrests
-              </h2>
+              </h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 The issuance of Non-Bailable Warrants by subordinate magistrates in routine commercial cheque bounce cases has been heavily scrutinized and restrained by the Supreme Court of India. The apex court has laid down binding constitutional and procedural guidelines to prevent the misuse of criminal warrants by banking institutions seeking coercive recovery leverage.
               </p>
@@ -590,27 +590,27 @@ export default function BailableNonBailableWarrantChequeBounceLoanPage() {
 
               <div className="space-y-3 my-4">
                 <div className="p-4 rounded-xl border-l-4 border-blue-600 bg-slate-50 space-y-1">
-                  <h3 className="font-bold text-slate-900 text-xs sm:text-sm">
+                  <h4 className="font-bold text-slate-900 text-xs sm:text-sm">
                     Inder Mohan Goswami &amp; Another v. State of Uttaranchal (2007) 12 SCC 1
-                  </h3>
+                  </h4>
                   <p className="text-xs text-slate-600 leading-relaxed">
                     The Supreme Court established unequivocal rules regarding personal liberty under Article 21 of the Constitution. The Court ruled that Non-Bailable Warrants must not be issued mechanically in the first instance. Courts must strictly follow a graded hierarchy: first issuing a summons, followed by a Bailable Warrant if the summons is ignored, and reserving Non-Bailable Warrants solely as a last resort when the court is fully satisfied that the accused is deliberately evading the judicial process.
                   </p>
                 </div>
 
                 <div className="p-4 rounded-xl border-l-4 border-emerald-600 bg-slate-50 space-y-1">
-                  <h4 className="font-bold text-slate-900 text-xs sm:text-sm">
+                  <h5 className="font-bold text-slate-900 text-xs sm:text-sm">
                     Damodar S. Prabhu v. Sayed Babalal H. (2010) 5 SCC 663
-                  </h4>
+                  </h5>
                   <p className="text-xs text-slate-600 leading-relaxed">
                     The Supreme Court held that the primary objective of Section 138 is the recovery of money and compensatory settlement rather than punitive incarceration. The bench framed comprehensive guidelines encouraging early compounding of offences under Section 147, establishing that compounding can take place at any stage of litigation, including trial, appeal, or revision, without requiring custodial detention.
                   </p>
                 </div>
 
                 <div className="p-4 rounded-xl border-l-4 border-purple-600 bg-slate-50 space-y-1">
-                  <h4 className="font-bold text-slate-900 text-xs sm:text-sm">
+                  <h5 className="font-bold text-slate-900 text-xs sm:text-sm">
                     In Re: Expeditious Trial of Cases Under Section 138 of N.I. Act, 2021 SCC OnLine SC 325
-                  </h4>
+                  </h5>
                   <p className="text-xs text-slate-600 leading-relaxed">
                     A 5-judge Constitution Bench of the Supreme Court mandated that trial courts must carefully scrutinize postal tracking reports and delivery certificates before treating summons as validly served. Issuing warrants without verified evidence of proper service or without recording written judicial satisfaction violates procedural mandates, rendering such warrants immediately liable to be recalled upon application.
                   </p>
@@ -624,9 +624,9 @@ export default function BailableNonBailableWarrantChequeBounceLoanPage() {
 
             {/* Section 4: Bank Accounting & NPV Recovery Dynamics */}
             <section id="bank-accounting-npv-recovery-dynamics" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                 4. Bank Balance Sheet Economics, NPA Provisioning &amp; The Stressed Asset NPV Recovery Equation
-              </h2>
+              </h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 While a Section 138 proceeding feels like an existential criminal crisis to a borrower, from the commercial bank&apos;s institutional perspective, it is merely an expensive, slow recovery mechanism. Commercial banks and NBFCs file thousands of bulk Section 138 complaints across specialized court complexes (such as Patiala House Courts in Delhi, Metropolitan Magistrate Courts in Mumbai, or Egmore Courts in Chennai) not out of criminal vengeance, but to exert maximum pressure to force a financial settlement.
               </p>
@@ -701,9 +701,9 @@ export default function BailableNonBailableWarrantChequeBounceLoanPage() {
 
             {/* Section 5: Infographic Banner */}
             <section id="warrant-recall-compounding-visual-roadmap" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                 5. Visual Roadmap for Warrant Recall &amp; Section 138 Compounding
-              </h2>
+              </h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 The visual guide below illustrates the 5-stage institutional and legal journey: from missed court summons and Magistrate warrant issuance to emergency Section 70(2) recall petition filing, judicial stay of coercive arrest, advocate-led out-of-court Section 147 compounding, and final case disposal with RBI No Dues Certificate delivery.
               </p>
@@ -738,45 +738,45 @@ export default function BailableNonBailableWarrantChequeBounceLoanPage() {
 
             {/* Section 6: Strategic Legal Defense & Section 70 Recall */}
             <section id="advocate-led-section-70-recall-bail-procedure" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                 6. Strategic Legal Defense: How Advocates File Section 70(2) CrPC / BNSS Petitions to Recall Warrants &amp; Secure Bail
-              </h2>
+              </h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 When an arrest warrant has been issued by a Judicial Magistrate, attempting to evade the police or ignoring the situation is the most dangerous course of action. Evading active warrants risks sudden arrest at your residence or place of employment, overnight detention in police custody, and severe social humiliation. Instead, an experienced criminal defense advocate must be engaged immediately to execute a structured 4-step judicial intervention:
               </p>
 
               <div className="space-y-3 my-4">
                 <div className="p-4 rounded-xl border-l-4 border-blue-600 bg-slate-50 space-y-1">
-                  <h3 className="font-bold text-slate-900 text-xs sm:text-sm">
+                  <h4 className="font-bold text-slate-900 text-xs sm:text-sm">
                     Step 1: Case Inspection, Vakalatnama Execution &amp; Certified Order Copies
-                  </h3>
+                  </h4>
                   <p className="text-xs text-slate-600 leading-relaxed">
                     The defense advocate files a formal Memo of Appearance or Vakalatnama before the concerned trial court and conducts an immediate court diary and case file inspection. Counsel examines the summons service report, verifies whether postal acknowledgement cards were forged or unserved, obtains certified copies of the order sheets directing warrant issuance, and checks the exact warrant execution return date given to the local police station.
                   </p>
                 </div>
 
                 <div className="p-4 rounded-xl border-l-4 border-indigo-600 bg-slate-50 space-y-1">
-                  <h4 className="font-bold text-slate-900 text-xs sm:text-sm">
+                  <h5 className="font-bold text-slate-900 text-xs sm:text-sm">
                     Step 2: Drafting the Section 70(2) CrPC / BNSS Recall &amp; Cancellation Petition
-                  </h4>
+                  </h5>
                   <p className="text-xs text-slate-600 leading-relaxed">
                     Advocates draft an exhaustive, verified Application under Section 70(2) of the CrPC (or Section 72(2) of BNSS) for Recall and Cancellation of the Bailable or Non-Bailable Warrant. The application sets forth legitimate, bonafide reasons for previous non-appearances—supported by medical discharge summaries, address relocation proof, out-of-station employment affidavits, or non-receipt of summons. Counsel explicitly invokes <em>Inder Mohan Goswami</em> to demonstrate that the absence was neither intentional nor contumacious.
                   </p>
                 </div>
 
                 <div className="p-4 rounded-xl border-l-4 border-purple-600 bg-slate-50 space-y-1">
-                  <h4 className="font-bold text-slate-900 text-xs sm:text-sm">
+                  <h5 className="font-bold text-slate-900 text-xs sm:text-sm">
                     Step 3: Court Appearance, Bail Application &amp; Surety Bond Submission
-                  </h4>
+                  </h5>
                   <p className="text-xs text-slate-600 leading-relaxed">
                     On the designated morning, the advocate presents the recall application before the presiding Magistrate. Because Section 138 is a bailable offense, the borrower is entitled to bail as a matter of legal right under Section 436 CrPC / Section 478 BNSS. Counsel submits a regular Bail Application along with a Personal Bond and introduces a solvent local surety (or requests cash bail in lieu of surety). Upon examining the grounds, the Magistrate cancels the warrant, admits the borrower to bail, and directs the police station to withdraw the arrest mandate immediately.
                   </p>
                 </div>
 
                 <div className="p-4 rounded-xl border-l-4 border-emerald-600 bg-slate-50 space-y-1">
-                  <h4 className="font-bold text-slate-900 text-xs sm:text-sm">
+                  <h5 className="font-bold text-slate-900 text-xs sm:text-sm">
                     Step 4: Securing Judicial Stay &amp; Intimating Local Station House Officer (SHO)
-                  </h4>
+                  </h5>
                   <p className="text-xs text-slate-600 leading-relaxed">
                     Immediately upon obtaining the signed court order cancelling the warrant, the advocate secures a certified dasti copy of the order. Counsel serves a formal intimation letter along with the court order upon the Station House Officer (SHO) of the jurisdictional police station, instantly terminating all pending police visits, arrest threats, and verification calls.
                   </p>
@@ -790,9 +790,9 @@ export default function BailableNonBailableWarrantChequeBounceLoanPage() {
 
             {/* Section 7: Section 147 Compounding & OTS Negotiation */}
             <section id="section-147-compounding-ots-negotiation" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                 7. Section 147 NI Act Compounding &amp; Out-of-Court Settlement Negotiation: Securing 40%–70% OTS Waivers
-              </h2>
+              </h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Once the arrest warrant is recalled and bail is secured, the borrower holds immense strategic leverage to resolve the dispute permanently. Under <strong>Section 147 of the Negotiable Instruments Act, 1881</strong>, every offense punishable under the Act is non-cognizable and expressly compoundable by law. Unlike general Indian Penal Code / Bharatiya Nyaya Sanhita offenses that require high court quashing, a Section 138 complaint can be compounded and dismissed directly before the trial Magistrate with mutual consent of the parties.
               </p>
@@ -855,36 +855,36 @@ export default function BailableNonBailableWarrantChequeBounceLoanPage() {
 
             {/* Section 8: Post-Compounding Execution, NDC & CIBIL */}
             <section id="post-compounding-ndc-cibil-rehabilitation" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                 8. Case Disposal, RBI No Dues Certificate Delivery &amp; CIBIL Bureau Clean-Up
-              </h2>
+              </h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Remitting the compromised settlement amount is only the financial milestone of debt resolution. Achieving total legal immunity and restoring creditworthiness requires completing three essential post-settlement legal steps:
               </p>
 
               <div className="space-y-3 my-4">
                 <div className="p-4 rounded-xl border border-slate-200 bg-slate-50 space-y-1">
-                  <h3 className="font-bold text-slate-900 text-xs sm:text-sm">
+                  <h4 className="font-bold text-slate-900 text-xs sm:text-sm">
                     1. Formal Compounding Application &amp; Judicial Acquittal Order
-                  </h3>
+                  </h4>
                   <p className="text-xs text-slate-600 leading-relaxed">
                     Upon receipt of full settlement funds, the bank&apos;s authorized representative and the defense advocate jointly file a <strong>Compounding Application under Section 147 of the NI Act read with Section 320 CrPC / Section 359 BNSS</strong>. The complainant bank records its statement confirming full satisfaction of claims. The Magistrate passes a final judicial order recording the compounding of the offense. Under Section 320(8) CrPC / Section 359(8) BNSS, the compounding of an offense has the statutory effect of an <strong>absolute acquittal</strong> of the accused, permanently erasing any criminal taint.
                   </p>
                 </div>
 
                 <div className="p-4 rounded-xl border border-slate-200 bg-slate-50 space-y-1">
-                  <h4 className="font-bold text-slate-900 text-xs sm:text-sm">
+                  <h5 className="font-bold text-slate-900 text-xs sm:text-sm">
                     2. Delivery of RBI No Dues Certificate (NDC) Within Mandatory 30 Days
-                  </h4>
+                  </h5>
                   <p className="text-xs text-slate-600 leading-relaxed">
                     Under <strong>RBI Master Circular RBI/2023-24/60 (Responsible Lending Conduct)</strong>, all commercial banks and NBFCs are statutorily mandated to issue an official <strong>No Dues Certificate (NDC) / Loan Closure Certificate</strong> and return all original security cheques or property title deeds within <strong>30 calendar days</strong> of receiving settlement funds. Failure to adhere to this timeline renders the lender liable to pay statutory compensation of <strong>₹5,000 per day of delay</strong> directly to the borrower.
                   </p>
                 </div>
 
                 <div className="p-4 rounded-xl border border-slate-200 bg-slate-50 space-y-1">
-                  <h4 className="font-bold text-slate-900 text-xs sm:text-sm">
+                  <h5 className="font-bold text-slate-900 text-xs sm:text-sm">
                     3. Credit Bureau (CIBIL, Experian, CRIF) Record Rectification
-                  </h4>
+                  </h5>
                   <p className="text-xs text-slate-600 leading-relaxed">
                     Under the Credit Information Companies (Regulation) Act, 2005, the bank is legally required to update all four credit bureaus (TransUnion CIBIL, Experian, Equifax, CRIF High Mark) within 30 days. The loan status is updated from &quot;Written Off / Default / Active Suit Filed&quot; to <strong>&quot;Settled&quot;</strong>, with the outstanding ledger balance reduced to strictly <strong>₹0</strong>.
                   </p>
@@ -904,9 +904,9 @@ export default function BailableNonBailableWarrantChequeBounceLoanPage() {
 
             {/* Section 9: Criminal Defense vs Compounding Matrix */}
             <section id="criminal-defense-vs-compounding-matrix" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                 9. Criminal Trial Contest vs. Out-of-Court Compounding Strategic Matrix
-              </h2>
+              </h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 When an arrest warrant is recalled, borrowers must choose between contesting the Section 138 trial on merits or negotiating an out-of-court compromise under Section 147. Comparing both strategic pathways highlights why out-of-court compounding provides superior certainty:
               </p>
@@ -959,9 +959,9 @@ export default function BailableNonBailableWarrantChequeBounceLoanPage() {
             {/* Section 10: SettleLoans Legal Defense & Advisory + CompanySection */}
             <section id="company-resolution-section" className="space-y-6">
               <div className="border-t border-slate-200 pt-8 space-y-4">
-                <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
+                <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                   10. SettleLoans Criminal Defense &amp; Loan Settlement Advisory
-                </h2>
+                </h3>
                 <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                   Facing a Bailable or Non-Bailable Warrant for a cheque bounce loan default demands rapid, seasoned criminal defense counsel combined with master debt settlement negotiators. SettleLoans provides end-to-end legal protection for distressed borrowers across India: conducting emergency court file inspections, filing urgent Section 70(2) recall petitions to stay police arrest, securing court bail, and negotiating directly with bank senior credit authorities to achieve deep 40% to 70% One-Time Settlements backed by official No Dues Certificates and formal court acquittal orders.
                 </p>
@@ -975,9 +975,9 @@ export default function BailableNonBailableWarrantChequeBounceLoanPage() {
             <section id="faqs" className="space-y-4 border-t border-slate-200 pt-8">
               <div className="flex items-center gap-2 mb-2">
                 <HelpCircle className="w-5 h-5 text-[#1F5EFF]" />
-                <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
+                <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                   11. Frequently Asked Questions: Cheque Bounce Warrants &amp; Loan Settlement
-                </h2>
+                </h3>
               </div>
               <p className="text-xs sm:text-sm text-slate-600 mb-6">
                 Direct, legally verified answers to critical questions regarding bailable and non-bailable warrants, Section 138 NI Act proceedings, warrant recall petitions, and out-of-court loan compounding in India.
@@ -1007,9 +1007,9 @@ export default function BailableNonBailableWarrantChequeBounceLoanPage() {
 
             {/* 5 Official Regulatory Links */}
             <section className="border-t border-slate-200 pt-8 mb-4">
-              <h3 className="text-xs sm:text-sm font-bold text-slate-900 mb-3 uppercase tracking-wider">
+              <h4 className="text-xs sm:text-sm font-bold text-slate-900 mb-3 uppercase tracking-wider">
                 Official Statutory &amp; Regulatory References
-              </h3>
+              </h4>
               <div className="grid grid-cols-1 sm:grid-cols-2 gap-2.5 text-xs">
                 <a
                   href="https://indiacode.gov.in/handle/123456789/2189"
@@ -1061,9 +1061,9 @@ export default function BailableNonBailableWarrantChequeBounceLoanPage() {
 
             {/* 10 Related Guide Badges */}
             <section className="border-t border-slate-200 pt-8 mb-8">
-              <h3 className="text-xs sm:text-sm font-bold text-slate-900 mb-4 uppercase tracking-wider">
+              <h4 className="text-xs sm:text-sm font-bold text-slate-900 mb-4 uppercase tracking-wider">
                 Related Legal Defense &amp; Debt Settlement Guides
-              </h3>
+              </h4>
               <div className="flex flex-wrap gap-2">
                 <Link
                   href="/cheque-bounce-hone-par-kya-hoga"

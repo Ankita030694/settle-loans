@@ -529,7 +529,7 @@ export default function PersonalLoanSettlementGuwahatiPage() {
 
             {/* Section 2: Statutory Legal Protections */}
             <section id="statutory-legal-protections-gauhati-hc" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">2. Statutory Protections for Assam Borrowers</h2>
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">2. Statutory Protections for Assam Borrowers</h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Debt resolution in Assam follows central laws, RBI rules, and Gauhati High Court orders. Under Section 73 of the Indian Contract Act, 1872, loans are civil agreements. Default due to distress or medical trouble is a civil matter. The Gauhati High Court has ruled that police cannot file FIRs or step into civil loan disputes.
               </p>
@@ -586,7 +586,7 @@ export default function PersonalLoanSettlementGuwahatiPage() {
 
             {/* Section 3: PSU Bank SARB Mechanics in Guwahati */}
             <section id="psu-bank-sarb-guwahati-mechanics" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">3. PSU Bank SARB Mechanics in Guwahati</h2>
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">3. PSU Bank SARB Mechanics in Guwahati</h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Guwahati hosts large PSU bank hubs. These include <strong>State Bank of India (LHO and SARB at Dispur)</strong>, <strong>UCO Bank (Panbazar)</strong>, and <strong>Punjab National Bank (GS Road)</strong>. It also hosts Canara Bank, AGVB, HDFC, ICICI, and NBFCs like Bajaj Finance.
               </p>
@@ -600,7 +600,7 @@ export default function PersonalLoanSettlementGuwahatiPage() {
 
             {/* Section 4: Bank Accounting & NPV Formula */}
             <section id="bank-accounting-npv-recovery-formula" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">4. Bank Economics &amp; The Stressed Asset NPV Recovery Equation</h2>
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">4. Bank Economics &amp; The Stressed Asset NPV Recovery Equation</h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Under RBI IRAC norms, defaulted loans require mandatory NPA provisions. These range from 15% to 100%. Locked capital hurts bank profits. This encourages lenders to approve settlement offers.
               </p>
@@ -669,9 +669,9 @@ export default function PersonalLoanSettlementGuwahatiPage() {
 
             {/* Section 5: Infographic Banner */}
             <section id="guwahati-settlement-visual-roadmap" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                 5. Guwahati &amp; Assam Loan Settlement Legal Roadmap
-              </h2>
+              </h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 The chart below shows the 5-step legal journey from loan default to SARB talks, OTS sanction. And full credit recovery.
               </p>
@@ -706,7 +706,7 @@ export default function PersonalLoanSettlementGuwahatiPage() {
 
             {/* Section 6: Advocate-Led Settlement Defense */}
             <section id="advocate-led-defense-kamrup-metro" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">6. Legal Defense: Countering Kamrup Metro Summons</h2>
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">6. Legal Defense: Countering Kamrup Metro Summons</h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 When NACH debits or cheques bounce, banks file cases under <strong>Section 138 NI Act</strong> or <strong>Section 25 PSSA</strong>. These cases go to the Panbazar CJM Court.
               </p>
@@ -716,25 +716,25 @@ export default function PersonalLoanSettlementGuwahatiPage() {
 
               <div className="space-y-3 my-4">
                 <div className="p-4 rounded-xl border-l-4 border-blue-600 bg-slate-50 space-y-1">
-                  <h3 className="font-bold text-slate-900 text-xs sm:text-sm">Tier 1: Notice of Legal Representation</h3>
+                  <h4 className="font-bold text-slate-900 text-xs sm:text-sm">Tier 1: Notice of Legal Representation</h4>
                   <p className="text-xs text-slate-600 leading-relaxed">
                     Advocates serve legal notices citing RBI rules. This routes all bank calls through counsel.
                   </p>
                 </div>
                 <div className="p-4 rounded-xl border-l-4 border-indigo-600 bg-slate-50 space-y-1">
-                  <h4 className="font-bold text-slate-900 text-xs sm:text-sm">Tier 2: Representation in Kamrup Metro Courts</h4>
+                  <h5 className="font-bold text-slate-900 text-xs sm:text-sm">Tier 2: Representation in Kamrup Metro Courts</h5>
                   <p className="text-xs text-slate-600 leading-relaxed">
                     Counsel files a Vakalatnama at Panbazar Court. They secure bail and contest notice defects.
                   </p>
                 </div>
                 <div className="p-4 rounded-xl border-l-4 border-purple-600 bg-slate-50 space-y-1">
-                  <h4 className="font-bold text-slate-900 text-xs sm:text-sm">Tier 3: Verified Hardship Dossier Submission</h4>
+                  <h5 className="font-bold text-slate-900 text-xs sm:text-sm">Tier 3: Verified Hardship Dossier Submission</h5>
                   <p className="text-xs text-slate-600 leading-relaxed">
                     Lawyers present proof of income loss, business decline, or illness to bank committees.
                   </p>
                 </div>
                 <div className="p-4 rounded-xl border-l-4 border-amber-600 bg-slate-50 space-y-1">
-                  <h4 className="font-bold text-slate-900 text-xs sm:text-sm">Tier 4: National Lok Adalat Consent Decree</h4>
+                  <h5 className="font-bold text-slate-900 text-xs sm:text-sm">Tier 4: National Lok Adalat Consent Decree</h5>
                   <p className="text-xs text-slate-600 leading-relaxed">
                     Under Section 147 NI Act, we take the dispute to <strong>ASLSA Lok Adalat</strong> for final disposal.
                   </p>
@@ -744,9 +744,9 @@ export default function PersonalLoanSettlementGuwahatiPage() {
 
             {/* Section 7: Forensic Verification of Settlement Letters */}
             <section id="forensic-verification-settlement-letters" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                 7. Forensic Audit of Settlement Letters in Assam
-              </h2>
+              </h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Avoid fake settlement letters from agents. Every genuine OTS sanction letter must meet four key checkpoints:
               </p>
@@ -803,7 +803,7 @@ export default function PersonalLoanSettlementGuwahatiPage() {
 
             {/* Section 8: Remittance, NDC & CIBIL Recovery */}
             <section id="remittance-ndc-cibil-restoration" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">8. Settlement Remittance &amp; ₹0 NDC in Assam</h2>
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">8. Settlement Remittance &amp; ₹0 NDC in Assam</h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Under <strong>RBI Circular RBI/2023-24/60</strong>, banks must issue the <strong>No Dues Certificate (NDC)</strong> in 30 days. Lenders must pay <strong>₹5,000 per day of delay</strong> if they fail to issue it on time.
               </p>
@@ -818,9 +818,9 @@ export default function PersonalLoanSettlementGuwahatiPage() {
                 </p>
               </div>
 
-              <h3 className="text-base sm:text-lg font-bold text-slate-900 pt-2">
+              <h4 className="text-base sm:text-lg font-bold text-slate-900 pt-2">
                 Credit Bureau Rehabilitation Overview
-              </h3>
+              </h4>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 After settlement, banks update credit bureaus to <strong>&quot;Settled&quot;</strong> with a <strong>₹0</strong> balance. This stops negative marks. You can restore your score to 750+ within 18 to 24 months.
               </p>
@@ -828,9 +828,9 @@ export default function PersonalLoanSettlementGuwahatiPage() {
 
             {/* Section 9: Comparative Strategy Matrix */}
             <section id="guwahati-settlement-vs-litigation-matrix" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                 9. Guwahati Banking Settlement vs. Court Litigation Matrix
-              </h2>
+              </h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Comparing bank OTS and court trials shows why settlement is the smarter choice:
               </p>
@@ -878,9 +878,9 @@ export default function PersonalLoanSettlementGuwahatiPage() {
             {/* Section 10: SettleLoans Legal Defense & Advisory + CompanySection */}
             <section id="company-resolution-section" className="space-y-6">
               <div className="border-t border-slate-200 pt-8 space-y-4">
-                <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
+                <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                   10. SettleLoans Legal Defense &amp; Advisory in Guwahati
-                </h2>
+                </h3>
                 <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                   SettleLoans provides expert debt defense in Guwahati and Assam. We stop agent harassment and defend court cases in Kamrup Metro. We negotiate with bank SARBs to secure 40% to 70% OTS debt waivers with formal No Dues Certificates.
                 </p>
@@ -897,9 +897,9 @@ export default function PersonalLoanSettlementGuwahatiPage() {
                   <Gavel className="w-4 h-4" />
                   <span>Local Legal Jurisdiction &amp; Legal Aid Directory</span>
                 </div>
-                <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+                <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                   District Courts &amp; DLSA Helpdesk in Guwahati
-                </h2>
+                </h3>
                 <p className="text-slate-700 leading-relaxed mb-6 text-base">
                   Distressed borrowers facing recovery pressure, arbitration summons, or Section 138 NI Act notices in Guwahati can access statutory legal defense through the local District Court and District Legal Services Authority (DLSA):
                 </p>
@@ -934,7 +934,7 @@ export default function PersonalLoanSettlementGuwahatiPage() {
 <section id="faqs" className="space-y-4 border-t border-slate-200 pt-8">
               <div className="flex items-center gap-2 mb-2">
                 <HelpCircle className="w-5 h-5 text-[#1F5EFF]" />
-                <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">11. FAQs: Guwahati Assam</h2>
+                <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">11. FAQs: Guwahati Assam</h3>
               </div>
               <p className="text-xs sm:text-sm text-slate-600 mb-6">
                 Find clear legal answers about loan defaults, recovery rules, court notices, and OTS steps in Guwahati and Assam.
@@ -964,9 +964,9 @@ export default function PersonalLoanSettlementGuwahatiPage() {
 
             {/* 5 Official Regulatory Links */}
             <section className="border-t border-slate-200 pt-8 mb-4">
-              <h3 className="text-xs sm:text-sm font-bold text-slate-900 mb-3 uppercase tracking-wider">
+              <h4 className="text-xs sm:text-sm font-bold text-slate-900 mb-3 uppercase tracking-wider">
                 Official Statutory &amp; Regulatory References
-              </h3>
+              </h4>
               <div className="grid grid-cols-1 sm:grid-cols-2 gap-2.5 text-xs">
                 <a
                   href="https://ghconline.gov.in"
@@ -1018,9 +1018,9 @@ export default function PersonalLoanSettlementGuwahatiPage() {
 
             {/* 10 Related Guide Badges */}
             <section className="border-t border-slate-200 pt-8 mb-8">
-              <h3 className="text-xs sm:text-sm font-bold text-slate-900 mb-4 uppercase tracking-wider">
+              <h4 className="text-xs sm:text-sm font-bold text-slate-900 mb-4 uppercase tracking-wider">
                 Related Debt Relief &amp; Banking Resolution Guides
-              </h3>
+              </h4>
               <div className="flex flex-wrap gap-2">
                 <Link
                   href="/bank-one-time-settlement-ots-policy"

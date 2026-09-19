@@ -250,9 +250,9 @@ export default function LoanPenaltyWaiverRequest() {
             </section>
 
             <section id="waiver-process" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 The Exact Process to Get Fees Reversed
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 Getting a penalty waived is not an automatic process. It requires a systematic approach. Follow these steps carefully to maximize your chances of a successful fee reversal.
               </p>
@@ -261,7 +261,7 @@ export default function LoanPenaltyWaiverRequest() {
                 <div className="flex gap-6">
                   <div className="flex-shrink-0 w-12 h-12 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center font-black text-xl shadow-lg">1</div>
                   <div>
-                    <h3 className="text-2xl font-bold text-[#2E2E2E] mb-2">Identify the Exact Charges</h3>
+                    <h4 className="text-2xl font-bold text-[#2E2E2E] mb-2">Identify the Exact Charges</h4>
                     <p className="text-lg text-gray-700">Before contacting the bank, download your latest statement. Identify the specific lines stating "Late Payment Fee," "Bounce Charge," or "Overdue Interest." Knowing the exact amount shows the bank you are informed.</p>
                   </div>
                 </div>
@@ -269,7 +269,7 @@ export default function LoanPenaltyWaiverRequest() {
                 <div className="flex gap-6">
                   <div className="flex-shrink-0 w-12 h-12 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center font-black text-xl shadow-lg">2</div>
                   <div>
-                    <h3 className="text-2xl font-bold text-[#2E2E2E] mb-2">Formulate a Valid Reason</h3>
+                    <h4 className="text-2xl font-bold text-[#2E2E2E] mb-2">Formulate a Valid Reason</h4>
                     <p className="text-lg text-gray-700">Banks reverse charges as a gesture of goodwill or due to genuine hardship. Valid reasons include a medical emergency, sudden job loss, delay in salary credit, or technical glitches on the bank's portal.</p>
                   </div>
                 </div>
@@ -277,14 +277,14 @@ export default function LoanPenaltyWaiverRequest() {
                 <div className="flex gap-6">
                   <div className="flex-shrink-0 w-12 h-12 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center font-black text-xl shadow-lg">3</div>
                   <div>
-                    <h3 className="text-2xl font-bold text-[#2E2E2E] mb-2">Submit a Written Request</h3>
+                    <h4 className="text-2xl font-bold text-[#2E2E2E] mb-2">Submit a Written Request</h4>
                     <p className="text-lg text-gray-700">While you can call customer care for minor credit card reversals, large loan default penalties require a formal written application submitted to the branch manager.</p>
                   </div>
                 </div>
               </div>
 
               <div className="bg-blue-50 border-l-8 border-[#1F5EFF] p-8 rounded-r-2xl mb-8 mt-12">
-                <h4 className="text-xl font-black text-[#1F5EFF] mb-4">Pro Tips for Branch Visits</h4>
+                <h5 className="text-xl font-black text-[#1F5EFF] mb-4">Pro Tips for Branch Visits</h5>
                 <ul className="space-y-3">
                   <li className="flex items-start gap-3 text-gray-800 text-lg">
                     <div className="mt-1.5 w-2 h-2 rounded-full bg-[#1F5EFF] flex-shrink-0"></div>
@@ -303,37 +303,37 @@ export default function LoanPenaltyWaiverRequest() {
             </section>
 
             <section id="drafting-letter" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 How to Draft a Winning Waiver Request
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 Your application must be polite, concise, and factual. Do not use an aggressive tone. A well-structured letter significantly increases the likelihood of a successful <strong>loan default fee waiver</strong>.
               </p>
 
               <div className="bg-gray-50 p-8 rounded-2xl mb-8 border border-gray-200">
-                <h3 className="text-lg font-bold text-gray-800 mb-4">Essential Elements of Your Letter:</h3>
+                <h4 className="text-lg font-bold text-gray-800 mb-4">Essential Elements of Your Letter:</h4>
                 <div className="grid md:grid-cols-2 gap-6 my-8">
                   <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
-                    <h4 className="font-black text-[#1F5EFF] text-lg mb-3">Account Details</h4>
+                    <h5 className="font-black text-[#1F5EFF] text-lg mb-3">Account Details</h5>
                     <p className="text-gray-700">Clearly mention your Loan/Credit Card number and the exact date of the missed payment.</p>
                   </div>
                   <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
-                    <h5 className="font-black text-[#1F5EFF] text-lg mb-3">The Exact Penalty</h5>
+                    <h6 className="font-black text-[#1F5EFF] text-lg mb-3">The Exact Penalty</h6>
                     <p className="text-gray-700">Specify the total penalty amount you are requesting to be reversed.</p>
                   </div>
                   <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
-                    <h5 className="font-black text-[#1F5EFF] text-lg mb-3">The Justification</h5>
+                    <h6 className="font-black text-[#1F5EFF] text-lg mb-3">The Justification</h6>
                     <p className="text-gray-700">Explain briefly but clearly why the payment was delayed (e.g., "Due to an unexpected medical hospitalization...").</p>
                   </div>
                   <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
-                    <h5 className="font-black text-[#1F5EFF] text-lg mb-3">Commitment</h5>
+                    <h6 className="font-black text-[#1F5EFF] text-lg mb-3">Commitment</h6>
                     <p className="text-gray-700">Assure the bank that this is a one-off instance and future payments will be on time.</p>
                   </div>
                 </div>
               </div>
 
               <div className="bg-red-50 p-6 rounded-xl border border-red-100 mb-8">
-                <h4 className="text-xl font-bold text-red-700 mb-2">Warning: Never Ignore Bank Communications</h4>
+                <h5 className="text-xl font-bold text-red-700 mb-2">Warning: Never Ignore Bank Communications</h5>
                 <p className="text-red-900 text-lg">
                   If you fail to communicate with the bank and ignore their calls, they are highly unlikely to grant a penalty waiver later. Being proactive and informing them about your situation *before* or immediately *after* the default is crucial.
                 </p>
@@ -341,9 +341,9 @@ export default function LoanPenaltyWaiverRequest() {
             </section>
 
             <section id="cibil-impact" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 The Role of CIBIL Scores in Penalty Waivers
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 Many borrowers worry about whether requesting a <strong>loan default fee waiver</strong> will negatively affect their credit score. The straightforward answer is: asking for a waiver itself does not hurt your CIBIL score. However, the missed payment that triggered the penalty might have already been reported to the credit bureaus.
               </p>
@@ -351,7 +351,7 @@ export default function LoanPenaltyWaiverRequest() {
                 Banks typically report a default if the payment is delayed by more than 30 days. If your payment was delayed by just a few days, getting a <strong>credit card penalty reversal</strong> not only saves you money but also ensures that no adverse remarks are recorded on your credit file. 
               </p>
               <div className="bg-white rounded-2xl p-8 border border-[#DEDEDE] shadow-sm relative overflow-hidden mb-8">
-                <h3 className="text-xl font-bold text-[#2E2E2E] mb-4">How to Protect Your CIBIL Score:</h3>
+                <h4 className="text-xl font-bold text-[#2E2E2E] mb-4">How to Protect Your CIBIL Score:</h4>
                 <ul className="space-y-4">
                   <li className="flex items-start gap-4">
                     <div className="flex-shrink-0 w-8 h-8 rounded-full bg-[#1F5EFF]/10 text-[#1F5EFF] flex items-center justify-center font-bold">1</div>
@@ -366,9 +366,9 @@ export default function LoanPenaltyWaiverRequest() {
             </section>
 
             <section id="rbi-guidelines" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 RBI Guidelines on Loan Penalties
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 The Reserve Bank of India (RBI) has laid down specific guidelines to protect consumers from exorbitant and unjustified penal charges. In recent circulars, the RBI mandated that penalties should be treated as 'penal charges' and not 'penal interest'. This means banks cannot compound the penalty amount (charging interest on the penalty).
               </p>
@@ -376,7 +376,7 @@ export default function LoanPenaltyWaiverRequest() {
                 Knowing these guidelines empowers you when you <strong>request penalty waiver from bank</strong> authorities. If a bank has applied excessive compound interest on late fees, you have legal grounds to demand a complete reversal.
               </p>
               <div className="bg-gray-50 p-8 rounded-2xl mb-8 border border-gray-200">
-                <h3 className="text-xl font-black text-[#1F5EFF] mb-4">Key RBI Directives:</h3>
+                <h4 className="text-xl font-black text-[#1F5EFF] mb-4">Key RBI Directives:</h4>
                 <ul className="list-disc pl-6 space-y-2 text-lg text-gray-700">
                   <li>Penalties must be reasonable and commensurate with the non-compliance.</li>
                   <li>No capitalization of penal charges (no interest on interest).</li>
@@ -386,9 +386,9 @@ export default function LoanPenaltyWaiverRequest() {
             </section>
 
             <section id="escalation" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 What If Your Waiver Request is Rejected? Escalation Matrix
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 Not all waiver requests are approved on the first try, especially if you have a history of frequent defaults. However, a rejection from the branch manager or customer care executive is not the end of the road. You can follow a structured escalation matrix to get your voice heard by senior management.
               </p>
@@ -398,28 +398,28 @@ export default function LoanPenaltyWaiverRequest() {
 
               <div className="grid md:grid-cols-2 gap-6 my-8">
                 <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
-                  <h3 className="font-black text-[#1F5EFF] text-lg mb-3">Level 1: Nodal Officer</h3>
+                  <h4 className="font-black text-[#1F5EFF] text-lg mb-3">Level 1: Nodal Officer</h4>
                   <p className="text-gray-700">If the branch manager rejects your plea, email the bank's designated Grievance Redressal or Nodal Officer with your previous correspondence.</p>
                 </div>
                 <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
-                  <h4 className="font-black text-[#1F5EFF] text-lg mb-3">Level 2: Principal Nodal Officer</h4>
+                  <h5 className="font-black text-[#1F5EFF] text-lg mb-3">Level 2: Principal Nodal Officer</h5>
                   <p className="text-gray-700">If unresolved within 30 days, escalate to the Principal Nodal Officer at the bank's corporate headquarters.</p>
                 </div>
                 <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
-                  <h5 className="font-black text-[#1F5EFF] text-lg mb-3">Level 3: Banking Ombudsman</h5>
+                  <h6 className="font-black text-[#1F5EFF] text-lg mb-3">Level 3: Banking Ombudsman</h6>
                   <p className="text-gray-700">If the bank refuses to reverse charges that violate RBI norms, file a complaint on the RBI Integrated Ombudsman portal.</p>
                 </div>
                 <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
-                  <h5 className="font-black text-[#1F5EFF] text-lg mb-3">Level 4: Consumer Court</h5>
+                  <h6 className="font-black text-[#1F5EFF] text-lg mb-3">Level 4: Consumer Court</h6>
                   <p className="text-gray-700">For extreme harassment or illegally deducted fees, you can approach the consumer forum as a last resort.</p>
                 </div>
               </div>
             </section>
 
             <section id="success-stories" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 Success Stories: Real People, Real Waivers
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 See how other borrowers successfully navigated the <strong>credit card penalty reversal</strong> and loan fee waiver process using our strategies.
               </p>
@@ -437,7 +437,7 @@ export default function LoanPenaltyWaiverRequest() {
                       ))}
                     </div>
                   </div>
-                  <h3 className="text-xl font-bold text-[#2E2E2E] mb-2">Manish T. - Personal Loan</h3>
+                  <h4 className="text-xl font-bold text-[#2E2E2E] mb-2">Manish T. - Personal Loan</h4>
                   <p className="text-gray-600 mb-6">"I missed two EMIs due to a job change. The bank charged ₹8,500 in penalties. I met the branch manager with my new offer letter and previous clear record. They waived 100% of the late fees!"</p>
                   <div className="flex gap-3">
                     <span className="inline-block py-1 px-3 rounded-full bg-red-100 text-red-700 text-xs font-bold uppercase">Penalty: ₹8,500</span>
@@ -457,7 +457,7 @@ export default function LoanPenaltyWaiverRequest() {
                       ))}
                     </div>
                   </div>
-                  <h4 className="text-xl font-bold text-[#2E2E2E] mb-2">Rashmi D. - Credit Card</h4>
+                  <h5 className="text-xl font-bold text-[#2E2E2E] mb-2">Rashmi D. - Credit Card</h5>
                   <p className="text-gray-600 mb-6">"Forgot my payment due date while traveling. Got hit with a ₹1,200 late fee and interest. Sent a polite email to customer care explaining the oversight. Entire fee reversed in 48 hours."</p>
                   <div className="flex gap-3">
                     <span className="inline-block py-1 px-3 rounded-full bg-red-100 text-red-700 text-xs font-bold uppercase">Penalty: ₹1,200</span>
@@ -468,9 +468,9 @@ export default function LoanPenaltyWaiverRequest() {
             </section>
 
             <section id="faqs" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 Frequently Asked Questions
-              </h2>
+              </h3>
               <div className="space-y-4">
                 
                 <details name="faq-accordion" className="bg-white border border-[#DEDEDE] rounded-xl p-6 hover:shadow-md group cursor-pointer transition-shadow">
@@ -560,7 +560,7 @@ export default function LoanPenaltyWaiverRequest() {
             <div className="bg-[#2E2E2E] text-white p-12 rounded-[40px] text-center mt-24 relative overflow-hidden group">
               <div className="absolute inset-0 bg-[#1F5EFF] opacity-0 group-hover:opacity-5 transition-opacity"></div>
               <div className="relative z-10">
-                <h3 className="text-3xl md:text-4xl font-black mb-6">Tired of Paying Unfair Bank Penalties?</h3>
+                <h4 className="text-3xl md:text-4xl font-black mb-6">Tired of Paying Unfair Bank Penalties?</h4>
                 <p className="text-xl text-gray-300 mb-8 max-w-2xl mx-auto">
                   Did you know bank managers have the power to reverse 100% of your late fees? Stop paying excess charges and let our experts help you draft the perfect waiver request.
                 </p>

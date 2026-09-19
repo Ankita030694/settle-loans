@@ -189,9 +189,9 @@ export default function MissedEmiGuidePage() {
 
             {/* 5-Step Plan Section */}
             <section id="5-step-plan" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 5-Step Crisis Management Plan
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-8 text-[#4B5563]">
                 When you face a missed EMI, a structured approach is essential. Follow these five actionable steps to mitigate the damage and negotiate favorable terms.
               </p>
@@ -200,7 +200,7 @@ export default function MissedEmiGuidePage() {
                 <div className="flex gap-6">
                   <div className="flex-shrink-0 w-12 h-12 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center font-black text-xl shadow-lg">1</div>
                   <div>
-                    <h3 className="text-2xl font-bold text-[#2E2E2E] mb-3">Assess the Damage & Review Agreements</h3>
+                    <h4 className="text-2xl font-bold text-[#2E2E2E] mb-3">Assess the Damage & Review Agreements</h4>
                     <p className="text-lg leading-relaxed mb-0 text-[#4B5563]">Check your loan agreement for late payment penalties and grace periods. Understand exactly how much extra you owe and log into your banking portal to confirm the exact bounced date. Knowledge is your first line of defense.</p>
                   </div>
                 </div>
@@ -208,7 +208,7 @@ export default function MissedEmiGuidePage() {
                 <div className="flex gap-6">
                   <div className="flex-shrink-0 w-12 h-12 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center font-black text-xl shadow-lg">2</div>
                   <div>
-                    <h3 className="text-2xl font-bold text-[#2E2E2E] mb-3">Do Not Ignore Lender Communications</h3>
+                    <h4 className="text-2xl font-bold text-[#2E2E2E] mb-3">Do Not Ignore Lender Communications</h4>
                     <p className="text-lg leading-relaxed mb-0 text-[#4B5563]">Lenders prefer communication over silence. Answer calls from the bank, explain your situation truthfully, and state when you realistically expect to make the payment. Hiding from recovery agents only escalates the situation to legal notices.</p>
                   </div>
                 </div>
@@ -216,7 +216,7 @@ export default function MissedEmiGuidePage() {
                 <div className="flex gap-6">
                   <div className="flex-shrink-0 w-12 h-12 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center font-black text-xl shadow-lg">3</div>
                   <div>
-                    <h3 className="text-2xl font-bold text-[#2E2E2E] mb-3">Request a Grace Period or EMI Holiday</h3>
+                    <h4 className="text-2xl font-bold text-[#2E2E2E] mb-3">Request a Grace Period or EMI Holiday</h4>
                     <p className="text-lg leading-relaxed mb-0 text-[#4B5563]">If your default is due to temporary job loss or medical reasons, formally write to your branch manager requesting a short moratorium or EMI holiday. Banks have provisions to pause EMIs for genuine cases if notified early.</p>
                   </div>
                 </div>
@@ -224,7 +224,7 @@ export default function MissedEmiGuidePage() {
                 <div className="flex gap-6">
                   <div className="flex-shrink-0 w-12 h-12 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center font-black text-xl shadow-lg">4</div>
                   <div>
-                    <h3 className="text-2xl font-bold text-[#2E2E2E] mb-3">Explore Restructuring Options</h3>
+                    <h4 className="text-2xl font-bold text-[#2E2E2E] mb-3">Explore Restructuring Options</h4>
                     <p className="text-lg leading-relaxed mb-0 text-[#4B5563]">If you anticipate long-term financial strain, ask the bank to restructure your loan. This can involve extending the loan tenure to reduce the monthly EMI amount, making it manageable without further defaults.</p>
                   </div>
                 </div>
@@ -232,7 +232,7 @@ export default function MissedEmiGuidePage() {
                 <div className="flex gap-6">
                   <div className="flex-shrink-0 w-12 h-12 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center font-black text-xl shadow-lg">5</div>
                   <div>
-                    <h3 className="text-2xl font-bold text-[#2E2E2E] mb-3">Seek Professional Debt Counseling</h3>
+                    <h4 className="text-2xl font-bold text-[#2E2E2E] mb-3">Seek Professional Debt Counseling</h4>
                     <p className="text-lg leading-relaxed mb-0 text-[#4B5563]">If multiple loans are defaulting, it is time for professional financial planning after loan default. Debt settlement or restructuring experts can negotiate with banks on your behalf, often securing waivers on penalties.</p>
                   </div>
                 </div>
@@ -241,12 +241,12 @@ export default function MissedEmiGuidePage() {
 
             {/* Financial Planning After Default */}
             <section id="financial-planning" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 Financial Planning After Loan Default
-              </h2>
+              </h3>
               
               <div className="bg-blue-50 border-l-8 border-[#1F5EFF] p-8 rounded-r-2xl mb-8">
-                <h3 className="text-xl font-black text-[#1F5EFF] mb-4">Immediate Actions to Take</h3>
+                <h4 className="text-xl font-black text-[#1F5EFF] mb-4">Immediate Actions to Take</h4>
                 <p className="text-lg leading-relaxed mb-4 text-[#1F2937]">Once a default occurs, restructuring your monthly budget is critical. Prioritize your expenses to free up cash for clearing the arrears.</p>
                 <ul className="space-y-3">
                   <li className="flex items-start gap-3">
@@ -265,7 +265,7 @@ export default function MissedEmiGuidePage() {
               </div>
 
               <div className="bg-gray-50 p-8 rounded-2xl mb-8 border border-gray-200">
-                <h3 className="text-2xl font-bold text-[#2E2E2E] mb-4">Understanding the RBI Guidelines on Recovery</h3>
+                <h4 className="text-2xl font-bold text-[#2E2E2E] mb-4">Understanding the RBI Guidelines on Recovery</h4>
                 <p className="text-lg leading-relaxed mb-0 text-[#4B5563]">
                   Even if you miss an EMI, you have rights. Recovery agents cannot harass you, visit your home at odd hours (before 8 AM or after 7 PM), or contact your relatives and colleagues. If you face harassment, you can file a complaint with the banking ombudsman.
                 </p>
@@ -274,34 +274,34 @@ export default function MissedEmiGuidePage() {
 
             {/* Regain Credit Control */}
             <section id="regain-control" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 How to Regain Credit Control
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6 text-[#4B5563]">
                 A missed payment drops your CIBIL score quickly. However, consistent and disciplined action can rebuild it.
               </p>
 
               <div className="grid md:grid-cols-2 gap-6 my-8">
                 <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
-                  <h3 className="font-black text-[#1F5EFF] text-lg mb-3">Clear Overdue Immediately</h3>
+                  <h4 className="font-black text-[#1F5EFF] text-lg mb-3">Clear Overdue Immediately</h4>
                   <p className="text-base text-[#4B5563]">Paying the overdue amount along with the bounce charges within 30 days minimizes the long-term impact on your credit profile.</p>
                 </div>
                 <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
-                  <h4 className="font-black text-[#1F5EFF] text-lg mb-3">Automate Future Payments</h4>
+                  <h5 className="font-black text-[#1F5EFF] text-lg mb-3">Automate Future Payments</h5>
                   <p className="text-base text-[#4B5563]">Set up a NACH mandate or auto-debit from an account where your salary is credited to eliminate human error or forgetfulness.</p>
                 </div>
                 <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
-                  <h4 className="font-black text-[#1F5EFF] text-lg mb-3">Monitor Credit Reports</h4>
+                  <h5 className="font-black text-[#1F5EFF] text-lg mb-3">Monitor Credit Reports</h5>
                   <p className="text-base text-[#4B5563]">Regularly check your CIBIL report. Sometimes banks forget to update your status after you've paid the overdue amount. Dispute errors quickly.</p>
                 </div>
                 <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
-                  <h4 className="font-black text-[#1F5EFF] text-lg mb-3">Avoid New Credit</h4>
+                  <h5 className="font-black text-[#1F5EFF] text-lg mb-3">Avoid New Credit</h5>
                   <p className="text-base text-[#4B5563]">Do not apply for new credit cards or loans for at least 6 months after a default. Hard inquiries on a damaged score hurt it further.</p>
                 </div>
               </div>
 
               <div className="bg-red-50 p-6 rounded-xl border border-red-100 mb-8">
-                <h4 className="text-xl font-bold text-red-700 mb-3">Warning: The Danger of Minimum Dues</h4>
+                <h5 className="text-xl font-bold text-red-700 mb-3">Warning: The Danger of Minimum Dues</h5>
                 <p className="text-lg text-red-900 mb-0">
                   If the missed payment is on a credit card, paying only the "Minimum Amount Due" is a financial trap. It rolls over your principal balance at massive interest rates (36-42% annually). Always strive to clear the total outstanding amount or convert it into manageable EMIs.
                 </p>
@@ -310,9 +310,9 @@ export default function MissedEmiGuidePage() {
 
             {/* Success Stories */}
             <section id="success-stories" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 Client Success Stories
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-8 text-[#4B5563]">
                 See how borrowers who missed multiple EMIs partnered with experts to regain control over their financial lives.
               </p>
@@ -325,7 +325,7 @@ export default function MissedEmiGuidePage() {
                       RK
                     </div>
                     <div>
-                      <h3 className="font-bold text-[#2E2E2E]">Ramesh K.</h3>
+                      <h4 className="font-bold text-[#2E2E2E]">Ramesh K.</h4>
                       <div className="flex text-yellow-400">
                         {[...Array(5)].map((_, i) => (
                           <svg key={i} className="w-4 h-4 fill-current" viewBox="0 0 20 20"><path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z" /></svg>
@@ -349,7 +349,7 @@ export default function MissedEmiGuidePage() {
                       SM
                     </div>
                     <div>
-                      <h4 className="font-bold text-[#2E2E2E]">Sneha M.</h4>
+                      <h5 className="font-bold text-[#2E2E2E]">Sneha M.</h5>
                       <div className="flex text-yellow-400">
                         {[...Array(5)].map((_, i) => (
                           <svg key={i} className="w-4 h-4 fill-current" viewBox="0 0 20 20"><path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z" /></svg>
@@ -370,9 +370,9 @@ export default function MissedEmiGuidePage() {
 
             {/* FAQs */}
             <section id="faq" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 Frequently Asked Questions
-              </h2>
+              </h3>
               <div className="space-y-4">
                 {faqs.map((faq, index) => (
                   <details key={index} name="faq-accordion" className="bg-white border border-[#DEDEDE] rounded-xl p-6 hover:shadow-md group cursor-pointer transition-shadow">
@@ -396,7 +396,7 @@ export default function MissedEmiGuidePage() {
             <div id="consultation" className="bg-[#2E2E2E] text-white p-12 rounded-[40px] text-center mt-24 relative overflow-hidden group">
               <div className="absolute inset-0 bg-[#1F5EFF] opacity-0 group-hover:opacity-5 transition-opacity"></div>
               <div className="relative z-10">
-                <h3 className="text-3xl md:text-4xl font-black mb-6">Regain Your Financial Peace of Mind</h3>
+                <h4 className="text-3xl md:text-4xl font-black mb-6">Regain Your Financial Peace of Mind</h4>
                 <p className="text-lg md:text-xl text-gray-300 mb-8 max-w-2xl mx-auto">
                   Missed your first EMI and feeling overwhelmed? Take a deep breath and follow our 5-step crisis management guide to regain control of your finances. Speak to our experts for a personalized defense strategy.
                 </p>

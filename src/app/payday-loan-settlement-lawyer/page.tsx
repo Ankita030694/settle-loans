@@ -267,15 +267,15 @@ export default function PaydayLoanSettlementPage() {
                         </section>
 
                         <section id="illegal-apps-vs-legal" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
                                 Illegal Apps vs. Registered NBFCs: Know Your Enemy
-                            </h2>
+                            </h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 Not all loan apps are the same. Understanding the difference is critical for your legal defense. Legitimate apps are backed by RBI registered NBFCs. They follow (mostly) the rules, report to CIBIL, and use formal recovery channels. Illegal apps, often hosted on third-party websites or obscure corners of the Play Store, have no license, use Chinese servers, and rely entirely on blackmail.
                             </p>
                             <div className="grid md:grid-cols-2 gap-6 my-8">
                                 <div className="bg-gray-50 p-6 rounded-xl border border-gray-200">
-                                    <h3 className="font-bold text-xl mb-3 text-emerald-700">Registered Apps</h3>
+                                    <h4 className="font-bold text-xl mb-3 text-emerald-700">Registered Apps</h4>
                                     <ul className="space-y-2 text-sm">
                                         <li>• Linked to an RBI-Registered NBFC</li>
                                         <li>• Report to CIBIL/Experian</li>
@@ -285,7 +285,7 @@ export default function PaydayLoanSettlementPage() {
                                     </ul>
                                 </div>
                                 <div className="bg-red-50 p-6 rounded-xl border border-red-100">
-                                    <h3 className="font-bold text-xl mb-3 text-red-700">Predatory/Illegal Apps</h3>
+                                    <h4 className="font-bold text-xl mb-3 text-red-700">Predatory/Illegal Apps</h4>
                                     <ul className="space-y-2 text-sm">
                                         <li>• No NBFC tie-up found</li>
                                         <li>• 7 or 15 day 'payday' cycles</li>
@@ -301,25 +301,25 @@ export default function PaydayLoanSettlementPage() {
                         </section>
 
                         <section id="harassment-tactics" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
                                 Ending the Psychological Warfare: Stopping App Harassment
-                            </h2>
+                            </h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 The recovery agents for these apps are trained in 'psychological breakdown.' They use spoofed numbers to call you 200 times a day. They create WhatsApp groups with your contacts. They may even send morphed photos to your family. This is a severe violation of the Right to Privacy (Article 21) and constitutes multiple offenses under the IPC and Information Technology Act.
                             </p>
                             <div className="bg-[#2E2E2E] text-white p-8 rounded-2xl mb-8">
-                                <h3 className="text-2xl font-bold mb-4">The SettleLoans 'Anti-Harassment' Protocol</h3>
+                                <h4 className="text-2xl font-bold mb-4">The SettleLoans 'Anti-Harassment' Protocol</h4>
                                 <div className="space-y-6">
                                     <div>
-                                        <h4 className="font-bold text-[#E11D48] mb-1">Step 1: Notice of Representation</h4>
+                                        <h5 className="font-bold text-[#E11D48] mb-1">Step 1: Notice of Representation</h5>
                                         <p className="text-sm opacity-80">We serve a legal notice to the app's parent company and NBFC, informing them that you are now represented by counsel. All further communication must go through our legal desk.</p>
                                     </div>
                                     <div>
-                                        <h4 className="font-bold text-[#E11D48] mb-1">Step 2: Cyber Cell Escalation</h4>
+                                        <h5 className="font-bold text-[#E11D48] mb-1">Step 2: Cyber Cell Escalation</h5>
                                         <p className="text-sm opacity-80">If harassment continues, we file a formal complaint with the National Cyber Crime portal and escalate it to the nodal officer of the relevant state Cyber Cell.</p>
                                     </div>
                                     <div>
-                                        <h4 className="font-bold text-[#E11D48] mb-1">Step 3: Injunction & Cease and Desist</h4>
+                                        <h5 className="font-bold text-[#E11D48] mb-1">Step 3: Injunction & Cease and Desist</h5>
                                         <p className="text-sm opacity-80">We use the RBI Ombudsman and formal legal petitions to stop unauthorized data usage, forcing the app to delete your contact data from their servers.</p>
                                     </div>
                                 </div>
@@ -327,9 +327,9 @@ export default function PaydayLoanSettlementPage() {
                         </section>
 
                         <section id="contact-list-protection" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
                                 Your Contact List is Not a Recovery Tool: Protecting Your Reputation
-                            </h2>
+                            </h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 One of the most effective tools used by payday loan apps is 'Social Shaming.' By accessing your contact list during the app installation, they gain the power to broadcast your debt to your parents, boss, and friends. This is strictly illegal according to the RBI's Digital Lending Guidelines issued in September 2022.
                             </p>
@@ -339,9 +339,9 @@ export default function PaydayLoanSettlementPage() {
                         </section>
 
                         <section id="rbi-digital-lend" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
                                 The RBI Shield: Digital Lending Guidelines 2024
-                            </h2>
+                            </h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 The RBI has tightened the noose around predatory loan apps. The latest guidelines mandate that:
                             </p>
@@ -377,13 +377,13 @@ export default function PaydayLoanSettlementPage() {
                         </section>
 
                         <section id="settlement-mechanics" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 uppercase tracking-tighter">The Mechanics of Payday Loan Settlement</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 uppercase tracking-tighter">The Mechanics of Payday Loan Settlement</h3>
                             <p className="mb-6">
                                 How do you actually get out of the debt? Through a professional 'Settlement Negotiation.' Once we stop the harassment, we approach the lenders with a formal settlement proposal. For online loans, the goal is a 'One-Time Settlement' (OTS) where you pay the principal and a small, fair portion of the interest, and the lender provides a 'No Dues Certificate.'
                             </p>
                             <div className="bg-white p-8 rounded-2xl border border-[#DEDEDE] shadow-sm mb-8 relative overflow-hidden">
                                 <span className="absolute top-4 right-4 text-gray-100 font-black text-6xl select-none">OTS</span>
-                                <h3 className="text-xl font-black text-[#1F5EFF] mb-4 uppercase">The Power of Principal-Only Settlement</h3>
+                                <h4 className="text-xl font-black text-[#1F5EFF] mb-4 uppercase">The Power of Principal-Only Settlement</h4>
                                 <p className="leading-relaxed mb-4">
                                     In fraud cases, we often push for 'Principal Only' settlements. Since many apps have already collected 30-40% as upfront fees, paying the remaining principal is more than enough to satisfy the legal definition of debt repayment. We've closed thousands of files where the illegal interest and penalties were waived 100%.
                                 </p>
@@ -391,7 +391,7 @@ export default function PaydayLoanSettlementPage() {
                         </section>
 
                         <section id="criminal-statutes" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 text-center text-red-600">Criminal Statutes for Your Defense</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 text-center text-red-600">Criminal Statutes for Your Defense</h3>
                             <p className="mb-6">
                                 If you are being threatened, the law is on your side. We help you file complaints under specific sections of the Indian Penal Code (IPC) and the new Bharatiya Nyaya Sanhita (BNS):
                             </p>
@@ -416,21 +416,21 @@ export default function PaydayLoanSettlementPage() {
                         </section>
 
                         <section id="debt-rebuild" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Rebuilding Your Credit Score</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Rebuilding Your Credit Score</h3>
                             <p className="mb-6">
                                 A settled loan is better than an open default, but it still leaves a mark on your CIBIL. At SettleLoans, we provide more than just a lawyer; we provide a 'Credit Architect.' Once the apps are settled, we help you remove incorrect entries, dispute 'Written-off' statuses that should be 'Settled,' and give you a month-by-month plan to get back to a 750+ score.
                             </p>
                         </section>
 
                         <section id="forensic-audit" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Financial Forensic Audit for Loan Victims</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Financial Forensic Audit for Loan Victims</h3>
                             <p className="mb-6">
                                 Often, victims don't even know how many loans they have. Cyber-criminals use your identity to take loans in other apps. As part of our service, we conduct a 'Financial Forensic Audit.' We scan your credit reports, bank statements, and even SMS logs to find hidden debts and ensure that when we settle your case, we settle ALL of it. Nothing is left to haunt you later.
                             </p>
                         </section>
 
                         <section id="legal-representation" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">The Professional Advantage: Why You Need SettleLoans</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">The Professional Advantage: Why You Need SettleLoans</h3>
                             <p className="mb-6">
                                 Why hire a lawyer for a ₹10,000 loan? Because it's not about the money; it's about the security of your future. A lawyer is a 'Shield.' When a professional firm like SettleLoans enters the picture, the lenders know that the 'Easy Target' is now a 'Hard Fortress.' The harassment stops because it becomes a legal liability for the lender.
                             </p>
@@ -440,7 +440,7 @@ export default function PaydayLoanSettlementPage() {
                         </section>
 
                         <section id="document-security" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Data Security Guide for Borrowers</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Data Security Guide for Borrowers</h3>
                             <div className="bg-blue-50 p-8 rounded-2xl border border-blue-100">
                                 <p className="mb-4 text-blue-900 font-bold">IMMEDIATE STEPS TO PROTECT YOUR DATA:</p>
                                 <ul className="space-y-4 text-blue-800">
@@ -465,7 +465,7 @@ export default function PaydayLoanSettlementPage() {
                         </section>
 
                         <section id="case-studies" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 text-center text-[#E11D48]">Victory Reports: Loan App Victims Freed</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 text-center text-[#E11D48]">Victory Reports: Loan App Victims Freed</h3>
                             <div className="grid md:grid-cols-2 gap-6 not-prose">
                                 {[
                                     { name: "Rahul J.", loc: "Delhi", type: "Multiple App Debt", savings: "₹1.4 Lakhs", story: "Took one loan of 5k, ended up with 30 apps and 2L debt. SettleLoans stopped the harassment in 1 day and settled everything for 60k." },
@@ -479,7 +479,7 @@ export default function PaydayLoanSettlementPage() {
                                                 {review.name.charAt(0)}
                                             </div>
                                             <div>
-                                                <h3 className="font-bold text-[#2E2E2E]">{review.name}</h3>
+                                                <h4 className="font-bold text-[#2E2E2E]">{review.name}</h4>
                                                 <p className="text-xs text-gray-400">{review.loc}</p>
                                             </div>
                                             <div className="ml-auto text-yellow-400 text-sm">★★★★★</div>
@@ -494,7 +494,7 @@ export default function PaydayLoanSettlementPage() {
                         </section>
 
                         <section id="faqs" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Payday Loan Legal Help: Your Questions Answered</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Payday Loan Legal Help: Your Questions Answered</h3>
                             <div className="space-y-4 not-prose">
                                 {[
                                     { q: "Can a loan app really access my deleted contacts?", a: "If you gave them permission during installation, they already synced your contacts to their cloud servers. Uninstalling doesn't delete their copy. However, our legal notices force them to delete this data under privacy laws." },
@@ -531,7 +531,7 @@ export default function PaydayLoanSettlementPage() {
                         <div className="lg:hidden mt-16 mb-8">
                             <div className="bg-[#2E2E2E] rounded-2xl shadow-xl overflow-hidden border border-[#1F5EFF]/20">
                                 <div className="bg-[#1F5EFF] p-6 text-center text-white">
-                                    <h3 className="text-2xl font-black mb-2">Trapped in App Debt?</h3>
+                                    <h4 className="text-2xl font-black mb-2">Trapped in App Debt?</h4>
                                     <p className="opacity-90 text-sm">Join 50,000+ Indians we've helped escape predatory loan apps.</p>
                                 </div>
                                 <div className="p-8 text-center text-[#DEDEDE]">

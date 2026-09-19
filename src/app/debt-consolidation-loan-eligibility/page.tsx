@@ -278,7 +278,7 @@ export default function DebtConsolidationEligibilityPage() {
                         </section>
 
                         <section id="what-is-consolidation" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">Decoding Debt Consolidation: More Than Just a Loan</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">Decoding Debt Consolidation: More Than Just a Loan</h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 Debt consolidation is not merely another loan added to your pile of liabilities; it is a strategic financial tool used to simplify your life. The mechanism is straightforward: you take out a new loan, usually at a lower interest rate, and use that capital to pay off all your existing high-interest debts.
                             </p>
@@ -291,25 +291,25 @@ export default function DebtConsolidationEligibilityPage() {
                         </section>
 
                         <section id="standard-criteria" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">The Standard Eligibility Checklist: Are You Ready?</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">The Standard Eligibility Checklist: Are You Ready?</h3>
                             <p className="text-lg leading-relaxed mb-8">
                                 Before looking at the complex financial ratios, every borrower must meet the basic entry requirements set by Indian banks and NBFCs. These are the non-negotiables that form the foundation of your application.
                             </p>
                             <div className="space-y-6 mb-10">
                                 <div className="p-8 bg-gray-50 border-l-8 border-[#1F5EFF] rounded-r-2xl shadow-sm">
-                                    <h3 className="font-bold text-2xl mb-4 text-[#2E2E2E]">Nationality and Residency</h3>
+                                    <h4 className="font-bold text-2xl mb-4 text-[#2E2E2E]">Nationality and Residency</h4>
                                     <p className="text-base text-gray-700 leading-relaxed mb-4">
                                         The primary requirement is that you must be an Indian citizen and a resident of the country. Lenders need to ensure that the borrower is within the legal jurisdiction of Indian recovery laws.
                                     </p>
                                 </div>
                                 <div className="p-8 bg-gray-50 border-l-8 border-[#1F5EFF] rounded-r-2xl shadow-sm">
-                                    <h4 className="font-bold text-2xl mb-4 text-[#2E2E2E]">Age Bracket</h4>
+                                    <h5 className="font-bold text-2xl mb-4 text-[#2E2E2E]">Age Bracket</h5>
                                     <p className="text-base text-gray-700 leading-relaxed mb-4">
                                         Most lenders require you to be at least 21 years old at the time of application and no older than 60 to 65 years by the time the loan tenure ends. This range ensures that you have the active working years required to repay the debt.
                                     </p>
                                 </div>
                                 <div className="p-8 bg-gray-50 border-l-8 border-[#1F5EFF] rounded-r-2xl shadow-sm">
-                                    <h4 className="font-bold text-2xl mb-4 text-[#2E2E2E]">Income Threshold</h4>
+                                    <h5 className="font-bold text-2xl mb-4 text-[#2E2E2E]">Income Threshold</h5>
                                     <p className="text-base text-gray-700 leading-relaxed mb-4">
                                         Your net monthly income is a critical indicator. While some fintech apps might consider a salary as low as 15,000 rupees, major banks like HDFC or ICICI usually require a minimum net income of 25,000 to 35,000 rupees for a consolidation loan.
                                     </p>
@@ -318,7 +318,7 @@ export default function DebtConsolidationEligibilityPage() {
                         </section>
 
                         <section id="employment-factor" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">Employment Stability: Why Your Boss Matters to Your Lender</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">Employment Stability: Why Your Boss Matters to Your Lender</h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 Lenders are risk-averse. They want to be absolutely sure that your income stream will not vanish halfway through the loan term. This is why employment stability is a massive part of the eligibility puzzle.
                             </p>
@@ -331,37 +331,37 @@ export default function DebtConsolidationEligibilityPage() {
                         </section>
 
                         <section id="cibil-importance" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">The CIBIL Factor: The Heartbeat of Your Loan Application</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">The CIBIL Factor: The Heartbeat of Your Loan Application</h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 In India, your credit score is your financial identity. The Credit Information Bureau (India) Limited, or CIBIL, provides the most widely used score. For a debt consolidation loan, your score is more than just a number; it is a story of your past financial behavior.
                             </p>
                             <div className="grid md:grid-cols-2 gap-8 mb-10">
                                 <div className="p-6 bg-white border border-[#DEDEDE] rounded-xl">
-                                    <h3 className="font-bold text-[#1F5EFF] mb-3">750 and Above: The Green Zone</h3>
+                                    <h4 className="font-bold text-[#1F5EFF] mb-3">750 and Above: The Green Zone</h4>
                                     <p className="text-sm">A score in this range makes you an ideal candidate. You are in a strong position to negotiate for lower interest rates and higher loan amounts. Lenders view you as a low-risk borrower who is likely to use consolidation responsibly.</p>
                                 </div>
                                 <div className="p-6 bg-white border border-[#DEDEDE] rounded-xl">
-                                    <h4 className="font-bold text-[#1F5EFF] mb-3">650 to 749: The Caution Zone</h4>
+                                    <h5 className="font-bold text-[#1F5EFF] mb-3">650 to 749: The Caution Zone</h5>
                                     <p className="text-sm">You are still eligible, but the terms might not be as favorable. You might face higher processing fees or slightly elevated interest rates. Lenders will look more closely at your income and employer profile to balance the risk.</p>
                                 </div>
                                 <div className="p-6 bg-white border border-[#DEDEDE] rounded-xl">
-                                    <h4 className="font-bold text-[#1F5EFF] mb-3">Below 650: The High-Risk Zone</h4>
+                                    <h5 className="font-bold text-[#1F5EFF] mb-3">Below 650: The High-Risk Zone</h5>
                                     <p className="text-sm">Approval becomes difficult here. Traditional banks might reject the application outright. You may need to look at NBFCs or consider adding a co-applicant with a better score to meet the eligibility criteria.</p>
                                 </div>
                                 <div className="p-6 bg-white border border-[#DEDEDE] rounded-xl">
-                                    <h4 className="font-bold text-[#1F5EFF] mb-3">The 'Settled' Trap</h4>
+                                    <h5 className="font-bold text-[#1F5EFF] mb-3">The 'Settled' Trap</h5>
                                     <p className="text-sm">If your credit report shows even one loan as 'Settled' instead of 'Closed', it can kill your eligibility. A settlement means you did not pay the full amount, which scares away new lenders. We help clients resolve these specific entries.</p>
                                 </div>
                             </div>
                         </section>
 
                         <section id="dti-ratio" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">Debt-to-Income Ratio: The Invisible Scale</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">Debt-to-Income Ratio: The Invisible Scale</h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 The Debt-to-Income (DTI) ratio is perhaps the most misunderstood aspect of eligibility. Lenders use this to calculate how much "breathing room" you have in your budget. If you earn 1,00,000 rupees and 60,000 goes into existing EMIs, your DTI is 60 percent.
                             </p>
                             <div className="bg-blue-50 p-8 rounded-xl border border-blue-200 my-8">
-                                <h3 className="font-bold text-blue-900 mb-4 text-xl">The 40 Percent Magic Number</h3>
+                                <h4 className="font-bold text-blue-900 mb-4 text-xl">The 40 Percent Magic Number</h4>
                                 <p className="text-base text-blue-800 leading-relaxed mb-4">
                                     Most conservative lenders in India want your total monthly debt obligations to be below 40 percent of your net income. This includes the new consolidation loan EMI. If your DTI is too high, it signals to the lender that you are "over-leveraged" and at high risk of defaulting.
                                 </p>
@@ -372,7 +372,7 @@ export default function DebtConsolidationEligibilityPage() {
                         </section>
 
                         <section id="documentation" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">Financial Documentation: Proving Your Worth</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">Financial Documentation: Proving Your Worth</h3>
                             <p className="text-lg leading-relaxed mb-6 font-bold">
                                 Your application is only as strong as the papers backing it.
                             </p>
@@ -402,7 +402,7 @@ export default function DebtConsolidationEligibilityPage() {
                         </section>
 
                         <section id="repayment-history" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">Repayment History Analysis: A Mirror to Your Discipline</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">Repayment History Analysis: A Mirror to Your Discipline</h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 Lenders look back at your last 24 to 36 months of repayment history. Even if your current income is high and your CIBIL score is decent, a pattern of delayed payments (DPD - Days Past Due) in the recent past can hurt your eligibility.
                             </p>
@@ -412,12 +412,12 @@ export default function DebtConsolidationEligibilityPage() {
                         </section>
 
                         <section id="banks-vs-nbfcs" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">Banks vs NBFCs: Where Do You Fit?</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">Banks vs NBFCs: Where Do You Fit?</h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 Your eligibility might vary significantly depending on the type of lender you approach.
                             </p>
                             <div className="bg-[#1F5EFF]/5 p-8 rounded-3xl border border-[#1F5EFF]/20 mb-10">
-                                <h3 className="text-2xl font-black text-[#2E2E2E] mb-6">Choosing the Right Path</h3>
+                                <h4 className="text-2xl font-black text-[#2E2E2E] mb-6">Choosing the Right Path</h4>
                                 <ol className="space-y-4 text-base font-medium">
                                     <li className="flex items-start gap-3">
                                         <span className="w-6 h-6 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center text-xs flex-shrink-0 mt-1">1</span>
@@ -436,7 +436,7 @@ export default function DebtConsolidationEligibilityPage() {
                         </section>
 
                         <section id="unsecured-vs-secured" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">The Role of Collateral: Unsecured vs Secured Consolidation</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">The Role of Collateral: Unsecured vs Secured Consolidation</h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 Most debt consolidation loans are unsecured, meaning you don't need to provide any collateral. However, if your debt amount is very high (above 25 to 30 lakhs) or your CIBIL score is low, you might need to look at secured options to meet eligibility.
                             </p>
@@ -446,7 +446,7 @@ export default function DebtConsolidationEligibilityPage() {
                         </section>
 
                         <section id="psychology-debt" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">Financial Psychology: Preparing for a Fresh Start</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">Financial Psychology: Preparing for a Fresh Start</h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 Beyond the numbers, lenders occasionally assess your "financial mindset." During personal discussions or calls, your clarity on how you fell into debt and how you plan to stay out of it matters. Debt consolidation is a lifestyle change, not just a financial transaction.
                             </p>
@@ -456,7 +456,7 @@ export default function DebtConsolidationEligibilityPage() {
                         </section>
 
                         <section id="boost-eligibility" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">Actionable Strategies to Boost Your Eligibility</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">Actionable Strategies to Boost Your Eligibility</h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 If you find that you are on the borderline of qualifying, don't lose heart. There are several steps you can take to move the needle in your favor.
                             </p>
@@ -491,7 +491,7 @@ export default function DebtConsolidationEligibilityPage() {
                         </section>
 
                         <section id="common-pitfalls" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">Common Pitfalls to Avoid in the Process</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">Common Pitfalls to Avoid in the Process</h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 Rejection is not just a "no"; it is a footprint on your credit report. Every time you apply for a loan, a "hard inquiry" is made. Multiple hard inquiries in a short period can drop your score by several points, making you look desperate for credit.
                             </p>
@@ -501,7 +501,7 @@ export default function DebtConsolidationEligibilityPage() {
                         </section>
 
                         <section id="helpful-resources" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">Helpful Resources from Our Experts</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">Helpful Resources from Our Experts</h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 If you are looking for more specific information related to debt management and credit health, explore these detailed guides from our internal knowledge base:
                             </p>
@@ -516,7 +516,7 @@ export default function DebtConsolidationEligibilityPage() {
                         </section>
 
                         <section id="reviews" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 text-center">Success Stories: Real Results</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 text-center">Success Stories: Real Results</h3>
                             <div className="grid md:grid-cols-2 gap-10 not-prose">
                                 {[
                                     {
@@ -554,7 +554,7 @@ export default function DebtConsolidationEligibilityPage() {
                                         <div className="flex items-center mb-4">
                                             <div className="w-10 h-10 rounded-full bg-blue-100 flex items-center justify-center font-bold text-blue-600 mr-3">{review.name.split(' ')[0][0]}</div>
                                             <div>
-                                                <h3 className="font-bold text-[#2E2E2E]">{review.name}</h3>
+                                                <h4 className="font-bold text-[#2E2E2E]">{review.name}</h4>
                                                 <p className="text-xs text-gray-400">{review.loc}</p>
                                             </div>
                                             <div className="ml-auto text-yellow-400 text-sm">★★★★★</div>
@@ -569,7 +569,7 @@ export default function DebtConsolidationEligibilityPage() {
                         </section>
 
                         <section id="faqs" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Frequently Asked Questions</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Frequently Asked Questions</h3>
                             <div className="space-y-6 not-prose">
                                 {[
                                     { q: "What is the minimum CIBIL score for debt consolidation loan eligibility?", a: "Most banks in India prefer a CIBIL score of 750 or above for debt consolidation loans. However, some NBFCs may consider scores between 650 and 700 at higher interest rates." },
@@ -597,7 +597,7 @@ export default function DebtConsolidationEligibilityPage() {
                         </section>
 
                         <div className="mt-16 p-8 bg-[#1F5EFF] rounded-3xl text-white text-center">
-                            <h2 className="text-3xl font-black mb-6">Start Your Journey to Financial Freedom</h2>
+                            <h3 className="text-3xl font-black mb-6">Start Your Journey to Financial Freedom</h3>
                             <p className="text-xl mb-8 opacity-90">
                                 Don't let multiple EMIs control your life. Take the first step toward consolidation today.
                             </p>

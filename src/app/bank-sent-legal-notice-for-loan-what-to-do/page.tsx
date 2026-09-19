@@ -244,7 +244,7 @@ export default function BankLegalNoticeGuidePage() {
                             </p>
                             <div className="bg-gray-900 p-10 rounded-[32px] text-white my-12 shadow-2xl relative overflow-hidden">
                                 <div className="absolute top-0 right-0 w-32 h-32 bg-blue-500/10 rounded-full -mr-16 -mt-16 blur-2xl"></div>
-                                <h3 className="text-2xl font-black mb-6 uppercase tracking-widest text-[#1F5EFF]">Step 1: Verification</h3>
+                                <h4 className="text-2xl font-black mb-6 uppercase tracking-widest text-[#1F5EFF]">Step 1: Verification</h4>
                                 <p className="text-lg opacity-80 leading-relaxed font-medium">
                                     Check the date, the dispatch address, and the specific loan account number. Banks often engage multiple recovery agencies; ensure the notice is from an authorized legal representative. Compare the outstanding amount mentioned with your own records. Discrepancies here are your first line of defense.
                                 </p>
@@ -252,32 +252,32 @@ export default function BankLegalNoticeGuidePage() {
                         </section>
 
                         <section id="types-of-loan-notices" className="scroll-mt-32 mb-20">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 uppercase tracking-widest border-b-8 border-gray-100 pb-4">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 uppercase tracking-widest border-b-8 border-gray-100 pb-4">
                                 Deciphering the Threat: Types of Bank Notices
-                            </h2>
+                            </h3>
                             <p className="mb-8 font-medium">
                                 Not all notices are created equal. Understanding the statute under which you are being summoned is critical for your reply strategy.
                             </p>
                             <div className="grid md:grid-cols-3 gap-6 my-12">
                                 <div className="p-8 bg-white border-2 border-gray-100 rounded-[40px] shadow-sm hover:border-[#1F5EFF]/50 transition-all group">
-                                    <h3 className="text-xl font-black text-[#2E2E2E] mb-4 uppercase group-hover:text-[#1F5EFF]">Demand Notice</h3>
+                                    <h4 className="text-xl font-black text-[#2E2E2E] mb-4 uppercase group-hover:text-[#1F5EFF]">Demand Notice</h4>
                                     <p className="text-xs leading-relaxed font-bold opacity-70">A general notice demanding repayment of arrears. Usually the first step before NPA classification.</p>
                                 </div>
                                 <div className="p-8 bg-white border-2 border-gray-100 rounded-[40px] shadow-sm hover:border-[#1F5EFF]/50 transition-all group">
-                                    <h4 className="text-xl font-black text-[#2E2E2E] mb-4 uppercase group-hover:text-[#1F5EFF]">SARFAESI 13(2)</h4>
+                                    <h5 className="text-xl font-black text-[#2E2E2E] mb-4 uppercase group-hover:text-[#1F5EFF]">SARFAESI 13(2)</h5>
                                     <p className="text-xs leading-relaxed font-bold opacity-70">Specific to secured loans. It signals the bank's intent to seize collateral if dues aren't cleared in 60 days.</p>
                                 </div>
                                 <div className="p-8 bg-white border-2 border-gray-100 rounded-[40px] shadow-sm hover:border-[#1F5EFF]/50 transition-all group">
-                                    <h4 className="text-xl font-black text-[#2E2E2E] mb-4 uppercase group-hover:text-[#1F5EFF]">Section 138 Nia</h4>
+                                    <h5 className="text-xl font-black text-[#2E2E2E] mb-4 uppercase group-hover:text-[#1F5EFF]">Section 138 Nia</h5>
                                     <p className="text-xs leading-relaxed font-bold opacity-70">Issued when a cheque submitted for EMI payment bounces. This carries criminal implications.</p>
                                 </div>
                             </div>
                         </section>
 
                         <section id="understanding-your-rights" className="scroll-mt-32 mb-20">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 border-l-8 border-[#1F5EFF] pl-6 uppercase tracking-tighter italic">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 border-l-8 border-[#1F5EFF] pl-6 uppercase tracking-tighter italic">
                                 The Bill of Rights for Borrowers
-                            </h2>
+                            </h3>
                             <p className="mb-8 leading-relaxed">
                                 Being in debt does not make you a criminal. The Indian legal system and the Reserve Bank of India (RBI) have established strict protocols to protect borrowers from predatory practices.
                             </p>
@@ -288,21 +288,21 @@ export default function BankLegalNoticeGuidePage() {
                                 <li className="flex items-start gap-4 p-6 bg-blue-50 rounded-2xl border border-blue-100">
                                     <div className="bg-[#1F5EFF] text-white w-8 h-8 rounded-full flex items-center justify-center font-black shrink-0 mt-1">1</div>
                                     <div>
-                                        <h3 className="font-black uppercase text-[#2E2E2E] mb-1">Right to Privacy</h3>
+                                        <h4 className="font-black uppercase text-[#2E2E2E] mb-1">Right to Privacy</h4>
                                         <p className="text-sm font-medium">Banks cannot disclose your debt status to neighbors, employers, or extended family. Any 'Public Notice' must follow strict legal procedures.</p>
                                     </div>
                                 </li>
                                 <li className="flex items-start gap-4 p-6 bg-blue-50 rounded-2xl border border-blue-100">
                                     <div className="bg-[#1F5EFF] text-white w-8 h-8 rounded-full flex items-center justify-center font-black shrink-0 mt-1">2</div>
                                     <div>
-                                        <h4 className="font-black uppercase text-[#2E2E2E] mb-1">Right to Fair Treatment</h4>
+                                        <h5 className="font-black uppercase text-[#2E2E2E] mb-1">Right to Fair Treatment</h5>
                                         <p className="text-sm font-medium">Harassment, verbal abuse, or physical intimidation by recovery agents is a violation of the RBI Fair Practices Code.</p>
                                     </div>
                                 </li>
                                 <li className="flex items-start gap-4 p-6 bg-blue-50 rounded-2xl border border-blue-100">
                                     <div className="bg-[#1F5EFF] text-white w-8 h-8 rounded-full flex items-center justify-center font-black shrink-0 mt-1">3</div>
                                     <div>
-                                        <h5 className="font-black uppercase text-[#2E2E2E] mb-1">Right to Adequate Notice</h5>
+                                        <h6 className="font-black uppercase text-[#2E2E2E] mb-1">Right to Adequate Notice</h6>
                                         <p className="text-sm font-medium">You must be given a reasonable timeframe (usually 15 to 60 days depending on the act) to respond or rectify the default.</p>
                                     </div>
                                 </li>
@@ -311,9 +311,9 @@ export default function BankLegalNoticeGuidePage() {
 
                         <section id="sarfaesi-act-seizure" className="scroll-mt-32 mb-20 p-12 bg-red-50 rounded-[48px] border-2 border-red-100 relative overflow-hidden shadow-sm">
                             <div className="absolute top-0 right-0 w-48 h-48 bg-red-500/5 rounded-full -mr-24 -mt-24 blur-3xl"></div>
-                            <h2 className="text-3xl md:text-4xl font-black text-red-900 mb-8 uppercase italic leading-none">
+                            <h3 className="text-3xl md:text-4xl font-black text-red-900 mb-8 uppercase italic leading-none">
                                 SARFAESI Defense: Protecting Your Property
-                            </h2>
+                            </h3>
                             <p className="mb-8 text-lg font-medium text-red-800 leading-relaxed">
                                 For home or business loans, the SARFAESI Act, 2002 is the most powerful tool in the bank's arsenal. It allows lenders to take possession of and sell assets without a traditional court order once an account is classified as an NPA.
                             </p>
@@ -321,38 +321,38 @@ export default function BankLegalNoticeGuidePage() {
                                 However, this power is not absolute. If you receive a <strong>Section 13(2) notice</strong>, you have the right to file an objection. If the bank does not provide a reasoned response to your objection within 15 days, their subsequent actions can be challenged in the <strong>Debt Recovery Tribunal (DRT)</strong>. Knowledge of these procedural lapses often helps in stalling seizures and forcing the bank back to the negotiation table.
                             </p>
                             <div className="bg-white p-8 rounded-3xl border border-red-200">
-                                <h3 className="text-xl font-black text-red-900 mb-4 uppercase">The "NPA Classification" Check</h3>
+                                <h4 className="text-xl font-black text-red-900 mb-4 uppercase">The "NPA Classification" Check</h4>
                                 <p className="text-sm italic font-bold text-red-700">Was your account classified as an NPA exactly after 90 days of default? Did the bank follow the RBI's Asset Classification norms? If not, the notice is legally void.</p>
                             </div>
                         </section>
 
                         <section id="drafting-legal-reply" className="scroll-mt-32 mb-20 mt-20">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 uppercase tracking-widest decoration-[#1F5EFF] underline underline-offset-8">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 uppercase tracking-widest decoration-[#1F5EFF] underline underline-offset-8">
                                 The Art of the Reply: Drafting Your Response
-                            </h2>
+                            </h3>
                             <p className="mb-8 leading-relaxed">
                                 A legal notice is not just a threat; it is a document that will be placed before a judge if the matter escalates. Your reply must be strategic, documenting your hardship and the bank's failures, if any.
                             </p>
                             <div className="space-y-6 my-12">
                                 <div className="p-8 bg-gray-50 rounded-[40px] border border-gray-100 hover:shadow-lg transition-shadow">
-                                    <h3 className="text-xl font-black text-[#1F5EFF] mb-4 uppercase">1. Denying False Claims</h3>
+                                    <h4 className="text-xl font-black text-[#1F5EFF] mb-4 uppercase">1. Denying False Claims</h4>
                                     <p className="text-sm leading-relaxed font-medium italic">If the interest rates mentioned are higher than the contract or if penal charges have been unfairly added, explicitly deny them in your reply.</p>
                                 </div>
                                 <div className="p-8 bg-gray-50 rounded-[40px] border border-gray-100 hover:shadow-lg transition-shadow">
-                                    <h4 className="text-xl font-black text-[#1F5EFF] mb-4 uppercase">2. Documenting Hardship</h4>
+                                    <h5 className="text-xl font-black text-[#1F5EFF] mb-4 uppercase">2. Documenting Hardship</h5>
                                     <p className="text-sm leading-relaxed font-medium italic">Whether it's medical emergency, job loss, or business downturn, creating a 'Hardship Record' shows you are a genuine borrower, not a wilful defaulter.</p>
                                 </div>
                                 <div className="p-8 bg-gray-50 rounded-[40px] border border-gray-100 hover:shadow-lg transition-shadow">
-                                    <h4 className="text-xl font-black text-[#1F5EFF] mb-4 uppercase">3. Proposing a Solution</h4>
+                                    <h5 className="text-xl font-black text-[#1F5EFF] mb-4 uppercase">3. Proposing a Solution</h5>
                                     <p className="text-sm leading-relaxed font-medium italic">A good reply always ends with a proposal. Whether it is a request for a moratorium, an extension of tenure, or a settlement, it shows your intent to resolve.</p>
                                 </div>
                             </div>
                         </section>
 
                         <section id="negotiation-and-ots" className="scroll-mt-32 mb-20">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 uppercase tracking-tighter leading-[0.9]">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 uppercase tracking-tighter leading-[0.9]">
                                 Beyond the Courtroom: Negotiation & One-Time Settlement (OTS)
-                            </h2>
+                            </h3>
                             <p className="mb-8 text-xl font-medium leading-relaxed italic opacity-80">
                                 "Litigation is expensive for you, but it is also slow and costly for the bank."
                             </p>
@@ -364,11 +364,11 @@ export default function BankLegalNoticeGuidePage() {
                             </p>
                             <div className="grid md:grid-cols-2 gap-8 my-12">
                                 <div className="p-10 bg-[#1F5EFF] text-white rounded-[48px] shadow-xl">
-                                    <h3 className="text-2xl font-black mb-4 uppercase italic">The Restructuring Option</h3>
+                                    <h4 className="text-2xl font-black mb-4 uppercase italic">The Restructuring Option</h4>
                                     <p className="text-sm leading-relaxed opacity-90 font-medium">Don't want to close the loan but can't pay the current EMI? We help you petition for a 'Tenure Extension' or 'Interest Waiver' using RBI's recent resolution frameworks.</p>
                                 </div>
                                 <div className="p-10 bg-[#2E2E2E] text-white rounded-[48px] shadow-xl">
-                                    <h4 className="text-2xl font-black mb-4 uppercase italic">The Waiver Protocol</h4>
+                                    <h5 className="text-2xl font-black mb-4 uppercase italic">The Waiver Protocol</h5>
                                     <p className="text-sm leading-relaxed opacity-90 font-medium">Often, the 'Penal Interest' and 'Processing Fees' make up a large chunk of the demand. We identify these 'Soft Costs' and negotiate for their complete waiver.</p>
                                 </div>
                             </div>
@@ -376,7 +376,7 @@ export default function BankLegalNoticeGuidePage() {
 
                         <section id="harassment-ombudsman" className="scroll-mt-32 mb-20 p-10 bg-blue-50 rounded-[40px] border-2 border-blue-100 shadow-sm relative overflow-hidden">
                             <div className="absolute bottom-0 left-0 w-32 h-32 bg-blue-500/5 rounded-full -ml-16 -mb-16"></div>
-                            <h2 className="text-3xl font-black text-blue-900 mb-6 uppercase tracking-wider italic">Reversing the Pressure: The Banking Ombudsman</h2>
+                            <h3 className="text-3xl font-black text-blue-900 mb-6 uppercase tracking-wider italic">Reversing the Pressure: The Banking Ombudsman</h3>
                             <p className="text-lg text-blue-800 leading-relaxed font-medium mb-6">
                                 If the legal notice is accompanied by aggressive recovery agent calls, you have the right to strike back. Recovery harassment is strictly forbidden by the RBI.
                             </p>
@@ -392,9 +392,9 @@ export default function BankLegalNoticeGuidePage() {
                         </section>
 
                         <section id="civil-summary-suits" className="scroll-mt-32 mb-20">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 uppercase tracking-tighter decoration-[#1F5EFF] underline underline-offset-8">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 uppercase tracking-tighter decoration-[#1F5EFF] underline underline-offset-8">
                                 Civil Court Cases: Summary Suits and Beyond
-                            </h2>
+                            </h3>
                             <p className="mb-8 leading-relaxed">
                                 If the default continues and the loan is unsecured, the bank may file a civil suit for money recovery. They often opt for a <strong>Summary Suit under Order 37 of the CPC</strong>. This is an expedited legal process where the defendant (borrower) does not automatically have the right to defend—they must first obtain 'Leave to Defend' from the court.
                             </p>
@@ -404,23 +404,23 @@ export default function BankLegalNoticeGuidePage() {
                         </section>
 
                         <section id="criminal-implications" className="scroll-mt-32 mb-20 p-12 bg-gray-900 rounded-[48px] text-white shadow-2xl relative">
-                            <h2 className="text-3xl md:text-4xl font-black mb-8 uppercase italic text-red-500">
+                            <h3 className="text-3xl md:text-4xl font-black mb-8 uppercase italic text-red-500">
                                 Criminal Shadows: Cheque Bounce (Section 138)
-                            </h2>
+                            </h3>
                             <p className="mb-8 text-xl leading-relaxed opacity-80 font-medium">
                                 While inability to pay a loan is a civil matter, a bounced cheque is a criminal offense. Most banks take blank cheques at the time of loan disbursement and use them to initiate criminal proceedings under <strong>Section 138 of the Negotiable Instruments Act</strong> if EMIs fail.
                             </p>
                             <div className="bg-red-500/10 border-l-8 border-red-500 p-8 my-8 rounded-r-3xl">
-                                <h3 className="text-xl font-bold mb-2 text-red-400">The 15-Day Rule</h3>
+                                <h4 className="text-xl font-bold mb-2 text-red-400">The 15-Day Rule</h4>
                                 <p className="text-sm opacity-90 leading-relaxed font-black uppercase tracking-tighter">If you receive a 138 NI Act notice, you have exactly 15 days from the receipt to pay the amount. If you don't, the bank files a criminal complaint. Do not miss this deadline.</p>
                             </div>
                             <p className="text-sm italic opacity-60">We provide specialized defense for Section 138 cases, focusing on the legality of the debt, the validity of the cheque signature, and procedural delays by the bank.</p>
                         </section>
 
                         <section id="long-term-resolution" className="scroll-mt-32 mb-20">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 uppercase italic border-l-8 border-[#2E2E2E] pl-6 tracking-widest leading-none">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 uppercase italic border-l-8 border-[#2E2E2E] pl-6 tracking-widest leading-none">
                                 Your Long-Term Defensive Shield: The Documentation Habit
-                            </h2>
+                            </h3>
                             <p className="mb-8 text-lg leading-relaxed">
                                 Success in debt resolution is 20% legal knowledge and 80% documentation. From the day you receive the first notice, start a formal 'Loan Case Diary'.
                             </p>
@@ -477,7 +477,7 @@ export default function BankLegalNoticeGuidePage() {
                         </section>
 
                         <section id="faqs" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 uppercase tracking-widest leading-none">Bank Legal Notice FAQs</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 uppercase tracking-widest leading-none">Bank Legal Notice FAQs</h3>
                             <div className="space-y-4 not-prose">
                                 {(jsonLd["@graph"] as any)[4]?.mainEntity?.map((faq: any, i: number) => (
                                     <details key={i} className="group bg-white border border-[#DEDEDE] rounded-xl overflow-hidden hover:shadow-md transition-all border-b-4 border-b-[#1F5EFF]/20 shadow-sm">
@@ -505,7 +505,7 @@ export default function BankLegalNoticeGuidePage() {
                         <div className="lg:hidden mt-16 mb-8">
                             <div className="bg-[#2E2E2E] rounded-2xl shadow-xl overflow-hidden border border-[#1F5EFF]/20">
                                 <div className="bg-[#1F5EFF] p-6 text-center text-white">
-                                    <h3 className="text-2xl font-black mb-2 uppercase tracking-tighter">Defend Your Rights</h3>
+                                    <h4 className="text-2xl font-black mb-2 uppercase tracking-tighter">Defend Your Rights</h4>
                                     <p className="opacity-90 text-sm italic font-medium">Don't let the bank intimidate you. Get a professional legal reply and reclaim your peace today.</p>
                                 </div>
                                 <div className="p-8 text-center text-[#DEDEDE]">

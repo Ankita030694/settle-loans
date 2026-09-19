@@ -537,9 +537,9 @@ export default function PersonalLoanSettleKaiseKarePage() {
                 </span>
                 <span className="text-xs font-black tracking-widest text-[#1F5EFF] uppercase">Section 02</span>
               </div>
-              <h2 className="text-2xl sm:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h3 className="text-2xl sm:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 2. Delinquency Lifecycle, DPD Timelines &amp; RBI NPA Provisioning Dynamics
-              </h2>
+              </h3>
               <div className="space-y-4 text-slate-700 leading-relaxed text-base">
                 <p>
                   Personal loan me best settlement discount hasil karne ke liye bank ki balance sheet accounting aur Reserve Bank of India (RBI) ke <strong>Prudential Framework on Resolution of Stressed Assets</strong> ko samajhna zaroori hai. Bank har defaulted loan account ko Days Past Due (DPD) ke adhar par alag-alag delinquency buckets me classify karta hai:
@@ -616,9 +616,9 @@ export default function PersonalLoanSettleKaiseKarePage() {
                 </span>
                 <span className="text-xs font-black tracking-widest text-[#1F5EFF] uppercase">Section 03</span>
               </div>
-              <h2 className="text-2xl sm:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h3 className="text-2xl sm:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 3. Statutory Protections, Civil Court Jurisdictions &amp; Legal Notice Defense
-              </h2>
+              </h3>
               <div className="space-y-4 text-slate-700 leading-relaxed text-base">
                 <p>
                   Jab aap personal loan default karte hain, to bank ke legal advocates dwara formal legal notices bheje jaate hain. In notices ko samajhna aur unka sahi legal reply file karna bank ke pressure ko khatam karne ke liye critical hai:
@@ -657,9 +657,9 @@ export default function PersonalLoanSettleKaiseKarePage() {
                 </span>
                 <span className="text-xs font-black tracking-widest text-[#1F5EFF] uppercase">Section 04</span>
               </div>
-              <h2 className="text-2xl sm:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h3 className="text-2xl sm:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 4. Recovery Agent Harassment Defense &amp; RBI Fair Practices Compliance Shield
-              </h2>
+              </h3>
               <div className="space-y-4 text-slate-700 leading-relaxed text-base">
                 <p>
                   Personal loan default ke dauran sabse zyada takleef recovery agents ke aggressive behavior se hoti hai. Lekin Reserve Bank of India ne <strong>Master Circular on Recovery Agents and Fair Practices Code (August 2022)</strong> ke tehat borrowers ke fundamental rights ko protect karne ke liye sakht guidelines banayi hain:
@@ -690,9 +690,9 @@ export default function PersonalLoanSettleKaiseKarePage() {
                 </span>
                 <span className="text-xs font-black tracking-widest text-[#1F5EFF] uppercase">Section 05</span>
               </div>
-              <h2 className="text-2xl sm:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h3 className="text-2xl sm:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 5. Visual Settlement Workflow: NPA Transition to Zero-Balance NDC
-              </h2>
+              </h3>
               <div className="my-6 rounded-2xl overflow-hidden border border-slate-200 shadow-md bg-slate-900">
                 <Image
                   src="/images/infographics/personal-loan-settle-kaise-kare.jpg"
@@ -717,9 +717,9 @@ export default function PersonalLoanSettleKaiseKarePage() {
                 </span>
                 <span className="text-xs font-black tracking-widest text-[#1F5EFF] uppercase">Section 06</span>
               </div>
-              <h2 className="text-2xl sm:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h3 className="text-2xl sm:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 6. The Haircut Calculation Matrix &amp; Net Present Value (NPV) Recovery Formula
-              </h2>
+              </h3>
               <div className="space-y-4 text-slate-700 leading-relaxed text-base">
                 <p>
                   Borrowers ke man me sabse bada sawal hota hai: <strong>&ldquo;Personal loan settle kitne percentage me hota hai?&rdquo;</strong> Iska realistic answer bank ke accounting formula aur recovery economics par depend karta hai. Bank settlement offer banate waqt emotional arguments par nahi, balki cash flow valuation par faisla leta hai.
@@ -801,9 +801,9 @@ export default function PersonalLoanSettleKaiseKarePage() {
                 </span>
                 <span className="text-xs font-black tracking-widest text-[#1F5EFF] uppercase">Section 07</span>
               </div>
-              <h2 className="text-2xl sm:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h3 className="text-2xl sm:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 7. Bank Se Baat Karne Ka Tarika: 5-Phase Legal Settlement Protocol
-              </h2>
+              </h3>
               <div className="space-y-4 text-slate-700 leading-relaxed text-base">
                 <p>
                   Bank ke sath settlement initiate karte waqt unstructured phone calls ya branch me emotional arguments karne se nuksan hota hai. Settlement ko successful banane ke liye yeh 5-phase professional roadmap follow karein:
@@ -834,9 +834,9 @@ export default function PersonalLoanSettleKaiseKarePage() {
                 </span>
                 <span className="text-xs font-black tracking-widest text-[#1F5EFF] uppercase">Section 08</span>
               </div>
-              <h2 className="text-2xl sm:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h3 className="text-2xl sm:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 8. Sanction Letter Forensics, 7-Point Audit Checklist &amp; Zero-Balance No Dues Certificate
-              </h2>
+              </h3>
               <div className="space-y-4 text-slate-700 leading-relaxed text-base">
                 <p>
                   Loan settlement process me sabse bada fraud collection agents dwara fake settlement letters issue karke hota hai. Agent paise lekar part-payment me daal dete hain aur account default me hi bana rehta hai. Isliye payment transfer karne se pehle settlement letter ka <strong>7-Point Forensic Audit</strong> anivarya hai:
@@ -884,9 +884,9 @@ export default function PersonalLoanSettleKaiseKarePage() {
                 </span>
                 <span className="text-xs font-black tracking-widest text-[#1F5EFF] uppercase">Section 09</span>
               </div>
-              <h2 className="text-2xl sm:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h3 className="text-2xl sm:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 9. Comparative Resolution Matrix: OTS vs. Lok Adalat vs. Restructuring vs. Court Litigation
-              </h2>
+              </h3>
               <div className="space-y-4 text-slate-700 leading-relaxed text-base">
                 <p>
                   Defaulted personal loan ko resolve karne ke liye multiple institutional avenues available hoti hain. Sahi option chunna aapki financial situation aur immediate cash liquidity par depend karta hai:
@@ -942,9 +942,9 @@ export default function PersonalLoanSettleKaiseKarePage() {
                 </span>
                 <span className="text-xs font-black tracking-widest text-[#1F5EFF] uppercase">Section 10</span>
               </div>
-              <h2 className="text-2xl sm:text-3xl font-black text-slate-900 mb-4 leading-tight">
+              <h3 className="text-2xl sm:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 10. Credit Bureau Trajectory: Understanding &lsquo;Settled&rsquo; Status &amp; Rebuilding 750+ CIBIL
-              </h2>
+              </h3>
               <div className="space-y-4 text-slate-700 leading-relaxed text-base">
                 <p>
                   Loan settlement complete hone ke baad Credit Information Companies (Regulation) Act (CICRA), 2005 ke tehat bank 30 se 45 dino ke andar charo credit bureaus (TransUnion CIBIL, Experian, Equifax, CRIF High Mark) ko updated data report karta hai. Loan account status &lsquo;Overdue / Default&rsquo; se hatkar <strong>&lsquo;Settled&rsquo;</strong> reflect hone lagta hai aur current outstanding balance <strong>₹0</strong> ho jata hai.
@@ -980,9 +980,9 @@ export default function PersonalLoanSettleKaiseKarePage() {
                 </span>
                 <span className="text-xs font-black tracking-widest text-[#1F5EFF] uppercase">Section 12</span>
               </div>
-              <h2 className="text-2xl sm:text-3xl font-black text-slate-900 mb-6 leading-tight">
+              <h3 className="text-2xl sm:text-3xl font-black text-slate-900 mb-6 leading-tight">
                 Frequently Asked Questions: Personal Loan Settlement in India
-              </h2>
+              </h3>
 
               <div className="space-y-3">
                 {faqsList.map((faq, index) => (

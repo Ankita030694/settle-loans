@@ -207,15 +207,15 @@ export default function MinimumDebtPage() {
             </section>
 
             <section id="professional-vs-diy" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                 Professional Settlement vs. DIY: The Entry Barriers
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 The term "settlement program" usually refers to a structured, professional service provided by firms like <strong>SettleLoans</strong>. These firms have their own internal minimums.
               </p>
               <div className="grid md:grid-cols-2 gap-8 mb-8">
                 <div className="p-6 bg-gray-50 rounded-2xl border border-gray-200">
-                  <h3 className="text-xl font-bold text-gray-800 mb-4">Professional Service Tier</h3>
+                  <h4 className="text-xl font-bold text-gray-800 mb-4">Professional Service Tier</h4>
                   <p className="text-sm text-gray-600 mb-4">Most reputable firms in India require a total aggregate debt of at least ₹2,00,000. This is because the legal and administrative infrastructure needed to protect you (managing collection calls, legal notices, and negotiations) has fixed costs.</p>
                   <ul className="text-xs text-blue-600 space-y-2 font-bold">
                     <li>Minimum: ₹2,00,000 (Aggregate)</li>
@@ -223,7 +223,7 @@ export default function MinimumDebtPage() {
                   </ul>
                 </div>
                 <div className="p-6 bg-gray-50 rounded-2xl border border-gray-200">
-                  <h3 className="text-xl font-bold text-gray-800 mb-4">DIY / OTS Tier</h3>
+                  <h4 className="text-xl font-bold text-gray-800 mb-4">DIY / OTS Tier</h4>
                   <p className="text-sm text-gray-600 mb-4">For debts below ₹2 lakh, you are usually looking at 'Self-Settlement' or responding to bank-initiated One-Time Settlement (OTS) offers. These typically appear during bank 'Adalats' or year-end cleanup drives.</p>
                   <ul className="text-xs text-green-600 space-y-2 font-bold">
                     <li>Minimum: None (depends on the bank)</li>
@@ -234,9 +234,9 @@ export default function MinimumDebtPage() {
             </section>
 
             <section id="bank-internal-policies" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                 Bank Internal Policies: The 90-Day Rule
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 Regardless of the amount, banks rarely discuss settlement until a loan has been classified as a Non-Performing Asset (NPA). This happens after 90 days of continuous non-payment. Once an account hits NPA status, the bank's internal recovery mechanism changes. They shift from trying to "save the customer" to "recovering the capital."
               </p>
@@ -246,14 +246,14 @@ export default function MinimumDebtPage() {
             </section>
 
             <section id="nbfc-sarfaesi-limits" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                 NBFC and SARFAESI Limits: The 20 Lakh Threshold
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 Non-Banking Financial Companies (NBFCs) have different legal teeth than banks. One of the most important metrics for NBFCs is the SARFAESI (Securitisation and Reconstruction of Financial Assets and Enforcement of Security Interest) Act threshold.
               </p>
               <div className="p-6 bg-[#2B2B2B] text-[#DEDEDE] rounded-2xl mb-8 border-l-4 border-[#1F5EFF]">
-                <h3 className="font-bold text-xl mb-3 uppercase tracking-widest text-[#1F5EFF]">Legal Fact Check</h3>
+                <h4 className="font-bold text-xl mb-3 uppercase tracking-widest text-[#1F5EFF]">Legal Fact Check</h4>
                 <p className="leading-[1.4]">
                   As of 2021, NBFCs with an asset size of ₹100 crore or more can only initiate SARFAESI recovery (which includes seizing assets without court intervention) for loan amounts of <strong>₹20 lakh or more</strong>. 
                 </p>
@@ -264,18 +264,18 @@ export default function MinimumDebtPage() {
             </section>
 
             <section id="msme-ots-schemes" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                 MSME OTS Schemes: Settlements for Small Business
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 The Micro, Small, and Medium Enterprises (MSME) sector has special protections in India. The RBI mandates that all banks have a board-approved One-Time Settlement (OTS) policy for MSMEs. These schemes often target loans between ₹5 lakh and ₹25 lakh. Because MSMEs are vital to the economy, banks are encouraged by the government to "clean up" these small-to-medium NPA accounts rather than letting them linger indefinitely in DRT (Debt Recovery Tribunals).
               </p>
             </section>
 
             <section id="why-size-matters" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                  Why Loan Size Matters: The Negotiation Leverage
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 In debt settlement, size is a double-edged sword.
               </p>
@@ -283,21 +283,21 @@ export default function MinimumDebtPage() {
                 <li className="flex gap-4 p-4 border rounded-xl hover:bg-gray-50 transition-colors">
                   <div className="text-2xl">📉</div>
                   <div>
-                    <h3 className="font-bold">Small Debts (Below ₹1 Lakh)</h3>
+                    <h4 className="font-bold">Small Debts (Below ₹1 Lakh)</h4>
                     <p className="text-sm text-gray-500">Lenders might ignore them for a long time. However, when they do settle, the percentage waiver might be smaller because the bank doesn't "lose" much by writing it off.</p>
                   </div>
                 </li>
                 <li className="flex gap-4 p-4 border rounded-xl hover:bg-gray-50 transition-colors">
                   <div className="text-2xl">⚖️</div>
                   <div>
-                    <h4 className="font-bold">Medium Debts (₹2 Lakh - ₹15 Lakh)</h4>
+                    <h5 className="font-bold">Medium Debts (₹2 Lakh - ₹15 Lakh)</h5>
                     <p className="text-sm text-gray-500">This is the "sweet spot." Lenders are motivated to settle because the amount is significant enough to hurt their balance sheet, but small enough that a full-scale legal battle isn't worth it.</p>
                   </div>
                 </li>
                 <li className="flex gap-4 p-4 border rounded-xl hover:bg-gray-50 transition-colors">
                   <div className="text-2xl">📈</div>
                   <div>
-                    <h4 className="font-bold">Large Debts (Above ₹25 Lakh)</h4>
+                    <h5 className="font-bold">Large Debts (Above ₹25 Lakh)</h5>
                     <p className="text-sm text-gray-500">Lenders will be very aggressive. They will likely file suits in DRT or initiate SARFAESI. Professional legal representation is mandatory here.</p>
                   </div>
                 </li>
@@ -305,36 +305,36 @@ export default function MinimumDebtPage() {
             </section>
 
             <section id="unsecured-thresholds" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                 Unsecured Debt Minimums: Where Settlements Often Start
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 Unsecured debt is the primary candidate for settlement. Because there is no collateral (like a house or car) for the bank to take, they are at the mercy of the borrower's ability to pay. For unsecured personal loans and credit cards, the practical minimum for a bank to even open a settlement file is usually around ₹25,000 to ₹35,000 of the principal amount.
               </p>
             </section>
 
             <section id="credit-card-realities" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                 Credit Card Realities: Small Amounts, Big Headaches
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 Credit cards are unique because the balance grows exponentially due to compounding interest (often 40-45% per year). A ₹10,000 debt can become ₹30,000 in two years. Banks are very open to settling credit card debt because they have already made significant profits from you through interest and fees. Most credit card departments of major banks (HDFC, ICICI, SBI Card) will entertain settlement offers for outstanding balances as low as ₹50,000.
               </p>
             </section>
 
             <section id="personal-loan-breakdown" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                 Personal Loan Breakdown: The "Default" Timeline
-                  </h2>
+                  </h3>
               <p className="text-lg leading-relaxed mb-6">
                 Personal loans are usually more structured. Banks typically wait through 3 to 6 months of defaults before they categorise the loan into their 'Settlement Bucket'. If your personal loan principal is at least ₹2 lakh, you have strong ground to negotiate for a settlement that could save you 50% or more.
               </p>
             </section>
 
             <section id="cost-of-recovery" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                 The Cost of Recovery Equation: The Bank's Math
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 Every bank has a 'Recovery Officer' whose job is to minimize losses. They use simple math:
               </p>
@@ -349,9 +349,9 @@ export default function MinimumDebtPage() {
             </section>
 
             <section id="legal-action-triggers" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                 Legal Action Triggers: When the Amount Becomes Dangerous
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 While small amounts can be settled, exceeding certain limits triggers automatic legal responses.
               </p>
@@ -364,43 +364,43 @@ export default function MinimumDebtPage() {
             </section>
 
             <section id="micro-debt-resolution" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                 Micro-Debt Resolution: Loans Below 35,000
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 In 2019, discussions regarding 'Fresh Start' programs under the IBC suggested that individuals with annual income below ₹60k and debt below ₹35k could have their debts discharged. While the implementation of this remains limited, it shows that the government acknowledges 'Micro-Debt' as a different category that requires relief rather than aggressive recovery.
               </p>
             </section>
 
             <section id="consolidating-to-qualify" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                 Consolidating to Qualify: Building a Stronger Case
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 If you have five credit cards each with a ₹30,000 limit, you might feel like each one is "too small" for a settlement program. However, your *total* debt is ₹1,50,000. Professional services like <strong>SettleLoans</strong> look at your aggregate profile. By grouping your debts, you create a portfolio that is large enough to manage professionally, giving you the leverage of a multi-creditor negotiation strategy.
               </p>
             </section>
 
             <section id="strategic-default-risks" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                   Strategic Default Risks: Don't Do It for Small Amounts
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 We strongly advise against defaulting on small debts (below ₹50,000) just to get a settlement. The damage to your CIBIL score is the same whether you settle ₹5,000 or ₹50,00,000. For small amounts, it is almost always better to find a way to pay in full, perhaps through a family loan or selling a small asset, to protect your future creditworthiness.
               </p>
             </section>
 
             <section id="long-term-implications" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                 Long-Term Implications: Beyond the Settlement
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 Once you settle, the amount you save is secondary to the peace you regain. However, remember that any amount settled will be reported to the credit bureaus. Whether you settled a ₹10 lakh debt for ₹3 lakh or a ₹50,000 debt for ₹20,000, your credit report will say "Settled." This is why settlement is a strategy for those in genuine financial distress, not a shortcut for those who can afford to pay.
               </p>
             </section>
 
             <section id="success-stories" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 text-center uppercase tracking-wider">Real Stories of Freedom</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 text-center uppercase tracking-wider">Real Stories of Freedom</h3>
               <div className="grid md:grid-cols-2 gap-6 not-prose">
                 {[
                   {
@@ -438,7 +438,7 @@ export default function MinimumDebtPage() {
                         {review.name.charAt(0)}
                       </div>
                       <div>
-                        <h3 className="font-bold text-[#2E2E2E]">{review.name}</h3>
+                        <h4 className="font-bold text-[#2E2E2E]">{review.name}</h4>
                         <p className="text-xs text-gray-400">{review.loc}</p>
                       </div>
                       <div className="ml-auto text-yellow-400 text-sm">★★★★★</div>
@@ -453,7 +453,7 @@ export default function MinimumDebtPage() {
             </section>
 
             <section id="faqs" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 uppercase tracking-wider">Frequently Asked Questions</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 uppercase tracking-wider">Frequently Asked Questions</h3>
               <div className="space-y-4 not-prose">
                 {faqs.map((faq, i) => (
                   <details key={i} className="group bg-white border border-[#DEDEDE] rounded-xl overflow-hidden hover:shadow-md transition-all border-b-4 border-b-[#1F5EFF]/20">

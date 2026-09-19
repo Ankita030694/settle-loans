@@ -252,15 +252,15 @@ export default function WilfulDefaulterDefensePage() {
             </section>
 
             <section id="who-is-wilful-defaulter" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 Who is a Wilful Defaulter According to RBI?
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 The RBI Master Circular lays out strict criteria for tagging a borrower. It is not automatic upon default. A borrower is classified as a wilful defaulter only if they meet specific conditions:
               </p>
 
               <div className="bg-blue-50 border-l-8 border-[#1F5EFF] p-8 rounded-r-2xl mb-8">
-                <h3 className="text-xl font-black text-[#1F5EFF] mb-4">The Key Criteria for Wilful Default</h3>
+                <h4 className="text-xl font-black text-[#1F5EFF] mb-4">The Key Criteria for Wilful Default</h4>
                 <ul className="space-y-3">
                   <li className="flex items-start gap-3">
                     <div className="mt-1.5 w-2 h-2 rounded-full bg-[#1F5EFF] flex-shrink-0"></div>
@@ -283,22 +283,22 @@ export default function WilfulDefaulterDefensePage() {
             </section>
 
             <section id="intentional-vs-genuine" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 Difference Between Intentional and Genuine Default
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 The most critical defense against this tag lies in establishing the <strong>difference between intentional and genuine default</strong>. The law recognizes that businesses can fail for reasons beyond an entrepreneur's control.
               </p>
 
               <div className="grid md:grid-cols-2 gap-6 my-8">
                 <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
-                  <h3 className="font-black text-[#1F5EFF] text-lg mb-3">Intentional (Wilful) Default</h3>
+                  <h4 className="font-black text-[#1F5EFF] text-lg mb-3">Intentional (Wilful) Default</h4>
                   <p className="text-gray-700 leading-relaxed">
                     This involves malafide intent. The borrower intentionally stops paying the bank while secretly holding funds, or they fraudulently divert the loan money to personal accounts, real estate, or other unrelated businesses.
                   </p>
                 </div>
                 <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
-                  <h4 className="font-black text-[#1F5EFF] text-lg mb-3">Genuine Business Failure</h4>
+                  <h5 className="font-black text-[#1F5EFF] text-lg mb-3">Genuine Business Failure</h5>
                   <p className="text-gray-700 leading-relaxed">
                     This happens when a business collapses due to market shifts, economic recessions (like COVID-19), loss of major clients, or raw material shortages. All funds were used for the business, but the revenue simply isn't there to repay the loan.
                   </p>
@@ -313,9 +313,9 @@ export default function WilfulDefaulterDefensePage() {
             </section>
 
             <section id="consequences" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 Wilful Defaulter Tag Consequences
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 If the bank successfully classifies you, the <strong>wilful defaulter tag consequences</strong> are catastrophic and immediate. It essentially blocks you out of the formal financial system.
               </p>
@@ -324,7 +324,7 @@ export default function WilfulDefaulterDefensePage() {
                 <div className="flex gap-6">
                   <div className="flex-shrink-0 w-12 h-12 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center font-black text-xl shadow-lg">1</div>
                   <div>
-                    <h3 className="text-2xl font-bold text-[#2E2E2E] mb-2">Total Financial Boycott</h3>
+                    <h4 className="text-2xl font-bold text-[#2E2E2E] mb-2">Total Financial Boycott</h4>
                     <p className="text-lg text-gray-700 leading-relaxed">
                       No additional facilities will be granted by any bank or financial institution. You are barred from securing any new loans or credit lines to revive your business or start a new one.
                     </p>
@@ -334,7 +334,7 @@ export default function WilfulDefaulterDefensePage() {
                 <div className="flex gap-6">
                   <div className="flex-shrink-0 w-12 h-12 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center font-black text-xl shadow-lg">2</div>
                   <div>
-                    <h3 className="text-2xl font-bold text-[#2E2E2E] mb-2">Corporate Disqualification</h3>
+                    <h4 className="text-2xl font-bold text-[#2E2E2E] mb-2">Corporate Disqualification</h4>
                     <p className="text-lg text-gray-700 leading-relaxed">
                       Promoters and directors of companies identified as wilful defaulters are legally barred from being on the board of any other company. You will be forced to resign from your directorships.
                     </p>
@@ -344,7 +344,7 @@ export default function WilfulDefaulterDefensePage() {
                 <div className="flex gap-6">
                   <div className="flex-shrink-0 w-12 h-12 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center font-black text-xl shadow-lg">3</div>
                   <div>
-                    <h3 className="text-2xl font-bold text-[#2E2E2E] mb-2">Criminal Prosecution</h3>
+                    <h4 className="text-2xl font-bold text-[#2E2E2E] mb-2">Criminal Prosecution</h4>
                     <p className="text-lg text-gray-700 leading-relaxed">
                       Banks have the full authority to initiate criminal proceedings against wilful defaulters, including filing FIRs for cheating, breach of trust, and fraud, leading to potential imprisonment.
                     </p>
@@ -354,15 +354,15 @@ export default function WilfulDefaulterDefensePage() {
             </section>
 
             <section id="how-to-remove-tag" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 How to Remove Wilful Defaulter Tag
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 Many banks flagrantly violate procedural norms when declaring a wilful default. Knowing <strong>how to remove wilful defaulter tag</strong> requires challenging these procedural lapses and presenting evidence of genuine loss.
               </p>
 
               <div className="bg-blue-50 border-l-8 border-[#1F5EFF] p-8 rounded-r-2xl mb-8">
-                <h3 className="text-xl font-black text-[#1F5EFF] mb-4">Steps to Challenge the Tag</h3>
+                <h4 className="text-xl font-black text-[#1F5EFF] mb-4">Steps to Challenge the Tag</h4>
                 <ol className="space-y-4 list-decimal list-inside text-blue-900 text-lg leading-relaxed">
                   <li><strong>Demand the Show-Cause Notice:</strong> Banks cannot declare you a wilful defaulter secretly. They must serve a notice outlining the exact reasons and evidence for the classification.</li>
                   <li><strong>Submit a Detailed Representation:</strong> You must reply with a comprehensive defense, including audit reports and financial statements, proving the default was a genuine business failure without fund diversion.</li>
@@ -372,7 +372,7 @@ export default function WilfulDefaulterDefensePage() {
               </div>
 
               <div className="bg-red-50 p-6 rounded-xl border border-red-100 mb-8">
-                <h4 className="text-xl font-black text-red-700 mb-3">Warning: Do Not Ignore the Notice</h4>
+                <h5 className="text-xl font-black text-red-700 mb-3">Warning: Do Not Ignore the Notice</h5>
                 <p className="text-red-900 leading-relaxed">
                   If you receive a show-cause notice for wilful default and fail to respond within the stipulated time, the bank's committee will pass an ex-parte order against you, cementing the catastrophic consequences permanently.
                 </p>
@@ -380,14 +380,14 @@ export default function WilfulDefaulterDefensePage() {
             </section>
 
             <section id="rbi-guidelines" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 The Strict RBI Guidelines on Procedure
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 The RBI ensures that the power to classify someone as a wilful defaulter is not misused. The procedure must be strictly followed:
               </p>
               <div className="bg-white p-8 border border-[#DEDEDE] rounded-2xl shadow-sm mb-8">
-                <h3 className="text-xl font-bold mb-4 text-[#2E2E2E] underline">The Two-Tier Committee System</h3>
+                <h4 className="text-xl font-bold mb-4 text-[#2E2E2E] underline">The Two-Tier Committee System</h4>
                 <p className="text-gray-700 leading-relaxed mb-4">
                   The RBI mandates a two-tier structure to prevent biased decisions. An <strong>Identification Committee</strong> first issues the show-cause notice and reviews your representation. If they classify you as a wilful defaulter, this decision must be confirmed by a completely separate <strong>Review Committee</strong>.
                 </p>
@@ -398,9 +398,9 @@ export default function WilfulDefaulterDefensePage() {
             </section>
 
             <section id="success-stories" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 Client Success Stories
-              </h2>
+              </h3>
               <div className="grid md:grid-cols-2 gap-6 my-8">
                 <div className="bg-white p-8 rounded-[30px] border border-[#DEDEDE] shadow-sm hover:shadow-xl group transition-all">
                   <div className="flex items-center gap-4 mb-6">
@@ -408,7 +408,7 @@ export default function WilfulDefaulterDefensePage() {
                       AK
                     </div>
                     <div>
-                      <h3 className="font-bold text-gray-900">Amit K.</h3>
+                      <h4 className="font-bold text-gray-900">Amit K.</h4>
                       <div className="flex text-yellow-400">
                         <svg className="w-4 h-4 fill-current" viewBox="0 0 20 20"><path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z"/></svg>
                         <svg className="w-4 h-4 fill-current" viewBox="0 0 20 20"><path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z"/></svg>
@@ -433,7 +433,7 @@ export default function WilfulDefaulterDefensePage() {
                       RS
                     </div>
                     <div>
-                      <h4 className="font-bold text-gray-900">Ravi S.</h4>
+                      <h5 className="font-bold text-gray-900">Ravi S.</h5>
                       <div className="flex text-yellow-400">
                         <svg className="w-4 h-4 fill-current" viewBox="0 0 20 20"><path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z"/></svg>
                         <svg className="w-4 h-4 fill-current" viewBox="0 0 20 20"><path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z"/></svg>
@@ -455,13 +455,13 @@ export default function WilfulDefaulterDefensePage() {
             </section>
 
             <section id="faqs" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 Frequently Asked Questions
-              </h2>
+              </h3>
               <div className="space-y-4">
                 {jsonLd["@graph"].find(item => item["@type"] === "FAQPage")?.mainEntity?.map((faq: any, index: number) => (
                   <div key={index} className="bg-white border border-[#DEDEDE] rounded-xl p-6 hover:shadow-md transition-shadow">
-                    <h3 className="text-xl font-bold text-[#2E2E2E] mb-3">{faq.name}</h3>
+                    <h4 className="text-xl font-bold text-[#2E2E2E] mb-3">{faq.name}</h4>
                     <p className="text-gray-700 leading-relaxed">{faq.acceptedAnswer.text}</p>
                   </div>
                 ))}
@@ -470,7 +470,7 @@ export default function WilfulDefaulterDefensePage() {
 
             <div className="bg-[#2E2E2E] text-white p-12 rounded-[40px] text-center mt-24 relative overflow-hidden group">
               <div className="absolute inset-0 bg-[#1F5EFF] opacity-0 group-hover:opacity-5 transition-opacity"></div>
-              <h3 className="text-3xl font-black mb-6 relative z-10">Challenge the Illegal Wilful Defaulter Tag</h3>
+              <h4 className="text-3xl font-black mb-6 relative z-10">Challenge the Illegal Wilful Defaulter Tag</h4>
               <p className="text-xl opacity-90 mb-8 relative z-10 max-w-2xl mx-auto">
                 Has the bank unjustly labeled you a 'Wilful Defaulter' despite a genuine business loss? Challenge this illegal tag with our specialized banking lawyers before it destroys your career.
               </p>

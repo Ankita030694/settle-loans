@@ -269,36 +269,36 @@ export default function OnlineLoanDuringCashCrunch() {
             </section>
 
             <section id="identifying-illegal-apps" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">How to Identify Illegal Loan Apps</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">How to Identify Illegal Loan Apps</h3>
               <p className="text-lg leading-relaxed mb-6">
                 If you want to <strong>avoid illegal loan apps during cash crunch</strong>, you must know the red flags. Scammers use these apps to bypass RBI regulations and exploit desperate borrowers.
               </p>
 
               <div className="grid md:grid-cols-2 gap-6 my-8">
                 <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
-                  <h3 className="font-black text-[#1F5EFF] text-lg mb-3">7-Day Repayment Tenure</h3>
+                  <h4 className="font-black text-[#1F5EFF] text-lg mb-3">7-Day Repayment Tenure</h4>
                   <p className="text-gray-700 leading-relaxed">Legitimate apps offer at least 60 to 90 days. If an app demands repayment in 7 days, it is an illegal scam.</p>
                 </div>
                 <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
-                  <h4 className="font-black text-[#1F5EFF] text-lg mb-3">Excessive Permissions</h4>
+                  <h5 className="font-black text-[#1F5EFF] text-lg mb-3">Excessive Permissions</h5>
                   <p className="text-gray-700 leading-relaxed">They force you to grant access to your contact list, camera, and gallery to steal data for blackmailing later.</p>
                 </div>
                 <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
-                  <h4 className="font-black text-[#1F5EFF] text-lg mb-3">No NBFC Affiliation</h4>
+                  <h5 className="font-black text-[#1F5EFF] text-lg mb-3">No NBFC Affiliation</h5>
                   <p className="text-gray-700 leading-relaxed">They do not clearly mention their RBI-registered Non-Banking Financial Company (NBFC) partner on their app or website.</p>
                 </div>
                 <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
-                  <h4 className="font-black text-[#1F5EFF] text-lg mb-3">Upfront Processing Fees</h4>
+                  <h5 className="font-black text-[#1F5EFF] text-lg mb-3">Upfront Processing Fees</h5>
                   <p className="text-gray-700 leading-relaxed">They deduct huge processing fees upfront (e.g., sanctioning ₹5,000 but disbursing only ₹3,000 to your account).</p>
                 </div>
               </div>
             </section>
 
             <section id="blackmail-tactics" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">The Extortion and Harassment Tactics</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">The Extortion and Harassment Tactics</h3>
               
               <div className="bg-red-50 p-6 rounded-xl border border-red-100 mb-8">
-                <h3 className="text-xl font-black text-red-700 mb-3">Warning: Extortion Starts on Day 6</h3>
+                <h4 className="text-xl font-black text-red-700 mb-3">Warning: Extortion Starts on Day 6</h4>
                 <p className="text-red-900 leading-relaxed mb-4">
                   Even before your 7-day tenure ends, the recovery agents will start sending threatening WhatsApp messages. They operate from fake numbers and use highly abusive language.
                 </p>
@@ -311,7 +311,7 @@ export default function OnlineLoanDuringCashCrunch() {
             </section>
 
             <section id="steps-to-protect-yourself" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">Steps to Protect Yourself</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">Steps to Protect Yourself</h3>
               <p className="text-lg leading-relaxed mb-6">
                 If you have already fallen into their trap, do not panic. Do not yield to their demands, because paying them will not stop the harassment; it will only encourage them to extort more.
               </p>
@@ -320,28 +320,28 @@ export default function OnlineLoanDuringCashCrunch() {
                 <div className="flex gap-6">
                   <div className="flex-shrink-0 w-12 h-12 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center font-black text-xl shadow-lg">1</div>
                   <div>
-                    <h3 className="text-2xl font-bold text-[#2E2E2E] mb-2">Revoke Permissions & Uninstall</h3>
+                    <h4 className="text-2xl font-bold text-[#2E2E2E] mb-2">Revoke Permissions & Uninstall</h4>
                     <p className="text-lg text-gray-700 leading-relaxed">Go to your phone settings immediately. Revoke access to contacts, storage, and gallery. Uninstall the illegal app permanently.</p>
                   </div>
                 </div>
                 <div className="flex gap-6">
                   <div className="flex-shrink-0 w-12 h-12 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center font-black text-xl shadow-lg">2</div>
                   <div>
-                    <h3 className="text-2xl font-bold text-[#2E2E2E] mb-2">Inform Your Contacts</h3>
+                    <h4 className="text-2xl font-bold text-[#2E2E2E] mb-2">Inform Your Contacts</h4>
                     <p className="text-lg text-gray-700 leading-relaxed">Put up a WhatsApp status or send a broadcast message stating your phone was hacked and scammers might send fake messages using your name.</p>
                   </div>
                 </div>
                 <div className="flex gap-6">
                   <div className="flex-shrink-0 w-12 h-12 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center font-black text-xl shadow-lg">3</div>
                   <div>
-                    <h3 className="text-2xl font-bold text-[#2E2E2E] mb-2">File a Cybercrime Complaint</h3>
+                    <h4 className="text-2xl font-bold text-[#2E2E2E] mb-2">File a Cybercrime Complaint</h4>
                     <p className="text-lg text-gray-700 leading-relaxed">Gather screenshots of the threats, WhatsApp numbers, and payment links. Register an official complaint at <strong>cybercrime.gov.in</strong> or call <strong>1930</strong>.</p>
                   </div>
                 </div>
               </div>
 
               <div className="bg-blue-50 border-l-8 border-[#1F5EFF] p-8 rounded-r-2xl mb-8">
-                <h4 className="text-xl font-black text-[#1F5EFF] mb-4">Important: Stop Paying!</h4>
+                <h5 className="text-xl font-black text-[#1F5EFF] mb-4">Important: Stop Paying!</h5>
                 <ul className="space-y-3">
                   <li className="flex items-start gap-3">
                     <div className="mt-1.5 w-2 h-2 rounded-full bg-[#1F5EFF] flex-shrink-0"></div>
@@ -356,7 +356,7 @@ export default function OnlineLoanDuringCashCrunch() {
             </section>
 
             <section id="safe-alternatives" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">Finding Safe Online Loans India</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">Finding Safe Online Loans India</h3>
               <p className="text-lg leading-relaxed mb-6">
                 To navigate a financial crisis responsibly, you must know how to identify <strong>safe online loans India</strong>. Always borrow from institutions regulated by the Reserve Bank of India (RBI).
               </p>
@@ -369,7 +369,7 @@ export default function OnlineLoanDuringCashCrunch() {
             </section>
 
             <section id="success-stories" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">Client Success Stories</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">Client Success Stories</h3>
               <div className="grid md:grid-cols-2 gap-6 my-8">
                 {/* Card 1 */}
                 <div className="bg-white p-8 rounded-[30px] border border-[#DEDEDE] shadow-sm hover:shadow-xl group transition-all">
@@ -378,7 +378,7 @@ export default function OnlineLoanDuringCashCrunch() {
                       RV
                     </div>
                     <div>
-                      <h3 className="font-bold text-gray-900">Rahul V.</h3>
+                      <h4 className="font-bold text-gray-900">Rahul V.</h4>
                       <div className="flex text-yellow-400">
                         <svg className="w-4 h-4 fill-current" viewBox="0 0 20 20"><path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z"/></svg>
                         <svg className="w-4 h-4 fill-current" viewBox="0 0 20 20"><path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z"/></svg>
@@ -404,7 +404,7 @@ export default function OnlineLoanDuringCashCrunch() {
                       SP
                     </div>
                     <div>
-                      <h4 className="font-bold text-gray-900">Sneha P.</h4>
+                      <h5 className="font-bold text-gray-900">Sneha P.</h5>
                       <div className="flex text-yellow-400">
                         <svg className="w-4 h-4 fill-current" viewBox="0 0 20 20"><path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z"/></svg>
                         <svg className="w-4 h-4 fill-current" viewBox="0 0 20 20"><path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z"/></svg>
@@ -426,11 +426,11 @@ export default function OnlineLoanDuringCashCrunch() {
             </section>
 
             <section id="faqs" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">Frequently Asked Questions</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">Frequently Asked Questions</h3>
               <div className="space-y-4">
                 {jsonLd["@graph"].find(item => item["@type"] === "FAQPage")?.mainEntity?.map((faq: any, index: number) => (
                   <div key={index} className="bg-white border border-[#DEDEDE] rounded-xl p-6 hover:shadow-md transition-shadow">
-                    <h3 className="text-xl font-bold text-[#2E2E2E] mb-3">{faq.name}</h3>
+                    <h4 className="text-xl font-bold text-[#2E2E2E] mb-3">{faq.name}</h4>
                     <p className="text-gray-700 leading-relaxed">{faq.acceptedAnswer.text}</p>
                   </div>
                 ))}
@@ -439,7 +439,7 @@ export default function OnlineLoanDuringCashCrunch() {
 
             <div className="bg-[#2E2E2E] text-white p-12 rounded-[40px] text-center mt-24 relative overflow-hidden group">
               <div className="absolute inset-0 bg-[#1F5EFF] opacity-0 group-hover:opacity-5 transition-opacity"></div>
-              <h3 className="text-3xl font-black mb-6 relative z-10">Desperate for cash and considering a 7-day instant loan app? <span className="text-[#1F5EFF]">STOP.</span></h3>
+              <h4 className="text-3xl font-black mb-6 relative z-10">Desperate for cash and considering a 7-day instant loan app? <span className="text-[#1F5EFF]">STOP.</span></h4>
               <p className="text-xl opacity-90 mb-8 relative z-10 max-w-2xl mx-auto">
                 Read this before you fall into a vicious blackmail trap.
               </p>

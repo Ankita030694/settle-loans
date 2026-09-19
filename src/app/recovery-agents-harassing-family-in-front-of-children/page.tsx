@@ -558,7 +558,7 @@ export default function RecoveryAgentsHarassingFamilyInFrontOfChildrenPage() {
 
             {/* Section 2: Juvenile Justice Act & Child Protection Mandates */}
             <section id="statutory-child-protection-juvenile-justice-act" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">2. Statutory Child Protection</h2>
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">2. Statutory Child Protection</h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Loan recovery is subject to strict legal rules. The Indian legal system provides strong protections for minors under child welfare laws. When agents shout or threaten violence near children, they fall under the <strong>Juvenile Justice (Care and Protection of Children) Act, 2015</strong>.
               </p>
@@ -614,7 +614,7 @@ export default function RecoveryAgentsHarassingFamilyInFrontOfChildrenPage() {
 
             {/* Section 3: Constitutional Privacy, Inviolability of Home & Criminal Law */}
             <section id="constitutional-privacy-domestic-peace-ipc" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">3. Constitutional Privacy, Inviolability of Home</h2>
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">3. Constitutional Privacy, Inviolability of Home</h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 The Supreme Court of India protects families from residential harassment. In <em>ICICI Bank Ltd. v. Shanti Devi Sharma (2008)</em>, the Supreme Court ruled that banks cannot use musclemen or threats to collect debt.
               </p>
@@ -624,37 +624,37 @@ export default function RecoveryAgentsHarassingFamilyInFrontOfChildrenPage() {
 
               <div className="space-y-3 my-4">
                 <div className="p-4 rounded-xl border-l-4 border-red-500 bg-slate-50 space-y-1">
-                  <h3 className="font-bold text-slate-900 text-xs sm:text-sm flex items-center gap-1.5">
+                  <h4 className="font-bold text-slate-900 text-xs sm:text-sm flex items-center gap-1.5">
                     <AlertCircle className="w-4 h-4 text-red-600" />
                     <span>Criminal Trespass &amp; House-Trespass (Section 441, 442 &amp; 447 IPC / Sections 329 &amp; 331 BNS)</span>
-                  </h3>
+                  </h4>
                   <p className="text-xs text-slate-600 leading-relaxed">
                     Entering private property without consent to intimidate or insult residents is criminal trespass under Sections 441, 442, and 447 IPC (Sections 329 and 331 BNS). Refusing to leave upon request makes it house-trespass.
                   </p>
                 </div>
                 <div className="p-4 rounded-xl border-l-4 border-amber-500 bg-slate-50 space-y-1">
-                  <h4 className="font-bold text-slate-900 text-xs sm:text-sm flex items-center gap-1.5">
+                  <h5 className="font-bold text-slate-900 text-xs sm:text-sm flex items-center gap-1.5">
                     <ShieldAlert className="w-4 h-4 text-amber-600" />
                     <span>Criminal Intimidation (Section 503 &amp; 506 IPC / Section 351 BNS)</span>
-                  </h4>
+                  </h5>
                   <p className="text-xs text-slate-600 leading-relaxed">
                     Threatening a borrower or their family with harm or public shaming is a crime under Sections 503 and 506 IPC (Section 351 BNS). It carries up to seven years in prison for severe threats.
                   </p>
                 </div>
                 <div className="p-4 rounded-xl border-l-4 border-purple-500 bg-slate-50 space-y-1">
-                  <h4 className="font-bold text-slate-900 text-xs sm:text-sm flex items-center gap-1.5">
+                  <h5 className="font-bold text-slate-900 text-xs sm:text-sm flex items-center gap-1.5">
                     <Volume2 className="w-4 h-4 text-purple-600" />
                     <span>Public Nuisance &amp; Domestic Peace Breach (Section 268 &amp; 290 IPC / Section 270 BNS)</span>
-                  </h4>
+                  </h5>
                   <p className="text-xs text-slate-600 leading-relaxed">
                     Shouting loudly in apartment buildings and disturbing neighbors is a crime under Sections 268 and 290 IPC (Section 270 BNS) for breach of public peace.
                   </p>
                 </div>
                 <div className="p-4 rounded-xl border-l-4 border-rose-500 bg-slate-50 space-y-1">
-                  <h4 className="font-bold text-slate-900 text-xs sm:text-sm flex items-center gap-1.5">
+                  <h5 className="font-bold text-slate-900 text-xs sm:text-sm flex items-center gap-1.5">
                     <HeartHandshake className="w-4 h-4 text-rose-600" />
                     <span>Insulting Modesty of Women (Section 509 IPC / Section 79 BNS)</span>
-                  </h4>
+                  </h5>
                   <p className="text-xs text-slate-600 leading-relaxed">
                     Using foul language or aggressive gestures toward women in the house violates Section 509 IPC (Section 79 BNS). It carries up to three years in prison.
                   </p>
@@ -668,7 +668,7 @@ export default function RecoveryAgentsHarassingFamilyInFrontOfChildrenPage() {
 
             {/* Section 4: Bank Accounting, NPA Provisioning & NPV Recovery Formula */}
             <section id="bank-accounting-npa-npv-formula" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">4. Bank Accounting &amp; Family Harassment Risks</h2>
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">4. Bank Accounting &amp; Family Harassment Risks</h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 To counter home harassment, you must know how collection agencies operate. Banks and NBFCs assign overdue files to third-party Direct Recovery Agencies (DRAs) after 60 to 90 days of default. These agencies work on high commission rates of 12% to 30%.
               </p>
@@ -740,7 +740,7 @@ export default function RecoveryAgentsHarassingFamilyInFrontOfChildrenPage() {
 
             {/* Section 5: Infographic Banner */}
             <section id="family-protection-defense-roadmap" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">5. Child Protection Legal Defense Roadmap</h2>
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">5. Child Protection Legal Defense Roadmap</h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 The visual roadmap below shows our 5-stage legal defense process. It protects families from home visits, enforces child rights under the Juvenile Justice Act. And secures a formal loan settlement.
               </p>
@@ -775,32 +775,32 @@ export default function RecoveryAgentsHarassingFamilyInFrontOfChildrenPage() {
 
             {/* Section 6: The 4-Stage Emergency Police & Advocate Protocol */}
             <section id="emergency-4-stage-police-advocate-protocol" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">6. The Emergency 4-Stage Police</h2>
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">6. The Emergency 4-Stage Police</h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 When agents scream outside your door, do not panic or argue. Aggressive agents see panic as weakness. Follow this clear 4-stage protocol to protect your family right away:
               </p>
 
               <div className="space-y-3 my-4">
                 <div className="p-4 rounded-xl border-l-4 border-blue-600 bg-slate-50 space-y-1">
-                  <h3 className="font-bold text-slate-900 text-xs sm:text-sm">Stage 1: Secure the Premises &amp; Dial Emergency Police (100 / 112)</h3>
+                  <h4 className="font-bold text-slate-900 text-xs sm:text-sm">Stage 1: Secure the Premises &amp; Dial Emergency Police (100 / 112)</h4>
                   <p className="text-xs text-slate-600 leading-relaxed">
                     Lock your main door. Move children and elderly parents to an inner room. Dial 100 or 112 immediately. Tell the police that unknown persons are trespassing, banging on doors. And terrorizing your family.
                   </p>
                 </div>
                 <div className="p-4 rounded-xl border-l-4 border-indigo-600 bg-slate-50 space-y-1">
-                  <h4 className="font-bold text-slate-900 text-xs sm:text-sm">Stage 2: Capture Continuous Audio-Video &amp; CCTV Evidence</h4>
+                  <h5 className="font-bold text-slate-900 text-xs sm:text-sm">Stage 2: Capture Continuous Audio-Video &amp; CCTV Evidence</h5>
                   <p className="text-xs text-slate-600 leading-relaxed">
                     Record clear video through your peephole, window, or camera. Capture the agents&apos. faces, shouting. And door banging. Ask them to show their DRA ID cards and bank letters through the grill. Do not open the door.
                   </p>
                 </div>
                 <div className="p-4 rounded-xl border-l-4 border-purple-600 bg-slate-50 space-y-1">
-                  <h4 className="font-bold text-slate-900 text-xs sm:text-sm">Stage 3: Lodge Formal Police FIR &amp; RBI Ombudsman Complaint</h4>
+                  <h5 className="font-bold text-slate-900 text-xs sm:text-sm">Stage 3: Lodge Formal Police FIR &amp; RBI Ombudsman Complaint</h5>
                   <p className="text-xs text-slate-600 leading-relaxed">
                     Work with a lawyer to file a police complaint under Sections 441, 503, 506, and 509 IPC (Sections 329, 351, and 79 BNS) and Section 75 JJ Act. File an urgent complaint on the <strong>RBI CMS portal (cms.rbi.org.in)</strong>.
                   </p>
                 </div>
                 <div className="p-4 rounded-xl border-l-4 border-amber-600 bg-slate-50 space-y-1">
-                  <h4 className="font-bold text-slate-900 text-xs sm:text-sm">Stage 4: Serve Advocate Cease-and-Desist Notice on Bank Leadership</h4>
+                  <h5 className="font-bold text-slate-900 text-xs sm:text-sm">Stage 4: Serve Advocate Cease-and-Desist Notice on Bank Leadership</h5>
                   <p className="text-xs text-slate-600 leading-relaxed">
                     Your lawyer sends a legal notice to the bank&apos;s MD, Nodal Officer. And agency heads. The notice cites criminal acts and child trauma, demanding an immediate stop to visits and open settlement talks.
                   </p>
@@ -814,7 +814,7 @@ export default function RecoveryAgentsHarassingFamilyInFrontOfChildrenPage() {
 
             {/* Section 7: Converting Home Harassment into an Affordable OTS */}
             <section id="leveraging-violations-for-55-percent-ots" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">7. Converting Home Harassment into an Affordable 45%–65%</h2>
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">7. Converting Home Harassment into an Affordable 45%–65%</h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Proof of home harassment gives you strong legal leverage. When banking lawyers present evidence of violations, lenders want to settle quickly. They prefer an out-of-court agreement over public fines and police scrutiny.
               </p>
@@ -864,7 +864,7 @@ export default function RecoveryAgentsHarassingFamilyInFrontOfChildrenPage() {
 
             {/* Section 8: Sanction Letter Forensics, Direct Remittance & ₹0 NDC Mandate */}
             <section id="sanction-forensics-rbi-ndc-mandate" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">8. Sanction Letter Forensics, Direct Bank Remittance, RBI ₹0</h2>
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">8. Sanction Letter Forensics, Direct Bank Remittance, RBI ₹0</h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 You must stay alert during a debt settlement. Some rogue agents share fake letters on chat apps or take cash payments that never reach the bank. Never pay money until your lawyer reviews the official sanction letter.
               </p>
@@ -892,9 +892,9 @@ export default function RecoveryAgentsHarassingFamilyInFrontOfChildrenPage() {
                 </p>
               </div>
 
-              <h3 className="text-base sm:text-lg font-bold text-slate-900 pt-2">
+              <h4 className="text-base sm:text-lg font-bold text-slate-900 pt-2">
                 CIBIL Bureau Reporting Trajectory &amp; Credit Rehabilitation
-              </h3>
+              </h4>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 After settlement, the bank marks your credit report as <strong>&quot;Settled&quot;</strong> or <strong>&quot;Post-Write-off Settled&quot;</strong> with a current balance of <strong>₹0</strong>. Your score may drop by 70 to 120 points initially. However, it stops further fines and ends collection calls. Using a secured card and making on-time payments will restore your credit score above 750 in 18 to 24 months.
               </p>
@@ -902,7 +902,7 @@ export default function RecoveryAgentsHarassingFamilyInFrontOfChildrenPage() {
 
             {/* Section 9: Comparative Legal Defense Matrix */}
             <section id="comparative-legal-defense-matrix" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">9. Family Harassment Legal Defense Matrix</h2>
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">9. Family Harassment Legal Defense Matrix</h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Reviewing your legal options helps you pick the right way to protect your home and settle your debt safely:
               </p>
@@ -955,7 +955,7 @@ export default function RecoveryAgentsHarassingFamilyInFrontOfChildrenPage() {
             {/* Section 10: SettleLoans Legal Defense & Advisory + CompanySection */}
             <section id="company-resolution-section" className="space-y-6">
               <div className="border-t border-slate-200 pt-8 space-y-4">
-                <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">10. SettleLoans Child</h2>
+                <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">10. SettleLoans Child</h3>
                 <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                   Protecting your family from aggressive debt collectors requires experienced banking defense lawyers. Our advocates know how to enforce the Juvenile Justice Act and Supreme Court rulings. SettleLoans helps distressed borrowers across India. We issue legal notices to bank leaders, file police complaints. And handle RBI Ombudsman cases. We negotiate directly with bank zonal heads to secure 45% to 65% principal waivers and official No Dues Certificates.
                 </p>
@@ -969,7 +969,7 @@ export default function RecoveryAgentsHarassingFamilyInFrontOfChildrenPage() {
             <section id="faqs" className="space-y-4 border-t border-slate-200 pt-8">
               <div className="flex items-center gap-2 mb-2">
                 <HelpCircle className="w-5 h-5 text-[#1F5EFF]" />
-                <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">11. FAQs: Recovery Agents Shouting at Home</h2>
+                <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">11. FAQs: Recovery Agents Shouting at Home</h3>
               </div>
               <p className="text-xs sm:text-sm text-slate-600 mb-6">
                 Direct answers to common questions on home recovery visits, child rights under the Juvenile Justice Act. And legal debt settlement in India.
@@ -999,9 +999,9 @@ export default function RecoveryAgentsHarassingFamilyInFrontOfChildrenPage() {
 
             {/* 5 Official Regulatory Links */}
             <section className="border-t border-slate-200 pt-8 mb-4">
-              <h3 className="text-xs sm:text-sm font-bold text-slate-900 mb-3 uppercase tracking-wider">
+              <h4 className="text-xs sm:text-sm font-bold text-slate-900 mb-3 uppercase tracking-wider">
                 Official Statutory &amp; Regulatory References
-              </h3>
+              </h4>
               <div className="grid grid-cols-1 sm:grid-cols-2 gap-2.5 text-xs">
                 <a
                   href="https://indiacode.gov.in/handle/123456789/2148"
@@ -1053,9 +1053,9 @@ export default function RecoveryAgentsHarassingFamilyInFrontOfChildrenPage() {
 
             {/* 10 Related Guide Badges */}
             <section className="border-t border-slate-200 pt-8 mb-8">
-              <h3 className="text-xs sm:text-sm font-bold text-slate-900 mb-4 uppercase tracking-wider">
+              <h4 className="text-xs sm:text-sm font-bold text-slate-900 mb-4 uppercase tracking-wider">
                 Related Legal Defense &amp; Loan Resolution Guides
-              </h3>
+              </h4>
               <div className="flex flex-wrap gap-2">
                 <Link
                   href="/bank-recovery-harassment-complaint"

@@ -349,14 +349,14 @@ export default function InterestSavingsDigitalPage() {
             </section>
 
             <section id="digital-advantage" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight text-[#1F5EFF]">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight text-[#1F5EFF]">
                 Why Digital Services Offer Better Interest Savings?
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 In the old world, loan settlement happened in the dark corners of bank local branches, often involving aggressive recovery agents and opaque calculations. Digital platforms have brought this entire process into the light. The 'Digital Advantage' in interest savings comes from three core pillars: <strong>Data Aggregation, AI Based Audit, and Bulk Negotiation Power.</strong>
               </p>
               <div className="bg-indigo-50 p-8 rounded-xl border border-indigo-200 mb-8 shadow-sm">
-                <h3 className="text-xl font-bold mb-4 text-indigo-900 italic uppercase tracking-widest text-center">The Digital ROI Stack</h3>
+                <h4 className="text-xl font-bold mb-4 text-indigo-900 italic uppercase tracking-widest text-center">The Digital ROI Stack</h4>
                 <div className="grid md:grid-cols-3 gap-6">
                   <div className="text-center p-4">
                     <div className="text-[#1F5EFF] text-3xl font-black mb-2">99%</div>
@@ -381,9 +381,9 @@ export default function InterestSavingsDigitalPage() {
             </section>
 
             <section id="math-of-savings" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
                 The Math of Early Settlement: A Case Study
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 To understand interest savings, we must look at a concrete example. Consider a borrower, 'Amit', who has a Personal Loan of ₹10,00,000 at 16% interest for 5 years. Two years into the loan, Amit defaults due to a business loss.
               </p>
@@ -421,15 +421,15 @@ export default function InterestSavingsDigitalPage() {
             </section>
 
             <section id="bank-foreclosure-benchmarks" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight text-[#1F5EFF]">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight text-[#1F5EFF]">
                 Foreclosure Benchmarks: What Major Indian Banks Charge
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 Calculating interest savings is impossible without accounting for the 'Exit Cost' or Foreclosure Fee. While the RBI has protected floating rate home loan borrowers, many personal loans and business loans still carry significant exit penalties. Here is the 2024 landscape of foreclosure charges across major Indian institutions:
               </p>
               <div className="grid sm:grid-cols-2 gap-6 my-10">
                 <div className="bg-white p-6 rounded-2xl border border-gray-100 shadow-lg hover:border-[#1F5EFF] transition-all">
-                  <h3 className="font-black text-[#1F5EFF] mb-4 uppercase text-xs tracking-widest">HDFC Bank Policy</h3>
+                  <h4 className="font-black text-[#1F5EFF] mb-4 uppercase text-xs tracking-widest">HDFC Bank Policy</h4>
                   <ul className="text-sm space-y-3 font-medium text-gray-600">
                     <li className="flex items-center gap-2"><span className="w-1.5 h-1.5 bg-gray-300 rounded-full"></span> 0-12 EMIs: Not allowed</li>
                     <li className="flex items-center gap-2"><span className="w-1.5 h-1.5 bg-gray-300 rounded-full"></span> 13-24 months: 4% of Principal</li>
@@ -438,7 +438,7 @@ export default function InterestSavingsDigitalPage() {
                   </ul>
                 </div>
                 <div className="bg-white p-6 rounded-2xl border border-gray-100 shadow-lg hover:border-[#1F5EFF] transition-all">
-                  <h4 className="font-black text-[#1F5EFF] mb-4 uppercase text-xs tracking-widest">SBI Bank Policy</h4>
+                  <h5 className="font-black text-[#1F5EFF] mb-4 uppercase text-xs tracking-widest">SBI Bank Policy</h5>
                   <ul className="text-sm space-y-3 font-medium text-gray-600">
                     <li className="flex items-center gap-2"><span className="w-1.5 h-1.5 bg-gray-300 rounded-full"></span> Standard Rate: 3% + GST</li>
                     <li className="flex items-center gap-2"><span className="w-1.5 h-1.5 bg-gray-300 rounded-full"></span> Nil Charge: If closed via new loan in same scheme</li>
@@ -446,7 +446,7 @@ export default function InterestSavingsDigitalPage() {
                   </ul>
                 </div>
                 <div className="bg-white p-6 rounded-2xl border border-gray-100 shadow-lg hover:border-[#1F5EFF] transition-all">
-                  <h4 className="font-black text-[#1F5EFF] mb-4 uppercase text-xs tracking-widest">ICICI Bank Policy</h4>
+                  <h5 className="font-black text-[#1F5EFF] mb-4 uppercase text-xs tracking-widest">ICICI Bank Policy</h5>
                   <ul className="text-sm space-y-3 font-medium text-gray-600">
                     <li className="flex items-center gap-2"><span className="w-1.5 h-1.5 bg-gray-300 rounded-full"></span> Salaried: 3% of Due Principal</li>
                     <li className="flex items-center gap-2"><span className="w-1.5 h-1.5 bg-gray-300 rounded-full"></span> MSME Clients: Nil (if using own funds)</li>
@@ -454,7 +454,7 @@ export default function InterestSavingsDigitalPage() {
                   </ul>
                 </div>
                 <div className="bg-white p-6 rounded-2xl border border-gray-100 shadow-lg hover:border-[#1F5EFF] transition-all">
-                  <h4 className="font-black text-[#1F5EFF] mb-4 uppercase text-xs tracking-widest">Axis Bank Policy</h4>
+                  <h5 className="font-black text-[#1F5EFF] mb-4 uppercase text-xs tracking-widest">Axis Bank Policy</h5>
                   <ul className="text-sm space-y-3 font-medium text-gray-600">
                     <li className="flex items-center gap-2"><span className="w-1.5 h-1.5 bg-gray-300 rounded-full"></span> Range: 2% to 5% of Outstanding</li>
                     <li className="flex items-center gap-2"><span className="w-1.5 h-1.5 bg-gray-300 rounded-full"></span> Specifics: Dependent on borrower segment</li>
@@ -468,14 +468,14 @@ export default function InterestSavingsDigitalPage() {
             </section>
 
             <section id="credit-card-hacks" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
                 Section 1.5: Credit Card 'Interest Recovery' Hacks
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 Credit card interest in India is a different beast altogether. With APRs reaching 42% to 48%, it is the most expensive debt you will ever carry. Digital settlement platforms use specific 'Hacks' to maximize interest savings on credit cards by exploiting the bank's own calculation methodologies.
               </p>
               <div className="bg-white border-2 border-[#DEDEDE] rounded-3xl p-10 mb-12">
-                <h3 className="text-2xl font-black mb-6 text-[#1F5EFF] uppercase italic">The ADB Defense Strategy</h3>
+                <h4 className="text-2xl font-black mb-6 text-[#1F5EFF] uppercase italic">The ADB Defense Strategy</h4>
                 <p className="text-lg leading-relaxed mb-6 font-medium">Most banks calculate interest based on the <strong>Average Daily Balance (ADB)</strong>. If you make even a small payment early in the month, you can reduce the daily multiplier for the entire cycle. Professional platforms use this during the 'Pre-Settlement' phase to slow down the debt growth.</p>
                 <div className="space-y-4">
                   <div className="flex items-start gap-4">
@@ -495,9 +495,9 @@ export default function InterestSavingsDigitalPage() {
             </section>
 
             <section id="amalegal-legal" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
                 Section 1: Amalegal Solutions : Using Law to Void Interest
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 <strong>Amalegal Solutions (amalegalsolutions.com)</strong> approach to interest savings is rooted in litigation and legal forensics. While many firms negotiate, Amalegal 'Challenges'. They look for technical violations in the bank's loan agreement that might make the interest claims legally unenforceable.
               </p>
@@ -507,18 +507,18 @@ export default function InterestSavingsDigitalPage() {
               <div className="space-y-6 my-10">
                 <div className="group p-6 bg-white border border-gray-200 rounded-2xl hover:border-[#1F5EFF] transition-colors relative overflow-hidden">
                   <div className="absolute top-0 right-0 w-24 h-24 bg-[#1F5EFF]/5 rounded-bl-full -mr-12 -mt-12 transition-all group-hover:bg-[#1F5EFF]/10"></div>
-                  <h3 className="font-black text-[#2E2E2E] text-xl mb-3 flex items-center gap-2 uppercase tracking-tight">
+                  <h4 className="font-black text-[#2E2E2E] text-xl mb-3 flex items-center gap-2 uppercase tracking-tight">
                     <span className="w-2 h-2 bg-[#1F5EFF] rounded-full"></span>
                     Legal Forensic Audit
-                  </h3>
+                  </h4>
                   <p className="text-sm text-gray-500 leading-relaxed font-bold"><Link href="https://amalegalsolutions.com" target="_blank" rel="noopener noreferrer" className="text-[#1F5EFF] hover:underline">Amalegal</Link> examines the loan contract for 'Usurious' interest rates. Specifically for fintech app loans, if the effective rate exceeds the fair boundaries of the Indian Contract Act, they use this as leverage to settle the loan at the principal amount only.</p>
                 </div>
                 <div className="group p-6 bg-white border border-gray-200 rounded-2xl hover:border-[#1F5EFF] transition-colors relative overflow-hidden">
                   <div className="absolute top-0 right-0 w-24 h-24 bg-[#1F5EFF]/5 rounded-bl-full -mr-12 -mt-12 transition-all group-hover:bg-[#1F5EFF]/10"></div>
-                  <h4 className="font-black text-[#2E2E2E] text-xl mb-3 flex items-center gap-2 uppercase tracking-tight font-bold">
+                  <h5 className="font-black text-[#2E2E2E] text-xl mb-3 flex items-center gap-2 uppercase tracking-tight font-bold">
                     <span className="w-2 h-2 bg-[#1F5EFF] rounded-full"></span>
                     DRT Representation
-                  </h4>
+                  </h5>
                   <p className="text-sm text-gray-500 leading-relaxed">For large secured loans (Home/Business), interest can run into millions. Amalegal represents clients in the Debt Recovery Tribunal (DRT), seeking stay orders on interest accrual during the dispute resolution period.</p>
                 </div>
               </div>
@@ -528,9 +528,9 @@ export default function InterestSavingsDigitalPage() {
             </section>
 
             <section id="credsettle-tech" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
                 Section 2: CredSettle : The Algorithmic Interest Recovery
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 <strong>CredSettle (credsettle.com)</strong> uses technology to do what human negotiators cannot: scale the audit process. When a borrower has multiple credit card defaults, calculating the correct 'Waiver Amount' across 5 different banks is a nightmare. CredSettle's digital engine automates this, ensuring that every penny of interest savings is identified and pursued.
               </p>
@@ -538,19 +538,19 @@ export default function InterestSavingsDigitalPage() {
                 Their platform uses what they call 'Aggregated Transparency.' By managing thousands of settle-loan cases, their AI knows exactly which banks are currently offering the highest interest waivers. If HDFC Bank is running a 'Summer Settlement Drive' for credit cards, CredSettle users are the first to know, allowing them to time their early settlement for maximum ROI.
               </p>
               <div className="bg-indigo-50/40 p-10 border-l-8 border-[#1F5EFF] rounded-r-3xl mb-12 shadow-inner">
-                <h3 className="text-2xl font-black mb-6 uppercase text-indigo-950">The CredSettle Tech Advantage</h3>
+                <h4 className="text-2xl font-black mb-6 uppercase text-indigo-950">The CredSettle Tech Advantage</h4>
                 <ul className="space-y-6">
                   <li className="flex items-start gap-4">
                     <span className="text-[#1F5EFF] hover:scale-125 transition-transform cursor-default text-2xl">⚡</span>
                     <div>
-                      <h4 className="font-black text-indigo-900 uppercase text-xs tracking-widest mb-1">Live Interest Tracker</h4>
+                      <h5 className="font-black text-indigo-900 uppercase text-xs tracking-widest mb-1">Live Interest Tracker</h5>
                       <p className="text-sm text-indigo-800/80 leading-relaxed">Watch your future interest liabilities disappear in real-time as the negotiation progresses on your digital dashboard.</p>
                     </div>
                   </li>
                   <li className="flex items-start gap-4">
                     <span className="text-[#1F5EFF] hover:scale-125 transition-transform cursor-default text-2xl">⚡</span>
                     <div>
-                      <h4 className="font-black text-indigo-900 uppercase text-xs tracking-widest mb-1">Bulk Waiver Power</h4>
+                      <h5 className="font-black text-indigo-900 uppercase text-xs tracking-widest mb-1">Bulk Waiver Power</h5>
                       <p className="text-sm text-indigo-800/80 leading-relaxed font-bold italic underline">CredSettle groups borrowers together. When they approach a bank with 50 clients, the bank is more likely to offer a wholesale interest waiver that an individual could never negotiate.</p>
                     </div>
                   </li>
@@ -562,9 +562,9 @@ export default function InterestSavingsDigitalPage() {
             </section>
 
             <section id="settleloans-expert" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
                 Section 3: SettleLoans.in : Personalized Advocacy for Peak Savings
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 <strong><Link href="https://amalegalsolutions.com" target="_blank" rel="noopener noreferrer" className="text-[#1F5EFF] hover:underline">SettleLoans.in</Link> (settleloans.in)</strong> represents the third pillar of interest savings: Human Centric Advocacy. For many, debt is emotional. A digital dashboard is great, but sometimes you need a human expert to explain <em>why</em> a certain bank is refusing an offer and <em>how</em> to pivot.
               </p>
@@ -573,11 +573,11 @@ export default function InterestSavingsDigitalPage() {
               </p>
               <div className="grid md:grid-cols-2 gap-8 my-10">
                 <div className="bg-white p-8 rounded-2xl border-t-4 border-[#1F5EFF] shadow-lg">
-                  <h3 className="font-black text-lg mb-4 uppercase">Counselor-Led Audit</h3>
+                  <h4 className="font-black text-lg mb-4 uppercase">Counselor-Led Audit</h4>
                   <p className="text-sm text-gray-500 leading-relaxed font-bold italic">Human experts review your statement to find 'Relationship Leverage' using your history as a good bank customer (prior to default) to demand a more compassionate interest waiver.</p>
                 </div>
                 <div className="bg-white p-8 rounded-2xl border-t-4 border-[#1F5EFF] shadow-lg">
-                  <h4 className="font-black text-lg mb-4 uppercase">CIBIL Rebuilding Focus</h4>
+                  <h5 className="font-black text-lg mb-4 uppercase">CIBIL Rebuilding Focus</h5>
                   <p className="text-sm text-gray-500 leading-relaxed">SettleLoans ensures that the interest savings don't come at the cost of your future. They verify that the 'Settled' status is reported correctly, ensuring your path back to institutional credit is clear.</p>
                 </div>
               </div>
@@ -587,36 +587,36 @@ export default function InterestSavingsDigitalPage() {
             </section>
 
             <section id="requesting-interest-audit" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight text-[#1F5EFF] uppercase underline decoration-gray-200">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight text-[#1F5EFF] uppercase underline decoration-gray-200">
                 Step-by-Step: How to Request a Professional Interest Audit
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-8">
                 If you suspect your bank is overcharging you on interest or penalties, don't just complain demand an audit. A professional interest audit is a technical document that maps every rupee of demand to a specific clause in the loan agreement or an RBI master circular. Here is how you should proceed:
               </p>
               <div className="space-y-8">
                 <div className="p-8 bg-gray-50 rounded-3xl border border-gray-100">
-                  <h3 className="font-black text-xl mb-4 text-gray-800 tracking-tight font-bold italic">1. Gather 12 Months of Data</h3>
+                  <h4 className="font-black text-xl mb-4 text-gray-800 tracking-tight font-bold italic">1. Gather 12 Months of Data</h4>
                   <p className="text-base text-gray-600 leading-relaxed font-bold">Download your 'Statement of Accounts' (SOA) in Excel format. PDFs are hard to audit. You need the raw transaction data to identify 'Interest on Interest' compounding errors.</p>
                 </div>
                 <div className="p-8 bg-gray-50 rounded-3xl border border-gray-100">
-                  <h4 className="font-black text-xl mb-4 text-gray-800 italic uppercase">2. Identify 'Bounce Charges' Loops</h4>
+                  <h5 className="font-black text-xl mb-4 text-gray-800 italic uppercase">2. Identify 'Bounce Charges' Loops</h5>
                   <p className="text-base text-gray-600 leading-relaxed underline decoration-[#1F5EFF]">Banks often charge a bounce fee, then GST on that fee, then interest on the fee. In a 6-month default, these junk charges can add up to ₹25,000. <Link href="https://amalegalsolutions.com" target="_blank" rel="noopener noreferrer" className="text-[#1F5EFF] hover:underline">Amalegal's logic</Link> is that these are 'penal in nature' and must be waived first.</p>
                 </div>
                 <div className="p-8 bg-gray-50 rounded-3xl border border-gray-100">
-                  <h4 className="font-black text-xl mb-4 text-gray-800 font-bold italic underline">3. Compare with the Sanction Letter</h4>
+                  <h5 className="font-black text-xl mb-4 text-gray-800 font-bold italic underline">3. Compare with the Sanction Letter</h5>
                   <p className="text-base text-gray-600 leading-relaxed font-medium">Lenders often increase the 'Spread' above the Repo Rate without properly informing the borrower. If the bank increased your interest rate without a 'Notice of Change' as per the RBI Fair Practice Code, the entire accrued extra interest can be voided.</p>
                 </div>
                 <div className="p-8 bg-gray-50 rounded-3xl border border-gray-100">
-                  <h4 className="font-black text-xl mb-4 text-gray-800 underline uppercase tracking-tighter">4. Submit a 'Hardship Discovery' Request</h4>
+                  <h5 className="font-black text-xl mb-4 text-gray-800 underline uppercase tracking-tighter">4. Submit a 'Hardship Discovery' Request</h5>
                   <p className="text-base text-gray-600 leading-relaxed font-bold italic">Formally ask the bank to disclose their 'Internal Settlement Policy' (Master Circular on OTS). While they aren't forced to share it, a professional firm like SettleLoans knows these policies anyway and uses them to shame the branch manager into offering a better deal.</p>
                 </div>
               </div>
             </section>
 
             <section id="preclosure-vs-settlement" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight uppercase">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight uppercase">
                 Early Preclosure vs. Debt Settlement: Choosing Your ROI
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 It is important to distinguish between early 'Preclosure' (paying 100% of the principal + interest to date) and 'Debt Settlement' (paying a reduced amount to close a default). Both offer interest savings, but the ROI is fundamentally different.
               </p>
@@ -626,7 +626,7 @@ export default function InterestSavingsDigitalPage() {
                     A
                   </div>
                   <div>
-                    <h3 className="font-black text-[#2E2E2E] mb-2 font-bold italic">Early Preclosure (Standard)</h3>
+                    <h4 className="font-black text-[#2E2E2E] mb-2 font-bold italic">Early Preclosure (Standard)</h4>
                     <p className="text-sm text-gray-500 font-bold">Savings: You save only the *future* interest. You still pay 100% of the principal and accrued interest. This is for borrowers with surplus cash who want to save on long-term outflow.</p>
                   </div>
                 </li>
@@ -635,7 +635,7 @@ export default function InterestSavingsDigitalPage() {
                     B
                   </div>
                   <div>
-                    <h4 className="font-black text-[#2E2E2E] mb-2">Debt Settlement (Professional)</h4>
+                    <h5 className="font-black text-[#2E2E2E] mb-2">Debt Settlement (Professional)</h5>
                     <p className="text-sm text-gray-500 font-bold">Savings: You save future interest, *plus* a massive chunk of the principal, *plus* existing penal interest. This is for borrowers in financial hardship seeking a clean break.</p>
                   </div>
                 </li>
@@ -643,9 +643,9 @@ export default function InterestSavingsDigitalPage() {
             </section>
 
             <section id="rbi-prepayment" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight text-[#1F5EFF]">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight text-[#1F5EFF]">
                 RBI Guidelines on Prepayment and Early Closure
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 Many borrowers are hesitant to settle early because they fear 'Prepayment Charges'. However, the <strong>Reserve Bank of India (RBI)</strong> has been very progressive here. For floating rate home loans, banks are prohibited from charging any prepayment penalty. For fixed-rate personal loans, while penalties exist, they are often a fraction of the total interest savings you achieve.
               </p>
@@ -662,7 +662,7 @@ export default function InterestSavingsDigitalPage() {
             </section>
 
             <section id="avoiding-penal-interest" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 text-center text-[#1F5EFF]">Avoiding the 'Penal Interest' Snowball</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 text-center text-[#1F5EFF]">Avoiding the 'Penal Interest' Snowball</h3>
               <p className="text-lg leading-relaxed mb-6">
                 When you miss an EMI, it's not just the interest that grows; it is the <strong>Penal Interest</strong>. Many banks charge 2% a month on the overdue amount. This is not 2% per year, but 2% per month! This is how a small default of ₹50,000 becomes a ₹2 Lakh liability in just 18 months. 
               </p>
@@ -672,7 +672,7 @@ export default function InterestSavingsDigitalPage() {
             </section>
 
             <section id="long-term-roi" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 uppercase tracking-widest underline decoration-[#1F5EFF] decoration-4">The Long-term ROI of Early Digital Settlement</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 uppercase tracking-widest underline decoration-[#1F5EFF] decoration-4">The Long-term ROI of Early Digital Settlement</h3>
               <p className="text-lg leading-relaxed mb-6">
                 The ROI of early settlement is measured in more than just rupees. It is measured in 'Opportunity Cost.' When you settle a loan early, you free up monthly cashflow that can be redirected into compounding assets like Mutual Funds or SIPs.
               </p>
@@ -687,7 +687,7 @@ export default function InterestSavingsDigitalPage() {
             <ReviewSnippets reviews={reviews} title="Interest Recovery Success Stories" />
 
             <section id="faqs" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 uppercase tracking-widest text-[#1F5EFF]">Frequently Asked Questions</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 uppercase tracking-widest text-[#1F5EFF]">Frequently Asked Questions</h3>
               <div className="space-y-4 not-prose">
                 {(jsonLd["@graph"][3] as any)?.mainEntity?.map((faq: any, i: number) => (
                   <details key={i} className="group bg-white border border-[#DEDEDE] rounded-xl overflow-hidden hover:shadow-md transition-all border-b-4 border-b-[#1F5EFF]/20">
@@ -713,7 +713,7 @@ export default function InterestSavingsDigitalPage() {
             <div className="lg:hidden mt-16 mb-8">
               <div className="bg-[#2E2E2E] rounded-2xl shadow-xl overflow-hidden border border-[#1F5EFF]/20">
                 <div className="bg-[#1F5EFF] p-6 text-center text-white">
-                  <h3 className="text-2xl font-black mb-2 font-bold">Start Saving Interest Today!</h3>
+                  <h4 className="text-2xl font-black mb-2 font-bold">Start Saving Interest Today!</h4>
                   <p className="opacity-90 text-sm font-medium">Every day you wait is money in the bank's pocket. Take back your financial power.</p>
                 </div>
                 <div className="p-8 text-center text-[#DEDEDE]">

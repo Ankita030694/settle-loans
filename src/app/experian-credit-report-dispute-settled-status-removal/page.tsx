@@ -559,7 +559,7 @@ export default function ExperianDisputeSettledStatusRemovalPage() {
 
             {/* Section 2: Statutory Legal Grounding: CICRA Act 2005 & RBI Compensation Framework */}
             <section id="statutory-dispute-rights-cicra-2005" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">2. Statutory Grounding for Experian Disputes</h2>
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">2. Statutory Grounding for Experian Disputes</h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Your right to accurate credit data is protected by law. The primary law is the <strong>Credit Information Companies (Regulation) Act, 2005 (CICRA)</strong>. It works alongside the CIC Rules and Regulations 2006.
               </p>
@@ -614,7 +614,7 @@ export default function ExperianDisputeSettledStatusRemovalPage() {
 
             {/* Section 3: The Mechanical Anatomy of Credit Bureau Inaccuracies */}
             <section id="anatomy-of-experian-reporting-errors" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">3. The Mechanical Anatomy of Credit Bureau Inaccuracies</h2>
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">3. The Mechanical Anatomy of Credit Bureau Inaccuracies</h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 To understand why errors happen on Experian, look at how banks process settled loans. When you complete an OTS settlement, the bank verifies payment. Then, bank staff must update internal records and tag the account for credit bureaus.
               </p>
@@ -624,28 +624,28 @@ export default function ExperianDisputeSettledStatusRemovalPage() {
 
               <div className="space-y-3 my-4">
                 <div className="p-4 rounded-xl border-l-4 border-red-500 bg-slate-50 space-y-1">
-                  <h3 className="font-bold text-slate-900 text-xs sm:text-sm flex items-center gap-1.5">
+                  <h4 className="font-bold text-slate-900 text-xs sm:text-sm flex items-center gap-1.5">
                     <AlertCircle className="w-4 h-4 text-red-600" />
                     <span>Premature Balance Sheet Write-Off Prior to Settlement Inflow</span>
-                  </h3>
+                  </h4>
                   <p className="text-xs text-slate-600 leading-relaxed">
                     Banks often write off bad loans after 180 days. Did you settle after this write-off? The bank often forgets to update Experian. Your status must show &quot;Post-Write-off Settled&quot. with a ₹0 balance.
                   </p>
                 </div>
                 <div className="p-4 rounded-xl border-l-4 border-amber-500 bg-slate-50 space-y-1">
-                  <h4 className="font-bold text-slate-900 text-xs sm:text-sm flex items-center gap-1.5">
+                  <h5 className="font-bold text-slate-900 text-xs sm:text-sm flex items-center gap-1.5">
                     <ShieldAlert className="w-4 h-4 text-amber-600" />
                     <span>Fragmented Multi-Bureau Member Reporting Feeds</span>
-                  </h4>
+                  </h5>
                   <p className="text-xs text-slate-600 leading-relaxed">
                     Banks often update CIBIL first and delay Experian files. Any format glitch or data error can freeze your Experian profile in default status.
                   </p>
                 </div>
                 <div className="p-4 rounded-xl border-l-4 border-purple-500 bg-slate-50 space-y-1">
-                  <h4 className="font-bold text-slate-900 text-xs sm:text-sm flex items-center gap-1.5">
+                  <h5 className="font-bold text-slate-900 text-xs sm:text-sm flex items-center gap-1.5">
                     <CreditCard className="w-4 h-4 text-purple-600" />
                     <span>Lingering Phantom Overdue Balances &amp; DPD Accumulation</span>
-                  </h4>
+                  </h5>
                   <p className="text-xs text-slate-600 leading-relaxed">
                     Some bank systems leave waived amounts in the overdue field. Showing an overdue balance on a settled account lowers your credit score every month.
                   </p>
@@ -659,7 +659,7 @@ export default function ExperianDisputeSettledStatusRemovalPage() {
 
             {/* Section 4: Bank Accounting, NPA Provisioning & NPV Dispute Valuation Formula */}
             <section id="bank-accounting-npa-npv-formula" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">4. Bank Balance Sheet Accounting, NPA Provisioning</h2>
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">4. Bank Balance Sheet Accounting, NPA Provisioning</h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Banks must follow <strong>RBI Prudential Norms on Income Recognition, Asset status and reserves (IRACP)</strong>. These rules force lenders to set aside capital reserves for overdue accounts:
               </p>
@@ -728,7 +728,7 @@ export default function ExperianDisputeSettledStatusRemovalPage() {
 
             {/* Section 5: Infographic Banner */}
             <section id="experian-dispute-visual-roadmap" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">5. Experian Credit Dispute Strategic Roadmap</h2>
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">5. Experian Credit Dispute Strategic Roadmap</h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 This roadmap guides you from settlement to credit repair. It covers your No Dues Certificate, online dispute filing. And score recovery to 750+.
               </p>
@@ -763,32 +763,32 @@ export default function ExperianDisputeSettledStatusRemovalPage() {
 
             {/* Section 6: The Step-by-Step Experian India Online & Legal Dispute Protocol */}
             <section id="step-by-step-experian-dispute-protocol" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">6. Step-by-Step Experian India Dispute Protocol</h2>
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">6. Step-by-Step Experian India Dispute Protocol</h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Fixing an Experian record requires proper legal documents and official channels. Calling regular customer care rarely works. Customer agents cannot change records without bank approval. Follow this 4-stage Experian dispute process:
               </p>
 
               <div className="space-y-3 my-4">
                 <div className="p-4 rounded-xl border-l-4 border-blue-600 bg-slate-50 space-y-1">
-                  <h3 className="font-bold text-slate-900 text-xs sm:text-sm">Stage 1: Generate Latest Experian Credit Report &amp; Extract ERN</h3>
+                  <h4 className="font-bold text-slate-900 text-xs sm:text-sm">Stage 1: Generate Latest Experian Credit Report &amp; Extract ERN</h4>
                   <p className="text-xs text-slate-600 leading-relaxed">
                     Get your recent Experian report. Find your unique <strong>10-digit Experian Report Number (ERN)</strong> at the top. You need an ERN issued in the last 30 days to file a valid dispute.
                   </p>
                 </div>
                 <div className="p-4 rounded-xl border-l-4 border-indigo-600 bg-slate-50 space-y-1">
-                  <h4 className="font-bold text-slate-900 text-xs sm:text-sm">Stage 2: Lodge Formal Online Dispute on Experian Consumer Portal</h4>
+                  <h5 className="font-bold text-slate-900 text-xs sm:text-sm">Stage 2: Lodge Formal Online Dispute on Experian Consumer Portal</h5>
                   <p className="text-xs text-slate-600 leading-relaxed">
                     Go to the Experian India Online Dispute Portal. Enter your ERN, PAN, date of birth. And phone number. Select the account and dispute the Account Status and Overdue Balance.
                   </p>
                 </div>
                 <div className="p-4 rounded-xl border-l-4 border-purple-600 bg-slate-50 space-y-1">
-                  <h4 className="font-bold text-slate-900 text-xs sm:text-sm">Stage 3: Upload Comprehensive Evidentiary Dossier</h4>
+                  <h5 className="font-bold text-slate-900 text-xs sm:text-sm">Stage 3: Upload Comprehensive Evidentiary Dossier</h5>
                   <p className="text-xs text-slate-600 leading-relaxed">
                     Upload clear copies of key documents: (1) Official Settlement Sanction Letter, (2) Bank statements with UTR numbers, and (3) Stamped <strong>No Dues Certificate (NDC)</strong>.
                   </p>
                 </div>
                 <div className="p-4 rounded-xl border-l-4 border-amber-600 bg-slate-50 space-y-1">
-                  <h4 className="font-bold text-slate-900 text-xs sm:text-sm">Stage 4: Experian-to-Bank Verification Loop &amp; 30-Day Resolution</h4>
+                  <h5 className="font-bold text-slate-900 text-xs sm:text-sm">Stage 4: Experian-to-Bank Verification Loop &amp; 30-Day Resolution</h5>
                   <p className="text-xs text-slate-600 leading-relaxed">
                     Experian sends a verification request to your bank. Under CICRA rules, the bank has <strong>21 calendar days</strong> to verify records. Experian will update your report within the 30-day legal window.
                   </p>
@@ -802,7 +802,7 @@ export default function ExperianDisputeSettledStatusRemovalPage() {
 
             {/* Section 7: Converting Settled Status to Closed */}
             <section id="converting-settled-to-closed-strategy" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">7. Converting "Settled" Status to "Closed"</h2>
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">7. Converting "Settled" Status to "Closed"</h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Did you settle a loan in the past? Your report may show &quot;Settled&quot. with a ₹0 balance. This tag is factually correct after a settlement. However, automated bank filters may still flag it as a risk. This can lead to instant rejections on new loans.
               </p>
@@ -856,7 +856,7 @@ export default function ExperianDisputeSettledStatusRemovalPage() {
 
             {/* Section 8: Sanction Letter Forensics & RBI NDC Mandate */}
             <section id="sanction-forensics-rbi-ndc-mandate" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">8. Sanction Letter Forensics &amp; NDC for Experian</h2>
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">8. Sanction Letter Forensics &amp; NDC for Experian</h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Do not rely on verbal promises or unverified settlement letters from collection agents. Fake settlement letters waste your money and leave your Experian record in default.
               </p>
@@ -884,9 +884,9 @@ export default function ExperianDisputeSettledStatusRemovalPage() {
                 </p>
               </div>
 
-              <h3 className="text-base sm:text-lg font-bold text-slate-900 pt-2">
+              <h4 className="text-base sm:text-lg font-bold text-slate-900 pt-2">
                 The Experian Score Rehabilitation Trajectory (580 to 750+)
-              </h3>
+              </h4>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Once Experian updates your status to &quot;Closed&quot. with ₹0 balance, your score begins to recover. Follow three simple steps. First, get a fixed-deposit credit card with a ₹30,000–₹50,000 limit. Next, keep credit usage below 25%. Finally, pay bills in full every month. Your score can reach 750+ within 12 to 18 months.
               </p>
@@ -894,7 +894,7 @@ export default function ExperianDisputeSettledStatusRemovalPage() {
 
             {/* Section 9: Comparative Matrix: Experian Dispute Resolution Pathways */}
             <section id="comparative-matrix-dispute-pathways" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">9. Experian Credit Report Dispute Matrix</h2>
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">9. Experian Credit Report Dispute Matrix</h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Compare the main dispute and rectification options under Indian banking laws:
               </p>
@@ -947,7 +947,7 @@ export default function ExperianDisputeSettledStatusRemovalPage() {
             {/* Section 10: SettleLoans Legal Defense & Advisory + CompanySection */}
             <section id="settleloans-credit-dispute-advisory" className="space-y-6">
               <div className="border-t border-slate-200 pt-8 space-y-4">
-                <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">10. SettleLoans Multi-Bureau Dispute Defense</h2>
+                <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">10. SettleLoans Multi-Bureau Dispute Defense</h3>
                 <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                   Fixing multi-bureau credit errors in India requires legal and banking expertise. At SettleLoans, our legal team audits your reports across Experian, CIBIL, Equifax, and CRIF High Mark. We detect wrong entries, illegal write-offs. And phantom balances. We serve legal notices to bank Nodal Officers and file Experian disputes. We also escalate delays to the RBI Ombudsman. Our team helps you convert &quot;Settled&quot. marks to clean &quot;Closed&quot. accounts.
                 </p>
@@ -961,7 +961,7 @@ export default function ExperianDisputeSettledStatusRemovalPage() {
             <section id="faqs" className="space-y-4 border-t border-slate-200 pt-8">
               <div className="flex items-center gap-2 mb-2">
                 <HelpCircle className="w-5 h-5 text-[#1F5EFF]" />
-                <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">11. FAQs: Experian Credit Report Disputes</h2>
+                <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">11. FAQs: Experian Credit Report Disputes</h3>
               </div>
               <p className="text-xs sm:text-sm text-slate-600 mb-6">
                 Direct answers to common questions about Experian disputes, CICRA rules. And credit score recovery.
@@ -991,9 +991,9 @@ export default function ExperianDisputeSettledStatusRemovalPage() {
 
             {/* 5 Official Regulatory Links */}
             <section className="border-t border-slate-200 pt-8 mb-4">
-              <h3 className="text-xs sm:text-sm font-bold text-slate-900 mb-3 uppercase tracking-wider">
+              <h4 className="text-xs sm:text-sm font-bold text-slate-900 mb-3 uppercase tracking-wider">
                 Official Statutory &amp; Regulatory References
-              </h3>
+              </h4>
               <div className="grid grid-cols-1 sm:grid-cols-2 gap-2.5 text-xs">
                 <a
                   href="https://indiacode.gov.in/handle/123456789/2065"
@@ -1045,9 +1045,9 @@ export default function ExperianDisputeSettledStatusRemovalPage() {
 
             {/* 10 Related Guide Badges */}
             <section className="border-t border-slate-200 pt-8 mb-8">
-              <h3 className="text-xs sm:text-sm font-bold text-slate-900 mb-4 uppercase tracking-wider">
+              <h4 className="text-xs sm:text-sm font-bold text-slate-900 mb-4 uppercase tracking-wider">
                 Related Credit Repair &amp; Debt Resolution Guides
-              </h3>
+              </h4>
               <div className="flex flex-wrap gap-2">
                 <Link
                   href="/case-study-cibil-status-settled-to-closed"

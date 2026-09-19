@@ -15,7 +15,7 @@ export const metadata: Metadata = {
     'settle credit card or personal loan first',
     'credit card settlement cibil score impact',
     'one time settlement ots credit card vs loan',
-    'bank negotiation credit card vs personal loan',
+    'bank talks credit card vs personal loan',
     'debt settlement priority with limited cash',
     'credit card charge off vs loan npa settlement',
   ],
@@ -134,7 +134,7 @@ const jsonLdGraph = {
       "@type": "FinancialService",
       "@id": "https://www.settleloans.in/credit-card-vs-personal-loan-settlement#service",
       "name": "SettleLoans - Credit Card & Personal Loan Settlement Advisory",
-      "description": "Expert multi-lender debt resolution, credit card charge-off negotiation, personal loan compromise settlement, anti-harassment legal protection, and credit rehabilitation across India.",
+      "description": "Expert multi-lender debt resolution, credit card charge-off talks, personal loan compromise settlement, anti-harassment legal protection, and credit recovery across India.",
       "url": "https://www.settleloans.in/credit-card-vs-personal-loan-settlement",
       "image": "https://www.settleloans.in/images/infographics/credit-card-vs-personal-loan-settlement.jpg",
       "telephone": "+91-99999-99999",
@@ -240,7 +240,7 @@ const jsonLdGraph = {
           "name": "Why do credit cards offer higher settlement discounts than personal loans?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Credit cards offer larger discounts because after 90 to 180 days of default, banks classify revolving card debt as charged-off loss assets with 100% provisioning. Furthermore, 40% to 60% of accumulated credit card balances often represent accrued finance charges and late fees rather than original disbursed capital, giving bank credit card recovery divisions broader discretionary waiver authority."
+            "text": "Credit cards offer larger discounts because after 90 to 180 days of default, banks classify revolving card debt as charged-off loss assets with 100% provisioning. also, 40% to 60% of accumulated credit card balances often represent accrued finance charges and late fees rather than original disbursed capital, giving bank credit card recovery divisions broader discretionary waiver authority."
           }
         },
         {
@@ -264,7 +264,7 @@ const jsonLdGraph = {
           "name": "Can a bank file a Section 138 cheque bounce case for unpaid credit card bills?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Generally no, unless you physically issued a security cheque that subsequently bounced upon presentation. Credit card accounts operate through electronic cardholder agreements rather than post-dated cheques. However, personal loans mandate automated NACH e-mandates, which routinely trigger Section 25 of the Payment and Settlement Systems Act or Section 138 proceedings upon default."
+            "text": "Generally no, unless you physically issued a security cheque that then bounced upon presentation. Credit card accounts operate through electronic cardholder agreements rather than post-dated cheques. However, personal loans mandate automated NACH e-mandates, which routinely trigger Section 25 of the Payment and Settlement Systems Act or Section 138 cases upon default."
           }
         },
         {
@@ -272,7 +272,7 @@ const jsonLdGraph = {
           "name": "How does credit card settlement impact my CIBIL score compared to loan settlement?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Both credit card and personal loan settlements result in a 'Settled' or 'Post (WO) Settled' remark on your credit bureau report and an immediate score drop of 75 to 150 points. However, settling credit cards terminates high revolving credit utilization (CUR) reporting, which actually speeds up bureau recovery once a secured credit rebuilding protocol is initiated."
+            "text": "Both credit card and personal loan settlements result in a 'Settled' or 'Post (WO) Settled' remark on your credit bureau report and an immediate score drop of 75 to 150 points. However, settling credit cards ends high revolving credit use (CUR) reporting, which actually speeds up bureau recovery once a secured credit rebuilding protocol is started."
           }
         },
         {

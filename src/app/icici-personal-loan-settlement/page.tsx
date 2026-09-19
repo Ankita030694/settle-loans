@@ -116,7 +116,7 @@ const jsonLdGraph = {
       "@type": "FinancialService",
       "@id": "https://www.settleloans.in/icici-personal-loan-settlement#service",
       "name": "SettleLoans - ICICI Bank Personal Loan Settlement & Legal Defense",
-      "description": "Specialized legal and financial negotiation advisory for settling defaulted ICICI Bank personal loans, Insta EMI credit, and credit cards under RBI compromise frameworks with maximum debt waivers.",
+      "description": "Specialized legal and financial talks advisory for settling defaulted ICICI Bank personal loans, Insta EMI credit, and credit cards under RBI compromise frameworks with maximum debt waivers.",
       "url": "https://www.settleloans.in/icici-personal-loan-settlement",
       "image": "https://www.settleloans.in/images/infographics/icici-personal-loan-settlement.jpg",
       "telephone": "+91-99999-99999",
@@ -195,7 +195,7 @@ const jsonLdGraph = {
             "name": "Pooja Chawla"
           },
           "datePublished": "2026-08-08",
-          "reviewBody": "Professional legal team that understands ICICI Bank's internal approval hierarchy. They stopped unauthorized recovery calls within 48 hours and negotiated directly with the Principal Nodal Officer and SARB desk. Successfully settled my personal loan with a 50% discount and clean closure documentation.",
+          "reviewBody": "Professional legal team that understands ICICI Bank's internal approval hierarchy. They stopped unauthorized recovery calls within 48 hours and negotiated directly with the Principal Nodal Officer and SARB desk. Successfully settled my personal loan with a 50% discount and clean closure records.",
           "reviewRating": {
             "@type": "Rating",
             "ratingValue": "5",
@@ -214,7 +214,7 @@ const jsonLdGraph = {
           "name": "What is the ICICI Bank personal loan settlement process and how does it work?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "The ICICI Bank personal loan settlement process is a formal compromise resolution between ICICI Bank Limited and a financially distressed borrower unable to service their unsecured loan dues. Once an account exceeds 90 to 180 days of continuous non-payment and transitions into NPA (Non-Performing Asset) status, the borrower submits a structured One-Time Settlement (OTS) proposal accompanied by verified hardship documentation. ICICI Bank's Central Stressed Assets Recovery Branch (SARB) or Competent Credit Committee evaluates the file against Net Present Value (NPV) recovery benchmarks. If approved, ICICI Bank issues a system-generated, stamped OTS Sanction Letter on official letterhead, and upon direct remittance into the loan account, the bank extinguishes residual debt and delivers a No Dues Certificate (NDC)."
+            "text": "The ICICI Bank personal loan settlement process is a formal compromise resolution between ICICI Bank Limited and a financially distressed borrower unable to service their unsecured loan dues. Once an account exceeds 90 to 180 days of continuous non-payment and transitions into NPA (Non-Performing Asset) status, the borrower submits a structured One-Time Settlement (OTS) proposal accompanied by verified hardship records. ICICI Bank's Central Stressed Assets Recovery Branch (SARB) or Competent Credit Committee evaluates the file against Net Present Value (NPV) recovery benchmarks. If approved, ICICI Bank issues a system-generated, stamped OTS Sanction Letter on official letterhead, and upon direct remittance into the loan account, the bank extinguishes residual debt and delivers a No Dues Certificate (NDC)."
           }
         },
         {
@@ -222,7 +222,7 @@ const jsonLdGraph = {
           "name": "What percentage of debt waiver or haircut does ICICI Bank typically offer on personal loans?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "On unsecured personal loans, Insta Personal Loans, and credit cards, ICICI Bank typically approves debt haircuts ranging between 40% and 65% of the total outstanding ledger balance. The approved waiver percentage is determined by the account's NPA classification tier (Substandard, Doubtful D1/D2, or Written-off), the borrower's documented financial insolvency (such as involuntary job loss or catastrophic medical emergencies), and the extent of balance-sheet provisioning absorbed by the bank. In virtually all sanctioned settlements, 100% of penal charges, late fees, and overdue interest levies are fully waived alongside a substantial principal discount."
+            "text": "On unsecured personal loans, Insta Personal Loans, and credit cards, ICICI Bank typically approves debt haircuts ranging between 40% and 65% of the total outstanding ledger balance. The approved waiver percentage is determined by the account's NPA classification tier (Substandard, Doubtful D1/D2, or Written-off), the borrower's documented financial insolvency (such as involuntary job loss or catastrophic medical emergencies), and the extent of balance-sheet provisioning absorbed by the bank. In virtually all sanctioned settlements, 100% of penal charges, late fees, and overdue interest levies are fully waived alongside a large principal discount."
           }
         },
         {
@@ -246,7 +246,7 @@ const jsonLdGraph = {
           "name": "Can ICICI Bank file a criminal police case or arrest you for personal loan default?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "No. Non-payment of an unsecured personal loan is strictly a civil contractual breach governed by the Indian Contract Act, 1872. The police cannot register an FIR, arrest you, or summon you to a police station for genuine financial default. However, if automated NACH/e-mandates bounce or physical repayment cheques are dishonoured, ICICI Bank can initiate statutory quasi-criminal proceedings under Section 25 of the Payment and Settlement Systems Act, 2007, or Section 138 of the Negotiable Instruments Act, 1881. These court summonses are adjudicable before a magistrate and can be completely resolved through compromise settlement."
+            "text": "No. Non-payment of an unsecured personal loan is strictly a civil contractual breach governed by the Indian Contract Act, 1872. The police cannot register an FIR, arrest you, or summon you to a police station for genuine financial default. However, if automated NACH/e-mandates bounce or physical repayment cheques are dishonoured, ICICI Bank can start statutory quasi-criminal cases under Section 25 of the Payment and Settlement Systems Act, 2007, or Section 138 of the Negotiable Instruments Act, 1881. These court summonses are adjudicable before a magistrate and can be completely resolved through compromise settlement."
           }
         },
         {
@@ -262,7 +262,7 @@ const jsonLdGraph = {
           "name": "What authority tier in ICICI Bank has the power to approve an OTS proposal?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Under ICICI Bank's Delegation of Financial Powers (DoFP) matrix, recovery tele-callers and agency field agents possess zero legal authority to sanction debt waivers. Marginal interest adjustments on standard accounts may be handled at Branch Manager level, but substantial principal haircuts (40%–65%) on retail NPA portfolios are sanctioned exclusively by the Regional Settlement Committee, Zonal Credit Committee, or the Central Stressed Assets Recovery Branch (SARB) headed by authorized Credit Risk Officers."
+            "text": "Under ICICI Bank's Delegation of Financial Powers (DoFP) matrix, recovery tele-callers and agency field agents possess zero legal authority to sanction debt waivers. Marginal interest adjustments on standard accounts may be handled at Branch Manager level, but large principal haircuts (40%–65%) on retail NPA portfolios are sanctioned exclusively by the Regional Settlement Committee, Zonal Credit Committee, or the Central Stressed Assets Recovery Branch (SARB) headed by authorized Credit Risk Officers."
           }
         },
         {
@@ -278,7 +278,7 @@ const jsonLdGraph = {
           "name": "Can an ICICI Bank personal loan be settled in the National Lok Adalat?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Yes. ICICI Bank actively participates in quarterly National Lok Adalat sessions organized by the National Legal Services Authority (NALSA) across district and state courts. In Lok Adalat conciliation, designated bank officers attend with pre-approved settlement discount mandates (typically 40% to 60% haircut). A Lok Adalat settlement award carries the legal status of a binding Civil Court decree with absolute finality under Section 21 of the Legal Services Authorities Act, 1987, ensuring no future appeals or claims can be initiated by the bank."
+            "text": "Yes. ICICI Bank actively participates in quarterly National Lok Adalat sessions organized by the National Legal Services Authority (NALSA) across district and state courts. In Lok Adalat conciliation, designated bank officers attend with pre-approved settlement discount mandates (typically 40% to 60% haircut). A Lok Adalat settlement award carries the legal status of a binding Civil Court decree with absolute finality under Section 21 of the Legal Services Authorities Act, 1987, ensuring no future appeals or claims can be started by the bank."
           }
         },
         {
@@ -286,7 +286,7 @@ const jsonLdGraph = {
           "name": "How long does ICICI Bank take to issue the No Dues Certificate (NDC) after settlement?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Under RBI Circular RBI/2023-24/60, ICICI Bank is legally mandated to issue a formal No Dues Certificate (NDC) / Loan Closure Certificate and update credit bureau records within 30 calendar days of receiving the final settlement tranche. If the bank fails to issue the certificate within 30 days due to operational lapses, it is legally obligated to pay mandatory statutory compensation of ₹5,000 for each day of delay directly to the borrower."
+            "text": "Under RBI Circular RBI/2023-24/60, ICICI Bank is legally mandated to issue a formal No Dues Certificate (NDC) / Loan Closure Certificate and update credit bureau records within 30 calendar days of receiving the final settlement tranche. If the bank fails to issue the certificate within 30 days due to operational lapses, it is legally obligated to pay mandatory statutory relief of ₹5,000 for each day of delay directly to the borrower."
           }
         }
       ]

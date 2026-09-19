@@ -287,7 +287,7 @@ export default function AndhraPradeshLoanSettlementPage() {
             </section>
 
             <section id="money-lenders-act-ap" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl font-black mb-6">The Andhra Pradesh Money Lenders Act 2000: Your First Line of Defense</h2>
+              <h3 className="text-3xl font-black mb-6">The Andhra Pradesh Money Lenders Act 2000: Your First Line of Defense</h3>
               <p>The Andhra Pradesh Money Lenders Act, 2000, is a potent piece of legislation designed to curb the menace of predatory lending. In a state where private finance is rampant, this Act serves as a critical shield for the common man. It mandates that every person or entity carrying on the business of money lending must possess a valid license. Operating without this license is a cognizable offense, and any debt incurred from such an unlicensed lender is legally unenforceable in a court of law.</p>
               <p>For borrowers facing harassment from local financiers or unregistered digital apps, this Act is a game changer. It explicitly prohibits the charging of excessive interest rates, often capping them at a reasonable margin above the commercial bank rates. If you are being forced to pay interest rates that violate these statutory limits, we can intervene legally. We have successfully used this Act to nullify exorbitant interest demands, bringing the total outstanding amount down to a realistic principal figure.</p>
               <p>Another vital provision of the Act is the requirement for lenders to maintain clear and transparent accounts and to provide receipts for every payment. Many informal lenders in Vijayawada and Guntur fail to do this, preferring to deal in cash without records. This violation itself can be grounds for legal action against the lender. At SettleLoans, we rigorously audit the lender's compliance with these provisions. By exposing their regulatory lapses, we gain significant leverage in settlement negotiations, often forcing them to accept a fair closure rather than face legal scrutiny.</p>
@@ -295,7 +295,7 @@ export default function AndhraPradeshLoanSettlementPage() {
             </section>
 
             <section id="agricultural-debt-relief-act" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl font-black mb-6">The Andhra Pradesh Agricultural Indebtedness (Relief) Act 1987</h2>
+              <h3 className="text-3xl font-black mb-6">The Andhra Pradesh Agricultural Indebtedness (Relief) Act 1987</h3>
               <p>Agriculture is the backbone of Andhra Pradesh, but it is also the sector most vulnerable to debt. To address this, the state enacted the Andhra Pradesh Agricultural Indebtedness (Relief) Act, 1987. This landmark legislation provides sweeping relief to "agricultural laborers," "rural artisans," and "small farmers." Its primary objective is to discharge the debts of these vulnerable categories, acknowledging that their indebtedness is often a result of systemic economic factors rather than personal failure.</p>
               <p>Under this Act, eligible debts owed to private money lenders can be deemed wholly discharged, and any ongoing legal proceedings for their recovery are abated. This is a massive protection for the farming community in districts like West Godavari, Prakasam, and Anantapur. However, many farmers are unaware of their eligibility or how to invoke these protections. SettleLoans bridges this gap. We help qualified agricultural borrowers understand if their debts fall under the purview of this Act or similar relief schemes instituted by the state government.</p>
               <p>Even for debts owed to formal banks, which may not be automatically discharged under this specific Act, the principles of agricultural relief guide our negotiations. We cite the spirit of this legislation and relevant RBI circulars on natural calamities to demand loan restructuring or One Time Settlements (OTS) for Kisan Credit Card (KCC) loans and tractor loans. We work with the Lead District Managers to ensure that the benefits intended for farmers actually reach them.</p>
@@ -303,7 +303,7 @@ export default function AndhraPradeshLoanSettlementPage() {
             </section>
 
             <section id="apslsa-lok-adalat" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl font-black mb-6">Resolving Disputes via Andhra Pradesh State Legal Services Authority (APSLSA)</h2>
+              <h3 className="text-3xl font-black mb-6">Resolving Disputes via Andhra Pradesh State Legal Services Authority (APSLSA)</h3>
               <p>The Andhra Pradesh State Legal Services Authority (APSLSA) is a beacon of hope for borrowers seeking a dignified exit from debt. Through its network of Lok Adalats (People's Courts), organized regularly in every district from Srikakulam to Chittoor, the APSLSA provides a forum for amicable settlement. The beauty of the Lok Adalat system is its speed and finality. A settlement reached here has the force of a civil court decree and is non-appealable, bringing absolute closure to the dispute.</p>
               <p>For bank loans and credit card dues, the Lok Adalat is often the most effective route. Banks are keen to reduce their Non-Performing Assets (NPAs) and are often willing to offer substantial waivers - sometimes up to 50% or more - in these sessions to close old files. We at SettleLoans prepare our clients meticulously for these events. We document your financial hardship, prepare the necessary legal applications, and represent you before the conciliators to ensure the bank's offer is fair and genuine.</p>
               <p>In Andhra Pradesh, the "National Lok Adalat" days are massive events where thousands of cases are settled. However, going in unprepared can be risky. Banks may pressure unrepresented borrowers into signing adverse terms. Our presence ensures a level playing field. We negotiate the terms *before* the Lok Adalat session, so the actual hearing is merely a formality to stamp the agreement we have already secured. This strategy has helped hundreds of our clients across Vizag and Vijayawada walk out with a "Settled" letter in hand.</p>
@@ -311,7 +311,7 @@ export default function AndhraPradeshLoanSettlementPage() {
             </section>
 
             <section id="visakhapatnam-drt" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl font-black mb-6">Navigating the Debt Recovery Tribunal (DRT) Visakhapatnam</h2>
+              <h3 className="text-3xl font-black mb-6">Navigating the Debt Recovery Tribunal (DRT) Visakhapatnam</h3>
               <p>For high value loans exceeding ₹20 lakhs, the Debt Recovery Tribunal (DRT) in Visakhapatnam is the critical judicial authority for the coastal districts and beyond. Receiving a summons from the DRT can be intimidating, but it is also a formal invitation to a legal battlefield where you have specific rights. The DRT process is governed by the Recovery of Debts and Bankruptcy Act, 1993, and it is designed to be faster than civil courts.</p>
               <p>When a bank files an Original Application (OA) against you in the Visakhapatnam DRT, it is crucial to respond within the stipulated time with a comprehensive "Written Statement." This is where we challenge the bank's claims. We scrutinize their interest calculations, check for penal interest violations, and verify if they have followed all pre-litigation protocols. A strong defense in the DRT often compels the bank to come to the negotiating table, as they realize that a legal victory might be delayed or uncertain.</p>
               <p>We also specialize in filing "Securitization Applications" (SA) under the SARFAESI Act before the DRT. If your property is being threatened with auction, filing an SA is often the only legal way to stay the proceedings. We have a deep understanding of the procedural nuances practiced by the Presiding Officers in Visakhapatnam. We know what arguments resonate and how to effectively use the tribunal's mechanisms to buy time and force a compromise settlement.</p>
@@ -319,7 +319,7 @@ export default function AndhraPradeshLoanSettlementPage() {
             </section>
 
             <section id="microfinance-regulation" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl font-black mb-6">The A.P. Micro Finance Institutions (Regulation of Money Lending) Act 2011</h2>
+              <h3 className="text-3xl font-black mb-6">The A.P. Micro Finance Institutions (Regulation of Money Lending) Act 2011</h3>
               <p>Andhra Pradesh has a unique history with microfinance, leading to the enactment of the A.P. Micro Finance Institutions (Regulation of Money Lending) Act, 2011. This stringent law was brought in to check the coercive recovery practices of MFIs that were causing widespread distress in rural areas. The Act mandates that MFIs must register with the district authorities and are prohibited from deploying agents who use abusive or threatening language for recovery.</p>
               <p>The Act lays down clear guidelines on repayment schedules and interest transparency. It explicitly forbids MFIs from interfering with the day to day activities of borrowers or using social shaming tactics - a practice that was once rampant in self help groups (SHGs). If you are a member of an SHG or have an individual MFI loan and are facing harassment, this Act provides you with robust legal recourse. You can file a complaint with the Project Director of the DRDA (District Rural Development Agency), who acts as the registering authority.</p>
               <p>At SettleLoans, we have a dedicated vertical for MFI debt resolution. We understand the specific pressure points of this sector. We leverage the 2011 Act to file formal complaints against errant MFIs, which often leads to immediate relief from harassment. We then negotiate directly with the MFI's regional management to restructure the debt or settle it for a principal amount that the borrower can actually afford.</p>
@@ -327,7 +327,7 @@ export default function AndhraPradeshLoanSettlementPage() {
             </section>
 
             <section id="consumer-protection-ap" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl font-black mb-6">Consumer Protection Forums: Fighting Banking Deficiency</h2>
+              <h3 className="text-3xl font-black mb-6">Consumer Protection Forums: Fighting Banking Deficiency</h3>
               <p>Banks and financial institutions are service providers, and you are their consumer. If they provide a "deficient service" - which includes harassment, incorrect account statements, or failure to return property documents after settlement - you have the right to approach the District Consumer Disputes Redressal Commissions. Andhra Pradesh has active consumer commissions in major cities like Vijayawada, Guntur, and Tirupati.</p>
               <p>We view the Consumer Protection Act as a vital offensive tool in debt resolution. When a bank crosses the line, we don't just defend; we counter attack. We help our clients file detailed consumer complaints seeking compensation for mental agony and unfair trade practices. The prospect of a consumer court judgment, which can include heavy fines and negative publicity, is something banks prefer to avoid. This often accelerates the settlement process significantly.</p>
               <p>Recent judgments from the AP State Consumer Commission have reinforced the rights of borrowers. They have ruled that banks cannot hire "goons" for recovery and must adhere strictly to the RBI's Fair Practice Code. We cite these precedents in our legal notices and during negotiations. If a recovery agent has misbehaved with you, that incident becomes a key leverage point in our strategy to secure a favorable settlement.</p>
@@ -335,7 +335,7 @@ export default function AndhraPradeshLoanSettlementPage() {
             </section>
 
             <section id="sarfaesi-property-rights" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl font-black mb-6">SARFAESI Act Application in Andhra Pradesh</h2>
+              <h3 className="text-3xl font-black mb-6">SARFAESI Act Application in Andhra Pradesh</h3>
               <p>The Securitization and Reconstruction of Financial Assets and Enforcement of Security Interest (SARFAESI) Act, 2002, gives banks the power to seize assets without court intervention. In Andhra Pradesh, this is the most common tool used for housing loan and LAP (Loan Against Property) recovery. However, the power is not absolute. The bank must follow a strict timeline: a Section 13(2) notice giving 60 days to pay, followed by a Section 13(4) possession notice.</p>
               <p>Crucially, to take *physical* possession of your home, the bank must apply to the District Magistrate (DM) or Chief Metropolitan Magistrate (CMM) under Section 14. In Andhra Pradesh, we closely monitor this stage. We file objections before the DM, pointing out any discrepancies in the bank's affidavit. Often, we find that banks have failed to classify the account as NPA correctly or have ignored a pending representation from the borrower. These procedural errors can be grounds for the DM to refuse or delay the possession order.</p>
               <p>Even if the process moves forward, the "Right of Redemption" allows you to clear the dues and reclaim your property at any time before the sale is confirmed. We help clients arrange for third party funding or bridge finance to exercise this right if a settlement is reached. Our goal is to ensure that your family home is never lost due to a temporary financial setback.</p>
@@ -343,7 +343,7 @@ export default function AndhraPradeshLoanSettlementPage() {
             </section>
 
             <section id="regional-debt-patterns" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl font-black mb-6">Regional Debt Patterns: From Vizag to Rayalaseema</h2>
+              <h3 className="text-3xl font-black mb-6">Regional Debt Patterns: From Vizag to Rayalaseema</h3>
               <p>Andhra Pradesh is a diverse state, and debt patterns vary by region. In the **North Coastal districts** (Srikakulam, Vizianagaram, Visakhapatnam), we often see debt linked to migration and employment in the industrial/port sectors. Here, personal loans and credit cards are the primary stress points. The recovery culture is relatively organized but can be persistent. Our strategy here focuses on professional negotiation with the centralized collection hubs in Vizag.</p>
               <p>In the **Krishna-Guntur region** (Vijayawada, Guntur, Eluru), the debt is often entrepreneurial, linked to agriculture, trading, and education. Educational loans are a major concern here. The recovery approach can be aggressive due to the high density of local finance firms. We utilize the stringent AP Money Lenders Act more frequently here to curb the influence of informal financiers.</p>
               <p>The **Rayalaseema region** (Kurnool, Kadapa, Anantapur, Chittoor) faces unique challenges due to its drough prone nature. Agricultural and gold loan stress is high. Here, the focus is on utilizing government relief schemes and negotiating with cooperative banks. The involvement of local political dynamics in recovery is also a factor we navigate carefully, ensuring our clients legally protected regardless of local pressures.</p>
@@ -351,7 +351,7 @@ export default function AndhraPradeshLoanSettlementPage() {
             </section>
 
             <section id="settlement-roadmap" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl font-black mb-6">The SettleLoans Roadmap to Freedom</h2>
+              <h3 className="text-3xl font-black mb-6">The SettleLoans Roadmap to Freedom</h3>
               <p>Our settlement process is a disciplined, step-by-step journey designed to take you from stress to stability. It begins with **Financial Triage**, where we assess your immediate liquidity and prioritize which fires to fight first. We analyze your loan agreements to identify any clauses that violate AP state laws.</p>
               <p>Next comes the **Legal Fortification**. We immediately issue legal notices to all your creditors. This notice informs them that you are legally represented and that all future communication must be directed to SettleLoans. This single step often stops 90% of the harassment, as recovery agents are wary of interfering with legal counsel.</p>
               <p>We then enter the **Strategic Delinquency & Negotiation** phase. This is a controlled process where we manage your accounts to force the bank to categorize them as "distressed assets" eligible for settlement. We engage in rounds of negotiation, using the offers from Lok Adalats as a benchmark. We don't accept the first offer; we push until we reach the "floor price" - the absolute minimum the bank is willing to accept.</p>
@@ -359,20 +359,20 @@ export default function AndhraPradeshLoanSettlementPage() {
             </section>
 
             <section id="legal-harassment-protection" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl font-black mb-6">Stopping Recovery Harassment in Andhra Pradesh</h2>
+              <h3 className="text-3xl font-black mb-6">Stopping Recovery Harassment in Andhra Pradesh</h3>
               <p>Harassment is the ugliest face of debt, and in Andhra Pradesh, we have zero tolerance for it. Whether it is incessant calling, visiting your workplace, or contacting your relatives, these actions are illegal. The Supreme Court and the RBI have laid down that "Right to Privacy" is fundamental. A defaulter does not lose their civil rights.</p>
               <p>If you are being harassed, we help you take immediate action. We draft complaints to the **Superintendent of Police (SP)** of your district, citing provisions of the IPC and the AP Money Lenders Act. We also escalate the matter to the bank's Nodal Officer and the RBI Ombudsman. In severe cases, we are prepared to file writ petitions in the Andhra Pradesh High Court to seek protection orders.</p>
               <p>Our clients in AP often tell us that the relief from harassment is the biggest value we provide. The silence from recovery agents allows them to think clearly, work productively, and save money for the eventual settlement. We act as a blast wall, absorbing the pressure so you can focus on rebuilding your life.</p>
             </section>
 
             <section id="ap-success-stories" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl font-black mb-8 text-center">Success Stories from Andhra Pradesh</h2>
+              <h3 className="text-3xl font-black mb-8 text-center">Success Stories from Andhra Pradesh</h3>
               <div className="grid md:grid-cols-2 gap-6 not-prose">
                 <div className="bg-white p-6 rounded-2xl border border-[#DEDEDE] shadow-sm hover:shadow-md transition-all">
                   <div className="flex items-center mb-4">
                     <div className="w-10 h-10 rounded-full bg-[#1F5EFF]/10 flex items-center justify-center font-bold text-[#1F5EFF] mr-3">V</div>
                     <div>
-                      <h3 className="font-bold">Venkat R.</h3>
+                      <h4 className="font-bold">Venkat R.</h4>
                       <p className="text-xs text-gray-500">Visakhapatnam</p>
                     </div>
                   </div>
@@ -383,7 +383,7 @@ export default function AndhraPradeshLoanSettlementPage() {
                   <div className="flex items-center mb-4">
                     <div className="w-10 h-10 rounded-full bg-[#1F5EFF]/10 flex items-center justify-center font-bold text-[#1F5EFF] mr-3">A</div>
                     <div>
-                      <h4 className="font-bold">Anitha K.</h4>
+                      <h5 className="font-bold">Anitha K.</h5>
                       <p className="text-xs text-gray-500">Vijayawada</p>
                     </div>
                   </div>
@@ -394,14 +394,14 @@ export default function AndhraPradeshLoanSettlementPage() {
             </section>
 
             <section id="credit-score-rebuilding" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl font-black mb-6">Rebuilding Your Credit Score in Andhra Pradesh</h2>
+              <h3 className="text-3xl font-black mb-6">Rebuilding Your Credit Score in Andhra Pradesh</h3>
               <p>Settlement is a restart button, not the end of the road. While your score dips initially, it can be rebuilt. In Andhra Pradesh, we recommend a localized strategy. Start by clearing all "Written Off" statuses. Ensure the settlement is reported as "Settled" or "Closed" and not "Suit Filed."</p>
               <p>We guide you to open a fixed deposit backed secure credit card with a reliable bank. Using this card for small utility payments and paying it back in full every month is the fastest way to boost your score. We also help you check for discrepancies in your CIBIL report - a common issue in AP where banks sometimes fail to update records after Lok Adalat awards.</p>
               <p>Within 18-24 months of disciplined financial behavior, our clients often see their scores cross 750 again, making them eligible for new home loans or business loans. We stick with you through this rebuilding phase, ensuring your financial health is restored permanently.</p>
             </section>
 
             <section id="faqs-ap-loans" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl font-black mb-8">Frequently Asked Questions: Andhra Pradesh</h2>
+              <h3 className="text-3xl font-black mb-8">Frequently Asked Questions: Andhra Pradesh</h3>
               <div className="space-y-4 not-prose">
                 {[
                   { q: "Is loan settlement legal in Andhra Pradesh?", a: "Yes, it is 100% legal, governed by the Indian Contract Act and facilitated by the APSLSA Lok Adalats and RBI guidelines." },
@@ -431,7 +431,7 @@ export default function AndhraPradeshLoanSettlementPage() {
             </section>
 
             <section className="mt-16 bg-[#1F5EFF] rounded-3xl p-10 text-center text-white shadow-2xl">
-              <h2 className="text-3xl md:text-4xl font-black mb-4">Reclaim Your Financial Freedom in Andhra Pradesh</h2>
+              <h3 className="text-3xl md:text-4xl font-black mb-4">Reclaim Your Financial Freedom in Andhra Pradesh</h3>
               <p className="mb-8 text-lg opacity-90 max-w-2xl mx-auto">From Visakhapatnam to Tirupati, we have helped thousands of families settle their debts with dignity. Your fresh start is just a call away.</p>
               <div className="flex justify-center">
                 <Link href="/contact" className="inline-block bg-white text-[#1F5EFF] font-black py-4 px-12 rounded-xl hover:scale-105 transition-all text-xl shadow-lg">

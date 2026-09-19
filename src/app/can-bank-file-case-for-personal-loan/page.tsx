@@ -243,7 +243,7 @@ export default function PersonalLoanCaseGuidePage() {
                                 In India, defaulting on a personal loan is fundamentally a <strong>civil matter</strong>. Unlike a criminal act, the legal system treats it as a breach of contract between two parties. The bank's primary goal is not to punish you, but to recover its principal and interest. However, within this civil framework, there are specific legal avenues that banks can and do take to force repayment. Understanding these is the first step in mounting an effective defense.
                             </p>
                             <div className="bg-blue-50 p-10 rounded-[40px] border-2 border-blue-100 my-12 shadow-sm">
-                                <h3 className="text-2xl font-black text-blue-900 mb-6 uppercase tracking-wider italic">The "Unsecured" Myth</h3>
+                                <h4 className="text-2xl font-black text-blue-900 mb-6 uppercase tracking-wider italic">The "Unsecured" Myth</h4>
                                 <p className="text-lg text-blue-800 leading-relaxed font-medium">
                                     'Unsecured' does not mean the debt is unenforceable. It simply means the bank does not have the right to seize a specific asset (like your house or car) without first obtaining a court order. This "buffer" of court intervention is your primary legal protection.
                                 </p>
@@ -251,9 +251,9 @@ export default function PersonalLoanCaseGuidePage() {
                         </section>
 
                         <section id="civil-recovery-suit-order-37" className="scroll-mt-32 mb-20">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 uppercase tracking-widest border-b-8 border-gray-100 pb-4">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 uppercase tracking-widest border-b-8 border-gray-100 pb-4">
                                 Summary Suits: The Bank's Fast-Track Weapon
-                            </h2>
+                            </h3>
                             <p className="mb-8 font-medium">
                                 For an unsecured personal loan, a standard civil recovery suit can take 5 to 10 years in Indian courts. To bypass this, banks often file a <strong>Summary Suit under Order 37 of the CPC</strong>.
                             </p>
@@ -261,15 +261,15 @@ export default function PersonalLoanCaseGuidePage() {
                                 In a Summary Suit, the bank presents the loan agreement and statement of account as absolute proof of debt. Once you receive the summons, you don't have an automatic 'Right to Defend'. You must apply for <strong>'Leave to Defend'</strong> within 10 days. If you can show a 'Triable Issue'—such as disputed interest calculations, forgery, or unfair contract terms—the court allows you to contest the case. If you fail to apply or the leave is rejected, a decree is passed against you as if you admitted the debt.
                             </p>
                             <div className="p-8 bg-gray-50 rounded-[40px] border border-gray-100 my-8 shadow-inner">
-                                <h3 className="text-xl font-black text-[#1F5EFF] mb-4 uppercase">The Defense Strategy</h3>
+                                <h4 className="text-xl font-black text-[#1F5EFF] mb-4 uppercase">The Defense Strategy</h4>
                                 <p className="text-sm leading-relaxed font-bold italic opacity-80">Did the bank include hidden insurance charges? Is the interest rate higher than what was promised in the sanction letter? These are valid 'Triable Issues' that can stall a summary suit and provide you leverage for settlement.</p>
                             </div>
                         </section>
 
                         <section id="section-138-ni-act-criminal" className="scroll-mt-32 mb-20 p-12 bg-gray-900 rounded-[48px] text-white shadow-2xl relative overflow-hidden">
-                            <h2 className="text-3xl md:text-4xl font-black mb-8 uppercase tracking-tighter italic text-red-500">
+                            <h3 className="text-3xl md:text-4xl font-black mb-8 uppercase tracking-tighter italic text-red-500">
                                 The Criminal Trap: NI Act Section 138
-                            </h2>
+                            </h3>
                             <p className="mb-8 text-xl leading-relaxed opacity-80 font-medium">
                                 While the loan default is civil, the <strong>cheque bounce</strong> is criminal. Most personal loans are dispersed with mandated post-dated cheques or NACH (National Automated Clearing House) mandates.
                             </p>
@@ -277,15 +277,15 @@ export default function PersonalLoanCaseGuidePage() {
                                 If an EMI fails and the bank presents a cheque that bounces due to 'Insufficient Funds', they can initiate a case under <strong>Section 138 of the Negotiable Instruments Act</strong>. This is a bailable offense, but if ignored, it can lead to non-bailable warrants and, in extreme wilful cases, a prison term of up to 2 years.
                             </p>
                             <div className="bg-red-500/10 border-l-8 border-red-500 p-8 my-8 rounded-r-3xl">
-                                <h3 className="text-xl font-bold mb-2 text-red-400">Survival Protocol</h3>
+                                <h4 className="text-xl font-bold mb-2 text-red-400">Survival Protocol</h4>
                                 <p className="text-sm opacity-90 leading-relaxed font-black uppercase tracking-tighter italic">If you receive a statutory notice under Sec 138, you have 15 days to pay the amount. If you cannot pay, a specialized legal reply questioning the 'Legally Enforceable Debt' is your only shield to prevent the case from being filed in court.</p>
                             </div>
                         </section>
 
                         <section id="drt-vs-civil-court" className="scroll-mt-32 mb-20 mt-20">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 border-l-8 border-[#1F5EFF] pl-6 uppercase tracking-widest">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 border-l-8 border-[#1F5EFF] pl-6 uppercase tracking-widest">
                                 Jurisdiction Check: DRT vs. Civil Court
-                            </h2>
+                            </h3>
                             <p className="mb-8 leading-relaxed">
                                 Where the case is filed depends on the 'Amount at Stake'. For the majority of personal loans (which are typically under ₹10-15 lakhs), the bank must approach a <strong>Civil Court (City Civil or District Court)</strong>. These are general courts where proceedings follow the slow pace of the CPC.
                             </p>
@@ -295,9 +295,9 @@ export default function PersonalLoanCaseGuidePage() {
                         </section>
 
                         <section id="asset-attachment-unsecured" className="scroll-mt-32 mb-20">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 uppercase tracking-tighter decoration-[#1F5EFF] underline underline-offset-8">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 uppercase tracking-tighter decoration-[#1F5EFF] underline underline-offset-8">
                                 Asset Attachment: Can They Take Your Belongings?
-                            </h2>
+                            </h3>
                             <p className="mb-8 leading-relaxed text-lg italic opacity-80">
                                 "In an unsecured loan, your assets are safe—until a judgment is passed."
                             </p>
@@ -311,7 +311,7 @@ export default function PersonalLoanCaseGuidePage() {
 
                         <section id="wilful-defaulter-impact" className="scroll-mt-32 mb-20 p-10 bg-red-50 rounded-[40px] border-2 border-red-100 shadow-sm relative overflow-hidden">
                             <div className="absolute top-0 right-0 w-32 h-32 bg-red-500/5 rounded-full -mr-16 -mt-16"></div>
-                            <h2 className="text-3xl font-black text-red-900 mb-6 uppercase italic">The "Wilful" Red-Line: Criminal cheaters vs. Genuine Hardship</h2>
+                            <h3 className="text-3xl font-black text-red-900 mb-6 uppercase italic">The "Wilful" Red-Line: Criminal cheaters vs. Genuine Hardship</h3>
                             <p className="text-lg text-red-800 leading-relaxed font-medium mb-6">
                                 If you cannot pay due to job loss or business failure, you are a 'Genuine Defaulter'. Banks are mandated by the RBI to handle such cases with sensitivity.
                             </p>
@@ -325,9 +325,9 @@ export default function PersonalLoanCaseGuidePage() {
                         </section>
 
                         <section id="limitation-period-defense" className="scroll-mt-32 mb-20">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 uppercase tracking-widest leading-none border-l-8 border-gray-900 pl-6">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 uppercase tracking-widest leading-none border-l-8 border-gray-900 pl-6">
                                 The Limitation Shield: The 3-Year Expiry
-                            </h2>
+                            </h3>
                             <p className="mb-8 leading-relaxed">
                                 Law does not protect those who sleep over their rights. The <strong>Limitation Act, 1963</strong> prescribes a 3-year window for banks to file a recovery suit. This period starts from the date of the last default or the last time you officially acknowledged the debt (e.g., made a part payment or signed a balance confirmation).
                             </p>
@@ -337,9 +337,9 @@ export default function PersonalLoanCaseGuidePage() {
                         </section>
 
                         <section id="legal-negotiation-lok-adalat" className="scroll-mt-32 mb-20">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 uppercase tracking-widest decoration-[#1F5EFF] underline underline-offset-8">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 uppercase tracking-widest decoration-[#1F5EFF] underline underline-offset-8">
                                 Lok Adalat: The Middle Path to Freedom
-                            </h2>
+                            </h3>
                             <p className="mb-8 text-xl font-bold italic">
                                 "The court is not the only place for a resolution."
                             </p>
@@ -352,7 +352,7 @@ export default function PersonalLoanCaseGuidePage() {
                         </section>
 
                         <section id="ombudsman-complaint-protocol" className="scroll-mt-32 mb-20 p-10 bg-[#1F5EFF]/5 rounded-[40px] border-2 border-dashed border-[#1F5EFF]/20 shadow-sm">
-                            <h2 className="text-3xl font-black text-[#2E2E2E] mb-6 uppercase italic">RBI Ombudsman: Your Counter-Attack</h2>
+                            <h3 className="text-3xl font-black text-[#2E2E2E] mb-6 uppercase italic">RBI Ombudsman: Your Counter-Attack</h3>
                             <p className="text-lg leading-relaxed font-medium mb-6">
                                 If a bank files a case while also harassing you via illegal agents, you have a potent counter-weapon. The <strong>Integrated Ombudsman</strong> can penalize a bank for violating the Fair Practices Code even if you are a defaulter.
                             </p>
@@ -360,19 +360,19 @@ export default function PersonalLoanCaseGuidePage() {
                         </section>
 
                         <section id="preparing-legal-defense" className="scroll-mt-32 mb-20">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 uppercase tracking-widest leading-none">The Borrower's Defense Checklist</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 uppercase tracking-widest leading-none">The Borrower's Defense Checklist</h3>
                             <p className="mb-8 leading-relaxed">If you suspect a case is being filed, prepare your 'Legal Shield' immediately:</p>
                             <div className="space-y-6">
                                 <div className="p-8 bg-gray-50 rounded-3xl border border-gray-100 shadow-sm">
-                                    <h3 className="text-xl font-black text-[#1F5EFF] mb-4 uppercase">1. Statement Audit</h3>
+                                    <h4 className="text-xl font-black text-[#1F5EFF] mb-4 uppercase">1. Statement Audit</h4>
                                     <p className="text-sm font-medium leading-relaxed">Download your full loan ledger. Identify any hidden processing fees, excessive penalties, or 'bounce charges' that were not in your original agreement.</p>
                                 </div>
                                 <div className="p-8 bg-gray-50 rounded-3xl border border-gray-100 shadow-sm">
-                                    <h4 className="text-xl font-black text-[#1F5EFF] mb-4 uppercase">2. Written Hardship Proof</h4>
+                                    <h5 className="text-xl font-black text-[#1F5EFF] mb-4 uppercase">2. Written Hardship Proof</h5>
                                     <p className="text-sm font-medium leading-relaxed">Keep copies of your resignation letter, hospital bills, or business loss statements. This proves you are a genuine borrower facing crisis, not a cheat.</p>
                                 </div>
                                 <div className="p-8 bg-gray-50 rounded-3xl border border-gray-100 shadow-sm">
-                                    <h4 className="text-xl font-black text-[#1F5EFF] mb-4 uppercase">3. Limitation Tracker</h4>
+                                    <h5 className="text-xl font-black text-[#1F5EFF] mb-4 uppercase">3. Limitation Tracker</h5>
                                     <p className="text-sm font-medium leading-relaxed">Check the date of your last payment. If it was more than 3 years ago and you haven't signed an AOD, the bank's right to sue may have expired.</p>
                                 </div>
                             </div>
@@ -415,7 +415,7 @@ export default function PersonalLoanCaseGuidePage() {
                         </section>
 
                         <section id="faqs" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 uppercase tracking-widest leading-none">Personal Loan Case FAQs</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 uppercase tracking-widest leading-none">Personal Loan Case FAQs</h3>
                             <div className="space-y-4 not-prose">
                                 {jsonLd["@graph"][4]["mainEntity"]?.map((faq: any, i: number) => (
                                     <details key={i} className="group bg-white border border-[#DEDEDE] rounded-xl overflow-hidden hover:shadow-md transition-all border-b-4 border-b-[#1F5EFF]/20 shadow-sm">
@@ -443,7 +443,7 @@ export default function PersonalLoanCaseGuidePage() {
                         <div className="lg:hidden mt-16 mb-8">
                             <div className="bg-[#2E2E2E] rounded-2xl shadow-xl overflow-hidden border border-[#1F5EFF]/20">
                                 <div className="bg-[#1F5EFF] p-6 text-center text-white">
-                                    <h3 className="text-2xl font-black mb-2 uppercase tracking-tighter">Case Filed?</h3>
+                                    <h4 className="text-2xl font-black mb-2 uppercase tracking-tighter">Case Filed?</h4>
                                     <p className="opacity-90 text-sm italic font-medium">Don't lose hope. Our legal experts can help you file for 'Leave to Defend' and negotiate a settlement before the decree.</p>
                                 </div>
                                 <div className="p-8 text-center text-[#DEDEDE]">

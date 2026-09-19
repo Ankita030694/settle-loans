@@ -241,7 +241,7 @@ const Page = () => {
                     </section>
 
                     <section id="portuguese-civil-code-impact" className="scroll-mt-32 mb-16">
-                        <h2 className="text-3xl font-black mb-6">Portuguese Civil Code: A Unique Consideration in Goan Debt</h2>
+                        <h3 className="text-3xl font-black mb-6">Portuguese Civil Code: A Unique Consideration in Goan Debt</h3>
                         <p>One of the most critical factors that distinguishes debt management in Goa from any other Indian state is the continues application of the **Portuguese Civil Code of 1867**. This historical legal framework governs family law and property rights in the state. For a borrower in Goa, this has profound implications on how banks view liability.</p>
                         <p>Under this code, the system of 'Communion of Assets' is prevalent. Unless an ante nuptial agreement (marriage contract) states otherwise, all assets and liabilities acquired by either spouse after marriage are considered joint property. This means that if a husband in Margao takes a personal loan or credit card debt, the bank might attempt to hold the wife equally liable, even if she was not a co applicant or guarantor. This creates a significant amount of stress within the household and demands a very specific legal defense.</p>
                         <p>At SettleLoans, our legal team is well versed in these Goan specific nuances. We have encountered numerous cases where banks tried to overreach their authority by threatening to attach common family property for the default of one individual. We intervene by highlighting the specific protections afforded to the non borrowing spouse and the limitations of bank recovery under these unique laws. We ensure that the bank's negotiation team understands that they cannot simply apply the standard rules used in other states here.</p>
@@ -250,7 +250,7 @@ const Page = () => {
                     </section>
 
                     <section id="goa-money-lending-act" className="scroll-mt-32 mb-16">
-                        <h2 className="text-3xl font-black mb-6">Debt Protection under the Goa Money Lenders Act, 2013</h2>
+                        <h3 className="text-3xl font-black mb-6">Debt Protection under the Goa Money Lenders Act, 2013</h3>
                         <p>While most of our work involves nationalized and private banks, many Goans also find themselves in the clutches of private moneylenders. To protect citizens from usurious practices, the state enacted the **Goa Money Lenders Act, 2013**. This piece of legislation is a powerful tool for anyone being exploited by high interest loans and coercive recovery tactics from unregulated sources.</p>
                         <p>The Act mandates that every individual or entity carrying on the business of money lending in Goa must hold a valid license issued by the Registrar. If you are being harassed by a lender in Mapusa or Ponda who does not possess this license, their loan might be legally void. They cannot use the courts to recover the money, and any harassment from them can lead to criminal charges. We help you verify the standing of your lenders and use this as a massive leverage point if they are operating outside the law.</p>
                         <p>Another key feature of this Act is the cap on interest rates. The government specifies the maximum rate a lender can charge. Often, private lenders in the coastal belts charge astronomical rates, sometimes disguised as 'service fees' or 'penalties'. We demand a complete audit of the loan accounts, often proving that the borrower has already paid back more than what is legally due under the Act. By exposing these violations, we shift the pressure back onto the lender, often compelling them to waive off the remaining principal just to avoid legal scrutiny.</p>
@@ -259,7 +259,7 @@ const Page = () => {
                     </section>
 
                     <section id="tourism-debt-cycles" className="scroll-mt-32 mb-16">
-                        <h2 className="text-3xl font-black mb-6">Healing the Cycle of Seasonal Tourism Debt</h2>
+                        <h3 className="text-3xl font-black mb-6">Healing the Cycle of Seasonal Tourism Debt</h3>
                         <p>The heartbeat of Goa is its tourism industry, but it is a heartbeat that fluctuates with the seasons. A hotelier in Calangute or a taxi owner in Vasco might have a bumper season from October to May, but the monsoon months of June to September can be a period of zero income. This extreme seasonality often makes it impossible for small business owners and tourism workers to maintain consistent monthly EMI payments for their business or personal loans.</p>
                         <p>Many Goan borrowers take loans during the peak season with the honest intention of paying them back. However, an unexpected slump (perhaps due to a global economic downturn, changes in flight policies, or local regulations) can throw the entire repayment schedule into disarray. Banks and NBFCs, with their rigid systems, often do not account for this seasonal volatility. They treat a missed payment in July with the same severity as a default in December.</p>
                         <p>SettleLoans specializes in 'Seasonal Debt Analysis'. We compile a case that clearly demonstrates your business's cash flow patterns. We show the banks that your default is not willful but a result of external macroeconomic factors beyond your control. This narrative is highly effective when negotiating for a **One Time Settlement (OTS)**. We argue that forcing a business into liquidation during a lean patch is less profitable for the bank than accepting a lump sum settlement that allows the borrower to survive and restart in the next season.</p>
@@ -267,7 +267,7 @@ const Page = () => {
                     </section>
 
                     <section id="gslsa-lok-adalat-goa" className="scroll-mt-32 mb-16">
-                        <h2 className="text-3xl font-black mb-6">Resolving Disputes via GSLSA and Lok Adalats</h2>
+                        <h3 className="text-3xl font-black mb-6">Resolving Disputes via GSLSA and Lok Adalats</h3>
                         <p>For many Goans, the word 'court' brings a sense of fear and delay. However, the **Goa State Legal Services Authority (GSLSA)** offers a much more accessible and efficient route for debt resolution through **Lok Adalats**. These 'People's Courts' are held periodically across the state, from Panaji to Quepem, and are specifically designed to settle civil matters, including bank disputes, amicably and quickly.</p>
                         <p>The Lok Adalat is a boon for the common man. There are no court fees, and the process is informal. Conciliators, who are often respected retired judges or senior advocates, act as mediators between you and the bank. The goal is to reach a compromise that is acceptable to both parties. Once an award is passed by the Lok Adalat, it has the force of a civil court decree. It is final and binding, and most importantly, it cannot be appealed. This brings absolute finality to your debt stress.</p>
                         <p>However, going to a Lok Adalat without professional representation can be a missed opportunity. Banks often come with their legal teams and pre calculated terms. They might offer a settlement that still feels like a burden. SettleLoans acts as your advocate in this forum. We engage with the bank's regional managers *before* the Lok Adalat session begins. We negotiate the specific waiver amount, ensuring that we reach the absolute minimum that the bank is willing to accept.</p>
@@ -275,7 +275,7 @@ const Page = () => {
                     </section>
 
                     <section id="protecting-assets-goa" className="scroll-mt-32 mb-16">
-                        <h2 className="text-3xl font-black mb-6">Protecting Your Assets from Aggressive Recovery</h2>
+                        <h3 className="text-3xl font-black mb-6">Protecting Your Assets from Aggressive Recovery</h3>
                         <p>The greatest fear for any borrower in default is the loss of their home or property. In Goa, where family land is deeply tied to identity and heritage, this fear is even more acute. Banks often use the threat of the **SARFAESI Act** (Securitisation and Reconstruction of Financial Assets and Enforcement of Security Interest Act) to intimidate borrowers into paying more than they can afford. It is crucial to understand that for unsecured debts like personal loans and credit cards, banks **cannot** simply seize your home or car without a rigorous legal process.</p>
                         <p>Even for secured loans, you have rights. A bank cannot take possession of your property without following the strict timelines and notice periods mentioned in the law. They cannot use physical force or unannounced visits to evict you. If a bank in Vasco or Porvorim is circumventing the law to pressure you, SettleLoans provides an immediate legal shield. We audit every notice sent by the bank for procedural flaws. A single error in their notice can be used to stay their recovery proceedings in a Debt Recovery Tribunal (DRT).</p>
                         <p>Our strategy is to use these legal delays to create a window for negotiation. Banks are aware that a protracted legal battle over property in Goa can take years. They would much rather have a guaranteed cash payment today through a settlement than a risky auction in the future. We leverage this commercial reality to protect your ancestral land and your family's roof. We ensure that you stay in control of your assets while we work on a monetary solution that satisfies the creditors.</p>
@@ -283,7 +283,7 @@ const Page = () => {
                     </section>
 
                     <section id="credit-card-trap-goa" className="scroll-mt-32 mb-16">
-                        <h2 className="text-3xl font-black mb-6">Escaping the Credit Card Debt Trap in Goa</h2>
+                        <h3 className="text-3xl font-black mb-6">Escaping the Credit Card Debt Trap in Goa</h3>
                         <p>Credit cards are a double edged sword. In Goa's vibrant economy, they offer convenience for both residents and visitors. However, they are also the most common source of high interest debt traps. Many Goans start by paying only the 'Minimum Amount Due', thinking it is a manageable way to bridge their monthly expenses. What they don't realize is that credit card interest rates in India can range from 36% to 48% per annum.</p>
                         <p>When you pay only the minimum, you are barely covering the interest and taxes. The principal amount remains largely unchanged. Over a few months, the debt snowballs, and soon you find yourself paying thousands every month just to keep the account from becoming overdue, without making any real progress. This is the 'Interest Spiral' that keeps thousands of families in Vasco and Panaji financially enslaved.</p>
                         <p>SettleLoans has a specialized 'Credit Card Exit Strategy'. We help you stop this useless cycle of paying minimums. We guide you through the process of 'Strategic Default', where we stop the payments to force the bank to recognize the account as a distressed asset. This is a controlled process where we simultaneously build your 'Hardship Case'. We highlight to the bank that you have already paid significant amounts in interest and that a one time settlement is the only viable way forward.</p>
@@ -291,7 +291,7 @@ const Page = () => {
                     </section>
 
                     <section id="personal-loan-negotiation" className="scroll-mt-32 mb-16">
-                        <h2 className="text-3xl font-black mb-6">Expert Negotiation for Personal Loans</h2>
+                        <h3 className="text-3xl font-black mb-6">Expert Negotiation for Personal Loans</h3>
                         <p>Personal loans are often taken for life's most pressing needs: medical surgeries, house repairs, or family weddings. Because these loans are unsecured, the banks have a higher risk profile and are consequently more aggressive in their recovery efforts. In Goa, we see many borrowers from the government sector and the shipping industry who take these loans and later struggle due to sudden medical emergencies or changes in contract terms.</p>
                         <p>Negotiating a personal loan settlement requires a deep understanding of the bank's internal credit policies. Every bank has a 'Bottom Price' for different types of personal loans. Our negotiators, who have collective experience in the banking and legal sectors, know these thresholds. We don't just ask for a discount; we present a professional proposal backed by your financial documents. We use the 'Ability to Pay' versus 'Willingness to Pay' argument to your advantage.</p>
                         <p>If you are a borrower in Margao with a ₹10 Lakh personal loan and you can only afford to pay ₹5 Lakh, we don't just tell the bank that. We provide the bank with an income expense audit, your bank statements, and any hardship proof. We make them understand that getting ₹5 Lakh today is a better business decision for them than waiting for a recovery that might never happen. This level of professional communication is why SettleLoans succeeds where individuals often fail.</p>
@@ -299,7 +299,7 @@ const Page = () => {
                     </section>
 
                     <section id="stopping-recovery-calls" className="scroll-mt-32 mb-16">
-                        <h2 className="text-3xl font-black mb-6">Stopping Recovery Harassment: Your Right to Privacy</h2>
+                        <h3 className="text-3xl font-black mb-6">Stopping Recovery Harassment: Your Right to Privacy</h3>
                         <p>The dark side of the lending industry is the use of third party recovery agents who often employ illegal tactics to shame borrowers. In a close knit community like Goa's, this harassment can be devastating. Agents calling your relatives, visiting your workplace in Panaji, or using foul language on the phone are all violations of the **RBI's Fair Practices Code** and several Supreme Court rulings.</p>
                         <p>At SettleLoans, we have a 'Zero Tolerance Policy' for harassment. The moment you enroll with us, we issue formal legal notices to all your creditors. This notice informs them that you are legally represented and that all future communications must be directed through our firm. This single step often stops 90% of the collection calls almost immediately. Recovery agents are usually wary of interfering with a borrower who has a professional legal shield.</p>
                         <p>If an agent continues to cross the line, we help you take further action. This includes drafting complaints to the **Banking Ombudsman** and, in extreme cases, the local police. We ensure that every recording and message is Used as evidence of 'Deficiency in Service'. The threat of a consumer court judgment often makes banks much more cooperative during settlement negotiations. We empower you to stop feeling like a criminal and start acting like a citizen with protected rights.</p>
@@ -307,13 +307,13 @@ const Page = () => {
                     </section>
 
                     <section id="goa-success-stories" className="scroll-mt-32 mb-16 text-center">
-                        <h2 className="text-4xl font-black mb-12">Success Stories from Goa</h2>
+                        <h3 className="text-4xl font-black mb-12">Success Stories from Goa</h3>
                         <div className="grid md:grid-cols-2 gap-8 not-prose">
                             <div className="bg-white p-8 rounded-3xl border border-[#DEDEDE] shadow-xl hover:shadow-2xl transition-all h-full flex flex-col">
                                 <div className="flex items-center mb-6">
                                     <div className="w-14 h-14 rounded-full bg-[#1F5EFF]/10 flex items-center justify-center font-bold text-[#1F5EFF] text-xl mr-4">R</div>
                                     <div className="text-left">
-                                        <h3 className="font-black text-xl">Ricardo D.</h3>
+                                        <h4 className="font-black text-xl">Ricardo D.</h4>
                                         <p className="text-sm text-gray-500">Calangute, North Goa</p>
                                     </div>
                                     <div className="ml-auto text-yellow-500">★★★★★</div>
@@ -328,7 +328,7 @@ const Page = () => {
                                 <div className="flex items-center mb-6">
                                     <div className="w-14 h-14 rounded-full bg-[#1F5EFF]/10 flex items-center justify-center font-bold text-[#1F5EFF] text-xl mr-4">S</div>
                                     <div className="text-left">
-                                        <h4 className="font-black text-xl">Sneha M.</h4>
+                                        <h5 className="font-black text-xl">Sneha M.</h5>
                                         <p className="text-sm text-gray-500">Margao, South Goa</p>
                                     </div>
                                     <div className="ml-auto text-yellow-500">★★★★★</div>
@@ -343,7 +343,7 @@ const Page = () => {
                     </section>
 
                     <section id="cibil-recovery-coastal" className="scroll-mt-32 mb-16">
-                        <h2 className="text-3xl font-black mb-6">Rebuilding Your Credit Score in Goa</h2>
+                        <h3 className="text-3xl font-black mb-6">Rebuilding Your Credit Score in Goa</h3>
                         <p>A common concern for Goans considering settlement is the impact on their future ability to take loans. While settlement does result in a 'Settled' remark on your CIBIL report, it is not a dead end. Consider it a necessary financial surgery that leaves a scar, but one that heals over time. In fact, a 'Settled' status is infinitely better than an 'Active Default' or 'Suit Filed' status, as it shows future lenders that you eventually took responsibility for your debt.</p>
                         <p>After your settlement is complete and you have received your **No Dues Certificate (NDC)**, the rebuilding phase begins. We guide you through a structured 12 to 24 month plan to restore your credit health. The most effective way in Goa is to start with a 'Secured Credit Card'. Many nationalized banks in Panaji and Margao offer credit cards against a small Fixed Deposit (usually ₹15,000 to ₹25,000). By using this card for small monthly expenses and paying the bill in full every month, you start creating a positive credit history.</p>
                         <p>We also advise our clients to regularly audit their credit reports to ensure that the 'Settled' accounts are accurately reported. Sometimes, bank administrative errors can lead to a settled account being shown as 'Written Off', which is more damaging. We help you file disputes with credit bureaus to rectify these errors. Within two years of disciplined financial behavior, many of our clients see their CIBIL scores climb back to 750+, making them eligible for new car loans or home loans.</p>
@@ -351,7 +351,7 @@ const Page = () => {
                     </section>
 
                     <section id="faqs-goa" className="scroll-mt-32 mb-16">
-                        <h2 className="text-3xl font-black mb-8">Frequently Asked Questions: Goa Edition</h2>
+                        <h3 className="text-3xl font-black mb-8">Frequently Asked Questions: Goa Edition</h3>
                         <div className="space-y-4 not-prose">
                             {[
                                 { q: "Is loan settlement better than loan closure?", a: "Loan closure (paying in full) is always better for your credit score. However, if you genuinely cannot afford to pay in full, settlement is a much better alternative than defaulting, as it stops the legal interest and harassment." },
@@ -381,7 +381,7 @@ const Page = () => {
                     </section>
 
                     <section className="mt-16 bg-[#1F5EFF] rounded-3xl p-10 text-center text-white shadow-2xl">
-                        <h2 className="text-3xl md:text-4xl font-black mb-4">Reclaim Your Financial Independence in Goa</h2>
+                        <h3 className="text-3xl md:text-4xl font-black mb-4">Reclaim Your Financial Independence in Goa</h3>
                         <p className="mb-8 text-lg opacity-90 max-w-2xl mx-auto">From the beaches of the North to the valleys of the South, we have helped Goan families settle their debts with honor. Your path to a debt free life starts here.</p>
                         <div className="flex justify-center">
                             <Link href="/contact" className="inline-block bg-white text-[#1F5EFF] font-black py-4 px-12 rounded-xl hover:scale-105 transition-all text-xl shadow-lg">

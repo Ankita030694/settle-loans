@@ -277,9 +277,9 @@ export default function LoanWriteOffVsSettlementPage() {
             </section>
 
             <section id="what-is-write-off" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                 What is a Loan Write-Off? <span className="text-black/50">The Internal Accounting Truth</span>
-              </h2>
+              </h3>
               <div className="bg-gray-50 p-8 rounded-2xl border border-[#DEDEDE] mb-8">
                 <p className="mb-4 font-bold text-lg">A loan write-off is an internal accounting procedure by the bank. It is NOT a waiver of your debt.</p>
                 <p className="text-gray-600 text-sm leading-relaxed">
@@ -292,7 +292,7 @@ export default function LoanWriteOffVsSettlementPage() {
               <p className="mb-6 leading-relaxed">
                 In India, banks often resort to what is known as a "technical write-off." This is a strategy where the bank provisionally writes off the loan to meet regulatory requirements but continues to pursue recovery through legal channels, recovery agents, or by selling the debt to an Asset Reconstruction Company (ARC). If you think a write-off means the bank has forgiven you, you are in for a rude awakening when the legal notices continue to arrive.
               </p>
-              <h3 className="text-2xl font-bold mb-4">Why Do Banks Write Off Loans?</h3>
+              <h4 className="text-2xl font-bold mb-4">Why Do Banks Write Off Loans?</h4>
               <ul className="list-none space-y-4 mb-8">
                 <li className="flex items-start gap-3">
                   <span className="w-5 h-5 bg-blue-100 rounded-full flex items-center justify-center text-blue-600 text-xs font-bold mt-1">1</span>
@@ -310,9 +310,9 @@ export default function LoanWriteOffVsSettlementPage() {
             </section>
 
             <section id="what-is-settlement" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                 What is a Loan Settlement? <span className="text-[#1F5EFF]">The Negotiated Exit</span>
-              </h2>
+              </h3>
               <p className="mb-6 leading-relaxed">
                 A loan settlement is a mutual agreement between the borrower and the lender. It usually happens when the borrower is facing a genuine financial crisis (like job loss, medical emergency, or business failure) and can prove that they are unable to pay the full outstanding amount. In such a scenario, the bank might agree to accept a one-time lump sum payment that is less than the total amount owed.
               </p>
@@ -320,7 +320,7 @@ export default function LoanWriteOffVsSettlementPage() {
                 Once the settlement amount is paid and accepted, the bank issues a "No Dues Certificate" or NOC, and the account is closed. Unlike a write-off, a settlement is a legal resolution to the debt. It puts an end to the recovery calls, the legal notices, and the constant stress. However, it comes with a catch: the "Settled" status on your credit report.
               </p>
               <div className="bg-[#1F5EFF]/5 border-l-4 border-[#1F5EFF] p-8 rounded-r-2xl mb-8">
-                <h3 className="font-bold text-[#1F5EFF] mb-2">The One-Time Settlement (OTS) Scheme</h3>
+                <h4 className="font-bold text-[#1F5EFF] mb-2">The One-Time Settlement (OTS) Scheme</h4>
                 <p className="text-sm leading-relaxed">
                   Many banks in India have periodic OTS schemes where they offer pre-approved settlement amounts to long-term defaulters. These are excellent opportunities to close your debt for as little as 30% to 50% of the original principal amount. However, you must be careful with the documentation to ensure the agreement is legally binding and correctly reported to credit bureaus.
                 </p>
@@ -331,7 +331,7 @@ export default function LoanWriteOffVsSettlementPage() {
             </section>
 
             <section id="comparison-table" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">Key Differences at a Glance</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">Key Differences at a Glance</h3>
               <div className="overflow-x-auto">
                 <table className="w-full border-collapse border border-[#DEDEDE] text-left">
                   <thead>
@@ -373,19 +373,19 @@ export default function LoanWriteOffVsSettlementPage() {
             </section>
 
             <section id="credit-score-impact" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">Impact on Credit Score (CIBIL)</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">Impact on Credit Score (CIBIL)</h3>
               <p className="mb-6 leading-relaxed">
                 Your credit report is your financial identity card. Both write-offs and settlements are viewed as "negative events" by credit bureaus like CIBIL, Experian, and Equifax. However, the severity and long-term implications differ.
               </p>
               <div className="space-y-6">
                 <div className="bg-red-50 p-6 rounded-xl border border-red-100">
-                  <h3 className="font-bold text-red-800 mb-2">The "Written-Off" Tag</h3>
+                  <h4 className="font-bold text-red-800 mb-2">The "Written-Off" Tag</h4>
                   <p className="text-sm text-red-900/80 leading-relaxed">
                     This is the most damaging tag on a credit report. It tells any future lender that you took money and never returned it, nor did you make any attempt to reach a compromise. Your score can drop by 150 to 200 points instantly. Banks will almost always reject your application as long as this tag is present.
                   </p>
                 </div>
                 <div className="bg-yellow-50 p-6 rounded-xl border border-yellow-100">
-                  <h4 className="font-bold text-yellow-800 mb-2">The "Settled" Tag</h4>
+                  <h5 className="font-bold text-yellow-800 mb-2">The "Settled" Tag</h5>
                   <p className="text-sm text-yellow-900/80 leading-relaxed">
                     While still negative, this tag is slightly better. It communicates that while you were unable to pay the full amount, you took the initiative to resolve the matter and the bank agreed to close the account. Your score will drop significantly, but you have the opportunity to start rebuilding it almost immediately.
                   </p>
@@ -400,7 +400,7 @@ export default function LoanWriteOffVsSettlementPage() {
             </section>
 
             <section id="legal-implications" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">Legal Rights & Obligations</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">Legal Rights & Obligations</h3>
               <p className="mb-6 leading-relaxed">
                 The legal landscape surrounding bad debt in India is governed by several laws, including the Negotiable Instruments Act (Section 138), the SARFAESI Act (for secured loans), and the Recovery of Debts and Bankruptcy Act (RDB Act).
               </p>
@@ -411,7 +411,7 @@ export default function LoanWriteOffVsSettlementPage() {
                 A settlement, on the other hand, is a legally binding contract. Once the settlement is signed and the money is paid, any ongoing legal cases must be withdrawn by the bank. If the bank continues to harass you after a settlement, you have the right to sue them for breach of contract and mental harassment.
               </p>
               <div className="bg-[#2E2E2E] text-white p-8 rounded-2xl mb-8">
-                <h3 className="font-bold text-lg mb-4 text-[#1F5EFF]">Protection Against Harassment</h3>
+                <h4 className="font-bold text-lg mb-4 text-[#1F5EFF]">Protection Against Harassment</h4>
                 <p className="text-sm opacity-80 leading-relaxed mb-4">
                   Regardless of whether your loan is written off or in the process of settlement, you have the right to be treated with dignity. RBI guidelines prohibit recovery agents from:
                 </p>
@@ -425,7 +425,7 @@ export default function LoanWriteOffVsSettlementPage() {
             </section>
 
             <section id="rbi-guidelines" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">RBI Master Circulars: The Rulebook</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">RBI Master Circulars: The Rulebook</h3>
               <p className="mb-6 leading-relaxed">
                 The Reserve Bank of India has issued several master circulars to regulate how banks handle compromise settlements and write-offs. One of the most significant recent updates is the "Framework for Compromise Settlements and Technical Write-offs" issued in June 2023.
               </p>
@@ -438,7 +438,7 @@ export default function LoanWriteOffVsSettlementPage() {
             </section>
 
             <section id="why-banks-choose" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">The Bank's Perspective</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">The Bank's Perspective</h3>
               <p className="mb-6 leading-relaxed">
                 To understand your position, you must understand the bank's motivations. A bank is a business, and like any business, it wants to minimize losses.
               </p>
@@ -451,7 +451,7 @@ export default function LoanWriteOffVsSettlementPage() {
             </section>
 
             <section id="borrower-choices" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">Making the Right Choice</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">Making the Right Choice</h3>
               <p className="mb-6 leading-relaxed">
                 If you are choosing between doing nothing (leading to a write-off) and pursuing a resolution (leading to a settlement), the choice is clear: Settlement is the better path.
               </p>
@@ -459,7 +459,7 @@ export default function LoanWriteOffVsSettlementPage() {
                 However, if you have the means to pay back the full amount over a longer period, you should explore "Loan Restructuring." This is where the bank reduces your EMI and increases your tenure. This keeps your account "Standard" and doesn't damage your credit score.
               </p>
               <div className="bg-blue-50 p-8 rounded-2xl border border-blue-100 mb-8 text-center">
-                <h3 className="text-xl font-bold mb-4">When to Choose Settlement?</h3>
+                <h4 className="text-xl font-bold mb-4">When to Choose Settlement?</h4>
                 <div className="grid md:grid-cols-2 gap-4 text-sm text-left">
                   <div className="p-4 bg-white rounded-lg border border-blue-100">You have no foreseeable way to pay the full amount ever.</div>
                   <div className="p-4 bg-white rounded-lg border border-blue-100">You are facing constant harassment and want mental peace.</div>
@@ -470,7 +470,7 @@ export default function LoanWriteOffVsSettlementPage() {
             </section>
 
             <section id="recovery-process" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">The Recovery Journey: What to Expect</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">The Recovery Journey: What to Expect</h3>
               <p className="mb-6 leading-relaxed">
                 The journey from your first missed EMI to a settlement or write-off usually follows a predictable pattern. Knowing this pattern helps you prepare.
               </p>
@@ -478,28 +478,28 @@ export default function LoanWriteOffVsSettlementPage() {
                 <li className="flex items-start gap-4">
                   <div className="flex-shrink-0 w-10 h-10 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center font-bold">1</div>
                   <div>
-                    <h3 className="font-bold text-lg mb-1">First 30 Days: The Soft Phase</h3>
+                    <h4 className="font-bold text-lg mb-1">First 30 Days: The Soft Phase</h4>
                     <p className="text-sm text-gray-600">The bank sends SMS and automated calls. They assume you simply forgot or have a minor cash flow issue.</p>
                   </div>
                 </li>
                 <li className="flex items-start gap-4">
                   <div className="flex-shrink-0 w-10 h-10 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center font-bold">2</div>
                   <div>
-                    <h4 className="font-bold text-lg mb-1">31 to 90 Days: The SMA Phase</h4>
+                    <h5 className="font-bold text-lg mb-1">31 to 90 Days: The SMA Phase</h5>
                     <p className="text-sm text-gray-600">Your account is marked as Special Mention Account (SMA-1 or SMA-2). Recovery agents might start visiting your home.</p>
                   </div>
                 </li>
                 <li className="flex items-start gap-4">
                   <div className="flex-shrink-0 w-10 h-10 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center font-bold">3</div>
                   <div>
-                    <h5 className="font-bold text-lg mb-1">91 Days Plus: The NPA Phase</h5>
+                    <h6 className="font-bold text-lg mb-1">91 Days Plus: The NPA Phase</h6>
                     <p className="text-sm text-gray-600">Your account is classified as a Non-Performing Asset. This is when the real legal pressure begins. The bank can now officially write off the loan in their accounts.</p>
                   </div>
                 </li>
                 <li className="flex items-start gap-4">
                   <div className="flex-shrink-0 w-10 h-10 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center font-bold">4</div>
                   <div>
-                    <h5 className="font-bold text-lg mb-1">180 Days Plus: The Resolution Phase</h5>
+                    <h6 className="font-bold text-lg mb-1">180 Days Plus: The Resolution Phase</h6>
                     <p className="text-sm text-gray-600">This is when most settlement offers are made. The bank realizes that the debt is becoming "stale" and is willing to accept a compromise.</p>
                   </div>
                 </li>
@@ -507,7 +507,7 @@ export default function LoanWriteOffVsSettlementPage() {
             </section>
 
             <section id="rebuilding-credit" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">Rebuilding After Default</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">Rebuilding After Default</h3>
               <p className="mb-6 leading-relaxed">
                 Life doesn't end after a settlement. Yes, your credit score is damaged, but it is fixable. It requires discipline, patience, and a strategic approach.
               </p>
@@ -520,22 +520,22 @@ export default function LoanWriteOffVsSettlementPage() {
             </section>
 
             <section id="expert-tips" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">Expert Tips for Debt Resolution</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">Expert Tips for Debt Resolution</h3>
               <div className="grid md:grid-cols-2 gap-6">
                 <div className="p-6 bg-gray-50 rounded-xl border border-gray-100 shadow-sm">
-                  <h3 className="font-bold text-[#1F5EFF] mb-3">Never Pay Cash</h3>
+                  <h4 className="font-bold text-[#1F5EFF] mb-3">Never Pay Cash</h4>
                   <p className="text-sm leading-relaxed">Always pay the bank via DD, Cheque, or NEFT directly to the bank's account. Never give cash to a recovery agent, as they might not deposit it properly.</p>
                 </div>
                 <div className="p-6 bg-gray-50 rounded-xl border border-gray-100 shadow-sm">
-                  <h4 className="font-bold text-[#1F5EFF] mb-3">Get the Settlement Letter First</h4>
+                  <h5 className="font-bold text-[#1F5EFF] mb-3">Get the Settlement Letter First</h5>
                   <p className="text-sm leading-relaxed">Never make a payment based on a verbal promise. Demand a formal settlement letter on the bank's letterhead signed by an authorized official.</p>
                 </div>
                 <div className="p-6 bg-gray-50 rounded-xl border border-gray-100 shadow-sm">
-                  <h5 className="font-bold text-[#1F5EFF] mb-3">Check the Wording</h5>
+                  <h6 className="font-bold text-[#1F5EFF] mb-3">Check the Wording</h6>
                   <p className="text-sm leading-relaxed">Ensure the letter clearly states that the account will be closed and that no future recovery will be pursued for the remaining amount.</p>
                 </div>
                 <div className="p-6 bg-gray-50 rounded-xl border border-gray-100 shadow-sm">
-                  <h5 className="font-bold text-[#1F5EFF] mb-3">Ask for the NDC</h5>
+                  <h6 className="font-bold text-[#1F5EFF] mb-3">Ask for the NDC</h6>
                   <p className="text-sm leading-relaxed">After the payment, wait for 30-45 days and demand your No Due Certificate. This is your ultimate legal protection.</p>
                 </div>
               </div>
@@ -576,7 +576,7 @@ export default function LoanWriteOffVsSettlementPage() {
             />
 
             <section id="faqs" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">Frequently Asked Questions</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">Frequently Asked Questions</h3>
               <div className="space-y-4">
                 {[
                   { 
@@ -643,7 +643,7 @@ export default function LoanWriteOffVsSettlementPage() {
             <div className="lg:hidden mt-16 mb-8">
               <div className="bg-[#2E2E2E] rounded-2xl shadow-xl overflow-hidden border border-[#1F5EFF]/20">
                 <div className="bg-[#1F5EFF] p-6 text-center text-white">
-                  <h3 className="text-2xl font-black mb-2">Ready to Start Over?</h3>
+                  <h4 className="text-2xl font-black mb-2">Ready to Start Over?</h4>
                   <p className="opacity-90 text-sm">Join the thousands we've helped find their way to financial freedom.</p>
                 </div>
                 <div className="p-8 text-center text-[#DEDEDE]">

@@ -261,27 +261,27 @@ export default function CreditCardQuotePage() {
             </section>
 
             <section id="understanding-quotes" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">What Goes Into a Debt Settlement Quote?</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">What Goes Into a Debt Settlement Quote?</h3>
               <p className="text-lg leading-relaxed mb-6">
                 When you request a quote from a top-rated debt resolution company, they don't just pull a number out of thin air. They perform a preliminary audit of your financial situation. A quote for settlement services typically includes two main components: the estimated settlement amount (what you pay the bank) and the service fee (what you pay the agency). Understanding both is vital to evaluating the ROI of the service.
               </p>
               <div className="bg-gray-50 p-8 rounded-xl border border-[#DEDEDE] mb-8">
-                <h3 className="text-xl font-bold mb-6">Deep Dive: Assessment Factors</h3>
+                <h4 className="text-xl font-bold mb-6">Deep Dive: Assessment Factors</h4>
                 <div className="space-y-6">
                   <div>
-                    <h4 className="font-bold text-[#1F5EFF] mb-2 font-mono text-sm tracking-tighter uppercase">01. Total Outstanding Balance</h4>
+                    <h5 className="font-bold text-[#1F5EFF] mb-2 font-mono text-sm tracking-tighter uppercase">01. Total Outstanding Balance</h5>
                     <p className="text-sm text-gray-600 leading-relaxed">This is the 'Gross Debt' representing everything from principal to penal interest. The negotiator uses this to establish the 'Maximum Potential Saving' for your case.</p>
                   </div>
                   <div>
-                    <h4 className="font-bold text-[#1F5EFF] mb-2 font-mono text-sm tracking-tighter uppercase">02. DPID (Days Past Internal Default)</h4>
+                    <h5 className="font-bold text-[#1F5EFF] mb-2 font-mono text-sm tracking-tighter uppercase">02. DPID (Days Past Internal Default)</h5>
                     <p className="text-sm text-gray-600 leading-relaxed">The age of your default is a critical leverage point. Banks are significantly more likely to offer deeper discounts on debts that are beyond 180 days (NPA status) than on fresh defaults, as the internal recovery costs for the bank keep increasing over time.</p>
                   </div>
                   <div>
-                    <h4 className="font-bold text-[#1F5EFF] mb-2 font-mono text-sm tracking-tighter uppercase">03. Lender Specific Grids</h4>
+                    <h5 className="font-bold text-[#1F5EFF] mb-2 font-mono text-sm tracking-tighter uppercase">03. Lender Specific Grids</h5>
                     <p className="text-sm text-gray-600 leading-relaxed">Each bank (HDFC, ICICI, SBI, Axis) has unique internal 'Settlement Grids' that change monthly or quarterly. A professional agency tracks these shifts to provide you with a quote that isn't just a guess, but a data-backed prediction of the bank's current 'Acceptance Threshold.'</p>
                   </div>
                   <div>
-                    <h4 className="font-bold text-[#1F5EFF] mb-2 font-mono text-sm tracking-tighter uppercase">04. Hardship Documentation Potential</h4>
+                    <h5 className="font-bold text-[#1F5EFF] mb-2 font-mono text-sm tracking-tighter uppercase">04. Hardship Documentation Potential</h5>
                     <p className="text-sm text-gray-600 leading-relaxed">Your story is not just a narrative; it is evidence. The strength of your medical bills, business loss statements, or job termination letters directly determines how much of a 'Compromise' the bank will entertain. A good quote reflects the 'Negotiation Weight' of your documentation.</p>
                   </div>
                 </div>
@@ -289,20 +289,20 @@ export default function CreditCardQuotePage() {
             </section>
 
             <section id="saving-potential" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">Your Saving Potential: Breaking Down the Numbers</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">Your Saving Potential: Breaking Down the Numbers</h3>
               <p className="text-lg leading-relaxed mb-6">
                 The primary reason to seek a settlement is the massive reduction in your total dues. For credit cards, because they are unsecured and carry astronomical interest rates, the saving potential is often greater than for other loan types. On average, Indian borrowers see waivers between 40% and 60% of their total outstanding balance. In cases of exceptional hardship, such as permanent disability or complete business failure, waivers can reach 75-80% of the total dues.
               </p>
               <div className="grid md:grid-cols-2 gap-6 mb-8">
                 <div className="p-8 bg-blue-50 border border-blue-100 rounded-2xl hover:shadow-lg transition-all group">
                   <div className="w-12 h-12 bg-blue-600 text-white rounded-lg flex items-center justify-center font-bold mb-4 group-hover:scale-110 transition-transform">¥</div>
-                  <h3 className="font-bold text-blue-900 mb-2">Conservative Scenario</h3>
+                  <h4 className="font-bold text-blue-900 mb-2">Conservative Scenario</h4>
                   <p className="text-sm text-blue-800 leading-relaxed mb-4">For a ¥5,00,000 debt with a standard default of 180 days. A 40% waiver means you pay ¥3,00,000 as a lump sum.</p>
                   <div className="text-xl font-black text-blue-600">You save ¥2,00,000</div>
                 </div>
                 <div className="p-8 bg-green-50 border border-green-100 rounded-2xl hover:shadow-lg transition-all group">
                   <div className="w-12 h-12 bg-green-600 text-white rounded-lg flex items-center justify-center font-bold mb-4 group-hover:scale-110 transition-transform">%</div>
-                  <h4 className="font-bold text-green-900 mb-2">Optimal Scenario</h4>
+                  <h5 className="font-bold text-green-900 mb-2">Optimal Scenario</h5>
                   <p className="text-sm text-green-800 leading-relaxed mb-4">With severe hardship proof and an older default (360+ days). A 60% waiver means you pay ¥2,00,000.</p>
                   <div className="text-xl font-black text-green-600">You save ¥3,00,000</div>
                 </div>
@@ -316,7 +316,7 @@ export default function CreditCardQuotePage() {
             </section>
 
             <section id="fee-models" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">Understanding Service Fee Models</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">Understanding Service Fee Models</h3>
               <p className="text-lg leading-relaxed mb-6">
                 Professional help comes at a cost, but it is a fraction of the amount you save. Transparent companies are very clear about their fee structures from the beginning. There are two primary models used by top-rated companies in India. Choosing between them depends on your cash flow and how much you trust the agency's ability to negotiate a deep waiver.
               </p>
@@ -325,7 +325,7 @@ export default function CreditCardQuotePage() {
                   <div className="absolute top-4 right-4 text-[#1F5EFF] opacity-10 group-hover:opacity-100 transition-opacity">
                     <svg className="w-8 h-8" fill="currentColor" viewBox="0 0 20 20"><path d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-9.293a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z"></path></svg>
                   </div>
-                  <h3 className="text-2xl font-black text-[#1F5EFF] mb-4">1. Percentage of Total Debt Enrolled</h3>
+                  <h4 className="text-2xl font-black text-[#1F5EFF] mb-4">1. Percentage of Total Debt Enrolled</h4>
                   <p className="text-base leading-relaxed mb-6 text-gray-700">In this model, the agency charges a flat percentage (usually 15% to 25%) of the total debt amount you want to settle. This fee covers legal protection, negotiation, and admin. It is the most predictable model for budgeting purposes. If you have multiple cards totaling ¥10L, and the fee is 15%, you pay ¥1.5L over the course of the program.</p>
                   <ul className="grid sm:grid-cols-2 gap-3 text-sm font-bold text-gray-500 italic">
                     <li className="flex items-center gap-2"><span className="w-1 h-1 bg-green-500 rounded-full"></span> Predictable Monthly Budget</li>
@@ -338,7 +338,7 @@ export default function CreditCardQuotePage() {
                   <div className="absolute top-4 right-4 text-[#1F5EFF] opacity-10 group-hover:opacity-100 transition-opacity">
                     <svg className="w-8 h-8" fill="currentColor" viewBox="0 0 20 20"><path d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-9.293a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z"></path></svg>
                   </div>
-                  <h3 className="text-2xl font-black text-[#1F5EFF] mb-4">2. Success Fee (Percentage of Savings)</h3>
+                  <h4 className="text-2xl font-black text-[#1F5EFF] mb-4">2. Success Fee (Percentage of Savings)</h4>
                   <p className="text-base leading-relaxed mb-6 text-gray-700">Some boutique firms and legal experts charge based on results only. This fee (usually 20% to 35%) is calculated based on the actual amount saved. This model aligns the agency's interests with yours- the more they save you, the more they earn. It is often preferred by those with very high debt amounts where the saving variability is high.</p>
                   <p className="text-sm font-medium text-[#1F5EFF] bg-blue-50 p-4 rounded-lg">Pro Tip: Some hybrid models charge a small retainer + a success fee. Ensure your quote clarifies if the retainer is deductible from the success fee later.</p>
                 </div>
@@ -346,7 +346,7 @@ export default function CreditCardQuotePage() {
             </section>
 
             <section id="hardship-audit" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">The Hardship Audit: The Core of Your Quote</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">The Hardship Audit: The Core of Your Quote</h3>
               <p className="text-lg leading-relaxed mb-6">
                 The most important part of getting an accurate quote is proving that you *cannot* pay the full amount. Banks do not settle with those who have the capacity to pay; they settle with those who are genuinely insolvent or in extreme financial distress. This is not about being poor; it is about having a changed financial reality. A professional service provider will help you document this 'Hardship.'
               </p>
@@ -354,7 +354,7 @@ export default function CreditCardQuotePage() {
                 This audit includes a comprehensive review of your life events. Did you lose your job during a corporate layoff? Did a medical emergency in your family consume your savings? Did your business shut down due to market changes? Each of these scenarios requires different documentation. By analyzing these factors, the agency can predict how aggressive they can be in their negotiations.
               </p>
               <div className="bg-amber-50 p-8 rounded-2xl border border-amber-100 mb-8">
-                <h3 className="text-xl font-bold text-amber-900 mb-4">Required Document Checklist:</h3>
+                <h4 className="text-xl font-bold text-amber-900 mb-4">Required Document Checklist:</h4>
                 <ul className="grid sm:grid-cols-2 gap-4 text-sm text-amber-900 opacity-90">
                   <li className="flex gap-2"><span>&#10003;</span> Last 6 months bank statements (all accounts)</li>
                   <li className="flex gap-2"><span>&#10003;</span> Resignation/Termination letters</li>
@@ -370,21 +370,21 @@ export default function CreditCardQuotePage() {
             </section>
 
             <section id="negotiation-factors" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">Critical Factors that Influence Your Quote</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">Critical Factors that Influence Your Quote</h3>
               <p className="text-lg leading-relaxed mb-6">
                 Negotiating credit card debt is as much about timing as it is about documentation. Banks have their own internal pressures that savvy negotiators exploit to get you a better deal.
               </p>
               <div className="space-y-8">
                 <div className="border-l-4 border-[#1F5EFF] pl-6 py-2">
-                  <h3 className="text-xl font-bold mb-2">Internal Recovery Targets</h3>
+                  <h4 className="text-xl font-bold mb-2">Internal Recovery Targets</h4>
                   <p className="text-gray-600 text-base leading-relaxed">Banks operate on quarterly and annual cycles. In the months of March (Fiscal year end) and September (Half year end), recovery managers are under massive pressure to clear 'Zombie Debt' (NPA accounts) from their books. A settlement quote requested during these windows often results in an extra 10-15% waiver.</p>
                 </div>
                 <div className="border-l-4 border-emerald-500 pl-6 py-2">
-                  <h4 className="text-xl font-bold mb-2">The Type of Credit Card</h4>
+                  <h5 className="text-xl font-bold mb-2">The Type of Credit Card</h5>
                   <p className="text-gray-600 text-base leading-relaxed">Premium 'Gold' or 'Platinum' cards with high limits often have different recovery protocols than entry-level 'Classic' cards. High-limit cards have larger loss implications for the bank, often making them more willing to accept a lump sum to avoid a total loss.</p>
                 </div>
                 <div className="border-l-4 border-purple-500 pl-6 py-2">
-                  <h4 className="text-xl font-bold mb-2">External Agency Assignment</h4>
+                  <h5 className="text-xl font-bold mb-2">External Agency Assignment</h5>
                   <p className="text-gray-600 text-base leading-relaxed">If your debt has been assigned to an 'External ARC' (Asset Reconstruction Company), the negotiation landscape changes. ARCs buy debt at a discount, meaning their 'Floor Price' for settlement is often much lower than the original bank's price.</p>
                 </div>
               </div>
@@ -392,7 +392,7 @@ export default function CreditCardQuotePage() {
 
             <section id="amalegal-perspective" className="scroll-mt-32 mb-16 bg-blue-50 p-8 rounded-2xl border border-blue-100">
               <div className="flex justify-between items-start mb-6">
-                <h3 className="text-3xl font-black text-blue-900">Amalegal Solutions</h3>
+                <h4 className="text-3xl font-black text-blue-900">Amalegal Solutions</h4>
                 <Link href="https://amalegalsolutions.com" target="_blank" rel="noopener noreferrer" className="text-blue-600 font-bold hover:underline">Visit Site ↗</Link>
               </div>
               <p className="text-lg mb-6 leading-relaxed text-blue-800">
@@ -400,15 +400,15 @@ export default function CreditCardQuotePage() {
               </p>
               <div className="grid sm:grid-cols-2 gap-6 mb-8">
                 <div className="bg-white p-6 rounded-xl shadow-sm">
-                  <h4 className="font-bold text-blue-900 mb-2 underline decoration-blue-200">Legal Shielding</h4>
+                  <h5 className="font-bold text-blue-900 mb-2 underline decoration-blue-200">Legal Shielding</h5>
                   <p className="text-sm text-blue-700 leading-relaxed">Amalegal provides a documented response to every legal notice sent by the bank, ensuring your side of the story is on the official record. This prevents banks from getting 'Ex-parte' orders against you.</p>
                 </div>
                 <div className="bg-white p-6 rounded-xl shadow-sm">
-                  <h5 className="font-bold text-blue-900 mb-2 underline decoration-blue-200">Ombudsman Escalation</h5>
+                  <h6 className="font-bold text-blue-900 mb-2 underline decoration-blue-200">Ombudsman Escalation</h6>
                   <p className="text-sm text-blue-700 leading-relaxed">If a bank is refusing a reasonable settlement despite clear hardship, Amalegal escalates the matter to the RBI Ombudsman, often forcing the bank's hand to resolve the matter fairly.</p>
                 </div>
               </div>
-              <h4 className="font-bold mb-4 text-blue-900 uppercase tracking-widest text-xs">What to expect from an Amalegal quote:</h4>
+              <h5 className="font-bold mb-4 text-blue-900 uppercase tracking-widest text-xs">What to expect from an Amalegal quote:</h5>
               <ul className="space-y-3 text-sm text-blue-800">
                 <li className="flex items-center gap-2"><span className="w-1.5 h-1.5 bg-blue-600 rounded-full"></span> Transparent legal fees from day one with no hidden success surcharges.</li>
                 <li className="flex items-center gap-2"><span className="w-1.5 h-1.5 bg-blue-600 rounded-full"></span> Detailed breakdown of legal risks and specific mitigation strategies for your city.</li>
@@ -418,7 +418,7 @@ export default function CreditCardQuotePage() {
 
             <section id="credsettle-perspective" className="scroll-mt-32 mb-16 bg-gray-50 p-8 rounded-2xl border border-gray-200">
               <div className="flex justify-between items-start mb-6">
-                <h3 className="text-3xl font-black text-[#2E2E2E]">CredSettle</h3>
+                <h4 className="text-3xl font-black text-[#2E2E2E]">CredSettle</h4>
                 <Link href="https://credsettle.com" target="_blank" rel="noopener noreferrer" className="text-[#1F5EFF] font-bold hover:underline text-sm uppercase tracking-widest">Visit Site ↗</Link>
               </div>
               <p className="text-lg mb-6 leading-relaxed text-gray-700">
@@ -440,33 +440,33 @@ export default function CreditCardQuotePage() {
 
             <section id="settleloans-perspective" className="scroll-mt-32 mb-16 bg-[#2E2E2E] text-[#DEDEDE] p-12 rounded-3xl border border-[#1F5EFF]/20 shadow-2xl relative overflow-hidden text-center">
               <div className="absolute bottom-0 left-0 w-full h-1 bg-[#1F5EFF]"></div>
-              <h3 className="text-4xl font-black text-[#1F5EFF] mb-4 uppercase tracking-tighter">The SettleLoans Difference</h3>
+              <h4 className="text-4xl font-black text-[#1F5EFF] mb-4 uppercase tracking-tighter">The SettleLoans Difference</h4>
               <Link href="https://www.settleloans.in" target="_blank" rel="noopener noreferrer" className="inline-block mb-8 text-[#1F5EFF] font-bold hover:underline underline-offset-4">www.settleloans.in</Link>
               <p className="text-lg mb-8 leading-relaxed opacity-90 text-left">
                 At <strong>SettleLoans</strong>, we believe every borrower deserves a second chance. Our quoting process is designed as a 'Life Audit.' We look beyond the numbers to see the human being behind the debt. We understand that your credit card debt might be the result of a medical crisis, a business failure, or an unforeseen layoff. Our quotes are all-inclusive, with no hidden charges for legal drafting, call management, or relationship manager access.
               </p>
               <div className="grid md:grid-cols-3 gap-6 mb-10">
                 <div className="p-6 bg-[#1F5EFF]/5 border border-[#1F5EFF]/20 rounded-xl">
-                  <h4 className="font-bold text-[#1F5EFF] mb-2">Zero Hidden Fees</h4>
+                  <h5 className="font-bold text-[#1F5EFF] mb-2">Zero Hidden Fees</h5>
                   <p className="text-xs opacity-70">Everything from notice response to bank meetings is included in one single transparent quote.</p>
                 </div>
                 <div className="p-6 bg-[#1F5EFF]/5 border border-[#1F5EFF]/20 rounded-xl">
-                  <h5 className="font-bold text-[#1F5EFF] mb-2">Emotional Support</h5>
+                  <h6 className="font-bold text-[#1F5EFF] mb-2">Emotional Support</h6>
                   <p className="text-xs opacity-70">We provide counseling to help you deal with the psychological stress of debt and recovery calls.</p>
                 </div>
                 <div className="p-6 bg-[#1F5EFF]/5 border border-[#1F5EFF]/20 rounded-xl">
-                  <h5 className="font-bold text-[#1F5EFF] mb-2">SettleSmart™ Path</h5>
+                  <h6 className="font-bold text-[#1F5EFF] mb-2">SettleSmart™ Path</h6>
                   <p className="text-xs opacity-70">A step-by-step roadmap tailored to your specific income and expense profile.</p>
                 </div>
               </div>
               <div className="bg-[#1F5EFF] p-8 rounded-2xl text-white">
-                <h4 className="text-xl font-black mb-4">The SettleLoans Commitment</h4>
+                <h5 className="text-xl font-black mb-4">The SettleLoans Commitment</h5>
                 <p className="text-base leading-relaxed opacity-95">"We don't just give you a waiver number; we give you a commitment. If our negotiation doesn't result in a settlement within the quoted range, we work for you until it does. We are your partners in this fight for financial freedom."</p>
               </div>
             </section>
 
             <section id="legal-protection" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">Your Legal Protections During the Settlement Process</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">Your Legal Protections During the Settlement Process</h3>
               <p className="text-lg leading-relaxed mb-6">
                 A quote for services should also include detailed information on how you are legally protected. The RBI has very strict guidelines for recovery practices in India. No agent can harass you, call you at odd hours (typically outside 8 AM to 7 PM), or shaming you in public/social media. A reputable service provider will take over these calls by becoming your 'Authorized Representative,' giving you the mental space to recover.
               </p>
@@ -474,7 +474,7 @@ export default function CreditCardQuotePage() {
                 Always ensure your chosen firm provides assistance with the <strong>Banking Ombudsman</strong> and understands the <strong>Insolvency and Bankruptcy Code (IBC)</strong> standards for individuals. This ensures that your settlement is not just a commercial deal, but a legal protection against future claims. If a bank agent visits your home after you have enrolled with a firm, the firm should provide you with a 'Standard Operating Procedure' (SOP) on how to handle the interaction legally and safely.
               </p>
               <div className="bg-red-50 p-8 rounded-2xl border border-red-100 mb-8">
-                <h3 className="text-xl font-black text-red-900 mb-4">CRITICAL: RBI Fair Practices Code</h3>
+                <h4 className="text-xl font-black text-red-900 mb-4">CRITICAL: RBI Fair Practices Code</h4>
                 <p className="text-sm text-red-800 leading-relaxed mb-4">The Reserve Bank of India (RBI) mandates that lenders and their recovery agents must follow a code of conduct. Violations of this code can be used as significant leverage in a settlement negotiation. A professional firm uses these violations (if any) to force the bank into a much deeper settlement waiver.</p>
                 <ul className="space-y-2 text-sm text-red-700 font-bold italic">
                   <li>- No calling contacts not listed as references</li>
@@ -486,25 +486,25 @@ export default function CreditCardQuotePage() {
             </section>
 
             <section id="mistakes-to-avoid" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">Common Mistakes to Avoid When Getting a Quote</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">Common Mistakes to Avoid When Getting a Quote</h3>
               <p className="text-lg leading-relaxed mb-6">
                 Even with a professional quote, many borrowers make mistakes that jeopardize their settlement. Being aware of these traps can save you from losing your hard-earned money to the wrong parties.
               </p>
               <div className="grid md:grid-cols-2 gap-8 mb-8">
                 <div className="bg-white p-6 rounded-xl border border-[#DEDEDE] border-t-4 border-t-red-500">
-                  <h3 className="font-black text-red-600 mb-2">01. Paying Recovery Agents Directly</h3>
+                  <h4 className="font-black text-red-600 mb-2">01. Paying Recovery Agents Directly</h4>
                   <p className="text-xs text-gray-500 leading-relaxed">Never pay a recovery agent in cash or to their personal UPI id. Any payment made for settlement must be through an official bank link or cheque generated by the bank itself.</p>
                 </div>
                 <div className="bg-white p-6 rounded-xl border border-[#DEDEDE] border-t-4 border-t-red-500">
-                  <h4 className="font-black text-red-600 mb-2">02. Settlement Without a Letter</h4>
+                  <h5 className="font-black text-red-600 mb-2">02. Settlement Without a Letter</h5>
                   <p className="text-xs text-gray-500 leading-relaxed">No settlement is valid without a formal 'Settlement Offer Letter' on the bank's letterhead. Verbal promises from bank staff hold no legal weight later.</p>
                 </div>
                 <div className="bg-white p-6 rounded-xl border border-[#DEDEDE] border-t-4 border-t-red-500">
-                  <h5 className="font-black text-red-600 mb-2">03. Ignoring Legal Notices</h5>
+                  <h6 className="font-black text-red-600 mb-2">03. Ignoring Legal Notices</h6>
                   <p className="text-xs text-gray-500 leading-relaxed">Ignoring a court summons or a Section 138 notice is a criminal mistake. Always have your resolution agency's legal team respond to these immediately.</p>
                 </div>
                 <div className="bg-white p-6 rounded-xl border border-[#DEDEDE] border-t-4 border-t-red-500">
-                  <h5 className="font-black text-red-600 mb-2">04. Assuming Debt is 'Expired'</h5>
+                  <h6 className="font-black text-red-600 mb-2">04. Assuming Debt is 'Expired'</h6>
                   <p className="text-xs text-gray-500 leading-relaxed">Debt in India doesn't just disappear. While the limitation for filing a suit is 3 years, banks can still pursue other recovery methods or sell the debt to ARCs for decades.</p>
                 </div>
               </div>
@@ -547,7 +547,7 @@ export default function CreditCardQuotePage() {
             </section>
 
             <section id="faqs" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-12">Frequently Asked Questions</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-12">Frequently Asked Questions</h3>
               <div className="space-y-4">
                 {[
                   { q: "Can I cancel my enrollment after receiving a quote?", a: "Most firms allow you to walk away after the initial quote and consultation without any financial obligation. Enrollment typically happens once you officially sign the Service Agreement. Reputable firms like SettleLoans ensure that you have 48 to 72 hours to review the agreement before signing. If you decide to cancel after enrollment, some firms may charge a nominal processing fee, while others offer a full refund within a specific cooling-off period (usually 7 days)." },
@@ -575,7 +575,7 @@ export default function CreditCardQuotePage() {
             </section>
 
             <section id="conclusion" className="scroll-mt-32 mt-16 p-8 bg-[#1F5EFF]/5 rounded-2xl border border-[#1F5EFF]/20">
-              <h2 className="text-3xl font-black text-[#2E2E2E] mb-6">Conclusion: Your Path to a Debt-Free Life</h2>
+              <h3 className="text-3xl font-black text-[#2E2E2E] mb-6">Conclusion: Your Path to a Debt-Free Life</h3>
               <p className="text-lg leading-relaxed mb-6">
                 Getting a quote for credit card debt settlement is the single most important action you can take to stop the cycle of endless interest. It transforms a vague cloud of anxiety into a concrete, manageable plan. By understanding the fee models, the saving potential, and the legal protections available to you, you are no longer a victim of your circumstances—you are a strategist of your own recovery.
               </p>
@@ -592,7 +592,7 @@ export default function CreditCardQuotePage() {
             <div className="lg:hidden mt-16 mb-8">
                <div className="bg-[#2E2E2E] rounded-2xl shadow-xl overflow-hidden border border-[#1F5EFF]/20">
                  <div className="bg-[#1F5EFF] p-6 text-center text-white">
-                   <h3 className="text-2xl font-black mb-2">Ready to Settle?</h3>
+                   <h4 className="text-2xl font-black mb-2">Ready to Settle?</h4>
                    <p className="opacity-90 text-sm">Join the thousands who have secured their financial freedom through our expert quotes.</p>
                  </div>
                  <div className="p-8 text-center text-[#DEDEDE]">

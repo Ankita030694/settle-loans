@@ -262,22 +262,22 @@ export default function LOCAirportDefensePage() {
             </section>
 
             <section id="what-is-loc" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 What Exactly is a Look Out Circular (LOC)?
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 A Look Out Circular is a directive issued by authorities to check whether a traveling person is wanted by law enforcement agencies. It is used at international borders, primarily airports and seaports, to restrict the movement of fugitives.
               </p>
 
               <div className="grid md:grid-cols-2 gap-6 my-8">
                 <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
-                  <h3 className="font-black text-[#1F5EFF] text-lg mb-3">The Purpose of an LOC</h3>
+                  <h4 className="font-black text-[#1F5EFF] text-lg mb-3">The Purpose of an LOC</h4>
                   <p className="text-gray-700 leading-relaxed">
                     It is designed to track absconding criminals, terrorists, and massive economic offenders (like Vijay Mallya or Nirav Modi) who pose a flight risk and threaten the economic interests of India.
                   </p>
                 </div>
                 <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
-                  <h4 className="font-black text-[#1F5EFF] text-lg mb-3">What it is NOT For</h4>
+                  <h5 className="font-black text-[#1F5EFF] text-lg mb-3">What it is NOT For</h5>
                   <p className="text-gray-700 leading-relaxed">
                     It is definitively <strong>not</strong> meant to act as a debt recovery tool for banks to chase down retail borrowers who missed EMIs on personal loans, credit cards, or standard business loans.
                   </p>
@@ -286,15 +286,15 @@ export default function LOCAirportDefensePage() {
             </section>
 
             <section id="who-can-issue-loc" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 Who Actually Has the Power to Issue an LOC?
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 The issuance of an LOC is strictly governed by the guidelines of the Ministry of Home Affairs (MHA). Recovery agents and lower-level bank officials cannot arbitrarily issue them.
               </p>
 
               <div className="bg-blue-50 border-l-8 border-[#1F5EFF] p-8 rounded-r-2xl mb-8">
-                <h3 className="text-xl font-black text-[#1F5EFF] mb-4">Public Sector Banks (PSBs) vs. Private Banks</h3>
+                <h4 className="text-xl font-black text-[#1F5EFF] mb-4">Public Sector Banks (PSBs) vs. Private Banks</h4>
                 <p className="text-blue-900 text-lg leading-relaxed mb-4">
                   There is a major legal distinction based on the type of bank you owe money to:
                 </p>
@@ -318,9 +318,9 @@ export default function LOCAirportDefensePage() {
             </section>
 
             <section id="the-myth-of-airport-detention" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 The Myth of Being Stopped at the Airport
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 "Will I be stopped at the airport for a loan default?" The answer is overwhelmingly no, with very few, highly specific exceptions.
               </p>
@@ -329,7 +329,7 @@ export default function LOCAirportDefensePage() {
                 <div className="flex gap-6">
                   <div className="flex-shrink-0 w-12 h-12 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center font-black text-xl shadow-lg">1</div>
                   <div>
-                    <h3 className="text-2xl font-bold text-[#2E2E2E] mb-2">Civil vs. Criminal Law</h3>
+                    <h4 className="text-2xl font-bold text-[#2E2E2E] mb-2">Civil vs. Criminal Law</h4>
                     <p className="text-lg text-gray-700 leading-relaxed">
                       Defaulting on a loan is a civil breach of contract. Immigration authorities enforce criminal law and national security directives. They have no jurisdiction or interest in your civil debts to a bank.
                     </p>
@@ -339,7 +339,7 @@ export default function LOCAirportDefensePage() {
                 <div className="flex gap-6">
                   <div className="flex-shrink-0 w-12 h-12 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center font-black text-xl shadow-lg">2</div>
                   <div>
-                    <h3 className="text-2xl font-bold text-[#2E2E2E] mb-2">The Section 138 Exception</h3>
+                    <h4 className="text-2xl font-bold text-[#2E2E2E] mb-2">The Section 138 Exception</h4>
                     <p className="text-lg text-gray-700 leading-relaxed">
                       The only time you might face travel issues for a retail loan is if the bank filed a Section 138 (Cheque Bounce) criminal case, the court issued summons, you ignored them repeatedly, and the court subsequently issued a Non-Bailable Warrant (NBW) against you.
                     </p>
@@ -349,11 +349,11 @@ export default function LOCAirportDefensePage() {
             </section>
 
             <section id="passport-seizure-threats" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 Can the Bank Seize My Passport?
-              </h2>
+              </h3>
               <div className="bg-red-50 p-6 rounded-xl border border-red-100 mb-8">
-                <h3 className="text-xl font-black text-red-700 mb-3">Complete Illegal Extortion</h3>
+                <h4 className="text-xl font-black text-red-700 mb-3">Complete Illegal Extortion</h4>
                 <p className="text-red-900 leading-relaxed mb-4">
                   Recovery agents often threaten that the bank will seize or impound your passport. This is entirely false. <strong>Only the Passport Authority of India</strong> has the legal right to impound or revoke a passport under Section 10(3) of the Passports Act, 1967.
                 </p>
@@ -364,9 +364,9 @@ export default function LOCAirportDefensePage() {
             </section>
 
             <section id="role-of-recovery-agents" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 The Illegal Tactics of Recovery Agents
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 Understanding how collection agencies operate is crucial to dismantling their threats. They often use spoofed numbers or fake emails designed to look like official government or police communications. They may send fabricated notices titled "Immigration Hold" or "Border Alert" to induce panic.
               </p>
@@ -381,14 +381,14 @@ export default function LOCAirportDefensePage() {
             </section>
 
             <section id="nri-impact" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 Impact on NRIs and Overseas Workers
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 Non-Resident Indians (NRIs) and expatriates are uniquely vulnerable to these threats. A delay at immigration can result in missed flights, lost jobs, or canceled visas. Recovery agents know this and weaponize the fear of deportation or job loss. They often threaten to contact the borrower's foreign employer or the embassy.
               </p>
               <div className="bg-blue-50 border-l-8 border-[#1F5EFF] p-8 rounded-r-2xl mb-8">
-                <h3 className="text-xl font-black text-[#1F5EFF] mb-4">Your Protection Abroad</h3>
+                <h4 className="text-xl font-black text-[#1F5EFF] mb-4">Your Protection Abroad</h4>
                 <ul className="space-y-3">
                   <li className="flex items-start gap-3">
                     <div className="mt-1.5 w-2 h-2 rounded-full bg-[#1F5EFF] flex-shrink-0"></div>
@@ -406,9 +406,9 @@ export default function LOCAirportDefensePage() {
             </section>
 
             <section id="drts-and-locs" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 Debt Recovery Tribunals (DRT) and Travel Bans
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 Sometimes, borrowers fear that if their case escalates to the Debt Recovery Tribunal (DRT), an automatic travel ban applies. This is fundamentally incorrect. The DRT is a civil forum designed to adjudicate the quantum of debt and facilitate recovery.
               </p>
@@ -421,9 +421,9 @@ export default function LOCAirportDefensePage() {
             </section>
 
             <section id="legal-rights-travel" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 Your Fundamental Right to Travel
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 The Supreme Court of India, in the landmark case of <em>Maneka Gandhi vs. Union of India</em>, firmly established that the right to travel abroad is a fundamental right guaranteed under <strong>Article 21</strong> of the Constitution (Right to Life and Personal Liberty).
               </p>
@@ -433,9 +433,9 @@ export default function LOCAirportDefensePage() {
             </section>
 
             <section id="success-stories" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 Success Stories
-              </h2>
+              </h3>
               <div className="grid md:grid-cols-2 gap-6 my-8">
                 <div className="bg-white p-8 rounded-[30px] border border-[#DEDEDE] shadow-sm hover:shadow-xl group transition-all">
                   <div className="flex items-center gap-4 mb-6">
@@ -443,7 +443,7 @@ export default function LOCAirportDefensePage() {
                       DK
                     </div>
                     <div>
-                      <h3 className="font-bold text-gray-900">Deepak K.</h3>
+                      <h4 className="font-bold text-gray-900">Deepak K.</h4>
                       <div className="flex text-yellow-400">
                         <svg className="w-4 h-4 fill-current" viewBox="0 0 20 20"><path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z"/></svg>
                         <svg className="w-4 h-4 fill-current" viewBox="0 0 20 20"><path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z"/></svg>
@@ -468,7 +468,7 @@ export default function LOCAirportDefensePage() {
                       MS
                     </div>
                     <div>
-                      <h4 className="font-bold text-gray-900">Meera S.</h4>
+                      <h5 className="font-bold text-gray-900">Meera S.</h5>
                       <div className="flex text-yellow-400">
                         <svg className="w-4 h-4 fill-current" viewBox="0 0 20 20"><path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z"/></svg>
                         <svg className="w-4 h-4 fill-current" viewBox="0 0 20 20"><path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z"/></svg>
@@ -490,13 +490,13 @@ export default function LOCAirportDefensePage() {
             </section>
 
             <section id="faqs" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 Frequently Asked Questions
-              </h2>
+              </h3>
               <div className="space-y-4">
                 {((jsonLd["@graph"].find((item: any) => item["@type"] === "FAQPage") as any)?.mainEntity || []).map((faq: any, index: number) => (
                   <div key={index} className="bg-white border border-[#DEDEDE] rounded-xl p-6 hover:shadow-md transition-shadow">
-                    <h3 className="text-lg font-bold text-[#2E2E2E] mb-2">{faq.name}</h3>
+                    <h4 className="text-lg font-bold text-[#2E2E2E] mb-2">{faq.name}</h4>
                     <p className="text-gray-700 leading-relaxed">{faq.acceptedAnswer.text}</p>
                   </div>
                 ))}
@@ -507,9 +507,9 @@ export default function LOCAirportDefensePage() {
             <div className="bg-[#2E2E2E] text-white p-12 rounded-[40px] text-center mt-24 relative overflow-hidden group">
               <div className="absolute inset-0 bg-[#1F5EFF] opacity-0 group-hover:opacity-5 transition-opacity"></div>
               <div className="relative z-10">
-                <h3 className="text-3xl md:text-4xl font-black mb-6">
+                <h4 className="text-3xl md:text-4xl font-black mb-6">
                   Are recovery agents threatening to stop you at the airport because of an unpaid credit card or personal loan?
-                </h3>
+                </h4>
                 <p className="text-xl text-gray-300 mb-8 max-w-2xl mx-auto">
                   Don't let illegal threats stop your travel. Contact our lawyers to understand your rights and stop the harassment immediately.
                 </p>

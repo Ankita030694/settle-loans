@@ -285,9 +285,9 @@ export default function DRTNoticeReplyPage() {
             </section>
 
             <section id="understanding-notice" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
                 What is a DRT Notice and Why Did You Get It?
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 A DRT Notice is a formal summons issued by the Debt Recovery Tribunal (DRT). This tribunal was created under the Recovery of Debts and Bankruptcy Act (RDB Act) of 1993 to specifically handle debt recovery cases for banks and financial institutions where the amount in dispute is 20 lakhs or more. If your loan is smaller than this, the bank would typically have to go to a local civil court, but for larger debts, the DRT provides an accelerated path for banks to recover their money.
               </p>
@@ -298,7 +298,7 @@ export default function DRTNoticeReplyPage() {
                 Receiving this notice means the bank has decided to stop all soft-recovery measures and has entered the phase of formal litigation. This is a critical junction. It is not just about the money you owe; it is about verifying whether the bank has followed every rule in the book. Many times, banks make technical errors, charge penal interest incorrectly, or fail to serve notices properly. Your DRT notice reply is your chance to expose these flaws and force the bank to come to the negotiation table for a settlement.
               </p>
               <div className="bg-gray-50 p-8 rounded-xl border border-gray-200 mb-8">
-                <h3 className="text-xl font-bold mb-6 text-[#2E2E2E]">Common Reasons for Receiving a Notice:</h3>
+                <h4 className="text-xl font-bold mb-6 text-[#2E2E2E]">Common Reasons for Receiving a Notice:</h4>
                 <ul className="grid md:grid-cols-1 gap-4 text-sm font-medium">
                   <li className="flex items-start gap-2">
                     <span className="w-4 h-4 bg-[#1F5EFF] rounded-full shrink-0 flex items-center justify-center text-white text-[10px]">1</span>
@@ -329,15 +329,15 @@ export default function DRTNoticeReplyPage() {
             </section>
 
             <section id="legal-framework" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
                 SARFAESI Act vs RDDBFI Act: Know Your Battlefield
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 In India, debt recovery is governed by two main 'monsters': the SARFAESI Act of 2002 and the RDB Act of 1993 (formerly RDDBFI). Understanding which one the bank is using is the most important step in drafting your DRT notice reply. While they both deal with recovery, the rules and your rights are very different under each.
               </p>
               <div className="grid md:grid-cols-2 gap-8 mb-12">
                 <div className="bg-blue-50 p-6 rounded-2xl border border-blue-100">
-                  <h3 className="text-xl font-bold text-blue-900 mb-4">The SARFAESI Act (Non-Court)</h3>
+                  <h4 className="text-xl font-bold text-blue-900 mb-4">The SARFAESI Act (Non-Court)</h4>
                   <p className="text-sm text-blue-800 leading-relaxed mb-4">
                     This is the bank's favorite weapon. It allows them to take possession and sell your property without ever going to a judge. They only need to send you a 13(2) notice and wait for 60 days. If you don't object effectively, they can take the keys to your property.
                   </p>
@@ -346,7 +346,7 @@ export default function DRTNoticeReplyPage() {
                   </p>
                 </div>
                 <div className="bg-purple-50 p-6 rounded-2xl border border-purple-100">
-                  <h3 className="text-xl font-bold text-purple-900 mb-4">The RDB Act (Court Based)</h3>
+                  <h4 className="text-xl font-bold text-purple-900 mb-4">The RDB Act (Court Based)</h4>
                   <p className="text-sm text-purple-800 leading-relaxed mb-4">
                     This is a formal court case where the bank is the 'Plaintiff' and you are the 'Defendant'. The bank files an OA (Original Application) and the DRT judge oversees the entire process. They cannot sell your property until the judge agrees.
                   </p>
@@ -361,9 +361,9 @@ export default function DRTNoticeReplyPage() {
             </section>
 
             <section id="section-13-2" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
                 The SARFAESI Section 13(2) Demand: How to Reply
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 The SARFAESI Section 13(2) notice is often the first formal shot fired by the bank. It is a 'Demand Notice' that informs you that your account is an NPA and gives you exactly 60 days to pay the entire outstanding amount. If you do not pay or object within these 60 days, the bank gets the right to take 'symbolic possession' of your property under Section 13(4).
               </p>
@@ -371,7 +371,7 @@ export default function DRTNoticeReplyPage() {
                 Most people make the mistake of either ignoring this notice or sending a simple letter asking for more time. Neither of these is an effective reply. A true 13(2) reply must be a 'Representation and Objection' that challenges the validity of the notice itself. You must ask the bank specific questions: Was the NPA classification as per RBI norms? Have they accounted for all payments made? Are they charging illegal penal interest?
               </p>
               <div className="bg-[#2E2E2E] text-white p-8 rounded-2xl mb-8">
-                <h3 className="text-2xl font-bold mb-4">Checklist for a 13(2) Reply:</h3>
+                <h4 className="text-2xl font-bold mb-4">Checklist for a 13(2) Reply:</h4>
                 <ul className="space-y-3 text-sm opacity-90">
                   <li className="flex items-start gap-2">✓ Challenge the date of NPA and the classification logic.</li>
                   <li className="flex items-start gap-2">✓ Highlight any unauthorized charges or excessive interest rates.</li>
@@ -386,9 +386,9 @@ export default function DRTNoticeReplyPage() {
             </section>
 
             <section id="objection-rights" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
                 Your 13(3A) Objection Rights: The Borrower's Shield
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 When the SARFAESI Act was first introduced, it was heavily tilted in favor of the banks. However, following a landmark Supreme Court judgment, Section 13(3A) was added to protect borrowers. This section gives you the statutory right to raise objections to the 13(2) notice.
               </p>
@@ -406,9 +406,9 @@ export default function DRTNoticeReplyPage() {
             </section>
 
             <section id="drt-summons" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
                 Managing DRT Summons: The Courtroom Phase
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 A DRT Summons is different from a bank notice. It comes from the office of the Registrar of the Debt Recovery Tribunal. It tells you that a Case (OA) has been filed against you and you must appear before the Tribunal on a specific date. In many cases, it also includes an 'Interim Order' which might restrain you from selling the property yourself or transferring your assets while the case is pending.
               </p>
@@ -418,17 +418,17 @@ export default function DRTNoticeReplyPage() {
               <div className="grid sm:grid-cols-3 gap-4 my-8">
                 <div className="bg-white p-5 rounded-xl border border-[#DEDEDE] shadow-sm text-center">
                   <div className="w-12 h-12 bg-red-100 rounded-full flex items-center justify-center mx-auto mb-4 font-bold text-red-600">30</div>
-                  <h3 className="font-bold text-[#2E2E2E] mb-2">Days to Reply</h3>
+                  <h4 className="font-bold text-[#2E2E2E] mb-2">Days to Reply</h4>
                   <p className="text-xs text-gray-500">The standard window for filing your Written Statement.</p>
                 </div>
                 <div className="bg-white p-5 rounded-xl border border-[#DEDEDE] shadow-sm text-center">
                   <div className="w-12 h-12 bg-blue-100 rounded-full flex items-center justify-center mx-auto mb-4 font-bold text-blue-600">45</div>
-                  <h4 className="font-bold text-[#2E2E2E] mb-2">Days for SA</h4>
+                  <h5 className="font-bold text-[#2E2E2E] mb-2">Days for SA</h5>
                   <p className="text-xs text-gray-500">Time to challenge a SARFAESI measure in DRT.</p>
                 </div>
                 <div className="bg-white p-5 rounded-xl border border-[#DEDEDE] shadow-sm text-center">
                   <div className="w-12 h-12 bg-green-100 rounded-full flex items-center justify-center mx-auto mb-4 font-bold text-green-600">15</div>
-                  <h4 className="font-bold text-[#2E2E2E] mb-2">Notice Days</h4>
+                  <h5 className="font-bold text-[#2E2E2E] mb-2">Notice Days</h5>
                   <p className="text-xs text-gray-500">The minimum time required before an auction sale.</p>
                 </div>
               </div>
@@ -438,9 +438,9 @@ export default function DRTNoticeReplyPage() {
             </section>
 
             <section id="written-statement" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
                 The Written Statement: Your Formal DRT Notice Reply
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 The Written Statement (WS) is the document where you present your side of the story to the DRT. It is not a letter; it is a legal pleading. In the WS, you must go through the bank's application paragraph by paragraph. If the bank says, "The borrower took a loan on X date," and that is true, you admit it. But if they say, "The total dues are 50 lakhs," and you believe it's 40 lakhs, you must specifically deny that claim and provide your own calculations.
               </p>
@@ -456,31 +456,31 @@ export default function DRTNoticeReplyPage() {
             </section>
 
             <section id="key-defenses" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Top 7 Legal Defenses for Your DRT Notice Reply</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Top 7 Legal Defenses for Your DRT Notice Reply</h3>
               <p className="mb-6">
                 Every loan case is unique, but several legal defenses have proven successful in Tribunals across India. When drafting your reply, we look for these 'silver bullets' that can halt the bank's recovery process.
               </p>
               <div className="space-y-6 mb-12">
                 <div className="bg-white p-6 rounded-xl border border-gray-100 shadow-sm border-l-4 border-l-[#1F5EFF]">
-                  <h3 className="text-xl font-bold mb-3 font-sans">1. Faulty NPA Classification</h3>
+                  <h4 className="text-xl font-bold mb-3 font-sans">1. Faulty NPA Classification</h4>
                   <p className="text-sm text-gray-700 leading-relaxed">
                     The RBI has very strict master circulars on what qualifies as an NPA. If the bank classified your account as an NPA even two days before the 90-day default period, the entire DRT application and SARFAESI notice become void. In many cases of business loans where the income is seasonal, we have successfully argued that the classification was premature.
                   </p>
                 </div>
                 <div className="bg-white p-6 rounded-xl border border-gray-100 shadow-sm border-l-4 border-l-[#1F5EFF]">
-                  <h3 className="text-xl font-bold mb-3 font-sans">2. Incorrect Service of Notice</h3>
+                  <h4 className="text-xl font-bold mb-3 font-sans">2. Incorrect Service of Notice</h4>
                   <p className="text-sm text-gray-700 leading-relaxed">
                     The law requires that notices be served in a specific way: via registered post, to all co-borrowers and guarantors, and sometimes published in newspapers. If the bank missed sending the notice to even one guarantor, the entire proceeding can be challenged on technical grounds.
                   </p>
                 </div>
                 <div className="bg-white p-6 rounded-xl border border-gray-100 shadow-sm border-l-4 border-l-[#1F5EFF]">
-                  <h3 className="text-xl font-bold mb-3 font-sans">3. Unconscionable Interest Rates</h3>
+                  <h4 className="text-xl font-bold mb-3 font-sans">3. Unconscionable Interest Rates</h4>
                   <p className="text-sm text-gray-700 leading-relaxed">
                     While banks are allowed to charge interest, the charging of compound interest on top of penal interest is often frowned upon by courts. If we can show that the bank has built a 'mountain of debt' through unfair calculations, the judge may order a re-audit of the account.
                   </p>
                 </div>
                 <div className="bg-white p-6 rounded-xl border border-gray-100 shadow-sm border-l-4 border-l-[#1F5EFF]">
-                  <h3 className="text-xl font-bold mb-3 font-sans">4. Non-Disclosure of Account Statements</h3>
+                  <h4 className="text-xl font-bold mb-3 font-sans">4. Non-Disclosure of Account Statements</h4>
                   <p className="text-sm text-gray-700 leading-relaxed">
                     A borrower has a fundamental right to know how their debt was calculated. If the bank fails to provide a clear, ledgible statement of account despite your requests, your DRT notice reply can highlight this as a violation of the principles of natural justice.
                   </p>
@@ -492,7 +492,7 @@ export default function DRTNoticeReplyPage() {
             </section>
 
             <section id="npa-rules" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">NPA Classification Myths: What the Bank Doesn't Tell You</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">NPA Classification Myths: What the Bank Doesn't Tell You</h3>
               <p className="mb-6">
                 Many borrowers believe that once the bank says their account is an NPA, there is no way back. This is a dangerous myth. An NPA classification is simply a book-keeping requirement for the bank; it is not a final judgment on your character or your legal liability.
               </p>
@@ -500,7 +500,7 @@ export default function DRTNoticeReplyPage() {
                 Under RBI rules, an account can be 'upgraded' from an NPA to a Standard account if the borrower pays only the interest and the overdue part of the principal. You don't always have to pay the whole loan back to stop a DRT case. If we can negotiate a restructuring plan where you bring the account 'current', the bank is often happy to stop the legal proceedings because they the avoid the costs of the trial.
               </p>
               <div className="bg-blue-50 p-8 rounded-2xl border border-blue-100 mb-8">
-                <h3 className="text-xl font-bold text-blue-900 mb-4">The '90-Day' Truth</h3>
+                <h4 className="text-xl font-bold text-blue-900 mb-4">The '90-Day' Truth</h4>
                 <p className="text-sm text-blue-800 leading-relaxed mb-4">
                   For an account to be an NPA, it must have been 'overdue' for more than 90 days. But for agricultural loans or certain revolving credit limits, different rules apply. Many banks use the standard 90-day rule even where it doesn't legally fit.
                 </p>
@@ -511,12 +511,12 @@ export default function DRTNoticeReplyPage() {
             </section>
 
             <section id="possession-defense" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Staying Property Possession: Protecting Your Home</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Staying Property Possession: Protecting Your Home</h3>
               <p className="mb-6 text-lg">
                 The most traumatic part of a debt recovery process is the 'Possession Notice'. Under Section 13(4) of the SARFAESI Act, the bank or an ARC (Asset Reconstruction Company) can arrive at your doorstep and ask you to vacate. This is usually followed by them putting their locks on the gates and pasting a notice in the newspaper.
               </p>
               <div className="bg-emerald-50 p-8 rounded-2xl border border-emerald-100 mb-8">
-                <h3 className="text-xl font-bold text-emerald-800 mb-4">How the DRT Can Stop Possession</h3>
+                <h4 className="text-xl font-bold text-emerald-800 mb-4">How the DRT Can Stop Possession</h4>
                 <p className="mb-4 text-emerald-900/80">
                   You have the right to file a <strong>Securitisation Application (SA)</strong> in the DRT within 45 days of the possession notice. This is your chance to ask the judge for a 'Stay' or 'Interim Order' to keep your home. If you can show that the bank made a technical error in the way they handled the 13(2) notice or the 13(3A) objection, the judge will often grant you time to stay in the house while the case is heard.
                 </p>
@@ -530,7 +530,7 @@ export default function DRTNoticeReplyPage() {
             </section>
 
             <section id="limitation-period" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Time-Barred Claims: When the Bank Waits Too Long</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Time-Barred Claims: When the Bank Waits Too Long</h3>
               <p className="mb-6 text-lg">
                 The Law of Limitation applies to banks too. Generally, a bank has three years from the date of default or from the last payment to file a case in the DRT. If they wait for four years and then suddenly file a case, that case is 'Time-Barred'. It should be dismissed by the judge immediately, regardless of whether you actually owe the money or not.
               </p>
@@ -540,12 +540,12 @@ export default function DRTNoticeReplyPage() {
             </section>
 
             <section id="negotiation-strategy" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">The One-Time Settlement (OTS) Strategy during DRT</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">The One-Time Settlement (OTS) Strategy during DRT</h3>
               <p className="mb-6 text-lg">
                 Ultimately, neither the bank nor you want to spend five years in a court. The bank wants their money back, and you want your peace of mind. The DRT process is often just a very expensive and stressful way to force both parties to talk.
               </p>
               <div className="bg-blue-50 p-8 rounded-2xl border border-blue-100 mb-8">
-                <h3 className="text-2xl font-black text-[#2E2E2E] mb-6">How SettleLoans Leverages Litigation for Settlement</h3>
+                <h4 className="text-2xl font-black text-[#2E2E2E] mb-6">How SettleLoans Leverages Litigation for Settlement</h4>
                 <p className="mb-6">We use the DRT process as a platform for negotiation. By filing a strong reply and highlighting the bank's mistakes, we create 'risk' for the bank. If the bank thinks they might lose the case or that it will take five years to win, they become much more willing to accept an OTS for 50% or 60% of the total dues.</p>
                 <div className="space-y-4">
                   <div className="bg-white p-4 rounded-lg flex items-center justify-between">
@@ -568,12 +568,12 @@ export default function DRTNoticeReplyPage() {
             </section>
 
             <section id="mental-health" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Managing the Emotional Toll: You are Still a Success</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Managing the Emotional Toll: You are Still a Success</h3>
               <p className="mb-6 text-lg">
                 Being involved in a DRT case is exhausting. Every time a new notice arrives or a hearing date comes near, the stress can feel crushing. It is easy to feel like a failure, like you have let your family down. We want to tell you: This is not true.
               </p>
               <div className="bg-emerald-50 p-8 rounded-2xl border border-emerald-100 mb-8">
-                <h3 className="text-xl font-bold text-emerald-800 mb-4">Dealing with the Stress</h3>
+                <h4 className="text-xl font-bold text-emerald-800 mb-4">Dealing with the Stress</h4>
                 <p className="mb-4 text-emerald-900/80">
                   The weight of a legal battle is heavy, but it is lighter when you share it. By hiring experts to handle your DRT notice reply and court hearings, you can focus on your work and your family. Let our legal team deal with the aggression of the bank while you work on rebuilding your income.
                 </p>
@@ -584,12 +584,12 @@ export default function DRTNoticeReplyPage() {
             </section>
 
             <section id="settleloans-support" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">How SettleLoans Protects You in the DRT</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">How SettleLoans Protects You in the DRT</h3>
               <p className="mb-6">
                 At SettleLoans, we provide a 360-degree support system for borrowers facing DRT proceedings. We don't just give you a lawyer; we provide a complete defense and negotiation squad. We understand the technicalities of banking law and the psychological tactics of recovery agents.
               </p>
               <div className="bg-[#2E2E2E] text-white p-8 rounded-2xl mb-8">
-                <h3 className="text-2xl font-bold mb-4">Our Comprehensive Defense Process</h3>
+                <h4 className="text-2xl font-bold mb-4">Our Comprehensive Defense Process</h4>
                 <p className="mb-4 opacity-80">
                   When you bring your DRT notice to us, we don't just read it; we dissect it. We look for every possible loophole that can buy you time or save you money.
                 </p>
@@ -607,7 +607,7 @@ export default function DRTNoticeReplyPage() {
             </section>
 
             <section id="review-snippets" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 text-center">DRT Defense Success Stories</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 text-center">DRT Defense Success Stories</h3>
               <div className="grid md:grid-cols-2 gap-6 not-prose">
                 {[
                   {
@@ -645,7 +645,7 @@ export default function DRTNoticeReplyPage() {
                         {review.name.charAt(0)}
                       </div>
                       <div>
-                        <h3 className="font-bold text-[#2E2E2E]">{review.name}</h3>
+                        <h4 className="font-bold text-[#2E2E2E]">{review.name}</h4>
                         <p className="text-xs text-gray-400">{review.loc}</p>
                       </div>
                       <div className="ml-auto text-yellow-500 text-sm">★★★★★</div>
@@ -660,7 +660,7 @@ export default function DRTNoticeReplyPage() {
             </section>
 
             <section id="faqs" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Frequently Asked Questions</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Frequently Asked Questions</h3>
               <div className="space-y-4 not-prose">
                 {[
                   { q: "Is a DRT case a criminal case?", a: "No, a DRT case is a civil recovery matter. You cannot be jailed just for having a case in the DRT. However, if you ignore the court's orders or hide your assets, you could face 'Civil Imprisonment' in extreme cases, which is very rare." },
@@ -699,7 +699,7 @@ export default function DRTNoticeReplyPage() {
             <div className="lg:hidden mt-16 mb-8">
               <div className="bg-[#2E2E2E] rounded-2xl shadow-xl overflow-hidden border border-[#1F5EFF]/20">
                 <div className="bg-[#1F5EFF] p-6 text-center text-white">
-                  <h3 className="text-2xl font-black mb-2">Ready to Defend?</h3>
+                  <h4 className="text-2xl font-black mb-2">Ready to Defend?</h4>
                   <p className="opacity-90 text-sm">Join the thousands who've protected their homes and businesses with our help.</p>
                 </div>
                 <div className="p-8 text-center text-[#DEDEDE]">

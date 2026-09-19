@@ -551,9 +551,9 @@ export default function HowToGetPenalInterestWaivedInLoanSettlementPage() {
 
             {/* Section 2: Statutory and Regulatory Protections */}
             <section id="statutory-protections-rbi-fair-lending" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                 2. Statutory &amp; Regulatory Grounding: RBI Master Directions &amp; The Indian Contract Act
-              </h2>
+              </h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Borrowers must recognize that the banking sector operates under strict statutory boundaries established by the Reserve Bank of India (RBI) and central commercial statutes. A bank cannot arbitrarily generate compounding penalties without violating regulatory mandates:
               </p>
@@ -574,9 +574,9 @@ export default function HowToGetPenalInterestWaivedInLoanSettlementPage() {
                 </ul>
               </div>
 
-              <h3 className="text-base sm:text-lg font-bold text-slate-900 pt-2">
+              <h4 className="text-base sm:text-lg font-bold text-slate-900 pt-2">
                 Civil Law Protections: Section 74 of the Indian Contract Act, 1872
-              </h3>
+              </h4>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Beyond RBI circulars, borrowers are protected by foundational civil contract law. Under <strong>Section 74 of the Indian Contract Act, 1872</strong> (Compensation for breach of contract where penalty stipulated for), the law draws a strict distinction between legitimate liquidated damages and unconscionable penalties:
               </p>
@@ -594,40 +594,40 @@ export default function HowToGetPenalInterestWaivedInLoanSettlementPage() {
 
             {/* Section 3: Forensic Audit Methodology */}
             <section id="forensic-audit-methodology-bank-ledger" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                 3. The 5-Stage Financial Statement Forensic Audit Methodology
-              </h2>
+              </h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 To eliminate non-principal inflation, legal and financial specialists execute a comprehensive <strong>Financial Statement Forensic Audit</strong>. Rather than accepting the bank&apos;s summary outstanding balance, our advocates reconstruct the loan account transaction by transaction from the initial date of disbursement.
               </p>
 
               <div className="space-y-3 my-4">
                 <div className="p-4 rounded-xl border-l-4 border-blue-600 bg-slate-50 space-y-1">
-                  <h3 className="font-bold text-slate-900 text-xs sm:text-sm">Stage 1: Reconstructing the Complete Transaction Ledger</h3>
+                  <h4 className="font-bold text-slate-900 text-xs sm:text-sm">Stage 1: Reconstructing the Complete Transaction Ledger</h4>
                   <p className="text-xs text-slate-600 leading-relaxed">
                     Acquiring the unedited, full-tenure Statement of Account (SOA) directly from the bank core banking database. Every credit entry representing past EMI payments, partial repayments, and auto-debits is chronologically mapped against the original sanction schedule.
                   </p>
                 </div>
                 <div className="p-4 rounded-xl border-l-4 border-indigo-600 bg-slate-50 space-y-1">
-                  <h4 className="font-bold text-slate-900 text-xs sm:text-sm">Stage 2: Segregating Core Principal from Accrued Overheads</h4>
+                  <h5 className="font-bold text-slate-900 text-xs sm:text-sm">Stage 2: Segregating Core Principal from Accrued Overheads</h5>
                   <p className="text-xs text-slate-600 leading-relaxed">
                     Separating the actual disbursed principal capital from subsequent interest charges. By applying past repayments strictly against the principal amortization curve, the audit isolates the exact remaining net capital at risk.
                   </p>
                 </div>
                 <div className="p-4 rounded-xl border-l-4 border-purple-600 bg-slate-50 space-y-1">
-                  <h4 className="font-bold text-slate-900 text-xs sm:text-sm">Stage 3: Identifying &amp; Flagging Unlawful Capitalization</h4>
+                  <h5 className="font-bold text-slate-900 text-xs sm:text-sm">Stage 3: Identifying &amp; Flagging Unlawful Capitalization</h5>
                   <p className="text-xs text-slate-600 leading-relaxed">
                     Pinpointing every debit entry where penal interest, late payment surcharges, or NACH bounce charges were added to the principal balance to compute compounding interest. These entries are cataloged as regulatory non-compliances under RBI circulars.
                   </p>
                 </div>
                 <div className="p-4 rounded-xl border-l-4 border-amber-600 bg-slate-50 space-y-1">
-                  <h4 className="font-bold text-slate-900 text-xs sm:text-sm">Stage 4: Stripping Incidental &amp; Legal Notice Overheads</h4>
+                  <h5 className="font-bold text-slate-900 text-xs sm:text-sm">Stage 4: Stripping Incidental &amp; Legal Notice Overheads</h5>
                   <p className="text-xs text-slate-600 leading-relaxed">
                     Isolating internal collection fees, third-party recovery agency commissions, advocate notice debits, and unilateral insurance renewals that were debited without explicit borrower consent.
                   </p>
                 </div>
                 <div className="p-4 rounded-xl border-l-4 border-emerald-600 bg-slate-50 space-y-1">
-                  <h4 className="font-bold text-slate-900 text-xs sm:text-sm">Stage 5: Generating the Certified Core Principal Certificate</h4>
+                  <h5 className="font-bold text-slate-900 text-xs sm:text-sm">Stage 5: Generating the Certified Core Principal Certificate</h5>
                   <p className="text-xs text-slate-600 leading-relaxed">
                     Compiling the audited data into a formal, advocate-certified Forensic Audit Report. This certificate defines the authentic principal baseline and serves as the unassailable anchor for all subsequent compromise settlement negotiations.
                   </p>
@@ -641,9 +641,9 @@ export default function HowToGetPenalInterestWaivedInLoanSettlementPage() {
 
             {/* Section 4: Bank Accounting, NPA Provisioning & NPV Equation */}
             <section id="bank-accounting-npv-recovery-formula" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                 4. Bank Balance Sheet Accounting, NPA Provisioning &amp; The Net Present Value (NPV) Equation
-              </h2>
+              </h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 To understand why bank Credit Committees agree to wipe out 100% of accumulated penal charges, one must analyze commercial banking balance sheet mechanics under Reserve Bank of India prudential asset classification norms.
               </p>
@@ -715,9 +715,9 @@ export default function HowToGetPenalInterestWaivedInLoanSettlementPage() {
 
             {/* Section 5: Infographic Banner */}
             <section id="visual-forensic-audit-roadmap" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                 5. Visual Forensic Audit &amp; Settlement Roadmap: From Default to 100% Penal Waiver
-              </h2>
+              </h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 The comprehensive infographic below details the 5-stage institutional progression executed by debt resolution advocates: conducting the financial statement forensic audit, isolating uncapitalized penalties, invoking RBI Master Directions, negotiating before bank zonal committees, and securing complete 100% waivers on non-principal charges backed by an authentic No Dues Certificate.
               </p>
@@ -752,9 +752,9 @@ export default function HowToGetPenalInterestWaivedInLoanSettlementPage() {
 
             {/* Section 6: Zonal Committee Negotiations */}
             <section id="zonal-committee-negotiations-100-waiver" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                 6. Strategic Negotiation at the Zonal Settlement Committee: Forcing a 100% Non-Principal Waiver
-              </h2>
+              </h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Branch managers and call-center recovery agents possess virtually zero discretionary authority to grant substantial fee waivers. Frontline collection staff operate on commission-driven recovery targets and are incentivized to demand the gross inflated balance.
               </p>
@@ -808,9 +808,9 @@ export default function HowToGetPenalInterestWaivedInLoanSettlementPage() {
 
             {/* Section 7: OTS Sanction Letter Forensics */}
             <section id="sanction-letter-forensics-legal-finality" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                 7. OTS Sanction Letter Forensics: Safeguarding Complete Debt Extinguishment
-              </h2>
+              </h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 A critical vulnerability during debt resolution is the proliferation of fraudulent or unauthorized settlement letters issued by rogue recovery agencies. Unscrupulous tele-callers frequently issue fake settlement letters or informal WhatsApp confirmations to collect partial payments, subsequently crediting the money against penal interest while keeping the principal default active.
               </p>
@@ -822,7 +822,7 @@ export default function HowToGetPenalInterestWaivedInLoanSettlementPage() {
                 <div className="p-4 rounded-xl border border-slate-200 bg-slate-50 flex items-start gap-3">
                   <FileCheck className="w-5 h-5 text-emerald-600 flex-shrink-0 mt-0.5" />
                   <div className="space-y-1">
-                    <h3 className="font-bold text-slate-900 text-xs sm:text-sm">1. Official Bank Letterhead &amp; Zonal Signatory Seal</h3>
+                    <h4 className="font-bold text-slate-900 text-xs sm:text-sm">1. Official Bank Letterhead &amp; Zonal Signatory Seal</h4>
                     <p className="text-xs text-slate-600 leading-relaxed">
                       The letter must be printed on official bank stationery featuring registered corporate office details, unique reference numbers, and the physical or verified digital signature and employee code of an authorized Assistant General Manager (AGM) or Zonal Head.
                     </p>
@@ -831,7 +831,7 @@ export default function HowToGetPenalInterestWaivedInLoanSettlementPage() {
                 <div className="p-4 rounded-xl border border-slate-200 bg-slate-50 flex items-start gap-3">
                   <CheckCircle2 className="w-5 h-5 text-[#1F5EFF] flex-shrink-0 mt-0.5" />
                   <div className="space-y-1">
-                    <h4 className="font-bold text-slate-900 text-xs sm:text-sm">2. Explicit Loan Account &amp; Borrower Identification</h4>
+                    <h5 className="font-bold text-slate-900 text-xs sm:text-sm">2. Explicit Loan Account &amp; Borrower Identification</h5>
                     <p className="text-xs text-slate-600 leading-relaxed">
                       The document must explicitly state the borrower&apos;s full legal name, Permanent Account Number (PAN), and exact 16-digit loan account number, leaving no room for multi-account ambiguity.
                     </p>
@@ -840,7 +840,7 @@ export default function HowToGetPenalInterestWaivedInLoanSettlementPage() {
                 <div className="p-4 rounded-xl border border-slate-200 bg-slate-50 flex items-start gap-3">
                   <Lock className="w-5 h-5 text-purple-600 flex-shrink-0 mt-0.5" />
                   <div className="space-y-1">
-                    <h4 className="font-bold text-slate-900 text-xs sm:text-sm">3. Complete Debt Extinguishment &amp; Waiver Declaration</h4>
+                    <h5 className="font-bold text-slate-900 text-xs sm:text-sm">3. Complete Debt Extinguishment &amp; Waiver Declaration</h5>
                     <p className="text-xs text-slate-600 leading-relaxed">
                       The letter must contain unambiguous legal covenants declaring that upon timely payment of the agreed settlement sum, the bank waives all remaining principal, 100% of penal interest, late fees, and legal charges, and considers the loan account fully closed.
                     </p>
@@ -849,7 +849,7 @@ export default function HowToGetPenalInterestWaivedInLoanSettlementPage() {
                 <div className="p-4 rounded-xl border border-slate-200 bg-slate-50 flex items-start gap-3">
                   <ShieldCheck className="w-5 h-5 text-indigo-600 flex-shrink-0 mt-0.5" />
                   <div className="space-y-1">
-                    <h4 className="font-bold text-slate-900 text-xs sm:text-sm">4. Withdrawal of Legal Notices &amp; Court Proceedings</h4>
+                    <h5 className="font-bold text-slate-900 text-xs sm:text-sm">4. Withdrawal of Legal Notices &amp; Court Proceedings</h5>
                     <p className="text-xs text-slate-600 leading-relaxed">
                       The sanction terms must expressly stipulate that the bank will unconditionally withdraw all pending legal notices, Section 138 NI Act complaints, Section 25 PSSA proceedings, arbitration petitions, or civil recovery suits upon receipt of payment.
                     </p>
@@ -858,7 +858,7 @@ export default function HowToGetPenalInterestWaivedInLoanSettlementPage() {
                 <div className="p-4 rounded-xl border border-slate-200 bg-slate-50 flex items-start gap-3">
                   <BadgePercent className="w-5 h-5 text-amber-600 flex-shrink-0 mt-0.5" />
                   <div className="space-y-1">
-                    <h4 className="font-bold text-slate-900 text-xs sm:text-sm">5. Clear 30-Day No Dues Certificate Timeline</h4>
+                    <h5 className="font-bold text-slate-900 text-xs sm:text-sm">5. Clear 30-Day No Dues Certificate Timeline</h5>
                     <p className="text-xs text-slate-600 leading-relaxed">
                       The letter must formally specify the timeline (strictly within 30 calendar days) for releasing original documents and issuing the official zero-balance No Dues Certificate.
                     </p>
@@ -879,9 +879,9 @@ export default function HowToGetPenalInterestWaivedInLoanSettlementPage() {
 
             {/* Section 8: Remittance, NDC Mandate & CIBIL */}
             <section id="remittance-rbi-ndc-mandate-cibil" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                 8. Settlement Remittance, RBI 30-Day No Dues Certificate Mandate &amp; CIBIL Bureau Trajectory
-              </h2>
+              </h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Once the final settlement tranche is remitted in strict compliance with the OTS sanction letter, the borrower must secure conclusive proof of debt extinguishment. Under <strong>RBI Circular RBI/2023-24/60</strong> (Responsible Lending Conduct – Release of Movable / Immovable Property Documents and Issuance of NDC), all regulated lending institutions are statutorily required to deliver a formal <strong>No Dues Certificate (NDC) / Loan Closure Certificate</strong> within <strong>30 calendar days</strong>.
               </p>
@@ -896,9 +896,9 @@ export default function HowToGetPenalInterestWaivedInLoanSettlementPage() {
                 </p>
               </div>
 
-              <h3 className="text-base sm:text-lg font-bold text-slate-900 pt-2">
+              <h4 className="text-base sm:text-lg font-bold text-slate-900 pt-2">
                 Understanding CIBIL Bureau Reporting &amp; Score Rehabilitation
-              </h3>
+              </h4>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Borrowers must understand the precise mechanism of credit bureau reporting following a compromise settlement where penal charges are waived:
               </p>
@@ -924,9 +924,9 @@ export default function HowToGetPenalInterestWaivedInLoanSettlementPage() {
 
             {/* Section 9: Forensic Audit vs Unchecked Recovery Comparative Matrix */}
             <section id="forensic-audit-comparative-matrix" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                 9. Comparative Resolution Matrix: Forensic Audit vs. Unchecked Bank Recovery
-              </h2>
+              </h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Evaluating the stark mathematical and legal contrast between unrepresented debt negotiations and advocate-led forensic audit settlements demonstrates the vital importance of isolating genuine principal:
               </p>
@@ -979,9 +979,9 @@ export default function HowToGetPenalInterestWaivedInLoanSettlementPage() {
             {/* Section 10: SettleLoans Legal Defense & Advisory + CompanySection */}
             <section id="company-resolution-section" className="space-y-6">
               <div className="border-t border-slate-200 pt-8 space-y-4">
-                <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
+                <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                   10. SettleLoans Legal Defense &amp; Forensic Statement Audit Advisory
-                </h2>
+                </h3>
                 <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                   Navigating an inflated debt balance requires seasoned banking litigation advocates and forensic accounting specialists who understand bank core accounting software, the Indian Contract Act, and RBI Master Directions. SettleLoans provides complete nationwide representation: auditing bank statements, serving formal statutory objection notices, halting recovery harassment, and negotiating directly with bank Zonal Settlement Committees to eliminate 100% of non-principal charges backed by an authentic, bank-stamped No Dues Certificate.
                 </p>
@@ -995,9 +995,9 @@ export default function HowToGetPenalInterestWaivedInLoanSettlementPage() {
             <section id="faqs" className="space-y-4 border-t border-slate-200 pt-8">
               <div className="flex items-center gap-2 mb-2">
                 <HelpCircle className="w-5 h-5 text-[#1F5EFF]" />
-                <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
+                <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                   11. Frequently Asked Questions: Waiving Penal Interest &amp; Charges
-                </h2>
+                </h3>
               </div>
               <p className="text-xs sm:text-sm text-slate-600 mb-6">
                 Direct, legally verified answers to essential questions regarding financial statement forensic audits, RBI Master Directions, and eliminating penal interest in loan settlements.
@@ -1027,9 +1027,9 @@ export default function HowToGetPenalInterestWaivedInLoanSettlementPage() {
 
             {/* 5 Official Regulatory Links */}
             <section className="border-t border-slate-200 pt-8 mb-4">
-              <h3 className="text-xs sm:text-sm font-bold text-slate-900 mb-3 uppercase tracking-wider">
+              <h4 className="text-xs sm:text-sm font-bold text-slate-900 mb-3 uppercase tracking-wider">
                 Official Statutory &amp; Regulatory References
-              </h3>
+              </h4>
               <div className="grid grid-cols-1 sm:grid-cols-2 gap-2.5 text-xs">
                 <a
                   href="https://www.rbi.org.in"
@@ -1081,9 +1081,9 @@ export default function HowToGetPenalInterestWaivedInLoanSettlementPage() {
 
             {/* 10 Related Guide Badges */}
             <section className="border-t border-slate-200 pt-8 mb-8">
-              <h3 className="text-xs sm:text-sm font-bold text-slate-900 mb-4 uppercase tracking-wider">
+              <h4 className="text-xs sm:text-sm font-bold text-slate-900 mb-4 uppercase tracking-wider">
                 Related Legal Defense &amp; Loan Resolution Guides
-              </h3>
+              </h4>
               <div className="flex flex-wrap gap-2">
                 <Link
                   href="/bank-one-time-settlement-ots-policy"

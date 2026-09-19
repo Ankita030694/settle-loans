@@ -202,13 +202,13 @@ export default function PersonalGuarantorIBCPage() {
             </section>
 
             <section id="section-95" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">What is Section 95 of the IBC?</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">What is Section 95 of the IBC?</h3>
               <p className="text-lg leading-relaxed mb-6">
                 The <strong className="text-black">section 95 IBC guarantor</strong> provision empowers creditors to file an application to initiate the insolvency resolution process against personal guarantors to corporate debtors. Once this application is filed, an automatic interim moratorium triggers under Section 96, freezing all pending legal proceedings against the guarantor's debt.
               </p>
 
               <div className="bg-blue-50 border-l-8 border-[#1F5EFF] p-8 rounded-r-2xl mb-8">
-                <h3 className="text-xl font-black text-[#1F5EFF] mb-4">Key Aspects of Section 95 IBC:</h3>
+                <h4 className="text-xl font-black text-[#1F5EFF] mb-4">Key Aspects of Section 95 IBC:</h4>
                 <div className="space-y-3">
                   <div className="flex gap-3">
                     <div className="mt-1.5 w-2 h-2 rounded-full bg-[#1F5EFF] flex-shrink-0"></div>
@@ -227,7 +227,7 @@ export default function PersonalGuarantorIBCPage() {
             </section>
 
             <section id="interim-moratorium-details" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">The Power and Perils of the Interim Moratorium</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">The Power and Perils of the Interim Moratorium</h3>
               <div className="bg-white rounded-2xl p-8 border border-[#DEDEDE] shadow-sm relative overflow-hidden mb-6">
                 <p className="text-lg leading-relaxed text-gray-700 mb-4">
                   The most crucial aspect of filing an application under Section 95 is the immediate, automatic trigger of the interim moratorium under Section 96 of the IBC. The moment the creditor (or the debtor themselves) files the insolvency application, this moratorium comes into effect. This is a double-edged sword for the personal guarantor.
@@ -242,7 +242,7 @@ export default function PersonalGuarantorIBCPage() {
             </section>
 
             <section id="insolvency-process" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">The Guarantor Insolvency Process</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">The Guarantor Insolvency Process</h3>
               <p className="text-lg leading-relaxed mb-6">
                 When a bank invokes the IBC against you as a guarantor, the process moves swiftly. Understanding these stages is critical to mounting a proper defense.
               </p>
@@ -251,21 +251,21 @@ export default function PersonalGuarantorIBCPage() {
                 <div className="flex gap-6">
                   <div className="flex-shrink-0 w-12 h-12 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center font-black text-xl shadow-lg">1</div>
                   <div>
-                    <h3 className="text-2xl font-bold text-[#2E2E2E] mb-3">Notice of Demand</h3>
+                    <h4 className="text-2xl font-bold text-[#2E2E2E] mb-3">Notice of Demand</h4>
                     <p className="text-lg text-gray-700">The creditor must issue a 14-day notice demanding payment of the defaulted amount before filing the Section 95 application.</p>
                   </div>
                 </div>
                 <div className="flex gap-6">
                   <div className="flex-shrink-0 w-12 h-12 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center font-black text-xl shadow-lg">2</div>
                   <div>
-                    <h3 className="text-2xl font-bold text-[#2E2E2E] mb-3">Application Filing & Moratorium</h3>
+                    <h4 className="text-2xl font-bold text-[#2E2E2E] mb-3">Application Filing & Moratorium</h4>
                     <p className="text-lg text-gray-700">Once filed at the NCLT (or DRT), an interim moratorium immediately halts all other recovery actions against you.</p>
                   </div>
                 </div>
                 <div className="flex gap-6">
                   <div className="flex-shrink-0 w-12 h-12 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center font-black text-xl shadow-lg">3</div>
                   <div>
-                    <h3 className="text-2xl font-bold text-[#2E2E2E] mb-3">RP Appointment & Repayment Plan</h3>
+                    <h4 className="text-2xl font-bold text-[#2E2E2E] mb-3">RP Appointment & Repayment Plan</h4>
                     <p className="text-lg text-gray-700">A Resolution Professional assesses your finances. You must propose a viable repayment plan to the creditors.</p>
                   </div>
                 </div>
@@ -273,7 +273,7 @@ export default function PersonalGuarantorIBCPage() {
             </section>
 
             <section id="difference-from-corporate-insolvency" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">Personal vs. Corporate Insolvency: Key Differences</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">Personal vs. Corporate Insolvency: Key Differences</h3>
               <p className="text-lg leading-relaxed mb-6">
                 Many guarantors confuse the Corporate Insolvency Resolution Process (CIRP) with personal insolvency proceedings. While both exist under the broader umbrella of the Insolvency and Bankruptcy Code, their objectives and mechanisms are starkly different.
               </p>
@@ -289,13 +289,13 @@ export default function PersonalGuarantorIBCPage() {
             </section>
 
             <section id="negotiating-repayment-plans" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">Drafting a Winning Repayment Plan</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">Drafting a Winning Repayment Plan</h3>
               <p className="text-lg leading-relaxed mb-6">
                 Under Section 105 of the IBC, the personal guarantor is required to submit a repayment plan to the Resolution Professional (RP). This plan is your best and sometimes only chance to avoid outright bankruptcy and the forced liquidation of your assets.
               </p>
               
               <div className="bg-blue-50 border-l-8 border-[#1F5EFF] p-8 rounded-r-2xl mb-8">
-                <h3 className="text-xl font-black text-[#1F5EFF] mb-4">Essential Components of a Repayment Plan:</h3>
+                <h4 className="text-xl font-black text-[#1F5EFF] mb-4">Essential Components of a Repayment Plan:</h4>
                 <div className="space-y-4">
                   <div className="flex gap-3">
                     <div className="mt-1.5 w-2 h-2 rounded-full bg-[#1F5EFF] flex-shrink-0"></div>
@@ -321,32 +321,32 @@ export default function PersonalGuarantorIBCPage() {
             </section>
 
             <section id="risks-and-impact" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">Severe Consequences for Guarantors</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">Severe Consequences for Guarantors</h3>
               <p className="text-lg leading-relaxed mb-6">
                 Being dragged into insolvency is not just a legal headache; it poses an existential threat to your personal financial standing and lifestyle.
               </p>
 
               <div className="grid md:grid-cols-2 gap-6 my-8">
                 <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
-                  <h3 className="font-black text-[#1F5EFF] text-lg mb-3">Asset Seizure</h3>
+                  <h4 className="font-black text-[#1F5EFF] text-lg mb-3">Asset Seizure</h4>
                   <p className="text-gray-700">Your personal properties, savings, and investments can be liquidated to satisfy the corporate debt.</p>
                 </div>
                 <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
-                  <h4 className="font-black text-[#1F5EFF] text-lg mb-3">Credit Ruin</h4>
+                  <h5 className="font-black text-[#1F5EFF] text-lg mb-3">Credit Ruin</h5>
                   <p className="text-gray-700">An insolvency proceeding permanently damages your CIBIL score, making future borrowing nearly impossible.</p>
                 </div>
                 <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
-                  <h4 className="font-black text-[#1F5EFF] text-lg mb-3">Travel Restrictions</h4>
+                  <h5 className="font-black text-[#1F5EFF] text-lg mb-3">Travel Restrictions</h5>
                   <p className="text-gray-700">During the bankruptcy process, you may face severe restrictions on traveling abroad.</p>
                 </div>
                 <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
-                  <h4 className="font-black text-[#1F5EFF] text-lg mb-3">Social Stigma</h4>
+                  <h5 className="font-black text-[#1F5EFF] text-lg mb-3">Social Stigma</h5>
                   <p className="text-gray-700">Being declared bankrupt carries significant professional and social stigma in business circles.</p>
                 </div>
               </div>
 
               <div className="bg-red-50 p-6 rounded-xl border border-red-100 mb-8">
-                <h4 className="text-xl font-black text-red-700 mb-4">Warning: Simultaneous Action</h4>
+                <h5 className="text-xl font-black text-red-700 mb-4">Warning: Simultaneous Action</h5>
                 <p className="text-red-900 text-lg">
                   The law allows banks to pursue the company (Corporate Debtor) and you (Personal Guarantor) simultaneously. Do not assume you are safe just because the company is undergoing resolution.
                 </p>
@@ -354,10 +354,10 @@ export default function PersonalGuarantorIBCPage() {
             </section>
 
             <section id="how-to-protect" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">Defense Strategies & Next Steps</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">Defense Strategies & Next Steps</h3>
               
               <div className="bg-gray-50 p-8 rounded-2xl mb-8 border border-gray-200">
-                <h3 className="text-xl font-bold text-gray-900 mb-4">How to Protect Your Assets:</h3>
+                <h4 className="text-xl font-bold text-gray-900 mb-4">How to Protect Your Assets:</h4>
                 <p className="text-lg text-gray-700 leading-relaxed">
                   The moment you receive a demand notice under Section 95, you must act. An experienced legal team can help challenge the validity of the guarantee, dispute the quantum of the claim, or negotiate a viable settlement plan before the bankruptcy stage is reached. Time is of the essence to protect your unencumbered personal assets.
                 </p>
@@ -365,14 +365,14 @@ export default function PersonalGuarantorIBCPage() {
             </section>
 
             <section id="success-stories" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">Guarantor Success Stories</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">Guarantor Success Stories</h3>
               <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
                 
                 <div className="bg-white p-8 rounded-[30px] border border-[#DEDEDE] shadow-sm hover:shadow-xl group transition-all">
                   <div className="flex items-center gap-4 mb-6">
                     <div className="w-12 h-12 rounded-full bg-[#1F5EFF]/10 text-[#1F5EFF] group-hover:bg-[#1F5EFF] group-hover:text-white flex items-center justify-center font-bold text-xl transition-colors">V</div>
                     <div>
-                      <h3 className="font-bold text-gray-900">Vikram S.</h3>
+                      <h4 className="font-bold text-gray-900">Vikram S.</h4>
                       <div className="flex text-yellow-400">
                         <svg className="w-5 h-5 fill-current" viewBox="0 0 20 20"><path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z"/></svg>
                         <svg className="w-5 h-5 fill-current" viewBox="0 0 20 20"><path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z"/></svg>
@@ -393,7 +393,7 @@ export default function PersonalGuarantorIBCPage() {
                   <div className="flex items-center gap-4 mb-6">
                     <div className="w-12 h-12 rounded-full bg-[#1F5EFF]/10 text-[#1F5EFF] group-hover:bg-[#1F5EFF] group-hover:text-white flex items-center justify-center font-bold text-xl transition-colors">A</div>
                     <div>
-                      <h4 className="font-bold text-gray-900">Anjali P.</h4>
+                      <h5 className="font-bold text-gray-900">Anjali P.</h5>
                       <div className="flex text-yellow-400">
                         <svg className="w-5 h-5 fill-current" viewBox="0 0 20 20"><path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z"/></svg>
                         <svg className="w-5 h-5 fill-current" viewBox="0 0 20 20"><path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z"/></svg>
@@ -414,7 +414,7 @@ export default function PersonalGuarantorIBCPage() {
             </section>
 
             <section id="faqs" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">Frequently Asked Questions</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">Frequently Asked Questions</h3>
               <div className="space-y-4">
                 
                 <details name="faq-accordion" className="bg-white border border-[#DEDEDE] rounded-xl p-6 hover:shadow-md group cursor-pointer transition-shadow">
@@ -524,7 +524,7 @@ export default function PersonalGuarantorIBCPage() {
             <div className="bg-[#2E2E2E] text-white p-12 rounded-[40px] text-center mt-24 relative overflow-hidden group">
               <div className="absolute inset-0 bg-[#1F5EFF] opacity-0 group-hover:opacity-5 transition-opacity"></div>
               <div className="relative z-10">
-                <h3 className="text-3xl font-black mb-6">Received a Section 95 IBC Notice?</h3>
+                <h4 className="text-3xl font-black mb-6">Received a Section 95 IBC Notice?</h4>
                 <p className="text-xl mb-8 text-gray-300">
                   Don't let a corporate default wipe out your personal assets. Contact our legal experts today for an immediate defense strategy.
                 </p>

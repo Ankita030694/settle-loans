@@ -249,34 +249,34 @@ export default function PreClosurePage() {
             </section>
 
             <section id="benefits" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 Benefits of Personal Loan Pre Closure
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 Let's start by understanding why so many people rush to close their personal loans when they get the chance. The <strong>benefits of personal loan pre closure</strong> are substantial, both financially and psychologically.
               </p>
 
               <div className="grid md:grid-cols-2 gap-6 my-8">
                 <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
-                  <h3 className="font-black text-[#1F5EFF] text-lg mb-3">Massive Interest Savings</h3>
+                  <h4 className="font-black text-[#1F5EFF] text-lg mb-3">Massive Interest Savings</h4>
                   <p className="text-gray-700 leading-relaxed">
                     Personal loans calculate interest on reducing balance. By pre-closing, you avoid paying interest for the remaining tenure, which can translate into lakhs of rupees saved.
                   </p>
                 </div>
                 <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
-                  <h4 className="font-black text-[#1F5EFF] text-lg mb-3">Increased Monthly Cash Flow</h4>
+                  <h5 className="font-black text-[#1F5EFF] text-lg mb-3">Increased Monthly Cash Flow</h5>
                   <p className="text-gray-700 leading-relaxed">
                     Eliminating that hefty EMI frees up a significant portion of your monthly salary. You can redirect this newfound cash flow towards savings, investments, or improving your lifestyle.
                   </p>
                 </div>
                 <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
-                  <h4 className="font-black text-[#1F5EFF] text-lg mb-3">Lower Debt-to-Income Ratio</h4>
+                  <h5 className="font-black text-[#1F5EFF] text-lg mb-3">Lower Debt-to-Income Ratio</h5>
                   <p className="text-gray-700 leading-relaxed">
                     Closing the loan lowers your debt-to-income (DTI) ratio. A lower DTI makes you a much more attractive candidate to lenders if you need to apply for a crucial home loan in the future.
                   </p>
                 </div>
                 <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
-                  <h4 className="font-black text-[#1F5EFF] text-lg mb-3">Psychological Relief</h4>
+                  <h5 className="font-black text-[#1F5EFF] text-lg mb-3">Psychological Relief</h5>
                   <p className="text-gray-700 leading-relaxed">
                     Never underestimate the peace of mind that comes with being debt-free. The psychological burden of owing money, especially high-interest unsecured debt, is lifted.
                   </p>
@@ -285,15 +285,15 @@ export default function PreClosurePage() {
             </section>
 
             <section id="pre-closing-vs-investing" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 Pre Closing Loan vs Investing: The Math
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 The core debate of <strong>pre closing loan vs investing</strong> comes down to a simple mathematical comparison: <em>Does your investment yield a higher post-tax return than the interest rate of your loan?</em>
               </p>
 
               <div className="bg-blue-50 border-l-8 border-[#1F5EFF] p-8 rounded-r-2xl mb-8">
-                <h3 className="text-xl font-black text-[#1F5EFF] mb-4">The Comparison Framework</h3>
+                <h4 className="text-xl font-black text-[#1F5EFF] mb-4">The Comparison Framework</h4>
                 <p className="text-blue-900 text-lg leading-relaxed mb-4">
                   To make the right choice, compare these two numbers:
                 </p>
@@ -321,9 +321,9 @@ export default function PreClosurePage() {
             </section>
 
             <section id="when-to-foreclose" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 When to Foreclose Loan: Timing is Everything
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 Even if you have the funds, knowing exactly <strong>when to foreclose loan</strong> is critical to maximizing your financial benefit. Because of how EMIs are structured, the timing of your foreclosure dictates how much you actually save.
               </p>
@@ -332,7 +332,7 @@ export default function PreClosurePage() {
                 <div className="flex gap-6">
                   <div className="flex-shrink-0 w-12 h-12 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center font-black text-xl shadow-lg">1</div>
                   <div>
-                    <h3 className="text-2xl font-bold text-[#2E2E2E] mb-2">Early in the Tenure (Recommended)</h3>
+                    <h4 className="text-2xl font-bold text-[#2E2E2E] mb-2">Early in the Tenure (Recommended)</h4>
                     <p className="text-lg text-gray-700 leading-relaxed">
                       In the first half of your loan tenure, a massive portion of your EMI goes toward paying interest, not the principal. Foreclosing during this period (e.g., year 1 or 2 of a 5-year loan) yields the maximum interest savings.
                     </p>
@@ -342,7 +342,7 @@ export default function PreClosurePage() {
                 <div className="flex gap-6">
                   <div className="flex-shrink-0 w-12 h-12 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center font-black text-xl shadow-lg">2</div>
                   <div>
-                    <h3 className="text-2xl font-bold text-[#2E2E2E] mb-2">Check the Lock-in Period</h3>
+                    <h4 className="text-2xl font-bold text-[#2E2E2E] mb-2">Check the Lock-in Period</h4>
                     <p className="text-lg text-gray-700 leading-relaxed">
                       Most banks have a lock-in period of 6 to 12 months. You cannot foreclose the loan during this time. Wait until exactly the month the lock-in period expires to initiate the closure.
                     </p>
@@ -352,7 +352,7 @@ export default function PreClosurePage() {
                 <div className="flex gap-6">
                   <div className="flex-shrink-0 w-12 h-12 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center font-black text-xl shadow-lg">3</div>
                   <div>
-                    <h3 className="text-2xl font-bold text-[#2E2E2E] mb-2">Late in the Tenure (Not Recommended)</h3>
+                    <h4 className="text-2xl font-bold text-[#2E2E2E] mb-2">Late in the Tenure (Not Recommended)</h4>
                     <p className="text-lg text-gray-700 leading-relaxed">
                       If you are in the last year of a 5-year loan, your EMI consists mostly of principal repayment. The interest has already been paid to the bank. Foreclosing now offers negligible interest savings while still triggering a penalty on the principal. It is often better to just let the loan run its course.
                     </p>
@@ -362,15 +362,15 @@ export default function PreClosurePage() {
             </section>
 
             <section id="part-prepayment" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 The Alternative: Part-Prepayment
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 If you don't have enough to clear the entire loan, or if you want to keep some cash liquid for emergencies, part-prepayment is an excellent middle ground.
               </p>
 
               <div className="bg-red-50 p-6 rounded-xl border border-red-100 mb-8">
-                <h3 className="text-xl font-black text-red-700 mb-3">Beware of Penalties</h3>
+                <h4 className="text-xl font-black text-red-700 mb-3">Beware of Penalties</h4>
                 <p className="text-red-900 leading-relaxed">
                   Whether you do full pre-closure or part-prepayment, banks will levy charges. A foreclosure penalty usually costs 2% to 5% of the outstanding principal amount + 18% GST. Always calculate if your interest savings minus this penalty results in a net positive figure before paying.
                 </p>
@@ -378,9 +378,9 @@ export default function PreClosurePage() {
             </section>
 
             <section id="success-stories" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 Real Scenarios
-              </h2>
+              </h3>
               <div className="grid md:grid-cols-2 gap-6 my-8">
                 <div className="bg-white p-8 rounded-[30px] border border-[#DEDEDE] shadow-sm hover:shadow-xl group transition-all">
                   <div className="flex items-center gap-4 mb-6">
@@ -388,7 +388,7 @@ export default function PreClosurePage() {
                       RS
                     </div>
                     <div>
-                      <h3 className="font-bold text-gray-900">Rahul Sharma</h3>
+                      <h4 className="font-bold text-gray-900">Rahul Sharma</h4>
                       <div className="flex text-yellow-400">
                         <svg className="w-4 h-4 fill-current" viewBox="0 0 20 20"><path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z"/></svg>
                         <svg className="w-4 h-4 fill-current" viewBox="0 0 20 20"><path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z"/></svg>
@@ -413,7 +413,7 @@ export default function PreClosurePage() {
                       PS
                     </div>
                     <div>
-                      <h4 className="font-bold text-gray-900">Priya Singh</h4>
+                      <h5 className="font-bold text-gray-900">Priya Singh</h5>
                       <div className="flex text-yellow-400">
                         <svg className="w-4 h-4 fill-current" viewBox="0 0 20 20"><path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z"/></svg>
                         <svg className="w-4 h-4 fill-current" viewBox="0 0 20 20"><path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z"/></svg>
@@ -435,13 +435,13 @@ export default function PreClosurePage() {
             </section>
 
             <section id="faqs" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
                 Frequently Asked Questions
-              </h2>
+              </h3>
               <div className="space-y-4">
                 {jsonLd["@graph"].find((item: any) => item["@type"] === "FAQPage")?.mainEntity?.map((faq: any, index: number) => (
                   <div key={index} className="bg-white border border-[#DEDEDE] rounded-xl p-6 hover:shadow-md transition-shadow">
-                    <h3 className="text-xl font-bold text-[#2E2E2E] mb-3">{faq.name}</h3>
+                    <h4 className="text-xl font-bold text-[#2E2E2E] mb-3">{faq.name}</h4>
                     <p className="text-gray-700 leading-relaxed">{faq.acceptedAnswer.text}</p>
                   </div>
                 ))}
@@ -450,7 +450,7 @@ export default function PreClosurePage() {
 
             <div className="bg-[#2E2E2E] text-white p-12 rounded-[40px] text-center mt-24 relative overflow-hidden group">
               <div className="absolute inset-0 bg-[#1F5EFF] opacity-0 group-hover:opacity-5 transition-opacity"></div>
-              <h3 className="text-3xl font-black mb-6 relative z-10">Have extra cash and wondering if you should pre-close?</h3>
+              <h4 className="text-3xl font-black mb-6 relative z-10">Have extra cash and wondering if you should pre-close?</h4>
               <p className="text-xl opacity-90 mb-8 relative z-10 max-w-2xl mx-auto">
                 Stop guessing. Connect with our financial experts to analyze your loan statement and find out exactly if you should pre-close, part-prepay, or invest your money.
               </p>

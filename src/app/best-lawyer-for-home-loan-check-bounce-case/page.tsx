@@ -173,7 +173,7 @@ export default function HomeLoanCheckBouncePage() {
                         </section>
 
                         <section id="section-138-basics" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">Basics of Section 138 NI Act for Home Loans</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">Basics of Section 138 NI Act for Home Loans</h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 To understand your defense, you must first understand the elements that constitute the 'offense' of a cheque bounce. For a successful prosecution, the bank must prove:
                             </p>
@@ -186,7 +186,7 @@ export default function HomeLoanCheckBouncePage() {
                         </section>
 
                         <section id="security-cheque-defense" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">The "Security Cheque" Defense: Applying Supreme Court Precedents</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">The "Security Cheque" Defense: Applying Supreme Court Precedents</h3>
                             <p className="text-lg leading-relaxed mb-6 font-bold text-red-600 uppercase tracking-tight">
                                 This is the most potent legal shield for home loan borrowers.
                             </p>
@@ -194,7 +194,7 @@ export default function HomeLoanCheckBouncePage() {
                                 At the time of home loan approval, almost every lender (SBI, HDFC, ICICI, or NBFCs) demands a set of blank signed cheques. These are not intended to be "payment" instruments for current installments. They are "Security Cheques" meant to provide a secondary layer of comfort to the lender. However, when defaults occur, banks often Fill-in-the-Blanks with arbitrary amounts and present them to initiate criminal proceedings.
                             </p>
                             <div className="bg-blue-50 p-8 rounded-3xl border border-blue-200 mb-10">
-                                <h3 className="text-2xl font-black text-blue-900 mb-6">Critical Case Law: Indus Airways vs Magnum Aviation</h3>
+                                <h4 className="text-2xl font-black text-blue-900 mb-6">Critical Case Law: Indus Airways vs Magnum Aviation</h4>
                                 <p className="text-lg leading-relaxed text-blue-800 mb-6">
                                     The Hon'ble Supreme Court has clarified the distinction between a cheque issued for a "Current Liability" versus one issued for "Security." If the liability had not accrued on the date the cheque was handed over, then the dishonor of such a cheque may not invite criminal prosecution under Section 138.
                                 </p>
@@ -215,26 +215,26 @@ export default function HomeLoanCheckBouncePage() {
                         </section>
 
                         <section id="procedural-lapses" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">Exploiting Procedural Lapses: The Forensic Defense</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">Exploiting Procedural Lapses: The Forensic Defense</h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 Section 138 is a technical offense. The prosecution must follow an exact sequence of events. Any deviation, however small, can lead to your acquittal. We perform a granular "Forensic Audit" of the bank's entire legal file.
                             </p>
                             <div className="space-y-8 mb-10">
                                 <div className="p-8 bg-white border-2 border-[#DEDEDE] rounded-2xl hover:border-[#1F5EFF] transition-colors group">
-                                    <h3 className="font-bold text-xl mb-4 text-[#2E2E2E] group-hover:text-[#1F5EFF]">1. Validation of the 'Demand Notice'</h3>
+                                    <h4 className="font-bold text-xl mb-4 text-[#2E2E2E] group-hover:text-[#1F5EFF]">1. Validation of the 'Demand Notice'</h4>
                                     <p className="text-base text-gray-700 leading-relaxed mb-4">
                                         Did the bank send the notice to the correct address? In cities like Mumbai and Bangalore, people often change rental homes while their home loan house is under construction. If the bank sent the notice to an old address despite having your 'Change of Address' request on record, the entire case is non-maintainable.
                                     </p>
                                     <p className="text-sm font-bold text-gray-500 uppercase">Defense Angle: Lack of Service of Statutory Notice.</p>
                                 </div>
                                 <div className="p-8 bg-white border-2 border-[#DEDEDE] rounded-2xl hover:border-[#1F5EFF] transition-colors group">
-                                    <h4 className="font-bold text-xl mb-4 text-[#2E2E2E] group-hover:text-[#1F5EFF]">2. Limitation Period Math</h4>
+                                    <h5 className="font-bold text-xl mb-4 text-[#2E2E2E] group-hover:text-[#1F5EFF]">2. Limitation Period Math</h5>
                                     <p className="text-base text-gray-700 leading-relaxed">
                                         The law is strict: Notice within 30 days of bounce {'->'} 15 days wait for payment {'->'} Case filing within 30 days from thereafter. Banks often use automated systems that glitch. If the bank files the case on the 31st day, the Magistrate has no jurisdiction to hear it unless a "Delay Condonation Application" is filed and proved. We challenge these applications aggressively.
                                     </p>
                                 </div>
                                 <div className="p-8 bg-white border-2 border-[#DEDEDE] rounded-2xl hover:border-[#1F5EFF] transition-colors group">
-                                    <h4 className="font-bold text-xl mb-4 text-[#2E2E2E] group-hover:text-[#1F5EFF]">3. Power of Attorney (PoA) Defects</h4>
+                                    <h5 className="font-bold text-xl mb-4 text-[#2E2E2E] group-hover:text-[#1F5EFF]">3. Power of Attorney (PoA) Defects</h5>
                                     <p className="text-base text-gray-700 leading-relaxed">
                                         The person filing the case on behalf of the bank must have a valid PoA or Board Resolution. In the case of bank mergers (e.g., HDFC Ltd into HDFC Bank), many PoAs became technically invalid for a period. We use these transitional legal gaps to get cases dismissed.
                                     </p>
@@ -243,12 +243,12 @@ export default function HomeLoanCheckBouncePage() {
                         </section>
 
                         <section id="builder-fraud-nuance" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">Defense for Victims of Builder Fraud & Possession Delays</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">Defense for Victims of Builder Fraud & Possession Delays</h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 Millions of Indian homebuyers are caught in a "pincer movement": their builder isn't giving possession, but the bank is demanding EMIs and filing Section 138 cases for cheque bounces. This is where "Equity" comes to your rescue in a criminal trial.
                             </p>
                             <div className="bg-[#1F5EFF]/5 p-8 rounded-3xl border border-[#1F5EFF]/20 mb-10">
-                                <h3 className="text-2xl font-black text-[#2E2E2E] mb-6 text-center">The "No Liability" Doctrine</h3>
+                                <h4 className="text-2xl font-black text-[#2E2E2E] mb-6 text-center">The "No Liability" Doctrine</h4>
                                 <p className="text-lg leading-relaxed mb-6 italic text-center">
                                     "A cheque must be for a legally enforceable debt. If the consideration for the loan has failed (no house delivered), the debt becomes disputed, not enforceable."
                                 </p>
@@ -276,7 +276,7 @@ export default function HomeLoanCheckBouncePage() {
                         </section>
 
                         <section id="section-143a-challenge" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">Challenging Section 143A "Interim Compensation"</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">Challenging Section 143A "Interim Compensation"</h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 In 2018, an amendment allowed Magistrates to order the accused to pay 20% of the cheque amount as "Interim Compensation" even before the trial starts. This is a huge burden for a home loan borrower already in financial distress.
                             </p>
@@ -289,12 +289,12 @@ export default function HomeLoanCheckBouncePage() {
                         </section>
 
                         <section id="blank-cheque-misuse" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">Challenging Blank Cheque Misuse: The Ink & Handwriting Defense</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">Challenging Blank Cheque Misuse: The Ink & Handwriting Defense</h3>
                             <p className="text-lg leading-relaxed mb-6 leading-relaxed">
                                 Most borrowers sign blank cheques but don't fill in the date and amount. Banks often keep these for years and fill them in when a dispute arises. In a criminal trial, this is a major vulnerability for the bank.
                             </p>
                             <div className="p-8 bg-gray-50 rounded-2xl border border-gray-200 mb-8">
-                                <h3 className="font-bold text-xl mb-4 text-[#2E2E2E]">Forensic Ink Age Analysis</h3>
+                                <h4 className="font-bold text-xl mb-4 text-[#2E2E2E]">Forensic Ink Age Analysis</h4>
                                 <p className="text-base text-gray-700 leading-relaxed mb-4">
                                     If you signed a cheque in 2018 but the bank presented it in 2024 with a fresh date, we can request the court to send the cheque to a <strong>Government Forensic Science Laboratory (FSL)</strong>. Expert analysis can often determine the 'age of the ink'. If the signature ink is 6 years old but the date ink is only 6 days old, it proves the bank manipulated the instrument.
                                 </p>
@@ -305,7 +305,7 @@ export default function HomeLoanCheckBouncePage() {
                         </section>
 
                         <section id="mortgage-vs-check-bounce" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">Civil vs Criminal: The Double Jeopardy Struggle</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">Civil vs Criminal: The Double Jeopardy Struggle</h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 Banks often file both a SARFAESI case (to take your house) and a Section 138 case (to send you to jail). We argue in court that since the bank is already pursuing the 'Secured Asset,' the criminal proceeding for the same debt amount is redundant and intended only as harassment.
                             </p>
@@ -315,12 +315,12 @@ export default function HomeLoanCheckBouncePage() {
                         </section>
 
                         <section id="how-to-reply-notice" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">The Importance of a Strong Reply to the Legal Notice</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">The Importance of a Strong Reply to the Legal Notice</h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 Your defense begins the moment you receive the 15-day demand notice. If you don't reply, the court assumes that you admit the debt.
                             </p>
                             <div className="bg-yellow-50 p-8 rounded-xl border border-yellow-200">
-                                <h3 className="font-bold mb-4">What our legal reply includes:</h3>
+                                <h4 className="font-bold mb-4">What our legal reply includes:</h4>
                                 <ul className="space-y-4 text-sm font-medium">
                                     <li>Denial of the specific amount claimed as 'Not Legally Enforceable.'</li>
                                     <li>Assertion that the cheque was a 'Security Instrument' for a different purpose.</li>
@@ -331,7 +331,7 @@ export default function HomeLoanCheckBouncePage() {
                         </section>
 
                         <section id="success-stories" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 text-center">Home Loan Check Bounce Success Stories</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 text-center">Home Loan Check Bounce Success Stories</h3>
                             <div className="grid md:grid-cols-2 gap-10 not-prose">
                                 {[
                                     {
@@ -363,7 +363,7 @@ export default function HomeLoanCheckBouncePage() {
                                         <div className="flex items-center mb-4">
                                             <div className="w-10 h-10 rounded-full bg-blue-100 flex items-center justify-center font-bold text-blue-600 mr-3">{review.name.charAt(0)}</div>
                                             <div>
-                                                <h3 className="font-bold text-[#2E2E2E]">{review.name}</h3>
+                                                <h4 className="font-bold text-[#2E2E2E]">{review.name}</h4>
                                                 <p className="text-xs text-gray-400">{review.loc}</p>
                                             </div>
                                             <div className="ml-auto text-yellow-400 text-sm">★★★★★</div>
@@ -378,7 +378,7 @@ export default function HomeLoanCheckBouncePage() {
                         </section>
 
                         <section id="faqs" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Home Loan Check Bounce FAQs</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Home Loan Check Bounce FAQs</h3>
                             <div className="space-y-6 not-prose">
                                 {[
                                     { q: "Is a cheque bounce case criminal or civil?", a: "It is a criminal offense under Section 138. However, courts often allow settlements at any stage of the trial." },
@@ -412,7 +412,7 @@ export default function HomeLoanCheckBouncePage() {
                         </section>
 
                         <div className="mt-16 p-8 bg-[#2E2E2E] rounded-3xl text-white text-center">
-                            <h2 className="text-3xl font-black mb-6">Defend Your Reputation and Liberty</h2>
+                            <h3 className="text-3xl font-black mb-6">Defend Your Reputation and Liberty</h3>
                             <p className="text-xl mb-8 opacity-90">
                                 Don't let a cheque bounce case derail your life. Our expert criminal defense lawyers are ready to fight your 138 NI Act case.
                             </p>

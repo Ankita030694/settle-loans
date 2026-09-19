@@ -506,9 +506,9 @@ export default function TaxImplicationsLoanSettlementPage() {
 
             {/* Section 2: Personal Loan Settlement vs Business Loan Waiver */}
             <section id="personal-loan-vs-business-loan-capital-vs-revenue" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                 2. Personal Loans vs. Business Loans: The Capital vs. Revenue Receipt Doctrine
-              </h2>
+              </h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 The determination of whether a loan settlement haircut attracts tax hinges on whether the forgiven liability represents a capital obligation or a revenue trading liability. The judicial doctrine governing debt remission in India has been established through landmark decisions of the Supreme Court of India and various High Courts:
               </p>
@@ -548,37 +548,37 @@ export default function TaxImplicationsLoanSettlementPage() {
 
             {/* Section 3: Statutory Analysis: Section 28(iv), 41(1), 56(2)(x) & 194R */}
             <section id="income-tax-provisions-section-28iv-41-1-194r" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                 3. Statutory Analysis: Section 28(iv), Section 41(1), Section 56(2)(x) &amp; Section 194R
-              </h2>
+              </h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Navigating the tax implications of loan settlements requires a precise understanding of four primary sections of the Income Tax Act, 1961, and recent amendments introduced under the Finance Acts of 2022 and 2023:
               </p>
 
               <div className="space-y-4 my-4">
                 <div className="p-4 rounded-xl border-l-4 border-blue-600 bg-slate-50 space-y-1.5">
-                  <h3 className="font-bold text-slate-900 text-xs sm:text-sm">Section 28(iv): Value of Any Benefit or Perquisite from Business</h3>
+                  <h4 className="font-bold text-slate-900 text-xs sm:text-sm">Section 28(iv): Value of Any Benefit or Perquisite from Business</h4>
                   <p className="text-xs text-slate-600 leading-relaxed">
                     Section 28(iv) taxes the value of any benefit or perquisite arising from business or the exercise of a profession, whether convertible into money or not, or in cash. While tax authorities historically attempted to invoke this section to tax loan haircuts, judicial consensus affirms that a distressed loan settlement is a bilateral debt recovery compromise, not an incentive or perquisite extended by a trade partner in the ordinary course of business.
                   </p>
                 </div>
 
                 <div className="p-4 rounded-xl border-l-4 border-indigo-600 bg-slate-50 space-y-1.5">
-                  <h4 className="font-bold text-slate-900 text-xs sm:text-sm">Section 41(1): Remission or Cessation of Trading Liability</h4>
+                  <h5 className="font-bold text-slate-900 text-xs sm:text-sm">Section 41(1): Remission or Cessation of Trading Liability</h5>
                   <p className="text-xs text-slate-600 leading-relaxed">
                     Section 41(1) operates as a statutory recoupment mechanism. If an assessee incurred an allowance or deduction in respect of loss, expenditure, or trading liability in any assessment year, and subsequently obtains a benefit in respect of such trading liability by way of remission or cessation, the amount is deemed to be taxable business profits. Because personal loan borrowers never claimed deductions for their loan principal or interest, Section 41(1) has zero legal applicability to personal settlements.
                   </p>
                 </div>
 
                 <div className="p-4 rounded-xl border-l-4 border-purple-600 bg-slate-50 space-y-1.5">
-                  <h4 className="font-bold text-slate-900 text-xs sm:text-sm">Section 56(2)(x): Taxation of Deemed Gifts Without Consideration</h4>
+                  <h5 className="font-bold text-slate-900 text-xs sm:text-sm">Section 56(2)(x): Taxation of Deemed Gifts Without Consideration</h5>
                   <p className="text-xs text-slate-600 leading-relaxed">
                     Under Section 56(2)(x), any sum of money received without consideration exceeding ₹50,000 is taxed under &quot;Income from Other Sources&quot;. However, loan settlement is not a gift. In an OTS, the bank exercises commercial prudence to mitigate non-performing asset (NPA) losses under RBI guidelines. Extinguishment of a debt under a legal compromise does not constitute receipt of money without consideration.
                   </p>
                 </div>
 
                 <div className="p-4 rounded-xl border-l-4 border-emerald-600 bg-slate-50 space-y-1.5">
-                  <h4 className="font-bold text-slate-900 text-xs sm:text-sm">Section 194R &amp; CBDT Circular No. 12/2022 (Exemption for Bank OTS)</h4>
+                  <h5 className="font-bold text-slate-900 text-xs sm:text-sm">Section 194R &amp; CBDT Circular No. 12/2022 (Exemption for Bank OTS)</h5>
                   <p className="text-xs text-slate-600 leading-relaxed">
                     Introduced in Finance Act 2022, Section 194R mandates 10% TDS on benefits or perquisites provided to a resident arising from business or profession. To eliminate widespread panic regarding loan write-offs, the Central Board of Direct Taxes issued <strong>Circular No. 12/2022 (Question 8)</strong> and <strong>Circular No. 18/2022</strong>, explicitly clarifying that <strong>one-time loan settlements or waivers granted by Scheduled Commercial Banks, Public Financial Institutions, State Financial Corporations, and regulated NBFCs are exempt from Section 194R TDS</strong>.
                   </p>
@@ -602,9 +602,9 @@ export default function TaxImplicationsLoanSettlementPage() {
 
             {/* Section 4: Bank Accounting, Form 26AS, AIS Scrutiny & Responding to Income Tax Notices */}
             <section id="bank-accounting-form-26as-ais-tax-notices" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                 4. Bank Accounting, Form 26AS/AIS Scrutiny &amp; Handling Income Tax Notices
-              </h2>
+              </h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 To evaluate the risk of tax scrutiny, one must understand how lending institutions account for compromise settlements in their statutory books. When a regulated bank concludes an OTS, the unrecovered ledger balance is booked as an accounting write-off under the prudential provisioning norms of the Reserve Bank of India (RBI). The bank claims this loss as a bad debt deduction under Section 36(1)(vii) of the Income Tax Act against its own corporate income.
               </p>
@@ -642,9 +642,9 @@ export default function TaxImplicationsLoanSettlementPage() {
                   <TrendingDown className="w-3.5 h-3.5" />
                   <span>Visual Decision Guide • SettleLoans Compliance Blueprint</span>
                 </div>
-                <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight mb-2">
+                <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight mb-2">
                   5. Infographic: Loan Waiver Tax Decision Matrix &amp; Defense Framework
-                </h2>
+                </h3>
                 <p className="text-xs sm:text-sm text-slate-600 mb-4">
                   Visual roadmap illustrating the statutory differences between non-taxable personal capital waivers and business debt remission under the Income Tax Act, 1961.
                 </p>
@@ -679,34 +679,34 @@ export default function TaxImplicationsLoanSettlementPage() {
 
             {/* Section 6: Advocate Protocol to Shield Yourself from Post-Settlement Tax Disputes */}
             <section id="advocate-protocol-post-settlement-tax-immunity" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                 6. The 4-Stage Legal Protocol for Post-Settlement Tax Immunity
-              </h2>
+              </h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Securing a heavy debt haircut without proper legal structuring can lead to unforeseen tax litigation. Debt defense advocates implement an institutional 4-stage tax immunity protocol to safeguard borrowers before, during, and after settlement execution:
               </p>
 
               <div className="space-y-3 my-4">
                 <div className="p-4 rounded-xl border-l-4 border-blue-600 bg-slate-50 space-y-1">
-                  <h3 className="font-bold text-slate-900 text-xs sm:text-sm">Stage 1: Forensic Loan Classification &amp; Accounting Audit</h3>
+                  <h4 className="font-bold text-slate-900 text-xs sm:text-sm">Stage 1: Forensic Loan Classification &amp; Accounting Audit</h4>
                   <p className="text-xs text-slate-600 leading-relaxed">
                     Prior to initiating settlement talks, advocates scrutinize the borrower&apos;s financial records, bank statements, and tax filings to establish whether the debt is purely personal or mixed with commercial overdrafts. For business entities, loans are partitioned into capital asset term lines versus working capital trading facilities.
                   </p>
                 </div>
                 <div className="p-4 rounded-xl border-l-4 border-indigo-600 bg-slate-50 space-y-1">
-                  <h4 className="font-bold text-slate-900 text-xs sm:text-sm">Stage 2: Sanitization of the OTS Sanction Letter</h4>
+                  <h5 className="font-bold text-slate-900 text-xs sm:text-sm">Stage 2: Sanitization of the OTS Sanction Letter</h5>
                   <p className="text-xs text-slate-600 leading-relaxed">
                     Advocates ensure that the lender&apos;s settlement sanction letter explicitly records the transaction as a &quot;Compromise Settlement / Principal Haircut on NPA Debt Account&quot; rather than any term implying incentive, rebate, commission, or commercial perquisite that could trigger Section 28(iv).
                   </p>
                 </div>
                 <div className="p-4 rounded-xl border-l-4 border-purple-600 bg-slate-50 space-y-1">
-                  <h4 className="font-bold text-slate-900 text-xs sm:text-sm">Stage 3: Zero TDS Certification &amp; Form 26AS Reconciliation</h4>
+                  <h5 className="font-bold text-slate-900 text-xs sm:text-sm">Stage 3: Zero TDS Certification &amp; Form 26AS Reconciliation</h5>
                   <p className="text-xs text-slate-600 leading-relaxed">
                     Ensuring that the creditor bank does not inadvertently issue a Form 16A or file a TDS return under Section 194R. If an erroneous TDS credit is uploaded by a bank branch, counsel serves a regulatory notice compelling immediate rectification of the quarterly e-TDS return.
                   </p>
                 </div>
                 <div className="p-4 rounded-xl border-l-4 border-emerald-600 bg-slate-50 space-y-1">
-                  <h4 className="font-bold text-slate-900 text-xs sm:text-sm">Stage 4: Tax Return Disclosure &amp; CASS Defense File Creation</h4>
+                  <h5 className="font-bold text-slate-900 text-xs sm:text-sm">Stage 4: Tax Return Disclosure &amp; CASS Defense File Creation</h5>
                   <p className="text-xs text-slate-600 leading-relaxed">
                     Structuring the taxpayer&apos;s annual Income Tax Return (ITR) with appropriate disclosures under the &quot;Exempt Income&quot; schedule where advisable, while maintaining a sealed audit dossier with loan sanction contracts, payment proofs, and RBI-mandated No Dues Certificates for instant response to automated scrutiny notices.
                   </p>
@@ -716,9 +716,9 @@ export default function TaxImplicationsLoanSettlementPage() {
 
             {/* Section 7: Negotiating an Institutional One-Time Settlement (OTS) with Tax-Safe Terms */}
             <section id="negotiating-tax-safe-one-time-settlement-ots" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                 7. Structuring Tax-Safe One-Time Settlement (OTS) Terms with Lenders
-              </h2>
+              </h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Negotiating an institutional debt compromise requires aligning banking recovery frameworks with tax compliance. Under the <strong>RBI Master Directions on Compromise Settlements and Non-Cooperative Borrowers (June 8, 2023)</strong>, commercial banks, cooperative lenders, and NBFCs possess board-approved policies to approve compromise settlements with substantial principal haircuts for non-wilful, distressed borrowers.
               </p>
@@ -768,9 +768,9 @@ export default function TaxImplicationsLoanSettlementPage() {
 
             {/* Section 8: Sanction Letter Forensics, Direct Remittance, RBI NDC Mandate & CIBIL */}
             <section id="sanction-forensics-rbi-ndc-mandate-cibil" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                 8. Sanction Forensics, Direct Remittance, RBI ₹0 NDC Mandate &amp; Bureau Trajectory
-              </h2>
+              </h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 A critical danger during debt resolution is executing settlements based on unauthorized or forged letters issued by unauthorized third-party recovery telecallers. Borrowers must verify every settlement document through four forensic checkpoints before remitting funds:
               </p>
@@ -798,9 +798,9 @@ export default function TaxImplicationsLoanSettlementPage() {
                 </p>
               </div>
 
-              <h3 className="text-base sm:text-lg font-bold text-slate-900 pt-2">
+              <h4 className="text-base sm:text-lg font-bold text-slate-900 pt-2">
                 Understanding CIBIL Bureau Reporting &amp; Credit Score Rehabilitation
-              </h3>
+              </h4>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Following loan settlement, the creditor updates credit information companies (CIBIL, Experian, Equifax, CRIF High Mark) with the status remark <strong>&quot;Settled&quot;</strong> or <strong>&quot;Post-Write-off Settled&quot;</strong> with a current outstanding balance of <strong>₹0</strong>. While this reporting causes an initial credit score dip of 60 to 110 points, it halts cascading monthly default marks and completely terminates legal exposure. By utilizing a secured fixed-deposit credit card, keeping credit utilization below 30%, and ensuring timely utility payments, settled borrowers systematically rebuild their credit score back above 750 within 18 to 24 months.
               </p>
@@ -808,9 +808,9 @@ export default function TaxImplicationsLoanSettlementPage() {
 
             {/* Section 9: Comprehensive Comparative Tax Matrix */}
             <section id="comparative-tax-matrix-loan-categories" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                 9. Comprehensive Tax Matrix Across Loan Categories &amp; Legal Forums
-              </h2>
+              </h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Evaluating the tax implications across various loan categories and dispute resolution mechanisms provides complete operational clarity for borrowers:
               </p>
@@ -870,9 +870,9 @@ export default function TaxImplicationsLoanSettlementPage() {
             {/* Section 10: SettleLoans Legal Defense & Advisory + CompanySection */}
             <section id="company-resolution-section" className="space-y-6">
               <div className="border-t border-slate-200 pt-8 space-y-4">
-                <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
+                <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                   10. SettleLoans Legal Defense &amp; Comprehensive Financial Advisory
-                </h2>
+                </h3>
                 <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                   Navigating distressed loan settlements while safeguarding your financial freedom and tax standing requires seasoned banking litigation counsel and structured financial advisory. SettleLoans represents borrowers nationwide—serving formal legal notices, shielding families from unlawful recovery agent harassment, negotiating directly with bank zonal committees for 45% to 65% principal haircuts, and structuring audit-proof documentation to guarantee complete immunity from post-settlement tax liabilities and civil claims.
                 </p>
@@ -886,9 +886,9 @@ export default function TaxImplicationsLoanSettlementPage() {
             <section id="faqs" className="space-y-4 border-t border-slate-200 pt-8">
               <div className="flex items-center gap-2 mb-2">
                 <HelpCircle className="w-5 h-5 text-[#1F5EFF]" />
-                <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
+                <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                   11. Frequently Asked Questions: Loan Haircut Taxability in India
-                </h2>
+                </h3>
               </div>
               <p className="text-xs sm:text-sm text-slate-600 mb-6">
                 Direct, legally verified answers to critical questions regarding loan settlement haircuts, tax provisions, and post-resolution safety in India.
@@ -916,9 +916,9 @@ export default function TaxImplicationsLoanSettlementPage() {
 
             {/* 5 Official Regulatory Links */}
             <section className="border-t border-slate-200 pt-8 mb-4">
-              <h3 className="text-xs sm:text-sm font-bold text-slate-900 mb-3 uppercase tracking-wider">
+              <h4 className="text-xs sm:text-sm font-bold text-slate-900 mb-3 uppercase tracking-wider">
                 Official Statutory &amp; Regulatory References
-              </h3>
+              </h4>
               <div className="grid grid-cols-1 sm:grid-cols-2 gap-2.5 text-xs">
                 <a
                   href="https://incometaxindia.gov.in"
@@ -970,9 +970,9 @@ export default function TaxImplicationsLoanSettlementPage() {
 
             {/* 10 Related Guide Badges */}
             <section className="border-t border-slate-200 pt-8 mb-8">
-              <h3 className="text-xs sm:text-sm font-bold text-slate-900 mb-4 uppercase tracking-wider">
+              <h4 className="text-xs sm:text-sm font-bold text-slate-900 mb-4 uppercase tracking-wider">
                 Related Debt Resolution &amp; Legal Defense Guides
-              </h3>
+              </h4>
               <div className="flex flex-wrap gap-2">
                 <Link
                   href="/bank-loan-settlement-rules"

@@ -111,7 +111,7 @@ const jsonLdGraph = {
       "@type": "FinancialService",
       "@id": "https://www.settleloans.in/can-bank-seize-property-for-personal-loan#service",
       "name": "SettleLoans - Personal Loan Asset Protection & Debt Settlement",
-      "description": "Empaneled advocate legal defense, protection against unlawful property seizure threats, civil court notice representation, and structured One-Time Settlement (OTS) negotiation across India.",
+      "description": "Empaneled advocate legal defense, protection against unlawful property seizure threats, civil court notice representation, and structured One-Time Settlement (OTS) talks across India.",
       "url": "https://www.settleloans.in/can-bank-seize-property-for-personal-loan",
       "image": "https://www.settleloans.in/images/infographics/can-bank-seize-property-for-personal-loan.jpg",
       "telephone": "+91-98212-19819",
@@ -160,7 +160,7 @@ const jsonLdGraph = {
             "name": "Pooja Venkatesh"
           },
           "datePublished": "2026-07-14",
-          "reviewBody": "I defaulted on two personal loans after losing my corporate job. Third-party collection agents threatened to bring towing trucks to seize my car and lock my apartment. SettleLoans educated me on Section 60 of the CPC and proved that unsecured lenders have no legal right to touch movable or immovable assets without a civil decree. They handled all communications and secured formal No Dues Certificates.",
+          "reviewBody": "I defaulted on two personal loans after losing my corporate job. Third-party collection agents threatened to bring towing trucks to seize my car and lock my apartment. SettleLoans educated me on Section 60 of the CPC and proved that unsecured lenders have no legal right to touch movable or immovable assets without a civil decree. They handled all notices and secured formal No Dues Certificates.",
           "reviewRating": {
             "@type": "Rating",
             "ratingValue": "5",
@@ -217,7 +217,7 @@ const jsonLdGraph = {
           "name": "Why does the SARFAESI Act, 2002 not apply to personal loans?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "The SARFAESI Act empowers banks to take possession of and auction secured assets without court intervention ONLY when an underlying 'security interest' (such as an equitable mortgage or hypothecation charge) has been legally registered under Section 2(1)(zf). Because personal loans have no security interest created, SARFAESI proceedings are legally inapplicable."
+            "text": "The SARFAESI Act empowers banks to take possession of and auction secured assets without court intervention ONLY when an underlying 'security interest' (such as an equitable mortgage or hypothecation charge) has been legally registered under Section 2(1)(zf). Because personal loans have no security interest created, SARFAESI cases are legally inapplicable."
           }
         },
         {
@@ -241,7 +241,7 @@ const jsonLdGraph = {
           "name": "Which assets are completely protected from attachment under Section 60 of CPC?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Section 60 of the Code of Civil Procedure, 1908 grants absolute statutory exemption from court attachment for essential assets, including: 1) Necessary wearing apparel, cooking vessels, and bedding; 2) Tools of artisans and agricultural implements; 3) Sole residential house of an agriculturist/laborer; 4) Mandatory portions of salary (first ₹1,000 plus two-thirds of the remainder); 5) PF, Gratuity, and life insurance proceeds."
+            "text": "Section 60 of the Code of Civil Procedure, 1908 grants absolute statutory exemption from court attachment for essential assets, including: 1) Necessary wearing apparel, cooking vessels, and bedding; 2) Tools of artisans and agricultural applies; 3) Sole residential house of an agriculturist/laborer; 4) Mandatory portions of salary (first ₹1,000 plus two-thirds of the remainder); 5) PF, Gratuity, and life insurance proceeds."
           }
         },
         {
@@ -257,7 +257,7 @@ const jsonLdGraph = {
           "name": "What legitimate legal steps can a bank take to recover personal loan dues?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "For personal loans, banks can: 1) Report the default to credit bureaus (CIBIL, Experian), impacting credit scores; 2) Issue statutory loan recall notices; 3) File a Civil Summary Suit under Order 37 CPC for money recovery; 4) Initiate Section 138 NI Act or Section 25 PSSA proceedings if cheques or NACH auto-debits bounced; 5) Refer the dispute to National Lok Adalat for amicable compromise."
+            "text": "For personal loans, banks can: 1) Report the default to credit bureaus (CIBIL, Experian), impacting credit scores; 2) Issue statutory loan recall notices; 3) File a Civil Summary Suit under Order 37 CPC for money recovery; 4) start Section 138 NI Act or Section 25 PSSA cases if cheques or NACH auto-debits bounced; 5) Refer the dispute to National Lok Adalat for amicable compromise."
           }
         },
         {
@@ -265,7 +265,7 @@ const jsonLdGraph = {
           "name": "Why do banks prefer a One-Time Settlement (OTS) over filing property attachment suits?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Filing a civil recovery suit in Indian civil courts requires paying upfront court fees (5% to 8% of the claim), incurring substantial advocate retainer fees, and enduring 3 to 7 years of contested litigation with uncertain recovery. Through Net Present Value (NPV) recovery calculations, banks achieve superior financial recovery by granting a 40% to 70% OTS waiver to recover immediate liquid cash."
+            "text": "Filing a civil recovery suit in Indian civil courts requires paying upfront court fees (5% to 8% of the claim), incurring large advocate retainer fees, and enduring 3 to 7 years of contested litigation with uncertain recovery. Through Net Present Value (NPV) recovery calculations, banks achieve superior financial recovery by granting a 40% to 70% OTS waiver to recover immediate liquid cash."
           }
         },
         {

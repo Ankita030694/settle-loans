@@ -574,10 +574,10 @@ export default function KrazyBeeServicesNBFCLoanSettlementPage() {
               </p>
 
               <div className="bg-slate-50 border border-slate-200 rounded-2xl p-5 mb-6">
-                <h3 className="font-bold text-slate-900 text-sm mb-2 flex items-center gap-2">
+                <h4 className="font-bold text-slate-900 text-sm mb-2 flex items-center gap-2">
                   <Landmark className="w-4 h-4 text-[#1F5EFF]" />
                   Statutory Entity Profile: KrazyBee Services Private Limited
-                </h3>
+                </h4>
                 <div className="grid grid-cols-1 md:grid-cols-2 gap-3 text-xs text-slate-700">
                   <div><strong>Legal Name:</strong> KrazyBee Services Private Limited.</div>
                   <div><strong>RBI Registration No:</strong> N-02.00262 (NBFC-ND-SI).</div>
@@ -595,7 +595,7 @@ export default function KrazyBeeServicesNBFCLoanSettlementPage() {
                 <Clock className="w-4 h-4" />
                 <span>2. Delinquency Timeline &amp; NPA Stages.</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">Delinquency Progression &amp; NPA Provisioning</h2>
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">Delinquency Progression &amp; NPA Provisioning</h3>
 
               <p className="text-base text-slate-700 leading-relaxed mb-4">
                 When you miss an EMI, KrazyBee tracks the debt across set stages. As the loan grows older, KrazyBee offers bigger principal waivers.
@@ -665,16 +665,16 @@ export default function KrazyBeeServicesNBFCLoanSettlementPage() {
                 <Scale className="w-4 h-4" />
                 <span>3. Legal Notice Deconstruction &amp; Defense.</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">KrazyBee Legal Notices &amp; Sec 25 PSSA</h2>
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">KrazyBee Legal Notices &amp; Sec 25 PSSA</h3>
 
               <p className="text-base text-slate-700 leading-relaxed mb-4">
                 When an account defaults, KrazyBee sends legal notices. These formal letters can look alarming. But they are standard pre-court notices used to start settlement talks.
               </p>
 
-              <h3 className="text-lg font-bold text-slate-900 mb-3 flex items-center gap-2">
+              <h4 className="text-lg font-bold text-slate-900 mb-3 flex items-center gap-2">
                 <Gavel className="w-4 h-4 text-[#1F5EFF]" />
                 Section 25 Payment and Settlement Systems Act (PSSA), 2007
-              </h3>
+              </h4>
               <p className="text-base text-slate-700 leading-relaxed mb-4">
                 The most common notice falls under <strong>Section 25 of the Payment and Settlement Systems Act, 2007</strong>. When an e-NACH mandate bounces for low balance, Section 25 applies. This works just like Section 138 cheque bounce rules.
               </p>
@@ -682,10 +682,10 @@ export default function KrazyBeeServicesNBFCLoanSettlementPage() {
                 The lender must give you 15 days to reply. A Section 25 notice is not an arrest warrant. It is not a court order. It is a compoundable notice. A lawyer can send a reply showing financial hardship. This stops court complaints and opens One-Time Settlement talks.
               </p>
 
-              <h3 className="text-lg font-bold text-slate-900 mb-3 flex items-center gap-2">
+              <h4 className="text-lg font-bold text-slate-900 mb-3 flex items-center gap-2">
                 <Scale className="w-4 h-4 text-[#1F5EFF]" />
                 Unilateral Digital Arbitration &amp; Online Dispute Resolution (ODR)
-              </h3>
+              </h4>
               <p className="text-base text-slate-700 leading-relaxed mb-4">
                 KrazyBee often sends online arbitration notices. They use private dispute portals. They pick a sole arbitrator in Bengaluru or Delhi without your consent.
               </p>
@@ -693,10 +693,10 @@ export default function KrazyBeeServicesNBFCLoanSettlementPage() {
                 The Supreme Court ruled in <em>Perkins Eastman</em> and <em>TRF Ltd</em> on this issue. One-sided arbitrator choices are illegal. Your lawyer can file objections under Section 12, 13, and 16 of the Arbitration Act. This halts biased proceedings and brings lenders to the negotiation table.
               </p>
 
-              <h3 className="text-lg font-bold text-slate-900 mb-3 flex items-center gap-2">
+              <h4 className="text-lg font-bold text-slate-900 mb-3 flex items-center gap-2">
                 <AlertTriangle className="w-4 h-4 text-amber-600" />
                 Civil Contract Law vs. Fake Criminal Allegations (Section 420 / 406 IPC)
-              </h3>
+              </h4>
               <p className="text-base text-slate-700 leading-relaxed mb-6">
                 Recovery callers sometimes threaten FIRs under Section 420 and Section 406 of the IPC (or Sections 316 and 318 BNS). The Supreme Court clarified this in <em>Satishchandra Ratanlal Shah</em> and <em>Dalip Kaur</em>. Loan default is purely a civil dispute. It falls under the Indian Contract Act, 1872. The police cannot step into civil loan recovery.
               </p>
@@ -708,7 +708,7 @@ export default function KrazyBeeServicesNBFCLoanSettlementPage() {
                 <Calculator className="w-4 h-4" />
                 <span>4. NPV Recovery Valuation &amp; Haircuts.</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">Net Present Value (NPV) Recovery Valuation</h2>
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">Net Present Value (NPV) Recovery Valuation</h3>
 
               <p className="text-base text-slate-700 leading-relaxed mb-4">
                 To get big loan waivers, you must know how lenders value bad loans. KrazyBee evaluates debts using a Net Present Value (NPV) recovery formula.
@@ -753,9 +753,9 @@ export default function KrazyBeeServicesNBFCLoanSettlementPage() {
                       <span className="text-[11px] font-bold text-blue-400 uppercase tracking-wider block">
                         5. Strategic Settlement Workflow
                       </span>
-                      <h3 className="text-sm md:text-base font-black text-white leading-tight">
+                      <h4 className="text-sm md:text-base font-black text-white leading-tight">
                         KrazyBee Services NBFC Loan Settlement &amp; Legal Defense Blueprint
-                      </h3>
+                      </h4>
                     </div>
                   </div>
                   <a
@@ -802,7 +802,7 @@ export default function KrazyBeeServicesNBFCLoanSettlementPage() {
                 <ShieldAlert className="w-4 h-4" />
                 <span>6. Anti-Harassment Defense &amp; RBI Rules.</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">Halting Digital Recovery Harassment</h2>
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">Halting Digital Recovery Harassment</h3>
 
               <p className="text-base text-slate-700 leading-relaxed mb-4">
                 Defaulting on an app loan often triggers aggressive recovery calls. Borrowers face continuous phone calls, threats to family, and workplace visits. These tactics violate RBI guidelines and Indian law.
@@ -814,30 +814,30 @@ export default function KrazyBeeServicesNBFCLoanSettlementPage() {
 
               <div className="space-y-4 my-6">
                 <div className="p-4 bg-slate-50 rounded-2xl border border-slate-200">
-                  <h3 className="font-bold text-slate-900 text-sm mb-1 flex items-center gap-2">
+                  <h4 className="font-bold text-slate-900 text-sm mb-1 flex items-center gap-2">
                     <Check className="w-4 h-4 text-emerald-600" />
                     Strict Calling Hours (08:00 AM to 07:00 PM Only)
-                  </h3>
+                  </h4>
                   <p className="text-xs text-slate-600 leading-relaxed">
                     Recovery agents cannot call before 8:00 AM. They cannot call after 7:00 PM. Late-night WhatsApp messages and auto-dialer robocalls are strictly illegal.
                   </p>
                 </div>
 
                 <div className="p-4 bg-slate-50 rounded-2xl border border-slate-200">
-                  <h4 className="font-bold text-slate-900 text-sm mb-1 flex items-center gap-2">
+                  <h5 className="font-bold text-slate-900 text-sm mb-1 flex items-center gap-2">
                     <Check className="w-4 h-4 text-emerald-600" />
                     Absolute Prohibition of Third-Party Contacting &amp; Data Scraping
-                  </h4>
+                  </h5>
                   <p className="text-xs text-slate-600 leading-relaxed">
                     Scraping phone contacts breaks RBI rules. Calling friends or employers violates Section 72A of the IT Act, 2000.
                   </p>
                 </div>
 
                 <div className="p-4 bg-slate-50 rounded-2xl border border-slate-200">
-                  <h4 className="font-bold text-slate-900 text-sm mb-1 flex items-center gap-2">
+                  <h5 className="font-bold text-slate-900 text-sm mb-1 flex items-center gap-2">
                     <Check className="w-4 h-4 text-emerald-600" />
                     Ban on Physical Intimidation, Abusive Language &amp; Impersonation
-                  </h4>
+                  </h5>
                   <p className="text-xs text-slate-600 leading-relaxed">
                     Abusive language is a crime. Threatening physical visits is illegal. Posing as police officers breaks Sections 419, 503, and 506 IPC (Sections 319 and 351 BNS).
                   </p>
@@ -855,7 +855,7 @@ export default function KrazyBeeServicesNBFCLoanSettlementPage() {
                 <FileCheck className="w-4 h-4" />
                 <span>7. Step-by-Step Settlement Roadmap.</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">Step-by-Step NBFC Settlement Roadmap with KrazyBee Services</h2>
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">Step-by-Step NBFC Settlement Roadmap with KrazyBee Services</h3>
 
               <p className="text-base text-slate-700 leading-relaxed mb-4">
                 Follow this six-step roadmap to settle your KrazyBee loan safely:
@@ -930,7 +930,7 @@ export default function KrazyBeeServicesNBFCLoanSettlementPage() {
                 <CheckCircle2 className="w-4 h-4" />
                 <span>8. Sanction Letter Audit &amp; NDC Mandate.</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">KrazyBee Sanction Audit &amp; NDC Mandate</h2>
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">KrazyBee Sanction Audit &amp; NDC Mandate</h3>
 
               <p className="text-base text-slate-700 leading-relaxed mb-4">
                 Beware of fake settlement offers from collection telecallers. Rogue agents often send fake WhatsApp receipts. They ask for UPI payments. Paying without a verified letter means your money goes to interest. This leaves your loan unpaid.
@@ -963,10 +963,10 @@ export default function KrazyBeeServicesNBFCLoanSettlementPage() {
                 </div>
               </div>
 
-              <h3 className="text-lg font-bold text-slate-900 mb-3 flex items-center gap-2">
+              <h4 className="text-lg font-bold text-slate-900 mb-3 flex items-center gap-2">
                 <ShieldCheck className="w-4 h-4 text-emerald-600" />
                 RBI Circular RBI/2023-24/60: 30-Day NDC Mandate &amp; ₹5,000/Day Penalty
-              </h3>
+              </h4>
               <p className="text-base text-slate-700 leading-relaxed mb-6">
                 Under <strong>RBI Circular RBI/2023-24/60</strong>, lenders must issue your NDC fast. They get <strong>30 calendar days</strong> from full payment. If KrazyBee delays past 30 days, they must pay you <strong>₹5,000 per day of delay</strong>.
               </p>
@@ -978,7 +978,7 @@ export default function KrazyBeeServicesNBFCLoanSettlementPage() {
                 <TrendingUp className="w-4 h-4" />
                 <span>9. CIBIL Recovery &amp; Resolution Matrix.</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">CIBIL Score Trajectory, Credit Rehabilitation</h2>
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">CIBIL Score Trajectory, Credit Rehabilitation</h3>
 
               <p className="text-base text-slate-700 leading-relaxed mb-4">
                 After settlement, KrazyBee reports the loan as <strong>&apos;Settled&apos;</strong>. The balance shows ₹0 on CIBIL and Experian. It also updates on Equifax and CRIF High Mark.
@@ -1010,10 +1010,10 @@ export default function KrazyBeeServicesNBFCLoanSettlementPage() {
               </div>
 
               {/* Comparative Matrix Table */}
-              <h3 className="text-lg font-bold text-slate-900 mb-3 flex items-center gap-2">
+              <h4 className="text-lg font-bold text-slate-900 mb-3 flex items-center gap-2">
                 <Scale className="w-4 h-4 text-[#1F5EFF]" />
                 Comparative Resolution Matrix: Default vs. Agency vs. Legal OTS
-              </h3>
+              </h4>
               <p className="text-sm text-slate-600 mb-4">
                 The table below compares unmanaged loan default, agency collection pressure, and legal representation via SettleLoans:
               </p>
@@ -1076,7 +1076,7 @@ export default function KrazyBeeServicesNBFCLoanSettlementPage() {
                 <ShieldCheck className="w-4 h-4" />
                 <span>10. SettleLoans Legal Advocacy.</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">Why Borrowers in Distressed Borrowers Choose SettleLoans</h2>
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">Why Borrowers in Distressed Borrowers Choose SettleLoans</h3>
 
               <p className="text-base text-slate-700 leading-relaxed mb-4">
                 SettleLoans is India&apos;s leading legal debt resolution advisory. We protect borrowers against aggressive fintech collection practices. We negotiate institutional settlements.
@@ -1096,7 +1096,7 @@ export default function KrazyBeeServicesNBFCLoanSettlementPage() {
                 <HelpCircle className="w-4 h-4" />
                 <span>11. Frequently Asked Questions.</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">FAQs: KrazyBee NBFC Loan Settlement</h2>
+              <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">FAQs: KrazyBee NBFC Loan Settlement</h3>
 
               <div className="space-y-4">
                 {faqs.map((faq, index) => (
@@ -1122,10 +1122,10 @@ export default function KrazyBeeServicesNBFCLoanSettlementPage() {
 
             {/* Regulatory References & Official Sources Strip */}
             <div className="bg-slate-50 border border-slate-200 rounded-2xl p-6 my-10">
-              <h3 className="text-base font-bold text-slate-900 mb-4 flex items-center gap-2">
+              <h4 className="text-base font-bold text-slate-900 mb-4 flex items-center gap-2">
                 <Landmark className="w-5 h-5 text-[#1F5EFF]" />
                 Official Regulatory References &amp; Statutory Circulars
-              </h3>
+              </h4>
               <ul className="space-y-3 text-xs text-slate-600">
                 <li className="flex items-start gap-2">
                   <ExternalLink className="w-4 h-4 text-[#1F5EFF] flex-shrink-0 mt-0.5" />
@@ -1187,10 +1187,10 @@ export default function KrazyBeeServicesNBFCLoanSettlementPage() {
 
             {/* Related Guides & Resources Strip (10 Topic Badges) */}
             <div className="bg-slate-50 border border-slate-200 rounded-2xl p-6 my-10">
-              <h3 className="text-base font-bold text-slate-900 mb-4 flex items-center gap-2">
+              <h4 className="text-base font-bold text-slate-900 mb-4 flex items-center gap-2">
                 <BookOpen className="w-5 h-5 text-[#1F5EFF]" />
                 Explore Related Banking &amp; Debt Resolution Guides
-              </h3>
+              </h4>
               <div className="flex flex-wrap gap-2.5">
                 <Link
                   href="/app-loan-settlement"

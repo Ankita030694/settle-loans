@@ -526,7 +526,7 @@ export default function PersonalLoanSettlementPatnaPage() {
 
             {/* Section 2: PSU Bank SARB Architecture, Zonal SASTRA Wings & Legal Notice Mechanics in Patna */}
             <section id="psu-sarb-sastra-notice-mechanics" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">2. PSU Bank SARB Architecture &amp; Legal Paths</h2>
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">2. PSU Bank SARB Architecture &amp; Legal Paths</h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 PSU banks in Bihar use dedicated recovery units. When a loan is unpaid for 90 days, it becomes an NPA. The account moves to zonal recovery hubs.
               </p>
@@ -589,7 +589,7 @@ export default function PersonalLoanSettlementPatnaPage() {
 
             {/* Section 3: Statutory Borrower Protections: RBI Fair Practices Code, High Court Precedents & Anti-Harassment Law in Bihar */}
             <section id="statutory-borrower-protections-bihar" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">3. Borrower Legal Protections in Patna</h2>
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">3. Borrower Legal Protections in Patna</h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Loan default is a civil matter, not a crime. RBI rules protect honest borrowers from abuse. The Supreme Court and Patna High Court uphold your rights.
               </p>
@@ -629,7 +629,7 @@ export default function PersonalLoanSettlementPatnaPage() {
 
             {/* Section 4: Bank Balance Sheet Accounting, Unsecured NPA Provisioning & The Net Present Value (NPV) Equation */}
             <section id="npa-provisioning-balance-sheet-npv" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">4. NPA Balance Sheet Accounting in Patna</h2>
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">4. NPA Balance Sheet Accounting in Patna</h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 A 40% to 60% waiver needs financial logic, not emotions. Banks use RBI reserves rules and Net Present Value (NPV) models.
               </p>
@@ -713,7 +713,7 @@ export default function PersonalLoanSettlementPatnaPage() {
 
             {/* Section 5: Visual Roadmap Infographic Banner */}
             <section id="patna-settlement-visual-roadmap" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">5. Settlement Process Roadmap in Patna</h2>
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">5. Settlement Process Roadmap in Patna</h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 The roadmap below shows 5 key steps to settle bank loans in Patna. Learn to defend against notices. Secure an OTS waiver. Rebuild your credit score.
               </p>
@@ -748,38 +748,38 @@ export default function PersonalLoanSettlementPatnaPage() {
 
             {/* Section 6: The Step-by-Step Advocate-Led Negotiation Framework in Patna & Bihar */}
             <section id="step-by-step-negotiation-bihar" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">6. Advocate-Led Settlement Framework in Patna &amp; Bihar</h2>
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">6. Advocate-Led Settlement Framework in Patna &amp; Bihar</h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Settling bank debt requires a clear legal strategy. Negotiating alone brings risks. Agents make false verbal promises. Our legal team uses a proven 5-phase framework:
               </p>
 
               <div className="space-y-3 my-4">
                 <div className="p-4 rounded-xl border-l-4 border-blue-600 bg-slate-50 space-y-1">
-                  <h3 className="font-bold text-slate-900 text-xs sm:text-sm">Phase 1: Forensic Loan Ledger &amp; Legal Audit</h3>
+                  <h4 className="font-bold text-slate-900 text-xs sm:text-sm">Phase 1: Forensic Loan Ledger &amp; Legal Audit</h4>
                   <p className="text-xs text-slate-600 leading-relaxed">
                     We collect full loan statements from the bank. We review the account in detail. We remove illegal penal fees and compound interest. This gives us the true principal baseline.
                   </p>
                 </div>
                 <div className="p-4 rounded-xl border-l-4 border-indigo-600 bg-slate-50 space-y-1">
-                  <h4 className="font-bold text-slate-900 text-xs sm:text-sm">Phase 2: Formal Legal Representation &amp; Anti-Harassment Notice</h4>
+                  <h5 className="font-bold text-slate-900 text-xs sm:text-sm">Phase 2: Formal Legal Representation &amp; Anti-Harassment Notice</h5>
                   <p className="text-xs text-slate-600 leading-relaxed">
                     We submit a formal Vakalatnama to the bank zonal head. This moves all messages to our legal office. It stops agents from visiting your home or workplace.
                   </p>
                 </div>
                 <div className="p-4 rounded-xl border-l-4 border-purple-600 bg-slate-50 space-y-1">
-                  <h4 className="font-bold text-slate-900 text-xs sm:text-sm">Phase 3: Hardship Dossier Submission Under RBI June 2023 Policy</h4>
+                  <h5 className="font-bold text-slate-900 text-xs sm:text-sm">Phase 3: Hardship Dossier Submission Under RBI June 2023 Policy</h5>
                   <p className="text-xs text-slate-600 leading-relaxed">
                     We draft a compromise petition under RBI rules. We attach proof of financial hardship. This includes income tax returns, medical records, or business loss proofs.
                   </p>
                 </div>
                 <div className="p-4 rounded-xl border-l-4 border-amber-600 bg-slate-50 space-y-1">
-                  <h4 className="font-bold text-slate-900 text-xs sm:text-sm">Phase 4: Bilateral Zonal Negotiation &amp; Discretionary Approval</h4>
+                  <h5 className="font-bold text-slate-900 text-xs sm:text-sm">Phase 4: Bilateral Zonal Negotiation &amp; Discretionary Approval</h5>
                   <p className="text-xs text-slate-600 leading-relaxed">
                     Our advocates negotiate directly with the Bank Zonal Committee in Patna. We use NPA reserves rules. We secure 40% to 60% principal waivers. We also structure a 1-to-3 installment payment plan.
                   </p>
                 </div>
                 <div className="p-4 rounded-xl border-l-4 border-emerald-600 bg-slate-50 space-y-1">
-                  <h4 className="font-bold text-slate-900 text-xs sm:text-sm">Phase 5: Execution of Consent Decree &amp; Legal Closure</h4>
+                  <h5 className="font-bold text-slate-900 text-xs sm:text-sm">Phase 5: Execution of Consent Decree &amp; Legal Closure</h5>
                   <p className="text-xs text-slate-600 leading-relaxed">
                     Are Section 138 or Section 25 cases pending? We record consent terms at Patna Civil Court or Lok Adalat. All court cases get dismissed.
                   </p>
@@ -793,7 +793,7 @@ export default function PersonalLoanSettlementPatnaPage() {
 
             {/* Section 7: National Lok Adalat Representation & Patna Debt Recovery Tribunal (DRT) Protocols */}
             <section id="lok-adalat-bslsa-drt-patna-protocols" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">7. Patna DLSA Lok Adalat Representation</h2>
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">7. Patna DLSA Lok Adalat Representation</h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Lok Adalats are key forums for debt settlement in Bihar. The <strong>BSLSA</strong> organizes quarterly National Lok Adalats. Benches sit at Patna Civil Court, Gaya, Muzaffarpur, and Bhagalpur.
               </p>
@@ -832,7 +832,7 @@ export default function PersonalLoanSettlementPatnaPage() {
 
             {/* Section 8: Forensic Sanction Letter Verification, Direct Bank Remittance & The RBI 30-Day NDC Mandate */}
             <section id="sanction-letter-forensics-rbi-ndc" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">8. Sanction Letter Audit &amp; NDC in Patna</h2>
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">8. Sanction Letter Audit &amp; NDC in Patna</h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Rogue agents in Bihar sometimes issue fake settlement letters. They make false verbal promises to collect money. Never pay without a verified sanction letter.
               </p>
@@ -889,9 +889,9 @@ export default function PersonalLoanSettlementPatnaPage() {
                 </p>
               </div>
 
-              <h3 className="text-base sm:text-lg font-bold text-slate-900 pt-2">
+              <h4 className="text-base sm:text-lg font-bold text-slate-900 pt-2">
                 RBI Statutory Mandate on 30-Day NDC Delivery &amp; Credit Bureau Updates
-              </h3>
+              </h4>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Under <strong>RBI Circular RBI/2023-24/60</strong>, banks in Bihar must issue an <strong>NDC</strong> in <strong>30 days</strong>. They must return security cheques. Any delay costs the bank <strong>₹5,000 per day</strong> in borrower payout.
               </p>
@@ -902,7 +902,7 @@ export default function PersonalLoanSettlementPatnaPage() {
 
             {/* Section 9: Comparative Matrix: Debt Resolution Mechanisms Across Bihar */}
             <section id="debt-resolution-strategy-matrix" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">9. Debt Resolution Matrix for Patna Borrowers</h2>
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">9. Debt Resolution Matrix for Patna Borrowers</h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Compare debt relief choices in Patna. Find the best balance of savings and safety:
               </p>
@@ -962,7 +962,7 @@ export default function PersonalLoanSettlementPatnaPage() {
             {/* Section 10: SettleLoans Legal Defense & Debt Resolution in Patna & Bihar + CompanySection */}
             <section id="company-resolution-section" className="space-y-6">
               <div className="border-t border-slate-200 pt-8 space-y-4">
-                <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">10. SettleLoans Legal Relief in Patna &amp; Bihar</h2>
+                <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">10. SettleLoans Legal Relief in Patna &amp; Bihar</h3>
                 <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                   Facing heavy debt in Bihar? You need skilled legal help. SettleLoans helps borrowers resolve bank, NBFC. And microfinance debt.
                 </p>
@@ -982,9 +982,9 @@ export default function PersonalLoanSettlementPatnaPage() {
                   <Gavel className="w-4 h-4" />
                   <span>Local Legal Jurisdiction &amp; Legal Aid Directory</span>
                 </div>
-                <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+                <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                   District Courts &amp; DLSA Helpdesk in Patna
-                </h2>
+                </h3>
                 <p className="text-slate-700 leading-relaxed mb-6 text-base">
                   Distressed borrowers facing recovery pressure, arbitration summons, or Section 138 NI Act notices in Patna can access statutory legal defense through the local District Court and District Legal Services Authority (DLSA):
                 </p>
@@ -1019,7 +1019,7 @@ export default function PersonalLoanSettlementPatnaPage() {
 <section id="faqs" className="space-y-4 border-t border-slate-200 pt-8">
               <div className="flex items-center gap-2 mb-2">
                 <HelpCircle className="w-5 h-5 text-[#1F5EFF]" />
-                <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">11. FAQs: Patna, Bihar</h2>
+                <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">11. FAQs: Patna, Bihar</h3>
               </div>
               <p className="text-xs sm:text-sm text-slate-600 mb-6">
                 Find clear legal answers for Patna. Learn about SARB notices, Lok Adalat terms. And borrower rights.
@@ -1049,9 +1049,9 @@ export default function PersonalLoanSettlementPatnaPage() {
 
             {/* 5 Official Regulatory Links */}
             <section className="border-t border-slate-200 pt-8 mb-4">
-              <h3 className="text-xs sm:text-sm font-bold text-slate-900 mb-3 uppercase tracking-wider">
+              <h4 className="text-xs sm:text-sm font-bold text-slate-900 mb-3 uppercase tracking-wider">
                 Official Statutory &amp; Regulatory References
-              </h3>
+              </h4>
               <div className="grid grid-cols-1 sm:grid-cols-2 gap-2.5 text-xs">
                 <a
                   href="https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=12513&Mode=0"
@@ -1103,9 +1103,9 @@ export default function PersonalLoanSettlementPatnaPage() {
 
             {/* 10 Related Guide Badges */}
             <section className="border-t border-slate-200 pt-8 mb-8">
-              <h3 className="text-xs sm:text-sm font-bold text-slate-900 mb-4 uppercase tracking-wider">
+              <h4 className="text-xs sm:text-sm font-bold text-slate-900 mb-4 uppercase tracking-wider">
                 Related Banking &amp; Debt Resolution Guides
-              </h3>
+              </h4>
               <div className="flex flex-wrap gap-2">
                 <Link
                   href="/bank-one-time-settlement-ots-policy"

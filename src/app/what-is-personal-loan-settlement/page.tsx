@@ -292,7 +292,7 @@ export default function WhatIsPersonalLoanSettlementPage() {
           </section>
 
           <section id="definition" className="scroll-mt-32 mb-16">
-            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">Understanding Personal Loan Settlement</h2>
+            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">Understanding Personal Loan Settlement</h3>
             <p className="text-lg leading-relaxed mb-6">
               Personal loan settlement involves negotiating with the lender to accept a reduced payment as full satisfaction of the debt. This is often pursued when you are struggling to make your monthly payments due to various reasons, such as job loss, medical emergencies, or other financial hardships. The settlement amount is usually less than the total outstanding balance, allowing you to clear your debts more quickly and potentially save on interest costs.
             </p>
@@ -311,25 +311,25 @@ export default function WhatIsPersonalLoanSettlementPage() {
           </section>
 
           <section id="why-settle" className="scroll-mt-32 mb-16">
-            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">Why Do Settlements Happen?</h2>
+            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">Why Do Settlements Happen?</h3>
             <p className="text-lg leading-relaxed mb-6">
               Banks and Non Banking Financial Companies (NBFCs) are profit driven institutions. They do not agree to settlements out of charity. They do so because of a cold, hard analysis of risk and recovery costs. Here are the primary reasons why a lender might agree to a settlement:
             </p>
             <div className="grid md:grid-cols-2 gap-6 my-8">
               <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
-                <h3 className="font-black text-[#1F5EFF] mb-3 text-lg">Non Performing Assets (NPA)</h3>
+                <h4 className="font-black text-[#1F5EFF] mb-3 text-lg">Non Performing Assets (NPA)</h4>
                 <p className="text-sm leading-relaxed">When a borrower misses payments for ninety consecutive days, the loan is classified as an NPA. This forces the bank to set aside capital as a provision, which hurts their profitability. Settleing helps them clean their books.</p>
               </div>
               <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
-                <h4 className="font-black text-[#1F5EFF] mb-3 text-lg">Cost of Recovery</h4>
+                <h5 className="font-black text-[#1F5EFF] mb-3 text-lg">Cost of Recovery</h5>
                 <p className="text-sm leading-relaxed">Hiring collectors, filing legal suits, and pursuing arbitration costs money. If the debt amount is relatively small, the cost of recovery might exceed the amount recovered.</p>
               </div>
               <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
-                <h4 className="font-black text-[#1F5EFF] mb-3 text-lg">Genuine Distress</h4>
+                <h5 className="font-black text-[#1F5EFF] mb-3 text-lg">Genuine Distress</h5>
                 <p className="text-sm leading-relaxed">If you can provide documented proof of a medical crisis or industrial layoff, banks prefer a quick settlement over a long, futile battle against an insolvent individual.</p>
               </div>
               <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
-                <h4 className="font-black text-[#1F5EFF] mb-3 text-lg">Collective Bargaining</h4>
+                <h5 className="font-black text-[#1F5EFF] mb-3 text-lg">Collective Bargaining</h5>
                 <p className="text-sm leading-relaxed">When specialized firms like SettleLoans intervene, we represent thousands of clients. This gives us the leverage to negotiate better terms than an individual could on their own.</p>
               </div>
             </div>
@@ -342,7 +342,7 @@ export default function WhatIsPersonalLoanSettlementPage() {
           </section>
 
           <section id="the-process" className="scroll-mt-32 mb-16">
-            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">The Step by Step Process</h2>
+            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">The Step by Step Process</h3>
             <p className="text-lg leading-relaxed mb-8">
               Navigating a personal loan settlement requires a disciplined approach. You cannot simply stop paying and expect a deal. Here is how the professional process works:
             </p>
@@ -350,35 +350,35 @@ export default function WhatIsPersonalLoanSettlementPage() {
               <div className="flex gap-6">
                 <div className="flex-shrink-0 w-12 h-12 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center font-black text-xl shadow-lg">1</div>
                 <div>
-                  <h3 className="text-xl font-black text-[#2E2E2E] mb-2">Assessing Financial Situation</h3>
+                  <h4 className="text-xl font-black text-[#2E2E2E] mb-2">Assessing Financial Situation</h4>
                   <p className="text-gray-600 leading-relaxed">Before approaching a lender, you must honestly evaluate your financial capacity. How much lump sum can you realistically scrape together? Do you have family support or assets to liquidate? A settlement requires cash on hand because banks rarely allow instalments on a settled amount.</p>
                 </div>
               </div>
               <div className="flex gap-6">
                 <div className="flex-shrink-0 w-12 h-12 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center font-black text-xl shadow-lg">2</div>
                 <div>
-                  <h3 className="text-xl font-black text-[#2E2E2E] mb-2">Reaching Out to the Lender</h3>
+                  <h4 className="text-xl font-black text-[#2E2E2E] mb-2">Reaching Out to the Lender</h4>
                   <p className="text-gray-600 leading-relaxed">You must initiate contact. Explain your financial challenges clearly. Do not hide the facts. Mention the specific triggers like job loss or medical emergencies. State your intention to resolve the debt through a One Time Settlement (OTS).</p>
                 </div>
               </div>
               <div className="flex gap-6">
                 <div className="flex-shrink-0 w-12 h-12 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center font-black text-xl shadow-lg">3</div>
                 <div>
-                  <h3 className="text-xl font-black text-[#2E2E2E] mb-2">Negotiating Terms</h3>
+                  <h4 className="text-xl font-black text-[#2E2E2E] mb-2">Negotiating Terms</h4>
                   <p className="text-gray-600 leading-relaxed">This is where expertise counts. Banks will start with a high offer, perhaps moving just ten to twenty percent. You need to present your budget and push for a deeper waiver. For unsecured personal loans, a waiver of fifty to seventy percent on the total outstanding is possible but requires rigorous negotiation.</p>
                 </div>
               </div>
               <div className="flex gap-6">
                 <div className="flex-shrink-0 w-12 h-12 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center font-black text-xl shadow-lg">4</div>
                 <div>
-                  <h3 className="text-xl font-black text-[#2E2E2E] mb-2">Reaching an Agreement</h3>
+                  <h4 className="text-xl font-black text-[#2E2E2E] mb-2">Reaching an Agreement</h4>
                   <p className="text-gray-600 leading-relaxed">Once a verbal agreement is reached, wait. Do not pay a single rupee until you receive a formal Settlement Letter on the bank's letterhead. This letter must state the exact amount, the due date, and a confirmation that the debt will be considered fully resolved after payment.</p>
                 </div>
               </div>
               <div className="flex gap-6">
                 <div className="flex-shrink-0 w-12 h-12 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center font-black text-xl shadow-lg">5</div>
                 <div>
-                  <h3 className="text-xl font-black text-[#2E2E2E] mb-2">Making the Payment</h3>
+                  <h4 className="text-xl font-black text-[#2E2E2E] mb-2">Making the Payment</h4>
                   <p className="text-gray-600 leading-relaxed">Fulfill your end of the deal. Use digital channels like NEFT or RTGS which provide a clear audit trail. Always keep the transaction receipt safe. After the payment reflects, request a No Dues Certificate (NDC) from the branch.</p>
                 </div>
               </div>
@@ -392,12 +392,12 @@ export default function WhatIsPersonalLoanSettlementPage() {
           </section>
 
           <section id="legal-framework" className="scroll-mt-32 mb-16">
-            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">Legal & RBI Guidelines</h2>
+            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">Legal & RBI Guidelines</h3>
             <p className="text-lg leading-relaxed mb-6">
               The Reserve Bank of India (RBI) has laid down a clear Fair Practice Code for lenders. While the bank has the right to recover its money, it does not have the right to violate your basic human dignity. Knowing your rights is your best defense against aggressive recovery tactics.
             </p>
             <div className="bg-blue-50 border-l-8 border-[#1F5EFF] p-8 rounded-r-2xl mb-8">
-              <h3 className="text-xl font-black text-[#1F5EFF] mb-4">Key RBI Protections for Borrowers:</h3>
+              <h4 className="text-xl font-black text-[#1F5EFF] mb-4">Key RBI Protections for Borrowers:</h4>
               <ul className="space-y-4 text-blue-900 font-medium">
                 <li className="flex items-start gap-3">
                    <div className="mt-1.5 w-2 h-2 rounded-full bg-[#1F5EFF] flex-shrink-0"></div>
@@ -429,16 +429,16 @@ export default function WhatIsPersonalLoanSettlementPage() {
           </section>
 
           <section id="negotiation-scripts" className="scroll-mt-32 mb-16">
-            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">Mastering Negotiation Strategies</h2>
+            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">Mastering Negotiation Strategies</h3>
             <p className="text-lg leading-relaxed mb-6">
                Negotiation is an art. When you enter a bank, you are a customer who has faced an unfortunate turn of events. You are not a criminal. Here are some strategies we use at SettleLoans to ensure the best outcome:
             </p>
             <div className="bg-gray-50 p-8 rounded-2xl mb-8 border border-gray-200">
-               <h3 className="font-black text-[#2E2E2E] mb-4">The "Empty Pockets" Strategy</h3>
+               <h4 className="font-black text-[#2E2E2E] mb-4">The "Empty Pockets" Strategy</h4>
                <p className="mb-4">Always emphasize that the amount you are offering is the absolute last bit of money you have. If you show that you have more, the bank will push for more. Use documents like bank statements showing a low balance or a list of other debts you owe.</p>
-               <h4 className="font-black text-[#2E2E2E] mb-4">The "Relative Support" Clause</h4>
+               <h5 className="font-black text-[#2E2E2E] mb-4">The "Relative Support" Clause</h5>
                <p className="mb-4">Banks are wary of borrowers who "magically" find money. Tell them that the settlement amount is being provided by a relative specifically for this purpose, and the offer is only valid for a few days before the relative uses the money elsewhere.</p>
-               <h4 className="font-black text-[#2E2E2E] mb-4">The Documentation Shield</h4>
+               <h5 className="font-black text-[#2E2E2E] mb-4">The Documentation Shield</h5>
                <p>Provide evidence for every claim. If you had a pay cut, provide the letter from your HR. If you had a medical issue, provide the discharge summary. In the face of cold hard facts, bank managers find it easier to justify a waiver to their superiors.</p>
             </div>
             <p className="text-lg leading-relaxed mb-6">
@@ -447,7 +447,7 @@ export default function WhatIsPersonalLoanSettlementPage() {
           </section>
 
           <section id="bank-policies" className="scroll-mt-32 mb-16">
-            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">Bank vs NBFC Policies</h2>
+            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">Bank vs NBFC Policies</h3>
             <p className="text-lg leading-relaxed mb-6">
               Different lenders have different "appetites" for settlement. Major private banks like HDFC, ICICI, and Axis Bank have structured systems but are often tougher to crack for deep waivers. Nationalized banks like SBI often participate in Lok Adalats where settlements are encouraged by the judiciary.
             </p>
@@ -488,7 +488,7 @@ export default function WhatIsPersonalLoanSettlementPage() {
           </section>
 
           <section id="lok-adalat" className="scroll-mt-32 mb-16">
-            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">Lok Adalat: The Fast Track to Freedom</h2>
+            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">Lok Adalat: The Fast Track to Freedom</h3>
             <p className="text-lg leading-relaxed mb-6">
                Lok Adalat, or "People's Court," is a dispute resolution mechanism that is a godsend for borrowers with PSU bank loans. Held periodically by the District Legal Services Authority, these forums encourage compromise.
             </p>
@@ -501,12 +501,12 @@ export default function WhatIsPersonalLoanSettlementPage() {
           </section>
 
           <section id="cibil-impact" className="scroll-mt-32 mb-16">
-            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">Impact on Credit Score (CIBIL)</h2>
+            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">Impact on Credit Score (CIBIL)</h3>
             <p className="text-lg leading-relaxed mb-6">
               This is the most significant drawback of personal loan settlement. When you settle, the lender reports the status as "Settled" to the credit bureaus (CIBIL, Experian, CRIF). This remark stays on your report for seven years.
             </p>
             <div className="bg-red-50 p-6 rounded-xl border border-red-100 mb-8">
-               <h3 className="text-lg font-bold text-red-700 mb-3">What "Settled" Means to Future Lenders:</h3>
+               <h4 className="text-lg font-bold text-red-700 mb-3">What "Settled" Means to Future Lenders:</h4>
                <p className="text-sm text-red-900 leading-relaxed italic">
                  "This borrower has defaulted on their original promise. They paid less than they owed. Lending to them in the future is high risk."
                </p>
@@ -523,7 +523,7 @@ export default function WhatIsPersonalLoanSettlementPage() {
           </section>
 
           <section id="recovery-agents" className="scroll-mt-32 mb-16">
-            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">Dealing with Recovery Agents</h2>
+            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">Dealing with Recovery Agents</h3>
             <p className="text-lg leading-relaxed mb-6">
               The mere mention of recovery agents causes stress for most borrowers. These agents are third party contractors who work on a commission basis. Their goal is to get you to pay as much as possible as quickly as possible.
             </p>
@@ -532,11 +532,11 @@ export default function WhatIsPersonalLoanSettlementPage() {
             </p>
             <div className="grid sm:grid-cols-2 gap-4 my-8">
                <div className="bg-white p-5 rounded-lg border border-[#DEDEDE] shadow-sm">
-                  <h3 className="font-black text-[#2E2E2E] mb-2">Record Everything</h3>
+                  <h4 className="font-black text-[#2E2E2E] mb-2">Record Everything</h4>
                   <p className="text-sm">Always record your calls with agents. If they use abusive language, this recording is your evidence for an RBI complaint. Most modern smartphones have this feature; use it.</p>
                </div>
                <div className="bg-white p-5 rounded-lg border border-[#DEDEDE] shadow-sm">
-                  <h4 className="font-black text-[#2E2E2E] mb-2">Verification</h4>
+                  <h5 className="font-black text-[#2E2E2E] mb-2">Verification</h5>
                   <p className="text-sm">Never give money to an agent. Only pay through the bank's official app or branch. Insist on seeing their ID card and the bank's authorization letter. If they cannot produce these, they are potentially fraudulent.</p>
                </div>
             </div>
@@ -549,7 +549,7 @@ export default function WhatIsPersonalLoanSettlementPage() {
           </section>
 
           <section id="rebuilding-credit" className="scroll-mt-32 mb-16">
-            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">Rebuilding Your Credit Score</h2>
+            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">Rebuilding Your Credit Score</h3>
             <p className="text-lg leading-relaxed mb-6">
               A settlement is not the end of your financial life. It is a fresh start. You can rebuild your credit score from scratch. It takes patience and discipline, but it is entirely a predictable process.
             </p>
@@ -580,7 +580,7 @@ export default function WhatIsPersonalLoanSettlementPage() {
           </section>
 
           <section id="alternatives" className="scroll-mt-32 mb-16">
-            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">Alternatives to Consider</h2>
+            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">Alternatives to Consider</h3>
             <p className="text-lg leading-relaxed mb-6">
               Settlement should be your last resort. Before opting for it, explore these options:
             </p>
@@ -596,7 +596,7 @@ export default function WhatIsPersonalLoanSettlementPage() {
           </section>
 
           <section id="psychology" className="scroll-mt-32 mb-16">
-             <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">The Psychology of Debt: Staying Strong</h2>
+             <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">The Psychology of Debt: Staying Strong</h3>
              <p className="text-lg leading-relaxed mb-6">
                 Let's talk about the elephant in the room: the mental health impact of debt. In India, debt is often seen as a moral failure. The social pressure can be immense.
              </p>
@@ -612,7 +612,7 @@ export default function WhatIsPersonalLoanSettlementPage() {
           </section>
 
           <section id="arc-settlements" className="scroll-mt-32 mb-16">
-            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">Settling with Asset Reconstruction Companies (ARCs)</h2>
+            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">Settling with Asset Reconstruction Companies (ARCs)</h3>
             <p className="text-lg leading-relaxed mb-6">
                If your loan has been in default for a long time (typically more than two years), the bank might "sell" your debt to an Asset Reconstruction Company (ARC) like Phoenix, IARC, or Reliance ARC. This can feel scary because you are suddenly dealing with a new company, but it is actually a massive opportunity for a deep settlement.
             </p>
@@ -625,7 +625,7 @@ export default function WhatIsPersonalLoanSettlementPage() {
           </section>
 
           <section id="guarantors-impact" className="scroll-mt-32 mb-16">
-            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">Impact on Co-borrowers and Guarantors</h2>
+            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">Impact on Co-borrowers and Guarantors</h3>
             <p className="text-lg leading-relaxed mb-6">
                When you take a personal loan, you might have a co-applicant or a guarantor. It is a common misconception that a settlement only affects the primary borrower. In reality, the "Settled" remark and the impact on the CIBIL score apply to every person associated with that loan account.
             </p>
@@ -638,17 +638,17 @@ export default function WhatIsPersonalLoanSettlementPage() {
           </section>
 
           <section id="more-case-studies" className="scroll-mt-32 mb-16">
-             <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-12">More Stories of Financial Recovery</h2>
+             <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-12">More Stories of Financial Recovery</h3>
              <div className="grid md:grid-cols-2 gap-8 text-left">
                 <div className="bg-white p-8 rounded-2xl border border-[#DEDEDE] shadow-xl">
-                   <h3 className="font-black text-lg mb-4">Suresh, Hyderabad</h3>
+                   <h4 className="font-black text-lg mb-4">Suresh, Hyderabad</h4>
                    <p className="text-gray-600 mb-6 italic leading-relaxed">
                      "I had five different credit cards and two personal loans. My total debt was twenty five lakhs. My business collapsed during the supply chain crisis. SettleLoans consolidated the negotiation. It took nine months, but they got me a combined settlement for nine point eight lakhs. I saved over fifteen lakhs in debt."
                    </p>
                    <div className="text-xs font-bold text-[#1F5EFF]">Savings: 15.2 Lakhs</div>
                 </div>
                 <div className="bg-white p-8 rounded-2xl border border-[#DEDEDE] shadow-xl">
-                   <h4 className="font-black text-lg mb-4">Anjali, Pune</h4>
+                   <h5 className="font-black text-lg mb-4">Anjali, Pune</h5>
                    <p className="text-gray-600 mb-6 italic leading-relaxed">
                      "My father took a loan for my education and I was the co-borrower. When he passed away, the burden fell on me. The bank was very aggressive. SettleLoans spoke to the regional manager and got the interest and penalties waived based on compassionate grounds. Life is finally peaceful again."
                    </p>
@@ -658,9 +658,9 @@ export default function WhatIsPersonalLoanSettlementPage() {
           </section>
 
           <section id="reviews" className="scroll-mt-32 mb-16">
-            <h2 className="text-3xl md:text-5xl font-black text-[#2E2E2E] mb-12 text-center">
+            <h3 className="text-3xl md:text-5xl font-black text-[#2E2E2E] mb-12 text-center">
               Stories of <span className="text-[#1F5EFF]">Hope</span>
-            </h2>
+            </h3>
             <div className="grid md:grid-cols-2 gap-8">
               {[
                 { 
@@ -698,7 +698,7 @@ export default function WhatIsPersonalLoanSettlementPage() {
                       {review.name.charAt(0)}
                     </div>
                     <div>
-                      <h3 className="font-black text-[#2E2E2E]">{review.name}</h3>
+                      <h4 className="font-black text-[#2E2E2E]">{review.name}</h4>
                       <p className="text-xs text-[#747474] font-bold uppercase tracking-wider">{review.loc}</p>
                     </div>
                     <div className="ml-auto flex text-yellow-400">
@@ -724,7 +724,7 @@ export default function WhatIsPersonalLoanSettlementPage() {
           </section>
 
           <section id="faqs" className="scroll-mt-32 mb-16">
-            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">Frequently Asked Questions</h2>
+            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">Frequently Asked Questions</h3>
             <div className="space-y-4">
               {[
                 { q: "Is personal loan settlement legal in India?", a: "Yes, it is 100 percent legal. It is a contractual agreement where the lender decides to compromise on the recovery amount." },
@@ -744,7 +744,7 @@ export default function WhatIsPersonalLoanSettlementPage() {
                 { q: "How do I verify the authenticity of a settlement letter?", a: "Always check the letter for a valid reference number and call the bank's official customer care or visit the branch manager to confirm the offer before making any payment." }
               ].map((faq, i) => (
                 <div key={i} className="bg-white border border-[#DEDEDE] rounded-xl p-6 hover:shadow-md transition-shadow">
-                  <h3 className="font-black text-[#2E2E2E] text-lg mb-3">{i+1}. {faq.q}</h3>
+                  <h4 className="font-black text-[#2E2E2E] text-lg mb-3">{i+1}. {faq.q}</h4>
                   <p className="text-gray-600 leading-relaxed">{faq.a}</p>
                 </div>
               ))}
@@ -753,7 +753,7 @@ export default function WhatIsPersonalLoanSettlementPage() {
 
           <div className="bg-[#2E2E2E] text-white p-12 rounded-[40px] text-center mt-24 relative overflow-hidden group">
              <div className="absolute inset-0 bg-[#1F5EFF] opacity-0 group-hover:opacity-5 transition-opacity"></div>
-             <h3 className="text-3xl md:text-5xl font-black mb-6">Ready to Take Control?</h3>
+             <h4 className="text-3xl md:text-5xl font-black mb-6">Ready to Take Control?</h4>
              <p className="text-xl opacity-80 mb-10 max-w-2xl mx-auto">
                Stop the cycle of debt today. Talk to our legal experts and get a free analysis of your loan portfolio. We have helped thousands of families regain their peace.
              </p>

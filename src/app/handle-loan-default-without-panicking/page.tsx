@@ -277,9 +277,9 @@ export default function HandleLoanDefaultPage() {
             </section>
 
             <section id="nature-of-default" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
                 The True Nature of Loan Default
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 To handle loan default without panicking, you must understand what it actually is. A default occurs when a borrower fails to make a scheduled payment for a period of time. It is not an immediate crime. It is a breach of contract. When you took the loan, you signed an agreement with the bank. If you cannot fulfill that agreement, the relationship enters a new phase of negotiation and recovery.
               </p>
@@ -287,7 +287,7 @@ export default function HandleLoanDefaultPage() {
                 Most banks do not want to take you to court immediately. Legal processes are expensive and time-consuming for them as well. Their primary goal is to recover as much of the money as possible with the least amount of effort. This is actually an advantage for you. It means there is almost always room for discussion, restructuring, or settlement.
               </p>
               <div className="bg-gray-50 p-8 rounded-xl border border-gray-200 mb-8">
-                <h3 className="text-xl font-bold mb-6">Stages of Default: What to Expect</h3>
+                <h4 className="text-xl font-bold mb-6">Stages of Default: What to Expect</h4>
                 <ul className="space-y-4 text-sm font-medium">
                   <li className="flex items-start gap-3">
                     <span className="w-6 h-6 bg-[#1F5EFF] text-white rounded-full flex items-center justify-center text-[10px] mt-1 shrink-0">01</span>
@@ -315,35 +315,35 @@ export default function HandleLoanDefaultPage() {
             </section>
 
             <section id="rbi-guidelines-2026" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
                 RBI Guidelines 2026: Your New Shield
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 The Reserve Bank of India has introduced comprehensive "Responsible Business Conduct" guidelines effective from July 1, 2026. These rules are designed to stop the aggressive and often illegal tactics used by some lending institutions and their outsourced agents. Knowing these rules is the most powerful tool you have to handle loan default without panicking.
               </p>
               <div className="bg-blue-50 p-8 rounded-xl border border-blue-200 mb-8">
-                <h3 className="text-xl font-bold mb-4 text-blue-900">Key Highlights of the 2026 Guidelines</h3>
+                <h4 className="text-xl font-bold mb-4 text-blue-900">Key Highlights of the 2026 Guidelines</h4>
                 <div className="grid md:grid-cols-2 gap-6">
                   <div>
-                    <h4 className="font-bold mb-2">Strict Timing</h4>
+                    <h5 className="font-bold mb-2">Strict Timing</h5>
                     <p className="text-sm text-blue-800 leading-relaxed">
                       Lenders can only contact you between 8 AM and 7 PM. Any call outside this window is a direct violation of RBI norms.
                     </p>
                   </div>
                   <div>
-                    <h4 className="font-bold mb-2">Zero Harassment Policy</h4>
+                    <h5 className="font-bold mb-2">Zero Harassment Policy</h5>
                     <p className="text-sm text-blue-800 leading-relaxed">
                       Use of abusive language, threats of violence, or public shaming is strictly prohibited. The RBI has made it clear that "the borrower's dignity must be respected."
                     </p>
                   </div>
                   <div>
-                    <h4 className="font-bold mb-2">Privacy of Third Parties</h4>
+                    <h5 className="font-bold mb-2">Privacy of Third Parties</h5>
                     <p className="text-sm text-blue-800 leading-relaxed">
                       Agents are prohibited from contacting your family, neighbors, or workplace colleagues. They must only deal with you or your legal guarantor.
                     </p>
                   </div>
                   <div>
-                    <h4 className="font-bold mb-2">Identity Verification</h4>
+                    <h5 className="font-bold mb-2">Identity Verification</h5>
                     <p className="text-sm text-blue-800 leading-relaxed">
                       Any recovery agent visiting your premises must carry an ID card, a copy of the bank's recovery notice, and a specific authorization letter.
                     </p>
@@ -353,27 +353,27 @@ export default function HandleLoanDefaultPage() {
             </section>
 
             <section id="borrower-rights" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                 Your Fundamental Rights as a Borrower
-              </h2>
+              </h3>
               <p className="text-lg leading-relaxed mb-6">
                 Panicking often stems from a feeling of helplessness. But you are not helpless. Even as a defaulter, you have fundamental rights protected by the Indian judiciary and the regulator.
               </p>
               <div className="space-y-6">
                 <div className="bg-white p-6 rounded-2xl border border-[#DEDEDE] shadow-sm">
-                  <h3 className="text-xl font-bold text-[#1F5EFF] mb-3">1. The Right to Notice</h3>
+                  <h4 className="text-xl font-bold text-[#1F5EFF] mb-3">1. The Right to Notice</h4>
                   <p className="text-sm leading-relaxed text-gray-700">
                     The bank cannot suddenly seize your assets or take legal action without giving you proper notice. Under the SARFAESI Act (for secured loans), you must be given a 60-day notice period to respond after the account becomes an NPA.
                   </p>
                 </div>
                 <div className="bg-white p-6 rounded-2xl border border-[#DEDEDE] shadow-sm">
-                  <h3 className="text-xl font-bold text-[#1F5EFF] mb-3">2. The Right to be Heard</h3>
+                  <h4 className="text-xl font-bold text-[#1F5EFF] mb-3">2. The Right to be Heard</h4>
                   <p className="text-sm leading-relaxed text-gray-700">
                     You have the right to represent your case. If you have a genuine reason for default, the bank is legally obligated to consider your grievances. You can submit a written representation explaining your situation.
                   </p>
                 </div>
                 <div className="bg-white p-6 rounded-2xl border border-[#DEDEDE] shadow-sm">
-                  <h3 className="text-xl font-bold text-[#1F5EFF] mb-3">3. The Right to Dignity</h3>
+                  <h4 className="text-xl font-bold text-[#1F5EFF] mb-3">3. The Right to Dignity</h4>
                   <p className="text-sm leading-relaxed text-gray-700">
                     No lender has the right to treat you with disrespect. This includes any form of mental harassment, physical intimidation, or social shaming. The courts in India have repeatedly held that the recovery process must be humane.
                   </p>
@@ -382,12 +382,12 @@ export default function HandleLoanDefaultPage() {
             </section>
 
             <section id="recovery-agent-rules" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Recovery Agent Conduct: What is Illegal?</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Recovery Agent Conduct: What is Illegal?</h3>
               <p className="mb-6">
                 Recovery agents often use the borrower's lack of knowledge to their advantage. To handle loan default without panicking, you need to draw a clear line between legal recovery and illegal harassment.
               </p>
               <div className="bg-red-50 border-l-4 border-red-500 p-8 rounded-r-xl mb-8">
-                <h3 className="text-xl font-bold text-red-800 mb-4">Prohibited Actions by Recovery Agents</h3>
+                <h4 className="text-xl font-bold text-red-800 mb-4">Prohibited Actions by Recovery Agents</h4>
                 <ul className="space-y-3 text-red-900/80">
                   <li>• Calling from anonymous numbers or repeatedly calling to disturb your peace.</li>
                   <li>• Visiting your house without your permission or at odd hours.</li>
@@ -402,22 +402,22 @@ export default function HandleLoanDefaultPage() {
             </section>
 
             <section id="civil-vs-criminal" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Civil Matter vs Criminal Matter: Clearing the Myth</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Civil Matter vs Criminal Matter: Clearing the Myth</h3>
               <p className="mb-6 text-lg">
                 One of the biggest sources of panic is the fear of being arrested. Let us be very clear: in India, a loan default is a civil matter. Failing to pay an EMI is not a crime under the Indian Penal Code. You cannot be arrested simply because you do not have the money to pay your loan.
               </p>
               <div className="bg-white p-8 rounded-2xl border border-gray-200 shadow-sm mb-8">
-                <h3 className="text-xl font-bold mb-4">When Can it Become Criminal?</h3>
+                <h4 className="text-xl font-bold mb-4">When Can it Become Criminal?</h4>
                 <p className="mb-4 text-gray-600">
                   There are only a few specific instances where a debt related issue can lead to criminal proceedings, and these usually involve deliberate fraud:
                 </p>
                 <div className="grid md:grid-cols-2 gap-6">
                   <div className="p-4 bg-orange-50 rounded-lg">
-                    <h4 className="font-bold text-orange-900 mb-2">Section 138 (Cheque Bounce)</h4>
+                    <h5 className="font-bold text-orange-900 mb-2">Section 138 (Cheque Bounce)</h5>
                     <p className="text-xs text-orange-800">If a security cheque you gave to the bank bounces due to insufficient funds, the bank can file a case under Section 138 of the NI Act. However, even this is a bailable offense in most cases.</p>
                   </div>
                   <div className="p-4 bg-orange-50 rounded-lg">
-                    <h4 className="font-bold text-orange-900 mb-2">Fraudulent Documents</h4>
+                    <h5 className="font-bold text-orange-900 mb-2">Fraudulent Documents</h5>
                     <p className="text-xs text-orange-800">If you obtained the loan by submitting fake salary slips or property papers, the bank can file a case for cheating and forgery under the IPC.</p>
                   </div>
                 </div>
@@ -428,19 +428,19 @@ export default function HandleLoanDefaultPage() {
             </section>
 
             <section id="npa-timeline" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">The NPA Classification Window: Your Time to Act</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">The NPA Classification Window: Your Time to Act</h3>
               <p className="mb-6">
                 The 90-day window before your account is classified as a Non-Performing Asset is your most critical period. After 90 days, the bank is forced to set aside capital for the "bad loan," which makes them more aggressive in their recovery efforts. But before those 90 days are up, the bank is still very interested in keeping your account "standard."
               </p>
               <div className="flex flex-col md:flex-row gap-8 mb-8">
                 <div className="flex-1 bg-teal-50 p-6 rounded-xl border border-teal-200">
-                  <h3 className="font-bold text-teal-900 mb-2">The Golden 60 Days</h3>
+                  <h4 className="font-bold text-teal-900 mb-2">The Golden 60 Days</h4>
                   <p className="text-sm text-teal-800">
                     If you communicate within the first 60 days of default, you have a high chance of getting the bank to agree to a restructuring plan. This might include reducing the EMI or extending the loan tenure.
                   </p>
                 </div>
                 <div className="flex-1 bg-blue-50 p-6 rounded-xl border border-blue-200">
-                  <h4 className="font-bold text-blue-900 mb-2">Proactive Communication</h4>
+                  <h5 className="font-bold text-blue-900 mb-2">Proactive Communication</h5>
                   <p className="text-sm text-blue-800">
                     Always send an email to the bank manager. Paper trails are essential. Explain your hardship and explicitly state that you have every intention of paying once your situation stabilizes.
                   </p>
@@ -449,18 +449,18 @@ export default function HandleLoanDefaultPage() {
             </section>
 
             <section id="secured-vs-unsecured" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Secured vs Unsecured Default: Different Strategies</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Secured vs Unsecured Default: Different Strategies</h3>
               <p className="mb-6">
                 The way you handle loan default without panicking depends heavily on whether the loan is secured (like a home loan) or unsecured (like a personal loan or credit card).
               </p>
               <div className="space-y-4 mb-8">
                 <div className="bg-white p-6 rounded-xl border border-[#DEDEDE]">
-                  <h3 className="font-bold text-lg mb-2 text-[#2E2E2E]">Unsecured Loans (High Interest)</h3>
+                  <h4 className="font-bold text-lg mb-2 text-[#2E2E2E]">Unsecured Loans (High Interest)</h4>
                   <p className="text-sm text-gray-600 mb-4">Personal loans and credit cards have no collateral. The bank cannot take your house or car. Their primary leverage is your CIBIL score and the pressure of recovery calls. These are often the easiest to settle because the bank has no asset to sell.</p>
                   <div className="text-xs font-bold text-[#1F5EFF] bg-blue-50 inline-block px-3 py-1 rounded">Strategy: Negotiation & Settlement</div>
                 </div>
                 <div className="bg-white p-6 rounded-xl border border-[#DEDEDE]">
-                  <h3 className="font-bold text-lg mb-2 text-[#2E2E2E]">Secured Loans (Lower Interest)</h3>
+                  <h4 className="font-bold text-lg mb-2 text-[#2E2E2E]">Secured Loans (Lower Interest)</h4>
                   <p className="text-sm text-gray-600 mb-4">Home and car loans are backed by an asset. If you default for more than 90 days, the bank can initiate the SARFAESI process to auction the asset. However, this still takes time and you have the right to challenge the process in a Debt Recovery Tribunal (DRT).</p>
                   <div className="text-xs font-bold text-green-600 bg-green-50 inline-block px-3 py-1 rounded">Strategy: Restructuring or Asset Sale</div>
                 </div>
@@ -468,12 +468,12 @@ export default function HandleLoanDefaultPage() {
             </section>
 
             <section id="settlement-options" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Negotiating a Settlement: The Path to Freedom</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Negotiating a Settlement: The Path to Freedom</h3>
               <p className="mb-6 text-lg">
                 If full repayment is impossible, a One-Time Settlement (OTS) is your best exit strategy. This is a process where the bank agrees to accept a portion of the total dues and close the account forever. This is often the final step in how to handle loan default without panicking.
               </p>
               <div className="bg-[#2E2E2E] text-white p-8 rounded-2xl mb-8">
-                <h3 className="text-2xl font-bold mb-4">How much can you save?</h3>
+                <h4 className="text-2xl font-bold mb-4">How much can you save?</h4>
                 <p className="mb-6 opacity-80 text-lg">While every case is unique, a well-negotiated settlement for unsecured loans can look like this:</p>
                 <div className="grid grid-cols-2 md:grid-cols-3 gap-6">
                   <div className="text-center">
@@ -497,7 +497,7 @@ export default function HandleLoanDefaultPage() {
             </section>
 
             <section id="loan-restructuring" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Loan Restructuring: A Win-Win Solution</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Loan Restructuring: A Win-Win Solution</h3>
               <p className="mb-6">
                 Restructuring is different from settlement. In restructuring, the bank modifies the terms of your loan so that you can continue paying it without defaulting. This is often better for your CIBIL score than a settlement.
               </p>
@@ -521,12 +521,12 @@ export default function HandleLoanDefaultPage() {
             </section>
 
             <section id="legal-notices" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Handling Legal Notices Without Fear</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Handling Legal Notices Without Fear</h3>
               <p className="mb-6">
                 A legal notice is not a court summons. It is simply a formal warning that the bank intends to take legal action if the dues are not cleared. Many people panic and ignore these notices, which is the worst possible thing you can do.
               </p>
               <div className="bg-orange-50 p-8 rounded-xl border border-orange-200">
-                <h3 className="text-xl font-bold mb-4">Steps to Handle a Legal Notice</h3>
+                <h4 className="text-xl font-bold mb-4">Steps to Handle a Legal Notice</h4>
                 <p className="text-sm mb-4">1. <strong>Do Not Ignore It:</strong> Ignoring a notice validates the bank's claim that you are unreachable.</p>
                 <p className="text-sm mb-4">2. <strong>Verify the Notice:</strong> Ensure it comes from an actual lawyer and contains your correct loan details.</p>
                 <p className="text-sm mb-4">3. <strong>Reply to the Notice:</strong> Send a formal reply through a lawyer or by yourself, explaining your hardship and your counter-proposal for repayment.</p>
@@ -535,7 +535,7 @@ export default function HandleLoanDefaultPage() {
             </section>
 
             <section id="ombudsman-recourse" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">The RBI Ombudsman: Your Ultimate Recourse</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">The RBI Ombudsman: Your Ultimate Recourse</h3>
               <p className="mb-6">
                 If the bank or its agents are harassing you and the bank's internal grievance cell is not helping, the RBI Integrated Ombudsman is your best friend. This is a free service provided by the RBI to resolve disputes between customers and financial institutions.
               </p>
@@ -545,29 +545,29 @@ export default function HandleLoanDefaultPage() {
             </section>
 
             <section id="credit-score-impact" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">CIBIL and Credit Health: Rebuilding from Zero</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">CIBIL and Credit Health: Rebuilding from Zero</h3>
               <p className="mb-6 text-lg">
                 Yes, a loan default will damage your credit score. But a credit score is not a permanent tattoo; it is more like a health report that improves with time and good habits.
               </p>
               <div className="grid md:grid-cols-2 gap-8 mb-8">
                 <div className="bg-white p-6 rounded-xl border border-gray-100 shadow-sm">
-                  <h3 className="font-bold mb-2">The Impact</h3>
+                  <h4 className="font-bold mb-2">The Impact</h4>
                   <p className="text-sm text-gray-600">A default or settlement will lower your score significantly, making it hard to get new loans for 2-3 years.</p>
                 </div>
                 <div className="bg-white p-6 rounded-xl border border-gray-100 shadow-sm">
-                  <h3 className="font-bold mb-2">The Recovery</h3>
+                  <h4 className="font-bold mb-2">The Recovery</h4>
                   <p className="text-sm text-gray-600">Once the debt is cleared, you can rebuild your score by using a secured credit card (against an FD) and paying it back on time every month.</p>
                 </div>
               </div>
             </section>
 
             <section id="psychological-resilience" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Building Psychological Resilience</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Building Psychological Resilience</h3>
               <p className="mb-6 text-lg">
                 Financial stress is one of the leading causes of mental health issues. To handle loan default without panicking, you must actively protect your mind.
               </p>
               <div className="bg-emerald-50 p-8 rounded-2xl border border-emerald-100 mb-8">
-                <h3 className="text-xl font-bold text-emerald-800 mb-4">Practical Mental Health Tips</h3>
+                <h4 className="text-xl font-bold text-emerald-800 mb-4">Practical Mental Health Tips</h4>
                 <p className="mb-4 text-emerald-900/80">
                   - <strong>Detach Your Identity:</strong> Remind yourself daily: "I am a person with a debt problem, not a bad person."
                 </p>
@@ -581,12 +581,12 @@ export default function HandleLoanDefaultPage() {
             </section>
 
             <section id="settleloans-support" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">How SettleLoans Can Help You Today</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">How SettleLoans Can Help You Today</h3>
               <p className="mb-6">
                 At SettleLoans, we provide the legal and professional bridge you need to get from panic to peace. We don't just negotiate; we protect. Our team of experts understands every nuance of the RBI guidelines and use them to ensure you are treated with the respect you deserve.
               </p>
               <div className="bg-[#2E2E2E] text-white p-8 rounded-2xl mb-8">
-                <h3 className="text-2xl font-bold mb-4">Our Commitment to You</h3>
+                <h4 className="text-2xl font-bold mb-4">Our Commitment to You</h4>
                 <p className="mb-4 opacity-80">
                    When you partner with us, we become your formal representative. We handle the calls, we draft the legal replies, and we negotiate the best possible settlement for you. We are your shield against the aggressive tactics of recovery agents and your guide through the complex world of bank negotiations.
                 </p>
@@ -601,7 +601,7 @@ export default function HandleLoanDefaultPage() {
             </section>
 
             <section id="success-stories" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 text-center">Real Stories of Recovery</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 text-center">Real Stories of Recovery</h3>
               <div className="grid md:grid-cols-2 gap-6 not-prose">
                 {[
                   {
@@ -639,7 +639,7 @@ export default function HandleLoanDefaultPage() {
                         {review.name.charAt(0)}
                       </div>
                       <div>
-                        <h3 className="font-bold text-[#2E2E2E]">{review.name}</h3>
+                        <h4 className="font-bold text-[#2E2E2E]">{review.name}</h4>
                         <p className="text-xs text-gray-400">{review.loc}</p>
                       </div>
                       <div className="ml-auto text-yellow-400 text-sm">★★★★★</div>
@@ -654,19 +654,19 @@ export default function HandleLoanDefaultPage() {
             </section>
 
             <section id="future-planning" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Planning Your Debt-Free Future</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Planning Your Debt-Free Future</h3>
               <p className="mb-6 text-lg">
                 The best way to handle loan default without panicking is to keep your eyes on the finish line. Every day you manage your situation without giving in to fear is a step closer to freedom.
               </p>
               <div className="grid sm:grid-cols-2 gap-8 my-10">
                 <div>
-                  <h3 className="text-xl font-bold mb-4 text-[#1F5EFF]">Build an Emergency Plan</h3>
+                  <h4 className="text-xl font-bold mb-4 text-[#1F5EFF]">Build an Emergency Plan</h4>
                   <p className="text-sm text-gray-600 leading-relaxed">
                     Once you clear this hurdle, your first goal should be to save enough for 6 months of basic expenses. This is your "Panic-Prevention Fund."
                   </p>
                 </div>
                 <div>
-                  <h3 className="text-xl font-bold mb-4 text-[#1F5EFF]">Understand High-Interest Traps</h3>
+                  <h4 className="text-xl font-bold mb-4 text-[#1F5EFF]">Understand High-Interest Traps</h4>
                   <p className="text-sm text-gray-600 leading-relaxed">
                     Avoid "Instant Loans" and "No-Paperwork Loans." They are the fastest way back into a debt trap. Stick to regulated, transparent banking products.
                   </p>
@@ -678,7 +678,7 @@ export default function HandleLoanDefaultPage() {
             </section>
 
             <section id="faqs" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Frequently Asked Questions</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Frequently Asked Questions</h3>
               <div className="space-y-4 not-prose">
                 {[
                   { q: "What should I do first when I realize I cannot pay my EMI?", a: "The first step is to stay calm and assess your financial situation. Proactively contact your lender to inform them of your hardship rather than waiting for them to call you. This shows a genuine intent to repay and can lead to more favorable negotiation terms." },
@@ -728,7 +728,7 @@ export default function HandleLoanDefaultPage() {
             <div className="lg:hidden mt-16 mb-8">
               <div className="bg-[#2E2E2E] rounded-2xl shadow-xl overflow-hidden border border-[#1F5EFF]/20">
                 <div className="bg-[#1F5EFF] p-6 text-center text-white">
-                  <h3 className="text-2xl font-black mb-2">Ready to End the Panic?</h3>
+                  <h4 className="text-2xl font-black mb-2">Ready to End the Panic?</h4>
                   <p className="opacity-90 text-sm">Our experts have helped thousands navigate the same storm you're in.</p>
                 </div>
                 <div className="p-8 text-center text-[#DEDEDE]">

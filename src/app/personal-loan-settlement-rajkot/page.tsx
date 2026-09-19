@@ -520,7 +520,7 @@ export default function PersonalLoanSettlementRajkotPage() {
 
             {/* Section 2: Legal Distinction: Unsecured vs Secured */}
             <section id="legal-distinction-unsecured-vs-secured" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">2. Legal Distinctions for Rajkot Borrowers</h2>
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">2. Legal Distinctions for Rajkot Borrowers</h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Secured loans and personal loans differ under the law. Secured lenders with mortgages can issue Section 13(2) notices under the SARFAESI Act, 2002. They can take possession under Section 13(4). But this rule applies only to pledged property.
               </p>
@@ -531,7 +531,7 @@ export default function PersonalLoanSettlementRajkotPage() {
 
             {/* Section 3: Statutory Protections for Saurashtra Borrowers */}
             <section id="statutory-shields-promoter-protection" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">3. Statutory Protections for Saurashtra Borrowers</h2>
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">3. Statutory Protections for Saurashtra Borrowers</h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Borrowers across Saurashtra enjoy strong legal safeguards. Section 60(1)(b) and (c) of the CPC protects your vital tools. Courts cannot attach artisan gear, work machines, or basic household items. Lenders cannot seize running furnaces, lathes, or CNC tools. This rule applies even with a valid court money decree.
               </p>
@@ -542,7 +542,7 @@ export default function PersonalLoanSettlementRajkotPage() {
 
             {/* Section 4: Bank Accounting, Provisioning Drag & NPV Equation */}
             <section id="bank-accounting-npa-npv-recovery" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">4. Bank NPA Accounting in Rajkot</h2>
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">4. Bank NPA Accounting in Rajkot</h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Deep loan haircuts stem from RBI IRACP rules. When a loan is 90 days overdue, it becomes a Non-Performing Asset (NPA). The bank must then set aside profit funds as loan loss provisions:
               </p>
@@ -607,7 +607,7 @@ export default function PersonalLoanSettlementRajkotPage() {
 
             {/* Section 5: Infographic Banner */}
             <section id="rajkot-debt-settlement-infographic-roadmap" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">5. Loan Settlement Roadmap in Rajkot</h2>
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">5. Loan Settlement Roadmap in Rajkot</h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 The diagram below shows the 5-step debt resolution process. It covers hardship audits, legal shielding, court notice defense, OTS negotiations, and credit bureau clearance.
               </p>
@@ -631,7 +631,7 @@ export default function PersonalLoanSettlementRajkotPage() {
 
             {/* Section 6: Judicial Defense in Gujarat Courts */}
             <section id="judicial-defense-ni-act-pssa-drt-gujarat" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">6. Judicial Defense in Rajkot Courts</h2>
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">6. Judicial Defense in Rajkot Courts</h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 When personal loans default, banks issue legal notices. They file cheque bounce cases under Section 138 of the Negotiable Instruments Act. They also file NACH cases under Section 25 of the PSSA 2007. These cases reach the Chief Judicial Magistrate in Rajkot. You can settle cheque bounce cases at any stage under Section 147. Our advocates appear in court and secure your bail. We challenge notices and record settlements for your full acquittal.
               </p>
@@ -642,7 +642,7 @@ export default function PersonalLoanSettlementRajkotPage() {
 
             {/* Section 7: Structuring an Institutional OTS for Rajkot Borrowers */}
             <section id="structuring-ots-for-rajkot-manufacturers" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">7. Structuring an Institutional OTS in Rajkot</h2>
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">7. Structuring an Institutional OTS in Rajkot</h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Talks must move to the bank&apos;s Zonal Stressed Asset Resolution Branch (SARB). We build a clear hardship file. We include MSME balance sheets, GST drops, and bank statements to prove genuine financial stress.
               </p>
@@ -663,7 +663,7 @@ export default function PersonalLoanSettlementRajkotPage() {
 
             {/* Section 8: Sanction Letter Forensics & CIBIL Bureau Clean-Up */}
             <section id="sanction-letter-forensics-ndc-cibil" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">8. Forensic Audit of OTS Letters in Rajkot</h2>
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">8. Forensic Audit of OTS Letters in Rajkot</h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Your settlement letter must come on official bank letterhead. It must show reference numbers, bank seals, and officer signatures. It must include your loan numbers and PAN details. It should list the agreed amount clearly. A specific clause must promise to withdraw all court cases in Rajkot.
               </p>
@@ -684,7 +684,7 @@ export default function PersonalLoanSettlementRajkotPage() {
 
             {/* Section 9: Comparative Strategic Matrix */}
             <section id="comparative-matrix-litigation-vs-ots" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">9. Debt Resolution Matrix for Rajkot Borrowers</h2>
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">9. Debt Resolution Matrix for Rajkot Borrowers</h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Compare contested court litigation against an advocate-led OTS to decide the best path for your business:
               </p>
@@ -742,7 +742,7 @@ export default function PersonalLoanSettlementRajkotPage() {
             {/* Section 10: SettleLoans Legal Debt Resolution & MSME Advisory + CompanySection */}
             <section id="company-resolution-section" className="space-y-6">
               <div className="border-t border-slate-200 pt-8 space-y-4">
-                <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">10. SettleLoans Legal Defense in Rajkot</h2>
+                <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">10. SettleLoans Legal Defense in Rajkot</h3>
                 <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                   SettleLoans provides full legal and financial support for foundry owners and auto part makers across Rajkot. Our senior advocates stop collection harassment. We defend Section 138 NI Act notices in court. We also win 40% to 70% bank OTS settlements with official No Dues Certificates.
                 </p>
@@ -759,9 +759,9 @@ export default function PersonalLoanSettlementRajkotPage() {
                   <Gavel className="w-4 h-4" />
                   <span>Local Legal Jurisdiction &amp; Legal Aid Directory</span>
                 </div>
-                <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+                <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                   District Courts &amp; DLSA Helpdesk in Rajkot
-                </h2>
+                </h3>
                 <p className="text-slate-700 leading-relaxed mb-6 text-base">
                   Distressed borrowers facing recovery pressure, arbitration summons, or Section 138 NI Act notices in Rajkot can access statutory legal defense through the local District Court and District Legal Services Authority (DLSA):
                 </p>
@@ -796,7 +796,7 @@ export default function PersonalLoanSettlementRajkotPage() {
 <section id="faqs" className="space-y-4 border-t border-slate-200 pt-8">
               <div className="flex items-center gap-2 mb-2">
                 <HelpCircle className="w-5 h-5 text-[#1F5EFF]" />
-                <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">11. FAQs: Debt Settlement in Rajkot</h2>
+                <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">11. FAQs: Debt Settlement in Rajkot</h3>
               </div>
               <p className="text-xs sm:text-sm text-slate-600 mb-6">
                 Clear answers to key questions about personal loan settlement, MSME debt relief, court defense, and borrower rights in Rajkot.
@@ -826,9 +826,9 @@ export default function PersonalLoanSettlementRajkotPage() {
 
             {/* 5 Official Regulatory Links */}
             <section className="border-t border-slate-200 pt-8 mb-4">
-              <h3 className="text-xs sm:text-sm font-bold text-slate-900 mb-3 uppercase tracking-wider">
+              <h4 className="text-xs sm:text-sm font-bold text-slate-900 mb-3 uppercase tracking-wider">
                 Official Statutory &amp; Regulatory References
-              </h3>
+              </h4>
               <div className="grid grid-cols-1 sm:grid-cols-2 gap-2.5 text-xs">
                 <a
                   href="https://www.rbi.org.in"
@@ -880,9 +880,9 @@ export default function PersonalLoanSettlementRajkotPage() {
 
             {/* 10 Related Guide Badges */}
             <section className="border-t border-slate-200 pt-8 mb-8">
-              <h3 className="text-xs sm:text-sm font-bold text-slate-900 mb-4 uppercase tracking-wider">
+              <h4 className="text-xs sm:text-sm font-bold text-slate-900 mb-4 uppercase tracking-wider">
                 Related Debt Defense &amp; Loan Settlement Guides
-              </h3>
+              </h4>
               <div className="flex flex-wrap gap-2">
                 <Link
                   href="/business-loan-settlement"

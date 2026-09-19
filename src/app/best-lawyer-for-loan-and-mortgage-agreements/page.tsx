@@ -181,7 +181,7 @@ export default function LoanMortgageAgreementsPage() {
                                 The Indian legal landscape for mortgages is governed by a patchwork of complex statutes, including the Transfer of Property Act, 1882, the Indian Contract Act, 1872, the Registration Act, 1908, and various state-specific Stamp Acts. Navigating these requires more than just a template; it requires a deep understanding of judicial precedents and current regulatory trends. An expert lawyer for loan and mortgage agreements doesn't just fill in blanks; they anticipate risks, structure security interests, and ensure that the agreement is executable in a court of law.
                             </p>
                             <div className="bg-blue-50 p-8 rounded-2xl border border-blue-100 mb-10">
-                                <h3 className="text-xl font-bold text-[#1F5EFF] mb-4 uppercase tracking-wider italic">The High Cost of Amateur Drafting</h3>
+                                <h4 className="text-xl font-bold text-[#1F5EFF] mb-4 uppercase tracking-wider italic">The High Cost of Amateur Drafting</h4>
                                 <p className="text-gray-700 leading-relaxed mb-4 font-medium">
                                     A common mistake in India is the use of 'Standard Format' agreements found online. These generic documents often fail to account for mandatory state stamp duties or specific property laws like RERA. A document that is inadequately stamped or unregistered is often inadmissible as evidence in court, effectively turning a secured loan into a high-risk unsecured one.
                                 </p>
@@ -192,40 +192,40 @@ export default function LoanMortgageAgreementsPage() {
                         </section>
 
                         <section id="mortgage-types" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 uppercase tracking-tight">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 uppercase tracking-tight">
                                 The Seven Mortgages of India: A Legal Deep Dive
-                            </h2>
+                            </h3>
                             <p className="text-lg text-gray-700 leading-relaxed mb-6">
                                 Section 58 of the Transfer of Property Act defines various types of mortgages. Choosing the right one is critical for the speed of recovery and the cost of the transaction.
                             </p>
                             <div className="space-y-6 mb-10">
                                 <div className="p-6 bg-gray-50 rounded-2xl border border-gray-200">
-                                    <h3 className="text-xl font-bold text-[#1F5EFF] mb-2">1. Simple Mortgage</h3>
+                                    <h4 className="text-xl font-bold text-[#1F5EFF] mb-2">1. Simple Mortgage</h4>
                                     <p className="text-gray-600">The borrower binds themselves personally to pay the loan and agrees that if they fail, the lender has the right to cause the mortgaged property to be sold. It REQUIRES mandatory registration.</p>
                                 </div>
                                 <div className="p-6 bg-gray-50 rounded-2xl border border-gray-200">
-                                    <h3 className="text-xl font-bold text-[#1F5EFF] mb-2">2. Mortgage by Conditional Sale</h3>
+                                    <h4 className="text-xl font-bold text-[#1F5EFF] mb-2">2. Mortgage by Conditional Sale</h4>
                                     <p className="text-gray-600">The property is sold with a condition that on payment of the loan, the sale becomes void or the buyer (lender) transfers the property back to the seller (borrower).</p>
                                 </div>
                                 <div className="p-6 bg-gray-50 rounded-2xl border border-gray-200">
-                                    <h3 className="text-xl font-bold text-[#1F5EFF] mb-2">3. Usufructuary Mortgage</h3>
+                                    <h4 className="text-xl font-bold text-[#1F5EFF] mb-2">3. Usufructuary Mortgage</h4>
                                     <p className="text-gray-600">The lender takes possession of the property and uses the rents or profits generated from it to satisfy the loan amount.</p>
                                 </div>
                                 <div className="p-6 bg-gray-50 rounded-2xl border border-gray-200">
-                                    <h3 className="text-xl font-bold text-[#1F5EFF] mb-2">4. English Mortgage</h3>
+                                    <h4 className="text-xl font-bold text-[#1F5EFF] mb-2">4. English Mortgage</h4>
                                     <p className="text-gray-600">An absolute transfer of property to the lender with a provision that they will re-transfer it to the borrower upon payment of the debt.</p>
                                 </div>
                                 <div className="p-6 bg-gray-50 rounded-2xl border border-gray-200">
-                                    <h3 className="text-xl font-bold text-[#1F5EFF] mb-2">5. Mortgage by Deposit of Title Deeds (Equitable Mortgage)</h3>
+                                    <h4 className="text-xl font-bold text-[#1F5EFF] mb-2">5. Mortgage by Deposit of Title Deeds (Equitable Mortgage)</h4>
                                     <p className="text-gray-600">Popular in banking, where the borrower merely deposits the original title documents with the lender in specific notified towns. It is often faster and cost-effective regarding stamp duty in certain states.</p>
                                 </div>
                             </div>
                         </section>
 
                         <section id="legal-components" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 uppercase tracking-tight">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 uppercase tracking-tight">
                                 The Anatomy of a Bulletproof Loan Agreement
-                            </h2>
+                            </h3>
                             <p className="text-lg text-gray-700 leading-relaxed mb-6">
                                 A loan agreement is more than just a list of interest rates. It is a roadmap for the entire relationship. We ensure every drafting includes these critical pillars:
                             </p>
@@ -255,14 +255,14 @@ export default function LoanMortgageAgreementsPage() {
                         </section>
 
                         <section id="stamping-reg" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">
                                 Stamping and Registration: The Pillars of Enforceability
-                            </h2>
+                            </h3>
                             <p className="text-lg text-gray-700 leading-relaxed mb-6">
                                 A common legal pitfall in India is the 'Deficit Stamp Duty'. Each state, from Maharashtra to Karnataka to Delhi, has its own schedule for stamp duty on mortgages. For instance, in Mumbai, the duty on a mortgage deed can be significant, leading many to under-stamp.
                             </p>
                             <div className="bg-red-50 p-8 rounded-2xl border border-red-100 mb-10">
-                                <h3 className="text-xl font-bold text-red-700 mb-4 uppercase">The Registration Warning</h3>
+                                <h4 className="text-xl font-bold text-red-700 mb-4 uppercase">The Registration Warning</h4>
                                 <p className="text-gray-700 leading-relaxed font-bold">
                                     Under Section 49 of the Registration Act, an unregistered document that requires registration cannot be used to prove a transaction affecting immovable property. If your mortgage is not registered, you cannot claim a priority interest in the property over other creditors.
                                 </p>
@@ -273,9 +273,9 @@ export default function LoanMortgageAgreementsPage() {
                         </section>
 
                         <section id="lender-protection" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 uppercase tracking-tight">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 uppercase tracking-tight">
                                 Lender Protection: Safeguarding Your Capital
-                            </h2>
+                            </h3>
                             <p className="text-lg text-gray-700 leading-relaxed mb-6">
                                 For a lender, the goal is 'Zero Lost Recovery'. This is achieved through aggressive protective drafting. We implement 'Acceleration Clauses' that allow the lender to demand the entire loan balance immediately upon the first signs of trouble.
                             </p>
@@ -284,20 +284,20 @@ export default function LoanMortgageAgreementsPage() {
                             </p>
                             <div className="grid grid-cols-1 md:grid-cols-2 gap-8 mb-10">
                                 <div className="p-8 bg-blue-50 rounded-3xl border border-blue-100 shadow-sm">
-                                    <h3 className="font-bold text-xl mb-3 text-[#1F5EFF]">Asset Monitoring</h3>
+                                    <h4 className="font-bold text-xl mb-3 text-[#1F5EFF]">Asset Monitoring</h4>
                                     <p className="text-gray-700 leading-relaxed text-sm">Clauses requiring the borrower to provide quarterly financial statements and allow physical inspection of the mortgaged property.</p>
                                 </div>
                                 <div className="p-8 bg-blue-50 rounded-3xl border border-blue-100 shadow-sm">
-                                    <h4 className="font-bold text-xl mb-3 text-[#1F5EFF]">Escrow Mechanisms</h4>
+                                    <h5 className="font-bold text-xl mb-3 text-[#1F5EFF]">Escrow Mechanisms</h5>
                                     <p className="text-gray-700 leading-relaxed text-sm">Integrating third-party escrow accounts to ensure that business revenues are used to pay the EMI before being used for expenses.</p>
                                 </div>
                             </div>
                         </section>
 
                         <section id="borrower-rights" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">
                                 Borrower Rights: Preventing Predatory Lending
-                            </h2>
+                            </h3>
                             <p className="text-lg text-gray-700 leading-relaxed mb-6">
                                 While lenders need security, borrowers need protection from unfair practices. In India, numerous 'Money Lending Acts' and RBI's 'Fair Practices Code' protect borrowers from excessive interest rates and coercive recovery.
                             </p>
@@ -307,9 +307,9 @@ export default function LoanMortgageAgreementsPage() {
                         </section>
 
                         <section id="commercial-loans" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 uppercase tracking-tight">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 uppercase tracking-tight">
                                 Commercial Loan Instruments: Beyond Simple Contracts
-                            </h2>
+                            </h3>
                             <p className="text-lg text-gray-700 leading-relaxed mb-6">
                                 High-value corporate lending often involves complex instruments like Debentures, Syndicated Loans, and Inter-Creditor Agreements (ICA). These documentations require a sophisticated understanding of the Companies Act and SEBI regulations.
                             </p>
@@ -322,7 +322,7 @@ export default function LoanMortgageAgreementsPage() {
                                     <div key={i} className="flex gap-4 p-6 bg-white border border-[#DEDEDE] rounded-2xl shadow-sm">
                                         <div className="w-12 h-12 rounded-full bg-[#1F5EFF]/10 text-[#1F5EFF] flex items-center justify-center font-bold flex-shrink-0">📜</div>
                                         <div>
-                                            <h3 className="font-bold text-[#2E2E2E] mb-1">{item.title}</h3>
+                                            <h4 className="font-bold text-[#2E2E2E] mb-1">{item.title}</h4>
                                             <p className="text-gray-600 text-sm">{item.desc}</p>
                                         </div>
                                     </div>
@@ -331,9 +331,9 @@ export default function LoanMortgageAgreementsPage() {
                         </section>
 
                         <section id="dispute-resolution" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">
                                 Litigation Risk and Arbitration: The Escape Hatch
-                            </h2>
+                            </h3>
                             <p className="text-lg text-gray-700 leading-relaxed mb-6">
                                 Civil court litigation in India can take decades. To avoid this, most modern loan agreements include an 'Arbitration Clause'. This allows the parties to resolve disputes through a private arbitrator, which is significantly faster.
                             </p>
@@ -343,35 +343,35 @@ export default function LoanMortgageAgreementsPage() {
                         </section>
 
                         <section id="why-lawyer" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 uppercase tracking-tight">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 uppercase tracking-tight">
                                 Why You Need the Best Lawyer for Mortgage Agreements
-                            </h2>
+                            </h3>
                             <p className="text-lg text-gray-700 leading-relaxed mb-6">
                                 Many financial disputes arise not from bad intentions, but from bad documentation. A specialized lawyer brings 'Technical Foresight' to the table.
                             </p>
                             <div className="grid grid-cols-1 md:grid-cols-3 gap-6 mb-10">
                                 <div className="p-6 bg-gray-50 rounded-2xl border border-gray-200 text-center">
                                     <FontAwesomeIcon icon={faShieldAlt} size="2x" className="text-[#1F5EFF] mb-4" />
-                                    <h3 className="font-bold mb-2">Title Scrutiny</h3>
+                                    <h4 className="font-bold mb-2">Title Scrutiny</h4>
                                     <p className="text-xs text-gray-500">We perform a 30-year search of property records to ensure the mortgage is being created on a clear, unencumbered title.</p>
                                 </div>
                                 <div className="p-6 bg-gray-50 rounded-2xl border border-gray-200 text-center">
                                     <FontAwesomeIcon icon={faScaleBalanced} size="2x" className="text-[#1F5EFF] mb-4" />
-                                    <h4 className="font-bold mb-2">Custom Covenants</h4>
+                                    <h5 className="font-bold mb-2">Custom Covenants</h5>
                                     <p className="text-xs text-gray-500">Drafting specific financial ratios that the borrower must maintain to keep the loan in good standing.</p>
                                 </div>
                                 <div className="p-6 bg-gray-50 rounded-2xl border border-gray-200 text-center">
                                     <FontAwesomeIcon icon={faFileSignature} size="2x" className="text-[#1F5EFF] mb-4" />
-                                    <h4 className="font-bold mb-2">Execution Support</h4>
+                                    <h5 className="font-bold mb-2">Execution Support</h5>
                                     <p className="text-xs text-gray-500">Directly managing the Sub-Registrar process to ensure zero errors in the registration memo.</p>
                                 </div>
                             </div>
                         </section>
 
                         <section id="success-stories" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 uppercase tracking-tight text-center">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 uppercase tracking-tight text-center">
                                 Proof of Precision: Successful Documentation Cases
-                            </h2>
+                            </h3>
                             <div className="grid grid-cols-1 md:grid-cols-2 gap-6 not-prose">
                                 {[
                                     {
@@ -409,7 +409,7 @@ export default function LoanMortgageAgreementsPage() {
                                                 {review.name.charAt(0)}
                                             </div>
                                             <div>
-                                                <h3 className="font-bold text-[#2E2E2E]">{review.name}</h3>
+                                                <h4 className="font-bold text-[#2E2E2E]">{review.name}</h4>
                                                 <p className="text-xs text-gray-400">{review.loc}</p>
                                             </div>
                                         </div>
@@ -424,9 +424,9 @@ export default function LoanMortgageAgreementsPage() {
                         </section>
 
                         <section id="faq-section" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">
                                 Frequently Asked Questions: Loan Legalities
-                            </h2>
+                            </h3>
                             <div className="space-y-4 not-prose">
                                 {[
                                     { q: "Is a Notarized loan agreement valid in court?", a: "Notarization only verifies the signatures. To be admissible for debt recovery involving property, the document must be adequately stamped and registered with the Sub-Registrar." },
@@ -456,9 +456,9 @@ export default function LoanMortgageAgreementsPage() {
                         </section>
 
                         <section id="conclusion" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 uppercase tracking-tight">
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 uppercase tracking-tight">
                                 Conclusion: Invest in Legal Security Today
-                            </h2>
+                            </h3>
                             <p className="text-lg text-gray-700 leading-relaxed mb-6 font-bold">
                                 A loan agreement is not just a piece of paper; it is the physical manifestation of your financial safety net.
                             </p>

@@ -272,19 +272,19 @@ export default function LoanSettlementFailedPage() {
           </section>
 
           <section id="what-happens-next" className="scroll-mt-32 mb-12">
-            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
+            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
               What Happens When a Settlement Agreement is Breached?
-            </h2>
+            </h3>
             <p className="text-lg leading-relaxed mb-6">
               In India, a settlement letter is a binding contract. When you sign it, you agree to pay a specific amount by a specific date. If you fail to do so, the "sacrifice" made by the bank is automatically withdrawn.
             </p>
             <div className="grid sm:grid-cols-2 gap-6 my-8">
               <div className="bg-red-50 p-6 rounded-xl border border-red-100">
-                <h3 className="font-bold text-red-800 mb-2">Reinstatement of Dues</h3>
+                <h4 className="font-bold text-red-800 mb-2">Reinstatement of Dues</h4>
                 <p className="text-sm text-red-900/80">The bank adds back the 30% to 60% they waived off, plus panel interest from the date of the first default.</p>
               </div>
               <div className="bg-orange-50 p-6 rounded-xl border border-orange-100">
-                <h4 className="font-bold text-orange-800 mb-2">Legal Escalation</h4>
+                <h5 className="font-bold text-orange-800 mb-2">Legal Escalation</h5>
                 <p className="text-sm text-orange-900/80">Pending cases under Section 138 (Cheque Bounce) or Section 25 (Payment and Settlement Systems Act) are revived.</p>
               </div>
             </div>
@@ -294,14 +294,14 @@ export default function LoanSettlementFailedPage() {
           </section>
 
           <section id="understanding-iarc" className="scroll-mt-32 mb-12">
-            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
+            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">
               Who is IARC? (International Asset Reconstruction Company)
-            </h2>
+            </h3>
             <p className="text-lg leading-relaxed mb-6">
               International Asset Reconstruction Company (IARC) is a premier Asset Reconstruction Company in India. They specialize in buying problematic loan portfolios from banks. If you have received a letter from IARC, it means your bank has given up on recovering the money directly and has sold your "debt" to them at a discount.
             </p>
             <div className="bg-gray-50 p-8 rounded-2xl border border-[#DEDEDE] mb-8">
-               <h3 className="text-xl font-black text-[#1F5EFF] mb-4">Why IARC is Different from a Bank</h3>
+               <h4 className="text-xl font-black text-[#1F5EFF] mb-4">Why IARC is Different from a Bank</h4>
                <ul className="space-y-4">
                  <li className="flex items-start">
                    <div className="w-1.5 h-1.5 bg-[#1F5EFF] rounded-full mt-2 mr-3 shrink-0"></div>
@@ -323,9 +323,9 @@ export default function LoanSettlementFailedPage() {
           </section>
 
           <section id="the-ots-reinstatement" className="scroll-mt-32 mb-12">
-            <h2 className="text-2xl md:text-3xl font-black text-[#2E2E2E] mb-6">
+            <h3 className="text-2xl md:text-3xl font-black text-[#2E2E2E] mb-6">
               The OTS Reinstatement Trap
-            </h2>
+            </h3>
             <p className="mb-4">
               Many borrowers do not realize that the "waiver" in an OTS is conditional. If you fail to pay the final installment, the bank doesn't just keep your previous payments; they apply them to the original, massive total.
             </p>
@@ -338,7 +338,7 @@ export default function LoanSettlementFailedPage() {
           </section>
 
           <section id="renegotiation-strategies" className="scroll-mt-32 mb-12">
-            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">Negotiating a Second Chance: Professional Strategies</h2>
+            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">Negotiating a Second Chance: Professional Strategies</h3>
             <p className="mb-6">
               Can you get a second settlement? Yes, but you need a new approach. The lender will not believe your word alone this time. You must provide a comprehensive "Re-negotiation Dossier" that addresses the previous failure head-on. Lenders, including IARC, are fundamentally interested in recovery, but they hate uncertainty. Your goal is to eliminate their fear of a second breach.
             </p>
@@ -352,7 +352,7 @@ export default function LoanSettlementFailedPage() {
                 { title: "Guarantor Involvement", desc: "Bringing in a co-signer or a family guarantor for the settlement amount can provide the extra layer of security the bank needs." }
               ].map((item, i) => (
                 <div key={i} className="bg-white p-5 rounded-xl border border-[#DEDEDE] shadow-sm">
-                  <h3 className="font-black text-[#1F5EFF] mb-2">{item.title}</h3>
+                  <h4 className="font-black text-[#1F5EFF] mb-2">{item.title}</h4>
                   <p className="text-sm opacity-80">{item.desc}</p>
                 </div>
               ))}
@@ -363,12 +363,12 @@ export default function LoanSettlementFailedPage() {
           </section>
 
           <section id="iarc-deep-dive" className="scroll-mt-32 mb-12">
-            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">A Deep Dive into IARC Resolution Protocols</h2>
+            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">A Deep Dive into IARC Resolution Protocols</h3>
             <p className="text-lg leading-relaxed mb-6">
               Working with the International Asset Reconstruction Company requires understanding their operational DNA. Unlike a retail bank manager who might be juggling thousands of savings accounts, an IARC resolution officer has one job: to extract the maximum value from the bad debt they purchased.
             </p>
             <div className="bg-[#2E2E2E] text-[#DEDEDE] p-8 rounded-2xl mb-8">
-               <h3 className="text-xl font-black mb-4">The IARC Resolution Timeline</h3>
+               <h4 className="text-xl font-black mb-4">The IARC Resolution Timeline</h4>
                <div className="space-y-6">
                   <div className="flex gap-4">
                     <div className="font-bold text-[#1F5EFF]">Phase 1:</div>
@@ -390,12 +390,12 @@ export default function LoanSettlementFailedPage() {
           </section>
 
           <section id="credit-score-impact" className="scroll-mt-32 mb-12">
-            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">The CIBIL Impact: Rebuilding After Failure</h2>
+            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">The CIBIL Impact: Rebuilding After Failure</h3>
             <p className="mb-6">
               A failed settlement appears on your credit report as a "Serious Default" or "Breach of Contract." This can stay on your record for 7 years and drop your score below 600.
             </p>
             <div className="bg-blue-50 p-6 rounded-xl border border-blue-100">
-              <h3 className="text-xl font-bold text-blue-800 mb-4">Steps to Fix Your Credit</h3>
+              <h4 className="text-xl font-bold text-blue-800 mb-4">Steps to Fix Your Credit</h4>
                <ol className="list-decimal pl-6 space-y-3 text-blue-900/80">
                   <li><strong>Close the Defaults:</strong> You cannot fix your score until the "defaulting" accounts are marked as Settled or Closed.</li>
                   <li><strong>Review Inaccuracies:</strong> Check if the bank reported the wrong amount after the failed settlement.</li>
@@ -406,7 +406,7 @@ export default function LoanSettlementFailedPage() {
           </section>
 
           <section id="legal-rights-india" className="scroll-mt-32 mb-12">
-            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Your Legal Rights in 2025</h2>
+            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Your Legal Rights in 2025</h3>
             <p className="mb-6">Even if you failed to pay a settlement, you still have rights protected by the Reserve Bank of India (RBI) and Indian Courts:</p>
             <ul className="list-disc pl-6 space-y-4">
               <li><strong>Protection from Coercion:</strong> No recovery agent, whether from a bank or IARC, can use physical violence or abusive language.</li>
@@ -417,10 +417,10 @@ export default function LoanSettlementFailedPage() {
           </section>
 
           <section id="professional-help" className="scroll-mt-32 mb-12">
-            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Why Professional Help is Non-Negotiable Now</h2>
+            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Why Professional Help is Non-Negotiable Now</h3>
             <p className="mb-6">When a settlement fails, the bank's system flags you as "high risk." Automated notices begin, and the legal department gets involved. Trying to negotiate alone at this stage often leads to rejection.</p>
             <div className="bg-emerald-50 p-8 rounded-2xl border border-emerald-100">
-               <h3 className="text-2xl font-black text-emerald-800 mb-4 text-center">How SettleLoans Rescues Your Case</h3>
+               <h4 className="text-2xl font-black text-emerald-800 mb-4 text-center">How SettleLoans Rescues Your Case</h4>
                <div className="grid md:grid-cols-3 gap-6">
                  <div className="text-center">
                     <div className="text-emerald-500 font-bold text-3xl mb-2">01</div>
@@ -442,7 +442,7 @@ export default function LoanSettlementFailedPage() {
           </section>
 
           <section id="success-stories" className="scroll-mt-32 mb-24">
-            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-12 text-center">Real Stories of Recovery</h2>
+            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-12 text-center">Real Stories of Recovery</h3>
             <div className="space-y-8">
               {[
                 { 
@@ -464,7 +464,7 @@ export default function LoanSettlementFailedPage() {
                   <div className="absolute -top-4 left-8 bg-[#1F5EFF] text-white py-1 px-4 rounded-full text-xs font-bold uppercase tracking-widest">Case Study #{i+1}</div>
                    <div className="flex justify-between items-start mb-6">
                       <div>
-                        <h3 className="text-xl font-bold">{item.name}</h3>
+                        <h4 className="text-xl font-bold">{item.name}</h4>
                         <p className="text-sm text-gray-500">{item.loc}</p>
                       </div>
                       <div className="text-right">
@@ -479,7 +479,7 @@ export default function LoanSettlementFailedPage() {
           </section>
 
           <section id="faqs" className="scroll-mt-32 mb-12">
-            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Expert Answers to Your Concerns</h2>
+            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Expert Answers to Your Concerns</h3>
             <div className="space-y-4">
               {[
                 { q: "What is the very first step if a settlement fails?", a: "The first step is to stop making small, partial payments without a letter. These are consumed as 'interest' and don't help your settlement. Instead, call the lender or seek professional help to get a fresh agreement." },

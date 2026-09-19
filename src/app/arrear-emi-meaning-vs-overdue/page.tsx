@@ -142,7 +142,7 @@ export default function ArrearEmiPage() {
             </section>
 
             <section id="lifecycle-of-emi" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">The Lifecycle of a Missed EMI</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">The Lifecycle of a Missed EMI</h3>
               <p className="text-lg leading-relaxed mb-6">
                 Understanding what happens behind the scenes at a bank when you miss a payment can help you prepare for the consequences. An EMI does not just quietly fail; it triggers a series of automated banking protocols designed to recover the money. Here is the chronological lifecycle of a missed payment turning into an arrear:
               </p>
@@ -151,7 +151,7 @@ export default function ArrearEmiPage() {
                 <div className="flex gap-6">
                   <div className="flex-shrink-0 w-12 h-12 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center font-black text-xl shadow-lg">1</div>
                   <div>
-                    <h3 className="text-2xl font-bold text-[#2E2E2E] mb-2">Day 1: The Bounce</h3>
+                    <h4 className="text-2xl font-bold text-[#2E2E2E] mb-2">Day 1: The Bounce</h4>
                     <p className="text-gray-700 text-lg leading-relaxed">Your ECS (Electronic Clearing Service) or NACH mandate fails due to insufficient funds. The bank immediately slaps a bounce charge on your account, usually ranging from ₹500 to ₹1000.</p>
                   </div>
                 </div>
@@ -159,7 +159,7 @@ export default function ArrearEmiPage() {
                 <div className="flex gap-6">
                   <div className="flex-shrink-0 w-12 h-12 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center font-black text-xl shadow-lg">2</div>
                   <div>
-                    <h3 className="text-2xl font-bold text-[#2E2E2E] mb-2">Days 2 to 30: SMA-0 Classification</h3>
+                    <h4 className="text-2xl font-bold text-[#2E2E2E] mb-2">Days 2 to 30: SMA-0 Classification</h4>
                     <p className="text-gray-700 text-lg leading-relaxed">The loan is classified as a Special Mention Account 0 (SMA-0). During this phase, you will receive automated SMS reminders, emails, and initial phone calls from the bank's internal collections team reminding you of the overdue amount.</p>
                   </div>
                 </div>
@@ -167,7 +167,7 @@ export default function ArrearEmiPage() {
                 <div className="flex gap-6">
                   <div className="flex-shrink-0 w-12 h-12 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center font-black text-xl shadow-lg">3</div>
                   <div>
-                    <h3 className="text-2xl font-bold text-[#2E2E2E] mb-2">Days 31 to 60: SMA-1 & Escalation</h3>
+                    <h4 className="text-2xl font-bold text-[#2E2E2E] mb-2">Days 31 to 60: SMA-1 & Escalation</h4>
                     <p className="text-gray-700 text-lg leading-relaxed">If the arrear remains unpaid for over a month, the account moves to SMA-1. This is where banks often assign the case to third-party recovery agencies. The calls become much more frequent and aggressive, and the penal interest starts compounding heavily.</p>
                   </div>
                 </div>
@@ -175,7 +175,7 @@ export default function ArrearEmiPage() {
                 <div className="flex gap-6">
                   <div className="flex-shrink-0 w-12 h-12 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center font-black text-xl shadow-lg">4</div>
                   <div>
-                    <h3 className="text-2xl font-bold text-[#2E2E2E] mb-2">Day 90+: NPA Declaration</h3>
+                    <h4 className="text-2xl font-bold text-[#2E2E2E] mb-2">Day 90+: NPA Declaration</h4>
                     <p className="text-gray-700 text-lg leading-relaxed">Once the arrears cross the 90-day mark, the loan is officially declared a Non-Performing Asset (NPA). The bank can now initiate formal legal proceedings, issue legal notices, and in the case of secured loans, begin the process of auctioning your property or seizing your vehicle under the SARFAESI Act.</p>
                   </div>
                 </div>
@@ -183,20 +183,20 @@ export default function ArrearEmiPage() {
             </section>
 
             <section id="arrear-vs-overdue" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">Difference Between Overdue and Arrear</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">Difference Between Overdue and Arrear</h3>
               <p className="text-lg leading-relaxed mb-6">
                 Borrowers, and sometimes even junior bank employees, often confuse the terms "overdue" and "arrear", using them interchangeably. While they sound incredibly similar and refer to the same general problem, banks treat them quite differently in their legal documentation and accounting ledgers. Understanding the strict difference between overdue and arrear is crucial for accurately managing your debt and communicating effectively with recovery agents.
               </p>
 
               <div className="grid md:grid-cols-2 gap-6 my-8">
                 <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
-                  <h3 className="font-black text-[#1F5EFF] text-lg mb-3">Overdue (The Status)</h3>
+                  <h4 className="font-black text-[#1F5EFF] text-lg mb-3">Overdue (The Status)</h4>
                   <p className="text-gray-700 leading-relaxed">
                     An account is considered "overdue" the very next day after you miss a scheduled payment. Overdue is primarily a <strong>status indicator</strong>. It is a broad, overarching term indicating that you are currently late on a financial obligation. When a bank says your account is overdue, they are describing the state of the account itself.
                   </p>
                 </div>
                 <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
-                  <h3 className="font-black text-[#1F5EFF] text-lg mb-3">Arrear EMI (The Amount)</h3>
+                  <h4 className="font-black text-[#1F5EFF] text-lg mb-3">Arrear EMI (The Amount)</h4>
                   <p className="text-gray-700 leading-relaxed">
                     Arrears refer to the <strong>actual monetary amount</strong> that has accumulated from those missed overdue payments. It is the specific, quantifiable debt you legally owe backward in time. If you missed two EMIs of ₹10,000, your account is overdue, and your <em>arrears</em> stand at ₹20,000 plus penalties.
                   </p>
@@ -205,13 +205,13 @@ export default function ArrearEmiPage() {
             </section>
 
             <section id="how-banks-calculate" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">How Banks Calculate Arrear Charges</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">How Banks Calculate Arrear Charges</h3>
               <p className="text-lg leading-relaxed mb-6">
                 Many borrowers are shocked when they finally decide to clear loan arrears, only to find the payable amount is drastically higher than their original missed EMI. This discrepancy is due to the aggressive compounding of arrear-related charges. Here is exactly how banks inflate that number:
               </p>
 
               <div className="bg-gray-50 p-8 rounded-2xl mb-8 border border-gray-200">
-                <h3 className="text-xl font-bold text-[#2E2E2E] mb-4">The Formula of Debt Accumulation</h3>
+                <h4 className="text-xl font-bold text-[#2E2E2E] mb-4">The Formula of Debt Accumulation</h4>
                 <p className="text-gray-700 text-lg leading-relaxed mb-4">
                   When you fall into arrears, you aren't just liable for the EMI amount. The total arrear balance consists of:
                 </p>
@@ -236,10 +236,10 @@ export default function ArrearEmiPage() {
             </section>
 
             <section id="consequences" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">Impact on Your Financial Profile</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">Impact on Your Financial Profile</h3>
               
               <div className="bg-blue-50 border-l-8 border-[#1F5EFF] p-8 rounded-r-2xl mb-8">
-                <h3 className="text-xl font-black text-[#1F5EFF] mb-4">How Arrears Destroy Your CIBIL Score</h3>
+                <h4 className="text-xl font-black text-[#1F5EFF] mb-4">How Arrears Destroy Your CIBIL Score</h4>
                 <p className="text-gray-800 text-lg leading-relaxed mb-4">
                   The most immediate and devastating consequence of allowing EMIs to fall into arrears is the damage to your credit profile. Credit bureaus like CIBIL, Experian, and Equifax are notified by your bank within 30 days of a missed payment.
                 </p>
@@ -261,10 +261,10 @@ export default function ArrearEmiPage() {
             </section>
 
             <section id="legal-implications" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">Legal Implications of Unpaid Arrears</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">Legal Implications of Unpaid Arrears</h3>
               
               <div className="bg-red-50 p-6 rounded-xl border border-red-100 mb-8">
-                <h3 className="text-xl font-black text-red-700 mb-4">Can You Go to Jail for Arrear EMIs?</h3>
+                <h4 className="text-xl font-black text-red-700 mb-4">Can You Go to Jail for Arrear EMIs?</h4>
                 <p className="text-red-900 text-lg leading-relaxed mb-4">
                   A common fear among borrowers is facing criminal charges for loan default. It is crucial to understand that under Indian law, <strong>defaulting on a standard personal loan or credit card is considered a civil dispute, not a criminal offense.</strong> You cannot be sent to jail simply for being unable to pay your arrears due to genuine financial hardship.
                 </p>
@@ -275,7 +275,7 @@ export default function ArrearEmiPage() {
             </section>
 
             <section id="how-to-clear" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">How to Clear Loan Arrears</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">How to Clear Loan Arrears</h3>
               <p className="text-lg leading-relaxed mb-6">
                 If you are struggling with missed payments, burying your head in the sand will only make the situation vastly worse. Taking proactive, strategic steps to clear loan arrears is essential to stop brutal bank harassment and prevent devastating legal action. Here is the recommended approach:
               </p>
@@ -284,7 +284,7 @@ export default function ArrearEmiPage() {
                 <div className="flex gap-6">
                   <div className="flex-shrink-0 w-12 h-12 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center font-black text-xl shadow-lg">1</div>
                   <div>
-                    <h3 className="text-2xl font-bold text-[#2E2E2E] mb-2">Request Penalty Waivers</h3>
+                    <h4 className="text-2xl font-bold text-[#2E2E2E] mb-2">Request Penalty Waivers</h4>
                     <p className="text-gray-700 text-lg leading-relaxed">Before rushing to pay the heavily inflated arrear amount, contact your bank manager and negotiate to waive the penal interest and bounce charges. If you have a valid, documentable reason for the delay (such as a severe medical emergency, sudden job loss, or a drastic salary cut), banks are often willing to reverse these extra punitive fees as a gesture of goodwill to recover the principal amount.</p>
                   </div>
                 </div>
@@ -292,7 +292,7 @@ export default function ArrearEmiPage() {
                 <div className="flex gap-6">
                   <div className="flex-shrink-0 w-12 h-12 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center font-black text-xl shadow-lg">2</div>
                   <div>
-                    <h3 className="text-2xl font-bold text-[#2E2E2E] mb-2">Formal Loan Restructuring</h3>
+                    <h4 className="text-2xl font-bold text-[#2E2E2E] mb-2">Formal Loan Restructuring</h4>
                     <p className="text-gray-700 text-lg leading-relaxed">If you simply cannot afford the current EMI amount due to a permanent change in your income, ask the bank to restructure the loan. By officially increasing the loan tenure (e.g., changing a 3-year loan to a 5-year loan), your monthly EMI burden reduces significantly. This makes it much easier to prevent future arrears, though you will end up paying more interest over the total lifespan of the loan.</p>
                   </div>
                 </div>
@@ -300,7 +300,7 @@ export default function ArrearEmiPage() {
                 <div className="flex gap-6">
                   <div className="flex-shrink-0 w-12 h-12 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center font-black text-xl shadow-lg">3</div>
                   <div>
-                    <h3 className="text-2xl font-bold text-[#2E2E2E] mb-2">One-Time Settlement (OTS)</h3>
+                    <h4 className="text-2xl font-bold text-[#2E2E2E] mb-2">One-Time Settlement (OTS)</h4>
                     <p className="text-gray-700 text-lg leading-relaxed">If your arrears have aged past 90 days, the loan is an NPA, and you genuinely face a complete inability to pay the outstanding balance, you can negotiate a One-Time Settlement (OTS). Under an OTS, the bank may allow you to officially close the loan account by paying a lump sum that is often 40% to 50% less than the total outstanding amount. Be warned: an OTS will result in a 'Settled' remark on your CIBIL report, heavily damaging your creditworthiness for years.</p>
                   </div>
                 </div>
@@ -308,7 +308,7 @@ export default function ArrearEmiPage() {
             </section>
 
             <section id="success-stories" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">Borrower Success Stories</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">Borrower Success Stories</h3>
               <div className="grid md:grid-cols-2 gap-6">
                 <div className="bg-white p-8 rounded-[30px] border border-[#DEDEDE] shadow-sm hover:shadow-xl group transition-all">
                   <div className="flex items-center justify-between mb-6">
@@ -353,7 +353,7 @@ export default function ArrearEmiPage() {
             </section>
 
             <section id="faqs" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">Frequently Asked Questions</h2>
+              <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">Frequently Asked Questions</h3>
               <div className="space-y-4">
                 {[
                   { q: "What is the exact arrear EMI meaning?", a: "Arrear EMI refers to the EMI payment that you have missed and is now past its due date. It remains as an outstanding balance on your loan account until cleared." },
@@ -386,7 +386,7 @@ export default function ArrearEmiPage() {
             <div id="consultation" className="bg-[#2E2E2E] text-white p-12 rounded-[40px] text-center mt-24 relative overflow-hidden group">
               <div className="absolute inset-0 bg-[#1F5EFF] opacity-0 group-hover:opacity-5 transition-opacity"></div>
               <div className="relative z-10">
-                <h3 className="text-3xl font-black mb-4">Don't Let Arrears Ruin Your Finances</h3>
+                <h4 className="text-3xl font-black mb-4">Don't Let Arrears Ruin Your Finances</h4>
                 <p className="text-lg text-gray-300 mb-8 max-w-2xl mx-auto">
                   Are recovery agents harassing you over arrear EMIs? Get expert legal help to waive penalty charges, stop the harassment, and restructure your loan safely.
                 </p>

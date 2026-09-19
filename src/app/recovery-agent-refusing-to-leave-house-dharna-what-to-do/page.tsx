@@ -555,7 +555,7 @@ export default function RecoveryAgentRefusingToLeaveHousePage() {
 
             {/* Section 2: RBI Master Directions & Supreme Court Jurisprudence */}
             <section id="rbi-master-directions-and-supreme-court-precedents" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">2. Doorstep Harassment &amp; Statutory Limits</h2>
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">2. Doorstep Harassment &amp; Statutory Limits</h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 The RBI sets clear debt collection rules. The <strong>RBI Master Direction on Fair Practices Code</strong> mandates strict conduct standards for lenders.
               </p>
@@ -607,35 +607,35 @@ export default function RecoveryAgentRefusingToLeaveHousePage() {
 
             {/* Section 3: Criminal Trespass, Public Nuisance & Intimidation under BNS / IPC */}
             <section id="criminal-trespass-public-nuisance-bns-ipc" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">3. Criminal Law Invocations</h2>
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">3. Criminal Law Invocations</h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 If agents refuse to leave your stairs, the case is criminal. Under the IPC and <strong>Bharatiya Nyaya Sanhita (BNS), 2023</strong>, key sections apply:
               </p>
 
               <div className="space-y-3 my-4">
                 <div className="p-4 rounded-xl border-l-4 border-red-500 bg-slate-50 space-y-1">
-                  <h3 className="font-bold text-slate-900 text-xs sm:text-sm flex items-center gap-1.5">
+                  <h4 className="font-bold text-slate-900 text-xs sm:text-sm flex items-center gap-1.5">
                     <AlertCircle className="w-4 h-4 text-red-600" />
                     <span>Public Nuisance (Section 270 BNS 2023 / Section 290 IPC)</span>
-                  </h3>
+                  </h4>
                   <p className="text-xs text-slate-600 leading-relaxed">
                     Causing annoyance to neighbors via shouts or blocking passages is a public nuisance. This act is subject to police intervention.
                   </p>
                 </div>
                 <div className="p-4 rounded-xl border-l-4 border-amber-500 bg-slate-50 space-y-1">
-                  <h4 className="font-bold text-slate-900 text-xs sm:text-sm flex items-center gap-1.5">
+                  <h5 className="font-bold text-slate-900 text-xs sm:text-sm flex items-center gap-1.5">
                     <ShieldAlert className="w-4 h-4 text-amber-600" />
                     <span>Criminal Trespass &amp; House-Trespass (Section 329 &amp; 331 BNS 2023 / Section 441 &amp; 448 IPC)</span>
-                  </h4>
+                  </h5>
                   <p className="text-xs text-slate-600 leading-relaxed">
                     Entering property to intimidate is criminal trespass. Criminal house-trespass occurs when someone stays on private property after being told to leave.
                   </p>
                 </div>
                 <div className="p-4 rounded-xl border-l-4 border-purple-500 bg-slate-50 space-y-1">
-                  <h4 className="font-bold text-slate-900 text-xs sm:text-sm flex items-center gap-1.5">
+                  <h5 className="font-bold text-slate-900 text-xs sm:text-sm flex items-center gap-1.5">
                     <Scale className="w-4 h-4 text-purple-600" />
                     <span>Criminal Intimidation &amp; Unlawful Assembly (Sections 351 &amp; 189 BNS / Sections 503, 506 &amp; 141 IPC)</span>
-                  </h4>
+                  </h5>
                   <p className="text-xs text-slate-600 leading-relaxed">
                     Threats are criminal intimidation under Section 351 BNS. Two or more agents gathering to threaten you form an unlawful assembly under Section 189 BNS.
                   </p>
@@ -649,7 +649,7 @@ export default function RecoveryAgentRefusingToLeaveHousePage() {
 
             {/* Section 4: Bank NPA Accounting & NPV Formula */}
             <section id="bank-npa-accounting-and-npv-formula" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">4. Bank NPA Accounting Dynamics</h2>
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">4. Bank NPA Accounting Dynamics</h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Banks hire third-party agencies on commission. These agencies often earn 12% to 25% of recovered funds.
               </p>
@@ -721,7 +721,7 @@ export default function RecoveryAgentRefusingToLeaveHousePage() {
 
             {/* Section 5: Infographic Banner */}
             <section id="doorstep-standoff-defense-roadmap" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">5. Doorstep Standoff Resolution Roadmap</h2>
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">5. Doorstep Standoff Resolution Roadmap</h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 The graphic shows how our lawyers stop doorstep standoffs. We guide clients through police removal, daily diary logging. And settlement deals.
               </p>
@@ -756,44 +756,44 @@ export default function RecoveryAgentRefusingToLeaveHousePage() {
 
             {/* Section 6: Emergency 112 Police Call & DD Entry Protocol */}
             <section id="emergency-112-police-and-dd-entry-protocol" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">6. The Emergency 112/100 Police Protocol</h2>
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">6. The Emergency 112/100 Police Protocol</h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 If an agent refuses to leave, follow this plan. Do not open the door or argue.
               </p>
 
               <div className="space-y-3 my-4">
                 <div className="p-4 rounded-xl border-l-4 border-blue-600 bg-slate-50 space-y-1">
-                  <h3 className="font-bold text-slate-900 text-xs sm:text-sm flex items-center gap-1.5">
+                  <h4 className="font-bold text-slate-900 text-xs sm:text-sm flex items-center gap-1.5">
                     <Lock className="w-4 h-4 text-blue-600" />
                     <span>Phase 1: Secure Entryway &amp; Record Video</span>
-                  </h3>
+                  </h4>
                   <p className="text-xs text-slate-600 leading-relaxed">
                     Keep your doors locked. Record video through your peephole or window. Capture the agent's face, shouting. And harassment. This recording provides vital legal proof.
                   </p>
                 </div>
                 <div className="p-4 rounded-xl border-l-4 border-indigo-600 bg-slate-50 space-y-1">
-                  <h4 className="font-bold text-slate-900 text-xs sm:text-sm flex items-center gap-1.5">
+                  <h5 className="font-bold text-slate-900 text-xs sm:text-sm flex items-center gap-1.5">
                     <Siren className="w-4 h-4 text-indigo-600" />
                     <span>Phase 2: Dial 112 (National Emergency Response System)</span>
-                  </h4>
+                  </h5>
                   <p className="text-xs text-slate-600 leading-relaxed">
                     Call 112. Give your address. Tell the operator: <em>"Men are blocking my door and scaring my family. Please send a PCR van."</em> Report this as criminal trespass.
                   </p>
                 </div>
                 <div className="p-4 rounded-xl border-l-4 border-purple-600 bg-slate-50 space-y-1">
-                  <h4 className="font-bold text-slate-900 text-xs sm:text-sm flex items-center gap-1.5">
+                  <h5 className="font-bold text-slate-900 text-xs sm:text-sm flex items-center gap-1.5">
                     <FileText className="w-4 h-4 text-purple-600" />
                     <span>Phase 3: Interact with Police</span>
-                  </h4>
+                  </h5>
                   <p className="text-xs text-slate-600 leading-relaxed">
                     Show the police your video. Cite Section 329 BNS for trespass and Section 270 BNS for public nuisance. Ask police to verify agent IDs.
                   </p>
                 </div>
                 <div className="p-4 rounded-xl border-l-4 border-emerald-600 bg-slate-50 space-y-1">
-                  <h4 className="font-bold text-slate-900 text-xs sm:text-sm flex items-center gap-1.5">
+                  <h5 className="font-bold text-slate-900 text-xs sm:text-sm flex items-center gap-1.5">
                     <FileCheck className="w-4 h-4 text-emerald-600" />
                     <span>Phase 4: Register a Daily Diary (DD) Entry</span>
-                  </h4>
+                  </h5>
                   <p className="text-xs text-slate-600 leading-relaxed">
                     After dispersal, file a formal complaint for a <strong>Daily Diary (DD) Entry</strong>. Ensure the receipt notes the bank and agency name. Keep the DD tracking number.
                   </p>
@@ -807,7 +807,7 @@ export default function RecoveryAgentRefusingToLeaveHousePage() {
 
             {/* Section 7: Society Byelaws & RWA Security Eviction */}
             <section id="apartment-association-rwa-eviction-strategy" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">7. RWA Byelaws &amp; Gated Security Rules</h2>
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">7. RWA Byelaws &amp; Gated Security Rules</h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 For apartment residents, society rules offer fast protection. State laws define corridors as private common property.
               </p>
@@ -843,7 +843,7 @@ export default function RecoveryAgentRefusingToLeaveHousePage() {
 
             {/* Section 8: Converting Harassment into 55% OTS & Sanction Forensics */}
             <section id="converting-standoff-into-ots-sanction-forensics" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">8. Converting Harassment into an Affordable Settlement</h2>
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">8. Converting Harassment into an Affordable Settlement</h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 A standoff shows collection desperation. By recording these events and filing a DD entry, you gain OTS leverage.
               </p>
@@ -874,9 +874,9 @@ export default function RecoveryAgentRefusingToLeaveHousePage() {
                 </p>
               </div>
 
-              <h3 className="text-base sm:text-lg font-bold text-slate-900 pt-2">
+              <h4 className="text-base sm:text-lg font-bold text-slate-900 pt-2">
                 Credit Score Rehabilitation
-              </h3>
+              </h4>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 After settlement, bureaus show a <strong>"Settled"</strong> tag with a <strong>₹0</strong> balance. While your score may drop initially, paying bills on time will help rebuild your score above 750 within 2 years.
               </p>
@@ -884,7 +884,7 @@ export default function RecoveryAgentRefusingToLeaveHousePage() {
 
             {/* Section 9: Comparative Legal Defense Matrix */}
             <section id="comparative-standoff-defense-matrix" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">9. Standoff Legal Remedies Matrix</h2>
+              <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">9. Standoff Legal Remedies Matrix</h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Comparing remedies helps you act effectively to safeguard your family and finances:
               </p>
@@ -926,7 +926,7 @@ export default function RecoveryAgentRefusingToLeaveHousePage() {
             {/* Section 10: SettleLoans Legal Defense & Advisory + CompanySection */}
             <section id="company-resolution-section" className="space-y-6">
               <div className="border-t border-slate-200 pt-8 space-y-4">
-                <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">10. SettleLoans Legal Defense for Dharna Tactics</h2>
+                <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">10. SettleLoans Legal Defense for Dharna Tactics</h3>
                 <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                   Handling standoffs requires expert banking advocates. We know how to enforce RBI rules, cite Supreme Court rulings. And file police complaints. SettleLoans provides complete defense. We notify bank heads, file Ombudsman complaints, coordinate police help. And negotiate 45%–65% OTS waivers with NDCs.
                 </p>
@@ -940,7 +940,7 @@ export default function RecoveryAgentRefusingToLeaveHousePage() {
             <section id="faqs" className="space-y-4 border-t border-slate-200 pt-8">
               <div className="flex items-center gap-2 mb-2">
                 <HelpCircle className="w-5 h-5 text-[#1F5EFF]" />
-                <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">11. FAQs: Recovery Agent Standoffs &amp; Legal Defenses</h2>
+                <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">11. FAQs: Recovery Agent Standoffs &amp; Legal Defenses</h3>
               </div>
               <p className="text-xs sm:text-sm text-slate-600 mb-6">
                 Verified answers to questions about standoffs, police steps, DD entries. And debt settlement.
@@ -970,9 +970,9 @@ export default function RecoveryAgentRefusingToLeaveHousePage() {
 
             {/* 5 Official Regulatory Links */}
             <section className="border-t border-slate-200 pt-8 mb-4">
-              <h3 className="text-xs sm:text-sm font-bold text-slate-900 mb-3 uppercase tracking-wider">
+              <h4 className="text-xs sm:text-sm font-bold text-slate-900 mb-3 uppercase tracking-wider">
                 Official Regulatory References
-              </h3>
+              </h4>
               <div className="grid grid-cols-1 sm:grid-cols-2 gap-2.5 text-xs">
                 <a
                   href="https://indiacode.gov.in/handle/123456789/2263"
@@ -1024,9 +1024,9 @@ export default function RecoveryAgentRefusingToLeaveHousePage() {
 
             {/* 10 Related Guide Badges */}
             <section className="border-t border-slate-200 pt-8 mb-8">
-              <h3 className="text-xs sm:text-sm font-bold text-slate-900 mb-4 uppercase tracking-wider">
+              <h4 className="text-xs sm:text-sm font-bold text-slate-900 mb-4 uppercase tracking-wider">
                 Related Resolution Guides
-              </h3>
+              </h4>
               <div className="flex flex-wrap gap-2">
                 <Link
                   href="/can-recovery-agents-enter-house-without-permission"

@@ -196,7 +196,7 @@ export default function ArcLoanAssignmentPage() {
                         </section>
 
                         <section id="what-is-arc" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">What is an Asset Reconstruction Company (ARC)?</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">What is an Asset Reconstruction Company (ARC)?</h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 An ARC is a specialized financial institution that buys non-performing assets (NPAs) from banks at a discount. They act as "debt aggregators" who then attempt to recover the full amount from the borrower through SARFAESI measures, settlements, or management takeover. In India, ARCs like ARCIL, Edelweiss ARC, and JM Financial ARC play a massive role in the stressed asset market.
                             </p>
@@ -204,7 +204,7 @@ export default function ArcLoanAssignmentPage() {
                                 Under the SARFAESI Act, ARCs are regulated entities. They are not recovery agents; they are "deemed lenders." This distinction is vital. While a recovery agent can be stopped by local police for harassment, an ARC must be fought in the courts with technical legal arguments. Their authority comes from Section 5 and Section 13 of the SARFAESI Act, and their operations are overseen by the RBI's Department of Regulation.
                             </p>
                             <div className="bg-blue-50 p-8 rounded-xl border border-blue-200 my-8">
-                                <h3 className="font-bold text-blue-900 mb-4 text-xl">The Discount Factor: Why it Matters for Your Defense</h3>
+                                <h4 className="font-bold text-blue-900 mb-4 text-xl">The Discount Factor: Why it Matters for Your Defense</h4>
                                 <p className="text-base text-blue-800 leading-relaxed mb-4">
                                     Banks usually sell loans to ARCs for 30% to 50% of the book value. This means the ARC's "cost of acquisition" is significantly lower than your actual debt. While the ARC is legally entitled to claim the full amount, knowing the acquisition cost provides vital leverage during One-Time Settlement (OTS) negotiations.
                                 </p>
@@ -215,7 +215,7 @@ export default function ArcLoanAssignmentPage() {
                         </section>
 
                         <section id="section-5-sarfaesi" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">Deconstructing Section 5 of the SARFAESI Act</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">Deconstructing Section 5 of the SARFAESI Act</h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 Section 5 is the "heart" of the assignment process. It allows an ARC to acquire financial assets by issuing debentures or bonds, or by entering into an agreement with the bank. Under Section 5(2), once the asset is acquired, the ARC is "deemed" to be the original lender for all legal purposes.
                             </p>
@@ -225,7 +225,7 @@ export default function ArcLoanAssignmentPage() {
                         </section>
 
                         <section id="substitution-proceedings" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">Section 5(5): Substitution in Pending Proceedings</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">Section 5(5): Substitution in Pending Proceedings</h3>
                             <p className="text-lg leading-relaxed mb-6 font-bold">
                                 A critical but often overlooked defense lies in Section 5(5) of the SARFAESI Act.
                             </p>
@@ -233,7 +233,7 @@ export default function ArcLoanAssignmentPage() {
                                 If the bank has already initiated legal proceedings (like an Original Application in DRT) before assigning the loan to the ARC, the ARC must apply to the court for "substitution" of its name in place of the bank. This is not automatic.
                             </p>
                             <div className="bg-orange-50 p-8 rounded-xl border border-orange-200 my-8">
-                                <h3 className="font-bold text-orange-900 mb-4 text-xl">The Substitution Trap</h3>
+                                <h4 className="font-bold text-orange-900 mb-4 text-xl">The Substitution Trap</h4>
                                 <p className="text-base text-orange-800 leading-relaxed">
                                     Many ARCs continue the old proceedings without obtaining a formal order of substitution from the DRT. If the ARC issues a fresh SARFAESI notice while the substitution is pending or not applied for, the entire action can be challenged as lacking "locus standi" (the right to sue). Our lawyers meticulously audit the court records to find these procedural gaps.
                                 </p>
@@ -241,10 +241,10 @@ export default function ArcLoanAssignmentPage() {
                         </section>
 
                         <section id="technical-grounds" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">Technical Grounds to Challenge ARC Assignments</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">Technical Grounds to Challenge ARC Assignments</h3>
                             <div className="space-y-8">
                                 <div className="border-l-4 border-[#1F5EFF] pl-6 py-2">
-                                    <h3 className="text-2xl font-bold text-[#2E2E2E] mb-4">1. Defective Assignment Deed</h3>
+                                    <h4 className="text-2xl font-bold text-[#2E2E2E] mb-4">1. Defective Assignment Deed</h4>
                                     <p className="text-base text-gray-700 leading-relaxed mb-4">
                                         An assignment of an immovable property mortgage must be registered under the Registration Act, 1908. Many ARCs attempt to skirt this by claiming the "deeming provision" bypasses registration. We challenge this in DRT based on Supreme Court precedents requiring proper registration for the transfer of "interest in immovable property."
                                     </p>
@@ -253,13 +253,13 @@ export default function ArcLoanAssignmentPage() {
                                     </p>
                                 </div>
                                 <div className="border-l-4 border-[#1F5EFF] pl-6 py-2">
-                                    <h3 className="text-2xl font-bold text-[#2E2E2E] mb-4">2. Non-Compliance with RBI Transfer Directions 2021</h3>
+                                    <h4 className="text-2xl font-bold text-[#2E2E2E] mb-4">2. Non-Compliance with RBI Transfer Directions 2021</h4>
                                     <p className="text-base text-gray-700 leading-relaxed">
                                         The RBI issued the 'Transfer of Loan Exposures Directions' in 2021, mandating a 'Minimum Holding Period' (MHP) before a bank can sell a loan. If the bank sold your loan before the MHP expired, the assignment is void ab initio.
                                     </p>
                                 </div>
                                 <div className="border-l-4 border-[#1F5EFF] pl-6 py-2">
-                                    <h3 className="text-2xl font-bold text-[#2E2E2E] mb-4">3. Fraudulent Valuation of Security</h3>
+                                    <h4 className="text-2xl font-bold text-[#2E2E2E] mb-4">3. Fraudulent Valuation of Security</h4>
                                     <p className="text-base text-gray-700 leading-relaxed">
                                         If the bank sold the asset to an ARC at a "grossly undervalued" price without a transparent bidding process, it can be challenged as a fraud on the borrower's equity. RBI's Master Directions require a fair valuation by an independent valuer before any debt transfer.
                                     </p>
@@ -268,7 +268,7 @@ export default function ArcLoanAssignmentPage() {
                         </section>
 
                         <section id="registration-act-impact" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">Impact of the Registration Act, 1908</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">Impact of the Registration Act, 1908</h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 Section 17(1)(b) of the Registration Act makes the registration of documents transfering an interest in immovable property mandatory. Since a mortgage is a "transfer of interest in immovable property," its assignment must be registered.
                             </p>
@@ -278,7 +278,7 @@ export default function ArcLoanAssignmentPage() {
                         </section>
 
                         <section id="stamp-duty-variations" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">State-wise Stamp Duty Impact on Assignments</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">State-wise Stamp Duty Impact on Assignments</h3>
                             <p className="text-lg leading-relaxed mb-8">
                                 Stamp duty on debt assignment is a state subject in India. ARCs often attempt to pay the lowest possible stamp duty by executing documents in states with lower rates (like Maharashtra or Gujarat) even if the property is located in another state (like Karnataka or Tamil Nadu).
                             </p>
@@ -316,22 +316,22 @@ export default function ArcLoanAssignmentPage() {
                         </section>
 
                         <section id="case-laws" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">Significant Case Laws for ARC Defense</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">Significant Case Laws for ARC Defense</h3>
                             <div className="space-y-6">
                                 <div className="bg-gray-50 p-6 rounded-xl border border-gray-200">
-                                    <h3 className="font-bold text-[#1F5EFF] mb-2">Phoenix ARC Pvt. Ltd. vs. Vishwa Bharati Vidya Mandir</h3>
+                                    <h4 className="font-bold text-[#1F5EFF] mb-2">Phoenix ARC Pvt. Ltd. vs. Vishwa Bharati Vidya Mandir</h4>
                                     <p className="text-sm text-gray-600 leading-relaxed italic">
                                         The Supreme Court clarified that the proper remedy for a borrower aggrieved by ARC actions under Section 13(4) is to file an application under Section 17 of the SARFAESI Act before the DRT. This underscores the importance of a strong DRT strategy rather than filing writ petitions in High Courts.
                                     </p>
                                 </div>
                                 <div className="bg-gray-50 p-6 rounded-xl border border-gray-200">
-                                    <h4 className="font-bold text-[#1F5EFF] mb-2">ICICI Bank Ltd. vs. Official Liquidator of APS Star Industries</h4>
+                                    <h5 className="font-bold text-[#1F5EFF] mb-2">ICICI Bank Ltd. vs. Official Liquidator of APS Star Industries</h5>
                                     <p className="text-sm text-gray-600 leading-relaxed italic">
                                         This landmark judgment affirmed the bank's right to assign debt, yet it strictly defined "financial assets." If the asset assigned does not fit the legal definition under the SARFAESI Act, the assignment is vulnerable to challenge.
                                     </p>
                                 </div>
                                 <div className="bg-gray-50 p-6 rounded-xl border border-gray-200">
-                                    <h4 className="font-bold text-[#1F5EFF] mb-2">UV Asset Reconstruction Co. Ltd. vs. Union of India</h4>
+                                    <h5 className="font-bold text-[#1F5EFF] mb-2">UV Asset Reconstruction Co. Ltd. vs. Union of India</h5>
                                     <p className="text-sm text-gray-600 leading-relaxed italic">
                                         The Delhi High Court highlighted that while an ARC acquires the rights of the lender, it also inherits the lender's liabilities and the borrower's existing rights against the bank. This means any dispute you had with the original bank carries over to the ARC.
                                     </p>
@@ -340,7 +340,7 @@ export default function ArcLoanAssignmentPage() {
                         </section>
 
                         <section id="rbi-directions-2021" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">RBI Master Directions 2021: The New Legal Shield</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">RBI Master Directions 2021: The New Legal Shield</h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 The 2021 RBI Directions created a more transparent framework for debt sales. Key protections for borrowers now include:
                             </p>
@@ -352,74 +352,74 @@ export default function ArcLoanAssignmentPage() {
                         </section>
 
                         <section id="borrower-action-guide" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">Step-by-Step Guide for Borrowers</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">Step-by-Step Guide for Borrowers</h3>
                             <p className="text-lg leading-relaxed mb-8">
                                 When you receive a notice from an ARC (usually a notice of assignment followed by a 13(2) notice), follow these steps to protect your position:
                             </p>
                             <div className="grid md:grid-cols-2 gap-8 my-10">
                                 <div className="p-6 bg-white border border-[#DEDEDE] rounded-xl shadow-sm">
                                     <div className="w-10 h-10 bg-[#1F5EFF] text-white rounded-full flex items-center justify-center font-bold mb-4">1</div>
-                                    <h3 className="font-bold mb-2 uppercase text-xs tracking-widest text-gray-500">Document Request</h3>
+                                    <h4 className="font-bold mb-2 uppercase text-xs tracking-widest text-gray-500">Document Request</h4>
                                     <p className="text-sm">Write a formal letter to both the Bank and the ARC requesting a copy of the Certified Assignment Deed and the Proof of Registration.</p>
                                 </div>
                                 <div className="p-6 bg-white border border-[#DEDEDE] rounded-xl shadow-sm">
                                     <div className="w-10 h-10 bg-[#1F5EFF] text-white rounded-full flex items-center justify-center font-bold mb-4">2</div>
-                                    <h4 className="font-bold mb-2 uppercase text-xs tracking-widest text-gray-500">Statement Audit</h4>
+                                    <h5 className="font-bold mb-2 uppercase text-xs tracking-widest text-gray-500">Statement Audit</h5>
                                     <p className="text-sm">Analyze your bank statements to check if the NPA classification was correct. Banks often backdate NPAs to facilitate a bulk sale to an ARC.</p>
                                 </div>
                                 <div className="p-6 bg-white border border-[#DEDEDE] rounded-xl shadow-sm">
                                     <div className="w-10 h-10 bg-[#1F5EFF] text-white rounded-full flex items-center justify-center font-bold mb-4">3</div>
-                                    <h4 className="font-bold mb-2 uppercase text-xs tracking-widest text-gray-500">Legal Representation</h4>
+                                    <h5 className="font-bold mb-2 uppercase text-xs tracking-widest text-gray-500">Legal Representation</h5>
                                     <p className="text-sm">Engage a DRT specialist to file a Securitization Application (SA). This is the only way to get a stay on physical possession.</p>
                                 </div>
                                 <div className="p-6 bg-white border border-[#DEDEDE] rounded-xl shadow-sm">
                                     <div className="w-10 h-10 bg-[#1F5EFF] text-white rounded-full flex items-center justify-center font-bold mb-4">4</div>
-                                    <h4 className="font-bold mb-2 uppercase text-xs tracking-widest text-gray-500">OTS Proposal</h4>
+                                    <h5 className="font-bold mb-2 uppercase text-xs tracking-widest text-gray-500">OTS Proposal</h5>
                                     <p className="text-sm">Once the legal pressure is applied and you've identified errors, propose a One-Time Settlement based on the ARC's acquisition cost.</p>
                                 </div>
                             </div>
                         </section>
 
                         <section id="assignment-deed-validity" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">The Forensic Audit of Assignment Deeds</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">The Forensic Audit of Assignment Deeds</h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 We don't just read the deed; we perform a forensic check on the schedules, the stamp duty paid in the specific state, and the "substitution of parties" clauses. An incorrectly prepared "Schedule of Properties" can invalidate the ARC's claim to your specific house or factory.
                             </p>
                         </section>
 
                         <section id="npa-classification" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">The "Pre-Assignment NPA" Requirement</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">The "Pre-Assignment NPA" Requirement</h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 For a loan to be assigned to an ARC under SARFAESI, it MUST be an NPA in the original bank's books. We often find that banks classify accounts as NPA prematurely (before 90 days) to facilitate a quick sale to an ARC. If the NPA classification was illegal, the subsequent sale is also illegal.
                             </p>
                         </section>
 
                         <section id="drt-defense-strategies" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">Winning in the DRT against ARCs</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">Winning in the DRT against ARCs</h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 Defense in the Debt Recovery Tribunal requires a multi-pronged approach:
                             </p>
                             <div className="grid md:grid-cols-2 gap-6 mb-8">
                                 <div className="bg-gray-50 p-6 rounded-xl border border-gray-200">
-                                    <h3 className="font-bold mb-2">Interim Stay Orders</h3>
+                                    <h4 className="font-bold mb-2">Interim Stay Orders</h4>
                                     <p className="text-sm">Obtaining a stay on the Section 14 physical possession by pointing out assignment deed flaws.</p>
                                 </div>
                                 <div className="bg-gray-50 p-6 rounded-xl border border-gray-200">
-                                    <h4 className="font-bold mb-2">Quashing 13(2) Notices</h4>
+                                    <h5 className="font-bold mb-2">Quashing 13(2) Notices</h5>
                                     <p className="text-sm">Challenging the ARC's right to issue fresh notices based on old bank data.</p>
                                 </div>
                             </div>
                         </section>
 
                         <section id="ots-negotiation" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">One-Time Settlement (OTS) with ARCs</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">One-Time Settlement (OTS) with ARCs</h3>
                             <p className="text-lg leading-relaxed mb-6">
                                 ARCs are more flexible than banks because they aren't bogged down by the same bureaucratic vigilance. We use our legal challenges to "soften" the ARC's stance, leading to settlements that are up to 60% lower than the outstanding principal.
                             </p>
                         </section>
 
                         <section id="success-stories" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 text-center">Real Success Stories in ARC Defense</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 text-center">Real Success Stories in ARC Defense</h3>
                             <div className="grid md:grid-cols-2 gap-10 not-prose">
                                 {[
                                     {
@@ -439,7 +439,7 @@ export default function ArcLoanAssignmentPage() {
                                         <div className="flex items-center mb-4">
                                             <div className="w-10 h-10 rounded-full bg-blue-100 flex items-center justify-center font-bold text-blue-600 mr-3">{review.name.charAt(0)}</div>
                                             <div>
-                                                <h3 className="font-bold text-[#2E2E2E]">{review.name}</h3>
+                                                <h4 className="font-bold text-[#2E2E2E]">{review.name}</h4>
                                                 <p className="text-xs text-gray-400">{review.loc}</p>
                                             </div>
                                             <div className="ml-auto text-yellow-400 text-sm">★★★★★</div>
@@ -454,7 +454,7 @@ export default function ArcLoanAssignmentPage() {
                         </section>
 
                         <section id="faqs" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">ARC Dispute & Legal Defense FAQs</h2>
+                            <h3 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">ARC Dispute & Legal Defense FAQs</h3>
                             <div className="space-y-6 not-prose">
                                 {[
                                     { q: "What should I do if I get a notice from an ARC?", a: "Immediately verify the Assignment Deed. Most borrowers ignore ARC notices, giving them a free hand. A legal review of the transfer documents should be your first step." },
